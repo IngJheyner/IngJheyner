@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/frase-delata-bot-spam-contaminando-web-contenido-generado-ia-1235928'>Esta frase delata a un bot de spam contaminando la web con contenido generado por IA</a></h4>
-    <a href='https://computerhoy.com/internet/frase-delata-bot-spam-contaminando-web-contenido-generado-ia-1235928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/stop-spam-2573275.jpg?tf=1200x' alt='Esta frase delata a un bot de spam contaminando la web con contenido generado por IA' />
+    <h4><a href='https://computerhoy.com/windows/7-aplicaciones-windows-11-mejoraran-seguridad-ordenador-1235912'>7 aplicaciones para Windows 11 que mejorarán la seguridad de tu ordenador</a></h4>
+    <a href='https://computerhoy.com/windows/7-aplicaciones-windows-11-mejoraran-seguridad-ordenador-1235912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='7 aplicaciones para Windows 11 que mejorarán la seguridad de tu ordenador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/mogo-2-mogo-2-pro-son-nuevos-proyectores-portatiles-xgimi-1235940'>MoGo 2 y MoGo 2 Pro: así son los nuevos proyectores portátiles de XGIMI</a></h4>
-    <a href='https://computerhoy.com/tv/mogo-2-mogo-2-pro-son-nuevos-proyectores-portatiles-xgimi-1235940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mogo-2-mogo-2-pro-son-nuevos-proyectores-portatiles-xgimi-3018434.jpg?tf=1200x' alt='MoGo 2 y MoGo 2 Pro: así son los nuevos proyectores portátiles de XGIMI' />
+    <h4><a href='https://computerhoy.com/apps/nueva-funcionalidad-bizum-te-facilita-pagar-tiendas-favoritas-1235960'>Esta es la nueva funcionalidad de Bizum que te facilita pagar en tus tiendas favoritas</a></h4>
+    <a href='https://computerhoy.com/apps/nueva-funcionalidad-bizum-te-facilita-pagar-tiendas-favoritas-1235960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-2352021.jpg?tf=1200x' alt='Esta es la nueva funcionalidad de Bizum que te facilita pagar en tus tiendas favoritas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-alternativas-chromecast-puedes-comprar-amazon-572101'>5 alternativas al Chromecast que sí puedes comprar en Amazon</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-alternativas-chromecast-puedes-comprar-amazon-572101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-chromecast-2926538.jpg?tf=1200x' alt='5 alternativas al Chromecast que sí puedes comprar en Amazon' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-cada-vez-cerca-estar-prohibido-ue-alemania-une-espana-italia-investigara-uso-datos-openai-1235910'>ChatGPT cada vez más cerca de estar prohibido en la UE: Alemania se une a España e Italia e investigará el uso de datos de OpenAI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-cada-vez-cerca-estar-prohibido-ue-alemania-une-espana-italia-investigara-uso-datos-openai-1235910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-funciona-autogpt-peligrosa-ia-deja-obsoleto-propio-chatgpt-3008874.jpg?tf=1200x' alt='ChatGPT cada vez más cerca de estar prohibido en la UE: Alemania se une a España e Italia e investigará el uso de datos de OpenAI' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ia-genera-fotos-celebridades-comiendo-cemento-1235876'>Una IA genera fotos de famosos comiendo cemento y es lo más raro que hemos visto últimamente </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ia-genera-fotos-celebridades-comiendo-cemento-1235876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/concurso-comer-cemento-famosos-3018374.jpg?tf=1200x' alt='Una IA genera fotos de famosos comiendo cemento y es lo más raro que hemos visto últimamente ' />
+    <h4><a href='https://computerhoy.com/life/japones-ayuda-desaparecer-personas-evaporadas-1235958'>El japonés que ayuda a desaparecer a personas sin dejar rastro, en medio de la noche </a></h4>
+    <a href='https://computerhoy.com/life/japones-ayuda-desaparecer-personas-evaporadas-1235958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/japones-ayuda-desaparecer-personas-dejar-rastro-medio-noche-3018494.jpg?tf=1200x' alt='El japonés que ayuda a desaparecer a personas sin dejar rastro, en medio de la noche ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/truco-gmail-crear-cuentas-correo-infinitas-1235900'>El truco de Gmail con el que crear cuentas de correo infinitas</a></h4>
-    <a href='https://computerhoy.com/google/truco-gmail-crear-cuentas-correo-infinitas-1235900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/persona-usando-gmail-2553633.jpg?tf=1200x' alt='El truco de Gmail con el que crear cuentas de correo infinitas' />
+    <h4><a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-ha-detectado-cumulo-galaxias-lejano-jamas-visto-1235956'>El telescopio espacial James Webb ha detectado el cúmulo de galaxias más lejano jamás visto</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-ha-detectado-cumulo-galaxias-lejano-jamas-visto-1235956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/galaxias-3018502.jpg?tf=1200x' alt='El telescopio espacial James Webb ha detectado el cúmulo de galaxias más lejano jamás visto' />
     </a>
 </div>
 
