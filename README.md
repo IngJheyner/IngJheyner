@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/autenticador-google-soluciona-problema-pierdes-movil-sincronizar-cuenta-1235384'>El autenticador de Google al fin añade una característica que los usuarios llevaban 13 años pidiendo</a></h4>
+    <a href='https://computerhoy.com/google/autenticador-google-soluciona-problema-pierdes-movil-sincronizar-cuenta-1235384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/autentificador-google-3017464.jpg?tf=1200x' alt='El autenticador de Google al fin añade una característica que los usuarios llevaban 13 años pidiendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-kindle-microsoft-word-ya-son-oficialmente-amigos-1235372'>Amazon Kindle y Microsoft Word ya son oficialmente amigos</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-kindle-microsoft-word-ya-son-oficialmente-amigos-1235372' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/kindle-scribe-2828135.jpg?tf=1200x' alt='Amazon Kindle y Microsoft Word ya son oficialmente amigos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/paga-43000-euros-poder-hacer-unboxing-youtube-primer-iphone-1235358'>Paga más de 43.000 euros para poder hacer un unboxing en YouTube del primer iPhone</a></h4>
     <a href='https://computerhoy.com/apple/paga-43000-euros-poder-hacer-unboxing-youtube-primer-iphone-1235358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/paga-43000-euros-poder-hacer-unboxing-youtube-primer-iphone-3017412.jpg?tf=1200x' alt='Paga más de 43.000 euros para poder hacer un unboxing en YouTube del primer iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/directora-tecnologia-openai-mira-murati-admite-chatgpt-tiene-ser-regulado-autoridades-1235330'>La propia directora de tecnología de OpenAI admite que ChatGPT tiene que ser regulado por las autoridades</a></h4>
-    <a href='https://computerhoy.com/tecnologia/directora-tecnologia-openai-mira-murati-admite-chatgpt-tiene-ser-regulado-autoridades-1235330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aprueba-chatgpt-test-turing-2996706.jpg?tf=1200x' alt='La propia directora de tecnología de OpenAI admite que ChatGPT tiene que ser regulado por las autoridades' />
     </a>
 </div>
 
