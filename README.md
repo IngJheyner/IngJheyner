@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/curioso-problema-matematico-sigue-dividiendo-internet-1235616'>El problema matemático que sigue dividiendo Internet, cada persona obtiene un resultado diferente</a></h4>
+    <a href='https://computerhoy.com/ciencia/curioso-problema-matematico-sigue-dividiendo-internet-1235616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/problema-matematico-sigue-dividiendo-internet-cada-persona-obtiene-resultado-diferente-3017698.jpg?tf=1200x' alt='El problema matemático que sigue dividiendo Internet, cada persona obtiene un resultado diferente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/gestores-contrasenas-1235216'>Mantén tus contraseñas a salvo con los mejores gestores de contraseñas</a></h4>
+    <a href='https://computerhoy.com/mejores/gestores-contrasenas-1235216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/contrasenas-3017188.jpg?tf=1200x' alt='Mantén tus contraseñas a salvo con los mejores gestores de contraseñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/fabricacion-pantalones-vaqueros-rotos-abuso-laboral-tecnologia-segura-1235610'>La polémica con los pantalones vaqueros rotos: ¿abuso laboral o tecnología segura?</a></h4>
+    <a href='https://computerhoy.com/life/fabricacion-pantalones-vaqueros-rotos-abuso-laboral-tecnologia-segura-1235610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/polemica-pantalones-vaqueros-rotos-abuso-laboral-tecnologia-limpia-3017694.jpg?tf=1200x' alt='La polémica con los pantalones vaqueros rotos: ¿abuso laboral o tecnología segura?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/sonda-emiratos-arabes-envia-foto-nitida-luna-deimos-marte-1235608'>La sonda de Emiratos Árabes envía la foto más espectacular de la luna Deimos de Marte, y descubre su origen</a></h4>
     <a href='https://computerhoy.com/espacio/sonda-emiratos-arabes-envia-foto-nitida-luna-deimos-marte-1235608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sonda-emiratos-arabes-envia-foto-espectacular-luna-deimos-marte-descubre-nuevos-secretos-3017692.jpg?tf=1200x' alt='La sonda de Emiratos Árabes envía la foto más espectacular de la luna Deimos de Marte, y descubre su origen' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/autenticador-google-soluciona-problema-pierdes-movil-sincronizar-cuenta-1235384'>El autenticador de Google al fin añade una característica que los usuarios llevaban 13 años pidiendo</a></h4>
     <a href='https://computerhoy.com/google/autenticador-google-soluciona-problema-pierdes-movil-sincronizar-cuenta-1235384' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/autentificador-google-3017464.jpg?tf=1200x' alt='El autenticador de Google al fin añade una característica que los usuarios llevaban 13 años pidiendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-kindle-microsoft-word-ya-son-oficialmente-amigos-1235372'>Amazon Kindle y Microsoft Word ya son oficialmente amigos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-kindle-microsoft-word-ya-son-oficialmente-amigos-1235372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/kindle-scribe-2828135.jpg?tf=1200x' alt='Amazon Kindle y Microsoft Word ya son oficialmente amigos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/skyshowtime-estrenos-mayo-frasier-twin-peaks-1235374'>SkyShowtime recupera las dos series más icónicas de los 90, entre sus estrenos de mayo</a></h4>
-    <a href='https://computerhoy.com/streaming/skyshowtime-estrenos-mayo-frasier-twin-peaks-1235374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/skyshowtime-recupera-dos-series-iconicas-90-estrenos-mayo-3017400.jpg?tf=1200x' alt='SkyShowtime recupera las dos series más icónicas de los 90, entre sus estrenos de mayo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-peligroso-mensaje-siendo-difundido-whatsapp-1235360'>Guardia Civil alerta de un peligroso mensaje que está siendo difundido por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-peligroso-mensaje-siendo-difundido-whatsapp-1235360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/whatsapp-2708557.jpg?tf=1200x' alt='Guardia Civil alerta de un peligroso mensaje que está siendo difundido por WhatsApp' />
     </a>
 </div>
 
