@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/google-cloud-pone-prueba-nuevos-chips-intel-encuentra-varios-fallos-seguridad-1235708'>Google Cloud pone a prueba los nuevos chips de Intel y encuentra varios fallos de seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/google-cloud-pone-prueba-nuevos-chips-intel-encuentra-varios-fallos-seguridad-1235708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-cloud-pone-prueba-nuevos-chips-intel-encuentra-varios-fallos-seguridad-3017956.jpg?tf=1200x' alt='Google Cloud pone a prueba los nuevos chips de Intel y encuentra varios fallos de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/twitter-regala-verificacion-cuentas-celebridades-fallecidas-1234782'>Famosos fallecidos como Kobe Bryant o Pelé "se suscriben" a Twitter Blue desde la tumba: tienen la insignia en su perfil</a></h4>
+    <a href='https://computerhoy.com/apps/twitter-regala-verificacion-cuentas-celebridades-fallecidas-1234782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verdad-twitter-eliminara-hoy-insignia-verificacion-no-ser-pagues-ella-3013732.jpg?tf=1200x' alt='Famosos fallecidos como Kobe Bryant o Pelé "se suscriben" a Twitter Blue desde la tumba: tienen la insignia en su perfil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/consiguen-hackear-chatgpt-genere-texto-pornografico-1235672'>Consiguen hackear ChatGPT para que genere texto pornográfico</a></h4>
+    <a href='https://computerhoy.com/consiguen-hackear-chatgpt-genere-texto-pornografico-1235672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/consiguen-hackear-chatgpt-genere-texto-pornografico-3017862.jpg?tf=1200x' alt='Consiguen hackear ChatGPT para que genere texto pornográfico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-anota-otra-victoria-batalla-epic-games-1235656'>Apple se anota otra victoria en la batalla de la App Store contra Epic Games</a></h4>
     <a href='https://computerhoy.com/apple/apple-anota-otra-victoria-batalla-epic-games-1235656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/apple-anota-otra-victoria-batalla-app-store-epic-games-3017822.jpg?tf=1200x' alt='Apple se anota otra victoria en la batalla de la App Store contra Epic Games' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/amd-tiene-nuevas-gpu-camino-prometen-sorprender-sabemos-1235390'>AMD tiene nuevas GPU en camino y prometen sorprender, esto es lo que sabemos</a></h4>
     <a href='https://computerhoy.com/pc/amd-tiene-nuevas-gpu-camino-prometen-sorprender-sabemos-1235390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sapphire-pulse-amd-radeon-rx-7900-xt-3014702.jpg?tf=1200x' alt='AMD tiene nuevas GPU en camino y prometen sorprender, esto es lo que sabemos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/encuentran-camara-oculta-gran-piramide-guiza-1235644'>Encuentran una cámara oculta en la Gran Pirámide de Guiza</a></h4>
-    <a href='https://computerhoy.com/ciencia/encuentran-camara-oculta-gran-piramide-guiza-1235644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/encuentran-camara-oculta-gran-piramide-giza-3017706.jpg?tf=1200x' alt='Encuentran una cámara oculta en la Gran Pirámide de Guiza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/comandos-rapidos-chrome-como-activarlos-sirven-1235354'>Comandos rápidos de Chrome: cómo activarlos y para qué sirven</a></h4>
-    <a href='https://computerhoy.com/tutoriales/comandos-rapidos-chrome-como-activarlos-sirven-1235354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/teclado-google-chrome-2406123.jpg?tf=1200x' alt='Comandos rápidos de Chrome: cómo activarlos y para qué sirven' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/apple-macbook-pro-16-m2-max-2023-analisis-review-caracteristicas-precio-1231358'>Apple MacBook Pro de 16” con M2 Max (2023), potencia y calidad al alcance de muy pocos</a></h4>
-    <a href='https://computerhoy.com/analisis/apple-macbook-pro-16-m2-max-2023-analisis-review-caracteristicas-precio-1231358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/macbook-pro-16-m2-max-analisis-opinion-3015952.jpg?tf=1200x' alt='Apple MacBook Pro de 16” con M2 Max (2023), potencia y calidad al alcance de muy pocos' />
     </a>
 </div>
 
