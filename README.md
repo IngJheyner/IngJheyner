@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/asus-rog-ally-nueva-consola-portatil-windows-11-quiere-desbancar-steam-deck-1235840'>ASUS ROG Ally: así es la nueva consola portátil con Windows 11 que quiere desbancar a la Steam Deck</a></h4>
+    <a href='https://computerhoy.com/tecnologia/asus-rog-ally-nueva-consola-portatil-windows-11-quiere-desbancar-steam-deck-1235840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/asus-rog-ally-nueva-consola-portatil-windows-11-quiere-desbancar-steam-deck-3018258.jpg?tf=1200x' alt='ASUS ROG Ally: así es la nueva consola portátil con Windows 11 que quiere desbancar a la Steam Deck' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-proyectores-puedes-comprar-4k-full-hd-portatiles-1056845'>Mejores proyectores que puedes comprar: 4K, Full HD y portátiles</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-proyectores-puedes-comprar-4k-full-hd-portatiles-1056845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/proyector-2694963.jpg?tf=1200x' alt='Mejores proyectores que puedes comprar: 4K, Full HD y portátiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/nueva-funcionalidad-llegara-whatsapp-copia-telegram-1235736'>La nueva funcionalidad que llegará a WhatsApp y que es una copia de Telegram</a></h4>
+    <a href='https://computerhoy.com/apps/nueva-funcionalidad-llegara-whatsapp-copia-telegram-1235736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nueva-funcionalidad-llegara-whatsapp-copia-telegram-3018004.jpg?tf=1200x' alt='La nueva funcionalidad que llegará a WhatsApp y que es una copia de Telegram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/google-cloud-pone-prueba-nuevos-chips-intel-encuentra-varios-fallos-seguridad-1235708'>Google Cloud pone a prueba los nuevos chips de Intel y encuentra varios fallos de seguridad</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/google-cloud-pone-prueba-nuevos-chips-intel-encuentra-varios-fallos-seguridad-1235708' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-cloud-pone-prueba-nuevos-chips-intel-encuentra-varios-fallos-seguridad-3017956.jpg?tf=1200x' alt='Google Cloud pone a prueba los nuevos chips de Intel y encuentra varios fallos de seguridad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/twitter-regala-verificacion-cuentas-celebridades-fallecidas-1234782'>Famosos fallecidos como Kobe Bryant o Pelé "se suscriben" a Twitter Blue desde la tumba: tienen la insignia en su perfil</a></h4>
     <a href='https://computerhoy.com/apps/twitter-regala-verificacion-cuentas-celebridades-fallecidas-1234782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verdad-twitter-eliminara-hoy-insignia-verificacion-no-ser-pagues-ella-3013732.jpg?tf=1200x' alt='Famosos fallecidos como Kobe Bryant o Pelé "se suscriben" a Twitter Blue desde la tumba: tienen la insignia en su perfil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/consiguen-hackear-chatgpt-genere-texto-pornografico-1235672'>Consiguen hackear ChatGPT para que genere texto pornográfico</a></h4>
-    <a href='https://computerhoy.com/consiguen-hackear-chatgpt-genere-texto-pornografico-1235672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/consiguen-hackear-chatgpt-genere-texto-pornografico-3017862.jpg?tf=1200x' alt='Consiguen hackear ChatGPT para que genere texto pornográfico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-anota-otra-victoria-batalla-epic-games-1235656'>Apple se anota otra victoria en la batalla de la App Store contra Epic Games</a></h4>
-    <a href='https://computerhoy.com/apple/apple-anota-otra-victoria-batalla-epic-games-1235656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/apple-anota-otra-victoria-batalla-app-store-epic-games-3017822.jpg?tf=1200x' alt='Apple se anota otra victoria en la batalla de la App Store contra Epic Games' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/amd-tiene-nuevas-gpu-camino-prometen-sorprender-sabemos-1235390'>AMD tiene nuevas GPU en camino y prometen sorprender, esto es lo que sabemos</a></h4>
-    <a href='https://computerhoy.com/pc/amd-tiene-nuevas-gpu-camino-prometen-sorprender-sabemos-1235390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sapphire-pulse-amd-radeon-rx-7900-xt-3014702.jpg?tf=1200x' alt='AMD tiene nuevas GPU en camino y prometen sorprender, esto es lo que sabemos' />
     </a>
 </div>
 
