@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/primera-vez-historia-llamada-directa-movil-satelite-1235970'>Por primera vez en la historia, se lleva a cabo una llamada directa móvil a satélite</a></h4>
+    <a href='https://computerhoy.com/moviles/primera-vez-historia-llamada-directa-movil-satelite-1235970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/primera-vez-historia-lleva-cabo-llamada-directa-satelite-movil-estandar-3018510.jpg?tf=1200x' alt='Por primera vez en la historia, se lleva a cabo una llamada directa móvil a satélite' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/nuevas-series-peliculas-espanolas-prime-video-operacion-triunfo-1235964'>Prime Video anuncia varias series y películas españolas, además de Operación Triunfo... y el reboot de Humor Amarillo</a></h4>
+    <a href='https://computerhoy.com/streaming/nuevas-series-peliculas-espanolas-prime-video-operacion-triunfo-1235964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/prime-video-anuncia-estreno-gran-cantidad-series-peliculas-espanolas-ademas-operacion-triunfo-3018504.jpg?tf=1200x' alt='Prime Video anuncia varias series y películas españolas, además de Operación Triunfo... y el reboot de Humor Amarillo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/7-aplicaciones-windows-11-mejoraran-seguridad-ordenador-1235912'>7 aplicaciones para Windows 11 que mejorarán la seguridad de tu ordenador</a></h4>
     <a href='https://computerhoy.com/windows/7-aplicaciones-windows-11-mejoraran-seguridad-ordenador-1235912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='7 aplicaciones para Windows 11 que mejorarán la seguridad de tu ordenador' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-cada-vez-cerca-estar-prohibido-ue-alemania-une-espana-italia-investigara-uso-datos-openai-1235910'>ChatGPT cada vez más cerca de estar prohibido en la UE: Alemania se une a España e Italia e investigará el uso de datos de OpenAI</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-cada-vez-cerca-estar-prohibido-ue-alemania-une-espana-italia-investigara-uso-datos-openai-1235910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-funciona-autogpt-peligrosa-ia-deja-obsoleto-propio-chatgpt-3008874.jpg?tf=1200x' alt='ChatGPT cada vez más cerca de estar prohibido en la UE: Alemania se une a España e Italia e investigará el uso de datos de OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/japones-ayuda-desaparecer-personas-evaporadas-1235958'>El japonés que ayuda a desaparecer a personas sin dejar rastro, en medio de la noche </a></h4>
-    <a href='https://computerhoy.com/life/japones-ayuda-desaparecer-personas-evaporadas-1235958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/japones-ayuda-desaparecer-personas-dejar-rastro-medio-noche-3018494.jpg?tf=1200x' alt='El japonés que ayuda a desaparecer a personas sin dejar rastro, en medio de la noche ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-ha-detectado-cumulo-galaxias-lejano-jamas-visto-1235956'>El telescopio espacial James Webb ha detectado el cúmulo de galaxias más lejano jamás visto</a></h4>
-    <a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-ha-detectado-cumulo-galaxias-lejano-jamas-visto-1235956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/galaxias-3018502.jpg?tf=1200x' alt='El telescopio espacial James Webb ha detectado el cúmulo de galaxias más lejano jamás visto' />
     </a>
 </div>
 
