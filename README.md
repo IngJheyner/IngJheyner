@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cargador-te-permite-utilizar-android-auto-inalambrico-cualquier-coche-1236338'>Esta cargador te permite utilizar Android Auto inalámbrico en cualquier coche</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cargador-te-permite-utilizar-android-auto-inalambrico-cualquier-coche-1236338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/cargador-te-permite-utilizar-android-auto-inalambrico-cualquier-coche-3019020.jpg?tf=1200x' alt='Esta cargador te permite utilizar Android Auto inalámbrico en cualquier coche' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-chino-sera-amable-partido-comunista-no-sera-1236446'>El ChatGPT chino será amable con el Partido Comunista o no será</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-chino-sera-amable-partido-comunista-no-sera-1236446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/china-repite-censura-prohibe-empresas-tecnologicas-ofrecer-servicios-chatgpt-2964610.jpg?tf=1200x' alt='El ChatGPT chino será amable con el Partido Comunista o no será' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/todas-novedades-kodi-21-omega-mejoras-hdr-pero-soporte-windows-81-1236366'>Kodi 21 Omega se actualiza con importantes mejoras en HDR y algunos problemas para Windows</a></h4>
-    <a href='https://computerhoy.com/tv/todas-novedades-kodi-21-omega-mejoras-hdr-pero-soporte-windows-81-1236366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/kodi.jpg?tf=1200x' alt='Kodi 21 Omega se actualiza con importantes mejoras en HDR y algunos problemas para Windows' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-pega-tremendo-batazazo-espana-cuentas-compartidas-1236412'>Netflix se pega un tremendo batazazo en España con las cuentas compartidas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-pega-tremendo-batazazo-espana-cuentas-compartidas-1236412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/compartir-cuentas-netflix-ya-no-posible-2951362.jpg?tf=1200x' alt='Netflix se pega un tremendo batazazo en España con las cuentas compartidas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/funcion-microsoft-edge-filtrando-sitios-visitas-bing-desactivala-1236264'>Esta función de Microsoft Edge está filtrando los sitios que visitas a Bing, desactívala</a></h4>
-    <a href='https://computerhoy.com/internet/funcion-microsoft-edge-filtrando-sitios-visitas-bing-desactivala-1236264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/funcion-microsoft-edge-filtrando-sitios-visitas-bing-desactivala-3018992.jpg?tf=1200x' alt='Esta función de Microsoft Edge está filtrando los sitios que visitas a Bing, desactívala' />
+    <h4><a href='https://computerhoy.com/entretenimiento/cientos-llamadas-empresa-murcia-cuyo-telefono-aparece-capitulo-simpson-1236416'>Cientos de llamadas a una empresa en Murcia porque su teléfono aparece en Los Simpson</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cientos-llamadas-empresa-murcia-cuyo-telefono-aparece-capitulo-simpson-1236416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/spring-escudo-3019224.jpg?tf=1200x' alt='Cientos de llamadas a una empresa en Murcia porque su teléfono aparece en Los Simpson' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/oferta-dazn-total-menos-25-euros-1236288'>Vuelve el descuento por DAZN Total para poder ver LaLiga, F1, MotoGP y más por menos de 25€</a></h4>
-    <a href='https://computerhoy.com/streaming/oferta-dazn-total-menos-25-euros-1236288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/logo-dazn-campo-futbol-3018932.jpg?tf=1200x' alt='Vuelve el descuento por DAZN Total para poder ver LaLiga, F1, MotoGP y más por menos de 25€' />
+    <h4><a href='https://computerhoy.com/industria/xbox-no-puede-comprar-activision-blizzard-acusaciones-monopolio-1236402'>Microsoft pierde la batalla legal: Reino Unido veta la compra de Activision Blizzard</a></h4>
+    <a href='https://computerhoy.com/industria/xbox-no-puede-comprar-activision-blizzard-acusaciones-monopolio-1236402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xbox-game-pass-series-xs-2532421.jpg?tf=1200x' alt='Microsoft pierde la batalla legal: Reino Unido veta la compra de Activision Blizzard' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tiny-11-ofrece-windows-11-limpio-software-no-necesitas-1236324'>Cómo eliminar todo el bloatware y software innecesario de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tiny-11-ofrece-windows-11-limpio-software-no-necesitas-1236324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Cómo eliminar todo el bloatware y software innecesario de Windows 11' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/puedes-ganar-200000-dolares-microsoft-busca-errores-nuevo-bing-1235298'>Así puedes ganar hasta 200.000 dólares con Microsoft: busca errores en el nuevo Bing</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/puedes-ganar-200000-dolares-microsoft-busca-errores-nuevo-bing-1235298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ahorrar-dinero-3000384.jpg?tf=1200x' alt='Así puedes ganar hasta 200.000 dólares con Microsoft: busca errores en el nuevo Bing' />
     </a>
 </div>
 
