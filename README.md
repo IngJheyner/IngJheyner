@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-anadira-avatares-perfil-generados-ia-como-veran-1236246'>TikTok añadirá avatares de perfil generados con inteligencia artificial y así es como se verán</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/tiktok-anadira-avatares-perfil-generados-ia-como-veran-1236246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tiktok-anadira-nuevos-avatares-perfil-generados-inteligencia-artificial-como-veran-3018840.jpg?tf=1200x' alt='TikTok añadirá avatares de perfil generados con inteligencia artificial y así es como se verán' />
+    <h4><a href='https://computerhoy.com/tecnologia/cargador-te-permite-utilizar-android-auto-inalambrico-cualquier-coche-1236338'>Esta cargador te permite utilizar Android Auto inalámbrico en cualquier coche</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cargador-te-permite-utilizar-android-auto-inalambrico-cualquier-coche-1236338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/cargador-te-permite-utilizar-android-auto-inalambrico-cualquier-coche-3019020.jpg?tf=1200x' alt='Esta cargador te permite utilizar Android Auto inalámbrico en cualquier coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/anycubic-photon-m3-impresora-resina-barata-perfecta-empezar-1235844'>Esta impresora 3D de resina cuesta menos de 280€ y es perfecta para empezar en el mundillo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/anycubic-photon-m3-impresora-resina-barata-perfecta-empezar-1235844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/anycubic-photon-m3-3018124.jpg?tf=1200x' alt='Esta impresora 3D de resina cuesta menos de 280€ y es perfecta para empezar en el mundillo' />
+    <h4><a href='https://computerhoy.com/tv/todas-novedades-kodi-21-omega-mejoras-hdr-pero-soporte-windows-81-1236366'>Kodi 21 Omega se actualiza con importantes mejoras en HDR y algunos problemas para Windows</a></h4>
+    <a href='https://computerhoy.com/tv/todas-novedades-kodi-21-omega-mejoras-hdr-pero-soporte-windows-81-1236366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/kodi.jpg?tf=1200x' alt='Kodi 21 Omega se actualiza con importantes mejoras en HDR y algunos problemas para Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-historial-chatgpt-deberias-hacerlo-ahora-mismo-1236220'>Cómo desactivar el historial de ChatGPT y por qué deberías hacerlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desactivar-historial-chatgpt-deberias-hacerlo-ahora-mismo-1236220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-desactivar-historial-chatgpt-deberias-hacerlo-ahora-mismo-3018826.jpg?tf=1200x' alt='Cómo desactivar el historial de ChatGPT y por qué deberías hacerlo ahora mismo' />
+    <h4><a href='https://computerhoy.com/internet/funcion-microsoft-edge-filtrando-sitios-visitas-bing-desactivala-1236264'>Esta función de Microsoft Edge está filtrando los sitios que visitas a Bing, desactívala</a></h4>
+    <a href='https://computerhoy.com/internet/funcion-microsoft-edge-filtrando-sitios-visitas-bing-desactivala-1236264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/funcion-microsoft-edge-filtrando-sitios-visitas-bing-desactivala-3018992.jpg?tf=1200x' alt='Esta función de Microsoft Edge está filtrando los sitios que visitas a Bing, desactívala' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-quiere-controlar-salud-nuevo-entrenador-ia-1236214'>Apple quiere controlar tu salud con un nuevo entrenador que funciona con inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/apple/apple-quiere-controlar-salud-nuevo-entrenador-ia-1236214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/AppleWatchseries8analisisyopinion_16656440263751197.jpg?tf=1200x' alt='Apple quiere controlar tu salud con un nuevo entrenador que funciona con inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/streaming/oferta-dazn-total-menos-25-euros-1236288'>Vuelve el descuento por DAZN Total para poder ver LaLiga, F1, MotoGP y más por menos de 25€</a></h4>
+    <a href='https://computerhoy.com/streaming/oferta-dazn-total-menos-25-euros-1236288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/logo-dazn-campo-futbol-3018932.jpg?tf=1200x' alt='Vuelve el descuento por DAZN Total para poder ver LaLiga, F1, MotoGP y más por menos de 25€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/5-curiosidades-cables-submarinos-te-van-sorprender-1236202'>5 curiosidades de los cables submarinos que te van a sorprender</a></h4>
-    <a href='https://computerhoy.com/internet/5-curiosidades-cables-submarinos-te-van-sorprender-1236202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/5-curiosidades-cables-submarinos-te-van-sorprender-3018724.jpg?tf=1200x' alt='5 curiosidades de los cables submarinos que te van a sorprender' />
+    <h4><a href='https://computerhoy.com/tutoriales/tiny-11-ofrece-windows-11-limpio-software-no-necesitas-1236324'>Cómo eliminar todo el bloatware y software innecesario de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tiny-11-ofrece-windows-11-limpio-software-no-necesitas-1236324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Cómo eliminar todo el bloatware y software innecesario de Windows 11' />
     </a>
 </div>
 
