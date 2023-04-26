@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cientificos-ponen-fecha-exacta-posible-contacto-extraterrestre-1236544'>Los científicos ponen fecha exacta a un posible contacto extraterrestre</a></h4>
+    <a href='https://computerhoy.com/espacio/cientificos-ponen-fecha-exacta-posible-contacto-extraterrestre-1236544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/galaxia-2922306.jpg?tf=1200x' alt='Los científicos ponen fecha exacta a un posible contacto extraterrestre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/extremadura-convierte-noticia-dia-nasa-1236536'>Extremadura se convierte en la noticia del día para la NASA</a></h4>
+    <a href='https://computerhoy.com/espacio/extremadura-convierte-noticia-dia-nasa-1236536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/aurora-roja-caceres-3019464.jpg?tf=1200x' alt='Extremadura se convierte en la noticia del día para la NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-google-maps-no-coma-bateria-movil-1236506'>Cómo hacer que Google Maps no se coma la batería de tu móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-google-maps-no-coma-bateria-movil-1236506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-maps-3019430.jpg?tf=1200x' alt='Cómo hacer que Google Maps no se coma la batería de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/indiana-jones-5-mostrara-harrison-ford-30-anos-durante-primeros-25-minutos-1236514'>Indiana Jones 5 mostrará a un Harrison Ford de 30 años durante los primeros 25 minutos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/indiana-jones-5-mostrara-harrison-ford-30-anos-durante-primeros-25-minutos-1236514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/indiana-jones-5-2023-2875965.jpg?tf=1200x' alt='Indiana Jones 5 mostrará a un Harrison Ford de 30 años durante los primeros 25 minutos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/costes-produccion-iphone-15-disparan-gran-aumento-precio-parece-inevitable-1236498'>Los costes de producción del iPhone 15 se disparan y un gran aumento de precio parece inevitable</a></h4>
     <a href='https://computerhoy.com/apple/costes-produccion-iphone-15-disparan-gran-aumento-precio-parece-inevitable-1236498' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='Los costes de producción del iPhone 15 se disparan y un gran aumento de precio parece inevitable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-quiere-protejas-chats-siguiente-novedad-1236472'>WhatsApp quiere que protejas tus chats con su siguiente novedad</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-quiere-protejas-chats-siguiente-novedad-1236472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/contactos-whatsapp-3003478.jpg?tf=1200x' alt='WhatsApp quiere que protejas tus chats con su siguiente novedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/consiste-nueva-funcion-marca-roja-google-maps-1236434'>¿En qué consiste la nueva función “marca roja” de Google Maps? </a></h4>
-    <a href='https://computerhoy.com/apps/consiste-nueva-funcion-marca-roja-google-maps-1236434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/marca-roja-google-maps-3019244.jpg?tf=1200x' alt='¿En qué consiste la nueva función “marca roja” de Google Maps? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cafeteras-productos-cuidado-personal-regalar-dia-madre-1235662'>Cafeteras y productos de cuidado personal que puedes regalar el Día de la Madre</a></h4>
-    <a href='https://computerhoy.com/life/cafeteras-productos-cuidado-personal-regalar-dia-madre-1235662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/madre-hija-haciendose-selfie-3017858.jpg?tf=1200x' alt='Cafeteras y productos de cuidado personal que puedes regalar el Día de la Madre' />
     </a>
 </div>
 
