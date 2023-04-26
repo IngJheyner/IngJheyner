@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/5-curiosidades-cables-submarinos-te-van-sorprender-1236202'>5 curiosidades de los cables submarinos que te van a sorprender</a></h4>
+    <a href='https://computerhoy.com/internet/5-curiosidades-cables-submarinos-te-van-sorprender-1236202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/5-curiosidades-cables-submarinos-te-van-sorprender-3018724.jpg?tf=1200x' alt='5 curiosidades de los cables submarinos que te van a sorprender' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-aspiradores-escoba-inalambricos-puedes-comprar-amazon-espana-528585'>Los 5 mejores aspiradores escoba inalámbricos que puedes comprar en Amazon España</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-aspiradores-escoba-inalambricos-puedes-comprar-amazon-espana-528585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aspiradora-cable-dyson-maravilla-llega-donde-no-puede-robot-aspirador-oferta-2948584.jpg?tf=1200x' alt='Los 5 mejores aspiradores escoba inalámbricos que puedes comprar en Amazon España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/sacapuntas-gigante-fabrica-lamparas-1236178'>El sacapuntas gigante para fabricar lámparas (vídeo)</a></h4>
     <a href='https://computerhoy.com/hogar/sacapuntas-gigante-fabrica-lamparas-1236178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1682483092596-3018712.jpg?tf=1200x' alt='El sacapuntas gigante para fabricar lámparas (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/futuro-bitcoin-micropagos-instantaneos-seguros-dan-avances-como-lightning-network-ser-sencillo-1235942'>El futuro del Bitcoin está en ser más accesible, los micropagos instantáneos y la seguridad</a></h4>
     <a href='https://computerhoy.com/criptos/futuro-bitcoin-micropagos-instantaneos-seguros-dan-avances-como-lightning-network-ser-sencillo-1235942' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/predicciones-extremas-bitcoin-2023-subira-250000-dolares-caera-5000-dolares-2918008.jpg?tf=1200x' alt='El futuro del Bitcoin está en ser más accesible, los micropagos instantáneos y la seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/maldicion-rey-casimiro-iv-polonia-apertura-tumba-1236170'>La maldición del rey Casimiro IV de Polonia: 12 investigadores abrieron su tumba, 10 muriendo a los pocos días</a></h4>
-    <a href='https://computerhoy.com/ciencia/maldicion-rey-casimiro-iv-polonia-apertura-tumba-1236170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/maldicion-rey-casimiro-iv-polonia-12-investigadores-abrieron-tumba-10-muriendo-pocas-semanas-3018704.jpg?tf=1200x' alt='La maldición del rey Casimiro IV de Polonia: 12 investigadores abrieron su tumba, 10 muriendo a los pocos días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/primera-mision-privada-luna-hakuto-r-estrella-aterrizaje-1236168'>La primera misión privada a la Luna se ha estrellado en el momento del aterrizaje</a></h4>
-    <a href='https://computerhoy.com/espacio/primera-mision-privada-luna-hakuto-r-estrella-aterrizaje-1236168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/primera-mision-privada-luna-supuestamente-ha-estrellado-momento-aterrizaje-3018514.jpg?tf=1200x' alt='La primera misión privada a la Luna se ha estrellado en el momento del aterrizaje' />
     </a>
 </div>
 
