@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cientificos-ponen-fecha-exacta-posible-contacto-extraterrestre-1236544'>Los científicos ponen fecha exacta a un posible contacto extraterrestre</a></h4>
-    <a href='https://computerhoy.com/espacio/cientificos-ponen-fecha-exacta-posible-contacto-extraterrestre-1236544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/galaxia-2922306.jpg?tf=1200x' alt='Los científicos ponen fecha exacta a un posible contacto extraterrestre' />
+    <h4><a href='https://computerhoy.com/streaming/documental-steve-jobs-skyshowtime-1236574'>Llega a SkyShowtime el documental que revela la cara B de Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/streaming/documental-steve-jobs-skyshowtime-1236574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/skyshowtime-tiene-documental-necesitas-conocer-steve-jobs-incluso-partes-malas-3019522.jpg?tf=1200x' alt='Llega a SkyShowtime el documental que revela la cara B de Steve Jobs' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/extremadura-convierte-noticia-dia-nasa-1236536'>Extremadura se convierte en la noticia del día para la NASA</a></h4>
-    <a href='https://computerhoy.com/espacio/extremadura-convierte-noticia-dia-nasa-1236536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/aurora-roja-caceres-3019464.jpg?tf=1200x' alt='Extremadura se convierte en la noticia del día para la NASA' />
+    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-anuncia-dlss-moviles-juegos-4k-60-fps-consumiendo-menos-bateria-1236548'>Qualcomm anuncia el DLSS para móviles: juegos a 4K y 60 fps consumiendo menos batería</a></h4>
+    <a href='https://computerhoy.com/tecnologia/qualcomm-anuncia-dlss-moviles-juegos-4k-60-fps-consumiendo-menos-bateria-1236548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/qualcomm-anuncia-dlss-moviles-juegos-4k-60-fps-consumiendo-menos-bateria-3019516.jpg?tf=1200x' alt='Qualcomm anuncia el DLSS para móviles: juegos a 4K y 60 fps consumiendo menos batería' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-google-maps-no-coma-bateria-movil-1236506'>Cómo hacer que Google Maps no se coma la batería de tu móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-google-maps-no-coma-bateria-movil-1236506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-maps-3019430.jpg?tf=1200x' alt='Cómo hacer que Google Maps no se coma la batería de tu móvil' />
+    <h4><a href='https://computerhoy.com/pc/ssd-tiene-chip-ia-bloquea-cualquier-ataque-ransomware-1236550'>Este SSD tiene un chip con IA que bloquea cualquier ataque de ransomware</a></h4>
+    <a href='https://computerhoy.com/pc/ssd-tiene-chip-ia-bloquea-cualquier-ataque-ransomware-1236550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ssd-tiene-chip-ia-bloquea-cualquier-ataque-ransomware-3019514.jpg?tf=1200x' alt='Este SSD tiene un chip con IA que bloquea cualquier ataque de ransomware' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/indiana-jones-5-mostrara-harrison-ford-30-anos-durante-primeros-25-minutos-1236514'>Indiana Jones 5 mostrará a un Harrison Ford de 30 años durante los primeros 25 minutos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/indiana-jones-5-mostrara-harrison-ford-30-anos-durante-primeros-25-minutos-1236514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/indiana-jones-5-2023-2875965.jpg?tf=1200x' alt='Indiana Jones 5 mostrará a un Harrison Ford de 30 años durante los primeros 25 minutos' />
+    <h4><a href='https://computerhoy.com/apple/daisy-robot-reciclaje-apple-video-1236560'>Apple muestra su nuevo robot de reciclaje Daisy, y avanza en sus objetivos climáticos (vídeo)</a></h4>
+    <a href='https://computerhoy.com/apple/daisy-robot-reciclaje-apple-video-1236560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1682537903591-3019484.jpg?tf=1200x' alt='Apple muestra su nuevo robot de reciclaje Daisy, y avanza en sus objetivos climáticos (vídeo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/costes-produccion-iphone-15-disparan-gran-aumento-precio-parece-inevitable-1236498'>Los costes de producción del iPhone 15 se disparan y un gran aumento de precio parece inevitable</a></h4>
-    <a href='https://computerhoy.com/apple/costes-produccion-iphone-15-disparan-gran-aumento-precio-parece-inevitable-1236498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='Los costes de producción del iPhone 15 se disparan y un gran aumento de precio parece inevitable' />
+    <h4><a href='https://computerhoy.com/google/play-store-ahora-tiene-publicidad-rentabiliza-google-tienda-1236484'>La Play Store ahora tiene más publicidad: así rentabiliza Google su tienda</a></h4>
+    <a href='https://computerhoy.com/google/play-store-ahora-tiene-publicidad-rentabiliza-google-tienda-1236484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg?tf=1200x' alt='La Play Store ahora tiene más publicidad: así rentabiliza Google su tienda' />
     </a>
 </div>
 
