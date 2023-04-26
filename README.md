@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-chino-sera-amable-partido-comunista-no-sera-1236446'>El ChatGPT chino será amable con el Partido Comunista o no será</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-chino-sera-amable-partido-comunista-no-sera-1236446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/china-repite-censura-prohibe-empresas-tecnologicas-ofrecer-servicios-chatgpt-2964610.jpg?tf=1200x' alt='El ChatGPT chino será amable con el Partido Comunista o no será' />
+    <h4><a href='https://computerhoy.com/entretenimiento/indiana-jones-5-mostrara-harrison-ford-30-anos-durante-primeros-25-minutos-1236514'>Indiana Jones 5 mostrará a un Harrison Ford de 30 años durante los primeros 25 minutos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/indiana-jones-5-mostrara-harrison-ford-30-anos-durante-primeros-25-minutos-1236514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/indiana-jones-5-2023-2875965.jpg?tf=1200x' alt='Indiana Jones 5 mostrará a un Harrison Ford de 30 años durante los primeros 25 minutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-pega-tremendo-batazazo-espana-cuentas-compartidas-1236412'>Netflix se pega un tremendo batazazo en España con las cuentas compartidas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-pega-tremendo-batazazo-espana-cuentas-compartidas-1236412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/compartir-cuentas-netflix-ya-no-posible-2951362.jpg?tf=1200x' alt='Netflix se pega un tremendo batazazo en España con las cuentas compartidas' />
+    <h4><a href='https://computerhoy.com/apple/costes-produccion-iphone-15-disparan-gran-aumento-precio-parece-inevitable-1236498'>Los costes de producción del iPhone 15 se disparan y un gran aumento de precio parece inevitable</a></h4>
+    <a href='https://computerhoy.com/apple/costes-produccion-iphone-15-disparan-gran-aumento-precio-parece-inevitable-1236498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='Los costes de producción del iPhone 15 se disparan y un gran aumento de precio parece inevitable' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cientos-llamadas-empresa-murcia-cuyo-telefono-aparece-capitulo-simpson-1236416'>Cientos de llamadas a una empresa en Murcia porque su teléfono aparece en Los Simpson</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cientos-llamadas-empresa-murcia-cuyo-telefono-aparece-capitulo-simpson-1236416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/spring-escudo-3019224.jpg?tf=1200x' alt='Cientos de llamadas a una empresa en Murcia porque su teléfono aparece en Los Simpson' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-quiere-protejas-chats-siguiente-novedad-1236472'>WhatsApp quiere que protejas tus chats con su siguiente novedad</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-quiere-protejas-chats-siguiente-novedad-1236472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/contactos-whatsapp-3003478.jpg?tf=1200x' alt='WhatsApp quiere que protejas tus chats con su siguiente novedad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/xbox-no-puede-comprar-activision-blizzard-acusaciones-monopolio-1236402'>Microsoft pierde la batalla legal: Reino Unido veta la compra de Activision Blizzard</a></h4>
-    <a href='https://computerhoy.com/industria/xbox-no-puede-comprar-activision-blizzard-acusaciones-monopolio-1236402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xbox-game-pass-series-xs-2532421.jpg?tf=1200x' alt='Microsoft pierde la batalla legal: Reino Unido veta la compra de Activision Blizzard' />
+    <h4><a href='https://computerhoy.com/apps/consiste-nueva-funcion-marca-roja-google-maps-1236434'>¿En qué consiste la nueva función “marca roja” de Google Maps? </a></h4>
+    <a href='https://computerhoy.com/apps/consiste-nueva-funcion-marca-roja-google-maps-1236434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/marca-roja-google-maps-3019244.jpg?tf=1200x' alt='¿En qué consiste la nueva función “marca roja” de Google Maps? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/puedes-ganar-200000-dolares-microsoft-busca-errores-nuevo-bing-1235298'>Así puedes ganar hasta 200.000 dólares con Microsoft: busca errores en el nuevo Bing</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/puedes-ganar-200000-dolares-microsoft-busca-errores-nuevo-bing-1235298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ahorrar-dinero-3000384.jpg?tf=1200x' alt='Así puedes ganar hasta 200.000 dólares con Microsoft: busca errores en el nuevo Bing' />
+    <h4><a href='https://computerhoy.com/life/cafeteras-productos-cuidado-personal-regalar-dia-madre-1235662'>Cafeteras y productos de cuidado personal que puedes regalar el Día de la Madre</a></h4>
+    <a href='https://computerhoy.com/life/cafeteras-productos-cuidado-personal-regalar-dia-madre-1235662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/madre-hija-haciendose-selfie-3017858.jpg?tf=1200x' alt='Cafeteras y productos de cuidado personal que puedes regalar el Día de la Madre' />
     </a>
 </div>
 
