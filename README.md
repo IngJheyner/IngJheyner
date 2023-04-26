@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-anadira-avatares-perfil-generados-ia-como-veran-1236246'>TikTok añadirá avatares de perfil generados con inteligencia artificial y así es como se verán</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/tiktok-anadira-avatares-perfil-generados-ia-como-veran-1236246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tiktok-anadira-nuevos-avatares-perfil-generados-inteligencia-artificial-como-veran-3018840.jpg?tf=1200x' alt='TikTok añadirá avatares de perfil generados con inteligencia artificial y así es como se verán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/anycubic-photon-m3-impresora-resina-barata-perfecta-empezar-1235844'>Esta impresora 3D de resina cuesta menos de 280€ y es perfecta para empezar en el mundillo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/anycubic-photon-m3-impresora-resina-barata-perfecta-empezar-1235844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/anycubic-photon-m3-3018124.jpg?tf=1200x' alt='Esta impresora 3D de resina cuesta menos de 280€ y es perfecta para empezar en el mundillo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-historial-chatgpt-deberias-hacerlo-ahora-mismo-1236220'>Cómo desactivar el historial de ChatGPT y por qué deberías hacerlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desactivar-historial-chatgpt-deberias-hacerlo-ahora-mismo-1236220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-desactivar-historial-chatgpt-deberias-hacerlo-ahora-mismo-3018826.jpg?tf=1200x' alt='Cómo desactivar el historial de ChatGPT y por qué deberías hacerlo ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-quiere-controlar-salud-nuevo-entrenador-ia-1236214'>Apple quiere controlar tu salud con un nuevo entrenador que funciona con inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/apple/apple-quiere-controlar-salud-nuevo-entrenador-ia-1236214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/AppleWatchseries8analisisyopinion_16656440263751197.jpg?tf=1200x' alt='Apple quiere controlar tu salud con un nuevo entrenador que funciona con inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/5-curiosidades-cables-submarinos-te-van-sorprender-1236202'>5 curiosidades de los cables submarinos que te van a sorprender</a></h4>
     <a href='https://computerhoy.com/internet/5-curiosidades-cables-submarinos-te-van-sorprender-1236202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/5-curiosidades-cables-submarinos-te-van-sorprender-3018724.jpg?tf=1200x' alt='5 curiosidades de los cables submarinos que te van a sorprender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-aspiradores-escoba-inalambricos-puedes-comprar-amazon-espana-528585'>Los 5 mejores aspiradores escoba inalámbricos que puedes comprar en Amazon España</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-aspiradores-escoba-inalambricos-puedes-comprar-amazon-espana-528585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aspiradora-cable-dyson-maravilla-llega-donde-no-puede-robot-aspirador-oferta-2948584.jpg?tf=1200x' alt='Los 5 mejores aspiradores escoba inalámbricos que puedes comprar en Amazon España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/sacapuntas-gigante-fabrica-lamparas-1236178'>El sacapuntas gigante para fabricar lámparas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/hogar/sacapuntas-gigante-fabrica-lamparas-1236178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1682483092596-3018712.jpg?tf=1200x' alt='El sacapuntas gigante para fabricar lámparas (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/alternativas-macbook-pro-16-1235208'>Gran pantalla y con el mejor rendimiento: estas son las mejores alternativas al MacBook Pro de 16 pulgadas</a></h4>
-    <a href='https://computerhoy.com/mejores/alternativas-macbook-pro-16-1235208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/macbook-pro-16-m2-max-analisis-opinion-3015952.jpg?tf=1200x' alt='Gran pantalla y con el mejor rendimiento: estas son las mejores alternativas al MacBook Pro de 16 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/futuro-bitcoin-micropagos-instantaneos-seguros-dan-avances-como-lightning-network-ser-sencillo-1235942'>El futuro del Bitcoin está en ser más accesible, los micropagos instantáneos y la seguridad</a></h4>
-    <a href='https://computerhoy.com/criptos/futuro-bitcoin-micropagos-instantaneos-seguros-dan-avances-como-lightning-network-ser-sencillo-1235942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/predicciones-extremas-bitcoin-2023-subira-250000-dolares-caera-5000-dolares-2918008.jpg?tf=1200x' alt='El futuro del Bitcoin está en ser más accesible, los micropagos instantáneos y la seguridad' />
     </a>
 </div>
 
