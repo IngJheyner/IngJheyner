@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/sacapuntas-gigante-fabrica-lamparas-1236178'>El sacapuntas gigante para fabricar lámparas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/hogar/sacapuntas-gigante-fabrica-lamparas-1236178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1682483092596-3018712.jpg?tf=1200x' alt='El sacapuntas gigante para fabricar lámparas (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/alternativas-macbook-pro-16-1235208'>Gran pantalla y con el mejor rendimiento: estas son las mejores alternativas al MacBook Pro de 16 pulgadas</a></h4>
+    <a href='https://computerhoy.com/mejores/alternativas-macbook-pro-16-1235208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/macbook-pro-16-m2-max-analisis-opinion-3015952.jpg?tf=1200x' alt='Gran pantalla y con el mejor rendimiento: estas son las mejores alternativas al MacBook Pro de 16 pulgadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/futuro-bitcoin-micropagos-instantaneos-seguros-dan-avances-como-lightning-network-ser-sencillo-1235942'>El futuro del Bitcoin está en ser más accesible, los micropagos instantáneos y la seguridad</a></h4>
+    <a href='https://computerhoy.com/criptos/futuro-bitcoin-micropagos-instantaneos-seguros-dan-avances-como-lightning-network-ser-sencillo-1235942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/predicciones-extremas-bitcoin-2023-subira-250000-dolares-caera-5000-dolares-2918008.jpg?tf=1200x' alt='El futuro del Bitcoin está en ser más accesible, los micropagos instantáneos y la seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/maldicion-rey-casimiro-iv-polonia-apertura-tumba-1236170'>La maldición del rey Casimiro IV de Polonia: 12 investigadores abrieron su tumba, 10 muriendo a los pocos días</a></h4>
     <a href='https://computerhoy.com/ciencia/maldicion-rey-casimiro-iv-polonia-apertura-tumba-1236170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/maldicion-rey-casimiro-iv-polonia-12-investigadores-abrieron-tumba-10-muriendo-pocas-semanas-3018704.jpg?tf=1200x' alt='La maldición del rey Casimiro IV de Polonia: 12 investigadores abrieron su tumba, 10 muriendo a los pocos días' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/primera-mision-privada-luna-hakuto-r-estrella-aterrizaje-1236168'>La primera misión privada a la Luna se ha estrellado en el momento del aterrizaje</a></h4>
     <a href='https://computerhoy.com/espacio/primera-mision-privada-luna-hakuto-r-estrella-aterrizaje-1236168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/primera-mision-privada-luna-supuestamente-ha-estrellado-momento-aterrizaje-3018514.jpg?tf=1200x' alt='La primera misión privada a la Luna se ha estrellado en el momento del aterrizaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/primera-vez-historia-llamada-directa-movil-satelite-1235970'>Por primera vez en la historia, se lleva a cabo una llamada directa móvil a satélite</a></h4>
-    <a href='https://computerhoy.com/moviles/primera-vez-historia-llamada-directa-movil-satelite-1235970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/primera-vez-historia-lleva-cabo-llamada-directa-satelite-movil-estandar-3018510.jpg?tf=1200x' alt='Por primera vez en la historia, se lleva a cabo una llamada directa móvil a satélite' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/nuevas-series-peliculas-espanolas-prime-video-operacion-triunfo-1235964'>Prime Video anuncia varias series y películas españolas, además de Operación Triunfo... y el reboot de Humor Amarillo</a></h4>
-    <a href='https://computerhoy.com/streaming/nuevas-series-peliculas-espanolas-prime-video-operacion-triunfo-1235964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/prime-video-anuncia-estreno-gran-cantidad-series-peliculas-espanolas-ademas-operacion-triunfo-3018504.jpg?tf=1200x' alt='Prime Video anuncia varias series y películas españolas, además de Operación Triunfo... y el reboot de Humor Amarillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/7-aplicaciones-windows-11-mejoraran-seguridad-ordenador-1235912'>7 aplicaciones para Windows 11 que mejorarán la seguridad de tu ordenador</a></h4>
-    <a href='https://computerhoy.com/windows/7-aplicaciones-windows-11-mejoraran-seguridad-ordenador-1235912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='7 aplicaciones para Windows 11 que mejorarán la seguridad de tu ordenador' />
     </a>
 </div>
 
