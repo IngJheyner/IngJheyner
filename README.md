@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047'>Mejores ordenadores de sobremesa que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mesa-torre-ordenador-pantalla-raton-teclado-setup-profesional-3019416.jpg?tf=1200x' alt='Mejores ordenadores de sobremesa que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/steam-deck-controlar-arma-ucrania-1236792'>Usan una Steam Deck para controlar un arma en Ucrania</a></h4>
     <a href='https://computerhoy.com/life/steam-deck-controlar-arma-ucrania-1236792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/usan-steam-deck-controlar-arma-ucrania-3019736.jpg?tf=1200x' alt='Usan una Steam Deck para controlar un arma en Ucrania' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/qualcomm-anuncia-dlss-moviles-juegos-4k-60-fps-consumiendo-menos-bateria-1236548'>Qualcomm anuncia el DLSS para móviles: juegos a 4K y 60 fps consumiendo menos batería</a></h4>
     <a href='https://computerhoy.com/tecnologia/qualcomm-anuncia-dlss-moviles-juegos-4k-60-fps-consumiendo-menos-bateria-1236548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/qualcomm-anuncia-dlss-moviles-juegos-4k-60-fps-consumiendo-menos-bateria-3019516.jpg?tf=1200x' alt='Qualcomm anuncia el DLSS para móviles: juegos a 4K y 60 fps consumiendo menos batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ssd-tiene-chip-ia-bloquea-cualquier-ataque-ransomware-1236550'>Este SSD tiene un chip con IA que bloquea cualquier ataque de ransomware</a></h4>
-    <a href='https://computerhoy.com/pc/ssd-tiene-chip-ia-bloquea-cualquier-ataque-ransomware-1236550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ssd-tiene-chip-ia-bloquea-cualquier-ataque-ransomware-3019514.jpg?tf=1200x' alt='Este SSD tiene un chip con IA que bloquea cualquier ataque de ransomware' />
     </a>
 </div>
 
