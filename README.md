@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047'>Mejores ordenadores de sobremesa que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mesa-torre-ordenador-pantalla-raton-teclado-setup-profesional-3019416.jpg?tf=1200x' alt='Mejores ordenadores de sobremesa que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/espacio/como-nasa-quiere-proteger-tierra-asteroides-cometas-1236530'>Así es como la NASA quiere proteger la Tierra de asteroides y cometas</a></h4>
+    <a href='https://computerhoy.com/espacio/como-nasa-quiere-proteger-tierra-asteroides-cometas-1236530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/armageddon-3019866.jpg?tf=1200x' alt='Así es como la NASA quiere proteger la Tierra de asteroides y cometas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/steam-deck-controlar-arma-ucrania-1236792'>Usan una Steam Deck para controlar un arma en Ucrania</a></h4>
-    <a href='https://computerhoy.com/life/steam-deck-controlar-arma-ucrania-1236792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/usan-steam-deck-controlar-arma-ucrania-3019736.jpg?tf=1200x' alt='Usan una Steam Deck para controlar un arma en Ucrania' />
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-641-computer-hoy-1232888'>¡Ya está en tu quiosco el número 641 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-641-computer-hoy-1232888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/computer-hoy-641-3014146.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 641 de Computer Hoy!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/que-significa-guiri-1236790'>Los guiris descubren el significado de su apodo, y no les hace ninguna gracia</a></h4>
-    <a href='https://computerhoy.com/life/que-significa-guiri-1236790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/guiris-descubren-significado-apodo-no-hace-ninguna-gracia-3019532.jpg?tf=1200x' alt='Los guiris descubren el significado de su apodo, y no les hace ninguna gracia' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-fracasa-cierra-division-salud-halo-anuncia-nuevos-despidos-personal-1236838'>Amazon fracasa: cierra su división de salud Halo y anuncia nuevos despidos de personal</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-fracasa-cierra-division-salud-halo-anuncia-nuevos-despidos-personal-1236838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/amazon-cierra-division-salud-halo-dejara-vender-productos-despedira-personal-3019864.jpg?tf=1200x' alt='Amazon fracasa: cierra su división de salud Halo y anuncia nuevos despidos de personal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/documental-steve-jobs-skyshowtime-1236574'>Llega a SkyShowtime el documental que revela la cara B de Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/streaming/documental-steve-jobs-skyshowtime-1236574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/skyshowtime-tiene-documental-necesitas-conocer-steve-jobs-incluso-partes-malas-3019522.jpg?tf=1200x' alt='Llega a SkyShowtime el documental que revela la cara B de Steve Jobs' />
+    <h4><a href='https://computerhoy.com/life/cuidado-nino-lineas-rojas-piel-infeccion-linfangitis-1236836'>Cuidado si tu hijo tiene unas líneas rojas en la piel</a></h4>
+    <a href='https://computerhoy.com/life/cuidado-nino-lineas-rojas-piel-infeccion-linfangitis-1236836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/cuidado-hijo-tiene-unas-lineas-rojas-piel-3019824.jpg?tf=1200x' alt='Cuidado si tu hijo tiene unas líneas rojas en la piel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-anuncia-dlss-moviles-juegos-4k-60-fps-consumiendo-menos-bateria-1236548'>Qualcomm anuncia el DLSS para móviles: juegos a 4K y 60 fps consumiendo menos batería</a></h4>
-    <a href='https://computerhoy.com/tecnologia/qualcomm-anuncia-dlss-moviles-juegos-4k-60-fps-consumiendo-menos-bateria-1236548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/qualcomm-anuncia-dlss-moviles-juegos-4k-60-fps-consumiendo-menos-bateria-3019516.jpg?tf=1200x' alt='Qualcomm anuncia el DLSS para móviles: juegos a 4K y 60 fps consumiendo menos batería' />
+    <h4><a href='https://computerhoy.com/tecnologia/integran-chatgpt-perro-robot-spot-habla-1236804'>Integran ChatGPT en Spot, y ahora el perro robot puede hablar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/integran-chatgpt-perro-robot-spot-habla-1236804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/integran-chatgpt-spot-ahora-perro-robot-puede-hablar-3019738.jpg?tf=1200x' alt='Integran ChatGPT en Spot, y ahora el perro robot puede hablar' />
     </a>
 </div>
 
