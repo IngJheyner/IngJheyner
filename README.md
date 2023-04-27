@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/moviles-segunda-mano-1236942'>Cada vez se venden más móviles de segunda mano: estos son las mejores ofertas que hemos encontrado</a></h4>
-    <a href='https://computerhoy.com/mejores/moviles-segunda-mano-1236942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mujer-movil-mano-invierno-3020068.jpg?tf=1200x' alt='Cada vez se venden más móviles de segunda mano: estos son las mejores ofertas que hemos encontrado' />
+    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-ya-ha-ganado-dinero-gracias-chatgpt-tendras-toda-vida-1237100'>Bill Gates ya ha ganado más dinero gracias a ChatGPT del que tendrás en toda tu vida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bill-gates-ya-ha-ganado-dinero-gracias-chatgpt-tendras-toda-vida-1237100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estos-son-ejercicios-mentales-tecnicas-bill-gates-practica-lograr-memoria-envidiable-2933932.jpg?tf=1200x' alt='Bill Gates ya ha ganado más dinero gracias a ChatGPT del que tendrás en toda tu vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/skyshowtime-te-da-oportunidad-ver-gratis-contenido-1236910'>SkyShowtime te da una última oportunidad: así puedes ver gratis sus películas y series</a></h4>
-    <a href='https://computerhoy.com/streaming/skyshowtime-te-da-oportunidad-ver-gratis-contenido-1236910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/skyshowtime-3020046.jpg?tf=1200x' alt='SkyShowtime te da una última oportunidad: así puedes ver gratis sus películas y series' />
+    <h4><a href='https://computerhoy.com/moviles/google-pixel-7a-filtra-detalle-mostrando-todas-especificaciones-1237038'>El Google Pixel 7a se filtra al detalle mostrando todas sus especificaciones</a></h4>
+    <a href='https://computerhoy.com/moviles/google-pixel-7a-filtra-detalle-mostrando-todas-especificaciones-1237038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-pixel-7-2914836.jpg?tf=1200x' alt='El Google Pixel 7a se filtra al detalle mostrando todas sus especificaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerberg-quiere-llevar-inteligencia-artificial-whatsapp-instagram-messenger-1236902'>Mark Zuckerberg quiere llevar la inteligencia artificial a WhatsApp, Instagram y Messenger</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mark-zuckerberg-quiere-llevar-inteligencia-artificial-whatsapp-instagram-messenger-1236902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mark-zuckerberg-quiere-llevar-inteligencia-artificial-whatsapp-instagram-messenger-3019982.jpg?tf=1200x' alt='Mark Zuckerberg quiere llevar la inteligencia artificial a WhatsApp, Instagram y Messenger' />
+    <h4><a href='https://computerhoy.com/legislacion/vigilancia-no-consentida-mediante-reconocimiento-facial-sale-cara-fabrica-alicante-1237036'>La vigilancia no consentida mediante reconocimiento facial le sale cara a esta fábrica de Alicante</a></h4>
+    <a href='https://computerhoy.com/legislacion/vigilancia-no-consentida-mediante-reconocimiento-facial-sale-cara-fabrica-alicante-1237036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/reconocimiento-facial-2288535.jpg?tf=1200x' alt='La vigilancia no consentida mediante reconocimiento facial le sale cara a esta fábrica de Alicante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-historial-busquedas-secreto-google-casi-nadie-conoce-1236576'>Cómo borrar el historial de búsquedas secreto de Google que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-borrar-historial-busquedas-secreto-google-casi-nadie-conoce-1236576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-3019892.jpg?tf=1200x' alt='Cómo borrar el historial de búsquedas secreto de Google que casi nadie conoce' />
+    <h4><a href='https://computerhoy.com/tecnologia/openai-trabaja-gtp4-32k-caro-cuatro-veces-potente-predecesor-1237084'>OpenAI trabaja en GTP4-32K, más caro y cuatro veces más potente que su predecesor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-trabaja-gtp4-32k-caro-cuatro-veces-potente-predecesor-1237084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chat-gpt4-32k-3020354.jpg?tf=1200x' alt='OpenAI trabaja en GTP4-32K, más caro y cuatro veces más potente que su predecesor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/10-increibles-usos-chatgpt-te-sacaran-apuro-1236876'>10 increíbles usos de ChatGPT que te sacarán de un apuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/10-increibles-usos-chatgpt-te-sacaran-apuro-1236876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/puedes-forzar-chatgpt-genere-respuestas-malintencionadas-2974930.jpg?tf=1200x' alt='10 increíbles usos de ChatGPT que te sacarán de un apuro' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/telefono-movil-vpn-conectandose-avion-3010722.jpg?tf=1200x' alt='Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más' />
     </a>
 </div>
 
