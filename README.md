@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-ya-ha-ganado-dinero-gracias-chatgpt-tendras-toda-vida-1237100'>Bill Gates ya ha ganado más dinero gracias a ChatGPT del que tendrás en toda tu vida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bill-gates-ya-ha-ganado-dinero-gracias-chatgpt-tendras-toda-vida-1237100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estos-son-ejercicios-mentales-tecnicas-bill-gates-practica-lograr-memoria-envidiable-2933932.jpg?tf=1200x' alt='Bill Gates ya ha ganado más dinero gracias a ChatGPT del que tendrás en toda tu vida' />
+    <h4><a href='https://computerhoy.com/tecnologia/excusa-elon-musk-no-reconocer-errores-digo-podria-ser-deepfake-1237040'>La excusa de Elon Musk para no reconocer sus errores: 'lo que digo podría ser un deepfake'</a></h4>
+    <a href='https://computerhoy.com/tecnologia/excusa-elon-musk-no-reconocer-errores-digo-podria-ser-deepfake-1237040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-presenta-plan-maestro-3-centrado-sostenibilidad-pero-nada-nuevos-coches-2971594.jpg?tf=1200x' alt='La excusa de Elon Musk para no reconocer sus errores: 'lo que digo podría ser un deepfake'' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/google-pixel-7a-filtra-detalle-mostrando-todas-especificaciones-1237038'>El Google Pixel 7a se filtra al detalle mostrando todas sus especificaciones</a></h4>
-    <a href='https://computerhoy.com/moviles/google-pixel-7a-filtra-detalle-mostrando-todas-especificaciones-1237038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-pixel-7-2914836.jpg?tf=1200x' alt='El Google Pixel 7a se filtra al detalle mostrando todas sus especificaciones' />
+    <h4><a href='https://computerhoy.com/streaming/estrenos-prime-video-mayo-2023-paranoia-agent-1237166'>Un anime mítico entre los estrenos de Prime Video en mayo</a></h4>
+    <a href='https://computerhoy.com/streaming/estrenos-prime-video-mayo-2023-paranoia-agent-1237166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/anime-mitico-estrenos-prime-video-mayo-3020520.jpg?tf=1200x' alt='Un anime mítico entre los estrenos de Prime Video en mayo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/vigilancia-no-consentida-mediante-reconocimiento-facial-sale-cara-fabrica-alicante-1237036'>La vigilancia no consentida mediante reconocimiento facial le sale cara a esta fábrica de Alicante</a></h4>
-    <a href='https://computerhoy.com/legislacion/vigilancia-no-consentida-mediante-reconocimiento-facial-sale-cara-fabrica-alicante-1237036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/reconocimiento-facial-2288535.jpg?tf=1200x' alt='La vigilancia no consentida mediante reconocimiento facial le sale cara a esta fábrica de Alicante' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ni-te-imaginas-destrozo-puede-causar-ciberdelincuente-tan-solo-contrasenas-1237162'>Ni te imaginas el destrozo que puede causar un ciberdelincuente con tan solo una de tus contraseñas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ni-te-imaginas-destrozo-puede-causar-ciberdelincuente-tan-solo-contrasenas-1237162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/contrasenas-ordenador-3020526.jpg?tf=1200x' alt='Ni te imaginas el destrozo que puede causar un ciberdelincuente con tan solo una de tus contraseñas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-trabaja-gtp4-32k-caro-cuatro-veces-potente-predecesor-1237084'>OpenAI trabaja en GTP4-32K, más caro y cuatro veces más potente que su predecesor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-trabaja-gtp4-32k-caro-cuatro-veces-potente-predecesor-1237084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chat-gpt4-32k-3020354.jpg?tf=1200x' alt='OpenAI trabaja en GTP4-32K, más caro y cuatro veces más potente que su predecesor' />
+    <h4><a href='https://computerhoy.com/internet/error-router-wifi-deja-vendidos-posibles-ataques-todos-dispositivos-1237160'>El error con el router WiFi que deja vendidos ante posibles ataques a todos tus dispositivos</a></h4>
+    <a href='https://computerhoy.com/internet/error-router-wifi-deja-vendidos-posibles-ataques-todos-dispositivos-1237160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/router-wifi-3020522.jpg?tf=1200x' alt='El error con el router WiFi que deja vendidos ante posibles ataques a todos tus dispositivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/telefono-movil-vpn-conectandose-avion-3010722.jpg?tf=1200x' alt='Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más' />
+    <h4><a href='https://computerhoy.com/tecnologia/truco-podras-enviar-mensajes-durante-vuelo-incluso-modo-avion-1237114'>Con este truco podrás enviar mensajes durante un vuelo, incluso en modo avión</a></h4>
+    <a href='https://computerhoy.com/tecnologia/truco-podras-enviar-mensajes-durante-vuelo-incluso-modo-avion-1237114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/modo-avion-iphone-3020440.jpg?tf=1200x' alt='Con este truco podrás enviar mensajes durante un vuelo, incluso en modo avión' />
     </a>
 </div>
 
