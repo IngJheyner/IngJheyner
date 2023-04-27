@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/steam-deck-controlar-arma-ucrania-1236792'>Usan una Steam Deck para controlar un arma en Ucrania</a></h4>
+    <a href='https://computerhoy.com/life/steam-deck-controlar-arma-ucrania-1236792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/usan-steam-deck-controlar-arma-ucrania-3019736.jpg?tf=1200x' alt='Usan una Steam Deck para controlar un arma en Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/que-significa-guiri-1236790'>Los guiris descubren el significado de su apodo, y no les hace ninguna gracia</a></h4>
+    <a href='https://computerhoy.com/life/que-significa-guiri-1236790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/guiris-descubren-significado-apodo-no-hace-ninguna-gracia-3019532.jpg?tf=1200x' alt='Los guiris descubren el significado de su apodo, y no les hace ninguna gracia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/documental-steve-jobs-skyshowtime-1236574'>Llega a SkyShowtime el documental que revela la cara B de Steve Jobs</a></h4>
     <a href='https://computerhoy.com/streaming/documental-steve-jobs-skyshowtime-1236574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/skyshowtime-tiene-documental-necesitas-conocer-steve-jobs-incluso-partes-malas-3019522.jpg?tf=1200x' alt='Llega a SkyShowtime el documental que revela la cara B de Steve Jobs' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/ssd-tiene-chip-ia-bloquea-cualquier-ataque-ransomware-1236550'>Este SSD tiene un chip con IA que bloquea cualquier ataque de ransomware</a></h4>
     <a href='https://computerhoy.com/pc/ssd-tiene-chip-ia-bloquea-cualquier-ataque-ransomware-1236550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ssd-tiene-chip-ia-bloquea-cualquier-ataque-ransomware-3019514.jpg?tf=1200x' alt='Este SSD tiene un chip con IA que bloquea cualquier ataque de ransomware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/daisy-robot-reciclaje-apple-video-1236560'>Apple muestra su nuevo robot de reciclaje Daisy, y avanza en sus objetivos climáticos (vídeo)</a></h4>
-    <a href='https://computerhoy.com/apple/daisy-robot-reciclaje-apple-video-1236560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1682537903591-3019484.jpg?tf=1200x' alt='Apple muestra su nuevo robot de reciclaje Daisy, y avanza en sus objetivos climáticos (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/play-store-ahora-tiene-publicidad-rentabiliza-google-tienda-1236484'>La Play Store ahora tiene más publicidad: así rentabiliza Google su tienda</a></h4>
-    <a href='https://computerhoy.com/google/play-store-ahora-tiene-publicidad-rentabiliza-google-tienda-1236484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg?tf=1200x' alt='La Play Store ahora tiene más publicidad: así rentabiliza Google su tienda' />
     </a>
 </div>
 
