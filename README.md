@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/moviles-segunda-mano-1236942'>Cada vez se venden más móviles de segunda mano: estos son las mejores ofertas que hemos encontrado</a></h4>
+    <a href='https://computerhoy.com/mejores/moviles-segunda-mano-1236942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mujer-movil-mano-invierno-3020068.jpg?tf=1200x' alt='Cada vez se venden más móviles de segunda mano: estos son las mejores ofertas que hemos encontrado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/skyshowtime-te-da-oportunidad-ver-gratis-contenido-1236910'>SkyShowtime te da una última oportunidad: así puedes ver gratis sus películas y series</a></h4>
+    <a href='https://computerhoy.com/streaming/skyshowtime-te-da-oportunidad-ver-gratis-contenido-1236910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/skyshowtime-3020046.jpg?tf=1200x' alt='SkyShowtime te da una última oportunidad: así puedes ver gratis sus películas y series' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerberg-quiere-llevar-inteligencia-artificial-whatsapp-instagram-messenger-1236902'>Mark Zuckerberg quiere llevar la inteligencia artificial a WhatsApp, Instagram y Messenger</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mark-zuckerberg-quiere-llevar-inteligencia-artificial-whatsapp-instagram-messenger-1236902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mark-zuckerberg-quiere-llevar-inteligencia-artificial-whatsapp-instagram-messenger-3019982.jpg?tf=1200x' alt='Mark Zuckerberg quiere llevar la inteligencia artificial a WhatsApp, Instagram y Messenger' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-borrar-historial-busquedas-secreto-google-casi-nadie-conoce-1236576'>Cómo borrar el historial de búsquedas secreto de Google que casi nadie conoce</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-borrar-historial-busquedas-secreto-google-casi-nadie-conoce-1236576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-3019892.jpg?tf=1200x' alt='Cómo borrar el historial de búsquedas secreto de Google que casi nadie conoce' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/10-increibles-usos-chatgpt-te-sacaran-apuro-1236876'>10 increíbles usos de ChatGPT que te sacarán de un apuro</a></h4>
     <a href='https://computerhoy.com/tecnologia/10-increibles-usos-chatgpt-te-sacaran-apuro-1236876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/puedes-forzar-chatgpt-genere-respuestas-malintencionadas-2974930.jpg?tf=1200x' alt='10 increíbles usos de ChatGPT que te sacarán de un apuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/has-utilizado-bereal-podrias-ver-cara-anuncio-ver-solo-euro-ello-1236572'>Si has utilizado BeReal podrías ver tu cara en un anuncio sin ver un solo euro por ello</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/has-utilizado-bereal-podrias-ver-cara-anuncio-ver-solo-euro-ello-1236572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/rastro-sorprendido-3019530.jpg?tf=1200x' alt='Si has utilizado BeReal podrías ver tu cara en un anuncio sin ver un solo euro por ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/como-nasa-quiere-proteger-tierra-asteroides-cometas-1236530'>Así es como la NASA quiere proteger la Tierra de asteroides y cometas</a></h4>
-    <a href='https://computerhoy.com/espacio/como-nasa-quiere-proteger-tierra-asteroides-cometas-1236530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/armageddon-3019866.jpg?tf=1200x' alt='Así es como la NASA quiere proteger la Tierra de asteroides y cometas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-641-computer-hoy-1232888'>¡Ya está en tu quiosco el número 641 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-641-computer-hoy-1232888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/computer-hoy-641-3014146.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 641 de Computer Hoy!' />
     </a>
 </div>
 
