@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/xiaomi-redmi-note-11-merece-pena-alternativas-baratas-1236448'>Xiaomi Redmi Note 11: ¿merece la pena en 2023? Características y alternativas baratas</a></h4>
+    <a href='https://computerhoy.com/moviles/xiaomi-redmi-note-11-merece-pena-alternativas-baratas-1236448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643061.jpg?tf=1200x' alt='Xiaomi Redmi Note 11: ¿merece la pena en 2023? Características y alternativas baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/sony-bravia-xr-a80l-55-analisis-review-caracteristicas-precio-1233502'>Sony Bravia XR A80L de 55": calidad de imagen y sonido para el OLED más equilibrado de Sony</a></h4>
     <a href='https://computerhoy.com/analisis/sony-bravia-xr-a80l-55-analisis-review-caracteristicas-precio-1233502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sony-bravia-xr-a80l-analisis-opinion-3019740.jpg?tf=1200x' alt='Sony Bravia XR A80L de 55": calidad de imagen y sonido para el OLED más equilibrado de Sony' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/que-es-maximo-solar-1237400'>Estamos a punto de alcanzar un Máximo Solar por primera vez en una década, ¿qué significa?</a></h4>
     <a href='https://computerhoy.com/espacio/que-es-maximo-solar-1237400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estamos-punto-alcanzar-maximo-solar-primera-vez-decada-significa-3020560.jpg?tf=1200x' alt='Estamos a punto de alcanzar un Máximo Solar por primera vez en una década, ¿qué significa?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-anuncia-fin-actualizaciones-windows-10-1237182'>Microsoft anuncia que ya no habrá más actualizaciones de Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-anuncia-fin-actualizaciones-windows-10-1237182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/microsoft-anuncia-ya-no-habra-actualizaciones-windows-10-salvo-seguridad-3020544.jpg?tf=1200x' alt='Microsoft anuncia que ya no habrá más actualizaciones de Windows 10' />
     </a>
 </div>
 
