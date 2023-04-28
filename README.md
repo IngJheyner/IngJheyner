@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/dropbox-despide-500-trabajadores-enfocarse-inteligencia-artificial-1237680'>Dropbox despide a 500 trabajadores para enfocarse en la Inteligencia Artificial</a></h4>
+    <a href='https://computerhoy.com/apps/dropbox-despide-500-trabajadores-enfocarse-inteligencia-artificial-1237680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/drew-houston-fundador-dropbox.jpg?tf=1200x' alt='Dropbox despide a 500 trabajadores para enfocarse en la Inteligencia Artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/truco-saber-panel-dgt-tiene-radar-oculto-1237672'>El truco infalible para saber si un panel de la DGT tiene instalado un radar oculto</a></h4>
+    <a href='https://computerhoy.com/motor/truco-saber-panel-dgt-tiene-radar-oculto-1237672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/panel-dgt-3021334.jpg?tf=1200x' alt='El truco infalible para saber si un panel de la DGT tiene instalado un radar oculto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-a13-mejor-oferta-disponible-amazon-1237012'>Chollo por uno de los móviles más baratos de Samsung: este Galaxy A13 tiene 72€ de descuento</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-galaxy-a13-mejor-oferta-disponible-amazon-1237012' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-a13-3020202.jpg?tf=1200x' alt='Chollo por uno de los móviles más baratos de Samsung: este Galaxy A13 tiene 72€ de descuento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/demencia-frontotemporal-extrano-sindrome-modificando-cerebro-bruce-willis-1237186'>Demencia frontotemporal, el extraño síndrome que está modificando el cerebro de Bruce Willis</a></h4>
     <a href='https://computerhoy.com/life/demencia-frontotemporal-extrano-sindrome-modificando-cerebro-bruce-willis-1237186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bruce-willis-2974508.jpg?tf=1200x' alt='Demencia frontotemporal, el extraño síndrome que está modificando el cerebro de Bruce Willis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-waze-mejor-app-evitar-atascos-android-auto-1237496'>Cuál es mejor para evitar atascos en Android Auto: ¿Google Maps o Waze?</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-waze-mejor-app-evitar-atascos-android-auto-1237496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/problemas-habituales-android-auto-como-solucionarlos-2457413.jpg?tf=1200x' alt='Cuál es mejor para evitar atascos en Android Auto: ¿Google Maps o Waze?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/ue-propone-nuevas-reglas-copyright-herramientas-ia-1237466'>La UE por fin de acuerdo: propone nuevas reglas de copyright para herramientas de IA como ChatGPT</a></h4>
-    <a href='https://computerhoy.com/legislacion/ue-propone-nuevas-reglas-copyright-herramientas-ia-1237466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ue-fin-acuerdo-propone-nuevas-reglas-derechos-autor-herramientas-ia-como-chatgpt-3020956.jpg?tf=1200x' alt='La UE por fin de acuerdo: propone nuevas reglas de copyright para herramientas de IA como ChatGPT' />
     </a>
 </div>
 
