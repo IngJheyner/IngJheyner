@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/sony-bravia-xr-a80l-55-analisis-review-caracteristicas-precio-1233502'>Sony Bravia XR A80L de 55": calidad de imagen y sonido para el OLED más equilibrado de Sony</a></h4>
+    <a href='https://computerhoy.com/analisis/sony-bravia-xr-a80l-55-analisis-review-caracteristicas-precio-1233502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sony-bravia-xr-a80l-analisis-opinion-3019740.jpg?tf=1200x' alt='Sony Bravia XR A80L de 55": calidad de imagen y sonido para el OLED más equilibrado de Sony' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/kaos-jammer-pendrive-hackear-redes-wifi-video-1237408'>Kaos Jammer, el pendrive para hackear redes WiFi que ha sido retirado de KickStarter (vídeo)</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/kaos-jammer-pendrive-hackear-redes-wifi-video-1237408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1682655794044-3020774.jpg?tf=1200x' alt='Kaos Jammer, el pendrive para hackear redes WiFi que ha sido retirado de KickStarter (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/como-montar-hogar-5g-1236950'>Cómo montar un hogar 5G y olvidarte de la fibra o el ADSL</a></h4>
+    <a href='https://computerhoy.com/redes/como-montar-hogar-5g-1236950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/oppo-5g-cpe-t1a-3020188.jpg?tf=1200x' alt='Cómo montar un hogar 5G y olvidarte de la fibra o el ADSL' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/que-es-maximo-solar-1237400'>Estamos a punto de alcanzar un Máximo Solar por primera vez en una década, ¿qué significa?</a></h4>
     <a href='https://computerhoy.com/espacio/que-es-maximo-solar-1237400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estamos-punto-alcanzar-maximo-solar-primera-vez-decada-significa-3020560.jpg?tf=1200x' alt='Estamos a punto de alcanzar un Máximo Solar por primera vez en una década, ¿qué significa?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-anuncia-fin-actualizaciones-windows-10-1237182'>Microsoft anuncia que ya no habrá más actualizaciones de Windows 10</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-anuncia-fin-actualizaciones-windows-10-1237182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/microsoft-anuncia-ya-no-habra-actualizaciones-windows-10-salvo-seguridad-3020544.jpg?tf=1200x' alt='Microsoft anuncia que ya no habrá más actualizaciones de Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/excusa-elon-musk-no-reconocer-errores-digo-podria-ser-deepfake-1237040'>La excusa de Elon Musk para no reconocer sus errores: 'lo que digo podría ser un deepfake'</a></h4>
-    <a href='https://computerhoy.com/tecnologia/excusa-elon-musk-no-reconocer-errores-digo-podria-ser-deepfake-1237040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-presenta-plan-maestro-3-centrado-sostenibilidad-pero-nada-nuevos-coches-2971594.jpg?tf=1200x' alt='La excusa de Elon Musk para no reconocer sus errores: 'lo que digo podría ser un deepfake'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/estrenos-prime-video-mayo-2023-paranoia-agent-1237166'>Un anime mítico entre los estrenos de Prime Video en mayo</a></h4>
-    <a href='https://computerhoy.com/streaming/estrenos-prime-video-mayo-2023-paranoia-agent-1237166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/anime-mitico-estrenos-prime-video-mayo-3020520.jpg?tf=1200x' alt='Un anime mítico entre los estrenos de Prime Video en mayo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ni-te-imaginas-destrozo-puede-causar-ciberdelincuente-tan-solo-contrasenas-1237162'>Ni te imaginas el destrozo que puede causar un ciberdelincuente con tan solo una de tus contraseñas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ni-te-imaginas-destrozo-puede-causar-ciberdelincuente-tan-solo-contrasenas-1237162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/contrasenas-ordenador-3020526.jpg?tf=1200x' alt='Ni te imaginas el destrozo que puede causar un ciberdelincuente con tan solo una de tus contraseñas' />
     </a>
 </div>
 
