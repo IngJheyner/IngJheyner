@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/dropbox-despide-500-trabajadores-enfocarse-inteligencia-artificial-1237680'>Dropbox despide a 500 trabajadores para enfocarse en la Inteligencia Artificial</a></h4>
-    <a href='https://computerhoy.com/apps/dropbox-despide-500-trabajadores-enfocarse-inteligencia-artificial-1237680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/drew-houston-fundador-dropbox.jpg?tf=1200x' alt='Dropbox despide a 500 trabajadores para enfocarse en la Inteligencia Artificial' />
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-rebajas-portatiles-relojes-auriculares-1237644'>Huawei rebaja portátiles, relojes y auriculares con hasta un 40% de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-rebajas-portatiles-relojes-auriculares-1237644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/huawei-watch-ultimate-analisis-opinion-3001458.jpg?tf=1200x' alt='Huawei rebaja portátiles, relojes y auriculares con hasta un 40% de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/truco-saber-panel-dgt-tiene-radar-oculto-1237672'>El truco infalible para saber si un panel de la DGT tiene instalado un radar oculto</a></h4>
-    <a href='https://computerhoy.com/motor/truco-saber-panel-dgt-tiene-radar-oculto-1237672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/panel-dgt-3021334.jpg?tf=1200x' alt='El truco infalible para saber si un panel de la DGT tiene instalado un radar oculto' />
+    <h4><a href='https://computerhoy.com/legislacion/seriesly-era-legal-caso-ha-sido-cerrado-casi-diez-anos-tribunales-1237712'>Series.ly era legal: el caso ha sido cerrado tras casi diez años en los tribunales</a></h4>
+    <a href='https://computerhoy.com/legislacion/seriesly-era-legal-caso-ha-sido-cerrado-casi-diez-anos-tribunales-1237712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/descargar-series-peliculas-hbo-1853743.jpg?tf=1200x' alt='Series.ly era legal: el caso ha sido cerrado tras casi diez años en los tribunales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-a13-mejor-oferta-disponible-amazon-1237012'>Chollo por uno de los móviles más baratos de Samsung: este Galaxy A13 tiene 72€ de descuento</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-galaxy-a13-mejor-oferta-disponible-amazon-1237012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-a13-3020202.jpg?tf=1200x' alt='Chollo por uno de los móviles más baratos de Samsung: este Galaxy A13 tiene 72€ de descuento' />
+    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-disney-peter-pan-aubrey-plaza-historia-amor-1237588'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: Peter Pan, Aubrey Plaza y una historia de amor </a></h4>
+    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-disney-peter-pan-aubrey-plaza-historia-amor-1237588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/peliculas-ver-fin-semana-netflix-movistar-plus-disney-peter-pan-aubrey-plaza-historia-amor-3021356.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: Peter Pan, Aubrey Plaza y una historia de amor ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quien-creo-chatgpt-quien-dueno-actual-pinta-elon-musk-todo-1237486'>Quién creó ChatGPT, quién es su dueño actual y qué pinta Elon Musk en todo esto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quien-creo-chatgpt-quien-dueno-actual-pinta-elon-musk-todo-1237486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/quien-creo-chatgpt-quien-dueno-actual-pinta-elon-musk-todo-3021004.jpg?tf=1200x' alt='Quién creó ChatGPT, quién es su dueño actual y qué pinta Elon Musk en todo esto' />
+    <h4><a href='https://computerhoy.com/software/cuidado-hyena-nueva-ia-hace-estupida-chatgpt-1237682'>Cuidado con Hyena, la nueva IA que hace estúpida a ChatGPT</a></h4>
+    <a href='https://computerhoy.com/software/cuidado-hyena-nueva-ia-hace-estupida-chatgpt-1237682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gpt-5-posible-fecha-lanzamiento-mejoras-alcanzara-inteligencia-artificial-general-3012498.jpg?tf=1200x' alt='Cuidado con Hyena, la nueva IA que hace estúpida a ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/demencia-frontotemporal-extrano-sindrome-modificando-cerebro-bruce-willis-1237186'>Demencia frontotemporal, el extraño síndrome que está modificando el cerebro de Bruce Willis</a></h4>
-    <a href='https://computerhoy.com/life/demencia-frontotemporal-extrano-sindrome-modificando-cerebro-bruce-willis-1237186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bruce-willis-2974508.jpg?tf=1200x' alt='Demencia frontotemporal, el extraño síndrome que está modificando el cerebro de Bruce Willis' />
+    <h4><a href='https://computerhoy.com/software/windows-10-no-dejara-funcionar-aunque-microsoft-no-soporte-1237710'>Windows 10 no dejará de funcionar aunque Microsoft no le de soporte</a></h4>
+    <a href='https://computerhoy.com/software/windows-10-no-dejara-funcionar-aunque-microsoft-no-soporte-1237710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/microsoft-anuncia-ya-no-habra-actualizaciones-windows-10-salvo-seguridad-3020544.jpg?tf=1200x' alt='Windows 10 no dejará de funcionar aunque Microsoft no le de soporte' />
     </a>
 </div>
 
