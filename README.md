@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-rebajas-portatiles-relojes-auriculares-1237644'>Huawei rebaja portátiles, relojes y auriculares con hasta un 40% de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-rebajas-portatiles-relojes-auriculares-1237644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/huawei-watch-ultimate-analisis-opinion-3001458.jpg?tf=1200x' alt='Huawei rebaja portátiles, relojes y auriculares con hasta un 40% de descuento' />
+    <h4><a href='https://computerhoy.com/espacio/hackean-satelite-europeo-demostrar-facil-1237154'>Hackean un satélite europeo para demostrar lo fácil que es</a></h4>
+    <a href='https://computerhoy.com/espacio/hackean-satelite-europeo-demostrar-facil-1237154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/imagen-satelite-galileo-2942156.jpg?tf=1200x' alt='Hackean un satélite europeo para demostrar lo fácil que es' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/seriesly-era-legal-caso-ha-sido-cerrado-casi-diez-anos-tribunales-1237712'>Series.ly era legal: el caso ha sido cerrado tras casi diez años en los tribunales</a></h4>
-    <a href='https://computerhoy.com/legislacion/seriesly-era-legal-caso-ha-sido-cerrado-casi-diez-anos-tribunales-1237712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/descargar-series-peliculas-hbo-1853743.jpg?tf=1200x' alt='Series.ly era legal: el caso ha sido cerrado tras casi diez años en los tribunales' />
+    <h4><a href='https://computerhoy.com/life/pesar-nauseabundo-aspecto-botella-vino-antigua-mundo-todavia-puede-beber-1237788'>A pesar de su nauseabundo aspecto la botella de vino más antigua del mundo todavía se puede beber</a></h4>
+    <a href='https://computerhoy.com/life/pesar-nauseabundo-aspecto-botella-vino-antigua-mundo-todavia-puede-beber-1237788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/vino-3021528.jpg?tf=1200x' alt='A pesar de su nauseabundo aspecto la botella de vino más antigua del mundo todavía se puede beber' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-disney-peter-pan-aubrey-plaza-historia-amor-1237588'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: Peter Pan, Aubrey Plaza y una historia de amor </a></h4>
-    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-disney-peter-pan-aubrey-plaza-historia-amor-1237588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/peliculas-ver-fin-semana-netflix-movistar-plus-disney-peter-pan-aubrey-plaza-historia-amor-3021356.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Disney+: Peter Pan, Aubrey Plaza y una historia de amor ' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-llevar-genial-efecto-mica-windows-11-google-chrome-1237786'>Microsoft quiere llevar el genial efecto Mica de Windows 11 a Google Chrome</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-quiere-llevar-genial-efecto-mica-windows-11-google-chrome-1237786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chrome-efecto-mica-3021520.jpg?tf=1200x' alt='Microsoft quiere llevar el genial efecto Mica de Windows 11 a Google Chrome' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/cuidado-hyena-nueva-ia-hace-estupida-chatgpt-1237682'>Cuidado con Hyena, la nueva IA que hace estúpida a ChatGPT</a></h4>
-    <a href='https://computerhoy.com/software/cuidado-hyena-nueva-ia-hace-estupida-chatgpt-1237682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gpt-5-posible-fecha-lanzamiento-mejoras-alcanzara-inteligencia-artificial-general-3012498.jpg?tf=1200x' alt='Cuidado con Hyena, la nueva IA que hace estúpida a ChatGPT' />
+    <h4><a href='https://computerhoy.com/legislacion/solo-podran-hacerte-esperar-3-minutos-nueva-ley-atencion-cliente-1237714'>Solo podrán hacerte esperar 3 minutos: así es la nueva ley de atención al cliente</a></h4>
+    <a href='https://computerhoy.com/legislacion/solo-podran-hacerte-esperar-3-minutos-nueva-ley-atencion-cliente-1237714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lllamada-movil-2786823.jpg?tf=1200x' alt='Solo podrán hacerte esperar 3 minutos: así es la nueva ley de atención al cliente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/windows-10-no-dejara-funcionar-aunque-microsoft-no-soporte-1237710'>Windows 10 no dejará de funcionar aunque Microsoft no le de soporte</a></h4>
-    <a href='https://computerhoy.com/software/windows-10-no-dejara-funcionar-aunque-microsoft-no-soporte-1237710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/microsoft-anuncia-ya-no-habra-actualizaciones-windows-10-salvo-seguridad-3020544.jpg?tf=1200x' alt='Windows 10 no dejará de funcionar aunque Microsoft no le de soporte' />
+    <h4><a href='https://computerhoy.com/motor/yadea-scooter-eliteprime-patinete-electrico-antipinchazos-1237754'>Yadea Elite Prime es un patinete eléctrico con llantas que se reparan solas y resisten a los pinchazos</a></h4>
+    <a href='https://computerhoy.com/motor/yadea-scooter-eliteprime-patinete-electrico-antipinchazos-1237754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/yadea-scooter-eliteprime-3021440.jpg?tf=1200x' alt='Yadea Elite Prime es un patinete eléctrico con llantas que se reparan solas y resisten a los pinchazos' />
     </a>
 </div>
 
