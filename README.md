@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/microsoft-deja-vender-ratones-teclados-pc-1237820'>El fin de una era: 40 años después, Microsoft deja de vender ratones y teclados de PC, y se centra en Surface</a></h4>
+    <a href='https://computerhoy.com/pc/microsoft-deja-vender-ratones-teclados-pc-1237820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/fin-era-microsoft-deja-atras-40-anos-ratones-teclados-sobremesa-centra-surface-3021588.jpg?tf=1200x' alt='El fin de una era: 40 años después, Microsoft deja de vender ratones y teclados de PC, y se centra en Surface' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/filtra-diseno-motorola-razr-2023-puede-estemos-mejor-pantalla-exterior-plegable-1237156'>Se filtra el diseño del Motorola Razr 2023 y puede que estemos ante la mejor pantalla exterior de un plegable</a></h4>
+    <a href='https://computerhoy.com/moviles/filtra-diseno-motorola-razr-2023-puede-estemos-mejor-pantalla-exterior-plegable-1237156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/motorola-razr-2963878.jpg?tf=1200x' alt='Se filtra el diseño del Motorola Razr 2023 y puede que estemos ante la mejor pantalla exterior de un plegable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/estrenos-mayo-hbo-max-1237816'>El escandalo del Watergate, el regreso de Tartakovsky, y una comedia española de éxito, entre los estrenos de mayo en HBO Max</a></h4>
+    <a href='https://computerhoy.com/streaming/estrenos-mayo-hbo-max-1237816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/escandalo-watergate-regreso-tartakovsky-comedia-espanola-exito-estrenos-mayo-hbo-max-3021566.jpg?tf=1200x' alt='El escandalo del Watergate, el regreso de Tartakovsky, y una comedia española de éxito, entre los estrenos de mayo en HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-prime-video-netflix-hbo-max-pueblo-maldito-nino-ciervo-espias-1237716'>Qué series ver este fin de semana en Prime Video, Netflix y HBO Max: un pueblo maldito, un niño ciervo y espías</a></h4>
+    <a href='https://computerhoy.com/streaming/series-ver-fin-semana-prime-video-netflix-hbo-max-pueblo-maldito-nino-ciervo-espias-1237716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/citadel-2995290.jpg?tf=1200x' alt='Qué series ver este fin de semana en Prime Video, Netflix y HBO Max: un pueblo maldito, un niño ciervo y espías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/hackean-satelite-europeo-demostrar-facil-1237154'>Hackean un satélite europeo para demostrar lo fácil que es</a></h4>
     <a href='https://computerhoy.com/espacio/hackean-satelite-europeo-demostrar-facil-1237154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/imagen-satelite-galileo-2942156.jpg?tf=1200x' alt='Hackean un satélite europeo para demostrar lo fácil que es' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pesar-nauseabundo-aspecto-botella-vino-antigua-mundo-todavia-puede-beber-1237788'>A pesar de su nauseabundo aspecto la botella de vino más antigua del mundo todavía se puede beber</a></h4>
-    <a href='https://computerhoy.com/life/pesar-nauseabundo-aspecto-botella-vino-antigua-mundo-todavia-puede-beber-1237788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/vino-3021528.jpg?tf=1200x' alt='A pesar de su nauseabundo aspecto la botella de vino más antigua del mundo todavía se puede beber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-llevar-genial-efecto-mica-windows-11-google-chrome-1237786'>Microsoft quiere llevar el genial efecto Mica de Windows 11 a Google Chrome</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-quiere-llevar-genial-efecto-mica-windows-11-google-chrome-1237786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chrome-efecto-mica-3021520.jpg?tf=1200x' alt='Microsoft quiere llevar el genial efecto Mica de Windows 11 a Google Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/solo-podran-hacerte-esperar-3-minutos-nueva-ley-atencion-cliente-1237714'>Solo podrán hacerte esperar 3 minutos: así es la nueva ley de atención al cliente</a></h4>
-    <a href='https://computerhoy.com/legislacion/solo-podran-hacerte-esperar-3-minutos-nueva-ley-atencion-cliente-1237714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lllamada-movil-2786823.jpg?tf=1200x' alt='Solo podrán hacerte esperar 3 minutos: así es la nueva ley de atención al cliente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/yadea-scooter-eliteprime-patinete-electrico-antipinchazos-1237754'>Yadea Elite Prime es un patinete eléctrico con llantas que se reparan solas y resisten a los pinchazos</a></h4>
-    <a href='https://computerhoy.com/motor/yadea-scooter-eliteprime-patinete-electrico-antipinchazos-1237754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/yadea-scooter-eliteprime-3021440.jpg?tf=1200x' alt='Yadea Elite Prime es un patinete eléctrico con llantas que se reparan solas y resisten a los pinchazos' />
     </a>
 </div>
 
