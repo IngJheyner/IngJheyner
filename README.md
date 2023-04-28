@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-varia-radar-bicicletas-electricas-te-puede-salvar-vida-1237146'>Garmin Varia, el radar para bicicletas eléctricas que te puede salvar la vida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-varia-radar-bicicletas-electricas-te-puede-salvar-vida-1237146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/garmin-varia-3020494.jpg?tf=1200x' alt='Garmin Varia, el radar para bicicletas eléctricas que te puede salvar la vida' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-a13-mejor-oferta-disponible-amazon-1237012'>Chollo por uno de los móviles más baratos de Samsung: este Galaxy A13 tiene 72€ de descuento</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-galaxy-a13-mejor-oferta-disponible-amazon-1237012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-a13-3020202.jpg?tf=1200x' alt='Chollo por uno de los móviles más baratos de Samsung: este Galaxy A13 tiene 72€ de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/app-microsoft-ia-creara-contenido-redes-sociales-ti-segundos-1237442'>Esta aplicación de Microsoft con IA creará contenido para redes sociales por ti en segundos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/app-microsoft-ia-creara-contenido-redes-sociales-ti-segundos-1237442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nueva-aplicacion-ia-microsoft-creara-contenido-redes-sociales-ti-segundos-3020858.jpg?tf=1200x' alt='Esta aplicación de Microsoft con IA creará contenido para redes sociales por ti en segundos' />
+    <h4><a href='https://computerhoy.com/tecnologia/quien-creo-chatgpt-quien-dueno-actual-pinta-elon-musk-todo-1237486'>Quién creó ChatGPT, quién es su dueño actual y qué pinta Elon Musk en todo esto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quien-creo-chatgpt-quien-dueno-actual-pinta-elon-musk-todo-1237486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/quien-creo-chatgpt-quien-dueno-actual-pinta-elon-musk-todo-3021004.jpg?tf=1200x' alt='Quién creó ChatGPT, quién es su dueño actual y qué pinta Elon Musk en todo esto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/xiaomi-redmi-note-11-merece-pena-alternativas-baratas-1236448'>Xiaomi Redmi Note 11: ¿merece la pena en 2023? Características y alternativas baratas</a></h4>
-    <a href='https://computerhoy.com/moviles/xiaomi-redmi-note-11-merece-pena-alternativas-baratas-1236448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643061.jpg?tf=1200x' alt='Xiaomi Redmi Note 11: ¿merece la pena en 2023? Características y alternativas baratas' />
+    <h4><a href='https://computerhoy.com/life/demencia-frontotemporal-extrano-sindrome-modificando-cerebro-bruce-willis-1237186'>Demencia frontotemporal, el extraño síndrome que está modificando el cerebro de Bruce Willis</a></h4>
+    <a href='https://computerhoy.com/life/demencia-frontotemporal-extrano-sindrome-modificando-cerebro-bruce-willis-1237186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bruce-willis-2974508.jpg?tf=1200x' alt='Demencia frontotemporal, el extraño síndrome que está modificando el cerebro de Bruce Willis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/sony-bravia-xr-a80l-55-analisis-review-caracteristicas-precio-1233502'>Sony Bravia XR A80L de 55": calidad de imagen y sonido para el OLED más equilibrado de Sony</a></h4>
-    <a href='https://computerhoy.com/analisis/sony-bravia-xr-a80l-55-analisis-review-caracteristicas-precio-1233502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sony-bravia-xr-a80l-analisis-opinion-3019740.jpg?tf=1200x' alt='Sony Bravia XR A80L de 55": calidad de imagen y sonido para el OLED más equilibrado de Sony' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-waze-mejor-app-evitar-atascos-android-auto-1237496'>Cuál es mejor para evitar atascos en Android Auto: ¿Google Maps o Waze?</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-waze-mejor-app-evitar-atascos-android-auto-1237496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/problemas-habituales-android-auto-como-solucionarlos-2457413.jpg?tf=1200x' alt='Cuál es mejor para evitar atascos en Android Auto: ¿Google Maps o Waze?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/kaos-jammer-pendrive-hackear-redes-wifi-video-1237408'>Kaos Jammer, el pendrive para hackear redes WiFi que ha sido retirado de KickStarter (vídeo)</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/kaos-jammer-pendrive-hackear-redes-wifi-video-1237408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1682655794044-3020774.jpg?tf=1200x' alt='Kaos Jammer, el pendrive para hackear redes WiFi que ha sido retirado de KickStarter (vídeo)' />
+    <h4><a href='https://computerhoy.com/legislacion/ue-propone-nuevas-reglas-copyright-herramientas-ia-1237466'>La UE por fin de acuerdo: propone nuevas reglas de copyright para herramientas de IA como ChatGPT</a></h4>
+    <a href='https://computerhoy.com/legislacion/ue-propone-nuevas-reglas-copyright-herramientas-ia-1237466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ue-fin-acuerdo-propone-nuevas-reglas-derechos-autor-herramientas-ia-como-chatgpt-3020956.jpg?tf=1200x' alt='La UE por fin de acuerdo: propone nuevas reglas de copyright para herramientas de IA como ChatGPT' />
     </a>
 </div>
 
