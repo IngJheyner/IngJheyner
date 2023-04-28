@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-varia-radar-bicicletas-electricas-te-puede-salvar-vida-1237146'>Garmin Varia, el radar para bicicletas eléctricas que te puede salvar la vida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-varia-radar-bicicletas-electricas-te-puede-salvar-vida-1237146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/garmin-varia-3020494.jpg?tf=1200x' alt='Garmin Varia, el radar para bicicletas eléctricas que te puede salvar la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/app-microsoft-ia-creara-contenido-redes-sociales-ti-segundos-1237442'>Esta aplicación de Microsoft con IA creará contenido para redes sociales por ti en segundos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/app-microsoft-ia-creara-contenido-redes-sociales-ti-segundos-1237442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nueva-aplicacion-ia-microsoft-creara-contenido-redes-sociales-ti-segundos-3020858.jpg?tf=1200x' alt='Esta aplicación de Microsoft con IA creará contenido para redes sociales por ti en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/xiaomi-redmi-note-11-merece-pena-alternativas-baratas-1236448'>Xiaomi Redmi Note 11: ¿merece la pena en 2023? Características y alternativas baratas</a></h4>
     <a href='https://computerhoy.com/moviles/xiaomi-redmi-note-11-merece-pena-alternativas-baratas-1236448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/redmi-note-11-analisis-opinion-2643061.jpg?tf=1200x' alt='Xiaomi Redmi Note 11: ¿merece la pena en 2023? Características y alternativas baratas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/kaos-jammer-pendrive-hackear-redes-wifi-video-1237408'>Kaos Jammer, el pendrive para hackear redes WiFi que ha sido retirado de KickStarter (vídeo)</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/kaos-jammer-pendrive-hackear-redes-wifi-video-1237408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1682655794044-3020774.jpg?tf=1200x' alt='Kaos Jammer, el pendrive para hackear redes WiFi que ha sido retirado de KickStarter (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/como-montar-hogar-5g-1236950'>Cómo montar un hogar 5G y olvidarte de la fibra o el ADSL</a></h4>
-    <a href='https://computerhoy.com/redes/como-montar-hogar-5g-1236950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/oppo-5g-cpe-t1a-3020188.jpg?tf=1200x' alt='Cómo montar un hogar 5G y olvidarte de la fibra o el ADSL' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/que-es-maximo-solar-1237400'>Estamos a punto de alcanzar un Máximo Solar por primera vez en una década, ¿qué significa?</a></h4>
-    <a href='https://computerhoy.com/espacio/que-es-maximo-solar-1237400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estamos-punto-alcanzar-maximo-solar-primera-vez-decada-significa-3020560.jpg?tf=1200x' alt='Estamos a punto de alcanzar un Máximo Solar por primera vez en una década, ¿qué significa?' />
     </a>
 </div>
 
