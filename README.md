@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-anuncia-fin-actualizaciones-windows-10-1237182'>Microsoft anuncia que ya no habrá más actualizaciones de Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-anuncia-fin-actualizaciones-windows-10-1237182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/microsoft-anuncia-ya-no-habra-actualizaciones-windows-10-salvo-seguridad-3020544.jpg?tf=1200x' alt='Microsoft anuncia que ya no habrá más actualizaciones de Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/excusa-elon-musk-no-reconocer-errores-digo-podria-ser-deepfake-1237040'>La excusa de Elon Musk para no reconocer sus errores: 'lo que digo podría ser un deepfake'</a></h4>
     <a href='https://computerhoy.com/tecnologia/excusa-elon-musk-no-reconocer-errores-digo-podria-ser-deepfake-1237040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-presenta-plan-maestro-3-centrado-sostenibilidad-pero-nada-nuevos-coches-2971594.jpg?tf=1200x' alt='La excusa de Elon Musk para no reconocer sus errores: 'lo que digo podría ser un deepfake'' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/error-router-wifi-deja-vendidos-posibles-ataques-todos-dispositivos-1237160'>El error con el router WiFi que deja vendidos ante posibles ataques a todos tus dispositivos</a></h4>
     <a href='https://computerhoy.com/internet/error-router-wifi-deja-vendidos-posibles-ataques-todos-dispositivos-1237160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/router-wifi-3020522.jpg?tf=1200x' alt='El error con el router WiFi que deja vendidos ante posibles ataques a todos tus dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/truco-podras-enviar-mensajes-durante-vuelo-incluso-modo-avion-1237114'>Con este truco podrás enviar mensajes durante un vuelo, incluso en modo avión</a></h4>
-    <a href='https://computerhoy.com/tecnologia/truco-podras-enviar-mensajes-durante-vuelo-incluso-modo-avion-1237114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/modo-avion-iphone-3020440.jpg?tf=1200x' alt='Con este truco podrás enviar mensajes durante un vuelo, incluso en modo avión' />
     </a>
 </div>
 
