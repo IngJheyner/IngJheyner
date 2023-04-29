@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/estos-son-renders-calidad-vas-ver-google-pixel-fold-antes-presentacion-1238114'>Estos son los renders de más calidad que vas a ver del Google Pixel Fold antes de su presentación</a></h4>
+    <a href='https://computerhoy.com/moviles/estos-son-renders-calidad-vas-ver-google-pixel-fold-antes-presentacion-1238114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/render-google-pixel-fold-3021916.jpg?tf=1200x' alt='Estos son los renders de más calidad que vas a ver del Google Pixel Fold antes de su presentación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/puedes-utilizar-bono-cultural-pagar-netflix-spotify-amazon-1238106'>¿Puedes utilizar el Bono Cultural para pagar Netflix, Spotify o Amazon?</a></h4>
+    <a href='https://computerhoy.com/life/puedes-utilizar-bono-cultural-pagar-netflix-spotify-amazon-1238106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bono-cultural-joven-2023-2988254.jpg?tf=1200x' alt='¿Puedes utilizar el Bono Cultural para pagar Netflix, Spotify o Amazon?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-piratea-voyager-2-ampliar-vida-util-1238092'>La NASA piratea la Voyager 2 para ampliar su vida útil</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-piratea-voyager-2-ampliar-vida-util-1238092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/recreacion-sonda-voyager-2797973.jpg?tf=1200x' alt='La NASA piratea la Voyager 2 para ampliar su vida útil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/chatgpt-actualiza-ya-puede-responder-cuestiones-recientes-gracias-funcionalidad-bebe-bing-chat-1238088'>ChatGPT se actualiza: ya puede responder a cuestiones recientes gracias a esta funcionalidad que bebe de Bing Chat</a></h4>
     <a href='https://computerhoy.com/apps/chatgpt-actualiza-ya-puede-responder-cuestiones-recientes-gracias-funcionalidad-bebe-bing-chat-1238088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2998412.jpg?tf=1200x' alt='ChatGPT se actualiza: ya puede responder a cuestiones recientes gracias a esta funcionalidad que bebe de Bing Chat' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-sistema-control-parental-windows-11-1235740'>Cómo instalar un sistema de control parental en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-sistema-control-parental-windows-11-1235740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/control-parental-windows-11-3017990.jpg?tf=1200x' alt='Cómo instalar un sistema de control parental en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/secreto-iniciar-onlyfans-seguidores-expertos-1235386'>El secreto para triunfar en OnlyFans, según los expertos</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/secreto-iniciar-onlyfans-seguidores-expertos-1235386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/onlyfans-2659279.jpg?tf=1200x' alt='El secreto para triunfar en OnlyFans, según los expertos' />
     </a>
 </div>
 
