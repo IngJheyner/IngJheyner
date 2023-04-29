@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/instagram-probando-canciones-carruseles-fotos-consiste-1238168'>Instagram está probando canciones en carruseles de fotos y en esto consiste</a></h4>
+    <a href='https://computerhoy.com/apps/instagram-probando-canciones-carruseles-fotos-consiste-1238168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/instagram-3022000.jpg?tf=1200x' alt='Instagram está probando canciones en carruseles de fotos y en esto consiste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-vaciado-automatico-981051'>Estos son los mejores robots aspiradores con vaciado automático que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-vaciado-automatico-981051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cecotec-conga-2299-ultra-home-x-treme-x-2978642.jpg?tf=1200x' alt='Estos son los mejores robots aspiradores con vaciado automático que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estudio-desvela-generacion-dificil-trabajar-1238136'>Este estudio desvela la generación con la que es más difícil trabajar</a></h4>
+    <a href='https://computerhoy.com/life/estudio-desvela-generacion-dificil-trabajar-1238136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/trabajo-oficina-3021954.jpg?tf=1200x' alt='Este estudio desvela la generación con la que es más difícil trabajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/nueva-mejora-ahorro-memoria-ofrecera-chrome-windows-1238130'>Así es la nueva mejora de ahorro de memoria que ofrecerá Chrome en Windows</a></h4>
     <a href='https://computerhoy.com/windows/nueva-mejora-ahorro-memoria-ofrecera-chrome-windows-1238130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-chrome-3021946.jpg?tf=1200x' alt='Así es la nueva mejora de ahorro de memoria que ofrecerá Chrome en Windows' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/mini-robots-capaces-acelerar-proceso-elaboracion-cerveza-1238120'>Los mini robots capaces de acelerar el proceso de elaboración de la cerveza</a></h4>
     <a href='https://computerhoy.com/ciencia/mini-robots-capaces-acelerar-proceso-elaboracion-cerveza-1238120' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mini-robots-capaces-acelerar-proceso-elaboracion-cerveza-3021936.jpg?tf=1200x' alt='Los mini robots capaces de acelerar el proceso de elaboración de la cerveza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/estos-son-renders-calidad-vas-ver-google-pixel-fold-antes-presentacion-1238114'>Estos son los renders de más calidad que vas a ver del Google Pixel Fold antes de su presentación</a></h4>
-    <a href='https://computerhoy.com/moviles/estos-son-renders-calidad-vas-ver-google-pixel-fold-antes-presentacion-1238114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/render-google-pixel-fold-3021916.jpg?tf=1200x' alt='Estos son los renders de más calidad que vas a ver del Google Pixel Fold antes de su presentación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/puedes-utilizar-bono-cultural-pagar-netflix-spotify-amazon-1238106'>¿Puedes utilizar el Bono Cultural para pagar Netflix, Spotify o Amazon?</a></h4>
-    <a href='https://computerhoy.com/life/puedes-utilizar-bono-cultural-pagar-netflix-spotify-amazon-1238106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bono-cultural-joven-2023-2988254.jpg?tf=1200x' alt='¿Puedes utilizar el Bono Cultural para pagar Netflix, Spotify o Amazon?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-piratea-voyager-2-ampliar-vida-util-1238092'>La NASA piratea la Voyager 2 para ampliar su vida útil</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-piratea-voyager-2-ampliar-vida-util-1238092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/recreacion-sonda-voyager-2797973.jpg?tf=1200x' alt='La NASA piratea la Voyager 2 para ampliar su vida útil' />
     </a>
 </div>
 
