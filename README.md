@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/nueva-mejora-ahorro-memoria-ofrecera-chrome-windows-1238130'>Así es la nueva mejora de ahorro de memoria que ofrecerá Chrome en Windows</a></h4>
+    <a href='https://computerhoy.com/windows/nueva-mejora-ahorro-memoria-ofrecera-chrome-windows-1238130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-chrome-3021946.jpg?tf=1200x' alt='Así es la nueva mejora de ahorro de memoria que ofrecerá Chrome en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/mini-robots-capaces-acelerar-proceso-elaboracion-cerveza-1238120'>Los mini robots capaces de acelerar el proceso de elaboración de la cerveza</a></h4>
+    <a href='https://computerhoy.com/ciencia/mini-robots-capaces-acelerar-proceso-elaboracion-cerveza-1238120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mini-robots-capaces-acelerar-proceso-elaboracion-cerveza-3021936.jpg?tf=1200x' alt='Los mini robots capaces de acelerar el proceso de elaboración de la cerveza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/estos-son-renders-calidad-vas-ver-google-pixel-fold-antes-presentacion-1238114'>Estos son los renders de más calidad que vas a ver del Google Pixel Fold antes de su presentación</a></h4>
     <a href='https://computerhoy.com/moviles/estos-son-renders-calidad-vas-ver-google-pixel-fold-antes-presentacion-1238114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/render-google-pixel-fold-3021916.jpg?tf=1200x' alt='Estos son los renders de más calidad que vas a ver del Google Pixel Fold antes de su presentación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-piratea-voyager-2-ampliar-vida-util-1238092'>La NASA piratea la Voyager 2 para ampliar su vida útil</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-piratea-voyager-2-ampliar-vida-util-1238092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/recreacion-sonda-voyager-2797973.jpg?tf=1200x' alt='La NASA piratea la Voyager 2 para ampliar su vida útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/mejores-caracteristicas-playstation-5-desaparece-siempre-aunque-estas-tiempo-evitarlo-1237172'>Una de las mejores características de PlayStation 5 desaparece para siempre, aunque estás a tiempo de evitarlo</a></h4>
-    <a href='https://computerhoy.com/gaming/mejores-caracteristicas-playstation-5-desaparece-siempre-aunque-estas-tiempo-evitarlo-1237172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/ps5-2428191.jpg?tf=1200x' alt='Una de las mejores características de PlayStation 5 desaparece para siempre, aunque estás a tiempo de evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chatgpt-actualiza-ya-puede-responder-cuestiones-recientes-gracias-funcionalidad-bebe-bing-chat-1238088'>ChatGPT se actualiza: ya puede responder a cuestiones recientes gracias a esta funcionalidad que bebe de Bing Chat</a></h4>
-    <a href='https://computerhoy.com/apps/chatgpt-actualiza-ya-puede-responder-cuestiones-recientes-gracias-funcionalidad-bebe-bing-chat-1238088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2998412.jpg?tf=1200x' alt='ChatGPT se actualiza: ya puede responder a cuestiones recientes gracias a esta funcionalidad que bebe de Bing Chat' />
     </a>
 </div>
 
