@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ofertas-finales-xiaomi-fan-festival-1237584'>Últimas horas de ofertas del Xiaomi Fan Festival: los mejores chollos de última hora</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ofertas-finales-xiaomi-fan-festival-1237584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/portada-xiaomi-fan-festival-2023-3021458.jpg?tf=1200x' alt='Últimas horas de ofertas del Xiaomi Fan Festival: los mejores chollos de última hora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/encontrar-leopardo-foto-1237482'>9 de cada 10 personas no pueden encontrar al leopardo en esta foto</a></h4>
+    <a href='https://computerhoy.com/life/encontrar-leopardo-foto-1237482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/9-cada-10-personas-no-pueden-encontrar-guepardo-foto-3020874.jpg?tf=1200x' alt='9 de cada 10 personas no pueden encontrar al leopardo en esta foto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/gran-abuelo-alerce-arbol-mas-viejo-mundo-1238034'>El Gran Abuelo, el árbol más viejo del mundo: nació antes de que los egipcios construyeran las pirámides</a></h4>
+    <a href='https://computerhoy.com/ciencia/gran-abuelo-alerce-arbol-mas-viejo-mundo-1238034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gran-abuelo-arbol-viejo-mundo-nacio-antes-egipcios-construyeran-piramides-3021598.jpg?tf=1200x' alt='El Gran Abuelo, el árbol más viejo del mundo: nació antes de que los egipcios construyeran las pirámides' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/microsoft-deja-vender-ratones-teclados-pc-1237820'>El fin de una era: 40 años después, Microsoft deja de vender ratones y teclados de PC, y se centra en Surface</a></h4>
     <a href='https://computerhoy.com/pc/microsoft-deja-vender-ratones-teclados-pc-1237820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/fin-era-microsoft-deja-atras-40-anos-ratones-teclados-sobremesa-centra-surface-3021588.jpg?tf=1200x' alt='El fin de una era: 40 años después, Microsoft deja de vender ratones y teclados de PC, y se centra en Surface' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/filtra-diseno-motorola-razr-2023-puede-estemos-mejor-pantalla-exterior-plegable-1237156'>Se filtra el diseño del Motorola Razr 2023 y puede que estemos ante la mejor pantalla exterior de un plegable</a></h4>
     <a href='https://computerhoy.com/moviles/filtra-diseno-motorola-razr-2023-puede-estemos-mejor-pantalla-exterior-plegable-1237156' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/motorola-razr-2963878.jpg?tf=1200x' alt='Se filtra el diseño del Motorola Razr 2023 y puede que estemos ante la mejor pantalla exterior de un plegable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/estrenos-mayo-hbo-max-1237816'>El escandalo del Watergate, el regreso de Tartakovsky, y una comedia española de éxito, entre los estrenos de mayo en HBO Max</a></h4>
-    <a href='https://computerhoy.com/streaming/estrenos-mayo-hbo-max-1237816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/escandalo-watergate-regreso-tartakovsky-comedia-espanola-exito-estrenos-mayo-hbo-max-3021566.jpg?tf=1200x' alt='El escandalo del Watergate, el regreso de Tartakovsky, y una comedia española de éxito, entre los estrenos de mayo en HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-prime-video-netflix-hbo-max-pueblo-maldito-nino-ciervo-espias-1237716'>Qué series ver este fin de semana en Prime Video, Netflix y HBO Max: un pueblo maldito, un niño ciervo y espías</a></h4>
-    <a href='https://computerhoy.com/streaming/series-ver-fin-semana-prime-video-netflix-hbo-max-pueblo-maldito-nino-ciervo-espias-1237716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/citadel-2995290.jpg?tf=1200x' alt='Qué series ver este fin de semana en Prime Video, Netflix y HBO Max: un pueblo maldito, un niño ciervo y espías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/hackean-satelite-europeo-demostrar-facil-1237154'>Hackean un satélite europeo para demostrar lo fácil que es</a></h4>
-    <a href='https://computerhoy.com/espacio/hackean-satelite-europeo-demostrar-facil-1237154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/imagen-satelite-galileo-2942156.jpg?tf=1200x' alt='Hackean un satélite europeo para demostrar lo fácil que es' />
     </a>
 </div>
 
