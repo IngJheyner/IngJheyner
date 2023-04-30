@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-separara-volumen-notificaciones-tonos-llamada-android-1238426'>Google separará el volumen de notificaciones y el de tonos de llamada en Android</a></h4>
+    <a href='https://computerhoy.com/android/google-separara-volumen-notificaciones-tonos-llamada-android-1238426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/android-3022320.jpg?tf=1200x' alt='Google separará el volumen de notificaciones y el de tonos de llamada en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/razon-tanto-nos-gusta-hacernos-selfies-1238422'>La razón por la que tanto nos gusta hacernos selfies</a></h4>
     <a href='https://computerhoy.com/life/razon-tanto-nos-gusta-hacernos-selfies-1238422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/selfie-3022306.jpg?tf=1200x' alt='La razón por la que tanto nos gusta hacernos selfies' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/inteligencia-artificial-crea-recetas-basadas-ingredientes-tienes-disponibles-nevera-1238406'>Esta inteligencia artificial crea recetas basadas en los ingredientes que tienes disponibles en la nevera</a></h4>
     <a href='https://computerhoy.com/ciencia/inteligencia-artificial-crea-recetas-basadas-ingredientes-tienes-disponibles-nevera-1238406' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inteligencia-artificial-cocina-3022292.jpg?tf=1200x' alt='Esta inteligencia artificial crea recetas basadas en los ingredientes que tienes disponibles en la nevera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-problema-fondo-escritorio-negro-windows-1236360'>Cómo solucionar el problema del fondo de escritorio negro en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-problema-fondo-escritorio-negro-windows-1236360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/fondo-negro-windows-3019060.jpg?tf=1200x' alt='Cómo solucionar el problema del fondo de escritorio negro en Windows' />
     </a>
 </div>
 
