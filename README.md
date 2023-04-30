@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/nvidia-rtx-4060ti-finales-mayo-8-gb-vram-1238482'>NVIDIA lanzará la RTX 4060Ti a finales de mayo, pero llega con un problema</a></h4>
+    <a href='https://computerhoy.com/pc/nvidia-rtx-4060ti-finales-mayo-8-gb-vram-1238482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/filtran-esperadas-tarjetas-rtx-4070-4060-2988092.jpg?tf=1200x' alt='NVIDIA lanzará la RTX 4060Ti a finales de mayo, pero llega con un problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-curso-gratuito-aprender-inteligencia-artificial-1238480'>OpenAI estrena un curso gratuito para aprender inteligencia artificial e iniciarte en la profesión más demandada: prompt engineer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-curso-gratuito-aprender-inteligencia-artificial-1238480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/openai-lanza-curso-gratuito-aprender-usar-inteligencia-artificial-iniciarte-profesion-demandada-prompt-engineer-3022442.jpg?tf=1200x' alt='OpenAI estrena un curso gratuito para aprender inteligencia artificial e iniciarte en la profesión más demandada: prompt engineer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/primer-transistor-madera-funciona-1-hz-reciclable-1238478'>Presentan el primer transistor de madera, funciona a 1 Hz y es reciclable</a></h4>
     <a href='https://computerhoy.com/tecnologia/primer-transistor-madera-funciona-1-hz-reciclable-1238478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/presentan-primer-transistor-madera-funciona-1-hz-reciclable-3022434.jpg?tf=1200x' alt='Presentan el primer transistor de madera, funciona a 1 Hz y es reciclable' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-twitter-tuits-contenido-pago-1238470'>Si quieres leer este tuit, paga un euro: la nueva medida de Elon Musk para rentabilizar Twitter</a></h4>
     <a href='https://computerhoy.com/redes-sociales/elon-musk-twitter-tuits-contenido-pago-1238470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/quieres-leer-tuit-paga-euro-nueva-medida-elon-musk-rentabilizar-twitter-3022430.jpg?tf=1200x' alt='Si quieres leer este tuit, paga un euro: la nueva medida de Elon Musk para rentabilizar Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-separara-volumen-notificaciones-tonos-llamada-android-1238426'>Google separará el volumen de notificaciones y el de tonos de llamada en Android</a></h4>
-    <a href='https://computerhoy.com/android/google-separara-volumen-notificaciones-tonos-llamada-android-1238426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/android-3022320.jpg?tf=1200x' alt='Google separará el volumen de notificaciones y el de tonos de llamada en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/razon-tanto-nos-gusta-hacernos-selfies-1238422'>La razón por la que tanto nos gusta hacernos selfies</a></h4>
-    <a href='https://computerhoy.com/life/razon-tanto-nos-gusta-hacernos-selfies-1238422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/selfie-3022306.jpg?tf=1200x' alt='La razón por la que tanto nos gusta hacernos selfies' />
     </a>
 </div>
 
