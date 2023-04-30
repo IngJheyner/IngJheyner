@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/primer-transistor-madera-funciona-1-hz-reciclable-1238478'>Presentan el primer transistor de madera, funciona a 1 Hz y es reciclable</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-transistor-madera-funciona-1-hz-reciclable-1238478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/presentan-primer-transistor-madera-funciona-1-hz-reciclable-3022434.jpg?tf=1200x' alt='Presentan el primer transistor de madera, funciona a 1 Hz y es reciclable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/como-funciona-lan-virtual-nordvpn-1237646'>Cómo funciona la LAN Virtual de NordVPN que algunas personas usan para engañar a Netflix</a></h4>
     <a href='https://computerhoy.com/redes/como-funciona-lan-virtual-nordvpn-1237646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/varios-dispositivos-usando-red-vpn-3021256.jpg?tf=1200x' alt='Cómo funciona la LAN Virtual de NordVPN que algunas personas usan para engañar a Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/razon-tanto-nos-gusta-hacernos-selfies-1238422'>La razón por la que tanto nos gusta hacernos selfies</a></h4>
     <a href='https://computerhoy.com/life/razon-tanto-nos-gusta-hacernos-selfies-1238422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/selfie-3022306.jpg?tf=1200x' alt='La razón por la que tanto nos gusta hacernos selfies' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/estos-renders-samsung-galaxy-z-fold-5-muestran-nuevo-diseno-1238418'>Estos renders del Samsung Galaxy Z Fold 5 muestran su nuevo diseño</a></h4>
-    <a href='https://computerhoy.com/moviles/estos-renders-samsung-galaxy-z-fold-5-muestran-nuevo-diseno-1238418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/render-samsung-galaxy-z-fold-5-3022300.jpg?tf=1200x' alt='Estos renders del Samsung Galaxy Z Fold 5 muestran su nuevo diseño' />
     </a>
 </div>
 
