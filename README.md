@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/samsung-galaxy-book2-pro-600-euros-descuento-1238176'>Samsung tiene uno de los mejores competidores del MacBook Air con 16GB de RAM y un descuento de 600€</a></h4>
-    <a href='https://computerhoy.com/pc/samsung-galaxy-book2-pro-600-euros-descuento-1238176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-book2-pro-3022044.jpg?tf=1200x' alt='Samsung tiene uno de los mejores competidores del MacBook Air con 16GB de RAM y un descuento de 600€' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-problema-fondo-escritorio-negro-windows-1236360'>Cómo solucionar el problema del fondo de escritorio negro en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-solucionar-problema-fondo-escritorio-negro-windows-1236360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/fondo-negro-windows-3019060.jpg?tf=1200x' alt='Cómo solucionar el problema del fondo de escritorio negro en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/movil-portatil-me-da-corriente-cuando-pongo-cargar-1235746'>El móvil o portátil me da corriente cuando lo pongo a cargar en casa...</a></h4>
-    <a href='https://computerhoy.com/life/movil-portatil-me-da-corriente-cuando-pongo-cargar-1235746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/calabre-portatil-3018052.jpg?tf=1200x' alt='El móvil o portátil me da corriente cuando lo pongo a cargar en casa...' />
+    <h4><a href='https://computerhoy.com/moviles/nuevo-uso-podrias-dar-telefono-movil-mapear-campos-magneticos-gracias-tecnologia-oled-1238400'>El nuevo uso que podrías dar a tu teléfono móvil: mapear campos magnéticos gracias a la tecnología OLED</a></h4>
+    <a href='https://computerhoy.com/moviles/nuevo-uso-podrias-dar-telefono-movil-mapear-campos-magneticos-gracias-tecnologia-oled-1238400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/telefono-movil-3022286.jpg?tf=1200x' alt='El nuevo uso que podrías dar a tu teléfono móvil: mapear campos magnéticos gracias a la tecnología OLED' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-pez-robot-ayudar-exploracion-submarina-1238154'>Crean un pez robot para ayudar en la exploración submarina</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-pez-robot-ayudar-exploracion-submarina-1238154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/crean-pez-robot-ayudar-exploracion-submarina-3021988.jpg?tf=1200x' alt='Crean un pez robot para ayudar en la exploración submarina' />
+    <h4><a href='https://computerhoy.com/internet/ipv6-fundamental-futuro-internet-1227200'>¿Qué es IPv6 y por qué es fundamental para el futuro de Internet?  </a></h4>
+    <a href='https://computerhoy.com/internet/ipv6-fundamental-futuro-internet-1227200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1682700772730-3021500.jpg?tf=1200x' alt='¿Qué es IPv6 y por qué es fundamental para el futuro de Internet?  ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/regreso-pasado-30-anos-apertura-mundo-world-wide-web-1230404'>Regreso al pasado: 30 años de la apertura al mundo de la World Wide Web (WWW)</a></h4>
-    <a href='https://computerhoy.com/internet/regreso-pasado-30-anos-apertura-mundo-world-wide-web-1230404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/regreso-pasado-30-anos-apertura-mundo-world-wide-web-3018156.jpg?tf=1200x' alt='Regreso al pasado: 30 años de la apertura al mundo de la World Wide Web (WWW)' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-ganar-dinero-chatgpt-ia-forma-sencilla-1235932'>Cómo ganar dinero con ChatGPT y la IA de forma sencilla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-ganar-dinero-chatgpt-ia-forma-sencilla-1235932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pregunta-chatgpt-como-ganar-dinero-100-euros-dia-gana-1280-euros-2996442.jpg?tf=1200x' alt='Cómo ganar dinero con ChatGPT y la IA de forma sencilla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-son-paises-riesgo-olas-calor-proximos-anos-1238160'>Estos son los países con más riesgo por olas de calor en los próximos años</a></h4>
-    <a href='https://computerhoy.com/life/estos-son-paises-riesgo-olas-calor-proximos-anos-1238160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ola-calor-3021992.jpg?tf=1200x' alt='Estos son los países con más riesgo por olas de calor en los próximos años' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/grupos-cibercriminales-siembran-caos-espana-mundo-punto-mira-1235292'>Los grupos de cibercriminales que siembran el caos en España y el mundo en el punto de mira</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/grupos-cibercriminales-siembran-caos-espana-mundo-punto-mira-1235292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/grupos-cibercriminales-siembran-caos-espana-mundo-punto-mira-3018102.jpg?tf=1200x' alt='Los grupos de cibercriminales que siembran el caos en España y el mundo en el punto de mira' />
     </a>
 </div>
 
