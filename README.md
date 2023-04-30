@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/instagram-probando-canciones-carruseles-fotos-consiste-1238168'>Instagram está probando canciones en carruseles de fotos y en esto consiste</a></h4>
-    <a href='https://computerhoy.com/apps/instagram-probando-canciones-carruseles-fotos-consiste-1238168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/instagram-3022000.jpg?tf=1200x' alt='Instagram está probando canciones en carruseles de fotos y en esto consiste' />
+    <h4><a href='https://computerhoy.com/pc/samsung-galaxy-book2-pro-600-euros-descuento-1238176'>Samsung tiene uno de los mejores competidores del MacBook Air con 16GB de RAM y un descuento de 600€</a></h4>
+    <a href='https://computerhoy.com/pc/samsung-galaxy-book2-pro-600-euros-descuento-1238176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-book2-pro-3022044.jpg?tf=1200x' alt='Samsung tiene uno de los mejores competidores del MacBook Air con 16GB de RAM y un descuento de 600€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-vaciado-automatico-981051'>Estos son los mejores robots aspiradores con vaciado automático que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-robots-aspiradores-vaciado-automatico-981051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/cecotec-conga-2299-ultra-home-x-treme-x-2978642.jpg?tf=1200x' alt='Estos son los mejores robots aspiradores con vaciado automático que puedes comprar' />
+    <h4><a href='https://computerhoy.com/life/movil-portatil-me-da-corriente-cuando-pongo-cargar-1235746'>El móvil o portátil me da corriente cuando lo pongo a cargar en casa...</a></h4>
+    <a href='https://computerhoy.com/life/movil-portatil-me-da-corriente-cuando-pongo-cargar-1235746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/calabre-portatil-3018052.jpg?tf=1200x' alt='El móvil o portátil me da corriente cuando lo pongo a cargar en casa...' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estudio-desvela-generacion-dificil-trabajar-1238136'>Este estudio desvela la generación con la que es más difícil trabajar</a></h4>
-    <a href='https://computerhoy.com/life/estudio-desvela-generacion-dificil-trabajar-1238136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/trabajo-oficina-3021954.jpg?tf=1200x' alt='Este estudio desvela la generación con la que es más difícil trabajar' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-pez-robot-ayudar-exploracion-submarina-1238154'>Crean un pez robot para ayudar en la exploración submarina</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-pez-robot-ayudar-exploracion-submarina-1238154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/crean-pez-robot-ayudar-exploracion-submarina-3021988.jpg?tf=1200x' alt='Crean un pez robot para ayudar en la exploración submarina' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nueva-mejora-ahorro-memoria-ofrecera-chrome-windows-1238130'>Así es la nueva mejora de ahorro de memoria que ofrecerá Chrome en Windows</a></h4>
-    <a href='https://computerhoy.com/windows/nueva-mejora-ahorro-memoria-ofrecera-chrome-windows-1238130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-chrome-3021946.jpg?tf=1200x' alt='Así es la nueva mejora de ahorro de memoria que ofrecerá Chrome en Windows' />
+    <h4><a href='https://computerhoy.com/internet/regreso-pasado-30-anos-apertura-mundo-world-wide-web-1230404'>Regreso al pasado: 30 años de la apertura al mundo de la World Wide Web (WWW)</a></h4>
+    <a href='https://computerhoy.com/internet/regreso-pasado-30-anos-apertura-mundo-world-wide-web-1230404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/regreso-pasado-30-anos-apertura-mundo-world-wide-web-3018156.jpg?tf=1200x' alt='Regreso al pasado: 30 años de la apertura al mundo de la World Wide Web (WWW)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/mini-robots-capaces-acelerar-proceso-elaboracion-cerveza-1238120'>Los mini robots capaces de acelerar el proceso de elaboración de la cerveza</a></h4>
-    <a href='https://computerhoy.com/ciencia/mini-robots-capaces-acelerar-proceso-elaboracion-cerveza-1238120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mini-robots-capaces-acelerar-proceso-elaboracion-cerveza-3021936.jpg?tf=1200x' alt='Los mini robots capaces de acelerar el proceso de elaboración de la cerveza' />
+    <h4><a href='https://computerhoy.com/life/estos-son-paises-riesgo-olas-calor-proximos-anos-1238160'>Estos son los países con más riesgo por olas de calor en los próximos años</a></h4>
+    <a href='https://computerhoy.com/life/estos-son-paises-riesgo-olas-calor-proximos-anos-1238160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ola-calor-3021992.jpg?tf=1200x' alt='Estos son los países con más riesgo por olas de calor en los próximos años' />
     </a>
 </div>
 
