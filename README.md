@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/razon-tanto-nos-gusta-hacernos-selfies-1238422'>La razón por la que tanto nos gusta hacernos selfies</a></h4>
+    <a href='https://computerhoy.com/life/razon-tanto-nos-gusta-hacernos-selfies-1238422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/selfie-3022306.jpg?tf=1200x' alt='La razón por la que tanto nos gusta hacernos selfies' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/estos-renders-samsung-galaxy-z-fold-5-muestran-nuevo-diseno-1238418'>Estos renders del Samsung Galaxy Z Fold 5 muestran su nuevo diseño</a></h4>
+    <a href='https://computerhoy.com/moviles/estos-renders-samsung-galaxy-z-fold-5-muestran-nuevo-diseno-1238418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/render-samsung-galaxy-z-fold-5-3022300.jpg?tf=1200x' alt='Estos renders del Samsung Galaxy Z Fold 5 muestran su nuevo diseño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/peculiar-habito-steve-jobs-tim-cook-mantiene-todo-lider-precie-deberia-copiar-1237398'>El peculiar hábito de Steve Jobs que Tim Cook mantiene y que todo líder que se precie debería copiar</a></h4>
+    <a href='https://computerhoy.com/apple/peculiar-habito-steve-jobs-tim-cook-mantiene-todo-lider-precie-deberia-copiar-1237398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/steve-jobs-3021268.jpg?tf=1200x' alt='El peculiar hábito de Steve Jobs que Tim Cook mantiene y que todo líder que se precie debería copiar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/inteligencia-artificial-crea-recetas-basadas-ingredientes-tienes-disponibles-nevera-1238406'>Esta inteligencia artificial crea recetas basadas en los ingredientes que tienes disponibles en la nevera</a></h4>
+    <a href='https://computerhoy.com/ciencia/inteligencia-artificial-crea-recetas-basadas-ingredientes-tienes-disponibles-nevera-1238406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inteligencia-artificial-cocina-3022292.jpg?tf=1200x' alt='Esta inteligencia artificial crea recetas basadas en los ingredientes que tienes disponibles en la nevera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-problema-fondo-escritorio-negro-windows-1236360'>Cómo solucionar el problema del fondo de escritorio negro en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-solucionar-problema-fondo-escritorio-negro-windows-1236360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/fondo-negro-windows-3019060.jpg?tf=1200x' alt='Cómo solucionar el problema del fondo de escritorio negro en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nuevo-uso-podrias-dar-telefono-movil-mapear-campos-magneticos-gracias-tecnologia-oled-1238400'>El nuevo uso que podrías dar a tu teléfono móvil: mapear campos magnéticos gracias a la tecnología OLED</a></h4>
-    <a href='https://computerhoy.com/moviles/nuevo-uso-podrias-dar-telefono-movil-mapear-campos-magneticos-gracias-tecnologia-oled-1238400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/telefono-movil-3022286.jpg?tf=1200x' alt='El nuevo uso que podrías dar a tu teléfono móvil: mapear campos magnéticos gracias a la tecnología OLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/ipv6-fundamental-futuro-internet-1227200'>¿Qué es IPv6 y por qué es fundamental para el futuro de Internet?  </a></h4>
-    <a href='https://computerhoy.com/internet/ipv6-fundamental-futuro-internet-1227200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verticalimage1682700772730-3021500.jpg?tf=1200x' alt='¿Qué es IPv6 y por qué es fundamental para el futuro de Internet?  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-ganar-dinero-chatgpt-ia-forma-sencilla-1235932'>Cómo ganar dinero con ChatGPT y la IA de forma sencilla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-ganar-dinero-chatgpt-ia-forma-sencilla-1235932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pregunta-chatgpt-como-ganar-dinero-100-euros-dia-gana-1280-euros-2996442.jpg?tf=1200x' alt='Cómo ganar dinero con ChatGPT y la IA de forma sencilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/grupos-cibercriminales-siembran-caos-espana-mundo-punto-mira-1235292'>Los grupos de cibercriminales que siembran el caos en España y el mundo en el punto de mira</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/grupos-cibercriminales-siembran-caos-espana-mundo-punto-mira-1235292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/grupos-cibercriminales-siembran-caos-espana-mundo-punto-mira-3018102.jpg?tf=1200x' alt='Los grupos de cibercriminales que siembran el caos en España y el mundo en el punto de mira' />
     </a>
 </div>
 
