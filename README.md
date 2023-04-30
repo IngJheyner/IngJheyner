@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/como-funciona-lan-virtual-nordvpn-1237646'>Cómo funciona la LAN Virtual de NordVPN que algunas personas usan para engañar a Netflix</a></h4>
+    <a href='https://computerhoy.com/redes/como-funciona-lan-virtual-nordvpn-1237646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/varios-dispositivos-usando-red-vpn-3021256.jpg?tf=1200x' alt='Cómo funciona la LAN Virtual de NordVPN que algunas personas usan para engañar a Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-twitter-tuits-contenido-pago-1238470'>Si quieres leer este tuit, paga un euro: la nueva medida de Elon Musk para rentabilizar Twitter</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-twitter-tuits-contenido-pago-1238470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/quieres-leer-tuit-paga-euro-nueva-medida-elon-musk-rentabilizar-twitter-3022430.jpg?tf=1200x' alt='Si quieres leer este tuit, paga un euro: la nueva medida de Elon Musk para rentabilizar Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/google-separara-volumen-notificaciones-tonos-llamada-android-1238426'>Google separará el volumen de notificaciones y el de tonos de llamada en Android</a></h4>
     <a href='https://computerhoy.com/android/google-separara-volumen-notificaciones-tonos-llamada-android-1238426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/android-3022320.jpg?tf=1200x' alt='Google separará el volumen de notificaciones y el de tonos de llamada en Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/estos-renders-samsung-galaxy-z-fold-5-muestran-nuevo-diseno-1238418'>Estos renders del Samsung Galaxy Z Fold 5 muestran su nuevo diseño</a></h4>
     <a href='https://computerhoy.com/moviles/estos-renders-samsung-galaxy-z-fold-5-muestran-nuevo-diseno-1238418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/render-samsung-galaxy-z-fold-5-3022300.jpg?tf=1200x' alt='Estos renders del Samsung Galaxy Z Fold 5 muestran su nuevo diseño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/peculiar-habito-steve-jobs-tim-cook-mantiene-todo-lider-precie-deberia-copiar-1237398'>El peculiar hábito de Steve Jobs que Tim Cook mantiene y que todo líder que se precie debería copiar</a></h4>
-    <a href='https://computerhoy.com/apple/peculiar-habito-steve-jobs-tim-cook-mantiene-todo-lider-precie-deberia-copiar-1237398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/steve-jobs-3021268.jpg?tf=1200x' alt='El peculiar hábito de Steve Jobs que Tim Cook mantiene y que todo líder que se precie debería copiar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/inteligencia-artificial-crea-recetas-basadas-ingredientes-tienes-disponibles-nevera-1238406'>Esta inteligencia artificial crea recetas basadas en los ingredientes que tienes disponibles en la nevera</a></h4>
-    <a href='https://computerhoy.com/ciencia/inteligencia-artificial-crea-recetas-basadas-ingredientes-tienes-disponibles-nevera-1238406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inteligencia-artificial-cocina-3022292.jpg?tf=1200x' alt='Esta inteligencia artificial crea recetas basadas en los ingredientes que tienes disponibles en la nevera' />
     </a>
 </div>
 
