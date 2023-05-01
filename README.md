@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pajaros-disecados-vuelven-volar-drones-1238484'>Ciencia macabra: pájaros disecados vuelven a volar, convertidos en drones (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pajaros-disecados-vuelven-volar-drones-1238484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ciencia-macabra-pajaros-disecados-vuelven-volar-convertirlos-drones-3022448.jpg?tf=1200x' alt='Ciencia macabra: pájaros disecados vuelven a volar, convertidos en drones (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/nvidia-rtx-4060ti-finales-mayo-8-gb-vram-1238482'>NVIDIA lanzará la RTX 4060Ti a finales de mayo, pero llega con un problema</a></h4>
     <a href='https://computerhoy.com/pc/nvidia-rtx-4060ti-finales-mayo-8-gb-vram-1238482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/filtran-esperadas-tarjetas-rtx-4070-4060-2988092.jpg?tf=1200x' alt='NVIDIA lanzará la RTX 4060Ti a finales de mayo, pero llega con un problema' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/como-funciona-lan-virtual-nordvpn-1237646'>Cómo funciona la LAN Virtual de NordVPN que algunas personas usan para engañar a Netflix</a></h4>
     <a href='https://computerhoy.com/redes/como-funciona-lan-virtual-nordvpn-1237646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/varios-dispositivos-usando-red-vpn-3021256.jpg?tf=1200x' alt='Cómo funciona la LAN Virtual de NordVPN que algunas personas usan para engañar a Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-twitter-tuits-contenido-pago-1238470'>Si quieres leer este tuit, paga un euro: la nueva medida de Elon Musk para rentabilizar Twitter</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-twitter-tuits-contenido-pago-1238470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/quieres-leer-tuit-paga-euro-nueva-medida-elon-musk-rentabilizar-twitter-3022430.jpg?tf=1200x' alt='Si quieres leer este tuit, paga un euro: la nueva medida de Elon Musk para rentabilizar Twitter' />
     </a>
 </div>
 
