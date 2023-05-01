@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/geoffrey-hinton-padres-inteligencia-artificial-abandona-google-peligros-ia-1238706'>Geoffrey Hinton, uno de los Padres de la IA, abandona Google arrepintiéndose de su trabajo, para hablar de los riesgos de la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/geoffrey-hinton-padres-inteligencia-artificial-abandona-google-peligros-ia-1238706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/geoffrey-hinton-padres-ia-abandona-google-arrepintiendose-trabajo-hablar-riesgos-ia-3022680.jpg?tf=1200x' alt='Geoffrey Hinton, uno de los Padres de la IA, abandona Google arrepintiéndose de su trabajo, para hablar de los riesgos de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/telegram-prohibicion-brasil-multa-1238696'>Telegram se salva: no será prohibida en Brasil, pero recibe una multa por proteger los extremismos</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/telegram-prohibicion-brasil-multa-1238696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telegram-2946692.jpg?tf=1200x' alt='Telegram se salva: no será prohibida en Brasil, pero recibe una multa por proteger los extremismos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/jack-dorsey-fundador-twitter-critica-elon-musk-1238682'>Jack Dorsey, el fundador de Twitter, da la espalda a Elon Musk: 'No ha actuado bien'</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/jack-dorsey-fundador-twitter-critica-elon-musk-1238682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/jack-dorsey-ceo-twitter-1884703.jpg?tf=1200x' alt='Jack Dorsey, el fundador de Twitter, da la espalda a Elon Musk: 'No ha actuado bien'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-cuesta-entender-muchas-vueltas-des-1236460'>7 películas que cuesta entender por muchas vueltas que les des</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-cuesta-entender-muchas-vueltas-des-1236460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/todo-vez-todas-partes-2981750.jpg?tf=1200x' alt='7 películas que cuesta entender por muchas vueltas que les des' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-cualquier-app-fire-tv-aunque-no-esten-tienda-amazon-1236556'>Cómo instalar cualquier app en un Fire TV aunque no estén en la tienda de Amazon</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-cualquier-app-fire-tv-aunque-no-esten-tienda-amazon-1236556' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/amazon-fire-tv-stick-1948867.jpg?tf=1200x' alt='Cómo instalar cualquier app en un Fire TV aunque no estén en la tienda de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mapa-horas-uso-movil-pc-cada-pais-1238668'>Este mapa de las horas de uso del móvil y el PC en cada país es aterrador: algunos dedican más de 9 horas al día</a></h4>
-    <a href='https://computerhoy.com/moviles/mapa-horas-uso-movil-pc-cada-pais-1238668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-horas-usan-movil-pc-cada-pais-aterrador-alguno-dedica-8-horas-dia-3022630.jpg?tf=1200x' alt='Este mapa de las horas de uso del móvil y el PC en cada país es aterrador: algunos dedican más de 9 horas al día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/10-aplicaciones-indispensables-nuevo-ordenador-windows-1237530'>Las 10 aplicaciones indispensables para tu nuevo ordenador con Windows</a></h4>
-    <a href='https://computerhoy.com/windows/10-aplicaciones-indispensables-nuevo-ordenador-windows-1237530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-ajustes-2611255.jpg?tf=1200x' alt='Las 10 aplicaciones indispensables para tu nuevo ordenador con Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trabajos-riesgo-desaparecer-ia-nuevos-perfiles-crearan-1235968'>10 trabajos que podrían desaparecer en cualquier momento por culpa de la IA (y 5 que se crearán)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trabajos-riesgo-desaparecer-ia-nuevos-perfiles-crearan-1235968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/estudiante-usa-inteligencia-artificial-escriba-trabajos-clase-aprueba-1922967.jpg?tf=1200x' alt='10 trabajos que podrían desaparecer en cualquier momento por culpa de la IA (y 5 que se crearán)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/pendrive-gran-capacidad-1237144'>Si todavía necesitas un pendrive estos son los mejores y de gran capacidad</a></h4>
-    <a href='https://computerhoy.com/mejores/pendrive-gran-capacidad-1237144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/pendrive-usb-3020442.jpg?tf=1200x' alt='Si todavía necesitas un pendrive estos son los mejores y de gran capacidad' />
     </a>
 </div>
 
