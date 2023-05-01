@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/philips-hue-diferencias-funciones-productos-1230454'>Todo lo que debes saber sobre Philips Hue: Diferencias, funciones y productos</a></h4>
+    <a href='https://computerhoy.com/guia-compra/philips-hue-diferencias-funciones-productos-1230454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/sistema-iluminacion-philips-hue-3022740.jpg?tf=1200x' alt='Todo lo que debes saber sobre Philips Hue: Diferencias, funciones y productos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/jack-ma-fundador-aliexpress-profesor-universidad-tokio-1238738'>Ya sabemos a qué se dedica Jack Ma, el fundador de Alibaba y AliExpress, tras años exiliado de China</a></h4>
+    <a href='https://computerhoy.com/life/jack-ma-fundador-aliexpress-profesor-universidad-tokio-1238738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/localizan-jack-ma-carismatico-fundador-aliexpress-despues-dos-anos-desaparecido-2899392.jpg?tf=1200x' alt='Ya sabemos a qué se dedica Jack Ma, el fundador de Alibaba y AliExpress, tras años exiliado de China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-supera-1000-millones-dolares-1238712'>Super Mario Bros La Película supera los 1.000 millones de dólares de recaudación, no tiene techo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-supera-1000-millones-dolares-1238712' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/super-mario-bros-pelicula-2964222.jpg?tf=1200x' alt='Super Mario Bros La Película supera los 1.000 millones de dólares de recaudación, no tiene techo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/geoffrey-hinton-padres-inteligencia-artificial-abandona-google-peligros-ia-1238706'>Geoffrey Hinton, uno de los Padres de la IA, abandona Google arrepintiéndose de su trabajo, para hablar de los riesgos de la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/geoffrey-hinton-padres-inteligencia-artificial-abandona-google-peligros-ia-1238706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/geoffrey-hinton-padres-ia-abandona-google-arrepintiendose-trabajo-hablar-riesgos-ia-3022680.jpg?tf=1200x' alt='Geoffrey Hinton, uno de los Padres de la IA, abandona Google arrepintiéndose de su trabajo, para hablar de los riesgos de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/telegram-prohibicion-brasil-multa-1238696'>Telegram se salva: no será prohibida en Brasil, pero recibe una multa por proteger los extremismos</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/telegram-prohibicion-brasil-multa-1238696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telegram-2946692.jpg?tf=1200x' alt='Telegram se salva: no será prohibida en Brasil, pero recibe una multa por proteger los extremismos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/jack-dorsey-fundador-twitter-critica-elon-musk-1238682'>Jack Dorsey, el fundador de Twitter, da la espalda a Elon Musk: 'No ha actuado bien'</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/jack-dorsey-fundador-twitter-critica-elon-musk-1238682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/jack-dorsey-ceo-twitter-1884703.jpg?tf=1200x' alt='Jack Dorsey, el fundador de Twitter, da la espalda a Elon Musk: 'No ha actuado bien'' />
     </a>
 </div>
 
