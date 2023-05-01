@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/rover-chino-zhurong-nieve-marte-hace-solo-400000-anos-1238766'>El rover chino Zhurong asegura que había nieve en Marte hace solo 400.000 años</a></h4>
+    <a href='https://computerhoy.com/espacio/rover-chino-zhurong-nieve-marte-hace-solo-400000-anos-1238766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/rover-chino-zhurong-asegura-habia-nieve-marte-hace-solo-400000-anos-3022768.jpg?tf=1200x' alt='El rover chino Zhurong asegura que había nieve en Marte hace solo 400.000 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-mejores-funciones-ocultas-trucos-1238752'>Windows 11: las mejores funciones ocultas y trucos</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-mejores-funciones-ocultas-trucos-1238752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2952572.jpg?tf=1200x' alt='Windows 11: las mejores funciones ocultas y trucos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-integra-bing-gpt-4-todos-moviles-tablets-galaxy-1238748'>Samsung integra Bing con GPT-4 en todos sus moviles y tablets Samsung Galaxy</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-integra-bing-gpt-4-todos-moviles-tablets-galaxy-1238748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/samsung-integra-bing-chatgpt-todos-moviles-tablets-samsung-galaxy-3022748.jpg?tf=1200x' alt='Samsung integra Bing con GPT-4 en todos sus moviles y tablets Samsung Galaxy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/philips-hue-diferencias-funciones-productos-1230454'>Todo lo que debes saber sobre Philips Hue: Diferencias, funciones y productos</a></h4>
     <a href='https://computerhoy.com/guia-compra/philips-hue-diferencias-funciones-productos-1230454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/sistema-iluminacion-philips-hue-3022740.jpg?tf=1200x' alt='Todo lo que debes saber sobre Philips Hue: Diferencias, funciones y productos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/jack-ma-fundador-aliexpress-profesor-universidad-tokio-1238738'>Ya sabemos a qué se dedica Jack Ma, el fundador de Alibaba y AliExpress, tras años exiliado de China</a></h4>
     <a href='https://computerhoy.com/life/jack-ma-fundador-aliexpress-profesor-universidad-tokio-1238738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/localizan-jack-ma-carismatico-fundador-aliexpress-despues-dos-anos-desaparecido-2899392.jpg?tf=1200x' alt='Ya sabemos a qué se dedica Jack Ma, el fundador de Alibaba y AliExpress, tras años exiliado de China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-supera-1000-millones-dolares-1238712'>Super Mario Bros La Película supera los 1.000 millones de dólares de recaudación, no tiene techo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-supera-1000-millones-dolares-1238712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/super-mario-bros-pelicula-2964222.jpg?tf=1200x' alt='Super Mario Bros La Película supera los 1.000 millones de dólares de recaudación, no tiene techo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/macos-windows-descubre-cual-seguro-frente-virus-1237778'>Determinan cuál es el sistema operativo menos seguro, y no es el que estás pensando</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/macos-windows-descubre-cual-seguro-frente-virus-1237778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/malware-pc-3021508.jpg?tf=1200x' alt='Determinan cuál es el sistema operativo menos seguro, y no es el que estás pensando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/geoffrey-hinton-padres-inteligencia-artificial-abandona-google-peligros-ia-1238706'>Geoffrey Hinton, uno de los Padres de la IA, abandona Google arrepintiéndose de su trabajo, para hablar de los riesgos de la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/geoffrey-hinton-padres-inteligencia-artificial-abandona-google-peligros-ia-1238706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/geoffrey-hinton-padres-ia-abandona-google-arrepintiendose-trabajo-hablar-riesgos-ia-3022680.jpg?tf=1200x' alt='Geoffrey Hinton, uno de los Padres de la IA, abandona Google arrepintiéndose de su trabajo, para hablar de los riesgos de la IA' />
     </a>
 </div>
 
