@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-supera-1000-millones-dolares-1238712'>Super Mario Bros La Película supera los 1.000 millones de dólares de recaudación, no tiene techo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-supera-1000-millones-dolares-1238712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/super-mario-bros-pelicula-2964222.jpg?tf=1200x' alt='Super Mario Bros La Película supera los 1.000 millones de dólares de recaudación, no tiene techo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/macos-windows-descubre-cual-seguro-frente-virus-1237778'>Determinan cuál es el sistema operativo menos seguro, y no es el que estás pensando</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/macos-windows-descubre-cual-seguro-frente-virus-1237778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/malware-pc-3021508.jpg?tf=1200x' alt='Determinan cuál es el sistema operativo menos seguro, y no es el que estás pensando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/geoffrey-hinton-padres-inteligencia-artificial-abandona-google-peligros-ia-1238706'>Geoffrey Hinton, uno de los Padres de la IA, abandona Google arrepintiéndose de su trabajo, para hablar de los riesgos de la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/geoffrey-hinton-padres-inteligencia-artificial-abandona-google-peligros-ia-1238706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/geoffrey-hinton-padres-ia-abandona-google-arrepintiendose-trabajo-hablar-riesgos-ia-3022680.jpg?tf=1200x' alt='Geoffrey Hinton, uno de los Padres de la IA, abandona Google arrepintiéndose de su trabajo, para hablar de los riesgos de la IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/jack-dorsey-fundador-twitter-critica-elon-musk-1238682'>Jack Dorsey, el fundador de Twitter, da la espalda a Elon Musk: 'No ha actuado bien'</a></h4>
     <a href='https://computerhoy.com/redes-sociales/jack-dorsey-fundador-twitter-critica-elon-musk-1238682' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/jack-dorsey-ceo-twitter-1884703.jpg?tf=1200x' alt='Jack Dorsey, el fundador de Twitter, da la espalda a Elon Musk: 'No ha actuado bien'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-cuesta-entender-muchas-vueltas-des-1236460'>7 películas que cuesta entender por muchas vueltas que les des</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-cuesta-entender-muchas-vueltas-des-1236460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/todo-vez-todas-partes-2981750.jpg?tf=1200x' alt='7 películas que cuesta entender por muchas vueltas que les des' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-cualquier-app-fire-tv-aunque-no-esten-tienda-amazon-1236556'>Cómo instalar cualquier app en un Fire TV aunque no estén en la tienda de Amazon</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-cualquier-app-fire-tv-aunque-no-esten-tienda-amazon-1236556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/amazon-fire-tv-stick-1948867.jpg?tf=1200x' alt='Cómo instalar cualquier app en un Fire TV aunque no estén en la tienda de Amazon' />
     </a>
 </div>
 
