@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-cualquier-app-fire-tv-aunque-no-esten-tienda-amazon-1236556'>Cómo instalar cualquier app en un Fire TV aunque no estén en la tienda de Amazon</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-cualquier-app-fire-tv-aunque-no-esten-tienda-amazon-1236556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/amazon-fire-tv-stick-1948867.jpg?tf=1200x' alt='Cómo instalar cualquier app en un Fire TV aunque no estén en la tienda de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/mapa-horas-uso-movil-pc-cada-pais-1238668'>Este mapa de las horas de uso del móvil y el PC en cada país es aterrador: algunos dedican más de 9 horas al día</a></h4>
+    <a href='https://computerhoy.com/moviles/mapa-horas-uso-movil-pc-cada-pais-1238668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-horas-usan-movil-pc-cada-pais-aterrador-alguno-dedica-8-horas-dia-3022630.jpg?tf=1200x' alt='Este mapa de las horas de uso del móvil y el PC en cada país es aterrador: algunos dedican más de 9 horas al día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/10-aplicaciones-indispensables-nuevo-ordenador-windows-1237530'>Las 10 aplicaciones indispensables para tu nuevo ordenador con Windows</a></h4>
+    <a href='https://computerhoy.com/windows/10-aplicaciones-indispensables-nuevo-ordenador-windows-1237530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-ajustes-2611255.jpg?tf=1200x' alt='Las 10 aplicaciones indispensables para tu nuevo ordenador con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/trabajos-riesgo-desaparecer-ia-nuevos-perfiles-crearan-1235968'>10 trabajos que podrían desaparecer en cualquier momento por culpa de la IA (y 5 que se crearán)</a></h4>
     <a href='https://computerhoy.com/tecnologia/trabajos-riesgo-desaparecer-ia-nuevos-perfiles-crearan-1235968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/estudiante-usa-inteligencia-artificial-escriba-trabajos-clase-aprueba-1922967.jpg?tf=1200x' alt='10 trabajos que podrían desaparecer en cualquier momento por culpa de la IA (y 5 que se crearán)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/pendrive-gran-capacidad-1237144'>Si todavía necesitas un pendrive estos son los mejores y de gran capacidad</a></h4>
     <a href='https://computerhoy.com/mejores/pendrive-gran-capacidad-1237144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/pendrive-usb-3020442.jpg?tf=1200x' alt='Si todavía necesitas un pendrive estos son los mejores y de gran capacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/baterias-recargables-comestibles-salud-1234068'>Inventan las primeras baterías recargables comestibles</a></h4>
-    <a href='https://computerhoy.com/energia/baterias-recargables-comestibles-salud-1234068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inventan-primeras-baterias-recargables-comestibles-3015372.jpg?tf=1200x' alt='Inventan las primeras baterías recargables comestibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pajaros-disecados-vuelven-volar-drones-1238484'>Ciencia macabra: pájaros disecados vuelven a volar, convertidos en drones (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pajaros-disecados-vuelven-volar-drones-1238484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ciencia-macabra-pajaros-disecados-vuelven-volar-convertirlos-drones-3022448.jpg?tf=1200x' alt='Ciencia macabra: pájaros disecados vuelven a volar, convertidos en drones (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/nvidia-rtx-4060ti-finales-mayo-8-gb-vram-1238482'>NVIDIA lanzará la RTX 4060Ti a finales de mayo, pero llega con un problema</a></h4>
-    <a href='https://computerhoy.com/pc/nvidia-rtx-4060ti-finales-mayo-8-gb-vram-1238482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/filtran-esperadas-tarjetas-rtx-4070-4060-2988092.jpg?tf=1200x' alt='NVIDIA lanzará la RTX 4060Ti a finales de mayo, pero llega con un problema' />
     </a>
 </div>
 
