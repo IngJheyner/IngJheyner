@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/musk-posiciona-favor-padrino-ia-riesgos-ia-1239120'>Musk se posiciona a favor del "padrino de la IA" que advierte que esta tecnología podría dañar a la humanidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/musk-posiciona-favor-padrino-ia-riesgos-ia-1239120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-inteligencia-artificial-2969202.jpg?tf=1200x' alt='Musk se posiciona a favor del "padrino de la IA" que advierte que esta tecnología podría dañar a la humanidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-google-alian-evitar-rastreos-airtags-similares-1239104'>Apple y Google se alían para evitar rastreos con AirTags y otros productos</a></h4>
     <a href='https://computerhoy.com/apple/apple-google-alian-evitar-rastreos-airtags-similares-1239104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airtags-2682799.jpg?tf=1200x' alt='Apple y Google se alían para evitar rastreos con AirTags y otros productos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/chatgpt-tiene-muy-claro-cual-mejor-dispositivo-apple-1239068'>ChatGPT tiene muy claro cuál es el mejor dispositivo de Apple jamás fabricado</a></h4>
     <a href='https://computerhoy.com/apple/chatgpt-tiene-muy-claro-cual-mejor-dispositivo-apple-1239068' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steve-jobs-sosteniendo-iphone-2986484.jpg?tf=1200x' alt='ChatGPT tiene muy claro cuál es el mejor dispositivo de Apple jamás fabricado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/google-pixel-7-oferta-primavera-1239002'>Ni Samsung o Xiaomi, este móvil de Google es el rey de la fotografía con unos de sus mejores precios</a></h4>
-    <a href='https://computerhoy.com/moviles/google-pixel-7-oferta-primavera-1239002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7-3023046.jpg?tf=1200x' alt='Ni Samsung o Xiaomi, este móvil de Google es el rey de la fotografía con unos de sus mejores precios' />
     </a>
 </div>
 
