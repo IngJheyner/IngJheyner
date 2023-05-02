@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-google-alian-evitar-rastreos-airtags-similares-1239104'>Apple y Google se alían para evitar rastreos con AirTags y otros productos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-google-alian-evitar-rastreos-airtags-similares-1239104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airtags-2682799.jpg?tf=1200x' alt='Apple y Google se alían para evitar rastreos con AirTags y otros productos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/usan-chatgpt-crear-portales-baratos-spam-generar-ingresos-1239094'>ChatGPT se está usando para crear webs de spam con el objetivo de generar ingresos publicitarios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usan-chatgpt-crear-portales-baratos-spam-generar-ingresos-1239094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/stop-spam-2573275.jpg?tf=1200x' alt='ChatGPT se está usando para crear webs de spam con el objetivo de generar ingresos publicitarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/genial-aplicacion-gratis-convierte-amazon-fire-tv-chromecast-1237804'>Esta genial aplicación gratis convierte tu Amazon Fire TV en un Chromecast</a></h4>
     <a href='https://computerhoy.com/apps/genial-aplicacion-gratis-convierte-amazon-fire-tv-chromecast-1237804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925922.jpg?tf=1200x' alt='Esta genial aplicación gratis convierte tu Amazon Fire TV en un Chromecast' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/google-pixel-7-oferta-primavera-1239002'>Ni Samsung o Xiaomi, este móvil de Google es el rey de la fotografía con unos de sus mejores precios</a></h4>
     <a href='https://computerhoy.com/moviles/google-pixel-7-oferta-primavera-1239002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7-3023046.jpg?tf=1200x' alt='Ni Samsung o Xiaomi, este móvil de Google es el rey de la fotografía con unos de sus mejores precios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-desarrollan-ia-capaz-convertir-pensamientos-texto-1239048'>Un equipo de científicos está desarrollando una IA capaz de convertir pensamientos en texto</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-desarrollan-ia-capaz-convertir-pensamientos-texto-1239048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/alex-huth-shailee-jain-jerry-tang-cientificos-universidad-austin-texas-3023160.jpg?tf=1200x' alt='Un equipo de científicos está desarrollando una IA capaz de convertir pensamientos en texto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/huawei-freebuds-5-cupon-baratos-1238992'>Huawei te da la oportunidad de conseguir los nuevos FreeBuds 5 con un descuento extra en su lanzamiento</a></h4>
-    <a href='https://computerhoy.com/audio/huawei-freebuds-5-cupon-baratos-1238992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-freebuds-5-3023016.jpg?tf=1200x' alt='Huawei te da la oportunidad de conseguir los nuevos FreeBuds 5 con un descuento extra en su lanzamiento' />
     </a>
 </div>
 
