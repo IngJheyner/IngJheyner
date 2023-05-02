@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/genial-aplicacion-gratis-convierte-amazon-fire-tv-chromecast-1237804'>Esta genial aplicación gratis convierte tu Amazon Fire TV en un Chromecast</a></h4>
+    <a href='https://computerhoy.com/apps/genial-aplicacion-gratis-convierte-amazon-fire-tv-chromecast-1237804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925922.jpg?tf=1200x' alt='Esta genial aplicación gratis convierte tu Amazon Fire TV en un Chromecast' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/chatgpt-tiene-muy-claro-cual-mejor-dispositivo-apple-1239068'>ChatGPT tiene muy claro cuál es el mejor dispositivo de Apple jamás fabricado</a></h4>
+    <a href='https://computerhoy.com/apple/chatgpt-tiene-muy-claro-cual-mejor-dispositivo-apple-1239068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steve-jobs-sosteniendo-iphone-2986484.jpg?tf=1200x' alt='ChatGPT tiene muy claro cuál es el mejor dispositivo de Apple jamás fabricado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/google-pixel-7-oferta-primavera-1239002'>Ni Samsung o Xiaomi, este móvil de Google es el rey de la fotografía con unos de sus mejores precios</a></h4>
+    <a href='https://computerhoy.com/moviles/google-pixel-7-oferta-primavera-1239002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7-3023046.jpg?tf=1200x' alt='Ni Samsung o Xiaomi, este móvil de Google es el rey de la fotografía con unos de sus mejores precios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cientificos-desarrollan-ia-capaz-convertir-pensamientos-texto-1239048'>Un equipo de científicos está desarrollando una IA capaz de convertir pensamientos en texto</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-desarrollan-ia-capaz-convertir-pensamientos-texto-1239048' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/alex-huth-shailee-jain-jerry-tang-cientificos-universidad-austin-texas-3023160.jpg?tf=1200x' alt='Un equipo de científicos está desarrollando una IA capaz de convertir pensamientos en texto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/huawei-freebuds-5-cupon-baratos-1238992'>Huawei te da la oportunidad de conseguir los nuevos FreeBuds 5 con un descuento extra en su lanzamiento</a></h4>
     <a href='https://computerhoy.com/audio/huawei-freebuds-5-cupon-baratos-1238992' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-freebuds-5-3023016.jpg?tf=1200x' alt='Huawei te da la oportunidad de conseguir los nuevos FreeBuds 5 con un descuento extra en su lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-hbo-max-amazon-fire-tv-1232144'>Cómo instalar HBO Max en un Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-hbo-max-amazon-fire-tv-1232144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hbo-max-fire-tv-3011810.jpg?tf=1200x' alt='Cómo instalar HBO Max en un Amazon Fire TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/zte-nubia-pad-3d-review-opinion-1230244'>ZTE Nubia Pad 3D, análisis y opinión: La tablet con profundidad en pantalla</a></h4>
-    <a href='https://computerhoy.com/analisis/zte-nubia-pad-3d-review-opinion-1230244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/zte-nubia-pad-3d-3023096.jpg?tf=1200x' alt='ZTE Nubia Pad 3D, análisis y opinión: La tablet con profundidad en pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-bloquea-uso-algunas-funciones-iphone-ubicacion-1239026'>Apple bloquea el uso de algunas funciones de iPhone según tu ubicación</a></h4>
-    <a href='https://computerhoy.com/apple/apple-bloquea-uso-algunas-funciones-iphone-ubicacion-1239026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-pro-max-1677587257882-2969646.jpg?tf=1200x' alt='Apple bloquea el uso de algunas funciones de iPhone según tu ubicación' />
     </a>
 </div>
 
