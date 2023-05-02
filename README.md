@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar este año</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oppo-find-x5-pro-1677587688396-2969658.jpg?tf=1200x' alt='Estos son los mejores móviles Oppo que puedes comprar este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/donkey-bas-primer-juego-pc-historia-bill-gates-1237448'>El secreto menos conocido de Bill Gates: programó el primer videojuego de PC de la historia</a></h4>
+    <a href='https://computerhoy.com/gaming/donkey-bas-primer-juego-pc-historia-bill-gates-1237448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/historia-menos-conocida-bill-gates-programo-primer-videojuego-pc-historia-3020778.jpg?tf=1200x' alt='El secreto menos conocido de Bill Gates: programó el primer videojuego de PC de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/perezoso-clave-acabar-superbacterias-resistentes-medicamentos-1238776'>El perezoso, clave para acabar con las superbacterias resistentes a los medicamentos</a></h4>
     <a href='https://computerhoy.com/ciencia/perezoso-clave-acabar-superbacterias-resistentes-medicamentos-1238776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/perezoso-podria-ser-clave-acabar-superbacterias-resistentes-medicamentos-3022828.jpg?tf=1200x' alt='El perezoso, clave para acabar con las superbacterias resistentes a los medicamentos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/rover-chino-zhurong-nieve-marte-hace-solo-400000-anos-1238766'>El rover chino Zhurong asegura que había nieve en Marte hace solo 400.000 años</a></h4>
     <a href='https://computerhoy.com/espacio/rover-chino-zhurong-nieve-marte-hace-solo-400000-anos-1238766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/rover-chino-zhurong-asegura-habia-nieve-marte-hace-solo-400000-anos-3022768.jpg?tf=1200x' alt='El rover chino Zhurong asegura que había nieve en Marte hace solo 400.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-mejores-funciones-ocultas-trucos-1238752'>Windows 11: las mejores funciones ocultas y trucos</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-mejores-funciones-ocultas-trucos-1238752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2952572.jpg?tf=1200x' alt='Windows 11: las mejores funciones ocultas y trucos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-integra-bing-gpt-4-todos-moviles-tablets-galaxy-1238748'>Samsung integra Bing con GPT-4 en todos sus moviles y tablets Samsung Galaxy</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-integra-bing-gpt-4-todos-moviles-tablets-galaxy-1238748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/samsung-integra-bing-chatgpt-todos-moviles-tablets-samsung-galaxy-3022748.jpg?tf=1200x' alt='Samsung integra Bing con GPT-4 en todos sus moviles y tablets Samsung Galaxy' />
     </a>
 </div>
 
