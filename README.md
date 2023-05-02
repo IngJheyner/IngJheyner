@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-usar-bing-chatgpt-ordenador-1221168'>Cómo y por qué instalar y usar Bing con ChatGPT en tu ordenador</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-usar-bing-chatgpt-ordenador-1221168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bing-2993878.jpg?tf=1200x' alt='Cómo y por qué instalar y usar Bing con ChatGPT en tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/norma-trabajador-ideal-miedo-flexibilidad-laboral-1235954'>La 'norma del trabajador ideal' y el miedo a la flexibilidad laboral</a></h4>
+    <a href='https://computerhoy.com/life/norma-trabajador-ideal-miedo-flexibilidad-laboral-1235954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/espana-peores-pagadores-teletrabajo-pero-mejores-lugares-instalarse-trabajar-remoto-2913808.jpg?tf=1200x' alt='La 'norma del trabajador ideal' y el miedo a la flexibilidad laboral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/40-anos-word-mirada-pasado-presente-futuro-ia-1219582'>Word en la crisis de los 40: una mirada a su pasado, presente y futuro junto con la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/software/40-anos-word-mirada-pasado-presente-futuro-ia-1219582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/word-crisis-40-mirada-pasado-presente-futuro-junto-inteligencia-artificial-3013340.jpg?tf=1200x' alt='Word en la crisis de los 40: una mirada a su pasado, presente y futuro junto con la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar este año</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oppo-find-x5-pro-1677587688396-2969658.jpg?tf=1200x' alt='Estos son los mejores móviles Oppo que puedes comprar este año' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/donkey-bas-primer-juego-pc-historia-bill-gates-1237448'>El secreto menos conocido de Bill Gates: programó el primer videojuego de PC de la historia</a></h4>
     <a href='https://computerhoy.com/gaming/donkey-bas-primer-juego-pc-historia-bill-gates-1237448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/historia-menos-conocida-bill-gates-programo-primer-videojuego-pc-historia-3020778.jpg?tf=1200x' alt='El secreto menos conocido de Bill Gates: programó el primer videojuego de PC de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/perezoso-clave-acabar-superbacterias-resistentes-medicamentos-1238776'>El perezoso, clave para acabar con las superbacterias resistentes a los medicamentos</a></h4>
-    <a href='https://computerhoy.com/ciencia/perezoso-clave-acabar-superbacterias-resistentes-medicamentos-1238776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/perezoso-podria-ser-clave-acabar-superbacterias-resistentes-medicamentos-3022828.jpg?tf=1200x' alt='El perezoso, clave para acabar con las superbacterias resistentes a los medicamentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/movil-pixel-7a-podria-ser-ultimo-gama-1238772'>El móvil Pixel 7a podría ser el último de la gama, Google lo cambia por el plegable Pixel Fold</a></h4>
-    <a href='https://computerhoy.com/google/movil-pixel-7a-podria-ser-ultimo-gama-1238772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-pixel-7-pro-2839679.jpg?tf=1200x' alt='El móvil Pixel 7a podría ser el último de la gama, Google lo cambia por el plegable Pixel Fold' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/rover-chino-zhurong-nieve-marte-hace-solo-400000-anos-1238766'>El rover chino Zhurong asegura que había nieve en Marte hace solo 400.000 años</a></h4>
-    <a href='https://computerhoy.com/espacio/rover-chino-zhurong-nieve-marte-hace-solo-400000-anos-1238766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/rover-chino-zhurong-asegura-habia-nieve-marte-hace-solo-400000-anos-3022768.jpg?tf=1200x' alt='El rover chino Zhurong asegura que había nieve en Marte hace solo 400.000 años' />
     </a>
 </div>
 
