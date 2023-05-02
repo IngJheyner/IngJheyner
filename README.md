@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-usar-bing-chatgpt-ordenador-1221168'>Cómo y por qué instalar y usar Bing con ChatGPT en tu ordenador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-usar-bing-chatgpt-ordenador-1221168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bing-2993878.jpg?tf=1200x' alt='Cómo y por qué instalar y usar Bing con ChatGPT en tu ordenador' />
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-desarrollan-ia-capaz-convertir-pensamientos-texto-1239048'>Un equipo de científicos está desarrollando una IA capaz de convertir pensamientos en texto</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-desarrollan-ia-capaz-convertir-pensamientos-texto-1239048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/alex-huth-shailee-jain-jerry-tang-cientificos-universidad-austin-texas-3023160.jpg?tf=1200x' alt='Un equipo de científicos está desarrollando una IA capaz de convertir pensamientos en texto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/norma-trabajador-ideal-miedo-flexibilidad-laboral-1235954'>La 'norma del trabajador ideal' y el miedo a la flexibilidad laboral</a></h4>
-    <a href='https://computerhoy.com/life/norma-trabajador-ideal-miedo-flexibilidad-laboral-1235954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/espana-peores-pagadores-teletrabajo-pero-mejores-lugares-instalarse-trabajar-remoto-2913808.jpg?tf=1200x' alt='La 'norma del trabajador ideal' y el miedo a la flexibilidad laboral' />
+    <h4><a href='https://computerhoy.com/audio/huawei-freebuds-5-cupon-baratos-1238992'>Huawei te da la oportunidad de conseguir los nuevos FreeBuds 5 con un descuento extra en su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/audio/huawei-freebuds-5-cupon-baratos-1238992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-freebuds-5-3023016.jpg?tf=1200x' alt='Huawei te da la oportunidad de conseguir los nuevos FreeBuds 5 con un descuento extra en su lanzamiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/40-anos-word-mirada-pasado-presente-futuro-ia-1219582'>Word en la crisis de los 40: una mirada a su pasado, presente y futuro junto con la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/software/40-anos-word-mirada-pasado-presente-futuro-ia-1219582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/word-crisis-40-mirada-pasado-presente-futuro-junto-inteligencia-artificial-3013340.jpg?tf=1200x' alt='Word en la crisis de los 40: una mirada a su pasado, presente y futuro junto con la inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-hbo-max-amazon-fire-tv-1232144'>Cómo instalar HBO Max en un Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-hbo-max-amazon-fire-tv-1232144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hbo-max-fire-tv-3011810.jpg?tf=1200x' alt='Cómo instalar HBO Max en un Amazon Fire TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar este año</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oppo-find-x5-pro-1677587688396-2969658.jpg?tf=1200x' alt='Estos son los mejores móviles Oppo que puedes comprar este año' />
+    <h4><a href='https://computerhoy.com/analisis/zte-nubia-pad-3d-review-opinion-1230244'>ZTE Nubia Pad 3D, análisis y opinión: La tablet con profundidad en pantalla</a></h4>
+    <a href='https://computerhoy.com/analisis/zte-nubia-pad-3d-review-opinion-1230244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/zte-nubia-pad-3d-3023096.jpg?tf=1200x' alt='ZTE Nubia Pad 3D, análisis y opinión: La tablet con profundidad en pantalla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/donkey-bas-primer-juego-pc-historia-bill-gates-1237448'>El secreto menos conocido de Bill Gates: programó el primer videojuego de PC de la historia</a></h4>
-    <a href='https://computerhoy.com/gaming/donkey-bas-primer-juego-pc-historia-bill-gates-1237448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/historia-menos-conocida-bill-gates-programo-primer-videojuego-pc-historia-3020778.jpg?tf=1200x' alt='El secreto menos conocido de Bill Gates: programó el primer videojuego de PC de la historia' />
+    <h4><a href='https://computerhoy.com/apple/apple-bloquea-uso-algunas-funciones-iphone-ubicacion-1239026'>Apple bloquea el uso de algunas funciones de iPhone según tu ubicación</a></h4>
+    <a href='https://computerhoy.com/apple/apple-bloquea-uso-algunas-funciones-iphone-ubicacion-1239026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-pro-max-1677587257882-2969646.jpg?tf=1200x' alt='Apple bloquea el uso de algunas funciones de iPhone según tu ubicación' />
     </a>
 </div>
 
