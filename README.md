@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/no-tendras-escribir-contrasena-entrar-cuenta-google-1239630'>No tendrás que escribir tu contraseña para entrar en tu cuenta de Google</a></h4>
-    <a href='https://computerhoy.com/google/no-tendras-escribir-contrasena-entrar-cuenta-google-1239630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/passkeys-ya-disponibles-chrome-fin-contrasenas-aqui-2898332.jpg?tf=1200x' alt='No tendrás que escribir tu contraseña para entrar en tu cuenta de Google' />
+    <h4><a href='https://computerhoy.com/google/google-gmail-marca-verificacion-azul-1239782'>Google copia a Twitter y también añade la marca de verificación azul a Gmail</a></h4>
+    <a href='https://computerhoy.com/google/google-gmail-marca-verificacion-azul-1239782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-copia-twitter-tambien-anade-marca-verificacion-azul-gmail-3024532.jpg?tf=1200x' alt='Google copia a Twitter y también añade la marca de verificación azul a Gmail' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/james-webb-encuentra-planeta-atmosfera-similar-tierra-1239700'>El telescopio James Webb encuentra un planeta que podría tener una atmósfera similar a la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/james-webb-encuentra-planeta-atmosfera-similar-tierra-1239700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/gj486-b-3024342.jpg?tf=1200x' alt='El telescopio James Webb encuentra un planeta que podría tener una atmósfera similar a la Tierra' />
+    <h4><a href='https://computerhoy.com/tecnologia/transporte-publico-alta-velocidad-tecnologia-permitira-viajar-650-km-h-1239762'>Transporte público de alta velocidad: la nueva tecnología que permitirá viajar a 650 km/h </a></h4>
+    <a href='https://computerhoy.com/tecnologia/transporte-publico-alta-velocidad-tecnologia-permitira-viajar-650-km-h-1239762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tren-alta-velocidad-2754699.jpg?tf=1200x' alt='Transporte público de alta velocidad: la nueva tecnología que permitirá viajar a 650 km/h ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-hacer-seguimiento-paquete-chronoexpres-correos-expres-281517'>Cómo hacer un seguimiento de un paquete Correos Express</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-hacer-seguimiento-paquete-chronoexpres-correos-expres-281517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/correos-express-2639489.jpg?tf=1200x' alt='Cómo hacer un seguimiento de un paquete Correos Express' />
+    <h4><a href='https://computerhoy.com/redes-sociales/twitter-grave-problema-elon-musk-cada-dia-acumula-demandas-1239714'>Twitter es un grave problema para Elon Musk: cada día acumula más demandas</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/twitter-grave-problema-elon-musk-cada-dia-acumula-demandas-1239714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Twitter es un grave problema para Elon Musk: cada día acumula más demandas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/productos-amazon-fire-tv-echo-dot-ofertas-1239490'>No te tienes que esperar a Prime Day, los productos de Amazon como Fire TV o Echo Dot vuelven a estar en oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/productos-amazon-fire-tv-echo-dot-ofertas-1239490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-locker-3023902.jpg?tf=1200x' alt='No te tienes que esperar a Prime Day, los productos de Amazon como Fire TV o Echo Dot vuelven a estar en oferta' />
+    <h4><a href='https://computerhoy.com/apple/todo-debes-saber-watchos-10-apple-watch-1239738'>Descubre las nuevas características de WatchOS 10 y cómo mejorarán tu Apple Watch</a></h4>
+    <a href='https://computerhoy.com/apple/todo-debes-saber-watchos-10-apple-watch-1239738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/AppleWatchseries8analisisyopinion_16656163256041084.jpg?tf=1200x' alt='Descubre las nuevas características de WatchOS 10 y cómo mejorarán tu Apple Watch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/colocar-freidora-aire-aqui-puede-disparar-factura-luz-1239682'>Colocar la freidora de aire en el sitio equivocado puede disparar tu factura de la luz</a></h4>
-    <a href='https://computerhoy.com/hogar/colocar-freidora-aire-aqui-puede-disparar-factura-luz-1239682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/freidora-aire-3024270.jpg?tf=1200x' alt='Colocar la freidora de aire en el sitio equivocado puede disparar tu factura de la luz' />
+    <h4><a href='https://computerhoy.com/tv/google-tv-actualizacion-novedades-1239766'>Más mejoras de rendimiento y almacenamiento para Google TV este mes</a></h4>
+    <a href='https://computerhoy.com/tv/google-tv-actualizacion-novedades-1239766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-tv-2938886.jpg?tf=1200x' alt='Más mejoras de rendimiento y almacenamiento para Google TV este mes' />
     </a>
 </div>
 
