@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-son-8-grandes-limitaciones-chatgpt-1239456'>Las limitaciones de ChatGPT: 8 cosas que el chatbot no puede hacer</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-son-8-grandes-limitaciones-chatgpt-1239456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/limitaciones-chatgpt-8-cosas-chatbot-no-puede-hacer-3023726.jpg?tf=1200x' alt='Las limitaciones de ChatGPT: 8 cosas que el chatbot no puede hacer' />
+    <h4><a href='https://computerhoy.com/internet/como-saber-online-te-ha-tocado-forma-parte-mesa-electoral-elecciones-28m-1239512'>Cómo saber online si te ha tocado forma parte de una mesa electoral en las elecciones del 28M</a></h4>
+    <a href='https://computerhoy.com/internet/como-saber-online-te-ha-tocado-forma-parte-mesa-electoral-elecciones-28m-1239512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/como-saber-online-te-ha-tocado-forma-parte-mesa-electoral-elecciones-28m-3023918.jpg?tf=1200x' alt='Cómo saber online si te ha tocado forma parte de una mesa electoral en las elecciones del 28M' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pornhub-autocensura-primera-vez-historia-1239412'>Pornhub se autocensura por primera vez en su historia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pornhub-autocensura-primera-vez-historia-1239412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/pornhub-autocensura-primera-vez-historia-3023674.jpg?tf=1200x' alt='Pornhub se autocensura por primera vez en su historia' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-recuperar-contrasena-acceso-router-wifi-olvidada-249190'>Cómo recuperar una contraseña de acceso a un router WiFi olvidada</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-recuperar-contrasena-acceso-router-wifi-olvidada-249190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/router-wifi.jpg?tf=1200x' alt='Cómo recuperar una contraseña de acceso a un router WiFi olvidada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/toshiba-smart-tv-43-pulgadas-4k-oferta-amazon-1239010'>No cuesta ni 290€ y con esta Smart TV 4K de Amazon podrás ver todas las series que quieras</a></h4>
-    <a href='https://computerhoy.com/tv/toshiba-smart-tv-43-pulgadas-4k-oferta-amazon-1239010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/toshiba-43uf3d63da-3023062.jpg?tf=1200x' alt='No cuesta ni 290€ y con esta Smart TV 4K de Amazon podrás ver todas las series que quieras' />
+    <h4><a href='https://computerhoy.com/life/gran-leccion-steve-jobs-bill-gates-superar-competencia-1238774'>La lección de Steve Jobs y Bill Gates: cómo la colaboración puede superar la competencia</a></h4>
+    <a href='https://computerhoy.com/life/gran-leccion-steve-jobs-bill-gates-superar-competencia-1238774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/steve-jobs-bill-gates-2247739.jpg?tf=1200x' alt='La lección de Steve Jobs y Bill Gates: cómo la colaboración puede superar la competencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xiaomi-redmi-watch-3-analisis-review-caracteristicas-precio-1231362'>Xiaomi Redmi Watch 3, todo lo que le pides a un reloj deportivo, por menos dinero</a></h4>
-    <a href='https://computerhoy.com/analisis/xiaomi-redmi-watch-3-analisis-review-caracteristicas-precio-1231362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/redmi-watch-3-analisis-opinion-3022010.jpg?tf=1200x' alt='Xiaomi Redmi Watch 3, todo lo que le pides a un reloj deportivo, por menos dinero' />
+    <h4><a href='https://computerhoy.com/apple/mac-mini-m2-oferta-amazon-1239472'>El nuevo Mac mini vuelve a bajar de precio en el que es el mejor mini PC del mercado</a></h4>
+    <a href='https://computerhoy.com/apple/mac-mini-m2-oferta-amazon-1239472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/apple-mac-mini-chip-m2-3023716.jpg?tf=1200x' alt='El nuevo Mac mini vuelve a bajar de precio en el que es el mejor mini PC del mercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar según tu presupuesto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-a13-3001998.jpg?tf=1200x' alt='Los mejores móviles Samsung que puedes comprar según tu presupuesto' />
+    <h4><a href='https://computerhoy.com/windows/notificaciones-windows-11-seran-menos-irritantes-gracias-nueva-funcion-1239496'>Las notificaciones de Windows 11 serán menos irritantes gracias a esta nueva función</a></h4>
+    <a href='https://computerhoy.com/windows/notificaciones-windows-11-seran-menos-irritantes-gracias-nueva-funcion-1239496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/notificaciones-windows-11-seran-menos-irritantes-gracias-nueva-funcion-3023844.jpg?tf=1200x' alt='Las notificaciones de Windows 11 serán menos irritantes gracias a esta nueva función' />
     </a>
 </div>
 
