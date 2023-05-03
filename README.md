@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/anuncio-cerveza-ha-hecho-ia-completo-desastre-1239658'>Este anuncio de cerveza lo ha hecho una IA y es un completo desastre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/anuncio-cerveza-ha-hecho-ia-completo-desastre-1239658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/anuncio-cerveza-ha-hecho-ia-completo-desastre-3024222.jpg?tf=1200x' alt='Este anuncio de cerveza lo ha hecho una IA y es un completo desastre' />
+    <h4><a href='https://computerhoy.com/google/no-tendras-escribir-contrasena-entrar-cuenta-google-1239630'>No tendrás que escribir tu contraseña para entrar en tu cuenta de Google</a></h4>
+    <a href='https://computerhoy.com/google/no-tendras-escribir-contrasena-entrar-cuenta-google-1239630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/passkeys-ya-disponibles-chrome-fin-contrasenas-aqui-2898332.jpg?tf=1200x' alt='No tendrás que escribir tu contraseña para entrar en tu cuenta de Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-te-permite-ver-ciudad-epoca-dinosaurios-1239544'>Con este mapa podrás ver dónde estaba tu casa en la época de los dinosaurios</a></h4>
-    <a href='https://computerhoy.com/life/mapa-te-permite-ver-ciudad-epoca-dinosaurios-1239544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-te-permite-ver-donde-estaba-casa-epoca-dinosaurios-3024004.jpg?tf=1200x' alt='Con este mapa podrás ver dónde estaba tu casa en la época de los dinosaurios' />
+    <h4><a href='https://computerhoy.com/espacio/james-webb-encuentra-planeta-atmosfera-similar-tierra-1239700'>El telescopio James Webb encuentra un planeta que podría tener una atmósfera similar a la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/james-webb-encuentra-planeta-atmosfera-similar-tierra-1239700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/gj486-b-3024342.jpg?tf=1200x' alt='El telescopio James Webb encuentra un planeta que podría tener una atmósfera similar a la Tierra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-saber-online-te-ha-tocado-forma-parte-mesa-electoral-elecciones-28m-1239512'>Cómo saber online si te ha tocado formar parte de una mesa electoral en las elecciones del 28M</a></h4>
-    <a href='https://computerhoy.com/internet/como-saber-online-te-ha-tocado-forma-parte-mesa-electoral-elecciones-28m-1239512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/como-saber-online-te-ha-tocado-forma-parte-mesa-electoral-elecciones-28m-3023918.jpg?tf=1200x' alt='Cómo saber online si te ha tocado formar parte de una mesa electoral en las elecciones del 28M' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-hacer-seguimiento-paquete-chronoexpres-correos-expres-281517'>Cómo hacer un seguimiento de un paquete Correos Express</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-hacer-seguimiento-paquete-chronoexpres-correos-expres-281517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/correos-express-2639489.jpg?tf=1200x' alt='Cómo hacer un seguimiento de un paquete Correos Express' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-recuperar-contrasena-acceso-router-wifi-olvidada-249190'>Cómo recuperar una contraseña de acceso a un router WiFi olvidada</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-recuperar-contrasena-acceso-router-wifi-olvidada-249190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/router-wifi.jpg?tf=1200x' alt='Cómo recuperar una contraseña de acceso a un router WiFi olvidada' />
+    <h4><a href='https://computerhoy.com/tecnologia/productos-amazon-fire-tv-echo-dot-ofertas-1239490'>No te tienes que esperar a Prime Day, los productos de Amazon como Fire TV o Echo Dot vuelven a estar en oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/productos-amazon-fire-tv-echo-dot-ofertas-1239490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-locker-3023902.jpg?tf=1200x' alt='No te tienes que esperar a Prime Day, los productos de Amazon como Fire TV o Echo Dot vuelven a estar en oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/gran-leccion-steve-jobs-bill-gates-superar-competencia-1238774'>La lección de Steve Jobs y Bill Gates: cómo la colaboración puede superar la competencia</a></h4>
-    <a href='https://computerhoy.com/life/gran-leccion-steve-jobs-bill-gates-superar-competencia-1238774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/steve-jobs-bill-gates-2247739.jpg?tf=1200x' alt='La lección de Steve Jobs y Bill Gates: cómo la colaboración puede superar la competencia' />
+    <h4><a href='https://computerhoy.com/hogar/colocar-freidora-aire-aqui-puede-disparar-factura-luz-1239682'>Colocar la freidora de aire en el sitio equivocado puede disparar tu factura de la luz</a></h4>
+    <a href='https://computerhoy.com/hogar/colocar-freidora-aire-aqui-puede-disparar-factura-luz-1239682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/freidora-aire-3024270.jpg?tf=1200x' alt='Colocar la freidora de aire en el sitio equivocado puede disparar tu factura de la luz' />
     </a>
 </div>
 
