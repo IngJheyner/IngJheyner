@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/anuncio-cerveza-ha-hecho-ia-completo-desastre-1239658'>Este anuncio de cerveza lo ha hecho una IA y es un completo desastre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/anuncio-cerveza-ha-hecho-ia-completo-desastre-1239658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/anuncio-cerveza-ha-hecho-ia-completo-desastre-3024222.jpg?tf=1200x' alt='Este anuncio de cerveza lo ha hecho una IA y es un completo desastre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mapa-te-permite-ver-ciudad-epoca-dinosaurios-1239544'>Con este mapa podrás ver dónde estaba tu casa en la época de los dinosaurios</a></h4>
     <a href='https://computerhoy.com/life/mapa-te-permite-ver-ciudad-epoca-dinosaurios-1239544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-te-permite-ver-donde-estaba-casa-epoca-dinosaurios-3024004.jpg?tf=1200x' alt='Con este mapa podrás ver dónde estaba tu casa en la época de los dinosaurios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/gran-leccion-steve-jobs-bill-gates-superar-competencia-1238774'>La lección de Steve Jobs y Bill Gates: cómo la colaboración puede superar la competencia</a></h4>
     <a href='https://computerhoy.com/life/gran-leccion-steve-jobs-bill-gates-superar-competencia-1238774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/steve-jobs-bill-gates-2247739.jpg?tf=1200x' alt='La lección de Steve Jobs y Bill Gates: cómo la colaboración puede superar la competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/mac-mini-m2-oferta-amazon-1239472'>El nuevo Mac mini vuelve a bajar de precio en el que es el mejor mini PC del mercado</a></h4>
-    <a href='https://computerhoy.com/apple/mac-mini-m2-oferta-amazon-1239472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/apple-mac-mini-chip-m2-3023716.jpg?tf=1200x' alt='El nuevo Mac mini vuelve a bajar de precio en el que es el mejor mini PC del mercado' />
     </a>
 </div>
 
