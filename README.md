@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-saber-online-te-ha-tocado-forma-parte-mesa-electoral-elecciones-28m-1239512'>Cómo saber online si te ha tocado forma parte de una mesa electoral en las elecciones del 28M</a></h4>
+    <h4><a href='https://computerhoy.com/life/mapa-te-permite-ver-ciudad-epoca-dinosaurios-1239544'>Con este mapa podrás ver dónde estaba tu casa en la época de los dinosaurios</a></h4>
+    <a href='https://computerhoy.com/life/mapa-te-permite-ver-ciudad-epoca-dinosaurios-1239544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-te-permite-ver-donde-estaba-casa-epoca-dinosaurios-3024004.jpg?tf=1200x' alt='Con este mapa podrás ver dónde estaba tu casa en la época de los dinosaurios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-saber-online-te-ha-tocado-forma-parte-mesa-electoral-elecciones-28m-1239512'>Cómo saber online si te ha tocado formar parte de una mesa electoral en las elecciones del 28M</a></h4>
     <a href='https://computerhoy.com/internet/como-saber-online-te-ha-tocado-forma-parte-mesa-electoral-elecciones-28m-1239512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/como-saber-online-te-ha-tocado-forma-parte-mesa-electoral-elecciones-28m-3023918.jpg?tf=1200x' alt='Cómo saber online si te ha tocado forma parte de una mesa electoral en las elecciones del 28M' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/como-saber-online-te-ha-tocado-forma-parte-mesa-electoral-elecciones-28m-3023918.jpg?tf=1200x' alt='Cómo saber online si te ha tocado formar parte de una mesa electoral en las elecciones del 28M' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/mac-mini-m2-oferta-amazon-1239472'>El nuevo Mac mini vuelve a bajar de precio en el que es el mejor mini PC del mercado</a></h4>
     <a href='https://computerhoy.com/apple/mac-mini-m2-oferta-amazon-1239472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/apple-mac-mini-chip-m2-3023716.jpg?tf=1200x' alt='El nuevo Mac mini vuelve a bajar de precio en el que es el mejor mini PC del mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/notificaciones-windows-11-seran-menos-irritantes-gracias-nueva-funcion-1239496'>Las notificaciones de Windows 11 serán menos irritantes gracias a esta nueva función</a></h4>
-    <a href='https://computerhoy.com/windows/notificaciones-windows-11-seran-menos-irritantes-gracias-nueva-funcion-1239496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/notificaciones-windows-11-seran-menos-irritantes-gracias-nueva-funcion-3023844.jpg?tf=1200x' alt='Las notificaciones de Windows 11 serán menos irritantes gracias a esta nueva función' />
     </a>
 </div>
 
