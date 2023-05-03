@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estas-son-8-grandes-limitaciones-chatgpt-1239456'>Las limitaciones de ChatGPT: 8 cosas que el chatbot no puede hacer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-son-8-grandes-limitaciones-chatgpt-1239456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/limitaciones-chatgpt-8-cosas-chatbot-no-puede-hacer-3023726.jpg?tf=1200x' alt='Las limitaciones de ChatGPT: 8 cosas que el chatbot no puede hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pornhub-autocensura-primera-vez-historia-1239412'>Pornhub se autocensura por primera vez en su historia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pornhub-autocensura-primera-vez-historia-1239412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/pornhub-autocensura-primera-vez-historia-3023674.jpg?tf=1200x' alt='Pornhub se autocensura por primera vez en su historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/toshiba-smart-tv-43-pulgadas-4k-oferta-amazon-1239010'>No cuesta ni 290€ y con esta Smart TV 4K de Amazon podrás ver todas las series que quieras</a></h4>
+    <a href='https://computerhoy.com/tv/toshiba-smart-tv-43-pulgadas-4k-oferta-amazon-1239010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/toshiba-43uf3d63da-3023062.jpg?tf=1200x' alt='No cuesta ni 290€ y con esta Smart TV 4K de Amazon podrás ver todas las series que quieras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-redmi-watch-3-analisis-review-caracteristicas-precio-1231362'>Xiaomi Redmi Watch 3, todo lo que le pides a un reloj deportivo, por menos dinero</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-redmi-watch-3-analisis-review-caracteristicas-precio-1231362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/redmi-watch-3-analisis-opinion-3022010.jpg?tf=1200x' alt='Xiaomi Redmi Watch 3, todo lo que le pides a un reloj deportivo, por menos dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar según tu presupuesto</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-a13-3001998.jpg?tf=1200x' alt='Los mejores móviles Samsung que puedes comprar según tu presupuesto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/musk-posiciona-favor-padrino-ia-riesgos-ia-1239120'>Musk se posiciona a favor del "padrino de la IA" que advierte que esta tecnología podría dañar a la humanidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/musk-posiciona-favor-padrino-ia-riesgos-ia-1239120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-inteligencia-artificial-2969202.jpg?tf=1200x' alt='Musk se posiciona a favor del "padrino de la IA" que advierte que esta tecnología podría dañar a la humanidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-google-alian-evitar-rastreos-airtags-similares-1239104'>Apple y Google se alían para evitar rastreos con AirTags y otros productos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-google-alian-evitar-rastreos-airtags-similares-1239104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airtags-2682799.jpg?tf=1200x' alt='Apple y Google se alían para evitar rastreos con AirTags y otros productos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usan-chatgpt-crear-portales-baratos-spam-generar-ingresos-1239094'>ChatGPT se está usando para crear webs de spam con el objetivo de generar ingresos publicitarios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usan-chatgpt-crear-portales-baratos-spam-generar-ingresos-1239094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/stop-spam-2573275.jpg?tf=1200x' alt='ChatGPT se está usando para crear webs de spam con el objetivo de generar ingresos publicitarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/genial-aplicacion-gratis-convierte-amazon-fire-tv-chromecast-1237804'>Esta genial aplicación gratis convierte tu Amazon Fire TV en un Chromecast</a></h4>
-    <a href='https://computerhoy.com/apps/genial-aplicacion-gratis-convierte-amazon-fire-tv-chromecast-1237804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925922.jpg?tf=1200x' alt='Esta genial aplicación gratis convierte tu Amazon Fire TV en un Chromecast' />
     </a>
 </div>
 
