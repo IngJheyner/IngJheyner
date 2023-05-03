@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar según tu presupuesto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-a13-3001998.jpg?tf=1200x' alt='Los mejores móviles Samsung que puedes comprar según tu presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/musk-posiciona-favor-padrino-ia-riesgos-ia-1239120'>Musk se posiciona a favor del "padrino de la IA" que advierte que esta tecnología podría dañar a la humanidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/musk-posiciona-favor-padrino-ia-riesgos-ia-1239120' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-inteligencia-artificial-2969202.jpg?tf=1200x' alt='Musk se posiciona a favor del "padrino de la IA" que advierte que esta tecnología podría dañar a la humanidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/genial-aplicacion-gratis-convierte-amazon-fire-tv-chromecast-1237804'>Esta genial aplicación gratis convierte tu Amazon Fire TV en un Chromecast</a></h4>
     <a href='https://computerhoy.com/apps/genial-aplicacion-gratis-convierte-amazon-fire-tv-chromecast-1237804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925922.jpg?tf=1200x' alt='Esta genial aplicación gratis convierte tu Amazon Fire TV en un Chromecast' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/chatgpt-tiene-muy-claro-cual-mejor-dispositivo-apple-1239068'>ChatGPT tiene muy claro cuál es el mejor dispositivo de Apple jamás fabricado</a></h4>
-    <a href='https://computerhoy.com/apple/chatgpt-tiene-muy-claro-cual-mejor-dispositivo-apple-1239068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steve-jobs-sosteniendo-iphone-2986484.jpg?tf=1200x' alt='ChatGPT tiene muy claro cuál es el mejor dispositivo de Apple jamás fabricado' />
     </a>
 </div>
 
