@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-cancela-smiley-sweet-tooth-1239786'>La montaña rusa de Netflix: cancela una serie española y renueva otra... para anunciar su final</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-cancela-smiley-sweet-tooth-1239786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sweet-tooth-nino-ciervo-temporada-2-3011874.jpg?tf=1200x' alt='La montaña rusa de Netflix: cancela una serie española y renueva otra... para anunciar su final' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-caigas-timo-actualizar-tarjeta-sanitaria-sms-quiere-robar-datos-1239712'>No caigas en el timo de actualizar tu tarjeta sanitaria: así es SMS que quiere robar tus datos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-caigas-timo-actualizar-tarjeta-sanitaria-sms-quiere-robar-datos-1239712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/sms.jpg?tf=1200x' alt='No caigas en el timo de actualizar tu tarjeta sanitaria: así es SMS que quiere robar tus datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-gmail-marca-verificacion-azul-1239782'>Google copia a Twitter y también añade la marca de verificación azul a Gmail</a></h4>
     <a href='https://computerhoy.com/google/google-gmail-marca-verificacion-azul-1239782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-copia-twitter-tambien-anade-marca-verificacion-azul-gmail-3024532.jpg?tf=1200x' alt='Google copia a Twitter y también añade la marca de verificación azul a Gmail' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/twitter-grave-problema-elon-musk-cada-dia-acumula-demandas-1239714'>Twitter es un grave problema para Elon Musk: cada día acumula más demandas</a></h4>
     <a href='https://computerhoy.com/redes-sociales/twitter-grave-problema-elon-musk-cada-dia-acumula-demandas-1239714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Twitter es un grave problema para Elon Musk: cada día acumula más demandas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/todo-debes-saber-watchos-10-apple-watch-1239738'>Descubre las nuevas características de WatchOS 10 y cómo mejorarán tu Apple Watch</a></h4>
-    <a href='https://computerhoy.com/apple/todo-debes-saber-watchos-10-apple-watch-1239738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/AppleWatchseries8analisisyopinion_16656163256041084.jpg?tf=1200x' alt='Descubre las nuevas características de WatchOS 10 y cómo mejorarán tu Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/google-tv-actualizacion-novedades-1239766'>Más mejoras de rendimiento y almacenamiento para Google TV este mes</a></h4>
-    <a href='https://computerhoy.com/tv/google-tv-actualizacion-novedades-1239766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-tv-2938886.jpg?tf=1200x' alt='Más mejoras de rendimiento y almacenamiento para Google TV este mes' />
     </a>
 </div>
 
