@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sonidos-nocturnos-escuchan-everest-1239980'>Qué son los terroríficos sonidos nocturnos que se escuchan en el Everest</a></h4>
-    <a href='https://computerhoy.com/life/sonidos-nocturnos-escuchan-everest-1239980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/son-terrorificos-sonidos-nocturnos-escuchan-everest-3024780.jpg?tf=1200x' alt='Qué son los terroríficos sonidos nocturnos que se escuchan en el Everest' />
+    <h4><a href='https://computerhoy.com/life/130-edificios-altos-mundo-cara-cara-video-1240004'>Las 130 construcciones más altas de mundo, cara a cara, te van a sorprender (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/130-edificios-altos-mundo-cara-cara-video-1240004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/130-edificios-altos-mundo-cara-cara-te-van-sorprender-video-3024788.jpg?tf=1200x' alt='Las 130 construcciones más altas de mundo, cara a cara, te van a sorprender (vídeo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-cancela-smiley-sweet-tooth-1239786'>La montaña rusa de Netflix: cancela una serie española y renueva otra... para anunciar su final</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-cancela-smiley-sweet-tooth-1239786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sweet-tooth-nino-ciervo-temporada-2-3011874.jpg?tf=1200x' alt='La montaña rusa de Netflix: cancela una serie española y renueva otra... para anunciar su final' />
+    <h4><a href='https://computerhoy.com/tv/amazon-mando-alexa-pro-funciones-caracteristicas-precio-1239654'>Amazon ha lanzado silenciosamente el mejor accesorio para quien tenga un Fire TV Stick</a></h4>
+    <a href='https://computerhoy.com/tv/amazon-mando-alexa-pro-funciones-caracteristicas-precio-1239654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mando-voz-alexa-pro-3024212.jpg?tf=1200x' alt='Amazon ha lanzado silenciosamente el mejor accesorio para quien tenga un Fire TV Stick' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-caigas-timo-actualizar-tarjeta-sanitaria-sms-quiere-robar-datos-1239712'>No caigas en el timo de actualizar tu tarjeta sanitaria: así es SMS que quiere robar tus datos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-caigas-timo-actualizar-tarjeta-sanitaria-sms-quiere-robar-datos-1239712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/sms.jpg?tf=1200x' alt='No caigas en el timo de actualizar tu tarjeta sanitaria: así es SMS que quiere robar tus datos' />
+    <h4><a href='https://computerhoy.com/moviles/realme-cumple-5-anos-mercado-han-evolucionado-moviles-1219790'>5 años del nacimiento de realme: Así han evolucionado sus móviles</a></h4>
+    <a href='https://computerhoy.com/moviles/realme-cumple-5-anos-mercado-han-evolucionado-moviles-1219790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/realme-cumple-5-anos-3023378.jpg?tf=1200x' alt='5 años del nacimiento de realme: Así han evolucionado sus móviles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-gmail-marca-verificacion-azul-1239782'>Google copia a Twitter y también añade la marca de verificación azul a Gmail</a></h4>
-    <a href='https://computerhoy.com/google/google-gmail-marca-verificacion-azul-1239782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-copia-twitter-tambien-anade-marca-verificacion-azul-gmail-3024532.jpg?tf=1200x' alt='Google copia a Twitter y también añade la marca de verificación azul a Gmail' />
+    <h4><a href='https://computerhoy.com/life/auriculares-inalambricos-oferta-llegan-dia-madre-1239554'>Auriculares inalámbricos en oferta que llegan para el Día de la Madre</a></h4>
+    <a href='https://computerhoy.com/life/auriculares-inalambricos-oferta-llegan-dia-madre-1239554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/madre-airpods-3023992.jpg?tf=1200x' alt='Auriculares inalámbricos en oferta que llegan para el Día de la Madre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/transporte-publico-alta-velocidad-tecnologia-permitira-viajar-650-km-h-1239762'>Transporte público de alta velocidad: la nueva tecnología que permitirá viajar a 650 km/h </a></h4>
-    <a href='https://computerhoy.com/tecnologia/transporte-publico-alta-velocidad-tecnologia-permitira-viajar-650-km-h-1239762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tren-alta-velocidad-2754699.jpg?tf=1200x' alt='Transporte público de alta velocidad: la nueva tecnología que permitirá viajar a 650 km/h ' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/fin-contrasenas-futuro-autenticacion-seguridad-linea-1238098'>¿Es el fin de las contraseñas? El futuro de la autenticación y la seguridad en línea</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/fin-contrasenas-futuro-autenticacion-seguridad-linea-1238098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/fin-contrasenas-futuro-autenticacion-seguridad-linea-3021918.jpg?tf=1200x' alt='¿Es el fin de las contraseñas? El futuro de la autenticación y la seguridad en línea' />
     </a>
 </div>
 
