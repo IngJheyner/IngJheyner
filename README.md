@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/lata-dos-anillas-tirar-cerveza-perfecta-1239774'>¡Aprende Cruzcampo! La lata con dos anillas para tirar la cerveza perfecta</a></h4>
+    <a href='https://computerhoy.com/life/lata-dos-anillas-tirar-cerveza-perfecta-1239774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lata-dos-anillas-logo-cruzcampo-3025316.jpg?tf=1200x' alt='¡Aprende Cruzcampo! La lata con dos anillas para tirar la cerveza perfecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/mediaset-hace-kings-league-pique-ibai-partidos-twitch-ahora-veras-tele-1240274'>Mediaset se hace con la Kings League de Piqué e Ibai: los partidos de Twitch ahora los verás en la tele</a></h4>
+    <a href='https://computerhoy.com/streaming/mediaset-hace-kings-league-pique-ibai-partidos-twitch-ahora-veras-tele-1240274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/kings-league-2976706.jpg?tf=1200x' alt='Mediaset se hace con la Kings League de Piqué e Ibai: los partidos de Twitch ahora los verás en la tele' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/samsung-va-apple-watch-nueva-actualizacion-1240254'>Samsung va a por el Apple Watch con su nueva actualización</a></h4>
+    <a href='https://computerhoy.com/software/samsung-va-apple-watch-nueva-actualizacion-1240254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809237.jpg?tf=1200x' alt='Samsung va a por el Apple Watch con su nueva actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-redisena-android-lavado-cara-muy-esperado-1240236'>WhatsApp se rediseña en Android con lavado de cara muy esperado</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-redisena-android-lavado-cara-muy-esperado-1240236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nueva-funcionalidad-llegara-whatsapp-copia-telegram-3018004.jpg?tf=1200x' alt='WhatsApp se rediseña en Android con lavado de cara muy esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chat-bing-ya-abierto-todo-mundo-microsoft-anuncia-grandes-novedades-1240118'>El chat de Bing ya está abierto para todo el mundo y Microsoft anuncia grandes novedades</a></h4>
     <a href='https://computerhoy.com/tecnologia/chat-bing-ya-abierto-todo-mundo-microsoft-anuncia-grandes-novedades-1240118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/chat-bing-ya-abierto-todo-mundo-microsoft-anuncia-grandes-novedades-3024972.jpg?tf=1200x' alt='El chat de Bing ya está abierto para todo el mundo y Microsoft anuncia grandes novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/motorola-edge-40-renueva-mejorando-fotografia-rendimiento-resistencia-1240168'>Motorola Edge 40: mejores cámaras y mayor resistencia con un diseño muy top</a></h4>
-    <a href='https://computerhoy.com/moviles/motorola-edge-40-renueva-mejorando-fotografia-rendimiento-resistencia-1240168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/motorola-edge-40-3025070.jpg?tf=1200x' alt='Motorola Edge 40: mejores cámaras y mayor resistencia con un diseño muy top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/actualiza-amazon-fire-stick-evitar-estos-problemas-seguridad-1240104'>Amazon alerta a los usuarios de Fire TV Stick para que actualicen rápidamente el dispositivo </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/actualiza-amazon-fire-stick-evitar-estos-problemas-seguridad-1240104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/Captura%20de%20pantalla%202019-01-09%20a%20las%209.40.18.jpg?tf=1200x' alt='Amazon alerta a los usuarios de Fire TV Stick para que actualicen rápidamente el dispositivo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/precio-minimo-historico-oneplus-10t-1240088'>Uno de los mejores OnePlus del momento y de gama alta tiene una rebaja de 240€ y no es en Amazon</a></h4>
-    <a href='https://computerhoy.com/moviles/precio-minimo-historico-oneplus-10t-1240088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oneplus-10t-analisis-opinion-2823437.jpg?tf=1200x' alt='Uno de los mejores OnePlus del momento y de gama alta tiene una rebaja de 240€ y no es en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/no-coloques-repetidor-wifi-aqui-no-sirve-absolutamente-nada-1240050'>No coloques tu repetidor WiFi aquí, no sirve absolutamente para nada</a></h4>
-    <a href='https://computerhoy.com/internet/no-coloques-repetidor-wifi-aqui-no-sirve-absolutamente-nada-1240050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repetidor-wifi-6-2646753.jpg?tf=1200x' alt='No coloques tu repetidor WiFi aquí, no sirve absolutamente para nada' />
     </a>
 </div>
 
