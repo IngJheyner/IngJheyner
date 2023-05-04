@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-ver-peliculas-marvel-orden-correcto-visualizacion-1110363'>Cómo ver las películas de Marvel y orden correcto de visualización</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/como-ver-peliculas-marvel-orden-correcto-visualizacion-1110363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/marvels-avengers-2750719.jpg?tf=1200x' alt='Cómo ver las películas de Marvel y orden correcto de visualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/son-tokens-chatgpt-cual-limite-ocurre-superas-1240014'>Qué son los tokens de ChatGPT, cuál es el límite y qué ocurre si lo superas</a></h4>
+    <a href='https://computerhoy.com/son-tokens-chatgpt-cual-limite-ocurre-superas-1240014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/puedes-forzar-chatgpt-genere-respuestas-malintencionadas-2974930.jpg?tf=1200x' alt='Qué son los tokens de ChatGPT, cuál es el límite y qué ocurre si lo superas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/130-edificios-altos-mundo-cara-cara-video-1240004'>Las 130 construcciones más altas de mundo, cara a cara, te van a sorprender (vídeo)</a></h4>
     <a href='https://computerhoy.com/life/130-edificios-altos-mundo-cara-cara-video-1240004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/130-edificios-altos-mundo-cara-cara-te-van-sorprender-video-3024788.jpg?tf=1200x' alt='Las 130 construcciones más altas de mundo, cara a cara, te van a sorprender (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/realme-cumple-5-anos-mercado-han-evolucionado-moviles-1219790'>5 años del nacimiento de realme: Así han evolucionado sus móviles</a></h4>
     <a href='https://computerhoy.com/moviles/realme-cumple-5-anos-mercado-han-evolucionado-moviles-1219790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/realme-cumple-5-anos-3023378.jpg?tf=1200x' alt='5 años del nacimiento de realme: Así han evolucionado sus móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/auriculares-inalambricos-oferta-llegan-dia-madre-1239554'>Auriculares inalámbricos en oferta que llegan para el Día de la Madre</a></h4>
-    <a href='https://computerhoy.com/life/auriculares-inalambricos-oferta-llegan-dia-madre-1239554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/madre-airpods-3023992.jpg?tf=1200x' alt='Auriculares inalámbricos en oferta que llegan para el Día de la Madre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/fin-contrasenas-futuro-autenticacion-seguridad-linea-1238098'>¿Es el fin de las contraseñas? El futuro de la autenticación y la seguridad en línea</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/fin-contrasenas-futuro-autenticacion-seguridad-linea-1238098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/fin-contrasenas-futuro-autenticacion-seguridad-linea-3021918.jpg?tf=1200x' alt='¿Es el fin de las contraseñas? El futuro de la autenticación y la seguridad en línea' />
     </a>
 </div>
 
