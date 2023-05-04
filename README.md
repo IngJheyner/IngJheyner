@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/actualiza-amazon-fire-stick-evitar-estos-problemas-seguridad-1240104'>Amazon alerta a los usuarios de Fire TV Stick para que actualicen rápidamente el dispositivo </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/actualiza-amazon-fire-stick-evitar-estos-problemas-seguridad-1240104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/Captura%20de%20pantalla%202019-01-09%20a%20las%209.40.18.jpg?tf=1200x' alt='Amazon alerta a los usuarios de Fire TV Stick para que actualicen rápidamente el dispositivo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/precio-minimo-historico-oneplus-10t-1240088'>Uno de los mejores OnePlus del momento y de gama alta tiene una rebaja de 240€ y no es en Amazon</a></h4>
+    <a href='https://computerhoy.com/moviles/precio-minimo-historico-oneplus-10t-1240088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oneplus-10t-analisis-opinion-2823437.jpg?tf=1200x' alt='Uno de los mejores OnePlus del momento y de gama alta tiene una rebaja de 240€ y no es en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/no-coloques-repetidor-wifi-aqui-no-sirve-absolutamente-nada-1240050'>No coloques tu repetidor WiFi aquí, no sirve absolutamente para nada</a></h4>
+    <a href='https://computerhoy.com/internet/no-coloques-repetidor-wifi-aqui-no-sirve-absolutamente-nada-1240050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repetidor-wifi-6-2646753.jpg?tf=1200x' alt='No coloques tu repetidor WiFi aquí, no sirve absolutamente para nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/gana-miles-euros-vendiendo-fotos-calcetines-sucios-onlyfans-pies-1240032'>Miles de euros por fotos y calcetines sucios: así funciona el Onlyfans de los pies</a></h4>
+    <a href='https://computerhoy.com/internet/gana-miles-euros-vendiendo-fotos-calcetines-sucios-onlyfans-pies-1240032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/miles-euros-fotos-calcetines-sucios-funciona-onlyfans-pies-3024852.jpg?tf=1200x' alt='Miles de euros por fotos y calcetines sucios: así funciona el Onlyfans de los pies' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-ver-peliculas-marvel-orden-correcto-visualizacion-1110363'>Cómo ver las películas de Marvel y orden correcto de visualización</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/como-ver-peliculas-marvel-orden-correcto-visualizacion-1110363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/marvels-avengers-2750719.jpg?tf=1200x' alt='Cómo ver las películas de Marvel y orden correcto de visualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/son-tokens-chatgpt-cual-limite-ocurre-superas-1240014'>Qué son los tokens de ChatGPT, cuál es el límite y qué ocurre si lo superas</a></h4>
-    <a href='https://computerhoy.com/son-tokens-chatgpt-cual-limite-ocurre-superas-1240014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/puedes-forzar-chatgpt-genere-respuestas-malintencionadas-2974930.jpg?tf=1200x' alt='Qué son los tokens de ChatGPT, cuál es el límite y qué ocurre si lo superas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/130-edificios-altos-mundo-cara-cara-video-1240004'>Las 130 construcciones más altas de mundo, cara a cara, te van a sorprender (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/130-edificios-altos-mundo-cara-cara-video-1240004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/130-edificios-altos-mundo-cara-cara-te-van-sorprender-video-3024788.jpg?tf=1200x' alt='Las 130 construcciones más altas de mundo, cara a cara, te van a sorprender (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/amazon-mando-alexa-pro-funciones-caracteristicas-precio-1239654'>Amazon ha lanzado silenciosamente el mejor accesorio para quien tenga un Fire TV Stick</a></h4>
-    <a href='https://computerhoy.com/tv/amazon-mando-alexa-pro-funciones-caracteristicas-precio-1239654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mando-voz-alexa-pro-3024212.jpg?tf=1200x' alt='Amazon ha lanzado silenciosamente el mejor accesorio para quien tenga un Fire TV Stick' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/realme-cumple-5-anos-mercado-han-evolucionado-moviles-1219790'>5 años del nacimiento de realme: Así han evolucionado sus móviles</a></h4>
-    <a href='https://computerhoy.com/moviles/realme-cumple-5-anos-mercado-han-evolucionado-moviles-1219790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/realme-cumple-5-anos-3023378.jpg?tf=1200x' alt='5 años del nacimiento de realme: Así han evolucionado sus móviles' />
     </a>
 </div>
 
