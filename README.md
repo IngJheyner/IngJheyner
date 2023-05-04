@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lata-dos-anillas-tirar-cerveza-perfecta-1239774'>¡Aprende Cruzcampo! La lata con dos anillas para tirar la cerveza perfecta</a></h4>
-    <a href='https://computerhoy.com/life/lata-dos-anillas-tirar-cerveza-perfecta-1239774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lata-dos-anillas-logo-cruzcampo-3025316.jpg?tf=1200x' alt='¡Aprende Cruzcampo! La lata con dos anillas para tirar la cerveza perfecta' />
+    <h4><a href='https://computerhoy.com/life/cuando-como-ver-espectacular-eclipse-penumbral-cambiara-luna-color-1240354'>Cuándo y cómo ver el espectacular eclipse penumbral que cambiará la luna de color</a></h4>
+    <a href='https://computerhoy.com/life/cuando-como-ver-espectacular-eclipse-penumbral-cambiara-luna-color-1240354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/eclipse-lunar-penumbral-3025474.jpg?tf=1200x' alt='Cuándo y cómo ver el espectacular eclipse penumbral que cambiará la luna de color' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/mediaset-hace-kings-league-pique-ibai-partidos-twitch-ahora-veras-tele-1240274'>Mediaset se hace con la Kings League de Piqué e Ibai: los partidos de Twitch ahora los verás en la tele</a></h4>
-    <a href='https://computerhoy.com/streaming/mediaset-hace-kings-league-pique-ibai-partidos-twitch-ahora-veras-tele-1240274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/kings-league-2976706.jpg?tf=1200x' alt='Mediaset se hace con la Kings League de Piqué e Ibai: los partidos de Twitch ahora los verás en la tele' />
+    <h4><a href='https://computerhoy.com/streaming/curioso-truco-usuarios-netflix-no-cancelen-series-favoritas-1240356'>El curioso truco de los seguidores de Sombra y Hueso para subir artificialmente la audiencia, y que Netflix no la cancele</a></h4>
+    <a href='https://computerhoy.com/streaming/curioso-truco-usuarios-netflix-no-cancelen-series-favoritas-1240356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/curioso-truco-usan-seguidores-sombra-hueso-subir-artificialmente-audiencia-netflix-no-cancele-3025428.jpg?tf=1200x' alt='El curioso truco de los seguidores de Sombra y Hueso para subir artificialmente la audiencia, y que Netflix no la cancele' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/samsung-va-apple-watch-nueva-actualizacion-1240254'>Samsung va a por el Apple Watch con su nueva actualización</a></h4>
-    <a href='https://computerhoy.com/software/samsung-va-apple-watch-nueva-actualizacion-1240254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809237.jpg?tf=1200x' alt='Samsung va a por el Apple Watch con su nueva actualización' />
+    <h4><a href='https://computerhoy.com/apple/video-muestra-iphone-sobreviviendo-espectacular-caida-4000-metros-altura-1240352'>Este vídeo muestra un iPhone sobreviviendo a una espectacular caída de más de 4000 metros de altura</a></h4>
+    <a href='https://computerhoy.com/apple/video-muestra-iphone-sobreviviendo-espectacular-caida-4000-metros-altura-1240352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/video-muestra-iphone-sobreviviendo-espectacular-caida-4000-metros-altura-3025470.jpg?tf=1200x' alt='Este vídeo muestra un iPhone sobreviviendo a una espectacular caída de más de 4000 metros de altura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-redisena-android-lavado-cara-muy-esperado-1240236'>WhatsApp se rediseña en Android con lavado de cara muy esperado</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-redisena-android-lavado-cara-muy-esperado-1240236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nueva-funcionalidad-llegara-whatsapp-copia-telegram-3018004.jpg?tf=1200x' alt='WhatsApp se rediseña en Android con lavado de cara muy esperado' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/advertencias-expertos-peligros-telegram-1240326'>Las advertencias de los expertos ante los peligros de Telegram</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/advertencias-expertos-peligros-telegram-1240326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/telegram-3025416.jpg?tf=1200x' alt='Las advertencias de los expertos ante los peligros de Telegram' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chat-bing-ya-abierto-todo-mundo-microsoft-anuncia-grandes-novedades-1240118'>El chat de Bing ya está abierto para todo el mundo y Microsoft anuncia grandes novedades</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chat-bing-ya-abierto-todo-mundo-microsoft-anuncia-grandes-novedades-1240118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/chat-bing-ya-abierto-todo-mundo-microsoft-anuncia-grandes-novedades-3024972.jpg?tf=1200x' alt='El chat de Bing ya está abierto para todo el mundo y Microsoft anuncia grandes novedades' />
+    <h4><a href='https://computerhoy.com/legislacion/pasa-no-acudes-mesa-electoral-1240300'>¿Qué pasa si no acudes a la mesa electoral el 28M?</a></h4>
+    <a href='https://computerhoy.com/legislacion/pasa-no-acudes-mesa-electoral-1240300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mesa-electoral-3025336.jpg?tf=1200x' alt='¿Qué pasa si no acudes a la mesa electoral el 28M?' />
     </a>
 </div>
 
