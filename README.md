@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuando-como-ver-espectacular-eclipse-penumbral-cambiara-luna-color-1240354'>Cuándo y cómo ver el espectacular eclipse penumbral que cambiará la luna de color</a></h4>
-    <a href='https://computerhoy.com/life/cuando-como-ver-espectacular-eclipse-penumbral-cambiara-luna-color-1240354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/eclipse-lunar-penumbral-3025474.jpg?tf=1200x' alt='Cuándo y cómo ver el espectacular eclipse penumbral que cambiará la luna de color' />
+    <h4><a href='https://computerhoy.com/espacio/satelite-meteosat-tercera-generacion-primera-imagen-1240376'>El nuevo satélite Meteosat 3 se aleja 36.000 Kilómetros de la Tierra para medir el clima de todo el planeta a la vez</a></h4>
+    <a href='https://computerhoy.com/espacio/satelite-meteosat-tercera-generacion-primera-imagen-1240376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nuevo-satelite-meteosat-3-aleja-36000-kilometros-tierra-medir-clima-todo-planeta-vez-3025500.jpg?tf=1200x' alt='El nuevo satélite Meteosat 3 se aleja 36.000 Kilómetros de la Tierra para medir el clima de todo el planeta a la vez' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/curioso-truco-usuarios-netflix-no-cancelen-series-favoritas-1240356'>El curioso truco de los seguidores de Sombra y Hueso para subir artificialmente la audiencia, y que Netflix no la cancele</a></h4>
-    <a href='https://computerhoy.com/streaming/curioso-truco-usuarios-netflix-no-cancelen-series-favoritas-1240356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/curioso-truco-usan-seguidores-sombra-hueso-subir-artificialmente-audiencia-netflix-no-cancele-3025428.jpg?tf=1200x' alt='El curioso truco de los seguidores de Sombra y Hueso para subir artificialmente la audiencia, y que Netflix no la cancele' />
+    <h4><a href='https://computerhoy.com/gaming/barbie-fashion-designer-salon-fama-videojuegos-1240368'>Barbie Fashion Designer le quita el puesto a FIFA, Call of Duty y Quake en el Salón de la Fama de los Videojuegos</a></h4>
+    <a href='https://computerhoy.com/gaming/barbie-fashion-designer-salon-fama-videojuegos-1240368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/barbie-fashion-designer-quita-puesto-fifa-call-duty-quake-salon-fama-videojuegos-3025490.jpg?tf=1200x' alt='Barbie Fashion Designer le quita el puesto a FIFA, Call of Duty y Quake en el Salón de la Fama de los Videojuegos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/video-muestra-iphone-sobreviviendo-espectacular-caida-4000-metros-altura-1240352'>Este vídeo muestra un iPhone sobreviviendo a una espectacular caída de más de 4000 metros de altura</a></h4>
-    <a href='https://computerhoy.com/apple/video-muestra-iphone-sobreviviendo-espectacular-caida-4000-metros-altura-1240352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/video-muestra-iphone-sobreviviendo-espectacular-caida-4000-metros-altura-3025470.jpg?tf=1200x' alt='Este vídeo muestra un iPhone sobreviviendo a una espectacular caída de más de 4000 metros de altura' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafadores-estan-utilizando-chatgpt-propagar-malware-facebook-1240348'>Estafadores están utilizando ChatGPT para propagar malware en Facebook</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafadores-estan-utilizando-chatgpt-propagar-malware-facebook-1240348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/malware-facebook-3025452.jpg?tf=1200x' alt='Estafadores están utilizando ChatGPT para propagar malware en Facebook' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/advertencias-expertos-peligros-telegram-1240326'>Las advertencias de los expertos ante los peligros de Telegram</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/advertencias-expertos-peligros-telegram-1240326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/telegram-3025416.jpg?tf=1200x' alt='Las advertencias de los expertos ante los peligros de Telegram' />
+    <h4><a href='https://computerhoy.com/google/pixel-fold-oficial-diseno-plegable-google-1240364'>El Pixel Fold es oficial: este es el diseño del plegable de Google</a></h4>
+    <a href='https://computerhoy.com/google/pixel-fold-oficial-diseno-plegable-google-1240364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/pixel-fold-oficial-diseno-plegable-google-3025488.jpg?tf=1200x' alt='El Pixel Fold es oficial: este es el diseño del plegable de Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/pasa-no-acudes-mesa-electoral-1240300'>¿Qué pasa si no acudes a la mesa electoral el 28M?</a></h4>
-    <a href='https://computerhoy.com/legislacion/pasa-no-acudes-mesa-electoral-1240300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mesa-electoral-3025336.jpg?tf=1200x' alt='¿Qué pasa si no acudes a la mesa electoral el 28M?' />
+    <h4><a href='https://computerhoy.com/life/pasatiempo-mark-zuckerberg-imprimir-vestidos-3d-1240336'>El curioso pasatiempo del multimillonario Mark Zuckerberg: imprimir vestidos 3D para sus hijas</a></h4>
+    <a href='https://computerhoy.com/life/pasatiempo-mark-zuckerberg-imprimir-vestidos-3d-1240336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mark-zuckerberg-3025424.jpg?tf=1200x' alt='El curioso pasatiempo del multimillonario Mark Zuckerberg: imprimir vestidos 3D para sus hijas' />
     </a>
 </div>
 
