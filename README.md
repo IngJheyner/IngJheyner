@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/sonidos-nocturnos-escuchan-everest-1239980'>Qué son los terroríficos sonidos nocturnos que se escuchan en el Everest</a></h4>
+    <a href='https://computerhoy.com/life/sonidos-nocturnos-escuchan-everest-1239980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/son-terrorificos-sonidos-nocturnos-escuchan-everest-3024780.jpg?tf=1200x' alt='Qué son los terroríficos sonidos nocturnos que se escuchan en el Everest' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/netflix-cancela-smiley-sweet-tooth-1239786'>La montaña rusa de Netflix: cancela una serie española y renueva otra... para anunciar su final</a></h4>
     <a href='https://computerhoy.com/streaming/netflix-cancela-smiley-sweet-tooth-1239786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sweet-tooth-nino-ciervo-temporada-2-3011874.jpg?tf=1200x' alt='La montaña rusa de Netflix: cancela una serie española y renueva otra... para anunciar su final' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/transporte-publico-alta-velocidad-tecnologia-permitira-viajar-650-km-h-1239762'>Transporte público de alta velocidad: la nueva tecnología que permitirá viajar a 650 km/h </a></h4>
     <a href='https://computerhoy.com/tecnologia/transporte-publico-alta-velocidad-tecnologia-permitira-viajar-650-km-h-1239762' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tren-alta-velocidad-2754699.jpg?tf=1200x' alt='Transporte público de alta velocidad: la nueva tecnología que permitirá viajar a 650 km/h ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/twitter-grave-problema-elon-musk-cada-dia-acumula-demandas-1239714'>Twitter es un grave problema para Elon Musk: cada día acumula más demandas</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/twitter-grave-problema-elon-musk-cada-dia-acumula-demandas-1239714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Twitter es un grave problema para Elon Musk: cada día acumula más demandas' />
     </a>
 </div>
 
