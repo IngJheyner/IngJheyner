@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chat-bing-ya-abierto-todo-mundo-microsoft-anuncia-grandes-novedades-1240118'>El chat de Bing ya está abierto para todo el mundo y Microsoft anuncia grandes novedades</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chat-bing-ya-abierto-todo-mundo-microsoft-anuncia-grandes-novedades-1240118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/chat-bing-ya-abierto-todo-mundo-microsoft-anuncia-grandes-novedades-3024972.jpg?tf=1200x' alt='El chat de Bing ya está abierto para todo el mundo y Microsoft anuncia grandes novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/motorola-edge-40-renueva-mejorando-fotografia-rendimiento-resistencia-1240168'>Motorola Edge 40: mejores cámaras y mayor resistencia con un diseño muy top</a></h4>
+    <a href='https://computerhoy.com/moviles/motorola-edge-40-renueva-mejorando-fotografia-rendimiento-resistencia-1240168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/motorola-edge-40-3025070.jpg?tf=1200x' alt='Motorola Edge 40: mejores cámaras y mayor resistencia con un diseño muy top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/actualiza-amazon-fire-stick-evitar-estos-problemas-seguridad-1240104'>Amazon alerta a los usuarios de Fire TV Stick para que actualicen rápidamente el dispositivo </a></h4>
     <a href='https://computerhoy.com/ciberseguridad/actualiza-amazon-fire-stick-evitar-estos-problemas-seguridad-1240104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/Captura%20de%20pantalla%202019-01-09%20a%20las%209.40.18.jpg?tf=1200x' alt='Amazon alerta a los usuarios de Fire TV Stick para que actualicen rápidamente el dispositivo ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/no-coloques-repetidor-wifi-aqui-no-sirve-absolutamente-nada-1240050'>No coloques tu repetidor WiFi aquí, no sirve absolutamente para nada</a></h4>
     <a href='https://computerhoy.com/internet/no-coloques-repetidor-wifi-aqui-no-sirve-absolutamente-nada-1240050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/repetidor-wifi-6-2646753.jpg?tf=1200x' alt='No coloques tu repetidor WiFi aquí, no sirve absolutamente para nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/gana-miles-euros-vendiendo-fotos-calcetines-sucios-onlyfans-pies-1240032'>Miles de euros por fotos y calcetines sucios: así funciona el Onlyfans de los pies</a></h4>
-    <a href='https://computerhoy.com/internet/gana-miles-euros-vendiendo-fotos-calcetines-sucios-onlyfans-pies-1240032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/miles-euros-fotos-calcetines-sucios-funciona-onlyfans-pies-3024852.jpg?tf=1200x' alt='Miles de euros por fotos y calcetines sucios: así funciona el Onlyfans de los pies' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/como-ver-peliculas-marvel-orden-correcto-visualizacion-1110363'>Cómo ver las películas de Marvel y orden correcto de visualización</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/como-ver-peliculas-marvel-orden-correcto-visualizacion-1110363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/marvels-avengers-2750719.jpg?tf=1200x' alt='Cómo ver las películas de Marvel y orden correcto de visualización' />
     </a>
 </div>
 
