@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/ya-activo-primer-super-radar-velocidad-4d-ia-capaz-espiar-dentro-coche-1240890'>Ya está activo el primer súper radar de velocidad 4D con IA capaz de espiar dentro del coche</a></h4>
+    <a href='https://computerhoy.com/motor/ya-activo-primer-super-radar-velocidad-4d-ia-capaz-espiar-dentro-coche-1240890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ya-activo-primer-super-radar-velocidad-4d-ia-capaz-espiar-dentro-coche-3026374.jpg?tf=1200x' alt='Ya está activo el primer súper radar de velocidad 4D con IA capaz de espiar dentro del coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-apunta-estafadores-permitira-silenciar-llamadas-desconocidas-1240884'>WhatsApp apunta a los estafadores y permitirá silenciar llamadas desconocidas</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-apunta-estafadores-permitira-silenciar-llamadas-desconocidas-1240884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/llamada-vising-2415435.jpg?tf=1200x' alt='WhatsApp apunta a los estafadores y permitirá silenciar llamadas desconocidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/legislacion/consiste-trabajo-presidente-mesa-electoral-1240854'>¿En qué consiste el trabajo de un presidente de mesa electoral?</a></h4>
+    <a href='https://computerhoy.com/legislacion/consiste-trabajo-presidente-mesa-electoral-1240854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/presidente-mesa-electoral-3026234.jpg?tf=1200x' alt='¿En qué consiste el trabajo de un presidente de mesa electoral?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/legislacion/como-hacer-declaracion-renta-2022-23-telefono-1240876'>Hacienda te hace la Declaración de la Renta por teléfono solo si cumples estos requisitos</a></h4>
     <a href='https://computerhoy.com/legislacion/como-hacer-declaracion-renta-2022-23-telefono-1240876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/plan-llamamos-renta-3026276.jpg?tf=1200x' alt='Hacienda te hace la Declaración de la Renta por teléfono solo si cumples estos requisitos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/logras-ver-error-imagen-menos-cinco-segundos-eres-genio-1238778'>Si logras ver el error en esta imagen en menos de cinco segundos, eres un genio</a></h4>
     <a href='https://computerhoy.com/life/logras-ver-error-imagen-menos-cinco-segundos-eres-genio-1238778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/desafio-visual-3022832.jpg?tf=1200x' alt='Si logras ver el error en esta imagen en menos de cinco segundos, eres un genio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/filtrado-diseno-exterior-galaxy-z-flip-5-samsung-va-todas-1240870'>Filtrado el diseño exterior del Galaxy Z Flip 5: Samsung va a por todas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/filtrado-diseno-exterior-galaxy-z-flip-5-samsung-va-todas-1240870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-2803861.jpg?tf=1200x' alt='Filtrado el diseño exterior del Galaxy Z Flip 5: Samsung va a por todas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-son-novedades-llegan-ultima-actualizacion-whatsapp-1240864'>Estas son las novedades que llegan con la última actualización de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/estas-son-novedades-llegan-ultima-actualizacion-whatsapp-1240864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estas-son-novedades-llegan-ultima-actualizacion-whatsapp-3026246.jpg?tf=1200x' alt='Estas son las novedades que llegan con la última actualización de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ceo-paga-chatgpt-empleados-mes-dispara-productividad-1240868'>El CEO de Genies paga ChatGPT a sus empleados y en un mes la productividad de la empresa ya ha aumentado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ceo-paga-chatgpt-empleados-mes-dispara-productividad-1240868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/robot-inteligencia-artificial-3018742.jpg?tf=1200x' alt='El CEO de Genies paga ChatGPT a sus empleados y en un mes la productividad de la empresa ya ha aumentado' />
     </a>
 </div>
 
