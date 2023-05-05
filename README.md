@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/magia-cine-descubierto-pantallas-led-gigantes-tecnologia-videojuego-abaratar-costes-1216250'>Platós virtuales: tecnología de videojuego y pantallas LED para abaratar las producciones de cine y TV</a></h4>
+    <a href='https://computerhoy.com/tv/magia-cine-descubierto-pantallas-led-gigantes-tecnologia-videojuego-abaratar-costes-1216250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mandalorian-stagecraft-3013388.jpg?tf=1200x' alt='Platós virtuales: tecnología de videojuego y pantallas LED para abaratar las producciones de cine y TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/oneplus-pad-competencia-mejores-alternativas-1240114'>Esta es la competencia con la que se encontrará OnePlus Pad para reinar entre las tablets Android</a></h4>
     <a href='https://computerhoy.com/tecnologia/oneplus-pad-competencia-mejores-alternativas-1240114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/oneplus-pad-3024948.jpg?tf=1200x' alt='Esta es la competencia con la que se encontrará OnePlus Pad para reinar entre las tablets Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/satelite-meteosat-tercera-generacion-primera-imagen-1240376'>El nuevo satélite Meteosat 3, el James Webb para medir el clima, envía una increíble imagen</a></h4>
     <a href='https://computerhoy.com/espacio/satelite-meteosat-tercera-generacion-primera-imagen-1240376' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nuevo-satelite-meteosat-3-aleja-36000-kilometros-tierra-medir-clima-todo-planeta-vez-3025500.jpg?tf=1200x' alt='El nuevo satélite Meteosat 3, el James Webb para medir el clima, envía una increíble imagen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/barbie-fashion-designer-salon-fama-videojuegos-1240368'>Barbie Fashion Designer le quita el puesto a FIFA, Call of Duty y Quake en el Salón de la Fama de los Videojuegos</a></h4>
-    <a href='https://computerhoy.com/gaming/barbie-fashion-designer-salon-fama-videojuegos-1240368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/barbie-fashion-designer-quita-puesto-fifa-call-duty-quake-salon-fama-videojuegos-3025490.jpg?tf=1200x' alt='Barbie Fashion Designer le quita el puesto a FIFA, Call of Duty y Quake en el Salón de la Fama de los Videojuegos' />
     </a>
 </div>
 
