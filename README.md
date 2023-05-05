@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/vaticinan-escalofriante-final-tierra-incluso-ponen-fecha-1239784'>Detectan una estrella que come planetas y la Tierra podría ser la siguiente</a></h4>
+    <a href='https://computerhoy.com/espacio/vaticinan-escalofriante-final-tierra-incluso-ponen-fecha-1239784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/15000-personas-buscaran-nuevos-planetas-utilizando-nube-microsoft_0.jpg?tf=1200x' alt='Detectan una estrella que come planetas y la Tierra podría ser la siguiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-lanza-todo-mundo-tv-box-s-4k-google-tv-competir-chromecast-fire-tv-1233522'>Xiaomi lanza en todo el mundo TV Box S 4K con Google TV para competir con Chromecast y Fire TV</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-lanza-todo-mundo-tv-box-s-4k-google-tv-competir-chromecast-fire-tv-1233522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-tv-box-s-4k-segunda-generacion-3014280.jpg?tf=1200x' alt='Xiaomi lanza en todo el mundo TV Box S 4K con Google TV para competir con Chromecast y Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tim-cook-deja-entrever-dura-critica-microsoft-google-rapida-integracion-ia-productos-1240684'>Tim Cook deja entrever una dura crítica a Microsoft y Google por la rápida integración de la IA en sus productos</a></h4>
+    <a href='https://computerhoy.com/apple/tim-cook-deja-entrever-dura-critica-microsoft-google-rapida-integracion-ia-productos-1240684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/tim-cook.jpg?tf=1200x' alt='Tim Cook deja entrever una dura crítica a Microsoft y Google por la rápida integración de la IA en sus productos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/huawei-matebook-16-ryzen-7-16gb-ram-mejor-descuento-1240674'>Huawei pone a la venta un portátil de 16", 16GB de RAM y un potentísimo AMD Ryzen 7 con un descuento de 500€</a></h4>
     <a href='https://computerhoy.com/pc/huawei-matebook-16-ryzen-7-16gb-ram-mejor-descuento-1240674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-huawei-matebook-16-2628529.jpg?tf=1200x' alt='Huawei pone a la venta un portátil de 16", 16GB de RAM y un potentísimo AMD Ryzen 7 con un descuento de 500€' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/televisiones-gratis-cambio-anuncios-nueva-idea-quiere-revolucionar-2023-1240656'>Televisiones gratis a cambio de anuncios: la nueva idea que quiere revolucionar 2023</a></h4>
     <a href='https://computerhoy.com/tv/televisiones-gratis-cambio-anuncios-nueva-idea-quiere-revolucionar-2023-1240656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/televisiones-gratis-cambio-anuncios-nueva-idea-quiere-revolucionar-2023-3025824.jpg?tf=1200x' alt='Televisiones gratis a cambio de anuncios: la nueva idea que quiere revolucionar 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/vida-media-disco-duro-hdd-no-alcanza-3-anos-estudio-1240640'>La vida media de una unidad de disco duro HDD no alcanza los 3 años según un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/pc/vida-media-disco-duro-hdd-no-alcanza-3-anos-estudio-1240640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/vida-media-unidad-disco-duro-hdd-no-alcanza-3-anos-nuevo-estudio-3025802.jpg?tf=1200x' alt='La vida media de una unidad de disco duro HDD no alcanza los 3 años según un nuevo estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-1240622'>La UE quiere evitar las trampas de Apple con los cables USB-C del iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-1240622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='La UE quiere evitar las trampas de Apple con los cables USB-C del iPhone 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/estos-son-videojuegos-odio-generan-jugadores-1240378'>Estos son los videojuegos que más odio generan entre los jugadores</a></h4>
-    <a href='https://computerhoy.com/gaming/estos-son-videojuegos-odio-generan-jugadores-1240378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/hombre-cabreado-jugando-videojuegos-3025778.jpg?tf=1200x' alt='Estos son los videojuegos que más odio generan entre los jugadores' />
     </a>
 </div>
 
