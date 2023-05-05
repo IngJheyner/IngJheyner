@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/satelite-meteosat-tercera-generacion-primera-imagen-1240376'>El nuevo satélite Meteosat 3 se aleja 36.000 Kilómetros de la Tierra para medir el clima de todo el planeta a la vez</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-pad-competencia-mejores-alternativas-1240114'>Esta es la competencia con la que se encontrará OnePlus Pad para reinar entre las tablets Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-pad-competencia-mejores-alternativas-1240114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/oneplus-pad-3024948.jpg?tf=1200x' alt='Esta es la competencia con la que se encontrará OnePlus Pad para reinar entre las tablets Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/oneplus-pad-analisis-review-caracteristicas-precio-1230330'>OnePlus Pad, la primera tablet de la marca se estrena con buena nota</a></h4>
+    <a href='https://computerhoy.com/analisis/oneplus-pad-analisis-review-caracteristicas-precio-1230330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/oneplus-pad-analisis-opinion-3024538.jpg?tf=1200x' alt='OnePlus Pad, la primera tablet de la marca se estrena con buena nota' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/lectura-mente-inteligencia-artificial-ondas-cerebrales-vision-raton-1240602'>La lectura de la mente, más cerca: una IA consigue ver lo que ve un ratón, leyendo sus ondas cerebrales</a></h4>
+    <a href='https://computerhoy.com/ciencia/lectura-mente-inteligencia-artificial-ondas-cerebrales-vision-raton-1240602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lectura-mente-cerca-consiguen-ver-ve-raton-leyendo-ondas-cerebrales-3025510.jpg?tf=1200x' alt='La lectura de la mente, más cerca: una IA consigue ver lo que ve un ratón, leyendo sus ondas cerebrales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/satelite-meteosat-tercera-generacion-primera-imagen-1240376'>El nuevo satélite Meteosat 3, el James Webb para medir el clima, envía una increíble imagen</a></h4>
     <a href='https://computerhoy.com/espacio/satelite-meteosat-tercera-generacion-primera-imagen-1240376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nuevo-satelite-meteosat-3-aleja-36000-kilometros-tierra-medir-clima-todo-planeta-vez-3025500.jpg?tf=1200x' alt='El nuevo satélite Meteosat 3 se aleja 36.000 Kilómetros de la Tierra para medir el clima de todo el planeta a la vez' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nuevo-satelite-meteosat-3-aleja-36000-kilometros-tierra-medir-clima-todo-planeta-vez-3025500.jpg?tf=1200x' alt='El nuevo satélite Meteosat 3, el James Webb para medir el clima, envía una increíble imagen' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/barbie-fashion-designer-salon-fama-videojuegos-1240368'>Barbie Fashion Designer le quita el puesto a FIFA, Call of Duty y Quake en el Salón de la Fama de los Videojuegos</a></h4>
     <a href='https://computerhoy.com/gaming/barbie-fashion-designer-salon-fama-videojuegos-1240368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/barbie-fashion-designer-quita-puesto-fifa-call-duty-quake-salon-fama-videojuegos-3025490.jpg?tf=1200x' alt='Barbie Fashion Designer le quita el puesto a FIFA, Call of Duty y Quake en el Salón de la Fama de los Videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafadores-estan-utilizando-chatgpt-propagar-malware-facebook-1240348'>Estafadores están utilizando ChatGPT para propagar malware en Facebook</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafadores-estan-utilizando-chatgpt-propagar-malware-facebook-1240348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/malware-facebook-3025452.jpg?tf=1200x' alt='Estafadores están utilizando ChatGPT para propagar malware en Facebook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/pixel-fold-oficial-diseno-plegable-google-1240364'>El Pixel Fold es oficial: este es el diseño del plegable de Google</a></h4>
-    <a href='https://computerhoy.com/google/pixel-fold-oficial-diseno-plegable-google-1240364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/pixel-fold-oficial-diseno-plegable-google-3025488.jpg?tf=1200x' alt='El Pixel Fold es oficial: este es el diseño del plegable de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pasatiempo-mark-zuckerberg-imprimir-vestidos-3d-1240336'>El curioso pasatiempo del multimillonario Mark Zuckerberg: imprimir vestidos 3D para sus hijas</a></h4>
-    <a href='https://computerhoy.com/life/pasatiempo-mark-zuckerberg-imprimir-vestidos-3d-1240336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mark-zuckerberg-3025424.jpg?tf=1200x' alt='El curioso pasatiempo del multimillonario Mark Zuckerberg: imprimir vestidos 3D para sus hijas' />
     </a>
 </div>
 
