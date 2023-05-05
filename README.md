@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/legislacion/multa-200000-euros-gsma-vulnerar-rgpd-uso-reconocimiento-facial-entrar-recinto-mobile-1240810'>Multa de 200.000 euros a la GSMA por vulnerar el RGPD con el uso de reconocimiento facial para entrar en el recinto del Mobile</a></h4>
+    <a href='https://computerhoy.com/legislacion/multa-200000-euros-gsma-vulnerar-rgpd-uso-reconocimiento-facial-entrar-recinto-mobile-1240810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mwc-2022-2742025.jpg?tf=1200x' alt='Multa de 200.000 euros a la GSMA por vulnerar el RGPD con el uso de reconocimiento facial para entrar en el recinto del Mobile' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/vaticinan-escalofriante-final-tierra-incluso-ponen-fecha-1239784'>Detectan una estrella que come planetas y la Tierra podría ser la siguiente</a></h4>
     <a href='https://computerhoy.com/espacio/vaticinan-escalofriante-final-tierra-incluso-ponen-fecha-1239784' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/15000-personas-buscaran-nuevos-planetas-utilizando-nube-microsoft_0.jpg?tf=1200x' alt='Detectan una estrella que come planetas y la Tierra podría ser la siguiente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/huawei-matebook-16-ryzen-7-16gb-ram-mejor-descuento-1240674'>Huawei pone a la venta un portátil de 16", 16GB de RAM y un potentísimo AMD Ryzen 7 con un descuento de 500€</a></h4>
     <a href='https://computerhoy.com/pc/huawei-matebook-16-ryzen-7-16gb-ram-mejor-descuento-1240674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-huawei-matebook-16-2628529.jpg?tf=1200x' alt='Huawei pone a la venta un portátil de 16", 16GB de RAM y un potentísimo AMD Ryzen 7 con un descuento de 500€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/televisiones-gratis-cambio-anuncios-nueva-idea-quiere-revolucionar-2023-1240656'>Televisiones gratis a cambio de anuncios: la nueva idea que quiere revolucionar 2023</a></h4>
-    <a href='https://computerhoy.com/tv/televisiones-gratis-cambio-anuncios-nueva-idea-quiere-revolucionar-2023-1240656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/televisiones-gratis-cambio-anuncios-nueva-idea-quiere-revolucionar-2023-3025824.jpg?tf=1200x' alt='Televisiones gratis a cambio de anuncios: la nueva idea que quiere revolucionar 2023' />
     </a>
 </div>
 
