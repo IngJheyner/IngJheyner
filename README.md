@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/magia-cine-descubierto-pantallas-led-gigantes-tecnologia-videojuego-abaratar-costes-1216250'>Platós virtuales: tecnología de videojuego y pantallas LED para abaratar las producciones de cine y TV</a></h4>
-    <a href='https://computerhoy.com/tv/magia-cine-descubierto-pantallas-led-gigantes-tecnologia-videojuego-abaratar-costes-1216250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mandalorian-stagecraft-3013388.jpg?tf=1200x' alt='Platós virtuales: tecnología de videojuego y pantallas LED para abaratar las producciones de cine y TV' />
+    <h4><a href='https://computerhoy.com/pc/huawei-matebook-16-ryzen-7-16gb-ram-mejor-descuento-1240674'>Huawei pone a la venta un portátil de 16", 16GB de RAM y un potentísimo AMD Ryzen 7 con un descuento de 500€</a></h4>
+    <a href='https://computerhoy.com/pc/huawei-matebook-16-ryzen-7-16gb-ram-mejor-descuento-1240674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-huawei-matebook-16-2628529.jpg?tf=1200x' alt='Huawei pone a la venta un portátil de 16", 16GB de RAM y un potentísimo AMD Ryzen 7 con un descuento de 500€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-pad-competencia-mejores-alternativas-1240114'>Esta es la competencia con la que se encontrará OnePlus Pad para reinar entre las tablets Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-pad-competencia-mejores-alternativas-1240114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/oneplus-pad-3024948.jpg?tf=1200x' alt='Esta es la competencia con la que se encontrará OnePlus Pad para reinar entre las tablets Android' />
+    <h4><a href='https://computerhoy.com/tv/televisiones-gratis-cambio-anuncios-nueva-idea-quiere-revolucionar-2023-1240656'>Televisiones gratis a cambio de anuncios: la nueva idea que quiere revolucionar 2023</a></h4>
+    <a href='https://computerhoy.com/tv/televisiones-gratis-cambio-anuncios-nueva-idea-quiere-revolucionar-2023-1240656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/televisiones-gratis-cambio-anuncios-nueva-idea-quiere-revolucionar-2023-3025824.jpg?tf=1200x' alt='Televisiones gratis a cambio de anuncios: la nueva idea que quiere revolucionar 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/oneplus-pad-analisis-review-caracteristicas-precio-1230330'>OnePlus Pad, la primera tablet de la marca se estrena con buena nota</a></h4>
-    <a href='https://computerhoy.com/analisis/oneplus-pad-analisis-review-caracteristicas-precio-1230330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/oneplus-pad-analisis-opinion-3024538.jpg?tf=1200x' alt='OnePlus Pad, la primera tablet de la marca se estrena con buena nota' />
+    <h4><a href='https://computerhoy.com/pc/vida-media-disco-duro-hdd-no-alcanza-3-anos-estudio-1240640'>La vida media de una unidad de disco duro HDD no alcanza los 3 años según un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/pc/vida-media-disco-duro-hdd-no-alcanza-3-anos-estudio-1240640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/vida-media-unidad-disco-duro-hdd-no-alcanza-3-anos-nuevo-estudio-3025802.jpg?tf=1200x' alt='La vida media de una unidad de disco duro HDD no alcanza los 3 años según un nuevo estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/lectura-mente-inteligencia-artificial-ondas-cerebrales-vision-raton-1240602'>La lectura de la mente, más cerca: una IA consigue ver lo que ve un ratón, leyendo sus ondas cerebrales</a></h4>
-    <a href='https://computerhoy.com/ciencia/lectura-mente-inteligencia-artificial-ondas-cerebrales-vision-raton-1240602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lectura-mente-cerca-consiguen-ver-ve-raton-leyendo-ondas-cerebrales-3025510.jpg?tf=1200x' alt='La lectura de la mente, más cerca: una IA consigue ver lo que ve un ratón, leyendo sus ondas cerebrales' />
+    <h4><a href='https://computerhoy.com/apple/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-1240622'>La UE quiere evitar las trampas de Apple con los cables USB-C del iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-1240622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='La UE quiere evitar las trampas de Apple con los cables USB-C del iPhone 15' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/satelite-meteosat-tercera-generacion-primera-imagen-1240376'>El nuevo satélite Meteosat 3, el James Webb para medir el clima, envía una increíble imagen</a></h4>
-    <a href='https://computerhoy.com/espacio/satelite-meteosat-tercera-generacion-primera-imagen-1240376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nuevo-satelite-meteosat-3-aleja-36000-kilometros-tierra-medir-clima-todo-planeta-vez-3025500.jpg?tf=1200x' alt='El nuevo satélite Meteosat 3, el James Webb para medir el clima, envía una increíble imagen' />
+    <h4><a href='https://computerhoy.com/gaming/estos-son-videojuegos-odio-generan-jugadores-1240378'>Estos son los videojuegos que más odio generan entre los jugadores</a></h4>
+    <a href='https://computerhoy.com/gaming/estos-son-videojuegos-odio-generan-jugadores-1240378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/hombre-cabreado-jugando-videojuegos-3025778.jpg?tf=1200x' alt='Estos son los videojuegos que más odio generan entre los jugadores' />
     </a>
 </div>
 
