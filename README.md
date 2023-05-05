@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/hbo-max-mrs-davis-monja-inteligencia-artificial-1240910'>Mrs. Davis, la surrealista lucha de una monja contra la IA, estreno en HBO Max</a></h4>
+    <a href='https://computerhoy.com/streaming/hbo-max-mrs-davis-monja-inteligencia-artificial-1240910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1683321737294-3026398.jpg?tf=1200x' alt='Mrs. Davis, la surrealista lucha de una monja contra la IA, estreno en HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/youtube-gmail-buscador-google-no-funcionan-google-cae-nivel-mundial-1240904'>YouTube, Gmail y el buscador de Google no funcionan: Google se cae a nivel mundial</a></h4>
+    <a href='https://computerhoy.com/google/youtube-gmail-buscador-google-no-funcionan-google-cae-nivel-mundial-1240904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/youtube-gmail-buscador-google-no-funcionan-google-cae-nivel-mundial-3026388.jpg?tf=1200x' alt='YouTube, Gmail y el buscador de Google no funcionan: Google se cae a nivel mundial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crea-extension-chrome-10-horas-chatgpt-gana-miles-euros-1240894'>Crea una extensión de Chrome en 10 horas sin saber programar, con ChatGPT, y con lo que gana se compra una casa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crea-extension-chrome-10-horas-chatgpt-gana-miles-euros-1240894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/crea-extension-chrome-10-horas-saber-programar-ayuda-chatgpt-vende-miles-euros-3026358.jpg?tf=1200x' alt='Crea una extensión de Chrome en 10 horas sin saber programar, con ChatGPT, y con lo que gana se compra una casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/ya-activo-primer-super-radar-velocidad-4d-ia-capaz-espiar-dentro-coche-1240890'>Ya está activo el primer súper radar de velocidad 4D con IA capaz de espiar dentro del coche</a></h4>
     <a href='https://computerhoy.com/motor/ya-activo-primer-super-radar-velocidad-4d-ia-capaz-espiar-dentro-coche-1240890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ya-activo-primer-super-radar-velocidad-4d-ia-capaz-espiar-dentro-coche-3026374.jpg?tf=1200x' alt='Ya está activo el primer súper radar de velocidad 4D con IA capaz de espiar dentro del coche' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-apunta-estafadores-permitira-silenciar-llamadas-desconocidas-1240884'>WhatsApp apunta a los estafadores y permitirá silenciar llamadas desconocidas</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-apunta-estafadores-permitira-silenciar-llamadas-desconocidas-1240884' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/llamada-vising-2415435.jpg?tf=1200x' alt='WhatsApp apunta a los estafadores y permitirá silenciar llamadas desconocidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/consiste-trabajo-presidente-mesa-electoral-1240854'>¿En qué consiste el trabajo de un presidente de mesa electoral?</a></h4>
-    <a href='https://computerhoy.com/legislacion/consiste-trabajo-presidente-mesa-electoral-1240854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/presidente-mesa-electoral-3026234.jpg?tf=1200x' alt='¿En qué consiste el trabajo de un presidente de mesa electoral?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/como-hacer-declaracion-renta-2022-23-telefono-1240876'>Hacienda te hace la Declaración de la Renta por teléfono solo si cumples estos requisitos</a></h4>
-    <a href='https://computerhoy.com/legislacion/como-hacer-declaracion-renta-2022-23-telefono-1240876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/plan-llamamos-renta-3026276.jpg?tf=1200x' alt='Hacienda te hace la Declaración de la Renta por teléfono solo si cumples estos requisitos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/logras-ver-error-imagen-menos-cinco-segundos-eres-genio-1238778'>Si logras ver el error en esta imagen en menos de cinco segundos, eres un genio</a></h4>
-    <a href='https://computerhoy.com/life/logras-ver-error-imagen-menos-cinco-segundos-eres-genio-1238778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/desafio-visual-3022832.jpg?tf=1200x' alt='Si logras ver el error en esta imagen en menos de cinco segundos, eres un genio' />
     </a>
 </div>
 
