@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-1240658'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Prime Video: el Día de la Madre como protagonista</a></h4>
-    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-1240658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-dia-madre-como-protagonista-3025854.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Prime Video: el Día de la Madre como protagonista' />
+    <h4><a href='https://computerhoy.com/legislacion/como-hacer-declaracion-renta-2022-23-telefono-1240876'>Hacienda te hace la Declaración de la Renta por teléfono solo si cumples estos requisitos</a></h4>
+    <a href='https://computerhoy.com/legislacion/como-hacer-declaracion-renta-2022-23-telefono-1240876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/plan-llamamos-renta-3026276.jpg?tf=1200x' alt='Hacienda te hace la Declaración de la Renta por teléfono solo si cumples estos requisitos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/multa-200000-euros-gsma-vulnerar-rgpd-uso-reconocimiento-facial-entrar-recinto-mobile-1240810'>Multa de 200.000 euros a la GSMA por vulnerar el RGPD con el uso de reconocimiento facial para entrar en el recinto del Mobile</a></h4>
-    <a href='https://computerhoy.com/legislacion/multa-200000-euros-gsma-vulnerar-rgpd-uso-reconocimiento-facial-entrar-recinto-mobile-1240810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mwc-2022-2742025.jpg?tf=1200x' alt='Multa de 200.000 euros a la GSMA por vulnerar el RGPD con el uso de reconocimiento facial para entrar en el recinto del Mobile' />
+    <h4><a href='https://computerhoy.com/life/logras-ver-error-imagen-menos-cinco-segundos-eres-genio-1238778'>Si logras ver el error en esta imagen en menos de cinco segundos, eres un genio</a></h4>
+    <a href='https://computerhoy.com/life/logras-ver-error-imagen-menos-cinco-segundos-eres-genio-1238778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/desafio-visual-3022832.jpg?tf=1200x' alt='Si logras ver el error en esta imagen en menos de cinco segundos, eres un genio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/vaticinan-escalofriante-final-tierra-incluso-ponen-fecha-1239784'>Detectan una estrella que come planetas y la Tierra podría ser la siguiente</a></h4>
-    <a href='https://computerhoy.com/espacio/vaticinan-escalofriante-final-tierra-incluso-ponen-fecha-1239784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/15000-personas-buscaran-nuevos-planetas-utilizando-nube-microsoft_0.jpg?tf=1200x' alt='Detectan una estrella que come planetas y la Tierra podría ser la siguiente' />
+    <h4><a href='https://computerhoy.com/tecnologia/filtrado-diseno-exterior-galaxy-z-flip-5-samsung-va-todas-1240870'>Filtrado el diseño exterior del Galaxy Z Flip 5: Samsung va a por todas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/filtrado-diseno-exterior-galaxy-z-flip-5-samsung-va-todas-1240870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-2803861.jpg?tf=1200x' alt='Filtrado el diseño exterior del Galaxy Z Flip 5: Samsung va a por todas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-lanza-todo-mundo-tv-box-s-4k-google-tv-competir-chromecast-fire-tv-1233522'>Xiaomi lanza en todo el mundo TV Box S 4K con Google TV para competir con Chromecast y Fire TV</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-lanza-todo-mundo-tv-box-s-4k-google-tv-competir-chromecast-fire-tv-1233522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-tv-box-s-4k-segunda-generacion-3014280.jpg?tf=1200x' alt='Xiaomi lanza en todo el mundo TV Box S 4K con Google TV para competir con Chromecast y Fire TV' />
+    <h4><a href='https://computerhoy.com/apps/estas-son-novedades-llegan-ultima-actualizacion-whatsapp-1240864'>Estas son las novedades que llegan con la última actualización de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-novedades-llegan-ultima-actualizacion-whatsapp-1240864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estas-son-novedades-llegan-ultima-actualizacion-whatsapp-3026246.jpg?tf=1200x' alt='Estas son las novedades que llegan con la última actualización de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tim-cook-deja-entrever-dura-critica-microsoft-google-rapida-integracion-ia-productos-1240684'>Tim Cook deja entrever una dura crítica a Microsoft y Google por la rápida integración de la IA en sus productos</a></h4>
-    <a href='https://computerhoy.com/apple/tim-cook-deja-entrever-dura-critica-microsoft-google-rapida-integracion-ia-productos-1240684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/tim-cook.jpg?tf=1200x' alt='Tim Cook deja entrever una dura crítica a Microsoft y Google por la rápida integración de la IA en sus productos' />
+    <h4><a href='https://computerhoy.com/tecnologia/ceo-paga-chatgpt-empleados-mes-dispara-productividad-1240868'>El CEO de Genies paga ChatGPT a sus empleados y en un mes la productividad de la empresa ya ha aumentado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ceo-paga-chatgpt-empleados-mes-dispara-productividad-1240868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/robot-inteligencia-artificial-3018742.jpg?tf=1200x' alt='El CEO de Genies paga ChatGPT a sus empleados y en un mes la productividad de la empresa ya ha aumentado' />
     </a>
 </div>
 
