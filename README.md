@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-1240658'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Prime Video: el Día de la Madre como protagonista</a></h4>
+    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-1240658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-dia-madre-como-protagonista-3025854.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Prime Video: el Día de la Madre como protagonista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/legislacion/multa-200000-euros-gsma-vulnerar-rgpd-uso-reconocimiento-facial-entrar-recinto-mobile-1240810'>Multa de 200.000 euros a la GSMA por vulnerar el RGPD con el uso de reconocimiento facial para entrar en el recinto del Mobile</a></h4>
     <a href='https://computerhoy.com/legislacion/multa-200000-euros-gsma-vulnerar-rgpd-uso-reconocimiento-facial-entrar-recinto-mobile-1240810' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mwc-2022-2742025.jpg?tf=1200x' alt='Multa de 200.000 euros a la GSMA por vulnerar el RGPD con el uso de reconocimiento facial para entrar en el recinto del Mobile' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/tim-cook-deja-entrever-dura-critica-microsoft-google-rapida-integracion-ia-productos-1240684'>Tim Cook deja entrever una dura crítica a Microsoft y Google por la rápida integración de la IA en sus productos</a></h4>
     <a href='https://computerhoy.com/apple/tim-cook-deja-entrever-dura-critica-microsoft-google-rapida-integracion-ia-productos-1240684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/tim-cook.jpg?tf=1200x' alt='Tim Cook deja entrever una dura crítica a Microsoft y Google por la rápida integración de la IA en sus productos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/huawei-matebook-16-ryzen-7-16gb-ram-mejor-descuento-1240674'>Huawei pone a la venta un portátil de 16", 16GB de RAM y un potentísimo AMD Ryzen 7 con un descuento de 500€</a></h4>
-    <a href='https://computerhoy.com/pc/huawei-matebook-16-ryzen-7-16gb-ram-mejor-descuento-1240674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-huawei-matebook-16-2628529.jpg?tf=1200x' alt='Huawei pone a la venta un portátil de 16", 16GB de RAM y un potentísimo AMD Ryzen 7 con un descuento de 500€' />
     </a>
 </div>
 
