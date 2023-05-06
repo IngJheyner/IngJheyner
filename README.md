@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/llega-primer-coche-electrico-carga-mismo-tiempo-gasolina-1240908'>Llega el primer coche eléctrico que carga en el mismo tiempo que un gasolina</a></h4>
+    <a href='https://computerhoy.com/motor/llega-primer-coche-electrico-carga-mismo-tiempo-gasolina-1240908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/fisker-ocean-suv-3026392.jpg?tf=1200x' alt='Llega el primer coche eléctrico que carga en el mismo tiempo que un gasolina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/pueblo-bonito-espana-national-geographic-puede-te-sorprenda-1241204'>Este es el pueblo más bonito de España para National Geographic y puede que te sorprenda</a></h4>
+    <a href='https://computerhoy.com/life/pueblo-bonito-espana-national-geographic-puede-te-sorprenda-1241204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/trujillo-3026738.jpg?tf=1200x' alt='Este es el pueblo más bonito de España para National Geographic y puede que te sorprenda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/cartera-valores-creada-chatgpt-arrasa-mejores-inversores-mundo-1241200'>Una cartera de valores creada por ChatGPT arrasa a los mejores inversores del mundo</a></h4>
     <a href='https://computerhoy.com/apps/cartera-valores-creada-chatgpt-arrasa-mejores-inversores-mundo-1241200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-inversion-3026734.jpg?tf=1200x' alt='Una cartera de valores creada por ChatGPT arrasa a los mejores inversores del mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-sincronizacion-autenticador-google-1237822'>Cómo desactivar la sincronización en el autenticador de Google para mejorar la seguridad de tu cuenta</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-desactivar-sincronizacion-autenticador-google-1237822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/cuenta-google-3021596.jpg?tf=1200x' alt='Cómo desactivar la sincronización en el autenticador de Google para mejorar la seguridad de tu cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/discord-te-obliga-cambiar-nombre-usuario-deberias-hacerlo-cuanto-antes-1241186'>Discord te obliga a cambiar de nombre de usuario y deberías hacerlo cuanto antes</a></h4>
-    <a href='https://computerhoy.com/apps/discord-te-obliga-cambiar-nombre-usuario-deberias-hacerlo-cuanto-antes-1241186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/discord-2449211.jpg?tf=1200x' alt='Discord te obliga a cambiar de nombre de usuario y deberías hacerlo cuanto antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-cambiara-buscador-apariencia-personal-joven-ia-integrada-muchos-videos-cortos-1241178'>Google cambiará su buscador con una apariencia más personal y joven, con IA integrada y muchos vídeos cortos</a></h4>
-    <a href='https://computerhoy.com/google/google-cambiara-buscador-apariencia-personal-joven-ia-integrada-muchos-videos-cortos-1241178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/buscador-google-3026692.jpg?tf=1200x' alt='Google cambiará su buscador con una apariencia más personal y joven, con IA integrada y muchos vídeos cortos' />
     </a>
 </div>
 
