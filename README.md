@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/plan-estrategico-eliminar-canales-gratis-listas-iptv-europa-1240844'>El plan estratégico para eliminar los canales gratis y listas de IPTV en Europa</a></h4>
+    <a href='https://computerhoy.com/streaming/plan-estrategico-eliminar-canales-gratis-listas-iptv-europa-1240844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iptv-2818055.jpg?tf=1200x' alt='El plan estratégico para eliminar los canales gratis y listas de IPTV en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/crean-primer-robot-reflejos-capaz-reaccionar-estimulos-marcha-1241232'>Crean el primer robot con reflejos capaz de reaccionar a los estímulos sobre la marcha</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-primer-robot-reflejos-capaz-reaccionar-estimulos-marcha-1241232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/crean-primer-robot-reflejos-capaz-reaccionar-estimulos-marcha-3026788.jpg?tf=1200x' alt='Crean el primer robot con reflejos capaz de reaccionar a los estímulos sobre la marcha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/steve-jobs-odiaba-taquillera-pelicula-marvel-malisima-1241224'>Steve Jobs odiaba esta taquillera película de Marvel: “es malísima”</a></h4>
     <a href='https://computerhoy.com/apple/steve-jobs-odiaba-taquillera-pelicula-marvel-malisima-1241224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/steve-jobs-3026774.jpg?tf=1200x' alt='Steve Jobs odiaba esta taquillera película de Marvel: “es malísima”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-nueva-herramienta-luchar-spam-grupos-1241208'>WhatsApp trabaja en una nueva herramienta para luchar contra el spam en los grupos</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-trabaja-nueva-herramienta-luchar-spam-grupos-1241208' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-2970584.jpg?tf=1200x' alt='WhatsApp trabaja en una nueva herramienta para luchar contra el spam en los grupos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/llega-primer-coche-electrico-carga-mismo-tiempo-gasolina-1240908'>Llega el primer coche eléctrico que carga en el mismo tiempo que un gasolina</a></h4>
-    <a href='https://computerhoy.com/motor/llega-primer-coche-electrico-carga-mismo-tiempo-gasolina-1240908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/fisker-ocean-suv-3026392.jpg?tf=1200x' alt='Llega el primer coche eléctrico que carga en el mismo tiempo que un gasolina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pueblo-bonito-espana-national-geographic-puede-te-sorprenda-1241204'>Este es el pueblo más bonito de España para National Geographic y puede que te sorprenda</a></h4>
-    <a href='https://computerhoy.com/life/pueblo-bonito-espana-national-geographic-puede-te-sorprenda-1241204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/trujillo-3026738.jpg?tf=1200x' alt='Este es el pueblo más bonito de España para National Geographic y puede que te sorprenda' />
     </a>
 </div>
 
