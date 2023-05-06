@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/carl-pei-analiza-productos-competencia-youtube-mismo-1235620'>Por qué Carl Pei analiza productos de la competencia en YouTube, según él mismo</a></h4>
+    <a href='https://computerhoy.com/industria/carl-pei-analiza-productos-competencia-youtube-mismo-1235620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/carl-pei-youtube-3017724.jpg?tf=1200x' alt='Por qué Carl Pei analiza productos de la competencia en YouTube, según él mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/futuro-moviles-cara-2030-revolucion-extincion-1223708'>El futuro de los móviles de cara a 2030, ¿revolución o extinción?</a></h4>
+    <a href='https://computerhoy.com/moviles/futuro-moviles-cara-2030-revolucion-extincion-1223708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/evolucion-moviles-cara-2030-revolucion-extincion-3003542.jpg?tf=1200x' alt='El futuro de los móviles de cara a 2030, ¿revolución o extinción?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/completar-giro-maquina-debe-dar-vueltas-atomos-hay-universo-1240690'>Para completar un giro, esta máquina debe dar más vueltas que átomos hay en el universo</a></h4>
+    <a href='https://computerhoy.com/ciencia/completar-giro-maquina-debe-dar-vueltas-atomos-hay-universo-1240690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/completar-giro-maquina-tiene-dar-vueltas-atomos-hay-universo-3025840.jpg?tf=1200x' alt='Para completar un giro, esta máquina debe dar más vueltas que átomos hay en el universo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/mandos-jugar-movil-1240644'>Si quieres jugar con tu móvil estos son los mejores mandos compatibles con iPhone o Android</a></h4>
+    <a href='https://computerhoy.com/mejores/mandos-jugar-movil-1240644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mejores-mandos-moviles-puedes-comprar-3025726.jpg?tf=1200x' alt='Si quieres jugar con tu móvil estos son los mejores mandos compatibles con iPhone o Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/broma-steve-jobs-starbucks-iphone-hizo-viral-1239144'>La genial broma de Steve Jobs a Starbucks con el primer iPhone que todavía es viral</a></h4>
     <a href='https://computerhoy.com/life/broma-steve-jobs-starbucks-iphone-hizo-viral-1239144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hoy-cumplen-15-anos-presentacion-iphone-steve-jobs-cambio-mundo-siempre-2581363.jpg?tf=1200x' alt='La genial broma de Steve Jobs a Starbucks con el primer iPhone que todavía es viral' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/byakuya-helado-mas-caro-mundo-cuesta-6000-euros-1241144'>Byakuya, el helado más caro del mundo: cuesta 6.000 euros y lleva ingredientes que nunca has probado</a></h4>
-    <a href='https://computerhoy.com/alimentacion/byakuya-helado-mas-caro-mundo-cuesta-6000-euros-1241144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/byakuya-helado-caro-mundo-cuesta-6000-euros-lleva-ingredientes-nunca-has-probado-3026620.jpg?tf=1200x' alt='Byakuya, el helado más caro del mundo: cuesta 6.000 euros y lleva ingredientes que nunca has probado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/estados-unidos-tasa-30-mineria-bitcoin-precio-luz-1241138'>La minería de Bitcoin consumió en 2022 más de 50.000 millones de KWh en Estados Unidos: el gobierno anuncia una tasa del 30%</a></h4>
-    <a href='https://computerhoy.com/criptos/estados-unidos-tasa-30-mineria-bitcoin-precio-luz-1241138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mineria-bitcoin-consumio-2022-50000-millones-kwh-estados-unidos-gobierno-anuncia-tasa-30-3026400.jpg?tf=1200x' alt='La minería de Bitcoin consumió en 2022 más de 50.000 millones de KWh en Estados Unidos: el gobierno anuncia una tasa del 30%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/hbo-max-mrs-davis-monja-inteligencia-artificial-1240910'>Mrs. Davis, la surrealista lucha de una monja contra la IA, estreno en HBO Max</a></h4>
-    <a href='https://computerhoy.com/streaming/hbo-max-mrs-davis-monja-inteligencia-artificial-1240910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1683321737294-3026398.jpg?tf=1200x' alt='Mrs. Davis, la surrealista lucha de una monja contra la IA, estreno en HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/youtube-gmail-buscador-google-no-funcionan-google-cae-nivel-mundial-1240904'>YouTube, Gmail y el buscador de Google no funcionan: Google se cae a nivel mundial</a></h4>
-    <a href='https://computerhoy.com/google/youtube-gmail-buscador-google-no-funcionan-google-cae-nivel-mundial-1240904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/youtube-gmail-buscador-google-no-funcionan-google-cae-nivel-mundial-3026388.jpg?tf=1200x' alt='YouTube, Gmail y el buscador de Google no funcionan: Google se cae a nivel mundial' />
     </a>
 </div>
 
