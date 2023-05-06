@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/steve-jobs-odiaba-taquillera-pelicula-marvel-malisima-1241224'>Steve Jobs odiaba esta taquillera película de Marvel: “es malísima”</a></h4>
+    <a href='https://computerhoy.com/apple/steve-jobs-odiaba-taquillera-pelicula-marvel-malisima-1241224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/steve-jobs-3026774.jpg?tf=1200x' alt='Steve Jobs odiaba esta taquillera película de Marvel: “es malísima”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-gps-mano-senderismo-aventuras-viajes-1044069'>Los mejores GPS de mano que puedes comprar para no perderte en tus rutas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-gps-mano-senderismo-aventuras-viajes-1044069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/sistema-gps-mano-twonav-aventura-2-plus-3026120.jpg?tf=1200x' alt='Los mejores GPS de mano que puedes comprar para no perderte en tus rutas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-nueva-herramienta-luchar-spam-grupos-1241208'>WhatsApp trabaja en una nueva herramienta para luchar contra el spam en los grupos</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-trabaja-nueva-herramienta-luchar-spam-grupos-1241208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-2970584.jpg?tf=1200x' alt='WhatsApp trabaja en una nueva herramienta para luchar contra el spam en los grupos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/llega-primer-coche-electrico-carga-mismo-tiempo-gasolina-1240908'>Llega el primer coche eléctrico que carga en el mismo tiempo que un gasolina</a></h4>
     <a href='https://computerhoy.com/motor/llega-primer-coche-electrico-carga-mismo-tiempo-gasolina-1240908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/fisker-ocean-suv-3026392.jpg?tf=1200x' alt='Llega el primer coche eléctrico que carga en el mismo tiempo que un gasolina' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/pueblo-bonito-espana-national-geographic-puede-te-sorprenda-1241204'>Este es el pueblo más bonito de España para National Geographic y puede que te sorprenda</a></h4>
     <a href='https://computerhoy.com/life/pueblo-bonito-espana-national-geographic-puede-te-sorprenda-1241204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/trujillo-3026738.jpg?tf=1200x' alt='Este es el pueblo más bonito de España para National Geographic y puede que te sorprenda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/cartera-valores-creada-chatgpt-arrasa-mejores-inversores-mundo-1241200'>Una cartera de valores creada por ChatGPT arrasa a los mejores inversores del mundo</a></h4>
-    <a href='https://computerhoy.com/apps/cartera-valores-creada-chatgpt-arrasa-mejores-inversores-mundo-1241200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-inversion-3026734.jpg?tf=1200x' alt='Una cartera de valores creada por ChatGPT arrasa a los mejores inversores del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/modo-secreto-google-maps-pocos-conocen-deberias-utilizar-siempre-1241196'>El modo secreto de Google Maps que pocos conocen y que deberías utilizar siempre</a></h4>
-    <a href='https://computerhoy.com/apps/modo-secreto-google-maps-pocos-conocen-deberias-utilizar-siempre-1241196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/google-maps-incognito.jpg?tf=1200x' alt='El modo secreto de Google Maps que pocos conocen y que deberías utilizar siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-sincronizacion-autenticador-google-1237822'>Cómo desactivar la sincronización en el autenticador de Google para mejorar la seguridad de tu cuenta</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desactivar-sincronizacion-autenticador-google-1237822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/cuenta-google-3021596.jpg?tf=1200x' alt='Cómo desactivar la sincronización en el autenticador de Google para mejorar la seguridad de tu cuenta' />
     </a>
 </div>
 
