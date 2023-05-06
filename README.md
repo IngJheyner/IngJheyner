@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/escalofriantes-predicciones-stephen-hawking-antes-morir-inteligencia-artificial-1240362'>Las escalofriantes predicciones de Stephen Hawking antes de morir sobre la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/life/escalofriantes-predicciones-stephen-hawking-antes-morir-inteligencia-artificial-1240362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/voz-stephen-hawking-sera-enviada-agujero-negro-su-funeral.jpg?tf=1200x' alt='Las escalofriantes predicciones de Stephen Hawking antes de morir sobre la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-apagar-ordenador-windows-11-directamente-teclado-1238118'>Cómo apagar un ordenador con Windows 11 directamente desde el teclado</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-apagar-ordenador-windows-11-directamente-teclado-1238118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/teclado-ergonomico-microsoft-raton-te-puede-cambiar-vida-tiene-29-descuento-2992728.jpg?tf=1200x' alt='Cómo apagar un ordenador con Windows 11 directamente desde el teclado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/opina-chatgpt-habitantes-cada-pais-union-europea-1240298'>Arrogantes, perezosos, gorditos… el lado oscuro de ChatGPT opina de los habitantes de cada país de la Unión Europea</a></h4>
+    <a href='https://computerhoy.com/tecnologia/opina-chatgpt-habitantes-cada-pais-union-europea-1240298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/chatgpt-opina-cada-pais-union-europea-habitantes-arrogantes-esnobs-perezosos-3026052.jpg?tf=1200x' alt='Arrogantes, perezosos, gorditos… el lado oscuro de ChatGPT opina de los habitantes de cada país de la Unión Europea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/carl-pei-analiza-productos-competencia-youtube-mismo-1235620'>Por qué Carl Pei analiza productos de la competencia en YouTube, según él mismo</a></h4>
     <a href='https://computerhoy.com/industria/carl-pei-analiza-productos-competencia-youtube-mismo-1235620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/carl-pei-youtube-3017724.jpg?tf=1200x' alt='Por qué Carl Pei analiza productos de la competencia en YouTube, según él mismo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/futuro-moviles-cara-2030-revolucion-extincion-1223708'>El futuro de los móviles de cara a 2030, ¿revolución o extinción?</a></h4>
     <a href='https://computerhoy.com/moviles/futuro-moviles-cara-2030-revolucion-extincion-1223708' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/evolucion-moviles-cara-2030-revolucion-extincion-3003542.jpg?tf=1200x' alt='El futuro de los móviles de cara a 2030, ¿revolución o extinción?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/completar-giro-maquina-debe-dar-vueltas-atomos-hay-universo-1240690'>Para completar un giro, esta máquina debe dar más vueltas que átomos hay en el universo</a></h4>
-    <a href='https://computerhoy.com/ciencia/completar-giro-maquina-debe-dar-vueltas-atomos-hay-universo-1240690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/completar-giro-maquina-tiene-dar-vueltas-atomos-hay-universo-3025840.jpg?tf=1200x' alt='Para completar un giro, esta máquina debe dar más vueltas que átomos hay en el universo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/mandos-jugar-movil-1240644'>Si quieres jugar con tu móvil estos son los mejores mandos compatibles con iPhone o Android</a></h4>
-    <a href='https://computerhoy.com/mejores/mandos-jugar-movil-1240644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mejores-mandos-moviles-puedes-comprar-3025726.jpg?tf=1200x' alt='Si quieres jugar con tu móvil estos son los mejores mandos compatibles con iPhone o Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/broma-steve-jobs-starbucks-iphone-hizo-viral-1239144'>La genial broma de Steve Jobs a Starbucks con el primer iPhone que todavía es viral</a></h4>
-    <a href='https://computerhoy.com/life/broma-steve-jobs-starbucks-iphone-hizo-viral-1239144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/hoy-cumplen-15-anos-presentacion-iphone-steve-jobs-cambio-mundo-siempre-2581363.jpg?tf=1200x' alt='La genial broma de Steve Jobs a Starbucks con el primer iPhone que todavía es viral' />
     </a>
 </div>
 
