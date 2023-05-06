@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/escalofriantes-predicciones-stephen-hawking-antes-morir-inteligencia-artificial-1240362'>Las escalofriantes predicciones de Stephen Hawking antes de morir sobre la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/life/escalofriantes-predicciones-stephen-hawking-antes-morir-inteligencia-artificial-1240362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/voz-stephen-hawking-sera-enviada-agujero-negro-su-funeral.jpg?tf=1200x' alt='Las escalofriantes predicciones de Stephen Hawking antes de morir sobre la inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/apps/cartera-valores-creada-chatgpt-arrasa-mejores-inversores-mundo-1241200'>Una cartera de valores creada por ChatGPT arrasa a los mejores inversores del mundo</a></h4>
+    <a href='https://computerhoy.com/apps/cartera-valores-creada-chatgpt-arrasa-mejores-inversores-mundo-1241200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-inversion-3026734.jpg?tf=1200x' alt='Una cartera de valores creada por ChatGPT arrasa a los mejores inversores del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-apagar-ordenador-windows-11-directamente-teclado-1238118'>Cómo apagar un ordenador con Windows 11 directamente desde el teclado</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-apagar-ordenador-windows-11-directamente-teclado-1238118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/teclado-ergonomico-microsoft-raton-te-puede-cambiar-vida-tiene-29-descuento-2992728.jpg?tf=1200x' alt='Cómo apagar un ordenador con Windows 11 directamente desde el teclado' />
+    <h4><a href='https://computerhoy.com/apps/modo-secreto-google-maps-pocos-conocen-deberias-utilizar-siempre-1241196'>El modo secreto de Google Maps que pocos conocen y que deberías utilizar siempre</a></h4>
+    <a href='https://computerhoy.com/apps/modo-secreto-google-maps-pocos-conocen-deberias-utilizar-siempre-1241196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/google-maps-incognito.jpg?tf=1200x' alt='El modo secreto de Google Maps que pocos conocen y que deberías utilizar siempre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/opina-chatgpt-habitantes-cada-pais-union-europea-1240298'>Arrogantes, perezosos, gorditos… el lado oscuro de ChatGPT opina de los habitantes de cada país de la Unión Europea</a></h4>
-    <a href='https://computerhoy.com/tecnologia/opina-chatgpt-habitantes-cada-pais-union-europea-1240298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/chatgpt-opina-cada-pais-union-europea-habitantes-arrogantes-esnobs-perezosos-3026052.jpg?tf=1200x' alt='Arrogantes, perezosos, gorditos… el lado oscuro de ChatGPT opina de los habitantes de cada país de la Unión Europea' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-sincronizacion-autenticador-google-1237822'>Cómo desactivar la sincronización en el autenticador de Google para mejorar la seguridad de tu cuenta</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desactivar-sincronizacion-autenticador-google-1237822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/cuenta-google-3021596.jpg?tf=1200x' alt='Cómo desactivar la sincronización en el autenticador de Google para mejorar la seguridad de tu cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/carl-pei-analiza-productos-competencia-youtube-mismo-1235620'>Por qué Carl Pei analiza productos de la competencia en YouTube, según él mismo</a></h4>
-    <a href='https://computerhoy.com/industria/carl-pei-analiza-productos-competencia-youtube-mismo-1235620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/carl-pei-youtube-3017724.jpg?tf=1200x' alt='Por qué Carl Pei analiza productos de la competencia en YouTube, según él mismo' />
+    <h4><a href='https://computerhoy.com/apps/discord-te-obliga-cambiar-nombre-usuario-deberias-hacerlo-cuanto-antes-1241186'>Discord te obliga a cambiar de nombre de usuario y deberías hacerlo cuanto antes</a></h4>
+    <a href='https://computerhoy.com/apps/discord-te-obliga-cambiar-nombre-usuario-deberias-hacerlo-cuanto-antes-1241186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/discord-2449211.jpg?tf=1200x' alt='Discord te obliga a cambiar de nombre de usuario y deberías hacerlo cuanto antes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/futuro-moviles-cara-2030-revolucion-extincion-1223708'>El futuro de los móviles de cara a 2030, ¿revolución o extinción?</a></h4>
-    <a href='https://computerhoy.com/moviles/futuro-moviles-cara-2030-revolucion-extincion-1223708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/evolucion-moviles-cara-2030-revolucion-extincion-3003542.jpg?tf=1200x' alt='El futuro de los móviles de cara a 2030, ¿revolución o extinción?' />
+    <h4><a href='https://computerhoy.com/google/google-cambiara-buscador-apariencia-personal-joven-ia-integrada-muchos-videos-cortos-1241178'>Google cambiará su buscador con una apariencia más personal y joven, con IA integrada y muchos vídeos cortos</a></h4>
+    <a href='https://computerhoy.com/google/google-cambiara-buscador-apariencia-personal-joven-ia-integrada-muchos-videos-cortos-1241178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/buscador-google-3026692.jpg?tf=1200x' alt='Google cambiará su buscador con una apariencia más personal y joven, con IA integrada y muchos vídeos cortos' />
     </a>
 </div>
 
