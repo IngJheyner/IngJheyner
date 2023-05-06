@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/estados-unidos-tasa-30-mineria-bitcoin-precio-luz-1241138'>La minería de Bitcoin consumió en 2022 más de 50.000 millones de KWh en Estados Unidos: el gobierno anuncia una tasa del 30%</a></h4>
+    <a href='https://computerhoy.com/criptos/estados-unidos-tasa-30-mineria-bitcoin-precio-luz-1241138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mineria-bitcoin-consumio-2022-50000-millones-kwh-estados-unidos-gobierno-anuncia-tasa-30-3026400.jpg?tf=1200x' alt='La minería de Bitcoin consumió en 2022 más de 50.000 millones de KWh en Estados Unidos: el gobierno anuncia una tasa del 30%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/hbo-max-mrs-davis-monja-inteligencia-artificial-1240910'>Mrs. Davis, la surrealista lucha de una monja contra la IA, estreno en HBO Max</a></h4>
     <a href='https://computerhoy.com/streaming/hbo-max-mrs-davis-monja-inteligencia-artificial-1240910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1683321737294-3026398.jpg?tf=1200x' alt='Mrs. Davis, la surrealista lucha de una monja contra la IA, estreno en HBO Max' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/ya-activo-primer-super-radar-velocidad-4d-ia-capaz-espiar-dentro-coche-1240890'>Ya está activo el primer súper radar de velocidad 4D con IA capaz de espiar dentro del coche</a></h4>
     <a href='https://computerhoy.com/motor/ya-activo-primer-super-radar-velocidad-4d-ia-capaz-espiar-dentro-coche-1240890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ya-activo-primer-super-radar-velocidad-4d-ia-capaz-espiar-dentro-coche-3026374.jpg?tf=1200x' alt='Ya está activo el primer súper radar de velocidad 4D con IA capaz de espiar dentro del coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-apunta-estafadores-permitira-silenciar-llamadas-desconocidas-1240884'>WhatsApp apunta a los estafadores y permitirá silenciar llamadas desconocidas</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-apunta-estafadores-permitira-silenciar-llamadas-desconocidas-1240884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/llamada-vising-2415435.jpg?tf=1200x' alt='WhatsApp apunta a los estafadores y permitirá silenciar llamadas desconocidas' />
     </a>
 </div>
 
