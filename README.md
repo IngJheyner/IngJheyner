@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/dgt-une-lobby-coche-electrico-desmintiendo-cuatro-mitos-1241142'>La DGT se une al lobby del coche eléctrico “desmintiendo” cuatro de sus mitos</a></h4>
+    <a href='https://computerhoy.com/motor/dgt-une-lobby-coche-electrico-desmintiendo-cuatro-mitos-1241142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/mejores-coches-electricos-puedes-comprar-2019_1.jpg?tf=1200x' alt='La DGT se une al lobby del coche eléctrico “desmintiendo” cuatro de sus mitos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/descubren-chatgpt-supera-medicos-ofrecer-consejos-empaticos-1241518'>Descubren que ChatGPT supera a los médicos en ofrecer consejos empáticos</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-chatgpt-supera-medicos-ofrecer-consejos-empaticos-1241518' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/medico-inteligencia-artificial-3027108.jpg?tf=1200x' alt='Descubren que ChatGPT supera a los médicos en ofrecer consejos empáticos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/crean-dispositivo-portatil-capaz-identificar-precision-infecciones-casi-momento-1241508'>Crean un dispositivo portátil capaz de identificar con precisión las infecciones casi al momento</a></h4>
     <a href='https://computerhoy.com/ciencia/crean-dispositivo-portatil-capaz-identificar-precision-infecciones-casi-momento-1241508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/crean-dispositivo-portatil-capaz-identificar-precision-infecciones-casi-momento-3027104.jpg?tf=1200x' alt='Crean un dispositivo portátil capaz de identificar con precisión las infecciones casi al momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ultima-actualizacion-android-auto-bloquea-carga-bateria-ciertos-modelos-movil-1241506'>La última actualización de Android Auto bloquea la carga de la batería en ciertos modelos de móvil</a></h4>
-    <a href='https://computerhoy.com/android/ultima-actualizacion-android-auto-bloquea-carga-bateria-ciertos-modelos-movil-1241506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-2965016.jpg?tf=1200x' alt='La última actualización de Android Auto bloquea la carga de la batería en ciertos modelos de móvil' />
     </a>
 </div>
 
