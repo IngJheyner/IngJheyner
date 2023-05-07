@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/gesto-nadie-hace-movil-mejora-rendimiento-instante-1239788'>El sencillo gesto que nadie hace con su móvil y que mejora su rendimiento al instante</a></h4>
+    <a href='https://computerhoy.com/moviles/gesto-nadie-hace-movil-mejora-rendimiento-instante-1239788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/movil-loteria-sorpresa-2284811.jpg?tf=1200x' alt='El sencillo gesto que nadie hace con su móvil y que mejora su rendimiento al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/codigos-ocultos-gmail-encontrar-email-perdido-1238388'>Códigos ocultos de Gmail para encontrar un email perdido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/codigos-ocultos-gmail-encontrar-email-perdido-1238388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/gmail-2866501.jpg?tf=1200x' alt='Códigos ocultos de Gmail para encontrar un email perdido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/son-niveles-conduccion-autonoma-1229224'>¿Qué son los niveles de conducción autónoma?  </a></h4>
+    <a href='https://computerhoy.com/tecnologia/son-niveles-conduccion-autonoma-1229224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1683298675362-3026204.jpg?tf=1200x' alt='¿Qué son los niveles de conducción autónoma?  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/futuro-inteligencia-artificial-boom-final-colapso-1238102'>El 'boom' de la inteligencia artificial, una montaña rusa de éxitos y fracasos: ¿qué le depara el futuro?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/futuro-inteligencia-artificial-boom-final-colapso-1238102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/boom-inteligencia-artificial-montana-rusa-exitos-fracasos-depara-futuro-3024498.jpg?tf=1200x' alt='El 'boom' de la inteligencia artificial, una montaña rusa de éxitos y fracasos: ¿qué le depara el futuro?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/cual-mejor-momento-ano-comprar-televisor-nuevo-1237136'>¿Cuál es el mejor momento del año para cambiar de televisor?</a></h4>
     <a href='https://computerhoy.com/tv/cual-mejor-momento-ano-comprar-televisor-nuevo-1237136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sony-bravia-xr-a80l-analisis-opinion-3020478.jpg?tf=1200x' alt='¿Cuál es el mejor momento del año para cambiar de televisor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-pequenos-robots-capaces-jugar-futbol-1241230'>Crean unos pequeños robots capaces de jugar al fútbol</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-pequenos-robots-capaces-jugar-futbol-1241230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/crean-pequenos-robots-capaces-jugar-futbol-3026784.jpg?tf=1200x' alt='Crean unos pequeños robots capaces de jugar al fútbol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/ahora-poderoso-radiotelescopio-ayudando-busqueda-vida-extraterrestre-1241228'>Ahora este poderoso radiotelescopio está ayudando en la búsqueda de vida extraterrestre</a></h4>
-    <a href='https://computerhoy.com/espacio/ahora-poderoso-radiotelescopio-ayudando-busqueda-vida-extraterrestre-1241228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/karl-g-jansky-very-large-array-3026780.jpg?tf=1200x' alt='Ahora este poderoso radiotelescopio está ayudando en la búsqueda de vida extraterrestre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cuadros-hace-siglos-personas-usando-movil-explicacion-sencilla-1240736'>Los cuadros de hace siglos con personas usando el móvil, tienen una explicación muy sencilla</a></h4>
-    <a href='https://computerhoy.com/ciencia/cuadros-hace-siglos-personas-usando-movil-explicacion-sencilla-1240736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cuadros-hace-siglos-personas-usando-movil-tienen-explicacion-muy-sencilla-3025960.jpg?tf=1200x' alt='Los cuadros de hace siglos con personas usando el móvil, tienen una explicación muy sencilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/monitores-portatiles-usb-c-1241168'>Monitores portátiles USB-C: ventajas y los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/mejores/monitores-portatiles-usb-c-1241168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/monitores-portatiles-usb-c-ventajas-mejores-modelos-3026642.jpg?tf=1200x' alt='Monitores portátiles USB-C: ventajas y los mejores modelos' />
     </a>
 </div>
 
