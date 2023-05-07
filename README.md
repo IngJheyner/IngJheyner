@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-amd-alian-crear-chip-inteligencia-artificial-1241544'>Microsoft y AMD se alían para crear un chip de inteligencia artificial que compita con los de NVIDIA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-amd-alian-crear-chip-inteligencia-artificial-1241544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/microsoft-amd-alian-crear-chip-inteligencia-artificial-compita-nvidia-3027154.jpg?tf=1200x' alt='Microsoft y AMD se alían para crear un chip de inteligencia artificial que compita con los de NVIDIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/significan-exactamente-tres-resultados-itv-favorable-desfavorable-negativa-1241140'>Qué significan exactamente los tres resultados de la ITV: favorable, desfavorable o negativa</a></h4>
+    <a href='https://computerhoy.com/motor/significan-exactamente-tres-resultados-itv-favorable-desfavorable-negativa-1241140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/coches-pasando-itv.jpg?tf=1200x' alt='Qué significan exactamente los tres resultados de la ITV: favorable, desfavorable o negativa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/instalar-windows-11-memoria-tarjeta-grafica-1241538'>Ya puedes instalar Windows 11 en la memoria de tu tarjeta gráfica</a></h4>
+    <a href='https://computerhoy.com/windows/instalar-windows-11-memoria-tarjeta-grafica-1241538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ya-puedes-instalar-windows-11-memoria-tarjeta-grafica-3027150.jpg?tf=1200x' alt='Ya puedes instalar Windows 11 en la memoria de tu tarjeta gráfica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/dgt-une-lobby-coche-electrico-desmintiendo-cuatro-mitos-1241142'>La DGT se une al lobby del coche eléctrico “desmintiendo” cuatro de sus mitos</a></h4>
     <a href='https://computerhoy.com/motor/dgt-une-lobby-coche-electrico-desmintiendo-cuatro-mitos-1241142' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/mejores-coches-electricos-puedes-comprar-2019_1.jpg?tf=1200x' alt='La DGT se une al lobby del coche eléctrico “desmintiendo” cuatro de sus mitos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/descubren-chatgpt-supera-medicos-ofrecer-consejos-empaticos-1241518'>Descubren que ChatGPT supera a los médicos en ofrecer consejos empáticos</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-chatgpt-supera-medicos-ofrecer-consejos-empaticos-1241518' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/medico-inteligencia-artificial-3027108.jpg?tf=1200x' alt='Descubren que ChatGPT supera a los médicos en ofrecer consejos empáticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejores-dias-comprar-zara-tienda-fisica-online-1240290'>Estos son los mejores días para comprar en Zara online o tienda física</a></h4>
-    <a href='https://computerhoy.com/life/mejores-dias-comprar-zara-tienda-fisica-online-1240290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/zara-2914632.jpg?tf=1200x' alt='Estos son los mejores días para comprar en Zara online o tienda física' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tatuaje-electronico-capaz-proporcionar-mediciones-cardiacas-completas-1241514'>El tatuaje electrónico capaz de proporcionar mediciones cardíacas completas</a></h4>
-    <a href='https://computerhoy.com/ciencia/tatuaje-electronico-capaz-proporcionar-mediciones-cardiacas-completas-1241514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tatuaje-electronico-capaz-proporcionar-mediciones-cardiacas-completas-3027128.jpg?tf=1200x' alt='El tatuaje electrónico capaz de proporcionar mediciones cardíacas completas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-dispositivo-portatil-capaz-identificar-precision-infecciones-casi-momento-1241508'>Crean un dispositivo portátil capaz de identificar con precisión las infecciones casi al momento</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-dispositivo-portatil-capaz-identificar-precision-infecciones-casi-momento-1241508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/crean-dispositivo-portatil-capaz-identificar-precision-infecciones-casi-momento-3027104.jpg?tf=1200x' alt='Crean un dispositivo portátil capaz de identificar con precisión las infecciones casi al momento' />
     </a>
 </div>
 
