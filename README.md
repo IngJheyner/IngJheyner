@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/ahora-poderoso-radiotelescopio-ayudando-busqueda-vida-extraterrestre-1241228'>Ahora este poderoso radiotelescopio está ayudando en la búsqueda de vida extraterrestre</a></h4>
+    <a href='https://computerhoy.com/espacio/ahora-poderoso-radiotelescopio-ayudando-busqueda-vida-extraterrestre-1241228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/karl-g-jansky-very-large-array-3026780.jpg?tf=1200x' alt='Ahora este poderoso radiotelescopio está ayudando en la búsqueda de vida extraterrestre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cuadros-hace-siglos-personas-usando-movil-explicacion-sencilla-1240736'>Los cuadros de hace siglos con personas usando el móvil, tienen una explicación muy sencilla</a></h4>
+    <a href='https://computerhoy.com/ciencia/cuadros-hace-siglos-personas-usando-movil-explicacion-sencilla-1240736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cuadros-hace-siglos-personas-usando-movil-tienen-explicacion-muy-sencilla-3025960.jpg?tf=1200x' alt='Los cuadros de hace siglos con personas usando el móvil, tienen una explicación muy sencilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/monitores-portatiles-usb-c-1241168'>Monitores portátiles USB-C: ventajas y los mejores modelos</a></h4>
+    <a href='https://computerhoy.com/mejores/monitores-portatiles-usb-c-1241168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/monitores-portatiles-usb-c-ventajas-mejores-modelos-3026642.jpg?tf=1200x' alt='Monitores portátiles USB-C: ventajas y los mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/freidora-aire-cancerigena-debes-saber-antes-usarla-1240372'>¿Cocinar con una freidora de aire aunque el riesgo de cáncer? Lo que debes saber antes de usarla</a></h4>
+    <a href='https://computerhoy.com/alimentacion/freidora-aire-cancerigena-debes-saber-antes-usarla-1240372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/freidora-aire-3026008.jpg?tf=1200x' alt='¿Cocinar con una freidora de aire aunque el riesgo de cáncer? Lo que debes saber antes de usarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/tecnica-respiracion-podria-reducir-riesgo-alzheimer-1241246'>Esta técnica de respiración podría reducir el riesgo de Alzheimer, según los expertos</a></h4>
     <a href='https://computerhoy.com/life/tecnica-respiracion-podria-reducir-riesgo-alzheimer-1241246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tecnica-respiracion-podria-reducir-riesgo-alzheimer-expertos-3026868.jpg?tf=1200x' alt='Esta técnica de respiración podría reducir el riesgo de Alzheimer, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/plan-estrategico-eliminar-canales-gratis-listas-iptv-europa-1240844'>El plan estratégico para eliminar los canales gratis y listas de IPTV en Europa</a></h4>
-    <a href='https://computerhoy.com/streaming/plan-estrategico-eliminar-canales-gratis-listas-iptv-europa-1240844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iptv-2818055.jpg?tf=1200x' alt='El plan estratégico para eliminar los canales gratis y listas de IPTV en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-primer-robot-reflejos-capaz-reaccionar-estimulos-marcha-1241232'>Crean el primer robot con reflejos capaz de reaccionar a los estímulos sobre la marcha</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-primer-robot-reflejos-capaz-reaccionar-estimulos-marcha-1241232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/crean-primer-robot-reflejos-capaz-reaccionar-estimulos-marcha-3026788.jpg?tf=1200x' alt='Crean el primer robot con reflejos capaz de reaccionar a los estímulos sobre la marcha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-odiaba-taquillera-pelicula-marvel-malisima-1241224'>Steve Jobs odiaba esta taquillera película de Marvel: “es malísima”</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-odiaba-taquillera-pelicula-marvel-malisima-1241224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/steve-jobs-3026774.jpg?tf=1200x' alt='Steve Jobs odiaba esta taquillera película de Marvel: “es malísima”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-gps-mano-senderismo-aventuras-viajes-1044069'>Los mejores GPS de mano que puedes comprar para no perderte en tus rutas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-gps-mano-senderismo-aventuras-viajes-1044069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/sistema-gps-mano-twonav-aventura-2-plus-3026120.jpg?tf=1200x' alt='Los mejores GPS de mano que puedes comprar para no perderte en tus rutas' />
     </a>
 </div>
 
