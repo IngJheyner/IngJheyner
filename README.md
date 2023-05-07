@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/cual-mejor-momento-ano-comprar-televisor-nuevo-1237136'>¿Cuál es el mejor momento del año para cambiar de televisor?</a></h4>
+    <a href='https://computerhoy.com/tv/cual-mejor-momento-ano-comprar-televisor-nuevo-1237136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sony-bravia-xr-a80l-analisis-opinion-3020478.jpg?tf=1200x' alt='¿Cuál es el mejor momento del año para cambiar de televisor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/crean-pequenos-robots-capaces-jugar-futbol-1241230'>Crean unos pequeños robots capaces de jugar al fútbol</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-pequenos-robots-capaces-jugar-futbol-1241230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/crean-pequenos-robots-capaces-jugar-futbol-3026784.jpg?tf=1200x' alt='Crean unos pequeños robots capaces de jugar al fútbol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/ahora-poderoso-radiotelescopio-ayudando-busqueda-vida-extraterrestre-1241228'>Ahora este poderoso radiotelescopio está ayudando en la búsqueda de vida extraterrestre</a></h4>
     <a href='https://computerhoy.com/espacio/ahora-poderoso-radiotelescopio-ayudando-busqueda-vida-extraterrestre-1241228' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/karl-g-jansky-very-large-array-3026780.jpg?tf=1200x' alt='Ahora este poderoso radiotelescopio está ayudando en la búsqueda de vida extraterrestre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/monitores-portatiles-usb-c-1241168'>Monitores portátiles USB-C: ventajas y los mejores modelos</a></h4>
     <a href='https://computerhoy.com/mejores/monitores-portatiles-usb-c-1241168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/monitores-portatiles-usb-c-ventajas-mejores-modelos-3026642.jpg?tf=1200x' alt='Monitores portátiles USB-C: ventajas y los mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/freidora-aire-cancerigena-debes-saber-antes-usarla-1240372'>¿Cocinar con una freidora de aire aunque el riesgo de cáncer? Lo que debes saber antes de usarla</a></h4>
-    <a href='https://computerhoy.com/alimentacion/freidora-aire-cancerigena-debes-saber-antes-usarla-1240372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/freidora-aire-3026008.jpg?tf=1200x' alt='¿Cocinar con una freidora de aire aunque el riesgo de cáncer? Lo que debes saber antes de usarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tecnica-respiracion-podria-reducir-riesgo-alzheimer-1241246'>Esta técnica de respiración podría reducir el riesgo de Alzheimer, según los expertos</a></h4>
-    <a href='https://computerhoy.com/life/tecnica-respiracion-podria-reducir-riesgo-alzheimer-1241246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tecnica-respiracion-podria-reducir-riesgo-alzheimer-expertos-3026868.jpg?tf=1200x' alt='Esta técnica de respiración podría reducir el riesgo de Alzheimer, según los expertos' />
     </a>
 </div>
 
