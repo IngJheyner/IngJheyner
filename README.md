@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/gesto-nadie-hace-movil-mejora-rendimiento-instante-1239788'>El sencillo gesto que nadie hace con su móvil y que mejora su rendimiento al instante</a></h4>
-    <a href='https://computerhoy.com/moviles/gesto-nadie-hace-movil-mejora-rendimiento-instante-1239788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/movil-loteria-sorpresa-2284811.jpg?tf=1200x' alt='El sencillo gesto que nadie hace con su móvil y que mejora su rendimiento al instante' />
+    <h4><a href='https://computerhoy.com/ciencia/descubren-chatgpt-supera-medicos-ofrecer-consejos-empaticos-1241518'>Descubren que ChatGPT supera a los médicos en ofrecer consejos empáticos</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-chatgpt-supera-medicos-ofrecer-consejos-empaticos-1241518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/medico-inteligencia-artificial-3027108.jpg?tf=1200x' alt='Descubren que ChatGPT supera a los médicos en ofrecer consejos empáticos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/codigos-ocultos-gmail-encontrar-email-perdido-1238388'>Códigos ocultos de Gmail para encontrar un email perdido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/codigos-ocultos-gmail-encontrar-email-perdido-1238388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/gmail-2866501.jpg?tf=1200x' alt='Códigos ocultos de Gmail para encontrar un email perdido' />
+    <h4><a href='https://computerhoy.com/life/mejores-dias-comprar-zara-tienda-fisica-online-1240290'>Estos son los mejores días para comprar en Zara online o tienda física</a></h4>
+    <a href='https://computerhoy.com/life/mejores-dias-comprar-zara-tienda-fisica-online-1240290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/zara-2914632.jpg?tf=1200x' alt='Estos son los mejores días para comprar en Zara online o tienda física' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-niveles-conduccion-autonoma-1229224'>¿Qué son los niveles de conducción autónoma?  </a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-niveles-conduccion-autonoma-1229224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1683298675362-3026204.jpg?tf=1200x' alt='¿Qué son los niveles de conducción autónoma?  ' />
+    <h4><a href='https://computerhoy.com/ciencia/tatuaje-electronico-capaz-proporcionar-mediciones-cardiacas-completas-1241514'>El tatuaje electrónico capaz de proporcionar mediciones cardíacas completas</a></h4>
+    <a href='https://computerhoy.com/ciencia/tatuaje-electronico-capaz-proporcionar-mediciones-cardiacas-completas-1241514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tatuaje-electronico-capaz-proporcionar-mediciones-cardiacas-completas-3027128.jpg?tf=1200x' alt='El tatuaje electrónico capaz de proporcionar mediciones cardíacas completas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/futuro-inteligencia-artificial-boom-final-colapso-1238102'>El 'boom' de la inteligencia artificial, una montaña rusa de éxitos y fracasos: ¿qué le depara el futuro?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/futuro-inteligencia-artificial-boom-final-colapso-1238102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/boom-inteligencia-artificial-montana-rusa-exitos-fracasos-depara-futuro-3024498.jpg?tf=1200x' alt='El 'boom' de la inteligencia artificial, una montaña rusa de éxitos y fracasos: ¿qué le depara el futuro?' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-dispositivo-portatil-capaz-identificar-precision-infecciones-casi-momento-1241508'>Crean un dispositivo portátil capaz de identificar con precisión las infecciones casi al momento</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-dispositivo-portatil-capaz-identificar-precision-infecciones-casi-momento-1241508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/crean-dispositivo-portatil-capaz-identificar-precision-infecciones-casi-momento-3027104.jpg?tf=1200x' alt='Crean un dispositivo portátil capaz de identificar con precisión las infecciones casi al momento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/cual-mejor-momento-ano-comprar-televisor-nuevo-1237136'>¿Cuál es el mejor momento del año para cambiar de televisor?</a></h4>
-    <a href='https://computerhoy.com/tv/cual-mejor-momento-ano-comprar-televisor-nuevo-1237136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sony-bravia-xr-a80l-analisis-opinion-3020478.jpg?tf=1200x' alt='¿Cuál es el mejor momento del año para cambiar de televisor?' />
+    <h4><a href='https://computerhoy.com/android/ultima-actualizacion-android-auto-bloquea-carga-bateria-ciertos-modelos-movil-1241506'>La última actualización de Android Auto bloquea la carga de la batería en ciertos modelos de móvil</a></h4>
+    <a href='https://computerhoy.com/android/ultima-actualizacion-android-auto-bloquea-carga-bateria-ciertos-modelos-movil-1241506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-2965016.jpg?tf=1200x' alt='La última actualización de Android Auto bloquea la carga de la batería en ciertos modelos de móvil' />
     </a>
 </div>
 
