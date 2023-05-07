@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/zelda-tears-kingdom-nintendo-denuncia-emuladores-pc-android-1241552'>A 5 días del estreno del nuevo Zelda, Nintendo inicia una ofensiva contra los emuladores de Nintendo Switch</a></h4>
+    <a href='https://computerhoy.com/gaming/zelda-tears-kingdom-nintendo-denuncia-emuladores-pc-android-1241552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/legend-zelda-tears-kingdom-3007986.jpg?tf=1200x' alt='A 5 días del estreno del nuevo Zelda, Nintendo inicia una ofensiva contra los emuladores de Nintendo Switch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/distancia-minima-pegasus-necesita-ponerte-multa-1240878'>La distancia mínima que Pegasus de la DGT necesita para ponerte una multa</a></h4>
+    <a href='https://computerhoy.com/motor/distancia-minima-pegasus-necesita-ponerte-multa-1240878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/pegasus-1954179.jpg?tf=1200x' alt='La distancia mínima que Pegasus de la DGT necesita para ponerte una multa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/pixel-tablet-google-fotos-especificaciones-amazon-japon-1241548'>Amazon mete la pata y publica fotos y especificaciones de la Pixel Tablet de Google</a></h4>
+    <a href='https://computerhoy.com/google/pixel-tablet-google-fotos-especificaciones-amazon-japon-1241548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-mete-pata-publica-fotos-especificaciones-pixel-tablet-google-3027156.jpg?tf=1200x' alt='Amazon mete la pata y publica fotos y especificaciones de la Pixel Tablet de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-amd-alian-crear-chip-inteligencia-artificial-1241544'>Microsoft y AMD se alían para crear un chip de inteligencia artificial que compita con los de NVIDIA</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-amd-alian-crear-chip-inteligencia-artificial-1241544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/microsoft-amd-alian-crear-chip-inteligencia-artificial-compita-nvidia-3027154.jpg?tf=1200x' alt='Microsoft y AMD se alían para crear un chip de inteligencia artificial que compita con los de NVIDIA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/significan-exactamente-tres-resultados-itv-favorable-desfavorable-negativa-1241140'>Qué significan exactamente los tres resultados de la ITV: favorable, desfavorable o negativa</a></h4>
     <a href='https://computerhoy.com/motor/significan-exactamente-tres-resultados-itv-favorable-desfavorable-negativa-1241140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/coches-pasando-itv.jpg?tf=1200x' alt='Qué significan exactamente los tres resultados de la ITV: favorable, desfavorable o negativa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/instalar-windows-11-memoria-tarjeta-grafica-1241538'>Ya puedes instalar Windows 11 en la memoria de tu tarjeta gráfica</a></h4>
-    <a href='https://computerhoy.com/windows/instalar-windows-11-memoria-tarjeta-grafica-1241538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ya-puedes-instalar-windows-11-memoria-tarjeta-grafica-3027150.jpg?tf=1200x' alt='Ya puedes instalar Windows 11 en la memoria de tu tarjeta gráfica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/dgt-une-lobby-coche-electrico-desmintiendo-cuatro-mitos-1241142'>La DGT se une al lobby del coche eléctrico “desmintiendo” cuatro de sus mitos</a></h4>
-    <a href='https://computerhoy.com/motor/dgt-une-lobby-coche-electrico-desmintiendo-cuatro-mitos-1241142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/mejores-coches-electricos-puedes-comprar-2019_1.jpg?tf=1200x' alt='La DGT se une al lobby del coche eléctrico “desmintiendo” cuatro de sus mitos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-chatgpt-supera-medicos-ofrecer-consejos-empaticos-1241518'>Descubren que ChatGPT supera a los médicos en ofrecer consejos empáticos</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-chatgpt-supera-medicos-ofrecer-consejos-empaticos-1241518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/medico-inteligencia-artificial-3027108.jpg?tf=1200x' alt='Descubren que ChatGPT supera a los médicos en ofrecer consejos empáticos' />
     </a>
 </div>
 
