@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/historia-moviles-google-nexus-one-nuevos-pixel-7-1233496'>Historia de los móviles de Google: así han evolucionado desde el Nexus One a los Pixel 7</a></h4>
+    <a href='https://computerhoy.com/moviles/historia-moviles-google-nexus-one-nuevos-pixel-7-1233496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/historia-moviles-google-3026248.jpg?tf=1200x' alt='Historia de los móviles de Google: así han evolucionado desde el Nexus One a los Pixel 7' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/dyson-ofertas-aspiradoras-1240788'>Dyson ha rebajado hasta 100€ algunas de sus aspiradoras más avanzadas y premium</a></h4>
+    <a href='https://computerhoy.com/hogar/dyson-ofertas-aspiradoras-1240788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/aspirador-inalambrico-dyson-3026154.jpg?tf=1200x' alt='Dyson ha rebajado hasta 100€ algunas de sus aspiradoras más avanzadas y premium' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mariposa-saurona-1241558'>Sauron ya tiene su propia mariposa, lleva su Ojo en las alas</a></h4>
     <a href='https://computerhoy.com/life/mariposa-saurona-1241558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/sauron-ya-tiene-propia-mariposa-lleva-ojo-alas-3027174.jpg?tf=1200x' alt='Sauron ya tiene su propia mariposa, lleva su Ojo en las alas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/distancia-minima-pegasus-necesita-ponerte-multa-1240878'>La distancia mínima que Pegasus de la DGT necesita para ponerte una multa</a></h4>
     <a href='https://computerhoy.com/motor/distancia-minima-pegasus-necesita-ponerte-multa-1240878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/pegasus-1954179.jpg?tf=1200x' alt='La distancia mínima que Pegasus de la DGT necesita para ponerte una multa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/pixel-tablet-google-fotos-especificaciones-amazon-japon-1241548'>Amazon mete la pata y publica fotos y especificaciones de la Pixel Tablet de Google</a></h4>
-    <a href='https://computerhoy.com/google/pixel-tablet-google-fotos-especificaciones-amazon-japon-1241548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-mete-pata-publica-fotos-especificaciones-pixel-tablet-google-3027156.jpg?tf=1200x' alt='Amazon mete la pata y publica fotos y especificaciones de la Pixel Tablet de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-amd-alian-crear-chip-inteligencia-artificial-1241544'>Microsoft y AMD se alían para crear un chip de inteligencia artificial que compita con los de NVIDIA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-amd-alian-crear-chip-inteligencia-artificial-1241544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/microsoft-amd-alian-crear-chip-inteligencia-artificial-compita-nvidia-3027154.jpg?tf=1200x' alt='Microsoft y AMD se alían para crear un chip de inteligencia artificial que compita con los de NVIDIA' />
     </a>
 </div>
 
