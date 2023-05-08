@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-windows-hemos-probado-ultimamente-995347'>Estos son los mejores portátiles Windows que hemos probado últimamente</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-windows-hemos-probado-ultimamente-995347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-huawei-matebook-16-2628529.jpg?tf=1200x' alt='Estos son los mejores portátiles Windows que hemos probado últimamente' />
+    <h4><a href='https://computerhoy.com/life/warren-buffett-compara-ia-creacion-bomba-atomica-1242130'>Warren Buffett compara la IA con la creación de la bomba atómica</a></h4>
+    <a href='https://computerhoy.com/life/warren-buffett-compara-ia-creacion-bomba-atomica-1242130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/warren-buffett-3028188.jpg?tf=1200x' alt='Warren Buffett compara la IA con la creación de la bomba atómica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/hacen-vocales-mesa-electoral-1242028'>¿Qué hacen los vocales en una mesa electoral?</a></h4>
-    <a href='https://computerhoy.com/legislacion/hacen-vocales-mesa-electoral-1242028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/elecciones-espana-3021306.jpg?tf=1200x' alt='¿Qué hacen los vocales en una mesa electoral?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-disco-duro-western-digital-hackean-numeros-telefono-direcciones-correos-electronicos-1242098'>¿Tienes un disco duro de Western Digital? Hackean números de teléfono, direcciones y correos electrónicos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tienes-disco-duro-western-digital-hackean-numeros-telefono-direcciones-correos-electronicos-1242098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/disco-duro-western-digital.jpg?tf=1200x' alt='¿Tienes un disco duro de Western Digital? Hackean números de teléfono, direcciones y correos electrónicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/oppenheimer-pelicula-christopher-nolan-trailer-bomba-atomica-1242060'>Oppenheimer, la nueva película de Christopher Nolan que reaviva el miedo latente a la bomba atómica</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/oppenheimer-pelicula-christopher-nolan-trailer-bomba-atomica-1242060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1683551499051-3027978.jpg?tf=1200x' alt='Oppenheimer, la nueva película de Christopher Nolan que reaviva el miedo latente a la bomba atómica' />
+    <h4><a href='https://computerhoy.com/apple/iphone-15-pro-no-tendra-botones-hapticos-1242106'>El iPhone 15 Pro no tendrá botones hápticos que llegarían con el iPhone 16</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-15-pro-no-tendra-botones-hapticos-1242106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='El iPhone 15 Pro no tendrá botones hápticos que llegarían con el iPhone 16' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/senales-indican-iphone-tiene-dano-agua-1242042'>Señales que indican que tu iPhone tiene daño por agua</a></h4>
-    <a href='https://computerhoy.com/apple/senales-indican-iphone-tiene-dano-agua-1242042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-puedes-reparar-iphone-mac-casa-piezas-originales-apple-2893848.jpg?tf=1200x' alt='Señales que indican que tu iPhone tiene daño por agua' />
+    <h4><a href='https://computerhoy.com/redes-sociales/circulos-twitter-no-son-privados-red-social-admite-fallo-seguridad-mes-despues-1242096'>Los círculos de Twitter no son privados: la red social admite el fallo de seguridad... un mes después</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/circulos-twitter-no-son-privados-red-social-admite-fallo-seguridad-mes-despues-1242096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-silenciar-palabras-cuentas-twitter-tener-feed-libre-spoilers-toxicidad-3011804.jpg?tf=1200x' alt='Los círculos de Twitter no son privados: la red social admite el fallo de seguridad... un mes después' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-ira-reino-unido-obligan-romper-cifrado-extremo-extremo-1242016'>WhatsApp se irá de Reino Unido si le obligan a romper el cifrado de extremo a extremo</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-ira-reino-unido-obligan-romper-cifrado-extremo-extremo-1242016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-reino-unido-3028020.jpg?tf=1200x' alt='WhatsApp se irá de Reino Unido si le obligan a romper el cifrado de extremo a extremo' />
+    <h4><a href='https://computerhoy.com/apps/ceo-airbnb-salvo-compania-gracias-steve-jobs-1242090'>El CEO de Airbnb salvó a la compañía gracias a una máxima de Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/apps/ceo-airbnb-salvo-compania-gracias-steve-jobs-1242090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/steve-jobs-airbnb-3028122.jpg?tf=1200x' alt='El CEO de Airbnb salvó a la compañía gracias a una máxima de Steve Jobs' />
     </a>
 </div>
 
