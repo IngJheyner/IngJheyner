@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/confirma-microsoft-quiere-convertir-windows-11-infierno-1241804'>Microsoft quiere convertir Windows 11 en un infierno con esta novedad</a></h4>
+    <a href='https://computerhoy.com/windows/confirma-microsoft-quiere-convertir-windows-11-infierno-1241804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='Microsoft quiere convertir Windows 11 en un infierno con esta novedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/ya-disponible-todos-android-auto-95-estas-novedades-1241778'>Ya está disponible para todos Android Auto 9.5 con todas estas novedades</a></h4>
+    <a href='https://computerhoy.com/android/ya-disponible-todos-android-auto-95-estas-novedades-1241778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ya-disponible-todos-android-auto-95-todas-estas-novedades-3027586.jpg?tf=1200x' alt='Ya está disponible para todos Android Auto 9.5 con todas estas novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/juegos-mandos-gratis-compra-xbox-series-s-series-x-carrefour-1241776'>Juegos y mandos gratis con la compra de Xbox Series S y Series X en Carrefour</a></h4>
+    <a href='https://computerhoy.com/gaming/juegos-mandos-gratis-compra-xbox-series-s-series-x-carrefour-1241776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ps5-xbox-series-x-2492179.jpg?tf=1200x' alt='Juegos y mandos gratis con la compra de Xbox Series S y Series X en Carrefour' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/historia-moviles-google-nexus-one-nuevos-pixel-7-1233496'>Historia de los móviles de Google: así han evolucionado desde el Nexus One a los Pixel 7</a></h4>
     <a href='https://computerhoy.com/moviles/historia-moviles-google-nexus-one-nuevos-pixel-7-1233496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/historia-moviles-google-3026248.jpg?tf=1200x' alt='Historia de los móviles de Google: así han evolucionado desde el Nexus One a los Pixel 7' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/dyson-ofertas-aspiradoras-1240788'>Dyson ha rebajado hasta 100€ algunas de sus aspiradoras más avanzadas y premium</a></h4>
     <a href='https://computerhoy.com/hogar/dyson-ofertas-aspiradoras-1240788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/aspirador-inalambrico-dyson-3026154.jpg?tf=1200x' alt='Dyson ha rebajado hasta 100€ algunas de sus aspiradoras más avanzadas y premium' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mariposa-saurona-1241558'>Sauron ya tiene su propia mariposa, lleva su Ojo en las alas</a></h4>
-    <a href='https://computerhoy.com/life/mariposa-saurona-1241558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/sauron-ya-tiene-propia-mariposa-lleva-ojo-alas-3027174.jpg?tf=1200x' alt='Sauron ya tiene su propia mariposa, lleva su Ojo en las alas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/zelda-tears-kingdom-nintendo-denuncia-emuladores-pc-android-1241552'>A 5 días del estreno del nuevo Zelda, Nintendo inicia una ofensiva contra los emuladores de Nintendo Switch</a></h4>
-    <a href='https://computerhoy.com/gaming/zelda-tears-kingdom-nintendo-denuncia-emuladores-pc-android-1241552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/legend-zelda-tears-kingdom-3007986.jpg?tf=1200x' alt='A 5 días del estreno del nuevo Zelda, Nintendo inicia una ofensiva contra los emuladores de Nintendo Switch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/distancia-minima-pegasus-necesita-ponerte-multa-1240878'>La distancia mínima que Pegasus de la DGT necesita para ponerte una multa</a></h4>
-    <a href='https://computerhoy.com/motor/distancia-minima-pegasus-necesita-ponerte-multa-1240878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/pegasus-1954179.jpg?tf=1200x' alt='La distancia mínima que Pegasus de la DGT necesita para ponerte una multa' />
     </a>
 </div>
 
