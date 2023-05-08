@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-ira-reino-unido-obligan-romper-cifrado-extremo-extremo-1242016'>WhatsApp se irá de Reino Unido si le obligan a romper el cifrado de extremo a extremo</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-ira-reino-unido-obligan-romper-cifrado-extremo-extremo-1242016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-reino-unido-3028020.jpg?tf=1200x' alt='WhatsApp se irá de Reino Unido si le obligan a romper el cifrado de extremo a extremo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/puedes-probar-nearby-share-windows-ordenador-1242004'>Así puedes probar Nearby Share para Windows en tu ordenador</a></h4>
+    <a href='https://computerhoy.com/pc/puedes-probar-nearby-share-windows-ordenador-1242004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/enviar-archivos-movil-pc-ahora-facil-funciona-nearby-share-windows-3000282.jpg?tf=1200x' alt='Así puedes probar Nearby Share para Windows en tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/creador-chatgpt-carga-teletrabajo-fue-error-acabo-1241910'>El creador de ChatGPT carga contra el teletrabajo: 'fue un error y se acabó'</a></h4>
+    <a href='https://computerhoy.com/tecnologia/creador-chatgpt-carga-teletrabajo-fue-error-acabo-1241910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/creador-chatgpt-carga-teletrabajo-fue-error-acabo-3027864.jpg?tf=1200x' alt='El creador de ChatGPT carga contra el teletrabajo: 'fue un error y se acabó'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/mitico-nokia-3310-vuelve-estar-moda-aunque-uso-muy-diferente-ilegal-1241876'>El épico regreso del Nokia 3310: la nueva arma secreta de los delincuentes</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/mitico-nokia-3310-vuelve-estar-moda-aunque-uso-muy-diferente-ilegal-1241876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mitico-nokia-3310-vuelve-estar-moda-aunque-uso-muy-diferente-ilegal-3027794.jpg?tf=1200x' alt='El épico regreso del Nokia 3310: la nueva arma secreta de los delincuentes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/dvb-i-mezcla-television-streaming-salvar-tdt-llega-espana-1241846'>DVB-I, la mezcla de televisión y streaming para salvar la TDT llega a España</a></h4>
     <a href='https://computerhoy.com/streaming/dvb-i-mezcla-television-streaming-salvar-tdt-llega-espana-1241846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='DVB-I, la mezcla de televisión y streaming para salvar la TDT llega a España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/precio-excelencia-chatgpt-sigue-generando-perdidas-millonarias-1241832'>El precio de la excelencia: ChatGPT de OpenAI sigue generando pérdidas millonarias </a></h4>
-    <a href='https://computerhoy.com/tecnologia/precio-excelencia-chatgpt-sigue-generando-perdidas-millonarias-1241832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/quien-creo-chatgpt-quien-dueno-actual-pinta-elon-musk-todo-3021004.jpg?tf=1200x' alt='El precio de la excelencia: ChatGPT de OpenAI sigue generando pérdidas millonarias ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/confirma-microsoft-quiere-convertir-windows-11-infierno-1241804'>Microsoft quiere convertir Windows 11 en un infierno con esta novedad</a></h4>
-    <a href='https://computerhoy.com/windows/confirma-microsoft-quiere-convertir-windows-11-infierno-1241804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='Microsoft quiere convertir Windows 11 en un infierno con esta novedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ya-disponible-todos-android-auto-95-estas-novedades-1241778'>Ya está disponible para todos Android Auto 9.5 con todas estas novedades</a></h4>
-    <a href='https://computerhoy.com/android/ya-disponible-todos-android-auto-95-estas-novedades-1241778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ya-disponible-todos-android-auto-95-todas-estas-novedades-3027586.jpg?tf=1200x' alt='Ya está disponible para todos Android Auto 9.5 con todas estas novedades' />
     </a>
 </div>
 
