@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/warren-buffett-compara-ia-creacion-bomba-atomica-1242130'>Warren Buffett compara la IA con la creación de la bomba atómica</a></h4>
-    <a href='https://computerhoy.com/life/warren-buffett-compara-ia-creacion-bomba-atomica-1242130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/warren-buffett-3028188.jpg?tf=1200x' alt='Warren Buffett compara la IA con la creación de la bomba atómica' />
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-borrado-cuentas-inactivas-twitter-1242150'>Elon Musk anuncia el borrado de millones de cuentas de Twitter, y avisa: 'vuestro número de seguidores va a bajar'</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-borrado-cuentas-inactivas-twitter-1242150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-2929310.jpg?tf=1200x' alt='Elon Musk anuncia el borrado de millones de cuentas de Twitter, y avisa: 'vuestro número de seguidores va a bajar'' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-disco-duro-western-digital-hackean-numeros-telefono-direcciones-correos-electronicos-1242098'>¿Tienes un disco duro de Western Digital? Hackean números de teléfono, direcciones y correos electrónicos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tienes-disco-duro-western-digital-hackean-numeros-telefono-direcciones-correos-electronicos-1242098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/disco-duro-western-digital.jpg?tf=1200x' alt='¿Tienes un disco duro de Western Digital? Hackean números de teléfono, direcciones y correos electrónicos' />
+    <h4><a href='https://computerhoy.com/espacio/270-dias-orbita-avion-espacial-secreto-china-ha-regresado-tierra-1242138'>Tras 270 días en órbita el avión espacial secreto de China ha regresado a la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/270-dias-orbita-avion-espacial-secreto-china-ha-regresado-tierra-1242138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nucleo-tierra-comienza-girar-direccion-contraria-ya-afectandonos-2936512.jpg?tf=1200x' alt='Tras 270 días en órbita el avión espacial secreto de China ha regresado a la Tierra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-15-pro-no-tendra-botones-hapticos-1242106'>El iPhone 15 Pro no tendrá botones hápticos que llegarían con el iPhone 16</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-15-pro-no-tendra-botones-hapticos-1242106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='El iPhone 15 Pro no tendrá botones hápticos que llegarían con el iPhone 16' />
+    <h4><a href='https://computerhoy.com/life/muere-ultima-hembra-tortuga-gigante-swinhoe-extincion-1242146'>Muere la última hembra de la tortuga gigante de Swinhoe, la especie está condenada a la extinción</a></h4>
+    <a href='https://computerhoy.com/life/muere-ultima-hembra-tortuga-gigante-swinhoe-extincion-1242146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/muere-ultima-hembra-tortuga-gigante-swinhoe-especie-condenada-extincion-3028182.jpg?tf=1200x' alt='Muere la última hembra de la tortuga gigante de Swinhoe, la especie está condenada a la extinción' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/circulos-twitter-no-son-privados-red-social-admite-fallo-seguridad-mes-despues-1242096'>Los círculos de Twitter no son privados: la red social admite el fallo de seguridad... un mes después</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/circulos-twitter-no-son-privados-red-social-admite-fallo-seguridad-mes-despues-1242096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-silenciar-palabras-cuentas-twitter-tener-feed-libre-spoilers-toxicidad-3011804.jpg?tf=1200x' alt='Los círculos de Twitter no son privados: la red social admite el fallo de seguridad... un mes después' />
+    <h4><a href='https://computerhoy.com/apple/peor-robo-historia-airtag-delata-haber-robado-1-millon-dolares-1242124'>El peor robo de la historia: un AirTag les delata tras haber robado 1 millón de dólares</a></h4>
+    <a href='https://computerhoy.com/apple/peor-robo-historia-airtag-delata-haber-robado-1-millon-dolares-1242124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335243.jpg?tf=1200x' alt='El peor robo de la historia: un AirTag les delata tras haber robado 1 millón de dólares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ceo-airbnb-salvo-compania-gracias-steve-jobs-1242090'>El CEO de Airbnb salvó a la compañía gracias a una máxima de Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/apps/ceo-airbnb-salvo-compania-gracias-steve-jobs-1242090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/steve-jobs-airbnb-3028122.jpg?tf=1200x' alt='El CEO de Airbnb salvó a la compañía gracias a una máxima de Steve Jobs' />
+    <h4><a href='https://computerhoy.com/life/cielo-basurero-puedes-comprobarlo-google-maps-basura-espacial-1242134'>El cielo es un basurero y puedes comprobarlo con este Google Maps de la basura espacial</a></h4>
+    <a href='https://computerhoy.com/life/cielo-basurero-puedes-comprobarlo-google-maps-basura-espacial-1242134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cielo-basurero-puedes-comprobarlo-google-maps-basura-espacial-3028192.jpg?tf=1200x' alt='El cielo es un basurero y puedes comprobarlo con este Google Maps de la basura espacial' />
     </a>
 </div>
 
