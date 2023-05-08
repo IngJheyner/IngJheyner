@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/mitico-nokia-3310-vuelve-estar-moda-aunque-uso-muy-diferente-ilegal-1241876'>El épico regreso del Nokia 3310: la nueva arma secreta de los delincuentes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/mitico-nokia-3310-vuelve-estar-moda-aunque-uso-muy-diferente-ilegal-1241876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mitico-nokia-3310-vuelve-estar-moda-aunque-uso-muy-diferente-ilegal-3027794.jpg?tf=1200x' alt='El épico regreso del Nokia 3310: la nueva arma secreta de los delincuentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/dvb-i-mezcla-television-streaming-salvar-tdt-llega-espana-1241846'>DVB-I, la mezcla de televisión y streaming para salvar la TDT llega a España</a></h4>
+    <a href='https://computerhoy.com/streaming/dvb-i-mezcla-television-streaming-salvar-tdt-llega-espana-1241846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='DVB-I, la mezcla de televisión y streaming para salvar la TDT llega a España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/precio-excelencia-chatgpt-sigue-generando-perdidas-millonarias-1241832'>El precio de la excelencia: ChatGPT de OpenAI sigue generando pérdidas millonarias </a></h4>
+    <a href='https://computerhoy.com/tecnologia/precio-excelencia-chatgpt-sigue-generando-perdidas-millonarias-1241832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/quien-creo-chatgpt-quien-dueno-actual-pinta-elon-musk-todo-3021004.jpg?tf=1200x' alt='El precio de la excelencia: ChatGPT de OpenAI sigue generando pérdidas millonarias ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/confirma-microsoft-quiere-convertir-windows-11-infierno-1241804'>Microsoft quiere convertir Windows 11 en un infierno con esta novedad</a></h4>
     <a href='https://computerhoy.com/windows/confirma-microsoft-quiere-convertir-windows-11-infierno-1241804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='Microsoft quiere convertir Windows 11 en un infierno con esta novedad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/ya-disponible-todos-android-auto-95-estas-novedades-1241778'>Ya está disponible para todos Android Auto 9.5 con todas estas novedades</a></h4>
     <a href='https://computerhoy.com/android/ya-disponible-todos-android-auto-95-estas-novedades-1241778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ya-disponible-todos-android-auto-95-todas-estas-novedades-3027586.jpg?tf=1200x' alt='Ya está disponible para todos Android Auto 9.5 con todas estas novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/juegos-mandos-gratis-compra-xbox-series-s-series-x-carrefour-1241776'>Juegos y mandos gratis con la compra de Xbox Series S y Series X en Carrefour</a></h4>
-    <a href='https://computerhoy.com/gaming/juegos-mandos-gratis-compra-xbox-series-s-series-x-carrefour-1241776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ps5-xbox-series-x-2492179.jpg?tf=1200x' alt='Juegos y mandos gratis con la compra de Xbox Series S y Series X en Carrefour' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/historia-moviles-google-nexus-one-nuevos-pixel-7-1233496'>Historia de los móviles de Google: así han evolucionado desde el Nexus One a los Pixel 7</a></h4>
-    <a href='https://computerhoy.com/moviles/historia-moviles-google-nexus-one-nuevos-pixel-7-1233496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/historia-moviles-google-3026248.jpg?tf=1200x' alt='Historia de los móviles de Google: así han evolucionado desde el Nexus One a los Pixel 7' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/dyson-ofertas-aspiradoras-1240788'>Dyson ha rebajado hasta 100€ algunas de sus aspiradoras más avanzadas y premium</a></h4>
-    <a href='https://computerhoy.com/hogar/dyson-ofertas-aspiradoras-1240788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/aspirador-inalambrico-dyson-3026154.jpg?tf=1200x' alt='Dyson ha rebajado hasta 100€ algunas de sus aspiradoras más avanzadas y premium' />
     </a>
 </div>
 
