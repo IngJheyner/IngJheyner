@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-windows-hemos-probado-ultimamente-995347'>Estos son los mejores portátiles Windows que hemos probado últimamente</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-portatiles-windows-hemos-probado-ultimamente-995347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-huawei-matebook-16-2628529.jpg?tf=1200x' alt='Estos son los mejores portátiles Windows que hemos probado últimamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/legislacion/hacen-vocales-mesa-electoral-1242028'>¿Qué hacen los vocales en una mesa electoral?</a></h4>
+    <a href='https://computerhoy.com/legislacion/hacen-vocales-mesa-electoral-1242028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/elecciones-espana-3021306.jpg?tf=1200x' alt='¿Qué hacen los vocales en una mesa electoral?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/oppenheimer-pelicula-christopher-nolan-trailer-bomba-atomica-1242060'>Oppenheimer, la nueva película de Christopher Nolan que reaviva el miedo latente a la bomba atómica</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/oppenheimer-pelicula-christopher-nolan-trailer-bomba-atomica-1242060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1683551499051-3027978.jpg?tf=1200x' alt='Oppenheimer, la nueva película de Christopher Nolan que reaviva el miedo latente a la bomba atómica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/senales-indican-iphone-tiene-dano-agua-1242042'>Señales que indican que tu iPhone tiene daño por agua</a></h4>
+    <a href='https://computerhoy.com/apple/senales-indican-iphone-tiene-dano-agua-1242042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-puedes-reparar-iphone-mac-casa-piezas-originales-apple-2893848.jpg?tf=1200x' alt='Señales que indican que tu iPhone tiene daño por agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-ira-reino-unido-obligan-romper-cifrado-extremo-extremo-1242016'>WhatsApp se irá de Reino Unido si le obligan a romper el cifrado de extremo a extremo</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-ira-reino-unido-obligan-romper-cifrado-extremo-extremo-1242016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-reino-unido-3028020.jpg?tf=1200x' alt='WhatsApp se irá de Reino Unido si le obligan a romper el cifrado de extremo a extremo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/puedes-probar-nearby-share-windows-ordenador-1242004'>Así puedes probar Nearby Share para Windows en tu ordenador</a></h4>
-    <a href='https://computerhoy.com/pc/puedes-probar-nearby-share-windows-ordenador-1242004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/enviar-archivos-movil-pc-ahora-facil-funciona-nearby-share-windows-3000282.jpg?tf=1200x' alt='Así puedes probar Nearby Share para Windows en tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/creador-chatgpt-carga-teletrabajo-fue-error-acabo-1241910'>El creador de ChatGPT carga contra el teletrabajo: 'fue un error y se acabó'</a></h4>
-    <a href='https://computerhoy.com/tecnologia/creador-chatgpt-carga-teletrabajo-fue-error-acabo-1241910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/creador-chatgpt-carga-teletrabajo-fue-error-acabo-3027864.jpg?tf=1200x' alt='El creador de ChatGPT carga contra el teletrabajo: 'fue un error y se acabó'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/mitico-nokia-3310-vuelve-estar-moda-aunque-uso-muy-diferente-ilegal-1241876'>El épico regreso del Nokia 3310: la nueva arma secreta de los delincuentes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/mitico-nokia-3310-vuelve-estar-moda-aunque-uso-muy-diferente-ilegal-1241876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mitico-nokia-3310-vuelve-estar-moda-aunque-uso-muy-diferente-ilegal-3027794.jpg?tf=1200x' alt='El épico regreso del Nokia 3310: la nueva arma secreta de los delincuentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/dvb-i-mezcla-television-streaming-salvar-tdt-llega-espana-1241846'>DVB-I, la mezcla de televisión y streaming para salvar la TDT llega a España</a></h4>
-    <a href='https://computerhoy.com/streaming/dvb-i-mezcla-television-streaming-salvar-tdt-llega-espana-1241846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='DVB-I, la mezcla de televisión y streaming para salvar la TDT llega a España' />
     </a>
 </div>
 
