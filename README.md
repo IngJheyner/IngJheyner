@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/niantic-lanza-peridot-juego-tendras-tamagochi-realidad-aumentada-1242604'>Niantic lanza Peridot: así es el juego con el que tendrás un Tamagochi en realidad aumentada</a></h4>
-    <a href='https://computerhoy.com/gaming/niantic-lanza-peridot-juego-tendras-tamagochi-realidad-aumentada-1242604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/niantic-lanza-peridot-juego-tendras-tamagochi-realidad-aumentada-3029094.jpg?tf=1200x' alt='Niantic lanza Peridot: así es el juego con el que tendrás un Tamagochi en realidad aumentada' />
+    <h4><a href='https://computerhoy.com/tecnologia/mallorca-ibiza-4-minutos-taxis-voladores-llegan-espana-1242690'>De Mallorca a Ibiza en 4 minutos: los taxis voladores llegan a España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mallorca-ibiza-4-minutos-taxis-voladores-llegan-espana-1242690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mallorca-ibiza-4-minutos-taxis-voladores-llegan-espana-3029266.jpg?tf=1200x' alt='De Mallorca a Ibiza en 4 minutos: los taxis voladores llegan a España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/cuanto-pagan-forma-parte-mesa-electoral-cobran-mismo-presidente-vocales-1242594'>Cuánto pagan por forma parte de una mesa electoral: ¿cobran lo mismo el presidente y los vocales?</a></h4>
-    <a href='https://computerhoy.com/legislacion/cuanto-pagan-forma-parte-mesa-electoral-cobran-mismo-presidente-vocales-1242594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/votar-elecciones-3028992.jpg?tf=1200x' alt='Cuánto pagan por forma parte de una mesa electoral: ¿cobran lo mismo el presidente y los vocales?' />
+    <h4><a href='https://computerhoy.com/motor/te-molesto-cuentas-compartidas-netflix-mejor-no-veas-te-espera-coche-1242684'>Si te molestó lo de las cuentas compartidas de Netflix, mejor no veas lo que te espera con tu coche </a></h4>
+    <a href='https://computerhoy.com/motor/te-molesto-cuentas-compartidas-netflix-mejor-no-veas-te-espera-coche-1242684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/persona-enojada-coche-3029240.jpg?tf=1200x' alt='Si te molestó lo de las cuentas compartidas de Netflix, mejor no veas lo que te espera con tu coche ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-enciende-primeras-alarmas-muestra-sintomas-fatiga-1242630'>Nintendo Switch enciende las primeras alarmas en las oficinas de Nintendo</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-enciende-primeras-alarmas-muestra-sintomas-fatiga-1242630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nintendo-switch-expira-3028996.jpg?tf=1200x' alt='Nintendo Switch enciende las primeras alarmas en las oficinas de Nintendo' />
+    <h4><a href='https://computerhoy.com/espacio/james-webb-nasa-captura-imagenes-nunca-vistas-estrella-25-anos-luz-distancia-1242712'>James Webb de la NASA captura imágenes nunca vistas de una estrella a 25 años luz de distancia</a></h4>
+    <a href='https://computerhoy.com/espacio/james-webb-nasa-captura-imagenes-nunca-vistas-estrella-25-anos-luz-distancia-1242712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg?tf=1200x' alt='James Webb de la NASA captura imágenes nunca vistas de una estrella a 25 años luz de distancia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/spotify-elimina-miles-canciones-creadas-inteligencia-artificial-1242668'>Spotify elimina miles de canciones generadas por IA, pero no es por los derechos de autor</a></h4>
-    <a href='https://computerhoy.com/streaming/spotify-elimina-miles-canciones-creadas-inteligencia-artificial-1242668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/comienza-batalla-discograficas-piden-apple-music-spotify-bloqueen-musica-generada-ia-3007180.jpg?tf=1200x' alt='Spotify elimina miles de canciones generadas por IA, pero no es por los derechos de autor' />
+    <h4><a href='https://computerhoy.com/ciencia/estos-extranos-parches-quieren-llevar-olores-realidad-virtual-1242646'>Estos extraños parches quieren llevar los olores a la realidad virtual</a></h4>
+    <a href='https://computerhoy.com/ciencia/estos-extranos-parches-quieren-llevar-olores-realidad-virtual-1242646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estos-extranos-parches-quieren-llevar-olores-realidad-virtual-3029122.jpg?tf=1200x' alt='Estos extraños parches quieren llevar los olores a la realidad virtual' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-dias-naranjas-mejores-ofertas-moviles-smarttv-portatiles-tablets-1242424'>No busques más, hemos encontrado los chollos de los Días Naranjas de PcComponentes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pccomponentes-dias-naranjas-mejores-ofertas-moviles-smarttv-portatiles-tablets-1242424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ofertas-dias-naranjas-pccomponentes-3028620.jpg?tf=1200x' alt='No busques más, hemos encontrado los chollos de los Días Naranjas de PcComponentes' />
+    <h4><a href='https://computerhoy.com/redes/todos-router-wifi-tienen-lado-bueno-comprueba-bien-colocado-1242710'>Todos los router WiFi tienen un “lado bueno”: comprueba si el tuyo está bien colocado</a></h4>
+    <a href='https://computerhoy.com/redes/todos-router-wifi-tienen-lado-bueno-comprueba-bien-colocado-1242710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-3029308.jpg?tf=1200x' alt='Todos los router WiFi tienen un “lado bueno”: comprueba si el tuyo está bien colocado' />
     </a>
 </div>
 
