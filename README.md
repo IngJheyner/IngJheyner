@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/huawei-mate-x3-lanzamiento-caracteristicas-nuevo-plegable-1242596'>Huawei presenta en Europa nuevo plegable, Mate X3, con bisagra hacia dentro y diseño ultradelgado</a></h4>
-    <a href='https://computerhoy.com/moviles/huawei-mate-x3-lanzamiento-caracteristicas-nuevo-plegable-1242596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-mate-x3-3028962.jpg?tf=1200x' alt='Huawei presenta en Europa nuevo plegable, Mate X3, con bisagra hacia dentro y diseño ultradelgado' />
+    <h4><a href='https://computerhoy.com/legislacion/cuanto-pagan-forma-parte-mesa-electoral-cobran-mismo-presidente-vocales-1242594'>Cuánto pagan por forma parte de una mesa electoral: ¿cobran lo mismo el presidente y los vocales?</a></h4>
+    <a href='https://computerhoy.com/legislacion/cuanto-pagan-forma-parte-mesa-electoral-cobran-mismo-presidente-vocales-1242594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/votar-elecciones-3028992.jpg?tf=1200x' alt='Cuánto pagan por forma parte de una mesa electoral: ¿cobran lo mismo el presidente y los vocales?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/final-cut-pro-aterriza-ipad-editor-video-profesional-apple-llega-suscripcion-1242598'>Final Cut Pro aterriza en el iPad: el editor de video profesional de Apple llega bajo suscripción</a></h4>
-    <a href='https://computerhoy.com/apple/final-cut-pro-aterriza-ipad-editor-video-profesional-apple-llega-suscripcion-1242598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/final-cut-pro-aterriza-ipad-editor-video-profesional-apple-llega-suscripcion-3028952.jpg?tf=1200x' alt='Final Cut Pro aterriza en el iPad: el editor de video profesional de Apple llega bajo suscripción' />
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-enciende-primeras-alarmas-muestra-sintomas-fatiga-1242630'>Nintendo Switch enciende las primeras alarmas en las oficinas de Nintendo</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-enciende-primeras-alarmas-muestra-sintomas-fatiga-1242630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nintendo-switch-expira-3028996.jpg?tf=1200x' alt='Nintendo Switch enciende las primeras alarmas en las oficinas de Nintendo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/huawei-p60-pro-lanzamiento-espana-caracteristicas-precio-1242566'>Huawei P60 Pro llega a Europa con diseño de obra de arte y una cámara para aspirar a todo en 2023 </a></h4>
-    <a href='https://computerhoy.com/moviles/huawei-p60-pro-lanzamiento-espana-caracteristicas-precio-1242566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-p60-pro-3028918.jpg?tf=1200x' alt='Huawei P60 Pro llega a Europa con diseño de obra de arte y una cámara para aspirar a todo en 2023 ' />
+    <h4><a href='https://computerhoy.com/streaming/spotify-elimina-miles-canciones-creadas-inteligencia-artificial-1242668'>Spotify elimina miles de canciones generadas por IA, pero no es por los derechos de autor</a></h4>
+    <a href='https://computerhoy.com/streaming/spotify-elimina-miles-canciones-creadas-inteligencia-artificial-1242668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/comienza-batalla-discograficas-piden-apple-music-spotify-bloqueen-musica-generada-ia-3007180.jpg?tf=1200x' alt='Spotify elimina miles de canciones generadas por IA, pero no es por los derechos de autor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-p60-pro-analisis-opinion-movil-fotografico-fotogenico-momento-1241772'>Huawei P60 Pro, análisis y opinión del móvil más fotográfico y fotogénico del momento</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-p60-pro-analisis-opinion-movil-fotografico-fotogenico-momento-1241772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-p60-pro-3028310.jpg?tf=1200x' alt='Huawei P60 Pro, análisis y opinión del móvil más fotográfico y fotogénico del momento' />
+    <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-dias-naranjas-mejores-ofertas-moviles-smarttv-portatiles-tablets-1242424'>No busques más, hemos encontrado los chollos de los Días Naranjas de PcComponentes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pccomponentes-dias-naranjas-mejores-ofertas-moviles-smarttv-portatiles-tablets-1242424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ofertas-dias-naranjas-pccomponentes-3028620.jpg?tf=1200x' alt='No busques más, hemos encontrado los chollos de los Días Naranjas de PcComponentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/7-mejores-extensiones-gmail-tienes-instalar-chrome-1168718'>Las 7 mejores extensiones para Gmail que tienes que instalar en Chrome</a></h4>
-    <a href='https://computerhoy.com/internet/7-mejores-extensiones-gmail-tienes-instalar-chrome-1168718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/7-mejores-extensiones-gmail-tienes-instalar-chrome-2989366.jpg?tf=1200x' alt='Las 7 mejores extensiones para Gmail que tienes que instalar en Chrome' />
+    <h4><a href='https://computerhoy.com/tecnologia/nunca-corte-luz-baterias-tesla-powerwall-llegan-espana-1242602'>Nunca más un corte de luz: las baterías Tesla Powerwall llegan a España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nunca-corte-luz-baterias-tesla-powerwall-llegan-espana-1242602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nunca-corte-luz-baterias-tesla-powerfall-llegan-espana-3028966.jpg?tf=1200x' alt='Nunca más un corte de luz: las baterías Tesla Powerwall llegan a España' />
     </a>
 </div>
 
