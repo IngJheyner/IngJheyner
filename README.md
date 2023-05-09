@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/centro-datos-meta-talavera-consumira-600-millones-litros-agua-1242548'>El centro de datos de Meta en Talavera consumirá 600 millones de litros de agua potable al año en una zona de sequía</a></h4>
-    <a href='https://computerhoy.com/industria/centro-datos-meta-talavera-consumira-600-millones-litros-agua-1242548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/centro-datos-meta-talavera-consumira-600-millones-litros-agua-zona-sequia-3028876.jpg?tf=1200x' alt='El centro de datos de Meta en Talavera consumirá 600 millones de litros de agua potable al año en una zona de sequía' />
+    <h4><a href='https://computerhoy.com/moviles/huawei-mate-x3-lanzamiento-caracteristicas-nuevo-plegable-1242596'>Huawei presenta en Europa nuevo plegable, Mate X3, con bisagra hacia dentro y diseño ultradelgado</a></h4>
+    <a href='https://computerhoy.com/moviles/huawei-mate-x3-lanzamiento-caracteristicas-nuevo-plegable-1242596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-mate-x3-3028962.jpg?tf=1200x' alt='Huawei presenta en Europa nuevo plegable, Mate X3, con bisagra hacia dentro y diseño ultradelgado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/conoce-regla-15-minutos-sueno-dormir-rapido-1242110'>Conoce la regla de los 15 minutos de sueño y comienza a descansar como un bebé</a></h4>
-    <a href='https://computerhoy.com/life/conoce-regla-15-minutos-sueno-dormir-rapido-1242110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bebe-dormido-3028792.jpg?tf=1200x' alt='Conoce la regla de los 15 minutos de sueño y comienza a descansar como un bebé' />
+    <h4><a href='https://computerhoy.com/apple/final-cut-pro-aterriza-ipad-editor-video-profesional-apple-llega-suscripcion-1242598'>Final Cut Pro aterriza en el iPad: el editor de video profesional de Apple llega bajo suscripción</a></h4>
+    <a href='https://computerhoy.com/apple/final-cut-pro-aterriza-ipad-editor-video-profesional-apple-llega-suscripcion-1242598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/final-cut-pro-aterriza-ipad-editor-video-profesional-apple-llega-suscripcion-3028952.jpg?tf=1200x' alt='Final Cut Pro aterriza en el iPad: el editor de video profesional de Apple llega bajo suscripción' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/bizum-unifica-limites-todos-bancos-nuevas-cifras-no-debes-superar-1242488'>Bizum unifica sus límites para todos los bancos: las nuevas cifras que no debes superar</a></h4>
-    <a href='https://computerhoy.com/apps/bizum-unifica-limites-todos-bancos-nuevas-cifras-no-debes-superar-1242488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/posible-usar-bizum-dos-bancos-vez-unica-forma-conseguirlo-2965572.jpg?tf=1200x' alt='Bizum unifica sus límites para todos los bancos: las nuevas cifras que no debes superar' />
+    <h4><a href='https://computerhoy.com/moviles/huawei-p60-pro-lanzamiento-espana-caracteristicas-precio-1242566'>Huawei P60 Pro llega a Europa con diseño de obra de arte y una cámara para aspirar a todo en 2023 </a></h4>
+    <a href='https://computerhoy.com/moviles/huawei-p60-pro-lanzamiento-espana-caracteristicas-precio-1242566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-p60-pro-3028918.jpg?tf=1200x' alt='Huawei P60 Pro llega a Europa con diseño de obra de arte y una cámara para aspirar a todo en 2023 ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/regalo-5-euros-amazon-segunda-mano-1242418'>Amazon vuelve a regalar 5€ a usuarios registrados, así puedes saber si te ha tocado</a></h4>
-    <a href='https://computerhoy.com/amazon/regalo-5-euros-amazon-segunda-mano-1242418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mujer-sujetando-caja-carton-3028590.jpg?tf=1200x' alt='Amazon vuelve a regalar 5€ a usuarios registrados, así puedes saber si te ha tocado' />
+    <h4><a href='https://computerhoy.com/analisis/huawei-p60-pro-analisis-opinion-movil-fotografico-fotogenico-momento-1241772'>Huawei P60 Pro, análisis y opinión del móvil más fotográfico y fotogénico del momento</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-p60-pro-analisis-opinion-movil-fotografico-fotogenico-momento-1241772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-p60-pro-3028310.jpg?tf=1200x' alt='Huawei P60 Pro, análisis y opinión del móvil más fotográfico y fotogénico del momento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-jefe-tacano-paga-mal-empleados-1242458'>ChatGPT se ha convertido en ese jefe tacaño que paga mal a sus trabajadores humanos </a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-jefe-tacano-paga-mal-empleados-1242458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/chatgpt-ha-convertido-ese-jefe-tacano-paga-mal-trabajadores-humanos-3028696.jpg?tf=1200x' alt='ChatGPT se ha convertido en ese jefe tacaño que paga mal a sus trabajadores humanos ' />
+    <h4><a href='https://computerhoy.com/internet/7-mejores-extensiones-gmail-tienes-instalar-chrome-1168718'>Las 7 mejores extensiones para Gmail que tienes que instalar en Chrome</a></h4>
+    <a href='https://computerhoy.com/internet/7-mejores-extensiones-gmail-tienes-instalar-chrome-1168718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/7-mejores-extensiones-gmail-tienes-instalar-chrome-2989366.jpg?tf=1200x' alt='Las 7 mejores extensiones para Gmail que tienes que instalar en Chrome' />
     </a>
 </div>
 
