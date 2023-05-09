@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/niantic-lanza-peridot-juego-tendras-tamagochi-realidad-aumentada-1242604'>Niantic lanza Peridot: así es el juego con el que tendrás un Tamagochi en realidad aumentada</a></h4>
+    <a href='https://computerhoy.com/gaming/niantic-lanza-peridot-juego-tendras-tamagochi-realidad-aumentada-1242604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/niantic-lanza-peridot-juego-tendras-tamagochi-realidad-aumentada-3029094.jpg?tf=1200x' alt='Niantic lanza Peridot: así es el juego con el que tendrás un Tamagochi en realidad aumentada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/legislacion/cuanto-pagan-forma-parte-mesa-electoral-cobran-mismo-presidente-vocales-1242594'>Cuánto pagan por forma parte de una mesa electoral: ¿cobran lo mismo el presidente y los vocales?</a></h4>
     <a href='https://computerhoy.com/legislacion/cuanto-pagan-forma-parte-mesa-electoral-cobran-mismo-presidente-vocales-1242594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/votar-elecciones-3028992.jpg?tf=1200x' alt='Cuánto pagan por forma parte de una mesa electoral: ¿cobran lo mismo el presidente y los vocales?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-dias-naranjas-mejores-ofertas-moviles-smarttv-portatiles-tablets-1242424'>No busques más, hemos encontrado los chollos de los Días Naranjas de PcComponentes</a></h4>
     <a href='https://computerhoy.com/tecnologia/pccomponentes-dias-naranjas-mejores-ofertas-moviles-smarttv-portatiles-tablets-1242424' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ofertas-dias-naranjas-pccomponentes-3028620.jpg?tf=1200x' alt='No busques más, hemos encontrado los chollos de los Días Naranjas de PcComponentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nunca-corte-luz-baterias-tesla-powerwall-llegan-espana-1242602'>Nunca más un corte de luz: las baterías Tesla Powerwall llegan a España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nunca-corte-luz-baterias-tesla-powerwall-llegan-espana-1242602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nunca-corte-luz-baterias-tesla-powerfall-llegan-espana-3028966.jpg?tf=1200x' alt='Nunca más un corte de luz: las baterías Tesla Powerwall llegan a España' />
     </a>
 </div>
 
