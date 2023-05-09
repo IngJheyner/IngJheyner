@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/watchos-10-todo-sabe-nuevo-sistema-operativo-apple-watch-1242432'>watchOS 10: esto es todo lo que sabe del nuevo sistema operativo del Apple Watch</a></h4>
-    <a href='https://computerhoy.com/apple/watchos-10-todo-sabe-nuevo-sistema-operativo-apple-watch-1242432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841935.jpg?tf=1200x' alt='watchOS 10: esto es todo lo que sabe del nuevo sistema operativo del Apple Watch' />
+    <h4><a href='https://computerhoy.com/industria/centro-datos-meta-talavera-consumira-600-millones-litros-agua-1242548'>El centro de datos de Meta en Talavera consumirá 600 millones de litros de agua potable al año en una zona de sequía</a></h4>
+    <a href='https://computerhoy.com/industria/centro-datos-meta-talavera-consumira-600-millones-litros-agua-1242548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/centro-datos-meta-talavera-consumira-600-millones-litros-agua-zona-sequia-3028876.jpg?tf=1200x' alt='El centro de datos de Meta en Talavera consumirá 600 millones de litros de agua potable al año en una zona de sequía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/skyshowtime-prueba-gratis-1241932'>SkyShowtime es una de las pocas plataformas de streaming con prueba gratuita</a></h4>
-    <a href='https://computerhoy.com/streaming/skyshowtime-prueba-gratis-1241932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/skyshowtime-te-da-ultima-oportunidad-puedes-ver-gratis-contenido-3020032.jpg?tf=1200x' alt='SkyShowtime es una de las pocas plataformas de streaming con prueba gratuita' />
+    <h4><a href='https://computerhoy.com/life/conoce-regla-15-minutos-sueno-dormir-rapido-1242110'>Conoce la regla de los 15 minutos de sueño y comienza a descansar como un bebé</a></h4>
+    <a href='https://computerhoy.com/life/conoce-regla-15-minutos-sueno-dormir-rapido-1242110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bebe-dormido-3028792.jpg?tf=1200x' alt='Conoce la regla de los 15 minutos de sueño y comienza a descansar como un bebé' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/posible-aprobar-carrera-universitaria-utilizando-solo-chatgpt-1242402'>¿Es posible aprobar una carrera universitaria utilizando solo ChatGPT?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/posible-aprobar-carrera-universitaria-utilizando-solo-chatgpt-1242402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/posible-aprobar-carrera-universitaria-utilizando-solo-chatgpt-3028578.jpg?tf=1200x' alt='¿Es posible aprobar una carrera universitaria utilizando solo ChatGPT?' />
+    <h4><a href='https://computerhoy.com/apps/bizum-unifica-limites-todos-bancos-nuevas-cifras-no-debes-superar-1242488'>Bizum unifica sus límites para todos los bancos: las nuevas cifras que no debes superar</a></h4>
+    <a href='https://computerhoy.com/apps/bizum-unifica-limites-todos-bancos-nuevas-cifras-no-debes-superar-1242488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/posible-usar-bizum-dos-bancos-vez-unica-forma-conseguirlo-2965572.jpg?tf=1200x' alt='Bizum unifica sus límites para todos los bancos: las nuevas cifras que no debes superar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ipad-9-generacion-mas-barato-1241896'>Este es el iPad más barato que puedes comprar este mes, ahora con descuento extra en MediaMarkt y Worten</a></h4>
-    <a href='https://computerhoy.com/apple/ipad-9-generacion-mas-barato-1241896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/apple-ipad-9a-generacion-3027848.jpg?tf=1200x' alt='Este es el iPad más barato que puedes comprar este mes, ahora con descuento extra en MediaMarkt y Worten' />
+    <h4><a href='https://computerhoy.com/amazon/regalo-5-euros-amazon-segunda-mano-1242418'>Amazon vuelve a regalar 5€ a usuarios registrados, así puedes saber si te ha tocado</a></h4>
+    <a href='https://computerhoy.com/amazon/regalo-5-euros-amazon-segunda-mano-1242418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mujer-sujetando-caja-carton-3028590.jpg?tf=1200x' alt='Amazon vuelve a regalar 5€ a usuarios registrados, así puedes saber si te ha tocado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/sony-xperia-son-unicos-moviles-gama-alta-jack-auriculares-1216254'>¿Por qué los Sony Xperia mantienen el jack de 3,5 mm en 2023, mientras la competencia lo elimina?</a></h4>
-    <a href='https://computerhoy.com/audio/sony-xperia-son-unicos-moviles-gama-alta-jack-auriculares-1216254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sony-xperia-5-iv-analisis-opinion-2837037.jpg?tf=1200x' alt='¿Por qué los Sony Xperia mantienen el jack de 3,5 mm en 2023, mientras la competencia lo elimina?' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-jefe-tacano-paga-mal-empleados-1242458'>ChatGPT se ha convertido en ese jefe tacaño que paga mal a sus trabajadores humanos </a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-jefe-tacano-paga-mal-empleados-1242458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/chatgpt-ha-convertido-ese-jefe-tacano-paga-mal-trabajadores-humanos-3028696.jpg?tf=1200x' alt='ChatGPT se ha convertido en ese jefe tacaño que paga mal a sus trabajadores humanos ' />
     </a>
 </div>
 
