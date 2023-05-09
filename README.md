@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/watchos-10-todo-sabe-nuevo-sistema-operativo-apple-watch-1242432'>watchOS 10: esto es todo lo que sabe del nuevo sistema operativo del Apple Watch</a></h4>
+    <a href='https://computerhoy.com/apple/watchos-10-todo-sabe-nuevo-sistema-operativo-apple-watch-1242432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841935.jpg?tf=1200x' alt='watchOS 10: esto es todo lo que sabe del nuevo sistema operativo del Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/skyshowtime-prueba-gratis-1241932'>SkyShowtime es una de las pocas plataformas de streaming con prueba gratuita</a></h4>
+    <a href='https://computerhoy.com/streaming/skyshowtime-prueba-gratis-1241932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/skyshowtime-te-da-ultima-oportunidad-puedes-ver-gratis-contenido-3020032.jpg?tf=1200x' alt='SkyShowtime es una de las pocas plataformas de streaming con prueba gratuita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/posible-aprobar-carrera-universitaria-utilizando-solo-chatgpt-1242402'>¿Es posible aprobar una carrera universitaria utilizando solo ChatGPT?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/posible-aprobar-carrera-universitaria-utilizando-solo-chatgpt-1242402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/posible-aprobar-carrera-universitaria-utilizando-solo-chatgpt-3028578.jpg?tf=1200x' alt='¿Es posible aprobar una carrera universitaria utilizando solo ChatGPT?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ipad-9-generacion-mas-barato-1241896'>Este es el iPad más barato que puedes comprar este mes, ahora con descuento extra en MediaMarkt y Worten</a></h4>
     <a href='https://computerhoy.com/apple/ipad-9-generacion-mas-barato-1241896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/apple-ipad-9a-generacion-3027848.jpg?tf=1200x' alt='Este es el iPad más barato que puedes comprar este mes, ahora con descuento extra en MediaMarkt y Worten' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/sony-xperia-son-unicos-moviles-gama-alta-jack-auriculares-1216254'>¿Por qué los Sony Xperia mantienen el jack de 3,5 mm en 2023, mientras la competencia lo elimina?</a></h4>
     <a href='https://computerhoy.com/audio/sony-xperia-son-unicos-moviles-gama-alta-jack-auriculares-1216254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sony-xperia-5-iv-analisis-opinion-2837037.jpg?tf=1200x' alt='¿Por qué los Sony Xperia mantienen el jack de 3,5 mm en 2023, mientras la competencia lo elimina?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/xiaomi-redmi-10c-merece-pena-caracteristicas-alternativas-baratas-1241908'>Xiaomi Redmi 10C, ¿merece la pena en 2023? Características y alternativas baratas</a></h4>
-    <a href='https://computerhoy.com/moviles/xiaomi-redmi-10c-merece-pena-caracteristicas-alternativas-baratas-1241908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/redmi-10c-3027792.jpg?tf=1200x' alt='Xiaomi Redmi 10C, ¿merece la pena en 2023? Características y alternativas baratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/por-que-echar-sal-cafe-1242346'>Por qué algunos baristas recomiendan echar sal al café</a></h4>
-    <a href='https://computerhoy.com/alimentacion/por-que-echar-sal-cafe-1242346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/algunos-baristas-recomiendan-echar-sal-cafe-3028530.jpg?tf=1200x' alt='Por qué algunos baristas recomiendan echar sal al café' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/curiosas-banderas-union-europea-nunca-existieron-1242318'>En el Día de Europa, recordamos las curiosas banderas de la Unión Europea que nunca existieron</a></h4>
-    <a href='https://computerhoy.com/life/curiosas-banderas-union-europea-nunca-existieron-1242318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/dia-europa-recordamos-curiosas-banderas-union-europea-nunca-existieron-3028284.jpg?tf=1200x' alt='En el Día de Europa, recordamos las curiosas banderas de la Unión Europea que nunca existieron' />
     </a>
 </div>
 
