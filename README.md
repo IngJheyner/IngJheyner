@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/curiosas-banderas-union-europea-nunca-existieron-1242318'>En el Día de Europa, recordamos las curiosas banderas de la Unión Europea que nunca existieron</a></h4>
+    <a href='https://computerhoy.com/life/curiosas-banderas-union-europea-nunca-existieron-1242318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/dia-europa-recordamos-curiosas-banderas-union-europea-nunca-existieron-3028284.jpg?tf=1200x' alt='En el Día de Europa, recordamos las curiosas banderas de la Unión Europea que nunca existieron' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-borrado-cuentas-inactivas-twitter-1242150'>Elon Musk anuncia el borrado de millones de cuentas de Twitter, y avisa: 'vuestro número de seguidores va a bajar'</a></h4>
     <a href='https://computerhoy.com/redes-sociales/elon-musk-borrado-cuentas-inactivas-twitter-1242150' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-2929310.jpg?tf=1200x' alt='Elon Musk anuncia el borrado de millones de cuentas de Twitter, y avisa: 'vuestro número de seguidores va a bajar'' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/peor-robo-historia-airtag-delata-haber-robado-1-millon-dolares-1242124'>El peor robo de la historia: un AirTag les delata tras haber robado 1 millón de dólares</a></h4>
     <a href='https://computerhoy.com/apple/peor-robo-historia-airtag-delata-haber-robado-1-millon-dolares-1242124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335243.jpg?tf=1200x' alt='El peor robo de la historia: un AirTag les delata tras haber robado 1 millón de dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cielo-basurero-puedes-comprobarlo-google-maps-basura-espacial-1242134'>El cielo es un basurero y puedes comprobarlo con este Google Maps de la basura espacial</a></h4>
-    <a href='https://computerhoy.com/life/cielo-basurero-puedes-comprobarlo-google-maps-basura-espacial-1242134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cielo-basurero-puedes-comprobarlo-google-maps-basura-espacial-3028192.jpg?tf=1200x' alt='El cielo es un basurero y puedes comprobarlo con este Google Maps de la basura espacial' />
     </a>
 </div>
 
