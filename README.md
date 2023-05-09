@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ipad-9-generacion-mas-barato-1241896'>Este es el iPad más barato que puedes comprar este mes, ahora con descuento extra en MediaMarkt y Worten</a></h4>
+    <a href='https://computerhoy.com/apple/ipad-9-generacion-mas-barato-1241896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/apple-ipad-9a-generacion-3027848.jpg?tf=1200x' alt='Este es el iPad más barato que puedes comprar este mes, ahora con descuento extra en MediaMarkt y Worten' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/sony-xperia-son-unicos-moviles-gama-alta-jack-auriculares-1216254'>¿Por qué los Sony Xperia mantienen el jack de 3,5 mm en 2023, mientras la competencia lo elimina?</a></h4>
+    <a href='https://computerhoy.com/audio/sony-xperia-son-unicos-moviles-gama-alta-jack-auriculares-1216254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/sony-xperia-5-iv-analisis-opinion-2837037.jpg?tf=1200x' alt='¿Por qué los Sony Xperia mantienen el jack de 3,5 mm en 2023, mientras la competencia lo elimina?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/xiaomi-redmi-10c-merece-pena-caracteristicas-alternativas-baratas-1241908'>Xiaomi Redmi 10C, ¿merece la pena en 2023? Características y alternativas baratas</a></h4>
+    <a href='https://computerhoy.com/moviles/xiaomi-redmi-10c-merece-pena-caracteristicas-alternativas-baratas-1241908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/redmi-10c-3027792.jpg?tf=1200x' alt='Xiaomi Redmi 10C, ¿merece la pena en 2023? Características y alternativas baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/por-que-echar-sal-cafe-1242346'>Por qué algunos baristas recomiendan echar sal al café</a></h4>
+    <a href='https://computerhoy.com/alimentacion/por-que-echar-sal-cafe-1242346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/algunos-baristas-recomiendan-echar-sal-cafe-3028530.jpg?tf=1200x' alt='Por qué algunos baristas recomiendan echar sal al café' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/curiosas-banderas-union-europea-nunca-existieron-1242318'>En el Día de Europa, recordamos las curiosas banderas de la Unión Europea que nunca existieron</a></h4>
     <a href='https://computerhoy.com/life/curiosas-banderas-union-europea-nunca-existieron-1242318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/dia-europa-recordamos-curiosas-banderas-union-europea-nunca-existieron-3028284.jpg?tf=1200x' alt='En el Día de Europa, recordamos las curiosas banderas de la Unión Europea que nunca existieron' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-borrado-cuentas-inactivas-twitter-1242150'>Elon Musk anuncia el borrado de millones de cuentas de Twitter, y avisa: 'vuestro número de seguidores va a bajar'</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-borrado-cuentas-inactivas-twitter-1242150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/estas-son-algunas-mejores-opciones-ser-nuevo-ceo-twitter-elon-musk-quiere-salvar-red-social-2929310.jpg?tf=1200x' alt='Elon Musk anuncia el borrado de millones de cuentas de Twitter, y avisa: 'vuestro número de seguidores va a bajar'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/270-dias-orbita-avion-espacial-secreto-china-ha-regresado-tierra-1242138'>Tras 270 días en órbita el avión espacial secreto de China ha regresado a la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/270-dias-orbita-avion-espacial-secreto-china-ha-regresado-tierra-1242138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nucleo-tierra-comienza-girar-direccion-contraria-ya-afectandonos-2936512.jpg?tf=1200x' alt='Tras 270 días en órbita el avión espacial secreto de China ha regresado a la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/muere-ultima-hembra-tortuga-gigante-swinhoe-extincion-1242146'>Muere la última hembra de la tortuga gigante de Swinhoe, la especie está condenada a la extinción</a></h4>
-    <a href='https://computerhoy.com/life/muere-ultima-hembra-tortuga-gigante-swinhoe-extincion-1242146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/muere-ultima-hembra-tortuga-gigante-swinhoe-especie-condenada-extincion-3028182.jpg?tf=1200x' alt='Muere la última hembra de la tortuga gigante de Swinhoe, la especie está condenada a la extinción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/peor-robo-historia-airtag-delata-haber-robado-1-millon-dolares-1242124'>El peor robo de la historia: un AirTag les delata tras haber robado 1 millón de dólares</a></h4>
-    <a href='https://computerhoy.com/apple/peor-robo-historia-airtag-delata-haber-robado-1-millon-dolares-1242124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335243.jpg?tf=1200x' alt='El peor robo de la historia: un AirTag les delata tras haber robado 1 millón de dólares' />
     </a>
 </div>
 
