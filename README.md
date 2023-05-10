@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/elon-musk-acusa-whatsapp-espiarte-mientras-duermes-hay-cierto-1243090'>Elon Musk acusa a WhatsApp de espiarte mientras duermes: ¿qué hay de cierto en esto?</a></h4>
+    <a href='https://computerhoy.com/apps/elon-musk-acusa-whatsapp-espiarte-mientras-duermes-hay-cierto-1243090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-acusa-whatsapp-espiarte-mientras-duermes-hay-cierto-3030026.jpg?tf=1200x' alt='Elon Musk acusa a WhatsApp de espiarte mientras duermes: ¿qué hay de cierto en esto?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/precalentar-horno-puede-ser-perdida-tiempo-dinero-1242966'>Por qué precalentar el horno puede ser una perdida de tiempo y dinero</a></h4>
     <a href='https://computerhoy.com/alimentacion/precalentar-horno-puede-ser-perdida-tiempo-dinero-1242966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/horno-tarta.jpg?tf=1200x' alt='Por qué precalentar el horno puede ser una perdida de tiempo y dinero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-utilizar-chatgpt-estudiar-hacer-trampas-1242996'>Cómo utilizar ChatGPT para estudiar sin hacer trampas</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-utilizar-chatgpt-estudiar-hacer-trampas-1242996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/como-utilizar-chatgpt-estudiar-hacer-trampas-3029598.jpg?tf=1200x' alt='Cómo utilizar ChatGPT para estudiar sin hacer trampas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/trucos-ahorro-tiktok-trampa-mortal-expertos-1242998'>Los trucos de ahorro de TikTok son una trampa mortal, según los expertos</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/trucos-ahorro-tiktok-trampa-mortal-expertos-1242998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/trucos-ahorro-tiktok-son-trampa-mortal-expertos-3029560.jpg?tf=1200x' alt='Los trucos de ahorro de TikTok son una trampa mortal, según los expertos' />
     </a>
 </div>
 
