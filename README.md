@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/miles-hackers-def-con-hackear-chatgpt-inteligencia-artificial-1242732'>Miles de hackers se reunirán en agosto en Las Vegas con un solo objetivo: hackear ChatGPT y otras IAs</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/miles-hackers-def-con-hackear-chatgpt-inteligencia-artificial-1242732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/miles-hackers-reuniran-agosto-vegas-solo-objetivo-hackear-chatgpt-otras-ias-3029336.jpg?tf=1200x' alt='Miles de hackers se reunirán en agosto en Las Vegas con un solo objetivo: hackear ChatGPT y otras IAs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mallorca-ibiza-4-minutos-taxis-voladores-llegan-espana-1242690'>De Mallorca a Ibiza en 4 minutos: los taxis voladores llegan a España</a></h4>
     <a href='https://computerhoy.com/tecnologia/mallorca-ibiza-4-minutos-taxis-voladores-llegan-espana-1242690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mallorca-ibiza-4-minutos-taxis-voladores-llegan-espana-3029266.jpg?tf=1200x' alt='De Mallorca a Ibiza en 4 minutos: los taxis voladores llegan a España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/estos-extranos-parches-quieren-llevar-olores-realidad-virtual-1242646'>Estos extraños parches quieren llevar los olores a la realidad virtual</a></h4>
     <a href='https://computerhoy.com/ciencia/estos-extranos-parches-quieren-llevar-olores-realidad-virtual-1242646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estos-extranos-parches-quieren-llevar-olores-realidad-virtual-3029122.jpg?tf=1200x' alt='Estos extraños parches quieren llevar los olores a la realidad virtual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/todos-router-wifi-tienen-lado-bueno-comprueba-bien-colocado-1242710'>Todos los router WiFi tienen un “lado bueno”: comprueba si el tuyo está bien colocado</a></h4>
-    <a href='https://computerhoy.com/redes/todos-router-wifi-tienen-lado-bueno-comprueba-bien-colocado-1242710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-3029308.jpg?tf=1200x' alt='Todos los router WiFi tienen un “lado bueno”: comprueba si el tuyo está bien colocado' />
     </a>
 </div>
 
