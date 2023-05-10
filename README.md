@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/memoria-ram-ddr6-caracteristicas-precio-fecha-lanzamiento-1242678'>Cuándo llegará la memoria RAM DDR6, características y posible precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/memoria-ram-ddr6-caracteristicas-precio-fecha-lanzamiento-1242678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/samsung-ddr6-3029238.jpg?tf=1200x' alt='Cuándo llegará la memoria RAM DDR6, características y posible precio' />
+    <h4><a href='https://computerhoy.com/motor/todo-debes-saber-antes-comprar-ferrari-1243312'>Todo lo que debes saber antes de comprar un Ferrari</a></h4>
+    <a href='https://computerhoy.com/motor/todo-debes-saber-antes-comprar-ferrari-1243312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/subasta-ferrari-testarossa-2864069.jpg?tf=1200x' alt='Todo lo que debes saber antes de comprar un Ferrari' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/guardia-civil-avisa-cuidado-correo-electronico-hace-pasar-endesa-1243246'>La Guardia Civil avisa: cuidado con este correo electrónico que se hace pasar por Endesa</a></h4>
-    <a href='https://computerhoy.com/hogar/guardia-civil-avisa-cuidado-correo-electronico-hace-pasar-endesa-1243246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/guardia-civil-avisa-cuidado-correo-electronico-hace-pasar-endesa-3030090.jpg?tf=1200x' alt='La Guardia Civil avisa: cuidado con este correo electrónico que se hace pasar por Endesa' />
+    <h4><a href='https://computerhoy.com/life/regla-80-lavadora-ropa-limpia-menor-riesgo-averias-1243354'>La regla del 80% para tu lavadora: ropa más limpia y menor riesgo de averías</a></h4>
+    <a href='https://computerhoy.com/life/regla-80-lavadora-ropa-limpia-menor-riesgo-averias-1243354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lavadora-3030328.jpg?tf=1200x' alt='La regla del 80% para tu lavadora: ropa más limpia y menor riesgo de averías' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/son-combustibles-sinteticos-quien-puede-utilizarlos-ahora-mismo-1243228'>¿Qué son los combustibles sintéticos y quién puede utilizarlos ahora mismo?</a></h4>
-    <a href='https://computerhoy.com/motor/son-combustibles-sinteticos-quien-puede-utilizarlos-ahora-mismo-1243228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/combustible-2993152.jpg?tf=1200x' alt='¿Qué son los combustibles sintéticos y quién puede utilizarlos ahora mismo?' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-defender-sobresale-mejores-antivirus-windows-pero-tiene-serio-problema-1243350'>Microsoft Defender sobresale entre los mejores antivirus de Windows pero tiene un serio problema</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-defender-sobresale-mejores-antivirus-windows-pero-tiene-serio-problema-1243350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg?tf=1200x' alt='Microsoft Defender sobresale entre los mejores antivirus de Windows pero tiene un serio problema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/realme-11-pro-realme-11-pro-son-oficiales-todas-caracteristicas-1243146'>Así son los nuevos realme 11 Pro y Pro+: cámaras de 200 MP y zoom sin pérdida de hasta 4x para apuntar a la gama media alta</a></h4>
-    <a href='https://computerhoy.com/moviles/realme-11-pro-realme-11-pro-son-oficiales-todas-caracteristicas-1243146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/realme-11-pro-3030034.jpg?tf=1200x' alt='Así son los nuevos realme 11 Pro y Pro+: cámaras de 200 MP y zoom sin pérdida de hasta 4x para apuntar a la gama media alta' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estas-10-populares-apps-android-te-cobran-sepas-1243298'>Comprueba si tienes instaladas algunas de estas 10 populares apps para Android: te cobran sin que lo sepas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estas-10-populares-apps-android-te-cobran-sepas-1243298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/malware-google-play-store-3030202.jpg?tf=1200x' alt='Comprueba si tienes instaladas algunas de estas 10 populares apps para Android: te cobran sin que lo sepas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elon-musk-acusa-whatsapp-espiarte-mientras-duermes-hay-cierto-1243090'>Elon Musk acusa a WhatsApp de espiarte mientras duermes: ¿qué hay de cierto en esto?</a></h4>
-    <a href='https://computerhoy.com/apps/elon-musk-acusa-whatsapp-espiarte-mientras-duermes-hay-cierto-1243090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-acusa-whatsapp-espiarte-mientras-duermes-hay-cierto-3030026.jpg?tf=1200x' alt='Elon Musk acusa a WhatsApp de espiarte mientras duermes: ¿qué hay de cierto en esto?' />
+    <h4><a href='https://computerhoy.com/espacio/eels-serpiente-robot-nasa-explorar-luna-helada-encelado-saturno-1243346'>Esta es la serpiente robot que la NASA va a enviar a explorar la luna helada Encélado de Saturno (vídeo)</a></h4>
+    <a href='https://computerhoy.com/espacio/eels-serpiente-robot-nasa-explorar-luna-helada-encelado-saturno-1243346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1683740296732-3030278.jpg?tf=1200x' alt='Esta es la serpiente robot que la NASA va a enviar a explorar la luna helada Encélado de Saturno (vídeo)' />
     </a>
 </div>
 
