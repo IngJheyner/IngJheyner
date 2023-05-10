@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/poco-f5-pro-oferta-lanzamiento-1242664'>Date prisa, el nuevo POCO F5 Pro se acaba de anunciar y ya tiene hasta 130€ de descuento</a></h4>
+    <a href='https://computerhoy.com/moviles/poco-f5-pro-oferta-lanzamiento-1242664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/familia-poco-f5-f5-pro-3029206.jpg?tf=1200x' alt='Date prisa, el nuevo POCO F5 Pro se acaba de anunciar y ya tiene hasta 130€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/venden-menos-moviles-mundo-pero-tipo-moviles-son-vendidos-1216260'>Se venden menos móviles, pero no de los que tú piensas</a></h4>
+    <a href='https://computerhoy.com/industria/venden-menos-moviles-mundo-pero-tipo-moviles-son-vendidos-1216260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/venden-menos-moviles-pero-no-piensas-3027882.jpg?tf=1200x' alt='Se venden menos móviles, pero no de los que tú piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/pccomponentes-dias-naranjas-ofertas-aire-acondicionado-ventiladores-1242560'>Llega el calor y en los Días Naranjas de PcComponentes hay ventiladores y aires acondicionados rebajados</a></h4>
+    <a href='https://computerhoy.com/hogar/pccomponentes-dias-naranjas-ofertas-aire-acondicionado-ventiladores-1242560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ofertas-dias-naranjas-pccomponentes-3028620.jpg?tf=1200x' alt='Llega el calor y en los Días Naranjas de PcComponentes hay ventiladores y aires acondicionados rebajados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/descubren-iceberg-falico-canada-1242968'>Descubren un iceberg fálico que ya se ha convertido en meme en las redes sociales</a></h4>
     <a href='https://computerhoy.com/life/descubren-iceberg-falico-canada-1242968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/descubren-iceberg-falico-ya-ha-convertido-meme-redes-sociales-3029556.jpg?tf=1200x' alt='Descubren un iceberg fálico que ya se ha convertido en meme en las redes sociales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/miles-hackers-def-con-hackear-chatgpt-inteligencia-artificial-1242732'>Miles de hackers se reunirán en agosto en Las Vegas con un solo objetivo: hackear ChatGPT y otras IAs</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/miles-hackers-def-con-hackear-chatgpt-inteligencia-artificial-1242732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/miles-hackers-reuniran-agosto-vegas-solo-objetivo-hackear-chatgpt-otras-ias-3029336.jpg?tf=1200x' alt='Miles de hackers se reunirán en agosto en Las Vegas con un solo objetivo: hackear ChatGPT y otras IAs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mallorca-ibiza-4-minutos-taxis-voladores-llegan-espana-1242690'>De Mallorca a Ibiza en 4 minutos: los taxis voladores llegan a España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mallorca-ibiza-4-minutos-taxis-voladores-llegan-espana-1242690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mallorca-ibiza-4-minutos-taxis-voladores-llegan-espana-3029266.jpg?tf=1200x' alt='De Mallorca a Ibiza en 4 minutos: los taxis voladores llegan a España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/te-molesto-cuentas-compartidas-netflix-mejor-no-veas-te-espera-coche-1242684'>Si te molestó lo de las cuentas compartidas de Netflix, mejor no veas lo que te espera con tu coche </a></h4>
-    <a href='https://computerhoy.com/motor/te-molesto-cuentas-compartidas-netflix-mejor-no-veas-te-espera-coche-1242684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/persona-enojada-coche-3029240.jpg?tf=1200x' alt='Si te molestó lo de las cuentas compartidas de Netflix, mejor no veas lo que te espera con tu coche ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/james-webb-nasa-captura-imagenes-nunca-vistas-estrella-25-anos-luz-distancia-1242712'>James Webb de la NASA captura imágenes nunca vistas de una estrella a 25 años luz de distancia</a></h4>
-    <a href='https://computerhoy.com/espacio/james-webb-nasa-captura-imagenes-nunca-vistas-estrella-25-anos-luz-distancia-1242712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/telescopio-james-webb-nasa-2747455.jpg?tf=1200x' alt='James Webb de la NASA captura imágenes nunca vistas de una estrella a 25 años luz de distancia' />
     </a>
 </div>
 
