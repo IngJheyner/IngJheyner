@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/precalentar-horno-puede-ser-perdida-tiempo-dinero-1242966'>Por qué precalentar el horno puede ser una perdida de tiempo y dinero</a></h4>
+    <a href='https://computerhoy.com/alimentacion/precalentar-horno-puede-ser-perdida-tiempo-dinero-1242966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/horno-tarta.jpg?tf=1200x' alt='Por qué precalentar el horno puede ser una perdida de tiempo y dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/deberias-quitar-funda-movil-antes-ponerlo-cargar-1243068'>¿Deberías quitar la funda al móvil antes de ponerlo a cargar?</a></h4>
     <a href='https://computerhoy.com/moviles/deberias-quitar-funda-movil-antes-ponerlo-cargar-1243068' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/deberias-quitar-funda-movil-antes-ponerlo-cargar-3029702.jpg?tf=1200x' alt='¿Deberías quitar la funda al móvil antes de ponerlo a cargar?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/trucos-ahorro-tiktok-trampa-mortal-expertos-1242998'>Los trucos de ahorro de TikTok son una trampa mortal, según los expertos</a></h4>
     <a href='https://computerhoy.com/redes-sociales/trucos-ahorro-tiktok-trampa-mortal-expertos-1242998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/trucos-ahorro-tiktok-son-trampa-mortal-expertos-3029560.jpg?tf=1200x' alt='Los trucos de ahorro de TikTok son una trampa mortal, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/poco-f5-pro-oferta-lanzamiento-1242664'>Date prisa, el nuevo POCO F5 Pro se acaba de anunciar y ya tiene hasta 130€ de descuento</a></h4>
-    <a href='https://computerhoy.com/moviles/poco-f5-pro-oferta-lanzamiento-1242664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/familia-poco-f5-f5-pro-3029206.jpg?tf=1200x' alt='Date prisa, el nuevo POCO F5 Pro se acaba de anunciar y ya tiene hasta 130€ de descuento' />
     </a>
 </div>
 
