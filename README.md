@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/deberias-quitar-funda-movil-antes-ponerlo-cargar-1243068'>¿Deberías quitar la funda al móvil antes de ponerlo a cargar?</a></h4>
+    <a href='https://computerhoy.com/moviles/deberias-quitar-funda-movil-antes-ponerlo-cargar-1243068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/deberias-quitar-funda-movil-antes-ponerlo-cargar-3029702.jpg?tf=1200x' alt='¿Deberías quitar la funda al móvil antes de ponerlo a cargar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/teoria-iphone-podria-ser-clave-descubrir-final-succession-1243018'>La teoría del iPhone podría ser la clave para descubrir el final de Succession</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/teoria-iphone-podria-ser-clave-descubrir-final-succession-1243018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/teoria-iphone-podria-ser-clave-descubrir-final-succession-3029624.jpg?tf=1200x' alt='La teoría del iPhone podría ser la clave para descubrir el final de Succession' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-utilizar-chatgpt-estudiar-hacer-trampas-1242996'>Cómo utilizar ChatGPT para estudiar sin hacer trampas</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-utilizar-chatgpt-estudiar-hacer-trampas-1242996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/como-utilizar-chatgpt-estudiar-hacer-trampas-3029598.jpg?tf=1200x' alt='Cómo utilizar ChatGPT para estudiar sin hacer trampas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/poco-f5-pro-oferta-lanzamiento-1242664'>Date prisa, el nuevo POCO F5 Pro se acaba de anunciar y ya tiene hasta 130€ de descuento</a></h4>
     <a href='https://computerhoy.com/moviles/poco-f5-pro-oferta-lanzamiento-1242664' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/familia-poco-f5-f5-pro-3029206.jpg?tf=1200x' alt='Date prisa, el nuevo POCO F5 Pro se acaba de anunciar y ya tiene hasta 130€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/venden-menos-moviles-mundo-pero-tipo-moviles-son-vendidos-1216260'>Se venden menos móviles, pero no de los que tú piensas</a></h4>
-    <a href='https://computerhoy.com/industria/venden-menos-moviles-mundo-pero-tipo-moviles-son-vendidos-1216260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/venden-menos-moviles-pero-no-piensas-3027882.jpg?tf=1200x' alt='Se venden menos móviles, pero no de los que tú piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/pccomponentes-dias-naranjas-ofertas-aire-acondicionado-ventiladores-1242560'>Llega el calor y en los Días Naranjas de PcComponentes hay ventiladores y aires acondicionados rebajados</a></h4>
-    <a href='https://computerhoy.com/hogar/pccomponentes-dias-naranjas-ofertas-aire-acondicionado-ventiladores-1242560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ofertas-dias-naranjas-pccomponentes-3028620.jpg?tf=1200x' alt='Llega el calor y en los Días Naranjas de PcComponentes hay ventiladores y aires acondicionados rebajados' />
     </a>
 </div>
 
