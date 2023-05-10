@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/memoria-ram-ddr6-caracteristicas-precio-fecha-lanzamiento-1242678'>Cuándo llegará la memoria RAM DDR6, características y posible precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/memoria-ram-ddr6-caracteristicas-precio-fecha-lanzamiento-1242678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/samsung-ddr6-3029238.jpg?tf=1200x' alt='Cuándo llegará la memoria RAM DDR6, características y posible precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/guardia-civil-avisa-cuidado-correo-electronico-hace-pasar-endesa-1243246'>La Guardia Civil avisa: cuidado con este correo electrónico que se hace pasar por Endesa</a></h4>
+    <a href='https://computerhoy.com/hogar/guardia-civil-avisa-cuidado-correo-electronico-hace-pasar-endesa-1243246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/guardia-civil-avisa-cuidado-correo-electronico-hace-pasar-endesa-3030090.jpg?tf=1200x' alt='La Guardia Civil avisa: cuidado con este correo electrónico que se hace pasar por Endesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/son-combustibles-sinteticos-quien-puede-utilizarlos-ahora-mismo-1243228'>¿Qué son los combustibles sintéticos y quién puede utilizarlos ahora mismo?</a></h4>
+    <a href='https://computerhoy.com/motor/son-combustibles-sinteticos-quien-puede-utilizarlos-ahora-mismo-1243228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/combustible-2993152.jpg?tf=1200x' alt='¿Qué son los combustibles sintéticos y quién puede utilizarlos ahora mismo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/realme-11-pro-realme-11-pro-son-oficiales-todas-caracteristicas-1243146'>Así son los nuevos realme 11 Pro y Pro+: cámaras de 200 MP y zoom sin pérdida de hasta 4x para apuntar a la gama media alta</a></h4>
+    <a href='https://computerhoy.com/moviles/realme-11-pro-realme-11-pro-son-oficiales-todas-caracteristicas-1243146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/realme-11-pro-3030034.jpg?tf=1200x' alt='Así son los nuevos realme 11 Pro y Pro+: cámaras de 200 MP y zoom sin pérdida de hasta 4x para apuntar a la gama media alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/elon-musk-acusa-whatsapp-espiarte-mientras-duermes-hay-cierto-1243090'>Elon Musk acusa a WhatsApp de espiarte mientras duermes: ¿qué hay de cierto en esto?</a></h4>
     <a href='https://computerhoy.com/apps/elon-musk-acusa-whatsapp-espiarte-mientras-duermes-hay-cierto-1243090' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-acusa-whatsapp-espiarte-mientras-duermes-hay-cierto-3030026.jpg?tf=1200x' alt='Elon Musk acusa a WhatsApp de espiarte mientras duermes: ¿qué hay de cierto en esto?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/precalentar-horno-puede-ser-perdida-tiempo-dinero-1242966'>Por qué precalentar el horno puede ser una perdida de tiempo y dinero</a></h4>
-    <a href='https://computerhoy.com/alimentacion/precalentar-horno-puede-ser-perdida-tiempo-dinero-1242966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/horno-tarta.jpg?tf=1200x' alt='Por qué precalentar el horno puede ser una perdida de tiempo y dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/deberias-quitar-funda-movil-antes-ponerlo-cargar-1243068'>¿Deberías quitar la funda al móvil antes de ponerlo a cargar?</a></h4>
-    <a href='https://computerhoy.com/moviles/deberias-quitar-funda-movil-antes-ponerlo-cargar-1243068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/deberias-quitar-funda-movil-antes-ponerlo-cargar-3029702.jpg?tf=1200x' alt='¿Deberías quitar la funda al móvil antes de ponerlo a cargar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/teoria-iphone-podria-ser-clave-descubrir-final-succession-1243018'>La teoría del iPhone podría ser la clave para descubrir el final de Succession</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/teoria-iphone-podria-ser-clave-descubrir-final-succession-1243018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/teoria-iphone-podria-ser-clave-descubrir-final-succession-3029624.jpg?tf=1200x' alt='La teoría del iPhone podría ser la clave para descubrir el final de Succession' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-utilizar-chatgpt-estudiar-hacer-trampas-1242996'>Cómo utilizar ChatGPT para estudiar sin hacer trampas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-utilizar-chatgpt-estudiar-hacer-trampas-1242996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/como-utilizar-chatgpt-estudiar-hacer-trampas-3029598.jpg?tf=1200x' alt='Cómo utilizar ChatGPT para estudiar sin hacer trampas' />
     </a>
 </div>
 
