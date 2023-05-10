@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-utilizar-chatgpt-estudiar-hacer-trampas-1242996'>Cómo utilizar ChatGPT para estudiar sin hacer trampas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-utilizar-chatgpt-estudiar-hacer-trampas-1242996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/como-utilizar-chatgpt-estudiar-hacer-trampas-3029598.jpg?tf=1200x' alt='Cómo utilizar ChatGPT para estudiar sin hacer trampas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/trucos-ahorro-tiktok-trampa-mortal-expertos-1242998'>Los trucos de ahorro de TikTok son una trampa mortal, según los expertos</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/trucos-ahorro-tiktok-trampa-mortal-expertos-1242998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/trucos-ahorro-tiktok-son-trampa-mortal-expertos-3029560.jpg?tf=1200x' alt='Los trucos de ahorro de TikTok son una trampa mortal, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/poco-f5-pro-oferta-lanzamiento-1242664'>Date prisa, el nuevo POCO F5 Pro se acaba de anunciar y ya tiene hasta 130€ de descuento</a></h4>
     <a href='https://computerhoy.com/moviles/poco-f5-pro-oferta-lanzamiento-1242664' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/familia-poco-f5-f5-pro-3029206.jpg?tf=1200x' alt='Date prisa, el nuevo POCO F5 Pro se acaba de anunciar y ya tiene hasta 130€ de descuento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/pccomponentes-dias-naranjas-ofertas-aire-acondicionado-ventiladores-1242560'>Llega el calor y en los Días Naranjas de PcComponentes hay ventiladores y aires acondicionados rebajados</a></h4>
     <a href='https://computerhoy.com/hogar/pccomponentes-dias-naranjas-ofertas-aire-acondicionado-ventiladores-1242560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ofertas-dias-naranjas-pccomponentes-3028620.jpg?tf=1200x' alt='Llega el calor y en los Días Naranjas de PcComponentes hay ventiladores y aires acondicionados rebajados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubren-iceberg-falico-canada-1242968'>Descubren un iceberg fálico que ya se ha convertido en meme en las redes sociales</a></h4>
-    <a href='https://computerhoy.com/life/descubren-iceberg-falico-canada-1242968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/descubren-iceberg-falico-ya-ha-convertido-meme-redes-sociales-3029556.jpg?tf=1200x' alt='Descubren un iceberg fálico que ya se ha convertido en meme en las redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/miles-hackers-def-con-hackear-chatgpt-inteligencia-artificial-1242732'>Miles de hackers se reunirán en agosto en Las Vegas con un solo objetivo: hackear ChatGPT y otras IAs</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/miles-hackers-def-con-hackear-chatgpt-inteligencia-artificial-1242732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/miles-hackers-reuniran-agosto-vegas-solo-objetivo-hackear-chatgpt-otras-ias-3029336.jpg?tf=1200x' alt='Miles de hackers se reunirán en agosto en Las Vegas con un solo objetivo: hackear ChatGPT y otras IAs' />
     </a>
 </div>
 
