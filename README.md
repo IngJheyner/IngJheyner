@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-olvida-youtube-waze-android-auto-aunque-llegaran-android-automotive-1243862'>Google se olvida de YouTube y Waze en Android Auto, aunque llegarán a Android Automotive</a></h4>
-    <a href='https://computerhoy.com/android/google-olvida-youtube-waze-android-auto-aunque-llegaran-android-automotive-1243862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-olvida-youtube-waze-android-auto-aunque-llegaran-android-automotive-3031404.jpg?tf=1200x' alt='Google se olvida de YouTube y Waze en Android Auto, aunque llegarán a Android Automotive' />
+    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-encuentra-exoplaneta-nasa-tilda-como-mini-neptuno-1243944'>El telescopio James Webb encuentra un exoplaneta que la NASA tilda como “mini-Neptuno”</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-james-webb-encuentra-exoplaneta-nasa-tilda-como-mini-neptuno-1243944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/telescopio-james-webb-encuentra-exoplaneta-nasa-tilda-como-mini-neptuno-3031584.jpg?tf=1200x' alt='El telescopio James Webb encuentra un exoplaneta que la NASA tilda como “mini-Neptuno”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/union-europea-da-primer-paso-regular-ia-tiene-chatgpt-punto-mira-1243860'>La Unión Europea da el primer paso para regular la IA y tiene a ChatGPT en el punto de mira</a></h4>
-    <a href='https://computerhoy.com/legislacion/union-europea-da-primer-paso-regular-ia-tiene-chatgpt-punto-mira-1243860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/union-europea-1982971.jpg?tf=1200x' alt='La Unión Europea da el primer paso para regular la IA y tiene a ChatGPT en el punto de mira' />
+    <h4><a href='https://computerhoy.com/smartwatches/casio-lanza-smartwatch-siempre-has-deseado-tener-1243914'>Casio lanza el smartwatch que siempre has deseado: indestructible y con batería casi infinita</a></h4>
+    <a href='https://computerhoy.com/smartwatches/casio-lanza-smartwatch-siempre-has-deseado-tener-1243914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/casio-indestructible-3031498.jpg?tf=1200x' alt='Casio lanza el smartwatch que siempre has deseado: indestructible y con batería casi infinita' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/youtube-prohibe-bloqueadores-anuncios-quieres-ver-videos-1243852'>YouTube prohíbe los bloqueadores de anuncios, si quieres ver sus vídeos</a></h4>
-    <a href='https://computerhoy.com/streaming/youtube-prohibe-bloqueadores-anuncios-quieres-ver-videos-1243852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/youtube-no-me-gusta-algoritmo-2819897.jpg?tf=1200x' alt='YouTube prohíbe los bloqueadores de anuncios, si quieres ver sus vídeos' />
+    <h4><a href='https://computerhoy.com/audio/fairbuds-xl-auriculares-modulares-podras-reparar-1243922'>Fairbuds XL, los auriculares modulares que podrás reparar</a></h4>
+    <a href='https://computerhoy.com/audio/fairbuds-xl-auriculares-modulares-podras-reparar-1243922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/fairbuds-xl-auriculares-modulares-puedes-reparar-casa-3031528.jpg?tf=1200x' alt='Fairbuds XL, los auriculares modulares que podrás reparar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/tiembla-netflix-disney-fusiona-hulu-podras-ver-series-peliculas-hulu-espana-1243802'>¡Tiembla Netflix! Disney Plus se fusiona con Hulu: ¿podrás ver las series y películas de Hulu en España?</a></h4>
-    <a href='https://computerhoy.com/streaming/tiembla-netflix-disney-fusiona-hulu-podras-ver-series-peliculas-hulu-espana-1243802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tiembla-netflix-disney-plus-fusiona-hulu-podras-ver-series-peliculas-hulu-espana-3031202.jpg?tf=1200x' alt='¡Tiembla Netflix! Disney Plus se fusiona con Hulu: ¿podrás ver las series y películas de Hulu en España?' />
+    <h4><a href='https://computerhoy.com/criptos/enesima-burbuja-bitcoin-pinchando-otra-vez-1243888'>La enésima burbuja de Bitcoin se está pinchando, otra vez</a></h4>
+    <a href='https://computerhoy.com/criptos/enesima-burbuja-bitcoin-pinchando-otra-vez-1243888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/btc-cae-otra-vez-3031450.jpg?tf=1200x' alt='La enésima burbuja de Bitcoin se está pinchando, otra vez' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/influencer-ha-creado-version-ia-misma-cobra-gente-salir-ella-1243750'>Esta influencer ha creado una versión de IA de sí misma y cobra a la gente para tener una cita con ella</a></h4>
-    <a href='https://computerhoy.com/tecnologia/influencer-ha-creado-version-ia-misma-cobra-gente-salir-ella-1243750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/influencer-ha-creado-version-ia-misma-cobra-gente-salir-ella-3031060.jpg?tf=1200x' alt='Esta influencer ha creado una versión de IA de sí misma y cobra a la gente para tener una cita con ella' />
+    <h4><a href='https://computerhoy.com/life/policia-nacional-alerta-nueva-estafa-te-roba-contrasenas-banco-telefono-1243878'>La Policía Nacional alerta de una nueva estafa que te roba las contraseñas del banco por teléfono</a></h4>
+    <a href='https://computerhoy.com/life/policia-nacional-alerta-nueva-estafa-te-roba-contrasenas-banco-telefono-1243878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/telefono-movil-3022286.jpg?tf=1200x' alt='La Policía Nacional alerta de una nueva estafa que te roba las contraseñas del banco por teléfono' />
     </a>
 </div>
 
