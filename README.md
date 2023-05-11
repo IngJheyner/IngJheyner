@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-i-2023-6-grandes-anuncios-hicieron-evento-1243646'>Resumen del Google I/O 2023: 6 grandes anuncios que se hicieron durante el evento</a></h4>
+    <a href='https://computerhoy.com/google/google-i-2023-6-grandes-anuncios-hicieron-evento-1243646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-i-2023-2977082.jpg?tf=1200x' alt='Resumen del Google I/O 2023: 6 grandes anuncios que se hicieron durante el evento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/google-pixel-7a-analisis-review-caracteristicas-precio-1237044'>Google Pixel 7a, el móvil barato de Google que se mide con los mayores</a></h4>
     <a href='https://computerhoy.com/analisis/google-pixel-7a-analisis-review-caracteristicas-precio-1237044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029762.jpg?tf=1200x' alt='Google Pixel 7a, el móvil barato de Google que se mide con los mayores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-642-computer-hoy-1237076'>¡Ya está en tu quiosco el número 642 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-642-computer-hoy-1237076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/computer-hoy-642-3024228.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 642 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/google-pixel-fold-plegable-estandarizacion-android-plegables-1243314'>Google Pixel Fold es más que un plegable, es el salto evolutivo de Android a los plegables</a></h4>
-    <a href='https://computerhoy.com/moviles/google-pixel-fold-plegable-estandarizacion-android-plegables-1243314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-fold-3030354.jpg?tf=1200x' alt='Google Pixel Fold es más que un plegable, es el salto evolutivo de Android a los plegables' />
     </a>
 </div>
 
