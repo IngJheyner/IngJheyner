@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/microsoft-firma-acuerdo-usar-fusion-nuclear-servidores-1243364'>Microsoft firma un acuerdo histórico para usar la fusión nuclear en sus servidores</a></h4>
+    <a href='https://computerhoy.com/energia/microsoft-firma-acuerdo-usar-fusion-nuclear-servidores-1243364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/microsoft-firma-acuerdo-historico-usar-fusion-nuclear-servidores-ia-puede-convertirlo-realidad-3030342.jpg?tf=1200x' alt='Microsoft firma un acuerdo histórico para usar la fusión nuclear en sus servidores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/todo-debes-saber-antes-comprar-ferrari-1243312'>Todo lo que debes saber antes de comprar un Ferrari</a></h4>
     <a href='https://computerhoy.com/motor/todo-debes-saber-antes-comprar-ferrari-1243312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/subasta-ferrari-testarossa-2864069.jpg?tf=1200x' alt='Todo lo que debes saber antes de comprar un Ferrari' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/estas-10-populares-apps-android-te-cobran-sepas-1243298'>Comprueba si tienes instaladas algunas de estas 10 populares apps para Android: te cobran sin que lo sepas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estas-10-populares-apps-android-te-cobran-sepas-1243298' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/malware-google-play-store-3030202.jpg?tf=1200x' alt='Comprueba si tienes instaladas algunas de estas 10 populares apps para Android: te cobran sin que lo sepas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/eels-serpiente-robot-nasa-explorar-luna-helada-encelado-saturno-1243346'>Esta es la serpiente robot que la NASA va a enviar a explorar la luna helada Encélado de Saturno (vídeo)</a></h4>
-    <a href='https://computerhoy.com/espacio/eels-serpiente-robot-nasa-explorar-luna-helada-encelado-saturno-1243346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1683740296732-3030278.jpg?tf=1200x' alt='Esta es la serpiente robot que la NASA va a enviar a explorar la luna helada Encélado de Saturno (vídeo)' />
     </a>
 </div>
 
