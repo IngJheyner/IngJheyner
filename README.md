@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/google-pixel-7a-analisis-review-caracteristicas-precio-1237044'>Google Pixel 7a, el móvil barato de Google que se mide con los mayores</a></h4>
+    <a href='https://computerhoy.com/analisis/google-pixel-7a-analisis-review-caracteristicas-precio-1237044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029762.jpg?tf=1200x' alt='Google Pixel 7a, el móvil barato de Google que se mide con los mayores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-detalla-hoja-ruta-fecha-critica-millones-usuarios-windows-1243636'>Microsoft detalla su hoja de ruta con una fecha crítica para millones de usuarios de Windows</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-detalla-hoja-ruta-fecha-critica-millones-usuarios-windows-1243636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ultima-actualizacion-windows-10-11-trae-consigo-problemas-red-puedes-solucionarlos-2846589.jpg?tf=1200x' alt='Microsoft detalla su hoja de ruta con una fecha crítica para millones de usuarios de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/google-pixel-7a-oferta-lanzamiento-regalo-gratis-1243620'>Ya te puedes comprar el nuevo Google Pixel 7a y de regalo te llevas unos auriculares Pixel Buds A</a></h4>
+    <a href='https://computerhoy.com/moviles/google-pixel-7a-oferta-lanzamiento-regalo-gratis-1243620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029776.jpg?tf=1200x' alt='Ya te puedes comprar el nuevo Google Pixel 7a y de regalo te llevas unos auriculares Pixel Buds A' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-642-computer-hoy-1237076'>¡Ya está en tu quiosco el número 642 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-642-computer-hoy-1237076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/computer-hoy-642-3024228.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 642 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/google-pixel-fold-plegable-estandarizacion-android-plegables-1243314'>Google Pixel Fold es más que un plegable, es el salto evolutivo de Android a los plegables</a></h4>
     <a href='https://computerhoy.com/moviles/google-pixel-fold-plegable-estandarizacion-android-plegables-1243314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-fold-3030354.jpg?tf=1200x' alt='Google Pixel Fold es más que un plegable, es el salto evolutivo de Android a los plegables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/vpn-streaming-1243242'>Estas son las mejores VPN para vídeo en streaming</a></h4>
-    <a href='https://computerhoy.com/mejores/vpn-streaming-1243242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/smart-tv-logo-netflix-persona-descansando-pies-alto-3030208.jpg?tf=1200x' alt='Estas son las mejores VPN para vídeo en streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/video-ciervo-gran-cornamenta-consigue-cruzar-puerta-1243584'>No te vas a creer cómo este ciervo de enorme cornamenta consigue cruzar la puerta</a></h4>
-    <a href='https://computerhoy.com/life/video-ciervo-gran-cornamenta-consigue-cruzar-puerta-1243584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/no-te-vas-creer-como-ciervo-grandes-cuernos-consigue-cruzar-puerta-3030586.jpg?tf=1200x' alt='No te vas a creer cómo este ciervo de enorme cornamenta consigue cruzar la puerta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sony-xperia-1-v-nuevo-sensor-exmor-t-prestaciones-profesionales-camara-pegada-movil-1243342'>Sony Xperia 1 V: nuevo sensor Exmor T y prestaciones profesionales para una cámara pegada a un móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/sony-xperia-1-v-nuevo-sensor-exmor-t-prestaciones-profesionales-camara-pegada-movil-1243342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/sony-xperia-1-v-3030372.jpg?tf=1200x' alt='Sony Xperia 1 V: nuevo sensor Exmor T y prestaciones profesionales para una cámara pegada a un móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/60-estatuas-mas-altas-mundo-video-1243582'>La Estatua de la Libertad es un juguete al lado de las 60 estatuas más altas del mundo, cara a cara (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/60-estatuas-mas-altas-mundo-video-1243582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estatua-libertad-juguete-lado-60-estatuas-altas-mundo-cara-cara-video-3030384.jpg?tf=1200x' alt='La Estatua de la Libertad es un juguete al lado de las 60 estatuas más altas del mundo, cara a cara (vídeo)' />
     </a>
 </div>
 
