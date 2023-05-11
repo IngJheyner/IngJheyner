@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/youtube-prohibe-bloqueadores-anuncios-quieres-ver-videos-1243852'>YouTube prohíbe los bloqueadores de anuncios, si quieres ver sus vídeos</a></h4>
+    <a href='https://computerhoy.com/streaming/youtube-prohibe-bloqueadores-anuncios-quieres-ver-videos-1243852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/youtube-no-me-gusta-algoritmo-2819897.jpg?tf=1200x' alt='YouTube prohíbe los bloqueadores de anuncios, si quieres ver sus vídeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/tiembla-netflix-disney-fusiona-hulu-podras-ver-series-peliculas-hulu-espana-1243802'>¡Tiembla Netflix! Disney Plus se fusiona con Hulu: ¿podrás ver las series y películas de Hulu en España?</a></h4>
+    <a href='https://computerhoy.com/streaming/tiembla-netflix-disney-fusiona-hulu-podras-ver-series-peliculas-hulu-espana-1243802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tiembla-netflix-disney-plus-fusiona-hulu-podras-ver-series-peliculas-hulu-espana-3031202.jpg?tf=1200x' alt='¡Tiembla Netflix! Disney Plus se fusiona con Hulu: ¿podrás ver las series y películas de Hulu en España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/influencer-ha-creado-version-ia-misma-cobra-gente-salir-ella-1243750'>Esta influencer ha creado una versión de IA de sí misma y cobra a la gente para tener una cita con ella</a></h4>
     <a href='https://computerhoy.com/tecnologia/influencer-ha-creado-version-ia-misma-cobra-gente-salir-ella-1243750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/influencer-ha-creado-version-ia-misma-cobra-gente-salir-ella-3031060.jpg?tf=1200x' alt='Esta influencer ha creado una versión de IA de sí misma y cobra a la gente para tener una cita con ella' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-presenta-vista-inmersiva-maps-parece-sacada-videojuego-1243678'>Google presenta la vista inmersiva para Maps y parece sacada de un videojuego</a></h4>
     <a href='https://computerhoy.com/google/google-presenta-vista-inmersiva-maps-parece-sacada-videojuego-1243678' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-presenta-vista-inmersiva-maps-parece-sacada-videojuego-3030804.jpg?tf=1200x' alt='Google presenta la vista inmersiva para Maps y parece sacada de un videojuego' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-i-2023-6-grandes-anuncios-hicieron-evento-1243646'>Resumen del Google I/O 2023: 6 grandes anuncios que se hicieron durante el evento</a></h4>
-    <a href='https://computerhoy.com/google/google-i-2023-6-grandes-anuncios-hicieron-evento-1243646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-i-2023-2977082.jpg?tf=1200x' alt='Resumen del Google I/O 2023: 6 grandes anuncios que se hicieron durante el evento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/google-pixel-7a-analisis-review-caracteristicas-precio-1237044'>Google Pixel 7a, el móvil barato de Google que se mide con los mayores</a></h4>
-    <a href='https://computerhoy.com/analisis/google-pixel-7a-analisis-review-caracteristicas-precio-1237044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029762.jpg?tf=1200x' alt='Google Pixel 7a, el móvil barato de Google que se mide con los mayores' />
     </a>
 </div>
 
