@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/influencer-ha-creado-version-ia-misma-cobra-gente-salir-ella-1243750'>Esta influencer ha creado una versión de IA de sí misma y cobra a la gente para tener una cita con ella</a></h4>
+    <a href='https://computerhoy.com/tecnologia/influencer-ha-creado-version-ia-misma-cobra-gente-salir-ella-1243750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/influencer-ha-creado-version-ia-misma-cobra-gente-salir-ella-3031060.jpg?tf=1200x' alt='Esta influencer ha creado una versión de IA de sí misma y cobra a la gente para tener una cita con ella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/precio-minimo-historico-tablet-samsung-galaxy-tab-s7-fe-1243738'>Precio mínimo histórico para la tablet Samsung Galaxy Tab S7 FE</a></h4>
+    <a href='https://computerhoy.com/tecnologia/precio-minimo-historico-tablet-samsung-galaxy-tab-s7-fe-1243738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/analisis-samsung-galaxy-tab-s7-fe-2424433.jpg?tf=1200x' alt='Precio mínimo histórico para la tablet Samsung Galaxy Tab S7 FE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-presenta-vista-inmersiva-maps-parece-sacada-videojuego-1243678'>Google presenta la vista inmersiva para Maps y parece sacada de un videojuego</a></h4>
+    <a href='https://computerhoy.com/google/google-presenta-vista-inmersiva-maps-parece-sacada-videojuego-1243678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-presenta-vista-inmersiva-maps-parece-sacada-videojuego-3030804.jpg?tf=1200x' alt='Google presenta la vista inmersiva para Maps y parece sacada de un videojuego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-i-2023-6-grandes-anuncios-hicieron-evento-1243646'>Resumen del Google I/O 2023: 6 grandes anuncios que se hicieron durante el evento</a></h4>
     <a href='https://computerhoy.com/google/google-i-2023-6-grandes-anuncios-hicieron-evento-1243646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-i-2023-2977082.jpg?tf=1200x' alt='Resumen del Google I/O 2023: 6 grandes anuncios que se hicieron durante el evento' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/google-pixel-7a-analisis-review-caracteristicas-precio-1237044'>Google Pixel 7a, el móvil barato de Google que se mide con los mayores</a></h4>
     <a href='https://computerhoy.com/analisis/google-pixel-7a-analisis-review-caracteristicas-precio-1237044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029762.jpg?tf=1200x' alt='Google Pixel 7a, el móvil barato de Google que se mide con los mayores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-detalla-hoja-ruta-fecha-critica-millones-usuarios-windows-1243636'>Microsoft detalla su hoja de ruta con una fecha crítica para millones de usuarios de Windows</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-detalla-hoja-ruta-fecha-critica-millones-usuarios-windows-1243636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ultima-actualizacion-windows-10-11-trae-consigo-problemas-red-puedes-solucionarlos-2846589.jpg?tf=1200x' alt='Microsoft detalla su hoja de ruta con una fecha crítica para millones de usuarios de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/google-pixel-7a-oferta-lanzamiento-regalo-gratis-1243620'>Ya te puedes comprar el nuevo Google Pixel 7a y de regalo te llevas unos auriculares Pixel Buds A</a></h4>
-    <a href='https://computerhoy.com/moviles/google-pixel-7a-oferta-lanzamiento-regalo-gratis-1243620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029776.jpg?tf=1200x' alt='Ya te puedes comprar el nuevo Google Pixel 7a y de regalo te llevas unos auriculares Pixel Buds A' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-642-computer-hoy-1237076'>¡Ya está en tu quiosco el número 642 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-642-computer-hoy-1237076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/computer-hoy-642-3024228.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 642 de Computer Hoy!' />
     </a>
 </div>
 
