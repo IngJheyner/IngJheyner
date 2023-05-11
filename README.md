@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-olvida-youtube-waze-android-auto-aunque-llegaran-android-automotive-1243862'>Google se olvida de YouTube y Waze en Android Auto, aunque llegarán a Android Automotive</a></h4>
+    <a href='https://computerhoy.com/android/google-olvida-youtube-waze-android-auto-aunque-llegaran-android-automotive-1243862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-olvida-youtube-waze-android-auto-aunque-llegaran-android-automotive-3031404.jpg?tf=1200x' alt='Google se olvida de YouTube y Waze en Android Auto, aunque llegarán a Android Automotive' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/legislacion/union-europea-da-primer-paso-regular-ia-tiene-chatgpt-punto-mira-1243860'>La Unión Europea da el primer paso para regular la IA y tiene a ChatGPT en el punto de mira</a></h4>
+    <a href='https://computerhoy.com/legislacion/union-europea-da-primer-paso-regular-ia-tiene-chatgpt-punto-mira-1243860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/union-europea-1982971.jpg?tf=1200x' alt='La Unión Europea da el primer paso para regular la IA y tiene a ChatGPT en el punto de mira' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/youtube-prohibe-bloqueadores-anuncios-quieres-ver-videos-1243852'>YouTube prohíbe los bloqueadores de anuncios, si quieres ver sus vídeos</a></h4>
     <a href='https://computerhoy.com/streaming/youtube-prohibe-bloqueadores-anuncios-quieres-ver-videos-1243852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/youtube-no-me-gusta-algoritmo-2819897.jpg?tf=1200x' alt='YouTube prohíbe los bloqueadores de anuncios, si quieres ver sus vídeos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/influencer-ha-creado-version-ia-misma-cobra-gente-salir-ella-1243750'>Esta influencer ha creado una versión de IA de sí misma y cobra a la gente para tener una cita con ella</a></h4>
     <a href='https://computerhoy.com/tecnologia/influencer-ha-creado-version-ia-misma-cobra-gente-salir-ella-1243750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/influencer-ha-creado-version-ia-misma-cobra-gente-salir-ella-3031060.jpg?tf=1200x' alt='Esta influencer ha creado una versión de IA de sí misma y cobra a la gente para tener una cita con ella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/precio-minimo-historico-tablet-samsung-galaxy-tab-s7-fe-1243738'>Precio mínimo histórico para la tablet Samsung Galaxy Tab S7 FE</a></h4>
-    <a href='https://computerhoy.com/tecnologia/precio-minimo-historico-tablet-samsung-galaxy-tab-s7-fe-1243738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/analisis-samsung-galaxy-tab-s7-fe-2424433.jpg?tf=1200x' alt='Precio mínimo histórico para la tablet Samsung Galaxy Tab S7 FE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-presenta-vista-inmersiva-maps-parece-sacada-videojuego-1243678'>Google presenta la vista inmersiva para Maps y parece sacada de un videojuego</a></h4>
-    <a href='https://computerhoy.com/google/google-presenta-vista-inmersiva-maps-parece-sacada-videojuego-1243678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-presenta-vista-inmersiva-maps-parece-sacada-videojuego-3030804.jpg?tf=1200x' alt='Google presenta la vista inmersiva para Maps y parece sacada de un videojuego' />
     </a>
 </div>
 
