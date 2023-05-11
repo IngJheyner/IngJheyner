@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/60-estatuas-mas-altas-mundo-video-1243582'>La Estatua de la Libertad es un juguete al lado de las 60 estatuas más altas del mundo, cara a cara (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/60-estatuas-mas-altas-mundo-video-1243582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estatua-libertad-juguete-lado-60-estatuas-altas-mundo-cara-cara-video-3030384.jpg?tf=1200x' alt='La Estatua de la Libertad es un juguete al lado de las 60 estatuas más altas del mundo, cara a cara (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-toma-medidas-drasticas-huega-guionistas-paraliza-series-1243370'>La huelga de guionistas paraliza Strange Things y Cobra Kai y obliga a Netflix a tomar medidas drásticas</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-toma-medidas-drasticas-huega-guionistas-paraliza-series-1243370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/stranger-things-4-2948512.jpg?tf=1200x' alt='La huelga de guionistas paraliza Strange Things y Cobra Kai y obliga a Netflix a tomar medidas drásticas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/microsoft-firma-acuerdo-usar-fusion-nuclear-servidores-1243364'>Microsoft firma un acuerdo histórico para usar la fusión nuclear en sus servidores</a></h4>
     <a href='https://computerhoy.com/energia/microsoft-firma-acuerdo-usar-fusion-nuclear-servidores-1243364' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/microsoft-firma-acuerdo-historico-usar-fusion-nuclear-servidores-ia-puede-convertirlo-realidad-3030342.jpg?tf=1200x' alt='Microsoft firma un acuerdo histórico para usar la fusión nuclear en sus servidores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/regla-80-lavadora-ropa-limpia-menor-riesgo-averias-1243354'>La regla del 80% para tu lavadora: ropa más limpia y menor riesgo de averías</a></h4>
     <a href='https://computerhoy.com/life/regla-80-lavadora-ropa-limpia-menor-riesgo-averias-1243354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lavadora-3030328.jpg?tf=1200x' alt='La regla del 80% para tu lavadora: ropa más limpia y menor riesgo de averías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-defender-sobresale-mejores-antivirus-windows-pero-tiene-serio-problema-1243350'>Microsoft Defender sobresale entre los mejores antivirus de Windows pero tiene un serio problema</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-defender-sobresale-mejores-antivirus-windows-pero-tiene-serio-problema-1243350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg?tf=1200x' alt='Microsoft Defender sobresale entre los mejores antivirus de Windows pero tiene un serio problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estas-10-populares-apps-android-te-cobran-sepas-1243298'>Comprueba si tienes instaladas algunas de estas 10 populares apps para Android: te cobran sin que lo sepas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estas-10-populares-apps-android-te-cobran-sepas-1243298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/malware-google-play-store-3030202.jpg?tf=1200x' alt='Comprueba si tienes instaladas algunas de estas 10 populares apps para Android: te cobran sin que lo sepas' />
     </a>
 </div>
 
