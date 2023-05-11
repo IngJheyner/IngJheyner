@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-encuentra-exoplaneta-nasa-tilda-como-mini-neptuno-1243944'>El telescopio James Webb encuentra un exoplaneta que la NASA tilda como “mini-Neptuno”</a></h4>
-    <a href='https://computerhoy.com/espacio/telescopio-james-webb-encuentra-exoplaneta-nasa-tilda-como-mini-neptuno-1243944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/telescopio-james-webb-encuentra-exoplaneta-nasa-tilda-como-mini-neptuno-3031584.jpg?tf=1200x' alt='El telescopio James Webb encuentra un exoplaneta que la NASA tilda como “mini-Neptuno”' />
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-anuncia-nuevo-ceo-twitter-sera-mujer-1243978'>Elon Musk anuncia que ya tiene nuevo CEO de Twitter, y será una mujer</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-anuncia-nuevo-ceo-twitter-sera-mujer-1243978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-anuncia-ya-tiene-nuevo-ceo-twitter-sera-mujer-3031648.jpg?tf=1200x' alt='Elon Musk anuncia que ya tiene nuevo CEO de Twitter, y será una mujer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/casio-lanza-smartwatch-siempre-has-deseado-tener-1243914'>Casio lanza el smartwatch que siempre has deseado: indestructible y con batería casi infinita</a></h4>
-    <a href='https://computerhoy.com/smartwatches/casio-lanza-smartwatch-siempre-has-deseado-tener-1243914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/casio-indestructible-3031498.jpg?tf=1200x' alt='Casio lanza el smartwatch que siempre has deseado: indestructible y con batería casi infinita' />
+    <h4><a href='https://computerhoy.com/streaming/frank-ocean-ia-miles-dolares-persona-ha-hecho-rica-vendiendo-canciones-no-existen-1243964'>Frank Ocean, IA y miles de dólares: esta persona se ha hecho rica vendiendo canciones que no existen</a></h4>
+    <a href='https://computerhoy.com/streaming/frank-ocean-ia-miles-dolares-persona-ha-hecho-rica-vendiendo-canciones-no-existen-1243964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/frank-ocean-ia-millones-dolares-persona-ha-hecho-rica-vendiendo-canciones-no-existen-3031590.jpg?tf=1200x' alt='Frank Ocean, IA y miles de dólares: esta persona se ha hecho rica vendiendo canciones que no existen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/fairbuds-xl-auriculares-modulares-podras-reparar-1243922'>Fairbuds XL, los auriculares modulares que podrás reparar</a></h4>
-    <a href='https://computerhoy.com/audio/fairbuds-xl-auriculares-modulares-podras-reparar-1243922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/fairbuds-xl-auriculares-modulares-puedes-reparar-casa-3031528.jpg?tf=1200x' alt='Fairbuds XL, los auriculares modulares que podrás reparar' />
+    <h4><a href='https://computerhoy.com/entretenimiento/nintendo-habla-super-mario-bros-mas-peliculas-1243968'>Nintendo hace balance de Super Mario Bros La Película, y habla sobre el futuro de Nintendo Pictures</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/nintendo-habla-super-mario-bros-mas-peliculas-1243968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/super-mario-bros-lleva-todas-monedas-ya-pelicula-animacion-mejor-taquilla-historia-3004940.jpg?tf=1200x' alt='Nintendo hace balance de Super Mario Bros La Película, y habla sobre el futuro de Nintendo Pictures' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/enesima-burbuja-bitcoin-pinchando-otra-vez-1243888'>La enésima burbuja de Bitcoin se está pinchando, otra vez</a></h4>
-    <a href='https://computerhoy.com/criptos/enesima-burbuja-bitcoin-pinchando-otra-vez-1243888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/btc-cae-otra-vez-3031450.jpg?tf=1200x' alt='La enésima burbuja de Bitcoin se está pinchando, otra vez' />
+    <h4><a href='https://computerhoy.com/android/senales-movil-android-podria-estar-infectado-virus-1243932'>Señales de que tu móvil Android podría estar infectado con un virus</a></h4>
+    <a href='https://computerhoy.com/android/senales-movil-android-podria-estar-infectado-virus-1243932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/malware-android-2865655.jpg?tf=1200x' alt='Señales de que tu móvil Android podría estar infectado con un virus' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/policia-nacional-alerta-nueva-estafa-te-roba-contrasenas-banco-telefono-1243878'>La Policía Nacional alerta de una nueva estafa que te roba las contraseñas del banco por teléfono</a></h4>
-    <a href='https://computerhoy.com/life/policia-nacional-alerta-nueva-estafa-te-roba-contrasenas-banco-telefono-1243878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/telefono-movil-3022286.jpg?tf=1200x' alt='La Policía Nacional alerta de una nueva estafa que te roba las contraseñas del banco por teléfono' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-herramienta-gratuita-ia-capaz-predecir-primeros-sintomas-parkinson-1243954'>Crean una herramienta gratuita con IA capaz de predecir los primeros síntomas de Parkinson</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-herramienta-gratuita-ia-capaz-predecir-primeros-sintomas-parkinson-1243954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/parkinson-3031596.jpg?tf=1200x' alt='Crean una herramienta gratuita con IA capaz de predecir los primeros síntomas de Parkinson' />
     </a>
 </div>
 
