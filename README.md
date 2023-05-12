@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/objeto-cosmico-10-millones-veces-mas-brillante-sol-rompe-leyes-fisica-1244206'>Un objeto cósmico 10 millones de veces más brillante que el Sol rompe las leyes de la Física</a></h4>
+    <a href='https://computerhoy.com/espacio/objeto-cosmico-10-millones-veces-mas-brillante-sol-rompe-leyes-fisica-1244206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/objeto-cosmico-10-millones-veces-brillante-sol-rompe-leyes-fisica-3031854.jpg?tf=1200x' alt='Un objeto cósmico 10 millones de veces más brillante que el Sol rompe las leyes de la Física' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cuidado-bolsas-hacer-compra-coche-multa-200-euros-1244204'>Cuidado con las bolsas al hacer la compra con el coche: podría caerte una multa de 200 euros</a></h4>
+    <a href='https://computerhoy.com/motor/cuidado-bolsas-hacer-compra-coche-multa-200-euros-1244204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cuidado-bolsas-hacer-compra-coche-podria-caerte-multa-200-euros-3031654.jpg?tf=1200x' alt='Cuidado con las bolsas al hacer la compra con el coche: podría caerte una multa de 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-anuncia-nuevo-ceo-twitter-sera-mujer-1243978'>Elon Musk anuncia que ya tiene nuevo CEO de Twitter, y será una mujer</a></h4>
     <a href='https://computerhoy.com/redes-sociales/elon-musk-anuncia-nuevo-ceo-twitter-sera-mujer-1243978' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-anuncia-ya-tiene-nuevo-ceo-twitter-sera-mujer-3031648.jpg?tf=1200x' alt='Elon Musk anuncia que ya tiene nuevo CEO de Twitter, y será una mujer' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/nintendo-habla-super-mario-bros-mas-peliculas-1243968'>Nintendo hace balance de Super Mario Bros La Película, y habla sobre el futuro de Nintendo Pictures</a></h4>
     <a href='https://computerhoy.com/entretenimiento/nintendo-habla-super-mario-bros-mas-peliculas-1243968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/super-mario-bros-lleva-todas-monedas-ya-pelicula-animacion-mejor-taquilla-historia-3004940.jpg?tf=1200x' alt='Nintendo hace balance de Super Mario Bros La Película, y habla sobre el futuro de Nintendo Pictures' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/senales-movil-android-podria-estar-infectado-virus-1243932'>Señales de que tu móvil Android podría estar infectado con un virus</a></h4>
-    <a href='https://computerhoy.com/android/senales-movil-android-podria-estar-infectado-virus-1243932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/malware-android-2865655.jpg?tf=1200x' alt='Señales de que tu móvil Android podría estar infectado con un virus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-herramienta-gratuita-ia-capaz-predecir-primeros-sintomas-parkinson-1243954'>Crean una herramienta gratuita con IA capaz de predecir los primeros síntomas de Parkinson</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-herramienta-gratuita-ia-capaz-predecir-primeros-sintomas-parkinson-1243954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/parkinson-3031596.jpg?tf=1200x' alt='Crean una herramienta gratuita con IA capaz de predecir los primeros síntomas de Parkinson' />
     </a>
 </div>
 
