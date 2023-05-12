@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/estrella-avion-hacerse-viral-redes-podria-pasar-20-anos-carcel-1244364'>Estrella su avión para hacerse viral en redes y podría pasar 20 años en la cárcel</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/estrella-avion-hacerse-viral-redes-podria-pasar-20-anos-carcel-1244364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/trevor-jacob-3032360.jpg?tf=1200x' alt='Estrella su avión para hacerse viral en redes y podría pasar 20 años en la cárcel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/legislacion/como-encontrar-sustituto-acuda-ti-mesa-electoral-1244328'>Cómo encontrar un sustituto para que acuda por ti a la Mesa Electoral</a></h4>
+    <a href='https://computerhoy.com/legislacion/como-encontrar-sustituto-acuda-ti-mesa-electoral-1244328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mesa-electoral-votacion-3032134.jpg?tf=1200x' alt='Cómo encontrar un sustituto para que acuda por ti a la Mesa Electoral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/elon-musk-ya-tiene-nuevo-ceo-twitter-aunque-no-cantes-victoria-aun-1244338'>Elon Musk ya tiene nuevo CEO para Twitter, aunque no cantes victoria aún</a></h4>
+    <a href='https://computerhoy.com/elon-musk-ya-tiene-nuevo-ceo-twitter-aunque-no-cantes-victoria-aun-1244338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-2829389.jpg?tf=1200x' alt='Elon Musk ya tiene nuevo CEO para Twitter, aunque no cantes victoria aún' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-x-ai-nueva-startup-inteligencia-artificial-querer-pausar-desarrollo-ia-1235294'>Elon Musk y X. AI, nueva startup de inteligencia artificial tras ¿querer pausar el desarrollo de IA?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-x-ai-nueva-startup-inteligencia-artificial-querer-pausar-desarrollo-ia-1235294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/elon-musk-x-ai-nueva-startup-inteligencia-artificial-querer-pausar-desarrollo-ia-3020498.jpg?tf=1200x' alt='Elon Musk y X. AI, nueva startup de inteligencia artificial tras ¿querer pausar el desarrollo de IA?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/denunciante-mobile-world-congress-multado-200000-euros-explica-motivos-1244276'>La denunciante al Mobile World Congress, multado con 200.000 euros, explica los motivos</a></h4>
     <a href='https://computerhoy.com/denunciante-mobile-world-congress-multado-200000-euros-explica-motivos-1244276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/denunciante-mobile-world-congress-multado-200000-euros-explica-motivos-3032018.jpg?tf=1200x' alt='La denunciante al Mobile World Congress, multado con 200.000 euros, explica los motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ofertas-amazon-productos-apple-cupones-descuento-1244278'>Lo nunca visto: Amazon tiene ofertas en productos de Apple con cupones descuento de hasta 250€</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ofertas-amazon-productos-apple-cupones-descuento-1244278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apps-google-iphone-14-pro-max-2866431.jpg?tf=1200x' alt='Lo nunca visto: Amazon tiene ofertas en productos de Apple con cupones descuento de hasta 250€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-convertir-pilas-aaa-pilas-aa-casos-emergencia-1243984'>Cómo convertir las pilas AAA en pilas AA para casos de emergencia</a></h4>
-    <a href='https://computerhoy.com/life/como-convertir-pilas-aaa-pilas-aa-casos-emergencia-1243984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/pilas-ikea-2089879.jpg?tf=1200x' alt='Cómo convertir las pilas AAA en pilas AA para casos de emergencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ue-queda-bard-ia-google-buena-noticia-aunque-no-creas-1244250'>No puedes utilizar Bard, la IA de Google, en España y es una buena noticia, aunque no lo creas</a></h4>
-    <a href='https://computerhoy.com/google/ue-queda-bard-ia-google-buena-noticia-aunque-no-creas-1244250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-bard-2998776.jpg?tf=1200x' alt='No puedes utilizar Bard, la IA de Google, en España y es una buena noticia, aunque no lo creas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/lg-gram-superslim-style-ultraligeros-finos-potentes-diseno-renovado-1243216'>LG gram Superslim y Style: ultraligeros, finos, potentes y con diseño renovado. ¡Aprovecha esta oferta!</a></h4>
-    <a href='https://computerhoy.com/patrocinado/lg-gram-superslim-style-ultraligeros-finos-potentes-diseno-renovado-1243216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lg-gram-3030024.jpg?tf=1200x' alt='LG gram Superslim y Style: ultraligeros, finos, potentes y con diseño renovado. ¡Aprovecha esta oferta!' />
     </a>
 </div>
 
