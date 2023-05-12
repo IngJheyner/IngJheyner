@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/grave-error-casi-todo-mundo-comete-wifi-salir-casa-1233598'>El grave error que casi todo el mundo comete con su WiFi al salir de casa</a></h4>
-    <a href='https://computerhoy.com/life/grave-error-casi-todo-mundo-comete-wifi-salir-casa-1233598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/error-wifi-3029018.jpg?tf=1200x' alt='El grave error que casi todo el mundo comete con su WiFi al salir de casa' />
+    <h4><a href='https://computerhoy.com/android/google-incorpora-nueva-funcion-android-auto-android-automotive-1244506'>Google incorpora una nueva función de Android Auto a Android Automotive</a></h4>
+    <a href='https://computerhoy.com/android/google-incorpora-nueva-funcion-android-auto-android-automotive-1244506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/coolwalk-android-auto-2879987.jpg?tf=1200x' alt='Google incorpora una nueva función de Android Auto a Android Automotive' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/nuevo-amazon-seria-pagarte-recoger-pedidos-1244446'>Lo nuevo de Amazon sería pagarte por recoger tus pedidos</a></h4>
-    <a href='https://computerhoy.com/amazon/nuevo-amazon-seria-pagarte-recoger-pedidos-1244446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/amazon-2968408.jpg?tf=1200x' alt='Lo nuevo de Amazon sería pagarte por recoger tus pedidos' />
+    <h4><a href='https://computerhoy.com/software/creador-chatgpt-copyright-ia-usa-contenido-estilo-vamos-pagarte-1244450'>El creador de ChatGPT, sobre el copyright: "Si la IA usa tu contenido o estilo, vamos a pagarte"</a></h4>
+    <a href='https://computerhoy.com/software/creador-chatgpt-copyright-ia-usa-contenido-estilo-vamos-pagarte-1244450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/openai-cuesta-millonada-dia-hacer-funcionar-chatgpt-como-quiere-reducir-gasto-3016380.jpg?tf=1200x' alt='El creador de ChatGPT, sobre el copyright: "Si la IA usa tu contenido o estilo, vamos a pagarte"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/como-sera-futura-playsation-6-podria-llegar-tiendas-2027-1244398'>¿Cómo será la futura PlayStation 6? Salida en 2027 con mejoras muy potentes</a></h4>
-    <a href='https://computerhoy.com/gaming/como-sera-futura-playsation-6-podria-llegar-tiendas-2027-1244398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/playstation-5-ps5-2963696.jpg?tf=1200x' alt='¿Cómo será la futura PlayStation 6? Salida en 2027 con mejoras muy potentes' />
+    <h4><a href='https://computerhoy.com/life/estafa-triangular-policia-nacional-advierte-nueva-estafa-cargas-culpa-estafador-1244448'>Estafa triangular: la Policía Nacional advierte de esta nueva estafa en la que cargas con la culpa del estafador</a></h4>
+    <a href='https://computerhoy.com/life/estafa-triangular-policia-nacional-advierte-nueva-estafa-cargas-culpa-estafador-1244448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/3-estafas-bizum-realizan-ciberdelincuentes-como-evitarlas-2505615.jpg?tf=1200x' alt='Estafa triangular: la Policía Nacional advierte de esta nueva estafa en la que cargas con la culpa del estafador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-disney-netflix-movistar-plus-cocodrilo-cantante-aventura-espacial-princesa-siglo-xxi-1244304'>Qué películas ver este fin de semana en Disney+, Netflix y Movistar Plus+: un cocodrilo cantante, una aventura espacial y una princesa del siglo XXI</a></h4>
-    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-disney-netflix-movistar-plus-cocodrilo-cantante-aventura-espacial-princesa-siglo-xxi-1244304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/peliculas-ver-fin-semana-disney-netflix-movistar-plus-cocodrilo-cantante-aventura-espacial-princesa-siglo-xxi-3032126.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Disney+, Netflix y Movistar Plus+: un cocodrilo cantante, una aventura espacial y una princesa del siglo XXI' />
+    <h4><a href='https://computerhoy.com/windows/windows-12-vendra-soluciones-inteligencia-artificial-integradas-2024-1244422'>Nuevos detalles de Windows 12: fecha de lanzamiento, requisitos mínimos y mucha inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/windows/windows-12-vendra-soluciones-inteligencia-artificial-integradas-2024-1244422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-logo-2627905.jpg?tf=1200x' alt='Nuevos detalles de Windows 12: fecha de lanzamiento, requisitos mínimos y mucha inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/celulas-madre-bovinas-inmortalizadas-abren-puerta-carne-infinita-1244410'>El futuro de la alimentación está aquí: células madre bovinas inmortalizadas abren la puerta a la carne infinita</a></h4>
-    <a href='https://computerhoy.com/ciencia/celulas-madre-bovinas-inmortalizadas-abren-puerta-carne-infinita-1244410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/vaca-carne-infitina-3032384.jpg?tf=1200x' alt='El futuro de la alimentación está aquí: células madre bovinas inmortalizadas abren la puerta a la carne infinita' />
+    <h4><a href='https://computerhoy.com/mejores/moviles-potentes-jugar-1244314'>Móviles muy potentes para jugar que hemos probado y recomendamos en 2023</a></h4>
+    <a href='https://computerhoy.com/mejores/moviles-potentes-jugar-1244314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oneplus-10t-analisis-opinion-2823459.jpg?tf=1200x' alt='Móviles muy potentes para jugar que hemos probado y recomendamos en 2023' />
     </a>
 </div>
 
