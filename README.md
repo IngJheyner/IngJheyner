@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/series-importantes-netflix-hbo-max-afectadas-huelga-guionistas-1244520'>Las nuevas temporadas de The Last of Us, Miércoles o Stranger Things, paralizadas por la huelga de guionistas</a></h4>
+    <a href='https://computerhoy.com/streaming/series-importantes-netflix-hbo-max-afectadas-huelga-guionistas-1244520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/miercoles-2881601.jpg?tf=1200x' alt='Las nuevas temporadas de The Last of Us, Miércoles o Stranger Things, paralizadas por la huelga de guionistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/linda-yaccarino-nueva-ceo-twitter-polemica-1244514'>Elon Musk presenta a Linda Yaccarino, la nueva CEO de Twitter, una ejecutiva de la NBC que no gusta a sus seguidores</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/linda-yaccarino-nueva-ceo-twitter-polemica-1244514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-presenta-linda-yaccarino-nueva-ceo-twitter-ejecutiva-nbc-no-ha-gustado-nada-seguidores-3032568.jpg?tf=1200x' alt='Elon Musk presenta a Linda Yaccarino, la nueva CEO de Twitter, una ejecutiva de la NBC que no gusta a sus seguidores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-drive-copia-gmail-carpeta-spam-llega-nube-google-funciona-1244468'>Google Drive copia a Gmail: la carpeta spam llega a la nube de Google y así funciona</a></h4>
+    <a href='https://computerhoy.com/google/google-drive-copia-gmail-carpeta-spam-llega-nube-google-funciona-1244468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-drive-2239641.jpg?tf=1200x' alt='Google Drive copia a Gmail: la carpeta spam llega a la nube de Google y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/chatgpt-midjourney-estan-provocando-autentico-caos-amazon-dificil-solucion-1244508'>ChatGPT y Midjourney están provocando un auténtico caos en Amazon con difícil solución</a></h4>
+    <a href='https://computerhoy.com/apps/chatgpt-midjourney-estan-provocando-autentico-caos-amazon-dificil-solucion-1244508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3032564.jpg?tf=1200x' alt='ChatGPT y Midjourney están provocando un auténtico caos en Amazon con difícil solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/google-incorpora-nueva-funcion-android-auto-android-automotive-1244506'>Google incorpora una nueva función de Android Auto a Android Automotive</a></h4>
     <a href='https://computerhoy.com/android/google-incorpora-nueva-funcion-android-auto-android-automotive-1244506' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/coolwalk-android-auto-2879987.jpg?tf=1200x' alt='Google incorpora una nueva función de Android Auto a Android Automotive' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/creador-chatgpt-copyright-ia-usa-contenido-estilo-vamos-pagarte-1244450'>El creador de ChatGPT, sobre el copyright: "Si la IA usa tu contenido o estilo, vamos a pagarte"</a></h4>
-    <a href='https://computerhoy.com/software/creador-chatgpt-copyright-ia-usa-contenido-estilo-vamos-pagarte-1244450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/openai-cuesta-millonada-dia-hacer-funcionar-chatgpt-como-quiere-reducir-gasto-3016380.jpg?tf=1200x' alt='El creador de ChatGPT, sobre el copyright: "Si la IA usa tu contenido o estilo, vamos a pagarte"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estafa-triangular-policia-nacional-advierte-nueva-estafa-cargas-culpa-estafador-1244448'>Estafa triangular: la Policía Nacional advierte de esta nueva estafa en la que cargas con la culpa del estafador</a></h4>
-    <a href='https://computerhoy.com/life/estafa-triangular-policia-nacional-advierte-nueva-estafa-cargas-culpa-estafador-1244448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/3-estafas-bizum-realizan-ciberdelincuentes-como-evitarlas-2505615.jpg?tf=1200x' alt='Estafa triangular: la Policía Nacional advierte de esta nueva estafa en la que cargas con la culpa del estafador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-12-vendra-soluciones-inteligencia-artificial-integradas-2024-1244422'>Nuevos detalles de Windows 12: fecha de lanzamiento, requisitos mínimos y mucha inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/windows/windows-12-vendra-soluciones-inteligencia-artificial-integradas-2024-1244422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-logo-2627905.jpg?tf=1200x' alt='Nuevos detalles de Windows 12: fecha de lanzamiento, requisitos mínimos y mucha inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/moviles-potentes-jugar-1244314'>Móviles muy potentes para jugar que hemos probado y recomendamos en 2023</a></h4>
-    <a href='https://computerhoy.com/mejores/moviles-potentes-jugar-1244314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oneplus-10t-analisis-opinion-2823459.jpg?tf=1200x' alt='Móviles muy potentes para jugar que hemos probado y recomendamos en 2023' />
     </a>
 </div>
 
