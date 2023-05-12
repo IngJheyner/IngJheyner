@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/crear-smart-home-no-tan-facil-ausencia-estandares-1233516'>Conectar una casa puede ser un dolor de cabeza: algunos dispositivos inteligentes aún no se integran y son el objetivo principal de ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.com/hogar/crear-smart-home-no-tan-facil-ausencia-estandares-1233516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/casa-inteligente-conectada-smart-home-iot-ciberseguridad-3020248.jpg?tf=1200x' alt='Conectar una casa puede ser un dolor de cabeza: algunos dispositivos inteligentes aún no se integran y son el objetivo principal de ciberdelincuentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/tablets-hemos-probado-1243928'>¿Son buenas estas tablets? Sí, las hemos probado y te las podemos recomendar</a></h4>
+    <a href='https://computerhoy.com/mejores/tablets-hemos-probado-1243928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/galeria-review-ipad-pro-m2-2022-2875521.jpg?tf=1200x' alt='¿Son buenas estas tablets? Sí, las hemos probado y te las podemos recomendar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/objeto-cosmico-10-millones-veces-mas-brillante-sol-rompe-leyes-fisica-1244206'>Un objeto cósmico 10 millones de veces más brillante que el Sol rompe las leyes de la Física</a></h4>
     <a href='https://computerhoy.com/espacio/objeto-cosmico-10-millones-veces-mas-brillante-sol-rompe-leyes-fisica-1244206' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/objeto-cosmico-10-millones-veces-brillante-sol-rompe-leyes-fisica-3031854.jpg?tf=1200x' alt='Un objeto cósmico 10 millones de veces más brillante que el Sol rompe las leyes de la Física' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-anuncia-nuevo-ceo-twitter-sera-mujer-1243978'>Elon Musk anuncia que ya tiene nuevo CEO de Twitter, y será una mujer</a></h4>
     <a href='https://computerhoy.com/redes-sociales/elon-musk-anuncia-nuevo-ceo-twitter-sera-mujer-1243978' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-anuncia-ya-tiene-nuevo-ceo-twitter-sera-mujer-3031648.jpg?tf=1200x' alt='Elon Musk anuncia que ya tiene nuevo CEO de Twitter, y será una mujer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/frank-ocean-ia-miles-dolares-persona-ha-hecho-rica-vendiendo-canciones-no-existen-1243964'>Frank Ocean, IA y miles de dólares: esta persona se ha hecho rica vendiendo canciones que no existen</a></h4>
-    <a href='https://computerhoy.com/streaming/frank-ocean-ia-miles-dolares-persona-ha-hecho-rica-vendiendo-canciones-no-existen-1243964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/frank-ocean-ia-millones-dolares-persona-ha-hecho-rica-vendiendo-canciones-no-existen-3031590.jpg?tf=1200x' alt='Frank Ocean, IA y miles de dólares: esta persona se ha hecho rica vendiendo canciones que no existen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/nintendo-habla-super-mario-bros-mas-peliculas-1243968'>Nintendo hace balance de Super Mario Bros La Película, y habla sobre el futuro de Nintendo Pictures</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/nintendo-habla-super-mario-bros-mas-peliculas-1243968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/super-mario-bros-lleva-todas-monedas-ya-pelicula-animacion-mejor-taquilla-historia-3004940.jpg?tf=1200x' alt='Nintendo hace balance de Super Mario Bros La Película, y habla sobre el futuro de Nintendo Pictures' />
     </a>
 </div>
 
