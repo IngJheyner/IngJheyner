@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/estrella-avion-hacerse-viral-redes-podria-pasar-20-anos-carcel-1244364'>Estrella su avión para hacerse viral en redes y podría pasar 20 años en la cárcel</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/estrella-avion-hacerse-viral-redes-podria-pasar-20-anos-carcel-1244364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/trevor-jacob-3032360.jpg?tf=1200x' alt='Estrella su avión para hacerse viral en redes y podría pasar 20 años en la cárcel' />
+    <h4><a href='https://computerhoy.com/life/grave-error-casi-todo-mundo-comete-wifi-salir-casa-1233598'>El grave error que casi todo el mundo comete con su WiFi al salir de casa</a></h4>
+    <a href='https://computerhoy.com/life/grave-error-casi-todo-mundo-comete-wifi-salir-casa-1233598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/error-wifi-3029018.jpg?tf=1200x' alt='El grave error que casi todo el mundo comete con su WiFi al salir de casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/como-encontrar-sustituto-acuda-ti-mesa-electoral-1244328'>Cómo encontrar un sustituto para que acuda por ti a la Mesa Electoral</a></h4>
-    <a href='https://computerhoy.com/legislacion/como-encontrar-sustituto-acuda-ti-mesa-electoral-1244328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mesa-electoral-votacion-3032134.jpg?tf=1200x' alt='Cómo encontrar un sustituto para que acuda por ti a la Mesa Electoral' />
+    <h4><a href='https://computerhoy.com/amazon/nuevo-amazon-seria-pagarte-recoger-pedidos-1244446'>Lo nuevo de Amazon sería pagarte por recoger tus pedidos</a></h4>
+    <a href='https://computerhoy.com/amazon/nuevo-amazon-seria-pagarte-recoger-pedidos-1244446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/amazon-2968408.jpg?tf=1200x' alt='Lo nuevo de Amazon sería pagarte por recoger tus pedidos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/elon-musk-ya-tiene-nuevo-ceo-twitter-aunque-no-cantes-victoria-aun-1244338'>Elon Musk ya tiene nuevo CEO para Twitter, aunque no cantes victoria aún</a></h4>
-    <a href='https://computerhoy.com/elon-musk-ya-tiene-nuevo-ceo-twitter-aunque-no-cantes-victoria-aun-1244338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-2829389.jpg?tf=1200x' alt='Elon Musk ya tiene nuevo CEO para Twitter, aunque no cantes victoria aún' />
+    <h4><a href='https://computerhoy.com/gaming/como-sera-futura-playsation-6-podria-llegar-tiendas-2027-1244398'>¿Cómo será la futura PlayStation 6? Salida en 2027 con mejoras muy potentes</a></h4>
+    <a href='https://computerhoy.com/gaming/como-sera-futura-playsation-6-podria-llegar-tiendas-2027-1244398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/playstation-5-ps5-2963696.jpg?tf=1200x' alt='¿Cómo será la futura PlayStation 6? Salida en 2027 con mejoras muy potentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-x-ai-nueva-startup-inteligencia-artificial-querer-pausar-desarrollo-ia-1235294'>Elon Musk y X. AI, nueva startup de inteligencia artificial tras ¿querer pausar el desarrollo de IA?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-x-ai-nueva-startup-inteligencia-artificial-querer-pausar-desarrollo-ia-1235294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/elon-musk-x-ai-nueva-startup-inteligencia-artificial-querer-pausar-desarrollo-ia-3020498.jpg?tf=1200x' alt='Elon Musk y X. AI, nueva startup de inteligencia artificial tras ¿querer pausar el desarrollo de IA?' />
+    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-disney-netflix-movistar-plus-cocodrilo-cantante-aventura-espacial-princesa-siglo-xxi-1244304'>Qué películas ver este fin de semana en Disney+, Netflix y Movistar Plus+: un cocodrilo cantante, una aventura espacial y una princesa del siglo XXI</a></h4>
+    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-disney-netflix-movistar-plus-cocodrilo-cantante-aventura-espacial-princesa-siglo-xxi-1244304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/peliculas-ver-fin-semana-disney-netflix-movistar-plus-cocodrilo-cantante-aventura-espacial-princesa-siglo-xxi-3032126.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Disney+, Netflix y Movistar Plus+: un cocodrilo cantante, una aventura espacial y una princesa del siglo XXI' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/denunciante-mobile-world-congress-multado-200000-euros-explica-motivos-1244276'>La denunciante al Mobile World Congress, multado con 200.000 euros, explica los motivos</a></h4>
-    <a href='https://computerhoy.com/denunciante-mobile-world-congress-multado-200000-euros-explica-motivos-1244276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/denunciante-mobile-world-congress-multado-200000-euros-explica-motivos-3032018.jpg?tf=1200x' alt='La denunciante al Mobile World Congress, multado con 200.000 euros, explica los motivos' />
+    <h4><a href='https://computerhoy.com/ciencia/celulas-madre-bovinas-inmortalizadas-abren-puerta-carne-infinita-1244410'>El futuro de la alimentación está aquí: células madre bovinas inmortalizadas abren la puerta a la carne infinita</a></h4>
+    <a href='https://computerhoy.com/ciencia/celulas-madre-bovinas-inmortalizadas-abren-puerta-carne-infinita-1244410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/vaca-carne-infitina-3032384.jpg?tf=1200x' alt='El futuro de la alimentación está aquí: células madre bovinas inmortalizadas abren la puerta a la carne infinita' />
     </a>
 </div>
 
