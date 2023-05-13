@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/finalpress-cafetera-mas-pequena-mundo-video-1244638'>FinalPress, la cafetera más pequeña del mundo</a></h4>
+    <a href='https://computerhoy.com/alimentacion/finalpress-cafetera-mas-pequena-mundo-video-1244638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1683930618059-3032596.jpg?tf=1200x' alt='FinalPress, la cafetera más pequeña del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/series-importantes-netflix-hbo-max-afectadas-huelga-guionistas-1244520'>Las nuevas temporadas de The Last of Us, Miércoles o Stranger Things, paralizadas por la huelga de guionistas</a></h4>
     <a href='https://computerhoy.com/streaming/series-importantes-netflix-hbo-max-afectadas-huelga-guionistas-1244520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/miercoles-2881601.jpg?tf=1200x' alt='Las nuevas temporadas de The Last of Us, Miércoles o Stranger Things, paralizadas por la huelga de guionistas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/chatgpt-midjourney-estan-provocando-autentico-caos-amazon-dificil-solucion-1244508'>ChatGPT y Midjourney están provocando un auténtico caos en Amazon con difícil solución</a></h4>
     <a href='https://computerhoy.com/apps/chatgpt-midjourney-estan-provocando-autentico-caos-amazon-dificil-solucion-1244508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3032564.jpg?tf=1200x' alt='ChatGPT y Midjourney están provocando un auténtico caos en Amazon con difícil solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-incorpora-nueva-funcion-android-auto-android-automotive-1244506'>Google incorpora una nueva función de Android Auto a Android Automotive</a></h4>
-    <a href='https://computerhoy.com/android/google-incorpora-nueva-funcion-android-auto-android-automotive-1244506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/coolwalk-android-auto-2879987.jpg?tf=1200x' alt='Google incorpora una nueva función de Android Auto a Android Automotive' />
     </a>
 </div>
 
