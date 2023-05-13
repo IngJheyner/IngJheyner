@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/review-canon-eos-r7-analisis-caracteristicas-precio-1231366'>Canon EOS R7: la gama APS-C avanzada de Canon deja el listón muy alto</a></h4>
-    <a href='https://computerhoy.com/analisis/review-canon-eos-r7-analisis-caracteristicas-precio-1231366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/canon-eos-r7-analsis-opinion-3031288.jpg?tf=1200x' alt='Canon EOS R7: la gama APS-C avanzada de Canon deja el listón muy alto' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-opina-aficionados-equipos-futbol-espana-1243934'>Quejicas, egocéntricos, insignificantes... ChatGPT opina de los aficionados de los equipos de fútbol españoles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-opina-aficionados-equipos-futbol-espana-1243934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/equipos-futbol-chatgpt-3032238.jpg?tf=1200x' alt='Quejicas, egocéntricos, insignificantes... ChatGPT opina de los aficionados de los equipos de fútbol españoles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-revela-prueba-rio-salvaje-cargado-agua-marte-1244712'>La NASA revela la prueba de los ríos salvajes cargados de agua en Marte</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-revela-prueba-rio-salvaje-cargado-agua-marte-1244712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nasa-revela-prueba-rios-salvajes-cargados-agua-marte-3032774.jpg?tf=1200x' alt='La NASA revela la prueba de los ríos salvajes cargados de agua en Marte' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-modo-ahorro-memoria-chrome-1243912'>Cómo usar el modo de ahorro de memoria de Chrome para que tu navegador funcione más rápido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-modo-ahorro-memoria-chrome-1243912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Cómo usar el modo de ahorro de memoria de Chrome para que tu navegador funcione más rápido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/finalpress-cafetera-mas-pequena-mundo-video-1244638'>FinalPress, la cafetera más pequeña del mundo</a></h4>
-    <a href='https://computerhoy.com/alimentacion/finalpress-cafetera-mas-pequena-mundo-video-1244638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1683930618059-3032596.jpg?tf=1200x' alt='FinalPress, la cafetera más pequeña del mundo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peli-ciencia-ficcion-estara-netflix-encanta-carl-pei-1234084'>La película de ciencia ficción que aún no está en Netflix pero estará y le encanta a Carl Pei (Nothing)</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peli-ciencia-ficcion-estara-netflix-encanta-carl-pei-1234084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tierra-errante-3015404.jpg?tf=1200x' alt='La película de ciencia ficción que aún no está en Netflix pero estará y le encanta a Carl Pei (Nothing)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/series-importantes-netflix-hbo-max-afectadas-huelga-guionistas-1244520'>Las nuevas temporadas de The Last of Us, Miércoles o Stranger Things, paralizadas por la huelga de guionistas</a></h4>
-    <a href='https://computerhoy.com/streaming/series-importantes-netflix-hbo-max-afectadas-huelga-guionistas-1244520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/miercoles-2881601.jpg?tf=1200x' alt='Las nuevas temporadas de The Last of Us, Miércoles o Stranger Things, paralizadas por la huelga de guionistas' />
+    <h4><a href='https://computerhoy.com/life/leccion-importante-bill-gates-aprendio-warren-buffett-1243368'>La lección que Bill Gates aprendió de Warren Buffett y que marcó toda su carrera</a></h4>
+    <a href='https://computerhoy.com/life/leccion-importante-bill-gates-aprendio-warren-buffett-1243368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-warren-buffet-2959860.jpg?tf=1200x' alt='La lección que Bill Gates aprendió de Warren Buffett y que marcó toda su carrera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/linda-yaccarino-nueva-ceo-twitter-polemica-1244514'>Elon Musk presenta a Linda Yaccarino, la nueva CEO de Twitter, una ejecutiva de la NBC que no gusta a sus seguidores</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/linda-yaccarino-nueva-ceo-twitter-polemica-1244514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-presenta-linda-yaccarino-nueva-ceo-twitter-ejecutiva-nbc-no-ha-gustado-nada-seguidores-3032568.jpg?tf=1200x' alt='Elon Musk presenta a Linda Yaccarino, la nueva CEO de Twitter, una ejecutiva de la NBC que no gusta a sus seguidores' />
+    <h4><a href='https://computerhoy.com/mejores/altavoces-pc-1244224'>Estos son los mejores altavoces de PC que puedes comprar: qué buscar para tener buena calidad de sonido</a></h4>
+    <a href='https://computerhoy.com/mejores/altavoces-pc-1244224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estos-son-mejores-altavoces-pc-puedes-comprar-buscar-tener-buena-calidad-sonido-3031872.jpg?tf=1200x' alt='Estos son los mejores altavoces de PC que puedes comprar: qué buscar para tener buena calidad de sonido' />
     </a>
 </div>
 
