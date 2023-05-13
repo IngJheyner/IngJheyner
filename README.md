@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/inteligencia-artificial-podria-usarse-diagnosticar-tiempo-ataques-corazon-1244798'>La inteligencia artificial podría usarse para diagnosticar con tiempo los ataques al corazón</a></h4>
+    <a href='https://computerhoy.com/ciencia/inteligencia-artificial-podria-usarse-diagnosticar-tiempo-ataques-corazon-1244798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ataque-cardiaco-3032908.jpg?tf=1200x' alt='La inteligencia artificial podría usarse para diagnosticar con tiempo los ataques al corazón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO que puedes comprar en 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2948030.jpg?tf=1200x' alt='Estos son los mejores móviles POCO que puedes comprar en 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/probable-nuevo-telefono-movil-android-ya-venga-malware-preinstalado-1244766'>Es probable que tu nuevo teléfono móvil Android ya venga con malware preinstalado</a></h4>
     <a href='https://computerhoy.com/moviles/probable-nuevo-telefono-movil-android-ya-venga-malware-preinstalado-1244766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg?tf=1200x' alt='Es probable que tu nuevo teléfono móvil Android ya venga con malware preinstalado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/todo-debes-saber-canales-whatsapp-interfaz-privacidad-seguidores-1244758'>Todo lo que debes saber sobre los canales de WhatsApp: interfaz, privacidad, seguidores y más</a></h4>
-    <a href='https://computerhoy.com/apps/todo-debes-saber-canales-whatsapp-interfaz-privacidad-seguidores-1244758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg?tf=1200x' alt='Todo lo que debes saber sobre los canales de WhatsApp: interfaz, privacidad, seguidores y más' />
     </a>
 </div>
 
