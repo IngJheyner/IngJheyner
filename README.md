@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/actualizacion-windows-10-no-vas-poder-evitar-razon-1244748'>La actualización de Windows 10 que no vas a poder evitar por esta razón</a></h4>
+    <a href='https://computerhoy.com/windows/actualizacion-windows-10-no-vas-poder-evitar-razon-1244748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/martes-actualizaciones-windows-trae-grandes-novedades-windows-10-windows-11-2925636.jpg?tf=1200x' alt='La actualización de Windows 10 que no vas a poder evitar por esta razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/openai-ya-ofrece-70-complementos-esperada-busqueda-web-usuarios-chatgpt-plus-1244744'>OpenAI ya ofrece más de 70 complementos y la esperada búsqueda web a los usuarios de ChatGPT plus</a></h4>
+    <a href='https://computerhoy.com/apps/openai-ya-ofrece-70-complementos-esperada-busqueda-web-usuarios-chatgpt-plus-1244744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2998412.jpg?tf=1200x' alt='OpenAI ya ofrece más de 70 complementos y la esperada búsqueda web a los usuarios de ChatGPT plus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/laliga-impotente-nodito-app-ilegal-ver-todo-futbol-gratis-android-1243330'>LaLiga impotente con Nodito, la app ilegal para ver todo el fútbol gratis en Android</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/laliga-impotente-nodito-app-ilegal-ver-todo-futbol-gratis-android-1243330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/futbol-3030340.jpg?tf=1200x' alt='LaLiga impotente con Nodito, la app ilegal para ver todo el fútbol gratis en Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/alla-test-turing-ia-actual-cumple-expectativas-antigua-prueba-1241916'>Más Allá del Test de Turing : ¿la IA actual cumple las expectativas de esta antigua prueba? </a></h4>
     <a href='https://computerhoy.com/tecnologia/alla-test-turing-ia-actual-cumple-expectativas-antigua-prueba-1241916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/alla-test-turing-ia-actual-cumple-expectativas-antigua-prueba-3029234.jpg?tf=1200x' alt='Más Allá del Test de Turing : ¿la IA actual cumple las expectativas de esta antigua prueba? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-opina-aficionados-equipos-futbol-espana-1243934'>Quejicas, egocéntricos, insignificantes... ChatGPT opina de los aficionados de los equipos de fútbol españoles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-opina-aficionados-equipos-futbol-espana-1243934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/equipos-futbol-chatgpt-3032238.jpg?tf=1200x' alt='Quejicas, egocéntricos, insignificantes... ChatGPT opina de los aficionados de los equipos de fútbol españoles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-modo-ahorro-memoria-chrome-1243912'>Cómo usar el modo de ahorro de memoria de Chrome para que tu navegador funcione más rápido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-modo-ahorro-memoria-chrome-1243912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Cómo usar el modo de ahorro de memoria de Chrome para que tu navegador funcione más rápido' />
     </a>
 </div>
 
