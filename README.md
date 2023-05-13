@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-canon-eos-r7-analisis-caracteristicas-precio-1231366'>Canon EOS R7: la gama APS-C avanzada de Canon deja el listón muy alto</a></h4>
+    <a href='https://computerhoy.com/analisis/review-canon-eos-r7-analisis-caracteristicas-precio-1231366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/canon-eos-r7-analsis-opinion-3031288.jpg?tf=1200x' alt='Canon EOS R7: la gama APS-C avanzada de Canon deja el listón muy alto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-revela-prueba-rio-salvaje-cargado-agua-marte-1244712'>La NASA revela la prueba de los ríos salvajes cargados de agua en Marte</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-revela-prueba-rio-salvaje-cargado-agua-marte-1244712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nasa-revela-prueba-rios-salvajes-cargados-agua-marte-3032774.jpg?tf=1200x' alt='La NASA revela la prueba de los ríos salvajes cargados de agua en Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/finalpress-cafetera-mas-pequena-mundo-video-1244638'>FinalPress, la cafetera más pequeña del mundo</a></h4>
     <a href='https://computerhoy.com/alimentacion/finalpress-cafetera-mas-pequena-mundo-video-1244638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1683930618059-3032596.jpg?tf=1200x' alt='FinalPress, la cafetera más pequeña del mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/linda-yaccarino-nueva-ceo-twitter-polemica-1244514'>Elon Musk presenta a Linda Yaccarino, la nueva CEO de Twitter, una ejecutiva de la NBC que no gusta a sus seguidores</a></h4>
     <a href='https://computerhoy.com/redes-sociales/linda-yaccarino-nueva-ceo-twitter-polemica-1244514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-presenta-linda-yaccarino-nueva-ceo-twitter-ejecutiva-nbc-no-ha-gustado-nada-seguidores-3032568.jpg?tf=1200x' alt='Elon Musk presenta a Linda Yaccarino, la nueva CEO de Twitter, una ejecutiva de la NBC que no gusta a sus seguidores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-drive-copia-gmail-carpeta-spam-llega-nube-google-funciona-1244468'>Google Drive copia a Gmail: la carpeta spam llega a la nube de Google y así funciona</a></h4>
-    <a href='https://computerhoy.com/google/google-drive-copia-gmail-carpeta-spam-llega-nube-google-funciona-1244468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-drive-2239641.jpg?tf=1200x' alt='Google Drive copia a Gmail: la carpeta spam llega a la nube de Google y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chatgpt-midjourney-estan-provocando-autentico-caos-amazon-dificil-solucion-1244508'>ChatGPT y Midjourney están provocando un auténtico caos en Amazon con difícil solución</a></h4>
-    <a href='https://computerhoy.com/apps/chatgpt-midjourney-estan-provocando-autentico-caos-amazon-dificil-solucion-1244508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3032564.jpg?tf=1200x' alt='ChatGPT y Midjourney están provocando un auténtico caos en Amazon con difícil solución' />
     </a>
 </div>
 
