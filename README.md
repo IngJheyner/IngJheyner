@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2948030.jpg?tf=1200x' alt='Estos son los mejores móviles POCO que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ahora-bing-chat-ofrece-imagenes-junto-ciertas-respuestas-1244778'>Ahora Bing Chat ofrece imágenes junto a ciertas respuestas</a></h4>
+    <a href='https://computerhoy.com/apps/ahora-bing-chat-ofrece-imagenes-junto-ciertas-respuestas-1244778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatbot-bing-2960656.jpg?tf=1200x' alt='Ahora Bing Chat ofrece imágenes junto a ciertas respuestas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/jupiter-ya-no-planeta-mayor-numero-lunas-sistema-solar-1244770'>Júpiter ya no es el planeta con el mayor número de lunas en el sistema solar</a></h4>
     <a href='https://computerhoy.com/espacio/jupiter-ya-no-planeta-mayor-numero-lunas-sistema-solar-1244770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/saturno-3032876.jpg?tf=1200x' alt='Júpiter ya no es el planeta con el mayor número de lunas en el sistema solar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/todo-debes-saber-canales-whatsapp-interfaz-privacidad-seguidores-1244758'>Todo lo que debes saber sobre los canales de WhatsApp: interfaz, privacidad, seguidores y más</a></h4>
     <a href='https://computerhoy.com/apps/todo-debes-saber-canales-whatsapp-interfaz-privacidad-seguidores-1244758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg?tf=1200x' alt='Todo lo que debes saber sobre los canales de WhatsApp: interfaz, privacidad, seguidores y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-planea-reducir-gasto-300-millones-dolares-ano-podria-afectarte-1244754'>Netflix planea reducir el gasto en 300 millones de dólares este año, y así podría afectarte</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-planea-reducir-gasto-300-millones-dolares-ano-podria-afectarte-1244754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/netflix-2445431.jpg?tf=1200x' alt='Netflix planea reducir el gasto en 300 millones de dólares este año, y así podría afectarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/actualizacion-windows-10-no-vas-poder-evitar-razon-1244748'>La actualización de Windows 10 que no vas a poder evitar por esta razón</a></h4>
-    <a href='https://computerhoy.com/windows/actualizacion-windows-10-no-vas-poder-evitar-razon-1244748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/martes-actualizaciones-windows-trae-grandes-novedades-windows-10-windows-11-2925636.jpg?tf=1200x' alt='La actualización de Windows 10 que no vas a poder evitar por esta razón' />
     </a>
 </div>
 
