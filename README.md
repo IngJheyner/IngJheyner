@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/laliga-impotente-nodito-app-ilegal-ver-todo-futbol-gratis-android-1243330'>LaLiga impotente con Nodito, la app ilegal para ver todo el fútbol gratis en Android</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/laliga-impotente-nodito-app-ilegal-ver-todo-futbol-gratis-android-1243330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/futbol-3030340.jpg?tf=1200x' alt='LaLiga impotente con Nodito, la app ilegal para ver todo el fútbol gratis en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-directo-movil-pc-ninguna-app-programa-1238066'>Cómo ver la TDT en directo desde el móvil o PC sin instalar ninguna app o programa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-tdt-directo-movil-pc-ninguna-app-programa-1238066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tdt-movil-3032062.jpg?tf=1200x' alt='Cómo ver la TDT en directo desde el móvil o PC sin instalar ninguna app o programa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alla-test-turing-ia-actual-cumple-expectativas-antigua-prueba-1241916'>Más Allá del Test de Turing : ¿la IA actual cumple las expectativas de esta antigua prueba? </a></h4>
+    <a href='https://computerhoy.com/tecnologia/alla-test-turing-ia-actual-cumple-expectativas-antigua-prueba-1241916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/alla-test-turing-ia-actual-cumple-expectativas-antigua-prueba-3029234.jpg?tf=1200x' alt='Más Allá del Test de Turing : ¿la IA actual cumple las expectativas de esta antigua prueba? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-opina-aficionados-equipos-futbol-espana-1243934'>Quejicas, egocéntricos, insignificantes... ChatGPT opina de los aficionados de los equipos de fútbol españoles</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-opina-aficionados-equipos-futbol-espana-1243934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/equipos-futbol-chatgpt-3032238.jpg?tf=1200x' alt='Quejicas, egocéntricos, insignificantes... ChatGPT opina de los aficionados de los equipos de fútbol españoles' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-usar-modo-ahorro-memoria-chrome-1243912'>Cómo usar el modo de ahorro de memoria de Chrome para que tu navegador funcione más rápido</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-usar-modo-ahorro-memoria-chrome-1243912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Cómo usar el modo de ahorro de memoria de Chrome para que tu navegador funcione más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peli-ciencia-ficcion-estara-netflix-encanta-carl-pei-1234084'>La película de ciencia ficción que aún no está en Netflix pero estará y le encanta a Carl Pei (Nothing)</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peli-ciencia-ficcion-estara-netflix-encanta-carl-pei-1234084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tierra-errante-3015404.jpg?tf=1200x' alt='La película de ciencia ficción que aún no está en Netflix pero estará y le encanta a Carl Pei (Nothing)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/leccion-importante-bill-gates-aprendio-warren-buffett-1243368'>La lección que Bill Gates aprendió de Warren Buffett y que marcó toda su carrera</a></h4>
-    <a href='https://computerhoy.com/life/leccion-importante-bill-gates-aprendio-warren-buffett-1243368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-warren-buffet-2959860.jpg?tf=1200x' alt='La lección que Bill Gates aprendió de Warren Buffett y que marcó toda su carrera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/altavoces-pc-1244224'>Estos son los mejores altavoces de PC que puedes comprar: qué buscar para tener buena calidad de sonido</a></h4>
-    <a href='https://computerhoy.com/mejores/altavoces-pc-1244224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estos-son-mejores-altavoces-pc-puedes-comprar-buscar-tener-buena-calidad-sonido-3031872.jpg?tf=1200x' alt='Estos son los mejores altavoces de PC que puedes comprar: qué buscar para tener buena calidad de sonido' />
     </a>
 </div>
 
