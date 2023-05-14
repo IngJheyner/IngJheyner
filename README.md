@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/adivina-futuro-lector-cartas-tarot-creado-raspberry-pi-1245074'>Ya puedes adivinar el futuro con este lector de cartas del tarot creado con una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adivina-futuro-lector-cartas-tarot-creado-raspberry-pi-1245074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lector-cartas-tarot-raspberry-pi-3033332.jpg?tf=1200x' alt='Ya puedes adivinar el futuro con este lector de cartas del tarot creado con una Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/granjas-criptomonedas-se-pasan-inteligencia-artificial-1245070'>Las granjas de criptomonedas se están convirtiendo en centros de inteligencia artificial para ChatGPT</a></h4>
+    <a href='https://computerhoy.com/criptos/granjas-criptomonedas-se-pasan-inteligencia-artificial-1245070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/granjas-criptomonedas-estan-convirtiendo-centros-inteligencia-artificial-chatgpt-3033286.jpg?tf=1200x' alt='Las granjas de criptomonedas se están convirtiendo en centros de inteligencia artificial para ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/disney-plus-pierde-4-millones-suscriptores-tres-meses-1245068'>Batacazo de Disney+: pierde 4 millones de suscriptores en tres meses</a></h4>
+    <a href='https://computerhoy.com/streaming/disney-plus-pierde-4-millones-suscriptores-tres-meses-1245068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/batacazo-disney-pierde-4-millones-suscriptores-2023-3033288.jpg?tf=1200x' alt='Batacazo de Disney+: pierde 4 millones de suscriptores en tres meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/pixel-7-bajada-precio-1244344'>Con el Pixel 7a a la venta, el precio de este Pixel 7 es de escándalo</a></h4>
     <a href='https://computerhoy.com/moviles/pixel-7-bajada-precio-1244344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pro-google-pixel-7-2838095.jpg?tf=1200x' alt='Con el Pixel 7a a la venta, el precio de este Pixel 7 es de escándalo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/ssd-gen5-problema-calor-disipador-rendimiento-1245062'>Los SSD PCIe 5.0 tienen un gran problema, que reduce su rendimiento al de un disco duro</a></h4>
     <a href='https://computerhoy.com/pc/ssd-gen5-problema-calor-disipador-rendimiento-1245062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ssd-pcie-50-tienen-gran-problema-reduce-rendimiento-disco-duro-3033268.jpg?tf=1200x' alt='Los SSD PCIe 5.0 tienen un gran problema, que reduce su rendimiento al de un disco duro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/galaxy-z-flip-5-sera-telefono-samsung-pequeno-compatible-dex-1245034'>El Galaxy Z Flip 5 será el teléfono Samsung más pequeño compatible con DeX</a></h4>
-    <a href='https://computerhoy.com/moviles/galaxy-z-flip-5-sera-telefono-samsung-pequeno-compatible-dex-1245034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/samsung-dex-3033220.jpg?tf=1200x' alt='El Galaxy Z Flip 5 será el teléfono Samsung más pequeño compatible con DeX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/experto-tecnologico-cree-inteligencia-artificial-asumira-80-puestos-trabajo-actuales-1245028'>Este experto tecnológico cree que la inteligencia artificial asumirá el 80 % de los puestos de trabajo actuales</a></h4>
-    <a href='https://computerhoy.com/ciencia/experto-tecnologico-cree-inteligencia-artificial-asumira-80-puestos-trabajo-actuales-1245028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2997398.jpg?tf=1200x' alt='Este experto tecnológico cree que la inteligencia artificial asumirá el 80 % de los puestos de trabajo actuales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/acabaron-largas-esperas-aeropuerto-aerolinea-emirates-lanza-robot-va-ayudarte-1245026'>Se acabaron las largas esperas en el aeropuerto: la aerolínea Emirates lanza este robot que va a ayudarte</a></h4>
-    <a href='https://computerhoy.com/ciencia/acabaron-largas-esperas-aeropuerto-aerolinea-emirates-lanza-robot-va-ayudarte-1245026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/aerolinea-emirates-lanza-robot-va-ayudarte-3033194.jpg?tf=1200x' alt='Se acabaron las largas esperas en el aeropuerto: la aerolínea Emirates lanza este robot que va a ayudarte' />
     </a>
 </div>
 
