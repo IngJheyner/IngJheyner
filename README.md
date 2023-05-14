@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/pixel-7-bajada-precio-1244344'>Con el Pixel 7a a la venta, el precio de este Pixel 7 es de escándalo</a></h4>
+    <a href='https://computerhoy.com/moviles/pixel-7-bajada-precio-1244344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pro-google-pixel-7-2838095.jpg?tf=1200x' alt='Con el Pixel 7a a la venta, el precio de este Pixel 7 es de escándalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/ssd-gen5-problema-calor-disipador-rendimiento-1245062'>Los SSD PCIe 5.0 tienen un gran problema, que reduce su rendimiento al de un disco duro</a></h4>
+    <a href='https://computerhoy.com/pc/ssd-gen5-problema-calor-disipador-rendimiento-1245062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ssd-pcie-50-tienen-gran-problema-reduce-rendimiento-disco-duro-3033268.jpg?tf=1200x' alt='Los SSD PCIe 5.0 tienen un gran problema, que reduce su rendimiento al de un disco duro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/galaxy-z-flip-5-sera-telefono-samsung-pequeno-compatible-dex-1245034'>El Galaxy Z Flip 5 será el teléfono Samsung más pequeño compatible con DeX</a></h4>
     <a href='https://computerhoy.com/moviles/galaxy-z-flip-5-sera-telefono-samsung-pequeno-compatible-dex-1245034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/samsung-dex-3033220.jpg?tf=1200x' alt='El Galaxy Z Flip 5 será el teléfono Samsung más pequeño compatible con DeX' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/acabaron-largas-esperas-aeropuerto-aerolinea-emirates-lanza-robot-va-ayudarte-1245026'>Se acabaron las largas esperas en el aeropuerto: la aerolínea Emirates lanza este robot que va a ayudarte</a></h4>
     <a href='https://computerhoy.com/ciencia/acabaron-largas-esperas-aeropuerto-aerolinea-emirates-lanza-robot-va-ayudarte-1245026' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/aerolinea-emirates-lanza-robot-va-ayudarte-3033194.jpg?tf=1200x' alt='Se acabaron las largas esperas en el aeropuerto: la aerolínea Emirates lanza este robot que va a ayudarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/proxima-generacion-robot-amazon-astro-apostara-ia-similar-chatgpt-podria-hacer-todo-1245020'>La próxima generación del robot Amazon Astro apostará por una IA similar a la de ChatGPT, y podría hacer todo esto</a></h4>
-    <a href='https://computerhoy.com/amazon/proxima-generacion-robot-amazon-astro-apostara-ia-similar-chatgpt-podria-hacer-todo-1245020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-astro-3033190.jpg?tf=1200x' alt='La próxima generación del robot Amazon Astro apostará por una IA similar a la de ChatGPT, y podría hacer todo esto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/roborock-s8-oferta-lanzamiento-descuento-1244362'>El Ferrari de los robots aspiradores tiene 110€ de descuento en Amazon</a></h4>
-    <a href='https://computerhoy.com/hogar/roborock-s8-oferta-lanzamiento-descuento-1244362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/roborock-s8-3032266.jpg?tf=1200x' alt='El Ferrari de los robots aspiradores tiene 110€ de descuento en Amazon' />
     </a>
 </div>
 
