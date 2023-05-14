@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/inteligencia-artificial-podria-usarse-diagnosticar-tiempo-ataques-corazon-1244798'>La inteligencia artificial podría usarse para diagnosticar con tiempo los ataques al corazón</a></h4>
-    <a href='https://computerhoy.com/ciencia/inteligencia-artificial-podria-usarse-diagnosticar-tiempo-ataques-corazon-1244798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ataque-cardiaco-3032908.jpg?tf=1200x' alt='La inteligencia artificial podría usarse para diagnosticar con tiempo los ataques al corazón' />
+    <h4><a href='https://computerhoy.com/life/lavarte-jabon-puede-ser-iman-perfecto-mosquitos-verano-1244794'>Lavarte con jabón puede ser el imán perfecto para los mosquitos este verano</a></h4>
+    <a href='https://computerhoy.com/life/lavarte-jabon-puede-ser-iman-perfecto-mosquitos-verano-1244794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ahora-sabemos-razon-mosquitos-pican-unas-personas-otras-2850743.jpg?tf=1200x' alt='Lavarte con jabón puede ser el imán perfecto para los mosquitos este verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2948030.jpg?tf=1200x' alt='Estos son los mejores móviles POCO que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/life/formula-steve-jobs-construir-equipo-perfecto-1243372'>La fórmula secreta de Steve Jobs para construir el equipo perfecto</a></h4>
+    <a href='https://computerhoy.com/life/formula-steve-jobs-construir-equipo-perfecto-1243372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-estrena-emotivo-video-homenajeando-steve-jobs-decimo-aniversario-muerte-2493217.jpg?tf=1200x' alt='La fórmula secreta de Steve Jobs para construir el equipo perfecto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ahora-bing-chat-ofrece-imagenes-junto-ciertas-respuestas-1244778'>Ahora Bing Chat ofrece imágenes junto a ciertas respuestas</a></h4>
-    <a href='https://computerhoy.com/apps/ahora-bing-chat-ofrece-imagenes-junto-ciertas-respuestas-1244778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatbot-bing-2960656.jpg?tf=1200x' alt='Ahora Bing Chat ofrece imágenes junto a ciertas respuestas' />
+    <h4><a href='https://computerhoy.com/internet/dark-web-trafica-miles-animales-drogas-1244804'>En la Dark Web se trafica con miles de animales, y los usan para todo, menos como mascotas</a></h4>
+    <a href='https://computerhoy.com/internet/dark-web-trafica-miles-animales-drogas-1244804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/dark-web-trafica-miles-animales-usan-todo-menos-como-mascotas-3032936.jpg?tf=1200x' alt='En la Dark Web se trafica con miles de animales, y los usan para todo, menos como mascotas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/jupiter-ya-no-planeta-mayor-numero-lunas-sistema-solar-1244770'>Júpiter ya no es el planeta con el mayor número de lunas en el sistema solar</a></h4>
-    <a href='https://computerhoy.com/espacio/jupiter-ya-no-planeta-mayor-numero-lunas-sistema-solar-1244770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/saturno-3032876.jpg?tf=1200x' alt='Júpiter ya no es el planeta con el mayor número de lunas en el sistema solar' />
+    <h4><a href='https://computerhoy.com/mejores/smart-tv-philips-ambilight-1244730'>Philips Ambilight, las Smart TV con efectos de luz y color: mejores modelos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/mejores/smart-tv-philips-ambilight-1244730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/philips-ambilight-smart-tv-efectos-luz-color-mejores-modelos-puedes-comprar-3032780.jpg?tf=1200x' alt='Philips Ambilight, las Smart TV con efectos de luz y color: mejores modelos que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/probable-nuevo-telefono-movil-android-ya-venga-malware-preinstalado-1244766'>Es probable que tu nuevo teléfono móvil Android ya venga con malware preinstalado</a></h4>
-    <a href='https://computerhoy.com/moviles/probable-nuevo-telefono-movil-android-ya-venga-malware-preinstalado-1244766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/malware-android-2600973.jpg?tf=1200x' alt='Es probable que tu nuevo teléfono móvil Android ya venga con malware preinstalado' />
+    <h4><a href='https://computerhoy.com/life/cofre-vikingo-hace-1000-anos-cerrado-cadenas-que-hay-dentro-1244208'>Hallan un cofre vikingo de hace 1.000 años cerrado con cadenas, ¿qué hay dentro?</a></h4>
+    <a href='https://computerhoy.com/life/cofre-vikingo-hace-1000-anos-cerrado-cadenas-que-hay-dentro-1244208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/hallan-cofre-vikingo-hace-1000-anos-cerrado-cadenas-hay-dentro-3031858.jpg?tf=1200x' alt='Hallan un cofre vikingo de hace 1.000 años cerrado con cadenas, ¿qué hay dentro?' />
     </a>
 </div>
 
