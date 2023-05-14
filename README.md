@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/seo-considera-clave-exito-internet-1230752'>¿Qué es SEO y por qué se considera la clave del éxito en Internet?</a></h4>
-    <a href='https://computerhoy.com/internet/seo-considera-clave-exito-internet-1230752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1683883075320-3032084.jpg?tf=1200x' alt='¿Qué es SEO y por qué se considera la clave del éxito en Internet?' />
+    <h4><a href='https://computerhoy.com/ciencia/acabaron-largas-esperas-aeropuerto-aerolinea-emirates-lanza-robot-va-ayudarte-1245026'>Se acabaron las largas esperas en el aeropuerto: la aerolínea Emirates lanza este robot que va a ayudarte</a></h4>
+    <a href='https://computerhoy.com/ciencia/acabaron-largas-esperas-aeropuerto-aerolinea-emirates-lanza-robot-va-ayudarte-1245026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/aerolinea-emirates-lanza-robot-va-ayudarte-3033194.jpg?tf=1200x' alt='Se acabaron las largas esperas en el aeropuerto: la aerolínea Emirates lanza este robot que va a ayudarte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/guia-practica-instalar-placas-solares-tipos-normativa-subvenciones-1241918'>Guía práctica para instalar placas solares en España y no morir en el intento</a></h4>
-    <a href='https://computerhoy.com/guia-compra/guia-practica-instalar-placas-solares-tipos-normativa-subvenciones-1241918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/placas-solares-3032122.jpg?tf=1200x' alt='Guía práctica para instalar placas solares en España y no morir en el intento' />
+    <h4><a href='https://computerhoy.com/amazon/proxima-generacion-robot-amazon-astro-apostara-ia-similar-chatgpt-podria-hacer-todo-1245020'>La próxima generación del robot Amazon Astro apostará por una IA similar a la de ChatGPT, y podría hacer todo esto</a></h4>
+    <a href='https://computerhoy.com/amazon/proxima-generacion-robot-amazon-astro-apostara-ia-similar-chatgpt-podria-hacer-todo-1245020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-astro-3033190.jpg?tf=1200x' alt='La próxima generación del robot Amazon Astro apostará por una IA similar a la de ChatGPT, y podría hacer todo esto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/10-mitos-bateria-movil-no-deberias-creer-1243352'>10 mitos y mentiras sobre la batería de tu móvil y su carga que no deberías creer</a></h4>
-    <a href='https://computerhoy.com/tecnologia/10-mitos-bateria-movil-no-deberias-creer-1243352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bateria-charmast-2884375.jpg?tf=1200x' alt='10 mitos y mentiras sobre la batería de tu móvil y su carga que no deberías creer' />
+    <h4><a href='https://computerhoy.com/hogar/roborock-s8-oferta-lanzamiento-descuento-1244362'>El Ferrari de los robots aspiradores tiene 110€ de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/hogar/roborock-s8-oferta-lanzamiento-descuento-1244362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/roborock-s8-3032266.jpg?tf=1200x' alt='El Ferrari de los robots aspiradores tiene 110€ de descuento en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-estos-brazos-roboticos-forma-arana-seres-humanos-puedan-interactuar-robots-1244796'>Crean estos brazos robóticos con forma de araña para que los seres humanos puedan interactuar con los robots</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-estos-brazos-roboticos-forma-arana-seres-humanos-puedan-interactuar-robots-1244796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/crean-estos-brazos-roboticos-forma-arana-seres-humanos-puedan-interactuar-robots-3032902.jpg?tf=1200x' alt='Crean estos brazos robóticos con forma de araña para que los seres humanos puedan interactuar con los robots' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-series-clasicas-han-vuelto-vidas-gracias-netflix-skyshowtime-otras-plataformas-1242686'>7 series clásicas que han vuelto a nuestras vidas gracias a Netflix, SkyShowtime y otras plataformas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-series-clasicas-han-vuelto-vidas-gracias-netflix-skyshowtime-otras-plataformas-1242686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/seinfeld-2488327.jpg?tf=1200x' alt='7 series clásicas que han vuelto a nuestras vidas gracias a Netflix, SkyShowtime y otras plataformas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/preguntas-incomodan-chatgpt-alguna-no-respondera-1230368'>Estas son las preguntas que más incomodan a ChatGPT: con alguna, no continuará la conversación</a></h4>
-    <a href='https://computerhoy.com/tecnologia/preguntas-incomodan-chatgpt-alguna-no-respondera-1230368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inteligencia-artificial-ia-chatgpt-3014258.jpg?tf=1200x' alt='Estas son las preguntas que más incomodan a ChatGPT: con alguna, no continuará la conversación' />
+    <h4><a href='https://computerhoy.com/apple/esperado-visor-realidad-mixta-apple-supera-creces-competencia-informe-1245012'>El esperado visor de realidad mixta de Apple “supera con creces a la competencia”, según un informe</a></h4>
+    <a href='https://computerhoy.com/apple/esperado-visor-realidad-mixta-apple-supera-creces-competencia-informe-1245012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/visor-realidad-virtual-2721487.jpg?tf=1200x' alt='El esperado visor de realidad mixta de Apple “supera con creces a la competencia”, según un informe' />
     </a>
 </div>
 
