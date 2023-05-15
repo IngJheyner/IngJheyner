@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hp-vuelve-andadas-bloqueara-impresora-no-utilizas-cartuchos-tinta-originales-1245400'>HP vuelve a las andadas y bloqueará tu impresora si no utilizas cartuchos de tinta originales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hp-vuelve-andadas-bloqueara-impresora-no-utilizas-cartuchos-tinta-originales-1245400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg?tf=1200x' alt='HP vuelve a las andadas y bloqueará tu impresora si no utilizas cartuchos de tinta originales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-declara-guerra-imagenes-hechas-ia-1245388'>Google le declara la guerra a las imágenes hechas por IA</a></h4>
+    <a href='https://computerhoy.com/google/google-declara-guerra-imagenes-hechas-ia-1245388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-filial-alphabet-3014818.jpg?tf=1200x' alt='Google le declara la guerra a las imágenes hechas por IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/ofertas-carrefour-dias-internet-smart-tv-descuentos-chollos-1245252'>Los Días de Internet de Carrefour rebajan a precios mínimos estas excelentes Smart TV</a></h4>
     <a href='https://computerhoy.com/tv/ofertas-carrefour-dias-internet-smart-tv-descuentos-chollos-1245252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/smart-tv-philips-ambilight-3033568.jpg?tf=1200x' alt='Los Días de Internet de Carrefour rebajan a precios mínimos estas excelentes Smart TV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-cambiaria-estrategia-iphone-15-tendria-misma-camara-modelo-pro-1245376'>Apple cambiaría la estrategia: el iPhone 15 tendría la misma cámara que el modelo Pro</a></h4>
     <a href='https://computerhoy.com/apple/apple-cambiaria-estrategia-iphone-15-tendria-misma-camara-modelo-pro-1245376' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='Apple cambiaría la estrategia: el iPhone 15 tendría la misma cámara que el modelo Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/policia-nacional-pone-fin-red-criminal-usaba-bots-bloquear-luego-vender-citas-tramites-online-1245338'>La Policía Nacional pone fin a una red criminal que usaba bots para bloquear y luego vender citas a trámites online</a></h4>
-    <a href='https://computerhoy.com/software/policia-nacional-pone-fin-red-criminal-usaba-bots-bloquear-luego-vender-citas-tramites-online-1245338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/robot-inteligencia-artificial-3018742.jpg?tf=1200x' alt='La Policía Nacional pone fin a una red criminal que usaba bots para bloquear y luego vender citas a trámites online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-controlara-bostezos-parpadeos-quiere-acabar-accidentes-1245306'>Tesla controlará los bostezos y parpadeos: así quiere acabar con los accidentes</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-controlara-bostezos-parpadeos-quiere-acabar-accidentes-1245306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tesla-cuerdas-empleados-compartieron-contenido-sensible-grabado-vehiculos-3005386.jpg?tf=1200x' alt='Tesla controlará los bostezos y parpadeos: así quiere acabar con los accidentes' />
     </a>
 </div>
 
