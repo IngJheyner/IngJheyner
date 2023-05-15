@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/ofertas-carrefour-dias-internet-smart-tv-descuentos-chollos-1245252'>Los Días de Internet de Carrefour rebajan a precios mínimos estas excelentes Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/ofertas-carrefour-dias-internet-smart-tv-descuentos-chollos-1245252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/smart-tv-philips-ambilight-3033568.jpg?tf=1200x' alt='Los Días de Internet de Carrefour rebajan a precios mínimos estas excelentes Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/europa-da-luz-verde-compra-activision-blizzard-microsoft-1245394'>Europa da luz verde: Microsoft compra Activision Blizzard</a></h4>
+    <a href='https://computerhoy.com/gaming/europa-da-luz-verde-compra-activision-blizzard-microsoft-1245394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/persona-sosteniendo-mando-xbox-2630799.jpg?tf=1200x' alt='Europa da luz verde: Microsoft compra Activision Blizzard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-cambiaria-estrategia-iphone-15-tendria-misma-camara-modelo-pro-1245376'>Apple cambiaría la estrategia: el iPhone 15 tendría la misma cámara que el modelo Pro</a></h4>
+    <a href='https://computerhoy.com/apple/apple-cambiaria-estrategia-iphone-15-tendria-misma-camara-modelo-pro-1245376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='Apple cambiaría la estrategia: el iPhone 15 tendría la misma cámara que el modelo Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/software/policia-nacional-pone-fin-red-criminal-usaba-bots-bloquear-luego-vender-citas-tramites-online-1245338'>La Policía Nacional pone fin a una red criminal que usaba bots para bloquear y luego vender citas a trámites online</a></h4>
     <a href='https://computerhoy.com/software/policia-nacional-pone-fin-red-criminal-usaba-bots-bloquear-luego-vender-citas-tramites-online-1245338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/robot-inteligencia-artificial-3018742.jpg?tf=1200x' alt='La Policía Nacional pone fin a una red criminal que usaba bots para bloquear y luego vender citas a trámites online' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/tesla-controlara-bostezos-parpadeos-quiere-acabar-accidentes-1245306'>Tesla controlará los bostezos y parpadeos: así quiere acabar con los accidentes</a></h4>
     <a href='https://computerhoy.com/motor/tesla-controlara-bostezos-parpadeos-quiere-acabar-accidentes-1245306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tesla-cuerdas-empleados-compartieron-contenido-sensible-grabado-vehiculos-3005386.jpg?tf=1200x' alt='Tesla controlará los bostezos y parpadeos: así quiere acabar con los accidentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/filtradas-especificaciones-nuevos-chips-apple-m3-pro-salto-potencia-inminente-1245304'>Filtradas las especificaciones de los nuevos chips Apple M3 Pro: el salto en potencia es inminente</a></h4>
-    <a href='https://computerhoy.com/apple/filtradas-especificaciones-nuevos-chips-apple-m3-pro-salto-potencia-inminente-1245304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-mac-mini-2464089.jpg?tf=1200x' alt='Filtradas las especificaciones de los nuevos chips Apple M3 Pro: el salto en potencia es inminente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-acepta-multa-pagara-7-millones-euros-publicidad-enganosa-google-pixel-1245280'>Google acepta la multa: pagará 7 millones de euros por publicidad engañosa en los Google Pixel</a></h4>
-    <a href='https://computerhoy.com/google/google-acepta-multa-pagara-7-millones-euros-publicidad-enganosa-google-pixel-1245280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-2995320.jpg?tf=1200x' alt='Google acepta la multa: pagará 7 millones de euros por publicidad engañosa en los Google Pixel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/dyson-v8-oferta-precio-minimo-liquidacion-1245278'>Dyson en liquidación: la aspiradora Dyson V8 está a uno de sus precios mínimos históricos</a></h4>
-    <a href='https://computerhoy.com/hogar/dyson-v8-oferta-precio-minimo-liquidacion-1245278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dyson-v8-animal-2389429.jpg?tf=1200x' alt='Dyson en liquidación: la aspiradora Dyson V8 está a uno de sus precios mínimos históricos' />
     </a>
 </div>
 
