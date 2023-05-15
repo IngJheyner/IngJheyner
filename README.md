@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/secreto-iniciar-onlyfans-seguidores-expertos-1235386'>El secreto para triunfar en OnlyFans, según los expertos</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/secreto-iniciar-onlyfans-seguidores-expertos-1235386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/onlyfans-2659279.jpg?tf=1200x' alt='El secreto para triunfar en OnlyFans, según los expertos' />
+    <h4><a href='https://computerhoy.com/google/google-acepta-multa-pagara-7-millones-euros-publicidad-enganosa-google-pixel-1245280'>Google acepta la multa: pagará 7 millones de euros por publicidad engañosa en los Google Pixel</a></h4>
+    <a href='https://computerhoy.com/google/google-acepta-multa-pagara-7-millones-euros-publicidad-enganosa-google-pixel-1245280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-2995320.jpg?tf=1200x' alt='Google acepta la multa: pagará 7 millones de euros por publicidad engañosa en los Google Pixel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/impacto-ia-ciberseguridad-ataques-avanzados-defensas-mejoradas-1241912'>La inteligencia artificial como arma de doble filo: ciberataques sofisticados y sistemas de vanguardia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/impacto-ia-ciberseguridad-ataques-avanzados-defensas-mejoradas-1241912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-como-arma-doble-filo-ciberataques-sofisticados-pero-sistemas-mejorados-3031516.jpg?tf=1200x' alt='La inteligencia artificial como arma de doble filo: ciberataques sofisticados y sistemas de vanguardia' />
+    <h4><a href='https://computerhoy.com/hogar/dyson-v8-oferta-precio-minimo-liquidacion-1245278'>Dyson en liquidación: la aspiradora Dyson V8 está a uno de sus precios mínimos históricos</a></h4>
+    <a href='https://computerhoy.com/hogar/dyson-v8-oferta-precio-minimo-liquidacion-1245278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dyson-v8-animal-2389429.jpg?tf=1200x' alt='Dyson en liquidación: la aspiradora Dyson V8 está a uno de sus precios mínimos históricos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-gratis-android-auto-2023-1239100'>Las mejores aplicaciones gratis para Android Auto de 2023</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-aplicaciones-gratis-android-auto-2023-1239100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/android-auto-bmw-2107987.jpg?tf=1200x' alt='Las mejores aplicaciones gratis para Android Auto de 2023' />
+    <h4><a href='https://computerhoy.com/tecnologia/descubre-como-chatgpt-puede-ayudarte-ganar-dinero-1240898'>Descubre cómo ChatGPT puede ayudarte a ganar más dinero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descubre-como-chatgpt-puede-ayudarte-ganar-dinero-1240898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/ganar-dinero-criptomonedas.jpg?tf=1200x' alt='Descubre cómo ChatGPT puede ayudarte a ganar más dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/verdadero-falso-carga-inalambrica-dana-bateria-movil-1243278'>Verdadero o falso: ¿la carga inalámbrica daña la batería de tu móvil?</a></h4>
-    <a href='https://computerhoy.com/moviles/verdadero-falso-carga-inalambrica-dana-bateria-movil-1243278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/carga-inalambrica-2801511.jpg?tf=1200x' alt='Verdadero o falso: ¿la carga inalámbrica daña la batería de tu móvil?' />
+    <h4><a href='https://computerhoy.com/apps/gran-actualizacion-canales-whatsapp-ya-marcha-1245268'>La gran actualización de los canales de WhatsApp ya está en marcha</a></h4>
+    <a href='https://computerhoy.com/apps/gran-actualizacion-canales-whatsapp-ya-marcha-1245268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/contactos-whatsapp-3003478.jpg?tf=1200x' alt='La gran actualización de los canales de WhatsApp ya está en marcha' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/iphone-13-pro-merece-pena-caracteristicas-alternativas-baratas-1244396'>iPhone 13 Pro: ¿merece la pena en 2023? Características y alternativas baratas</a></h4>
-    <a href='https://computerhoy.com/moviles/iphone-13-pro-merece-pena-caracteristicas-alternativas-baratas-1244396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/iphone-13-pro-3032348.jpg?tf=1200x' alt='iPhone 13 Pro: ¿merece la pena en 2023? Características y alternativas baratas' />
+    <h4><a href='https://computerhoy.com/tutoriales/herramientas-descargar-cualquier-video-cualquier-web-1241892'>Herramientas para descargar cualquier vídeo de cualquier web</a></h4>
+    <a href='https://computerhoy.com/tutoriales/herramientas-descargar-cualquier-video-cualquier-web-1241892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bajar-videos-3027682.jpg?tf=1200x' alt='Herramientas para descargar cualquier vídeo de cualquier web' />
     </a>
 </div>
 
