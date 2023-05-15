@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/muere-loonkito-leon-mas-viejo-mundo-tribu-masai-1245076'>Muere el león más viejo del mundo, lanceado por miembros de la tribu de los Masái</a></h4>
+    <a href='https://computerhoy.com/life/muere-loonkito-leon-mas-viejo-mundo-tribu-masai-1245076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/muere-leon-viejo-mundo-lanceado-miembros-tribu-masai-3033346.jpg?tf=1200x' alt='Muere el león más viejo del mundo, lanceado por miembros de la tribu de los Masái' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/adivina-futuro-lector-cartas-tarot-creado-raspberry-pi-1245074'>Ya puedes adivinar el futuro con este lector de cartas del tarot creado con una Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/tecnologia/adivina-futuro-lector-cartas-tarot-creado-raspberry-pi-1245074' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lector-cartas-tarot-raspberry-pi-3033332.jpg?tf=1200x' alt='Ya puedes adivinar el futuro con este lector de cartas del tarot creado con una Raspberry Pi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/pixel-7-bajada-precio-1244344'>Con el Pixel 7a a la venta, el precio de este Pixel 7 es de escándalo</a></h4>
     <a href='https://computerhoy.com/moviles/pixel-7-bajada-precio-1244344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pro-google-pixel-7-2838095.jpg?tf=1200x' alt='Con el Pixel 7a a la venta, el precio de este Pixel 7 es de escándalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ssd-gen5-problema-calor-disipador-rendimiento-1245062'>Los SSD PCIe 5.0 tienen un gran problema, que reduce su rendimiento al de un disco duro</a></h4>
-    <a href='https://computerhoy.com/pc/ssd-gen5-problema-calor-disipador-rendimiento-1245062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ssd-pcie-50-tienen-gran-problema-reduce-rendimiento-disco-duro-3033268.jpg?tf=1200x' alt='Los SSD PCIe 5.0 tienen un gran problema, que reduce su rendimiento al de un disco duro' />
     </a>
 </div>
 
