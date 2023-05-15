@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/fuerzas-orden-utilizan-cada-vez-inteligencia-artificial-pero-no-entienden-como-funciona-estudio-1245432'>Las fuerzas del orden utilizan cada vez más la inteligencia artificial pero no entienden cómo funciona, según este estudio</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/fuerzas-orden-utilizan-cada-vez-inteligencia-artificial-pero-no-entienden-como-funciona-estudio-1245432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/robot-policia-3033920.jpg?tf=1200x' alt='Las fuerzas del orden utilizan cada vez más la inteligencia artificial pero no entienden cómo funciona, según este estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/creador-chatgpt-tiene-nuevo-plan-salvar-mundo-ia-clave-ojos-1245430'>El creador de ChatGPT tiene nuevo plan para salvar al mundo de la IA: la clave está en tus ojos</a></h4>
+    <a href='https://computerhoy.com/criptos/creador-chatgpt-tiene-nuevo-plan-salvar-mundo-ia-clave-ojos-1245430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/worldcoin-3033918.jpg?tf=1200x' alt='El creador de ChatGPT tiene nuevo plan para salvar al mundo de la IA: la clave está en tus ojos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/hp-vuelve-andadas-bloqueara-impresora-no-utilizas-cartuchos-tinta-originales-1245400'>HP vuelve a las andadas y bloqueará tu impresora si no utilizas cartuchos de tinta originales</a></h4>
     <a href='https://computerhoy.com/tecnologia/hp-vuelve-andadas-bloqueara-impresora-no-utilizas-cartuchos-tinta-originales-1245400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg?tf=1200x' alt='HP vuelve a las andadas y bloqueará tu impresora si no utilizas cartuchos de tinta originales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/ofertas-carrefour-dias-internet-smart-tv-descuentos-chollos-1245252'>Los Días de Internet de Carrefour rebajan a precios mínimos estas excelentes Smart TV</a></h4>
     <a href='https://computerhoy.com/tv/ofertas-carrefour-dias-internet-smart-tv-descuentos-chollos-1245252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/smart-tv-philips-ambilight-3033568.jpg?tf=1200x' alt='Los Días de Internet de Carrefour rebajan a precios mínimos estas excelentes Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/europa-da-luz-verde-compra-activision-blizzard-microsoft-1245394'>Europa da luz verde: Microsoft compra Activision Blizzard</a></h4>
-    <a href='https://computerhoy.com/gaming/europa-da-luz-verde-compra-activision-blizzard-microsoft-1245394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/persona-sosteniendo-mando-xbox-2630799.jpg?tf=1200x' alt='Europa da luz verde: Microsoft compra Activision Blizzard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-cambiaria-estrategia-iphone-15-tendria-misma-camara-modelo-pro-1245376'>Apple cambiaría la estrategia: el iPhone 15 tendría la misma cámara que el modelo Pro</a></h4>
-    <a href='https://computerhoy.com/apple/apple-cambiaria-estrategia-iphone-15-tendria-misma-camara-modelo-pro-1245376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='Apple cambiaría la estrategia: el iPhone 15 tendría la misma cámara que el modelo Pro' />
     </a>
 </div>
 
