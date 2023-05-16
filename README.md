@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/demanda-ibm-no-subirle-sueldo-pasar-15-anos-baja-1245978'>Demanda a IBM por no subirle el sueldo tras pasar más de 15 años de baja</a></h4>
-    <a href='https://computerhoy.com/life/demanda-ibm-no-subirle-sueldo-pasar-15-anos-baja-1245978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ibm-3034700.jpg?tf=1200x' alt='Demanda a IBM por no subirle el sueldo tras pasar más de 15 años de baja' />
+    <h4><a href='https://computerhoy.com/motor/danando-coche-forma-conducir-1245958'>Si conduces de esta forma estás dañando tu coche y reduciendo su vida útil</a></h4>
+    <a href='https://computerhoy.com/motor/danando-coche-forma-conducir-1245958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/conductor-enfadado-volante-3034682.jpg?tf=1200x' alt='Si conduces de esta forma estás dañando tu coche y reduciendo su vida útil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/touchhle-nuevo-emulador-ios-usar-apps-iphone-pc-1196048'>TouchHLE, el nuevo emulador de iOS para usar apps del iPhone en el PC</a></h4>
-    <a href='https://computerhoy.com/apple/touchhle-nuevo-emulador-ios-usar-apps-iphone-pc-1196048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2963536.jpg?tf=1200x' alt='TouchHLE, el nuevo emulador de iOS para usar apps del iPhone en el PC' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-archivos-zip-protegidos-buscar-malware-nube-1245994'>¿Crees que tus archivos ZIP protegidos por contraseña son privados? Microsoft entra dentro para buscar malware</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/microsoft-archivos-zip-protegidos-buscar-malware-nube-1245994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/crees-archivos-zip-protegidos-contrasena-son-privados-microsoft-entra-dentro-buscar-malware-3034722.jpg?tf=1200x' alt='¿Crees que tus archivos ZIP protegidos por contraseña son privados? Microsoft entra dentro para buscar malware' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/claude-ai-nueva-inteligencia-artificial-capaz-entender-libro-segundos-deja-ridiculo-chatgpt-1245972'>Claude AI la nueva inteligencia artificial capaz de entender un libro en  segundos que deja en ridículo a ChatGPT</a></h4>
-    <a href='https://computerhoy.com/apps/claude-ai-nueva-inteligencia-artificial-capaz-entender-libro-segundos-deja-ridiculo-chatgpt-1245972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3034698.jpg?tf=1200x' alt='Claude AI la nueva inteligencia artificial capaz de entender un libro en  segundos que deja en ridículo a ChatGPT' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/risto-mejide-no-quiere-compres-criptomonedas-funciona-estafa-viral-utiliza-personajes-publicos-1245992'>Risto Mejide no quiere que compres criptomonedas: así funciona la estafa viral que utiliza a personajes públicos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/risto-mejide-no-quiere-compres-criptomonedas-funciona-estafa-viral-utiliza-personajes-publicos-1245992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/risto-mejide-no-quiere-compres-criptomonedas-funciona-estafa-viral-utiliza-personajes-publicos-3034702.jpg?tf=1200x' alt='Risto Mejide no quiere que compres criptomonedas: así funciona la estafa viral que utiliza a personajes públicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/razones-debes-cambiar-router-wifi-te-da-isp-1244504'>Por qué deberías cambiar siempre el router WiFi que te regala tu proveedor de Internet</a></h4>
-    <a href='https://computerhoy.com/tecnologia/razones-debes-cambiar-router-wifi-te-da-isp-1244504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/conexion-internet-router-wifi-2980900.jpg?tf=1200x' alt='Por qué deberías cambiar siempre el router WiFi que te regala tu proveedor de Internet' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-datos-personales-chatgpt-proteger-privacidad-1244714'>Cómo eliminar tus datos personales de ChatGPT para proteger tu privacidad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-eliminar-datos-personales-chatgpt-proteger-privacidad-1244714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/limitaciones-chatgpt-8-cosas-chatbot-no-puede-hacer-3023726.jpg?tf=1200x' alt='Cómo eliminar tus datos personales de ChatGPT para proteger tu privacidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-copia-twitter-tambien-borrara-cuentas-haz-no-quieres-sea-eliminada-1245938'>Google copia a Twitter, también borrará cuentas: haz esto si no quieres que sea eliminada</a></h4>
-    <a href='https://computerhoy.com/google/google-copia-twitter-tambien-borrara-cuentas-haz-no-quieres-sea-eliminada-1245938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gmail-2912356.jpg?tf=1200x' alt='Google copia a Twitter, también borrará cuentas: haz esto si no quieres que sea eliminada' />
+    <h4><a href='https://computerhoy.com/software/ia-quita-coches-anade-vegetacion-cualquier-calle-resultado-nos-da-mucha-envidia-1187760'>Esta IA quita los coches y añade vegetación a cualquier calle, y el resultado nos da mucha envidia</a></h4>
+    <a href='https://computerhoy.com/software/ia-quita-coches-anade-vegetacion-cualquier-calle-resultado-nos-da-mucha-envidia-1187760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ia-quita-coches-anade-vegetacion-cualquier-calle-resultado-nos-da-mucha-envidia-3034208.jpg?tf=1200x' alt='Esta IA quita los coches y añade vegetación a cualquier calle, y el resultado nos da mucha envidia' />
     </a>
 </div>
 
