@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-permitira-usuarios-bloquear-ocultar-conversaciones-1245668'>WhatsApp te permitirá bloquear con contraseña y ocultar tus chats de los más cotillas</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-permitira-usuarios-bloquear-ocultar-conversaciones-1245668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-te-permitira-bloquear-ocultar-chats-individuales-fisgones-3034164.jpg?tf=1200x' alt='WhatsApp te permitirá bloquear con contraseña y ocultar tus chats de los más cotillas' />
+    <h4><a href='https://computerhoy.com/gaming/como-conseguir-15eu-gratis-playstation-store-comprar-recarga-1245782'>Cómo conseguir 15€ gratis en PlayStation Store al comprar esta recarga</a></h4>
+    <a href='https://computerhoy.com/gaming/como-conseguir-15eu-gratis-playstation-store-comprar-recarga-1245782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ps-store-2744241.jpg?tf=1200x' alt='Cómo conseguir 15€ gratis en PlayStation Store al comprar esta recarga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989'>Estos son los mejores móviles de Google que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029780.jpg?tf=1200x' alt='Estos son los mejores móviles de Google que puedes comprar' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-cuenta-dos-grandes-funciones-muy-esperadas-usuarios-1245778'>ChatGPT ya cuenta con dos grandes funciones que todos los usuarios estaban esperando</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-cuenta-dos-grandes-funciones-muy-esperadas-usuarios-1245778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/chatgpt-ya-cuenta-2-grandes-funciones-todos-usuarios-estaban-esperando-3034376.jpg?tf=1200x' alt='ChatGPT ya cuenta con dos grandes funciones que todos los usuarios estaban esperando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/fuerzas-orden-utilizan-cada-vez-inteligencia-artificial-pero-no-entienden-como-funciona-estudio-1245432'>Las fuerzas del orden utilizan cada vez más la inteligencia artificial pero no entienden cómo funciona, según este estudio</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/fuerzas-orden-utilizan-cada-vez-inteligencia-artificial-pero-no-entienden-como-funciona-estudio-1245432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/robot-policia-3033920.jpg?tf=1200x' alt='Las fuerzas del orden utilizan cada vez más la inteligencia artificial pero no entienden cómo funciona, según este estudio' />
+    <h4><a href='https://computerhoy.com/amazon/han-hackeado-cuenta-amazon-5-senales-te-haran-sospechar-1245710'>¿Han hackeado tu cuenta de Amazon? 5 señales que te harán sospechar</a></h4>
+    <a href='https://computerhoy.com/amazon/han-hackeado-cuenta-amazon-5-senales-te-haran-sospechar-1245710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/han-hackeado-cuenta-amazon-5-senales-te-haran-sospechar-3034256.jpg?tf=1200x' alt='¿Han hackeado tu cuenta de Amazon? 5 señales que te harán sospechar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/creador-chatgpt-tiene-nuevo-plan-salvar-mundo-ia-clave-ojos-1245430'>El creador de ChatGPT tiene nuevo plan para salvar al mundo de la IA: la clave está en tus ojos</a></h4>
-    <a href='https://computerhoy.com/criptos/creador-chatgpt-tiene-nuevo-plan-salvar-mundo-ia-clave-ojos-1245430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/worldcoin-3033918.jpg?tf=1200x' alt='El creador de ChatGPT tiene nuevo plan para salvar al mundo de la IA: la clave está en tus ojos' />
+    <h4><a href='https://computerhoy.com/gaming/legend-zelda-tears-kingdom-oferta-lanzamiento-1245720'>El juego del año, 'The Legend of Zelda: Tears of the Kingdom', acaba de lanzarse y ya lo puedes conseguir en oferta</a></h4>
+    <a href='https://computerhoy.com/gaming/legend-zelda-tears-kingdom-oferta-lanzamiento-1245720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/legend-zelda-tears-kingdom-3034240.jpg?tf=1200x' alt='El juego del año, 'The Legend of Zelda: Tears of the Kingdom', acaba de lanzarse y ya lo puedes conseguir en oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hp-vuelve-andadas-bloqueara-impresora-no-utilizas-cartuchos-tinta-originales-1245400'>HP vuelve a las andadas y bloqueará tu impresora si no utilizas cartuchos de tinta originales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hp-vuelve-andadas-bloqueara-impresora-no-utilizas-cartuchos-tinta-originales-1245400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg?tf=1200x' alt='HP vuelve a las andadas y bloqueará tu impresora si no utilizas cartuchos de tinta originales' />
+    <h4><a href='https://computerhoy.com/pc/millones-archivos-son-recuperados-discos-duros-estas-seguro-haber-borrado-bien-datos-1245686'>Millones de archivos son recuperados de los discos duros HDD: ¿estás seguro de haber borrado bien tus datos?</a></h4>
+    <a href='https://computerhoy.com/pc/millones-archivos-son-recuperados-discos-duros-estas-seguro-haber-borrado-bien-datos-1245686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/disco-duro-2769499.jpg?tf=1200x' alt='Millones de archivos son recuperados de los discos duros HDD: ¿estás seguro de haber borrado bien tus datos?' />
     </a>
 </div>
 
