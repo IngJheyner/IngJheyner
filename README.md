@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/fundador-oculus-elogia-gafas-reality-pro-apple-mayor-rival-1245810'>El fundador de Oculus elogia las gafas Reality Pro de Apple, su mayor rival en el mercado</a></h4>
+    <a href='https://computerhoy.com/apple/fundador-oculus-elogia-gafas-reality-pro-apple-mayor-rival-1245810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/fundador-oculus-elogia-gafas-reality-pro-apple-mayor-rival-mercado-3034406.jpg?tf=1200x' alt='El fundador de Oculus elogia las gafas Reality Pro de Apple, su mayor rival en el mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/como-conseguir-15eu-gratis-playstation-store-comprar-recarga-1245782'>Cómo conseguir 15€ gratis en PlayStation Store al comprar esta recarga</a></h4>
     <a href='https://computerhoy.com/gaming/como-conseguir-15eu-gratis-playstation-store-comprar-recarga-1245782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ps-store-2744241.jpg?tf=1200x' alt='Cómo conseguir 15€ gratis en PlayStation Store al comprar esta recarga' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/legend-zelda-tears-kingdom-oferta-lanzamiento-1245720'>El juego del año, 'The Legend of Zelda: Tears of the Kingdom', acaba de lanzarse y ya lo puedes conseguir en oferta</a></h4>
     <a href='https://computerhoy.com/gaming/legend-zelda-tears-kingdom-oferta-lanzamiento-1245720' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/legend-zelda-tears-kingdom-3034240.jpg?tf=1200x' alt='El juego del año, 'The Legend of Zelda: Tears of the Kingdom', acaba de lanzarse y ya lo puedes conseguir en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/millones-archivos-son-recuperados-discos-duros-estas-seguro-haber-borrado-bien-datos-1245686'>Millones de archivos son recuperados de los discos duros HDD: ¿estás seguro de haber borrado bien tus datos?</a></h4>
-    <a href='https://computerhoy.com/pc/millones-archivos-son-recuperados-discos-duros-estas-seguro-haber-borrado-bien-datos-1245686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/disco-duro-2769499.jpg?tf=1200x' alt='Millones de archivos son recuperados de los discos duros HDD: ¿estás seguro de haber borrado bien tus datos?' />
     </a>
 </div>
 
