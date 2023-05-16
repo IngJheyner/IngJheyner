@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/fundador-oculus-elogia-gafas-reality-pro-apple-mayor-rival-1245810'>El fundador de Oculus elogia las gafas Reality Pro de Apple, su mayor rival en el mercado</a></h4>
-    <a href='https://computerhoy.com/apple/fundador-oculus-elogia-gafas-reality-pro-apple-mayor-rival-1245810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/fundador-oculus-elogia-gafas-reality-pro-apple-mayor-rival-mercado-3034406.jpg?tf=1200x' alt='El fundador de Oculus elogia las gafas Reality Pro de Apple, su mayor rival en el mercado' />
+    <h4><a href='https://computerhoy.com/mejores/tablets-android-extremadamente-baratas-1245766'>Tablets Android extremadamente baratas, por menos de 150€, pero que merecen la pena</a></h4>
+    <a href='https://computerhoy.com/mejores/tablets-android-extremadamente-baratas-1245766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/persona-utilizando-tablet-apple-ipad-3034556.jpg?tf=1200x' alt='Tablets Android extremadamente baratas, por menos de 150€, pero que merecen la pena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/como-conseguir-15eu-gratis-playstation-store-comprar-recarga-1245782'>Cómo conseguir 15€ gratis en PlayStation Store al comprar esta recarga</a></h4>
-    <a href='https://computerhoy.com/gaming/como-conseguir-15eu-gratis-playstation-store-comprar-recarga-1245782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ps-store-2744241.jpg?tf=1200x' alt='Cómo conseguir 15€ gratis en PlayStation Store al comprar esta recarga' />
+    <h4><a href='https://computerhoy.com/streaming/shazam-furia-dioses-estreno-hbo-max-1245924'>HBO Max estrena una nueva película del universo DC, que llegó a los cines hace apenas 2 meses</a></h4>
+    <a href='https://computerhoy.com/streaming/shazam-furia-dioses-estreno-hbo-max-1245924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/hbo-max-estrena-nueva-pelicula-universo-dc-llego-cines-hace-apenas-2-meses-3034530.jpg?tf=1200x' alt='HBO Max estrena una nueva película del universo DC, que llegó a los cines hace apenas 2 meses' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-cuenta-dos-grandes-funciones-muy-esperadas-usuarios-1245778'>ChatGPT ya cuenta con dos grandes funciones que todos los usuarios estaban esperando</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-cuenta-dos-grandes-funciones-muy-esperadas-usuarios-1245778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/chatgpt-ya-cuenta-2-grandes-funciones-todos-usuarios-estaban-esperando-3034376.jpg?tf=1200x' alt='ChatGPT ya cuenta con dos grandes funciones que todos los usuarios estaban esperando' />
+    <h4><a href='https://computerhoy.com/apple/iphone-podran-hablar-voz-solo-15-minutos-entrenamiento-1245914'>Los iPhone con iOS 17 podrán imitar tu voz con solo 15 minutos de entrenamiento</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-podran-hablar-voz-solo-15-minutos-entrenamiento-1245914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/accesibilidad-iphone-3034606.jpg?tf=1200x' alt='Los iPhone con iOS 17 podrán imitar tu voz con solo 15 minutos de entrenamiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/han-hackeado-cuenta-amazon-5-senales-te-haran-sospechar-1245710'>¿Han hackeado tu cuenta de Amazon? 5 señales que te harán sospechar</a></h4>
-    <a href='https://computerhoy.com/amazon/han-hackeado-cuenta-amazon-5-senales-te-haran-sospechar-1245710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/han-hackeado-cuenta-amazon-5-senales-te-haran-sospechar-3034256.jpg?tf=1200x' alt='¿Han hackeado tu cuenta de Amazon? 5 señales que te harán sospechar' />
+    <h4><a href='https://computerhoy.com/legislacion/funciones-tiene-cada-miembro-mesa-electoral-1245874'>Presidente, vocal, interventor y apoderado: ¿qué funciones tiene cada miembro de una mesa electoral?</a></h4>
+    <a href='https://computerhoy.com/legislacion/funciones-tiene-cada-miembro-mesa-electoral-1245874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elecciones-3034516.jpg?tf=1200x' alt='Presidente, vocal, interventor y apoderado: ¿qué funciones tiene cada miembro de una mesa electoral?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/legend-zelda-tears-kingdom-oferta-lanzamiento-1245720'>El juego del año, 'The Legend of Zelda: Tears of the Kingdom', acaba de lanzarse y ya lo puedes conseguir en oferta</a></h4>
-    <a href='https://computerhoy.com/gaming/legend-zelda-tears-kingdom-oferta-lanzamiento-1245720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/legend-zelda-tears-kingdom-3034240.jpg?tf=1200x' alt='El juego del año, 'The Legend of Zelda: Tears of the Kingdom', acaba de lanzarse y ya lo puedes conseguir en oferta' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-desarrollando-propio-chatgpt-utilizara-vender-1245878'>Amazon está desarrollando su propio ChatGPT y lo utilizará para vender más</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-desarrollando-propio-chatgpt-utilizara-vender-1245878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/trabajador-amazon-cajas-3009892.jpg?tf=1200x' alt='Amazon está desarrollando su propio ChatGPT y lo utilizará para vender más' />
     </a>
 </div>
 
