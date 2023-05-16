@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/tablets-android-extremadamente-baratas-1245766'>Tablets Android extremadamente baratas, por menos de 150€, pero que merecen la pena</a></h4>
-    <a href='https://computerhoy.com/mejores/tablets-android-extremadamente-baratas-1245766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/persona-utilizando-tablet-apple-ipad-3034556.jpg?tf=1200x' alt='Tablets Android extremadamente baratas, por menos de 150€, pero que merecen la pena' />
+    <h4><a href='https://computerhoy.com/life/demanda-ibm-no-subirle-sueldo-pasar-15-anos-baja-1245978'>Demanda a IBM por no subirle el sueldo tras pasar más de 15 años de baja</a></h4>
+    <a href='https://computerhoy.com/life/demanda-ibm-no-subirle-sueldo-pasar-15-anos-baja-1245978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ibm-3034700.jpg?tf=1200x' alt='Demanda a IBM por no subirle el sueldo tras pasar más de 15 años de baja' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/shazam-furia-dioses-estreno-hbo-max-1245924'>HBO Max estrena una nueva película del universo DC, que llegó a los cines hace apenas 2 meses</a></h4>
-    <a href='https://computerhoy.com/streaming/shazam-furia-dioses-estreno-hbo-max-1245924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/hbo-max-estrena-nueva-pelicula-universo-dc-llego-cines-hace-apenas-2-meses-3034530.jpg?tf=1200x' alt='HBO Max estrena una nueva película del universo DC, que llegó a los cines hace apenas 2 meses' />
+    <h4><a href='https://computerhoy.com/apple/touchhle-nuevo-emulador-ios-usar-apps-iphone-pc-1196048'>TouchHLE, el nuevo emulador de iOS para usar apps del iPhone en el PC</a></h4>
+    <a href='https://computerhoy.com/apple/touchhle-nuevo-emulador-ios-usar-apps-iphone-pc-1196048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2963536.jpg?tf=1200x' alt='TouchHLE, el nuevo emulador de iOS para usar apps del iPhone en el PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-podran-hablar-voz-solo-15-minutos-entrenamiento-1245914'>Los iPhone con iOS 17 podrán imitar tu voz con solo 15 minutos de entrenamiento</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-podran-hablar-voz-solo-15-minutos-entrenamiento-1245914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/accesibilidad-iphone-3034606.jpg?tf=1200x' alt='Los iPhone con iOS 17 podrán imitar tu voz con solo 15 minutos de entrenamiento' />
+    <h4><a href='https://computerhoy.com/apps/claude-ai-nueva-inteligencia-artificial-capaz-entender-libro-segundos-deja-ridiculo-chatgpt-1245972'>Claude AI la nueva inteligencia artificial capaz de entender un libro en  segundos que deja en ridículo a ChatGPT</a></h4>
+    <a href='https://computerhoy.com/apps/claude-ai-nueva-inteligencia-artificial-capaz-entender-libro-segundos-deja-ridiculo-chatgpt-1245972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3034698.jpg?tf=1200x' alt='Claude AI la nueva inteligencia artificial capaz de entender un libro en  segundos que deja en ridículo a ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/funciones-tiene-cada-miembro-mesa-electoral-1245874'>Presidente, vocal, interventor y apoderado: ¿qué funciones tiene cada miembro de una mesa electoral?</a></h4>
-    <a href='https://computerhoy.com/legislacion/funciones-tiene-cada-miembro-mesa-electoral-1245874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elecciones-3034516.jpg?tf=1200x' alt='Presidente, vocal, interventor y apoderado: ¿qué funciones tiene cada miembro de una mesa electoral?' />
+    <h4><a href='https://computerhoy.com/tecnologia/razones-debes-cambiar-router-wifi-te-da-isp-1244504'>Por qué deberías cambiar siempre el router WiFi que te regala tu proveedor de Internet</a></h4>
+    <a href='https://computerhoy.com/tecnologia/razones-debes-cambiar-router-wifi-te-da-isp-1244504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/conexion-internet-router-wifi-2980900.jpg?tf=1200x' alt='Por qué deberías cambiar siempre el router WiFi que te regala tu proveedor de Internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-desarrollando-propio-chatgpt-utilizara-vender-1245878'>Amazon está desarrollando su propio ChatGPT y lo utilizará para vender más</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-desarrollando-propio-chatgpt-utilizara-vender-1245878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/trabajador-amazon-cajas-3009892.jpg?tf=1200x' alt='Amazon está desarrollando su propio ChatGPT y lo utilizará para vender más' />
+    <h4><a href='https://computerhoy.com/google/google-copia-twitter-tambien-borrara-cuentas-haz-no-quieres-sea-eliminada-1245938'>Google copia a Twitter, también borrará cuentas: haz esto si no quieres que sea eliminada</a></h4>
+    <a href='https://computerhoy.com/google/google-copia-twitter-tambien-borrara-cuentas-haz-no-quieres-sea-eliminada-1245938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gmail-2912356.jpg?tf=1200x' alt='Google copia a Twitter, también borrará cuentas: haz esto si no quieres que sea eliminada' />
     </a>
 </div>
 
