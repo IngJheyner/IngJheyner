@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-permitira-usuarios-bloquear-ocultar-conversaciones-1245668'>WhatsApp te permitirá bloquear con contraseña y ocultar tus chats de los más cotillas</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-permitira-usuarios-bloquear-ocultar-conversaciones-1245668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-te-permitira-bloquear-ocultar-chats-individuales-fisgones-3034164.jpg?tf=1200x' alt='WhatsApp te permitirá bloquear con contraseña y ocultar tus chats de los más cotillas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989'>Estos son los mejores móviles de Google que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029780.jpg?tf=1200x' alt='Estos son los mejores móviles de Google que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/fuerzas-orden-utilizan-cada-vez-inteligencia-artificial-pero-no-entienden-como-funciona-estudio-1245432'>Las fuerzas del orden utilizan cada vez más la inteligencia artificial pero no entienden cómo funciona, según este estudio</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/fuerzas-orden-utilizan-cada-vez-inteligencia-artificial-pero-no-entienden-como-funciona-estudio-1245432' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/robot-policia-3033920.jpg?tf=1200x' alt='Las fuerzas del orden utilizan cada vez más la inteligencia artificial pero no entienden cómo funciona, según este estudio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/hp-vuelve-andadas-bloqueara-impresora-no-utilizas-cartuchos-tinta-originales-1245400'>HP vuelve a las andadas y bloqueará tu impresora si no utilizas cartuchos de tinta originales</a></h4>
     <a href='https://computerhoy.com/tecnologia/hp-vuelve-andadas-bloqueara-impresora-no-utilizas-cartuchos-tinta-originales-1245400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg?tf=1200x' alt='HP vuelve a las andadas y bloqueará tu impresora si no utilizas cartuchos de tinta originales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-declara-guerra-imagenes-hechas-ia-1245388'>Google le declara la guerra a las imágenes hechas por IA</a></h4>
-    <a href='https://computerhoy.com/google/google-declara-guerra-imagenes-hechas-ia-1245388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-filial-alphabet-3014818.jpg?tf=1200x' alt='Google le declara la guerra a las imágenes hechas por IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/ofertas-carrefour-dias-internet-smart-tv-descuentos-chollos-1245252'>Los Días de Internet de Carrefour rebajan a precios mínimos estas excelentes Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/ofertas-carrefour-dias-internet-smart-tv-descuentos-chollos-1245252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/smart-tv-philips-ambilight-3033568.jpg?tf=1200x' alt='Los Días de Internet de Carrefour rebajan a precios mínimos estas excelentes Smart TV' />
     </a>
 </div>
 
