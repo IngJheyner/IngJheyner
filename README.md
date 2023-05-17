@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/creador-chatgpt-alerta-inteligencia-artificial-podria-causar-gran-dano-mundo-1246302'>El creador de ChatGPT alerta: 'la inteligencia artificial podría causar gran daño al mundo'</a></h4>
-    <a href='https://computerhoy.com/tecnologia/creador-chatgpt-alerta-inteligencia-artificial-podria-causar-gran-dano-mundo-1246302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/creador-chatgpt-alerta-inteligencia-artificial-podria-causar-gran-dano-mundo-3035118.jpg?tf=1200x' alt='El creador de ChatGPT alerta: 'la inteligencia artificial podría causar gran daño al mundo'' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-echo-pop-show-5-auto-2a-gen-son-nuevos-altavoces-1246376'>Amazon reinventa sus altavoces inteligentes con el Echo Pop, un nuevo formato con diseño de semiesfera, junto con el Show 5 y Echo Auto</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-echo-pop-show-5-auto-2a-gen-son-nuevos-altavoces-1246376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-echo-pop-3035292.jpg?tf=1200x' alt='Amazon reinventa sus altavoces inteligentes con el Echo Pop, un nuevo formato con diseño de semiesfera, junto con el Show 5 y Echo Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s23-galaxy-watch5-oferta-1246296'>Este móvil tope de gama de Samsung viene con su smartwatch más avanzado de regalo</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-galaxy-s23-galaxy-watch5-oferta-1246296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006124.jpg?tf=1200x' alt='Este móvil tope de gama de Samsung viene con su smartwatch más avanzado de regalo' />
+    <h4><a href='https://computerhoy.com/google/google-quiere-movil-sea-dashcam-grabaras-accidentes-1246454'>Google quiere que tu móvil sea una dashcam: así grabarás accidentes</a></h4>
+    <a href='https://computerhoy.com/google/google-quiere-movil-sea-dashcam-grabaras-accidentes-1246454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029780.jpg?tf=1200x' alt='Google quiere que tu móvil sea una dashcam: así grabarás accidentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/luce-mujer-hombre-perfecto-inteligencia-artificial-1246286'>Este es el aspecto de la mujer y el hombre perfecto según la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/luce-mujer-hombre-perfecto-inteligencia-artificial-1246286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/aspecto-mujer-hombre-perfecto-deberian-tener-inteligencia-artificial-3035064.jpg?tf=1200x' alt='Este es el aspecto de la mujer y el hombre perfecto según la inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/life/londres-sidney-2-horas-seran-vuelos-espaciales-comerciales-1246222'>¡De Londres a Sídney en 2 horas! Llegan los revolucionarios vuelos espaciales comerciales</a></h4>
+    <a href='https://computerhoy.com/life/londres-sidney-2-horas-seran-vuelos-espaciales-comerciales-1246222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/talon-avion-quiere-instaurar-vuelos-hipersonicos-7500-km-h-1909033.jpg?tf=1200x' alt='¡De Londres a Sídney en 2 horas! Llegan los revolucionarios vuelos espaciales comerciales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/espana-alcanza-hito-generacion-energia-renovable-supera-demanda-pais-1246272'>España alcanza un hito: la energía renovable abastece la demanda del país durante ocho horas</a></h4>
-    <a href='https://computerhoy.com/energia/espana-alcanza-hito-generacion-energia-renovable-supera-demanda-pais-1246272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/espana-alcanza-hito-energia-renovable-abastece-demanda-pais-durante-ocho-horas-3035032.jpg?tf=1200x' alt='España alcanza un hito: la energía renovable abastece la demanda del país durante ocho horas' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-reporta-conexiones-vpn-lentas-debido-actualizacion-reciente-1246422'>Windows 11 reporta conexiones VPN lentas debido a una actualización reciente</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-reporta-conexiones-vpn-lentas-debido-actualizacion-reciente-1246422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-11-reporta-conexiones-vpn-lentas-debido-actualizacion-reciente-3035422.jpg?tf=1200x' alt='Windows 11 reporta conexiones VPN lentas debido a una actualización reciente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/impulsando-igualdad-genero-como-ia-podria-romper-barreras-1233584'>Impulsando la igualdad de género: cómo la inteligencia artificial podría romper barreras</a></h4>
-    <a href='https://computerhoy.com/tecnologia/impulsando-igualdad-genero-como-ia-podria-romper-barreras-1233584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/impulsando-igualdad-genero-como-inteligencia-artificial-podria-romper-barreras-3020508.jpg?tf=1200x' alt='Impulsando la igualdad de género: cómo la inteligencia artificial podría romper barreras' />
+    <h4><a href='https://computerhoy.com/francia-mundo-solo-dara-ayudas-coches-electricos-fabricados-europa-1246364'>Francia contra el mundo: solo dará ayudas a los coches eléctricos fabricados en Europa </a></h4>
+    <a href='https://computerhoy.com/francia-mundo-solo-dara-ayudas-coches-electricos-fabricados-europa-1246364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/francia-mundo-solo-dara-ayudas-coches-electricos-fabricados-europa-3035276.jpg?tf=1200x' alt='Francia contra el mundo: solo dará ayudas a los coches eléctricos fabricados en Europa ' />
     </a>
 </div>
 
