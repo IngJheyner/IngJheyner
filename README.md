@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mediamarkt-fuera-stock-rebajas-ofertas-1245926'>MediaMarkt pone móviles, tablets, portátiles, TV y mucho más con grandes descuentos en estas últimas unidades en stock</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mediamarkt-fuera-stock-rebajas-ofertas-1245926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/frontal-tienda-mediamarkt-3006918.jpg?tf=1200x' alt='MediaMarkt pone móviles, tablets, portátiles, TV y mucho más con grandes descuentos en estas últimas unidades en stock' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s23-galaxy-watch5-oferta-1246296'>Este móvil tope de gama de Samsung viene con su smartwatch más avanzado de regalo</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-galaxy-s23-galaxy-watch5-oferta-1246296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006124.jpg?tf=1200x' alt='Este móvil tope de gama de Samsung viene con su smartwatch más avanzado de regalo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/piedras-bruja-piedras-odin-que-son-1246226'>Qué son las piedras de Odín o piedras bruja, y por qué se llaman así</a></h4>
-    <a href='https://computerhoy.com/life/piedras-bruja-piedras-odin-que-son-1246226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/son-piedras-bruja-piedras-odin-llaman-3034986.jpg?tf=1200x' alt='Qué son las piedras de Odín o piedras bruja, y por qué se llaman así' />
+    <h4><a href='https://computerhoy.com/tecnologia/luce-mujer-hombre-perfecto-inteligencia-artificial-1246286'>Este es el aspecto de la mujer y el hombre perfecto según la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/luce-mujer-hombre-perfecto-inteligencia-artificial-1246286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/aspecto-mujer-hombre-perfecto-deberian-tener-inteligencia-artificial-3035064.jpg?tf=1200x' alt='Este es el aspecto de la mujer y el hombre perfecto según la inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/dr-deep-sea-dituri-bate-record-mundo-vivir-74-dias-bajo-agua-1246220'>Bate el récord del mundo tras vivir 75 días bajo el agua, quiere llegar a los 100 días</a></h4>
-    <a href='https://computerhoy.com/ciencia/dr-deep-sea-dituri-bate-record-mundo-vivir-74-dias-bajo-agua-1246220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bate-record-mundo-vivir-74-dias-agua-quiere-llegar-100-dias-3034736.jpg?tf=1200x' alt='Bate el récord del mundo tras vivir 75 días bajo el agua, quiere llegar a los 100 días' />
+    <h4><a href='https://computerhoy.com/energia/espana-alcanza-hito-generacion-energia-renovable-supera-demanda-pais-1246272'>España alcanza un hito: la energía renovable abastece la demanda del país durante ocho horas</a></h4>
+    <a href='https://computerhoy.com/energia/espana-alcanza-hito-generacion-energia-renovable-supera-demanda-pais-1246272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/espana-alcanza-hito-energia-renovable-abastece-demanda-pais-durante-ocho-horas-3035032.jpg?tf=1200x' alt='España alcanza un hito: la energía renovable abastece la demanda del país durante ocho horas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/paciente-m-soldado-espanol-tiro-cabeza-ver-mundo-reves-1246000'>Paciente M, el soldado de la Guerra Civil Española que recibió un tiro en la cabeza, y comenzó a ver el mundo al revés</a></h4>
-    <a href='https://computerhoy.com/ciencia/paciente-m-soldado-espanol-tiro-cabeza-ver-mundo-reves-1246000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/paciente-m-soldado-guerra-civil-espanola-recibio-tiro-cabeza-comenzo-ver-mundo-reves-3034724.jpg?tf=1200x' alt='Paciente M, el soldado de la Guerra Civil Española que recibió un tiro en la cabeza, y comenzó a ver el mundo al revés' />
+    <h4><a href='https://computerhoy.com/tecnologia/impulsando-igualdad-genero-como-ia-podria-romper-barreras-1233584'>Impulsando la igualdad de género: cómo la inteligencia artificial podría romper barreras</a></h4>
+    <a href='https://computerhoy.com/tecnologia/impulsando-igualdad-genero-como-ia-podria-romper-barreras-1233584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/impulsando-igualdad-genero-como-inteligencia-artificial-podria-romper-barreras-3020508.jpg?tf=1200x' alt='Impulsando la igualdad de género: cómo la inteligencia artificial podría romper barreras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/danando-coche-forma-conducir-1245958'>Si conduces de esta forma estás dañando tu coche y reduciendo su vida útil</a></h4>
-    <a href='https://computerhoy.com/motor/danando-coche-forma-conducir-1245958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/conductor-enfadado-volante-3034682.jpg?tf=1200x' alt='Si conduces de esta forma estás dañando tu coche y reduciendo su vida útil' />
+    <h4><a href='https://computerhoy.com/google/coleccion-400-videos-360-grados-google-1246232'>No puedes perderte la impresionante colección de 400 vídeos de 360 grados de Google </a></h4>
+    <a href='https://computerhoy.com/google/coleccion-400-videos-360-grados-google-1246232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/no-puedes-perderte-impresionante-coleccion-videos-360-grados-google-3034988.jpg?tf=1200x' alt='No puedes perderte la impresionante colección de 400 vídeos de 360 grados de Google ' />
     </a>
 </div>
 
