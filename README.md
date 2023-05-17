@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/suunto-vertical-caracteristicas-reloj-aventuras-deportes-extremos-1246346'>Así es Suunto Vertical, uno de los mejores relojes para aventureros y la práctica de deportes extremos</a></h4>
-    <a href='https://computerhoy.com/smartwatches/suunto-vertical-caracteristicas-reloj-aventuras-deportes-extremos-1246346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/suunto-vertical-3035366.jpg?tf=1200x' alt='Así es Suunto Vertical, uno de los mejores relojes para aventureros y la práctica de deportes extremos' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-molesta-mucho-sigas-utilizando-windows-10-1246528'>A Microsoft le molesta, y mucho, que sigas utilizando Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-molesta-mucho-sigas-utilizando-windows-10-1246528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg?tf=1200x' alt='A Microsoft le molesta, y mucho, que sigas utilizando Windows 10' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cosas-no-sabias-router-wifi-puede-hacer-1242050'>Cosas que no sabías que tu router WiFi puede hacer y que estás desaprovechando</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cosas-no-sabias-router-wifi-puede-hacer-1242050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-wifi-3035456.jpg?tf=1200x' alt='Cosas que no sabías que tu router WiFi puede hacer y que estás desaprovechando' />
+    <h4><a href='https://computerhoy.com/tutoriales/son-llamadas-wifi-como-activarlas-movil-android-1228014'>Qué son las llamadas WiFi y cómo activarlas en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/son-llamadas-wifi-como-activarlas-movil-android-1228014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lllamada-movil-2786823.jpg?tf=1200x' alt='Qué son las llamadas WiFi y cómo activarlas en tu móvil Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-seguira-tuiteando-piensa-incluso-eso-cuesta-dinero-empresas-1246470'>Elon Musk seguirá tuiteando lo que piensa, incluso si eso le cuesta dinero a sus empresas</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/elon-musk-seguira-tuiteando-piensa-incluso-eso-cuesta-dinero-empresas-1246470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-admite-fabricas-tesla-son-horno-quemar-dinero-2739093.jpg?tf=1200x' alt='Elon Musk seguirá tuiteando lo que piensa, incluso si eso le cuesta dinero a sus empresas' />
+    <h4><a href='https://computerhoy.com/streaming/series-hamburguesa-inteligente-estrategia-netflix-no-te-des-baja-1246554'>Series hamburguesa, la inteligente estrategia de Netflix para que no te des de baja</a></h4>
+    <a href='https://computerhoy.com/streaming/series-hamburguesa-inteligente-estrategia-netflix-no-te-des-baja-1246554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bridgerton-2664559.jpg?tf=1200x' alt='Series hamburguesa, la inteligente estrategia de Netflix para que no te des de baja' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/insospechada-ventaja-coche-electrico-frente-combustion-no-conocias-1245998'>Descubren una curiosa e insospechada ventaja del coche eléctrico frente al de combustión</a></h4>
-    <a href='https://computerhoy.com/motor/insospechada-ventaja-coche-electrico-frente-combustion-no-conocias-1245998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cuanto-dinero-cuesta-cargar-coche-electrico-3027656.jpg?tf=1200x' alt='Descubren una curiosa e insospechada ventaja del coche eléctrico frente al de combustión' />
+    <h4><a href='https://computerhoy.com/gaming/web-te-ensena-construir-locuras-legend-zelda-tears-kingdom-1246534'>Robots, trenes y máquinas de tortura: esta web te enseña todo lo que puedes hacer en The Legend of Zelda: Tears of the Kingdom</a></h4>
+    <a href='https://computerhoy.com/gaming/web-te-ensena-construir-locuras-legend-zelda-tears-kingdom-1246534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/zelda-tears-kingdom-3034236.jpg?tf=1200x' alt='Robots, trenes y máquinas de tortura: esta web te enseña todo lo que puedes hacer en The Legend of Zelda: Tears of the Kingdom' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/router-peligro-descubierto-malware-llega-china-1246468'>Tu router está en peligro: descubierto un malware que llega desde China</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/router-peligro-descubierto-malware-llega-china-1246468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/figura-hacker-ciberdelincuente-2434671.jpg?tf=1200x' alt='Tu router está en peligro: descubierto un malware que llega desde China' />
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-considera-teletrabajo-mierda-moralmente-reprochable-1246518'>Elon Musk considera que el “teletrabajo de mierda” es moralmente reprochable</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-considera-teletrabajo-mierda-moralmente-reprochable-1246518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-quiso-liderar-open-ai-pero-otros-fundadores-no-dejaron-2992640.jpg?tf=1200x' alt='Elon Musk considera que el “teletrabajo de mierda” es moralmente reprochable' />
     </a>
 </div>
 
