@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/creador-chatgpt-alerta-inteligencia-artificial-podria-causar-gran-dano-mundo-1246302'>El creador de ChatGPT alerta: 'la inteligencia artificial podría causar gran daño al mundo'</a></h4>
+    <a href='https://computerhoy.com/tecnologia/creador-chatgpt-alerta-inteligencia-artificial-podria-causar-gran-dano-mundo-1246302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/creador-chatgpt-alerta-inteligencia-artificial-podria-causar-gran-dano-mundo-3035118.jpg?tf=1200x' alt='El creador de ChatGPT alerta: 'la inteligencia artificial podría causar gran daño al mundo'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s23-galaxy-watch5-oferta-1246296'>Este móvil tope de gama de Samsung viene con su smartwatch más avanzado de regalo</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-galaxy-s23-galaxy-watch5-oferta-1246296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006124.jpg?tf=1200x' alt='Este móvil tope de gama de Samsung viene con su smartwatch más avanzado de regalo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/impulsando-igualdad-genero-como-ia-podria-romper-barreras-1233584'>Impulsando la igualdad de género: cómo la inteligencia artificial podría romper barreras</a></h4>
     <a href='https://computerhoy.com/tecnologia/impulsando-igualdad-genero-como-ia-podria-romper-barreras-1233584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/impulsando-igualdad-genero-como-inteligencia-artificial-podria-romper-barreras-3020508.jpg?tf=1200x' alt='Impulsando la igualdad de género: cómo la inteligencia artificial podría romper barreras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/coleccion-400-videos-360-grados-google-1246232'>No puedes perderte la impresionante colección de 400 vídeos de 360 grados de Google </a></h4>
-    <a href='https://computerhoy.com/google/coleccion-400-videos-360-grados-google-1246232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/no-puedes-perderte-impresionante-coleccion-videos-360-grados-google-3034988.jpg?tf=1200x' alt='No puedes perderte la impresionante colección de 400 vídeos de 360 grados de Google ' />
     </a>
 </div>
 
