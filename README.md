@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/dr-deep-sea-dituri-bate-record-mundo-vivir-74-dias-bajo-agua-1246220'>Bate el récord del mundo tras vivir 75 días bajo el agua, quiere llegar a los 100 días</a></h4>
+    <a href='https://computerhoy.com/ciencia/dr-deep-sea-dituri-bate-record-mundo-vivir-74-dias-bajo-agua-1246220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bate-record-mundo-vivir-74-dias-agua-quiere-llegar-100-dias-3034736.jpg?tf=1200x' alt='Bate el récord del mundo tras vivir 75 días bajo el agua, quiere llegar a los 100 días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/paciente-m-soldado-espanol-tiro-cabeza-ver-mundo-reves-1246000'>Paciente M, el soldado de la Guerra Civil Española que recibió un tiro en la cabeza, y comenzó a ver el mundo al revés</a></h4>
+    <a href='https://computerhoy.com/ciencia/paciente-m-soldado-espanol-tiro-cabeza-ver-mundo-reves-1246000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/paciente-m-soldado-guerra-civil-espanola-recibio-tiro-cabeza-comenzo-ver-mundo-reves-3034724.jpg?tf=1200x' alt='Paciente M, el soldado de la Guerra Civil Española que recibió un tiro en la cabeza, y comenzó a ver el mundo al revés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/danando-coche-forma-conducir-1245958'>Si conduces de esta forma estás dañando tu coche y reduciendo su vida útil</a></h4>
     <a href='https://computerhoy.com/motor/danando-coche-forma-conducir-1245958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/conductor-enfadado-volante-3034682.jpg?tf=1200x' alt='Si conduces de esta forma estás dañando tu coche y reduciendo su vida útil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/risto-mejide-no-quiere-compres-criptomonedas-funciona-estafa-viral-utiliza-personajes-publicos-1245992'>Risto Mejide no quiere que compres criptomonedas: así funciona la estafa viral que utiliza a personajes públicos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/risto-mejide-no-quiere-compres-criptomonedas-funciona-estafa-viral-utiliza-personajes-publicos-1245992' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/risto-mejide-no-quiere-compres-criptomonedas-funciona-estafa-viral-utiliza-personajes-publicos-3034702.jpg?tf=1200x' alt='Risto Mejide no quiere que compres criptomonedas: así funciona la estafa viral que utiliza a personajes públicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-datos-personales-chatgpt-proteger-privacidad-1244714'>Cómo eliminar tus datos personales de ChatGPT para proteger tu privacidad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-eliminar-datos-personales-chatgpt-proteger-privacidad-1244714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/limitaciones-chatgpt-8-cosas-chatbot-no-puede-hacer-3023726.jpg?tf=1200x' alt='Cómo eliminar tus datos personales de ChatGPT para proteger tu privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/ia-quita-coches-anade-vegetacion-cualquier-calle-resultado-nos-da-mucha-envidia-1187760'>Esta IA quita los coches y añade vegetación a cualquier calle, y el resultado nos da mucha envidia</a></h4>
-    <a href='https://computerhoy.com/software/ia-quita-coches-anade-vegetacion-cualquier-calle-resultado-nos-da-mucha-envidia-1187760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ia-quita-coches-anade-vegetacion-cualquier-calle-resultado-nos-da-mucha-envidia-3034208.jpg?tf=1200x' alt='Esta IA quita los coches y añade vegetación a cualquier calle, y el resultado nos da mucha envidia' />
     </a>
 </div>
 
