@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-echo-pop-show-5-auto-2a-gen-son-nuevos-altavoces-1246376'>Amazon reinventa sus altavoces inteligentes con el Echo Pop, un nuevo formato con diseño de semiesfera, junto con el Show 5 y Echo Auto</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-echo-pop-show-5-auto-2a-gen-son-nuevos-altavoces-1246376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-echo-pop-3035292.jpg?tf=1200x' alt='Amazon reinventa sus altavoces inteligentes con el Echo Pop, un nuevo formato con diseño de semiesfera, junto con el Show 5 y Echo Auto' />
+    <h4><a href='https://computerhoy.com/smartwatches/suunto-vertical-caracteristicas-reloj-aventuras-deportes-extremos-1246346'>Así es Suunto Vertical, uno de los mejores relojes para aventureros y la práctica de deportes extremos</a></h4>
+    <a href='https://computerhoy.com/smartwatches/suunto-vertical-caracteristicas-reloj-aventuras-deportes-extremos-1246346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/suunto-vertical-3035366.jpg?tf=1200x' alt='Así es Suunto Vertical, uno de los mejores relojes para aventureros y la práctica de deportes extremos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-quiere-movil-sea-dashcam-grabaras-accidentes-1246454'>Google quiere que tu móvil sea una dashcam: así grabarás accidentes</a></h4>
-    <a href='https://computerhoy.com/google/google-quiere-movil-sea-dashcam-grabaras-accidentes-1246454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029780.jpg?tf=1200x' alt='Google quiere que tu móvil sea una dashcam: así grabarás accidentes' />
+    <h4><a href='https://computerhoy.com/tecnologia/cosas-no-sabias-router-wifi-puede-hacer-1242050'>Cosas que no sabías que tu router WiFi puede hacer y que estás desaprovechando</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cosas-no-sabias-router-wifi-puede-hacer-1242050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-wifi-3035456.jpg?tf=1200x' alt='Cosas que no sabías que tu router WiFi puede hacer y que estás desaprovechando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/londres-sidney-2-horas-seran-vuelos-espaciales-comerciales-1246222'>¡De Londres a Sídney en 2 horas! Llegan los revolucionarios vuelos espaciales comerciales</a></h4>
-    <a href='https://computerhoy.com/life/londres-sidney-2-horas-seran-vuelos-espaciales-comerciales-1246222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/talon-avion-quiere-instaurar-vuelos-hipersonicos-7500-km-h-1909033.jpg?tf=1200x' alt='¡De Londres a Sídney en 2 horas! Llegan los revolucionarios vuelos espaciales comerciales' />
+    <h4><a href='https://computerhoy.com/redes-sociales/elon-musk-seguira-tuiteando-piensa-incluso-eso-cuesta-dinero-empresas-1246470'>Elon Musk seguirá tuiteando lo que piensa, incluso si eso le cuesta dinero a sus empresas</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/elon-musk-seguira-tuiteando-piensa-incluso-eso-cuesta-dinero-empresas-1246470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/elon-musk-admite-fabricas-tesla-son-horno-quemar-dinero-2739093.jpg?tf=1200x' alt='Elon Musk seguirá tuiteando lo que piensa, incluso si eso le cuesta dinero a sus empresas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-reporta-conexiones-vpn-lentas-debido-actualizacion-reciente-1246422'>Windows 11 reporta conexiones VPN lentas debido a una actualización reciente</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-reporta-conexiones-vpn-lentas-debido-actualizacion-reciente-1246422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-11-reporta-conexiones-vpn-lentas-debido-actualizacion-reciente-3035422.jpg?tf=1200x' alt='Windows 11 reporta conexiones VPN lentas debido a una actualización reciente' />
+    <h4><a href='https://computerhoy.com/motor/insospechada-ventaja-coche-electrico-frente-combustion-no-conocias-1245998'>Descubren una curiosa e insospechada ventaja del coche eléctrico frente al de combustión</a></h4>
+    <a href='https://computerhoy.com/motor/insospechada-ventaja-coche-electrico-frente-combustion-no-conocias-1245998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cuanto-dinero-cuesta-cargar-coche-electrico-3027656.jpg?tf=1200x' alt='Descubren una curiosa e insospechada ventaja del coche eléctrico frente al de combustión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/francia-mundo-solo-dara-ayudas-coches-electricos-fabricados-europa-1246364'>Francia contra el mundo: solo dará ayudas a los coches eléctricos fabricados en Europa </a></h4>
-    <a href='https://computerhoy.com/francia-mundo-solo-dara-ayudas-coches-electricos-fabricados-europa-1246364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/francia-mundo-solo-dara-ayudas-coches-electricos-fabricados-europa-3035276.jpg?tf=1200x' alt='Francia contra el mundo: solo dará ayudas a los coches eléctricos fabricados en Europa ' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/router-peligro-descubierto-malware-llega-china-1246468'>Tu router está en peligro: descubierto un malware que llega desde China</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/router-peligro-descubierto-malware-llega-china-1246468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/figura-hacker-ciberdelincuente-2434671.jpg?tf=1200x' alt='Tu router está en peligro: descubierto un malware que llega desde China' />
     </a>
 </div>
 
