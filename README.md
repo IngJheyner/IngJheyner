@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mediamarkt-fuera-stock-rebajas-ofertas-1245926'>MediaMarkt pone móviles, tablets, portátiles, TV y mucho más con grandes descuentos en estas últimas unidades en stock</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mediamarkt-fuera-stock-rebajas-ofertas-1245926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/frontal-tienda-mediamarkt-3006918.jpg?tf=1200x' alt='MediaMarkt pone móviles, tablets, portátiles, TV y mucho más con grandes descuentos en estas últimas unidades en stock' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/piedras-bruja-piedras-odin-que-son-1246226'>Qué son las piedras de Odín o piedras bruja, y por qué se llaman así</a></h4>
+    <a href='https://computerhoy.com/life/piedras-bruja-piedras-odin-que-son-1246226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/son-piedras-bruja-piedras-odin-llaman-3034986.jpg?tf=1200x' alt='Qué son las piedras de Odín o piedras bruja, y por qué se llaman así' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/dr-deep-sea-dituri-bate-record-mundo-vivir-74-dias-bajo-agua-1246220'>Bate el récord del mundo tras vivir 75 días bajo el agua, quiere llegar a los 100 días</a></h4>
     <a href='https://computerhoy.com/ciencia/dr-deep-sea-dituri-bate-record-mundo-vivir-74-dias-bajo-agua-1246220' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bate-record-mundo-vivir-74-dias-agua-quiere-llegar-100-dias-3034736.jpg?tf=1200x' alt='Bate el récord del mundo tras vivir 75 días bajo el agua, quiere llegar a los 100 días' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/danando-coche-forma-conducir-1245958'>Si conduces de esta forma estás dañando tu coche y reduciendo su vida útil</a></h4>
     <a href='https://computerhoy.com/motor/danando-coche-forma-conducir-1245958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/conductor-enfadado-volante-3034682.jpg?tf=1200x' alt='Si conduces de esta forma estás dañando tu coche y reduciendo su vida útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-archivos-zip-protegidos-buscar-malware-nube-1245994'>¿Crees que tus archivos ZIP protegidos por contraseña son privados? Microsoft entra dentro para buscar malware</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/microsoft-archivos-zip-protegidos-buscar-malware-nube-1245994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/crees-archivos-zip-protegidos-contrasena-son-privados-microsoft-entra-dentro-buscar-malware-3034722.jpg?tf=1200x' alt='¿Crees que tus archivos ZIP protegidos por contraseña son privados? Microsoft entra dentro para buscar malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/risto-mejide-no-quiere-compres-criptomonedas-funciona-estafa-viral-utiliza-personajes-publicos-1245992'>Risto Mejide no quiere que compres criptomonedas: así funciona la estafa viral que utiliza a personajes públicos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/risto-mejide-no-quiere-compres-criptomonedas-funciona-estafa-viral-utiliza-personajes-publicos-1245992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/risto-mejide-no-quiere-compres-criptomonedas-funciona-estafa-viral-utiliza-personajes-publicos-3034702.jpg?tf=1200x' alt='Risto Mejide no quiere que compres criptomonedas: así funciona la estafa viral que utiliza a personajes públicos' />
     </a>
 </div>
 
