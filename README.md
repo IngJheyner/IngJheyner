@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/cada-vez-usuarios-abandonan-android-optan-iphone-informe-1246852'>Cada vez más usuarios abandonan Android y optan por iPhone según un informe</a></h4>
+    <a href='https://computerhoy.com/cada-vez-usuarios-abandonan-android-optan-iphone-informe-1246852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cada-vez-usuarios-abandonan-android-optan-iphone-informe-3035972.jpg?tf=1200x' alt='Cada vez más usuarios abandonan Android y optan por iPhone según un informe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/camaro-dragon-peligroso-malware-chino-amenaza-router-wifi-1246814'>Camaro Dragon, el peligroso malware chino que amenaza los router WiFi de los hogares europeos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/camaro-dragon-peligroso-malware-chino-amenaza-router-wifi-1246814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-router-ax9000-2418913.jpg?tf=1200x' alt='Camaro Dragon, el peligroso malware chino que amenaza los router WiFi de los hogares europeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-principales-trabajos-ia-creara-futuro-1221642'>Un futuro laboral brillante gracias al potencial de la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-principales-trabajos-ia-creara-futuro-1221642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/futuro-laboral-brillante-gracias-potencial-inteligencia-artificial-3007836.jpg?tf=1200x' alt='Un futuro laboral brillante gracias al potencial de la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/phoenix-primer-robot-ia-quiere-hacer-mismo-humanos-1246832'>Phoenix, el primer robot con IA tipo ChatGPT que quiere hacer lo mismo que los humanos (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/phoenix-primer-robot-ia-quiere-hacer-mismo-humanos-1246832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1684386031482-3035940.jpg?tf=1200x' alt='Phoenix, el primer robot con IA tipo ChatGPT que quiere hacer lo mismo que los humanos (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/misterioso-caso-logo-apple-reves-obsesiono-steve-jobs-1246494'>El misterioso caso del logo de Apple al revés que obsesionó a Steve Jobs</a></h4>
     <a href='https://computerhoy.com/apple/misterioso-caso-logo-apple-reves-obsesiono-steve-jobs-1246494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/steve-jobs-3035608.jpg?tf=1200x' alt='El misterioso caso del logo de Apple al revés que obsesionó a Steve Jobs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/como-montar-cine-casa-muy-poco-dinero-1245828'>Cómo montar tu cine en casa por muy poco dinero</a></h4>
-    <a href='https://computerhoy.com/tv/como-montar-cine-casa-muy-poco-dinero-1245828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/home-cinema-3034434.jpg?tf=1200x' alt='Cómo montar tu cine en casa por muy poco dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/instalan-japon-primera-maquina-expendedora-absorbe-co2-1246818'>Instalan en Japón la primera máquina expendedora que absorbe CO2</a></h4>
-    <a href='https://computerhoy.com/life/instalan-japon-primera-maquina-expendedora-absorbe-co2-1246818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/instalan-japon-primera-maquina-expendedora-absorbe-co2-3035920.jpg?tf=1200x' alt='Instalan en Japón la primera máquina expendedora que absorbe CO2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-antidoto-veneno-seta-mas-peligrosa-mundo-hongo-muerte-1246816'>Gracias a CRISPR descubren un antídoto para el veneno de la seta más peligrosa del mundo</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-antidoto-veneno-seta-mas-peligrosa-mundo-hongo-muerte-1246816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/gracias-crispr-descubren-antidoto-veneno-seta-peligrosa-mundo-responsable-90-muertes-3035918.jpg?tf=1200x' alt='Gracias a CRISPR descubren un antídoto para el veneno de la seta más peligrosa del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/bots-trafico-internet-informe-1246594'>Casi la mitad de todo el tráfico de Internet son bots</a></h4>
-    <a href='https://computerhoy.com/internet/bots-trafico-internet-informe-1246594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/casi-mitad-todo-trafico-internet-son-bots-3035692.jpg?tf=1200x' alt='Casi la mitad de todo el tráfico de Internet son bots' />
     </a>
 </div>
 
