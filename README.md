@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/legislacion/cierto-mito-mesa-electoral-vacia-1246538'>No debes ir nunca a votar a primera hora: ¿es cierto el mito de la mesa electoral vacía?</a></h4>
+    <a href='https://computerhoy.com/legislacion/cierto-mito-mesa-electoral-vacia-1246538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/urna-electoral-3036230.jpg?tf=1200x' alt='No debes ir nunca a votar a primera hora: ¿es cierto el mito de la mesa electoral vacía?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-fabricara-propias-pantallas-microled-iphone-apple-watch-1246986'>Apple fabricará sus propias pantallas microLED para iPhone y Apple Watch</a></h4>
+    <a href='https://computerhoy.com/apple/apple-fabricara-propias-pantallas-microled-iphone-apple-watch-1246986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-1677587572246-2969650.jpg?tf=1200x' alt='Apple fabricará sus propias pantallas microLED para iPhone y Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/6-grandes-riesgos-asociados-uso-chatgpt-nuevo-estudio-1246912'>6 grandes riesgos asociados al uso de ChatGPT según un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/6-grandes-riesgos-asociados-uso-chatgpt-nuevo-estudio-1246912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/6-grandes-riesgos-asociados-uso-chatgpt-nuevo-estudio-3036162.jpg?tf=1200x' alt='6 grandes riesgos asociados al uso de ChatGPT según un nuevo estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/huawei-nova-11i-5000-mah-bateria-movil-barato-elegante-1246960'>Huawei Nova 11i, diseño y mucha batería para el móvil asequible más elegante de la marca</a></h4>
+    <a href='https://computerhoy.com/moviles/huawei-nova-11i-5000-mah-bateria-movil-barato-elegante-1246960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-nova-11i-3036218.jpg?tf=1200x' alt='Huawei Nova 11i, diseño y mucha batería para el móvil asequible más elegante de la marca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/ghost-touch-nuevo-metodo-acceder-pantalla-movil-necesidad-tocarla-1246896'>Este nuevo ataque permite a los ciberdelincuentes acceder a la pantalla táctil de tu móvil sin necesidad de tocarla</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ghost-touch-nuevo-metodo-acceder-pantalla-movil-necesidad-tocarla-1246896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nuevo-ataque-permite-ciberdelincuentes-acceder-pantalla-tactil-movil-necesidad-tocarla-3036080.jpg?tf=1200x' alt='Este nuevo ataque permite a los ciberdelincuentes acceder a la pantalla táctil de tu móvil sin necesidad de tocarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/beepberry-nuevo-juguete-hackers-integra-teclado-blackberry-1246872'>Beepberry: el nuevo juguete para "hackers" que integra un teclado BlackBerry</a></h4>
-    <a href='https://computerhoy.com/tecnologia/beepberry-nuevo-juguete-hackers-integra-teclado-blackberry-1246872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/beepberry-3035992.jpg?tf=1200x' alt='Beepberry: el nuevo juguete para "hackers" que integra un teclado BlackBerry' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/lidl-rebaja-aire-acondicionado-portatil-1246840'>Lidl rebaja este aire acondicionado portátil 140€ para salvarte este verano</a></h4>
-    <a href='https://computerhoy.com/hogar/lidl-rebaja-aire-acondicionado-portatil-1246840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/aire-acondicionado-comfee-3035960.jpg?tf=1200x' alt='Lidl rebaja este aire acondicionado portátil 140€ para salvarte este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/estados-unidos-da-golpe-definitivo-tiktok-estados-prohibira-uso-1246856'>Estados Unidos da el golpe definitivo a TikTok y uno de sus estados va a prohibir su uso</a></h4>
-    <a href='https://computerhoy.com/estados-unidos-da-golpe-definitivo-tiktok-estados-prohibira-uso-1246856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/universidades-eeuu-prohiben-tiktok-podrian-llegar-cancelar-red-social-todo-pais-2938726.jpg?tf=1200x' alt='Estados Unidos da el golpe definitivo a TikTok y uno de sus estados va a prohibir su uso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/cada-vez-usuarios-abandonan-android-optan-iphone-informe-1246852'>Cada vez más usuarios abandonan Android y optan por iPhone según un informe</a></h4>
-    <a href='https://computerhoy.com/cada-vez-usuarios-abandonan-android-optan-iphone-informe-1246852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cada-vez-usuarios-abandonan-android-optan-iphone-informe-3035972.jpg?tf=1200x' alt='Cada vez más usuarios abandonan Android y optan por iPhone según un informe' />
     </a>
 </div>
 
