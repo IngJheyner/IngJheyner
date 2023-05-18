@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-antidoto-veneno-seta-mas-peligrosa-mundo-hongo-muerte-1246816'>Gracias a CRISPR descubren un antídoto para el veneno de la seta más peligrosa del mundo</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-antidoto-veneno-seta-mas-peligrosa-mundo-hongo-muerte-1246816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/gracias-crispr-descubren-antidoto-veneno-seta-peligrosa-mundo-responsable-90-muertes-3035918.jpg?tf=1200x' alt='Gracias a CRISPR descubren un antídoto para el veneno de la seta más peligrosa del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/bots-trafico-internet-informe-1246594'>Casi la mitad de todo el tráfico de Internet son bots</a></h4>
+    <a href='https://computerhoy.com/internet/bots-trafico-internet-informe-1246594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/casi-mitad-todo-trafico-internet-son-bots-3035692.jpg?tf=1200x' alt='Casi la mitad de todo el tráfico de Internet son bots' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-molesta-mucho-sigas-utilizando-windows-10-1246528'>A Microsoft le molesta, y mucho, que sigas utilizando Windows 10</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-molesta-mucho-sigas-utilizando-windows-10-1246528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg?tf=1200x' alt='A Microsoft le molesta, y mucho, que sigas utilizando Windows 10' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/series-hamburguesa-inteligente-estrategia-netflix-no-te-des-baja-1246554'>Series hamburguesa, la inteligente estrategia de Netflix para que no te des de baja</a></h4>
     <a href='https://computerhoy.com/streaming/series-hamburguesa-inteligente-estrategia-netflix-no-te-des-baja-1246554' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bridgerton-2664559.jpg?tf=1200x' alt='Series hamburguesa, la inteligente estrategia de Netflix para que no te des de baja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/web-te-ensena-construir-locuras-legend-zelda-tears-kingdom-1246534'>Robots, trenes y máquinas de tortura: esta web te enseña todo lo que puedes hacer en The Legend of Zelda: Tears of the Kingdom</a></h4>
-    <a href='https://computerhoy.com/gaming/web-te-ensena-construir-locuras-legend-zelda-tears-kingdom-1246534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/zelda-tears-kingdom-3034236.jpg?tf=1200x' alt='Robots, trenes y máquinas de tortura: esta web te enseña todo lo que puedes hacer en The Legend of Zelda: Tears of the Kingdom' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-considera-teletrabajo-mierda-moralmente-reprochable-1246518'>Elon Musk considera que el “teletrabajo de mierda” es moralmente reprochable</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-considera-teletrabajo-mierda-moralmente-reprochable-1246518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-quiso-liderar-open-ai-pero-otros-fundadores-no-dejaron-2992640.jpg?tf=1200x' alt='Elon Musk considera que el “teletrabajo de mierda” es moralmente reprochable' />
     </a>
 </div>
 
