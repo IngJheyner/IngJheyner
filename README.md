@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/misterioso-caso-logo-apple-reves-obsesiono-steve-jobs-1246494'>El misterioso caso del logo de Apple al revés que obsesionó a Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/apple/misterioso-caso-logo-apple-reves-obsesiono-steve-jobs-1246494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/steve-jobs-3035608.jpg?tf=1200x' alt='El misterioso caso del logo de Apple al revés que obsesionó a Steve Jobs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/como-montar-cine-casa-muy-poco-dinero-1245828'>Cómo montar tu cine en casa por muy poco dinero</a></h4>
+    <a href='https://computerhoy.com/tv/como-montar-cine-casa-muy-poco-dinero-1245828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/home-cinema-3034434.jpg?tf=1200x' alt='Cómo montar tu cine en casa por muy poco dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/instalan-japon-primera-maquina-expendedora-absorbe-co2-1246818'>Instalan en Japón la primera máquina expendedora que absorbe CO2</a></h4>
+    <a href='https://computerhoy.com/life/instalan-japon-primera-maquina-expendedora-absorbe-co2-1246818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/instalan-japon-primera-maquina-expendedora-absorbe-co2-3035920.jpg?tf=1200x' alt='Instalan en Japón la primera máquina expendedora que absorbe CO2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/descubren-antidoto-veneno-seta-mas-peligrosa-mundo-hongo-muerte-1246816'>Gracias a CRISPR descubren un antídoto para el veneno de la seta más peligrosa del mundo</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-antidoto-veneno-seta-mas-peligrosa-mundo-hongo-muerte-1246816' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/gracias-crispr-descubren-antidoto-veneno-seta-peligrosa-mundo-responsable-90-muertes-3035918.jpg?tf=1200x' alt='Gracias a CRISPR descubren un antídoto para el veneno de la seta más peligrosa del mundo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/bots-trafico-internet-informe-1246594'>Casi la mitad de todo el tráfico de Internet son bots</a></h4>
     <a href='https://computerhoy.com/internet/bots-trafico-internet-informe-1246594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/casi-mitad-todo-trafico-internet-son-bots-3035692.jpg?tf=1200x' alt='Casi la mitad de todo el tráfico de Internet son bots' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-molesta-mucho-sigas-utilizando-windows-10-1246528'>A Microsoft le molesta, y mucho, que sigas utilizando Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-molesta-mucho-sigas-utilizando-windows-10-1246528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg?tf=1200x' alt='A Microsoft le molesta, y mucho, que sigas utilizando Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/son-llamadas-wifi-como-activarlas-movil-android-1228014'>Qué son las llamadas WiFi y cómo activarlas en tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/son-llamadas-wifi-como-activarlas-movil-android-1228014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/lllamada-movil-2786823.jpg?tf=1200x' alt='Qué son las llamadas WiFi y cómo activarlas en tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/series-hamburguesa-inteligente-estrategia-netflix-no-te-des-baja-1246554'>Series hamburguesa, la inteligente estrategia de Netflix para que no te des de baja</a></h4>
-    <a href='https://computerhoy.com/streaming/series-hamburguesa-inteligente-estrategia-netflix-no-te-des-baja-1246554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bridgerton-2664559.jpg?tf=1200x' alt='Series hamburguesa, la inteligente estrategia de Netflix para que no te des de baja' />
     </a>
 </div>
 
