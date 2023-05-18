@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ghost-touch-nuevo-metodo-acceder-pantalla-movil-necesidad-tocarla-1246896'>Este nuevo ataque permite a los ciberdelincuentes acceder a la pantalla táctil de tu móvil sin necesidad de tocarla</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ghost-touch-nuevo-metodo-acceder-pantalla-movil-necesidad-tocarla-1246896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nuevo-ataque-permite-ciberdelincuentes-acceder-pantalla-tactil-movil-necesidad-tocarla-3036080.jpg?tf=1200x' alt='Este nuevo ataque permite a los ciberdelincuentes acceder a la pantalla táctil de tu móvil sin necesidad de tocarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/beepberry-nuevo-juguete-hackers-integra-teclado-blackberry-1246872'>Beepberry: el nuevo juguete para "hackers" que integra un teclado BlackBerry</a></h4>
+    <a href='https://computerhoy.com/tecnologia/beepberry-nuevo-juguete-hackers-integra-teclado-blackberry-1246872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/beepberry-3035992.jpg?tf=1200x' alt='Beepberry: el nuevo juguete para "hackers" que integra un teclado BlackBerry' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/lidl-rebaja-aire-acondicionado-portatil-1246840'>Lidl rebaja este aire acondicionado portátil 140€ para salvarte este verano</a></h4>
+    <a href='https://computerhoy.com/hogar/lidl-rebaja-aire-acondicionado-portatil-1246840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/aire-acondicionado-comfee-3035960.jpg?tf=1200x' alt='Lidl rebaja este aire acondicionado portátil 140€ para salvarte este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/estados-unidos-da-golpe-definitivo-tiktok-estados-prohibira-uso-1246856'>Estados Unidos da el golpe definitivo a TikTok y uno de sus estados va a prohibir su uso</a></h4>
+    <a href='https://computerhoy.com/estados-unidos-da-golpe-definitivo-tiktok-estados-prohibira-uso-1246856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/universidades-eeuu-prohiben-tiktok-podrian-llegar-cancelar-red-social-todo-pais-2938726.jpg?tf=1200x' alt='Estados Unidos da el golpe definitivo a TikTok y uno de sus estados va a prohibir su uso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/cada-vez-usuarios-abandonan-android-optan-iphone-informe-1246852'>Cada vez más usuarios abandonan Android y optan por iPhone según un informe</a></h4>
     <a href='https://computerhoy.com/cada-vez-usuarios-abandonan-android-optan-iphone-informe-1246852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cada-vez-usuarios-abandonan-android-optan-iphone-informe-3035972.jpg?tf=1200x' alt='Cada vez más usuarios abandonan Android y optan por iPhone según un informe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/camaro-dragon-peligroso-malware-chino-amenaza-router-wifi-1246814'>Camaro Dragon, el peligroso malware chino que amenaza los router WiFi de los hogares europeos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/camaro-dragon-peligroso-malware-chino-amenaza-router-wifi-1246814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/xiaomi-mi-router-ax9000-2418913.jpg?tf=1200x' alt='Camaro Dragon, el peligroso malware chino que amenaza los router WiFi de los hogares europeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-son-principales-trabajos-ia-creara-futuro-1221642'>Un futuro laboral brillante gracias al potencial de la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-son-principales-trabajos-ia-creara-futuro-1221642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/futuro-laboral-brillante-gracias-potencial-inteligencia-artificial-3007836.jpg?tf=1200x' alt='Un futuro laboral brillante gracias al potencial de la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/phoenix-primer-robot-ia-quiere-hacer-mismo-humanos-1246832'>Phoenix, el primer robot con IA tipo ChatGPT que quiere hacer lo mismo que los humanos (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/phoenix-primer-robot-ia-quiere-hacer-mismo-humanos-1246832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1684386031482-3035940.jpg?tf=1200x' alt='Phoenix, el primer robot con IA tipo ChatGPT que quiere hacer lo mismo que los humanos (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/misterioso-caso-logo-apple-reves-obsesiono-steve-jobs-1246494'>El misterioso caso del logo de Apple al revés que obsesionó a Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/apple/misterioso-caso-logo-apple-reves-obsesiono-steve-jobs-1246494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/steve-jobs-3035608.jpg?tf=1200x' alt='El misterioso caso del logo de Apple al revés que obsesionó a Steve Jobs' />
     </a>
 </div>
 
