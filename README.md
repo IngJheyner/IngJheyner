@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/nvidia-lanza-tarjetas-rtx-4060-4060-ti-no-convencen-gamers-1247154'>NVIDIA lanza las esperadas tarjetas RTX 4060 a partir de 335 euros, pero no convencen a los gamers</a></h4>
+    <a href='https://computerhoy.com/pc/nvidia-lanza-tarjetas-rtx-4060-4060-ti-no-convencen-gamers-1247154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nvidia-lanza-esperadas-tarjetas-asequibles-rtx-4060-partir-335-euros-pero-no-convencen-gamers-3036560.jpg?tf=1200x' alt='NVIDIA lanza las esperadas tarjetas RTX 4060 a partir de 335 euros, pero no convencen a los gamers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/nuevos-dominios-zip-mov-hacen-saltan-alarmas-seguridad-1247116'>Los ciberdelincuentes se frotan las manos con los nuevos dominios de Google: .zip y .mov</a></h4>
+    <a href='https://computerhoy.com/google/nuevos-dominios-zip-mov-hacen-saltan-alarmas-seguridad-1247116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dominios-seguros-2576341.jpg?tf=1200x' alt='Los ciberdelincuentes se frotan las manos con los nuevos dominios de Google: .zip y .mov' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/primeros-bancos-modificar-forma-tenemos-utilizar-bizum-1247144'>Primeros bancos en modificar la forma de tenemos de utilizar Bizum</a></h4>
+    <a href='https://computerhoy.com/apps/primeros-bancos-modificar-forma-tenemos-utilizar-bizum-1247144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bizum-3036548.jpg?tf=1200x' alt='Primeros bancos en modificar la forma de tenemos de utilizar Bizum' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/podrian-multarte-no-devolver-router-wifi-cuando-te-cambias-compania-1247110'>¿Podrían multarte por no devolver el router WiFi cuando te cambias de compañía?</a></h4>
+    <a href='https://computerhoy.com/redes/podrian-multarte-no-devolver-router-wifi-cuando-te-cambias-compania-1247110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/router-wifi-2186199.jpg?tf=1200x' alt='¿Podrían multarte por no devolver el router WiFi cuando te cambias de compañía?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-pondra-prueba-chrome-cookies-2024-1247096'>Google pondrá a prueba Chrome sin cookies en 2024 y así es cómo te afectará</a></h4>
     <a href='https://computerhoy.com/google/google-pondra-prueba-chrome-cookies-2024-1247096' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/privacy-sandbox-google-3036434.jpg?tf=1200x' alt='Google pondrá a prueba Chrome sin cookies en 2024 y así es cómo te afectará' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/juan-carlos-caida-rey-documental-skyshowtime-1247138'>Juan Carlos La caída del Rey, se estrena el polémico documental en SkyShowtime, ya tenemos tráiler</a></h4>
-    <a href='https://computerhoy.com/streaming/juan-carlos-caida-rey-documental-skyshowtime-1247138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ya-hay-fecha-estreno-skyshowtime-promete-ser-documental-polemico-ano-espana-3016954.jpg?tf=1200x' alt='Juan Carlos La caída del Rey, se estrena el polémico documental en SkyShowtime, ya tenemos tráiler' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/ue-pone-punto-mira-electrodomesticos-gastan-hacer-nada-1247132'>La UE pone en su punto de mira los electrodomésticos que más gastan sin hacer nada</a></h4>
-    <a href='https://computerhoy.com/legislacion/ue-pone-punto-mira-electrodomesticos-gastan-hacer-nada-1247132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/electrodomestico-3036522.jpg?tf=1200x' alt='La UE pone en su punto de mira los electrodomésticos que más gastan sin hacer nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reconocimiento-facial-concierto-beyonce-buscar-criminales-buen-gusto-musical-1247128'>Reconocimiento facial en un concierto de Beyoncé para buscar criminales con buen gusto musical</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reconocimiento-facial-concierto-beyonce-buscar-criminales-buen-gusto-musical-1247128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/beyonce-2912852.jpg?tf=1200x' alt='Reconocimiento facial en un concierto de Beyoncé para buscar criminales con buen gusto musical' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/llega-pildora-electronica-capaz-hackear-estomago-regular-hambre-1247098'>Llega la píldora electrónica capaz de hackear el estómago y regular el hambre</a></h4>
-    <a href='https://computerhoy.com/life/llega-pildora-electronica-capaz-hackear-estomago-regular-hambre-1247098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/pastilla-electronica-mit-3036398.jpg?tf=1200x' alt='Llega la píldora electrónica capaz de hackear el estómago y regular el hambre' />
     </a>
 </div>
 
