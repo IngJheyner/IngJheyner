@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/cierto-mito-mesa-electoral-vacia-1246538'>No debes ir nunca a votar a primera hora: ¿es cierto el mito de la mesa electoral vacía?</a></h4>
-    <a href='https://computerhoy.com/legislacion/cierto-mito-mesa-electoral-vacia-1246538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/urna-electoral-3036230.jpg?tf=1200x' alt='No debes ir nunca a votar a primera hora: ¿es cierto el mito de la mesa electoral vacía?' />
+    <h4><a href='https://computerhoy.com/apple/lanzamiento-gafas-realidad-virtual-apple-preocupa-desarrolladores-1247028'>El lanzamiento de las gafas de realidad virtual de Apple preocupa a sus desarrolladores</a></h4>
+    <a href='https://computerhoy.com/apple/lanzamiento-gafas-realidad-virtual-apple-preocupa-desarrolladores-1247028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/gafas-realidad-apple-3036338.jpg?tf=1200x' alt='El lanzamiento de las gafas de realidad virtual de Apple preocupa a sus desarrolladores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-fabricara-propias-pantallas-microled-iphone-apple-watch-1246986'>Apple fabricará sus propias pantallas microLED para iPhone y Apple Watch</a></h4>
-    <a href='https://computerhoy.com/apple/apple-fabricara-propias-pantallas-microled-iphone-apple-watch-1246986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-1677587572246-2969650.jpg?tf=1200x' alt='Apple fabricará sus propias pantallas microLED para iPhone y Apple Watch' />
+    <h4><a href='https://computerhoy.com/gaming/consiguen-mejorar-rendimiento-zelda-tears-kingdom-switch-1246596'>Cómo mejorar el rendimiento de Zelda: Tears of the Kingdom en Switch ¡hasta 60 fps!</a></h4>
+    <a href='https://computerhoy.com/gaming/consiguen-mejorar-rendimiento-zelda-tears-kingdom-switch-1246596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/zelda-tears-kingdom-3033700.jpg?tf=1200x' alt='Cómo mejorar el rendimiento de Zelda: Tears of the Kingdom en Switch ¡hasta 60 fps!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/6-grandes-riesgos-asociados-uso-chatgpt-nuevo-estudio-1246912'>6 grandes riesgos asociados al uso de ChatGPT según un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/6-grandes-riesgos-asociados-uso-chatgpt-nuevo-estudio-1246912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/6-grandes-riesgos-asociados-uso-chatgpt-nuevo-estudio-3036162.jpg?tf=1200x' alt='6 grandes riesgos asociados al uso de ChatGPT según un nuevo estudio' />
+    <h4><a href='https://computerhoy.com/motor/nuevo-problema-coches-electricos-casi-nadie-esperaba-1246576'>El nuevo problema del coche eléctrico que nadie supo ver y que frenará su crecimiento</a></h4>
+    <a href='https://computerhoy.com/motor/nuevo-problema-coches-electricos-casi-nadie-esperaba-1246576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/recargando-dos-coches-electricos-2620371.jpg?tf=1200x' alt='El nuevo problema del coche eléctrico que nadie supo ver y que frenará su crecimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/huawei-nova-11i-5000-mah-bateria-movil-barato-elegante-1246960'>Huawei Nova 11i, diseño y mucha batería para el móvil asequible más elegante de la marca</a></h4>
-    <a href='https://computerhoy.com/moviles/huawei-nova-11i-5000-mah-bateria-movil-barato-elegante-1246960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-nova-11i-3036218.jpg?tf=1200x' alt='Huawei Nova 11i, diseño y mucha batería para el móvil asequible más elegante de la marca' />
+    <h4><a href='https://computerhoy.com/apps/miles-usuarios-android-ios-han-pagado-aplicacion-oficial-chatgpt-no-existe-1247024'>Miles de usuarios Android e iOS han pagado por una aplicación oficial de ChatGPT que no existe</a></h4>
+    <a href='https://computerhoy.com/apps/miles-usuarios-android-ios-han-pagado-aplicacion-oficial-chatgpt-no-existe-1247024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgpt-phishing-2964394.jpg?tf=1200x' alt='Miles de usuarios Android e iOS han pagado por una aplicación oficial de ChatGPT que no existe' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ghost-touch-nuevo-metodo-acceder-pantalla-movil-necesidad-tocarla-1246896'>Este nuevo ataque permite a los ciberdelincuentes acceder a la pantalla táctil de tu móvil sin necesidad de tocarla</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ghost-touch-nuevo-metodo-acceder-pantalla-movil-necesidad-tocarla-1246896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nuevo-ataque-permite-ciberdelincuentes-acceder-pantalla-tactil-movil-necesidad-tocarla-3036080.jpg?tf=1200x' alt='Este nuevo ataque permite a los ciberdelincuentes acceder a la pantalla táctil de tu móvil sin necesidad de tocarla' />
+    <h4><a href='https://computerhoy.com/life/puedes-ganar-30000-euros-mes-alquilando-pisos-airbnb-1246564'>Deja su trabajo y ahora gana más de 30.000 euros al mes realquilando pisos en Airbnb</a></h4>
+    <a href='https://computerhoy.com/life/puedes-ganar-30000-euros-mes-alquilando-pisos-airbnb-1246564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/estafas-airbnb.jpg?tf=1200x' alt='Deja su trabajo y ahora gana más de 30.000 euros al mes realquilando pisos en Airbnb' />
     </a>
 </div>
 
