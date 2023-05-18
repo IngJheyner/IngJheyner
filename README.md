@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/lanzamiento-gafas-realidad-virtual-apple-preocupa-desarrolladores-1247028'>El lanzamiento de las gafas de realidad virtual de Apple preocupa a sus desarrolladores</a></h4>
-    <a href='https://computerhoy.com/apple/lanzamiento-gafas-realidad-virtual-apple-preocupa-desarrolladores-1247028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/gafas-realidad-apple-3036338.jpg?tf=1200x' alt='El lanzamiento de las gafas de realidad virtual de Apple preocupa a sus desarrolladores' />
+    <h4><a href='https://computerhoy.com/google/google-pondra-prueba-chrome-cookies-2024-1247096'>Google pondrá a prueba Chrome sin cookies en 2024 y así es cómo te afectará</a></h4>
+    <a href='https://computerhoy.com/google/google-pondra-prueba-chrome-cookies-2024-1247096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/privacy-sandbox-google-3036434.jpg?tf=1200x' alt='Google pondrá a prueba Chrome sin cookies en 2024 y así es cómo te afectará' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/consiguen-mejorar-rendimiento-zelda-tears-kingdom-switch-1246596'>Cómo mejorar el rendimiento de Zelda: Tears of the Kingdom en Switch ¡hasta 60 fps!</a></h4>
-    <a href='https://computerhoy.com/gaming/consiguen-mejorar-rendimiento-zelda-tears-kingdom-switch-1246596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/zelda-tears-kingdom-3033700.jpg?tf=1200x' alt='Cómo mejorar el rendimiento de Zelda: Tears of the Kingdom en Switch ¡hasta 60 fps!' />
+    <h4><a href='https://computerhoy.com/streaming/juan-carlos-caida-rey-documental-skyshowtime-1247138'>Juan Carlos La caída del Rey, se estrena el polémico documental en SkyShowtime, ya tenemos tráiler</a></h4>
+    <a href='https://computerhoy.com/streaming/juan-carlos-caida-rey-documental-skyshowtime-1247138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ya-hay-fecha-estreno-skyshowtime-promete-ser-documental-polemico-ano-espana-3016954.jpg?tf=1200x' alt='Juan Carlos La caída del Rey, se estrena el polémico documental en SkyShowtime, ya tenemos tráiler' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nuevo-problema-coches-electricos-casi-nadie-esperaba-1246576'>El nuevo problema del coche eléctrico que nadie supo ver y que frenará su crecimiento</a></h4>
-    <a href='https://computerhoy.com/motor/nuevo-problema-coches-electricos-casi-nadie-esperaba-1246576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/recargando-dos-coches-electricos-2620371.jpg?tf=1200x' alt='El nuevo problema del coche eléctrico que nadie supo ver y que frenará su crecimiento' />
+    <h4><a href='https://computerhoy.com/legislacion/ue-pone-punto-mira-electrodomesticos-gastan-hacer-nada-1247132'>La UE pone en su punto de mira los electrodomésticos que más gastan sin hacer nada</a></h4>
+    <a href='https://computerhoy.com/legislacion/ue-pone-punto-mira-electrodomesticos-gastan-hacer-nada-1247132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/electrodomestico-3036522.jpg?tf=1200x' alt='La UE pone en su punto de mira los electrodomésticos que más gastan sin hacer nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/miles-usuarios-android-ios-han-pagado-aplicacion-oficial-chatgpt-no-existe-1247024'>Miles de usuarios Android e iOS han pagado por una aplicación oficial de ChatGPT que no existe</a></h4>
-    <a href='https://computerhoy.com/apps/miles-usuarios-android-ios-han-pagado-aplicacion-oficial-chatgpt-no-existe-1247024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatgpt-phishing-2964394.jpg?tf=1200x' alt='Miles de usuarios Android e iOS han pagado por una aplicación oficial de ChatGPT que no existe' />
+    <h4><a href='https://computerhoy.com/tecnologia/reconocimiento-facial-concierto-beyonce-buscar-criminales-buen-gusto-musical-1247128'>Reconocimiento facial en un concierto de Beyoncé para buscar criminales con buen gusto musical</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reconocimiento-facial-concierto-beyonce-buscar-criminales-buen-gusto-musical-1247128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/beyonce-2912852.jpg?tf=1200x' alt='Reconocimiento facial en un concierto de Beyoncé para buscar criminales con buen gusto musical' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/puedes-ganar-30000-euros-mes-alquilando-pisos-airbnb-1246564'>Deja su trabajo y ahora gana más de 30.000 euros al mes realquilando pisos en Airbnb</a></h4>
-    <a href='https://computerhoy.com/life/puedes-ganar-30000-euros-mes-alquilando-pisos-airbnb-1246564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/estafas-airbnb.jpg?tf=1200x' alt='Deja su trabajo y ahora gana más de 30.000 euros al mes realquilando pisos en Airbnb' />
+    <h4><a href='https://computerhoy.com/life/llega-pildora-electronica-capaz-hackear-estomago-regular-hambre-1247098'>Llega la píldora electrónica capaz de hackear el estómago y regular el hambre</a></h4>
+    <a href='https://computerhoy.com/life/llega-pildora-electronica-capaz-hackear-estomago-regular-hambre-1247098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/pastilla-electronica-mit-3036398.jpg?tf=1200x' alt='Llega la píldora electrónica capaz de hackear el estómago y regular el hambre' />
     </a>
 </div>
 
