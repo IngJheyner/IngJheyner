@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/escaneado-digital-titanic-700000-fotos-1247386'>Un escaneado digital a tamaño real con 700.000 fotos muestra el Titanic hundido como nunca lo has visto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/escaneado-digital-titanic-700000-fotos-1247386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/escaneado-digital-tamano-real-hecho-70000-fotos-muestra-titanic-hundido-como-nunca-has-visto-3036802.jpg?tf=1200x' alt='Un escaneado digital a tamaño real con 700.000 fotos muestra el Titanic hundido como nunca lo has visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/odiaba-hacer-ejercicio-chatgpt-rutina-divertida-ya-ha-perdido-11-kilos-1247162'>Odiaba hacer ejercicio y le pidió a ChatGPT una tabla divertida: ya ha perdido 11 Kilos</a></h4>
     <a href='https://computerhoy.com/tecnologia/odiaba-hacer-ejercicio-chatgpt-rutina-divertida-ya-ha-perdido-11-kilos-1247162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/odiaba-hacer-ejercicio-pidio-chatgpt-rutina-divertida-ya-ha-perdido-11-kilos-3036554.jpg?tf=1200x' alt='Odiaba hacer ejercicio y le pidió a ChatGPT una tabla divertida: ya ha perdido 11 Kilos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/primeros-bancos-modificar-forma-tenemos-utilizar-bizum-1247144'>Primeros bancos en modificar la forma de tenemos de utilizar Bizum</a></h4>
     <a href='https://computerhoy.com/apps/primeros-bancos-modificar-forma-tenemos-utilizar-bizum-1247144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bizum-3036548.jpg?tf=1200x' alt='Primeros bancos en modificar la forma de tenemos de utilizar Bizum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/podrian-multarte-no-devolver-router-wifi-cuando-te-cambias-compania-1247110'>¿Podrían multarte por no devolver el router WiFi cuando te cambias de compañía?</a></h4>
-    <a href='https://computerhoy.com/redes/podrian-multarte-no-devolver-router-wifi-cuando-te-cambias-compania-1247110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/router-wifi-2186199.jpg?tf=1200x' alt='¿Podrían multarte por no devolver el router WiFi cuando te cambias de compañía?' />
     </a>
 </div>
 
