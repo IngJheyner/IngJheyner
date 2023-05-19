@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/descubre-verdadero-significado-simbolos-lavadora-1238770'>Descubre el verdadero significado de los símbolos de la lavadora</a></h4>
-    <a href='https://computerhoy.com/tutoriales/descubre-verdadero-significado-simbolos-lavadora-1238770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/programas-lg-lavadoras-2499881.jpg?tf=1200x' alt='Descubre el verdadero significado de los símbolos de la lavadora' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091'>Aire acondicionado de bajo consumo: mejores modelos que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/04/299043-que-este-ano-quizas-te-interese-comprar-aire-acondicionado-wifi.jpg?tf=1200x' alt='Aire acondicionado de bajo consumo: mejores modelos que puedes comprar en 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/aplicacion-oficial-chatgpt-llega-moviles-aunque-solo-iphone-1247598'>La aplicación oficial de ChatGPT llega a los móviles, aunque solo para iPhone</a></h4>
-    <a href='https://computerhoy.com/apps/aplicacion-oficial-chatgpt-llega-moviles-aunque-solo-iphone-1247598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/chatgpt-3037302.jpg?tf=1200x' alt='La aplicación oficial de ChatGPT llega a los móviles, aunque solo para iPhone' />
+    <h4><a href='https://computerhoy.com/life/trucos-volver-dormir-despertarte-desvelado-mitad-noche-1243976'>El genial truco para volver a dormir tras despertarte desvelado en mitad de la noche</a></h4>
+    <a href='https://computerhoy.com/life/trucos-volver-dormir-despertarte-desvelado-mitad-noche-1243976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bebe-bostezando-3036476.jpg?tf=1200x' alt='El genial truco para volver a dormir tras despertarte desvelado en mitad de la noche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/donde-va-gato-ilusion-optica-te-dice-eres-persona-optimista-pesimista-1247160'>¿Hacia dónde va el gato? Esta ilusión óptica te dice si eres una persona optimista o pesimista</a></h4>
-    <a href='https://computerhoy.com/life/donde-va-gato-ilusion-optica-te-dice-eres-persona-optimista-pesimista-1247160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/gato-escalera-3036562.jpg?tf=1200x' alt='¿Hacia dónde va el gato? Esta ilusión óptica te dice si eres una persona optimista o pesimista' />
+    <h4><a href='https://computerhoy.com/apple/apple-suma-samsung-empleados-no-podran-utilizar-chatgpt-1247638'>Apple se suma a Samsung: sus empleados no podrán utilizar ChatGPT</a></h4>
+    <a href='https://computerhoy.com/apple/apple-suma-samsung-empleados-no-podran-utilizar-chatgpt-1247638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/apple-store-shanghai-publicidad-iphone-14-3025502.jpg?tf=1200x' alt='Apple se suma a Samsung: sus empleados no podrán utilizar ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/precio-minimo-samsung-galaxy-watch5-1247504'>Precio mínimo histórico por el smartwatch más avanzado de Samsung: este Galaxy Watch5 te saldrá a menos de 179€</a></h4>
-    <a href='https://computerhoy.com/smartwatches/precio-minimo-samsung-galaxy-watch5-1247504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-samsung-galaxy-watch-5-2843267.jpg?tf=1200x' alt='Precio mínimo histórico por el smartwatch más avanzado de Samsung: este Galaxy Watch5 te saldrá a menos de 179€' />
+    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-disney-movistar-plus-netflix-mitica-baloncesto-accident-man-trama-secretos-1247546'>Qué películas ver este fin de semana en Disney+, Movistar Plus+ y Netflix: una mítica de baloncesto, Accident Man y una trama de secretos</a></h4>
+    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-disney-movistar-plus-netflix-mitica-baloncesto-accident-man-trama-secretos-1247546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/peliculas-ver-fin-semana-disney-movistar-plus-netflix-mitica-baloncesto-accident-man-trama-secretos-3037202.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Disney+, Movistar Plus+ y Netflix: una mítica de baloncesto, Accident Man y una trama de secretos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/elizabeth-holmes-imitadora-steve-jobs-consiguio-enganar-medio-mundo-1247464'>Elizabeth Holmes, la imitadora de Steve Jobs que consiguió engañar a medio mundo</a></h4>
-    <a href='https://computerhoy.com/elizabeth-holmes-imitadora-steve-jobs-consiguio-enganar-medio-mundo-1247464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elizabeth-holmes-imitadora-steve-jobs-consiguio-enganar-medio-mundo-3036962.jpg?tf=1200x' alt='Elizabeth Holmes, la imitadora de Steve Jobs que consiguió engañar a medio mundo' />
+    <h4><a href='https://computerhoy.com/internet/streamer-amouranth-lanza-propia-ia-compania-tendra-voz-utilidad-cuestionable-1247636'>La streamer Amouranth lanza su propia IA de compañía, tendrá su voz y su utilidad es cuestionable</a></h4>
+    <a href='https://computerhoy.com/internet/streamer-amouranth-lanza-propia-ia-compania-tendra-voz-utilidad-cuestionable-1247636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amouranth-2939536.jpg?tf=1200x' alt='La streamer Amouranth lanza su propia IA de compañía, tendrá su voz y su utilidad es cuestionable' />
     </a>
 </div>
 
