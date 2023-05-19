@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/smartwatches/precio-minimo-samsung-galaxy-watch5-1247504'>Precio mínimo histórico por el smartwatch más avanzado de Samsung: este Galaxy Watch5 te saldrá a menos de 179€</a></h4>
+    <a href='https://computerhoy.com/smartwatches/precio-minimo-samsung-galaxy-watch5-1247504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-samsung-galaxy-watch-5-2843267.jpg?tf=1200x' alt='Precio mínimo histórico por el smartwatch más avanzado de Samsung: este Galaxy Watch5 te saldrá a menos de 179€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/elizabeth-holmes-imitadora-steve-jobs-consiguio-enganar-medio-mundo-1247464'>Elizabeth Holmes, la imitadora de Steve Jobs que consiguió engañar a medio mundo</a></h4>
     <a href='https://computerhoy.com/elizabeth-holmes-imitadora-steve-jobs-consiguio-enganar-medio-mundo-1247464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elizabeth-holmes-imitadora-steve-jobs-consiguio-enganar-medio-mundo-3036962.jpg?tf=1200x' alt='Elizabeth Holmes, la imitadora de Steve Jobs que consiguió engañar a medio mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/reto-tiktok-convierte-algunos-modelos-hyundai-kia-problema-seguridad-eeuu-1247426'>Un reto de TikTok convierte algunos modelos Hyundai y Kia en un problema de seguridad en EE.UU.</a></h4>
     <a href='https://computerhoy.com/motor/reto-tiktok-convierte-algunos-modelos-hyundai-kia-problema-seguridad-eeuu-1247426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/kia-sorento-3004830.jpg?tf=1200x' alt='Un reto de TikTok convierte algunos modelos Hyundai y Kia en un problema de seguridad en EE.UU.' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/dolby-atmos-musica-podcasts-crea-abbey-road-studios-1230246'>Dolby Atmos para música y podcasts: Así se crea en Abbey Road Studios</a></h4>
-    <a href='https://computerhoy.com/audio/dolby-atmos-musica-podcasts-crea-abbey-road-studios-1230246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/abbey-road-studios-3036524.jpg?tf=1200x' alt='Dolby Atmos para música y podcasts: Así se crea en Abbey Road Studios' />
     </a>
 </div>
 
