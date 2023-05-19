@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/descubre-verdadero-significado-simbolos-lavadora-1238770'>Descubre el verdadero significado de los símbolos de la lavadora</a></h4>
+    <a href='https://computerhoy.com/tutoriales/descubre-verdadero-significado-simbolos-lavadora-1238770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/programas-lg-lavadoras-2499881.jpg?tf=1200x' alt='Descubre el verdadero significado de los símbolos de la lavadora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/aplicacion-oficial-chatgpt-llega-moviles-aunque-solo-iphone-1247598'>La aplicación oficial de ChatGPT llega a los móviles, aunque solo para iPhone</a></h4>
+    <a href='https://computerhoy.com/apps/aplicacion-oficial-chatgpt-llega-moviles-aunque-solo-iphone-1247598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/chatgpt-3037302.jpg?tf=1200x' alt='La aplicación oficial de ChatGPT llega a los móviles, aunque solo para iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/donde-va-gato-ilusion-optica-te-dice-eres-persona-optimista-pesimista-1247160'>¿Hacia dónde va el gato? Esta ilusión óptica te dice si eres una persona optimista o pesimista</a></h4>
+    <a href='https://computerhoy.com/life/donde-va-gato-ilusion-optica-te-dice-eres-persona-optimista-pesimista-1247160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/gato-escalera-3036562.jpg?tf=1200x' alt='¿Hacia dónde va el gato? Esta ilusión óptica te dice si eres una persona optimista o pesimista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/smartwatches/precio-minimo-samsung-galaxy-watch5-1247504'>Precio mínimo histórico por el smartwatch más avanzado de Samsung: este Galaxy Watch5 te saldrá a menos de 179€</a></h4>
     <a href='https://computerhoy.com/smartwatches/precio-minimo-samsung-galaxy-watch5-1247504' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-samsung-galaxy-watch-5-2843267.jpg?tf=1200x' alt='Precio mínimo histórico por el smartwatch más avanzado de Samsung: este Galaxy Watch5 te saldrá a menos de 179€' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/elizabeth-holmes-imitadora-steve-jobs-consiguio-enganar-medio-mundo-1247464'>Elizabeth Holmes, la imitadora de Steve Jobs que consiguió engañar a medio mundo</a></h4>
     <a href='https://computerhoy.com/elizabeth-holmes-imitadora-steve-jobs-consiguio-enganar-medio-mundo-1247464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elizabeth-holmes-imitadora-steve-jobs-consiguio-enganar-medio-mundo-3036962.jpg?tf=1200x' alt='Elizabeth Holmes, la imitadora de Steve Jobs que consiguió engañar a medio mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/dyson-v12-detect-slim-absolute-aspirador-mano-100-euros-descuento-1247470'>60 minutos de autonomía, ligera y con láser: esta aspiradora Dyson tope de gama vuelve a bajar 100 euros</a></h4>
-    <a href='https://computerhoy.com/hogar/dyson-v12-detect-slim-absolute-aspirador-mano-100-euros-descuento-1247470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/dyson-v12-detect-slim-absolute-3036948.jpg?tf=1200x' alt='60 minutos de autonomía, ligera y con láser: esta aspiradora Dyson tope de gama vuelve a bajar 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/malware-fabrica-nueva-tecnica-ciberdelincuentes-infectar-moviles-android-1247436'>Malware de fábrica: la nueva técnica de los ciberdelincuentes para infectar móviles Android</a></h4>
-    <a href='https://computerhoy.com/android/malware-fabrica-nueva-tecnica-ciberdelincuentes-infectar-moviles-android-1247436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/malware-fabrica-nueva-tecnica-ciberdelincuentes-infectar-moviles-android-3036890.jpg?tf=1200x' alt='Malware de fábrica: la nueva técnica de los ciberdelincuentes para infectar móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/reto-tiktok-convierte-algunos-modelos-hyundai-kia-problema-seguridad-eeuu-1247426'>Un reto de TikTok convierte algunos modelos Hyundai y Kia en un problema de seguridad en EE.UU.</a></h4>
-    <a href='https://computerhoy.com/motor/reto-tiktok-convierte-algunos-modelos-hyundai-kia-problema-seguridad-eeuu-1247426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/kia-sorento-3004830.jpg?tf=1200x' alt='Un reto de TikTok convierte algunos modelos Hyundai y Kia en un problema de seguridad en EE.UU.' />
     </a>
 </div>
 
