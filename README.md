@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/elizabeth-holmes-imitadora-steve-jobs-consiguio-enganar-medio-mundo-1247464'>Elizabeth Holmes, la imitadora de Steve Jobs que consiguió engañar a medio mundo</a></h4>
+    <a href='https://computerhoy.com/elizabeth-holmes-imitadora-steve-jobs-consiguio-enganar-medio-mundo-1247464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elizabeth-holmes-imitadora-steve-jobs-consiguio-enganar-medio-mundo-3036962.jpg?tf=1200x' alt='Elizabeth Holmes, la imitadora de Steve Jobs que consiguió engañar a medio mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/dyson-v12-detect-slim-absolute-aspirador-mano-100-euros-descuento-1247470'>60 minutos de autonomía, ligera y con láser: esta aspiradora Dyson tope de gama vuelve a bajar 100 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/dyson-v12-detect-slim-absolute-aspirador-mano-100-euros-descuento-1247470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/dyson-v12-detect-slim-absolute-3036948.jpg?tf=1200x' alt='60 minutos de autonomía, ligera y con láser: esta aspiradora Dyson tope de gama vuelve a bajar 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/malware-fabrica-nueva-tecnica-ciberdelincuentes-infectar-moviles-android-1247436'>Malware de fábrica: la nueva técnica de los ciberdelincuentes para infectar móviles Android</a></h4>
     <a href='https://computerhoy.com/android/malware-fabrica-nueva-tecnica-ciberdelincuentes-infectar-moviles-android-1247436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/malware-fabrica-nueva-tecnica-ciberdelincuentes-infectar-moviles-android-3036890.jpg?tf=1200x' alt='Malware de fábrica: la nueva técnica de los ciberdelincuentes para infectar móviles Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/dolby-atmos-musica-podcasts-crea-abbey-road-studios-1230246'>Dolby Atmos para música y podcasts: Así se crea en Abbey Road Studios</a></h4>
     <a href='https://computerhoy.com/audio/dolby-atmos-musica-podcasts-crea-abbey-road-studios-1230246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/abbey-road-studios-3036524.jpg?tf=1200x' alt='Dolby Atmos para música y podcasts: Así se crea en Abbey Road Studios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/peligros-chatgpt-utilizan-ciberdelincuentes-ia-1247130'>Los peligros de ChatGPT: así están utilizando los ciberdelincuentes la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/peligros-chatgpt-utilizan-ciberdelincuentes-ia-1247130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hackers-virus-2511633.jpg?tf=1200x' alt='Los peligros de ChatGPT: así están utilizando los ciberdelincuentes la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/radios-android-auto-1232748'>Mejores radios con Android Auto que deberías comprar para tu coche</a></h4>
-    <a href='https://computerhoy.com/mejores/radios-android-auto-1232748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg?tf=1200x' alt='Mejores radios con Android Auto que deberías comprar para tu coche' />
     </a>
 </div>
 
