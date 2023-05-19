@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/dolby-atmos-musica-podcasts-crea-abbey-road-studios-1230246'>Dolby Atmos para música y podcasts: Así se crea en Abbey Road Studios</a></h4>
+    <a href='https://computerhoy.com/audio/dolby-atmos-musica-podcasts-crea-abbey-road-studios-1230246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/abbey-road-studios-3036524.jpg?tf=1200x' alt='Dolby Atmos para música y podcasts: Así se crea en Abbey Road Studios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/peligros-chatgpt-utilizan-ciberdelincuentes-ia-1247130'>Los peligros de ChatGPT: así están utilizando los ciberdelincuentes la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/peligros-chatgpt-utilizan-ciberdelincuentes-ia-1247130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hackers-virus-2511633.jpg?tf=1200x' alt='Los peligros de ChatGPT: así están utilizando los ciberdelincuentes la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/radios-android-auto-1232748'>Mejores radios con Android Auto que deberías comprar para tu coche</a></h4>
+    <a href='https://computerhoy.com/mejores/radios-android-auto-1232748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg?tf=1200x' alt='Mejores radios con Android Auto que deberías comprar para tu coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/escaneado-digital-titanic-700000-fotos-1247386'>Un escaneado digital a tamaño real con 700.000 fotos muestra el Titanic hundido como nunca lo has visto</a></h4>
     <a href='https://computerhoy.com/tecnologia/escaneado-digital-titanic-700000-fotos-1247386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/escaneado-digital-tamano-real-hecho-70000-fotos-muestra-titanic-hundido-como-nunca-has-visto-3036802.jpg?tf=1200x' alt='Un escaneado digital a tamaño real con 700.000 fotos muestra el Titanic hundido como nunca lo has visto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/odiaba-hacer-ejercicio-chatgpt-rutina-divertida-ya-ha-perdido-11-kilos-1247162'>Odiaba hacer ejercicio y le pidió a ChatGPT una tabla divertida: ya ha perdido 11 Kilos</a></h4>
     <a href='https://computerhoy.com/tecnologia/odiaba-hacer-ejercicio-chatgpt-rutina-divertida-ya-ha-perdido-11-kilos-1247162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/odiaba-hacer-ejercicio-pidio-chatgpt-rutina-divertida-ya-ha-perdido-11-kilos-3036554.jpg?tf=1200x' alt='Odiaba hacer ejercicio y le pidió a ChatGPT una tabla divertida: ya ha perdido 11 Kilos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/nvidia-lanza-tarjetas-rtx-4060-4060-ti-no-convencen-gamers-1247154'>NVIDIA lanza las esperadas tarjetas RTX 4060 a partir de 335 euros, pero no convencen a los gamers</a></h4>
-    <a href='https://computerhoy.com/pc/nvidia-lanza-tarjetas-rtx-4060-4060-ti-no-convencen-gamers-1247154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nvidia-lanza-esperadas-tarjetas-asequibles-rtx-4060-partir-335-euros-pero-no-convencen-gamers-3036560.jpg?tf=1200x' alt='NVIDIA lanza las esperadas tarjetas RTX 4060 a partir de 335 euros, pero no convencen a los gamers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/nuevos-dominios-zip-mov-hacen-saltan-alarmas-seguridad-1247116'>Los ciberdelincuentes se frotan las manos con los nuevos dominios de Google: .zip y .mov</a></h4>
-    <a href='https://computerhoy.com/google/nuevos-dominios-zip-mov-hacen-saltan-alarmas-seguridad-1247116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/dominios-seguros-2576341.jpg?tf=1200x' alt='Los ciberdelincuentes se frotan las manos con los nuevos dominios de Google: .zip y .mov' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/primeros-bancos-modificar-forma-tenemos-utilizar-bizum-1247144'>Primeros bancos en modificar la forma de tenemos de utilizar Bizum</a></h4>
-    <a href='https://computerhoy.com/apps/primeros-bancos-modificar-forma-tenemos-utilizar-bizum-1247144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bizum-3036548.jpg?tf=1200x' alt='Primeros bancos en modificar la forma de tenemos de utilizar Bizum' />
     </a>
 </div>
 
