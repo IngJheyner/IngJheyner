@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091'>Aire acondicionado de bajo consumo: mejores modelos que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/04/299043-que-este-ano-quizas-te-interese-comprar-aire-acondicionado-wifi.jpg?tf=1200x' alt='Aire acondicionado de bajo consumo: mejores modelos que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/gaming/funcion-oculta-televisores-permite-jugar-zelda-tears-kingdom-60-fps-1247714'>Una función poco conocida de los televisores permite jugar a Zelda: Tears of the Kingdom a 60 fps</a></h4>
+    <a href='https://computerhoy.com/gaming/funcion-oculta-televisores-permite-jugar-zelda-tears-kingdom-60-fps-1247714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/legend-zelda-tears-kingdom-legend-zelda-breath-wild-3033254.jpg?tf=1200x' alt='Una función poco conocida de los televisores permite jugar a Zelda: Tears of the Kingdom a 60 fps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/trucos-volver-dormir-despertarte-desvelado-mitad-noche-1243976'>El genial truco para volver a dormir tras despertarte desvelado en mitad de la noche</a></h4>
-    <a href='https://computerhoy.com/life/trucos-volver-dormir-despertarte-desvelado-mitad-noche-1243976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bebe-bostezando-3036476.jpg?tf=1200x' alt='El genial truco para volver a dormir tras despertarte desvelado en mitad de la noche' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-alerta-frase-maldita-respondes-escuchas-cuelga-1247710'>La Policía alerta sobre la frase maldita: si respondes y la escuchas, cuelga</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-alerta-frase-maldita-respondes-escuchas-cuelga-1247710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/me-han-estafado-bizum-puedo-hacer-2306967.jpg?tf=1200x' alt='La Policía alerta sobre la frase maldita: si respondes y la escuchas, cuelga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-suma-samsung-empleados-no-podran-utilizar-chatgpt-1247638'>Apple se suma a Samsung: sus empleados no podrán utilizar ChatGPT</a></h4>
-    <a href='https://computerhoy.com/apple/apple-suma-samsung-empleados-no-podran-utilizar-chatgpt-1247638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/apple-store-shanghai-publicidad-iphone-14-3025502.jpg?tf=1200x' alt='Apple se suma a Samsung: sus empleados no podrán utilizar ChatGPT' />
+    <h4><a href='https://computerhoy.com/life/descubren-nueva-especie-dinosaurio-espana-1247708'>Descubren una nueva especie de dinosaurio en España</a></h4>
+    <a href='https://computerhoy.com/life/descubren-nueva-especie-dinosaurio-espana-1247708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/protathlitis-cinctorrensis-3037560.jpg?tf=1200x' alt='Descubren una nueva especie de dinosaurio en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-disney-movistar-plus-netflix-mitica-baloncesto-accident-man-trama-secretos-1247546'>Qué películas ver este fin de semana en Disney+, Movistar Plus+ y Netflix: una mítica de baloncesto, Accident Man y una trama de secretos</a></h4>
-    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-disney-movistar-plus-netflix-mitica-baloncesto-accident-man-trama-secretos-1247546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/peliculas-ver-fin-semana-disney-movistar-plus-netflix-mitica-baloncesto-accident-man-trama-secretos-3037202.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Disney+, Movistar Plus+ y Netflix: una mítica de baloncesto, Accident Man y una trama de secretos' />
+    <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-netflix-hbo-max-filmin-1247612'>Qué series ver este fin de semana en Netflix, HBO Max y Filmin: un cadáver, Aaron Piper y la KGB</a></h4>
+    <a href='https://computerhoy.com/streaming/series-ver-fin-semana-netflix-hbo-max-filmin-1247612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/silencio-3036084.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, HBO Max y Filmin: un cadáver, Aaron Piper y la KGB' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/streamer-amouranth-lanza-propia-ia-compania-tendra-voz-utilidad-cuestionable-1247636'>La streamer Amouranth lanza su propia IA de compañía, tendrá su voz y su utilidad es cuestionable</a></h4>
-    <a href='https://computerhoy.com/internet/streamer-amouranth-lanza-propia-ia-compania-tendra-voz-utilidad-cuestionable-1247636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amouranth-2939536.jpg?tf=1200x' alt='La streamer Amouranth lanza su propia IA de compañía, tendrá su voz y su utilidad es cuestionable' />
+    <h4><a href='https://computerhoy.com/google/chrome-ahora-sera-listo-encargara-corregir-direcciones-web-escribas-mal-1247640'>Chrome ahora será más listo y se encargará de corregir las direcciones web que escribas mal</a></h4>
+    <a href='https://computerhoy.com/google/chrome-ahora-sera-listo-encargara-corregir-direcciones-web-escribas-mal-1247640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2913694.jpg?tf=1200x' alt='Chrome ahora será más listo y se encargará de corregir las direcciones web que escribas mal' />
     </a>
 </div>
 
