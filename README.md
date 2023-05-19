@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/malware-fabrica-nueva-tecnica-ciberdelincuentes-infectar-moviles-android-1247436'>Malware de fábrica: la nueva técnica de los ciberdelincuentes para infectar móviles Android</a></h4>
+    <a href='https://computerhoy.com/android/malware-fabrica-nueva-tecnica-ciberdelincuentes-infectar-moviles-android-1247436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/malware-fabrica-nueva-tecnica-ciberdelincuentes-infectar-moviles-android-3036890.jpg?tf=1200x' alt='Malware de fábrica: la nueva técnica de los ciberdelincuentes para infectar móviles Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/reto-tiktok-convierte-algunos-modelos-hyundai-kia-problema-seguridad-eeuu-1247426'>Un reto de TikTok convierte algunos modelos Hyundai y Kia en un problema de seguridad en EE.UU.</a></h4>
+    <a href='https://computerhoy.com/motor/reto-tiktok-convierte-algunos-modelos-hyundai-kia-problema-seguridad-eeuu-1247426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/kia-sorento-3004830.jpg?tf=1200x' alt='Un reto de TikTok convierte algunos modelos Hyundai y Kia en un problema de seguridad en EE.UU.' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/dolby-atmos-musica-podcasts-crea-abbey-road-studios-1230246'>Dolby Atmos para música y podcasts: Así se crea en Abbey Road Studios</a></h4>
     <a href='https://computerhoy.com/audio/dolby-atmos-musica-podcasts-crea-abbey-road-studios-1230246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/abbey-road-studios-3036524.jpg?tf=1200x' alt='Dolby Atmos para música y podcasts: Así se crea en Abbey Road Studios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/radios-android-auto-1232748'>Mejores radios con Android Auto que deberías comprar para tu coche</a></h4>
     <a href='https://computerhoy.com/mejores/radios-android-auto-1232748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg?tf=1200x' alt='Mejores radios con Android Auto que deberías comprar para tu coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/escaneado-digital-titanic-700000-fotos-1247386'>Un escaneado digital a tamaño real con 700.000 fotos muestra el Titanic hundido como nunca lo has visto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/escaneado-digital-titanic-700000-fotos-1247386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/escaneado-digital-tamano-real-hecho-70000-fotos-muestra-titanic-hundido-como-nunca-has-visto-3036802.jpg?tf=1200x' alt='Un escaneado digital a tamaño real con 700.000 fotos muestra el Titanic hundido como nunca lo has visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/odiaba-hacer-ejercicio-chatgpt-rutina-divertida-ya-ha-perdido-11-kilos-1247162'>Odiaba hacer ejercicio y le pidió a ChatGPT una tabla divertida: ya ha perdido 11 Kilos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/odiaba-hacer-ejercicio-chatgpt-rutina-divertida-ya-ha-perdido-11-kilos-1247162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/odiaba-hacer-ejercicio-pidio-chatgpt-rutina-divertida-ya-ha-perdido-11-kilos-3036554.jpg?tf=1200x' alt='Odiaba hacer ejercicio y le pidió a ChatGPT una tabla divertida: ya ha perdido 11 Kilos' />
     </a>
 </div>
 
