@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes-sociales/filtra-app-instagram-clon-twitter-1247724'>Se filtra la app de Instagram que quiere comerse a Twitter</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/filtra-app-instagram-clon-twitter-1247724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/filtra-app-instagram-quiere-competir-twitter-3037586.jpg?tf=1200x' alt='Se filtra la app de Instagram que quiere comerse a Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/funcion-oculta-televisores-permite-jugar-zelda-tears-kingdom-60-fps-1247714'>Una función poco conocida de los televisores permite jugar a Zelda: Tears of the Kingdom a 60 fps</a></h4>
     <a href='https://computerhoy.com/gaming/funcion-oculta-televisores-permite-jugar-zelda-tears-kingdom-60-fps-1247714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/legend-zelda-tears-kingdom-legend-zelda-breath-wild-3033254.jpg?tf=1200x' alt='Una función poco conocida de los televisores permite jugar a Zelda: Tears of the Kingdom a 60 fps' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-netflix-hbo-max-filmin-1247612'>Qué series ver este fin de semana en Netflix, HBO Max y Filmin: un cadáver, Aaron Piper y la KGB</a></h4>
     <a href='https://computerhoy.com/streaming/series-ver-fin-semana-netflix-hbo-max-filmin-1247612' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/silencio-3036084.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, HBO Max y Filmin: un cadáver, Aaron Piper y la KGB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/chrome-ahora-sera-listo-encargara-corregir-direcciones-web-escribas-mal-1247640'>Chrome ahora será más listo y se encargará de corregir las direcciones web que escribas mal</a></h4>
-    <a href='https://computerhoy.com/google/chrome-ahora-sera-listo-encargara-corregir-direcciones-web-escribas-mal-1247640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2913694.jpg?tf=1200x' alt='Chrome ahora será más listo y se encargará de corregir las direcciones web que escribas mal' />
     </a>
 </div>
 
