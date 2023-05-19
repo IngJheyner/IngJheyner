@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/filtra-app-instagram-clon-twitter-1247724'>Se filtra la app de Instagram que quiere comerse a Twitter</a></h4>
+    <h4><a href='https://computerhoy.com/redes-sociales/filtra-app-instagram-clon-twitter-1247724'>Se filtra la app de mensajes de Instagram que quiere comerse a Twitter</a></h4>
     <a href='https://computerhoy.com/redes-sociales/filtra-app-instagram-clon-twitter-1247724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/filtra-app-instagram-quiere-competir-twitter-3037586.jpg?tf=1200x' alt='Se filtra la app de Instagram que quiere comerse a Twitter' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/filtra-app-instagram-quiere-competir-twitter-3037586.jpg?tf=1200x' alt='Se filtra la app de mensajes de Instagram que quiere comerse a Twitter' />
     </a>
 </div>
 
