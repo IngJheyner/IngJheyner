@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/odiaba-hacer-ejercicio-chatgpt-rutina-divertida-ya-ha-perdido-11-kilos-1247162'>Odiaba hacer ejercicio y le pidió a ChatGPT una tabla divertida: ya ha perdido 11 Kilos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/odiaba-hacer-ejercicio-chatgpt-rutina-divertida-ya-ha-perdido-11-kilos-1247162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/odiaba-hacer-ejercicio-pidio-chatgpt-rutina-divertida-ya-ha-perdido-11-kilos-3036554.jpg?tf=1200x' alt='Odiaba hacer ejercicio y le pidió a ChatGPT una tabla divertida: ya ha perdido 11 Kilos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/nvidia-lanza-tarjetas-rtx-4060-4060-ti-no-convencen-gamers-1247154'>NVIDIA lanza las esperadas tarjetas RTX 4060 a partir de 335 euros, pero no convencen a los gamers</a></h4>
     <a href='https://computerhoy.com/pc/nvidia-lanza-tarjetas-rtx-4060-4060-ti-no-convencen-gamers-1247154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nvidia-lanza-esperadas-tarjetas-asequibles-rtx-4060-partir-335-euros-pero-no-convencen-gamers-3036560.jpg?tf=1200x' alt='NVIDIA lanza las esperadas tarjetas RTX 4060 a partir de 335 euros, pero no convencen a los gamers' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/podrian-multarte-no-devolver-router-wifi-cuando-te-cambias-compania-1247110'>¿Podrían multarte por no devolver el router WiFi cuando te cambias de compañía?</a></h4>
     <a href='https://computerhoy.com/redes/podrian-multarte-no-devolver-router-wifi-cuando-te-cambias-compania-1247110' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/router-wifi-2186199.jpg?tf=1200x' alt='¿Podrían multarte por no devolver el router WiFi cuando te cambias de compañía?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-pondra-prueba-chrome-cookies-2024-1247096'>Google pondrá a prueba Chrome sin cookies en 2024 y así es cómo te afectará</a></h4>
-    <a href='https://computerhoy.com/google/google-pondra-prueba-chrome-cookies-2024-1247096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/privacy-sandbox-google-3036434.jpg?tf=1200x' alt='Google pondrá a prueba Chrome sin cookies en 2024 y así es cómo te afectará' />
     </a>
 </div>
 
