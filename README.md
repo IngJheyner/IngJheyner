@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/samsung-buscador-google-bing-chatgpt-1247730'>Google apaga una alarma roja: Samsung se queda con su buscador en sus móviles, en lugar de Bing con ChatGPT</a></h4>
+    <a href='https://computerhoy.com/internet/samsung-buscador-google-bing-chatgpt-1247730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006118.jpg?tf=1200x' alt='Google apaga una alarma roja: Samsung se queda con su buscador en sus móviles, en lugar de Bing con ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes-sociales/filtra-app-instagram-clon-twitter-1247724'>Se filtra la app de mensajes de Instagram que quiere comerse a Twitter</a></h4>
     <a href='https://computerhoy.com/redes-sociales/filtra-app-instagram-clon-twitter-1247724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/filtra-app-instagram-quiere-competir-twitter-3037586.jpg?tf=1200x' alt='Se filtra la app de mensajes de Instagram que quiere comerse a Twitter' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/descubren-nueva-especie-dinosaurio-espana-1247708'>Descubren una nueva especie de dinosaurio en España</a></h4>
     <a href='https://computerhoy.com/life/descubren-nueva-especie-dinosaurio-espana-1247708' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/protathlitis-cinctorrensis-3037560.jpg?tf=1200x' alt='Descubren una nueva especie de dinosaurio en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/series-ver-fin-semana-netflix-hbo-max-filmin-1247612'>Qué series ver este fin de semana en Netflix, HBO Max y Filmin: un cadáver, Aaron Piper y la KGB</a></h4>
-    <a href='https://computerhoy.com/streaming/series-ver-fin-semana-netflix-hbo-max-filmin-1247612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/silencio-3036084.jpg?tf=1200x' alt='Qué series ver este fin de semana en Netflix, HBO Max y Filmin: un cadáver, Aaron Piper y la KGB' />
     </a>
 </div>
 
