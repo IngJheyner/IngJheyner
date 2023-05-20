@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/trucos-amazon-fire-tv-funcione-rapido-fluido-1247066'>Trucos para que tu Amazon Fire TV funcione más rápido y fluido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/trucos-amazon-fire-tv-funcione-rapido-fluido-1247066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-amazon-fire-tv-stick-4k-max-2526589.jpg?tf=1200x' alt='Trucos para que tu Amazon Fire TV funcione más rápido y fluido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/meta-prepara-siguiente-generacion-ia-chip-propio-centro-datos-superordenador-1247646'>Meta se prepara para la siguiente generación de IA: chip propio, centro de datos y un superordenador</a></h4>
     <a href='https://computerhoy.com/tecnologia/meta-prepara-siguiente-generacion-ia-chip-propio-centro-datos-superordenador-1247646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/meta-3037430.jpg?tf=1200x' alt='Meta se prepara para la siguiente generación de IA: chip propio, centro de datos y un superordenador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/nommo-v2-nueva-linea-altavoces-vanguardistas-razer-pc-gaming-1248012'>Nommo V2: la nueva línea de altavoces vanguardistas de Razer para tu PC gaming</a></h4>
     <a href='https://computerhoy.com/audio/nommo-v2-nueva-linea-altavoces-vanguardistas-razer-pc-gaming-1248012' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/razer-nommo-v2-3037978.jpg?tf=1200x' alt='Nommo V2: la nueva línea de altavoces vanguardistas de Razer para tu PC gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-piel-electronica-capaz-imitar-sentido-tacto-1248010'>Crean una piel electrónica capaz de imitar el sentido del tacto</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-piel-electronica-capaz-imitar-sentido-tacto-1248010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/crean-piel-electronica-capaz-imitar-sentido-tacto-3037976.jpg?tf=1200x' alt='Crean una piel electrónica capaz de imitar el sentido del tacto' />
     </a>
 </div>
 
