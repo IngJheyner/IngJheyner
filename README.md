@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estatua-mas-alta-espana-huevo-colon-sevilla-1247956'>La estatua más alta de España solo mide un metro menos que la Estatua de la Libertad</a></h4>
-    <a href='https://computerhoy.com/life/estatua-mas-alta-espana-huevo-colon-sevilla-1247956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estatua-alta-espana-solo-mide-metro-menos-estatua-libertad-3037828.jpg?tf=1200x' alt='La estatua más alta de España solo mide un metro menos que la Estatua de la Libertad' />
+    <h4><a href='https://computerhoy.com/tecnologia/guerra-ha-comenzado-listo-google-bard-destronar-chatgpt-1245946'>La guerra ha comenzado: ¿está listo el Google Bard para destronar a ChatGPT?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guerra-ha-comenzado-listo-google-bard-destronar-chatgpt-1245946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/guerra-ha-comenzado-listo-nuevo-bard-finalmente-destronar-chatgpt-3036260.jpg?tf=1200x' alt='La guerra ha comenzado: ¿está listo el Google Bard para destronar a ChatGPT?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/llevas-echando-mal-sal-toda-vida-video-1247394'>En estado de shock al descubrir para qué sirven las estrías de los saleros</a></h4>
-    <a href='https://computerhoy.com/alimentacion/llevas-echando-mal-sal-toda-vida-video-1247394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estado-shock-descubrir-sirven-estrias-saleros-3036808.jpg?tf=1200x' alt='En estado de shock al descubrir para qué sirven las estrías de los saleros' />
+    <h4><a href='https://computerhoy.com/motor/coche-electrico-rimac-nevera-bate-23-records-velocidad-dia-1247962'>El hypercar eléctrico Rimac Nevera bate 23 récords de velocidad en un día (vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/coche-electrico-rimac-nevera-bate-23-records-velocidad-dia-1247962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/coche-electrico-rimac-rivera-bate-23-records-velocidad-dia-3036800.jpg?tf=1200x' alt='El hypercar eléctrico Rimac Nevera bate 23 récords de velocidad en un día (vídeo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/samsung-buscador-google-bing-chatgpt-1247730'>Google apaga una alarma roja: Samsung se queda con su buscador en sus móviles, en lugar de Bing con ChatGPT</a></h4>
-    <a href='https://computerhoy.com/internet/samsung-buscador-google-bing-chatgpt-1247730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006118.jpg?tf=1200x' alt='Google apaga una alarma roja: Samsung se queda con su buscador en sus móviles, en lugar de Bing con ChatGPT' />
+    <h4><a href='https://computerhoy.com/tutoriales/formas-arreglar-lentitud-ordenador-portatil-windows-11-1246336'>Formas para arreglar la lentitud de un ordenador o portátil con Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/formas-arreglar-lentitud-ordenador-portatil-windows-11-1246336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2498473.jpg?tf=1200x' alt='Formas para arreglar la lentitud de un ordenador o portátil con Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/filtra-app-instagram-clon-twitter-1247724'>Se filtra la app de mensajes de Instagram que quiere comerse a Twitter</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/filtra-app-instagram-clon-twitter-1247724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/filtra-app-instagram-quiere-competir-twitter-3037586.jpg?tf=1200x' alt='Se filtra la app de mensajes de Instagram que quiere comerse a Twitter' />
+    <h4><a href='https://computerhoy.com/entretenimiento/comedia-netflix-serie-preferida-carl-pei-nothing-1242450'>Esta comedia de Netflix es la serie de televisión preferida de Carl Pei, fundador de OnePlus y Nothing</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/comedia-netflix-serie-preferida-carl-pei-nothing-1242450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/carl-pei-fundador-nothing-cofundador-oneplus-2976466.jpg?tf=1200x' alt='Esta comedia de Netflix es la serie de televisión preferida de Carl Pei, fundador de OnePlus y Nothing' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/funcion-oculta-televisores-permite-jugar-zelda-tears-kingdom-60-fps-1247714'>Una función poco conocida de los televisores permite jugar a Zelda: Tears of the Kingdom a 60 fps</a></h4>
-    <a href='https://computerhoy.com/gaming/funcion-oculta-televisores-permite-jugar-zelda-tears-kingdom-60-fps-1247714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/legend-zelda-tears-kingdom-legend-zelda-breath-wild-3033254.jpg?tf=1200x' alt='Una función poco conocida de los televisores permite jugar a Zelda: Tears of the Kingdom a 60 fps' />
+    <h4><a href='https://computerhoy.com/analisis/huawei-freebuds-5-analisis-review-caracteristicas-opinion-teletubbie-auriculares-1231944'>Huawei Freebuds 5, análisis y opinión: Los Teletubbies de los auriculares True Wireless</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-freebuds-5-analisis-review-caracteristicas-opinion-teletubbie-auriculares-1231944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-freebuds-5-3037596.jpg?tf=1200x' alt='Huawei Freebuds 5, análisis y opinión: Los Teletubbies de los auriculares True Wireless' />
     </a>
 </div>
 
