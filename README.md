@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/nothing-phone-1-compatible-android-14-oferta-1247694'>Nothing Phone (1) es uno de los móviles más llamativos, con el que podrás probar Android 14 y que ahora tiene casi 120€ de descuento</a></h4>
+    <a href='https://computerhoy.com/moviles/nothing-phone-1-compatible-android-14-oferta-1247694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772691.jpg?tf=1200x' alt='Nothing Phone (1) es uno de los móviles más llamativos, con el que podrás probar Android 14 y que ahora tiene casi 120€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-protagonizadas-cientificos-puedes-ver-antes-estreno-oppenheimer-1243722'>7 películas protagonizadas por científicos que puedes ver antes del estreno de Oppenheimer</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-protagonizadas-cientificos-puedes-ver-antes-estreno-oppenheimer-1243722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mente-maravillosa-2952124.jpg?tf=1200x' alt='7 películas protagonizadas por científicos que puedes ver antes del estreno de Oppenheimer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-memoria-virtual-windows-11-1241488'>Cómo restablecer la memoria virtual en Windows 11 y qué beneficios tiene</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-restablecer-memoria-virtual-windows-11-1241488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-usando-ordenador-3002008.jpg?tf=1200x' alt='Cómo restablecer la memoria virtual en Windows 11 y qué beneficios tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/paginas-amarillas-blancas-cuando-datos-privacidad-no-importaban-nadie-1240802'>Páginas amarillas y blancas: cuando nuestros datos y privacidad no le importaban a nadie</a></h4>
+    <a href='https://computerhoy.com/life/paginas-amarillas-blancas-cuando-datos-privacidad-no-importaban-nadie-1240802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/paginas-amarillas-3027578.jpg?tf=1200x' alt='Páginas amarillas y blancas: cuando nuestros datos y privacidad no le importaban a nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/guerra-ha-comenzado-listo-google-bard-destronar-chatgpt-1245946'>La guerra ha comenzado: ¿está listo el Google Bard para destronar a ChatGPT?</a></h4>
     <a href='https://computerhoy.com/tecnologia/guerra-ha-comenzado-listo-google-bard-destronar-chatgpt-1245946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/guerra-ha-comenzado-listo-nuevo-bard-finalmente-destronar-chatgpt-3036260.jpg?tf=1200x' alt='La guerra ha comenzado: ¿está listo el Google Bard para destronar a ChatGPT?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coche-electrico-rimac-nevera-bate-23-records-velocidad-dia-1247962'>El hypercar eléctrico Rimac Nevera bate 23 récords de velocidad en un día (vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/coche-electrico-rimac-nevera-bate-23-records-velocidad-dia-1247962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/coche-electrico-rimac-rivera-bate-23-records-velocidad-dia-3036800.jpg?tf=1200x' alt='El hypercar eléctrico Rimac Nevera bate 23 récords de velocidad en un día (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/formas-arreglar-lentitud-ordenador-portatil-windows-11-1246336'>Formas para arreglar la lentitud de un ordenador o portátil con Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/formas-arreglar-lentitud-ordenador-portatil-windows-11-1246336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/windows-11-2498473.jpg?tf=1200x' alt='Formas para arreglar la lentitud de un ordenador o portátil con Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/comedia-netflix-serie-preferida-carl-pei-nothing-1242450'>Esta comedia de Netflix es la serie de televisión preferida de Carl Pei, fundador de OnePlus y Nothing</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/comedia-netflix-serie-preferida-carl-pei-nothing-1242450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/carl-pei-fundador-nothing-cofundador-oneplus-2976466.jpg?tf=1200x' alt='Esta comedia de Netflix es la serie de televisión preferida de Carl Pei, fundador de OnePlus y Nothing' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-freebuds-5-analisis-review-caracteristicas-opinion-teletubbie-auriculares-1231944'>Huawei Freebuds 5, análisis y opinión: Los Teletubbies de los auriculares True Wireless</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-freebuds-5-analisis-review-caracteristicas-opinion-teletubbie-auriculares-1231944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-freebuds-5-3037596.jpg?tf=1200x' alt='Huawei Freebuds 5, análisis y opinión: Los Teletubbies de los auriculares True Wireless' />
     </a>
 </div>
 
