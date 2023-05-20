@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estatua-mas-alta-espana-huevo-colon-sevilla-1247956'>La estatua más alta de España solo mide un metro menos que la Estatua de la Libertad</a></h4>
+    <a href='https://computerhoy.com/life/estatua-mas-alta-espana-huevo-colon-sevilla-1247956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estatua-alta-espana-solo-mide-metro-menos-estatua-libertad-3037828.jpg?tf=1200x' alt='La estatua más alta de España solo mide un metro menos que la Estatua de la Libertad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/llevas-echando-mal-sal-toda-vida-video-1247394'>En estado de shock al descubrir para qué sirven las estrías de los saleros</a></h4>
+    <a href='https://computerhoy.com/alimentacion/llevas-echando-mal-sal-toda-vida-video-1247394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estado-shock-descubrir-sirven-estrias-saleros-3036808.jpg?tf=1200x' alt='En estado de shock al descubrir para qué sirven las estrías de los saleros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/samsung-buscador-google-bing-chatgpt-1247730'>Google apaga una alarma roja: Samsung se queda con su buscador en sus móviles, en lugar de Bing con ChatGPT</a></h4>
     <a href='https://computerhoy.com/internet/samsung-buscador-google-bing-chatgpt-1247730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006118.jpg?tf=1200x' alt='Google apaga una alarma roja: Samsung se queda con su buscador en sus móviles, en lugar de Bing con ChatGPT' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/funcion-oculta-televisores-permite-jugar-zelda-tears-kingdom-60-fps-1247714'>Una función poco conocida de los televisores permite jugar a Zelda: Tears of the Kingdom a 60 fps</a></h4>
     <a href='https://computerhoy.com/gaming/funcion-oculta-televisores-permite-jugar-zelda-tears-kingdom-60-fps-1247714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/legend-zelda-tears-kingdom-legend-zelda-breath-wild-3033254.jpg?tf=1200x' alt='Una función poco conocida de los televisores permite jugar a Zelda: Tears of the Kingdom a 60 fps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-alerta-frase-maldita-respondes-escuchas-cuelga-1247710'>La Policía alerta sobre la frase maldita: si respondes y la escuchas, cuelga</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-alerta-frase-maldita-respondes-escuchas-cuelga-1247710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/me-han-estafado-bizum-puedo-hacer-2306967.jpg?tf=1200x' alt='La Policía alerta sobre la frase maldita: si respondes y la escuchas, cuelga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubren-nueva-especie-dinosaurio-espana-1247708'>Descubren una nueva especie de dinosaurio en España</a></h4>
-    <a href='https://computerhoy.com/life/descubren-nueva-especie-dinosaurio-espana-1247708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/protathlitis-cinctorrensis-3037560.jpg?tf=1200x' alt='Descubren una nueva especie de dinosaurio en España' />
     </a>
 </div>
 
