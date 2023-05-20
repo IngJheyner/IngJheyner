@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/nommo-v2-nueva-linea-altavoces-vanguardistas-razer-pc-gaming-1248012'>Nommo V2: la nueva línea de altavoces vanguardistas de Razer para tu PC gaming</a></h4>
+    <a href='https://computerhoy.com/audio/nommo-v2-nueva-linea-altavoces-vanguardistas-razer-pc-gaming-1248012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/razer-nommo-v2-3037978.jpg?tf=1200x' alt='Nommo V2: la nueva línea de altavoces vanguardistas de Razer para tu PC gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/crean-piel-electronica-capaz-imitar-sentido-tacto-1248010'>Crean una piel electrónica capaz de imitar el sentido del tacto</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-piel-electronica-capaz-imitar-sentido-tacto-1248010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/crean-piel-electronica-capaz-imitar-sentido-tacto-3037976.jpg?tf=1200x' alt='Crean una piel electrónica capaz de imitar el sentido del tacto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-nueva-herramienta-crear-propias-pegatinas-1248008'>WhatsApp trabaja en una nueva herramienta para crear nuestras propias pegatinas</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-trabaja-nueva-herramienta-crear-propias-pegatinas-1248008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/stickers-whatsapp-2987620.jpg?tf=1200x' alt='WhatsApp trabaja en una nueva herramienta para crear nuestras propias pegatinas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-14-mejorara-grabacion-pantalla-evitando-aparezcan-notificaciones-inesperadas-1248004'>Android 14 mejorará la grabación de pantalla evitando que aparezcan notificaciones inesperadas</a></h4>
     <a href='https://computerhoy.com/android/android-14-mejorara-grabacion-pantalla-evitando-aparezcan-notificaciones-inesperadas-1248004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/android-3022320.jpg?tf=1200x' alt='Android 14 mejorará la grabación de pantalla evitando que aparezcan notificaciones inesperadas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/gochess-tablero-ajedrez-vanguardista-jamas-has-visto-antes-1248000'>Así es GoChess, el tablero de ajedrez más vanguardista que jamás has visto antes</a></h4>
     <a href='https://computerhoy.com/life/gochess-tablero-ajedrez-vanguardista-jamas-has-visto-antes-1248000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/gochess-3037968.jpg?tf=1200x' alt='Así es GoChess, el tablero de ajedrez más vanguardista que jamás has visto antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-online-estas-censo-electoral-proximas-elecciones-1245044'>Cómo saber online si estás en el censo electoral para las próximas elecciones</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-online-estas-censo-electoral-proximas-elecciones-1245044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/como-saber-online-te-ha-tocado-forma-parte-mesa-electoral-elecciones-28m-3023918.jpg?tf=1200x' alt='Cómo saber online si estás en el censo electoral para las próximas elecciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-son-todas-aplicaciones-habia-app-store-finales-2022-1247994'>Estas son todas las aplicaciones que había en la App Store a finales de 2022</a></h4>
-    <a href='https://computerhoy.com/apps/estas-son-todas-aplicaciones-habia-app-store-finales-2022-1247994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/app-store-2325965.jpg?tf=1200x' alt='Estas son todas las aplicaciones que había en la App Store a finales de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/administrador-contrasenas-puede-haber-expuesto-1247986'>Este administrador de contraseñas puede haber expuesto las tuyas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/administrador-contrasenas-puede-haber-expuesto-1247986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/administrador-contrasenas-3037946.jpg?tf=1200x' alt='Este administrador de contraseñas puede haber expuesto las tuyas' />
     </a>
 </div>
 
