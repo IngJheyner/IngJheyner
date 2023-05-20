@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nothing-phone-1-compatible-android-14-oferta-1247694'>Nothing Phone (1) es uno de los móviles más llamativos, con el que podrás probar Android 14 y que ahora tiene casi 120€ de descuento</a></h4>
-    <a href='https://computerhoy.com/moviles/nothing-phone-1-compatible-android-14-oferta-1247694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-analisis-opinion-2772691.jpg?tf=1200x' alt='Nothing Phone (1) es uno de los móviles más llamativos, con el que podrás probar Android 14 y que ahora tiene casi 120€ de descuento' />
+    <h4><a href='https://computerhoy.com/android/android-14-mejorara-grabacion-pantalla-evitando-aparezcan-notificaciones-inesperadas-1248004'>Android 14 mejorará la grabación de pantalla evitando que aparezcan notificaciones inesperadas</a></h4>
+    <a href='https://computerhoy.com/android/android-14-mejorara-grabacion-pantalla-evitando-aparezcan-notificaciones-inesperadas-1248004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/android-3022320.jpg?tf=1200x' alt='Android 14 mejorará la grabación de pantalla evitando que aparezcan notificaciones inesperadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-protagonizadas-cientificos-puedes-ver-antes-estreno-oppenheimer-1243722'>7 películas protagonizadas por científicos que puedes ver antes del estreno de Oppenheimer</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-protagonizadas-cientificos-puedes-ver-antes-estreno-oppenheimer-1243722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mente-maravillosa-2952124.jpg?tf=1200x' alt='7 películas protagonizadas por científicos que puedes ver antes del estreno de Oppenheimer' />
+    <h4><a href='https://computerhoy.com/life/gochess-tablero-ajedrez-vanguardista-jamas-has-visto-antes-1248000'>Así es GoChess, el tablero de ajedrez más vanguardista que jamás has visto antes</a></h4>
+    <a href='https://computerhoy.com/life/gochess-tablero-ajedrez-vanguardista-jamas-has-visto-antes-1248000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/gochess-3037968.jpg?tf=1200x' alt='Así es GoChess, el tablero de ajedrez más vanguardista que jamás has visto antes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-memoria-virtual-windows-11-1241488'>Cómo restablecer la memoria virtual en Windows 11 y qué beneficios tiene</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-restablecer-memoria-virtual-windows-11-1241488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-usando-ordenador-3002008.jpg?tf=1200x' alt='Cómo restablecer la memoria virtual en Windows 11 y qué beneficios tiene' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-online-estas-censo-electoral-proximas-elecciones-1245044'>Cómo saber online si estás en el censo electoral para las próximas elecciones</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-online-estas-censo-electoral-proximas-elecciones-1245044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/como-saber-online-te-ha-tocado-forma-parte-mesa-electoral-elecciones-28m-3023918.jpg?tf=1200x' alt='Cómo saber online si estás en el censo electoral para las próximas elecciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/paginas-amarillas-blancas-cuando-datos-privacidad-no-importaban-nadie-1240802'>Páginas amarillas y blancas: cuando nuestros datos y privacidad no le importaban a nadie</a></h4>
-    <a href='https://computerhoy.com/life/paginas-amarillas-blancas-cuando-datos-privacidad-no-importaban-nadie-1240802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/paginas-amarillas-3027578.jpg?tf=1200x' alt='Páginas amarillas y blancas: cuando nuestros datos y privacidad no le importaban a nadie' />
+    <h4><a href='https://computerhoy.com/apps/estas-son-todas-aplicaciones-habia-app-store-finales-2022-1247994'>Estas son todas las aplicaciones que había en la App Store a finales de 2022</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-todas-aplicaciones-habia-app-store-finales-2022-1247994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/app-store-2325965.jpg?tf=1200x' alt='Estas son todas las aplicaciones que había en la App Store a finales de 2022' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guerra-ha-comenzado-listo-google-bard-destronar-chatgpt-1245946'>La guerra ha comenzado: ¿está listo el Google Bard para destronar a ChatGPT?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guerra-ha-comenzado-listo-google-bard-destronar-chatgpt-1245946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/guerra-ha-comenzado-listo-nuevo-bard-finalmente-destronar-chatgpt-3036260.jpg?tf=1200x' alt='La guerra ha comenzado: ¿está listo el Google Bard para destronar a ChatGPT?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/administrador-contrasenas-puede-haber-expuesto-1247986'>Este administrador de contraseñas puede haber expuesto las tuyas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/administrador-contrasenas-puede-haber-expuesto-1247986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/administrador-contrasenas-3037946.jpg?tf=1200x' alt='Este administrador de contraseñas puede haber expuesto las tuyas' />
     </a>
 </div>
 
