@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/probabilidad-encontrar-trebol-cuatro-hojas-1247452'>Biólogos calculan la probabilidad real de encontrar un trébol de cuatro hojas, tras examinar casi 6 millones</a></h4>
-    <a href='https://computerhoy.com/life/probabilidad-encontrar-trebol-cuatro-hojas-1247452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/biologos-revelan-probabilidad-real-encontrar-trebol-cuatro-hojas-examinar-casi-6-millones-3036830.jpg?tf=1200x' alt='Biólogos calculan la probabilidad real de encontrar un trébol de cuatro hojas, tras examinar casi 6 millones' />
+    <h4><a href='https://computerhoy.com/android/capas-personalizacion-android-realmente-son-utiles-1245848'>¿Android necesita las capas de personalización de las marcas?</a></h4>
+    <a href='https://computerhoy.com/android/capas-personalizacion-android-realmente-son-utiles-1245848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741205.jpg?tf=1200x' alt='¿Android necesita las capas de personalización de las marcas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/trucos-amazon-fire-tv-funcione-rapido-fluido-1247066'>Trucos para que tu Amazon Fire TV funcione más rápido y fluido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/trucos-amazon-fire-tv-funcione-rapido-fluido-1247066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-amazon-fire-tv-stick-4k-max-2526589.jpg?tf=1200x' alt='Trucos para que tu Amazon Fire TV funcione más rápido y fluido' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-memoria-cache-telegram-deberias-hacerlo-1243710'>Cómo borrar la memoria caché de Telegram y por qué deberías hacerlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-memoria-cache-telegram-deberias-hacerlo-1243710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/telegram.jpg?tf=1200x' alt='Cómo borrar la memoria caché de Telegram y por qué deberías hacerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-prepara-siguiente-generacion-ia-chip-propio-centro-datos-superordenador-1247646'>Meta se prepara para la siguiente generación de IA: chip propio, centro de datos y un superordenador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-prepara-siguiente-generacion-ia-chip-propio-centro-datos-superordenador-1247646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/meta-3037430.jpg?tf=1200x' alt='Meta se prepara para la siguiente generación de IA: chip propio, centro de datos y un superordenador' />
+    <h4><a href='https://computerhoy.com/moviles/crean-led-pequeno-mundo-convertir-camaras-moviles-microscopios-1248036'>Crean el LED más pequeño del mundo para convertir las cámaras de nuestros móviles en microscopios</a></h4>
+    <a href='https://computerhoy.com/moviles/crean-led-pequeno-mundo-convertir-camaras-moviles-microscopios-1248036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/camara-smartphone-3037998.jpg?tf=1200x' alt='Crean el LED más pequeño del mundo para convertir las cámaras de nuestros móviles en microscopios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/fallo-afecta-miles-router-asus-puedes-solventarlo-1248042'>El fallo que afecta a miles de router de Asus y así puedes solventarlo</a></h4>
-    <a href='https://computerhoy.com/redes/fallo-afecta-miles-router-asus-puedes-solventarlo-1248042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-wifi-3035456.jpg?tf=1200x' alt='El fallo que afecta a miles de router de Asus y así puedes solventarlo' />
+    <h4><a href='https://computerhoy.com/analisis/epson-ecotank-et-2850-analisis-review-caracteristicas-precio-1237492'>Epson EcoTank ET-2850, ahorra en cada página y sin cartuchos</a></h4>
+    <a href='https://computerhoy.com/analisis/epson-ecotank-et-2850-analisis-review-caracteristicas-precio-1237492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/epson-ecotank-et-2850-analisis-opinion-3036582.jpg?tf=1200x' alt='Epson EcoTank ET-2850, ahorra en cada página y sin cartuchos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatiles-huawei-matebook-windows-hemos-probado-recomendamos-993375'>Portátiles de Huawei con Windows que hemos probado y recomendamos (y algunos de ellos están en oferta ahora mismo)</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/portatiles-huawei-matebook-windows-hemos-probado-recomendamos-993375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-analisis-matebook-d15-2021-2311167.jpg?tf=1200x' alt='Portátiles de Huawei con Windows que hemos probado y recomendamos (y algunos de ellos están en oferta ahora mismo)' />
+    <h4><a href='https://computerhoy.com/life/previsiones-climaticas-proximos-5-anos-son-devastadoras-advierte-estudio-1248032'>Las previsiones climáticas para los próximos 5 años son devastadoras, advierte un estudio</a></h4>
+    <a href='https://computerhoy.com/life/previsiones-climaticas-proximos-5-anos-son-devastadoras-advierte-estudio-1248032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/calor-ciudad-3037994.jpg?tf=1200x' alt='Las previsiones climáticas para los próximos 5 años son devastadoras, advierte un estudio' />
     </a>
 </div>
 
