@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/disney-plus-elimina-willow-otras-50-series-catalogo-1248298'>Disney+ elimina Willow y otras 50 series de su catálogo</a></h4>
+    <a href='https://computerhoy.com/streaming/disney-plus-elimina-willow-otras-50-series-catalogo-1248298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aluvion-nuevas-series-traileres-star-wars-andor-willow-nuevo-rowan-atkinson-horizon-zero-dawn-god-war-2713607.jpg?tf=1200x' alt='Disney+ elimina Willow y otras 50 series de su catálogo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/perifericos/algunas-impresoras-hp-officejet-estropean-despues-actualizacion-software-estos-son-modelos-afectados-1248276'>Algunas impresoras HP OfficeJet se estropean después de una actualización de software: estos son los modelos afectados</a></h4>
     <a href='https://computerhoy.com/perifericos/algunas-impresoras-hp-officejet-estropean-despues-actualizacion-software-estos-son-modelos-afectados-1248276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg?tf=1200x' alt='Algunas impresoras HP OfficeJet se estropean después de una actualización de software: estos son los modelos afectados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/alguien-dice-ha-escrito-97-libros-ayuda-chatgpt-ha-sacado-beneficio-1248262'>Alguien dice que ha escrito 97 libros con ayuda de ChatGPT y se ha sacado este beneficio</a></h4>
     <a href='https://computerhoy.com/apps/alguien-dice-ha-escrito-97-libros-ayuda-chatgpt-ha-sacado-beneficio-1248262' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/robot-libros-3038346.jpg?tf=1200x' alt='Alguien dice que ha escrito 97 libros con ayuda de ChatGPT y se ha sacado este beneficio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/tecnologia-espacial-modificada-nasa-podria-proporcionar-baterias-sostenibles-duren-30-anos-1248258'>Esta tecnología espacial modificada de la NASA podría proporcionar baterías sostenibles que duren 30 años</a></h4>
-    <a href='https://computerhoy.com/espacio/tecnologia-espacial-modificada-nasa-podria-proporcionar-baterias-sostenibles-duren-30-anos-1248258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tecnologia-espacial-modificada-nasa-podria-proporcionar-baterias-sostenibles-duren-30-anos-3038342.jpg?tf=1200x' alt='Esta tecnología espacial modificada de la NASA podría proporcionar baterías sostenibles que duren 30 años' />
     </a>
 </div>
 
