@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bratgpt-gemelo-malvado-chatgpt-1248310'>Ya puedes probar BratGPT, el gemelo malvado de ChatGPT entrenado para humillarte</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bratgpt-gemelo-malvado-chatgpt-1248310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ya-puedes-probar-bratgpt-gemelo-malvado-chatgpt-entrenado-humillarte-3038442.jpg?tf=1200x' alt='Ya puedes probar BratGPT, el gemelo malvado de ChatGPT entrenado para humillarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-actualizar-urgentemente-todos-iphone-ipad-mac-exploits-dia-cero-1248304'>Apple pide actualizar urgentemente todos los iPhone, iPad y Mac, para protegerse de 3 exploits de día cero activos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-actualizar-urgentemente-todos-iphone-ipad-mac-exploits-dia-cero-1248304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/apple-pide-actualizar-urgentemente-todos-iphone-ipad-protegerse-3-exploits-dia-cero-activos-3038430.jpg?tf=1200x' alt='Apple pide actualizar urgentemente todos los iPhone, iPad y Mac, para protegerse de 3 exploits de día cero activos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aires-acondicionados-wifi-1098309'>Aires acondicionados con WiFi: qué debes saber y cuales son los mejores modelos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aires-acondicionados-wifi-1098309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aire-acondicionado-2708771.jpg?tf=1200x' alt='Aires acondicionados con WiFi: qué debes saber y cuales son los mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/disney-plus-elimina-willow-otras-50-series-catalogo-1248298'>Disney+ elimina Willow y otras 50 series de su catálogo</a></h4>
     <a href='https://computerhoy.com/streaming/disney-plus-elimina-willow-otras-50-series-catalogo-1248298' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aluvion-nuevas-series-traileres-star-wars-andor-willow-nuevo-rowan-atkinson-horizon-zero-dawn-god-war-2713607.jpg?tf=1200x' alt='Disney+ elimina Willow y otras 50 series de su catálogo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/perifericos/algunas-impresoras-hp-officejet-estropean-despues-actualizacion-software-estos-son-modelos-afectados-1248276'>Algunas impresoras HP OfficeJet se estropean después de una actualización de software: estos son los modelos afectados</a></h4>
     <a href='https://computerhoy.com/perifericos/algunas-impresoras-hp-officejet-estropean-despues-actualizacion-software-estos-son-modelos-afectados-1248276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg?tf=1200x' alt='Algunas impresoras HP OfficeJet se estropean después de una actualización de software: estos son los modelos afectados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-probado-alternativas-chatgpt-mi-chatbot-ganador-1247498'>He probado alternativas a ChatGPT y este es mi indiscutible chatbot de IA ganador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-probado-alternativas-chatgpt-mi-chatbot-ganador-1247498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3037090.jpg?tf=1200x' alt='He probado alternativas a ChatGPT y este es mi indiscutible chatbot de IA ganador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/poblacion-union-europea-perdiendo-muchos-habitantes-razon-1248264'>La población de la Unión Europea está perdiendo muchos habitantes por esta razón</a></h4>
-    <a href='https://computerhoy.com/life/poblacion-union-europea-perdiendo-muchos-habitantes-razon-1248264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/poblacion-3038352.jpg?tf=1200x' alt='La población de la Unión Europea está perdiendo muchos habitantes por esta razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/alguien-dice-ha-escrito-97-libros-ayuda-chatgpt-ha-sacado-beneficio-1248262'>Alguien dice que ha escrito 97 libros con ayuda de ChatGPT y se ha sacado este beneficio</a></h4>
-    <a href='https://computerhoy.com/apps/alguien-dice-ha-escrito-97-libros-ayuda-chatgpt-ha-sacado-beneficio-1248262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/robot-libros-3038346.jpg?tf=1200x' alt='Alguien dice que ha escrito 97 libros con ayuda de ChatGPT y se ha sacado este beneficio' />
     </a>
 </div>
 
