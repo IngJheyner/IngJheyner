@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/capas-personalizacion-android-realmente-son-utiles-1245848'>¿Android necesita las capas de personalización de las marcas?</a></h4>
-    <a href='https://computerhoy.com/android/capas-personalizacion-android-realmente-son-utiles-1245848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741205.jpg?tf=1200x' alt='¿Android necesita las capas de personalización de las marcas?' />
+    <h4><a href='https://computerhoy.com/espacio/tecnologia-espacial-modificada-nasa-podria-proporcionar-baterias-sostenibles-duren-30-anos-1248258'>Esta tecnología espacial modificada de la NASA podría proporcionar baterías sostenibles que duren 30 años</a></h4>
+    <a href='https://computerhoy.com/espacio/tecnologia-espacial-modificada-nasa-podria-proporcionar-baterias-sostenibles-duren-30-anos-1248258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tecnologia-espacial-modificada-nasa-podria-proporcionar-baterias-sostenibles-duren-30-anos-3038342.jpg?tf=1200x' alt='Esta tecnología espacial modificada de la NASA podría proporcionar baterías sostenibles que duren 30 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-memoria-cache-telegram-deberias-hacerlo-1243710'>Cómo borrar la memoria caché de Telegram y por qué deberías hacerlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-borrar-memoria-cache-telegram-deberias-hacerlo-1243710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/telegram.jpg?tf=1200x' alt='Cómo borrar la memoria caché de Telegram y por qué deberías hacerlo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-series-espanolas-protagonizadas-policias-soldados-1246504'>7 series españolas protagonizadas por policías o soldados</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-series-espanolas-protagonizadas-policias-soldados-1246504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/hombres-paco-3035646.jpg?tf=1200x' alt='7 series españolas protagonizadas por policías o soldados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/crean-led-pequeno-mundo-convertir-camaras-moviles-microscopios-1248036'>Crean el LED más pequeño del mundo para convertir las cámaras de nuestros móviles en microscopios</a></h4>
-    <a href='https://computerhoy.com/moviles/crean-led-pequeno-mundo-convertir-camaras-moviles-microscopios-1248036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/camara-smartphone-3037998.jpg?tf=1200x' alt='Crean el LED más pequeño del mundo para convertir las cámaras de nuestros móviles en microscopios' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-resucita-internet-explorer-seguira-presente-escenarios-excepcionales-1248256'>Microsoft “resucita” a Internet Explorer: seguirá presente “en escenarios excepcionales”</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-resucita-internet-explorer-seguira-presente-escenarios-excepcionales-1248256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/internet-explorer-final-soporte-2385521.jpg?tf=1200x' alt='Microsoft “resucita” a Internet Explorer: seguirá presente “en escenarios excepcionales”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/epson-ecotank-et-2850-analisis-review-caracteristicas-precio-1237492'>Epson EcoTank ET-2850, ahorra en cada página y sin cartuchos</a></h4>
-    <a href='https://computerhoy.com/analisis/epson-ecotank-et-2850-analisis-review-caracteristicas-precio-1237492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/epson-ecotank-et-2850-analisis-opinion-3036582.jpg?tf=1200x' alt='Epson EcoTank ET-2850, ahorra en cada página y sin cartuchos' />
+    <h4><a href='https://computerhoy.com/hogar/bicicleta-estatica-barata-cecotec-oferta-1248254'>Cecotec tiene una bicicleta perfecta para ponerse en forma este verano que apenas cuesta 100€</a></h4>
+    <a href='https://computerhoy.com/hogar/bicicleta-estatica-barata-cecotec-oferta-1248254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cecotec-drumfit-indoor-6000-forcis-3038336.jpg?tf=1200x' alt='Cecotec tiene una bicicleta perfecta para ponerse en forma este verano que apenas cuesta 100€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/previsiones-climaticas-proximos-5-anos-son-devastadoras-advierte-estudio-1248032'>Las previsiones climáticas para los próximos 5 años son devastadoras, advierte un estudio</a></h4>
-    <a href='https://computerhoy.com/life/previsiones-climaticas-proximos-5-anos-son-devastadoras-advierte-estudio-1248032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/calor-ciudad-3037994.jpg?tf=1200x' alt='Las previsiones climáticas para los próximos 5 años son devastadoras, advierte un estudio' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-barra-tareas-windows-11-vuelva-transparente-1238674'>Cómo hacer que la barra de tareas de Windows 11 se vuelva transparente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-barra-tareas-windows-11-vuelva-transparente-1238674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/barra-inicio-windows-11-3037060.jpg?tf=1200x' alt='Cómo hacer que la barra de tareas de Windows 11 se vuelva transparente' />
     </a>
 </div>
 
