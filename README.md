@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/probabilidad-encontrar-trebol-cuatro-hojas-1247452'>Biólogos calculan la probabilidad real de encontrar un trébol de cuatro hojas, tras examinar casi 6 millones</a></h4>
+    <a href='https://computerhoy.com/life/probabilidad-encontrar-trebol-cuatro-hojas-1247452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/biologos-revelan-probabilidad-real-encontrar-trebol-cuatro-hojas-examinar-casi-6-millones-3036830.jpg?tf=1200x' alt='Biólogos calculan la probabilidad real de encontrar un trébol de cuatro hojas, tras examinar casi 6 millones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/trucos-amazon-fire-tv-funcione-rapido-fluido-1247066'>Trucos para que tu Amazon Fire TV funcione más rápido y fluido</a></h4>
     <a href='https://computerhoy.com/tutoriales/trucos-amazon-fire-tv-funcione-rapido-fluido-1247066' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/review-amazon-fire-tv-stick-4k-max-2526589.jpg?tf=1200x' alt='Trucos para que tu Amazon Fire TV funcione más rápido y fluido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatiles-huawei-matebook-windows-hemos-probado-recomendamos-993375'>Portátiles de Huawei con Windows que hemos probado y recomendamos (y algunos de ellos están en oferta ahora mismo)</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/portatiles-huawei-matebook-windows-hemos-probado-recomendamos-993375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/galeria-analisis-matebook-d15-2021-2311167.jpg?tf=1200x' alt='Portátiles de Huawei con Windows que hemos probado y recomendamos (y algunos de ellos están en oferta ahora mismo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/nommo-v2-nueva-linea-altavoces-vanguardistas-razer-pc-gaming-1248012'>Nommo V2: la nueva línea de altavoces vanguardistas de Razer para tu PC gaming</a></h4>
-    <a href='https://computerhoy.com/audio/nommo-v2-nueva-linea-altavoces-vanguardistas-razer-pc-gaming-1248012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/razer-nommo-v2-3037978.jpg?tf=1200x' alt='Nommo V2: la nueva línea de altavoces vanguardistas de Razer para tu PC gaming' />
     </a>
 </div>
 
