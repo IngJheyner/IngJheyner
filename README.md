@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/perifericos/algunas-impresoras-hp-officejet-estropean-despues-actualizacion-software-estos-son-modelos-afectados-1248276'>Algunas impresoras HP OfficeJet se estropean después de una actualización de software: estos son los modelos afectados</a></h4>
+    <a href='https://computerhoy.com/perifericos/algunas-impresoras-hp-officejet-estropean-despues-actualizacion-software-estos-son-modelos-afectados-1248276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg?tf=1200x' alt='Algunas impresoras HP OfficeJet se estropean después de una actualización de software: estos son los modelos afectados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/he-probado-alternativas-chatgpt-mi-chatbot-ganador-1247498'>He probado alternativas a ChatGPT y este es mi indiscutible chatbot de IA ganador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-probado-alternativas-chatgpt-mi-chatbot-ganador-1247498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3037090.jpg?tf=1200x' alt='He probado alternativas a ChatGPT y este es mi indiscutible chatbot de IA ganador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/poblacion-union-europea-perdiendo-muchos-habitantes-razon-1248264'>La población de la Unión Europea está perdiendo muchos habitantes por esta razón</a></h4>
+    <a href='https://computerhoy.com/life/poblacion-union-europea-perdiendo-muchos-habitantes-razon-1248264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/poblacion-3038352.jpg?tf=1200x' alt='La población de la Unión Europea está perdiendo muchos habitantes por esta razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/alguien-dice-ha-escrito-97-libros-ayuda-chatgpt-ha-sacado-beneficio-1248262'>Alguien dice que ha escrito 97 libros con ayuda de ChatGPT y se ha sacado este beneficio</a></h4>
+    <a href='https://computerhoy.com/apps/alguien-dice-ha-escrito-97-libros-ayuda-chatgpt-ha-sacado-beneficio-1248262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/robot-libros-3038346.jpg?tf=1200x' alt='Alguien dice que ha escrito 97 libros con ayuda de ChatGPT y se ha sacado este beneficio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/tecnologia-espacial-modificada-nasa-podria-proporcionar-baterias-sostenibles-duren-30-anos-1248258'>Esta tecnología espacial modificada de la NASA podría proporcionar baterías sostenibles que duren 30 años</a></h4>
     <a href='https://computerhoy.com/espacio/tecnologia-espacial-modificada-nasa-podria-proporcionar-baterias-sostenibles-duren-30-anos-1248258' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tecnologia-espacial-modificada-nasa-podria-proporcionar-baterias-sostenibles-duren-30-anos-3038342.jpg?tf=1200x' alt='Esta tecnología espacial modificada de la NASA podría proporcionar baterías sostenibles que duren 30 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-series-espanolas-protagonizadas-policias-soldados-1246504'>7 series españolas protagonizadas por policías o soldados</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-series-espanolas-protagonizadas-policias-soldados-1246504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/hombres-paco-3035646.jpg?tf=1200x' alt='7 series españolas protagonizadas por policías o soldados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-resucita-internet-explorer-seguira-presente-escenarios-excepcionales-1248256'>Microsoft “resucita” a Internet Explorer: seguirá presente “en escenarios excepcionales”</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-resucita-internet-explorer-seguira-presente-escenarios-excepcionales-1248256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/internet-explorer-final-soporte-2385521.jpg?tf=1200x' alt='Microsoft “resucita” a Internet Explorer: seguirá presente “en escenarios excepcionales”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/bicicleta-estatica-barata-cecotec-oferta-1248254'>Cecotec tiene una bicicleta perfecta para ponerse en forma este verano que apenas cuesta 100€</a></h4>
-    <a href='https://computerhoy.com/hogar/bicicleta-estatica-barata-cecotec-oferta-1248254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cecotec-drumfit-indoor-6000-forcis-3038336.jpg?tf=1200x' alt='Cecotec tiene una bicicleta perfecta para ponerse en forma este verano que apenas cuesta 100€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-barra-tareas-windows-11-vuelva-transparente-1238674'>Cómo hacer que la barra de tareas de Windows 11 se vuelva transparente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-barra-tareas-windows-11-vuelva-transparente-1238674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/barra-inicio-windows-11-3037060.jpg?tf=1200x' alt='Cómo hacer que la barra de tareas de Windows 11 se vuelva transparente' />
     </a>
 </div>
 
