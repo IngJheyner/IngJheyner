@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/muse-pc-retro-creado-rapsberry-pi-evita-procrastinacion-1248314'>MUSE, el PC retro creado con una Rapsberry Pi, que evita la procrastinación</a></h4>
+    <a href='https://computerhoy.com/pc/muse-pc-retro-creado-rapsberry-pi-evita-procrastinacion-1248314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/muse-pc-retro-creado-rapsberry-pi-evita-procrastinacion-3038540.jpg?tf=1200x' alt='MUSE, el PC retro creado con una Rapsberry Pi, que evita la procrastinación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/descubre-verdadero-significado-puntos-rojos-amarillos-neumaticos-1239136'>Descubre el verdadero significado de los puntos rojos y amarillos en los neumáticos</a></h4>
     <a href='https://computerhoy.com/motor/descubre-verdadero-significado-puntos-rojos-amarillos-neumaticos-1239136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/neumaticos-puntos-rojos-amarillos-3023328.jpg?tf=1200x' alt='Descubre el verdadero significado de los puntos rojos y amarillos en los neumáticos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-actualizar-urgentemente-todos-iphone-ipad-mac-exploits-dia-cero-1248304'>Apple pide actualizar urgentemente todos los iPhone, iPad y Mac, para protegerse de 3 exploits de día cero activos</a></h4>
     <a href='https://computerhoy.com/apple/apple-actualizar-urgentemente-todos-iphone-ipad-mac-exploits-dia-cero-1248304' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/apple-pide-actualizar-urgentemente-todos-iphone-ipad-protegerse-3-exploits-dia-cero-activos-3038430.jpg?tf=1200x' alt='Apple pide actualizar urgentemente todos los iPhone, iPad y Mac, para protegerse de 3 exploits de día cero activos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aires-acondicionados-wifi-1098309'>Aires acondicionados con WiFi: qué debes saber y cuales son los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aires-acondicionados-wifi-1098309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aire-acondicionado-2708771.jpg?tf=1200x' alt='Aires acondicionados con WiFi: qué debes saber y cuales son los mejores modelos' />
     </a>
 </div>
 
