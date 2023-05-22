@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/son-plugins-chatgpt-como-instalarlos-todo-puedes-hacer-ellos-1247728'>Qué son los plugins de ChatGPT, cómo instalarlos y todo lo que puedes hacer con ellos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/son-plugins-chatgpt-como-instalarlos-todo-puedes-hacer-ellos-1247728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-desactivar-historial-chatgpt-deberias-hacerlo-ahora-mismo-3018826.jpg?tf=1200x' alt='Qué son los plugins de ChatGPT, cómo instalarlos y todo lo que puedes hacer con ellos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ya-puedes-editar-mensajes-whatsapp-funciona-nueva-caracteristica-1248788'>Ya puedes editar mensajes en WhatsApp: así funciona la nueva característica</a></h4>
+    <a href='https://computerhoy.com/apps/ya-puedes-editar-mensajes-whatsapp-funciona-nueva-caracteristica-1248788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ya-puedes-editar-mensajes-whatsapp-funciona-nueva-caracteristica-3039392.jpg?tf=1200x' alt='Ya puedes editar mensajes en WhatsApp: así funciona la nueva característica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-toda-tdt-cientos-canales-television-gratis-instalar-nada-tvguia-1247702'>Cómo ver toda la TDT y cientos de canales de televisión gratis sin instalar nada con TVguia</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-toda-tdt-cientos-canales-television-gratis-instalar-nada-tvguia-1247702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tvguia-3037534.jpg?tf=1200x' alt='Cómo ver toda la TDT y cientos de canales de televisión gratis sin instalar nada con TVguia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/nunca-debes-hacer-portatil-trabajo-expertos-1247688'>Esto es lo que nunca deberías hacer con el portátil del trabajo, según los expertos</a></h4>
     <a href='https://computerhoy.com/life/nunca-debes-hacer-portatil-trabajo-expertos-1247688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/portatil-2815849.jpg?tf=1200x' alt='Esto es lo que nunca deberías hacer con el portátil del trabajo, según los expertos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/xiaomi-pad-6-primeras-impresiones-nueva-tablet-aspira-revolucionar-gama-media-1248718'>Xiaomi Pad 6: primeras impresiones con la nueva tableta que aspira a revolucionar la gama media</a></h4>
     <a href='https://computerhoy.com/android/xiaomi-pad-6-primeras-impresiones-nueva-tablet-aspira-revolucionar-gama-media-1248718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/xiaomi-pad-6-3039222.jpg?tf=1200x' alt='Xiaomi Pad 6: primeras impresiones con la nueva tableta que aspira a revolucionar la gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-cambia-tipo-bateria-ciertos-modelos-mejorando-tiempos-carga-1248618'>Tesla cambia el tipo de batería de ciertos modelos mejorando sustancialmente los tiempos de carga</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-cambia-tipo-bateria-ciertos-modelos-mejorando-tiempos-carga-1248618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tesla-cambia-tipo-bateria-ciertos-modelos-mejorando-sustancialmente-tiempos-carga-3038936.jpg?tf=1200x' alt='Tesla cambia el tipo de batería de ciertos modelos mejorando sustancialmente los tiempos de carga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-renueva-catalogo-nueva-tablet-dos-patinetes-electricos-robots-aspirador-1248694'>Xiaomi renueva su catálogo: nueva tablet, dos patinetes eléctricos y robots aspirador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-renueva-catalogo-nueva-tablet-dos-patinetes-electricos-robots-aspirador-1248694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/xiaomi-renueva-catalogo-nueva-tablet-dos-patinetes-electricos-robots-aspirador-3039040.jpg?tf=1200x' alt='Xiaomi renueva su catálogo: nueva tablet, dos patinetes eléctricos y robots aspirador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/europa-multa-meta-1200-millones-euros-estableciendo-record-ue-1248662'>Europa multa a Meta con 1.200 millones de euros, estableciendo un récord en la UE</a></h4>
-    <a href='https://computerhoy.com/legislacion/europa-multa-meta-1200-millones-euros-estableciendo-record-ue-1248662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/europa-multa-meta-1200-millones-euros-estableciendo-record-ue-3039030.jpg?tf=1200x' alt='Europa multa a Meta con 1.200 millones de euros, estableciendo un récord en la UE' />
     </a>
 </div>
 
