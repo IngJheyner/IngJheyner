@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ya-puedes-instalar-android-auto-96-soluciones-telegram-google-assistant-1248842'>Ya puedes instalar Android Auto 9.6 con soluciones para Telegram y Google Assistant</a></h4>
-    <a href='https://computerhoy.com/android/ya-puedes-instalar-android-auto-96-soluciones-telegram-google-assistant-1248842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/android-auto-2973768.jpg?tf=1200x' alt='Ya puedes instalar Android Auto 9.6 con soluciones para Telegram y Google Assistant' />
+    <h4><a href='https://computerhoy.com/tecnologia/san-altman-openai-visita-madrid-espana-1248914'>Sam Altman, el CEO de OpenAI, en Madrid: 'la inteligencia artificial es tan peligrosa como las armas nucleares'</a></h4>
+    <a href='https://computerhoy.com/tecnologia/san-altman-openai-visita-madrid-espana-1248914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/san-altman-madrid-inteligencia-artificial-tan-peligrosa-como-armas-nucleares-3039550.jpg?tf=1200x' alt='Sam Altman, el CEO de OpenAI, en Madrid: 'la inteligencia artificial es tan peligrosa como las armas nucleares'' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/nuevo-error-twitter-resucitando-miles-tweets-habian-sido-borrados-1248832'>El nuevo error de Twitter está resucitando miles de tweets que habían sido borrados</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/nuevo-error-twitter-resucitando-miles-tweets-habian-sido-borrados-1248832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verdad-twitter-eliminara-hoy-insignia-verificacion-no-ser-pagues-ella-3013732.jpg?tf=1200x' alt='El nuevo error de Twitter está resucitando miles de tweets que habían sido borrados' />
+    <h4><a href='https://computerhoy.com/streaming/skyshowtime-trae-espana-poker-face-serie-consiguio-eclipsar-last-us-1248888'>SkyShowtime trae a España Poker Face, la serie que consiguió eclipsar a The Last of Us</a></h4>
+    <a href='https://computerhoy.com/streaming/skyshowtime-trae-espana-poker-face-serie-consiguio-eclipsar-last-us-1248888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/poker-face-2921680.jpg?tf=1200x' alt='SkyShowtime trae a España Poker Face, la serie que consiguió eclipsar a The Last of Us' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/no-eres-soy-yo-errores-volante-hacen-coche-consuma-mucho-1247958'>No eres tú, soy yo: errores al volante que hacen que tu coche consuma mucho más</a></h4>
-    <a href='https://computerhoy.com/motor/no-eres-soy-yo-errores-volante-hacen-coche-consuma-mucho-1247958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/combustible-2993152.jpg?tf=1200x' alt='No eres tú, soy yo: errores al volante que hacen que tu coche consuma mucho más' />
+    <h4><a href='https://computerhoy.com/ciencia/solo-necesitas-palma-mano-entrar-metro-pekin-funciona-tecnologia-1248834'>Solo necesitas la palma de tu mano para entrar al metro de Pekín: así funciona la tecnología</a></h4>
+    <a href='https://computerhoy.com/ciencia/solo-necesitas-palma-mano-entrar-metro-pekin-funciona-tecnologia-1248834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/solo-necesitas-palma-mano-entrar-metro-pekin-funciona-tecnologia-3039510.jpg?tf=1200x' alt='Solo necesitas la palma de tu mano para entrar al metro de Pekín: así funciona la tecnología' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-presenta-ai-grand-challenge-fomentar-inteligencia-artificial-1248816'>Bill Gates presenta AI Grand Challenge para fomentar el desarrollo de la Inteligencia Artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bill-gates-presenta-ai-grand-challenge-fomentar-inteligencia-artificial-1248816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bill-gates-foundation-3039430.jpg?tf=1200x' alt='Bill Gates presenta AI Grand Challenge para fomentar el desarrollo de la Inteligencia Artificial' />
+    <h4><a href='https://computerhoy.com/apps/telegram-desbordada-proliferacion-canales-pirateria-iptv-contenidos-ilegales-1248840'>Telegram desbordada por la proliferación de canales y bots de piratería, IPTV y contenidos ilegales</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-desbordada-proliferacion-canales-pirateria-iptv-contenidos-ilegales-1248840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/telegram-2890488.jpg?tf=1200x' alt='Telegram desbordada por la proliferación de canales y bots de piratería, IPTV y contenidos ilegales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/acertijo-matematico-tiktok-volviendo-locos-todos-1247954'>El acertijo matemático de TikTok que está volviendo locos a todos</a></h4>
-    <a href='https://computerhoy.com/life/acertijo-matematico-tiktok-volviendo-locos-todos-1247954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/problema-matematicas-2241781.jpg?tf=1200x' alt='El acertijo matemático de TikTok que está volviendo locos a todos' />
+    <h4><a href='https://computerhoy.com/redes/fallo-configuracion-router-wifi-puede-estar-arruinando-velocidad-conexion-1248898'>El fallo de configuración de tu router WiFi que puede estar arruinando la velocidad de tu conexión</a></h4>
+    <a href='https://computerhoy.com/redes/fallo-configuracion-router-wifi-puede-estar-arruinando-velocidad-conexion-1248898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/router-wifi-3013256.jpg?tf=1200x' alt='El fallo de configuración de tu router WiFi que puede estar arruinando la velocidad de tu conexión' />
     </a>
 </div>
 
