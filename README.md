@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/cual-es-mejor-amazon-echo-ti-322491'>Amazon Echo: modelos, diferencias y lo que debes saber antes de comprar tu altavoz inteligente </a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/cual-es-mejor-amazon-echo-ti-322491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-echo-pop-3038338.jpg?tf=1200x' alt='Amazon Echo: modelos, diferencias y lo que debes saber antes de comprar tu altavoz inteligente ' />
+    <h4><a href='https://computerhoy.com/moviles/analisis-camara-xiaomi-13-ultra-top-va-2023-1247466'>Análisis de la cámara del Xiaomi 13 Ultra, lo más top de lo que va de 2023</a></h4>
+    <a href='https://computerhoy.com/moviles/analisis-camara-xiaomi-13-ultra-top-va-2023-1247466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/xiaomi-13-ultra-leica-3038556.jpg?tf=1200x' alt='Análisis de la cámara del Xiaomi 13 Ultra, lo más top de lo que va de 2023' />
     </a>
 </div>
 
