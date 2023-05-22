@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desmitificando-ia-experto-revela-chatgpt-tonto-piensas-1248598'>Desmitificando la inteligencia artificial: experto revela que ChatGPT es más tonto de lo que piensas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desmitificando-ia-experto-revela-chatgpt-tonto-piensas-1248598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/desmitificando-inteligencia-artificial-experto-revela-chatgpt-tonto-piensas-3038874.jpg?tf=1200x' alt='Desmitificando la inteligencia artificial: experto revela que ChatGPT es más tonto de lo que piensas' />
+    <h4><a href='https://computerhoy.com/life/nunca-debes-hacer-portatil-trabajo-expertos-1247688'>Esto es lo que nunca deberías hacer con el portátil del trabajo, según los expertos</a></h4>
+    <a href='https://computerhoy.com/life/nunca-debes-hacer-portatil-trabajo-expertos-1247688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/portatil-2815849.jpg?tf=1200x' alt='Esto es lo que nunca deberías hacer con el portátil del trabajo, según los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cash-stuffing-truco-ahorro-viral-tiktok-ya-usaban-abuelas-1248550'>'Cash Stuffing': el truco de ahorro viral en TikTok que ya usaban nuestras abuelas</a></h4>
-    <a href='https://computerhoy.com/life/cash-stuffing-truco-ahorro-viral-tiktok-ya-usaban-abuelas-1248550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cash-stuffing-truco-ahorro-viral-tiktok-ya-usaban-abuelas-3038834.jpg?tf=1200x' alt=''Cash Stuffing': el truco de ahorro viral en TikTok que ya usaban nuestras abuelas' />
+    <h4><a href='https://computerhoy.com/android/xiaomi-pad-6-primeras-impresiones-nueva-tablet-aspira-revolucionar-gama-media-1248718'>Xiaomi Pad 6: primeras impresiones con la nueva tableta que aspira a revolucionar la gama media</a></h4>
+    <a href='https://computerhoy.com/android/xiaomi-pad-6-primeras-impresiones-nueva-tablet-aspira-revolucionar-gama-media-1248718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/xiaomi-pad-6-3039222.jpg?tf=1200x' alt='Xiaomi Pad 6: primeras impresiones con la nueva tableta que aspira a revolucionar la gama media' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/google-pixel-7-google-pixel-buds-oferta-amazon-1248532'>Amazon baja el precio del Pixel 7, el mejor Android nativo que puedes comprar y que además viene con auriculares inalámbricos gratis</a></h4>
-    <a href='https://computerhoy.com/moviles/google-pixel-7-google-pixel-buds-oferta-amazon-1248532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7-3023046.jpg?tf=1200x' alt='Amazon baja el precio del Pixel 7, el mejor Android nativo que puedes comprar y que además viene con auriculares inalámbricos gratis' />
+    <h4><a href='https://computerhoy.com/motor/tesla-cambia-tipo-bateria-ciertos-modelos-mejorando-tiempos-carga-1248618'>Tesla cambia el tipo de batería de ciertos modelos mejorando sustancialmente los tiempos de carga</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-cambia-tipo-bateria-ciertos-modelos-mejorando-tiempos-carga-1248618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tesla-cambia-tipo-bateria-ciertos-modelos-mejorando-sustancialmente-tiempos-carga-3038936.jpg?tf=1200x' alt='Tesla cambia el tipo de batería de ciertos modelos mejorando sustancialmente los tiempos de carga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-estrategias-reducir-riesgo-ia-nos-sustituya-trabajo-1248538'>5 estrategias clave para reducir el riesgo de que la IA sustituya a los humanos en el trabajo </a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-estrategias-reducir-riesgo-ia-nos-sustituya-trabajo-1248538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/5-estrategias-clave-reducir-riesgos-ia-sustituya-humanos-trabajo-3038810.jpg?tf=1200x' alt='5 estrategias clave para reducir el riesgo de que la IA sustituya a los humanos en el trabajo ' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-renueva-catalogo-nueva-tablet-dos-patinetes-electricos-robots-aspirador-1248694'>Xiaomi renueva su catálogo: nueva tablet, dos patinetes eléctricos y robots aspirador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-renueva-catalogo-nueva-tablet-dos-patinetes-electricos-robots-aspirador-1248694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/xiaomi-renueva-catalogo-nueva-tablet-dos-patinetes-electricos-robots-aspirador-3039040.jpg?tf=1200x' alt='Xiaomi renueva su catálogo: nueva tablet, dos patinetes eléctricos y robots aspirador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/analisis-camara-xiaomi-13-ultra-top-va-2023-1247466'>Análisis de la cámara del Xiaomi 13 Ultra, lo más top de lo que va de 2023</a></h4>
-    <a href='https://computerhoy.com/moviles/analisis-camara-xiaomi-13-ultra-top-va-2023-1247466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/xiaomi-13-ultra-leica-3038556.jpg?tf=1200x' alt='Análisis de la cámara del Xiaomi 13 Ultra, lo más top de lo que va de 2023' />
+    <h4><a href='https://computerhoy.com/legislacion/europa-multa-meta-1200-millones-euros-estableciendo-record-ue-1248662'>Europa multa a Meta con 1.200 millones de euros, estableciendo un récord en la UE</a></h4>
+    <a href='https://computerhoy.com/legislacion/europa-multa-meta-1200-millones-euros-estableciendo-record-ue-1248662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/europa-multa-meta-1200-millones-euros-estableciendo-record-ue-3039030.jpg?tf=1200x' alt='Europa multa a Meta con 1.200 millones de euros, estableciendo un récord en la UE' />
     </a>
 </div>
 
