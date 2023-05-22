@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-plugins-chatgpt-como-instalarlos-todo-puedes-hacer-ellos-1247728'>Qué son los plugins de ChatGPT, cómo instalarlos y todo lo que puedes hacer con ellos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-plugins-chatgpt-como-instalarlos-todo-puedes-hacer-ellos-1247728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-desactivar-historial-chatgpt-deberias-hacerlo-ahora-mismo-3018826.jpg?tf=1200x' alt='Qué son los plugins de ChatGPT, cómo instalarlos y todo lo que puedes hacer con ellos' />
+    <h4><a href='https://computerhoy.com/android/ya-puedes-instalar-android-auto-96-soluciones-telegram-google-assistant-1248842'>Ya puedes instalar Android Auto 9.6 con soluciones para Telegram y Google Assistant</a></h4>
+    <a href='https://computerhoy.com/android/ya-puedes-instalar-android-auto-96-soluciones-telegram-google-assistant-1248842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/android-auto-2973768.jpg?tf=1200x' alt='Ya puedes instalar Android Auto 9.6 con soluciones para Telegram y Google Assistant' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-puedes-editar-mensajes-whatsapp-funciona-nueva-caracteristica-1248788'>Ya puedes editar mensajes en WhatsApp: así funciona la nueva característica</a></h4>
-    <a href='https://computerhoy.com/apps/ya-puedes-editar-mensajes-whatsapp-funciona-nueva-caracteristica-1248788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ya-puedes-editar-mensajes-whatsapp-funciona-nueva-caracteristica-3039392.jpg?tf=1200x' alt='Ya puedes editar mensajes en WhatsApp: así funciona la nueva característica' />
+    <h4><a href='https://computerhoy.com/redes-sociales/nuevo-error-twitter-resucitando-miles-tweets-habian-sido-borrados-1248832'>El nuevo error de Twitter está resucitando miles de tweets que habían sido borrados</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/nuevo-error-twitter-resucitando-miles-tweets-habian-sido-borrados-1248832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/verdad-twitter-eliminara-hoy-insignia-verificacion-no-ser-pagues-ella-3013732.jpg?tf=1200x' alt='El nuevo error de Twitter está resucitando miles de tweets que habían sido borrados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-toda-tdt-cientos-canales-television-gratis-instalar-nada-tvguia-1247702'>Cómo ver toda la TDT y cientos de canales de televisión gratis sin instalar nada con TVguia</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-toda-tdt-cientos-canales-television-gratis-instalar-nada-tvguia-1247702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tvguia-3037534.jpg?tf=1200x' alt='Cómo ver toda la TDT y cientos de canales de televisión gratis sin instalar nada con TVguia' />
+    <h4><a href='https://computerhoy.com/motor/no-eres-soy-yo-errores-volante-hacen-coche-consuma-mucho-1247958'>No eres tú, soy yo: errores al volante que hacen que tu coche consuma mucho más</a></h4>
+    <a href='https://computerhoy.com/motor/no-eres-soy-yo-errores-volante-hacen-coche-consuma-mucho-1247958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/combustible-2993152.jpg?tf=1200x' alt='No eres tú, soy yo: errores al volante que hacen que tu coche consuma mucho más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nunca-debes-hacer-portatil-trabajo-expertos-1247688'>Esto es lo que nunca deberías hacer con el portátil del trabajo, según los expertos</a></h4>
-    <a href='https://computerhoy.com/life/nunca-debes-hacer-portatil-trabajo-expertos-1247688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/portatil-2815849.jpg?tf=1200x' alt='Esto es lo que nunca deberías hacer con el portátil del trabajo, según los expertos' />
+    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-presenta-ai-grand-challenge-fomentar-inteligencia-artificial-1248816'>Bill Gates presenta AI Grand Challenge para fomentar el desarrollo de la Inteligencia Artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bill-gates-presenta-ai-grand-challenge-fomentar-inteligencia-artificial-1248816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bill-gates-foundation-3039430.jpg?tf=1200x' alt='Bill Gates presenta AI Grand Challenge para fomentar el desarrollo de la Inteligencia Artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/xiaomi-pad-6-primeras-impresiones-nueva-tablet-aspira-revolucionar-gama-media-1248718'>Xiaomi Pad 6: primeras impresiones con la nueva tableta que aspira a revolucionar la gama media</a></h4>
-    <a href='https://computerhoy.com/android/xiaomi-pad-6-primeras-impresiones-nueva-tablet-aspira-revolucionar-gama-media-1248718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/xiaomi-pad-6-3039222.jpg?tf=1200x' alt='Xiaomi Pad 6: primeras impresiones con la nueva tableta que aspira a revolucionar la gama media' />
+    <h4><a href='https://computerhoy.com/life/acertijo-matematico-tiktok-volviendo-locos-todos-1247954'>El acertijo matemático de TikTok que está volviendo locos a todos</a></h4>
+    <a href='https://computerhoy.com/life/acertijo-matematico-tiktok-volviendo-locos-todos-1247954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/problema-matematicas-2241781.jpg?tf=1200x' alt='El acertijo matemático de TikTok que está volviendo locos a todos' />
     </a>
 </div>
 
