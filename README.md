@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/cual-es-mejor-amazon-echo-ti-322491'>Amazon Echo: modelos, diferencias y lo que debes saber antes de comprar tu altavoz inteligente </a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/cual-es-mejor-amazon-echo-ti-322491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-echo-pop-3038338.jpg?tf=1200x' alt='Amazon Echo: modelos, diferencias y lo que debes saber antes de comprar tu altavoz inteligente ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/muse-pc-retro-creado-rapsberry-pi-evita-procrastinacion-1248314'>MUSE, el PC retro creado con una Rapsberry Pi, que evita la procrastinación</a></h4>
     <a href='https://computerhoy.com/pc/muse-pc-retro-creado-rapsberry-pi-evita-procrastinacion-1248314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/muse-pc-retro-creado-rapsberry-pi-evita-procrastinacion-3038540.jpg?tf=1200x' alt='MUSE, el PC retro creado con una Rapsberry Pi, que evita la procrastinación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/bratgpt-gemelo-malvado-chatgpt-1248310'>Ya puedes probar BratGPT, el gemelo malvado de ChatGPT entrenado para humillarte</a></h4>
     <a href='https://computerhoy.com/tecnologia/bratgpt-gemelo-malvado-chatgpt-1248310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ya-puedes-probar-bratgpt-gemelo-malvado-chatgpt-entrenado-humillarte-3038442.jpg?tf=1200x' alt='Ya puedes probar BratGPT, el gemelo malvado de ChatGPT entrenado para humillarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-actualizar-urgentemente-todos-iphone-ipad-mac-exploits-dia-cero-1248304'>Apple pide actualizar urgentemente todos los iPhone, iPad y Mac, para protegerse de 3 exploits de día cero activos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-actualizar-urgentemente-todos-iphone-ipad-mac-exploits-dia-cero-1248304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/apple-pide-actualizar-urgentemente-todos-iphone-ipad-protegerse-3-exploits-dia-cero-activos-3038430.jpg?tf=1200x' alt='Apple pide actualizar urgentemente todos los iPhone, iPad y Mac, para protegerse de 3 exploits de día cero activos' />
     </a>
 </div>
 
