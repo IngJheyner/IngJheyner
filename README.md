@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/desmitificando-ia-experto-revela-chatgpt-tonto-piensas-1248598'>Desmitificando la inteligencia artificial: experto revela que ChatGPT es más tonto de lo que piensas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desmitificando-ia-experto-revela-chatgpt-tonto-piensas-1248598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/desmitificando-inteligencia-artificial-experto-revela-chatgpt-tonto-piensas-3038874.jpg?tf=1200x' alt='Desmitificando la inteligencia artificial: experto revela que ChatGPT es más tonto de lo que piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cash-stuffing-truco-ahorro-viral-tiktok-ya-usaban-abuelas-1248550'>'Cash Stuffing': el truco de ahorro viral en TikTok que ya usaban nuestras abuelas</a></h4>
+    <a href='https://computerhoy.com/life/cash-stuffing-truco-ahorro-viral-tiktok-ya-usaban-abuelas-1248550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cash-stuffing-truco-ahorro-viral-tiktok-ya-usaban-abuelas-3038834.jpg?tf=1200x' alt=''Cash Stuffing': el truco de ahorro viral en TikTok que ya usaban nuestras abuelas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/google-pixel-7-google-pixel-buds-oferta-amazon-1248532'>Amazon baja el precio del Pixel 7, el mejor Android nativo que puedes comprar y que además viene con auriculares inalámbricos gratis</a></h4>
+    <a href='https://computerhoy.com/moviles/google-pixel-7-google-pixel-buds-oferta-amazon-1248532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7-3023046.jpg?tf=1200x' alt='Amazon baja el precio del Pixel 7, el mejor Android nativo que puedes comprar y que además viene con auriculares inalámbricos gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-estrategias-reducir-riesgo-ia-nos-sustituya-trabajo-1248538'>5 estrategias clave para reducir el riesgo de que la IA sustituya a los humanos en el trabajo </a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-estrategias-reducir-riesgo-ia-nos-sustituya-trabajo-1248538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/5-estrategias-clave-reducir-riesgos-ia-sustituya-humanos-trabajo-3038810.jpg?tf=1200x' alt='5 estrategias clave para reducir el riesgo de que la IA sustituya a los humanos en el trabajo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/analisis-camara-xiaomi-13-ultra-top-va-2023-1247466'>Análisis de la cámara del Xiaomi 13 Ultra, lo más top de lo que va de 2023</a></h4>
     <a href='https://computerhoy.com/moviles/analisis-camara-xiaomi-13-ultra-top-va-2023-1247466' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/xiaomi-13-ultra-leica-3038556.jpg?tf=1200x' alt='Análisis de la cámara del Xiaomi 13 Ultra, lo más top de lo que va de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/muse-pc-retro-creado-rapsberry-pi-evita-procrastinacion-1248314'>MUSE, el PC retro creado con una Rapsberry Pi, que evita la procrastinación</a></h4>
-    <a href='https://computerhoy.com/pc/muse-pc-retro-creado-rapsberry-pi-evita-procrastinacion-1248314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/muse-pc-retro-creado-rapsberry-pi-evita-procrastinacion-3038540.jpg?tf=1200x' alt='MUSE, el PC retro creado con una Rapsberry Pi, que evita la procrastinación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/descubre-verdadero-significado-puntos-rojos-amarillos-neumaticos-1239136'>Descubre el verdadero significado de los puntos rojos y amarillos en los neumáticos</a></h4>
-    <a href='https://computerhoy.com/motor/descubre-verdadero-significado-puntos-rojos-amarillos-neumaticos-1239136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/neumaticos-puntos-rojos-amarillos-3023328.jpg?tf=1200x' alt='Descubre el verdadero significado de los puntos rojos y amarillos en los neumáticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nueva-york-hundiendo-propio-peso-1248312'>Nueva York se está hundiendo bajo su propio peso, y no hay nada que se pueda hacer</a></h4>
-    <a href='https://computerhoy.com/life/nueva-york-hundiendo-propio-peso-1248312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ciudad-nueva-york-hundiendo-propio-peso-no-hay-nada-pueda-hacer-3038454.jpg?tf=1200x' alt='Nueva York se está hundiendo bajo su propio peso, y no hay nada que se pueda hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bratgpt-gemelo-malvado-chatgpt-1248310'>Ya puedes probar BratGPT, el gemelo malvado de ChatGPT entrenado para humillarte</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bratgpt-gemelo-malvado-chatgpt-1248310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ya-puedes-probar-bratgpt-gemelo-malvado-chatgpt-entrenado-humillarte-3038442.jpg?tf=1200x' alt='Ya puedes probar BratGPT, el gemelo malvado de ChatGPT entrenado para humillarte' />
     </a>
 </div>
 
