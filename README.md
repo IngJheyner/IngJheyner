@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/sneaker-x-pc-gaming-forma-zapatilla-deportiva-precio-lanzamiento-1249138'>Sneaker X, el PC gaming con forma de zapatilla deportiva, ya tiene precio y fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.com/pc/sneaker-x-pc-gaming-forma-zapatilla-deportiva-precio-lanzamiento-1249138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/sneaker-x-pc-gaming-forma-zapatilla-deportiva-ya-venta-3039584.jpg?tf=1200x' alt='Sneaker X, el PC gaming con forma de zapatilla deportiva, ya tiene precio y fecha de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-intenta-recuperar-millon-usuarios-ha-perdido-espana-1248918'>Así es como Netflix están intentando recuperar al millón de usuarios que ha perdido en España</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-intenta-recuperar-millon-usuarios-ha-perdido-espana-1248918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-guerra-solitario-gigantes-puede-sobrevivir-2952062.jpg?tf=1200x' alt='Así es como Netflix están intentando recuperar al millón de usuarios que ha perdido en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/san-altman-openai-visita-madrid-espana-1248914'>Sam Altman, el CEO de OpenAI, en Madrid: 'la inteligencia artificial es tan peligrosa como las armas nucleares'</a></h4>
     <a href='https://computerhoy.com/tecnologia/san-altman-openai-visita-madrid-espana-1248914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/san-altman-madrid-inteligencia-artificial-tan-peligrosa-como-armas-nucleares-3039550.jpg?tf=1200x' alt='Sam Altman, el CEO de OpenAI, en Madrid: 'la inteligencia artificial es tan peligrosa como las armas nucleares'' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/solo-necesitas-palma-mano-entrar-metro-pekin-funciona-tecnologia-1248834'>Solo necesitas la palma de tu mano para entrar al metro de Pekín: así funciona la tecnología</a></h4>
     <a href='https://computerhoy.com/ciencia/solo-necesitas-palma-mano-entrar-metro-pekin-funciona-tecnologia-1248834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/solo-necesitas-palma-mano-entrar-metro-pekin-funciona-tecnologia-3039510.jpg?tf=1200x' alt='Solo necesitas la palma de tu mano para entrar al metro de Pekín: así funciona la tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-desbordada-proliferacion-canales-pirateria-iptv-contenidos-ilegales-1248840'>Telegram desbordada por la proliferación de canales y bots de piratería, IPTV y contenidos ilegales</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-desbordada-proliferacion-canales-pirateria-iptv-contenidos-ilegales-1248840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/telegram-2890488.jpg?tf=1200x' alt='Telegram desbordada por la proliferación de canales y bots de piratería, IPTV y contenidos ilegales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/fallo-configuracion-router-wifi-puede-estar-arruinando-velocidad-conexion-1248898'>El fallo de configuración de tu router WiFi que puede estar arruinando la velocidad de tu conexión</a></h4>
-    <a href='https://computerhoy.com/redes/fallo-configuracion-router-wifi-puede-estar-arruinando-velocidad-conexion-1248898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/router-wifi-3013256.jpg?tf=1200x' alt='El fallo de configuración de tu router WiFi que puede estar arruinando la velocidad de tu conexión' />
     </a>
 </div>
 
