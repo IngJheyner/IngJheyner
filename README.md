@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/max-estrena-todo-alto-plan-caro-1000-peliculas-series-4k-1249192'>Max se estrena por todo lo alto con un plan Ultimate con más de 1.000 películas y series en 4K</a></h4>
-    <a href='https://computerhoy.com/streaming/max-estrena-todo-alto-plan-caro-1000-peliculas-series-4k-1249192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/max-estrena-todo-alto-plan-ultimate-1000-peliculas-series-4k-3039858.jpg?tf=1200x' alt='Max se estrena por todo lo alto con un plan Ultimate con más de 1.000 películas y series en 4K' />
+    <h4><a href='https://computerhoy.com/moviles/sony-xperia-compact-imagenes-nuevo-plegable-sony-muestran-grave-problema-1249254'>Sony Xperia Compact: las imágenes del nuevo plegable de Sony muestran un grave problema</a></h4>
+    <a href='https://computerhoy.com/moviles/sony-xperia-compact-imagenes-nuevo-plegable-sony-muestran-grave-problema-1249254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/sony-xperia-compact-imagenes-nuevo-plegable-sony-muestran-grave-problema-3039994.jpg?tf=1200x' alt='Sony Xperia Compact: las imágenes del nuevo plegable de Sony muestran un grave problema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/qicycle-c2-bicicleta-electrica-plegable-xiaomi-increible-oferta-1248784'>QiCycle C2, la bicicleta eléctrica de Xiaomi con 65km de autonomía, cuesta 700€ menos en Amazon</a></h4>
-    <a href='https://computerhoy.com/life/qicycle-c2-bicicleta-electrica-plegable-xiaomi-increible-oferta-1248784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/qicycle-c2-3039380.jpg?tf=1200x' alt='QiCycle C2, la bicicleta eléctrica de Xiaomi con 65km de autonomía, cuesta 700€ menos en Amazon' />
+    <h4><a href='https://computerhoy.com/pc/hp-15s-ryzen-7-1tb-ssd-oferta-1249244'>Ryzen 7, 16GB de RAM y 1TB de SSD: este portátil HP es una ganga por menos de 700€</a></h4>
+    <a href='https://computerhoy.com/pc/hp-15s-ryzen-7-1tb-ssd-oferta-1249244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/hp-15s-eq2120ns-3040050.jpg?tf=1200x' alt='Ryzen 7, 16GB de RAM y 1TB de SSD: este portátil HP es una ganga por menos de 700€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mujer-visita-su-corazon-expuesto-museo-1249158'>La visión más surrealista: visita a su propio corazón, expuesto en un museo</a></h4>
-    <a href='https://computerhoy.com/life/mujer-visita-su-corazon-expuesto-museo-1249158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mujer-unica-persona-mundo-puede-ver-corazon-siempre-quiera-museo-3039808.jpg?tf=1200x' alt='La visión más surrealista: visita a su propio corazón, expuesto en un museo' />
+    <h4><a href='https://computerhoy.com/realidad-virtual/meta-quest-3-todo-sabe-nuevo-dispositivo-vr-meta-1249238'>Meta Quest 3: esto es todo lo que se sabe del nuevo dispositivo VR de Meta</a></h4>
+    <a href='https://computerhoy.com/realidad-virtual/meta-quest-3-todo-sabe-nuevo-dispositivo-vr-meta-1249238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/meta-quest-3-todo-sabe-nuevo-dispositivo-vr-meta-3039960.jpg?tf=1200x' alt='Meta Quest 3: esto es todo lo que se sabe del nuevo dispositivo VR de Meta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/poco-f5-pro-analisis-review-caracteristicas-precio-flagship-killer-1244718'>POCO F5 Pro, análisis y opinión: un buque insignia que da mucho por poco</a></h4>
-    <a href='https://computerhoy.com/analisis/poco-f5-pro-analisis-review-caracteristicas-precio-flagship-killer-1244718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/poco-f5-pro-3033142.jpg?tf=1200x' alt='POCO F5 Pro, análisis y opinión: un buque insignia que da mucho por poco' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/espana-quiere-prohibir-cifrado-extremo-extremo-documento-oficial-filtrado-1249202'>España quiere prohibir el cifrado de extremo a extremo según un documento oficial filtrado</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/espana-quiere-prohibir-cifrado-extremo-extremo-documento-oficial-filtrado-1249202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/espana-quiere-prohibir-cifrado-extremo-extremo-documento-oficial-filtrado-3039900.jpg?tf=1200x' alt='España quiere prohibir el cifrado de extremo a extremo según un documento oficial filtrado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/moviles-xiaomi-baratos-primavera-1248704'>5 móviles de Xiaomi muy baratos que puedes comprar antes de verano</a></h4>
-    <a href='https://computerhoy.com/moviles/moviles-xiaomi-baratos-primavera-1248704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/xiaomi-mi-11-lite-2358469.jpg?tf=1200x' alt='5 móviles de Xiaomi muy baratos que puedes comprar antes de verano' />
+    <h4><a href='https://computerhoy.com/life/bird-buddy-bebedero-pajaros-inteligencia-artificial-1249200'>Bird Buddy, el bebedero para pájaros con IA que hace fotos y vídeos, y los identifica (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/bird-buddy-bebedero-pajaros-inteligencia-artificial-1249200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1684824194541-3039846.jpg?tf=1200x' alt='Bird Buddy, el bebedero para pájaros con IA que hace fotos y vídeos, y los identifica (vídeo)' />
     </a>
 </div>
 
