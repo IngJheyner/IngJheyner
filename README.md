@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/combinacion-color-pelo-ojos-rara-humanos-1248910'>Esta es la combinación de color de pelo y ojos más rara en humanos, solo una entre un millón</a></h4>
-    <a href='https://computerhoy.com/life/combinacion-color-pelo-ojos-rara-humanos-1248910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/pelirrojo-ojos-azules-3039576.jpg?tf=1200x' alt='Esta es la combinación de color de pelo y ojos más rara en humanos, solo una entre un millón' />
+    <h4><a href='https://computerhoy.com/google/ofertas-productos-google-amazon-1249246'>Google tira la casa por la ventana: sus mejores productos a precios propios de Black Friday</a></h4>
+    <a href='https://computerhoy.com/google/ofertas-productos-google-amazon-1249246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pro-google-pixel-7-2838095.jpg?tf=1200x' alt='Google tira la casa por la ventana: sus mejores productos a precios propios de Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/rumores-apuntan-pantalla-iphone-16-pro-max-grande-1249342'>Apple apuesta a lo grande: rumores apuntan a una pantalla del iPhone 16 Pro Max de mayor tamaño</a></h4>
-    <a href='https://computerhoy.com/apple/rumores-apuntan-pantalla-iphone-16-pro-max-grande-1249342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apps-google-iphone-14-pro-max-2866431.jpg?tf=1200x' alt='Apple apuesta a lo grande: rumores apuntan a una pantalla del iPhone 16 Pro Max de mayor tamaño' />
+    <h4><a href='https://computerhoy.com/pc/samsung-smart-monitor-2023-m8-m7-m5-tres-nuevos-monitores-inteligentes-resoluciones-4k-32-pulgadas-1249414'>Samsung Smart Monitor 2023 M8, M7 y M5: tres nuevos monitores inteligentes con resoluciones hasta 4K y 32 pulgadas</a></h4>
+    <a href='https://computerhoy.com/pc/samsung-smart-monitor-2023-m8-m7-m5-tres-nuevos-monitores-inteligentes-resoluciones-4k-32-pulgadas-1249414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/samsung-smart-monitor-2023-m8-m7-m5-tres-nuevos-monitores-inteligentes-resoluciones-4k-32-pulgadas-3040266.jpg?tf=1200x' alt='Samsung Smart Monitor 2023 M8, M7 y M5: tres nuevos monitores inteligentes con resoluciones hasta 4K y 32 pulgadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/resuelven-verdadero-significado-grabados-gigantes-desierto-arabia-saudita-1248886'>Resuelven el verdadero significado de los grabados gigantes en el desierto de Arabia Saudita</a></h4>
-    <a href='https://computerhoy.com/life/resuelven-verdadero-significado-grabados-gigantes-desierto-arabia-saudita-1248886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/grabados-gigantes-arabia-saudita-3039512.jpg?tf=1200x' alt='Resuelven el verdadero significado de los grabados gigantes en el desierto de Arabia Saudita' />
+    <h4><a href='https://computerhoy.com/legislacion/cual-diferencia-voto-nulo-voto-blanco-quien-beneficia-cada-1249404'>Cuál es la diferencia entre un voto nulo y un voto en blanco: ¿a quién beneficia cada uno?</a></h4>
+    <a href='https://computerhoy.com/legislacion/cual-diferencia-voto-nulo-voto-blanco-quien-beneficia-cada-1249404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/voto-nulo-elecciones-parlamento-europeo-2014-2297917.jpg?tf=1200x' alt='Cuál es la diferencia entre un voto nulo y un voto en blanco: ¿a quién beneficia cada uno?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-llama-significado-real-peculiar-nombre-1248920'>Por qué Amazon se llama así y el significado real de su peculiar nombre</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-llama-significado-real-peculiar-nombre-1248920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/amazon-2968408.jpg?tf=1200x' alt='Por qué Amazon se llama así y el significado real de su peculiar nombre' />
+    <h4><a href='https://computerhoy.com/hogar/lg-cordzero-son-nuevas-aspiradoras-lg-llegan-espana-1249400'>LG CordZero: así son las nuevas aspiradoras de LG que llegan a España</a></h4>
+    <a href='https://computerhoy.com/hogar/lg-cordzero-son-nuevas-aspiradoras-lg-llegan-espana-1249400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lg-cordzero-son-nuevas-aspiradoras-lg-llegan-espana-3040240.jpg?tf=1200x' alt='LG CordZero: así son las nuevas aspiradoras de LG que llegan a España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/shibainu-dogecoin-criptomonedas-meme-cuando-broma-eres-1249286'>Shiba Inu, Dogecoin y las criptomonedas meme: cuando la broma eres tú</a></h4>
-    <a href='https://computerhoy.com/criptos/shibainu-dogecoin-criptomonedas-meme-cuando-broma-eres-1249286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/shibainu-dogecoin-criptomonedas-meme-cuando-broma-eres-3040044.jpg?tf=1200x' alt='Shiba Inu, Dogecoin y las criptomonedas meme: cuando la broma eres tú' />
+    <h4><a href='https://computerhoy.com/industria/meta-vendera-giphy-shutterstock-53-millones-dolares-1249392'>Meta venderá GIPHY a Shutterstock por 53 millones de dólares</a></h4>
+    <a href='https://computerhoy.com/industria/meta-vendera-giphy-shutterstock-53-millones-dolares-1249392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/giphy.jpg?tf=1200x' alt='Meta venderá GIPHY a Shutterstock por 53 millones de dólares' />
     </a>
 </div>
 
