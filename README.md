@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ofertas-productos-google-amazon-1249246'>Google tira la casa por la ventana: sus mejores productos a precios propios de Black Friday</a></h4>
-    <a href='https://computerhoy.com/google/ofertas-productos-google-amazon-1249246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-pixel-7-pro-google-pixel-7-2838095.jpg?tf=1200x' alt='Google tira la casa por la ventana: sus mejores productos a precios propios de Black Friday' />
+    <h4><a href='https://computerhoy.com/streaming/hbo-max-desaparece-siempre-convierte-max-como-te-afecta-cambio-1249474'>HBO Max desaparece para siempre y se convierte en Max: ¿cómo te afecta el cambio?</a></h4>
+    <a href='https://computerhoy.com/streaming/hbo-max-desaparece-siempre-convierte-max-como-te-afecta-cambio-1249474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/hbo-deja-max-3040378.jpg?tf=1200x' alt='HBO Max desaparece para siempre y se convierte en Max: ¿cómo te afecta el cambio?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/samsung-smart-monitor-2023-m8-m7-m5-tres-nuevos-monitores-inteligentes-resoluciones-4k-32-pulgadas-1249414'>Samsung Smart Monitor 2023 M8, M7 y M5: tres nuevos monitores inteligentes con resoluciones hasta 4K y 32 pulgadas</a></h4>
-    <a href='https://computerhoy.com/pc/samsung-smart-monitor-2023-m8-m7-m5-tres-nuevos-monitores-inteligentes-resoluciones-4k-32-pulgadas-1249414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/samsung-smart-monitor-2023-m8-m7-m5-tres-nuevos-monitores-inteligentes-resoluciones-4k-32-pulgadas-3040266.jpg?tf=1200x' alt='Samsung Smart Monitor 2023 M8, M7 y M5: tres nuevos monitores inteligentes con resoluciones hasta 4K y 32 pulgadas' />
+    <h4><a href='https://computerhoy.com/streaming/netflix-anade-nueva-funcionalidad-agradeceras-nunca-1249498'>Netflix añade una nueva funcionalidad que agradecerás más que nunca</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-anade-nueva-funcionalidad-agradeceras-nunca-1249498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/netflix-app-3040412.jpg?tf=1200x' alt='Netflix añade una nueva funcionalidad que agradecerás más que nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/cual-diferencia-voto-nulo-voto-blanco-quien-beneficia-cada-1249404'>Cuál es la diferencia entre un voto nulo y un voto en blanco: ¿a quién beneficia cada uno?</a></h4>
-    <a href='https://computerhoy.com/legislacion/cual-diferencia-voto-nulo-voto-blanco-quien-beneficia-cada-1249404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/voto-nulo-elecciones-parlamento-europeo-2014-2297917.jpg?tf=1200x' alt='Cuál es la diferencia entre un voto nulo y un voto en blanco: ¿a quién beneficia cada uno?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/descubren-nuevo-tipo-ataque-permite-evitar-bloqueo-huellas-moviles-android-1249496'>Descubren un nuevo tipo de ataque que permite evitar el bloqueo por huellas en móviles Android</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/descubren-nuevo-tipo-ataque-permite-evitar-bloqueo-huellas-moviles-android-1249496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/android-2796963.jpg?tf=1200x' alt='Descubren un nuevo tipo de ataque que permite evitar el bloqueo por huellas en móviles Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/lg-cordzero-son-nuevas-aspiradoras-lg-llegan-espana-1249400'>LG CordZero: así son las nuevas aspiradoras de LG que llegan a España</a></h4>
-    <a href='https://computerhoy.com/hogar/lg-cordzero-son-nuevas-aspiradoras-lg-llegan-espana-1249400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lg-cordzero-son-nuevas-aspiradoras-lg-llegan-espana-3040240.jpg?tf=1200x' alt='LG CordZero: así son las nuevas aspiradoras de LG que llegan a España' />
+    <h4><a href='https://computerhoy.com/tecnologia/continua-gran-misterio-campana-oxford-bateria-eterna-183-anos-funcionamiento-1248868'>Continúa el gran misterio de la campana de Oxford y su batería eterna: 183 años en funcionamiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/continua-gran-misterio-campana-oxford-bateria-eterna-183-anos-funcionamiento-1248868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/campana-oxford-3039480.jpg?tf=1200x' alt='Continúa el gran misterio de la campana de Oxford y su batería eterna: 183 años en funcionamiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/meta-vendera-giphy-shutterstock-53-millones-dolares-1249392'>Meta venderá GIPHY a Shutterstock por 53 millones de dólares</a></h4>
-    <a href='https://computerhoy.com/industria/meta-vendera-giphy-shutterstock-53-millones-dolares-1249392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/giphy.jpg?tf=1200x' alt='Meta venderá GIPHY a Shutterstock por 53 millones de dólares' />
+    <h4><a href='https://computerhoy.com/streaming/edita-podcast-gratis-necesidad-aplicacion-gracias-estas-paginas-web-1249430'>Edita tu podcast gratis sin necesidad de una aplicación gracias a estas páginas web</a></h4>
+    <a href='https://computerhoy.com/streaming/edita-podcast-gratis-necesidad-aplicacion-gracias-estas-paginas-web-1249430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/mujer-grabando-podcast-2350391.jpg?tf=1200x' alt='Edita tu podcast gratis sin necesidad de una aplicación gracias a estas páginas web' />
     </a>
 </div>
 
