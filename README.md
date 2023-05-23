@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/mapa-animado-ciudades-mas-pobladas-europa-ultimos-3600-anos-1249142'>Este mapa animado con las ciudades más pobladas de Europa en los últimos 3.600 años, te va a sorprender</a></h4>
+    <a href='https://computerhoy.com/ciencia/mapa-animado-ciudades-mas-pobladas-europa-ultimos-3600-anos-1249142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-video-ciudades-pobladas-europa-ultimos-3600-anos-te-va-sorprender-3039796.jpg?tf=1200x' alt='Este mapa animado con las ciudades más pobladas de Europa en los últimos 3.600 años, te va a sorprender' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/sneaker-x-pc-gaming-forma-zapatilla-deportiva-precio-lanzamiento-1249138'>Sneaker X, el PC gaming con forma de zapatilla deportiva, ya tiene precio y fecha de lanzamiento</a></h4>
     <a href='https://computerhoy.com/pc/sneaker-x-pc-gaming-forma-zapatilla-deportiva-precio-lanzamiento-1249138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/sneaker-x-pc-gaming-forma-zapatilla-deportiva-ya-venta-3039584.jpg?tf=1200x' alt='Sneaker X, el PC gaming con forma de zapatilla deportiva, ya tiene precio y fecha de lanzamiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/skyshowtime-trae-espana-poker-face-serie-consiguio-eclipsar-last-us-1248888'>SkyShowtime trae a España Poker Face, la serie que consiguió eclipsar a The Last of Us</a></h4>
     <a href='https://computerhoy.com/streaming/skyshowtime-trae-espana-poker-face-serie-consiguio-eclipsar-last-us-1248888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/poker-face-2921680.jpg?tf=1200x' alt='SkyShowtime trae a España Poker Face, la serie que consiguió eclipsar a The Last of Us' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/solo-necesitas-palma-mano-entrar-metro-pekin-funciona-tecnologia-1248834'>Solo necesitas la palma de tu mano para entrar al metro de Pekín: así funciona la tecnología</a></h4>
-    <a href='https://computerhoy.com/ciencia/solo-necesitas-palma-mano-entrar-metro-pekin-funciona-tecnologia-1248834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/solo-necesitas-palma-mano-entrar-metro-pekin-funciona-tecnologia-3039510.jpg?tf=1200x' alt='Solo necesitas la palma de tu mano para entrar al metro de Pekín: así funciona la tecnología' />
     </a>
 </div>
 
