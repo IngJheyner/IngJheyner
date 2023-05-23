@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/max-estrena-todo-alto-plan-caro-1000-peliculas-series-4k-1249192'>Max se estrena por todo lo alto con un plan Ultimate con más de 1.000 películas y series en 4K</a></h4>
+    <a href='https://computerhoy.com/streaming/max-estrena-todo-alto-plan-caro-1000-peliculas-series-4k-1249192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/max-estrena-todo-alto-plan-ultimate-1000-peliculas-series-4k-3039858.jpg?tf=1200x' alt='Max se estrena por todo lo alto con un plan Ultimate con más de 1.000 películas y series en 4K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/qicycle-c2-bicicleta-electrica-plegable-xiaomi-increible-oferta-1248784'>QiCycle C2, la bicicleta eléctrica de Xiaomi con 65km de autonomía, cuesta 700€ menos en Amazon</a></h4>
+    <a href='https://computerhoy.com/life/qicycle-c2-bicicleta-electrica-plegable-xiaomi-increible-oferta-1248784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/qicycle-c2-3039380.jpg?tf=1200x' alt='QiCycle C2, la bicicleta eléctrica de Xiaomi con 65km de autonomía, cuesta 700€ menos en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mujer-visita-su-corazon-expuesto-museo-1249158'>La visión más surrealista: visita a su propio corazón, expuesto en un museo</a></h4>
     <a href='https://computerhoy.com/life/mujer-visita-su-corazon-expuesto-museo-1249158' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mujer-unica-persona-mundo-puede-ver-corazon-siempre-quiera-museo-3039808.jpg?tf=1200x' alt='La visión más surrealista: visita a su propio corazón, expuesto en un museo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/moviles-xiaomi-baratos-primavera-1248704'>5 móviles de Xiaomi muy baratos que puedes comprar antes de verano</a></h4>
     <a href='https://computerhoy.com/moviles/moviles-xiaomi-baratos-primavera-1248704' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/xiaomi-mi-11-lite-2358469.jpg?tf=1200x' alt='5 móviles de Xiaomi muy baratos que puedes comprar antes de verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/mapa-animado-ciudades-mas-pobladas-europa-ultimos-3600-anos-1249142'>Este mapa animado con las ciudades más pobladas de Europa en los últimos 3.600 años, te va a sorprender</a></h4>
-    <a href='https://computerhoy.com/ciencia/mapa-animado-ciudades-mas-pobladas-europa-ultimos-3600-anos-1249142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-video-ciudades-pobladas-europa-ultimos-3600-anos-te-va-sorprender-3039796.jpg?tf=1200x' alt='Este mapa animado con las ciudades más pobladas de Europa en los últimos 3.600 años, te va a sorprender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/sneaker-x-pc-gaming-forma-zapatilla-deportiva-precio-lanzamiento-1249138'>Sneaker X, el PC gaming con forma de zapatilla deportiva, ya tiene precio y fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/pc/sneaker-x-pc-gaming-forma-zapatilla-deportiva-precio-lanzamiento-1249138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/sneaker-x-pc-gaming-forma-zapatilla-deportiva-ya-venta-3039584.jpg?tf=1200x' alt='Sneaker X, el PC gaming con forma de zapatilla deportiva, ya tiene precio y fecha de lanzamiento' />
     </a>
 </div>
 
