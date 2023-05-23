@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/estreno-max-marca-futuro-streaming-fusionarse-o-morir-1249508'>El estreno de Max marca el futuro del streaming: fusionarse o morir</a></h4>
+    <a href='https://computerhoy.com/streaming/estreno-max-marca-futuro-streaming-fusionarse-o-morir-1249508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estreno-max-marca-futuro-streaming-fusionarse-morir-3040420.jpg?tf=1200x' alt='El estreno de Max marca el futuro del streaming: fusionarse o morir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-tiene-nuevas-pantallas-enrollables-telefonos-moviles-pueden-ser-futuro-plegables-1249434'>Samsung tiene nuevas pantallas enrollables para teléfonos móviles y pueden ser el futuro de los plegables</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-tiene-nuevas-pantallas-enrollables-telefonos-moviles-pueden-ser-futuro-plegables-1249434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/samsung-tiene-nuevas-pantallas-enrollables-telefonos-moviles-pueden-ser-futuro-plegables-3040388.jpg?tf=1200x' alt='Samsung tiene nuevas pantallas enrollables para teléfonos móviles y pueden ser el futuro de los plegables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/hbo-max-desaparece-siempre-convierte-max-como-te-afecta-cambio-1249474'>HBO Max desaparece para siempre y se convierte en Max: ¿cómo te afecta el cambio?</a></h4>
     <a href='https://computerhoy.com/streaming/hbo-max-desaparece-siempre-convierte-max-como-te-afecta-cambio-1249474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/hbo-deja-max-3040378.jpg?tf=1200x' alt='HBO Max desaparece para siempre y se convierte en Max: ¿cómo te afecta el cambio?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/descubren-nuevo-tipo-ataque-permite-evitar-bloqueo-huellas-moviles-android-1249496'>Descubren un nuevo tipo de ataque que permite evitar el bloqueo por huellas en móviles Android</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/descubren-nuevo-tipo-ataque-permite-evitar-bloqueo-huellas-moviles-android-1249496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/android-2796963.jpg?tf=1200x' alt='Descubren un nuevo tipo de ataque que permite evitar el bloqueo por huellas en móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/continua-gran-misterio-campana-oxford-bateria-eterna-183-anos-funcionamiento-1248868'>Continúa el gran misterio de la campana de Oxford y su batería eterna: 183 años en funcionamiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/continua-gran-misterio-campana-oxford-bateria-eterna-183-anos-funcionamiento-1248868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/campana-oxford-3039480.jpg?tf=1200x' alt='Continúa el gran misterio de la campana de Oxford y su batería eterna: 183 años en funcionamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/edita-podcast-gratis-necesidad-aplicacion-gracias-estas-paginas-web-1249430'>Edita tu podcast gratis sin necesidad de una aplicación gracias a estas páginas web</a></h4>
-    <a href='https://computerhoy.com/streaming/edita-podcast-gratis-necesidad-aplicacion-gracias-estas-paginas-web-1249430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/mujer-grabando-podcast-2350391.jpg?tf=1200x' alt='Edita tu podcast gratis sin necesidad de una aplicación gracias a estas páginas web' />
     </a>
 </div>
 
