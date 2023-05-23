@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mujer-visita-su-corazon-expuesto-museo-1249158'>La visión más surrealista: visita a su propio corazón, expuesto en un museo</a></h4>
+    <a href='https://computerhoy.com/life/mujer-visita-su-corazon-expuesto-museo-1249158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mujer-unica-persona-mundo-puede-ver-corazon-siempre-quiera-museo-3039808.jpg?tf=1200x' alt='La visión más surrealista: visita a su propio corazón, expuesto en un museo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/poco-f5-pro-analisis-review-caracteristicas-precio-flagship-killer-1244718'>POCO F5 Pro, análisis y opinión: un buque insignia que da mucho por poco</a></h4>
+    <a href='https://computerhoy.com/analisis/poco-f5-pro-analisis-review-caracteristicas-precio-flagship-killer-1244718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/poco-f5-pro-3033142.jpg?tf=1200x' alt='POCO F5 Pro, análisis y opinión: un buque insignia que da mucho por poco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/moviles-xiaomi-baratos-primavera-1248704'>5 móviles de Xiaomi muy baratos que puedes comprar antes de verano</a></h4>
+    <a href='https://computerhoy.com/moviles/moviles-xiaomi-baratos-primavera-1248704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/xiaomi-mi-11-lite-2358469.jpg?tf=1200x' alt='5 móviles de Xiaomi muy baratos que puedes comprar antes de verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/mapa-animado-ciudades-mas-pobladas-europa-ultimos-3600-anos-1249142'>Este mapa animado con las ciudades más pobladas de Europa en los últimos 3.600 años, te va a sorprender</a></h4>
     <a href='https://computerhoy.com/ciencia/mapa-animado-ciudades-mas-pobladas-europa-ultimos-3600-anos-1249142' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-video-ciudades-pobladas-europa-ultimos-3600-anos-te-va-sorprender-3039796.jpg?tf=1200x' alt='Este mapa animado con las ciudades más pobladas de Europa en los últimos 3.600 años, te va a sorprender' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/sneaker-x-pc-gaming-forma-zapatilla-deportiva-precio-lanzamiento-1249138'>Sneaker X, el PC gaming con forma de zapatilla deportiva, ya tiene precio y fecha de lanzamiento</a></h4>
     <a href='https://computerhoy.com/pc/sneaker-x-pc-gaming-forma-zapatilla-deportiva-precio-lanzamiento-1249138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/sneaker-x-pc-gaming-forma-zapatilla-deportiva-ya-venta-3039584.jpg?tf=1200x' alt='Sneaker X, el PC gaming con forma de zapatilla deportiva, ya tiene precio y fecha de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-intenta-recuperar-millon-usuarios-ha-perdido-espana-1248918'>Así es como Netflix están intentando recuperar al millón de usuarios que ha perdido en España</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-intenta-recuperar-millon-usuarios-ha-perdido-espana-1248918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/netflix-guerra-solitario-gigantes-puede-sobrevivir-2952062.jpg?tf=1200x' alt='Así es como Netflix están intentando recuperar al millón de usuarios que ha perdido en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/san-altman-openai-visita-madrid-espana-1248914'>Sam Altman, el CEO de OpenAI, en Madrid: 'la inteligencia artificial es tan peligrosa como las armas nucleares'</a></h4>
-    <a href='https://computerhoy.com/tecnologia/san-altman-openai-visita-madrid-espana-1248914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/san-altman-madrid-inteligencia-artificial-tan-peligrosa-como-armas-nucleares-3039550.jpg?tf=1200x' alt='Sam Altman, el CEO de OpenAI, en Madrid: 'la inteligencia artificial es tan peligrosa como las armas nucleares'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/skyshowtime-trae-espana-poker-face-serie-consiguio-eclipsar-last-us-1248888'>SkyShowtime trae a España Poker Face, la serie que consiguió eclipsar a The Last of Us</a></h4>
-    <a href='https://computerhoy.com/streaming/skyshowtime-trae-espana-poker-face-serie-consiguio-eclipsar-last-us-1248888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/poker-face-2921680.jpg?tf=1200x' alt='SkyShowtime trae a España Poker Face, la serie que consiguió eclipsar a The Last of Us' />
     </a>
 </div>
 
