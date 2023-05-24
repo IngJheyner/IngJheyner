@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/ipad-reacondicionados-1249448'>Estos son los iPad reacondicionados con mejor precio del momento</a></h4>
+    <a href='https://computerhoy.com/mejores/ipad-reacondicionados-1249448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875583.jpg?tf=1200x' alt='Estos son los iPad reacondicionados con mejor precio del momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/palquella-pucamayu-rio-sangre-rio-rojo-peru-1249746'>Palquella Pucamayu, el río de sangre que asombra a los visitantes</a></h4>
+    <a href='https://computerhoy.com/life/palquella-pucamayu-rio-sangre-rio-rojo-peru-1249746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/palquella-pucamayu-rio-sangre-asombra-visitantes-3040702.jpg?tf=1200x' alt='Palquella Pucamayu, el río de sangre que asombra a los visitantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/llega-tierra-senal-inteligente-extraterrestre-piden-ayuda-descodificarla-1249516'>Llega a la Tierra una señal inteligente extraterrestre, piden ayuda para descodificarla</a></h4>
     <a href='https://computerhoy.com/espacio/llega-tierra-senal-inteligente-extraterrestre-piden-ayuda-descodificarla-1249516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/llega-tierra-senal-inteligente-extraterrestre-piden-ayuda-descodificarla-3040426.jpg?tf=1200x' alt='Llega a la Tierra una señal inteligente extraterrestre, piden ayuda para descodificarla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/samsung-tiene-nuevas-pantallas-enrollables-telefonos-moviles-pueden-ser-futuro-plegables-1249434'>Samsung tiene nuevas pantallas enrollables para teléfonos móviles y pueden ser el futuro de los plegables</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-tiene-nuevas-pantallas-enrollables-telefonos-moviles-pueden-ser-futuro-plegables-1249434' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/samsung-tiene-nuevas-pantallas-enrollables-telefonos-moviles-pueden-ser-futuro-plegables-3040388.jpg?tf=1200x' alt='Samsung tiene nuevas pantallas enrollables para teléfonos móviles y pueden ser el futuro de los plegables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/hbo-max-desaparece-siempre-convierte-max-como-te-afecta-cambio-1249474'>HBO Max desaparece para siempre y se convierte en Max: ¿cómo te afecta el cambio?</a></h4>
-    <a href='https://computerhoy.com/streaming/hbo-max-desaparece-siempre-convierte-max-como-te-afecta-cambio-1249474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/hbo-deja-max-3040378.jpg?tf=1200x' alt='HBO Max desaparece para siempre y se convierte en Max: ¿cómo te afecta el cambio?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/netflix-anade-nueva-funcionalidad-agradeceras-nunca-1249498'>Netflix añade una nueva funcionalidad que agradecerás más que nunca</a></h4>
-    <a href='https://computerhoy.com/streaming/netflix-anade-nueva-funcionalidad-agradeceras-nunca-1249498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/netflix-app-3040412.jpg?tf=1200x' alt='Netflix añade una nueva funcionalidad que agradecerás más que nunca' />
     </a>
 </div>
 
