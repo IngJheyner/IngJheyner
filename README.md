@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/compartir-contrasena-netflix-ya-oficialmente-historia-1249834'>Compartir la contraseña de Netflix ya es oficialmente historia</a></h4>
+    <a href='https://computerhoy.com/compartir-contrasena-netflix-ya-oficialmente-historia-1249834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/compartir-contrasena-netflix-ya-oficialmente-historia-3040966.jpg?tf=1200x' alt='Compartir la contraseña de Netflix ya es oficialmente historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-barato-truco-tarjetas-regalo-1249860'>Cómo conseguir una suscripción a Netflix más barata con tarjetas regalo</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-barato-truco-tarjetas-regalo-1249860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tv-netflix-3013358.jpg?tf=1200x' alt='Cómo conseguir una suscripción a Netflix más barata con tarjetas regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/perifericos/hp-vuelve-dejar-inutilizables-impresoras-solucion-no-llega-1249854'>HP vuelve a dejar inutilizables sus impresoras y la solución no llega</a></h4>
+    <a href='https://computerhoy.com/perifericos/hp-vuelve-dejar-inutilizables-impresoras-solucion-no-llega-1249854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/hp-3040864.jpg?tf=1200x' alt='HP vuelve a dejar inutilizables sus impresoras y la solución no llega' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/sony-ya-estaria-trabajando-lanzar-propio-servicio-juegos-nube-1249798'>PlayStation ya está planeando desarrollar un nuevo servicio de juegos en la nube</a></h4>
+    <a href='https://computerhoy.com/gaming/sony-ya-estaria-trabajando-lanzar-propio-servicio-juegos-nube-1249798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/playstation-ya-planeando-desarrollar-nuevo-servicio-juegos-nube-3040848.jpg?tf=1200x' alt='PlayStation ya está planeando desarrollar un nuevo servicio de juegos en la nube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/gp-monaco-formula-1-2023-cambio-historico-1249808'>Si vas a ver en la tele el GP de Mónaco de Fórmula 1, te espera un cambio histórico </a></h4>
     <a href='https://computerhoy.com/motor/gp-monaco-formula-1-2023-cambio-historico-1249808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/carrera-f1-monaco-2022-3040258.jpg?tf=1200x' alt='Si vas a ver en la tele el GP de Mónaco de Fórmula 1, te espera un cambio histórico ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-contara-soporte-nativo-rar-7-zip-otros-formatos-1249788'>Windows 11 contará con soporte nativo para RAR, 7-ZIP y otros formatos </a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-contara-soporte-nativo-rar-7-zip-otros-formatos-1249788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-11-3040832.jpg?tf=1200x' alt='Windows 11 contará con soporte nativo para RAR, 7-ZIP y otros formatos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/anuncio-surrealista-netflix-aprendiz-sumo-1249778'>Este es el anuncio más surrealista de Netflix, ¿qué significa?</a></h4>
-    <a href='https://computerhoy.com/streaming/anuncio-surrealista-netflix-aprendiz-sumo-1249778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/anuncio-surrealista-netflix-significa-3040708.jpg?tf=1200x' alt='Este es el anuncio más surrealista de Netflix, ¿qué significa?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/tcl-c745-75-analisis-review-caracteristicas-precio-1247500'>Review de TCL C745: mejoras en calidad de HDR y gaming</a></h4>
-    <a href='https://computerhoy.com/analisis/tcl-c745-75-analisis-review-caracteristicas-precio-1247500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tcl-c745-analisis-opinion-3038000.jpg?tf=1200x' alt='Review de TCL C745: mejoras en calidad de HDR y gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/ipad-reacondicionados-1249448'>Estos son los iPad reacondicionados con mejor precio del momento</a></h4>
-    <a href='https://computerhoy.com/mejores/ipad-reacondicionados-1249448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875583.jpg?tf=1200x' alt='Estos son los iPad reacondicionados con mejor precio del momento' />
     </a>
 </div>
 
