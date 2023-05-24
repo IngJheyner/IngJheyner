@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/gp-monaco-formula-1-2023-cambio-historico-1249808'>Si vas a ver en la tele el GP de Mónaco de Fórmula 1, te espera un cambio histórico </a></h4>
+    <a href='https://computerhoy.com/motor/gp-monaco-formula-1-2023-cambio-historico-1249808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/carrera-f1-monaco-2022-3040258.jpg?tf=1200x' alt='Si vas a ver en la tele el GP de Mónaco de Fórmula 1, te espera un cambio histórico ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-contara-soporte-nativo-rar-7-zip-otros-formatos-1249788'>Windows 11 contará con soporte nativo para RAR, 7-ZIP y otros formatos </a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-contara-soporte-nativo-rar-7-zip-otros-formatos-1249788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-11-3040832.jpg?tf=1200x' alt='Windows 11 contará con soporte nativo para RAR, 7-ZIP y otros formatos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/anuncio-surrealista-netflix-aprendiz-sumo-1249778'>Este es el anuncio más surrealista de Netflix, ¿qué significa?</a></h4>
+    <a href='https://computerhoy.com/streaming/anuncio-surrealista-netflix-aprendiz-sumo-1249778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/anuncio-surrealista-netflix-significa-3040708.jpg?tf=1200x' alt='Este es el anuncio más surrealista de Netflix, ¿qué significa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/tcl-c745-75-analisis-review-caracteristicas-precio-1247500'>Review de TCL C745: mejoras en calidad de HDR y gaming</a></h4>
     <a href='https://computerhoy.com/analisis/tcl-c745-75-analisis-review-caracteristicas-precio-1247500' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tcl-c745-analisis-opinion-3038000.jpg?tf=1200x' alt='Review de TCL C745: mejoras en calidad de HDR y gaming' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/ipad-reacondicionados-1249448'>Estos son los iPad reacondicionados con mejor precio del momento</a></h4>
     <a href='https://computerhoy.com/mejores/ipad-reacondicionados-1249448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875583.jpg?tf=1200x' alt='Estos son los iPad reacondicionados con mejor precio del momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/palquella-pucamayu-rio-sangre-rio-rojo-peru-1249746'>Palquella Pucamayu, el río de sangre que asombra a los visitantes</a></h4>
-    <a href='https://computerhoy.com/life/palquella-pucamayu-rio-sangre-rio-rojo-peru-1249746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/palquella-pucamayu-rio-sangre-asombra-visitantes-3040702.jpg?tf=1200x' alt='Palquella Pucamayu, el río de sangre que asombra a los visitantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/llega-tierra-senal-inteligente-extraterrestre-piden-ayuda-descodificarla-1249516'>Llega a la Tierra una señal inteligente extraterrestre, piden ayuda para descodificarla</a></h4>
-    <a href='https://computerhoy.com/espacio/llega-tierra-senal-inteligente-extraterrestre-piden-ayuda-descodificarla-1249516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/llega-tierra-senal-inteligente-extraterrestre-piden-ayuda-descodificarla-3040426.jpg?tf=1200x' alt='Llega a la Tierra una señal inteligente extraterrestre, piden ayuda para descodificarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/estreno-max-marca-futuro-streaming-fusionarse-o-morir-1249508'>El estreno de Max marca el futuro del streaming: fusionarse o morir</a></h4>
-    <a href='https://computerhoy.com/streaming/estreno-max-marca-futuro-streaming-fusionarse-o-morir-1249508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estreno-max-marca-futuro-streaming-fusionarse-morir-3040420.jpg?tf=1200x' alt='El estreno de Max marca el futuro del streaming: fusionarse o morir' />
     </a>
 </div>
 
