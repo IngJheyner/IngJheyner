@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-dobla-rendimiento-stable-diffusion-nuevos-drivers-1250114'>NVIDIA dobla el rendimiento de Stable Diffusion con sus nuevos drivers para tarjetas RTX</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-dobla-rendimiento-stable-diffusion-nuevos-drivers-1250114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/imagen-generada-durante-beta-stable-diffusion-2806375.jpg?tf=1200x' alt='NVIDIA dobla el rendimiento de Stable Diffusion con sus nuevos drivers para tarjetas RTX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-android-duplicar-pantalla-1217984'>Las mejores aplicaciones Android para duplicar pantalla</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-aplicaciones-android-duplicar-pantalla-1217984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mejores-aplicaciones-android-duplicar-pantalla-2989412.jpg?tf=1200x' alt='Las mejores aplicaciones Android para duplicar pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/donald-trump-paris-hilton-mark-zuckerberg-tienen-algo-comun-contrasenas-deficientes-redes-1247704'>Donald Trump, Paris Hilton y Mark Zuckerberg tienen algo en común: contraseñas deficientes en su redes</a></h4>
     <a href='https://computerhoy.com/internet/donald-trump-paris-hilton-mark-zuckerberg-tienen-algo-comun-contrasenas-deficientes-redes-1247704' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/donald-trump-expresidente-estados-unidos-2392045.jpg?tf=1200x' alt='Donald Trump, Paris Hilton y Mark Zuckerberg tienen algo en común: contraseñas deficientes en su redes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/promesa-memristores-sustituiran-memoria-ram-discos-ssd-1250024'>La promesa de los memristores, la alternativa a la memoria RAM y los discos SSD</a></h4>
     <a href='https://computerhoy.com/pc/promesa-memristores-sustituiran-memoria-ram-discos-ssd-1250024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cpu-azul-3041294.jpg?tf=1200x' alt='La promesa de los memristores, la alternativa a la memoria RAM y los discos SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/peligroso-llenar-deposito-despues-bomba-haya-parado-1249494'>¿Es peligroso seguir llenando el depósito de gasolina después de que la bomba se haya parado sola?</a></h4>
-    <a href='https://computerhoy.com/motor/peligroso-llenar-deposito-despues-bomba-haya-parado-1249494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/sube-diesel-cinco-formas-ahorrar-combustible.jpg?tf=1200x' alt='¿Es peligroso seguir llenando el depósito de gasolina después de que la bomba se haya parado sola?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-entrena-ia-biblia-no-motivos-religiosos-1250010'>Meta entrena su IA con la Biblia, y no es por motivos religiosos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-entrena-ia-biblia-no-motivos-religiosos-1250010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/vida-brian-3041326.jpg?tf=1200x' alt='Meta entrena su IA con la Biblia, y no es por motivos religiosos' />
     </a>
 </div>
 
