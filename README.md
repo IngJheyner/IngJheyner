@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/sony-wh1000xm5-oferta-amazon-mediamarkt-1249912'>Tengo estos auriculares premium de Sony y con esta oferta te los recomiendo muchísimo</a></h4>
+    <a href='https://computerhoy.com/audio/sony-wh1000xm5-oferta-amazon-mediamarkt-1249912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2714515.jpg?tf=1200x' alt='Tengo estos auriculares premium de Sony y con esta oferta te los recomiendo muchísimo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/software/photoshop-esteroides-gracias-ia-generativa-imagenes-cambia-completo-programa-adobe-1249980'>Photoshop en esteroides gracias a la IA generativa de imágenes que cambia por completo el programa de Adobe</a></h4>
+    <a href='https://computerhoy.com/software/photoshop-esteroides-gracias-ia-generativa-imagenes-cambia-completo-programa-adobe-1249980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/photoshop-esteroides-gracias-ia-generativa-imagenes-cambia-completo-programa-adobe-3041228.jpg?tf=1200x' alt='Photoshop en esteroides gracias a la IA generativa de imágenes que cambia por completo el programa de Adobe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/freidora-aire-toxica-dicen-expertos-uso-1247732'>¿La freidora de aire es tóxica? Esto dicen los expertos sobre su uso</a></h4>
+    <a href='https://computerhoy.com/hogar/freidora-aire-toxica-dicen-expertos-uso-1247732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/freidora-aire-3041070.jpg?tf=1200x' alt='¿La freidora de aire es tóxica? Esto dicen los expertos sobre su uso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/claves-felicidad-albert-einstein-1249744'>Las claves de la felicidad según Albert Einstein: 4 consejos que no puedes ignorar</a></h4>
+    <a href='https://computerhoy.com/life/claves-felicidad-albert-einstein-1249744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/surrealista-historia-como-robaron-cerebro-albert-einstein-2859653.jpg?tf=1200x' alt='Las claves de la felicidad según Albert Einstein: 4 consejos que no puedes ignorar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/consiguen-fusionar-nintendo-switch-steam-deck-solo-dispositivo-1249512'>Consiguen fusionar Nintendo Switch y Steam Deck en un solo dispositivo</a></h4>
     <a href='https://computerhoy.com/gaming/consiguen-fusionar-nintendo-switch-steam-deck-solo-dispositivo-1249512' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mod-steam-deck-joy-3040424.jpg?tf=1200x' alt='Consiguen fusionar Nintendo Switch y Steam Deck en un solo dispositivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-conducia-matricula-embargo-jamas-fue-multado-ello-1249488'>¿Por qué Steve Jobs conducía sin matrícula pero jamás fue multado por ello?</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-conducia-matricula-embargo-jamas-fue-multado-ello-1249488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/coche-steve-jobs-3040398.jpg?tf=1200x' alt='¿Por qué Steve Jobs conducía sin matrícula pero jamás fue multado por ello?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/podcast-creados-inteligencia-artificial-novedad-realmente-aburrida-1249924'>Podcast creados con inteligencia artificial: una novedad realmente aburrida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/podcast-creados-inteligencia-artificial-novedad-realmente-aburrida-1249924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/podcast-creados-inteligencia-artificial-novedad-realmente-aburrida-3041134.jpg?tf=1200x' alt='Podcast creados con inteligencia artificial: una novedad realmente aburrida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/obligatorio-votar-te-toca-ser-miembro-mesa-electoral-1249426'>¿Es obligatorio votar si te toca ser miembro de una mesa electoral?</a></h4>
-    <a href='https://computerhoy.com/legislacion/obligatorio-votar-te-toca-ser-miembro-mesa-electoral-1249426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/votar-3040334.jpg?tf=1200x' alt='¿Es obligatorio votar si te toca ser miembro de una mesa electoral?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/smartwatches/asus-vivowatch-5-aero-nueva-pulsera-inteligente-incluye-mediciones-solo-dedo-1249930'>ASUS VivoWatch 5 AERO: la nueva pulsera inteligente que incluye mediciones con un solo dedo</a></h4>
-    <a href='https://computerhoy.com/smartwatches/asus-vivowatch-5-aero-nueva-pulsera-inteligente-incluye-mediciones-solo-dedo-1249930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/asus-vivowatch-5-aero-nueva-pulsera-inteligente-incluye-mediciones-solo-dedo-3041050.jpg?tf=1200x' alt='ASUS VivoWatch 5 AERO: la nueva pulsera inteligente que incluye mediciones con un solo dedo' />
     </a>
 </div>
 
