@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/llega-tierra-senal-inteligente-extraterrestre-piden-ayuda-descodificarla-1249516'>Llega a la Tierra una señal inteligente extraterrestre, piden ayuda para descodificarla</a></h4>
+    <a href='https://computerhoy.com/espacio/llega-tierra-senal-inteligente-extraterrestre-piden-ayuda-descodificarla-1249516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/llega-tierra-senal-inteligente-extraterrestre-piden-ayuda-descodificarla-3040426.jpg?tf=1200x' alt='Llega a la Tierra una señal inteligente extraterrestre, piden ayuda para descodificarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/estreno-max-marca-futuro-streaming-fusionarse-o-morir-1249508'>El estreno de Max marca el futuro del streaming: fusionarse o morir</a></h4>
     <a href='https://computerhoy.com/streaming/estreno-max-marca-futuro-streaming-fusionarse-o-morir-1249508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estreno-max-marca-futuro-streaming-fusionarse-morir-3040420.jpg?tf=1200x' alt='El estreno de Max marca el futuro del streaming: fusionarse o morir' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/netflix-anade-nueva-funcionalidad-agradeceras-nunca-1249498'>Netflix añade una nueva funcionalidad que agradecerás más que nunca</a></h4>
     <a href='https://computerhoy.com/streaming/netflix-anade-nueva-funcionalidad-agradeceras-nunca-1249498' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/netflix-app-3040412.jpg?tf=1200x' alt='Netflix añade una nueva funcionalidad que agradecerás más que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/descubren-nuevo-tipo-ataque-permite-evitar-bloqueo-huellas-moviles-android-1249496'>Descubren un nuevo tipo de ataque que permite evitar el bloqueo por huellas en móviles Android</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/descubren-nuevo-tipo-ataque-permite-evitar-bloqueo-huellas-moviles-android-1249496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/android-2796963.jpg?tf=1200x' alt='Descubren un nuevo tipo de ataque que permite evitar el bloqueo por huellas en móviles Android' />
     </a>
 </div>
 
