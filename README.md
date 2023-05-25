@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/ponen-etiqueta-lujosa-vino-malo-2-euros-gana-concurso-internacional-1250334'>Le ponen una etiqueta lujosa a un vino malo de 2 euros, y gana un prestigioso concurso internacional</a></h4>
+    <a href='https://computerhoy.com/alimentacion/ponen-etiqueta-lujosa-vino-malo-2-euros-gana-concurso-internacional-1250334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ponen-etiqueta-lujosa-vino-supermercado-2-euros-gana-prestigioso-concurso-internacional-3041860.jpg?tf=1200x' alt='Le ponen una etiqueta lujosa a un vino malo de 2 euros, y gana un prestigioso concurso internacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/persona-numero-600-sali-espacio-mujer-arabe-rayyanah-barnawi-1250120'>La persona número 600 en orbitar la Tierra es también la primera mujer árabe en salir al espacio</a></h4>
+    <a href='https://computerhoy.com/espacio/persona-numero-600-sali-espacio-mujer-arabe-rayyanah-barnawi-1250120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/persona-numero-600-orbitar-tierra-tambien-primera-mujer-arabe-salir-espacio-3041664.jpg?tf=1200x' alt='La persona número 600 en orbitar la Tierra es también la primera mujer árabe en salir al espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nvidia-dobla-rendimiento-stable-diffusion-nuevos-drivers-1250114'>NVIDIA dobla el rendimiento de Stable Diffusion con sus nuevos drivers para tarjetas RTX</a></h4>
     <a href='https://computerhoy.com/tecnologia/nvidia-dobla-rendimiento-stable-diffusion-nuevos-drivers-1250114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/imagen-generada-durante-beta-stable-diffusion-2806375.jpg?tf=1200x' alt='NVIDIA dobla el rendimiento de Stable Diffusion con sus nuevos drivers para tarjetas RTX' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/donald-trump-paris-hilton-mark-zuckerberg-tienen-algo-comun-contrasenas-deficientes-redes-1247704'>Donald Trump, Paris Hilton y Mark Zuckerberg tienen algo en común: contraseñas deficientes en su redes</a></h4>
     <a href='https://computerhoy.com/internet/donald-trump-paris-hilton-mark-zuckerberg-tienen-algo-comun-contrasenas-deficientes-redes-1247704' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/donald-trump-expresidente-estados-unidos-2392045.jpg?tf=1200x' alt='Donald Trump, Paris Hilton y Mark Zuckerberg tienen algo en común: contraseñas deficientes en su redes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/avatar-sentido-agua-estreno-7-junio-disney-plus-1250084'>Avatar El sentido del agua se estrena en Disney+</a></h4>
-    <a href='https://computerhoy.com/streaming/avatar-sentido-agua-estreno-7-junio-disney-plus-1250084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/milagro-navidad-avatar-2-explota-taquilla-ya-roza-1000-millones-dolares-recaudacion-2912898.jpg?tf=1200x' alt='Avatar El sentido del agua se estrena en Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/promesa-memristores-sustituiran-memoria-ram-discos-ssd-1250024'>La promesa de los memristores, la alternativa a la memoria RAM y los discos SSD</a></h4>
-    <a href='https://computerhoy.com/pc/promesa-memristores-sustituiran-memoria-ram-discos-ssd-1250024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cpu-azul-3041294.jpg?tf=1200x' alt='La promesa de los memristores, la alternativa a la memoria RAM y los discos SSD' />
     </a>
 </div>
 
