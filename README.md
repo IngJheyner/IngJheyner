@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/revolucion-coche-electrico-lista-2024-baterias-1000-km-carga-130-anos-vida-1250664'>La revolución del coche eléctrico lista para 2024: baterías con 1.000 km por carga y 130 años de vida</a></h4>
+    <a href='https://computerhoy.com/motor/revolucion-coche-electrico-lista-2024-baterias-1000-km-carga-130-anos-vida-1250664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/carga-coche-electrico-3042650.jpg?tf=1200x' alt='La revolución del coche eléctrico lista para 2024: baterías con 1.000 km por carga y 130 años de vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/significa-whatsapp-permita-poner-nombres-usuario-1250656'>Qué significa que WhatsApp permita poner nombres de usuario y por qué es tan importante para ti</a></h4>
+    <a href='https://computerhoy.com/apps/significa-whatsapp-permita-poner-nombres-usuario-1250656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-notificaciones-2579893.jpg?tf=1200x' alt='Qué significa que WhatsApp permita poner nombres de usuario y por qué es tan importante para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-convertir-cualquier-coche-caravana-muy-poco-dinero-1250050'>Carsule, el genial accesorio que te permite convertir cualquier coche en una caravana</a></h4>
+    <a href='https://computerhoy.com/life/como-convertir-cualquier-coche-caravana-muy-poco-dinero-1250050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tienda-campana-carsule-3041436.jpg?tf=1200x' alt='Carsule, el genial accesorio que te permite convertir cualquier coche en una caravana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/pedro-pascal-secreto-mandalorian-solo-voz-1250688'>Pedro Pascal reconoce el secreto mejor guardado de The Mandalorian, gracias a él pudo hacer The Last of us</a></h4>
+    <a href='https://computerhoy.com/streaming/pedro-pascal-secreto-mandalorian-solo-voz-1250688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pedro-pascal-mandalorian-2966340.jpg?tf=1200x' alt='Pedro Pascal reconoce el secreto mejor guardado de The Mandalorian, gracias a él pudo hacer The Last of us' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/peor-habitacion-casa-poner-router-wifi-no-imaginas-1250680'>Esta es la peor habitación de la casa para poner el router WiFi, y no es la que imaginas</a></h4>
     <a href='https://computerhoy.com/redes/peor-habitacion-casa-poner-router-wifi-no-imaginas-1250680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/10-objetos-todos-tenemos-casa-junto-nunca-deberias-colocar-router-wifi-2988646.jpg?tf=1200x' alt='Esta es la peor habitación de la casa para poner el router WiFi, y no es la que imaginas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/hombre-vuelve-caminar-despues-diez-anos-gracias-avance-cientifico-1250644'>Vuelve a caminar después de diez años gracias a un avance científico sin precedentes</a></h4>
-    <a href='https://computerhoy.com/ciencia/hombre-vuelve-caminar-despues-diez-anos-gracias-avance-cientifico-1250644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/oskam-3042634.jpg?tf=1200x' alt='Vuelve a caminar después de diez años gracias a un avance científico sin precedentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/cuidado-microsoft-advierte-fallo-copia-guardado-archivos-windows-11-1250674'>¡Cuidado! Microsoft advierte de un fallo en la copia y guardado de archivos en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/cuidado-microsoft-advierte-fallo-copia-guardado-archivos-windows-11-1250674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/windows-2386769.jpg?tf=1200x' alt='¡Cuidado! Microsoft advierte de un fallo en la copia y guardado de archivos en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/deberias-llevar-siempre-pasta-dientes-guantera-coche-1247140'>Esta es la razón por la que siempre deberías llevar pasta de dientes en la guantera del coche</a></h4>
-    <a href='https://computerhoy.com/life/deberias-llevar-siempre-pasta-dientes-guantera-coche-1247140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/01/citroen-c4-cactus-2018.jpg?tf=1200x' alt='Esta es la razón por la que siempre deberías llevar pasta de dientes en la guantera del coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/caixabank-quiere-movil-sea-datafono-ha-lanzado-app-conseguirlo-1250580'>CaixaBank quiere que tu móvil sea un datáfono y ha lanzado una app para conseguirlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/caixabank-quiere-movil-sea-datafono-ha-lanzado-app-conseguirlo-1250580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/caixabank-quiere-movil-sea-datafono-ha-lanzado-app-conseguirlo-3042636.jpg?tf=1200x' alt='CaixaBank quiere que tu móvil sea un datáfono y ha lanzado una app para conseguirlo' />
     </a>
 </div>
 
