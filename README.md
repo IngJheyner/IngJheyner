@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-incluira-nueva-util-funcion-copiada-macos-1250482'>Windows 11 incluirá una nueva y útil función similar a MacOS en su barra de tareas</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-incluira-nueva-util-funcion-copiada-macos-1250482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-3013954.jpg?tf=1200x' alt='Windows 11 incluirá una nueva y útil función similar a MacOS en su barra de tareas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/5-cuentas-pendientes-chatgpt-deberia-mejorar-1250430'>Las cuentas pendientes de ChatGPT al descubierto: 5 puntos que debería resolver </a></h4>
     <a href='https://computerhoy.com/tecnologia/5-cuentas-pendientes-chatgpt-deberia-mejorar-1250430' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cuentas-pendientes-chatgpt-descubierto-5-puntos-deberia-resolver-3042216.jpg?tf=1200x' alt='Las cuentas pendientes de ChatGPT al descubierto: 5 puntos que debería resolver ' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-1250408'>Eric Schmidt, exCEO de Google: 'la IA podría hacer que muchas personas lastimen o maten'</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-1250408'>Eric Schmidt, ex-CEO de Google: "La IA podría hacer que muchas personas lastimen o maten"</a></h4>
     <a href='https://computerhoy.com/tecnologia/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-1250408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-3042070.jpg?tf=1200x' alt='Eric Schmidt, exCEO de Google: 'la IA podría hacer que muchas personas lastimen o maten'' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-3042070.jpg?tf=1200x' alt='Eric Schmidt, ex-CEO de Google: "La IA podría hacer que muchas personas lastimen o maten"' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/imagen-viral-papa-balenciaga-hace-nuevo-saltar-alarmas-torno-copyright-ia-1250380'>La imagen viral del 'Papa Balenciaga' hace de nuevo saltar las alarmas en torno al copyright en IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/imagen-viral-papa-balenciaga-hace-nuevo-saltar-alarmas-torno-copyright-ia-1250380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/imagen-viral-papa-balenciaga-hace-nuevo-saltar-alarmas-torno-copyright-ia-3041968.jpg?tf=1200x' alt='La imagen viral del 'Papa Balenciaga' hace de nuevo saltar las alarmas en torno al copyright en IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cabinas-telefonicas-inteligentes-adaptadas-siglo-xxi-1250378'>En Shanghái están volviendo a instalar cabinas telefónicas con el viejo teléfono por cable, y muchas más cosas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cabinas-telefonicas-inteligentes-adaptadas-siglo-xxi-1250378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1684995844930-3041914.jpg?tf=1200x' alt='En Shanghái están volviendo a instalar cabinas telefónicas con el viejo teléfono por cable, y muchas más cosas' />
     </a>
 </div>
 
