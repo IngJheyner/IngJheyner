@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-cuentas-pendientes-chatgpt-deberia-mejorar-1250430'>Las cuentas pendientes de ChatGPT al descubierto: 5 puntos que debería resolver </a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-cuentas-pendientes-chatgpt-deberia-mejorar-1250430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cuentas-pendientes-chatgpt-descubierto-5-puntos-deberia-resolver-3042216.jpg?tf=1200x' alt='Las cuentas pendientes de ChatGPT al descubierto: 5 puntos que debería resolver ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-1250408'>Eric Schmidt, exCEO de Google: 'la IA podría hacer que muchas personas lastimen o maten'</a></h4>
+    <a href='https://computerhoy.com/tecnologia/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-1250408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-3042070.jpg?tf=1200x' alt='Eric Schmidt, exCEO de Google: 'la IA podría hacer que muchas personas lastimen o maten'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/empresas-chinas-estan-aceptan-pagos-criptos-cambio-precursores-fentanilo-1250392'>Criptomonedas y drogas: empresas chinas aceptan pagos en criptos por precursores de fentanilo</a></h4>
+    <a href='https://computerhoy.com/criptos/empresas-chinas-estan-aceptan-pagos-criptos-cambio-precursores-fentanilo-1250392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/criptomonedas-drogas-empresas-chinas-aceptan-pagos-criptos-precursores-fentanilo-3042026.jpg?tf=1200x' alt='Criptomonedas y drogas: empresas chinas aceptan pagos en criptos por precursores de fentanilo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/imagen-viral-papa-balenciaga-hace-nuevo-saltar-alarmas-torno-copyright-ia-1250380'>La imagen viral del 'Papa Balenciaga' hace de nuevo saltar las alarmas en torno al copyright en IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/imagen-viral-papa-balenciaga-hace-nuevo-saltar-alarmas-torno-copyright-ia-1250380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/imagen-viral-papa-balenciaga-hace-nuevo-saltar-alarmas-torno-copyright-ia-3041968.jpg?tf=1200x' alt='La imagen viral del 'Papa Balenciaga' hace de nuevo saltar las alarmas en torno al copyright en IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cabinas-telefonicas-inteligentes-adaptadas-siglo-xxi-1250378'>En Shanghái están volviendo a instalar cabinas telefónicas con el viejo teléfono por cable, y muchas más cosas</a></h4>
     <a href='https://computerhoy.com/tecnologia/cabinas-telefonicas-inteligentes-adaptadas-siglo-xxi-1250378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1684995844930-3041914.jpg?tf=1200x' alt='En Shanghái están volviendo a instalar cabinas telefónicas con el viejo teléfono por cable, y muchas más cosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-643-computer-hoy-1246980'>¡Ya está en tu quiosco el número 643 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-643-computer-hoy-1246980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/computer-hoy-644-3039320.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 643 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/como-5-anos-rgpd-han-cambiado-panorama-privacidad-sigue-siendo-util-1219584'>Así es como 5 años de RGPD han cambiado el panorama de la privacidad: ¿sigue siendo útil?</a></h4>
-    <a href='https://computerhoy.com/legislacion/como-5-anos-rgpd-han-cambiado-panorama-privacidad-sigue-siendo-util-1219584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-5-anos-rgpd-han-cambiado-panorama-privacidad-sigue-siendo-util-3020448.jpg?tf=1200x' alt='Así es como 5 años de RGPD han cambiado el panorama de la privacidad: ¿sigue siendo útil?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/auriculares-microfono-videollamadas-1250036'>Auriculares con micrófono para videollamadas: esto es lo que debes tener en cuenta y mejores modelos</a></h4>
-    <a href='https://computerhoy.com/mejores/auriculares-microfono-videollamadas-1250036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/hombre-auriculares-microfono-hablando-llamada-3041370.jpg?tf=1200x' alt='Auriculares con micrófono para videollamadas: esto es lo que debes tener en cuenta y mejores modelos' />
     </a>
 </div>
 
