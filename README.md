@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/imagen-viral-papa-balenciaga-hace-nuevo-saltar-alarmas-torno-copyright-ia-1250380'>La imagen viral del 'Papa Balenciaga' hace de nuevo saltar las alarmas en torno al copyright en IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/imagen-viral-papa-balenciaga-hace-nuevo-saltar-alarmas-torno-copyright-ia-1250380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/imagen-viral-papa-balenciaga-hace-nuevo-saltar-alarmas-torno-copyright-ia-3041968.jpg?tf=1200x' alt='La imagen viral del 'Papa Balenciaga' hace de nuevo saltar las alarmas en torno al copyright en IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cabinas-telefonicas-inteligentes-adaptadas-siglo-xxi-1250378'>En Shanghái están volviendo a instalar cabinas telefónicas con el viejo teléfono por cable, y muchas más cosas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cabinas-telefonicas-inteligentes-adaptadas-siglo-xxi-1250378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1684995844930-3041914.jpg?tf=1200x' alt='En Shanghái están volviendo a instalar cabinas telefónicas con el viejo teléfono por cable, y muchas más cosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-643-computer-hoy-1246980'>¡Ya está en tu quiosco el número 643 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-643-computer-hoy-1246980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/computer-hoy-644-3039320.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 643 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/legislacion/como-5-anos-rgpd-han-cambiado-panorama-privacidad-sigue-siendo-util-1219584'>Así es como 5 años de RGPD han cambiado el panorama de la privacidad: ¿sigue siendo útil?</a></h4>
+    <a href='https://computerhoy.com/legislacion/como-5-anos-rgpd-han-cambiado-panorama-privacidad-sigue-siendo-util-1219584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/como-5-anos-rgpd-han-cambiado-panorama-privacidad-sigue-siendo-util-3020448.jpg?tf=1200x' alt='Así es como 5 años de RGPD han cambiado el panorama de la privacidad: ¿sigue siendo útil?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/auriculares-microfono-videollamadas-1250036'>Auriculares con micrófono para videollamadas: esto es lo que debes tener en cuenta y mejores modelos</a></h4>
     <a href='https://computerhoy.com/mejores/auriculares-microfono-videollamadas-1250036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/hombre-auriculares-microfono-hablando-llamada-3041370.jpg?tf=1200x' alt='Auriculares con micrófono para videollamadas: esto es lo que debes tener en cuenta y mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/primer-monitor-resolucion-16k-boe-1250336'>El primer monitor con resolución 16K es capaz de poner de rodillas incluso a una RTX 4090</a></h4>
-    <a href='https://computerhoy.com/pc/primer-monitor-resolucion-16k-boe-1250336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/primer-monitor-resolucion-16k-capaz-poner-rodillas-incluso-rtx-4090-3041864.jpg?tf=1200x' alt='El primer monitor con resolución 16K es capaz de poner de rodillas incluso a una RTX 4090' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/ponen-etiqueta-lujosa-vino-malo-2-euros-gana-concurso-internacional-1250334'>Le ponen una etiqueta lujosa a un vino malo de 2 euros, y gana un prestigioso concurso internacional</a></h4>
-    <a href='https://computerhoy.com/alimentacion/ponen-etiqueta-lujosa-vino-malo-2-euros-gana-concurso-internacional-1250334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ponen-etiqueta-lujosa-vino-supermercado-2-euros-gana-prestigioso-concurso-internacional-3041860.jpg?tf=1200x' alt='Le ponen una etiqueta lujosa a un vino malo de 2 euros, y gana un prestigioso concurso internacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/persona-numero-600-sali-espacio-mujer-arabe-rayyanah-barnawi-1250120'>La persona número 600 en orbitar la Tierra es también la primera mujer árabe en salir al espacio</a></h4>
-    <a href='https://computerhoy.com/espacio/persona-numero-600-sali-espacio-mujer-arabe-rayyanah-barnawi-1250120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/persona-numero-600-orbitar-tierra-tambien-primera-mujer-arabe-salir-espacio-3041664.jpg?tf=1200x' alt='La persona número 600 en orbitar la Tierra es también la primera mujer árabe en salir al espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-dobla-rendimiento-stable-diffusion-nuevos-drivers-1250114'>NVIDIA dobla el rendimiento de Stable Diffusion con sus nuevos drivers para tarjetas RTX</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-dobla-rendimiento-stable-diffusion-nuevos-drivers-1250114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/imagen-generada-durante-beta-stable-diffusion-2806375.jpg?tf=1200x' alt='NVIDIA dobla el rendimiento de Stable Diffusion con sus nuevos drivers para tarjetas RTX' />
     </a>
 </div>
 
