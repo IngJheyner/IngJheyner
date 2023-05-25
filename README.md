@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/elimina-aplicacion-movil-ahora-mismo-te-ha-estado-espiando-mediante-microfono-1250578'>Elimina esta aplicación de tu móvil ahora mismo: te ha estado espiando mediante el micrófono</a></h4>
+    <a href='https://computerhoy.com/apps/elimina-aplicacion-movil-ahora-mismo-te-ha-estado-espiando-mediante-microfono-1250578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/malware-fabrica-nueva-tecnica-ciberdelincuentes-infectar-moviles-android-3036890.jpg?tf=1200x' alt='Elimina esta aplicación de tu móvil ahora mismo: te ha estado espiando mediante el micrófono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/proponen-impuesto-extra-coches-electricos-destrozan-carreteras-1250056'>Proponen un impuesto extra por kilómetro recorrido para los coches eléctricos: destrozan las carreteras</a></h4>
+    <a href='https://computerhoy.com/motor/proponen-impuesto-extra-coches-electricos-destrozan-carreteras-1250056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-model-3-2022-2562323.jpg?tf=1200x' alt='Proponen un impuesto extra por kilómetro recorrido para los coches eléctricos: destrozan las carreteras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/bill-gates-apuesta-energia-nuclear-sostenible-1247600'>Bill Gates apuesta por la energía nuclear sostenible</a></h4>
+    <a href='https://computerhoy.com/energia/bill-gates-apuesta-energia-nuclear-sostenible-1247600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/energia-renovable-3037310.jpg?tf=1200x' alt='Bill Gates apuesta por la energía nuclear sostenible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/francia-lucha-apple-puedas-reparar-iphone-gastarte-fortuna-1247542'>Francia lucha contra Apple para que puedas reparar tu iPhone sin gastarte una fortuna</a></h4>
+    <a href='https://computerhoy.com/apple/francia-lucha-apple-puedas-reparar-iphone-gastarte-fortuna-1247542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/francia-apple-3037094.jpg?tf=1200x' alt='Francia lucha contra Apple para que puedas reparar tu iPhone sin gastarte una fortuna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/eeuu-cada-vez-cerca-vuelos-hipersonicos-gracias-avion-grande-mundo-1250508'>EE.UU. cada vez más cerca de los vuelos hipersónicos gracias al avión más grande del mundo</a></h4>
     <a href='https://computerhoy.com/tecnologia/eeuu-cada-vez-cerca-vuelos-hipersonicos-gracias-avion-grande-mundo-1250508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/eeuu-cada-vez-cerca-vuelos-hipersonicos-gracias-avion-grande-mundo-3042382.jpg?tf=1200x' alt='EE.UU. cada vez más cerca de los vuelos hipersónicos gracias al avión más grande del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/robot-limpiacristales-create-wipebot-oferta-1250518'>Llegan las lluvias de primavera y este robot limpiará automáticamente tus cristales</a></h4>
-    <a href='https://computerhoy.com/hogar/robot-limpiacristales-create-wipebot-oferta-1250518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/create-wipebot-robot-limpiacristales-3042428.jpg?tf=1200x' alt='Llegan las lluvias de primavera y este robot limpiará automáticamente tus cristales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-incluira-nueva-util-funcion-copiada-macos-1250482'>Windows 11 incluirá una nueva y útil función similar a MacOS en su barra de tareas</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-incluira-nueva-util-funcion-copiada-macos-1250482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-3013954.jpg?tf=1200x' alt='Windows 11 incluirá una nueva y útil función similar a MacOS en su barra de tareas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-cuentas-pendientes-chatgpt-deberia-mejorar-1250430'>Las cuentas pendientes de ChatGPT al descubierto: 5 puntos que debería resolver </a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-cuentas-pendientes-chatgpt-deberia-mejorar-1250430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cuentas-pendientes-chatgpt-descubierto-5-puntos-deberia-resolver-3042216.jpg?tf=1200x' alt='Las cuentas pendientes de ChatGPT al descubierto: 5 puntos que debería resolver ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-1250408'>Eric Schmidt, ex-CEO de Google: "La IA podría hacer que muchas personas lastimen o maten"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-1250408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-3042070.jpg?tf=1200x' alt='Eric Schmidt, ex-CEO de Google: "La IA podría hacer que muchas personas lastimen o maten"' />
     </a>
 </div>
 
