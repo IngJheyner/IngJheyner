@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/eeuu-cada-vez-cerca-vuelos-hipersonicos-gracias-avion-grande-mundo-1250508'>EE.UU. cada vez más cerca de los vuelos hipersónicos gracias al avión más grande del mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/eeuu-cada-vez-cerca-vuelos-hipersonicos-gracias-avion-grande-mundo-1250508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/eeuu-cada-vez-cerca-vuelos-hipersonicos-gracias-avion-grande-mundo-3042382.jpg?tf=1200x' alt='EE.UU. cada vez más cerca de los vuelos hipersónicos gracias al avión más grande del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/robot-limpiacristales-create-wipebot-oferta-1250518'>Llegan las lluvias de primavera y este robot limpiará automáticamente tus cristales</a></h4>
+    <a href='https://computerhoy.com/hogar/robot-limpiacristales-create-wipebot-oferta-1250518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/create-wipebot-robot-limpiacristales-3042428.jpg?tf=1200x' alt='Llegan las lluvias de primavera y este robot limpiará automáticamente tus cristales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-incluira-nueva-util-funcion-copiada-macos-1250482'>Windows 11 incluirá una nueva y útil función similar a MacOS en su barra de tareas</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-incluira-nueva-util-funcion-copiada-macos-1250482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-3013954.jpg?tf=1200x' alt='Windows 11 incluirá una nueva y útil función similar a MacOS en su barra de tareas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-1250408'>Eric Schmidt, ex-CEO de Google: "La IA podría hacer que muchas personas lastimen o maten"</a></h4>
     <a href='https://computerhoy.com/tecnologia/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-1250408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-3042070.jpg?tf=1200x' alt='Eric Schmidt, ex-CEO de Google: "La IA podría hacer que muchas personas lastimen o maten"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/empresas-chinas-estan-aceptan-pagos-criptos-cambio-precursores-fentanilo-1250392'>Criptomonedas y drogas: empresas chinas aceptan pagos en criptos por precursores de fentanilo</a></h4>
-    <a href='https://computerhoy.com/criptos/empresas-chinas-estan-aceptan-pagos-criptos-cambio-precursores-fentanilo-1250392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/criptomonedas-drogas-empresas-chinas-aceptan-pagos-criptos-precursores-fentanilo-3042026.jpg?tf=1200x' alt='Criptomonedas y drogas: empresas chinas aceptan pagos en criptos por precursores de fentanilo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/imagen-viral-papa-balenciaga-hace-nuevo-saltar-alarmas-torno-copyright-ia-1250380'>La imagen viral del 'Papa Balenciaga' hace de nuevo saltar las alarmas en torno al copyright en IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/imagen-viral-papa-balenciaga-hace-nuevo-saltar-alarmas-torno-copyright-ia-1250380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/imagen-viral-papa-balenciaga-hace-nuevo-saltar-alarmas-torno-copyright-ia-3041968.jpg?tf=1200x' alt='La imagen viral del 'Papa Balenciaga' hace de nuevo saltar las alarmas en torno al copyright en IA' />
     </a>
 </div>
 
