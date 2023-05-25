@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elimina-aplicacion-movil-ahora-mismo-te-ha-estado-espiando-mediante-microfono-1250578'>Elimina esta aplicación de tu móvil ahora mismo: te ha estado espiando mediante el micrófono</a></h4>
-    <a href='https://computerhoy.com/apps/elimina-aplicacion-movil-ahora-mismo-te-ha-estado-espiando-mediante-microfono-1250578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/malware-fabrica-nueva-tecnica-ciberdelincuentes-infectar-moviles-android-3036890.jpg?tf=1200x' alt='Elimina esta aplicación de tu móvil ahora mismo: te ha estado espiando mediante el micrófono' />
+    <h4><a href='https://computerhoy.com/redes/peor-habitacion-casa-poner-router-wifi-no-imaginas-1250680'>Esta es la peor habitación de la casa para poner el router WiFi, y no es la que imaginas</a></h4>
+    <a href='https://computerhoy.com/redes/peor-habitacion-casa-poner-router-wifi-no-imaginas-1250680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/10-objetos-todos-tenemos-casa-junto-nunca-deberias-colocar-router-wifi-2988646.jpg?tf=1200x' alt='Esta es la peor habitación de la casa para poner el router WiFi, y no es la que imaginas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/proponen-impuesto-extra-coches-electricos-destrozan-carreteras-1250056'>Proponen un impuesto extra por kilómetro recorrido para los coches eléctricos: destrozan las carreteras</a></h4>
-    <a href='https://computerhoy.com/motor/proponen-impuesto-extra-coches-electricos-destrozan-carreteras-1250056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tesla-model-3-2022-2562323.jpg?tf=1200x' alt='Proponen un impuesto extra por kilómetro recorrido para los coches eléctricos: destrozan las carreteras' />
+    <h4><a href='https://computerhoy.com/ciencia/hombre-vuelve-caminar-despues-diez-anos-gracias-avance-cientifico-1250644'>Vuelve a caminar después de diez años gracias a un avance científico sin precedentes</a></h4>
+    <a href='https://computerhoy.com/ciencia/hombre-vuelve-caminar-despues-diez-anos-gracias-avance-cientifico-1250644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/oskam-3042634.jpg?tf=1200x' alt='Vuelve a caminar después de diez años gracias a un avance científico sin precedentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/bill-gates-apuesta-energia-nuclear-sostenible-1247600'>Bill Gates apuesta por la energía nuclear sostenible</a></h4>
-    <a href='https://computerhoy.com/energia/bill-gates-apuesta-energia-nuclear-sostenible-1247600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/energia-renovable-3037310.jpg?tf=1200x' alt='Bill Gates apuesta por la energía nuclear sostenible' />
+    <h4><a href='https://computerhoy.com/windows/cuidado-microsoft-advierte-fallo-copia-guardado-archivos-windows-11-1250674'>¡Cuidado! Microsoft advierte de un fallo en la copia y guardado de archivos en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/cuidado-microsoft-advierte-fallo-copia-guardado-archivos-windows-11-1250674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/windows-2386769.jpg?tf=1200x' alt='¡Cuidado! Microsoft advierte de un fallo en la copia y guardado de archivos en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/francia-lucha-apple-puedas-reparar-iphone-gastarte-fortuna-1247542'>Francia lucha contra Apple para que puedas reparar tu iPhone sin gastarte una fortuna</a></h4>
-    <a href='https://computerhoy.com/apple/francia-lucha-apple-puedas-reparar-iphone-gastarte-fortuna-1247542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/francia-apple-3037094.jpg?tf=1200x' alt='Francia lucha contra Apple para que puedas reparar tu iPhone sin gastarte una fortuna' />
+    <h4><a href='https://computerhoy.com/life/deberias-llevar-siempre-pasta-dientes-guantera-coche-1247140'>Esta es la razón por la que siempre deberías llevar pasta de dientes en la guantera del coche</a></h4>
+    <a href='https://computerhoy.com/life/deberias-llevar-siempre-pasta-dientes-guantera-coche-1247140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/01/citroen-c4-cactus-2018.jpg?tf=1200x' alt='Esta es la razón por la que siempre deberías llevar pasta de dientes en la guantera del coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/eeuu-cada-vez-cerca-vuelos-hipersonicos-gracias-avion-grande-mundo-1250508'>EE.UU. cada vez más cerca de los vuelos hipersónicos gracias al avión más grande del mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/eeuu-cada-vez-cerca-vuelos-hipersonicos-gracias-avion-grande-mundo-1250508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/eeuu-cada-vez-cerca-vuelos-hipersonicos-gracias-avion-grande-mundo-3042382.jpg?tf=1200x' alt='EE.UU. cada vez más cerca de los vuelos hipersónicos gracias al avión más grande del mundo' />
+    <h4><a href='https://computerhoy.com/tecnologia/caixabank-quiere-movil-sea-datafono-ha-lanzado-app-conseguirlo-1250580'>CaixaBank quiere que tu móvil sea un datáfono y ha lanzado una app para conseguirlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/caixabank-quiere-movil-sea-datafono-ha-lanzado-app-conseguirlo-1250580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/caixabank-quiere-movil-sea-datafono-ha-lanzado-app-conseguirlo-3042636.jpg?tf=1200x' alt='CaixaBank quiere que tu móvil sea un datáfono y ha lanzado una app para conseguirlo' />
     </a>
 </div>
 
