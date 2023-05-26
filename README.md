@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-hbo-max-deja-funcionar-amazon-fire-tv-1250038'>¿Qué hacer cuando HBO Max deja de funcionar en tu Amazon Fire TV?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-cuando-hbo-max-deja-funcionar-amazon-fire-tv-1250038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/Captura%20de%20pantalla%202019-01-09%20a%20las%209.40.18.jpg?tf=1200x' alt='¿Qué hacer cuando HBO Max deja de funcionar en tu Amazon Fire TV?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-ya-cuenta-permisos-iniciar-pruebas-humanos-chips-neuralink-1251042'>Elon Musk ya cuenta con los permisos para iniciar las pruebas en humanos de sus chips Neuralink</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-ya-cuenta-permisos-iniciar-pruebas-humanos-chips-neuralink-1251042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-ya-cuenta-permisos-iniciar-pruebas-humanos-chips-neuralink-3043162.jpg?tf=1200x' alt='Elon Musk ya cuenta con los permisos para iniciar las pruebas en humanos de sus chips Neuralink' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dji-mini-2-se-dron-facil-usar-viajes-aventuras-1251016'>Este es el mejor dron DJI que nos llevaríamos de vacaciones y que ahora está en oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dji-mini-2-se-dron-facil-usar-viajes-aventuras-1251016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/dji-mini-2-3043054.jpg?tf=1200x' alt='Este es el mejor dron DJI que nos llevaríamos de vacaciones y que ahora está en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/legislacion/europa-planta-pirateria-exige-bloqueo-nivel-internacional-sitios-ilicitos-1251022'>Europa contra la piratería: exige un bloqueo a nivel internacional y medidas más estrictas</a></h4>
     <a href='https://computerhoy.com/legislacion/europa-planta-pirateria-exige-bloqueo-nivel-internacional-sitios-ilicitos-1251022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/europa-pirateria-exige-bloqueo-nivel-internacional-medidas-estrictas-3043076.jpg?tf=1200x' alt='Europa contra la piratería: exige un bloqueo a nivel internacional y medidas más estrictas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/youtube-eliminara-funcion-no-ha-calado-tanto-como-comunidad-instagram-1250982'>YouTube eliminará una función que no ha calado tanto como en la comunidad de Instagram</a></h4>
     <a href='https://computerhoy.com/tv/youtube-eliminara-funcion-no-ha-calado-tanto-como-comunidad-instagram-1250982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/youtube-eliminara-funcion-no-ha-calado-tanto-como-comunidad-instagram-3042994.jpg?tf=1200x' alt='YouTube eliminará una función que no ha calado tanto como en la comunidad de Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/iphone-14-oferta-precio-bajo-amazon-1250938'>Este iPhone 14 está a uno de sus precios más bajos en Amazon, pero hay más ofertas</a></h4>
-    <a href='https://computerhoy.com/moviles/iphone-14-oferta-precio-bajo-amazon-1250938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-iphone-14-2821553.jpg?tf=1200x' alt='Este iPhone 14 está a uno de sus precios más bajos en Amazon, pero hay más ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/conductores-podran-cambiar-carril-usando-solo-nueva-serie-5-bmw-1250954'>Los conductores podrán cambiar de carril usando solo sus ojos con la nueva serie 5 de BMW</a></h4>
-    <a href='https://computerhoy.com/motor/conductores-podran-cambiar-carril-usando-solo-nueva-serie-5-bmw-1250954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/conductores-podran-cambiar-carril-usando-solo-ojos-nueva-serie-5-bmw-3042970.jpg?tf=1200x' alt='Los conductores podrán cambiar de carril usando solo sus ojos con la nueva serie 5 de BMW' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/motorola-edge-40-pro-analisis-review-caracteristicas-precio-1235726'>Análisis Motorola Edge 40 Pro: esencia de gama top por 200 euros menos</a></h4>
-    <a href='https://computerhoy.com/analisis/motorola-edge-40-pro-analisis-review-caracteristicas-precio-1235726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/edge-40-pro-portada-analisis-3040686.jpg?tf=1200x' alt='Análisis Motorola Edge 40 Pro: esencia de gama top por 200 euros menos' />
     </a>
 </div>
 
