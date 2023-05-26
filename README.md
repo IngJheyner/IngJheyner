@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-hbo-max-deja-funcionar-amazon-fire-tv-1250038'>¿Qué hacer cuando HBO Max deja de funcionar en tu Amazon Fire TV?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacer-cuando-hbo-max-deja-funcionar-amazon-fire-tv-1250038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/Captura%20de%20pantalla%202019-01-09%20a%20las%209.40.18.jpg?tf=1200x' alt='¿Qué hacer cuando HBO Max deja de funcionar en tu Amazon Fire TV?' />
+    <h4><a href='https://computerhoy.com/alimentacion/sorprendentes-utilidades-agua-cocer-pasta-casi-nadie-conoce-1247148'>¡No la tires! Las sorprendentes utilidades del agua de cocer la pasta que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/alimentacion/sorprendentes-utilidades-agua-cocer-pasta-casi-nadie-conoce-1247148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/agua-cocer-pasta-3043204.jpg?tf=1200x' alt='¡No la tires! Las sorprendentes utilidades del agua de cocer la pasta que casi nadie conoce' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-ya-cuenta-permisos-iniciar-pruebas-humanos-chips-neuralink-1251042'>Elon Musk ya cuenta con los permisos para iniciar las pruebas en humanos de sus chips Neuralink</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-ya-cuenta-permisos-iniciar-pruebas-humanos-chips-neuralink-1251042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-ya-cuenta-permisos-iniciar-pruebas-humanos-chips-neuralink-3043162.jpg?tf=1200x' alt='Elon Musk ya cuenta con los permisos para iniciar las pruebas en humanos de sus chips Neuralink' />
+    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-movistar-plus-netflix-ballena-nazis-gran-mentira-1251120'>Qué películas ver este fin de semana en Movistar Plus+ y Netflix: La Ballena, nazis y una gran mentira</a></h4>
+    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-movistar-plus-netflix-ballena-nazis-gran-mentira-1251120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/peliculas-ver-fin-semana-movistar-plus-netflix-ballena-nazis-gran-mentira-3043350.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Movistar Plus+ y Netflix: La Ballena, nazis y una gran mentira' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dji-mini-2-se-dron-facil-usar-viajes-aventuras-1251016'>Este es el mejor dron DJI que nos llevaríamos de vacaciones y que ahora está en oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dji-mini-2-se-dron-facil-usar-viajes-aventuras-1251016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/dji-mini-2-3043054.jpg?tf=1200x' alt='Este es el mejor dron DJI que nos llevaríamos de vacaciones y que ahora está en oferta' />
+    <h4><a href='https://computerhoy.com/life/dgt-avisa-paginas-webs-prometen-carnet-conducir-examen-imposible-1251178'>La DGT avisa sobre las páginas webs que prometen el carnet de conducir sin examen: “Esto es imposible”</a></h4>
+    <a href='https://computerhoy.com/life/dgt-avisa-paginas-webs-prometen-carnet-conducir-examen-imposible-1251178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/carnet-conducir-2232269.jpg?tf=1200x' alt='La DGT avisa sobre las páginas webs que prometen el carnet de conducir sin examen: “Esto es imposible”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/europa-planta-pirateria-exige-bloqueo-nivel-internacional-sitios-ilicitos-1251022'>Europa contra la piratería: exige un bloqueo a nivel internacional y medidas más estrictas</a></h4>
-    <a href='https://computerhoy.com/legislacion/europa-planta-pirateria-exige-bloqueo-nivel-internacional-sitios-ilicitos-1251022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/europa-pirateria-exige-bloqueo-nivel-internacional-medidas-estrictas-3043076.jpg?tf=1200x' alt='Europa contra la piratería: exige un bloqueo a nivel internacional y medidas más estrictas' />
+    <h4><a href='https://computerhoy.com/life/hielo-marino-antartida-minimos-historicos-1251154'>El hielo marino de la Antártida en mínimos históricos y hace saltar todas las alarmas</a></h4>
+    <a href='https://computerhoy.com/life/hielo-marino-antartida-minimos-historicos-1251154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/iceberg-antartida-2341701.jpg?tf=1200x' alt='El hielo marino de la Antártida en mínimos históricos y hace saltar todas las alarmas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/youtube-eliminara-funcion-no-ha-calado-tanto-como-comunidad-instagram-1250982'>YouTube eliminará una función que no ha calado tanto como en la comunidad de Instagram</a></h4>
-    <a href='https://computerhoy.com/tv/youtube-eliminara-funcion-no-ha-calado-tanto-como-comunidad-instagram-1250982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/youtube-eliminara-funcion-no-ha-calado-tanto-como-comunidad-instagram-3042994.jpg?tf=1200x' alt='YouTube eliminará una función que no ha calado tanto como en la comunidad de Instagram' />
+    <h4><a href='https://computerhoy.com/legislacion/diferencias-interventor-apoderado-mesa-electoral-1251114'>Diferencias entre interventor y apoderado en una mesa electoral</a></h4>
+    <a href='https://computerhoy.com/legislacion/diferencias-interventor-apoderado-mesa-electoral-1251114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/personas-votando-urna-electoral-3043326.jpg?tf=1200x' alt='Diferencias entre interventor y apoderado en una mesa electoral' />
     </a>
 </div>
 
