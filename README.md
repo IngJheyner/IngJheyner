@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/legislacion/europa-planta-pirateria-exige-bloqueo-nivel-internacional-sitios-ilicitos-1251022'>Europa contra la piratería: exige un bloqueo a nivel internacional y medidas más estrictas</a></h4>
+    <a href='https://computerhoy.com/legislacion/europa-planta-pirateria-exige-bloqueo-nivel-internacional-sitios-ilicitos-1251022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/europa-pirateria-exige-bloqueo-nivel-internacional-medidas-estrictas-3043076.jpg?tf=1200x' alt='Europa contra la piratería: exige un bloqueo a nivel internacional y medidas más estrictas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/youtube-eliminara-funcion-no-ha-calado-tanto-como-comunidad-instagram-1250982'>YouTube eliminará una función que no ha calado tanto como en la comunidad de Instagram</a></h4>
     <a href='https://computerhoy.com/tv/youtube-eliminara-funcion-no-ha-calado-tanto-como-comunidad-instagram-1250982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/youtube-eliminara-funcion-no-ha-calado-tanto-como-comunidad-instagram-3042994.jpg?tf=1200x' alt='YouTube eliminará una función que no ha calado tanto como en la comunidad de Instagram' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/motorola-edge-40-pro-analisis-review-caracteristicas-precio-1235726'>Análisis Motorola Edge 40 Pro: esencia de gama top por 200 euros menos</a></h4>
     <a href='https://computerhoy.com/analisis/motorola-edge-40-pro-analisis-review-caracteristicas-precio-1235726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/edge-40-pro-portada-analisis-3040686.jpg?tf=1200x' alt='Análisis Motorola Edge 40 Pro: esencia de gama top por 200 euros menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858'>Mejores auriculares inalámbricos que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989248.jpg?tf=1200x' alt='Mejores auriculares inalámbricos que puedes comprar ahora mismo' />
     </a>
 </div>
 
