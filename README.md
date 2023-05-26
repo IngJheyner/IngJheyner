@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/sorprendentes-utilidades-agua-cocer-pasta-casi-nadie-conoce-1247148'>¡No la tires! Las sorprendentes utilidades del agua de cocer la pasta que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/alimentacion/sorprendentes-utilidades-agua-cocer-pasta-casi-nadie-conoce-1247148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/agua-cocer-pasta-3043204.jpg?tf=1200x' alt='¡No la tires! Las sorprendentes utilidades del agua de cocer la pasta que casi nadie conoce' />
+    <h4><a href='https://computerhoy.com/life/ocu-lanza-advertencia-numeros-118-no-caigas-trampa-1251234'>La OCU lanza una advertencia sobre los números 118: “no caigas en la trampa”</a></h4>
+    <a href='https://computerhoy.com/life/ocu-lanza-advertencia-numeros-118-no-caigas-trampa-1251234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mujer-furiosa-llamada-telefonica-3043620.jpg?tf=1200x' alt='La OCU lanza una advertencia sobre los números 118: “no caigas en la trampa”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-movistar-plus-netflix-ballena-nazis-gran-mentira-1251120'>Qué películas ver este fin de semana en Movistar Plus+ y Netflix: La Ballena, nazis y una gran mentira</a></h4>
-    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-movistar-plus-netflix-ballena-nazis-gran-mentira-1251120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/peliculas-ver-fin-semana-movistar-plus-netflix-ballena-nazis-gran-mentira-3043350.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Movistar Plus+ y Netflix: La Ballena, nazis y una gran mentira' />
+    <h4><a href='https://computerhoy.com/tutoriales/puede-tener-microsoft-word-gratis-claro-puede-1247970'>¿Se puede tener Microsoft Word gratis? Claro que se puede</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puede-tener-microsoft-word-gratis-claro-puede-1247970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/microsoft-word-3037892.jpg?tf=1200x' alt='¿Se puede tener Microsoft Word gratis? Claro que se puede' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dgt-avisa-paginas-webs-prometen-carnet-conducir-examen-imposible-1251178'>La DGT avisa sobre las páginas webs que prometen el carnet de conducir sin examen: “Esto es imposible”</a></h4>
-    <a href='https://computerhoy.com/life/dgt-avisa-paginas-webs-prometen-carnet-conducir-examen-imposible-1251178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/carnet-conducir-2232269.jpg?tf=1200x' alt='La DGT avisa sobre las páginas webs que prometen el carnet de conducir sin examen: “Esto es imposible”' />
+    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-quiere-propio-chatgpt-llamara-tako-1251180'>TikTok quiere su propio ChatGPT y se llamará “Tako”</a></h4>
+    <a href='https://computerhoy.com/redes-sociales/tiktok-quiere-propio-chatgpt-llamara-tako-1251180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tiktok-3037242.jpg?tf=1200x' alt='TikTok quiere su propio ChatGPT y se llamará “Tako”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hielo-marino-antartida-minimos-historicos-1251154'>El hielo marino de la Antártida en mínimos históricos y hace saltar todas las alarmas</a></h4>
-    <a href='https://computerhoy.com/life/hielo-marino-antartida-minimos-historicos-1251154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/iceberg-antartida-2341701.jpg?tf=1200x' alt='El hielo marino de la Antártida en mínimos históricos y hace saltar todas las alarmas' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/infiltra-grupos-venta-datos-bancarios-telegram-da-mucho-miedo-1250678'>Se infiltra en los grupos de venta de datos bancarios en Telegram y lo que descubre da mucho miedo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/infiltra-grupos-venta-datos-bancarios-telegram-da-mucho-miedo-1250678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/peliculas-miedo-1856373.jpg?tf=1200x' alt='Se infiltra en los grupos de venta de datos bancarios en Telegram y lo que descubre da mucho miedo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/legislacion/diferencias-interventor-apoderado-mesa-electoral-1251114'>Diferencias entre interventor y apoderado en una mesa electoral</a></h4>
-    <a href='https://computerhoy.com/legislacion/diferencias-interventor-apoderado-mesa-electoral-1251114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/personas-votando-urna-electoral-3043326.jpg?tf=1200x' alt='Diferencias entre interventor y apoderado en una mesa electoral' />
+    <h4><a href='https://computerhoy.com/mejores/camaras-digitales-ofertas-vacaciones-1251046'>Estas cámaras tienen mejor calidad que tu móvil y son perfectas para tus vacaciones y viajes épicos</a></h4>
+    <a href='https://computerhoy.com/mejores/camaras-digitales-ofertas-vacaciones-1251046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/persona-alto-montana-tomando-fotografia-camara-canon-3043152.jpg?tf=1200x' alt='Estas cámaras tienen mejor calidad que tu móvil y son perfectas para tus vacaciones y viajes épicos' />
     </a>
 </div>
 
