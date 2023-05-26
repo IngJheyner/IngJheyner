@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hija-firma-contrato-padres-como-cuidadora-mejor-sueldo-empleo-actual-1250924'>Una mujer china deja su trabajo y firma un contrato indefinido con sus padres como cuidadora, con mejor sueldo</a></h4>
+    <a href='https://computerhoy.com/life/hija-firma-contrato-padres-como-cuidadora-mejor-sueldo-empleo-actual-1250924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mujer-china-deja-trabajo-firma-contrato-indefinido-padres-como-cuidadora-mejor-sueldo-3042894.jpg?tf=1200x' alt='Una mujer china deja su trabajo y firma un contrato indefinido con sus padres como cuidadora, con mejor sueldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/buscador-google-estrena-inteligencia-artificial-tipo-chatgpt-ya-puede-probar-1250920'>El buscador de Google estrena su IA tipo ChatGPT, que ya se puede probar</a></h4>
     <a href='https://computerhoy.com/google/buscador-google-estrena-inteligencia-artificial-tipo-chatgpt-ya-puede-probar-1250920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/buscador-google-ia-3042696.jpg?tf=1200x' alt='El buscador de Google estrena su IA tipo ChatGPT, que ya se puede probar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/significa-whatsapp-permita-poner-nombres-usuario-1250656'>Qué significa que WhatsApp permita poner nombres de usuario y por qué es tan importante para ti</a></h4>
     <a href='https://computerhoy.com/apps/significa-whatsapp-permita-poner-nombres-usuario-1250656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-notificaciones-2579893.jpg?tf=1200x' alt='Qué significa que WhatsApp permita poner nombres de usuario y por qué es tan importante para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-convertir-cualquier-coche-caravana-muy-poco-dinero-1250050'>Carsule, el genial accesorio que te permite convertir cualquier coche en una caravana</a></h4>
-    <a href='https://computerhoy.com/life/como-convertir-cualquier-coche-caravana-muy-poco-dinero-1250050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tienda-campana-carsule-3041436.jpg?tf=1200x' alt='Carsule, el genial accesorio que te permite convertir cualquier coche en una caravana' />
     </a>
 </div>
 
