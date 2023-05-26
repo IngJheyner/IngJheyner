@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ocu-lanza-advertencia-numeros-118-no-caigas-trampa-1251234'>La OCU lanza una advertencia sobre los números 118: “no caigas en la trampa”</a></h4>
-    <a href='https://computerhoy.com/life/ocu-lanza-advertencia-numeros-118-no-caigas-trampa-1251234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mujer-furiosa-llamada-telefonica-3043620.jpg?tf=1200x' alt='La OCU lanza una advertencia sobre los números 118: “no caigas en la trampa”' />
+    <h4><a href='https://computerhoy.com/gaming/tienda-playstation-direct-abre-espana-1251252'>La tienda PlayStation Direct abre en España: compra tu PS5, accesorios y juegos en físico directamente a Sony</a></h4>
+    <a href='https://computerhoy.com/gaming/tienda-playstation-direct-abre-espana-1251252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tienda-playstation-direct-abre-espana-compra-ps5-accesorios-directamente-sony-3043652.jpg?tf=1200x' alt='La tienda PlayStation Direct abre en España: compra tu PS5, accesorios y juegos en físico directamente a Sony' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puede-tener-microsoft-word-gratis-claro-puede-1247970'>¿Se puede tener Microsoft Word gratis? Claro que se puede</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puede-tener-microsoft-word-gratis-claro-puede-1247970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/microsoft-word-3037892.jpg?tf=1200x' alt='¿Se puede tener Microsoft Word gratis? Claro que se puede' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-nuevo-modo-lectura-inteligente-google-chrome-1251194'>Cómo activar el nuevo modo de lectura inteligente de Google Chrome</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-nuevo-modo-lectura-inteligente-google-chrome-1251194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chrome-efecto-mica-3021520.jpg?tf=1200x' alt='Cómo activar el nuevo modo de lectura inteligente de Google Chrome' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/tiktok-quiere-propio-chatgpt-llamara-tako-1251180'>TikTok quiere su propio ChatGPT y se llamará “Tako”</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/tiktok-quiere-propio-chatgpt-llamara-tako-1251180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tiktok-3037242.jpg?tf=1200x' alt='TikTok quiere su propio ChatGPT y se llamará “Tako”' />
+    <h4><a href='https://computerhoy.com/life/ilusion-optica-convierte-personas-guapas-engendros-1251244'>La ilusión óptica que convierte a personas guapas en engendros, y nadie sabe por qué</a></h4>
+    <a href='https://computerhoy.com/life/ilusion-optica-convierte-personas-guapas-engendros-1251244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1685125608350-3043616.jpg?tf=1200x' alt='La ilusión óptica que convierte a personas guapas en engendros, y nadie sabe por qué' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/infiltra-grupos-venta-datos-bancarios-telegram-da-mucho-miedo-1250678'>Se infiltra en los grupos de venta de datos bancarios en Telegram y lo que descubre da mucho miedo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/infiltra-grupos-venta-datos-bancarios-telegram-da-mucho-miedo-1250678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/peliculas-miedo-1856373.jpg?tf=1200x' alt='Se infiltra en los grupos de venta de datos bancarios en Telegram y lo que descubre da mucho miedo' />
+    <h4><a href='https://computerhoy.com/life/descubren-nuevo-tipo-nubes-absolutamente-aterradoras-1251238'>Descubren un nuevo tipo de nubes absolutamente aterradoras</a></h4>
+    <a href='https://computerhoy.com/life/descubren-nuevo-tipo-nubes-absolutamente-aterradoras-1251238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/descubren-nuevo-tipo-nubes-absolutamente-aterradoras-3043636.jpg?tf=1200x' alt='Descubren un nuevo tipo de nubes absolutamente aterradoras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/camaras-digitales-ofertas-vacaciones-1251046'>Estas cámaras tienen mejor calidad que tu móvil y son perfectas para tus vacaciones y viajes épicos</a></h4>
-    <a href='https://computerhoy.com/mejores/camaras-digitales-ofertas-vacaciones-1251046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/persona-alto-montana-tomando-fotografia-camara-canon-3043152.jpg?tf=1200x' alt='Estas cámaras tienen mejor calidad que tu móvil y son perfectas para tus vacaciones y viajes épicos' />
+    <h4><a href='https://computerhoy.com/life/extrano-rasgo-facial-solo-1-personas-padecen-mundo-1250922'>El extraño rasgo facial que solo el 1% de las personas padecen en el mundo</a></h4>
+    <a href='https://computerhoy.com/life/extrano-rasgo-facial-solo-1-personas-padecen-mundo-1250922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/heterocromia-3042898.jpg?tf=1200x' alt='El extraño rasgo facial que solo el 1% de las personas padecen en el mundo' />
     </a>
 </div>
 
