@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/motorola-edge-40-pro-analisis-review-caracteristicas-precio-1235726'>Análisis Motorola Edge 40 Pro: esencia de gama top por 200 euros menos</a></h4>
+    <a href='https://computerhoy.com/analisis/motorola-edge-40-pro-analisis-review-caracteristicas-precio-1235726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/edge-40-pro-portada-analisis-3040686.jpg?tf=1200x' alt='Análisis Motorola Edge 40 Pro: esencia de gama top por 200 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858'>Mejores auriculares inalámbricos que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989248.jpg?tf=1200x' alt='Mejores auriculares inalámbricos que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/hija-firma-contrato-padres-como-cuidadora-mejor-sueldo-empleo-actual-1250924'>Una mujer china deja su trabajo y firma un contrato indefinido con sus padres como cuidadora, con mejor sueldo</a></h4>
     <a href='https://computerhoy.com/life/hija-firma-contrato-padres-como-cuidadora-mejor-sueldo-empleo-actual-1250924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mujer-china-deja-trabajo-firma-contrato-indefinido-padres-como-cuidadora-mejor-sueldo-3042894.jpg?tf=1200x' alt='Una mujer china deja su trabajo y firma un contrato indefinido con sus padres como cuidadora, con mejor sueldo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cuanto-dinero-hay-tener-estar-mas-rico-cada-pais-1250696'>Cuánto dinero hay que tener para estar entre el 1% más rico, según cada país</a></h4>
     <a href='https://computerhoy.com/life/cuanto-dinero-hay-tener-estar-mas-rico-cada-pais-1250696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cuanto-dinero-hay-tener-estar-1-rico-cada-pais-3042676.jpg?tf=1200x' alt='Cuánto dinero hay que tener para estar entre el 1% más rico, según cada país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/revolucion-coche-electrico-lista-2024-baterias-1000-km-carga-130-anos-vida-1250664'>La revolución del coche eléctrico lista para 2024: baterías con 1.000 km por carga y 130 años de vida</a></h4>
-    <a href='https://computerhoy.com/motor/revolucion-coche-electrico-lista-2024-baterias-1000-km-carga-130-anos-vida-1250664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/carga-coche-electrico-3042650.jpg?tf=1200x' alt='La revolución del coche eléctrico lista para 2024: baterías con 1.000 km por carga y 130 años de vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/significa-whatsapp-permita-poner-nombres-usuario-1250656'>Qué significa que WhatsApp permita poner nombres de usuario y por qué es tan importante para ti</a></h4>
-    <a href='https://computerhoy.com/apps/significa-whatsapp-permita-poner-nombres-usuario-1250656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-notificaciones-2579893.jpg?tf=1200x' alt='Qué significa que WhatsApp permita poner nombres de usuario y por qué es tan importante para ti' />
     </a>
 </div>
 
