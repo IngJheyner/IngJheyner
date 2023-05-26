@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/youtube-eliminara-funcion-no-ha-calado-tanto-como-comunidad-instagram-1250982'>YouTube eliminará una función que no ha calado tanto como en la comunidad de Instagram</a></h4>
+    <a href='https://computerhoy.com/tv/youtube-eliminara-funcion-no-ha-calado-tanto-como-comunidad-instagram-1250982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/youtube-eliminara-funcion-no-ha-calado-tanto-como-comunidad-instagram-3042994.jpg?tf=1200x' alt='YouTube eliminará una función que no ha calado tanto como en la comunidad de Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/iphone-14-oferta-precio-bajo-amazon-1250938'>Este iPhone 14 está a uno de sus precios más bajos en Amazon, pero hay más ofertas</a></h4>
+    <a href='https://computerhoy.com/moviles/iphone-14-oferta-precio-bajo-amazon-1250938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-iphone-14-2821553.jpg?tf=1200x' alt='Este iPhone 14 está a uno de sus precios más bajos en Amazon, pero hay más ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/conductores-podran-cambiar-carril-usando-solo-nueva-serie-5-bmw-1250954'>Los conductores podrán cambiar de carril usando solo sus ojos con la nueva serie 5 de BMW</a></h4>
+    <a href='https://computerhoy.com/motor/conductores-podran-cambiar-carril-usando-solo-nueva-serie-5-bmw-1250954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/conductores-podran-cambiar-carril-usando-solo-ojos-nueva-serie-5-bmw-3042970.jpg?tf=1200x' alt='Los conductores podrán cambiar de carril usando solo sus ojos con la nueva serie 5 de BMW' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/motorola-edge-40-pro-analisis-review-caracteristicas-precio-1235726'>Análisis Motorola Edge 40 Pro: esencia de gama top por 200 euros menos</a></h4>
     <a href='https://computerhoy.com/analisis/motorola-edge-40-pro-analisis-review-caracteristicas-precio-1235726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/edge-40-pro-portada-analisis-3040686.jpg?tf=1200x' alt='Análisis Motorola Edge 40 Pro: esencia de gama top por 200 euros menos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858'>Mejores auriculares inalámbricos que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989248.jpg?tf=1200x' alt='Mejores auriculares inalámbricos que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hija-firma-contrato-padres-como-cuidadora-mejor-sueldo-empleo-actual-1250924'>Una mujer china deja su trabajo y firma un contrato indefinido con sus padres como cuidadora, con mejor sueldo</a></h4>
-    <a href='https://computerhoy.com/life/hija-firma-contrato-padres-como-cuidadora-mejor-sueldo-empleo-actual-1250924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mujer-china-deja-trabajo-firma-contrato-indefinido-padres-como-cuidadora-mejor-sueldo-3042894.jpg?tf=1200x' alt='Una mujer china deja su trabajo y firma un contrato indefinido con sus padres como cuidadora, con mejor sueldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/buscador-google-estrena-inteligencia-artificial-tipo-chatgpt-ya-puede-probar-1250920'>El buscador de Google estrena su IA tipo ChatGPT, que ya se puede probar</a></h4>
-    <a href='https://computerhoy.com/google/buscador-google-estrena-inteligencia-artificial-tipo-chatgpt-ya-puede-probar-1250920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/buscador-google-ia-3042696.jpg?tf=1200x' alt='El buscador de Google estrena su IA tipo ChatGPT, que ya se puede probar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuanto-dinero-hay-tener-estar-mas-rico-cada-pais-1250696'>Cuánto dinero hay que tener para estar entre el 1% más rico, según cada país</a></h4>
-    <a href='https://computerhoy.com/life/cuanto-dinero-hay-tener-estar-mas-rico-cada-pais-1250696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cuanto-dinero-hay-tener-estar-1-rico-cada-pais-3042676.jpg?tf=1200x' alt='Cuánto dinero hay que tener para estar entre el 1% más rico, según cada país' />
     </a>
 </div>
 
