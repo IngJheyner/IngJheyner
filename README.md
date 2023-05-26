@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/buscador-google-estrena-inteligencia-artificial-tipo-chatgpt-ya-puede-probar-1250920'>El buscador de Google estrena su IA tipo ChatGPT, que ya se puede probar</a></h4>
+    <a href='https://computerhoy.com/google/buscador-google-estrena-inteligencia-artificial-tipo-chatgpt-ya-puede-probar-1250920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/buscador-google-ia-3042696.jpg?tf=1200x' alt='El buscador de Google estrena su IA tipo ChatGPT, que ya se puede probar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cuanto-dinero-hay-tener-estar-mas-rico-cada-pais-1250696'>Cuánto dinero hay que tener para estar entre el 1% más rico, según cada país</a></h4>
+    <a href='https://computerhoy.com/life/cuanto-dinero-hay-tener-estar-mas-rico-cada-pais-1250696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cuanto-dinero-hay-tener-estar-1-rico-cada-pais-3042676.jpg?tf=1200x' alt='Cuánto dinero hay que tener para estar entre el 1% más rico, según cada país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/revolucion-coche-electrico-lista-2024-baterias-1000-km-carga-130-anos-vida-1250664'>La revolución del coche eléctrico lista para 2024: baterías con 1.000 km por carga y 130 años de vida</a></h4>
     <a href='https://computerhoy.com/motor/revolucion-coche-electrico-lista-2024-baterias-1000-km-carga-130-anos-vida-1250664' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/carga-coche-electrico-3042650.jpg?tf=1200x' alt='La revolución del coche eléctrico lista para 2024: baterías con 1.000 km por carga y 130 años de vida' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/como-convertir-cualquier-coche-caravana-muy-poco-dinero-1250050'>Carsule, el genial accesorio que te permite convertir cualquier coche en una caravana</a></h4>
     <a href='https://computerhoy.com/life/como-convertir-cualquier-coche-caravana-muy-poco-dinero-1250050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tienda-campana-carsule-3041436.jpg?tf=1200x' alt='Carsule, el genial accesorio que te permite convertir cualquier coche en una caravana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/pedro-pascal-secreto-mandalorian-solo-voz-1250688'>Pedro Pascal reconoce el secreto mejor guardado de The Mandalorian, gracias a él pudo hacer The Last of us</a></h4>
-    <a href='https://computerhoy.com/streaming/pedro-pascal-secreto-mandalorian-solo-voz-1250688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pedro-pascal-mandalorian-2966340.jpg?tf=1200x' alt='Pedro Pascal reconoce el secreto mejor guardado de The Mandalorian, gracias a él pudo hacer The Last of us' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/peor-habitacion-casa-poner-router-wifi-no-imaginas-1250680'>Esta es la peor habitación de la casa para poner el router WiFi, y no es la que imaginas</a></h4>
-    <a href='https://computerhoy.com/redes/peor-habitacion-casa-poner-router-wifi-no-imaginas-1250680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/10-objetos-todos-tenemos-casa-junto-nunca-deberias-colocar-router-wifi-2988646.jpg?tf=1200x' alt='Esta es la peor habitación de la casa para poner el router WiFi, y no es la que imaginas' />
     </a>
 </div>
 
