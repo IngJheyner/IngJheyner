@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/star-wars-lofi-musica-relajante-gratis-estudiar-trabajar-reducir-estres-1251444'>Star Wars Lofi: música relajante gratis para estudiar, trabajar o reducir el estrés</a></h4>
+    <a href='https://computerhoy.com/audio/star-wars-lofi-musica-relajante-gratis-estudiar-trabajar-reducir-estres-1251444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/star-wars-lofi-musica-relajante-gratis-estudiar-trabajar-reducir-estres-3043912.jpg?tf=1200x' alt='Star Wars Lofi: música relajante gratis para estudiar, trabajar o reducir el estrés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/tesla-model-y-coche-mas-vendido-mundo-2023-1251254'>Tesla Model Y alcanza un hito: es el coche más vendido del mundo en 2023</a></h4>
     <a href='https://computerhoy.com/motor/tesla-model-y-coche-mas-vendido-mundo-2023-1251254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tesla-model-2850239.jpg?tf=1200x' alt='Tesla Model Y alcanza un hito: es el coche más vendido del mundo en 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ilusion-optica-convierte-personas-guapas-engendros-1251244'>La ilusión óptica que convierte a personas guapas en engendros, y nadie sabe por qué</a></h4>
     <a href='https://computerhoy.com/life/ilusion-optica-convierte-personas-guapas-engendros-1251244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1685125608350-3043616.jpg?tf=1200x' alt='La ilusión óptica que convierte a personas guapas en engendros, y nadie sabe por qué' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubren-nuevo-tipo-nubes-absolutamente-aterradoras-1251238'>Descubren un nuevo tipo de nubes absolutamente aterradoras</a></h4>
-    <a href='https://computerhoy.com/life/descubren-nuevo-tipo-nubes-absolutamente-aterradoras-1251238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/descubren-nuevo-tipo-nubes-absolutamente-aterradoras-3043636.jpg?tf=1200x' alt='Descubren un nuevo tipo de nubes absolutamente aterradoras' />
     </a>
 </div>
 
