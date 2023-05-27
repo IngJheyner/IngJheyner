@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bicicleta-ruedas-triangulares-funciona-1250936'>Es imposible, pero la bicicleta con ruedas triangulares se desliza tan bien como una estándar (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/bicicleta-ruedas-triangulares-funciona-1250936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/imposible-pero-bicicleta-ruedas-triangulares-rueda-tan-bien-como-estandar-3042912.jpg?tf=1200x' alt='Es imposible, pero la bicicleta con ruedas triangulares se desliza tan bien como una estándar (vídeo)' />
+    <h4><a href='https://computerhoy.com/tutoriales/formas-sencillas-rapidas-solucionar-casi-cualquier-problema-windows-11-1241152'>Formas sencillas y rápidas de solucionar casi cualquier problema en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/formas-sencillas-rapidas-solucionar-casi-cualquier-problema-windows-11-1241152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pantalla-azul-windows-11-2651541.jpg?tf=1200x' alt='Formas sencillas y rápidas de solucionar casi cualquier problema en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/star-wars-lofi-musica-relajante-gratis-estudiar-trabajar-reducir-estres-1251444'>Star Wars Lofi: música relajante gratis para estudiar, trabajar o reducir el estrés</a></h4>
-    <a href='https://computerhoy.com/audio/star-wars-lofi-musica-relajante-gratis-estudiar-trabajar-reducir-estres-1251444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/star-wars-lofi-musica-relajante-gratis-estudiar-trabajar-reducir-estres-3043912.jpg?tf=1200x' alt='Star Wars Lofi: música relajante gratis para estudiar, trabajar o reducir el estrés' />
+    <h4><a href='https://computerhoy.com/tecnologia/deep-learning-considera-revolucion-ia-1241180'>¿Qué es el 'Deep Learning' y por qué se considera una revolución en la inteligencia artificial?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/deep-learning-considera-revolucion-ia-1241180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1685105811739-3043450.jpg?tf=1200x' alt='¿Qué es el 'Deep Learning' y por qué se considera una revolución en la inteligencia artificial?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-model-y-coche-mas-vendido-mundo-2023-1251254'>Tesla Model Y alcanza un hito: es el coche más vendido del mundo en 2023</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-model-y-coche-mas-vendido-mundo-2023-1251254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tesla-model-2850239.jpg?tf=1200x' alt='Tesla Model Y alcanza un hito: es el coche más vendido del mundo en 2023' />
+    <h4><a href='https://computerhoy.com/tutoriales/consejos-ajustes-rapidos-acelerar-google-chrome-instante-1249870'>Consejos y ajustes rápidos para acelerar Google Chrome al instante</a></h4>
+    <a href='https://computerhoy.com/tutoriales/consejos-ajustes-rapidos-acelerar-google-chrome-instante-1249870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-chrome-2607569.jpg?tf=1200x' alt='Consejos y ajustes rápidos para acelerar Google Chrome al instante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/tienda-playstation-direct-abre-espana-1251252'>La tienda PlayStation Direct abre en España: compra tu PS5, accesorios y juegos en físico directamente a Sony</a></h4>
-    <a href='https://computerhoy.com/gaming/tienda-playstation-direct-abre-espana-1251252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tienda-playstation-direct-abre-espana-compra-ps5-accesorios-directamente-sony-3043652.jpg?tf=1200x' alt='La tienda PlayStation Direct abre en España: compra tu PS5, accesorios y juegos en físico directamente a Sony' />
+    <h4><a href='https://computerhoy.com/ciencia/demuestran-plantas-interior-devoran-toxinas-cancerigenas-aire-1251450'>Demuestran que las plantas de interior devoran las toxinas cancerígenas del aire</a></h4>
+    <a href='https://computerhoy.com/ciencia/demuestran-plantas-interior-devoran-toxinas-cancerigenas-aire-1251450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/demuestran-plantas-interior-devoran-toxinas-cancerigenas-aire-3043932.jpg?tf=1200x' alt='Demuestran que las plantas de interior devoran las toxinas cancerígenas del aire' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-nuevo-modo-lectura-inteligente-google-chrome-1251194'>Cómo activar el nuevo modo de lectura inteligente de Google Chrome</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-nuevo-modo-lectura-inteligente-google-chrome-1251194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chrome-efecto-mica-3021520.jpg?tf=1200x' alt='Cómo activar el nuevo modo de lectura inteligente de Google Chrome' />
+    <h4><a href='https://computerhoy.com/analisis/nebula-capsule-3-laser-analisis-opinion-pequeno-pero-maton-1228072'>Análisis Nebula Capsule 3 Laser, pequeño pero matón</a></h4>
+    <a href='https://computerhoy.com/analisis/nebula-capsule-3-laser-analisis-opinion-pequeno-pero-maton-1228072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nebula-capsule-3-laser-3043896.jpg?tf=1200x' alt='Análisis Nebula Capsule 3 Laser, pequeño pero matón' />
     </a>
 </div>
 
