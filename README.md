@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-robots-gigantes-no-puedes-perderte-no-son-transformers-1249988'>7 películas con robots gigantes que no puedes perderte, y no son Transformers</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-robots-gigantes-no-puedes-perderte-no-son-transformers-1249988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/pacific-rim-3041248.jpg?tf=1200x' alt='7 películas con robots gigantes que no puedes perderte, y no son Transformers' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-hara-posible-ya-no-olvides-jamas-ninguna-contrasena-wifi-1251510'>Windows 11 hará posible que ya no olvides jamás ninguna contraseña del WiFi</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-hara-posible-ya-no-olvides-jamas-ninguna-contrasena-wifi-1251510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-11-seguridad-3044022.jpg?tf=1200x' alt='Windows 11 hará posible que ya no olvides jamás ninguna contraseña del WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-dice-adios-servicio-puede-lleves-10-anos-utilizando-iphone-mac-1251482'>Apple dice adiós a un servicio que puede que lleves más de 10 años utilizando en tu iPhone y Mac</a></h4>
-    <a href='https://computerhoy.com/apple/apple-dice-adios-servicio-puede-lleves-10-anos-utilizando-iphone-mac-1251482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/my-photo-stream-3043984.jpg?tf=1200x' alt='Apple dice adiós a un servicio que puede que lleves más de 10 años utilizando en tu iPhone y Mac' />
+    <h4><a href='https://computerhoy.com/android/apps-anaden-funciones-sorprendentes-movil-android-1239388'>Apps que añaden funciones sorprendentes a tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/android/apps-anaden-funciones-sorprendentes-movil-android-1239388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-13-xiaomi-13-pro-analisis-opinion-2985138.jpg?tf=1200x' alt='Apps que añaden funciones sorprendentes a tu móvil Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/adios-whatsapp-1247070'>Adiós al tú a tú: WhatsApp está destruyendo la poca interacción que nos queda</a></h4>
-    <a href='https://computerhoy.com/apps/adios-whatsapp-1247070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/adios-whatsapp-destruyendo-poca-interaccion-nos-queda-3037130.jpg?tf=1200x' alt='Adiós al tú a tú: WhatsApp está destruyendo la poca interacción que nos queda' />
+    <h4><a href='https://computerhoy.com/apps/google-renueva-visualmente-modo-ahorro-memoria-controles-multimedia-chrome-1251500'>Google renueva visualmente el modo de ahorro de memoria y los controles multimedia de Chrome</a></h4>
+    <a href='https://computerhoy.com/apps/google-renueva-visualmente-modo-ahorro-memoria-controles-multimedia-chrome-1251500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Google renueva visualmente el modo de ahorro de memoria y los controles multimedia de Chrome' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/huella-digital-casi-imposible-desaparecer-internet-1248672'>Analizando tu huella digital: ¿por qué es casi imposible desaparecer de Internet?</a></h4>
-    <a href='https://computerhoy.com/internet/huella-digital-casi-imposible-desaparecer-internet-1248672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/analizando-huella-digital-casi-imposible-desaparecer-internet-3040268.jpg?tf=1200x' alt='Analizando tu huella digital: ¿por qué es casi imposible desaparecer de Internet?' />
+    <h4><a href='https://computerhoy.com/streaming/he-dejado-pagar-suscripcion-netflix-me-arrepiento-1251050'>He dejado de pagar la suscripción a Netflix y ¿me estoy arrepintiendo? </a></h4>
+    <a href='https://computerhoy.com/streaming/he-dejado-pagar-suscripcion-netflix-me-arrepiento-1251050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/he-dejado-pagar-suscripcion-netflix-me-estoy-arrepintiendo-3043230.jpg?tf=1200x' alt='He dejado de pagar la suscripción a Netflix y ¿me estoy arrepintiendo? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/formas-sencillas-rapidas-solucionar-casi-cualquier-problema-windows-11-1241152'>Formas sencillas y rápidas de solucionar casi cualquier problema en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/formas-sencillas-rapidas-solucionar-casi-cualquier-problema-windows-11-1241152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pantalla-azul-windows-11-2651541.jpg?tf=1200x' alt='Formas sencillas y rápidas de solucionar casi cualquier problema en Windows 11' />
+    <h4><a href='https://computerhoy.com/windows/nuevo-modo-rendimiento-puedes-aprovechar-microsoft-defender-windows-11-1251492'>Este es el nuevo modo de rendimiento que puedes aprovechar para Microsoft Defender en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/nuevo-modo-rendimiento-puedes-aprovechar-microsoft-defender-windows-11-1251492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg?tf=1200x' alt='Este es el nuevo modo de rendimiento que puedes aprovechar para Microsoft Defender en Windows 11' />
     </a>
 </div>
 
