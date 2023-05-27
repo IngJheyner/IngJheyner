@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-robots-gigantes-no-puedes-perderte-no-son-transformers-1249988'>7 películas con robots gigantes que no puedes perderte, y no son Transformers</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-robots-gigantes-no-puedes-perderte-no-son-transformers-1249988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/pacific-rim-3041248.jpg?tf=1200x' alt='7 películas con robots gigantes que no puedes perderte, y no son Transformers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-dice-adios-servicio-puede-lleves-10-anos-utilizando-iphone-mac-1251482'>Apple dice adiós a un servicio que puede que lleves más de 10 años utilizando en tu iPhone y Mac</a></h4>
+    <a href='https://computerhoy.com/apple/apple-dice-adios-servicio-puede-lleves-10-anos-utilizando-iphone-mac-1251482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/my-photo-stream-3043984.jpg?tf=1200x' alt='Apple dice adiós a un servicio que puede que lleves más de 10 años utilizando en tu iPhone y Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/adios-whatsapp-1247070'>Adiós al tú a tú: WhatsApp está destruyendo la poca interacción que nos queda</a></h4>
+    <a href='https://computerhoy.com/apps/adios-whatsapp-1247070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/adios-whatsapp-destruyendo-poca-interaccion-nos-queda-3037130.jpg?tf=1200x' alt='Adiós al tú a tú: WhatsApp está destruyendo la poca interacción que nos queda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/huella-digital-casi-imposible-desaparecer-internet-1248672'>Analizando tu huella digital: ¿por qué es casi imposible desaparecer de Internet?</a></h4>
+    <a href='https://computerhoy.com/internet/huella-digital-casi-imposible-desaparecer-internet-1248672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/analizando-huella-digital-casi-imposible-desaparecer-internet-3040268.jpg?tf=1200x' alt='Analizando tu huella digital: ¿por qué es casi imposible desaparecer de Internet?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/formas-sencillas-rapidas-solucionar-casi-cualquier-problema-windows-11-1241152'>Formas sencillas y rápidas de solucionar casi cualquier problema en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/formas-sencillas-rapidas-solucionar-casi-cualquier-problema-windows-11-1241152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/pantalla-azul-windows-11-2651541.jpg?tf=1200x' alt='Formas sencillas y rápidas de solucionar casi cualquier problema en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/deep-learning-considera-revolucion-ia-1241180'>¿Qué es el 'Deep Learning' y por qué se considera una revolución en la inteligencia artificial?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/deep-learning-considera-revolucion-ia-1241180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1685105811739-3043450.jpg?tf=1200x' alt='¿Qué es el 'Deep Learning' y por qué se considera una revolución en la inteligencia artificial?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/consejos-ajustes-rapidos-acelerar-google-chrome-instante-1249870'>Consejos y ajustes rápidos para acelerar Google Chrome al instante</a></h4>
-    <a href='https://computerhoy.com/tutoriales/consejos-ajustes-rapidos-acelerar-google-chrome-instante-1249870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-chrome-2607569.jpg?tf=1200x' alt='Consejos y ajustes rápidos para acelerar Google Chrome al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/demuestran-plantas-interior-devoran-toxinas-cancerigenas-aire-1251450'>Demuestran que las plantas de interior devoran las toxinas cancerígenas del aire</a></h4>
-    <a href='https://computerhoy.com/ciencia/demuestran-plantas-interior-devoran-toxinas-cancerigenas-aire-1251450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/demuestran-plantas-interior-devoran-toxinas-cancerigenas-aire-3043932.jpg?tf=1200x' alt='Demuestran que las plantas de interior devoran las toxinas cancerígenas del aire' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/nebula-capsule-3-laser-analisis-opinion-pequeno-pero-maton-1228072'>Análisis Nebula Capsule 3 Laser, pequeño pero matón</a></h4>
-    <a href='https://computerhoy.com/analisis/nebula-capsule-3-laser-analisis-opinion-pequeno-pero-maton-1228072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nebula-capsule-3-laser-3043896.jpg?tf=1200x' alt='Análisis Nebula Capsule 3 Laser, pequeño pero matón' />
     </a>
 </div>
 
