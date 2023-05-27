@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/bicicleta-ruedas-triangulares-funciona-1250936'>Es imposible, pero la bicicleta con ruedas triangulares se desliza tan bien como una estándar (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/bicicleta-ruedas-triangulares-funciona-1250936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/imposible-pero-bicicleta-ruedas-triangulares-rueda-tan-bien-como-estandar-3042912.jpg?tf=1200x' alt='Es imposible, pero la bicicleta con ruedas triangulares se desliza tan bien como una estándar (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/star-wars-lofi-musica-relajante-gratis-estudiar-trabajar-reducir-estres-1251444'>Star Wars Lofi: música relajante gratis para estudiar, trabajar o reducir el estrés</a></h4>
     <a href='https://computerhoy.com/audio/star-wars-lofi-musica-relajante-gratis-estudiar-trabajar-reducir-estres-1251444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/star-wars-lofi-musica-relajante-gratis-estudiar-trabajar-reducir-estres-3043912.jpg?tf=1200x' alt='Star Wars Lofi: música relajante gratis para estudiar, trabajar o reducir el estrés' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-activar-nuevo-modo-lectura-inteligente-google-chrome-1251194'>Cómo activar el nuevo modo de lectura inteligente de Google Chrome</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-activar-nuevo-modo-lectura-inteligente-google-chrome-1251194' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chrome-efecto-mica-3021520.jpg?tf=1200x' alt='Cómo activar el nuevo modo de lectura inteligente de Google Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ilusion-optica-convierte-personas-guapas-engendros-1251244'>La ilusión óptica que convierte a personas guapas en engendros, y nadie sabe por qué</a></h4>
-    <a href='https://computerhoy.com/life/ilusion-optica-convierte-personas-guapas-engendros-1251244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/verticalimage1685125608350-3043616.jpg?tf=1200x' alt='La ilusión óptica que convierte a personas guapas en engendros, y nadie sabe por qué' />
     </a>
 </div>
 
