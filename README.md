@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tesla-model-y-coche-mas-vendido-mundo-2023-1251254'>Tesla Model Y alcanza un hito: es el coche más vendido del mundo en 2023</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-model-y-coche-mas-vendido-mundo-2023-1251254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tesla-model-2850239.jpg?tf=1200x' alt='Tesla Model Y alcanza un hito: es el coche más vendido del mundo en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/tienda-playstation-direct-abre-espana-1251252'>La tienda PlayStation Direct abre en España: compra tu PS5, accesorios y juegos en físico directamente a Sony</a></h4>
     <a href='https://computerhoy.com/gaming/tienda-playstation-direct-abre-espana-1251252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tienda-playstation-direct-abre-espana-compra-ps5-accesorios-directamente-sony-3043652.jpg?tf=1200x' alt='La tienda PlayStation Direct abre en España: compra tu PS5, accesorios y juegos en físico directamente a Sony' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/descubren-nuevo-tipo-nubes-absolutamente-aterradoras-1251238'>Descubren un nuevo tipo de nubes absolutamente aterradoras</a></h4>
     <a href='https://computerhoy.com/life/descubren-nuevo-tipo-nubes-absolutamente-aterradoras-1251238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/descubren-nuevo-tipo-nubes-absolutamente-aterradoras-3043636.jpg?tf=1200x' alt='Descubren un nuevo tipo de nubes absolutamente aterradoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/extrano-rasgo-facial-solo-1-personas-padecen-mundo-1250922'>El extraño rasgo facial que solo el 1% de las personas padecen en el mundo</a></h4>
-    <a href='https://computerhoy.com/life/extrano-rasgo-facial-solo-1-personas-padecen-mundo-1250922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/heterocromia-3042898.jpg?tf=1200x' alt='El extraño rasgo facial que solo el 1% de las personas padecen en el mundo' />
     </a>
 </div>
 
