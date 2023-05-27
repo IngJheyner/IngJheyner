@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/pareja-encuentra-casa-suenos-gracias-chatgpt-1251524'>Esta pareja encuentra la casa de sus sueños gracias a ChatGPT</a></h4>
+    <a href='https://computerhoy.com/apps/pareja-encuentra-casa-suenos-gracias-chatgpt-1251524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/busqueda-casa-chatgpt-3044042.jpg?tf=1200x' alt='Esta pareja encuentra la casa de sus sueños gracias a ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ahora-acceder-correo-electronico-movil-sera-mucho-seguro-gracias-microsoft-1251522'>Ahora acceder al correo electrónico en tu móvil será mucho más seguro gracias a Microsoft</a></h4>
+    <a href='https://computerhoy.com/apps/ahora-acceder-correo-electronico-movil-sera-mucho-seguro-gracias-microsoft-1251522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/outlook-3044040.jpg?tf=1200x' alt='Ahora acceder al correo electrónico en tu móvil será mucho más seguro gracias a Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-compartir-pantalla-movil-videollamadas-1251516'>WhatsApp te permitirá compartir la pantalla de tu móvil en las videollamadas</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-compartir-pantalla-movil-videollamadas-1251516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3044036.jpg?tf=1200x' alt='WhatsApp te permitirá compartir la pantalla de tu móvil en las videollamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-hara-posible-ya-no-olvides-jamas-ninguna-contrasena-wifi-1251510'>Windows 11 hará posible que ya no olvides jamás ninguna contraseña del WiFi</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-hara-posible-ya-no-olvides-jamas-ninguna-contrasena-wifi-1251510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-11-seguridad-3044022.jpg?tf=1200x' alt='Windows 11 hará posible que ya no olvides jamás ninguna contraseña del WiFi' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/apps-anaden-funciones-sorprendentes-movil-android-1239388'>Apps que añaden funciones sorprendentes a tu móvil Android</a></h4>
     <a href='https://computerhoy.com/android/apps-anaden-funciones-sorprendentes-movil-android-1239388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-13-xiaomi-13-pro-analisis-opinion-2985138.jpg?tf=1200x' alt='Apps que añaden funciones sorprendentes a tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-renueva-visualmente-modo-ahorro-memoria-controles-multimedia-chrome-1251500'>Google renueva visualmente el modo de ahorro de memoria y los controles multimedia de Chrome</a></h4>
-    <a href='https://computerhoy.com/apps/google-renueva-visualmente-modo-ahorro-memoria-controles-multimedia-chrome-1251500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Google renueva visualmente el modo de ahorro de memoria y los controles multimedia de Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/he-dejado-pagar-suscripcion-netflix-me-arrepiento-1251050'>He dejado de pagar la suscripción a Netflix y ¿me estoy arrepintiendo? </a></h4>
-    <a href='https://computerhoy.com/streaming/he-dejado-pagar-suscripcion-netflix-me-arrepiento-1251050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/he-dejado-pagar-suscripcion-netflix-me-estoy-arrepintiendo-3043230.jpg?tf=1200x' alt='He dejado de pagar la suscripción a Netflix y ¿me estoy arrepintiendo? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nuevo-modo-rendimiento-puedes-aprovechar-microsoft-defender-windows-11-1251492'>Este es el nuevo modo de rendimiento que puedes aprovechar para Microsoft Defender en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/nuevo-modo-rendimiento-puedes-aprovechar-microsoft-defender-windows-11-1251492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg?tf=1200x' alt='Este es el nuevo modo de rendimiento que puedes aprovechar para Microsoft Defender en Windows 11' />
     </a>
 </div>
 
