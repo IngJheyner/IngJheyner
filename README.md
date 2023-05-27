@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/crean-dispositivo-genera-energia-limpia-nada-1251546'>Crean un dispositivo que genera energía limpia “de la nada”</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-dispositivo-genera-energia-limpia-nada-1251546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tormenta-electrica-3044066.jpg?tf=1200x' alt='Crean un dispositivo que genera energía limpia “de la nada”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-webs-descargar-ver-anime-gratis-forma-legal-1239576'>Las mejores webs para descargar y ver anime gratis de forma legal</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-webs-descargar-ver-anime-gratis-forma-legal-1239576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/donde-ver-anime-gratis-3025430.jpg?tf=1200x' alt='Las mejores webs para descargar y ver anime gratis de forma legal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/pareja-encuentra-casa-suenos-gracias-chatgpt-1251524'>Esta pareja encuentra la casa de sus sueños gracias a ChatGPT</a></h4>
     <a href='https://computerhoy.com/apps/pareja-encuentra-casa-suenos-gracias-chatgpt-1251524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/busqueda-casa-chatgpt-3044042.jpg?tf=1200x' alt='Esta pareja encuentra la casa de sus sueños gracias a ChatGPT' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-compartir-pantalla-movil-videollamadas-1251516'>WhatsApp te permitirá compartir la pantalla de tu móvil en las videollamadas</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-te-permitira-compartir-pantalla-movil-videollamadas-1251516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3044036.jpg?tf=1200x' alt='WhatsApp te permitirá compartir la pantalla de tu móvil en las videollamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-hara-posible-ya-no-olvides-jamas-ninguna-contrasena-wifi-1251510'>Windows 11 hará posible que ya no olvides jamás ninguna contraseña del WiFi</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-hara-posible-ya-no-olvides-jamas-ninguna-contrasena-wifi-1251510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-11-seguridad-3044022.jpg?tf=1200x' alt='Windows 11 hará posible que ya no olvides jamás ninguna contraseña del WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/apps-anaden-funciones-sorprendentes-movil-android-1239388'>Apps que añaden funciones sorprendentes a tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/android/apps-anaden-funciones-sorprendentes-movil-android-1239388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-13-xiaomi-13-pro-analisis-opinion-2985138.jpg?tf=1200x' alt='Apps que añaden funciones sorprendentes a tu móvil Android' />
     </a>
 </div>
 
