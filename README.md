@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/abogado-usa-chatgpt-caso-ia-inventa-todos-procedentes-legales-1251794'>Un abogado usa ChatGPT para un caso y la IA se inventa todos los procedentes legales</a></h4>
+    <a href='https://computerhoy.com/apps/abogado-usa-chatgpt-caso-ia-inventa-todos-procedentes-legales-1251794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/juez-robot-3044410.jpg?tf=1200x' alt='Un abogado usa ChatGPT para un caso y la IA se inventa todos los procedentes legales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/10-antivirus-gratis-windows-fiables-proteger-ordenador-1245640'>Los 10 antivirus gratis para Windows más fiables para proteger tu ordenador</a></h4>
+    <a href='https://computerhoy.com/windows/10-antivirus-gratis-windows-fiables-proteger-ordenador-1245640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/antivirus-gratis-3043256.jpg?tf=1200x' alt='Los 10 antivirus gratis para Windows más fiables para proteger tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/jersey-robots-hace-sentir-como-seres-humanos-1251782'>Este jersey para robots les hace sentir como seres humanos</a></h4>
+    <a href='https://computerhoy.com/ciencia/jersey-robots-hace-sentir-como-seres-humanos-1251782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jersey-robots-hace-sentir-como-seres-humanos-3044396.jpg?tf=1200x' alt='Este jersey para robots les hace sentir como seres humanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/elemento-sucio-puedes-encontrar-habitacion-hotel-seguro-has-tocado-muchas-veces-1251776'>Este es el elemento más sucio que puedes encontrar en una habitación de hotel, y seguro que lo has tocado muchas veces</a></h4>
     <a href='https://computerhoy.com/life/elemento-sucio-puedes-encontrar-habitacion-hotel-seguro-has-tocado-muchas-veces-1251776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/habitacion-hotel-3044390.jpg?tf=1200x' alt='Este es el elemento más sucio que puedes encontrar en una habitación de hotel, y seguro que lo has tocado muchas veces' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-probablemente-arrasaran-taquilla-verano-1246294'>6 películas que probablemente arrasarán en taquilla este verano</a></h4>
     <a href='https://computerhoy.com/entretenimiento/6-peliculas-probablemente-arrasaran-taquilla-verano-1246294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/spider-man-cruzando-multiverso-3027804.jpg?tf=1200x' alt='6 películas que probablemente arrasarán en taquilla este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/perro-robot-encarga-tareas-mantenimiento-trenes-singapur-1251770'>El perro robot que se encarga de las tareas de mantenimiento de los trenes en Singapur</a></h4>
-    <a href='https://computerhoy.com/ciencia/perro-robot-encarga-tareas-mantenimiento-trenes-singapur-1251770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/perro-robot-encarga-tareas-mantenimiento-trenes-singapur-3044382.jpg?tf=1200x' alt='El perro robot que se encarga de las tareas de mantenimiento de los trenes en Singapur' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/investigadores-utilizan-ia-crear-herramienta-convierte-lenguaje-senas-texto-1251768'>Investigadores utilizan IA para crear una herramienta que convierte lenguaje de señas en texto</a></h4>
-    <a href='https://computerhoy.com/ciencia/investigadores-utilizan-ia-crear-herramienta-convierte-lenguaje-senas-texto-1251768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lenguaje-signos-3044366.jpg?tf=1200x' alt='Investigadores utilizan IA para crear una herramienta que convierte lenguaje de señas en texto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/rumbo-descarbonizacion-hidrogeno-verde-como-gran-promesa-futuro-1248676'>Rumbo a la descarbonización: ¿el hidrógeno verde como gran promesa a futuro?</a></h4>
-    <a href='https://computerhoy.com/energia/rumbo-descarbonizacion-hidrogeno-verde-como-gran-promesa-futuro-1248676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/rumbo-descarbonizacion-hidrogeno-verde-como-gran-promesa-futuro-3040312.jpg?tf=1200x' alt='Rumbo a la descarbonización: ¿el hidrógeno verde como gran promesa a futuro?' />
     </a>
 </div>
 
