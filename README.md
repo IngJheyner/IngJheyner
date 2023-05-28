@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/maquina-expendedora-maridos-esposas-real-1250946'>En Japón existe una máquina expendedora de maridos y esposas, y es real</a></h4>
-    <a href='https://computerhoy.com/life/maquina-expendedora-maridos-esposas-real-1250946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/japon-existe-maquina-expendedora-maridos-esposas-real-3042926.jpg?tf=1200x' alt='En Japón existe una máquina expendedora de maridos y esposas, y es real' />
+    <h4><a href='https://computerhoy.com/tutoriales/razones-peso-deberias-apagar-ordenador-noches-1241472'>Razones de peso por las que deberías apagar el ordenador por las noches</a></h4>
+    <a href='https://computerhoy.com/tutoriales/razones-peso-deberias-apagar-ordenador-noches-1241472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cama-movil-ordenador-dormir-pelo-mojado-2683537.jpg?tf=1200x' alt='Razones de peso por las que deberías apagar el ordenador por las noches' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-dispositivo-genera-energia-limpia-nada-1251546'>Crean un dispositivo que genera energía limpia “de la nada”</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-dispositivo-genera-energia-limpia-nada-1251546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tormenta-electrica-3044066.jpg?tf=1200x' alt='Crean un dispositivo que genera energía limpia “de la nada”' />
+    <h4><a href='https://computerhoy.com/moviles/estas-matando-poco-poco-movil-cargas-funda-1249226'>Estás matando poco a poco a tu móvil si lo cargas con funda</a></h4>
+    <a href='https://computerhoy.com/moviles/estas-matando-poco-poco-movil-cargas-funda-1249226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/carga-3039938.jpg?tf=1200x' alt='Estás matando poco a poco a tu móvil si lo cargas con funda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-webs-descargar-ver-anime-gratis-forma-legal-1239576'>Las mejores webs para descargar y ver anime gratis de forma legal</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-webs-descargar-ver-anime-gratis-forma-legal-1239576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/donde-ver-anime-gratis-3025430.jpg?tf=1200x' alt='Las mejores webs para descargar y ver anime gratis de forma legal' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-rastreando-telefono-android-1245360'>Cómo saber si alguien está rastreando nuestro teléfono Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-alguien-rastreando-telefono-android-1245360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/espiando-movil-3033640.jpg?tf=1200x' alt='Cómo saber si alguien está rastreando nuestro teléfono Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/pareja-encuentra-casa-suenos-gracias-chatgpt-1251524'>Esta pareja encuentra la casa de sus sueños gracias a ChatGPT</a></h4>
-    <a href='https://computerhoy.com/apps/pareja-encuentra-casa-suenos-gracias-chatgpt-1251524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/busqueda-casa-chatgpt-3044042.jpg?tf=1200x' alt='Esta pareja encuentra la casa de sus sueños gracias a ChatGPT' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-casco-bomberos-definitivo-no-solo-protege-fuego-sino-tambien-balas-1251548'>Crean el casco de bomberos definitivo: no solo protege contra el fuego sino también contra las balas</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-casco-bomberos-definitivo-no-solo-protege-fuego-sino-tambien-balas-1251548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/crean-casco-bomberos-definitivo-no-solo-protege-fuego-sino-tambien-balas-3044070.jpg?tf=1200x' alt='Crean el casco de bomberos definitivo: no solo protege contra el fuego sino también contra las balas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ahora-acceder-correo-electronico-movil-sera-mucho-seguro-gracias-microsoft-1251522'>Ahora acceder al correo electrónico en tu móvil será mucho más seguro gracias a Microsoft</a></h4>
-    <a href='https://computerhoy.com/apps/ahora-acceder-correo-electronico-movil-sera-mucho-seguro-gracias-microsoft-1251522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/outlook-3044040.jpg?tf=1200x' alt='Ahora acceder al correo electrónico en tu móvil será mucho más seguro gracias a Microsoft' />
+    <h4><a href='https://computerhoy.com/tecnologia/10-tecnologias-revolucionaran-mundo-proximos-5-anos-1248738'>Las 10 tecnologías que revolucionarán el mundo en los próximos 5 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/10-tecnologias-revolucionaran-mundo-proximos-5-anos-1248738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/robots-camareros-inteligencia-artificial-3040246.jpg?tf=1200x' alt='Las 10 tecnologías que revolucionarán el mundo en los próximos 5 años' />
     </a>
 </div>
 
