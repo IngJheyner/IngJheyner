@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-informar-errores-google-maps-ayudar-otros-usuarios-1239386'>Así puedes informar errores en Google Maps y ayudar a otros usuarios</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-informar-errores-google-maps-ayudar-otros-usuarios-1239386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg?tf=1200x' alt='Así puedes informar errores en Google Maps y ayudar a otros usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/moviles-segunda-mano-1236942'>Cada vez se venden más móviles de segunda mano: estas son las mejores ofertas que hemos encontrado</a></h4>
+    <a href='https://computerhoy.com/mejores/moviles-segunda-mano-1236942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/iphone-12-pro-max-2480751.jpg?tf=1200x' alt='Cada vez se venden más móviles de segunda mano: estas son las mejores ofertas que hemos encontrado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/21-anos-despues-consiguen-crackear-algoritmo-activacion-windows-xp-1251826'>21 años después, consiguen crackear el algoritmo de activación de Windows XP</a></h4>
+    <a href='https://computerhoy.com/windows/21-anos-despues-consiguen-crackear-algoritmo-activacion-windows-xp-1251826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/windows-xp-2080659.jpg?tf=1200x' alt='21 años después, consiguen crackear el algoritmo de activación de Windows XP' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/abogado-usa-chatgpt-caso-ia-inventa-todos-procedentes-legales-1251794'>Un abogado usa ChatGPT para un caso y la IA se inventa todos los procedentes legales</a></h4>
     <a href='https://computerhoy.com/apps/abogado-usa-chatgpt-caso-ia-inventa-todos-procedentes-legales-1251794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/juez-robot-3044410.jpg?tf=1200x' alt='Un abogado usa ChatGPT para un caso y la IA se inventa todos los procedentes legales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/10-antivirus-gratis-windows-fiables-proteger-ordenador-1245640'>Los 10 antivirus gratis para Windows más fiables para proteger tu ordenador</a></h4>
     <a href='https://computerhoy.com/windows/10-antivirus-gratis-windows-fiables-proteger-ordenador-1245640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/antivirus-gratis-3043256.jpg?tf=1200x' alt='Los 10 antivirus gratis para Windows más fiables para proteger tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/jersey-robots-hace-sentir-como-seres-humanos-1251782'>Este jersey para robots les hace sentir como seres humanos</a></h4>
-    <a href='https://computerhoy.com/ciencia/jersey-robots-hace-sentir-como-seres-humanos-1251782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jersey-robots-hace-sentir-como-seres-humanos-3044396.jpg?tf=1200x' alt='Este jersey para robots les hace sentir como seres humanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/elemento-sucio-puedes-encontrar-habitacion-hotel-seguro-has-tocado-muchas-veces-1251776'>Este es el elemento más sucio que puedes encontrar en una habitación de hotel, y seguro que lo has tocado muchas veces</a></h4>
-    <a href='https://computerhoy.com/life/elemento-sucio-puedes-encontrar-habitacion-hotel-seguro-has-tocado-muchas-veces-1251776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/habitacion-hotel-3044390.jpg?tf=1200x' alt='Este es el elemento más sucio que puedes encontrar en una habitación de hotel, y seguro que lo has tocado muchas veces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-probablemente-arrasaran-taquilla-verano-1246294'>6 películas que probablemente arrasarán en taquilla este verano</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/6-peliculas-probablemente-arrasaran-taquilla-verano-1246294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/spider-man-cruzando-multiverso-3027804.jpg?tf=1200x' alt='6 películas que probablemente arrasarán en taquilla este verano' />
     </a>
 </div>
 
