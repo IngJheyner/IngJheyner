@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/netflix-anuncia-quinta-temporada-the-witcher-1251852'>Netflix no teme a los fans por la marcha de Cavill, y anuncia una quinta temporada de The Witcher</a></h4>
+    <a href='https://computerhoy.com/streaming/netflix-anuncia-quinta-temporada-the-witcher-1251852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bomba-witcher-netflix-liam-hemsworth-sustituye-henry-cavill-papel-protagonista-2857989.jpg?tf=1200x' alt='Netflix no teme a los fans por la marcha de Cavill, y anuncia una quinta temporada de The Witcher' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-bloquea-llegada-emulador-dolphin-steam-1251844'>Nintendo bloquea la llegada del emulador Dolphin a Steam</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-bloquea-llegada-emulador-dolphin-steam-1251844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nintendo-bloquea-llegada-emulador-dolphin-steam-3044542.jpg?tf=1200x' alt='Nintendo bloquea la llegada del emulador Dolphin a Steam' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/puedes-informar-errores-google-maps-ayudar-otros-usuarios-1239386'>Así puedes informar errores en Google Maps y ayudar a otros usuarios</a></h4>
     <a href='https://computerhoy.com/tutoriales/puedes-informar-errores-google-maps-ayudar-otros-usuarios-1239386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg?tf=1200x' alt='Así puedes informar errores en Google Maps y ayudar a otros usuarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/21-anos-despues-consiguen-crackear-algoritmo-activacion-windows-xp-1251826'>21 años después, consiguen crackear el algoritmo de activación de Windows XP</a></h4>
     <a href='https://computerhoy.com/windows/21-anos-despues-consiguen-crackear-algoritmo-activacion-windows-xp-1251826' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/windows-xp-2080659.jpg?tf=1200x' alt='21 años después, consiguen crackear el algoritmo de activación de Windows XP' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/abogado-usa-chatgpt-caso-ia-inventa-todos-procedentes-legales-1251794'>Un abogado usa ChatGPT para un caso y la IA se inventa todos los procedentes legales</a></h4>
-    <a href='https://computerhoy.com/apps/abogado-usa-chatgpt-caso-ia-inventa-todos-procedentes-legales-1251794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/juez-robot-3044410.jpg?tf=1200x' alt='Un abogado usa ChatGPT para un caso y la IA se inventa todos los procedentes legales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/10-antivirus-gratis-windows-fiables-proteger-ordenador-1245640'>Los 10 antivirus gratis para Windows más fiables para proteger tu ordenador</a></h4>
-    <a href='https://computerhoy.com/windows/10-antivirus-gratis-windows-fiables-proteger-ordenador-1245640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/antivirus-gratis-3043256.jpg?tf=1200x' alt='Los 10 antivirus gratis para Windows más fiables para proteger tu ordenador' />
     </a>
 </div>
 
