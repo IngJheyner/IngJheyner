@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/razones-peso-deberias-apagar-ordenador-noches-1241472'>Razones de peso por las que deberías apagar el ordenador por las noches</a></h4>
-    <a href='https://computerhoy.com/tutoriales/razones-peso-deberias-apagar-ordenador-noches-1241472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cama-movil-ordenador-dormir-pelo-mojado-2683537.jpg?tf=1200x' alt='Razones de peso por las que deberías apagar el ordenador por las noches' />
+    <h4><a href='https://computerhoy.com/life/elemento-sucio-puedes-encontrar-habitacion-hotel-seguro-has-tocado-muchas-veces-1251776'>Este es el elemento más sucio que puedes encontrar en una habitación de hotel, y seguro que lo has tocado muchas veces</a></h4>
+    <a href='https://computerhoy.com/life/elemento-sucio-puedes-encontrar-habitacion-hotel-seguro-has-tocado-muchas-veces-1251776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/habitacion-hotel-3044390.jpg?tf=1200x' alt='Este es el elemento más sucio que puedes encontrar en una habitación de hotel, y seguro que lo has tocado muchas veces' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/estas-matando-poco-poco-movil-cargas-funda-1249226'>Estás matando poco a poco a tu móvil si lo cargas con funda</a></h4>
-    <a href='https://computerhoy.com/moviles/estas-matando-poco-poco-movil-cargas-funda-1249226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/carga-3039938.jpg?tf=1200x' alt='Estás matando poco a poco a tu móvil si lo cargas con funda' />
+    <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-probablemente-arrasaran-taquilla-verano-1246294'>6 películas que probablemente arrasarán en taquilla este verano</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/6-peliculas-probablemente-arrasaran-taquilla-verano-1246294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/spider-man-cruzando-multiverso-3027804.jpg?tf=1200x' alt='6 películas que probablemente arrasarán en taquilla este verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-rastreando-telefono-android-1245360'>Cómo saber si alguien está rastreando nuestro teléfono Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-alguien-rastreando-telefono-android-1245360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/espiando-movil-3033640.jpg?tf=1200x' alt='Cómo saber si alguien está rastreando nuestro teléfono Android' />
+    <h4><a href='https://computerhoy.com/ciencia/perro-robot-encarga-tareas-mantenimiento-trenes-singapur-1251770'>El perro robot que se encarga de las tareas de mantenimiento de los trenes en Singapur</a></h4>
+    <a href='https://computerhoy.com/ciencia/perro-robot-encarga-tareas-mantenimiento-trenes-singapur-1251770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/perro-robot-encarga-tareas-mantenimiento-trenes-singapur-3044382.jpg?tf=1200x' alt='El perro robot que se encarga de las tareas de mantenimiento de los trenes en Singapur' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-casco-bomberos-definitivo-no-solo-protege-fuego-sino-tambien-balas-1251548'>Crean el casco de bomberos definitivo: no solo protege contra el fuego sino también contra las balas</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-casco-bomberos-definitivo-no-solo-protege-fuego-sino-tambien-balas-1251548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/crean-casco-bomberos-definitivo-no-solo-protege-fuego-sino-tambien-balas-3044070.jpg?tf=1200x' alt='Crean el casco de bomberos definitivo: no solo protege contra el fuego sino también contra las balas' />
+    <h4><a href='https://computerhoy.com/ciencia/investigadores-utilizan-ia-crear-herramienta-convierte-lenguaje-senas-texto-1251768'>Investigadores utilizan IA para crear una herramienta que convierte lenguaje de señas en texto</a></h4>
+    <a href='https://computerhoy.com/ciencia/investigadores-utilizan-ia-crear-herramienta-convierte-lenguaje-senas-texto-1251768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lenguaje-signos-3044366.jpg?tf=1200x' alt='Investigadores utilizan IA para crear una herramienta que convierte lenguaje de señas en texto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/10-tecnologias-revolucionaran-mundo-proximos-5-anos-1248738'>Las 10 tecnologías que revolucionarán el mundo en los próximos 5 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/10-tecnologias-revolucionaran-mundo-proximos-5-anos-1248738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/robots-camareros-inteligencia-artificial-3040246.jpg?tf=1200x' alt='Las 10 tecnologías que revolucionarán el mundo en los próximos 5 años' />
+    <h4><a href='https://computerhoy.com/energia/rumbo-descarbonizacion-hidrogeno-verde-como-gran-promesa-futuro-1248676'>Rumbo a la descarbonización: ¿el hidrógeno verde como gran promesa a futuro?</a></h4>
+    <a href='https://computerhoy.com/energia/rumbo-descarbonizacion-hidrogeno-verde-como-gran-promesa-futuro-1248676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/rumbo-descarbonizacion-hidrogeno-verde-como-gran-promesa-futuro-3040312.jpg?tf=1200x' alt='Rumbo a la descarbonización: ¿el hidrógeno verde como gran promesa a futuro?' />
     </a>
 </div>
 
