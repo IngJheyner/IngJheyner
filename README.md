@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/maquina-expendedora-maridos-esposas-real-1250946'>En Japón existe una máquina expendedora de maridos y esposas, y es real</a></h4>
+    <a href='https://computerhoy.com/life/maquina-expendedora-maridos-esposas-real-1250946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/japon-existe-maquina-expendedora-maridos-esposas-real-3042926.jpg?tf=1200x' alt='En Japón existe una máquina expendedora de maridos y esposas, y es real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/crean-dispositivo-genera-energia-limpia-nada-1251546'>Crean un dispositivo que genera energía limpia “de la nada”</a></h4>
     <a href='https://computerhoy.com/ciencia/crean-dispositivo-genera-energia-limpia-nada-1251546' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tormenta-electrica-3044066.jpg?tf=1200x' alt='Crean un dispositivo que genera energía limpia “de la nada”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ahora-acceder-correo-electronico-movil-sera-mucho-seguro-gracias-microsoft-1251522'>Ahora acceder al correo electrónico en tu móvil será mucho más seguro gracias a Microsoft</a></h4>
     <a href='https://computerhoy.com/apps/ahora-acceder-correo-electronico-movil-sera-mucho-seguro-gracias-microsoft-1251522' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/outlook-3044040.jpg?tf=1200x' alt='Ahora acceder al correo electrónico en tu móvil será mucho más seguro gracias a Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-compartir-pantalla-movil-videollamadas-1251516'>WhatsApp te permitirá compartir la pantalla de tu móvil en las videollamadas</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-compartir-pantalla-movil-videollamadas-1251516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3044036.jpg?tf=1200x' alt='WhatsApp te permitirá compartir la pantalla de tu móvil en las videollamadas' />
     </a>
 </div>
 
