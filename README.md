@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/realme-book-prime-portatil-ultraligero-oferta-1252222'>Ultraligero, rápido y por 400€ menos: Realme Book Prime es el portátil para estudiantes perfecto</a></h4>
+    <a href='https://computerhoy.com/pc/realme-book-prime-portatil-ultraligero-oferta-1252222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/realme-book-prime-3045204.jpg?tf=1200x' alt='Ultraligero, rápido y por 400€ menos: Realme Book Prime es el portátil para estudiantes perfecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/nvidia-anuncia-nuevo-superordenador-busca-elevar-chatgpt-maxima-potencia-1252214'>NVIDIA anuncia un nuevo superordenador que busca elevar ChatGPT o Bard a la máxima potencia </a></h4>
+    <a href='https://computerhoy.com/pc/nvidia-anuncia-nuevo-superordenador-busca-elevar-chatgpt-maxima-potencia-1252214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nvidia-anuncia-nuevo-superordenador-busca-elevar-chatgpt-bard-maxima-potencia-3045190.jpg?tf=1200x' alt='NVIDIA anuncia un nuevo superordenador que busca elevar ChatGPT o Bard a la máxima potencia ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/control-crucero-realmente-ahorra-gasolina-solo-engano-1251448'>¿El control de crucero realmente ahorra gasolina o solo es un engaño?</a></h4>
     <a href='https://computerhoy.com/motor/control-crucero-realmente-ahorra-gasolina-solo-engano-1251448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mujer-conduciendo-3045180.jpg?tf=1200x' alt='¿El control de crucero realmente ahorra gasolina o solo es un engaño?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/gopro-hero-9-camara-accion-vacaciones-deportes-oferta-1252152'>GoPro HERO 9 a su mínimo histórico: esta es la cámara que te tienes que llevar a la playa</a></h4>
     <a href='https://computerhoy.com/noticias/gopro-hero-9-camara-accion-vacaciones-deportes-oferta-1252152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/gopro-hero-9-3045128.jpg?tf=1200x' alt='GoPro HERO 9 a su mínimo histórico: esta es la cámara que te tienes que llevar a la playa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cajas-negras-tambien-existen-inteligencia-artificial-no-sirven-piensas-1252150'>Las cajas negras también existen en inteligencia artificial y no sirven para lo que piensas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cajas-negras-tambien-existen-inteligencia-artificial-no-sirven-piensas-1252150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cajas-negras-tambien-existen-inteligencia-artificial-no-sirven-piensas-3045036.jpg?tf=1200x' alt='Las cajas negras también existen en inteligencia artificial y no sirven para lo que piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/arm-da-todo-como-sera-snapdragon-8-gen-3-dimensity-9300-futuro-1252116'>ARM lo da todo: así es como será el Snapdragon 8 Gen 3 o Dimensity 9300 del futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/arm-da-todo-como-sera-snapdragon-8-gen-3-dimensity-9300-futuro-1252116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/arm-da-todo-como-sera-snapdragon-8-gen-3-dimensity-9300-futuro-3045000.jpg?tf=1200x' alt='ARM lo da todo: así es como será el Snapdragon 8 Gen 3 o Dimensity 9300 del futuro' />
     </a>
 </div>
 
