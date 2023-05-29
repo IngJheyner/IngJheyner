@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/vestido-princesa-leia-star-wars-subasta-2-millones-dolares-1251868'>El vestido de la Princesa Leia en Star Wars sale a subasta, podría alcanzar los 2 millones de dólares</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/vestido-princesa-leia-star-wars-subasta-2-millones-dolares-1251868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/vestido-princesa-leia-star-wars-sale-subasta-podria-alcanzar-2-millones-euros-3044596.jpg?tf=1200x' alt='El vestido de la Princesa Leia en Star Wars sale a subasta, podría alcanzar los 2 millones de dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/miura-1-primer-cohete-espacial-espanol-punto-despegar-1251862'>Miura 1, el primer cohete espacial español, está a punto de despegar del Puerto Espacial de Huelva</a></h4>
+    <a href='https://computerhoy.com/espacio/miura-1-primer-cohete-espacial-espanol-punto-despegar-1251862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/miura-1-primer-cohete-espacial-espanol-punto-despegar-puerto-espacial-huelva-3044588.jpg?tf=1200x' alt='Miura 1, el primer cohete espacial español, está a punto de despegar del Puerto Espacial de Huelva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/netflix-anuncia-quinta-temporada-the-witcher-1251852'>Netflix no teme a los fans por la marcha de Cavill, y anuncia una quinta temporada de The Witcher</a></h4>
     <a href='https://computerhoy.com/streaming/netflix-anuncia-quinta-temporada-the-witcher-1251852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bomba-witcher-netflix-liam-hemsworth-sustituye-henry-cavill-papel-protagonista-2857989.jpg?tf=1200x' alt='Netflix no teme a los fans por la marcha de Cavill, y anuncia una quinta temporada de The Witcher' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/puedes-informar-errores-google-maps-ayudar-otros-usuarios-1239386'>Así puedes informar errores en Google Maps y ayudar a otros usuarios</a></h4>
     <a href='https://computerhoy.com/tutoriales/puedes-informar-errores-google-maps-ayudar-otros-usuarios-1239386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg?tf=1200x' alt='Así puedes informar errores en Google Maps y ayudar a otros usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/moviles-segunda-mano-1236942'>Cada vez se venden más móviles de segunda mano: estas son las mejores ofertas que hemos encontrado</a></h4>
-    <a href='https://computerhoy.com/mejores/moviles-segunda-mano-1236942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/iphone-12-pro-max-2480751.jpg?tf=1200x' alt='Cada vez se venden más móviles de segunda mano: estas son las mejores ofertas que hemos encontrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/21-anos-despues-consiguen-crackear-algoritmo-activacion-windows-xp-1251826'>21 años después, consiguen crackear el algoritmo de activación de Windows XP</a></h4>
-    <a href='https://computerhoy.com/windows/21-anos-despues-consiguen-crackear-algoritmo-activacion-windows-xp-1251826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/windows-xp-2080659.jpg?tf=1200x' alt='21 años después, consiguen crackear el algoritmo de activación de Windows XP' />
     </a>
 </div>
 
