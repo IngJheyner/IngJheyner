@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/gopro-hero-9-camara-accion-vacaciones-deportes-oferta-1252152'>GoPro HERO 9 a su mínimo histórico: esta es la cámara que te tienes que llevar a la playa</a></h4>
+    <a href='https://computerhoy.com/noticias/gopro-hero-9-camara-accion-vacaciones-deportes-oferta-1252152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/gopro-hero-9-3045128.jpg?tf=1200x' alt='GoPro HERO 9 a su mínimo histórico: esta es la cámara que te tienes que llevar a la playa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cajas-negras-tambien-existen-inteligencia-artificial-no-sirven-piensas-1252150'>Las cajas negras también existen en inteligencia artificial y no sirven para lo que piensas</a></h4>
     <a href='https://computerhoy.com/tecnologia/cajas-negras-tambien-existen-inteligencia-artificial-no-sirven-piensas-1252150' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cajas-negras-tambien-existen-inteligencia-artificial-no-sirven-piensas-3045036.jpg?tf=1200x' alt='Las cajas negras también existen en inteligencia artificial y no sirven para lo que piensas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/funciona-seleccion-natural-mercado-smartphones-actual-1249978'>La caída de ventas de móviles es como la selección natural: Apple y Samsung son los más fuertes y están aprovechándolo para dominar en el largo plazo</a></h4>
     <a href='https://computerhoy.com/moviles/funciona-seleccion-natural-mercado-smartphones-actual-1249978' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/caida-ventas-moviles-3043522.jpg?tf=1200x' alt='La caída de ventas de móviles es como la selección natural: Apple y Samsung son los más fuertes y están aprovechándolo para dominar en el largo plazo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bicicleta-electrica-montana-moma-bikes-mas-vendida-amazon-1251136'>¿Qué tiene esta bicicleta eléctrica Moma Bikes que es la más vendida en Amazon?</a></h4>
-    <a href='https://computerhoy.com/life/bicicleta-electrica-montana-moma-bikes-mas-vendida-amazon-1251136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mtb-29-full-suspension-3043374.jpg?tf=1200x' alt='¿Qué tiene esta bicicleta eléctrica Moma Bikes que es la más vendida en Amazon?' />
     </a>
 </div>
 
