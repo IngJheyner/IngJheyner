@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-tener-android-auto-cualquier-coche-car-launcher-1251232'>Cómo tener Android Auto en cualquier coche con Car Launcher</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-tener-android-auto-cualquier-coche-car-launcher-1251232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/car-launcher-3043682.jpg?tf=1200x' alt='Cómo tener Android Auto en cualquier coche con Car Launcher' />
+    <h4><a href='https://computerhoy.com/internet/internet-archive-colapsado-culpa-tiene-ia-proceso-entrenamiento-1252426'>The Internet Archive está colapsado y la culpa la tiene una IA en proceso de entrenamiento</a></h4>
+    <a href='https://computerhoy.com/internet/internet-archive-colapsado-culpa-tiene-ia-proceso-entrenamiento-1252426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-como-arma-doble-filo-ciberataques-sofisticados-pero-sistemas-mejorados-3031516.jpg?tf=1200x' alt='The Internet Archive está colapsado y la culpa la tiene una IA en proceso de entrenamiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/puedes-comprobar-android-tv-libre-malware-instalado-fabrica-1252328'>Así puedes comprobar si tu Android TV está libre de malware instalado de fábrica</a></h4>
-    <a href='https://computerhoy.com/android/puedes-comprobar-android-tv-libre-malware-instalado-fabrica-1252328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-2020-2120029.jpg?tf=1200x' alt='Así puedes comprobar si tu Android TV está libre de malware instalado de fábrica' />
+    <h4><a href='https://computerhoy.com/streaming/movistar-plus-estrena-canal-gratuito-vacaciones-por-m-plus-1252434'>Movistar Plus+ estrena un canal gratuito para este verano, Vacaciones con M+</a></h4>
+    <a href='https://computerhoy.com/streaming/movistar-plus-estrena-canal-gratuito-vacaciones-por-m-plus-1252434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/movistar-plus-estrena-canal-gratuito-verano-3045544.jpg?tf=1200x' alt='Movistar Plus+ estrena un canal gratuito para este verano, Vacaciones con M+' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s23-ultra-s22-watch5-ofertas-amazon-1252358'>Samsung tira la casa por la ventana: Galaxy S23 Ultra, Galaxy S22, Galaxy Watch5 o Galaxy Z Flip4 con enormes descuentos</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-galaxy-s23-ultra-s22-watch5-ofertas-amazon-1252358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/impresiones-samsung-galaxy-s23-ultra-2943578.jpg?tf=1200x' alt='Samsung tira la casa por la ventana: Galaxy S23 Ultra, Galaxy S22, Galaxy Watch5 o Galaxy Z Flip4 con enormes descuentos' />
+    <h4><a href='https://computerhoy.com/motor/pueden-multarte-circular-luz-interior-coche-encendida-1251446'>¿Pueden multarte por circular con la luz interior del coche encendida?</a></h4>
+    <a href='https://computerhoy.com/motor/pueden-multarte-circular-luz-interior-coche-encendida-1251446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/luz-interior-coche-3045192.jpg?tf=1200x' alt='¿Pueden multarte por circular con la luz interior del coche encendida?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/usos-geniales-puertos-usb-smart-tv-seguramente-no-conoces-1251216'>Usos geniales de los puertos USB de tu Smart TV que seguramente no conoces</a></h4>
-    <a href='https://computerhoy.com/tv/usos-geniales-puertos-usb-smart-tv-seguramente-no-conoces-1251216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/philips-oled-807-analisis-opinion-2861105.jpg?tf=1200x' alt='Usos geniales de los puertos USB de tu Smart TV que seguramente no conoces' />
+    <h4><a href='https://computerhoy.com/espacio/emiratos-arabes-quiere-obtener-recursos-asteroides-plan-conseguirlo-1252330'>Emiratos Árabes quiere obtener recursos de los asteroides y este su plan para conseguirlo</a></h4>
+    <a href='https://computerhoy.com/espacio/emiratos-arabes-quiere-obtener-recursos-asteroides-plan-conseguirlo-1252330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/emiratos-arabes-quiere-obtener-recursos-asteroides-plan-conseguirlo-3045468.jpg?tf=1200x' alt='Emiratos Árabes quiere obtener recursos de los asteroides y este su plan para conseguirlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/lista-moviles-dejaran-ser-compatibles-whatsapp-1-junio-1252324'>Lista de móviles que dejarán de ser compatibles con WhatsApp el 1 de junio</a></h4>
-    <a href='https://computerhoy.com/moviles/lista-moviles-dejaran-ser-compatibles-whatsapp-1-junio-1252324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-estrena-chat-oficial-resolver-dudas-recibir-ayuda-2992604.jpg?tf=1200x' alt='Lista de móviles que dejarán de ser compatibles con WhatsApp el 1 de junio' />
+    <h4><a href='https://computerhoy.com/espacio/japon-intentara-transportar-energia-solar-espacio-2025-1252364'>El plan de Japón contra la crisis energética: granjas solares en el espacio para 2025</a></h4>
+    <a href='https://computerhoy.com/espacio/japon-intentara-transportar-energia-solar-espacio-2025-1252364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/granjas-solares-japon-3045438.jpg?tf=1200x' alt='El plan de Japón contra la crisis energética: granjas solares en el espacio para 2025' />
     </a>
 </div>
 
