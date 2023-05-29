@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/bicicleta-electrica-montana-moma-bikes-mas-vendida-amazon-1251136'>¿Qué tiene esta bicicleta eléctrica Moma Bikes que es la más vendida en Amazon?</a></h4>
+    <a href='https://computerhoy.com/life/bicicleta-electrica-montana-moma-bikes-mas-vendida-amazon-1251136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mtb-29-full-suspension-3043374.jpg?tf=1200x' alt='¿Qué tiene esta bicicleta eléctrica Moma Bikes que es la más vendida en Amazon?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/vestido-princesa-leia-star-wars-subasta-2-millones-dolares-1251868'>El vestido de la Princesa Leia en Star Wars sale a subasta, podría alcanzar los 2 millones de dólares</a></h4>
     <a href='https://computerhoy.com/entretenimiento/vestido-princesa-leia-star-wars-subasta-2-millones-dolares-1251868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/vestido-princesa-leia-star-wars-sale-subasta-podria-alcanzar-2-millones-euros-3044596.jpg?tf=1200x' alt='El vestido de la Princesa Leia en Star Wars sale a subasta, podría alcanzar los 2 millones de dólares' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/nintendo-bloquea-llegada-emulador-dolphin-steam-1251844'>Nintendo bloquea la llegada del emulador Dolphin a Steam</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-bloquea-llegada-emulador-dolphin-steam-1251844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nintendo-bloquea-llegada-emulador-dolphin-steam-3044542.jpg?tf=1200x' alt='Nintendo bloquea la llegada del emulador Dolphin a Steam' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-informar-errores-google-maps-ayudar-otros-usuarios-1239386'>Así puedes informar errores en Google Maps y ayudar a otros usuarios</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-informar-errores-google-maps-ayudar-otros-usuarios-1239386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg?tf=1200x' alt='Así puedes informar errores en Google Maps y ayudar a otros usuarios' />
     </a>
 </div>
 
