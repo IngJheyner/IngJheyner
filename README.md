@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/control-crucero-realmente-ahorra-gasolina-solo-engano-1251448'>¿El control de crucero realmente ahorra gasolina o solo es un engaño?</a></h4>
+    <a href='https://computerhoy.com/motor/control-crucero-realmente-ahorra-gasolina-solo-engano-1251448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mujer-conduciendo-3045180.jpg?tf=1200x' alt='¿El control de crucero realmente ahorra gasolina o solo es un engaño?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/oppo-a98-5g-aterriza-espana-bateria-nivel-moviles-top-1252202'>OPPO A98 5G aterriza en España: batería de 5.000 mAh al nivel de los móviles más top</a></h4>
     <a href='https://computerhoy.com/moviles/oppo-a98-5g-aterriza-espana-bateria-nivel-moviles-top-1252202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/oppo-a98-5g-aterriza-espana-bateria-5000-mah-nivel-moviles-top-3045194.jpg?tf=1200x' alt='OPPO A98 5G aterriza en España: batería de 5.000 mAh al nivel de los móviles más top' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/arm-da-todo-como-sera-snapdragon-8-gen-3-dimensity-9300-futuro-1252116'>ARM lo da todo: así es como será el Snapdragon 8 Gen 3 o Dimensity 9300 del futuro</a></h4>
     <a href='https://computerhoy.com/tecnologia/arm-da-todo-como-sera-snapdragon-8-gen-3-dimensity-9300-futuro-1252116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/arm-da-todo-como-sera-snapdragon-8-gen-3-dimensity-9300-futuro-3045000.jpg?tf=1200x' alt='ARM lo da todo: así es como será el Snapdragon 8 Gen 3 o Dimensity 9300 del futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/problemas-drenaje-bateria-debido-ios-165-no-te-preocupes-tiene-explicacion-1252106'>¿Problemas de drenaje de batería debido a iOS 16.5? No te preocupes, tiene una explicación</a></h4>
-    <a href='https://computerhoy.com/apple/problemas-drenaje-bateria-debido-ios-165-no-te-preocupes-tiene-explicacion-1252106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/problemas-drenaje-bateria-debido-ios-165-no-te-preocupes-tiene-explicacion-3044866.jpg?tf=1200x' alt='¿Problemas de drenaje de batería debido a iOS 16.5? No te preocupes, tiene una explicación' />
     </a>
 </div>
 
