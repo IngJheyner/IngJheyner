@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/oppo-a98-5g-aterriza-espana-bateria-nivel-moviles-top-1252202'>OPPO A98 5G aterriza en España: batería de 5.000 mAh al nivel de los móviles más top</a></h4>
+    <a href='https://computerhoy.com/moviles/oppo-a98-5g-aterriza-espana-bateria-nivel-moviles-top-1252202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/oppo-a98-5g-aterriza-espana-bateria-5000-mah-nivel-moviles-top-3045194.jpg?tf=1200x' alt='OPPO A98 5G aterriza en España: batería de 5.000 mAh al nivel de los móviles más top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/gopro-hero-9-camara-accion-vacaciones-deportes-oferta-1252152'>GoPro HERO 9 a su mínimo histórico: esta es la cámara que te tienes que llevar a la playa</a></h4>
     <a href='https://computerhoy.com/noticias/gopro-hero-9-camara-accion-vacaciones-deportes-oferta-1252152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/gopro-hero-9-3045128.jpg?tf=1200x' alt='GoPro HERO 9 a su mínimo histórico: esta es la cámara que te tienes que llevar a la playa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/problemas-drenaje-bateria-debido-ios-165-no-te-preocupes-tiene-explicacion-1252106'>¿Problemas de drenaje de batería debido a iOS 16.5? No te preocupes, tiene una explicación</a></h4>
     <a href='https://computerhoy.com/apple/problemas-drenaje-bateria-debido-ios-165-no-te-preocupes-tiene-explicacion-1252106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/problemas-drenaje-bateria-debido-ios-165-no-te-preocupes-tiene-explicacion-3044866.jpg?tf=1200x' alt='¿Problemas de drenaje de batería debido a iOS 16.5? No te preocupes, tiene una explicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/funciona-seleccion-natural-mercado-smartphones-actual-1249978'>La caída de ventas de móviles es como la selección natural: Apple y Samsung son los más fuertes y están aprovechándolo para dominar en el largo plazo</a></h4>
-    <a href='https://computerhoy.com/moviles/funciona-seleccion-natural-mercado-smartphones-actual-1249978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/caida-ventas-moviles-3043522.jpg?tf=1200x' alt='La caída de ventas de móviles es como la selección natural: Apple y Samsung son los más fuertes y están aprovechándolo para dominar en el largo plazo' />
     </a>
 </div>
 
