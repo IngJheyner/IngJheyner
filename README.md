@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/realme-book-prime-portatil-ultraligero-oferta-1252222'>Ultraligero, rápido y por 400€ menos: Realme Book Prime es el portátil para estudiantes perfecto</a></h4>
-    <a href='https://computerhoy.com/pc/realme-book-prime-portatil-ultraligero-oferta-1252222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/realme-book-prime-3045204.jpg?tf=1200x' alt='Ultraligero, rápido y por 400€ menos: Realme Book Prime es el portátil para estudiantes perfecto' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-tener-android-auto-cualquier-coche-car-launcher-1251232'>Cómo tener Android Auto en cualquier coche con Car Launcher</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-tener-android-auto-cualquier-coche-car-launcher-1251232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/car-launcher-3043682.jpg?tf=1200x' alt='Cómo tener Android Auto en cualquier coche con Car Launcher' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/nvidia-anuncia-nuevo-superordenador-busca-elevar-chatgpt-maxima-potencia-1252214'>NVIDIA anuncia un nuevo superordenador que busca elevar ChatGPT o Bard a la máxima potencia </a></h4>
-    <a href='https://computerhoy.com/pc/nvidia-anuncia-nuevo-superordenador-busca-elevar-chatgpt-maxima-potencia-1252214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nvidia-anuncia-nuevo-superordenador-busca-elevar-chatgpt-bard-maxima-potencia-3045190.jpg?tf=1200x' alt='NVIDIA anuncia un nuevo superordenador que busca elevar ChatGPT o Bard a la máxima potencia ' />
+    <h4><a href='https://computerhoy.com/android/puedes-comprobar-android-tv-libre-malware-instalado-fabrica-1252328'>Así puedes comprobar si tu Android TV está libre de malware instalado de fábrica</a></h4>
+    <a href='https://computerhoy.com/android/puedes-comprobar-android-tv-libre-malware-instalado-fabrica-1252328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-2020-2120029.jpg?tf=1200x' alt='Así puedes comprobar si tu Android TV está libre de malware instalado de fábrica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/control-crucero-realmente-ahorra-gasolina-solo-engano-1251448'>¿El control de crucero realmente ahorra gasolina o solo es un engaño?</a></h4>
-    <a href='https://computerhoy.com/motor/control-crucero-realmente-ahorra-gasolina-solo-engano-1251448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mujer-conduciendo-3045180.jpg?tf=1200x' alt='¿El control de crucero realmente ahorra gasolina o solo es un engaño?' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s23-ultra-s22-watch5-ofertas-amazon-1252358'>Samsung tira la casa por la ventana: Galaxy S23 Ultra, Galaxy S22, Galaxy Watch5 o Galaxy Z Flip4 con enormes descuentos</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-galaxy-s23-ultra-s22-watch5-ofertas-amazon-1252358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/impresiones-samsung-galaxy-s23-ultra-2943578.jpg?tf=1200x' alt='Samsung tira la casa por la ventana: Galaxy S23 Ultra, Galaxy S22, Galaxy Watch5 o Galaxy Z Flip4 con enormes descuentos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oppo-a98-5g-aterriza-espana-bateria-nivel-moviles-top-1252202'>OPPO A98 5G aterriza en España: batería de 5.000 mAh al nivel de los móviles más top</a></h4>
-    <a href='https://computerhoy.com/moviles/oppo-a98-5g-aterriza-espana-bateria-nivel-moviles-top-1252202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/oppo-a98-5g-aterriza-espana-bateria-5000-mah-nivel-moviles-top-3045194.jpg?tf=1200x' alt='OPPO A98 5G aterriza en España: batería de 5.000 mAh al nivel de los móviles más top' />
+    <h4><a href='https://computerhoy.com/tv/usos-geniales-puertos-usb-smart-tv-seguramente-no-conoces-1251216'>Usos geniales de los puertos USB de tu Smart TV que seguramente no conoces</a></h4>
+    <a href='https://computerhoy.com/tv/usos-geniales-puertos-usb-smart-tv-seguramente-no-conoces-1251216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/philips-oled-807-analisis-opinion-2861105.jpg?tf=1200x' alt='Usos geniales de los puertos USB de tu Smart TV que seguramente no conoces' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/gopro-hero-9-camara-accion-vacaciones-deportes-oferta-1252152'>GoPro HERO 9 a su mínimo histórico: esta es la cámara que te tienes que llevar a la playa</a></h4>
-    <a href='https://computerhoy.com/noticias/gopro-hero-9-camara-accion-vacaciones-deportes-oferta-1252152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/gopro-hero-9-3045128.jpg?tf=1200x' alt='GoPro HERO 9 a su mínimo histórico: esta es la cámara que te tienes que llevar a la playa' />
+    <h4><a href='https://computerhoy.com/moviles/lista-moviles-dejaran-ser-compatibles-whatsapp-1-junio-1252324'>Lista de móviles que dejarán de ser compatibles con WhatsApp el 1 de junio</a></h4>
+    <a href='https://computerhoy.com/moviles/lista-moviles-dejaran-ser-compatibles-whatsapp-1-junio-1252324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-estrena-chat-oficial-resolver-dudas-recibir-ayuda-2992604.jpg?tf=1200x' alt='Lista de móviles que dejarán de ser compatibles con WhatsApp el 1 de junio' />
     </a>
 </div>
 
