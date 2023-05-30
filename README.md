@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/echo-show-2023-novedades-informacion-precio-1252402'>Ya puedes comprar el nuevo Echo Show 5, la mejor pantalla con asistente para ayudarte a cocinar y mucho más</a></h4>
+    <a href='https://computerhoy.com/amazon/echo-show-2023-novedades-informacion-precio-1252402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-echo-show-5-3045496.jpg?tf=1200x' alt='Ya puedes comprar el nuevo Echo Show 5, la mejor pantalla con asistente para ayudarte a cocinar y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/incluye-dato-personal-respuesta-automatica-email-vacaciones-motivo-1252892'>Incluye un dato personal en tu respuesta automática de email en vacaciones: este es el motivo</a></h4>
+    <a href='https://computerhoy.com/life/incluye-dato-personal-respuesta-automatica-email-vacaciones-motivo-1252892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/conducir-vacaciones-verano-2401815.jpg?tf=1200x' alt='Incluye un dato personal en tu respuesta automática de email en vacaciones: este es el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-acceder-menu-prohibido-amazon-fire-tv-todo-puedes-hacer-1252444'>Cómo acceder al menú prohibido de los Amazon Fire TV y todo lo que puedes hacer</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-acceder-menu-prohibido-amazon-fire-tv-todo-puedes-hacer-1252444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-fire-tv-3046036.jpg?tf=1200x' alt='Cómo acceder al menú prohibido de los Amazon Fire TV y todo lo que puedes hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/coche-electrico-circula-100-horas-parar-gracias-nueva-tecnologia-carga-1252612'>Este coche eléctrico circula durante más de 100 horas sin parar gracias a una nueva tecnología de carga</a></h4>
     <a href='https://computerhoy.com/motor/coche-electrico-circula-100-horas-parar-gracias-nueva-tecnologia-carga-1252612' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/electreon-3046110.jpg?tf=1200x' alt='Este coche eléctrico circula durante más de 100 horas sin parar gracias a una nueva tecnología de carga' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/matepad-paper-huawei-atreve-primera-tablet-pantalla-tinta-electronica-1252798'>MatePad Paper: Huawei se atreve con su primera tablet con pantalla de tinta electrónica </a></h4>
     <a href='https://computerhoy.com/tecnologia/matepad-paper-huawei-atreve-primera-tablet-pantalla-tinta-electronica-1252798' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/matepad-paper-huawei-atreve-primera-tablet-pantalla-tinta-electronica-3046126.jpg?tf=1200x' alt='MatePad Paper: Huawei se atreve con su primera tablet con pantalla de tinta electrónica ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/funcion-secreta-evita-google-chrome-coma-bateria-portatil-1252398'>La función secreta que evita que Google Chrome se coma la batería de tu portátil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/funcion-secreta-evita-google-chrome-coma-bateria-portatil-1252398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bateria-google-chrome-3045972.jpg?tf=1200x' alt='La función secreta que evita que Google Chrome se coma la batería de tu portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/3-etapas-ia-sistemas-actuales-superinteligencia-1252768'>Las 3 etapas de la inteligencia artificial: desde la actualidad hasta la superinteligencia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/3-etapas-ia-sistemas-actuales-superinteligencia-1252768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/3-etapas-inteligencia-artificial-sistemas-actuales-superinteligencia-3046030.jpg?tf=1200x' alt='Las 3 etapas de la inteligencia artificial: desde la actualidad hasta la superinteligencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/acer-presenta-nuevo-portatil-ligero-swift-edge-16-amd-ryzen-7040-pantalla-oled-wifi-7-1252750'>Acer presenta su nuevo portátil ligero Swift Edge 16: AMD Ryzen 7040, pantalla OLED y WiFi 7</a></h4>
-    <a href='https://computerhoy.com/pc/acer-presenta-nuevo-portatil-ligero-swift-edge-16-amd-ryzen-7040-pantalla-oled-wifi-7-1252750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/acer-presenta-nuevo-portatil-ligero-swift-edge-16-amd-ryzen-7040-pantalla-oled-wifi-7-3045996.jpg?tf=1200x' alt='Acer presenta su nuevo portátil ligero Swift Edge 16: AMD Ryzen 7040, pantalla OLED y WiFi 7' />
     </a>
 </div>
 
