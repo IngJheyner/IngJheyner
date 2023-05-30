@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/coche-electrico-circula-100-horas-parar-gracias-nueva-tecnologia-carga-1252612'>Este coche eléctrico circula durante más de 100 horas sin parar gracias a una nueva tecnología de carga</a></h4>
+    <a href='https://computerhoy.com/motor/coche-electrico-circula-100-horas-parar-gracias-nueva-tecnologia-carga-1252612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/electreon-3046110.jpg?tf=1200x' alt='Este coche eléctrico circula durante más de 100 horas sin parar gracias a una nueva tecnología de carga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/matepad-paper-huawei-atreve-primera-tablet-pantalla-tinta-electronica-1252798'>MatePad Paper: Huawei se atreve con su primera tablet con pantalla de tinta electrónica </a></h4>
+    <a href='https://computerhoy.com/tecnologia/matepad-paper-huawei-atreve-primera-tablet-pantalla-tinta-electronica-1252798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/matepad-paper-huawei-atreve-primera-tablet-pantalla-tinta-electronica-3046126.jpg?tf=1200x' alt='MatePad Paper: Huawei se atreve con su primera tablet con pantalla de tinta electrónica ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/funcion-secreta-evita-google-chrome-coma-bateria-portatil-1252398'>La función secreta que evita que Google Chrome se coma la batería de tu portátil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/funcion-secreta-evita-google-chrome-coma-bateria-portatil-1252398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bateria-google-chrome-3045972.jpg?tf=1200x' alt='La función secreta que evita que Google Chrome se coma la batería de tu portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/3-etapas-ia-sistemas-actuales-superinteligencia-1252768'>Las 3 etapas de la inteligencia artificial: desde la actualidad hasta la superinteligencia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/3-etapas-ia-sistemas-actuales-superinteligencia-1252768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/3-etapas-inteligencia-artificial-sistemas-actuales-superinteligencia-3046030.jpg?tf=1200x' alt='Las 3 etapas de la inteligencia artificial: desde la actualidad hasta la superinteligencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/acer-presenta-nuevo-portatil-ligero-swift-edge-16-amd-ryzen-7040-pantalla-oled-wifi-7-1252750'>Acer presenta su nuevo portátil ligero Swift Edge 16: AMD Ryzen 7040, pantalla OLED y WiFi 7</a></h4>
     <a href='https://computerhoy.com/pc/acer-presenta-nuevo-portatil-ligero-swift-edge-16-amd-ryzen-7040-pantalla-oled-wifi-7-1252750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/acer-presenta-nuevo-portatil-ligero-swift-edge-16-amd-ryzen-7040-pantalla-oled-wifi-7-3045996.jpg?tf=1200x' alt='Acer presenta su nuevo portátil ligero Swift Edge 16: AMD Ryzen 7040, pantalla OLED y WiFi 7' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/panasonic-sc-htb490-barra-sonido-subwoofer-inalambrico-1252390'>Esta barra de sonido con subwoofer inalámbrico de Panasonic es lo que le faltaba a tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/panasonic-sc-htb490-barra-sonido-subwoofer-inalambrico-1252390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/barra-sonido-panasonic-sc-htb490-3045486.jpg?tf=1200x' alt='Esta barra de sonido con subwoofer inalámbrico de Panasonic es lo que le faltaba a tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/exjefe-seguridad-google-alerta-peligros-ia-generacion-noticias-falsas-1252690'>El exjefe de seguridad de Google alerta de los peligros de la IA y la generación de noticias falsas</a></h4>
-    <a href='https://computerhoy.com/exjefe-seguridad-google-alerta-peligros-ia-generacion-noticias-falsas-1252690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/exjefe-seguridad-google-alerta-peligros-ia-generacion-noticias-falsas-3045890.jpg?tf=1200x' alt='El exjefe de seguridad de Google alerta de los peligros de la IA y la generación de noticias falsas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/logitech-mx-master-3s-raton-inalambrico-profesional-oferta-1252700'>Logitech MX Master 3S, el ratón más avanzado amado por profesionales, ya se encuentra a uno de sus precios más bajos de su historia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/logitech-mx-master-3s-raton-inalambrico-profesional-oferta-1252700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-mx-mechanical-mx-master-3s-analisis-opinion-2784257.jpg?tf=1200x' alt='Logitech MX Master 3S, el ratón más avanzado amado por profesionales, ya se encuentra a uno de sus precios más bajos de su historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-1252658'>Jensen Huang, CEO de NVIDIA: "La inteligencia artificial dominará todas las industrias"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-1252658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Jensen Huang, CEO de NVIDIA: "La inteligencia artificial dominará todas las industrias"' />
     </a>
 </div>
 
