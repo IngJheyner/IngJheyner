@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/samsung-cree-mercado-smart-tv-espanol-crecera-2o-semestre-1249950'>Nacho Monge (Samsung): "Lo peor ya ha pasado en el mercado de televisores en España y el crecimiento volverá a partir del verano"</a></h4>
+    <a href='https://computerhoy.com/tv/samsung-cree-mercado-smart-tv-espanol-crecera-2o-semestre-1249950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nacho-monge-director-negocio-tv-av-samsung-electronics-iberia-3042468.jpg?tf=1200x' alt='Nacho Monge (Samsung): "Lo peor ya ha pasado en el mercado de televisores en España y el crecimiento volverá a partir del verano"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/auriculares-xioami-1252284'>Auriculares Xioami: cuáles elegir según tu presupuesto</a></h4>
+    <a href='https://computerhoy.com/mejores/auriculares-xioami-1252284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-redmi-buds-3-2929758.jpg?tf=1200x' alt='Auriculares Xioami: cuáles elegir según tu presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/construyen-nave-espacial-10-dias-ganan-6000-euros-mes-alquilandola-airbnb-1252448'>Construyen una "nave espacial" en 10 días y ganan 6.000 euros al mes alquilándola en Airbnb </a></h4>
+    <a href='https://computerhoy.com/hogar/construyen-nave-espacial-10-dias-ganan-6000-euros-mes-alquilandola-airbnb-1252448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/construyen-nave-espacial-10-dias-ganan-6000-euros-mes-alquilandola-airbnb-3045576.jpg?tf=1200x' alt='Construyen una "nave espacial" en 10 días y ganan 6.000 euros al mes alquilándola en Airbnb ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/por-que-no-debes-tocar-cria-animal-salvaje-1252446'>Por qué no debes tocar nunca una cría de animal salvaje, ni para salvarle la vida</a></h4>
     <a href='https://computerhoy.com/life/por-que-no-debes-tocar-cria-animal-salvaje-1252446' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/no-debes-tocar-nunca-cria-animal-salvaje-ni-salvarle-vida-3045572.jpg?tf=1200x' alt='Por qué no debes tocar nunca una cría de animal salvaje, ni para salvarle la vida' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/nvidia-ace-futuro-videojuegos-personajes-inteligencia-artificial-chatgpt-1252440'>NVIDIA anticipa el futuro de los videojuegos: personajes con inteligencia artificial tipo ChatGPT</a></h4>
     <a href='https://computerhoy.com/gaming/nvidia-ace-futuro-videojuegos-personajes-inteligencia-artificial-chatgpt-1252440' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nvidia-anticipa-futuro-videojuegos-personajes-inteligentes-inteligencia-artificial-tipo-chatgpt-3045562.jpg?tf=1200x' alt='NVIDIA anticipa el futuro de los videojuegos: personajes con inteligencia artificial tipo ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/internet-archive-colapsado-culpa-tiene-ia-proceso-entrenamiento-1252426'>The Internet Archive está colapsado y la culpa la tiene una IA en proceso de entrenamiento</a></h4>
-    <a href='https://computerhoy.com/internet/internet-archive-colapsado-culpa-tiene-ia-proceso-entrenamiento-1252426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-como-arma-doble-filo-ciberataques-sofisticados-pero-sistemas-mejorados-3031516.jpg?tf=1200x' alt='The Internet Archive está colapsado y la culpa la tiene una IA en proceso de entrenamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/movistar-plus-estrena-canal-gratuito-vacaciones-por-m-plus-1252434'>Movistar Plus+ estrena un canal gratuito para este verano, Vacaciones con M+</a></h4>
-    <a href='https://computerhoy.com/streaming/movistar-plus-estrena-canal-gratuito-vacaciones-por-m-plus-1252434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/movistar-plus-estrena-canal-gratuito-verano-3045544.jpg?tf=1200x' alt='Movistar Plus+ estrena un canal gratuito para este verano, Vacaciones con M+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/pueden-multarte-circular-luz-interior-coche-encendida-1251446'>¿Pueden multarte por circular con la luz interior del coche encendida?</a></h4>
-    <a href='https://computerhoy.com/motor/pueden-multarte-circular-luz-interior-coche-encendida-1251446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/luz-interior-coche-3045192.jpg?tf=1200x' alt='¿Pueden multarte por circular con la luz interior del coche encendida?' />
     </a>
 </div>
 
