@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-music-classical-android-1252996'>La app de música clásica de Apple, ya en Android</a></h4>
+    <a href='https://computerhoy.com/apple/apple-music-classical-android-1252996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/apple-music-classical-ya-disponible-puedes-escuchar-gratis-musica-clasica-bandas-sonoras-maxima-calidad-2995318.jpg?tf=1200x' alt='La app de música clásica de Apple, ya en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/playstation-5-pro-todo-ya-sea-sabe-version-ps5-potente-1252964'>PlayStation 5 Pro: todo lo que se sabe de la versión de PS5 más potente</a></h4>
+    <a href='https://computerhoy.com/gaming/playstation-5-pro-todo-ya-sea-sabe-version-ps5-potente-1252964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ps5-3011390.jpg?tf=1200x' alt='PlayStation 5 Pro: todo lo que se sabe de la versión de PS5 más potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/entrada-wikipedia-costando-millones-dolares-discograficas-1252912'>Esta entrada de la Wikipedia le está costando millones de dólares a las discográficas</a></h4>
+    <a href='https://computerhoy.com/industria/entrada-wikipedia-costando-millones-dolares-discograficas-1252912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/musica-ordenador-3003194.jpg?tf=1200x' alt='Esta entrada de la Wikipedia le está costando millones de dólares a las discográficas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/increible-ilusion-optica-agujero-negro-capaz-enganar-mayoria-personas-1252414'>La increíble ilusión óptica del agujero negro capaz de engañar a los cerebros mejor entrenados</a></h4>
+    <a href='https://computerhoy.com/internet/increible-ilusion-optica-agujero-negro-capaz-enganar-mayoria-personas-1252414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/agujero-expansion-3046022.jpg?tf=1200x' alt='La increíble ilusión óptica del agujero negro capaz de engañar a los cerebros mejor entrenados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/estrenos-junio-2023-movistar-plus-vuelven-outlander-rapa-nueva-serie-narcas-1252982'>Estrenos de junio en Movistar Plus+: vuelven Outlander y Rapa, y se estrena la nueva serie Narcas</a></h4>
     <a href='https://computerhoy.com/streaming/estrenos-junio-2023-movistar-plus-vuelven-outlander-rapa-nueva-serie-narcas-1252982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estrenos-junio-movistar-plus-vuelve-outlander-rapa-estrena-nueva-serie-narcas-3046490.jpg?tf=1200x' alt='Estrenos de junio en Movistar Plus+: vuelven Outlander y Rapa, y se estrena la nueva serie Narcas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/alerta-algunas-android-tv-box-licencia-google-podrian-contener-malware-1252934'>¡Alerta! Algunas Android TV box vendidas en tiendas como Amazon podrían contener malware</a></h4>
-    <a href='https://computerhoy.com/android/alerta-algunas-android-tv-box-licencia-google-podrian-contener-malware-1252934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dale-nueva-vida-viejo-televisor-android-tv-box-baja-42-euros-2984462.jpg?tf=1200x' alt='¡Alerta! Algunas Android TV box vendidas en tiendas como Amazon podrían contener malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/funcionario-gobierno-drena-presa-recuperar-movil-luego-no-enciende-1252976'>Funcionario del gobierno drena una presa para recuperar su móvil y luego no enciende</a></h4>
-    <a href='https://computerhoy.com/moviles/funcionario-gobierno-drena-presa-recuperar-movil-luego-no-enciende-1252976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/telefono-sumergido-agua-3046508.jpg?tf=1200x' alt='Funcionario del gobierno drena una presa para recuperar su móvil y luego no enciende' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/usa-afirman-haber-descubierto-como-saltarse-bloqueo-cuentas-compartidas-netflix-1252972'>En USA afirman haber descubierto cómo saltarse el bloqueo de cuentas compartidas de Netflix</a></h4>
-    <a href='https://computerhoy.com/streaming/usa-afirman-haber-descubierto-como-saltarse-bloqueo-cuentas-compartidas-netflix-1252972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-2889718.jpg?tf=1200x' alt='En USA afirman haber descubierto cómo saltarse el bloqueo de cuentas compartidas de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/aterradora-sensacion-caida-quedarte-dormido-como-evitarlo-1252370'>La aterradora sensación de caída al quedarte dormido: ¿qué es y cómo evitarlo?</a></h4>
-    <a href='https://computerhoy.com/alimentacion/aterradora-sensacion-caida-quedarte-dormido-como-evitarlo-1252370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/descubren-pesadillas-nos-aportan-importante-ventaja-1885361.jpg?tf=1200x' alt='La aterradora sensación de caída al quedarte dormido: ¿qué es y cómo evitarlo?' />
     </a>
 </div>
 
