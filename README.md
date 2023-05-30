@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-indemnizara-usuarios-macbook-culpa-mayores-fracasos-tecnologicos-1252640'>Apple indemnizará a usuarios de MacBook por culpa de uno de sus mayores fracasos tecnológicos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-indemnizara-usuarios-macbook-culpa-mayores-fracasos-tecnologicos-1252640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/apple-indemnizara-usuarios-macbook-culpa-mayores-fracasos-tecnologicos-3045832.jpg?tf=1200x' alt='Apple indemnizará a usuarios de MacBook por culpa de uno de sus mayores fracasos tecnológicos' />
+    <h4><a href='https://computerhoy.com/pc/acer-presenta-nuevo-portatil-ligero-swift-edge-16-amd-ryzen-7040-pantalla-oled-wifi-7-1252750'>Acer presenta su nuevo portátil ligero Swift Edge 16: AMD Ryzen 7040, pantalla OLED y WiFi 7</a></h4>
+    <a href='https://computerhoy.com/pc/acer-presenta-nuevo-portatil-ligero-swift-edge-16-amd-ryzen-7040-pantalla-oled-wifi-7-1252750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/acer-presenta-nuevo-portatil-ligero-swift-edge-16-amd-ryzen-7040-pantalla-oled-wifi-7-3045996.jpg?tf=1200x' alt='Acer presenta su nuevo portátil ligero Swift Edge 16: AMD Ryzen 7040, pantalla OLED y WiFi 7' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/samsung-cree-mercado-smart-tv-espanol-crecera-2o-semestre-1249950'>Nacho Monge (Samsung): "Lo peor ya ha pasado en el mercado de televisores en España y el crecimiento volverá a partir del verano"</a></h4>
-    <a href='https://computerhoy.com/tv/samsung-cree-mercado-smart-tv-espanol-crecera-2o-semestre-1249950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/nacho-monge-director-negocio-tv-av-samsung-electronics-iberia-3042468.jpg?tf=1200x' alt='Nacho Monge (Samsung): "Lo peor ya ha pasado en el mercado de televisores en España y el crecimiento volverá a partir del verano"' />
+    <h4><a href='https://computerhoy.com/tv/panasonic-sc-htb490-barra-sonido-subwoofer-inalambrico-1252390'>Esta barra de sonido con subwoofer inalámbrico de Panasonic es lo que le faltaba a tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/panasonic-sc-htb490-barra-sonido-subwoofer-inalambrico-1252390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/barra-sonido-panasonic-sc-htb490-3045486.jpg?tf=1200x' alt='Esta barra de sonido con subwoofer inalámbrico de Panasonic es lo que le faltaba a tu Smart TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/auriculares-xioami-1252284'>Auriculares Xioami: cuáles elegir según tu presupuesto</a></h4>
-    <a href='https://computerhoy.com/mejores/auriculares-xioami-1252284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xiaomi-redmi-buds-3-2929758.jpg?tf=1200x' alt='Auriculares Xioami: cuáles elegir según tu presupuesto' />
+    <h4><a href='https://computerhoy.com/exjefe-seguridad-google-alerta-peligros-ia-generacion-noticias-falsas-1252690'>El exjefe de seguridad de Google alerta de los peligros de la IA y la generación de noticias falsas</a></h4>
+    <a href='https://computerhoy.com/exjefe-seguridad-google-alerta-peligros-ia-generacion-noticias-falsas-1252690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/exjefe-seguridad-google-alerta-peligros-ia-generacion-noticias-falsas-3045890.jpg?tf=1200x' alt='El exjefe de seguridad de Google alerta de los peligros de la IA y la generación de noticias falsas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/construyen-nave-espacial-10-dias-ganan-6000-euros-mes-alquilandola-airbnb-1252448'>Construyen una "nave espacial" en 10 días y ganan 6.000 euros al mes alquilándola en Airbnb </a></h4>
-    <a href='https://computerhoy.com/hogar/construyen-nave-espacial-10-dias-ganan-6000-euros-mes-alquilandola-airbnb-1252448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/construyen-nave-espacial-10-dias-ganan-6000-euros-mes-alquilandola-airbnb-3045576.jpg?tf=1200x' alt='Construyen una "nave espacial" en 10 días y ganan 6.000 euros al mes alquilándola en Airbnb ' />
+    <h4><a href='https://computerhoy.com/tecnologia/logitech-mx-master-3s-raton-inalambrico-profesional-oferta-1252700'>Logitech MX Master 3S, el ratón más avanzado amado por profesionales, ya se encuentra a uno de sus precios más bajos de su historia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/logitech-mx-master-3s-raton-inalambrico-profesional-oferta-1252700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-mx-mechanical-mx-master-3s-analisis-opinion-2784257.jpg?tf=1200x' alt='Logitech MX Master 3S, el ratón más avanzado amado por profesionales, ya se encuentra a uno de sus precios más bajos de su historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/por-que-no-debes-tocar-cria-animal-salvaje-1252446'>Por qué no debes tocar nunca una cría de animal salvaje, ni para salvarle la vida</a></h4>
-    <a href='https://computerhoy.com/life/por-que-no-debes-tocar-cria-animal-salvaje-1252446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/no-debes-tocar-nunca-cria-animal-salvaje-ni-salvarle-vida-3045572.jpg?tf=1200x' alt='Por qué no debes tocar nunca una cría de animal salvaje, ni para salvarle la vida' />
+    <h4><a href='https://computerhoy.com/tecnologia/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-1252658'>Jensen Huang, CEO de NVIDIA: "La inteligencia artificial dominará todas las industrias"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-1252658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Jensen Huang, CEO de NVIDIA: "La inteligencia artificial dominará todas las industrias"' />
     </a>
 </div>
 
