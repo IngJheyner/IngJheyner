@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ciertos-modelos-chromecast-dejan-ser-seguros-deberias-dejar-utilizarlos-1253258'>Ciertos modelos de Chromecast ya no son seguros y deberías dejar de utilizarlos</a></h4>
-    <a href='https://computerhoy.com/google/ciertos-modelos-chromecast-dejan-ser-seguros-deberias-dejar-utilizarlos-1253258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ciertos-modelos-chromecast-dejan-ser-seguros-deberias-dejar-utilizarlos-3046964.jpg?tf=1200x' alt='Ciertos modelos de Chromecast ya no son seguros y deberías dejar de utilizarlos' />
+    <h4><a href='https://computerhoy.com/motor/coches-electricos-tienen-cambio-marchas-1252994'>¿Por qué los coches eléctricos no tienen cambio de marchas?</a></h4>
+    <a href='https://computerhoy.com/motor/coches-electricos-tienen-cambio-marchas-1252994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/cuando-puede-ir-marcha-atras-cuando-no-1924463.jpg?tf=1200x' alt='¿Por qué los coches eléctricos no tienen cambio de marchas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/43-50-55-pulgadas-estas-smart-tv-toshiba-cuestan-menos-370eu-tienen-todo-necesario-quemar-netflix-1252714'>43, 50 o 55 pulgadas: estas Smart TV de Toshiba cuestan menos de 370€ y tienen todo lo necesario para quemar Netflix</a></h4>
-    <a href='https://computerhoy.com/tecnologia/43-50-55-pulgadas-estas-smart-tv-toshiba-cuestan-menos-370eu-tienen-todo-necesario-quemar-netflix-1252714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/toshiba-55uf3d63da-3045906.jpg?tf=1200x' alt='43, 50 o 55 pulgadas: estas Smart TV de Toshiba cuestan menos de 370€ y tienen todo lo necesario para quemar Netflix' />
+    <h4><a href='https://computerhoy.com/internet/guerra-listas-iptv-canales-gratis-lleva-delante-victimas-inesperadas-1252970'>La guerra contra las listas IPTV de canales gratis se lleva por delante víctimas inesperadas</a></h4>
+    <a href='https://computerhoy.com/internet/guerra-listas-iptv-canales-gratis-lleva-delante-victimas-inesperadas-1252970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2876899.jpg?tf=1200x' alt='La guerra contra las listas IPTV de canales gratis se lleva por delante víctimas inesperadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/elimina-forma-inmediata-siguientes-aplicaciones-android-100-apps-estan-infectadas-malware-1253270'>Elimina de forma inmediata las siguientes aplicaciones Android: infectadas 100 apps con malware</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/elimina-forma-inmediata-siguientes-aplicaciones-android-100-apps-estan-infectadas-malware-1253270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elimina-forma-inmediata-siguientes-aplicaciones-android-100-apps-estan-infectadas-malware-3046862.jpg?tf=1200x' alt='Elimina de forma inmediata las siguientes aplicaciones Android: infectadas 100 apps con malware' />
+    <h4><a href='https://computerhoy.com/entretenimiento/tdtchannels-tvguia-diferencias-cual-mejor-opcion-ver-gratis-tdt-1252938'>TDTChannels o TVguia: diferencias y cuál es la mejor opción para ver gratis la TDT</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/tdtchannels-tvguia-diferencias-cual-mejor-opcion-ver-gratis-tdt-1252938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tvguia-tdtchannel-3046492.jpg?tf=1200x' alt='TDTChannels o TVguia: diferencias y cuál es la mejor opción para ver gratis la TDT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/correas-futuro-apple-watch-serviran-algo-estetica-1253230'>Las correas del futuro Apple Watch servirán para algo más que estética y moda</a></h4>
-    <a href='https://computerhoy.com/apple/correas-futuro-apple-watch-serviran-algo-estetica-1253230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-watch-ultra-2927740.jpg?tf=1200x' alt='Las correas del futuro Apple Watch servirán para algo más que estética y moda' />
+    <h4><a href='https://computerhoy.com/pc/logitech-apuesta-comodidad-presenta-nuevo-raton-teclado-premium-1253328'>Logitech apuesta por la comodidad en casa y presenta un nuevo ratón y teclado premium</a></h4>
+    <a href='https://computerhoy.com/pc/logitech-apuesta-comodidad-presenta-nuevo-raton-teclado-premium-1253328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/logitech-3047004.jpg?tf=1200x' alt='Logitech apuesta por la comodidad en casa y presenta un nuevo ratón y teclado premium' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/airtag-precio-minimo-amazon-oferta-1253254'>Corre y consigue el AirTag de Apple a uno de sus precios mínimos porque no va a durar</a></h4>
-    <a href='https://computerhoy.com/apple/airtag-precio-minimo-amazon-oferta-1253254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335243.jpg?tf=1200x' alt='Corre y consigue el AirTag de Apple a uno de sus precios mínimos porque no va a durar' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-nueva-funcion-finalizar-tarea-windows-11-1252884'>Cómo activar la nueva función de Windows 11 para cerrar de golpe todas las tareas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-nueva-funcion-finalizar-tarea-windows-11-1252884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-3013954.jpg?tf=1200x' alt='Cómo activar la nueva función de Windows 11 para cerrar de golpe todas las tareas' />
     </a>
 </div>
 
