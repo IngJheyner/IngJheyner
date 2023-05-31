@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-acceder-menu-oculto-whatsapp-casi-nadie-utiliza-1253194'>Así puedes acceder al menú oculto de WhatsApp que casi nadie utiliza</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-acceder-menu-oculto-whatsapp-casi-nadie-utiliza-1253194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-estrena-chat-oficial-resolver-dudas-recibir-ayuda-2992604.jpg?tf=1200x' alt='Así puedes acceder al menú oculto de WhatsApp que casi nadie utiliza' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/telegram-convierte-plataforma-preferida-robo-datos-1253514'>Telegram se convierte en la plataforma preferida por los ciberdelincuentes para robar datos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/telegram-convierte-plataforma-preferida-robo-datos-1253514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/robo-datos-hacker-3047490.jpg?tf=1200x' alt='Telegram se convierte en la plataforma preferida por los ciberdelincuentes para robar datos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-barras-sonido-relacion-calidad-precio-puedes-comprar-367121'>Las mejores barras de sonido por relación calidad precio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-barras-sonido-relacion-calidad-precio-puedes-comprar-367121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/philips-b8505-10-3047398.jpg?tf=1200x' alt='Las mejores barras de sonido por relación calidad precio que puedes comprar' />
+    <h4><a href='https://computerhoy.com/streaming/reino-unido-censura-streaming-netflix-disney-amenazan-borrar-contenido-1253546'>El Reino Unido va a censurar el streaming, Netflix y Disney+ amenazan con borrar contenido</a></h4>
+    <a href='https://computerhoy.com/streaming/reino-unido-censura-streaming-netflix-disney-amenazan-borrar-contenido-1253546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/reino-unido-va-censurar-streaming-netflix-disney-amenazan-borrar-contenido-3047544.jpg?tf=1200x' alt='El Reino Unido va a censurar el streaming, Netflix y Disney+ amenazan con borrar contenido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/cae-mayores-servicios-iptv-pirata-toda-europa-1253434'>Cae uno de los mayores servicios de IPTV pirata con penas de más de 30 años de cárcel</a></h4>
-    <a href='https://computerhoy.com/streaming/cae-mayores-servicios-iptv-pirata-toda-europa-1253434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/premier-3047230.jpg?tf=1200x' alt='Cae uno de los mayores servicios de IPTV pirata con penas de más de 30 años de cárcel' />
+    <h4><a href='https://computerhoy.com/ciencia/primera-vez-3000-anos-podemos-ver-rostro-tutankamon-todo-detalle-1253464'>Por primera vez en más de 3.000 años, podemos ver el rostro de Tutankamón con todo detalle</a></h4>
+    <a href='https://computerhoy.com/ciencia/primera-vez-3000-anos-podemos-ver-rostro-tutankamon-todo-detalle-1253464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/primera-vez-3000-anos-podemos-ver-rostro-tutankamon-todo-detalle-3047556.jpg?tf=1200x' alt='Por primera vez en más de 3.000 años, podemos ver el rostro de Tutankamón con todo detalle' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ya-aqui-gran-hermano-chino-ia-dahua-espiarlo-todo-1253462'>Ya está aquí el Gran Hermano chino: la IA de Dahua para espiarlo todo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ya-aqui-gran-hermano-chino-ia-dahua-espiarlo-todo-1253462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3037090.jpg?tf=1200x' alt='Ya está aquí el Gran Hermano chino: la IA de Dahua para espiarlo todo' />
+    <h4><a href='https://computerhoy.com/apps/extrano-error-whatsapp-permite-bloquear-aplicacion-enviando-enlace-1253538'>Un extraño error de WhatsApp permite bloquear la aplicación enviando un enlace</a></h4>
+    <a href='https://computerhoy.com/apps/extrano-error-whatsapp-permite-bloquear-aplicacion-enviando-enlace-1253538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3047552.jpg?tf=1200x' alt='Un extraño error de WhatsApp permite bloquear la aplicación enviando un enlace' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/trucos-mejorar-velocidad-wifi-necesidad-comprar-router-nuevo-1244522'>Trucos para mejorar la velocidad de tu WiFi sin necesidad de comprar un router nuevo</a></h4>
-    <a href='https://computerhoy.com/redes/trucos-mejorar-velocidad-wifi-necesidad-comprar-router-nuevo-1244522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-wifi-3047130.jpg?tf=1200x' alt='Trucos para mejorar la velocidad de tu WiFi sin necesidad de comprar un router nuevo' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-recibe-nuevo-lote-widgets-monitorizacion-puedes-activarlos-1253536'>Windows 11 recibe un nuevo lote de widgets de monitorización y así puedes activarlos</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-recibe-nuevo-lote-widgets-monitorizacion-puedes-activarlos-1253536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/dev-home-windows-11-3047550.jpg?tf=1200x' alt='Windows 11 recibe un nuevo lote de widgets de monitorización y así puedes activarlos' />
     </a>
 </div>
 
