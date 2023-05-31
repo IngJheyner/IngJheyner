@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ciertos-modelos-chromecast-dejan-ser-seguros-deberias-dejar-utilizarlos-1253258'>Ciertos modelos de Chromecast ya no son seguros y deberías dejar de utilizarlos</a></h4>
+    <a href='https://computerhoy.com/google/ciertos-modelos-chromecast-dejan-ser-seguros-deberias-dejar-utilizarlos-1253258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ciertos-modelos-chromecast-dejan-ser-seguros-deberias-dejar-utilizarlos-3046964.jpg?tf=1200x' alt='Ciertos modelos de Chromecast ya no son seguros y deberías dejar de utilizarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/43-50-55-pulgadas-estas-smart-tv-toshiba-cuestan-menos-370eu-tienen-todo-necesario-quemar-netflix-1252714'>43, 50 o 55 pulgadas: estas Smart TV de Toshiba cuestan menos de 370€ y tienen todo lo necesario para quemar Netflix</a></h4>
+    <a href='https://computerhoy.com/tecnologia/43-50-55-pulgadas-estas-smart-tv-toshiba-cuestan-menos-370eu-tienen-todo-necesario-quemar-netflix-1252714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/toshiba-55uf3d63da-3045906.jpg?tf=1200x' alt='43, 50 o 55 pulgadas: estas Smart TV de Toshiba cuestan menos de 370€ y tienen todo lo necesario para quemar Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/elimina-forma-inmediata-siguientes-aplicaciones-android-100-apps-estan-infectadas-malware-1253270'>Elimina de forma inmediata las siguientes aplicaciones Android: infectadas 100 apps con malware</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/elimina-forma-inmediata-siguientes-aplicaciones-android-100-apps-estan-infectadas-malware-1253270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elimina-forma-inmediata-siguientes-aplicaciones-android-100-apps-estan-infectadas-malware-3046862.jpg?tf=1200x' alt='Elimina de forma inmediata las siguientes aplicaciones Android: infectadas 100 apps con malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/correas-futuro-apple-watch-serviran-algo-estetica-1253230'>Las correas del futuro Apple Watch servirán para algo más que estética y moda</a></h4>
+    <a href='https://computerhoy.com/apple/correas-futuro-apple-watch-serviran-algo-estetica-1253230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-watch-ultra-2927740.jpg?tf=1200x' alt='Las correas del futuro Apple Watch servirán para algo más que estética y moda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/airtag-precio-minimo-amazon-oferta-1253254'>Corre y consigue el AirTag de Apple a uno de sus precios mínimos porque no va a durar</a></h4>
     <a href='https://computerhoy.com/apple/airtag-precio-minimo-amazon-oferta-1253254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335243.jpg?tf=1200x' alt='Corre y consigue el AirTag de Apple a uno de sus precios mínimos porque no va a durar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-promociona-reality-pro-cursi-experiencia-ar-1253220'>Apple promociona sus esperadas gafas Reality Pro con una "experiencia AR"</a></h4>
-    <a href='https://computerhoy.com/apple/apple-promociona-reality-pro-cursi-experiencia-ar-1253220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/apple-promociona-esperadas-gafas-reality-pro-cursi-experiencia-ar-3046790.jpg?tf=1200x' alt='Apple promociona sus esperadas gafas Reality Pro con una "experiencia AR"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/12-streamers-debes-seguir-quieres-estar-dia-1249390'>Los 12 streamers que debes seguir si quieres estar al día</a></h4>
-    <a href='https://computerhoy.com/tecnologia/12-streamers-debes-seguir-quieres-estar-dia-1249390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/twitch-streamers-debes-seguir-quieres-estar-dia-rivers-elmariana-gerard-romero-jijantes-3043464.jpg?tf=1200x' alt='Los 12 streamers que debes seguir si quieres estar al día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-vuelve-poner-echo-dot-fire-tv-stick-precio-propio-prime-day-1252758'>Amazon vuelve a poner sus Echo Dot o Fire TV Stick a precio propio de Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-vuelve-poner-echo-dot-fire-tv-stick-precio-propio-prime-day-1252758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-echo-show-5-3046402.jpg?tf=1200x' alt='Amazon vuelve a poner sus Echo Dot o Fire TV Stick a precio propio de Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cual-es-civilizacion-mas-larga-1253198'>¿Cuál ha sido la civilización que más ha durado?</a></h4>
-    <a href='https://computerhoy.com/ciencia/cual-es-civilizacion-mas-larga-1253198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cual-ha-sido-civilizacion-ha-durado-3046720.jpg?tf=1200x' alt='¿Cuál ha sido la civilización que más ha durado?' />
     </a>
 </div>
 
