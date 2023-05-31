@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-vuelve-poner-echo-dot-fire-tv-stick-precio-propio-prime-day-1252758'>Amazon vuelve a poner sus Echo Dot o Fire TV Stick a precio propio de Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-vuelve-poner-echo-dot-fire-tv-stick-precio-propio-prime-day-1252758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-echo-show-5-3046402.jpg?tf=1200x' alt='Amazon vuelve a poner sus Echo Dot o Fire TV Stick a precio propio de Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cual-es-civilizacion-mas-larga-1253198'>¿Cuál ha sido la civilización que más ha durado?</a></h4>
+    <a href='https://computerhoy.com/ciencia/cual-es-civilizacion-mas-larga-1253198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cual-ha-sido-civilizacion-ha-durado-3046720.jpg?tf=1200x' alt='¿Cuál ha sido la civilización que más ha durado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/peor-ataque-tiburones-historia-150-muertos-1253196'>El trágico relato del peor ataque de tiburones de la historia: 150 muertos</a></h4>
     <a href='https://computerhoy.com/life/peor-ataque-tiburones-historia-150-muertos-1253196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tragico-relato-peor-ataque-tiburones-historia-150-muertos-3046716.jpg?tf=1200x' alt='El trágico relato del peor ataque de tiburones de la historia: 150 muertos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/playstation-5-pro-todo-ya-sea-sabe-version-ps5-potente-1252964'>PlayStation 5 Pro: todo lo que se sabe de la versión de PS5 más potente</a></h4>
     <a href='https://computerhoy.com/gaming/playstation-5-pro-todo-ya-sea-sabe-version-ps5-potente-1252964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ps5-3011390.jpg?tf=1200x' alt='PlayStation 5 Pro: todo lo que se sabe de la versión de PS5 más potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/entrada-wikipedia-costando-millones-dolares-discograficas-1252912'>Esta entrada de la Wikipedia le está costando millones de dólares a las discográficas</a></h4>
-    <a href='https://computerhoy.com/industria/entrada-wikipedia-costando-millones-dolares-discograficas-1252912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/musica-ordenador-3003194.jpg?tf=1200x' alt='Esta entrada de la Wikipedia le está costando millones de dólares a las discográficas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/increible-ilusion-optica-agujero-negro-capaz-enganar-mayoria-personas-1252414'>La increíble ilusión óptica del agujero negro capaz de engañar a los cerebros mejor entrenados</a></h4>
-    <a href='https://computerhoy.com/internet/increible-ilusion-optica-agujero-negro-capaz-enganar-mayoria-personas-1252414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/agujero-expansion-3046022.jpg?tf=1200x' alt='La increíble ilusión óptica del agujero negro capaz de engañar a los cerebros mejor entrenados' />
     </a>
 </div>
 
