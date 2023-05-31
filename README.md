@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coches-electricos-tienen-cambio-marchas-1252994'>¿Por qué los coches eléctricos no tienen cambio de marchas?</a></h4>
-    <a href='https://computerhoy.com/motor/coches-electricos-tienen-cambio-marchas-1252994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/cuando-puede-ir-marcha-atras-cuando-no-1924463.jpg?tf=1200x' alt='¿Por qué los coches eléctricos no tienen cambio de marchas?' />
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-acceder-menu-oculto-whatsapp-casi-nadie-utiliza-1253194'>Así puedes acceder al menú oculto de WhatsApp que casi nadie utiliza</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-acceder-menu-oculto-whatsapp-casi-nadie-utiliza-1253194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-estrena-chat-oficial-resolver-dudas-recibir-ayuda-2992604.jpg?tf=1200x' alt='Así puedes acceder al menú oculto de WhatsApp que casi nadie utiliza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/guerra-listas-iptv-canales-gratis-lleva-delante-victimas-inesperadas-1252970'>La guerra contra las listas IPTV de canales gratis se lleva por delante víctimas inesperadas</a></h4>
-    <a href='https://computerhoy.com/internet/guerra-listas-iptv-canales-gratis-lleva-delante-victimas-inesperadas-1252970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2876899.jpg?tf=1200x' alt='La guerra contra las listas IPTV de canales gratis se lleva por delante víctimas inesperadas' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-barras-sonido-relacion-calidad-precio-puedes-comprar-367121'>Las mejores barras de sonido por relación calidad precio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-barras-sonido-relacion-calidad-precio-puedes-comprar-367121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/philips-b8505-10-3047398.jpg?tf=1200x' alt='Las mejores barras de sonido por relación calidad precio que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/tdtchannels-tvguia-diferencias-cual-mejor-opcion-ver-gratis-tdt-1252938'>TDTChannels o TVguia: diferencias y cuál es la mejor opción para ver gratis la TDT</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/tdtchannels-tvguia-diferencias-cual-mejor-opcion-ver-gratis-tdt-1252938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tvguia-tdtchannel-3046492.jpg?tf=1200x' alt='TDTChannels o TVguia: diferencias y cuál es la mejor opción para ver gratis la TDT' />
+    <h4><a href='https://computerhoy.com/streaming/cae-mayores-servicios-iptv-pirata-toda-europa-1253434'>Cae uno de los mayores servicios de IPTV pirata con penas de más de 30 años de cárcel</a></h4>
+    <a href='https://computerhoy.com/streaming/cae-mayores-servicios-iptv-pirata-toda-europa-1253434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/premier-3047230.jpg?tf=1200x' alt='Cae uno de los mayores servicios de IPTV pirata con penas de más de 30 años de cárcel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/logitech-apuesta-comodidad-presenta-nuevo-raton-teclado-premium-1253328'>Logitech apuesta por la comodidad en casa y presenta un nuevo ratón y teclado premium</a></h4>
-    <a href='https://computerhoy.com/pc/logitech-apuesta-comodidad-presenta-nuevo-raton-teclado-premium-1253328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/logitech-3047004.jpg?tf=1200x' alt='Logitech apuesta por la comodidad en casa y presenta un nuevo ratón y teclado premium' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ya-aqui-gran-hermano-chino-ia-dahua-espiarlo-todo-1253462'>Ya está aquí el Gran Hermano chino: la IA de Dahua para espiarlo todo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ya-aqui-gran-hermano-chino-ia-dahua-espiarlo-todo-1253462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3037090.jpg?tf=1200x' alt='Ya está aquí el Gran Hermano chino: la IA de Dahua para espiarlo todo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-nueva-funcion-finalizar-tarea-windows-11-1252884'>Cómo activar la nueva función de Windows 11 para cerrar de golpe todas las tareas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-nueva-funcion-finalizar-tarea-windows-11-1252884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-3013954.jpg?tf=1200x' alt='Cómo activar la nueva función de Windows 11 para cerrar de golpe todas las tareas' />
+    <h4><a href='https://computerhoy.com/redes/trucos-mejorar-velocidad-wifi-necesidad-comprar-router-nuevo-1244522'>Trucos para mejorar la velocidad de tu WiFi sin necesidad de comprar un router nuevo</a></h4>
+    <a href='https://computerhoy.com/redes/trucos-mejorar-velocidad-wifi-necesidad-comprar-router-nuevo-1244522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-wifi-3047130.jpg?tf=1200x' alt='Trucos para mejorar la velocidad de tu WiFi sin necesidad de comprar un router nuevo' />
     </a>
 </div>
 
