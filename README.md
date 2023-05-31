@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/airtag-precio-minimo-amazon-oferta-1253254'>Corre y consigue el AirTag de Apple a uno de sus precios mínimos porque no va a durar</a></h4>
+    <a href='https://computerhoy.com/apple/airtag-precio-minimo-amazon-oferta-1253254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335243.jpg?tf=1200x' alt='Corre y consigue el AirTag de Apple a uno de sus precios mínimos porque no va a durar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-promociona-reality-pro-cursi-experiencia-ar-1253220'>Apple promociona sus esperadas gafas Reality Pro con una "experiencia AR"</a></h4>
+    <a href='https://computerhoy.com/apple/apple-promociona-reality-pro-cursi-experiencia-ar-1253220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/apple-promociona-esperadas-gafas-reality-pro-cursi-experiencia-ar-3046790.jpg?tf=1200x' alt='Apple promociona sus esperadas gafas Reality Pro con una "experiencia AR"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/12-streamers-debes-seguir-quieres-estar-dia-1249390'>Los 12 streamers que debes seguir si quieres estar al día</a></h4>
+    <a href='https://computerhoy.com/tecnologia/12-streamers-debes-seguir-quieres-estar-dia-1249390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/twitch-streamers-debes-seguir-quieres-estar-dia-rivers-elmariana-gerard-romero-jijantes-3043464.jpg?tf=1200x' alt='Los 12 streamers que debes seguir si quieres estar al día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-vuelve-poner-echo-dot-fire-tv-stick-precio-propio-prime-day-1252758'>Amazon vuelve a poner sus Echo Dot o Fire TV Stick a precio propio de Prime Day</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-vuelve-poner-echo-dot-fire-tv-stick-precio-propio-prime-day-1252758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-echo-show-5-3046402.jpg?tf=1200x' alt='Amazon vuelve a poner sus Echo Dot o Fire TV Stick a precio propio de Prime Day' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cual-es-civilizacion-mas-larga-1253198'>¿Cuál ha sido la civilización que más ha durado?</a></h4>
     <a href='https://computerhoy.com/ciencia/cual-es-civilizacion-mas-larga-1253198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cual-ha-sido-civilizacion-ha-durado-3046720.jpg?tf=1200x' alt='¿Cuál ha sido la civilización que más ha durado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/peor-ataque-tiburones-historia-150-muertos-1253196'>El trágico relato del peor ataque de tiburones de la historia: 150 muertos</a></h4>
-    <a href='https://computerhoy.com/life/peor-ataque-tiburones-historia-150-muertos-1253196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tragico-relato-peor-ataque-tiburones-historia-150-muertos-3046716.jpg?tf=1200x' alt='El trágico relato del peor ataque de tiburones de la historia: 150 muertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-music-classical-android-1252996'>La app de música clásica de Apple, ya en Android</a></h4>
-    <a href='https://computerhoy.com/apple/apple-music-classical-android-1252996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/apple-music-classical-ya-disponible-puedes-escuchar-gratis-musica-clasica-bandas-sonoras-maxima-calidad-2995318.jpg?tf=1200x' alt='La app de música clásica de Apple, ya en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/playstation-5-pro-todo-ya-sea-sabe-version-ps5-potente-1252964'>PlayStation 5 Pro: todo lo que se sabe de la versión de PS5 más potente</a></h4>
-    <a href='https://computerhoy.com/gaming/playstation-5-pro-todo-ya-sea-sabe-version-ps5-potente-1252964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ps5-3011390.jpg?tf=1200x' alt='PlayStation 5 Pro: todo lo que se sabe de la versión de PS5 más potente' />
     </a>
 </div>
 
