@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-wear-os-1253288'>Estos son los mejores relojes inteligentes con Wear OS que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/mejores/relojes-inteligentes-wear-os-1253288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809235.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes con Wear OS que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/paragraphica-camara-sin-lentes-fotos-inteligencia-artificial-generativa-stable-diffusion-1253774'>Paragraphica, la cámara sin lentes que hace fotos usando datos de localización y Stable Diffusion</a></h4>
     <a href='https://computerhoy.com/tecnologia/paragraphica-camara-sin-lentes-fotos-inteligencia-artificial-generativa-stable-diffusion-1253774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/paragraphica-camara-lentes-hace-fotos-usando-inteligencia-artificial-generativa-3047620.jpg?tf=1200x' alt='Paragraphica, la cámara sin lentes que hace fotos usando datos de localización y Stable Diffusion' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/china-excava-pozo-superprofundo-11-kilometros-profundidad-1253558'>China comienza a excavar un agujero de 11 kilómetros de profundidad, para llegar al Cretácico</a></h4>
     <a href='https://computerhoy.com/ciencia/china-excava-pozo-superprofundo-11-kilometros-profundidad-1253558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/china-excava-agujero-10-kilometros-profundidad-llegar-cretacico-3047606.jpg?tf=1200x' alt='China comienza a excavar un agujero de 11 kilómetros de profundidad, para llegar al Cretácico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/telegram-convierte-plataforma-preferida-robo-datos-1253514'>Telegram se convierte en la plataforma preferida por los ciberdelincuentes para robar datos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/telegram-convierte-plataforma-preferida-robo-datos-1253514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/robo-datos-hacker-3047490.jpg?tf=1200x' alt='Telegram se convierte en la plataforma preferida por los ciberdelincuentes para robar datos' />
     </a>
 </div>
 
