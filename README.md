@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/tierra-colapsando-superados-7-9-umbrales-permiten-vida-planeta-1253814'>La Tierra está colapsando: superados 7 de los 9 umbrales que permiten la vida en el planeta</a></h4>
+    <a href='https://computerhoy.com/ciencia/tierra-colapsando-superados-7-9-umbrales-permiten-vida-planeta-1253814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tierra-colapsando-superados-7-9-umbrales-permiten-vida-planeta-3047880.jpg?tf=1200x' alt='La Tierra está colapsando: superados 7 de los 9 umbrales que permiten la vida en el planeta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/honor-magic-vs-analisis-opinion-mejor-plegable-compania-1248534'>Honor Magic Vs, análisis y opinión del mejor plegable de la compañía</a></h4>
+    <a href='https://computerhoy.com/analisis/honor-magic-vs-analisis-opinion-mejor-plegable-compania-1248534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/magic-vs-3047600.jpg?tf=1200x' alt='Honor Magic Vs, análisis y opinión del mejor plegable de la compañía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/lego-pac-man-arcade-maquina-recreativa-puedes-construir-tu-mismo-1253780'>LEGO Pac-Man Arcade, la máquina recreativa que puedes construir tú mismo</a></h4>
+    <a href='https://computerhoy.com/gaming/lego-pac-man-arcade-maquina-recreativa-puedes-construir-tu-mismo-1253780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1685583941852-3047820.jpg?tf=1200x' alt='LEGO Pac-Man Arcade, la máquina recreativa que puedes construir tú mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-wear-os-1253288'>Estos son los mejores relojes inteligentes con Wear OS que puedes comprar</a></h4>
     <a href='https://computerhoy.com/mejores/relojes-inteligentes-wear-os-1253288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809235.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes con Wear OS que puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/paragraphica-camara-sin-lentes-fotos-inteligencia-artificial-generativa-stable-diffusion-1253774'>Paragraphica, la cámara sin lentes que hace fotos usando datos de localización y Stable Diffusion</a></h4>
     <a href='https://computerhoy.com/tecnologia/paragraphica-camara-sin-lentes-fotos-inteligencia-artificial-generativa-stable-diffusion-1253774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/paragraphica-camara-lentes-hace-fotos-usando-inteligencia-artificial-generativa-3047620.jpg?tf=1200x' alt='Paragraphica, la cámara sin lentes que hace fotos usando datos de localización y Stable Diffusion' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ai-satsuki-primera-modelo-lenceria-inteligencia-artificial-generativa-1253562'>La primera modelo de lencería que no existe, creada con una IA generativa, ya posa para Playboy</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ai-satsuki-primera-modelo-lenceria-inteligencia-artificial-generativa-1253562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/primera-modelo-lenceria-no-existe-creada-ia-generativa-ya-posa-playboy-3047616.jpg?tf=1200x' alt='La primera modelo de lencería que no existe, creada con una IA generativa, ya posa para Playboy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/gadget-anade-protege-bateria-alarga-vida-movil-1253554'>Este gadget añade protege tu batería y alarga la vida de tu móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/gadget-anade-protege-bateria-alarga-vida-movil-1253554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/pequeno-gadget-anade-anos-vida-movil-funciona-charge-check-3047604.jpg?tf=1200x' alt='Este gadget añade protege tu batería y alarga la vida de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/china-excava-pozo-superprofundo-11-kilometros-profundidad-1253558'>China comienza a excavar un agujero de 11 kilómetros de profundidad, para llegar al Cretácico</a></h4>
-    <a href='https://computerhoy.com/ciencia/china-excava-pozo-superprofundo-11-kilometros-profundidad-1253558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/china-excava-agujero-10-kilometros-profundidad-llegar-cretacico-3047606.jpg?tf=1200x' alt='China comienza a excavar un agujero de 11 kilómetros de profundidad, para llegar al Cretácico' />
     </a>
 </div>
 
