@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/freidora-aire-ideal-familias-cecotec-cuesta-ahora-menos-algunas-pequenas-1253830'>Estas freidoras de aire de gran capacidad de Cecotec están a mejor precio que muchas más pequeñas</a></h4>
-    <a href='https://computerhoy.com/alimentacion/freidora-aire-ideal-familias-cecotec-cuesta-ahora-menos-algunas-pequenas-1253830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cecotec-cecofry-experience-6000-3047890.jpg?tf=1200x' alt='Estas freidoras de aire de gran capacidad de Cecotec están a mejor precio que muchas más pequeñas' />
+    <h4><a href='https://computerhoy.com/internet/pagina-web-te-dice-eventos-historicos-pasaron-dia-naciste-1253778'>Esta web te dice todos los eventos históricos que pasaron el día que naciste</a></h4>
+    <a href='https://computerhoy.com/internet/pagina-web-te-dice-eventos-historicos-pasaron-dia-naciste-1253778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/maquina-escribir-3047958.jpg?tf=1200x' alt='Esta web te dice todos los eventos históricos que pasaron el día que naciste' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/comienza-guerra-espacial-agua-luna-1253532'>Comienza la guerra espacial por el agua en la Luna: “hay que evitar que China se apodere de ella”</a></h4>
-    <a href='https://computerhoy.com/espacio/comienza-guerra-espacial-agua-luna-1253532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/astronauta-superficie-luna-3047924.jpg?tf=1200x' alt='Comienza la guerra espacial por el agua en la Luna: “hay que evitar que China se apodere de ella”' />
+    <h4><a href='https://computerhoy.com/moviles/4-razones-usuarios-dejan-atras-android-iphone-1253990'>4 razones por las que cada vez más usuarios dejan atrás los móviles Android por iPhone</a></h4>
+    <a href='https://computerhoy.com/moviles/4-razones-usuarios-dejan-atras-android-iphone-1253990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estas-son-razones-cada-vez-usuarios-dejan-atras-android-iphone-3048026.jpg?tf=1200x' alt='4 razones por las que cada vez más usuarios dejan atrás los móviles Android por iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/espana-vez-deja-aire-veto-huawei-pese-insistencias-ue-1253854'>España una vez más deja en el aire el veto a Huawei pese a las insistencias de la UE</a></h4>
-    <a href='https://computerhoy.com/industria/espana-vez-deja-aire-veto-huawei-pese-insistencias-ue-1253854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/espana-vez-deja-aire-veto-huawei-pese-insistencias-ue-3047952.jpg?tf=1200x' alt='España una vez más deja en el aire el veto a Huawei pese a las insistencias de la UE' />
+    <h4><a href='https://computerhoy.com/motor/tiembla-alonso-ya-puedes-comprar-coche-electrico-rapido-mundo-doble-potencia-f1-1253776'>¡Tiembla Alonso! Ya puedes comprar el coche eléctrico más rápido del mundo con el doble de potencia que un F1</a></h4>
+    <a href='https://computerhoy.com/motor/tiembla-alonso-ya-puedes-comprar-coche-electrico-rapido-mundo-doble-potencia-f1-1253776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/coche-electrico-nevera-fernando-alonso-3047956.jpg?tf=1200x' alt='¡Tiembla Alonso! Ya puedes comprar el coche eléctrico más rápido del mundo con el doble de potencia que un F1' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-multada-casi-30-millones-euros-violaciones-privacidad-datos-alexa-ring-1253836'>Amazon multada con casi 30 millones de euros por violaciones de privacidad de datos de Alexa y Ring</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-multada-casi-30-millones-euros-violaciones-privacidad-datos-alexa-ring-1253836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-multada-casi-30-millones-euros-violaciones-privacidad-datos-alexa-ring-3047914.jpg?tf=1200x' alt='Amazon multada con casi 30 millones de euros por violaciones de privacidad de datos de Alexa y Ring' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-transformar-movil-mando-distancia-smart-tv-1253504'>El genial truco que transforma cualquier móvil en un mando a distancia para tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-transformar-movil-mando-distancia-smart-tv-1253504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mando-distancia-3047450.jpg?tf=1200x' alt='El genial truco que transforma cualquier móvil en un mando a distancia para tu Smart TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/fallo-afecta-cientos-placas-base-sirve-ciberdelincuentes-instalar-malware-1253826'>Un fallo que afecta a cientos de placas base sirve a los ciberdelincuentes para instalar malware</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/fallo-afecta-cientos-placas-base-sirve-ciberdelincuentes-instalar-malware-1253826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/fallo-afecta-cientos-placas-base-sirve-ciberdelincuentes-instalar-malware-3047900.jpg?tf=1200x' alt='Un fallo que afecta a cientos de placas base sirve a los ciberdelincuentes para instalar malware' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-podria-dejarte-trabajo-incluso-antes-tenerlo-aunque-no-piensas-1253438'>ChatGPT podría dejarte sin trabajo incluso antes de tenerlo, aunque no por lo que piensas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-podria-dejarte-trabajo-incluso-antes-tenerlo-aunque-no-piensas-1253438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/entrevista-trabajo-2367809.jpg?tf=1200x' alt='ChatGPT podría dejarte sin trabajo incluso antes de tenerlo, aunque no por lo que piensas' />
     </a>
 </div>
 
