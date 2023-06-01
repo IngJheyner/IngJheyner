@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/paragraphica-camara-sin-lentes-fotos-inteligencia-artificial-generativa-stable-diffusion-1253774'>Paragraphica, la cámara sin lentes que hace fotos usando datos de localización y Stable Diffusion</a></h4>
+    <a href='https://computerhoy.com/tecnologia/paragraphica-camara-sin-lentes-fotos-inteligencia-artificial-generativa-stable-diffusion-1253774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/paragraphica-camara-lentes-hace-fotos-usando-inteligencia-artificial-generativa-3047620.jpg?tf=1200x' alt='Paragraphica, la cámara sin lentes que hace fotos usando datos de localización y Stable Diffusion' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ai-satsuki-primera-modelo-lenceria-inteligencia-artificial-generativa-1253562'>La primera modelo de lencería que no existe, creada con una IA generativa, ya posa para Playboy</a></h4>
     <a href='https://computerhoy.com/tecnologia/ai-satsuki-primera-modelo-lenceria-inteligencia-artificial-generativa-1253562' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/primera-modelo-lenceria-no-existe-creada-ia-generativa-ya-posa-playboy-3047616.jpg?tf=1200x' alt='La primera modelo de lencería que no existe, creada con una IA generativa, ya posa para Playboy' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/telegram-convierte-plataforma-preferida-robo-datos-1253514'>Telegram se convierte en la plataforma preferida por los ciberdelincuentes para robar datos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/telegram-convierte-plataforma-preferida-robo-datos-1253514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/robo-datos-hacker-3047490.jpg?tf=1200x' alt='Telegram se convierte en la plataforma preferida por los ciberdelincuentes para robar datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/reino-unido-censura-streaming-netflix-disney-amenazan-borrar-contenido-1253546'>El Reino Unido va a censurar el streaming, Netflix y Disney+ amenazan con borrar contenido</a></h4>
-    <a href='https://computerhoy.com/streaming/reino-unido-censura-streaming-netflix-disney-amenazan-borrar-contenido-1253546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/reino-unido-va-censurar-streaming-netflix-disney-amenazan-borrar-contenido-3047544.jpg?tf=1200x' alt='El Reino Unido va a censurar el streaming, Netflix y Disney+ amenazan con borrar contenido' />
     </a>
 </div>
 
