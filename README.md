@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/pagina-web-te-dice-eventos-historicos-pasaron-dia-naciste-1253778'>Esta web te dice todos los eventos históricos que pasaron el día que naciste</a></h4>
-    <a href='https://computerhoy.com/internet/pagina-web-te-dice-eventos-historicos-pasaron-dia-naciste-1253778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/maquina-escribir-3047958.jpg?tf=1200x' alt='Esta web te dice todos los eventos históricos que pasaron el día que naciste' />
+    <h4><a href='https://computerhoy.com/tecnologia/tessa-chatgpt-body-positive-ha-sido-cancelado-atentar-salud-1254090'>Tessa, el “ChatGPT del body positive” ha sido cancelado por atentar contra la salud</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tessa-chatgpt-body-positive-ha-sido-cancelado-atentar-salud-1254090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/perder-peso-3048246.jpg?tf=1200x' alt='Tessa, el “ChatGPT del body positive” ha sido cancelado por atentar contra la salud' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/4-razones-usuarios-dejan-atras-android-iphone-1253990'>4 razones por las que cada vez más usuarios dejan atrás los móviles Android por iPhone</a></h4>
-    <a href='https://computerhoy.com/moviles/4-razones-usuarios-dejan-atras-android-iphone-1253990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estas-son-razones-cada-vez-usuarios-dejan-atras-android-iphone-3048026.jpg?tf=1200x' alt='4 razones por las que cada vez más usuarios dejan atrás los móviles Android por iPhone' />
+    <h4><a href='https://computerhoy.com/gaming/juegos-ps5-baratos-merecen-pena-1253398'>10 juegos de PS5 que son muy baratos y siguen mereciendo la pena</a></h4>
+    <a href='https://computerhoy.com/gaming/juegos-ps5-baratos-merecen-pena-1253398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/juegos-ps5-3047194.jpg?tf=1200x' alt='10 juegos de PS5 que son muy baratos y siguen mereciendo la pena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tiembla-alonso-ya-puedes-comprar-coche-electrico-rapido-mundo-doble-potencia-f1-1253776'>¡Tiembla Alonso! Ya puedes comprar el coche eléctrico más rápido del mundo con el doble de potencia que un F1</a></h4>
-    <a href='https://computerhoy.com/motor/tiembla-alonso-ya-puedes-comprar-coche-electrico-rapido-mundo-doble-potencia-f1-1253776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/coche-electrico-nevera-fernando-alonso-3047956.jpg?tf=1200x' alt='¡Tiembla Alonso! Ya puedes comprar el coche eléctrico más rápido del mundo con el doble de potencia que un F1' />
+    <h4><a href='https://computerhoy.com/tecnologia/meta-quest-3-precio-especificaciones-fecha-lanzamiento-1254186'>Zuckerberg anuncia las gafas Meta Quest 3, un volantazo hacia la realidad aumentada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-quest-3-precio-especificaciones-fecha-lanzamiento-1254186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1685633040595-3048364.jpg?tf=1200x' alt='Zuckerberg anuncia las gafas Meta Quest 3, un volantazo hacia la realidad aumentada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-transformar-movil-mando-distancia-smart-tv-1253504'>El genial truco que transforma cualquier móvil en un mando a distancia para tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-transformar-movil-mando-distancia-smart-tv-1253504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mando-distancia-3047450.jpg?tf=1200x' alt='El genial truco que transforma cualquier móvil en un mando a distancia para tu Smart TV' />
+    <h4><a href='https://computerhoy.com/pc/minis-forum-um450-32gb-ram-512gb-ssd-oferta-amazon-1253870'>Este mini PC con 32GB de RAM y procesador Ryzen 5 va a convertirse en tu próximo PC</a></h4>
+    <a href='https://computerhoy.com/pc/minis-forum-um450-32gb-ram-512gb-ssd-oferta-amazon-1253870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/um450-3047974.jpg?tf=1200x' alt='Este mini PC con 32GB de RAM y procesador Ryzen 5 va a convertirse en tu próximo PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-podria-dejarte-trabajo-incluso-antes-tenerlo-aunque-no-piensas-1253438'>ChatGPT podría dejarte sin trabajo incluso antes de tenerlo, aunque no por lo que piensas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-podria-dejarte-trabajo-incluso-antes-tenerlo-aunque-no-piensas-1253438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/entrevista-trabajo-2367809.jpg?tf=1200x' alt='ChatGPT podría dejarte sin trabajo incluso antes de tenerlo, aunque no por lo que piensas' />
+    <h4><a href='https://computerhoy.com/redes/descubren-asesino-inesperado-poco-conocido-senal-wifi-router-1252998'>Descubren un asesino inesperado y poco conocido de la señal WiFi de tu router</a></h4>
+    <a href='https://computerhoy.com/redes/descubren-asesino-inesperado-poco-conocido-senal-wifi-router-1252998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/mejorar-senal-wifi.jpg?tf=1200x' alt='Descubren un asesino inesperado y poco conocido de la señal WiFi de tu router' />
     </a>
 </div>
 
