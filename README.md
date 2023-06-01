@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tessa-chatgpt-body-positive-ha-sido-cancelado-atentar-salud-1254090'>Tessa, el “ChatGPT del body positive” ha sido cancelado por atentar contra la salud</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tessa-chatgpt-body-positive-ha-sido-cancelado-atentar-salud-1254090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/perder-peso-3048246.jpg?tf=1200x' alt='Tessa, el “ChatGPT del body positive” ha sido cancelado por atentar contra la salud' />
+    <h4><a href='https://computerhoy.com/motor/fiat-trae-regreso-mitico-topolino-version-electrica-1254202'>Fiat trae de regreso el mítico Topolino en versión eléctrica que se conduce sin carnet</a></h4>
+    <a href='https://computerhoy.com/motor/fiat-trae-regreso-mitico-topolino-version-electrica-1254202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/fiat-topolino-electrico-3048430.jpg?tf=1200x' alt='Fiat trae de regreso el mítico Topolino en versión eléctrica que se conduce sin carnet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/juegos-ps5-baratos-merecen-pena-1253398'>10 juegos de PS5 que son muy baratos y siguen mereciendo la pena</a></h4>
-    <a href='https://computerhoy.com/gaming/juegos-ps5-baratos-merecen-pena-1253398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/juegos-ps5-3047194.jpg?tf=1200x' alt='10 juegos de PS5 que son muy baratos y siguen mereciendo la pena' />
+    <h4><a href='https://computerhoy.com/streaming/podrias-seguir-compartiendo-contrasena-cuenta-netflix-no-te-pasaria-nada-1254250'>Podrías seguir compartiendo la contraseña de tu cuenta de Netflix y no te pasaría nada</a></h4>
+    <a href='https://computerhoy.com/streaming/podrias-seguir-compartiendo-contrasena-cuenta-netflix-no-te-pasaria-nada-1254250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg?tf=1200x' alt='Podrías seguir compartiendo la contraseña de tu cuenta de Netflix y no te pasaría nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-quest-3-precio-especificaciones-fecha-lanzamiento-1254186'>Zuckerberg anuncia las gafas Meta Quest 3, un volantazo hacia la realidad aumentada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-quest-3-precio-especificaciones-fecha-lanzamiento-1254186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1685633040595-3048364.jpg?tf=1200x' alt='Zuckerberg anuncia las gafas Meta Quest 3, un volantazo hacia la realidad aumentada' />
+    <h4><a href='https://computerhoy.com/moviles/cuanto-cuesta-samsung-fabricar-galaxy-s23-1254188'>Esto es lo que le cuesta a Samsung fabricar un Galaxy S23 Ultra comparado con su precio final en tienda</a></h4>
+    <a href='https://computerhoy.com/moviles/cuanto-cuesta-samsung-fabricar-galaxy-s23-1254188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/impresiones-samsung-galaxy-s23-ultra-2943570.jpg?tf=1200x' alt='Esto es lo que le cuesta a Samsung fabricar un Galaxy S23 Ultra comparado con su precio final en tienda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/minis-forum-um450-32gb-ram-512gb-ssd-oferta-amazon-1253870'>Este mini PC con 32GB de RAM y procesador Ryzen 5 va a convertirse en tu próximo PC</a></h4>
-    <a href='https://computerhoy.com/pc/minis-forum-um450-32gb-ram-512gb-ssd-oferta-amazon-1253870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/um450-3047974.jpg?tf=1200x' alt='Este mini PC con 32GB de RAM y procesador Ryzen 5 va a convertirse en tu próximo PC' />
+    <h4><a href='https://computerhoy.com/apps/como-recuperar-dinero-envias-bizum-error-1254244'>Cómo recuperar tu dinero si envías un Bizum por error</a></h4>
+    <a href='https://computerhoy.com/apps/como-recuperar-dinero-envias-bizum-error-1254244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-2692583.jpg?tf=1200x' alt='Cómo recuperar tu dinero si envías un Bizum por error' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/descubren-asesino-inesperado-poco-conocido-senal-wifi-router-1252998'>Descubren un asesino inesperado y poco conocido de la señal WiFi de tu router</a></h4>
-    <a href='https://computerhoy.com/redes/descubren-asesino-inesperado-poco-conocido-senal-wifi-router-1252998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/mejorar-senal-wifi.jpg?tf=1200x' alt='Descubren un asesino inesperado y poco conocido de la señal WiFi de tu router' />
+    <h4><a href='https://computerhoy.com/motor/facua-alerta-nueva-estafa-hace-pasar-dgt-cobrarte-etiqueta-ambiental-1254220'>FACUA alerta de una nueva estafa que se hace pasar por la DGT para cobrarte por la pegatina medioambiental</a></h4>
+    <a href='https://computerhoy.com/motor/facua-alerta-nueva-estafa-hace-pasar-dgt-cobrarte-etiqueta-ambiental-1254220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pegatina-medioambiente-coche-2537855.jpg?tf=1200x' alt='FACUA alerta de una nueva estafa que se hace pasar por la DGT para cobrarte por la pegatina medioambiental' />
     </a>
 </div>
 
