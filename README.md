@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ai-satsuki-primera-modelo-lenceria-inteligencia-artificial-generativa-1253562'>La primera modelo de lencería que no existe, creada con una IA generativa, ya posa para Playboy</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ai-satsuki-primera-modelo-lenceria-inteligencia-artificial-generativa-1253562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/primera-modelo-lenceria-no-existe-creada-ia-generativa-ya-posa-playboy-3047616.jpg?tf=1200x' alt='La primera modelo de lencería que no existe, creada con una IA generativa, ya posa para Playboy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/gadget-anade-protege-bateria-alarga-vida-movil-1253554'>Este gadget añade protege tu batería y alarga la vida de tu móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/gadget-anade-protege-bateria-alarga-vida-movil-1253554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/pequeno-gadget-anade-anos-vida-movil-funciona-charge-check-3047604.jpg?tf=1200x' alt='Este gadget añade protege tu batería y alarga la vida de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/china-excava-pozo-superprofundo-11-kilometros-profundidad-1253558'>China comienza a excavar un agujero de 11 kilómetros de profundidad, para llegar al Cretácico</a></h4>
+    <a href='https://computerhoy.com/ciencia/china-excava-pozo-superprofundo-11-kilometros-profundidad-1253558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/china-excava-agujero-10-kilometros-profundidad-llegar-cretacico-3047606.jpg?tf=1200x' alt='China comienza a excavar un agujero de 11 kilómetros de profundidad, para llegar al Cretácico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/telegram-convierte-plataforma-preferida-robo-datos-1253514'>Telegram se convierte en la plataforma preferida por los ciberdelincuentes para robar datos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/telegram-convierte-plataforma-preferida-robo-datos-1253514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/robo-datos-hacker-3047490.jpg?tf=1200x' alt='Telegram se convierte en la plataforma preferida por los ciberdelincuentes para robar datos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/reino-unido-censura-streaming-netflix-disney-amenazan-borrar-contenido-1253546'>El Reino Unido va a censurar el streaming, Netflix y Disney+ amenazan con borrar contenido</a></h4>
     <a href='https://computerhoy.com/streaming/reino-unido-censura-streaming-netflix-disney-amenazan-borrar-contenido-1253546' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/reino-unido-va-censurar-streaming-netflix-disney-amenazan-borrar-contenido-3047544.jpg?tf=1200x' alt='El Reino Unido va a censurar el streaming, Netflix y Disney+ amenazan con borrar contenido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/primera-vez-3000-anos-podemos-ver-rostro-tutankamon-todo-detalle-1253464'>Por primera vez en más de 3.000 años, podemos ver el rostro de Tutankamón con todo detalle</a></h4>
-    <a href='https://computerhoy.com/ciencia/primera-vez-3000-anos-podemos-ver-rostro-tutankamon-todo-detalle-1253464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/primera-vez-3000-anos-podemos-ver-rostro-tutankamon-todo-detalle-3047556.jpg?tf=1200x' alt='Por primera vez en más de 3.000 años, podemos ver el rostro de Tutankamón con todo detalle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/extrano-error-whatsapp-permite-bloquear-aplicacion-enviando-enlace-1253538'>Un extraño error de WhatsApp permite bloquear la aplicación enviando un enlace</a></h4>
-    <a href='https://computerhoy.com/apps/extrano-error-whatsapp-permite-bloquear-aplicacion-enviando-enlace-1253538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3047552.jpg?tf=1200x' alt='Un extraño error de WhatsApp permite bloquear la aplicación enviando un enlace' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-recibe-nuevo-lote-widgets-monitorizacion-puedes-activarlos-1253536'>Windows 11 recibe un nuevo lote de widgets de monitorización y así puedes activarlos</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-recibe-nuevo-lote-widgets-monitorizacion-puedes-activarlos-1253536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/dev-home-windows-11-3047550.jpg?tf=1200x' alt='Windows 11 recibe un nuevo lote de widgets de monitorización y así puedes activarlos' />
     </a>
 </div>
 
