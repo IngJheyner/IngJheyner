@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tierra-colapsando-superados-7-9-umbrales-permiten-vida-planeta-1253814'>La Tierra está colapsando: superados 7 de los 9 umbrales que permiten la vida en el planeta</a></h4>
-    <a href='https://computerhoy.com/ciencia/tierra-colapsando-superados-7-9-umbrales-permiten-vida-planeta-1253814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tierra-colapsando-superados-7-9-umbrales-permiten-vida-planeta-3047880.jpg?tf=1200x' alt='La Tierra está colapsando: superados 7 de los 9 umbrales que permiten la vida en el planeta' />
+    <h4><a href='https://computerhoy.com/alimentacion/freidora-aire-ideal-familias-cecotec-cuesta-ahora-menos-algunas-pequenas-1253830'>Estas freidoras de aire de gran capacidad de Cecotec están a mejor precio que muchas más pequeñas</a></h4>
+    <a href='https://computerhoy.com/alimentacion/freidora-aire-ideal-familias-cecotec-cuesta-ahora-menos-algunas-pequenas-1253830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cecotec-cecofry-experience-6000-3047890.jpg?tf=1200x' alt='Estas freidoras de aire de gran capacidad de Cecotec están a mejor precio que muchas más pequeñas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/honor-magic-vs-analisis-opinion-mejor-plegable-compania-1248534'>Honor Magic Vs, análisis y opinión del mejor plegable de la compañía</a></h4>
-    <a href='https://computerhoy.com/analisis/honor-magic-vs-analisis-opinion-mejor-plegable-compania-1248534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/magic-vs-3047600.jpg?tf=1200x' alt='Honor Magic Vs, análisis y opinión del mejor plegable de la compañía' />
+    <h4><a href='https://computerhoy.com/espacio/comienza-guerra-espacial-agua-luna-1253532'>Comienza la guerra espacial por el agua en la Luna: “hay que evitar que China se apodere de ella”</a></h4>
+    <a href='https://computerhoy.com/espacio/comienza-guerra-espacial-agua-luna-1253532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/astronauta-superficie-luna-3047924.jpg?tf=1200x' alt='Comienza la guerra espacial por el agua en la Luna: “hay que evitar que China se apodere de ella”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/lego-pac-man-arcade-maquina-recreativa-puedes-construir-tu-mismo-1253780'>LEGO Pac-Man Arcade, la máquina recreativa que puedes construir tú mismo</a></h4>
-    <a href='https://computerhoy.com/gaming/lego-pac-man-arcade-maquina-recreativa-puedes-construir-tu-mismo-1253780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1685583941852-3047820.jpg?tf=1200x' alt='LEGO Pac-Man Arcade, la máquina recreativa que puedes construir tú mismo' />
+    <h4><a href='https://computerhoy.com/industria/espana-vez-deja-aire-veto-huawei-pese-insistencias-ue-1253854'>España una vez más deja en el aire el veto a Huawei pese a las insistencias de la UE</a></h4>
+    <a href='https://computerhoy.com/industria/espana-vez-deja-aire-veto-huawei-pese-insistencias-ue-1253854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/espana-vez-deja-aire-veto-huawei-pese-insistencias-ue-3047952.jpg?tf=1200x' alt='España una vez más deja en el aire el veto a Huawei pese a las insistencias de la UE' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-wear-os-1253288'>Estos son los mejores relojes inteligentes con Wear OS que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/mejores/relojes-inteligentes-wear-os-1253288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809235.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes con Wear OS que puedes comprar' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-multada-casi-30-millones-euros-violaciones-privacidad-datos-alexa-ring-1253836'>Amazon multada con casi 30 millones de euros por violaciones de privacidad de datos de Alexa y Ring</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-multada-casi-30-millones-euros-violaciones-privacidad-datos-alexa-ring-1253836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-multada-casi-30-millones-euros-violaciones-privacidad-datos-alexa-ring-3047914.jpg?tf=1200x' alt='Amazon multada con casi 30 millones de euros por violaciones de privacidad de datos de Alexa y Ring' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/paragraphica-camara-sin-lentes-fotos-inteligencia-artificial-generativa-stable-diffusion-1253774'>Paragraphica, la cámara sin lentes que hace fotos usando datos de localización y Stable Diffusion</a></h4>
-    <a href='https://computerhoy.com/tecnologia/paragraphica-camara-sin-lentes-fotos-inteligencia-artificial-generativa-stable-diffusion-1253774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/paragraphica-camara-lentes-hace-fotos-usando-inteligencia-artificial-generativa-3047620.jpg?tf=1200x' alt='Paragraphica, la cámara sin lentes que hace fotos usando datos de localización y Stable Diffusion' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/fallo-afecta-cientos-placas-base-sirve-ciberdelincuentes-instalar-malware-1253826'>Un fallo que afecta a cientos de placas base sirve a los ciberdelincuentes para instalar malware</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/fallo-afecta-cientos-placas-base-sirve-ciberdelincuentes-instalar-malware-1253826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/fallo-afecta-cientos-placas-base-sirve-ciberdelincuentes-instalar-malware-3047900.jpg?tf=1200x' alt='Un fallo que afecta a cientos de placas base sirve a los ciberdelincuentes para instalar malware' />
     </a>
 </div>
 
