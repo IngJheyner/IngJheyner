@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/fiat-trae-regreso-mitico-topolino-version-electrica-1254202'>Fiat trae de regreso el mítico Topolino en versión eléctrica que se conduce sin carnet</a></h4>
-    <a href='https://computerhoy.com/motor/fiat-trae-regreso-mitico-topolino-version-electrica-1254202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/fiat-topolino-electrico-3048430.jpg?tf=1200x' alt='Fiat trae de regreso el mítico Topolino en versión eléctrica que se conduce sin carnet' />
+    <h4><a href='https://computerhoy.com/motor/record-aviones-volando-mismo-tiempo-1254278'>Nuevo récord de aviones volando al mismo tiempo: más de un millón de personas en el aire</a></h4>
+    <a href='https://computerhoy.com/motor/record-aviones-volando-mismo-tiempo-1254278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nuevo-record-aviones-volando-mismo-tiempo-millon-personas-aire-3048526.jpg?tf=1200x' alt='Nuevo récord de aviones volando al mismo tiempo: más de un millón de personas en el aire' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/podrias-seguir-compartiendo-contrasena-cuenta-netflix-no-te-pasaria-nada-1254250'>Podrías seguir compartiendo la contraseña de tu cuenta de Netflix y no te pasaría nada</a></h4>
-    <a href='https://computerhoy.com/streaming/podrias-seguir-compartiendo-contrasena-cuenta-netflix-no-te-pasaria-nada-1254250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg?tf=1200x' alt='Podrías seguir compartiendo la contraseña de tu cuenta de Netflix y no te pasaría nada' />
+    <h4><a href='https://computerhoy.com/redes/tener-5g-ave-costara-716-millones-euros-sera-orange-encargada-hacerlo-posible-1254260'>Tener 5G en el AVE costará 71,6 millones de euros y será Orange la encargada de hacerlo posible</a></h4>
+    <a href='https://computerhoy.com/redes/tener-5g-ave-costara-716-millones-euros-sera-orange-encargada-hacerlo-posible-1254260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/renfe-trenes-ave-alta-velocidad-3021240.jpg?tf=1200x' alt='Tener 5G en el AVE costará 71,6 millones de euros y será Orange la encargada de hacerlo posible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/cuanto-cuesta-samsung-fabricar-galaxy-s23-1254188'>Esto es lo que le cuesta a Samsung fabricar un Galaxy S23 Ultra comparado con su precio final en tienda</a></h4>
-    <a href='https://computerhoy.com/moviles/cuanto-cuesta-samsung-fabricar-galaxy-s23-1254188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/impresiones-samsung-galaxy-s23-ultra-2943570.jpg?tf=1200x' alt='Esto es lo que le cuesta a Samsung fabricar un Galaxy S23 Ultra comparado con su precio final en tienda' />
+    <h4><a href='https://computerhoy.com/streaming/estrenos-junio-skyshowtime-las-inivisibles-star-trek-1254266'>Una nueva serie española, Las Invisibles, y más Star Trek, entre los estrenos de junio en SkyShowtime</a></h4>
+    <a href='https://computerhoy.com/streaming/estrenos-junio-skyshowtime-las-inivisibles-star-trek-1254266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nueva-serie-espanola-invisibles-star-trek-estrenos-junio-skyshowtime-3048506.jpg?tf=1200x' alt='Una nueva serie española, Las Invisibles, y más Star Trek, entre los estrenos de junio en SkyShowtime' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-recuperar-dinero-envias-bizum-error-1254244'>Cómo recuperar tu dinero si envías un Bizum por error</a></h4>
-    <a href='https://computerhoy.com/apps/como-recuperar-dinero-envias-bizum-error-1254244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-2692583.jpg?tf=1200x' alt='Cómo recuperar tu dinero si envías un Bizum por error' />
+    <h4><a href='https://computerhoy.com/internet/reddit-no-aprende-errores-twitter-cambios-api-enfurecen-desarrolladores-1254230'>Reddit no aprende de los errores de Twitter: cambios en la API enfurecen a los desarrolladores</a></h4>
+    <a href='https://computerhoy.com/internet/reddit-no-aprende-errores-twitter-cambios-api-enfurecen-desarrolladores-1254230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg?tf=1200x' alt='Reddit no aprende de los errores de Twitter: cambios en la API enfurecen a los desarrolladores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/facua-alerta-nueva-estafa-hace-pasar-dgt-cobrarte-etiqueta-ambiental-1254220'>FACUA alerta de una nueva estafa que se hace pasar por la DGT para cobrarte por la pegatina medioambiental</a></h4>
-    <a href='https://computerhoy.com/motor/facua-alerta-nueva-estafa-hace-pasar-dgt-cobrarte-etiqueta-ambiental-1254220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/pegatina-medioambiente-coche-2537855.jpg?tf=1200x' alt='FACUA alerta de una nueva estafa que se hace pasar por la DGT para cobrarte por la pegatina medioambiental' />
+    <h4><a href='https://computerhoy.com/gaming/voyager-bot-gtp-4-juega-minecraft-manera-autonoma-1254228'>Voyager, el bot con GTP-4 que juega Minecraft de manera autónoma y mejor que nadie</a></h4>
+    <a href='https://computerhoy.com/gaming/voyager-bot-gtp-4-juega-minecraft-manera-autonoma-1254228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/minecraft-legends-3002036.jpg?tf=1200x' alt='Voyager, el bot con GTP-4 que juega Minecraft de manera autónoma y mejor que nadie' />
     </a>
 </div>
 
