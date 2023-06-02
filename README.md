@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-forma-cerebro-influye-funcionamiento-1254116'>Científicos descubren que la forma del cerebro influye en su funcionamiento</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-descubren-forma-cerebro-influye-funcionamiento-1254116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/medico-lapiz-demostrar-anatomia-modelo-cerebro-1849507.jpg?tf=1200x' alt='Científicos descubren que la forma del cerebro influye en su funcionamiento' />
+    <h4><a href='https://computerhoy.com/life/ya-pueden-alquilar-primeros-robotaxis-conductor-remoto-1254742'>Ya se pueden alquilar los primeros robotaxis con conductor remoto: ¿te atreves?</a></h4>
+    <a href='https://computerhoy.com/life/ya-pueden-alquilar-primeros-robotaxis-conductor-remoto-1254742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/fecth-3049266.jpg?tf=1200x' alt='Ya se pueden alquilar los primeros robotaxis con conductor remoto: ¿te atreves?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oneplus-1026519'>Estos son los mejores móviles OnePlus que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oneplus-1026519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952404.jpg?tf=1200x' alt='Estos son los mejores móviles OnePlus que puedes comprar ahora mismo' />
+    <h4><a href='https://computerhoy.com/google/nueva-estafa-gmail-aprovechan-verificacion-check-azul-robar-datos-1254762'>Nueva estafa en Gmail: aprovechan la verificación del check azul para robar tus datos</a></h4>
+    <a href='https://computerhoy.com/google/nueva-estafa-gmail-aprovechan-verificacion-check-azul-robar-datos-1254762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-copia-twitter-tambien-anade-marca-verificacion-azul-gmail-3024532.jpg?tf=1200x' alt='Nueva estafa en Gmail: aprovechan la verificación del check azul para robar tus datos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/docenas-iphones-empleados-kaspersky-infectados-malware-nunca-antes-visto-1254652'>Docenas de iPhones de empleados de Kaspersky infectados con malware nunca antes visto</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/docenas-iphones-empleados-kaspersky-infectados-malware-nunca-antes-visto-1254652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/docenas-iphones-empleados-kaspersky-infectados-malware-nunca-antes-visto-3049034.jpg?tf=1200x' alt='Docenas de iPhones de empleados de Kaspersky infectados con malware nunca antes visto' />
+    <h4><a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-corea-sur-mucho-amor-adolescente-1254600'>Qué películas ver este fin de semana en Netflix y Movistar Plus+: Corea del Sur y mucho amor adolescente</a></h4>
+    <a href='https://computerhoy.com/streaming/peliculas-ver-fin-semana-netflix-movistar-plus-corea-sur-mucho-amor-adolescente-1254600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/peliculas-ver-fin-semana-netflix-movistar-plus-corea-sur-mucho-amor-adolescente-3048942.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix y Movistar Plus+: Corea del Sur y mucho amor adolescente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/samsung-galaxy-buds-2-pro-alternativa-airpods-pro-cancelacion-ruido-rebajados-1254594'>Samsung Galaxy Buds 2 Pro, la alternativa a los AirPods Pro con cancelación de ruido a solo 145€</a></h4>
-    <a href='https://computerhoy.com/audio/samsung-galaxy-buds-2-pro-alternativa-airpods-pro-cancelacion-ruido-rebajados-1254594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-galaxy-buds-2-pro-analisis-opinion-2900910.jpg?tf=1200x' alt='Samsung Galaxy Buds 2 Pro, la alternativa a los AirPods Pro con cancelación de ruido a solo 145€' />
+    <h4><a href='https://computerhoy.com/android/cosas-debes-dejar-hacer-movil-android-mejorar-rendimiento-1250608'>Cosas que debes dejar de hacer en tu móvil Android para mejorar su rendimiento</a></h4>
+    <a href='https://computerhoy.com/android/cosas-debes-dejar-hacer-movil-android-mejorar-rendimiento-1250608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mujer-hablando-movil-3048934.jpg?tf=1200x' alt='Cosas que debes dejar de hacer en tu móvil Android para mejorar su rendimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/movistar-sorprende-clientes-aumento-gratuito-velocidad-internet-1254582'>Movistar sorprende a sus clientes duplicando de forma gratuita su velocidad de Internet </a></h4>
-    <a href='https://computerhoy.com/internet/movistar-sorprende-clientes-aumento-gratuito-velocidad-internet-1254582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movistar-sorprende-clientes-duplicando-forma-gratuita-velocidad-internet-3048838.jpg?tf=1200x' alt='Movistar sorprende a sus clientes duplicando de forma gratuita su velocidad de Internet ' />
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-proteina-ayuda-quemar-grasa-abdominal-1254190'>Científicos descubren una proteína que ayuda a quemar la grasa abdominal y solo tienes que saber activarla</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-descubren-proteina-ayuda-quemar-grasa-abdominal-1254190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/descubren-forma-perder-peso-no-recuperarlo-sea-sencillo-2993710.jpg?tf=1200x' alt='Científicos descubren una proteína que ayuda a quemar la grasa abdominal y solo tienes que saber activarla' />
     </a>
 </div>
 
