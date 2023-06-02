@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-forma-cerebro-influye-funcionamiento-1254116'>Científicos descubren que la forma del cerebro influye en su funcionamiento</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-descubren-forma-cerebro-influye-funcionamiento-1254116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/medico-lapiz-demostrar-anatomia-modelo-cerebro-1849507.jpg?tf=1200x' alt='Científicos descubren que la forma del cerebro influye en su funcionamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oneplus-1026519'>Estos son los mejores móviles OnePlus que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oneplus-1026519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952404.jpg?tf=1200x' alt='Estos son los mejores móviles OnePlus que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/docenas-iphones-empleados-kaspersky-infectados-malware-nunca-antes-visto-1254652'>Docenas de iPhones de empleados de Kaspersky infectados con malware nunca antes visto</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/docenas-iphones-empleados-kaspersky-infectados-malware-nunca-antes-visto-1254652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/docenas-iphones-empleados-kaspersky-infectados-malware-nunca-antes-visto-3049034.jpg?tf=1200x' alt='Docenas de iPhones de empleados de Kaspersky infectados con malware nunca antes visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/samsung-galaxy-buds-2-pro-alternativa-airpods-pro-cancelacion-ruido-rebajados-1254594'>Samsung Galaxy Buds 2 Pro, la alternativa a los AirPods Pro con cancelación de ruido a solo 145€</a></h4>
     <a href='https://computerhoy.com/audio/samsung-galaxy-buds-2-pro-alternativa-airpods-pro-cancelacion-ruido-rebajados-1254594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-galaxy-buds-2-pro-analisis-opinion-2900910.jpg?tf=1200x' alt='Samsung Galaxy Buds 2 Pro, la alternativa a los AirPods Pro con cancelación de ruido a solo 145€' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/movistar-sorprende-clientes-aumento-gratuito-velocidad-internet-1254582'>Movistar sorprende a sus clientes duplicando de forma gratuita su velocidad de Internet </a></h4>
     <a href='https://computerhoy.com/internet/movistar-sorprende-clientes-aumento-gratuito-velocidad-internet-1254582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movistar-sorprende-clientes-duplicando-forma-gratuita-velocidad-internet-3048838.jpg?tf=1200x' alt='Movistar sorprende a sus clientes duplicando de forma gratuita su velocidad de Internet ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/ring-amazon-cuerdas-nuevos-datos-confirman-grave-brecha-seguridad-1254566'>Ring de Amazon contra las cuerdas: nuevos datos confirman una grave brecha de seguridad</a></h4>
-    <a href='https://computerhoy.com/amazon/ring-amazon-cuerdas-nuevos-datos-confirman-grave-brecha-seguridad-1254566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ring-amazon-cuerdas-nuevos-datos-confirman-grave-brecha-seguridad-3048792.jpg?tf=1200x' alt='Ring de Amazon contra las cuerdas: nuevos datos confirman una grave brecha de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/mac-mini-m2-oferta-precio-minimo-1254558'>Amazon ha rebajado el último Mac mini con chip M2 a menos de 650€, su precio mínimo histórico</a></h4>
-    <a href='https://computerhoy.com/apple/mac-mini-m2-oferta-precio-minimo-1254558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mac-mini-m2-pro-1678355448818-2978228.jpg?tf=1200x' alt='Amazon ha rebajado el último Mac mini con chip M2 a menos de 650€, su precio mínimo histórico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/historia-windows-como-ha-sido-evolucion-servicio-popular-microsoft-1237508'>25 aniversario de Computer Hoy: La historia de Windows, cómo ha sido la evolución del servicio más popular de Microsoft</a></h4>
-    <a href='https://computerhoy.com/windows/historia-windows-como-ha-sido-evolucion-servicio-popular-microsoft-1237508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-3046274.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: La historia de Windows, cómo ha sido la evolución del servicio más popular de Microsoft' />
     </a>
 </div>
 
