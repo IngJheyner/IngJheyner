@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/samsung-galaxy-buds-2-pro-alternativa-airpods-pro-cancelacion-ruido-rebajados-1254594'>Samsung Galaxy Buds 2 Pro, la alternativa a los AirPods Pro con cancelación de ruido a solo 145€</a></h4>
+    <a href='https://computerhoy.com/audio/samsung-galaxy-buds-2-pro-alternativa-airpods-pro-cancelacion-ruido-rebajados-1254594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-galaxy-buds-2-pro-analisis-opinion-2900910.jpg?tf=1200x' alt='Samsung Galaxy Buds 2 Pro, la alternativa a los AirPods Pro con cancelación de ruido a solo 145€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/movistar-sorprende-clientes-aumento-gratuito-velocidad-internet-1254582'>Movistar sorprende a sus clientes duplicando de forma gratuita su velocidad de Internet </a></h4>
     <a href='https://computerhoy.com/internet/movistar-sorprende-clientes-aumento-gratuito-velocidad-internet-1254582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movistar-sorprende-clientes-duplicando-forma-gratuita-velocidad-internet-3048838.jpg?tf=1200x' alt='Movistar sorprende a sus clientes duplicando de forma gratuita su velocidad de Internet ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/historia-windows-como-ha-sido-evolucion-servicio-popular-microsoft-1237508'>25 aniversario de Computer Hoy: La historia de Windows, cómo ha sido la evolución del servicio más popular de Microsoft</a></h4>
     <a href='https://computerhoy.com/windows/historia-windows-como-ha-sido-evolucion-servicio-popular-microsoft-1237508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-3046274.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: La historia de Windows, cómo ha sido la evolución del servicio más popular de Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089'>Estas son las mejores impresoras baratas que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/impresora-canon-3047476.jpg?tf=1200x' alt='Estas son las mejores impresoras baratas que puedes comprar' />
     </a>
 </div>
 
