@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ballena-espia-rusa-aguas-suecia-1254518'>Vuelven a ver la ballena espía rusa, en aguas de Suecia, y preocupa su comportamiento</a></h4>
+    <a href='https://computerhoy.com/life/ballena-espia-rusa-aguas-suecia-1254518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/vuelven-ver-ballena-espia-rusa-aguas-suecia-3048748.jpg?tf=1200x' alt='Vuelven a ver la ballena espía rusa, en aguas de Suecia, y preocupa su comportamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejor-ilusion-optica-2023-platform-9-34s-inspirada-harry-potter-1254282'>Platform 9 34s, inspirada en Harry Potter, elegida Mejor ilusión óptica de 2023</a></h4>
+    <a href='https://computerhoy.com/life/mejor-ilusion-optica-2023-platform-9-34s-inspirada-harry-potter-1254282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1685659927710-3048536.jpg?tf=1200x' alt='Platform 9 34s, inspirada en Harry Potter, elegida Mejor ilusión óptica de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/record-aviones-volando-mismo-tiempo-1254278'>Nuevo récord de aviones volando al mismo tiempo: más de un millón de personas en el aire</a></h4>
     <a href='https://computerhoy.com/motor/record-aviones-volando-mismo-tiempo-1254278' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nuevo-record-aviones-volando-mismo-tiempo-millon-personas-aire-3048526.jpg?tf=1200x' alt='Nuevo récord de aviones volando al mismo tiempo: más de un millón de personas en el aire' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/estrenos-junio-skyshowtime-las-inivisibles-star-trek-1254266'>Una nueva serie española, Las Invisibles, y más Star Trek, entre los estrenos de junio en SkyShowtime</a></h4>
     <a href='https://computerhoy.com/streaming/estrenos-junio-skyshowtime-las-inivisibles-star-trek-1254266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nueva-serie-espanola-invisibles-star-trek-estrenos-junio-skyshowtime-3048506.jpg?tf=1200x' alt='Una nueva serie española, Las Invisibles, y más Star Trek, entre los estrenos de junio en SkyShowtime' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/reddit-no-aprende-errores-twitter-cambios-api-enfurecen-desarrolladores-1254230'>Reddit no aprende de los errores de Twitter: cambios en la API enfurecen a los desarrolladores</a></h4>
-    <a href='https://computerhoy.com/internet/reddit-no-aprende-errores-twitter-cambios-api-enfurecen-desarrolladores-1254230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg?tf=1200x' alt='Reddit no aprende de los errores de Twitter: cambios en la API enfurecen a los desarrolladores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/voyager-bot-gtp-4-juega-minecraft-manera-autonoma-1254228'>Voyager, el bot con GTP-4 que juega Minecraft de manera autónoma y mejor que nadie</a></h4>
-    <a href='https://computerhoy.com/gaming/voyager-bot-gtp-4-juega-minecraft-manera-autonoma-1254228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/minecraft-legends-3002036.jpg?tf=1200x' alt='Voyager, el bot con GTP-4 que juega Minecraft de manera autónoma y mejor que nadie' />
     </a>
 </div>
 
