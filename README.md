@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/movistar-sorprende-clientes-aumento-gratuito-velocidad-internet-1254582'>Movistar sorprende a sus clientes duplicando de forma gratuita su velocidad de Internet </a></h4>
+    <a href='https://computerhoy.com/internet/movistar-sorprende-clientes-aumento-gratuito-velocidad-internet-1254582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movistar-sorprende-clientes-duplicando-forma-gratuita-velocidad-internet-3048838.jpg?tf=1200x' alt='Movistar sorprende a sus clientes duplicando de forma gratuita su velocidad de Internet ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/ring-amazon-cuerdas-nuevos-datos-confirman-grave-brecha-seguridad-1254566'>Ring de Amazon contra las cuerdas: nuevos datos confirman una grave brecha de seguridad</a></h4>
+    <a href='https://computerhoy.com/amazon/ring-amazon-cuerdas-nuevos-datos-confirman-grave-brecha-seguridad-1254566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ring-amazon-cuerdas-nuevos-datos-confirman-grave-brecha-seguridad-3048792.jpg?tf=1200x' alt='Ring de Amazon contra las cuerdas: nuevos datos confirman una grave brecha de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/mac-mini-m2-oferta-precio-minimo-1254558'>Amazon ha rebajado el último Mac mini con chip M2 a menos de 650€, su precio mínimo histórico</a></h4>
+    <a href='https://computerhoy.com/apple/mac-mini-m2-oferta-precio-minimo-1254558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mac-mini-m2-pro-1678355448818-2978228.jpg?tf=1200x' alt='Amazon ha rebajado el último Mac mini con chip M2 a menos de 650€, su precio mínimo histórico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/historia-windows-como-ha-sido-evolucion-servicio-popular-microsoft-1237508'>25 aniversario de Computer Hoy: La historia de Windows, cómo ha sido la evolución del servicio más popular de Microsoft</a></h4>
+    <a href='https://computerhoy.com/windows/historia-windows-como-ha-sido-evolucion-servicio-popular-microsoft-1237508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-3046274.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: La historia de Windows, cómo ha sido la evolución del servicio más popular de Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089'>Estas son las mejores impresoras baratas que puedes comprar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/impresora-canon-3047476.jpg?tf=1200x' alt='Estas son las mejores impresoras baratas que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ballena-espia-rusa-aguas-suecia-1254518'>Vuelven a ver la ballena espía rusa, en aguas de Suecia, y preocupa su comportamiento</a></h4>
-    <a href='https://computerhoy.com/life/ballena-espia-rusa-aguas-suecia-1254518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/vuelven-ver-ballena-espia-rusa-aguas-suecia-3048748.jpg?tf=1200x' alt='Vuelven a ver la ballena espía rusa, en aguas de Suecia, y preocupa su comportamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejor-ilusion-optica-2023-platform-9-34s-inspirada-harry-potter-1254282'>Platform 9 34s, inspirada en Harry Potter, elegida Mejor ilusión óptica de 2023</a></h4>
-    <a href='https://computerhoy.com/life/mejor-ilusion-optica-2023-platform-9-34s-inspirada-harry-potter-1254282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1685659927710-3048536.jpg?tf=1200x' alt='Platform 9 34s, inspirada en Harry Potter, elegida Mejor ilusión óptica de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/record-aviones-volando-mismo-tiempo-1254278'>Nuevo récord de aviones volando al mismo tiempo: más de un millón de personas en el aire</a></h4>
-    <a href='https://computerhoy.com/motor/record-aviones-volando-mismo-tiempo-1254278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nuevo-record-aviones-volando-mismo-tiempo-millon-personas-aire-3048526.jpg?tf=1200x' alt='Nuevo récord de aviones volando al mismo tiempo: más de un millón de personas en el aire' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/tener-5g-ave-costara-716-millones-euros-sera-orange-encargada-hacerlo-posible-1254260'>Tener 5G en el AVE costará 71,6 millones de euros y será Orange la encargada de hacerlo posible</a></h4>
-    <a href='https://computerhoy.com/redes/tener-5g-ave-costara-716-millones-euros-sera-orange-encargada-hacerlo-posible-1254260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/renfe-trenes-ave-alta-velocidad-3021240.jpg?tf=1200x' alt='Tener 5G en el AVE costará 71,6 millones de euros y será Orange la encargada de hacerlo posible' />
     </a>
 </div>
 
