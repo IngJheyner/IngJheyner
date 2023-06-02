@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-anuncia-fin-cortana-1254856'>Microsoft anuncia el fin de Cortana: ChatGPT es el futuro</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-anuncia-fin-cortana-1254856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/Cortana.jpg?tf=1200x' alt='Microsoft anuncia el fin de Cortana: ChatGPT es el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/nueva-demanda-colectiva-elon-musk-causa-dogecoin-1254786'>Una nueva demanda colectiva a Elon Musk a causa de Dogecoin</a></h4>
+    <a href='https://computerhoy.com/criptos/nueva-demanda-colectiva-elon-musk-causa-dogecoin-1254786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/elon-musk-convertido-presentador-disfraza-wario-dice-tiene-asperger-hace-dogecoin-hunda-2328593.jpg?tf=1200x' alt='Una nueva demanda colectiva a Elon Musk a causa de Dogecoin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/reese-witherspoon-actriz-rica-mundo-secreto-1254850'>Reese Witherspoon es la actriz más rica del mundo, y este es su secreto</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/reese-witherspoon-actriz-rica-mundo-secreto-1254850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/reese-witherspoon-2132153.jpg?tf=1200x' alt='Reese Witherspoon es la actriz más rica del mundo, y este es su secreto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/sam-altman-creador-chatgpt-ofrece-criptomonedas-cambio-iris-1254808'>Sam Altman, creador de ChatGPT, ofrece criptomonedas a cambio de tu iris</a></h4>
     <a href='https://computerhoy.com/life/sam-altman-creador-chatgpt-ofrece-criptomonedas-cambio-iris-1254808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/datos-biometricos-oculares-3049346.jpg?tf=1200x' alt='Sam Altman, creador de ChatGPT, ofrece criptomonedas a cambio de tu iris' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/todo-ya-sabemos-raspberry-pi-5-fecha-lanzamiento-caracteristicas-precio-1254256'>Todo lo que ya sabemos de Raspberry Pi 5: fecha de lanzamiento, características y precio</a></h4>
     <a href='https://computerhoy.com/pc/todo-ya-sabemos-raspberry-pi-5-fecha-lanzamiento-caracteristicas-precio-1254256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/raspberry-pi-5-3048966.jpg?tf=1200x' alt='Todo lo que ya sabemos de Raspberry Pi 5: fecha de lanzamiento, características y precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/codigo-oculto-router-podria-ser-causante-velocidad-lenta-wifi-1254842'>El código oculto del router que podría ser el causante de la velocidad lenta de tu WiFi</a></h4>
-    <a href='https://computerhoy.com/internet/codigo-oculto-router-podria-ser-causante-velocidad-lenta-wifi-1254842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2994456.jpg?tf=1200x' alt='El código oculto del router que podría ser el causante de la velocidad lenta de tu WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/terminator-herramienta-elimina-casi-cualquier-medida-seguridad-windows-puedes-comprar-1254838'>Terminator, la herramienta que elimina casi cualquier medida de seguridad de Windows y que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/windows/terminator-herramienta-elimina-casi-cualquier-medida-seguridad-windows-puedes-comprar-1254838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ordenador-malware-3049424.jpg?tf=1200x' alt='Terminator, la herramienta que elimina casi cualquier medida de seguridad de Windows y que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/bombillas-led-realmente-funden-duran-siempre-1254276'>¿Las bombillas LED realmente se funden o duran para siempre?</a></h4>
-    <a href='https://computerhoy.com/hogar/bombillas-led-realmente-funden-duran-siempre-1254276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/luces-led-3048970.jpg?tf=1200x' alt='¿Las bombillas LED realmente se funden o duran para siempre?' />
     </a>
 </div>
 
