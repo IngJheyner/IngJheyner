@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089'>Estas son las mejores impresoras baratas que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/impresora-canon-3047476.jpg?tf=1200x' alt='Estas son las mejores impresoras baratas que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ballena-espia-rusa-aguas-suecia-1254518'>Vuelven a ver la ballena espía rusa, en aguas de Suecia, y preocupa su comportamiento</a></h4>
     <a href='https://computerhoy.com/life/ballena-espia-rusa-aguas-suecia-1254518' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/vuelven-ver-ballena-espia-rusa-aguas-suecia-3048748.jpg?tf=1200x' alt='Vuelven a ver la ballena espía rusa, en aguas de Suecia, y preocupa su comportamiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/tener-5g-ave-costara-716-millones-euros-sera-orange-encargada-hacerlo-posible-1254260'>Tener 5G en el AVE costará 71,6 millones de euros y será Orange la encargada de hacerlo posible</a></h4>
     <a href='https://computerhoy.com/redes/tener-5g-ave-costara-716-millones-euros-sera-orange-encargada-hacerlo-posible-1254260' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/renfe-trenes-ave-alta-velocidad-3021240.jpg?tf=1200x' alt='Tener 5G en el AVE costará 71,6 millones de euros y será Orange la encargada de hacerlo posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/estrenos-junio-skyshowtime-las-inivisibles-star-trek-1254266'>Una nueva serie española, Las Invisibles, y más Star Trek, entre los estrenos de junio en SkyShowtime</a></h4>
-    <a href='https://computerhoy.com/streaming/estrenos-junio-skyshowtime-las-inivisibles-star-trek-1254266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nueva-serie-espanola-invisibles-star-trek-estrenos-junio-skyshowtime-3048506.jpg?tf=1200x' alt='Una nueva serie española, Las Invisibles, y más Star Trek, entre los estrenos de junio en SkyShowtime' />
     </a>
 </div>
 
