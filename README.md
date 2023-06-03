@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/pyotr-petrovich-usuario-amazon-miles-reviews-musica-clasica-1252276'>Pyotr Petróvich, el misterioso español con miles de reviews de música clásica en Amazon y un equipo que vale más que un coche</a></h4>
+    <a href='https://computerhoy.com/amazon/pyotr-petrovich-usuario-amazon-miles-reviews-musica-clasica-1252276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/pyotr-petrovich-misterioso-usuario-espanol-amazon-miles-reviews-musica-clasica-equipo-ensueno-3045230.jpg?tf=1200x' alt='Pyotr Petróvich, el misterioso español con miles de reviews de música clásica en Amazon y un equipo que vale más que un coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/frase-advertencia-impresa-todos-cigarrillos-individuales-1255082'>Muy pronto vamos a ver esta frase impresa en todos los cigarrillos individuales</a></h4>
+    <a href='https://computerhoy.com/life/frase-advertencia-impresa-todos-cigarrillos-individuales-1255082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/muy-pronto-vamos-ver-frase-impresa-todos-cigarrillos-individuales-3049680.jpg?tf=1200x' alt='Muy pronto vamos a ver esta frase impresa en todos los cigarrillos individuales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mujer-escocesa-no-siente-dolor-no-sufre-estres-depresion-1254860'>Una mujer escocesa no siente el dolor, no sufre estrés ni depresión, y ya sabemos por qué </a></h4>
     <a href='https://computerhoy.com/life/mujer-escocesa-no-siente-dolor-no-sufre-estres-depresion-1254860' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mujer-escocesa-no-siente-dolor-no-sufre-estres-ni-depresion-ya-saben-3049474.jpg?tf=1200x' alt='Una mujer escocesa no siente el dolor, no sufre estrés ni depresión, y ya sabemos por qué ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/nueva-demanda-colectiva-elon-musk-causa-dogecoin-1254786'>Una nueva demanda colectiva a Elon Musk a causa de Dogecoin</a></h4>
     <a href='https://computerhoy.com/criptos/nueva-demanda-colectiva-elon-musk-causa-dogecoin-1254786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/elon-musk-convertido-presentador-disfraza-wario-dice-tiene-asperger-hace-dogecoin-hunda-2328593.jpg?tf=1200x' alt='Una nueva demanda colectiva a Elon Musk a causa de Dogecoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/reese-witherspoon-actriz-rica-mundo-secreto-1254850'>Reese Witherspoon es la actriz más rica del mundo, y este es su secreto</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/reese-witherspoon-actriz-rica-mundo-secreto-1254850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/reese-witherspoon-2132153.jpg?tf=1200x' alt='Reese Witherspoon es la actriz más rica del mundo, y este es su secreto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sam-altman-creador-chatgpt-ofrece-criptomonedas-cambio-iris-1254808'>Sam Altman, creador de ChatGPT, ofrece criptomonedas a cambio de tu iris</a></h4>
-    <a href='https://computerhoy.com/life/sam-altman-creador-chatgpt-ofrece-criptomonedas-cambio-iris-1254808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/datos-biometricos-oculares-3049346.jpg?tf=1200x' alt='Sam Altman, creador de ChatGPT, ofrece criptomonedas a cambio de tu iris' />
     </a>
 </div>
 
