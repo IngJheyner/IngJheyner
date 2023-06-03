@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/busqueda-gmail-sera-precisa-nunca-gracias-aprendizaje-automatico-1255142'>La búsqueda en Gmail será más precisa que nunca gracias al aprendizaje automático</a></h4>
+    <a href='https://computerhoy.com/apps/busqueda-gmail-sera-precisa-nunca-gracias-aprendizaje-automatico-1255142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/gmail-3049790.jpg?tf=1200x' alt='La búsqueda en Gmail será más precisa que nunca gracias al aprendizaje automático' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/mi-actividad-google-ver-eliminar-descargar-todo-puedes-hacer-historia-busquedas-1240768'>Mi actividad en Google: ver, eliminar, descargar y todo lo que puedes hacer con tu historial de búsquedas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/mi-actividad-google-ver-eliminar-descargar-todo-puedes-hacer-historia-busquedas-1240768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-3049066.jpg?tf=1200x' alt='Mi actividad en Google: ver, eliminar, descargar y todo lo que puedes hacer con tu historial de búsquedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/samsung-trabaja-tarjeta-credito-futuro-1255134'>Samsung trabaja en la tarjeta de crédito del futuro</a></h4>
+    <a href='https://computerhoy.com/life/samsung-trabaja-tarjeta-credito-futuro-1255134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tarjeta-credito-biometrica-samsung-3049778.jpg?tf=1200x' alt='Samsung trabaja en la tarjeta de crédito del futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-emitira-multitud-advertencias-salud-aquellos-atrevan-nuevos-cascos-realidad-mixta-1255128'>Apple emitirá multitud de advertencias de salud para aquellos que se atrevan con sus nuevos cascos de realidad mixta</a></h4>
+    <a href='https://computerhoy.com/apple/apple-emitira-multitud-advertencias-salud-aquellos-atrevan-nuevos-cascos-realidad-mixta-1255128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/concepto-realidad-virtual-2872105.jpg?tf=1200x' alt='Apple emitirá multitud de advertencias de salud para aquellos que se atrevan con sus nuevos cascos de realidad mixta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/amazon-podria-ofrecer-tarifas-moviles-miembros-prime-1255120'>Amazon podría ofrecer tarifas móviles a los miembros de Prime</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-podria-ofrecer-tarifas-moviles-miembros-prime-1255120' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-3049736.jpg?tf=1200x' alt='Amazon podría ofrecer tarifas móviles a los miembros de Prime' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-series-peliculas-desastres-nucleares-algunas-basadas-hechos-reales-1253466'>7 series y películas sobre desastres nucleares, algunas basadas en hechos reales</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-series-peliculas-desastres-nucleares-algunas-basadas-hechos-reales-1253466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chernobyl-2721837.jpg?tf=1200x' alt='7 series y películas sobre desastres nucleares, algunas basadas en hechos reales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-reparar-conexion-wifi-inestable-interferencias-1243190'>Cómo reparar una conexión WiFi inestable y con interferencias</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-reparar-conexion-wifi-inestable-interferencias-1243190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/puedes-saber-router-wifi-culpable-velocidad-conexion-internet-lenta-2967994.jpg?tf=1200x' alt='Cómo reparar una conexión WiFi inestable y con interferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alucinacion-inteligencia-artificial-gran-error-potencial-peligro-tecnologia-1252396'>Las "alucinaciones", el gran error y potencial peligro de la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/alucinacion-inteligencia-artificial-gran-error-potencial-peligro-tecnologia-1252396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/alucinacion-inteligencia-artificial-gran-error-potencial-peligro-tecnologia-3045538.jpg?tf=1200x' alt='Las "alucinaciones", el gran error y potencial peligro de la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gurus-tecnologia-resultaron-ser-estafa-1248300'>Gurús de la tecnología que resultaron ser una estafa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gurus-tecnologia-resultaron-ser-estafa-1248300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/5-gurus-tecnologia-resultaron-ser-estafa-3044582.jpg?tf=1200x' alt='Gurús de la tecnología que resultaron ser una estafa' />
     </a>
 </div>
 
