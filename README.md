@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mujer-escocesa-no-siente-dolor-no-sufre-estres-depresion-1254860'>Una mujer escocesa no siente el dolor, no sufre estrés ni depresión, y ya sabemos por qué </a></h4>
+    <a href='https://computerhoy.com/life/mujer-escocesa-no-siente-dolor-no-sufre-estres-depresion-1254860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mujer-escocesa-no-siente-dolor-no-sufre-estres-ni-depresion-ya-saben-3049474.jpg?tf=1200x' alt='Una mujer escocesa no siente el dolor, no sufre estrés ni depresión, y ya sabemos por qué ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-anuncia-fin-cortana-1254856'>Microsoft anuncia el fin de Cortana: ChatGPT es el futuro</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-anuncia-fin-cortana-1254856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/Cortana.jpg?tf=1200x' alt='Microsoft anuncia el fin de Cortana: ChatGPT es el futuro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/sam-altman-creador-chatgpt-ofrece-criptomonedas-cambio-iris-1254808'>Sam Altman, creador de ChatGPT, ofrece criptomonedas a cambio de tu iris</a></h4>
     <a href='https://computerhoy.com/life/sam-altman-creador-chatgpt-ofrece-criptomonedas-cambio-iris-1254808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/datos-biometricos-oculares-3049346.jpg?tf=1200x' alt='Sam Altman, creador de ChatGPT, ofrece criptomonedas a cambio de tu iris' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/todo-ya-sabemos-raspberry-pi-5-fecha-lanzamiento-caracteristicas-precio-1254256'>Todo lo que ya sabemos de Raspberry Pi 5: fecha de lanzamiento, características y precio</a></h4>
-    <a href='https://computerhoy.com/pc/todo-ya-sabemos-raspberry-pi-5-fecha-lanzamiento-caracteristicas-precio-1254256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/raspberry-pi-5-3048966.jpg?tf=1200x' alt='Todo lo que ya sabemos de Raspberry Pi 5: fecha de lanzamiento, características y precio' />
     </a>
 </div>
 
