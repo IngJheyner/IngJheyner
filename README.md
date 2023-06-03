@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-14-te-permitira-verificar-mayor-detalle-estado-bateria-telefono-movil-1255190'>Android 14 te permitirá verificar con mayor detalle el estado de la batería en tu teléfono móvil</a></h4>
+    <a href='https://computerhoy.com/android/android-14-te-permitira-verificar-mayor-detalle-estado-bateria-telefono-movil-1255190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-presenta-primera-version-preliminar-android-14-focalizada-accesibilidad-bateria-seguridad-2951334.jpg?tf=1200x' alt='Android 14 te permitirá verificar con mayor detalle el estado de la batería en tu teléfono móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-hacer-google-maps-sea-aplicacion-navegacion-defecto-iphone-1238700'>Cómo hacer que Google Maps sea la aplicación de navegación por defecto en iPhone</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-hacer-google-maps-sea-aplicacion-navegacion-defecto-iphone-1238700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-maps-iphone-3022646.jpg?tf=1200x' alt='Cómo hacer que Google Maps sea la aplicación de navegación por defecto en iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/guia-sacar-mayor-partido-conversaciones-chatgpt-1252392'>Guía para mejorar y exprimir al máximo tus conversaciones con ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/guia-sacar-mayor-partido-conversaciones-chatgpt-1252392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/guia-sacar-mayor-partido-conversaciones-chatgpt-3045528.jpg?tf=1200x' alt='Guía para mejorar y exprimir al máximo tus conversaciones con ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-son-paises-mayor-contaminacion-aire-mundo-1255152'>Estos son los países con mayor contaminación en el aire del mundo</a></h4>
-    <a href='https://computerhoy.com/life/estos-son-paises-mayor-contaminacion-aire-mundo-1255152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/contaminacion-aire-3049804.jpg?tf=1200x' alt='Estos son los países con mayor contaminación en el aire del mundo' />
     </a>
 </div>
 
