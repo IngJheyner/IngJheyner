@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-google-maps-sea-aplicacion-navegacion-defecto-iphone-1238700'>Cómo hacer que Google Maps sea la aplicación de navegación por defecto en iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-google-maps-sea-aplicacion-navegacion-defecto-iphone-1238700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-maps-iphone-3022646.jpg?tf=1200x' alt='Cómo hacer que Google Maps sea la aplicación de navegación por defecto en iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar este año</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/philips-air-fryer-3048142.jpg?tf=1200x' alt='Las mejores freidoras sin aceite que puedes comprar este año' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estos-son-paises-mayor-contaminacion-aire-mundo-1255152'>Estos son los países con mayor contaminación en el aire del mundo</a></h4>
     <a href='https://computerhoy.com/life/estos-son-paises-mayor-contaminacion-aire-mundo-1255152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/contaminacion-aire-3049804.jpg?tf=1200x' alt='Estos son los países con mayor contaminación en el aire del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/informacion-meteorologica-podria-regresar-android-auto-muchas-pantallas-1255148'>La información meteorológica podría regresar a Android Auto para muchas más pantallas</a></h4>
-    <a href='https://computerhoy.com/android/informacion-meteorologica-podria-regresar-android-auto-muchas-pantallas-1255148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/android-auto-3049794.jpg?tf=1200x' alt='La información meteorológica podría regresar a Android Auto para muchas más pantallas' />
     </a>
 </div>
 
