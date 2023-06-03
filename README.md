@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-podria-ofrecer-tarifas-moviles-miembros-prime-1255120'>Amazon podría ofrecer tarifas móviles a los miembros de Prime</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-podria-ofrecer-tarifas-moviles-miembros-prime-1255120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-3049736.jpg?tf=1200x' alt='Amazon podría ofrecer tarifas móviles a los miembros de Prime' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-series-peliculas-desastres-nucleares-algunas-basadas-hechos-reales-1253466'>7 series y películas sobre desastres nucleares, algunas basadas en hechos reales</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-series-peliculas-desastres-nucleares-algunas-basadas-hechos-reales-1253466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chernobyl-2721837.jpg?tf=1200x' alt='7 series y películas sobre desastres nucleares, algunas basadas en hechos reales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-reparar-conexion-wifi-inestable-interferencias-1243190'>Cómo reparar una conexión WiFi inestable y con interferencias</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-reparar-conexion-wifi-inestable-interferencias-1243190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/puedes-saber-router-wifi-culpable-velocidad-conexion-internet-lenta-2967994.jpg?tf=1200x' alt='Cómo reparar una conexión WiFi inestable y con interferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alucinacion-inteligencia-artificial-gran-error-potencial-peligro-tecnologia-1252396'>Las "alucinaciones", el gran error y potencial peligro de la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/alucinacion-inteligencia-artificial-gran-error-potencial-peligro-tecnologia-1252396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/alucinacion-inteligencia-artificial-gran-error-potencial-peligro-tecnologia-3045538.jpg?tf=1200x' alt='Las "alucinaciones", el gran error y potencial peligro de la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/gurus-tecnologia-resultaron-ser-estafa-1248300'>Gurús de la tecnología que resultaron ser una estafa</a></h4>
     <a href='https://computerhoy.com/tecnologia/gurus-tecnologia-resultaron-ser-estafa-1248300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/5-gurus-tecnologia-resultaron-ser-estafa-3044582.jpg?tf=1200x' alt='Gurús de la tecnología que resultaron ser una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/misterio-disco-schist-rueda-futurista-egipcia-5000-anos-antiguedad-1255088'>El misterio del Disco de Sabu, la rueda futurista egipcia con 5.000 años de antigüedad que nadie sabe para qué sirve</a></h4>
-    <a href='https://computerhoy.com/ciencia/misterio-disco-schist-rueda-futurista-egipcia-5000-anos-antiguedad-1255088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/misterio-disco-schist-rueda-futurista-egipcia-5000-anos-antiguedad-nadie-sabe-sirve-3049682.jpg?tf=1200x' alt='El misterio del Disco de Sabu, la rueda futurista egipcia con 5.000 años de antigüedad que nadie sabe para qué sirve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nos-mienten-fabricantes-moviles-brillo-pantallas-1252822'>Así nos mienten los fabricantes de móviles con el brillo de sus pantallas</a></h4>
-    <a href='https://computerhoy.com/moviles/nos-mienten-fabricantes-moviles-brillo-pantallas-1252822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/brillo-pantalla-3046242.jpg?tf=1200x' alt='Así nos mienten los fabricantes de móviles con el brillo de sus pantallas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sirven-realmente-algo-gafas-filtros-luz-azul-1250008'>¿Sirven realmente para algo las gafas y los filtros de luz azul de las gafas graduadas?</a></h4>
-    <a href='https://computerhoy.com/life/sirven-realmente-algo-gafas-filtros-luz-azul-1250008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/gafas-luz-azul-3049016.jpg?tf=1200x' alt='¿Sirven realmente para algo las gafas y los filtros de luz azul de las gafas graduadas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/6-apps-uso-mi-dia-dia-mejoran-mi-jornada-1254076'>Las 6 apps que uso en mi día a día y mejoran mi jornada tanto a nivel personal como laboral</a></h4>
-    <a href='https://computerhoy.com/moviles/6-apps-uso-mi-dia-dia-mejoran-mi-jornada-1254076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apps-uso-diario-3048974.jpg?tf=1200x' alt='Las 6 apps que uso en mi día a día y mejoran mi jornada tanto a nivel personal como laboral' />
     </a>
 </div>
 
