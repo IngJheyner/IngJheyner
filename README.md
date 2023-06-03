@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/busqueda-gmail-sera-precisa-nunca-gracias-aprendizaje-automatico-1255142'>La búsqueda en Gmail será más precisa que nunca gracias al aprendizaje automático</a></h4>
-    <a href='https://computerhoy.com/apps/busqueda-gmail-sera-precisa-nunca-gracias-aprendizaje-automatico-1255142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/gmail-3049790.jpg?tf=1200x' alt='La búsqueda en Gmail será más precisa que nunca gracias al aprendizaje automático' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar este año</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/philips-air-fryer-3048142.jpg?tf=1200x' alt='Las mejores freidoras sin aceite que puedes comprar este año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/mi-actividad-google-ver-eliminar-descargar-todo-puedes-hacer-historia-busquedas-1240768'>Mi actividad en Google: ver, eliminar, descargar y todo lo que puedes hacer con tu historial de búsquedas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/mi-actividad-google-ver-eliminar-descargar-todo-puedes-hacer-historia-busquedas-1240768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-3049066.jpg?tf=1200x' alt='Mi actividad en Google: ver, eliminar, descargar y todo lo que puedes hacer con tu historial de búsquedas' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-ver-fotos-movil-explorador-archivos-1255154'>Windows 11 te permitirá ver las fotos de tu móvil en el explorador de archivos</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-te-permitira-ver-fotos-movil-explorador-archivos-1255154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-11-3049808.jpg?tf=1200x' alt='Windows 11 te permitirá ver las fotos de tu móvil en el explorador de archivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/samsung-trabaja-tarjeta-credito-futuro-1255134'>Samsung trabaja en la tarjeta de crédito del futuro</a></h4>
-    <a href='https://computerhoy.com/life/samsung-trabaja-tarjeta-credito-futuro-1255134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tarjeta-credito-biometrica-samsung-3049778.jpg?tf=1200x' alt='Samsung trabaja en la tarjeta de crédito del futuro' />
+    <h4><a href='https://computerhoy.com/tecnologia/guia-sacar-mayor-partido-conversaciones-chatgpt-1252392'>Guía para mejorar y exprimir al máximo tus conversaciones con ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guia-sacar-mayor-partido-conversaciones-chatgpt-1252392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/guia-sacar-mayor-partido-conversaciones-chatgpt-3045528.jpg?tf=1200x' alt='Guía para mejorar y exprimir al máximo tus conversaciones con ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-emitira-multitud-advertencias-salud-aquellos-atrevan-nuevos-cascos-realidad-mixta-1255128'>Apple emitirá multitud de advertencias de salud para aquellos que se atrevan con sus nuevos cascos de realidad mixta</a></h4>
-    <a href='https://computerhoy.com/apple/apple-emitira-multitud-advertencias-salud-aquellos-atrevan-nuevos-cascos-realidad-mixta-1255128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/concepto-realidad-virtual-2872105.jpg?tf=1200x' alt='Apple emitirá multitud de advertencias de salud para aquellos que se atrevan con sus nuevos cascos de realidad mixta' />
+    <h4><a href='https://computerhoy.com/life/estos-son-paises-mayor-contaminacion-aire-mundo-1255152'>Estos son los países con mayor contaminación en el aire del mundo</a></h4>
+    <a href='https://computerhoy.com/life/estos-son-paises-mayor-contaminacion-aire-mundo-1255152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/contaminacion-aire-3049804.jpg?tf=1200x' alt='Estos son los países con mayor contaminación en el aire del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-podria-ofrecer-tarifas-moviles-miembros-prime-1255120'>Amazon podría ofrecer tarifas móviles a los miembros de Prime</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-podria-ofrecer-tarifas-moviles-miembros-prime-1255120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-3049736.jpg?tf=1200x' alt='Amazon podría ofrecer tarifas móviles a los miembros de Prime' />
+    <h4><a href='https://computerhoy.com/android/informacion-meteorologica-podria-regresar-android-auto-muchas-pantallas-1255148'>La información meteorológica podría regresar a Android Auto para muchas más pantallas</a></h4>
+    <a href='https://computerhoy.com/android/informacion-meteorologica-podria-regresar-android-auto-muchas-pantallas-1255148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/android-auto-3049794.jpg?tf=1200x' alt='La información meteorológica podría regresar a Android Auto para muchas más pantallas' />
     </a>
 </div>
 
