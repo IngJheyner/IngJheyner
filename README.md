@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791'>Estos son los mejores móviles realme para comprar este año</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725597.jpg?tf=1200x' alt='Estos son los mejores móviles realme para comprar este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/tensor-g3-pixel-8-caracteristicas-1255446'>Se desvelan todas las características del Tensor G3, el procesador del Pixel 8: nuevos cores, IA, AV1, Ray tracing... </a></h4>
+    <a href='https://computerhoy.com/google/tensor-g3-pixel-8-caracteristicas-1255446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pixel-6-6-pro-estrenaran-google-tensor-nuevo-procesador-desarrollado-google-2426179.jpg?tf=1200x' alt='Se desvelan todas las características del Tensor G3, el procesador del Pixel 8: nuevos cores, IA, AV1, Ray tracing... ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/pronto-cambiara-forma-interactuar-siri-iphone-1255422'>Pronto cambiará tu forma de interactuar con Siri en tu iPhone</a></h4>
     <a href='https://computerhoy.com/apple/pronto-cambiara-forma-interactuar-siri-iphone-1255422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/siri-iphone-2340841.jpg?tf=1200x' alt='Pronto cambiará tu forma de interactuar con Siri en tu iPhone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/trucos-configurar-personalizar-windows-11-gusto-1246436'>Trucos para configurar y personalizar Windows 11 a tu gusto</a></h4>
     <a href='https://computerhoy.com/tutoriales/trucos-configurar-personalizar-windows-11-gusto-1246436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/biblia-windows-11-resolvemos-todas-dudas-sustituto-windows-10-2401109.jpg?tf=1200x' alt='Trucos para configurar y personalizar Windows 11 a tu gusto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/robot-reemplaza-refuerza-humanos-como-guardias-seguridad-1255412'>El robot que reemplaza o refuerza a los humanos como guardias de seguridad</a></h4>
-    <a href='https://computerhoy.com/ciencia/robot-reemplaza-refuerza-humanos-como-guardias-seguridad-1255412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/robot-reemplaza-refuerza-humanos-como-guardias-seguridad-3050050.jpg?tf=1200x' alt='El robot que reemplaza o refuerza a los humanos como guardias de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-maquinas-expendedoras-japon-ofreceran-bebida-comida-gratis-ocurre-gran-terremoto-1255408'>Estas máquinas expendedoras en Japón ofrecerán bebida y comida gratis si ocurre un gran terremoto</a></h4>
-    <a href='https://computerhoy.com/life/estas-maquinas-expendedoras-japon-ofreceran-bebida-comida-gratis-ocurre-gran-terremoto-1255408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/maquinas-expendedoras-japon-3050046.jpg?tf=1200x' alt='Estas máquinas expendedoras en Japón ofrecerán bebida y comida gratis si ocurre un gran terremoto' />
     </a>
 </div>
 
