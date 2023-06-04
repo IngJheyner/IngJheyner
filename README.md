@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/pronto-cambiara-forma-interactuar-siri-iphone-1255422'>Pronto cambiará tu forma de interactuar con Siri en tu iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/pronto-cambiara-forma-interactuar-siri-iphone-1255422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/siri-iphone-2340841.jpg?tf=1200x' alt='Pronto cambiará tu forma de interactuar con Siri en tu iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-kindle-paperwhite-lector-ebooks-precio-prime-day-1255372'>El lector de ebooks Amazon Kindle Paperwhite está a precio propio de Prime Day</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-kindle-paperwhite-lector-ebooks-precio-prime-day-1255372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/kindle-unlimited-3049998.jpg?tf=1200x' alt='El lector de ebooks Amazon Kindle Paperwhite está a precio propio de Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/trucos-configurar-personalizar-windows-11-gusto-1246436'>Trucos para configurar y personalizar Windows 11 a tu gusto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/trucos-configurar-personalizar-windows-11-gusto-1246436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/biblia-windows-11-resolvemos-todas-dudas-sustituto-windows-10-2401109.jpg?tf=1200x' alt='Trucos para configurar y personalizar Windows 11 a tu gusto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/robot-reemplaza-refuerza-humanos-como-guardias-seguridad-1255412'>El robot que reemplaza o refuerza a los humanos como guardias de seguridad</a></h4>
+    <a href='https://computerhoy.com/ciencia/robot-reemplaza-refuerza-humanos-como-guardias-seguridad-1255412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/robot-reemplaza-refuerza-humanos-como-guardias-seguridad-3050050.jpg?tf=1200x' alt='El robot que reemplaza o refuerza a los humanos como guardias de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/estas-maquinas-expendedoras-japon-ofreceran-bebida-comida-gratis-ocurre-gran-terremoto-1255408'>Estas máquinas expendedoras en Japón ofrecerán bebida y comida gratis si ocurre un gran terremoto</a></h4>
     <a href='https://computerhoy.com/life/estas-maquinas-expendedoras-japon-ofreceran-bebida-comida-gratis-ocurre-gran-terremoto-1255408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/maquinas-expendedoras-japon-3050046.jpg?tf=1200x' alt='Estas máquinas expendedoras en Japón ofrecerán bebida y comida gratis si ocurre un gran terremoto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/vas-poder-resolver-rapido-problemas-webcam-gracias-ultima-mejora-windows-11-1255402'>Vas a poder resolver más rápido los problemas de tu webcam gracias a la última mejora en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/vas-poder-resolver-rapido-problemas-webcam-gracias-ultima-mejora-windows-11-1255402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monitor-webcam-integrada-asus-be24eqk-2794619.jpg?tf=1200x' alt='Vas a poder resolver más rápido los problemas de tu webcam gracias a la última mejora en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-terror-basadas-historias-stephen-king-tal-vez-no-conozcas-1251034'>7 películas de terror basadas en historias de Stephen King que tal vez no conozcas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-terror-basadas-historias-stephen-king-tal-vez-no-conozcas-1251034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ojos-gato-2756729.jpg?tf=1200x' alt='7 películas de terror basadas en historias de Stephen King que tal vez no conozcas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/tecnologia-amazon-te-permitira-comprar-cerveza-usando-palma-mano-1255398'>Esta tecnología de Amazon te permitirá comprar una cerveza usando la palma de tu mano</a></h4>
-    <a href='https://computerhoy.com/amazon/tecnologia-amazon-te-permitira-comprar-cerveza-usando-palma-mano-1255398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-one-escaner-3050024.jpg?tf=1200x' alt='Esta tecnología de Amazon te permitirá comprar una cerveza usando la palma de tu mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-pad-5-descuento-300-euros-1254690'>La mejor tablet de Xiaomi ya cuesta menos de 300€ y merece muchísimo la pena</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-pad-5-descuento-300-euros-1254690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531813.jpg?tf=1200x' alt='La mejor tablet de Xiaomi ya cuesta menos de 300€ y merece muchísimo la pena' />
     </a>
 </div>
 
