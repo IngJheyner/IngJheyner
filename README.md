@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/prompt-engineer-trabajo-ingenieros-lenguaje-era-ia-1248026'>Prompt engineer: la desconocida y demandada profesión fundamental en nueva era de la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/prompt-engineer-trabajo-ingenieros-lenguaje-era-ia-1248026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/prompt-engineer-trabajo-ingenieros-lenguaje-era-inteligencia-artificial-3044504.jpg?tf=1200x' alt='Prompt engineer: la desconocida y demandada profesión fundamental en nueva era de la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tecnicas-efectivas-mejorar-memoria-expertos-1242132'>Las técnicas más efectivas para mejorar tu memoria, según los expertos</a></h4>
+    <a href='https://computerhoy.com/life/tecnicas-efectivas-mejorar-memoria-expertos-1242132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/6-metodos-caseros-mejorar-memoria-esfuerzo-2484657.jpg?tf=1200x' alt='Las técnicas más efectivas para mejorar tu memoria, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/robot-ciempies-desafia-tecnologia-acceder-cualquier-lugar-1255184'>El robot ciempiés que desafía a la tecnología para acceder a cualquier lugar</a></h4>
+    <a href='https://computerhoy.com/ciencia/robot-ciempies-desafia-tecnologia-acceder-cualquier-lugar-1255184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/robot-ciempies-3049836.jpg?tf=1200x' alt='El robot ciempiés que desafía a la tecnología para acceder a cualquier lugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/esperar-wwdc23-apple-ios-17-realidad-virtual-1254528'>Que podemos esperar de la WWDC23 de Apple: iOS 17, realidad virtual y más</a></h4>
     <a href='https://computerhoy.com/apple/esperar-wwdc23-apple-ios-17-realidad-virtual-1254528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/wwdc23-3048852.jpg?tf=1200x' alt='Que podemos esperar de la WWDC23 de Apple: iOS 17, realidad virtual y más' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/jamas-debes-hacer-quieres-dormirte-rapido-1255186'>Lo que jamás debes hacer si quieres dormirte rápido</a></h4>
     <a href='https://computerhoy.com/life/jamas-debes-hacer-quieres-dormirte-rapido-1255186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-no-puede-dormir-2739695.jpg?tf=1200x' alt='Lo que jamás debes hacer si quieres dormirte rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/estos-son-verdaderos-riesgos-llenar-deposito-gasolineras-low-cost-1250096'>Estos son los verdaderos riesgos de llenar el depósito en gasolineras low cost</a></h4>
-    <a href='https://computerhoy.com/motor/estos-son-verdaderos-riesgos-llenar-deposito-gasolineras-low-cost-1250096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/08/449011-alquiler-coche-gasolina.jpg?tf=1200x' alt='Estos son los verdaderos riesgos de llenar el depósito en gasolineras low cost' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/tablets-verano-1255094'>Tablets para usar en verano: qué buscar en ellas y modelos recomendados</a></h4>
-    <a href='https://computerhoy.com/mejores/tablets-verano-1255094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tablets-usar-verano-buscar-modelos-recomendados-3049686.jpg?tf=1200x' alt='Tablets para usar en verano: qué buscar en ellas y modelos recomendados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hoguera-acampada-peligro-piedras-1254520'>Por qué nunca deberías usar piedras de un río en una hoguera de acampada</a></h4>
-    <a href='https://computerhoy.com/life/hoguera-acampada-peligro-piedras-1254520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nunca-deberias-usar-piedras-rio-hoguera-acampada-3048752.jpg?tf=1200x' alt='Por qué nunca deberías usar piedras de un río en una hoguera de acampada' />
     </a>
 </div>
 
