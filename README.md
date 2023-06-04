@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/prompt-engineer-trabajo-ingenieros-lenguaje-era-ia-1248026'>Prompt engineer: la desconocida y demandada profesión fundamental en nueva era de la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/prompt-engineer-trabajo-ingenieros-lenguaje-era-ia-1248026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/prompt-engineer-trabajo-ingenieros-lenguaje-era-inteligencia-artificial-3044504.jpg?tf=1200x' alt='Prompt engineer: la desconocida y demandada profesión fundamental en nueva era de la inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/life/estas-maquinas-expendedoras-japon-ofreceran-bebida-comida-gratis-ocurre-gran-terremoto-1255408'>Estas máquinas expendedoras en Japón ofrecerán bebida y comida gratis si ocurre un gran terremoto</a></h4>
+    <a href='https://computerhoy.com/life/estas-maquinas-expendedoras-japon-ofreceran-bebida-comida-gratis-ocurre-gran-terremoto-1255408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/maquinas-expendedoras-japon-3050046.jpg?tf=1200x' alt='Estas máquinas expendedoras en Japón ofrecerán bebida y comida gratis si ocurre un gran terremoto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tecnicas-efectivas-mejorar-memoria-expertos-1242132'>Las técnicas más efectivas para mejorar tu memoria, según los expertos</a></h4>
-    <a href='https://computerhoy.com/life/tecnicas-efectivas-mejorar-memoria-expertos-1242132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/6-metodos-caseros-mejorar-memoria-esfuerzo-2484657.jpg?tf=1200x' alt='Las técnicas más efectivas para mejorar tu memoria, según los expertos' />
+    <h4><a href='https://computerhoy.com/windows/vas-poder-resolver-rapido-problemas-webcam-gracias-ultima-mejora-windows-11-1255402'>Vas a poder resolver más rápido los problemas de tu webcam gracias a la última mejora en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/vas-poder-resolver-rapido-problemas-webcam-gracias-ultima-mejora-windows-11-1255402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/monitor-webcam-integrada-asus-be24eqk-2794619.jpg?tf=1200x' alt='Vas a poder resolver más rápido los problemas de tu webcam gracias a la última mejora en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/robot-ciempies-desafia-tecnologia-acceder-cualquier-lugar-1255184'>El robot ciempiés que desafía a la tecnología para acceder a cualquier lugar</a></h4>
-    <a href='https://computerhoy.com/ciencia/robot-ciempies-desafia-tecnologia-acceder-cualquier-lugar-1255184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/robot-ciempies-3049836.jpg?tf=1200x' alt='El robot ciempiés que desafía a la tecnología para acceder a cualquier lugar' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-terror-basadas-historias-stephen-king-tal-vez-no-conozcas-1251034'>7 películas de terror basadas en historias de Stephen King que tal vez no conozcas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-terror-basadas-historias-stephen-king-tal-vez-no-conozcas-1251034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ojos-gato-2756729.jpg?tf=1200x' alt='7 películas de terror basadas en historias de Stephen King que tal vez no conozcas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/esperar-wwdc23-apple-ios-17-realidad-virtual-1254528'>Que podemos esperar de la WWDC23 de Apple: iOS 17, realidad virtual y más</a></h4>
-    <a href='https://computerhoy.com/apple/esperar-wwdc23-apple-ios-17-realidad-virtual-1254528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/wwdc23-3048852.jpg?tf=1200x' alt='Que podemos esperar de la WWDC23 de Apple: iOS 17, realidad virtual y más' />
+    <h4><a href='https://computerhoy.com/amazon/tecnologia-amazon-te-permitira-comprar-cerveza-usando-palma-mano-1255398'>Esta tecnología de Amazon te permitirá comprar una cerveza usando la palma de tu mano</a></h4>
+    <a href='https://computerhoy.com/amazon/tecnologia-amazon-te-permitira-comprar-cerveza-usando-palma-mano-1255398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-one-escaner-3050024.jpg?tf=1200x' alt='Esta tecnología de Amazon te permitirá comprar una cerveza usando la palma de tu mano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/jamas-debes-hacer-quieres-dormirte-rapido-1255186'>Lo que jamás debes hacer si quieres dormirte rápido</a></h4>
-    <a href='https://computerhoy.com/life/jamas-debes-hacer-quieres-dormirte-rapido-1255186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-no-puede-dormir-2739695.jpg?tf=1200x' alt='Lo que jamás debes hacer si quieres dormirte rápido' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-pad-5-descuento-300-euros-1254690'>La mejor tablet de Xiaomi ya cuesta menos de 300€ y merece muchísimo la pena</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-pad-5-descuento-300-euros-1254690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531813.jpg?tf=1200x' alt='La mejor tablet de Xiaomi ya cuesta menos de 300€ y merece muchísimo la pena' />
     </a>
 </div>
 
