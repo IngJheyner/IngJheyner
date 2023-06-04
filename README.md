@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/nueva-york-comienza-instalar-vallas-metro-evitar-empujen-gente-vias-1255472'>Nueva York comienza instalar vallas en el metro para evitar que empujen a la gente a las vías, cuando pasa el tren</a></h4>
+    <a href='https://computerhoy.com/life/nueva-york-comienza-instalar-vallas-metro-evitar-empujen-gente-vias-1255472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nueva-york-comienza-instalar-vallas-metro-evitar-empujen-gente-vias-cuando-pasa-tren-3050250.jpg?tf=1200x' alt='Nueva York comienza instalar vallas en el metro para evitar que empujen a la gente a las vías, cuando pasa el tren' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nariz-gigante-raspberry-pi-gpt-4-huele-objetos-imprime-informe-1255464'>Esta nariz gigante con Raspberry Pi y GPT-4 huele objetos e imprime por sus fosas nasales un informe de lo que ha olido </a></h4>
+    <a href='https://computerhoy.com/tecnologia/nariz-gigante-raspberry-pi-gpt-4-huele-objetos-imprime-informe-1255464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nariz-gigante-raspberry-pi-gpt-4-huele-objetos-imprime-fosas-nasales-informe-ha-olido-3050214.jpg?tf=1200x' alt='Esta nariz gigante con Raspberry Pi y GPT-4 huele objetos e imprime por sus fosas nasales un informe de lo que ha olido ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/agencia-espacial-europea-transmite-primer-directo-marte-historia-1255458'>La Agencia Espacial Europa transmite el primer directo desde Marte de la historia, a 300 millones de Kilómetros</a></h4>
     <a href='https://computerhoy.com/espacio/agencia-espacial-europea-transmite-primer-directo-marte-historia-1255458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/agencia-espacial-europa-transmite-primer-directo-marte-historia-300-millones-kilometros-3050178.jpg?tf=1200x' alt='La Agencia Espacial Europa transmite el primer directo desde Marte de la historia, a 300 millones de Kilómetros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791'>Estos son los mejores móviles realme para comprar este año</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725597.jpg?tf=1200x' alt='Estos son los mejores móviles realme para comprar este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/tensor-g3-pixel-8-caracteristicas-1255446'>Se desvelan todas las características del Tensor G3, el procesador del Pixel 8: nuevos cores, IA, AV1, Ray tracing... </a></h4>
-    <a href='https://computerhoy.com/google/tensor-g3-pixel-8-caracteristicas-1255446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/pixel-6-6-pro-estrenaran-google-tensor-nuevo-procesador-desarrollado-google-2426179.jpg?tf=1200x' alt='Se desvelan todas las características del Tensor G3, el procesador del Pixel 8: nuevos cores, IA, AV1, Ray tracing... ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/pronto-cambiara-forma-interactuar-siri-iphone-1255422'>Pronto cambiará tu forma de interactuar con Siri en tu iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/pronto-cambiara-forma-interactuar-siri-iphone-1255422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/siri-iphone-2340841.jpg?tf=1200x' alt='Pronto cambiará tu forma de interactuar con Siri en tu iPhone' />
     </a>
 </div>
 
