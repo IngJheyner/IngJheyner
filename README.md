@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/japon-satelite-madera-1255474'>Adiós a la basura espacial: Japón anuncia el lanzamiento de un satélite de madera</a></h4>
+    <a href='https://computerhoy.com/espacio/japon-satelite-madera-1255474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/adios-basura-espacial-japon-anuncia-lanzamiento-satelite-madera-3050274.jpg?tf=1200x' alt='Adiós a la basura espacial: Japón anuncia el lanzamiento de un satélite de madera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/nueva-york-comienza-instalar-vallas-metro-evitar-empujen-gente-vias-1255472'>Nueva York comienza instalar vallas en el metro para evitar que empujen a la gente a las vías, cuando pasa el tren</a></h4>
     <a href='https://computerhoy.com/life/nueva-york-comienza-instalar-vallas-metro-evitar-empujen-gente-vias-1255472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nueva-york-comienza-instalar-vallas-metro-evitar-empujen-gente-vias-cuando-pasa-tren-3050250.jpg?tf=1200x' alt='Nueva York comienza instalar vallas en el metro para evitar que empujen a la gente a las vías, cuando pasa el tren' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-abrir-archivos-heic-windows-11-1252684'>Cómo abrir archivos HEIC en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-abrir-archivos-heic-windows-11-1252684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/heic-windows-3045132.jpg?tf=1200x' alt='Cómo abrir archivos HEIC en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791'>Estos son los mejores móviles realme para comprar este año</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725597.jpg?tf=1200x' alt='Estos son los mejores móviles realme para comprar este año' />
     </a>
 </div>
 
