@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/agencia-espacial-europea-transmite-primer-directo-marte-historia-1255458'>La Agencia Espacial Europa transmite el primer directo desde Marte de la historia, a 300 millones de Kilómetros</a></h4>
+    <a href='https://computerhoy.com/espacio/agencia-espacial-europea-transmite-primer-directo-marte-historia-1255458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/agencia-espacial-europa-transmite-primer-directo-marte-historia-300-millones-kilometros-3050178.jpg?tf=1200x' alt='La Agencia Espacial Europa transmite el primer directo desde Marte de la historia, a 300 millones de Kilómetros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-abrir-archivos-heic-windows-11-1252684'>Cómo abrir archivos HEIC en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-abrir-archivos-heic-windows-11-1252684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/heic-windows-3045132.jpg?tf=1200x' alt='Cómo abrir archivos HEIC en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791'>Estos son los mejores móviles realme para comprar este año</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/realme-gt-neo-3-analisis-opinion-2725597.jpg?tf=1200x' alt='Estos son los mejores móviles realme para comprar este año' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/pronto-cambiara-forma-interactuar-siri-iphone-1255422'>Pronto cambiará tu forma de interactuar con Siri en tu iPhone</a></h4>
     <a href='https://computerhoy.com/apple/pronto-cambiara-forma-interactuar-siri-iphone-1255422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/siri-iphone-2340841.jpg?tf=1200x' alt='Pronto cambiará tu forma de interactuar con Siri en tu iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-kindle-paperwhite-lector-ebooks-precio-prime-day-1255372'>El lector de ebooks Amazon Kindle Paperwhite está a precio propio de Prime Day</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-kindle-paperwhite-lector-ebooks-precio-prime-day-1255372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/kindle-unlimited-3049998.jpg?tf=1200x' alt='El lector de ebooks Amazon Kindle Paperwhite está a precio propio de Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/trucos-configurar-personalizar-windows-11-gusto-1246436'>Trucos para configurar y personalizar Windows 11 a tu gusto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/trucos-configurar-personalizar-windows-11-gusto-1246436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/biblia-windows-11-resolvemos-todas-dudas-sustituto-windows-10-2401109.jpg?tf=1200x' alt='Trucos para configurar y personalizar Windows 11 a tu gusto' />
     </a>
 </div>
 
