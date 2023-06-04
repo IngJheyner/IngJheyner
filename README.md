@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-14-te-permitira-verificar-mayor-detalle-estado-bateria-telefono-movil-1255190'>Android 14 te permitirá verificar con mayor detalle el estado de la batería en tu teléfono móvil</a></h4>
-    <a href='https://computerhoy.com/android/android-14-te-permitira-verificar-mayor-detalle-estado-bateria-telefono-movil-1255190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-presenta-primera-version-preliminar-android-14-focalizada-accesibilidad-bateria-seguridad-2951334.jpg?tf=1200x' alt='Android 14 te permitirá verificar con mayor detalle el estado de la batería en tu teléfono móvil' />
+    <h4><a href='https://computerhoy.com/apple/esperar-wwdc23-apple-ios-17-realidad-virtual-1254528'>Que podemos esperar de la WWDC23 de Apple: iOS 17, realidad virtual y más</a></h4>
+    <a href='https://computerhoy.com/apple/esperar-wwdc23-apple-ios-17-realidad-virtual-1254528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/wwdc23-3048852.jpg?tf=1200x' alt='Que podemos esperar de la WWDC23 de Apple: iOS 17, realidad virtual y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-google-maps-sea-aplicacion-navegacion-defecto-iphone-1238700'>Cómo hacer que Google Maps sea la aplicación de navegación por defecto en iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-google-maps-sea-aplicacion-navegacion-defecto-iphone-1238700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-maps-iphone-3022646.jpg?tf=1200x' alt='Cómo hacer que Google Maps sea la aplicación de navegación por defecto en iPhone' />
+    <h4><a href='https://computerhoy.com/life/jamas-debes-hacer-quieres-dormirte-rapido-1255186'>Lo que jamás debes hacer si quieres dormirte rápido</a></h4>
+    <a href='https://computerhoy.com/life/jamas-debes-hacer-quieres-dormirte-rapido-1255186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/mujer-no-puede-dormir-2739695.jpg?tf=1200x' alt='Lo que jamás debes hacer si quieres dormirte rápido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar este año</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/philips-air-fryer-3048142.jpg?tf=1200x' alt='Las mejores freidoras sin aceite que puedes comprar este año' />
+    <h4><a href='https://computerhoy.com/motor/estos-son-verdaderos-riesgos-llenar-deposito-gasolineras-low-cost-1250096'>Estos son los verdaderos riesgos de llenar el depósito en gasolineras low cost</a></h4>
+    <a href='https://computerhoy.com/motor/estos-son-verdaderos-riesgos-llenar-deposito-gasolineras-low-cost-1250096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/08/449011-alquiler-coche-gasolina.jpg?tf=1200x' alt='Estos son los verdaderos riesgos de llenar el depósito en gasolineras low cost' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-ver-fotos-movil-explorador-archivos-1255154'>Windows 11 te permitirá ver las fotos de tu móvil en el explorador de archivos</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-te-permitira-ver-fotos-movil-explorador-archivos-1255154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-11-3049808.jpg?tf=1200x' alt='Windows 11 te permitirá ver las fotos de tu móvil en el explorador de archivos' />
+    <h4><a href='https://computerhoy.com/mejores/tablets-verano-1255094'>Tablets para usar en verano: qué buscar en ellas y modelos recomendados</a></h4>
+    <a href='https://computerhoy.com/mejores/tablets-verano-1255094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tablets-usar-verano-buscar-modelos-recomendados-3049686.jpg?tf=1200x' alt='Tablets para usar en verano: qué buscar en ellas y modelos recomendados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guia-sacar-mayor-partido-conversaciones-chatgpt-1252392'>Guía para mejorar y exprimir al máximo tus conversaciones con ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guia-sacar-mayor-partido-conversaciones-chatgpt-1252392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/guia-sacar-mayor-partido-conversaciones-chatgpt-3045528.jpg?tf=1200x' alt='Guía para mejorar y exprimir al máximo tus conversaciones con ChatGPT' />
+    <h4><a href='https://computerhoy.com/life/hoguera-acampada-peligro-piedras-1254520'>Por qué nunca deberías usar piedras de un río en una hoguera de acampada</a></h4>
+    <a href='https://computerhoy.com/life/hoguera-acampada-peligro-piedras-1254520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nunca-deberias-usar-piedras-rio-hoguera-acampada-3048752.jpg?tf=1200x' alt='Por qué nunca deberías usar piedras de un río en una hoguera de acampada' />
     </a>
 </div>
 
