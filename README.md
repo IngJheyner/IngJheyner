@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ipados-17-llega-ofrecer-funcionalidades-ahora-exclusivas-iphone-1255946'>iPadOS 17 llega para ofrecer funcionalidades hasta ahora exclusivas del iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/ipados-17-llega-ofrecer-funcionalidades-ahora-exclusivas-iphone-1255946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipados-3051030.jpg?tf=1200x' alt='iPadOS 17 llega para ofrecer funcionalidades hasta ahora exclusivas del iPhone' />
+    <h4><a href='https://computerhoy.com/hogar/dyson-v15-aspiradora-potente-revolucionaria-tiene-140-euros-descuento-1252708'>Dyson V15, la aspiradora más potente y revolucionaria, tiene 140 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/hogar/dyson-v15-aspiradora-potente-revolucionaria-tiene-140-euros-descuento-1252708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aspiradora-mano-cables-dyson-v15-detect-absolute-2865003.jpg?tf=1200x' alt='Dyson V15, la aspiradora más potente y revolucionaria, tiene 140 euros de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-presenta-ios-17-todo-debes-saber-1255938'>Apple presenta iOS 17 que llega con más personalización que nunca en todos los campos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-presenta-ios-17-todo-debes-saber-1255938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ios-17-3051016.jpg?tf=1200x' alt='Apple presenta iOS 17 que llega con más personalización que nunca en todos los campos' />
+    <h4><a href='https://computerhoy.com/ciencia/energia-ilimitada-eeuu-consigue-transmitir-luz-solar-espacio-como-electricidad-adelanta-gran-experimento-japon-2025-1255866'>Energía Ilimitada: Estados Unidos consigue transmitir luz solar desde el espacio y se adelanta a Japón</a></h4>
+    <a href='https://computerhoy.com/ciencia/energia-ilimitada-eeuu-consigue-transmitir-luz-solar-espacio-como-electricidad-adelanta-gran-experimento-japon-2025-1255866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/carrera-granjas-solares-3050880.jpg?tf=1200x' alt='Energía Ilimitada: Estados Unidos consigue transmitir luz solar desde el espacio y se adelanta a Japón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mac-studio-mac-pro-m2-ultra-caracteristicas-presentacion-1255924'>Apple lanza el primer Mac Pro con chip propio gracias a M2 Ultra, con más potencia gráfica también para el Mac Studio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mac-studio-mac-pro-m2-ultra-caracteristicas-presentacion-1255924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mac-pro-3051014.jpg?tf=1200x' alt='Apple lanza el primer Mac Pro con chip propio gracias a M2 Ultra, con más potencia gráfica también para el Mac Studio' />
+    <h4><a href='https://computerhoy.com/apps/detectan-malware-193-apps-juegos-android-millones-descargas-lista-completa-1255978'>Detectan malware en 193 apps y juegos para Android con millones de descargas (lista completa)</a></h4>
+    <a href='https://computerhoy.com/apps/detectan-malware-193-apps-juegos-android-millones-descargas-lista-completa-1255978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malware-android-3051122.jpg?tf=1200x' alt='Detectan malware en 193 apps y juegos para Android con millones de descargas (lista completa)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/guionistas-inteligencia-artificial-generativa-1255932'>Y el ganador del Óscar al Mejor Guion es para... GPT-7</a></h4>
-    <a href='https://computerhoy.com/streaming/guionistas-inteligencia-artificial-generativa-1255932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/perdidos-serie-tv-1959867.jpg?tf=1200x' alt='Y el ganador del Óscar al Mejor Guion es para... GPT-7' />
+    <h4><a href='https://computerhoy.com/tecnologia/apple-vision-pro-apuesta-mr-apple-llega-eeuu-2024-1255974'>Vision Pro: la apuesta por la realidad mixta de Apple llega a Estados Unidos en 2024 por 3.500 dólares</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-vision-pro-apuesta-mr-apple-llega-eeuu-2024-1255974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051080.jpg?tf=1200x' alt='Vision Pro: la apuesta por la realidad mixta de Apple llega a Estados Unidos en 2024 por 3.500 dólares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/bing-chat-pronto-llegara-chrome-firefox-safari-1255832'>Bing Chat deja de ser exclusivo y pronto llegará a Chrome, Firefox y Safari</a></h4>
-    <a href='https://computerhoy.com/internet/bing-chat-pronto-llegara-chrome-firefox-safari-1255832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nuevo-bing-chatgpt-microsoft-google-ia-2957800.jpg?tf=1200x' alt='Bing Chat deja de ser exclusivo y pronto llegará a Chrome, Firefox y Safari' />
+    <h4><a href='https://computerhoy.com/android/dogerat-actua-nuevo-malware-infecta-telefonos-android-roba-datos-bancarios-1254766'>DogeRAT: así actúa el nuevo malware que infecta teléfonos Android y roba datos bancarios</a></h4>
+    <a href='https://computerhoy.com/android/dogerat-actua-nuevo-malware-infecta-telefonos-android-roba-datos-bancarios-1254766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/apps-programas-utilizados-introducir-malware-cuidado-descargarlos-2777481.jpg?tf=1200x' alt='DogeRAT: así actúa el nuevo malware que infecta teléfonos Android y roba datos bancarios' />
     </a>
 </div>
 
