@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-repleta-errores-estos-son-comunes-como-solucionarlos-1255808'>La última actualización de Windows 11 está repleta de errores: estos son los más comunes y cómo solucionarlos</a></h4>
-    <a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-repleta-errores-estos-son-comunes-como-solucionarlos-1255808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='La última actualización de Windows 11 está repleta de errores: estos son los más comunes y cómo solucionarlos' />
+    <h4><a href='https://computerhoy.com/apple/ipados-17-llega-ofrecer-funcionalidades-ahora-exclusivas-iphone-1255946'>iPadOS 17 llega para ofrecer funcionalidades hasta ahora exclusivas del iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/ipados-17-llega-ofrecer-funcionalidades-ahora-exclusivas-iphone-1255946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipados-3051030.jpg?tf=1200x' alt='iPadOS 17 llega para ofrecer funcionalidades hasta ahora exclusivas del iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-1255084'>Esto es lo que sabemos de Nintendo Switch Pro / Switch 2: características, precio y fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-1255084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508407.jpg?tf=1200x' alt='Esto es lo que sabemos de Nintendo Switch Pro / Switch 2: características, precio y fecha de lanzamiento' />
+    <h4><a href='https://computerhoy.com/apple/apple-presenta-ios-17-todo-debes-saber-1255938'>Apple presenta iOS 17 que llega con más personalización que nunca en todos los campos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-presenta-ios-17-todo-debes-saber-1255938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ios-17-3051016.jpg?tf=1200x' alt='Apple presenta iOS 17 que llega con más personalización que nunca en todos los campos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-extensiones-chrome-eres-programador-puedes-instalar-1217986'>Las mejores extensiones para Chrome si eres programador y que te harán la vida más fácil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-extensiones-chrome-eres-programador-puedes-instalar-1217986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programador-protatil-2793695.jpg?tf=1200x' alt='Las mejores extensiones para Chrome si eres programador y que te harán la vida más fácil' />
+    <h4><a href='https://computerhoy.com/tecnologia/mac-studio-mac-pro-m2-ultra-caracteristicas-presentacion-1255924'>Apple lanza el primer Mac Pro con chip propio gracias a M2 Ultra, con más potencia gráfica también para el Mac Studio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mac-studio-mac-pro-m2-ultra-caracteristicas-presentacion-1255924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mac-pro-3051014.jpg?tf=1200x' alt='Apple lanza el primer Mac Pro con chip propio gracias a M2 Ultra, con más potencia gráfica también para el Mac Studio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-amazon-estan-prohibiendo-plantilla-usar-chatgpt-1255778'>¿Por qué Apple, Samsung o Amazon están prohibiendo a sus empleados usar ChatGPT?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-amazon-estan-prohibiendo-plantilla-usar-chatgpt-1255778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-samsung-amazon-estan-prohibiendo-empleados-usar-chatgpt-3050724.jpg?tf=1200x' alt='¿Por qué Apple, Samsung o Amazon están prohibiendo a sus empleados usar ChatGPT?' />
+    <h4><a href='https://computerhoy.com/streaming/guionistas-inteligencia-artificial-generativa-1255932'>Y el ganador del Óscar al Mejor Guion es para... GPT-7</a></h4>
+    <a href='https://computerhoy.com/streaming/guionistas-inteligencia-artificial-generativa-1255932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/perdidos-serie-tv-1959867.jpg?tf=1200x' alt='Y el ganador del Óscar al Mejor Guion es para... GPT-7' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/primer-motor-espanol-medio-siglo-obra-ingenieria-revolucionaria-precendentes-1255086'>El primer motor español en medio siglo es una obra de ingeniería revolucionaria sin precedentes</a></h4>
-    <a href='https://computerhoy.com/motor/primer-motor-espanol-medio-siglo-obra-ingenieria-revolucionaria-precendentes-1255086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/innengine-3050744.jpg?tf=1200x' alt='El primer motor español en medio siglo es una obra de ingeniería revolucionaria sin precedentes' />
+    <h4><a href='https://computerhoy.com/internet/bing-chat-pronto-llegara-chrome-firefox-safari-1255832'>Bing Chat deja de ser exclusivo y pronto llegará a Chrome, Firefox y Safari</a></h4>
+    <a href='https://computerhoy.com/internet/bing-chat-pronto-llegara-chrome-firefox-safari-1255832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nuevo-bing-chatgpt-microsoft-google-ia-2957800.jpg?tf=1200x' alt='Bing Chat deja de ser exclusivo y pronto llegará a Chrome, Firefox y Safari' />
     </a>
 </div>
 
