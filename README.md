@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estafa-sicario-vuelve-whatsapp-usuarios-espana-ya-estan-recibiendo-estos-mensajes-1255760'>La estafa del sicario vuelve a WhatsApp: usuarios de España ya están recibiendo estos mensajes</a></h4>
+    <a href='https://computerhoy.com/apps/estafa-sicario-vuelve-whatsapp-usuarios-espana-ya-estan-recibiendo-estos-mensajes-1255760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/whatsapp-3050682.jpg?tf=1200x' alt='La estafa del sicario vuelve a WhatsApp: usuarios de España ya están recibiendo estos mensajes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/dyson-v15-aspiradora-potente-revolucionaria-tiene-140-euros-descuento-1252708'>Dyson V15, la aspiradora más potente y revolucionaria, tiene 140 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/hogar/dyson-v15-aspiradora-potente-revolucionaria-tiene-140-euros-descuento-1252708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aspiradora-mano-cables-dyson-v15-detect-absolute-2865003.jpg?tf=1200x' alt='Dyson V15, la aspiradora más potente y revolucionaria, tiene 140 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ultima-recomendacion-bill-gates-libro-videojuegos-1255720'>La última recomendación de Bill Gates es ¿un libro sobre videojuegos?</a></h4>
+    <a href='https://computerhoy.com/gaming/ultima-recomendacion-bill-gates-libro-videojuegos-1255720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ultima-recomendacion-bill-gates-libro-videojuegos-3050552.jpg?tf=1200x' alt='La última recomendación de Bill Gates es ¿un libro sobre videojuegos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/discord-sirve-plataforma-viral-1241236'>¿Qué es Discord y para qué sirve esta plataforma viral?</a></h4>
     <a href='https://computerhoy.com/streaming/discord-sirve-plataforma-viral-1241236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1685951901934-3050520.jpg?tf=1200x' alt='¿Qué es Discord y para qué sirve esta plataforma viral?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/tbird-nuevo-superordenador-nasa-200-gbps-espacio-1255692'>Así es como funciona el nuevo "superordenador" de la NASA: velocidades de hasta 200 Gbps desde el espacio</a></h4>
     <a href='https://computerhoy.com/espacio/tbird-nuevo-superordenador-nasa-200-gbps-espacio-1255692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/como-funciona-superordenador-nasa-3050514.jpg?tf=1200x' alt='Así es como funciona el nuevo "superordenador" de la NASA: velocidades de hasta 200 Gbps desde el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/huawei-matebook-x-pro-2023-caracteristicas-precio-informacion-1255664'>Core i7 de 13ª Gen., 16GB de RAM y sólo pesa 1,26kg: así es el portátil de Huawei que mata los MacBook</a></h4>
-    <a href='https://computerhoy.com/pc/huawei-matebook-x-pro-2023-caracteristicas-precio-informacion-1255664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-matebook-x-pro-2023-3050468.jpg?tf=1200x' alt='Core i7 de 13ª Gen., 16GB de RAM y sólo pesa 1,26kg: así es el portátil de Huawei que mata los MacBook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/roborock-s7-max-ultra-llega-espana-limpieza-manos-libres-1254598'>Roborock S7 Max Ultra llega a España: una experiencia de limpieza manos libres</a></h4>
-    <a href='https://computerhoy.com/hogar/roborock-s7-max-ultra-llega-espana-limpieza-manos-libres-1254598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/roborock-s7-max-ultra-llega-espana-experiencia-limpieza-manoslibres-3048860.jpg?tf=1200x' alt='Roborock S7 Max Ultra llega a España: una experiencia de limpieza manos libres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/raspberry-pi-todos-aumentara-stock-millon-unidades-partir-julio-1255674'>Raspberry Pi para todos: aumentará su stock hasta el millón de unidades a partir de julio</a></h4>
-    <a href='https://computerhoy.com/pc/raspberry-pi-todos-aumentara-stock-millon-unidades-partir-julio-1255674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/raspberry-pi-4-2531287.jpg?tf=1200x' alt='Raspberry Pi para todos: aumentará su stock hasta el millón de unidades a partir de julio' />
     </a>
 </div>
 
