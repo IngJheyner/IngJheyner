@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estafa-sicario-vuelve-whatsapp-usuarios-espana-ya-estan-recibiendo-estos-mensajes-1255760'>La estafa del sicario vuelve a WhatsApp: usuarios de España ya están recibiendo estos mensajes</a></h4>
-    <a href='https://computerhoy.com/apps/estafa-sicario-vuelve-whatsapp-usuarios-espana-ya-estan-recibiendo-estos-mensajes-1255760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/whatsapp-3050682.jpg?tf=1200x' alt='La estafa del sicario vuelve a WhatsApp: usuarios de España ya están recibiendo estos mensajes' />
+    <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-repleta-errores-estos-son-comunes-como-solucionarlos-1255808'>La última actualización de Windows 11 está repleta de errores: estos son los más comunes y cómo solucionarlos</a></h4>
+    <a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-repleta-errores-estos-son-comunes-como-solucionarlos-1255808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='La última actualización de Windows 11 está repleta de errores: estos son los más comunes y cómo solucionarlos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/dyson-v15-aspiradora-potente-revolucionaria-tiene-140-euros-descuento-1252708'>Dyson V15, la aspiradora más potente y revolucionaria, tiene 140 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/hogar/dyson-v15-aspiradora-potente-revolucionaria-tiene-140-euros-descuento-1252708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aspiradora-mano-cables-dyson-v15-detect-absolute-2865003.jpg?tf=1200x' alt='Dyson V15, la aspiradora más potente y revolucionaria, tiene 140 euros de descuento' />
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-1255084'>Esto es lo que sabemos de Nintendo Switch Pro / Switch 2: características, precio y fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-1255084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508407.jpg?tf=1200x' alt='Esto es lo que sabemos de Nintendo Switch Pro / Switch 2: características, precio y fecha de lanzamiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ultima-recomendacion-bill-gates-libro-videojuegos-1255720'>La última recomendación de Bill Gates es ¿un libro sobre videojuegos?</a></h4>
-    <a href='https://computerhoy.com/gaming/ultima-recomendacion-bill-gates-libro-videojuegos-1255720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ultima-recomendacion-bill-gates-libro-videojuegos-3050552.jpg?tf=1200x' alt='La última recomendación de Bill Gates es ¿un libro sobre videojuegos?' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-extensiones-chrome-eres-programador-puedes-instalar-1217986'>Las mejores extensiones para Chrome si eres programador y que te harán la vida más fácil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-extensiones-chrome-eres-programador-puedes-instalar-1217986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/programador-protatil-2793695.jpg?tf=1200x' alt='Las mejores extensiones para Chrome si eres programador y que te harán la vida más fácil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/discord-sirve-plataforma-viral-1241236'>¿Qué es Discord y para qué sirve esta plataforma viral?</a></h4>
-    <a href='https://computerhoy.com/streaming/discord-sirve-plataforma-viral-1241236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1685951901934-3050520.jpg?tf=1200x' alt='¿Qué es Discord y para qué sirve esta plataforma viral?' />
+    <h4><a href='https://computerhoy.com/tecnologia/apple-amazon-estan-prohibiendo-plantilla-usar-chatgpt-1255778'>¿Por qué Apple, Samsung o Amazon están prohibiendo a sus empleados usar ChatGPT?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-amazon-estan-prohibiendo-plantilla-usar-chatgpt-1255778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-samsung-amazon-estan-prohibiendo-empleados-usar-chatgpt-3050724.jpg?tf=1200x' alt='¿Por qué Apple, Samsung o Amazon están prohibiendo a sus empleados usar ChatGPT?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/tbird-nuevo-superordenador-nasa-200-gbps-espacio-1255692'>Así es como funciona el nuevo "superordenador" de la NASA: velocidades de hasta 200 Gbps desde el espacio</a></h4>
-    <a href='https://computerhoy.com/espacio/tbird-nuevo-superordenador-nasa-200-gbps-espacio-1255692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/como-funciona-superordenador-nasa-3050514.jpg?tf=1200x' alt='Así es como funciona el nuevo "superordenador" de la NASA: velocidades de hasta 200 Gbps desde el espacio' />
+    <h4><a href='https://computerhoy.com/motor/primer-motor-espanol-medio-siglo-obra-ingenieria-revolucionaria-precendentes-1255086'>El primer motor español en medio siglo es una obra de ingeniería revolucionaria sin precedentes</a></h4>
+    <a href='https://computerhoy.com/motor/primer-motor-espanol-medio-siglo-obra-ingenieria-revolucionaria-precendentes-1255086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/innengine-3050744.jpg?tf=1200x' alt='El primer motor español en medio siglo es una obra de ingeniería revolucionaria sin precedentes' />
     </a>
 </div>
 
