@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217'>Juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/juegos-ps4-3049192.jpg?tf=1200x' alt='Juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/japon-satelite-madera-1255474'>Adiós a la basura espacial: Japón anuncia el lanzamiento de un satélite de madera</a></h4>
     <a href='https://computerhoy.com/espacio/japon-satelite-madera-1255474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/adios-basura-espacial-japon-anuncia-lanzamiento-satelite-madera-3050274.jpg?tf=1200x' alt='Adiós a la basura espacial: Japón anuncia el lanzamiento de un satélite de madera' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/agencia-espacial-europea-transmite-primer-directo-marte-historia-1255458'>La Agencia Espacial Europa transmite el primer directo desde Marte de la historia, a 300 millones de Kilómetros</a></h4>
     <a href='https://computerhoy.com/espacio/agencia-espacial-europea-transmite-primer-directo-marte-historia-1255458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/agencia-espacial-europa-transmite-primer-directo-marte-historia-300-millones-kilometros-3050178.jpg?tf=1200x' alt='La Agencia Espacial Europa transmite el primer directo desde Marte de la historia, a 300 millones de Kilómetros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-abrir-archivos-heic-windows-11-1252684'>Cómo abrir archivos HEIC en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-abrir-archivos-heic-windows-11-1252684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/heic-windows-3045132.jpg?tf=1200x' alt='Cómo abrir archivos HEIC en Windows' />
     </a>
 </div>
 
