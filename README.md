@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/recuperara-mercado-espanol-moviles-2024-1252266'>Luz al final del túnel: así se recuperará el mercado español de móviles en 2024 tras más de 2 años cayendo</a></h4>
-    <a href='https://computerhoy.com/moviles/recuperara-mercado-espanol-moviles-2024-1252266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/movil-final-tunel-3046396.jpg?tf=1200x' alt='Luz al final del túnel: así se recuperará el mercado español de móviles en 2024 tras más de 2 años cayendo' />
+    <h4><a href='https://computerhoy.com/streaming/discord-sirve-plataforma-viral-1241236'>¿Qué es Discord y para qué sirve esta plataforma viral?</a></h4>
+    <a href='https://computerhoy.com/streaming/discord-sirve-plataforma-viral-1241236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1685951901934-3050520.jpg?tf=1200x' alt='¿Qué es Discord y para qué sirve esta plataforma viral?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217'>Juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/juegos-ps4-3049192.jpg?tf=1200x' alt='Juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena' />
+    <h4><a href='https://computerhoy.com/espacio/tbird-nuevo-superordenador-nasa-200-gbps-espacio-1255692'>Así es como funciona el nuevo "superordenador" de la NASA: velocidades de hasta 200 Gbps desde el espacio</a></h4>
+    <a href='https://computerhoy.com/espacio/tbird-nuevo-superordenador-nasa-200-gbps-espacio-1255692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/como-funciona-superordenador-nasa-3050514.jpg?tf=1200x' alt='Así es como funciona el nuevo "superordenador" de la NASA: velocidades de hasta 200 Gbps desde el espacio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/japon-satelite-madera-1255474'>Adiós a la basura espacial: Japón anuncia el lanzamiento de un satélite de madera</a></h4>
-    <a href='https://computerhoy.com/espacio/japon-satelite-madera-1255474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/adios-basura-espacial-japon-anuncia-lanzamiento-satelite-madera-3050274.jpg?tf=1200x' alt='Adiós a la basura espacial: Japón anuncia el lanzamiento de un satélite de madera' />
+    <h4><a href='https://computerhoy.com/pc/huawei-matebook-x-pro-2023-caracteristicas-precio-informacion-1255664'>Core i7 de 13ª Gen., 16GB de RAM y sólo pesa 1,26kg: así es el portátil de Huawei que mata los MacBook</a></h4>
+    <a href='https://computerhoy.com/pc/huawei-matebook-x-pro-2023-caracteristicas-precio-informacion-1255664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-matebook-x-pro-2023-3050468.jpg?tf=1200x' alt='Core i7 de 13ª Gen., 16GB de RAM y sólo pesa 1,26kg: así es el portátil de Huawei que mata los MacBook' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nueva-york-comienza-instalar-vallas-metro-evitar-empujen-gente-vias-1255472'>Nueva York comienza instalar vallas en el metro para evitar que empujen a la gente a las vías, cuando pasa el tren</a></h4>
-    <a href='https://computerhoy.com/life/nueva-york-comienza-instalar-vallas-metro-evitar-empujen-gente-vias-1255472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nueva-york-comienza-instalar-vallas-metro-evitar-empujen-gente-vias-cuando-pasa-tren-3050250.jpg?tf=1200x' alt='Nueva York comienza instalar vallas en el metro para evitar que empujen a la gente a las vías, cuando pasa el tren' />
+    <h4><a href='https://computerhoy.com/hogar/roborock-s7-max-ultra-llega-espana-limpieza-manos-libres-1254598'>Roborock S7 Max Ultra llega a España: una experiencia de limpieza manos libres</a></h4>
+    <a href='https://computerhoy.com/hogar/roborock-s7-max-ultra-llega-espana-limpieza-manos-libres-1254598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/roborock-s7-max-ultra-llega-espana-experiencia-limpieza-manoslibres-3048860.jpg?tf=1200x' alt='Roborock S7 Max Ultra llega a España: una experiencia de limpieza manos libres' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nariz-gigante-raspberry-pi-gpt-4-huele-objetos-imprime-informe-1255464'>Esta nariz gigante con Raspberry Pi y GPT-4 huele objetos e imprime por sus fosas nasales un informe de lo que ha olido </a></h4>
-    <a href='https://computerhoy.com/tecnologia/nariz-gigante-raspberry-pi-gpt-4-huele-objetos-imprime-informe-1255464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nariz-gigante-raspberry-pi-gpt-4-huele-objetos-imprime-fosas-nasales-informe-ha-olido-3050214.jpg?tf=1200x' alt='Esta nariz gigante con Raspberry Pi y GPT-4 huele objetos e imprime por sus fosas nasales un informe de lo que ha olido ' />
+    <h4><a href='https://computerhoy.com/pc/raspberry-pi-todos-aumentara-stock-millon-unidades-partir-julio-1255674'>Raspberry Pi para todos: aumentará su stock hasta el millón de unidades a partir de julio</a></h4>
+    <a href='https://computerhoy.com/pc/raspberry-pi-todos-aumentara-stock-millon-unidades-partir-julio-1255674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/raspberry-pi-4-2531287.jpg?tf=1200x' alt='Raspberry Pi para todos: aumentará su stock hasta el millón de unidades a partir de julio' />
     </a>
 </div>
 
