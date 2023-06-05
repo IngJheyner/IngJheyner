@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ensenan-18-loros-hacer-videollamadas-1255992'>Enseñan a 18 loros solitarios a hacer videollamadas entre ellos, y descubren que son más felices (vídeo)</a></h4>
+    <a href='https://computerhoy.com/ciencia/ensenan-18-loros-hacer-videollamadas-1255992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1685990175176-3051092.jpg?tf=1200x' alt='Enseñan a 18 loros solitarios a hacer videollamadas entre ellos, y descubren que son más felices (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-pierde-dinero-cada-vez-preguntas-1255958'>El gran problema de la IA: ChatGPT pierde dinero cada vez que le preguntas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-pierde-dinero-cada-vez-preguntas-1255958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inteligencia-artificial-ia-chatgpt-3014258.jpg?tf=1200x' alt='El gran problema de la IA: ChatGPT pierde dinero cada vez que le preguntas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/mr-bean-afirma-estar-desilusionado-coche-electrico-me-siento-enganado-1255934'>Hasta Mr. Bean afirma estar desilusionado con el coche eléctrico: “me siento engañado"</a></h4>
+    <a href='https://computerhoy.com/motor/mr-bean-afirma-estar-desilusionado-coche-electrico-me-siento-enganado-1255934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mr-bean-mini-3051000.jpg?tf=1200x' alt='Hasta Mr. Bean afirma estar desilusionado con el coche eléctrico: “me siento engañado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/gran-operacion-redes-iptv-europa-ha-sido-autentico-fiasco-1255912'>Confirmado: la gran operación contra las redes IPTV en Europa ha sido un auténtico fiasco</a></h4>
+    <a href='https://computerhoy.com/streaming/gran-operacion-redes-iptv-europa-ha-sido-autentico-fiasco-1255912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iptv-3050992.jpg?tf=1200x' alt='Confirmado: la gran operación contra las redes IPTV en Europa ha sido un auténtico fiasco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/policia-alerta-funcion-coche-nunca-te-debes-fiar-1255980'>La Policía alerta de una función de tu coche de la que nunca te debes fiar</a></h4>
     <a href='https://computerhoy.com/life/policia-alerta-funcion-coche-nunca-te-debes-fiar-1255980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cerrar-coche-3051142.jpg?tf=1200x' alt='La Policía alerta de una función de tu coche de la que nunca te debes fiar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-espacio-gmail-mejores-metodos-1254232'>Cómo liberar espacio en Gmail: los mejores métodos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-liberar-espacio-gmail-mejores-metodos-1254232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/gmail-3049790.jpg?tf=1200x' alt='Cómo liberar espacio en Gmail: los mejores métodos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/dyson-v15-aspiradora-potente-revolucionaria-tiene-140-euros-descuento-1252708'>Dyson V15, la aspiradora más potente y revolucionaria, tiene 140 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/hogar/dyson-v15-aspiradora-potente-revolucionaria-tiene-140-euros-descuento-1252708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aspiradora-mano-cables-dyson-v15-detect-absolute-2865003.jpg?tf=1200x' alt='Dyson V15, la aspiradora más potente y revolucionaria, tiene 140 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/energia-ilimitada-eeuu-consigue-transmitir-luz-solar-espacio-como-electricidad-adelanta-gran-experimento-japon-2025-1255866'>Energía Ilimitada: Estados Unidos consigue transmitir luz solar desde el espacio y se adelanta a Japón</a></h4>
-    <a href='https://computerhoy.com/ciencia/energia-ilimitada-eeuu-consigue-transmitir-luz-solar-espacio-como-electricidad-adelanta-gran-experimento-japon-2025-1255866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/carrera-granjas-solares-3050880.jpg?tf=1200x' alt='Energía Ilimitada: Estados Unidos consigue transmitir luz solar desde el espacio y se adelanta a Japón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/detectan-malware-193-apps-juegos-android-millones-descargas-lista-completa-1255978'>Detectan malware en 193 apps y juegos para Android con millones de descargas (lista completa)</a></h4>
-    <a href='https://computerhoy.com/apps/detectan-malware-193-apps-juegos-android-millones-descargas-lista-completa-1255978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malware-android-3051122.jpg?tf=1200x' alt='Detectan malware en 193 apps y juegos para Android con millones de descargas (lista completa)' />
     </a>
 </div>
 
