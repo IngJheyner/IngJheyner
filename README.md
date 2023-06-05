@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/recuperara-mercado-espanol-moviles-2024-1252266'>Luz al final del túnel: así se recuperará el mercado español de móviles en 2024 tras más de 2 años cayendo</a></h4>
+    <a href='https://computerhoy.com/moviles/recuperara-mercado-espanol-moviles-2024-1252266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/movil-final-tunel-3046396.jpg?tf=1200x' alt='Luz al final del túnel: así se recuperará el mercado español de móviles en 2024 tras más de 2 años cayendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217'>Juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena</a></h4>
     <a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/juegos-ps4-3049192.jpg?tf=1200x' alt='Juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nariz-gigante-raspberry-pi-gpt-4-huele-objetos-imprime-informe-1255464'>Esta nariz gigante con Raspberry Pi y GPT-4 huele objetos e imprime por sus fosas nasales un informe de lo que ha olido </a></h4>
     <a href='https://computerhoy.com/tecnologia/nariz-gigante-raspberry-pi-gpt-4-huele-objetos-imprime-informe-1255464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nariz-gigante-raspberry-pi-gpt-4-huele-objetos-imprime-fosas-nasales-informe-ha-olido-3050214.jpg?tf=1200x' alt='Esta nariz gigante con Raspberry Pi y GPT-4 huele objetos e imprime por sus fosas nasales un informe de lo que ha olido ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/agencia-espacial-europea-transmite-primer-directo-marte-historia-1255458'>La Agencia Espacial Europa transmite el primer directo desde Marte de la historia, a 300 millones de Kilómetros</a></h4>
-    <a href='https://computerhoy.com/espacio/agencia-espacial-europea-transmite-primer-directo-marte-historia-1255458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/agencia-espacial-europa-transmite-primer-directo-marte-historia-300-millones-kilometros-3050178.jpg?tf=1200x' alt='La Agencia Espacial Europa transmite el primer directo desde Marte de la historia, a 300 millones de Kilómetros' />
     </a>
 </div>
 
