@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/robo-tarjetas-cibercriminales-aprovechan-sitios-legitimos-1256510'>Robo de tarjetas: los cibercriminales se aprovechan sitios legítimos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/robo-tarjetas-cibercriminales-aprovechan-sitios-legitimos-1256510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-credito-2802137.jpg?tf=1200x' alt='Robo de tarjetas: los cibercriminales se aprovechan sitios legítimos' />
+    <h4><a href='https://computerhoy.com/apple/apple-aumenta-censura-iphone-aunque-no-creas-buena-noticia-1256592'>Apple aumenta la censura en los iPhone y aunque no lo creas es una buena noticia</a></h4>
+    <a href='https://computerhoy.com/apple/apple-aumenta-censura-iphone-aunque-no-creas-buena-noticia-1256592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-2951344.jpg?tf=1200x' alt='Apple aumenta la censura en los iPhone y aunque no lo creas es una buena noticia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/swimply-airbnb-alquilar-piscinas-causa-caos-vecindarios-1256536'>Swimply, el Airbnb para alquilar piscinas, esta causando el caos en los vecindarios</a></h4>
-    <a href='https://computerhoy.com/life/swimply-airbnb-alquilar-piscinas-causa-caos-vecindarios-1256536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/swimply-airbnb-alquilar-piscinas-causando-caos-vecindarios-3051986.jpg?tf=1200x' alt='Swimply, el Airbnb para alquilar piscinas, esta causando el caos en los vecindarios' />
+    <h4><a href='https://computerhoy.com/android/google-sorprende-android-auto-97-ya-disponible-todos-estas-novedades-1256588'>Google sorprende con Android Auto 9.7 que ya está disponible para todos con estas novedades</a></h4>
+    <a href='https://computerhoy.com/android/google-sorprende-android-auto-97-ya-disponible-todos-estas-novedades-1256588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='Google sorprende con Android Auto 9.7 que ya está disponible para todos con estas novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/10-funciones-brutales-kodi-exprimir-maximo-todo-potencial-1256198'>10 funciones brutales de Kodi para exprimir al máximo todo su potencial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/10-funciones-brutales-kodi-exprimir-maximo-todo-potencial-1256198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/kodi-logo-3051872.jpg?tf=1200x' alt='10 funciones brutales de Kodi para exprimir al máximo todo su potencial' />
+    <h4><a href='https://computerhoy.com/life/publicidad-suenos-distopia-futuro-cercano-marketing-1256572'>Publicidad en los sueños, una pesadilla muy cerca de hacerse realidad</a></h4>
+    <a href='https://computerhoy.com/life/publicidad-suenos-distopia-futuro-cercano-marketing-1256572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/publicidad-suenos-3052090.jpg?tf=1200x' alt='Publicidad en los sueños, una pesadilla muy cerca de hacerse realidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-frigorificos-americanos-baratos-499561'>Los mejores frigoríficos americanos baratos que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-frigorificos-americanos-baratos-499561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/frigorifico-2104041.jpg?tf=1200x' alt='Los mejores frigoríficos americanos baratos que puedes comprar ahora mismo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/hayao-miyazaki-studio-ghibli-estrena-pelicula-como-vives-sin-trailer-ni-imagenes-1256586'>El mítico Hayao Miyazaki del Studio Ghibli estrena película sin tráiler ni imágenes, y la explicación tiene mucho sentido</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hayao-miyazaki-studio-ghibli-estrena-pelicula-como-vives-sin-trailer-ni-imagenes-1256586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mitico-hayao-miyazaki-studio-ghibli-estrena-pelicula-traileres-ni-imagenes-explicacion-tiene-mucho-sentido-3052076.jpg?tf=1200x' alt='El mítico Hayao Miyazaki del Studio Ghibli estrena película sin tráiler ni imágenes, y la explicación tiene mucho sentido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/coinbase-cuerdas-sec-demanda-binance-acciones-caen-picado-1256508'>Coinbase contra las cuerdas: la SEC demanda a Binance y sus acciones caen en picado</a></h4>
-    <a href='https://computerhoy.com/criptos/coinbase-cuerdas-sec-demanda-binance-acciones-caen-picado-1256508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/binance-quiere-salvar-sector-criptomonedas-bancarrota-ftx-proyecto-2871683.jpg?tf=1200x' alt='Coinbase contra las cuerdas: la SEC demanda a Binance y sus acciones caen en picado' />
+    <h4><a href='https://computerhoy.com/moviles/funciones-ios-17-son-novedad-apple-pero-ya-tienes-movil-android-1256518'>Funciones de iOS 17 que son novedad para Apple, pero que ya tienes en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/moviles/funciones-ios-17-son-novedad-apple-pero-ya-tienes-movil-android-1256518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ios-android-3051974.jpg?tf=1200x' alt='Funciones de iOS 17 que son novedad para Apple, pero que ya tienes en tu móvil Android' />
     </a>
 </div>
 
