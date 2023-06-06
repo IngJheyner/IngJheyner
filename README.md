@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/infartos-ocurren-lunes-expertos-tienen-varias-explicaciones-1256610'>La mayoría de los infartos ocurren el lunes, y los expertos tienen varias explicaciones</a></h4>
+    <a href='https://computerhoy.com/life/infartos-ocurren-lunes-expertos-tienen-varias-explicaciones-1256610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mayoria-ataques-corazon-ocurren-lunes-expertos-tienen-varias-explicaciones-3052176.jpg?tf=1200x' alt='La mayoría de los infartos ocurren el lunes, y los expertos tienen varias explicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/union-europea-va-obligar-etiquetar-todo-contenido-generado-inteligencia-artificial-1256606'>La Unión Europea va a obligar a etiquetar todo el contenido generado por IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/union-europea-va-obligar-etiquetar-todo-contenido-generado-inteligencia-artificial-1256606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/union-europea-va-obligar-etiquetar-todo-contenido-generado-ia-3052170.jpg?tf=1200x' alt='La Unión Europea va a obligar a etiquetar todo el contenido generado por IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-aumenta-censura-iphone-aunque-no-creas-buena-noticia-1256592'>Apple aumenta la censura en los iPhone y aunque no lo creas es una buena noticia</a></h4>
     <a href='https://computerhoy.com/apple/apple-aumenta-censura-iphone-aunque-no-creas-buena-noticia-1256592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-2951344.jpg?tf=1200x' alt='Apple aumenta la censura en los iPhone y aunque no lo creas es una buena noticia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/publicidad-suenos-distopia-futuro-cercano-marketing-1256572'>Publicidad en los sueños, una pesadilla muy cerca de hacerse realidad</a></h4>
     <a href='https://computerhoy.com/life/publicidad-suenos-distopia-futuro-cercano-marketing-1256572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/publicidad-suenos-3052090.jpg?tf=1200x' alt='Publicidad en los sueños, una pesadilla muy cerca de hacerse realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/hayao-miyazaki-studio-ghibli-estrena-pelicula-como-vives-sin-trailer-ni-imagenes-1256586'>El mítico Hayao Miyazaki del Studio Ghibli estrena película sin tráiler ni imágenes, y la explicación tiene mucho sentido</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/hayao-miyazaki-studio-ghibli-estrena-pelicula-como-vives-sin-trailer-ni-imagenes-1256586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mitico-hayao-miyazaki-studio-ghibli-estrena-pelicula-traileres-ni-imagenes-explicacion-tiene-mucho-sentido-3052076.jpg?tf=1200x' alt='El mítico Hayao Miyazaki del Studio Ghibli estrena película sin tráiler ni imágenes, y la explicación tiene mucho sentido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/funciones-ios-17-son-novedad-apple-pero-ya-tienes-movil-android-1256518'>Funciones de iOS 17 que son novedad para Apple, pero que ya tienes en tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/moviles/funciones-ios-17-son-novedad-apple-pero-ya-tienes-movil-android-1256518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ios-android-3051974.jpg?tf=1200x' alt='Funciones de iOS 17 que son novedad para Apple, pero que ya tienes en tu móvil Android' />
     </a>
 </div>
 
