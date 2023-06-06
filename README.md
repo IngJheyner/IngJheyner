@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-anade-redaccion-inteligente-google-chat-mejorar-comunicacion-1256256'>Google añade la redacción inteligente a Google Chat para mejorar tu comunicación</a></h4>
+    <a href='https://computerhoy.com/google/google-anade-redaccion-inteligente-google-chat-mejorar-comunicacion-1256256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-anade-redaccion-inteligente-google-chat-mejorar-comunicacion-3051516.jpg?tf=1200x' alt='Google añade la redacción inteligente a Google Chat para mejorar tu comunicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/podra-apple-replicar-exito-iphone-llegada-apple-vision-pro-1255848'>¿Podrá Apple replicar el éxito del iPhone con la llegada del Vision Pro, su visor de realidad mixta?</a></h4>
     <a href='https://computerhoy.com/tecnologia/podra-apple-replicar-exito-iphone-llegada-apple-vision-pro-1255848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051140.jpg?tf=1200x' alt='¿Podrá Apple replicar el éxito del iPhone con la llegada del Vision Pro, su visor de realidad mixta?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-invita-enviar-nombre-luna-europa-jupiter-mision-clipper-1256200'>La NASA te invita a enviar tu nombre a la luna Europa de Júpiter, dentro de una botella</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-invita-enviar-nombre-luna-europa-jupiter-mision-clipper-1256200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nasa-te-invita-enviar-nombre-luna-europa-jupiter-dentro-botella-3051214.jpg?tf=1200x' alt='La NASA te invita a enviar tu nombre a la luna Europa de Júpiter, dentro de una botella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/paneles-solares-dentro-via-tren-sun-ways-1255994'>Suiza ha encontrado el lugar ideal para colocar paneles solares: en la vía del tren</a></h4>
-    <a href='https://computerhoy.com/energia/paneles-solares-dentro-via-tren-sun-ways-1255994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/suiza-ha-encontrado-lugar-ideal-colocar-paneles-solares-tren-3051204.jpg?tf=1200x' alt='Suiza ha encontrado el lugar ideal para colocar paneles solares: en la vía del tren' />
     </a>
 </div>
 
