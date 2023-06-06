@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/3500-dolares-realmente-tan-caro-apple-vision-pro-como-cree-1256448'>3.500 dólares: ¿Es realmente tan caro el Apple Vision Pro como se cree?</a></h4>
+    <a href='https://computerhoy.com/apple/3500-dolares-realmente-tan-caro-apple-vision-pro-como-cree-1256448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/3500-dolares-realmente-tan-caro-apple-vision-pro-como-cree-3051806.jpg?tf=1200x' alt='3.500 dólares: ¿Es realmente tan caro el Apple Vision Pro como se cree?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/10-novedades-ios-17-pasaron-alto-wwdc-23-1256436'>10 novedades de iOS 17 que se pasaron por alto en el WWDC 23</a></h4>
+    <a href='https://computerhoy.com/apple/10-novedades-ios-17-pasaron-alto-wwdc-23-1256436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ios-17-3051704.jpg?tf=1200x' alt='10 novedades de iOS 17 que se pasaron por alto en el WWDC 23' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-ha-evitado-usar-palabra-inteligencia-artificial-wwdc-23-1256418'>¿Por qué Apple ha evitado usar la palabra 'inteligencia artificial' en su WWDC 23?</a></h4>
+    <a href='https://computerhoy.com/apple/apple-ha-evitado-usar-palabra-inteligencia-artificial-wwdc-23-1256418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-ha-evitado-usar-palabra-inteligencia-artificial-wwdc-23-3051622.jpg?tf=1200x' alt='¿Por qué Apple ha evitado usar la palabra 'inteligencia artificial' en su WWDC 23?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/precio-minimo-historico-samsung-galaxy-z-flip4-128gb-699-euros-1255772'>Precio mínimo histórico: el Samsung Galaxy Z Flip4 de 128GB está a 699 euros</a></h4>
     <a href='https://computerhoy.com/android/precio-minimo-historico-samsung-galaxy-z-flip4-128gb-699-euros-1255772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-2803861.jpg?tf=1200x' alt='Precio mínimo histórico: el Samsung Galaxy Z Flip4 de 128GB está a 699 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/modelos-iphone-no-actualizaran-ios-17-ya-no-deberias-comprar-segunda-mano-1256292'>Modelos de iPhone que no se actualizarán a iOS 17 y que ya no deberías comprar de segunda mano</a></h4>
     <a href='https://computerhoy.com/apple/modelos-iphone-no-actualizaran-ios-17-ya-no-deberias-comprar-segunda-mano-1256292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/iphone-8-1853613.jpg?tf=1200x' alt='Modelos de iPhone que no se actualizarán a iOS 17 y que ya no deberías comprar de segunda mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-vision-pro-vs-meta-quest-3-cuales-son-diferencias-1256272'>Es hora de enfrentar a los titanes: Apple Vision Pro vs. Meta Quest 3, ¿cuáles son sus diferencias?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-vision-pro-vs-meta-quest-3-cuales-son-diferencias-1256272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hora-enfrentar-titanes-apple-vision-pro-vs-meta-quest-3-cuales-son-diferencias-3051542.jpg?tf=1200x' alt='Es hora de enfrentar a los titanes: Apple Vision Pro vs. Meta Quest 3, ¿cuáles son sus diferencias?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ios-17-cuando-podras-descargarlo-modelos-compatibles-novedades-1256286'>iOS 17: fecha de salida, modelos compatibles y novedades clave</a></h4>
-    <a href='https://computerhoy.com/apple/ios-17-cuando-podras-descargarlo-modelos-compatibles-novedades-1256286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ios-17-3051016.jpg?tf=1200x' alt='iOS 17: fecha de salida, modelos compatibles y novedades clave' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/vodafone-regala-moviles-samsung-xiaomi-merecen-pena-1255828'>¿Merecen la pena los móviles Samsung y Xiaomi que Vodafone regala este verano?</a></h4>
-    <a href='https://computerhoy.com/moviles/vodafone-regala-moviles-samsung-xiaomi-merecen-pena-1255828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/moviles-gratis-promocion-vodafone-3050844.jpg?tf=1200x' alt='¿Merecen la pena los móviles Samsung y Xiaomi que Vodafone regala este verano?' />
     </a>
 </div>
 
