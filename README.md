@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/podra-apple-replicar-exito-iphone-llegada-apple-vision-pro-1255848'>¿Podrá Apple replicar el éxito del iPhone con la llegada del Vision Pro, su visor de realidad mixta?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/podra-apple-replicar-exito-iphone-llegada-apple-vision-pro-1255848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051140.jpg?tf=1200x' alt='¿Podrá Apple replicar el éxito del iPhone con la llegada del Vision Pro, su visor de realidad mixta?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/mini-pc-intel-core-i5-1255374'>Estos son los mejores mini PC con procesador Intel Core i5 que pueden reemplazar tu PC</a></h4>
+    <a href='https://computerhoy.com/mejores/mini-pc-intel-core-i5-1255374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estos-mini-pc-pueden-reemplazar-ordenador-son-potentes-mucho-baratos-3008396.jpg?tf=1200x' alt='Estos son los mejores mini PC con procesador Intel Core i5 que pueden reemplazar tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/5300-carteros-atacados-perros-estados-unidos-2022-1256202'>El mito es real: 5.300 carteros mordidos por perros en Estados Unidos en 2022</a></h4>
+    <a href='https://computerhoy.com/life/5300-carteros-atacados-perros-estados-unidos-2022-1256202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mito-real-5300-carteros-fueron-atacados-perros-estados-unidos-2022-3051412.jpg?tf=1200x' alt='El mito es real: 5.300 carteros mordidos por perros en Estados Unidos en 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-invita-enviar-nombre-luna-europa-jupiter-mision-clipper-1256200'>La NASA te invita a enviar tu nombre a la luna Europa de Júpiter, dentro de una botella</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-invita-enviar-nombre-luna-europa-jupiter-mision-clipper-1256200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nasa-te-invita-enviar-nombre-luna-europa-jupiter-dentro-botella-3051214.jpg?tf=1200x' alt='La NASA te invita a enviar tu nombre a la luna Europa de Júpiter, dentro de una botella' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/paneles-solares-dentro-via-tren-sun-ways-1255994'>Suiza ha encontrado el lugar ideal para colocar paneles solares: en la vía del tren</a></h4>
     <a href='https://computerhoy.com/energia/paneles-solares-dentro-via-tren-sun-ways-1255994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/suiza-ha-encontrado-lugar-ideal-colocar-paneles-solares-tren-3051204.jpg?tf=1200x' alt='Suiza ha encontrado el lugar ideal para colocar paneles solares: en la vía del tren' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ensenan-18-loros-hacer-videollamadas-1255992'>Enseñan a 18 loros solitarios a hacer videollamadas entre ellos, y descubren que son más felices (vídeo)</a></h4>
-    <a href='https://computerhoy.com/ciencia/ensenan-18-loros-hacer-videollamadas-1255992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1685990175176-3051092.jpg?tf=1200x' alt='Enseñan a 18 loros solitarios a hacer videollamadas entre ellos, y descubren que son más felices (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-pierde-dinero-cada-vez-preguntas-1255958'>El gran problema de la IA: ChatGPT pierde dinero cada vez que le preguntas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-pierde-dinero-cada-vez-preguntas-1255958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/inteligencia-artificial-ia-chatgpt-3014258.jpg?tf=1200x' alt='El gran problema de la IA: ChatGPT pierde dinero cada vez que le preguntas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/mr-bean-afirma-estar-desilusionado-coche-electrico-me-siento-enganado-1255934'>Hasta Mr. Bean afirma estar desilusionado con el coche eléctrico: “me siento engañado"</a></h4>
-    <a href='https://computerhoy.com/motor/mr-bean-afirma-estar-desilusionado-coche-electrico-me-siento-enganado-1255934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mr-bean-mini-3051000.jpg?tf=1200x' alt='Hasta Mr. Bean afirma estar desilusionado con el coche eléctrico: “me siento engañado"' />
     </a>
 </div>
 
