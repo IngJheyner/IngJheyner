@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/paneles-solares-dentro-via-tren-sun-ways-1255994'>Suiza ha encontrado el lugar ideal para colocar paneles solares: en la vía del tren</a></h4>
+    <a href='https://computerhoy.com/energia/paneles-solares-dentro-via-tren-sun-ways-1255994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/suiza-ha-encontrado-lugar-ideal-colocar-paneles-solares-tren-3051204.jpg?tf=1200x' alt='Suiza ha encontrado el lugar ideal para colocar paneles solares: en la vía del tren' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/ensenan-18-loros-hacer-videollamadas-1255992'>Enseñan a 18 loros solitarios a hacer videollamadas entre ellos, y descubren que son más felices (vídeo)</a></h4>
     <a href='https://computerhoy.com/ciencia/ensenan-18-loros-hacer-videollamadas-1255992' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1685990175176-3051092.jpg?tf=1200x' alt='Enseñan a 18 loros solitarios a hacer videollamadas entre ellos, y descubren que son más felices (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/gran-operacion-redes-iptv-europa-ha-sido-autentico-fiasco-1255912'>Confirmado: la gran operación contra las redes IPTV en Europa ha sido un auténtico fiasco</a></h4>
     <a href='https://computerhoy.com/streaming/gran-operacion-redes-iptv-europa-ha-sido-autentico-fiasco-1255912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iptv-3050992.jpg?tf=1200x' alt='Confirmado: la gran operación contra las redes IPTV en Europa ha sido un auténtico fiasco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/policia-alerta-funcion-coche-nunca-te-debes-fiar-1255980'>La Policía alerta de una función de tu coche de la que nunca te debes fiar</a></h4>
-    <a href='https://computerhoy.com/life/policia-alerta-funcion-coche-nunca-te-debes-fiar-1255980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cerrar-coche-3051142.jpg?tf=1200x' alt='La Policía alerta de una función de tu coche de la que nunca te debes fiar' />
     </a>
 </div>
 
