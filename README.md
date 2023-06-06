@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-invita-enviar-nombre-luna-europa-jupiter-mision-clipper-1256200'>La NASA te invita a enviar tu nombre a la luna Europa de Júpiter, dentro de una botella</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-invita-enviar-nombre-luna-europa-jupiter-mision-clipper-1256200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nasa-te-invita-enviar-nombre-luna-europa-jupiter-dentro-botella-3051214.jpg?tf=1200x' alt='La NASA te invita a enviar tu nombre a la luna Europa de Júpiter, dentro de una botella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/paneles-solares-dentro-via-tren-sun-ways-1255994'>Suiza ha encontrado el lugar ideal para colocar paneles solares: en la vía del tren</a></h4>
     <a href='https://computerhoy.com/energia/paneles-solares-dentro-via-tren-sun-ways-1255994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/suiza-ha-encontrado-lugar-ideal-colocar-paneles-solares-tren-3051204.jpg?tf=1200x' alt='Suiza ha encontrado el lugar ideal para colocar paneles solares: en la vía del tren' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/mr-bean-afirma-estar-desilusionado-coche-electrico-me-siento-enganado-1255934'>Hasta Mr. Bean afirma estar desilusionado con el coche eléctrico: “me siento engañado"</a></h4>
     <a href='https://computerhoy.com/motor/mr-bean-afirma-estar-desilusionado-coche-electrico-me-siento-enganado-1255934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mr-bean-mini-3051000.jpg?tf=1200x' alt='Hasta Mr. Bean afirma estar desilusionado con el coche eléctrico: “me siento engañado"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/gran-operacion-redes-iptv-europa-ha-sido-autentico-fiasco-1255912'>Confirmado: la gran operación contra las redes IPTV en Europa ha sido un auténtico fiasco</a></h4>
-    <a href='https://computerhoy.com/streaming/gran-operacion-redes-iptv-europa-ha-sido-autentico-fiasco-1255912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iptv-3050992.jpg?tf=1200x' alt='Confirmado: la gran operación contra las redes IPTV en Europa ha sido un auténtico fiasco' />
     </a>
 </div>
 
