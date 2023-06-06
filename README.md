@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/3500-dolares-realmente-tan-caro-apple-vision-pro-como-cree-1256448'>3.500 dólares: ¿Es realmente tan caro el Apple Vision Pro como se cree?</a></h4>
-    <a href='https://computerhoy.com/apple/3500-dolares-realmente-tan-caro-apple-vision-pro-como-cree-1256448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/3500-dolares-realmente-tan-caro-apple-vision-pro-como-cree-3051806.jpg?tf=1200x' alt='3.500 dólares: ¿Es realmente tan caro el Apple Vision Pro como se cree?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/robo-tarjetas-cibercriminales-aprovechan-sitios-legitimos-1256510'>Robo de tarjetas: los cibercriminales se aprovechan sitios legítimos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/robo-tarjetas-cibercriminales-aprovechan-sitios-legitimos-1256510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-credito-2802137.jpg?tf=1200x' alt='Robo de tarjetas: los cibercriminales se aprovechan sitios legítimos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/10-novedades-ios-17-pasaron-alto-wwdc-23-1256436'>10 novedades de iOS 17 que se pasaron por alto en el WWDC 23</a></h4>
-    <a href='https://computerhoy.com/apple/10-novedades-ios-17-pasaron-alto-wwdc-23-1256436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ios-17-3051704.jpg?tf=1200x' alt='10 novedades de iOS 17 que se pasaron por alto en el WWDC 23' />
+    <h4><a href='https://computerhoy.com/life/swimply-airbnb-alquilar-piscinas-causa-caos-vecindarios-1256536'>Swimply, el Airbnb para alquilar piscinas, esta causando el caos en los vecindarios</a></h4>
+    <a href='https://computerhoy.com/life/swimply-airbnb-alquilar-piscinas-causa-caos-vecindarios-1256536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/swimply-airbnb-alquilar-piscinas-causando-caos-vecindarios-3051986.jpg?tf=1200x' alt='Swimply, el Airbnb para alquilar piscinas, esta causando el caos en los vecindarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-ha-evitado-usar-palabra-inteligencia-artificial-wwdc-23-1256418'>¿Por qué Apple ha evitado usar la palabra 'inteligencia artificial' en su WWDC 23?</a></h4>
-    <a href='https://computerhoy.com/apple/apple-ha-evitado-usar-palabra-inteligencia-artificial-wwdc-23-1256418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-ha-evitado-usar-palabra-inteligencia-artificial-wwdc-23-3051622.jpg?tf=1200x' alt='¿Por qué Apple ha evitado usar la palabra 'inteligencia artificial' en su WWDC 23?' />
+    <h4><a href='https://computerhoy.com/tecnologia/10-funciones-brutales-kodi-exprimir-maximo-todo-potencial-1256198'>10 funciones brutales de Kodi para exprimir al máximo todo su potencial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/10-funciones-brutales-kodi-exprimir-maximo-todo-potencial-1256198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/kodi-logo-3051872.jpg?tf=1200x' alt='10 funciones brutales de Kodi para exprimir al máximo todo su potencial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/precio-minimo-historico-samsung-galaxy-z-flip4-128gb-699-euros-1255772'>Precio mínimo histórico: el Samsung Galaxy Z Flip4 de 128GB está a 699 euros</a></h4>
-    <a href='https://computerhoy.com/android/precio-minimo-historico-samsung-galaxy-z-flip4-128gb-699-euros-1255772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-2803861.jpg?tf=1200x' alt='Precio mínimo histórico: el Samsung Galaxy Z Flip4 de 128GB está a 699 euros' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-frigorificos-americanos-baratos-499561'>Los mejores frigoríficos americanos baratos que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-frigorificos-americanos-baratos-499561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/frigorifico-2104041.jpg?tf=1200x' alt='Los mejores frigoríficos americanos baratos que puedes comprar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/modelos-iphone-no-actualizaran-ios-17-ya-no-deberias-comprar-segunda-mano-1256292'>Modelos de iPhone que no se actualizarán a iOS 17 y que ya no deberías comprar de segunda mano</a></h4>
-    <a href='https://computerhoy.com/apple/modelos-iphone-no-actualizaran-ios-17-ya-no-deberias-comprar-segunda-mano-1256292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/iphone-8-1853613.jpg?tf=1200x' alt='Modelos de iPhone que no se actualizarán a iOS 17 y que ya no deberías comprar de segunda mano' />
+    <h4><a href='https://computerhoy.com/criptos/coinbase-cuerdas-sec-demanda-binance-acciones-caen-picado-1256508'>Coinbase contra las cuerdas: la SEC demanda a Binance y sus acciones caen en picado</a></h4>
+    <a href='https://computerhoy.com/criptos/coinbase-cuerdas-sec-demanda-binance-acciones-caen-picado-1256508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/binance-quiere-salvar-sector-criptomonedas-bancarrota-ftx-proyecto-2871683.jpg?tf=1200x' alt='Coinbase contra las cuerdas: la SEC demanda a Binance y sus acciones caen en picado' />
     </a>
 </div>
 
