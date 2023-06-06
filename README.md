@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-anade-redaccion-inteligente-google-chat-mejorar-comunicacion-1256256'>Google añade la redacción inteligente a Google Chat para mejorar tu comunicación</a></h4>
-    <a href='https://computerhoy.com/google/google-anade-redaccion-inteligente-google-chat-mejorar-comunicacion-1256256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-anade-redaccion-inteligente-google-chat-mejorar-comunicacion-3051516.jpg?tf=1200x' alt='Google añade la redacción inteligente a Google Chat para mejorar tu comunicación' />
+    <h4><a href='https://computerhoy.com/android/precio-minimo-historico-samsung-galaxy-z-flip4-128gb-699-euros-1255772'>Precio mínimo histórico: el Samsung Galaxy Z Flip4 de 128GB está a 699 euros</a></h4>
+    <a href='https://computerhoy.com/android/precio-minimo-historico-samsung-galaxy-z-flip4-128gb-699-euros-1255772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-2803861.jpg?tf=1200x' alt='Precio mínimo histórico: el Samsung Galaxy Z Flip4 de 128GB está a 699 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/podra-apple-replicar-exito-iphone-llegada-apple-vision-pro-1255848'>¿Podrá Apple replicar el éxito del iPhone con la llegada del Vision Pro, su visor de realidad mixta?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/podra-apple-replicar-exito-iphone-llegada-apple-vision-pro-1255848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051140.jpg?tf=1200x' alt='¿Podrá Apple replicar el éxito del iPhone con la llegada del Vision Pro, su visor de realidad mixta?' />
+    <h4><a href='https://computerhoy.com/apple/modelos-iphone-no-actualizaran-ios-17-ya-no-deberias-comprar-segunda-mano-1256292'>Modelos de iPhone que no se actualizarán a iOS 17 y que ya no deberías comprar de segunda mano</a></h4>
+    <a href='https://computerhoy.com/apple/modelos-iphone-no-actualizaran-ios-17-ya-no-deberias-comprar-segunda-mano-1256292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/iphone-8-1853613.jpg?tf=1200x' alt='Modelos de iPhone que no se actualizarán a iOS 17 y que ya no deberías comprar de segunda mano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/mini-pc-intel-core-i5-1255374'>Estos son los mejores mini PC con procesador Intel Core i5 que pueden reemplazar tu PC</a></h4>
-    <a href='https://computerhoy.com/mejores/mini-pc-intel-core-i5-1255374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/estos-mini-pc-pueden-reemplazar-ordenador-son-potentes-mucho-baratos-3008396.jpg?tf=1200x' alt='Estos son los mejores mini PC con procesador Intel Core i5 que pueden reemplazar tu PC' />
+    <h4><a href='https://computerhoy.com/tecnologia/apple-vision-pro-vs-meta-quest-3-cuales-son-diferencias-1256272'>Es hora de enfrentar a los titanes: Apple Vision Pro vs. Meta Quest 3, ¿cuáles son sus diferencias?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-vision-pro-vs-meta-quest-3-cuales-son-diferencias-1256272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hora-enfrentar-titanes-apple-vision-pro-vs-meta-quest-3-cuales-son-diferencias-3051542.jpg?tf=1200x' alt='Es hora de enfrentar a los titanes: Apple Vision Pro vs. Meta Quest 3, ¿cuáles son sus diferencias?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/5300-carteros-atacados-perros-estados-unidos-2022-1256202'>El mito es real: 5.300 carteros mordidos por perros en Estados Unidos en 2022</a></h4>
-    <a href='https://computerhoy.com/life/5300-carteros-atacados-perros-estados-unidos-2022-1256202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mito-real-5300-carteros-fueron-atacados-perros-estados-unidos-2022-3051412.jpg?tf=1200x' alt='El mito es real: 5.300 carteros mordidos por perros en Estados Unidos en 2022' />
+    <h4><a href='https://computerhoy.com/apple/ios-17-cuando-podras-descargarlo-modelos-compatibles-novedades-1256286'>iOS 17: fecha de salida, modelos compatibles y novedades clave</a></h4>
+    <a href='https://computerhoy.com/apple/ios-17-cuando-podras-descargarlo-modelos-compatibles-novedades-1256286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ios-17-3051016.jpg?tf=1200x' alt='iOS 17: fecha de salida, modelos compatibles y novedades clave' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-invita-enviar-nombre-luna-europa-jupiter-mision-clipper-1256200'>La NASA te invita a enviar tu nombre a la luna Europa de Júpiter, dentro de una botella</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-invita-enviar-nombre-luna-europa-jupiter-mision-clipper-1256200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nasa-te-invita-enviar-nombre-luna-europa-jupiter-dentro-botella-3051214.jpg?tf=1200x' alt='La NASA te invita a enviar tu nombre a la luna Europa de Júpiter, dentro de una botella' />
+    <h4><a href='https://computerhoy.com/moviles/vodafone-regala-moviles-samsung-xiaomi-merecen-pena-1255828'>¿Merecen la pena los móviles Samsung y Xiaomi que Vodafone regala este verano?</a></h4>
+    <a href='https://computerhoy.com/moviles/vodafone-regala-moviles-samsung-xiaomi-merecen-pena-1255828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/moviles-gratis-promocion-vodafone-3050844.jpg?tf=1200x' alt='¿Merecen la pena los móviles Samsung y Xiaomi que Vodafone regala este verano?' />
     </a>
 </div>
 
