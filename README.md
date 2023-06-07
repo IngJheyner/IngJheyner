@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/instagram-podria-tener-propio-chatbot-inteligencia-artificial-muy-pronto-1256910'>Instagram podría tener su propio chatbot de inteligencia artificial muy pronto</a></h4>
+    <a href='https://computerhoy.com/apps/instagram-podria-tener-propio-chatbot-inteligencia-artificial-muy-pronto-1256910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/instagram-podria-tener-propio-chatbot-inteligencia-artificial-muy-pronto-3052506.jpg?tf=1200x' alt='Instagram podría tener su propio chatbot de inteligencia artificial muy pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/creador-ipod-critica-dos-grandes-fallos-vision-pro-apple-1256888'>El creador del iPod se queda a gusto criticando los dos grandes fallos del nuevo Vision Pro de Apple </a></h4>
     <a href='https://computerhoy.com/apple/creador-ipod-critica-dos-grandes-fallos-vision-pro-apple-1256888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/creador-ipod-queda-agusto-criticando-dos-grandes-fallos-nuevo-vision-pro-apple-3052470.jpg?tf=1200x' alt='El creador del iPod se queda a gusto criticando los dos grandes fallos del nuevo Vision Pro de Apple ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/apple-vision-pro-compara-precio-otros-productos-debut-1256480'>Vision Pro no es para todos los bolsillos, pero tampoco lo más caro de Apple: así se compara con sus otros productos</a></h4>
     <a href='https://computerhoy.com/tecnologia/apple-vision-pro-compara-precio-otros-productos-debut-1256480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-precio-3051970.jpg?tf=1200x' alt='Vision Pro no es para todos los bolsillos, pero tampoco lo más caro de Apple: así se compara con sus otros productos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/ratones-cable-1256582'>Mejores ratones con cable: ventajas y mejores opciones que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/mejores/ratones-cable-1256582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/razer-deathadder-v2-2137065.jpg?tf=1200x' alt='Mejores ratones con cable: ventajas y mejores opciones que puedes comprar' />
     </a>
 </div>
 
