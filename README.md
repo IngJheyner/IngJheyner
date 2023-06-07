@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/creador-ipod-critica-dos-grandes-fallos-vision-pro-apple-1256888'>El creador del iPod se queda a gusto criticando los dos grandes fallos del nuevo Vision Pro de Apple </a></h4>
+    <a href='https://computerhoy.com/apple/creador-ipod-critica-dos-grandes-fallos-vision-pro-apple-1256888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/creador-ipod-queda-agusto-criticando-dos-grandes-fallos-nuevo-vision-pro-apple-3052470.jpg?tf=1200x' alt='El creador del iPod se queda a gusto criticando los dos grandes fallos del nuevo Vision Pro de Apple ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/guionista-black-mirror-usa-chatgpt-escribir-episodio-desastre-habla-solo-1256878'>El guionista de Black Mirror usa ChatGPT para escribir un episodio y el desastre habla por sí solo</a></h4>
     <a href='https://computerhoy.com/streaming/guionista-black-mirror-usa-chatgpt-escribir-episodio-desastre-habla-solo-1256878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/guionista-black-mirror-usa-chatgpt-escribir-episodio-desastre-habla-solo-3052452.jpg?tf=1200x' alt='El guionista de Black Mirror usa ChatGPT para escribir un episodio y el desastre habla por sí solo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/ratones-cable-1256582'>Mejores ratones con cable: ventajas y mejores opciones que puedes comprar</a></h4>
     <a href='https://computerhoy.com/mejores/ratones-cable-1256582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/razer-deathadder-v2-2137065.jpg?tf=1200x' alt='Mejores ratones con cable: ventajas y mejores opciones que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/infartos-ocurren-lunes-expertos-tienen-varias-explicaciones-1256610'>La mayoría de los infartos ocurren el lunes, y los expertos tienen varias explicaciones</a></h4>
-    <a href='https://computerhoy.com/life/infartos-ocurren-lunes-expertos-tienen-varias-explicaciones-1256610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mayoria-ataques-corazon-ocurren-lunes-expertos-tienen-varias-explicaciones-3052176.jpg?tf=1200x' alt='La mayoría de los infartos ocurren el lunes, y los expertos tienen varias explicaciones' />
     </a>
 </div>
 
