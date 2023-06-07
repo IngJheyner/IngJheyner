@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-z-flip-5-filtra-dejando-ver-todas-novedades-veremos-samsung-unpacked-1257088'>El Samsung Galaxy Z Flip 5 se filtra dejando ver todas las novedades que veremos en el Samsung Unpacked</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-galaxy-z-flip-5-filtra-dejando-ver-todas-novedades-veremos-samsung-unpacked-1257088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-analisis-opinion-2802967.jpg?tf=1200x' alt='El Samsung Galaxy Z Flip 5 se filtra dejando ver todas las novedades que veremos en el Samsung Unpacked' />
+    <h4><a href='https://computerhoy.com/life/bill-gates-desvela-inteligente-consejo-cambio-vida-multimillonario-warren-buffett-1257206'>Bill Gates desvela el inteligente consejo que cambió la vida del multimillonario Warren Buffett</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-desvela-inteligente-consejo-cambio-vida-multimillonario-warren-buffett-1257206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amistad-bill-gates-warren-buffett-3053154.jpg?tf=1200x' alt='Bill Gates desvela el inteligente consejo que cambió la vida del multimillonario Warren Buffett' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/recomendable-usar-portatil-tapa-cerrada-1256590'>¿Es peligroso utilizar el ordenador portátil con la tapa cerrada?</a></h4>
-    <a href='https://computerhoy.com/pc/recomendable-usar-portatil-tapa-cerrada-1256590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galeria-review-macbook-air-m2-2779309.jpg?tf=1200x' alt='¿Es peligroso utilizar el ordenador portátil con la tapa cerrada?' />
+    <h4><a href='https://computerhoy.com/amazon/10-mejores-funciones-accesibilidad-amazon-kindle-fire-tv-alexa-1256832'>Las 10 mejores funciones de accesibilidad para Amazon Kindle, Fire TV y Alexa</a></h4>
+    <a href='https://computerhoy.com/amazon/10-mejores-funciones-accesibilidad-amazon-kindle-fire-tv-alexa-1256832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-alexa-3052650.jpg?tf=1200x' alt='Las 10 mejores funciones de accesibilidad para Amazon Kindle, Fire TV y Alexa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/skiplagging-truco-viajar-avion-gastar-fortuna-1256546'>Skiplagging, el truco para viajar en avión sin gastar una fortuna que las aerolíneas no quieren que sepas</a></h4>
-    <a href='https://computerhoy.com/life/skiplagging-truco-viajar-avion-gastar-fortuna-1256546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/billetes-avion-3052612.jpg?tf=1200x' alt='Skiplagging, el truco para viajar en avión sin gastar una fortuna que las aerolíneas no quieren que sepas' />
+    <h4><a href='https://computerhoy.com/ciencia/desarrollan-vendaje-3d-personalizable-hace-heridas-quemadura-curen-rapido-1257200'>Desarrollan un vendaje 3D personalizable que hace que las heridas por quemadura curen más rápido</a></h4>
+    <a href='https://computerhoy.com/ciencia/desarrollan-vendaje-3d-personalizable-hace-heridas-quemadura-curen-rapido-1257200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/desarrollan-vendaje-3d-personalizable-hace-heridas-quemadura-curen-rapido-3053150.jpg?tf=1200x' alt='Desarrollan un vendaje 3D personalizable que hace que las heridas por quemadura curen más rápido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/7-mejores-aplicaciones-encontrar-vuelos-alojamientos-baratos-ahora-llega-verano-1168778'>Las 7 mejores aplicaciones para encontrar vuelos y alojamientos baratos ahora que llega el verano</a></h4>
-    <a href='https://computerhoy.com/apps/7-mejores-aplicaciones-encontrar-vuelos-alojamientos-baratos-ahora-llega-verano-1168778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/agencia-viajes-2984024.jpg?tf=1200x' alt='Las 7 mejores aplicaciones para encontrar vuelos y alojamientos baratos ahora que llega el verano' />
+    <h4><a href='https://computerhoy.com/streaming/bloqueo-contrasenas-netflix-no-ha-tenido-cuenta-generacion-z-1247706'>El bloqueo de contraseñas de Netflix no ha tenido en cuenta a la Generación Z</a></h4>
+    <a href='https://computerhoy.com/streaming/bloqueo-contrasenas-netflix-no-ha-tenido-cuenta-generacion-z-1247706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/reino-unido-va-censurar-streaming-netflix-disney-amenazan-borrar-contenido-3047544.jpg?tf=1200x' alt='El bloqueo de contraseñas de Netflix no ha tenido en cuenta a la Generación Z' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/opinaria-steve-jobs-nuevas-vision-pro-apple-1257044'>¿Qué opinaría Steve Jobs de las nuevas Vision Pro de Apple?</a></h4>
-    <a href='https://computerhoy.com/apple/opinaria-steve-jobs-nuevas-vision-pro-apple-1257044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/steve-jobs-3026774.jpg?tf=1200x' alt='¿Qué opinaría Steve Jobs de las nuevas Vision Pro de Apple?' />
+    <h4><a href='https://computerhoy.com/tutoriales/son-anuncios-dirigidos-amazon-fire-tv-como-desactivarlos-1256594'>Qué son los anuncios dirigidos de los Amazon Fire TV y cómo desactivarlos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/son-anuncios-dirigidos-amazon-fire-tv-como-desactivarlos-1256594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-fire-tv-3052638.jpg?tf=1200x' alt='Qué son los anuncios dirigidos de los Amazon Fire TV y cómo desactivarlos' />
     </a>
 </div>
 
