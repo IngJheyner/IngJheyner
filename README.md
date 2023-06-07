@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/guionista-black-mirror-usa-chatgpt-escribir-episodio-desastre-habla-solo-1256878'>El guionista de Black Mirror usa ChatGPT para escribir un episodio y el desastre habla por sí solo</a></h4>
+    <a href='https://computerhoy.com/streaming/guionista-black-mirror-usa-chatgpt-escribir-episodio-desastre-habla-solo-1256878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/guionista-black-mirror-usa-chatgpt-escribir-episodio-desastre-habla-solo-3052452.jpg?tf=1200x' alt='El guionista de Black Mirror usa ChatGPT para escribir un episodio y el desastre habla por sí solo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/airpods-pro-2-airpods-3-ofertas-descuento-1256542'>No una, sino dos ofertas por los AirPods Pro y los AirPods de 3ª generación por tiempo limitado</a></h4>
+    <a href='https://computerhoy.com/apple/airpods-pro-2-airpods-3-ofertas-descuento-1256542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844257.jpg?tf=1200x' alt='No una, sino dos ofertas por los AirPods Pro y los AirPods de 3ª generación por tiempo limitado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-vision-pro-compara-precio-otros-productos-debut-1256480'>Vision Pro no es para todos los bolsillos, pero tampoco lo más caro de Apple: así se compara con sus otros productos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-vision-pro-compara-precio-otros-productos-debut-1256480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-precio-3051970.jpg?tf=1200x' alt='Vision Pro no es para todos los bolsillos, pero tampoco lo más caro de Apple: así se compara con sus otros productos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/ratones-cable-1256582'>Mejores ratones con cable: ventajas y mejores opciones que puedes comprar</a></h4>
     <a href='https://computerhoy.com/mejores/ratones-cable-1256582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/razer-deathadder-v2-2137065.jpg?tf=1200x' alt='Mejores ratones con cable: ventajas y mejores opciones que puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/infartos-ocurren-lunes-expertos-tienen-varias-explicaciones-1256610'>La mayoría de los infartos ocurren el lunes, y los expertos tienen varias explicaciones</a></h4>
     <a href='https://computerhoy.com/life/infartos-ocurren-lunes-expertos-tienen-varias-explicaciones-1256610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mayoria-ataques-corazon-ocurren-lunes-expertos-tienen-varias-explicaciones-3052176.jpg?tf=1200x' alt='La mayoría de los infartos ocurren el lunes, y los expertos tienen varias explicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/union-europea-va-obligar-etiquetar-todo-contenido-generado-inteligencia-artificial-1256606'>La Unión Europea va a obligar a etiquetar todo el contenido generado por IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/union-europea-va-obligar-etiquetar-todo-contenido-generado-inteligencia-artificial-1256606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/union-europea-va-obligar-etiquetar-todo-contenido-generado-ia-3052170.jpg?tf=1200x' alt='La Unión Europea va a obligar a etiquetar todo el contenido generado por IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-aumenta-censura-iphone-aunque-no-creas-buena-noticia-1256592'>Apple aumenta la censura en los iPhone y aunque no lo creas es una buena noticia</a></h4>
-    <a href='https://computerhoy.com/apple/apple-aumenta-censura-iphone-aunque-no-creas-buena-noticia-1256592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-2951344.jpg?tf=1200x' alt='Apple aumenta la censura en los iPhone y aunque no lo creas es una buena noticia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-sorprende-android-auto-97-ya-disponible-todos-estas-novedades-1256588'>Google sorprende con Android Auto 9.7 que ya está disponible para todos con estas novedades</a></h4>
-    <a href='https://computerhoy.com/android/google-sorprende-android-auto-97-ya-disponible-todos-estas-novedades-1256588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='Google sorprende con Android Auto 9.7 que ya está disponible para todos con estas novedades' />
     </a>
 </div>
 
