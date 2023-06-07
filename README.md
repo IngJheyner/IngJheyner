@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/ratones-cable-1256582'>Mejores ratones con cable: ventajas y mejores opciones que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/mejores/ratones-cable-1256582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/razer-deathadder-v2-2137065.jpg?tf=1200x' alt='Mejores ratones con cable: ventajas y mejores opciones que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/infartos-ocurren-lunes-expertos-tienen-varias-explicaciones-1256610'>La mayoría de los infartos ocurren el lunes, y los expertos tienen varias explicaciones</a></h4>
     <a href='https://computerhoy.com/life/infartos-ocurren-lunes-expertos-tienen-varias-explicaciones-1256610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mayoria-ataques-corazon-ocurren-lunes-expertos-tienen-varias-explicaciones-3052176.jpg?tf=1200x' alt='La mayoría de los infartos ocurren el lunes, y los expertos tienen varias explicaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/google-sorprende-android-auto-97-ya-disponible-todos-estas-novedades-1256588'>Google sorprende con Android Auto 9.7 que ya está disponible para todos con estas novedades</a></h4>
     <a href='https://computerhoy.com/android/google-sorprende-android-auto-97-ya-disponible-todos-estas-novedades-1256588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='Google sorprende con Android Auto 9.7 que ya está disponible para todos con estas novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/publicidad-suenos-distopia-futuro-cercano-marketing-1256572'>Publicidad en los sueños, una pesadilla muy cerca de hacerse realidad</a></h4>
-    <a href='https://computerhoy.com/life/publicidad-suenos-distopia-futuro-cercano-marketing-1256572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/publicidad-suenos-3052090.jpg?tf=1200x' alt='Publicidad en los sueños, una pesadilla muy cerca de hacerse realidad' />
     </a>
 </div>
 
