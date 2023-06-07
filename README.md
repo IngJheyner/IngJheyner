@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/instagram-podria-tener-propio-chatbot-inteligencia-artificial-muy-pronto-1256910'>Instagram podría tener su propio chatbot de inteligencia artificial muy pronto</a></h4>
-    <a href='https://computerhoy.com/apps/instagram-podria-tener-propio-chatbot-inteligencia-artificial-muy-pronto-1256910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/instagram-podria-tener-propio-chatbot-inteligencia-artificial-muy-pronto-3052506.jpg?tf=1200x' alt='Instagram podría tener su propio chatbot de inteligencia artificial muy pronto' />
+    <h4><a href='https://computerhoy.com/android/casi-100-apps-android-30-millones-descargas-contienen-malware-borralas-ya-1256976'>Casi 100 apps de Android con más de 30 millones de descargas contienen 'malware': bórralas ya</a></h4>
+    <a href='https://computerhoy.com/android/casi-100-apps-android-30-millones-descargas-contienen-malware-borralas-ya-1256976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/casi-100-apps-android-30-millones-descargas-contienen-malware-borralas-ya-3052648.jpg?tf=1200x' alt='Casi 100 apps de Android con más de 30 millones de descargas contienen 'malware': bórralas ya' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/creador-ipod-critica-dos-grandes-fallos-vision-pro-apple-1256888'>El creador del iPod se queda a gusto criticando los dos grandes fallos del nuevo Vision Pro de Apple </a></h4>
-    <a href='https://computerhoy.com/apple/creador-ipod-critica-dos-grandes-fallos-vision-pro-apple-1256888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/creador-ipod-queda-agusto-criticando-dos-grandes-fallos-nuevo-vision-pro-apple-3052470.jpg?tf=1200x' alt='El creador del iPod se queda a gusto criticando los dos grandes fallos del nuevo Vision Pro de Apple ' />
+    <h4><a href='https://computerhoy.com/pc/portatil-asus-zenbook-s13-oled-primeras-impresiones-precio-1257020'>Pesa un kilogramo y cuenta con panel OLED: el Asus Zenbook S 13 OLED conquista con solo mirarlo</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-asus-zenbook-s13-oled-primeras-impresiones-precio-1257020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/asus-zenbook-s13-oled-3052692.jpg?tf=1200x' alt='Pesa un kilogramo y cuenta con panel OLED: el Asus Zenbook S 13 OLED conquista con solo mirarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/guionista-black-mirror-usa-chatgpt-escribir-episodio-desastre-habla-solo-1256878'>El guionista de Black Mirror usa ChatGPT para escribir un episodio y el desastre habla por sí solo</a></h4>
-    <a href='https://computerhoy.com/streaming/guionista-black-mirror-usa-chatgpt-escribir-episodio-desastre-habla-solo-1256878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/guionista-black-mirror-usa-chatgpt-escribir-episodio-desastre-habla-solo-3052452.jpg?tf=1200x' alt='El guionista de Black Mirror usa ChatGPT para escribir un episodio y el desastre habla por sí solo' />
+    <h4><a href='https://computerhoy.com/tecnologia/creador-chatgpt-tiene-claro-frenar-progreso-inteligencia-artificial-seria-mayor-fallo-humanidad-1256968'>El creador de ChatGPT lo tiene claro: frenar el progreso de la inteligencia artificial sería el mayor fallo de la humanidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/creador-chatgpt-tiene-claro-frenar-progreso-inteligencia-artificial-seria-mayor-fallo-humanidad-1256968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/creador-chatgpt-tiene-claro-frenar-progreso-inteligencia-artificial-seria-mayor-fallo-humanidad-3052620.jpg?tf=1200x' alt='El creador de ChatGPT lo tiene claro: frenar el progreso de la inteligencia artificial sería el mayor fallo de la humanidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/airpods-pro-2-airpods-3-ofertas-descuento-1256542'>No una, sino dos ofertas por los AirPods Pro y los AirPods de 3ª generación por tiempo limitado</a></h4>
-    <a href='https://computerhoy.com/apple/airpods-pro-2-airpods-3-ofertas-descuento-1256542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844257.jpg?tf=1200x' alt='No una, sino dos ofertas por los AirPods Pro y los AirPods de 3ª generación por tiempo limitado' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-ya-trabajando-grandes-mejoras-teclado-emoji-comunidades-imagenes-hd-1256928'>WhatsApp ya está trabajando en grandes mejoras para su teclado emoji, comunidades e imágenes HD</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-ya-trabajando-grandes-mejoras-teclado-emoji-comunidades-imagenes-hd-1256928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/whatsapp-ya-trabajando-grandes-mejoras-teclado-emoji-comunidades-imagenes-hd-3052542.jpg?tf=1200x' alt='WhatsApp ya está trabajando en grandes mejoras para su teclado emoji, comunidades e imágenes HD' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-vision-pro-compara-precio-otros-productos-debut-1256480'>Vision Pro no es para todos los bolsillos, pero tampoco lo más caro de Apple: así se compara con sus otros productos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-vision-pro-compara-precio-otros-productos-debut-1256480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-precio-3051970.jpg?tf=1200x' alt='Vision Pro no es para todos los bolsillos, pero tampoco lo más caro de Apple: así se compara con sus otros productos' />
+    <h4><a href='https://computerhoy.com/audio/xiaomi-redmi-buds-4-pro-suscripcion-amazon-music-gratis-1256564'>4 meses gratis de Amazon Music si te compras los mejores auriculares de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/audio/xiaomi-redmi-buds-4-pro-suscripcion-amazon-music-gratis-1256564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-buds-4-pro-2990078.jpg?tf=1200x' alt='4 meses gratis de Amazon Music si te compras los mejores auriculares de Xiaomi' />
     </a>
 </div>
 
