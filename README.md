@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/casi-100-apps-android-30-millones-descargas-contienen-malware-borralas-ya-1256976'>Casi 100 apps de Android con más de 30 millones de descargas contienen 'malware': bórralas ya</a></h4>
-    <a href='https://computerhoy.com/android/casi-100-apps-android-30-millones-descargas-contienen-malware-borralas-ya-1256976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/casi-100-apps-android-30-millones-descargas-contienen-malware-borralas-ya-3052648.jpg?tf=1200x' alt='Casi 100 apps de Android con más de 30 millones de descargas contienen 'malware': bórralas ya' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-z-flip-5-filtra-dejando-ver-todas-novedades-veremos-samsung-unpacked-1257088'>El Samsung Galaxy Z Flip 5 se filtra dejando ver todas las novedades que veremos en el Samsung Unpacked</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-galaxy-z-flip-5-filtra-dejando-ver-todas-novedades-veremos-samsung-unpacked-1257088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-z-flip-4-analisis-opinion-2802967.jpg?tf=1200x' alt='El Samsung Galaxy Z Flip 5 se filtra dejando ver todas las novedades que veremos en el Samsung Unpacked' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-asus-zenbook-s13-oled-primeras-impresiones-precio-1257020'>Pesa un kilogramo y cuenta con panel OLED: el Asus Zenbook S 13 OLED conquista con solo mirarlo</a></h4>
-    <a href='https://computerhoy.com/pc/portatil-asus-zenbook-s13-oled-primeras-impresiones-precio-1257020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/asus-zenbook-s13-oled-3052692.jpg?tf=1200x' alt='Pesa un kilogramo y cuenta con panel OLED: el Asus Zenbook S 13 OLED conquista con solo mirarlo' />
+    <h4><a href='https://computerhoy.com/pc/recomendable-usar-portatil-tapa-cerrada-1256590'>¿Es peligroso utilizar el ordenador portátil con la tapa cerrada?</a></h4>
+    <a href='https://computerhoy.com/pc/recomendable-usar-portatil-tapa-cerrada-1256590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galeria-review-macbook-air-m2-2779309.jpg?tf=1200x' alt='¿Es peligroso utilizar el ordenador portátil con la tapa cerrada?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/creador-chatgpt-tiene-claro-frenar-progreso-inteligencia-artificial-seria-mayor-fallo-humanidad-1256968'>El creador de ChatGPT lo tiene claro: frenar el progreso de la inteligencia artificial sería el mayor fallo de la humanidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/creador-chatgpt-tiene-claro-frenar-progreso-inteligencia-artificial-seria-mayor-fallo-humanidad-1256968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/creador-chatgpt-tiene-claro-frenar-progreso-inteligencia-artificial-seria-mayor-fallo-humanidad-3052620.jpg?tf=1200x' alt='El creador de ChatGPT lo tiene claro: frenar el progreso de la inteligencia artificial sería el mayor fallo de la humanidad' />
+    <h4><a href='https://computerhoy.com/life/skiplagging-truco-viajar-avion-gastar-fortuna-1256546'>Skiplagging, el truco para viajar en avión sin gastar una fortuna que las aerolíneas no quieren que sepas</a></h4>
+    <a href='https://computerhoy.com/life/skiplagging-truco-viajar-avion-gastar-fortuna-1256546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/billetes-avion-3052612.jpg?tf=1200x' alt='Skiplagging, el truco para viajar en avión sin gastar una fortuna que las aerolíneas no quieren que sepas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-ya-trabajando-grandes-mejoras-teclado-emoji-comunidades-imagenes-hd-1256928'>WhatsApp ya está trabajando en grandes mejoras para su teclado emoji, comunidades e imágenes HD</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-ya-trabajando-grandes-mejoras-teclado-emoji-comunidades-imagenes-hd-1256928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/whatsapp-ya-trabajando-grandes-mejoras-teclado-emoji-comunidades-imagenes-hd-3052542.jpg?tf=1200x' alt='WhatsApp ya está trabajando en grandes mejoras para su teclado emoji, comunidades e imágenes HD' />
+    <h4><a href='https://computerhoy.com/apps/7-mejores-aplicaciones-encontrar-vuelos-alojamientos-baratos-ahora-llega-verano-1168778'>Las 7 mejores aplicaciones para encontrar vuelos y alojamientos baratos ahora que llega el verano</a></h4>
+    <a href='https://computerhoy.com/apps/7-mejores-aplicaciones-encontrar-vuelos-alojamientos-baratos-ahora-llega-verano-1168778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/agencia-viajes-2984024.jpg?tf=1200x' alt='Las 7 mejores aplicaciones para encontrar vuelos y alojamientos baratos ahora que llega el verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/xiaomi-redmi-buds-4-pro-suscripcion-amazon-music-gratis-1256564'>4 meses gratis de Amazon Music si te compras los mejores auriculares de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/audio/xiaomi-redmi-buds-4-pro-suscripcion-amazon-music-gratis-1256564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-buds-4-pro-2990078.jpg?tf=1200x' alt='4 meses gratis de Amazon Music si te compras los mejores auriculares de Xiaomi' />
+    <h4><a href='https://computerhoy.com/apple/opinaria-steve-jobs-nuevas-vision-pro-apple-1257044'>¿Qué opinaría Steve Jobs de las nuevas Vision Pro de Apple?</a></h4>
+    <a href='https://computerhoy.com/apple/opinaria-steve-jobs-nuevas-vision-pro-apple-1257044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/steve-jobs-3026774.jpg?tf=1200x' alt='¿Qué opinaría Steve Jobs de las nuevas Vision Pro de Apple?' />
     </a>
 </div>
 
