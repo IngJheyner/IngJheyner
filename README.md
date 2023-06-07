@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bill-gates-desvela-inteligente-consejo-cambio-vida-multimillonario-warren-buffett-1257206'>Bill Gates desvela el inteligente consejo que cambió la vida del multimillonario Warren Buffett</a></h4>
-    <a href='https://computerhoy.com/life/bill-gates-desvela-inteligente-consejo-cambio-vida-multimillonario-warren-buffett-1257206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amistad-bill-gates-warren-buffett-3053154.jpg?tf=1200x' alt='Bill Gates desvela el inteligente consejo que cambió la vida del multimillonario Warren Buffett' />
+    <h4><a href='https://computerhoy.com/motor/cuantas-vidas-podria-salvar-coche-electrico-1257180'>Calculan cuántas vidas podrían salvarse si todos los coches en circulación fueran 100% eléctricos</a></h4>
+    <a href='https://computerhoy.com/motor/cuantas-vidas-podria-salvar-coche-electrico-1257180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/coche-electrico-3053102.jpg?tf=1200x' alt='Calculan cuántas vidas podrían salvarse si todos los coches en circulación fueran 100% eléctricos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/10-mejores-funciones-accesibilidad-amazon-kindle-fire-tv-alexa-1256832'>Las 10 mejores funciones de accesibilidad para Amazon Kindle, Fire TV y Alexa</a></h4>
-    <a href='https://computerhoy.com/amazon/10-mejores-funciones-accesibilidad-amazon-kindle-fire-tv-alexa-1256832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-alexa-3052650.jpg?tf=1200x' alt='Las 10 mejores funciones de accesibilidad para Amazon Kindle, Fire TV y Alexa' />
+    <h4><a href='https://computerhoy.com/life/matematico-desafio-probabilidades-consiguio-ganar-loteria-14-veces-1257152'>Consiguió ganar la lotería 14 veces utilizando un razonamiento matemático tremendamente simple</a></h4>
+    <a href='https://computerhoy.com/life/matematico-desafio-probabilidades-consiguio-ganar-loteria-14-veces-1257152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/lloviendo-dinero-3053090.jpg?tf=1200x' alt='Consiguió ganar la lotería 14 veces utilizando un razonamiento matemático tremendamente simple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/desarrollan-vendaje-3d-personalizable-hace-heridas-quemadura-curen-rapido-1257200'>Desarrollan un vendaje 3D personalizable que hace que las heridas por quemadura curen más rápido</a></h4>
-    <a href='https://computerhoy.com/ciencia/desarrollan-vendaje-3d-personalizable-hace-heridas-quemadura-curen-rapido-1257200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/desarrollan-vendaje-3d-personalizable-hace-heridas-quemadura-curen-rapido-3053150.jpg?tf=1200x' alt='Desarrollan un vendaje 3D personalizable que hace que las heridas por quemadura curen más rápido' />
+    <h4><a href='https://computerhoy.com/streaming/amazon-prime-video-suscripcion-publicidad-1257238'>Amazon Prime Video se plantea lanzar una suscripción con publicidad, y quizá tengas que pagar más</a></h4>
+    <a href='https://computerhoy.com/streaming/amazon-prime-video-suscripcion-publicidad-1257238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazon-prime-video-2922682.jpg?tf=1200x' alt='Amazon Prime Video se plantea lanzar una suscripción con publicidad, y quizá tengas que pagar más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/bloqueo-contrasenas-netflix-no-ha-tenido-cuenta-generacion-z-1247706'>El bloqueo de contraseñas de Netflix no ha tenido en cuenta a la Generación Z</a></h4>
-    <a href='https://computerhoy.com/streaming/bloqueo-contrasenas-netflix-no-ha-tenido-cuenta-generacion-z-1247706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/reino-unido-va-censurar-streaming-netflix-disney-amenazan-borrar-contenido-3047544.jpg?tf=1200x' alt='El bloqueo de contraseñas de Netflix no ha tenido en cuenta a la Generación Z' />
+    <h4><a href='https://computerhoy.com/tecnologia/solo-te-bastara-frase-crear-videos-gracias-ia-gen-2-puedes-probarla-gratis-1257174'>Solo te bastará una frase para crear vídeos gracias a la IA GEN-2 y puedes probarla gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/solo-te-bastara-frase-crear-videos-gracias-ia-gen-2-puedes-probarla-gratis-1257174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/solo-te-bastara-frase-crear-videos-gracias-ia-gen-2-puedes-probarla-gratis-3053104.jpg?tf=1200x' alt='Solo te bastará una frase para crear vídeos gracias a la IA GEN-2 y puedes probarla gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/son-anuncios-dirigidos-amazon-fire-tv-como-desactivarlos-1256594'>Qué son los anuncios dirigidos de los Amazon Fire TV y cómo desactivarlos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/son-anuncios-dirigidos-amazon-fire-tv-como-desactivarlos-1256594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-fire-tv-3052638.jpg?tf=1200x' alt='Qué son los anuncios dirigidos de los Amazon Fire TV y cómo desactivarlos' />
+    <h4><a href='https://computerhoy.com/criptos/invertir-ahora-dogecoin-shibainu-chatgpt-tiene-claro-1257104'>¿Invertir ahora en Dogecoin o Shibainu? ChatGPT lo tiene sorprendentemente claro</a></h4>
+    <a href='https://computerhoy.com/criptos/invertir-ahora-dogecoin-shibainu-chatgpt-tiene-claro-1257104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dogecoin-chatgpt-3052914.jpg?tf=1200x' alt='¿Invertir ahora en Dogecoin o Shibainu? ChatGPT lo tiene sorprendentemente claro' />
     </a>
 </div>
 
