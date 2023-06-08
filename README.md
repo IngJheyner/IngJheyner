@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-644-computer-hoy-1253480'>¡Ya está en tu quiosco el número 644 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-644-computer-hoy-1253480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/computer-hoy-644-3051980.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 644 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/enviar-fotos-alta-resolucion-whatsapp-ya-posible-android-ios-1257496'>Enviar fotos en alta resolución en WhatsApp ya es posible para Android e iOS</a></h4>
     <a href='https://computerhoy.com/apps/enviar-fotos-alta-resolucion-whatsapp-ya-posible-android-ios-1257496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3043418.jpg?tf=1200x' alt='Enviar fotos en alta resolución en WhatsApp ya es posible para Android e iOS' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/airpods-pro-2-donde-comprarlos-baratos-1257026'>AirPods Pro 2: dónde comprarlos más baratos</a></h4>
     <a href='https://computerhoy.com/apple/airpods-pro-2-donde-comprarlos-baratos-1257026' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-airpods-pro-2-1675628565024-2947480.jpg?tf=1200x' alt='AirPods Pro 2: dónde comprarlos más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/lg-standbyme-go-televisor-inalambrico-pantalla-tactil-dentro-maleta-1257466'>LG StandbyMe Go, la tele inalámbrica con pantalla táctil dentro de una maleta (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tv/lg-standbyme-go-televisor-inalambrico-pantalla-tactil-dentro-maleta-1257466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1686193008103-3053444.jpg?tf=1200x' alt='LG StandbyMe Go, la tele inalámbrica con pantalla táctil dentro de una maleta (vídeo)' />
     </a>
 </div>
 
