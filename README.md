@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-captura-45000-galaxias-sola-impresionante-foto-1257652'>El telescopio espacial James Webb captura 45.000 galaxias en una sola e impresionante foto</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-captura-45000-galaxias-sola-impresionante-foto-1257652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/telescopio-espacial-james-webb-captura-45000-galaxias-sola-impresionante-foto-3053800.jpg?tf=1200x' alt='El telescopio espacial James Webb captura 45.000 galaxias en una sola e impresionante foto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ha-visitado-todos-paises-estos-son-10-no-volveria-pisar-ni-todo-oro-mundo-1257110'>Ha visitado todos los países y estos son los 10 que no volvería a pisar ni por todo el oro del mundo</a></h4>
+    <a href='https://computerhoy.com/life/ha-visitado-todos-paises-estos-son-10-no-volveria-pisar-ni-todo-oro-mundo-1257110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/lexie-alford-3053074.jpg?tf=1200x' alt='Ha visitado todos los países y estos son los 10 que no volvería a pisar ni por todo el oro del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/nueva-york-demanda-hyundai-kia-porque-coches-son-muy-faciles-robar-1257564'>Demandan a Hyundai y Kia porque sus coches son muy fáciles de robar</a></h4>
+    <a href='https://computerhoy.com/motor/nueva-york-demanda-hyundai-kia-porque-coches-son-muy-faciles-robar-1257564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/robar-coche-3053744.jpg?tf=1200x' alt='Demandan a Hyundai y Kia porque sus coches son muy fáciles de robar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-tv-14-llega-nueva-funcion-sera-envidia-usuarios-amazon-fire-tv-1257586'>Android TV 14 llega con una nueva función que será la envidia de los usuarios de Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/android/android-tv-14-llega-nueva-funcion-sera-envidia-usuarios-amazon-fire-tv-1257586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg?tf=1200x' alt='Android TV 14 llega con una nueva función que será la envidia de los usuarios de Amazon Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-watch-4-nuevos-relojes-inteligentes-medicion-salud-bandera-1254764'>Huawei Watch 4 Pro y Watch 4: nuevos relojes inteligentes con la medición de la salud por bandera</a></h4>
     <a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-watch-4-nuevos-relojes-inteligentes-medicion-salud-bandera-1254764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-watch-4-pro-watch-4-nuevos-relojes-inteligentes-medicion-salud-bandera-3053544.jpg?tf=1200x' alt='Huawei Watch 4 Pro y Watch 4: nuevos relojes inteligentes con la medición de la salud por bandera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cofundador-deepmind-sentencia-asistentes-personales-inteligencia-artificial-nos-haran-mejores-todo-1257520'>El cofundador de DeepMind sentencia: los asistentes personales con inteligencia artificial nos harán mejores en todo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cofundador-deepmind-sentencia-asistentes-personales-inteligencia-artificial-nos-haran-mejores-todo-1257520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3035628.jpg?tf=1200x' alt='El cofundador de DeepMind sentencia: los asistentes personales con inteligencia artificial nos harán mejores en todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/canales-whatsapp-son-oficiales-puedes-probar-movil-1257536'>Los canales de WhatsApp son oficiales y así los puedes probar en tu móvil</a></h4>
-    <a href='https://computerhoy.com/apps/canales-whatsapp-son-oficiales-puedes-probar-movil-1257536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/canales-whatsapp-son-oficiales-puedes-probar-movil-3053516.jpg?tf=1200x' alt='Los canales de WhatsApp son oficiales y así los puedes probar en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/dyson-v15-aspiradora-potente-revolucionaria-tiene-140-euros-descuento-1252708'>Dyson V15, la aspiradora más potente y revolucionaria, tiene 140 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/hogar/dyson-v15-aspiradora-potente-revolucionaria-tiene-140-euros-descuento-1252708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aspiradora-mano-cables-dyson-v15-detect-absolute-2865003.jpg?tf=1200x' alt='Dyson V15, la aspiradora más potente y revolucionaria, tiene 140 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-644-computer-hoy-1253480'>¡Ya está en tu quiosco el número 644 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-644-computer-hoy-1253480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/computer-hoy-644-3051980.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 644 de Computer Hoy!' />
     </a>
 </div>
 
