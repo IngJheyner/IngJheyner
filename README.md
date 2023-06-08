@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/rascacielos-hinchables-estudio-zumo-1257464'>Un estudio de arquitectura español presenta un concepto revolucionario: rascacielos hinchables</a></h4>
+    <a href='https://computerhoy.com/life/rascacielos-hinchables-estudio-zumo-1257464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estudio-arquitectura-espanol-presenta-concepto-revolucionario-rascacielos-hinchables-3053232.jpg?tf=1200x' alt='Un estudio de arquitectura español presenta un concepto revolucionario: rascacielos hinchables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/sonda-parker-acerca-sol-consigue-desvelar-origen-vientos-solares-1257244'>La sonda Parker se acerca tanto al Sol que ha conseguido desvelar el origen de los vientos solares</a></h4>
+    <a href='https://computerhoy.com/espacio/sonda-parker-acerca-sol-consigue-desvelar-origen-vientos-solares-1257244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sonda-solar-parker-bate-record-velocidad-objeto-creado-ser-humano-madrid-barcelona-3-segundos-2539513.jpg?tf=1200x' alt='La sonda Parker se acerca tanto al Sol que ha conseguido desvelar el origen de los vientos solares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/cuantas-vidas-podria-salvar-coche-electrico-1257180'>Calculan cuántas vidas podrían salvarse si todos los coches en circulación fueran 100% eléctricos</a></h4>
     <a href='https://computerhoy.com/motor/cuantas-vidas-podria-salvar-coche-electrico-1257180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/coche-electrico-3053102.jpg?tf=1200x' alt='Calculan cuántas vidas podrían salvarse si todos los coches en circulación fueran 100% eléctricos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/amazon-prime-video-suscripcion-publicidad-1257238'>Amazon Prime Video se plantea lanzar una suscripción con publicidad, y quizá tengas que pagar más</a></h4>
     <a href='https://computerhoy.com/streaming/amazon-prime-video-suscripcion-publicidad-1257238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazon-prime-video-2922682.jpg?tf=1200x' alt='Amazon Prime Video se plantea lanzar una suscripción con publicidad, y quizá tengas que pagar más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/solo-te-bastara-frase-crear-videos-gracias-ia-gen-2-puedes-probarla-gratis-1257174'>Solo te bastará una frase para crear vídeos gracias a la IA GEN-2 y puedes probarla gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/solo-te-bastara-frase-crear-videos-gracias-ia-gen-2-puedes-probarla-gratis-1257174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/solo-te-bastara-frase-crear-videos-gracias-ia-gen-2-puedes-probarla-gratis-3053104.jpg?tf=1200x' alt='Solo te bastará una frase para crear vídeos gracias a la IA GEN-2 y puedes probarla gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/invertir-ahora-dogecoin-shibainu-chatgpt-tiene-claro-1257104'>¿Invertir ahora en Dogecoin o Shibainu? ChatGPT lo tiene sorprendentemente claro</a></h4>
-    <a href='https://computerhoy.com/criptos/invertir-ahora-dogecoin-shibainu-chatgpt-tiene-claro-1257104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dogecoin-chatgpt-3052914.jpg?tf=1200x' alt='¿Invertir ahora en Dogecoin o Shibainu? ChatGPT lo tiene sorprendentemente claro' />
     </a>
 </div>
 
