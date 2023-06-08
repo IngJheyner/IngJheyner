@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuantos-segundos-debes-esperar-reiniciar-router-wifi-sirva-algo-1257240'>¿Cuántos segundos debes esperar para que reiniciar el router WiFi sirva de algo?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuantos-segundos-debes-esperar-reiniciar-router-wifi-sirva-algo-1257240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/honor-router-3-2260159.jpg?tf=1200x' alt='¿Cuántos segundos debes esperar para que reiniciar el router WiFi sirva de algo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-espacio-google-drive-trucos-consejos-1257566'>Cómo liberar espacio en Google Drive: trucos y consejos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-liberar-espacio-google-drive-trucos-consejos-1257566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-drive-2239641.jpg?tf=1200x' alt='Cómo liberar espacio en Google Drive: trucos y consejos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/impresoras-fotografias-1257222'>Si necesitas impimir fotos estas son las impresoras fotográficas que deberías tener en cuenta</a></h4>
     <a href='https://computerhoy.com/mejores/impresoras-fotografias-1257222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/impresora-canon-3047476.jpg?tf=1200x' alt='Si necesitas impimir fotos estas son las impresoras fotográficas que deberías tener en cuenta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/lidl-adelanta-mercadona-ya-acepta-bizum-como-metodo-pago-1257686'>Lidl se adelanta a Mercadona y ya acepta Bizum como método de pago</a></h4>
     <a href='https://computerhoy.com/life/lidl-adelanta-mercadona-ya-acepta-bizum-como-metodo-pago-1257686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bizum-lidl-3053870.jpg?tf=1200x' alt='Lidl se adelanta a Mercadona y ya acepta Bizum como método de pago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/convirtiendo-telegram-extension-legal-dark-web-1257196'>¿Se está convirtiendo Telegram en una extensión legal de la Dark Web?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/convirtiendo-telegram-extension-legal-dark-web-1257196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/telegram-dark-web-3053172.jpg?tf=1200x' alt='¿Se está convirtiendo Telegram en una extensión legal de la Dark Web?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/google-maps-pone-duda-pertenencia-espana-dos-emblematicas-ciudades-1257172'>Google Maps pone en duda la pertenencia a España de dos emblemáticas ciudades</a></h4>
-    <a href='https://computerhoy.com/internet/google-maps-pone-duda-pertenencia-espana-dos-emblematicas-ciudades-1257172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mapa-espana-3053760.jpg?tf=1200x' alt='Google Maps pone en duda la pertenencia a España de dos emblemáticas ciudades' />
     </a>
 </div>
 
