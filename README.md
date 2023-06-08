@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-captura-45000-galaxias-sola-impresionante-foto-1257652'>El telescopio espacial James Webb captura 45.000 galaxias en una sola e impresionante foto</a></h4>
-    <a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-captura-45000-galaxias-sola-impresionante-foto-1257652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/telescopio-espacial-james-webb-captura-45000-galaxias-sola-impresionante-foto-3053800.jpg?tf=1200x' alt='El telescopio espacial James Webb captura 45.000 galaxias en una sola e impresionante foto' />
+    <h4><a href='https://computerhoy.com/mejores/impresoras-fotografias-1257222'>Si necesitas impimir fotos estas son las impresoras fotográficas que deberías tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/mejores/impresoras-fotografias-1257222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/impresora-canon-3047476.jpg?tf=1200x' alt='Si necesitas impimir fotos estas son las impresoras fotográficas que deberías tener en cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ha-visitado-todos-paises-estos-son-10-no-volveria-pisar-ni-todo-oro-mundo-1257110'>Ha visitado todos los países y estos son los 10 que no volvería a pisar ni por todo el oro del mundo</a></h4>
-    <a href='https://computerhoy.com/life/ha-visitado-todos-paises-estos-son-10-no-volveria-pisar-ni-todo-oro-mundo-1257110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/lexie-alford-3053074.jpg?tf=1200x' alt='Ha visitado todos los países y estos son los 10 que no volvería a pisar ni por todo el oro del mundo' />
+    <h4><a href='https://computerhoy.com/analisis/huawei-watch-4-pro-analisis-review-caracteristicas-precio-1254674'>Huawei Watch 4 Pro, análisis y opinión: smartwatch muy premium en todos los sentidos</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-watch-4-pro-analisis-review-caracteristicas-precio-1254674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-watch-4-pro-3050114.jpg?tf=1200x' alt='Huawei Watch 4 Pro, análisis y opinión: smartwatch muy premium en todos los sentidos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nueva-york-demanda-hyundai-kia-porque-coches-son-muy-faciles-robar-1257564'>Demandan a Hyundai y Kia porque sus coches son muy fáciles de robar</a></h4>
-    <a href='https://computerhoy.com/motor/nueva-york-demanda-hyundai-kia-porque-coches-son-muy-faciles-robar-1257564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/robar-coche-3053744.jpg?tf=1200x' alt='Demandan a Hyundai y Kia porque sus coches son muy fáciles de robar' />
+    <h4><a href='https://computerhoy.com/life/lidl-adelanta-mercadona-ya-acepta-bizum-como-metodo-pago-1257686'>Lidl se adelanta a Mercadona y ya acepta Bizum como método de pago</a></h4>
+    <a href='https://computerhoy.com/life/lidl-adelanta-mercadona-ya-acepta-bizum-como-metodo-pago-1257686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bizum-lidl-3053870.jpg?tf=1200x' alt='Lidl se adelanta a Mercadona y ya acepta Bizum como método de pago' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-tv-14-llega-nueva-funcion-sera-envidia-usuarios-amazon-fire-tv-1257586'>Android TV 14 llega con una nueva función que será la envidia de los usuarios de Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/android/android-tv-14-llega-nueva-funcion-sera-envidia-usuarios-amazon-fire-tv-1257586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg?tf=1200x' alt='Android TV 14 llega con una nueva función que será la envidia de los usuarios de Amazon Fire TV' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/convirtiendo-telegram-extension-legal-dark-web-1257196'>¿Se está convirtiendo Telegram en una extensión legal de la Dark Web?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/convirtiendo-telegram-extension-legal-dark-web-1257196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/telegram-dark-web-3053172.jpg?tf=1200x' alt='¿Se está convirtiendo Telegram en una extensión legal de la Dark Web?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-watch-4-nuevos-relojes-inteligentes-medicion-salud-bandera-1254764'>Huawei Watch 4 Pro y Watch 4: nuevos relojes inteligentes con la medición de la salud por bandera</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-watch-4-nuevos-relojes-inteligentes-medicion-salud-bandera-1254764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-watch-4-pro-watch-4-nuevos-relojes-inteligentes-medicion-salud-bandera-3053544.jpg?tf=1200x' alt='Huawei Watch 4 Pro y Watch 4: nuevos relojes inteligentes con la medición de la salud por bandera' />
+    <h4><a href='https://computerhoy.com/internet/google-maps-pone-duda-pertenencia-espana-dos-emblematicas-ciudades-1257172'>Google Maps pone en duda la pertenencia a España de dos emblemáticas ciudades</a></h4>
+    <a href='https://computerhoy.com/internet/google-maps-pone-duda-pertenencia-espana-dos-emblematicas-ciudades-1257172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mapa-espana-3053760.jpg?tf=1200x' alt='Google Maps pone en duda la pertenencia a España de dos emblemáticas ciudades' />
     </a>
 </div>
 
