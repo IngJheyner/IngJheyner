@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/rascacielos-hinchables-estudio-zumo-1257464'>Un estudio de arquitectura español presenta un concepto revolucionario: rascacielos hinchables</a></h4>
-    <a href='https://computerhoy.com/life/rascacielos-hinchables-estudio-zumo-1257464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estudio-arquitectura-espanol-presenta-concepto-revolucionario-rascacielos-hinchables-3053232.jpg?tf=1200x' alt='Un estudio de arquitectura español presenta un concepto revolucionario: rascacielos hinchables' />
+    <h4><a href='https://computerhoy.com/apps/enviar-fotos-alta-resolucion-whatsapp-ya-posible-android-ios-1257496'>Enviar fotos en alta resolución en WhatsApp ya es posible para Android e iOS</a></h4>
+    <a href='https://computerhoy.com/apps/enviar-fotos-alta-resolucion-whatsapp-ya-posible-android-ios-1257496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3043418.jpg?tf=1200x' alt='Enviar fotos en alta resolución en WhatsApp ya es posible para Android e iOS' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/sonda-parker-acerca-sol-consigue-desvelar-origen-vientos-solares-1257244'>La sonda Parker se acerca tanto al Sol que ha conseguido desvelar el origen de los vientos solares</a></h4>
-    <a href='https://computerhoy.com/espacio/sonda-parker-acerca-sol-consigue-desvelar-origen-vientos-solares-1257244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/sonda-solar-parker-bate-record-velocidad-objeto-creado-ser-humano-madrid-barcelona-3-segundos-2539513.jpg?tf=1200x' alt='La sonda Parker se acerca tanto al Sol que ha conseguido desvelar el origen de los vientos solares' />
+    <h4><a href='https://computerhoy.com/analisis/xgimi-mogo-2-pro-analisis-opinion-proyector-fullhd-adaptable-1230242'>XGIMI MoGo 2 Pro, el proyector portable FullHD que se adapta a cualquier lugar</a></h4>
+    <a href='https://computerhoy.com/analisis/xgimi-mogo-2-pro-analisis-opinion-proyector-fullhd-adaptable-1230242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xgimi-mogo-2-pro-3051178.jpg?tf=1200x' alt='XGIMI MoGo 2 Pro, el proyector portable FullHD que se adapta a cualquier lugar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cuantas-vidas-podria-salvar-coche-electrico-1257180'>Calculan cuántas vidas podrían salvarse si todos los coches en circulación fueran 100% eléctricos</a></h4>
-    <a href='https://computerhoy.com/motor/cuantas-vidas-podria-salvar-coche-electrico-1257180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/coche-electrico-3053102.jpg?tf=1200x' alt='Calculan cuántas vidas podrían salvarse si todos los coches en circulación fueran 100% eléctricos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/convierten-fotos-instagram-desnudos-falsos-mediante-ia-chantajearte-1257190'>Convierten tus fotos de Instagram en desnudos falsos mediante IA para chantajearte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/convierten-fotos-instagram-desnudos-falsos-mediante-ia-chantajearte-1257190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/intel-descubre-metodo-detectar-96-deepfakes-tiene-ver-sangre-2875837.jpg?tf=1200x' alt='Convierten tus fotos de Instagram en desnudos falsos mediante IA para chantajearte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/matematico-desafio-probabilidades-consiguio-ganar-loteria-14-veces-1257152'>Consiguió ganar la lotería 14 veces utilizando un razonamiento matemático tremendamente simple</a></h4>
-    <a href='https://computerhoy.com/life/matematico-desafio-probabilidades-consiguio-ganar-loteria-14-veces-1257152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/lloviendo-dinero-3053090.jpg?tf=1200x' alt='Consiguió ganar la lotería 14 veces utilizando un razonamiento matemático tremendamente simple' />
+    <h4><a href='https://computerhoy.com/apple/airpods-pro-2-donde-comprarlos-baratos-1257026'>AirPods Pro 2: dónde comprarlos más baratos</a></h4>
+    <a href='https://computerhoy.com/apple/airpods-pro-2-donde-comprarlos-baratos-1257026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-airpods-pro-2-1675628565024-2947480.jpg?tf=1200x' alt='AirPods Pro 2: dónde comprarlos más baratos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/amazon-prime-video-suscripcion-publicidad-1257238'>Amazon Prime Video se plantea lanzar una suscripción con publicidad, y quizá tengas que pagar más</a></h4>
-    <a href='https://computerhoy.com/streaming/amazon-prime-video-suscripcion-publicidad-1257238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazon-prime-video-2922682.jpg?tf=1200x' alt='Amazon Prime Video se plantea lanzar una suscripción con publicidad, y quizá tengas que pagar más' />
+    <h4><a href='https://computerhoy.com/tv/lg-standbyme-go-televisor-inalambrico-pantalla-tactil-dentro-maleta-1257466'>LG StandbyMe Go, la tele inalámbrica con pantalla táctil dentro de una maleta (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tv/lg-standbyme-go-televisor-inalambrico-pantalla-tactil-dentro-maleta-1257466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1686193008103-3053444.jpg?tf=1200x' alt='LG StandbyMe Go, la tele inalámbrica con pantalla táctil dentro de una maleta (vídeo)' />
     </a>
 </div>
 
