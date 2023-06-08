@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuantos-segundos-debes-esperar-reiniciar-router-wifi-sirva-algo-1257240'>¿Cuántos segundos debes esperar para que reiniciar el router WiFi sirva de algo?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuantos-segundos-debes-esperar-reiniciar-router-wifi-sirva-algo-1257240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/honor-router-3-2260159.jpg?tf=1200x' alt='¿Cuántos segundos debes esperar para que reiniciar el router WiFi sirva de algo?' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-ya-permite-aplicaciones-android-acceder-archivos-ordenador-1257732'>Windows 11 ya permite a las aplicaciones de Android acceder a los archivos de tu ordenador</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-ya-permite-aplicaciones-android-acceder-archivos-ordenador-1257732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/android-pc-3053950.jpg?tf=1200x' alt='Windows 11 ya permite a las aplicaciones de Android acceder a los archivos de tu ordenador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-espacio-google-drive-trucos-consejos-1257566'>Cómo liberar espacio en Google Drive: trucos y consejos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-liberar-espacio-google-drive-trucos-consejos-1257566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-drive-2239641.jpg?tf=1200x' alt='Cómo liberar espacio en Google Drive: trucos y consejos' />
+    <h4><a href='https://computerhoy.com/apple/llevas-gafas-podrias-tener-pagar-600-euros-extra-poder-utilizar-apple-vision-pro-1257796'>Si llevas gafas podrías tener que pagar hasta 600 euros extra para poder utilizar las Apple Vision Pro</a></h4>
+    <a href='https://computerhoy.com/apple/llevas-gafas-podrias-tener-pagar-600-euros-extra-poder-utilizar-apple-vision-pro-1257796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051574.jpg?tf=1200x' alt='Si llevas gafas podrías tener que pagar hasta 600 euros extra para poder utilizar las Apple Vision Pro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/impresoras-fotografias-1257222'>Si necesitas impimir fotos estas son las impresoras fotográficas que deberías tener en cuenta</a></h4>
-    <a href='https://computerhoy.com/mejores/impresoras-fotografias-1257222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/impresora-canon-3047476.jpg?tf=1200x' alt='Si necesitas impimir fotos estas son las impresoras fotográficas que deberías tener en cuenta' />
+    <h4><a href='https://computerhoy.com/espacio/asteroide-tamano-rascacielos-aproxima-peligrosamente-tierra-1257790'>Un asteroide del tamaño de un rascacielos se aproxima peligrosamente a la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/asteroide-tamano-rascacielos-aproxima-peligrosamente-tierra-1257790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/asteroide-tierra-2750379.jpg?tf=1200x' alt='Un asteroide del tamaño de un rascacielos se aproxima peligrosamente a la Tierra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-watch-4-pro-analisis-review-caracteristicas-precio-1254674'>Huawei Watch 4 Pro, análisis y opinión: smartwatch muy premium en todos los sentidos</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-watch-4-pro-analisis-review-caracteristicas-precio-1254674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-watch-4-pro-3050114.jpg?tf=1200x' alt='Huawei Watch 4 Pro, análisis y opinión: smartwatch muy premium en todos los sentidos' />
+    <h4><a href='https://computerhoy.com/life/fecha-clave-podria-librarte-acudir-mesa-electoral-23-julio-1257744'>Esta es la fecha clave que podría librarte de acudir a la mesa electoral el 23 de julio</a></h4>
+    <a href='https://computerhoy.com/life/fecha-clave-podria-librarte-acudir-mesa-electoral-23-julio-1257744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/votar-vacaciones-3053966.jpg?tf=1200x' alt='Esta es la fecha clave que podría librarte de acudir a la mesa electoral el 23 de julio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lidl-adelanta-mercadona-ya-acepta-bizum-como-metodo-pago-1257686'>Lidl se adelanta a Mercadona y ya acepta Bizum como método de pago</a></h4>
-    <a href='https://computerhoy.com/life/lidl-adelanta-mercadona-ya-acepta-bizum-como-metodo-pago-1257686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bizum-lidl-3053870.jpg?tf=1200x' alt='Lidl se adelanta a Mercadona y ya acepta Bizum como método de pago' />
+    <h4><a href='https://computerhoy.com/life/parece-imagen-nasa-pero-realidad-alucinante-ilusion-optica-eres-capaz-verlo-1257216'>Parece una imagen de la NASA, pero es en realidad una alucinante ilusión óptica: ¿eres capaz de verlo?</a></h4>
+    <a href='https://computerhoy.com/life/parece-imagen-nasa-pero-realidad-alucinante-ilusion-optica-eres-capaz-verlo-1257216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ilusion-optica-3053788.jpg?tf=1200x' alt='Parece una imagen de la NASA, pero es en realidad una alucinante ilusión óptica: ¿eres capaz de verlo?' />
     </a>
 </div>
 
