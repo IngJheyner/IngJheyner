@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-watch-4-nuevos-relojes-inteligentes-medicion-salud-bandera-1254764'>Huawei Watch 4 Pro y Watch 4: nuevos relojes inteligentes con la medición de la salud por bandera</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-watch-4-nuevos-relojes-inteligentes-medicion-salud-bandera-1254764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-watch-4-pro-watch-4-nuevos-relojes-inteligentes-medicion-salud-bandera-3053544.jpg?tf=1200x' alt='Huawei Watch 4 Pro y Watch 4: nuevos relojes inteligentes con la medición de la salud por bandera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cofundador-deepmind-sentencia-asistentes-personales-inteligencia-artificial-nos-haran-mejores-todo-1257520'>El cofundador de DeepMind sentencia: los asistentes personales con inteligencia artificial nos harán mejores en todo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cofundador-deepmind-sentencia-asistentes-personales-inteligencia-artificial-nos-haran-mejores-todo-1257520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3035628.jpg?tf=1200x' alt='El cofundador de DeepMind sentencia: los asistentes personales con inteligencia artificial nos harán mejores en todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/canales-whatsapp-son-oficiales-puedes-probar-movil-1257536'>Los canales de WhatsApp son oficiales y así los puedes probar en tu móvil</a></h4>
+    <a href='https://computerhoy.com/apps/canales-whatsapp-son-oficiales-puedes-probar-movil-1257536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/canales-whatsapp-son-oficiales-puedes-probar-movil-3053516.jpg?tf=1200x' alt='Los canales de WhatsApp son oficiales y así los puedes probar en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/dyson-v15-aspiradora-potente-revolucionaria-tiene-140-euros-descuento-1252708'>Dyson V15, la aspiradora más potente y revolucionaria, tiene 140 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/hogar/dyson-v15-aspiradora-potente-revolucionaria-tiene-140-euros-descuento-1252708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aspiradora-mano-cables-dyson-v15-detect-absolute-2865003.jpg?tf=1200x' alt='Dyson V15, la aspiradora más potente y revolucionaria, tiene 140 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-644-computer-hoy-1253480'>¡Ya está en tu quiosco el número 644 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-644-computer-hoy-1253480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/computer-hoy-644-3051980.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 644 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/enviar-fotos-alta-resolucion-whatsapp-ya-posible-android-ios-1257496'>Enviar fotos en alta resolución en WhatsApp ya es posible para Android e iOS</a></h4>
-    <a href='https://computerhoy.com/apps/enviar-fotos-alta-resolucion-whatsapp-ya-posible-android-ios-1257496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3043418.jpg?tf=1200x' alt='Enviar fotos en alta resolución en WhatsApp ya es posible para Android e iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xgimi-mogo-2-pro-analisis-opinion-proyector-fullhd-adaptable-1230242'>XGIMI MoGo 2 Pro, el proyector portable FullHD que se adapta a cualquier lugar</a></h4>
-    <a href='https://computerhoy.com/analisis/xgimi-mogo-2-pro-analisis-opinion-proyector-fullhd-adaptable-1230242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xgimi-mogo-2-pro-3051178.jpg?tf=1200x' alt='XGIMI MoGo 2 Pro, el proyector portable FullHD que se adapta a cualquier lugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/convierten-fotos-instagram-desnudos-falsos-mediante-ia-chantajearte-1257190'>Convierten tus fotos de Instagram en desnudos falsos mediante IA para chantajearte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/convierten-fotos-instagram-desnudos-falsos-mediante-ia-chantajearte-1257190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/intel-descubre-metodo-detectar-96-deepfakes-tiene-ver-sangre-2875837.jpg?tf=1200x' alt='Convierten tus fotos de Instagram en desnudos falsos mediante IA para chantajearte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/airpods-pro-2-donde-comprarlos-baratos-1257026'>AirPods Pro 2: dónde comprarlos más baratos</a></h4>
-    <a href='https://computerhoy.com/apple/airpods-pro-2-donde-comprarlos-baratos-1257026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-airpods-pro-2-1675628565024-2947480.jpg?tf=1200x' alt='AirPods Pro 2: dónde comprarlos más baratos' />
     </a>
 </div>
 
