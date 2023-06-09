@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ilusion-optica-fondos-nuevo-macbook-air-15-pulgadas-1258278'>Los fans de Apple descubren una ilusión óptica en el nuevo fondo de pantalla del MacBook Air</a></h4>
-    <a href='https://computerhoy.com/apple/ilusion-optica-fondos-nuevo-macbook-air-15-pulgadas-1258278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/macbook-air-2023-3054880.jpg?tf=1200x' alt='Los fans de Apple descubren una ilusión óptica en el nuevo fondo de pantalla del MacBook Air' />
+    <h4><a href='https://computerhoy.com/tv/no-todos-hdmi-smart-tv-son-iguales-diferente-estas-utilizando-mal-1258014'>No todos los HDMI de tu Smart TV son iguales, uno de ellos es diferente y seguramente lo estás utilizando mal</a></h4>
+    <a href='https://computerhoy.com/tv/no-todos-hdmi-smart-tv-son-iguales-diferente-estas-utilizando-mal-1258014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/conexion-hdmi-3054724.jpg?tf=1200x' alt='No todos los HDMI de tu Smart TV son iguales, uno de ellos es diferente y seguramente lo estás utilizando mal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-memoria-cache-movil-android-beneficios-tiene-1257786'>Cómo limpiar la memoria caché de un móvil Android y qué beneficios tiene</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-limpiar-memoria-cache-movil-android-beneficios-tiene-1257786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/android-3054702.jpg?tf=1200x' alt='Cómo limpiar la memoria caché de un móvil Android y qué beneficios tiene' />
+    <h4><a href='https://computerhoy.com/life/ocu-advierte-peligros-truco-viral-placas-induccion-arrasa-redes-1258322'>La OCU advierte de los peligros del truco viral para las placas de inducción que arrasa en redes</a></h4>
+    <a href='https://computerhoy.com/life/ocu-advierte-peligros-truco-viral-placas-induccion-arrasa-redes-1258322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/sarten-placa-induccion-3054948.jpg?tf=1200x' alt='La OCU advierte de los peligros del truco viral para las placas de inducción que arrasa en redes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/novedades-importantes-watchos-10-llegaran-apple-watch-1258254'>Las novedades más importantes de WatchOS 10 que llegarán a tu Apple Watch</a></h4>
-    <a href='https://computerhoy.com/apple/novedades-importantes-watchos-10-llegaran-apple-watch-1258254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-watch-ultra-2927740.jpg?tf=1200x' alt='Las novedades más importantes de WatchOS 10 que llegarán a tu Apple Watch' />
+    <h4><a href='https://computerhoy.com/entretenimiento/prohibir-compartir-contrasenas-netflix-exito-rotundo-1258290'>Contra todo pronóstico la estrategia de Netflix de prohibir compartir contraseñas es un éxito rotundo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/prohibir-compartir-contrasenas-netflix-exito-rotundo-1258290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-2906432.jpg?tf=1200x' alt='Contra todo pronóstico la estrategia de Netflix de prohibir compartir contraseñas es un éxito rotundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ampliar-memoria-ram-cinco-cosas-tener-cuenta-1258262'>¿Merece la pena ampliar tu memoria RAM? 5 cosas a tener en cuenta</a></h4>
-    <a href='https://computerhoy.com/pc/ampliar-memoria-ram-cinco-cosas-tener-cuenta-1258262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/memoria-ram-crucial-ballistix-tactical-tracer.jpg?tf=1200x' alt='¿Merece la pena ampliar tu memoria RAM? 5 cosas a tener en cuenta' />
+    <h4><a href='https://computerhoy.com/alimentacion/lugar-correcto-colocar-leche-nevera-ciencia-spoiler-estas-haciendo-mal-1258320'>El lugar correcto para colocar la leche en la nevera, según la ciencia (Spoiler: lo estás haciendo mal)</a></h4>
+    <a href='https://computerhoy.com/alimentacion/lugar-correcto-colocar-leche-nevera-ciencia-spoiler-estas-haciendo-mal-1258320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/leche-nevera-3054946.jpg?tf=1200x' alt='El lugar correcto para colocar la leche en la nevera, según la ciencia (Spoiler: lo estás haciendo mal)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/amplificador-senal-wifi-1258148'>Amplificador de señal WiFi: qué tienes que tener en cuenta y mejores modelos</a></h4>
-    <a href='https://computerhoy.com/mejores/amplificador-senal-wifi-1258148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-mi-wi-fi-range-extender-pro-3054756.jpg?tf=1200x' alt='Amplificador de señal WiFi: qué tienes que tener en cuenta y mejores modelos' />
+    <h4><a href='https://computerhoy.com/entretenimiento/zelda-nueva-pelicula-nintendo-illumination-1258318'>Aseguran que la próxima película de Nintendo e Illumination será Zelda, y eso nos deja muy preocupados</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/zelda-nueva-pelicula-nintendo-illumination-1258318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/zelda-tears-kingdom-3037530.jpg?tf=1200x' alt='Aseguran que la próxima película de Nintendo e Illumination será Zelda, y eso nos deja muy preocupados' />
     </a>
 </div>
 
