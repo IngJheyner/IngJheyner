@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/opcion-debes-desactivar-inmediato-movil-evitar-te-espien-1258178'>La opción que debes desactivar de inmediato de tu móvil para evitar que te espíen</a></h4>
+    <a href='https://computerhoy.com/moviles/opcion-debes-desactivar-inmediato-movil-evitar-te-espien-1258178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/malware-android-2635219.jpg?tf=1200x' alt='La opción que debes desactivar de inmediato de tu móvil para evitar que te espíen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/mejora-duracion-bateria-movil-android-truco-secreto-1258154'>Mejora la duración de la batería de tu móvil Android con este truco secreto</a></h4>
+    <a href='https://computerhoy.com/android/mejora-duracion-bateria-movil-android-truco-secreto-1258154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/deberias-quitar-funda-movil-antes-ponerlo-cargar-3029702.jpg?tf=1200x' alt='Mejora la duración de la batería de tu móvil Android con este truco secreto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/servicios-vpn-vacaciones-viajes-1257676'>Servicios VPN para verano: cómo usarlo y mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/mejores/servicios-vpn-vacaciones-viajes-1257676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/persona-activando-vpn-ver-contenidos-netflix-3054644.jpg?tf=1200x' alt='Servicios VPN para verano: cómo usarlo y mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/mark-zuckerberg-no-ve-vision-pro-amenaza-piensa-gafas-apple-1258110'>Mark Zuckerberg no ve en las Vision Pro una amenaza: esto es lo que piensa de las gafas de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/mark-zuckerberg-no-ve-vision-pro-amenaza-piensa-gafas-apple-1258110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mark-zuckerberg-2995754.jpg?tf=1200x' alt='Mark Zuckerberg no ve en las Vision Pro una amenaza: esto es lo que piensa de las gafas de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-auto-no-funciona-actualizacion-puedes-hacer-solucionarlo-1258094'>Android Auto no funciona tras la actualización: esto es lo que puedes hacer para solucionarlo</a></h4>
     <a href='https://computerhoy.com/android/android-auto-no-funciona-actualizacion-puedes-hacer-solucionarlo-1258094' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/messenger-android-auto-3023266.jpg?tf=1200x' alt='Android Auto no funciona tras la actualización: esto es lo que puedes hacer para solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/messenger-abre-caja-pandora-pronto-podras-crear-stickers-usando-ia-1258070'>Messenger abre la caja de Pandora: pronto podrás crear stickers usando IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/messenger-abre-caja-pandora-pronto-podras-crear-stickers-usando-ia-1258070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/facebook-messenger-2031111.jpg?tf=1200x' alt='Messenger abre la caja de Pandora: pronto podrás crear stickers usando IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-chrome-quiere-convertirse-mejor-gestor-contrasenas-conseguira-1258042'>Google Chrome quiere convertirse en el mejor gestor de contraseñas: así lo conseguirá</a></h4>
-    <a href='https://computerhoy.com/google/google-chrome-quiere-convertirse-mejor-gestor-contrasenas-conseguira-1258042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-chrome-seguridad-2980508.jpg?tf=1200x' alt='Google Chrome quiere convertirse en el mejor gestor de contraseñas: así lo conseguirá' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-amazfit-656161'>Relojes Inteligentes Amazfit: estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-amazfit-656161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/smartwatch-amazfit-3053690.jpg?tf=1200x' alt='Relojes Inteligentes Amazfit: estos son los mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/historia-mensajeria-instantanea-whatsapp-tuvo-antes-msn-1237512'>25 aniversario de Computer Hoy: cómo llegó WhatsApp a ser la app de mensajería instantánea por excelencia, a pesar de MSN, ICQ y sus predecesoras</a></h4>
-    <a href='https://computerhoy.com/android/historia-mensajeria-instantanea-whatsapp-tuvo-antes-msn-1237512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/historia-mensajeria-instantanea-25-aniversario-computer-hoy-whatsapp-telegram-icq-msn-google-talk-3052952.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: cómo llegó WhatsApp a ser la app de mensajería instantánea por excelencia, a pesar de MSN, ICQ y sus predecesoras' />
     </a>
 </div>
 
