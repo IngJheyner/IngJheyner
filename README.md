@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/luvly-compania-sueca-vende-coches-electricos-estilo-ikea-1258018'>Luvly, la compañía sueca que vende coches eléctricos al estilo IKEA, por solo 10.000 euros</a></h4>
+    <a href='https://computerhoy.com/motor/luvly-compania-sueca-vende-coches-electricos-estilo-ikea-1258018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/luvly-compania-sueca-quiere-vende-coches-electricos-estilo-ikea-solo-10000-euros-3054392.jpg?tf=1200x' alt='Luvly, la compañía sueca que vende coches eléctricos al estilo IKEA, por solo 10.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/alcalde-promete-asfaltar-carretera-acaba-haciendo-chapuza-1258012'>El alcalde promete asfaltar la carretera en las elecciones, y cumple su promesa.... haciendo esta chapuza</a></h4>
+    <a href='https://computerhoy.com/motor/alcalde-promete-asfaltar-carretera-acaba-haciendo-chapuza-1258012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/alcalde-promete-asfaltar-carretera-elecciones-cumple-promesa-poniendo-alfombra-3054384.jpg?tf=1200x' alt='El alcalde promete asfaltar la carretera en las elecciones, y cumple su promesa.... haciendo esta chapuza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-aprueba-mision-visitar-asteroide-10-trillones-dolares-1257816'>La NASA aprueba la misión para visitar el asteroide de los 10 trillones de dólares</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-aprueba-mision-visitar-asteroide-10-trillones-dolares-1257816' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nasa-aprueba-mision-visitar-asteroide-10000-billones-dolares-3054162.jpg?tf=1200x' alt='La NASA aprueba la misión para visitar el asteroide de los 10 trillones de dólares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-ya-permite-aplicaciones-android-acceder-archivos-ordenador-1257732'>Windows 11 ya permite a las aplicaciones de Android acceder a los archivos de tu ordenador</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-ya-permite-aplicaciones-android-acceder-archivos-ordenador-1257732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/android-pc-3053950.jpg?tf=1200x' alt='Windows 11 ya permite a las aplicaciones de Android acceder a los archivos de tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/llevas-gafas-podrias-tener-pagar-600-euros-extra-poder-utilizar-apple-vision-pro-1257796'>Si llevas gafas podrías tener que pagar hasta 600 euros extra para poder utilizar las Apple Vision Pro</a></h4>
-    <a href='https://computerhoy.com/apple/llevas-gafas-podrias-tener-pagar-600-euros-extra-poder-utilizar-apple-vision-pro-1257796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051574.jpg?tf=1200x' alt='Si llevas gafas podrías tener que pagar hasta 600 euros extra para poder utilizar las Apple Vision Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/asteroide-tamano-rascacielos-aproxima-peligrosamente-tierra-1257790'>Un asteroide del tamaño de un rascacielos se aproxima peligrosamente a la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/asteroide-tamano-rascacielos-aproxima-peligrosamente-tierra-1257790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/asteroide-tierra-2750379.jpg?tf=1200x' alt='Un asteroide del tamaño de un rascacielos se aproxima peligrosamente a la Tierra' />
     </a>
 </div>
 
