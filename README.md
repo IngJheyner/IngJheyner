@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/novio-digital-he-probado-app-inteligencia-artificial-compania-da-bastante-miedo-1254658'>Un novio digital: he probado una app de inteligencia artificial de compañía y da bastante miedo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/novio-digital-he-probado-app-inteligencia-artificial-compania-da-bastante-miedo-1254658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/novio-digital-he-probado-app-inteligencia-artificial-compania-da-bastante-miedo-3049134.jpg?tf=1200x' alt='Un novio digital: he probado una app de inteligencia artificial de compañía y da bastante miedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/alternativas-xiaomi-13-ultra-1257164'>Cuáles son las mejores alternativas a Xiaomi 13 Ultra</a></h4>
+    <a href='https://computerhoy.com/mejores/alternativas-xiaomi-13-ultra-1257164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-13-ultra-3053056.jpg?tf=1200x' alt='Cuáles son las mejores alternativas a Xiaomi 13 Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-posponer-reinicio-automatico-despues-actualizar-windows-11-1257736'>Cómo posponer el reinicio automático después de actualizar en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-posponer-reinicio-automatico-despues-actualizar-windows-11-1257736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-11-3053952.jpg?tf=1200x' alt='Cómo posponer el reinicio automático después de actualizar en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/gasta-64000-dolares-juegos-moviles-arruina-padres-acabar-ahorros-1258214'>Gasta 64.000 dólares en juegos para móviles y arruina a sus padres al acabar con sus ahorros</a></h4>
+    <a href='https://computerhoy.com/gaming/gasta-64000-dolares-juegos-moviles-arruina-padres-acabar-ahorros-1258214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-huawei-mate-50-pro-2866243.jpg?tf=1200x' alt='Gasta 64.000 dólares en juegos para móviles y arruina a sus padres al acabar con sus ahorros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/opcion-debes-desactivar-inmediato-movil-evitar-te-espien-1258178'>La opción que debes desactivar de inmediato de tu móvil para evitar que te espíen</a></h4>
     <a href='https://computerhoy.com/moviles/opcion-debes-desactivar-inmediato-movil-evitar-te-espien-1258178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/malware-android-2635219.jpg?tf=1200x' alt='La opción que debes desactivar de inmediato de tu móvil para evitar que te espíen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/mejora-duracion-bateria-movil-android-truco-secreto-1258154'>Mejora la duración de la batería de tu móvil Android con este truco secreto</a></h4>
-    <a href='https://computerhoy.com/android/mejora-duracion-bateria-movil-android-truco-secreto-1258154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/deberias-quitar-funda-movil-antes-ponerlo-cargar-3029702.jpg?tf=1200x' alt='Mejora la duración de la batería de tu móvil Android con este truco secreto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/servicios-vpn-vacaciones-viajes-1257676'>Servicios VPN para verano: cómo usarlo y mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/mejores/servicios-vpn-vacaciones-viajes-1257676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/persona-activando-vpn-ver-contenidos-netflix-3054644.jpg?tf=1200x' alt='Servicios VPN para verano: cómo usarlo y mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/mark-zuckerberg-no-ve-vision-pro-amenaza-piensa-gafas-apple-1258110'>Mark Zuckerberg no ve en las Vision Pro una amenaza: esto es lo que piensa de las gafas de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/mark-zuckerberg-no-ve-vision-pro-amenaza-piensa-gafas-apple-1258110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mark-zuckerberg-2995754.jpg?tf=1200x' alt='Mark Zuckerberg no ve en las Vision Pro una amenaza: esto es lo que piensa de las gafas de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-no-funciona-actualizacion-puedes-hacer-solucionarlo-1258094'>Android Auto no funciona tras la actualización: esto es lo que puedes hacer para solucionarlo</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-no-funciona-actualizacion-puedes-hacer-solucionarlo-1258094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/messenger-android-auto-3023266.jpg?tf=1200x' alt='Android Auto no funciona tras la actualización: esto es lo que puedes hacer para solucionarlo' />
     </a>
 </div>
 
