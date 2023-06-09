@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-aprueba-mision-visitar-asteroide-10-trillones-dolares-1257816'>La NASA aprueba la misión para visitar el asteroide de los 10 trillones de dólares</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-aprueba-mision-visitar-asteroide-10-trillones-dolares-1257816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nasa-aprueba-mision-visitar-asteroide-10000-billones-dolares-3054162.jpg?tf=1200x' alt='La NASA aprueba la misión para visitar el asteroide de los 10 trillones de dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-drive-deja-funcionar-windows-8-windows-10-1257804'>Google Drive deja de funcionar en Windows 8 y algunas versiones de Windows 10</a></h4>
+    <a href='https://computerhoy.com/google/google-drive-deja-funcionar-windows-8-windows-10-1257804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenador-google-drive-2876797.jpg?tf=1200x' alt='Google Drive deja de funcionar en Windows 8 y algunas versiones de Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-ya-permite-aplicaciones-android-acceder-archivos-ordenador-1257732'>Windows 11 ya permite a las aplicaciones de Android acceder a los archivos de tu ordenador</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-ya-permite-aplicaciones-android-acceder-archivos-ordenador-1257732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/android-pc-3053950.jpg?tf=1200x' alt='Windows 11 ya permite a las aplicaciones de Android acceder a los archivos de tu ordenador' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/asteroide-tamano-rascacielos-aproxima-peligrosamente-tierra-1257790'>Un asteroide del tamaño de un rascacielos se aproxima peligrosamente a la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/asteroide-tamano-rascacielos-aproxima-peligrosamente-tierra-1257790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/asteroide-tierra-2750379.jpg?tf=1200x' alt='Un asteroide del tamaño de un rascacielos se aproxima peligrosamente a la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fecha-clave-podria-librarte-acudir-mesa-electoral-23-julio-1257744'>Esta es la fecha clave que podría librarte de acudir a la mesa electoral el 23 de julio</a></h4>
-    <a href='https://computerhoy.com/life/fecha-clave-podria-librarte-acudir-mesa-electoral-23-julio-1257744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/votar-vacaciones-3053966.jpg?tf=1200x' alt='Esta es la fecha clave que podría librarte de acudir a la mesa electoral el 23 de julio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/parece-imagen-nasa-pero-realidad-alucinante-ilusion-optica-eres-capaz-verlo-1257216'>Parece una imagen de la NASA, pero es en realidad una alucinante ilusión óptica: ¿eres capaz de verlo?</a></h4>
-    <a href='https://computerhoy.com/life/parece-imagen-nasa-pero-realidad-alucinante-ilusion-optica-eres-capaz-verlo-1257216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ilusion-optica-3053788.jpg?tf=1200x' alt='Parece una imagen de la NASA, pero es en realidad una alucinante ilusión óptica: ¿eres capaz de verlo?' />
     </a>
 </div>
 
