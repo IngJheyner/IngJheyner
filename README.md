@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/luvly-compania-sueca-vende-coches-electricos-estilo-ikea-1258018'>Luvly, la compañía sueca que vende coches eléctricos al estilo IKEA, por solo 10.000 euros</a></h4>
-    <a href='https://computerhoy.com/motor/luvly-compania-sueca-vende-coches-electricos-estilo-ikea-1258018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/luvly-compania-sueca-quiere-vende-coches-electricos-estilo-ikea-solo-10000-euros-3054392.jpg?tf=1200x' alt='Luvly, la compañía sueca que vende coches eléctricos al estilo IKEA, por solo 10.000 euros' />
+    <h4><a href='https://computerhoy.com/android/android-auto-no-funciona-actualizacion-puedes-hacer-solucionarlo-1258094'>Android Auto no funciona tras la actualización: esto es lo que puedes hacer para solucionarlo</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-no-funciona-actualizacion-puedes-hacer-solucionarlo-1258094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/messenger-android-auto-3023266.jpg?tf=1200x' alt='Android Auto no funciona tras la actualización: esto es lo que puedes hacer para solucionarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/alcalde-promete-asfaltar-carretera-acaba-haciendo-chapuza-1258012'>El alcalde promete asfaltar la carretera en las elecciones, y cumple su promesa.... haciendo esta chapuza</a></h4>
-    <a href='https://computerhoy.com/motor/alcalde-promete-asfaltar-carretera-acaba-haciendo-chapuza-1258012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/alcalde-promete-asfaltar-carretera-elecciones-cumple-promesa-poniendo-alfombra-3054384.jpg?tf=1200x' alt='El alcalde promete asfaltar la carretera en las elecciones, y cumple su promesa.... haciendo esta chapuza' />
+    <h4><a href='https://computerhoy.com/tecnologia/messenger-abre-caja-pandora-pronto-podras-crear-stickers-usando-ia-1258070'>Messenger abre la caja de Pandora: pronto podrás crear stickers usando IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/messenger-abre-caja-pandora-pronto-podras-crear-stickers-usando-ia-1258070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/facebook-messenger-2031111.jpg?tf=1200x' alt='Messenger abre la caja de Pandora: pronto podrás crear stickers usando IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-aprueba-mision-visitar-asteroide-10-trillones-dolares-1257816'>La NASA aprueba la misión para visitar el asteroide de los 10 trillones de dólares</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-aprueba-mision-visitar-asteroide-10-trillones-dolares-1257816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nasa-aprueba-mision-visitar-asteroide-10000-billones-dolares-3054162.jpg?tf=1200x' alt='La NASA aprueba la misión para visitar el asteroide de los 10 trillones de dólares' />
+    <h4><a href='https://computerhoy.com/google/google-chrome-quiere-convertirse-mejor-gestor-contrasenas-conseguira-1258042'>Google Chrome quiere convertirse en el mejor gestor de contraseñas: así lo conseguirá</a></h4>
+    <a href='https://computerhoy.com/google/google-chrome-quiere-convertirse-mejor-gestor-contrasenas-conseguira-1258042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-chrome-seguridad-2980508.jpg?tf=1200x' alt='Google Chrome quiere convertirse en el mejor gestor de contraseñas: así lo conseguirá' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-drive-deja-funcionar-windows-8-windows-10-1257804'>Google Drive deja de funcionar en Windows 8 y algunas versiones de Windows 10</a></h4>
-    <a href='https://computerhoy.com/google/google-drive-deja-funcionar-windows-8-windows-10-1257804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenador-google-drive-2876797.jpg?tf=1200x' alt='Google Drive deja de funcionar en Windows 8 y algunas versiones de Windows 10' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-amazfit-656161'>Relojes Inteligentes Amazfit: estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-amazfit-656161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/smartwatch-amazfit-3053690.jpg?tf=1200x' alt='Relojes Inteligentes Amazfit: estos son los mejores que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-ya-permite-aplicaciones-android-acceder-archivos-ordenador-1257732'>Windows 11 ya permite a las aplicaciones de Android acceder a los archivos de tu ordenador</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-ya-permite-aplicaciones-android-acceder-archivos-ordenador-1257732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/android-pc-3053950.jpg?tf=1200x' alt='Windows 11 ya permite a las aplicaciones de Android acceder a los archivos de tu ordenador' />
+    <h4><a href='https://computerhoy.com/android/historia-mensajeria-instantanea-whatsapp-tuvo-antes-msn-1237512'>25 aniversario de Computer Hoy: cómo llegó WhatsApp a ser la app de mensajería instantánea por excelencia, a pesar de MSN, ICQ y sus predecesoras</a></h4>
+    <a href='https://computerhoy.com/android/historia-mensajeria-instantanea-whatsapp-tuvo-antes-msn-1237512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/historia-mensajeria-instantanea-25-aniversario-computer-hoy-whatsapp-telegram-icq-msn-google-talk-3052952.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: cómo llegó WhatsApp a ser la app de mensajería instantánea por excelencia, a pesar de MSN, ICQ y sus predecesoras' />
     </a>
 </div>
 
