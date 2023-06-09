@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/novio-digital-he-probado-app-inteligencia-artificial-compania-da-bastante-miedo-1254658'>Un novio digital: he probado una app de inteligencia artificial de compañía y da bastante miedo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/novio-digital-he-probado-app-inteligencia-artificial-compania-da-bastante-miedo-1254658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/novio-digital-he-probado-app-inteligencia-artificial-compania-da-bastante-miedo-3049134.jpg?tf=1200x' alt='Un novio digital: he probado una app de inteligencia artificial de compañía y da bastante miedo' />
+    <h4><a href='https://computerhoy.com/apple/ilusion-optica-fondos-nuevo-macbook-air-15-pulgadas-1258278'>Los fans de Apple descubren una ilusión óptica en el nuevo fondo de pantalla del MacBook Air</a></h4>
+    <a href='https://computerhoy.com/apple/ilusion-optica-fondos-nuevo-macbook-air-15-pulgadas-1258278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/macbook-air-2023-3054880.jpg?tf=1200x' alt='Los fans de Apple descubren una ilusión óptica en el nuevo fondo de pantalla del MacBook Air' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/alternativas-xiaomi-13-ultra-1257164'>Cuáles son las mejores alternativas a Xiaomi 13 Ultra</a></h4>
-    <a href='https://computerhoy.com/mejores/alternativas-xiaomi-13-ultra-1257164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-13-ultra-3053056.jpg?tf=1200x' alt='Cuáles son las mejores alternativas a Xiaomi 13 Ultra' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-memoria-cache-movil-android-beneficios-tiene-1257786'>Cómo limpiar la memoria caché de un móvil Android y qué beneficios tiene</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-limpiar-memoria-cache-movil-android-beneficios-tiene-1257786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/android-3054702.jpg?tf=1200x' alt='Cómo limpiar la memoria caché de un móvil Android y qué beneficios tiene' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-posponer-reinicio-automatico-despues-actualizar-windows-11-1257736'>Cómo posponer el reinicio automático después de actualizar en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-posponer-reinicio-automatico-despues-actualizar-windows-11-1257736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-11-3053952.jpg?tf=1200x' alt='Cómo posponer el reinicio automático después de actualizar en Windows 11' />
+    <h4><a href='https://computerhoy.com/apple/novedades-importantes-watchos-10-llegaran-apple-watch-1258254'>Las novedades más importantes de WatchOS 10 que llegarán a tu Apple Watch</a></h4>
+    <a href='https://computerhoy.com/apple/novedades-importantes-watchos-10-llegaran-apple-watch-1258254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-watch-ultra-2927740.jpg?tf=1200x' alt='Las novedades más importantes de WatchOS 10 que llegarán a tu Apple Watch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/gasta-64000-dolares-juegos-moviles-arruina-padres-acabar-ahorros-1258214'>Gasta 64.000 dólares en juegos para móviles y arruina a sus padres al acabar con sus ahorros</a></h4>
-    <a href='https://computerhoy.com/gaming/gasta-64000-dolares-juegos-moviles-arruina-padres-acabar-ahorros-1258214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-huawei-mate-50-pro-2866243.jpg?tf=1200x' alt='Gasta 64.000 dólares en juegos para móviles y arruina a sus padres al acabar con sus ahorros' />
+    <h4><a href='https://computerhoy.com/pc/ampliar-memoria-ram-cinco-cosas-tener-cuenta-1258262'>¿Merece la pena ampliar tu memoria RAM? 5 cosas a tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/pc/ampliar-memoria-ram-cinco-cosas-tener-cuenta-1258262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/memoria-ram-crucial-ballistix-tactical-tracer.jpg?tf=1200x' alt='¿Merece la pena ampliar tu memoria RAM? 5 cosas a tener en cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/opcion-debes-desactivar-inmediato-movil-evitar-te-espien-1258178'>La opción que debes desactivar de inmediato de tu móvil para evitar que te espíen</a></h4>
-    <a href='https://computerhoy.com/moviles/opcion-debes-desactivar-inmediato-movil-evitar-te-espien-1258178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/malware-android-2635219.jpg?tf=1200x' alt='La opción que debes desactivar de inmediato de tu móvil para evitar que te espíen' />
+    <h4><a href='https://computerhoy.com/mejores/amplificador-senal-wifi-1258148'>Amplificador de señal WiFi: qué tienes que tener en cuenta y mejores modelos</a></h4>
+    <a href='https://computerhoy.com/mejores/amplificador-senal-wifi-1258148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-mi-wi-fi-range-extender-pro-3054756.jpg?tf=1200x' alt='Amplificador de señal WiFi: qué tienes que tener en cuenta y mejores modelos' />
     </a>
 </div>
 
