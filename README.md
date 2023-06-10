@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/luces-sombras-fuel-combustible-quiere-acabar-emisiones-co2-2035-1252394'>Luces y sombras del "e-fuel": el combustible que quiere acabar con las emisiones de CO2 en 2035</a></h4>
+    <a href='https://computerhoy.com/motor/luces-sombras-fuel-combustible-quiere-acabar-emisiones-co2-2035-1252394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/luces-sombras-fuel-combustible-quiere-acabar-emisiones-co2-2035-3048500.jpg?tf=1200x' alt='Luces y sombras del "e-fuel": el combustible que quiere acabar con las emisiones de CO2 en 2035' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/elecciones-generales-23j-ciberseguridad-voto-correo-ojo-huracan-1255454'>Elecciones generales 23J: la ciberseguridad y el voto por correo en el ojo del huracán</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/elecciones-generales-23j-ciberseguridad-voto-correo-ojo-huracan-1255454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/elecciones-generales-23j-ciberseguridad-voto-correo-ojo-huracan-3052094.jpg?tf=1200x' alt='Elecciones generales 23J: la ciberseguridad y el voto por correo en el ojo del huracán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-apple-busca-marcar-futuro-apple-vision-pro-1256306'>Así es como Apple busca marcar el futuro con Apple Vision Pro</a></h4>
+    <a href='https://computerhoy.com/apple/como-apple-busca-marcar-futuro-apple-vision-pro-1256306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='Así es como Apple busca marcar el futuro con Apple Vision Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/wep-wpa-wpa2-wpa3-protocolo-seguridad-tiene-wifi-significa-1241176'>WEP, WPA, WPA2 o WPA3: ¿qué tipo de protocolo de seguridad tienes en tu WiFi y qué significa?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/wep-wpa-wpa2-wpa3-protocolo-seguridad-tiene-wifi-significa-1241176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/wifi-1908897.jpg?tf=1200x' alt='WEP, WPA, WPA2 o WPA3: ¿qué tipo de protocolo de seguridad tienes en tu WiFi y qué significa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/7-streamers-apenas-estan-empezando-ya-apuntan-alto-1251110'>7 streamers que apenas están empezando, pero que ya apuntan a lo más alto</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-streamers-apenas-estan-empezando-ya-apuntan-alto-1251110' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/quackity-viviendoenlacalle-cell-streamers-twitch-3043462.jpg?tf=1200x' alt='7 streamers que apenas están empezando, pero que ya apuntan a lo más alto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mensaje-tallado-tumba-stephen-hawking-1257050'>Cuando leas el mensaje tallado en la tumba de Stephen Hawking, te vas a emocionar</a></h4>
-    <a href='https://computerhoy.com/life/mensaje-tallado-tumba-stephen-hawking-1257050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cuando-leas-mensaje-tallado-tumba-stephen-hawking-te-vas-emocionar-3052676.jpg?tf=1200x' alt='Cuando leas el mensaje tallado en la tumba de Stephen Hawking, te vas a emocionar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cargadores-iphone-carga-rapida-baratos-ofertas-1258046'>Cargador para iPhone de carga rápida: Modelos baratos y que recomendamos</a></h4>
-    <a href='https://computerhoy.com/apple/cargadores-iphone-carga-rapida-baratos-ofertas-1258046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cargador-iphone-carga-rapida-modelos-baratos-recomendamos-3054452.jpg?tf=1200x' alt='Cargador para iPhone de carga rápida: Modelos baratos y que recomendamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/killerbody-cascos-superheroes-controlan-voz-tacto-1258512'>Killerbody, los cascos de superhéroe más avanzados que puedes comprar, se controlan con la voz o el tacto</a></h4>
-    <a href='https://computerhoy.com/life/killerbody-cascos-superheroes-controlan-voz-tacto-1258512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1686366388528-3055174.jpg?tf=1200x' alt='Killerbody, los cascos de superhéroe más avanzados que puedes comprar, se controlan con la voz o el tacto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/maldicion-ikea-ha-arruinado-mapa-suecia-ciudadanos-rebelan-1256212'>La maldición de IKEA: así ha arruinado el mapa de Suecia, sus ciudadanos se rebelan</a></h4>
-    <a href='https://computerhoy.com/life/maldicion-ikea-ha-arruinado-mapa-suecia-ciudadanos-rebelan-1256212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/maldicion-ikea-ha-arruinado-mapa-suecia-ciudadanos-rebelan-3051414.jpg?tf=1200x' alt='La maldición de IKEA: así ha arruinado el mapa de Suecia, sus ciudadanos se rebelan' />
     </a>
 </div>
 
