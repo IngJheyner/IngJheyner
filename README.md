@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/torre-cubos-espectacular-ilusion-optica-todo-mundo-puede-ver-1258516'>La Torre de Cubos, la espectacular ilusión óptica que todo el mundo puede ver</a></h4>
+    <a href='https://computerhoy.com/life/torre-cubos-espectacular-ilusion-optica-todo-mundo-puede-ver-1258516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/torre-cubos-espectacular-ilusion-optica-todo-mundo-puede-ver-3055182.jpg?tf=1200x' alt='La Torre de Cubos, la espectacular ilusión óptica que todo el mundo puede ver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/gracias-wear-os-4-vas-poder-cambiar-telefono-reiniciar-reloj-1258606'>Gracias a Wear OS 4 vas a poder cambiar de teléfono sin reiniciar tu reloj</a></h4>
+    <a href='https://computerhoy.com/android/gracias-wear-os-4-vas-poder-cambiar-telefono-reiniciar-reloj-1258606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ticwatch-e3-wear-os-nfc-reloj-gustando-mucho-porque-integra-pide-gente-20-descuento-2848311.jpg?tf=1200x' alt='Gracias a Wear OS 4 vas a poder cambiar de teléfono sin reiniciar tu reloj' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/nos-encanta-estallar-plasticos-burbujas-1251494'>¿Por qué nos encanta estallar los plásticos de burbujas?</a></h4>
     <a href='https://computerhoy.com/life/nos-encanta-estallar-plasticos-burbujas-1251494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/plastico-burbujas-3043988.jpg?tf=1200x' alt='¿Por qué nos encanta estallar los plásticos de burbujas?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-meet-ya-no-quiere-te-distraigas-videollamada-1258584'>Google Meet ya no quiere que te distraigas en una videollamada</a></h4>
     <a href='https://computerhoy.com/apps/google-meet-ya-no-quiere-te-distraigas-videollamada-1258584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-meet-3055314.jpg?tf=1200x' alt='Google Meet ya no quiere que te distraigas en una videollamada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ahora-vas-poder-utilizar-comandos-voz-chat-inteligente-bing-1258580'>Ahora vas a poder utilizar comandos de voz en el chat inteligente de Bing</a></h4>
-    <a href='https://computerhoy.com/apps/ahora-vas-poder-utilizar-comandos-voz-chat-inteligente-bing-1258580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/he-pasado-semana-probando-3-personalidades-bing-2992354.jpg?tf=1200x' alt='Ahora vas a poder utilizar comandos de voz en el chat inteligente de Bing' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/crean-platillo-volador-electrico-despegue-vertical-1258576'>Crean un platillo volador eléctrico de despegue vertical</a></h4>
-    <a href='https://computerhoy.com/life/crean-platillo-volador-electrico-despegue-vertical-1258576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/crean-platillo-volador-electrico-despegue-vertical-3055282.jpg?tf=1200x' alt='Crean un platillo volador eléctrico de despegue vertical' />
     </a>
 </div>
 
