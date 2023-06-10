@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/nos-encanta-estallar-plasticos-burbujas-1251494'>¿Por qué nos encanta estallar los plásticos de burbujas?</a></h4>
+    <a href='https://computerhoy.com/life/nos-encanta-estallar-plasticos-burbujas-1251494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/plastico-burbujas-3043988.jpg?tf=1200x' alt='¿Por qué nos encanta estallar los plásticos de burbujas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/proyectores-portatiles-casa-viajes-1258590'>Proyectores portátiles para tu casa o de viaje: por qué merecen la pena y mejores opciones</a></h4>
+    <a href='https://computerhoy.com/mejores/proyectores-portatiles-casa-viajes-1258590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xgimi-mogo-2-pro-3051186.jpg?tf=1200x' alt='Proyectores portátiles para tu casa o de viaje: por qué merecen la pena y mejores opciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-meet-ya-no-quiere-te-distraigas-videollamada-1258584'>Google Meet ya no quiere que te distraigas en una videollamada</a></h4>
+    <a href='https://computerhoy.com/apps/google-meet-ya-no-quiere-te-distraigas-videollamada-1258584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-meet-3055314.jpg?tf=1200x' alt='Google Meet ya no quiere que te distraigas en una videollamada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ahora-vas-poder-utilizar-comandos-voz-chat-inteligente-bing-1258580'>Ahora vas a poder utilizar comandos de voz en el chat inteligente de Bing</a></h4>
+    <a href='https://computerhoy.com/apps/ahora-vas-poder-utilizar-comandos-voz-chat-inteligente-bing-1258580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/he-pasado-semana-probando-3-personalidades-bing-2992354.jpg?tf=1200x' alt='Ahora vas a poder utilizar comandos de voz en el chat inteligente de Bing' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/crean-platillo-volador-electrico-despegue-vertical-1258576'>Crean un platillo volador eléctrico de despegue vertical</a></h4>
     <a href='https://computerhoy.com/life/crean-platillo-volador-electrico-despegue-vertical-1258576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/crean-platillo-volador-electrico-despegue-vertical-3055282.jpg?tf=1200x' alt='Crean un platillo volador eléctrico de despegue vertical' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/error-no-debes-cometer-poner-ventilador-meses-estar-guardado-1258572'>El error que no debes cometer al poner el ventilador tras meses de estar guardado</a></h4>
-    <a href='https://computerhoy.com/life/error-no-debes-cometer-poner-ventilador-meses-estar-guardado-1258572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ventilador-3055272.jpg?tf=1200x' alt='El error que no debes cometer al poner el ventilador tras meses de estar guardado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-14-estrenara-funcion-te-permitira-ahorrar-bateria-1258566'>Android 14 estrenará una función que te permitirá ahorrar batería</a></h4>
-    <a href='https://computerhoy.com/android/android-14-estrenara-funcion-te-permitira-ahorrar-bateria-1258566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bateria-android-3055266.jpg?tf=1200x' alt='Android 14 estrenará una función que te permitirá ahorrar batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-ya-sale-rentable-prohibir-compartas-cuenta-1258562'>A Netflix ya le sale rentable prohibir que compartas cuenta</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-ya-sale-rentable-prohibir-compartas-cuenta-1258562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/smart-tv-logo-netflix-persona-descansando-pies-alto-3030208.jpg?tf=1200x' alt='A Netflix ya le sale rentable prohibir que compartas cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/investigadores-demuestran-chatgpt-no-tiene-tan-buen-sentido-humor-1258548'>Investigadores demuestran que ChatGPT no tiene tan buen sentido del humor</a></h4>
-    <a href='https://computerhoy.com/apps/investigadores-demuestran-chatgpt-no-tiene-tan-buen-sentido-humor-1258548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-3055242.jpg?tf=1200x' alt='Investigadores demuestran que ChatGPT no tiene tan buen sentido del humor' />
     </a>
 </div>
 
