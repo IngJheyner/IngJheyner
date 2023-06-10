@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/investigadores-demuestran-chatgpt-no-tiene-tan-buen-sentido-humor-1258548'>Investigadores demuestran que ChatGPT no tiene tan buen sentido del humor</a></h4>
+    <a href='https://computerhoy.com/apps/investigadores-demuestran-chatgpt-no-tiene-tan-buen-sentido-humor-1258548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-3055242.jpg?tf=1200x' alt='Investigadores demuestran que ChatGPT no tiene tan buen sentido del humor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-true-crime-recientes-netflix-son-tan-controvertidos-como-extranos-1255954'>7 true crime recientes de Netflix que son tan controvertidos como extraños</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-true-crime-recientes-netflix-son-tan-controvertidos-como-extranos-1255954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/7-true-crime-recientes-netflix-son-tan-controvertidos-como-extranos-3052022.jpg?tf=1200x' alt='7 true crime recientes de Netflix que son tan controvertidos como extraños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-rebajas-xiaomi-mediamarkt-1258206'>MediaMarkt rebaja muchos productos de Xiaomi. Hemos capturado los mejores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-rebajas-xiaomi-mediamarkt-1258206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xioami-smart-air-fryer-3054714.jpg?tf=1200x' alt='MediaMarkt rebaja muchos productos de Xiaomi. Hemos capturado los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/trucos-curiosos-puedes-hacer-simbolo-sistema-windows-1248002'>Trucos curiosos que puedes hacer con el Símbolo de sistema de Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/trucos-curiosos-puedes-hacer-simbolo-sistema-windows-1248002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/simbolo-sistema-3037948.jpg?tf=1200x' alt='Trucos curiosos que puedes hacer con el Símbolo de sistema de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/luces-sombras-fuel-combustible-quiere-acabar-emisiones-co2-2035-1252394'>Luces y sombras del "e-fuel": el combustible que quiere acabar con las emisiones de CO2 en 2035</a></h4>
     <a href='https://computerhoy.com/motor/luces-sombras-fuel-combustible-quiere-acabar-emisiones-co2-2035-1252394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/luces-sombras-fuel-combustible-quiere-acabar-emisiones-co2-2035-3048500.jpg?tf=1200x' alt='Luces y sombras del "e-fuel": el combustible que quiere acabar con las emisiones de CO2 en 2035' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/elecciones-generales-23j-ciberseguridad-voto-correo-ojo-huracan-1255454'>Elecciones generales 23J: la ciberseguridad y el voto por correo en el ojo del huracán</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/elecciones-generales-23j-ciberseguridad-voto-correo-ojo-huracan-1255454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/elecciones-generales-23j-ciberseguridad-voto-correo-ojo-huracan-3052094.jpg?tf=1200x' alt='Elecciones generales 23J: la ciberseguridad y el voto por correo en el ojo del huracán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-apple-busca-marcar-futuro-apple-vision-pro-1256306'>Así es como Apple busca marcar el futuro con Apple Vision Pro</a></h4>
-    <a href='https://computerhoy.com/apple/como-apple-busca-marcar-futuro-apple-vision-pro-1256306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='Así es como Apple busca marcar el futuro con Apple Vision Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/wep-wpa-wpa2-wpa3-protocolo-seguridad-tiene-wifi-significa-1241176'>WEP, WPA, WPA2 o WPA3: ¿qué tipo de protocolo de seguridad tienes en tu WiFi y qué significa?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/wep-wpa-wpa2-wpa3-protocolo-seguridad-tiene-wifi-significa-1241176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/wifi-1908897.jpg?tf=1200x' alt='WEP, WPA, WPA2 o WPA3: ¿qué tipo de protocolo de seguridad tienes en tu WiFi y qué significa?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-streamers-apenas-estan-empezando-ya-apuntan-alto-1251110'>7 streamers que apenas están empezando, pero que ya apuntan a lo más alto</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-streamers-apenas-estan-empezando-ya-apuntan-alto-1251110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/quackity-viviendoenlacalle-cell-streamers-twitch-3043462.jpg?tf=1200x' alt='7 streamers que apenas están empezando, pero que ya apuntan a lo más alto' />
     </a>
 </div>
 
