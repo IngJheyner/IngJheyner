@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/crean-platillo-volador-electrico-despegue-vertical-1258576'>Crean un platillo volador eléctrico de despegue vertical</a></h4>
+    <a href='https://computerhoy.com/life/crean-platillo-volador-electrico-despegue-vertical-1258576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/crean-platillo-volador-electrico-despegue-vertical-3055282.jpg?tf=1200x' alt='Crean un platillo volador eléctrico de despegue vertical' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/error-no-debes-cometer-poner-ventilador-meses-estar-guardado-1258572'>El error que no debes cometer al poner el ventilador tras meses de estar guardado</a></h4>
+    <a href='https://computerhoy.com/life/error-no-debes-cometer-poner-ventilador-meses-estar-guardado-1258572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ventilador-3055272.jpg?tf=1200x' alt='El error que no debes cometer al poner el ventilador tras meses de estar guardado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-14-estrenara-funcion-te-permitira-ahorrar-bateria-1258566'>Android 14 estrenará una función que te permitirá ahorrar batería</a></h4>
+    <a href='https://computerhoy.com/android/android-14-estrenara-funcion-te-permitira-ahorrar-bateria-1258566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bateria-android-3055266.jpg?tf=1200x' alt='Android 14 estrenará una función que te permitirá ahorrar batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-ya-sale-rentable-prohibir-compartas-cuenta-1258562'>A Netflix ya le sale rentable prohibir que compartas cuenta</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-ya-sale-rentable-prohibir-compartas-cuenta-1258562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/smart-tv-logo-netflix-persona-descansando-pies-alto-3030208.jpg?tf=1200x' alt='A Netflix ya le sale rentable prohibir que compartas cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/investigadores-demuestran-chatgpt-no-tiene-tan-buen-sentido-humor-1258548'>Investigadores demuestran que ChatGPT no tiene tan buen sentido del humor</a></h4>
     <a href='https://computerhoy.com/apps/investigadores-demuestran-chatgpt-no-tiene-tan-buen-sentido-humor-1258548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-3055242.jpg?tf=1200x' alt='Investigadores demuestran que ChatGPT no tiene tan buen sentido del humor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-true-crime-recientes-netflix-son-tan-controvertidos-como-extranos-1255954'>7 true crime recientes de Netflix que son tan controvertidos como extraños</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-true-crime-recientes-netflix-son-tan-controvertidos-como-extranos-1255954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/7-true-crime-recientes-netflix-son-tan-controvertidos-como-extranos-3052022.jpg?tf=1200x' alt='7 true crime recientes de Netflix que son tan controvertidos como extraños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-rebajas-xiaomi-mediamarkt-1258206'>MediaMarkt rebaja muchos productos de Xiaomi. Hemos capturado los mejores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-rebajas-xiaomi-mediamarkt-1258206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xioami-smart-air-fryer-3054714.jpg?tf=1200x' alt='MediaMarkt rebaja muchos productos de Xiaomi. Hemos capturado los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/trucos-curiosos-puedes-hacer-simbolo-sistema-windows-1248002'>Trucos curiosos que puedes hacer con el Símbolo de sistema de Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/trucos-curiosos-puedes-hacer-simbolo-sistema-windows-1248002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/simbolo-sistema-3037948.jpg?tf=1200x' alt='Trucos curiosos que puedes hacer con el Símbolo de sistema de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/luces-sombras-fuel-combustible-quiere-acabar-emisiones-co2-2035-1252394'>Luces y sombras del "e-fuel": el combustible que quiere acabar con las emisiones de CO2 en 2035</a></h4>
-    <a href='https://computerhoy.com/motor/luces-sombras-fuel-combustible-quiere-acabar-emisiones-co2-2035-1252394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/luces-sombras-fuel-combustible-quiere-acabar-emisiones-co2-2035-3048500.jpg?tf=1200x' alt='Luces y sombras del "e-fuel": el combustible que quiere acabar con las emisiones de CO2 en 2035' />
     </a>
 </div>
 
