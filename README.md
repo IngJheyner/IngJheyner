@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/avion-dia-juicio-final-controla-boton-rojo-guerra-nuclear-1258332'>El nuevo avión del Día del Juicio Final, que controla el Botón Rojo si hay una guerra nuclear</a></h4>
+    <a href='https://computerhoy.com/motor/avion-dia-juicio-final-controla-boton-rojo-guerra-nuclear-1258332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nuevo-avion-dia-juicio-final-controla-boton-rojo-hay-guerra-nuclear-3055000.jpg?tf=1200x' alt='El nuevo avión del Día del Juicio Final, que controla el Botón Rojo si hay una guerra nuclear' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/meme-elon-musk-vision-pro-apple-como-drogarse-setas-alucinogenas-1258330'>Elon Musk se burla de las gafas Vision Pro de Apple, las compara con drogarse con setas alucinógenas</a></h4>
+    <a href='https://computerhoy.com/apple/meme-elon-musk-vision-pro-apple-como-drogarse-setas-alucinogenas-1258330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/elon-musk-burla-gafas-vision-pro-apple-compara-setas-alucinogenas-3054992.jpg?tf=1200x' alt='Elon Musk se burla de las gafas Vision Pro de Apple, las compara con drogarse con setas alucinógenas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/no-todos-hdmi-smart-tv-son-iguales-diferente-estas-utilizando-mal-1258014'>No todos los HDMI de tu Smart TV son iguales, uno de ellos es diferente y seguramente lo estás utilizando mal</a></h4>
     <a href='https://computerhoy.com/tv/no-todos-hdmi-smart-tv-son-iguales-diferente-estas-utilizando-mal-1258014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/conexion-hdmi-3054724.jpg?tf=1200x' alt='No todos los HDMI de tu Smart TV son iguales, uno de ellos es diferente y seguramente lo estás utilizando mal' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/prohibir-compartir-contrasenas-netflix-exito-rotundo-1258290'>Contra todo pronóstico la estrategia de Netflix de prohibir compartir contraseñas es un éxito rotundo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/prohibir-compartir-contrasenas-netflix-exito-rotundo-1258290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-2906432.jpg?tf=1200x' alt='Contra todo pronóstico la estrategia de Netflix de prohibir compartir contraseñas es un éxito rotundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/lugar-correcto-colocar-leche-nevera-ciencia-spoiler-estas-haciendo-mal-1258320'>El lugar correcto para colocar la leche en la nevera, según la ciencia (Spoiler: lo estás haciendo mal)</a></h4>
-    <a href='https://computerhoy.com/alimentacion/lugar-correcto-colocar-leche-nevera-ciencia-spoiler-estas-haciendo-mal-1258320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/leche-nevera-3054946.jpg?tf=1200x' alt='El lugar correcto para colocar la leche en la nevera, según la ciencia (Spoiler: lo estás haciendo mal)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/zelda-nueva-pelicula-nintendo-illumination-1258318'>Aseguran que la próxima película de Nintendo e Illumination será Zelda, y eso nos deja muy preocupados</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/zelda-nueva-pelicula-nintendo-illumination-1258318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/zelda-tears-kingdom-3037530.jpg?tf=1200x' alt='Aseguran que la próxima película de Nintendo e Illumination será Zelda, y eso nos deja muy preocupados' />
     </a>
 </div>
 
