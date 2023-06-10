@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/avion-dia-juicio-final-controla-boton-rojo-guerra-nuclear-1258332'>El nuevo avión del Día del Juicio Final, que controla el Botón Rojo si hay una guerra nuclear</a></h4>
-    <a href='https://computerhoy.com/motor/avion-dia-juicio-final-controla-boton-rojo-guerra-nuclear-1258332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nuevo-avion-dia-juicio-final-controla-boton-rojo-hay-guerra-nuclear-3055000.jpg?tf=1200x' alt='El nuevo avión del Día del Juicio Final, que controla el Botón Rojo si hay una guerra nuclear' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-streamers-apenas-estan-empezando-ya-apuntan-alto-1251110'>7 streamers que apenas están empezando, pero que ya apuntan a lo más alto</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-streamers-apenas-estan-empezando-ya-apuntan-alto-1251110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/quackity-viviendoenlacalle-cell-streamers-twitch-3043462.jpg?tf=1200x' alt='7 streamers que apenas están empezando, pero que ya apuntan a lo más alto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/meme-elon-musk-vision-pro-apple-como-drogarse-setas-alucinogenas-1258330'>Elon Musk se burla de las gafas Vision Pro de Apple, las compara con drogarse con setas alucinógenas</a></h4>
-    <a href='https://computerhoy.com/apple/meme-elon-musk-vision-pro-apple-como-drogarse-setas-alucinogenas-1258330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/elon-musk-burla-gafas-vision-pro-apple-compara-setas-alucinogenas-3054992.jpg?tf=1200x' alt='Elon Musk se burla de las gafas Vision Pro de Apple, las compara con drogarse con setas alucinógenas' />
+    <h4><a href='https://computerhoy.com/life/mensaje-tallado-tumba-stephen-hawking-1257050'>Cuando leas el mensaje tallado en la tumba de Stephen Hawking, te vas a emocionar</a></h4>
+    <a href='https://computerhoy.com/life/mensaje-tallado-tumba-stephen-hawking-1257050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cuando-leas-mensaje-tallado-tumba-stephen-hawking-te-vas-emocionar-3052676.jpg?tf=1200x' alt='Cuando leas el mensaje tallado en la tumba de Stephen Hawking, te vas a emocionar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/no-todos-hdmi-smart-tv-son-iguales-diferente-estas-utilizando-mal-1258014'>No todos los HDMI de tu Smart TV son iguales, uno de ellos es diferente y seguramente lo estás utilizando mal</a></h4>
-    <a href='https://computerhoy.com/tv/no-todos-hdmi-smart-tv-son-iguales-diferente-estas-utilizando-mal-1258014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/conexion-hdmi-3054724.jpg?tf=1200x' alt='No todos los HDMI de tu Smart TV son iguales, uno de ellos es diferente y seguramente lo estás utilizando mal' />
+    <h4><a href='https://computerhoy.com/apple/cargadores-iphone-carga-rapida-baratos-ofertas-1258046'>Cargador para iPhone de carga rápida: Modelos baratos y que recomendamos</a></h4>
+    <a href='https://computerhoy.com/apple/cargadores-iphone-carga-rapida-baratos-ofertas-1258046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cargador-iphone-carga-rapida-modelos-baratos-recomendamos-3054452.jpg?tf=1200x' alt='Cargador para iPhone de carga rápida: Modelos baratos y que recomendamos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ocu-advierte-peligros-truco-viral-placas-induccion-arrasa-redes-1258322'>La OCU advierte de los peligros del truco viral para las placas de inducción que arrasa en redes</a></h4>
-    <a href='https://computerhoy.com/life/ocu-advierte-peligros-truco-viral-placas-induccion-arrasa-redes-1258322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/sarten-placa-induccion-3054948.jpg?tf=1200x' alt='La OCU advierte de los peligros del truco viral para las placas de inducción que arrasa en redes' />
+    <h4><a href='https://computerhoy.com/life/killerbody-cascos-superheroes-controlan-voz-tacto-1258512'>Killerbody, los cascos de superhéroe más avanzados que puedes comprar, se controlan con la voz o el tacto</a></h4>
+    <a href='https://computerhoy.com/life/killerbody-cascos-superheroes-controlan-voz-tacto-1258512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1686366388528-3055174.jpg?tf=1200x' alt='Killerbody, los cascos de superhéroe más avanzados que puedes comprar, se controlan con la voz o el tacto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/prohibir-compartir-contrasenas-netflix-exito-rotundo-1258290'>Contra todo pronóstico la estrategia de Netflix de prohibir compartir contraseñas es un éxito rotundo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/prohibir-compartir-contrasenas-netflix-exito-rotundo-1258290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/netflix-2906432.jpg?tf=1200x' alt='Contra todo pronóstico la estrategia de Netflix de prohibir compartir contraseñas es un éxito rotundo' />
+    <h4><a href='https://computerhoy.com/life/maldicion-ikea-ha-arruinado-mapa-suecia-ciudadanos-rebelan-1256212'>La maldición de IKEA: así ha arruinado el mapa de Suecia, sus ciudadanos se rebelan</a></h4>
+    <a href='https://computerhoy.com/life/maldicion-ikea-ha-arruinado-mapa-suecia-ciudadanos-rebelan-1256212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/maldicion-ikea-ha-arruinado-mapa-suecia-ciudadanos-rebelan-3051414.jpg?tf=1200x' alt='La maldición de IKEA: así ha arruinado el mapa de Suecia, sus ciudadanos se rebelan' />
     </a>
 </div>
 
