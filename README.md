@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/historia-windows-vista-version-maldita-windows-1254706'>La historia de Windows Vista, la versión maldita de Windows: ¿realmente era tan malo?</a></h4>
-    <a href='https://computerhoy.com/windows/historia-windows-vista-version-maldita-windows-1254706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-vista-3050192.jpg?tf=1200x' alt='La historia de Windows Vista, la versión maldita de Windows: ¿realmente era tan malo?' />
+    <h4><a href='https://computerhoy.com/ciencia/chef-robot-capaz-aprender-recetas-viendo-simplemente-videos-comida-1258832'>El chef robot capaz de aprender recetas viendo simplemente vídeos de comida</a></h4>
+    <a href='https://computerhoy.com/ciencia/chef-robot-capaz-aprender-recetas-viendo-simplemente-videos-comida-1258832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chef-robot-capaz-aprender-recetas-viendo-simplemente-videos-comida-3055644.jpg?tf=1200x' alt='El chef robot capaz de aprender recetas viendo simplemente vídeos de comida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-te-cuelen-guia-identificar-imagenes-generadas-ia-1255456'>Que no te la cuelen: trucos para identificar imágenes generadas por inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-te-cuelen-guia-identificar-imagenes-generadas-ia-1255456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/no-te-cuelen-trucos-identificar-imagenes-generadas-inteligencia-artificial-3050918.jpg?tf=1200x' alt='Que no te la cuelen: trucos para identificar imágenes generadas por inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/life/disenan-asientos-avion-dos-pisos-puedas-estirar-piernas-todo-quieras-1258830'>Diseñan unos asientos de avión de dos pisos para que puedas estirar las piernas todo lo que quieras</a></h4>
+    <a href='https://computerhoy.com/life/disenan-asientos-avion-dos-pisos-puedas-estirar-piernas-todo-quieras-1258830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/disenan-asientos-avion-dos-pisos-puedas-estirar-piernas-todo-quieras-3055626.jpg?tf=1200x' alt='Diseñan unos asientos de avión de dos pisos para que puedas estirar las piernas todo lo que quieras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/kick-todo-debes-saber-nuevo-rival-twitch-1250524'>¿Qué es Kick? Todo lo que debes saber del nuevo rival de Twitch</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/kick-todo-debes-saber-nuevo-rival-twitch-1250524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1686298462302-3054556.jpg?tf=1200x' alt='¿Qué es Kick? Todo lo que debes saber del nuevo rival de Twitch' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-todo-real-no-han-utilizado-efectos-especiales-aunque-parezca-1257680'>7 películas en las que todo es real y no han utilizado efectos especiales, aunque parezca que sí</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-todo-real-no-han-utilizado-efectos-especiales-aunque-parezca-1257680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/blade-runner-2755147.jpg?tf=1200x' alt='7 películas en las que todo es real y no han utilizado efectos especiales, aunque parezca que sí' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-escritorio-remoto-windows-11-1226502'>Cómo desactivar el Escritorio Remoto en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desactivar-escritorio-remoto-windows-11-1226502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-pantalla-ordenador-2613829.jpg?tf=1200x' alt='Cómo desactivar el Escritorio Remoto en Windows 11' />
+    <h4><a href='https://computerhoy.com/mejores/cargadores-mesilla-iphone-1256926'>Cargadores de mesita de noche para poder usar el modo despertador de iOS 17</a></h4>
+    <a href='https://computerhoy.com/mejores/cargadores-mesilla-iphone-1256926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ios-17-modo-mesilla-3053642.jpg?tf=1200x' alt='Cargadores de mesita de noche para poder usar el modo despertador de iOS 17' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/fabrican-extravagante-maniqui-suda-calor-1258600'>Fabrican un extravagante maniquí que suda con el calor</a></h4>
-    <a href='https://computerhoy.com/ciencia/fabrican-extravagante-maniqui-suda-calor-1258600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/fabrican-extravagante-maniqui-suda-calor-3055346.jpg?tf=1200x' alt='Fabrican un extravagante maniquí que suda con el calor' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-robot-mayordomo-encargarse-todas-tareas-domesticas-1258826'>Crean un robot mayordomo para encargarse de todas tus tareas domésticas</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-robot-mayordomo-encargarse-todas-tareas-domesticas-1258826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/crean-robot-mayordomo-encargarse-todas-tareas-domesticas-3055612.jpg?tf=1200x' alt='Crean un robot mayordomo para encargarse de todas tus tareas domésticas' />
     </a>
 </div>
 
