@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/xiaomi-pone-venta-primer-acuario-inteligente-controla-movil-1258880'>Xiaomi pone a la venta su primer acuario inteligente, se controla desde el móvil</a></h4>
+    <a href='https://computerhoy.com/life/xiaomi-pone-venta-primer-acuario-inteligente-controla-movil-1258880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-pone-venta-primer-acuario-controla-movil-3055790.jpg?tf=1200x' alt='Xiaomi pone a la venta su primer acuario inteligente, se controla desde el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-funciones-desconocidas-trucos-firefox-1248682'>Las mejores funciones desconocidas y trucos de Firefox</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-funciones-desconocidas-trucos-firefox-1248682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mozilla-firefox.jpg?tf=1200x' alt='Las mejores funciones desconocidas y trucos de Firefox' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ofertas-playstation-5-carrefour-1258212'>Las mejores ofertas para PlayStation 5 en Carrefour</a></h4>
+    <a href='https://computerhoy.com/gaming/ofertas-playstation-5-carrefour-1258212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/playstation-5-3026184.jpg?tf=1200x' alt='Las mejores ofertas para PlayStation 5 en Carrefour' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/autopilot-tesla-736-accidentes-17-muertos-1258862'>Autopilot de Tesla: 736 accidentes y 17 muertos</a></h4>
+    <a href='https://computerhoy.com/motor/autopilot-tesla-736-accidentes-17-muertos-1258862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/autopilot-tesla-736-accidentes-17-muertos-3055758.jpg?tf=1200x' alt='Autopilot de Tesla: 736 accidentes y 17 muertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/ultimo-perro-robot-inteligente-capaz-hacer-movimientos-impensables-1258842'>Este es el último perro robot inteligente capaz de hacer movimientos impensables</a></h4>
     <a href='https://computerhoy.com/ciencia/ultimo-perro-robot-inteligente-capaz-hacer-movimientos-impensables-1258842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ultimo-perro-robot-inteligente-capaz-hacer-movimientos-impensables-3055664.jpg?tf=1200x' alt='Este es el último perro robot inteligente capaz de hacer movimientos impensables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-no-descarta-encontrar-vida-luna-pero-no-crees-1258840'>La NASA no descarta encontrar “vida” en la Luna, pero no la que crees</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-no-descarta-encontrar-vida-luna-pero-no-crees-1258840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/superficie-luna-2663607.jpg?tf=1200x' alt='La NASA no descarta encontrar “vida” en la Luna, pero no la que crees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/chef-robot-capaz-aprender-recetas-viendo-simplemente-videos-comida-1258832'>El chef robot capaz de aprender recetas viendo simplemente vídeos de comida</a></h4>
-    <a href='https://computerhoy.com/ciencia/chef-robot-capaz-aprender-recetas-viendo-simplemente-videos-comida-1258832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chef-robot-capaz-aprender-recetas-viendo-simplemente-videos-comida-3055644.jpg?tf=1200x' alt='El chef robot capaz de aprender recetas viendo simplemente vídeos de comida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/disenan-asientos-avion-dos-pisos-puedas-estirar-piernas-todo-quieras-1258830'>Diseñan unos asientos de avión de dos pisos para que puedas estirar las piernas todo lo que quieras</a></h4>
-    <a href='https://computerhoy.com/life/disenan-asientos-avion-dos-pisos-puedas-estirar-piernas-todo-quieras-1258830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/disenan-asientos-avion-dos-pisos-puedas-estirar-piernas-todo-quieras-3055626.jpg?tf=1200x' alt='Diseñan unos asientos de avión de dos pisos para que puedas estirar las piernas todo lo que quieras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-todo-real-no-han-utilizado-efectos-especiales-aunque-parezca-1257680'>7 películas en las que todo es real y no han utilizado efectos especiales, aunque parezca que sí</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-todo-real-no-han-utilizado-efectos-especiales-aunque-parezca-1257680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/blade-runner-2755147.jpg?tf=1200x' alt='7 películas en las que todo es real y no han utilizado efectos especiales, aunque parezca que sí' />
     </a>
 </div>
 
