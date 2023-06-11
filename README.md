@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/torre-cubos-espectacular-ilusion-optica-todo-mundo-puede-ver-1258516'>La Torre de Cubos, la espectacular ilusión óptica que todo el mundo puede ver</a></h4>
-    <a href='https://computerhoy.com/life/torre-cubos-espectacular-ilusion-optica-todo-mundo-puede-ver-1258516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/torre-cubos-espectacular-ilusion-optica-todo-mundo-puede-ver-3055182.jpg?tf=1200x' alt='La Torre de Cubos, la espectacular ilusión óptica que todo el mundo puede ver' />
+    <h4><a href='https://computerhoy.com/tecnologia/riesgos-prohibas-uso-tecnologia-hijos-1235124'>Los riesgos de que prohíbas el uso de tecnología a tus hijos, según los expertos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/riesgos-prohibas-uso-tecnologia-hijos-1235124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ninos-adolescentes-uso-tecnologia-pantallas-moviles-3043312.jpg?tf=1200x' alt='Los riesgos de que prohíbas el uso de tecnología a tus hijos, según los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/gracias-wear-os-4-vas-poder-cambiar-telefono-reiniciar-reloj-1258606'>Gracias a Wear OS 4 vas a poder cambiar de teléfono sin reiniciar tu reloj</a></h4>
-    <a href='https://computerhoy.com/android/gracias-wear-os-4-vas-poder-cambiar-telefono-reiniciar-reloj-1258606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ticwatch-e3-wear-os-nfc-reloj-gustando-mucho-porque-integra-pide-gente-20-descuento-2848311.jpg?tf=1200x' alt='Gracias a Wear OS 4 vas a poder cambiar de teléfono sin reiniciar tu reloj' />
+    <h4><a href='https://computerhoy.com/ciencia/mejores-trucos-superar-temible-jet-lag-viajes-ciencia-1258602'>Los mejores trucos para superar el temible jet lag en tus viajes, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/mejores-trucos-superar-temible-jet-lag-viajes-ciencia-1258602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/jetlag-3055362.jpg?tf=1200x' alt='Los mejores trucos para superar el temible jet lag en tus viajes, según la ciencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nos-encanta-estallar-plasticos-burbujas-1251494'>¿Por qué nos encanta estallar los plásticos de burbujas?</a></h4>
-    <a href='https://computerhoy.com/life/nos-encanta-estallar-plasticos-burbujas-1251494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/plastico-burbujas-3043988.jpg?tf=1200x' alt='¿Por qué nos encanta estallar los plásticos de burbujas?' />
+    <h4><a href='https://computerhoy.com/tutoriales/opciones-configuracion-defecto-amazon-fire-tv-deberias-cambiar-1256608'>Opciones de configuración por defecto de tu Amazon Fire TV que deberías cambiar inmediatamente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/opciones-configuracion-defecto-amazon-fire-tv-deberias-cambiar-1256608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-fire-tv-stick-4k-2807717.jpg?tf=1200x' alt='Opciones de configuración por defecto de tu Amazon Fire TV que deberías cambiar inmediatamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/proyectores-portatiles-casa-viajes-1258590'>Proyectores portátiles para tu casa o de viaje: por qué merecen la pena y mejores opciones</a></h4>
-    <a href='https://computerhoy.com/mejores/proyectores-portatiles-casa-viajes-1258590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xgimi-mogo-2-pro-3051186.jpg?tf=1200x' alt='Proyectores portátiles para tu casa o de viaje: por qué merecen la pena y mejores opciones' />
+    <h4><a href='https://computerhoy.com/mejores/impresoras-laser-1258538'>Impresoras láser en 2023: por qué comprar una y mejores modelos</a></h4>
+    <a href='https://computerhoy.com/mejores/impresoras-laser-1258538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/impresoras-laser-2023-comprar-mejores-modelos-3055232.jpg?tf=1200x' alt='Impresoras láser en 2023: por qué comprar una y mejores modelos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-meet-ya-no-quiere-te-distraigas-videollamada-1258584'>Google Meet ya no quiere que te distraigas en una videollamada</a></h4>
-    <a href='https://computerhoy.com/apps/google-meet-ya-no-quiere-te-distraigas-videollamada-1258584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-meet-3055314.jpg?tf=1200x' alt='Google Meet ya no quiere que te distraigas en una videollamada' />
+    <h4><a href='https://computerhoy.com/life/tornado-gigante-cima-montana-video-1258074'>Esto no lo has visto nunca: un tornado gigante en la cima de una montaña nevada (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/tornado-gigante-cima-montana-video-1258074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/no-has-visto-nunca-tornado-gigante-cima-montana-video-3054398.jpg?tf=1200x' alt='Esto no lo has visto nunca: un tornado gigante en la cima de una montaña nevada (vídeo)' />
     </a>
 </div>
 
