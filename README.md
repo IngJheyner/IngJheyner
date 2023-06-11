@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/foto-mas-detallada-marte-jamas-vista-1258906'>Esta es la foto más detallada de Marte jamás vista: es hora de dejar de llamarlo Planeta Rojo</a></h4>
+    <h4><a href='https://computerhoy.com/gaming/nueva-consola-xbox-series-s-1-tb-microsoft-1258910'>Microsoft presenta la nueva consola Xbox Series S Carbon Black, con el doble de capacidad</a></h4>
+    <a href='https://computerhoy.com/gaming/nueva-consola-xbox-series-s-1-tb-microsoft-1258910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/microsoft-presenta-nueva-consola-xbox-series-s-carbon-black-doble-capacidad-3055980.jpg?tf=1200x' alt='Microsoft presenta la nueva consola Xbox Series S Carbon Black, con el doble de capacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/foto-mas-detallada-marte-jamas-vista-1258906'>La foto más detallada de Marte jamás vista: es hora de dejar de llamarlo Planeta Rojo</a></h4>
     <a href='https://computerhoy.com/espacio/foto-mas-detallada-marte-jamas-vista-1258906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/foto-detallada-marte-jamas-vista-hora-dejar-llamarlo-planeta-rojo-3055918.jpg?tf=1200x' alt='Esta es la foto más detallada de Marte jamás vista: es hora de dejar de llamarlo Planeta Rojo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/foto-detallada-marte-jamas-vista-hora-dejar-llamarlo-planeta-rojo-3055918.jpg?tf=1200x' alt='La foto más detallada de Marte jamás vista: es hora de dejar de llamarlo Planeta Rojo' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mejores-funciones-desconocidas-trucos-firefox-1248682'>Las mejores funciones desconocidas y trucos de Firefox</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-funciones-desconocidas-trucos-firefox-1248682' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mozilla-firefox.jpg?tf=1200x' alt='Las mejores funciones desconocidas y trucos de Firefox' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ofertas-playstation-5-carrefour-1258212'>Las mejores ofertas para PlayStation 5 en Carrefour</a></h4>
-    <a href='https://computerhoy.com/gaming/ofertas-playstation-5-carrefour-1258212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/playstation-5-3026184.jpg?tf=1200x' alt='Las mejores ofertas para PlayStation 5 en Carrefour' />
     </a>
 </div>
 
