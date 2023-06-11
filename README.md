@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ultimo-perro-robot-inteligente-capaz-hacer-movimientos-impensables-1258842'>Este es el último perro robot inteligente capaz de hacer movimientos impensables</a></h4>
+    <a href='https://computerhoy.com/ciencia/ultimo-perro-robot-inteligente-capaz-hacer-movimientos-impensables-1258842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ultimo-perro-robot-inteligente-capaz-hacer-movimientos-impensables-3055664.jpg?tf=1200x' alt='Este es el último perro robot inteligente capaz de hacer movimientos impensables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-no-descarta-encontrar-vida-luna-pero-no-crees-1258840'>La NASA no descarta encontrar “vida” en la Luna, pero no la que crees</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-no-descarta-encontrar-vida-luna-pero-no-crees-1258840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/superficie-luna-2663607.jpg?tf=1200x' alt='La NASA no descarta encontrar “vida” en la Luna, pero no la que crees' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/chef-robot-capaz-aprender-recetas-viendo-simplemente-videos-comida-1258832'>El chef robot capaz de aprender recetas viendo simplemente vídeos de comida</a></h4>
     <a href='https://computerhoy.com/ciencia/chef-robot-capaz-aprender-recetas-viendo-simplemente-videos-comida-1258832' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chef-robot-capaz-aprender-recetas-viendo-simplemente-videos-comida-3055644.jpg?tf=1200x' alt='El chef robot capaz de aprender recetas viendo simplemente vídeos de comida' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-todo-real-no-han-utilizado-efectos-especiales-aunque-parezca-1257680'>7 películas en las que todo es real y no han utilizado efectos especiales, aunque parezca que sí</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-todo-real-no-han-utilizado-efectos-especiales-aunque-parezca-1257680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/blade-runner-2755147.jpg?tf=1200x' alt='7 películas en las que todo es real y no han utilizado efectos especiales, aunque parezca que sí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/cargadores-mesilla-iphone-1256926'>Cargadores de mesita de noche para poder usar el modo despertador de iOS 17</a></h4>
-    <a href='https://computerhoy.com/mejores/cargadores-mesilla-iphone-1256926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ios-17-modo-mesilla-3053642.jpg?tf=1200x' alt='Cargadores de mesita de noche para poder usar el modo despertador de iOS 17' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-robot-mayordomo-encargarse-todas-tareas-domesticas-1258826'>Crean un robot mayordomo para encargarse de todas tus tareas domésticas</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-robot-mayordomo-encargarse-todas-tareas-domesticas-1258826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/crean-robot-mayordomo-encargarse-todas-tareas-domesticas-3055612.jpg?tf=1200x' alt='Crean un robot mayordomo para encargarse de todas tus tareas domésticas' />
     </a>
 </div>
 
