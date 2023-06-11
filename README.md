@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/riesgos-prohibas-uso-tecnologia-hijos-1235124'>Los riesgos de que prohíbas el uso de tecnología a tus hijos, según los expertos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/riesgos-prohibas-uso-tecnologia-hijos-1235124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ninos-adolescentes-uso-tecnologia-pantallas-moviles-3043312.jpg?tf=1200x' alt='Los riesgos de que prohíbas el uso de tecnología a tus hijos, según los expertos' />
+    <h4><a href='https://computerhoy.com/windows/historia-windows-vista-version-maldita-windows-1254706'>La historia de Windows Vista, la versión maldita de Windows: ¿realmente era tan malo?</a></h4>
+    <a href='https://computerhoy.com/windows/historia-windows-vista-version-maldita-windows-1254706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-vista-3050192.jpg?tf=1200x' alt='La historia de Windows Vista, la versión maldita de Windows: ¿realmente era tan malo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/mejores-trucos-superar-temible-jet-lag-viajes-ciencia-1258602'>Los mejores trucos para superar el temible jet lag en tus viajes, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/mejores-trucos-superar-temible-jet-lag-viajes-ciencia-1258602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/jetlag-3055362.jpg?tf=1200x' alt='Los mejores trucos para superar el temible jet lag en tus viajes, según la ciencia' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-te-cuelen-guia-identificar-imagenes-generadas-ia-1255456'>Que no te la cuelen: trucos para identificar imágenes generadas por inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-te-cuelen-guia-identificar-imagenes-generadas-ia-1255456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/no-te-cuelen-trucos-identificar-imagenes-generadas-inteligencia-artificial-3050918.jpg?tf=1200x' alt='Que no te la cuelen: trucos para identificar imágenes generadas por inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/opciones-configuracion-defecto-amazon-fire-tv-deberias-cambiar-1256608'>Opciones de configuración por defecto de tu Amazon Fire TV que deberías cambiar inmediatamente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/opciones-configuracion-defecto-amazon-fire-tv-deberias-cambiar-1256608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-fire-tv-stick-4k-2807717.jpg?tf=1200x' alt='Opciones de configuración por defecto de tu Amazon Fire TV que deberías cambiar inmediatamente' />
+    <h4><a href='https://computerhoy.com/entretenimiento/kick-todo-debes-saber-nuevo-rival-twitch-1250524'>¿Qué es Kick? Todo lo que debes saber del nuevo rival de Twitch</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/kick-todo-debes-saber-nuevo-rival-twitch-1250524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1686298462302-3054556.jpg?tf=1200x' alt='¿Qué es Kick? Todo lo que debes saber del nuevo rival de Twitch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/impresoras-laser-1258538'>Impresoras láser en 2023: por qué comprar una y mejores modelos</a></h4>
-    <a href='https://computerhoy.com/mejores/impresoras-laser-1258538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/impresoras-laser-2023-comprar-mejores-modelos-3055232.jpg?tf=1200x' alt='Impresoras láser en 2023: por qué comprar una y mejores modelos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-escritorio-remoto-windows-11-1226502'>Cómo desactivar el Escritorio Remoto en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desactivar-escritorio-remoto-windows-11-1226502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-pantalla-ordenador-2613829.jpg?tf=1200x' alt='Cómo desactivar el Escritorio Remoto en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tornado-gigante-cima-montana-video-1258074'>Esto no lo has visto nunca: un tornado gigante en la cima de una montaña nevada (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/tornado-gigante-cima-montana-video-1258074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/no-has-visto-nunca-tornado-gigante-cima-montana-video-3054398.jpg?tf=1200x' alt='Esto no lo has visto nunca: un tornado gigante en la cima de una montaña nevada (vídeo)' />
+    <h4><a href='https://computerhoy.com/ciencia/fabrican-extravagante-maniqui-suda-calor-1258600'>Fabrican un extravagante maniquí que suda con el calor</a></h4>
+    <a href='https://computerhoy.com/ciencia/fabrican-extravagante-maniqui-suda-calor-1258600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/fabrican-extravagante-maniqui-suda-calor-3055346.jpg?tf=1200x' alt='Fabrican un extravagante maniquí que suda con el calor' />
     </a>
 </div>
 
