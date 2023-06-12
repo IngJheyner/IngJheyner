@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/rebajas-aires-acondicionados-ventiladores-carrefour-1258864'>Aprovecha las rebajas en aires acondicionados de Carrefour antes de que te ases como un pollo</a></h4>
+    <a href='https://computerhoy.com/hogar/rebajas-aires-acondicionados-ventiladores-carrefour-1258864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/trucos-efectivos-conciliar-sueno-cuando-hace-mucho-calor-ventilador-ni-aire-acondicionado-2759013.jpg?tf=1200x' alt='Aprovecha las rebajas en aires acondicionados de Carrefour antes de que te ases como un pollo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/nueva-consola-xbox-series-s-1-tb-microsoft-1258910'>Microsoft presenta la nueva consola Xbox Series S Carbon Black, con el doble de capacidad</a></h4>
     <a href='https://computerhoy.com/gaming/nueva-consola-xbox-series-s-1-tb-microsoft-1258910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/microsoft-presenta-nueva-consola-xbox-series-s-carbon-black-doble-capacidad-3055980.jpg?tf=1200x' alt='Microsoft presenta la nueva consola Xbox Series S Carbon Black, con el doble de capacidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/xiaomi-pone-venta-primer-acuario-inteligente-controla-movil-1258880'>Xiaomi pone a la venta su primer acuario inteligente, se controla desde el móvil</a></h4>
     <a href='https://computerhoy.com/life/xiaomi-pone-venta-primer-acuario-inteligente-controla-movil-1258880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-pone-venta-primer-acuario-controla-movil-3055790.jpg?tf=1200x' alt='Xiaomi pone a la venta su primer acuario inteligente, se controla desde el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-funciones-desconocidas-trucos-firefox-1248682'>Las mejores funciones desconocidas y trucos de Firefox</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-funciones-desconocidas-trucos-firefox-1248682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mozilla-firefox.jpg?tf=1200x' alt='Las mejores funciones desconocidas y trucos de Firefox' />
     </a>
 </div>
 
