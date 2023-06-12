@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/exingeniero-apple-cuenta-intrahistoria-como-empezo-gestarse-idea-apple-vision-pro-1259238'>Un exingeniero de Apple cuenta la intrahistoria de cómo empezó a gestarse la idea de las Apple Vision Pro</a></h4>
+    <a href='https://computerhoy.com/apple/exingeniero-apple-cuenta-intrahistoria-como-empezo-gestarse-idea-apple-vision-pro-1259238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051574.jpg?tf=1200x' alt='Un exingeniero de Apple cuenta la intrahistoria de cómo empezó a gestarse la idea de las Apple Vision Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/trajes-mecanicos-estilo-transformers-ya-son-realidad-1259178'>Los trajes mecánicos al estilo Transformers ya son una realidad </a></h4>
+    <a href='https://computerhoy.com/tecnologia/trajes-mecanicos-estilo-transformers-ya-son-realidad-1259178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/trajes-mecanicos-estilo-transformers-ya-son-realidad-3056322.jpg?tf=1200x' alt='Los trajes mecánicos al estilo Transformers ya son una realidad ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-estudiantes-crean-robot-boston-dynamics-solo-1300-dolares-1259182'>Estos estudiantes crean el robot de Boston Dynamics por solo 1.300 dólares</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-estudiantes-crean-robot-boston-dynamics-solo-1300-dolares-1259182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estos-estudiantes-crean-robot-boston-dynamics-solo-1300-dolares-3056330.jpg?tf=1200x' alt='Estos estudiantes crean el robot de Boston Dynamics por solo 1.300 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tesla-permitira-cargar-coches-electricos-excedente-paneles-solares-1259156'>Tesla permitirá cargar sus coches eléctricos con el excedente de los paneles solares</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-permitira-cargar-coches-electricos-excedente-paneles-solares-1259156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tesla-permitira-cargar-coches-electricos-excedente-paneles-solares-3056302.jpg?tf=1200x' alt='Tesla permitirá cargar sus coches eléctricos con el excedente de los paneles solares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/evan-williams-cree-elon-musk-convertira-twitter-yahoo-myspace-1259168'>Elon Musk convertirá Twitter en Yahoo! o MySpace, así lo afirma el ex-CEO de la red social</a></h4>
     <a href='https://computerhoy.com/tecnologia/evan-williams-cree-elon-musk-convertira-twitter-yahoo-myspace-1259168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-anuncia-nueva-funcionalidad-twitter-emoji-caca-ojos-periodistas-2988012.jpg?tf=1200x' alt='Elon Musk convertirá Twitter en Yahoo! o MySpace, así lo afirma el ex-CEO de la red social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/version-barata-apple-vision-pro-ya-estaria-desarrollo-menor-potencia-menos-camaras-1259158'>La versión barata de las Apple Vision Pro ya estaría en desarrollo: menor potencia y menos cámaras</a></h4>
-    <a href='https://computerhoy.com/apple/version-barata-apple-vision-pro-ya-estaria-desarrollo-menor-potencia-menos-camaras-1259158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-precio-3051970.jpg?tf=1200x' alt='La versión barata de las Apple Vision Pro ya estaría en desarrollo: menor potencia y menos cámaras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-cursos-gratis-inteligencia-artificial-google-harvard-mit-1259104'>Los mejores cursos gratis de Inteligencia Artificial de Google, Harvard, MIT y más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-cursos-gratis-inteligencia-artificial-google-harvard-mit-1259104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mejores-cursos-gratis-inteligencia-artificial-google-harvard-mit-3056256.jpg?tf=1200x' alt='Los mejores cursos gratis de Inteligencia Artificial de Google, Harvard, MIT y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-cupones-descuento-trucos-junio-2023-1259116'>Hemos encontrado los cupones descuento y trucos para ahorrarte hasta 92 euros en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-cupones-descuento-trucos-junio-2023-1259116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/portada-aliexpress-3056246.jpg?tf=1200x' alt='Hemos encontrado los cupones descuento y trucos para ahorrarte hasta 92 euros en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/elon-musk-asegura-estar-practicamente-lado-posible-tierra-20-1259102'>Elon Musk asegura estar "prácticamente al lado" de una posible Tierra 2.0</a></h4>
-    <a href='https://computerhoy.com/espacio/elon-musk-asegura-estar-practicamente-lado-posible-tierra-20-1259102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-2829389.jpg?tf=1200x' alt='Elon Musk asegura estar "prácticamente al lado" de una posible Tierra 2.0' />
     </a>
 </div>
 
