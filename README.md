@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/exingeniero-apple-cuenta-intrahistoria-como-empezo-gestarse-idea-apple-vision-pro-1259238'>Un exingeniero de Apple cuenta la intrahistoria de cómo empezó a gestarse la idea de las Apple Vision Pro</a></h4>
-    <a href='https://computerhoy.com/apple/exingeniero-apple-cuenta-intrahistoria-como-empezo-gestarse-idea-apple-vision-pro-1259238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051574.jpg?tf=1200x' alt='Un exingeniero de Apple cuenta la intrahistoria de cómo empezó a gestarse la idea de las Apple Vision Pro' />
+    <h4><a href='https://computerhoy.com/motor/10-maneras-estas-danando-coche-saberlo-1258514'>10 maneras en las que estás cargando tu coche sin saberlo</a></h4>
+    <a href='https://computerhoy.com/motor/10-maneras-estas-danando-coche-saberlo-1258514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/coche-averiado-carretera-3056472.jpg?tf=1200x' alt='10 maneras en las que estás cargando tu coche sin saberlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trajes-mecanicos-estilo-transformers-ya-son-realidad-1259178'>Los trajes mecánicos al estilo Transformers ya son una realidad </a></h4>
-    <a href='https://computerhoy.com/tecnologia/trajes-mecanicos-estilo-transformers-ya-son-realidad-1259178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/trajes-mecanicos-estilo-transformers-ya-son-realidad-3056322.jpg?tf=1200x' alt='Los trajes mecánicos al estilo Transformers ya son una realidad ' />
+    <h4><a href='https://computerhoy.com/criptos/potencial-100-dolares-shiba-inu-alcanza-nuevamente-maximos-1243938'>El potencial de 100 dólares en Shiba Inu si alcanza nuevamente sus máximos</a></h4>
+    <a href='https://computerhoy.com/criptos/potencial-100-dolares-shiba-inu-alcanza-nuevamente-maximos-1243938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/shiba-inu-2610337.jpg?tf=1200x' alt='El potencial de 100 dólares en Shiba Inu si alcanza nuevamente sus máximos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-estudiantes-crean-robot-boston-dynamics-solo-1300-dolares-1259182'>Estos estudiantes crean el robot de Boston Dynamics por solo 1.300 dólares</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-estudiantes-crean-robot-boston-dynamics-solo-1300-dolares-1259182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estos-estudiantes-crean-robot-boston-dynamics-solo-1300-dolares-3056330.jpg?tf=1200x' alt='Estos estudiantes crean el robot de Boston Dynamics por solo 1.300 dólares' />
+    <h4><a href='https://computerhoy.com/life/dime-ano-naciste-te-dire-generacion-perteneces-1258510'>Silenciosa, Alfa, Z... Dime en qué año naciste y te diré a qué generación perteneces</a></h4>
+    <a href='https://computerhoy.com/life/dime-ano-naciste-te-dire-generacion-perteneces-1258510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/generaciones-digitales-3056468.jpg?tf=1200x' alt='Silenciosa, Alfa, Z... Dime en qué año naciste y te diré a qué generación perteneces' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-permitira-cargar-coches-electricos-excedente-paneles-solares-1259156'>Tesla permitirá cargar sus coches eléctricos con el excedente de los paneles solares</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-permitira-cargar-coches-electricos-excedente-paneles-solares-1259156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tesla-permitira-cargar-coches-electricos-excedente-paneles-solares-3056302.jpg?tf=1200x' alt='Tesla permitirá cargar sus coches eléctricos con el excedente de los paneles solares' />
+    <h4><a href='https://computerhoy.com/industria/140000-euros-multa-ups-dejar-paquete-local-permiso-destinatario-1259280'>140.000 euros de multa a UPS por dejar un paquete en un local sin permiso del destinatario</a></h4>
+    <a href='https://computerhoy.com/industria/140000-euros-multa-ups-dejar-paquete-local-permiso-destinatario-1259280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/repartidor-paquetes-domicilio-2315955.jpg?tf=1200x' alt='140.000 euros de multa a UPS por dejar un paquete en un local sin permiso del destinatario' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/evan-williams-cree-elon-musk-convertira-twitter-yahoo-myspace-1259168'>Elon Musk convertirá Twitter en Yahoo! o MySpace, así lo afirma el ex-CEO de la red social</a></h4>
-    <a href='https://computerhoy.com/tecnologia/evan-williams-cree-elon-musk-convertira-twitter-yahoo-myspace-1259168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-anuncia-nueva-funcionalidad-twitter-emoji-caca-ojos-periodistas-2988012.jpg?tf=1200x' alt='Elon Musk convertirá Twitter en Yahoo! o MySpace, así lo afirma el ex-CEO de la red social' />
+    <h4><a href='https://computerhoy.com/motor/redes-shock-descubrir-como-utilizan-correctamente-agarraderas-techo-coche-1250098'>Las redes en shock al descubrir cómo se utilizan correctamente las agarraderas de techo del coche</a></h4>
+    <a href='https://computerhoy.com/motor/redes-shock-descubrir-como-utilizan-correctamente-agarraderas-techo-coche-1250098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/agarraderas-techo-coches-3041640.jpg?tf=1200x' alt='Las redes en shock al descubrir cómo se utilizan correctamente las agarraderas de techo del coche' />
     </a>
 </div>
 
