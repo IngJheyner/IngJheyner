@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/elon-musk-asegura-estar-practicamente-lado-posible-tierra-20-1259102'>Elon Musk asegura estar "prácticamente al lado" de una posible Tierra 2.0</a></h4>
+    <a href='https://computerhoy.com/espacio/elon-musk-asegura-estar-practicamente-lado-posible-tierra-20-1259102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-2829389.jpg?tf=1200x' alt='Elon Musk asegura estar "prácticamente al lado" de una posible Tierra 2.0' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/donde-comprar-nuevo-macbook-air-15-pulgadas-mejor-precio-1258820'>Dónde comprar el nuevo MacBook Air de 15 pulgadas al mejor precio</a></h4>
+    <a href='https://computerhoy.com/pc/donde-comprar-nuevo-macbook-air-15-pulgadas-mejor-precio-1258820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/macbook-air-15-pulgadas-3055834.jpg?tf=1200x' alt='Dónde comprar el nuevo MacBook Air de 15 pulgadas al mejor precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/estos-son-15-moviles-gama-alta-vendidos-mundo-2023-1252792'>Estos son los 15 móviles de gama alta más vendidos de 2023 y hay alguno que no te esperarías</a></h4>
+    <a href='https://computerhoy.com/moviles/estos-son-15-moviles-gama-alta-vendidos-mundo-2023-1252792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/moviles-gama-alta-vendidos-3053948.jpg?tf=1200x' alt='Estos son los 15 móviles de gama alta más vendidos de 2023 y hay alguno que no te esperarías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/rebajas-aires-acondicionados-ventiladores-carrefour-1258864'>Aprovecha las rebajas en aires acondicionados de Carrefour antes de que te ases como un pollo</a></h4>
     <a href='https://computerhoy.com/hogar/rebajas-aires-acondicionados-ventiladores-carrefour-1258864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/trucos-efectivos-conciliar-sueno-cuando-hace-mucho-calor-ventilador-ni-aire-acondicionado-2759013.jpg?tf=1200x' alt='Aprovecha las rebajas en aires acondicionados de Carrefour antes de que te ases como un pollo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/nueva-consola-xbox-series-s-1-tb-microsoft-1258910'>Microsoft presenta la nueva consola Xbox Series S Carbon Black, con el doble de capacidad</a></h4>
     <a href='https://computerhoy.com/gaming/nueva-consola-xbox-series-s-1-tb-microsoft-1258910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/microsoft-presenta-nueva-consola-xbox-series-s-carbon-black-doble-capacidad-3055980.jpg?tf=1200x' alt='Microsoft presenta la nueva consola Xbox Series S Carbon Black, con el doble de capacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/foto-mas-detallada-marte-jamas-vista-1258906'>La foto más detallada de Marte jamás vista: es hora de dejar de llamarlo Planeta Rojo</a></h4>
-    <a href='https://computerhoy.com/espacio/foto-mas-detallada-marte-jamas-vista-1258906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/foto-detallada-marte-jamas-vista-hora-dejar-llamarlo-planeta-rojo-3055918.jpg?tf=1200x' alt='La foto más detallada de Marte jamás vista: es hora de dejar de llamarlo Planeta Rojo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hackean-canal-youtube-ibai-echa-culpa-elon-musk-1258896'>Hackean el canal de YouTube a Ibai, y "echa la culpa" a Elon Musk</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hackean-canal-youtube-ibai-echa-culpa-elon-musk-1258896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/ibai-llanos-2995352.jpg?tf=1200x' alt='Hackean el canal de YouTube a Ibai, y "echa la culpa" a Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/xiaomi-pone-venta-primer-acuario-inteligente-controla-movil-1258880'>Xiaomi pone a la venta su primer acuario inteligente, se controla desde el móvil</a></h4>
-    <a href='https://computerhoy.com/life/xiaomi-pone-venta-primer-acuario-inteligente-controla-movil-1258880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-pone-venta-primer-acuario-controla-movil-3055790.jpg?tf=1200x' alt='Xiaomi pone a la venta su primer acuario inteligente, se controla desde el móvil' />
     </a>
 </div>
 
