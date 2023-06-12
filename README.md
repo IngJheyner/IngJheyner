@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/solicitan-retirada-riesgo-incendio-freidora-aire-marca-lidl-1259414'>Solicitan la retirada por riesgo de incendio de una freidora de aire de la marca de Lidl</a></h4>
-    <a href='https://computerhoy.com/alimentacion/solicitan-retirada-riesgo-incendio-freidora-aire-marca-lidl-1259414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/freidora-aire-lidl-3056714.jpg?tf=1200x' alt='Solicitan la retirada por riesgo de incendio de una freidora de aire de la marca de Lidl' />
+    <h4><a href='https://computerhoy.com/entretenimiento/biopic-silvio-berlusconi-prime-video-1259464'>Este biopic sobre Silvio Berlusconi en Prime Video y Filmin, te ayudará a entender al personaje</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/biopic-silvio-berlusconi-prime-video-1259464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pelicula-silvio-berlusconi-prime-video-filmin-te-ayudara-entender-personaje-3056808.jpg?tf=1200x' alt='Este biopic sobre Silvio Berlusconi en Prime Video y Filmin, te ayudará a entender al personaje' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/dgt-realiza-importante-modificacion-senales-viales-comunes-1259334'>La DGT realiza una importante modificación en una de las señales viales más comunes</a></h4>
-    <a href='https://computerhoy.com/motor/dgt-realiza-importante-modificacion-senales-viales-comunes-1259334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/senales-trafico-3056698.jpg?tf=1200x' alt='La DGT realiza una importante modificación en una de las señales viales más comunes' />
+    <h4><a href='https://computerhoy.com/tecnologia/libro-cuentos-raspberry-pi-chatgpt-infinitas-historias-1259384'>Este libro de cuentos con Raspberry Pi se inventa una historia cada día gracias a ChatGPT, y puedes construirlo tú mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/libro-cuentos-raspberry-pi-chatgpt-infinitas-historias-1259384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/libro-cuentos-raspberry-pi-inventa-historia-cada-dia-gracias-chatgpt-3056574.jpg?tf=1200x' alt='Este libro de cuentos con Raspberry Pi se inventa una historia cada día gracias a ChatGPT, y puedes construirlo tú mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/consejos-trucos-mejorar-rendimiento-portatil-antiguo-1244490'>Mejores trucos y consejos para mejorar el rendimiento de un portátil antiguo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/consejos-trucos-mejorar-rendimiento-portatil-antiguo-1244490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mejorar-portatil-3032524.jpg?tf=1200x' alt='Mejores trucos y consejos para mejorar el rendimiento de un portátil antiguo' />
+    <h4><a href='https://computerhoy.com/apple/steve-jobs-nego-aparecieran-productos-apple-pelicula-porque-odiaba-profundamente-1259456'>Steve Jobs se negó a que aparecieran productos de Apple en esta película porque la odiaba profundamente</a></h4>
+    <a href='https://computerhoy.com/apple/steve-jobs-nego-aparecieran-productos-apple-pelicula-porque-odiaba-profundamente-1259456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg?tf=1200x' alt='Steve Jobs se negó a que aparecieran productos de Apple en esta película porque la odiaba profundamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/9-impactantes-lecciones-black-mirror-nos-ha-ensenado-futuro-1259336'>9 impactantes lecciones que Black Mirror nos ha enseñado sobre el futuro</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/9-impactantes-lecciones-black-mirror-nos-ha-ensenado-futuro-1259336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/black-mirror-2529329.jpg?tf=1200x' alt='9 impactantes lecciones que Black Mirror nos ha enseñado sobre el futuro' />
+    <h4><a href='https://computerhoy.com/espacio/rayo-tractor-estilo-star-wars-atrapar-objetos-espacio-1259296'>Desarrollan un rayo tractor al estilo Star Wars o Star Trek, para atrapar objetos en el espacio</a></h4>
+    <a href='https://computerhoy.com/espacio/rayo-tractor-estilo-star-wars-atrapar-objetos-espacio-1259296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/desarrollan-rayo-tractor-estilo-star-wars-atrapar-objetos-espacio-3056402.jpg?tf=1200x' alt='Desarrollan un rayo tractor al estilo Star Wars o Star Trek, para atrapar objetos en el espacio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/como-mantener-raya-temperatura-casa-verano-movil-1259286'>Cómo mantener a raya la temperatura de tu casa este verano desde el móvil</a></h4>
-    <a href='https://computerhoy.com/hogar/como-mantener-raya-temperatura-casa-verano-movil-1259286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/rutina-temperatura-amazon-echo-2379821.jpg?tf=1200x' alt='Cómo mantener a raya la temperatura de tu casa este verano desde el móvil' />
+    <h4><a href='https://computerhoy.com/windows/windows-10-11-ignoran-usuarios-instalando-actualizaciones-importantes-consentimiento-1259454'>Windows 10 y 11 ignoran a sus usuarios instalando actualizaciones importantes sin consentimiento</a></h4>
+    <a href='https://computerhoy.com/windows/windows-10-11-ignoran-usuarios-instalando-actualizaciones-importantes-consentimiento-1259454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='Windows 10 y 11 ignoran a sus usuarios instalando actualizaciones importantes sin consentimiento' />
     </a>
 </div>
 
