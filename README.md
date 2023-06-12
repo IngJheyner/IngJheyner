@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/10-maneras-estas-danando-coche-saberlo-1258514'>10 maneras en las que estás cargando tu coche sin saberlo</a></h4>
-    <a href='https://computerhoy.com/motor/10-maneras-estas-danando-coche-saberlo-1258514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/coche-averiado-carretera-3056472.jpg?tf=1200x' alt='10 maneras en las que estás cargando tu coche sin saberlo' />
+    <h4><a href='https://computerhoy.com/alimentacion/solicitan-retirada-riesgo-incendio-freidora-aire-marca-lidl-1259414'>Solicitan la retirada por riesgo de incendio de una freidora de aire de la marca de Lidl</a></h4>
+    <a href='https://computerhoy.com/alimentacion/solicitan-retirada-riesgo-incendio-freidora-aire-marca-lidl-1259414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/freidora-aire-lidl-3056714.jpg?tf=1200x' alt='Solicitan la retirada por riesgo de incendio de una freidora de aire de la marca de Lidl' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/potencial-100-dolares-shiba-inu-alcanza-nuevamente-maximos-1243938'>El potencial de 100 dólares en Shiba Inu si alcanza nuevamente sus máximos</a></h4>
-    <a href='https://computerhoy.com/criptos/potencial-100-dolares-shiba-inu-alcanza-nuevamente-maximos-1243938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/shiba-inu-2610337.jpg?tf=1200x' alt='El potencial de 100 dólares en Shiba Inu si alcanza nuevamente sus máximos' />
+    <h4><a href='https://computerhoy.com/motor/dgt-realiza-importante-modificacion-senales-viales-comunes-1259334'>La DGT realiza una importante modificación en una de las señales viales más comunes</a></h4>
+    <a href='https://computerhoy.com/motor/dgt-realiza-importante-modificacion-senales-viales-comunes-1259334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/senales-trafico-3056698.jpg?tf=1200x' alt='La DGT realiza una importante modificación en una de las señales viales más comunes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dime-ano-naciste-te-dire-generacion-perteneces-1258510'>Silenciosa, Alfa, Z... Dime en qué año naciste y te diré a qué generación perteneces</a></h4>
-    <a href='https://computerhoy.com/life/dime-ano-naciste-te-dire-generacion-perteneces-1258510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/generaciones-digitales-3056468.jpg?tf=1200x' alt='Silenciosa, Alfa, Z... Dime en qué año naciste y te diré a qué generación perteneces' />
+    <h4><a href='https://computerhoy.com/tecnologia/consejos-trucos-mejorar-rendimiento-portatil-antiguo-1244490'>Mejores trucos y consejos para mejorar el rendimiento de un portátil antiguo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/consejos-trucos-mejorar-rendimiento-portatil-antiguo-1244490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mejorar-portatil-3032524.jpg?tf=1200x' alt='Mejores trucos y consejos para mejorar el rendimiento de un portátil antiguo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/140000-euros-multa-ups-dejar-paquete-local-permiso-destinatario-1259280'>140.000 euros de multa a UPS por dejar un paquete en un local sin permiso del destinatario</a></h4>
-    <a href='https://computerhoy.com/industria/140000-euros-multa-ups-dejar-paquete-local-permiso-destinatario-1259280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/repartidor-paquetes-domicilio-2315955.jpg?tf=1200x' alt='140.000 euros de multa a UPS por dejar un paquete en un local sin permiso del destinatario' />
+    <h4><a href='https://computerhoy.com/entretenimiento/9-impactantes-lecciones-black-mirror-nos-ha-ensenado-futuro-1259336'>9 impactantes lecciones que Black Mirror nos ha enseñado sobre el futuro</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/9-impactantes-lecciones-black-mirror-nos-ha-ensenado-futuro-1259336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/black-mirror-2529329.jpg?tf=1200x' alt='9 impactantes lecciones que Black Mirror nos ha enseñado sobre el futuro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/redes-shock-descubrir-como-utilizan-correctamente-agarraderas-techo-coche-1250098'>Las redes en shock al descubrir cómo se utilizan correctamente las agarraderas de techo del coche</a></h4>
-    <a href='https://computerhoy.com/motor/redes-shock-descubrir-como-utilizan-correctamente-agarraderas-techo-coche-1250098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/agarraderas-techo-coches-3041640.jpg?tf=1200x' alt='Las redes en shock al descubrir cómo se utilizan correctamente las agarraderas de techo del coche' />
+    <h4><a href='https://computerhoy.com/hogar/como-mantener-raya-temperatura-casa-verano-movil-1259286'>Cómo mantener a raya la temperatura de tu casa este verano desde el móvil</a></h4>
+    <a href='https://computerhoy.com/hogar/como-mantener-raya-temperatura-casa-verano-movil-1259286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/rutina-temperatura-amazon-echo-2379821.jpg?tf=1200x' alt='Cómo mantener a raya la temperatura de tu casa este verano desde el móvil' />
     </a>
 </div>
 
