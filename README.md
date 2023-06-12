@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/evan-williams-cree-elon-musk-convertira-twitter-yahoo-myspace-1259168'>Elon Musk convertirá Twitter en Yahoo! o MySpace, así lo afirma el ex-CEO de la red social</a></h4>
+    <a href='https://computerhoy.com/tecnologia/evan-williams-cree-elon-musk-convertira-twitter-yahoo-myspace-1259168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-anuncia-nueva-funcionalidad-twitter-emoji-caca-ojos-periodistas-2988012.jpg?tf=1200x' alt='Elon Musk convertirá Twitter en Yahoo! o MySpace, así lo afirma el ex-CEO de la red social' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/version-barata-apple-vision-pro-ya-estaria-desarrollo-menor-potencia-menos-camaras-1259158'>La versión barata de las Apple Vision Pro ya estaría en desarrollo: menor potencia y menos cámaras</a></h4>
+    <a href='https://computerhoy.com/apple/version-barata-apple-vision-pro-ya-estaria-desarrollo-menor-potencia-menos-camaras-1259158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-precio-3051970.jpg?tf=1200x' alt='La versión barata de las Apple Vision Pro ya estaría en desarrollo: menor potencia y menos cámaras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-cursos-gratis-inteligencia-artificial-google-harvard-mit-1259104'>Los mejores cursos gratis de Inteligencia Artificial de Google, Harvard, MIT y más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-cursos-gratis-inteligencia-artificial-google-harvard-mit-1259104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mejores-cursos-gratis-inteligencia-artificial-google-harvard-mit-3056256.jpg?tf=1200x' alt='Los mejores cursos gratis de Inteligencia Artificial de Google, Harvard, MIT y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-cupones-descuento-trucos-junio-2023-1259116'>Hemos encontrado los cupones descuento y trucos para ahorrarte hasta 92 euros en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-cupones-descuento-trucos-junio-2023-1259116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/portada-aliexpress-3056246.jpg?tf=1200x' alt='Hemos encontrado los cupones descuento y trucos para ahorrarte hasta 92 euros en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/elon-musk-asegura-estar-practicamente-lado-posible-tierra-20-1259102'>Elon Musk asegura estar "prácticamente al lado" de una posible Tierra 2.0</a></h4>
     <a href='https://computerhoy.com/espacio/elon-musk-asegura-estar-practicamente-lado-posible-tierra-20-1259102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/elon-musk-2829389.jpg?tf=1200x' alt='Elon Musk asegura estar "prácticamente al lado" de una posible Tierra 2.0' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/donde-comprar-nuevo-macbook-air-15-pulgadas-mejor-precio-1258820'>Dónde comprar el nuevo MacBook Air de 15 pulgadas al mejor precio</a></h4>
-    <a href='https://computerhoy.com/pc/donde-comprar-nuevo-macbook-air-15-pulgadas-mejor-precio-1258820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/macbook-air-15-pulgadas-3055834.jpg?tf=1200x' alt='Dónde comprar el nuevo MacBook Air de 15 pulgadas al mejor precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/estos-son-15-moviles-gama-alta-vendidos-mundo-2023-1252792'>Estos son los 15 móviles de gama alta más vendidos de 2023 y hay alguno que no te esperarías</a></h4>
-    <a href='https://computerhoy.com/moviles/estos-son-15-moviles-gama-alta-vendidos-mundo-2023-1252792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/moviles-gama-alta-vendidos-3053948.jpg?tf=1200x' alt='Estos son los 15 móviles de gama alta más vendidos de 2023 y hay alguno que no te esperarías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/rebajas-aires-acondicionados-ventiladores-carrefour-1258864'>Aprovecha las rebajas en aires acondicionados de Carrefour antes de que te ases como un pollo</a></h4>
-    <a href='https://computerhoy.com/hogar/rebajas-aires-acondicionados-ventiladores-carrefour-1258864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/trucos-efectivos-conciliar-sueno-cuando-hace-mucho-calor-ventilador-ni-aire-acondicionado-2759013.jpg?tf=1200x' alt='Aprovecha las rebajas en aires acondicionados de Carrefour antes de que te ases como un pollo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nueva-consola-xbox-series-s-1-tb-microsoft-1258910'>Microsoft presenta la nueva consola Xbox Series S Carbon Black, con el doble de capacidad</a></h4>
-    <a href='https://computerhoy.com/gaming/nueva-consola-xbox-series-s-1-tb-microsoft-1258910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/microsoft-presenta-nueva-consola-xbox-series-s-carbon-black-doble-capacidad-3055980.jpg?tf=1200x' alt='Microsoft presenta la nueva consola Xbox Series S Carbon Black, con el doble de capacidad' />
     </a>
 </div>
 
