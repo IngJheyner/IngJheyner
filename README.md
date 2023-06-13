@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/parche-nanocristales-nolan-djokovic-pseudociencia-1259480'>Qué es el parche de nanocristales que Novak Djokovic lleva en el pecho mientras juega</a></h4>
-    <a href='https://computerhoy.com/tecnologia/parche-nanocristales-nolan-djokovic-pseudociencia-1259480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/parche-nanocristales-novak-djokovic-lleva-pecho-mientras-juega-3056880.jpg?tf=1200x' alt='Qué es el parche de nanocristales que Novak Djokovic lleva en el pecho mientras juega' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-tiene-gran-problema-falta-humor-1259714'>ChatGPT tiene un gran problema y es su falta de humor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-tiene-gran-problema-falta-humor-1259714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-tiene-gran-problema-falta-humor-3057174.jpg?tf=1200x' alt='ChatGPT tiene un gran problema y es su falta de humor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/linda-yaccarino-ceo-twitter-email-empleados-1259472'>Linda Yaccarino, nueva CEO de Twitter, habla por primera vez a los empleados para construir "la nueva Twitter 2.0"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/linda-yaccarino-ceo-twitter-email-empleados-1259472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/linda-yaccarino-nueva-ceo-twitter-habla-primera-vez-empleados-construir-nueva-twitter-20-3056866.jpg?tf=1200x' alt='Linda Yaccarino, nueva CEO de Twitter, habla por primera vez a los empleados para construir "la nueva Twitter 2.0"' />
+    <h4><a href='https://computerhoy.com/hogar/robot-aspirador-roborock-q7-max-precio-minimo-historico-aliexpress-1259402'>Por poco más de 300€ te puedes llevar el electrodoméstico que más tiempo te ahorrará en casa, el aspirador Roborock Q7 Max</a></h4>
+    <a href='https://computerhoy.com/hogar/robot-aspirador-roborock-q7-max-precio-minimo-historico-aliexpress-1259402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/roborock-q7-max-3056696.jpg?tf=1200x' alt='Por poco más de 300€ te puedes llevar el electrodoméstico que más tiempo te ahorrará en casa, el aspirador Roborock Q7 Max' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/biopic-silvio-berlusconi-prime-video-1259464'>Este biopic sobre Silvio Berlusconi en Prime Video y Filmin, te ayudará a entender al personaje</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/biopic-silvio-berlusconi-prime-video-1259464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pelicula-silvio-berlusconi-prime-video-filmin-te-ayudara-entender-personaje-3056808.jpg?tf=1200x' alt='Este biopic sobre Silvio Berlusconi en Prime Video y Filmin, te ayudará a entender al personaje' />
+    <h4><a href='https://computerhoy.com/tecnologia/llevo-6-meses-telefono-plegable-te-cuento-mi-experiencia-opinion-1254254'>Llevo 6 meses con un móvil plegable y me ha convencido para cambiar de opinión: es más práctico de lo que pensaba</a></h4>
+    <a href='https://computerhoy.com/tecnologia/llevo-6-meses-telefono-plegable-te-cuento-mi-experiencia-opinion-1254254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-p50-pocket-analisis-opinion-2607971.jpg?tf=1200x' alt='Llevo 6 meses con un móvil plegable y me ha convencido para cambiar de opinión: es más práctico de lo que pensaba' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/libro-cuentos-raspberry-pi-chatgpt-infinitas-historias-1259384'>Este libro de cuentos con Raspberry Pi se inventa una historia cada día gracias a ChatGPT, y puedes construirlo tú mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/libro-cuentos-raspberry-pi-chatgpt-infinitas-historias-1259384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/libro-cuentos-raspberry-pi-inventa-historia-cada-dia-gracias-chatgpt-3056574.jpg?tf=1200x' alt='Este libro de cuentos con Raspberry Pi se inventa una historia cada día gracias a ChatGPT, y puedes construirlo tú mismo' />
+    <h4><a href='https://computerhoy.com/tecnologia/kairan-quazi-ingeniero-mas-joven-spacex-1259678'>Kairan Quazi, el niño de 14 años que ha sido contratado como ingeniero por SpaceX</a></h4>
+    <a href='https://computerhoy.com/tecnologia/kairan-quazi-ingeniero-mas-joven-spacex-1259678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/kairan-quazi-nino-14-anos-ha-sido-contratado-como-ingeniero-spacex-3057090.jpg?tf=1200x' alt='Kairan Quazi, el niño de 14 años que ha sido contratado como ingeniero por SpaceX' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-nego-aparecieran-productos-apple-pelicula-porque-odiaba-profundamente-1259456'>Steve Jobs se negó a que aparecieran productos de Apple en esta película porque la odiaba profundamente</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-nego-aparecieran-productos-apple-pelicula-porque-odiaba-profundamente-1259456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg?tf=1200x' alt='Steve Jobs se negó a que aparecieran productos de Apple en esta película porque la odiaba profundamente' />
+    <h4><a href='https://computerhoy.com/moviles/xiaomi-13-ultra-cuanto-cuesta-donde-comprarlo-ofertas-1259412'>Xiaomi 13 Ultra: cuánto cuesta y dónde comprarlo en España</a></h4>
+    <a href='https://computerhoy.com/moviles/xiaomi-13-ultra-cuanto-cuesta-donde-comprarlo-ofertas-1259412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-13-ultra-3050766.jpg?tf=1200x' alt='Xiaomi 13 Ultra: cuánto cuesta y dónde comprarlo en España' />
     </a>
 </div>
 
