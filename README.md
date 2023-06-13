@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-impedir-borrado-carpetas-archivos-windows-11-1259478'>Cómo impedir el borrado de carpetas y archivos en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-impedir-borrado-carpetas-archivos-windows-11-1259478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Cómo impedir el borrado de carpetas y archivos en Windows 11' />
+    <h4><a href='https://computerhoy.com/motor/alerta-baterias-defectuosas-varios-coches-electricos-vendidos-espana-marcas-modelos-afectados-1260014'>Alerta por baterías defectuosas en varios coches eléctricos vendidos en España: marcas y modelos afectados</a></h4>
+    <a href='https://computerhoy.com/motor/alerta-baterias-defectuosas-varios-coches-electricos-vendidos-espana-marcas-modelos-afectados-1260014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/citroen-c5-aircross-3057798.jpg?tf=1200x' alt='Alerta por baterías defectuosas en varios coches eléctricos vendidos en España: marcas y modelos afectados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-865673'>Mejores móviles para hacer fotos que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-865673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-ultra-analisis-opinion-2961028.jpg?tf=1200x' alt='Mejores móviles para hacer fotos que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/life/descubren-nuevas-figuras-lineas-nazca-gracias-ia-1259992'>Descubren nuevas figuras en las líneas de Nazca gracias a la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/life/descubren-nuevas-figuras-lineas-nazca-gracias-ia-1259992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nazca-3057730.jpg?tf=1200x' alt='Descubren nuevas figuras en las líneas de Nazca gracias a la inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/protege-privacidad-5-medidas-evitar-smart-tv-sea-hackeada-1250676'>Protege tu privacidad: 5 medidas para evitar que tu Smart TV sea hackeada</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/protege-privacidad-5-medidas-evitar-smart-tv-sea-hackeada-1250676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/smart-tv-virus-3042662.jpg?tf=1200x' alt='Protege tu privacidad: 5 medidas para evitar que tu Smart TV sea hackeada' />
+    <h4><a href='https://computerhoy.com/life/misteriosa-luz-verde-enciende-casa-bill-gates-1259968'>La misteriosa luz verde que ilumina la casa de Bill Gates y que nadie sabe descifrar</a></h4>
+    <a href='https://computerhoy.com/life/misteriosa-luz-verde-enciende-casa-bill-gates-1259968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/aurora-boreal-3057726.jpg?tf=1200x' alt='La misteriosa luz verde que ilumina la casa de Bill Gates y que nadie sabe descifrar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/misas-oficiadas-chatgpt-loca-propuesta-iglesia-alemania-1259894'>Misas oficiadas por ChatGPT: la loca propuesta de una iglesia en Alemania</a></h4>
-    <a href='https://computerhoy.com/tecnologia/misas-oficiadas-chatgpt-loca-propuesta-iglesia-alemania-1259894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/misas-oficiadas-chatgpt-loca-propuesta-iglesia-alemania-3057556.jpg?tf=1200x' alt='Misas oficiadas por ChatGPT: la loca propuesta de una iglesia en Alemania' />
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-asegura-humanos-ya-somos-ciborgs-1259940'>Elon Musk asegura que los humanos ya somos cíborgs y pronto integraremos la IA en nosotros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-asegura-humanos-ya-somos-ciborgs-1259940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cyborg-3057642.jpg?tf=1200x' alt='Elon Musk asegura que los humanos ya somos cíborgs y pronto integraremos la IA en nosotros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/grandes-empresas-recurren-influencers-menos-10000-seguidores-motivo-1259910'>Grandes empresas recurren a influencers con menos de 10.000 seguidores y este es el motivo</a></h4>
-    <a href='https://computerhoy.com/redes/grandes-empresas-recurren-influencers-menos-10000-seguidores-motivo-1259910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/grandes-empresas-recurren-influencers-menos-10000-seguidores-motivo-3057548.jpg?tf=1200x' alt='Grandes empresas recurren a influencers con menos de 10.000 seguidores y este es el motivo' />
+    <h4><a href='https://computerhoy.com/internet/manzanas-fantasmas-fenomenos-raros-fascinantes-naturaleza-1259434'>Las manzanas fantasmas: uno de los fenómenos más raros y fascinantes de la naturaleza</a></h4>
+    <a href='https://computerhoy.com/internet/manzanas-fantasmas-fenomenos-raros-fascinantes-naturaleza-1259434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/manzana-cristal-3056802.jpg?tf=1200x' alt='Las manzanas fantasmas: uno de los fenómenos más raros y fascinantes de la naturaleza' />
     </a>
 </div>
 
