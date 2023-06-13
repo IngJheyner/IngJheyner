@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/atresplayer-estrena-nuevo-diseno-contenido-canales-fast-1260040'>La plataforma Atresplayer se renueva: nuevo diseño, canales FAST, más producciones originales y más</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/atresplayer-estrena-nuevo-diseno-contenido-canales-fast-1260040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/plataforma-atresplayer-renueva-nuevo-diseno-canales-fast-producciones-originales-3057812.jpg?tf=1200x' alt='La plataforma Atresplayer se renueva: nuevo diseño, canales FAST, más producciones originales y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/ya-puedes-abrir-puerta-garaje-pantalla-coche-android-auto-1259998'>Ya puedes abrir la puerta del garaje desde la pantalla del coche con Android Auto</a></h4>
+    <a href='https://computerhoy.com/motor/ya-puedes-abrir-puerta-garaje-pantalla-coche-android-auto-1259998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/puerta-garaje-3057752.jpg?tf=1200x' alt='Ya puedes abrir la puerta del garaje desde la pantalla del coche con Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/paul-mccartney-usa-voz-john-lennon-ultima-cancion-beatles-1260024'>Paul McCartney ha usado la IA con la voz de John Lennon para "una última canción de Los Beatles"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/paul-mccartney-usa-voz-john-lennon-ultima-cancion-beatles-1260024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/paul-mccartney-ha-usado-inteligencia-artificial-voz-john-lennon-ultima-cancion-beatles-3057788.jpg?tf=1200x' alt='Paul McCartney ha usado la IA con la voz de John Lennon para "una última canción de Los Beatles"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/detectan-60000-aplicaciones-android-infectadas-peligroso-malware-1260018'>Detectan más de 60.000 aplicaciones para Android infectadas con un peligroso malware</a></h4>
+    <a href='https://computerhoy.com/apps/detectan-60000-aplicaciones-android-infectadas-peligroso-malware-1260018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malware-android-3051122.jpg?tf=1200x' alt='Detectan más de 60.000 aplicaciones para Android infectadas con un peligroso malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/alerta-baterias-defectuosas-varios-coches-electricos-vendidos-espana-marcas-modelos-afectados-1260014'>Alerta por baterías defectuosas en varios coches eléctricos vendidos en España: marcas y modelos afectados</a></h4>
     <a href='https://computerhoy.com/motor/alerta-baterias-defectuosas-varios-coches-electricos-vendidos-espana-marcas-modelos-afectados-1260014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/citroen-c5-aircross-3057798.jpg?tf=1200x' alt='Alerta por baterías defectuosas en varios coches eléctricos vendidos en España: marcas y modelos afectados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubren-nuevas-figuras-lineas-nazca-gracias-ia-1259992'>Descubren nuevas figuras en las líneas de Nazca gracias a la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/life/descubren-nuevas-figuras-lineas-nazca-gracias-ia-1259992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nazca-3057730.jpg?tf=1200x' alt='Descubren nuevas figuras en las líneas de Nazca gracias a la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/misteriosa-luz-verde-enciende-casa-bill-gates-1259968'>La misteriosa luz verde que ilumina la casa de Bill Gates y que nadie sabe descifrar</a></h4>
-    <a href='https://computerhoy.com/life/misteriosa-luz-verde-enciende-casa-bill-gates-1259968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/aurora-boreal-3057726.jpg?tf=1200x' alt='La misteriosa luz verde que ilumina la casa de Bill Gates y que nadie sabe descifrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-asegura-humanos-ya-somos-ciborgs-1259940'>Elon Musk asegura que los humanos ya somos cíborgs y pronto integraremos la IA en nosotros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-asegura-humanos-ya-somos-ciborgs-1259940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cyborg-3057642.jpg?tf=1200x' alt='Elon Musk asegura que los humanos ya somos cíborgs y pronto integraremos la IA en nosotros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/manzanas-fantasmas-fenomenos-raros-fascinantes-naturaleza-1259434'>Las manzanas fantasmas: uno de los fenómenos más raros y fascinantes de la naturaleza</a></h4>
-    <a href='https://computerhoy.com/internet/manzanas-fantasmas-fenomenos-raros-fascinantes-naturaleza-1259434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/manzana-cristal-3056802.jpg?tf=1200x' alt='Las manzanas fantasmas: uno de los fenómenos más raros y fascinantes de la naturaleza' />
     </a>
 </div>
 
