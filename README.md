@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/parche-nanocristales-nolan-djokovic-pseudociencia-1259480'>Qué es el parche de nanocristales que Novak Djokovic lleva en el pecho mientras juega</a></h4>
+    <a href='https://computerhoy.com/tecnologia/parche-nanocristales-nolan-djokovic-pseudociencia-1259480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/parche-nanocristales-novak-djokovic-lleva-pecho-mientras-juega-3056880.jpg?tf=1200x' alt='Qué es el parche de nanocristales que Novak Djokovic lleva en el pecho mientras juega' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/linda-yaccarino-ceo-twitter-email-empleados-1259472'>Linda Yaccarino, nueva CEO de Twitter, habla por primera vez a los empleados para construir "la nueva Twitter 2.0"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/linda-yaccarino-ceo-twitter-email-empleados-1259472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/linda-yaccarino-nueva-ceo-twitter-habla-primera-vez-empleados-construir-nueva-twitter-20-3056866.jpg?tf=1200x' alt='Linda Yaccarino, nueva CEO de Twitter, habla por primera vez a los empleados para construir "la nueva Twitter 2.0"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/biopic-silvio-berlusconi-prime-video-1259464'>Este biopic sobre Silvio Berlusconi en Prime Video y Filmin, te ayudará a entender al personaje</a></h4>
     <a href='https://computerhoy.com/entretenimiento/biopic-silvio-berlusconi-prime-video-1259464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pelicula-silvio-berlusconi-prime-video-filmin-te-ayudara-entender-personaje-3056808.jpg?tf=1200x' alt='Este biopic sobre Silvio Berlusconi en Prime Video y Filmin, te ayudará a entender al personaje' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/steve-jobs-nego-aparecieran-productos-apple-pelicula-porque-odiaba-profundamente-1259456'>Steve Jobs se negó a que aparecieran productos de Apple en esta película porque la odiaba profundamente</a></h4>
     <a href='https://computerhoy.com/apple/steve-jobs-nego-aparecieran-productos-apple-pelicula-porque-odiaba-profundamente-1259456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg?tf=1200x' alt='Steve Jobs se negó a que aparecieran productos de Apple en esta película porque la odiaba profundamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/rayo-tractor-estilo-star-wars-atrapar-objetos-espacio-1259296'>Desarrollan un rayo tractor al estilo Star Wars o Star Trek, para atrapar objetos en el espacio</a></h4>
-    <a href='https://computerhoy.com/espacio/rayo-tractor-estilo-star-wars-atrapar-objetos-espacio-1259296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/desarrollan-rayo-tractor-estilo-star-wars-atrapar-objetos-espacio-3056402.jpg?tf=1200x' alt='Desarrollan un rayo tractor al estilo Star Wars o Star Trek, para atrapar objetos en el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-10-11-ignoran-usuarios-instalando-actualizaciones-importantes-consentimiento-1259454'>Windows 10 y 11 ignoran a sus usuarios instalando actualizaciones importantes sin consentimiento</a></h4>
-    <a href='https://computerhoy.com/windows/windows-10-11-ignoran-usuarios-instalando-actualizaciones-importantes-consentimiento-1259454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='Windows 10 y 11 ignoran a sus usuarios instalando actualizaciones importantes sin consentimiento' />
     </a>
 </div>
 
