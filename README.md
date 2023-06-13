@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-impedir-borrado-carpetas-archivos-windows-11-1259478'>Cómo impedir el borrado de carpetas y archivos en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-impedir-borrado-carpetas-archivos-windows-11-1259478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Cómo impedir el borrado de carpetas y archivos en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-865673'>Mejores móviles para hacer fotos que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-camara-865673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-ultra-analisis-opinion-2961028.jpg?tf=1200x' alt='Mejores móviles para hacer fotos que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/protege-privacidad-5-medidas-evitar-smart-tv-sea-hackeada-1250676'>Protege tu privacidad: 5 medidas para evitar que tu Smart TV sea hackeada</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/protege-privacidad-5-medidas-evitar-smart-tv-sea-hackeada-1250676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/smart-tv-virus-3042662.jpg?tf=1200x' alt='Protege tu privacidad: 5 medidas para evitar que tu Smart TV sea hackeada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/misas-oficiadas-chatgpt-loca-propuesta-iglesia-alemania-1259894'>Misas oficiadas por ChatGPT: la loca propuesta de una iglesia en Alemania</a></h4>
+    <a href='https://computerhoy.com/tecnologia/misas-oficiadas-chatgpt-loca-propuesta-iglesia-alemania-1259894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/misas-oficiadas-chatgpt-loca-propuesta-iglesia-alemania-3057556.jpg?tf=1200x' alt='Misas oficiadas por ChatGPT: la loca propuesta de una iglesia en Alemania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/grandes-empresas-recurren-influencers-menos-10000-seguidores-motivo-1259910'>Grandes empresas recurren a influencers con menos de 10.000 seguidores y este es el motivo</a></h4>
     <a href='https://computerhoy.com/redes/grandes-empresas-recurren-influencers-menos-10000-seguidores-motivo-1259910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/grandes-empresas-recurren-influencers-menos-10000-seguidores-motivo-3057548.jpg?tf=1200x' alt='Grandes empresas recurren a influencers con menos de 10.000 seguidores y este es el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estilo-steve-jobs-lugar-dudas-mejor-forma-responder-insulto-1259406'>“Al estilo Steve Jobs” sin lugar a dudas, la mejor forma de responder a un insulto</a></h4>
-    <a href='https://computerhoy.com/apple/estilo-steve-jobs-lugar-dudas-mejor-forma-responder-insulto-1259406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/steve-jobs-bill-gates-2247739.jpg?tf=1200x' alt='“Al estilo Steve Jobs” sin lugar a dudas, la mejor forma de responder a un insulto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/detienen-nueve-personas-estafar-131000-euros-utilizando-sms-bancos-falsos-1259888'>Detienen a nueve personas por estafar 131.000 euros utilizando SMS de bancos falsos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/detienen-nueve-personas-estafar-131000-euros-utilizando-sms-bancos-falsos-1259888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/sms-malware-virus-2407859.jpg?tf=1200x' alt='Detienen a nueve personas por estafar 131.000 euros utilizando SMS de bancos falsos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/error-comun-router-wifi-te-puede-costar-dinero-muchos-megas-velocidad-1259358'>El error común con el router WiFi que te puede costar dinero y muchos megas de velocidad</a></h4>
-    <a href='https://computerhoy.com/redes/error-comun-router-wifi-te-puede-costar-dinero-muchos-megas-velocidad-1259358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/router-wifi-2295409.jpg?tf=1200x' alt='El error común con el router WiFi que te puede costar dinero y muchos megas de velocidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/algunas-predicciones-hablan-peor-rendimiento-iphone-15-pro-pro-max-2024-1259878'>Extrañas predicciones hablan de un peor rendimiento en los iPhone 15 Pro y Pro Max de 2024</a></h4>
-    <a href='https://computerhoy.com/apple/algunas-predicciones-hablan-peor-rendimiento-iphone-15-pro-pro-max-2024-1259878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/extranas-predicciones-hablan-peor-rendimiento-iphone-15-pro-pro-max-2024-3057268.jpg?tf=1200x' alt='Extrañas predicciones hablan de un peor rendimiento en los iPhone 15 Pro y Pro Max de 2024' />
     </a>
 </div>
 
