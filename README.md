@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/antiguo-empleado-samsung-roba-secretos-chips-crea-fabrica-china-1259776'>Roba planos y diseños de los chips de Samsung para crear su propia fábrica en China</a></h4>
-    <a href='https://computerhoy.com/moviles/antiguo-empleado-samsung-roba-secretos-chips-crea-fabrica-china-1259776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-no-rinde-anuncia-procesadores-exynos-gpu-amd-radeon-3002610.jpg?tf=1200x' alt='Roba planos y diseños de los chips de Samsung para crear su propia fábrica en China' />
+    <h4><a href='https://computerhoy.com/redes/error-comun-router-wifi-te-puede-costar-dinero-muchos-megas-velocidad-1259358'>El error común con el router WiFi que te puede costar dinero y muchos megas de velocidad</a></h4>
+    <a href='https://computerhoy.com/redes/error-comun-router-wifi-te-puede-costar-dinero-muchos-megas-velocidad-1259358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/router-wifi-2295409.jpg?tf=1200x' alt='El error común con el router WiFi que te puede costar dinero y muchos megas de velocidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/microsoft-tiene-nuevo-obstaculo-compra-activision-blizzard-1259808'>Microsoft tiene un nuevo obstáculo en la compra de Activision Blizzard: una demanda de la FTC</a></h4>
-    <a href='https://computerhoy.com/industria/microsoft-tiene-nuevo-obstaculo-compra-activision-blizzard-1259808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-activision-2589223.jpg?tf=1200x' alt='Microsoft tiene un nuevo obstáculo en la compra de Activision Blizzard: una demanda de la FTC' />
+    <h4><a href='https://computerhoy.com/apple/algunas-predicciones-hablan-peor-rendimiento-iphone-15-pro-pro-max-2024-1259878'>Extrañas predicciones hablan de un peor rendimiento en los iPhone 15 Pro y Pro Max de 2024</a></h4>
+    <a href='https://computerhoy.com/apple/algunas-predicciones-hablan-peor-rendimiento-iphone-15-pro-pro-max-2024-1259878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/extranas-predicciones-hablan-peor-rendimiento-iphone-15-pro-pro-max-2024-3057268.jpg?tf=1200x' alt='Extrañas predicciones hablan de un peor rendimiento en los iPhone 15 Pro y Pro Max de 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/como-amazon-usa-inteligencia-artificial-detectar-resenas-falsas-1259774'>Así es como Amazon usa la inteligencia artificial para detectar reseñas falsas </a></h4>
-    <a href='https://computerhoy.com/amazon/como-amazon-usa-inteligencia-artificial-detectar-resenas-falsas-1259774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/como-amazon-usando-inteligencia-artificial-detectar-resenas-falsas-3057234.jpg?tf=1200x' alt='Así es como Amazon usa la inteligencia artificial para detectar reseñas falsas ' />
+    <h4><a href='https://computerhoy.com/moviles/moviles-precio-minimo-ofertas-verano-aliexpress-1259728'>5 móviles a precio mínimo gracias a las ofertas de verano de AliExpress</a></h4>
+    <a href='https://computerhoy.com/moviles/moviles-precio-minimo-ofertas-verano-aliexpress-1259728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-13-lite-2970394.jpg?tf=1200x' alt='5 móviles a precio mínimo gracias a las ofertas de verano de AliExpress' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/redes-sociales-montan-colera-montanista-no-quiso-pagar-sherpa-salvo-vida-1259724'>Las redes sociales montan en cólera contra una montañista que no quiso pagar al sherpa que le salvó la vida</a></h4>
-    <a href='https://computerhoy.com/life/redes-sociales-montan-colera-montanista-no-quiso-pagar-sherpa-salvo-vida-1259724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/everest-1865109.jpg?tf=1200x' alt='Las redes sociales montan en cólera contra una montañista que no quiso pagar al sherpa que le salvó la vida' />
+    <h4><a href='https://computerhoy.com/tecnologia/edge-envia-microsoft-imagenes-ves-online-puedes-evitarlo-1259868'>Edge envía a Microsoft las imágenes que ves online: así puedes evitarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/edge-envia-microsoft-imagenes-ves-online-puedes-evitarlo-1259868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-edge-2580983.jpg?tf=1200x' alt='Edge envía a Microsoft las imágenes que ves online: así puedes evitarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-tiene-gran-problema-falta-humor-1259714'>ChatGPT tiene un gran problema y es su falta de humor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-tiene-gran-problema-falta-humor-1259714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-tiene-gran-problema-falta-humor-3057174.jpg?tf=1200x' alt='ChatGPT tiene un gran problema y es su falta de humor' />
+    <h4><a href='https://computerhoy.com/gaming/starfield-marca-hito-historia-videojuegos-pc-requisito-nunca-visto-ahora-1157427'>Starfield marca un hito en la historia de los videojuegos de PC con requisito nunca visto hasta ahora</a></h4>
+    <a href='https://computerhoy.com/gaming/starfield-marca-hito-historia-videojuegos-pc-requisito-nunca-visto-ahora-1157427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/starfield-3057230.jpg?tf=1200x' alt='Starfield marca un hito en la historia de los videojuegos de PC con requisito nunca visto hasta ahora' />
     </a>
 </div>
 
