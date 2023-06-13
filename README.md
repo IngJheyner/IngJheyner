@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/antiguo-empleado-samsung-roba-secretos-chips-crea-fabrica-china-1259776'>Roba planos y diseños de los chips de Samsung para crear su propia fábrica en China</a></h4>
+    <a href='https://computerhoy.com/moviles/antiguo-empleado-samsung-roba-secretos-chips-crea-fabrica-china-1259776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-no-rinde-anuncia-procesadores-exynos-gpu-amd-radeon-3002610.jpg?tf=1200x' alt='Roba planos y diseños de los chips de Samsung para crear su propia fábrica en China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/microsoft-tiene-nuevo-obstaculo-compra-activision-blizzard-1259808'>Microsoft tiene un nuevo obstáculo en la compra de Activision Blizzard: una demanda de la FTC</a></h4>
+    <a href='https://computerhoy.com/industria/microsoft-tiene-nuevo-obstaculo-compra-activision-blizzard-1259808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-activision-2589223.jpg?tf=1200x' alt='Microsoft tiene un nuevo obstáculo en la compra de Activision Blizzard: una demanda de la FTC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/como-amazon-usa-inteligencia-artificial-detectar-resenas-falsas-1259774'>Así es como Amazon usa la inteligencia artificial para detectar reseñas falsas </a></h4>
+    <a href='https://computerhoy.com/amazon/como-amazon-usa-inteligencia-artificial-detectar-resenas-falsas-1259774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/como-amazon-usando-inteligencia-artificial-detectar-resenas-falsas-3057234.jpg?tf=1200x' alt='Así es como Amazon usa la inteligencia artificial para detectar reseñas falsas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/redes-sociales-montan-colera-montanista-no-quiso-pagar-sherpa-salvo-vida-1259724'>Las redes sociales montan en cólera contra una montañista que no quiso pagar al sherpa que le salvó la vida</a></h4>
+    <a href='https://computerhoy.com/life/redes-sociales-montan-colera-montanista-no-quiso-pagar-sherpa-salvo-vida-1259724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/everest-1865109.jpg?tf=1200x' alt='Las redes sociales montan en cólera contra una montañista que no quiso pagar al sherpa que le salvó la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-tiene-gran-problema-falta-humor-1259714'>ChatGPT tiene un gran problema y es su falta de humor</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-tiene-gran-problema-falta-humor-1259714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-tiene-gran-problema-falta-humor-3057174.jpg?tf=1200x' alt='ChatGPT tiene un gran problema y es su falta de humor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/robot-aspirador-roborock-q7-max-precio-minimo-historico-aliexpress-1259402'>Por poco más de 300€ te puedes llevar el electrodoméstico que más tiempo te ahorrará en casa, el aspirador Roborock Q7 Max</a></h4>
-    <a href='https://computerhoy.com/hogar/robot-aspirador-roborock-q7-max-precio-minimo-historico-aliexpress-1259402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/roborock-q7-max-3056696.jpg?tf=1200x' alt='Por poco más de 300€ te puedes llevar el electrodoméstico que más tiempo te ahorrará en casa, el aspirador Roborock Q7 Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llevo-6-meses-telefono-plegable-te-cuento-mi-experiencia-opinion-1254254'>Llevo 6 meses con un móvil plegable y me ha convencido para cambiar de opinión: es más práctico de lo que pensaba</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llevo-6-meses-telefono-plegable-te-cuento-mi-experiencia-opinion-1254254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/huawei-p50-pocket-analisis-opinion-2607971.jpg?tf=1200x' alt='Llevo 6 meses con un móvil plegable y me ha convencido para cambiar de opinión: es más práctico de lo que pensaba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/kairan-quazi-ingeniero-mas-joven-spacex-1259678'>Kairan Quazi, el niño de 14 años que ha sido contratado como ingeniero por SpaceX</a></h4>
-    <a href='https://computerhoy.com/tecnologia/kairan-quazi-ingeniero-mas-joven-spacex-1259678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/kairan-quazi-nino-14-anos-ha-sido-contratado-como-ingeniero-spacex-3057090.jpg?tf=1200x' alt='Kairan Quazi, el niño de 14 años que ha sido contratado como ingeniero por SpaceX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/xiaomi-13-ultra-cuanto-cuesta-donde-comprarlo-ofertas-1259412'>Xiaomi 13 Ultra: cuánto cuesta y dónde comprarlo en España</a></h4>
-    <a href='https://computerhoy.com/moviles/xiaomi-13-ultra-cuanto-cuesta-donde-comprarlo-ofertas-1259412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-13-ultra-3050766.jpg?tf=1200x' alt='Xiaomi 13 Ultra: cuánto cuesta y dónde comprarlo en España' />
     </a>
 </div>
 
