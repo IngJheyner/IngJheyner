@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-hackers-pueden-robar-claves-criptograficas-grabando-movil-iluminacion-led-generan-1260388'>Cuidado con los hackers: pueden robar tus claves criptográficas grabando con un móvil la iluminación LED que generan</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-hackers-pueden-robar-claves-criptograficas-grabando-movil-iluminacion-led-generan-1260388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cuidado-hackers-pueden-robar-claves-criptograficas-grabando-movil-iluminacion-led-generan-3058330.jpg?tf=1200x' alt='Cuidado con los hackers: pueden robar tus claves criptográficas grabando con un móvil la iluminación LED que generan' />
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-band-8-dos-semanas-bateria-nueva-pulsera-inteligente-carga-rapida-1260472'>Huawei Band 8: dos semanas de batería para la nueva pulsera inteligente con carga rápida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-band-8-dos-semanas-bateria-nueva-pulsera-inteligente-carga-rapida-1260472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-band-8-dos-semanas-bateria-nueva-pulsera-inteligente-carga-rapida-3058458.jpg?tf=1200x' alt='Huawei Band 8: dos semanas de batería para la nueva pulsera inteligente con carga rápida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/lenovo-yoga-slim-7-pro-oferta-amazon-1260280'>Rendimiento 10 y 300 euros de descuento: Lenovo Yoga Slim 7 Pro está a precio mínimo en Amazon</a></h4>
-    <a href='https://computerhoy.com/pc/lenovo-yoga-slim-7-pro-oferta-amazon-1260280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/lenovo-yoga-slim-7-pro-3058288.jpg?tf=1200x' alt='Rendimiento 10 y 300 euros de descuento: Lenovo Yoga Slim 7 Pro está a precio mínimo en Amazon' />
+    <h4><a href='https://computerhoy.com/moviles/vivo-v29-lite-5g-primeras-impresiones-precio-disponibilidad-1260466'>Vivo V29 Lite 5G, primeras impresiones: el posible vencedor en la gama media para este año</a></h4>
+    <a href='https://computerhoy.com/moviles/vivo-v29-lite-5g-primeras-impresiones-precio-disponibilidad-1260466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/vivo-v29-lite-5g-3058434.jpg?tf=1200x' alt='Vivo V29 Lite 5G, primeras impresiones: el posible vencedor en la gama media para este año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ikea-desarrolla-sofa-gracias-ia-1260360'>IKEA desarrolla un sofá que cabe en un sobre gracias a la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/hogar/ikea-desarrolla-sofa-gracias-ia-1260360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ikea-desarrolla-sofa-puede-llevarse-mano-gracias-inteligencia-artificial-3058282.jpg?tf=1200x' alt='IKEA desarrolla un sofá que cabe en un sobre gracias a la inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/motor/locura-redes-descubrir-funcion-secreta-parasol-coche-1259954'>Locura en las redes al descubrir la función secreta del parasol del coche</a></h4>
+    <a href='https://computerhoy.com/motor/locura-redes-descubrir-funcion-secreta-parasol-coche-1259954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/sol-parabrisas-coche-2436427.jpg?tf=1200x' alt='Locura en las redes al descubrir la función secreta del parasol del coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/union-europea-bloquea-lanzamiento-chatbot-bard-google-motivos-seguridad-1260358'>El despliegue de Google Bard en jaque por la Unión Europea: la privacidad es una preocupación</a></h4>
-    <a href='https://computerhoy.com/google/union-europea-bloquea-lanzamiento-chatbot-bard-google-motivos-seguridad-1260358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-bard-2998776.jpg?tf=1200x' alt='El despliegue de Google Bard en jaque por la Unión Europea: la privacidad es una preocupación' />
+    <h4><a href='https://computerhoy.com/google/bruselas-acusa-google-posicion-dominante-mercado-publicidad-internet-1260468'>Bruselas acusa a Google de posición dominante y la empresa podría verse obligada a vender parte de su negocio de publicidad</a></h4>
+    <a href='https://computerhoy.com/google/bruselas-acusa-google-posicion-dominante-mercado-publicidad-internet-1260468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/oficina-google-mountain-view-california-3030098.jpg?tf=1200x' alt='Bruselas acusa a Google de posición dominante y la empresa podría verse obligada a vender parte de su negocio de publicidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-herramientas-ia-sacar-artista-llevas-dentro-1260320'>5 herramientas de inteligencia artificial para generar obras de arte, música y texto en segundos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-herramientas-ia-sacar-artista-llevas-dentro-1260320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/5-herramientas-inteligencia-artificial-generar-obras-arte-musica-texto-segundos-3058224.jpg?tf=1200x' alt='5 herramientas de inteligencia artificial para generar obras de arte, música y texto en segundos' />
+    <h4><a href='https://computerhoy.com/google/inteligencia-artificial-escriba-ti-funcion-gmail-aterriza-android-ios-1260450'>Que la inteligencia artificial escriba por ti: esta función de Gmail aterriza a Android e iOS</a></h4>
+    <a href='https://computerhoy.com/google/inteligencia-artificial-escriba-ti-funcion-gmail-aterriza-android-ios-1260450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-escriba-ti-funcion-gmail-aterriza-android-ios-3058424.jpg?tf=1200x' alt='Que la inteligencia artificial escriba por ti: esta función de Gmail aterriza a Android e iOS' />
     </a>
 </div>
 
