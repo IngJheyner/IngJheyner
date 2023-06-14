@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-aclara-caos-oferta-50-descuento-siempre-1260608'>HBO Max aclara de una vez por todas el caos con la oferta del 50% de descuento para siempre</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/hbo-max-aclara-caos-oferta-50-descuento-siempre-1260608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hbo-max-aclara-vez-todas-caos-oferta-50-siempre-3058760.jpg?tf=1200x' alt='HBO Max aclara de una vez por todas el caos con la oferta del 50% de descuento para siempre' />
+    <h4><a href='https://computerhoy.com/windows/windows-12-fecha-lanzamiento-ocurrira-licencias-windows-11-1260624'>Windows 12: fecha de lanzamiento y qué ocurrirá con las licencias de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/windows-12-fecha-lanzamiento-ocurrira-licencias-windows-11-1260624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-12-3058796.jpg?tf=1200x' alt='Windows 12: fecha de lanzamiento y qué ocurrirá con las licencias de Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/peligros-entrenamiento-ia-expertos-resaltan-riesgos-utilizar-contenido-generado-ia-1260440'>Los peligros del entrenamiento de IA: expertos resaltan los riesgos de utilizar contenido generado por IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/peligros-entrenamiento-ia-expertos-resaltan-riesgos-utilizar-contenido-generado-ia-1260440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3040128.jpg?tf=1200x' alt='Los peligros del entrenamiento de IA: expertos resaltan los riesgos de utilizar contenido generado por IA' />
+    <h4><a href='https://computerhoy.com/life/dogen-city-ciudad-flotante-anti-tsunamis-japonesa-1260610'>Dogen City: la ciudad flotante anti-tsunamis japonesa, el Arca de Noé moderno</a></h4>
+    <a href='https://computerhoy.com/life/dogen-city-ciudad-flotante-anti-tsunamis-japonesa-1260610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dogen-city-3058770.jpg?tf=1200x' alt='Dogen City: la ciudad flotante anti-tsunamis japonesa, el Arca de Noé moderno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-pixel-actualizan-mejoras-llegan-como-avance-android-14-1260522'>Los Google Pixel se actualizan: mejoras que llegan como un avance de Android 14</a></h4>
-    <a href='https://computerhoy.com/google/google-pixel-actualizan-mejoras-llegan-como-avance-android-14-1260522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-1683716476708-3029968.jpg?tf=1200x' alt='Los Google Pixel se actualizan: mejoras que llegan como un avance de Android 14' />
+    <h4><a href='https://computerhoy.com/motor/toyota-prepara-coche-electrico-carga-baterias-100-solo-10-minutos-1260516'>Toyota prepara un coche eléctrico que carga sus baterías al 100% en solo 10 minutos</a></h4>
+    <a href='https://computerhoy.com/motor/toyota-prepara-coche-electrico-carga-baterias-100-solo-10-minutos-1260516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/coche-electrico-3058550.jpg?tf=1200x' alt='Toyota prepara un coche eléctrico que carga sus baterías al 100% en solo 10 minutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/sabias-dentro-latas-cerveza-guinness-hay-bola-plastico-1260010'>¿Sabías que dentro de las latas de cerveza Guinness hay una bola de plástico?</a></h4>
-    <a href='https://computerhoy.com/internet/sabias-dentro-latas-cerveza-guinness-hay-bola-plastico-1260010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cerveza-guinness-3058464.jpg?tf=1200x' alt='¿Sabías que dentro de las latas de cerveza Guinness hay una bola de plástico?' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-deja-soporte-versiones-windows-10-populares-1260534'>Microsoft deja sin soporte una de las versiones de Windows 10 más populares y quiere forzarte a actualizar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-deja-soporte-versiones-windows-10-populares-1260534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/microsoft-3058604.jpg?tf=1200x' alt='Microsoft deja sin soporte una de las versiones de Windows 10 más populares y quiere forzarte a actualizar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-actualiza-novedades-planifiques-mejor-verano-1260486'>Google Maps se actualiza con novedades para que planifiques mejor el verano</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-actualiza-novedades-planifiques-mejor-verano-1260486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-maps-gasolineras-2998772.jpg?tf=1200x' alt='Google Maps se actualiza con novedades para que planifiques mejor el verano' />
+    <h4><a href='https://computerhoy.com/alimentacion/truco-supermercados-hacer-gastes-solo-funciona-lunes-jueves-1260616'>El truco de los supermercados para hacer que gastes más y que solo funciona de lunes a jueves</a></h4>
+    <a href='https://computerhoy.com/alimentacion/truco-supermercados-hacer-gastes-solo-funciona-lunes-jueves-1260616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/compra-supermercado-3058782.jpg?tf=1200x' alt='El truco de los supermercados para hacer que gastes más y que solo funciona de lunes a jueves' />
     </a>
 </div>
 
