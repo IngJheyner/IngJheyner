@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/bicicleta-sin-motor-con-kers-1260046'>A un lado, Fernando Alonso: llega la bicicleta sin motor con KERS</a></h4>
+    <a href='https://computerhoy.com/motor/bicicleta-sin-motor-con-kers-1260046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/lado-fernando-alonso-llega-bicicleta-kers-3057836.jpg?tf=1200x' alt='A un lado, Fernando Alonso: llega la bicicleta sin motor con KERS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/atresplayer-estrena-nuevo-diseno-contenido-canales-fast-1260040'>La plataforma Atresplayer se renueva: nuevo diseño, canales FAST, más producciones originales y más</a></h4>
     <a href='https://computerhoy.com/entretenimiento/atresplayer-estrena-nuevo-diseno-contenido-canales-fast-1260040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/plataforma-atresplayer-renueva-nuevo-diseno-canales-fast-producciones-originales-3057812.jpg?tf=1200x' alt='La plataforma Atresplayer se renueva: nuevo diseño, canales FAST, más producciones originales y más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/detectan-60000-aplicaciones-android-infectadas-peligroso-malware-1260018'>Detectan más de 60.000 aplicaciones para Android infectadas con un peligroso malware</a></h4>
     <a href='https://computerhoy.com/apps/detectan-60000-aplicaciones-android-infectadas-peligroso-malware-1260018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malware-android-3051122.jpg?tf=1200x' alt='Detectan más de 60.000 aplicaciones para Android infectadas con un peligroso malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/alerta-baterias-defectuosas-varios-coches-electricos-vendidos-espana-marcas-modelos-afectados-1260014'>Alerta por baterías defectuosas en varios coches eléctricos vendidos en España: marcas y modelos afectados</a></h4>
-    <a href='https://computerhoy.com/motor/alerta-baterias-defectuosas-varios-coches-electricos-vendidos-espana-marcas-modelos-afectados-1260014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/citroen-c5-aircross-3057798.jpg?tf=1200x' alt='Alerta por baterías defectuosas en varios coches eléctricos vendidos en España: marcas y modelos afectados' />
     </a>
 </div>
 
