@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/bicicleta-sin-motor-con-kers-1260046'>A un lado, Fernando Alonso: llega la bicicleta sin motor con KERS</a></h4>
-    <a href='https://computerhoy.com/motor/bicicleta-sin-motor-con-kers-1260046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/lado-fernando-alonso-llega-bicicleta-kers-3057836.jpg?tf=1200x' alt='A un lado, Fernando Alonso: llega la bicicleta sin motor con KERS' />
+    <h4><a href='https://computerhoy.com/tecnologia/iran-presenta-como-ultima-tecnologia-placa-circuito-vende-amazon-600-dolares-1260284'>Irán presenta como última tecnología una placa de circuito que se vende en Amazon por 600 dólares</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iran-presenta-como-ultima-tecnologia-placa-circuito-vende-amazon-600-dolares-1260284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iran-presenta-como-ultima-tecnologia-placa-circuito-vende-amazon-600-dolares-3058136.jpg?tf=1200x' alt='Irán presenta como última tecnología una placa de circuito que se vende en Amazon por 600 dólares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/atresplayer-estrena-nuevo-diseno-contenido-canales-fast-1260040'>La plataforma Atresplayer se renueva: nuevo diseño, canales FAST, más producciones originales y más</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/atresplayer-estrena-nuevo-diseno-contenido-canales-fast-1260040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/plataforma-atresplayer-renueva-nuevo-diseno-canales-fast-producciones-originales-3057812.jpg?tf=1200x' alt='La plataforma Atresplayer se renueva: nuevo diseño, canales FAST, más producciones originales y más' />
+    <h4><a href='https://computerhoy.com/alimentacion/dieta-mediterranea-rejuvenece-cerebro-9-meses-1260252'>Un año y medio de dieta mediterránea rejuvenece el cerebro hasta 9 meses</a></h4>
+    <a href='https://computerhoy.com/alimentacion/dieta-mediterranea-rejuvenece-cerebro-9-meses-1260252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dieta-mediterranea-rejuvenece-cerebro-menos-9-meses-3058052.jpg?tf=1200x' alt='Un año y medio de dieta mediterránea rejuvenece el cerebro hasta 9 meses' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/ya-puedes-abrir-puerta-garaje-pantalla-coche-android-auto-1259998'>Ya puedes abrir la puerta del garaje desde la pantalla del coche con Android Auto</a></h4>
-    <a href='https://computerhoy.com/motor/ya-puedes-abrir-puerta-garaje-pantalla-coche-android-auto-1259998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/puerta-garaje-3057752.jpg?tf=1200x' alt='Ya puedes abrir la puerta del garaje desde la pantalla del coche con Android Auto' />
+    <h4><a href='https://computerhoy.com/internet/cursos-coursera-plus-1260038'>5 cursos de Coursera Plus que realizar para disparar tu carrera profesional</a></h4>
+    <a href='https://computerhoy.com/internet/cursos-coursera-plus-1260038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-estudiando-portatil-libros-cama-2569067.jpg?tf=1200x' alt='5 cursos de Coursera Plus que realizar para disparar tu carrera profesional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/paul-mccartney-usa-voz-john-lennon-ultima-cancion-beatles-1260024'>Paul McCartney ha usado la IA con la voz de John Lennon para "una última canción de Los Beatles"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/paul-mccartney-usa-voz-john-lennon-ultima-cancion-beatles-1260024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/paul-mccartney-ha-usado-inteligencia-artificial-voz-john-lennon-ultima-cancion-beatles-3057788.jpg?tf=1200x' alt='Paul McCartney ha usado la IA con la voz de John Lennon para "una última canción de Los Beatles"' />
+    <h4><a href='https://computerhoy.com/analisis/analisis-oppo-a98-5g-analisis-review-caracteristicas-precio-1258844'>El Oppo A98 5G es original, elegante y solvente: una opción muy interesante en la gama media  </a></h4>
+    <a href='https://computerhoy.com/analisis/analisis-oppo-a98-5g-analisis-review-caracteristicas-precio-1258844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oppo-a98-5g-3055760.jpg?tf=1200x' alt='El Oppo A98 5G es original, elegante y solvente: una opción muy interesante en la gama media  ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/detectan-60000-aplicaciones-android-infectadas-peligroso-malware-1260018'>Detectan más de 60.000 aplicaciones para Android infectadas con un peligroso malware</a></h4>
-    <a href='https://computerhoy.com/apps/detectan-60000-aplicaciones-android-infectadas-peligroso-malware-1260018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malware-android-3051122.jpg?tf=1200x' alt='Detectan más de 60.000 aplicaciones para Android infectadas con un peligroso malware' />
+    <h4><a href='https://computerhoy.com/espacio/primera-fabrica-espacio-ya-orbita-tierra-1260246'>La primera fábrica en el espacio, ya está en órbita</a></h4>
+    <a href='https://computerhoy.com/espacio/primera-fabrica-espacio-ya-orbita-tierra-1260246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/primera-fabrica-espacio-ya-orbita-3058048.jpg?tf=1200x' alt='La primera fábrica en el espacio, ya está en órbita' />
     </a>
 </div>
 
