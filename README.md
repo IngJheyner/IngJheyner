@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/apps-convertir-raspberry-pi-smart-tv-amazon-fire-tv-chromecast-1260044'>Apps para convertir una Raspberry Pi en un Smart TV, Amazon Fire TV o Chromecast</a></h4>
+    <a href='https://computerhoy.com/apps/apps-convertir-raspberry-pi-smart-tv-amazon-fire-tv-chromecast-1260044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/raspberry-pi-como-smart-tv-3057844.jpg?tf=1200x' alt='Apps para convertir una Raspberry Pi en un Smart TV, Amazon Fire TV o Chromecast' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/funcion-oculta-conexiones-hdmi-smart-tv-deberias-activar-ahora-mismo-1259924'>La función oculta de las conexiones HDMI de tu Smart TV que deberías activar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tv/funcion-oculta-conexiones-hdmi-smart-tv-deberias-activar-ahora-mismo-1259924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mando-aire-acondicionado-infrarrojo-3056488.jpg?tf=1200x' alt='La función oculta de las conexiones HDMI de tu Smart TV que deberías activar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/huawei-band-8-dos-semanas-bateria-nueva-pulsera-inteligente-carga-rapida-1260472'>Huawei Band 8: dos semanas de batería para la nueva pulsera inteligente con carga rápida</a></h4>
     <a href='https://computerhoy.com/tecnologia/huawei-band-8-dos-semanas-bateria-nueva-pulsera-inteligente-carga-rapida-1260472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-band-8-dos-semanas-bateria-nueva-pulsera-inteligente-carga-rapida-3058458.jpg?tf=1200x' alt='Huawei Band 8: dos semanas de batería para la nueva pulsera inteligente con carga rápida' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/locura-redes-descubrir-funcion-secreta-parasol-coche-1259954'>Locura en las redes al descubrir la función secreta del parasol del coche</a></h4>
     <a href='https://computerhoy.com/motor/locura-redes-descubrir-funcion-secreta-parasol-coche-1259954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/sol-parabrisas-coche-2436427.jpg?tf=1200x' alt='Locura en las redes al descubrir la función secreta del parasol del coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/bruselas-acusa-google-posicion-dominante-mercado-publicidad-internet-1260468'>Bruselas acusa a Google de posición dominante y la empresa podría verse obligada a vender parte de su negocio de publicidad</a></h4>
-    <a href='https://computerhoy.com/google/bruselas-acusa-google-posicion-dominante-mercado-publicidad-internet-1260468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/oficina-google-mountain-view-california-3030098.jpg?tf=1200x' alt='Bruselas acusa a Google de posición dominante y la empresa podría verse obligada a vender parte de su negocio de publicidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/inteligencia-artificial-escriba-ti-funcion-gmail-aterriza-android-ios-1260450'>Que la inteligencia artificial escriba por ti: esta función de Gmail aterriza a Android e iOS</a></h4>
-    <a href='https://computerhoy.com/google/inteligencia-artificial-escriba-ti-funcion-gmail-aterriza-android-ios-1260450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-escriba-ti-funcion-gmail-aterriza-android-ios-3058424.jpg?tf=1200x' alt='Que la inteligencia artificial escriba por ti: esta función de Gmail aterriza a Android e iOS' />
     </a>
 </div>
 
