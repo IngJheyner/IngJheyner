@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iran-presenta-como-ultima-tecnologia-placa-circuito-vende-amazon-600-dolares-1260284'>Irán presenta como última tecnología una placa de circuito que se vende en Amazon por 600 dólares</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iran-presenta-como-ultima-tecnologia-placa-circuito-vende-amazon-600-dolares-1260284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iran-presenta-como-ultima-tecnologia-placa-circuito-vende-amazon-600-dolares-3058136.jpg?tf=1200x' alt='Irán presenta como última tecnología una placa de circuito que se vende en Amazon por 600 dólares' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-hackers-pueden-robar-claves-criptograficas-grabando-movil-iluminacion-led-generan-1260388'>Cuidado con los hackers: pueden robar tus claves criptográficas grabando con un móvil la iluminación LED que generan</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-hackers-pueden-robar-claves-criptograficas-grabando-movil-iluminacion-led-generan-1260388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cuidado-hackers-pueden-robar-claves-criptograficas-grabando-movil-iluminacion-led-generan-3058330.jpg?tf=1200x' alt='Cuidado con los hackers: pueden robar tus claves criptográficas grabando con un móvil la iluminación LED que generan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/dieta-mediterranea-rejuvenece-cerebro-9-meses-1260252'>Un año y medio de dieta mediterránea rejuvenece el cerebro hasta 9 meses</a></h4>
-    <a href='https://computerhoy.com/alimentacion/dieta-mediterranea-rejuvenece-cerebro-9-meses-1260252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dieta-mediterranea-rejuvenece-cerebro-menos-9-meses-3058052.jpg?tf=1200x' alt='Un año y medio de dieta mediterránea rejuvenece el cerebro hasta 9 meses' />
+    <h4><a href='https://computerhoy.com/pc/lenovo-yoga-slim-7-pro-oferta-amazon-1260280'>Rendimiento 10 y 300 euros de descuento: Lenovo Yoga Slim 7 Pro está a precio mínimo en Amazon</a></h4>
+    <a href='https://computerhoy.com/pc/lenovo-yoga-slim-7-pro-oferta-amazon-1260280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/lenovo-yoga-slim-7-pro-3058288.jpg?tf=1200x' alt='Rendimiento 10 y 300 euros de descuento: Lenovo Yoga Slim 7 Pro está a precio mínimo en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cursos-coursera-plus-1260038'>5 cursos de Coursera Plus que realizar para disparar tu carrera profesional</a></h4>
-    <a href='https://computerhoy.com/internet/cursos-coursera-plus-1260038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-estudiando-portatil-libros-cama-2569067.jpg?tf=1200x' alt='5 cursos de Coursera Plus que realizar para disparar tu carrera profesional' />
+    <h4><a href='https://computerhoy.com/hogar/ikea-desarrolla-sofa-gracias-ia-1260360'>IKEA desarrolla un sofá que cabe en un sobre gracias a la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/hogar/ikea-desarrolla-sofa-gracias-ia-1260360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ikea-desarrolla-sofa-puede-llevarse-mano-gracias-inteligencia-artificial-3058282.jpg?tf=1200x' alt='IKEA desarrolla un sofá que cabe en un sobre gracias a la inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/analisis-oppo-a98-5g-analisis-review-caracteristicas-precio-1258844'>El Oppo A98 5G es original, elegante y solvente: una opción muy interesante en la gama media  </a></h4>
-    <a href='https://computerhoy.com/analisis/analisis-oppo-a98-5g-analisis-review-caracteristicas-precio-1258844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oppo-a98-5g-3055760.jpg?tf=1200x' alt='El Oppo A98 5G es original, elegante y solvente: una opción muy interesante en la gama media  ' />
+    <h4><a href='https://computerhoy.com/google/union-europea-bloquea-lanzamiento-chatbot-bard-google-motivos-seguridad-1260358'>El despliegue de Google Bard en jaque por la Unión Europea: la privacidad es una preocupación</a></h4>
+    <a href='https://computerhoy.com/google/union-europea-bloquea-lanzamiento-chatbot-bard-google-motivos-seguridad-1260358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-bard-2998776.jpg?tf=1200x' alt='El despliegue de Google Bard en jaque por la Unión Europea: la privacidad es una preocupación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/primera-fabrica-espacio-ya-orbita-tierra-1260246'>La primera fábrica en el espacio, ya está en órbita</a></h4>
-    <a href='https://computerhoy.com/espacio/primera-fabrica-espacio-ya-orbita-tierra-1260246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/primera-fabrica-espacio-ya-orbita-3058048.jpg?tf=1200x' alt='La primera fábrica en el espacio, ya está en órbita' />
+    <h4><a href='https://computerhoy.com/tecnologia/5-herramientas-ia-sacar-artista-llevas-dentro-1260320'>5 herramientas de inteligencia artificial para generar obras de arte, música y texto en segundos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-herramientas-ia-sacar-artista-llevas-dentro-1260320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/5-herramientas-inteligencia-artificial-generar-obras-arte-musica-texto-segundos-3058224.jpg?tf=1200x' alt='5 herramientas de inteligencia artificial para generar obras de arte, música y texto en segundos' />
     </a>
 </div>
 
