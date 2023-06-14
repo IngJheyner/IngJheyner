@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/apps-convertir-raspberry-pi-smart-tv-amazon-fire-tv-chromecast-1260044'>Apps para convertir una Raspberry Pi en un Smart TV, Amazon Fire TV o Chromecast</a></h4>
-    <a href='https://computerhoy.com/apps/apps-convertir-raspberry-pi-smart-tv-amazon-fire-tv-chromecast-1260044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/raspberry-pi-como-smart-tv-3057844.jpg?tf=1200x' alt='Apps para convertir una Raspberry Pi en un Smart TV, Amazon Fire TV o Chromecast' />
+    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-aclara-caos-oferta-50-descuento-siempre-1260608'>HBO Max aclara de una vez por todas el caos con la oferta del 50% de descuento para siempre</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hbo-max-aclara-caos-oferta-50-descuento-siempre-1260608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hbo-max-aclara-vez-todas-caos-oferta-50-siempre-3058760.jpg?tf=1200x' alt='HBO Max aclara de una vez por todas el caos con la oferta del 50% de descuento para siempre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/funcion-oculta-conexiones-hdmi-smart-tv-deberias-activar-ahora-mismo-1259924'>La función oculta de las conexiones HDMI de tu Smart TV que deberías activar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tv/funcion-oculta-conexiones-hdmi-smart-tv-deberias-activar-ahora-mismo-1259924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mando-aire-acondicionado-infrarrojo-3056488.jpg?tf=1200x' alt='La función oculta de las conexiones HDMI de tu Smart TV que deberías activar ahora mismo' />
+    <h4><a href='https://computerhoy.com/tecnologia/peligros-entrenamiento-ia-expertos-resaltan-riesgos-utilizar-contenido-generado-ia-1260440'>Los peligros del entrenamiento de IA: expertos resaltan los riesgos de utilizar contenido generado por IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/peligros-entrenamiento-ia-expertos-resaltan-riesgos-utilizar-contenido-generado-ia-1260440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3040128.jpg?tf=1200x' alt='Los peligros del entrenamiento de IA: expertos resaltan los riesgos de utilizar contenido generado por IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-band-8-dos-semanas-bateria-nueva-pulsera-inteligente-carga-rapida-1260472'>Huawei Band 8: dos semanas de batería para la nueva pulsera inteligente con carga rápida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-band-8-dos-semanas-bateria-nueva-pulsera-inteligente-carga-rapida-1260472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-band-8-dos-semanas-bateria-nueva-pulsera-inteligente-carga-rapida-3058458.jpg?tf=1200x' alt='Huawei Band 8: dos semanas de batería para la nueva pulsera inteligente con carga rápida' />
+    <h4><a href='https://computerhoy.com/google/google-pixel-actualizan-mejoras-llegan-como-avance-android-14-1260522'>Los Google Pixel se actualizan: mejoras que llegan como un avance de Android 14</a></h4>
+    <a href='https://computerhoy.com/google/google-pixel-actualizan-mejoras-llegan-como-avance-android-14-1260522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-1683716476708-3029968.jpg?tf=1200x' alt='Los Google Pixel se actualizan: mejoras que llegan como un avance de Android 14' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/vivo-v29-lite-5g-primeras-impresiones-precio-disponibilidad-1260466'>Vivo V29 Lite 5G, primeras impresiones: el posible vencedor en la gama media para este año</a></h4>
-    <a href='https://computerhoy.com/moviles/vivo-v29-lite-5g-primeras-impresiones-precio-disponibilidad-1260466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/vivo-v29-lite-5g-3058434.jpg?tf=1200x' alt='Vivo V29 Lite 5G, primeras impresiones: el posible vencedor en la gama media para este año' />
+    <h4><a href='https://computerhoy.com/internet/sabias-dentro-latas-cerveza-guinness-hay-bola-plastico-1260010'>¿Sabías que dentro de las latas de cerveza Guinness hay una bola de plástico?</a></h4>
+    <a href='https://computerhoy.com/internet/sabias-dentro-latas-cerveza-guinness-hay-bola-plastico-1260010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cerveza-guinness-3058464.jpg?tf=1200x' alt='¿Sabías que dentro de las latas de cerveza Guinness hay una bola de plástico?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/locura-redes-descubrir-funcion-secreta-parasol-coche-1259954'>Locura en las redes al descubrir la función secreta del parasol del coche</a></h4>
-    <a href='https://computerhoy.com/motor/locura-redes-descubrir-funcion-secreta-parasol-coche-1259954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/sol-parabrisas-coche-2436427.jpg?tf=1200x' alt='Locura en las redes al descubrir la función secreta del parasol del coche' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-actualiza-novedades-planifiques-mejor-verano-1260486'>Google Maps se actualiza con novedades para que planifiques mejor el verano</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-actualiza-novedades-planifiques-mejor-verano-1260486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-maps-gasolineras-2998772.jpg?tf=1200x' alt='Google Maps se actualiza con novedades para que planifiques mejor el verano' />
     </a>
 </div>
 
