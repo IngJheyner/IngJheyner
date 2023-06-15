@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/mesa-cojin-portatil-bauhutte-1260842'>Al fin alguien inventa la forma de usar un portátil en el sillón, sin sufrir un esguince de cuello</a></h4>
+    <a href='https://computerhoy.com/pc/mesa-cojin-portatil-bauhutte-1260842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/fin-alguien-inventa-forma-usar-portatil-sillon-sufrir-esguince-cuello-3058816.jpg?tf=1200x' alt='Al fin alguien inventa la forma de usar un portátil en el sillón, sin sufrir un esguince de cuello' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/desconocida-criatura-emerge-fondo-mar-parece-alienigena-1260640'>Una nueva y desconocida criatura emerge del fondo de mar, parece completamente alienígena</a></h4>
     <a href='https://computerhoy.com/ciencia/desconocida-criatura-emerge-fondo-mar-parece-alienigena-1260640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nueva-desconocida-criatura-emerge-fondo-mar-parece-completamente-alienigena-3058812.jpg?tf=1200x' alt='Una nueva y desconocida criatura emerge del fondo de mar, parece completamente alienígena' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/dogen-city-ciudad-flotante-anti-tsunamis-japonesa-1260610'>Dogen City: la ciudad flotante anti-tsunamis japonesa, el Arca de Noé moderno</a></h4>
     <a href='https://computerhoy.com/life/dogen-city-ciudad-flotante-anti-tsunamis-japonesa-1260610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dogen-city-3058770.jpg?tf=1200x' alt='Dogen City: la ciudad flotante anti-tsunamis japonesa, el Arca de Noé moderno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/toyota-prepara-coche-electrico-carga-baterias-100-solo-10-minutos-1260516'>Toyota prepara un coche eléctrico que carga sus baterías al 100% en solo 10 minutos</a></h4>
-    <a href='https://computerhoy.com/motor/toyota-prepara-coche-electrico-carga-baterias-100-solo-10-minutos-1260516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/coche-electrico-3058550.jpg?tf=1200x' alt='Toyota prepara un coche eléctrico que carga sus baterías al 100% en solo 10 minutos' />
     </a>
 </div>
 
