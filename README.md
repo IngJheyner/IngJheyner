@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/pablo-acevedo-leica-colaboracion-xiaomi-muy-tecnica-ofrecer-maxima-innovacion-1260334'>Pablo Acevedo (Leica): "La colaboración con Xiaomi es muy técnica para ofrecer la máxima innovación en la fotografía móvil"</a></h4>
+    <a href='https://computerhoy.com/moviles/pablo-acevedo-leica-colaboracion-xiaomi-muy-tecnica-ofrecer-maxima-innovacion-1260334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pablo-acevedo-leica-3058558.jpg?tf=1200x' alt='Pablo Acevedo (Leica): "La colaboración con Xiaomi es muy técnica para ofrecer la máxima innovación en la fotografía móvil"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tom-scooter-plegable-italiano-transporta-como-carrito-1260846'>TOM, el scooter plegable italiano que se transporta como un carrito (vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/tom-scooter-plegable-italiano-transporta-como-carrito-1260846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1686800002953-3059046.jpg?tf=1200x' alt='TOM, el scooter plegable italiano que se transporta como un carrito (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/mesa-cojin-portatil-bauhutte-1260842'>Al fin alguien inventa la forma de usar un portátil en el sillón, sin sufrir un esguince de cuello</a></h4>
     <a href='https://computerhoy.com/pc/mesa-cojin-portatil-bauhutte-1260842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/fin-alguien-inventa-forma-usar-portatil-sillon-sufrir-esguince-cuello-3058816.jpg?tf=1200x' alt='Al fin alguien inventa la forma de usar un portátil en el sillón, sin sufrir un esguince de cuello' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/parlamento-europeo-aprueba-ley-inteligencia-artificial-1260634'>El Parlamento Europeo aprueba la Ley de Inteligencia Artificial, esto es lo que implica</a></h4>
     <a href='https://computerhoy.com/tecnologia/parlamento-europeo-aprueba-ley-inteligencia-artificial-1260634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/parlamento-europeo-aprueba-ley-inteligencia-artificial-implica-3058802.jpg?tf=1200x' alt='El Parlamento Europeo aprueba la Ley de Inteligencia Artificial, esto es lo que implica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-12-fecha-lanzamiento-ocurrira-licencias-windows-11-1260624'>Windows 12: fecha de lanzamiento y qué ocurrirá con las licencias de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/windows-12-fecha-lanzamiento-ocurrira-licencias-windows-11-1260624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-12-3058796.jpg?tf=1200x' alt='Windows 12: fecha de lanzamiento y qué ocurrirá con las licencias de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dogen-city-ciudad-flotante-anti-tsunamis-japonesa-1260610'>Dogen City: la ciudad flotante anti-tsunamis japonesa, el Arca de Noé moderno</a></h4>
-    <a href='https://computerhoy.com/life/dogen-city-ciudad-flotante-anti-tsunamis-japonesa-1260610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dogen-city-3058770.jpg?tf=1200x' alt='Dogen City: la ciudad flotante anti-tsunamis japonesa, el Arca de Noé moderno' />
     </a>
 </div>
 
