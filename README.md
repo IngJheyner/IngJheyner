@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/7-cursos-esenciales-mit-iniciarse-economia-biologia-fisica-forma-gratuita-1260886'>7 cursos esenciales del MIT para iniciarse en economía, biología, física y más de forma gratuita</a></h4>
-    <a href='https://computerhoy.com/internet/7-cursos-esenciales-mit-iniciarse-economia-biologia-fisica-forma-gratuita-1260886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/7-cursos-esenciales-mit-iniciarse-economia-biologia-fisica-forma-gratuita-3059102.jpg?tf=1200x' alt='7 cursos esenciales del MIT para iniciarse en economía, biología, física y más de forma gratuita' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-vista-inmersiva-google-maps-ahora-ha-llegado-espana-1261046'>Cómo utilizar la Vista Inmersiva en Google Maps ahora que ha llegado a España</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-utilizar-vista-inmersiva-google-maps-ahora-ha-llegado-espana-1261046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-maps-sola-mano-3047572.jpg?tf=1200x' alt='Cómo utilizar la Vista Inmersiva en Google Maps ahora que ha llegado a España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/aires-acondicionados-cecotec-1260398'>Aires acondicionados portátiles Cecotec: cuáles son sus mejores modelos</a></h4>
-    <a href='https://computerhoy.com/mejores/aires-acondicionados-cecotec-1260398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cecotec-aire-acondicionado-3058644.jpg?tf=1200x' alt='Aires acondicionados portátiles Cecotec: cuáles son sus mejores modelos' />
+    <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-ha-roto-google-chrome-algunos-usuarios-1260986'>La última actualización de Windows 11 ha "roto" Google Chrome a algunos usuarios </a></h4>
+    <a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-ha-roto-google-chrome-algunos-usuarios-1260986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ultima-actualizacion-windows-11-ha-roto-google-chrome-algunos-usuarios-3059342.jpg?tf=1200x' alt='La última actualización de Windows 11 ha "roto" Google Chrome a algunos usuarios ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/regulacion-excesiva-acabando-bitcoin-criptomonedas-ee-uu-1260882'>La regulación excesiva está acabando con el Bitcoin y las criptomonedas en EE. UU.</a></h4>
-    <a href='https://computerhoy.com/criptos/regulacion-excesiva-acabando-bitcoin-criptomonedas-ee-uu-1260882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/regulacion-excesiva-acabando-bitcoin-criptomonedas-ee-uu-3059082.jpg?tf=1200x' alt='La regulación excesiva está acabando con el Bitcoin y las criptomonedas en EE. UU.' />
+    <h4><a href='https://computerhoy.com/apple/apple-repite-peores-errores-nuevo-macbook-air-15-pulgadas-1260990'>Apple vuelve a cometer fallo reiterado con el nuevo MacBook Air de 15 pulgadas</a></h4>
+    <a href='https://computerhoy.com/apple/apple-repite-peores-errores-nuevo-macbook-air-15-pulgadas-1260990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/macbook-air-15-pulgadas-3055844.jpg?tf=1200x' alt='Apple vuelve a cometer fallo reiterado con el nuevo MacBook Air de 15 pulgadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/pablo-acevedo-leica-colaboracion-xiaomi-muy-tecnica-ofrecer-maxima-innovacion-1260334'>Pablo Acevedo (Leica): "La colaboración con Xiaomi es muy técnica para ofrecer la máxima innovación en la fotografía móvil"</a></h4>
-    <a href='https://computerhoy.com/moviles/pablo-acevedo-leica-colaboracion-xiaomi-muy-tecnica-ofrecer-maxima-innovacion-1260334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pablo-acevedo-leica-3058558.jpg?tf=1200x' alt='Pablo Acevedo (Leica): "La colaboración con Xiaomi es muy técnica para ofrecer la máxima innovación en la fotografía móvil"' />
+    <h4><a href='https://computerhoy.com/gaming/juego-nube-playstation-5-sera-realidad-sony-anucia-pruebas-1260952'>El juego en la nube en PlayStation 5 será una realidad: Sony ya está haciendo pruebas</a></h4>
+    <a href='https://computerhoy.com/gaming/juego-nube-playstation-5-sera-realidad-sony-anucia-pruebas-1260952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ps5-2922398.jpg?tf=1200x' alt='El juego en la nube en PlayStation 5 será una realidad: Sony ya está haciendo pruebas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tom-scooter-plegable-italiano-transporta-como-carrito-1260846'>TOM, el scooter plegable italiano que se transporta como un carrito (vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/tom-scooter-plegable-italiano-transporta-como-carrito-1260846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1686800002953-3059046.jpg?tf=1200x' alt='TOM, el scooter plegable italiano que se transporta como un carrito (vídeo)' />
+    <h4><a href='https://computerhoy.com/tecnologia/prompts-1260962'>Mejores 'prompts' o entradas de texto para aprovechar al máximo el poder de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/prompts-1260962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/prompts-3059146.jpg?tf=1200x' alt='Mejores 'prompts' o entradas de texto para aprovechar al máximo el poder de ChatGPT' />
     </a>
 </div>
 
