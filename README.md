@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/antiguos-companeros-cuentan-como-trabajar-elon-musk-jeff-bezos-bill-gates-1261102'>Antiguos compañeros cuentan cómo es trabajar con multimillonarios como Elon Musk, Jeff Bezos o Bill Gates</a></h4>
-    <a href='https://computerhoy.com/life/antiguos-companeros-cuentan-como-trabajar-elon-musk-jeff-bezos-bill-gates-1261102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bill-gates-jeff-bezos-elon-musk-3059598.jpg?tf=1200x' alt='Antiguos compañeros cuentan cómo es trabajar con multimillonarios como Elon Musk, Jeff Bezos o Bill Gates' />
+    <h4><a href='https://computerhoy.com/ciencia/verdad-mayor-error-albert-einstein-teoria-general-relatividad-1260510'>La verdad sobre el mayor error de Albert Einstein en su Teoría General de la Relatividad</a></h4>
+    <a href='https://computerhoy.com/ciencia/verdad-mayor-error-albert-einstein-teoria-general-relatividad-1260510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/albert-einstein-3058632.jpg?tf=1200x' alt='La verdad sobre el mayor error de Albert Einstein en su Teoría General de la Relatividad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/smart-tv-va-lenta-estas-son-3-formas-efectivas-mejorar-velocidad-1260844'>¿Tu Smart TV va lenta? Estas son las 3 formas más efectivas de mejorar la velocidad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/smart-tv-va-lenta-estas-son-3-formas-efectivas-mejorar-velocidad-1260844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevos-televisores-fire-tv-amazon-estan-minimo-historico-black-friday-2875869.jpg?tf=1200x' alt='¿Tu Smart TV va lenta? Estas son las 3 formas más efectivas de mejorar la velocidad' />
+    <h4><a href='https://computerhoy.com/life/dia-promedio-persona-ciencia-estas-acuerdo-vida-mejor-1261180'>Este es el día promedio de una persona según la ciencia: ¿estás de acuerdo o tu vida es mejor?</a></h4>
+    <a href='https://computerhoy.com/life/dia-promedio-persona-ciencia-estas-acuerdo-vida-mejor-1261180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tiempo-libre-3059722.jpg?tf=1200x' alt='Este es el día promedio de una persona según la ciencia: ¿estás de acuerdo o tu vida es mejor?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/europa-no-conforma-multas-quiere-obligar-google-deshacerse-parte-negocio-1261152'>Europa no se conforma con multas y quiere obligar a Google a deshacerse de parte de su negocio</a></h4>
-    <a href='https://computerhoy.com/google/europa-no-conforma-multas-quiere-obligar-google-deshacerse-parte-negocio-1261152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-vs-eu-3059638.jpg?tf=1200x' alt='Europa no se conforma con multas y quiere obligar a Google a deshacerse de parte de su negocio' />
+    <h4><a href='https://computerhoy.com/espacio/confirman-lunas-saturno-tiene-todos-ingredientes-vida-1261176'>Confirman que una de las lunas de Saturno tiene todos los ingredientes para la vida</a></h4>
+    <a href='https://computerhoy.com/espacio/confirman-lunas-saturno-tiene-todos-ingredientes-vida-1261176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/encelado-3059716.jpg?tf=1200x' alt='Confirman que una de las lunas de Saturno tiene todos los ingredientes para la vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/codigo-maldito-nadie-quiere-tener-carnet-conducir-1260602'>El código maldito que nadie quiere tener en su carnet de conducir: ¿eres uno de ellos?</a></h4>
-    <a href='https://computerhoy.com/life/codigo-maldito-nadie-quiere-tener-carnet-conducir-1260602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/carnet-conducir-3059296.jpg?tf=1200x' alt='El código maldito que nadie quiere tener en su carnet de conducir: ¿eres uno de ellos?' />
+    <h4><a href='https://computerhoy.com/pc/raspberry-pi-barata-recibe-importante-funcionalidad-tener-pagar-euro-1261156'>La Raspberry Pi más barata recibe una importante funcionalidad sin tener que pagar un euro</a></h4>
+    <a href='https://computerhoy.com/pc/raspberry-pi-barata-recibe-importante-funcionalidad-tener-pagar-euro-1261156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/raspberry-pi-zero-3059660.jpg?tf=1200x' alt='La Raspberry Pi más barata recibe una importante funcionalidad sin tener que pagar un euro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/adios-historico-i-procesadores-intel-core-ahora-son-faciles-entender-1261116'>Adiós histórico a la "i" de los procesadores Intel Core que ahora son más fáciles de entender</a></h4>
-    <a href='https://computerhoy.com/pc/adios-historico-i-procesadores-intel-core-ahora-son-faciles-entender-1261116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/intel-core-pierde-i-3059570.jpg?tf=1200x' alt='Adiós histórico a la "i" de los procesadores Intel Core que ahora son más fáciles de entender' />
+    <h4><a href='https://computerhoy.com/redes/haces-movil-pero-te-olvidas-router-estas-arruinando-conexion-wifi-1260642'>Lo haces con tu móvil, pero te olvidas del router y estás arruinando tu conexión WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/haces-movil-pero-te-olvidas-router-estas-arruinando-conexion-wifi-1260642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/router-wifi-3059040.jpg?tf=1200x' alt='Lo haces con tu móvil, pero te olvidas del router y estás arruinando tu conexión WiFi' />
     </a>
 </div>
 
