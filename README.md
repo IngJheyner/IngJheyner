@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-vista-inmersiva-google-maps-ahora-ha-llegado-espana-1261046'>Cómo utilizar la Vista Inmersiva en Google Maps ahora que ha llegado a España</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-utilizar-vista-inmersiva-google-maps-ahora-ha-llegado-espana-1261046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-maps-sola-mano-3047572.jpg?tf=1200x' alt='Cómo utilizar la Vista Inmersiva en Google Maps ahora que ha llegado a España' />
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-samsung-incluiran-pronto-funcion-podria-salvarte-vida-1260564'>Tu smartwatch de Samsung incluirá pronto una función que podría salvarte la vida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-samsung-incluiran-pronto-funcion-podria-salvarte-vida-1260564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cardiograma-3058646.jpg?tf=1200x' alt='Tu smartwatch de Samsung incluirá pronto una función que podría salvarte la vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-ha-roto-google-chrome-algunos-usuarios-1260986'>La última actualización de Windows 11 ha "roto" Google Chrome a algunos usuarios </a></h4>
-    <a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-ha-roto-google-chrome-algunos-usuarios-1260986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ultima-actualizacion-windows-11-ha-roto-google-chrome-algunos-usuarios-3059342.jpg?tf=1200x' alt='La última actualización de Windows 11 ha "roto" Google Chrome a algunos usuarios ' />
+    <h4><a href='https://computerhoy.com/apps/son-multicuentas-whatsapp-como-utilizarlas-1261068'>Qué son las multicuentas en WhatsApp y cómo utilizarlas</a></h4>
+    <a href='https://computerhoy.com/apps/son-multicuentas-whatsapp-como-utilizarlas-1261068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3043418.jpg?tf=1200x' alt='Qué son las multicuentas en WhatsApp y cómo utilizarlas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-repite-peores-errores-nuevo-macbook-air-15-pulgadas-1260990'>Apple vuelve a cometer fallo reiterado con el nuevo MacBook Air de 15 pulgadas</a></h4>
-    <a href='https://computerhoy.com/apple/apple-repite-peores-errores-nuevo-macbook-air-15-pulgadas-1260990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/macbook-air-15-pulgadas-3055844.jpg?tf=1200x' alt='Apple vuelve a cometer fallo reiterado con el nuevo MacBook Air de 15 pulgadas' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-archivo-borrado-windows-11-necesidad-programas-1260560'>Cómo recuperar un archivo borrado en Windows 11 sin necesidad de programas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-archivo-borrado-windows-11-necesidad-programas-1260560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/archivos-borrados-windows-11-3058758.jpg?tf=1200x' alt='Cómo recuperar un archivo borrado en Windows 11 sin necesidad de programas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/juego-nube-playstation-5-sera-realidad-sony-anucia-pruebas-1260952'>El juego en la nube en PlayStation 5 será una realidad: Sony ya está haciendo pruebas</a></h4>
-    <a href='https://computerhoy.com/gaming/juego-nube-playstation-5-sera-realidad-sony-anucia-pruebas-1260952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ps5-2922398.jpg?tf=1200x' alt='El juego en la nube en PlayStation 5 será una realidad: Sony ya está haciendo pruebas' />
+    <h4><a href='https://computerhoy.com/tecnologia/copyright-pasa-factura-elon-musk-twitter-enfrenta-demanda-250-millones-dolares-1261072'>El copyright pasa factura a Elon Musk: Twitter se enfrenta a una demanda de 250 millones de dólares</a></h4>
+    <a href='https://computerhoy.com/tecnologia/copyright-pasa-factura-elon-musk-twitter-enfrenta-demanda-250-millones-dolares-1261072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-2996806.jpg?tf=1200x' alt='El copyright pasa factura a Elon Musk: Twitter se enfrenta a una demanda de 250 millones de dólares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/prompts-1260962'>Mejores 'prompts' o entradas de texto para aprovechar al máximo el poder de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/prompts-1260962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/prompts-3059146.jpg?tf=1200x' alt='Mejores 'prompts' o entradas de texto para aprovechar al máximo el poder de ChatGPT' />
+    <h4><a href='https://computerhoy.com/ciencia/verdad-mayor-error-albert-einstein-teoria-general-relatividad-1260510'>La verdad sobre el mayor error de Albert Einstein en su Teoría General de la Relatividad</a></h4>
+    <a href='https://computerhoy.com/ciencia/verdad-mayor-error-albert-einstein-teoria-general-relatividad-1260510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/albert-einstein-3058632.jpg?tf=1200x' alt='La verdad sobre el mayor error de Albert Einstein en su Teoría General de la Relatividad' />
     </a>
 </div>
 
