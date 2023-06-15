@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-samsung-incluiran-pronto-funcion-podria-salvarte-vida-1260564'>Tu smartwatch de Samsung incluirá pronto una función que podría salvarte la vida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-samsung-incluiran-pronto-funcion-podria-salvarte-vida-1260564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cardiograma-3058646.jpg?tf=1200x' alt='Tu smartwatch de Samsung incluirá pronto una función que podría salvarte la vida' />
+    <h4><a href='https://computerhoy.com/life/antiguos-companeros-cuentan-como-trabajar-elon-musk-jeff-bezos-bill-gates-1261102'>Antiguos compañeros cuentan cómo es trabajar con multimillonarios como Elon Musk, Jeff Bezos o Bill Gates</a></h4>
+    <a href='https://computerhoy.com/life/antiguos-companeros-cuentan-como-trabajar-elon-musk-jeff-bezos-bill-gates-1261102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bill-gates-jeff-bezos-elon-musk-3059598.jpg?tf=1200x' alt='Antiguos compañeros cuentan cómo es trabajar con multimillonarios como Elon Musk, Jeff Bezos o Bill Gates' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/son-multicuentas-whatsapp-como-utilizarlas-1261068'>Qué son las multicuentas en WhatsApp y cómo utilizarlas</a></h4>
-    <a href='https://computerhoy.com/apps/son-multicuentas-whatsapp-como-utilizarlas-1261068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3043418.jpg?tf=1200x' alt='Qué son las multicuentas en WhatsApp y cómo utilizarlas' />
+    <h4><a href='https://computerhoy.com/tutoriales/smart-tv-va-lenta-estas-son-3-formas-efectivas-mejorar-velocidad-1260844'>¿Tu Smart TV va lenta? Estas son las 3 formas más efectivas de mejorar la velocidad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/smart-tv-va-lenta-estas-son-3-formas-efectivas-mejorar-velocidad-1260844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nuevos-televisores-fire-tv-amazon-estan-minimo-historico-black-friday-2875869.jpg?tf=1200x' alt='¿Tu Smart TV va lenta? Estas son las 3 formas más efectivas de mejorar la velocidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-archivo-borrado-windows-11-necesidad-programas-1260560'>Cómo recuperar un archivo borrado en Windows 11 sin necesidad de programas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recuperar-archivo-borrado-windows-11-necesidad-programas-1260560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/archivos-borrados-windows-11-3058758.jpg?tf=1200x' alt='Cómo recuperar un archivo borrado en Windows 11 sin necesidad de programas' />
+    <h4><a href='https://computerhoy.com/google/europa-no-conforma-multas-quiere-obligar-google-deshacerse-parte-negocio-1261152'>Europa no se conforma con multas y quiere obligar a Google a deshacerse de parte de su negocio</a></h4>
+    <a href='https://computerhoy.com/google/europa-no-conforma-multas-quiere-obligar-google-deshacerse-parte-negocio-1261152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-vs-eu-3059638.jpg?tf=1200x' alt='Europa no se conforma con multas y quiere obligar a Google a deshacerse de parte de su negocio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/copyright-pasa-factura-elon-musk-twitter-enfrenta-demanda-250-millones-dolares-1261072'>El copyright pasa factura a Elon Musk: Twitter se enfrenta a una demanda de 250 millones de dólares</a></h4>
-    <a href='https://computerhoy.com/tecnologia/copyright-pasa-factura-elon-musk-twitter-enfrenta-demanda-250-millones-dolares-1261072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-2996806.jpg?tf=1200x' alt='El copyright pasa factura a Elon Musk: Twitter se enfrenta a una demanda de 250 millones de dólares' />
+    <h4><a href='https://computerhoy.com/life/codigo-maldito-nadie-quiere-tener-carnet-conducir-1260602'>El código maldito que nadie quiere tener en su carnet de conducir: ¿eres uno de ellos?</a></h4>
+    <a href='https://computerhoy.com/life/codigo-maldito-nadie-quiere-tener-carnet-conducir-1260602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/carnet-conducir-3059296.jpg?tf=1200x' alt='El código maldito que nadie quiere tener en su carnet de conducir: ¿eres uno de ellos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/verdad-mayor-error-albert-einstein-teoria-general-relatividad-1260510'>La verdad sobre el mayor error de Albert Einstein en su Teoría General de la Relatividad</a></h4>
-    <a href='https://computerhoy.com/ciencia/verdad-mayor-error-albert-einstein-teoria-general-relatividad-1260510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/albert-einstein-3058632.jpg?tf=1200x' alt='La verdad sobre el mayor error de Albert Einstein en su Teoría General de la Relatividad' />
+    <h4><a href='https://computerhoy.com/pc/adios-historico-i-procesadores-intel-core-ahora-son-faciles-entender-1261116'>Adiós histórico a la "i" de los procesadores Intel Core que ahora son más fáciles de entender</a></h4>
+    <a href='https://computerhoy.com/pc/adios-historico-i-procesadores-intel-core-ahora-son-faciles-entender-1261116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/intel-core-pierde-i-3059570.jpg?tf=1200x' alt='Adiós histórico a la "i" de los procesadores Intel Core que ahora son más fáciles de entender' />
     </a>
 </div>
 
