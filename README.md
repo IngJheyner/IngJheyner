@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/7-cursos-esenciales-mit-iniciarse-economia-biologia-fisica-forma-gratuita-1260886'>7 cursos esenciales del MIT para iniciarse en economía, biología, física y más de forma gratuita</a></h4>
+    <a href='https://computerhoy.com/internet/7-cursos-esenciales-mit-iniciarse-economia-biologia-fisica-forma-gratuita-1260886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/7-cursos-esenciales-mit-iniciarse-economia-biologia-fisica-forma-gratuita-3059102.jpg?tf=1200x' alt='7 cursos esenciales del MIT para iniciarse en economía, biología, física y más de forma gratuita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/aires-acondicionados-cecotec-1260398'>Aires acondicionados portátiles Cecotec: cuáles son sus mejores modelos</a></h4>
+    <a href='https://computerhoy.com/mejores/aires-acondicionados-cecotec-1260398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cecotec-aire-acondicionado-3058644.jpg?tf=1200x' alt='Aires acondicionados portátiles Cecotec: cuáles son sus mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/regulacion-excesiva-acabando-bitcoin-criptomonedas-ee-uu-1260882'>La regulación excesiva está acabando con el Bitcoin y las criptomonedas en EE. UU.</a></h4>
+    <a href='https://computerhoy.com/criptos/regulacion-excesiva-acabando-bitcoin-criptomonedas-ee-uu-1260882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/regulacion-excesiva-acabando-bitcoin-criptomonedas-ee-uu-3059082.jpg?tf=1200x' alt='La regulación excesiva está acabando con el Bitcoin y las criptomonedas en EE. UU.' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/pablo-acevedo-leica-colaboracion-xiaomi-muy-tecnica-ofrecer-maxima-innovacion-1260334'>Pablo Acevedo (Leica): "La colaboración con Xiaomi es muy técnica para ofrecer la máxima innovación en la fotografía móvil"</a></h4>
     <a href='https://computerhoy.com/moviles/pablo-acevedo-leica-colaboracion-xiaomi-muy-tecnica-ofrecer-maxima-innovacion-1260334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pablo-acevedo-leica-3058558.jpg?tf=1200x' alt='Pablo Acevedo (Leica): "La colaboración con Xiaomi es muy técnica para ofrecer la máxima innovación en la fotografía móvil"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/tom-scooter-plegable-italiano-transporta-como-carrito-1260846'>TOM, el scooter plegable italiano que se transporta como un carrito (vídeo)</a></h4>
     <a href='https://computerhoy.com/motor/tom-scooter-plegable-italiano-transporta-como-carrito-1260846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1686800002953-3059046.jpg?tf=1200x' alt='TOM, el scooter plegable italiano que se transporta como un carrito (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mesa-cojin-portatil-bauhutte-1260842'>Al fin alguien inventa la forma de usar un portátil en el sillón, sin sufrir un esguince de cuello</a></h4>
-    <a href='https://computerhoy.com/pc/mesa-cojin-portatil-bauhutte-1260842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/fin-alguien-inventa-forma-usar-portatil-sillon-sufrir-esguince-cuello-3058816.jpg?tf=1200x' alt='Al fin alguien inventa la forma de usar un portátil en el sillón, sin sufrir un esguince de cuello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/desconocida-criatura-emerge-fondo-mar-parece-alienigena-1260640'>Una nueva y desconocida criatura emerge del fondo de mar, parece completamente alienígena</a></h4>
-    <a href='https://computerhoy.com/ciencia/desconocida-criatura-emerge-fondo-mar-parece-alienigena-1260640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nueva-desconocida-criatura-emerge-fondo-mar-parece-completamente-alienigena-3058812.jpg?tf=1200x' alt='Una nueva y desconocida criatura emerge del fondo de mar, parece completamente alienígena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/parlamento-europeo-aprueba-ley-inteligencia-artificial-1260634'>El Parlamento Europeo aprueba la Ley de Inteligencia Artificial, esto es lo que implica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/parlamento-europeo-aprueba-ley-inteligencia-artificial-1260634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/parlamento-europeo-aprueba-ley-inteligencia-artificial-implica-3058802.jpg?tf=1200x' alt='El Parlamento Europeo aprueba la Ley de Inteligencia Artificial, esto es lo que implica' />
     </a>
 </div>
 
