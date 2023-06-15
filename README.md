@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/microsoft-deja-hacer-juegos-xbox-one-1261194'>Microsoft deja de hacer juegos para Xbox One</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-deja-hacer-juegos-xbox-one-1261194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/xbox_one_all_digital_edition.jpg?tf=1200x' alt='Microsoft deja de hacer juegos para Xbox One' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/warner-reune-peter-jackson-nuevas-peliculas-senor-anillos-1261188'>Warner ya se ha reunido con Peter Jackson para hacer más películas de El Señor de los Anillos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/warner-reune-peter-jackson-nuevas-peliculas-senor-anillos-1261188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/warner-ya-ha-reunido-peter-jackson-hacer-peliculas-senor-anillos-3059714.jpg?tf=1200x' alt='Warner ya se ha reunido con Peter Jackson para hacer más películas de El Señor de los Anillos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-elimina-sorpresa-funciones-windows-11-1261160'>Microsoft elimina por sorpresa funciones de Windows 11 y los usuarios entran en cólera</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-elimina-sorpresa-funciones-windows-11-1261160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/enfado-3059654.jpg?tf=1200x' alt='Microsoft elimina por sorpresa funciones de Windows 11 y los usuarios entran en cólera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/verdad-mayor-error-albert-einstein-teoria-general-relatividad-1260510'>La verdad sobre el mayor error de Albert Einstein en su Teoría General de la Relatividad</a></h4>
     <a href='https://computerhoy.com/ciencia/verdad-mayor-error-albert-einstein-teoria-general-relatividad-1260510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/albert-einstein-3058632.jpg?tf=1200x' alt='La verdad sobre el mayor error de Albert Einstein en su Teoría General de la Relatividad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/dia-promedio-persona-ciencia-estas-acuerdo-vida-mejor-1261180'>Este es el día promedio de una persona según la ciencia: ¿estás de acuerdo o tu vida es mejor?</a></h4>
     <a href='https://computerhoy.com/life/dia-promedio-persona-ciencia-estas-acuerdo-vida-mejor-1261180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tiempo-libre-3059722.jpg?tf=1200x' alt='Este es el día promedio de una persona según la ciencia: ¿estás de acuerdo o tu vida es mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/confirman-lunas-saturno-tiene-todos-ingredientes-vida-1261176'>Confirman que una de las lunas de Saturno tiene todos los ingredientes para la vida</a></h4>
-    <a href='https://computerhoy.com/espacio/confirman-lunas-saturno-tiene-todos-ingredientes-vida-1261176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/encelado-3059716.jpg?tf=1200x' alt='Confirman que una de las lunas de Saturno tiene todos los ingredientes para la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/raspberry-pi-barata-recibe-importante-funcionalidad-tener-pagar-euro-1261156'>La Raspberry Pi más barata recibe una importante funcionalidad sin tener que pagar un euro</a></h4>
-    <a href='https://computerhoy.com/pc/raspberry-pi-barata-recibe-importante-funcionalidad-tener-pagar-euro-1261156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/raspberry-pi-zero-3059660.jpg?tf=1200x' alt='La Raspberry Pi más barata recibe una importante funcionalidad sin tener que pagar un euro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/haces-movil-pero-te-olvidas-router-estas-arruinando-conexion-wifi-1260642'>Lo haces con tu móvil, pero te olvidas del router y estás arruinando tu conexión WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/haces-movil-pero-te-olvidas-router-estas-arruinando-conexion-wifi-1260642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/router-wifi-3059040.jpg?tf=1200x' alt='Lo haces con tu móvil, pero te olvidas del router y estás arruinando tu conexión WiFi' />
     </a>
 </div>
 
