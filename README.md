@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/desconocida-criatura-emerge-fondo-mar-parece-alienigena-1260640'>Una nueva y desconocida criatura emerge del fondo de mar, parece completamente alienígena</a></h4>
+    <a href='https://computerhoy.com/ciencia/desconocida-criatura-emerge-fondo-mar-parece-alienigena-1260640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nueva-desconocida-criatura-emerge-fondo-mar-parece-completamente-alienigena-3058812.jpg?tf=1200x' alt='Una nueva y desconocida criatura emerge del fondo de mar, parece completamente alienígena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/parlamento-europeo-aprueba-ley-inteligencia-artificial-1260634'>El Parlamento Europeo aprueba la Ley de Inteligencia Artificial, esto es lo que implica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/parlamento-europeo-aprueba-ley-inteligencia-artificial-1260634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/parlamento-europeo-aprueba-ley-inteligencia-artificial-implica-3058802.jpg?tf=1200x' alt='El Parlamento Europeo aprueba la Ley de Inteligencia Artificial, esto es lo que implica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-12-fecha-lanzamiento-ocurrira-licencias-windows-11-1260624'>Windows 12: fecha de lanzamiento y qué ocurrirá con las licencias de Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/windows-12-fecha-lanzamiento-ocurrira-licencias-windows-11-1260624' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-12-3058796.jpg?tf=1200x' alt='Windows 12: fecha de lanzamiento y qué ocurrirá con las licencias de Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/toyota-prepara-coche-electrico-carga-baterias-100-solo-10-minutos-1260516'>Toyota prepara un coche eléctrico que carga sus baterías al 100% en solo 10 minutos</a></h4>
     <a href='https://computerhoy.com/motor/toyota-prepara-coche-electrico-carga-baterias-100-solo-10-minutos-1260516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/coche-electrico-3058550.jpg?tf=1200x' alt='Toyota prepara un coche eléctrico que carga sus baterías al 100% en solo 10 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-deja-soporte-versiones-windows-10-populares-1260534'>Microsoft deja sin soporte una de las versiones de Windows 10 más populares y quiere forzarte a actualizar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-deja-soporte-versiones-windows-10-populares-1260534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/microsoft-3058604.jpg?tf=1200x' alt='Microsoft deja sin soporte una de las versiones de Windows 10 más populares y quiere forzarte a actualizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/truco-supermercados-hacer-gastes-solo-funciona-lunes-jueves-1260616'>El truco de los supermercados para hacer que gastes más y que solo funciona de lunes a jueves</a></h4>
-    <a href='https://computerhoy.com/alimentacion/truco-supermercados-hacer-gastes-solo-funciona-lunes-jueves-1260616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/compra-supermercado-3058782.jpg?tf=1200x' alt='El truco de los supermercados para hacer que gastes más y que solo funciona de lunes a jueves' />
     </a>
 </div>
 
