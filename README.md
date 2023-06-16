@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/extraer-agua-arie-utilizando-hidrogel-salado-como-solucion-sequia-1261466'>Extraer agua del arie utilizando un hidrogel salado como solución a la sequía</a></h4>
+    <a href='https://computerhoy.com/ciencia/extraer-agua-arie-utilizando-hidrogel-salado-como-solucion-sequia-1261466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/extraer-agua-arie-utilizando-hidrogel-salado-como-solucion-sequia-3060138.jpg?tf=1200x' alt='Extraer agua del arie utilizando un hidrogel salado como solución a la sequía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ordenador-cuantico-ibm-supera-capacidades-superordenador-esperan-sea-usado-2-anos-1261450'>El ordenador cuántico de IBM supera las capacidades de un superordenador y esperan su uso en 2 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ordenador-cuantico-ibm-supera-capacidades-superordenador-esperan-sea-usado-2-anos-1261450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ordenador-cuantico-ibm-supera-capacidades-superordenador-esperan-sea-usado-2-anos-3060110.jpg?tf=1200x' alt='El ordenador cuántico de IBM supera las capacidades de un superordenador y esperan su uso en 2 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazfit-gtr-2-66eu-aliexpress-1261426'>90 modos de entrenamiento, batería de 2 semanas y solo 66€: Amazfit GTR 2 es el chollo del día en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazfit-gtr-2-66eu-aliexpress-1261426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazfit-gtr-2-3060030.jpg?tf=1200x' alt='90 modos de entrenamiento, batería de 2 semanas y solo 66€: Amazfit GTR 2 es el chollo del día en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/motivo-esconde-detras-bloqueo-empresas-chatgpt-1261422'>Este es el motivo que se esconde detrás del bloqueo de las empresas a ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/motivo-esconde-detras-bloqueo-empresas-chatgpt-1261422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/motivo-esconde-detras-bloqueo-empresas-chatgpt-3060064.jpg?tf=1200x' alt='Este es el motivo que se esconde detrás del bloqueo de las empresas a ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/historia-wifi-como-hemos-llegado-aqui-1237518'>25 aniversario CH: Historia del WiFi, en 2023 tendremos WiFi 7, ¿cómo hemos llegado hasta aquí?</a></h4>
     <a href='https://computerhoy.com/redes/historia-wifi-como-hemos-llegado-aqui-1237518' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/wifi-evolucion-3055658.jpg?tf=1200x' alt='25 aniversario CH: Historia del WiFi, en 2023 tendremos WiFi 7, ¿cómo hemos llegado hasta aquí?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-motivos-puede-convertir-alternativa-apple-watch-ultra-1261192'>Huawei Watch 4 Pro: motivos por el que se puede convertir en una alternativa al Apple Watch Ultra</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-motivos-puede-convertir-alternativa-apple-watch-ultra-1261192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-watch-4-pro-3050122.jpg?tf=1200x' alt='Huawei Watch 4 Pro: motivos por el que se puede convertir en una alternativa al Apple Watch Ultra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/curioso-truco-evitar-calambrazos-tocar-coche-1261390'>El curioso truco para evitar los calambrazos al tocar el coche</a></h4>
-    <a href='https://computerhoy.com/motor/curioso-truco-evitar-calambrazos-tocar-coche-1261390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/curioso-truco-evitar-calambrazos-tocar-coche-3059958.jpg?tf=1200x' alt='El curioso truco para evitar los calambrazos al tocar el coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/fin-semana-alinean-5-planetas-cielo-puedes-verlos-1261388'>Este fin se semana se alinean 5 planetas en el cielo, así puedes verlos a simple vista</a></h4>
-    <a href='https://computerhoy.com/espacio/fin-semana-alinean-5-planetas-cielo-puedes-verlos-1261388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/fin-semana-alinean-5-planetas-cielo-puedes-verlos-3059766.jpg?tf=1200x' alt='Este fin se semana se alinean 5 planetas en el cielo, así puedes verlos a simple vista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/microsoft-deja-hacer-juegos-xbox-one-1261194'>Microsoft deja de hacer juegos para Xbox One</a></h4>
-    <a href='https://computerhoy.com/gaming/microsoft-deja-hacer-juegos-xbox-one-1261194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/xbox_one_all_digital_edition.jpg?tf=1200x' alt='Microsoft deja de hacer juegos para Xbox One' />
     </a>
 </div>
 
