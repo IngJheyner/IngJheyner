@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/productoras-cine-pelean-pantallas-imax-1261768'>Decían que el streaming televisivo era el futuro, pero ahora todos se pegan por estrenar en los cines IMAX</a></h4>
+    <h4><a href='https://computerhoy.com/gaming/viewsonic-primer-proyector-disenado-consola-1261774'>Viewsonic presenta el primer proyector diseñado para una consola</a></h4>
+    <a href='https://computerhoy.com/gaming/viewsonic-primer-proyector-disenado-consola-1261774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/proyector-xbox-3060708.jpg?tf=1200x' alt='Viewsonic presenta el primer proyector diseñado para una consola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/productoras-cine-pelean-pantallas-imax-1261768'>Decían que el streaming televisivo era el futuro, pero ahora hay tortas por estrenar en los cines IMAX</a></h4>
     <a href='https://computerhoy.com/entretenimiento/productoras-cine-pelean-pantallas-imax-1261768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/decian-streaming-televisivo-era-futuro-pero-ahora-todos-pegan-estrenar-cines-imax-3060698.jpg?tf=1200x' alt='Decían que el streaming televisivo era el futuro, pero ahora todos se pegan por estrenar en los cines IMAX' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/decian-streaming-televisivo-era-futuro-pero-ahora-todos-pegan-estrenar-cines-imax-3060698.jpg?tf=1200x' alt='Decían que el streaming televisivo era el futuro, pero ahora hay tortas por estrenar en los cines IMAX' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/brutal-respuesta-millonaria-modelo-onlyfans-te-averguenzas-pensaran-hijos-1261726'>La brutal respuesta de una millonaria modelo de Onlyfans: ¿te avergüenzas de lo que pensarán tus hijos?</a></h4>
     <a href='https://computerhoy.com/life/brutal-respuesta-millonaria-modelo-onlyfans-te-averguenzas-pensaran-hijos-1261726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/elle-brooke-3060628.jpg?tf=1200x' alt='La brutal respuesta de una millonaria modelo de Onlyfans: ¿te avergüenzas de lo que pensarán tus hijos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tienes-estos-iphone-deberias-desprenderte-ellos-antes-sea-tarde-1261756'>Si tienes uno de estos iPhone deberías desprenderte de ellos antes de que sea tarde</a></h4>
-    <a href='https://computerhoy.com/apple/tienes-estos-iphone-deberias-desprenderte-ellos-antes-sea-tarde-1261756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/iphone-x-presentacion-oficial-780254.jpg?tf=1200x' alt='Si tienes uno de estos iPhone deberías desprenderte de ellos antes de que sea tarde' />
     </a>
 </div>
 
