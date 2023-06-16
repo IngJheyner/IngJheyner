@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-motivos-puede-convertir-alternativa-apple-watch-ultra-1261192'>Huawei Watch 4 Pro: motivos por el que se puede convertir en una alternativa al Apple Watch Ultra</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-motivos-puede-convertir-alternativa-apple-watch-ultra-1261192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-watch-4-pro-3050122.jpg?tf=1200x' alt='Huawei Watch 4 Pro: motivos por el que se puede convertir en una alternativa al Apple Watch Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/curioso-truco-evitar-calambrazos-tocar-coche-1261390'>El curioso truco para evitar los calambrazos al tocar el coche</a></h4>
     <a href='https://computerhoy.com/motor/curioso-truco-evitar-calambrazos-tocar-coche-1261390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/curioso-truco-evitar-calambrazos-tocar-coche-3059958.jpg?tf=1200x' alt='El curioso truco para evitar los calambrazos al tocar el coche' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/warner-reune-peter-jackson-nuevas-peliculas-senor-anillos-1261188'>Warner ya se ha reunido con Peter Jackson para hacer más películas de El Señor de los Anillos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/warner-reune-peter-jackson-nuevas-peliculas-senor-anillos-1261188' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/warner-ya-ha-reunido-peter-jackson-hacer-peliculas-senor-anillos-3059714.jpg?tf=1200x' alt='Warner ya se ha reunido con Peter Jackson para hacer más películas de El Señor de los Anillos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-elimina-sorpresa-funciones-windows-11-1261160'>Microsoft elimina por sorpresa funciones de Windows 11 y los usuarios entran en cólera</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-elimina-sorpresa-funciones-windows-11-1261160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/enfado-3059654.jpg?tf=1200x' alt='Microsoft elimina por sorpresa funciones de Windows 11 y los usuarios entran en cólera' />
     </a>
 </div>
 
