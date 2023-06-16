@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/historia-wifi-como-hemos-llegado-aqui-1237518'>25 aniversario CH: Historia del WiFi, en 2023 tendremos WiFi 7, ¿cómo hemos llegado hasta aquí?</a></h4>
+    <a href='https://computerhoy.com/redes/historia-wifi-como-hemos-llegado-aqui-1237518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/wifi-evolucion-3055658.jpg?tf=1200x' alt='25 aniversario CH: Historia del WiFi, en 2023 tendremos WiFi 7, ¿cómo hemos llegado hasta aquí?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-motivos-puede-convertir-alternativa-apple-watch-ultra-1261192'>Huawei Watch 4 Pro: motivos por el que se puede convertir en una alternativa al Apple Watch Ultra</a></h4>
     <a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-motivos-puede-convertir-alternativa-apple-watch-ultra-1261192' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-watch-4-pro-3050122.jpg?tf=1200x' alt='Huawei Watch 4 Pro: motivos por el que se puede convertir en una alternativa al Apple Watch Ultra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/microsoft-deja-hacer-juegos-xbox-one-1261194'>Microsoft deja de hacer juegos para Xbox One</a></h4>
     <a href='https://computerhoy.com/gaming/microsoft-deja-hacer-juegos-xbox-one-1261194' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/xbox_one_all_digital_edition.jpg?tf=1200x' alt='Microsoft deja de hacer juegos para Xbox One' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/warner-reune-peter-jackson-nuevas-peliculas-senor-anillos-1261188'>Warner ya se ha reunido con Peter Jackson para hacer más películas de El Señor de los Anillos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/warner-reune-peter-jackson-nuevas-peliculas-senor-anillos-1261188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/warner-ya-ha-reunido-peter-jackson-hacer-peliculas-senor-anillos-3059714.jpg?tf=1200x' alt='Warner ya se ha reunido con Peter Jackson para hacer más películas de El Señor de los Anillos' />
     </a>
 </div>
 
