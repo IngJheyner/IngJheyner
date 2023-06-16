@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-liam-nesson-hugh-jackman-anime-1261420'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Prime Video: Liam Nesson, Hugh Jackman y una de anime</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-liam-nesson-hugh-jackman-anime-1261420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-liam-nesson-hugh-jackman-anime-3060166.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Prime Video: Liam Nesson, Hugh Jackman y una de anime' />
+    <h4><a href='https://computerhoy.com/motor/tapa-combustible-esconde-secreto-podria-salvarte-llevar-coche-taller-1258508'>La tapa de combustible esconde un secreto que podría salvarte de llevar el coche al taller</a></h4>
+    <a href='https://computerhoy.com/motor/tapa-combustible-esconde-secreto-podria-salvarte-llevar-coche-taller-1258508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tapa-deposito-combustible-3055170.jpg?tf=1200x' alt='La tapa de combustible esconde un secreto que podría salvarte de llevar el coche al taller' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/evita-playas-bandera-negra-contaminacion-mapa-google-maps-1261702'>Evita las playas con bandera negra por contaminación con este mapa en Google Maps</a></h4>
-    <a href='https://computerhoy.com/apps/evita-playas-bandera-negra-contaminacion-mapa-google-maps-1261702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/contaminacion-mar-1966699.jpg?tf=1200x' alt='Evita las playas con bandera negra por contaminación con este mapa en Google Maps' />
+    <h4><a href='https://computerhoy.com/motor/10-coches-2023-compradores-recomiendan-ojos-cerrados-1261754'>Los 10 coches de 2023 que sus compradores recomiendan con los ojos cerrados</a></h4>
+    <a href='https://computerhoy.com/motor/10-coches-2023-compradores-recomiendan-ojos-cerrados-1261754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/citroen-c4-3060680.jpg?tf=1200x' alt='Los 10 coches de 2023 que sus compradores recomiendan con los ojos cerrados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-pudo-apple-despedir-steve-jobs-aseguraba-era-mejor-habia-pasado-nunca-1261164'>Cómo pudo Apple despedir a Steve Jobs y por qué aseguraba que era lo mejor que le había pasado nunca</a></h4>
-    <a href='https://computerhoy.com/life/como-pudo-apple-despedir-steve-jobs-aseguraba-era-mejor-habia-pasado-nunca-1261164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/skyshowtime-tiene-documental-necesitas-conocer-steve-jobs-incluso-partes-malas-3019522.jpg?tf=1200x' alt='Cómo pudo Apple despedir a Steve Jobs y por qué aseguraba que era lo mejor que le había pasado nunca' />
+    <h4><a href='https://computerhoy.com/motor/tesla-compra-material-baterias-empresa-lider-corrupcion-maltrato-laboral-1261722'>Tesla compra el material para sus baterías a la empresa líder en corrupción y maltrato laboral</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-compra-material-baterias-empresa-lider-corrupcion-maltrato-laboral-1261722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/minero-3060604.jpg?tf=1200x' alt='Tesla compra el material para sus baterías a la empresa líder en corrupción y maltrato laboral' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-no-fia-ia-pide-empleados-no-usen-bard-1261676'>Google no se fia de su IA y pide a su empleados que no usen Bard</a></h4>
-    <a href='https://computerhoy.com/google/google-no-fia-ia-pide-empleados-no-usen-bard-1261676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-bard-3030292.jpg?tf=1200x' alt='Google no se fia de su IA y pide a su empleados que no usen Bard' />
+    <h4><a href='https://computerhoy.com/apple/razon-siempre-deberias-rotar-iphone-hacer-fotos-1261088'>Esta es la razón por la que siempre deberías rotar tu iPhone para hacer fotos</a></h4>
+    <a href='https://computerhoy.com/apple/razon-siempre-deberias-rotar-iphone-hacer-fotos-1261088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iphone-reves-3059572.jpg?tf=1200x' alt='Esta es la razón por la que siempre deberías rotar tu iPhone para hacer fotos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tecnologia-engano-ciberseguridad-como-funciona-1259444'>¿Qué es tecnología del engaño en ciberseguridad y cómo funciona?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tecnologia-engano-ciberseguridad-como-funciona-1259444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tecnologia-engano-3056784.jpg?tf=1200x' alt='¿Qué es tecnología del engaño en ciberseguridad y cómo funciona?' />
+    <h4><a href='https://computerhoy.com/moviles/iphone-11-camara-popular-mundo-espana-sigue-siendo-diferente-1261698'>El iPhone 11 es la cámara más popular del mundo (y sí, España sigue siendo diferente)</a></h4>
+    <a href='https://computerhoy.com/moviles/iphone-11-camara-popular-mundo-espana-sigue-siendo-diferente-1261698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/iphone-11-2412887.jpg?tf=1200x' alt='El iPhone 11 es la cámara más popular del mundo (y sí, España sigue siendo diferente)' />
     </a>
 </div>
 
