@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aplicacion-integra-chatgpt-puedas-hablar-arboles-1261542'>Esta aplicación integra ChatGPT para que puedas hablar con los árboles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aplicacion-integra-chatgpt-puedas-hablar-arboles-1261542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/aplicacion-integra-chatgpt-puedas-hablar-arboles-3060344.jpg?tf=1200x' alt='Esta aplicación integra ChatGPT para que puedas hablar con los árboles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/union-europea-quiere-acabar-drama-reparar-bateria-moviles-1261544'>La Unión Europea quiere acabar con el drama de reparar la batería de los móviles</a></h4>
+    <a href='https://computerhoy.com/moviles/union-europea-quiere-acabar-drama-reparar-bateria-moviles-1261544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/senor-cambiando-bateria-movil-2910330.jpg?tf=1200x' alt='La Unión Europea quiere acabar con el drama de reparar la batería de los móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/primeras-pruebas-reales-zapatillas-inteligentes-te-permiten-andar-250-rapido-1261510'>Primeras pruebas reales de las zapatillas inteligentes que te permiten andar hasta un 250% más rápido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primeras-pruebas-reales-zapatillas-inteligentes-te-permiten-andar-250-rapido-1261510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/primeras-pruebas-reales-zapatillas-inteligentes-te-permiten-andar-250-rapido-3060192.jpg?tf=1200x' alt='Primeras pruebas reales de las zapatillas inteligentes que te permiten andar hasta un 250% más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/redmi-a2-movil-barato-xiaomi-solo-cuesta-65-euros-aliexpress-1261112'>Batería para más de un día y pantalla grande: el móvil más barato de Xiaomi ahora apenas cuesta 65€</a></h4>
+    <a href='https://computerhoy.com/android/redmi-a2-movil-barato-xiaomi-solo-cuesta-65-euros-aliexpress-1261112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-a2-3060102.jpg?tf=1200x' alt='Batería para más de un día y pantalla grande: el móvil más barato de Xiaomi ahora apenas cuesta 65€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/extraer-agua-arie-utilizando-hidrogel-salado-como-solucion-sequia-1261466'>Extraer agua del arie utilizando un hidrogel salado como solución a la sequía</a></h4>
     <a href='https://computerhoy.com/ciencia/extraer-agua-arie-utilizando-hidrogel-salado-como-solucion-sequia-1261466' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/extraer-agua-arie-utilizando-hidrogel-salado-como-solucion-sequia-3060138.jpg?tf=1200x' alt='Extraer agua del arie utilizando un hidrogel salado como solución a la sequía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ordenador-cuantico-ibm-supera-capacidades-superordenador-esperan-sea-usado-2-anos-1261450'>El ordenador cuántico de IBM supera las capacidades de un superordenador y esperan su uso en 2 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ordenador-cuantico-ibm-supera-capacidades-superordenador-esperan-sea-usado-2-anos-1261450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ordenador-cuantico-ibm-supera-capacidades-superordenador-esperan-sea-usado-2-anos-3060110.jpg?tf=1200x' alt='El ordenador cuántico de IBM supera las capacidades de un superordenador y esperan su uso en 2 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazfit-gtr-2-66eu-aliexpress-1261426'>90 modos de entrenamiento, batería de 2 semanas y solo 66€: Amazfit GTR 2 es el chollo del día en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazfit-gtr-2-66eu-aliexpress-1261426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazfit-gtr-2-3060030.jpg?tf=1200x' alt='90 modos de entrenamiento, batería de 2 semanas y solo 66€: Amazfit GTR 2 es el chollo del día en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/motivo-esconde-detras-bloqueo-empresas-chatgpt-1261422'>Este es el motivo que se esconde detrás del bloqueo de las empresas a ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/motivo-esconde-detras-bloqueo-empresas-chatgpt-1261422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/motivo-esconde-detras-bloqueo-empresas-chatgpt-3060064.jpg?tf=1200x' alt='Este es el motivo que se esconde detrás del bloqueo de las empresas a ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/historia-wifi-como-hemos-llegado-aqui-1237518'>25 aniversario CH: Historia del WiFi, en 2023 tendremos WiFi 7, ¿cómo hemos llegado hasta aquí?</a></h4>
-    <a href='https://computerhoy.com/redes/historia-wifi-como-hemos-llegado-aqui-1237518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/wifi-evolucion-3055658.jpg?tf=1200x' alt='25 aniversario CH: Historia del WiFi, en 2023 tendremos WiFi 7, ¿cómo hemos llegado hasta aquí?' />
     </a>
 </div>
 
