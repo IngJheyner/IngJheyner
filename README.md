@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tapa-combustible-esconde-secreto-podria-salvarte-llevar-coche-taller-1258508'>La tapa de combustible esconde un secreto que podría salvarte de llevar el coche al taller</a></h4>
-    <a href='https://computerhoy.com/motor/tapa-combustible-esconde-secreto-podria-salvarte-llevar-coche-taller-1258508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tapa-deposito-combustible-3055170.jpg?tf=1200x' alt='La tapa de combustible esconde un secreto que podría salvarte de llevar el coche al taller' />
+    <h4><a href='https://computerhoy.com/entretenimiento/productoras-cine-pelean-pantallas-imax-1261768'>Decían que el streaming televisivo era el futuro, pero ahora todos se pegan por estrenar en los cines IMAX</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/productoras-cine-pelean-pantallas-imax-1261768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/decian-streaming-televisivo-era-futuro-pero-ahora-todos-pegan-estrenar-cines-imax-3060698.jpg?tf=1200x' alt='Decían que el streaming televisivo era el futuro, pero ahora todos se pegan por estrenar en los cines IMAX' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/10-coches-2023-compradores-recomiendan-ojos-cerrados-1261754'>Los 10 coches de 2023 que sus compradores recomiendan con los ojos cerrados</a></h4>
-    <a href='https://computerhoy.com/motor/10-coches-2023-compradores-recomiendan-ojos-cerrados-1261754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/citroen-c4-3060680.jpg?tf=1200x' alt='Los 10 coches de 2023 que sus compradores recomiendan con los ojos cerrados' />
+    <h4><a href='https://computerhoy.com/moviles/usuarios-android-envidian-apple-estudio-1261734'>Los usuarios de Android "envidian" a los de Apple, según este estudio</a></h4>
+    <a href='https://computerhoy.com/moviles/usuarios-android-envidian-apple-estudio-1261734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/usuarios-android-envidian-apple-estudio-3060660.jpg?tf=1200x' alt='Los usuarios de Android "envidian" a los de Apple, según este estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-compra-material-baterias-empresa-lider-corrupcion-maltrato-laboral-1261722'>Tesla compra el material para sus baterías a la empresa líder en corrupción y maltrato laboral</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-compra-material-baterias-empresa-lider-corrupcion-maltrato-laboral-1261722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/minero-3060604.jpg?tf=1200x' alt='Tesla compra el material para sus baterías a la empresa líder en corrupción y maltrato laboral' />
+    <h4><a href='https://computerhoy.com/tv/cual-diferencia-utilizar-hdmi-arc-hdmi-earc-smart-tv-1259450'>Cuál es la diferencia entre utilizar HDMI ARC o HDMI eARC en un Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/cual-diferencia-utilizar-hdmi-arc-hdmi-earc-smart-tv-1259450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hdmi-arc-earc-3056842.jpg?tf=1200x' alt='Cuál es la diferencia entre utilizar HDMI ARC o HDMI eARC en un Smart TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/razon-siempre-deberias-rotar-iphone-hacer-fotos-1261088'>Esta es la razón por la que siempre deberías rotar tu iPhone para hacer fotos</a></h4>
-    <a href='https://computerhoy.com/apple/razon-siempre-deberias-rotar-iphone-hacer-fotos-1261088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iphone-reves-3059572.jpg?tf=1200x' alt='Esta es la razón por la que siempre deberías rotar tu iPhone para hacer fotos' />
+    <h4><a href='https://computerhoy.com/life/brutal-respuesta-millonaria-modelo-onlyfans-te-averguenzas-pensaran-hijos-1261726'>La brutal respuesta de una millonaria modelo de Onlyfans: ¿te avergüenzas de lo que pensarán tus hijos?</a></h4>
+    <a href='https://computerhoy.com/life/brutal-respuesta-millonaria-modelo-onlyfans-te-averguenzas-pensaran-hijos-1261726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/elle-brooke-3060628.jpg?tf=1200x' alt='La brutal respuesta de una millonaria modelo de Onlyfans: ¿te avergüenzas de lo que pensarán tus hijos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/iphone-11-camara-popular-mundo-espana-sigue-siendo-diferente-1261698'>El iPhone 11 es la cámara más popular del mundo (y sí, España sigue siendo diferente)</a></h4>
-    <a href='https://computerhoy.com/moviles/iphone-11-camara-popular-mundo-espana-sigue-siendo-diferente-1261698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/iphone-11-2412887.jpg?tf=1200x' alt='El iPhone 11 es la cámara más popular del mundo (y sí, España sigue siendo diferente)' />
+    <h4><a href='https://computerhoy.com/apple/tienes-estos-iphone-deberias-desprenderte-ellos-antes-sea-tarde-1261756'>Si tienes uno de estos iPhone deberías desprenderte de ellos antes de que sea tarde</a></h4>
+    <a href='https://computerhoy.com/apple/tienes-estos-iphone-deberias-desprenderte-ellos-antes-sea-tarde-1261756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/iphone-x-presentacion-oficial-780254.jpg?tf=1200x' alt='Si tienes uno de estos iPhone deberías desprenderte de ellos antes de que sea tarde' />
     </a>
 </div>
 
