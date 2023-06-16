@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aplicacion-integra-chatgpt-puedas-hablar-arboles-1261542'>Esta aplicación integra ChatGPT para que puedas hablar con los árboles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aplicacion-integra-chatgpt-puedas-hablar-arboles-1261542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/aplicacion-integra-chatgpt-puedas-hablar-arboles-3060344.jpg?tf=1200x' alt='Esta aplicación integra ChatGPT para que puedas hablar con los árboles' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-liam-nesson-hugh-jackman-anime-1261420'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Prime Video: Liam Nesson, Hugh Jackman y una de anime</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-liam-nesson-hugh-jackman-anime-1261420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/peliculas-ver-fin-semana-netflix-movistar-plus-prime-video-liam-nesson-hugh-jackman-anime-3060166.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y Prime Video: Liam Nesson, Hugh Jackman y una de anime' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/union-europea-quiere-acabar-drama-reparar-bateria-moviles-1261544'>La Unión Europea quiere acabar con el drama de reparar la batería de los móviles</a></h4>
-    <a href='https://computerhoy.com/moviles/union-europea-quiere-acabar-drama-reparar-bateria-moviles-1261544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/senor-cambiando-bateria-movil-2910330.jpg?tf=1200x' alt='La Unión Europea quiere acabar con el drama de reparar la batería de los móviles' />
+    <h4><a href='https://computerhoy.com/apps/evita-playas-bandera-negra-contaminacion-mapa-google-maps-1261702'>Evita las playas con bandera negra por contaminación con este mapa en Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/evita-playas-bandera-negra-contaminacion-mapa-google-maps-1261702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/contaminacion-mar-1966699.jpg?tf=1200x' alt='Evita las playas con bandera negra por contaminación con este mapa en Google Maps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primeras-pruebas-reales-zapatillas-inteligentes-te-permiten-andar-250-rapido-1261510'>Primeras pruebas reales de las zapatillas inteligentes que te permiten andar hasta un 250% más rápido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primeras-pruebas-reales-zapatillas-inteligentes-te-permiten-andar-250-rapido-1261510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/primeras-pruebas-reales-zapatillas-inteligentes-te-permiten-andar-250-rapido-3060192.jpg?tf=1200x' alt='Primeras pruebas reales de las zapatillas inteligentes que te permiten andar hasta un 250% más rápido' />
+    <h4><a href='https://computerhoy.com/life/como-pudo-apple-despedir-steve-jobs-aseguraba-era-mejor-habia-pasado-nunca-1261164'>Cómo pudo Apple despedir a Steve Jobs y por qué aseguraba que era lo mejor que le había pasado nunca</a></h4>
+    <a href='https://computerhoy.com/life/como-pudo-apple-despedir-steve-jobs-aseguraba-era-mejor-habia-pasado-nunca-1261164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/skyshowtime-tiene-documental-necesitas-conocer-steve-jobs-incluso-partes-malas-3019522.jpg?tf=1200x' alt='Cómo pudo Apple despedir a Steve Jobs y por qué aseguraba que era lo mejor que le había pasado nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/redmi-a2-movil-barato-xiaomi-solo-cuesta-65-euros-aliexpress-1261112'>Batería para más de un día y pantalla grande: el móvil más barato de Xiaomi ahora apenas cuesta 65€</a></h4>
-    <a href='https://computerhoy.com/android/redmi-a2-movil-barato-xiaomi-solo-cuesta-65-euros-aliexpress-1261112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-a2-3060102.jpg?tf=1200x' alt='Batería para más de un día y pantalla grande: el móvil más barato de Xiaomi ahora apenas cuesta 65€' />
+    <h4><a href='https://computerhoy.com/google/google-no-fia-ia-pide-empleados-no-usen-bard-1261676'>Google no se fia de su IA y pide a su empleados que no usen Bard</a></h4>
+    <a href='https://computerhoy.com/google/google-no-fia-ia-pide-empleados-no-usen-bard-1261676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-bard-3030292.jpg?tf=1200x' alt='Google no se fia de su IA y pide a su empleados que no usen Bard' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/extraer-agua-arie-utilizando-hidrogel-salado-como-solucion-sequia-1261466'>Extraer agua del arie utilizando un hidrogel salado como solución a la sequía</a></h4>
-    <a href='https://computerhoy.com/ciencia/extraer-agua-arie-utilizando-hidrogel-salado-como-solucion-sequia-1261466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/extraer-agua-arie-utilizando-hidrogel-salado-como-solucion-sequia-3060138.jpg?tf=1200x' alt='Extraer agua del arie utilizando un hidrogel salado como solución a la sequía' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/tecnologia-engano-ciberseguridad-como-funciona-1259444'>¿Qué es tecnología del engaño en ciberseguridad y cómo funciona?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tecnologia-engano-ciberseguridad-como-funciona-1259444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tecnologia-engano-3056784.jpg?tf=1200x' alt='¿Qué es tecnología del engaño en ciberseguridad y cómo funciona?' />
     </a>
 </div>
 
