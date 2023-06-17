@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-dira-adios-dos-aplicaciones-populares-windows-nuevo-outlook-1262012'>Microsoft dirá adiós a dos de las aplicaciones más populares de Windows por el nuevo Outlook</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-dira-adios-dos-aplicaciones-populares-windows-nuevo-outlook-1262012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/correo-electronico-outlook-3003844.jpg?tf=1200x' alt='Microsoft dirá adiós a dos de las aplicaciones más populares de Windows por el nuevo Outlook' />
+    <h4><a href='https://computerhoy.com/ciencia/neuralink-comenzaria-pruebas-humanos-antes-finales-ano-1262028'>Neuralink comenzaría sus pruebas en humanos antes de finales de año</a></h4>
+    <a href='https://computerhoy.com/ciencia/neuralink-comenzaria-pruebas-humanos-antes-finales-ano-1262028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-neuralink-2889316.jpg?tf=1200x' alt='Neuralink comenzaría sus pruebas en humanos antes de finales de año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/memoria-ram-ram-rapida-1251478'>¿Más memoria RAM o una RAM más rápida?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/memoria-ram-ram-rapida-1251478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tipos-memoria-ram-2419843.jpg?tf=1200x' alt='¿Más memoria RAM o una RAM más rápida?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/5-cosas-jamas-deberias-buscar-google-no-ser-estafado-ciberdelincuentes-1262024'>5 cosas que jamás deberías buscar en Google para no ser estafado por los ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/5-cosas-jamas-deberias-buscar-google-no-ser-estafado-ciberdelincuentes-1262024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/buscador-google-3026692.jpg?tf=1200x' alt='5 cosas que jamás deberías buscar en Google para no ser estafado por los ciberdelincuentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-apuesta-realidad-virtual-posibilidad-vincular-nuevo-dispositivo-1261996'>WhatsApp apuesta por la realidad virtual con la posibilidad de vincular este nuevo dispositivo</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-apuesta-realidad-virtual-posibilidad-vincular-nuevo-dispositivo-1261996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/whatsapp-realidad-virtual-3061006.jpg?tf=1200x' alt='WhatsApp apuesta por la realidad virtual con la posibilidad de vincular este nuevo dispositivo' />
+    <h4><a href='https://computerhoy.com/hogar/productos-montar-casa-inteligente-1261958'>Casas inteligentes: los 10 productos básicos que deberías tener</a></h4>
+    <a href='https://computerhoy.com/hogar/productos-montar-casa-inteligente-1261958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/smart-home.jpg?tf=1200x' alt='Casas inteligentes: los 10 productos básicos que deberías tener' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/confuso-aviso-google-podria-hacerte-perder-antiguas-fotografias-estos-servicios-1261988'>El confuso aviso de Google que podría hacerte perder tus antiguas fotografías de estos servicios</a></h4>
-    <a href='https://computerhoy.com/google/confuso-aviso-google-podria-hacerte-perder-antiguas-fotografias-estos-servicios-1261988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/picasa-2960590.jpg?tf=1200x' alt='El confuso aviso de Google que podría hacerte perder tus antiguas fotografías de estos servicios' />
+    <h4><a href='https://computerhoy.com/apple/iphone-materiales-espaciales-acabar-fundas-movil-siempre-1261954'>Apple trabaja en un iPhone irrompible con materiales espaciales, para acabar con las fundas de móvil</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-materiales-espaciales-acabar-fundas-movil-siempre-1261954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-trabaja-tecnologia-acabar-fundas-movil-siempre-3060886.jpg?tf=1200x' alt='Apple trabaja en un iPhone irrompible con materiales espaciales, para acabar con las fundas de móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/compra-samsung-galaxy-z-flip4-smart-tv-regalo-1261170'>Con la compra de un Samsung Galaxy Z Flip4 te llevas Smart TV de 55" gratis con esta promoción</a></h4>
-    <a href='https://computerhoy.com/moviles/compra-samsung-galaxy-z-flip4-smart-tv-regalo-1261170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/z-flip-4-tele-regalo-3059690.jpg?tf=1200x' alt='Con la compra de un Samsung Galaxy Z Flip4 te llevas Smart TV de 55" gratis con esta promoción' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/malware-afecta-millones-moviles-android-capaz-robar-mensajes-whatsapp-1262020'>Malware que afecta a millones de móviles Android es capaz de robar tus mensajes de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/malware-afecta-millones-moviles-android-capaz-robar-mensajes-whatsapp-1262020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/malware-android-2865655.jpg?tf=1200x' alt='Malware que afecta a millones de móviles Android es capaz de robar tus mensajes de WhatsApp' />
     </a>
 </div>
 
