@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/73-chistes-infantiles-ninos-consigue-rian-parar-1253344'>73 chistes infantiles para que los niños rían sin parar</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/73-chistes-infantiles-ninos-consigue-rian-parar-1253344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chistes-infantiles-ninos-3059196.jpg?tf=1200x' alt='73 chistes infantiles para que los niños rían sin parar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/tres-consejos-indispensables-evitar-router-estropee-calor-1262054'>Los tres consejos indispensables para evitar que tu router se estropee por el calor</a></h4>
+    <a href='https://computerhoy.com/redes/tres-consejos-indispensables-evitar-router-estropee-calor-1262054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/router-2835351.jpg?tf=1200x' alt='Los tres consejos indispensables para evitar que tu router se estropee por el calor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/ultima-amenaza-grupos-delincuentes-han-propuesto-acabar-banca-europea-1262046'>La última amenaza de grupos de delincuentes que se han propuesto acabar con la banca europea</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ultima-amenaza-grupos-delincuentes-han-propuesto-acabar-banca-europea-1262046' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ciberdelincuentes-3061038.jpg?tf=1200x' alt='La última amenaza de grupos de delincuentes que se han propuesto acabar con la banca europea' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/5-cosas-jamas-deberias-buscar-google-no-ser-estafado-ciberdelincuentes-1262024'>5 cosas que jamás deberías buscar en Google para no ser estafado por los ciberdelincuentes</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/5-cosas-jamas-deberias-buscar-google-no-ser-estafado-ciberdelincuentes-1262024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/buscador-google-3026692.jpg?tf=1200x' alt='5 cosas que jamás deberías buscar en Google para no ser estafado por los ciberdelincuentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/productos-montar-casa-inteligente-1261958'>Casas inteligentes: los 10 productos básicos que deberías tener</a></h4>
-    <a href='https://computerhoy.com/hogar/productos-montar-casa-inteligente-1261958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/smart-home.jpg?tf=1200x' alt='Casas inteligentes: los 10 productos básicos que deberías tener' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-materiales-espaciales-acabar-fundas-movil-siempre-1261954'>Apple trabaja en un iPhone irrompible con materiales espaciales, para acabar con las fundas de móvil</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-materiales-espaciales-acabar-fundas-movil-siempre-1261954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-trabaja-tecnologia-acabar-fundas-movil-siempre-3060886.jpg?tf=1200x' alt='Apple trabaja en un iPhone irrompible con materiales espaciales, para acabar con las fundas de móvil' />
     </a>
 </div>
 
