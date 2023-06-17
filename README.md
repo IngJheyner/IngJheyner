@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-proteger-archivos-antes-subirlos-google-drive-1257628'>Cómo proteger tus archivos antes de subirlos a Google Drive</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-proteger-archivos-antes-subirlos-google-drive-1257628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenador-google-drive-2876797.jpg?tf=1200x' alt='Cómo proteger tus archivos antes de subirlos a Google Drive' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-dira-adios-dos-aplicaciones-populares-windows-nuevo-outlook-1262012'>Microsoft dirá adiós a dos de las aplicaciones más populares de Windows por el nuevo Outlook</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-dira-adios-dos-aplicaciones-populares-windows-nuevo-outlook-1262012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/correo-electronico-outlook-3003844.jpg?tf=1200x' alt='Microsoft dirá adiós a dos de las aplicaciones más populares de Windows por el nuevo Outlook' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/viejo-truco-zoom-google-maps-sorprendentemente-casi-nadie-conoce-1258310'>El viejo truco del zoom de Google Maps que sorprendentemente casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/tutoriales/viejo-truco-zoom-google-maps-sorprendentemente-casi-nadie-conoce-1258310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-maps-3060322.jpg?tf=1200x' alt='El viejo truco del zoom de Google Maps que sorprendentemente casi nadie conoce' />
+    <h4><a href='https://computerhoy.com/tecnologia/memoria-ram-ram-rapida-1251478'>¿Más memoria RAM o una RAM más rápida?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/memoria-ram-ram-rapida-1251478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tipos-memoria-ram-2419843.jpg?tf=1200x' alt='¿Más memoria RAM o una RAM más rápida?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/espana-podria-vivir-solo-energia-renovable-1259430'>¿Podría vivir España solo de energía renovable? Esto es lo que opinan los expertos</a></h4>
-    <a href='https://computerhoy.com/energia/espana-podria-vivir-solo-energia-renovable-1259430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/espana-podria-vivir-solo-energia-renovable-opinan-expertos-3057776.jpg?tf=1200x' alt='¿Podría vivir España solo de energía renovable? Esto es lo que opinan los expertos' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-apuesta-realidad-virtual-posibilidad-vincular-nuevo-dispositivo-1261996'>WhatsApp apuesta por la realidad virtual con la posibilidad de vincular este nuevo dispositivo</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-apuesta-realidad-virtual-posibilidad-vincular-nuevo-dispositivo-1261996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/whatsapp-realidad-virtual-3061006.jpg?tf=1200x' alt='WhatsApp apuesta por la realidad virtual con la posibilidad de vincular este nuevo dispositivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nueva-era-gaming-mac-1260356'>Este es el año de los juegos en Mac (si se alinean los astros, que serían muchos)</a></h4>
-    <a href='https://computerhoy.com/apple/nueva-era-gaming-mac-1260356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/juegos-aaa-apple-3058272.jpg?tf=1200x' alt='Este es el año de los juegos en Mac (si se alinean los astros, que serían muchos)' />
+    <h4><a href='https://computerhoy.com/google/confuso-aviso-google-podria-hacerte-perder-antiguas-fotografias-estos-servicios-1261988'>El confuso aviso de Google que podría hacerte perder tus antiguas fotografías de estos servicios</a></h4>
+    <a href='https://computerhoy.com/google/confuso-aviso-google-podria-hacerte-perder-antiguas-fotografias-estos-servicios-1261988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/picasa-2960590.jpg?tf=1200x' alt='El confuso aviso de Google que podría hacerte perder tus antiguas fotografías de estos servicios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/no-tires-hebras-platanos-bananas-tienen-utilidad-1259680'>No se te ocurra tirar las hebras de los plátanos o las bananas, tienen una utilidad</a></h4>
-    <a href='https://computerhoy.com/alimentacion/no-tires-hebras-platanos-bananas-tienen-utilidad-1259680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/no-te-ocurra-tirar-hebras-platanos-bananas-tienen-utilidad-3057094.jpg?tf=1200x' alt='No se te ocurra tirar las hebras de los plátanos o las bananas, tienen una utilidad' />
+    <h4><a href='https://computerhoy.com/moviles/compra-samsung-galaxy-z-flip4-smart-tv-regalo-1261170'>Con la compra de un Samsung Galaxy Z Flip4 te llevas Smart TV de 55" gratis con esta promoción</a></h4>
+    <a href='https://computerhoy.com/moviles/compra-samsung-galaxy-z-flip4-smart-tv-regalo-1261170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/z-flip-4-tele-regalo-3059690.jpg?tf=1200x' alt='Con la compra de un Samsung Galaxy Z Flip4 te llevas Smart TV de 55" gratis con esta promoción' />
     </a>
 </div>
 
