@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-proteger-archivos-antes-subirlos-google-drive-1257628'>Cómo proteger tus archivos antes de subirlos a Google Drive</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-proteger-archivos-antes-subirlos-google-drive-1257628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenador-google-drive-2876797.jpg?tf=1200x' alt='Cómo proteger tus archivos antes de subirlos a Google Drive' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/viejo-truco-zoom-google-maps-sorprendentemente-casi-nadie-conoce-1258310'>El viejo truco del zoom de Google Maps que sorprendentemente casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/tutoriales/viejo-truco-zoom-google-maps-sorprendentemente-casi-nadie-conoce-1258310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-maps-3060322.jpg?tf=1200x' alt='El viejo truco del zoom de Google Maps que sorprendentemente casi nadie conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/espana-podria-vivir-solo-energia-renovable-1259430'>¿Podría vivir España solo de energía renovable? Esto es lo que opinan los expertos</a></h4>
+    <a href='https://computerhoy.com/energia/espana-podria-vivir-solo-energia-renovable-1259430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/espana-podria-vivir-solo-energia-renovable-opinan-expertos-3057776.jpg?tf=1200x' alt='¿Podría vivir España solo de energía renovable? Esto es lo que opinan los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/nueva-era-gaming-mac-1260356'>Este es el año de los juegos en Mac (si se alinean los astros, que serían muchos)</a></h4>
     <a href='https://computerhoy.com/apple/nueva-era-gaming-mac-1260356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/juegos-aaa-apple-3058272.jpg?tf=1200x' alt='Este es el año de los juegos en Mac (si se alinean los astros, que serían muchos)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/no-tires-hebras-platanos-bananas-tienen-utilidad-1259680'>No se te ocurra tirar las hebras de los plátanos o las bananas, tienen una utilidad</a></h4>
     <a href='https://computerhoy.com/alimentacion/no-tires-hebras-platanos-bananas-tienen-utilidad-1259680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/no-te-ocurra-tirar-hebras-platanos-bananas-tienen-utilidad-3057094.jpg?tf=1200x' alt='No se te ocurra tirar las hebras de los plátanos o las bananas, tienen una utilidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/paleontologia-web-apple-manzana-cambio-historia-1240828'>La manzana que cambió la historia: así ha evolucionado Apple con el paso del tiempo, un viaje a través de su web</a></h4>
-    <a href='https://computerhoy.com/apple/paleontologia-web-apple-manzana-cambio-historia-1240828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/paleontologia-web-apple-historia-steve-jobs-tim-cook-3048282.jpg?tf=1200x' alt='La manzana que cambió la historia: así ha evolucionado Apple con el paso del tiempo, un viaje a través de su web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nueva-teoria-muerte-tutankamon-desata-polemica-1260864'>Una nueva teoría sobre la "moderna" muerte de Tutankamón desata la polémica</a></h4>
-    <a href='https://computerhoy.com/ciencia/nueva-teoria-muerte-tutankamon-desata-polemica-1260864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nueva-teoria-moderna-muerte-tutankamon-desata-polemica-3059050.jpg?tf=1200x' alt='Una nueva teoría sobre la "moderna" muerte de Tutankamón desata la polémica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/moviles-menos-100-euros-1261448'>Móviles de menos de 100€: cuáles son las mejores opciones baratas</a></h4>
-    <a href='https://computerhoy.com/mejores/moviles-menos-100-euros-1261448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pantalla-redmi-note-12-2991768.jpg?tf=1200x' alt='Móviles de menos de 100€: cuáles son las mejores opciones baratas' />
     </a>
 </div>
 
