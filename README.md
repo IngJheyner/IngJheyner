@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/chicken-orb-jaulas-esfericas-gallinas-1261948'>Las redes en shock al descubrir que estas jaulas esféricas para gallinas están a la venta (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/chicken-orb-jaulas-esfericas-gallinas-1261948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1686963167469-3060880.jpg?tf=1200x' alt='Las redes en shock al descubrir que estas jaulas esféricas para gallinas están a la venta (vídeo)' />
+    <h4><a href='https://computerhoy.com/apple/nueva-era-gaming-mac-1260356'>Este es el año de los juegos en Mac (si se alinean los astros, que serían muchos)</a></h4>
+    <a href='https://computerhoy.com/apple/nueva-era-gaming-mac-1260356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/juegos-aaa-apple-3058272.jpg?tf=1200x' alt='Este es el año de los juegos en Mac (si se alinean los astros, que serían muchos)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/encuentran-espada-bronce-hace-3000-anos-complemente-intacta-1261782'>Encuentran en Alemania una espada de hace 3.000 años complemente intacta</a></h4>
-    <a href='https://computerhoy.com/life/encuentran-espada-bronce-hace-3000-anos-complemente-intacta-1261782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/encuentran-alemania-espada-hace-3000-anos-complemente-intacta-3060718.jpg?tf=1200x' alt='Encuentran en Alemania una espada de hace 3.000 años complemente intacta' />
+    <h4><a href='https://computerhoy.com/alimentacion/no-tires-hebras-platanos-bananas-tienen-utilidad-1259680'>No se te ocurra tirar las hebras de los plátanos o las bananas, tienen una utilidad</a></h4>
+    <a href='https://computerhoy.com/alimentacion/no-tires-hebras-platanos-bananas-tienen-utilidad-1259680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/no-te-ocurra-tirar-hebras-platanos-bananas-tienen-utilidad-3057094.jpg?tf=1200x' alt='No se te ocurra tirar las hebras de los plátanos o las bananas, tienen una utilidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/viewsonic-primer-proyector-disenado-consola-1261774'>Viewsonic presenta el primer proyector diseñado para una consola</a></h4>
-    <a href='https://computerhoy.com/gaming/viewsonic-primer-proyector-disenado-consola-1261774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/proyector-xbox-3060708.jpg?tf=1200x' alt='Viewsonic presenta el primer proyector diseñado para una consola' />
+    <h4><a href='https://computerhoy.com/apple/paleontologia-web-apple-manzana-cambio-historia-1240828'>La manzana que cambió la historia: así ha evolucionado Apple con el paso del tiempo, un viaje a través de su web</a></h4>
+    <a href='https://computerhoy.com/apple/paleontologia-web-apple-manzana-cambio-historia-1240828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/paleontologia-web-apple-historia-steve-jobs-tim-cook-3048282.jpg?tf=1200x' alt='La manzana que cambió la historia: así ha evolucionado Apple con el paso del tiempo, un viaje a través de su web' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/productoras-cine-pelean-pantallas-imax-1261768'>Decían que el streaming televisivo era el futuro, pero ahora hay tortas por estrenar en los cines IMAX</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/productoras-cine-pelean-pantallas-imax-1261768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/decian-streaming-televisivo-era-futuro-pero-ahora-todos-pegan-estrenar-cines-imax-3060698.jpg?tf=1200x' alt='Decían que el streaming televisivo era el futuro, pero ahora hay tortas por estrenar en los cines IMAX' />
+    <h4><a href='https://computerhoy.com/ciencia/nueva-teoria-muerte-tutankamon-desata-polemica-1260864'>Una nueva teoría sobre la "moderna" muerte de Tutankamón desata la polémica</a></h4>
+    <a href='https://computerhoy.com/ciencia/nueva-teoria-muerte-tutankamon-desata-polemica-1260864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nueva-teoria-moderna-muerte-tutankamon-desata-polemica-3059050.jpg?tf=1200x' alt='Una nueva teoría sobre la "moderna" muerte de Tutankamón desata la polémica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/usuarios-android-envidian-apple-estudio-1261734'>Los usuarios de Android "envidian" a los de Apple, según este estudio</a></h4>
-    <a href='https://computerhoy.com/moviles/usuarios-android-envidian-apple-estudio-1261734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/usuarios-android-envidian-apple-estudio-3060660.jpg?tf=1200x' alt='Los usuarios de Android "envidian" a los de Apple, según este estudio' />
+    <h4><a href='https://computerhoy.com/mejores/moviles-menos-100-euros-1261448'>Móviles de menos de 100€: cuáles son las mejores opciones baratas</a></h4>
+    <a href='https://computerhoy.com/mejores/moviles-menos-100-euros-1261448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/pantalla-redmi-note-12-2991768.jpg?tf=1200x' alt='Móviles de menos de 100€: cuáles son las mejores opciones baratas' />
     </a>
 </div>
 
