@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/encuentran-espada-bronce-hace-3000-anos-complemente-intacta-1261782'>Encuentran en Alemania una espada de hace 3.000 años complemente intacta</a></h4>
+    <a href='https://computerhoy.com/life/encuentran-espada-bronce-hace-3000-anos-complemente-intacta-1261782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/encuentran-alemania-espada-hace-3000-anos-complemente-intacta-3060718.jpg?tf=1200x' alt='Encuentran en Alemania una espada de hace 3.000 años complemente intacta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/viewsonic-primer-proyector-disenado-consola-1261774'>Viewsonic presenta el primer proyector diseñado para una consola</a></h4>
     <a href='https://computerhoy.com/gaming/viewsonic-primer-proyector-disenado-consola-1261774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/proyector-xbox-3060708.jpg?tf=1200x' alt='Viewsonic presenta el primer proyector diseñado para una consola' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/cual-diferencia-utilizar-hdmi-arc-hdmi-earc-smart-tv-1259450'>Cuál es la diferencia entre utilizar HDMI ARC o HDMI eARC en un Smart TV</a></h4>
     <a href='https://computerhoy.com/tv/cual-diferencia-utilizar-hdmi-arc-hdmi-earc-smart-tv-1259450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hdmi-arc-earc-3056842.jpg?tf=1200x' alt='Cuál es la diferencia entre utilizar HDMI ARC o HDMI eARC en un Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/brutal-respuesta-millonaria-modelo-onlyfans-te-averguenzas-pensaran-hijos-1261726'>La brutal respuesta de una millonaria modelo de Onlyfans: ¿te avergüenzas de lo que pensarán tus hijos?</a></h4>
-    <a href='https://computerhoy.com/life/brutal-respuesta-millonaria-modelo-onlyfans-te-averguenzas-pensaran-hijos-1261726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/elle-brooke-3060628.jpg?tf=1200x' alt='La brutal respuesta de una millonaria modelo de Onlyfans: ¿te avergüenzas de lo que pensarán tus hijos?' />
     </a>
 </div>
 
