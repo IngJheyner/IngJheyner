@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/73-chistes-infantiles-ninos-consigue-rian-parar-1253344'>73 chistes infantiles para que los niños rían sin parar</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/73-chistes-infantiles-ninos-consigue-rian-parar-1253344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chistes-infantiles-ninos-3059196.jpg?tf=1200x' alt='73 chistes infantiles para que los niños rían sin parar' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-robot-puede-plegarse-como-fuera-mueble-ikea-1262052'>Crean un robot que puede plegarse como si fuera un mueble de Ikea</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-robot-puede-plegarse-como-fuera-mueble-ikea-1262052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/crean-robot-puede-plegarse-como-fuera-mueble-ikea-3061044.jpg?tf=1200x' alt='Crean un robot que puede plegarse como si fuera un mueble de Ikea' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/tres-consejos-indispensables-evitar-router-estropee-calor-1262054'>Los tres consejos indispensables para evitar que tu router se estropee por el calor</a></h4>
-    <a href='https://computerhoy.com/redes/tres-consejos-indispensables-evitar-router-estropee-calor-1262054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/router-2835351.jpg?tf=1200x' alt='Los tres consejos indispensables para evitar que tu router se estropee por el calor' />
+    <h4><a href='https://computerhoy.com/moviles/3-consejos-hacer-foto-perfecta-trabajador-leica-1260566'>3 consejos para hacer la foto perfecta, según Pablo Acevedo, responsable de Desarrollo e Ingeniería Móvil de Leica</a></h4>
+    <a href='https://computerhoy.com/moviles/3-consejos-hacer-foto-perfecta-trabajador-leica-1260566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pablo-acevedo-leica-3059096.jpg?tf=1200x' alt='3 consejos para hacer la foto perfecta, según Pablo Acevedo, responsable de Desarrollo e Ingeniería Móvil de Leica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ultima-amenaza-grupos-delincuentes-han-propuesto-acabar-banca-europea-1262046'>La última amenaza de grupos de delincuentes que se han propuesto acabar con la banca europea</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ultima-amenaza-grupos-delincuentes-han-propuesto-acabar-banca-europea-1262046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ciberdelincuentes-3061038.jpg?tf=1200x' alt='La última amenaza de grupos de delincuentes que se han propuesto acabar con la banca europea' />
+    <h4><a href='https://computerhoy.com/life/que-hay-dentro-torre-pisa-1260278'>No te vas a creer lo que hay dentro de la Torre de Pisa</a></h4>
+    <a href='https://computerhoy.com/life/que-hay-dentro-torre-pisa-1260278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/no-te-vas-creer-hay-dentro-torre-pisa-3058064.jpg?tf=1200x' alt='No te vas a creer lo que hay dentro de la Torre de Pisa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/neuralink-comenzaria-pruebas-humanos-antes-finales-ano-1262028'>Neuralink comenzaría sus pruebas en humanos antes de finales de año</a></h4>
-    <a href='https://computerhoy.com/ciencia/neuralink-comenzaria-pruebas-humanos-antes-finales-ano-1262028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-neuralink-2889316.jpg?tf=1200x' alt='Neuralink comenzaría sus pruebas en humanos antes de finales de año' />
+    <h4><a href='https://computerhoy.com/life/no-buena-idea-dejes-encendido-ventilador-toda-noche-durante-verano-expertos-1262050'>No es una buena idea que dejes encendido el ventilador toda la noche durante el verano, según los expertos</a></h4>
+    <a href='https://computerhoy.com/life/no-buena-idea-dejes-encendido-ventilador-toda-noche-durante-verano-expertos-1262050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ventilador-3061040.jpg?tf=1200x' alt='No es una buena idea que dejes encendido el ventilador toda la noche durante el verano, según los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/5-cosas-jamas-deberias-buscar-google-no-ser-estafado-ciberdelincuentes-1262024'>5 cosas que jamás deberías buscar en Google para no ser estafado por los ciberdelincuentes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/5-cosas-jamas-deberias-buscar-google-no-ser-estafado-ciberdelincuentes-1262024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/buscador-google-3026692.jpg?tf=1200x' alt='5 cosas que jamás deberías buscar en Google para no ser estafado por los ciberdelincuentes' />
+    <h4><a href='https://computerhoy.com/life/huawei-band-8-pulsera-actividad-caracteristicas-precio-1261978'>5 motivos por los que merece la pena Huawei Band 8 frente a Xiaomi y otras marcas</a></h4>
+    <a href='https://computerhoy.com/life/huawei-band-8-pulsera-actividad-caracteristicas-precio-1261978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/5-motivos-merece-pena-huawei-band-8-frente-xiaomi-otras-marcas-3060912.jpg?tf=1200x' alt='5 motivos por los que merece la pena Huawei Band 8 frente a Xiaomi y otras marcas' />
     </a>
 </div>
 
