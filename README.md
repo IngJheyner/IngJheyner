@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/he-probado-crear-nuevo-logo-computer-hoy-ia-fin-disenadores-humanos-1261416'>He probado a crear un nuevo logo para Computer Hoy con IA: ¿es este el fin de los diseñadores humanos?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-probado-crear-nuevo-logo-computer-hoy-ia-fin-disenadores-humanos-1261416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/he-probado-crear-nuevo-logo-computer-hoy-ia-fin-disenadores-humanos-3060330.jpg?tf=1200x' alt='He probado a crear un nuevo logo para Computer Hoy con IA: ¿es este el fin de los diseñadores humanos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-plagio-tfg-amigo-enemigo-opinan-expertos-1259428'>ChatGPT y el plagio en los TFG: ¿amigo o enemigo? esto opinan los expertos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-plagio-tfg-amigo-enemigo-opinan-expertos-1259428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-plagio-tfg-amigo-enemigo-opinan-expertos-3056770.jpg?tf=1200x' alt='ChatGPT y el plagio en los TFG: ¿amigo o enemigo? esto opinan los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/contrata-ladron-robar-1500-cartas-pokemon-algo-sale-mal-1261394'>Contrata a un ladrón en Twitter para robar 1.500 cartas de Pokémon, pero todo se tuerce... para el ladrón</a></h4>
+    <a href='https://computerhoy.com/life/contrata-ladron-robar-1500-cartas-pokemon-algo-sale-mal-1261394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/cartas-pokemon.jpg?tf=1200x' alt='Contrata a un ladrón en Twitter para robar 1.500 cartas de Pokémon, pero todo se tuerce... para el ladrón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/inteligencia-fuentes-abiertas-osint-1250522'>¿Qué es la Inteligencia de Fuentes Abiertas (OSINT)?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/inteligencia-fuentes-abiertas-osint-1250522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1686909157673-3060266.jpg?tf=1200x' alt='¿Qué es la Inteligencia de Fuentes Abiertas (OSINT)?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/crean-robot-puede-plegarse-como-fuera-mueble-ikea-1262052'>Crean un robot que puede plegarse como si fuera un mueble de Ikea</a></h4>
     <a href='https://computerhoy.com/ciencia/crean-robot-puede-plegarse-como-fuera-mueble-ikea-1262052' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/crean-robot-puede-plegarse-como-fuera-mueble-ikea-3061044.jpg?tf=1200x' alt='Crean un robot que puede plegarse como si fuera un mueble de Ikea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/3-consejos-hacer-foto-perfecta-trabajador-leica-1260566'>3 consejos para hacer la foto perfecta, según Pablo Acevedo, responsable de Desarrollo e Ingeniería Móvil de Leica</a></h4>
-    <a href='https://computerhoy.com/moviles/3-consejos-hacer-foto-perfecta-trabajador-leica-1260566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pablo-acevedo-leica-3059096.jpg?tf=1200x' alt='3 consejos para hacer la foto perfecta, según Pablo Acevedo, responsable de Desarrollo e Ingeniería Móvil de Leica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/que-hay-dentro-torre-pisa-1260278'>No te vas a creer lo que hay dentro de la Torre de Pisa</a></h4>
-    <a href='https://computerhoy.com/life/que-hay-dentro-torre-pisa-1260278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/no-te-vas-creer-hay-dentro-torre-pisa-3058064.jpg?tf=1200x' alt='No te vas a creer lo que hay dentro de la Torre de Pisa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/no-buena-idea-dejes-encendido-ventilador-toda-noche-durante-verano-expertos-1262050'>No es una buena idea que dejes encendido el ventilador toda la noche durante el verano, según los expertos</a></h4>
-    <a href='https://computerhoy.com/life/no-buena-idea-dejes-encendido-ventilador-toda-noche-durante-verano-expertos-1262050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ventilador-3061040.jpg?tf=1200x' alt='No es una buena idea que dejes encendido el ventilador toda la noche durante el verano, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/huawei-band-8-pulsera-actividad-caracteristicas-precio-1261978'>5 motivos por los que merece la pena Huawei Band 8 frente a Xiaomi y otras marcas</a></h4>
-    <a href='https://computerhoy.com/life/huawei-band-8-pulsera-actividad-caracteristicas-precio-1261978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/5-motivos-merece-pena-huawei-band-8-frente-xiaomi-otras-marcas-3060912.jpg?tf=1200x' alt='5 motivos por los que merece la pena Huawei Band 8 frente a Xiaomi y otras marcas' />
     </a>
 </div>
 
