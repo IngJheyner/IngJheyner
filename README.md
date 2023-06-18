@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-probado-crear-nuevo-logo-computer-hoy-ia-fin-disenadores-humanos-1261416'>He probado a crear un nuevo logo para Computer Hoy con IA: ¿es este el fin de los diseñadores humanos?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-probado-crear-nuevo-logo-computer-hoy-ia-fin-disenadores-humanos-1261416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/he-probado-crear-nuevo-logo-computer-hoy-ia-fin-disenadores-humanos-3060330.jpg?tf=1200x' alt='He probado a crear un nuevo logo para Computer Hoy con IA: ¿es este el fin de los diseñadores humanos?' />
+    <h4><a href='https://computerhoy.com/apple/apple-imagina-futuro-apple-watch-pantalla-envolvente-flexible-1262324'>Apple imagina un futuro Apple Watch con una pantalla envolvente flexible</a></h4>
+    <a href='https://computerhoy.com/apple/apple-imagina-futuro-apple-watch-pantalla-envolvente-flexible-1262324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/AppleWatchseries8analisisyopinion_16656164573641096.jpg?tf=1200x' alt='Apple imagina un futuro Apple Watch con una pantalla envolvente flexible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-plagio-tfg-amigo-enemigo-opinan-expertos-1259428'>ChatGPT y el plagio en los TFG: ¿amigo o enemigo? esto opinan los expertos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-plagio-tfg-amigo-enemigo-opinan-expertos-1259428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-plagio-tfg-amigo-enemigo-opinan-expertos-3056770.jpg?tf=1200x' alt='ChatGPT y el plagio en los TFG: ¿amigo o enemigo? esto opinan los expertos' />
+    <h4><a href='https://computerhoy.com/redes/objetos-elementos-debes-alejar-ahora-mismo-router-no-perder-velocidad-wifi-1262318'>Objetos y elementos que debes alejar ahora mismo de tu router para no perder velocidad de WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/objetos-elementos-debes-alejar-ahora-mismo-router-no-perder-velocidad-wifi-1262318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/router-3061326.jpg?tf=1200x' alt='Objetos y elementos que debes alejar ahora mismo de tu router para no perder velocidad de WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/contrata-ladron-robar-1500-cartas-pokemon-algo-sale-mal-1261394'>Contrata a un ladrón en Twitter para robar 1.500 cartas de Pokémon, pero todo se tuerce... para el ladrón</a></h4>
-    <a href='https://computerhoy.com/life/contrata-ladron-robar-1500-cartas-pokemon-algo-sale-mal-1261394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/cartas-pokemon.jpg?tf=1200x' alt='Contrata a un ladrón en Twitter para robar 1.500 cartas de Pokémon, pero todo se tuerce... para el ladrón' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ultimos-anos-puedes-ver-gratis-pluto-tv-ahora-mismo-1259362'>7 películas de los últimos años que puedes ver gratis en Pluto TV ahora mismo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ultimos-anos-puedes-ver-gratis-pluto-tv-ahora-mismo-1259362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/7-peliculas-ultimos-anos-puedes-ver-gratis-pluto-tv-ahora-mismo-3060028.jpg?tf=1200x' alt='7 películas de los últimos años que puedes ver gratis en Pluto TV ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/inteligencia-fuentes-abiertas-osint-1250522'>¿Qué es la Inteligencia de Fuentes Abiertas (OSINT)?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/inteligencia-fuentes-abiertas-osint-1250522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1686909157673-3060266.jpg?tf=1200x' alt='¿Qué es la Inteligencia de Fuentes Abiertas (OSINT)?' />
+    <h4><a href='https://computerhoy.com/ciencia/ser-humano-no-suficiente-robots-ya-estan-ayudando-reforestacion-amazonas-1262312'>Con el ser humano no es suficiente: los robots ya están ayudando en la reforestación del Amazonas </a></h4>
+    <a href='https://computerhoy.com/ciencia/ser-humano-no-suficiente-robots-ya-estan-ayudando-reforestacion-amazonas-1262312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/yumi-3061322.jpg?tf=1200x' alt='Con el ser humano no es suficiente: los robots ya están ayudando en la reforestación del Amazonas ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-robot-puede-plegarse-como-fuera-mueble-ikea-1262052'>Crean un robot que puede plegarse como si fuera un mueble de Ikea</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-robot-puede-plegarse-como-fuera-mueble-ikea-1262052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/crean-robot-puede-plegarse-como-fuera-mueble-ikea-3061044.jpg?tf=1200x' alt='Crean un robot que puede plegarse como si fuera un mueble de Ikea' />
+    <h4><a href='https://computerhoy.com/life/cerca-estan-tiburones-nadadores-multitud-playas-1262308'>Esto es lo cerca que están los tiburones de los nadadores en multitud de playas y no te diste cuenta</a></h4>
+    <a href='https://computerhoy.com/life/cerca-estan-tiburones-nadadores-multitud-playas-1262308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tiburon-3061308.jpg?tf=1200x' alt='Esto es lo cerca que están los tiburones de los nadadores en multitud de playas y no te diste cuenta' />
     </a>
 </div>
 
