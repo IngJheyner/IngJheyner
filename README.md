@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/crean-robot-autonomo-capaz-erradicar-insectos-invasores-1262326'>Crean un robot autónomo capaz de erradicar insectos invasores</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-robot-autonomo-capaz-erradicar-insectos-invasores-1262326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tartanpest-3061348.jpg?tf=1200x' alt='Crean un robot autónomo capaz de erradicar insectos invasores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/extensiones-google-chrome-impulsadas-ia-te-dejaran-boca-abierta-1255466'>Extensiones para Google Chrome impulsadas por IA que te dejarán con la boca abierta</a></h4>
+    <a href='https://computerhoy.com/internet/extensiones-google-chrome-impulsadas-ia-te-dejaran-boca-abierta-1255466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-3050242.jpg?tf=1200x' alt='Extensiones para Google Chrome impulsadas por IA que te dejarán con la boca abierta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-imagina-futuro-apple-watch-pantalla-envolvente-flexible-1262324'>Apple imagina un futuro Apple Watch con una pantalla envolvente flexible</a></h4>
     <a href='https://computerhoy.com/apple/apple-imagina-futuro-apple-watch-pantalla-envolvente-flexible-1262324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/AppleWatchseries8analisisyopinion_16656164573641096.jpg?tf=1200x' alt='Apple imagina un futuro Apple Watch con una pantalla envolvente flexible' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ultimos-anos-puedes-ver-gratis-pluto-tv-ahora-mismo-1259362'>7 películas de los últimos años que puedes ver gratis en Pluto TV ahora mismo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ultimos-anos-puedes-ver-gratis-pluto-tv-ahora-mismo-1259362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/7-peliculas-ultimos-anos-puedes-ver-gratis-pluto-tv-ahora-mismo-3060028.jpg?tf=1200x' alt='7 películas de los últimos años que puedes ver gratis en Pluto TV ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ser-humano-no-suficiente-robots-ya-estan-ayudando-reforestacion-amazonas-1262312'>Con el ser humano no es suficiente: los robots ya están ayudando en la reforestación del Amazonas </a></h4>
-    <a href='https://computerhoy.com/ciencia/ser-humano-no-suficiente-robots-ya-estan-ayudando-reforestacion-amazonas-1262312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/yumi-3061322.jpg?tf=1200x' alt='Con el ser humano no es suficiente: los robots ya están ayudando en la reforestación del Amazonas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cerca-estan-tiburones-nadadores-multitud-playas-1262308'>Esto es lo cerca que están los tiburones de los nadadores en multitud de playas y no te diste cuenta</a></h4>
-    <a href='https://computerhoy.com/life/cerca-estan-tiburones-nadadores-multitud-playas-1262308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tiburon-3061308.jpg?tf=1200x' alt='Esto es lo cerca que están los tiburones de los nadadores en multitud de playas y no te diste cuenta' />
     </a>
 </div>
 
