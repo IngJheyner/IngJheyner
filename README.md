@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/consiguen-chatgpt-google-bard-generen-claves-validas-windows-11-1262360'>Consiguen que ChatGPT y Google Bard generen claves válidas de Windows 10 y Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/consiguen-chatgpt-google-bard-generen-claves-validas-windows-11-1262360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/consiguen-chatgpt-google-bard-generen-claves-validas-windows-10-windows-11-3061458.jpg?tf=1200x' alt='Consiguen que ChatGPT y Google Bard generen claves válidas de Windows 10 y Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/alternativas-apple-vision-pro-1262330'>Cuáles son las mejores alternativas a Apple Vision Pro que puedes comprar hoy mismo</a></h4>
+    <a href='https://computerhoy.com/mejores/alternativas-apple-vision-pro-1262330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051940.jpg?tf=1200x' alt='Cuáles son las mejores alternativas a Apple Vision Pro que puedes comprar hoy mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/voicebox-inteligencia-artificial-generativa-meta-audio-1262354'>Meta presenta Voicebox, su ChatGPT que habla, pero no la va a hacer pública porque es demasiado peligrosa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/voicebox-inteligencia-artificial-generativa-meta-audio-1262354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/meta-presenta-voicebox-chatgpt-habla-pero-no-va-hacer-publica-porque-demasiado-peligrosa-3061454.jpg?tf=1200x' alt='Meta presenta Voicebox, su ChatGPT que habla, pero no la va a hacer pública porque es demasiado peligrosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/crean-robot-autonomo-capaz-erradicar-insectos-invasores-1262326'>Crean un robot autónomo capaz de erradicar insectos invasores</a></h4>
     <a href='https://computerhoy.com/ciencia/crean-robot-autonomo-capaz-erradicar-insectos-invasores-1262326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tartanpest-3061348.jpg?tf=1200x' alt='Crean un robot autónomo capaz de erradicar insectos invasores' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/extensiones-google-chrome-impulsadas-ia-te-dejaran-boca-abierta-1255466'>Extensiones para Google Chrome impulsadas por IA que te dejarán con la boca abierta</a></h4>
     <a href='https://computerhoy.com/internet/extensiones-google-chrome-impulsadas-ia-te-dejaran-boca-abierta-1255466' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-3050242.jpg?tf=1200x' alt='Extensiones para Google Chrome impulsadas por IA que te dejarán con la boca abierta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-imagina-futuro-apple-watch-pantalla-envolvente-flexible-1262324'>Apple imagina un futuro Apple Watch con una pantalla envolvente flexible</a></h4>
-    <a href='https://computerhoy.com/apple/apple-imagina-futuro-apple-watch-pantalla-envolvente-flexible-1262324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/AppleWatchseries8analisisyopinion_16656164573641096.jpg?tf=1200x' alt='Apple imagina un futuro Apple Watch con una pantalla envolvente flexible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/objetos-elementos-debes-alejar-ahora-mismo-router-no-perder-velocidad-wifi-1262318'>Objetos y elementos que debes alejar ahora mismo de tu router para no perder velocidad de WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/objetos-elementos-debes-alejar-ahora-mismo-router-no-perder-velocidad-wifi-1262318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/router-3061326.jpg?tf=1200x' alt='Objetos y elementos que debes alejar ahora mismo de tu router para no perder velocidad de WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ultimos-anos-puedes-ver-gratis-pluto-tv-ahora-mismo-1259362'>7 películas de los últimos años que puedes ver gratis en Pluto TV ahora mismo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ultimos-anos-puedes-ver-gratis-pluto-tv-ahora-mismo-1259362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/7-peliculas-ultimos-anos-puedes-ver-gratis-pluto-tv-ahora-mismo-3060028.jpg?tf=1200x' alt='7 películas de los últimos años que puedes ver gratis en Pluto TV ahora mismo' />
     </a>
 </div>
 
