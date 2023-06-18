@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ataques-ddos-microsoft-outlook-onedrive-junio-hackers-rusos-1262370'>Ya sabemos qué ha provocado los cortes de Outlook y OneDrive en junio, los hackers prorrusos están detrás</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ataques-ddos-microsoft-outlook-onedrive-junio-hackers-rusos-1262370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ya-sabemos-ha-provocado-cortes-outlook-onedrive-junio-hackers-rusos-estan-detras-3061474.jpg?tf=1200x' alt='Ya sabemos qué ha provocado los cortes de Outlook y OneDrive en junio, los hackers prorrusos están detrás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-cierra-archivo-albumes-1262366'>Google cierra el Archivo de Álbumes, tienes un mes para vaciarlo</a></h4>
+    <a href='https://computerhoy.com/google/google-cierra-archivo-albumes-1262366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-cierra-archivo-albumes-tienes-mes-vaciarlo-3061466.jpg?tf=1200x' alt='Google cierra el Archivo de Álbumes, tienes un mes para vaciarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/consiguen-chatgpt-google-bard-generen-claves-validas-windows-11-1262360'>Consiguen que ChatGPT y Google Bard generen claves válidas de Windows 10 y Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/consiguen-chatgpt-google-bard-generen-claves-validas-windows-11-1262360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/consiguen-chatgpt-google-bard-generen-claves-validas-windows-10-windows-11-3061458.jpg?tf=1200x' alt='Consiguen que ChatGPT y Google Bard generen claves válidas de Windows 10 y Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/voicebox-inteligencia-artificial-generativa-meta-audio-1262354'>Meta presenta Voicebox, su ChatGPT que habla, pero no la va a hacer pública porque es demasiado peligrosa</a></h4>
     <a href='https://computerhoy.com/tecnologia/voicebox-inteligencia-artificial-generativa-meta-audio-1262354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/meta-presenta-voicebox-chatgpt-habla-pero-no-va-hacer-publica-porque-demasiado-peligrosa-3061454.jpg?tf=1200x' alt='Meta presenta Voicebox, su ChatGPT que habla, pero no la va a hacer pública porque es demasiado peligrosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-robot-autonomo-capaz-erradicar-insectos-invasores-1262326'>Crean un robot autónomo capaz de erradicar insectos invasores</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-robot-autonomo-capaz-erradicar-insectos-invasores-1262326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tartanpest-3061348.jpg?tf=1200x' alt='Crean un robot autónomo capaz de erradicar insectos invasores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/extensiones-google-chrome-impulsadas-ia-te-dejaran-boca-abierta-1255466'>Extensiones para Google Chrome impulsadas por IA que te dejarán con la boca abierta</a></h4>
-    <a href='https://computerhoy.com/internet/extensiones-google-chrome-impulsadas-ia-te-dejaran-boca-abierta-1255466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-3050242.jpg?tf=1200x' alt='Extensiones para Google Chrome impulsadas por IA que te dejarán con la boca abierta' />
     </a>
 </div>
 
