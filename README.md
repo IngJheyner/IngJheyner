@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/dni-car-dgt-como-funciona-quienes-estaran-obligados-utilizarlo-1262822'>DNI-Car de la DGT: qué es, cómo funciona y quiénes estarán obligados a utilizarlo</a></h4>
-    <a href='https://computerhoy.com/motor/dni-car-dgt-como-funciona-quienes-estaran-obligados-utilizarlo-1262822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dni-car-qr-3062028.jpg?tf=1200x' alt='DNI-Car de la DGT: qué es, cómo funciona y quiénes estarán obligados a utilizarlo' />
+    <h4><a href='https://computerhoy.com/life/tierra-inclina-culpa-ser-humano-terrible-noticia-1262902'>La Tierra se inclina por culpa del ser humano y esto es una terrible noticia</a></h4>
+    <a href='https://computerhoy.com/life/tierra-inclina-culpa-ser-humano-terrible-noticia-1262902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tierra-3062240.jpg?tf=1200x' alt='La Tierra se inclina por culpa del ser humano y esto es una terrible noticia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/ofertas-verano-dyson-descuentos-aspiradoras-1262604'>Ofertas de verano de Dyson con descuentos de hasta 140€ en sus mejores aspiradoras</a></h4>
-    <a href='https://computerhoy.com/mejores/ofertas-verano-dyson-descuentos-aspiradoras-1262604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dyson-v15-detect-absolute-3013792.jpg?tf=1200x' alt='Ofertas de verano de Dyson con descuentos de hasta 140€ en sus mejores aspiradoras' />
+    <h4><a href='https://computerhoy.com/criptos/94-bitcoin-incautados-mundo-estan-posesion-estados-unidos-1262866'>El 94% de los Bitcoin incautados en el mundo están en posesión de Estados Unidos, pero se niega a venderlos</a></h4>
+    <a href='https://computerhoy.com/criptos/94-bitcoin-incautados-mundo-estan-posesion-estados-unidos-1262866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/btc-eeuu-3062142.jpg?tf=1200x' alt='El 94% de los Bitcoin incautados en el mundo están en posesión de Estados Unidos, pero se niega a venderlos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/truco-viral-colocar-correctamente-espejos-retrovisores-coche-1261952'>El truco viral definitivo para colocar los espejos retrovisores del coche y evitar los ángulos muertos</a></h4>
-    <a href='https://computerhoy.com/motor/truco-viral-colocar-correctamente-espejos-retrovisores-coche-1261952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/dgt-recuerda-como-debes-colocar-espejos-retrovisores-2154865.jpg?tf=1200x' alt='El truco viral definitivo para colocar los espejos retrovisores del coche y evitar los ángulos muertos' />
+    <h4><a href='https://computerhoy.com/life/duermes-lado-izquierdo-estas-enhorabuena-1262848'>Si duermes sobre el lado izquierdo, estás de enhorabuena</a></h4>
+    <a href='https://computerhoy.com/life/duermes-lado-izquierdo-estas-enhorabuena-1262848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dormir-lado-izq-3062116.jpg?tf=1200x' alt='Si duermes sobre el lado izquierdo, estás de enhorabuena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tienes-galaxy-samsung-te-propone-kit-reparacion-puedas-repararlo-mismo-1262802'>Si tienes un Galaxy, Samsung te ofrece un kit de reparación para repararlo tú mismo y ahorrar dinero</a></h4>
-    <a href='https://computerhoy.com/moviles/tienes-galaxy-samsung-te-propone-kit-reparacion-puedas-repararlo-mismo-1262802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/self-repair-samsung-3061982.jpg?tf=1200x' alt='Si tienes un Galaxy, Samsung te ofrece un kit de reparación para repararlo tú mismo y ahorrar dinero' />
+    <h4><a href='https://computerhoy.com/life/libros-cambiaran-vida-no-puedes-dejar-leer-universidad-harvard-1261968'>Los libros que cambiarán tu vida y que no puedes dejar de leer, según la Universidad de Harvard</a></h4>
+    <a href='https://computerhoy.com/life/libros-cambiaran-vida-no-puedes-dejar-leer-universidad-harvard-1261968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/01/libros-segunda-mano.jpg?tf=1200x' alt='Los libros que cambiarán tu vida y que no puedes dejar de leer, según la Universidad de Harvard' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-reconocer-aplicacion-peligrosa-puede-poner-riesgo-datos-1262818'>Cómo reconocer una aplicación peligrosa y que puede poner en riesgo tus datos</a></h4>
-    <a href='https://computerhoy.com/apps/como-reconocer-aplicacion-peligrosa-puede-poner-riesgo-datos-1262818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malware-android-3051122.jpg?tf=1200x' alt='Cómo reconocer una aplicación peligrosa y que puede poner en riesgo tus datos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ejecuta-casi-30000-veces-linux-21-horas-corregir-error-1262808'>Un hacker ejecuta casi 300.00 veces Linux en 21 horas para corregir un error</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ejecuta-casi-30000-veces-linux-21-horas-corregir-error-1262808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hacker-feliz-3062016.jpg?tf=1200x' alt='Un hacker ejecuta casi 300.00 veces Linux en 21 horas para corregir un error' />
     </a>
 </div>
 
