@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-prueba-4-cosas-incapaz-hacer-muy-loca-no-respondera-1262642'>ChatGPT a prueba: 4 cosas que es incapaz de hacer y una muy loca que se negará a responder</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-prueba-4-cosas-incapaz-hacer-muy-loca-no-respondera-1262642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-prueba-4-cosas-incapaz-hacer-muy-loca-negara-responder-3061712.jpg?tf=1200x' alt='ChatGPT a prueba: 4 cosas que es incapaz de hacer y una muy loca que se negará a responder' />
+    <h4><a href='https://computerhoy.com/moviles/filtracion-desvela-todos-dispositivos-samsung-mostrara-galaxy-unpacked-1262766'>Una filtración desvela todos los dispositivos que Samsung mostrará en Galaxy Unpacked</a></h4>
+    <a href='https://computerhoy.com/moviles/filtracion-desvela-todos-dispositivos-samsung-mostrara-galaxy-unpacked-1262766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/render-samsung-galaxy-z-fold-5-3022300.jpg?tf=1200x' alt='Una filtración desvela todos los dispositivos que Samsung mostrará en Galaxy Unpacked' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cambios-prepara-apple-adaptar-nuevos-iphone-vision-pro-1262636'>Los cambios que prepara Apple para adaptar sus nuevos iPhone a Vision Pro</a></h4>
-    <a href='https://computerhoy.com/apple/cambios-prepara-apple-adaptar-nuevos-iphone-vision-pro-1262636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051940.jpg?tf=1200x' alt='Los cambios que prepara Apple para adaptar sus nuevos iPhone a Vision Pro' />
+    <h4><a href='https://computerhoy.com/tv/grave-error-todo-mundo-comente-smart-tv-luego-no-te-quejes-netflix-corta-ve-mal-1261186'>El grave error que todo el mundo comente con su Smart TV: luego no te quejes si Netflix se corta o ve mal</a></h4>
+    <a href='https://computerhoy.com/tv/grave-error-todo-mundo-comente-smart-tv-luego-no-te-quejes-netflix-corta-ve-mal-1261186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/netflix-smart-tv-3061928.jpg?tf=1200x' alt='El grave error que todo el mundo comente con su Smart TV: luego no te quejes si Netflix se corta o ve mal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/significan-siglas-gpt-chatbots-como-chatgpt-gpt-4-1262558'>¿Qué significan las siglas GPT en chatbots como ChatGPT o el modelo GPT-4?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/significan-siglas-gpt-chatbots-como-chatgpt-gpt-4-1262558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/significan-siglas-gpt-chatbots-como-chatgpt-modelo-gpt-4-3061678.jpg?tf=1200x' alt='¿Qué significan las siglas GPT en chatbots como ChatGPT o el modelo GPT-4?' />
+    <h4><a href='https://computerhoy.com/apple/apple-vs-otros-logos-manzanas-empresa-100-anos-cuerda-floja-1262700'>Apple vs. otros logos con manzanas: esta empresa con más de 100 años en la cuerda floja</a></h4>
+    <a href='https://computerhoy.com/apple/apple-vs-otros-logos-manzanas-empresa-100-anos-cuerda-floja-1262700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vs-otros-logos-manzanas-empresa-100-anos-cuerda-floja-3061888.jpg?tf=1200x' alt='Apple vs. otros logos con manzanas: esta empresa con más de 100 años en la cuerda floja' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-advierte-empleados-vigilar-uso-bard-evitar-generar-codigo-1262552'>Google alerta a sus empleados sobre Bard: deben vigilar su uso y evitar generar código con el chatbot</a></h4>
-    <a href='https://computerhoy.com/google/google-advierte-empleados-vigilar-uso-bard-evitar-generar-codigo-1262552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-alerta-empleados-bard-deben-vigilar-uso-evitar-generar-codigo-chatbot-3061656.jpg?tf=1200x' alt='Google alerta a sus empleados sobre Bard: deben vigilar su uso y evitar generar código con el chatbot' />
+    <h4><a href='https://computerhoy.com/android/android-auto-modo-conduccion-asistente-google-diferencias-cual-mejor-1262740'>Android Auto vs el modo conducción del Asistente de Google: principales diferencias y cuál es mejor</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-modo-conduccion-asistente-google-diferencias-cual-mejor-1262740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/messenger-android-auto-3023266.jpg?tf=1200x' alt='Android Auto vs el modo conducción del Asistente de Google: principales diferencias y cuál es mejor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/lanzan-menos-moviles-espana-ahora-hace-10-anos-1233312'>¿Se lanzan más o menos móviles ahora en España que hace 10 años? </a></h4>
-    <a href='https://computerhoy.com/moviles/lanzan-menos-moviles-espana-ahora-hace-10-anos-1233312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/volumen-smartphones-3053828.jpg?tf=1200x' alt='¿Se lanzan más o menos móviles ahora en España que hace 10 años? ' />
+    <h4><a href='https://computerhoy.com/tecnologia/suunto-9-peak-pro-oferta-349-euros-alternativa-barata-garmin-1262714'>Diseño y funciones top a precio de risa: este reloj deportivo Suunto planta cara a los Garmin por mucho menos dinero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/suunto-9-peak-pro-oferta-349-euros-alternativa-barata-garmin-1262714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/suunto-9-peak-pro-3061770.jpg?tf=1200x' alt='Diseño y funciones top a precio de risa: este reloj deportivo Suunto planta cara a los Garmin por mucho menos dinero' />
     </a>
 </div>
 
