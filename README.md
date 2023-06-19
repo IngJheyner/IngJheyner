@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-advierte-empleados-vigilar-uso-bard-evitar-generar-codigo-1262552'>Google alerta a sus empleados sobre Bard: deben vigilar su uso y evitar generar código con el chatbot</a></h4>
+    <a href='https://computerhoy.com/google/google-advierte-empleados-vigilar-uso-bard-evitar-generar-codigo-1262552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-alerta-empleados-bard-deben-vigilar-uso-evitar-generar-codigo-chatbot-3061656.jpg?tf=1200x' alt='Google alerta a sus empleados sobre Bard: deben vigilar su uso y evitar generar código con el chatbot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/lanzan-menos-moviles-espana-ahora-hace-10-anos-1233312'>¿Se lanzan más o menos móviles ahora en España que hace 10 años? </a></h4>
+    <a href='https://computerhoy.com/moviles/lanzan-menos-moviles-espana-ahora-hace-10-anos-1233312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/volumen-smartphones-3053828.jpg?tf=1200x' alt='¿Se lanzan más o menos móviles ahora en España que hace 10 años? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/web-te-recuerda-viejo-eres-forma-bastante-cruel-1262376'>Esta web te recuerda lo viejo qué eres, de una forma bastante cruel</a></h4>
     <a href='https://computerhoy.com/life/web-te-recuerda-viejo-eres-forma-bastante-cruel-1262376' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/web-te-recuerda-viejo-eres-forma-bastante-cruel-3061480.jpg?tf=1200x' alt='Esta web te recuerda lo viejo qué eres, de una forma bastante cruel' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-cierra-archivo-albumes-1262366'>Google cierra el Archivo de Álbumes, tienes un mes para vaciarlo</a></h4>
     <a href='https://computerhoy.com/google/google-cierra-archivo-albumes-1262366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-cierra-archivo-albumes-tienes-mes-vaciarlo-3061466.jpg?tf=1200x' alt='Google cierra el Archivo de Álbumes, tienes un mes para vaciarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/consiguen-chatgpt-google-bard-generen-claves-validas-windows-11-1262360'>Consiguen que ChatGPT y Google Bard generen claves válidas de Windows 10 y Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/consiguen-chatgpt-google-bard-generen-claves-validas-windows-11-1262360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/consiguen-chatgpt-google-bard-generen-claves-validas-windows-10-windows-11-3061458.jpg?tf=1200x' alt='Consiguen que ChatGPT y Google Bard generen claves válidas de Windows 10 y Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/alternativas-apple-vision-pro-1262330'>Cuáles son las mejores alternativas a Apple Vision Pro que puedes comprar hoy mismo</a></h4>
-    <a href='https://computerhoy.com/mejores/alternativas-apple-vision-pro-1262330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051940.jpg?tf=1200x' alt='Cuáles son las mejores alternativas a Apple Vision Pro que puedes comprar hoy mismo' />
     </a>
 </div>
 
