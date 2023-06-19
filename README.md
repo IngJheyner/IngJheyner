@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-prueba-4-cosas-incapaz-hacer-muy-loca-no-respondera-1262642'>ChatGPT a prueba: 4 cosas que es incapaz de hacer y una muy loca que se negará a responder</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-prueba-4-cosas-incapaz-hacer-muy-loca-no-respondera-1262642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-prueba-4-cosas-incapaz-hacer-muy-loca-negara-responder-3061712.jpg?tf=1200x' alt='ChatGPT a prueba: 4 cosas que es incapaz de hacer y una muy loca que se negará a responder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/cambios-prepara-apple-adaptar-nuevos-iphone-vision-pro-1262636'>Los cambios que prepara Apple para adaptar sus nuevos iPhone a Vision Pro</a></h4>
+    <a href='https://computerhoy.com/apple/cambios-prepara-apple-adaptar-nuevos-iphone-vision-pro-1262636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051940.jpg?tf=1200x' alt='Los cambios que prepara Apple para adaptar sus nuevos iPhone a Vision Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/significan-siglas-gpt-chatbots-como-chatgpt-gpt-4-1262558'>¿Qué significan las siglas GPT en chatbots como ChatGPT o el modelo GPT-4?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/significan-siglas-gpt-chatbots-como-chatgpt-gpt-4-1262558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/significan-siglas-gpt-chatbots-como-chatgpt-modelo-gpt-4-3061678.jpg?tf=1200x' alt='¿Qué significan las siglas GPT en chatbots como ChatGPT o el modelo GPT-4?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-advierte-empleados-vigilar-uso-bard-evitar-generar-codigo-1262552'>Google alerta a sus empleados sobre Bard: deben vigilar su uso y evitar generar código con el chatbot</a></h4>
     <a href='https://computerhoy.com/google/google-advierte-empleados-vigilar-uso-bard-evitar-generar-codigo-1262552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-alerta-empleados-bard-deben-vigilar-uso-evitar-generar-codigo-chatbot-3061656.jpg?tf=1200x' alt='Google alerta a sus empleados sobre Bard: deben vigilar su uso y evitar generar código con el chatbot' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/lanzan-menos-moviles-espana-ahora-hace-10-anos-1233312'>¿Se lanzan más o menos móviles ahora en España que hace 10 años? </a></h4>
     <a href='https://computerhoy.com/moviles/lanzan-menos-moviles-espana-ahora-hace-10-anos-1233312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/volumen-smartphones-3053828.jpg?tf=1200x' alt='¿Se lanzan más o menos móviles ahora en España que hace 10 años? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/web-te-recuerda-viejo-eres-forma-bastante-cruel-1262376'>Esta web te recuerda lo viejo qué eres, de una forma bastante cruel</a></h4>
-    <a href='https://computerhoy.com/life/web-te-recuerda-viejo-eres-forma-bastante-cruel-1262376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/web-te-recuerda-viejo-eres-forma-bastante-cruel-3061480.jpg?tf=1200x' alt='Esta web te recuerda lo viejo qué eres, de una forma bastante cruel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ataques-ddos-microsoft-outlook-onedrive-junio-hackers-rusos-1262370'>Ya sabemos qué ha provocado los cortes de Outlook y OneDrive en junio, los hackers prorrusos están detrás</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ataques-ddos-microsoft-outlook-onedrive-junio-hackers-rusos-1262370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ya-sabemos-ha-provocado-cortes-outlook-onedrive-junio-hackers-rusos-estan-detras-3061474.jpg?tf=1200x' alt='Ya sabemos qué ha provocado los cortes de Outlook y OneDrive en junio, los hackers prorrusos están detrás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-cierra-archivo-albumes-1262366'>Google cierra el Archivo de Álbumes, tienes un mes para vaciarlo</a></h4>
-    <a href='https://computerhoy.com/google/google-cierra-archivo-albumes-1262366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-cierra-archivo-albumes-tienes-mes-vaciarlo-3061466.jpg?tf=1200x' alt='Google cierra el Archivo de Álbumes, tienes un mes para vaciarlo' />
     </a>
 </div>
 
