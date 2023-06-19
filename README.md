@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/filtracion-desvela-todos-dispositivos-samsung-mostrara-galaxy-unpacked-1262766'>Una filtración desvela todos los dispositivos que Samsung mostrará en Galaxy Unpacked</a></h4>
-    <a href='https://computerhoy.com/moviles/filtracion-desvela-todos-dispositivos-samsung-mostrara-galaxy-unpacked-1262766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/render-samsung-galaxy-z-fold-5-3022300.jpg?tf=1200x' alt='Una filtración desvela todos los dispositivos que Samsung mostrará en Galaxy Unpacked' />
+    <h4><a href='https://computerhoy.com/motor/dni-car-dgt-como-funciona-quienes-estaran-obligados-utilizarlo-1262822'>DNI-Car de la DGT: qué es, cómo funciona y quiénes estarán obligados a utilizarlo</a></h4>
+    <a href='https://computerhoy.com/motor/dni-car-dgt-como-funciona-quienes-estaran-obligados-utilizarlo-1262822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dni-car-qr-3062028.jpg?tf=1200x' alt='DNI-Car de la DGT: qué es, cómo funciona y quiénes estarán obligados a utilizarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/grave-error-todo-mundo-comente-smart-tv-luego-no-te-quejes-netflix-corta-ve-mal-1261186'>El grave error que todo el mundo comente con su Smart TV: luego no te quejes si Netflix se corta o ve mal</a></h4>
-    <a href='https://computerhoy.com/tv/grave-error-todo-mundo-comente-smart-tv-luego-no-te-quejes-netflix-corta-ve-mal-1261186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/netflix-smart-tv-3061928.jpg?tf=1200x' alt='El grave error que todo el mundo comente con su Smart TV: luego no te quejes si Netflix se corta o ve mal' />
+    <h4><a href='https://computerhoy.com/mejores/ofertas-verano-dyson-descuentos-aspiradoras-1262604'>Ofertas de verano de Dyson con descuentos de hasta 140€ en sus mejores aspiradoras</a></h4>
+    <a href='https://computerhoy.com/mejores/ofertas-verano-dyson-descuentos-aspiradoras-1262604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dyson-v15-detect-absolute-3013792.jpg?tf=1200x' alt='Ofertas de verano de Dyson con descuentos de hasta 140€ en sus mejores aspiradoras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-vs-otros-logos-manzanas-empresa-100-anos-cuerda-floja-1262700'>Apple vs. otros logos con manzanas: esta empresa con más de 100 años en la cuerda floja</a></h4>
-    <a href='https://computerhoy.com/apple/apple-vs-otros-logos-manzanas-empresa-100-anos-cuerda-floja-1262700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vs-otros-logos-manzanas-empresa-100-anos-cuerda-floja-3061888.jpg?tf=1200x' alt='Apple vs. otros logos con manzanas: esta empresa con más de 100 años en la cuerda floja' />
+    <h4><a href='https://computerhoy.com/motor/truco-viral-colocar-correctamente-espejos-retrovisores-coche-1261952'>El truco viral definitivo para colocar los espejos retrovisores del coche y evitar los ángulos muertos</a></h4>
+    <a href='https://computerhoy.com/motor/truco-viral-colocar-correctamente-espejos-retrovisores-coche-1261952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/dgt-recuerda-como-debes-colocar-espejos-retrovisores-2154865.jpg?tf=1200x' alt='El truco viral definitivo para colocar los espejos retrovisores del coche y evitar los ángulos muertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-modo-conduccion-asistente-google-diferencias-cual-mejor-1262740'>Android Auto vs el modo conducción del Asistente de Google: principales diferencias y cuál es mejor</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-modo-conduccion-asistente-google-diferencias-cual-mejor-1262740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/messenger-android-auto-3023266.jpg?tf=1200x' alt='Android Auto vs el modo conducción del Asistente de Google: principales diferencias y cuál es mejor' />
+    <h4><a href='https://computerhoy.com/moviles/tienes-galaxy-samsung-te-propone-kit-reparacion-puedas-repararlo-mismo-1262802'>Si tienes un Galaxy, Samsung te ofrece un kit de reparación para repararlo tú mismo y ahorrar dinero</a></h4>
+    <a href='https://computerhoy.com/moviles/tienes-galaxy-samsung-te-propone-kit-reparacion-puedas-repararlo-mismo-1262802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/self-repair-samsung-3061982.jpg?tf=1200x' alt='Si tienes un Galaxy, Samsung te ofrece un kit de reparación para repararlo tú mismo y ahorrar dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/suunto-9-peak-pro-oferta-349-euros-alternativa-barata-garmin-1262714'>Diseño y funciones top a precio de risa: este reloj deportivo Suunto planta cara a los Garmin por mucho menos dinero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/suunto-9-peak-pro-oferta-349-euros-alternativa-barata-garmin-1262714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/suunto-9-peak-pro-3061770.jpg?tf=1200x' alt='Diseño y funciones top a precio de risa: este reloj deportivo Suunto planta cara a los Garmin por mucho menos dinero' />
+    <h4><a href='https://computerhoy.com/apps/como-reconocer-aplicacion-peligrosa-puede-poner-riesgo-datos-1262818'>Cómo reconocer una aplicación peligrosa y que puede poner en riesgo tus datos</a></h4>
+    <a href='https://computerhoy.com/apps/como-reconocer-aplicacion-peligrosa-puede-poner-riesgo-datos-1262818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malware-android-3051122.jpg?tf=1200x' alt='Cómo reconocer una aplicación peligrosa y que puede poner en riesgo tus datos' />
     </a>
 </div>
 
