@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/web-te-recuerda-viejo-eres-forma-bastante-cruel-1262376'>Esta web te recuerda lo viejo qué eres, de una forma bastante cruel</a></h4>
+    <a href='https://computerhoy.com/life/web-te-recuerda-viejo-eres-forma-bastante-cruel-1262376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/web-te-recuerda-viejo-eres-forma-bastante-cruel-3061480.jpg?tf=1200x' alt='Esta web te recuerda lo viejo qué eres, de una forma bastante cruel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/ataques-ddos-microsoft-outlook-onedrive-junio-hackers-rusos-1262370'>Ya sabemos qué ha provocado los cortes de Outlook y OneDrive en junio, los hackers prorrusos están detrás</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ataques-ddos-microsoft-outlook-onedrive-junio-hackers-rusos-1262370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ya-sabemos-ha-provocado-cortes-outlook-onedrive-junio-hackers-rusos-estan-detras-3061474.jpg?tf=1200x' alt='Ya sabemos qué ha provocado los cortes de Outlook y OneDrive en junio, los hackers prorrusos están detrás' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/alternativas-apple-vision-pro-1262330'>Cuáles son las mejores alternativas a Apple Vision Pro que puedes comprar hoy mismo</a></h4>
     <a href='https://computerhoy.com/mejores/alternativas-apple-vision-pro-1262330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051940.jpg?tf=1200x' alt='Cuáles son las mejores alternativas a Apple Vision Pro que puedes comprar hoy mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/voicebox-inteligencia-artificial-generativa-meta-audio-1262354'>Meta presenta Voicebox, su ChatGPT que habla, pero no la va a hacer pública porque es demasiado peligrosa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/voicebox-inteligencia-artificial-generativa-meta-audio-1262354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/meta-presenta-voicebox-chatgpt-habla-pero-no-va-hacer-publica-porque-demasiado-peligrosa-3061454.jpg?tf=1200x' alt='Meta presenta Voicebox, su ChatGPT que habla, pero no la va a hacer pública porque es demasiado peligrosa' />
     </a>
 </div>
 
