@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/submarino-turistas-oceangate-desaparece-visitaba-restos-titanic-1262922'>Un submarino con turistas desaparece mientras visitaba los restos del Titanic</a></h4>
+    <a href='https://computerhoy.com/life/submarino-turistas-oceangate-desaparece-visitaba-restos-titanic-1262922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/submarino-turistas-desaparece-mientras-visitaba-restos-titanic-3062262.jpg?tf=1200x' alt='Un submarino con turistas desaparece mientras visitaba los restos del Titanic' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/problema-3-cuerpos-netflix-ciencia-ficcion-trailer-1262920'>Los creadores de Juego de Tronos presentan El problema de los 3 cuerpos, el próximo bombazo de Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/problema-3-cuerpos-netflix-ciencia-ficcion-trailer-1262920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1687201702953-3062208.jpg?tf=1200x' alt='Los creadores de Juego de Tronos presentan El problema de los 3 cuerpos, el próximo bombazo de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/blockbuster-espera-pacientemente-durante-anos-tomarse-venganza-netflix-1262880'>Blockbuster espera pacientemente durante años para tomarse su venganza contra Netflix</a></h4>
+    <a href='https://computerhoy.com/redes/blockbuster-espera-pacientemente-durante-anos-tomarse-venganza-netflix-1262880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/blockbuster-vs-netflix-3062168.jpg?tf=1200x' alt='Blockbuster espera pacientemente durante años para tomarse su venganza contra Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/espana-demuestra-no-hay-hueco-tdt-kings-league-ibai-pique-1262906'>España demuestra que no hay hueco en la TDT para la Kings League de Ibai y Piqué</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/espana-demuestra-no-hay-hueco-tdt-kings-league-ibai-pique-1262906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/kings-league-2946664.jpg?tf=1200x' alt='España demuestra que no hay hueco en la TDT para la Kings League de Ibai y Piqué' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/tierra-inclina-culpa-ser-humano-terrible-noticia-1262902'>La Tierra se inclina por culpa del ser humano y esto es una terrible noticia</a></h4>
     <a href='https://computerhoy.com/life/tierra-inclina-culpa-ser-humano-terrible-noticia-1262902' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tierra-3062240.jpg?tf=1200x' alt='La Tierra se inclina por culpa del ser humano y esto es una terrible noticia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/94-bitcoin-incautados-mundo-estan-posesion-estados-unidos-1262866'>El 94% de los Bitcoin incautados en el mundo están en posesión de Estados Unidos, pero se niega a venderlos</a></h4>
-    <a href='https://computerhoy.com/criptos/94-bitcoin-incautados-mundo-estan-posesion-estados-unidos-1262866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/btc-eeuu-3062142.jpg?tf=1200x' alt='El 94% de los Bitcoin incautados en el mundo están en posesión de Estados Unidos, pero se niega a venderlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/duermes-lado-izquierdo-estas-enhorabuena-1262848'>Si duermes sobre el lado izquierdo, estás de enhorabuena</a></h4>
-    <a href='https://computerhoy.com/life/duermes-lado-izquierdo-estas-enhorabuena-1262848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dormir-lado-izq-3062116.jpg?tf=1200x' alt='Si duermes sobre el lado izquierdo, estás de enhorabuena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/libros-cambiaran-vida-no-puedes-dejar-leer-universidad-harvard-1261968'>Los libros que cambiarán tu vida y que no puedes dejar de leer, según la Universidad de Harvard</a></h4>
-    <a href='https://computerhoy.com/life/libros-cambiaran-vida-no-puedes-dejar-leer-universidad-harvard-1261968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/01/libros-segunda-mano.jpg?tf=1200x' alt='Los libros que cambiarán tu vida y que no puedes dejar de leer, según la Universidad de Harvard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ejecuta-casi-30000-veces-linux-21-horas-corregir-error-1262808'>Un hacker ejecuta casi 300.00 veces Linux en 21 horas para corregir un error</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ejecuta-casi-30000-veces-linux-21-horas-corregir-error-1262808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hacker-feliz-3062016.jpg?tf=1200x' alt='Un hacker ejecuta casi 300.00 veces Linux en 21 horas para corregir un error' />
     </a>
 </div>
 
