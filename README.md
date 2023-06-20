@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/alertan-grave-peligro-utilizar-apps-chatgpt-no-oficiales-android-1263412'>Alertan del grave peligro de utilizar apps de ChatGPT no oficiales en Android</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/alertan-grave-peligro-utilizar-apps-chatgpt-no-oficiales-android-1263412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-malware-3063224.jpg?tf=1200x' alt='Alertan del grave peligro de utilizar apps de ChatGPT no oficiales en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/metal-liquido-vs-pasta-termica-cual-mejor-disipar-calor-ordenador-1245890'>Metal líquido vs. Pasta térmica: ¿cuál es mejor para disipar el calor de tu ordenador?</a></h4>
     <a href='https://computerhoy.com/tutoriales/metal-liquido-vs-pasta-termica-cual-mejor-disipar-calor-ordenador-1245890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/forma-colocar-pasta-termica-gpu-reduce-5-grados-adicionales-temperatura-no-usa-casi-nadie-2803293.jpg?tf=1200x' alt='Metal líquido vs. Pasta térmica: ¿cuál es mejor para disipar el calor de tu ordenador?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/increible-historia-como-foto-famosa-einstein-casi-pierde-siempre-1262926'>La increíble historia de cómo la foto más famosa de Albert Einstein casi se pierde para siempre</a></h4>
     <a href='https://computerhoy.com/life/increible-historia-como-foto-famosa-einstein-casi-pierde-siempre-1262926' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/albert-einstein-3062950.jpg?tf=1200x' alt='La increíble historia de cómo la foto más famosa de Albert Einstein casi se pierde para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/outlet-week-pccomponentes-estos-son-5-chollos-top-superan-amazon-1263118'>Outlet Week de PcComponentes: estos son los 5 chollos top que superan a Amazon</a></h4>
-    <a href='https://computerhoy.com/mejores/outlet-week-pccomponentes-estos-son-5-chollos-top-superan-amazon-1263118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-tv-q1e-55-2585959.jpg?tf=1200x' alt='Outlet Week de PcComponentes: estos son los 5 chollos top que superan a Amazon' />
     </a>
 </div>
 
