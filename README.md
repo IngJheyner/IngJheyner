@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ceo-airbnb-afirma-inteligencia-artificial-creara-puestos-trabajo-destruira-1263116'>El CEO de Airbnb afirma que la inteligencia artificial creará más puestos de trabajo que destruirá</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ceo-airbnb-afirma-inteligencia-artificial-creara-puestos-trabajo-destruira-1263116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ceo-airbnb-afirma-inteligencia-artificial-creara-puestos-trabajo-destruira-3062512.jpg?tf=1200x' alt='El CEO de Airbnb afirma que la inteligencia artificial creará más puestos de trabajo que destruirá' />
+    <h4><a href='https://computerhoy.com/analisis/realme-11-pro-realme-11-pro-analisis-review-caracteristicas-precio-1258558'>Análisis realme 11 Pro y realme 11 Pro+: dos opciones con mucho estilo y un plus sobresaliente</a></h4>
+    <a href='https://computerhoy.com/analisis/realme-11-pro-realme-11-pro-analisis-review-caracteristicas-precio-1258558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/realme-11-pro-realme-11-pro-3055668.jpg?tf=1200x' alt='Análisis realme 11 Pro y realme 11 Pro+: dos opciones con mucho estilo y un plus sobresaliente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
-    <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809245.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-watch-5-oferta-precio-ganga-amazon-1263120'>Este reloj es perfecto para usuarios Android, y sorprendentemente barato: es de Samsung y cuesta menos de 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-watch-5-oferta-precio-ganga-amazon-1263120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-samsung-galaxy-watch-5-2843253.jpg?tf=1200x' alt='Este reloj es perfecto para usuarios Android, y sorprendentemente barato: es de Samsung y cuesta menos de 200 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/wifi-7-tardara-3-4-anos-ser-mayoritario-tp-link-1259836'>"WiFi 7 tardará 3 o 4 años en ser mayoritario", según este directivo del mayor fabricante de routers</a></h4>
-    <a href='https://computerhoy.com/hogar/wifi-7-tardara-3-4-anos-ser-mayoritario-tp-link-1259836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/clark-qian-director-tp-link-europa-3057482.jpg?tf=1200x' alt='"WiFi 7 tardará 3 o 4 años en ser mayoritario", según este directivo del mayor fabricante de routers' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/modo-abuela-chatgpt-como-funciona-tan-peligroso-1263168'>Qué es el modo abuela de ChatGPT, cómo funciona y por qué es tan peligroso</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/modo-abuela-chatgpt-como-funciona-tan-peligroso-1263168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/modo-abuela-chatgpt-como-funciona-tan-peligroso-3062718.jpg?tf=1200x' alt='Qué es el modo abuela de ChatGPT, cómo funciona y por qué es tan peligroso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/encuentra-millon-monedas-penique-sotano-no-consigue-venderlas-1263078'>Encuentra un millón de monedas de un penique en el sótano de su suegro, y es cuando empiezan los problemas</a></h4>
-    <a href='https://computerhoy.com/life/encuentra-millon-monedas-penique-sotano-no-consigue-venderlas-1263078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/encuentra-millon-monedas-penique-sotano-abuelo-cuando-empiezan-problemas-3062416.jpg?tf=1200x' alt='Encuentra un millón de monedas de un penique en el sótano de su suegro, y es cuando empiezan los problemas' />
+    <h4><a href='https://computerhoy.com/apple/motivo-apple-explica-ausencia-esferas-terceros-watchos-10-1263176'>El motivo de Apple que explica la ausencia de esferas de terceros en watchOS 10</a></h4>
+    <a href='https://computerhoy.com/apple/motivo-apple-explica-ausencia-esferas-terceros-watchos-10-1263176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-watch-ultra-2927740.jpg?tf=1200x' alt='El motivo de Apple que explica la ausencia de esferas de terceros en watchOS 10' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/auriculares-soundcore-anker-estos-son-mejores-modelos-1262680'>Auriculares Soundcore de Anker: estos son los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/mejores/auriculares-soundcore-anker-estos-son-mejores-modelos-1262680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/soundcore-space-q45-2947172.jpg?tf=1200x' alt='Auriculares Soundcore de Anker: estos son los mejores modelos' />
+    <h4><a href='https://computerhoy.com/tecnologia/moviles-baratos-samsung-desploma-precio-menos-300-euros-1262768'>Uno de los móviles más baratos de Samsung desploma su precio a menos de 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/moviles-baratos-samsung-desploma-precio-menos-300-euros-1262768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-samsung-galaxy-m33-5g-2701699.jpg?tf=1200x' alt='Uno de los móviles más baratos de Samsung desploma su precio a menos de 300 euros' />
     </a>
 </div>
 
