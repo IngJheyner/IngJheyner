@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/adios-llamadas-desconocidos-whatsapp-gracias-dos-novedades-aplicacion-1263244'>Adiós a las llamadas de desconocidos en WhatsApp gracias a dos novedades en la aplicación</a></h4>
+    <a href='https://computerhoy.com/apps/adios-llamadas-desconocidos-whatsapp-gracias-dos-novedades-aplicacion-1263244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3047552.jpg?tf=1200x' alt='Adiós a las llamadas de desconocidos en WhatsApp gracias a dos novedades en la aplicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/dia-mundial-wifi-como-evitar-hackeo-traves-red-wifi-1263214'>Día Mundial del Wifi: cómo evitar un hackeo a través de la red WiFi </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/dia-mundial-wifi-como-evitar-hackeo-traves-red-wifi-1263214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dia-mundial-wifi-como-evitar-hackeo-traves-red-wifi-3062814.jpg?tf=1200x' alt='Día Mundial del Wifi: cómo evitar un hackeo a través de la red WiFi ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/elimina-estas-aplicaciones-movil-ahora-estan-espiando-ubicacion-1263210'>Elimina estas aplicaciones de tu móvil ahora: están espiando tu ubicación</a></h4>
+    <a href='https://computerhoy.com/apps/elimina-estas-aplicaciones-movil-ahora-estan-espiando-ubicacion-1263210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/malware-movil-2120479.jpg?tf=1200x' alt='Elimina estas aplicaciones de tu móvil ahora: están espiando tu ubicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/realme-11-pro-realme-11-pro-analisis-review-caracteristicas-precio-1258558'>Análisis realme 11 Pro y realme 11 Pro+: dos opciones con mucho estilo y un plus sobresaliente</a></h4>
     <a href='https://computerhoy.com/analisis/realme-11-pro-realme-11-pro-analisis-review-caracteristicas-precio-1258558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/realme-11-pro-realme-11-pro-3055668.jpg?tf=1200x' alt='Análisis realme 11 Pro y realme 11 Pro+: dos opciones con mucho estilo y un plus sobresaliente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-watch-5-oferta-precio-ganga-amazon-1263120'>Este reloj es perfecto para usuarios Android, y sorprendentemente barato: es de Samsung y cuesta menos de 200 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-galaxy-watch-5-oferta-precio-ganga-amazon-1263120' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-samsung-galaxy-watch-5-2843253.jpg?tf=1200x' alt='Este reloj es perfecto para usuarios Android, y sorprendentemente barato: es de Samsung y cuesta menos de 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/modo-abuela-chatgpt-como-funciona-tan-peligroso-1263168'>Qué es el modo abuela de ChatGPT, cómo funciona y por qué es tan peligroso</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/modo-abuela-chatgpt-como-funciona-tan-peligroso-1263168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/modo-abuela-chatgpt-como-funciona-tan-peligroso-3062718.jpg?tf=1200x' alt='Qué es el modo abuela de ChatGPT, cómo funciona y por qué es tan peligroso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/motivo-apple-explica-ausencia-esferas-terceros-watchos-10-1263176'>El motivo de Apple que explica la ausencia de esferas de terceros en watchOS 10</a></h4>
-    <a href='https://computerhoy.com/apple/motivo-apple-explica-ausencia-esferas-terceros-watchos-10-1263176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-watch-ultra-2927740.jpg?tf=1200x' alt='El motivo de Apple que explica la ausencia de esferas de terceros en watchOS 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/moviles-baratos-samsung-desploma-precio-menos-300-euros-1262768'>Uno de los móviles más baratos de Samsung desploma su precio a menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/moviles-baratos-samsung-desploma-precio-menos-300-euros-1262768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-samsung-galaxy-m33-5g-2701699.jpg?tf=1200x' alt='Uno de los móviles más baratos de Samsung desploma su precio a menos de 300 euros' />
     </a>
 </div>
 
