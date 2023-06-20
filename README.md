@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/adios-llamadas-desconocidos-whatsapp-gracias-dos-novedades-aplicacion-1263244'>Adiós a las llamadas de desconocidos en WhatsApp gracias a dos novedades en la aplicación</a></h4>
-    <a href='https://computerhoy.com/apps/adios-llamadas-desconocidos-whatsapp-gracias-dos-novedades-aplicacion-1263244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3047552.jpg?tf=1200x' alt='Adiós a las llamadas de desconocidos en WhatsApp gracias a dos novedades en la aplicación' />
+    <h4><a href='https://computerhoy.com/pc/como-reiniciar-emergencia-ordenador-boton-secreto-windows-1263316'>Cómo reiniciar de emergencia tu ordenador con el botón secreto de Windows</a></h4>
+    <a href='https://computerhoy.com/pc/como-reiniciar-emergencia-ordenador-boton-secreto-windows-1263316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/boton-panico-2988268.jpg?tf=1200x' alt='Cómo reiniciar de emergencia tu ordenador con el botón secreto de Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/dia-mundial-wifi-como-evitar-hackeo-traves-red-wifi-1263214'>Día Mundial del Wifi: cómo evitar un hackeo a través de la red WiFi </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/dia-mundial-wifi-como-evitar-hackeo-traves-red-wifi-1263214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dia-mundial-wifi-como-evitar-hackeo-traves-red-wifi-3062814.jpg?tf=1200x' alt='Día Mundial del Wifi: cómo evitar un hackeo a través de la red WiFi ' />
+    <h4><a href='https://computerhoy.com/apple/unico-movil-android-consiguio-poner-nervioso-steve-jobs-obsesiono-durante-anos-1262886'>El único móvil Android que consiguió poner nervioso a Steve Jobs y lo obsesionó durante años</a></h4>
+    <a href='https://computerhoy.com/apple/unico-movil-android-consiguio-poner-nervioso-steve-jobs-obsesiono-durante-anos-1262886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/steve-jobs-3062856.jpg?tf=1200x' alt='El único móvil Android que consiguió poner nervioso a Steve Jobs y lo obsesionó durante años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elimina-estas-aplicaciones-movil-ahora-estan-espiando-ubicacion-1263210'>Elimina estas aplicaciones de tu móvil ahora: están espiando tu ubicación</a></h4>
-    <a href='https://computerhoy.com/apps/elimina-estas-aplicaciones-movil-ahora-estan-espiando-ubicacion-1263210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/malware-movil-2120479.jpg?tf=1200x' alt='Elimina estas aplicaciones de tu móvil ahora: están espiando tu ubicación' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/mentiras-chrome-navegadores-debes-dejar-creerte-1262816'>Mentiras sobre Chrome y los navegadores que debes de dejar de creerte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/mentiras-chrome-navegadores-debes-dejar-creerte-1262816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/nuevo-efecto-2000-va-afectar-todos-navegadores-muchas-webs-podrian-caerse-2619899.jpg?tf=1200x' alt='Mentiras sobre Chrome y los navegadores que debes de dejar de creerte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/realme-11-pro-realme-11-pro-analisis-review-caracteristicas-precio-1258558'>Análisis realme 11 Pro y realme 11 Pro+: dos opciones con mucho estilo y un plus sobresaliente</a></h4>
-    <a href='https://computerhoy.com/analisis/realme-11-pro-realme-11-pro-analisis-review-caracteristicas-precio-1258558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/realme-11-pro-realme-11-pro-3055668.jpg?tf=1200x' alt='Análisis realme 11 Pro y realme 11 Pro+: dos opciones con mucho estilo y un plus sobresaliente' />
+    <h4><a href='https://computerhoy.com/apple/vision-pro-son-solo-principio-apple-patenta-casco-como-samsung-gear-vr-1263260'>Las Vision Pro son solo el principio: Apple patenta un casco como el Samsung Gear VR</a></h4>
+    <a href='https://computerhoy.com/apple/vision-pro-son-solo-principio-apple-patenta-casco-como-samsung-gear-vr-1263260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051076.jpg?tf=1200x' alt='Las Vision Pro son solo el principio: Apple patenta un casco como el Samsung Gear VR' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-watch-5-oferta-precio-ganga-amazon-1263120'>Este reloj es perfecto para usuarios Android, y sorprendentemente barato: es de Samsung y cuesta menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-watch-5-oferta-precio-ganga-amazon-1263120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-samsung-galaxy-watch-5-2843253.jpg?tf=1200x' alt='Este reloj es perfecto para usuarios Android, y sorprendentemente barato: es de Samsung y cuesta menos de 200 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/purificador-aire-xiaomi-oferta-poco-100-euros-1263134'>Este aparato de Xiaomi es el complemento perfecto para el aire acondicionado, y ahora cuesta 50 euros menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/purificador-aire-xiaomi-oferta-poco-100-euros-1263134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-smart-air-purifier-4-lite-2982298.jpg?tf=1200x' alt='Este aparato de Xiaomi es el complemento perfecto para el aire acondicionado, y ahora cuesta 50 euros menos' />
     </a>
 </div>
 
