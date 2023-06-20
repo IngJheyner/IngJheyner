@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/teoria-7-amigos-amable-reto-viral-peligroso-imaginas-1262912'>La teoría de los 7 amigos, el “amable” reto viral más peligroso de lo que imaginas</a></h4>
+    <a href='https://computerhoy.com/life/teoria-7-amigos-amable-reto-viral-peligroso-imaginas-1262912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amigos-3062266.jpg?tf=1200x' alt='La teoría de los 7 amigos, el “amable” reto viral más peligroso de lo que imaginas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/como-reiniciar-emergencia-ordenador-boton-secreto-windows-1263316'>Cómo reiniciar de emergencia tu ordenador con el botón secreto de Windows</a></h4>
     <a href='https://computerhoy.com/pc/como-reiniciar-emergencia-ordenador-boton-secreto-windows-1263316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/boton-panico-2988268.jpg?tf=1200x' alt='Cómo reiniciar de emergencia tu ordenador con el botón secreto de Windows' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/vision-pro-son-solo-principio-apple-patenta-casco-como-samsung-gear-vr-1263260'>Las Vision Pro son solo el principio: Apple patenta un casco como el Samsung Gear VR</a></h4>
     <a href='https://computerhoy.com/apple/vision-pro-son-solo-principio-apple-patenta-casco-como-samsung-gear-vr-1263260' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051076.jpg?tf=1200x' alt='Las Vision Pro son solo el principio: Apple patenta un casco como el Samsung Gear VR' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/purificador-aire-xiaomi-oferta-poco-100-euros-1263134'>Este aparato de Xiaomi es el complemento perfecto para el aire acondicionado, y ahora cuesta 50 euros menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/purificador-aire-xiaomi-oferta-poco-100-euros-1263134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-smart-air-purifier-4-lite-2982298.jpg?tf=1200x' alt='Este aparato de Xiaomi es el complemento perfecto para el aire acondicionado, y ahora cuesta 50 euros menos' />
     </a>
 </div>
 
