@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-dejar-llaves-puestas-funcion-movil-android-debes-desactivar-1263410'>Es como dejar las llaves puestas: la función de tu móvil Android que debes desactivar de inmediato</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-dejar-llaves-puestas-funcion-movil-android-debes-desactivar-1263410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movil-android-llave-3063264.jpg?tf=1200x' alt='Es como dejar las llaves puestas: la función de tu móvil Android que debes desactivar de inmediato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ia-capaz-traducir-1263400'>Una IA revela los secretos milenarios ocultos en el antiguo lenguaje acadio cuneiforme</a></h4>
+    <a href='https://computerhoy.com/life/ia-capaz-traducir-1263400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tablilla-gilgamesh-3063162.jpg?tf=1200x' alt='Una IA revela los secretos milenarios ocultos en el antiguo lenguaje acadio cuneiforme' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gamepad-logitech-submarino-desaparecido-1263426'>El submarino desaparecido se manejaba con un gamepad de Logitech de 40 euros, y es más habitual de lo que crees</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gamepad-logitech-submarino-desaparecido-1263426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/submarino-desaparecido-manejaba-gamepad-logitech-juegos-hace-15-anos-habitual-crees-3063154.jpg?tf=1200x' alt='El submarino desaparecido se manejaba con un gamepad de Logitech de 40 euros, y es más habitual de lo que crees' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/piensalo-dos-veces-estan-aprovechando-estafadores-postureo-redes-sociales-1263414'>Piénsalo dos veces: así se están aprovechando los estafadores del postureo en redes sociales</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/piensalo-dos-veces-estan-aprovechando-estafadores-postureo-redes-sociales-1263414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/entradas-cine-3063242.jpg?tf=1200x' alt='Piénsalo dos veces: así se están aprovechando los estafadores del postureo en redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/alertan-grave-peligro-utilizar-apps-chatgpt-no-oficiales-android-1263412'>Alertan del grave peligro de utilizar apps de ChatGPT no oficiales en Android</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/alertan-grave-peligro-utilizar-apps-chatgpt-no-oficiales-android-1263412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-malware-3063224.jpg?tf=1200x' alt='Alertan del grave peligro de utilizar apps de ChatGPT no oficiales en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/metal-liquido-vs-pasta-termica-cual-mejor-disipar-calor-ordenador-1245890'>Metal líquido vs. Pasta térmica: ¿cuál es mejor para disipar el calor de tu ordenador?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/metal-liquido-vs-pasta-termica-cual-mejor-disipar-calor-ordenador-1245890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/forma-colocar-pasta-termica-gpu-reduce-5-grados-adicionales-temperatura-no-usa-casi-nadie-2803293.jpg?tf=1200x' alt='Metal líquido vs. Pasta térmica: ¿cuál es mejor para disipar el calor de tu ordenador?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/encontrar-submarino-titan-perdido-camino-titanic-no-sera-nada-sencillo-1263378'>Encontrar el submarino Titán perdido camino del Titanic no será nada sencillo, y el tiempo se agota</a></h4>
-    <a href='https://computerhoy.com/life/encontrar-submarino-titan-perdido-camino-titanic-no-sera-nada-sencillo-1263378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/titan-oceangates-3063102.jpg?tf=1200x' alt='Encontrar el submarino Titán perdido camino del Titanic no será nada sencillo, y el tiempo se agota' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ocu-denuncia-netflix-practicas-enganosas-nuevos-suscriptores-1263390'>La OCU denuncia a Netflix por prácticas engañosas con los nuevos suscriptores</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ocu-denuncia-netflix-practicas-enganosas-nuevos-suscriptores-1263390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/netflix-3013734.jpg?tf=1200x' alt='La OCU denuncia a Netflix por prácticas engañosas con los nuevos suscriptores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/increible-historia-como-foto-famosa-einstein-casi-pierde-siempre-1262926'>La increíble historia de cómo la foto más famosa de Albert Einstein casi se pierde para siempre</a></h4>
-    <a href='https://computerhoy.com/life/increible-historia-como-foto-famosa-einstein-casi-pierde-siempre-1262926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/albert-einstein-3062950.jpg?tf=1200x' alt='La increíble historia de cómo la foto más famosa de Albert Einstein casi se pierde para siempre' />
     </a>
 </div>
 
