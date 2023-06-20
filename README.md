@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/gps-localizacion-muones-rayos-comicos-1263076'>El GPS del futuro: rayos cósmicos que localizarán a personas a cientos de metros bajo tierra o mar</a></h4>
+    <a href='https://computerhoy.com/ciencia/gps-localizacion-muones-rayos-comicos-1263076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/gps-futuro-rayos-comicos-localizaran-personas-cientos-metros-tierra-mar-3062412.jpg?tf=1200x' alt='El GPS del futuro: rayos cósmicos que localizarán a personas a cientos de metros bajo tierra o mar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/submarino-turistas-oceangate-desaparece-visitaba-restos-titanic-1262922'>Un submarino con turistas desaparece mientras visitaba los restos del Titanic</a></h4>
     <a href='https://computerhoy.com/life/submarino-turistas-oceangate-desaparece-visitaba-restos-titanic-1262922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/submarino-turistas-desaparece-mientras-visitaba-restos-titanic-3062262.jpg?tf=1200x' alt='Un submarino con turistas desaparece mientras visitaba los restos del Titanic' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/espana-demuestra-no-hay-hueco-tdt-kings-league-ibai-pique-1262906'>España demuestra que no hay hueco en la TDT para la Kings League de Ibai y Piqué</a></h4>
     <a href='https://computerhoy.com/entretenimiento/espana-demuestra-no-hay-hueco-tdt-kings-league-ibai-pique-1262906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/kings-league-2946664.jpg?tf=1200x' alt='España demuestra que no hay hueco en la TDT para la Kings League de Ibai y Piqué' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tierra-inclina-culpa-ser-humano-terrible-noticia-1262902'>La Tierra se inclina por culpa del ser humano y esto es una terrible noticia</a></h4>
-    <a href='https://computerhoy.com/life/tierra-inclina-culpa-ser-humano-terrible-noticia-1262902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tierra-3062240.jpg?tf=1200x' alt='La Tierra se inclina por culpa del ser humano y esto es una terrible noticia' />
     </a>
 </div>
 
