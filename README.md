@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/encuentra-millon-monedas-penique-sotano-no-consigue-venderlas-1263078'>Encuentra un millón de monedas de un penique en el sótano de su suegro, y es cuando empiezan los problemas</a></h4>
+    <a href='https://computerhoy.com/life/encuentra-millon-monedas-penique-sotano-no-consigue-venderlas-1263078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/encuentra-millon-monedas-penique-sotano-abuelo-cuando-empiezan-problemas-3062416.jpg?tf=1200x' alt='Encuentra un millón de monedas de un penique en el sótano de su suegro, y es cuando empiezan los problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/auriculares-soundcore-anker-estos-son-mejores-modelos-1262680'>Auriculares Soundcore de Anker: estos son los mejores modelos</a></h4>
+    <a href='https://computerhoy.com/mejores/auriculares-soundcore-anker-estos-son-mejores-modelos-1262680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/soundcore-space-q45-2947172.jpg?tf=1200x' alt='Auriculares Soundcore de Anker: estos son los mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/gps-localizacion-muones-rayos-comicos-1263076'>El GPS del futuro: rayos cósmicos que localizarán a personas a cientos de metros bajo tierra o mar</a></h4>
     <a href='https://computerhoy.com/ciencia/gps-localizacion-muones-rayos-comicos-1263076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/gps-futuro-rayos-comicos-localizaran-personas-cientos-metros-tierra-mar-3062412.jpg?tf=1200x' alt='El GPS del futuro: rayos cósmicos que localizarán a personas a cientos de metros bajo tierra o mar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/problema-3-cuerpos-netflix-ciencia-ficcion-trailer-1262920'>Los creadores de Juego de Tronos presentan El problema de los 3 cuerpos, el próximo bombazo de Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/problema-3-cuerpos-netflix-ciencia-ficcion-trailer-1262920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1687201702953-3062208.jpg?tf=1200x' alt='Los creadores de Juego de Tronos presentan El problema de los 3 cuerpos, el próximo bombazo de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/blockbuster-espera-pacientemente-durante-anos-tomarse-venganza-netflix-1262880'>Blockbuster espera pacientemente durante años para tomarse su venganza contra Netflix</a></h4>
-    <a href='https://computerhoy.com/redes/blockbuster-espera-pacientemente-durante-anos-tomarse-venganza-netflix-1262880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/blockbuster-vs-netflix-3062168.jpg?tf=1200x' alt='Blockbuster espera pacientemente durante años para tomarse su venganza contra Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/espana-demuestra-no-hay-hueco-tdt-kings-league-ibai-pique-1262906'>España demuestra que no hay hueco en la TDT para la Kings League de Ibai y Piqué</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/espana-demuestra-no-hay-hueco-tdt-kings-league-ibai-pique-1262906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/kings-league-2946664.jpg?tf=1200x' alt='España demuestra que no hay hueco en la TDT para la Kings League de Ibai y Piqué' />
     </a>
 </div>
 
