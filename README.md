@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-quiere-democratizar-procesadores-cuanticos-pretende-conseguirlo-intel-tunnel-falls-1263736'>Intel quiere democratizar los procesadores cuánticos y pretende conseguirlo con el Intel Tunnel Falls</a></h4>
-    <a href='https://computerhoy.com/pc/intel-quiere-democratizar-procesadores-cuanticos-pretende-conseguirlo-intel-tunnel-falls-1263736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ordenador-cuantico-2833731.jpg?tf=1200x' alt='Intel quiere democratizar los procesadores cuánticos y pretende conseguirlo con el Intel Tunnel Falls' />
+    <h4><a href='https://computerhoy.com/motor/funciona-modo-elon-tesla-activa-conduccion-autonoma-absoluta-1263844'>Así funciona el "Modo Elon" de Tesla que activa la conducción autónoma absoluta</a></h4>
+    <a href='https://computerhoy.com/motor/funciona-modo-elon-tesla-activa-conduccion-autonoma-absoluta-1263844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tesla-autonomo-2968018.jpg?tf=1200x' alt='Así funciona el "Modo Elon" de Tesla que activa la conducción autónoma absoluta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/ya-hay-fecha-oficial-prime-day-amazon-2023-1263722'>Ya hay fecha oficial para el Prime Day de Amazon 2023: consejos para sacarle el máximo partido</a></h4>
-    <a href='https://computerhoy.com/amazon/ya-hay-fecha-oficial-prime-day-amazon-2023-1263722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ya-hay-fecha-oficial-prime-day-amazon-2023-nuevo-son-dos-dias-3063698.jpg?tf=1200x' alt='Ya hay fecha oficial para el Prime Day de Amazon 2023: consejos para sacarle el máximo partido' />
+    <h4><a href='https://computerhoy.com/android/movil-peligro-troyano-android-secuestra-dispositivo-1263824'>Tu móvil está en peligro: este troyano para Android secuestra tu dispositivo</a></h4>
+    <a href='https://computerhoy.com/android/movil-peligro-troyano-android-secuestra-dispositivo-1263824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/malware-movil-2670683.jpg?tf=1200x' alt='Tu móvil está en peligro: este troyano para Android secuestra tu dispositivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/auriculares-xiaomi-redmi-buds-4-lite-rebajados-solo-22-euros-envio-gratis-1263196'>Te vas a hartar de ver estos auriculares Xiaomi: son inalámbricos y tiene un precio sorprendentemente bajo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/auriculares-xiaomi-redmi-buds-4-lite-rebajados-solo-22-euros-envio-gratis-1263196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-buds-4-lite-3062728.jpg?tf=1200x' alt='Te vas a hartar de ver estos auriculares Xiaomi: son inalámbricos y tiene un precio sorprendentemente bajo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/100000-cuentas-chatgpt-hackeadas-estan-vendiendo-dark-web-1263810'>Más de 100.000 cuentas de ChatGPT hackeadas se están vendiendo en la Dark Web</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/100000-cuentas-chatgpt-hackeadas-estan-vendiendo-dark-web-1263810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/100000-cuentas-chatgpt-hackeadas-estan-vendiendo-dark-web-3063922.jpg?tf=1200x' alt='Más de 100.000 cuentas de ChatGPT hackeadas se están vendiendo en la Dark Web' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/cuando-amazon-prime-day-2023-1218992'>Cuándo es Amazon Prime Day 2023</a></h4>
-    <a href='https://computerhoy.com/amazon/cuando-amazon-prime-day-2023-1218992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/almacen-ficticio-lleno-paquetes-2990030.jpg?tf=1200x' alt='Cuándo es Amazon Prime Day 2023' />
+    <h4><a href='https://computerhoy.com/life/expertos-revelan-como-sera-cuerpo-humano-2100-culpa-teletrabajo-1263760'>Expertos revelan cómo será el cuerpo humano tras 70 años de teletrabajo y da escalofríos</a></h4>
+    <a href='https://computerhoy.com/life/expertos-revelan-como-sera-cuerpo-humano-2100-culpa-teletrabajo-1263760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/expertos-revelan-como-sera-cuerpo-humano-70-anos-teletrabajo-da-escalofrios-3063824.jpg?tf=1200x' alt='Expertos revelan cómo será el cuerpo humano tras 70 años de teletrabajo y da escalofríos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-wifi-mesh-comprar-797675'>Estos son los cinco mejores routers con WiFi Mesh de 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-wifi-mesh-comprar-797675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/routers-malla-netgear-orbi-ax5700-2932812.jpg?tf=1200x' alt='Estos son los cinco mejores routers con WiFi Mesh de 2023' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-no-te-ha-estado-espiando-culpa-google-1263776'>WhatsApp no te ha estado espiando, la culpa es de Google</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-no-te-ha-estado-espiando-culpa-google-1263776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/whatsapp-3050682.jpg?tf=1200x' alt='WhatsApp no te ha estado espiando, la culpa es de Google' />
     </a>
 </div>
 
