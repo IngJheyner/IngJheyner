@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/funcion-telegram-debes-desactivar-valoras-seguridad-1263944'>La función de Telegram que debes desactivar ahora mismo si valoras tu privacidad y seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/funcion-telegram-debes-desactivar-valoras-seguridad-1263944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telegram-2949104.jpg?tf=1200x' alt='La función de Telegram que debes desactivar ahora mismo si valoras tu privacidad y seguridad' />
+    <h4><a href='https://computerhoy.com/gaming/microsoft-sube-precio-game-pass-consola-xbox-series-x-1264012'>Microsoft sube el precio del Game Pass, y de la consola Xbox Series X</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-sube-precio-game-pass-consola-xbox-series-x-1264012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xbox-series-x-2579481.jpg?tf=1200x' alt='Microsoft sube el precio del Game Pass, y de la consola Xbox Series X' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/funciones-ocultas-puerta-coche-casi-nadie-conoce-1263366'>Funciones ocultas en la puerta de tu coche que te  volverán absolutamente loco</a></h4>
-    <a href='https://computerhoy.com/motor/funciones-ocultas-puerta-coche-casi-nadie-conoce-1263366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mujer-abriendo-puerta-coche-dentro-3063976.jpg?tf=1200x' alt='Funciones ocultas en la puerta de tu coche que te  volverán absolutamente loco' />
+    <h4><a href='https://computerhoy.com/life/primeras-vacunas-indoloras-agujas-ya-son-realidad-1264002'>Las primeras vacunas indoloras sin agujas ya son una realidad</a></h4>
+    <a href='https://computerhoy.com/life/primeras-vacunas-indoloras-agujas-ya-son-realidad-1264002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/primeras-vacunas-indoloras-agujas-ya-son-realidad-3064390.jpg?tf=1200x' alt='Las primeras vacunas indoloras sin agujas ya son una realidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/videos-youtuber-bordo-titan-momentos-panico-dentro-submarino-desaparecido-1263924'>Los vídeos de un Youtuber a bordo del Titán: momentos de pánico dentro del submarino desaparecido</a></h4>
-    <a href='https://computerhoy.com/life/videos-youtuber-bordo-titan-momentos-panico-dentro-submarino-desaparecido-1263924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/alanxelmundo-titan-3064156.jpg?tf=1200x' alt='Los vídeos de un Youtuber a bordo del Titán: momentos de pánico dentro del submarino desaparecido' />
+    <h4><a href='https://computerhoy.com/entretenimiento/oppenheimer-christopher-nolan-tan-impactante-gente-sale-devastada-verla-1263980'>Oppenheimer de Christopher Nolan es tan impactante que la gente sale devastada tras verla</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/oppenheimer-christopher-nolan-tan-impactante-gente-sale-devastada-verla-1263980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oppenheimer-3064330.jpg?tf=1200x' alt='Oppenheimer de Christopher Nolan es tan impactante que la gente sale devastada tras verla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/carrera-universitaria-tiene-0-paro-buen-sueldo-no-amenazada-ia-1263416'>La carrera universitaria con un 0 % de paro, buen sueldo y que no está amenazada por ChatGPT</a></h4>
-    <a href='https://computerhoy.com/life/carrera-universitaria-tiene-0-paro-buen-sueldo-no-amenazada-ia-1263416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/carrera-universitaria-3063266.jpg?tf=1200x' alt='La carrera universitaria con un 0 % de paro, buen sueldo y que no está amenazada por ChatGPT' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-estos-19-modelos-router-debes-actualizarlo-urgentemente-1263998'>Si tienes uno de estos 19 modelos de router debes actualizarlo urgentemente</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tienes-estos-19-modelos-router-debes-actualizarlo-urgentemente-1263998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/router-asus-3064386.jpg?tf=1200x' alt='Si tienes uno de estos 19 modelos de router debes actualizarlo urgentemente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/impactante-grafico-muestra-profundo-podria-estar-titan-1263912'>¡Hasta 10 veces el Empire State! La salvaje profundidad a la que se encuentra el Titán</a></h4>
-    <a href='https://computerhoy.com/life/impactante-grafico-muestra-profundo-podria-estar-titan-1263912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/sumergible-titan-3064112.jpg?tf=1200x' alt='¡Hasta 10 veces el Empire State! La salvaje profundidad a la que se encuentra el Titán' />
+    <h4><a href='https://computerhoy.com/motor/coche-puede-recopilar-25-gigabytes-informacion-personal-hora-1263970'>Tu coche es un smartphone sobre ruedas capaz de filtrar hasta 25 gigabytes de información personal por hora</a></h4>
+    <a href='https://computerhoy.com/motor/coche-puede-recopilar-25-gigabytes-informacion-personal-hora-1263970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/datos-coche-3064314.jpg?tf=1200x' alt='Tu coche es un smartphone sobre ruedas capaz de filtrar hasta 25 gigabytes de información personal por hora' />
     </a>
 </div>
 
