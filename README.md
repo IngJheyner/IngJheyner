@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/por-que-no-existen-procesadores-128-bits-1263648'>¿Por qué no existen los procesadores de 128 bits?</a></h4>
+    <a href='https://computerhoy.com/pc/por-que-no-existen-procesadores-128-bits-1263648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/procesador-intel-2976324.jpg?tf=1200x' alt='¿Por qué no existen los procesadores de 128 bits?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/parrilla-electrica-859233'>Parrillas eléctricas: consejos y guía para comprar una barbacoa eléctrica</a></h4>
+    <a href='https://computerhoy.com/guia-compra/parrilla-electrica-859233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/taurus-maxim-plus-3062586.jpg?tf=1200x' alt='Parrillas eléctricas: consejos y guía para comprar una barbacoa eléctrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/respiramos-microplastico-hay-tarjeta-credito-1263646'>Cada semana respiramos microplásticos equivalentes a una tarjeta de crédito, y ya sabemos a dónde van</a></h4>
     <a href='https://computerhoy.com/ciencia/respiramos-microplastico-hay-tarjeta-credito-1263646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cada-semana-respiramos-plastico-hay-tarjeta-credito-ya-sabemos-donde-va-3063274.jpg?tf=1200x' alt='Cada semana respiramos microplásticos equivalentes a una tarjeta de crédito, y ya sabemos a dónde van' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ia-capaz-traducir-1263400'>Una IA revela los secretos milenarios ocultos en el antiguo lenguaje acadio cuneiforme</a></h4>
     <a href='https://computerhoy.com/life/ia-capaz-traducir-1263400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tablilla-gilgamesh-3063162.jpg?tf=1200x' alt='Una IA revela los secretos milenarios ocultos en el antiguo lenguaje acadio cuneiforme' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gamepad-logitech-submarino-desaparecido-1263426'>Por qué manejar el submarino desaparecido con el gamepad de 40 euros de Logitech, no es una mala decisión</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gamepad-logitech-submarino-desaparecido-1263426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/submarino-desaparecido-manejaba-gamepad-logitech-juegos-hace-15-anos-habitual-crees-3063154.jpg?tf=1200x' alt='Por qué manejar el submarino desaparecido con el gamepad de 40 euros de Logitech, no es una mala decisión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/piensalo-dos-veces-estan-aprovechando-estafadores-postureo-redes-sociales-1263414'>Piénsalo dos veces: así se están aprovechando los estafadores del postureo en redes sociales</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/piensalo-dos-veces-estan-aprovechando-estafadores-postureo-redes-sociales-1263414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/entradas-cine-3063242.jpg?tf=1200x' alt='Piénsalo dos veces: así se están aprovechando los estafadores del postureo en redes sociales' />
     </a>
 </div>
 
