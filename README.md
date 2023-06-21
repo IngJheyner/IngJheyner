@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/estos-trucos-ahorrar-combustible-no-funcionan-podrian-estar-danando-coche-1254820'>Estos trucos para ahorrar combustible no funcionan y podrían estar dañando tu coche</a></h4>
-    <a href='https://computerhoy.com/motor/estos-trucos-ahorrar-combustible-no-funcionan-podrian-estar-danando-coche-1254820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hombre-desesperado-coche-averiado-3064022.jpg?tf=1200x' alt='Estos trucos para ahorrar combustible no funcionan y podrían estar dañando tu coche' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/funcion-telegram-debes-desactivar-valoras-seguridad-1263944'>La función de Telegram que debes desactivar ahora mismo si valoras tu privacidad y seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/funcion-telegram-debes-desactivar-valoras-seguridad-1263944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telegram-2949104.jpg?tf=1200x' alt='La función de Telegram que debes desactivar ahora mismo si valoras tu privacidad y seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/combinaciones-atajos-mando-amazon-fire-tv-seguramente-no-conoces-1263440'>Combinaciones y atajos del mando de tu Amazon Fire TV que seguramente no conoces</a></h4>
-    <a href='https://computerhoy.com/amazon/combinaciones-atajos-mando-amazon-fire-tv-seguramente-no-conoces-1263440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amazon-fire-tv-stick-4k-max-2495301.jpg?tf=1200x' alt='Combinaciones y atajos del mando de tu Amazon Fire TV que seguramente no conoces' />
+    <h4><a href='https://computerhoy.com/motor/funciones-ocultas-puerta-coche-casi-nadie-conoce-1263366'>Funciones ocultas en la puerta de tu coche que te  volverán absolutamente loco</a></h4>
+    <a href='https://computerhoy.com/motor/funciones-ocultas-puerta-coche-casi-nadie-conoce-1263366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mujer-abriendo-puerta-coche-dentro-3063976.jpg?tf=1200x' alt='Funciones ocultas en la puerta de tu coche que te  volverán absolutamente loco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/descargar-reels-instagram-ya-posible-puedes-hacerlo-1263886'>Descargar los Reels de Instagram ya es posible y así puedes hacerlo</a></h4>
-    <a href='https://computerhoy.com/apps/descargar-reels-instagram-ya-posible-puedes-hacerlo-1263886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/reels-instagram-2019887.jpg?tf=1200x' alt='Descargar los Reels de Instagram ya es posible y así puedes hacerlo' />
+    <h4><a href='https://computerhoy.com/life/videos-youtuber-bordo-titan-momentos-panico-dentro-submarino-desaparecido-1263924'>Los vídeos de un Youtuber a bordo del Titán: momentos de pánico dentro del submarino desaparecido</a></h4>
+    <a href='https://computerhoy.com/life/videos-youtuber-bordo-titan-momentos-panico-dentro-submarino-desaparecido-1263924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/alanxelmundo-titan-3064156.jpg?tf=1200x' alt='Los vídeos de un Youtuber a bordo del Titán: momentos de pánico dentro del submarino desaparecido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/gpu-discreta-pc-como-forzar-uso-windows-11-1263328'>Qué es la GPU discreta de tu PC y cómo forzar su uso en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/gpu-discreta-pc-como-forzar-uso-windows-11-1263328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/gpu-ampere-1942005.jpg?tf=1200x' alt='Qué es la GPU discreta de tu PC y cómo forzar su uso en Windows 11' />
+    <h4><a href='https://computerhoy.com/life/carrera-universitaria-tiene-0-paro-buen-sueldo-no-amenazada-ia-1263416'>La carrera universitaria con un 0 % de paro, buen sueldo y que no está amenazada por ChatGPT</a></h4>
+    <a href='https://computerhoy.com/life/carrera-universitaria-tiene-0-paro-buen-sueldo-no-amenazada-ia-1263416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/carrera-universitaria-3063266.jpg?tf=1200x' alt='La carrera universitaria con un 0 % de paro, buen sueldo y que no está amenazada por ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/funciona-modo-elon-tesla-activa-conduccion-autonoma-absoluta-1263844'>Así funciona el "Modo Elon" de Tesla que activa la conducción autónoma absoluta</a></h4>
-    <a href='https://computerhoy.com/motor/funciona-modo-elon-tesla-activa-conduccion-autonoma-absoluta-1263844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tesla-autonomo-2968018.jpg?tf=1200x' alt='Así funciona el "Modo Elon" de Tesla que activa la conducción autónoma absoluta' />
+    <h4><a href='https://computerhoy.com/life/impactante-grafico-muestra-profundo-podria-estar-titan-1263912'>¡Hasta 10 veces el Empire State! La salvaje profundidad a la que se encuentra el Titán</a></h4>
+    <a href='https://computerhoy.com/life/impactante-grafico-muestra-profundo-podria-estar-titan-1263912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/sumergible-titan-3064112.jpg?tf=1200x' alt='¡Hasta 10 veces el Empire State! La salvaje profundidad a la que se encuentra el Titán' />
     </a>
 </div>
 
