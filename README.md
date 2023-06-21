@@ -74,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gamepad-logitech-submarino-desaparecido-1263426'>El submarino desaparecido se manejaba con un gamepad de Logitech de 40 euros, y es más habitual de lo que crees</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/gamepad-logitech-submarino-desaparecido-1263426'>Por qué manejar el submarino desaparecido con el gamepad de 40 euros de Logitech, no es una mala decisión</a></h4>
     <a href='https://computerhoy.com/tecnologia/gamepad-logitech-submarino-desaparecido-1263426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/submarino-desaparecido-manejaba-gamepad-logitech-juegos-hace-15-anos-habitual-crees-3063154.jpg?tf=1200x' alt='El submarino desaparecido se manejaba con un gamepad de Logitech de 40 euros, y es más habitual de lo que crees' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/submarino-desaparecido-manejaba-gamepad-logitech-juegos-hace-15-anos-habitual-crees-3063154.jpg?tf=1200x' alt='Por qué manejar el submarino desaparecido con el gamepad de 40 euros de Logitech, no es una mala decisión' />
     </a>
 </div>
 
