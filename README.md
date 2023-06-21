@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/combinaciones-atajos-mando-amazon-fire-tv-seguramente-no-conoces-1263440'>Combinaciones y atajos del mando de tu Amazon Fire TV que seguramente no conoces</a></h4>
+    <a href='https://computerhoy.com/amazon/combinaciones-atajos-mando-amazon-fire-tv-seguramente-no-conoces-1263440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amazon-fire-tv-stick-4k-max-2495301.jpg?tf=1200x' alt='Combinaciones y atajos del mando de tu Amazon Fire TV que seguramente no conoces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/descargar-reels-instagram-ya-posible-puedes-hacerlo-1263886'>Descargar los Reels de Instagram ya es posible y así puedes hacerlo</a></h4>
+    <a href='https://computerhoy.com/apps/descargar-reels-instagram-ya-posible-puedes-hacerlo-1263886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/reels-instagram-2019887.jpg?tf=1200x' alt='Descargar los Reels de Instagram ya es posible y así puedes hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/gpu-discreta-pc-como-forzar-uso-windows-11-1263328'>Qué es la GPU discreta de tu PC y cómo forzar su uso en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/gpu-discreta-pc-como-forzar-uso-windows-11-1263328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/gpu-ampere-1942005.jpg?tf=1200x' alt='Qué es la GPU discreta de tu PC y cómo forzar su uso en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/funciona-modo-elon-tesla-activa-conduccion-autonoma-absoluta-1263844'>Así funciona el "Modo Elon" de Tesla que activa la conducción autónoma absoluta</a></h4>
     <a href='https://computerhoy.com/motor/funciona-modo-elon-tesla-activa-conduccion-autonoma-absoluta-1263844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tesla-autonomo-2968018.jpg?tf=1200x' alt='Así funciona el "Modo Elon" de Tesla que activa la conducción autónoma absoluta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/movil-peligro-troyano-android-secuestra-dispositivo-1263824'>Tu móvil está en peligro: este troyano para Android secuestra tu dispositivo</a></h4>
     <a href='https://computerhoy.com/android/movil-peligro-troyano-android-secuestra-dispositivo-1263824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/malware-movil-2670683.jpg?tf=1200x' alt='Tu móvil está en peligro: este troyano para Android secuestra tu dispositivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/100000-cuentas-chatgpt-hackeadas-estan-vendiendo-dark-web-1263810'>Más de 100.000 cuentas de ChatGPT hackeadas se están vendiendo en la Dark Web</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/100000-cuentas-chatgpt-hackeadas-estan-vendiendo-dark-web-1263810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/100000-cuentas-chatgpt-hackeadas-estan-vendiendo-dark-web-3063922.jpg?tf=1200x' alt='Más de 100.000 cuentas de ChatGPT hackeadas se están vendiendo en la Dark Web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/expertos-revelan-como-sera-cuerpo-humano-2100-culpa-teletrabajo-1263760'>Expertos revelan cómo será el cuerpo humano tras 70 años de teletrabajo y da escalofríos</a></h4>
-    <a href='https://computerhoy.com/life/expertos-revelan-como-sera-cuerpo-humano-2100-culpa-teletrabajo-1263760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/expertos-revelan-como-sera-cuerpo-humano-70-anos-teletrabajo-da-escalofrios-3063824.jpg?tf=1200x' alt='Expertos revelan cómo será el cuerpo humano tras 70 años de teletrabajo y da escalofríos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-no-te-ha-estado-espiando-culpa-google-1263776'>WhatsApp no te ha estado espiando, la culpa es de Google</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-no-te-ha-estado-espiando-culpa-google-1263776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/whatsapp-3050682.jpg?tf=1200x' alt='WhatsApp no te ha estado espiando, la culpa es de Google' />
     </a>
 </div>
 
