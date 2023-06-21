@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/estos-trucos-ahorrar-combustible-no-funcionan-podrian-estar-danando-coche-1254820'>Estos trucos para ahorrar combustible no funcionan y podrían estar dañando tu coche</a></h4>
+    <a href='https://computerhoy.com/motor/estos-trucos-ahorrar-combustible-no-funcionan-podrian-estar-danando-coche-1254820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hombre-desesperado-coche-averiado-3064022.jpg?tf=1200x' alt='Estos trucos para ahorrar combustible no funcionan y podrían estar dañando tu coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/combinaciones-atajos-mando-amazon-fire-tv-seguramente-no-conoces-1263440'>Combinaciones y atajos del mando de tu Amazon Fire TV que seguramente no conoces</a></h4>
     <a href='https://computerhoy.com/amazon/combinaciones-atajos-mando-amazon-fire-tv-seguramente-no-conoces-1263440' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amazon-fire-tv-stick-4k-max-2495301.jpg?tf=1200x' alt='Combinaciones y atajos del mando de tu Amazon Fire TV que seguramente no conoces' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/funciona-modo-elon-tesla-activa-conduccion-autonoma-absoluta-1263844'>Así funciona el "Modo Elon" de Tesla que activa la conducción autónoma absoluta</a></h4>
     <a href='https://computerhoy.com/motor/funciona-modo-elon-tesla-activa-conduccion-autonoma-absoluta-1263844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tesla-autonomo-2968018.jpg?tf=1200x' alt='Así funciona el "Modo Elon" de Tesla que activa la conducción autónoma absoluta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/movil-peligro-troyano-android-secuestra-dispositivo-1263824'>Tu móvil está en peligro: este troyano para Android secuestra tu dispositivo</a></h4>
-    <a href='https://computerhoy.com/android/movil-peligro-troyano-android-secuestra-dispositivo-1263824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/malware-movil-2670683.jpg?tf=1200x' alt='Tu móvil está en peligro: este troyano para Android secuestra tu dispositivo' />
     </a>
 </div>
 
