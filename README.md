@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023</a></h4>
+    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/reloj-deportivo-3062672.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-evitar-robo-datos-cuando-ia-puede-ya-clonar-voces-1258176'>Lo que aconsejan los expertos si una IA intenta engañarte: clonar voces o usar 'deepfakes' para robar tus datos personales</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-evitar-robo-datos-cuando-ia-puede-ya-clonar-voces-1258176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estafa-informatica-ia-inteligencia-artificial-clonar-voz-3056700.jpg?tf=1200x' alt='Lo que aconsejan los expertos si una IA intenta engañarte: clonar voces o usar 'deepfakes' para robar tus datos personales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/por-que-no-existen-procesadores-128-bits-1263648'>¿Por qué no existen los procesadores de 128 bits?</a></h4>
     <a href='https://computerhoy.com/pc/por-que-no-existen-procesadores-128-bits-1263648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/procesador-intel-2976324.jpg?tf=1200x' alt='¿Por qué no existen los procesadores de 128 bits?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/respiramos-microplastico-hay-tarjeta-credito-1263646'>Cada semana respiramos microplásticos equivalentes a una tarjeta de crédito, y ya sabemos a dónde van</a></h4>
     <a href='https://computerhoy.com/ciencia/respiramos-microplastico-hay-tarjeta-credito-1263646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cada-semana-respiramos-plastico-hay-tarjeta-credito-ya-sabemos-donde-va-3063274.jpg?tf=1200x' alt='Cada semana respiramos microplásticos equivalentes a una tarjeta de crédito, y ya sabemos a dónde van' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-dejar-llaves-puestas-funcion-movil-android-debes-desactivar-1263410'>Es como dejar las llaves puestas: la función de tu móvil Android que debes desactivar de inmediato</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-dejar-llaves-puestas-funcion-movil-android-debes-desactivar-1263410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movil-android-llave-3063264.jpg?tf=1200x' alt='Es como dejar las llaves puestas: la función de tu móvil Android que debes desactivar de inmediato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ia-capaz-traducir-1263400'>Una IA revela los secretos milenarios ocultos en el antiguo lenguaje acadio cuneiforme</a></h4>
-    <a href='https://computerhoy.com/life/ia-capaz-traducir-1263400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tablilla-gilgamesh-3063162.jpg?tf=1200x' alt='Una IA revela los secretos milenarios ocultos en el antiguo lenguaje acadio cuneiforme' />
     </a>
 </div>
 
