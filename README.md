@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/respiramos-microplastico-hay-tarjeta-credito-1263646'>Cada semana respiramos microplásticos equivalentes a una tarjeta de crédito, y ya sabemos a dónde van</a></h4>
+    <a href='https://computerhoy.com/ciencia/respiramos-microplastico-hay-tarjeta-credito-1263646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cada-semana-respiramos-plastico-hay-tarjeta-credito-ya-sabemos-donde-va-3063274.jpg?tf=1200x' alt='Cada semana respiramos microplásticos equivalentes a una tarjeta de crédito, y ya sabemos a dónde van' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/como-dejar-llaves-puestas-funcion-movil-android-debes-desactivar-1263410'>Es como dejar las llaves puestas: la función de tu móvil Android que debes desactivar de inmediato</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/como-dejar-llaves-puestas-funcion-movil-android-debes-desactivar-1263410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movil-android-llave-3063264.jpg?tf=1200x' alt='Es como dejar las llaves puestas: la función de tu móvil Android que debes desactivar de inmediato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/piensalo-dos-veces-estan-aprovechando-estafadores-postureo-redes-sociales-1263414'>Piénsalo dos veces: así se están aprovechando los estafadores del postureo en redes sociales</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/piensalo-dos-veces-estan-aprovechando-estafadores-postureo-redes-sociales-1263414' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/entradas-cine-3063242.jpg?tf=1200x' alt='Piénsalo dos veces: así se están aprovechando los estafadores del postureo en redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/alertan-grave-peligro-utilizar-apps-chatgpt-no-oficiales-android-1263412'>Alertan del grave peligro de utilizar apps de ChatGPT no oficiales en Android</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/alertan-grave-peligro-utilizar-apps-chatgpt-no-oficiales-android-1263412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-malware-3063224.jpg?tf=1200x' alt='Alertan del grave peligro de utilizar apps de ChatGPT no oficiales en Android' />
     </a>
 </div>
 
