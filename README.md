@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023</a></h4>
-    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/reloj-deportivo-3062672.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023' />
+    <h4><a href='https://computerhoy.com/pc/intel-quiere-democratizar-procesadores-cuanticos-pretende-conseguirlo-intel-tunnel-falls-1263736'>Intel quiere democratizar los procesadores cuánticos y pretende conseguirlo con el Intel Tunnel Falls</a></h4>
+    <a href='https://computerhoy.com/pc/intel-quiere-democratizar-procesadores-cuanticos-pretende-conseguirlo-intel-tunnel-falls-1263736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ordenador-cuantico-2833731.jpg?tf=1200x' alt='Intel quiere democratizar los procesadores cuánticos y pretende conseguirlo con el Intel Tunnel Falls' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-evitar-robo-datos-cuando-ia-puede-ya-clonar-voces-1258176'>Lo que aconsejan los expertos si una IA intenta engañarte: clonar voces o usar 'deepfakes' para robar tus datos personales</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-evitar-robo-datos-cuando-ia-puede-ya-clonar-voces-1258176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estafa-informatica-ia-inteligencia-artificial-clonar-voz-3056700.jpg?tf=1200x' alt='Lo que aconsejan los expertos si una IA intenta engañarte: clonar voces o usar 'deepfakes' para robar tus datos personales' />
+    <h4><a href='https://computerhoy.com/amazon/ya-hay-fecha-oficial-prime-day-amazon-2023-1263722'>Ya hay fecha oficial para el Prime Day de Amazon 2023: consejos para sacarle el máximo partido</a></h4>
+    <a href='https://computerhoy.com/amazon/ya-hay-fecha-oficial-prime-day-amazon-2023-1263722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ya-hay-fecha-oficial-prime-day-amazon-2023-nuevo-son-dos-dias-3063698.jpg?tf=1200x' alt='Ya hay fecha oficial para el Prime Day de Amazon 2023: consejos para sacarle el máximo partido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/por-que-no-existen-procesadores-128-bits-1263648'>¿Por qué no existen los procesadores de 128 bits?</a></h4>
-    <a href='https://computerhoy.com/pc/por-que-no-existen-procesadores-128-bits-1263648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/procesador-intel-2976324.jpg?tf=1200x' alt='¿Por qué no existen los procesadores de 128 bits?' />
+    <h4><a href='https://computerhoy.com/tecnologia/auriculares-xiaomi-redmi-buds-4-lite-rebajados-solo-22-euros-envio-gratis-1263196'>Te vas a hartar de ver estos auriculares Xiaomi: son inalámbricos y tiene un precio sorprendentemente bajo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/auriculares-xiaomi-redmi-buds-4-lite-rebajados-solo-22-euros-envio-gratis-1263196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-buds-4-lite-3062728.jpg?tf=1200x' alt='Te vas a hartar de ver estos auriculares Xiaomi: son inalámbricos y tiene un precio sorprendentemente bajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/parrilla-electrica-859233'>Parrillas eléctricas: consejos y guía para comprar una barbacoa eléctrica</a></h4>
-    <a href='https://computerhoy.com/guia-compra/parrilla-electrica-859233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/taurus-maxim-plus-3062586.jpg?tf=1200x' alt='Parrillas eléctricas: consejos y guía para comprar una barbacoa eléctrica' />
+    <h4><a href='https://computerhoy.com/amazon/cuando-amazon-prime-day-2023-1218992'>Cuándo es Amazon Prime Day 2023</a></h4>
+    <a href='https://computerhoy.com/amazon/cuando-amazon-prime-day-2023-1218992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/almacen-ficticio-lleno-paquetes-2990030.jpg?tf=1200x' alt='Cuándo es Amazon Prime Day 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/respiramos-microplastico-hay-tarjeta-credito-1263646'>Cada semana respiramos microplásticos equivalentes a una tarjeta de crédito, y ya sabemos a dónde van</a></h4>
-    <a href='https://computerhoy.com/ciencia/respiramos-microplastico-hay-tarjeta-credito-1263646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cada-semana-respiramos-plastico-hay-tarjeta-credito-ya-sabemos-donde-va-3063274.jpg?tf=1200x' alt='Cada semana respiramos microplásticos equivalentes a una tarjeta de crédito, y ya sabemos a dónde van' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-wifi-mesh-comprar-797675'>Estos son los cinco mejores routers con WiFi Mesh de 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-routers-wifi-mesh-comprar-797675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/routers-malla-netgear-orbi-ax5700-2932812.jpg?tf=1200x' alt='Estos son los cinco mejores routers con WiFi Mesh de 2023' />
     </a>
 </div>
 
