@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/video-cara-cara-animales-actuales-ancestros-prehistoricos-1264246'>Este vídeo cara a cara entre animales actuales y sus ancestros extintos, te va a sorprender </a></h4>
+    <a href='https://computerhoy.com/ciencia/video-cara-cara-animales-actuales-ancestros-prehistoricos-1264246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/comparativa-tamano-animales-actuales-ancestros-extintos-te-va-sorprender-3064456.jpg?tf=1200x' alt='Este vídeo cara a cara entre animales actuales y sus ancestros extintos, te va a sorprender ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nave-europea-bepicolombo-acerca-mercurio-fotos-1264026'>La nave europea BepiColombo se acerca más que nunca a Mercurio</a></h4>
     <a href='https://computerhoy.com/espacio/nave-europea-bepicolombo-acerca-mercurio-fotos-1264026' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nave-europea-bepicolombo-acerca-nunca-mercurio-3064420.jpg?tf=1200x' alt='La nave europea BepiColombo se acerca más que nunca a Mercurio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/oppenheimer-christopher-nolan-tan-impactante-gente-sale-devastada-verla-1263980'>Oppenheimer de Christopher Nolan es tan impactante que la gente sale devastada tras verla</a></h4>
     <a href='https://computerhoy.com/entretenimiento/oppenheimer-christopher-nolan-tan-impactante-gente-sale-devastada-verla-1263980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oppenheimer-3064330.jpg?tf=1200x' alt='Oppenheimer de Christopher Nolan es tan impactante que la gente sale devastada tras verla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-estos-19-modelos-router-debes-actualizarlo-urgentemente-1263998'>Si tienes uno de estos 19 modelos de router debes actualizarlo urgentemente</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tienes-estos-19-modelos-router-debes-actualizarlo-urgentemente-1263998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/router-asus-3064386.jpg?tf=1200x' alt='Si tienes uno de estos 19 modelos de router debes actualizarlo urgentemente' />
     </a>
 </div>
 
