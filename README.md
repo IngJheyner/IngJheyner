@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oferta-iphone-14-plus-precio-minimo-1264286'>Se desploma el precio del iPhone 14 Plus a niveles nunca vistos: corre, no hay mucho stock</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oferta-iphone-14-plus-precio-minimo-1264286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857677.jpg?tf=1200x' alt='Se desploma el precio del iPhone 14 Plus a niveles nunca vistos: corre, no hay mucho stock' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/estos-4-voluntarios-nasa-estan-punto-vivir-ano-habitat-simula-marte-1264278'>Estos 4 voluntarios de la NASA están a punto de vivir un año en un hábitat que simula Marte</a></h4>
+    <a href='https://computerhoy.com/espacio/estos-4-voluntarios-nasa-estan-punto-vivir-ano-habitat-simula-marte-1264278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estos-4-voluntarios-nasa-estan-punto-vivir-ano-habitat-simula-marte-3064720.jpg?tf=1200x' alt='Estos 4 voluntarios de la NASA están a punto de vivir un año en un hábitat que simula Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-645-computer-hoy-1260540'>¡Ya está en tu quiosco el número 645 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-645-computer-hoy-1260540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/computer-hoy-645-3060474.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 645 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/salistick-primer-test-embarazo-funciona-saliva-1264272'>El primer test de embarazo que funciona con la saliva, ya a la venta</a></h4>
+    <a href='https://computerhoy.com/ciencia/salistick-primer-test-embarazo-funciona-saliva-1264272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pone-venta-primer-test-embarazo-funciona-saliva-3064696.jpg?tf=1200x' alt='El primer test de embarazo que funciona con la saliva, ya a la venta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/estrenos-skyshowtime-verano-clasicazos-peliculones-1264004'>Estrenos de SkyShowtime en verano: clasicazos y peliculones</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estrenos-skyshowtime-verano-clasicazos-peliculones-1264004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estrenos-verano-skyshowtime-3064704.jpg?tf=1200x' alt='Estrenos de SkyShowtime en verano: clasicazos y peliculones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903'>Estos son los mejores relojes de running que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/reloj-running-3063488.jpg?tf=1200x' alt='Estos son los mejores relojes de running que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/amazon-echo-pop-analisis-opinion-1262756'>Amazon Echo Pop: análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/amazon-echo-pop-analisis-opinion-1262756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-echo-pop-3063050.jpg?tf=1200x' alt='Amazon Echo Pop: análisis y opinión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/panel-solar-portatil-origami-1264250'>Este panel solar portátil cabe en el bolsillo gracias al origami</a></h4>
-    <a href='https://computerhoy.com/energia/panel-solar-portatil-origami-1264250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1687404853502-3064682.jpg?tf=1200x' alt='Este panel solar portátil cabe en el bolsillo gracias al origami' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-barbacoas-electricas-comprar-896495'>Estas son las mejores barbacoas eléctricas para cocinar sin humos ni carbón</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-barbacoas-electricas-comprar-896495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/barbacoa-3063628.jpg?tf=1200x' alt='Estas son las mejores barbacoas eléctricas para cocinar sin humos ni carbón' />
     </a>
 </div>
 
