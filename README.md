@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/8-consejos-alargar-vida-util-bateria-smartphone-1264510'>8 consejos para alargar la vida útil de la batería de tu smartphone</a></h4>
-    <a href='https://computerhoy.com/moviles/8-consejos-alargar-vida-util-bateria-smartphone-1264510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bateria-movil-3065252.jpg?tf=1200x' alt='8 consejos para alargar la vida útil de la batería de tu smartphone' />
+    <h4><a href='https://computerhoy.com/internet/movistar-da-marcha-atras-anula-permanencia-tarifas-1264602'>Movistar da marcha atrás: anula la permanencia en las tarifas que había estrenado esta semana</a></h4>
+    <a href='https://computerhoy.com/internet/movistar-da-marcha-atras-anula-permanencia-tarifas-1264602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movistar-sorprende-clientes-duplicando-forma-gratuita-velocidad-internet-3048838.jpg?tf=1200x' alt='Movistar da marcha atrás: anula la permanencia en las tarifas que había estrenado esta semana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/sigue-siendo-valida-verano-2023-regla-7-saber-te-ha-cazado-radar-velocidad-1264028'>¿Sigue siendo válida en verano de 2023 la regla del 7 para saber si te ha cazado un radar de velocidad?</a></h4>
-    <a href='https://computerhoy.com/motor/sigue-siendo-valida-verano-2023-regla-7-saber-te-ha-cazado-radar-velocidad-1264028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg?tf=1200x' alt='¿Sigue siendo válida en verano de 2023 la regla del 7 para saber si te ha cazado un radar de velocidad?' />
+    <h4><a href='https://computerhoy.com/life/oceangate-muertos-pasajeros-submarino-titanic-1264596'>Tras hallar los primeros restos, OceanGate da por muertos a los pasajeros del submarino del Titanic</a></h4>
+    <a href='https://computerhoy.com/life/oceangate-muertos-pasajeros-submarino-titanic-1264596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hallar-primeros-restos-oceangate-da-muertos-tripulantes-submarino-titanic-3065422.jpg?tf=1200x' alt='Tras hallar los primeros restos, OceanGate da por muertos a los pasajeros del submarino del Titanic' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/mediamarkt-red-friday-ofertas-tecnologia-1254700'>MediaMarkt propone ofertas en tecnología propias de Black Friday durante su Red Friday</a></h4>
-    <a href='https://computerhoy.com/mejores/mediamarkt-red-friday-ofertas-tecnologia-1254700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/frontal-tienda-mediamarkt-sabadell-2867019.jpg?tf=1200x' alt='MediaMarkt propone ofertas en tecnología propias de Black Friday durante su Red Friday' />
+    <h4><a href='https://computerhoy.com/pc/microsoft-alcanza-hito-clave-intento-construir-superordenador-cuantico-1264574'>Microsoft alcanza un hito hacia el superordenador cuántico: crear y controlar la partícula de Majorana</a></h4>
+    <a href='https://computerhoy.com/pc/microsoft-alcanza-hito-clave-intento-construir-superordenador-cuantico-1264574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/majorana-superordenador-microsoft-3065382.jpg?tf=1200x' alt='Microsoft alcanza un hito hacia el superordenador cuántico: crear y controlar la partícula de Majorana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/debes-desconfiar-extensiones-chatgpt-prometen-integrar-ia-navegador-1263292'>Por qué debes desconfiar de las extensiones de ChatGPT que prometen integrar la IA en tu navegador</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/debes-desconfiar-extensiones-chatgpt-prometen-integrar-ia-navegador-1263292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-3061002.jpg?tf=1200x' alt='Por qué debes desconfiar de las extensiones de ChatGPT que prometen integrar la IA en tu navegador' />
+    <h4><a href='https://computerhoy.com/windows/error-windows-11-hace-explorador-archivos-coma-cpu-puedes-solucionarlo-1264590'>Un error en Windows 11 hace que el explorador de archivos se coma la CPU: así puedes solucionarlo</a></h4>
+    <a href='https://computerhoy.com/windows/error-windows-11-hace-explorador-archivos-coma-cpu-puedes-solucionarlo-1264590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg?tf=1200x' alt='Un error en Windows 11 hace que el explorador de archivos se coma la CPU: así puedes solucionarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tienes-fotos-videos-aqui-guardados-saberlo-google-eliminara-no-evitas-1264024'>Tienes fotos y vídeos aquí guardados sin saberlo y Google los eliminará si no lo evitas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tienes-fotos-videos-aqui-guardados-saberlo-google-eliminara-no-evitas-1264024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg?tf=1200x' alt='Tienes fotos y vídeos aquí guardados sin saberlo y Google los eliminará si no lo evitas' />
+    <h4><a href='https://computerhoy.com/life/llegas-dia-ser-notificado-te-has-librado-mesa-electoral-23j-1264544'>Si llegas a este día sin ser notificado, te has librado de la mesa electoral el 23J</a></h4>
+    <a href='https://computerhoy.com/life/llegas-dia-ser-notificado-te-has-librado-mesa-electoral-23j-1264544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/carta-hacienda-3063868.jpg?tf=1200x' alt='Si llegas a este día sin ser notificado, te has librado de la mesa electoral el 23J' />
     </a>
 </div>
 
