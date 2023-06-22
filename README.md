@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mejorar-rendimiento-pc-windows-11-funciona-muy-lento-1263942'>Cómo mejorar al instante el rendimiento de un PC con Windows 11 que funciona muy lento</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mejorar-rendimiento-pc-windows-11-funciona-muy-lento-1263942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pc-lento-windows-3064392.jpg?tf=1200x' alt='Cómo mejorar al instante el rendimiento de un PC con Windows 11 que funciona muy lento' />
+    <h4><a href='https://computerhoy.com/moviles/8-consejos-alargar-vida-util-bateria-smartphone-1264510'>8 consejos para alargar la vida útil de la batería de tu smartphone</a></h4>
+    <a href='https://computerhoy.com/moviles/8-consejos-alargar-vida-util-bateria-smartphone-1264510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bateria-movil-3065252.jpg?tf=1200x' alt='8 consejos para alargar la vida útil de la batería de tu smartphone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/musica-hecha-inteligencia-artificial-excluida-premios-grammy-1264492'>La música hecha por Inteligencia Artificial es excluida de los premios Grammy</a></h4>
-    <a href='https://computerhoy.com/tecnologia/musica-hecha-inteligencia-artificial-excluida-premios-grammy-1264492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cantante-2298449.jpg?tf=1200x' alt='La música hecha por Inteligencia Artificial es excluida de los premios Grammy' />
+    <h4><a href='https://computerhoy.com/motor/sigue-siendo-valida-verano-2023-regla-7-saber-te-ha-cazado-radar-velocidad-1264028'>¿Sigue siendo válida en verano de 2023 la regla del 7 para saber si te ha cazado un radar de velocidad?</a></h4>
+    <a href='https://computerhoy.com/motor/sigue-siendo-valida-verano-2023-regla-7-saber-te-ha-cazado-radar-velocidad-1264028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/como-activar-funcion-google-maps-te-avisa-radares-dgt-2422045.jpg?tf=1200x' alt='¿Sigue siendo válida en verano de 2023 la regla del 7 para saber si te ha cazado un radar de velocidad?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gpt-5-nuevos-rumores-lanzamiento-posibles-mejoras-integrara-futuro-chatgpt-1264368'>GPT-5: nuevos rumores de lanzamiento y posibles mejoras que integrará en un futuro ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gpt-5-nuevos-rumores-lanzamiento-posibles-mejoras-integrara-futuro-chatgpt-1264368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/gpt-5-nuevos-rumores-lanzamiento-posibles-mejoras-integrara-nuevo-chatgpt-3065162.jpg?tf=1200x' alt='GPT-5: nuevos rumores de lanzamiento y posibles mejoras que integrará en un futuro ChatGPT' />
+    <h4><a href='https://computerhoy.com/mejores/mediamarkt-red-friday-ofertas-tecnologia-1254700'>MediaMarkt propone ofertas en tecnología propias de Black Friday durante su Red Friday</a></h4>
+    <a href='https://computerhoy.com/mejores/mediamarkt-red-friday-ofertas-tecnologia-1254700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/frontal-tienda-mediamarkt-sabadell-2867019.jpg?tf=1200x' alt='MediaMarkt propone ofertas en tecnología propias de Black Friday durante su Red Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/locura-redes-boton-secreto-oculto-guantera-coche-1263900'>Locura en las redes por el botón secreto oculto en la guantera de tu coche que puede salvarte la vida este verano</a></h4>
-    <a href='https://computerhoy.com/motor/locura-redes-boton-secreto-oculto-guantera-coche-1263900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/01/citroen-c4-cactus-2018.jpg?tf=1200x' alt='Locura en las redes por el botón secreto oculto en la guantera de tu coche que puede salvarte la vida este verano' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/debes-desconfiar-extensiones-chatgpt-prometen-integrar-ia-navegador-1263292'>Por qué debes desconfiar de las extensiones de ChatGPT que prometen integrar la IA en tu navegador</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/debes-desconfiar-extensiones-chatgpt-prometen-integrar-ia-navegador-1263292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-3061002.jpg?tf=1200x' alt='Por qué debes desconfiar de las extensiones de ChatGPT que prometen integrar la IA en tu navegador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/resolucion-1080p-premium-youtube-funciona-nueva-resolucion-pago-1264470'>Resolución 1080p Premium en YouTube: así funciona la nueva resolución de pago</a></h4>
-    <a href='https://computerhoy.com/google/resolucion-1080p-premium-youtube-funciona-nueva-resolucion-pago-1264470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/youtube-puede-ser-nube-infinita-personal-videos-fotos-documentos-no-hay-limitaciones-3040296.jpg?tf=1200x' alt='Resolución 1080p Premium en YouTube: así funciona la nueva resolución de pago' />
+    <h4><a href='https://computerhoy.com/tutoriales/tienes-fotos-videos-aqui-guardados-saberlo-google-eliminara-no-evitas-1264024'>Tienes fotos y vídeos aquí guardados sin saberlo y Google los eliminará si no lo evitas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tienes-fotos-videos-aqui-guardados-saberlo-google-eliminara-no-evitas-1264024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-fotos-ya-permite-anadir-fotos-videos-albumes-necesidad-conexion-2305279.jpg?tf=1200x' alt='Tienes fotos y vídeos aquí guardados sin saberlo y Google los eliminará si no lo evitas' />
     </a>
 </div>
 
