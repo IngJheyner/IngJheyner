@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/velada-ano-3-ibai-tiene-competencia-mark-zuckerberg-reta-elon-musk-pelea-1264440'>Dos tontos muy tontos: Mark Zuckerberg reta a Elon Musk a una pelea estilo MMA en jaula</a></h4>
-    <a href='https://computerhoy.com/life/velada-ano-3-ibai-tiene-competencia-mark-zuckerberg-reta-elon-musk-pelea-1264440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mark-zuckerberg-2995754.jpg?tf=1200x' alt='Dos tontos muy tontos: Mark Zuckerberg reta a Elon Musk a una pelea estilo MMA en jaula' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-mejorar-rendimiento-pc-windows-11-funciona-muy-lento-1263942'>Cómo mejorar al instante el rendimiento de un PC con Windows 11 que funciona muy lento</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mejorar-rendimiento-pc-windows-11-funciona-muy-lento-1263942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pc-lento-windows-3064392.jpg?tf=1200x' alt='Cómo mejorar al instante el rendimiento de un PC con Windows 11 que funciona muy lento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/estafa-reduflacion-atreve-ya-sagrado-cerveza-1264410'>La estafa de la reduflación se atreve ya hasta con lo más sagrado: la cerveza</a></h4>
-    <a href='https://computerhoy.com/alimentacion/estafa-reduflacion-atreve-ya-sagrado-cerveza-1264410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cerveza-2635711.jpg?tf=1200x' alt='La estafa de la reduflación se atreve ya hasta con lo más sagrado: la cerveza' />
+    <h4><a href='https://computerhoy.com/tecnologia/musica-hecha-inteligencia-artificial-excluida-premios-grammy-1264492'>La música hecha por Inteligencia Artificial es excluida de los premios Grammy</a></h4>
+    <a href='https://computerhoy.com/tecnologia/musica-hecha-inteligencia-artificial-excluida-premios-grammy-1264492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/cantante-2298449.jpg?tf=1200x' alt='La música hecha por Inteligencia Artificial es excluida de los premios Grammy' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trabajos-ya-estan-desapareciendo-culpa-chatgpt-ia-1264344'>Trabajos que ya están desapareciendo por culpa de ChatGPT y la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trabajos-ya-estan-desapareciendo-culpa-chatgpt-ia-1264344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/trabajos-ya-estan-desapareciendo-culpa-chatgpt-ia-3064836.jpg?tf=1200x' alt='Trabajos que ya están desapareciendo por culpa de ChatGPT y la IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/gpt-5-nuevos-rumores-lanzamiento-posibles-mejoras-integrara-futuro-chatgpt-1264368'>GPT-5: nuevos rumores de lanzamiento y posibles mejoras que integrará en un futuro ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gpt-5-nuevos-rumores-lanzamiento-posibles-mejoras-integrara-futuro-chatgpt-1264368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/gpt-5-nuevos-rumores-lanzamiento-posibles-mejoras-integrara-nuevo-chatgpt-3065162.jpg?tf=1200x' alt='GPT-5: nuevos rumores de lanzamiento y posibles mejoras que integrará en un futuro ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ola-calor-no-sera-tanto-aire-acondicionado-consumo-wifi-1263846'>¿Ola de calor? No será para tanto con este aire acondicionado de bajo consumo y con WiFi que revienta el mercado con su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ola-calor-no-sera-tanto-aire-acondicionado-consumo-wifi-1263846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/infiniton-3720mu-3063958.jpg?tf=1200x' alt='¿Ola de calor? No será para tanto con este aire acondicionado de bajo consumo y con WiFi que revienta el mercado con su precio' />
+    <h4><a href='https://computerhoy.com/motor/locura-redes-boton-secreto-oculto-guantera-coche-1263900'>Locura en las redes por el botón secreto oculto en la guantera de tu coche que puede salvarte la vida este verano</a></h4>
+    <a href='https://computerhoy.com/motor/locura-redes-boton-secreto-oculto-guantera-coche-1263900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/01/citroen-c4-cactus-2018.jpg?tf=1200x' alt='Locura en las redes por el botón secreto oculto en la guantera de tu coche que puede salvarte la vida este verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gps-radar-no-son-opcion-agua-desafio-localizar-sumergible-titan-1264360'>El GPS y el radar no son una opción bajo el agua: el desafío de localizar el sumergible Titan</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gps-radar-no-son-opcion-agua-desafio-localizar-sumergible-titan-1264360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/submarino-turistas-desaparece-mientras-visitaba-restos-titanic-3062262.jpg?tf=1200x' alt='El GPS y el radar no son una opción bajo el agua: el desafío de localizar el sumergible Titan' />
+    <h4><a href='https://computerhoy.com/google/resolucion-1080p-premium-youtube-funciona-nueva-resolucion-pago-1264470'>Resolución 1080p Premium en YouTube: así funciona la nueva resolución de pago</a></h4>
+    <a href='https://computerhoy.com/google/resolucion-1080p-premium-youtube-funciona-nueva-resolucion-pago-1264470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/youtube-puede-ser-nube-infinita-personal-videos-fotos-documentos-no-hay-limitaciones-3040296.jpg?tf=1200x' alt='Resolución 1080p Premium en YouTube: así funciona la nueva resolución de pago' />
     </a>
 </div>
 
