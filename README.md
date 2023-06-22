@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oferta-iphone-14-plus-precio-minimo-1264286'>Se desploma el precio del iPhone 14 Plus a niveles nunca vistos: corre, no hay mucho stock</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oferta-iphone-14-plus-precio-minimo-1264286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857677.jpg?tf=1200x' alt='Se desploma el precio del iPhone 14 Plus a niveles nunca vistos: corre, no hay mucho stock' />
+    <h4><a href='https://computerhoy.com/tecnologia/trabajos-ya-estan-desapareciendo-culpa-chatgpt-ia-1264344'>Trabajos que ya están desapareciendo por culpa de ChatGPT y la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trabajos-ya-estan-desapareciendo-culpa-chatgpt-ia-1264344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/trabajos-ya-estan-desapareciendo-culpa-chatgpt-ia-3064836.jpg?tf=1200x' alt='Trabajos que ya están desapareciendo por culpa de ChatGPT y la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/estos-4-voluntarios-nasa-estan-punto-vivir-ano-habitat-simula-marte-1264278'>Estos 4 voluntarios de la NASA están a punto de vivir un año en un hábitat que simula Marte</a></h4>
-    <a href='https://computerhoy.com/espacio/estos-4-voluntarios-nasa-estan-punto-vivir-ano-habitat-simula-marte-1264278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estos-4-voluntarios-nasa-estan-punto-vivir-ano-habitat-simula-marte-3064720.jpg?tf=1200x' alt='Estos 4 voluntarios de la NASA están a punto de vivir un año en un hábitat que simula Marte' />
+    <h4><a href='https://computerhoy.com/tecnologia/ola-calor-no-sera-tanto-aire-acondicionado-consumo-wifi-1263846'>¿Ola de calor? No será para tanto con este aire acondicionado de bajo consumo y con WiFi que revienta el mercado con su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ola-calor-no-sera-tanto-aire-acondicionado-consumo-wifi-1263846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/infiniton-3720mu-3063958.jpg?tf=1200x' alt='¿Ola de calor? No será para tanto con este aire acondicionado de bajo consumo y con WiFi que revienta el mercado con su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-645-computer-hoy-1260540'>¡Ya está en tu quiosco el número 645 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-645-computer-hoy-1260540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/computer-hoy-645-3060474.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 645 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/tecnologia/gps-radar-no-son-opcion-agua-desafio-localizar-sumergible-titan-1264360'>El GPS y el radar no son una opción bajo el agua: el desafío de localizar el sumergible Titan</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gps-radar-no-son-opcion-agua-desafio-localizar-sumergible-titan-1264360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/submarino-turistas-desaparece-mientras-visitaba-restos-titanic-3062262.jpg?tf=1200x' alt='El GPS y el radar no son una opción bajo el agua: el desafío de localizar el sumergible Titan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/salistick-primer-test-embarazo-funciona-saliva-1264272'>El primer test de embarazo que funciona con la saliva, ya a la venta</a></h4>
-    <a href='https://computerhoy.com/ciencia/salistick-primer-test-embarazo-funciona-saliva-1264272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pone-venta-primer-test-embarazo-funciona-saliva-3064696.jpg?tf=1200x' alt='El primer test de embarazo que funciona con la saliva, ya a la venta' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-bing-bard-votacion-40000-personas-decide-cual-mejor-chatbot-1264310'>ChatGPT, Bing, Bard... esta votación con más de 40.000 personas decide cuál es el mejor chatbot</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-bing-bard-votacion-40000-personas-decide-cual-mejor-chatbot-1264310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/transformers-despertar-bestias-2889712.jpg?tf=1200x' alt='ChatGPT, Bing, Bard... esta votación con más de 40.000 personas decide cuál es el mejor chatbot' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-skyshowtime-verano-clasicazos-peliculones-1264004'>Estrenos de SkyShowtime en verano: clasicazos y peliculones</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estrenos-skyshowtime-verano-clasicazos-peliculones-1264004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estrenos-verano-skyshowtime-3064704.jpg?tf=1200x' alt='Estrenos de SkyShowtime en verano: clasicazos y peliculones' />
+    <h4><a href='https://computerhoy.com/life/visitantes-titanic-revela-como-sienten-tripulantes-perdidos-como-encontrar-aguja-pajar-1264300'>Uno de los visitantes del Titanic revela cómo se sienten los tripulantes perdidos: "Es como encontrar una aguja en un pajar"</a></h4>
+    <a href='https://computerhoy.com/life/visitantes-titanic-revela-como-sienten-tripulantes-perdidos-como-encontrar-aguja-pajar-1264300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/visitantes-titanic-revela-como-sienten-tripulantes-perdidos-como-encontrar-aguja-pajar-3064752.jpg?tf=1200x' alt='Uno de los visitantes del Titanic revela cómo se sienten los tripulantes perdidos: "Es como encontrar una aguja en un pajar"' />
     </a>
 </div>
 
