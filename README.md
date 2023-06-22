@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/velada-ano-3-ibai-tiene-competencia-mark-zuckerberg-reta-elon-musk-pelea-1264440'>Dos tontos muy tontos: Mark Zuckerberg reta a Elon Musk a una pelea estilo MMA en jaula</a></h4>
+    <a href='https://computerhoy.com/life/velada-ano-3-ibai-tiene-competencia-mark-zuckerberg-reta-elon-musk-pelea-1264440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mark-zuckerberg-2995754.jpg?tf=1200x' alt='Dos tontos muy tontos: Mark Zuckerberg reta a Elon Musk a una pelea estilo MMA en jaula' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/estafa-reduflacion-atreve-ya-sagrado-cerveza-1264410'>La estafa de la reduflación se atreve ya hasta con lo más sagrado: la cerveza</a></h4>
+    <a href='https://computerhoy.com/alimentacion/estafa-reduflacion-atreve-ya-sagrado-cerveza-1264410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cerveza-2635711.jpg?tf=1200x' alt='La estafa de la reduflación se atreve ya hasta con lo más sagrado: la cerveza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/trabajos-ya-estan-desapareciendo-culpa-chatgpt-ia-1264344'>Trabajos que ya están desapareciendo por culpa de ChatGPT y la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/trabajos-ya-estan-desapareciendo-culpa-chatgpt-ia-1264344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/trabajos-ya-estan-desapareciendo-culpa-chatgpt-ia-3064836.jpg?tf=1200x' alt='Trabajos que ya están desapareciendo por culpa de ChatGPT y la IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/gps-radar-no-son-opcion-agua-desafio-localizar-sumergible-titan-1264360'>El GPS y el radar no son una opción bajo el agua: el desafío de localizar el sumergible Titan</a></h4>
     <a href='https://computerhoy.com/tecnologia/gps-radar-no-son-opcion-agua-desafio-localizar-sumergible-titan-1264360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/submarino-turistas-desaparece-mientras-visitaba-restos-titanic-3062262.jpg?tf=1200x' alt='El GPS y el radar no son una opción bajo el agua: el desafío de localizar el sumergible Titan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-bing-bard-votacion-40000-personas-decide-cual-mejor-chatbot-1264310'>ChatGPT, Bing, Bard... esta votación con más de 40.000 personas decide cuál es el mejor chatbot</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-bing-bard-votacion-40000-personas-decide-cual-mejor-chatbot-1264310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/transformers-despertar-bestias-2889712.jpg?tf=1200x' alt='ChatGPT, Bing, Bard... esta votación con más de 40.000 personas decide cuál es el mejor chatbot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/visitantes-titanic-revela-como-sienten-tripulantes-perdidos-como-encontrar-aguja-pajar-1264300'>Uno de los visitantes del Titanic revela cómo se sienten los tripulantes perdidos: "Es como encontrar una aguja en un pajar"</a></h4>
-    <a href='https://computerhoy.com/life/visitantes-titanic-revela-como-sienten-tripulantes-perdidos-como-encontrar-aguja-pajar-1264300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/visitantes-titanic-revela-como-sienten-tripulantes-perdidos-como-encontrar-aguja-pajar-3064752.jpg?tf=1200x' alt='Uno de los visitantes del Titanic revela cómo se sienten los tripulantes perdidos: "Es como encontrar una aguja en un pajar"' />
     </a>
 </div>
 
