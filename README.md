@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/video-cara-cara-animales-actuales-ancestros-prehistoricos-1264246'>Este vídeo cara a cara entre animales actuales y sus ancestros extintos, te va a sorprender </a></h4>
-    <a href='https://computerhoy.com/ciencia/video-cara-cara-animales-actuales-ancestros-prehistoricos-1264246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/comparativa-tamano-animales-actuales-ancestros-extintos-te-va-sorprender-3064456.jpg?tf=1200x' alt='Este vídeo cara a cara entre animales actuales y sus ancestros extintos, te va a sorprender ' />
+    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-skyshowtime-verano-clasicazos-peliculones-1264004'>Estrenos de SkyShowtime en verano: clasicazos y peliculones</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estrenos-skyshowtime-verano-clasicazos-peliculones-1264004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estrenos-verano-skyshowtime-3064704.jpg?tf=1200x' alt='Estrenos de SkyShowtime en verano: clasicazos y peliculones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nave-europea-bepicolombo-acerca-mercurio-fotos-1264026'>La nave europea BepiColombo se acerca más que nunca a Mercurio</a></h4>
-    <a href='https://computerhoy.com/espacio/nave-europea-bepicolombo-acerca-mercurio-fotos-1264026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nave-europea-bepicolombo-acerca-nunca-mercurio-3064420.jpg?tf=1200x' alt='La nave europea BepiColombo se acerca más que nunca a Mercurio' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903'>Estos son los mejores relojes de running que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/reloj-running-3063488.jpg?tf=1200x' alt='Estos son los mejores relojes de running que puedes comprar en 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/microsoft-sube-precio-game-pass-consola-xbox-series-x-1264012'>Microsoft sube el precio del Game Pass, y de la consola Xbox Series X</a></h4>
-    <a href='https://computerhoy.com/gaming/microsoft-sube-precio-game-pass-consola-xbox-series-x-1264012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xbox-series-x-2579481.jpg?tf=1200x' alt='Microsoft sube el precio del Game Pass, y de la consola Xbox Series X' />
+    <h4><a href='https://computerhoy.com/analisis/amazon-echo-pop-analisis-opinion-1262756'>Amazon Echo Pop: análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/amazon-echo-pop-analisis-opinion-1262756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-echo-pop-3063050.jpg?tf=1200x' alt='Amazon Echo Pop: análisis y opinión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/primeras-vacunas-indoloras-agujas-ya-son-realidad-1264002'>Las primeras vacunas indoloras sin agujas ya son una realidad</a></h4>
-    <a href='https://computerhoy.com/life/primeras-vacunas-indoloras-agujas-ya-son-realidad-1264002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/primeras-vacunas-indoloras-agujas-ya-son-realidad-3064390.jpg?tf=1200x' alt='Las primeras vacunas indoloras sin agujas ya son una realidad' />
+    <h4><a href='https://computerhoy.com/energia/panel-solar-portatil-origami-1264250'>Este panel solar portátil cabe en el bolsillo gracias al origami</a></h4>
+    <a href='https://computerhoy.com/energia/panel-solar-portatil-origami-1264250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1687404853502-3064682.jpg?tf=1200x' alt='Este panel solar portátil cabe en el bolsillo gracias al origami' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/oppenheimer-christopher-nolan-tan-impactante-gente-sale-devastada-verla-1263980'>Oppenheimer de Christopher Nolan es tan impactante que la gente sale devastada tras verla</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/oppenheimer-christopher-nolan-tan-impactante-gente-sale-devastada-verla-1263980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oppenheimer-3064330.jpg?tf=1200x' alt='Oppenheimer de Christopher Nolan es tan impactante que la gente sale devastada tras verla' />
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-barbacoas-electricas-comprar-896495'>Estas son las mejores barbacoas eléctricas para cocinar sin humos ni carbón</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-barbacoas-electricas-comprar-896495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/barbacoa-3063628.jpg?tf=1200x' alt='Estas son las mejores barbacoas eléctricas para cocinar sin humos ni carbón' />
     </a>
 </div>
 
