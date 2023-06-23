@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/generos-cinematograficos-paises-espana-ciencia-ficcion-1264822'>España es una rareza mundial en los tipos de películas que más gustan, según este mapa</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/generos-cinematograficos-paises-espana-ciencia-ficcion-1264822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mapa-generos-televisivos-favoritos-muestra-espana-rareza-mundial-3065390.jpg?tf=1200x' alt='España es una rareza mundial en los tipos de películas que más gustan, según este mapa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/john-wick-4-estreno-prime-video-1264606'>Llega a Prime Video una de las mejores películas de acción del año</a></h4>
     <a href='https://computerhoy.com/entretenimiento/john-wick-4-estreno-prime-video-1264606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/john-wick-4-2992580.jpg?tf=1200x' alt='Llega a Prime Video una de las mejores películas de acción del año' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/microsoft-alcanza-hito-clave-intento-construir-superordenador-cuantico-1264574'>Microsoft alcanza un hito hacia el superordenador cuántico: crear y controlar la partícula de Majorana</a></h4>
     <a href='https://computerhoy.com/pc/microsoft-alcanza-hito-clave-intento-construir-superordenador-cuantico-1264574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/majorana-superordenador-microsoft-3065382.jpg?tf=1200x' alt='Microsoft alcanza un hito hacia el superordenador cuántico: crear y controlar la partícula de Majorana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/error-windows-11-hace-explorador-archivos-coma-cpu-puedes-solucionarlo-1264590'>Un error en Windows 11 hace que el explorador de archivos se coma la CPU: así puedes solucionarlo</a></h4>
-    <a href='https://computerhoy.com/windows/error-windows-11-hace-explorador-archivos-coma-cpu-puedes-solucionarlo-1264590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg?tf=1200x' alt='Un error en Windows 11 hace que el explorador de archivos se coma la CPU: así puedes solucionarlo' />
     </a>
 </div>
 
