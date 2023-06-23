@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/numero-secreto-escondido-iphone-no-desearas-ver-1264526'>El número secreto escondido en tu iPhone que no desearás ver</a></h4>
-    <a href='https://computerhoy.com/apple/numero-secreto-escondido-iphone-no-desearas-ver-1264526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-pro-max-1677587257882-2969646.jpg?tf=1200x' alt='El número secreto escondido en tu iPhone que no desearás ver' />
+    <h4><a href='https://computerhoy.com/ciencia/relacion-tuvo-albert-einstein-creacion-bomba-atomica-proyecto-manhattan-1264542'>Qué relación tuvo Albert Einstein con la creación de la bomba atómica y el Proyecto Manhattan</a></h4>
+    <a href='https://computerhoy.com/ciencia/relacion-tuvo-albert-einstein-creacion-bomba-atomica-proyecto-manhattan-1264542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/albert-einstein-3065392.jpg?tf=1200x' alt='Qué relación tuvo Albert Einstein con la creación de la bomba atómica y el Proyecto Manhattan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-apple-no-tienen-nada-hacer-movil-vendido-historia-1264996'>El móvil más vendido de la historia no es el que tú te comprarías</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-apple-no-tienen-nada-hacer-movil-vendido-historia-1264996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/grupo-jovenes-telefono-movil-2849031.jpg?tf=1200x' alt='El móvil más vendido de la historia no es el que tú te comprarías' />
+    <h4><a href='https://computerhoy.com/entretenimiento/uso-ia-invasion-secreta-marvel-causa-rechazo-fans-1265088'>Las redes estallan tras la utilización de IA en Invasión Secreta de Marvel</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/uso-ia-invasion-secreta-marvel-causa-rechazo-fans-1265088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/invasion-secreta-marvel-3066268.jpg?tf=1200x' alt='Las redes estallan tras la utilización de IA en Invasión Secreta de Marvel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-anade-doblaje-ia-youtube-eliminar-barrera-lenguaje-1264980'>Google quiere poner fin a la barrera del lenguaje en YouTube y lo hará utilizando la Inteligencia Artificial</a></h4>
-    <a href='https://computerhoy.com/google/google-anade-doblaje-ia-youtube-eliminar-barrera-lenguaje-1264980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/youtube-2814263.jpg?tf=1200x' alt='Google quiere poner fin a la barrera del lenguaje en YouTube y lo hará utilizando la Inteligencia Artificial' />
+    <h4><a href='https://computerhoy.com/moviles/ciberdelincuentes-pueden-utilizar-bluetooth-movil-robar-informacion-sepas-1265076'>Los ciberdelincuentes pueden utilizar el bluetooth de tu móvil para robar información sin que lo sepas</a></h4>
+    <a href='https://computerhoy.com/moviles/ciberdelincuentes-pueden-utilizar-bluetooth-movil-robar-informacion-sepas-1265076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/epico-origen-logo-bluetooth-2662605.jpg?tf=1200x' alt='Los ciberdelincuentes pueden utilizar el bluetooth de tu móvil para robar información sin que lo sepas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/grandes-empresas-no-reutilizan-discos-duros-sorprendete-motivo-1264950'>Las grandes empresas no reutilizan sus discos duros y este es el sorprendete motivo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/grandes-empresas-no-reutilizan-discos-duros-sorprendete-motivo-1264950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/discos-duros.jpg?tf=1200x' alt='Las grandes empresas no reutilizan sus discos duros y este es el sorprendete motivo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistar-plus-john-wick-matrix-accion-policial-1264918'>Qué películas ver este fin de semana en Netflix, Prime Video y Movistar Plus+: John Wick, Matrix y una de acción policial</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistar-plus-john-wick-matrix-accion-policial-1264918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/peliculas-ver-fin-semana-netflix-prime-video-movistar-plus-john-wick-matrix-accion-policial-3066086.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y Movistar Plus+: John Wick, Matrix y una de acción policial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/seguro-pin-tarjeta-estos-son-comunes-debes-evitar-1264940'>¿Es seguro el PIN de tu tarjeta? Estos son los más comunes y los que debes evitar</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/seguro-pin-tarjeta-estos-son-comunes-debes-evitar-1264940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cajero-automatico-2596221.jpg?tf=1200x' alt='¿Es seguro el PIN de tu tarjeta? Estos son los más comunes y los que debes evitar' />
+    <h4><a href='https://computerhoy.com/motor/locura-redes-descubrir-boton-secreto-coche-puede-salvarte-vida-1261950'>Locura en las redes al descubrir el botón secreto del coche que puede salvarte la vida</a></h4>
+    <a href='https://computerhoy.com/motor/locura-redes-descubrir-boton-secreto-coche-puede-salvarte-vida-1261950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oso-peluche-sentado-coche-3066112.jpg?tf=1200x' alt='Locura en las redes al descubrir el botón secreto del coche que puede salvarte la vida' />
     </a>
 </div>
 
