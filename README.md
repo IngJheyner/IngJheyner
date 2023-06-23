@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/superventas-barato-xiaomi-roza-ya-100-euros-oferta-1263242'>El superventas barato de Xiaomi roza ya los 100 euros en esta oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/superventas-barato-xiaomi-roza-ya-100-euros-oferta-1263242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-12c-3062822.jpg?tf=1200x' alt='El superventas barato de Xiaomi roza ya los 100 euros en esta oferta' />
+    <h4><a href='https://computerhoy.com/apple/numero-secreto-escondido-iphone-no-desearas-ver-1264526'>El número secreto escondido en tu iPhone que no desearás ver</a></h4>
+    <a href='https://computerhoy.com/apple/numero-secreto-escondido-iphone-no-desearas-ver-1264526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-pro-max-1677587257882-2969646.jpg?tf=1200x' alt='El número secreto escondido en tu iPhone que no desearás ver' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-vision-pro-integrara-modo-viaje-mejorar-experiencias-aviones-1264932'>Apple Vision Pro integrará un 'Modo Viaje' para mejorar tus experiencias en los aviones</a></h4>
-    <a href='https://computerhoy.com/apple/apple-vision-pro-integrara-modo-viaje-mejorar-experiencias-aviones-1264932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-integrara-modo-viaje-mejorar-experiencias-aviones-3065898.jpg?tf=1200x' alt='Apple Vision Pro integrará un 'Modo Viaje' para mejorar tus experiencias en los aviones' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-apple-no-tienen-nada-hacer-movil-vendido-historia-1264996'>El móvil más vendido de la historia no es el que tú te comprarías</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-apple-no-tienen-nada-hacer-movil-vendido-historia-1264996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/grupo-jovenes-telefono-movil-2849031.jpg?tf=1200x' alt='El móvil más vendido de la historia no es el que tú te comprarías' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/pagos-nfc-preparan-ser-rapidos-faciles-verdad-contacto-1264936'>Los pagos NFC se preparan para ser más rápidos, fáciles y de verdad sin contacto</a></h4>
-    <a href='https://computerhoy.com/moviles/pagos-nfc-preparan-ser-rapidos-faciles-verdad-contacto-1264936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/pago-movil-nfc.jpg?tf=1200x' alt='Los pagos NFC se preparan para ser más rápidos, fáciles y de verdad sin contacto' />
+    <h4><a href='https://computerhoy.com/google/google-anade-doblaje-ia-youtube-eliminar-barrera-lenguaje-1264980'>Google quiere poner fin a la barrera del lenguaje en YouTube y lo hará utilizando la Inteligencia Artificial</a></h4>
+    <a href='https://computerhoy.com/google/google-anade-doblaje-ia-youtube-eliminar-barrera-lenguaje-1264980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/youtube-2814263.jpg?tf=1200x' alt='Google quiere poner fin a la barrera del lenguaje en YouTube y lo hará utilizando la Inteligencia Artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estudio-mit-logra-superconductividad-materiales-ahora-nunca-visto-1264890'>Un estudio del MIT logra la superconductividad en materiales hasta ahora nunca visto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estudio-mit-logra-superconductividad-materiales-ahora-nunca-visto-1264890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estudio-mit-logra-superconductividad-materiales-ahora-nunca-visto-3065780.jpg?tf=1200x' alt='Un estudio del MIT logra la superconductividad en materiales hasta ahora nunca visto' />
+    <h4><a href='https://computerhoy.com/tecnologia/grandes-empresas-no-reutilizan-discos-duros-sorprendete-motivo-1264950'>Las grandes empresas no reutilizan sus discos duros y este es el sorprendete motivo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/grandes-empresas-no-reutilizan-discos-duros-sorprendete-motivo-1264950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/discos-duros.jpg?tf=1200x' alt='Las grandes empresas no reutilizan sus discos duros y este es el sorprendete motivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aspiradora-dyson-v8-inalambrica-oferta-1263704'>Las Dyson son caras, pero ya no tanto: una de sus aspiradoras inalámbricas está rebajada a menos de lo que piensas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aspiradora-dyson-v8-inalambrica-oferta-1263704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dyson-aspiradora-3063524.jpg?tf=1200x' alt='Las Dyson son caras, pero ya no tanto: una de sus aspiradoras inalámbricas está rebajada a menos de lo que piensas' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/seguro-pin-tarjeta-estos-son-comunes-debes-evitar-1264940'>¿Es seguro el PIN de tu tarjeta? Estos son los más comunes y los que debes evitar</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/seguro-pin-tarjeta-estos-son-comunes-debes-evitar-1264940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/cajero-automatico-2596221.jpg?tf=1200x' alt='¿Es seguro el PIN de tu tarjeta? Estos son los más comunes y los que debes evitar' />
     </a>
 </div>
 
