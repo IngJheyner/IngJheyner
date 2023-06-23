@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-como-airpods-pero-baratos-clones-chinos-puedes-comprar-aliexpress-587265'>Auriculares como los AirPods pero más baratos: mejores clones que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/auriculares-como-airpods-pero-baratos-clones-chinos-puedes-comprar-aliexpress-587265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-buds-3-2981756.jpg?tf=1200x' alt='Auriculares como los AirPods pero más baratos: mejores clones que puedes comprar' />
+    <h4><a href='https://computerhoy.com/tecnologia/superventas-barato-xiaomi-roza-ya-100-euros-oferta-1263242'>El superventas barato de Xiaomi roza ya los 100 euros en esta oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/superventas-barato-xiaomi-roza-ya-100-euros-oferta-1263242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-12c-3062822.jpg?tf=1200x' alt='El superventas barato de Xiaomi roza ya los 100 euros en esta oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/claves-exito-ps2-guerra-xbox-evolucion-ps5-1237520'>25 aniversario de Computer Hoy: las claves del éxito de PlayStation 2, la guerra con Xbox y la llegada de PS5 </a></h4>
-    <a href='https://computerhoy.com/gaming/claves-exito-ps2-guerra-xbox-evolucion-ps5-1237520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/claves-exito-playstation-2-sony-3064270.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: las claves del éxito de PlayStation 2, la guerra con Xbox y la llegada de PS5 ' />
+    <h4><a href='https://computerhoy.com/apple/apple-vision-pro-integrara-modo-viaje-mejorar-experiencias-aviones-1264932'>Apple Vision Pro integrará un 'Modo Viaje' para mejorar tus experiencias en los aviones</a></h4>
+    <a href='https://computerhoy.com/apple/apple-vision-pro-integrara-modo-viaje-mejorar-experiencias-aviones-1264932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-integrara-modo-viaje-mejorar-experiencias-aviones-3065898.jpg?tf=1200x' alt='Apple Vision Pro integrará un 'Modo Viaje' para mejorar tus experiencias en los aviones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/good-meat-carne-cultivada-laboratorio-chef-espanol-jose-andres-1264830'>Se pone a la venta la carne cultivada en laboratorio, con el apoyo del chef español José Andrés</a></h4>
-    <a href='https://computerhoy.com/alimentacion/good-meat-carne-cultivada-laboratorio-chef-espanol-jose-andres-1264830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pone-venta-carne-cultivada-laboratorio-apoyo-chef-espanol-jose-andres-3065668.jpg?tf=1200x' alt='Se pone a la venta la carne cultivada en laboratorio, con el apoyo del chef español José Andrés' />
+    <h4><a href='https://computerhoy.com/moviles/pagos-nfc-preparan-ser-rapidos-faciles-verdad-contacto-1264936'>Los pagos NFC se preparan para ser más rápidos, fáciles y de verdad sin contacto</a></h4>
+    <a href='https://computerhoy.com/moviles/pagos-nfc-preparan-ser-rapidos-faciles-verdad-contacto-1264936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/pago-movil-nfc.jpg?tf=1200x' alt='Los pagos NFC se preparan para ser más rápidos, fáciles y de verdad sin contacto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-consejos-trucos-herramientas-1263806'>Consejos y trucos para el Amazon Prime Day 2023: así puedes ahorrar más en las rebajas de verano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-consejos-trucos-herramientas-1263806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-prime-day-2023-3063822.jpg?tf=1200x' alt='Consejos y trucos para el Amazon Prime Day 2023: así puedes ahorrar más en las rebajas de verano' />
+    <h4><a href='https://computerhoy.com/tecnologia/estudio-mit-logra-superconductividad-materiales-ahora-nunca-visto-1264890'>Un estudio del MIT logra la superconductividad en materiales hasta ahora nunca visto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estudio-mit-logra-superconductividad-materiales-ahora-nunca-visto-1264890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estudio-mit-logra-superconductividad-materiales-ahora-nunca-visto-3065780.jpg?tf=1200x' alt='Un estudio del MIT logra la superconductividad en materiales hasta ahora nunca visto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/generos-cinematograficos-paises-espana-ciencia-ficcion-1264822'>España es una rareza mundial en los tipos de películas que más gustan, según este mapa</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/generos-cinematograficos-paises-espana-ciencia-ficcion-1264822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mapa-generos-televisivos-favoritos-muestra-espana-rareza-mundial-3065390.jpg?tf=1200x' alt='España es una rareza mundial en los tipos de películas que más gustan, según este mapa' />
+    <h4><a href='https://computerhoy.com/tecnologia/aspiradora-dyson-v8-inalambrica-oferta-1263704'>Las Dyson son caras, pero ya no tanto: una de sus aspiradoras inalámbricas está rebajada a menos de lo que piensas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aspiradora-dyson-v8-inalambrica-oferta-1263704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dyson-aspiradora-3063524.jpg?tf=1200x' alt='Las Dyson son caras, pero ya no tanto: una de sus aspiradoras inalámbricas está rebajada a menos de lo que piensas' />
     </a>
 </div>
 
