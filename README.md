@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/relacion-tuvo-albert-einstein-creacion-bomba-atomica-proyecto-manhattan-1264542'>Qué relación tuvo Albert Einstein con la creación de la bomba atómica y el Proyecto Manhattan</a></h4>
-    <a href='https://computerhoy.com/ciencia/relacion-tuvo-albert-einstein-creacion-bomba-atomica-proyecto-manhattan-1264542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/albert-einstein-3065392.jpg?tf=1200x' alt='Qué relación tuvo Albert Einstein con la creación de la bomba atómica y el Proyecto Manhattan' />
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-windows-11-barato-oferta-amazon-1263182'>Windows 11 en la palma de tu mano con este Mini PC barato de precio sorprendente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-windows-11-barato-oferta-amazon-1263182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nipogi-ak1-pro-3062680.jpg?tf=1200x' alt='Windows 11 en la palma de tu mano con este Mini PC barato de precio sorprendente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/uso-ia-invasion-secreta-marvel-causa-rechazo-fans-1265088'>Las redes estallan tras la utilización de IA en Invasión Secreta de Marvel</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/uso-ia-invasion-secreta-marvel-causa-rechazo-fans-1265088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/invasion-secreta-marvel-3066268.jpg?tf=1200x' alt='Las redes estallan tras la utilización de IA en Invasión Secreta de Marvel' />
+    <h4><a href='https://computerhoy.com/life/escalofriante-conversacion-millonario-rechazo-viajar-titan-casi-mitad-precio-1265164'>La escalofriante conversación de un millonario que rechazó viajar en el Titan casi a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/life/escalofriante-conversacion-millonario-rechazo-viajar-titan-casi-mitad-precio-1265164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/submarino-titan-3066456.jpg?tf=1200x' alt='La escalofriante conversación de un millonario que rechazó viajar en el Titan casi a mitad de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ciberdelincuentes-pueden-utilizar-bluetooth-movil-robar-informacion-sepas-1265076'>Los ciberdelincuentes pueden utilizar el bluetooth de tu móvil para robar información sin que lo sepas</a></h4>
-    <a href='https://computerhoy.com/moviles/ciberdelincuentes-pueden-utilizar-bluetooth-movil-robar-informacion-sepas-1265076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/epico-origen-logo-bluetooth-2662605.jpg?tf=1200x' alt='Los ciberdelincuentes pueden utilizar el bluetooth de tu móvil para robar información sin que lo sepas' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/whatsapp-rosa-tan-peligroso-1265162'>WhatsApp Rosa: qué es y por qué es tan peligroso</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/whatsapp-rosa-tan-peligroso-1265162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/whatsapp-pink-2304193.jpg?tf=1200x' alt='WhatsApp Rosa: qué es y por qué es tan peligroso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistar-plus-john-wick-matrix-accion-policial-1264918'>Qué películas ver este fin de semana en Netflix, Prime Video y Movistar Plus+: John Wick, Matrix y una de acción policial</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistar-plus-john-wick-matrix-accion-policial-1264918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/peliculas-ver-fin-semana-netflix-prime-video-movistar-plus-john-wick-matrix-accion-policial-3066086.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y Movistar Plus+: John Wick, Matrix y una de acción policial' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-tamano-barra-tareas-windows-11-1264608'>Cómo cambiar el tamaño de la barra de tareas en Windows 11 de manera fácil y rápida</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-tamano-barra-tareas-windows-11-1264608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-programas-2633881.jpg?tf=1200x' alt='Cómo cambiar el tamaño de la barra de tareas en Windows 11 de manera fácil y rápida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/locura-redes-descubrir-boton-secreto-coche-puede-salvarte-vida-1261950'>Locura en las redes al descubrir el botón secreto del coche que puede salvarte la vida</a></h4>
-    <a href='https://computerhoy.com/motor/locura-redes-descubrir-boton-secreto-coche-puede-salvarte-vida-1261950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oso-peluche-sentado-coche-3066112.jpg?tf=1200x' alt='Locura en las redes al descubrir el botón secreto del coche que puede salvarte la vida' />
+    <h4><a href='https://computerhoy.com/motor/no-todas-gafas-sol-valen-conducir-guardia-civil-podria-multarte-ello-1262924'>No todas las gafas de sol valen para conducir y la Guardia Civil podría multarte por ello</a></h4>
+    <a href='https://computerhoy.com/motor/no-todas-gafas-sol-valen-conducir-guardia-civil-podria-multarte-ello-1262924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/gafas-conducir-3062268.jpg?tf=1200x' alt='No todas las gafas de sol valen para conducir y la Guardia Civil podría multarte por ello' />
     </a>
 </div>
 
