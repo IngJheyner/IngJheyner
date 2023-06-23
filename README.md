@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/auriculares-como-airpods-pero-baratos-clones-chinos-puedes-comprar-aliexpress-587265'>Auriculares como los AirPods pero más baratos: mejores clones que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/auriculares-como-airpods-pero-baratos-clones-chinos-puedes-comprar-aliexpress-587265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-buds-3-2981756.jpg?tf=1200x' alt='Auriculares como los AirPods pero más baratos: mejores clones que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/claves-exito-ps2-guerra-xbox-evolucion-ps5-1237520'>25 aniversario de Computer Hoy: las claves del éxito de PlayStation 2, la guerra con Xbox y la llegada de PS5 </a></h4>
+    <a href='https://computerhoy.com/gaming/claves-exito-ps2-guerra-xbox-evolucion-ps5-1237520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/claves-exito-playstation-2-sony-3064270.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: las claves del éxito de PlayStation 2, la guerra con Xbox y la llegada de PS5 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/good-meat-carne-cultivada-laboratorio-chef-espanol-jose-andres-1264830'>Se pone a la venta la carne cultivada en laboratorio, con el apoyo del chef español José Andrés</a></h4>
+    <a href='https://computerhoy.com/alimentacion/good-meat-carne-cultivada-laboratorio-chef-espanol-jose-andres-1264830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pone-venta-carne-cultivada-laboratorio-apoyo-chef-espanol-jose-andres-3065668.jpg?tf=1200x' alt='Se pone a la venta la carne cultivada en laboratorio, con el apoyo del chef español José Andrés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-consejos-trucos-herramientas-1263806'>Consejos y trucos para el Amazon Prime Day 2023: así puedes ahorrar más en las rebajas de verano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-consejos-trucos-herramientas-1263806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-prime-day-2023-3063822.jpg?tf=1200x' alt='Consejos y trucos para el Amazon Prime Day 2023: así puedes ahorrar más en las rebajas de verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/generos-cinematograficos-paises-espana-ciencia-ficcion-1264822'>España es una rareza mundial en los tipos de películas que más gustan, según este mapa</a></h4>
     <a href='https://computerhoy.com/entretenimiento/generos-cinematograficos-paises-espana-ciencia-ficcion-1264822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mapa-generos-televisivos-favoritos-muestra-espana-rareza-mundial-3065390.jpg?tf=1200x' alt='España es una rareza mundial en los tipos de películas que más gustan, según este mapa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/john-wick-4-estreno-prime-video-1264606'>Llega a Prime Video una de las mejores películas de acción del año</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/john-wick-4-estreno-prime-video-1264606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/john-wick-4-2992580.jpg?tf=1200x' alt='Llega a Prime Video una de las mejores películas de acción del año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/movistar-da-marcha-atras-anula-permanencia-tarifas-1264602'>Movistar da marcha atrás: anula la permanencia en las tarifas que había estrenado esta semana</a></h4>
-    <a href='https://computerhoy.com/internet/movistar-da-marcha-atras-anula-permanencia-tarifas-1264602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movistar-sorprende-clientes-duplicando-forma-gratuita-velocidad-internet-3048838.jpg?tf=1200x' alt='Movistar da marcha atrás: anula la permanencia en las tarifas que había estrenado esta semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/oceangate-muertos-pasajeros-submarino-titanic-1264596'>Tras hallar los primeros restos, OceanGate da por muertos a los pasajeros del submarino del Titanic</a></h4>
-    <a href='https://computerhoy.com/life/oceangate-muertos-pasajeros-submarino-titanic-1264596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hallar-primeros-restos-oceangate-da-muertos-tripulantes-submarino-titanic-3065422.jpg?tf=1200x' alt='Tras hallar los primeros restos, OceanGate da por muertos a los pasajeros del submarino del Titanic' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/microsoft-alcanza-hito-clave-intento-construir-superordenador-cuantico-1264574'>Microsoft alcanza un hito hacia el superordenador cuántico: crear y controlar la partícula de Majorana</a></h4>
-    <a href='https://computerhoy.com/pc/microsoft-alcanza-hito-clave-intento-construir-superordenador-cuantico-1264574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/majorana-superordenador-microsoft-3065382.jpg?tf=1200x' alt='Microsoft alcanza un hito hacia el superordenador cuántico: crear y controlar la partícula de Majorana' />
     </a>
 </div>
 
