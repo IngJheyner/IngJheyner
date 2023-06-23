@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/john-wick-4-estreno-prime-video-1264606'>Llega a Prime Video una de las mejores películas de acción del año</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/john-wick-4-estreno-prime-video-1264606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/john-wick-4-2992580.jpg?tf=1200x' alt='Llega a Prime Video una de las mejores películas de acción del año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/movistar-da-marcha-atras-anula-permanencia-tarifas-1264602'>Movistar da marcha atrás: anula la permanencia en las tarifas que había estrenado esta semana</a></h4>
     <a href='https://computerhoy.com/internet/movistar-da-marcha-atras-anula-permanencia-tarifas-1264602' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movistar-sorprende-clientes-duplicando-forma-gratuita-velocidad-internet-3048838.jpg?tf=1200x' alt='Movistar da marcha atrás: anula la permanencia en las tarifas que había estrenado esta semana' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/error-windows-11-hace-explorador-archivos-coma-cpu-puedes-solucionarlo-1264590'>Un error en Windows 11 hace que el explorador de archivos se coma la CPU: así puedes solucionarlo</a></h4>
     <a href='https://computerhoy.com/windows/error-windows-11-hace-explorador-archivos-coma-cpu-puedes-solucionarlo-1264590' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg?tf=1200x' alt='Un error en Windows 11 hace que el explorador de archivos se coma la CPU: así puedes solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/llegas-dia-ser-notificado-te-has-librado-mesa-electoral-23j-1264544'>Si llegas a este día sin ser notificado, te has librado de la mesa electoral el 23J</a></h4>
-    <a href='https://computerhoy.com/life/llegas-dia-ser-notificado-te-has-librado-mesa-electoral-23j-1264544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/carta-hacienda-3063868.jpg?tf=1200x' alt='Si llegas a este día sin ser notificado, te has librado de la mesa electoral el 23J' />
     </a>
 </div>
 
