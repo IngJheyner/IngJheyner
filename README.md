@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/elemental-peor-estreno-taquilla-historia-pixar-1265182'>Pixar no levanta cabeza: Elemental es su peor estreno en taquilla, y Disney responde con despidos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/elemental-peor-estreno-taquilla-historia-pixar-1265182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elemental-2874851.jpg?tf=1200x' alt='Pixar no levanta cabeza: Elemental es su peor estreno en taquilla, y Disney responde con despidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/funciones-ocultas-apple-vision-pro-1265146'>Apple Vision Pro promete revolucionar la forma en que interactuamos con el mundo: nuevas funciones ocultas</a></h4>
+    <a href='https://computerhoy.com/apple/funciones-ocultas-apple-vision-pro-1265146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051920.jpg?tf=1200x' alt='Apple Vision Pro promete revolucionar la forma en que interactuamos con el mundo: nuevas funciones ocultas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/uso-ia-invasion-secreta-marvel-causa-rechazo-fans-1265088'>Las redes estallan tras la utilización de IA en Invasión Secreta de Marvel</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/uso-ia-invasion-secreta-marvel-causa-rechazo-fans-1265088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/invasion-secreta-marvel-3066268.jpg?tf=1200x' alt='Las redes estallan tras la utilización de IA en Invasión Secreta de Marvel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mini-pc-windows-11-barato-oferta-amazon-1263182'>Windows 11 en la palma de tu mano con este Mini PC barato de precio sorprendente</a></h4>
     <a href='https://computerhoy.com/tecnologia/mini-pc-windows-11-barato-oferta-amazon-1263182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nipogi-ak1-pro-3062680.jpg?tf=1200x' alt='Windows 11 en la palma de tu mano con este Mini PC barato de precio sorprendente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/escalofriante-conversacion-millonario-rechazo-viajar-titan-casi-mitad-precio-1265164'>La escalofriante conversación de un millonario que rechazó viajar en el Titan casi a mitad de precio</a></h4>
     <a href='https://computerhoy.com/life/escalofriante-conversacion-millonario-rechazo-viajar-titan-casi-mitad-precio-1265164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/submarino-titan-3066456.jpg?tf=1200x' alt='La escalofriante conversación de un millonario que rechazó viajar en el Titan casi a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/whatsapp-rosa-tan-peligroso-1265162'>WhatsApp Rosa: qué es y por qué es tan peligroso</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/whatsapp-rosa-tan-peligroso-1265162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/whatsapp-pink-2304193.jpg?tf=1200x' alt='WhatsApp Rosa: qué es y por qué es tan peligroso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-tamano-barra-tareas-windows-11-1264608'>Cómo cambiar el tamaño de la barra de tareas en Windows 11 de manera fácil y rápida</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-tamano-barra-tareas-windows-11-1264608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/windows-11-programas-2633881.jpg?tf=1200x' alt='Cómo cambiar el tamaño de la barra de tareas en Windows 11 de manera fácil y rápida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/no-todas-gafas-sol-valen-conducir-guardia-civil-podria-multarte-ello-1262924'>No todas las gafas de sol valen para conducir y la Guardia Civil podría multarte por ello</a></h4>
-    <a href='https://computerhoy.com/motor/no-todas-gafas-sol-valen-conducir-guardia-civil-podria-multarte-ello-1262924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/gafas-conducir-3062268.jpg?tf=1200x' alt='No todas las gafas de sol valen para conducir y la Guardia Civil podría multarte por ello' />
     </a>
 </div>
 
