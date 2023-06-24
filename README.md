@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/buscador-google-prepara-perspectivas-encuentres-informacion-buscas-influencers-favoritos-1265438'>El buscador de Google prepara “perspectivas” para que encuentres la información que buscas de tus influencers favoritos</a></h4>
+    <a href='https://computerhoy.com/google/buscador-google-prepara-perspectivas-encuentres-informacion-buscas-influencers-favoritos-1265438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/perspectivas-buscador-google-3066780.jpg?tf=1200x' alt='El buscador de Google prepara “perspectivas” para que encuentres la información que buscas de tus influencers favoritos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-series-topicos-nacionales-imposible-no-reirse-1263954'>7 películas y series sobre tópicos nacionales con las que es imposible no reírse</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-series-topicos-nacionales-imposible-no-reirse-1263954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/aqui-no-hay-quien-viva-2651705.jpg?tf=1200x' alt='7 películas y series sobre tópicos nacionales con las que es imposible no reírse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-futuro-periodismo-peligro-oficio-periodista-1216326'>ChatGPT y el futuro del periodismo: amigo o enemigo, ¿está en peligro el oficio de periodista?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-futuro-periodismo-peligro-oficio-periodista-1216326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chatgpt-futuro-periodismo-peligro-trabajo-redactores-2993204.jpg?tf=1200x' alt='ChatGPT y el futuro del periodismo: amigo o enemigo, ¿está en peligro el oficio de periodista?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/auriculares-nothing-ear-2-vuelven-estar-oferta-precio-record-amazon-1264900'>Con estos auriculares vas a llamar mucho la atención, y además tienen un gran sonido, pero lo mejor de todo ahora es su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/auriculares-nothing-ear-2-vuelven-estar-oferta-precio-record-amazon-1264900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989250.jpg?tf=1200x' alt='Con estos auriculares vas a llamar mucho la atención, y además tienen un gran sonido, pero lo mejor de todo ahora es su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/deberias-pensartelo-dos-veces-antes-partir-pastilla-mitad-1262854'>¿Por qué deberías pensártelo dos veces antes de partir una pastilla por la mitad?</a></h4>
     <a href='https://computerhoy.com/life/deberias-pensartelo-dos-veces-antes-partir-pastilla-mitad-1262854' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pastillas-3065986.jpg?tf=1200x' alt='¿Por qué deberías pensártelo dos veces antes de partir una pastilla por la mitad?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-usando-mal-espray-nasal-1265404'>Si te hace llorar los ojos o notas su sabor, estás usando mal el espray nasal</a></h4>
-    <a href='https://computerhoy.com/life/estas-usando-mal-espray-nasal-1265404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/te-hace-llorar-ojos-notas-sabor-estas-usando-mal-espray-nasal-3066734.jpg?tf=1200x' alt='Si te hace llorar los ojos o notas su sabor, estás usando mal el espray nasal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/seguridad-redes-sociales-peligro-guia-proteger-privacidad-linea-1262600'>Tu seguridad en redes sociales en peligro: guía para proteger tu privacidad en línea</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/seguridad-redes-sociales-peligro-guia-proteger-privacidad-linea-1262600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/protege-privacidad-redes-sociales-3063968.jpg?tf=1200x' alt='Tu seguridad en redes sociales en peligro: guía para proteger tu privacidad en línea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ventilador-barato-orbegozo-mas-vendido-amazon-1264914'>Este ventilador barato es el más vendido en Amazon, pero ¿por qué?</a></h4>
-    <a href='https://computerhoy.com/hogar/ventilador-barato-orbegozo-mas-vendido-amazon-1264914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ventilador-barato-vendido-amazon-pero-3065740.jpg?tf=1200x' alt='Este ventilador barato es el más vendido en Amazon, pero ¿por qué?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/mejores-opciones-enfriar-casa-verano-no-te-enganen-1263424'>Verdades y mentiras de marketing sobre ventiladores, climatizadores y aires acondicionados</a></h4>
-    <a href='https://computerhoy.com/hogar/mejores-opciones-enfriar-casa-verano-no-te-enganen-1263424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aire-acondicionado-portatil-2942330.jpg?tf=1200x' alt='Verdades y mentiras de marketing sobre ventiladores, climatizadores y aires acondicionados' />
     </a>
 </div>
 
