@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/pene-piedra-afilar-espadas-galicia-medieval-1265402'>Este pene de piedra se usaba para afilar espadas, en la Galicia medieval</a></h4>
-    <a href='https://computerhoy.com/ciencia/pene-piedra-afilar-espadas-galicia-medieval-1265402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pene-piedra-usaba-afilar-espadas-galicia-medieval-3066730.jpg?tf=1200x' alt='Este pene de piedra se usaba para afilar espadas, en la Galicia medieval' />
+    <h4><a href='https://computerhoy.com/life/estas-usando-mal-espray-nasal-1265404'>Si te hace llorar los ojos o notas su sabor, estás usando mal el espray nasal</a></h4>
+    <a href='https://computerhoy.com/life/estas-usando-mal-espray-nasal-1265404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/te-hace-llorar-ojos-notas-sabor-estas-usando-mal-espray-nasal-3066734.jpg?tf=1200x' alt='Si te hace llorar los ojos o notas su sabor, estás usando mal el espray nasal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/hielo-rompe-cable-submarino-alaska-elon-musk-rescate-1265186'>El hielo rompe un cable submarino y deja sin Internet a Alaska, Elon Musk al rescate</a></h4>
-    <a href='https://computerhoy.com/internet/hielo-rompe-cable-submarino-alaska-elon-musk-rescate-1265186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hielo-rompe-cable-submarino-deja-internet-alaska-elon-musk-rescate-3066522.jpg?tf=1200x' alt='El hielo rompe un cable submarino y deja sin Internet a Alaska, Elon Musk al rescate' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/seguridad-redes-sociales-peligro-guia-proteger-privacidad-linea-1262600'>Tu seguridad en redes sociales en peligro: guía para proteger tu privacidad en línea</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/seguridad-redes-sociales-peligro-guia-proteger-privacidad-linea-1262600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/protege-privacidad-redes-sociales-3063968.jpg?tf=1200x' alt='Tu seguridad en redes sociales en peligro: guía para proteger tu privacidad en línea' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/elemental-peor-estreno-taquilla-historia-pixar-1265182'>Pixar no levanta cabeza: Elemental es su peor estreno en taquilla, y Disney responde con despidos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/elemental-peor-estreno-taquilla-historia-pixar-1265182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elemental-2874851.jpg?tf=1200x' alt='Pixar no levanta cabeza: Elemental es su peor estreno en taquilla, y Disney responde con despidos' />
+    <h4><a href='https://computerhoy.com/hogar/ventilador-barato-orbegozo-mas-vendido-amazon-1264914'>Este ventilador barato es el más vendido en Amazon, pero ¿por qué?</a></h4>
+    <a href='https://computerhoy.com/hogar/ventilador-barato-orbegozo-mas-vendido-amazon-1264914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ventilador-barato-vendido-amazon-pero-3065740.jpg?tf=1200x' alt='Este ventilador barato es el más vendido en Amazon, pero ¿por qué?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/funciones-ocultas-apple-vision-pro-1265146'>Apple Vision Pro promete revolucionar la forma en que interactuamos con el mundo: nuevas funciones ocultas</a></h4>
-    <a href='https://computerhoy.com/apple/funciones-ocultas-apple-vision-pro-1265146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051920.jpg?tf=1200x' alt='Apple Vision Pro promete revolucionar la forma en que interactuamos con el mundo: nuevas funciones ocultas' />
+    <h4><a href='https://computerhoy.com/hogar/mejores-opciones-enfriar-casa-verano-no-te-enganen-1263424'>Verdades y mentiras de marketing sobre ventiladores, climatizadores y aires acondicionados</a></h4>
+    <a href='https://computerhoy.com/hogar/mejores-opciones-enfriar-casa-verano-no-te-enganen-1263424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aire-acondicionado-portatil-2942330.jpg?tf=1200x' alt='Verdades y mentiras de marketing sobre ventiladores, climatizadores y aires acondicionados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/uso-ia-invasion-secreta-marvel-causa-rechazo-fans-1265088'>Las redes estallan tras la utilización de IA en Invasión Secreta de Marvel</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/uso-ia-invasion-secreta-marvel-causa-rechazo-fans-1265088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/invasion-secreta-marvel-3066268.jpg?tf=1200x' alt='Las redes estallan tras la utilización de IA en Invasión Secreta de Marvel' />
+    <h4><a href='https://computerhoy.com/alimentacion/sandimelon-mitad-sandia-mitad-melon-1264848'>Ya está aquí el sandimelón: mitad sandía y mitad melón</a></h4>
+    <a href='https://computerhoy.com/alimentacion/sandimelon-mitad-sandia-mitad-melon-1264848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ya-aqui-sandimelon-mitad-sandia-mitad-melon-3065686.jpg?tf=1200x' alt='Ya está aquí el sandimelón: mitad sandía y mitad melón' />
     </a>
 </div>
 
