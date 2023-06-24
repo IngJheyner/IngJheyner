@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/deberias-pensartelo-dos-veces-antes-partir-pastilla-mitad-1262854'>¿Por qué deberías pensártelo dos veces antes de partir una pastilla por la mitad?</a></h4>
+    <a href='https://computerhoy.com/life/deberias-pensartelo-dos-veces-antes-partir-pastilla-mitad-1262854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pastillas-3065986.jpg?tf=1200x' alt='¿Por qué deberías pensártelo dos veces antes de partir una pastilla por la mitad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/estas-usando-mal-espray-nasal-1265404'>Si te hace llorar los ojos o notas su sabor, estás usando mal el espray nasal</a></h4>
     <a href='https://computerhoy.com/life/estas-usando-mal-espray-nasal-1265404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/te-hace-llorar-ojos-notas-sabor-estas-usando-mal-espray-nasal-3066734.jpg?tf=1200x' alt='Si te hace llorar los ojos o notas su sabor, estás usando mal el espray nasal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/mejores-opciones-enfriar-casa-verano-no-te-enganen-1263424'>Verdades y mentiras de marketing sobre ventiladores, climatizadores y aires acondicionados</a></h4>
     <a href='https://computerhoy.com/hogar/mejores-opciones-enfriar-casa-verano-no-te-enganen-1263424' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/aire-acondicionado-portatil-2942330.jpg?tf=1200x' alt='Verdades y mentiras de marketing sobre ventiladores, climatizadores y aires acondicionados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/sandimelon-mitad-sandia-mitad-melon-1264848'>Ya está aquí el sandimelón: mitad sandía y mitad melón</a></h4>
-    <a href='https://computerhoy.com/alimentacion/sandimelon-mitad-sandia-mitad-melon-1264848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ya-aqui-sandimelon-mitad-sandia-mitad-melon-3065686.jpg?tf=1200x' alt='Ya está aquí el sandimelón: mitad sandía y mitad melón' />
     </a>
 </div>
 
