@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/hielo-rompe-cable-submarino-alaska-elon-musk-rescate-1265186'>El hielo rompe un cable submarino y deja sin Internet a Alaska, Elon Musk al rescate</a></h4>
+    <a href='https://computerhoy.com/internet/hielo-rompe-cable-submarino-alaska-elon-musk-rescate-1265186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hielo-rompe-cable-submarino-deja-internet-alaska-elon-musk-rescate-3066522.jpg?tf=1200x' alt='El hielo rompe un cable submarino y deja sin Internet a Alaska, Elon Musk al rescate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/elemental-peor-estreno-taquilla-historia-pixar-1265182'>Pixar no levanta cabeza: Elemental es su peor estreno en taquilla, y Disney responde con despidos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/elemental-peor-estreno-taquilla-historia-pixar-1265182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elemental-2874851.jpg?tf=1200x' alt='Pixar no levanta cabeza: Elemental es su peor estreno en taquilla, y Disney responde con despidos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mini-pc-windows-11-barato-oferta-amazon-1263182'>Windows 11 en la palma de tu mano con este Mini PC barato de precio sorprendente</a></h4>
     <a href='https://computerhoy.com/tecnologia/mini-pc-windows-11-barato-oferta-amazon-1263182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nipogi-ak1-pro-3062680.jpg?tf=1200x' alt='Windows 11 en la palma de tu mano con este Mini PC barato de precio sorprendente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/escalofriante-conversacion-millonario-rechazo-viajar-titan-casi-mitad-precio-1265164'>La escalofriante conversación de un millonario que rechazó viajar en el Titan casi a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/life/escalofriante-conversacion-millonario-rechazo-viajar-titan-casi-mitad-precio-1265164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/submarino-titan-3066456.jpg?tf=1200x' alt='La escalofriante conversación de un millonario que rechazó viajar en el Titan casi a mitad de precio' />
     </a>
 </div>
 
