@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-quiere-juegues-videojuegos-propia-youtube-1265458'>Google quiere que juegues a videojuegos desde la propia YouTube</a></h4>
+    <a href='https://computerhoy.com/apps/google-quiere-juegues-videojuegos-propia-youtube-1265458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/youtube-juegos-3066838.jpg?tf=1200x' alt='Google quiere que juegues a videojuegos desde la propia YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/microsoft-quiso-comprar-zynga-pero-finalmente-optaron-activision-blizzard-1265454'>Microsoft quiso comprar Zynga pero finalmente optaron por Activision Blizzard</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-quiso-comprar-zynga-pero-finalmente-optaron-activision-blizzard-1265454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/phil-spencer-2404973.jpg?tf=1200x' alt='Microsoft quiso comprar Zynga pero finalmente optaron por Activision Blizzard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/estafas-tiktok-frecuentes-como-evitar-caer-ellas-1259802'>Las estafas de TikTok más frecuentes y cómo evitar caer en ellas para no terminar desplumado</a></h4>
+    <a href='https://computerhoy.com/internet/estafas-tiktok-frecuentes-como-evitar-caer-ellas-1259802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tiktok-estafas-3057320.jpg?tf=1200x' alt='Las estafas de TikTok más frecuentes y cómo evitar caer en ellas para no terminar desplumado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/malware-viajando-solo-usb-ha-infectado-todos-sistemas-hospital-1265448'>El malware que viajando en un solo USB ha infectado a todos los sistemas de un hospital</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/malware-viajando-solo-usb-ha-infectado-todos-sistemas-hospital-1265448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/memoria-usb-3066792.jpg?tf=1200x' alt='El malware que viajando en un solo USB ha infectado a todos los sistemas de un hospital' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/buscador-google-prepara-perspectivas-encuentres-informacion-buscas-influencers-favoritos-1265438'>El buscador de Google prepara “perspectivas” para que encuentres la información que buscas de tus influencers favoritos</a></h4>
     <a href='https://computerhoy.com/google/buscador-google-prepara-perspectivas-encuentres-informacion-buscas-influencers-favoritos-1265438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/perspectivas-buscador-google-3066780.jpg?tf=1200x' alt='El buscador de Google prepara “perspectivas” para que encuentres la información que buscas de tus influencers favoritos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-series-topicos-nacionales-imposible-no-reirse-1263954'>7 películas y series sobre tópicos nacionales con las que es imposible no reírse</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-series-topicos-nacionales-imposible-no-reirse-1263954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/aqui-no-hay-quien-viva-2651705.jpg?tf=1200x' alt='7 películas y series sobre tópicos nacionales con las que es imposible no reírse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-futuro-periodismo-peligro-oficio-periodista-1216326'>ChatGPT y el futuro del periodismo: amigo o enemigo, ¿está en peligro el oficio de periodista?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-futuro-periodismo-peligro-oficio-periodista-1216326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/chatgpt-futuro-periodismo-peligro-trabajo-redactores-2993204.jpg?tf=1200x' alt='ChatGPT y el futuro del periodismo: amigo o enemigo, ¿está en peligro el oficio de periodista?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/auriculares-nothing-ear-2-vuelven-estar-oferta-precio-record-amazon-1264900'>Con estos auriculares vas a llamar mucho la atención, y además tienen un gran sonido, pero lo mejor de todo ahora es su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/auriculares-nothing-ear-2-vuelven-estar-oferta-precio-record-amazon-1264900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989250.jpg?tf=1200x' alt='Con estos auriculares vas a llamar mucho la atención, y además tienen un gran sonido, pero lo mejor de todo ahora es su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/deberias-pensartelo-dos-veces-antes-partir-pastilla-mitad-1262854'>¿Por qué deberías pensártelo dos veces antes de partir una pastilla por la mitad?</a></h4>
-    <a href='https://computerhoy.com/life/deberias-pensartelo-dos-veces-antes-partir-pastilla-mitad-1262854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pastillas-3065986.jpg?tf=1200x' alt='¿Por qué deberías pensártelo dos veces antes de partir una pastilla por la mitad?' />
     </a>
 </div>
 
