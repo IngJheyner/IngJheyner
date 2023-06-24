@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/microsoft-trabaja-nuevo-modo-oscuro-navegador-edge-1265462'>Microsoft trabaja en un nuevo modo oscuro para su navegador Edge</a></h4>
-    <a href='https://computerhoy.com/apps/microsoft-trabaja-nuevo-modo-oscuro-navegador-edge-1265462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/navegador-edge-3066842.jpg?tf=1200x' alt='Microsoft trabaja en un nuevo modo oscuro para su navegador Edge' />
+    <h4><a href='https://computerhoy.com/pc/nuevo-tipo-memoria-promete-reducir-consumo-energia-1265154'>Un nuevo tipo de memoria promete reducir el consumo de energía y mejorar el rendimiento</a></h4>
+    <a href='https://computerhoy.com/pc/nuevo-tipo-memoria-promete-reducir-consumo-energia-1265154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/placa-3066442.jpg?tf=1200x' alt='Un nuevo tipo de memoria promete reducir el consumo de energía y mejorar el rendimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/llegan-pavimentos-inteligentes-capaces-ayudar-coches-autonomos-ver-carretera-1265460'>Llegan los pavimentos inteligentes capaces de ayudar a los coches autónomos a ver la carretera</a></h4>
-    <a href='https://computerhoy.com/motor/llegan-pavimentos-inteligentes-capaces-ayudar-coches-autonomos-ver-carretera-1265460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pavimento-inteligente-3066840.jpg?tf=1200x' alt='Llegan los pavimentos inteligentes capaces de ayudar a los coches autónomos a ver la carretera' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/desconocido-te-envia-gratis-reloj-inteligente-autoridades-aconsejan-no-enciendas-1265488'>Si un desconocido te envía gratis un reloj inteligente las autoridades aconsejan que no lo enciendas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/desconocido-te-envia-gratis-reloj-inteligente-autoridades-aconsejan-no-enciendas-1265488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/smartwatch-3066890.jpg?tf=1200x' alt='Si un desconocido te envía gratis un reloj inteligente las autoridades aconsejan que no lo enciendas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-quiere-juegues-videojuegos-propia-youtube-1265458'>Google quiere que juegues a videojuegos desde la propia YouTube</a></h4>
-    <a href='https://computerhoy.com/apps/google-quiere-juegues-videojuegos-propia-youtube-1265458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/youtube-juegos-3066838.jpg?tf=1200x' alt='Google quiere que juegues a videojuegos desde la propia YouTube' />
+    <h4><a href='https://computerhoy.com/tecnologia/verdad-carga-rapida-estropea-bateria-movil-1251454'>Resolvemos el mito: ¿es verdad que la carga rápida estropea la batería del móvil?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/verdad-carga-rapida-estropea-bateria-movil-1251454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/carga-rapida-3043940.jpg?tf=1200x' alt='Resolvemos el mito: ¿es verdad que la carga rápida estropea la batería del móvil?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/microsoft-quiso-comprar-zynga-pero-finalmente-optaron-activision-blizzard-1265454'>Microsoft quiso comprar Zynga pero finalmente optaron por Activision Blizzard</a></h4>
-    <a href='https://computerhoy.com/gaming/microsoft-quiso-comprar-zynga-pero-finalmente-optaron-activision-blizzard-1265454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/phil-spencer-2404973.jpg?tf=1200x' alt='Microsoft quiso comprar Zynga pero finalmente optaron por Activision Blizzard' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-robot-inspirado-pangolin-capaz-realizar-procedimientos-medicos-interior-ser-humano-1265464'>Crean un robot inspirado en un pangolín capaz de realizar procedimientos médicos en el interior del ser humano</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-robot-inspirado-pangolin-capaz-realizar-procedimientos-medicos-interior-ser-humano-1265464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/crean-robot-inspirado-pangolin-capaz-realizar-procedimientos-medicos-interior-ser-humano-3066846.jpg?tf=1200x' alt='Crean un robot inspirado en un pangolín capaz de realizar procedimientos médicos en el interior del ser humano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/estafas-tiktok-frecuentes-como-evitar-caer-ellas-1259802'>Las estafas de TikTok más frecuentes y cómo evitar caer en ellas para no terminar desplumado</a></h4>
-    <a href='https://computerhoy.com/internet/estafas-tiktok-frecuentes-como-evitar-caer-ellas-1259802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tiktok-estafas-3057320.jpg?tf=1200x' alt='Las estafas de TikTok más frecuentes y cómo evitar caer en ellas para no terminar desplumado' />
+    <h4><a href='https://computerhoy.com/mejores/mejores-ordenadores-portatiles-relacion-calidad-precio-fijarte-recomendaciones-1183536'>Mejores ordenadores portátiles en relación calidad precio: en qué fijarte y recomendaciones</a></h4>
+    <a href='https://computerhoy.com/mejores/mejores-ordenadores-portatiles-relacion-calidad-precio-fijarte-recomendaciones-1183536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/macbook-pro-16-m2-max-analisis-opinion-3015990.jpg?tf=1200x' alt='Mejores ordenadores portátiles en relación calidad precio: en qué fijarte y recomendaciones' />
     </a>
 </div>
 
