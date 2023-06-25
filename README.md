@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/deepmind-google-mejora-modelo-ia-robocat-ahora-puede-hacer-todo-1265732'>DeepMind de Google mejora el modelo de IA RoboCat y ahora puede hacer todo esto</a></h4>
+    <a href='https://computerhoy.com/ciencia/deepmind-google-mejora-modelo-ia-robocat-ahora-puede-hacer-todo-1265732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/robocat-3067146.jpg?tf=1200x' alt='DeepMind de Google mejora el modelo de IA RoboCat y ahora puede hacer todo esto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/comportamientos-situaciones-seras-baneado-tinder-1258128'>Comportamientos y situaciones por los que serás baneado de Tinder</a></h4>
+    <a href='https://computerhoy.com/apps/comportamientos-situaciones-seras-baneado-tinder-1258128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tinder-2680959.jpg?tf=1200x' alt='Comportamientos y situaciones por los que serás baneado de Tinder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/crean-robot-mesa-impulsado-inteligencia-artificial-jovenes-1265722'>Crean este robot de mesa impulsado por inteligencia artificial para los más jóvenes</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-robot-mesa-impulsado-inteligencia-artificial-jovenes-1265722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/senserobot-go-3067132.jpg?tf=1200x' alt='Crean este robot de mesa impulsado por inteligencia artificial para los más jóvenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/usas-youtube-te-gustan-videojuegos-debes-estar-atento-malware-1265720'>Si usas YouTube y te gustan los videojuegos debes estar atento a este malware</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/usas-youtube-te-gustan-videojuegos-debes-estar-atento-malware-1265720' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/jugador-pc-videojuegos-3067130.jpg?tf=1200x' alt='Si usas YouTube y te gustan los videojuegos debes estar atento a este malware' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-llegaron-streaming-acompanadas-polemica-hoy-son-reconocidas-1263296'>7 películas que llegaron al streaming acompañadas de polémica y hoy son reconocidas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-peliculas-llegaron-streaming-acompanadas-polemica-hoy-son-reconocidas-1263296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/7-peliculas-llegaron-streaming-acompanadas-polemica-hoy-son-reconocidas-3066282.jpg?tf=1200x' alt='7 películas que llegaron al streaming acompañadas de polémica y hoy son reconocidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/europa-ha-batido-record-calor-ya-continente-calentamiento-rapido-1265718'>Europa ha batido su récord de calor y ya es el continente con el calentamiento más rápido</a></h4>
-    <a href='https://computerhoy.com/life/europa-ha-batido-record-calor-ya-continente-calentamiento-rapido-1265718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/calor-3067128.jpg?tf=1200x' alt='Europa ha batido su récord de calor y ya es el continente con el calentamiento más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/espana-potencia-mundial-desperdicio-energia-solar-1262598'>Infraestructuras deficientes y leyes restrictivas a España es una potencia mundial en desperdicio de energía solar</a></h4>
-    <a href='https://computerhoy.com/energia/espana-potencia-mundial-desperdicio-energia-solar-1262598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/desperdicio-energetico-160-millones-euros-espana-deja-escapar-potencial-energia-solar-3065386.jpg?tf=1200x' alt='Infraestructuras deficientes y leyes restrictivas a España es una potencia mundial en desperdicio de energía solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-tenista-robot-ayudarte-convertirte-mejor-jugador-1265714'>Crean un tenista robot para ayudarte a convertirte en mejor jugador</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-tenista-robot-ayudarte-convertirte-mejor-jugador-1265714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/crean-robot-tenis-autonomo-ayudarte-convertirte-mejor-jugador-3067124.jpg?tf=1200x' alt='Crean un tenista robot para ayudarte a convertirte en mejor jugador' />
     </a>
 </div>
 
