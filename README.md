@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/suecia-ya-trabaja-primera-ciudad-hecha-completamente-madera-1265482'>Suecia ya trabaja en la primera ciudad hecha completamente de madera</a></h4>
+    <a href='https://computerhoy.com/life/suecia-ya-trabaja-primera-ciudad-hecha-completamente-madera-1265482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/suecia-ya-trabaja-primera-ciudad-hecha-completamente-madera-3066882.jpg?tf=1200x' alt='Suecia ya trabaja en la primera ciudad hecha completamente de madera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/misterio-cigarras-nacen-cada-17-anos-1263986'>Estas cigarras solo nacen una vez cada 17 años exactos, y nadie saber por qué</a></h4>
+    <a href='https://computerhoy.com/ciencia/misterio-cigarras-nacen-cada-17-anos-1263986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estas-cigarras-solo-nacen-vez-cada-17-anos-nadie-saber-3064312.jpg?tf=1200x' alt='Estas cigarras solo nacen una vez cada 17 años exactos, y nadie saber por qué' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/nuevo-tipo-memoria-promete-reducir-consumo-energia-1265154'>Un nuevo tipo de memoria promete reducir el consumo de energía y mejorar el rendimiento</a></h4>
     <a href='https://computerhoy.com/pc/nuevo-tipo-memoria-promete-reducir-consumo-energia-1265154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/placa-3066442.jpg?tf=1200x' alt='Un nuevo tipo de memoria promete reducir el consumo de energía y mejorar el rendimiento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/verdad-carga-rapida-estropea-bateria-movil-1251454'>Resolvemos el mito: ¿es verdad que la carga rápida estropea la batería del móvil?</a></h4>
     <a href='https://computerhoy.com/tecnologia/verdad-carga-rapida-estropea-bateria-movil-1251454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/carga-rapida-3043940.jpg?tf=1200x' alt='Resolvemos el mito: ¿es verdad que la carga rápida estropea la batería del móvil?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-robot-inspirado-pangolin-capaz-realizar-procedimientos-medicos-interior-ser-humano-1265464'>Crean un robot inspirado en un pangolín capaz de realizar procedimientos médicos en el interior del ser humano</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-robot-inspirado-pangolin-capaz-realizar-procedimientos-medicos-interior-ser-humano-1265464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/crean-robot-inspirado-pangolin-capaz-realizar-procedimientos-medicos-interior-ser-humano-3066846.jpg?tf=1200x' alt='Crean un robot inspirado en un pangolín capaz de realizar procedimientos médicos en el interior del ser humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/mejores-ordenadores-portatiles-relacion-calidad-precio-fijarte-recomendaciones-1183536'>Mejores ordenadores portátiles en relación calidad precio: en qué fijarte y recomendaciones</a></h4>
-    <a href='https://computerhoy.com/mejores/mejores-ordenadores-portatiles-relacion-calidad-precio-fijarte-recomendaciones-1183536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/macbook-pro-16-m2-max-analisis-opinion-3015990.jpg?tf=1200x' alt='Mejores ordenadores portátiles en relación calidad precio: en qué fijarte y recomendaciones' />
     </a>
 </div>
 
