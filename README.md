@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/descubren-ciudad-maya-piramides-oculta-jungla-gracias-lidar-1265788'>Descubren una ciudad maya con pirámides oculta en la jungla, gracias al LiDAR</a></h4>
+    <a href='https://computerhoy.com/life/descubren-ciudad-maya-piramides-oculta-jungla-gracias-lidar-1265788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/descubren-ciudad-maya-piramides-oculta-jungla-3067256.jpg?tf=1200x' alt='Descubren una ciudad maya con pirámides oculta en la jungla, gracias al LiDAR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/espana-lider-mundial-velocidad-internet-cloudflare-1265782'>España es el nuevo líder mundial de velocidad de Internet, según Cloudflare</a></h4>
     <a href='https://computerhoy.com/internet/espana-lider-mundial-velocidad-internet-cloudflare-1265782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/espana-nuevo-lider-mundial-internet-cloudflare-3067224.jpg?tf=1200x' alt='España es el nuevo líder mundial de velocidad de Internet, según Cloudflare' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-usb-tipo-c-1110895'>Mejores cargadores USB-C que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-usb-tipo-c-1110895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-sabemos-dia-todos-moviles-tendran-usar-cargador-usb-tipo-c-europa-incluido-iphone-2895718.jpg?tf=1200x' alt='Mejores cargadores USB-C que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coches-modernos-mas-tecnologia-peor-calidad-1265768'>Los coches modernos tiene más tecnología pero son de peor calidad que antes, dice un estudio</a></h4>
-    <a href='https://computerhoy.com/motor/coches-modernos-mas-tecnologia-peor-calidad-1265768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bmw-ix-m60-mercedes-eqs-580-4matic-suv-3066804.jpg?tf=1200x' alt='Los coches modernos tiene más tecnología pero son de peor calidad que antes, dice un estudio' />
     </a>
 </div>
 
