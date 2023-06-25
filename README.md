@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-usb-tipo-c-1110895'>Mejores cargadores USB-C que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-usb-tipo-c-1110895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-sabemos-dia-todos-moviles-tendran-usar-cargador-usb-tipo-c-europa-incluido-iphone-2895718.jpg?tf=1200x' alt='Mejores cargadores USB-C que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/coches-modernos-mas-tecnologia-peor-calidad-1265768'>Los coches modernos tiene más tecnología pero son de peor calidad que antes, dice un estudio</a></h4>
+    <a href='https://computerhoy.com/motor/coches-modernos-mas-tecnologia-peor-calidad-1265768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bmw-ix-m60-mercedes-eqs-580-4matic-suv-3066804.jpg?tf=1200x' alt='Los coches modernos tiene más tecnología pero son de peor calidad que antes, dice un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/deepmind-google-mejora-modelo-ia-robocat-ahora-puede-hacer-todo-1265732'>DeepMind de Google mejora el modelo de IA RoboCat y ahora puede hacer todo esto</a></h4>
     <a href='https://computerhoy.com/ciencia/deepmind-google-mejora-modelo-ia-robocat-ahora-puede-hacer-todo-1265732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/robocat-3067146.jpg?tf=1200x' alt='DeepMind de Google mejora el modelo de IA RoboCat y ahora puede hacer todo esto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/crean-robot-mesa-impulsado-inteligencia-artificial-jovenes-1265722'>Crean este robot de mesa impulsado por inteligencia artificial para los más jóvenes</a></h4>
     <a href='https://computerhoy.com/ciencia/crean-robot-mesa-impulsado-inteligencia-artificial-jovenes-1265722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/senserobot-go-3067132.jpg?tf=1200x' alt='Crean este robot de mesa impulsado por inteligencia artificial para los más jóvenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/usas-youtube-te-gustan-videojuegos-debes-estar-atento-malware-1265720'>Si usas YouTube y te gustan los videojuegos debes estar atento a este malware</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/usas-youtube-te-gustan-videojuegos-debes-estar-atento-malware-1265720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/jugador-pc-videojuegos-3067130.jpg?tf=1200x' alt='Si usas YouTube y te gustan los videojuegos debes estar atento a este malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-llegaron-streaming-acompanadas-polemica-hoy-son-reconocidas-1263296'>7 películas que llegaron al streaming acompañadas de polémica y hoy son reconocidas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-llegaron-streaming-acompanadas-polemica-hoy-son-reconocidas-1263296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/7-peliculas-llegaron-streaming-acompanadas-polemica-hoy-son-reconocidas-3066282.jpg?tf=1200x' alt='7 películas que llegaron al streaming acompañadas de polémica y hoy son reconocidas' />
     </a>
 </div>
 
