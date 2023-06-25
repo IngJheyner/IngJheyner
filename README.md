@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/suecia-ya-trabaja-primera-ciudad-hecha-completamente-madera-1265482'>Suecia ya trabaja en la primera ciudad hecha completamente de madera</a></h4>
-    <a href='https://computerhoy.com/life/suecia-ya-trabaja-primera-ciudad-hecha-completamente-madera-1265482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/suecia-ya-trabaja-primera-ciudad-hecha-completamente-madera-3066882.jpg?tf=1200x' alt='Suecia ya trabaja en la primera ciudad hecha completamente de madera' />
+    <h4><a href='https://computerhoy.com/tecnologia/realmente-ia-podria-suponer-extincion-raza-humana-1262602'>¿Realmente la IA podría suponer la extinción de la raza humana? Esto opinan los expertos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/realmente-ia-podria-suponer-extincion-raza-humana-1262602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/realmente-ia-podria-suponer-extincion-raza-humana-3062044.jpg?tf=1200x' alt='¿Realmente la IA podría suponer la extinción de la raza humana? Esto opinan los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/misterio-cigarras-nacen-cada-17-anos-1263986'>Estas cigarras solo nacen una vez cada 17 años exactos, y nadie saber por qué</a></h4>
-    <a href='https://computerhoy.com/ciencia/misterio-cigarras-nacen-cada-17-anos-1263986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estas-cigarras-solo-nacen-vez-cada-17-anos-nadie-saber-3064312.jpg?tf=1200x' alt='Estas cigarras solo nacen una vez cada 17 años exactos, y nadie saber por qué' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-arreglar-microsd-estropeada-no-lee-ni-funciona-1262772'>Cómo arreglar una microSD estropeada que no lee ni funciona</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-arreglar-microsd-estropeada-no-lee-ni-funciona-1262772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/microsd.jpg?tf=1200x' alt='Cómo arreglar una microSD estropeada que no lee ni funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/nuevo-tipo-memoria-promete-reducir-consumo-energia-1265154'>Un nuevo tipo de memoria promete reducir el consumo de energía y mejorar el rendimiento</a></h4>
-    <a href='https://computerhoy.com/pc/nuevo-tipo-memoria-promete-reducir-consumo-energia-1265154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/placa-3066442.jpg?tf=1200x' alt='Un nuevo tipo de memoria promete reducir el consumo de energía y mejorar el rendimiento' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/supermodelo-bella-hadid-auriculares-cable-3064248.jpg?tf=1200x' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/desconocido-te-envia-gratis-reloj-inteligente-autoridades-aconsejan-no-enciendas-1265488'>Si un desconocido te envía gratis un reloj inteligente las autoridades aconsejan que no lo enciendas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/desconocido-te-envia-gratis-reloj-inteligente-autoridades-aconsejan-no-enciendas-1265488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/smartwatch-3066890.jpg?tf=1200x' alt='Si un desconocido te envía gratis un reloj inteligente las autoridades aconsejan que no lo enciendas' />
+    <h4><a href='https://computerhoy.com/tecnologia/que-es-son-modelos-lenguaje-1250526'>¿Qué son los modelos de lenguaje?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/que-es-son-modelos-lenguaje-1250526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1687454074767-3065332.jpg?tf=1200x' alt='¿Qué son los modelos de lenguaje?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/verdad-carga-rapida-estropea-bateria-movil-1251454'>Resolvemos el mito: ¿es verdad que la carga rápida estropea la batería del móvil?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/verdad-carga-rapida-estropea-bateria-movil-1251454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/carga-rapida-3043940.jpg?tf=1200x' alt='Resolvemos el mito: ¿es verdad que la carga rápida estropea la batería del móvil?' />
+    <h4><a href='https://computerhoy.com/motor/sirven-pequenos-circulos-cuadrados-parachoques-coches-1254774'>¿Para qué sirven los pequeños círculos o cuadrados del parachoques de los coches?</a></h4>
+    <a href='https://computerhoy.com/motor/sirven-pequenos-circulos-cuadrados-parachoques-coches-1254774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/parachoques-coche-3049350.jpg?tf=1200x' alt='¿Para qué sirven los pequeños círculos o cuadrados del parachoques de los coches?' />
     </a>
 </div>
 
