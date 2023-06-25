@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/realmente-ia-podria-suponer-extincion-raza-humana-1262602'>¿Realmente la IA podría suponer la extinción de la raza humana? Esto opinan los expertos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/realmente-ia-podria-suponer-extincion-raza-humana-1262602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/realmente-ia-podria-suponer-extincion-raza-humana-3062044.jpg?tf=1200x' alt='¿Realmente la IA podría suponer la extinción de la raza humana? Esto opinan los expertos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/usas-youtube-te-gustan-videojuegos-debes-estar-atento-malware-1265720'>Si usas YouTube y te gustan los videojuegos debes estar atento a este malware</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/usas-youtube-te-gustan-videojuegos-debes-estar-atento-malware-1265720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/jugador-pc-videojuegos-3067130.jpg?tf=1200x' alt='Si usas YouTube y te gustan los videojuegos debes estar atento a este malware' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-arreglar-microsd-estropeada-no-lee-ni-funciona-1262772'>Cómo arreglar una microSD estropeada que no lee ni funciona</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-arreglar-microsd-estropeada-no-lee-ni-funciona-1262772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/microsd.jpg?tf=1200x' alt='Cómo arreglar una microSD estropeada que no lee ni funciona' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-llegaron-streaming-acompanadas-polemica-hoy-son-reconocidas-1263296'>7 películas que llegaron al streaming acompañadas de polémica y hoy son reconocidas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-llegaron-streaming-acompanadas-polemica-hoy-son-reconocidas-1263296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/7-peliculas-llegaron-streaming-acompanadas-polemica-hoy-son-reconocidas-3066282.jpg?tf=1200x' alt='7 películas que llegaron al streaming acompañadas de polémica y hoy son reconocidas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/supermodelo-bella-hadid-auriculares-cable-3064248.jpg?tf=1200x' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
+    <h4><a href='https://computerhoy.com/life/europa-ha-batido-record-calor-ya-continente-calentamiento-rapido-1265718'>Europa ha batido su récord de calor y ya es el continente con el calentamiento más rápido</a></h4>
+    <a href='https://computerhoy.com/life/europa-ha-batido-record-calor-ya-continente-calentamiento-rapido-1265718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/calor-3067128.jpg?tf=1200x' alt='Europa ha batido su récord de calor y ya es el continente con el calentamiento más rápido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/que-es-son-modelos-lenguaje-1250526'>¿Qué son los modelos de lenguaje?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/que-es-son-modelos-lenguaje-1250526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1687454074767-3065332.jpg?tf=1200x' alt='¿Qué son los modelos de lenguaje?' />
+    <h4><a href='https://computerhoy.com/energia/espana-potencia-mundial-desperdicio-energia-solar-1262598'>Infraestructuras deficientes y leyes restrictivas a España es una potencia mundial en desperdicio de energía solar</a></h4>
+    <a href='https://computerhoy.com/energia/espana-potencia-mundial-desperdicio-energia-solar-1262598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/desperdicio-energetico-160-millones-euros-espana-deja-escapar-potencial-energia-solar-3065386.jpg?tf=1200x' alt='Infraestructuras deficientes y leyes restrictivas a España es una potencia mundial en desperdicio de energía solar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/sirven-pequenos-circulos-cuadrados-parachoques-coches-1254774'>¿Para qué sirven los pequeños círculos o cuadrados del parachoques de los coches?</a></h4>
-    <a href='https://computerhoy.com/motor/sirven-pequenos-circulos-cuadrados-parachoques-coches-1254774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/parachoques-coche-3049350.jpg?tf=1200x' alt='¿Para qué sirven los pequeños círculos o cuadrados del parachoques de los coches?' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-tenista-robot-ayudarte-convertirte-mejor-jugador-1265714'>Crean un tenista robot para ayudarte a convertirte en mejor jugador</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-tenista-robot-ayudarte-convertirte-mejor-jugador-1265714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/crean-robot-tenis-autonomo-ayudarte-convertirte-mejor-jugador-3067124.jpg?tf=1200x' alt='Crean un tenista robot para ayudarte a convertirte en mejor jugador' />
     </a>
 </div>
 
