@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/espana-lider-mundial-velocidad-internet-cloudflare-1265782'>España es el nuevo líder mundial de velocidad de Internet, según Cloudflare</a></h4>
+    <a href='https://computerhoy.com/internet/espana-lider-mundial-velocidad-internet-cloudflare-1265782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/espana-nuevo-lider-mundial-internet-cloudflare-3067224.jpg?tf=1200x' alt='España es el nuevo líder mundial de velocidad de Internet, según Cloudflare' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/ip-dinamica-vs-ip-estatica-cuales-son-diferencias-1261720'>IP Dinámica vs. IP Estática: ¿cuáles son sus diferencias?</a></h4>
+    <a href='https://computerhoy.com/redes/ip-dinamica-vs-ip-estatica-cuales-son-diferencias-1261720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/direccion-ip-3060276.jpg?tf=1200x' alt='IP Dinámica vs. IP Estática: ¿cuáles son sus diferencias?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-auriculares-buzon-estafas-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-auriculares-buzon-estafas-brushing-malware-1265776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/te-encuentras-smartwatch-auriculares-nuevos-buzon-no-uses-3067202.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-usb-tipo-c-1110895'>Mejores cargadores USB-C que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-usb-tipo-c-1110895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-sabemos-dia-todos-moviles-tendran-usar-cargador-usb-tipo-c-europa-incluido-iphone-2895718.jpg?tf=1200x' alt='Mejores cargadores USB-C que puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/coches-modernos-mas-tecnologia-peor-calidad-1265768'>Los coches modernos tiene más tecnología pero son de peor calidad que antes, dice un estudio</a></h4>
     <a href='https://computerhoy.com/motor/coches-modernos-mas-tecnologia-peor-calidad-1265768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bmw-ix-m60-mercedes-eqs-580-4matic-suv-3066804.jpg?tf=1200x' alt='Los coches modernos tiene más tecnología pero son de peor calidad que antes, dice un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/deepmind-google-mejora-modelo-ia-robocat-ahora-puede-hacer-todo-1265732'>DeepMind de Google mejora el modelo de IA RoboCat y ahora puede hacer todo esto</a></h4>
-    <a href='https://computerhoy.com/ciencia/deepmind-google-mejora-modelo-ia-robocat-ahora-puede-hacer-todo-1265732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/robocat-3067146.jpg?tf=1200x' alt='DeepMind de Google mejora el modelo de IA RoboCat y ahora puede hacer todo esto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/comportamientos-situaciones-seras-baneado-tinder-1258128'>Comportamientos y situaciones por los que serás baneado de Tinder</a></h4>
-    <a href='https://computerhoy.com/apps/comportamientos-situaciones-seras-baneado-tinder-1258128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tinder-2680959.jpg?tf=1200x' alt='Comportamientos y situaciones por los que serás baneado de Tinder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-robot-mesa-impulsado-inteligencia-artificial-jovenes-1265722'>Crean este robot de mesa impulsado por inteligencia artificial para los más jóvenes</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-robot-mesa-impulsado-inteligencia-artificial-jovenes-1265722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/senserobot-go-3067132.jpg?tf=1200x' alt='Crean este robot de mesa impulsado por inteligencia artificial para los más jóvenes' />
     </a>
 </div>
 
