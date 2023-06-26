@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ingeniero-gana-315000-euros-ano-gracias-teletrabajar-3-puestos-simultaneos-1266118'>Este ingeniero gana 315.000 euros al año gracias a teletrabajar en tres puestos simultáneos</a></h4>
+    <a href='https://computerhoy.com/life/ingeniero-gana-315000-euros-ano-gracias-teletrabajar-3-puestos-simultaneos-1266118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ingeniero-gana-315000-euros-ano-gracias-teletrabajar-tres-puestos-simultaneos-3067850.jpg?tf=1200x' alt='Este ingeniero gana 315.000 euros al año gracias a teletrabajar en tres puestos simultáneos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-descubre-nuevo-sistema-reciclar-orina-agua-potable-1266084'>La NASA descubre un nuevo sistema para convertir el 98% de la orina en agua potable</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-descubre-nuevo-sistema-reciclar-orina-agua-potable-1266084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nasa-descubre-nuevo-sistema-reciclar-orina-agua-potable-3067774.jpg?tf=1200x' alt='La NASA descubre un nuevo sistema para convertir el 98% de la orina en agua potable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-probando-juegos-youtube-muerte-stadia-1266050'>Google está probando los juegos en YouTube: así funcionará su nueva forma de jugar</a></h4>
+    <a href='https://computerhoy.com/google/google-probando-juegos-youtube-muerte-stadia-1266050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-stadia-youtube-3066774.jpg?tf=1200x' alt='Google está probando los juegos en YouTube: así funcionará su nueva forma de jugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/furby-renace-muneco-interactivo-triunfo-90-regresa-interruptor-apagado-1266044'>El Furby renace: el muñeco interactivo que triunfó en los 90 regresa con un interruptor de apagado</a></h4>
     <a href='https://computerhoy.com/life/furby-renace-muneco-interactivo-triunfo-90-regresa-interruptor-apagado-1266044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/furby-renace-muneco-interactivo-triunfo-90-regresa-interruptor-apagado-3067634.jpg?tf=1200x' alt='El Furby renace: el muñeco interactivo que triunfó en los 90 regresa con un interruptor de apagado' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/no-hay-debate-estudio-determina-android-facil-usar-ios-1266012'>¡No hay debate! Un estudio determina Android es más fácil de usar que iOS</a></h4>
+    <h4><a href='https://computerhoy.com/moviles/no-hay-debate-estudio-determina-android-facil-usar-ios-1266012'>¡No hay debate! Un estudio determina que Android es más fácil de usar que iOS</a></h4>
     <a href='https://computerhoy.com/moviles/no-hay-debate-estudio-determina-android-facil-usar-ios-1266012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/no-hay-debate-estudio-determina-android-facil-usar-ios-3067652.jpg?tf=1200x' alt='¡No hay debate! Un estudio determina Android es más fácil de usar que iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ordenador-gaming-lenovo-rtx-3060-12gb-ahora-rebajado-1100-euros-1265002'>Este ordenador gaming de Lenovo con una RTX 3060 de 12GB está ahora rebajado a 1.100 euros</a></h4>
-    <a href='https://computerhoy.com/gaming/ordenador-gaming-lenovo-rtx-3060-12gb-ahora-rebajado-1100-euros-1265002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/lenovo-legion-3066006.jpg?tf=1200x' alt='Este ordenador gaming de Lenovo con una RTX 3060 de 12GB está ahora rebajado a 1.100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-vs-chatgpt-plus-estas-son-diferencias-version-gratuita-pago-1265986'>ChatGPT vs. ChatGPT Plus: estas son las diferencias entre la versión gratuita y de pago </a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-vs-chatgpt-plus-estas-son-diferencias-version-gratuita-pago-1265986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-vs-chatgpt-plus-estas-son-diferencias-version-gratuita-pago-3067628.jpg?tf=1200x' alt='ChatGPT vs. ChatGPT Plus: estas son las diferencias entre la versión gratuita y de pago ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429'>Estas son las mejores tablets de Samsung que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-tab-s8-ultra-2610767.jpg?tf=1200x' alt='Estas son las mejores tablets de Samsung que puedes comprar' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/no-hay-debate-estudio-determina-android-facil-usar-ios-3067652.jpg?tf=1200x' alt='¡No hay debate! Un estudio determina que Android es más fácil de usar que iOS' />
     </a>
 </div>
 
