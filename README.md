@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429'>Estas son las mejores tablets de Samsung que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/samsung-galaxy-tab-s8-ultra-2610767.jpg?tf=1200x' alt='Estas son las mejores tablets de Samsung que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/motorola-razr-40-ultra-review-opinion-primer-tipo-flip-me-convence-1259164'>Motorola RAZR 40 Ultra, análisis y opinión: el primer tipo flip que me convence</a></h4>
+    <a href='https://computerhoy.com/analisis/motorola-razr-40-ultra-review-opinion-primer-tipo-flip-me-convence-1259164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/razr-40-ultra-portada-3065038.jpg?tf=1200x' alt='Motorola RAZR 40 Ultra, análisis y opinión: el primer tipo flip que me convence' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/furgoneta-imprime-textos-carretera-ultima-locura-raspberry-pi-1265790'>Una furgoneta que imprime textos en la carretera, la última locura con Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/tecnologia/furgoneta-imprime-textos-carretera-ultima-locura-raspberry-pi-1265790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/camion-imprime-textos-carretera-ultima-locura-raspberry-pi-3067262.jpg?tf=1200x' alt='Una furgoneta que imprime textos en la carretera, la última locura con Raspberry Pi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/espana-lider-mundial-velocidad-internet-cloudflare-1265782'>España es el nuevo líder mundial de velocidad de Internet, según Cloudflare</a></h4>
     <a href='https://computerhoy.com/internet/espana-lider-mundial-velocidad-internet-cloudflare-1265782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/espana-nuevo-lider-mundial-internet-cloudflare-3067224.jpg?tf=1200x' alt='España es el nuevo líder mundial de velocidad de Internet, según Cloudflare' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/ip-dinamica-vs-ip-estatica-cuales-son-diferencias-1261720'>IP Dinámica vs. IP Estática: ¿cuáles son sus diferencias?</a></h4>
-    <a href='https://computerhoy.com/redes/ip-dinamica-vs-ip-estatica-cuales-son-diferencias-1261720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/direccion-ip-3060276.jpg?tf=1200x' alt='IP Dinámica vs. IP Estática: ¿cuáles son sus diferencias?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-auriculares-buzon-estafas-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-auriculares-buzon-estafas-brushing-malware-1265776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/te-encuentras-smartwatch-auriculares-nuevos-buzon-no-uses-3067202.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses' />
     </a>
 </div>
 
