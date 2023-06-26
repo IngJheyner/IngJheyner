@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/one-piece-netflix-mas-presupuesto-juego-tronos-mandalorian-1266340'>La nueva serie de Netflix basada en un manga tiene más presupuesto que Juego de Tronos y The Mandalorian</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/one-piece-netflix-mas-presupuesto-juego-tronos-mandalorian-1266340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/one-piece-serie-imagen-real-netflix-2941502.jpg?tf=1200x' alt='La nueva serie de Netflix basada en un manga tiene más presupuesto que Juego de Tronos y The Mandalorian' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/infalible-truco-eliminar-excrementos-pajaro-carroceria-coche-danar-pintura-1265172'>El infalible truco para eliminar los excrementos de pájaro de la carrocería del coche sin dañar la pintura</a></h4>
+    <a href='https://computerhoy.com/motor/infalible-truco-eliminar-excrementos-pajaro-carroceria-coche-danar-pintura-1265172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/como-caca-pajaro-artificial-puede-ayudarte-cuidar-pintura-coche-1937769.jpg?tf=1200x' alt='El infalible truco para eliminar los excrementos de pájaro de la carrocería del coche sin dañar la pintura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/7-consejos-evitar-danar-pantalla-movil-1266320'>7 consejos para evitar dañar la pantalla de tu móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/7-consejos-evitar-danar-pantalla-movil-1266320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pantalla-rota-3068310.jpg?tf=1200x' alt='7 consejos para evitar dañar la pantalla de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7-rebajado-precio-amazon-oferta-170-euros-menos-1266016'>Uno de los relojes Garmin más top es ahora 170 euros más barato, y con toda la garantía de Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-fenix-7-rebajado-precio-amazon-oferta-170-euros-menos-1266016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7-sapphire-solar-2591047.jpg?tf=1200x' alt='Uno de los relojes Garmin más top es ahora 170 euros más barato, y con toda la garantía de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/podrias-no-estar-aprovechando-funcionalidad-destacada-cuenta-netflix-1266316'>Podrías no estar aprovechando la funcionalidad más destacada de tu cuenta de Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/podrias-no-estar-aprovechando-funcionalidad-destacada-cuenta-netflix-1266316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/netflix-3068302.jpg?tf=1200x' alt='Podrías no estar aprovechando la funcionalidad más destacada de tu cuenta de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gemini-modelo-inteligencia-deepmind-podria-superar-chatgpt-1266306'>Gemini, el nuevo modelo de inteligencia de DeepMind que podría superar a ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gemini-modelo-inteligencia-deepmind-podria-superar-chatgpt-1266306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-3068278.jpg?tf=1200x' alt='Gemini, el nuevo modelo de inteligencia de DeepMind que podría superar a ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/desconocido-boton-tiene-router-puede-convertirse-todo-peligro-1266308'>El desconocido botón que tiene tu router y que puede convertirse en todo un peligro</a></h4>
-    <a href='https://computerhoy.com/redes/desconocido-boton-tiene-router-puede-convertirse-todo-peligro-1266308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/boton-wps-router-3068290.jpg?tf=1200x' alt='El desconocido botón que tiene tu router y que puede convertirse en todo un peligro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuidado-zara-shein-llega-nueva-ropa-hecha-hongos-repara-sola-1266290'>Cuidado, Zara y Shein: llega la nueva ropa hecha con hongos que se repara sola</a></h4>
-    <a href='https://computerhoy.com/life/cuidado-zara-shein-llega-nueva-ropa-hecha-hongos-repara-sola-1266290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ropa-3068206.jpg?tf=1200x' alt='Cuidado, Zara y Shein: llega la nueva ropa hecha con hongos que se repara sola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-desarrolla-sistema-comunicacion-inteligencia-artificial-similar-chatgpt-1266274'>La NASA también apuesta por la IA generativa y está creando un asistente similar a ChatGPT</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-desarrolla-sistema-comunicacion-inteligencia-artificial-similar-chatgpt-1266274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/astronauta-3068178.jpg?tf=1200x' alt='La NASA también apuesta por la IA generativa y está creando un asistente similar a ChatGPT' />
     </a>
 </div>
 
