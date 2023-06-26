@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-casas-impresas-3d-tardan-solo-4-dias-construirse-1266126'>Estas casas impresas en 3D tardan 4 días en construirse y podrían ser la solución a un gran problema</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-casas-impresas-3d-tardan-solo-4-dias-construirse-1266126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/casas-3d-3067856.jpg?tf=1200x' alt='Estas casas impresas en 3D tardan 4 días en construirse y podrían ser la solución a un gran problema' />
+    <h4><a href='https://computerhoy.com/life/ikea-estrena-dos-nuevos-sensores-hogar-inteligente-1266240'>Ikea pone a la venta dos nuevos sensores para expandir su catálogo del hogar inteligente</a></h4>
+    <a href='https://computerhoy.com/life/ikea-estrena-dos-nuevos-sensores-hogar-inteligente-1266240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/smarthome-3068144.jpg?tf=1200x' alt='Ikea pone a la venta dos nuevos sensores para expandir su catálogo del hogar inteligente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ingeniero-gana-315000-euros-ano-gracias-teletrabajar-3-puestos-simultaneos-1266118'>Este ingeniero gana 315.000 euros al año gracias a teletrabajar en tres puestos simultáneos</a></h4>
-    <a href='https://computerhoy.com/life/ingeniero-gana-315000-euros-ano-gracias-teletrabajar-3-puestos-simultaneos-1266118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ingeniero-gana-315000-euros-ano-gracias-teletrabajar-tres-puestos-simultaneos-3067850.jpg?tf=1200x' alt='Este ingeniero gana 315.000 euros al año gracias a teletrabajar en tres puestos simultáneos' />
+    <h4><a href='https://computerhoy.com/internet/bill-gates-predijo-facebook-netflix-1994-1266218'>Bill Gates predijo Facebook y Netflix en 1994, ¿en qué apuesta hoy?</a></h4>
+    <a href='https://computerhoy.com/internet/bill-gates-predijo-facebook-netflix-1994-1266218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2969492.jpg?tf=1200x' alt='Bill Gates predijo Facebook y Netflix en 1994, ¿en qué apuesta hoy?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-descubre-nuevo-sistema-reciclar-orina-agua-potable-1266084'>La NASA descubre un nuevo sistema para convertir el 98% de la orina en agua potable</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-descubre-nuevo-sistema-reciclar-orina-agua-potable-1266084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nasa-descubre-nuevo-sistema-reciclar-orina-agua-potable-3067774.jpg?tf=1200x' alt='La NASA descubre un nuevo sistema para convertir el 98% de la orina en agua potable' />
+    <h4><a href='https://computerhoy.com/pc/primer-vistazo-windows-copilot-funcionara-nuevo-asistente-ia-1266208'>Primer vistazo a Windows Copilot: así funcionará el nuevo asistente con IA</a></h4>
+    <a href='https://computerhoy.com/pc/primer-vistazo-windows-copilot-funcionara-nuevo-asistente-ia-1266208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/microsoft-anuncia-copiloto-windows-integra-ia-tipo-chatgpt-windows-11-bing-propio-chatgpt-3040366.jpg?tf=1200x' alt='Primer vistazo a Windows Copilot: así funcionará el nuevo asistente con IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-probando-juegos-youtube-muerte-stadia-1266050'>Google está probando los juegos en YouTube: así funcionará su nueva forma de jugar</a></h4>
-    <a href='https://computerhoy.com/google/google-probando-juegos-youtube-muerte-stadia-1266050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-stadia-youtube-3066774.jpg?tf=1200x' alt='Google está probando los juegos en YouTube: así funcionará su nueva forma de jugar' />
+    <h4><a href='https://computerhoy.com/moviles/nueva-locura-moviles-android-24-gb-memoria-ram-1266186'>La nueva locura de los móviles Android: hasta 24 GB de memoria RAM</a></h4>
+    <a href='https://computerhoy.com/moviles/nueva-locura-moviles-android-24-gb-memoria-ram-1266186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/memoria-ram-3043982.jpg?tf=1200x' alt='La nueva locura de los móviles Android: hasta 24 GB de memoria RAM' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/furby-renace-muneco-interactivo-triunfo-90-regresa-interruptor-apagado-1266044'>El Furby renace: el muñeco interactivo que triunfó en los 90 regresa con un interruptor de apagado</a></h4>
-    <a href='https://computerhoy.com/life/furby-renace-muneco-interactivo-triunfo-90-regresa-interruptor-apagado-1266044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/furby-renace-muneco-interactivo-triunfo-90-regresa-interruptor-apagado-3067634.jpg?tf=1200x' alt='El Furby renace: el muñeco interactivo que triunfó en los 90 regresa con un interruptor de apagado' />
+    <h4><a href='https://computerhoy.com/entretenimiento/plan-basico-netflix-peligro-extincion-son-malas-noticias-1266174'>El plan básico de Netflix está en peligro de extinción y esto son malas noticias</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/plan-basico-netflix-peligro-extincion-son-malas-noticias-1266174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/miniseries-netflix-3065072.jpg?tf=1200x' alt='El plan básico de Netflix está en peligro de extinción y esto son malas noticias' />
     </a>
 </div>
 
