@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/furgoneta-imprime-textos-carretera-ultima-locura-raspberry-pi-1265790'>Una furgoneta que imprime textos en la carretera, la última locura con Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/furgoneta-imprime-textos-carretera-ultima-locura-raspberry-pi-1265790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/camion-imprime-textos-carretera-ultima-locura-raspberry-pi-3067262.jpg?tf=1200x' alt='Una furgoneta que imprime textos en la carretera, la última locura con Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/descubren-ciudad-maya-piramides-oculta-jungla-gracias-lidar-1265788'>Descubren una ciudad maya con pirámides oculta en la jungla, gracias al LiDAR</a></h4>
     <a href='https://computerhoy.com/life/descubren-ciudad-maya-piramides-oculta-jungla-gracias-lidar-1265788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/descubren-ciudad-maya-piramides-oculta-jungla-3067256.jpg?tf=1200x' alt='Descubren una ciudad maya con pirámides oculta en la jungla, gracias al LiDAR' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/smartwatch-auriculares-buzon-estafas-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses</a></h4>
     <a href='https://computerhoy.com/tecnologia/smartwatch-auriculares-buzon-estafas-brushing-malware-1265776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/te-encuentras-smartwatch-auriculares-nuevos-buzon-no-uses-3067202.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-usb-tipo-c-1110895'>Mejores cargadores USB-C que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cargadores-usb-tipo-c-1110895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ya-sabemos-dia-todos-moviles-tendran-usar-cargador-usb-tipo-c-europa-incluido-iphone-2895718.jpg?tf=1200x' alt='Mejores cargadores USB-C que puedes comprar' />
     </a>
 </div>
 
