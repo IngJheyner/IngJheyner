@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ikea-estrena-dos-nuevos-sensores-hogar-inteligente-1266240'>Ikea pone a la venta dos nuevos sensores para expandir su catálogo del hogar inteligente</a></h4>
-    <a href='https://computerhoy.com/life/ikea-estrena-dos-nuevos-sensores-hogar-inteligente-1266240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/smarthome-3068144.jpg?tf=1200x' alt='Ikea pone a la venta dos nuevos sensores para expandir su catálogo del hogar inteligente' />
+    <h4><a href='https://computerhoy.com/entretenimiento/podrias-no-estar-aprovechando-funcionalidad-destacada-cuenta-netflix-1266316'>Podrías no estar aprovechando la funcionalidad más destacada de tu cuenta de Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/podrias-no-estar-aprovechando-funcionalidad-destacada-cuenta-netflix-1266316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/netflix-3068302.jpg?tf=1200x' alt='Podrías no estar aprovechando la funcionalidad más destacada de tu cuenta de Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/bill-gates-predijo-facebook-netflix-1994-1266218'>Bill Gates predijo Facebook y Netflix en 1994, ¿en qué apuesta hoy?</a></h4>
-    <a href='https://computerhoy.com/internet/bill-gates-predijo-facebook-netflix-1994-1266218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2969492.jpg?tf=1200x' alt='Bill Gates predijo Facebook y Netflix en 1994, ¿en qué apuesta hoy?' />
+    <h4><a href='https://computerhoy.com/tecnologia/gemini-modelo-inteligencia-deepmind-podria-superar-chatgpt-1266306'>Gemini, el nuevo modelo de inteligencia de DeepMind que podría superar a ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gemini-modelo-inteligencia-deepmind-podria-superar-chatgpt-1266306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-3068278.jpg?tf=1200x' alt='Gemini, el nuevo modelo de inteligencia de DeepMind que podría superar a ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/primer-vistazo-windows-copilot-funcionara-nuevo-asistente-ia-1266208'>Primer vistazo a Windows Copilot: así funcionará el nuevo asistente con IA</a></h4>
-    <a href='https://computerhoy.com/pc/primer-vistazo-windows-copilot-funcionara-nuevo-asistente-ia-1266208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/microsoft-anuncia-copiloto-windows-integra-ia-tipo-chatgpt-windows-11-bing-propio-chatgpt-3040366.jpg?tf=1200x' alt='Primer vistazo a Windows Copilot: así funcionará el nuevo asistente con IA' />
+    <h4><a href='https://computerhoy.com/redes/desconocido-boton-tiene-router-puede-convertirse-todo-peligro-1266308'>El desconocido botón que tiene tu router y que puede convertirse en todo un peligro</a></h4>
+    <a href='https://computerhoy.com/redes/desconocido-boton-tiene-router-puede-convertirse-todo-peligro-1266308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/boton-wps-router-3068290.jpg?tf=1200x' alt='El desconocido botón que tiene tu router y que puede convertirse en todo un peligro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nueva-locura-moviles-android-24-gb-memoria-ram-1266186'>La nueva locura de los móviles Android: hasta 24 GB de memoria RAM</a></h4>
-    <a href='https://computerhoy.com/moviles/nueva-locura-moviles-android-24-gb-memoria-ram-1266186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/memoria-ram-3043982.jpg?tf=1200x' alt='La nueva locura de los móviles Android: hasta 24 GB de memoria RAM' />
+    <h4><a href='https://computerhoy.com/life/cuidado-zara-shein-llega-nueva-ropa-hecha-hongos-repara-sola-1266290'>Cuidado, Zara y Shein: llega la nueva ropa hecha con hongos que se repara sola</a></h4>
+    <a href='https://computerhoy.com/life/cuidado-zara-shein-llega-nueva-ropa-hecha-hongos-repara-sola-1266290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ropa-3068206.jpg?tf=1200x' alt='Cuidado, Zara y Shein: llega la nueva ropa hecha con hongos que se repara sola' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/plan-basico-netflix-peligro-extincion-son-malas-noticias-1266174'>El plan básico de Netflix está en peligro de extinción y esto son malas noticias</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/plan-basico-netflix-peligro-extincion-son-malas-noticias-1266174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/miniseries-netflix-3065072.jpg?tf=1200x' alt='El plan básico de Netflix está en peligro de extinción y esto son malas noticias' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-desarrolla-sistema-comunicacion-inteligencia-artificial-similar-chatgpt-1266274'>La NASA también apuesta por la IA generativa y está creando un asistente similar a ChatGPT</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-desarrolla-sistema-comunicacion-inteligencia-artificial-similar-chatgpt-1266274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/astronauta-3068178.jpg?tf=1200x' alt='La NASA también apuesta por la IA generativa y está creando un asistente similar a ChatGPT' />
     </a>
 </div>
 
