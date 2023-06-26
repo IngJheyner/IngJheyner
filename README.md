@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estas-casas-impresas-3d-tardan-solo-4-dias-construirse-1266126'>Estas casas impresas en 3D tardan 4 días en construirse y podrían ser la solución a un gran problema</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-casas-impresas-3d-tardan-solo-4-dias-construirse-1266126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/casas-3d-3067856.jpg?tf=1200x' alt='Estas casas impresas en 3D tardan 4 días en construirse y podrían ser la solución a un gran problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ingeniero-gana-315000-euros-ano-gracias-teletrabajar-3-puestos-simultaneos-1266118'>Este ingeniero gana 315.000 euros al año gracias a teletrabajar en tres puestos simultáneos</a></h4>
     <a href='https://computerhoy.com/life/ingeniero-gana-315000-euros-ano-gracias-teletrabajar-3-puestos-simultaneos-1266118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ingeniero-gana-315000-euros-ano-gracias-teletrabajar-tres-puestos-simultaneos-3067850.jpg?tf=1200x' alt='Este ingeniero gana 315.000 euros al año gracias a teletrabajar en tres puestos simultáneos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/furby-renace-muneco-interactivo-triunfo-90-regresa-interruptor-apagado-1266044'>El Furby renace: el muñeco interactivo que triunfó en los 90 regresa con un interruptor de apagado</a></h4>
     <a href='https://computerhoy.com/life/furby-renace-muneco-interactivo-triunfo-90-regresa-interruptor-apagado-1266044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/furby-renace-muneco-interactivo-triunfo-90-regresa-interruptor-apagado-3067634.jpg?tf=1200x' alt='El Furby renace: el muñeco interactivo que triunfó en los 90 regresa con un interruptor de apagado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/no-hay-debate-estudio-determina-android-facil-usar-ios-1266012'>¡No hay debate! Un estudio determina que Android es más fácil de usar que iOS</a></h4>
-    <a href='https://computerhoy.com/moviles/no-hay-debate-estudio-determina-android-facil-usar-ios-1266012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/no-hay-debate-estudio-determina-android-facil-usar-ios-3067652.jpg?tf=1200x' alt='¡No hay debate! Un estudio determina que Android es más fácil de usar que iOS' />
     </a>
 </div>
 
