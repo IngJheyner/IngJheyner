@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/renovarse-morir-700000-euros-ano-trabajo-como-experto-inteligencia-artificial-1266594'>Renovarse o morir: hasta 700.000 euros al año por un trabajo como experto en inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/renovarse-morir-700000-euros-ano-trabajo-como-experto-inteligencia-artificial-1266594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/renovarse-morir-700000-euros-ano-trabajo-como-experto-inteligencia-artificial-3068590.jpg?tf=1200x' alt='Renovarse o morir: hasta 700.000 euros al año por un trabajo como experto en inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-redmi-note-12-oferta-precio-record-amazon-1266070'>Este móvil Xiaomi de menos de 150 euros arrasará en ventas, y con pantallón de 120 Hz</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-redmi-note-12-oferta-precio-record-amazon-1266070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-note-12-3067746.jpg?tf=1200x' alt='Este móvil Xiaomi de menos de 150 euros arrasará en ventas, y con pantallón de 120 Hz' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/juegos-chatgpt-1266342'>Con ChatGPT también puedes jugar online: aquí 10 juegos que tienes que probar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/juegos-chatgpt-1266342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-tambien-puedes-jugar-online-aqui-10-juegos-tienes-probar-3068344.jpg?tf=1200x' alt='Con ChatGPT también puedes jugar online: aquí 10 juegos que tienes que probar' />
+    <h4><a href='https://computerhoy.com/google/google-pone-fin-project-iris-gafas-realidad-aumentada-no-competiran-apple-vision-pro-1266640'>Google pone fin a Project Iris: las gafas de realidad aumentada no competirán con las Apple Vision Pro</a></h4>
+    <a href='https://computerhoy.com/google/google-pone-fin-project-iris-gafas-realidad-aumentada-no-competiran-apple-vision-pro-1266640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/gafas-realidad-aumentada-2257189.jpg?tf=1200x' alt='Google pone fin a Project Iris: las gafas de realidad aumentada no competirán con las Apple Vision Pro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/mejores-pulseras-inteligentes-menos-30-euros-ofertas-894779'>7 pulseras inteligentes de menos de 50€ que tienen poco que envidiar a muchos relojes</a></h4>
-    <a href='https://computerhoy.com/reportajes/mejores-pulseras-inteligentes-menos-30-euros-ofertas-894779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pulsera-inteligente-smartband-3068296.jpg?tf=1200x' alt='7 pulseras inteligentes de menos de 50€ que tienen poco que envidiar a muchos relojes' />
+    <h4><a href='https://computerhoy.com/espacio/primera-fabrica-espacial-ya-creando-medicamentos-enviarlos-tierra-1266638'>La primera fábrica espacial ya está creando medicamentos para el VIH y enviarlos a la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/primera-fabrica-espacial-ya-creando-medicamentos-enviarlos-tierra-1266638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/primera-fabrica-espacial-ya-creando-medicamentos-enviarlos-tierra-3068632.jpg?tf=1200x' alt='La primera fábrica espacial ya está creando medicamentos para el VIH y enviarlos a la Tierra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bicicleta-sin-ruedas-funciona-1266558'>La bicicleta sin ruedas ya está aqui, ¡y funciona!</a></h4>
-    <a href='https://computerhoy.com/life/bicicleta-sin-ruedas-funciona-1266558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bicicleta-ruedas-ya-aqui-funciona-3068538.jpg?tf=1200x' alt='La bicicleta sin ruedas ya está aqui, ¡y funciona!' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/juego-nintendo-propagando-malware-ordenadores-todo-mundo-1266344'>El juego de Nintendo que está propagando malware en los ordenadores de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/juego-nintendo-propagando-malware-ordenadores-todo-mundo-1266344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malware-super-mario-bros-3068348.jpg?tf=1200x' alt='El juego de Nintendo que está propagando malware en los ordenadores de todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/15-anos-salida-definitiva-bill-gates-microsoft-como-ha-cambiado-compania-tiempo-1262562'>15 años de la salida de Bill Gates de Microsoft: cómo ha cambiado la empresa en este tiempo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/15-anos-salida-definitiva-bill-gates-microsoft-como-ha-cambiado-compania-tiempo-1262562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bill-gates-15-anos-salida-microsoft-3064264.jpg?tf=1200x' alt='15 años de la salida de Bill Gates de Microsoft: cómo ha cambiado la empresa en este tiempo' />
+    <h4><a href='https://computerhoy.com/android/nuevo-logo-android-google-da-lavado-cara-marca-despues-4-anos-1266612'>Nuevo logo de Android: Google le da un lavado de cara a su marca después de 4 años</a></h4>
+    <a href='https://computerhoy.com/android/nuevo-logo-android-google-da-lavado-cara-marca-despues-4-anos-1266612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/android-3022320.jpg?tf=1200x' alt='Nuevo logo de Android: Google le da un lavado de cara a su marca después de 4 años' />
     </a>
 </div>
 
