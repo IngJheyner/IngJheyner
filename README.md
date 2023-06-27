@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-redmi-note-12-oferta-precio-record-amazon-1266070'>Este móvil Xiaomi de menos de 150 euros arrasará en ventas, y con pantallón de 120 Hz</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-redmi-note-12-oferta-precio-record-amazon-1266070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-note-12-3067746.jpg?tf=1200x' alt='Este móvil Xiaomi de menos de 150 euros arrasará en ventas, y con pantallón de 120 Hz' />
+    <h4><a href='https://computerhoy.com/apps/historias-telegram-ya-estan-aqui-llegan-competir-whatsapp-1266762'>Las historias de Telegram ya están aquí y llegan para competir con las de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/historias-telegram-ya-estan-aqui-llegan-competir-whatsapp-1266762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/historias-telegram-ya-estan-aqui-llegan-competir-whatsapp-3068820.jpg?tf=1200x' alt='Las historias de Telegram ya están aquí y llegan para competir con las de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-pone-fin-project-iris-gafas-realidad-aumentada-no-competiran-apple-vision-pro-1266640'>Google pone fin a Project Iris: las gafas de realidad aumentada no competirán con las Apple Vision Pro</a></h4>
-    <a href='https://computerhoy.com/google/google-pone-fin-project-iris-gafas-realidad-aumentada-no-competiran-apple-vision-pro-1266640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/gafas-realidad-aumentada-2257189.jpg?tf=1200x' alt='Google pone fin a Project Iris: las gafas de realidad aumentada no competirán con las Apple Vision Pro' />
+    <h4><a href='https://computerhoy.com/tecnologia/ia-meta-siendo-utilizada-crear-chatbots-sexuales-realistas-1266734'>El lado oscuro de la Inteligencia Artificial: crean chatbots sexuales con la IA de Meta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-meta-siendo-utilizada-crear-chatbots-sexuales-realistas-1266734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/invertir-inteligencia-artificial-3007646.jpg?tf=1200x' alt='El lado oscuro de la Inteligencia Artificial: crean chatbots sexuales con la IA de Meta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/primera-fabrica-espacial-ya-creando-medicamentos-enviarlos-tierra-1266638'>La primera fábrica espacial ya está creando medicamentos para el VIH y enviarlos a la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/primera-fabrica-espacial-ya-creando-medicamentos-enviarlos-tierra-1266638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/primera-fabrica-espacial-ya-creando-medicamentos-enviarlos-tierra-3068632.jpg?tf=1200x' alt='La primera fábrica espacial ya está creando medicamentos para el VIH y enviarlos a la Tierra' />
+    <h4><a href='https://computerhoy.com/internet/inteligencia-artificial-acabando-internet-conoces-ahora-1266712'>La inteligencia artificial está acabando con el Internet tal y como se conoce</a></h4>
+    <a href='https://computerhoy.com/internet/inteligencia-artificial-acabando-internet-conoces-ahora-1266712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-acabando-internet-tal-como-conoce-3068770.jpg?tf=1200x' alt='La inteligencia artificial está acabando con el Internet tal y como se conoce' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/juego-nintendo-propagando-malware-ordenadores-todo-mundo-1266344'>El juego de Nintendo que está propagando malware en los ordenadores de todo el mundo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/juego-nintendo-propagando-malware-ordenadores-todo-mundo-1266344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malware-super-mario-bros-3068348.jpg?tf=1200x' alt='El juego de Nintendo que está propagando malware en los ordenadores de todo el mundo' />
+    <h4><a href='https://computerhoy.com/ciencia/desarrollan-dron-resistente-fuego-podria-ser-solucion-incendios-1266706'>Desarrollan un dron resistente al fuego y que podría ser la solución a los incendios</a></h4>
+    <a href='https://computerhoy.com/ciencia/desarrollan-dron-resistente-fuego-podria-ser-solucion-incendios-1266706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/desarrollan-dron-resistente-fuego-podria-ser-solucion-incendios-3068732.jpg?tf=1200x' alt='Desarrollan un dron resistente al fuego y que podría ser la solución a los incendios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/nuevo-logo-android-google-da-lavado-cara-marca-despues-4-anos-1266612'>Nuevo logo de Android: Google le da un lavado de cara a su marca después de 4 años</a></h4>
-    <a href='https://computerhoy.com/android/nuevo-logo-android-google-da-lavado-cara-marca-despues-4-anos-1266612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/android-3022320.jpg?tf=1200x' alt='Nuevo logo de Android: Google le da un lavado de cara a su marca después de 4 años' />
+    <h4><a href='https://computerhoy.com/tecnologia/bing-vision-nueva-funcion-chatbot-microsoft-capaz-reconocer-imagenes-1266346'>Bing Vision, la nueva función del chatbot de Microsoft capaz de reconocer imágenes en segundos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bing-vision-nueva-funcion-chatbot-microsoft-capaz-reconocer-imagenes-1266346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bing-2993878.jpg?tf=1200x' alt='Bing Vision, la nueva función del chatbot de Microsoft capaz de reconocer imágenes en segundos' />
     </a>
 </div>
 
