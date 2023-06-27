@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/suscripcion-meta-quest-plus-realidad-virtual-1266548'>Meta lanza la suscripción Meta Quest+, pero no es el Netflix de la realidad virtual</a></h4>
+    <a href='https://computerhoy.com/tecnologia/suscripcion-meta-quest-plus-realidad-virtual-1266548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/oculus-quest-2-2072623.jpg?tf=1200x' alt='Meta lanza la suscripción Meta Quest+, pero no es el Netflix de la realidad virtual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/one-piece-netflix-mas-presupuesto-juego-tronos-mandalorian-1266340'>La nueva serie de Netflix basada en un manga tiene más presupuesto que Juego de Tronos y The Mandalorian</a></h4>
     <a href='https://computerhoy.com/entretenimiento/one-piece-netflix-mas-presupuesto-juego-tronos-mandalorian-1266340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/one-piece-serie-imagen-real-netflix-2941502.jpg?tf=1200x' alt='La nueva serie de Netflix basada en un manga tiene más presupuesto que Juego de Tronos y The Mandalorian' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7-rebajado-precio-amazon-oferta-170-euros-menos-1266016'>Uno de los relojes Garmin más top es ahora 170 euros más barato, y con toda la garantía de Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-fenix-7-rebajado-precio-amazon-oferta-170-euros-menos-1266016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7-sapphire-solar-2591047.jpg?tf=1200x' alt='Uno de los relojes Garmin más top es ahora 170 euros más barato, y con toda la garantía de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/podrias-no-estar-aprovechando-funcionalidad-destacada-cuenta-netflix-1266316'>Podrías no estar aprovechando la funcionalidad más destacada de tu cuenta de Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/podrias-no-estar-aprovechando-funcionalidad-destacada-cuenta-netflix-1266316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/netflix-3068302.jpg?tf=1200x' alt='Podrías no estar aprovechando la funcionalidad más destacada de tu cuenta de Netflix' />
     </a>
 </div>
 
