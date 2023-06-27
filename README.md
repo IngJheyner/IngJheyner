@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-arbol-mas-alto-asia-supera-estatua-libertad-1266550'>Descubren el árbol más alto de Asia gracias al LiDAR, supera a la Estatua de la Libertad</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-arbol-mas-alto-asia-supera-estatua-libertad-1266550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/descubren-arbol-alto-asia-supera-estatua-libertad-3068534.jpg?tf=1200x' alt='Descubren el árbol más alto de Asia gracias al LiDAR, supera a la Estatua de la Libertad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/suscripcion-meta-quest-plus-realidad-virtual-1266548'>Meta lanza la suscripción Meta Quest+, pero no es el Netflix de la realidad virtual</a></h4>
     <a href='https://computerhoy.com/tecnologia/suscripcion-meta-quest-plus-realidad-virtual-1266548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/oculus-quest-2-2072623.jpg?tf=1200x' alt='Meta lanza la suscripción Meta Quest+, pero no es el Netflix de la realidad virtual' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/7-consejos-evitar-danar-pantalla-movil-1266320'>7 consejos para evitar dañar la pantalla de tu móvil</a></h4>
     <a href='https://computerhoy.com/moviles/7-consejos-evitar-danar-pantalla-movil-1266320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pantalla-rota-3068310.jpg?tf=1200x' alt='7 consejos para evitar dañar la pantalla de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7-rebajado-precio-amazon-oferta-170-euros-menos-1266016'>Uno de los relojes Garmin más top es ahora 170 euros más barato, y con toda la garantía de Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-fenix-7-rebajado-precio-amazon-oferta-170-euros-menos-1266016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7-sapphire-solar-2591047.jpg?tf=1200x' alt='Uno de los relojes Garmin más top es ahora 170 euros más barato, y con toda la garantía de Amazon' />
     </a>
 </div>
 
