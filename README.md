@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/virgin-galactic-inicia-vuelos-turismo-espacial-29-junio-puedes-verlo-1266324'>Virgin Galactic iniciará sus vuelos comerciales al espacio el 29 de junio, así puedes verlo</a></h4>
-    <a href='https://computerhoy.com/espacio/virgin-galactic-inicia-vuelos-turismo-espacial-29-junio-puedes-verlo-1266324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/virgin-galactic-vuelve-vender-billetes-viajar-espacio-pero-ha-doblado-precio-2431413.jpg?tf=1200x' alt='Virgin Galactic iniciará sus vuelos comerciales al espacio el 29 de junio, así puedes verlo' />
+    <h4><a href='https://computerhoy.com/life/nike-chaqueta-deportiva-arogami-abre-sola-detectar-sudor-1266894'>Nike revoluciona la indumentaria deportiva con una chaqueta que se abre sola al sudar</a></h4>
+    <a href='https://computerhoy.com/life/nike-chaqueta-deportiva-arogami-abre-sola-detectar-sudor-1266894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/aerogami-jacket-nike-3069092.jpg?tf=1200x' alt='Nike revoluciona la indumentaria deportiva con una chaqueta que se abre sola al sudar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/tiktok-now-rival-bereal-cierra-puertas-menos-ano-lanzamiento-1266824'>TikTok Now, el rival de BeReal, cierra sus puertas a menos de un año de su lanzamiento</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/tiktok-now-rival-bereal-cierra-puertas-menos-ano-lanzamiento-1266824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tiktok-copia-formula-bereal-presenta-tiktok-now-funciona-2814757.jpg?tf=1200x' alt='TikTok Now, el rival de BeReal, cierra sus puertas a menos de un año de su lanzamiento' />
+    <h4><a href='https://computerhoy.com/life/peligrosos-usb-incrustados-paredes-ciudades-son-toda-biblioteca-publica-digital-1266910'>Los peligrosos USB incrustados en las paredes de las ciudades y que son toda una biblioteca pública digital</a></h4>
+    <a href='https://computerhoy.com/life/peligrosos-usb-incrustados-paredes-ciudades-son-toda-biblioteca-publica-digital-1266910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/usb-dead-drops-3069148.jpg?tf=1200x' alt='Los peligrosos USB incrustados en las paredes de las ciudades y que son toda una biblioteca pública digital' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adorable-pero-inquietante-peluches-equipados-chatgpt-podrian-leer-cuentos-ninos-1266348'>Adorable pero inquietante: peluches equipados con ChatGPT podrían leer cuentos a los niños</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adorable-pero-inquietante-peluches-equipados-chatgpt-podrian-leer-cuentos-ninos-1266348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oso-peluche-chatgpt-3068532.jpg?tf=1200x' alt='Adorable pero inquietante: peluches equipados con ChatGPT podrían leer cuentos a los niños' />
+    <h4><a href='https://computerhoy.com/life/todos-surcoreanos-tendran-manana-dos-anos-menos-1266908'>Todos los surcoreanos tendrán mañana uno o dos años menos</a></h4>
+    <a href='https://computerhoy.com/life/todos-surcoreanos-tendran-manana-dos-anos-menos-1266908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/corea-sur-3069144.jpg?tf=1200x' alt='Todos los surcoreanos tendrán mañana uno o dos años menos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/fusion-orange-masmovil-lupa-bruselas-riesgo-encarecer-mercado-1266798'>La fusión de Orange y MásMóvil bajo la lupa de Bruselas: riesgo de encarecer el mercado</a></h4>
-    <a href='https://computerhoy.com/industria/fusion-orange-masmovil-lupa-bruselas-riesgo-encarecer-mercado-1266798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/orange-movil-2637827.jpg?tf=1200x' alt='La fusión de Orange y MásMóvil bajo la lupa de Bruselas: riesgo de encarecer el mercado' />
+    <h4><a href='https://computerhoy.com/tecnologia/has-oido-hablar-ella-ahora-nueva-freidora-aire-cosori-baja-precio-menos-100-euros-1266580'>Has oído hablar de ella y ahora la nueva freidora de aire Cosori baja de precio a menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/has-oido-hablar-ella-ahora-nueva-freidora-aire-cosori-baja-precio-menos-100-euros-1266580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cosori-pro-smart-chef-edition-2810921.jpg?tf=1200x' alt='Has oído hablar de ella y ahora la nueva freidora de aire Cosori baja de precio a menos de 100 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/historias-telegram-ya-estan-aqui-llegan-competir-whatsapp-1266762'>Las historias de Telegram ya están aquí y llegan para competir con las de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/historias-telegram-ya-estan-aqui-llegan-competir-whatsapp-1266762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/historias-telegram-ya-estan-aqui-llegan-competir-whatsapp-3068820.jpg?tf=1200x' alt='Las historias de Telegram ya están aquí y llegan para competir con las de WhatsApp' />
+    <h4><a href='https://computerhoy.com/redes/twitter-ahora-permite-25000-caracteres-tuits-1266876'>Twitter ahora permite mensajes de 25.000 caracteres </a></h4>
+    <a href='https://computerhoy.com/redes/twitter-ahora-permite-25000-caracteres-tuits-1266876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/twitter-ahora-permite-mensajes-25000-caracteres-3069106.jpg?tf=1200x' alt='Twitter ahora permite mensajes de 25.000 caracteres ' />
     </a>
 </div>
 
