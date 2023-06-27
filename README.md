@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/virgin-galactic-inicia-vuelos-turismo-espacial-29-junio-puedes-verlo-1266324'>Virgin Galactic iniciará sus vuelos comerciales al espacio el 29 de junio, así puedes verlo</a></h4>
+    <a href='https://computerhoy.com/espacio/virgin-galactic-inicia-vuelos-turismo-espacial-29-junio-puedes-verlo-1266324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/virgin-galactic-vuelve-vender-billetes-viajar-espacio-pero-ha-doblado-precio-2431413.jpg?tf=1200x' alt='Virgin Galactic iniciará sus vuelos comerciales al espacio el 29 de junio, así puedes verlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/tiktok-now-rival-bereal-cierra-puertas-menos-ano-lanzamiento-1266824'>TikTok Now, el rival de BeReal, cierra sus puertas a menos de un año de su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/tiktok-now-rival-bereal-cierra-puertas-menos-ano-lanzamiento-1266824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tiktok-copia-formula-bereal-presenta-tiktok-now-funciona-2814757.jpg?tf=1200x' alt='TikTok Now, el rival de BeReal, cierra sus puertas a menos de un año de su lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/adorable-pero-inquietante-peluches-equipados-chatgpt-podrian-leer-cuentos-ninos-1266348'>Adorable pero inquietante: peluches equipados con ChatGPT podrían leer cuentos a los niños</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adorable-pero-inquietante-peluches-equipados-chatgpt-podrian-leer-cuentos-ninos-1266348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oso-peluche-chatgpt-3068532.jpg?tf=1200x' alt='Adorable pero inquietante: peluches equipados con ChatGPT podrían leer cuentos a los niños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/fusion-orange-masmovil-lupa-bruselas-riesgo-encarecer-mercado-1266798'>La fusión de Orange y MásMóvil bajo la lupa de Bruselas: riesgo de encarecer el mercado</a></h4>
+    <a href='https://computerhoy.com/industria/fusion-orange-masmovil-lupa-bruselas-riesgo-encarecer-mercado-1266798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/orange-movil-2637827.jpg?tf=1200x' alt='La fusión de Orange y MásMóvil bajo la lupa de Bruselas: riesgo de encarecer el mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/historias-telegram-ya-estan-aqui-llegan-competir-whatsapp-1266762'>Las historias de Telegram ya están aquí y llegan para competir con las de WhatsApp</a></h4>
     <a href='https://computerhoy.com/apps/historias-telegram-ya-estan-aqui-llegan-competir-whatsapp-1266762' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/historias-telegram-ya-estan-aqui-llegan-competir-whatsapp-3068820.jpg?tf=1200x' alt='Las historias de Telegram ya están aquí y llegan para competir con las de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-meta-siendo-utilizada-crear-chatbots-sexuales-realistas-1266734'>El lado oscuro de la Inteligencia Artificial: crean chatbots sexuales con la IA de Meta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-meta-siendo-utilizada-crear-chatbots-sexuales-realistas-1266734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/invertir-inteligencia-artificial-3007646.jpg?tf=1200x' alt='El lado oscuro de la Inteligencia Artificial: crean chatbots sexuales con la IA de Meta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/inteligencia-artificial-acabando-internet-conoces-ahora-1266712'>La inteligencia artificial está acabando con el Internet tal y como se conoce</a></h4>
-    <a href='https://computerhoy.com/internet/inteligencia-artificial-acabando-internet-conoces-ahora-1266712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-acabando-internet-tal-como-conoce-3068770.jpg?tf=1200x' alt='La inteligencia artificial está acabando con el Internet tal y como se conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/desarrollan-dron-resistente-fuego-podria-ser-solucion-incendios-1266706'>Desarrollan un dron resistente al fuego y que podría ser la solución a los incendios</a></h4>
-    <a href='https://computerhoy.com/ciencia/desarrollan-dron-resistente-fuego-podria-ser-solucion-incendios-1266706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/desarrollan-dron-resistente-fuego-podria-ser-solucion-incendios-3068732.jpg?tf=1200x' alt='Desarrollan un dron resistente al fuego y que podría ser la solución a los incendios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bing-vision-nueva-funcion-chatbot-microsoft-capaz-reconocer-imagenes-1266346'>Bing Vision, la nueva función del chatbot de Microsoft capaz de reconocer imágenes en segundos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bing-vision-nueva-funcion-chatbot-microsoft-capaz-reconocer-imagenes-1266346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bing-2993878.jpg?tf=1200x' alt='Bing Vision, la nueva función del chatbot de Microsoft capaz de reconocer imágenes en segundos' />
     </a>
 </div>
 
