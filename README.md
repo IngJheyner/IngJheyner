@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-arbol-mas-alto-asia-supera-estatua-libertad-1266550'>Descubren el árbol más alto de Asia gracias al LiDAR, supera a la Estatua de la Libertad</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-arbol-mas-alto-asia-supera-estatua-libertad-1266550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/descubren-arbol-alto-asia-supera-estatua-libertad-3068534.jpg?tf=1200x' alt='Descubren el árbol más alto de Asia gracias al LiDAR, supera a la Estatua de la Libertad' />
+    <h4><a href='https://computerhoy.com/tecnologia/renovarse-morir-700000-euros-ano-trabajo-como-experto-inteligencia-artificial-1266594'>Renovarse o morir: hasta 700.000 euros al año por un trabajo como experto en inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/renovarse-morir-700000-euros-ano-trabajo-como-experto-inteligencia-artificial-1266594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/renovarse-morir-700000-euros-ano-trabajo-como-experto-inteligencia-artificial-3068590.jpg?tf=1200x' alt='Renovarse o morir: hasta 700.000 euros al año por un trabajo como experto en inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/suscripcion-meta-quest-plus-realidad-virtual-1266548'>Meta lanza la suscripción Meta Quest+, pero no es el Netflix de la realidad virtual</a></h4>
-    <a href='https://computerhoy.com/tecnologia/suscripcion-meta-quest-plus-realidad-virtual-1266548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/oculus-quest-2-2072623.jpg?tf=1200x' alt='Meta lanza la suscripción Meta Quest+, pero no es el Netflix de la realidad virtual' />
+    <h4><a href='https://computerhoy.com/tecnologia/juegos-chatgpt-1266342'>Con ChatGPT también puedes jugar online: aquí 10 juegos que tienes que probar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/juegos-chatgpt-1266342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-tambien-puedes-jugar-online-aqui-10-juegos-tienes-probar-3068344.jpg?tf=1200x' alt='Con ChatGPT también puedes jugar online: aquí 10 juegos que tienes que probar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/one-piece-netflix-mas-presupuesto-juego-tronos-mandalorian-1266340'>La nueva serie de Netflix basada en un manga tiene más presupuesto que Juego de Tronos y The Mandalorian</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/one-piece-netflix-mas-presupuesto-juego-tronos-mandalorian-1266340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/one-piece-serie-imagen-real-netflix-2941502.jpg?tf=1200x' alt='La nueva serie de Netflix basada en un manga tiene más presupuesto que Juego de Tronos y The Mandalorian' />
+    <h4><a href='https://computerhoy.com/reportajes/mejores-pulseras-inteligentes-menos-30-euros-ofertas-894779'>7 pulseras inteligentes de menos de 50€ que tienen poco que envidiar a muchos relojes</a></h4>
+    <a href='https://computerhoy.com/reportajes/mejores-pulseras-inteligentes-menos-30-euros-ofertas-894779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pulsera-inteligente-smartband-3068296.jpg?tf=1200x' alt='7 pulseras inteligentes de menos de 50€ que tienen poco que envidiar a muchos relojes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/infalible-truco-eliminar-excrementos-pajaro-carroceria-coche-danar-pintura-1265172'>El infalible truco para eliminar los excrementos de pájaro de la carrocería del coche sin dañar la pintura</a></h4>
-    <a href='https://computerhoy.com/motor/infalible-truco-eliminar-excrementos-pajaro-carroceria-coche-danar-pintura-1265172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/como-caca-pajaro-artificial-puede-ayudarte-cuidar-pintura-coche-1937769.jpg?tf=1200x' alt='El infalible truco para eliminar los excrementos de pájaro de la carrocería del coche sin dañar la pintura' />
+    <h4><a href='https://computerhoy.com/life/bicicleta-sin-ruedas-funciona-1266558'>La bicicleta sin ruedas ya está aqui, ¡y funciona!</a></h4>
+    <a href='https://computerhoy.com/life/bicicleta-sin-ruedas-funciona-1266558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bicicleta-ruedas-ya-aqui-funciona-3068538.jpg?tf=1200x' alt='La bicicleta sin ruedas ya está aqui, ¡y funciona!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/7-consejos-evitar-danar-pantalla-movil-1266320'>7 consejos para evitar dañar la pantalla de tu móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/7-consejos-evitar-danar-pantalla-movil-1266320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pantalla-rota-3068310.jpg?tf=1200x' alt='7 consejos para evitar dañar la pantalla de tu móvil' />
+    <h4><a href='https://computerhoy.com/tecnologia/15-anos-salida-definitiva-bill-gates-microsoft-como-ha-cambiado-compania-tiempo-1262562'>15 años de la salida de Bill Gates de Microsoft: cómo ha cambiado la empresa en este tiempo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/15-anos-salida-definitiva-bill-gates-microsoft-como-ha-cambiado-compania-tiempo-1262562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bill-gates-15-anos-salida-microsoft-3064264.jpg?tf=1200x' alt='15 años de la salida de Bill Gates de Microsoft: cómo ha cambiado la empresa en este tiempo' />
     </a>
 </div>
 
