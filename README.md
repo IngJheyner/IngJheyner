@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/cuando-nadie-nos-ve-serie-espanola-max-1266928'>Max anuncia su primera serie, Cuando nadie nos ve, y es española</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cuando-nadie-nos-ve-serie-espanola-max-1266928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/max-anuncia-primera-serie-cuando-nadie-nos-ve-espanola-3069168.jpg?tf=1200x' alt='Max anuncia su primera serie, Cuando nadie nos ve, y es española' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/primer-medicamento-desarrollado-ia-entra-ensayos-clinicos-humanos-1266884'>El primer medicamento desarrollado por una inteligencia artificial entra en ensayos clínicos en humanos</a></h4>
+    <a href='https://computerhoy.com/ciencia/primer-medicamento-desarrollado-ia-entra-ensayos-clinicos-humanos-1266884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/farmaco-humanos-creado-ia-3069104.jpg?tf=1200x' alt='El primer medicamento desarrollado por una inteligencia artificial entra en ensayos clínicos en humanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/luz-roja-galaxias-medir-deformacion-tiempo-acabar-teorias-einstein-1266900'>La luz roja en las Galaxias podría medir la deformación del tiempo y acabar con las teorías de Einstein</a></h4>
+    <a href='https://computerhoy.com/ciencia/luz-roja-galaxias-medir-deformacion-tiempo-acabar-teorias-einstein-1266900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/luz-roja-galaxia-3069108.jpg?tf=1200x' alt='La luz roja en las Galaxias podría medir la deformación del tiempo y acabar con las teorías de Einstein' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/nike-chaqueta-deportiva-arogami-abre-sola-detectar-sudor-1266894'>Nike revoluciona la indumentaria deportiva con una chaqueta que se abre sola al sudar</a></h4>
     <a href='https://computerhoy.com/life/nike-chaqueta-deportiva-arogami-abre-sola-detectar-sudor-1266894' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/aerogami-jacket-nike-3069092.jpg?tf=1200x' alt='Nike revoluciona la indumentaria deportiva con una chaqueta que se abre sola al sudar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/peligrosos-usb-incrustados-paredes-ciudades-son-toda-biblioteca-publica-digital-1266910'>Los peligrosos USB incrustados en las paredes de las ciudades y que son toda una biblioteca pública digital</a></h4>
     <a href='https://computerhoy.com/life/peligrosos-usb-incrustados-paredes-ciudades-son-toda-biblioteca-publica-digital-1266910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/usb-dead-drops-3069148.jpg?tf=1200x' alt='Los peligrosos USB incrustados en las paredes de las ciudades y que son toda una biblioteca pública digital' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/todos-surcoreanos-tendran-manana-dos-anos-menos-1266908'>Todos los surcoreanos tendrán mañana uno o dos años menos</a></h4>
-    <a href='https://computerhoy.com/life/todos-surcoreanos-tendran-manana-dos-anos-menos-1266908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/corea-sur-3069144.jpg?tf=1200x' alt='Todos los surcoreanos tendrán mañana uno o dos años menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/has-oido-hablar-ella-ahora-nueva-freidora-aire-cosori-baja-precio-menos-100-euros-1266580'>Has oído hablar de ella y ahora la nueva freidora de aire Cosori baja de precio a menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/has-oido-hablar-ella-ahora-nueva-freidora-aire-cosori-baja-precio-menos-100-euros-1266580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cosori-pro-smart-chef-edition-2810921.jpg?tf=1200x' alt='Has oído hablar de ella y ahora la nueva freidora de aire Cosori baja de precio a menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/twitter-ahora-permite-25000-caracteres-tuits-1266876'>Twitter ahora permite mensajes de 25.000 caracteres </a></h4>
-    <a href='https://computerhoy.com/redes/twitter-ahora-permite-25000-caracteres-tuits-1266876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/twitter-ahora-permite-mensajes-25000-caracteres-3069106.jpg?tf=1200x' alt='Twitter ahora permite mensajes de 25.000 caracteres ' />
     </a>
 </div>
 
