@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/trucos-consejos-evitar-movil-caliente-verano-1267370'>Trucos y consejos para evitar que el móvil se caliente en verano</a></h4>
+    <a href='https://computerhoy.com/android/trucos-consejos-evitar-movil-caliente-verano-1267370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/como-verano-ha-transformado-temporada-peligro-algunos-cientificos-consecuencias-2736169.jpg?tf=1200x' alt='Trucos y consejos para evitar que el móvil se caliente en verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/apple-rompe-reglas-nueva-serie-publica-twitter-primer-episodio-1267352'>Apple rompe las reglas con su nueva serie: publica en Twitter el primer episodio</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/apple-rompe-reglas-nueva-serie-publica-twitter-primer-episodio-1267352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/silo-3025760.jpg?tf=1200x' alt='Apple rompe las reglas con su nueva serie: publica en Twitter el primer episodio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/ley-datos-nueva-ley-comision-europea-hacer-publicos-datos-empresas-1267310'>La Comisión Europea aprueba la Ley de Datos: las empresas tendrán que compartir sus datos con sus rivales</a></h4>
     <a href='https://computerhoy.com/industria/ley-datos-nueva-ley-comision-europea-hacer-publicos-datos-empresas-1267310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/demasiada-informacion-2836023.jpg?tf=1200x' alt='La Comisión Europea aprueba la Ley de Datos: las empresas tendrán que compartir sus datos con sus rivales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/grave-error-estas-cometiendo-freidora-aire-usa-correctamente-1267244'>El grave error que estás cometiendo con tu freidora de aire: así se usa correctamente</a></h4>
     <a href='https://computerhoy.com/hogar/grave-error-estas-cometiendo-freidora-aire-usa-correctamente-1267244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/grave-error-estas-cometiendo-freidora-aire-usa-correctamente-3069652.jpg?tf=1200x' alt='El grave error que estás cometiendo con tu freidora de aire: así se usa correctamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nokia-g42-5g-nokia-shadow-precio-caracteristicas-disponibilidad-1266740'>Nokia G42 5G o Nokia Shadow: autonomía, durabilidad y reparabilidad en un móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/nokia-g42-5g-nokia-shadow-precio-caracteristicas-disponibilidad-1266740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nokia-g42-5g-nokia-shadow-3068896.jpg?tf=1200x' alt='Nokia G42 5G o Nokia Shadow: autonomía, durabilidad y reparabilidad en un móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/todos-surcoreanos-tendran-manana-dos-anos-menos-1266908'>Todos los surcoreanos tienen desde hoy uno o dos años menos: ¿cómo es posible?</a></h4>
-    <a href='https://computerhoy.com/life/todos-surcoreanos-tendran-manana-dos-anos-menos-1266908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/corea-sur-3069144.jpg?tf=1200x' alt='Todos los surcoreanos tienen desde hoy uno o dos años menos: ¿cómo es posible?' />
     </a>
 </div>
 
