@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/todos-surcoreanos-tendran-manana-dos-anos-menos-1266908'>Todos los surcoreanos tienen desde hoy uno o dos años menos: ¿cómo es posible?</a></h4>
+    <a href='https://computerhoy.com/life/todos-surcoreanos-tendran-manana-dos-anos-menos-1266908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/corea-sur-3069144.jpg?tf=1200x' alt='Todos los surcoreanos tienen desde hoy uno o dos años menos: ¿cómo es posible?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/hace-calor-verano-pesar-sol-lejos-tierra-1267232'>El misterio del verano: ¿Por qué hace más calor si el Sol está más lejos de la Tierra?</a></h4>
+    <a href='https://computerhoy.com/ciencia/hace-calor-verano-pesar-sol-lejos-tierra-1267232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/misterio-verano-hace-calor-sol-lejos-tierra-3069616.jpg?tf=1200x' alt='El misterio del verano: ¿Por qué hace más calor si el Sol está más lejos de la Tierra?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/routers-wifi-6-oferta-amazon-ps5-1266600'>Si juegas online o tienes PS5, este router acabará con todos tus problemas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/routers-wifi-6-oferta-amazon-ps5-1266600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/d-link-dir-x1550-3068592.jpg?tf=1200x' alt='Si juegas online o tienes PS5, este router acabará con todos tus problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/haz-chatgpt-copie-estilo-escritura-estos-5-pasos-1267202'>Haz que ChatGPT copie tu estilo de escritura con estos 5 pasos</a></h4>
     <a href='https://computerhoy.com/tecnologia/haz-chatgpt-copie-estilo-escritura-estos-5-pasos-1267202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/haz-chatgpt-copie-estilo-escritura-estos-5-pasos-3069500.jpg?tf=1200x' alt='Haz que ChatGPT copie tu estilo de escritura con estos 5 pasos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-baratos-menos-20-euros-950501'>5 auriculares inalámbricos de menos de 20€ que son perfectos si quieres unos baratos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-baratos-menos-20-euros-950501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-buds-4-lite-3062728.jpg?tf=1200x' alt='5 auriculares inalámbricos de menos de 20€ que son perfectos si quieres unos baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/zancos-albanil-pintar-techo-1267168'>Estos zancos de albañil son la forma más divertida y cómoda de pintar un techo (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/zancos-albanil-pintar-techo-1267168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1687928817610-3069402.jpg?tf=1200x' alt='Estos zancos de albañil son la forma más divertida y cómoda de pintar un techo (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/pantallas-oled-ya-casi-son-mayoritarias-moviles-seran-2023-1261002'>Así lograrán las pantallas OLED ser mayoritarias en los móviles por primera vez en 2023</a></h4>
-    <a href='https://computerhoy.com/moviles/pantallas-oled-ya-casi-son-mayoritarias-moviles-seran-2023-1261002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/moviles-oled-3060262.jpg?tf=1200x' alt='Así lograrán las pantallas OLED ser mayoritarias en los móviles por primera vez en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-amazon-fire-tv-stick-lite-oferta-912227'>7 razones por el que este Amazon Fire TV Stick Lite es la mejor inversión que puedes hacer para tu TV</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/razones-amazon-fire-tv-stick-lite-oferta-912227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amazon-fire-tv-stick-4k-max-2495301.jpg?tf=1200x' alt='7 razones por el que este Amazon Fire TV Stick Lite es la mejor inversión que puedes hacer para tu TV' />
     </a>
 </div>
 
