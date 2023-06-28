@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/pompeya-fresco-precursor-pizza-1267154'>Desentierran una nueva casa en Pompeya, y desvela la pizza más antigua</a></h4>
+    <a href='https://computerhoy.com/life/pompeya-fresco-precursor-pizza-1267154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/desentierran-nueva-casa-pompeya-desvela-pizza-antigua-3069394.jpg?tf=1200x' alt='Desentierran una nueva casa en Pompeya, y desvela la pizza más antigua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/wingpt-port-chatgpt-windows-31-1266932'>Descarga gratis WinGPT, el port de ChatGPT para Windows 3.1, un sistema operativo de 1992</a></h4>
+    <a href='https://computerhoy.com/windows/wingpt-port-chatgpt-windows-31-1266932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/wingpt-port-chatgpt-windows-31-sistema-operativo-1992-3069178.jpg?tf=1200x' alt='Descarga gratis WinGPT, el port de ChatGPT para Windows 3.1, un sistema operativo de 1992' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/cuando-nadie-nos-ve-serie-espanola-max-1266928'>Max anuncia su primera serie, Cuando nadie nos ve, y es española</a></h4>
     <a href='https://computerhoy.com/entretenimiento/cuando-nadie-nos-ve-serie-espanola-max-1266928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/max-anuncia-primera-serie-cuando-nadie-nos-ve-espanola-3069168.jpg?tf=1200x' alt='Max anuncia su primera serie, Cuando nadie nos ve, y es española' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/luz-roja-galaxias-medir-deformacion-tiempo-acabar-teorias-einstein-1266900'>La luz roja en las Galaxias podría medir la deformación del tiempo y acabar con las teorías de Einstein</a></h4>
     <a href='https://computerhoy.com/ciencia/luz-roja-galaxias-medir-deformacion-tiempo-acabar-teorias-einstein-1266900' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/luz-roja-galaxia-3069108.jpg?tf=1200x' alt='La luz roja en las Galaxias podría medir la deformación del tiempo y acabar con las teorías de Einstein' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nike-chaqueta-deportiva-arogami-abre-sola-detectar-sudor-1266894'>Nike revoluciona la indumentaria deportiva con una chaqueta que se abre sola al sudar</a></h4>
-    <a href='https://computerhoy.com/life/nike-chaqueta-deportiva-arogami-abre-sola-detectar-sudor-1266894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/aerogami-jacket-nike-3069092.jpg?tf=1200x' alt='Nike revoluciona la indumentaria deportiva con una chaqueta que se abre sola al sudar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/peligrosos-usb-incrustados-paredes-ciudades-son-toda-biblioteca-publica-digital-1266910'>Los peligrosos USB incrustados en las paredes de las ciudades y que son toda una biblioteca pública digital</a></h4>
-    <a href='https://computerhoy.com/life/peligrosos-usb-incrustados-paredes-ciudades-son-toda-biblioteca-publica-digital-1266910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/usb-dead-drops-3069148.jpg?tf=1200x' alt='Los peligrosos USB incrustados en las paredes de las ciudades y que son toda una biblioteca pública digital' />
     </a>
 </div>
 
