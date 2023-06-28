@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-amazon-fire-tv-stick-lite-oferta-912227'>7 razones por el que este Amazon Fire TV Stick Lite es la mejor inversión que puedes hacer para tu TV</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/razones-amazon-fire-tv-stick-lite-oferta-912227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amazon-fire-tv-stick-4k-max-2495301.jpg?tf=1200x' alt='7 razones por el que este Amazon Fire TV Stick Lite es la mejor inversión que puedes hacer para tu TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/pompeya-fresco-precursor-pizza-1267154'>Desentierran una nueva casa en Pompeya, y desvela la pizza más antigua</a></h4>
     <a href='https://computerhoy.com/life/pompeya-fresco-precursor-pizza-1267154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/desentierran-nueva-casa-pompeya-desvela-pizza-antigua-3069394.jpg?tf=1200x' alt='Desentierran una nueva casa en Pompeya, y desvela la pizza más antigua' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/primer-medicamento-desarrollado-ia-entra-ensayos-clinicos-humanos-1266884'>El primer medicamento desarrollado por una inteligencia artificial entra en ensayos clínicos en humanos</a></h4>
     <a href='https://computerhoy.com/ciencia/primer-medicamento-desarrollado-ia-entra-ensayos-clinicos-humanos-1266884' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/farmaco-humanos-creado-ia-3069104.jpg?tf=1200x' alt='El primer medicamento desarrollado por una inteligencia artificial entra en ensayos clínicos en humanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/luz-roja-galaxias-medir-deformacion-tiempo-acabar-teorias-einstein-1266900'>La luz roja en las Galaxias podría medir la deformación del tiempo y acabar con las teorías de Einstein</a></h4>
-    <a href='https://computerhoy.com/ciencia/luz-roja-galaxias-medir-deformacion-tiempo-acabar-teorias-einstein-1266900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/luz-roja-galaxia-3069108.jpg?tf=1200x' alt='La luz roja en las Galaxias podría medir la deformación del tiempo y acabar con las teorías de Einstein' />
     </a>
 </div>
 
