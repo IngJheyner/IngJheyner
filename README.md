@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/codigos-secretos-optimizar-waze-1267470'>Códigos secretos para optimizar Waze, la popular aplicación para conducir</a></h4>
+    <a href='https://computerhoy.com/motor/codigos-secretos-optimizar-waze-1267470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/waze-3070258.jpg?tf=1200x' alt='Códigos secretos para optimizar Waze, la popular aplicación para conducir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/medico-de-familia-netflix-1267484'>Netflix recupera una mítica serie española de los noventa que estaba desaparecida</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/medico-de-familia-netflix-1267484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/netflix-recupera-mitica-serie-espanola-noventa-estaba-desaparecida-3070264.jpg?tf=1200x' alt='Netflix recupera una mítica serie española de los noventa que estaba desaparecida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/presentan-primer-motor-mundo-coches-impulsado-amoniaco-1267474'>Presentan el primer motor del mundo para coches impulsado por amoníaco</a></h4>
     <a href='https://computerhoy.com/motor/presentan-primer-motor-mundo-coches-impulsado-amoniaco-1267474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/motor-coche-3070262.jpg?tf=1200x' alt='Presentan el primer motor del mundo para coches impulsado por amoníaco' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/huawei-freebuds-pro-2-oferta-alternativa-airpods-pro-1266620'>Nada que envidiar a los AirPods Pro y un diseño original como pocos: estos auriculares de Huawei son sorprendentemente baratos</a></h4>
     <a href='https://computerhoy.com/tecnologia/huawei-freebuds-pro-2-oferta-alternativa-airpods-pro-1266620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754911.jpg?tf=1200x' alt='Nada que envidiar a los AirPods Pro y un diseño original como pocos: estos auriculares de Huawei son sorprendentemente baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/actividad-solar-alcanzara-maximo-2023-1267454'>Las tormetas solares alcanzarán su máximo a finales de año: problemas para satélites y redes de comunicación en la Tierra</a></h4>
-    <a href='https://computerhoy.com/ciencia/actividad-solar-alcanzara-maximo-2023-1267454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tormentas-solares-3070236.jpg?tf=1200x' alt='Las tormetas solares alcanzarán su máximo a finales de año: problemas para satélites y redes de comunicación en la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/matematicos-descubren-noveno-numero-dedekind-despues-32-anos-1267438'>Los matemáticos descubren el noveno número de Dedekind, tras 32 años de búsqueda, gracias a un superordenador</a></h4>
-    <a href='https://computerhoy.com/ciencia/matematicos-descubren-noveno-numero-dedekind-despues-32-anos-1267438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/matematicos-descubren-noveno-numero-dedekind-32-anos-busqueda-gracias-superordenador-3070240.jpg?tf=1200x' alt='Los matemáticos descubren el noveno número de Dedekind, tras 32 años de búsqueda, gracias a un superordenador' />
     </a>
 </div>
 
