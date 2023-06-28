@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-baratos-menos-20-euros-950501'>5 auriculares inalámbricos de menos de 20€ que son perfectos si quieres unos baratos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-baratos-menos-20-euros-950501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/redmi-buds-3-lite-2946754.jpg?tf=1200x' alt='5 auriculares inalámbricos de menos de 20€ que son perfectos si quieres unos baratos' />
+    <h4><a href='https://computerhoy.com/motor/presentan-primer-motor-mundo-coches-impulsado-amoniaco-1267474'>Presentan el primer motor del mundo para coches impulsado por amoníaco</a></h4>
+    <a href='https://computerhoy.com/motor/presentan-primer-motor-mundo-coches-impulsado-amoniaco-1267474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/motor-coche-3070262.jpg?tf=1200x' alt='Presentan el primer motor del mundo para coches impulsado por amoníaco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015'>Estas son las mejores consolas portátiles que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steam-deck-2977066.jpg?tf=1200x' alt='Estas son las mejores consolas portátiles que puedes comprar' />
+    <h4><a href='https://computerhoy.com/life/limpiador-destruye-accidentalmente-decadas-investigacion-apagar-congelador-1267472'>Un limpiador destruye accidentalmente décadas de investigación al apagar un congelador</a></h4>
+    <a href='https://computerhoy.com/life/limpiador-destruye-accidentalmente-decadas-investigacion-apagar-congelador-1267472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/laboratorio-3070260.jpg?tf=1200x' alt='Un limpiador destruye accidentalmente décadas de investigación al apagar un congelador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/trucos-consejos-evitar-movil-caliente-verano-1267370'>Trucos y consejos para evitar que el móvil se caliente en verano</a></h4>
-    <a href='https://computerhoy.com/android/trucos-consejos-evitar-movil-caliente-verano-1267370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/como-verano-ha-transformado-temporada-peligro-algunos-cientificos-consecuencias-2736169.jpg?tf=1200x' alt='Trucos y consejos para evitar que el móvil se caliente en verano' />
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-freebuds-pro-2-oferta-alternativa-airpods-pro-1266620'>Nada que envidiar a los AirPods Pro y un diseño original como pocos: estos auriculares de Huawei son sorprendentemente baratos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-freebuds-pro-2-oferta-alternativa-airpods-pro-1266620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754911.jpg?tf=1200x' alt='Nada que envidiar a los AirPods Pro y un diseño original como pocos: estos auriculares de Huawei son sorprendentemente baratos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/apple-rompe-reglas-nueva-serie-publica-twitter-primer-episodio-1267352'>Apple rompe las reglas con su nueva serie: publica en Twitter el primer episodio</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/apple-rompe-reglas-nueva-serie-publica-twitter-primer-episodio-1267352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/silo-3025760.jpg?tf=1200x' alt='Apple rompe las reglas con su nueva serie: publica en Twitter el primer episodio' />
+    <h4><a href='https://computerhoy.com/ciencia/actividad-solar-alcanzara-maximo-2023-1267454'>Las tormetas solares alcanzarán su máximo a finales de año: problemas para satélites y redes de comunicación en la Tierra</a></h4>
+    <a href='https://computerhoy.com/ciencia/actividad-solar-alcanzara-maximo-2023-1267454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tormentas-solares-3070236.jpg?tf=1200x' alt='Las tormetas solares alcanzarán su máximo a finales de año: problemas para satélites y redes de comunicación en la Tierra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/ley-datos-nueva-ley-comision-europea-hacer-publicos-datos-empresas-1267310'>La Comisión Europea aprueba la Ley de Datos: las empresas tendrán que compartir sus datos con sus rivales</a></h4>
-    <a href='https://computerhoy.com/industria/ley-datos-nueva-ley-comision-europea-hacer-publicos-datos-empresas-1267310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/demasiada-informacion-2836023.jpg?tf=1200x' alt='La Comisión Europea aprueba la Ley de Datos: las empresas tendrán que compartir sus datos con sus rivales' />
+    <h4><a href='https://computerhoy.com/ciencia/matematicos-descubren-noveno-numero-dedekind-despues-32-anos-1267438'>Los matemáticos descubren el noveno número de Dedekind, tras 32 años de búsqueda, gracias a un superordenador</a></h4>
+    <a href='https://computerhoy.com/ciencia/matematicos-descubren-noveno-numero-dedekind-despues-32-anos-1267438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/matematicos-descubren-noveno-numero-dedekind-32-anos-busqueda-gracias-superordenador-3070240.jpg?tf=1200x' alt='Los matemáticos descubren el noveno número de Dedekind, tras 32 años de búsqueda, gracias a un superordenador' />
     </a>
 </div>
 
