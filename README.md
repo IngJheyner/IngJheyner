@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/haz-chatgpt-copie-estilo-escritura-estos-5-pasos-1267202'>Haz que ChatGPT copie tu estilo de escritura con estos 5 pasos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/haz-chatgpt-copie-estilo-escritura-estos-5-pasos-1267202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/haz-chatgpt-copie-estilo-escritura-estos-5-pasos-3069500.jpg?tf=1200x' alt='Haz que ChatGPT copie tu estilo de escritura con estos 5 pasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-baratos-menos-20-euros-950501'>5 auriculares inalámbricos de menos de 20€ que son perfectos si quieres unos baratos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-baratos-menos-20-euros-950501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-buds-4-lite-3062728.jpg?tf=1200x' alt='5 auriculares inalámbricos de menos de 20€ que son perfectos si quieres unos baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/zancos-albanil-pintar-techo-1267168'>Estos zancos de albañil son la forma más divertida y cómoda de pintar un techo (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/zancos-albanil-pintar-techo-1267168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1687928817610-3069402.jpg?tf=1200x' alt='Estos zancos de albañil son la forma más divertida y cómoda de pintar un techo (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/pantallas-oled-ya-casi-son-mayoritarias-moviles-seran-2023-1261002'>Así lograrán las pantallas OLED ser mayoritarias en los móviles por primera vez en 2023</a></h4>
+    <a href='https://computerhoy.com/moviles/pantallas-oled-ya-casi-son-mayoritarias-moviles-seran-2023-1261002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/moviles-oled-3060262.jpg?tf=1200x' alt='Así lograrán las pantallas OLED ser mayoritarias en los móviles por primera vez en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/razones-amazon-fire-tv-stick-lite-oferta-912227'>7 razones por el que este Amazon Fire TV Stick Lite es la mejor inversión que puedes hacer para tu TV</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/razones-amazon-fire-tv-stick-lite-oferta-912227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/amazon-fire-tv-stick-4k-max-2495301.jpg?tf=1200x' alt='7 razones por el que este Amazon Fire TV Stick Lite es la mejor inversión que puedes hacer para tu TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pompeya-fresco-precursor-pizza-1267154'>Desentierran una nueva casa en Pompeya, y desvela la pizza más antigua</a></h4>
-    <a href='https://computerhoy.com/life/pompeya-fresco-precursor-pizza-1267154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/desentierran-nueva-casa-pompeya-desvela-pizza-antigua-3069394.jpg?tf=1200x' alt='Desentierran una nueva casa en Pompeya, y desvela la pizza más antigua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/wingpt-port-chatgpt-windows-31-1266932'>Descarga gratis WinGPT, el port de ChatGPT para Windows 3.1, un sistema operativo de 1992</a></h4>
-    <a href='https://computerhoy.com/windows/wingpt-port-chatgpt-windows-31-1266932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/wingpt-port-chatgpt-windows-31-sistema-operativo-1992-3069178.jpg?tf=1200x' alt='Descarga gratis WinGPT, el port de ChatGPT para Windows 3.1, un sistema operativo de 1992' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cuando-nadie-nos-ve-serie-espanola-max-1266928'>Max anuncia su primera serie, Cuando nadie nos ve, y es española</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cuando-nadie-nos-ve-serie-espanola-max-1266928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/max-anuncia-primera-serie-cuando-nadie-nos-ve-espanola-3069168.jpg?tf=1200x' alt='Max anuncia su primera serie, Cuando nadie nos ve, y es española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/primer-medicamento-desarrollado-ia-entra-ensayos-clinicos-humanos-1266884'>El primer medicamento desarrollado por una inteligencia artificial entra en ensayos clínicos en humanos</a></h4>
-    <a href='https://computerhoy.com/ciencia/primer-medicamento-desarrollado-ia-entra-ensayos-clinicos-humanos-1266884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/farmaco-humanos-creado-ia-3069104.jpg?tf=1200x' alt='El primer medicamento desarrollado por una inteligencia artificial entra en ensayos clínicos en humanos' />
     </a>
 </div>
 
