@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/ley-datos-nueva-ley-comision-europea-hacer-publicos-datos-empresas-1267310'>La Comisión Europea aprueba la Ley de Datos: las empresas tendrán que compartir sus datos con sus rivales</a></h4>
+    <a href='https://computerhoy.com/industria/ley-datos-nueva-ley-comision-europea-hacer-publicos-datos-empresas-1267310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/demasiada-informacion-2836023.jpg?tf=1200x' alt='La Comisión Europea aprueba la Ley de Datos: las empresas tendrán que compartir sus datos con sus rivales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-instalar-smarttubenext-android-tv-ver-youtube-publicidad-1267264'>SmartTubeNext es un cliente de YouTube para Android TV que elimina la publicidad por completo</a></h4>
+    <a href='https://computerhoy.com/apps/como-instalar-smarttubenext-android-tv-ver-youtube-publicidad-1267264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/smarttubenext-cliente-youtube-android-tv-elimina-publicidad-completo-3069596.jpg?tf=1200x' alt='SmartTubeNext es un cliente de YouTube para Android TV que elimina la publicidad por completo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/grave-error-estas-cometiendo-freidora-aire-usa-correctamente-1267244'>El grave error que estás cometiendo con tu freidora de aire: así se usa correctamente</a></h4>
     <a href='https://computerhoy.com/hogar/grave-error-estas-cometiendo-freidora-aire-usa-correctamente-1267244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/grave-error-estas-cometiendo-freidora-aire-usa-correctamente-3069652.jpg?tf=1200x' alt='El grave error que estás cometiendo con tu freidora de aire: así se usa correctamente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/todos-surcoreanos-tendran-manana-dos-anos-menos-1266908'>Todos los surcoreanos tienen desde hoy uno o dos años menos: ¿cómo es posible?</a></h4>
     <a href='https://computerhoy.com/life/todos-surcoreanos-tendran-manana-dos-anos-menos-1266908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/corea-sur-3069144.jpg?tf=1200x' alt='Todos los surcoreanos tienen desde hoy uno o dos años menos: ¿cómo es posible?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/hace-calor-verano-pesar-sol-lejos-tierra-1267232'>El misterio del verano: ¿Por qué hace más calor si el Sol está más lejos de la Tierra?</a></h4>
-    <a href='https://computerhoy.com/ciencia/hace-calor-verano-pesar-sol-lejos-tierra-1267232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/misterio-verano-hace-calor-sol-lejos-tierra-3069616.jpg?tf=1200x' alt='El misterio del verano: ¿Por qué hace más calor si el Sol está más lejos de la Tierra?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/routers-wifi-6-oferta-amazon-ps5-1266600'>Si juegas online o tienes PS5, este router acabará con todos tus problemas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/routers-wifi-6-oferta-amazon-ps5-1266600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/d-link-dir-x1550-3068592.jpg?tf=1200x' alt='Si juegas online o tienes PS5, este router acabará con todos tus problemas' />
     </a>
 </div>
 
