@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/funcion-check-ios-17-como-funciona-iphone-1267464'>Qué es la función Check In en iOS 17 y cómo funciona en el iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/funcion-check-ios-17-como-funciona-iphone-1267464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apps-google-iphone-14-pro-max-2866431.jpg?tf=1200x' alt='Qué es la función Check In en iOS 17 y cómo funciona en el iPhone' />
+    <h4><a href='https://computerhoy.com/tecnologia/mac-mini-m2-pro-rebajado-amazon-1267804'>Casi 200 euros más barato el Mac Mini con M2 Pro, una auténtica bestia para la productividad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mac-mini-m2-pro-rebajado-amazon-1267804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-pro-2936082.jpg?tf=1200x' alt='Casi 200 euros más barato el Mac Mini con M2 Pro, una auténtica bestia para la productividad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/clones-chinos-airpods-max-baratos-1265104'>Clones chinos de los AirPods Max que son mucho más baratos</a></h4>
-    <a href='https://computerhoy.com/mejores/clones-chinos-airpods-max-baratos-1265104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/airpods-max-2446053.jpg?tf=1200x' alt='Clones chinos de los AirPods Max que son mucho más baratos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/lado-oscuro-autenticacion-voz-puede-vulnerar-6-intentos-afirma-estudio-1267818'>El lado oscuro de la autenticación por voz: se puede vulnerar en 6 intentos, afirma un estudio</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/lado-oscuro-autenticacion-voz-puede-vulnerar-6-intentos-afirma-estudio-1267818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tienes-grabacion-voz-internet-borrala-inmediatamente-2975518.jpg?tf=1200x' alt='El lado oscuro de la autenticación por voz: se puede vulnerar en 6 intentos, afirma un estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/25-aniversario-computer-hoy-iphone-como-original-diseno-sigue-siendo-base-telefonos-actuales-15-anos-despues-1237598'>25 aniversario Computer Hoy: el iPhone, cómo un original diseño sigue siendo la base de los móviles actuales más de 15 años después</a></h4>
-    <a href='https://computerhoy.com/apple/25-aniversario-computer-hoy-iphone-como-original-diseno-sigue-siendo-base-telefonos-actuales-15-anos-despues-1237598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/steve-jobs-historia-iphone-3064292.jpg?tf=1200x' alt='25 aniversario Computer Hoy: el iPhone, cómo un original diseño sigue siendo la base de los móviles actuales más de 15 años después' />
+    <h4><a href='https://computerhoy.com/tecnologia/estudio-revela-preocupante-capacidad-ia-propagacion-noticias-falsas-1267756'>Un estudio revela la preocupante capacidad de la IA para la propagación de noticias falsas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estudio-revela-preocupante-capacidad-ia-propagacion-noticias-falsas-1267756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estudio-revela-preocupante-impacto-ia-propagacion-desinformacion-3070584.jpg?tf=1200x' alt='Un estudio revela la preocupante capacidad de la IA para la propagación de noticias falsas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/aparcar-madrid-aire-acondicionado-multa-1267710'>Aunque estemos a 40 grados, si pones el aire acondicionado mientras estás aparcado, podrías recibir una multa</a></h4>
-    <a href='https://computerhoy.com/motor/aparcar-madrid-aire-acondicionado-multa-1267710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/aunque-estemos-40-grados-pones-aire-acondicionado-mientras-estas-aparcado-recibiras-multa-3070492.jpg?tf=1200x' alt='Aunque estemos a 40 grados, si pones el aire acondicionado mientras estás aparcado, podrías recibir una multa' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-sigue-ejemplo-lidl-tiene-electrodomestico-marca-blanca-vendidos-1267724'>Amazon sigue el ejemplo de Lidl y tiene un electrodoméstico marca blanca de los más vendidos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-sigue-ejemplo-lidl-tiene-electrodomestico-marca-blanca-vendidos-1267724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/purificador-aire-amazon-basics-3070516.jpg?tf=1200x' alt='Amazon sigue el ejemplo de Lidl y tiene un electrodoméstico marca blanca de los más vendidos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-xiaomi-12-lite-2835837.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Xiaomi' />
+    <h4><a href='https://computerhoy.com/hogar/llega-fin-spam-telefonico-cuales-son-medidas-pueden-seguir-llamandote-1267742'>Llega el fin al spam telefónico: cuáles son las medidas y por qué pueden seguir llamándote</a></h4>
+    <a href='https://computerhoy.com/hogar/llega-fin-spam-telefonico-cuales-son-medidas-pueden-seguir-llamandote-1267742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/llega-fin-spam-telefonico-cuales-son-medidas-pueden-seguir-llamandote-3070560.jpg?tf=1200x' alt='Llega el fin al spam telefónico: cuáles son las medidas y por qué pueden seguir llamándote' />
     </a>
 </div>
 
