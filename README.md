@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-series-peliculas-movistar-plus-plus-julio-1268040'>Estrenos de series y películas de Movistar Plus+ en julio: la última del Gato con botas, la serie de Raúl  Cimas, y más</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estrenos-series-peliculas-movistar-plus-plus-julio-1268040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estrenos-series-peliculas-movistar-plus-julio-ultima-gato-botas-serie-raul-cimas-3071180.jpg?tf=1200x' alt='Estrenos de series y películas de Movistar Plus+ en julio: la última del Gato con botas, la serie de Raúl  Cimas, y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ya-puedes-probar-copiloto-windows-11-inteligencia-artificial-chatgpt-1268034'>ChatGPT llega a Windows: ya puedes probar el Copiloto de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/ya-puedes-probar-copiloto-windows-11-inteligencia-artificial-chatgpt-1268034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-llega-windows-ya-puedes-probar-copiloto-windows-11-3071192.jpg?tf=1200x' alt='ChatGPT llega a Windows: ya puedes probar el Copiloto de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/4-senales-te-estan-espiando-traves-camara-movil-1268008'>4 claras señales de que te están espiando a través de la cámara de tu móvil y dos son muy comunes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/4-senales-te-estan-espiando-traves-camara-movil-1268008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/espiar-camara-movil-3071176.jpg?tf=1200x' alt='4 claras señales de que te están espiando a través de la cámara de tu móvil y dos son muy comunes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/moviles-menos-300-euros-primavera-1228658'>Mejores móviles por menos de 300€ que puedes compra</a></h4>
+    <a href='https://computerhoy.com/mejores/moviles-menos-300-euros-primavera-1228658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2947944.jpg?tf=1200x' alt='Mejores móviles por menos de 300€ que puedes compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/truco-util-aumentar-vida-bateria-iphone-1268016'>Este truco para la batería de tu iPhone te salvará la vida</a></h4>
     <a href='https://computerhoy.com/apple/truco-util-aumentar-vida-bateria-iphone-1268016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bateria-iphone-2350515.jpg?tf=1200x' alt='Este truco para la batería de tu iPhone te salvará la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/peligros-usar-aire-acondicionado-mientras-duermes-1267956'>Los peligros para la salud de dormir con el aire acondicionado encendido toda la noche</a></h4>
-    <a href='https://computerhoy.com/life/peligros-usar-aire-acondicionado-mientras-duermes-1267956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/aire-acondicionado-1996453.jpg?tf=1200x' alt='Los peligros para la salud de dormir con el aire acondicionado encendido toda la noche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/chatgpt-consejos-manejar-estres-1267988'>ChatGPT no tiene límites: así es como la IA puede ayudarte a manejar el estrés</a></h4>
-    <a href='https://computerhoy.com/life/chatgpt-consejos-manejar-estres-1267988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-estres-3071108.jpg?tf=1200x' alt='ChatGPT no tiene límites: así es como la IA puede ayudarte a manejar el estrés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/util-funcionalidad-ha-desaparecido-previo-aviso-google-maps-android-auto-1268022'>La útil funcionalidad que ha desaparecido sin previo aviso de Google Maps en Android Auto</a></h4>
-    <a href='https://computerhoy.com/apps/util-funcionalidad-ha-desaparecido-previo-aviso-google-maps-android-auto-1268022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922222.jpg?tf=1200x' alt='La útil funcionalidad que ha desaparecido sin previo aviso de Google Maps en Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-forerunner-45s-reloj-running-barato-oferta-1266056'>Chollo para runners: uno de los relojes Garmin más baratos ahora está rebajado aún más de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-forerunner-45s-reloj-running-barato-oferta-1266056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/garmin-forerunner-45s-3067668.jpg?tf=1200x' alt='Chollo para runners: uno de los relojes Garmin más baratos ahora está rebajado aún más de precio' />
     </a>
 </div>
 
