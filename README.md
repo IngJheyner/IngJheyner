@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nasa-alerta-muerte-donana-agricultura-turismo-1267496'>La NASA alerta sobre la muerte de Doñana por la agricultura y el turismo</a></h4>
+    <a href='https://computerhoy.com/ciencia/nasa-alerta-muerte-donana-agricultura-turismo-1267496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nasa-alerta-muerte-donana-agricultura-turismo-3070294.jpg?tf=1200x' alt='La NASA alerta sobre la muerte de Doñana por la agricultura y el turismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/pixel-fold-problemas-pantallas-rotas-marcadas-1267492'>El móvil plegable Pixel Fold lleva un día a la venta, y ya hay devoluciones por pantallas rotas y marcadas</a></h4>
+    <a href='https://computerhoy.com/google/pixel-fold-problemas-pantallas-rotas-marcadas-1267492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-fold-3030360.jpg?tf=1200x' alt='El móvil plegable Pixel Fold lleva un día a la venta, y ya hay devoluciones por pantallas rotas y marcadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/codigos-secretos-optimizar-waze-1267470'>Códigos secretos para optimizar Waze, la popular aplicación para conducir</a></h4>
     <a href='https://computerhoy.com/motor/codigos-secretos-optimizar-waze-1267470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/waze-3070258.jpg?tf=1200x' alt='Códigos secretos para optimizar Waze, la popular aplicación para conducir' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/presentan-primer-motor-mundo-coches-impulsado-amoniaco-1267474'>Presentan el primer motor del mundo para coches impulsado por amoníaco</a></h4>
     <a href='https://computerhoy.com/motor/presentan-primer-motor-mundo-coches-impulsado-amoniaco-1267474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/motor-coche-3070262.jpg?tf=1200x' alt='Presentan el primer motor del mundo para coches impulsado por amoníaco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/limpiador-destruye-accidentalmente-decadas-investigacion-apagar-congelador-1267472'>Un limpiador destruye accidentalmente décadas de investigación al apagar un congelador</a></h4>
-    <a href='https://computerhoy.com/life/limpiador-destruye-accidentalmente-decadas-investigacion-apagar-congelador-1267472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/laboratorio-3070260.jpg?tf=1200x' alt='Un limpiador destruye accidentalmente décadas de investigación al apagar un congelador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-freebuds-pro-2-oferta-alternativa-airpods-pro-1266620'>Nada que envidiar a los AirPods Pro y un diseño original como pocos: estos auriculares de Huawei son sorprendentemente baratos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-freebuds-pro-2-oferta-alternativa-airpods-pro-1266620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-freebuds-pro-2-analisis-opinion-2754911.jpg?tf=1200x' alt='Nada que envidiar a los AirPods Pro y un diseño original como pocos: estos auriculares de Huawei son sorprendentemente baratos' />
     </a>
 </div>
 
