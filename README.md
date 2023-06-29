@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-xiaomi-12-lite-2835837.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/nasa-alerta-muerte-donana-agricultura-turismo-1267496'>La NASA alerta sobre la muerte de Doñana por la agricultura y el turismo</a></h4>
     <a href='https://computerhoy.com/ciencia/nasa-alerta-muerte-donana-agricultura-turismo-1267496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nasa-alerta-muerte-donana-agricultura-turismo-3070294.jpg?tf=1200x' alt='La NASA alerta sobre la muerte de Doñana por la agricultura y el turismo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/medico-de-familia-netflix-1267484'>Netflix recupera una mítica serie española de los noventa que estaba desaparecida</a></h4>
     <a href='https://computerhoy.com/entretenimiento/medico-de-familia-netflix-1267484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/netflix-recupera-mitica-serie-espanola-noventa-estaba-desaparecida-3070264.jpg?tf=1200x' alt='Netflix recupera una mítica serie española de los noventa que estaba desaparecida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/presentan-primer-motor-mundo-coches-impulsado-amoniaco-1267474'>Presentan el primer motor del mundo para coches impulsado por amoníaco</a></h4>
-    <a href='https://computerhoy.com/motor/presentan-primer-motor-mundo-coches-impulsado-amoniaco-1267474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/motor-coche-3070262.jpg?tf=1200x' alt='Presentan el primer motor del mundo para coches impulsado por amoníaco' />
     </a>
 </div>
 
