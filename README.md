@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/funcion-check-ios-17-como-funciona-iphone-1267464'>Qué es la función Check In en iOS 17 y cómo funciona en el iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/funcion-check-ios-17-como-funciona-iphone-1267464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/apps-google-iphone-14-pro-max-2866431.jpg?tf=1200x' alt='Qué es la función Check In en iOS 17 y cómo funciona en el iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/clones-chinos-airpods-max-baratos-1265104'>Clones chinos de los AirPods Max que son mucho más baratos</a></h4>
+    <a href='https://computerhoy.com/mejores/clones-chinos-airpods-max-baratos-1265104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/airpods-max-2446053.jpg?tf=1200x' alt='Clones chinos de los AirPods Max que son mucho más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/25-aniversario-computer-hoy-iphone-como-original-diseno-sigue-siendo-base-telefonos-actuales-15-anos-despues-1237598'>25 aniversario Computer Hoy: el iPhone, cómo un original diseño sigue siendo la base de los móviles actuales más de 15 años después</a></h4>
+    <a href='https://computerhoy.com/apple/25-aniversario-computer-hoy-iphone-como-original-diseno-sigue-siendo-base-telefonos-actuales-15-anos-despues-1237598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/steve-jobs-historia-iphone-3064292.jpg?tf=1200x' alt='25 aniversario Computer Hoy: el iPhone, cómo un original diseño sigue siendo la base de los móviles actuales más de 15 años después' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/aparcar-madrid-aire-acondicionado-multa-1267710'>Aunque estemos a 40 grados, si pones el aire acondicionado mientras estás aparcado, podrías recibir una multa</a></h4>
+    <a href='https://computerhoy.com/motor/aparcar-madrid-aire-acondicionado-multa-1267710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/aunque-estemos-40-grados-pones-aire-acondicionado-mientras-estas-aparcado-recibiras-multa-3070492.jpg?tf=1200x' alt='Aunque estemos a 40 grados, si pones el aire acondicionado mientras estás aparcado, podrías recibir una multa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/analisis-xiaomi-12-lite-2835837.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nasa-alerta-muerte-donana-agricultura-turismo-1267496'>La NASA alerta sobre la muerte de Doñana por la agricultura y el turismo</a></h4>
-    <a href='https://computerhoy.com/ciencia/nasa-alerta-muerte-donana-agricultura-turismo-1267496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nasa-alerta-muerte-donana-agricultura-turismo-3070294.jpg?tf=1200x' alt='La NASA alerta sobre la muerte de Doñana por la agricultura y el turismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/pixel-fold-problemas-pantallas-rotas-marcadas-1267492'>El móvil plegable Pixel Fold lleva un día a la venta, y ya hay devoluciones por pantallas rotas y marcadas</a></h4>
-    <a href='https://computerhoy.com/google/pixel-fold-problemas-pantallas-rotas-marcadas-1267492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-fold-3030360.jpg?tf=1200x' alt='El móvil plegable Pixel Fold lleva un día a la venta, y ya hay devoluciones por pantallas rotas y marcadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/codigos-secretos-optimizar-waze-1267470'>Códigos secretos para optimizar Waze, la popular aplicación para conducir</a></h4>
-    <a href='https://computerhoy.com/motor/codigos-secretos-optimizar-waze-1267470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/waze-3070258.jpg?tf=1200x' alt='Códigos secretos para optimizar Waze, la popular aplicación para conducir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/medico-de-familia-netflix-1267484'>Netflix recupera una mítica serie española de los noventa que estaba desaparecida</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/medico-de-familia-netflix-1267484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/netflix-recupera-mitica-serie-espanola-noventa-estaba-desaparecida-3070264.jpg?tf=1200x' alt='Netflix recupera una mítica serie española de los noventa que estaba desaparecida' />
     </a>
 </div>
 
