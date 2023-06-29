@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/operacion-salida-mejores-peores-horas-conducir-verano-1267920'>Operación salida: estas son las mejores y peores horas para salir de viaje este verano</a></h4>
+    <a href='https://computerhoy.com/life/operacion-salida-mejores-peores-horas-conducir-verano-1267920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/operacion-salida-3070952.jpg?tf=1200x' alt='Operación salida: estas son las mejores y peores horas para salir de viaje este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/estos-son-dos-lugares-donde-nunca-deberias-colocar-router-wifi-casa-1267926'>El Triángulo de la Bermudas del WiFi: dos lugares donde nunca deberías colocar el router WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/estos-son-dos-lugares-donde-nunca-deberias-colocar-router-wifi-casa-1267926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-wifi-3045536.jpg?tf=1200x' alt='El Triángulo de la Bermudas del WiFi: dos lugares donde nunca deberías colocar el router WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/playground-alternativa-gratis-photoshop-ia-integrada-1267868'>Playground, la alternativa gratis a Photoshop con IA integrada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/playground-alternativa-gratis-photoshop-ia-integrada-1267868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/playground-alternativa-gratis-photoshop-ia-integrada-3070928.jpg?tf=1200x' alt='Playground, la alternativa gratis a Photoshop con IA integrada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/nuevo-aviso-youtube-usuarios-usan-bloqueadores-anuncios-1267884'>Así es el nuevo aviso de YouTube para los usuarios que usan bloqueadores de anuncios</a></h4>
     <a href='https://computerhoy.com/google/nuevo-aviso-youtube-usuarios-usan-bloqueadores-anuncios-1267884' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/youtube-tv-2928346.jpg?tf=1200x' alt='Así es el nuevo aviso de YouTube para los usuarios que usan bloqueadores de anuncios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/pedofilos-estan-usando-inteligencia-artificial-generar-vender-pornografia-infantil-1267848'>Los pedófilos están usando Inteligencia Artificial para generar y vender pornografía infantil</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/pedofilos-estan-usando-inteligencia-artificial-generar-vender-pornografia-infantil-1267848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/robot-inteligencia-artificial-3018742.jpg?tf=1200x' alt='Los pedófilos están usando Inteligencia Artificial para generar y vender pornografía infantil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/lista-robinson-todos-pasos-apuntarse-evitar-publicidad-no-deseada-1211138'>Cómo apuntarse a la Lista Robinson para evitar el spam telefónico y las llamadas no deseadas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/lista-robinson-todos-pasos-apuntarse-evitar-publicidad-no-deseada-1211138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/hombre-enfadado-chillandole-movil-2977008.jpg?tf=1200x' alt='Cómo apuntarse a la Lista Robinson para evitar el spam telefónico y las llamadas no deseadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/runtime-nueva-plataforma-online-ver-series-peliculas-gratis-registro-1267844'>Runtime, la nueva plataforma online para ver series y películas gratis y sin registro</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/runtime-nueva-plataforma-online-ver-series-peliculas-gratis-registro-1267844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/runtime-nueva-plataforma-online-ver-series-peliculas-gratis-registro-3070804.jpg?tf=1200x' alt='Runtime, la nueva plataforma online para ver series y películas gratis y sin registro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mac-mini-m2-pro-rebajado-amazon-1267804'>Casi 200 euros más barato el Mac Mini con M2 Pro, una auténtica bestia para la productividad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mac-mini-m2-pro-rebajado-amazon-1267804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-pro-2936082.jpg?tf=1200x' alt='Casi 200 euros más barato el Mac Mini con M2 Pro, una auténtica bestia para la productividad' />
     </a>
 </div>
 
