@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/operacion-salida-mejores-peores-horas-conducir-verano-1267920'>Operación salida: estas son las mejores y peores horas para salir de viaje este verano</a></h4>
-    <a href='https://computerhoy.com/life/operacion-salida-mejores-peores-horas-conducir-verano-1267920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/operacion-salida-3070952.jpg?tf=1200x' alt='Operación salida: estas son las mejores y peores horas para salir de viaje este verano' />
+    <h4><a href='https://computerhoy.com/apple/truco-util-aumentar-vida-bateria-iphone-1268016'>Este truco para la batería de tu iPhone te salvará la vida</a></h4>
+    <a href='https://computerhoy.com/apple/truco-util-aumentar-vida-bateria-iphone-1268016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bateria-iphone-2350515.jpg?tf=1200x' alt='Este truco para la batería de tu iPhone te salvará la vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/estos-son-dos-lugares-donde-nunca-deberias-colocar-router-wifi-casa-1267926'>El Triángulo de la Bermudas del WiFi: dos lugares donde nunca deberías colocar el router WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/estos-son-dos-lugares-donde-nunca-deberias-colocar-router-wifi-casa-1267926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-wifi-3045536.jpg?tf=1200x' alt='El Triángulo de la Bermudas del WiFi: dos lugares donde nunca deberías colocar el router WiFi' />
+    <h4><a href='https://computerhoy.com/life/peligros-usar-aire-acondicionado-mientras-duermes-1267956'>Los peligros para la salud de dormir con el aire acondicionado encendido toda la noche</a></h4>
+    <a href='https://computerhoy.com/life/peligros-usar-aire-acondicionado-mientras-duermes-1267956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/aire-acondicionado-1996453.jpg?tf=1200x' alt='Los peligros para la salud de dormir con el aire acondicionado encendido toda la noche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/playground-alternativa-gratis-photoshop-ia-integrada-1267868'>Playground, la alternativa gratis a Photoshop con IA integrada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/playground-alternativa-gratis-photoshop-ia-integrada-1267868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/playground-alternativa-gratis-photoshop-ia-integrada-3070928.jpg?tf=1200x' alt='Playground, la alternativa gratis a Photoshop con IA integrada' />
+    <h4><a href='https://computerhoy.com/life/chatgpt-consejos-manejar-estres-1267988'>ChatGPT no tiene límites: así es como la IA puede ayudarte a manejar el estrés</a></h4>
+    <a href='https://computerhoy.com/life/chatgpt-consejos-manejar-estres-1267988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-estres-3071108.jpg?tf=1200x' alt='ChatGPT no tiene límites: así es como la IA puede ayudarte a manejar el estrés' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/nuevo-aviso-youtube-usuarios-usan-bloqueadores-anuncios-1267884'>Así es el nuevo aviso de YouTube para los usuarios que usan bloqueadores de anuncios</a></h4>
-    <a href='https://computerhoy.com/google/nuevo-aviso-youtube-usuarios-usan-bloqueadores-anuncios-1267884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/youtube-tv-2928346.jpg?tf=1200x' alt='Así es el nuevo aviso de YouTube para los usuarios que usan bloqueadores de anuncios' />
+    <h4><a href='https://computerhoy.com/apps/util-funcionalidad-ha-desaparecido-previo-aviso-google-maps-android-auto-1268022'>La útil funcionalidad que ha desaparecido sin previo aviso de Google Maps en Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/util-funcionalidad-ha-desaparecido-previo-aviso-google-maps-android-auto-1268022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922222.jpg?tf=1200x' alt='La útil funcionalidad que ha desaparecido sin previo aviso de Google Maps en Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/pedofilos-estan-usando-inteligencia-artificial-generar-vender-pornografia-infantil-1267848'>Los pedófilos están usando Inteligencia Artificial para generar y vender pornografía infantil</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/pedofilos-estan-usando-inteligencia-artificial-generar-vender-pornografia-infantil-1267848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/robot-inteligencia-artificial-3018742.jpg?tf=1200x' alt='Los pedófilos están usando Inteligencia Artificial para generar y vender pornografía infantil' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-forerunner-45s-reloj-running-barato-oferta-1266056'>Chollo para runners: uno de los relojes Garmin más baratos ahora está rebajado aún más de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-forerunner-45s-reloj-running-barato-oferta-1266056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/garmin-forerunner-45s-3067668.jpg?tf=1200x' alt='Chollo para runners: uno de los relojes Garmin más baratos ahora está rebajado aún más de precio' />
     </a>
 </div>
 
