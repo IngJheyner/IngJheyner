@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/truco-infalible-comprobar-estado-embrague-coche-punto-romperse-1263384'>El truco infalible para comprobar el estado del embrague de tu coche y si está a punto romperse</a></h4>
+    <a href='https://computerhoy.com/motor/truco-infalible-comprobar-estado-embrague-coche-punto-romperse-1263384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/prueba-embrague-3063244.jpg?tf=1200x' alt='El truco infalible para comprobar el estado del embrague de tu coche y si está a punto romperse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/apple-macbook-air-15-analisis-opinion-1264372'>Apple MacBook Air 15, análisis y opinión: el MacBook que estábamos esperando</a></h4>
+    <a href='https://computerhoy.com/analisis/apple-macbook-air-15-analisis-opinion-1264372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/macbook-air-15-pulgadas-3069042.jpg?tf=1200x' alt='Apple MacBook Air 15, análisis y opinión: el MacBook que estábamos esperando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/urtopia-primera-bicicleta-electrica-chatgpt-integrado-1268258'>Urtopia E-bike, la primera bicicleta eléctrica con ChatGPT integrado (vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/urtopia-primera-bicicleta-electrica-chatgpt-integrado-1268258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1688095533964-3071430.jpg?tf=1200x' alt='Urtopia E-bike, la primera bicicleta eléctrica con ChatGPT integrado (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ves-imagen-respuesta-puede-revelar-orientacion-politica-1267394'>Descubre tu ideología política: esta ilusión óptica revela si eres de izquierdas o derechas</a></h4>
+    <a href='https://computerhoy.com/life/ves-imagen-respuesta-puede-revelar-orientacion-politica-1267394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/figura-geometrica-test-politico-3070068.jpg?tf=1200x' alt='Descubre tu ideología política: esta ilusión óptica revela si eres de izquierdas o derechas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263'>Mejores relojes inteligentes con micrófono para responder llamadas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-samsung-galaxy-watch-5-2843267.jpg?tf=1200x' alt='Mejores relojes inteligentes con micrófono para responder llamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/5-argumentos-deberias-plantearte-dejar-usar-whatsapp-1267828'>5 argumentos por los que deberías plantearte dejar de usar WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/5-argumentos-deberias-plantearte-dejar-usar-whatsapp-1267828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/5-argumentos-deberias-plantearte-dejar-usar-whatsapp-3070774.jpg?tf=1200x' alt='5 argumentos por los que deberías plantearte dejar de usar WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/virgin-galactic-completa-exito-primer-vuelo-espacial-comercial-1268256'>Virgin Galactic completa con éxito su primer vuelo espacial comercial</a></h4>
-    <a href='https://computerhoy.com/espacio/virgin-galactic-completa-exito-primer-vuelo-espacial-comercial-1268256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/virgin-galactic-completa-exito-primer-vuelo-espacial-comercial-3071214.jpg?tf=1200x' alt='Virgin Galactic completa con éxito su primer vuelo espacial comercial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-series-peliculas-movistar-plus-plus-julio-1268040'>Estrenos de series y películas de Movistar Plus+ en julio: la última del Gato con botas, la serie de Raúl  Cimas, y más</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estrenos-series-peliculas-movistar-plus-plus-julio-1268040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estrenos-series-peliculas-movistar-plus-julio-ultima-gato-botas-serie-raul-cimas-3071180.jpg?tf=1200x' alt='Estrenos de series y películas de Movistar Plus+ en julio: la última del Gato con botas, la serie de Raúl  Cimas, y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ya-puedes-probar-copiloto-windows-11-inteligencia-artificial-chatgpt-1268034'>ChatGPT llega a Windows: ya puedes probar el Copiloto de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/ya-puedes-probar-copiloto-windows-11-inteligencia-artificial-chatgpt-1268034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-llega-windows-ya-puedes-probar-copiloto-windows-11-3071192.jpg?tf=1200x' alt='ChatGPT llega a Windows: ya puedes probar el Copiloto de Windows 11' />
     </a>
 </div>
 
