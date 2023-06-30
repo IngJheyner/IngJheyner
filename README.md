@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819'>Los 5 mejores auriculares con cancelación de ruido para volver a la oficina</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-sony-wh1000xm4-cancelacion-ruido-son-deseados-hoy-tienen-132-euros-descuento-precio-minimo-2582311.jpg?tf=1200x' alt='Los 5 mejores auriculares con cancelación de ruido para volver a la oficina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/crea-propio-amplificador-wifi-lata-cerveza-vacia-1268514'>Con este truco podrías hacer que la señal de tu WiFi sea hasta tres veces más potente</a></h4>
+    <a href='https://computerhoy.com/internet/crea-propio-amplificador-wifi-lata-cerveza-vacia-1268514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amplificador-wifi-lata-cerveza-3071936.jpg?tf=1200x' alt='Con este truco podrías hacer que la señal de tu WiFi sea hasta tres veces más potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estafa-reservar-billete-avion-1268490'>Cuidado, no caigas en esta estafa al reservar tu billete de avión este verano</a></h4>
+    <a href='https://computerhoy.com/life/estafa-reservar-billete-avion-1268490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estafa-reservas-vuelo-3071918.jpg?tf=1200x' alt='Cuidado, no caigas en esta estafa al reservar tu billete de avión este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/tacticas-despiadadas-steve-jobs-controlar-mercado-tecnologico-1268042'>Las tácticas más despiadadas de Steve Jobs para controlar el mercado tecnológico</a></h4>
     <a href='https://computerhoy.com/apple/tacticas-despiadadas-steve-jobs-controlar-mercado-tecnologico-1268042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg?tf=1200x' alt='Las tácticas más despiadadas de Steve Jobs para controlar el mercado tecnológico' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/boton-secreto-google-pixel-casi-nadie-conoce-muy-util-1268024'>El botón secreto de los Google Pixel que casi nadie conoce y que es muy útil para abrir aplicaciones</a></h4>
     <a href='https://computerhoy.com/moviles/boton-secreto-google-pixel-casi-nadie-conoce-muy-util-1268024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029766.jpg?tf=1200x' alt='El botón secreto de los Google Pixel que casi nadie conoce y que es muy útil para abrir aplicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/openai-punto-mira-demanda-colectiva-reclama-uso-datos-ajenos-entrenar-chatgpt-dall-1268420'>OpenAI demandada por usar datos personales sin consentimiento para entrenar a sus modelos de IA</a></h4>
-    <a href='https://computerhoy.com/internet/openai-punto-mira-demanda-colectiva-reclama-uso-datos-ajenos-entrenar-chatgpt-dall-1268420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/openai-2923906.jpg?tf=1200x' alt='OpenAI demandada por usar datos personales sin consentimiento para entrenar a sus modelos de IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/nueva-tendencia-china-usar-ia-comunicarse-seres-queridos-fallecidos-1268386'>La nueva tendencia en China: usar la IA para comunicarse con los seres queridos fallecidos</a></h4>
-    <a href='https://computerhoy.com/internet/nueva-tendencia-china-usar-ia-comunicarse-seres-queridos-fallecidos-1268386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nueva-tendencia-china-usar-ia-comunicarse-seres-queridos-fallecidos-3071724.jpg?tf=1200x' alt='La nueva tendencia en China: usar la IA para comunicarse con los seres queridos fallecidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ganga-amazon-xiaomi-redmi-note-12-pro-menos-300-euros-1267898'>Ganga en Amazon: el Xiaomi Redmi Note 12 Pro a menos de 300 euros </a></h4>
-    <a href='https://computerhoy.com/android/ganga-amazon-xiaomi-redmi-note-12-pro-menos-300-euros-1267898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-note-12-pro-2991766.jpg?tf=1200x' alt='Ganga en Amazon: el Xiaomi Redmi Note 12 Pro a menos de 300 euros ' />
     </a>
 </div>
 
