@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819'>Los 5 mejores auriculares con cancelación de ruido para volver a la oficina</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-sony-wh1000xm4-cancelacion-ruido-son-deseados-hoy-tienen-132-euros-descuento-precio-minimo-2582311.jpg?tf=1200x' alt='Los 5 mejores auriculares con cancelación de ruido para volver a la oficina' />
+    <h4><a href='https://computerhoy.com/criptos/billetera-fria-criptomonedas-porque-deberias-usarla-1268516'>Qué es una billetera fría de criptomonedas y porque deberías usarla</a></h4>
+    <a href='https://computerhoy.com/criptos/billetera-fria-criptomonedas-porque-deberias-usarla-1268516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/monedero-frio-3071972.jpg?tf=1200x' alt='Qué es una billetera fría de criptomonedas y porque deberías usarla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/crea-propio-amplificador-wifi-lata-cerveza-vacia-1268514'>Con este truco podrías hacer que la señal de tu WiFi sea hasta tres veces más potente</a></h4>
-    <a href='https://computerhoy.com/internet/crea-propio-amplificador-wifi-lata-cerveza-vacia-1268514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amplificador-wifi-lata-cerveza-3071936.jpg?tf=1200x' alt='Con este truco podrías hacer que la señal de tu WiFi sea hasta tres veces más potente' />
+    <h4><a href='https://computerhoy.com/internet/escandalo-pornhub-destapan-practicas-ilegales-recopilacion-datos-usuarios-1268556'>¡Escándalo en Pornhub! Destapan prácticas ilegales de recopilación de datos de los usuarios</a></h4>
+    <a href='https://computerhoy.com/internet/escandalo-pornhub-destapan-practicas-ilegales-recopilacion-datos-usuarios-1268556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pornhub-2828141.jpg?tf=1200x' alt='¡Escándalo en Pornhub! Destapan prácticas ilegales de recopilación de datos de los usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estafa-reservar-billete-avion-1268490'>Cuidado, no caigas en esta estafa al reservar tu billete de avión este verano</a></h4>
-    <a href='https://computerhoy.com/life/estafa-reservar-billete-avion-1268490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estafa-reservas-vuelo-3071918.jpg?tf=1200x' alt='Cuidado, no caigas en esta estafa al reservar tu billete de avión este verano' />
+    <h4><a href='https://computerhoy.com/apps/puedes-activar-modo-vacaciones-whatsapp-no-te-moleste-ningun-contacto-1268554'>Así puedes activar el modo vacaciones en WhatsApp para que no te moleste ningún contacto</a></h4>
+    <a href='https://computerhoy.com/apps/puedes-activar-modo-vacaciones-whatsapp-no-te-moleste-ningun-contacto-1268554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/whatsapp-modo-vacaciones-3071986.jpg?tf=1200x' alt='Así puedes activar el modo vacaciones en WhatsApp para que no te moleste ningún contacto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tacticas-despiadadas-steve-jobs-controlar-mercado-tecnologico-1268042'>Las tácticas más despiadadas de Steve Jobs para controlar el mercado tecnológico</a></h4>
-    <a href='https://computerhoy.com/apple/tacticas-despiadadas-steve-jobs-controlar-mercado-tecnologico-1268042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg?tf=1200x' alt='Las tácticas más despiadadas de Steve Jobs para controlar el mercado tecnológico' />
+    <h4><a href='https://computerhoy.com/tecnologia/consigue-watch-gt-3-pro-huawei-caja-titanio-esfera-cristal-zafiro-300-euros-1267440'>Este reloj deportivo de titanio es ideal para runners y ahora es 70 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/consigue-watch-gt-3-pro-huawei-caja-titanio-esfera-cristal-zafiro-300-euros-1267440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-watch-gt-3-pro-titanium-2766631.jpg?tf=1200x' alt='Este reloj deportivo de titanio es ideal para runners y ahora es 70 euros más barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/boton-secreto-google-pixel-casi-nadie-conoce-muy-util-1268024'>El botón secreto de los Google Pixel que casi nadie conoce y que es muy útil para abrir aplicaciones</a></h4>
-    <a href='https://computerhoy.com/moviles/boton-secreto-google-pixel-casi-nadie-conoce-muy-util-1268024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029766.jpg?tf=1200x' alt='El botón secreto de los Google Pixel que casi nadie conoce y que es muy útil para abrir aplicaciones' />
+    <h4><a href='https://computerhoy.com/entretenimiento/modo-cine-filmmaker-televisor-como-activarlo-1268520'>Para qué sirve el modo cine de tu televisor y por qué deberías usarlo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/modo-cine-filmmaker-televisor-como-activarlo-1268520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/sirve-modo-cine-televisor-deberias-usarlo-3071980.jpg?tf=1200x' alt='Para qué sirve el modo cine de tu televisor y por qué deberías usarlo' />
     </a>
 </div>
 
