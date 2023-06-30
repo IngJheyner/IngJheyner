@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/falso-brad-pitt-matrimonio-estafa-ha-conseguido-robar-170000-euros-mujer-granada-1268322'>Alguien se ha hecho pasar por Brad Pitt y ha estafado a una mujer de Granada más de 170.000 euros</a></h4>
+    <a href='https://computerhoy.com/internet/falso-brad-pitt-matrimonio-estafa-ha-conseguido-robar-170000-euros-mujer-granada-1268322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/brad-pitt-2783251.jpg?tf=1200x' alt='Alguien se ha hecho pasar por Brad Pitt y ha estafado a una mujer de Granada más de 170.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/surface-laptop-5-fin-menos-1000-euros-1267426'>El principal rival del MacBook Air iguala su precio y cae a menos de 1.000 euros</a></h4>
+    <a href='https://computerhoy.com/pc/surface-laptop-5-fin-menos-1000-euros-1267426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-surface-laptop-5-2961640.jpg?tf=1200x' alt='El principal rival del MacBook Air iguala su precio y cae a menos de 1.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/riesgos-ia-robots-asesinos-armas-quimicas-maquinas-incontrolables-1268038'>Expertos en IA revelan riesgos catastróficos: robots asesinos, armas químicas y máquinas incontrolables</a></h4>
+    <a href='https://computerhoy.com/tecnologia/riesgos-ia-robots-asesinos-armas-quimicas-maquinas-incontrolables-1268038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/robots-asesinos-3071216.jpg?tf=1200x' alt='Expertos en IA revelan riesgos catastróficos: robots asesinos, armas químicas y máquinas incontrolables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/pronto-podras-descargar-aplicaciones-facebook-1268290'>Pronto podrás descargar aplicaciones desde Facebook</a></h4>
+    <a href='https://computerhoy.com/apps/pronto-podras-descargar-aplicaciones-facebook-1268290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/malware-facebook-3025452.jpg?tf=1200x' alt='Pronto podrás descargar aplicaciones desde Facebook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/truco-infalible-comprobar-estado-embrague-coche-punto-romperse-1263384'>El truco infalible para comprobar el estado del embrague de tu coche y si está a punto romperse</a></h4>
     <a href='https://computerhoy.com/motor/truco-infalible-comprobar-estado-embrague-coche-punto-romperse-1263384' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/prueba-embrague-3063244.jpg?tf=1200x' alt='El truco infalible para comprobar el estado del embrague de tu coche y si está a punto romperse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/apple-macbook-air-15-analisis-opinion-1264372'>Apple MacBook Air 15, análisis y opinión: el MacBook que estábamos esperando</a></h4>
-    <a href='https://computerhoy.com/analisis/apple-macbook-air-15-analisis-opinion-1264372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/macbook-air-15-pulgadas-3069042.jpg?tf=1200x' alt='Apple MacBook Air 15, análisis y opinión: el MacBook que estábamos esperando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/urtopia-primera-bicicleta-electrica-chatgpt-integrado-1268258'>Urtopia E-bike, la primera bicicleta eléctrica con ChatGPT integrado (vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/urtopia-primera-bicicleta-electrica-chatgpt-integrado-1268258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1688095533964-3071430.jpg?tf=1200x' alt='Urtopia E-bike, la primera bicicleta eléctrica con ChatGPT integrado (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ves-imagen-respuesta-puede-revelar-orientacion-politica-1267394'>Descubre tu ideología política: esta ilusión óptica revela si eres de izquierdas o derechas</a></h4>
-    <a href='https://computerhoy.com/life/ves-imagen-respuesta-puede-revelar-orientacion-politica-1267394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/figura-geometrica-test-politico-3070068.jpg?tf=1200x' alt='Descubre tu ideología política: esta ilusión óptica revela si eres de izquierdas o derechas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263'>Mejores relojes inteligentes con micrófono para responder llamadas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-samsung-galaxy-watch-5-2843267.jpg?tf=1200x' alt='Mejores relojes inteligentes con micrófono para responder llamadas' />
     </a>
 </div>
 
