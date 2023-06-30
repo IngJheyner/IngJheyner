@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/humane-ai-pin-dispositivo-va-poner-fin-era-moviles-1268570'>Humane Ai Pin, el dispositivo que proyecta una pantalla en tu mano y quiere poner fin a la era de los móviles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/humane-ai-pin-dispositivo-va-poner-fin-era-moviles-1268570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/humane-dispositivo-ia-proyecta-imagenes-mano-quiere-acabar-moviles-siempre-3015576.jpg?tf=1200x' alt='Humane Ai Pin, el dispositivo que proyecta una pantalla en tu mano y quiere poner fin a la era de los móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tienes-iphone-primera-generacion-podria-valer-fortuna-alguien-pagando-100000-dolares-1268546'>Si tienes un iPhone de primera generación podría valer una fortuna: están pagando hasta 100.000 dólares</a></h4>
+    <a href='https://computerhoy.com/apple/tienes-iphone-primera-generacion-podria-valer-fortuna-alguien-pagando-100000-dolares-1268546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/paga-43000-euros-poder-hacer-unboxing-youtube-primer-iphone-3017412.jpg?tf=1200x' alt='Si tienes un iPhone de primera generación podría valer una fortuna: están pagando hasta 100.000 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-prime-video-julio-2023-1268568'>Estrenos de Prime Video en julio: vuelve Humor Amarillo, Good Omens, anime y cine de animación familiar</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estrenos-prime-video-julio-2023-1268568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estrenos-prime-video-julio-vuelve-humor-amarillo-good-omens-anime-cine-animacion-familiar-3072004.jpg?tf=1200x' alt='Estrenos de Prime Video en julio: vuelve Humor Amarillo, Good Omens, anime y cine de animación familiar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/moviles-segunda-mano-1236942'>Cada vez se venden más móviles de segunda mano: estas son las mejores ofertas que hemos encontrado</a></h4>
+    <a href='https://computerhoy.com/mejores/moviles-segunda-mano-1236942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iphone-14-3069706.jpg?tf=1200x' alt='Cada vez se venden más móviles de segunda mano: estas son las mejores ofertas que hemos encontrado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/billetera-fria-criptomonedas-porque-deberias-usarla-1268516'>Qué es una billetera fría de criptomonedas y porque deberías usarla</a></h4>
     <a href='https://computerhoy.com/criptos/billetera-fria-criptomonedas-porque-deberias-usarla-1268516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/monedero-frio-3071972.jpg?tf=1200x' alt='Qué es una billetera fría de criptomonedas y porque deberías usarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/escandalo-pornhub-destapan-practicas-ilegales-recopilacion-datos-usuarios-1268556'>¡Escándalo en Pornhub! Destapan prácticas ilegales de recopilación de datos de los usuarios</a></h4>
-    <a href='https://computerhoy.com/internet/escandalo-pornhub-destapan-practicas-ilegales-recopilacion-datos-usuarios-1268556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/pornhub-2828141.jpg?tf=1200x' alt='¡Escándalo en Pornhub! Destapan prácticas ilegales de recopilación de datos de los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/puedes-activar-modo-vacaciones-whatsapp-no-te-moleste-ningun-contacto-1268554'>Así puedes activar el modo vacaciones en WhatsApp para que no te moleste ningún contacto</a></h4>
-    <a href='https://computerhoy.com/apps/puedes-activar-modo-vacaciones-whatsapp-no-te-moleste-ningun-contacto-1268554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/whatsapp-modo-vacaciones-3071986.jpg?tf=1200x' alt='Así puedes activar el modo vacaciones en WhatsApp para que no te moleste ningún contacto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/consigue-watch-gt-3-pro-huawei-caja-titanio-esfera-cristal-zafiro-300-euros-1267440'>Este reloj deportivo de titanio es ideal para runners y ahora es 70 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/consigue-watch-gt-3-pro-huawei-caja-titanio-esfera-cristal-zafiro-300-euros-1267440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-watch-gt-3-pro-titanium-2766631.jpg?tf=1200x' alt='Este reloj deportivo de titanio es ideal para runners y ahora es 70 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/modo-cine-filmmaker-televisor-como-activarlo-1268520'>Para qué sirve el modo cine de tu televisor y por qué deberías usarlo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/modo-cine-filmmaker-televisor-como-activarlo-1268520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/sirve-modo-cine-televisor-deberias-usarlo-3071980.jpg?tf=1200x' alt='Para qué sirve el modo cine de tu televisor y por qué deberías usarlo' />
     </a>
 </div>
 
