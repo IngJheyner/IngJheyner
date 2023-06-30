@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263'>Mejores relojes inteligentes con micrófono para responder llamadas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/review-samsung-galaxy-watch-5-2843267.jpg?tf=1200x' alt='Mejores relojes inteligentes con micrófono para responder llamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/5-argumentos-deberias-plantearte-dejar-usar-whatsapp-1267828'>5 argumentos por los que deberías plantearte dejar de usar WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/5-argumentos-deberias-plantearte-dejar-usar-whatsapp-1267828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/5-argumentos-deberias-plantearte-dejar-usar-whatsapp-3070774.jpg?tf=1200x' alt='5 argumentos por los que deberías plantearte dejar de usar WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/virgin-galactic-completa-exito-primer-vuelo-espacial-comercial-1268256'>Virgin Galactic completa con éxito su primer vuelo espacial comercial</a></h4>
     <a href='https://computerhoy.com/espacio/virgin-galactic-completa-exito-primer-vuelo-espacial-comercial-1268256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/virgin-galactic-completa-exito-primer-vuelo-espacial-comercial-3071214.jpg?tf=1200x' alt='Virgin Galactic completa con éxito su primer vuelo espacial comercial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/ya-puedes-probar-copiloto-windows-11-inteligencia-artificial-chatgpt-1268034'>ChatGPT llega a Windows: ya puedes probar el Copiloto de Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/ya-puedes-probar-copiloto-windows-11-inteligencia-artificial-chatgpt-1268034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-llega-windows-ya-puedes-probar-copiloto-windows-11-3071192.jpg?tf=1200x' alt='ChatGPT llega a Windows: ya puedes probar el Copiloto de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/4-senales-te-estan-espiando-traves-camara-movil-1268008'>4 claras señales de que te están espiando a través de la cámara de tu móvil y dos son muy comunes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/4-senales-te-estan-espiando-traves-camara-movil-1268008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/espiar-camara-movil-3071176.jpg?tf=1200x' alt='4 claras señales de que te están espiando a través de la cámara de tu móvil y dos son muy comunes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/moviles-menos-300-euros-primavera-1228658'>Mejores móviles por menos de 300€ que puedes compra</a></h4>
-    <a href='https://computerhoy.com/mejores/moviles-menos-300-euros-primavera-1228658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2947944.jpg?tf=1200x' alt='Mejores móviles por menos de 300€ que puedes compra' />
     </a>
 </div>
 
