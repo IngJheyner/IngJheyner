@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/virgin-galactic-completa-exito-primer-vuelo-espacial-comercial-1268256'>Virgin Galactic completa con éxito su primer vuelo espacial comercial</a></h4>
+    <a href='https://computerhoy.com/espacio/virgin-galactic-completa-exito-primer-vuelo-espacial-comercial-1268256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/virgin-galactic-completa-exito-primer-vuelo-espacial-comercial-3071214.jpg?tf=1200x' alt='Virgin Galactic completa con éxito su primer vuelo espacial comercial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/estrenos-series-peliculas-movistar-plus-plus-julio-1268040'>Estrenos de series y películas de Movistar Plus+ en julio: la última del Gato con botas, la serie de Raúl  Cimas, y más</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estrenos-series-peliculas-movistar-plus-plus-julio-1268040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estrenos-series-peliculas-movistar-plus-julio-ultima-gato-botas-serie-raul-cimas-3071180.jpg?tf=1200x' alt='Estrenos de series y películas de Movistar Plus+ en julio: la última del Gato con botas, la serie de Raúl  Cimas, y más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/moviles-menos-300-euros-primavera-1228658'>Mejores móviles por menos de 300€ que puedes compra</a></h4>
     <a href='https://computerhoy.com/mejores/moviles-menos-300-euros-primavera-1228658' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2947944.jpg?tf=1200x' alt='Mejores móviles por menos de 300€ que puedes compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/truco-util-aumentar-vida-bateria-iphone-1268016'>Este truco para la batería de tu iPhone te salvará la vida</a></h4>
-    <a href='https://computerhoy.com/apple/truco-util-aumentar-vida-bateria-iphone-1268016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bateria-iphone-2350515.jpg?tf=1200x' alt='Este truco para la batería de tu iPhone te salvará la vida' />
     </a>
 </div>
 
