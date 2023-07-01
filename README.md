@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/chimpance-cautivo-29-anos-ve-cielo-primera-vez-video-1268578'>Este vídeo de una chimpancé cautiva durante 29 años, que ve el cielo por primera vez, te hará llorar</a></h4>
-    <a href='https://computerhoy.com/life/chimpance-cautivo-29-anos-ve-cielo-primera-vez-video-1268578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/video-chimpance-cautivo-durante-29-anos-ve-cielo-primera-vez-te-hara-llorar-3072016.jpg?tf=1200x' alt='Este vídeo de una chimpancé cautiva durante 29 años, que ve el cielo por primera vez, te hará llorar' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-problematica-desinformacion-respuestas-1214262'>Inteligencia artificial y fake news: ChatGPT y su potencial para difundir información falsa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-problematica-desinformacion-respuestas-1214262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-fake-news-chatgpt-potencial-difundir-informacion-falsa-2985436.jpg?tf=1200x' alt='Inteligencia artificial y fake news: ChatGPT y su potencial para difundir información falsa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/humane-ai-pin-dispositivo-va-poner-fin-era-moviles-1268570'>Humane Ai Pin, el dispositivo que proyecta una pantalla en tu mano y quiere poner fin a la era de los móviles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/humane-ai-pin-dispositivo-va-poner-fin-era-moviles-1268570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/humane-dispositivo-ia-proyecta-imagenes-mano-quiere-acabar-moviles-siempre-3015576.jpg?tf=1200x' alt='Humane Ai Pin, el dispositivo que proyecta una pantalla en tu mano y quiere poner fin a la era de los móviles' />
+    <h4><a href='https://computerhoy.com/google/10-aniversario-cierre-google-reader-1264982'>Hace 10 años cerró Google Reader (y todavía no lo he superado)</a></h4>
+    <a href='https://computerhoy.com/google/10-aniversario-cierre-google-reader-1264982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/icono-google-reader-envuelto-llamas-3065970.jpg?tf=1200x' alt='Hace 10 años cerró Google Reader (y todavía no lo he superado)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tienes-iphone-primera-generacion-podria-valer-fortuna-alguien-pagando-100000-dolares-1268546'>Si tienes un iPhone de primera generación podría valer una fortuna: están pagando hasta 100.000 dólares</a></h4>
-    <a href='https://computerhoy.com/apple/tienes-iphone-primera-generacion-podria-valer-fortuna-alguien-pagando-100000-dolares-1268546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/paga-43000-euros-poder-hacer-unboxing-youtube-primer-iphone-3017412.jpg?tf=1200x' alt='Si tienes un iPhone de primera generación podría valer una fortuna: están pagando hasta 100.000 dólares' />
+    <h4><a href='https://computerhoy.com/tecnologia/paleontologia-web-telefonica-compania-siglo-historia-1262570'>La empresa estandarte de España: cómo ha cambiado a través de su web Telefónica, una compañía de casi 100 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/paleontologia-web-telefonica-compania-siglo-historia-1262570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/paleontologia-web-telefonica-vintage-3066336.jpg?tf=1200x' alt='La empresa estandarte de España: cómo ha cambiado a través de su web Telefónica, una compañía de casi 100 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-prime-video-julio-2023-1268568'>Estrenos de Prime Video en julio: vuelve Humor Amarillo, Good Omens, anime y cine de animación familiar</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estrenos-prime-video-julio-2023-1268568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estrenos-prime-video-julio-vuelve-humor-amarillo-good-omens-anime-cine-animacion-familiar-3072004.jpg?tf=1200x' alt='Estrenos de Prime Video en julio: vuelve Humor Amarillo, Good Omens, anime y cine de animación familiar' />
+    <h4><a href='https://computerhoy.com/ciencia/rostro-hobbit-pariente-humanos-diminuto-1268798'>Por primera vez podemos ver la cara de "el Hobbit", un pariente de los humanos diminuto que vivió hace solo 18.000 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/rostro-hobbit-pariente-humanos-diminuto-1268798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/primera-vez-podemos-ver-cara-hobbit-pariente-humanos-diminuto-vivio-hace-solo-18000-anos-3072230.jpg?tf=1200x' alt='Por primera vez podemos ver la cara de "el Hobbit", un pariente de los humanos diminuto que vivió hace solo 18.000 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/moviles-segunda-mano-1236942'>Cada vez se venden más móviles de segunda mano: estas son las mejores ofertas que hemos encontrado</a></h4>
-    <a href='https://computerhoy.com/mejores/moviles-segunda-mano-1236942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iphone-14-3069706.jpg?tf=1200x' alt='Cada vez se venden más móviles de segunda mano: estas son las mejores ofertas que hemos encontrado' />
+    <h4><a href='https://computerhoy.com/ciencia/lluvia-diamantes-saturno-fenomeno-salvaje-sucediendo-gigante-gaseoso-1268562'>Lluvia de diamantes en Saturno: el fenómeno salvaje que está sucediendo en el gigante gaseoso</a></h4>
+    <a href='https://computerhoy.com/ciencia/lluvia-diamantes-saturno-fenomeno-salvaje-sucediendo-gigante-gaseoso-1268562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nubes-saturno-3072008.jpg?tf=1200x' alt='Lluvia de diamantes en Saturno: el fenómeno salvaje que está sucediendo en el gigante gaseoso' />
     </a>
 </div>
 
