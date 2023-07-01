@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-problematica-desinformacion-respuestas-1214262'>Inteligencia artificial y fake news: ChatGPT y su potencial para difundir información falsa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-problematica-desinformacion-respuestas-1214262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-fake-news-chatgpt-potencial-difundir-informacion-falsa-2985436.jpg?tf=1200x' alt='Inteligencia artificial y fake news: ChatGPT y su potencial para difundir información falsa' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-alternativas-canva-hacer-grandes-disenos-1248270'>Las mejores alternativas a Canva para hacer grandes diseños</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-alternativas-canva-hacer-grandes-disenos-1248270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ordenador-software-diseno-3038332.jpg?tf=1200x' alt='Las mejores alternativas a Canva para hacer grandes diseños' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/10-aniversario-cierre-google-reader-1264982'>Hace 10 años cerró Google Reader (y todavía no lo he superado)</a></h4>
-    <a href='https://computerhoy.com/google/10-aniversario-cierre-google-reader-1264982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/icono-google-reader-envuelto-llamas-3065970.jpg?tf=1200x' alt='Hace 10 años cerró Google Reader (y todavía no lo he superado)' />
+    <h4><a href='https://computerhoy.com/apps/facil-puedes-transferir-ya-historial-whatsapp-nuevo-dispositivo-1268824'>Así de fácil puedes transferir ya tu historial de WhatsApp a un nuevo dispositivo</a></h4>
+    <a href='https://computerhoy.com/apps/facil-puedes-transferir-ya-historial-whatsapp-nuevo-dispositivo-1268824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/whatsapp-3072274.jpg?tf=1200x' alt='Así de fácil puedes transferir ya tu historial de WhatsApp a un nuevo dispositivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/paleontologia-web-telefonica-compania-siglo-historia-1262570'>La empresa estandarte de España: cómo ha cambiado a través de su web Telefónica, una compañía de casi 100 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/paleontologia-web-telefonica-compania-siglo-historia-1262570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/paleontologia-web-telefonica-vintage-3066336.jpg?tf=1200x' alt='La empresa estandarte de España: cómo ha cambiado a través de su web Telefónica, una compañía de casi 100 años' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-chatgpt-como-agenda-personal-1252196'>Así puedes usar ChatGPT como tu agenda personal para gestionar todas tus tareas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-chatgpt-como-agenda-personal-1252196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chatgpt-3013868.jpg?tf=1200x' alt='Así puedes usar ChatGPT como tu agenda personal para gestionar todas tus tareas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/rostro-hobbit-pariente-humanos-diminuto-1268798'>Por primera vez podemos ver la cara de "el Hobbit", un pariente de los humanos diminuto que vivió hace solo 18.000 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/rostro-hobbit-pariente-humanos-diminuto-1268798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/primera-vez-podemos-ver-cara-hobbit-pariente-humanos-diminuto-vivio-hace-solo-18000-anos-3072230.jpg?tf=1200x' alt='Por primera vez podemos ver la cara de "el Hobbit", un pariente de los humanos diminuto que vivió hace solo 18.000 años' />
+    <h4><a href='https://computerhoy.com/ciencia/eres-tardas-mucho-resolver-problemas-dificiles-estas-enhorabuena-1265112'>Si eres de los que tardas mucho en resolver problemas difíciles, estás de enhorabuena</a></h4>
+    <a href='https://computerhoy.com/ciencia/eres-tardas-mucho-resolver-problemas-dificiles-estas-enhorabuena-1265112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/problemas-complejos-3066348.jpg?tf=1200x' alt='Si eres de los que tardas mucho en resolver problemas difíciles, estás de enhorabuena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/lluvia-diamantes-saturno-fenomeno-salvaje-sucediendo-gigante-gaseoso-1268562'>Lluvia de diamantes en Saturno: el fenómeno salvaje que está sucediendo en el gigante gaseoso</a></h4>
-    <a href='https://computerhoy.com/ciencia/lluvia-diamantes-saturno-fenomeno-salvaje-sucediendo-gigante-gaseoso-1268562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nubes-saturno-3072008.jpg?tf=1200x' alt='Lluvia de diamantes en Saturno: el fenómeno salvaje que está sucediendo en el gigante gaseoso' />
+    <h4><a href='https://computerhoy.com/life/genial-pregunta-steve-jobs-comenzaba-todas-reuniones-1265180'>La genial pregunta con la que Steve Jobs comenzaba todas sus reuniones</a></h4>
+    <a href='https://computerhoy.com/life/genial-pregunta-steve-jobs-comenzaba-todas-reuniones-1265180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2885457.jpg?tf=1200x' alt='La genial pregunta con la que Steve Jobs comenzaba todas sus reuniones' />
     </a>
 </div>
 
