@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/chimpance-cautivo-29-anos-ve-cielo-primera-vez-video-1268578'>Este vídeo de una chimpancé cautiva durante 29 años, que ve el cielo por primera vez, te hará llorar</a></h4>
+    <a href='https://computerhoy.com/life/chimpance-cautivo-29-anos-ve-cielo-primera-vez-video-1268578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/video-chimpance-cautivo-durante-29-anos-ve-cielo-primera-vez-te-hara-llorar-3072016.jpg?tf=1200x' alt='Este vídeo de una chimpancé cautiva durante 29 años, que ve el cielo por primera vez, te hará llorar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/humane-ai-pin-dispositivo-va-poner-fin-era-moviles-1268570'>Humane Ai Pin, el dispositivo que proyecta una pantalla en tu mano y quiere poner fin a la era de los móviles</a></h4>
     <a href='https://computerhoy.com/tecnologia/humane-ai-pin-dispositivo-va-poner-fin-era-moviles-1268570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/humane-dispositivo-ia-proyecta-imagenes-mano-quiere-acabar-moviles-siempre-3015576.jpg?tf=1200x' alt='Humane Ai Pin, el dispositivo que proyecta una pantalla en tu mano y quiere poner fin a la era de los móviles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/moviles-segunda-mano-1236942'>Cada vez se venden más móviles de segunda mano: estas son las mejores ofertas que hemos encontrado</a></h4>
     <a href='https://computerhoy.com/mejores/moviles-segunda-mano-1236942' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iphone-14-3069706.jpg?tf=1200x' alt='Cada vez se venden más móviles de segunda mano: estas son las mejores ofertas que hemos encontrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/billetera-fria-criptomonedas-porque-deberias-usarla-1268516'>Qué es una billetera fría de criptomonedas y porque deberías usarla</a></h4>
-    <a href='https://computerhoy.com/criptos/billetera-fria-criptomonedas-porque-deberias-usarla-1268516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/monedero-frio-3071972.jpg?tf=1200x' alt='Qué es una billetera fría de criptomonedas y porque deberías usarla' />
     </a>
 </div>
 
