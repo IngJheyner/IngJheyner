@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/esqueletos-humanos-atraccion-piratas-caribe-disneylandia-1266582'>¿Aún quedan esqueletos humanos en la atracción Piratas del Caribe de Disneylandia?</a></h4>
+    <a href='https://computerhoy.com/life/esqueletos-humanos-atraccion-piratas-caribe-disneylandia-1266582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/aun-quedan-esqueletos-humanos-atraccion-piratas-caribe-disneyland-3068550.jpg?tf=1200x' alt='¿Aún quedan esqueletos humanos en la atracción Piratas del Caribe de Disneylandia?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aires-acondicionados-bomba-calor-buen-precio-1193270'>Bomba de calor para calefacción: 5 aparatos de aire acondicionado que la tienen y merecen la pena</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aires-acondicionados-bomba-calor-buen-precio-1193270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bomba-calor-calefaccion-5-aparatos-aire-acondicionado-tienen-merecen-pena-3071556.jpg?tf=1200x' alt='Bomba de calor para calefacción: 5 aparatos de aire acondicionado que la tienen y merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/donde-guardar-ketchup-nevera-despensa-1268264'>¿Dónde hay que guardar el kétchup, en la nevera o en la despensa? Heinz lo tiene muy claro</a></h4>
+    <a href='https://computerhoy.com/alimentacion/donde-guardar-ketchup-nevera-despensa-1268264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/ketchup.jpg?tf=1200x' alt='¿Dónde hay que guardar el kétchup, en la nevera o en la despensa? Heinz lo tiene muy claro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/15-prendas-nunca-debes-meter-lavadora-evitar-danos-1266930'>15 prendas que nunca debes meter en la lavadora para evitar daños </a></h4>
     <a href='https://computerhoy.com/life/15-prendas-nunca-debes-meter-lavadora-evitar-danos-1266930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lavadora-secadora-2586445.jpg?tf=1200x' alt='15 prendas que nunca debes meter en la lavadora para evitar daños ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/motivo-no-deberias-usar-nunca-cafeteras-hoteles-1268888'>El motivo por el que no deberías usar nunca las cafeteras de los hoteles</a></h4>
     <a href='https://computerhoy.com/life/motivo-no-deberias-usar-nunca-cafeteras-hoteles-1268888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cafetera-hotel-3072366.jpg?tf=1200x' alt='El motivo por el que no deberías usar nunca las cafeteras de los hoteles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/advertencia-sanitaria-peligros-reutilizar-botellas-plastico-1268530'>Advertencia sanitaria: los peligros de reutilizar las botellas de plástico</a></h4>
-    <a href='https://computerhoy.com/life/advertencia-sanitaria-peligros-reutilizar-botellas-plastico-1268530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/botella-agua-reutilizable-bacterias-3071966.jpg?tf=1200x' alt='Advertencia sanitaria: los peligros de reutilizar las botellas de plástico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/espanoles-van-teletrabajar-verano-preocupa-mucho-calidad-conexion-internet-1268870'>A los españoles que van a teletrabajar este verano les preocupa mucho la calidad de la conexión a Internet</a></h4>
-    <a href='https://computerhoy.com/life/espanoles-van-teletrabajar-verano-preocupa-mucho-calidad-conexion-internet-1268870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/teletrabajo-vacaciones-3072342.jpg?tf=1200x' alt='A los españoles que van a teletrabajar este verano les preocupa mucho la calidad de la conexión a Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-actualizar-amazon-fire-tv-deberias-hacerlo-1267442'>Cómo actualizar tu Amazon Fire TV y por qué deberías hacerlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-actualizar-amazon-fire-tv-deberias-hacerlo-1267442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-fire-tv-stick-2020-2224083.jpg?tf=1200x' alt='Cómo actualizar tu Amazon Fire TV y por qué deberías hacerlo' />
     </a>
 </div>
 
