@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/4-signos-zodiaco-inteligentes-emocionalmente-astrologo-1268856'>Los 4 signos del zodiaco más inteligentes emocionalmente, según un astrólogo</a></h4>
+    <a href='https://computerhoy.com/life/4-signos-zodiaco-inteligentes-emocionalmente-astrologo-1268856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/signos-zodiaco-3072332.jpg?tf=1200x' alt='Los 4 signos del zodiaco más inteligentes emocionalmente, según un astrólogo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/boton-podria-estar-oculto-guantera-coche-nadie-sabe-sirve-1261130'>El botón que podría estar oculto en la guantera de tu coche y que nadie sabe para qué sirve</a></h4>
+    <a href='https://computerhoy.com/motor/boton-podria-estar-oculto-guantera-coche-nadie-sabe-sirve-1261130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/boton-oculto-guantera-3059618.jpg?tf=1200x' alt='El botón que podría estar oculto en la guantera de tu coche y que nadie sabe para qué sirve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-auto-ya-te-permite-usar-google-maps-movil-coche-mismo-tiempo-1268846'>Android Auto ya te permite usar Google Maps en tu móvil y coche al mismo tiempo</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-ya-te-permite-usar-google-maps-movil-coche-mismo-tiempo-1268846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-2965016.jpg?tf=1200x' alt='Android Auto ya te permite usar Google Maps en tu móvil y coche al mismo tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ahora-twitter-te-obliga-iniciar-sesion-ver-tuits-1268836'>Ahora Twitter te obliga a iniciar sesión para ver los tuits</a></h4>
+    <a href='https://computerhoy.com/apps/ahora-twitter-te-obliga-iniciar-sesion-ver-tuits-1268836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-borrar-eliminar-cuenta-twitter-2995084.jpg?tf=1200x' alt='Ahora Twitter te obliga a iniciar sesión para ver los tuits' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mejores-alternativas-canva-hacer-grandes-disenos-1248270'>Las mejores alternativas a Canva para hacer grandes diseños</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-alternativas-canva-hacer-grandes-disenos-1248270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ordenador-software-diseno-3038332.jpg?tf=1200x' alt='Las mejores alternativas a Canva para hacer grandes diseños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/facil-puedes-transferir-ya-historial-whatsapp-nuevo-dispositivo-1268824'>Así de fácil puedes transferir ya tu historial de WhatsApp a un nuevo dispositivo</a></h4>
-    <a href='https://computerhoy.com/apps/facil-puedes-transferir-ya-historial-whatsapp-nuevo-dispositivo-1268824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/whatsapp-3072274.jpg?tf=1200x' alt='Así de fácil puedes transferir ya tu historial de WhatsApp a un nuevo dispositivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-chatgpt-como-agenda-personal-1252196'>Así puedes usar ChatGPT como tu agenda personal para gestionar todas tus tareas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-chatgpt-como-agenda-personal-1252196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chatgpt-3013868.jpg?tf=1200x' alt='Así puedes usar ChatGPT como tu agenda personal para gestionar todas tus tareas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/eres-tardas-mucho-resolver-problemas-dificiles-estas-enhorabuena-1265112'>Si eres de los que tardas mucho en resolver problemas difíciles, estás de enhorabuena</a></h4>
-    <a href='https://computerhoy.com/ciencia/eres-tardas-mucho-resolver-problemas-dificiles-estas-enhorabuena-1265112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/problemas-complejos-3066348.jpg?tf=1200x' alt='Si eres de los que tardas mucho en resolver problemas difíciles, estás de enhorabuena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/genial-pregunta-steve-jobs-comenzaba-todas-reuniones-1265180'>La genial pregunta con la que Steve Jobs comenzaba todas sus reuniones</a></h4>
-    <a href='https://computerhoy.com/life/genial-pregunta-steve-jobs-comenzaba-todas-reuniones-1265180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2885457.jpg?tf=1200x' alt='La genial pregunta con la que Steve Jobs comenzaba todas sus reuniones' />
     </a>
 </div>
 
