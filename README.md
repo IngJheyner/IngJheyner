@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/15-prendas-nunca-debes-meter-lavadora-evitar-danos-1266930'>15 prendas que nunca debes meter en la lavadora para evitar daños </a></h4>
+    <a href='https://computerhoy.com/life/15-prendas-nunca-debes-meter-lavadora-evitar-danos-1266930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lavadora-secadora-2586445.jpg?tf=1200x' alt='15 prendas que nunca debes meter en la lavadora para evitar daños ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/motivo-no-deberias-usar-nunca-cafeteras-hoteles-1268888'>El motivo por el que no deberías usar nunca las cafeteras de los hoteles</a></h4>
+    <a href='https://computerhoy.com/life/motivo-no-deberias-usar-nunca-cafeteras-hoteles-1268888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cafetera-hotel-3072366.jpg?tf=1200x' alt='El motivo por el que no deberías usar nunca las cafeteras de los hoteles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/advertencia-sanitaria-peligros-reutilizar-botellas-plastico-1268530'>Advertencia sanitaria: los peligros de reutilizar las botellas de plástico</a></h4>
+    <a href='https://computerhoy.com/life/advertencia-sanitaria-peligros-reutilizar-botellas-plastico-1268530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/botella-agua-reutilizable-bacterias-3071966.jpg?tf=1200x' alt='Advertencia sanitaria: los peligros de reutilizar las botellas de plástico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/espanoles-van-teletrabajar-verano-preocupa-mucho-calidad-conexion-internet-1268870'>A los españoles que van a teletrabajar este verano les preocupa mucho la calidad de la conexión a Internet</a></h4>
+    <a href='https://computerhoy.com/life/espanoles-van-teletrabajar-verano-preocupa-mucho-calidad-conexion-internet-1268870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/teletrabajo-vacaciones-3072342.jpg?tf=1200x' alt='A los españoles que van a teletrabajar este verano les preocupa mucho la calidad de la conexión a Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-actualizar-amazon-fire-tv-deberias-hacerlo-1267442'>Cómo actualizar tu Amazon Fire TV y por qué deberías hacerlo</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-actualizar-amazon-fire-tv-deberias-hacerlo-1267442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-fire-tv-stick-2020-2224083.jpg?tf=1200x' alt='Cómo actualizar tu Amazon Fire TV y por qué deberías hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/no-paran-etiquetarme-cuentas-falsas-shein-sorteos-instagram-1268866'>¿Por qué no paran de etiquetarme en cuentas falsas de Shein o sorteos en Instagram?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/no-paran-etiquetarme-cuentas-falsas-shein-sorteos-instagram-1268866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estafa-instagram-3072338.jpg?tf=1200x' alt='¿Por qué no paran de etiquetarme en cuentas falsas de Shein o sorteos en Instagram?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/plantas-interior-decorar-incluso-torpes-pueden-mantener-vida-1265168'>Plantas de interior para decorar que incluso los más torpes pueden mantener con vida</a></h4>
-    <a href='https://computerhoy.com/life/plantas-interior-decorar-incluso-torpes-pueden-mantener-vida-1265168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/plantas-xiaomi.jpg?tf=1200x' alt='Plantas de interior para decorar que incluso los más torpes pueden mantener con vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bill-gates-tiene-claro-serie-tienes-ver-verano-1268864'>Bill Gates lo tiene claro: esta serie es la que tienes que ver este verano</a></h4>
-    <a href='https://computerhoy.com/life/bill-gates-tiene-claro-serie-tienes-ver-verano-1268864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='Bill Gates lo tiene claro: esta serie es la que tienes que ver este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/truco-japones-bajar-temperatura-coche-segundos-1263434'>¡Funciona! Las redes alucinan con el truco japonés para bajar la temperatura del coche en segundos</a></h4>
-    <a href='https://computerhoy.com/motor/truco-japones-bajar-temperatura-coche-segundos-1263434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bajar-temperatura-coche-3063278.jpg?tf=1200x' alt='¡Funciona! Las redes alucinan con el truco japonés para bajar la temperatura del coche en segundos' />
     </a>
 </div>
 
