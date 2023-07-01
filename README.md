@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/4-signos-zodiaco-inteligentes-emocionalmente-astrologo-1268856'>Los 4 signos del zodiaco más inteligentes emocionalmente, según un astrólogo</a></h4>
-    <a href='https://computerhoy.com/life/4-signos-zodiaco-inteligentes-emocionalmente-astrologo-1268856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/signos-zodiaco-3072332.jpg?tf=1200x' alt='Los 4 signos del zodiaco más inteligentes emocionalmente, según un astrólogo' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-actualizar-amazon-fire-tv-deberias-hacerlo-1267442'>Cómo actualizar tu Amazon Fire TV y por qué deberías hacerlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-actualizar-amazon-fire-tv-deberias-hacerlo-1267442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/galeria-analisis-fire-tv-stick-2020-2224083.jpg?tf=1200x' alt='Cómo actualizar tu Amazon Fire TV y por qué deberías hacerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/boton-podria-estar-oculto-guantera-coche-nadie-sabe-sirve-1261130'>El botón que podría estar oculto en la guantera de tu coche y que nadie sabe para qué sirve</a></h4>
-    <a href='https://computerhoy.com/motor/boton-podria-estar-oculto-guantera-coche-nadie-sabe-sirve-1261130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/boton-oculto-guantera-3059618.jpg?tf=1200x' alt='El botón que podría estar oculto en la guantera de tu coche y que nadie sabe para qué sirve' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/no-paran-etiquetarme-cuentas-falsas-shein-sorteos-instagram-1268866'>¿Por qué no paran de etiquetarme en cuentas falsas de Shein o sorteos en Instagram?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/no-paran-etiquetarme-cuentas-falsas-shein-sorteos-instagram-1268866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estafa-instagram-3072338.jpg?tf=1200x' alt='¿Por qué no paran de etiquetarme en cuentas falsas de Shein o sorteos en Instagram?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-ya-te-permite-usar-google-maps-movil-coche-mismo-tiempo-1268846'>Android Auto ya te permite usar Google Maps en tu móvil y coche al mismo tiempo</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-ya-te-permite-usar-google-maps-movil-coche-mismo-tiempo-1268846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-2965016.jpg?tf=1200x' alt='Android Auto ya te permite usar Google Maps en tu móvil y coche al mismo tiempo' />
+    <h4><a href='https://computerhoy.com/life/plantas-interior-decorar-incluso-torpes-pueden-mantener-vida-1265168'>Plantas de interior para decorar que incluso los más torpes pueden mantener con vida</a></h4>
+    <a href='https://computerhoy.com/life/plantas-interior-decorar-incluso-torpes-pueden-mantener-vida-1265168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/plantas-xiaomi.jpg?tf=1200x' alt='Plantas de interior para decorar que incluso los más torpes pueden mantener con vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ahora-twitter-te-obliga-iniciar-sesion-ver-tuits-1268836'>Ahora Twitter te obliga a iniciar sesión para ver los tuits</a></h4>
-    <a href='https://computerhoy.com/apps/ahora-twitter-te-obliga-iniciar-sesion-ver-tuits-1268836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/como-borrar-eliminar-cuenta-twitter-2995084.jpg?tf=1200x' alt='Ahora Twitter te obliga a iniciar sesión para ver los tuits' />
+    <h4><a href='https://computerhoy.com/life/bill-gates-tiene-claro-serie-tienes-ver-verano-1268864'>Bill Gates lo tiene claro: esta serie es la que tienes que ver este verano</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-tiene-claro-serie-tienes-ver-verano-1268864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='Bill Gates lo tiene claro: esta serie es la que tienes que ver este verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-alternativas-canva-hacer-grandes-disenos-1248270'>Las mejores alternativas a Canva para hacer grandes diseños</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-alternativas-canva-hacer-grandes-disenos-1248270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ordenador-software-diseno-3038332.jpg?tf=1200x' alt='Las mejores alternativas a Canva para hacer grandes diseños' />
+    <h4><a href='https://computerhoy.com/motor/truco-japones-bajar-temperatura-coche-segundos-1263434'>¡Funciona! Las redes alucinan con el truco japonés para bajar la temperatura del coche en segundos</a></h4>
+    <a href='https://computerhoy.com/motor/truco-japones-bajar-temperatura-coche-segundos-1263434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bajar-temperatura-coche-3063278.jpg?tf=1200x' alt='¡Funciona! Las redes alucinan con el truco japonés para bajar la temperatura del coche en segundos' />
     </a>
 </div>
 
