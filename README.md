@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-pelicula-filtraron-internet-antes-estreno-1267430'>7 películas que se filtraron por Internet antes de su estreno</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-pelicula-filtraron-internet-antes-estreno-1267430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/vengadores-endgame-3021340.jpg?tf=1200x' alt='7 películas que se filtraron por Internet antes de su estreno' />
+    <h4><a href='https://computerhoy.com/motor/tesla-record-coches-fabricados-vendidos-segundo-trimestre-2023-1269188'>Al fin una buena noticia para Elon Musk: Tesla vuelve a batir el récord de coches fabricados y vendidos</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-record-coches-fabricados-vendidos-segundo-trimestre-2023-1269188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tesla-2829377.jpg?tf=1200x' alt='Al fin una buena noticia para Elon Musk: Tesla vuelve a batir el récord de coches fabricados y vendidos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/xiaomi-fin-soporte-10-moviles-redmi-poco-1269176'>Xiaomi deja de actualizar estos 10 móviles, alguno con solo 3 años de antigüedad: comprueba si está el tuyo </a></h4>
-    <a href='https://computerhoy.com/moviles/xiaomi-fin-soporte-10-moviles-redmi-poco-1269176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-9-2595671.jpg?tf=1200x' alt='Xiaomi deja de actualizar estos 10 móviles, alguno con solo 3 años de antigüedad: comprueba si está el tuyo ' />
+    <h4><a href='https://computerhoy.com/espacio/rover-perseverance-ha-encontrado-donut-marte-1269184'>El rover Perseverance ha encontrado un "donut" en Marte, y los científicos intentan adivinar qué es</a></h4>
+    <a href='https://computerhoy.com/espacio/rover-perseverance-ha-encontrado-donut-marte-1269184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/rover-perseverance-ha-encontrado-donut-marte-cientificos-intentan-adivinar-3072750.jpg?tf=1200x' alt='El rover Perseverance ha encontrado un "donut" en Marte, y los científicos intentan adivinar qué es' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quien-me-llama-webs-saber-quien-pertenece-numero-telefono-1255144'>¿Recibes llamadas de números desconocidos? Así puedes saber quién te está llamando</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quien-me-llama-webs-saber-quien-pertenece-numero-telefono-1255144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/llamadas-spam-918286085-2738039.jpg?tf=1200x' alt='¿Recibes llamadas de números desconocidos? Así puedes saber quién te está llamando' />
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377'>Mejores secadoras de ropa pequeñas que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mejores-secadoras-ropa-pequenas-puedes-comprar-3071990.jpg?tf=1200x' alt='Mejores secadoras de ropa pequeñas que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los mejores móviles baratos de Samsung que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-samsung-galaxy-m33-5g-2701681.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Samsung que puedes comprar' />
+    <h4><a href='https://computerhoy.com/pc/asus-tarjeta-grafica-slots-ssd-m2-integrados-1269178'>ASUS presenta una tarjeta gráfica con slots SSD M.2 integrados</a></h4>
+    <a href='https://computerhoy.com/pc/asus-tarjeta-grafica-slots-ssd-m2-integrados-1269178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/tarjeta-grafica-asus-slot-integrado-3072724.jpg?tf=1200x' alt='ASUS presenta una tarjeta gráfica con slots SSD M.2 integrados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ifixit-despiece-10-consolas-clasicas-nes-ps2-xbox-1269166'>iFixit le hace la autopsia a 10 consolas clásicas, desde la NES a PS2 o la primera Xbox, ahora puedes ver cómo son por dentro </a></h4>
-    <a href='https://computerhoy.com/gaming/ifixit-despiece-10-consolas-clasicas-nes-ps2-xbox-1269166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ifixit-hace-autopsia-10-consola-clasicas-nes-ps2-primera-xbox-ahora-puedes-ver-como-son-dentro-3072702.jpg?tf=1200x' alt='iFixit le hace la autopsia a 10 consolas clásicas, desde la NES a PS2 o la primera Xbox, ahora puedes ver cómo son por dentro ' />
+    <h4><a href='https://computerhoy.com/gaming/son-fps-son-tan-importantes-videojuegos-1268378'>FPS (fotogramas por segundo): cómo funcionan, para qué sirven y por que son tan importantes para jugar</a></h4>
+    <a href='https://computerhoy.com/gaming/son-fps-son-tan-importantes-videojuegos-1268378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/fps-como-fucionan-3071700.jpg?tf=1200x' alt='FPS (fotogramas por segundo): cómo funcionan, para qué sirven y por que son tan importantes para jugar' />
     </a>
 </div>
 
