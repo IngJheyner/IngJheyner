@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/avance-mejorara-capacidad-detectar-basura-espacial-alrededor-tierra-1269140'>Este avance mejorará nuestra capacidad para detectar basura espacial alrededor de la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/avance-mejorara-capacidad-detectar-basura-espacial-alrededor-tierra-1269140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/odin-space-3072688.jpg?tf=1200x' alt='Este avance mejorará nuestra capacidad para detectar basura espacial alrededor de la Tierra' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-app-bizum-enviar-dinero-1232232'>Cómo instalar la app de Bizum y enviar dinero</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-app-bizum-enviar-dinero-1232232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/bizum-2498501.jpg?tf=1200x' alt='Cómo instalar la app de Bizum y enviar dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/asi-suenan-dunas-cantan-raro-fenomeno-desierto-1267728'>Así suenan las dunas que cantan, un raro fenómeno del desierto</a></h4>
-    <a href='https://computerhoy.com/life/asi-suenan-dunas-cantan-raro-fenomeno-desierto-1267728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/suenan-dunas-cantan-raro-fenomeno-desierto-3070504.jpg?tf=1200x' alt='Así suenan las dunas que cantan, un raro fenómeno del desierto' />
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-android-atasca-mientras-actualiza-1245730'>Qué hacer si tu Android se atasca mientras se actualiza</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-android-atasca-mientras-actualiza-1245730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/actualizar-android-2960400.jpg?tf=1200x' alt='Qué hacer si tu Android se atasca mientras se actualiza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-comprimir-cualquier-video-perder-calidad-1267294'>Cómo comprimir cualquier vídeo sin perder calidad: 6 formas de conseguirlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-comprimir-cualquier-video-perder-calidad-1267294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/comprimir-video-3069522.jpg?tf=1200x' alt='Cómo comprimir cualquier vídeo sin perder calidad: 6 formas de conseguirlo' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-muestra-como-ven-emisiones-carbono-todo-planeta-1269148'>La NASA muestra cómo se ven las emisiones de carbono por todo nuestro planeta</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-muestra-como-ven-emisiones-carbono-todo-planeta-1269148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/video-nasa-muestra-como-ven-emisiones-carbono-todo-planeta-3072696.jpg?tf=1200x' alt='La NASA muestra cómo se ven las emisiones de carbono por todo nuestro planeta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/chocolate-posiciona-como-alimento-esencial-vencer-temible-jet-lag-viajes-avion-1268898'>El chocolate se posiciona como el alimento esencial para vencer al temible jet lag en tus viajes de avión</a></h4>
-    <a href='https://computerhoy.com/life/chocolate-posiciona-como-alimento-esencial-vencer-temible-jet-lag-viajes-avion-1268898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chocolate-3072376.jpg?tf=1200x' alt='El chocolate se posiciona como el alimento esencial para vencer al temible jet lag en tus viajes de avión' />
+    <h4><a href='https://computerhoy.com/apps/limita-cantidad-tuits-puedes-leer-dia-twitter-estos-son-limites-1269146'>Se limita la cantidad de tuits que puedes leer al día en Twitter y estos son los límites</a></h4>
+    <a href='https://computerhoy.com/apps/limita-cantidad-tuits-puedes-leer-dia-twitter-estos-son-limites-1269146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='Se limita la cantidad de tuits que puedes leer al día en Twitter y estos son los límites' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/38-codigos-moviles-xiaomi-acceder-menus-secretos-1260020'>Desbloquea el poder oculto de tu Xiaomi: 38 códigos para acceder a funciones y menús secretos en MIUI</a></h4>
-    <a href='https://computerhoy.com/moviles/38-codigos-moviles-xiaomi-acceder-menus-secretos-1260020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-11-ultra-2899368.jpg?tf=1200x' alt='Desbloquea el poder oculto de tu Xiaomi: 38 códigos para acceder a funciones y menús secretos en MIUI' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-barco-autonomo-capaz-mapear-todo-terreno-submarino-1269142'>Crean un barco autónomo capaz de mapear todo el terreno submarino</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-barco-autonomo-capaz-mapear-todo-terreno-submarino-1269142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/crean-barco-autonomo-capaz-mapear-todo-terreno-submarino-3072692.jpg?tf=1200x' alt='Crean un barco autónomo capaz de mapear todo el terreno submarino' />
     </a>
 </div>
 
