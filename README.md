@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/avance-mejorara-capacidad-detectar-basura-espacial-alrededor-tierra-1269140'>Este avance mejorará nuestra capacidad para detectar basura espacial alrededor de la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/avance-mejorara-capacidad-detectar-basura-espacial-alrededor-tierra-1269140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/odin-space-3072688.jpg?tf=1200x' alt='Este avance mejorará nuestra capacidad para detectar basura espacial alrededor de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/asi-suenan-dunas-cantan-raro-fenomeno-desierto-1267728'>Así suenan las dunas que cantan, un raro fenómeno del desierto</a></h4>
+    <a href='https://computerhoy.com/life/asi-suenan-dunas-cantan-raro-fenomeno-desierto-1267728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/suenan-dunas-cantan-raro-fenomeno-desierto-3070504.jpg?tf=1200x' alt='Así suenan las dunas que cantan, un raro fenómeno del desierto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-comprimir-cualquier-video-perder-calidad-1267294'>Cómo comprimir cualquier vídeo sin perder calidad: 6 formas de conseguirlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-comprimir-cualquier-video-perder-calidad-1267294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/comprimir-video-3069522.jpg?tf=1200x' alt='Cómo comprimir cualquier vídeo sin perder calidad: 6 formas de conseguirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/chocolate-posiciona-como-alimento-esencial-vencer-temible-jet-lag-viajes-avion-1268898'>El chocolate se posiciona como el alimento esencial para vencer al temible jet lag en tus viajes de avión</a></h4>
     <a href='https://computerhoy.com/life/chocolate-posiciona-como-alimento-esencial-vencer-temible-jet-lag-viajes-avion-1268898' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chocolate-3072376.jpg?tf=1200x' alt='El chocolate se posiciona como el alimento esencial para vencer al temible jet lag en tus viajes de avión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/38-codigos-moviles-xiaomi-acceder-menus-secretos-1260020'>Desbloquea el poder oculto de tu Xiaomi: 38 códigos para acceder a funciones y menús secretos en MIUI</a></h4>
     <a href='https://computerhoy.com/moviles/38-codigos-moviles-xiaomi-acceder-menus-secretos-1260020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/xiaomi-11-ultra-2899368.jpg?tf=1200x' alt='Desbloquea el poder oculto de tu Xiaomi: 38 códigos para acceder a funciones y menús secretos en MIUI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/truco-saber-cuantos-anos-tiene-coche-clave-ventanillas-1267488'>El truco para saber cuántos años tiene un coche, la clave está en las ventanillas</a></h4>
-    <a href='https://computerhoy.com/motor/truco-saber-cuantos-anos-tiene-coche-clave-ventanillas-1267488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ventanilla-coche-3071056.jpg?tf=1200x' alt='El truco para saber cuántos años tiene un coche, la clave está en las ventanillas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/elon-musk-mark-zuckerberg-pelea-abraham-lincoln-campeon-lucha-libre-1267198'>Elon Musk y Mark Zuckerberg no son los primeros famosos que se dan de tortas: Abraham Lincoln está en el Salón de la Fama de la lucha libre</a></h4>
-    <a href='https://computerhoy.com/life/elon-musk-mark-zuckerberg-pelea-abraham-lincoln-campeon-lucha-libre-1267198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/elon-musk-mark-zuckerberg-no-son-primeros-famosos-dan-tortas-abraham-lincoln-salon-fama-lucha-libre-3069448.jpg?tf=1200x' alt='Elon Musk y Mark Zuckerberg no son los primeros famosos que se dan de tortas: Abraham Lincoln está en el Salón de la Fama de la lucha libre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/twitch-plataforma-estrella-streaming-creadores-contenido-1260586'>¿Qué es Twitch, la plataforma estrella de 'streaming' para gamers y creadores de contenido?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/twitch-plataforma-estrella-streaming-creadores-contenido-1260586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/verticalimage1688034866804-3070782.jpg?tf=1200x' alt='¿Qué es Twitch, la plataforma estrella de 'streaming' para gamers y creadores de contenido?' />
     </a>
 </div>
 
