@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-app-bizum-enviar-dinero-1232232'>Cómo instalar la app de Bizum y enviar dinero</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-app-bizum-enviar-dinero-1232232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/bizum-2498501.jpg?tf=1200x' alt='Cómo instalar la app de Bizum y enviar dinero' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-pelicula-filtraron-internet-antes-estreno-1267430'>7 películas que se filtraron por Internet antes de su estreno</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-pelicula-filtraron-internet-antes-estreno-1267430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/vengadores-endgame-3021340.jpg?tf=1200x' alt='7 películas que se filtraron por Internet antes de su estreno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacer-android-atasca-mientras-actualiza-1245730'>Qué hacer si tu Android se atasca mientras se actualiza</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacer-android-atasca-mientras-actualiza-1245730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/actualizar-android-2960400.jpg?tf=1200x' alt='Qué hacer si tu Android se atasca mientras se actualiza' />
+    <h4><a href='https://computerhoy.com/moviles/xiaomi-fin-soporte-10-moviles-redmi-poco-1269176'>Xiaomi deja de actualizar estos 10 móviles, alguno con solo 3 años de antigüedad: comprueba si está el tuyo </a></h4>
+    <a href='https://computerhoy.com/moviles/xiaomi-fin-soporte-10-moviles-redmi-poco-1269176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-redmi-note-9-2595671.jpg?tf=1200x' alt='Xiaomi deja de actualizar estos 10 móviles, alguno con solo 3 años de antigüedad: comprueba si está el tuyo ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-muestra-como-ven-emisiones-carbono-todo-planeta-1269148'>La NASA muestra cómo se ven las emisiones de carbono por todo nuestro planeta</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-muestra-como-ven-emisiones-carbono-todo-planeta-1269148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/video-nasa-muestra-como-ven-emisiones-carbono-todo-planeta-3072696.jpg?tf=1200x' alt='La NASA muestra cómo se ven las emisiones de carbono por todo nuestro planeta' />
+    <h4><a href='https://computerhoy.com/tecnologia/quien-me-llama-webs-saber-quien-pertenece-numero-telefono-1255144'>¿Recibes llamadas de números desconocidos? Así puedes saber quién te está llamando</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quien-me-llama-webs-saber-quien-pertenece-numero-telefono-1255144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/llamadas-spam-918286085-2738039.jpg?tf=1200x' alt='¿Recibes llamadas de números desconocidos? Así puedes saber quién te está llamando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/limita-cantidad-tuits-puedes-leer-dia-twitter-estos-son-limites-1269146'>Se limita la cantidad de tuits que puedes leer al día en Twitter y estos son los límites</a></h4>
-    <a href='https://computerhoy.com/apps/limita-cantidad-tuits-puedes-leer-dia-twitter-estos-son-limites-1269146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-2903170.jpg?tf=1200x' alt='Se limita la cantidad de tuits que puedes leer al día en Twitter y estos son los límites' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los mejores móviles baratos de Samsung que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-samsung-galaxy-m33-5g-2701681.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Samsung que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-barco-autonomo-capaz-mapear-todo-terreno-submarino-1269142'>Crean un barco autónomo capaz de mapear todo el terreno submarino</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-barco-autonomo-capaz-mapear-todo-terreno-submarino-1269142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/crean-barco-autonomo-capaz-mapear-todo-terreno-submarino-3072692.jpg?tf=1200x' alt='Crean un barco autónomo capaz de mapear todo el terreno submarino' />
+    <h4><a href='https://computerhoy.com/gaming/ifixit-despiece-10-consolas-clasicas-nes-ps2-xbox-1269166'>iFixit le hace la autopsia a 10 consolas clásicas, desde la NES a PS2 o la primera Xbox, ahora puedes ver cómo son por dentro </a></h4>
+    <a href='https://computerhoy.com/gaming/ifixit-despiece-10-consolas-clasicas-nes-ps2-xbox-1269166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ifixit-hace-autopsia-10-consola-clasicas-nes-ps2-primera-xbox-ahora-puedes-ver-como-son-dentro-3072702.jpg?tf=1200x' alt='iFixit le hace la autopsia a 10 consolas clásicas, desde la NES a PS2 o la primera Xbox, ahora puedes ver cómo son por dentro ' />
     </a>
 </div>
 
