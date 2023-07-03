@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/airpods-pro-usb-c-monitor-inteligente-estos-son-planes-apple-1269554'>AirPods Pro con USB-C y un monitor inteligente: estos son los planes de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/airpods-pro-usb-c-monitor-inteligente-estos-son-planes-apple-1269554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/auriculares-inalambricos-blancos-apple-airpods-pro-2954998.jpg?tf=1200x' alt='AirPods Pro con USB-C y un monitor inteligente: estos son los planes de Apple' />
+    <h4><a href='https://computerhoy.com/windows/8-funciones-geniales-llegaran-windows-11-muy-pronto-1269606'>8 funciones geniales que llegarán a Windows 11 muy pronto</a></h4>
+    <a href='https://computerhoy.com/windows/8-funciones-geniales-llegaran-windows-11-muy-pronto-1269606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-11-3049808.jpg?tf=1200x' alt='8 funciones geniales que llegarán a Windows 11 muy pronto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/transferir-chats-whatsapp-movil-otro-necesidad-google-drive-posible-1269542'>Transferir los chats de WhatsApp de un móvil a otro sin necesidad de Google Drive es posible</a></h4>
-    <a href='https://computerhoy.com/apps/transferir-chats-whatsapp-movil-otro-necesidad-google-drive-posible-1269542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/whatsapp-3072274.jpg?tf=1200x' alt='Transferir los chats de WhatsApp de un móvil a otro sin necesidad de Google Drive es posible' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-peores-lugares-espana-ir-vacaciones-verano-chatgpt-1264920'>Los mejores y peores lugares de España para ir de vacaciones, según ChatGPT: “playas llenas de abuelos en bañadores ajustados”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-peores-lugares-espana-ir-vacaciones-verano-chatgpt-1264920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-opina-mejores-peores-lugares-espana-ir-vacaciones-verano-3066034.jpg?tf=1200x' alt='Los mejores y peores lugares de España para ir de vacaciones, según ChatGPT: “playas llenas de abuelos en bañadores ajustados”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ultimo-lanzamiento-microsoft-pretende-cambiar-forma-usas-pc-1269468'>Con su último lanzamiento Microsoft pretende cambiar la forma en la que usas tu PC</a></h4>
-    <a href='https://computerhoy.com/pc/ultimo-lanzamiento-microsoft-pretende-cambiar-forma-usas-pc-1269468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/microsoft-anuncia-copiloto-windows-integra-ia-tipo-chatgpt-windows-11-bing-propio-chatgpt-3040366.jpg?tf=1200x' alt='Con su último lanzamiento Microsoft pretende cambiar la forma en la que usas tu PC' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-4k-razon-podrias-no-estar-aprovechando-todo-potencial-1267494'>Netflix en 4K: la razón por la que podrías no estar aprovechando todo su potencial</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-4k-razon-podrias-no-estar-aprovechando-todo-potencial-1267494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/netflix-3013734.jpg?tf=1200x' alt='Netflix en 4K: la razón por la que podrías no estar aprovechando todo su potencial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/maquina-definitiva-dyson-100-euros-barata-purificador-ventilador-calefactor-1268366'>La máquina definitiva de Dyson es 100 euros más barata: es purificador, ventilador y calefactor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/maquina-definitiva-dyson-100-euros-barata-purificador-ventilador-calefactor-1268366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dyson-purifier-hotcool-autoreact-hp7a-3071662.jpg?tf=1200x' alt='La máquina definitiva de Dyson es 100 euros más barata: es purificador, ventilador y calefactor' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ministerio-interior-avisa-cuidado-email-aprovecha-elecciones-robar-datos-1269584'>El Ministerio del Interior avisa: cuidado con este email que aprovecha las elecciones para robar tus datos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ministerio-interior-avisa-cuidado-email-aprovecha-elecciones-robar-datos-1269584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elecciones-3034516.jpg?tf=1200x' alt='El Ministerio del Interior avisa: cuidado con este email que aprovecha las elecciones para robar tus datos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/clippy-regresa-integrando-chatgpt-puedas-utilizarlo-windows-11-1269466'>Clippy regresa integrando ChatGPT para que puedas utilizarlo en Windows 11</a></h4>
-    <a href='https://computerhoy.com/pc/clippy-regresa-integrando-chatgpt-puedas-utilizarlo-windows-11-1269466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/clippy-regresa-integrando-chatgpt-puedas-utilizarlo-windows-11-3073096.jpg?tf=1200x' alt='Clippy regresa integrando ChatGPT para que puedas utilizarlo en Windows 11' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-libros-gratis-amazon-kindle-1224102'>Cómo descargar libros gratis para Amazon Kindle</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-libros-gratis-amazon-kindle-1224102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-kindle-2022-2813017.jpg?tf=1200x' alt='Cómo descargar libros gratis para Amazon Kindle' />
     </a>
 </div>
 
