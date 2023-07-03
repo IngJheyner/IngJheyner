@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/airpods-pro-usb-c-monitor-inteligente-estos-son-planes-apple-1269554'>AirPods Pro con USB-C y un monitor inteligente: estos son los planes de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/airpods-pro-usb-c-monitor-inteligente-estos-son-planes-apple-1269554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/auriculares-inalambricos-blancos-apple-airpods-pro-2954998.jpg?tf=1200x' alt='AirPods Pro con USB-C y un monitor inteligente: estos son los planes de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/transferir-chats-whatsapp-movil-otro-necesidad-google-drive-posible-1269542'>Transferir los chats de WhatsApp de un móvil a otro sin necesidad de Google Drive es posible</a></h4>
+    <a href='https://computerhoy.com/apps/transferir-chats-whatsapp-movil-otro-necesidad-google-drive-posible-1269542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/whatsapp-3072274.jpg?tf=1200x' alt='Transferir los chats de WhatsApp de un móvil a otro sin necesidad de Google Drive es posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/ultimo-lanzamiento-microsoft-pretende-cambiar-forma-usas-pc-1269468'>Con su último lanzamiento Microsoft pretende cambiar la forma en la que usas tu PC</a></h4>
+    <a href='https://computerhoy.com/pc/ultimo-lanzamiento-microsoft-pretende-cambiar-forma-usas-pc-1269468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/microsoft-anuncia-copiloto-windows-integra-ia-tipo-chatgpt-windows-11-bing-propio-chatgpt-3040366.jpg?tf=1200x' alt='Con su último lanzamiento Microsoft pretende cambiar la forma en la que usas tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/maquina-definitiva-dyson-100-euros-barata-purificador-ventilador-calefactor-1268366'>La máquina definitiva de Dyson es 100 euros más barata: es purificador, ventilador y calefactor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/maquina-definitiva-dyson-100-euros-barata-purificador-ventilador-calefactor-1268366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dyson-purifier-hotcool-autoreact-hp7a-3071662.jpg?tf=1200x' alt='La máquina definitiva de Dyson es 100 euros más barata: es purificador, ventilador y calefactor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/clippy-regresa-integrando-chatgpt-puedas-utilizarlo-windows-11-1269466'>Clippy regresa integrando ChatGPT para que puedas utilizarlo en Windows 11</a></h4>
     <a href='https://computerhoy.com/pc/clippy-regresa-integrando-chatgpt-puedas-utilizarlo-windows-11-1269466' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/clippy-regresa-integrando-chatgpt-puedas-utilizarlo-windows-11-3073096.jpg?tf=1200x' alt='Clippy regresa integrando ChatGPT para que puedas utilizarlo en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/volvera-touch-id-iphone-15-todo-sabemos-iphone-apple-1269404'>¿Volverá el Touch ID con el iPhone 15? Todo lo que sabemos sobre los iPhone de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/volvera-touch-id-iphone-15-todo-sabemos-iphone-apple-1269404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/touch-id-iphone-2020-1954511.jpg?tf=1200x' alt='¿Volverá el Touch ID con el iPhone 15? Todo lo que sabemos sobre los iPhone de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/moviles-snapdragon-8-gen-2-1208104'>Estos son los mejores móviles con Snapdragon 8 Gen 2, uno de los procesadores más potentes del mundo</a></h4>
-    <a href='https://computerhoy.com/mejores/moviles-snapdragon-8-gen-2-1208104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-13-xiaomi-13-pro-analisis-opinion-2985154.jpg?tf=1200x' alt='Estos son los mejores móviles con Snapdragon 8 Gen 2, uno de los procesadores más potentes del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-99-ya-oficial-como-actualizar-version-probar-novedades-1269362'>Android Auto 9.9 ya es oficial: cómo actualizar a esta versión y probar sus novedades</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-99-ya-oficial-como-actualizar-version-probar-novedades-1269362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922220.jpg?tf=1200x' alt='Android Auto 9.9 ya es oficial: cómo actualizar a esta versión y probar sus novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/formas-patrones-colores-viaje-visual-traves-banderas-mundo-1268792'>Formas, patrones y colores: el significado de las banderas de todo el mundo</a></h4>
-    <a href='https://computerhoy.com/internet/formas-patrones-colores-viaje-visual-traves-banderas-mundo-1268792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mapa-paises-banderas-3072722.jpg?tf=1200x' alt='Formas, patrones y colores: el significado de las banderas de todo el mundo' />
     </a>
 </div>
 
