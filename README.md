@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/8-funciones-geniales-llegaran-windows-11-muy-pronto-1269606'>8 funciones geniales que llegarán a Windows 11 muy pronto</a></h4>
-    <a href='https://computerhoy.com/windows/8-funciones-geniales-llegaran-windows-11-muy-pronto-1269606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-11-3049808.jpg?tf=1200x' alt='8 funciones geniales que llegarán a Windows 11 muy pronto' />
+    <h4><a href='https://computerhoy.com/moviles/movistar-lanza-5g-ventajas-precio-quienes-pueden-utilizarlo-1269638'>Movistar lanza 5G+: qué es, ventajas, precio y quiénes pueden utilizarlo</a></h4>
+    <a href='https://computerhoy.com/moviles/movistar-lanza-5g-ventajas-precio-quienes-pueden-utilizarlo-1269638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redes-5g-2984776.jpg?tf=1200x' alt='Movistar lanza 5G+: qué es, ventajas, precio y quiénes pueden utilizarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-peores-lugares-espana-ir-vacaciones-verano-chatgpt-1264920'>Los mejores y peores lugares de España para ir de vacaciones, según ChatGPT: “playas llenas de abuelos en bañadores ajustados”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-peores-lugares-espana-ir-vacaciones-verano-chatgpt-1264920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-opina-mejores-peores-lugares-espana-ir-vacaciones-verano-3066034.jpg?tf=1200x' alt='Los mejores y peores lugares de España para ir de vacaciones, según ChatGPT: “playas llenas de abuelos en bañadores ajustados”' />
+    <h4><a href='https://computerhoy.com/life/euthanasia-coaster-aterradora-montana-rusa-disenada-matar-pasajeros-1264824'>Euthanasia Coaster: la aterradora montaña rusa diseñada para matar a sus pasajeros</a></h4>
+    <a href='https://computerhoy.com/life/euthanasia-coaster-aterradora-montana-rusa-disenada-matar-pasajeros-1264824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/montana-rusa-3073370.jpg?tf=1200x' alt='Euthanasia Coaster: la aterradora montaña rusa diseñada para matar a sus pasajeros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-4k-razon-podrias-no-estar-aprovechando-todo-potencial-1267494'>Netflix en 4K: la razón por la que podrías no estar aprovechando todo su potencial</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-4k-razon-podrias-no-estar-aprovechando-todo-potencial-1267494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/netflix-3013734.jpg?tf=1200x' alt='Netflix en 4K: la razón por la que podrías no estar aprovechando todo su potencial' />
+    <h4><a href='https://computerhoy.com/life/padre-elon-musk-describe-como-era-magnate-infancia-1269622'>El padre de Elon Musk desvela cómo era en su infancia: pasión por ganar y enamorado de los juegos de magia</a></h4>
+    <a href='https://computerhoy.com/life/padre-elon-musk-describe-como-era-magnate-infancia-1269622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-2978334.jpg?tf=1200x' alt='El padre de Elon Musk desvela cómo era en su infancia: pasión por ganar y enamorado de los juegos de magia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ministerio-interior-avisa-cuidado-email-aprovecha-elecciones-robar-datos-1269584'>El Ministerio del Interior avisa: cuidado con este email que aprovecha las elecciones para robar tus datos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ministerio-interior-avisa-cuidado-email-aprovecha-elecciones-robar-datos-1269584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elecciones-3034516.jpg?tf=1200x' alt='El Ministerio del Interior avisa: cuidado con este email que aprovecha las elecciones para robar tus datos' />
+    <h4><a href='https://computerhoy.com/google/14-funciones-imprescindibles-google-maps-debes-probar-ahora-mismo-1258314'>14 funciones imprescindibles de Google Maps que debes probar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/google/14-funciones-imprescindibles-google-maps-debes-probar-ahora-mismo-1258314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-maps-2842323.jpg?tf=1200x' alt='14 funciones imprescindibles de Google Maps que debes probar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-libros-gratis-amazon-kindle-1224102'>Cómo descargar libros gratis para Amazon Kindle</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-libros-gratis-amazon-kindle-1224102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-kindle-2022-2813017.jpg?tf=1200x' alt='Cómo descargar libros gratis para Amazon Kindle' />
+    <h4><a href='https://computerhoy.com/espacio/cuanto-tiempo-tarda-llegar-luna-1265090'>¿Cuánto tiempo se tarda en llegar a la Luna?</a></h4>
+    <a href='https://computerhoy.com/espacio/cuanto-tiempo-tarda-llegar-luna-1265090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nasa-localiza-impacto-cohete-luna-nadie-tierra-reconoce-2742943.jpg?tf=1200x' alt='¿Cuánto tiempo se tarda en llegar a la Luna?' />
     </a>
 </div>
 
