@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/movistar-lanza-5g-ventajas-precio-quienes-pueden-utilizarlo-1269638'>Movistar lanza 5G+: qué es, ventajas, precio y quiénes pueden utilizarlo</a></h4>
-    <a href='https://computerhoy.com/moviles/movistar-lanza-5g-ventajas-precio-quienes-pueden-utilizarlo-1269638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redes-5g-2984776.jpg?tf=1200x' alt='Movistar lanza 5G+: qué es, ventajas, precio y quiénes pueden utilizarlo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/indiana-jones-dial-destino-fracaso-primeros-dias-taquilla-1269710'>Indiana Jones y el dial del destino fracasa en su estreno en taquilla, no ha sabido enganchar al público joven</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/indiana-jones-dial-destino-fracaso-primeros-dias-taquilla-1269710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/indiana-jones-dial-destino-3062030.jpg?tf=1200x' alt='Indiana Jones y el dial del destino fracasa en su estreno en taquilla, no ha sabido enganchar al público joven' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/euthanasia-coaster-aterradora-montana-rusa-disenada-matar-pasajeros-1264824'>Euthanasia Coaster: la aterradora montaña rusa diseñada para matar a sus pasajeros</a></h4>
-    <a href='https://computerhoy.com/life/euthanasia-coaster-aterradora-montana-rusa-disenada-matar-pasajeros-1264824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/montana-rusa-3073370.jpg?tf=1200x' alt='Euthanasia Coaster: la aterradora montaña rusa diseñada para matar a sus pasajeros' />
+    <h4><a href='https://computerhoy.com/apple/apple-cierra-my-photo-stream-mis-fotos-streaming-1269696'>Apple cerrará My Photo Stream: así puedes salvar tus fotos y vídeos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-cierra-my-photo-stream-mis-fotos-streaming-1269696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/my-photo-stream-3073594.jpg?tf=1200x' alt='Apple cerrará My Photo Stream: así puedes salvar tus fotos y vídeos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/padre-elon-musk-describe-como-era-magnate-infancia-1269622'>El padre de Elon Musk desvela cómo era en su infancia: pasión por ganar y enamorado de los juegos de magia</a></h4>
-    <a href='https://computerhoy.com/life/padre-elon-musk-describe-como-era-magnate-infancia-1269622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-2978334.jpg?tf=1200x' alt='El padre de Elon Musk desvela cómo era en su infancia: pasión por ganar y enamorado de los juegos de magia' />
+    <h4><a href='https://computerhoy.com/mejores/televisores-amazon-fire-tv-1197182'>Televisores con Fire TV como sistema operativo: por qué merecen la pena y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/mejores/televisores-amazon-fire-tv-1197182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/televisores-fire-tv-como-sistema-operativo-merecen-pena-cuales-son-mejores-3072240.jpg?tf=1200x' alt='Televisores con Fire TV como sistema operativo: por qué merecen la pena y cuáles son los mejores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/14-funciones-imprescindibles-google-maps-debes-probar-ahora-mismo-1258314'>14 funciones imprescindibles de Google Maps que debes probar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/google/14-funciones-imprescindibles-google-maps-debes-probar-ahora-mismo-1258314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-maps-2842323.jpg?tf=1200x' alt='14 funciones imprescindibles de Google Maps que debes probar ahora mismo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-recomiendan-todos-expertos-ciberseguridad-1269702'>La regla de los 5 minutos para proteger tu móvil que recomiendan todos los expertos en ciberseguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-recomiendan-todos-expertos-ciberseguridad-1269702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apagar-movil-3073602.jpg?tf=1200x' alt='La regla de los 5 minutos para proteger tu móvil que recomiendan todos los expertos en ciberseguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cuanto-tiempo-tarda-llegar-luna-1265090'>¿Cuánto tiempo se tarda en llegar a la Luna?</a></h4>
-    <a href='https://computerhoy.com/espacio/cuanto-tiempo-tarda-llegar-luna-1265090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nasa-localiza-impacto-cohete-luna-nadie-tierra-reconoce-2742943.jpg?tf=1200x' alt='¿Cuánto tiempo se tarda en llegar a la Luna?' />
+    <h4><a href='https://computerhoy.com/apple/complejidad-apple-vision-pro-hara-no-sea-nada-sencillo-hacerse-ellos-1269700'>La complejidad de los Apple Vision Pro hará que no sea nada sencillo hacerse con ellos</a></h4>
+    <a href='https://computerhoy.com/apple/complejidad-apple-vision-pro-hara-no-sea-nada-sencillo-hacerse-ellos-1269700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051940.jpg?tf=1200x' alt='La complejidad de los Apple Vision Pro hará que no sea nada sencillo hacerse con ellos' />
     </a>
 </div>
 
