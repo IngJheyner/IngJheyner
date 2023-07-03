@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-record-coches-fabricados-vendidos-segundo-trimestre-2023-1269188'>Al fin una buena noticia para Elon Musk: Tesla vuelve a batir el récord de coches fabricados y vendidos</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-record-coches-fabricados-vendidos-segundo-trimestre-2023-1269188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tesla-2829377.jpg?tf=1200x' alt='Al fin una buena noticia para Elon Musk: Tesla vuelve a batir el récord de coches fabricados y vendidos' />
+    <h4><a href='https://computerhoy.com/internet/formas-patrones-colores-viaje-visual-traves-banderas-mundo-1268792'>Formas, patrones y colores: el significado de las banderas de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/internet/formas-patrones-colores-viaje-visual-traves-banderas-mundo-1268792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mapa-paises-banderas-3072722.jpg?tf=1200x' alt='Formas, patrones y colores: el significado de las banderas de todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/rover-perseverance-ha-encontrado-donut-marte-1269184'>El rover Perseverance ha encontrado un "donut" en Marte, y los científicos intentan adivinar qué es</a></h4>
-    <a href='https://computerhoy.com/espacio/rover-perseverance-ha-encontrado-donut-marte-1269184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/rover-perseverance-ha-encontrado-donut-marte-cientificos-intentan-adivinar-3072750.jpg?tf=1200x' alt='El rover Perseverance ha encontrado un "donut" en Marte, y los científicos intentan adivinar qué es' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-baratos-windows-10-793785'>Los mejores Mini PC baratos con Windows que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-mini-pc-baratos-windows-10-793785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/geekom-mini-pc-it8-3051168.jpg?tf=1200x' alt='Los mejores Mini PC baratos con Windows que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377'>Mejores secadoras de ropa pequeñas que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mejores-secadoras-ropa-pequenas-puedes-comprar-3071990.jpg?tf=1200x' alt='Mejores secadoras de ropa pequeñas que puedes comprar' />
+    <h4><a href='https://computerhoy.com/analisis/honor-70-lite-analisis-opinion-1262568'>Honor 70 Lite, análisis y opinión: un móvil con buen rendimiento y batería, pero con dos características mejorables</a></h4>
+    <a href='https://computerhoy.com/analisis/honor-70-lite-analisis-opinion-1262568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/honor-70-lite-3068008.jpg?tf=1200x' alt='Honor 70 Lite, análisis y opinión: un móvil con buen rendimiento y batería, pero con dos características mejorables' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/asus-tarjeta-grafica-slots-ssd-m2-integrados-1269178'>ASUS presenta una tarjeta gráfica con slots SSD M.2 integrados</a></h4>
-    <a href='https://computerhoy.com/pc/asus-tarjeta-grafica-slots-ssd-m2-integrados-1269178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/tarjeta-grafica-asus-slot-integrado-3072724.jpg?tf=1200x' alt='ASUS presenta una tarjeta gráfica con slots SSD M.2 integrados' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029780.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/son-fps-son-tan-importantes-videojuegos-1268378'>FPS (fotogramas por segundo): cómo funcionan, para qué sirven y por que son tan importantes para jugar</a></h4>
-    <a href='https://computerhoy.com/gaming/son-fps-son-tan-importantes-videojuegos-1268378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/fps-como-fucionan-3071700.jpg?tf=1200x' alt='FPS (fotogramas por segundo): cómo funcionan, para qué sirven y por que son tan importantes para jugar' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/6-estafas-habituales-bizum-como-evitarlas-1268794'>Las 6 estafas más habituales por Bizum y cómo evitarlas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/6-estafas-habituales-bizum-como-evitarlas-1268794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bizum-2671393.jpg?tf=1200x' alt='Las 6 estafas más habituales por Bizum y cómo evitarlas' />
     </a>
 </div>
 
