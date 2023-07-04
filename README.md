@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/capacidad-primer-pendrive-historia-te-sorprendera-mucho-1270236'>La capacidad del primer pendrive de la historia te sorprenderá</a></h4>
+    <a href='https://computerhoy.com/tecnologia/capacidad-primer-pendrive-historia-te-sorprendera-mucho-1270236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pendrive-3074452.jpg?tf=1200x' alt='La capacidad del primer pendrive de la historia te sorprenderá' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/increible-pero-funciona-surrealista-truco-aumentar-alcance-mando-coche-1269664'>Increíble, pero funciona: el surrealista truco para aumentar el alcance del mando del coche</a></h4>
+    <a href='https://computerhoy.com/motor/increible-pero-funciona-surrealista-truco-aumentar-alcance-mando-coche-1269664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mando-distancia-coche-3073562.jpg?tf=1200x' alt='Increíble, pero funciona: el surrealista truco para aumentar el alcance del mando del coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/10-funciones-secretas-google-chrome-seguramente-no-estas-utilizando-1255470'>9 funciones secretas de Google Chrome que seguramente no estás utilizando</a></h4>
+    <a href='https://computerhoy.com/internet/10-funciones-secretas-google-chrome-seguramente-no-estas-utilizando-1255470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chrome-efecto-mica-3021520.jpg?tf=1200x' alt='9 funciones secretas de Google Chrome que seguramente no estás utilizando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398'>Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-prime-day-2023-3064760.jpg?tf=1200x' alt='Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-odioso-efecto-telenovela-arruinando-smart-tv-1269684'>Cómo desactivar el odioso efecto de telenovela que está arruinando la imagen de tu Smart TV</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-desactivar-odioso-efecto-telenovela-arruinando-smart-tv-1269684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-3072258.jpg?tf=1200x' alt='Cómo desactivar el odioso efecto de telenovela que está arruinando la imagen de tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/hp-presenta-portatiles-potentes-gamers-series-omen-victus-1270214'>HP presenta portátiles de alto rendimiento para gamers dentro de sus series OMEN y Victus</a></h4>
-    <a href='https://computerhoy.com/pc/hp-presenta-portatiles-potentes-gamers-series-omen-victus-1270214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/gaming-omen-3074436.jpg?tf=1200x' alt='HP presenta portátiles de alto rendimiento para gamers dentro de sus series OMEN y Victus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ambar-gris-raro-vomito-ballena-usa-perfumes-vale-como-oro-1266898'>Ámbar gris, el raro vómito de ballena que se usa en perfumes y vale como el oro</a></h4>
-    <a href='https://computerhoy.com/life/ambar-gris-raro-vomito-ballena-usa-perfumes-vale-como-oro-1266898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/vomito-ballena-ambar-gris-3069162.jpg?tf=1200x' alt='Ámbar gris, el raro vómito de ballena que se usa en perfumes y vale como el oro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-evitar-ps5-encienda-apague-junto-smart-tv-1269706'>Cómo desactivar unas de las funciones más molestas de tu PS5</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-evitar-ps5-encienda-apague-junto-smart-tv-1269706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ps5-2922398.jpg?tf=1200x' alt='Cómo desactivar unas de las funciones más molestas de tu PS5' />
     </a>
 </div>
 
