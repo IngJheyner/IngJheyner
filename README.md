@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/anillo-unico-magic-2-millones-euros-1269934'>Ya han encontrado el Anillo Único, y ofrecen 2 millones de euros por él</a></h4>
+    <a href='https://computerhoy.com/life/anillo-unico-magic-2-millones-euros-1269934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ya-han-encontrado-anillo-unico-ofrecen-2-millones-dolares-3073808.jpg?tf=1200x' alt='Ya han encontrado el Anillo Único, y ofrecen 2 millones de euros por él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/china-limita-ventas-galio-germanio-extranjero-1269714'>China limita las ventas de Galio y Germanio al extranjero, metales clave para fabricar chips</a></h4>
     <a href='https://computerhoy.com/tecnologia/china-limita-ventas-galio-germanio-extranjero-1269714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/china-limita-ventas-galio-germanio-extranjero-minerales-clave-fabricar-chips-3073618.jpg?tf=1200x' alt='China limita las ventas de Galio y Germanio al extranjero, metales clave para fabricar chips' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/televisores-amazon-fire-tv-1197182'>Televisores con Fire TV como sistema operativo: por qué merecen la pena y cuáles son los mejores</a></h4>
     <a href='https://computerhoy.com/mejores/televisores-amazon-fire-tv-1197182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/televisores-fire-tv-como-sistema-operativo-merecen-pena-cuales-son-mejores-3072240.jpg?tf=1200x' alt='Televisores con Fire TV como sistema operativo: por qué merecen la pena y cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-recomiendan-todos-expertos-ciberseguridad-1269702'>La regla de los 5 minutos para proteger tu móvil que recomiendan todos los expertos en ciberseguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-recomiendan-todos-expertos-ciberseguridad-1269702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apagar-movil-3073602.jpg?tf=1200x' alt='La regla de los 5 minutos para proteger tu móvil que recomiendan todos los expertos en ciberseguridad' />
     </a>
 </div>
 
