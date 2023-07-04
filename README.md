@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/capacidad-primer-pendrive-historia-te-sorprendera-mucho-1270236'>La capacidad del primer pendrive de la historia te sorprenderá</a></h4>
-    <a href='https://computerhoy.com/tecnologia/capacidad-primer-pendrive-historia-te-sorprendera-mucho-1270236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pendrive-3074452.jpg?tf=1200x' alt='La capacidad del primer pendrive de la historia te sorprenderá' />
+    <h4><a href='https://computerhoy.com/entretenimiento/la-que-se-avecina-rocio-marin-actriz-sustituira-fallecida-laura-gomez-lacueva-1270288'>La que se avecina desvela a la actriz que sustituirá a la tristemente fallecida Laura Gómez-Lacueva, en el mismo papel</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/la-que-se-avecina-rocio-marin-actriz-sustituira-fallecida-laura-gomez-lacueva-1270288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/avecina-desvela-actriz-sustituira-tristemente-fallecida-laura-gomez-lacueva-mismo-papel-3074588.jpg?tf=1200x' alt='La que se avecina desvela a la actriz que sustituirá a la tristemente fallecida Laura Gómez-Lacueva, en el mismo papel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/increible-pero-funciona-surrealista-truco-aumentar-alcance-mando-coche-1269664'>Increíble, pero funciona: el surrealista truco para aumentar el alcance del mando del coche</a></h4>
-    <a href='https://computerhoy.com/motor/increible-pero-funciona-surrealista-truco-aumentar-alcance-mando-coche-1269664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mando-distancia-coche-3073562.jpg?tf=1200x' alt='Increíble, pero funciona: el surrealista truco para aumentar el alcance del mando del coche' />
+    <h4><a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768'>Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-3072258.jpg?tf=1200x' alt='Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/10-funciones-secretas-google-chrome-seguramente-no-estas-utilizando-1255470'>9 funciones secretas de Google Chrome que seguramente no estás utilizando</a></h4>
-    <a href='https://computerhoy.com/internet/10-funciones-secretas-google-chrome-seguramente-no-estas-utilizando-1255470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chrome-efecto-mica-3021520.jpg?tf=1200x' alt='9 funciones secretas de Google Chrome que seguramente no estás utilizando' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-quiere-anuncios-como-episodios-series-15-partes-1270262'>La última treta de Netflix para que veas sus anuncios: convertirlos en series</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-quiere-anuncios-como-episodios-series-15-partes-1270262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/continua-culebron-netflix-no-atreve-bloquear-cuentas-ofrece-prorroga-2964392.jpg?tf=1200x' alt='La última treta de Netflix para que veas sus anuncios: convertirlos en series' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398'>Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-prime-day-2023-3064760.jpg?tf=1200x' alt='Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar' />
+    <h4><a href='https://computerhoy.com/alimentacion/cerveza-barata-supermercado-cuela-lista-mejores-cervezas-espanolas-1270276'>Una cerveza barata de supermercado se cuela en la lista de las mejores cervezas españolas</a></h4>
+    <a href='https://computerhoy.com/alimentacion/cerveza-barata-supermercado-cuela-lista-mejores-cervezas-espanolas-1270276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/latas-cerveza-3074546.jpg?tf=1200x' alt='Una cerveza barata de supermercado se cuela en la lista de las mejores cervezas españolas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-odioso-efecto-telenovela-arruinando-smart-tv-1269684'>Cómo desactivar el odioso efecto de telenovela que está arruinando la imagen de tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desactivar-odioso-efecto-telenovela-arruinando-smart-tv-1269684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-3072258.jpg?tf=1200x' alt='Cómo desactivar el odioso efecto de telenovela que está arruinando la imagen de tu Smart TV' />
+    <h4><a href='https://computerhoy.com/life/ocho-frases-celebres-bill-gates-exito-laboral-vida-1270252'>8 frases de Bill Gates para alcanzar el éxito</a></h4>
+    <a href='https://computerhoy.com/life/ocho-frases-celebres-bill-gates-exito-laboral-vida-1270252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bill-gates-2919658.jpg?tf=1200x' alt='8 frases de Bill Gates para alcanzar el éxito' />
     </a>
 </div>
 
