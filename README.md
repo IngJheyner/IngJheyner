@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/china-limita-ventas-galio-germanio-extranjero-1269714'>China limita las ventas de Galio y Germanio al extranjero, metales clave para fabricar chips</a></h4>
+    <a href='https://computerhoy.com/tecnologia/china-limita-ventas-galio-germanio-extranjero-1269714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/china-limita-ventas-galio-germanio-extranjero-minerales-clave-fabricar-chips-3073618.jpg?tf=1200x' alt='China limita las ventas de Galio y Germanio al extranjero, metales clave para fabricar chips' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/indiana-jones-dial-destino-fracaso-primeros-dias-taquilla-1269710'>Indiana Jones y el dial del destino fracasa en su estreno en taquilla, no ha sabido enganchar al público joven</a></h4>
     <a href='https://computerhoy.com/entretenimiento/indiana-jones-dial-destino-fracaso-primeros-dias-taquilla-1269710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/indiana-jones-dial-destino-3062030.jpg?tf=1200x' alt='Indiana Jones y el dial del destino fracasa en su estreno en taquilla, no ha sabido enganchar al público joven' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-recomiendan-todos-expertos-ciberseguridad-1269702'>La regla de los 5 minutos para proteger tu móvil que recomiendan todos los expertos en ciberseguridad</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-recomiendan-todos-expertos-ciberseguridad-1269702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apagar-movil-3073602.jpg?tf=1200x' alt='La regla de los 5 minutos para proteger tu móvil que recomiendan todos los expertos en ciberseguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/complejidad-apple-vision-pro-hara-no-sea-nada-sencillo-hacerse-ellos-1269700'>La complejidad de los Apple Vision Pro hará que no sea nada sencillo hacerse con ellos</a></h4>
-    <a href='https://computerhoy.com/apple/complejidad-apple-vision-pro-hara-no-sea-nada-sencillo-hacerse-ellos-1269700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051940.jpg?tf=1200x' alt='La complejidad de los Apple Vision Pro hará que no sea nada sencillo hacerse con ellos' />
     </a>
 </div>
 
