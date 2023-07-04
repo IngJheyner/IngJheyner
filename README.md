@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-nueva-pesadilla-teleoperadores-1270046'>ChatGPT es la nueva pesadilla de los teleoperadores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-nueva-pesadilla-teleoperadores-1270046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3040128.jpg?tf=1200x' alt='ChatGPT es la nueva pesadilla de los teleoperadores' />
+    <h4><a href='https://computerhoy.com/apple/menu-secreto-iphone-desbloquea-funciones-ocultas-casi-nadie-conoce-1269936'>Así puedes acceder al menú secreto del iPhone que desbloquea funciones ocultas que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/apple/menu-secreto-iphone-desbloquea-funciones-ocultas-casi-nadie-conoce-1269936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/menu-secreto-iphone-3073818.jpg?tf=1200x' alt='Así puedes acceder al menú secreto del iPhone que desbloquea funciones ocultas que casi nadie conoce' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/son-oppo-reno-10-oppo-reno-10-pro-5g-primeras-impresiones-1269540'>Oppo Reno 10 5G y Reno 10 Pro 5G: primeras impresiones de 2 móviles a tener en cuenta este año</a></h4>
-    <a href='https://computerhoy.com/moviles/son-oppo-reno-10-oppo-reno-10-pro-5g-primeras-impresiones-1269540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oppo-reno-10-pro-5g-3073456.jpg?tf=1200x' alt='Oppo Reno 10 5G y Reno 10 Pro 5G: primeras impresiones de 2 móviles a tener en cuenta este año' />
+    <h4><a href='https://computerhoy.com/windows/windows-12-imaginan-fans-sera-nueva-version-sistema-operativo-microsoft-1270154'>Windows 12: así imaginan los fans que será la nueva versión del sistema operativo de Microsoft</a></h4>
+    <a href='https://computerhoy.com/windows/windows-12-imaginan-fans-sera-nueva-version-sistema-operativo-microsoft-1270154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-12-imaginan-fans-sera-nueva-version-sistema-operativo-microsoft-3074306.jpg?tf=1200x' alt='Windows 12: así imaginan los fans que será la nueva versión del sistema operativo de Microsoft' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/novedades-oppo-reno-10-reno-10-pro-pad-2-enco-air-3-pro-1268390'>Así son los nuevos Oppo Reno 10 5G y Pro 5G, Oppo Pad 2 y Oppo Enco Air 3 Pro </a></h4>
-    <a href='https://computerhoy.com/moviles/novedades-oppo-reno-10-reno-10-pro-pad-2-enco-air-3-pro-1268390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oppo-reno-10-5g-reno-10-pro-5g-enco-air-3-pro-oppo-pad-2-3071842.jpg?tf=1200x' alt='Así son los nuevos Oppo Reno 10 5G y Pro 5G, Oppo Pad 2 y Oppo Enco Air 3 Pro ' />
+    <h4><a href='https://computerhoy.com/pc/investigadores-chinos-sorprenden-mundo-cpu-ha-disenado-ia-5-horas-1270138'>Investigadores chinos sorprenden al mundo con una CPU que ha diseñado una IA en 5 horas</a></h4>
+    <a href='https://computerhoy.com/pc/investigadores-chinos-sorprenden-mundo-cpu-ha-disenado-ia-5-horas-1270138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cpu-azul-3041294.jpg?tf=1200x' alt='Investigadores chinos sorprenden al mundo con una CPU que ha diseñado una IA en 5 horas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/bombazo-antes-prime-day-ps5-oferta-100eu-descuento-1270024'>Bombazo antes del Prime Day: la PS5 está en oferta con 100€ de descuento</a></h4>
-    <a href='https://computerhoy.com/gaming/bombazo-antes-prime-day-ps5-oferta-100eu-descuento-1270024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/playstation-5-ps5-2963696.jpg?tf=1200x' alt='Bombazo antes del Prime Day: la PS5 está en oferta con 100€ de descuento' />
+    <h4><a href='https://computerhoy.com/apps/threads-ya-listo-quiere-meta-acabar-twitter-1270086'>Threads ya está listo: así quiere Meta acabar con Twitter</a></h4>
+    <a href='https://computerhoy.com/apps/threads-ya-listo-quiere-meta-acabar-twitter-1270086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/threads-ya-listo-quiere-meta-acabar-twitter-3074100.jpg?tf=1200x' alt='Threads ya está listo: así quiere Meta acabar con Twitter' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pesadilla-ssd-windows-11-bug-arreglar-hace-meses-1269994'>La pesadilla de los SSD en Windows 11: un bug sin arreglar desde hace meses</a></h4>
-    <a href='https://computerhoy.com/pc/pesadilla-ssd-windows-11-bug-arreglar-hace-meses-1269994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/unidad-ssd-nvme-m2-instalada-torre-ordenador-2764077.jpg?tf=1200x' alt='La pesadilla de los SSD en Windows 11: un bug sin arreglar desde hace meses' />
+    <h4><a href='https://computerhoy.com/tecnologia/cupon-amazon-gratis-prime-day-puedes-conseguir-15-euros-1269488'>Cupón de Amazon gratis para el Prime Day: así puedes conseguir 15 euros en apenas segundos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cupon-amazon-gratis-prime-day-puedes-conseguir-15-euros-1269488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cupon-tarjeta-amazon-3073164.jpg?tf=1200x' alt='Cupón de Amazon gratis para el Prime Day: así puedes conseguir 15 euros en apenas segundos' />
     </a>
 </div>
 
