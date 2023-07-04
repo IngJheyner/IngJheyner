@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/pesadilla-ssd-windows-11-bug-arreglar-hace-meses-1269994'>La pesadilla de los SSD en Windows 11: un bug sin arreglar desde hace meses</a></h4>
+    <a href='https://computerhoy.com/pc/pesadilla-ssd-windows-11-bug-arreglar-hace-meses-1269994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/unidad-ssd-nvme-m2-instalada-torre-ordenador-2764077.jpg?tf=1200x' alt='La pesadilla de los SSD en Windows 11: un bug sin arreglar desde hace meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/coche-alambres-real-video-1269964'>No es un diseño de ordenador ni realidad aumentada: este coche de alambres es real</a></h4>
+    <a href='https://computerhoy.com/motor/coche-alambres-real-video-1269964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/no-diseno-ordenador-ni-realidad-aumentada-coche-alambres-real-3073830.jpg?tf=1200x' alt='No es un diseño de ordenador ni realidad aumentada: este coche de alambres es real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/cambio-paradigma-industria-musical-walkman-streaming-1237524'>25 aniversario de Computer Hoy: El cambio de paradigma de la industria musical, del cassette al streaming online</a></h4>
     <a href='https://computerhoy.com/audio/cambio-paradigma-industria-musical-walkman-streaming-1237524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/musica-portada-3066040.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: El cambio de paradigma de la industria musical, del cassette al streaming online' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/anillo-unico-magic-2-millones-euros-1269934'>Ya han encontrado el Anillo Único, y ofrecen 2 millones de euros por él</a></h4>
     <a href='https://computerhoy.com/life/anillo-unico-magic-2-millones-euros-1269934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ya-han-encontrado-anillo-unico-ofrecen-2-millones-dolares-3073808.jpg?tf=1200x' alt='Ya han encontrado el Anillo Único, y ofrecen 2 millones de euros por él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/china-limita-ventas-galio-germanio-extranjero-1269714'>China limita las ventas de galio y germanio al extranjero, metales clave para fabricar chips</a></h4>
-    <a href='https://computerhoy.com/tecnologia/china-limita-ventas-galio-germanio-extranjero-1269714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/china-limita-ventas-galio-germanio-extranjero-minerales-clave-fabricar-chips-3073618.jpg?tf=1200x' alt='China limita las ventas de galio y germanio al extranjero, metales clave para fabricar chips' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/indiana-jones-dial-destino-fracaso-primeros-dias-taquilla-1269710'>Indiana Jones y el dial del destino fracasa en su estreno en taquilla, no ha sabido enganchar al público joven</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/indiana-jones-dial-destino-fracaso-primeros-dias-taquilla-1269710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/indiana-jones-dial-destino-3062030.jpg?tf=1200x' alt='Indiana Jones y el dial del destino fracasa en su estreno en taquilla, no ha sabido enganchar al público joven' />
     </a>
 </div>
 
