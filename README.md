@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/cambio-paradigma-industria-musical-walkman-streaming-1237524'>25 aniversario de Computer Hoy: El cambio de paradigma de la industria musical, del cassette al streaming online</a></h4>
+    <a href='https://computerhoy.com/audio/cambio-paradigma-industria-musical-walkman-streaming-1237524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/musica-portada-3066040.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: El cambio de paradigma de la industria musical, del cassette al streaming online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/estados-unidos-misteriosa-arma-meadowlands-ciega-satelites-espia-1269942'>Estados Unidos desvela una misteriosa arma que ciega los satélites espía</a></h4>
+    <a href='https://computerhoy.com/espacio/estados-unidos-misteriosa-arma-meadowlands-ciega-satelites-espia-1269942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estados-unidos-desvela-misteriosa-arma-ciega-satelites-espia-3073820.jpg?tf=1200x' alt='Estados Unidos desvela una misteriosa arma que ciega los satélites espía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/anillo-unico-magic-2-millones-euros-1269934'>Ya han encontrado el Anillo Único, y ofrecen 2 millones de euros por él</a></h4>
     <a href='https://computerhoy.com/life/anillo-unico-magic-2-millones-euros-1269934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ya-han-encontrado-anillo-unico-ofrecen-2-millones-dolares-3073808.jpg?tf=1200x' alt='Ya han encontrado el Anillo Único, y ofrecen 2 millones de euros por él' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/china-limita-ventas-galio-germanio-extranjero-1269714'>China limita las ventas de Galio y Germanio al extranjero, metales clave para fabricar chips</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/china-limita-ventas-galio-germanio-extranjero-1269714'>China limita las ventas de galio y germanio al extranjero, metales clave para fabricar chips</a></h4>
     <a href='https://computerhoy.com/tecnologia/china-limita-ventas-galio-germanio-extranjero-1269714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/china-limita-ventas-galio-germanio-extranjero-minerales-clave-fabricar-chips-3073618.jpg?tf=1200x' alt='China limita las ventas de Galio y Germanio al extranjero, metales clave para fabricar chips' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/china-limita-ventas-galio-germanio-extranjero-minerales-clave-fabricar-chips-3073618.jpg?tf=1200x' alt='China limita las ventas de galio y germanio al extranjero, metales clave para fabricar chips' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/indiana-jones-dial-destino-fracaso-primeros-dias-taquilla-1269710'>Indiana Jones y el dial del destino fracasa en su estreno en taquilla, no ha sabido enganchar al público joven</a></h4>
     <a href='https://computerhoy.com/entretenimiento/indiana-jones-dial-destino-fracaso-primeros-dias-taquilla-1269710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/indiana-jones-dial-destino-3062030.jpg?tf=1200x' alt='Indiana Jones y el dial del destino fracasa en su estreno en taquilla, no ha sabido enganchar al público joven' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-cierra-my-photo-stream-mis-fotos-streaming-1269696'>Apple cerrará My Photo Stream: así puedes salvar tus fotos y vídeos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-cierra-my-photo-stream-mis-fotos-streaming-1269696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/my-photo-stream-3073594.jpg?tf=1200x' alt='Apple cerrará My Photo Stream: así puedes salvar tus fotos y vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/televisores-amazon-fire-tv-1197182'>Televisores con Fire TV como sistema operativo: por qué merecen la pena y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/mejores/televisores-amazon-fire-tv-1197182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/televisores-fire-tv-como-sistema-operativo-merecen-pena-cuales-son-mejores-3072240.jpg?tf=1200x' alt='Televisores con Fire TV como sistema operativo: por qué merecen la pena y cuáles son los mejores' />
     </a>
 </div>
 
