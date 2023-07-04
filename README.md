@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/menu-secreto-iphone-desbloquea-funciones-ocultas-casi-nadie-conoce-1269936'>Así puedes acceder al menú secreto del iPhone que desbloquea funciones ocultas que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/apple/menu-secreto-iphone-desbloquea-funciones-ocultas-casi-nadie-conoce-1269936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/menu-secreto-iphone-3073818.jpg?tf=1200x' alt='Así puedes acceder al menú secreto del iPhone que desbloquea funciones ocultas que casi nadie conoce' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398'>Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-prime-day-2023-3064760.jpg?tf=1200x' alt='Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-12-imaginan-fans-sera-nueva-version-sistema-operativo-microsoft-1270154'>Windows 12: así imaginan los fans que será la nueva versión del sistema operativo de Microsoft</a></h4>
-    <a href='https://computerhoy.com/windows/windows-12-imaginan-fans-sera-nueva-version-sistema-operativo-microsoft-1270154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-12-imaginan-fans-sera-nueva-version-sistema-operativo-microsoft-3074306.jpg?tf=1200x' alt='Windows 12: así imaginan los fans que será la nueva versión del sistema operativo de Microsoft' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-odioso-efecto-telenovela-arruinando-smart-tv-1269684'>Cómo desactivar el odioso efecto de telenovela que está arruinando la imagen de tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desactivar-odioso-efecto-telenovela-arruinando-smart-tv-1269684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-3072258.jpg?tf=1200x' alt='Cómo desactivar el odioso efecto de telenovela que está arruinando la imagen de tu Smart TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/investigadores-chinos-sorprenden-mundo-cpu-ha-disenado-ia-5-horas-1270138'>Investigadores chinos sorprenden al mundo con una CPU que ha diseñado una IA en 5 horas</a></h4>
-    <a href='https://computerhoy.com/pc/investigadores-chinos-sorprenden-mundo-cpu-ha-disenado-ia-5-horas-1270138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cpu-azul-3041294.jpg?tf=1200x' alt='Investigadores chinos sorprenden al mundo con una CPU que ha diseñado una IA en 5 horas' />
+    <h4><a href='https://computerhoy.com/pc/hp-presenta-portatiles-potentes-gamers-series-omen-victus-1270214'>HP presenta portátiles de alto rendimiento para gamers dentro de sus series OMEN y Victus</a></h4>
+    <a href='https://computerhoy.com/pc/hp-presenta-portatiles-potentes-gamers-series-omen-victus-1270214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/gaming-omen-3074436.jpg?tf=1200x' alt='HP presenta portátiles de alto rendimiento para gamers dentro de sus series OMEN y Victus' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/threads-ya-listo-quiere-meta-acabar-twitter-1270086'>Threads ya está listo: así quiere Meta acabar con Twitter</a></h4>
-    <a href='https://computerhoy.com/apps/threads-ya-listo-quiere-meta-acabar-twitter-1270086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/threads-ya-listo-quiere-meta-acabar-twitter-3074100.jpg?tf=1200x' alt='Threads ya está listo: así quiere Meta acabar con Twitter' />
+    <h4><a href='https://computerhoy.com/life/ambar-gris-raro-vomito-ballena-usa-perfumes-vale-como-oro-1266898'>Ámbar gris, el raro vómito de ballena que se usa en perfumes y vale como el oro</a></h4>
+    <a href='https://computerhoy.com/life/ambar-gris-raro-vomito-ballena-usa-perfumes-vale-como-oro-1266898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/vomito-ballena-ambar-gris-3069162.jpg?tf=1200x' alt='Ámbar gris, el raro vómito de ballena que se usa en perfumes y vale como el oro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cupon-amazon-gratis-prime-day-puedes-conseguir-15-euros-1269488'>Cupón de Amazon gratis para el Prime Day: así puedes conseguir 15 euros en apenas segundos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cupon-amazon-gratis-prime-day-puedes-conseguir-15-euros-1269488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cupon-tarjeta-amazon-3073164.jpg?tf=1200x' alt='Cupón de Amazon gratis para el Prime Day: así puedes conseguir 15 euros en apenas segundos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-evitar-ps5-encienda-apague-junto-smart-tv-1269706'>Cómo desactivar unas de las funciones más molestas de tu PS5</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-evitar-ps5-encienda-apague-junto-smart-tv-1269706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ps5-2922398.jpg?tf=1200x' alt='Cómo desactivar unas de las funciones más molestas de tu PS5' />
     </a>
 </div>
 
