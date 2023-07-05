@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/intento-hacerse-rico-chatgpt-100-dolares-ha-terminado-historia-1270540'>Intentó hacerse rico con ChatGPT y 100 dólares y así ha terminado su historia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intento-hacerse-rico-chatgpt-100-dolares-ha-terminado-historia-1270540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/intento-hacerse-rico-chatgpt-100-dolares-ha-terminado-historia-3074998.jpg?tf=1200x' alt='Intentó hacerse rico con ChatGPT y 100 dólares y así ha terminado su historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-usa-tus-datos-entrenamiento-inteligencia-artificial-1270272'>Google ya no se esconde: todo lo que publiques podrá ser utilizado por su inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/google/google-usa-tus-datos-entrenamiento-inteligencia-artificial-1270272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3040128.jpg?tf=1200x' alt='Google ya no se esconde: todo lo que publiques podrá ser utilizado por su inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/robot-emplea-insectos-vivos-como-manos-coger-objetos-1270520'>Este robot emplea insectos vivos como "manos" para coger objetos (vídeo)</a></h4>
     <a href='https://computerhoy.com/tecnologia/robot-emplea-insectos-vivos-como-manos-coger-objetos-1270520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1688530134146-3074888.jpg?tf=1200x' alt='Este robot emplea insectos vivos como "manos" para coger objetos (vídeo)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/apple-mac-studio-m2-max-1264374'>Apple Mac Studio con M2 Max, análisis y opinión: poniendo el 'pro' en profesional y productividad</a></h4>
     <a href='https://computerhoy.com/analisis/apple-mac-studio-m2-max-1264374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mac-studio-2023-3070202.jpg?tf=1200x' alt='Apple Mac Studio con M2 Max, análisis y opinión: poniendo el 'pro' en profesional y productividad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/estrella-betelgeuse-podria-estar-punto-explotar-como-nos-afecta-1270518'>Un estudio afirma que la estrella Betelgeuse está a punto de explotar, ¿cómo nos afecta?</a></h4>
-    <a href='https://computerhoy.com/espacio/estrella-betelgeuse-podria-estar-punto-explotar-como-nos-afecta-1270518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cientifico-afirma-estrella-betelgeuse-punto-explotar-como-nos-afecta-3074876.jpg?tf=1200x' alt='Un estudio afirma que la estrella Betelgeuse está a punto de explotar, ¿cómo nos afecta?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/wimbledon-inteligencia-artificial-comentarista-1270296'>Este año, Wimbledon tiene una inteligencia artificial como comentarista, y ya puedes probarla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/wimbledon-inteligencia-artificial-comentarista-1270296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ano-wimbledon-tendra-inteligencia-artificial-como-comentarista-mano-ibm-3074676.jpg?tf=1200x' alt='Este año, Wimbledon tiene una inteligencia artificial como comentarista, y ya puedes probarla' />
     </a>
 </div>
 
