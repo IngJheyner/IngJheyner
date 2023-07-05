@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intento-hacerse-rico-chatgpt-100-dolares-ha-terminado-historia-1270540'>Intentó hacerse rico con ChatGPT y 100 dólares y así ha terminado su historia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intento-hacerse-rico-chatgpt-100-dolares-ha-terminado-historia-1270540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/intento-hacerse-rico-chatgpt-100-dolares-ha-terminado-historia-3074998.jpg?tf=1200x' alt='Intentó hacerse rico con ChatGPT y 100 dólares y así ha terminado su historia' />
+    <h4><a href='https://computerhoy.com/apple/como-mejorar-bateria-iphone-estos-habitos-puedes-aplicar-dia-dia-1270674'>Todo lo que estás haciendo mal con tu iPhone y que está agotando la batería</a></h4>
+    <a href='https://computerhoy.com/apple/como-mejorar-bateria-iphone-estos-habitos-puedes-aplicar-dia-dia-1270674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='Todo lo que estás haciendo mal con tu iPhone y que está agotando la batería' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-usa-tus-datos-entrenamiento-inteligencia-artificial-1270272'>Google ya no se esconde: todo lo que publiques podrá ser utilizado por su inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/google/google-usa-tus-datos-entrenamiento-inteligencia-artificial-1270272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3040128.jpg?tf=1200x' alt='Google ya no se esconde: todo lo que publiques podrá ser utilizado por su inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/mejores/pcdays-pccomponentes-estas-son-mejores-ofertas-1269602'>PcDays de PcComponentes: estas son las mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/mejores/pcdays-pccomponentes-estas-son-mejores-ofertas-1269602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/espacio-pccomponentes-2665927.jpg?tf=1200x' alt='PcDays de PcComponentes: estas son las mejores ofertas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-emplea-insectos-vivos-como-manos-coger-objetos-1270520'>Este robot emplea insectos vivos como "manos" para coger objetos (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-emplea-insectos-vivos-como-manos-coger-objetos-1270520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1688530134146-3074888.jpg?tf=1200x' alt='Este robot emplea insectos vivos como "manos" para coger objetos (vídeo)' />
+    <h4><a href='https://computerhoy.com/apps/ue-toma-drastica-decision-threads-llegada-espana-otros-paises-1270650'>La Unión Europea toma una drástica una decisión sobre Threads y su llegada a España y otros países</a></h4>
+    <a href='https://computerhoy.com/apps/ue-toma-drastica-decision-threads-llegada-espana-otros-paises-1270650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/adios-threads-union-europea-aplicacion-rival-twitter-no-llegara-momento-espana-3075242.jpg?tf=1200x' alt='La Unión Europea toma una drástica una decisión sobre Threads y su llegada a España y otros países' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>13 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989250.jpg?tf=1200x' alt='13 auriculares con cancelación de ruido que hemos probado y recomendamos' />
+    <h4><a href='https://computerhoy.com/mejores/moviles-procesador-dimensity-8100-1185288'>Estos son los mejores móviles con Dimensity 8100, uno de los mejores procesadores</a></h4>
+    <a href='https://computerhoy.com/mejores/moviles-procesador-dimensity-8100-1185288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-poco-x4-gt-2760123.jpg?tf=1200x' alt='Estos son los mejores móviles con Dimensity 8100, uno de los mejores procesadores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/apple-mac-studio-m2-max-1264374'>Apple Mac Studio con M2 Max, análisis y opinión: poniendo el 'pro' en profesional y productividad</a></h4>
-    <a href='https://computerhoy.com/analisis/apple-mac-studio-m2-max-1264374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mac-studio-2023-3070202.jpg?tf=1200x' alt='Apple Mac Studio con M2 Max, análisis y opinión: poniendo el 'pro' en profesional y productividad' />
+    <h4><a href='https://computerhoy.com/gaming/microsoft-filtra-precio-ps5-slim-precio-lanzamiento-1270614'>Microsoft filtra el precio de la PS5 Slim y su precio de lanzamiento</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-filtra-precio-ps5-slim-precio-lanzamiento-1270614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/playstation-5-ps5-2963696.jpg?tf=1200x' alt='Microsoft filtra el precio de la PS5 Slim y su precio de lanzamiento' />
     </a>
 </div>
 
