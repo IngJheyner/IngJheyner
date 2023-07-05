@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/prompts-infalibles-chatgpt-trucos-terminar-jornada-laboral-minutos-1270270'>Prompts infalibles de ChatGPT y trucos para terminar tu jornada laboral en minutos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/prompts-infalibles-chatgpt-trucos-terminar-jornada-laboral-minutos-1270270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/microsoft-anuncia-copiloto-windows-integra-ia-tipo-chatgpt-windows-11-bing-propio-chatgpt-3040366.jpg?tf=1200x' alt='Prompts infalibles de ChatGPT y trucos para terminar tu jornada laboral en minutos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/dos-tipos-apps-muy-peligrosas-debes-eliminar-inmediato-movil-1269630'>Dos tipos de apps muy peligrosas que debes eliminar de inmediato, da igual si tienes iPhone o Android</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/dos-tipos-apps-muy-peligrosas-debes-eliminar-inmediato-movil-1269630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/malware-movil-2141175.jpg?tf=1200x' alt='Dos tipos de apps muy peligrosas que debes eliminar de inmediato, da igual si tienes iPhone o Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oneplus-nord-3-5g-primeras-impresiones-1269650'>Así es OnePlus Nord 3 5G, primeras impresiones</a></h4>
-    <a href='https://computerhoy.com/moviles/oneplus-nord-3-5g-primeras-impresiones-1269650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oneplus-nord3-5g-3073514.jpg?tf=1200x' alt='Así es OnePlus Nord 3 5G, primeras impresiones' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-alexa-1097379'>Estos son los mejores accesorios con Alexa que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-alexa-1097379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desmontamos-6-mitos-alexa-seguro-has-escuchado-2891368.jpg?tf=1200x' alt='Estos son los mejores accesorios con Alexa que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/android-auto-anade-funcion-imprescindible-tienes-coche-electrico-1270730'>Android Auto añade una función imprescindible si tienes un coche eléctrico</a></h4>
-    <a href='https://computerhoy.com/motor/android-auto-anade-funcion-imprescindible-tienes-coche-electrico-1270730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Android Auto añade una función imprescindible si tienes un coche eléctrico' />
+    <h4><a href='https://computerhoy.com/tecnologia/funcion-iphone-evita-sea-desbloqueado-mientras-duermes-1270514'>Asegúrate de tener esta función activada en tu iPhone si no quieres que puedan desbloquearlo mientras duermes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/funcion-iphone-evita-sea-desbloqueado-mientras-duermes-1270514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/iphone-face-id-3075408.jpg?tf=1200x' alt='Asegúrate de tener esta función activada en tu iPhone si no quieres que puedan desbloquearlo mientras duermes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-buscar-alguien-internet-solo-nombre-1270516'>Cómo buscar a alguien en Internet solo con el nombre</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-buscar-alguien-internet-solo-nombre-1270516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/buscar-alguien-internet-3074884.jpg?tf=1200x' alt='Cómo buscar a alguien en Internet solo con el nombre' />
+    <h4><a href='https://computerhoy.com/tecnologia/harvard-utilizara-ia-ensenar-informatica-sera-nuevo-profesor-1270812'>La Inteligencia Artificial llega a las universidades: Harvard usará una IA para enseñar informática</a></h4>
+    <a href='https://computerhoy.com/tecnologia/harvard-utilizara-ia-ensenar-informatica-sera-nuevo-profesor-1270812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-3055242.jpg?tf=1200x' alt='La Inteligencia Artificial llega a las universidades: Harvard usará una IA para enseñar informática' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/significan-puntos-verde-naranja-aparecen-iphone-1270736'>Qué significan los puntos verde y naranja que aparecen en tu iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/significan-puntos-verde-naranja-aparecen-iphone-1270736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2948946.jpg?tf=1200x' alt='Qué significan los puntos verde y naranja que aparecen en tu iPhone' />
+    <h4><a href='https://computerhoy.com/redes/google-chat-actualiza-funciones-extraidas-whatsapp-telegram-1270772'>Google Chat se actualiza con funciones extraídas de WhatsApp y Telegram</a></h4>
+    <a href='https://computerhoy.com/redes/google-chat-actualiza-funciones-extraidas-whatsapp-telegram-1270772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-chat-nuevas-funciones-3075650.jpg?tf=1200x' alt='Google Chat se actualiza con funciones extraídas de WhatsApp y Telegram' />
     </a>
 </div>
 
