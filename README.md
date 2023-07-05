@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robot-emplea-insectos-vivos-como-manos-coger-objetos-1270520'>Este robot emplea insectos vivos como "manos" para coger objetos (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-emplea-insectos-vivos-como-manos-coger-objetos-1270520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1688530134146-3074888.jpg?tf=1200x' alt='Este robot emplea insectos vivos como "manos" para coger objetos (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463'>13 auriculares con cancelación de ruido que hemos probado y recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/6-auriculares-cancelacion-ruido-hemos-probado-recomendamos-998463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989250.jpg?tf=1200x' alt='13 auriculares con cancelación de ruido que hemos probado y recomendamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/apple-mac-studio-m2-max-1264374'>Apple Mac Studio con M2 Max, análisis y opinión: poniendo el 'pro' en profesional y productividad</a></h4>
+    <a href='https://computerhoy.com/analisis/apple-mac-studio-m2-max-1264374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mac-studio-2023-3070202.jpg?tf=1200x' alt='Apple Mac Studio con M2 Max, análisis y opinión: poniendo el 'pro' en profesional y productividad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/estrella-betelgeuse-podria-estar-punto-explotar-como-nos-afecta-1270518'>Un estudio afirma que la estrella Betelgeuse está a punto de explotar, ¿cómo nos afecta?</a></h4>
+    <a href='https://computerhoy.com/espacio/estrella-betelgeuse-podria-estar-punto-explotar-como-nos-afecta-1270518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cientifico-afirma-estrella-betelgeuse-punto-explotar-como-nos-afecta-3074876.jpg?tf=1200x' alt='Un estudio afirma que la estrella Betelgeuse está a punto de explotar, ¿cómo nos afecta?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/wimbledon-inteligencia-artificial-comentarista-1270296'>Este año, Wimbledon tiene una inteligencia artificial como comentarista, y ya puedes probarla</a></h4>
     <a href='https://computerhoy.com/tecnologia/wimbledon-inteligencia-artificial-comentarista-1270296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ano-wimbledon-tendra-inteligencia-artificial-como-comentarista-mano-ibm-3074676.jpg?tf=1200x' alt='Este año, Wimbledon tiene una inteligencia artificial como comentarista, y ya puedes probarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/la-que-se-avecina-rocio-marin-actriz-sustituira-fallecida-laura-gomez-lacueva-1270288'>La que se avecina desvela a la actriz que sustituirá a la tristemente fallecida Laura Gómez-Lacueva, en el mismo papel</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/la-que-se-avecina-rocio-marin-actriz-sustituira-fallecida-laura-gomez-lacueva-1270288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/avecina-desvela-actriz-sustituira-tristemente-fallecida-laura-gomez-lacueva-mismo-papel-3074588.jpg?tf=1200x' alt='La que se avecina desvela a la actriz que sustituirá a la tristemente fallecida Laura Gómez-Lacueva, en el mismo papel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768'>Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-3072258.jpg?tf=1200x' alt='Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-quiere-anuncios-como-episodios-series-15-partes-1270262'>La última treta de Netflix para que veas sus anuncios: convertirlos en series</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-quiere-anuncios-como-episodios-series-15-partes-1270262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/continua-culebron-netflix-no-atreve-bloquear-cuentas-ofrece-prorroga-2964392.jpg?tf=1200x' alt='La última treta de Netflix para que veas sus anuncios: convertirlos en series' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/cerveza-barata-supermercado-cuela-lista-mejores-cervezas-espanolas-1270276'>Una cerveza barata de supermercado se cuela en la lista de las mejores cervezas españolas</a></h4>
-    <a href='https://computerhoy.com/alimentacion/cerveza-barata-supermercado-cuela-lista-mejores-cervezas-espanolas-1270276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/latas-cerveza-3074546.jpg?tf=1200x' alt='Una cerveza barata de supermercado se cuela en la lista de las mejores cervezas españolas' />
     </a>
 </div>
 
