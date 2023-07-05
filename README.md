@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/wimbledon-inteligencia-artificial-comentarista-1270296'>Este año, Wimbledon tiene una inteligencia artificial como comentarista, y ya puedes probarla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/wimbledon-inteligencia-artificial-comentarista-1270296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ano-wimbledon-tendra-inteligencia-artificial-como-comentarista-mano-ibm-3074676.jpg?tf=1200x' alt='Este año, Wimbledon tiene una inteligencia artificial como comentarista, y ya puedes probarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/la-que-se-avecina-rocio-marin-actriz-sustituira-fallecida-laura-gomez-lacueva-1270288'>La que se avecina desvela a la actriz que sustituirá a la tristemente fallecida Laura Gómez-Lacueva, en el mismo papel</a></h4>
     <a href='https://computerhoy.com/entretenimiento/la-que-se-avecina-rocio-marin-actriz-sustituira-fallecida-laura-gomez-lacueva-1270288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/avecina-desvela-actriz-sustituira-tristemente-fallecida-laura-gomez-lacueva-mismo-papel-3074588.jpg?tf=1200x' alt='La que se avecina desvela a la actriz que sustituirá a la tristemente fallecida Laura Gómez-Lacueva, en el mismo papel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/cerveza-barata-supermercado-cuela-lista-mejores-cervezas-espanolas-1270276'>Una cerveza barata de supermercado se cuela en la lista de las mejores cervezas españolas</a></h4>
     <a href='https://computerhoy.com/alimentacion/cerveza-barata-supermercado-cuela-lista-mejores-cervezas-espanolas-1270276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/latas-cerveza-3074546.jpg?tf=1200x' alt='Una cerveza barata de supermercado se cuela en la lista de las mejores cervezas españolas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ocho-frases-celebres-bill-gates-exito-laboral-vida-1270252'>8 frases de Bill Gates para alcanzar el éxito</a></h4>
-    <a href='https://computerhoy.com/life/ocho-frases-celebres-bill-gates-exito-laboral-vida-1270252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bill-gates-2919658.jpg?tf=1200x' alt='8 frases de Bill Gates para alcanzar el éxito' />
     </a>
 </div>
 
