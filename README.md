@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/dos-tipos-apps-muy-peligrosas-debes-eliminar-inmediato-movil-1269630'>Dos tipos de apps muy peligrosas que debes eliminar de inmediato, da igual si tienes iPhone o Android</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/dos-tipos-apps-muy-peligrosas-debes-eliminar-inmediato-movil-1269630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/malware-movil-2141175.jpg?tf=1200x' alt='Dos tipos de apps muy peligrosas que debes eliminar de inmediato, da igual si tienes iPhone o Android' />
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-auriculares-buzon-estafas-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-auriculares-buzon-estafas-brushing-malware-1265776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/te-encuentras-smartwatch-auriculares-nuevos-buzon-no-uses-3067202.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-alexa-1097379'>Estos son los mejores accesorios con Alexa que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-accesorios-alexa-1097379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/desmontamos-6-mitos-alexa-seguro-has-escuchado-2891368.jpg?tf=1200x' alt='Estos son los mejores accesorios con Alexa que puedes comprar' />
+    <h4><a href='https://computerhoy.com/mejores/ipad-reacondicionados-1249448'>Estos son los iPad reacondicionados con mejor precio del momento</a></h4>
+    <a href='https://computerhoy.com/mejores/ipad-reacondicionados-1249448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipad-pro-3071542.jpg?tf=1200x' alt='Estos son los iPad reacondicionados con mejor precio del momento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funcion-iphone-evita-sea-desbloqueado-mientras-duermes-1270514'>Asegúrate de tener esta función activada en tu iPhone si no quieres que puedan desbloquearlo mientras duermes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/funcion-iphone-evita-sea-desbloqueado-mientras-duermes-1270514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/iphone-face-id-3075408.jpg?tf=1200x' alt='Asegúrate de tener esta función activada en tu iPhone si no quieres que puedan desbloquearlo mientras duermes' />
+    <h4><a href='https://computerhoy.com/life/que-hacer-no-has-recibido-devolucion-declaracion-renta-1270814'>Qué puedes hacer si todavía no has recibido la devolución de la declaración de La Renta</a></h4>
+    <a href='https://computerhoy.com/life/que-hacer-no-has-recibido-devolucion-declaracion-renta-1270814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/carta-hacienda-3063868.jpg?tf=1200x' alt='Qué puedes hacer si todavía no has recibido la devolución de la declaración de La Renta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/harvard-utilizara-ia-ensenar-informatica-sera-nuevo-profesor-1270812'>La Inteligencia Artificial llega a las universidades: Harvard usará una IA para enseñar informática</a></h4>
-    <a href='https://computerhoy.com/tecnologia/harvard-utilizara-ia-ensenar-informatica-sera-nuevo-profesor-1270812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-3055242.jpg?tf=1200x' alt='La Inteligencia Artificial llega a las universidades: Harvard usará una IA para enseñar informática' />
+    <h4><a href='https://computerhoy.com/alimentacion/mejor-gazpacho-envasado-lidl-cuesta-menos-mitad-marca-1271054'>El mejor gazpacho envasado es de Lidl y cuesta menos de la mitad que los de marca</a></h4>
+    <a href='https://computerhoy.com/alimentacion/mejor-gazpacho-envasado-lidl-cuesta-menos-mitad-marca-1271054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/gazpacho-3076208.jpg?tf=1200x' alt='El mejor gazpacho envasado es de Lidl y cuesta menos de la mitad que los de marca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/google-chat-actualiza-funciones-extraidas-whatsapp-telegram-1270772'>Google Chat se actualiza con funciones extraídas de WhatsApp y Telegram</a></h4>
-    <a href='https://computerhoy.com/redes/google-chat-actualiza-funciones-extraidas-whatsapp-telegram-1270772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-chat-nuevas-funciones-3075650.jpg?tf=1200x' alt='Google Chat se actualiza con funciones extraídas de WhatsApp y Telegram' />
+    <h4><a href='https://computerhoy.com/android/como-evitar-airtag-te-rastree-solucion-android-1266790'>Cómo evitar que un AirTag te rastree: la solución de Android</a></h4>
+    <a href='https://computerhoy.com/android/como-evitar-airtag-te-rastree-solucion-android-1266790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airtag-2696073.jpg?tf=1200x' alt='Cómo evitar que un AirTag te rastree: la solución de Android' />
     </a>
 </div>
 
