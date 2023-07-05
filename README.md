@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-buscar-alguien-internet-solo-nombre-1270516'>Cómo buscar a alguien en Internet solo con el nombre</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-buscar-alguien-internet-solo-nombre-1270516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/buscar-alguien-internet-3074884.jpg?tf=1200x' alt='Cómo buscar a alguien en Internet solo con el nombre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/significan-puntos-verde-naranja-aparecen-iphone-1270736'>Qué significan los puntos verde y naranja que aparecen en tu iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/significan-puntos-verde-naranja-aparecen-iphone-1270736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2948946.jpg?tf=1200x' alt='Qué significan los puntos verde y naranja que aparecen en tu iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/estudio-demuestra-igual-complicado-llegar-ser-ibai-llanos-proximo-messi-1270702'>Un estudio demuestra que es igual de complicado llegar a ser Ibai Llanos que el próximo Messi</a></h4>
+    <a href='https://computerhoy.com/gaming/estudio-demuestra-igual-complicado-llegar-ser-ibai-llanos-proximo-messi-1270702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estudio-demuestra-igual-complicado-llegar-ser-ibai-llanos-ser-proximo-messi-3075402.jpg?tf=1200x' alt='Un estudio demuestra que es igual de complicado llegar a ser Ibai Llanos que el próximo Messi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/forrest-gump-ficticia-inversion-apple-cuanto-habria-ganado-iconico-personaje-1270696'>Forrest Gump y su ficticia inversión en Apple: ¿Cuánto habría ganado este icónico personaje?</a></h4>
+    <a href='https://computerhoy.com/apple/forrest-gump-ficticia-inversion-apple-cuanto-habria-ganado-iconico-personaje-1270696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/forrest-gump-ficticia-inversion-apple-cuanto-habria-ganado-iconico-personaje-3075330.jpg?tf=1200x' alt='Forrest Gump y su ficticia inversión en Apple: ¿Cuánto habría ganado este icónico personaje?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/como-mejorar-bateria-iphone-estos-habitos-puedes-aplicar-dia-dia-1270674'>Todo lo que estás haciendo mal con tu iPhone y que está agotando la batería</a></h4>
     <a href='https://computerhoy.com/apple/como-mejorar-bateria-iphone-estos-habitos-puedes-aplicar-dia-dia-1270674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='Todo lo que estás haciendo mal con tu iPhone y que está agotando la batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/pcdays-pccomponentes-estas-son-mejores-ofertas-1269602'>PcDays de PcComponentes: estas son las mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/mejores/pcdays-pccomponentes-estas-son-mejores-ofertas-1269602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/espacio-pccomponentes-2665927.jpg?tf=1200x' alt='PcDays de PcComponentes: estas son las mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ue-toma-drastica-decision-threads-llegada-espana-otros-paises-1270650'>La Unión Europea toma una drástica una decisión sobre Threads y su llegada a España y otros países</a></h4>
-    <a href='https://computerhoy.com/apps/ue-toma-drastica-decision-threads-llegada-espana-otros-paises-1270650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/adios-threads-union-europea-aplicacion-rival-twitter-no-llegara-momento-espana-3075242.jpg?tf=1200x' alt='La Unión Europea toma una drástica una decisión sobre Threads y su llegada a España y otros países' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/moviles-procesador-dimensity-8100-1185288'>Estos son los mejores móviles con Dimensity 8100, uno de los mejores procesadores</a></h4>
-    <a href='https://computerhoy.com/mejores/moviles-procesador-dimensity-8100-1185288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-poco-x4-gt-2760123.jpg?tf=1200x' alt='Estos son los mejores móviles con Dimensity 8100, uno de los mejores procesadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/microsoft-filtra-precio-ps5-slim-precio-lanzamiento-1270614'>Microsoft filtra el precio de la PS5 Slim y su precio de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/gaming/microsoft-filtra-precio-ps5-slim-precio-lanzamiento-1270614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/playstation-5-ps5-2963696.jpg?tf=1200x' alt='Microsoft filtra el precio de la PS5 Slim y su precio de lanzamiento' />
     </a>
 </div>
 
