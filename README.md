@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/televisor-qled-144-hz-barato-nunca-amazon-1268438'>Si tienes una PS5, este televisor le va a dar un salto de calidad: 144 Hz y panel QLED a un precio imbatible</a></h4>
-    <a href='https://computerhoy.com/tecnologia/televisor-qled-144-hz-barato-nunca-amazon-1268438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hisense-55e7k-pro-qled-3071748.jpg?tf=1200x' alt='Si tienes una PS5, este televisor le va a dar un salto de calidad: 144 Hz y panel QLED a un precio imbatible' />
+    <h4><a href='https://computerhoy.com/apps/mucho-cuidado-borras-cuenta-threads-porque-eliminaras-tambien-instagram-1271362'>Mucho cuidado si borras tu cuenta de Threads porque eliminarás también la de Instagram</a></h4>
+    <a href='https://computerhoy.com/apps/mucho-cuidado-borras-cuenta-threads-porque-eliminaras-tambien-instagram-1271362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mucho-cuidado-borras-cuenta-threads-porque-eliminaras-tambien-instagram-3076696.jpg?tf=1200x' alt='Mucho cuidado si borras tu cuenta de Threads porque eliminarás también la de Instagram' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/quieres-ver-2001-odisea-espacio-mastodon-vas-tardar-5-anos-1271222'>Alguien está subiendo la película 2001 Una odisea del espacio a Mastodon, fotograma a fotograma: va a tardar 5 años</a></h4>
-    <a href='https://computerhoy.com/internet/quieres-ver-2001-odisea-espacio-mastodon-vas-tardar-5-anos-1271222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/alguien-subiendo-pelicula-2001-odisea-espacio-mastodon-fotograma-fotograma-va-tardar-5-anos-3076362.jpg?tf=1200x' alt='Alguien está subiendo la película 2001 Una odisea del espacio a Mastodon, fotograma a fotograma: va a tardar 5 años' />
+    <h4><a href='https://computerhoy.com/life/esfera-vegas-nueva-megaconstruccion-cuenta-miles-paneles-led-1271350'>La Esfera de Las Vegas: así es esta luna que cuenta con miles de paneles LED</a></h4>
+    <a href='https://computerhoy.com/life/esfera-vegas-nueva-megaconstruccion-cuenta-miles-paneles-led-1271350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/esfera-vegas-luna-cuenta-miles-paneles-led-3076660.jpg?tf=1200x' alt='La Esfera de Las Vegas: así es esta luna que cuenta con miles de paneles LED' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/basura-espacial-pruebas-armas-antisatelite-amenazan-orbita-terrestre-1271226'>La basura espacial y las pruebas de armas antisatélite amenazan la órbita terrestre</a></h4>
-    <a href='https://computerhoy.com/espacio/basura-espacial-pruebas-armas-antisatelite-amenazan-orbita-terrestre-1271226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/basura-espacial-pruebas-armas-antisatelite-amenazan-orbita-terrestre-3076424.jpg?tf=1200x' alt='La basura espacial y las pruebas de armas antisatélite amenazan la órbita terrestre' />
+    <h4><a href='https://computerhoy.com/life/equilibrio-trabajo-familia-nueva-ley-espanola-amplia-derechos-flexibilidad-1271330'>Equilibrio entre trabajo y familia: esta nueva ley española amplía tus derechos y flexibilidad</a></h4>
+    <a href='https://computerhoy.com/life/equilibrio-trabajo-familia-nueva-ley-espanola-amplia-derechos-flexibilidad-1271330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/equilibrio-trabajo-familia-nueva-ley-espanola-amplia-derechos-flexibilidad-3076612.jpg?tf=1200x' alt='Equilibrio entre trabajo y familia: esta nueva ley española amplía tus derechos y flexibilidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-646-computer-hoy-1263940'>¡Ya está en tu quiosco el número 646 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-646-computer-hoy-1263940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/computer-hoy-646-3065786.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 646 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/life/no-deberias-cantar-victoria-todavia-no-has-sido-convocado-mesa-electoral-elecciones-23j-1271314'>No deberías cantar victoria si todavía no has sido convocado a una mesa electoral para las elecciones del 23J</a></h4>
+    <a href='https://computerhoy.com/life/no-deberias-cantar-victoria-todavia-no-has-sido-convocado-mesa-electoral-elecciones-23j-1271314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/dietas-elecciones-3028954.jpg?tf=1200x' alt='No deberías cantar victoria si todavía no has sido convocado a una mesa electoral para las elecciones del 23J' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508'>Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/afeitadora-electrica-braun-series-9-2710745.jpg?tf=1200x' alt='Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar' />
+    <h4><a href='https://computerhoy.com/apps/todo-debes-saber-threads-nueva-app-meta-nace-hacer-frente-twitter-1271242'>Todo lo que debes saber de Threads, la nueva app de Meta que nace para desafiar a Twitter y cómo probarla desde España</a></h4>
+    <a href='https://computerhoy.com/apps/todo-debes-saber-threads-nueva-app-meta-nace-hacer-frente-twitter-1271242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/todo-debes-saber-threads-nueva-app-meta-nace-hacer-frente-twitter-3076538.jpg?tf=1200x' alt='Todo lo que debes saber de Threads, la nueva app de Meta que nace para desafiar a Twitter y cómo probarla desde España' />
     </a>
 </div>
 
