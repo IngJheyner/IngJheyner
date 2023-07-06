@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/2-3-julio-dias-mas-calurosos-historia-nivel-mundial-1271178'>El 2 de julio fue el día más caluroso de la historia a nivel mundial, y el 3 de julio se volvió a batir el récord</a></h4>
+    <a href='https://computerhoy.com/ciencia/2-3-julio-dias-mas-calurosos-historia-nivel-mundial-1271178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lunes-fue-dia-caluroso-historia-nivel-mundial-martes-volvio-batir-record-3076218.jpg?tf=1200x' alt='El 2 de julio fue el día más caluroso de la historia a nivel mundial, y el 3 de julio se volvió a batir el récord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/union-europea-gatekeepers-ley-mercados-digitales-1271062'>La Unión Europea ya ha elegido a los 7 Gatekeepers, Internet va a cambiar para siempre</a></h4>
     <a href='https://computerhoy.com/internet/union-europea-gatekeepers-ley-mercados-digitales-1271062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/union-europea-va-obligar-etiquetar-todo-contenido-generado-ia-3052170.jpg?tf=1200x' alt='La Unión Europea ya ha elegido a los 7 Gatekeepers, Internet va a cambiar para siempre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/ipad-reacondicionados-1249448'>Estos son los iPad reacondicionados con mejor precio del momento</a></h4>
     <a href='https://computerhoy.com/mejores/ipad-reacondicionados-1249448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipad-pro-3071542.jpg?tf=1200x' alt='Estos son los iPad reacondicionados con mejor precio del momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/que-hacer-no-has-recibido-devolucion-declaracion-renta-1270814'>Qué puedes hacer si todavía no has recibido la devolución de la declaración de La Renta</a></h4>
-    <a href='https://computerhoy.com/life/que-hacer-no-has-recibido-devolucion-declaracion-renta-1270814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/carta-hacienda-3063868.jpg?tf=1200x' alt='Qué puedes hacer si todavía no has recibido la devolución de la declaración de La Renta' />
     </a>
 </div>
 
