@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/bitcoin-toca-maximo-13-meses-seguira-subiendo-precio-1271468'>Bitcoin toca su máximo en 13 meses: ¿seguirá subiendo de precio? </a></h4>
+    <a href='https://computerhoy.com/criptos/bitcoin-toca-maximo-13-meses-seguira-subiendo-precio-1271468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/bitcoin-toca-maximo-13-meses-3076912.jpg?tf=1200x' alt='Bitcoin toca su máximo en 13 meses: ¿seguirá subiendo de precio? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/desafio-visual-veas-primero-imagen-revelara-eres-persona-agresiva-1271060'>Ilusión óptica: lo que ves primero en esta imagen podría revelar si eres una persona agresiva o libre</a></h4>
+    <a href='https://computerhoy.com/life/desafio-visual-veas-primero-imagen-revelara-eres-persona-agresiva-1271060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ilusion-optica-3076216.jpg?tf=1200x' alt='Ilusión óptica: lo que ves primero en esta imagen podría revelar si eres una persona agresiva o libre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/mandos-jugar-movil-1240644'>Si quieres jugar con tu móvil estos son los mejores mandos compatibles con iPhone o Android</a></h4>
     <a href='https://computerhoy.com/mejores/mandos-jugar-movil-1240644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/8bit2pro-3071530.jpg?tf=1200x' alt='Si quieres jugar con tu móvil estos son los mejores mandos compatibles con iPhone o Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/verdad-buena-idea-volver-moviles-bateria-extraible-1271438'>¿De verdad es tan buena idea volver a los móviles con batería extraíble?</a></h4>
     <a href='https://computerhoy.com/moviles/verdad-buena-idea-volver-moviles-bateria-extraible-1271438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verdad-tan-buena-idea-volver-moviles-bateria-extraible-3076814.jpg?tf=1200x' alt='¿De verdad es tan buena idea volver a los móviles con batería extraíble?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-alguna-estas-apps-movil-debes-saber-te-estan-espiando-1270796'>Si tienes alguna de estas apps en tu móvil debes saber que te están espiando</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tienes-alguna-estas-apps-movil-debes-saber-te-estan-espiando-1270796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ojo-espia-3076722.jpg?tf=1200x' alt='Si tienes alguna de estas apps en tu móvil debes saber que te están espiando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-lidl-1271064'>Equivalencias de los perfumes y colonias de Lidl</a></h4>
-    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-lidl-1271064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/perfumes-lidl-3076714.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Lidl' />
     </a>
 </div>
 
