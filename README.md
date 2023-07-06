@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/mandos-jugar-movil-1240644'>Si quieres jugar con tu móvil estos son los mejores mandos compatibles con iPhone o Android</a></h4>
+    <a href='https://computerhoy.com/mejores/mandos-jugar-movil-1240644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/8bit2pro-3071530.jpg?tf=1200x' alt='Si quieres jugar con tu móvil estos son los mejores mandos compatibles con iPhone o Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ni-paella-siesta-toros-palabra-utilizada-wikipedia-espana-resto-mundo-1271034'>Ni paella, siesta o toros, esta es la palabra más utilizada en la Wikipedia en España y resto del mundo</a></h4>
+    <a href='https://computerhoy.com/life/ni-paella-siesta-toros-palabra-utilizada-wikipedia-espana-resto-mundo-1271034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/wikipedia-3076198.jpg?tf=1200x' alt='Ni paella, siesta o toros, esta es la palabra más utilizada en la Wikipedia en España y resto del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/verdad-buena-idea-volver-moviles-bateria-extraible-1271438'>¿De verdad es tan buena idea volver a los móviles con batería extraíble?</a></h4>
+    <a href='https://computerhoy.com/moviles/verdad-buena-idea-volver-moviles-bateria-extraible-1271438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verdad-tan-buena-idea-volver-moviles-bateria-extraible-3076814.jpg?tf=1200x' alt='¿De verdad es tan buena idea volver a los móviles con batería extraíble?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-alguna-estas-apps-movil-debes-saber-te-estan-espiando-1270796'>Si tienes alguna de estas apps en tu móvil debes saber que te están espiando</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tienes-alguna-estas-apps-movil-debes-saber-te-estan-espiando-1270796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ojo-espia-3076722.jpg?tf=1200x' alt='Si tienes alguna de estas apps en tu móvil debes saber que te están espiando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-lidl-1271064'>Equivalencias de los perfumes y colonias de Lidl</a></h4>
     <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-lidl-1271064' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/perfumes-lidl-3076714.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Lidl' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/analisis-honor-90-5g-honor-90-lite-5g-1268532'>Análisis Honor 90 5G y Honor 90 Lite 5G: pese a ser hermanos las diferencias son notables</a></h4>
-    <a href='https://computerhoy.com/analisis/analisis-honor-90-5g-honor-90-lite-5g-1268532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/honor-90-honor-90-lite-3074488.jpg?tf=1200x' alt='Análisis Honor 90 5G y Honor 90 Lite 5G: pese a ser hermanos las diferencias son notables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guerra-total-iptv-grandes-streaming-une-cerrar-servicio-tan-grande-como-hbo-max-1271318'>Guerra total contra las IPTV, los grandes del streaming se une para cerrar un servicio tan grande como HBO Max</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guerra-total-iptv-grandes-streaming-une-cerrar-servicio-tan-grande-como-hbo-max-1271318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/iptv-2925158.jpg?tf=1200x' alt='Guerra total contra las IPTV, los grandes del streaming se une para cerrar un servicio tan grande como HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/15-objetos-vintage-tienes-casa-podrian-costar-mucho-dinero-1267278'>15 objetos vintage que tienes en casa y que podrían costar mucho dinero</a></h4>
-    <a href='https://computerhoy.com/hogar/15-objetos-vintage-tienes-casa-podrian-costar-mucho-dinero-1267278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/15-objetos-vintage-tienes-casa-podrian-costar-mucho-dinero-3069838.jpg?tf=1200x' alt='15 objetos vintage que tienes en casa y que podrían costar mucho dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/nothing-presenta-ear-2-black-ecualizador-avanzado-1271332'>Nothing presenta los Ear (2) Black y un ecualizador avanzado para personalizar al máximo la experiencia de sonido</a></h4>
-    <a href='https://computerhoy.com/audio/nothing-presenta-ear-2-black-ecualizador-avanzado-1271332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-ear-2-black-3076672.jpg?tf=1200x' alt='Nothing presenta los Ear (2) Black y un ecualizador avanzado para personalizar al máximo la experiencia de sonido' />
     </a>
 </div>
 
