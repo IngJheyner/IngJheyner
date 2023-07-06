@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/bitcoin-toca-maximo-13-meses-seguira-subiendo-precio-1271468'>Bitcoin toca su máximo en 13 meses: ¿seguirá subiendo de precio? </a></h4>
-    <a href='https://computerhoy.com/criptos/bitcoin-toca-maximo-13-meses-seguira-subiendo-precio-1271468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/bitcoin-toca-maximo-13-meses-3076912.jpg?tf=1200x' alt='Bitcoin toca su máximo en 13 meses: ¿seguirá subiendo de precio? ' />
+    <h4><a href='https://computerhoy.com/life/amouranth-gana-2-millones-mes-grabar-mientras-duerme-onlyfans-1271500'>Gana más de 2 millones al mes haciendo cosas como dormir delante de la cámara en Onlyfans</a></h4>
+    <a href='https://computerhoy.com/life/amouranth-gana-2-millones-mes-grabar-mientras-duerme-onlyfans-1271500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/amouranth-2964342.jpg?tf=1200x' alt='Gana más de 2 millones al mes haciendo cosas como dormir delante de la cámara en Onlyfans' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/desafio-visual-veas-primero-imagen-revelara-eres-persona-agresiva-1271060'>Ilusión óptica: lo que ves primero en esta imagen podría revelar si eres una persona agresiva o libre</a></h4>
-    <a href='https://computerhoy.com/life/desafio-visual-veas-primero-imagen-revelara-eres-persona-agresiva-1271060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ilusion-optica-3076216.jpg?tf=1200x' alt='Ilusión óptica: lo que ves primero en esta imagen podría revelar si eres una persona agresiva o libre' />
+    <h4><a href='https://computerhoy.com/alimentacion/expertos-europeos-colocan-cerveza-espanola-mejores-mundo-tranquilo-no-cruzcampo-1271518'>Expertos europeos colocan una cerveza española entre las mejores del mundo, y tranquilo no es Cruzcampo</a></h4>
+    <a href='https://computerhoy.com/alimentacion/expertos-europeos-colocan-cerveza-espanola-mejores-mundo-tranquilo-no-cruzcampo-1271518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cerveza-3077016.jpg?tf=1200x' alt='Expertos europeos colocan una cerveza española entre las mejores del mundo, y tranquilo no es Cruzcampo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/mandos-jugar-movil-1240644'>Si quieres jugar con tu móvil estos son los mejores mandos compatibles con iPhone o Android</a></h4>
-    <a href='https://computerhoy.com/mejores/mandos-jugar-movil-1240644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/8bit2pro-3071530.jpg?tf=1200x' alt='Si quieres jugar con tu móvil estos son los mejores mandos compatibles con iPhone o Android' />
+    <h4><a href='https://computerhoy.com/windows/windows-12-podria-llegar-antes-esperado-enfocado-ia-nueva-barra-tareas-1271512'>Windows 12 podría llegar antes de lo esperado enfocado en la IA y con nueva barra de tareas</a></h4>
+    <a href='https://computerhoy.com/windows/windows-12-podria-llegar-antes-esperado-enfocado-ia-nueva-barra-tareas-1271512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/windows-12-2845309.jpg?tf=1200x' alt='Windows 12 podría llegar antes de lo esperado enfocado en la IA y con nueva barra de tareas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ni-paella-siesta-toros-palabra-utilizada-wikipedia-espana-resto-mundo-1271034'>Ni paella, siesta o toros, esta es la palabra más utilizada en la Wikipedia en España y resto del mundo</a></h4>
-    <a href='https://computerhoy.com/life/ni-paella-siesta-toros-palabra-utilizada-wikipedia-espana-resto-mundo-1271034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/wikipedia-3076198.jpg?tf=1200x' alt='Ni paella, siesta o toros, esta es la palabra más utilizada en la Wikipedia en España y resto del mundo' />
+    <h4><a href='https://computerhoy.com/gaming/nintendo-avisa-soplar-cartuchos-no-funciona-switch-no-solo-eso-podrias-cargarte-consola-1271482'>Nintendo avisa: soplar los cartuchos no funciona en Switch, no solo eso, podrías cargarte la consola</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-avisa-soplar-cartuchos-no-funciona-switch-no-solo-eso-podrias-cargarte-consola-1271482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cartucho-juego-nintendo-switch-3076976.jpg?tf=1200x' alt='Nintendo avisa: soplar los cartuchos no funciona en Switch, no solo eso, podrías cargarte la consola' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/verdad-buena-idea-volver-moviles-bateria-extraible-1271438'>¿De verdad es tan buena idea volver a los móviles con batería extraíble?</a></h4>
-    <a href='https://computerhoy.com/moviles/verdad-buena-idea-volver-moviles-bateria-extraible-1271438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verdad-tan-buena-idea-volver-moviles-bateria-extraible-3076814.jpg?tf=1200x' alt='¿De verdad es tan buena idea volver a los móviles con batería extraíble?' />
+    <h4><a href='https://computerhoy.com/life/genial-truco-ser-primero-recoger-maleta-bajar-avion-1271180'>El genial truco para ser el primero en recoger la maleta de la cinta de equipajes al bajar del avión</a></h4>
+    <a href='https://computerhoy.com/life/genial-truco-ser-primero-recoger-maleta-bajar-avion-1271180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/cinta-equipaje-aeropuerto-2393653.jpg?tf=1200x' alt='El genial truco para ser el primero en recoger la maleta de la cinta de equipajes al bajar del avión' />
     </a>
 </div>
 
