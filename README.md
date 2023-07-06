@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-lidl-1271064'>Equivalencias de los perfumes y colonias de Lidl</a></h4>
+    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-lidl-1271064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/perfumes-lidl-3076714.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Lidl' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/analisis-honor-90-5g-honor-90-lite-5g-1268532'>Análisis Honor 90 5G y Honor 90 Lite 5G: pese a ser hermanos las diferencias son notables</a></h4>
+    <a href='https://computerhoy.com/analisis/analisis-honor-90-5g-honor-90-lite-5g-1268532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/honor-90-honor-90-lite-3074488.jpg?tf=1200x' alt='Análisis Honor 90 5G y Honor 90 Lite 5G: pese a ser hermanos las diferencias son notables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/guerra-total-iptv-grandes-streaming-une-cerrar-servicio-tan-grande-como-hbo-max-1271318'>Guerra total contra las IPTV, los grandes del streaming se une para cerrar un servicio tan grande como HBO Max</a></h4>
     <a href='https://computerhoy.com/tecnologia/guerra-total-iptv-grandes-streaming-une-cerrar-servicio-tan-grande-como-hbo-max-1271318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/iptv-2925158.jpg?tf=1200x' alt='Guerra total contra las IPTV, los grandes del streaming se une para cerrar un servicio tan grande como HBO Max' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/nothing-presenta-ear-2-black-ecualizador-avanzado-1271332'>Nothing presenta los Ear (2) Black y un ecualizador avanzado para personalizar al máximo la experiencia de sonido</a></h4>
     <a href='https://computerhoy.com/audio/nothing-presenta-ear-2-black-ecualizador-avanzado-1271332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-ear-2-black-3076672.jpg?tf=1200x' alt='Nothing presenta los Ear (2) Black y un ecualizador avanzado para personalizar al máximo la experiencia de sonido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/10-funciones-windows-11-quizas-no-conoces-te-encantaran-1271376'>10 funciones de Windows 11 que quizás no conoces y que te encantarán</a></h4>
-    <a href='https://computerhoy.com/pc/10-funciones-windows-11-quizas-no-conoces-te-encantaran-1271376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='10 funciones de Windows 11 que quizás no conoces y que te encantarán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mucho-cuidado-borras-cuenta-threads-porque-eliminaras-tambien-instagram-1271362'>Mucho cuidado si borras tu cuenta de Threads porque eliminarás también la de Instagram</a></h4>
-    <a href='https://computerhoy.com/apps/mucho-cuidado-borras-cuenta-threads-porque-eliminaras-tambien-instagram-1271362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mucho-cuidado-borras-cuenta-threads-porque-eliminaras-tambien-instagram-3076696.jpg?tf=1200x' alt='Mucho cuidado si borras tu cuenta de Threads porque eliminarás también la de Instagram' />
     </a>
 </div>
 
