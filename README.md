@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/atresplayer-integra-prime-video-1271182'>La plataforma atresplayer se integra en Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/atresplayer-integra-prime-video-1271182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/plataforma-atresplayer-integra-prime-video-3076354.jpg?tf=1200x' alt='La plataforma atresplayer se integra en Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/mejores-moviles-menos-200-euros-1269440'>Mejores móviles de 200 euros que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/mejores/mejores-moviles-menos-200-euros-1269440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-realme-9i-2618281.jpg?tf=1200x' alt='Mejores móviles de 200 euros que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/2-3-julio-dias-mas-calurosos-historia-nivel-mundial-1271178'>El 2 de julio fue el día más caluroso de la historia a nivel mundial, y el 3 de julio se volvió a batir el récord</a></h4>
     <a href='https://computerhoy.com/ciencia/2-3-julio-dias-mas-calurosos-historia-nivel-mundial-1271178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lunes-fue-dia-caluroso-historia-nivel-mundial-martes-volvio-batir-record-3076218.jpg?tf=1200x' alt='El 2 de julio fue el día más caluroso de la historia a nivel mundial, y el 3 de julio se volvió a batir el récord' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/ultima-version-kodi-ya-disponible-deberias-actualizar-ya-1270800'>La última versión de Kodi ya está disponible y deberías actualizar cuanto antes</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ultima-version-kodi-ya-disponible-deberias-actualizar-ya-1270800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/kodi-nexus-2981674.jpg?tf=1200x' alt='La última versión de Kodi ya está disponible y deberías actualizar cuanto antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-auriculares-buzon-estafas-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-auriculares-buzon-estafas-brushing-malware-1265776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/te-encuentras-smartwatch-auriculares-nuevos-buzon-no-uses-3067202.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/ipad-reacondicionados-1249448'>Estos son los iPad reacondicionados con mejor precio del momento</a></h4>
-    <a href='https://computerhoy.com/mejores/ipad-reacondicionados-1249448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipad-pro-3071542.jpg?tf=1200x' alt='Estos son los iPad reacondicionados con mejor precio del momento' />
     </a>
 </div>
 
