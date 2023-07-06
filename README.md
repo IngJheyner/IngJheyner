@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/guerra-total-iptv-grandes-streaming-une-cerrar-servicio-tan-grande-como-hbo-max-1271318'>Guerra total contra las IPTV, los grandes del streaming se une para cerrar un servicio tan grande como HBO Max</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guerra-total-iptv-grandes-streaming-une-cerrar-servicio-tan-grande-como-hbo-max-1271318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/iptv-2925158.jpg?tf=1200x' alt='Guerra total contra las IPTV, los grandes del streaming se une para cerrar un servicio tan grande como HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/15-objetos-vintage-tienes-casa-podrian-costar-mucho-dinero-1267278'>15 objetos vintage que tienes en casa y que podrían costar mucho dinero</a></h4>
+    <a href='https://computerhoy.com/hogar/15-objetos-vintage-tienes-casa-podrian-costar-mucho-dinero-1267278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/15-objetos-vintage-tienes-casa-podrian-costar-mucho-dinero-3069838.jpg?tf=1200x' alt='15 objetos vintage que tienes en casa y que podrían costar mucho dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/nothing-presenta-ear-2-black-ecualizador-avanzado-1271332'>Nothing presenta los Ear (2) Black y un ecualizador avanzado para personalizar al máximo la experiencia de sonido</a></h4>
+    <a href='https://computerhoy.com/audio/nothing-presenta-ear-2-black-ecualizador-avanzado-1271332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-ear-2-black-3076672.jpg?tf=1200x' alt='Nothing presenta los Ear (2) Black y un ecualizador avanzado para personalizar al máximo la experiencia de sonido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/10-funciones-windows-11-quizas-no-conoces-te-encantaran-1271376'>10 funciones de Windows 11 que quizás no conoces y que te encantarán</a></h4>
+    <a href='https://computerhoy.com/pc/10-funciones-windows-11-quizas-no-conoces-te-encantaran-1271376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='10 funciones de Windows 11 que quizás no conoces y que te encantarán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mucho-cuidado-borras-cuenta-threads-porque-eliminaras-tambien-instagram-1271362'>Mucho cuidado si borras tu cuenta de Threads porque eliminarás también la de Instagram</a></h4>
     <a href='https://computerhoy.com/apps/mucho-cuidado-borras-cuenta-threads-porque-eliminaras-tambien-instagram-1271362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mucho-cuidado-borras-cuenta-threads-porque-eliminaras-tambien-instagram-3076696.jpg?tf=1200x' alt='Mucho cuidado si borras tu cuenta de Threads porque eliminarás también la de Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/esfera-vegas-nueva-megaconstruccion-cuenta-miles-paneles-led-1271350'>La Esfera de Las Vegas: así es esta luna que cuenta con miles de paneles LED</a></h4>
-    <a href='https://computerhoy.com/life/esfera-vegas-nueva-megaconstruccion-cuenta-miles-paneles-led-1271350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/esfera-vegas-luna-cuenta-miles-paneles-led-3076660.jpg?tf=1200x' alt='La Esfera de Las Vegas: así es esta luna que cuenta con miles de paneles LED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/equilibrio-trabajo-familia-nueva-ley-espanola-amplia-derechos-flexibilidad-1271330'>Equilibrio entre trabajo y familia: esta nueva ley española amplía tus derechos y flexibilidad</a></h4>
-    <a href='https://computerhoy.com/life/equilibrio-trabajo-familia-nueva-ley-espanola-amplia-derechos-flexibilidad-1271330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/equilibrio-trabajo-familia-nueva-ley-espanola-amplia-derechos-flexibilidad-3076612.jpg?tf=1200x' alt='Equilibrio entre trabajo y familia: esta nueva ley española amplía tus derechos y flexibilidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/no-deberias-cantar-victoria-todavia-no-has-sido-convocado-mesa-electoral-elecciones-23j-1271314'>No deberías cantar victoria si todavía no has sido convocado a una mesa electoral para las elecciones del 23J</a></h4>
-    <a href='https://computerhoy.com/life/no-deberias-cantar-victoria-todavia-no-has-sido-convocado-mesa-electoral-elecciones-23j-1271314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/dietas-elecciones-3028954.jpg?tf=1200x' alt='No deberías cantar victoria si todavía no has sido convocado a una mesa electoral para las elecciones del 23J' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/todo-debes-saber-threads-nueva-app-meta-nace-hacer-frente-twitter-1271242'>Todo lo que debes saber de Threads, la nueva app de Meta que nace para desafiar a Twitter y cómo probarla desde España</a></h4>
-    <a href='https://computerhoy.com/apps/todo-debes-saber-threads-nueva-app-meta-nace-hacer-frente-twitter-1271242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/todo-debes-saber-threads-nueva-app-meta-nace-hacer-frente-twitter-3076538.jpg?tf=1200x' alt='Todo lo que debes saber de Threads, la nueva app de Meta que nace para desafiar a Twitter y cómo probarla desde España' />
     </a>
 </div>
 
