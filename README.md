@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/atresplayer-integra-prime-video-1271182'>La plataforma atresplayer se integra en Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/atresplayer-integra-prime-video-1271182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/plataforma-atresplayer-integra-prime-video-3076354.jpg?tf=1200x' alt='La plataforma atresplayer se integra en Prime Video' />
+    <h4><a href='https://computerhoy.com/tecnologia/televisor-qled-144-hz-barato-nunca-amazon-1268438'>Si tienes una PS5, este televisor le va a dar un salto de calidad: 144 Hz y panel QLED a un precio imbatible</a></h4>
+    <a href='https://computerhoy.com/tecnologia/televisor-qled-144-hz-barato-nunca-amazon-1268438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hisense-55e7k-pro-qled-3071748.jpg?tf=1200x' alt='Si tienes una PS5, este televisor le va a dar un salto de calidad: 144 Hz y panel QLED a un precio imbatible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/mejores-moviles-menos-200-euros-1269440'>Mejores móviles de 200 euros que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/mejores/mejores-moviles-menos-200-euros-1269440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galeria-review-realme-9i-2618281.jpg?tf=1200x' alt='Mejores móviles de 200 euros que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/internet/quieres-ver-2001-odisea-espacio-mastodon-vas-tardar-5-anos-1271222'>Alguien está subiendo la película 2001 Una odisea del espacio a Mastodon, fotograma a fotograma: va a tardar 5 años</a></h4>
+    <a href='https://computerhoy.com/internet/quieres-ver-2001-odisea-espacio-mastodon-vas-tardar-5-anos-1271222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/alguien-subiendo-pelicula-2001-odisea-espacio-mastodon-fotograma-fotograma-va-tardar-5-anos-3076362.jpg?tf=1200x' alt='Alguien está subiendo la película 2001 Una odisea del espacio a Mastodon, fotograma a fotograma: va a tardar 5 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/2-3-julio-dias-mas-calurosos-historia-nivel-mundial-1271178'>El 2 de julio fue el día más caluroso de la historia a nivel mundial, y el 3 de julio se volvió a batir el récord</a></h4>
-    <a href='https://computerhoy.com/ciencia/2-3-julio-dias-mas-calurosos-historia-nivel-mundial-1271178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lunes-fue-dia-caluroso-historia-nivel-mundial-martes-volvio-batir-record-3076218.jpg?tf=1200x' alt='El 2 de julio fue el día más caluroso de la historia a nivel mundial, y el 3 de julio se volvió a batir el récord' />
+    <h4><a href='https://computerhoy.com/espacio/basura-espacial-pruebas-armas-antisatelite-amenazan-orbita-terrestre-1271226'>La basura espacial y las pruebas de armas antisatélite amenazan la órbita terrestre</a></h4>
+    <a href='https://computerhoy.com/espacio/basura-espacial-pruebas-armas-antisatelite-amenazan-orbita-terrestre-1271226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/basura-espacial-pruebas-armas-antisatelite-amenazan-orbita-terrestre-3076424.jpg?tf=1200x' alt='La basura espacial y las pruebas de armas antisatélite amenazan la órbita terrestre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/union-europea-gatekeepers-ley-mercados-digitales-1271062'>La Unión Europea ya ha elegido a los 7 Gatekeepers, Internet va a cambiar para siempre</a></h4>
-    <a href='https://computerhoy.com/internet/union-europea-gatekeepers-ley-mercados-digitales-1271062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/union-europea-va-obligar-etiquetar-todo-contenido-generado-ia-3052170.jpg?tf=1200x' alt='La Unión Europea ya ha elegido a los 7 Gatekeepers, Internet va a cambiar para siempre' />
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-646-computer-hoy-1263940'>¡Ya está en tu quiosco el número 646 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-646-computer-hoy-1263940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/computer-hoy-646-3065786.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 646 de Computer Hoy!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ultima-version-kodi-ya-disponible-deberias-actualizar-ya-1270800'>La última versión de Kodi ya está disponible y deberías actualizar cuanto antes</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ultima-version-kodi-ya-disponible-deberias-actualizar-ya-1270800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/kodi-nexus-2981674.jpg?tf=1200x' alt='La última versión de Kodi ya está disponible y deberías actualizar cuanto antes' />
+    <h4><a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508'>Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/afeitadora-electrica-braun-series-9-2710745.jpg?tf=1200x' alt='Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar' />
     </a>
 </div>
 
