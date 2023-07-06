@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/union-europea-gatekeepers-ley-mercados-digitales-1271062'>La Unión Europea ya ha elegido a los 7 Gatekeepers, Internet va a cambiar para siempre</a></h4>
+    <a href='https://computerhoy.com/internet/union-europea-gatekeepers-ley-mercados-digitales-1271062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/union-europea-va-obligar-etiquetar-todo-contenido-generado-ia-3052170.jpg?tf=1200x' alt='La Unión Europea ya ha elegido a los 7 Gatekeepers, Internet va a cambiar para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ultima-version-kodi-ya-disponible-deberias-actualizar-ya-1270800'>La última versión de Kodi ya está disponible y deberías actualizar cuanto antes</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ultima-version-kodi-ya-disponible-deberias-actualizar-ya-1270800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/kodi-nexus-2981674.jpg?tf=1200x' alt='La última versión de Kodi ya está disponible y deberías actualizar cuanto antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/smartwatch-auriculares-buzon-estafas-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses</a></h4>
     <a href='https://computerhoy.com/tecnologia/smartwatch-auriculares-buzon-estafas-brushing-malware-1265776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/te-encuentras-smartwatch-auriculares-nuevos-buzon-no-uses-3067202.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/que-hacer-no-has-recibido-devolucion-declaracion-renta-1270814'>Qué puedes hacer si todavía no has recibido la devolución de la declaración de La Renta</a></h4>
     <a href='https://computerhoy.com/life/que-hacer-no-has-recibido-devolucion-declaracion-renta-1270814' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/carta-hacienda-3063868.jpg?tf=1200x' alt='Qué puedes hacer si todavía no has recibido la devolución de la declaración de La Renta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/mejor-gazpacho-envasado-lidl-cuesta-menos-mitad-marca-1271054'>El mejor gazpacho envasado es de Lidl y cuesta menos de la mitad que los de marca</a></h4>
-    <a href='https://computerhoy.com/alimentacion/mejor-gazpacho-envasado-lidl-cuesta-menos-mitad-marca-1271054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/gazpacho-3076208.jpg?tf=1200x' alt='El mejor gazpacho envasado es de Lidl y cuesta menos de la mitad que los de marca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/como-evitar-airtag-te-rastree-solucion-android-1266790'>Cómo evitar que un AirTag te rastree: la solución de Android</a></h4>
-    <a href='https://computerhoy.com/android/como-evitar-airtag-te-rastree-solucion-android-1266790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airtag-2696073.jpg?tf=1200x' alt='Cómo evitar que un AirTag te rastree: la solución de Android' />
     </a>
 </div>
 
