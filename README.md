@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/descubren-roca-fosfatos-noruega-rompe-dependencia-china-1271534'>Descubren una enorme roca en Noruega con minerales que cubren la demanda mundial de baterías, paneles solares y fertilizantes durante 50 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descubren-roca-fosfatos-noruega-rompe-dependencia-china-1271534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/descubren-enorme-roca-noruega-minerales-cubren-demanda-mundial-baterias-paneles-solares-fertilizantes-durante-50-anos-3077048.jpg?tf=1200x' alt='Descubren una enorme roca en Noruega con minerales que cubren la demanda mundial de baterías, paneles solares y fertilizantes durante 50 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/halla-exoplaneta-no-deberia-existir-1271532'>Los astrónomos estás desconcertados porque han descubierto un planeta que no debería existir</a></h4>
+    <a href='https://computerhoy.com/espacio/halla-exoplaneta-no-deberia-existir-1271532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/astronomos-estas-desconcertados-porque-han-descubierto-planeta-no-deberia-existir-3077026.jpg?tf=1200x' alt='Los astrónomos estás desconcertados porque han descubierto un planeta que no debería existir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/amouranth-gana-2-millones-mes-grabar-mientras-duerme-onlyfans-1271500'>Gana más de 2 millones al mes haciendo cosas como dormir delante de la cámara en Onlyfans</a></h4>
     <a href='https://computerhoy.com/life/amouranth-gana-2-millones-mes-grabar-mientras-duerme-onlyfans-1271500' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/amouranth-2964342.jpg?tf=1200x' alt='Gana más de 2 millones al mes haciendo cosas como dormir delante de la cámara en Onlyfans' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-12-podria-llegar-antes-esperado-enfocado-ia-nueva-barra-tareas-1271512'>Windows 12 podría llegar antes de lo esperado enfocado en la IA y con nueva barra de tareas</a></h4>
     <a href='https://computerhoy.com/windows/windows-12-podria-llegar-antes-esperado-enfocado-ia-nueva-barra-tareas-1271512' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/windows-12-2845309.jpg?tf=1200x' alt='Windows 12 podría llegar antes de lo esperado enfocado en la IA y con nueva barra de tareas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-avisa-soplar-cartuchos-no-funciona-switch-no-solo-eso-podrias-cargarte-consola-1271482'>Nintendo avisa: soplar los cartuchos no funciona en Switch, no solo eso, podrías cargarte la consola</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-avisa-soplar-cartuchos-no-funciona-switch-no-solo-eso-podrias-cargarte-consola-1271482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cartucho-juego-nintendo-switch-3076976.jpg?tf=1200x' alt='Nintendo avisa: soplar los cartuchos no funciona en Switch, no solo eso, podrías cargarte la consola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/genial-truco-ser-primero-recoger-maleta-bajar-avion-1271180'>El genial truco para ser el primero en recoger la maleta de la cinta de equipajes al bajar del avión</a></h4>
-    <a href='https://computerhoy.com/life/genial-truco-ser-primero-recoger-maleta-bajar-avion-1271180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/cinta-equipaje-aeropuerto-2393653.jpg?tf=1200x' alt='El genial truco para ser el primero en recoger la maleta de la cinta de equipajes al bajar del avión' />
     </a>
 </div>
 
