@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/ultimo-viaje-espacial-ariane-5-1271756'>El fin de una era: el último viaje espacial del cohete Ariane 5 de la Agencia Espacial Europea</a></h4>
+    <a href='https://computerhoy.com/espacio/ultimo-viaje-espacial-ariane-5-1271756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/fin-era-ultimo-viaje-espacial-ariane-5-3077050.jpg?tf=1200x' alt='El fin de una era: el último viaje espacial del cohete Ariane 5 de la Agencia Espacial Europea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/descubren-roca-fosfatos-noruega-rompe-dependencia-china-1271534'>Descubren una enorme roca en Noruega con minerales que cubren la demanda mundial de baterías, paneles solares y fertilizantes durante 50 años</a></h4>
     <a href='https://computerhoy.com/tecnologia/descubren-roca-fosfatos-noruega-rompe-dependencia-china-1271534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/descubren-enorme-roca-noruega-minerales-cubren-demanda-mundial-baterias-paneles-solares-fertilizantes-durante-50-anos-3077048.jpg?tf=1200x' alt='Descubren una enorme roca en Noruega con minerales que cubren la demanda mundial de baterías, paneles solares y fertilizantes durante 50 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/expertos-europeos-colocan-cerveza-espanola-mejores-mundo-tranquilo-no-cruzcampo-1271518'>Expertos europeos colocan una cerveza española entre las mejores del mundo, y tranquilo no es Cruzcampo</a></h4>
     <a href='https://computerhoy.com/alimentacion/expertos-europeos-colocan-cerveza-espanola-mejores-mundo-tranquilo-no-cruzcampo-1271518' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cerveza-3077016.jpg?tf=1200x' alt='Expertos europeos colocan una cerveza española entre las mejores del mundo, y tranquilo no es Cruzcampo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-12-podria-llegar-antes-esperado-enfocado-ia-nueva-barra-tareas-1271512'>Windows 12 podría llegar antes de lo esperado enfocado en la IA y con nueva barra de tareas</a></h4>
-    <a href='https://computerhoy.com/windows/windows-12-podria-llegar-antes-esperado-enfocado-ia-nueva-barra-tareas-1271512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/windows-12-2845309.jpg?tf=1200x' alt='Windows 12 podría llegar antes de lo esperado enfocado en la IA y con nueva barra de tareas' />
     </a>
 </div>
 
