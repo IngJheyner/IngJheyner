@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/deberias-ponerte-siempre-crema-solar-antes-subirte-avion-1271484'>Por qué deberías ponerte siempre crema solar antes de subirte a un avión</a></h4>
+    <a href='https://computerhoy.com/life/deberias-ponerte-siempre-crema-solar-antes-subirte-avion-1271484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ventanilla-avion-3076980.jpg?tf=1200x' alt='Por qué deberías ponerte siempre crema solar antes de subirte a un avión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/deberias-dejar-moneda-dentro-congelador-antes-irte-vacaciones-1271516'>Parece una estupidez, pero deberías dejar una moneda dentro del congelador antes de irte de vacaciones</a></h4>
+    <a href='https://computerhoy.com/life/deberias-dejar-moneda-dentro-congelador-antes-irte-vacaciones-1271516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/moneda-nevera-3077046.jpg?tf=1200x' alt='Parece una estupidez, pero deberías dejar una moneda dentro del congelador antes de irte de vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/cuantos-suscriptores-necesitas-empezar-ganar-dinero-youtube-1272018'>¿Cuántos suscriptores necesitas para empezar a monetizar en YouTube y ganar dinero?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cuantos-suscriptores-necesitas-empezar-ganar-dinero-youtube-1272018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/youtube-juegos-3066838.jpg?tf=1200x' alt='¿Cuántos suscriptores necesitas para empezar a monetizar en YouTube y ganar dinero?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-skyshowtime-robots-comedia-francesa-paco-leon-1271852'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y SkyShowtime: Robots, una comedia francesa y Paco León</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-skyshowtime-robots-comedia-francesa-paco-leon-1271852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/peliculas-ver-fin-semana-netflix-movistar-plus-skyshowtime-robots-comedia-francesa-paco-leon-3077716.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y SkyShowtime: Robots, una comedia francesa y Paco León' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/significado-simbolos-mando-playstation-estas-utilizando-mal-1271536'>Este es el significado de los símbolos del mando de PlayStation, y sí, los estás utilizando mal</a></h4>
     <a href='https://computerhoy.com/gaming/significado-simbolos-mando-playstation-estas-utilizando-mal-1271536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dualsense-midnight-black-2549607.jpg?tf=1200x' alt='Este es el significado de los símbolos del mando de PlayStation, y sí, los estás utilizando mal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/genial-truco-esconde-router-wifi-mejora-senal-velocidad-internet-instante-1271754'>El genial truco que esconde tu router WiFi que mejora la señal y velocidad de tu internet en un instante</a></h4>
-    <a href='https://computerhoy.com/redes/genial-truco-esconde-router-wifi-mejora-senal-velocidad-internet-instante-1271754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/router-wifi-3077722.jpg?tf=1200x' alt='El genial truco que esconde tu router WiFi que mejora la señal y velocidad de tu internet en un instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nuevo-descubrimiento-revela-luna-parecida-tierra-cree-1271822'>Un nuevo descubrimiento revela que la Luna es más parecida a la Tierra de lo que se cree</a></h4>
-    <a href='https://computerhoy.com/espacio/nuevo-descubrimiento-revela-luna-parecida-tierra-cree-1271822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nuevo-descubrimiento-revela-luna-parecida-tierra-cree-3077380.jpg?tf=1200x' alt='Un nuevo descubrimiento revela que la Luna es más parecida a la Tierra de lo que se cree' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-empezar-onlyfans-cero-consejos-trucos-mejores-creadores-1271854'>Cómo empezar en OnlyFans desde cero: consejos y trucos de los mejores creadores</a></h4>
-    <a href='https://computerhoy.com/apps/como-empezar-onlyfans-cero-consejos-trucos-mejores-creadores-1271854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/como-empezar-onlyfans-cero-consejos-trucos-mejores-creadores-3077452.jpg?tf=1200x' alt='Cómo empezar en OnlyFans desde cero: consejos y trucos de los mejores creadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/enchufe-inteligente-amazon-oferta-prime-day-precio-minimo-1270592'>Alexa, enciende el aire acondicionado: el enchufe inteligente de Amazon está en oferta por el Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/enchufe-inteligente-amazon-oferta-prime-day-precio-minimo-1270592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amazon-smart-plug-2147603.jpg?tf=1200x' alt='Alexa, enciende el aire acondicionado: el enchufe inteligente de Amazon está en oferta por el Prime Day' />
     </a>
 </div>
 
