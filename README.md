@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-uso-descubrimiento-medicamentos-todo-exito-1271794'>La inteligencia artificial y su uso para el descubrimiento de medicamentos, todo un éxito </a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-uso-descubrimiento-medicamentos-todo-exito-1271794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/inteligencia-artificial-uso-descubrimiento-medicamentos-todo-exito-3077314.jpg?tf=1200x' alt='La inteligencia artificial y su uso para el descubrimiento de medicamentos, todo un éxito ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/ultima-vez-instagram-lanzo-threads-fue-fracaso-absoluto-1270768'>La última vez que Instagram lanzó Threads fue un fracaso absoluto</a></h4>
+    <a href='https://computerhoy.com/internet/ultima-vez-instagram-lanzo-threads-fue-fracaso-absoluto-1270768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/threads-3075804.jpg?tf=1200x' alt='La última vez que Instagram lanzó Threads fue un fracaso absoluto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/parking-robot-te-aparca-coche-forma-autonoma-1271758'>Este parking tiene un robot que te aparca el coche de forma autónoma (vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/parking-robot-te-aparca-coche-forma-autonoma-1271758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1688701679873-3077252.jpg?tf=1200x' alt='Este parking tiene un robot que te aparca el coche de forma autónoma (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/historia-meta-origen-facebook-metaverso-1237526'>25 aniversario de Computer Hoy: Historia de Meta, desde los humildes inicios de Facebook hasta el gigante que lo apostó todo por el metaverso</a></h4>
+    <a href='https://computerhoy.com/redes/historia-meta-origen-facebook-metaverso-1237526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/historia-facebook-meta-3057290.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Historia de Meta, desde los humildes inicios de Facebook hasta el gigante que lo apostó todo por el metaverso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/ultimo-viaje-espacial-ariane-5-1271756'>El fin de una era: el último viaje espacial del cohete Ariane 5 de la Agencia Espacial Europea</a></h4>
     <a href='https://computerhoy.com/espacio/ultimo-viaje-espacial-ariane-5-1271756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/fin-era-ultimo-viaje-espacial-ariane-5-3077050.jpg?tf=1200x' alt='El fin de una era: el último viaje espacial del cohete Ariane 5 de la Agencia Espacial Europea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/descubren-roca-fosfatos-noruega-rompe-dependencia-china-1271534'>Descubren una enorme roca en Noruega con minerales que cubren la demanda mundial de baterías, paneles solares y fertilizantes durante 50 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/descubren-roca-fosfatos-noruega-rompe-dependencia-china-1271534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/descubren-enorme-roca-noruega-minerales-cubren-demanda-mundial-baterias-paneles-solares-fertilizantes-durante-50-anos-3077048.jpg?tf=1200x' alt='Descubren una enorme roca en Noruega con minerales que cubren la demanda mundial de baterías, paneles solares y fertilizantes durante 50 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/halla-exoplaneta-no-deberia-existir-1271532'>Los astrónomos estás desconcertados porque han descubierto un planeta que no debería existir</a></h4>
-    <a href='https://computerhoy.com/espacio/halla-exoplaneta-no-deberia-existir-1271532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/astronomos-estas-desconcertados-porque-han-descubierto-planeta-no-deberia-existir-3077026.jpg?tf=1200x' alt='Los astrónomos estás desconcertados porque han descubierto un planeta que no debería existir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/amouranth-gana-2-millones-mes-grabar-mientras-duerme-onlyfans-1271500'>Gana más de 2 millones al mes haciendo cosas como dormir delante de la cámara en Onlyfans</a></h4>
-    <a href='https://computerhoy.com/life/amouranth-gana-2-millones-mes-grabar-mientras-duerme-onlyfans-1271500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/amouranth-2964342.jpg?tf=1200x' alt='Gana más de 2 millones al mes haciendo cosas como dormir delante de la cámara en Onlyfans' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/expertos-europeos-colocan-cerveza-espanola-mejores-mundo-tranquilo-no-cruzcampo-1271518'>Expertos europeos colocan una cerveza española entre las mejores del mundo, y tranquilo no es Cruzcampo</a></h4>
-    <a href='https://computerhoy.com/alimentacion/expertos-europeos-colocan-cerveza-espanola-mejores-mundo-tranquilo-no-cruzcampo-1271518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cerveza-3077016.jpg?tf=1200x' alt='Expertos europeos colocan una cerveza española entre las mejores del mundo, y tranquilo no es Cruzcampo' />
     </a>
 </div>
 
