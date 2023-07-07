@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/deberias-ponerte-siempre-crema-solar-antes-subirte-avion-1271484'>Por qué deberías ponerte siempre crema solar antes de subirte a un avión</a></h4>
-    <a href='https://computerhoy.com/life/deberias-ponerte-siempre-crema-solar-antes-subirte-avion-1271484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ventanilla-avion-3076980.jpg?tf=1200x' alt='Por qué deberías ponerte siempre crema solar antes de subirte a un avión' />
+    <h4><a href='https://computerhoy.com/life/guardia-civil-alerta-timo-instalador-no-abras-1272056'>La Guardia Civil alerta del timo del instalador: si te cuentan estas historias, no abras</a></h4>
+    <a href='https://computerhoy.com/life/guardia-civil-alerta-timo-instalador-no-abras-1272056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/guardia-civil-alerta-timo-instalador-3077928.jpg?tf=1200x' alt='La Guardia Civil alerta del timo del instalador: si te cuentan estas historias, no abras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/deberias-dejar-moneda-dentro-congelador-antes-irte-vacaciones-1271516'>Parece una estupidez, pero deberías dejar una moneda dentro del congelador antes de irte de vacaciones</a></h4>
-    <a href='https://computerhoy.com/life/deberias-dejar-moneda-dentro-congelador-antes-irte-vacaciones-1271516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/moneda-nevera-3077046.jpg?tf=1200x' alt='Parece una estupidez, pero deberías dejar una moneda dentro del congelador antes de irte de vacaciones' />
+    <h4><a href='https://computerhoy.com/life/seguro-tiene-buena-memoria-detienen-contrabandista-420-discos-ssd-pegados-cuerpo-1272082'>Seguro que tiene buena memoria: detienen a un contrabandista con más de 420 discos SSD pegados al cuerpo</a></h4>
+    <a href='https://computerhoy.com/life/seguro-tiene-buena-memoria-detienen-contrabandista-420-discos-ssd-pegados-cuerpo-1272082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/detienen-contrabandista-420-discos-ssd-pegados-cuerpo-3078016.jpg?tf=1200x' alt='Seguro que tiene buena memoria: detienen a un contrabandista con más de 420 discos SSD pegados al cuerpo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cuantos-suscriptores-necesitas-empezar-ganar-dinero-youtube-1272018'>¿Cuántos suscriptores necesitas para empezar a monetizar en YouTube y ganar dinero?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cuantos-suscriptores-necesitas-empezar-ganar-dinero-youtube-1272018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/youtube-juegos-3066838.jpg?tf=1200x' alt='¿Cuántos suscriptores necesitas para empezar a monetizar en YouTube y ganar dinero?' />
+    <h4><a href='https://computerhoy.com/apps/chatgpt-sufre-acusado-descenso-usuarios-motivo-curioso-vez-preocupante-1272080'>ChatGPT sufre un acusado descenso de usuarios y el motivo es curioso, a la vez que preocupante</a></h4>
+    <a href='https://computerhoy.com/apps/chatgpt-sufre-acusado-descenso-usuarios-motivo-curioso-vez-preocupante-1272080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3078012.jpg?tf=1200x' alt='ChatGPT sufre un acusado descenso de usuarios y el motivo es curioso, a la vez que preocupante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-skyshowtime-robots-comedia-francesa-paco-leon-1271852'>Qué películas ver este fin de semana en Netflix, Movistar Plus+ y SkyShowtime: Robots, una comedia francesa y Paco León</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-movistar-plus-skyshowtime-robots-comedia-francesa-paco-leon-1271852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/peliculas-ver-fin-semana-netflix-movistar-plus-skyshowtime-robots-comedia-francesa-paco-leon-3077716.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Movistar Plus+ y SkyShowtime: Robots, una comedia francesa y Paco León' />
+    <h4><a href='https://computerhoy.com/life/albert-einstein-rogo-gobierno-americano-fabricara-bomba-atomica-error-persiguio-toda-vida-1271456'>Albert Einstein rogó al gobierno americano que fabricara la bomba atómica, un error que le persiguió toda su vida</a></h4>
+    <a href='https://computerhoy.com/life/albert-einstein-rogo-gobierno-americano-fabricara-bomba-atomica-error-persiguio-toda-vida-1271456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/albert-einstein-bomba-atomica-3076946.jpg?tf=1200x' alt='Albert Einstein rogó al gobierno americano que fabricara la bomba atómica, un error que le persiguió toda su vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/significado-simbolos-mando-playstation-estas-utilizando-mal-1271536'>Este es el significado de los símbolos del mando de PlayStation, y sí, los estás utilizando mal</a></h4>
-    <a href='https://computerhoy.com/gaming/significado-simbolos-mando-playstation-estas-utilizando-mal-1271536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dualsense-midnight-black-2549607.jpg?tf=1200x' alt='Este es el significado de los símbolos del mando de PlayStation, y sí, los estás utilizando mal' />
+    <h4><a href='https://computerhoy.com/entretenimiento/web-peliculas-series-gratis-grande-mundo-cambia-nombre-burlar-google-1272044'>La web de películas y series gratis más grande del mundo cambia de nombre para burlar a Google</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/web-peliculas-series-gratis-grande-mundo-cambia-nombre-burlar-google-1272044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/web-anime-gratis-grande-mundo-cambia-nombre-burlar-google-3077948.jpg?tf=1200x' alt='La web de películas y series gratis más grande del mundo cambia de nombre para burlar a Google' />
     </a>
 </div>
 
