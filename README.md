@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/significado-simbolos-mando-playstation-estas-utilizando-mal-1271536'>Este es el significado de los símbolos del mando de PlayStation, y sí, los estás utilizando mal</a></h4>
+    <a href='https://computerhoy.com/gaming/significado-simbolos-mando-playstation-estas-utilizando-mal-1271536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/dualsense-midnight-black-2549607.jpg?tf=1200x' alt='Este es el significado de los símbolos del mando de PlayStation, y sí, los estás utilizando mal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/genial-truco-esconde-router-wifi-mejora-senal-velocidad-internet-instante-1271754'>El genial truco que esconde tu router WiFi que mejora la señal y velocidad de tu internet en un instante</a></h4>
+    <a href='https://computerhoy.com/redes/genial-truco-esconde-router-wifi-mejora-senal-velocidad-internet-instante-1271754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/router-wifi-3077722.jpg?tf=1200x' alt='El genial truco que esconde tu router WiFi que mejora la señal y velocidad de tu internet en un instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nuevo-descubrimiento-revela-luna-parecida-tierra-cree-1271822'>Un nuevo descubrimiento revela que la Luna es más parecida a la Tierra de lo que se cree</a></h4>
     <a href='https://computerhoy.com/espacio/nuevo-descubrimiento-revela-luna-parecida-tierra-cree-1271822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nuevo-descubrimiento-revela-luna-parecida-tierra-cree-3077380.jpg?tf=1200x' alt='Un nuevo descubrimiento revela que la Luna es más parecida a la Tierra de lo que se cree' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/enchufe-inteligente-amazon-oferta-prime-day-precio-minimo-1270592'>Alexa, enciende el aire acondicionado: el enchufe inteligente de Amazon está en oferta por el Prime Day</a></h4>
     <a href='https://computerhoy.com/tecnologia/enchufe-inteligente-amazon-oferta-prime-day-precio-minimo-1270592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amazon-smart-plug-2147603.jpg?tf=1200x' alt='Alexa, enciende el aire acondicionado: el enchufe inteligente de Amazon está en oferta por el Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/google-maps-cerveza-espana-marca-favorita-cada-provincia-clarisimo-ganador-1271796'>El Google Maps de la cerveza en España: la marca favorita en cada provincia con un clarísimo ganador</a></h4>
-    <a href='https://computerhoy.com/life/google-maps-cerveza-espana-marca-favorita-cada-provincia-clarisimo-ganador-1271796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-maps-cerveza-espana-marca-favorita-cada-provincia-clarisimo-ganador-3077366.jpg?tf=1200x' alt='El Google Maps de la cerveza en España: la marca favorita en cada provincia con un clarísimo ganador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-uso-descubrimiento-medicamentos-todo-exito-1271794'>La inteligencia artificial y su uso para el descubrimiento de medicamentos, todo un éxito </a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-uso-descubrimiento-medicamentos-todo-exito-1271794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/inteligencia-artificial-uso-descubrimiento-medicamentos-todo-exito-3077314.jpg?tf=1200x' alt='La inteligencia artificial y su uso para el descubrimiento de medicamentos, todo un éxito ' />
     </a>
 </div>
 
