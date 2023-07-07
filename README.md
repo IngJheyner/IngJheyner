@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nuevo-descubrimiento-revela-luna-parecida-tierra-cree-1271822'>Un nuevo descubrimiento revela que la Luna es más parecida a la Tierra de lo que se cree</a></h4>
+    <a href='https://computerhoy.com/espacio/nuevo-descubrimiento-revela-luna-parecida-tierra-cree-1271822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nuevo-descubrimiento-revela-luna-parecida-tierra-cree-3077380.jpg?tf=1200x' alt='Un nuevo descubrimiento revela que la Luna es más parecida a la Tierra de lo que se cree' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-empezar-onlyfans-cero-consejos-trucos-mejores-creadores-1271854'>Cómo empezar en OnlyFans desde cero: consejos y trucos de los mejores creadores</a></h4>
+    <a href='https://computerhoy.com/apps/como-empezar-onlyfans-cero-consejos-trucos-mejores-creadores-1271854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/como-empezar-onlyfans-cero-consejos-trucos-mejores-creadores-3077452.jpg?tf=1200x' alt='Cómo empezar en OnlyFans desde cero: consejos y trucos de los mejores creadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/enchufe-inteligente-amazon-oferta-prime-day-precio-minimo-1270592'>Alexa, enciende el aire acondicionado: el enchufe inteligente de Amazon está en oferta por el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/enchufe-inteligente-amazon-oferta-prime-day-precio-minimo-1270592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/amazon-smart-plug-2147603.jpg?tf=1200x' alt='Alexa, enciende el aire acondicionado: el enchufe inteligente de Amazon está en oferta por el Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/google-maps-cerveza-espana-marca-favorita-cada-provincia-clarisimo-ganador-1271796'>El Google Maps de la cerveza en España: la marca favorita en cada provincia con un clarísimo ganador</a></h4>
+    <a href='https://computerhoy.com/life/google-maps-cerveza-espana-marca-favorita-cada-provincia-clarisimo-ganador-1271796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-maps-cerveza-espana-marca-favorita-cada-provincia-clarisimo-ganador-3077366.jpg?tf=1200x' alt='El Google Maps de la cerveza en España: la marca favorita en cada provincia con un clarísimo ganador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-uso-descubrimiento-medicamentos-todo-exito-1271794'>La inteligencia artificial y su uso para el descubrimiento de medicamentos, todo un éxito </a></h4>
     <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-uso-descubrimiento-medicamentos-todo-exito-1271794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/inteligencia-artificial-uso-descubrimiento-medicamentos-todo-exito-3077314.jpg?tf=1200x' alt='La inteligencia artificial y su uso para el descubrimiento de medicamentos, todo un éxito ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/ultima-vez-instagram-lanzo-threads-fue-fracaso-absoluto-1270768'>La última vez que Instagram lanzó Threads fue un fracaso absoluto</a></h4>
-    <a href='https://computerhoy.com/internet/ultima-vez-instagram-lanzo-threads-fue-fracaso-absoluto-1270768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/threads-3075804.jpg?tf=1200x' alt='La última vez que Instagram lanzó Threads fue un fracaso absoluto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/parking-robot-te-aparca-coche-forma-autonoma-1271758'>Este parking tiene un robot que te aparca el coche de forma autónoma (vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/parking-robot-te-aparca-coche-forma-autonoma-1271758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1688701679873-3077252.jpg?tf=1200x' alt='Este parking tiene un robot que te aparca el coche de forma autónoma (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/historia-meta-origen-facebook-metaverso-1237526'>25 aniversario de Computer Hoy: Historia de Meta, desde los humildes inicios de Facebook hasta el gigante que lo apostó todo por el metaverso</a></h4>
-    <a href='https://computerhoy.com/redes/historia-meta-origen-facebook-metaverso-1237526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/historia-facebook-meta-3057290.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Historia de Meta, desde los humildes inicios de Facebook hasta el gigante que lo apostó todo por el metaverso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/ultimo-viaje-espacial-ariane-5-1271756'>El fin de una era: el último viaje espacial del cohete Ariane 5 de la Agencia Espacial Europea</a></h4>
-    <a href='https://computerhoy.com/espacio/ultimo-viaje-espacial-ariane-5-1271756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/fin-era-ultimo-viaje-espacial-ariane-5-3077050.jpg?tf=1200x' alt='El fin de una era: el último viaje espacial del cohete Ariane 5 de la Agencia Espacial Europea' />
     </a>
 </div>
 
