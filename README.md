@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/relojes-inteligentes-podrian-detectar-sintomas-parkinson-7-anos-antes-diagnostico-clinico-1272334'>Nuestros relojes inteligentes podrían detectar los síntomas del Parkinson 7 años antes de un diagnóstico clínico</a></h4>
-    <a href='https://computerhoy.com/life/relojes-inteligentes-podrian-detectar-sintomas-parkinson-7-anos-antes-diagnostico-clinico-1272334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/reloj-inteligente-hombre-mayor-3078350.jpg?tf=1200x' alt='Nuestros relojes inteligentes podrían detectar los síntomas del Parkinson 7 años antes de un diagnóstico clínico' />
+    <h4><a href='https://computerhoy.com/life/semana-ha-superado-record-mundial-temperatura-media-diaria-1272388'>Esta semana se ha superado el récord mundial de temperatura media diaria</a></h4>
+    <a href='https://computerhoy.com/life/semana-ha-superado-record-mundial-temperatura-media-diaria-1272388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/calor-ciudad-3078404.jpg?tf=1200x' alt='Esta semana se ha superado el récord mundial de temperatura media diaria' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-series-dirigidas-conocidos-directores-cine-1263294'>7 series dirigidas por conocidos directores de cine</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-series-dirigidas-conocidos-directores-cine-1263294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/young-pope-2651693.jpg?tf=1200x' alt='7 series dirigidas por conocidos directores de cine' />
+    <h4><a href='https://computerhoy.com/tecnologia/adios-smartphones-generacion-z-apostando-telefonos-tontos-vida-simple-1267776'>El regreso de los ‘móviles tontos’: la generación Z está abandonando los smartphones y les sobran motivos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-smartphones-generacion-z-apostando-telefonos-tontos-vida-simple-1267776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/generacion-z-muy-retro-nostalgia-desconexion-digital-privacidad-siglo-xxi-3070646.jpg?tf=1200x' alt='El regreso de los ‘móviles tontos’: la generación Z está abandonando los smartphones y les sobran motivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-cosas-bizarras-gente-ha-creado-chatgpt-1265432'>Las 7 cosas más bizarras que la gente ha creado con ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-cosas-bizarras-gente-ha-creado-chatgpt-1265432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/7-cosas-bizarras-gente-ha-creado-chatgpt-3069528.jpg?tf=1200x' alt='Las 7 cosas más bizarras que la gente ha creado con ChatGPT' />
+    <h4><a href='https://computerhoy.com/apps/muchos-usuarios-creen-google-assistant-ha-empeorado-tiempo-seria-razon-1272382'>Muchos usuarios creen que Google Assistant ha empeorado con el tiempo y sería por esta razón</a></h4>
+    <a href='https://computerhoy.com/apps/muchos-usuarios-creen-google-assistant-ha-empeorado-tiempo-seria-razon-1272382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-assistant-2311421.jpg?tf=1200x' alt='Muchos usuarios creen que Google Assistant ha empeorado con el tiempo y sería por esta razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/500-mas-ricos-han-ganado-852000-millones-2023-1272298'>Las crisis siempre benefician a los multimillonarios: los 500 más ricos del mundo han ganado 852.000 millones en 2023</a></h4>
-    <a href='https://computerhoy.com/industria/500-mas-ricos-han-ganado-852000-millones-2023-1272298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-disfrazado-armadura-2957782.jpg?tf=1200x' alt='Las crisis siempre benefician a los multimillonarios: los 500 más ricos del mundo han ganado 852.000 millones en 2023' />
+    <h4><a href='https://computerhoy.com/apple/apple-trabajaria-sonado-macbook-pantalla-plegable-1272368'>Apple trabajaría en un soñado MacBook con pantalla plegable</a></h4>
+    <a href='https://computerhoy.com/apple/apple-trabajaria-sonado-macbook-pantalla-plegable-1272368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/asus-zenbook-fold-oled-3078388.jpg?tf=1200x' alt='Apple trabajaría en un soñado MacBook con pantalla plegable' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuales-son-limites-inteligencia-artificial-aun-no-puede-hacer-1266246'>¿Cuáles son los límites de la inteligencia artificial? Lo que aún no puede hacer</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuales-son-limites-inteligencia-artificial-aun-no-puede-hacer-1266246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cuales-son-limites-inteligencia-artificial-aun-no-puede-hacer-3069956.jpg?tf=1200x' alt='¿Cuáles son los límites de la inteligencia artificial? Lo que aún no puede hacer' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-prepara-sugerencias-inteligentes-pegatinas-filtrado-chats-avanzado-1272352'>WhatsApp prepara sugerencias inteligentes de pegatinas y filtrado de chats avanzado</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-prepara-sugerencias-inteligentes-pegatinas-filtrado-chats-avanzado-1272352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/buscador-stickers-whatsapp-2031513.jpg?tf=1200x' alt='WhatsApp prepara sugerencias inteligentes de pegatinas y filtrado de chats avanzado' />
     </a>
 </div>
 
