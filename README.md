@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/elon-musk-te-da-elon-musk-te-quita-zuckerberg-aprovecha-1270118'>Lo que Elon Musk te da, Elon Musk te quita (y Zuckerberg aprovecha) </a></h4>
-    <a href='https://computerhoy.com/internet/elon-musk-te-da-elon-musk-te-quita-zuckerberg-aprovecha-1270118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-dueno-twitter-3074252.jpg?tf=1200x' alt='Lo que Elon Musk te da, Elon Musk te quita (y Zuckerberg aprovecha) ' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuales-son-limites-inteligencia-artificial-aun-no-puede-hacer-1266246'>¿Cuáles son los límites de la inteligencia artificial? Lo que aún no puede hacer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuales-son-limites-inteligencia-artificial-aun-no-puede-hacer-1266246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cuales-son-limites-inteligencia-artificial-aun-no-puede-hacer-3069956.jpg?tf=1200x' alt='¿Cuáles son los límites de la inteligencia artificial? Lo que aún no puede hacer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cuanto-peso-puedes-levantar-todos-planetas-lunas-sistema-solar-1271808'>Este vídeo te muestra cuánto peso puedes levantar en todos los planetas y lunas del Sistema Solar</a></h4>
-    <a href='https://computerhoy.com/espacio/cuanto-peso-puedes-levantar-todos-planetas-lunas-sistema-solar-1271808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/video-te-muestra-cuanto-peso-puedes-levantar-todos-planetas-lunas-sistema-solar-3077362.jpg?tf=1200x' alt='Este vídeo te muestra cuánto peso puedes levantar en todos los planetas y lunas del Sistema Solar' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-alta-paro-sepe-1270112'>Cómo saber online si estoy dado de alta en el paro (SEPE)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-alta-paro-sepe-1270112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/sepe-3074064.jpg?tf=1200x' alt='Cómo saber online si estoy dado de alta en el paro (SEPE)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dia-mas-mortifero-historia-humanidad-1272286'>¿Cuál ha sido el día más mortífero en la historia de la humanidad?</a></h4>
-    <a href='https://computerhoy.com/life/dia-mas-mortifero-historia-humanidad-1272286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cual-ha-sido-dia-mortifero-historia-humanidad-3078248.jpg?tf=1200x' alt='¿Cuál ha sido el día más mortífero en la historia de la humanidad?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-google-play-cualquier-dispositivo-1214762'>Cómo instalar Google Play en cualquier dispositivo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-google-play-cualquier-dispositivo-1214762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-play-smartphone-2982328.jpg?tf=1200x' alt='Cómo instalar Google Play en cualquier dispositivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-consejos-trucos-herramientas-1263806'>Consejos y trucos para el Amazon Prime Day 2023: así puedes ahorrar más en las rebajas de verano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-consejos-trucos-herramientas-1263806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-prime-day-2023-3063822.jpg?tf=1200x' alt='Consejos y trucos para el Amazon Prime Day 2023: así puedes ahorrar más en las rebajas de verano' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629'>5 auriculares para usar en tu televisor y no molestar a nadie</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/auriculares-tv-3075234.jpg?tf=1200x' alt='5 auriculares para usar en tu televisor y no molestar a nadie' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mejores-moviles-procesador-dimensity-9000-puedes-comprar-1225534'>Mejores móviles con procesador Dimensity 9000 que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/moviles/mejores-moviles-procesador-dimensity-9000-puedes-comprar-1225534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-pro-2649325.jpg?tf=1200x' alt='Mejores móviles con procesador Dimensity 9000 que puedes comprar' />
+    <h4><a href='https://computerhoy.com/tecnologia/8-caracteristicas-han-desaparecido-dispositivos-echo-falta-1258236'>8 características que han desaparecido de la mayoría de dispositivos y echo de menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/8-caracteristicas-han-desaparecido-dispositivos-echo-falta-1258236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cable-hdmi-21-2663133.jpg?tf=1200x' alt='8 características que han desaparecido de la mayoría de dispositivos y echo de menos' />
     </a>
 </div>
 
