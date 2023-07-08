@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/crean-tecnologia-drones-capaz-hacerlos-mejores-seres-humanos-1272430'>Crean una tecnología para drones capaz de hacerlos mejores que los seres humanos</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-tecnologia-drones-capaz-hacerlos-mejores-seres-humanos-1272430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/crean-tecnologia-drones-capaz-hacerlos-mejores-seres-humanos-3078464.jpg?tf=1200x' alt='Crean una tecnología para drones capaz de hacerlos mejores que los seres humanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/summer-days-dyson-grandes-descuentos-1272320'>Ya están aquí los Summer Days de Dyson, con grandes descuentos en aspiradoras y kits de accesorios de regalo, ¡aprovecha!</a></h4>
+    <a href='https://computerhoy.com/hogar/summer-days-dyson-grandes-descuentos-1272320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ya-estan-aqui-summer-days-dyson-grandes-descuentos-aspiradoras-kits-accesorios-regalo-aprovecha-3078312.jpg?tf=1200x' alt='Ya están aquí los Summer Days de Dyson, con grandes descuentos en aspiradoras y kits de accesorios de regalo, ¡aprovecha!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-15-pro-max-seria-movil-apple-caro-jamas-fabricado-1272394'>El iPhone 15 Pro Max sería el móvil de Apple más caro jamás fabricado</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-15-pro-max-seria-movil-apple-caro-jamas-fabricado-1272394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-pro-max-1677587257882-2969646.jpg?tf=1200x' alt='El iPhone 15 Pro Max sería el móvil de Apple más caro jamás fabricado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/semana-ha-superado-record-mundial-temperatura-media-diaria-1272388'>Esta semana se ha superado el récord mundial de temperatura media diaria</a></h4>
     <a href='https://computerhoy.com/life/semana-ha-superado-record-mundial-temperatura-media-diaria-1272388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/calor-ciudad-3078404.jpg?tf=1200x' alt='Esta semana se ha superado el récord mundial de temperatura media diaria' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/adios-smartphones-generacion-z-apostando-telefonos-tontos-vida-simple-1267776'>El regreso de los ‘móviles tontos’: la generación Z está abandonando los smartphones y les sobran motivos</a></h4>
     <a href='https://computerhoy.com/tecnologia/adios-smartphones-generacion-z-apostando-telefonos-tontos-vida-simple-1267776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/generacion-z-muy-retro-nostalgia-desconexion-digital-privacidad-siglo-xxi-3070646.jpg?tf=1200x' alt='El regreso de los ‘móviles tontos’: la generación Z está abandonando los smartphones y les sobran motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/muchos-usuarios-creen-google-assistant-ha-empeorado-tiempo-seria-razon-1272382'>Muchos usuarios creen que Google Assistant ha empeorado con el tiempo y sería por esta razón</a></h4>
-    <a href='https://computerhoy.com/apps/muchos-usuarios-creen-google-assistant-ha-empeorado-tiempo-seria-razon-1272382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-assistant-2311421.jpg?tf=1200x' alt='Muchos usuarios creen que Google Assistant ha empeorado con el tiempo y sería por esta razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-trabajaria-sonado-macbook-pantalla-plegable-1272368'>Apple trabajaría en un soñado MacBook con pantalla plegable</a></h4>
-    <a href='https://computerhoy.com/apple/apple-trabajaria-sonado-macbook-pantalla-plegable-1272368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/asus-zenbook-fold-oled-3078388.jpg?tf=1200x' alt='Apple trabajaría en un soñado MacBook con pantalla plegable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-prepara-sugerencias-inteligentes-pegatinas-filtrado-chats-avanzado-1272352'>WhatsApp prepara sugerencias inteligentes de pegatinas y filtrado de chats avanzado</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-prepara-sugerencias-inteligentes-pegatinas-filtrado-chats-avanzado-1272352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/buscador-stickers-whatsapp-2031513.jpg?tf=1200x' alt='WhatsApp prepara sugerencias inteligentes de pegatinas y filtrado de chats avanzado' />
     </a>
 </div>
 
