@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/calendario-google-actualizacion-franjas-horario-laboral-1272074'>El Calendario de Google permite añadir tu horario laboral para que no te incluyan en reuniones fuera de tu jornada</a></h4>
+    <a href='https://computerhoy.com/google/calendario-google-actualizacion-franjas-horario-laboral-1272074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-calendar-ahora-permite-especificar-horario-oficina-3077988.jpg?tf=1200x' alt='El Calendario de Google permite añadir tu horario laboral para que no te incluyan en reuniones fuera de tu jornada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/series-miticas-hbo-pasan-netflix-1272094'>Algunas de las series míticas de HBO se pasan a Netflix, ¿qué está pasando?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/series-miticas-hbo-pasan-netflix-1272094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/algunas-series-miticas-hbo-pasan-netflix-pasando-3078076.jpg?tf=1200x' alt='Algunas de las series míticas de HBO se pasan a Netflix, ¿qué está pasando?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/guardia-civil-alerta-timo-instalador-no-abras-1272056'>La Guardia Civil alerta del timo del instalador: si te cuentan estas historias, no abras</a></h4>
     <a href='https://computerhoy.com/life/guardia-civil-alerta-timo-instalador-no-abras-1272056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/guardia-civil-alerta-timo-instalador-3077928.jpg?tf=1200x' alt='La Guardia Civil alerta del timo del instalador: si te cuentan estas historias, no abras' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/chatgpt-sufre-acusado-descenso-usuarios-motivo-curioso-vez-preocupante-1272080'>ChatGPT sufre un acusado descenso de usuarios y el motivo es curioso, a la vez que preocupante</a></h4>
     <a href='https://computerhoy.com/apps/chatgpt-sufre-acusado-descenso-usuarios-motivo-curioso-vez-preocupante-1272080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3078012.jpg?tf=1200x' alt='ChatGPT sufre un acusado descenso de usuarios y el motivo es curioso, a la vez que preocupante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/albert-einstein-rogo-gobierno-americano-fabricara-bomba-atomica-error-persiguio-toda-vida-1271456'>Albert Einstein rogó al gobierno americano que fabricara la bomba atómica, un error que le persiguió toda su vida</a></h4>
-    <a href='https://computerhoy.com/life/albert-einstein-rogo-gobierno-americano-fabricara-bomba-atomica-error-persiguio-toda-vida-1271456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/albert-einstein-bomba-atomica-3076946.jpg?tf=1200x' alt='Albert Einstein rogó al gobierno americano que fabricara la bomba atómica, un error que le persiguió toda su vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/web-peliculas-series-gratis-grande-mundo-cambia-nombre-burlar-google-1272044'>La web de películas y series gratis más grande del mundo cambia de nombre para burlar a Google</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/web-peliculas-series-gratis-grande-mundo-cambia-nombre-burlar-google-1272044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/web-anime-gratis-grande-mundo-cambia-nombre-burlar-google-3077948.jpg?tf=1200x' alt='La web de películas y series gratis más grande del mundo cambia de nombre para burlar a Google' />
     </a>
 </div>
 
