@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-music-unlimited-como-conseguir-4-meses-gratis-amazon-prime-day-1271494'>Qué es Amazon Music Unlimited y cómo conseguir 4 meses gratis en el Amazon Prime Day</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-music-unlimited-como-conseguir-4-meses-gratis-amazon-prime-day-1271494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-music-unlimited-4-meses-gratis-nuevos-usuarios-musica-hd-audio-espacial-3d-2756239.jpg?tf=1200x' alt='Qué es Amazon Music Unlimited y cómo conseguir 4 meses gratis en el Amazon Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/descubren-aplicaciones-spyware-android-15-millones-descargas-1272440'>Descubren aplicaciones con spyware en Android con más de 1,5 millones de descargas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/descubren-aplicaciones-spyware-android-15-millones-descargas-1272440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malware-android-3051122.jpg?tf=1200x' alt='Descubren aplicaciones con spyware en Android con más de 1,5 millones de descargas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/crean-tecnologia-drones-capaz-hacerlos-mejores-seres-humanos-1272430'>Crean una tecnología para drones capaz de hacerlos mejores que los seres humanos</a></h4>
     <a href='https://computerhoy.com/ciencia/crean-tecnologia-drones-capaz-hacerlos-mejores-seres-humanos-1272430' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/crean-tecnologia-drones-capaz-hacerlos-mejores-seres-humanos-3078464.jpg?tf=1200x' alt='Crean una tecnología para drones capaz de hacerlos mejores que los seres humanos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/iphone-15-pro-max-seria-movil-apple-caro-jamas-fabricado-1272394'>El iPhone 15 Pro Max sería el móvil de Apple más caro jamás fabricado</a></h4>
     <a href='https://computerhoy.com/apple/iphone-15-pro-max-seria-movil-apple-caro-jamas-fabricado-1272394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-pro-max-1677587257882-2969646.jpg?tf=1200x' alt='El iPhone 15 Pro Max sería el móvil de Apple más caro jamás fabricado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/semana-ha-superado-record-mundial-temperatura-media-diaria-1272388'>Esta semana se ha superado el récord mundial de temperatura media diaria</a></h4>
-    <a href='https://computerhoy.com/life/semana-ha-superado-record-mundial-temperatura-media-diaria-1272388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/calor-ciudad-3078404.jpg?tf=1200x' alt='Esta semana se ha superado el récord mundial de temperatura media diaria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-smartphones-generacion-z-apostando-telefonos-tontos-vida-simple-1267776'>El regreso de los ‘móviles tontos’: la generación Z está abandonando los smartphones y les sobran motivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-smartphones-generacion-z-apostando-telefonos-tontos-vida-simple-1267776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/generacion-z-muy-retro-nostalgia-desconexion-digital-privacidad-siglo-xxi-3070646.jpg?tf=1200x' alt='El regreso de los ‘móviles tontos’: la generación Z está abandonando los smartphones y les sobran motivos' />
     </a>
 </div>
 
