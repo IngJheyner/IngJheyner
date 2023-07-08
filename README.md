@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/relojes-inteligentes-podrian-detectar-sintomas-parkinson-7-anos-antes-diagnostico-clinico-1272334'>Nuestros relojes inteligentes podrían detectar los síntomas del Parkinson 7 años antes de un diagnóstico clínico</a></h4>
+    <a href='https://computerhoy.com/life/relojes-inteligentes-podrian-detectar-sintomas-parkinson-7-anos-antes-diagnostico-clinico-1272334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/reloj-inteligente-hombre-mayor-3078350.jpg?tf=1200x' alt='Nuestros relojes inteligentes podrían detectar los síntomas del Parkinson 7 años antes de un diagnóstico clínico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-series-dirigidas-conocidos-directores-cine-1263294'>7 series dirigidas por conocidos directores de cine</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-series-dirigidas-conocidos-directores-cine-1263294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/young-pope-2651693.jpg?tf=1200x' alt='7 series dirigidas por conocidos directores de cine' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/7-cosas-bizarras-gente-ha-creado-chatgpt-1265432'>Las 7 cosas más bizarras que la gente ha creado con ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-cosas-bizarras-gente-ha-creado-chatgpt-1265432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/7-cosas-bizarras-gente-ha-creado-chatgpt-3069528.jpg?tf=1200x' alt='Las 7 cosas más bizarras que la gente ha creado con ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/500-mas-ricos-han-ganado-852000-millones-2023-1272298'>Las crisis siempre benefician a los multimillonarios: los 500 más ricos del mundo han ganado 852.000 millones en 2023</a></h4>
+    <a href='https://computerhoy.com/industria/500-mas-ricos-han-ganado-852000-millones-2023-1272298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-disfrazado-armadura-2957782.jpg?tf=1200x' alt='Las crisis siempre benefician a los multimillonarios: los 500 más ricos del mundo han ganado 852.000 millones en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cuales-son-limites-inteligencia-artificial-aun-no-puede-hacer-1266246'>¿Cuáles son los límites de la inteligencia artificial? Lo que aún no puede hacer</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuales-son-limites-inteligencia-artificial-aun-no-puede-hacer-1266246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cuales-son-limites-inteligencia-artificial-aun-no-puede-hacer-3069956.jpg?tf=1200x' alt='¿Cuáles son los límites de la inteligencia artificial? Lo que aún no puede hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-alta-paro-sepe-1270112'>Cómo saber online si estoy dado de alta en el paro (SEPE)</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-alta-paro-sepe-1270112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/sepe-3074064.jpg?tf=1200x' alt='Cómo saber online si estoy dado de alta en el paro (SEPE)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-google-play-cualquier-dispositivo-1214762'>Cómo instalar Google Play en cualquier dispositivo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-google-play-cualquier-dispositivo-1214762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-play-smartphone-2982328.jpg?tf=1200x' alt='Cómo instalar Google Play en cualquier dispositivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629'>5 auriculares para usar en tu televisor y no molestar a nadie</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/auriculares-tv-3075234.jpg?tf=1200x' alt='5 auriculares para usar en tu televisor y no molestar a nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/8-caracteristicas-han-desaparecido-dispositivos-echo-falta-1258236'>8 características que han desaparecido de la mayoría de dispositivos y echo de menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/8-caracteristicas-han-desaparecido-dispositivos-echo-falta-1258236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/cable-hdmi-21-2663133.jpg?tf=1200x' alt='8 características que han desaparecido de la mayoría de dispositivos y echo de menos' />
     </a>
 </div>
 
