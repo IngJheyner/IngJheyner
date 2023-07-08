@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/san-francisco-conos-trafico-capo-robotaxis-bloquearlos-1272282'>En San Francisco la guerra contra los robotaxis es total: están colocando conos en el capó para bloquearlos</a></h4>
-    <a href='https://computerhoy.com/motor/san-francisco-conos-trafico-capo-robotaxis-bloquearlos-1272282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/san-francisco-guerra-robotaxis-total-estan-colocando-conos-capo-bloquearlos-3078080.jpg?tf=1200x' alt='En San Francisco la guerra contra los robotaxis es total: están colocando conos en el capó para bloquearlos' />
+    <h4><a href='https://computerhoy.com/internet/elon-musk-te-da-elon-musk-te-quita-zuckerberg-aprovecha-1270118'>Lo que Elon Musk te da, Elon Musk te quita (y Zuckerberg aprovecha) </a></h4>
+    <a href='https://computerhoy.com/internet/elon-musk-te-da-elon-musk-te-quita-zuckerberg-aprovecha-1270118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-dueno-twitter-3074252.jpg?tf=1200x' alt='Lo que Elon Musk te da, Elon Musk te quita (y Zuckerberg aprovecha) ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/calendario-google-actualizacion-franjas-horario-laboral-1272074'>El Calendario de Google permite añadir tu horario laboral para que no te incluyan en reuniones fuera de tu jornada</a></h4>
-    <a href='https://computerhoy.com/google/calendario-google-actualizacion-franjas-horario-laboral-1272074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-calendar-ahora-permite-especificar-horario-oficina-3077988.jpg?tf=1200x' alt='El Calendario de Google permite añadir tu horario laboral para que no te incluyan en reuniones fuera de tu jornada' />
+    <h4><a href='https://computerhoy.com/espacio/cuanto-peso-puedes-levantar-todos-planetas-lunas-sistema-solar-1271808'>Este vídeo te muestra cuánto peso puedes levantar en todos los planetas y lunas del Sistema Solar</a></h4>
+    <a href='https://computerhoy.com/espacio/cuanto-peso-puedes-levantar-todos-planetas-lunas-sistema-solar-1271808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/video-te-muestra-cuanto-peso-puedes-levantar-todos-planetas-lunas-sistema-solar-3077362.jpg?tf=1200x' alt='Este vídeo te muestra cuánto peso puedes levantar en todos los planetas y lunas del Sistema Solar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/series-miticas-hbo-pasan-netflix-1272094'>Algunas de las series míticas de HBO se pasan a Netflix, ¿qué está pasando?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/series-miticas-hbo-pasan-netflix-1272094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/algunas-series-miticas-hbo-pasan-netflix-pasando-3078076.jpg?tf=1200x' alt='Algunas de las series míticas de HBO se pasan a Netflix, ¿qué está pasando?' />
+    <h4><a href='https://computerhoy.com/life/dia-mas-mortifero-historia-humanidad-1272286'>¿Cuál ha sido el día más mortífero en la historia de la humanidad?</a></h4>
+    <a href='https://computerhoy.com/life/dia-mas-mortifero-historia-humanidad-1272286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cual-ha-sido-dia-mortifero-historia-humanidad-3078248.jpg?tf=1200x' alt='¿Cuál ha sido el día más mortífero en la historia de la humanidad?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/guardia-civil-alerta-timo-instalador-no-abras-1272056'>La Guardia Civil alerta del timo del instalador: si te cuentan estas historias, no abras</a></h4>
-    <a href='https://computerhoy.com/life/guardia-civil-alerta-timo-instalador-no-abras-1272056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/guardia-civil-alerta-timo-instalador-3077928.jpg?tf=1200x' alt='La Guardia Civil alerta del timo del instalador: si te cuentan estas historias, no abras' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-consejos-trucos-herramientas-1263806'>Consejos y trucos para el Amazon Prime Day 2023: así puedes ahorrar más en las rebajas de verano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-consejos-trucos-herramientas-1263806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-prime-day-2023-3063822.jpg?tf=1200x' alt='Consejos y trucos para el Amazon Prime Day 2023: así puedes ahorrar más en las rebajas de verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/seguro-tiene-buena-memoria-detienen-contrabandista-420-discos-ssd-pegados-cuerpo-1272082'>Seguro que tiene buena memoria: detienen a un contrabandista con más de 420 discos SSD pegados al cuerpo</a></h4>
-    <a href='https://computerhoy.com/life/seguro-tiene-buena-memoria-detienen-contrabandista-420-discos-ssd-pegados-cuerpo-1272082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/detienen-contrabandista-420-discos-ssd-pegados-cuerpo-3078016.jpg?tf=1200x' alt='Seguro que tiene buena memoria: detienen a un contrabandista con más de 420 discos SSD pegados al cuerpo' />
+    <h4><a href='https://computerhoy.com/moviles/mejores-moviles-procesador-dimensity-9000-puedes-comprar-1225534'>Mejores móviles con procesador Dimensity 9000 que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/moviles/mejores-moviles-procesador-dimensity-9000-puedes-comprar-1225534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-pro-2649325.jpg?tf=1200x' alt='Mejores móviles con procesador Dimensity 9000 que puedes comprar' />
     </a>
 </div>
 
