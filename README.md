@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/san-francisco-conos-trafico-capo-robotaxis-bloquearlos-1272282'>En San Francisco la guerra contra los robotaxis es total: están colocando conos en el capó para bloquearlos</a></h4>
+    <a href='https://computerhoy.com/motor/san-francisco-conos-trafico-capo-robotaxis-bloquearlos-1272282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/san-francisco-guerra-robotaxis-total-estan-colocando-conos-capo-bloquearlos-3078080.jpg?tf=1200x' alt='En San Francisco la guerra contra los robotaxis es total: están colocando conos en el capó para bloquearlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/calendario-google-actualizacion-franjas-horario-laboral-1272074'>El Calendario de Google permite añadir tu horario laboral para que no te incluyan en reuniones fuera de tu jornada</a></h4>
     <a href='https://computerhoy.com/google/calendario-google-actualizacion-franjas-horario-laboral-1272074' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-calendar-ahora-permite-especificar-horario-oficina-3077988.jpg?tf=1200x' alt='El Calendario de Google permite añadir tu horario laboral para que no te incluyan en reuniones fuera de tu jornada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/seguro-tiene-buena-memoria-detienen-contrabandista-420-discos-ssd-pegados-cuerpo-1272082'>Seguro que tiene buena memoria: detienen a un contrabandista con más de 420 discos SSD pegados al cuerpo</a></h4>
     <a href='https://computerhoy.com/life/seguro-tiene-buena-memoria-detienen-contrabandista-420-discos-ssd-pegados-cuerpo-1272082' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/detienen-contrabandista-420-discos-ssd-pegados-cuerpo-3078016.jpg?tf=1200x' alt='Seguro que tiene buena memoria: detienen a un contrabandista con más de 420 discos SSD pegados al cuerpo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chatgpt-sufre-acusado-descenso-usuarios-motivo-curioso-vez-preocupante-1272080'>ChatGPT sufre un acusado descenso de usuarios y el motivo es curioso, a la vez que preocupante</a></h4>
-    <a href='https://computerhoy.com/apps/chatgpt-sufre-acusado-descenso-usuarios-motivo-curioso-vez-preocupante-1272080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3078012.jpg?tf=1200x' alt='ChatGPT sufre un acusado descenso de usuarios y el motivo es curioso, a la vez que preocupante' />
     </a>
 </div>
 
