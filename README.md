@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/juez-sentencia-emoji-pulgar-arriba-igual-firmar-contrato-1272776'>Un juez sentencia que el emoji de pulgar hacia arriba equivale a firmar un contrato</a></h4>
+    <a href='https://computerhoy.com/life/juez-sentencia-emoji-pulgar-arriba-igual-firmar-contrato-1272776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/juez-sentencia-emoji-pulgar-arriba-equivale-firmar-contrato-3078990.jpg?tf=1200x' alt='Un juez sentencia que el emoji de pulgar hacia arriba equivale a firmar un contrato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-update-restored-todas-actualizaciones-windows-95-adelante-1272762'>Windows Update Restored recopila todas las actualizaciones de Windows desde Windows 95 en adelante</a></h4>
+    <a href='https://computerhoy.com/windows/windows-update-restored-todas-actualizaciones-windows-95-adelante-1272762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-update-restored-recopila-todas-actualizaciones-windows-windows-95-adelante-3078940.jpg?tf=1200x' alt='Windows Update Restored recopila todas las actualizaciones de Windows desde Windows 95 en adelante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/altavoces-bluetooth-1216108'>Mejores altavoces Bluetooth de 2023 y en qué debes fijarte</a></h4>
     <a href='https://computerhoy.com/mejores/altavoces-bluetooth-1216108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mejores-altavoces-bluetooth-2023-debes-fijarte-3078476.jpg?tf=1200x' alt='Mejores altavoces Bluetooth de 2023 y en qué debes fijarte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estas-son-mejores-horas-dias-tomar-avion-1272726'>Estas son las mejores horas y días para tomar un avión </a></h4>
     <a href='https://computerhoy.com/life/estas-son-mejores-horas-dias-tomar-avion-1272726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/viajar-avion_4.jpg?tf=1200x' alt='Estas son las mejores horas y días para tomar un avión ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/trucos-mejorar-calidad-visual-aumentar-potencia-xbox-series-s-1268574'>Trucos para mejorar la calidad visual y aumentar la potencia de la Xbox Series S</a></h4>
-    <a href='https://computerhoy.com/gaming/trucos-mejorar-calidad-visual-aumentar-potencia-xbox-series-s-1268574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg?tf=1200x' alt='Trucos para mejorar la calidad visual y aumentar la potencia de la Xbox Series S' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cambio-climatico-nos-puede-estar-dejando-ciegos-1272722'>El cambio climático nos puede estar dejando ciegos</a></h4>
-    <a href='https://computerhoy.com/life/cambio-climatico-nos-puede-estar-dejando-ciegos-1272722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nina-mirando-sol-3078900.jpg?tf=1200x' alt='El cambio climático nos puede estar dejando ciegos' />
     </a>
 </div>
 
