@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/altavoces-bluetooth-1216108'>Mejores altavoces Bluetooth de 2023 y en qué debes fijarte</a></h4>
+    <a href='https://computerhoy.com/mejores/altavoces-bluetooth-1216108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mejores-altavoces-bluetooth-2023-debes-fijarte-3078476.jpg?tf=1200x' alt='Mejores altavoces Bluetooth de 2023 y en qué debes fijarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/prime-gaming-juegazos-julio-2023-1272744'>Prime Gaming está regalando juegazos, te los quedas para siempre</a></h4>
+    <a href='https://computerhoy.com/gaming/prime-gaming-juegazos-julio-2023-1272744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/prime-gaming-regalando-juegazos-te-quedas-siempre-3078910.jpg?tf=1200x' alt='Prime Gaming está regalando juegazos, te los quedas para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/estas-son-mejores-horas-dias-tomar-avion-1272726'>Estas son las mejores horas y días para tomar un avión </a></h4>
     <a href='https://computerhoy.com/life/estas-son-mejores-horas-dias-tomar-avion-1272726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/viajar-avion_4.jpg?tf=1200x' alt='Estas son las mejores horas y días para tomar un avión ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cambio-climatico-nos-puede-estar-dejando-ciegos-1272722'>El cambio climático nos puede estar dejando ciegos</a></h4>
     <a href='https://computerhoy.com/life/cambio-climatico-nos-puede-estar-dejando-ciegos-1272722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nina-mirando-sol-3078900.jpg?tf=1200x' alt='El cambio climático nos puede estar dejando ciegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/chatbot-medico-inteligencia-artificial-google-ya-probando-hospitales-1272716'>El chatbot médico con inteligencia artificial de Google ya se está probando en hospitales</a></h4>
-    <a href='https://computerhoy.com/google/chatbot-medico-inteligencia-artificial-google-ya-probando-hospitales-1272716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/medico-inteligencia-artificial-3027108.jpg?tf=1200x' alt='El chatbot médico con inteligencia artificial de Google ya se está probando en hospitales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-windows-11-actualiza-modo-oscuro-mejorado-controles-reproduccion-1272708'>YouTube en Windows 11 se actualiza con un modo oscuro mejorado y más controles de reproducción</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-windows-11-actualiza-modo-oscuro-mejorado-controles-reproduccion-1272708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/youtube-3078834.jpg?tf=1200x' alt='YouTube en Windows 11 se actualiza con un modo oscuro mejorado y más controles de reproducción' />
     </a>
 </div>
 
