@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/agujero-gravitacional-oceano-india-10-veces-grande-espana-1272782'>Bajo el océano de la India hay un agujero gravitacional 10 veces más grande que España, y ya han descubierto su origen </a></h4>
+    <a href='https://computerhoy.com/ciencia/agujero-gravitacional-oceano-india-10-veces-grande-espana-1272782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oceano-india-hay-agujero-gravitacional-ya-han-descubierto-origen-3079008.jpg?tf=1200x' alt='Bajo el océano de la India hay un agujero gravitacional 10 veces más grande que España, y ya han descubierto su origen ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/kindle-oferta-amazon-prime-day-2023-1270056'>Los Kindle de Amazon ya están en oferta y dan el pistoletazo de salida al Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/kindle-oferta-amazon-prime-day-2023-1270056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desembarco-productos-amazon-kindle-scribe-halo-rise-echo-auto-2-gen-nuevos-echo-dot-reloj-2827481.jpg?tf=1200x' alt='Los Kindle de Amazon ya están en oferta y dan el pistoletazo de salida al Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mark-zuckerberg-trolea-elon-musk-1272778'>Mark Zuckerberg pasa al ataque y ya se atreve a trolear a Elon Musk</a></h4>
+    <a href='https://computerhoy.com/internet/mark-zuckerberg-trolea-elon-musk-1272778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mark-zuckerberg-2392289.jpg?tf=1200x' alt='Mark Zuckerberg pasa al ataque y ya se atreve a trolear a Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811'>Estos son los mejores móviles de vivo por rango de precio</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/vivo-x90-pro-2994184.jpg?tf=1200x' alt='Estos son los mejores móviles de vivo por rango de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/juez-sentencia-emoji-pulgar-arriba-igual-firmar-contrato-1272776'>Un juez sentencia que el emoji de pulgar hacia arriba equivale a firmar un contrato</a></h4>
     <a href='https://computerhoy.com/life/juez-sentencia-emoji-pulgar-arriba-igual-firmar-contrato-1272776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/juez-sentencia-emoji-pulgar-arriba-equivale-firmar-contrato-3078990.jpg?tf=1200x' alt='Un juez sentencia que el emoji de pulgar hacia arriba equivale a firmar un contrato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-update-restored-todas-actualizaciones-windows-95-adelante-1272762'>Windows Update Restored recopila todas las actualizaciones de Windows desde Windows 95 en adelante</a></h4>
-    <a href='https://computerhoy.com/windows/windows-update-restored-todas-actualizaciones-windows-95-adelante-1272762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-update-restored-recopila-todas-actualizaciones-windows-windows-95-adelante-3078940.jpg?tf=1200x' alt='Windows Update Restored recopila todas las actualizaciones de Windows desde Windows 95 en adelante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/altavoces-bluetooth-1216108'>Mejores altavoces Bluetooth de 2023 y en qué debes fijarte</a></h4>
-    <a href='https://computerhoy.com/mejores/altavoces-bluetooth-1216108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mejores-altavoces-bluetooth-2023-debes-fijarte-3078476.jpg?tf=1200x' alt='Mejores altavoces Bluetooth de 2023 y en qué debes fijarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/prime-gaming-juegazos-julio-2023-1272744'>Prime Gaming está regalando juegazos, te los quedas para siempre</a></h4>
-    <a href='https://computerhoy.com/gaming/prime-gaming-juegazos-julio-2023-1272744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/prime-gaming-regalando-juegazos-te-quedas-siempre-3078910.jpg?tf=1200x' alt='Prime Gaming está regalando juegazos, te los quedas para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-son-mejores-horas-dias-tomar-avion-1272726'>Estas son las mejores horas y días para tomar un avión </a></h4>
-    <a href='https://computerhoy.com/life/estas-son-mejores-horas-dias-tomar-avion-1272726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/viajar-avion_4.jpg?tf=1200x' alt='Estas son las mejores horas y días para tomar un avión ' />
     </a>
 </div>
 
