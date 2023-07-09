@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estas-son-mejores-horas-dias-tomar-avion-1272726'>Estas son las mejores horas y días para tomar un avión </a></h4>
+    <a href='https://computerhoy.com/life/estas-son-mejores-horas-dias-tomar-avion-1272726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/viajar-avion_4.jpg?tf=1200x' alt='Estas son las mejores horas y días para tomar un avión ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/trucos-mejorar-calidad-visual-aumentar-potencia-xbox-series-s-1268574'>Trucos para mejorar la calidad visual y aumentar la potencia de la Xbox Series S</a></h4>
+    <a href='https://computerhoy.com/gaming/trucos-mejorar-calidad-visual-aumentar-potencia-xbox-series-s-1268574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131659.jpg?tf=1200x' alt='Trucos para mejorar la calidad visual y aumentar la potencia de la Xbox Series S' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cambio-climatico-nos-puede-estar-dejando-ciegos-1272722'>El cambio climático nos puede estar dejando ciegos</a></h4>
+    <a href='https://computerhoy.com/life/cambio-climatico-nos-puede-estar-dejando-ciegos-1272722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nina-mirando-sol-3078900.jpg?tf=1200x' alt='El cambio climático nos puede estar dejando ciegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/chatbot-medico-inteligencia-artificial-google-ya-probando-hospitales-1272716'>El chatbot médico con inteligencia artificial de Google ya se está probando en hospitales</a></h4>
+    <a href='https://computerhoy.com/google/chatbot-medico-inteligencia-artificial-google-ya-probando-hospitales-1272716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/medico-inteligencia-artificial-3027108.jpg?tf=1200x' alt='El chatbot médico con inteligencia artificial de Google ya se está probando en hospitales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/youtube-windows-11-actualiza-modo-oscuro-mejorado-controles-reproduccion-1272708'>YouTube en Windows 11 se actualiza con un modo oscuro mejorado y más controles de reproducción</a></h4>
     <a href='https://computerhoy.com/apps/youtube-windows-11-actualiza-modo-oscuro-mejorado-controles-reproduccion-1272708' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/youtube-3078834.jpg?tf=1200x' alt='YouTube en Windows 11 se actualiza con un modo oscuro mejorado y más controles de reproducción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/microsoft-trabaja-nueva-version-chat-inteligente-bing-hacerlo-conversacional-1272696'>Microsoft trabaja en una nueva versión del chat inteligente de Bing para hacerlo más conversacional</a></h4>
-    <a href='https://computerhoy.com/apps/microsoft-trabaja-nueva-version-chat-inteligente-bing-hacerlo-conversacional-1272696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bing-2993878.jpg?tf=1200x' alt='Microsoft trabaja en una nueva versión del chat inteligente de Bing para hacerlo más conversacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-animales-escualos-gigantes-causan-terror-1271340'>7 películas con animales y escualos gigantes que causan terror</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-animales-escualos-gigantes-causan-terror-1271340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/megalodon-meg-2607693.jpg?tf=1200x' alt='7 películas con animales y escualos gigantes que causan terror' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/inteligencia-artificial-mundo-sector-automovil-1266250'>La inteligencia artificial revoluciona el sector del automóvil: “Es nuestra aliada para pasar de una tarea tediosa a una solución”</a></h4>
-    <a href='https://computerhoy.com/motor/inteligencia-artificial-mundo-sector-automovil-1266250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/inteligencia-artificial-revoluciona-sector-automovil-aliada-pasar-tarea-tediosa-solucion-3075878.jpg?tf=1200x' alt='La inteligencia artificial revoluciona el sector del automóvil: “Es nuestra aliada para pasar de una tarea tediosa a una solución”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/oppenheimer-todo-conoce-famoso-creador-bomba-atomica-1265430'>Oppenheimer: todo lo que se conoce y más del famoso creador de la bomba atómica</a></h4>
-    <a href='https://computerhoy.com/ciencia/oppenheimer-todo-conoce-famoso-creador-bomba-atomica-1265430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oppenheimer-todo-conoce-famoso-creador-bomba-atomica-3066872.jpg?tf=1200x' alt='Oppenheimer: todo lo que se conoce y más del famoso creador de la bomba atómica' />
     </a>
 </div>
 
