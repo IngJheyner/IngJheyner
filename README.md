@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-oferta-63-barato-prime-day-1270090'>Se desploma el precio del Fire TV Stick 4K antes del Prime Day: es un 63% más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-oferta-63-barato-prime-day-1270090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-fire-tv-stick-4k-3074136.jpg?tf=1200x' alt='Se desploma el precio del Fire TV Stick 4K antes del Prime Day: es un 63% más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/agujero-gravitacional-oceano-india-10-veces-grande-espana-1272782'>Bajo el océano de la India hay un agujero gravitacional 10 veces más grande que España, y ya han descubierto su origen </a></h4>
     <a href='https://computerhoy.com/ciencia/agujero-gravitacional-oceano-india-10-veces-grande-espana-1272782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oceano-india-hay-agujero-gravitacional-ya-han-descubierto-origen-3079008.jpg?tf=1200x' alt='Bajo el océano de la India hay un agujero gravitacional 10 veces más grande que España, y ya han descubierto su origen ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811'>Estos son los mejores móviles de vivo por rango de precio</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/vivo-x90-pro-2994184.jpg?tf=1200x' alt='Estos son los mejores móviles de vivo por rango de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/juez-sentencia-emoji-pulgar-arriba-igual-firmar-contrato-1272776'>Un juez sentencia que el emoji de pulgar hacia arriba equivale a firmar un contrato</a></h4>
-    <a href='https://computerhoy.com/life/juez-sentencia-emoji-pulgar-arriba-igual-firmar-contrato-1272776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/juez-sentencia-emoji-pulgar-arriba-equivale-firmar-contrato-3078990.jpg?tf=1200x' alt='Un juez sentencia que el emoji de pulgar hacia arriba equivale a firmar un contrato' />
     </a>
 </div>
 
