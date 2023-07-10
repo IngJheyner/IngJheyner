@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tecnica-banco-sueno-sirve-algo-dormir-varios-dias-1273224'>La técnica del banco de sueño: ¿sirve de algo dormir varios días de más? </a></h4>
-    <a href='https://computerhoy.com/life/tecnica-banco-sueno-sirve-algo-dormir-varios-dias-1273224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/banco-sueno-3080024.jpg?tf=1200x' alt='La técnica del banco de sueño: ¿sirve de algo dormir varios días de más? ' />
+    <h4><a href='https://computerhoy.com/amazon/cupones-amazon-prime-day-1272956'>Cupones Amazon Prime Day: dónde encontrarlos y qué debes saber sobre ellos</a></h4>
+    <a href='https://computerhoy.com/amazon/cupones-amazon-prime-day-1272956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-day-3073142.jpg?tf=1200x' alt='Cupones Amazon Prime Day: dónde encontrarlos y qué debes saber sobre ellos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-son-colores-raros-poco-comunes-hay-mundo-1272288'>Estos son los colores más raros y poco comunes que hay en el mundo</a></h4>
-    <a href='https://computerhoy.com/life/estos-son-colores-raros-poco-comunes-hay-mundo-1272288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/colores-3078304.jpg?tf=1200x' alt='Estos son los colores más raros y poco comunes que hay en el mundo' />
+    <h4><a href='https://computerhoy.com/apple/steve-jobs-entrevista-1984-clave-exito-1273314'>El secreto revelado por Steve Jobs en 1984: la clave del éxito</a></h4>
+    <a href='https://computerhoy.com/apple/steve-jobs-entrevista-1984-clave-exito-1273314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steve-jobs-2981586.jpg?tf=1200x' alt='El secreto revelado por Steve Jobs en 1984: la clave del éxito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-altavoz-alexa-amazon-apunta-prime-day-apenas-supera-20-euros-precio-1270660'>El nuevo altavoz con Alexa se Amazon se apunta al Prime Day: apenas supera los 20 euros de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-altavoz-alexa-amazon-apunta-prime-day-apenas-supera-20-euros-precio-1270660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-echo-pop-3075204.jpg?tf=1200x' alt='El nuevo altavoz con Alexa se Amazon se apunta al Prime Day: apenas supera los 20 euros de precio' />
+    <h4><a href='https://computerhoy.com/life/regla-nasa-siesta-perfecta-dinamita-costumbre-tan-espanola-1273340'>La regla de la NASA para la siesta perfecta que dinamita esta costumbre tan española</a></h4>
+    <a href='https://computerhoy.com/life/regla-nasa-siesta-perfecta-dinamita-costumbre-tan-espanola-1273340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/siesta-3080322.jpg?tf=1200x' alt='La regla de la NASA para la siesta perfecta que dinamita esta costumbre tan española' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/que-son-tres-lineas-codigos-reverso-dni-1273276'>Qué son las tres líneas de códigos que hay en la parte de atrás del DNI</a></h4>
-    <a href='https://computerhoy.com/life/que-son-tres-lineas-codigos-reverso-dni-1273276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/son-tres-lineas-codigos-hay-parte-atras-dni-3079928.jpg?tf=1200x' alt='Qué son las tres líneas de códigos que hay en la parte de atrás del DNI' />
+    <h4><a href='https://computerhoy.com/life/pillado-aduana-300-procesadores-intel-pegados-cuerpo-1273338'>Pillado en la aduana con más de 300 procesadores Intel pegados al cuerpo</a></h4>
+    <a href='https://computerhoy.com/life/pillado-aduana-300-procesadores-intel-pegados-cuerpo-1273338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pillado-aduana-300-procesadores-intel-pegados-cuerpo-3080318.jpg?tf=1200x' alt='Pillado en la aduana con más de 300 procesadores Intel pegados al cuerpo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-canales-infantiles-youtube-cientos-horas-dibujos-animados-gratis-1272070'>Los mejores canales infantiles de YouTube con cientos de horas de dibujos animados gratis</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-canales-infantiles-youtube-cientos-horas-dibujos-animados-gratis-1272070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/chromecast-ninos-diversion-asegurada.jpg?tf=1200x' alt='Los mejores canales infantiles de YouTube con cientos de horas de dibujos animados gratis' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/big-head-ransomware-camufla-como-actualizacion-windows-1273290'>Un virus que se camufla como actualización de Windows destruye copias de seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/big-head-ransomware-camufla-como-actualizacion-windows-1273290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/virus-actualizacion-windows-3080168.jpg?tf=1200x' alt='Un virus que se camufla como actualización de Windows destruye copias de seguridad' />
     </a>
 </div>
 
