@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estos-son-escalofriantes-precios-venta-miles-datos-dark-web-1273124'>Estos son los escalofriantes precios de venta de miles de datos en la Dark Web</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estos-son-escalofriantes-precios-venta-miles-datos-dark-web-1273124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estos-son-escalofriantes-precios-venta-miles-datos-dark-web-3079864.jpg?tf=1200x' alt='Estos son los escalofriantes precios de venta de miles de datos en la Dark Web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-oferta-63-barato-prime-day-1270090'>Se desploma el precio del Fire TV Stick 4K antes del Prime Day: es un 63% más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-oferta-63-barato-prime-day-1270090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-fire-tv-stick-4k-3074136.jpg?tf=1200x' alt='Se desploma el precio del Fire TV Stick 4K antes del Prime Day: es un 63% más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/decision-mark-zuckerberg-privacidad-hijas-redes-sociales-1273078'>Esta decisión de Mark Zuckerberg sobre la privacidad de sus hijas deberías tenerla en cuenta</a></h4>
     <a href='https://computerhoy.com/redes/decision-mark-zuckerberg-privacidad-hijas-redes-sociales-1273078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/decision-mark-zuckerberg-privacidad-hijas-redes-sociales-3079532.jpg?tf=1200x' alt='Esta decisión de Mark Zuckerberg sobre la privacidad de sus hijas deberías tenerla en cuenta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tablet-60-euros-chollo-amazon-calienta-prime-day-1270130'>Una tablet por 60 euros, el chollo con el que Amazon calienta el Prime Day</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablet-60-euros-chollo-amazon-calienta-prime-day-1270130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-fire-hd-8-3074216.jpg?tf=1200x' alt='Una tablet por 60 euros, el chollo con el que Amazon calienta el Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nunca-compartas-chatgpt-siguientes-5-datos-personales-1273006'>Nunca compartas con ChatGPT los siguientes 5 datos personales</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nunca-compartas-chatgpt-siguientes-5-datos-personales-1273006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nunca-compartas-chatgpt-siguientes-5-datos-personales-3079446.jpg?tf=1200x' alt='Nunca compartas con ChatGPT los siguientes 5 datos personales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/james-webb-descubre-agujero-negro-supermasivo-lejano-fecha-1272994'>El telescopio James Webb descubre el agujero negro supermasivo más lejano hasta la fecha</a></h4>
-    <a href='https://computerhoy.com/espacio/james-webb-descubre-agujero-negro-supermasivo-lejano-fecha-1272994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/telescopio-james-webb-descubre-agujero-negro-supermasivo-lejano-fecha-3079292.jpg?tf=1200x' alt='El telescopio James Webb descubre el agujero negro supermasivo más lejano hasta la fecha' />
     </a>
 </div>
 
