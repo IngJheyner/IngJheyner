@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/duda-resuelta-existen-tantos-lenguajes-programacion-1272974'>Duda resuelta: ¿Por qué existen tantos lenguajes de programación?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/duda-resuelta-existen-tantos-lenguajes-programacion-1272974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/duda-resuelta-existen-tantos-lenguajes-programacion-3079266.jpg?tf=1200x' alt='Duda resuelta: ¿Por qué existen tantos lenguajes de programación?' />
+    <h4><a href='https://computerhoy.com/redes/decision-mark-zuckerberg-privacidad-hijas-redes-sociales-1273078'>Esta decisión de Mark Zuckerberg sobre la privacidad de sus hijas deberías tenerla en cuenta</a></h4>
+    <a href='https://computerhoy.com/redes/decision-mark-zuckerberg-privacidad-hijas-redes-sociales-1273078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/decision-mark-zuckerberg-privacidad-hijas-redes-sociales-3079532.jpg?tf=1200x' alt='Esta decisión de Mark Zuckerberg sobre la privacidad de sus hijas deberías tenerla en cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-neo-qled-8k-qn900c-analisis-opinion-modelo-top-2023-1264364'>Samsung Neo QLED 8K QN900C, análisis y opinión del modelo top 8K de 2023 </a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-neo-qled-8k-qn900c-analisis-opinion-modelo-top-2023-1264364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/neo-qled-qn900c-3077456.jpg?tf=1200x' alt='Samsung Neo QLED 8K QN900C, análisis y opinión del modelo top 8K de 2023 ' />
+    <h4><a href='https://computerhoy.com/tecnologia/altavoces-alexa-oferta-amazon-antes-prime-day-2023-1270110'>Pon Alexa en casa desde 20,99 euros: Amazon tira la casa por la ventana con las primeras ofertas del Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/altavoces-alexa-oferta-amazon-antes-prime-day-2023-1270110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-echo-pop-3074170.jpg?tf=1200x' alt='Pon Alexa en casa desde 20,99 euros: Amazon tira la casa por la ventana con las primeras ofertas del Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/renting-dispositivos-cuando-sale-rentable-comprar-1266190'>'Renting' de dispositivos: estos son los casos en los que puede salirte más rentable que la compra</a></h4>
-    <a href='https://computerhoy.com/industria/renting-dispositivos-cuando-sale-rentable-comprar-1266190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/renting-3071970.jpg?tf=1200x' alt=''Renting' de dispositivos: estos son los casos en los que puede salirte más rentable que la compra' />
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-60-euros-chollo-amazon-calienta-prime-day-1270130'>Una tablet por 60 euros, el chollo con el que Amazon calienta el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-60-euros-chollo-amazon-calienta-prime-day-1270130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-fire-hd-8-3074216.jpg?tf=1200x' alt='Una tablet por 60 euros, el chollo con el que Amazon calienta el Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/agujero-gravitacional-oceano-india-10-veces-grande-espana-1272782'>Bajo el océano de la India hay un agujero gravitacional 10 veces más grande que España, y ya han descubierto su origen </a></h4>
-    <a href='https://computerhoy.com/ciencia/agujero-gravitacional-oceano-india-10-veces-grande-espana-1272782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oceano-india-hay-agujero-gravitacional-ya-han-descubierto-origen-3079008.jpg?tf=1200x' alt='Bajo el océano de la India hay un agujero gravitacional 10 veces más grande que España, y ya han descubierto su origen ' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/nunca-compartas-chatgpt-siguientes-5-datos-personales-1273006'>Nunca compartas con ChatGPT los siguientes 5 datos personales</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nunca-compartas-chatgpt-siguientes-5-datos-personales-1273006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nunca-compartas-chatgpt-siguientes-5-datos-personales-3079446.jpg?tf=1200x' alt='Nunca compartas con ChatGPT los siguientes 5 datos personales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/kindle-oferta-amazon-prime-day-2023-1270056'>Los Kindle de Amazon ya están en oferta y dan el pistoletazo de salida al Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/kindle-oferta-amazon-prime-day-2023-1270056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desembarco-productos-amazon-kindle-scribe-halo-rise-echo-auto-2-gen-nuevos-echo-dot-reloj-2827481.jpg?tf=1200x' alt='Los Kindle de Amazon ya están en oferta y dan el pistoletazo de salida al Prime Day' />
+    <h4><a href='https://computerhoy.com/espacio/james-webb-descubre-agujero-negro-supermasivo-lejano-fecha-1272994'>El telescopio James Webb descubre el agujero negro supermasivo más lejano hasta la fecha</a></h4>
+    <a href='https://computerhoy.com/espacio/james-webb-descubre-agujero-negro-supermasivo-lejano-fecha-1272994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/telescopio-james-webb-descubre-agujero-negro-supermasivo-lejano-fecha-3079292.jpg?tf=1200x' alt='El telescopio James Webb descubre el agujero negro supermasivo más lejano hasta la fecha' />
     </a>
 </div>
 
