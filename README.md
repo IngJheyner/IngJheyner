@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tecnica-banco-sueno-sirve-algo-dormir-varios-dias-1273224'>La técnica del banco de sueño: ¿sirve de algo dormir varios días de más? </a></h4>
+    <a href='https://computerhoy.com/life/tecnica-banco-sueno-sirve-algo-dormir-varios-dias-1273224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/banco-sueno-3080024.jpg?tf=1200x' alt='La técnica del banco de sueño: ¿sirve de algo dormir varios días de más? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estos-son-colores-raros-poco-comunes-hay-mundo-1272288'>Estos son los colores más raros y poco comunes que hay en el mundo</a></h4>
+    <a href='https://computerhoy.com/life/estos-son-colores-raros-poco-comunes-hay-mundo-1272288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/colores-3078304.jpg?tf=1200x' alt='Estos son los colores más raros y poco comunes que hay en el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-altavoz-alexa-amazon-apunta-prime-day-apenas-supera-20-euros-precio-1270660'>El nuevo altavoz con Alexa se Amazon se apunta al Prime Day: apenas supera los 20 euros de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-altavoz-alexa-amazon-apunta-prime-day-apenas-supera-20-euros-precio-1270660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-echo-pop-3075204.jpg?tf=1200x' alt='El nuevo altavoz con Alexa se Amazon se apunta al Prime Day: apenas supera los 20 euros de precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/mejores-canales-infantiles-youtube-cientos-horas-dibujos-animados-gratis-1272070'>Los mejores canales infantiles de YouTube con cientos de horas de dibujos animados gratis</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mejores-canales-infantiles-youtube-cientos-horas-dibujos-animados-gratis-1272070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/chromecast-ninos-diversion-asegurada.jpg?tf=1200x' alt='Los mejores canales infantiles de YouTube con cientos de horas de dibujos animados gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estos-son-iphone-no-podran-actualizar-ios-17-1273184'>Estos son los iPhone que no podrán actualizar a iOS 17 y por qué</a></h4>
-    <a href='https://computerhoy.com/apple/estos-son-iphone-no-podran-actualizar-ios-17-1273184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/moviles-iphone-x-2588953.jpg?tf=1200x' alt='Estos son los iPhone que no podrán actualizar a iOS 17 y por qué' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/configuracion-ideal-google-maps-te-avise-todos-radares-1272058'>Esta es la configuración ideal para que Google Maps te avise de todos los radares</a></h4>
-    <a href='https://computerhoy.com/tutoriales/configuracion-ideal-google-maps-te-avise-todos-radares-1272058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/radares-dgt-google-maps-3077924.jpg?tf=1200x' alt='Esta es la configuración ideal para que Google Maps te avise de todos los radares' />
     </a>
 </div>
 
