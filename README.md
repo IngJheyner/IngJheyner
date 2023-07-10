@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/duda-resuelta-existen-tantos-lenguajes-programacion-1272974'>Duda resuelta: ¿Por qué existen tantos lenguajes de programación?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/duda-resuelta-existen-tantos-lenguajes-programacion-1272974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/duda-resuelta-existen-tantos-lenguajes-programacion-3079266.jpg?tf=1200x' alt='Duda resuelta: ¿Por qué existen tantos lenguajes de programación?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/samsung-neo-qled-8k-qn900c-analisis-opinion-modelo-top-2023-1264364'>Samsung Neo QLED 8K QN900C, análisis y opinión del modelo top 8K de 2023 </a></h4>
     <a href='https://computerhoy.com/analisis/samsung-neo-qled-8k-qn900c-analisis-opinion-modelo-top-2023-1264364' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/neo-qled-qn900c-3077456.jpg?tf=1200x' alt='Samsung Neo QLED 8K QN900C, análisis y opinión del modelo top 8K de 2023 ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/kindle-oferta-amazon-prime-day-2023-1270056'>Los Kindle de Amazon ya están en oferta y dan el pistoletazo de salida al Prime Day</a></h4>
     <a href='https://computerhoy.com/tecnologia/kindle-oferta-amazon-prime-day-2023-1270056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desembarco-productos-amazon-kindle-scribe-halo-rise-echo-auto-2-gen-nuevos-echo-dot-reloj-2827481.jpg?tf=1200x' alt='Los Kindle de Amazon ya están en oferta y dan el pistoletazo de salida al Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mark-zuckerberg-trolea-elon-musk-1272778'>Mark Zuckerberg pasa al ataque y ya se atreve a trolear a Elon Musk</a></h4>
-    <a href='https://computerhoy.com/internet/mark-zuckerberg-trolea-elon-musk-1272778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mark-zuckerberg-2392289.jpg?tf=1200x' alt='Mark Zuckerberg pasa al ataque y ya se atreve a trolear a Elon Musk' />
     </a>
 </div>
 
