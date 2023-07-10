@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/genial-truco-oculto-mando-amazon-fire-tv-casi-nadie-conoce-1272096'>El genial truco oculto con el mando del Amazon Fire TV que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/amazon/genial-truco-oculto-mando-amazon-fire-tv-casi-nadie-conoce-1272096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mando-amazon-fire-tv-3078250.jpg?tf=1200x' alt='El genial truco oculto con el mando del Amazon Fire TV que casi nadie conoce' />
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-altavoz-alexa-amazon-apunta-prime-day-apenas-supera-20-euros-precio-1270660'>El nuevo altavoz con Alexa se Amazon se apunta al Prime Day: apenas supera los 20 euros de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-altavoz-alexa-amazon-apunta-prime-day-apenas-supera-20-euros-precio-1270660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-echo-pop-3075204.jpg?tf=1200x' alt='El nuevo altavoz con Alexa se Amazon se apunta al Prime Day: apenas supera los 20 euros de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-tiene-oferta-siempre-disponible-hoy-mejor-dia-ano-aprovecharla-1270634'>Amazon tiene una oferta siempre disponible, y hoy es el mejor día del año para aprovecharla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-tiene-oferta-siempre-disponible-hoy-mejor-dia-ano-aprovecharla-1270634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-aplicacion-3075164.jpg?tf=1200x' alt='Amazon tiene una oferta siempre disponible, y hoy es el mejor día del año para aprovecharla' />
+    <h4><a href='https://computerhoy.com/life/que-son-tres-lineas-codigos-reverso-dni-1273276'>Qué son las tres líneas de códigos que hay en la parte de atrás del DNI</a></h4>
+    <a href='https://computerhoy.com/life/que-son-tres-lineas-codigos-reverso-dni-1273276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/son-tres-lineas-codigos-hay-parte-atras-dni-3079928.jpg?tf=1200x' alt='Qué son las tres líneas de códigos que hay en la parte de atrás del DNI' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estos-son-escalofriantes-precios-venta-miles-datos-dark-web-1273124'>Estos son los escalofriantes precios de venta de miles de datos en la Dark Web</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estos-son-escalofriantes-precios-venta-miles-datos-dark-web-1273124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estos-son-escalofriantes-precios-venta-miles-datos-dark-web-3079864.jpg?tf=1200x' alt='Estos son los escalofriantes precios de venta de miles de datos en la Dark Web' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-canales-infantiles-youtube-cientos-horas-dibujos-animados-gratis-1272070'>Los mejores canales infantiles de YouTube con cientos de horas de dibujos animados gratis</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-canales-infantiles-youtube-cientos-horas-dibujos-animados-gratis-1272070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/chromecast-ninos-diversion-asegurada.jpg?tf=1200x' alt='Los mejores canales infantiles de YouTube con cientos de horas de dibujos animados gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-oferta-63-barato-prime-day-1270090'>Se desploma el precio del Fire TV Stick 4K antes del Prime Day: es un 63% más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-oferta-63-barato-prime-day-1270090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-fire-tv-stick-4k-3074136.jpg?tf=1200x' alt='Se desploma el precio del Fire TV Stick 4K antes del Prime Day: es un 63% más barato' />
+    <h4><a href='https://computerhoy.com/apple/estos-son-iphone-no-podran-actualizar-ios-17-1273184'>Estos son los iPhone que no podrán actualizar a iOS 17 y por qué</a></h4>
+    <a href='https://computerhoy.com/apple/estos-son-iphone-no-podran-actualizar-ios-17-1273184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/moviles-iphone-x-2588953.jpg?tf=1200x' alt='Estos son los iPhone que no podrán actualizar a iOS 17 y por qué' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/decision-mark-zuckerberg-privacidad-hijas-redes-sociales-1273078'>Esta decisión de Mark Zuckerberg sobre la privacidad de sus hijas deberías tenerla en cuenta</a></h4>
-    <a href='https://computerhoy.com/redes/decision-mark-zuckerberg-privacidad-hijas-redes-sociales-1273078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/decision-mark-zuckerberg-privacidad-hijas-redes-sociales-3079532.jpg?tf=1200x' alt='Esta decisión de Mark Zuckerberg sobre la privacidad de sus hijas deberías tenerla en cuenta' />
+    <h4><a href='https://computerhoy.com/tutoriales/configuracion-ideal-google-maps-te-avise-todos-radares-1272058'>Esta es la configuración ideal para que Google Maps te avise de todos los radares</a></h4>
+    <a href='https://computerhoy.com/tutoriales/configuracion-ideal-google-maps-te-avise-todos-radares-1272058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/radares-dgt-google-maps-3077924.jpg?tf=1200x' alt='Esta es la configuración ideal para que Google Maps te avise de todos los radares' />
     </a>
 </div>
 
