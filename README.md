@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-oferta-63-barato-prime-day-1270090'>Se desploma el precio del Fire TV Stick 4K antes del Prime Day: es un 63% más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-oferta-63-barato-prime-day-1270090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-fire-tv-stick-4k-3074136.jpg?tf=1200x' alt='Se desploma el precio del Fire TV Stick 4K antes del Prime Day: es un 63% más barato' />
+    <h4><a href='https://computerhoy.com/analisis/samsung-neo-qled-8k-qn900c-analisis-opinion-modelo-top-2023-1264364'>Samsung Neo QLED 8K QN900C, análisis y opinión del modelo top 8K de 2023 </a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-neo-qled-8k-qn900c-analisis-opinion-modelo-top-2023-1264364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/neo-qled-qn900c-3077456.jpg?tf=1200x' alt='Samsung Neo QLED 8K QN900C, análisis y opinión del modelo top 8K de 2023 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/renting-dispositivos-cuando-sale-rentable-comprar-1266190'>'Renting' de dispositivos: estos son los casos en los que puede salirte más rentable que la compra</a></h4>
+    <a href='https://computerhoy.com/industria/renting-dispositivos-cuando-sale-rentable-comprar-1266190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/renting-3071970.jpg?tf=1200x' alt=''Renting' de dispositivos: estos son los casos en los que puede salirte más rentable que la compra' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/mark-zuckerberg-trolea-elon-musk-1272778'>Mark Zuckerberg pasa al ataque y ya se atreve a trolear a Elon Musk</a></h4>
     <a href='https://computerhoy.com/internet/mark-zuckerberg-trolea-elon-musk-1272778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/mark-zuckerberg-2392289.jpg?tf=1200x' alt='Mark Zuckerberg pasa al ataque y ya se atreve a trolear a Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811'>Estos son los mejores móviles de vivo por rango de precio</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-vivo-1109811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/vivo-x90-pro-2994184.jpg?tf=1200x' alt='Estos son los mejores móviles de vivo por rango de precio' />
     </a>
 </div>
 
