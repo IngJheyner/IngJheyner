@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/genial-truco-oculto-mando-amazon-fire-tv-casi-nadie-conoce-1272096'>El genial truco oculto con el mando del Amazon Fire TV que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/amazon/genial-truco-oculto-mando-amazon-fire-tv-casi-nadie-conoce-1272096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mando-amazon-fire-tv-3078250.jpg?tf=1200x' alt='El genial truco oculto con el mando del Amazon Fire TV que casi nadie conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-tiene-oferta-siempre-disponible-hoy-mejor-dia-ano-aprovecharla-1270634'>Amazon tiene una oferta siempre disponible, y hoy es el mejor día del año para aprovecharla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-tiene-oferta-siempre-disponible-hoy-mejor-dia-ano-aprovecharla-1270634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-aplicacion-3075164.jpg?tf=1200x' alt='Amazon tiene una oferta siempre disponible, y hoy es el mejor día del año para aprovecharla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/estos-son-escalofriantes-precios-venta-miles-datos-dark-web-1273124'>Estos son los escalofriantes precios de venta de miles de datos en la Dark Web</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estos-son-escalofriantes-precios-venta-miles-datos-dark-web-1273124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estos-son-escalofriantes-precios-venta-miles-datos-dark-web-3079864.jpg?tf=1200x' alt='Estos son los escalofriantes precios de venta de miles de datos en la Dark Web' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/decision-mark-zuckerberg-privacidad-hijas-redes-sociales-1273078'>Esta decisión de Mark Zuckerberg sobre la privacidad de sus hijas deberías tenerla en cuenta</a></h4>
     <a href='https://computerhoy.com/redes/decision-mark-zuckerberg-privacidad-hijas-redes-sociales-1273078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/decision-mark-zuckerberg-privacidad-hijas-redes-sociales-3079532.jpg?tf=1200x' alt='Esta decisión de Mark Zuckerberg sobre la privacidad de sus hijas deberías tenerla en cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/altavoces-alexa-oferta-amazon-antes-prime-day-2023-1270110'>Pon Alexa en casa desde 20,99 euros: Amazon tira la casa por la ventana con las primeras ofertas del Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/altavoces-alexa-oferta-amazon-antes-prime-day-2023-1270110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-echo-pop-3074170.jpg?tf=1200x' alt='Pon Alexa en casa desde 20,99 euros: Amazon tira la casa por la ventana con las primeras ofertas del Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-60-euros-chollo-amazon-calienta-prime-day-1270130'>Una tablet por 60 euros, el chollo con el que Amazon calienta el Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-60-euros-chollo-amazon-calienta-prime-day-1270130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-fire-hd-8-3074216.jpg?tf=1200x' alt='Una tablet por 60 euros, el chollo con el que Amazon calienta el Prime Day' />
     </a>
 </div>
 
