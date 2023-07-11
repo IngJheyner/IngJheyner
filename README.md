@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/airpods-pro-google-cuestan-casi-mitad-apple-amazon-prime-day-1272300'>Los AirPods Pro de Google cuestan casi la mitad que los de Apple en el Amazon Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/airpods-pro-google-cuestan-casi-mitad-apple-amazon-prime-day-1272300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-pixel-buds-pro-3078302.jpg?tf=1200x' alt='Los AirPods Pro de Google cuestan casi la mitad que los de Apple en el Amazon Prime Day' />
+    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-2022-oferta-amazon-prime-day-2023-1273330'>¿Momento de estrenar Apple Watch? El nuevo SE por 245 euros es una de las gangas del Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-watch-2022-oferta-amazon-prime-day-2023-1273330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-3080308.jpg?tf=1200x' alt='¿Momento de estrenar Apple Watch? El nuevo SE por 245 euros es una de las gangas del Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ofertas-xiaomi-amazon-prime-day-2023-1271360'>Chollos Xiaomi en el Prime Day: estos son los que no te puedes perder</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ofertas-xiaomi-amazon-prime-day-2023-1271360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/logo-xiaomi-3076606.jpg?tf=1200x' alt='Chollos Xiaomi en el Prime Day: estos son los que no te puedes perder' />
+    <h4><a href='https://computerhoy.com/tecnologia/air-fryer-cosori-cesta-gigante-oferta-149-euros-prime-day-2023-1273968'>Esta oferta está arrasando en el Amazon Prime Day: es una Air Fryer gigante de Cosori con 7.000 valoraciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/air-fryer-cosori-cesta-gigante-oferta-149-euros-prime-day-2023-1273968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cosori-caf-p583s-3081410.jpg?tf=1200x' alt='Esta oferta está arrasando en el Amazon Prime Day: es una Air Fryer gigante de Cosori con 7.000 valoraciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-ofertas-robots-aspiradores-1272076'>Robots aspiradores desde apenas 100 euros: el Prime Day deja varios chollos top</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-ofertas-robots-aspiradores-1272076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/roomba-j7-2851299.jpg?tf=1200x' alt='Robots aspiradores desde apenas 100 euros: el Prime Day deja varios chollos top' />
+    <h4><a href='https://computerhoy.com/entretenimiento/discord-incluye-centro-familiar-seguridad-menores-1273930'>Discord estrena un Centro Familiar para proteger a los menores </a></h4>
+    <a href='https://computerhoy.com/entretenimiento/discord-incluye-centro-familiar-seguridad-menores-1273930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/discord-incluye-centro-familiar-garantizar-seguridad-menores-3081358.jpg?tf=1200x' alt='Discord estrena un Centro Familiar para proteger a los menores ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alternativa-airtag-android-oferta-amazon-prime-day-1272062'>¿AirTag? Esta alternativa para Android es muchísimo más barata: está en oferta por menos de 20€</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alternativa-airtag-android-oferta-amazon-prime-day-1272062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tile-mate-2022-2540785.jpg?tf=1200x' alt='¿AirTag? Esta alternativa para Android es muchísimo más barata: está en oferta por menos de 20€' />
+    <h4><a href='https://computerhoy.com/moviles/metodo-magico-eliminar-rayones-superficiales-pantalla-movil-encontraras-estuche-hijo-1273962'>El método mágico para eliminar rayones superficiales de la pantalla de tu móvil que encontrarás en el estuche de tu hijo</a></h4>
+    <a href='https://computerhoy.com/moviles/metodo-magico-eliminar-rayones-superficiales-pantalla-movil-encontraras-estuche-hijo-1273962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pantalla-rota-movil-3081408.jpg?tf=1200x' alt='El método mágico para eliminar rayones superficiales de la pantalla de tu móvil que encontrarás en el estuche de tu hijo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/televisor-top-ventas-prime-day-qled-65-150-euros-barato-1273758'>Este televisor es top ventas en el Prime Day: QLED, de 65" y 150 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/televisor-top-ventas-prime-day-qled-65-150-euros-barato-1273758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/samsung-smart-tv-neo-qled-4k-2022-65qn85b-3080898.jpg?tf=1200x' alt='Este televisor es top ventas en el Prime Day: QLED, de 65" y 150 euros más barato' />
+    <h4><a href='https://computerhoy.com/ciencia/puedes-escucharlo-cientificos-consiguen-probar-posible-escuchar-silencio-1273958'>¿Puedes escucharlo? Científicos consiguen probar que es posible escuchar el silencio</a></h4>
+    <a href='https://computerhoy.com/ciencia/puedes-escucharlo-cientificos-consiguen-probar-posible-escuchar-silencio-1273958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hombre-escuchando-3081406.jpg?tf=1200x' alt='¿Puedes escucharlo? Científicos consiguen probar que es posible escuchar el silencio' />
     </a>
 </div>
 
