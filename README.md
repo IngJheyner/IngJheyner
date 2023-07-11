@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/acuerdo-union-europa-estados-unidos-datos-europeos-privacidad-1273566'>Google y Meta se salen con la suya: las compañías norteamericanas podrán almacenar datos de los europeos en su país</a></h4>
+    <a href='https://computerhoy.com/internet/acuerdo-union-europa-estados-unidos-datos-europeos-privacidad-1273566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-meta-salen-companias-norteamericanas-podran-almacenas-datos-europeos-pais-3080372.jpg?tf=1200x' alt='Google y Meta se salen con la suya: las compañías norteamericanas podrán almacenar datos de los europeos en su país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/reacondicionados-amazon-prime-day-como-ahorra-30-adicional-1273042'>Reacondicionados en el Prime Day: todo lo que debes saber para ahorrar un 30% en productos de segunda mano como nuevos</a></h4>
     <a href='https://computerhoy.com/amazon/reacondicionados-amazon-prime-day-como-ahorra-30-adicional-1273042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-caja-3079472.jpg?tf=1200x' alt='Reacondicionados en el Prime Day: todo lo que debes saber para ahorrar un 30% en productos de segunda mano como nuevos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398'>Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-prime-day-2023-3064760.jpg?tf=1200x' alt='Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-prime-day-2023-cuidado-estafas-protege-datos-durante-ofertas-verano-1273244'>Amazon Prime Day 2023: cuidado con las estafas y cómo protege tus datos durante las ofertas del verano</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-prime-day-2023-cuidado-estafas-protege-datos-durante-ofertas-verano-1273244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/prime-day-amazon-cuidado-estafas-protege-datos-durante-ofertas-verano-3080148.jpg?tf=1200x' alt='Amazon Prime Day 2023: cuidado con las estafas y cómo protege tus datos durante las ofertas del verano' />
     </a>
 </div>
 
