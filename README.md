@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-original-llega-fin-hay-actualizar-inmediato-1273836'>Windows 11 original llega a su fin y hay que actualizar de inmediato</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-original-llega-fin-hay-actualizar-inmediato-1273836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2954544.jpg?tf=1200x' alt='Windows 11 original llega a su fin y hay que actualizar de inmediato' />
+    <h4><a href='https://computerhoy.com/tecnologia/airpods-pro-google-cuestan-casi-mitad-apple-amazon-prime-day-1272300'>Los AirPods Pro de Google cuestan casi la mitad que los de Apple en el Amazon Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/airpods-pro-google-cuestan-casi-mitad-apple-amazon-prime-day-1272300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-pixel-buds-pro-3078302.jpg?tf=1200x' alt='Los AirPods Pro de Google cuestan casi la mitad que los de Apple en el Amazon Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aire-acondicionado-portatil-barato-oferta-amazon-prime-day-2023-1271866'>Enfría tu casa sin esperas: aires acondicionados portátiles a precio de ganga en el Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aire-acondicionado-portatil-barato-oferta-amazon-prime-day-2023-1271866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aire-acondicionado-portatil-3077368.jpg?tf=1200x' alt='Enfría tu casa sin esperas: aires acondicionados portátiles a precio de ganga en el Prime Day' />
+    <h4><a href='https://computerhoy.com/tecnologia/ofertas-xiaomi-amazon-prime-day-2023-1271360'>Chollos Xiaomi en el Prime Day: estos son los que no te puedes perder</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ofertas-xiaomi-amazon-prime-day-2023-1271360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/logo-xiaomi-3076606.jpg?tf=1200x' alt='Chollos Xiaomi en el Prime Day: estos son los que no te puedes perder' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportaje/amazon-prime-day-2023-auriculares-1273296'>Auriculares top a precio de derribo: ofertas del Prime Day que merecen mucho la pena</a></h4>
-    <a href='https://computerhoy.com/reportaje/amazon-prime-day-2023-auriculares-1273296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/apple-airpods-pro-2123271.jpg?tf=1200x' alt='Auriculares top a precio de derribo: ofertas del Prime Day que merecen mucho la pena' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-ofertas-robots-aspiradores-1272076'>Robots aspiradores desde apenas 100 euros: el Prime Day deja varios chollos top</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-ofertas-robots-aspiradores-1272076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/roomba-j7-2851299.jpg?tf=1200x' alt='Robots aspiradores desde apenas 100 euros: el Prime Day deja varios chollos top' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nothing-phone-2-primeras-impresiones-ahora-gama-alta-1261532'>Nothing Phone (2), primeras impresiones: Ahora sí es un gama alta</a></h4>
-    <a href='https://computerhoy.com/moviles/nothing-phone-2-primeras-impresiones-ahora-gama-alta-1261532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-phone-2-3080342.jpg?tf=1200x' alt='Nothing Phone (2), primeras impresiones: Ahora sí es un gama alta' />
+    <h4><a href='https://computerhoy.com/tecnologia/alternativa-airtag-android-oferta-amazon-prime-day-1272062'>¿AirTag? Esta alternativa para Android es muchísimo más barata: está en oferta por menos de 20€</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativa-airtag-android-oferta-amazon-prime-day-1272062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tile-mate-2022-2540785.jpg?tf=1200x' alt='¿AirTag? Esta alternativa para Android es muchísimo más barata: está en oferta por menos de 20€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-revolut-perdio-23-millones-dolares-vulnerabilidad-sistema-1273876'>Cómo Revolut perdió 23 millones de dólares por una vulnerabilidad en su sistema</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-revolut-perdio-23-millones-dolares-vulnerabilidad-sistema-1273876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/revolut-3065006.jpg?tf=1200x' alt='Cómo Revolut perdió 23 millones de dólares por una vulnerabilidad en su sistema' />
+    <h4><a href='https://computerhoy.com/tecnologia/televisor-top-ventas-prime-day-qled-65-150-euros-barato-1273758'>Este televisor es top ventas en el Prime Day: QLED, de 65" y 150 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/televisor-top-ventas-prime-day-qled-65-150-euros-barato-1273758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/samsung-smart-tv-neo-qled-4k-2022-65qn85b-3080898.jpg?tf=1200x' alt='Este televisor es top ventas en el Prime Day: QLED, de 65" y 150 euros más barato' />
     </a>
 </div>
 
