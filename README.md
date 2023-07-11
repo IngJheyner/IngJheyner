@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/chollos-amazon-prime-day-2023-1273108'>Las mejores gangas por menos de 20€ en el Amazon Prime Day</a></h4>
+    <a href='https://computerhoy.com/mejores/chollos-amazon-prime-day-2023-1273108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pagina-amazon-puede-ahorrarte-mucho-dinero-amazon-prime-day-2022-2754589.jpg?tf=1200x' alt='Las mejores gangas por menos de 20€ en el Amazon Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/air-fryer-baratas-oferta-amazon-prime-day-2023-1271520'>Si no tienes aún Air Fryer, no será por falta de ofertas: en el Amazon Prime Day hay para todos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/air-fryer-baratas-oferta-amazon-prime-day-2023-1271520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/air-fryer-freidora-aire-freidora-aceite-3076992.jpg?tf=1200x' alt='Si no tienes aún Air Fryer, no será por falta de ofertas: en el Amazon Prime Day hay para todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/youtube-historia-comenzo-parking-madrugada-1237564'>25 aniversario Computer Hoy: YouTube, la historia que comenzó en un parking a las 3 de la madrugada</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/youtube-historia-comenzo-parking-madrugada-1237564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/historia-youtube-25-aniversario-computer-hoy-3077802.jpg?tf=1200x' alt='25 aniversario Computer Hoy: YouTube, la historia que comenzó en un parking a las 3 de la madrugada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/ordenadores-portatiles-oferta-amazon-prime-day-2023-1271424'>Los mejores ordenadores portátiles que puedes comprar en oferta en el Prime Day 2023 </a></h4>
+    <a href='https://computerhoy.com/mejores/ordenadores-portatiles-oferta-amazon-prime-day-2023-1271424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ordenador-portatil-amazon-3076750.jpg?tf=1200x' alt='Los mejores ordenadores portátiles que puedes comprar en oferta en el Prime Day 2023 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/acuerdo-union-europa-estados-unidos-datos-europeos-privacidad-1273566'>Google y Meta se salen con la suya: las compañías norteamericanas podrán almacenar datos de los europeos en su país</a></h4>
     <a href='https://computerhoy.com/internet/acuerdo-union-europa-estados-unidos-datos-europeos-privacidad-1273566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-meta-salen-companias-norteamericanas-podran-almacenas-datos-europeos-pais-3080372.jpg?tf=1200x' alt='Google y Meta se salen con la suya: las compañías norteamericanas podrán almacenar datos de los europeos en su país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/reacondicionados-amazon-prime-day-como-ahorra-30-adicional-1273042'>Reacondicionados en el Prime Day: todo lo que debes saber para ahorrar un 30% en productos de segunda mano como nuevos</a></h4>
-    <a href='https://computerhoy.com/amazon/reacondicionados-amazon-prime-day-como-ahorra-30-adicional-1273042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-caja-3079472.jpg?tf=1200x' alt='Reacondicionados en el Prime Day: todo lo que debes saber para ahorrar un 30% en productos de segunda mano como nuevos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/amazon-prime-day-2023-ofertas-productos-apple-precios-nunca-vistos-1272424'>¿Es el Prime Day 2023 el mejor para los fans de Apple? Viendo las ofertas en iPhone, iPad o Apple Watch, lo parece</a></h4>
-    <a href='https://computerhoy.com/mejores/amazon-prime-day-2023-ofertas-productos-apple-precios-nunca-vistos-1272424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2948946.jpg?tf=1200x' alt='¿Es el Prime Day 2023 el mejor para los fans de Apple? Viendo las ofertas en iPhone, iPad o Apple Watch, lo parece' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-ipad-estan-oferta-263-euros-descuento-1273320'>Un iPad desde poco más de 300 euros: las rebajas del Prime Day dejan 11 modelos de iPad a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-ipad-estan-oferta-263-euros-descuento-1273320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='Un iPad desde poco más de 300 euros: las rebajas del Prime Day dejan 11 modelos de iPad a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398'>Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-prime-day-2023-3064760.jpg?tf=1200x' alt='Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar' />
     </a>
 </div>
 
