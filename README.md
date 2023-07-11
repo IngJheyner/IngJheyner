@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398'>Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-prime-day-2023-3064760.jpg?tf=1200x' alt='Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-warren-buffett-enseno-bill-gates-disfrutar-tiempo-libre-no-hay-llenar-agenda-1273830'>Cómo Warren Buffett enseñó a Bill Gates a disfrutar del tiempo libre: no hay que llenar la agenda</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-warren-buffett-enseno-bill-gates-disfrutar-tiempo-libre-no-hay-llenar-agenda-1273830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='Cómo Warren Buffett enseñó a Bill Gates a disfrutar del tiempo libre: no hay que llenar la agenda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/actualiza-forma-inmediata-mac-iphone-ipad-resolver-problema-seguridad-1273768'>Actualiza de forma inmediata tu Mac, iPhone o iPad para resolver este problema de seguridad</a></h4>
-    <a href='https://computerhoy.com/apple/actualiza-forma-inmediata-mac-iphone-ipad-resolver-problema-seguridad-1273768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/actualiza-forma-inmediata-mac-iphone-ipad-resolver-problema-seguridad-3080976.jpg?tf=1200x' alt='Actualiza de forma inmediata tu Mac, iPhone o iPad para resolver este problema de seguridad' />
+    <h4><a href='https://computerhoy.com/entretenimiento/puedes-ver-contenido-oculta-netflix-muy-poca-gente-conoce-1273234'>Así puedes ver el contenido que oculta Netflix y muy poca gente conoce</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/puedes-ver-contenido-oculta-netflix-muy-poca-gente-conoce-1273234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/contenido-oculto-netflix-3080122.jpg?tf=1200x' alt='Así puedes ver el contenido que oculta Netflix y muy poca gente conoce' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-8-amazon-prime-day-2023-oferta-1270758'>Llega la hora del Apple Watch Series 8: es hasta 100 euros más barato en el Amazon Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-watch-8-amazon-prime-day-2023-oferta-1270758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-3075352.jpg?tf=1200x' alt='Llega la hora del Apple Watch Series 8: es hasta 100 euros más barato en el Amazon Prime Day' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-s23-ultra-oferta-amazon-prime-day-1272030'>350 euros más barato el móvil Samsung más brutal de todos, el S23 Ultra, que promete arrasar en el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-s23-ultra-oferta-amazon-prime-day-1272030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-ultra-analisis-opinion-2961026.jpg?tf=1200x' alt='350 euros más barato el móvil Samsung más brutal de todos, el S23 Ultra, que promete arrasar en el Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ps5-top-ventas-amazon-prime-day-2023-1273726'>La oferta en PS5 arrasa ya en el Amazon Prime Day: ahorra 100 euros y con envío exprés</a></h4>
-    <a href='https://computerhoy.com/gaming/ps5-top-ventas-amazon-prime-day-2023-1273726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/playstation-5-prime-day-3080846.jpg?tf=1200x' alt='La oferta en PS5 arrasa ya en el Amazon Prime Day: ahorra 100 euros y con envío exprés' />
+    <h4><a href='https://computerhoy.com/tecnologia/bizum-estrena-funcion-exclusiva-algunos-usuarios-eres-ellos-1273806'>Bizum estrena una función exclusiva para algunos usuarios: ¿eres uno de ellos?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bizum-estrena-funcion-exclusiva-algunos-usuarios-eres-ellos-1273806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bizum-2833649.jpg?tf=1200x' alt='Bizum estrena una función exclusiva para algunos usuarios: ¿eres uno de ellos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/peligro-idolatrar-exceso-elon-musk-steve-jobs-otros-grandes-iconos-1273676'>El peligro de idolatrar en exceso a Elon Musk, Steve Jobs y otros grandes iconos</a></h4>
-    <a href='https://computerhoy.com/life/peligro-idolatrar-exceso-elon-musk-steve-jobs-otros-grandes-iconos-1273676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/peligro-idolatrar-exceso-elon-musk-steve-jobs-otros-grandes-iconos-3080834.jpg?tf=1200x' alt='El peligro de idolatrar en exceso a Elon Musk, Steve Jobs y otros grandes iconos' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-prime-day-oportunidad-perfecta-hacerte-fin-airpods-mejor-precio-1273804'>Amazon Prime Day: la oportunidad perfecta para hacerte por fin con unos AirPods al mejor precio</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-prime-day-oportunidad-perfecta-hacerte-fin-airpods-mejor-precio-1273804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airpods-3a-generacion-2712473.jpg?tf=1200x' alt='Amazon Prime Day: la oportunidad perfecta para hacerte por fin con unos AirPods al mejor precio' />
     </a>
 </div>
 
