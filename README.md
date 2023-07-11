@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-warren-buffett-enseno-bill-gates-disfrutar-tiempo-libre-no-hay-llenar-agenda-1273830'>Cómo Warren Buffett enseñó a Bill Gates a disfrutar del tiempo libre: no hay que llenar la agenda</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-warren-buffett-enseno-bill-gates-disfrutar-tiempo-libre-no-hay-llenar-agenda-1273830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='Cómo Warren Buffett enseñó a Bill Gates a disfrutar del tiempo libre: no hay que llenar la agenda' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-original-llega-fin-hay-actualizar-inmediato-1273836'>Windows 11 original llega a su fin y hay que actualizar de inmediato</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-original-llega-fin-hay-actualizar-inmediato-1273836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2954544.jpg?tf=1200x' alt='Windows 11 original llega a su fin y hay que actualizar de inmediato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/puedes-ver-contenido-oculta-netflix-muy-poca-gente-conoce-1273234'>Así puedes ver el contenido que oculta Netflix y muy poca gente conoce</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/puedes-ver-contenido-oculta-netflix-muy-poca-gente-conoce-1273234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/contenido-oculto-netflix-3080122.jpg?tf=1200x' alt='Así puedes ver el contenido que oculta Netflix y muy poca gente conoce' />
+    <h4><a href='https://computerhoy.com/tecnologia/aire-acondicionado-portatil-barato-oferta-amazon-prime-day-2023-1271866'>Enfría tu casa sin esperas: aires acondicionados portátiles a precio de ganga en el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aire-acondicionado-portatil-barato-oferta-amazon-prime-day-2023-1271866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aire-acondicionado-portatil-3077368.jpg?tf=1200x' alt='Enfría tu casa sin esperas: aires acondicionados portátiles a precio de ganga en el Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-s23-ultra-oferta-amazon-prime-day-1272030'>350 euros más barato el móvil Samsung más brutal de todos, el S23 Ultra, que promete arrasar en el Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-s23-ultra-oferta-amazon-prime-day-1272030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-ultra-analisis-opinion-2961026.jpg?tf=1200x' alt='350 euros más barato el móvil Samsung más brutal de todos, el S23 Ultra, que promete arrasar en el Prime Day' />
+    <h4><a href='https://computerhoy.com/reportaje/amazon-prime-day-2023-auriculares-1273296'>Auriculares top a precio de derribo: ofertas del Prime Day que merecen mucho la pena</a></h4>
+    <a href='https://computerhoy.com/reportaje/amazon-prime-day-2023-auriculares-1273296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/apple-airpods-pro-2123271.jpg?tf=1200x' alt='Auriculares top a precio de derribo: ofertas del Prime Day que merecen mucho la pena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bizum-estrena-funcion-exclusiva-algunos-usuarios-eres-ellos-1273806'>Bizum estrena una función exclusiva para algunos usuarios: ¿eres uno de ellos?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bizum-estrena-funcion-exclusiva-algunos-usuarios-eres-ellos-1273806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bizum-2833649.jpg?tf=1200x' alt='Bizum estrena una función exclusiva para algunos usuarios: ¿eres uno de ellos?' />
+    <h4><a href='https://computerhoy.com/moviles/nothing-phone-2-primeras-impresiones-ahora-gama-alta-1261532'>Nothing Phone (2), primeras impresiones: Ahora sí es un gama alta</a></h4>
+    <a href='https://computerhoy.com/moviles/nothing-phone-2-primeras-impresiones-ahora-gama-alta-1261532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-phone-2-3080342.jpg?tf=1200x' alt='Nothing Phone (2), primeras impresiones: Ahora sí es un gama alta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-prime-day-oportunidad-perfecta-hacerte-fin-airpods-mejor-precio-1273804'>Amazon Prime Day: la oportunidad perfecta para hacerte por fin con unos AirPods al mejor precio</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-prime-day-oportunidad-perfecta-hacerte-fin-airpods-mejor-precio-1273804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airpods-3a-generacion-2712473.jpg?tf=1200x' alt='Amazon Prime Day: la oportunidad perfecta para hacerte por fin con unos AirPods al mejor precio' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-revolut-perdio-23-millones-dolares-vulnerabilidad-sistema-1273876'>Cómo Revolut perdió 23 millones de dólares por una vulnerabilidad en su sistema</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-revolut-perdio-23-millones-dolares-vulnerabilidad-sistema-1273876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/revolut-3065006.jpg?tf=1200x' alt='Cómo Revolut perdió 23 millones de dólares por una vulnerabilidad en su sistema' />
     </a>
 </div>
 
