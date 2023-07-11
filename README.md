@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/cupones-amazon-prime-day-1272956'>Cupones Amazon Prime Day: dónde encontrarlos y qué debes saber sobre ellos</a></h4>
-    <a href='https://computerhoy.com/amazon/cupones-amazon-prime-day-1272956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-day-3073142.jpg?tf=1200x' alt='Cupones Amazon Prime Day: dónde encontrarlos y qué debes saber sobre ellos' />
+    <h4><a href='https://computerhoy.com/amazon/reacondicionados-amazon-prime-day-como-ahorra-30-adicional-1273042'>Reacondicionados en el Prime Day: todo lo que debes saber para ahorrar un 30% en productos de segunda mano como nuevos</a></h4>
+    <a href='https://computerhoy.com/amazon/reacondicionados-amazon-prime-day-como-ahorra-30-adicional-1273042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-caja-3079472.jpg?tf=1200x' alt='Reacondicionados en el Prime Day: todo lo que debes saber para ahorrar un 30% en productos de segunda mano como nuevos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-entrevista-1984-clave-exito-1273314'>El secreto revelado por Steve Jobs en 1984: la clave del éxito</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-entrevista-1984-clave-exito-1273314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steve-jobs-2981586.jpg?tf=1200x' alt='El secreto revelado por Steve Jobs en 1984: la clave del éxito' />
+    <h4><a href='https://computerhoy.com/mejores/amazon-prime-day-2023-ofertas-productos-apple-precios-nunca-vistos-1272424'>¿Es el Prime Day 2023 el mejor para los fans de Apple? Viendo las ofertas en iPhone, iPad o Apple Watch, lo parece</a></h4>
+    <a href='https://computerhoy.com/mejores/amazon-prime-day-2023-ofertas-productos-apple-precios-nunca-vistos-1272424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2948946.jpg?tf=1200x' alt='¿Es el Prime Day 2023 el mejor para los fans de Apple? Viendo las ofertas en iPhone, iPad o Apple Watch, lo parece' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/regla-nasa-siesta-perfecta-dinamita-costumbre-tan-espanola-1273340'>La regla de la NASA para la siesta perfecta que dinamita esta costumbre tan española</a></h4>
-    <a href='https://computerhoy.com/life/regla-nasa-siesta-perfecta-dinamita-costumbre-tan-espanola-1273340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/siesta-3080322.jpg?tf=1200x' alt='La regla de la NASA para la siesta perfecta que dinamita esta costumbre tan española' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-ipad-estan-oferta-263-euros-descuento-1273320'>Un iPad desde poco más de 300 euros: las rebajas del Prime Day dejan 11 modelos de iPad a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-ipad-estan-oferta-263-euros-descuento-1273320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='Un iPad desde poco más de 300 euros: las rebajas del Prime Day dejan 11 modelos de iPad a precio de saldo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pillado-aduana-300-procesadores-intel-pegados-cuerpo-1273338'>Pillado en la aduana con más de 300 procesadores Intel pegados al cuerpo</a></h4>
-    <a href='https://computerhoy.com/life/pillado-aduana-300-procesadores-intel-pegados-cuerpo-1273338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pillado-aduana-300-procesadores-intel-pegados-cuerpo-3080318.jpg?tf=1200x' alt='Pillado en la aduana con más de 300 procesadores Intel pegados al cuerpo' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398'>Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-prime-day-2023-3064760.jpg?tf=1200x' alt='Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/big-head-ransomware-camufla-como-actualizacion-windows-1273290'>Un virus que se camufla como actualización de Windows destruye copias de seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/big-head-ransomware-camufla-como-actualizacion-windows-1273290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/virus-actualizacion-windows-3080168.jpg?tf=1200x' alt='Un virus que se camufla como actualización de Windows destruye copias de seguridad' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-prime-day-2023-cuidado-estafas-protege-datos-durante-ofertas-verano-1273244'>Amazon Prime Day 2023: cuidado con las estafas y cómo protege tus datos durante las ofertas del verano</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-prime-day-2023-cuidado-estafas-protege-datos-durante-ofertas-verano-1273244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/prime-day-amazon-cuidado-estafas-protege-datos-durante-ofertas-verano-3080148.jpg?tf=1200x' alt='Amazon Prime Day 2023: cuidado con las estafas y cómo protege tus datos durante las ofertas del verano' />
     </a>
 </div>
 
