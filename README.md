@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/amazon-prime-day-2023-relojes-deportivos-1273256'>Fibit, Apple, Garmin y más relojes deportivos top que entran a la guerra del Prime Day: estos son los mejores</a></h4>
-    <a href='https://computerhoy.com/mejores/amazon-prime-day-2023-relojes-deportivos-1273256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/garmin-fenix-3080608.jpg?tf=1200x' alt='Fibit, Apple, Garmin y más relojes deportivos top que entran a la guerra del Prime Day: estos son los mejores' />
+    <h4><a href='https://computerhoy.com/android/peligro-estas-dos-apps-android-espian-15-millones-usuarios-envian-datos-china-1273730'>El peligro de estas dos apps de Android: espían a 1,5 millones de usuarios y envían sus datos a China</a></h4>
+    <a href='https://computerhoy.com/android/peligro-estas-dos-apps-android-espian-15-millones-usuarios-envian-datos-china-1273730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elimina-forma-inmediata-siguientes-aplicaciones-android-100-apps-estan-infectadas-malware-3046862.jpg?tf=1200x' alt='El peligro de estas dos apps de Android: espían a 1,5 millones de usuarios y envían sus datos a China' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mucho-cuidado-porque-emoji-pulgar-arriba-puede-llevarte-juicio-1273600'>Mucho cuidado porque el emoji del pulgar hacia arriba puede llevarte a juicio</a></h4>
-    <a href='https://computerhoy.com/apps/mucho-cuidado-porque-emoji-pulgar-arriba-puede-llevarte-juicio-1273600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mucho-cuidado-porque-emoji-pulgar-arriba-puede-llevarte-juicio-3080638.jpg?tf=1200x' alt='Mucho cuidado porque el emoji del pulgar hacia arriba puede llevarte a juicio' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-redmi-note-12-oferta-durante-amazon-prime-day-1270698'>El móvil Xiaomi más buscado (y de los más baratos) aterriza en los días del Prime Day a precio ridículo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-redmi-note-12-oferta-durante-amazon-prime-day-1270698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-redmi-note-12-amazon-prime-day-3075302.jpg?tf=1200x' alt='El móvil Xiaomi más buscado (y de los más baratos) aterriza en los días del Prime Day a precio ridículo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/satelites-starlink-estan-emitiendo-radiacion-no-deseada-1273596'>Los satélites de Starlink están emitiendo radiación no deseada</a></h4>
-    <a href='https://computerhoy.com/espacio/satelites-starlink-estan-emitiendo-radiacion-no-deseada-1273596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/starlink-2628997.jpg?tf=1200x' alt='Los satélites de Starlink están emitiendo radiación no deseada' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-prime-day-top-10-mejores-moviles-oferta-1273690'>Estos son los mejores 10 móviles en oferta por el Amazon Prime Day 2023</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-prime-day-top-10-mejores-moviles-oferta-1273690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006126.jpg?tf=1200x' alt='Estos son los mejores 10 móviles en oferta por el Amazon Prime Day 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/chollos-amazon-prime-day-2023-1273108'>Las mejores gangas por menos de 20€ en el Amazon Prime Day</a></h4>
-    <a href='https://computerhoy.com/mejores/chollos-amazon-prime-day-2023-1273108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/pagina-amazon-puede-ahorrarte-mucho-dinero-amazon-prime-day-2022-2754589.jpg?tf=1200x' alt='Las mejores gangas por menos de 20€ en el Amazon Prime Day' />
+    <h4><a href='https://computerhoy.com/tecnologia/aire-acondicionado-portatil-barato-oferta-amazon-prime-day-2023-1271866'>Enfría tu casa sin esperas: aires acondicionados portátiles a precio de ganga en el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aire-acondicionado-portatil-barato-oferta-amazon-prime-day-2023-1271866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aire-acondicionado-portatil-3077368.jpg?tf=1200x' alt='Enfría tu casa sin esperas: aires acondicionados portátiles a precio de ganga en el Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/air-fryer-baratas-oferta-amazon-prime-day-2023-1271520'>Si no tienes aún Air Fryer, no será por falta de ofertas: en el Amazon Prime Day hay para todos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/air-fryer-baratas-oferta-amazon-prime-day-2023-1271520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/air-fryer-freidora-aire-freidora-aceite-3076992.jpg?tf=1200x' alt='Si no tienes aún Air Fryer, no será por falta de ofertas: en el Amazon Prime Day hay para todos' />
+    <h4><a href='https://computerhoy.com/life/separa-personas-exitosas-todos-demas-steve-jobs-1273654'>Esto es lo que separa a las personas exitosas de todos los demás según Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/life/separa-personas-exitosas-todos-demas-steve-jobs-1273654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/steve-jobs-3026774.jpg?tf=1200x' alt='Esto es lo que separa a las personas exitosas de todos los demás según Steve Jobs' />
     </a>
 </div>
 
