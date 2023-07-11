@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/peligro-estas-dos-apps-android-espian-15-millones-usuarios-envian-datos-china-1273730'>El peligro de estas dos apps de Android: espían a 1,5 millones de usuarios y envían sus datos a China</a></h4>
-    <a href='https://computerhoy.com/android/peligro-estas-dos-apps-android-espian-15-millones-usuarios-envian-datos-china-1273730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elimina-forma-inmediata-siguientes-aplicaciones-android-100-apps-estan-infectadas-malware-3046862.jpg?tf=1200x' alt='El peligro de estas dos apps de Android: espían a 1,5 millones de usuarios y envían sus datos a China' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398'>Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-prime-day-2023-3064760.jpg?tf=1200x' alt='Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-redmi-note-12-oferta-durante-amazon-prime-day-1270698'>El móvil Xiaomi más buscado (y de los más baratos) aterriza en los días del Prime Day a precio ridículo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-redmi-note-12-oferta-durante-amazon-prime-day-1270698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-redmi-note-12-amazon-prime-day-3075302.jpg?tf=1200x' alt='El móvil Xiaomi más buscado (y de los más baratos) aterriza en los días del Prime Day a precio ridículo' />
+    <h4><a href='https://computerhoy.com/apple/actualiza-forma-inmediata-mac-iphone-ipad-resolver-problema-seguridad-1273768'>Actualiza de forma inmediata tu Mac, iPhone o iPad para resolver este problema de seguridad</a></h4>
+    <a href='https://computerhoy.com/apple/actualiza-forma-inmediata-mac-iphone-ipad-resolver-problema-seguridad-1273768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/actualiza-forma-inmediata-mac-iphone-ipad-resolver-problema-seguridad-3080976.jpg?tf=1200x' alt='Actualiza de forma inmediata tu Mac, iPhone o iPad para resolver este problema de seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-prime-day-top-10-mejores-moviles-oferta-1273690'>Estos son los mejores 10 móviles en oferta por el Amazon Prime Day 2023</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-prime-day-top-10-mejores-moviles-oferta-1273690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006126.jpg?tf=1200x' alt='Estos son los mejores 10 móviles en oferta por el Amazon Prime Day 2023' />
+    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-8-amazon-prime-day-2023-oferta-1270758'>Llega la hora del Apple Watch Series 8: es hasta 100 euros más barato en el Amazon Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-watch-8-amazon-prime-day-2023-oferta-1270758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-3075352.jpg?tf=1200x' alt='Llega la hora del Apple Watch Series 8: es hasta 100 euros más barato en el Amazon Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aire-acondicionado-portatil-barato-oferta-amazon-prime-day-2023-1271866'>Enfría tu casa sin esperas: aires acondicionados portátiles a precio de ganga en el Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aire-acondicionado-portatil-barato-oferta-amazon-prime-day-2023-1271866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aire-acondicionado-portatil-3077368.jpg?tf=1200x' alt='Enfría tu casa sin esperas: aires acondicionados portátiles a precio de ganga en el Prime Day' />
+    <h4><a href='https://computerhoy.com/gaming/ps5-top-ventas-amazon-prime-day-2023-1273726'>La oferta en PS5 arrasa ya en el Amazon Prime Day: ahorra 100 euros y con envío exprés</a></h4>
+    <a href='https://computerhoy.com/gaming/ps5-top-ventas-amazon-prime-day-2023-1273726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/playstation-5-prime-day-3080846.jpg?tf=1200x' alt='La oferta en PS5 arrasa ya en el Amazon Prime Day: ahorra 100 euros y con envío exprés' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/separa-personas-exitosas-todos-demas-steve-jobs-1273654'>Esto es lo que separa a las personas exitosas de todos los demás según Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/life/separa-personas-exitosas-todos-demas-steve-jobs-1273654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/steve-jobs-3026774.jpg?tf=1200x' alt='Esto es lo que separa a las personas exitosas de todos los demás según Steve Jobs' />
+    <h4><a href='https://computerhoy.com/life/peligro-idolatrar-exceso-elon-musk-steve-jobs-otros-grandes-iconos-1273676'>El peligro de idolatrar en exceso a Elon Musk, Steve Jobs y otros grandes iconos</a></h4>
+    <a href='https://computerhoy.com/life/peligro-idolatrar-exceso-elon-musk-steve-jobs-otros-grandes-iconos-1273676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/peligro-idolatrar-exceso-elon-musk-steve-jobs-otros-grandes-iconos-3080834.jpg?tf=1200x' alt='El peligro de idolatrar en exceso a Elon Musk, Steve Jobs y otros grandes iconos' />
     </a>
 </div>
 
