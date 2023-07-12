@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/oneshot-gamepad-transforma-subfusil-disparar-tele-video-1274254'>OneShot, el gamepad que se transforma en un subfusil para disparar a la pantalla (vídeo)</a></h4>
-    <a href='https://computerhoy.com/gaming/oneshot-gamepad-transforma-subfusil-disparar-tele-video-1274254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1689142948714-3081704.jpg?tf=1200x' alt='OneShot, el gamepad que se transforma en un subfusil para disparar a la pantalla (vídeo)' />
+    <h4><a href='https://computerhoy.com/ciencia/estudio-revela-no-hace-falta-vivir-venecia-ver-como-ciudad-hunde-1274338'>Este estudio revela que no hace falta vivir en Venecia para ver cómo tu ciudad puede hundirse</a></h4>
+    <a href='https://computerhoy.com/ciencia/estudio-revela-no-hace-falta-vivir-venecia-ver-como-ciudad-hunde-1274338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estudio-revela-no-hace-falta-vivir-venecia-ver-como-ciudad-puede-hundirse-3081972.jpg?tf=1200x' alt='Este estudio revela que no hace falta vivir en Venecia para ver cómo tu ciudad puede hundirse' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-auriculares-soundcore-estan-baratos-nunca-amazon-prime-day-1273982'>Los auriculares de Soundcore están más baratos que nunca en el Amazon Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-auriculares-soundcore-estan-baratos-nunca-amazon-prime-day-1273982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/soundcore-life-q30-color-rosa-2700653.jpg?tf=1200x' alt='Los auriculares de Soundcore están más baratos que nunca en el Amazon Prime Day' />
+    <h4><a href='https://computerhoy.com/motor/locura-redes-descubrir-funcion-secreta-parasol-coche-1259954'>Descubre la función secreta del parasol del coche que desconocías</a></h4>
+    <a href='https://computerhoy.com/motor/locura-redes-descubrir-funcion-secreta-parasol-coche-1259954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/sol-parabrisas-coche-2436427.jpg?tf=1200x' alt='Descubre la función secreta del parasol del coche que desconocías' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-deja-fabricar-iconicos-mini-pcs-nuc-1273942'>Intel no fabricará más NUC, los icónicos miniordenadores</a></h4>
-    <a href='https://computerhoy.com/pc/intel-deja-fabricar-iconicos-mini-pcs-nuc-1273942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-nuc-9-extreme-2366497.jpg?tf=1200x' alt='Intel no fabricará más NUC, los icónicos miniordenadores' />
+    <h4><a href='https://computerhoy.com/moviles/nuevo-vivo-y36-llega-espana-carga-rapida-bateria-larga-duracion-90-hz-1274326'>El nuevo vivo Y36 llega a España: carga rápida, batería de larga duración y 90 Hz</a></h4>
+    <a href='https://computerhoy.com/moviles/nuevo-vivo-y36-llega-espana-carga-rapida-bateria-larga-duracion-90-hz-1274326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nuevo-vivo-y36-carga-rapida-bateria-larga-duracion-90-hz-3081940.jpg?tf=1200x' alt='El nuevo vivo Y36 llega a España: carga rápida, batería de larga duración y 90 Hz' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/10-novedades-aterrizaran-movil-llegada-android-14-1274252'>10 novedades que aterrizarán en tu móvil con la llegada de Android 14</a></h4>
-    <a href='https://computerhoy.com/android/10-novedades-aterrizaran-movil-llegada-android-14-1274252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-14-2937042.jpg?tf=1200x' alt='10 novedades que aterrizarán en tu móvil con la llegada de Android 14' />
+    <h4><a href='https://computerhoy.com/tecnologia/fibit-versa-4-oferta-precio-ganga-amazon-prime-day-1272356'>Seis días y batería y pagos con NFC: este reloj de Fitbit es mucho más barato de lo que piensas en el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fibit-versa-4-oferta-precio-ganga-amazon-prime-day-1272356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fitbit-versa-4-2927658.jpg?tf=1200x' alt='Seis días y batería y pagos con NFC: este reloj de Fitbit es mucho más barato de lo que piensas en el Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/accesorio-low-cost-amazon-prime-day-fibra-optica-pide-gritos-notaras-diferencia-1272748'>Este accesorio low cost del Amazon Prime Day es lo que tu fibra óptica pide a gritos: notarás la diferencia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/accesorio-low-cost-amazon-prime-day-fibra-optica-pide-gritos-notaras-diferencia-1272748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/senderos-luz-curvos-3078916.jpg?tf=1200x' alt='Este accesorio low cost del Amazon Prime Day es lo que tu fibra óptica pide a gritos: notarás la diferencia' />
+    <h4><a href='https://computerhoy.com/moviles/nothing-phone-2-prueba-ralladuras-dobleces-fuego-comprobar-durabilidad-1274324'>Nothing Phone (2) a prueba: ralladuras, dobleces y hasta fuego para comprobar su durabilidad</a></h4>
+    <a href='https://computerhoy.com/moviles/nothing-phone-2-prueba-ralladuras-dobleces-fuego-comprobar-durabilidad-1274324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-phone-2-prueba-ralladuras-dobleces-fuego-comprobar-durabilidad-3081956.jpg?tf=1200x' alt='Nothing Phone (2) a prueba: ralladuras, dobleces y hasta fuego para comprobar su durabilidad' />
     </a>
 </div>
 
