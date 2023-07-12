@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/regla-2-pizzas-jeff-bezos-usaba-amazon-ser-productivo-1273848'>La regla de las 2 pizzas que Jeff Bezos usaba en Amazon para ser más productivo</a></h4>
+    <a href='https://computerhoy.com/life/regla-2-pizzas-jeff-bezos-usaba-amazon-ser-productivo-1273848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/jeff-bezos-regla-dos-pizzas-3081286.jpg?tf=1200x' alt='La regla de las 2 pizzas que Jeff Bezos usaba en Amazon para ser más productivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/salas-cine-asiento-elegiria-christopher-nolan-ver-oppenheimer-espana-1274474'>Las salas de cine y el asiento que elegiría Christopher Nolan para ver Oppenheimer en España</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/salas-cine-asiento-elegiria-christopher-nolan-ver-oppenheimer-espana-1274474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oppenheimer-3063058.jpg?tf=1200x' alt='Las salas de cine y el asiento que elegiría Christopher Nolan para ver Oppenheimer en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/boton-secreto-abrir-tapa-combustible-coche-atascada-no-abre-1273926'>El botón secreto para abrir la tapa de combustible del coche que solo el 10% de los conductores conoce</a></h4>
+    <a href='https://computerhoy.com/motor/boton-secreto-abrir-tapa-combustible-coche-atascada-no-abre-1273926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/04/505383-hyundai-i20-active-tapa-deposito.jpg?tf=1200x' alt='El botón secreto para abrir la tapa de combustible del coche que solo el 10% de los conductores conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/miercoles-prime-day-ventilador-techo-estos-son-estan-vendiendo-1274452'>Miércoles de Prime Day y de ventilador de techo: estos son los que más se están vendiendo</a></h4>
     <a href='https://computerhoy.com/hogar/miercoles-prime-day-ventilador-techo-estos-son-estan-vendiendo-1274452' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dormitorio-ventilador-techo-2983788.jpg?tf=1200x' alt='Miércoles de Prime Day y de ventilador de techo: estos son los que más se están vendiendo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-calcular-letra-dni-sirve-1274198'>Cómo calcular la letra del DNI y para qué sirve</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-calcular-letra-dni-sirve-1274198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/letra-dni-3081658.jpg?tf=1200x' alt='Cómo calcular la letra del DNI y para qué sirve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ventilador-techo-no-enfria-comprueba-interruptor-1274422'>¿Tu ventilador de techo no enfría? Es posible que hayas pasado por alto este detalle</a></h4>
-    <a href='https://computerhoy.com/life/ventilador-techo-no-enfria-comprueba-interruptor-1274422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ventilador-techo-no-enfria-3082186.jpg?tf=1200x' alt='¿Tu ventilador de techo no enfría? Es posible que hayas pasado por alto este detalle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ofertas-ultima-hora-amazon-prime-day-2023-1274344'>15 ofertas de última hora del Amazon Prime Day que no volveremos a ver en mucho tiempo (y que deberías aprovechar)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ofertas-ultima-hora-amazon-prime-day-2023-1274344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-day-reloj-arena-3081928.jpg?tf=1200x' alt='15 ofertas de última hora del Amazon Prime Day que no volveremos a ver en mucho tiempo (y que deberías aprovechar)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuanto-tiempo-deberias-masticar-chicle-expertos-1270294'>Cuánto tiempo deberías masticar chicle según los expertos y cuáles son los riesgos para tu salud bucal</a></h4>
-    <a href='https://computerhoy.com/life/cuanto-tiempo-deberias-masticar-chicle-expertos-1270294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mascar-chicle-3082142.jpg?tf=1200x' alt='Cuánto tiempo deberías masticar chicle según los expertos y cuáles son los riesgos para tu salud bucal' />
     </a>
 </div>
 
