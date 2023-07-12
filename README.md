@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/truco-luz-magenta-inteligencia-artificial-netflix-efectos-especiales-1273980'>El truco de la luz magenta y la IA que Netflix usa para mejorar los efectos especiales</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/truco-luz-magenta-inteligencia-artificial-netflix-efectos-especiales-1273980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/truco-luz-magenta-ia-netflix-usa-mejorar-efectos-especiales-3081420.jpg?tf=1200x' alt='El truco de la luz magenta y la IA que Netflix usa para mejorar los efectos especiales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/apple-watch-2022-oferta-amazon-prime-day-2023-1273330'>¿Momento de estrenar Apple Watch? El nuevo SE por 245 euros es una de las gangas del Prime Day</a></h4>
     <a href='https://computerhoy.com/tecnologia/apple-watch-2022-oferta-amazon-prime-day-2023-1273330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-3080308.jpg?tf=1200x' alt='¿Momento de estrenar Apple Watch? El nuevo SE por 245 euros es una de las gangas del Prime Day' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/metodo-magico-eliminar-rayones-superficiales-pantalla-movil-encontraras-estuche-hijo-1273962'>El método mágico para eliminar rayones superficiales de la pantalla de tu móvil que encontrarás en el estuche de tu hijo</a></h4>
     <a href='https://computerhoy.com/moviles/metodo-magico-eliminar-rayones-superficiales-pantalla-movil-encontraras-estuche-hijo-1273962' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pantalla-rota-movil-3081408.jpg?tf=1200x' alt='El método mágico para eliminar rayones superficiales de la pantalla de tu móvil que encontrarás en el estuche de tu hijo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/puedes-escucharlo-cientificos-consiguen-probar-posible-escuchar-silencio-1273958'>¿Puedes escucharlo? Científicos consiguen probar que es posible escuchar el silencio</a></h4>
-    <a href='https://computerhoy.com/ciencia/puedes-escucharlo-cientificos-consiguen-probar-posible-escuchar-silencio-1273958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hombre-escuchando-3081406.jpg?tf=1200x' alt='¿Puedes escucharlo? Científicos consiguen probar que es posible escuchar el silencio' />
     </a>
 </div>
 
