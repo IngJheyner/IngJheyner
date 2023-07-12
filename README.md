@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/plataformas-canales-donde-ver-television-liga-primera-segunda-division-temporada-2023-24-1273976'>Plataformas, canales y dónde ver por televisión La Liga de primera y segunda división en la temporada 2023/24</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/plataformas-canales-donde-ver-television-liga-primera-segunda-division-temporada-2023-24-1273976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/laliga-ea-sports-laliga-hypermotion-3081644.jpg?tf=1200x' alt='Plataformas, canales y dónde ver por televisión La Liga de primera y segunda división en la temporada 2023/24' />
+    <h4><a href='https://computerhoy.com/hogar/miercoles-prime-day-ventilador-techo-estos-son-estan-vendiendo-1274452'>Miércoles de Prime Day y de ventilador de techo: estos son los que más se están vendiendo</a></h4>
+    <a href='https://computerhoy.com/hogar/miercoles-prime-day-ventilador-techo-estos-son-estan-vendiendo-1274452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dormitorio-ventilador-techo-2983788.jpg?tf=1200x' alt='Miércoles de Prime Day y de ventilador de techo: estos son los que más se están vendiendo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/no-dejes-5g-te-quite-energia-trucos-optimizar-bateria-1274392'>No dejes que el 5G te quite la energía: trucos para optimizar tu batería</a></h4>
-    <a href='https://computerhoy.com/moviles/no-dejes-5g-te-quite-energia-trucos-optimizar-bateria-1274392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bateria-movil-3065252.jpg?tf=1200x' alt='No dejes que el 5G te quite la energía: trucos para optimizar tu batería' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-calcular-letra-dni-sirve-1274198'>Cómo calcular la letra del DNI y para qué sirve</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-calcular-letra-dni-sirve-1274198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/letra-dni-3081658.jpg?tf=1200x' alt='Cómo calcular la letra del DNI y para qué sirve' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/son-cataratas-sangre-sirven-estudiar-otros-planetas-lejos-sistema-solar-1274346'>Qué son las cataratas de sangre y por qué sirven para estudiar otros planetas lejanos</a></h4>
-    <a href='https://computerhoy.com/ciencia/son-cataratas-sangre-sirven-estudiar-otros-planetas-lejos-sistema-solar-1274346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/son-cataratas-sangre-sirven-estudiar-otros-planetas-lejos-sistema-solar-3082032.jpg?tf=1200x' alt='Qué son las cataratas de sangre y por qué sirven para estudiar otros planetas lejanos' />
+    <h4><a href='https://computerhoy.com/life/ventilador-techo-no-enfria-comprueba-interruptor-1274422'>¿Tu ventilador de techo no enfría? Es posible que hayas pasado por alto este detalle</a></h4>
+    <a href='https://computerhoy.com/life/ventilador-techo-no-enfria-comprueba-interruptor-1274422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ventilador-techo-no-enfria-3082186.jpg?tf=1200x' alt='¿Tu ventilador de techo no enfría? Es posible que hayas pasado por alto este detalle' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-m33-5g-oferta-precio-historico-amazon-1274286'>Hay un móvil Samsung triunfando en el Prime Day, y no es el S23</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-m33-5g-oferta-precio-historico-amazon-1274286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/samsung-galaxy-m33-prime-day-3081796.jpg?tf=1200x' alt='Hay un móvil Samsung triunfando en el Prime Day, y no es el S23' />
+    <h4><a href='https://computerhoy.com/tecnologia/ofertas-ultima-hora-amazon-prime-day-2023-1274344'>15 ofertas de última hora del Amazon Prime Day que no volveremos a ver en mucho tiempo (y que deberías aprovechar)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ofertas-ultima-hora-amazon-prime-day-2023-1274344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-day-reloj-arena-3081928.jpg?tf=1200x' alt='15 ofertas de última hora del Amazon Prime Day que no volveremos a ver en mucho tiempo (y que deberías aprovechar)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estudio-revela-no-hace-falta-vivir-venecia-ver-como-ciudad-hunde-1274338'>Este estudio revela que no hace falta vivir en Venecia para ver cómo tu ciudad puede hundirse</a></h4>
-    <a href='https://computerhoy.com/ciencia/estudio-revela-no-hace-falta-vivir-venecia-ver-como-ciudad-hunde-1274338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estudio-revela-no-hace-falta-vivir-venecia-ver-como-ciudad-puede-hundirse-3081972.jpg?tf=1200x' alt='Este estudio revela que no hace falta vivir en Venecia para ver cómo tu ciudad puede hundirse' />
+    <h4><a href='https://computerhoy.com/life/cuanto-tiempo-deberias-masticar-chicle-expertos-1270294'>Cuánto tiempo deberías masticar chicle según los expertos y cuáles son los riesgos para tu salud bucal</a></h4>
+    <a href='https://computerhoy.com/life/cuanto-tiempo-deberias-masticar-chicle-expertos-1270294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mascar-chicle-3082142.jpg?tf=1200x' alt='Cuánto tiempo deberías masticar chicle según los expertos y cuáles son los riesgos para tu salud bucal' />
     </a>
 </div>
 
