@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398'>Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-prime-day-2023-3064760.jpg?tf=1200x' alt='Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sony-alpha-7-ii-oferta-amazon-barata-nunca-antes-1272698'>La Sony Alpha 7 II es una cámara top, pero para top el descuento que tiene en el Prime Day: casi 600 euros más barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sony-alpha-7-ii-oferta-amazon-barata-nunca-antes-1272698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/sony-alpha-7-ii-2152745.jpg?tf=1200x' alt='La Sony Alpha 7 II es una cámara top, pero para top el descuento que tiene en el Prime Day: casi 600 euros más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-pc-solo-176-mb-memoria-tiny11-1274200'>Consiguen ejecutar Windows 11 en un PC con solo 176 MB de memoria, 23 veces menos que los requisitos mínimos</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-pc-solo-176-mb-memoria-tiny11-1274200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/consiguen-ejecutar-windows-11-pc-solo-176-mb-memoria-23-veces-menos-requisitos-minimos-3081650.jpg?tf=1200x' alt='Consiguen ejecutar Windows 11 en un PC con solo 176 MB de memoria, 23 veces menos que los requisitos mínimos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/truco-luz-magenta-inteligencia-artificial-netflix-efectos-especiales-1273980'>El truco de la luz magenta y la IA que Netflix usa para mejorar los efectos especiales</a></h4>
     <a href='https://computerhoy.com/entretenimiento/truco-luz-magenta-inteligencia-artificial-netflix-efectos-especiales-1273980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/truco-luz-magenta-ia-netflix-usa-mejorar-efectos-especiales-3081420.jpg?tf=1200x' alt='El truco de la luz magenta y la IA que Netflix usa para mejorar los efectos especiales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/apple-watch-2022-oferta-amazon-prime-day-2023-1273330'>¿Momento de estrenar Apple Watch? El nuevo SE por 245 euros es una de las gangas del Prime Day</a></h4>
     <a href='https://computerhoy.com/tecnologia/apple-watch-2022-oferta-amazon-prime-day-2023-1273330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-3080308.jpg?tf=1200x' alt='¿Momento de estrenar Apple Watch? El nuevo SE por 245 euros es una de las gangas del Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/air-fryer-cosori-cesta-gigante-oferta-149-euros-prime-day-2023-1273968'>Esta oferta está arrasando en el Amazon Prime Day: es una Air Fryer gigante de Cosori con 7.000 valoraciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/air-fryer-cosori-cesta-gigante-oferta-149-euros-prime-day-2023-1273968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cosori-caf-p583s-3081410.jpg?tf=1200x' alt='Esta oferta está arrasando en el Amazon Prime Day: es una Air Fryer gigante de Cosori con 7.000 valoraciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/discord-incluye-centro-familiar-seguridad-menores-1273930'>Discord estrena un Centro Familiar para proteger a los menores </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/discord-incluye-centro-familiar-seguridad-menores-1273930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/discord-incluye-centro-familiar-garantizar-seguridad-menores-3081358.jpg?tf=1200x' alt='Discord estrena un Centro Familiar para proteger a los menores ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/metodo-magico-eliminar-rayones-superficiales-pantalla-movil-encontraras-estuche-hijo-1273962'>El método mágico para eliminar rayones superficiales de la pantalla de tu móvil que encontrarás en el estuche de tu hijo</a></h4>
-    <a href='https://computerhoy.com/moviles/metodo-magico-eliminar-rayones-superficiales-pantalla-movil-encontraras-estuche-hijo-1273962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pantalla-rota-movil-3081408.jpg?tf=1200x' alt='El método mágico para eliminar rayones superficiales de la pantalla de tu móvil que encontrarás en el estuche de tu hijo' />
     </a>
 </div>
 
