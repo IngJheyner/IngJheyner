@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/productos-mas-vendidos-primer-dia-amazon-prime-day-1273974'>Estos son los 10 dispositivos más vendidos en el primer día del Amazon Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/productos-mas-vendidos-primer-dia-amazon-prime-day-1273974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-day-3081434.jpg?tf=1200x' alt='Estos son los 10 dispositivos más vendidos en el primer día del Amazon Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mapa-marcas-famosas-por-comunidad-autonoma-1274214'>Este mapa nos muestra las marcas más famosas que han nacido en cada comunidad autónoma</a></h4>
+    <a href='https://computerhoy.com/life/mapa-marcas-famosas-por-comunidad-autonoma-1274214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mapa-marcas-empresas-comunidades-autonomas-3071676.jpg?tf=1200x' alt='Este mapa nos muestra las marcas más famosas que han nacido en cada comunidad autónoma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/entrenadores-ia-arquitectos-sistemas-futuro-1265428'>Entrenadores de IA: los arquitectos de la tecnología del futuro</a></h4>
     <a href='https://computerhoy.com/tecnologia/entrenadores-ia-arquitectos-sistemas-futuro-1265428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/entrenadores-ia-arquitectos-tecnologia-futuro-3067854.jpg?tf=1200x' alt='Entrenadores de IA: los arquitectos de la tecnología del futuro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/oferta-dentista-te-recomendaria-prime-day-cuesta-menos-mitad-antes-1272772'>Esta oferta es la que tu dentista te recomendaría en el Prime Day, y cuesta menos de la mitad que antes</a></h4>
     <a href='https://computerhoy.com/hogar/oferta-dentista-te-recomendaria-prime-day-cuesta-menos-mitad-antes-1272772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/irrigador-dental-cepillo-dientes-3078992.jpg?tf=1200x' alt='Esta oferta es la que tu dentista te recomendaría en el Prime Day, y cuesta menos de la mitad que antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398'>Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-2023-mejores-ofertas-dias-11-12-julio-1264398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-prime-day-2023-3064760.jpg?tf=1200x' alt='Mejores ofertas del Amazon Prime Day 2023: estos son los chollos que no puedes dejar pasar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sony-alpha-7-ii-oferta-amazon-barata-nunca-antes-1272698'>La Sony Alpha 7 II es una cámara top, pero para top el descuento que tiene en el Prime Day: casi 600 euros más barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sony-alpha-7-ii-oferta-amazon-barata-nunca-antes-1272698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/sony-alpha-7-ii-2152745.jpg?tf=1200x' alt='La Sony Alpha 7 II es una cámara top, pero para top el descuento que tiene en el Prime Day: casi 600 euros más barata' />
     </a>
 </div>
 
