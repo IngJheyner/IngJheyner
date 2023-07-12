@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/regla-2-pizzas-jeff-bezos-usaba-amazon-ser-productivo-1273848'>La regla de las 2 pizzas que Jeff Bezos usaba en Amazon para ser más productivo</a></h4>
-    <a href='https://computerhoy.com/life/regla-2-pizzas-jeff-bezos-usaba-amazon-ser-productivo-1273848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/jeff-bezos-regla-dos-pizzas-3081286.jpg?tf=1200x' alt='La regla de las 2 pizzas que Jeff Bezos usaba en Amazon para ser más productivo' />
+    <h4><a href='https://computerhoy.com/life/explica-redes-como-comprar-casa-solo-1-euro-no-estafa-1274546'>Explica en redes cómo comprar una casa por solo 1 euro, y no es una estafa</a></h4>
+    <a href='https://computerhoy.com/life/explica-redes-como-comprar-casa-solo-1-euro-no-estafa-1274546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/entrega-llaves-3082638.jpg?tf=1200x' alt='Explica en redes cómo comprar una casa por solo 1 euro, y no es una estafa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/salas-cine-asiento-elegiria-christopher-nolan-ver-oppenheimer-espana-1274474'>Las salas de cine y el asiento que elegiría Christopher Nolan para ver Oppenheimer en España</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/salas-cine-asiento-elegiria-christopher-nolan-ver-oppenheimer-espana-1274474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oppenheimer-3063058.jpg?tf=1200x' alt='Las salas de cine y el asiento que elegiría Christopher Nolan para ver Oppenheimer en España' />
+    <h4><a href='https://computerhoy.com/motor/coches-electricos-autonomia-solo-30-minutos-carga-1274526'>Los coches eléctricos actuales con más autonomía con solo 30 minutos de carga, y ninguno es un Tesla</a></h4>
+    <a href='https://computerhoy.com/motor/coches-electricos-autonomia-solo-30-minutos-carga-1274526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/coches-electricos-actuales-autonomia-solo-30-minutos-carga-ninguno-tesla-3082580.jpg?tf=1200x' alt='Los coches eléctricos actuales con más autonomía con solo 30 minutos de carga, y ninguno es un Tesla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/boton-secreto-abrir-tapa-combustible-coche-atascada-no-abre-1273926'>El botón secreto para abrir la tapa de combustible del coche que solo el 10% de los conductores conoce</a></h4>
-    <a href='https://computerhoy.com/motor/boton-secreto-abrir-tapa-combustible-coche-atascada-no-abre-1273926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/04/505383-hyundai-i20-active-tapa-deposito.jpg?tf=1200x' alt='El botón secreto para abrir la tapa de combustible del coche que solo el 10% de los conductores conoce' />
+    <h4><a href='https://computerhoy.com/motor/desarrollan-capa-termica-aumenta-autonomia-baterias-coches-electricos-1274544'>Desarrollan una capa térmica que aumenta la autonomía de las baterías de los coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/motor/desarrollan-capa-termica-aumenta-autonomia-baterias-coches-electricos-1274544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/desarrollan-capa-termica-aumenta-autonomia-baterias-coches-electricos-3082634.jpg?tf=1200x' alt='Desarrollan una capa térmica que aumenta la autonomía de las baterías de los coches eléctricos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/miercoles-prime-day-ventilador-techo-estos-son-estan-vendiendo-1274452'>Miércoles de Prime Day y de ventilador de techo: estos son los que más se están vendiendo</a></h4>
-    <a href='https://computerhoy.com/hogar/miercoles-prime-day-ventilador-techo-estos-son-estan-vendiendo-1274452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dormitorio-ventilador-techo-2983788.jpg?tf=1200x' alt='Miércoles de Prime Day y de ventilador de techo: estos son los que más se están vendiendo' />
+    <h4><a href='https://computerhoy.com/life/ocu-truco-papel-aluminio-tiktok-timo-1274514'>La OCU confirma que uno de los trucos de cocina más virales de TikTok es un timo</a></h4>
+    <a href='https://computerhoy.com/life/ocu-truco-papel-aluminio-tiktok-timo-1274514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ocu-confirma-trucos-cocina-virales-tiktok-timo-3082534.jpg?tf=1200x' alt='La OCU confirma que uno de los trucos de cocina más virales de TikTok es un timo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-calcular-letra-dni-sirve-1274198'>Cómo calcular la letra del DNI y para qué sirve</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-calcular-letra-dni-sirve-1274198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/letra-dni-3081658.jpg?tf=1200x' alt='Cómo calcular la letra del DNI y para qué sirve' />
+    <h4><a href='https://computerhoy.com/life/7-consejos-preservar-vista-pasas-tiempo-ordenador-1274508'>7 consejos para preservar tu vista si pasas mucho tiempo en el ordenador</a></h4>
+    <a href='https://computerhoy.com/life/7-consejos-preservar-vista-pasas-tiempo-ordenador-1274508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/7-consejos-preservar-vista-pasas-mucho-tiempo-ordenador-3082438.jpg?tf=1200x' alt='7 consejos para preservar tu vista si pasas mucho tiempo en el ordenador' />
     </a>
 </div>
 
