@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/plataformas-canales-donde-ver-television-liga-primera-segunda-division-temporada-2023-24-1273976'>Plataformas, canales y dónde ver por televisión La Liga de primera y segunda división en la temporada 2023/24</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/plataformas-canales-donde-ver-television-liga-primera-segunda-division-temporada-2023-24-1273976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/laliga-ea-sports-laliga-hypermotion-3081644.jpg?tf=1200x' alt='Plataformas, canales y dónde ver por televisión La Liga de primera y segunda división en la temporada 2023/24' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/no-dejes-5g-te-quite-energia-trucos-optimizar-bateria-1274392'>No dejes que el 5G te quite la energía: trucos para optimizar tu batería</a></h4>
+    <a href='https://computerhoy.com/moviles/no-dejes-5g-te-quite-energia-trucos-optimizar-bateria-1274392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bateria-movil-3065252.jpg?tf=1200x' alt='No dejes que el 5G te quite la energía: trucos para optimizar tu batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/son-cataratas-sangre-sirven-estudiar-otros-planetas-lejos-sistema-solar-1274346'>Qué son las cataratas de sangre y por qué sirven para estudiar otros planetas lejanos</a></h4>
+    <a href='https://computerhoy.com/ciencia/son-cataratas-sangre-sirven-estudiar-otros-planetas-lejos-sistema-solar-1274346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/son-cataratas-sangre-sirven-estudiar-otros-planetas-lejos-sistema-solar-3082032.jpg?tf=1200x' alt='Qué son las cataratas de sangre y por qué sirven para estudiar otros planetas lejanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-m33-5g-oferta-precio-historico-amazon-1274286'>Hay un móvil Samsung triunfando en el Prime Day, y no es el S23</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-m33-5g-oferta-precio-historico-amazon-1274286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/samsung-galaxy-m33-prime-day-3081796.jpg?tf=1200x' alt='Hay un móvil Samsung triunfando en el Prime Day, y no es el S23' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/estudio-revela-no-hace-falta-vivir-venecia-ver-como-ciudad-hunde-1274338'>Este estudio revela que no hace falta vivir en Venecia para ver cómo tu ciudad puede hundirse</a></h4>
     <a href='https://computerhoy.com/ciencia/estudio-revela-no-hace-falta-vivir-venecia-ver-como-ciudad-hunde-1274338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estudio-revela-no-hace-falta-vivir-venecia-ver-como-ciudad-puede-hundirse-3081972.jpg?tf=1200x' alt='Este estudio revela que no hace falta vivir en Venecia para ver cómo tu ciudad puede hundirse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/locura-redes-descubrir-funcion-secreta-parasol-coche-1259954'>Descubre la función secreta del parasol del coche que desconocías</a></h4>
-    <a href='https://computerhoy.com/motor/locura-redes-descubrir-funcion-secreta-parasol-coche-1259954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/sol-parabrisas-coche-2436427.jpg?tf=1200x' alt='Descubre la función secreta del parasol del coche que desconocías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nuevo-vivo-y36-llega-espana-carga-rapida-bateria-larga-duracion-90-hz-1274326'>El nuevo vivo Y36 llega a España: carga rápida, batería de larga duración y 90 Hz</a></h4>
-    <a href='https://computerhoy.com/moviles/nuevo-vivo-y36-llega-espana-carga-rapida-bateria-larga-duracion-90-hz-1274326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nuevo-vivo-y36-carga-rapida-bateria-larga-duracion-90-hz-3081940.jpg?tf=1200x' alt='El nuevo vivo Y36 llega a España: carga rápida, batería de larga duración y 90 Hz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fibit-versa-4-oferta-precio-ganga-amazon-prime-day-1272356'>Seis días y batería y pagos con NFC: este reloj de Fitbit es mucho más barato de lo que piensas en el Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fibit-versa-4-oferta-precio-ganga-amazon-prime-day-1272356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fitbit-versa-4-2927658.jpg?tf=1200x' alt='Seis días y batería y pagos con NFC: este reloj de Fitbit es mucho más barato de lo que piensas en el Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nothing-phone-2-prueba-ralladuras-dobleces-fuego-comprobar-durabilidad-1274324'>Nothing Phone (2) a prueba: ralladuras, dobleces y hasta fuego para comprobar su durabilidad</a></h4>
-    <a href='https://computerhoy.com/moviles/nothing-phone-2-prueba-ralladuras-dobleces-fuego-comprobar-durabilidad-1274324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-phone-2-prueba-ralladuras-dobleces-fuego-comprobar-durabilidad-3081956.jpg?tf=1200x' alt='Nothing Phone (2) a prueba: ralladuras, dobleces y hasta fuego para comprobar su durabilidad' />
     </a>
 </div>
 
