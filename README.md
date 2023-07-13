@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-xai-nueva-compania-inteligencia-artificial-1274564'>Elon Musk presenta xAI, su nueva compañía de inteligencia artificial que quiere "entender la verdadera naturaleza del universo"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-xai-nueva-compania-inteligencia-artificial-1274564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-presenta-xai-nueva-compania-inteligencia-artificial-quiere-entender-verdadera-naturaleza-universo-3082646.jpg?tf=1200x' alt='Elon Musk presenta xAI, su nueva compañía de inteligencia artificial que quiere "entender la verdadera naturaleza del universo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/explica-redes-como-comprar-casa-solo-1-euro-no-estafa-1274546'>Explica en redes cómo comprar una casa por solo 1 euro, y no es una estafa</a></h4>
     <a href='https://computerhoy.com/life/explica-redes-como-comprar-casa-solo-1-euro-no-estafa-1274546' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/entrega-llaves-3082638.jpg?tf=1200x' alt='Explica en redes cómo comprar una casa por solo 1 euro, y no es una estafa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ocu-truco-papel-aluminio-tiktok-timo-1274514'>La OCU confirma que uno de los trucos de cocina más virales de TikTok es un timo</a></h4>
     <a href='https://computerhoy.com/life/ocu-truco-papel-aluminio-tiktok-timo-1274514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ocu-confirma-trucos-cocina-virales-tiktok-timo-3082534.jpg?tf=1200x' alt='La OCU confirma que uno de los trucos de cocina más virales de TikTok es un timo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/7-consejos-preservar-vista-pasas-tiempo-ordenador-1274508'>7 consejos para preservar tu vista si pasas mucho tiempo en el ordenador</a></h4>
-    <a href='https://computerhoy.com/life/7-consejos-preservar-vista-pasas-tiempo-ordenador-1274508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/7-consejos-preservar-vista-pasas-mucho-tiempo-ordenador-3082438.jpg?tf=1200x' alt='7 consejos para preservar tu vista si pasas mucho tiempo en el ordenador' />
     </a>
 </div>
 
