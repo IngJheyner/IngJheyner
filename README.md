@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/curioso-pero-inteligente-motivo-alcantarillas-todo-mundo-son-casi-siempre-redondas-1274552'>El curioso, pero inteligente motivo por el que las alcantarillas de todo el mundo son casi siempre redondas</a></h4>
+    <a href='https://computerhoy.com/life/curioso-pero-inteligente-motivo-alcantarillas-todo-mundo-son-casi-siempre-redondas-1274552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/alcantarilla-3082648.jpg?tf=1200x' alt='El curioso, pero inteligente motivo por el que las alcantarillas de todo el mundo son casi siempre redondas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/nothing-phone-2-analisis-opinion-1261534'>Nothing Phone (2), análisis y opinión: Una segunda parte que sí es buena</a></h4>
     <a href='https://computerhoy.com/analisis/nothing-phone-2-analisis-opinion-1261534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-phone-2-3083276.jpg?tf=1200x' alt='Nothing Phone (2), análisis y opinión: Una segunda parte que sí es buena' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/descubre-galaxia-james-webb-ha-fotografiado-tiene-13400-millones-anos-impresionante-1275000'>Descubre con la galaxia que James Webb ha fotografiado: tiene 13.400 millones de años y es impresionante</a></h4>
     <a href='https://computerhoy.com/ciencia/descubre-galaxia-james-webb-ha-fotografiado-tiene-13400-millones-anos-impresionante-1275000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-james-webb-nasa-descubre-seis-galaxias-tan-antiguas-no-deberian-existir-2965940.jpg?tf=1200x' alt='Descubre con la galaxia que James Webb ha fotografiado: tiene 13.400 millones de años y es impresionante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/buenas-noticias-ya-puedes-hacerte-tv-oled-solo-799-euros-1274948'>Buenas noticias: ya puedes hacerte con una TV OLED por sólo 799 euros</a></h4>
-    <a href='https://computerhoy.com/tv/buenas-noticias-ya-puedes-hacerte-tv-oled-solo-799-euros-1274948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lg-oled-a2-3083286.jpg?tf=1200x' alt='Buenas noticias: ya puedes hacerte con una TV OLED por sólo 799 euros' />
     </a>
 </div>
 
