@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-inspira-telegram-vez-mejorar-privacidad-comunidades-1274974'>WhatsApp "se inspira" en Telegram una vez más para mejorar la privacidad en sus Comunidades   </a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-inspira-telegram-vez-mejorar-privacidad-comunidades-1274974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/whatsapp-inspira-telegram-vez-mejorar-privacidad-comunidades-3083342.jpg?tf=1200x' alt='WhatsApp "se inspira" en Telegram una vez más para mejorar la privacidad en sus Comunidades   ' />
+    <h4><a href='https://computerhoy.com/analisis/nothing-phone-2-analisis-opinion-1261534'>Nothing Phone (2), análisis y opinión: Una segunda parte que sí es buena</a></h4>
+    <a href='https://computerhoy.com/analisis/nothing-phone-2-analisis-opinion-1261534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-phone-2-3083276.jpg?tf=1200x' alt='Nothing Phone (2), análisis y opinión: Una segunda parte que sí es buena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-15-sera-punto-partida-apple-inteligencia-artificial-salud-como-protagonista-1274958'>El iPhone 15 será el punto de partida de Apple en la inteligencia artificial con la salud como protagonista</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-15-sera-punto-partida-apple-inteligencia-artificial-salud-como-protagonista-1274958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/apple-quiere-iphone-15-pro-exclusivo-recortara-muchas-funciones-resto-versiones-2978050.jpg?tf=1200x' alt='El iPhone 15 será el punto de partida de Apple en la inteligencia artificial con la salud como protagonista' />
+    <h4><a href='https://computerhoy.com/gaming/menu-oculto-playstation-5-pocos-jugadores-conocen-soluciona-casi-cualquier-problema-1274560'>El menú oculto de PlayStation 5 que pocos jugadores conocen y que soluciona casi cualquier problema</a></h4>
+    <a href='https://computerhoy.com/gaming/menu-oculto-playstation-5-pocos-jugadores-conocen-soluciona-casi-cualquier-problema-1274560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ps5-2858487.jpg?tf=1200x' alt='El menú oculto de PlayStation 5 que pocos jugadores conocen y que soluciona casi cualquier problema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/energia-nuclear-miniatura-sueno-startup-ya-ha-logrado-millones-contratos-1274962'>Energía nuclear en miniatura: el sueño de esta startup que ya ha logrado millones en contratos</a></h4>
-    <a href='https://computerhoy.com/ciencia/energia-nuclear-miniatura-sueno-startup-ya-ha-logrado-millones-contratos-1274962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/energia-nuclear-miniatura-sueno-startup-ya-ha-logrado-millones-contratos-3083308.jpg?tf=1200x' alt='Energía nuclear en miniatura: el sueño de esta startup que ya ha logrado millones en contratos' />
+    <h4><a href='https://computerhoy.com/motor/ni-gasolina-diesel-electrico-tipo-coche-fiable-menos-averias-mercado-1274778'>Ni gasolina, diésel o eléctrico: este es el tipo de coche más fiable con menos averías del mercado</a></h4>
+    <a href='https://computerhoy.com/motor/ni-gasolina-diesel-electrico-tipo-coche-fiable-menos-averias-mercado-1274778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/francia-medidas-coches-chinos-3061686.jpg?tf=1200x' alt='Ni gasolina, diésel o eléctrico: este es el tipo de coche más fiable con menos averías del mercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-descargar-instalar-primera-beta-ios-17-1274934'>Cómo descargar e instalar la primera beta de iOS 17</a></h4>
-    <a href='https://computerhoy.com/apple/como-descargar-instalar-primera-beta-ios-17-1274934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/como-descargar-instalar-primera-beta-ios-17-3083240.jpg?tf=1200x' alt='Cómo descargar e instalar la primera beta de iOS 17' />
+    <h4><a href='https://computerhoy.com/ciencia/descubre-galaxia-james-webb-ha-fotografiado-tiene-13400-millones-anos-impresionante-1275000'>Descubre con la galaxia que James Webb ha fotografiado: tiene 13.400 millones de años y es impresionante</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubre-galaxia-james-webb-ha-fotografiado-tiene-13400-millones-anos-impresionante-1275000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-james-webb-nasa-descubre-seis-galaxias-tan-antiguas-no-deberian-existir-2965940.jpg?tf=1200x' alt='Descubre con la galaxia que James Webb ha fotografiado: tiene 13.400 millones de años y es impresionante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/molesta-funcion-windows-11-embargo-no-deberias-desactivar-nunca-1274878'>La molesta función de Windows 11 que sin embargo no deberías desactivar nunca</a></h4>
-    <a href='https://computerhoy.com/pc/molesta-funcion-windows-11-embargo-no-deberias-desactivar-nunca-1274878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-11-3053952.jpg?tf=1200x' alt='La molesta función de Windows 11 que sin embargo no deberías desactivar nunca' />
+    <h4><a href='https://computerhoy.com/tv/buenas-noticias-ya-puedes-hacerte-tv-oled-solo-799-euros-1274948'>Buenas noticias: ya puedes hacerte con una TV OLED por sólo 799 euros</a></h4>
+    <a href='https://computerhoy.com/tv/buenas-noticias-ya-puedes-hacerte-tv-oled-solo-799-euros-1274948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lg-oled-a2-3083286.jpg?tf=1200x' alt='Buenas noticias: ya puedes hacerte con una TV OLED por sólo 799 euros' />
     </a>
 </div>
 
