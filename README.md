@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/nominados-premios-iris-2023-mejores-series-espanolas-1274790'>Estos son los nominados a los Premios Iris 2023, las mejores series españolas del año</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/nominados-premios-iris-2023-mejores-series-espanolas-1274790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estos-son-nominados-premios-iris-2023-mejores-series-espanolas-ano-3082892.jpg?tf=1200x' alt='Estos son los nominados a los Premios Iris 2023, las mejores series españolas del año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/historia-microsoft-1271916'>Historia de Microsoft: de MS-DOS a cómo Windows ha dominado el mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/historia-microsoft-1271916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-historia-microsoft-bill-gates-logo-microsoft-3081912.jpg?tf=1200x' alt='Historia de Microsoft: de MS-DOS a cómo Windows ha dominado el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-presenta-rover-viper-explorara-polo-sur-luna-1274780'>La NASA presenta el rover VIPER, que explorará la oscuridad eterna y el hielo del polo sur de la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-presenta-rover-viper-explorara-polo-sur-luna-1274780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nasa-presenta-rover-viper-explorara-oscuridad-eterna-hielo-polo-sur-luna-3082886.jpg?tf=1200x' alt='La NASA presenta el rover VIPER, que explorará la oscuridad eterna y el hielo del polo sur de la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/alhambra-mas-eficiente-energeticamente-edificios-modernos-1274776'>La Alhambra, con más de siete siglos, es más eficiente energéticamente que los edificios más modernos</a></h4>
     <a href='https://computerhoy.com/energia/alhambra-mas-eficiente-energeticamente-edificios-modernos-1274776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/alhambra-siete-siglos-eficiente-energeticamente-edificios-modernos-3082666.jpg?tf=1200x' alt='La Alhambra, con más de siete siglos, es más eficiente energéticamente que los edificios más modernos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-xai-nueva-compania-inteligencia-artificial-1274564'>Elon Musk presenta xAI, su nueva compañía de inteligencia artificial que quiere "entender la verdadera naturaleza del universo"</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-xai-nueva-compania-inteligencia-artificial-1274564' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-presenta-xai-nueva-compania-inteligencia-artificial-quiere-entender-verdadera-naturaleza-universo-3082646.jpg?tf=1200x' alt='Elon Musk presenta xAI, su nueva compañía de inteligencia artificial que quiere "entender la verdadera naturaleza del universo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/explica-redes-como-comprar-casa-solo-1-euro-no-estafa-1274546'>Explica en redes cómo comprar una casa por solo 1 euro, y no es una estafa</a></h4>
-    <a href='https://computerhoy.com/life/explica-redes-como-comprar-casa-solo-1-euro-no-estafa-1274546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/entrega-llaves-3082638.jpg?tf=1200x' alt='Explica en redes cómo comprar una casa por solo 1 euro, y no es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coches-electricos-autonomia-solo-30-minutos-carga-1274526'>Los coches eléctricos actuales con más autonomía con solo 30 minutos de carga, y ninguno es un Tesla</a></h4>
-    <a href='https://computerhoy.com/motor/coches-electricos-autonomia-solo-30-minutos-carga-1274526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/coches-electricos-actuales-autonomia-solo-30-minutos-carga-ninguno-tesla-3082580.jpg?tf=1200x' alt='Los coches eléctricos actuales con más autonomía con solo 30 minutos de carga, y ninguno es un Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/desarrollan-capa-termica-aumenta-autonomia-baterias-coches-electricos-1274544'>Desarrollan una capa térmica que aumenta la autonomía de las baterías de los coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/motor/desarrollan-capa-termica-aumenta-autonomia-baterias-coches-electricos-1274544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/desarrollan-capa-termica-aumenta-autonomia-baterias-coches-electricos-3082634.jpg?tf=1200x' alt='Desarrollan una capa térmica que aumenta la autonomía de las baterías de los coches eléctricos' />
     </a>
 </div>
 
