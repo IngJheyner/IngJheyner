@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/nominados-premios-iris-2023-mejores-series-espanolas-1274790'>Estos son los nominados a los Premios Iris 2023, las mejores series españolas del año</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/nominados-premios-iris-2023-mejores-series-espanolas-1274790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estos-son-nominados-premios-iris-2023-mejores-series-espanolas-ano-3082892.jpg?tf=1200x' alt='Estos son los nominados a los Premios Iris 2023, las mejores series españolas del año' />
+    <h4><a href='https://computerhoy.com/pc/molesta-funcion-windows-11-embargo-no-deberias-desactivar-nunca-1274878'>La molesta función de Windows 11 que sin embargo no deberías desactivar nunca</a></h4>
+    <a href='https://computerhoy.com/pc/molesta-funcion-windows-11-embargo-no-deberias-desactivar-nunca-1274878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-11-3053952.jpg?tf=1200x' alt='La molesta función de Windows 11 que sin embargo no deberías desactivar nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/historia-microsoft-1271916'>Historia de Microsoft: de MS-DOS a cómo Windows ha dominado el mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/historia-microsoft-1271916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-historia-microsoft-bill-gates-logo-microsoft-3081912.jpg?tf=1200x' alt='Historia de Microsoft: de MS-DOS a cómo Windows ha dominado el mundo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackers-pueden-rastrear-actividad-modo-incognito-te-explicamos-como-1274870'>Los hackers pueden rastrear tu actividad en modo incógnito: te explicamos cómo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackers-pueden-rastrear-actividad-modo-incognito-te-explicamos-como-1274870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/modo-incognito-navegador-2335677.jpg?tf=1200x' alt='Los hackers pueden rastrear tu actividad en modo incógnito: te explicamos cómo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-presenta-rover-viper-explorara-polo-sur-luna-1274780'>La NASA presenta el rover VIPER, que explorará la oscuridad eterna y el hielo del polo sur de la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-presenta-rover-viper-explorara-polo-sur-luna-1274780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nasa-presenta-rover-viper-explorara-oscuridad-eterna-hielo-polo-sur-luna-3082886.jpg?tf=1200x' alt='La NASA presenta el rover VIPER, que explorará la oscuridad eterna y el hielo del polo sur de la Luna' />
+    <h4><a href='https://computerhoy.com/entretenimiento/movistar-lanza-clientes-fugados-netflix-canal-plus-muy-barato-incluye-liga-champions-1274820'>Movistar se lanza a por los clientes fugados de Netflix con un Canal Plus muy barato que incluye Liga y Champions</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/movistar-lanza-clientes-fugados-netflix-canal-plus-muy-barato-incluye-liga-champions-1274820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/movistar-lanza-clientes-fugados-netflix-canal-plus-muy-barato-incluye-liga-champions-3082996.jpg?tf=1200x' alt='Movistar se lanza a por los clientes fugados de Netflix con un Canal Plus muy barato que incluye Liga y Champions' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/alhambra-mas-eficiente-energeticamente-edificios-modernos-1274776'>La Alhambra, con más de siete siglos, es más eficiente energéticamente que los edificios más modernos</a></h4>
-    <a href='https://computerhoy.com/energia/alhambra-mas-eficiente-energeticamente-edificios-modernos-1274776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/alhambra-siete-siglos-eficiente-energeticamente-edificios-modernos-3082666.jpg?tf=1200x' alt='La Alhambra, con más de siete siglos, es más eficiente energéticamente que los edificios más modernos' />
+    <h4><a href='https://computerhoy.com/android/oneplus-nord-3-donde-comprarlo-merece-pena-1274636'>OnePlus Nord 3: dónde comprarlo y por qué merece mucho la pena</a></h4>
+    <a href='https://computerhoy.com/android/oneplus-nord-3-donde-comprarlo-merece-pena-1274636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oneplus-nord-3-3080270.jpg?tf=1200x' alt='OnePlus Nord 3: dónde comprarlo y por qué merece mucho la pena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-xai-nueva-compania-inteligencia-artificial-1274564'>Elon Musk presenta xAI, su nueva compañía de inteligencia artificial que quiere "entender la verdadera naturaleza del universo"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-xai-nueva-compania-inteligencia-artificial-1274564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-presenta-xai-nueva-compania-inteligencia-artificial-quiere-entender-verdadera-naturaleza-universo-3082646.jpg?tf=1200x' alt='Elon Musk presenta xAI, su nueva compañía de inteligencia artificial que quiere "entender la verdadera naturaleza del universo"' />
+    <h4><a href='https://computerhoy.com/espacio/china-adelanta-elon-musk-lanzar-primer-cohete-metano-mundo-1274812'>China adelanta a Elon Musk al lanzar el primer cohete de metano del mundo</a></h4>
+    <a href='https://computerhoy.com/espacio/china-adelanta-elon-musk-lanzar-primer-cohete-metano-mundo-1274812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/china-3082950.jpg?tf=1200x' alt='China adelanta a Elon Musk al lanzar el primer cohete de metano del mundo' />
     </a>
 </div>
 
