@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/trabajos-cualificados-actualidad-seran-afectados-ia-futuro-1275068'>Los trabajos más cualificados en la actualidad serán los más afectados por la IA en el futuro</a></h4>
+    <a href='https://computerhoy.com/life/trabajos-cualificados-actualidad-seran-afectados-ia-futuro-1275068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/inteligencia-artificial-3083604.jpg?tf=1200x' alt='Los trabajos más cualificados en la actualidad serán los más afectados por la IA en el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/todos-coches-no-tienen-siempre-acceso-deposito-gasolina-mismo-lado-1274512'>Por qué todos los coches no tienen siempre el acceso al depósito de gasolina en el mismo lado</a></h4>
+    <a href='https://computerhoy.com/motor/todos-coches-no-tienen-siempre-acceso-deposito-gasolina-mismo-lado-1274512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/deposito-gasolina-3082616.jpg?tf=1200x' alt='Por qué todos los coches no tienen siempre el acceso al depósito de gasolina en el mismo lado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cerveza-filtrar-diferencias-hay-cerveza-toda-vida-puro-marketing-hay-algo-1274566'>Qué es la cerveza sin filtrar y qué diferencias hay con la cerveza de toda la vida: ¿puro marketing o hay algo más?</a></h4>
+    <a href='https://computerhoy.com/life/cerveza-filtrar-diferencias-hay-cerveza-toda-vida-puro-marketing-hay-algo-1274566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cerveza-3082882.jpg?tf=1200x' alt='Qué es la cerveza sin filtrar y qué diferencias hay con la cerveza de toda la vida: ¿puro marketing o hay algo más?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aniversario-mediamarkt-24-descuento-cientos-productos-1275046'>Aniversario de MediaMarkt: 24% de descuento en cientos de productos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aniversario-mediamarkt-24-descuento-cientos-productos-1275046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/frontal-tienda-mediamarkt-3006918.jpg?tf=1200x' alt='Aniversario de MediaMarkt: 24% de descuento en cientos de productos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/curioso-pero-inteligente-motivo-alcantarillas-todo-mundo-son-casi-siempre-redondas-1274552'>El curioso, pero inteligente motivo por el que las alcantarillas de todo el mundo son casi siempre redondas</a></h4>
     <a href='https://computerhoy.com/life/curioso-pero-inteligente-motivo-alcantarillas-todo-mundo-son-casi-siempre-redondas-1274552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/alcantarilla-3082648.jpg?tf=1200x' alt='El curioso, pero inteligente motivo por el que las alcantarillas de todo el mundo son casi siempre redondas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/nothing-phone-2-analisis-opinion-1261534'>Nothing Phone (2), análisis y opinión: Una segunda parte que sí es buena</a></h4>
-    <a href='https://computerhoy.com/analisis/nothing-phone-2-analisis-opinion-1261534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-phone-2-3083276.jpg?tf=1200x' alt='Nothing Phone (2), análisis y opinión: Una segunda parte que sí es buena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/menu-oculto-playstation-5-pocos-jugadores-conocen-soluciona-casi-cualquier-problema-1274560'>El menú oculto de PlayStation 5 que pocos jugadores conocen y que soluciona casi cualquier problema</a></h4>
-    <a href='https://computerhoy.com/gaming/menu-oculto-playstation-5-pocos-jugadores-conocen-soluciona-casi-cualquier-problema-1274560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ps5-2858487.jpg?tf=1200x' alt='El menú oculto de PlayStation 5 que pocos jugadores conocen y que soluciona casi cualquier problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/ni-gasolina-diesel-electrico-tipo-coche-fiable-menos-averias-mercado-1274778'>Ni gasolina, diésel o eléctrico: este es el tipo de coche más fiable con menos averías del mercado</a></h4>
-    <a href='https://computerhoy.com/motor/ni-gasolina-diesel-electrico-tipo-coche-fiable-menos-averias-mercado-1274778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/francia-medidas-coches-chinos-3061686.jpg?tf=1200x' alt='Ni gasolina, diésel o eléctrico: este es el tipo de coche más fiable con menos averías del mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubre-galaxia-james-webb-ha-fotografiado-tiene-13400-millones-anos-impresionante-1275000'>Descubre con la galaxia que James Webb ha fotografiado: tiene 13.400 millones de años y es impresionante</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubre-galaxia-james-webb-ha-fotografiado-tiene-13400-millones-anos-impresionante-1275000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-james-webb-nasa-descubre-seis-galaxias-tan-antiguas-no-deberian-existir-2965940.jpg?tf=1200x' alt='Descubre con la galaxia que James Webb ha fotografiado: tiene 13.400 millones de años y es impresionante' />
     </a>
 </div>
 
