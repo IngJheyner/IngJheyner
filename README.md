@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/alhambra-mas-eficiente-energeticamente-edificios-modernos-1274776'>La Alhambra, con más de siete siglos, es más eficiente energéticamente que los edificios más modernos</a></h4>
+    <a href='https://computerhoy.com/energia/alhambra-mas-eficiente-energeticamente-edificios-modernos-1274776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/alhambra-siete-siglos-eficiente-energeticamente-edificios-modernos-3082666.jpg?tf=1200x' alt='La Alhambra, con más de siete siglos, es más eficiente energéticamente que los edificios más modernos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-xai-nueva-compania-inteligencia-artificial-1274564'>Elon Musk presenta xAI, su nueva compañía de inteligencia artificial que quiere "entender la verdadera naturaleza del universo"</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-xai-nueva-compania-inteligencia-artificial-1274564' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-presenta-xai-nueva-compania-inteligencia-artificial-quiere-entender-verdadera-naturaleza-universo-3082646.jpg?tf=1200x' alt='Elon Musk presenta xAI, su nueva compañía de inteligencia artificial que quiere "entender la verdadera naturaleza del universo"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/desarrollan-capa-termica-aumenta-autonomia-baterias-coches-electricos-1274544'>Desarrollan una capa térmica que aumenta la autonomía de las baterías de los coches eléctricos</a></h4>
     <a href='https://computerhoy.com/motor/desarrollan-capa-termica-aumenta-autonomia-baterias-coches-electricos-1274544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/desarrollan-capa-termica-aumenta-autonomia-baterias-coches-electricos-3082634.jpg?tf=1200x' alt='Desarrollan una capa térmica que aumenta la autonomía de las baterías de los coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ocu-truco-papel-aluminio-tiktok-timo-1274514'>La OCU confirma que uno de los trucos de cocina más virales de TikTok es un timo</a></h4>
-    <a href='https://computerhoy.com/life/ocu-truco-papel-aluminio-tiktok-timo-1274514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ocu-confirma-trucos-cocina-virales-tiktok-timo-3082534.jpg?tf=1200x' alt='La OCU confirma que uno de los trucos de cocina más virales de TikTok es un timo' />
     </a>
 </div>
 
