@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-mejora-calidad-productividad-trabajadores-estudio-mit-1275446'>ChatGPT mejora la calidad y productividad de los trabajadores según este estudio del MIT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-mejora-calidad-productividad-trabajadores-estudio-mit-1275446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-mejora-calidad-productividad-trabajadores-estudio-mit-3084186.jpg?tf=1200x' alt='ChatGPT mejora la calidad y productividad de los trabajadores según este estudio del MIT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/windows-11-dejara-ser-compatible-aplicaciones-arm-1275398'>Windows 11 dejará de ser compatible con las aplicaciones ARM</a></h4>
     <a href='https://computerhoy.com/pc/windows-11-dejara-ser-compatible-aplicaciones-arm-1275398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Windows 11 dejará de ser compatible con las aplicaciones ARM' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/secreto-tiny11-hacer-funcionar-windows-11-menor-ram-jamas-vista-1275378'>El secreto de Tiny11 para hacer funcionar Windows 11 con la menor RAM jamás vista</a></h4>
     <a href='https://computerhoy.com/pc/secreto-tiny11-hacer-funcionar-windows-11-menor-ram-jamas-vista-1275378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-2987236.jpg?tf=1200x' alt='El secreto de Tiny11 para hacer funcionar Windows 11 con la menor RAM jamás vista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nuevo-hito-antigua-escritura-kushan-desvela-secretos-ocultos-durante-siglos-1275360'>Un nuevo hito: la antigua escritura kushan desvela secretos ocultos durante siglos</a></h4>
-    <a href='https://computerhoy.com/life/nuevo-hito-antigua-escritura-kushan-desvela-secretos-ocultos-durante-siglos-1275360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nuevo-hito-antigua-escritura-kushan-desvela-secretos-ocultos-durante-siglos-3083958.jpg?tf=1200x' alt='Un nuevo hito: la antigua escritura kushan desvela secretos ocultos durante siglos' />
     </a>
 </div>
 
