@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/alzheimer-30-anos-cara-b-enfermedad-tambien-afecta-jovenes-1275308'>Alzheimer a los 30 años: la cara B de una enfermedad que también afecta a los jóvenes</a></h4>
-    <a href='https://computerhoy.com/life/alzheimer-30-anos-cara-b-enfermedad-tambien-afecta-jovenes-1275308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/alzheimer-30-anos-cara-b-enfermedad-tambien-afecta-jovenes-3083850.jpg?tf=1200x' alt='Alzheimer a los 30 años: la cara B de una enfermedad que también afecta a los jóvenes' />
+    <h4><a href='https://computerhoy.com/pc/windows-11-dejara-ser-compatible-aplicaciones-arm-1275398'>Windows 11 dejará de ser compatible con las aplicaciones ARM</a></h4>
+    <a href='https://computerhoy.com/pc/windows-11-dejara-ser-compatible-aplicaciones-arm-1275398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Windows 11 dejará de ser compatible con las aplicaciones ARM' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-jbl-puedes-comprar-1023625'>Auriculares JBL: estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-jbl-puedes-comprar-1023625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/jbl-wave-buds-2925710.jpg?tf=1200x' alt='Auriculares JBL: estos son los mejores que puedes comprar' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-s23-256-gb-oferta-despues-prime-day-1274936'>Si se te escapó en el Prime Day, ahora el Samsung Galaxy S23 tiene casi 400 euros de descuento, y vas a tener espacio de sobra</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-s23-256-gb-oferta-despues-prime-day-1274936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006122.jpg?tf=1200x' alt='Si se te escapó en el Prime Day, ahora el Samsung Galaxy S23 tiene casi 400 euros de descuento, y vas a tener espacio de sobra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-23-agosto-blu-ray-4k-uhd-dvd-1275292'>Super Mario Bros La Película podrá verse en casa el 23 de agosto, pero no la busques en las plataformas de streaming</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-23-agosto-blu-ray-4k-uhd-dvd-1275292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/super-mario-bros-pelicula-3065234.jpg?tf=1200x' alt='Super Mario Bros La Película podrá verse en casa el 23 de agosto, pero no la busques en las plataformas de streaming' />
+    <h4><a href='https://computerhoy.com/tecnologia/hombre-sedentario-ha-perdido-12-kg-gracias-rutina-ejercicio-chatgpt-1275374'>Este hombre sedentario ha perdido 12 Kg gracias a la rutina de ejercicio de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hombre-sedentario-ha-perdido-12-kg-gracias-rutina-ejercicio-chatgpt-1275374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hombre-sedentario-ha-perdido-12-kg-gracias-rutina-ejercicio-chatgpt-3084022.jpg?tf=1200x' alt='Este hombre sedentario ha perdido 12 Kg gracias a la rutina de ejercicio de ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/no-compro-movil-menos-256-gb-2023-1273606'>Por qué no compro un móvil con menos de 256 GB en 2023</a></h4>
-    <a href='https://computerhoy.com/moviles/no-compro-movil-menos-256-gb-2023-1273606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/256-gb-3080644.jpg?tf=1200x' alt='Por qué no compro un móvil con menos de 256 GB en 2023' />
+    <h4><a href='https://computerhoy.com/pc/secreto-tiny11-hacer-funcionar-windows-11-menor-ram-jamas-vista-1275378'>El secreto de Tiny11 para hacer funcionar Windows 11 con la menor RAM jamás vista</a></h4>
+    <a href='https://computerhoy.com/pc/secreto-tiny11-hacer-funcionar-windows-11-menor-ram-jamas-vista-1275378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-2987236.jpg?tf=1200x' alt='El secreto de Tiny11 para hacer funcionar Windows 11 con la menor RAM jamás vista' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-foto-primer-aniversario-guarderia-estrellas-1275286'>El telescopio James Webb celebra su primer aniversario con una increíble foto del nacimiento de estrellas</a></h4>
-    <a href='https://computerhoy.com/espacio/telescopio-james-webb-foto-primer-aniversario-guarderia-estrellas-1275286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/telescopio-james-webb-celebra-primer-aniversario-increible-foto-nacimiento-estrella-3083624.jpg?tf=1200x' alt='El telescopio James Webb celebra su primer aniversario con una increíble foto del nacimiento de estrellas' />
+    <h4><a href='https://computerhoy.com/life/nuevo-hito-antigua-escritura-kushan-desvela-secretos-ocultos-durante-siglos-1275360'>Un nuevo hito: la antigua escritura kushan desvela secretos ocultos durante siglos</a></h4>
+    <a href='https://computerhoy.com/life/nuevo-hito-antigua-escritura-kushan-desvela-secretos-ocultos-durante-siglos-1275360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nuevo-hito-antigua-escritura-kushan-desvela-secretos-ocultos-durante-siglos-3083958.jpg?tf=1200x' alt='Un nuevo hito: la antigua escritura kushan desvela secretos ocultos durante siglos' />
     </a>
 </div>
 
