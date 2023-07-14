@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/como-ven-tierra-luna-marte-agencia-espacial-europea-desvela-misterio-1275496'>Cómo se ven la Tierra y la Luna desde Marte: la Agencia Espacial Europea desvela el misterio</a></h4>
-    <a href='https://computerhoy.com/ciencia/como-ven-tierra-luna-marte-agencia-espacial-europea-desvela-misterio-1275496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/como-ven-tierra-luna-marte-espectaculares-fotos-agencia-espacial-europea-3084294.jpg?tf=1200x' alt='Cómo se ven la Tierra y la Luna desde Marte: la Agencia Espacial Europea desvela el misterio' />
+    <h4><a href='https://computerhoy.com/entretenimiento/discord-incluye-centro-familiar-seguridad-menores-1273930'>Discord estrena un Centro Familiar para proteger a los menores </a></h4>
+    <a href='https://computerhoy.com/entretenimiento/discord-incluye-centro-familiar-seguridad-menores-1273930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/discord-incluye-centro-familiar-garantizar-seguridad-menores-3081358.jpg?tf=1200x' alt='Discord estrena un Centro Familiar para proteger a los menores ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/como-saber-te-ha-pillado-radar-trafico-dgt-1275078'>Cómo saber si te ha pillado un radar de tráfico de la DGT</a></h4>
-    <a href='https://computerhoy.com/motor/como-saber-te-ha-pillado-radar-trafico-dgt-1275078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/multas-trafico-caras-historia-1881143.jpg?tf=1200x' alt='Cómo saber si te ha pillado un radar de tráfico de la DGT' />
+    <h4><a href='https://computerhoy.com/entretenimiento/actores-hollywood-huelga-uso-imagen-mediante-ia-1275540'>Los actores de Hollywood en huelga se niegan a que usen su imagen mediante IA eternamente</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/actores-hollywood-huelga-uso-imagen-mediante-ia-1275540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/actores-hollywood-niegan-usen-mediante-ia-eternamente-3084400.jpg?tf=1200x' alt='Los actores de Hollywood en huelga se niegan a que usen su imagen mediante IA eternamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/japon-montara-luna-estructura-gigante-gira-cada-20-segundos-emular-gravedad-tierra-1275486'>Japón montará en la Luna una estructura gigante que gira cada 20 segundos para emular la gravedad de la Tierra</a></h4>
-    <a href='https://computerhoy.com/ciencia/japon-montara-luna-estructura-gigante-gira-cada-20-segundos-emular-gravedad-tierra-1275486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/japon-montara-luna-estructura-gigante-gira-cada-20-segundos-emular-gravedad-tierra-3084246.jpg?tf=1200x' alt='Japón montará en la Luna una estructura gigante que gira cada 20 segundos para emular la gravedad de la Tierra' />
+    <h4><a href='https://computerhoy.com/life/increible-fortuna-tendria-steve-jobs-actualmente-solo-mantener-mismo-patrimonio-dia-murio-1275010'>La increíble fortuna que tendría Steve Jobs actualmente solo con mantener el mismo patrimonio que el día que murió</a></h4>
+    <a href='https://computerhoy.com/life/increible-fortuna-tendria-steve-jobs-actualmente-solo-mantener-mismo-patrimonio-dia-murio-1275010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/steve-jobs-apple-3083522.jpg?tf=1200x' alt='La increíble fortuna que tendría Steve Jobs actualmente solo con mantener el mismo patrimonio que el día que murió' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-reel-instagram-instalar-aplicaciones-1273754'>Cómo descargar un Reel Instagram sin instalar aplicaciones</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-reel-instagram-instalar-aplicaciones-1273754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/reel-computer-hoy-3080928.jpg?tf=1200x' alt='Cómo descargar un Reel Instagram sin instalar aplicaciones' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049'>Los mejores lectores de eBook de 2023: cuál comprar, comparativa y guía para elegir</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/kobo-elipsa-2e-3083978.jpg?tf=1200x' alt='Los mejores lectores de eBook de 2023: cuál comprar, comparativa y guía para elegir' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/graba-aventuras-verano-gopro-hero11-black-rebajada-solo-370-euros-1275460'>Graba tus aventuras del verano con esta GoPro Hero11 Black rebajada a sólo 370 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/graba-aventuras-verano-gopro-hero11-black-rebajada-solo-370-euros-1275460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desembarco-camaras-accion-gopro-presenta-nuevas-hero11-black-hero11-black-mini-hero11-edicion-creadores-2812417.jpg?tf=1200x' alt='Graba tus aventuras del verano con esta GoPro Hero11 Black rebajada a sólo 370 euros' />
+    <h4><a href='https://computerhoy.com/windows/aptos-nueva-fuente-remplazara-calibri-microsoft-quince-anos-1275526'>Aptos, la nueva fuente que remplazará a Calibri en las apps de Microsoft tras quince años</a></h4>
+    <a href='https://computerhoy.com/windows/aptos-nueva-fuente-remplazara-calibri-microsoft-quince-anos-1275526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aptos-3084366.jpg?tf=1200x' alt='Aptos, la nueva fuente que remplazará a Calibri en las apps de Microsoft tras quince años' />
     </a>
 </div>
 
