@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-mejora-calidad-productividad-trabajadores-estudio-mit-1275446'>ChatGPT mejora la calidad y productividad de los trabajadores según este estudio del MIT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-mejora-calidad-productividad-trabajadores-estudio-mit-1275446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-mejora-calidad-productividad-trabajadores-estudio-mit-3084186.jpg?tf=1200x' alt='ChatGPT mejora la calidad y productividad de los trabajadores según este estudio del MIT' />
+    <h4><a href='https://computerhoy.com/ciencia/como-ven-tierra-luna-marte-agencia-espacial-europea-desvela-misterio-1275496'>Cómo se ven la Tierra y la Luna desde Marte: la Agencia Espacial Europea desvela el misterio</a></h4>
+    <a href='https://computerhoy.com/ciencia/como-ven-tierra-luna-marte-agencia-espacial-europea-desvela-misterio-1275496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/como-ven-tierra-luna-marte-espectaculares-fotos-agencia-espacial-europea-3084294.jpg?tf=1200x' alt='Cómo se ven la Tierra y la Luna desde Marte: la Agencia Espacial Europea desvela el misterio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/windows-11-dejara-ser-compatible-aplicaciones-arm-1275398'>Windows 11 dejará de ser compatible con las aplicaciones ARM</a></h4>
-    <a href='https://computerhoy.com/pc/windows-11-dejara-ser-compatible-aplicaciones-arm-1275398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Windows 11 dejará de ser compatible con las aplicaciones ARM' />
+    <h4><a href='https://computerhoy.com/motor/como-saber-te-ha-pillado-radar-trafico-dgt-1275078'>Cómo saber si te ha pillado un radar de tráfico de la DGT</a></h4>
+    <a href='https://computerhoy.com/motor/como-saber-te-ha-pillado-radar-trafico-dgt-1275078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/multas-trafico-caras-historia-1881143.jpg?tf=1200x' alt='Cómo saber si te ha pillado un radar de tráfico de la DGT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-s23-256-gb-oferta-despues-prime-day-1274936'>Si se te escapó en el Prime Day, ahora el Samsung Galaxy S23 tiene casi 400 euros de descuento, y vas a tener espacio de sobra</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-s23-256-gb-oferta-despues-prime-day-1274936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006122.jpg?tf=1200x' alt='Si se te escapó en el Prime Day, ahora el Samsung Galaxy S23 tiene casi 400 euros de descuento, y vas a tener espacio de sobra' />
+    <h4><a href='https://computerhoy.com/ciencia/japon-montara-luna-estructura-gigante-gira-cada-20-segundos-emular-gravedad-tierra-1275486'>Japón montará en la Luna una estructura gigante que gira cada 20 segundos para emular la gravedad de la Tierra</a></h4>
+    <a href='https://computerhoy.com/ciencia/japon-montara-luna-estructura-gigante-gira-cada-20-segundos-emular-gravedad-tierra-1275486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/japon-montara-luna-estructura-gigante-gira-cada-20-segundos-emular-gravedad-tierra-3084246.jpg?tf=1200x' alt='Japón montará en la Luna una estructura gigante que gira cada 20 segundos para emular la gravedad de la Tierra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hombre-sedentario-ha-perdido-12-kg-gracias-rutina-ejercicio-chatgpt-1275374'>Este hombre sedentario ha perdido 12 Kg gracias a la rutina de ejercicio de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hombre-sedentario-ha-perdido-12-kg-gracias-rutina-ejercicio-chatgpt-1275374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hombre-sedentario-ha-perdido-12-kg-gracias-rutina-ejercicio-chatgpt-3084022.jpg?tf=1200x' alt='Este hombre sedentario ha perdido 12 Kg gracias a la rutina de ejercicio de ChatGPT' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-reel-instagram-instalar-aplicaciones-1273754'>Cómo descargar un Reel Instagram sin instalar aplicaciones</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-reel-instagram-instalar-aplicaciones-1273754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/reel-computer-hoy-3080928.jpg?tf=1200x' alt='Cómo descargar un Reel Instagram sin instalar aplicaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/secreto-tiny11-hacer-funcionar-windows-11-menor-ram-jamas-vista-1275378'>El secreto de Tiny11 para hacer funcionar Windows 11 con la menor RAM jamás vista</a></h4>
-    <a href='https://computerhoy.com/pc/secreto-tiny11-hacer-funcionar-windows-11-menor-ram-jamas-vista-1275378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-11-2987236.jpg?tf=1200x' alt='El secreto de Tiny11 para hacer funcionar Windows 11 con la menor RAM jamás vista' />
+    <h4><a href='https://computerhoy.com/tecnologia/graba-aventuras-verano-gopro-hero11-black-rebajada-solo-370-euros-1275460'>Graba tus aventuras del verano con esta GoPro Hero11 Black rebajada a sólo 370 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/graba-aventuras-verano-gopro-hero11-black-rebajada-solo-370-euros-1275460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/desembarco-camaras-accion-gopro-presenta-nuevas-hero11-black-hero11-black-mini-hero11-edicion-creadores-2812417.jpg?tf=1200x' alt='Graba tus aventuras del verano con esta GoPro Hero11 Black rebajada a sólo 370 euros' />
     </a>
 </div>
 
