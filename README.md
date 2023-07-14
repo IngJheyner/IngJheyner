@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
+    <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809245.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/coche-electrico-xiaomi-superara-carga-rapida-tesla-1275558'>El esperado coche eléctrico de Xiaomi dejará en ridículo a la carga rápida de Tesla</a></h4>
+    <a href='https://computerhoy.com/motor/coche-electrico-xiaomi-superara-carga-rapida-tesla-1275558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/coche-electrico-xiaomi-3006910.jpg?tf=1200x' alt='El esperado coche eléctrico de Xiaomi dejará en ridículo a la carga rápida de Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tecnica-5-dedos-te-ayudara-dormirte-mucho-rapido-incluso-mucho-calor-1275562'>La técnica de los 5 dedos que te ayudará a dormirte mucho más rápido, incluso con mucho calor</a></h4>
+    <a href='https://computerhoy.com/life/tecnica-5-dedos-te-ayudara-dormirte-mucho-rapido-incluso-mucho-calor-1275562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dormir-3084512.jpg?tf=1200x' alt='La técnica de los 5 dedos que te ayudará a dormirte mucho más rápido, incluso con mucho calor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-anuncia-hoja-ruta-windows-11-23h2-deja-entrever-requisitos-sistema-1275560'>Microsoft anuncia la hoja de ruta de Windows 11 23H2 y deja entrever los requisitos de sistema</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-anuncia-hoja-ruta-windows-11-23h2-deja-entrever-requisitos-sistema-1275560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='Microsoft anuncia la hoja de ruta de Windows 11 23H2 y deja entrever los requisitos de sistema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cosas-waze-hace-mucho-mejor-google-maps-merece-pena-darle-oportunidad-1275282'>Cosas que Waze hace mucho mejor que Google Maps por las que merece la pena darle una oportunidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/cosas-waze-hace-mucho-mejor-google-maps-merece-pena-darle-oportunidad-1275282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/waze-google-maps-2060535.jpg?tf=1200x' alt='Cosas que Waze hace mucho mejor que Google Maps por las que merece la pena darle una oportunidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/discord-incluye-centro-familiar-seguridad-menores-1273930'>Discord estrena un Centro Familiar para proteger a los menores </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/discord-incluye-centro-familiar-seguridad-menores-1273930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/discord-incluye-centro-familiar-garantizar-seguridad-menores-3081358.jpg?tf=1200x' alt='Discord estrena un Centro Familiar para proteger a los menores ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/actores-hollywood-huelga-uso-imagen-mediante-ia-1275540'>Los actores de Hollywood en huelga se niegan a que usen su imagen mediante IA eternamente</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/actores-hollywood-huelga-uso-imagen-mediante-ia-1275540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/actores-hollywood-niegan-usen-mediante-ia-eternamente-3084400.jpg?tf=1200x' alt='Los actores de Hollywood en huelga se niegan a que usen su imagen mediante IA eternamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/increible-fortuna-tendria-steve-jobs-actualmente-solo-mantener-mismo-patrimonio-dia-murio-1275010'>La increíble fortuna que tendría Steve Jobs actualmente solo con mantener el mismo patrimonio que el día que murió</a></h4>
-    <a href='https://computerhoy.com/life/increible-fortuna-tendria-steve-jobs-actualmente-solo-mantener-mismo-patrimonio-dia-murio-1275010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/steve-jobs-apple-3083522.jpg?tf=1200x' alt='La increíble fortuna que tendría Steve Jobs actualmente solo con mantener el mismo patrimonio que el día que murió' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049'>Los mejores lectores de eBook de 2023: cuál comprar, comparativa y guía para elegir</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/kobo-elipsa-2e-3083978.jpg?tf=1200x' alt='Los mejores lectores de eBook de 2023: cuál comprar, comparativa y guía para elegir' />
     </a>
 </div>
 
