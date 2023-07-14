@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-foto-primer-aniversario-guarderia-estrellas-1275286'>El telescopio James Webb celebra su primer aniversario con una increíble foto del nacimiento de estrellas</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-james-webb-foto-primer-aniversario-guarderia-estrellas-1275286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/telescopio-james-webb-celebra-primer-aniversario-increible-foto-nacimiento-estrella-3083624.jpg?tf=1200x' alt='El telescopio James Webb celebra su primer aniversario con una increíble foto del nacimiento de estrellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/lifi-conexion-internetluces-led-estandar-80211bb-1275080'>LiFi, la conexión a Internet a través de luces LED ya tiene su estándar: 802.11bb</a></h4>
     <a href='https://computerhoy.com/internet/lifi-conexion-internetluces-led-estandar-80211bb-1275080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/li-fi-conexion-internet-traves-luces-led-ya-tiene-estandar-80211bb-3083618.jpg?tf=1200x' alt='LiFi, la conexión a Internet a través de luces LED ya tiene su estándar: 802.11bb' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/descubrimiento-accidental-podria-revolucionar-almacenamiento-energia-global-gran-escala-1275070'>Un descubrimiento accidental podría revolucionar el almacenamiento de energía global a gran escala</a></h4>
     <a href='https://computerhoy.com/ciencia/descubrimiento-accidental-podria-revolucionar-almacenamiento-energia-global-gran-escala-1275070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/baterias-industriales-3083612.jpg?tf=1200x' alt='Un descubrimiento accidental podría revolucionar el almacenamiento de energía global a gran escala' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/trabajos-cualificados-actualidad-seran-afectados-ia-futuro-1275068'>Los trabajos más cualificados en la actualidad serán los más afectados por la IA en el futuro</a></h4>
-    <a href='https://computerhoy.com/life/trabajos-cualificados-actualidad-seran-afectados-ia-futuro-1275068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/inteligencia-artificial-3083604.jpg?tf=1200x' alt='Los trabajos más cualificados en la actualidad serán los más afectados por la IA en el futuro' />
     </a>
 </div>
 
