@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cosas-waze-hace-mucho-mejor-google-maps-merece-pena-darle-oportunidad-1275282'>Cosas que Waze hace mucho mejor que Google Maps por las que merece la pena darle una oportunidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cosas-waze-hace-mucho-mejor-google-maps-merece-pena-darle-oportunidad-1275282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/waze-google-maps-2060535.jpg?tf=1200x' alt='Cosas que Waze hace mucho mejor que Google Maps por las que merece la pena darle una oportunidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/discord-incluye-centro-familiar-seguridad-menores-1273930'>Discord estrena un Centro Familiar para proteger a los menores </a></h4>
     <a href='https://computerhoy.com/entretenimiento/discord-incluye-centro-familiar-seguridad-menores-1273930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/discord-incluye-centro-familiar-garantizar-seguridad-menores-3081358.jpg?tf=1200x' alt='Discord estrena un Centro Familiar para proteger a los menores ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049'>Los mejores lectores de eBook de 2023: cuál comprar, comparativa y guía para elegir</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/kobo-elipsa-2e-3083978.jpg?tf=1200x' alt='Los mejores lectores de eBook de 2023: cuál comprar, comparativa y guía para elegir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/aptos-nueva-fuente-remplazara-calibri-microsoft-quince-anos-1275526'>Aptos, la nueva fuente que remplazará a Calibri en las apps de Microsoft tras quince años</a></h4>
-    <a href='https://computerhoy.com/windows/aptos-nueva-fuente-remplazara-calibri-microsoft-quince-anos-1275526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aptos-3084366.jpg?tf=1200x' alt='Aptos, la nueva fuente que remplazará a Calibri en las apps de Microsoft tras quince años' />
     </a>
 </div>
 
