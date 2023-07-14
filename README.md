@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/alzheimer-30-anos-cara-b-enfermedad-tambien-afecta-jovenes-1275308'>Alzheimer a los 30 años: la cara B de una enfermedad que también afecta a los jóvenes</a></h4>
+    <a href='https://computerhoy.com/life/alzheimer-30-anos-cara-b-enfermedad-tambien-afecta-jovenes-1275308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/alzheimer-30-anos-cara-b-enfermedad-tambien-afecta-jovenes-3083850.jpg?tf=1200x' alt='Alzheimer a los 30 años: la cara B de una enfermedad que también afecta a los jóvenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-jbl-puedes-comprar-1023625'>Auriculares JBL: estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-jbl-puedes-comprar-1023625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/jbl-wave-buds-2925710.jpg?tf=1200x' alt='Auriculares JBL: estos son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-23-agosto-blu-ray-4k-uhd-dvd-1275292'>Super Mario Bros La Película podrá verse en casa el 23 de agosto, pero no la busques en las plataformas de streaming</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-23-agosto-blu-ray-4k-uhd-dvd-1275292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/super-mario-bros-pelicula-3065234.jpg?tf=1200x' alt='Super Mario Bros La Película podrá verse en casa el 23 de agosto, pero no la busques en las plataformas de streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/no-compro-movil-menos-256-gb-2023-1273606'>Por qué no compro un móvil con menos de 256 GB en 2023</a></h4>
+    <a href='https://computerhoy.com/moviles/no-compro-movil-menos-256-gb-2023-1273606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/256-gb-3080644.jpg?tf=1200x' alt='Por qué no compro un móvil con menos de 256 GB en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-foto-primer-aniversario-guarderia-estrellas-1275286'>El telescopio James Webb celebra su primer aniversario con una increíble foto del nacimiento de estrellas</a></h4>
     <a href='https://computerhoy.com/espacio/telescopio-james-webb-foto-primer-aniversario-guarderia-estrellas-1275286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/telescopio-james-webb-celebra-primer-aniversario-increible-foto-nacimiento-estrella-3083624.jpg?tf=1200x' alt='El telescopio James Webb celebra su primer aniversario con una increíble foto del nacimiento de estrellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/lifi-conexion-internetluces-led-estandar-80211bb-1275080'>LiFi, la conexión a Internet a través de luces LED ya tiene su estándar: 802.11bb</a></h4>
-    <a href='https://computerhoy.com/internet/lifi-conexion-internetluces-led-estandar-80211bb-1275080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/li-fi-conexion-internet-traves-luces-led-ya-tiene-estandar-80211bb-3083618.jpg?tf=1200x' alt='LiFi, la conexión a Internet a través de luces LED ya tiene su estándar: 802.11bb' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/associated-press-alia-open-ai-integrar-ia-noticias-1275066'>AP, una de las agencias de noticias más importantes, firma una alianza con OpenAI para integrar la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/associated-press-alia-open-ai-integrar-ia-noticias-1275066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/acuerdo-associated-press-open-ai-entrenar-ia-archivo-noticias-3083608.jpg?tf=1200x' alt='AP, una de las agencias de noticias más importantes, firma una alianza con OpenAI para integrar la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oferta-xiaomi-redmi-note-12-pro-amazon-precio-minimo-historico-1274918'>El nuevo Redmi Note 12 Pro lo tenía casi todo y ahora ya lo tiene todo con casi 80 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oferta-xiaomi-redmi-note-12-pro-amazon-precio-minimo-historico-1274918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-note-12-pro-2991754.jpg?tf=1200x' alt='El nuevo Redmi Note 12 Pro lo tenía casi todo y ahora ya lo tiene todo con casi 80 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubrimiento-accidental-podria-revolucionar-almacenamiento-energia-global-gran-escala-1275070'>Un descubrimiento accidental podría revolucionar el almacenamiento de energía global a gran escala</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubrimiento-accidental-podria-revolucionar-almacenamiento-energia-global-gran-escala-1275070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/baterias-industriales-3083612.jpg?tf=1200x' alt='Un descubrimiento accidental podría revolucionar el almacenamiento de energía global a gran escala' />
     </a>
 </div>
 
