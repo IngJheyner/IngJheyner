@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/meta´bloquea-usuarios-europeos-threads-vpn-1275572'>Se acabó el usar Threads en Europa: Meta está bloqueando a los usuarios que acceden a través de una VPN</a></h4>
+    <a href='https://computerhoy.com/internet/meta´bloquea-usuarios-europeos-threads-vpn-1275572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/composicion-mark-zuckerberg-ceo-meta-logo-aplicacion-threads-3075328.jpg?tf=1200x' alt='Se acabó el usar Threads en Europa: Meta está bloqueando a los usuarios que acceden a través de una VPN' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
     <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809245.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-anuncia-hoja-ruta-windows-11-23h2-deja-entrever-requisitos-sistema-1275560'>Microsoft anuncia la hoja de ruta de Windows 11 23H2 y deja entrever los requisitos de sistema</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-anuncia-hoja-ruta-windows-11-23h2-deja-entrever-requisitos-sistema-1275560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='Microsoft anuncia la hoja de ruta de Windows 11 23H2 y deja entrever los requisitos de sistema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cosas-waze-hace-mucho-mejor-google-maps-merece-pena-darle-oportunidad-1275282'>Cosas que Waze hace mucho mejor que Google Maps por las que merece la pena darle una oportunidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cosas-waze-hace-mucho-mejor-google-maps-merece-pena-darle-oportunidad-1275282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/waze-google-maps-2060535.jpg?tf=1200x' alt='Cosas que Waze hace mucho mejor que Google Maps por las que merece la pena darle una oportunidad' />
     </a>
 </div>
 
