@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ejercito-fantasma-armamento-hinchable-engano-nazis-segunda-guerra-mundial-1275338'>El Ejército Fantasma: miles de tanques, camiones y cañones hinchables usados contra los nazis en la Segunda Guerra Mundial</a></h4>
+    <a href='https://computerhoy.com/life/ejercito-fantasma-armamento-hinchable-engano-nazis-segunda-guerra-mundial-1275338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ejercito-fantasma-miles-tanques-camiones-canones-goma-usados-nazis-segunda-guerra-mundial-3083840.jpg?tf=1200x' alt='El Ejército Fantasma: miles de tanques, camiones y cañones hinchables usados contra los nazis en la Segunda Guerra Mundial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/paleontologia-web-google-nos-mostro-como-buscar-internet-1273306'>Google, la compañía que ha condicionado cómo buscamos en Internet</a></h4>
+    <a href='https://computerhoy.com/google/paleontologia-web-google-nos-mostro-como-buscar-internet-1273306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/paleontologia-web-google-buscador-3080312.jpg?tf=1200x' alt='Google, la compañía que ha condicionado cómo buscamos en Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/como-fabrican-palitos-cangrejo-video-1275386'>Las redes en shock al descubrir cómo se fabrican los palitos de cangrejo (vídeo)</a></h4>
+    <a href='https://computerhoy.com/alimentacion/como-fabrican-palitos-cangrejo-video-1275386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/redes-shock-descubrir-como-fabrican-palitos-cangrejo-3083992.jpg?tf=1200x' alt='Las redes en shock al descubrir cómo se fabrican los palitos de cangrejo (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/tienda-barcelona-colmado-murria-comienza-cobrar-5-euros-solo-mirar-1275772'>Una tienda de Barcelona comienza a cobrar 5 euros solo por mirar</a></h4>
+    <a href='https://computerhoy.com/alimentacion/tienda-barcelona-colmado-murria-comienza-cobrar-5-euros-solo-mirar-1275772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/tienda-barcelona-comienza-cobrar-5-euros-solo-mirar-3084732.jpg?tf=1200x' alt='Una tienda de Barcelona comienza a cobrar 5 euros solo por mirar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/terrorifico-origen-saludo-motero-v-dedos-1275770'>El terrorífico origen del saludo motero, la "V" con los dedos</a></h4>
     <a href='https://computerhoy.com/motor/terrorifico-origen-saludo-motero-v-dedos-1275770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/significa-motero-te-haga-v-mano-3084546.jpg?tf=1200x' alt='El terrorífico origen del saludo motero, la "V" con los dedos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/meta´bloquea-usuarios-europeos-threads-vpn-1275572'>Se acabó el usar Threads en Europa: Meta está bloqueando a los usuarios que acceden a través de una VPN</a></h4>
-    <a href='https://computerhoy.com/internet/meta´bloquea-usuarios-europeos-threads-vpn-1275572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/composicion-mark-zuckerberg-ceo-meta-logo-aplicacion-threads-3075328.jpg?tf=1200x' alt='Se acabó el usar Threads en Europa: Meta está bloqueando a los usuarios que acceden a través de una VPN' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
-    <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809245.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coche-electrico-xiaomi-superara-carga-rapida-tesla-1275558'>El esperado coche eléctrico de Xiaomi dejará en ridículo a la carga rápida de Tesla</a></h4>
-    <a href='https://computerhoy.com/motor/coche-electrico-xiaomi-superara-carga-rapida-tesla-1275558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/coche-electrico-xiaomi-3006910.jpg?tf=1200x' alt='El esperado coche eléctrico de Xiaomi dejará en ridículo a la carga rápida de Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tecnica-5-dedos-te-ayudara-dormirte-mucho-rapido-incluso-mucho-calor-1275562'>La técnica de los 5 dedos que te ayudará a dormirte mucho más rápido, incluso con mucho calor</a></h4>
-    <a href='https://computerhoy.com/life/tecnica-5-dedos-te-ayudara-dormirte-mucho-rapido-incluso-mucho-calor-1275562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dormir-3084512.jpg?tf=1200x' alt='La técnica de los 5 dedos que te ayudará a dormirte mucho más rápido, incluso con mucho calor' />
     </a>
 </div>
 
