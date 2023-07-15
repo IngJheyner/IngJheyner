@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-opina-12-signos-zodiaco-atencion-peligro-asfixia-tanta-arrogancia-1271894'>Esto es lo que ChatGPT opina de los 12 signos del zodíaco: "Atención, peligro de asfixia por tanta arrogancia"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-opina-12-signos-zodiaco-atencion-peligro-asfixia-tanta-arrogancia-1271894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-opina-12-signos-zodiaco-atencion-peligro-asfixia-tanta-arrogancia-3077654.jpg?tf=1200x' alt='Esto es lo que ChatGPT opina de los 12 signos del zodíaco: "Atención, peligro de asfixia por tanta arrogancia"' />
+    <h4><a href='https://computerhoy.com/internet/estos-son-108-nuevos-emojis-van-llegar-iphone-telefono-android-1275808'>Estos son los 108 nuevos emojis que van a llegar a tu iPhone y teléfono Android</a></h4>
+    <a href='https://computerhoy.com/internet/estos-son-108-nuevos-emojis-van-llegar-iphone-telefono-android-1275808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/emojis-2023-3084776.jpg?tf=1200x' alt='Estos son los 108 nuevos emojis que van a llegar a tu iPhone y teléfono Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fundacion-apple-tv-estrena-temporada-2-1275776'>La serie más ambiciosa y espectacular de Apple TV+ estrena la temporada 2</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fundacion-apple-tv-estrena-temporada-2-1275776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1689397560056-3084740.jpg?tf=1200x' alt='La serie más ambiciosa y espectacular de Apple TV+ estrena la temporada 2' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-solo-decir-titulo-despiertan-nostalgia-1274866'>7 películas que solo con decir su título despiertan nuestra nostalgia</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-solo-decir-titulo-despiertan-nostalgia-1274866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/cinema-paradiso-2395771.jpg?tf=1200x' alt='7 películas que solo con decir su título despiertan nuestra nostalgia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ejercito-fantasma-armamento-hinchable-engano-nazis-segunda-guerra-mundial-1275338'>El Ejército Fantasma: miles de tanques, camiones y cañones hinchables usados contra los nazis en la Segunda Guerra Mundial</a></h4>
-    <a href='https://computerhoy.com/life/ejercito-fantasma-armamento-hinchable-engano-nazis-segunda-guerra-mundial-1275338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ejercito-fantasma-miles-tanques-camiones-canones-goma-usados-nazis-segunda-guerra-mundial-3083840.jpg?tf=1200x' alt='El Ejército Fantasma: miles de tanques, camiones y cañones hinchables usados contra los nazis en la Segunda Guerra Mundial' />
+    <h4><a href='https://computerhoy.com/tv/hacerse-oled-65-pulgadas-poco-1000-euros-ya-posible-aprovecha-oferta-1275782'>Hacerse con una OLED de 65" pulgadas por menos de 1.100 euros ya es posible: aprovecha la oferta</a></h4>
+    <a href='https://computerhoy.com/tv/hacerse-oled-65-pulgadas-poco-1000-euros-ya-posible-aprovecha-oferta-1275782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lg-oled-3084742.jpg?tf=1200x' alt='Hacerse con una OLED de 65" pulgadas por menos de 1.100 euros ya es posible: aprovecha la oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/paleontologia-web-google-nos-mostro-como-buscar-internet-1273306'>Google, la compañía que ha condicionado cómo buscamos en Internet</a></h4>
-    <a href='https://computerhoy.com/google/paleontologia-web-google-nos-mostro-como-buscar-internet-1273306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/paleontologia-web-google-buscador-3080312.jpg?tf=1200x' alt='Google, la compañía que ha condicionado cómo buscamos en Internet' />
+    <h4><a href='https://computerhoy.com/tutoriales/calibracion-imagen-perfecta-smart-tv-funciona-todas-marcas-1275060'>La calibración de imagen perfecta para tu Smart TV que funciona para todas las marcas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/calibracion-imagen-perfecta-smart-tv-funciona-todas-marcas-1275060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/calibrar-smart-tv-3083616.jpg?tf=1200x' alt='La calibración de imagen perfecta para tu Smart TV que funciona para todas las marcas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/como-fabrican-palitos-cangrejo-video-1275386'>Las redes en shock al descubrir cómo se fabrican los palitos de cangrejo (vídeo)</a></h4>
-    <a href='https://computerhoy.com/alimentacion/como-fabrican-palitos-cangrejo-video-1275386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/redes-shock-descubrir-como-fabrican-palitos-cangrejo-3083992.jpg?tf=1200x' alt='Las redes en shock al descubrir cómo se fabrican los palitos de cangrejo (vídeo)' />
+    <h4><a href='https://computerhoy.com/tecnologia/he-probado-nuevo-bard-google-espanol-tengo-sabor-agridulce-1275404'>He probado el nuevo Bard de Google en español y tengo un sabor algo agridulce</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-probado-nuevo-bard-google-espanol-tengo-sabor-agridulce-1275404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/he-probado-nuevo-bard-google-espanol-tengo-sabor-algo-agridulce-3084150.jpg?tf=1200x' alt='He probado el nuevo Bard de Google en español y tengo un sabor algo agridulce' />
     </a>
 </div>
 
