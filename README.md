@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-opina-12-signos-zodiaco-atencion-peligro-asfixia-tanta-arrogancia-1271894'>Esto es lo que ChatGPT opina de los 12 signos del zodíaco: "Atención, peligro de asfixia por tanta arrogancia"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-opina-12-signos-zodiaco-atencion-peligro-asfixia-tanta-arrogancia-1271894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-opina-12-signos-zodiaco-atencion-peligro-asfixia-tanta-arrogancia-3077654.jpg?tf=1200x' alt='Esto es lo que ChatGPT opina de los 12 signos del zodíaco: "Atención, peligro de asfixia por tanta arrogancia"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/fundacion-apple-tv-estrena-temporada-2-1275776'>La serie más ambiciosa y espectacular de Apple TV+ estrena la temporada 2</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fundacion-apple-tv-estrena-temporada-2-1275776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1689397560056-3084740.jpg?tf=1200x' alt='La serie más ambiciosa y espectacular de Apple TV+ estrena la temporada 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ejercito-fantasma-armamento-hinchable-engano-nazis-segunda-guerra-mundial-1275338'>El Ejército Fantasma: miles de tanques, camiones y cañones hinchables usados contra los nazis en la Segunda Guerra Mundial</a></h4>
     <a href='https://computerhoy.com/life/ejercito-fantasma-armamento-hinchable-engano-nazis-segunda-guerra-mundial-1275338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ejercito-fantasma-miles-tanques-camiones-canones-goma-usados-nazis-segunda-guerra-mundial-3083840.jpg?tf=1200x' alt='El Ejército Fantasma: miles de tanques, camiones y cañones hinchables usados contra los nazis en la Segunda Guerra Mundial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/como-fabrican-palitos-cangrejo-video-1275386'>Las redes en shock al descubrir cómo se fabrican los palitos de cangrejo (vídeo)</a></h4>
     <a href='https://computerhoy.com/alimentacion/como-fabrican-palitos-cangrejo-video-1275386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/redes-shock-descubrir-como-fabrican-palitos-cangrejo-3083992.jpg?tf=1200x' alt='Las redes en shock al descubrir cómo se fabrican los palitos de cangrejo (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/tienda-barcelona-colmado-murria-comienza-cobrar-5-euros-solo-mirar-1275772'>Una tienda de Barcelona comienza a cobrar 5 euros solo por mirar</a></h4>
-    <a href='https://computerhoy.com/alimentacion/tienda-barcelona-colmado-murria-comienza-cobrar-5-euros-solo-mirar-1275772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/tienda-barcelona-comienza-cobrar-5-euros-solo-mirar-3084732.jpg?tf=1200x' alt='Una tienda de Barcelona comienza a cobrar 5 euros solo por mirar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/terrorifico-origen-saludo-motero-v-dedos-1275770'>El terrorífico origen del saludo motero, la "V" con los dedos</a></h4>
-    <a href='https://computerhoy.com/motor/terrorifico-origen-saludo-motero-v-dedos-1275770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/significa-motero-te-haga-v-mano-3084546.jpg?tf=1200x' alt='El terrorífico origen del saludo motero, la "V" con los dedos' />
     </a>
 </div>
 
