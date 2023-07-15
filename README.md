@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ahora-sera-facil-identificar-usuarios-foto-perfil-chats-grupales-whatsapp-1275822'>Ahora será más fácil identificar a los usuarios sin foto de perfil en los chats grupales en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/ahora-sera-facil-identificar-usuarios-foto-perfil-chats-grupales-whatsapp-1275822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/whatsapp-3084800.jpg?tf=1200x' alt='Ahora será más fácil identificar a los usuarios sin foto de perfil en los chats grupales en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-jornada-completa-1273802'>Cómo saber online si estoy dado de alta a jornada completa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-jornada-completa-1273802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oficina-3081028.jpg?tf=1200x' alt='Cómo saber online si estoy dado de alta a jornada completa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-promete-xai-lograra-alcanzar-inteligencia-artificial-general-2029-1275814'>Elon Musk promete que xAI logrará alcanzar la Inteligencia Artificial General en 2029</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-promete-xai-lograra-alcanzar-inteligencia-artificial-general-2029-1275814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xai-3084784.jpg?tf=1200x' alt='Elon Musk promete que xAI logrará alcanzar la Inteligencia Artificial General en 2029' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-programas-escribir-libro-1269988'>Los mejores programas para escribir un libro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-programas-escribir-libro-1269988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/estudiante-usando-portatil-rodeada-libros-cama-2448737.jpg?tf=1200x' alt='Los mejores programas para escribir un libro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/estos-son-108-nuevos-emojis-van-llegar-iphone-telefono-android-1275808'>Estos son los 108 nuevos emojis que van a llegar a tu iPhone y teléfono Android</a></h4>
     <a href='https://computerhoy.com/internet/estos-son-108-nuevos-emojis-van-llegar-iphone-telefono-android-1275808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/emojis-2023-3084776.jpg?tf=1200x' alt='Estos son los 108 nuevos emojis que van a llegar a tu iPhone y teléfono Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-solo-decir-titulo-despiertan-nostalgia-1274866'>7 películas que solo con decir su título despiertan nuestra nostalgia</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-solo-decir-titulo-despiertan-nostalgia-1274866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/cinema-paradiso-2395771.jpg?tf=1200x' alt='7 películas que solo con decir su título despiertan nuestra nostalgia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/hacerse-oled-65-pulgadas-poco-1000-euros-ya-posible-aprovecha-oferta-1275782'>Hacerse con una OLED de 65" pulgadas por menos de 1.100 euros ya es posible: aprovecha la oferta</a></h4>
-    <a href='https://computerhoy.com/tv/hacerse-oled-65-pulgadas-poco-1000-euros-ya-posible-aprovecha-oferta-1275782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lg-oled-3084742.jpg?tf=1200x' alt='Hacerse con una OLED de 65" pulgadas por menos de 1.100 euros ya es posible: aprovecha la oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/calibracion-imagen-perfecta-smart-tv-funciona-todas-marcas-1275060'>La calibración de imagen perfecta para tu Smart TV que funciona para todas las marcas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/calibracion-imagen-perfecta-smart-tv-funciona-todas-marcas-1275060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/calibrar-smart-tv-3083616.jpg?tf=1200x' alt='La calibración de imagen perfecta para tu Smart TV que funciona para todas las marcas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-probado-nuevo-bard-google-espanol-tengo-sabor-agridulce-1275404'>He probado el nuevo Bard de Google en español y tengo un sabor algo agridulce</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-probado-nuevo-bard-google-espanol-tengo-sabor-agridulce-1275404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/he-probado-nuevo-bard-google-espanol-tengo-sabor-algo-agridulce-3084150.jpg?tf=1200x' alt='He probado el nuevo Bard de Google en español y tengo un sabor algo agridulce' />
     </a>
 </div>
 
