@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-estaria-trabajando-nuevo-dispositivo-portatil-podria-sorprenderte-1275862'>Samsung estaría trabajando en un nuevo dispositivo portátil que podría sorprenderte</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-estaria-trabajando-nuevo-dispositivo-portatil-podria-sorprenderte-1275862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/anillo-inteligente.jpg?tf=1200x' alt='Samsung estaría trabajando en un nuevo dispositivo portátil que podría sorprenderte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-elimines-cortana-windows-11-1275854'>Microsoft quiere que elimines Cortana de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-quiere-elimines-cortana-windows-11-1275854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/cortana-2158323.jpg?tf=1200x' alt='Microsoft quiere que elimines Cortana de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/moviles-motorola-1217998'>Estos son los mejores móviles de Motorola que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/mejores/moviles-motorola-1217998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/motorola-edge-40-pro-3001080.jpg?tf=1200x' alt='Estos son los mejores móviles de Motorola que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/proximo-revolucionario-apple-seria-iphone-enrollable-patente-1275840'>Lo próximo revolucionario de Apple sería un iPhone enrollable, según esta patente</a></h4>
+    <a href='https://computerhoy.com/apple/proximo-revolucionario-apple-seria-iphone-enrollable-patente-1275840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/samsung-tiene-nuevas-pantallas-enrollables-telefonos-moviles-pueden-ser-futuro-plegables-3040388.jpg?tf=1200x' alt='Lo próximo revolucionario de Apple sería un iPhone enrollable, según esta patente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/hacen-funcionar-windows-11-portatil-panasonic-hace-10-anos-1275836'>Hacen funcionar Windows 11 en este portátil Panasonic de hace más de 10 años</a></h4>
     <a href='https://computerhoy.com/windows/hacen-funcionar-windows-11-portatil-panasonic-hace-10-anos-1275836' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hacen-funcionar-windows-11-portatil-panasonic-hace-10-anos-3084822.jpg?tf=1200x' alt='Hacen funcionar Windows 11 en este portátil Panasonic de hace más de 10 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/mejor-momento-vender-iphone-quieres-comprarte-iphone-15-1275830'>Este es el mejor momento para vender tu iPhone si quieres comprarte el iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/mejor-momento-vender-iphone-quieres-comprarte-iphone-15-1275830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/vender-telefono-3084812.jpg?tf=1200x' alt='Este es el mejor momento para vender tu iPhone si quieres comprarte el iPhone 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ahora-sera-facil-identificar-usuarios-foto-perfil-chats-grupales-whatsapp-1275822'>Ahora será más fácil identificar a los usuarios sin foto de perfil en los chats grupales en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/ahora-sera-facil-identificar-usuarios-foto-perfil-chats-grupales-whatsapp-1275822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/whatsapp-3084800.jpg?tf=1200x' alt='Ahora será más fácil identificar a los usuarios sin foto de perfil en los chats grupales en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-jornada-completa-1273802'>Cómo saber online si estoy dado de alta a jornada completa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-jornada-completa-1273802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oficina-3081028.jpg?tf=1200x' alt='Cómo saber online si estoy dado de alta a jornada completa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-promete-xai-lograra-alcanzar-inteligencia-artificial-general-2029-1275814'>Elon Musk promete que xAI logrará alcanzar la Inteligencia Artificial General en 2029</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-promete-xai-lograra-alcanzar-inteligencia-artificial-general-2029-1275814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xai-3084784.jpg?tf=1200x' alt='Elon Musk promete que xAI logrará alcanzar la Inteligencia Artificial General en 2029' />
     </a>
 </div>
 
