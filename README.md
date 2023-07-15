@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/terrorifico-origen-saludo-motero-v-dedos-1275770'>El terrorífico origen del saludo motero, la "V" con los dedos</a></h4>
+    <a href='https://computerhoy.com/motor/terrorifico-origen-saludo-motero-v-dedos-1275770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/significa-motero-te-haga-v-mano-3084546.jpg?tf=1200x' alt='El terrorífico origen del saludo motero, la "V" con los dedos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/meta´bloquea-usuarios-europeos-threads-vpn-1275572'>Se acabó el usar Threads en Europa: Meta está bloqueando a los usuarios que acceden a través de una VPN</a></h4>
     <a href='https://computerhoy.com/internet/meta´bloquea-usuarios-europeos-threads-vpn-1275572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/composicion-mark-zuckerberg-ceo-meta-logo-aplicacion-threads-3075328.jpg?tf=1200x' alt='Se acabó el usar Threads en Europa: Meta está bloqueando a los usuarios que acceden a través de una VPN' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/tecnica-5-dedos-te-ayudara-dormirte-mucho-rapido-incluso-mucho-calor-1275562'>La técnica de los 5 dedos que te ayudará a dormirte mucho más rápido, incluso con mucho calor</a></h4>
     <a href='https://computerhoy.com/life/tecnica-5-dedos-te-ayudara-dormirte-mucho-rapido-incluso-mucho-calor-1275562' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dormir-3084512.jpg?tf=1200x' alt='La técnica de los 5 dedos que te ayudará a dormirte mucho más rápido, incluso con mucho calor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-anuncia-hoja-ruta-windows-11-23h2-deja-entrever-requisitos-sistema-1275560'>Microsoft anuncia la hoja de ruta de Windows 11 23H2 y deja entrever los requisitos de sistema</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-anuncia-hoja-ruta-windows-11-23h2-deja-entrever-requisitos-sistema-1275560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='Microsoft anuncia la hoja de ruta de Windows 11 23H2 y deja entrever los requisitos de sistema' />
     </a>
 </div>
 
