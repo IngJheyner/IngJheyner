@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/hacen-funcionar-windows-11-portatil-panasonic-hace-10-anos-1275836'>Hacen funcionar Windows 11 en este portátil Panasonic de hace más de 10 años</a></h4>
+    <a href='https://computerhoy.com/windows/hacen-funcionar-windows-11-portatil-panasonic-hace-10-anos-1275836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hacen-funcionar-windows-11-portatil-panasonic-hace-10-anos-3084822.jpg?tf=1200x' alt='Hacen funcionar Windows 11 en este portátil Panasonic de hace más de 10 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/mejor-momento-vender-iphone-quieres-comprarte-iphone-15-1275830'>Este es el mejor momento para vender tu iPhone si quieres comprarte el iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/mejor-momento-vender-iphone-quieres-comprarte-iphone-15-1275830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/vender-telefono-3084812.jpg?tf=1200x' alt='Este es el mejor momento para vender tu iPhone si quieres comprarte el iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ahora-sera-facil-identificar-usuarios-foto-perfil-chats-grupales-whatsapp-1275822'>Ahora será más fácil identificar a los usuarios sin foto de perfil en los chats grupales en WhatsApp</a></h4>
     <a href='https://computerhoy.com/apps/ahora-sera-facil-identificar-usuarios-foto-perfil-chats-grupales-whatsapp-1275822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/whatsapp-3084800.jpg?tf=1200x' alt='Ahora será más fácil identificar a los usuarios sin foto de perfil en los chats grupales en WhatsApp' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-promete-xai-lograra-alcanzar-inteligencia-artificial-general-2029-1275814'>Elon Musk promete que xAI logrará alcanzar la Inteligencia Artificial General en 2029</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-promete-xai-lograra-alcanzar-inteligencia-artificial-general-2029-1275814' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xai-3084784.jpg?tf=1200x' alt='Elon Musk promete que xAI logrará alcanzar la Inteligencia Artificial General en 2029' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-programas-escribir-libro-1269988'>Los mejores programas para escribir un libro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-programas-escribir-libro-1269988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/estudiante-usando-portatil-rodeada-libros-cama-2448737.jpg?tf=1200x' alt='Los mejores programas para escribir un libro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/estos-son-108-nuevos-emojis-van-llegar-iphone-telefono-android-1275808'>Estos son los 108 nuevos emojis que van a llegar a tu iPhone y teléfono Android</a></h4>
-    <a href='https://computerhoy.com/internet/estos-son-108-nuevos-emojis-van-llegar-iphone-telefono-android-1275808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/emojis-2023-3084776.jpg?tf=1200x' alt='Estos son los 108 nuevos emojis que van a llegar a tu iPhone y teléfono Android' />
     </a>
 </div>
 
