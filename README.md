@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-grupo-pestanas-permanente-google-chrome-1274968'>Cómo crear un grupo de pestañas permanente en Google Chrome</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-grupo-pestanas-permanente-google-chrome-1274968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/grupos-pestanas-3083332.jpg?tf=1200x' alt='Cómo crear un grupo de pestañas permanente en Google Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/usa-chatgpt-mejorar-escritura-conviertete-proximo-garcia-marquez-gracias-ia-1271304'>Usa ChatGPT para mejorar tu escritura y conviértete en el próximo García Márquez gracias a la IA </a></h4>
+    <a href='https://computerhoy.com/tecnologia/usa-chatgpt-mejorar-escritura-conviertete-proximo-garcia-marquez-gracias-ia-1271304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/usa-chatgpt-mejorar-escritura-conviertete-proximo-garcia-marquez-gracias-ia-3076924.jpg?tf=1200x' alt='Usa ChatGPT para mejorar tu escritura y conviértete en el próximo García Márquez gracias a la IA ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ataques-15-anos-antiguedad-ciberdelincuentes-vuelven-usar-metodos-pasado-1273246'>Ataques con 15 años de antigüedad: ¿por qué los ciberdelincuentes vuelven a usar métodos del pasado?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ataques-15-anos-antiguedad-ciberdelincuentes-vuelven-usar-metodos-pasado-1273246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ataques-15-anos-antiguedad-ciberdelincuentes-vuelven-usar-metodos-pasado-3083444.jpg?tf=1200x' alt='Ataques con 15 años de antigüedad: ¿por qué los ciberdelincuentes vuelven a usar métodos del pasado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/que-es-biometria-como-funciona-punto-segura-1260584'>¿Qué es la biometría, cómo funciona y hasta qué punto es segura?</a></h4>
     <a href='https://computerhoy.com/tecnologia/que-es-biometria-como-funciona-punto-segura-1260584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1689323057300-3083996.jpg?tf=1200x' alt='¿Qué es la biometría, cómo funciona y hasta qué punto es segura?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/fisico-harvard-prueba-fragmentos-nave-extraterrestre-estrellada-avi-loeb-1274864'>Un físico de Harvard asegura haber encontrado fragmentos de una nave extraterrestre en el fondo del mar</a></h4>
     <a href='https://computerhoy.com/espacio/fisico-harvard-prueba-fragmentos-nave-extraterrestre-estrellada-avi-loeb-1274864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/fisico-harvard-asegura-haber-encontrado-fragmentos-nave-extraterrestre-fondo-mar-3082960.jpg?tf=1200x' alt='Un físico de Harvard asegura haber encontrado fragmentos de una nave extraterrestre en el fondo del mar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/rayas-cuentakilometros-no-son-adorno-son-mucho-utiles-crees-1273948'>Las rayas del cuentakilómetros no son un adorno y son mucho más útiles de lo que crees</a></h4>
-    <a href='https://computerhoy.com/motor/rayas-cuentakilometros-no-son-adorno-son-mucho-utiles-crees-1273948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cuentakilometros-coche-3084212.jpg?tf=1200x' alt='Las rayas del cuentakilómetros no son un adorno y son mucho más útiles de lo que crees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-robot-humanoide-combatir-envejecimiento-mundial-1275856'>Crean un robot humanoide para combatir el envejecimiento mundial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-robot-humanoide-combatir-envejecimiento-mundial-1275856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/gr-1-3084848.jpg?tf=1200x' alt='Crean un robot humanoide para combatir el envejecimiento mundial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/twitch-tiene-problema-publicidad-streamers-1262560'>Twitch tiene un problema con la publicidad y los streamers</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/twitch-tiene-problema-publicidad-streamers-1262560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/twitch-publicidad-streamers-gaming-3075612.jpg?tf=1200x' alt='Twitch tiene un problema con la publicidad y los streamers' />
     </a>
 </div>
 
