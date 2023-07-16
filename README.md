@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-grupo-pestanas-permanente-google-chrome-1274968'>Cómo crear un grupo de pestañas permanente en Google Chrome</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-grupo-pestanas-permanente-google-chrome-1274968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/grupos-pestanas-3083332.jpg?tf=1200x' alt='Cómo crear un grupo de pestañas permanente en Google Chrome' />
+    <h4><a href='https://computerhoy.com/android/android-14-hara-facil-compartir-elementos-1276124'>Android 14 hará más fácil compartir elementos</a></h4>
+    <a href='https://computerhoy.com/android/android-14-hara-facil-compartir-elementos-1276124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-presenta-primera-version-preliminar-android-14-focalizada-accesibilidad-bateria-seguridad-2951334.jpg?tf=1200x' alt='Android 14 hará más fácil compartir elementos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usa-chatgpt-mejorar-escritura-conviertete-proximo-garcia-marquez-gracias-ia-1271304'>Usa ChatGPT para mejorar tu escritura y conviértete en el próximo García Márquez gracias a la IA </a></h4>
-    <a href='https://computerhoy.com/tecnologia/usa-chatgpt-mejorar-escritura-conviertete-proximo-garcia-marquez-gracias-ia-1271304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/usa-chatgpt-mejorar-escritura-conviertete-proximo-garcia-marquez-gracias-ia-3076924.jpg?tf=1200x' alt='Usa ChatGPT para mejorar tu escritura y conviértete en el próximo García Márquez gracias a la IA ' />
+    <h4><a href='https://computerhoy.com/apple/apple-watch-ultra-2-podria-lanzarse-mismo-ano-cambio-proceso-fabricacion-1276116'>El Apple Watch Ultra 2 podría lanzarse este mismo año con un cambio en el proceso de fabricación</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-ultra-2-podria-lanzarse-mismo-ano-cambio-proceso-fabricacion-1276116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-ultra-2808843.jpg?tf=1200x' alt='El Apple Watch Ultra 2 podría lanzarse este mismo año con un cambio en el proceso de fabricación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ataques-15-anos-antiguedad-ciberdelincuentes-vuelven-usar-metodos-pasado-1273246'>Ataques con 15 años de antigüedad: ¿por qué los ciberdelincuentes vuelven a usar métodos del pasado?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ataques-15-anos-antiguedad-ciberdelincuentes-vuelven-usar-metodos-pasado-1273246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ataques-15-anos-antiguedad-ciberdelincuentes-vuelven-usar-metodos-pasado-3083444.jpg?tf=1200x' alt='Ataques con 15 años de antigüedad: ¿por qué los ciberdelincuentes vuelven a usar métodos del pasado?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-alta-seguridad-social-1268426'>Cómo saber online si estoy dado de alta en la Seguridad Social</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-alta-seguridad-social-1268426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/seguridad-social-3071680.jpg?tf=1200x' alt='Cómo saber online si estoy dado de alta en la Seguridad Social' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/que-es-biometria-como-funciona-punto-segura-1260584'>¿Qué es la biometría, cómo funciona y hasta qué punto es segura?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/que-es-biometria-como-funciona-punto-segura-1260584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1689323057300-3083996.jpg?tf=1200x' alt='¿Qué es la biometría, cómo funciona y hasta qué punto es segura?' />
+    <h4><a href='https://computerhoy.com/apps/estas-aplicaciones-son-culpables-poca-duracion-bateria-telefono-1276100'>Estas aplicaciones son las culpables de la poca duración de la batería de tu teléfono</a></h4>
+    <a href='https://computerhoy.com/apps/estas-aplicaciones-son-culpables-poca-duracion-bateria-telefono-1276100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aplicaciones-movil-3085092.jpg?tf=1200x' alt='Estas aplicaciones son las culpables de la poca duración de la batería de tu teléfono' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/fisico-harvard-prueba-fragmentos-nave-extraterrestre-estrellada-avi-loeb-1274864'>Un físico de Harvard asegura haber encontrado fragmentos de una nave extraterrestre en el fondo del mar</a></h4>
-    <a href='https://computerhoy.com/espacio/fisico-harvard-prueba-fragmentos-nave-extraterrestre-estrellada-avi-loeb-1274864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/fisico-harvard-asegura-haber-encontrado-fragmentos-nave-extraterrestre-fondo-mar-3082960.jpg?tf=1200x' alt='Un físico de Harvard asegura haber encontrado fragmentos de una nave extraterrestre en el fondo del mar' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-increibles-escenas-reales-helicopteros-aviones-1273850'>7 películas con increíbles escenas reales en helicópteros y aviones</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-increibles-escenas-reales-helicopteros-aviones-1273850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/7-peliculas-increibles-escenas-reales-helicopteros-aviones-3081332.jpg?tf=1200x' alt='7 películas con increíbles escenas reales en helicópteros y aviones' />
     </a>
 </div>
 
