@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cybertruck-elon-musk-primera-unidad-sale-fabrica-1276154'>El cybertruck de Elon Musk es real: la primera unidad sale de fábrica</a></h4>
+    <a href='https://computerhoy.com/motor/cybertruck-elon-musk-primera-unidad-sale-fabrica-1276154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cybertruck-elon-musk-real-primera-unidad-sale-fabrica-3085192.jpg?tf=1200x' alt='El cybertruck de Elon Musk es real: la primera unidad sale de fábrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/dni-electronico-como-usarlo-mejores-lectores-1275824'>DNI electrónico: qué debes saber, cómo usarlo y mejores lectores para comprar</a></h4>
+    <a href='https://computerhoy.com/pc/dni-electronico-como-usarlo-mejores-lectores-1275824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dni-electronico-debes-saber-como-usarlo-mejores-lectores-comprar-3084772.jpg?tf=1200x' alt='DNI electrónico: qué debes saber, cómo usarlo y mejores lectores para comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/sony-firma-acuerdo-microsoft-call-of-duty-1276144'>Sony tira la toalla y acepta la compra de Activision Blizzard: firma un acuerdo con Microsoft para mantener Call of Duty en PlayStation</a></h4>
+    <a href='https://computerhoy.com/gaming/sony-firma-acuerdo-microsoft-call-of-duty-1276144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/call-duty-ps-plus-2977602.jpg?tf=1200x' alt='Sony tira la toalla y acepta la compra de Activision Blizzard: firma un acuerdo con Microsoft para mantener Call of Duty en PlayStation' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/como-te-avisara-android-14-cuando-te-descargues-actualizaciones-fuentes-externas-1276134'>Así es cómo te avisará Android 14 cuando te descargues actualizaciones de fuentes externas</a></h4>
     <a href='https://computerhoy.com/android/como-te-avisara-android-14-cuando-te-descargues-actualizaciones-fuentes-externas-1276134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/compras-dentro-apps-son-30-caras-app-store-google-play-echan-culpa-privacidad-2813525.jpg?tf=1200x' alt='Así es cómo te avisará Android 14 cuando te descargues actualizaciones de fuentes externas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/futuros-robots-acompanantes-impulsados-ia-acabaran-soledad-1276130'>Los futuros robots acompañantes impulsados por IA que acabarán con la soledad</a></h4>
     <a href='https://computerhoy.com/tecnologia/futuros-robots-acompanantes-impulsados-ia-acabaran-soledad-1276130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robot-amigo-3085176.jpg?tf=1200x' alt='Los futuros robots acompañantes impulsados por IA que acabarán con la soledad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/dispositivos-debes-desenchufar-ahorrar-factura-luz-1269716'>Los dispositivos y electrodomésticos que debes desenchufar para ahorrar dinero en tu factura de la luz</a></h4>
-    <a href='https://computerhoy.com/hogar/dispositivos-debes-desenchufar-ahorrar-factura-luz-1269716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/electrodomesticos-gastan-menos-son-peligro-modo-reposo-ocu-2823205.jpg?tf=1200x' alt='Los dispositivos y electrodomésticos que debes desenchufar para ahorrar dinero en tu factura de la luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-14-hara-facil-compartir-elementos-1276124'>Android 14 hará más fácil compartir elementos</a></h4>
-    <a href='https://computerhoy.com/android/android-14-hara-facil-compartir-elementos-1276124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-presenta-primera-version-preliminar-android-14-focalizada-accesibilidad-bateria-seguridad-2951334.jpg?tf=1200x' alt='Android 14 hará más fácil compartir elementos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-ultra-2-podria-lanzarse-mismo-ano-cambio-proceso-fabricacion-1276116'>El Apple Watch Ultra 2 podría lanzarse este mismo año con un cambio en el proceso de fabricación</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-ultra-2-podria-lanzarse-mismo-ano-cambio-proceso-fabricacion-1276116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-ultra-2808843.jpg?tf=1200x' alt='El Apple Watch Ultra 2 podría lanzarse este mismo año con un cambio en el proceso de fabricación' />
     </a>
 </div>
 
