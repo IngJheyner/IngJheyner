@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/canada-record-incendios-2023-cambio-climatico-1276166'>El drama del cambio climático no es el calor, son los incendios: en Canadá se ha quemado la quinta parte de España</a></h4>
+    <a href='https://computerhoy.com/life/canada-record-incendios-2023-cambio-climatico-1276166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/drama-cambio-climatico-no-calor-son-incendios-canada-ha-quemado-quinta-parte-espana-3085226.jpg?tf=1200x' alt='El drama del cambio climático no es el calor, son los incendios: en Canadá se ha quemado la quinta parte de España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/china-limitan-patinetes-jovenes-pasan-sillas-ruedas-electricas-1276160'>China limita los patinetes, los jóvenes se están pasando... a las sillas de ruedas eléctricas</a></h4>
+    <a href='https://computerhoy.com/motor/china-limitan-patinetes-jovenes-pasan-sillas-ruedas-electricas-1276160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/china-han-limitado-patinetes-jovenes-estan-pasando-sillas-ruedas-electricas-3085212.jpg?tf=1200x' alt='China limita los patinetes, los jóvenes se están pasando... a las sillas de ruedas eléctricas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/cybertruck-elon-musk-primera-unidad-sale-fabrica-1276154'>El cybertruck de Elon Musk es real: la primera unidad sale de fábrica</a></h4>
     <a href='https://computerhoy.com/motor/cybertruck-elon-musk-primera-unidad-sale-fabrica-1276154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cybertruck-elon-musk-real-primera-unidad-sale-fabrica-3085192.jpg?tf=1200x' alt='El cybertruck de Elon Musk es real: la primera unidad sale de fábrica' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/sony-firma-acuerdo-microsoft-call-of-duty-1276144'>Sony tira la toalla y acepta la compra de Activision Blizzard: firma un acuerdo con Microsoft para mantener Call of Duty en PlayStation</a></h4>
     <a href='https://computerhoy.com/gaming/sony-firma-acuerdo-microsoft-call-of-duty-1276144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/call-duty-ps-plus-2977602.jpg?tf=1200x' alt='Sony tira la toalla y acepta la compra de Activision Blizzard: firma un acuerdo con Microsoft para mantener Call of Duty en PlayStation' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/como-te-avisara-android-14-cuando-te-descargues-actualizaciones-fuentes-externas-1276134'>Así es cómo te avisará Android 14 cuando te descargues actualizaciones de fuentes externas</a></h4>
-    <a href='https://computerhoy.com/android/como-te-avisara-android-14-cuando-te-descargues-actualizaciones-fuentes-externas-1276134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/compras-dentro-apps-son-30-caras-app-store-google-play-echan-culpa-privacidad-2813525.jpg?tf=1200x' alt='Así es cómo te avisará Android 14 cuando te descargues actualizaciones de fuentes externas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/futuros-robots-acompanantes-impulsados-ia-acabaran-soledad-1276130'>Los futuros robots acompañantes impulsados por IA que acabarán con la soledad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/futuros-robots-acompanantes-impulsados-ia-acabaran-soledad-1276130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robot-amigo-3085176.jpg?tf=1200x' alt='Los futuros robots acompañantes impulsados por IA que acabarán con la soledad' />
     </a>
 </div>
 
