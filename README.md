@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-estaria-trabajando-nuevo-dispositivo-portatil-podria-sorprenderte-1275862'>Samsung estaría trabajando en un nuevo dispositivo portátil que podría sorprenderte</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-estaria-trabajando-nuevo-dispositivo-portatil-podria-sorprenderte-1275862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/anillo-inteligente.jpg?tf=1200x' alt='Samsung estaría trabajando en un nuevo dispositivo portátil que podría sorprenderte' />
+    <h4><a href='https://computerhoy.com/tecnologia/que-es-biometria-como-funciona-punto-segura-1260584'>¿Qué es la biometría, cómo funciona y hasta qué punto es segura?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/que-es-biometria-como-funciona-punto-segura-1260584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1689323057300-3083996.jpg?tf=1200x' alt='¿Qué es la biometría, cómo funciona y hasta qué punto es segura?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-elimines-cortana-windows-11-1275854'>Microsoft quiere que elimines Cortana de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-quiere-elimines-cortana-windows-11-1275854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/cortana-2158323.jpg?tf=1200x' alt='Microsoft quiere que elimines Cortana de Windows 11' />
+    <h4><a href='https://computerhoy.com/espacio/fisico-harvard-prueba-fragmentos-nave-extraterrestre-estrellada-avi-loeb-1274864'>Un físico de Harvard asegura haber encontrado fragmentos de una nave extraterrestre en el fondo del mar</a></h4>
+    <a href='https://computerhoy.com/espacio/fisico-harvard-prueba-fragmentos-nave-extraterrestre-estrellada-avi-loeb-1274864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/fisico-harvard-asegura-haber-encontrado-fragmentos-nave-extraterrestre-fondo-mar-3082960.jpg?tf=1200x' alt='Un físico de Harvard asegura haber encontrado fragmentos de una nave extraterrestre en el fondo del mar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/moviles-motorola-1217998'>Estos son los mejores móviles de Motorola que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/mejores/moviles-motorola-1217998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/motorola-edge-40-pro-3001080.jpg?tf=1200x' alt='Estos son los mejores móviles de Motorola que puedes comprar ahora mismo' />
+    <h4><a href='https://computerhoy.com/motor/rayas-cuentakilometros-no-son-adorno-son-mucho-utiles-crees-1273948'>Las rayas del cuentakilómetros no son un adorno y son mucho más útiles de lo que crees</a></h4>
+    <a href='https://computerhoy.com/motor/rayas-cuentakilometros-no-son-adorno-son-mucho-utiles-crees-1273948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cuentakilometros-coche-3084212.jpg?tf=1200x' alt='Las rayas del cuentakilómetros no son un adorno y son mucho más útiles de lo que crees' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/proximo-revolucionario-apple-seria-iphone-enrollable-patente-1275840'>Lo próximo revolucionario de Apple sería un iPhone enrollable, según esta patente</a></h4>
-    <a href='https://computerhoy.com/apple/proximo-revolucionario-apple-seria-iphone-enrollable-patente-1275840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/samsung-tiene-nuevas-pantallas-enrollables-telefonos-moviles-pueden-ser-futuro-plegables-3040388.jpg?tf=1200x' alt='Lo próximo revolucionario de Apple sería un iPhone enrollable, según esta patente' />
+    <h4><a href='https://computerhoy.com/tecnologia/crean-robot-humanoide-combatir-envejecimiento-mundial-1275856'>Crean un robot humanoide para combatir el envejecimiento mundial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-robot-humanoide-combatir-envejecimiento-mundial-1275856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/gr-1-3084848.jpg?tf=1200x' alt='Crean un robot humanoide para combatir el envejecimiento mundial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/hacen-funcionar-windows-11-portatil-panasonic-hace-10-anos-1275836'>Hacen funcionar Windows 11 en este portátil Panasonic de hace más de 10 años</a></h4>
-    <a href='https://computerhoy.com/windows/hacen-funcionar-windows-11-portatil-panasonic-hace-10-anos-1275836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hacen-funcionar-windows-11-portatil-panasonic-hace-10-anos-3084822.jpg?tf=1200x' alt='Hacen funcionar Windows 11 en este portátil Panasonic de hace más de 10 años' />
+    <h4><a href='https://computerhoy.com/entretenimiento/twitch-tiene-problema-publicidad-streamers-1262560'>Twitch tiene un problema con la publicidad y los streamers</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/twitch-tiene-problema-publicidad-streamers-1262560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/twitch-publicidad-streamers-gaming-3075612.jpg?tf=1200x' alt='Twitch tiene un problema con la publicidad y los streamers' />
     </a>
 </div>
 
