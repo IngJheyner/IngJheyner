@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/como-te-avisara-android-14-cuando-te-descargues-actualizaciones-fuentes-externas-1276134'>Así es cómo te avisará Android 14 cuando te descargues actualizaciones de fuentes externas</a></h4>
+    <a href='https://computerhoy.com/android/como-te-avisara-android-14-cuando-te-descargues-actualizaciones-fuentes-externas-1276134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/compras-dentro-apps-son-30-caras-app-store-google-play-echan-culpa-privacidad-2813525.jpg?tf=1200x' alt='Así es cómo te avisará Android 14 cuando te descargues actualizaciones de fuentes externas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/futuros-robots-acompanantes-impulsados-ia-acabaran-soledad-1276130'>Los futuros robots acompañantes impulsados por IA que acabarán con la soledad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/futuros-robots-acompanantes-impulsados-ia-acabaran-soledad-1276130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robot-amigo-3085176.jpg?tf=1200x' alt='Los futuros robots acompañantes impulsados por IA que acabarán con la soledad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/dispositivos-debes-desenchufar-ahorrar-factura-luz-1269716'>Los dispositivos y electrodomésticos que debes desenchufar para ahorrar dinero en tu factura de la luz</a></h4>
+    <a href='https://computerhoy.com/hogar/dispositivos-debes-desenchufar-ahorrar-factura-luz-1269716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/electrodomesticos-gastan-menos-son-peligro-modo-reposo-ocu-2823205.jpg?tf=1200x' alt='Los dispositivos y electrodomésticos que debes desenchufar para ahorrar dinero en tu factura de la luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-14-hara-facil-compartir-elementos-1276124'>Android 14 hará más fácil compartir elementos</a></h4>
     <a href='https://computerhoy.com/android/android-14-hara-facil-compartir-elementos-1276124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-presenta-primera-version-preliminar-android-14-focalizada-accesibilidad-bateria-seguridad-2951334.jpg?tf=1200x' alt='Android 14 hará más fácil compartir elementos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-watch-ultra-2-podria-lanzarse-mismo-ano-cambio-proceso-fabricacion-1276116'>El Apple Watch Ultra 2 podría lanzarse este mismo año con un cambio en el proceso de fabricación</a></h4>
     <a href='https://computerhoy.com/apple/apple-watch-ultra-2-podria-lanzarse-mismo-ano-cambio-proceso-fabricacion-1276116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apple-watch-ultra-2808843.jpg?tf=1200x' alt='El Apple Watch Ultra 2 podría lanzarse este mismo año con un cambio en el proceso de fabricación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-alta-seguridad-social-1268426'>Cómo saber online si estoy dado de alta en la Seguridad Social</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-alta-seguridad-social-1268426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/seguridad-social-3071680.jpg?tf=1200x' alt='Cómo saber online si estoy dado de alta en la Seguridad Social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-aplicaciones-son-culpables-poca-duracion-bateria-telefono-1276100'>Estas aplicaciones son las culpables de la poca duración de la batería de tu teléfono</a></h4>
-    <a href='https://computerhoy.com/apps/estas-aplicaciones-son-culpables-poca-duracion-bateria-telefono-1276100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aplicaciones-movil-3085092.jpg?tf=1200x' alt='Estas aplicaciones son las culpables de la poca duración de la batería de tu teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-increibles-escenas-reales-helicopteros-aviones-1273850'>7 películas con increíbles escenas reales en helicópteros y aviones</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-increibles-escenas-reales-helicopteros-aviones-1273850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/7-peliculas-increibles-escenas-reales-helicopteros-aviones-3081332.jpg?tf=1200x' alt='7 películas con increíbles escenas reales en helicópteros y aviones' />
     </a>
 </div>
 
