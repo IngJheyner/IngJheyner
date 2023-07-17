@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/mitos-seguridad-wifi-circulan-internet-1276686'>Mitos que circulan en Internet sobre la seguridad de  tu red WiFi</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/mitos-seguridad-wifi-circulan-internet-1276686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/router-wifi-2839089.jpg?tf=1200x' alt='Mitos que circulan en Internet sobre la seguridad de  tu red WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/gps-submarino-funciona-fondo-mar-1276654'>Inventan el sustituto del GPS que funciona en el fondo del mar</a></h4>
+    <a href='https://computerhoy.com/ciencia/gps-submarino-funciona-fondo-mar-1276654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/inventan-sustituto-gps-funciona-fondo-mar-3085842.jpg?tf=1200x' alt='Inventan el sustituto del GPS que funciona en el fondo del mar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/truco-viral-promete-librarte-mosquitos-verano-forma-natural-1276676'>Este truco viral promete librarte de los mosquitos con cosas que ya tienes en la cocina</a></h4>
+    <a href='https://computerhoy.com/life/truco-viral-promete-librarte-mosquitos-verano-forma-natural-1276676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mosquitos-3030642.jpg?tf=1200x' alt='Este truco viral promete librarte de los mosquitos con cosas que ya tienes en la cocina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-reloj-deportivo-gps-precio-derribo-1276578'>14 días de batería y GPS por 159 euros: ¿es este Huawei la alternativa perfecta low cost a los Garmin?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-watch-reloj-deportivo-gps-precio-derribo-1276578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/huawei-watch-3-gt-3085840.jpg?tf=1200x' alt='14 días de batería y GPS por 159 euros: ¿es este Huawei la alternativa perfecta low cost a los Garmin?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/de-que-va-como-vivir-pelicula-studio-ghibli-hayao-miyazaki-1276700'>Ya sabemos de qué va la ultrasecreta película del Studio Ghibli, dicen que es la obra maestra de Hayao Miyazaki</a></h4>
     <a href='https://computerhoy.com/entretenimiento/de-que-va-como-vivir-pelicula-studio-ghibli-hayao-miyazaki-1276700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mitico-hayao-miyazaki-studio-ghibli-estrena-pelicula-traileres-ni-imagenes-explicacion-tiene-mucho-sentido-3052076.jpg?tf=1200x' alt='Ya sabemos de qué va la ultrasecreta película del Studio Ghibli, dicen que es la obra maestra de Hayao Miyazaki' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cargo-jamas-te-esperarias-cuenta-restaurante-ha-hecho-viral-1276694'>El cargo que jamás te esperarías en la cuenta de un restaurante y que se ha hecho viral</a></h4>
-    <a href='https://computerhoy.com/life/cargo-jamas-te-esperarias-cuenta-restaurante-ha-hecho-viral-1276694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pagar-restaurante-3086024.jpg?tf=1200x' alt='El cargo que jamás te esperarías en la cuenta de un restaurante y que se ha hecho viral' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/problema-invisible-puede-estar-limitando-conexion-internet-1276692'>El problema invisible que puede estar limitando tu conexión a Internet</a></h4>
-    <a href='https://computerhoy.com/internet/problema-invisible-puede-estar-limitando-conexion-internet-1276692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2994456.jpg?tf=1200x' alt='El problema invisible que puede estar limitando tu conexión a Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/facebook-actualiza-nuevos-reels-videos-calidad-hdr-1276678'>Facebook se actualiza con nuevos Reels y vídeos en calidad HDR para competir con TikTok</a></h4>
-    <a href='https://computerhoy.com/internet/facebook-actualiza-nuevos-reels-videos-calidad-hdr-1276678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/facebook-3086020.jpg?tf=1200x' alt='Facebook se actualiza con nuevos Reels y vídeos en calidad HDR para competir con TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-original-4gb-pagan-190000-dolares-1276616'>Si tienes un iPhone original de 4GB, busca en el cajón, han llegado a pagar 190.000 dólares por uno</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-original-4gb-pagan-190000-dolares-1276616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/steve-jobs-posa-primer-iphone-mano-3062862.jpg?tf=1200x' alt='Si tienes un iPhone original de 4GB, busca en el cajón, han llegado a pagar 190.000 dólares por uno' />
     </a>
 </div>
 
