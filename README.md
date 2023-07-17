@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/xbox-game-pass-core-nuevo-servicio-microsoft-25-juegos-699-euros-mes-1276420'>Xbox Game Pass Core, el nuevo servicio de Microsoft con más de 25 juegos por 6,99 euros al mes</a></h4>
+    <a href='https://computerhoy.com/gaming/xbox-game-pass-core-nuevo-servicio-microsoft-25-juegos-699-euros-mes-1276420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/xbox-live-gold-2208153.jpg?tf=1200x' alt='Xbox Game Pass Core, el nuevo servicio de Microsoft con más de 25 juegos por 6,99 euros al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-steve-jobs-predijo-futuro-teletrabajo-hace-30-anos-1276376'>Así es como Steve Jobs predijo el futuro del teletrabajo hace 30 años</a></h4>
+    <a href='https://computerhoy.com/apple/como-steve-jobs-predijo-futuro-teletrabajo-hace-30-anos-1276376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/vestimenta-steve-jobs-2984978.jpg?tf=1200x' alt='Así es como Steve Jobs predijo el futuro del teletrabajo hace 30 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/persecucion-instagram-como-publicacion-llevo-joven-indio-carcel-1276370'>Persecución por Instagram: así es como una publicación llevó a este joven indio a la cárcel</a></h4>
+    <a href='https://computerhoy.com/redes/persecucion-instagram-como-publicacion-llevo-joven-indio-carcel-1276370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/persecucion-instagram-como-publicacion-llevo-joven-indio-carcel-3085540.jpg?tf=1200x' alt='Persecución por Instagram: así es como una publicación llevó a este joven indio a la cárcel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/perifericos/logitech-lift-raton-moda-merece-mucho-pena-comprarlo-1198326'>El Logitech Lift es el ratón de moda: por qué merece mucho la pena comprarlo</a></h4>
+    <a href='https://computerhoy.com/perifericos/logitech-lift-raton-moda-merece-mucho-pena-comprarlo-1198326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/logitech-lift-3085438.jpg?tf=1200x' alt='El Logitech Lift es el ratón de moda: por qué merece mucho la pena comprarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/empresa-jaen-usa-metodo-revolucionario-impresion-3d-1270186'>La tecnología de impresión 3D del futuro que una empresa de Jaén ha llevado a la Marina de EEUU y permite crear prótesis por 50 euros</a></h4>
     <a href='https://computerhoy.com/industria/empresa-jaen-usa-metodo-revolucionario-impresion-3d-1270186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/impresion-3d-buque-meltio-3074440.jpg?tf=1200x' alt='La tecnología de impresión 3D del futuro que una empresa de Jaén ha llevado a la Marina de EEUU y permite crear prótesis por 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/analisis-xiaomi-pad-6-union-potencia-diseno-precio-suficiente-1273932'>Análisis Xiaomi Pad 6: reúne potencia, diseño y precio, ¿pero es suficiente?</a></h4>
-    <a href='https://computerhoy.com/analisis/analisis-xiaomi-pad-6-union-potencia-diseno-precio-suficiente-1273932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-pad-6-3082030.jpg?tf=1200x' alt='Análisis Xiaomi Pad 6: reúne potencia, diseño y precio, ¿pero es suficiente?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/estaciones-climatologicas-informacion-mejores-modelos-1193504'>Estaciones climatológicas: qué debes tener en cuenta y cuáles son las mejores</a></h4>
-    <a href='https://computerhoy.com/hogar/estaciones-climatologicas-informacion-mejores-modelos-1193504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/netatmo-3085434.jpg?tf=1200x' alt='Estaciones climatológicas: qué debes tener en cuenta y cuáles son las mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cuantas-personas-han-pisado-luna-1276172'>¿Cuántas personas han pisado la Luna?</a></h4>
-    <a href='https://computerhoy.com/espacio/cuantas-personas-han-pisado-luna-1276172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/hace-50-anos-ocurrio-hoy-parece-ciencia-ficcion-astronautas-conduciendo-buggy-electrico-luna-2418007.jpg?tf=1200x' alt='¿Cuántas personas han pisado la Luna?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/elon-musk-sincera-reconoce-miserias-twitter-1276170'>Elon Musk se sincera, reconoce las miserias de Twitter</a></h4>
-    <a href='https://computerhoy.com/internet/elon-musk-sincera-reconoce-miserias-twitter-1276170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-3046962.jpg?tf=1200x' alt='Elon Musk se sincera, reconoce las miserias de Twitter' />
     </a>
 </div>
 
