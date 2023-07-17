@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/formula-matematicamente-correcta-atarte-zapatillas-1275500'>Esta es la fórmula matemáticamente correcta de atarte las zapatillas</a></h4>
-    <a href='https://computerhoy.com/life/formula-matematicamente-correcta-atarte-zapatillas-1275500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cordones-zapatilas-deportivas-3084388.jpg?tf=1200x' alt='Esta es la fórmula matemáticamente correcta de atarte las zapatillas' />
+    <h4><a href='https://computerhoy.com/entretenimiento/de-que-va-como-vivir-pelicula-studio-ghibli-hayao-miyazaki-1276700'>Ya sabemos de qué va la ultrasecreta película del Studio Ghibli, dicen que es la obra maestra de Hayao Miyazaki</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/de-que-va-como-vivir-pelicula-studio-ghibli-hayao-miyazaki-1276700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mitico-hayao-miyazaki-studio-ghibli-estrena-pelicula-traileres-ni-imagenes-explicacion-tiene-mucho-sentido-3052076.jpg?tf=1200x' alt='Ya sabemos de qué va la ultrasecreta película del Studio Ghibli, dicen que es la obra maestra de Hayao Miyazaki' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/privacidad-mental-peligro-chips-ia-cerebro-alerta-onu-1276584'>La privacidad mental en peligro por los chips de IA en el cerebro, alerta la ONU</a></h4>
-    <a href='https://computerhoy.com/tecnologia/privacidad-mental-peligro-chips-ia-cerebro-alerta-onu-1276584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/expertos-opinan-alcanzando-inteligencia-artificial-capacidades-humanas-3050174.jpg?tf=1200x' alt='La privacidad mental en peligro por los chips de IA en el cerebro, alerta la ONU' />
+    <h4><a href='https://computerhoy.com/life/cargo-jamas-te-esperarias-cuenta-restaurante-ha-hecho-viral-1276694'>El cargo que jamás te esperarías en la cuenta de un restaurante y que se ha hecho viral</a></h4>
+    <a href='https://computerhoy.com/life/cargo-jamas-te-esperarias-cuenta-restaurante-ha-hecho-viral-1276694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pagar-restaurante-3086024.jpg?tf=1200x' alt='El cargo que jamás te esperarías en la cuenta de un restaurante y que se ha hecho viral' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/gran-error-cometes-colocar-comida-microondas-1276552'>Este es el gran error que cometes al colocar tu comida en el microondas </a></h4>
-    <a href='https://computerhoy.com/life/gran-error-cometes-colocar-comida-microondas-1276552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/gran-error-cometes-colocar-comida-microondas-3085810.jpg?tf=1200x' alt='Este es el gran error que cometes al colocar tu comida en el microondas ' />
+    <h4><a href='https://computerhoy.com/internet/problema-invisible-puede-estar-limitando-conexion-internet-1276692'>El problema invisible que puede estar limitando tu conexión a Internet</a></h4>
+    <a href='https://computerhoy.com/internet/problema-invisible-puede-estar-limitando-conexion-internet-1276692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2994456.jpg?tf=1200x' alt='El problema invisible que puede estar limitando tu conexión a Internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-estrena-funcion-destinada-regular-volumen-videos-1276502'>YouTube estrena una función destinada a regular el volumen de los vídeos</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-estrena-funcion-destinada-regular-volumen-videos-1276502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/youtube-tv-2928346.jpg?tf=1200x' alt='YouTube estrena una función destinada a regular el volumen de los vídeos' />
+    <h4><a href='https://computerhoy.com/internet/facebook-actualiza-nuevos-reels-videos-calidad-hdr-1276678'>Facebook se actualiza con nuevos Reels y vídeos en calidad HDR para competir con TikTok</a></h4>
+    <a href='https://computerhoy.com/internet/facebook-actualiza-nuevos-reels-videos-calidad-hdr-1276678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/facebook-3086020.jpg?tf=1200x' alt='Facebook se actualiza con nuevos Reels y vídeos en calidad HDR para competir con TikTok' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-no-hay-excusa-kits-conversion-bicicletas-electricas-son-nueva-revolucion-1276458'>Ya no hay excusa, los kits de conversión de bicicletas eléctricas son la nueva revolución</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-no-hay-excusa-kits-conversion-bicicletas-electricas-son-nueva-revolucion-1276458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ya-no-hay-excusa-kits-conversion-bicicletas-electricas-son-nueva-revolucion-3085684.jpg?tf=1200x' alt='Ya no hay excusa, los kits de conversión de bicicletas eléctricas son la nueva revolución' />
+    <h4><a href='https://computerhoy.com/apple/iphone-original-4gb-pagan-190000-dolares-1276616'>Si tienes un iPhone original de 4GB, busca en el cajón, han llegado a pagar 190.000 dólares por uno</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-original-4gb-pagan-190000-dolares-1276616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/steve-jobs-posa-primer-iphone-mano-3062862.jpg?tf=1200x' alt='Si tienes un iPhone original de 4GB, busca en el cajón, han llegado a pagar 190.000 dólares por uno' />
     </a>
 </div>
 
