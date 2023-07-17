@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cuantas-personas-han-pisado-luna-1276172'>¿Cuántas personas han pisado la Luna?</a></h4>
+    <a href='https://computerhoy.com/espacio/cuantas-personas-han-pisado-luna-1276172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/hace-50-anos-ocurrio-hoy-parece-ciencia-ficcion-astronautas-conduciendo-buggy-electrico-luna-2418007.jpg?tf=1200x' alt='¿Cuántas personas han pisado la Luna?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/elon-musk-sincera-reconoce-miserias-twitter-1276170'>Elon Musk se sincera, reconoce las miserias de Twitter</a></h4>
+    <a href='https://computerhoy.com/internet/elon-musk-sincera-reconoce-miserias-twitter-1276170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-3046962.jpg?tf=1200x' alt='Elon Musk se sincera, reconoce las miserias de Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/canada-record-incendios-2023-cambio-climatico-1276166'>El drama del cambio climático no es el calor, son los incendios: en Canadá se ha quemado la quinta parte de España</a></h4>
     <a href='https://computerhoy.com/life/canada-record-incendios-2023-cambio-climatico-1276166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/drama-cambio-climatico-no-calor-son-incendios-canada-ha-quemado-quinta-parte-espana-3085226.jpg?tf=1200x' alt='El drama del cambio climático no es el calor, son los incendios: en Canadá se ha quemado la quinta parte de España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/cybertruck-elon-musk-primera-unidad-sale-fabrica-1276154'>El cybertruck de Elon Musk es real: la primera unidad sale de fábrica</a></h4>
     <a href='https://computerhoy.com/motor/cybertruck-elon-musk-primera-unidad-sale-fabrica-1276154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cybertruck-elon-musk-real-primera-unidad-sale-fabrica-3085192.jpg?tf=1200x' alt='El cybertruck de Elon Musk es real: la primera unidad sale de fábrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/dni-electronico-como-usarlo-mejores-lectores-1275824'>DNI electrónico: qué debes saber, cómo usarlo y mejores lectores para comprar</a></h4>
-    <a href='https://computerhoy.com/pc/dni-electronico-como-usarlo-mejores-lectores-1275824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dni-electronico-debes-saber-como-usarlo-mejores-lectores-comprar-3084772.jpg?tf=1200x' alt='DNI electrónico: qué debes saber, cómo usarlo y mejores lectores para comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/sony-firma-acuerdo-microsoft-call-of-duty-1276144'>Sony tira la toalla y acepta la compra de Activision Blizzard: firma un acuerdo con Microsoft para mantener Call of Duty en PlayStation</a></h4>
-    <a href='https://computerhoy.com/gaming/sony-firma-acuerdo-microsoft-call-of-duty-1276144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/call-duty-ps-plus-2977602.jpg?tf=1200x' alt='Sony tira la toalla y acepta la compra de Activision Blizzard: firma un acuerdo con Microsoft para mantener Call of Duty en PlayStation' />
     </a>
 </div>
 
