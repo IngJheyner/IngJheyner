@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/empresa-jaen-usa-metodo-revolucionario-impresion-3d-1270186'>La tecnología de impresión 3D del futuro que una empresa de Jaén ha llevado a la Marina de EEUU y permite crear prótesis por 50 euros</a></h4>
+    <a href='https://computerhoy.com/industria/empresa-jaen-usa-metodo-revolucionario-impresion-3d-1270186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/impresion-3d-buque-meltio-3074440.jpg?tf=1200x' alt='La tecnología de impresión 3D del futuro que una empresa de Jaén ha llevado a la Marina de EEUU y permite crear prótesis por 50 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/analisis-xiaomi-pad-6-union-potencia-diseno-precio-suficiente-1273932'>Análisis Xiaomi Pad 6: reúne potencia, diseño y precio, ¿pero es suficiente?</a></h4>
+    <a href='https://computerhoy.com/analisis/analisis-xiaomi-pad-6-union-potencia-diseno-precio-suficiente-1273932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-pad-6-3082030.jpg?tf=1200x' alt='Análisis Xiaomi Pad 6: reúne potencia, diseño y precio, ¿pero es suficiente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/estaciones-climatologicas-informacion-mejores-modelos-1193504'>Estaciones climatológicas: qué debes tener en cuenta y cuáles son las mejores</a></h4>
+    <a href='https://computerhoy.com/hogar/estaciones-climatologicas-informacion-mejores-modelos-1193504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/netatmo-3085434.jpg?tf=1200x' alt='Estaciones climatológicas: qué debes tener en cuenta y cuáles son las mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/cuantas-personas-han-pisado-luna-1276172'>¿Cuántas personas han pisado la Luna?</a></h4>
     <a href='https://computerhoy.com/espacio/cuantas-personas-han-pisado-luna-1276172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/hace-50-anos-ocurrio-hoy-parece-ciencia-ficcion-astronautas-conduciendo-buggy-electrico-luna-2418007.jpg?tf=1200x' alt='¿Cuántas personas han pisado la Luna?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/elon-musk-sincera-reconoce-miserias-twitter-1276170'>Elon Musk se sincera, reconoce las miserias de Twitter</a></h4>
     <a href='https://computerhoy.com/internet/elon-musk-sincera-reconoce-miserias-twitter-1276170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-3046962.jpg?tf=1200x' alt='Elon Musk se sincera, reconoce las miserias de Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/canada-record-incendios-2023-cambio-climatico-1276166'>El drama del cambio climático no es el calor, son los incendios: en Canadá se ha quemado la quinta parte de España</a></h4>
-    <a href='https://computerhoy.com/life/canada-record-incendios-2023-cambio-climatico-1276166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/drama-cambio-climatico-no-calor-son-incendios-canada-ha-quemado-quinta-parte-espana-3085226.jpg?tf=1200x' alt='El drama del cambio climático no es el calor, son los incendios: en Canadá se ha quemado la quinta parte de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/china-limitan-patinetes-jovenes-pasan-sillas-ruedas-electricas-1276160'>China limita los patinetes, los jóvenes se están pasando... a las sillas de ruedas eléctricas</a></h4>
-    <a href='https://computerhoy.com/motor/china-limitan-patinetes-jovenes-pasan-sillas-ruedas-electricas-1276160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/china-han-limitado-patinetes-jovenes-estan-pasando-sillas-ruedas-electricas-3085212.jpg?tf=1200x' alt='China limita los patinetes, los jóvenes se están pasando... a las sillas de ruedas eléctricas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cybertruck-elon-musk-primera-unidad-sale-fabrica-1276154'>El cybertruck de Elon Musk es real: la primera unidad sale de fábrica</a></h4>
-    <a href='https://computerhoy.com/motor/cybertruck-elon-musk-primera-unidad-sale-fabrica-1276154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cybertruck-elon-musk-real-primera-unidad-sale-fabrica-3085192.jpg?tf=1200x' alt='El cybertruck de Elon Musk es real: la primera unidad sale de fábrica' />
     </a>
 </div>
 
