@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-no-hay-excusa-kits-conversion-bicicletas-electricas-son-nueva-revolucion-1276458'>Ya no hay excusa, los kits de conversión de bicicletas eléctricas son la nueva revolución</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-no-hay-excusa-kits-conversion-bicicletas-electricas-son-nueva-revolucion-1276458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ya-no-hay-excusa-kits-conversion-bicicletas-electricas-son-nueva-revolucion-3085684.jpg?tf=1200x' alt='Ya no hay excusa, los kits de conversión de bicicletas eléctricas son la nueva revolución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatbots-entrenadores-robots-citas-virtuales-ia-abre-paso-mundo-amor-1276440'>Chatbots, entrenadores robots y citas virtuales: la IA se abre paso en el mundo del amor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatbots-entrenadores-robots-citas-virtuales-ia-abre-paso-mundo-amor-1276440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatbots-entrenadores-robots-citas-virtuales-ia-abre-paso-mundo-amor-3085594.jpg?tf=1200x' alt='Chatbots, entrenadores robots y citas virtuales: la IA se abre paso en el mundo del amor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/xbox-game-pass-core-nuevo-servicio-microsoft-25-juegos-699-euros-mes-1276420'>Xbox Game Pass Core, el nuevo servicio de Microsoft con más de 25 juegos por 6,99 euros al mes</a></h4>
     <a href='https://computerhoy.com/gaming/xbox-game-pass-core-nuevo-servicio-microsoft-25-juegos-699-euros-mes-1276420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/xbox-live-gold-2208153.jpg?tf=1200x' alt='Xbox Game Pass Core, el nuevo servicio de Microsoft con más de 25 juegos por 6,99 euros al mes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/persecucion-instagram-como-publicacion-llevo-joven-indio-carcel-1276370'>Persecución por Instagram: así es como una publicación llevó a este joven indio a la cárcel</a></h4>
     <a href='https://computerhoy.com/redes/persecucion-instagram-como-publicacion-llevo-joven-indio-carcel-1276370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/persecucion-instagram-como-publicacion-llevo-joven-indio-carcel-3085540.jpg?tf=1200x' alt='Persecución por Instagram: así es como una publicación llevó a este joven indio a la cárcel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/perifericos/logitech-lift-raton-moda-merece-mucho-pena-comprarlo-1198326'>El Logitech Lift es el ratón de moda: por qué merece mucho la pena comprarlo</a></h4>
-    <a href='https://computerhoy.com/perifericos/logitech-lift-raton-moda-merece-mucho-pena-comprarlo-1198326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/logitech-lift-3085438.jpg?tf=1200x' alt='El Logitech Lift es el ratón de moda: por qué merece mucho la pena comprarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/empresa-jaen-usa-metodo-revolucionario-impresion-3d-1270186'>La tecnología de impresión 3D del futuro que una empresa de Jaén ha llevado a la Marina de EEUU y permite crear prótesis por 50 euros</a></h4>
-    <a href='https://computerhoy.com/industria/empresa-jaen-usa-metodo-revolucionario-impresion-3d-1270186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/impresion-3d-buque-meltio-3074440.jpg?tf=1200x' alt='La tecnología de impresión 3D del futuro que una empresa de Jaén ha llevado a la Marina de EEUU y permite crear prótesis por 50 euros' />
     </a>
 </div>
 
