@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/formula-matematicamente-correcta-atarte-zapatillas-1275500'>Esta es la fórmula matemáticamente correcta de atarte las zapatillas</a></h4>
+    <a href='https://computerhoy.com/life/formula-matematicamente-correcta-atarte-zapatillas-1275500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cordones-zapatilas-deportivas-3084388.jpg?tf=1200x' alt='Esta es la fórmula matemáticamente correcta de atarte las zapatillas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/privacidad-mental-peligro-chips-ia-cerebro-alerta-onu-1276584'>La privacidad mental en peligro por los chips de IA en el cerebro, alerta la ONU</a></h4>
     <a href='https://computerhoy.com/tecnologia/privacidad-mental-peligro-chips-ia-cerebro-alerta-onu-1276584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/expertos-opinan-alcanzando-inteligencia-artificial-capacidades-humanas-3050174.jpg?tf=1200x' alt='La privacidad mental en peligro por los chips de IA en el cerebro, alerta la ONU' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-no-hay-excusa-kits-conversion-bicicletas-electricas-son-nueva-revolucion-1276458'>Ya no hay excusa, los kits de conversión de bicicletas eléctricas son la nueva revolución</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-no-hay-excusa-kits-conversion-bicicletas-electricas-son-nueva-revolucion-1276458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ya-no-hay-excusa-kits-conversion-bicicletas-electricas-son-nueva-revolucion-3085684.jpg?tf=1200x' alt='Ya no hay excusa, los kits de conversión de bicicletas eléctricas son la nueva revolución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatbots-entrenadores-robots-citas-virtuales-ia-abre-paso-mundo-amor-1276440'>Chatbots, entrenadores robots y citas virtuales: la IA se abre paso en el mundo del amor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatbots-entrenadores-robots-citas-virtuales-ia-abre-paso-mundo-amor-1276440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatbots-entrenadores-robots-citas-virtuales-ia-abre-paso-mundo-amor-3085594.jpg?tf=1200x' alt='Chatbots, entrenadores robots y citas virtuales: la IA se abre paso en el mundo del amor' />
     </a>
 </div>
 
