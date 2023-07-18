@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/conductor-arbol-2500-anos-queria-atraversarlo-medio-tronco-1276940'>Se carga un árbol de 2.500 años porque quería atravesarlo por el medio del tronco con el coche</a></h4>
+    <a href='https://computerhoy.com/motor/conductor-arbol-2500-anos-queria-atraversarlo-medio-tronco-1276940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/conductor-atrapado-arbol-2000-anos-3083382.jpg?tf=1200x' alt='Se carga un árbol de 2.500 años porque quería atravesarlo por el medio del tronco con el coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/wormgpt-ia-tipo-chatgpt-entrenada-crear-malware-1276936'>WormGPT, la inteligencia artificial tipo ChatGPT entrenada para crear el malware que le pidas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/wormgpt-ia-tipo-chatgpt-entrenada-crear-malware-1276936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/wormgpt-inteligencia-artificial-entrenada-crear-malware-pidas-3086062.jpg?tf=1200x' alt='WormGPT, la inteligencia artificial tipo ChatGPT entrenada para crear el malware que le pidas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/truco-viral-promete-librarte-mosquitos-verano-forma-natural-1276676'>Este truco viral promete librarte de los mosquitos con cosas que ya tienes en la cocina</a></h4>
     <a href='https://computerhoy.com/life/truco-viral-promete-librarte-mosquitos-verano-forma-natural-1276676' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mosquitos-3030642.jpg?tf=1200x' alt='Este truco viral promete librarte de los mosquitos con cosas que ya tienes en la cocina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-reloj-deportivo-gps-precio-derribo-1276578'>14 días de batería y GPS por 159 euros: ¿es este Huawei la alternativa perfecta low cost a los Garmin?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-watch-reloj-deportivo-gps-precio-derribo-1276578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/huawei-watch-3-gt-3085840.jpg?tf=1200x' alt='14 días de batería y GPS por 159 euros: ¿es este Huawei la alternativa perfecta low cost a los Garmin?' />
     </a>
 </div>
 
