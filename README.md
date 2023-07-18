@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-reiniciar-restablecer-router-tienes-problemas-conexion-1277236'>Cómo reiniciar o restablecer tu router en caso de problemas con la conexión</a></h4>
+    <a href='https://computerhoy.com/internet/como-reiniciar-restablecer-router-tienes-problemas-conexion-1277236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/router-2476823.jpg?tf=1200x' alt='Cómo reiniciar o restablecer tu router en caso de problemas con la conexión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sitio-web-funciona-ibm-pcjr-hace-39-anos-lleva-2500-horas-ininterrumpidas-1277284'>Este sitio web funciona con un IBM PCjr de hace 39 años y lleva más de 2500 horas ininterrumpidas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sitio-web-funciona-ibm-pcjr-hace-39-anos-lleva-2500-horas-ininterrumpidas-1277284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ordenador-clasico-3087242.jpg?tf=1200x' alt='Este sitio web funciona con un IBM PCjr de hace 39 años y lleva más de 2500 horas ininterrumpidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mujer-francesa-recibe-impacto-pequeno-meteorito-costillas-1277280'>Una mujer francesa recibe el impacto de un pequeño meteorito en sus costillas</a></h4>
+    <a href='https://computerhoy.com/life/mujer-francesa-recibe-impacto-pequeno-meteorito-costillas-1277280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/meteorito-3087238.jpg?tf=1200x' alt='Una mujer francesa recibe el impacto de un pequeño meteorito en sus costillas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/cine-estrenos-movistar-plus-agosto-1277278'>Cine de vacaciones, terror y cine europeo entre los estrenos de Movistar Plus+ en agosto</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cine-estrenos-movistar-plus-agosto-1277278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cine-vacaciones-terror-cine-europeo-estrenos-movistar-plus-agosto-3087228.jpg?tf=1200x' alt='Cine de vacaciones, terror y cine europeo entre los estrenos de Movistar Plus+ en agosto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/empresa-vasca-disena-exoesqueleto-combate-ejercito-1277222'>Una empresa vasca diseña un exoesqueleto de combate para el ejército de España que estará operativo en 2035</a></h4>
     <a href='https://computerhoy.com/tecnologia/empresa-vasca-disena-exoesqueleto-combate-ejercito-1277222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/exoesqueleto-combate-3087052.jpg?tf=1200x' alt='Una empresa vasca diseña un exoesqueleto de combate para el ejército de España que estará operativo en 2035' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/accesorios-imprescindibles-ps5-981831'>10 accesorios imprescindibles para tu PS5 si ya has conseguido comprar una</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/accesorios-imprescindibles-ps5-981831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ps5-3011390.jpg?tf=1200x' alt='10 accesorios imprescindibles para tu PS5 si ya has conseguido comprar una' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cualquier-persona-numero-podria-desactivar-cuenta-whatsapp-1277216'>¡Mucho cuidado! Cualquier persona con tu número de teléfono podría desactivar tu cuenta de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cualquier-persona-numero-podria-desactivar-cuenta-whatsapp-1277216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/contactos-whatsapp-3003478.jpg?tf=1200x' alt='¡Mucho cuidado! Cualquier persona con tu número de teléfono podría desactivar tu cuenta de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ipad-mini-7a-generacion-nuevos-rumores-especificaciones-fecha-lanzamiento-1277204'>iPad Mini 7ª generación, nuevos rumores sobre sus especificaciones y fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/apple/ipad-mini-7a-generacion-nuevos-rumores-especificaciones-fecha-lanzamiento-1277204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ipad-mini-3086924.jpg?tf=1200x' alt='iPad Mini 7ª generación, nuevos rumores sobre sus especificaciones y fecha de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cnmc-multa-apple-amazon-194-millones-euros-practicas-anticompetitivas-espana-1277176'>La CNMC multa a Apple y Amazon con 194 millones de euros por prácticas anticompetitivas en España: ambas empresas recurrirán la sentencia</a></h4>
-    <a href='https://computerhoy.com/apple/cnmc-multa-apple-amazon-194-millones-euros-practicas-anticompetitivas-espana-1277176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logo-amazon-invertido-2969060.jpg?tf=1200x' alt='La CNMC multa a Apple y Amazon con 194 millones de euros por prácticas anticompetitivas en España: ambas empresas recurrirán la sentencia' />
     </a>
 </div>
 
