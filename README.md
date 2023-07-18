@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-resurge-pesar-fin-cuentas-compartidas-remonta-usuarios-1277108'>Netflix resurge y a pesar del fin de la cuentas compartidas remonta en suscriptores</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-resurge-pesar-fin-cuentas-compartidas-remonta-usuarios-1277108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/netflix-resurge-pesar-fin-cuentas-compartidas-remonta-usuarios-3086668.jpg?tf=1200x' alt='Netflix resurge y a pesar del fin de la cuentas compartidas remonta en suscriptores' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/cualquier-persona-numero-podria-desactivar-cuenta-whatsapp-1277216'>¡Mucho cuidado! Cualquier persona con tu número de teléfono podría desactivar tu cuenta de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cualquier-persona-numero-podria-desactivar-cuenta-whatsapp-1277216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/contactos-whatsapp-3003478.jpg?tf=1200x' alt='¡Mucho cuidado! Cualquier persona con tu número de teléfono podría desactivar tu cuenta de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ceo-instagram-tiene-claro-android-mejor-ios-1277088'>El CEO de Instagram lo tiene claro: Android es mejor que iOS y hace saltar de nuevo la polémica</a></h4>
-    <a href='https://computerhoy.com/android/ceo-instagram-tiene-claro-android-mejor-ios-1277088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ceo-instagram-tiene-claro-android-mejor-ios-hace-saltar-nuevo-polemica-3086662.jpg?tf=1200x' alt='El CEO de Instagram lo tiene claro: Android es mejor que iOS y hace saltar de nuevo la polémica' />
+    <h4><a href='https://computerhoy.com/apple/ipad-mini-7a-generacion-nuevos-rumores-especificaciones-fecha-lanzamiento-1277204'>iPad Mini 7ª generación, nuevos rumores sobre sus especificaciones y fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.com/apple/ipad-mini-7a-generacion-nuevos-rumores-especificaciones-fecha-lanzamiento-1277204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ipad-mini-3086924.jpg?tf=1200x' alt='iPad Mini 7ª generación, nuevos rumores sobre sus especificaciones y fecha de lanzamiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/movil-top-xiaomia-precio-xiaomi-snapdragon-8-gen-1-1277076'>Un móvil top de Xiaomi...a precio Xiaomi, y con Snapdragon 8 Gen 1</a></h4>
-    <a href='https://computerhoy.com/moviles/movil-top-xiaomia-precio-xiaomi-snapdragon-8-gen-1-1277076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg?tf=1200x' alt='Un móvil top de Xiaomi...a precio Xiaomi, y con Snapdragon 8 Gen 1' />
+    <h4><a href='https://computerhoy.com/apple/cnmc-multa-apple-amazon-194-millones-euros-practicas-anticompetitivas-espana-1277176'>La CNMC multa a Apple y Amazon con 194 millones de euros por prácticas anticompetitivas en España: ambas empresas recurrirán la sentencia</a></h4>
+    <a href='https://computerhoy.com/apple/cnmc-multa-apple-amazon-194-millones-euros-practicas-anticompetitivas-espana-1277176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logo-amazon-invertido-2969060.jpg?tf=1200x' alt='La CNMC multa a Apple y Amazon con 194 millones de euros por prácticas anticompetitivas en España: ambas empresas recurrirán la sentencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/problemas-enviar-mensajes-directos-twitter-aqui-tienes-solucion-1277082'>¿Problemas para enviar mensajes directos en Twitter? Aquí tienes la solución</a></h4>
-    <a href='https://computerhoy.com/tecnologia/problemas-enviar-mensajes-directos-twitter-aqui-tienes-solucion-1277082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ilustracion-logo-twitter-pantalla-smarthpone-silueta-elon-musk-2912870.jpg?tf=1200x' alt='¿Problemas para enviar mensajes directos en Twitter? Aquí tienes la solución' />
+    <h4><a href='https://computerhoy.com/tecnologia/diferencias-cache-cookies-1255744'>Diferencias entre caché y cookies</a></h4>
+    <a href='https://computerhoy.com/tecnologia/diferencias-cache-cookies-1255744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cache-cookies-diferencias-3050498.jpg?tf=1200x' alt='Diferencias entre caché y cookies' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/redes-impactadas-descubrir-como-utiliza-correctamente-cajetin-lavadora-1277056'>Las redes impactadas al descubrir cómo se utiliza correctamente el cajetín de la lavadora</a></h4>
-    <a href='https://computerhoy.com/life/redes-impactadas-descubrir-como-utiliza-correctamente-cajetin-lavadora-1277056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/redes-impactadas-descubrir-como-utiliza-correctamente-cajetin-lavadora-3086448.jpg?tf=1200x' alt='Las redes impactadas al descubrir cómo se utiliza correctamente el cajetín de la lavadora' />
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-piden-cambiar-nueva-epoca-antropoceno-1277180'>Cada vez más científicos aseguran que hemos entrado en una nueva época, el Antropoceno, y tiene que ver con la energía nuclear</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-piden-cambiar-nueva-epoca-antropoceno-1277180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cada-vez-cientificos-aseguran-hemos-entrado-nueva-epoca-antropoceno-tiene-ver-energia-nuclear-3086820.jpg?tf=1200x' alt='Cada vez más científicos aseguran que hemos entrado en una nueva época, el Antropoceno, y tiene que ver con la energía nuclear' />
     </a>
 </div>
 
