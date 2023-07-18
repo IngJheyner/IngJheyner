@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-365-vuelve-inteligente-nuevas-herramientas-ia-bing-chat-enterprise-1277292'>Microsoft 365 se vuelve más inteligente con nuevas herramientas de IA y Bing Chat Enterprise</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-365-vuelve-inteligente-nuevas-herramientas-ia-bing-chat-enterprise-1277292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/microsoft-365-2848843.jpg?tf=1200x' alt='Microsoft 365 se vuelve más inteligente con nuevas herramientas de IA y Bing Chat Enterprise' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/como-reiniciar-restablecer-router-tienes-problemas-conexion-1277236'>Cómo reiniciar o restablecer tu router en caso de problemas con la conexión</a></h4>
     <a href='https://computerhoy.com/internet/como-reiniciar-restablecer-router-tienes-problemas-conexion-1277236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/router-2476823.jpg?tf=1200x' alt='Cómo reiniciar o restablecer tu router en caso de problemas con la conexión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/cine-estrenos-movistar-plus-agosto-1277278'>Cine de vacaciones, terror y cine europeo entre los estrenos de Movistar Plus+ en agosto</a></h4>
     <a href='https://computerhoy.com/entretenimiento/cine-estrenos-movistar-plus-agosto-1277278' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cine-vacaciones-terror-cine-europeo-estrenos-movistar-plus-agosto-3087228.jpg?tf=1200x' alt='Cine de vacaciones, terror y cine europeo entre los estrenos de Movistar Plus+ en agosto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/empresa-vasca-disena-exoesqueleto-combate-ejercito-1277222'>Una empresa vasca diseña un exoesqueleto de combate para el ejército de España que estará operativo en 2035</a></h4>
-    <a href='https://computerhoy.com/tecnologia/empresa-vasca-disena-exoesqueleto-combate-ejercito-1277222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/exoesqueleto-combate-3087052.jpg?tf=1200x' alt='Una empresa vasca diseña un exoesqueleto de combate para el ejército de España que estará operativo en 2035' />
     </a>
 </div>
 
