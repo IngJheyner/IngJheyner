@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/empresa-vasca-disena-exoesqueleto-combate-ejercito-1277222'>Una empresa vasca diseña un exoesqueleto de combate para el ejército de España que estará operativo en 2035</a></h4>
+    <a href='https://computerhoy.com/tecnologia/empresa-vasca-disena-exoesqueleto-combate-ejercito-1277222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/exoesqueleto-combate-3087052.jpg?tf=1200x' alt='Una empresa vasca diseña un exoesqueleto de combate para el ejército de España que estará operativo en 2035' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/accesorios-imprescindibles-ps5-981831'>10 accesorios imprescindibles para tu PS5 si ya has conseguido comprar una</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/accesorios-imprescindibles-ps5-981831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ps5-3011390.jpg?tf=1200x' alt='10 accesorios imprescindibles para tu PS5 si ya has conseguido comprar una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/cualquier-persona-numero-podria-desactivar-cuenta-whatsapp-1277216'>¡Mucho cuidado! Cualquier persona con tu número de teléfono podría desactivar tu cuenta de WhatsApp</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cualquier-persona-numero-podria-desactivar-cuenta-whatsapp-1277216' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/contactos-whatsapp-3003478.jpg?tf=1200x' alt='¡Mucho cuidado! Cualquier persona con tu número de teléfono podría desactivar tu cuenta de WhatsApp' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/cnmc-multa-apple-amazon-194-millones-euros-practicas-anticompetitivas-espana-1277176'>La CNMC multa a Apple y Amazon con 194 millones de euros por prácticas anticompetitivas en España: ambas empresas recurrirán la sentencia</a></h4>
     <a href='https://computerhoy.com/apple/cnmc-multa-apple-amazon-194-millones-euros-practicas-anticompetitivas-espana-1277176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logo-amazon-invertido-2969060.jpg?tf=1200x' alt='La CNMC multa a Apple y Amazon con 194 millones de euros por prácticas anticompetitivas en España: ambas empresas recurrirán la sentencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/diferencias-cache-cookies-1255744'>Diferencias entre caché y cookies</a></h4>
-    <a href='https://computerhoy.com/tecnologia/diferencias-cache-cookies-1255744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cache-cookies-diferencias-3050498.jpg?tf=1200x' alt='Diferencias entre caché y cookies' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-piden-cambiar-nueva-epoca-antropoceno-1277180'>Cada vez más científicos aseguran que hemos entrado en una nueva época, el Antropoceno, y tiene que ver con la energía nuclear</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-piden-cambiar-nueva-epoca-antropoceno-1277180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cada-vez-cientificos-aseguran-hemos-entrado-nueva-epoca-antropoceno-tiene-ver-energia-nuclear-3086820.jpg?tf=1200x' alt='Cada vez más científicos aseguran que hemos entrado en una nueva época, el Antropoceno, y tiene que ver con la energía nuclear' />
     </a>
 </div>
 
