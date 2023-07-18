@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/fracaso-ciberseguridad-ataques-ransomware-disparan-2023-1277040'>Fracaso en la ciberseguridad: los ataques de 'ransomware' se disparan en 2023</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/fracaso-ciberseguridad-ataques-ransomware-disparan-2023-1277040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/fracaso-ciberseguridad-ataques-ransomware-disparan-2023-3086436.jpg?tf=1200x' alt='Fracaso en la ciberseguridad: los ataques de 'ransomware' se disparan en 2023' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-resurge-pesar-fin-cuentas-compartidas-remonta-usuarios-1277108'>Netflix resurge y a pesar del fin de la cuentas compartidas remonta en suscriptores</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-resurge-pesar-fin-cuentas-compartidas-remonta-usuarios-1277108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/netflix-resurge-pesar-fin-cuentas-compartidas-remonta-usuarios-3086668.jpg?tf=1200x' alt='Netflix resurge y a pesar del fin de la cuentas compartidas remonta en suscriptores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/exjefe-google-afirma-ia-revolucionara-sexo-virtual-creeras-robots-estan-vivos-1276994'>Exjefe de Google afirma que la IA revolucionará el sexo virtual y creerás que los robots están "vivos"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/exjefe-google-afirma-ia-revolucionara-sexo-virtual-creeras-robots-estan-vivos-1276994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/exjefe-google-afirma-ia-revolucionara-sexo-virtual-creeras-robots-estan-vivos-3086406.jpg?tf=1200x' alt='Exjefe de Google afirma que la IA revolucionará el sexo virtual y creerás que los robots están "vivos"' />
+    <h4><a href='https://computerhoy.com/android/ceo-instagram-tiene-claro-android-mejor-ios-1277088'>El CEO de Instagram lo tiene claro: Android es mejor que iOS y hace saltar de nuevo la polémica</a></h4>
+    <a href='https://computerhoy.com/android/ceo-instagram-tiene-claro-android-mejor-ios-1277088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ceo-instagram-tiene-claro-android-mejor-ios-hace-saltar-nuevo-polemica-3086662.jpg?tf=1200x' alt='El CEO de Instagram lo tiene claro: Android es mejor que iOS y hace saltar de nuevo la polémica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/astronautas-ya-preparan-artemis-ii-nasa-sera-vuelo-alrededor-luna-despues-50-anos-1276974'>Los astronautas ya se preparan para la Artemis II: así será el vuelo alrededor de la Luna tras 50 años</a></h4>
-    <a href='https://computerhoy.com/espacio/astronautas-ya-preparan-artemis-ii-nasa-sera-vuelo-alrededor-luna-despues-50-anos-1276974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/artemis-ii-siguiente-paso-nasa-aterrizaje-nave-espacial-orion-2899038.jpg?tf=1200x' alt='Los astronautas ya se preparan para la Artemis II: así será el vuelo alrededor de la Luna tras 50 años' />
+    <h4><a href='https://computerhoy.com/moviles/movil-top-xiaomia-precio-xiaomi-snapdragon-8-gen-1-1277076'>Un móvil top de Xiaomi...a precio Xiaomi, y con Snapdragon 8 Gen 1</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-top-xiaomia-precio-xiaomi-snapdragon-8-gen-1-1277076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg?tf=1200x' alt='Un móvil top de Xiaomi...a precio Xiaomi, y con Snapdragon 8 Gen 1' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/casos-no-recomendable-pagar-bizum-1276642'>Casos en los que no es recomendable pagar con Bizum</a></h4>
-    <a href='https://computerhoy.com/life/casos-no-recomendable-pagar-bizum-1276642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estan-obligados-establecimientos-cobrar-bizum-3085952.jpg?tf=1200x' alt='Casos en los que no es recomendable pagar con Bizum' />
+    <h4><a href='https://computerhoy.com/tecnologia/problemas-enviar-mensajes-directos-twitter-aqui-tienes-solucion-1277082'>¿Problemas para enviar mensajes directos en Twitter? Aquí tienes la solución</a></h4>
+    <a href='https://computerhoy.com/tecnologia/problemas-enviar-mensajes-directos-twitter-aqui-tienes-solucion-1277082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ilustracion-logo-twitter-pantalla-smarthpone-silueta-elon-musk-2912870.jpg?tf=1200x' alt='¿Problemas para enviar mensajes directos en Twitter? Aquí tienes la solución' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tienes-dia-hacer-cambio-despues-google-eliminara-fotos-1276710'>Tienes un día para hacer el cambio, después Google eliminará tus fotos e imágenes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tienes-dia-hacer-cambio-despues-google-eliminara-fotos-1276710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-3086090.jpg?tf=1200x' alt='Tienes un día para hacer el cambio, después Google eliminará tus fotos e imágenes' />
+    <h4><a href='https://computerhoy.com/life/redes-impactadas-descubrir-como-utiliza-correctamente-cajetin-lavadora-1277056'>Las redes impactadas al descubrir cómo se utiliza correctamente el cajetín de la lavadora</a></h4>
+    <a href='https://computerhoy.com/life/redes-impactadas-descubrir-como-utiliza-correctamente-cajetin-lavadora-1277056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/redes-impactadas-descubrir-como-utiliza-correctamente-cajetin-lavadora-3086448.jpg?tf=1200x' alt='Las redes impactadas al descubrir cómo se utiliza correctamente el cajetín de la lavadora' />
     </a>
 </div>
 
