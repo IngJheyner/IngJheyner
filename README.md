@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/wormgpt-ia-tipo-chatgpt-entrenada-crear-malware-1276936'>WormGPT, la inteligencia artificial tipo ChatGPT entrenada para crear el malware que le pidas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/wormgpt-ia-tipo-chatgpt-entrenada-crear-malware-1276936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/wormgpt-inteligencia-artificial-entrenada-crear-malware-pidas-3086062.jpg?tf=1200x' alt='WormGPT, la inteligencia artificial tipo ChatGPT entrenada para crear el malware que le pidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/mitos-seguridad-wifi-circulan-internet-1276686'>Mitos que circulan en Internet sobre la seguridad de  tu red WiFi</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/mitos-seguridad-wifi-circulan-internet-1276686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/router-wifi-2839089.jpg?tf=1200x' alt='Mitos que circulan en Internet sobre la seguridad de  tu red WiFi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-reloj-deportivo-gps-precio-derribo-1276578'>14 días de batería y GPS por 159 euros: ¿es este Huawei la alternativa perfecta low cost a los Garmin?</a></h4>
     <a href='https://computerhoy.com/tecnologia/huawei-watch-reloj-deportivo-gps-precio-derribo-1276578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/huawei-watch-3-gt-3085840.jpg?tf=1200x' alt='14 días de batería y GPS por 159 euros: ¿es este Huawei la alternativa perfecta low cost a los Garmin?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/de-que-va-como-vivir-pelicula-studio-ghibli-hayao-miyazaki-1276700'>Ya sabemos de qué va la ultrasecreta película del Studio Ghibli, dicen que es la obra maestra de Hayao Miyazaki</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/de-que-va-como-vivir-pelicula-studio-ghibli-hayao-miyazaki-1276700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mitico-hayao-miyazaki-studio-ghibli-estrena-pelicula-traileres-ni-imagenes-explicacion-tiene-mucho-sentido-3052076.jpg?tf=1200x' alt='Ya sabemos de qué va la ultrasecreta película del Studio Ghibli, dicen que es la obra maestra de Hayao Miyazaki' />
     </a>
 </div>
 
