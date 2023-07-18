@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tienes-dia-hacer-cambio-despues-google-eliminara-fotos-1276710'>Tienes un día para hacer el cambio, después Google eliminará tus fotos e imágenes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tienes-dia-hacer-cambio-despues-google-eliminara-fotos-1276710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-3086090.jpg?tf=1200x' alt='Tienes un día para hacer el cambio, después Google eliminará tus fotos e imágenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/historia-twitter-origenes-revoluciones-compra-musk-1237572'>25 aniversario de Computer Hoy: Historia de Twitter, la red social que levantó revoluciones, famosos y que Elon Musk quiere evolucionar</a></h4>
+    <a href='https://computerhoy.com/internet/historia-twitter-origenes-revoluciones-compra-musk-1237572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-historia-twitter-elon-musk-jack-dorsey-frente-logo-twitter-3083954.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Historia de Twitter, la red social que levantó revoluciones, famosos y que Elon Musk quiere evolucionar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/camaras-compactas-faciles-manejar-ofertas-909169'>Cámaras compactas fáciles de manejar y que tienen poco que envidiar a una réflex</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/camaras-compactas-faciles-manejar-ofertas-909169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/sony-rx100-vii-3086088.jpg?tf=1200x' alt='Cámaras compactas fáciles de manejar y que tienen poco que envidiar a una réflex' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/conductor-arbol-2500-anos-queria-atraversarlo-medio-tronco-1276940'>Se carga un árbol de 2.500 años porque quería atravesarlo por el medio del tronco con el coche</a></h4>
     <a href='https://computerhoy.com/motor/conductor-arbol-2500-anos-queria-atraversarlo-medio-tronco-1276940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/conductor-atrapado-arbol-2000-anos-3083382.jpg?tf=1200x' alt='Se carga un árbol de 2.500 años porque quería atravesarlo por el medio del tronco con el coche' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/wormgpt-ia-tipo-chatgpt-entrenada-crear-malware-1276936'>WormGPT, la inteligencia artificial tipo ChatGPT entrenada para crear el malware que le pidas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/wormgpt-ia-tipo-chatgpt-entrenada-crear-malware-1276936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/wormgpt-inteligencia-artificial-entrenada-crear-malware-pidas-3086062.jpg?tf=1200x' alt='WormGPT, la inteligencia artificial tipo ChatGPT entrenada para crear el malware que le pidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/mitos-seguridad-wifi-circulan-internet-1276686'>Mitos que circulan en Internet sobre la seguridad de  tu red WiFi</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/mitos-seguridad-wifi-circulan-internet-1276686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/router-wifi-2839089.jpg?tf=1200x' alt='Mitos que circulan en Internet sobre la seguridad de  tu red WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/gps-submarino-funciona-fondo-mar-1276654'>Inventan el sustituto del GPS que funciona en el fondo del mar</a></h4>
-    <a href='https://computerhoy.com/ciencia/gps-submarino-funciona-fondo-mar-1276654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/inventan-sustituto-gps-funciona-fondo-mar-3085842.jpg?tf=1200x' alt='Inventan el sustituto del GPS que funciona en el fondo del mar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-viral-promete-librarte-mosquitos-verano-forma-natural-1276676'>Este truco viral promete librarte de los mosquitos con cosas que ya tienes en la cocina</a></h4>
-    <a href='https://computerhoy.com/life/truco-viral-promete-librarte-mosquitos-verano-forma-natural-1276676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mosquitos-3030642.jpg?tf=1200x' alt='Este truco viral promete librarte de los mosquitos con cosas que ya tienes en la cocina' />
     </a>
 </div>
 
