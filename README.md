@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mujer-francesa-recibe-impacto-pequeno-meteorito-costillas-1277280'>Una mujer recibe el impacto de meteorito en sus costillas mientras tomaba café en su terraza</a></h4>
+    <a href='https://computerhoy.com/life/mujer-francesa-recibe-impacto-pequeno-meteorito-costillas-1277280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/meteorito-3087238.jpg?tf=1200x' alt='Una mujer recibe el impacto de meteorito en sus costillas mientras tomaba café en su terraza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-te-confundas-verdadera-app-threads-debes-descargar-1277638'>No te confundas: esta es la verdadera app Threads que debes descargar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-te-confundas-verdadera-app-threads-debes-descargar-1277638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/adios-threads-union-europea-aplicacion-rival-twitter-no-llegara-momento-espana-3075242.jpg?tf=1200x' alt='No te confundas: esta es la verdadera app Threads que debes descargar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/duda-resuelta-instagram-notifica-personas-cuando-haces-captura-pantalla-1277616'>Duda resuelta: ¿Instagram notifica a las personas cuando haces una captura de pantalla?</a></h4>
+    <a href='https://computerhoy.com/redes/duda-resuelta-instagram-notifica-personas-cuando-haces-captura-pantalla-1277616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/duda-resuelta-instagram-notifica-personas-cuando-haces-captura-pantalla-3087618.jpg?tf=1200x' alt='Duda resuelta: ¿Instagram notifica a las personas cuando haces una captura de pantalla?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/iphone-16-pro-max-apple-podria-revolucionar-fotografia-nueva-super-camara-1277612'>El iPhone 16 Pro Max de Apple podría revolucionar la fotografía con una nueva súper cámara</a></h4>
     <a href='https://computerhoy.com/apple/iphone-16-pro-max-apple-podria-revolucionar-fotografia-nueva-super-camara-1277612' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/iphone-16-pro-max-apple-podria-revolucionar-fotografia-nueva-super-camara-3087592.jpg?tf=1200x' alt='El iPhone 16 Pro Max de Apple podría revolucionar la fotografía con una nueva súper cámara' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/wormgpt-ia-tipo-chatgpt-entrenada-crear-malware-1276936'>Así es WormGPT, una inteligencia artificial tipo ChatGPT pensada para hacer 'cosas malas'</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/wormgpt-ia-tipo-chatgpt-entrenada-crear-malware-1276936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/wormgpt-inteligencia-artificial-entrenada-crear-malware-pidas-3086062.jpg?tf=1200x' alt='Así es WormGPT, una inteligencia artificial tipo ChatGPT pensada para hacer 'cosas malas'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/adios-iconico-restaurante-imitaba-cluckin-bell-gta-copia-fue-manos-1277584'>Adiós al icónico restaurante que imitaba al Cluckin' Bell de GTA: la copia se les fue de las manos</a></h4>
-    <a href='https://computerhoy.com/gaming/adios-iconico-restaurante-imitaba-cluckin-bell-gta-copia-fue-manos-1277584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/adios-iconico-restaurante-imitaba-cluckin-bell-gta-copia-fue-manos-3087538.jpg?tf=1200x' alt='Adiós al icónico restaurante que imitaba al Cluckin' Bell de GTA: la copia se les fue de las manos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-muestra-teleoperadora-favorita-cada-provincia-1277256'>Este mapa muestra la teleoperadora favorita de cada provincia en nuestro país ¿Cuál crees que es en la tuya?</a></h4>
-    <a href='https://computerhoy.com/life/mapa-muestra-teleoperadora-favorita-cada-provincia-1277256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mapa-teleco-espana-3087186.jpg?tf=1200x' alt='Este mapa muestra la teleoperadora favorita de cada provincia en nuestro país ¿Cuál crees que es en la tuya?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/comida-sabe-tan-mal-despues-cepillarte-dientes-1275868'>Por qué la comida sabe tan mal después de cepillarte los dientes</a></h4>
-    <a href='https://computerhoy.com/life/comida-sabe-tan-mal-despues-cepillarte-dientes-1275868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cepillar-dientes-3087252.jpg?tf=1200x' alt='Por qué la comida sabe tan mal después de cepillarte los dientes' />
     </a>
 </div>
 
