@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-prime-student-como-darte-alta-prueba-gratis-incluida-1277730'>Amazon Prime Student: qué es y cómo darte de alta (con prueba gratis incluida)</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-prime-student-como-darte-alta-prueba-gratis-incluida-1277730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-prime-student-2547387.jpg?tf=1200x' alt='Amazon Prime Student: qué es y cómo darte de alta (con prueba gratis incluida)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-trabaja-ia-competir-chatgpt-bard-1277874'>Apple trabaja en una IA para competir contra ChatGPT y Bard, según Gurman</a></h4>
+    <a href='https://computerhoy.com/apple/apple-trabaja-ia-competir-chatgpt-bard-1277874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tim-cook-2806641.jpg?tf=1200x' alt='Apple trabaja en una IA para competir contra ChatGPT y Bard, según Gurman' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/factores-inesperados-afectan-wifi-router-debes-hacer-1277848'>Factores inesperados que afectan al WiFi de tu router y lo que debes hacer</a></h4>
     <a href='https://computerhoy.com/internet/factores-inesperados-afectan-wifi-router-debes-hacer-1277848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-3029308.jpg?tf=1200x' alt='Factores inesperados que afectan al WiFi de tu router y lo que debes hacer' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/whatsapp-estrena-app-wear-os-hacerlo-todo-muneca-1277816'>Adiós al teléfono: WhatsApp estrena app para Wear OS que te dejará hacer todo desde la muñeca</a></h4>
     <a href='https://computerhoy.com/tecnologia/whatsapp-estrena-app-wear-os-hacerlo-todo-muneca-1277816' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/whatsapp-wear-os-3088028.jpg?tf=1200x' alt='Adiós al teléfono: WhatsApp estrena app para Wear OS que te dejará hacer todo desde la muñeca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/truco-arregla-completo-escritura-teclado-iphone-1277784'>El teclado de iPhone "se ha vuelto horrible", pero puedes solucionarlo con un simple truco</a></h4>
-    <a href='https://computerhoy.com/tecnologia/truco-arregla-completo-escritura-teclado-iphone-1277784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/persona-iphone-3087996.jpg?tf=1200x' alt='El teclado de iPhone "se ha vuelto horrible", pero puedes solucionarlo con un simple truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/sencillo-consejo-expertos-elimina-90-riesgos-seguridad-movil-1270840'>El sencillo consejo de los expertos que elimina el 90% de los riesgos de seguridad de tu móvil</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/sencillo-consejo-expertos-elimina-90-riesgos-seguridad-movil-1270840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/seguridad-movil-3075906.jpg?tf=1200x' alt='El sencillo consejo de los expertos que elimina el 90% de los riesgos de seguridad de tu móvil' />
     </a>
 </div>
 
