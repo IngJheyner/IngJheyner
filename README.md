@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/conducir-vista-posible-sistema-blue-cruise-ford-1273678'>Conducir con los ojos ya es posible: esta es la tecnología que utiliza el sistema Blue Cruise de Ford</a></h4>
-    <a href='https://computerhoy.com/motor/conducir-vista-posible-sistema-blue-cruise-ford-1273678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ford-bluecruise-activado-3080810.jpg?tf=1200x' alt='Conducir con los ojos ya es posible: esta es la tecnología que utiliza el sistema Blue Cruise de Ford' />
+    <h4><a href='https://computerhoy.com/apple/iphone-16-pro-max-apple-podria-revolucionar-fotografia-nueva-super-camara-1277612'>El iPhone 16 Pro Max de Apple podría revolucionar la fotografía con una nueva súper cámara</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-pro-max-apple-podria-revolucionar-fotografia-nueva-super-camara-1277612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/iphone-16-pro-max-apple-podria-revolucionar-fotografia-nueva-super-camara-3087592.jpg?tf=1200x' alt='El iPhone 16 Pro Max de Apple podría revolucionar la fotografía con una nueva súper cámara' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/encuentran-playa-australia-misterioso-objeto-proviene-espacio-1277542'>Encuentran en una playa de Australia un misterioso objeto, solo se sabe que proviene del espacio</a></h4>
-    <a href='https://computerhoy.com/espacio/encuentran-playa-australia-misterioso-objeto-proviene-espacio-1277542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/encuentran-playa-australia-misterioso-objeto-solo-sabe-proviene-espacio-3087494.jpg?tf=1200x' alt='Encuentran en una playa de Australia un misterioso objeto, solo se sabe que proviene del espacio' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/wormgpt-ia-tipo-chatgpt-entrenada-crear-malware-1276936'>Así es WormGPT, una inteligencia artificial tipo ChatGPT pensada para hacer 'cosas malas'</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/wormgpt-ia-tipo-chatgpt-entrenada-crear-malware-1276936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/wormgpt-inteligencia-artificial-entrenada-crear-malware-pidas-3086062.jpg?tf=1200x' alt='Así es WormGPT, una inteligencia artificial tipo ChatGPT pensada para hacer 'cosas malas'' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuanto-cuesta-dejar-ventilador-encendido-toda-noche-1276600'>Cuánto cuesta dejar el ventilador encendido toda la noche</a></h4>
-    <a href='https://computerhoy.com/life/cuanto-cuesta-dejar-ventilador-encendido-toda-noche-1276600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ventilador-precio-noche-3085884.jpg?tf=1200x' alt='Cuánto cuesta dejar el ventilador encendido toda la noche' />
+    <h4><a href='https://computerhoy.com/gaming/adios-iconico-restaurante-imitaba-cluckin-bell-gta-copia-fue-manos-1277584'>Adiós al icónico restaurante que imitaba al Cluckin' Bell de GTA: la copia se les fue de las manos</a></h4>
+    <a href='https://computerhoy.com/gaming/adios-iconico-restaurante-imitaba-cluckin-bell-gta-copia-fue-manos-1277584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/adios-iconico-restaurante-imitaba-cluckin-bell-gta-copia-fue-manos-3087538.jpg?tf=1200x' alt='Adiós al icónico restaurante que imitaba al Cluckin' Bell de GTA: la copia se les fue de las manos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/8-webs-son-mejores-youtube-muchos-usuarios-1256960'>8 webs que son mejores que YouTube para muchos usuarios</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/8-webs-son-mejores-youtube-muchos-usuarios-1256960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/viendo-videos-3052426.jpg?tf=1200x' alt='8 webs que son mejores que YouTube para muchos usuarios' />
+    <h4><a href='https://computerhoy.com/life/mapa-muestra-teleoperadora-favorita-cada-provincia-1277256'>Este mapa muestra la teleoperadora favorita de cada provincia en nuestro país ¿Cuál crees que es en la tuya?</a></h4>
+    <a href='https://computerhoy.com/life/mapa-muestra-teleoperadora-favorita-cada-provincia-1277256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mapa-teleco-espana-3087186.jpg?tf=1200x' alt='Este mapa muestra la teleoperadora favorita de cada provincia en nuestro país ¿Cuál crees que es en la tuya?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/botones-camisa-estan-lados-diferentes-hombres-mujeres-1275866'>Por qué los botones de la camisa están en lados diferentes para hombres y mujeres</a></h4>
-    <a href='https://computerhoy.com/life/botones-camisa-estan-lados-diferentes-hombres-mujeres-1275866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/camisa-hombre-3084854.jpg?tf=1200x' alt='Por qué los botones de la camisa están en lados diferentes para hombres y mujeres' />
+    <h4><a href='https://computerhoy.com/life/comida-sabe-tan-mal-despues-cepillarte-dientes-1275868'>Por qué la comida sabe tan mal después de cepillarte los dientes</a></h4>
+    <a href='https://computerhoy.com/life/comida-sabe-tan-mal-despues-cepillarte-dientes-1275868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cepillar-dientes-3087252.jpg?tf=1200x' alt='Por qué la comida sabe tan mal después de cepillarte los dientes' />
     </a>
 </div>
 
