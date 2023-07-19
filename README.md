@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/reproductor-musica-plexamp-gratis-puedes-descargarlo-1277746'>El reproductor de música Plexamp es gratis y así puedes descargarlo</a></h4>
+    <a href='https://computerhoy.com/apps/reproductor-musica-plexamp-gratis-puedes-descargarlo-1277746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/reproductor-musica-plexamp-gratis-puedes-descargarlo-3087804.jpg?tf=1200x' alt='El reproductor de música Plexamp es gratis y así puedes descargarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/como-afectara-macos-sonoma-mac-intel-duracion-soporte-compatibilidad-rendimiento-1277722'>Cómo afectará macOS Sonoma a los Mac con Intel: duración del soporte, compatibilidad y rendimiento</a></h4>
     <a href='https://computerhoy.com/apple/como-afectara-macos-sonoma-mac-intel-duracion-soporte-compatibilidad-rendimiento-1277722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/malware-macos.jpg?tf=1200x' alt='Cómo afectará macOS Sonoma a los Mac con Intel: duración del soporte, compatibilidad y rendimiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/casa-herrero-cuchillo-palo-google-limitara-uso-internet-empleados-1277660'>La razón por la que Google limita el uso de internet a algunos de sus empleados</a></h4>
     <a href='https://computerhoy.com/google/casa-herrero-cuchillo-palo-google-limitara-uso-internet-empleados-1277660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/logo-google-roto-3017288.jpg?tf=1200x' alt='La razón por la que Google limita el uso de internet a algunos de sus empleados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/razon-tim-cook-jeff-bezos-son-mucho-productivos-yo-1277628'>Esta es la razón por la que Tim Cook y Jeff Bezos pueden hacer más cosas que el resto de la humanidad</a></h4>
-    <a href='https://computerhoy.com/life/razon-tim-cook-jeff-bezos-son-mucho-productivos-yo-1277628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/razon-tim-cook-jeff-bezos-pueden-hacer-cosas-resto-humanidad-3087660.jpg?tf=1200x' alt='Esta es la razón por la que Tim Cook y Jeff Bezos pueden hacer más cosas que el resto de la humanidad' />
     </a>
 </div>
 
