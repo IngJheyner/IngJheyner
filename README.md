@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/conducir-vista-posible-sistema-blue-cruise-ford-1273678'>Conducir con los ojos ya es posible: esta es la tecnología que utiliza el sistema Blue Cruise de Ford</a></h4>
+    <a href='https://computerhoy.com/motor/conducir-vista-posible-sistema-blue-cruise-ford-1273678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ford-bluecruise-activado-3080810.jpg?tf=1200x' alt='Conducir con los ojos ya es posible: esta es la tecnología que utiliza el sistema Blue Cruise de Ford' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/encuentran-playa-australia-misterioso-objeto-proviene-espacio-1277542'>Encuentran en una playa de Australia un misterioso objeto, solo se sabe que proviene del espacio</a></h4>
+    <a href='https://computerhoy.com/espacio/encuentran-playa-australia-misterioso-objeto-proviene-espacio-1277542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/encuentran-playa-australia-misterioso-objeto-solo-sabe-proviene-espacio-3087494.jpg?tf=1200x' alt='Encuentran en una playa de Australia un misterioso objeto, solo se sabe que proviene del espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cuanto-cuesta-dejar-ventilador-encendido-toda-noche-1276600'>Cuánto cuesta dejar el ventilador encendido toda la noche</a></h4>
+    <a href='https://computerhoy.com/life/cuanto-cuesta-dejar-ventilador-encendido-toda-noche-1276600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ventilador-precio-noche-3085884.jpg?tf=1200x' alt='Cuánto cuesta dejar el ventilador encendido toda la noche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/8-webs-son-mejores-youtube-muchos-usuarios-1256960'>8 webs que son mejores que YouTube para muchos usuarios</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/8-webs-son-mejores-youtube-muchos-usuarios-1256960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/viendo-videos-3052426.jpg?tf=1200x' alt='8 webs que son mejores que YouTube para muchos usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/botones-camisa-estan-lados-diferentes-hombres-mujeres-1275866'>Por qué los botones de la camisa están en lados diferentes para hombres y mujeres</a></h4>
     <a href='https://computerhoy.com/life/botones-camisa-estan-lados-diferentes-hombres-mujeres-1275866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/camisa-hombre-3084854.jpg?tf=1200x' alt='Por qué los botones de la camisa están en lados diferentes para hombres y mujeres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-alia-microsoft-anuncia-llama-2-inteligencia-artificial-gratuita-rival-gpt-4-1277308'>Meta se alía con Microsoft y lanza Llama 2, su nueva IA gratuita que compite con GPT-4</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-alia-microsoft-anuncia-llama-2-inteligencia-artificial-gratuita-rival-gpt-4-1277308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/meta-alia-microsoft-lanza-llama-2-nueva-ia-gratuita-compite-gpt-4-3087254.jpg?tf=1200x' alt='Meta se alía con Microsoft y lanza Llama 2, su nueva IA gratuita que compite con GPT-4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-meta-unen-fuerzas-integrar-inteligencia-artificial-dispositivos-moviles-ordenadores-1277300'>Qualcomm y Meta unen fuerzas para integrar la inteligencia artificial en dispositivos móviles y ordenadores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/qualcomm-meta-unen-fuerzas-integrar-inteligencia-artificial-dispositivos-moviles-ordenadores-1277300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ia-moviles-3087260.jpg?tf=1200x' alt='Qualcomm y Meta unen fuerzas para integrar la inteligencia artificial en dispositivos móviles y ordenadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-365-vuelve-inteligente-nuevas-herramientas-ia-bing-chat-enterprise-1277292'>Microsoft 365 se vuelve más inteligente con nuevas herramientas de IA y Bing Chat Enterprise</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-365-vuelve-inteligente-nuevas-herramientas-ia-bing-chat-enterprise-1277292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/microsoft-365-2848843.jpg?tf=1200x' alt='Microsoft 365 se vuelve más inteligente con nuevas herramientas de IA y Bing Chat Enterprise' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-reiniciar-restablecer-router-tienes-problemas-conexion-1277236'>Cómo reiniciar o restablecer tu router en caso de problemas con la conexión</a></h4>
-    <a href='https://computerhoy.com/internet/como-reiniciar-restablecer-router-tienes-problemas-conexion-1277236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/router-2476823.jpg?tf=1200x' alt='Cómo reiniciar o restablecer tu router en caso de problemas con la conexión' />
     </a>
 </div>
 
