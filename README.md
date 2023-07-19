@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/botones-camisa-estan-lados-diferentes-hombres-mujeres-1275866'>Por qué los botones de la camisa están en lados diferentes para hombres y mujeres</a></h4>
+    <a href='https://computerhoy.com/life/botones-camisa-estan-lados-diferentes-hombres-mujeres-1275866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/camisa-hombre-3084854.jpg?tf=1200x' alt='Por qué los botones de la camisa están en lados diferentes para hombres y mujeres' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/meta-alia-microsoft-anuncia-llama-2-inteligencia-artificial-gratuita-rival-gpt-4-1277308'>Meta se alía con Microsoft y lanza Llama 2, su nueva IA gratuita que compite con GPT-4</a></h4>
     <a href='https://computerhoy.com/tecnologia/meta-alia-microsoft-anuncia-llama-2-inteligencia-artificial-gratuita-rival-gpt-4-1277308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/meta-alia-microsoft-lanza-llama-2-nueva-ia-gratuita-compite-gpt-4-3087254.jpg?tf=1200x' alt='Meta se alía con Microsoft y lanza Llama 2, su nueva IA gratuita que compite con GPT-4' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/como-reiniciar-restablecer-router-tienes-problemas-conexion-1277236'>Cómo reiniciar o restablecer tu router en caso de problemas con la conexión</a></h4>
     <a href='https://computerhoy.com/internet/como-reiniciar-restablecer-router-tienes-problemas-conexion-1277236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/router-2476823.jpg?tf=1200x' alt='Cómo reiniciar o restablecer tu router en caso de problemas con la conexión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sitio-web-funciona-ibm-pcjr-hace-39-anos-lleva-2500-horas-ininterrumpidas-1277284'>Este sitio web funciona con un IBM PCjr de hace 39 años y lleva más de 2500 horas ininterrumpidas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sitio-web-funciona-ibm-pcjr-hace-39-anos-lleva-2500-horas-ininterrumpidas-1277284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ordenador-clasico-3087242.jpg?tf=1200x' alt='Este sitio web funciona con un IBM PCjr de hace 39 años y lleva más de 2500 horas ininterrumpidas' />
     </a>
 </div>
 
