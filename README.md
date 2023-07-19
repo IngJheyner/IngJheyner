@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/meta-alia-microsoft-anuncia-llama-2-inteligencia-artificial-gratuita-rival-gpt-4-1277308'>Meta se alía con Microsoft y lanza Llama 2, su nueva IA gratuita que compite con GPT-4</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-alia-microsoft-anuncia-llama-2-inteligencia-artificial-gratuita-rival-gpt-4-1277308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/meta-alia-microsoft-lanza-llama-2-nueva-ia-gratuita-compite-gpt-4-3087254.jpg?tf=1200x' alt='Meta se alía con Microsoft y lanza Llama 2, su nueva IA gratuita que compite con GPT-4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-meta-unen-fuerzas-integrar-inteligencia-artificial-dispositivos-moviles-ordenadores-1277300'>Qualcomm y Meta unen fuerzas para integrar la inteligencia artificial en dispositivos móviles y ordenadores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/qualcomm-meta-unen-fuerzas-integrar-inteligencia-artificial-dispositivos-moviles-ordenadores-1277300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ia-moviles-3087260.jpg?tf=1200x' alt='Qualcomm y Meta unen fuerzas para integrar la inteligencia artificial en dispositivos móviles y ordenadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-365-vuelve-inteligente-nuevas-herramientas-ia-bing-chat-enterprise-1277292'>Microsoft 365 se vuelve más inteligente con nuevas herramientas de IA y Bing Chat Enterprise</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-365-vuelve-inteligente-nuevas-herramientas-ia-bing-chat-enterprise-1277292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/microsoft-365-2848843.jpg?tf=1200x' alt='Microsoft 365 se vuelve más inteligente con nuevas herramientas de IA y Bing Chat Enterprise' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sitio-web-funciona-ibm-pcjr-hace-39-anos-lleva-2500-horas-ininterrumpidas-1277284'>Este sitio web funciona con un IBM PCjr de hace 39 años y lleva más de 2500 horas ininterrumpidas</a></h4>
     <a href='https://computerhoy.com/tecnologia/sitio-web-funciona-ibm-pcjr-hace-39-anos-lleva-2500-horas-ininterrumpidas-1277284' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ordenador-clasico-3087242.jpg?tf=1200x' alt='Este sitio web funciona con un IBM PCjr de hace 39 años y lleva más de 2500 horas ininterrumpidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mujer-francesa-recibe-impacto-pequeno-meteorito-costillas-1277280'>Una mujer francesa recibe el impacto de un pequeño meteorito en sus costillas</a></h4>
-    <a href='https://computerhoy.com/life/mujer-francesa-recibe-impacto-pequeno-meteorito-costillas-1277280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/meteorito-3087238.jpg?tf=1200x' alt='Una mujer francesa recibe el impacto de un pequeño meteorito en sus costillas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cine-estrenos-movistar-plus-agosto-1277278'>Cine de vacaciones, terror y cine europeo entre los estrenos de Movistar Plus+ en agosto</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cine-estrenos-movistar-plus-agosto-1277278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cine-vacaciones-terror-cine-europeo-estrenos-movistar-plus-agosto-3087228.jpg?tf=1200x' alt='Cine de vacaciones, terror y cine europeo entre los estrenos de Movistar Plus+ en agosto' />
     </a>
 </div>
 
