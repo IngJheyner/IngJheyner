@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mujer-francesa-recibe-impacto-pequeno-meteorito-costillas-1277280'>Una mujer recibe el impacto de meteorito en sus costillas mientras tomaba café en su terraza</a></h4>
-    <a href='https://computerhoy.com/life/mujer-francesa-recibe-impacto-pequeno-meteorito-costillas-1277280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/meteorito-3087238.jpg?tf=1200x' alt='Una mujer recibe el impacto de meteorito en sus costillas mientras tomaba café en su terraza' />
+    <h4><a href='https://computerhoy.com/apple/como-afectara-macos-sonoma-mac-intel-duracion-soporte-compatibilidad-rendimiento-1277722'>Cómo afectará macOS Sonoma a los Mac con Intel: duración del soporte, compatibilidad y rendimiento</a></h4>
+    <a href='https://computerhoy.com/apple/como-afectara-macos-sonoma-mac-intel-duracion-soporte-compatibilidad-rendimiento-1277722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/malware-macos.jpg?tf=1200x' alt='Cómo afectará macOS Sonoma a los Mac con Intel: duración del soporte, compatibilidad y rendimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-te-confundas-verdadera-app-threads-debes-descargar-1277638'>No te confundas: esta es la verdadera app Threads que debes descargar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-te-confundas-verdadera-app-threads-debes-descargar-1277638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/adios-threads-union-europea-aplicacion-rival-twitter-no-llegara-momento-espana-3075242.jpg?tf=1200x' alt='No te confundas: esta es la verdadera app Threads que debes descargar' />
+    <h4><a href='https://computerhoy.com/life/funciona-metodo-underpaper-utilizan-ladrones-robarte-movil-te-enteres-1277694'>Así funciona el método "Underpaper" que utilizan los ladrones para robarte el móvil sin que te enteres</a></h4>
+    <a href='https://computerhoy.com/life/funciona-metodo-underpaper-utilizan-ladrones-robarte-movil-te-enteres-1277694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/funciona-metodo-underpaper-utilizan-ladrones-robarte-movil-te-enteres-3087742.jpg?tf=1200x' alt='Así funciona el método "Underpaper" que utilizan los ladrones para robarte el móvil sin que te enteres' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/duda-resuelta-instagram-notifica-personas-cuando-haces-captura-pantalla-1277616'>Duda resuelta: ¿Instagram notifica a las personas cuando haces una captura de pantalla?</a></h4>
-    <a href='https://computerhoy.com/redes/duda-resuelta-instagram-notifica-personas-cuando-haces-captura-pantalla-1277616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/duda-resuelta-instagram-notifica-personas-cuando-haces-captura-pantalla-3087618.jpg?tf=1200x' alt='Duda resuelta: ¿Instagram notifica a las personas cuando haces una captura de pantalla?' />
+    <h4><a href='https://computerhoy.com/life/motivo-bill-gates-dejo-escuchar-musica-ver-tv-durante-5-anos-1277696'>La increíble estrategia de Bill Gates que lo llevó al éxito: vivir sin música ni TV durante 5 años</a></h4>
+    <a href='https://computerhoy.com/life/motivo-bill-gates-dejo-escuchar-musica-ver-tv-durante-5-anos-1277696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/bill-gates.jpg?tf=1200x' alt='La increíble estrategia de Bill Gates que lo llevó al éxito: vivir sin música ni TV durante 5 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-16-pro-max-apple-podria-revolucionar-fotografia-nueva-super-camara-1277612'>El iPhone 16 Pro Max de Apple podría revolucionar la fotografía con una nueva súper cámara</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-16-pro-max-apple-podria-revolucionar-fotografia-nueva-super-camara-1277612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/iphone-16-pro-max-apple-podria-revolucionar-fotografia-nueva-super-camara-3087592.jpg?tf=1200x' alt='El iPhone 16 Pro Max de Apple podría revolucionar la fotografía con una nueva súper cámara' />
+    <h4><a href='https://computerhoy.com/google/casa-herrero-cuchillo-palo-google-limitara-uso-internet-empleados-1277660'>La razón por la que Google limita el uso de internet a algunos de sus empleados</a></h4>
+    <a href='https://computerhoy.com/google/casa-herrero-cuchillo-palo-google-limitara-uso-internet-empleados-1277660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/logo-google-roto-3017288.jpg?tf=1200x' alt='La razón por la que Google limita el uso de internet a algunos de sus empleados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/wormgpt-ia-tipo-chatgpt-entrenada-crear-malware-1276936'>Así es WormGPT, una inteligencia artificial tipo ChatGPT pensada para hacer 'cosas malas'</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/wormgpt-ia-tipo-chatgpt-entrenada-crear-malware-1276936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/wormgpt-inteligencia-artificial-entrenada-crear-malware-pidas-3086062.jpg?tf=1200x' alt='Así es WormGPT, una inteligencia artificial tipo ChatGPT pensada para hacer 'cosas malas'' />
+    <h4><a href='https://computerhoy.com/life/razon-tim-cook-jeff-bezos-son-mucho-productivos-yo-1277628'>Esta es la razón por la que Tim Cook y Jeff Bezos pueden hacer más cosas que el resto de la humanidad</a></h4>
+    <a href='https://computerhoy.com/life/razon-tim-cook-jeff-bezos-son-mucho-productivos-yo-1277628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/razon-tim-cook-jeff-bezos-pueden-hacer-cosas-resto-humanidad-3087660.jpg?tf=1200x' alt='Esta es la razón por la que Tim Cook y Jeff Bezos pueden hacer más cosas que el resto de la humanidad' />
     </a>
 </div>
 
