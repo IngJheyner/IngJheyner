@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/saca-maximo-rendimiento-ordenador-windows-app-gratuita-1277846'>Esta app gratuita transformará tu PC con Windows en un “superordenador”</a></h4>
-    <a href='https://computerhoy.com/windows/saca-maximo-rendimiento-ordenador-windows-app-gratuita-1277846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3088108.jpg?tf=1200x' alt='Esta app gratuita transformará tu PC con Windows en un “superordenador”' />
+    <h4><a href='https://computerhoy.com/internet/como-aprovechar-cable-ethernet-dispositivos-tienes-casa-1277818'>Cómo aprovechar los beneficios del cable Ethernet con los dispositivos que tienes por casa</a></h4>
+    <a href='https://computerhoy.com/internet/como-aprovechar-cable-ethernet-dispositivos-tienes-casa-1277818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cable-ethernet-3088212.jpg?tf=1200x' alt='Cómo aprovechar los beneficios del cable Ethernet con los dispositivos que tienes por casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/despues-movil-reloj-samsung-quiere-lleves-anillo-dedo-pero-1277312'>Después del móvil y el reloj, Samsung quiere que lleves un anillo en el dedo pero, ¿para qué?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/despues-movil-reloj-samsung-quiere-lleves-anillo-dedo-pero-1277312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/anillo-inteligente-3087272.jpg?tf=1200x' alt='Después del móvil y el reloj, Samsung quiere que lleves un anillo en el dedo pero, ¿para qué?' />
+    <h4><a href='https://computerhoy.com/apps/google-nearby-share-disponible-oficialmente-pc-windows-1278110'>Nearby Share de Google sale de la beta y ya está disponible para todos los ordenadores Windows</a></h4>
+    <a href='https://computerhoy.com/apps/google-nearby-share-disponible-oficialmente-pc-windows-1278110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nearby-share-3088440.jpg?tf=1200x' alt='Nearby Share de Google sale de la beta y ya está disponible para todos los ordenadores Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/invento-logra-enfriar-9-grados-estancia-electricidad-1277832'>El aire acondicionado tiene los días contados: este invento enfría 9 grados sin electricidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/invento-logra-enfriar-9-grados-estancia-electricidad-1277832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/cuanto-te-puede-costar-renovar-aire-acondicionado-casa-1960599.jpg?tf=1200x' alt='El aire acondicionado tiene los días contados: este invento enfría 9 grados sin electricidad' />
+    <h4><a href='https://computerhoy.com/tecnologia/historia-lg-1274274'>Historia de LG: de fabricar pasta de dientes a ser un líder en televisores y electrodomésticos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/historia-lg-1274274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-historia-lg-3081880.jpg?tf=1200x' alt='Historia de LG: de fabricar pasta de dientes a ser un líder en televisores y electrodomésticos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-prime-student-como-darte-alta-prueba-gratis-incluida-1277730'>Amazon Prime Student: qué es y cómo darte de alta (con prueba gratis incluida)</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-prime-student-como-darte-alta-prueba-gratis-incluida-1277730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-prime-student-2547387.jpg?tf=1200x' alt='Amazon Prime Student: qué es y cómo darte de alta (con prueba gratis incluida)' />
+    <h4><a href='https://computerhoy.com/analisis/realme-buds-air-5-pro-analisis-review-caracteristicas-opinion-1268010'>Realme Buds Air 5 Pro, análisis y opinión: sorprendentes por el precio que tienen</a></h4>
+    <a href='https://computerhoy.com/analisis/realme-buds-air-5-pro-analisis-review-caracteristicas-opinion-1268010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/realme-buds-air-5-pro-3071124.jpg?tf=1200x' alt='Realme Buds Air 5 Pro, análisis y opinión: sorprendentes por el precio que tienen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-trabaja-ia-competir-chatgpt-bard-1277874'>Apple trabaja en una IA para competir contra ChatGPT y Bard, según Gurman</a></h4>
-    <a href='https://computerhoy.com/apple/apple-trabaja-ia-competir-chatgpt-bard-1277874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tim-cook-2806641.jpg?tf=1200x' alt='Apple trabaja en una IA para competir contra ChatGPT y Bard, según Gurman' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521'>Estos son los mejores móviles con Snapdragon 8 Gen 1, uno de los procesadores más potentes de Qualcomm</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/carga-nothing-phone-3083246.jpg?tf=1200x' alt='Estos son los mejores móviles con Snapdragon 8 Gen 1, uno de los procesadores más potentes de Qualcomm' />
     </a>
 </div>
 
