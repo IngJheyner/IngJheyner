@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/despues-movil-reloj-samsung-quiere-lleves-anillo-dedo-pero-1277312'>Después del móvil y el reloj, Samsung quiere que lleves un anillo en el dedo pero, ¿para qué?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/despues-movil-reloj-samsung-quiere-lleves-anillo-dedo-pero-1277312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/anillo-inteligente-3087272.jpg?tf=1200x' alt='Después del móvil y el reloj, Samsung quiere que lleves un anillo en el dedo pero, ¿para qué?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/invento-logra-enfriar-9-grados-estancia-electricidad-1277832'>El aire acondicionado tiene los días contados: este invento enfría 9 grados sin electricidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/invento-logra-enfriar-9-grados-estancia-electricidad-1277832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/cuanto-te-puede-costar-renovar-aire-acondicionado-casa-1960599.jpg?tf=1200x' alt='El aire acondicionado tiene los días contados: este invento enfría 9 grados sin electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/amazon-prime-student-como-darte-alta-prueba-gratis-incluida-1277730'>Amazon Prime Student: qué es y cómo darte de alta (con prueba gratis incluida)</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-prime-student-como-darte-alta-prueba-gratis-incluida-1277730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/amazon-prime-student-2547387.jpg?tf=1200x' alt='Amazon Prime Student: qué es y cómo darte de alta (con prueba gratis incluida)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/factores-inesperados-afectan-wifi-router-debes-hacer-1277848'>Factores inesperados que afectan al WiFi de tu router y lo que debes hacer</a></h4>
     <a href='https://computerhoy.com/internet/factores-inesperados-afectan-wifi-router-debes-hacer-1277848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-3029308.jpg?tf=1200x' alt='Factores inesperados que afectan al WiFi de tu router y lo que debes hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/actualizacion-rompe-windows-10-1277842'>Esta actualización rompe Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/actualizacion-rompe-windows-10-1277842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/fin-soporte-windows-10-2369043.jpg?tf=1200x' alt='Esta actualización rompe Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/whatsapp-estrena-app-wear-os-hacerlo-todo-muneca-1277816'>Adiós al teléfono: WhatsApp estrena app para Wear OS que te dejará hacer todo desde la muñeca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/whatsapp-estrena-app-wear-os-hacerlo-todo-muneca-1277816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/whatsapp-wear-os-3088028.jpg?tf=1200x' alt='Adiós al teléfono: WhatsApp estrena app para Wear OS que te dejará hacer todo desde la muñeca' />
     </a>
 </div>
 
