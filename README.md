@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-aprovechar-cable-ethernet-dispositivos-tienes-casa-1277818'>Cómo aprovechar los beneficios del cable Ethernet con los dispositivos que tienes por casa</a></h4>
-    <a href='https://computerhoy.com/internet/como-aprovechar-cable-ethernet-dispositivos-tienes-casa-1277818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cable-ethernet-3088212.jpg?tf=1200x' alt='Cómo aprovechar los beneficios del cable Ethernet con los dispositivos que tienes por casa' />
+    <h4><a href='https://computerhoy.com/google/estas-34-extensiones-chrome-son-peligrosas-eliminalas-ya-mismo-1278246'>Estas 34 extensiones para Chrome son peligrosas: elimínalas ya mismo</a></h4>
+    <a href='https://computerhoy.com/google/estas-34-extensiones-chrome-son-peligrosas-eliminalas-ya-mismo-1278246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estas-5-extensiones-google-chrome-facilitaran-dotes-como-chef-2944570.jpg?tf=1200x' alt='Estas 34 extensiones para Chrome son peligrosas: elimínalas ya mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-nearby-share-disponible-oficialmente-pc-windows-1278110'>Nearby Share de Google sale de la beta y ya está disponible para todos los ordenadores Windows</a></h4>
-    <a href='https://computerhoy.com/apps/google-nearby-share-disponible-oficialmente-pc-windows-1278110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nearby-share-3088440.jpg?tf=1200x' alt='Nearby Share de Google sale de la beta y ya está disponible para todos los ordenadores Windows' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-volviendo-tonto-1278188'>ChatGPT se está volviendo más tonto y nadie entiende qué sucede</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-volviendo-tonto-1278188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-volviendo-tonto-nadie-entiende-sucede-3088564.jpg?tf=1200x' alt='ChatGPT se está volviendo más tonto y nadie entiende qué sucede' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/historia-lg-1274274'>Historia de LG: de fabricar pasta de dientes a ser un líder en televisores y electrodomésticos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/historia-lg-1274274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-historia-lg-3081880.jpg?tf=1200x' alt='Historia de LG: de fabricar pasta de dientes a ser un líder en televisores y electrodomésticos' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-venu-2-oferta-100-euros-menos-amazon-1277724'>Este reloj Garmin rivaliza con el Apple Watch: tiene entrenamientos en pantalla y ahora es 100 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-venu-2-oferta-100-euros-menos-amazon-1277724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/garmin-venu-2-3087780.jpg?tf=1200x' alt='Este reloj Garmin rivaliza con el Apple Watch: tiene entrenamientos en pantalla y ahora es 100 euros más barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/realme-buds-air-5-pro-analisis-review-caracteristicas-opinion-1268010'>Realme Buds Air 5 Pro, análisis y opinión: sorprendentes por el precio que tienen</a></h4>
-    <a href='https://computerhoy.com/analisis/realme-buds-air-5-pro-analisis-review-caracteristicas-opinion-1268010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/realme-buds-air-5-pro-3071124.jpg?tf=1200x' alt='Realme Buds Air 5 Pro, análisis y opinión: sorprendentes por el precio que tienen' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/muere-kevin-mitnick-conocido-como-hacker-famoso-historia-1278170'>Muere Kevin Mitnick, conocido como el "hacker más famoso de la historia"</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/muere-kevin-mitnick-conocido-como-hacker-famoso-historia-1278170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/muere-kevin-mitnick-conocido-como-hacker-famoso-historia-3088544.jpg?tf=1200x' alt='Muere Kevin Mitnick, conocido como el "hacker más famoso de la historia"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521'>Estos son los mejores móviles con Snapdragon 8 Gen 1, uno de los procesadores más potentes de Qualcomm</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-snapdragon-8-gen-1-1061521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/carga-nothing-phone-3083246.jpg?tf=1200x' alt='Estos son los mejores móviles con Snapdragon 8 Gen 1, uno de los procesadores más potentes de Qualcomm' />
+    <h4><a href='https://computerhoy.com/tecnologia/meta-cuerdas-reduce-especificaciones-nuevas-gafas-ar-1278164'>Meta contra las cuerdas: reduce las especificaciones de sus nuevas gafas AR </a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-cuerdas-reduce-especificaciones-nuevas-gafas-ar-1278164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/meta-3088504.jpg?tf=1200x' alt='Meta contra las cuerdas: reduce las especificaciones de sus nuevas gafas AR ' />
     </a>
 </div>
 
