@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-peligro-convertir-humanidad-materia-gris-1278274'>Futuro apocalíptico: la inteligencia artificial y el peligro de convertir a la humanidad en materia gris</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-peligro-convertir-humanidad-materia-gris-1278274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/futuro-apocaliptico-inteligencia-artificial-peligro-convertir-humanidad-materia-gris-3088740.jpg?tf=1200x' alt='Futuro apocalíptico: la inteligencia artificial y el peligro de convertir a la humanidad en materia gris' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-foundry-vs-tsmc-batalla-soc-snapdragon-qualcomm-1278248'>Samsung Foundry vs TSMC: la batalla por los SoC Snapdragon de Qualcomm</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-foundry-vs-tsmc-batalla-soc-snapdragon-qualcomm-1278248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/tsmc-construira-chips-2-nm-2024-2421999.jpg?tf=1200x' alt='Samsung Foundry vs TSMC: la batalla por los SoC Snapdragon de Qualcomm' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ataques-ddos-sofisticados-disparan-objetivo-derribar-redes-servicios-linea-1278230'>Los ataques DDoS sofisticados se disparan y se convierten en casi imparables para los expertos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ataques-ddos-sofisticados-disparan-objetivo-derribar-redes-servicios-linea-1278230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ataques-ddos-sofisticados-disparan-objetivo-derribar-redes-servicios-linea-3088656.jpg?tf=1200x' alt='Los ataques DDoS sofisticados se disparan y se convierten en casi imparables para los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/alerta-alimentaria-piden-no-consumir-estas-tortillas-carrefour-dia-otros-supermercados-1278252'>Alerta alimentaria: Piden no consumir estas tortillas de Carrefour, Dia y otros supermercados</a></h4>
+    <a href='https://computerhoy.com/life/alerta-alimentaria-piden-no-consumir-estas-tortillas-carrefour-dia-otros-supermercados-1278252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/alerta-alimentaria-piden-no-consumir-estas-tortillas-carrefour-dia-otros-supermercados-3088730.jpg?tf=1200x' alt='Alerta alimentaria: Piden no consumir estas tortillas de Carrefour, Dia y otros supermercados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/estas-34-extensiones-chrome-son-peligrosas-eliminalas-ya-mismo-1278246'>Estas 34 extensiones para Chrome son peligrosas: elimínalas ya mismo</a></h4>
     <a href='https://computerhoy.com/google/estas-34-extensiones-chrome-son-peligrosas-eliminalas-ya-mismo-1278246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/estas-5-extensiones-google-chrome-facilitaran-dotes-como-chef-2944570.jpg?tf=1200x' alt='Estas 34 extensiones para Chrome son peligrosas: elimínalas ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-volviendo-tonto-1278188'>ChatGPT se está volviendo más tonto y nadie entiende qué sucede</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-volviendo-tonto-1278188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-volviendo-tonto-nadie-entiende-sucede-3088564.jpg?tf=1200x' alt='ChatGPT se está volviendo más tonto y nadie entiende qué sucede' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-venu-2-oferta-100-euros-menos-amazon-1277724'>Este reloj Garmin rivaliza con el Apple Watch: tiene entrenamientos en pantalla y ahora es 100 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-venu-2-oferta-100-euros-menos-amazon-1277724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/garmin-venu-2-3087780.jpg?tf=1200x' alt='Este reloj Garmin rivaliza con el Apple Watch: tiene entrenamientos en pantalla y ahora es 100 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/muere-kevin-mitnick-conocido-como-hacker-famoso-historia-1278170'>Muere Kevin Mitnick, conocido como el "hacker más famoso de la historia"</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/muere-kevin-mitnick-conocido-como-hacker-famoso-historia-1278170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/muere-kevin-mitnick-conocido-como-hacker-famoso-historia-3088544.jpg?tf=1200x' alt='Muere Kevin Mitnick, conocido como el "hacker más famoso de la historia"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-cuerdas-reduce-especificaciones-nuevas-gafas-ar-1278164'>Meta contra las cuerdas: reduce las especificaciones de sus nuevas gafas AR </a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-cuerdas-reduce-especificaciones-nuevas-gafas-ar-1278164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/meta-3088504.jpg?tf=1200x' alt='Meta contra las cuerdas: reduce las especificaciones de sus nuevas gafas AR ' />
     </a>
 </div>
 
