@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/mejores-miniseries-netflix-1255114'>Las mejores miniseries exclusivas de Netflix para ver en un fin de semana </a></h4>
+    <a href='https://computerhoy.com/streaming/mejores-miniseries-netflix-1255114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/miniseries-netflix-ver-fin-semana-3089032.jpg?tf=1200x' alt='Las mejores miniseries exclusivas de Netflix para ver en un fin de semana ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/portatil-intel-i7-ssd-windows-11-precio-inimaginable-1278238'>Este portátil con Intel i7, SSD y Windows 11 está a un precio inimaginable</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-intel-i7-ssd-windows-11-precio-inimaginable-1278238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lenovo-ideapad3-gen6-3088666.jpg?tf=1200x' alt='Este portátil con Intel i7, SSD y Windows 11 está a un precio inimaginable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/nuevos-emojis-3d-llegan-finalmente-windows-11-dos-anos-retraso-1278454'>Los nuevos emojis 3D llegan finalmente a Windows 11 con dos años de retraso</a></h4>
+    <a href='https://computerhoy.com/windows/nuevos-emojis-3d-llegan-finalmente-windows-11-dos-anos-retraso-1278454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/emojis-3d-windows-11-3089114.jpg?tf=1200x' alt='Los nuevos emojis 3D llegan finalmente a Windows 11 con dos años de retraso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/seria-partido-futbol-profesional-luna-planean-2035-1278450'>Así sería un partido de fútbol profesional en la Luna y lo planean para 2035</a></h4>
     <a href='https://computerhoy.com/life/seria-partido-futbol-profesional-luna-planean-2035-1278450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/seria-partido-futbol-profesional-luna-planean-2035-3089108.jpg?tf=1200x' alt='Así sería un partido de fútbol profesional en la Luna y lo planean para 2035' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/telefonica-quiere-erradicar-iptv-piratas-listas-canales-gratis-1278436'>Telefónica firma un acuerdo para acabar con las IPTV piratas y las listas de canales gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/telefonica-quiere-erradicar-iptv-piratas-listas-canales-gratis-1278436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iptv-2818055.jpg?tf=1200x' alt='Telefónica firma un acuerdo para acabar con las IPTV piratas y las listas de canales gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/disenan-exoesqueleto-barato-ligero-1278376'>Ligero y barato, así es el nuevo exoesqueleto para personas con movilidad reducida</a></h4>
-    <a href='https://computerhoy.com/life/disenan-exoesqueleto-barato-ligero-1278376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1689874343013-3089062.jpg?tf=1200x' alt='Ligero y barato, así es el nuevo exoesqueleto para personas con movilidad reducida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/teclados-inalambricos-1206964'>Teclados inalámbricos: qué tener en cuenta y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/mejores/teclados-inalambricos-1206964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logitech-k380-2969484.jpg?tf=1200x' alt='Teclados inalámbricos: qué tener en cuenta y cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/errores-comenten-nuevos-usuarios-android-1260958'>Errores que comenten los nuevos usuarios de Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/errores-comenten-nuevos-usuarios-android-1260958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/movil-android-2810561.jpg?tf=1200x' alt='Errores que comenten los nuevos usuarios de Android' />
     </a>
 </div>
 
