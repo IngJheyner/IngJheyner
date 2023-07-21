@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-suma-protocolo-pretende-unificar-aplicaciones-mensajeria-1278798'>Google se suma al protocolo que pretende unificar las aplicaciones de mensajería</a></h4>
+    <a href='https://computerhoy.com/google/google-suma-protocolo-pretende-unificar-aplicaciones-mensajeria-1278798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aplicacion-mensajes-google-pronto-te-permitira-obtener-respuestas-generadas-ia-2991048.jpg?tf=1200x' alt='Google se suma al protocolo que pretende unificar las aplicaciones de mensajería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/enfria-mucho-consume-menos-aire-acondicionado-torre-ventilacion-lidl-puede-salvarte-verano-1278752'>Enfría mucho y consume menos que el aire acondicionado: esta torre de ventilación de Lidl puede salvarte el verano</a></h4>
     <a href='https://computerhoy.com/hogar/enfria-mucho-consume-menos-aire-acondicionado-torre-ventilacion-lidl-puede-salvarte-verano-1278752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/torre-ventilacion-lidl-3089440.jpg?tf=1200x' alt='Enfría mucho y consume menos que el aire acondicionado: esta torre de ventilación de Lidl puede salvarte el verano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cientificos-shock-descubrir-metal-autorreparable-1278446'>Científicos en shock al descubrir que una pieza de metal agrietada se regeneró por sí misma</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-shock-descubrir-metal-autorreparable-1278446' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/metal-3089128.jpg?tf=1200x' alt='Científicos en shock al descubrir que una pieza de metal agrietada se regeneró por sí misma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/bateria-movil-agota-estas-son-aplicaciones-culpables-1278398'>La batería de tu móvil se agota y estas son las aplicaciones culpables</a></h4>
-    <a href='https://computerhoy.com/apps/bateria-movil-agota-estas-son-aplicaciones-culpables-1278398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/bateria-baja-3089030.jpg?tf=1200x' alt='La batería de tu móvil se agota y estas son las aplicaciones culpables' />
     </a>
 </div>
 
