@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/efectivo-metodo-memorizar-absolutamente-todo-2-pasos-1278444'>Así es el efectivo método que te permitirá memorizar absolutamente todo en 2 pasos</a></h4>
+    <a href='https://computerhoy.com/life/efectivo-metodo-memorizar-absolutamente-todo-2-pasos-1278444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/contorno-persona-3089112.jpg?tf=1200x' alt='Así es el efectivo método que te permitirá memorizar absolutamente todo en 2 pasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ia-recrea-como-serian-habitantes-cada-planeta-sistema-solar-1278440'>La IA recrea cómo serían los habitantes de cada planeta del sistema solar</a></h4>
+    <a href='https://computerhoy.com/life/ia-recrea-como-serian-habitantes-cada-planeta-sistema-solar-1278440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/habitantes-sistema-solar-3089126.jpg?tf=1200x' alt='La IA recrea cómo serían los habitantes de cada planeta del sistema solar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/significado-emoji-corazon-punto-abajo-whatsapp-1278448'>Este es el significado del emoji del corazón con un punto abajo de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/life/significado-emoji-corazon-punto-abajo-whatsapp-1278448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/significado-emoji-corazon-punto-abajo-whastapp-3089106.jpg?tf=1200x' alt='Este es el significado del emoji del corazón con un punto abajo de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/nueva-funcion-articulos-twitter-llego-hace-17-anos-exito-1278406'>La nueva función "Artículos" de Twitter fue lanzada hace 17 años por Facebook y fracasó</a></h4>
     <a href='https://computerhoy.com/redes/nueva-funcion-articulos-twitter-llego-hace-17-anos-exito-1278406' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-dueno-twitter-3074252.jpg?tf=1200x' alt='La nueva función "Artículos" de Twitter fue lanzada hace 17 años por Facebook y fracasó' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/streaming/mejores-miniseries-netflix-1255114'>Las mejores miniseries exclusivas de Netflix para ver en un fin de semana </a></h4>
     <a href='https://computerhoy.com/streaming/mejores-miniseries-netflix-1255114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/miniseries-netflix-ver-fin-semana-3089032.jpg?tf=1200x' alt='Las mejores miniseries exclusivas de Netflix para ver en un fin de semana ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-intel-i7-ssd-windows-11-precio-inimaginable-1278238'>Este portátil con Intel i7, SSD y Windows 11 está a un precio inimaginable</a></h4>
-    <a href='https://computerhoy.com/pc/portatil-intel-i7-ssd-windows-11-precio-inimaginable-1278238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lenovo-ideapad3-gen6-3088666.jpg?tf=1200x' alt='Este portátil con Intel i7, SSD y Windows 11 está a un precio inimaginable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nuevos-emojis-3d-llegan-finalmente-windows-11-dos-anos-retraso-1278454'>Los nuevos emojis 3D llegan finalmente a Windows 11 con dos años de retraso</a></h4>
-    <a href='https://computerhoy.com/windows/nuevos-emojis-3d-llegan-finalmente-windows-11-dos-anos-retraso-1278454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/emojis-3d-windows-11-3089114.jpg?tf=1200x' alt='Los nuevos emojis 3D llegan finalmente a Windows 11 con dos años de retraso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/seria-partido-futbol-profesional-luna-planean-2035-1278450'>Así sería un partido de fútbol profesional en la Luna y lo planean para 2035</a></h4>
-    <a href='https://computerhoy.com/life/seria-partido-futbol-profesional-luna-planean-2035-1278450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/seria-partido-futbol-profesional-luna-planean-2035-3089108.jpg?tf=1200x' alt='Así sería un partido de fútbol profesional en la Luna y lo planean para 2035' />
     </a>
 </div>
 
