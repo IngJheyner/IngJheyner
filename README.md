@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/codigo-secreto-aumentar-almacenamiento-interno-smartphone-android-1278844'>Este es el código secreto para aumentar el almacenamiento interno de tu smartphone Android</a></h4>
-    <a href='https://computerhoy.com/android/codigo-secreto-aumentar-almacenamiento-interno-smartphone-android-1278844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/smartphone-seguridad-2896398.jpg?tf=1200x' alt='Este es el código secreto para aumentar el almacenamiento interno de tu smartphone Android' />
+    <h4><a href='https://computerhoy.com/espacio/satelite-aeolus-descontrola-amenaza-tierra-esa-intentara-salvarnos-1278910'>El satélite Aeolus se descontrola y amenaza la Tierra: la ESA intentará salvarnos de su impacto</a></h4>
+    <a href='https://computerhoy.com/espacio/satelite-aeolus-descontrola-amenaza-tierra-esa-intentara-salvarnos-1278910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/satelite-3089914.jpg?tf=1200x' alt='El satélite Aeolus se descontrola y amenaza la Tierra: la ESA intentará salvarnos de su impacto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todavia-guardas-cd-dvd-casa-descubre-cuanto-tiempo-pueden-durar-1278842'>Todavía guardas CD o DVD en casa: descubre cuánto tiempo pueden durar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todavia-guardas-cd-dvd-casa-descubre-cuanto-tiempo-pueden-durar-1278842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cd-2787485.jpg?tf=1200x' alt='Todavía guardas CD o DVD en casa: descubre cuánto tiempo pueden durar' />
+    <h4><a href='https://computerhoy.com/apps/telegram-lanza-stories-nueva-funcion-solo-usuarios-premium-podran-disfrutar-1278936'>Telegram lanza Stories, la nueva función que solo los usuarios prémium podrán disfrutar</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-lanza-stories-nueva-funcion-solo-usuarios-premium-podran-disfrutar-1278936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/telegram-3063888.jpg?tf=1200x' alt='Telegram lanza Stories, la nueva función que solo los usuarios prémium podrán disfrutar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-afectara-crisis-componente-clave-iphone-15-pro-pro-max-1278858'>Cómo afectará la crisis de un componente clave al iPhone 15 Pro y Pro Max</a></h4>
-    <a href='https://computerhoy.com/apple/como-afectara-crisis-componente-clave-iphone-15-pro-pro-max-1278858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/extranas-predicciones-hablan-peor-rendimiento-iphone-15-pro-pro-max-2024-3057268.jpg?tf=1200x' alt='Cómo afectará la crisis de un componente clave al iPhone 15 Pro y Pro Max' />
+    <h4><a href='https://computerhoy.com/entretenimiento/youtube-gana-fortuna-perdiendo-dinero-tragaperras-1278840'>Este youtuber gana una auténtica fortuna perdiendo dinero: ¿cómo es posible?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/youtube-gana-fortuna-perdiendo-dinero-tragaperras-1278840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apuesa-prohibicion-twitch-tragaperras-2819935.jpg?tf=1200x' alt='Este youtuber gana una auténtica fortuna perdiendo dinero: ¿cómo es posible?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-verificar-contrasenas-han-filtrado-internet-no-son-seguras-1278766'>Cómo verificar que tus contraseñas se han filtrado en Internet y no son seguras</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-verificar-contrasenas-han-filtrado-internet-no-son-seguras-1278766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/administrador-contrasenas-3037946.jpg?tf=1200x' alt='Cómo verificar que tus contraseñas se han filtrado en Internet y no son seguras' />
+    <h4><a href='https://computerhoy.com/tecnologia/3-codigos-secretos-desbloquean-funciones-ocultas-movil-1273300'>3 códigos secretos que desbloquean funciones ocultas en tu móvil y que los técnicos no quieren que sepas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/3-codigos-secretos-desbloquean-funciones-ocultas-movil-1273300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/codigos-ocultos-3080282.jpg?tf=1200x' alt='3 códigos secretos que desbloquean funciones ocultas en tu móvil y que los técnicos no quieren que sepas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/gana-cristiano-ronaldo-kylie-jenner-cada-foto-suben-instagram-1278802'>Esto es lo que gana Cristiano Ronaldo o Kylie Jenner por cada foto que suben en Instagram</a></h4>
-    <a href='https://computerhoy.com/apps/gana-cristiano-ronaldo-kylie-jenner-cada-foto-suben-instagram-1278802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/gana-cristiano-ronaldo-kylie-jenner-instagram-cada-foto-suben-3089638.jpg?tf=1200x' alt='Esto es lo que gana Cristiano Ronaldo o Kylie Jenner por cada foto que suben en Instagram' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-netflix-babylon-liam-neeson-comedia-1278754'>Qué películas ver este fin de semana en Movistar Plus+, Prime Video y Netflix: Babylon, Liam Neeson y una comedia</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-netflix-babylon-liam-neeson-comedia-1278754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/peliculas-ver-fin-semana-movistar-plus-prime-video-netflix-babylon-liam-neeson-comedia-3089602.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Movistar Plus+, Prime Video y Netflix: Babylon, Liam Neeson y una comedia' />
     </a>
 </div>
 
