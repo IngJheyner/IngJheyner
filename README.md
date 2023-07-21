@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-suma-protocolo-pretende-unificar-aplicaciones-mensajeria-1278798'>Google se suma al protocolo que pretende unificar las aplicaciones de mensajería</a></h4>
-    <a href='https://computerhoy.com/google/google-suma-protocolo-pretende-unificar-aplicaciones-mensajeria-1278798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/aplicacion-mensajes-google-pronto-te-permitira-obtener-respuestas-generadas-ia-2991048.jpg?tf=1200x' alt='Google se suma al protocolo que pretende unificar las aplicaciones de mensajería' />
+    <h4><a href='https://computerhoy.com/android/codigo-secreto-aumentar-almacenamiento-interno-smartphone-android-1278844'>Este es el código secreto para aumentar el almacenamiento interno de tu smartphone Android</a></h4>
+    <a href='https://computerhoy.com/android/codigo-secreto-aumentar-almacenamiento-interno-smartphone-android-1278844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/smartphone-seguridad-2896398.jpg?tf=1200x' alt='Este es el código secreto para aumentar el almacenamiento interno de tu smartphone Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/enfria-mucho-consume-menos-aire-acondicionado-torre-ventilacion-lidl-puede-salvarte-verano-1278752'>Enfría mucho y consume menos que el aire acondicionado: esta torre de ventilación de Lidl puede salvarte el verano</a></h4>
-    <a href='https://computerhoy.com/hogar/enfria-mucho-consume-menos-aire-acondicionado-torre-ventilacion-lidl-puede-salvarte-verano-1278752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/torre-ventilacion-lidl-3089440.jpg?tf=1200x' alt='Enfría mucho y consume menos que el aire acondicionado: esta torre de ventilación de Lidl puede salvarte el verano' />
+    <h4><a href='https://computerhoy.com/tecnologia/todavia-guardas-cd-dvd-casa-descubre-cuanto-tiempo-pueden-durar-1278842'>Todavía guardas CD o DVD en casa: descubre cuánto tiempo pueden durar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todavia-guardas-cd-dvd-casa-descubre-cuanto-tiempo-pueden-durar-1278842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/cd-2787485.jpg?tf=1200x' alt='Todavía guardas CD o DVD en casa: descubre cuánto tiempo pueden durar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-quiere-desarrollar-cuerpo-robotico-personas-miembros-amputados-1278716'>Elon Musk quiere desarrollar un cuerpo robótico para las personas con miembros amputados</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-quiere-desarrollar-cuerpo-robotico-personas-miembros-amputados-1278716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-quiere-desarrollar-cuerpo-robotico-personas-miembros-amputados-3089418.jpg?tf=1200x' alt='Elon Musk quiere desarrollar un cuerpo robótico para las personas con miembros amputados' />
+    <h4><a href='https://computerhoy.com/apple/como-afectara-crisis-componente-clave-iphone-15-pro-pro-max-1278858'>Cómo afectará la crisis de un componente clave al iPhone 15 Pro y Pro Max</a></h4>
+    <a href='https://computerhoy.com/apple/como-afectara-crisis-componente-clave-iphone-15-pro-pro-max-1278858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/extranas-predicciones-hablan-peor-rendimiento-iphone-15-pro-pro-max-2024-3057268.jpg?tf=1200x' alt='Cómo afectará la crisis de un componente clave al iPhone 15 Pro y Pro Max' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/funciona-protocolo-cocaine-kale-permite-encontrar-equilibro-movil-1278708'>Así funciona el "Protocolo Cocaine-Kale" que permite encontrar el equilibro con el móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/funciona-protocolo-cocaine-kale-permite-encontrar-equilibro-movil-1278708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/funciona-protocolo-cocaine-kale-permite-encontrar-equilibro-moviles-3089410.jpg?tf=1200x' alt='Así funciona el "Protocolo Cocaine-Kale" que permite encontrar el equilibro con el móvil' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-verificar-contrasenas-han-filtrado-internet-no-son-seguras-1278766'>Cómo verificar que tus contraseñas se han filtrado en Internet y no son seguras</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-verificar-contrasenas-han-filtrado-internet-no-son-seguras-1278766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/administrador-contrasenas-3037946.jpg?tf=1200x' alt='Cómo verificar que tus contraseñas se han filtrado en Internet y no son seguras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-shock-descubrir-metal-autorreparable-1278446'>Científicos en shock al descubrir que una pieza de metal agrietada se regeneró por sí misma</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-shock-descubrir-metal-autorreparable-1278446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/metal-3089128.jpg?tf=1200x' alt='Científicos en shock al descubrir que una pieza de metal agrietada se regeneró por sí misma' />
+    <h4><a href='https://computerhoy.com/apps/gana-cristiano-ronaldo-kylie-jenner-cada-foto-suben-instagram-1278802'>Esto es lo que gana Cristiano Ronaldo o Kylie Jenner por cada foto que suben en Instagram</a></h4>
+    <a href='https://computerhoy.com/apps/gana-cristiano-ronaldo-kylie-jenner-cada-foto-suben-instagram-1278802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/gana-cristiano-ronaldo-kylie-jenner-instagram-cada-foto-suben-3089638.jpg?tf=1200x' alt='Esto es lo que gana Cristiano Ronaldo o Kylie Jenner por cada foto que suben en Instagram' />
     </a>
 </div>
 
