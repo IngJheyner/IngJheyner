@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/nueva-funcion-articulos-twitter-llego-hace-17-anos-exito-1278406'>La nueva función "Artículos" de Twitter fue lanzada hace 17 años por Facebook y fracasó</a></h4>
+    <a href='https://computerhoy.com/redes/nueva-funcion-articulos-twitter-llego-hace-17-anos-exito-1278406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-dueno-twitter-3074252.jpg?tf=1200x' alt='La nueva función "Artículos" de Twitter fue lanzada hace 17 años por Facebook y fracasó' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/streaming/mejores-miniseries-netflix-1255114'>Las mejores miniseries exclusivas de Netflix para ver en un fin de semana </a></h4>
     <a href='https://computerhoy.com/streaming/mejores-miniseries-netflix-1255114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/miniseries-netflix-ver-fin-semana-3089032.jpg?tf=1200x' alt='Las mejores miniseries exclusivas de Netflix para ver en un fin de semana ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/seria-partido-futbol-profesional-luna-planean-2035-1278450'>Así sería un partido de fútbol profesional en la Luna y lo planean para 2035</a></h4>
     <a href='https://computerhoy.com/life/seria-partido-futbol-profesional-luna-planean-2035-1278450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/seria-partido-futbol-profesional-luna-planean-2035-3089108.jpg?tf=1200x' alt='Así sería un partido de fútbol profesional en la Luna y lo planean para 2035' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/telefonica-quiere-erradicar-iptv-piratas-listas-canales-gratis-1278436'>Telefónica firma un acuerdo para acabar con las IPTV piratas y las listas de canales gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/telefonica-quiere-erradicar-iptv-piratas-listas-canales-gratis-1278436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iptv-2818055.jpg?tf=1200x' alt='Telefónica firma un acuerdo para acabar con las IPTV piratas y las listas de canales gratis' />
     </a>
 </div>
 
