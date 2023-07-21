@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/bateria-movil-agota-estas-son-aplicaciones-culpables-1278398'>La batería de tu móvil se agota y estas son las aplicaciones culpables</a></h4>
+    <a href='https://computerhoy.com/apps/bateria-movil-agota-estas-son-aplicaciones-culpables-1278398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/bateria-baja-3089030.jpg?tf=1200x' alt='La batería de tu móvil se agota y estas son las aplicaciones culpables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-watch-ultra-analisis-deportivo-reloj-estrella-apple-1273220'>Hemos probado el Apple Watch Ultra para 6 deportes diferentes: así ha sido la experiencia y estos son los que más nos han gustado</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-ultra-analisis-deportivo-reloj-estrella-apple-1273220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3086868.jpg?tf=1200x' alt='Hemos probado el Apple Watch Ultra para 6 deportes diferentes: así ha sido la experiencia y estos son los que más nos han gustado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/efectivo-metodo-memorizar-absolutamente-todo-2-pasos-1278444'>Así es el efectivo método que te permitirá memorizar absolutamente todo en 2 pasos</a></h4>
     <a href='https://computerhoy.com/life/efectivo-metodo-memorizar-absolutamente-todo-2-pasos-1278444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/contorno-persona-3089112.jpg?tf=1200x' alt='Así es el efectivo método que te permitirá memorizar absolutamente todo en 2 pasos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/significado-emoji-corazon-punto-abajo-whatsapp-1278448'>Este es el significado del emoji del corazón con un punto abajo de WhatsApp</a></h4>
     <a href='https://computerhoy.com/life/significado-emoji-corazon-punto-abajo-whatsapp-1278448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/significado-emoji-corazon-punto-abajo-whastapp-3089106.jpg?tf=1200x' alt='Este es el significado del emoji del corazón con un punto abajo de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/nueva-funcion-articulos-twitter-llego-hace-17-anos-exito-1278406'>La nueva función "Artículos" de Twitter fue lanzada hace 17 años por Facebook y fracasó</a></h4>
-    <a href='https://computerhoy.com/redes/nueva-funcion-articulos-twitter-llego-hace-17-anos-exito-1278406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-dueno-twitter-3074252.jpg?tf=1200x' alt='La nueva función "Artículos" de Twitter fue lanzada hace 17 años por Facebook y fracasó' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/mejores-miniseries-netflix-1255114'>Las mejores miniseries exclusivas de Netflix para ver en un fin de semana </a></h4>
-    <a href='https://computerhoy.com/streaming/mejores-miniseries-netflix-1255114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/miniseries-netflix-ver-fin-semana-3089032.jpg?tf=1200x' alt='Las mejores miniseries exclusivas de Netflix para ver en un fin de semana ' />
     </a>
 </div>
 
