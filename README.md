@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/turbina-piramidal-espanola-va-revolucionar-industria-eolica-1278974'>Una empresa española ha desarrollado una turbina piramidal que va a revolucionar la industria eólica</a></h4>
-    <a href='https://computerhoy.com/energia/turbina-piramidal-espanola-va-revolucionar-industria-eolica-1278974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1689960928287-3090076.jpg?tf=1200x' alt='Una empresa española ha desarrollado una turbina piramidal que va a revolucionar la industria eólica' />
+    <h4><a href='https://computerhoy.com/entretenimiento/directores-oppenheimer-barbie-explican-mejor-forma-ver-peliculas-1278986'>Estas son las salas en donde los directores de Oppenheimer y Barbie recomiendan ver sus películas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/directores-oppenheimer-barbie-explican-mejor-forma-ver-peliculas-1278986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oppenheimer-3064330.jpg?tf=1200x' alt='Estas son las salas en donde los directores de Oppenheimer y Barbie recomiendan ver sus películas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-solucionar-problema-youtube-estas-desconectado-1278358'>¿Cómo solucionar el problema de YouTube: "Estás desconectado"?</a></h4>
-    <a href='https://computerhoy.com/internet/como-solucionar-problema-youtube-estas-desconectado-1278358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/como-solucionar-problema-youtube-estas-desconectado-3088950.jpg?tf=1200x' alt='¿Cómo solucionar el problema de YouTube: "Estás desconectado"?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/ver-formula-1-dazn-precio-ofertas-todo-debes-saber-1208788'>Cómo ver la Fórmula 1 en DAZN: precio, ofertas y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ver-formula-1-dazn-precio-ofertas-todo-debes-saber-1208788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dazn-3088482.jpg?tf=1200x' alt='Cómo ver la Fórmula 1 en DAZN: precio, ofertas y todo lo que debes saber' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/satelite-aeolus-descontrola-amenaza-tierra-esa-intentara-salvarnos-1278910'>El satélite Aeolus se descontrola y amenaza la Tierra: la ESA intentará salvarnos de su impacto</a></h4>
-    <a href='https://computerhoy.com/espacio/satelite-aeolus-descontrola-amenaza-tierra-esa-intentara-salvarnos-1278910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/satelite-3089914.jpg?tf=1200x' alt='El satélite Aeolus se descontrola y amenaza la Tierra: la ESA intentará salvarnos de su impacto' />
+    <h4><a href='https://computerhoy.com/tecnologia/superordenador-rapido-mundo-alcanza-potencia-procesamiento-4-exaflops-1278982'>Este es el superordenador más rápido del mundo y alcanza una potencia de procesamiento de 4 exaflops</a></h4>
+    <a href='https://computerhoy.com/tecnologia/superordenador-rapido-mundo-alcanza-potencia-procesamiento-4-exaflops-1278982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/condor-galaxy-1-3090100.jpg?tf=1200x' alt='Este es el superordenador más rápido del mundo y alcanza una potencia de procesamiento de 4 exaflops' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-lanza-stories-nueva-funcion-solo-usuarios-premium-podran-disfrutar-1278936'>Telegram lanza Stories, la nueva función que solo los usuarios prémium podrán disfrutar</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-lanza-stories-nueva-funcion-solo-usuarios-premium-podran-disfrutar-1278936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/telegram-3063888.jpg?tf=1200x' alt='Telegram lanza Stories, la nueva función que solo los usuarios prémium podrán disfrutar' />
+    <h4><a href='https://computerhoy.com/apps/twitter-quiere-competir-linkedin-nueva-funcionalidad-empresas-verificadas-1278978'>Twitter quiere competir con LinkedIn con esta nueva funcionalidad para empresas verificadas</a></h4>
+    <a href='https://computerhoy.com/apps/twitter-quiere-competir-linkedin-nueva-funcionalidad-empresas-verificadas-1278978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/twitter-linkedin-3090094.jpg?tf=1200x' alt='Twitter quiere competir con LinkedIn con esta nueva funcionalidad para empresas verificadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/youtube-gana-fortuna-perdiendo-dinero-tragaperras-1278840'>Este youtuber gana una auténtica fortuna perdiendo dinero: ¿cómo es posible?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/youtube-gana-fortuna-perdiendo-dinero-tragaperras-1278840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apuesa-prohibicion-twitch-tragaperras-2819935.jpg?tf=1200x' alt='Este youtuber gana una auténtica fortuna perdiendo dinero: ¿cómo es posible?' />
+    <h4><a href='https://computerhoy.com/energia/avances-energia-recoleccion-lluvia-quintuplican-potencia-1278928'>Nuevo método, inspirado en los paneles solares, consigue quintuplicar la potencia para generar energía a partir de lluvia</a></h4>
+    <a href='https://computerhoy.com/energia/avances-energia-recoleccion-lluvia-quintuplican-potencia-1278928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/avances-energia-recoleccion-gotas-lluvia-quintuplican-potencia-3089944.jpg?tf=1200x' alt='Nuevo método, inspirado en los paneles solares, consigue quintuplicar la potencia para generar energía a partir de lluvia' />
     </a>
 </div>
 
