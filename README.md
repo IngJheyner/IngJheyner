@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/turbina-piramidal-espanola-va-revolucionar-industria-eolica-1278974'>Una empresa española ha desarrollado una turbina piramidal que va a revolucionar la industria eólica</a></h4>
+    <a href='https://computerhoy.com/energia/turbina-piramidal-espanola-va-revolucionar-industria-eolica-1278974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1689960928287-3090076.jpg?tf=1200x' alt='Una empresa española ha desarrollado una turbina piramidal que va a revolucionar la industria eólica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-solucionar-problema-youtube-estas-desconectado-1278358'>¿Cómo solucionar el problema de YouTube: "Estás desconectado"?</a></h4>
+    <a href='https://computerhoy.com/internet/como-solucionar-problema-youtube-estas-desconectado-1278358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/como-solucionar-problema-youtube-estas-desconectado-3088950.jpg?tf=1200x' alt='¿Cómo solucionar el problema de YouTube: "Estás desconectado"?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/satelite-aeolus-descontrola-amenaza-tierra-esa-intentara-salvarnos-1278910'>El satélite Aeolus se descontrola y amenaza la Tierra: la ESA intentará salvarnos de su impacto</a></h4>
     <a href='https://computerhoy.com/espacio/satelite-aeolus-descontrola-amenaza-tierra-esa-intentara-salvarnos-1278910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/satelite-3089914.jpg?tf=1200x' alt='El satélite Aeolus se descontrola y amenaza la Tierra: la ESA intentará salvarnos de su impacto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/youtube-gana-fortuna-perdiendo-dinero-tragaperras-1278840'>Este youtuber gana una auténtica fortuna perdiendo dinero: ¿cómo es posible?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/youtube-gana-fortuna-perdiendo-dinero-tragaperras-1278840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/apuesa-prohibicion-twitch-tragaperras-2819935.jpg?tf=1200x' alt='Este youtuber gana una auténtica fortuna perdiendo dinero: ¿cómo es posible?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/3-codigos-secretos-desbloquean-funciones-ocultas-movil-1273300'>3 códigos secretos que desbloquean funciones ocultas en tu móvil y que los técnicos no quieren que sepas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/3-codigos-secretos-desbloquean-funciones-ocultas-movil-1273300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/codigos-ocultos-3080282.jpg?tf=1200x' alt='3 códigos secretos que desbloquean funciones ocultas en tu móvil y que los técnicos no quieren que sepas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-netflix-babylon-liam-neeson-comedia-1278754'>Qué películas ver este fin de semana en Movistar Plus+, Prime Video y Netflix: Babylon, Liam Neeson y una comedia</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-netflix-babylon-liam-neeson-comedia-1278754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/peliculas-ver-fin-semana-movistar-plus-prime-video-netflix-babylon-liam-neeson-comedia-3089602.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Movistar Plus+, Prime Video y Netflix: Babylon, Liam Neeson y una comedia' />
     </a>
 </div>
 
