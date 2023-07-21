@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/enfria-mucho-consume-menos-aire-acondicionado-torre-ventilacion-lidl-puede-salvarte-verano-1278752'>Enfría mucho y consume menos que el aire acondicionado: esta torre de ventilación de Lidl puede salvarte el verano</a></h4>
+    <a href='https://computerhoy.com/hogar/enfria-mucho-consume-menos-aire-acondicionado-torre-ventilacion-lidl-puede-salvarte-verano-1278752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/torre-ventilacion-lidl-3089440.jpg?tf=1200x' alt='Enfría mucho y consume menos que el aire acondicionado: esta torre de ventilación de Lidl puede salvarte el verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-quiere-desarrollar-cuerpo-robotico-personas-miembros-amputados-1278716'>Elon Musk quiere desarrollar un cuerpo robótico para las personas con miembros amputados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-quiere-desarrollar-cuerpo-robotico-personas-miembros-amputados-1278716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-quiere-desarrollar-cuerpo-robotico-personas-miembros-amputados-3089418.jpg?tf=1200x' alt='Elon Musk quiere desarrollar un cuerpo robótico para las personas con miembros amputados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/funciona-protocolo-cocaine-kale-permite-encontrar-equilibro-movil-1278708'>Así funciona el "Protocolo Cocaine-Kale" que permite encontrar el equilibro con el móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/funciona-protocolo-cocaine-kale-permite-encontrar-equilibro-movil-1278708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/funciona-protocolo-cocaine-kale-permite-encontrar-equilibro-moviles-3089410.jpg?tf=1200x' alt='Así funciona el "Protocolo Cocaine-Kale" que permite encontrar el equilibro con el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-shock-descubrir-metal-autorreparable-1278446'>Científicos en shock al descubrir que una pieza de metal agrietada se regeneró por sí misma</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-shock-descubrir-metal-autorreparable-1278446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/metal-3089128.jpg?tf=1200x' alt='Científicos en shock al descubrir que una pieza de metal agrietada se regeneró por sí misma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/bateria-movil-agota-estas-son-aplicaciones-culpables-1278398'>La batería de tu móvil se agota y estas son las aplicaciones culpables</a></h4>
     <a href='https://computerhoy.com/apps/bateria-movil-agota-estas-son-aplicaciones-culpables-1278398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/bateria-baja-3089030.jpg?tf=1200x' alt='La batería de tu móvil se agota y estas son las aplicaciones culpables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-ultra-analisis-deportivo-reloj-estrella-apple-1273220'>Hemos probado el Apple Watch Ultra para 6 deportes diferentes: así ha sido la experiencia y estos son los que más nos han gustado</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-ultra-analisis-deportivo-reloj-estrella-apple-1273220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3086868.jpg?tf=1200x' alt='Hemos probado el Apple Watch Ultra para 6 deportes diferentes: así ha sido la experiencia y estos son los que más nos han gustado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/efectivo-metodo-memorizar-absolutamente-todo-2-pasos-1278444'>Así es el efectivo método que te permitirá memorizar absolutamente todo en 2 pasos</a></h4>
-    <a href='https://computerhoy.com/life/efectivo-metodo-memorizar-absolutamente-todo-2-pasos-1278444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/contorno-persona-3089112.jpg?tf=1200x' alt='Así es el efectivo método que te permitirá memorizar absolutamente todo en 2 pasos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ia-recrea-como-serian-habitantes-cada-planeta-sistema-solar-1278440'>La IA recrea cómo serían los habitantes de cada planeta del sistema solar</a></h4>
-    <a href='https://computerhoy.com/life/ia-recrea-como-serian-habitantes-cada-planeta-sistema-solar-1278440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/habitantes-sistema-solar-3089126.jpg?tf=1200x' alt='La IA recrea cómo serían los habitantes de cada planeta del sistema solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/significado-emoji-corazon-punto-abajo-whatsapp-1278448'>Este es el significado del emoji del corazón con un punto abajo de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/significado-emoji-corazon-punto-abajo-whatsapp-1278448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/significado-emoji-corazon-punto-abajo-whastapp-3089106.jpg?tf=1200x' alt='Este es el significado del emoji del corazón con un punto abajo de WhatsApp' />
     </a>
 </div>
 
