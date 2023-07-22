@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-cambia-diseno-aplicacion-tiempo-potencia-precision-meteorologica-1279304'>Google cambia el diseño de su aplicación del Tiempo y potencia su precisión meteorológica</a></h4>
+    <a href='https://computerhoy.com/apps/google-cambia-diseno-aplicacion-tiempo-potencia-precision-meteorologica-1279304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-tiempo-3090498.jpg?tf=1200x' alt='Google cambia el diseño de su aplicación del Tiempo y potencia su precisión meteorológica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/llegada-bing-chat-otros-navegadores-parece-estar-cerca-nunca-1279294'>La llegada de Bing Chat a otros navegadores parece estar más cerca que nunca</a></h4>
     <a href='https://computerhoy.com/apps/llegada-bing-chat-otros-navegadores-parece-estar-cerca-nunca-1279294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatbot-bing-2960656.jpg?tf=1200x' alt='La llegada de Bing Chat a otros navegadores parece estar más cerca que nunca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/era-google-maps-romanos-viaje-ano-20-c-1277838'>Así era el Google Maps de los romanos: un viaje al año 20 antes de Cristo</a></h4>
     <a href='https://computerhoy.com/life/era-google-maps-romanos-viaje-ano-20-c-1277838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-maps-roma-3088084.jpg?tf=1200x' alt='Así era el Google Maps de los romanos: un viaje al año 20 antes de Cristo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/misterioso-dispositivo-llevan-cuello-algunas-jugadoras-partidos-copa-mundo-sirve-1279276'>El misterioso dispositivo que llevan en el cuello algunas jugadoras en los partidos de la Copa del Mundo y para qué sirve</a></h4>
-    <a href='https://computerhoy.com/tecnologia/misterioso-dispositivo-llevan-cuello-algunas-jugadoras-partidos-copa-mundo-sirve-1279276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/q-collar-3090440.jpg?tf=1200x' alt='El misterioso dispositivo que llevan en el cuello algunas jugadoras en los partidos de la Copa del Mundo y para qué sirve' />
     </a>
 </div>
 
