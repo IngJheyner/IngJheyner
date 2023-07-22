@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/llegada-bing-chat-otros-navegadores-parece-estar-cerca-nunca-1279294'>La llegada de Bing Chat a otros navegadores parece estar más cerca que nunca</a></h4>
+    <a href='https://computerhoy.com/apps/llegada-bing-chat-otros-navegadores-parece-estar-cerca-nunca-1279294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatbot-bing-2960656.jpg?tf=1200x' alt='La llegada de Bing Chat a otros navegadores parece estar más cerca que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estos-son-5-habitos-comunes-evitan-duermas-bien-noche-1279280'>Estos son los 5 hábitos comunes que evitan que duermas bien por la noche</a></h4>
+    <a href='https://computerhoy.com/life/estos-son-5-habitos-comunes-evitan-duermas-bien-noche-1279280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dormir-mal-3090454.jpg?tf=1200x' alt='Estos son los 5 hábitos comunes que evitan que duermas bien por la noche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-dar-instrucciones-personalizadas-chatgpt-funciona-1279278'>Ya puedes dar instrucciones personalizadas a ChatGPT y así funciona</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-puedes-dar-instrucciones-personalizadas-chatgpt-funciona-1279278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3078012.jpg?tf=1200x' alt='Ya puedes dar instrucciones personalizadas a ChatGPT y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/era-google-maps-romanos-viaje-ano-20-c-1277838'>Así era el Google Maps de los romanos: un viaje al año 20 antes de Cristo</a></h4>
     <a href='https://computerhoy.com/life/era-google-maps-romanos-viaje-ano-20-c-1277838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-maps-roma-3088084.jpg?tf=1200x' alt='Así era el Google Maps de los romanos: un viaje al año 20 antes de Cristo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/misterioso-dispositivo-llevan-cuello-algunas-jugadoras-partidos-copa-mundo-sirve-1279276'>El misterioso dispositivo que llevan en el cuello algunas jugadoras en los partidos de la Copa del Mundo y para qué sirve</a></h4>
     <a href='https://computerhoy.com/tecnologia/misterioso-dispositivo-llevan-cuello-algunas-jugadoras-partidos-copa-mundo-sirve-1279276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/q-collar-3090440.jpg?tf=1200x' alt='El misterioso dispositivo que llevan en el cuello algunas jugadoras en los partidos de la Copa del Mundo y para qué sirve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-14-ofreceria-sms-satelite-telefonos-samsung-galaxy-google-pixel-1279262'>Android 14 ofrecería SMS vía satélite para teléfonos Samsung Galaxy y Google Pixel</a></h4>
-    <a href='https://computerhoy.com/android/android-14-ofreceria-sms-satelite-telefonos-samsung-galaxy-google-pixel-1279262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/comunicacion-satelite-2467717.jpg?tf=1200x' alt='Android 14 ofrecería SMS vía satélite para teléfonos Samsung Galaxy y Google Pixel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/creciente-estafa-google-docs-debes-evitar-puedes-reconocerla-1279256'>La creciente estafa de Google Docs que debes evitar, y así puedes reconocerla</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/creciente-estafa-google-docs-debes-evitar-puedes-reconocerla-1279256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-docs-2825039.jpg?tf=1200x' alt='La creciente estafa de Google Docs que debes evitar, y así puedes reconocerla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funcion-freidora-aire-nada-tiene-ver-comida-podria-servirte-tener-propio-negocio-1275536'>La función de tu freidora de aire que nada tiene que ver con la comida y que podría servirte para tener tu propio negocio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/funcion-freidora-aire-nada-tiene-ver-comida-podria-servirte-tener-propio-negocio-1275536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/taza-3084504.jpg?tf=1200x' alt='La función de tu freidora de aire que nada tiene que ver con la comida y que podría servirte para tener tu propio negocio' />
     </a>
 </div>
 
