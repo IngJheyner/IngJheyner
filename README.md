@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/chatgpt-llega-android-puedes-ser-primero-probarlo-1279252'>ChatGPT llega a Android y así puedes ser el primero en probarlo</a></h4>
+    <a href='https://computerhoy.com/apps/chatgpt-llega-android-puedes-ser-primero-probarlo-1279252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3090374.jpg?tf=1200x' alt='ChatGPT llega a Android y así puedes ser el primero en probarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/pasa-echas-gasolina-motor-diesel-viceversa-1278942'> ¿Qué pasa si echas gasolina a un motor diésel y viceversa?</a></h4>
+    <a href='https://computerhoy.com/motor/pasa-echas-gasolina-motor-diesel-viceversa-1278942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/gasolinera-3089960.jpg?tf=1200x' alt=' ¿Qué pasa si echas gasolina a un motor diésel y viceversa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-12-menos-500-euros-amazon-reacondicionado-1278748'>Un iPhone 12 por menos de 500 euros en Amazon: este chollo no tiene igual en España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-12-menos-500-euros-amazon-reacondicionado-1278748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/iphone-12-3089450.jpg?tf=1200x' alt='Un iPhone 12 por menos de 500 euros en Amazon: este chollo no tiene igual en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/superordenador-rapido-mundo-alcanza-potencia-procesamiento-4-exaflops-1278982'>Este es el superordenador más rápido del mundo y alcanza una potencia de procesamiento de 4 exaflops</a></h4>
+    <a href='https://computerhoy.com/tecnologia/superordenador-rapido-mundo-alcanza-potencia-procesamiento-4-exaflops-1278982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/condor-galaxy-1-3090100.jpg?tf=1200x' alt='Este es el superordenador más rápido del mundo y alcanza una potencia de procesamiento de 4 exaflops' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/pintura-logra-bajar-12-grados-temperatura-casa-1278410'>Así es la 'pintura mágica' que logra bajar hasta 12 grados la temperatura de tu casa</a></h4>
     <a href='https://computerhoy.com/life/pintura-logra-bajar-12-grados-temperatura-casa-1278410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/bote-pintura-blanca-3089038.jpg?tf=1200x' alt='Así es la 'pintura mágica' que logra bajar hasta 12 grados la temperatura de tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/huir-altavoces-solo-anuncien-potencia-pmpo-1277028'>Por qué huir de altavoces que solo anuncien su potencia PMPO</a></h4>
-    <a href='https://computerhoy.com/audio/huir-altavoces-solo-anuncien-potencia-pmpo-1277028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/altavoces-3086594.jpg?tf=1200x' alt='Por qué huir de altavoces que solo anuncien su potencia PMPO' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/ventiladores-techo-sin-aspas-cual-comprar-1278920'>Ventiladores de techo sin aspas: en qué fijarte y cuál comprar</a></h4>
-    <a href='https://computerhoy.com/guia-compra/ventiladores-techo-sin-aspas-cual-comprar-1278920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ventiladores-techo-aspas-fijarte-cual-comprar-3089928.jpg?tf=1200x' alt='Ventiladores de techo sin aspas: en qué fijarte y cuál comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/icq-tiktok-como-ha-evolucionado-forma-nos-comunicamos-digitalmente-1253372'>Dime qué aplicación de mensajería instantánea usabas y te diré de qué generación eres</a></h4>
-    <a href='https://computerhoy.com/apps/icq-tiktok-como-ha-evolucionado-forma-nos-comunicamos-digitalmente-1253372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apps-mensajeria-3052550.jpg?tf=1200x' alt='Dime qué aplicación de mensajería instantánea usabas y te diré de qué generación eres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-puedes-comprar-1031083'>Estos son los mejores patinetes eléctricos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-patinetes-electricos-puedes-comprar-1031083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/smartgyro-speedway-pro-2649087.jpg?tf=1200x' alt='Estos son los mejores patinetes eléctricos que puedes comprar' />
     </a>
 </div>
 
