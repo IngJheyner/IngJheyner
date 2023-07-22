@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/segunda-persona-piso-luna-buzz-aldrin-lleva-3-relojes-1279224'>Por qué la segunda persona que pisó la Luna, Buzz Aldrin, siempre lleva 3 relojes</a></h4>
+    <a href='https://computerhoy.com/espacio/segunda-persona-piso-luna-buzz-aldrin-lleva-3-relojes-1279224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/segunda-persona-piso-luna-buzz-aldrin-lleva-3-relojes-3090112.jpg?tf=1200x' alt='Por qué la segunda persona que pisó la Luna, Buzz Aldrin, siempre lleva 3 relojes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/threads-pierde-70-por-ciento-usuarios-1278990'>Pasada la novedad, Threads pierde el 70 % de sus usuarios</a></h4>
     <a href='https://computerhoy.com/internet/threads-pierde-70-por-ciento-usuarios-1278990' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/threads-3075804.jpg?tf=1200x' alt='Pasada la novedad, Threads pierde el 70 % de sus usuarios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/superordenador-rapido-mundo-alcanza-potencia-procesamiento-4-exaflops-1278982'>Este es el superordenador más rápido del mundo y alcanza una potencia de procesamiento de 4 exaflops</a></h4>
     <a href='https://computerhoy.com/tecnologia/superordenador-rapido-mundo-alcanza-potencia-procesamiento-4-exaflops-1278982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/condor-galaxy-1-3090100.jpg?tf=1200x' alt='Este es el superordenador más rápido del mundo y alcanza una potencia de procesamiento de 4 exaflops' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/twitter-quiere-competir-linkedin-nueva-funcionalidad-empresas-verificadas-1278978'>Twitter quiere competir con LinkedIn con esta nueva funcionalidad para empresas verificadas</a></h4>
-    <a href='https://computerhoy.com/apps/twitter-quiere-competir-linkedin-nueva-funcionalidad-empresas-verificadas-1278978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/twitter-linkedin-3090094.jpg?tf=1200x' alt='Twitter quiere competir con LinkedIn con esta nueva funcionalidad para empresas verificadas' />
     </a>
 </div>
 
