@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/threads-pierde-70-por-ciento-usuarios-1278990'>Pasada la novedad, Threads pierde el 70 % de sus usuarios</a></h4>
+    <a href='https://computerhoy.com/internet/threads-pierde-70-por-ciento-usuarios-1278990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/threads-3075804.jpg?tf=1200x' alt='Pasada la novedad, Threads pierde el 70 % de sus usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/directores-oppenheimer-barbie-explican-mejor-forma-ver-peliculas-1278986'>Estas son las salas en donde los directores de Oppenheimer y Barbie recomiendan ver sus películas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/directores-oppenheimer-barbie-explican-mejor-forma-ver-peliculas-1278986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oppenheimer-3064330.jpg?tf=1200x' alt='Estas son las salas en donde los directores de Oppenheimer y Barbie recomiendan ver sus películas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/twitter-quiere-competir-linkedin-nueva-funcionalidad-empresas-verificadas-1278978'>Twitter quiere competir con LinkedIn con esta nueva funcionalidad para empresas verificadas</a></h4>
     <a href='https://computerhoy.com/apps/twitter-quiere-competir-linkedin-nueva-funcionalidad-empresas-verificadas-1278978' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/twitter-linkedin-3090094.jpg?tf=1200x' alt='Twitter quiere competir con LinkedIn con esta nueva funcionalidad para empresas verificadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/avances-energia-recoleccion-lluvia-quintuplican-potencia-1278928'>Nuevo método, inspirado en los paneles solares, consigue quintuplicar la potencia para generar energía a partir de lluvia</a></h4>
-    <a href='https://computerhoy.com/energia/avances-energia-recoleccion-lluvia-quintuplican-potencia-1278928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/avances-energia-recoleccion-gotas-lluvia-quintuplican-potencia-3089944.jpg?tf=1200x' alt='Nuevo método, inspirado en los paneles solares, consigue quintuplicar la potencia para generar energía a partir de lluvia' />
     </a>
 </div>
 
