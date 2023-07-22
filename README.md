@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/creciente-estafa-google-docs-debes-evitar-puedes-reconocerla-1279256'>La creciente estafa de Google Docs que debes evitar, y así puedes reconocerla</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/creciente-estafa-google-docs-debes-evitar-puedes-reconocerla-1279256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-docs-2825039.jpg?tf=1200x' alt='La creciente estafa de Google Docs que debes evitar, y así puedes reconocerla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/funcion-freidora-aire-nada-tiene-ver-comida-podria-servirte-tener-propio-negocio-1275536'>La función de tu freidora de aire que nada tiene que ver con la comida y que podría servirte para tener tu propio negocio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/funcion-freidora-aire-nada-tiene-ver-comida-podria-servirte-tener-propio-negocio-1275536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/taza-3084504.jpg?tf=1200x' alt='La función de tu freidora de aire que nada tiene que ver con la comida y que podría servirte para tener tu propio negocio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/chatgpt-llega-android-puedes-ser-primero-probarlo-1279252'>ChatGPT llega a Android y así puedes ser el primero en probarlo</a></h4>
     <a href='https://computerhoy.com/apps/chatgpt-llega-android-puedes-ser-primero-probarlo-1279252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3090374.jpg?tf=1200x' alt='ChatGPT llega a Android y así puedes ser el primero en probarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/iphone-12-menos-500-euros-amazon-reacondicionado-1278748'>Un iPhone 12 por menos de 500 euros en Amazon: este chollo no tiene igual en España</a></h4>
     <a href='https://computerhoy.com/tecnologia/iphone-12-menos-500-euros-amazon-reacondicionado-1278748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/iphone-12-3089450.jpg?tf=1200x' alt='Un iPhone 12 por menos de 500 euros en Amazon: este chollo no tiene igual en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/superordenador-rapido-mundo-alcanza-potencia-procesamiento-4-exaflops-1278982'>Este es el superordenador más rápido del mundo y alcanza una potencia de procesamiento de 4 exaflops</a></h4>
-    <a href='https://computerhoy.com/tecnologia/superordenador-rapido-mundo-alcanza-potencia-procesamiento-4-exaflops-1278982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/condor-galaxy-1-3090100.jpg?tf=1200x' alt='Este es el superordenador más rápido del mundo y alcanza una potencia de procesamiento de 4 exaflops' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pintura-logra-bajar-12-grados-temperatura-casa-1278410'>Así es la 'pintura mágica' que logra bajar hasta 12 grados la temperatura de tu casa</a></h4>
-    <a href='https://computerhoy.com/life/pintura-logra-bajar-12-grados-temperatura-casa-1278410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/bote-pintura-blanca-3089038.jpg?tf=1200x' alt='Así es la 'pintura mágica' que logra bajar hasta 12 grados la temperatura de tu casa' />
     </a>
 </div>
 
