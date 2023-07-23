@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mundo-analogico-christopher-nolan-guiones-escritos-pc-internet-movil-1277812'>Christopher Nolan no tiene móvil, ni usa el correo electrónico y escribe sus guiones en un PC sin acceso a Internet</a></h4>
+    <a href='https://computerhoy.com/life/mundo-analogico-christopher-nolan-guiones-escritos-pc-internet-movil-1277812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/christopher-nolan-2467343.jpg?tf=1200x' alt='Christopher Nolan no tiene móvil, ni usa el correo electrónico y escribe sus guiones en un PC sin acceso a Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/oled-transparente-lujo-estadios-son-pantallas-lg-1278382'>De estadios de fútbol a OLED transparente para comercios de lujo: así es el espectacular portfolio de pantallas de LG</a></h4>
+    <a href='https://computerhoy.com/tv/oled-transparente-lujo-estadios-son-pantallas-lg-1278382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/showroom-lg-3089902.jpg?tf=1200x' alt='De estadios de fútbol a OLED transparente para comercios de lujo: así es el espectacular portfolio de pantallas de LG' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/threads-convirtiendo-gran-rival-twitter-1272350'>¿Qué es Threads y por qué se está convirtiendo en el gran rival de Twitter?</a></h4>
+    <a href='https://computerhoy.com/apps/threads-convirtiendo-gran-rival-twitter-1272350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1689934189266-3089642.jpg?tf=1200x' alt='¿Qué es Threads y por qué se está convirtiendo en el gran rival de Twitter?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-robot-autonomo-capaz-rodar-cualquier-terreno-volar-1279300'>Crean un robot autónomo capaz de rodar por cualquier terreno y hasta volar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-robot-autonomo-capaz-rodar-cualquier-terreno-volar-1279300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/crean-robot-autonomo-capaz-rodar-cualquier-terreno-volar-3090486.jpg?tf=1200x' alt='Crean un robot autónomo capaz de rodar por cualquier terreno y hasta volar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/5g-ha-cumplido-todas-promesas-nos-hicieron-1237640'>25 aniversario de Computer Hoy: Enormes promesas sobre el 5G y una inversión millonaria, ¿pero ha logrado cumplir sus metas?</a></h4>
     <a href='https://computerhoy.com/industria/5g-ha-cumplido-todas-promesas-nos-hicieron-1237640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/5g-3084128.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Enormes promesas sobre el 5G y una inversión millonaria, ¿pero ha logrado cumplir sus metas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/torre-futurista-dubai-inspirada-avatar-tendra-cascadas-privadas-habitaciones-lujo-1279296'>Esta torre futurista en Dubái inspirada en Avatar tendrá cascadas privadas en habitaciones de lujo</a></h4>
-    <a href='https://computerhoy.com/life/torre-futurista-dubai-inspirada-avatar-tendra-cascadas-privadas-habitaciones-lujo-1279296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/eywa-3090470.jpg?tf=1200x' alt='Esta torre futurista en Dubái inspirada en Avatar tendrá cascadas privadas en habitaciones de lujo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/mejores-servidores-nas-montar-nube-privada-1219132'>Mejores NAS para montar tu nube privada y pagar solo una vez</a></h4>
-    <a href='https://computerhoy.com/mejores/mejores-servidores-nas-montar-nube-privada-1219132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mejores-servidores-nas-3084770.jpg?tf=1200x' alt='Mejores NAS para montar tu nube privada y pagar solo una vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sucede-usas-leche-lugar-agua-hacer-cafe-1277700'>¿Qué sucede si usas leche en lugar de agua para hacer café?</a></h4>
-    <a href='https://computerhoy.com/life/sucede-usas-leche-lugar-agua-hacer-cafe-1277700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mala-idea-sustituir-agua-leche-hacer-cafe-3087748.jpg?tf=1200x' alt='¿Qué sucede si usas leche en lugar de agua para hacer café?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/mejora-privacidad-bateria-movil-4-apps-debes-borrar-1277780'>Mejora tu privacidad y la batería de tu móvil: 4 apps que debes borrar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/mejora-privacidad-bateria-movil-4-apps-debes-borrar-1277780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/borra-estas-4-aplicaciones-telefono-3087946.jpg?tf=1200x' alt='Mejora tu privacidad y la batería de tu móvil: 4 apps que debes borrar ahora mismo' />
     </a>
 </div>
 
