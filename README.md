@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robot-raspberry-pi-espanta-pajaros-piscina-1279608'>Este robot con Raspberry Pi espanta a los pájaros de la piscina de una forma muy original (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-raspberry-pi-espanta-pajaros-piscina-1279608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robot-raspberry-pi-espanta-pajaros-piscina-lanzandoles-chorro-agua-video-3090932.jpg?tf=1200x' alt='Este robot con Raspberry Pi espanta a los pájaros de la piscina de una forma muy original (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/union-europea-prohibira-pintura-cromada-coches-2024-1279604'>La Unión Europea prohibirá la pintura cromada de los coches en 2024, por una buena razón</a></h4>
     <a href='https://computerhoy.com/motor/union-europea-prohibira-pintura-cromada-coches-2024-1279604' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/07/560477-colores-nunca-pondrias-coche-cromado-ferrari.jpg?tf=1200x' alt='La Unión Europea prohibirá la pintura cromada de los coches en 2024, por una buena razón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/mejores-moviles-huawei-puedes-comprar-2023-1279524'>Mejores móviles Huawei que puedes comprar en 2023</a></h4>
     <a href='https://computerhoy.com/android/mejores-moviles-huawei-puedes-comprar-2023-1279524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-p60-pro-3028310.jpg?tf=1200x' alt='Mejores móviles Huawei que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/project-q-consola-portatil-sony-funciona-android-1279584'>Se filtra un vídeo de la nueva consola portátil de Sony, y se descubre que funciona con... Android</a></h4>
-    <a href='https://computerhoy.com/gaming/project-q-consola-portatil-sony-funciona-android-1279584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/project-q-3044954.jpg?tf=1200x' alt='Se filtra un vídeo de la nueva consola portátil de Sony, y se descubre que funciona con... Android' />
     </a>
 </div>
 
