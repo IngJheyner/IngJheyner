@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/mejores-moviles-huawei-puedes-comprar-2023-1279524'>Mejores móviles Huawei que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/android/mejores-moviles-huawei-puedes-comprar-2023-1279524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-p60-pro-3028310.jpg?tf=1200x' alt='Mejores móviles Huawei que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/project-q-consola-portatil-sony-funciona-android-1279584'>Se filtra un vídeo de la nueva consola portátil de Sony, y se descubre que funciona con... Android</a></h4>
+    <a href='https://computerhoy.com/gaming/project-q-consola-portatil-sony-funciona-android-1279584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/project-q-3044954.jpg?tf=1200x' alt='Se filtra un vídeo de la nueva consola portátil de Sony, y se descubre que funciona con... Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mercadona-cadena-supermercados-precios-fiables-1275552'>Mercadona es la cadena de supermercados con los precios más fiables de España</a></h4>
+    <a href='https://computerhoy.com/life/mercadona-cadena-supermercados-precios-fiables-1275552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mercadona-supermercado-precios-confiables-3084480.jpg?tf=1200x' alt='Mercadona es la cadena de supermercados con los precios más fiables de España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/bard-llevara-google-drive-google-maps-youtube-siguiente-nivel-1277860'>Bard llevará a Google Drive, Google Maps y YouTube al siguiente nivel</a></h4>
     <a href='https://computerhoy.com/google/bard-llevara-google-drive-google-maps-youtube-siguiente-nivel-1277860' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-nuevo-bard-google-deja-mucho-desear-comparacion-chatgpt-3002664.jpg?tf=1200x' alt='Bard llevará a Google Drive, Google Maps y YouTube al siguiente nivel' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/casas-esfericas-resistir-cambio-climatico-desastres-naturales-1279556'>En Estados Unidos ya están construyendo casas esféricas para resistir el cambio climático y los desastres naturales</a></h4>
     <a href='https://computerhoy.com/hogar/casas-esfericas-resistir-cambio-climatico-desastres-naturales-1279556' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estados-unidos-ya-estan-construyendo-casas-esfericas-resistir-cambio-climatico-desastres-naturales-3090804.jpg?tf=1200x' alt='En Estados Unidos ya están construyendo casas esféricas para resistir el cambio climático y los desastres naturales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elon-musk-pone-fecha-adios-marca-twitter-mitico-pajaro-azul-1279554'>Elon Musk pone fecha al adiós de la marca Twitter y del mítico pájaro azul</a></h4>
-    <a href='https://computerhoy.com/apps/elon-musk-pone-fecha-adios-marca-twitter-mitico-pajaro-azul-1279554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-2725807.jpg?tf=1200x' alt='Elon Musk pone fecha al adiós de la marca Twitter y del mítico pájaro azul' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-crean-cocteles-quimicos-pueden-revertir-envejecimiento-1279548'>Científicos crean “cócteles químicos” que pueden revertir el envejecimiento</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-crean-cocteles-quimicos-pueden-revertir-envejecimiento-1279548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/envejecimiento-3090806.jpg?tf=1200x' alt='Científicos crean “cócteles químicos” que pueden revertir el envejecimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cual-temperatura-ideal-nevera-verano-1276606'>Esta es la temperatura ideal de la nevera en verano</a></h4>
-    <a href='https://computerhoy.com/life/cual-temperatura-ideal-nevera-verano-1276606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/frigorifico.jpg?tf=1200x' alt='Esta es la temperatura ideal de la nevera en verano' />
     </a>
 </div>
 
