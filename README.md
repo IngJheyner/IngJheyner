@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/perfil-tecnologico-buscado-espana-40000-vacantes-sueldazo-1278396'>El perfil tecnológico más buscado en España: 40.000 vacantes y sueldos de hasta 45.000 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/perfil-tecnologico-buscado-espana-40000-vacantes-sueldazo-1278396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/persona-trabajando-3089012.jpg?tf=1200x' alt='El perfil tecnológico más buscado en España: 40.000 vacantes y sueldos de hasta 45.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/japon-ya-no-pasaporte-poderoso-mundo-espanol-mejores-1279540'>Japón ya no es el pasaporte más poderoso del mundo y el español está entre los mejores</a></h4>
+    <a href='https://computerhoy.com/life/japon-ya-no-pasaporte-poderoso-mundo-espanol-mejores-1279540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pasaporte-3090792.jpg?tf=1200x' alt='Japón ya no es el pasaporte más poderoso del mundo y el español está entre los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/sencillo-test-te-permite-conocer-cual-edad-real-cerebro-estas-perdiendo-memoria-1272092'>Este sencillo test te permite conocer cuál es la edad real de tu cerebro y si estás perdiendo memoria</a></h4>
+    <a href='https://computerhoy.com/life/sencillo-test-te-permite-conocer-cual-edad-real-cerebro-estas-perdiendo-memoria-1272092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/test-memoria-3078078.jpg?tf=1200x' alt='Este sencillo test te permite conocer cuál es la edad real de tu cerebro y si estás perdiendo memoria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/usan-inteligencia-artificial-predecir-eventos-solares-1279308'>Usan inteligencia artificial para predecir eventos solares</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usan-inteligencia-artificial-predecir-eventos-solares-1279308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tormentas-solares-3070236.jpg?tf=1200x' alt='Usan inteligencia artificial para predecir eventos solares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mundo-analogico-christopher-nolan-guiones-escritos-pc-internet-movil-1277812'>Christopher Nolan no tiene móvil, ni usa el correo electrónico y escribe sus guiones en un PC sin acceso a Internet</a></h4>
     <a href='https://computerhoy.com/life/mundo-analogico-christopher-nolan-guiones-escritos-pc-internet-movil-1277812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/christopher-nolan-2467343.jpg?tf=1200x' alt='Christopher Nolan no tiene móvil, ni usa el correo electrónico y escribe sus guiones en un PC sin acceso a Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/oled-transparente-lujo-estadios-son-pantallas-lg-1278382'>De estadios de fútbol a OLED transparente para comercios de lujo: así es el espectacular portfolio de pantallas de LG</a></h4>
-    <a href='https://computerhoy.com/tv/oled-transparente-lujo-estadios-son-pantallas-lg-1278382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/showroom-lg-3089902.jpg?tf=1200x' alt='De estadios de fútbol a OLED transparente para comercios de lujo: así es el espectacular portfolio de pantallas de LG' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/threads-convirtiendo-gran-rival-twitter-1272350'>¿Qué es Threads y por qué se está convirtiendo en el gran rival de Twitter?</a></h4>
-    <a href='https://computerhoy.com/apps/threads-convirtiendo-gran-rival-twitter-1272350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1689934189266-3089642.jpg?tf=1200x' alt='¿Qué es Threads y por qué se está convirtiendo en el gran rival de Twitter?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-robot-autonomo-capaz-rodar-cualquier-terreno-volar-1279300'>Crean un robot autónomo capaz de rodar por cualquier terreno y hasta volar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-robot-autonomo-capaz-rodar-cualquier-terreno-volar-1279300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/crean-robot-autonomo-capaz-rodar-cualquier-terreno-volar-3090486.jpg?tf=1200x' alt='Crean un robot autónomo capaz de rodar por cualquier terreno y hasta volar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/5g-ha-cumplido-todas-promesas-nos-hicieron-1237640'>25 aniversario de Computer Hoy: Enormes promesas sobre el 5G y una inversión millonaria, ¿pero ha logrado cumplir sus metas?</a></h4>
-    <a href='https://computerhoy.com/industria/5g-ha-cumplido-todas-promesas-nos-hicieron-1237640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/5g-3084128.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Enormes promesas sobre el 5G y una inversión millonaria, ¿pero ha logrado cumplir sus metas?' />
     </a>
 </div>
 
