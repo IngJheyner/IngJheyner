@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/union-europea-prohibira-pintura-cromada-coches-2024-1279604'>La Unión Europea prohibirá la pintura cromada de los coches en 2024, por una buena razón</a></h4>
+    <a href='https://computerhoy.com/motor/union-europea-prohibira-pintura-cromada-coches-2024-1279604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/07/560477-colores-nunca-pondrias-coche-cromado-ferrari.jpg?tf=1200x' alt='La Unión Europea prohibirá la pintura cromada de los coches en 2024, por una buena razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-microsoft-google-meta-amazon-marca-agua-deepfakes-1279600'>OpenAI, Microsoft, Google, Meta y Amazon se unen para anunciar el método definitivo para detectar deepfakes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-microsoft-google-meta-amazon-marca-agua-deepfakes-1279600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/openai-microsoft-google-meta-amazon-unen-anunciar-metodo-definitivo-detectar-deepfakes-3090908.jpg?tf=1200x' alt='OpenAI, Microsoft, Google, Meta y Amazon se unen para anunciar el método definitivo para detectar deepfakes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/asteroide-60-metros-paso-rozando-tierra-13-julio-nadie-entero-1279594'>Un asteroide de 60 metros pasó rozando la Tierra el 13 de julio, y nadie se enteró</a></h4>
+    <a href='https://computerhoy.com/espacio/asteroide-60-metros-paso-rozando-tierra-13-julio-nadie-entero-1279594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/asteroide-60-metros-paso-rozando-tierra-13-julio-nadie-entero-3090892.jpg?tf=1200x' alt='Un asteroide de 60 metros pasó rozando la Tierra el 13 de julio, y nadie se enteró' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/mejores-moviles-huawei-puedes-comprar-2023-1279524'>Mejores móviles Huawei que puedes comprar en 2023</a></h4>
     <a href='https://computerhoy.com/android/mejores-moviles-huawei-puedes-comprar-2023-1279524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-p60-pro-3028310.jpg?tf=1200x' alt='Mejores móviles Huawei que puedes comprar en 2023' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/project-q-consola-portatil-sony-funciona-android-1279584'>Se filtra un vídeo de la nueva consola portátil de Sony, y se descubre que funciona con... Android</a></h4>
     <a href='https://computerhoy.com/gaming/project-q-consola-portatil-sony-funciona-android-1279584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/project-q-3044954.jpg?tf=1200x' alt='Se filtra un vídeo de la nueva consola portátil de Sony, y se descubre que funciona con... Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mercadona-cadena-supermercados-precios-fiables-1275552'>Mercadona es la cadena de supermercados con los precios más fiables de España</a></h4>
-    <a href='https://computerhoy.com/life/mercadona-cadena-supermercados-precios-fiables-1275552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mercadona-supermercado-precios-confiables-3084480.jpg?tf=1200x' alt='Mercadona es la cadena de supermercados con los precios más fiables de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/bard-llevara-google-drive-google-maps-youtube-siguiente-nivel-1277860'>Bard llevará a Google Drive, Google Maps y YouTube al siguiente nivel</a></h4>
-    <a href='https://computerhoy.com/google/bard-llevara-google-drive-google-maps-youtube-siguiente-nivel-1277860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-nuevo-bard-google-deja-mucho-desear-comparacion-chatgpt-3002664.jpg?tf=1200x' alt='Bard llevará a Google Drive, Google Maps y YouTube al siguiente nivel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/casas-esfericas-resistir-cambio-climatico-desastres-naturales-1279556'>En Estados Unidos ya están construyendo casas esféricas para resistir el cambio climático y los desastres naturales</a></h4>
-    <a href='https://computerhoy.com/hogar/casas-esfericas-resistir-cambio-climatico-desastres-naturales-1279556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estados-unidos-ya-estan-construyendo-casas-esfericas-resistir-cambio-climatico-desastres-naturales-3090804.jpg?tf=1200x' alt='En Estados Unidos ya están construyendo casas esféricas para resistir el cambio climático y los desastres naturales' />
     </a>
 </div>
 
