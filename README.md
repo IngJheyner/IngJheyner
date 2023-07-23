@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-cambia-diseno-aplicacion-tiempo-potencia-precision-meteorologica-1279304'>Google cambia el diseño de su aplicación del Tiempo y potencia su precisión meteorológica</a></h4>
-    <a href='https://computerhoy.com/apps/google-cambia-diseno-aplicacion-tiempo-potencia-precision-meteorologica-1279304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-tiempo-3090498.jpg?tf=1200x' alt='Google cambia el diseño de su aplicación del Tiempo y potencia su precisión meteorológica' />
+    <h4><a href='https://computerhoy.com/industria/5g-ha-cumplido-todas-promesas-nos-hicieron-1237640'>25 aniversario de Computer Hoy: Enormes promesas sobre el 5G y una inversión millonaria, ¿pero ha logrado cumplir sus metas?</a></h4>
+    <a href='https://computerhoy.com/industria/5g-ha-cumplido-todas-promesas-nos-hicieron-1237640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/5g-3084128.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Enormes promesas sobre el 5G y una inversión millonaria, ¿pero ha logrado cumplir sus metas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/llegada-bing-chat-otros-navegadores-parece-estar-cerca-nunca-1279294'>La llegada de Bing Chat a otros navegadores parece estar más cerca que nunca</a></h4>
-    <a href='https://computerhoy.com/apps/llegada-bing-chat-otros-navegadores-parece-estar-cerca-nunca-1279294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatbot-bing-2960656.jpg?tf=1200x' alt='La llegada de Bing Chat a otros navegadores parece estar más cerca que nunca' />
+    <h4><a href='https://computerhoy.com/life/torre-futurista-dubai-inspirada-avatar-tendra-cascadas-privadas-habitaciones-lujo-1279296'>Esta torre futurista en Dubái inspirada en Avatar tendrá cascadas privadas en habitaciones de lujo</a></h4>
+    <a href='https://computerhoy.com/life/torre-futurista-dubai-inspirada-avatar-tendra-cascadas-privadas-habitaciones-lujo-1279296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/eywa-3090470.jpg?tf=1200x' alt='Esta torre futurista en Dubái inspirada en Avatar tendrá cascadas privadas en habitaciones de lujo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-son-5-habitos-comunes-evitan-duermas-bien-noche-1279280'>Estos son los 5 hábitos comunes que evitan que duermas bien por la noche</a></h4>
-    <a href='https://computerhoy.com/life/estos-son-5-habitos-comunes-evitan-duermas-bien-noche-1279280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dormir-mal-3090454.jpg?tf=1200x' alt='Estos son los 5 hábitos comunes que evitan que duermas bien por la noche' />
+    <h4><a href='https://computerhoy.com/mejores/mejores-servidores-nas-montar-nube-privada-1219132'>Mejores NAS para montar tu nube privada y pagar solo una vez</a></h4>
+    <a href='https://computerhoy.com/mejores/mejores-servidores-nas-montar-nube-privada-1219132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mejores-servidores-nas-3084770.jpg?tf=1200x' alt='Mejores NAS para montar tu nube privada y pagar solo una vez' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar este año</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oppo-reno-10-pro-5g-3073484.jpg?tf=1200x' alt='Estos son los mejores móviles Oppo que puedes comprar este año' />
+    <h4><a href='https://computerhoy.com/life/sucede-usas-leche-lugar-agua-hacer-cafe-1277700'>¿Qué sucede si usas leche en lugar de agua para hacer café?</a></h4>
+    <a href='https://computerhoy.com/life/sucede-usas-leche-lugar-agua-hacer-cafe-1277700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mala-idea-sustituir-agua-leche-hacer-cafe-3087748.jpg?tf=1200x' alt='¿Qué sucede si usas leche en lugar de agua para hacer café?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-dar-instrucciones-personalizadas-chatgpt-funciona-1279278'>Ya puedes dar instrucciones personalizadas a ChatGPT y así funciona</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-puedes-dar-instrucciones-personalizadas-chatgpt-funciona-1279278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3078012.jpg?tf=1200x' alt='Ya puedes dar instrucciones personalizadas a ChatGPT y así funciona' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/mejora-privacidad-bateria-movil-4-apps-debes-borrar-1277780'>Mejora tu privacidad y la batería de tu móvil: 4 apps que debes borrar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/mejora-privacidad-bateria-movil-4-apps-debes-borrar-1277780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/borra-estas-4-aplicaciones-telefono-3087946.jpg?tf=1200x' alt='Mejora tu privacidad y la batería de tu móvil: 4 apps que debes borrar ahora mismo' />
     </a>
 </div>
 
