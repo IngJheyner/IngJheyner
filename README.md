@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/perfil-tecnologico-buscado-espana-40000-vacantes-sueldazo-1278396'>El perfil tecnológico más buscado en España: 40.000 vacantes y sueldos de hasta 45.000 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/perfil-tecnologico-buscado-espana-40000-vacantes-sueldazo-1278396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/persona-trabajando-3089012.jpg?tf=1200x' alt='El perfil tecnológico más buscado en España: 40.000 vacantes y sueldos de hasta 45.000 euros' />
+    <h4><a href='https://computerhoy.com/google/bard-llevara-google-drive-google-maps-youtube-siguiente-nivel-1277860'>Bard llevará a Google Drive, Google Maps y YouTube al siguiente nivel</a></h4>
+    <a href='https://computerhoy.com/google/bard-llevara-google-drive-google-maps-youtube-siguiente-nivel-1277860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-nuevo-bard-google-deja-mucho-desear-comparacion-chatgpt-3002664.jpg?tf=1200x' alt='Bard llevará a Google Drive, Google Maps y YouTube al siguiente nivel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/japon-ya-no-pasaporte-poderoso-mundo-espanol-mejores-1279540'>Japón ya no es el pasaporte más poderoso del mundo y el español está entre los mejores</a></h4>
-    <a href='https://computerhoy.com/life/japon-ya-no-pasaporte-poderoso-mundo-espanol-mejores-1279540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pasaporte-3090792.jpg?tf=1200x' alt='Japón ya no es el pasaporte más poderoso del mundo y el español está entre los mejores' />
+    <h4><a href='https://computerhoy.com/hogar/casas-esfericas-resistir-cambio-climatico-desastres-naturales-1279556'>En Estados Unidos ya están construyendo casas esféricas para resistir el cambio climático y los desastres naturales</a></h4>
+    <a href='https://computerhoy.com/hogar/casas-esfericas-resistir-cambio-climatico-desastres-naturales-1279556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estados-unidos-ya-estan-construyendo-casas-esfericas-resistir-cambio-climatico-desastres-naturales-3090804.jpg?tf=1200x' alt='En Estados Unidos ya están construyendo casas esféricas para resistir el cambio climático y los desastres naturales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sencillo-test-te-permite-conocer-cual-edad-real-cerebro-estas-perdiendo-memoria-1272092'>Este sencillo test te permite conocer cuál es la edad real de tu cerebro y si estás perdiendo memoria</a></h4>
-    <a href='https://computerhoy.com/life/sencillo-test-te-permite-conocer-cual-edad-real-cerebro-estas-perdiendo-memoria-1272092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/test-memoria-3078078.jpg?tf=1200x' alt='Este sencillo test te permite conocer cuál es la edad real de tu cerebro y si estás perdiendo memoria' />
+    <h4><a href='https://computerhoy.com/apps/elon-musk-pone-fecha-adios-marca-twitter-mitico-pajaro-azul-1279554'>Elon Musk pone fecha al adiós de la marca Twitter y del mítico pájaro azul</a></h4>
+    <a href='https://computerhoy.com/apps/elon-musk-pone-fecha-adios-marca-twitter-mitico-pajaro-azul-1279554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/twitter-rinde-elon-musk-acepta-revelarle-mayor-secreto-2725807.jpg?tf=1200x' alt='Elon Musk pone fecha al adiós de la marca Twitter y del mítico pájaro azul' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usan-inteligencia-artificial-predecir-eventos-solares-1279308'>Usan inteligencia artificial para predecir eventos solares</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usan-inteligencia-artificial-predecir-eventos-solares-1279308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tormentas-solares-3070236.jpg?tf=1200x' alt='Usan inteligencia artificial para predecir eventos solares' />
+    <h4><a href='https://computerhoy.com/life/cientificos-crean-cocteles-quimicos-pueden-revertir-envejecimiento-1279548'>Científicos crean “cócteles químicos” que pueden revertir el envejecimiento</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-crean-cocteles-quimicos-pueden-revertir-envejecimiento-1279548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/envejecimiento-3090806.jpg?tf=1200x' alt='Científicos crean “cócteles químicos” que pueden revertir el envejecimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mundo-analogico-christopher-nolan-guiones-escritos-pc-internet-movil-1277812'>Christopher Nolan no tiene móvil, ni usa el correo electrónico y escribe sus guiones en un PC sin acceso a Internet</a></h4>
-    <a href='https://computerhoy.com/life/mundo-analogico-christopher-nolan-guiones-escritos-pc-internet-movil-1277812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/christopher-nolan-2467343.jpg?tf=1200x' alt='Christopher Nolan no tiene móvil, ni usa el correo electrónico y escribe sus guiones en un PC sin acceso a Internet' />
+    <h4><a href='https://computerhoy.com/life/cual-temperatura-ideal-nevera-verano-1276606'>Esta es la temperatura ideal de la nevera en verano</a></h4>
+    <a href='https://computerhoy.com/life/cual-temperatura-ideal-nevera-verano-1276606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/frigorifico.jpg?tf=1200x' alt='Esta es la temperatura ideal de la nevera en verano' />
     </a>
 </div>
 
