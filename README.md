@@ -74,17 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-dar-instrucciones-personalizadas-chatgpt-funciona-1279278'>Ya puedes dar instrucciones personalizadas a ChatGPT y así funciona</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-puedes-dar-instrucciones-personalizadas-chatgpt-funciona-1279278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3078012.jpg?tf=1200x' alt='Ya puedes dar instrucciones personalizadas a ChatGPT y así funciona' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741'>Estos son los mejores móviles Oppo que puedes comprar este año</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-oppo-descuentos-ofertas-893741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oppo-reno-10-pro-5g-3073484.jpg?tf=1200x' alt='Estos son los mejores móviles Oppo que puedes comprar este año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/era-google-maps-romanos-viaje-ano-20-c-1277838'>Así era el Google Maps de los romanos: un viaje al año 20 antes de Cristo</a></h4>
-    <a href='https://computerhoy.com/life/era-google-maps-romanos-viaje-ano-20-c-1277838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-maps-roma-3088084.jpg?tf=1200x' alt='Así era el Google Maps de los romanos: un viaje al año 20 antes de Cristo' />
+    <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-dar-instrucciones-personalizadas-chatgpt-funciona-1279278'>Ya puedes dar instrucciones personalizadas a ChatGPT y así funciona</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-puedes-dar-instrucciones-personalizadas-chatgpt-funciona-1279278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3078012.jpg?tf=1200x' alt='Ya puedes dar instrucciones personalizadas a ChatGPT y así funciona' />
     </a>
 </div>
 
