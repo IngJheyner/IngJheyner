@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/movil-5g-xiaomi-tiene-todo-triunfar-ademas-amazon-vende-mucho-barato-1279810'>Este móvil 5G de Xiaomi lo tiene todo para triunfar, y además Amazon lo vende mucho más barato</a></h4>
+    <a href='https://computerhoy.com/android/movil-5g-xiaomi-tiene-todo-triunfar-ademas-amazon-vende-mucho-barato-1279810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/redmi-note-12-5g-redmi-note-12-pro-3014704.jpg?tf=1200x' alt='Este móvil 5G de Xiaomi lo tiene todo para triunfar, y además Amazon lo vende mucho más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593'>Mejores tablets de 10 pulgadas que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-galaxy-tab-a8-2592481.jpg?tf=1200x' alt='Mejores tablets de 10 pulgadas que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/propio-bard-google-advierte-peligros-inteligencia-artificial-humanidad-1279806'>El propio Bard de Google advierte sobre 3 peligros de la inteligencia artificial para la humanidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/propio-bard-google-advierte-peligros-inteligencia-artificial-humanidad-1279806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-nuevo-bard-google-deja-mucho-desear-comparacion-chatgpt-3002664.jpg?tf=1200x' alt='El propio Bard de Google advierte sobre 3 peligros de la inteligencia artificial para la humanidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/mejores-juegos-ps5-2023-estos-son-mejores-valorados-metacritic-1279792'>Mejores juegos de PS5 en 2023: éstos son los más valorados en Metacritic</a></h4>
     <a href='https://computerhoy.com/mejores/mejores-juegos-ps5-2023-estos-son-mejores-valorados-metacritic-1279792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ps5-playstation-5-2944466.jpg?tf=1200x' alt='Mejores juegos de PS5 en 2023: éstos son los más valorados en Metacritic' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/razones-coches-tesla-no-son-tan-buenos-como-crees-1277314'>Razones por las que los coches Tesla no son tan buenos como crees</a></h4>
-    <a href='https://computerhoy.com/motor/razones-coches-tesla-no-son-tan-buenos-como-crees-1277314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/coches-tesla-3090902.jpg?tf=1200x' alt='Razones por las que los coches Tesla no son tan buenos como crees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/villanos-peliculas-nunca-usan-iphone-desvelamos-misterio-1276634'>¿Por qué los villanos de las películas nunca usan iPhone? Desvelamos el misterio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/villanos-peliculas-nunca-usan-iphone-desvelamos-misterio-1276634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/iphone-3085994.jpg?tf=1200x' alt='¿Por qué los villanos de las películas nunca usan iPhone? Desvelamos el misterio' />
     </a>
 </div>
 
