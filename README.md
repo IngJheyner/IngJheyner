@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-grabar-pantalla-windows-11-video-instalar-nada-1259162'>Cómo grabar la pantalla de Windows 11 en vídeo sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-grabar-pantalla-windows-11-video-instalar-nada-1259162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/grabar-pantalla-windows-11-3056138.jpg?tf=1200x' alt='Cómo grabar la pantalla de Windows 11 en vídeo sin instalar nada' />
+    <h4><a href='https://computerhoy.com/hogar/cual-temperatura-ideal-casa-trabajo-1280092'>¿Cuál es la temperatura ideal en tu casa y el trabajo?</a></h4>
+    <a href='https://computerhoy.com/hogar/cual-temperatura-ideal-casa-trabajo-1280092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cual-temperatura-ideal-casa-trabajo-3091774.jpg?tf=1200x' alt='¿Cuál es la temperatura ideal en tu casa y el trabajo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fiba-presenta-madrid-cancha-baloncesto-pantalla-led-1280088'>La FIBA presenta en Madrid una cancha de baloncesto que es una pantalla LED gigante</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fiba-presenta-madrid-cancha-baloncesto-pantalla-led-1280088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/fiba-presenta-madrid-cancha-baloncesto-pantalla-led-3091714.jpg?tf=1200x' alt='La FIBA presenta en Madrid una cancha de baloncesto que es una pantalla LED gigante' />
+    <h4><a href='https://computerhoy.com/entretenimiento/futurama-temporada-11-1280124'>Ya está aquí la nueva temporada de la mejor serie del creador de Los Simpson</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/futurama-temporada-11-1280124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ya-aqui-nueva-temporada-mejor-serie-creador-simpson-3091806.jpg?tf=1200x' alt='Ya está aquí la nueva temporada de la mejor serie del creador de Los Simpson' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/11-funciones-olvidadas-windows-pueden-marcar-diferencia-1280060'>11 funciones olvidadas de Windows que pueden marcar la diferencia en tu PC</a></h4>
-    <a href='https://computerhoy.com/windows/11-funciones-olvidadas-windows-pueden-marcar-diferencia-1280060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-funciones-olvidadas-3091692.jpg?tf=1200x' alt='11 funciones olvidadas de Windows que pueden marcar la diferencia en tu PC' />
+    <h4><a href='https://computerhoy.com/life/no-puedes-dejar-morderte-unas-investigadores-encuentran-tecnica-increiblemente-sencilla-dejar-hacerlo-1280116'>¿No puedes dejar de morderte las uñas? Investigadores encuentran una  técnica increíblemente sencilla para dejar de hacerlo</a></h4>
+    <a href='https://computerhoy.com/life/no-puedes-dejar-morderte-unas-investigadores-encuentran-tecnica-increiblemente-sencilla-dejar-hacerlo-1280116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/morderse-unas-3091814.jpg?tf=1200x' alt='¿No puedes dejar de morderte las uñas? Investigadores encuentran una  técnica increíblemente sencilla para dejar de hacerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/aplicaciones-preinstaladas-gastan-mucha-bateria-movil-puedes-evitarlo-1277794'>Las aplicaciones preinstaladas en tu teléfono están consumiendo gran parte de tu batería</a></h4>
-    <a href='https://computerhoy.com/android/aplicaciones-preinstaladas-gastan-mucha-bateria-movil-puedes-evitarlo-1277794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aplicaciones-preinstaladas-telefono-podrian-estar-consumiendo-gran-parte-bateria-3087984.jpg?tf=1200x' alt='Las aplicaciones preinstaladas en tu teléfono están consumiendo gran parte de tu batería' />
+    <h4><a href='https://computerhoy.com/criptos/worldcoin-nueva-app-creador-chatgpt-te-regala-dinero-confirmar-eres-humano-ya-disponible-espana-1280108'>Worldcoin, la nueva app del creador de ChatGPT que te regala dinero por confirmar que eres humano, ya disponible en España</a></h4>
+    <a href='https://computerhoy.com/criptos/worldcoin-nueva-app-creador-chatgpt-te-regala-dinero-confirmar-eres-humano-ya-disponible-espana-1280108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/worldcoin-3033918.jpg?tf=1200x' alt='Worldcoin, la nueva app del creador de ChatGPT que te regala dinero por confirmar que eres humano, ya disponible en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/robot-aspirador'>¿Cuál es el mejor robot aspirador que puedes comprar? Comparativa y guía 2023</a></h4>
-    <a href='https://computerhoy.com/guia-compra/robot-aspirador' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cual-mejor-robot-aspirador-puedes-comprar-comparativa-guia-2023-3091524.jpg?tf=1200x' alt='¿Cuál es el mejor robot aspirador que puedes comprar? Comparativa y guía 2023' />
+    <h4><a href='https://computerhoy.com/life/exoesqueleto-superpoderes-deportes-aventura-1280076'>El exoesqueleto enfocado en los deportes de aventura que te hará correr a 20 Km/h </a></h4>
+    <a href='https://computerhoy.com/life/exoesqueleto-superpoderes-deportes-aventura-1280076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/omega-hypershell-exoesqueleto-aventura-3091724.jpg?tf=1200x' alt='El exoesqueleto enfocado en los deportes de aventura que te hará correr a 20 Km/h ' />
     </a>
 </div>
 
