@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/vivo-v29-lite-5g-analisis-opinion-1271430'>Vivo V29 Lite 5G, análisis y opinión: un móvil que brilla en casi todo</a></h4>
+    <a href='https://computerhoy.com/analisis/vivo-v29-lite-5g-analisis-opinion-1271430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/vivo-v29-lite-5g-3081350.jpg?tf=1200x' alt='Vivo V29 Lite 5G, análisis y opinión: un móvil que brilla en casi todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/descubre-dice-tamano-menique-personalidad-1277870'>Tu meñique habla de ti: la conexión entre su tamaño y tu personalidad</a></h4>
+    <a href='https://computerhoy.com/life/descubre-dice-tamano-menique-personalidad-1277870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/longitud-meniques-3090534.jpg?tf=1200x' alt='Tu meñique habla de ti: la conexión entre su tamaño y tu personalidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/habito-ayuda-concentrarse-bill-gates-solo-emplea-30-minutos-semana-1278420'>Este es el hábito que ayuda a concentrarse a Bill Gates (solo emplea 30 minutos a la semana)</a></h4>
+    <a href='https://computerhoy.com/life/habito-ayuda-concentrarse-bill-gates-solo-emplea-30-minutos-semana-1278420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/bill-gates-1848149.jpg?tf=1200x' alt='Este es el hábito que ayuda a concentrarse a Bill Gates (solo emplea 30 minutos a la semana)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/robot-raspberry-pi-espanta-pajaros-piscina-1279608'>Este robot con Raspberry Pi espanta a los pájaros de la piscina de una forma muy original (vídeo)</a></h4>
     <a href='https://computerhoy.com/tecnologia/robot-raspberry-pi-espanta-pajaros-piscina-1279608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robot-raspberry-pi-espanta-pajaros-piscina-lanzandoles-chorro-agua-video-3090932.jpg?tf=1200x' alt='Este robot con Raspberry Pi espanta a los pájaros de la piscina de una forma muy original (vídeo)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/union-europea-prohibira-pintura-cromada-coches-2024-1279604'>La Unión Europea prohibirá la pintura cromada de los coches en 2024, por una buena razón</a></h4>
     <a href='https://computerhoy.com/motor/union-europea-prohibira-pintura-cromada-coches-2024-1279604' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/07/560477-colores-nunca-pondrias-coche-cromado-ferrari.jpg?tf=1200x' alt='La Unión Europea prohibirá la pintura cromada de los coches en 2024, por una buena razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-microsoft-google-meta-amazon-marca-agua-deepfakes-1279600'>OpenAI, Microsoft, Google, Meta y Amazon se unen para anunciar el método definitivo para detectar deepfakes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-microsoft-google-meta-amazon-marca-agua-deepfakes-1279600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/openai-microsoft-google-meta-amazon-unen-anunciar-metodo-definitivo-detectar-deepfakes-3090908.jpg?tf=1200x' alt='OpenAI, Microsoft, Google, Meta y Amazon se unen para anunciar el método definitivo para detectar deepfakes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/asteroide-60-metros-paso-rozando-tierra-13-julio-nadie-entero-1279594'>Un asteroide de 60 metros pasó rozando la Tierra el 13 de julio, y nadie se enteró</a></h4>
-    <a href='https://computerhoy.com/espacio/asteroide-60-metros-paso-rozando-tierra-13-julio-nadie-entero-1279594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/asteroide-60-metros-paso-rozando-tierra-13-julio-nadie-entero-3090892.jpg?tf=1200x' alt='Un asteroide de 60 metros pasó rozando la Tierra el 13 de julio, y nadie se enteró' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/mejores-moviles-huawei-puedes-comprar-2023-1279524'>Mejores móviles Huawei que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/android/mejores-moviles-huawei-puedes-comprar-2023-1279524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huawei-p60-pro-3028310.jpg?tf=1200x' alt='Mejores móviles Huawei que puedes comprar en 2023' />
     </a>
 </div>
 
