@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-uso-vigilancia-policial-amenaza-privacidad-1279856'>La Inteligencia Artificial y su uso para la vigilancia policial: ¿Una amenaza a la privacidad? </a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-uso-vigilancia-policial-amenaza-privacidad-1279856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/inteligencia-artificial-uso-vigilancia-policial-amenaza-privacidad-3091254.jpg?tf=1200x' alt='La Inteligencia Artificial y su uso para la vigilancia policial: ¿Una amenaza a la privacidad? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/como-mejorar-wifi-casa-dispositivos-usan-distancia-router-1279840'>Cómo mejorar el wifi en casa: los dispositivos que más lo usan y la distancia al router</a></h4>
+    <a href='https://computerhoy.com/redes/como-mejorar-wifi-casa-dispositivos-usan-distancia-router-1279840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-wifi-3045536.jpg?tf=1200x' alt='Cómo mejorar el wifi en casa: los dispositivos que más lo usan y la distancia al router' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/movil-5g-xiaomi-tiene-todo-triunfar-ademas-amazon-vende-mucho-barato-1279810'>Este móvil 5G de Xiaomi lo tiene todo para triunfar, y además Amazon lo vende mucho más barato</a></h4>
     <a href='https://computerhoy.com/android/movil-5g-xiaomi-tiene-todo-triunfar-ademas-amazon-vende-mucho-barato-1279810' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/redmi-note-12-5g-redmi-note-12-pro-3014704.jpg?tf=1200x' alt='Este móvil 5G de Xiaomi lo tiene todo para triunfar, y además Amazon lo vende mucho más barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/propio-bard-google-advierte-peligros-inteligencia-artificial-humanidad-1279806'>El propio Bard de Google advierte sobre 3 peligros de la inteligencia artificial para la humanidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/propio-bard-google-advierte-peligros-inteligencia-artificial-humanidad-1279806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-nuevo-bard-google-deja-mucho-desear-comparacion-chatgpt-3002664.jpg?tf=1200x' alt='El propio Bard de Google advierte sobre 3 peligros de la inteligencia artificial para la humanidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-debe-limpiar-movil-manera-correcta-segura-1248242'>Cómo se debe limpiar un móvil de manera correcta y segura</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-debe-limpiar-movil-manera-correcta-segura-1248242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/limpiando-movil-3038256.jpg?tf=1200x' alt='Cómo se debe limpiar un móvil de manera correcta y segura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/mejores-juegos-ps5-2023-estos-son-mejores-valorados-metacritic-1279792'>Mejores juegos de PS5 en 2023: éstos son los más valorados en Metacritic</a></h4>
-    <a href='https://computerhoy.com/mejores/mejores-juegos-ps5-2023-estos-son-mejores-valorados-metacritic-1279792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ps5-playstation-5-2944466.jpg?tf=1200x' alt='Mejores juegos de PS5 en 2023: éstos son los más valorados en Metacritic' />
     </a>
 </div>
 
