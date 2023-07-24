@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-uso-vigilancia-policial-amenaza-privacidad-1279856'>La Inteligencia Artificial y su uso para la vigilancia policial: ¿Una amenaza a la privacidad? </a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-uso-vigilancia-policial-amenaza-privacidad-1279856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/inteligencia-artificial-uso-vigilancia-policial-amenaza-privacidad-3091254.jpg?tf=1200x' alt='La Inteligencia Artificial y su uso para la vigilancia policial: ¿Una amenaza a la privacidad? ' />
+    <h4><a href='https://computerhoy.com/apple/apple-ya-tiene-propio-chatgpt-pero-no-todo-mundo-1279928'>Apple ya tiene su propio ChatGPT pero no será para todo el mundo</a></h4>
+    <a href='https://computerhoy.com/apple/apple-ya-tiene-propio-chatgpt-pero-no-todo-mundo-1279928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-ya-tiene-propio-chatgpt-pero-no-todo-mundo-3091420.jpg?tf=1200x' alt='Apple ya tiene su propio ChatGPT pero no será para todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/como-mejorar-wifi-casa-dispositivos-usan-distancia-router-1279840'>Cómo mejorar el wifi en casa: los dispositivos que más lo usan y la distancia al router</a></h4>
-    <a href='https://computerhoy.com/redes/como-mejorar-wifi-casa-dispositivos-usan-distancia-router-1279840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-wifi-3045536.jpg?tf=1200x' alt='Cómo mejorar el wifi en casa: los dispositivos que más lo usan y la distancia al router' />
+    <h4><a href='https://computerhoy.com/android/android-auto-101-adios-problema-maps-opciones-rutas-1279948'>Android Auto 10.1: adiós al problema de Maps y más opciones de rutas</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-101-adios-problema-maps-opciones-rutas-1279948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Android Auto 10.1: adiós al problema de Maps y más opciones de rutas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/movil-5g-xiaomi-tiene-todo-triunfar-ademas-amazon-vende-mucho-barato-1279810'>Este móvil 5G de Xiaomi lo tiene todo para triunfar, y además Amazon lo vende mucho más barato</a></h4>
-    <a href='https://computerhoy.com/android/movil-5g-xiaomi-tiene-todo-triunfar-ademas-amazon-vende-mucho-barato-1279810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/redmi-note-12-5g-redmi-note-12-pro-3014704.jpg?tf=1200x' alt='Este móvil 5G de Xiaomi lo tiene todo para triunfar, y además Amazon lo vende mucho más barato' />
+    <h4><a href='https://computerhoy.com/audio/spotify-sube-precios-espana-quedan-nuevos-planes-individual-duo-familiar-estudiantes-1279914'>Spotify sube precios en España: así quedan los nuevos planes Individual, Duo, Familiar y Estudiantes</a></h4>
+    <a href='https://computerhoy.com/audio/spotify-sube-precios-espana-quedan-nuevos-planes-individual-duo-familiar-estudiantes-1279914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/spotify-2834811.jpg?tf=1200x' alt='Spotify sube precios en España: así quedan los nuevos planes Individual, Duo, Familiar y Estudiantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593'>Mejores tablets de 10 pulgadas que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-galaxy-tab-a8-2592481.jpg?tf=1200x' alt='Mejores tablets de 10 pulgadas que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/apple/nuevo-iphone-15-podria-retrasarse-problemas-fabricacion-1279866'>Toca esperar: el nuevo iPhone 15 podría retrasarse por problemas de fabricación</a></h4>
+    <a href='https://computerhoy.com/apple/nuevo-iphone-15-podria-retrasarse-problemas-fabricacion-1279866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/toca-esperar-nuevo-iphone-15-podria-retrasarse-problemas-fabricacion-3091336.jpg?tf=1200x' alt='Toca esperar: el nuevo iPhone 15 podría retrasarse por problemas de fabricación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/propio-bard-google-advierte-peligros-inteligencia-artificial-humanidad-1279806'>El propio Bard de Google advierte sobre 3 peligros de la inteligencia artificial para la humanidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/propio-bard-google-advierte-peligros-inteligencia-artificial-humanidad-1279806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-nuevo-bard-google-deja-mucho-desear-comparacion-chatgpt-3002664.jpg?tf=1200x' alt='El propio Bard de Google advierte sobre 3 peligros de la inteligencia artificial para la humanidad' />
+    <h4><a href='https://computerhoy.com/tv/amazon-fire-tv-chromecast-wifi-trucos-usarlos-aire-libre-1279886'>Amazon Fire TV y Chromecast sin wifi: trucos para usarlos al aire libre</a></h4>
+    <a href='https://computerhoy.com/tv/amazon-fire-tv-chromecast-wifi-trucos-usarlos-aire-libre-1279886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-fire-tv-stick-3035482.jpg?tf=1200x' alt='Amazon Fire TV y Chromecast sin wifi: trucos para usarlos al aire libre' />
     </a>
 </div>
 
