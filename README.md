@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/noname-grupo-hackers-rusos-detras-ciberataques-jornada-electoral-1279940'>NoName, el grupo de hackers rusos detrás de los ciberataques a la jornada electoral</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/noname-grupo-hackers-rusos-detras-ciberataques-jornada-electoral-1279940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hackers-rusos-lanzan-ciberataques-masivos-webs-espanolas-durante-jornada-electoral-3091512.jpg?tf=1200x' alt='NoName, el grupo de hackers rusos detrás de los ciberataques a la jornada electoral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ps5-pro-desata-controversia-ofrecera-diferenciara-ps5-1279970'>PS5 Pro desata la controversia: ¿qué ofrecerá y qué la diferenciará de la PS5?</a></h4>
+    <a href='https://computerhoy.com/gaming/ps5-pro-desata-controversia-ofrecera-diferenciara-ps5-1279970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ps5-3011390.jpg?tf=1200x' alt='PS5 Pro desata la controversia: ¿qué ofrecerá y qué la diferenciará de la PS5?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-ya-tiene-propio-chatgpt-pero-no-todo-mundo-1279928'>Apple ya tiene su propio ChatGPT pero no será para todo el mundo</a></h4>
     <a href='https://computerhoy.com/apple/apple-ya-tiene-propio-chatgpt-pero-no-todo-mundo-1279928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-ya-tiene-propio-chatgpt-pero-no-todo-mundo-3091420.jpg?tf=1200x' alt='Apple ya tiene su propio ChatGPT pero no será para todo el mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/spotify-sube-precios-espana-quedan-nuevos-planes-individual-duo-familiar-estudiantes-1279914'>Spotify sube precios en España: así quedan los nuevos planes Individual, Duo, Familiar y Estudiantes</a></h4>
     <a href='https://computerhoy.com/audio/spotify-sube-precios-espana-quedan-nuevos-planes-individual-duo-familiar-estudiantes-1279914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/spotify-2834811.jpg?tf=1200x' alt='Spotify sube precios en España: así quedan los nuevos planes Individual, Duo, Familiar y Estudiantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nuevo-iphone-15-podria-retrasarse-problemas-fabricacion-1279866'>Toca esperar: el nuevo iPhone 15 podría retrasarse por problemas de fabricación</a></h4>
-    <a href='https://computerhoy.com/apple/nuevo-iphone-15-podria-retrasarse-problemas-fabricacion-1279866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/toca-esperar-nuevo-iphone-15-podria-retrasarse-problemas-fabricacion-3091336.jpg?tf=1200x' alt='Toca esperar: el nuevo iPhone 15 podría retrasarse por problemas de fabricación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/amazon-fire-tv-chromecast-wifi-trucos-usarlos-aire-libre-1279886'>Amazon Fire TV y Chromecast sin wifi: trucos para usarlos al aire libre</a></h4>
-    <a href='https://computerhoy.com/tv/amazon-fire-tv-chromecast-wifi-trucos-usarlos-aire-libre-1279886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-fire-tv-stick-3035482.jpg?tf=1200x' alt='Amazon Fire TV y Chromecast sin wifi: trucos para usarlos al aire libre' />
     </a>
 </div>
 
