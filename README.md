@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/vivo-v29-lite-5g-analisis-opinion-1271430'>Vivo V29 Lite 5G, análisis y opinión: un móvil que brilla en casi todo</a></h4>
-    <a href='https://computerhoy.com/analisis/vivo-v29-lite-5g-analisis-opinion-1271430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/vivo-v29-lite-5g-3081350.jpg?tf=1200x' alt='Vivo V29 Lite 5G, análisis y opinión: un móvil que brilla en casi todo' />
+    <h4><a href='https://computerhoy.com/tecnologia/propio-bard-google-advierte-peligros-inteligencia-artificial-humanidad-1279806'>El propio Bard de Google advierte sobre 3 peligros de la inteligencia artificial para la humanidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/propio-bard-google-advierte-peligros-inteligencia-artificial-humanidad-1279806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-nuevo-bard-google-deja-mucho-desear-comparacion-chatgpt-3002664.jpg?tf=1200x' alt='El propio Bard de Google advierte sobre 3 peligros de la inteligencia artificial para la humanidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubre-dice-tamano-menique-personalidad-1277870'>Tu meñique habla de ti: la conexión entre su tamaño y tu personalidad</a></h4>
-    <a href='https://computerhoy.com/life/descubre-dice-tamano-menique-personalidad-1277870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/longitud-meniques-3090534.jpg?tf=1200x' alt='Tu meñique habla de ti: la conexión entre su tamaño y tu personalidad' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-debe-limpiar-movil-manera-correcta-segura-1248242'>Cómo se debe limpiar un móvil de manera correcta y segura</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-debe-limpiar-movil-manera-correcta-segura-1248242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/limpiando-movil-3038256.jpg?tf=1200x' alt='Cómo se debe limpiar un móvil de manera correcta y segura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/habito-ayuda-concentrarse-bill-gates-solo-emplea-30-minutos-semana-1278420'>Este es el hábito que ayuda a concentrarse a Bill Gates (solo emplea 30 minutos a la semana)</a></h4>
-    <a href='https://computerhoy.com/life/habito-ayuda-concentrarse-bill-gates-solo-emplea-30-minutos-semana-1278420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/bill-gates-1848149.jpg?tf=1200x' alt='Este es el hábito que ayuda a concentrarse a Bill Gates (solo emplea 30 minutos a la semana)' />
+    <h4><a href='https://computerhoy.com/mejores/mejores-juegos-ps5-2023-estos-son-mejores-valorados-metacritic-1279792'>Mejores juegos de PS5 en 2023: éstos son los más valorados en Metacritic</a></h4>
+    <a href='https://computerhoy.com/mejores/mejores-juegos-ps5-2023-estos-son-mejores-valorados-metacritic-1279792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ps5-playstation-5-2944466.jpg?tf=1200x' alt='Mejores juegos de PS5 en 2023: éstos son los más valorados en Metacritic' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-raspberry-pi-espanta-pajaros-piscina-1279608'>Este robot con Raspberry Pi espanta a los pájaros de la piscina de una forma muy original (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-raspberry-pi-espanta-pajaros-piscina-1279608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robot-raspberry-pi-espanta-pajaros-piscina-lanzandoles-chorro-agua-video-3090932.jpg?tf=1200x' alt='Este robot con Raspberry Pi espanta a los pájaros de la piscina de una forma muy original (vídeo)' />
+    <h4><a href='https://computerhoy.com/motor/razones-coches-tesla-no-son-tan-buenos-como-crees-1277314'>Razones por las que los coches Tesla no son tan buenos como crees</a></h4>
+    <a href='https://computerhoy.com/motor/razones-coches-tesla-no-son-tan-buenos-como-crees-1277314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/coches-tesla-3090902.jpg?tf=1200x' alt='Razones por las que los coches Tesla no son tan buenos como crees' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/union-europea-prohibira-pintura-cromada-coches-2024-1279604'>La Unión Europea prohibirá la pintura cromada de los coches en 2024, por una buena razón</a></h4>
-    <a href='https://computerhoy.com/motor/union-europea-prohibira-pintura-cromada-coches-2024-1279604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/07/560477-colores-nunca-pondrias-coche-cromado-ferrari.jpg?tf=1200x' alt='La Unión Europea prohibirá la pintura cromada de los coches en 2024, por una buena razón' />
+    <h4><a href='https://computerhoy.com/tecnologia/villanos-peliculas-nunca-usan-iphone-desvelamos-misterio-1276634'>¿Por qué los villanos de las películas nunca usan iPhone? Desvelamos el misterio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/villanos-peliculas-nunca-usan-iphone-desvelamos-misterio-1276634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/iphone-3085994.jpg?tf=1200x' alt='¿Por qué los villanos de las películas nunca usan iPhone? Desvelamos el misterio' />
     </a>
 </div>
 
