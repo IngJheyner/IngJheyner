@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/noname-grupo-hackers-rusos-detras-ciberataques-jornada-electoral-1279940'>NoName, el grupo de hackers rusos detrás de los ciberataques a la jornada electoral</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/noname-grupo-hackers-rusos-detras-ciberataques-jornada-electoral-1279940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hackers-rusos-lanzan-ciberataques-masivos-webs-espanolas-durante-jornada-electoral-3091512.jpg?tf=1200x' alt='NoName, el grupo de hackers rusos detrás de los ciberataques a la jornada electoral' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-grabar-pantalla-windows-11-video-instalar-nada-1259162'>Cómo grabar la pantalla de Windows 11 en vídeo sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-grabar-pantalla-windows-11-video-instalar-nada-1259162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/grabar-pantalla-windows-11-3056138.jpg?tf=1200x' alt='Cómo grabar la pantalla de Windows 11 en vídeo sin instalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ps5-pro-desata-controversia-ofrecera-diferenciara-ps5-1279970'>PS5 Pro desata la controversia: ¿qué ofrecerá y qué la diferenciará de la PS5?</a></h4>
-    <a href='https://computerhoy.com/gaming/ps5-pro-desata-controversia-ofrecera-diferenciara-ps5-1279970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ps5-3011390.jpg?tf=1200x' alt='PS5 Pro desata la controversia: ¿qué ofrecerá y qué la diferenciará de la PS5?' />
+    <h4><a href='https://computerhoy.com/tecnologia/fiba-presenta-madrid-cancha-baloncesto-pantalla-led-1280088'>La FIBA presenta en Madrid una cancha de baloncesto que es una pantalla LED gigante</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fiba-presenta-madrid-cancha-baloncesto-pantalla-led-1280088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/fiba-presenta-madrid-cancha-baloncesto-pantalla-led-3091714.jpg?tf=1200x' alt='La FIBA presenta en Madrid una cancha de baloncesto que es una pantalla LED gigante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-ya-tiene-propio-chatgpt-pero-no-todo-mundo-1279928'>Apple ya tiene su propio ChatGPT pero no será para todo el mundo</a></h4>
-    <a href='https://computerhoy.com/apple/apple-ya-tiene-propio-chatgpt-pero-no-todo-mundo-1279928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-ya-tiene-propio-chatgpt-pero-no-todo-mundo-3091420.jpg?tf=1200x' alt='Apple ya tiene su propio ChatGPT pero no será para todo el mundo' />
+    <h4><a href='https://computerhoy.com/windows/11-funciones-olvidadas-windows-pueden-marcar-diferencia-1280060'>11 funciones olvidadas de Windows que pueden marcar la diferencia en tu PC</a></h4>
+    <a href='https://computerhoy.com/windows/11-funciones-olvidadas-windows-pueden-marcar-diferencia-1280060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-funciones-olvidadas-3091692.jpg?tf=1200x' alt='11 funciones olvidadas de Windows que pueden marcar la diferencia en tu PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-101-adios-problema-maps-opciones-rutas-1279948'>Android Auto 10.1: adiós al problema de Maps y más opciones de rutas</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-101-adios-problema-maps-opciones-rutas-1279948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Android Auto 10.1: adiós al problema de Maps y más opciones de rutas' />
+    <h4><a href='https://computerhoy.com/android/aplicaciones-preinstaladas-gastan-mucha-bateria-movil-puedes-evitarlo-1277794'>Las aplicaciones preinstaladas en tu teléfono están consumiendo gran parte de tu batería</a></h4>
+    <a href='https://computerhoy.com/android/aplicaciones-preinstaladas-gastan-mucha-bateria-movil-puedes-evitarlo-1277794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aplicaciones-preinstaladas-telefono-podrian-estar-consumiendo-gran-parte-bateria-3087984.jpg?tf=1200x' alt='Las aplicaciones preinstaladas en tu teléfono están consumiendo gran parte de tu batería' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/spotify-sube-precios-espana-quedan-nuevos-planes-individual-duo-familiar-estudiantes-1279914'>Spotify sube precios en España: así quedan los nuevos planes Individual, Duo, Familiar y Estudiantes</a></h4>
-    <a href='https://computerhoy.com/audio/spotify-sube-precios-espana-quedan-nuevos-planes-individual-duo-familiar-estudiantes-1279914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/spotify-2834811.jpg?tf=1200x' alt='Spotify sube precios en España: así quedan los nuevos planes Individual, Duo, Familiar y Estudiantes' />
+    <h4><a href='https://computerhoy.com/guia-compra/robot-aspirador'>¿Cuál es el mejor robot aspirador que puedes comprar? Comparativa y guía 2023</a></h4>
+    <a href='https://computerhoy.com/guia-compra/robot-aspirador' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cual-mejor-robot-aspirador-puedes-comprar-comparativa-guia-2023-3091524.jpg?tf=1200x' alt='¿Cuál es el mejor robot aspirador que puedes comprar? Comparativa y guía 2023' />
     </a>
 </div>
 
