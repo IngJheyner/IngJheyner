@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/espejo-podria-ser-suficiente-llevar-agua-tierra-luna-1280504'>Un espejo podría ser suficiente para llevar agua de la Tierra a la Luna</a></h4>
-    <a href='https://computerhoy.com/ciencia/espejo-podria-ser-suficiente-llevar-agua-tierra-luna-1280504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/espejo-podria-ser-suficiente-llevar-agua-tierra-luna-3092298.jpg?tf=1200x' alt='Un espejo podría ser suficiente para llevar agua de la Tierra a la Luna' />
+    <h4><a href='https://computerhoy.com/life/6-reglas-elon-musk-ser-productivo-trabajo-1277850'>Las 6 reglas de Elon Musk para ser más productivo en el trabajo</a></h4>
+    <a href='https://computerhoy.com/life/6-reglas-elon-musk-ser-productivo-trabajo-1277850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/elon-musk_1.jpg?tf=1200x' alt='Las 6 reglas de Elon Musk para ser más productivo en el trabajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/utilizas-solamente-pin-telefono-movil-hay-muchas-probabilidades-te-roben-1278106'>¿Utilizas solamente un PIN en tu teléfono móvil? Hay muchas probabilidades de que te lo roben</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/utilizas-solamente-pin-telefono-movil-hay-muchas-probabilidades-te-roben-1278106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/movil-3088436.jpg?tf=1200x' alt='¿Utilizas solamente un PIN en tu teléfono móvil? Hay muchas probabilidades de que te lo roben' />
+    <h4><a href='https://computerhoy.com/apps/5-mejores-apps-traduccion-iphone-deberias-instalar-ahora-mismo-1278972'>5 mejores aplicaciones de traducción para iPhone que deberías instalar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/apps/5-mejores-apps-traduccion-iphone-deberias-instalar-ahora-mismo-1278972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/app-traductor-iphone-3090102.jpg?tf=1200x' alt='5 mejores aplicaciones de traducción para iPhone que deberías instalar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/beneficios-riesgos-dormir-ventilador-encendido-1280356'>Los beneficios y riesgos de dormir con el ventilador encendido</a></h4>
-    <a href='https://computerhoy.com/life/beneficios-riesgos-dormir-ventilador-encendido-1280356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ventilador-2736697.jpg?tf=1200x' alt='Los beneficios y riesgos de dormir con el ventilador encendido' />
+    <h4><a href='https://computerhoy.com/tecnologia/perturbadora-respuesta-robot-rebelara-creador-1280632'>La perturbadora respuesta de un robot sobre sí se rebelará contra su creador que pone los pelos de punta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/perturbadora-respuesta-robot-rebelara-creador-1280632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/perturbadora-respuesta-robot-rebelara-creador-3092558.jpg?tf=1200x' alt='La perturbadora respuesta de un robot sobre sí se rebelará contra su creador que pone los pelos de punta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/boton-oculto-retrovisor-coche-resulta-muy-util-noche-1280600'>Hay un botón oculto en el coche que poca gente conoce, y resulta muy útil, especialmente de noche</a></h4>
-    <a href='https://computerhoy.com/motor/boton-oculto-retrovisor-coche-resulta-muy-util-noche-1280600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hay-boton-oculto-coche-poca-gente-conoce-resulta-muy-util-especialmente-noche-3092360.jpg?tf=1200x' alt='Hay un botón oculto en el coche que poca gente conoce, y resulta muy útil, especialmente de noche' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-demasiadas-solicitudes-1-hora-chatgpt-pasos-evitar-restriccion-1280354'>Cómo solucionar el error "Demasiadas solicitudes en 1 hora" en ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-demasiadas-solicitudes-1-hora-chatgpt-pasos-evitar-restriccion-1280354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-pc-3092052.jpg?tf=1200x' alt='Cómo solucionar el error "Demasiadas solicitudes en 1 hora" en ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hay-luz-nevera-pero-no-congelador-981701'>¿Por qué hay luz en la nevera pero no en el congelador? </a></h4>
-    <a href='https://computerhoy.com/noticias/life/hay-luz-nevera-pero-no-congelador-981701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-delante-nevera-puerta-abierta-2562395.jpg?tf=1200x' alt='¿Por qué hay luz en la nevera pero no en el congelador? ' />
+    <h4><a href='https://computerhoy.com/pc/senales-indican-ha-llegado-momento-actualizar-ordenador-1280612'>Señales que indican que ha llegado el momento de actualizar tu ordenador</a></h4>
+    <a href='https://computerhoy.com/pc/senales-indican-ha-llegado-momento-actualizar-ordenador-1280612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/4-senales-indican-momento-actualizar-hardware-pc-3092446.jpg?tf=1200x' alt='Señales que indican que ha llegado el momento de actualizar tu ordenador' />
     </a>
 </div>
 
