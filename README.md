@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-guiar-chatgpt-obtener-mejores-resultados-1280386'>Cómo guiar a ChatGPT para obtener los mejores resultados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-guiar-chatgpt-obtener-mejores-resultados-1280386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3092108.jpg?tf=1200x' alt='Cómo guiar a ChatGPT para obtener los mejores resultados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601'>Mejores televisores 4K que puedes comprar en 2023 según tu presupuesto</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/lg-oled-evo-2023-3018432.jpg?tf=1200x' alt='Mejores televisores 4K que puedes comprar en 2023 según tu presupuesto' />
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mostrar-dni-pagar-tarjeta-comercios-1280114'>¿Estás obligado a mostrar el DNI al pagar por tarjeta si el dependiente te lo pide?</a></h4>
+    <h4><a href='https://computerhoy.com/life/mostrar-dni-pagar-tarjeta-comercios-1280114'>¿Estás obligado a mostrar el DNI al pagar con tarjeta si el dependiente te lo pide?</a></h4>
     <a href='https://computerhoy.com/life/mostrar-dni-pagar-tarjeta-comercios-1280114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estas-obligado-ensenar-dni-te-piden-pagar-tarjeta-3091812.jpg?tf=1200x' alt='¿Estás obligado a mostrar el DNI al pagar por tarjeta si el dependiente te lo pide?' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estas-obligado-ensenar-dni-te-piden-pagar-tarjeta-3091812.jpg?tf=1200x' alt='¿Estás obligado a mostrar el DNI al pagar con tarjeta si el dependiente te lo pide?' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/subasta-nft-primer-tuit-historia-solo-recibe-calderilla-1280136'>Subasta el NFT del primer tuit de la historia, por el que pagó 2,9 millones de dólares, y solo consigue 1.871 dólares</a></h4>
     <a href='https://computerhoy.com/internet/subasta-nft-primer-tuit-historia-solo-recibe-calderilla-1280136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/jack-dorsey-ceo-twitter-1884703.jpg?tf=1200x' alt='Subasta el NFT del primer tuit de la historia, por el que pagó 2,9 millones de dólares, y solo consigue 1.871 dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cava-zanja-retrete-descubre-ciudad-subterranea-llena-trampas-1279952'>Cava una zanja para el retrete y descubre una ciudad subterránea de hace 1.500 años llena de trampas</a></h4>
-    <a href='https://computerhoy.com/life/cava-zanja-retrete-descubre-ciudad-subterranea-llena-trampas-1279952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cava-zanja-retrete-descubre-ciudad-subterranea-hace-1500-anos-3091310.jpg?tf=1200x' alt='Cava una zanja para el retrete y descubre una ciudad subterránea de hace 1.500 años llena de trampas' />
     </a>
 </div>
 
