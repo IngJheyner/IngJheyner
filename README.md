@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/subasta-nft-primer-tuit-historia-solo-recibe-calderilla-1280136'>Subasta el NFT del primer tuit de la historia, por el que pagó 2,9 millones de dólares, y solo consigue 1.871 dólares</a></h4>
+    <a href='https://computerhoy.com/internet/subasta-nft-primer-tuit-historia-solo-recibe-calderilla-1280136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/jack-dorsey-ceo-twitter-1884703.jpg?tf=1200x' alt='Subasta el NFT del primer tuit de la historia, por el que pagó 2,9 millones de dólares, y solo consigue 1.871 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cava-zanja-retrete-descubre-ciudad-subterranea-llena-trampas-1279952'>Cava una zanja para el retrete y descubre una ciudad subterránea de hace 1.500 años llena de trampas</a></h4>
+    <a href='https://computerhoy.com/life/cava-zanja-retrete-descubre-ciudad-subterranea-llena-trampas-1279952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cava-zanja-retrete-descubre-ciudad-subterranea-hace-1500-anos-3091310.jpg?tf=1200x' alt='Cava una zanja para el retrete y descubre una ciudad subterránea de hace 1.500 años llena de trampas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/drones-inteligencia-artificial-luchar-incendios-europa-1280104'>El dron español con IA para luchar contra los incendios en Europa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/drones-inteligencia-artificial-luchar-incendios-europa-1280104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robboto-dron-incendios-3091802.jpg?tf=1200x' alt='El dron español con IA para luchar contra los incendios en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/cual-temperatura-ideal-casa-trabajo-1280092'>¿Cuál es la temperatura ideal en tu casa y el trabajo?</a></h4>
     <a href='https://computerhoy.com/hogar/cual-temperatura-ideal-casa-trabajo-1280092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cual-temperatura-ideal-casa-trabajo-3091774.jpg?tf=1200x' alt='¿Cuál es la temperatura ideal en tu casa y el trabajo?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/futurama-temporada-11-1280124'>Ya está aquí la nueva temporada de la mejor serie del creador de Los Simpson</a></h4>
     <a href='https://computerhoy.com/entretenimiento/futurama-temporada-11-1280124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ya-aqui-nueva-temporada-mejor-serie-creador-simpson-3091806.jpg?tf=1200x' alt='Ya está aquí la nueva temporada de la mejor serie del creador de Los Simpson' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/no-puedes-dejar-morderte-unas-investigadores-encuentran-tecnica-increiblemente-sencilla-dejar-hacerlo-1280116'>¿No puedes dejar de morderte las uñas? Investigadores encuentran una  técnica increíblemente sencilla para dejar de hacerlo</a></h4>
-    <a href='https://computerhoy.com/life/no-puedes-dejar-morderte-unas-investigadores-encuentran-tecnica-increiblemente-sencilla-dejar-hacerlo-1280116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/morderse-unas-3091814.jpg?tf=1200x' alt='¿No puedes dejar de morderte las uñas? Investigadores encuentran una  técnica increíblemente sencilla para dejar de hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/worldcoin-nueva-app-creador-chatgpt-te-regala-dinero-confirmar-eres-humano-ya-disponible-espana-1280108'>Worldcoin, la nueva app del creador de ChatGPT que te regala dinero por confirmar que eres humano, ya disponible en España</a></h4>
-    <a href='https://computerhoy.com/criptos/worldcoin-nueva-app-creador-chatgpt-te-regala-dinero-confirmar-eres-humano-ya-disponible-espana-1280108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/worldcoin-3033918.jpg?tf=1200x' alt='Worldcoin, la nueva app del creador de ChatGPT que te regala dinero por confirmar que eres humano, ya disponible en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/exoesqueleto-superpoderes-deportes-aventura-1280076'>El exoesqueleto enfocado en los deportes de aventura que te hará correr a 20 Km/h </a></h4>
-    <a href='https://computerhoy.com/life/exoesqueleto-superpoderes-deportes-aventura-1280076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/omega-hypershell-exoesqueleto-aventura-3091724.jpg?tf=1200x' alt='El exoesqueleto enfocado en los deportes de aventura que te hará correr a 20 Km/h ' />
     </a>
 </div>
 
