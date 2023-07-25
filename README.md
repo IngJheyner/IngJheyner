@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601'>Mejores televisores 4K que puedes comprar en 2023 según tu presupuesto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/lg-oled-evo-2023-3018432.jpg?tf=1200x' alt='Mejores televisores 4K que puedes comprar en 2023 según tu presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-redmi-watch-3-active-analisis-review-caracteristicas-precio-1276680'>Xiaomi Redmi Watch 3 Active, análisis y opinión: el smartwatch barato para hacer el ejercicio justo</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-redmi-watch-3-active-analisis-review-caracteristicas-precio-1276680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-redmi-watch-3-active-3086014.jpg?tf=1200x' alt='Xiaomi Redmi Watch 3 Active, análisis y opinión: el smartwatch barato para hacer el ejercicio justo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mostrar-dni-pagar-tarjeta-comercios-1280114'>¿Estás obligado a mostrar el DNI al pagar por tarjeta si el dependiente te lo pide?</a></h4>
+    <a href='https://computerhoy.com/life/mostrar-dni-pagar-tarjeta-comercios-1280114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estas-obligado-ensenar-dni-te-piden-pagar-tarjeta-3091812.jpg?tf=1200x' alt='¿Estás obligado a mostrar el DNI al pagar por tarjeta si el dependiente te lo pide?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/subasta-nft-primer-tuit-historia-solo-recibe-calderilla-1280136'>Subasta el NFT del primer tuit de la historia, por el que pagó 2,9 millones de dólares, y solo consigue 1.871 dólares</a></h4>
     <a href='https://computerhoy.com/internet/subasta-nft-primer-tuit-historia-solo-recibe-calderilla-1280136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/jack-dorsey-ceo-twitter-1884703.jpg?tf=1200x' alt='Subasta el NFT del primer tuit de la historia, por el que pagó 2,9 millones de dólares, y solo consigue 1.871 dólares' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cava-zanja-retrete-descubre-ciudad-subterranea-llena-trampas-1279952'>Cava una zanja para el retrete y descubre una ciudad subterránea de hace 1.500 años llena de trampas</a></h4>
     <a href='https://computerhoy.com/life/cava-zanja-retrete-descubre-ciudad-subterranea-llena-trampas-1279952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cava-zanja-retrete-descubre-ciudad-subterranea-hace-1500-anos-3091310.jpg?tf=1200x' alt='Cava una zanja para el retrete y descubre una ciudad subterránea de hace 1.500 años llena de trampas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/drones-inteligencia-artificial-luchar-incendios-europa-1280104'>El dron español con IA para luchar contra los incendios en Europa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/drones-inteligencia-artificial-luchar-incendios-europa-1280104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robboto-dron-incendios-3091802.jpg?tf=1200x' alt='El dron español con IA para luchar contra los incendios en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/cual-temperatura-ideal-casa-trabajo-1280092'>¿Cuál es la temperatura ideal en tu casa y el trabajo?</a></h4>
-    <a href='https://computerhoy.com/hogar/cual-temperatura-ideal-casa-trabajo-1280092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cual-temperatura-ideal-casa-trabajo-3091774.jpg?tf=1200x' alt='¿Cuál es la temperatura ideal en tu casa y el trabajo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/futurama-temporada-11-1280124'>Ya está aquí la nueva temporada de la mejor serie del creador de Los Simpson</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/futurama-temporada-11-1280124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ya-aqui-nueva-temporada-mejor-serie-creador-simpson-3091806.jpg?tf=1200x' alt='Ya está aquí la nueva temporada de la mejor serie del creador de Los Simpson' />
     </a>
 </div>
 
