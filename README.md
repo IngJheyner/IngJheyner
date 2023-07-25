@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/nuevo-movil-asequible-xiaomi-promete-arrasar-gama-entrada-1280132'>De Xiaomi y a precio de derribo: el Redmi 12 promete arrasar en la gama baja</a></h4>
-    <a href='https://computerhoy.com/android/nuevo-movil-asequible-xiaomi-promete-arrasar-gama-entrada-1280132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-12-3068660.jpg?tf=1200x' alt='De Xiaomi y a precio de derribo: el Redmi 12 promete arrasar en la gama baja' />
+    <h4><a href='https://computerhoy.com/apple/sueno-iphone-marcos-cada-vez-cerca-ultimos-rumores-1280554'>El sueño de un iPhone sin marcos cada vez más cerca, según últimos rumores</a></h4>
+    <a href='https://computerhoy.com/apple/sueno-iphone-marcos-cada-vez-cerca-ultimos-rumores-1280554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/iphone-face-id-3075408.jpg?tf=1200x' alt='El sueño de un iPhone sin marcos cada vez más cerca, según últimos rumores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/celulas-t-asesinas-podrian-ser-clave-curar-pacientes-cancer-1280400'>Las células T asesinas podrían ser la clave para curar a pacientes con cáncer</a></h4>
-    <a href='https://computerhoy.com/ciencia/celulas-t-asesinas-podrian-ser-clave-curar-pacientes-cancer-1280400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/celulas-t-asesinas-podrian-ser-clave-curar-pacientes-cancer-3092148.jpg?tf=1200x' alt='Las células T asesinas podrían ser la clave para curar a pacientes con cáncer' />
+    <h4><a href='https://computerhoy.com/life/valle-muerte-record-mundial-temperatura-nocturna-1280550'>El Valle de la Muerte bate el  récord mundial de temperatura por la noche: 48,9 grados a la 1 de la madrugada</a></h4>
+    <a href='https://computerhoy.com/life/valle-muerte-record-mundial-temperatura-nocturna-1280550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/valle-muerte-bate-record-mundial-temperatura-noche-489-grados-1-madrugada-3091840.jpg?tf=1200x' alt='El Valle de la Muerte bate el  récord mundial de temperatura por la noche: 48,9 grados a la 1 de la madrugada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-guiar-chatgpt-obtener-mejores-resultados-1280386'>Cómo guiar a ChatGPT para obtener los mejores resultados</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-guiar-chatgpt-obtener-mejores-resultados-1280386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3092108.jpg?tf=1200x' alt='Cómo guiar a ChatGPT para obtener los mejores resultados' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mi-netflix-nueva-funcion-plataforma-quiera-sacarte-apuro-1280454'>Mi Netflix: la nueva función de la plataforma que quiera sacarte de un gran apuro</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mi-netflix-nueva-funcion-plataforma-quiera-sacarte-apuro-1280454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mi-netflix-nueva-funcion-plataforma-quiera-sacarte-gran-apuro-3092254.jpg?tf=1200x' alt='Mi Netflix: la nueva función de la plataforma que quiera sacarte de un gran apuro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601'>Mejores televisores 4K que puedes comprar en 2023 según tu presupuesto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/lg-oled-evo-2023-3018432.jpg?tf=1200x' alt='Mejores televisores 4K que puedes comprar en 2023 según tu presupuesto' />
+    <h4><a href='https://computerhoy.com/espacio/como-spacex-quiere-convertir-starship-estacion-espacial-comercial-1280496'>Cómo SpaceX quiere convertir Starship en una estación espacial comercial</a></h4>
+    <a href='https://computerhoy.com/espacio/como-spacex-quiere-convertir-starship-estacion-espacial-comercial-1280496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/stardust-space-empresa-espanola-enviara-cenizas-personas-fallecidas-espacio-cohetes-spacex-2861485.jpg?tf=1200x' alt='Cómo SpaceX quiere convertir Starship en una estación espacial comercial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xiaomi-redmi-watch-3-active-analisis-review-caracteristicas-precio-1276680'>Xiaomi Redmi Watch 3 Active, análisis y opinión: el smartwatch barato para hacer el ejercicio justo</a></h4>
-    <a href='https://computerhoy.com/analisis/xiaomi-redmi-watch-3-active-analisis-review-caracteristicas-precio-1276680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-redmi-watch-3-active-3086014.jpg?tf=1200x' alt='Xiaomi Redmi Watch 3 Active, análisis y opinión: el smartwatch barato para hacer el ejercicio justo' />
+    <h4><a href='https://computerhoy.com/ciencia/funciona-panel-solar-doble-cara-eficiencia-asombrosa-1280436'>Así funciona el panel solar de doble cara con una eficiencia asombrosa</a></h4>
+    <a href='https://computerhoy.com/ciencia/funciona-panel-solar-doble-cara-eficiencia-asombrosa-1280436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cientificos-desarrollan-panel-solar-doble-cara-eficiencia-asombrosa-3092224.jpg?tf=1200x' alt='Así funciona el panel solar de doble cara con una eficiencia asombrosa' />
     </a>
 </div>
 
