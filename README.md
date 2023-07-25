@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/nuevo-movil-asequible-xiaomi-promete-arrasar-gama-entrada-1280132'>De Xiaomi y a precio de derribo: el Redmi 12 promete arrasar en la gama baja</a></h4>
+    <a href='https://computerhoy.com/android/nuevo-movil-asequible-xiaomi-promete-arrasar-gama-entrada-1280132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-12-3068660.jpg?tf=1200x' alt='De Xiaomi y a precio de derribo: el Redmi 12 promete arrasar en la gama baja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/celulas-t-asesinas-podrian-ser-clave-curar-pacientes-cancer-1280400'>Las células T asesinas podrían ser la clave para curar a pacientes con cáncer</a></h4>
+    <a href='https://computerhoy.com/ciencia/celulas-t-asesinas-podrian-ser-clave-curar-pacientes-cancer-1280400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/celulas-t-asesinas-podrian-ser-clave-curar-pacientes-cancer-3092148.jpg?tf=1200x' alt='Las células T asesinas podrían ser la clave para curar a pacientes con cáncer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-guiar-chatgpt-obtener-mejores-resultados-1280386'>Cómo guiar a ChatGPT para obtener los mejores resultados</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-guiar-chatgpt-obtener-mejores-resultados-1280386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3092108.jpg?tf=1200x' alt='Cómo guiar a ChatGPT para obtener los mejores resultados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/xiaomi-redmi-watch-3-active-analisis-review-caracteristicas-precio-1276680'>Xiaomi Redmi Watch 3 Active, análisis y opinión: el smartwatch barato para hacer el ejercicio justo</a></h4>
     <a href='https://computerhoy.com/analisis/xiaomi-redmi-watch-3-active-analisis-review-caracteristicas-precio-1276680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-redmi-watch-3-active-3086014.jpg?tf=1200x' alt='Xiaomi Redmi Watch 3 Active, análisis y opinión: el smartwatch barato para hacer el ejercicio justo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mostrar-dni-pagar-tarjeta-comercios-1280114'>¿Estás obligado a mostrar el DNI al pagar con tarjeta si el dependiente te lo pide?</a></h4>
-    <a href='https://computerhoy.com/life/mostrar-dni-pagar-tarjeta-comercios-1280114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estas-obligado-ensenar-dni-te-piden-pagar-tarjeta-3091812.jpg?tf=1200x' alt='¿Estás obligado a mostrar el DNI al pagar con tarjeta si el dependiente te lo pide?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/subasta-nft-primer-tuit-historia-solo-recibe-calderilla-1280136'>Subasta el NFT del primer tuit de la historia, por el que pagó 2,9 millones de dólares, y solo consigue 1.871 dólares</a></h4>
-    <a href='https://computerhoy.com/internet/subasta-nft-primer-tuit-historia-solo-recibe-calderilla-1280136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/jack-dorsey-ceo-twitter-1884703.jpg?tf=1200x' alt='Subasta el NFT del primer tuit de la historia, por el que pagó 2,9 millones de dólares, y solo consigue 1.871 dólares' />
     </a>
 </div>
 
