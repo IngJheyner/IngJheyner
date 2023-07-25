@@ -50,41 +50,43 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/6-reglas-elon-musk-ser-productivo-trabajo-1277850'>Las 6 reglas de Elon Musk para ser más productivo en el trabajo</a></h4>
-    <a href='https://computerhoy.com/life/6-reglas-elon-musk-ser-productivo-trabajo-1277850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/elon-musk_1.jpg?tf=1200x' alt='Las 6 reglas de Elon Musk para ser más productivo en el trabajo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/generacion-v-spin-off-the-boys-prime-video-1280720'>Generación V, el spin-off de una de las series más atrevidas de Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/generacion-v-spin-off-the-boys-prime-video-1280720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1690312736124-3092754.jpg?tf=1200x' alt='Generación V, el spin-off de una de las series más atrevidas de Prime Video' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/5-mejores-apps-traduccion-iphone-deberias-instalar-ahora-mismo-1278972'>5 mejores aplicaciones de traducción para iPhone que deberías instalar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/apps/5-mejores-apps-traduccion-iphone-deberias-instalar-ahora-mismo-1278972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/app-traductor-iphone-3090102.jpg?tf=1200x' alt='5 mejores aplicaciones de traducción para iPhone que deberías instalar ahora mismo' />
+    <h4><a href='https://computerhoy.com/android/pantalla-oled-5g-potente-movil-honor-precio-minimo-historico-amazon-1280652'>Pantalla OLED y 5G: este potente móvil Honor está a precio mínimo histórico en Amazon</a></h4>
+    <a href='https://computerhoy.com/android/pantalla-oled-5g-potente-movil-honor-precio-minimo-historico-amazon-1280652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-honor-70-2798873.jpg?tf=1200x' alt='Pantalla OLED y 5G: este potente móvil Honor está a precio mínimo histórico en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/perturbadora-respuesta-robot-rebelara-creador-1280632'>La perturbadora respuesta de un robot sobre sí se rebelará contra su creador que pone los pelos de punta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/perturbadora-respuesta-robot-rebelara-creador-1280632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/perturbadora-respuesta-robot-rebelara-creador-3092558.jpg?tf=1200x' alt='La perturbadora respuesta de un robot sobre sí se rebelará contra su creador que pone los pelos de punta' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-evitar-lesiones-comunes-uso-movil-1256402'>Cómo evitar las lesiones más comunes por el uso del móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-evitar-lesiones-comunes-uso-movil-1256402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movil-mano-3050656.jpg?tf=1200x' alt='Cómo evitar las lesiones más comunes por el uso del móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-demasiadas-solicitudes-1-hora-chatgpt-pasos-evitar-restriccion-1280354'>Cómo solucionar el error "Demasiadas solicitudes en 1 hora" en ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-demasiadas-solicitudes-1-hora-chatgpt-pasos-evitar-restriccion-1280354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-pc-3092052.jpg?tf=1200x' alt='Cómo solucionar el error "Demasiadas solicitudes en 1 hora" en ChatGPT' />
+    <h4><a href='https://computerhoy.com/redes/tiktok-solo-texto-competir-twitter-threads-1280684'>TikTok va a por Twitter y Threads: ya permite publicar solo texto</a></h4>
+    <a href='https://computerhoy.com/redes/tiktok-solo-texto-competir-twitter-threads-1280684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/tiktok-permite-publicar-texto-competir-twitter-threads-3092696.jpg?tf=1200x' alt='TikTok va a por Twitter y Threads: ya permite publicar solo texto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/senales-indican-ha-llegado-momento-actualizar-ordenador-1280612'>Señales que indican que ha llegado el momento de actualizar tu ordenador</a></h4>
-    <a href='https://computerhoy.com/pc/senales-indican-ha-llegado-momento-actualizar-ordenador-1280612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/4-senales-indican-momento-actualizar-hardware-pc-3092446.jpg?tf=1200x' alt='Señales que indican que ha llegado el momento de actualizar tu ordenador' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-datos-pendrive-usb-viejo-estropeado-1276460'>Cómo recuperar los datos de un pendrive USB viejo o estropeado
+</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-datos-pendrive-usb-viejo-estropeado-1276460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pendrive-usb-3092400.jpg?tf=1200x' alt='Cómo recuperar los datos de un pendrive USB viejo o estropeado
+' />
     </a>
 </div>
 
