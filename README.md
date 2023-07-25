@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-celebra-decimo-aniversario-chromecast-multa-339-millones-1280728'>Google celebra el décimo aniversario de Chromecast con una multa de 339 millones de dólares por violar patentes</a></h4>
+    <a href='https://computerhoy.com/google/google-celebra-decimo-aniversario-chromecast-multa-339-millones-1280728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-celebra-decimo-aniversario-chromecast-multa-339-millones-dolares-violar-patentes-3092768.jpg?tf=1200x' alt='Google celebra el décimo aniversario de Chromecast con una multa de 339 millones de dólares por violar patentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/generacion-v-spin-off-the-boys-prime-video-1280720'>Generación V, el spin-off de una de las series más atrevidas de Prime Video</a></h4>
     <a href='https://computerhoy.com/entretenimiento/generacion-v-spin-off-the-boys-prime-video-1280720' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1690312736124-3092754.jpg?tf=1200x' alt='Generación V, el spin-off de una de las series más atrevidas de Prime Video' />
@@ -77,16 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/tiktok-solo-texto-competir-twitter-threads-1280684'>TikTok va a por Twitter y Threads: ya permite publicar solo texto</a></h4>
     <a href='https://computerhoy.com/redes/tiktok-solo-texto-competir-twitter-threads-1280684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/tiktok-permite-publicar-texto-competir-twitter-threads-3092696.jpg?tf=1200x' alt='TikTok va a por Twitter y Threads: ya permite publicar solo texto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-datos-pendrive-usb-viejo-estropeado-1276460'>Cómo recuperar los datos de un pendrive USB viejo o estropeado
-</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recuperar-datos-pendrive-usb-viejo-estropeado-1276460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pendrive-usb-3092400.jpg?tf=1200x' alt='Cómo recuperar los datos de un pendrive USB viejo o estropeado
-' />
     </a>
 </div>
 
