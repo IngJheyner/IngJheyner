@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/espejo-podria-ser-suficiente-llevar-agua-tierra-luna-1280504'>Un espejo podría ser suficiente para llevar agua de la Tierra a la Luna</a></h4>
+    <a href='https://computerhoy.com/ciencia/espejo-podria-ser-suficiente-llevar-agua-tierra-luna-1280504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/espejo-podria-ser-suficiente-llevar-agua-tierra-luna-3092298.jpg?tf=1200x' alt='Un espejo podría ser suficiente para llevar agua de la Tierra a la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/utilizas-solamente-pin-telefono-movil-hay-muchas-probabilidades-te-roben-1278106'>¿Utilizas solamente un PIN en tu teléfono móvil? Hay muchas probabilidades de que te lo roben</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/utilizas-solamente-pin-telefono-movil-hay-muchas-probabilidades-te-roben-1278106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/movil-3088436.jpg?tf=1200x' alt='¿Utilizas solamente un PIN en tu teléfono móvil? Hay muchas probabilidades de que te lo roben' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/beneficios-riesgos-dormir-ventilador-encendido-1280356'>Los beneficios y riesgos de dormir con el ventilador encendido</a></h4>
     <a href='https://computerhoy.com/life/beneficios-riesgos-dormir-ventilador-encendido-1280356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ventilador-2736697.jpg?tf=1200x' alt='Los beneficios y riesgos de dormir con el ventilador encendido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/hay-luz-nevera-pero-no-congelador-981701'>¿Por qué hay luz en la nevera pero no en el congelador? </a></h4>
     <a href='https://computerhoy.com/noticias/life/hay-luz-nevera-pero-no-congelador-981701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mujer-delante-nevera-puerta-abierta-2562395.jpg?tf=1200x' alt='¿Por qué hay luz en la nevera pero no en el congelador? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/chatgpt-android-oficial-puedes-registrarte-ser-primeros-probarlo-1280126'>ChatGPT en Android es oficial: así puedes registrarte para ser uno de los primeros en probarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/chatgpt-android-oficial-puedes-registrarte-ser-primeros-probarlo-1280126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-android-3091838.jpg?tf=1200x' alt='ChatGPT en Android es oficial: así puedes registrarte para ser uno de los primeros en probarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/sueno-iphone-marcos-cada-vez-cerca-ultimos-rumores-1280554'>El sueño de un iPhone sin marcos cada vez más cerca, según últimos rumores</a></h4>
-    <a href='https://computerhoy.com/apple/sueno-iphone-marcos-cada-vez-cerca-ultimos-rumores-1280554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/iphone-face-id-3075408.jpg?tf=1200x' alt='El sueño de un iPhone sin marcos cada vez más cerca, según últimos rumores' />
     </a>
 </div>
 
