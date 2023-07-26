@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/worldcoin-como-funciona-merece-pena-ceder-iris-cambio-dinero-1280982'>Qué es Worldcoin y cómo funciona: ¿merece la pena ceder tu iris a cambio de dinero?</a></h4>
-    <a href='https://computerhoy.com/criptos/worldcoin-como-funciona-merece-pena-ceder-iris-cambio-dinero-1280982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/worldcoin-como-funciona-merece-pena-ceder-iris-cambio-dinero-3093098.jpg?tf=1200x' alt='Qué es Worldcoin y cómo funciona: ¿merece la pena ceder tu iris a cambio de dinero?' />
+    <h4><a href='https://computerhoy.com/alimentacion/ultima-locura-japonesa-verano-pizza-helado-1281112'>La última locura japonesa para el verano: la pizza helado</a></h4>
+    <a href='https://computerhoy.com/alimentacion/ultima-locura-japonesa-verano-pizza-helado-1281112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ultima-locura-japonesa-verano-pizza-helado-3093290.jpg?tf=1200x' alt='La última locura japonesa para el verano: la pizza helado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/25-aniversario-ch-guerra-formatos-hd-dvd-vs-blu-ray-1237562'>25 aniversario de Computer Hoy: Guerra de formatos HD-DVD vs Blu-Ray</a></h4>
-    <a href='https://computerhoy.com/tecnologia/25-aniversario-ch-guerra-formatos-hd-dvd-vs-blu-ray-1237562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/blu-ray-vs-hd-dvd-3086492.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Guerra de formatos HD-DVD vs Blu-Ray' />
+    <h4><a href='https://computerhoy.com/android/google-renueva-play-store-tablets-dispositivos-plegables-1281096'>Google renueva la Play Store para tablets y dispositivos plegables</a></h4>
+    <a href='https://computerhoy.com/android/google-renueva-play-store-tablets-dispositivos-plegables-1281096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-renueva-play-store-tablets-dispositivos-plegables-3093294.jpg?tf=1200x' alt='Google renueva la Play Store para tablets y dispositivos plegables' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/protegiendo-mayores-como-evitar-acaben-cayendo-estafas-online-1279310'>Protegiendo a nuestros mayores: cómo evitar que acaben cayendo en estafas online</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/protegiendo-mayores-como-evitar-acaben-cayendo-estafas-online-1279310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/protegiendo-mayores-como-evitar-acaben-cayendo-estafas-linea-3090522.jpg?tf=1200x' alt='Protegiendo a nuestros mayores: cómo evitar que acaben cayendo en estafas online' />
+    <h4><a href='https://computerhoy.com/android/primeras-impresiones-galaxy-watch-6-tablets-galaxy-tab-s9-1280622'>Así son los nuevos Galaxy Watch 6 y las tablets Galaxy Tab S9: Toma de contacto</a></h4>
+    <a href='https://computerhoy.com/android/primeras-impresiones-galaxy-watch-6-tablets-galaxy-tab-s9-1280622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/tab-watch-3092742.jpg?tf=1200x' alt='Así son los nuevos Galaxy Watch 6 y las tablets Galaxy Tab S9: Toma de contacto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/gestores-contrasenas-1235216'>Mantén tu vida digital a salvo con los mejores gestores de contraseñas</a></h4>
-    <a href='https://computerhoy.com/mejores/gestores-contrasenas-1235216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gestor-contrasenas-nordpass-movil-3017210.jpg?tf=1200x' alt='Mantén tu vida digital a salvo con los mejores gestores de contraseñas' />
+    <h4><a href='https://computerhoy.com/tecnologia/galaxy-unpacked-2023-todo-ha-presentado-samsung-1280952'>Galaxy Unpacked 2023, todo lo que ha presentado Samsung</a></h4>
+    <a href='https://computerhoy.com/tecnologia/galaxy-unpacked-2023-todo-ha-presentado-samsung-1280952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-3093140.jpg?tf=1200x' alt='Galaxy Unpacked 2023, todo lo que ha presentado Samsung' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/formula-1-construido-piezas-tractor-alcanza-320-kilometros-hora-1280946'>Construyen un coche de Fórmula 1 con piezas de tractor que alcanza los 320 kilómetros por hora</a></h4>
-    <a href='https://computerhoy.com/motor/formula-1-construido-piezas-tractor-alcanza-320-kilometros-hora-1280946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/construyen-coche-formula-1-piezas-tractor-alcanza-350-km-h-3092778.jpg?tf=1200x' alt='Construyen un coche de Fórmula 1 con piezas de tractor que alcanza los 320 kilómetros por hora' />
+    <h4><a href='https://computerhoy.com/moviles/galaxy-fold-5-primeras-impresiones-plegado-hueco-nuevo-procesador-1278762'>Galaxy Fold 5, primeras impresiones: plegado sin hueco en Samsung y un nuevo procesador</a></h4>
+    <a href='https://computerhoy.com/moviles/galaxy-fold-5-primeras-impresiones-plegado-hueco-nuevo-procesador-1278762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-fold-5-3089690.jpg?tf=1200x' alt='Galaxy Fold 5, primeras impresiones: plegado sin hueco en Samsung y un nuevo procesador' />
     </a>
 </div>
 
