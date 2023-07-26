@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/worldcoin-como-funciona-merece-pena-ceder-iris-cambio-dinero-1280982'>Qué es Worldcoin y cómo funciona: ¿merece la pena ceder tu iris a cambio de dinero?</a></h4>
+    <a href='https://computerhoy.com/criptos/worldcoin-como-funciona-merece-pena-ceder-iris-cambio-dinero-1280982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/worldcoin-como-funciona-merece-pena-ceder-iris-cambio-dinero-3093098.jpg?tf=1200x' alt='Qué es Worldcoin y cómo funciona: ¿merece la pena ceder tu iris a cambio de dinero?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/25-aniversario-ch-guerra-formatos-hd-dvd-vs-blu-ray-1237562'>25 aniversario de Computer Hoy: Guerra de formatos HD-DVD vs Blu-Ray</a></h4>
     <a href='https://computerhoy.com/tecnologia/25-aniversario-ch-guerra-formatos-hd-dvd-vs-blu-ray-1237562' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/blu-ray-vs-hd-dvd-3086492.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Guerra de formatos HD-DVD vs Blu-Ray' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/formula-1-construido-piezas-tractor-alcanza-320-kilometros-hora-1280946'>Construyen un coche de Fórmula 1 con piezas de tractor que alcanza los 320 kilómetros por hora</a></h4>
     <a href='https://computerhoy.com/motor/formula-1-construido-piezas-tractor-alcanza-320-kilometros-hora-1280946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/construyen-coche-formula-1-piezas-tractor-alcanza-350-km-h-3092778.jpg?tf=1200x' alt='Construyen un coche de Fórmula 1 con piezas de tractor que alcanza los 320 kilómetros por hora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-cancela-herramienta-capaz-detectar-textos-creados-ia-1280698'>¿Rendición o estrategia? OpenAI abandona la identificación de textos generados por IA en ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-cancela-herramienta-capaz-detectar-textos-creados-ia-1280698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/rendicion-estrategia-openai-abandona-identificacion-textos-generados-ia-chatgpt-3092728.jpg?tf=1200x' alt='¿Rendición o estrategia? OpenAI abandona la identificación de textos generados por IA en ChatGPT' />
     </a>
 </div>
 
