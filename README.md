@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cientificos-detectan-extrana-senal-espacio-repite-cada-22-minutos-durante-30-anos-1280646'>Científicos detectan una señal del espacio que se ha estado emitiendo cada 22 minutos durante más de 30 años</a></h4>
-    <a href='https://computerhoy.com/espacio/cientificos-detectan-extrana-senal-espacio-repite-cada-22-minutos-durante-30-anos-1280646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/magnetar-3092714.jpg?tf=1200x' alt='Científicos detectan una señal del espacio que se ha estado emitiendo cada 22 minutos durante más de 30 años' />
+    <h4><a href='https://computerhoy.com/tutoriales/reinicio-emergencia-windows-11-como-utilizarlo-1280696'>Qué es el reinicio de emergencia en Windows 11 y cómo utilizarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/reinicio-emergencia-windows-11-como-utilizarlo-1280696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/boton-panico-windows-3093434.jpg?tf=1200x' alt='Qué es el reinicio de emergencia en Windows 11 y cómo utilizarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/smartphones-android-kitkat-perderan-actualizaciones-seguridad-1281280'>Los 69 móviles Android que perderán las actualizaciones de seguridad este agosto: fin de la versión KitKat</a></h4>
-    <a href='https://computerhoy.com/android/smartphones-android-kitkat-perderan-actualizaciones-seguridad-1281280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/fin-version-kitkat-android-3093690.jpg?tf=1200x' alt='Los 69 móviles Android que perderán las actualizaciones de seguridad este agosto: fin de la versión KitKat' />
+    <h4><a href='https://computerhoy.com/moviles/moviles-samsung-potentes-340eu-barato-oferta-flash-1281100'>Uno de los móviles Samsung más potentes es 340€ más barato en esta oferta flash</a></h4>
+    <a href='https://computerhoy.com/moviles/moviles-samsung-potentes-340eu-barato-oferta-flash-1281100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-galaxy-s22-ultra-2620799.jpg?tf=1200x' alt='Uno de los móviles Samsung más potentes es 340€ más barato en esta oferta flash' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-refrescaba-gente-antes-existiera-aire-acondicionado-1280626'>Cómo se refrescaba la gente antes de que existiera el aire acondicionado</a></h4>
-    <a href='https://computerhoy.com/life/como-refrescaba-gente-antes-existiera-aire-acondicionado-1280626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hace-mucho-calor-no-te-quejes-mejor-preparate-nos-espera-3081798.jpg?tf=1200x' alt='Cómo se refrescaba la gente antes de que existiera el aire acondicionado' />
+    <h4><a href='https://computerhoy.com/espacio/cierto-algunas-estrellas-vemos-cielo-ya-estan-muertas-1280120'>¿Es cierto el mito de que algunas de las estrellas que vemos en el cielo ya están muertas?</a></h4>
+    <a href='https://computerhoy.com/espacio/cierto-algunas-estrellas-vemos-cielo-ya-estan-muertas-1280120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estrellas-universo-3091808.jpg?tf=1200x' alt='¿Es cierto el mito de que algunas de las estrellas que vemos en el cielo ya están muertas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/carpeta-windowsold-windows-11-como-eliminarla-forma-permanente-1275320'>Qué es la carpeta Windows.old de Windows 11 y cómo eliminarla de forma permanente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/carpeta-windowsold-windows-11-como-eliminarla-forma-permanente-1275320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-old-3083364.jpg?tf=1200x' alt='Qué es la carpeta Windows.old de Windows 11 y cómo eliminarla de forma permanente' />
+    <h4><a href='https://computerhoy.com/audio/alternativas-spotify-tras-subida-precios-1281256'>Las mejores alternativas a Spotify, incluso más baratas, tras la subida de precio</a></h4>
+    <a href='https://computerhoy.com/audio/alternativas-spotify-tras-subida-precios-1281256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mejores-alternativas-spotify-incluso-baratas-subida-precio-3093674.jpg?tf=1200x' alt='Las mejores alternativas a Spotify, incluso más baratas, tras la subida de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/trucos-hacer-vuelvas-sentir-movil-android-como-fuera-nuevo-1281202'>Trucos para hacer que vuelvas a sentir tu móvil Android como si fuera nuevo</a></h4>
-    <a href='https://computerhoy.com/moviles/trucos-hacer-vuelvas-sentir-movil-android-como-fuera-nuevo-1281202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006122.jpg?tf=1200x' alt='Trucos para hacer que vuelvas a sentir tu móvil Android como si fuera nuevo' />
+    <h4><a href='https://computerhoy.com/tecnologia/thermomix-lidl-lanza-nuevas-versiones-baratas-otra-conocida-cara-marca-electrodomesticos-1280948'>Tras Thermomix Lidl lanza nuevas versiones baratas de otra conocida y cara marca de electrodomésticos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/thermomix-lidl-lanza-nuevas-versiones-baratas-otra-conocida-cara-marca-electrodomesticos-1280948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lidl-retro-3093414.jpg?tf=1200x' alt='Tras Thermomix Lidl lanza nuevas versiones baratas de otra conocida y cara marca de electrodomésticos' />
     </a>
 </div>
 
