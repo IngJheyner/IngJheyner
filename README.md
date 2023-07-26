@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sencillo-test-te-permite-conocer-cual-edad-real-cerebro-estas-perdiendo-memoria-1272092'>Este sencillo test te permite conocer cuál es la edad real de tu cerebro y si estás perdiendo memoria</a></h4>
-    <a href='https://computerhoy.com/life/sencillo-test-te-permite-conocer-cual-edad-real-cerebro-estas-perdiendo-memoria-1272092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/test-memoria-3078078.jpg?tf=1200x' alt='Este sencillo test te permite conocer cuál es la edad real de tu cerebro y si estás perdiendo memoria' />
+    <h4><a href='https://computerhoy.com/espacio/cientificos-detectan-extrana-senal-espacio-repite-cada-22-minutos-durante-30-anos-1280646'>Científicos detectan una señal del espacio que se ha estado emitiendo cada 22 minutos durante más de 30 años</a></h4>
+    <a href='https://computerhoy.com/espacio/cientificos-detectan-extrana-senal-espacio-repite-cada-22-minutos-durante-30-anos-1280646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/magnetar-3092714.jpg?tf=1200x' alt='Científicos detectan una señal del espacio que se ha estado emitiendo cada 22 minutos durante más de 30 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/funciona-battery-sleuth-dispositivo-secreto-evita-robos-coches-1281196'>Así funciona Battery Sleuth: el dispositivo secreto que evita los robos de coches</a></h4>
-    <a href='https://computerhoy.com/motor/funciona-battery-sleuth-dispositivo-secreto-evita-robos-coches-1281196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/funciona-battery-sleuth-dispositivo-secreto-evita-robos-coches-3093454.jpg?tf=1200x' alt='Así funciona Battery Sleuth: el dispositivo secreto que evita los robos de coches' />
+    <h4><a href='https://computerhoy.com/android/smartphones-android-kitkat-perderan-actualizaciones-seguridad-1281280'>Los 69 móviles Android que perderán las actualizaciones de seguridad este agosto: fin de la versión KitKat</a></h4>
+    <a href='https://computerhoy.com/android/smartphones-android-kitkat-perderan-actualizaciones-seguridad-1281280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/fin-version-kitkat-android-3093690.jpg?tf=1200x' alt='Los 69 móviles Android que perderán las actualizaciones de seguridad este agosto: fin de la versión KitKat' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/andi-robot-suda-ahora-lucha-cambio-climatico-1281180'>ANDI, el autómata que suda como un humano y ha pasado de maniquí deportivo a herramienta contra el cambio climático</a></h4>
-    <a href='https://computerhoy.com/ciencia/andi-robot-suda-ahora-lucha-cambio-climatico-1281180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robot-suda-andi-3093572.jpg?tf=1200x' alt='ANDI, el autómata que suda como un humano y ha pasado de maniquí deportivo a herramienta contra el cambio climático' />
+    <h4><a href='https://computerhoy.com/life/como-refrescaba-gente-antes-existiera-aire-acondicionado-1280626'>Cómo se refrescaba la gente antes de que existiera el aire acondicionado</a></h4>
+    <a href='https://computerhoy.com/life/como-refrescaba-gente-antes-existiera-aire-acondicionado-1280626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hace-mucho-calor-no-te-quejes-mejor-preparate-nos-espera-3081798.jpg?tf=1200x' alt='Cómo se refrescaba la gente antes de que existiera el aire acondicionado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aspirador-xiaomi-compite-dyson-ahora-mitad-precio-mediamarkt-1281006'>El aspirador de Xiaomi que compite con los Dyson está ahora a mitad de precio en Mediamarkt</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aspirador-xiaomi-compite-dyson-ahora-mitad-precio-mediamarkt-1281006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aspirador-xiaomi-11-3093088.jpg?tf=1200x' alt='El aspirador de Xiaomi que compite con los Dyson está ahora a mitad de precio en Mediamarkt' />
+    <h4><a href='https://computerhoy.com/tutoriales/carpeta-windowsold-windows-11-como-eliminarla-forma-permanente-1275320'>Qué es la carpeta Windows.old de Windows 11 y cómo eliminarla de forma permanente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/carpeta-windowsold-windows-11-como-eliminarla-forma-permanente-1275320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-old-3083364.jpg?tf=1200x' alt='Qué es la carpeta Windows.old de Windows 11 y cómo eliminarla de forma permanente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/primer-robot-aspirador-sube-baja-escaleras-1281176'>MIGO Ascender, el primer robot aspirador que sube y baja las escaleras (vídeo)</a></h4>
-    <a href='https://computerhoy.com/hogar/primer-robot-aspirador-sube-baja-escaleras-1281176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1690374441837-3093430.jpg?tf=1200x' alt='MIGO Ascender, el primer robot aspirador que sube y baja las escaleras (vídeo)' />
+    <h4><a href='https://computerhoy.com/moviles/trucos-hacer-vuelvas-sentir-movil-android-como-fuera-nuevo-1281202'>Trucos para hacer que vuelvas a sentir tu móvil Android como si fuera nuevo</a></h4>
+    <a href='https://computerhoy.com/moviles/trucos-hacer-vuelvas-sentir-movil-android-como-fuera-nuevo-1281202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006122.jpg?tf=1200x' alt='Trucos para hacer que vuelvas a sentir tu móvil Android como si fuera nuevo' />
     </a>
 </div>
 
