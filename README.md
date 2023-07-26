@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-cancela-herramienta-capaz-detectar-textos-creados-ia-1280698'>¿Rendición o estrategia? OpenAI abandona la identificación de textos generados por IA en ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-cancela-herramienta-capaz-detectar-textos-creados-ia-1280698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/rendicion-estrategia-openai-abandona-identificacion-textos-generados-ia-chatgpt-3092728.jpg?tf=1200x' alt='¿Rendición o estrategia? OpenAI abandona la identificación de textos generados por IA en ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-celebra-decimo-aniversario-chromecast-multa-339-millones-1280728'>Google celebra el décimo aniversario de Chromecast con una multa de 339 millones de dólares por violar patentes</a></h4>
     <a href='https://computerhoy.com/google/google-celebra-decimo-aniversario-chromecast-multa-339-millones-1280728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-celebra-decimo-aniversario-chromecast-multa-339-millones-dolares-violar-patentes-3092768.jpg?tf=1200x' alt='Google celebra el décimo aniversario de Chromecast con una multa de 339 millones de dólares por violar patentes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-evitar-lesiones-comunes-uso-movil-1256402'>Cómo evitar las lesiones más comunes por el uso del móvil</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-evitar-lesiones-comunes-uso-movil-1256402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movil-mano-3050656.jpg?tf=1200x' alt='Cómo evitar las lesiones más comunes por el uso del móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/tiktok-solo-texto-competir-twitter-threads-1280684'>TikTok va a por Twitter y Threads: ya permite publicar solo texto</a></h4>
-    <a href='https://computerhoy.com/redes/tiktok-solo-texto-competir-twitter-threads-1280684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/tiktok-permite-publicar-texto-competir-twitter-threads-3092696.jpg?tf=1200x' alt='TikTok va a por Twitter y Threads: ya permite publicar solo texto' />
     </a>
 </div>
 
