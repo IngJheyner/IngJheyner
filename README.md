@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/influencers-peligro-llegada-inteligencia-artificial-1281078'>Influencers en peligro de extinción con la llegada de la inteligencia artificial: "Bienvenidos a mi reino virtual"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/influencers-peligro-llegada-inteligencia-artificial-1281078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/influencers-peligro-llegada-inteligencia-artificial-bienvenidos-mi-reino-virtual-3093292.jpg?tf=1200x' alt='Influencers en peligro de extinción con la llegada de la inteligencia artificial: "Bienvenidos a mi reino virtual"' />
+    <h4><a href='https://computerhoy.com/life/sencillo-test-te-permite-conocer-cual-edad-real-cerebro-estas-perdiendo-memoria-1272092'>Este sencillo test te permite conocer cuál es la edad real de tu cerebro y si estás perdiendo memoria</a></h4>
+    <a href='https://computerhoy.com/life/sencillo-test-te-permite-conocer-cual-edad-real-cerebro-estas-perdiendo-memoria-1272092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/test-memoria-3078078.jpg?tf=1200x' alt='Este sencillo test te permite conocer cuál es la edad real de tu cerebro y si estás perdiendo memoria' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/ultima-locura-japonesa-verano-pizza-helado-1281112'>La última locura japonesa para el verano: la pizza helado</a></h4>
-    <a href='https://computerhoy.com/alimentacion/ultima-locura-japonesa-verano-pizza-helado-1281112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ultima-locura-japonesa-verano-pizza-helado-3093290.jpg?tf=1200x' alt='La última locura japonesa para el verano: la pizza helado' />
+    <h4><a href='https://computerhoy.com/motor/funciona-battery-sleuth-dispositivo-secreto-evita-robos-coches-1281196'>Así funciona Battery Sleuth: el dispositivo secreto que evita los robos de coches</a></h4>
+    <a href='https://computerhoy.com/motor/funciona-battery-sleuth-dispositivo-secreto-evita-robos-coches-1281196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/funciona-battery-sleuth-dispositivo-secreto-evita-robos-coches-3093454.jpg?tf=1200x' alt='Así funciona Battery Sleuth: el dispositivo secreto que evita los robos de coches' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-renueva-play-store-tablets-dispositivos-plegables-1281096'>Google renueva la Play Store para tablets y dispositivos plegables</a></h4>
-    <a href='https://computerhoy.com/android/google-renueva-play-store-tablets-dispositivos-plegables-1281096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-renueva-play-store-tablets-dispositivos-plegables-3093294.jpg?tf=1200x' alt='Google renueva la Play Store para tablets y dispositivos plegables' />
+    <h4><a href='https://computerhoy.com/ciencia/andi-robot-suda-ahora-lucha-cambio-climatico-1281180'>ANDI, el autómata que suda como un humano y ha pasado de maniquí deportivo a herramienta contra el cambio climático</a></h4>
+    <a href='https://computerhoy.com/ciencia/andi-robot-suda-ahora-lucha-cambio-climatico-1281180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robot-suda-andi-3093572.jpg?tf=1200x' alt='ANDI, el autómata que suda como un humano y ha pasado de maniquí deportivo a herramienta contra el cambio climático' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/primeras-impresiones-galaxy-watch-6-tablets-galaxy-tab-s9-1280622'>Así son los nuevos Galaxy Watch 6 y las tablets Galaxy Tab S9: Toma de contacto</a></h4>
-    <a href='https://computerhoy.com/android/primeras-impresiones-galaxy-watch-6-tablets-galaxy-tab-s9-1280622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/tab-watch-3092742.jpg?tf=1200x' alt='Así son los nuevos Galaxy Watch 6 y las tablets Galaxy Tab S9: Toma de contacto' />
+    <h4><a href='https://computerhoy.com/tecnologia/aspirador-xiaomi-compite-dyson-ahora-mitad-precio-mediamarkt-1281006'>El aspirador de Xiaomi que compite con los Dyson está ahora a mitad de precio en Mediamarkt</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aspirador-xiaomi-compite-dyson-ahora-mitad-precio-mediamarkt-1281006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aspirador-xiaomi-11-3093088.jpg?tf=1200x' alt='El aspirador de Xiaomi que compite con los Dyson está ahora a mitad de precio en Mediamarkt' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/galaxy-unpacked-2023-todo-ha-presentado-samsung-1280952'>Galaxy Unpacked 2023, todo lo que ha presentado Samsung</a></h4>
-    <a href='https://computerhoy.com/tecnologia/galaxy-unpacked-2023-todo-ha-presentado-samsung-1280952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-3093140.jpg?tf=1200x' alt='Galaxy Unpacked 2023, todo lo que ha presentado Samsung' />
+    <h4><a href='https://computerhoy.com/hogar/primer-robot-aspirador-sube-baja-escaleras-1281176'>MIGO Ascender, el primer robot aspirador que sube y baja las escaleras (vídeo)</a></h4>
+    <a href='https://computerhoy.com/hogar/primer-robot-aspirador-sube-baja-escaleras-1281176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1690374441837-3093430.jpg?tf=1200x' alt='MIGO Ascender, el primer robot aspirador que sube y baja las escaleras (vídeo)' />
     </a>
 </div>
 
