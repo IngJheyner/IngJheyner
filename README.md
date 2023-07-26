@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/25-aniversario-ch-guerra-formatos-hd-dvd-vs-blu-ray-1237562'>25 aniversario de Computer Hoy: Guerra de formatos HD-DVD vs Blu-Ray</a></h4>
+    <a href='https://computerhoy.com/tecnologia/25-aniversario-ch-guerra-formatos-hd-dvd-vs-blu-ray-1237562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/blu-ray-vs-hd-dvd-3086492.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Guerra de formatos HD-DVD vs Blu-Ray' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/protegiendo-mayores-como-evitar-acaben-cayendo-estafas-online-1279310'>Protegiendo a nuestros mayores: cómo evitar que acaben cayendo en estafas online</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/protegiendo-mayores-como-evitar-acaben-cayendo-estafas-online-1279310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/protegiendo-mayores-como-evitar-acaben-cayendo-estafas-linea-3090522.jpg?tf=1200x' alt='Protegiendo a nuestros mayores: cómo evitar que acaben cayendo en estafas online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/gestores-contrasenas-1235216'>Mantén tu vida digital a salvo con los mejores gestores de contraseñas</a></h4>
+    <a href='https://computerhoy.com/mejores/gestores-contrasenas-1235216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gestor-contrasenas-nordpass-movil-3017210.jpg?tf=1200x' alt='Mantén tu vida digital a salvo con los mejores gestores de contraseñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/formula-1-construido-piezas-tractor-alcanza-320-kilometros-hora-1280946'>Construyen un coche de Fórmula 1 con piezas de tractor que alcanza los 320 kilómetros por hora</a></h4>
+    <a href='https://computerhoy.com/motor/formula-1-construido-piezas-tractor-alcanza-320-kilometros-hora-1280946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/construyen-coche-formula-1-piezas-tractor-alcanza-350-km-h-3092778.jpg?tf=1200x' alt='Construyen un coche de Fórmula 1 con piezas de tractor que alcanza los 320 kilómetros por hora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/openai-cancela-herramienta-capaz-detectar-textos-creados-ia-1280698'>¿Rendición o estrategia? OpenAI abandona la identificación de textos generados por IA en ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-cancela-herramienta-capaz-detectar-textos-creados-ia-1280698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/rendicion-estrategia-openai-abandona-identificacion-textos-generados-ia-chatgpt-3092728.jpg?tf=1200x' alt='¿Rendición o estrategia? OpenAI abandona la identificación de textos generados por IA en ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-celebra-decimo-aniversario-chromecast-multa-339-millones-1280728'>Google celebra el décimo aniversario de Chromecast con una multa de 339 millones de dólares por violar patentes</a></h4>
-    <a href='https://computerhoy.com/google/google-celebra-decimo-aniversario-chromecast-multa-339-millones-1280728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-celebra-decimo-aniversario-chromecast-multa-339-millones-dolares-violar-patentes-3092768.jpg?tf=1200x' alt='Google celebra el décimo aniversario de Chromecast con una multa de 339 millones de dólares por violar patentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/generacion-v-spin-off-the-boys-prime-video-1280720'>Generación V, el spin-off de una de las series más atrevidas de Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/generacion-v-spin-off-the-boys-prime-video-1280720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1690312736124-3092754.jpg?tf=1200x' alt='Generación V, el spin-off de una de las series más atrevidas de Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/pantalla-oled-5g-potente-movil-honor-precio-minimo-historico-amazon-1280652'>Pantalla OLED y 5G: este potente móvil Honor está a precio mínimo histórico en Amazon</a></h4>
-    <a href='https://computerhoy.com/android/pantalla-oled-5g-potente-movil-honor-precio-minimo-historico-amazon-1280652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-honor-70-2798873.jpg?tf=1200x' alt='Pantalla OLED y 5G: este potente móvil Honor está a precio mínimo histórico en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-evitar-lesiones-comunes-uso-movil-1256402'>Cómo evitar las lesiones más comunes por el uso del móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-evitar-lesiones-comunes-uso-movil-1256402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movil-mano-3050656.jpg?tf=1200x' alt='Cómo evitar las lesiones más comunes por el uso del móvil' />
     </a>
 </div>
 
