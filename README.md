@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/influencers-peligro-llegada-inteligencia-artificial-1281078'>Influencers en peligro de extinción con la llegada de la inteligencia artificial: "Bienvenidos a mi reino virtual"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/influencers-peligro-llegada-inteligencia-artificial-1281078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/influencers-peligro-llegada-inteligencia-artificial-bienvenidos-mi-reino-virtual-3093292.jpg?tf=1200x' alt='Influencers en peligro de extinción con la llegada de la inteligencia artificial: "Bienvenidos a mi reino virtual"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/ultima-locura-japonesa-verano-pizza-helado-1281112'>La última locura japonesa para el verano: la pizza helado</a></h4>
     <a href='https://computerhoy.com/alimentacion/ultima-locura-japonesa-verano-pizza-helado-1281112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ultima-locura-japonesa-verano-pizza-helado-3093290.jpg?tf=1200x' alt='La última locura japonesa para el verano: la pizza helado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/galaxy-unpacked-2023-todo-ha-presentado-samsung-1280952'>Galaxy Unpacked 2023, todo lo que ha presentado Samsung</a></h4>
     <a href='https://computerhoy.com/tecnologia/galaxy-unpacked-2023-todo-ha-presentado-samsung-1280952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-3093140.jpg?tf=1200x' alt='Galaxy Unpacked 2023, todo lo que ha presentado Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/galaxy-fold-5-primeras-impresiones-plegado-hueco-nuevo-procesador-1278762'>Galaxy Fold 5, primeras impresiones: plegado sin hueco en Samsung y un nuevo procesador</a></h4>
-    <a href='https://computerhoy.com/moviles/galaxy-fold-5-primeras-impresiones-plegado-hueco-nuevo-procesador-1278762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-fold-5-3089690.jpg?tf=1200x' alt='Galaxy Fold 5, primeras impresiones: plegado sin hueco en Samsung y un nuevo procesador' />
     </a>
 </div>
 
