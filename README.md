@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafado-cuenta-falsa-twitter-plataforma-hace-oidos-sordos-1281632'>Estafado por una cuenta falsa en Twitter y la plataforma hace oídos sordos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafado-cuenta-falsa-twitter-plataforma-hace-oidos-sordos-1281632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estafado-cuenta-falsa-twitter-plataforma-hace-oidos-sordos-3094078.jpg?tf=1200x' alt='Estafado por una cuenta falsa en Twitter y la plataforma hace oídos sordos' />
+    <h4><a href='https://computerhoy.com/ciencia/mito-aguas-oceanos-atlantico-pacifico-no-mezclan-1281764'>¿Es cierto que las aguas de los océanos Atlántico y Pacífico no se mezclan?</a></h4>
+    <a href='https://computerhoy.com/ciencia/mito-aguas-oceanos-atlantico-pacifico-no-mezclan-1281764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cierto-aguas-oceanos-atlantico-pacifico-no-mezclan-3094270.jpg?tf=1200x' alt='¿Es cierto que las aguas de los océanos Atlántico y Pacífico no se mezclan?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/todo-debes-saber-action-button-iphone-15-pro-1281644'>Todo lo que debes saber sobre el Action Button del iPhone 15 Pro</a></h4>
-    <a href='https://computerhoy.com/apple/todo-debes-saber-action-button-iphone-15-pro-1281644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/extranas-predicciones-hablan-peor-rendimiento-iphone-15-pro-pro-max-2024-3057268.jpg?tf=1200x' alt='Todo lo que debes saber sobre el Action Button del iPhone 15 Pro' />
+    <h4><a href='https://computerhoy.com/entretenimiento/elon-musk-barbie-esa-palabra-repite-constantemente-pelicula-1281688'>Elon Musk se burla de Barbie y esa palabra que se repite constantemente en la película</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/elon-musk-barbie-esa-palabra-repite-constantemente-pelicula-1281688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-barbie-esa-palabra-repite-constantemente-pelicula-3094192.jpg?tf=1200x' alt='Elon Musk se burla de Barbie y esa palabra que se repite constantemente en la película' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791'>Estos son los mejores móviles realme para comprar este año</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/realme-11-pro-3055728.jpg?tf=1200x' alt='Estos son los mejores móviles realme para comprar este año' />
+    <h4><a href='https://computerhoy.com/moviles/riesgos-no-apagar-movil-nunca-consejos-soluciones-1281710'>Los riesgos de no apagar el móvil nunca: consejos y soluciones</a></h4>
+    <a href='https://computerhoy.com/moviles/riesgos-no-apagar-movil-nunca-consejos-soluciones-1281710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/funciona-protocolo-cocaine-kale-permite-encontrar-equilibro-moviles-3089410.jpg?tf=1200x' alt='Los riesgos de no apagar el móvil nunca: consejos y soluciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/capacidades-chatgpt-duda-chatbot-volviendo-cada-vez-tonto-1281602'>Las capacidades de ChatGPT en duda: el chatbot se está volviendo cada vez más tonto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/capacidades-chatgpt-duda-chatbot-volviendo-cada-vez-tonto-1281602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/capacidades-chatgpt-duda-chatbot-volviendo-cada-vez-tonto-3094054.jpg?tf=1200x' alt='Las capacidades de ChatGPT en duda: el chatbot se está volviendo cada vez más tonto' />
+    <h4><a href='https://computerhoy.com/ciencia/como-sera-telescopio-solar-europeo-construira-breve-1281706'>Cómo será el Telescopio Solar Europeo que se construirá en breve</a></h4>
+    <a href='https://computerhoy.com/ciencia/como-sera-telescopio-solar-europeo-construira-breve-1281706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/como-sera-telescopio-solar-europeo-construira-breve-3094180.jpg?tf=1200x' alt='Cómo será el Telescopio Solar Europeo que se construirá en breve' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/exoficial-inteligencia-revela-programa-secreto-eeuu-ocultar-existencia-ovnis-1281582'>Exoficial de inteligencia revela un programa secreto de EEUU para ocultar la existencia de ovnis</a></h4>
-    <a href='https://computerhoy.com/ciencia/exoficial-inteligencia-revela-programa-secreto-eeuu-ocultar-existencia-ovnis-1281582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/exoficial-inteligencia-revela-programa-secreto-eeuu-ocultar-existencia-ovnis-3094036.jpg?tf=1200x' alt='Exoficial de inteligencia revela un programa secreto de EEUU para ocultar la existencia de ovnis' />
+    <h4><a href='https://computerhoy.com/ciencia/lugar-mayor-radiacion-solar-recibe-tierra-compara-estar-venus-1281664'>Este es el lugar que mayor radiación solar recibe en la Tierra y se compara con estar en Venus</a></h4>
+    <a href='https://computerhoy.com/ciencia/lugar-mayor-radiacion-solar-recibe-tierra-compara-estar-venus-1281664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lugar-mayor-radiacion-solar-recibe-tierra-compara-estar-venus-3094138.jpg?tf=1200x' alt='Este es el lugar que mayor radiación solar recibe en la Tierra y se compara con estar en Venus' />
     </a>
 </div>
 
