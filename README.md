@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/series-peliculas-prime-video-estreno-agosto-2023-1281322'>Terror, drama y cine familiar entre las series y películas que Prime Video estrena en agosto</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/series-peliculas-prime-video-estreno-agosto-2023-1281322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/terror-drama-cine-familiar-series-peliculas-prime-video-estrena-agosto-3093744.jpg?tf=1200x' alt='Terror, drama y cine familiar entre las series y películas que Prime Video estrena en agosto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/meta-amazon-microsoft-unen-overture-maps-foundation-1281320'>Meta, Amazon, Microsoft y TomTom se unen para crear la alternativa gratis a Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/meta-amazon-microsoft-unen-overture-maps-foundation-1281320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-maps-sola-mano-3047572.jpg?tf=1200x' alt='Meta, Amazon, Microsoft y TomTom se unen para crear la alternativa gratis a Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/reinicio-emergencia-windows-11-como-utilizarlo-1280696'>Qué es el reinicio de emergencia en Windows 11 y cómo utilizarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/reinicio-emergencia-windows-11-como-utilizarlo-1280696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/boton-panico-windows-3093434.jpg?tf=1200x' alt='Qué es el reinicio de emergencia en Windows 11 y cómo utilizarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/cierto-algunas-estrellas-vemos-cielo-ya-estan-muertas-1280120'>¿Es cierto el mito de que algunas de las estrellas que vemos en el cielo ya están muertas?</a></h4>
     <a href='https://computerhoy.com/espacio/cierto-algunas-estrellas-vemos-cielo-ya-estan-muertas-1280120' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estrellas-universo-3091808.jpg?tf=1200x' alt='¿Es cierto el mito de que algunas de las estrellas que vemos en el cielo ya están muertas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/alternativas-spotify-tras-subida-precios-1281256'>Las mejores alternativas a Spotify, incluso más baratas, tras la subida de precio</a></h4>
-    <a href='https://computerhoy.com/audio/alternativas-spotify-tras-subida-precios-1281256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mejores-alternativas-spotify-incluso-baratas-subida-precio-3093674.jpg?tf=1200x' alt='Las mejores alternativas a Spotify, incluso más baratas, tras la subida de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/thermomix-lidl-lanza-nuevas-versiones-baratas-otra-conocida-cara-marca-electrodomesticos-1280948'>Tras Thermomix Lidl lanza nuevas versiones baratas de otra conocida y cara marca de electrodomésticos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/thermomix-lidl-lanza-nuevas-versiones-baratas-otra-conocida-cara-marca-electrodomesticos-1280948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lidl-retro-3093414.jpg?tf=1200x' alt='Tras Thermomix Lidl lanza nuevas versiones baratas de otra conocida y cara marca de electrodomésticos' />
     </a>
 </div>
 
