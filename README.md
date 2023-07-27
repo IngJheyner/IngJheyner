@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/autocaravana-barata-puedes-comprar-frente-cara-1281894'>La autocaravana más barata que puedes comprar frente a la más cara y lujosa del mercado</a></h4>
+    <a href='https://computerhoy.com/motor/autocaravana-barata-puedes-comprar-frente-cara-1281894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/caravana-barata-puedes-comprar-frente-autocaravana-cara-lujosa-mercado-3094710.jpg?tf=1200x' alt='La autocaravana más barata que puedes comprar frente a la más cara y lujosa del mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hazte-smartwatch-realme-solo-50-euros-1281776'>Hazte con este smartwatch de realme por sólo 50 euros </a></h4>
+    <a href='https://computerhoy.com/tecnologia/hazte-smartwatch-realme-solo-50-euros-1281776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/realme-watch-2-pro-2423987.jpg?tf=1200x' alt='Hazte con este smartwatch de realme por sólo 50 euros ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/series-peliculas-estreno-hbo-max-agosto-2023-1281902'>Mucho kung-fu, los gemelos de Harry Potter, Lakers y cine español premiado, entre los estrenos de HBO Max en agosto</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/series-peliculas-estreno-hbo-max-agosto-2023-1281902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mucho-kung-fu-gemelos-harry-potter-lakers-cine-espanol-premiado-estrenos-hbo-max-agosto-3094720.jpg?tf=1200x' alt='Mucho kung-fu, los gemelos de Harry Potter, Lakers y cine español premiado, entre los estrenos de HBO Max en agosto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/todas-formas-roban-datos-tarjetas-credito-1281886'>No caigas en la trampa: Descubre cómo los ciberdelincuentes roban los datos de las tarjetas de crédito</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/todas-formas-roban-datos-tarjetas-credito-1281886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robo-datos-tarjeta-3094674.jpg?tf=1200x' alt='No caigas en la trampa: Descubre cómo los ciberdelincuentes roban los datos de las tarjetas de crédito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-impresora-quieres-vender-segunda-mano-tirar-1251780'>Cómo limpiar una impresora que quieres vender de segunda mano o tirar</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-limpiar-impresora-quieres-vender-segunda-mano-tirar-1251780' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/limpiar-impresora-antes-tirarla-3044358.jpg?tf=1200x' alt='Cómo limpiar una impresora que quieres vender de segunda mano o tirar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-relacionan-perdida-olfato-senal-temprana-alzheimer-1281856'>Científicos descubren uno de los primeros signos del Alzheimer, atento a la hora del café</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-relacionan-perdida-olfato-senal-temprana-alzheimer-1281856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/oler-2222621.jpg?tf=1200x' alt='Científicos descubren uno de los primeros signos del Alzheimer, atento a la hora del café' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-instagram-tener-cuenta-1281324'>Cómo ver Instagram sin tener cuenta</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-instagram-tener-cuenta-1281324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/instagram-cuenta-3093754.jpg?tf=1200x' alt='Cómo ver Instagram sin tener cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/robot-te-hara-ahorrar-50-agua-electricidad-piscina-1281828'>El robot que te hará ahorrar el 50% en agua y electricidad en tu piscina</a></h4>
-    <a href='https://computerhoy.com/life/robot-te-hara-ahorrar-50-agua-electricidad-piscina-1281828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robot-piscinas-aiper-3094592.jpg?tf=1200x' alt='El robot que te hará ahorrar el 50% en agua y electricidad en tu piscina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/scambaiting-tecnica-estafador-estafado-como-funciona-riesgos-tiene-1280950'>Scambaiting o la técnica del estafador estafado: cómo funciona y qué riesgos tiene</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/scambaiting-tecnica-estafador-estafado-como-funciona-riesgos-tiene-1280950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hacker-scambaiting-3092984.jpg?tf=1200x' alt='Scambaiting o la técnica del estafador estafado: cómo funciona y qué riesgos tiene' />
     </a>
 </div>
 
