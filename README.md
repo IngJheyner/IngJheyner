@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/oppo-reno10-pro-5g-analisis-opinion-diseno-elegante-telefoto-1278426'>OPPO Reno10 Pro 5G, análisis y opinión: diseño elegante y telefoto a destacar</a></h4>
-    <a href='https://computerhoy.com/analisis/oppo-reno10-pro-5g-analisis-opinion-diseno-elegante-telefoto-1278426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oppo-reno10-pro-5g-3091772.jpg?tf=1200x' alt='OPPO Reno10 Pro 5G, análisis y opinión: diseño elegante y telefoto a destacar' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafado-cuenta-falsa-twitter-plataforma-hace-oidos-sordos-1281632'>Estafado por una cuenta falsa en Twitter y la plataforma hace oídos sordos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafado-cuenta-falsa-twitter-plataforma-hace-oidos-sordos-1281632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estafado-cuenta-falsa-twitter-plataforma-hace-oidos-sordos-3094078.jpg?tf=1200x' alt='Estafado por una cuenta falsa en Twitter y la plataforma hace oídos sordos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-10s-merece-pena-comprarlo-1060945'>Xiaomi Redmi Note 10S en 2023: ¿merece la pena? Puntos a favor y en contra</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-10s-merece-pena-comprarlo-1060945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-redmi-note-10s-2351457.jpg?tf=1200x' alt='Xiaomi Redmi Note 10S en 2023: ¿merece la pena? Puntos a favor y en contra' />
+    <h4><a href='https://computerhoy.com/apple/todo-debes-saber-action-button-iphone-15-pro-1281644'>Todo lo que debes saber sobre el Action Button del iPhone 15 Pro</a></h4>
+    <a href='https://computerhoy.com/apple/todo-debes-saber-action-button-iphone-15-pro-1281644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/extranas-predicciones-hablan-peor-rendimiento-iphone-15-pro-pro-max-2024-3057268.jpg?tf=1200x' alt='Todo lo que debes saber sobre el Action Button del iPhone 15 Pro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/series-peliculas-prime-video-estreno-agosto-2023-1281322'>Terror, drama y cine familiar entre las series y películas que Prime Video estrena en agosto</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/series-peliculas-prime-video-estreno-agosto-2023-1281322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/terror-drama-cine-familiar-series-peliculas-prime-video-estrena-agosto-3093744.jpg?tf=1200x' alt='Terror, drama y cine familiar entre las series y películas que Prime Video estrena en agosto' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791'>Estos son los mejores móviles realme para comprar este año</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-realme-comprar-ofertas-838791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/realme-11-pro-3055728.jpg?tf=1200x' alt='Estos son los mejores móviles realme para comprar este año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/meta-amazon-microsoft-unen-overture-maps-foundation-1281320'>Meta, Amazon, Microsoft y TomTom se unen para crear la alternativa gratis a Google Maps</a></h4>
-    <a href='https://computerhoy.com/apps/meta-amazon-microsoft-unen-overture-maps-foundation-1281320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-maps-sola-mano-3047572.jpg?tf=1200x' alt='Meta, Amazon, Microsoft y TomTom se unen para crear la alternativa gratis a Google Maps' />
+    <h4><a href='https://computerhoy.com/tecnologia/capacidades-chatgpt-duda-chatbot-volviendo-cada-vez-tonto-1281602'>Las capacidades de ChatGPT en duda: el chatbot se está volviendo cada vez más tonto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/capacidades-chatgpt-duda-chatbot-volviendo-cada-vez-tonto-1281602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/capacidades-chatgpt-duda-chatbot-volviendo-cada-vez-tonto-3094054.jpg?tf=1200x' alt='Las capacidades de ChatGPT en duda: el chatbot se está volviendo cada vez más tonto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/reinicio-emergencia-windows-11-como-utilizarlo-1280696'>Qué es el reinicio de emergencia en Windows 11 y cómo utilizarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/reinicio-emergencia-windows-11-como-utilizarlo-1280696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/boton-panico-windows-3093434.jpg?tf=1200x' alt='Qué es el reinicio de emergencia en Windows 11 y cómo utilizarlo' />
+    <h4><a href='https://computerhoy.com/ciencia/exoficial-inteligencia-revela-programa-secreto-eeuu-ocultar-existencia-ovnis-1281582'>Exoficial de inteligencia revela un programa secreto de EEUU para ocultar la existencia de ovnis</a></h4>
+    <a href='https://computerhoy.com/ciencia/exoficial-inteligencia-revela-programa-secreto-eeuu-ocultar-existencia-ovnis-1281582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/exoficial-inteligencia-revela-programa-secreto-eeuu-ocultar-existencia-ovnis-3094036.jpg?tf=1200x' alt='Exoficial de inteligencia revela un programa secreto de EEUU para ocultar la existencia de ovnis' />
     </a>
 </div>
 
