@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-impresora-quieres-vender-segunda-mano-tirar-1251780'>Cómo limpiar una impresora que quieres vender de segunda mano o tirar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-limpiar-impresora-quieres-vender-segunda-mano-tirar-1251780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/limpiar-impresora-antes-tirarla-3044358.jpg?tf=1200x' alt='Cómo limpiar una impresora que quieres vender de segunda mano o tirar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cientificos-relacionan-perdida-olfato-senal-temprana-alzheimer-1281856'>Científicos descubren uno de los primeros signos del Alzheimer, atento a la hora del café</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-relacionan-perdida-olfato-senal-temprana-alzheimer-1281856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/oler-2222621.jpg?tf=1200x' alt='Científicos descubren uno de los primeros signos del Alzheimer, atento a la hora del café' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-instagram-tener-cuenta-1281324'>Cómo ver Instagram sin tener cuenta</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-instagram-tener-cuenta-1281324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/instagram-cuenta-3093754.jpg?tf=1200x' alt='Cómo ver Instagram sin tener cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/robot-te-hara-ahorrar-50-agua-electricidad-piscina-1281828'>El robot que te hará ahorrar el 50% en agua y electricidad en tu piscina</a></h4>
     <a href='https://computerhoy.com/life/robot-te-hara-ahorrar-50-agua-electricidad-piscina-1281828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robot-piscinas-aiper-3094592.jpg?tf=1200x' alt='El robot que te hará ahorrar el 50% en agua y electricidad en tu piscina' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/scambaiting-tecnica-estafador-estafado-como-funciona-riesgos-tiene-1280950'>Scambaiting o la técnica del estafador estafado: cómo funciona y qué riesgos tiene</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/scambaiting-tecnica-estafador-estafado-como-funciona-riesgos-tiene-1280950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hacker-scambaiting-3092984.jpg?tf=1200x' alt='Scambaiting o la técnica del estafador estafado: cómo funciona y qué riesgos tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/novedad-whatsapp-mensajes-video-chats-1281866'>Novedad en WhatsApp: mensajes de vídeo en los chats</a></h4>
-    <a href='https://computerhoy.com/redes/novedad-whatsapp-mensajes-video-chats-1281866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/novedad-whatsapp-mensajes-instantaneos-video-chats-3094634.jpg?tf=1200x' alt='Novedad en WhatsApp: mensajes de vídeo en los chats' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/turbina-eolica-mas-grande-mundo-1281822'>Ya está en marcha la turbina eólica más grande del mundo, genera electricidad para 36.000 hogares</a></h4>
-    <a href='https://computerhoy.com/energia/turbina-eolica-mas-grande-mundo-1281822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ya-marcha-turbina-eolica-grande-mundo-3094452.jpg?tf=1200x' alt='Ya está en marcha la turbina eólica más grande del mundo, genera electricidad para 36.000 hogares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/truco-infalible-evitar-navegador-agote-bateria-portatil-1281264'>El truco infalible para evitar que el navegador web agote la batería de tu portátil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/truco-infalible-evitar-navegador-agote-bateria-portatil-1281264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/bateria-portatil-3093706.jpg?tf=1200x' alt='El truco infalible para evitar que el navegador web agote la batería de tu portátil' />
     </a>
 </div>
 
