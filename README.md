@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/oppo-reno10-pro-5g-analisis-opinion-diseno-elegante-telefoto-1278426'>OPPO Reno10 Pro 5G, análisis y opinión: diseño elegante y telefoto a destacar</a></h4>
+    <a href='https://computerhoy.com/analisis/oppo-reno10-pro-5g-analisis-opinion-diseno-elegante-telefoto-1278426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oppo-reno10-pro-5g-3091772.jpg?tf=1200x' alt='OPPO Reno10 Pro 5G, análisis y opinión: diseño elegante y telefoto a destacar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-10s-merece-pena-comprarlo-1060945'>Xiaomi Redmi Note 10S en 2023: ¿merece la pena? Puntos a favor y en contra</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/xiaomi-redmi-note-10s-merece-pena-comprarlo-1060945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/analisis-redmi-note-10s-2351457.jpg?tf=1200x' alt='Xiaomi Redmi Note 10S en 2023: ¿merece la pena? Puntos a favor y en contra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/series-peliculas-prime-video-estreno-agosto-2023-1281322'>Terror, drama y cine familiar entre las series y películas que Prime Video estrena en agosto</a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-peliculas-prime-video-estreno-agosto-2023-1281322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/terror-drama-cine-familiar-series-peliculas-prime-video-estrena-agosto-3093744.jpg?tf=1200x' alt='Terror, drama y cine familiar entre las series y películas que Prime Video estrena en agosto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/reinicio-emergencia-windows-11-como-utilizarlo-1280696'>Qué es el reinicio de emergencia en Windows 11 y cómo utilizarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/reinicio-emergencia-windows-11-como-utilizarlo-1280696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/boton-panico-windows-3093434.jpg?tf=1200x' alt='Qué es el reinicio de emergencia en Windows 11 y cómo utilizarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/moviles-samsung-potentes-340eu-barato-oferta-flash-1281100'>Uno de los móviles Samsung más potentes es 340€ más barato en esta oferta flash</a></h4>
-    <a href='https://computerhoy.com/moviles/moviles-samsung-potentes-340eu-barato-oferta-flash-1281100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-galaxy-s22-ultra-2620799.jpg?tf=1200x' alt='Uno de los móviles Samsung más potentes es 340€ más barato en esta oferta flash' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cierto-algunas-estrellas-vemos-cielo-ya-estan-muertas-1280120'>¿Es cierto el mito de que algunas de las estrellas que vemos en el cielo ya están muertas?</a></h4>
-    <a href='https://computerhoy.com/espacio/cierto-algunas-estrellas-vemos-cielo-ya-estan-muertas-1280120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estrellas-universo-3091808.jpg?tf=1200x' alt='¿Es cierto el mito de que algunas de las estrellas que vemos en el cielo ya están muertas?' />
     </a>
 </div>
 
