@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/mito-aguas-oceanos-atlantico-pacifico-no-mezclan-1281764'>¿Es cierto que las aguas de los océanos Atlántico y Pacífico no se mezclan?</a></h4>
-    <a href='https://computerhoy.com/ciencia/mito-aguas-oceanos-atlantico-pacifico-no-mezclan-1281764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cierto-aguas-oceanos-atlantico-pacifico-no-mezclan-3094270.jpg?tf=1200x' alt='¿Es cierto que las aguas de los océanos Atlántico y Pacífico no se mezclan?' />
+    <h4><a href='https://computerhoy.com/redes/novedad-whatsapp-mensajes-video-chats-1281866'>Novedad en WhatsApp: mensajes de vídeo en los chats</a></h4>
+    <a href='https://computerhoy.com/redes/novedad-whatsapp-mensajes-video-chats-1281866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/novedad-whatsapp-mensajes-instantaneos-video-chats-3094634.jpg?tf=1200x' alt='Novedad en WhatsApp: mensajes de vídeo en los chats' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/elon-musk-barbie-esa-palabra-repite-constantemente-pelicula-1281688'>Elon Musk se burla de Barbie y esa palabra que se repite constantemente en la película</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/elon-musk-barbie-esa-palabra-repite-constantemente-pelicula-1281688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-barbie-esa-palabra-repite-constantemente-pelicula-3094192.jpg?tf=1200x' alt='Elon Musk se burla de Barbie y esa palabra que se repite constantemente en la película' />
+    <h4><a href='https://computerhoy.com/energia/turbina-eolica-mas-grande-mundo-1281822'>Ya está en marcha la turbina eólica más grande del mundo, genera electricidad para 36.000 hogares</a></h4>
+    <a href='https://computerhoy.com/energia/turbina-eolica-mas-grande-mundo-1281822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ya-marcha-turbina-eolica-grande-mundo-3094452.jpg?tf=1200x' alt='Ya está en marcha la turbina eólica más grande del mundo, genera electricidad para 36.000 hogares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/riesgos-no-apagar-movil-nunca-consejos-soluciones-1281710'>Los riesgos de no apagar el móvil nunca: consejos y soluciones</a></h4>
-    <a href='https://computerhoy.com/moviles/riesgos-no-apagar-movil-nunca-consejos-soluciones-1281710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/funciona-protocolo-cocaine-kale-permite-encontrar-equilibro-moviles-3089410.jpg?tf=1200x' alt='Los riesgos de no apagar el móvil nunca: consejos y soluciones' />
+    <h4><a href='https://computerhoy.com/tecnologia/truco-infalible-evitar-navegador-agote-bateria-portatil-1281264'>El truco infalible para evitar que el navegador web agote la batería de tu portátil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/truco-infalible-evitar-navegador-agote-bateria-portatil-1281264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/bateria-portatil-3093706.jpg?tf=1200x' alt='El truco infalible para evitar que el navegador web agote la batería de tu portátil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/como-sera-telescopio-solar-europeo-construira-breve-1281706'>Cómo será el Telescopio Solar Europeo que se construirá en breve</a></h4>
-    <a href='https://computerhoy.com/ciencia/como-sera-telescopio-solar-europeo-construira-breve-1281706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/como-sera-telescopio-solar-europeo-construira-breve-3094180.jpg?tf=1200x' alt='Cómo será el Telescopio Solar Europeo que se construirá en breve' />
+    <h4><a href='https://computerhoy.com/amazon/como-aprovechar-maximo-fire-tv-cinco-trucos-imprescindibles-1281788'>Cómo aprovechar al máximo tu Fire TV: cinco trucos imprescindibles</a></h4>
+    <a href='https://computerhoy.com/amazon/como-aprovechar-maximo-fire-tv-cinco-trucos-imprescindibles-1281788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-fire-tv-3046036.jpg?tf=1200x' alt='Cómo aprovechar al máximo tu Fire TV: cinco trucos imprescindibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/lugar-mayor-radiacion-solar-recibe-tierra-compara-estar-venus-1281664'>Este es el lugar que mayor radiación solar recibe en la Tierra y se compara con estar en Venus</a></h4>
-    <a href='https://computerhoy.com/ciencia/lugar-mayor-radiacion-solar-recibe-tierra-compara-estar-venus-1281664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lugar-mayor-radiacion-solar-recibe-tierra-compara-estar-venus-3094138.jpg?tf=1200x' alt='Este es el lugar que mayor radiación solar recibe en la Tierra y se compara con estar en Venus' />
+    <h4><a href='https://computerhoy.com/ciencia/seis-inventores-como-oppenheimer-arrepintieron-dano-causado-humanidad-1281304'>Seis inventores que como Oppenheimer se arrepintieron por el daño causado a la humanidad</a></h4>
+    <a href='https://computerhoy.com/ciencia/seis-inventores-como-oppenheimer-arrepintieron-dano-causado-humanidad-1281304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oppenheimer-3066864.jpg?tf=1200x' alt='Seis inventores que como Oppenheimer se arrepintieron por el daño causado a la humanidad' />
     </a>
 </div>
 
