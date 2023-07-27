@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/robot-te-hara-ahorrar-50-agua-electricidad-piscina-1281828'>El robot que te hará ahorrar el 50% en agua y electricidad en tu piscina</a></h4>
+    <a href='https://computerhoy.com/life/robot-te-hara-ahorrar-50-agua-electricidad-piscina-1281828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robot-piscinas-aiper-3094592.jpg?tf=1200x' alt='El robot que te hará ahorrar el 50% en agua y electricidad en tu piscina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/scambaiting-tecnica-estafador-estafado-como-funciona-riesgos-tiene-1280950'>Scambaiting o la técnica del estafador estafado: cómo funciona y qué riesgos tiene</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/scambaiting-tecnica-estafador-estafado-como-funciona-riesgos-tiene-1280950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hacker-scambaiting-3092984.jpg?tf=1200x' alt='Scambaiting o la técnica del estafador estafado: cómo funciona y qué riesgos tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/novedad-whatsapp-mensajes-video-chats-1281866'>Novedad en WhatsApp: mensajes de vídeo en los chats</a></h4>
     <a href='https://computerhoy.com/redes/novedad-whatsapp-mensajes-video-chats-1281866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/novedad-whatsapp-mensajes-instantaneos-video-chats-3094634.jpg?tf=1200x' alt='Novedad en WhatsApp: mensajes de vídeo en los chats' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/truco-infalible-evitar-navegador-agote-bateria-portatil-1281264'>El truco infalible para evitar que el navegador web agote la batería de tu portátil</a></h4>
     <a href='https://computerhoy.com/tecnologia/truco-infalible-evitar-navegador-agote-bateria-portatil-1281264' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/bateria-portatil-3093706.jpg?tf=1200x' alt='El truco infalible para evitar que el navegador web agote la batería de tu portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/como-aprovechar-maximo-fire-tv-cinco-trucos-imprescindibles-1281788'>Cómo aprovechar al máximo tu Fire TV: cinco trucos imprescindibles</a></h4>
-    <a href='https://computerhoy.com/amazon/como-aprovechar-maximo-fire-tv-cinco-trucos-imprescindibles-1281788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-fire-tv-3046036.jpg?tf=1200x' alt='Cómo aprovechar al máximo tu Fire TV: cinco trucos imprescindibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/seis-inventores-como-oppenheimer-arrepintieron-dano-causado-humanidad-1281304'>Seis inventores que como Oppenheimer se arrepintieron por el daño causado a la humanidad</a></h4>
-    <a href='https://computerhoy.com/ciencia/seis-inventores-como-oppenheimer-arrepintieron-dano-causado-humanidad-1281304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/oppenheimer-3066864.jpg?tf=1200x' alt='Seis inventores que como Oppenheimer se arrepintieron por el daño causado a la humanidad' />
     </a>
 </div>
 
