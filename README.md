@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-muestra-movil-android-detectar-airtag-te-rastrea-1281928'>Google muestra cómo un móvil Android puede detectar si un AirTag te está siguiendo</a></h4>
+    <a href='https://computerhoy.com/android/google-muestra-movil-android-detectar-airtag-te-rastrea-1281928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1690491439116-3094758.jpg?tf=1200x' alt='Google muestra cómo un móvil Android puede detectar si un AirTag te está siguiendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/autocaravana-barata-puedes-comprar-frente-cara-1281894'>La autocaravana más barata que puedes comprar frente a la más cara y lujosa del mercado</a></h4>
     <a href='https://computerhoy.com/motor/autocaravana-barata-puedes-comprar-frente-cara-1281894' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/caravana-barata-puedes-comprar-frente-autocaravana-cara-lujosa-mercado-3094710.jpg?tf=1200x' alt='La autocaravana más barata que puedes comprar frente a la más cara y lujosa del mercado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/todas-formas-roban-datos-tarjetas-credito-1281886'>No caigas en la trampa: Descubre cómo los ciberdelincuentes roban los datos de las tarjetas de crédito</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/todas-formas-roban-datos-tarjetas-credito-1281886' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robo-datos-tarjeta-3094674.jpg?tf=1200x' alt='No caigas en la trampa: Descubre cómo los ciberdelincuentes roban los datos de las tarjetas de crédito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-impresora-quieres-vender-segunda-mano-tirar-1251780'>Cómo limpiar una impresora que quieres vender de segunda mano o tirar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-limpiar-impresora-quieres-vender-segunda-mano-tirar-1251780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/limpiar-impresora-antes-tirarla-3044358.jpg?tf=1200x' alt='Cómo limpiar una impresora que quieres vender de segunda mano o tirar' />
     </a>
 </div>
 
