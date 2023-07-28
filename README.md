@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/simple-i-reino-unido-envia-correos-clasificados-mali-aliado-ruso-error-1282200'>Por una simple 'i': Reino Unido envía correos clasificados a Malí, aliado ruso, por error </a></h4>
+    <a href='https://computerhoy.com/internet/simple-i-reino-unido-envia-correos-clasificados-mali-aliado-ruso-error-1282200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/simple-i-ministerio-defensa-reino-unido-envia-correos-clasificados-mali-error-3095052.jpg?tf=1200x' alt='Por una simple 'i': Reino Unido envía correos clasificados a Malí, aliado ruso, por error ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/xiaomi-redmi-note-12-merece-pena-5-motivos-1282180'>Xiaomi Redmi Note 12: ¿merece la pena? 5 motivos por los que sí</a></h4>
     <a href='https://computerhoy.com/moviles/xiaomi-redmi-note-12-merece-pena-5-motivos-1282180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-note-12-pro-2991766.jpg?tf=1200x' alt='Xiaomi Redmi Note 12: ¿merece la pena? 5 motivos por los que sí' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-proteger-privacidad-windows-11-tener-ser-experto-1275768'>Cómo proteger tu privacidad en Windows 11 sin tener que ser un experto</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-proteger-privacidad-windows-11-tener-ser-experto-1275768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/biblia-windows-11-resolvemos-todas-dudas-sustituto-windows-10-2401109.jpg?tf=1200x' alt='Cómo proteger tu privacidad en Windows 11 sin tener que ser un experto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-merece-pena-caracteristicas-alternativas-baratas-1133975'>Samsung Galaxy A12: ¿merece la pena? Características y alternativas baratas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-merece-pena-caracteristicas-alternativas-baratas-1133975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/samsung-galaxy-a12jpeg-3027844.jpg?tf=1200x' alt='Samsung Galaxy A12: ¿merece la pena? Características y alternativas baratas' />
     </a>
 </div>
 
