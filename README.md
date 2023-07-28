@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/compra-iphone-amazon-envian-bebida-proteinas-montanablack-1281930'>Se compra el iPhone más caro, Amazon le envía una bebida de proteínas... y no puede devolverla</a></h4>
+    <a href='https://computerhoy.com/amazon/compra-iphone-amazon-envian-bebida-proteinas-montanablack-1281930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/gasta-1800-euros-iphone-amazon-envia-bebida-proteinas-no-puede-recuperar-dinero-3094774.jpg?tf=1200x' alt='Se compra el iPhone más caro, Amazon le envía una bebida de proteínas... y no puede devolverla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/google-muestra-movil-android-detectar-airtag-te-rastrea-1281928'>Google muestra cómo un móvil Android puede detectar si un AirTag te está siguiendo</a></h4>
     <a href='https://computerhoy.com/android/google-muestra-movil-android-detectar-airtag-te-rastrea-1281928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1690491439116-3094758.jpg?tf=1200x' alt='Google muestra cómo un móvil Android puede detectar si un AirTag te está siguiendo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/series-peliculas-estreno-hbo-max-agosto-2023-1281902'>Mucho kung-fu, los gemelos de Harry Potter, Lakers y cine español premiado, entre los estrenos de HBO Max en agosto</a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-peliculas-estreno-hbo-max-agosto-2023-1281902' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mucho-kung-fu-gemelos-harry-potter-lakers-cine-espanol-premiado-estrenos-hbo-max-agosto-3094720.jpg?tf=1200x' alt='Mucho kung-fu, los gemelos de Harry Potter, Lakers y cine español premiado, entre los estrenos de HBO Max en agosto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/todas-formas-roban-datos-tarjetas-credito-1281886'>No caigas en la trampa: Descubre cómo los ciberdelincuentes roban los datos de las tarjetas de crédito</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/todas-formas-roban-datos-tarjetas-credito-1281886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robo-datos-tarjeta-3094674.jpg?tf=1200x' alt='No caigas en la trampa: Descubre cómo los ciberdelincuentes roban los datos de las tarjetas de crédito' />
     </a>
 </div>
 
