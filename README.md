@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/stephen-king-carga-elon-musk-twitter-nuevo-nombre-1282260'>Stephen King de nuevo a la carga contra Elon Musk, Twitter y el nuevo cambio de nombre a X</a></h4>
-    <a href='https://computerhoy.com/apps/stephen-king-carga-elon-musk-twitter-nuevo-nombre-1282260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/stephen-king-nuevo-carga-elon-musk-twitter-nuevo-cambio-nombre-3095190.jpg?tf=1200x' alt='Stephen King de nuevo a la carga contra Elon Musk, Twitter y el nuevo cambio de nombre a X' />
+    <h4><a href='https://computerhoy.com/industria/mejor-ceo-carl-pei-polemicos-historia-1282272'>Quién es el mejor CEO de todas las tecnológicas, según Carl Pei</a></h4>
+    <a href='https://computerhoy.com/industria/mejor-ceo-carl-pei-polemicos-historia-1282272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/carl-pei-fundador-ceo-nothing-3005990.jpg?tf=1200x' alt='Quién es el mejor CEO de todas las tecnológicas, según Carl Pei' />
     </a>
 </div>
 
@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/stable-diffusion-xl-10-potencia-creatividad-arte-digital-1282268'>Stable Diffusion XL 1.0: más potencia y creatividad para el arte digital</a></h4>
-    <a href='https://computerhoy.com/tecnologia/stable-diffusion-xl-10-potencia-creatividad-arte-digital-1282268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/stable-diffusion-xl-10-potencia-creatividad-arte-digital-3095154.jpg?tf=1200x' alt='Stable Diffusion XL 1.0: más potencia y creatividad para el arte digital' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-configurar-termostato-aire-acondicionado-correctamente-1281844'>Cómo configurar el termostato del aire acondicionado correctamente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-configurar-termostato-aire-acondicionado-correctamente-1281844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aire-acondicionado-configurar-3094646.jpg?tf=1200x' alt='Cómo configurar el termostato del aire acondicionado correctamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-paso-seguir-estela-netflix-cuentas-compartidas-1282252'>Disney+ a un paso de seguir la estela de Netflix con las cuentas compartidas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-paso-seguir-estela-netflix-cuentas-compartidas-1282252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/disney-paso-seguir-estela-netflix-cuentas-compartidas-3095150.jpg?tf=1200x' alt='Disney+ a un paso de seguir la estela de Netflix con las cuentas compartidas' />
+    <h4><a href='https://computerhoy.com/tecnologia/primer-zoo-hologramas-video-1282308'>Abre sus puertas el primer zoo con hologramas (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-zoo-hologramas-video-1282308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1690542811404-3095254.jpg?tf=1200x' alt='Abre sus puertas el primer zoo con hologramas (vídeo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/sony-asume-equivoco-playstation-5-slim-solucionara-grandes-fallos-ps5-1282236'>Sony asume que se equivocó y PlayStation 5 Slim solucionará uno de los grandes fallos de PS5</a></h4>
-    <a href='https://computerhoy.com/gaming/sony-asume-equivoco-playstation-5-slim-solucionara-grandes-fallos-ps5-1282236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ps5-slim-3095122.jpg?tf=1200x' alt='Sony asume que se equivocó y PlayStation 5 Slim solucionará uno de los grandes fallos de PS5' />
+    <h4><a href='https://computerhoy.com/life/como-auriculares-estan-afectando-oidos-como-puedes-evitar-dano-auditivo-mayor-1278962'>Así es como los auriculares están afectando tus oídos y cómo puedes evitar un daño auditivo mayor</a></h4>
+    <a href='https://computerhoy.com/life/como-auriculares-estan-afectando-oidos-como-puedes-evitar-dano-auditivo-mayor-1278962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nino-auriculares-3095342.jpg?tf=1200x' alt='Así es como los auriculares están afectando tus oídos y cómo puedes evitar un daño auditivo mayor' />
     </a>
 </div>
 
