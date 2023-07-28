@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-integra-asistente-google-1282370'>Google Maps sube de nivel con el nuevo asistente de reconocimiento de voz</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-integra-asistente-google-1282370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-maps-sube-nivel-nuevo-asistente-reconocimiento-voz-3095652.jpg?tf=1200x' alt='Google Maps sube de nivel con el nuevo asistente de reconocimiento de voz' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-suspende-rodaje-temporada-4-the-witcher-1282412'>Netflix suspende el rodaje de la temporada 4 de The Witcher, los rumores de cancelación se disparan</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-suspende-rodaje-temporada-4-the-witcher-1282412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/henry-cavill-como-geralt-rivia-witcher-3058518.jpg?tf=1200x' alt='Netflix suspende el rodaje de la temporada 4 de The Witcher, los rumores de cancelación se disparan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/di-adios-estos-alimentos-freidora-aire-pueden-romper-electrodomestico-instante-1282312'>Di adiós a estos alimentos en freidora de aire: pueden romper tu electrodoméstico al instante</a></h4>
-    <a href='https://computerhoy.com/life/di-adios-estos-alimentos-freidora-aire-pueden-romper-electrodomestico-instante-1282312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/quieres-mantener-freidora-aire-nunca-pongas-estos-alimentos-ella-3095366.jpg?tf=1200x' alt='Di adiós a estos alimentos en freidora de aire: pueden romper tu electrodoméstico al instante' />
+    <h4><a href='https://computerhoy.com/internet/ultima-locura-viral-tiktok-genialidad-guarrada-partes-iguales-1282404'>La última locura viral de TikTok es una genialidad y una guarrada a partes iguales</a></h4>
+    <a href='https://computerhoy.com/internet/ultima-locura-viral-tiktok-genialidad-guarrada-partes-iguales-1282404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cuchara-recoger-espaguetis-3095700.jpg?tf=1200x' alt='La última locura viral de TikTok es una genialidad y una guarrada a partes iguales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/mejores-clones-alternativas-wordle-framed-footle-missing-11-squirdle-1274446'>Los mejores clones y alternativas a Wordle: Framed, Footle, Missing 11, Squirdle y más</a></h4>
-    <a href='https://computerhoy.com/gaming/mejores-clones-alternativas-wordle-framed-footle-missing-11-squirdle-1274446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/wordle-3082436.jpg?tf=1200x' alt='Los mejores clones y alternativas a Wordle: Framed, Footle, Missing 11, Squirdle y más' />
+    <h4><a href='https://computerhoy.com/espacio/descubren-fenomeno-espectacular-galaxia-cruz-einstein-1282382'>Descubren un fenómeno de luz espectacular en una galaxia lejana: la Cruz de Einstein</a></h4>
+    <a href='https://computerhoy.com/espacio/descubren-fenomeno-espectacular-galaxia-cruz-einstein-1282382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/descubren-fenomeno-espectacular-galaxia-lejana-cruz-einstein-3095674.jpg?tf=1200x' alt='Descubren un fenómeno de luz espectacular en una galaxia lejana: la Cruz de Einstein' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-privacidad-como-consigue-localizacion-cualquier-foto-dos-minutos-1282354'>Adiós a tu privacidad: así es como se consigue la localización de cualquier foto en dos minutos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-privacidad-como-consigue-localizacion-cualquier-foto-dos-minutos-1282354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hombre-buscando-mapa-lupa-3095644.jpg?tf=1200x' alt='Adiós a tu privacidad: así es como se consigue la localización de cualquier foto en dos minutos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/importante-advertencia-google-nunca-hagas-clic-ves-estas-tres-ventanas-movil-1282400'>Importante advertencia de Google: nunca hagas clic si ves estas tres ventanas en tu móvil</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/importante-advertencia-google-nunca-hagas-clic-ves-estas-tres-ventanas-movil-1282400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chrome-malware-2914052.jpg?tf=1200x' alt='Importante advertencia de Google: nunca hagas clic si ves estas tres ventanas en tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/vodafone-amazon-alian-mejorar-seguridad-vial-1282340'>Vodafone y Amazon se alían para mejorar la seguridad vial con redes de latencia ultrabaja</a></h4>
-    <a href='https://computerhoy.com/redes/vodafone-amazon-alian-mejorar-seguridad-vial-1282340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/vodafone-aws-3095484.jpg?tf=1200x' alt='Vodafone y Amazon se alían para mejorar la seguridad vial con redes de latencia ultrabaja' />
+    <h4><a href='https://computerhoy.com/gaming/juegos-gratis-prime-gaming-agosto-2023-1282398'>Buenos juegos indie, un juegazo de Star Wars, y otros títulos míticos que Prime Gaming regala en agosto</a></h4>
+    <a href='https://computerhoy.com/gaming/juegos-gratis-prime-gaming-agosto-2023-1282398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/juegos-gratis-prime-gaming-agosto-2023-3094644.jpg?tf=1200x' alt='Buenos juegos indie, un juegazo de Star Wars, y otros títulos míticos que Prime Gaming regala en agosto' />
     </a>
 </div>
 
