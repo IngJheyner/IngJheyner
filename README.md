@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/xiaomi-redmi-note-12-merece-pena-5-motivos-1282180'>Xiaomi Redmi Note 12: ¿merece la pena? 5 motivos por los que sí</a></h4>
+    <a href='https://computerhoy.com/moviles/xiaomi-redmi-note-12-merece-pena-5-motivos-1282180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-note-12-pro-2991766.jpg?tf=1200x' alt='Xiaomi Redmi Note 12: ¿merece la pena? 5 motivos por los que sí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/busca-planeta-nueve-nuevo-mundo-sistema-solar-no-pluton-1282188'>En busca del 'Planeta Nueve': un nuevo mundo en el Sistema Solar y no es Plutón</a></h4>
+    <a href='https://computerhoy.com/espacio/busca-planeta-nueve-nuevo-mundo-sistema-solar-no-pluton-1282188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/busca-planeta-nueve-nuevo-mundo-sistema-solar-no-pluton-3095042.jpg?tf=1200x' alt='En busca del 'Planeta Nueve': un nuevo mundo en el Sistema Solar y no es Plutón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/historia-siri-alexa-otros-asistentes-futuro-chatgpt-1237612'>25 aniversario de Computer Hoy: historia de los asistentes virtuales como Alexa, Siri y Google, y el principio del fin ante el auge de la IA tipo ChatGPT</a></h4>
     <a href='https://computerhoy.com/android/historia-siri-alexa-otros-asistentes-futuro-chatgpt-1237612' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-alexa-google-assistant-chatgpt-siri-apple-asistentes-virtuales-3090898.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: historia de los asistentes virtuales como Alexa, Siri y Google, y el principio del fin ante el auge de la IA tipo ChatGPT' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-merece-pena-caracteristicas-alternativas-baratas-1133975'>Samsung Galaxy A12: ¿merece la pena? Características y alternativas baratas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-merece-pena-caracteristicas-alternativas-baratas-1133975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/samsung-galaxy-a12jpeg-3027844.jpg?tf=1200x' alt='Samsung Galaxy A12: ¿merece la pena? Características y alternativas baratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/muestra-como-habitacion-hotel-cara-mundo-redes-horrorizan-nauseabunda-siniestra-1281554'>Muestra cómo es la habitación de hotel más cara del mundo y las redes se horrorizan: “es nauseabunda y siniestra”</a></h4>
-    <a href='https://computerhoy.com/life/muestra-como-habitacion-hotel-cara-mundo-redes-horrorizan-nauseabunda-siniestra-1281554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/suite-empathy-3093976.jpg?tf=1200x' alt='Muestra cómo es la habitación de hotel más cara del mundo y las redes se horrorizan: “es nauseabunda y siniestra”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/compra-iphone-amazon-envian-bebida-proteinas-montanablack-1281930'>Se compra el iPhone más caro, Amazon le envía una bebida de proteínas... y no puede devolverla</a></h4>
-    <a href='https://computerhoy.com/amazon/compra-iphone-amazon-envian-bebida-proteinas-montanablack-1281930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/gasta-1800-euros-iphone-amazon-envia-bebida-proteinas-no-puede-recuperar-dinero-3094774.jpg?tf=1200x' alt='Se compra el iPhone más caro, Amazon le envía una bebida de proteínas... y no puede devolverla' />
     </a>
 </div>
 
