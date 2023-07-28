@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/mejor-ceo-carl-pei-polemicos-historia-1282272'>Quién es el mejor CEO de todas las tecnológicas, según Carl Pei</a></h4>
-    <a href='https://computerhoy.com/industria/mejor-ceo-carl-pei-polemicos-historia-1282272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/carl-pei-fundador-ceo-nothing-3005990.jpg?tf=1200x' alt='Quién es el mejor CEO de todas las tecnológicas, según Carl Pei' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-integra-asistente-google-1282370'>Google Maps sube de nivel con el nuevo asistente de reconocimiento de voz</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-integra-asistente-google-1282370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-maps-sube-nivel-nuevo-asistente-reconocimiento-voz-3095652.jpg?tf=1200x' alt='Google Maps sube de nivel con el nuevo asistente de reconocimiento de voz' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/noname-grupo-hackers-rusos-detras-ataques-23j-pone-foco-telefonica-orange-1282278'>Telefónica y Orange, nuevas víctimas de NoName057, el grupo de hackers rusos detrás de los ciberataques del 23J</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/noname-grupo-hackers-rusos-detras-ataques-23j-pone-foco-telefonica-orange-1282278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/telefonica-orange-nuevas-victimas-noname057-grupo-hackers-rusos-detras-ciberataques-23j-3095296.jpg?tf=1200x' alt='Telefónica y Orange, nuevas víctimas de NoName057, el grupo de hackers rusos detrás de los ciberataques del 23J' />
+    <h4><a href='https://computerhoy.com/life/di-adios-estos-alimentos-freidora-aire-pueden-romper-electrodomestico-instante-1282312'>Di adiós a estos alimentos en freidora de aire: pueden romper tu electrodoméstico al instante</a></h4>
+    <a href='https://computerhoy.com/life/di-adios-estos-alimentos-freidora-aire-pueden-romper-electrodomestico-instante-1282312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/quieres-mantener-freidora-aire-nunca-pongas-estos-alimentos-ella-3095366.jpg?tf=1200x' alt='Di adiós a estos alimentos en freidora de aire: pueden romper tu electrodoméstico al instante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-configurar-termostato-aire-acondicionado-correctamente-1281844'>Cómo configurar el termostato del aire acondicionado correctamente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-configurar-termostato-aire-acondicionado-correctamente-1281844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aire-acondicionado-configurar-3094646.jpg?tf=1200x' alt='Cómo configurar el termostato del aire acondicionado correctamente' />
+    <h4><a href='https://computerhoy.com/gaming/mejores-clones-alternativas-wordle-framed-footle-missing-11-squirdle-1274446'>Los mejores clones y alternativas a Wordle: Framed, Footle, Missing 11, Squirdle y más</a></h4>
+    <a href='https://computerhoy.com/gaming/mejores-clones-alternativas-wordle-framed-footle-missing-11-squirdle-1274446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/wordle-3082436.jpg?tf=1200x' alt='Los mejores clones y alternativas a Wordle: Framed, Footle, Missing 11, Squirdle y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-zoo-hologramas-video-1282308'>Abre sus puertas el primer zoo con hologramas (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-zoo-hologramas-video-1282308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1690542811404-3095254.jpg?tf=1200x' alt='Abre sus puertas el primer zoo con hologramas (vídeo)' />
+    <h4><a href='https://computerhoy.com/tecnologia/adios-privacidad-como-consigue-localizacion-cualquier-foto-dos-minutos-1282354'>Adiós a tu privacidad: así es como se consigue la localización de cualquier foto en dos minutos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-privacidad-como-consigue-localizacion-cualquier-foto-dos-minutos-1282354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hombre-buscando-mapa-lupa-3095644.jpg?tf=1200x' alt='Adiós a tu privacidad: así es como se consigue la localización de cualquier foto en dos minutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-auriculares-estan-afectando-oidos-como-puedes-evitar-dano-auditivo-mayor-1278962'>Así es como los auriculares están afectando tus oídos y cómo puedes evitar un daño auditivo mayor</a></h4>
-    <a href='https://computerhoy.com/life/como-auriculares-estan-afectando-oidos-como-puedes-evitar-dano-auditivo-mayor-1278962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nino-auriculares-3095342.jpg?tf=1200x' alt='Así es como los auriculares están afectando tus oídos y cómo puedes evitar un daño auditivo mayor' />
+    <h4><a href='https://computerhoy.com/redes/vodafone-amazon-alian-mejorar-seguridad-vial-1282340'>Vodafone y Amazon se alían para mejorar la seguridad vial con redes de latencia ultrabaja</a></h4>
+    <a href='https://computerhoy.com/redes/vodafone-amazon-alian-mejorar-seguridad-vial-1282340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/vodafone-aws-3095484.jpg?tf=1200x' alt='Vodafone y Amazon se alían para mejorar la seguridad vial con redes de latencia ultrabaja' />
     </a>
 </div>
 
