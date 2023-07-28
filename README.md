@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/historia-siri-alexa-otros-asistentes-futuro-chatgpt-1237612'>25 aniversario de Computer Hoy: historia de los asistentes virtuales como Alexa, Siri y Google, y el principio del fin ante el auge de la IA tipo ChatGPT</a></h4>
+    <a href='https://computerhoy.com/android/historia-siri-alexa-otros-asistentes-futuro-chatgpt-1237612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-alexa-google-assistant-chatgpt-siri-apple-asistentes-virtuales-3090898.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: historia de los asistentes virtuales como Alexa, Siri y Google, y el principio del fin ante el auge de la IA tipo ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-proteger-privacidad-windows-11-tener-ser-experto-1275768'>Cómo proteger tu privacidad en Windows 11 sin tener que ser un experto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-proteger-privacidad-windows-11-tener-ser-experto-1275768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/biblia-windows-11-resolvemos-todas-dudas-sustituto-windows-10-2401109.jpg?tf=1200x' alt='Cómo proteger tu privacidad en Windows 11 sin tener que ser un experto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-merece-pena-caracteristicas-alternativas-baratas-1133975'>Samsung Galaxy A12: ¿merece la pena? Características y alternativas baratas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a12-merece-pena-caracteristicas-alternativas-baratas-1133975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/samsung-galaxy-a12jpeg-3027844.jpg?tf=1200x' alt='Samsung Galaxy A12: ¿merece la pena? Características y alternativas baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/muestra-como-habitacion-hotel-cara-mundo-redes-horrorizan-nauseabunda-siniestra-1281554'>Muestra cómo es la habitación de hotel más cara del mundo y las redes se horrorizan: “es nauseabunda y siniestra”</a></h4>
     <a href='https://computerhoy.com/life/muestra-como-habitacion-hotel-cara-mundo-redes-horrorizan-nauseabunda-siniestra-1281554' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/suite-empathy-3093976.jpg?tf=1200x' alt='Muestra cómo es la habitación de hotel más cara del mundo y las redes se horrorizan: “es nauseabunda y siniestra”' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/compra-iphone-amazon-envian-bebida-proteinas-montanablack-1281930'>Se compra el iPhone más caro, Amazon le envía una bebida de proteínas... y no puede devolverla</a></h4>
     <a href='https://computerhoy.com/amazon/compra-iphone-amazon-envian-bebida-proteinas-montanablack-1281930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/gasta-1800-euros-iphone-amazon-envia-bebida-proteinas-no-puede-recuperar-dinero-3094774.jpg?tf=1200x' alt='Se compra el iPhone más caro, Amazon le envía una bebida de proteínas... y no puede devolverla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-muestra-movil-android-detectar-airtag-te-rastrea-1281928'>Google muestra cómo un móvil Android puede detectar si un AirTag te está siguiendo</a></h4>
-    <a href='https://computerhoy.com/android/google-muestra-movil-android-detectar-airtag-te-rastrea-1281928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1690491439116-3094758.jpg?tf=1200x' alt='Google muestra cómo un móvil Android puede detectar si un AirTag te está siguiendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/autocaravana-barata-puedes-comprar-frente-cara-1281894'>La autocaravana más barata que puedes comprar frente a la más cara y lujosa del mercado</a></h4>
-    <a href='https://computerhoy.com/motor/autocaravana-barata-puedes-comprar-frente-cara-1281894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/caravana-barata-puedes-comprar-frente-autocaravana-cara-lujosa-mercado-3094710.jpg?tf=1200x' alt='La autocaravana más barata que puedes comprar frente a la más cara y lujosa del mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hazte-smartwatch-realme-solo-50-euros-1281776'>Hazte con este smartwatch de realme por sólo 50 euros </a></h4>
-    <a href='https://computerhoy.com/tecnologia/hazte-smartwatch-realme-solo-50-euros-1281776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/realme-watch-2-pro-2423987.jpg?tf=1200x' alt='Hazte con este smartwatch de realme por sólo 50 euros ' />
     </a>
 </div>
 
