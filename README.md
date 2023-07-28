@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/muestra-como-habitacion-hotel-cara-mundo-redes-horrorizan-nauseabunda-siniestra-1281554'>Muestra cómo es la habitación de hotel más cara del mundo y las redes se horrorizan: “es nauseabunda y siniestra”</a></h4>
+    <a href='https://computerhoy.com/life/muestra-como-habitacion-hotel-cara-mundo-redes-horrorizan-nauseabunda-siniestra-1281554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/suite-empathy-3093976.jpg?tf=1200x' alt='Muestra cómo es la habitación de hotel más cara del mundo y las redes se horrorizan: “es nauseabunda y siniestra”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/compra-iphone-amazon-envian-bebida-proteinas-montanablack-1281930'>Se compra el iPhone más caro, Amazon le envía una bebida de proteínas... y no puede devolverla</a></h4>
     <a href='https://computerhoy.com/amazon/compra-iphone-amazon-envian-bebida-proteinas-montanablack-1281930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/gasta-1800-euros-iphone-amazon-envia-bebida-proteinas-no-puede-recuperar-dinero-3094774.jpg?tf=1200x' alt='Se compra el iPhone más caro, Amazon le envía una bebida de proteínas... y no puede devolverla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/hazte-smartwatch-realme-solo-50-euros-1281776'>Hazte con este smartwatch de realme por sólo 50 euros </a></h4>
     <a href='https://computerhoy.com/tecnologia/hazte-smartwatch-realme-solo-50-euros-1281776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/realme-watch-2-pro-2423987.jpg?tf=1200x' alt='Hazte con este smartwatch de realme por sólo 50 euros ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/series-peliculas-estreno-hbo-max-agosto-2023-1281902'>Mucho kung-fu, los gemelos de Harry Potter, Lakers y cine español premiado, entre los estrenos de HBO Max en agosto</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/series-peliculas-estreno-hbo-max-agosto-2023-1281902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mucho-kung-fu-gemelos-harry-potter-lakers-cine-espanol-premiado-estrenos-hbo-max-agosto-3094720.jpg?tf=1200x' alt='Mucho kung-fu, los gemelos de Harry Potter, Lakers y cine español premiado, entre los estrenos de HBO Max en agosto' />
     </a>
 </div>
 
