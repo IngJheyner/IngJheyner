@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/simple-i-reino-unido-envia-correos-clasificados-mali-aliado-ruso-error-1282200'>Por una simple 'i': Reino Unido envía correos clasificados a Malí, aliado ruso, por error </a></h4>
-    <a href='https://computerhoy.com/internet/simple-i-reino-unido-envia-correos-clasificados-mali-aliado-ruso-error-1282200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/simple-i-ministerio-defensa-reino-unido-envia-correos-clasificados-mali-error-3095052.jpg?tf=1200x' alt='Por una simple 'i': Reino Unido envía correos clasificados a Malí, aliado ruso, por error ' />
+    <h4><a href='https://computerhoy.com/apps/stephen-king-carga-elon-musk-twitter-nuevo-nombre-1282260'>Stephen King de nuevo a la carga contra Elon Musk, Twitter y el nuevo cambio de nombre a X</a></h4>
+    <a href='https://computerhoy.com/apps/stephen-king-carga-elon-musk-twitter-nuevo-nombre-1282260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/stephen-king-nuevo-carga-elon-musk-twitter-nuevo-cambio-nombre-3095190.jpg?tf=1200x' alt='Stephen King de nuevo a la carga contra Elon Musk, Twitter y el nuevo cambio de nombre a X' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/xiaomi-redmi-note-12-merece-pena-5-motivos-1282180'>Xiaomi Redmi Note 12: ¿merece la pena? 5 motivos por los que sí</a></h4>
-    <a href='https://computerhoy.com/moviles/xiaomi-redmi-note-12-merece-pena-5-motivos-1282180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-note-12-pro-2991766.jpg?tf=1200x' alt='Xiaomi Redmi Note 12: ¿merece la pena? 5 motivos por los que sí' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/noname-grupo-hackers-rusos-detras-ataques-23j-pone-foco-telefonica-orange-1282278'>Telefónica y Orange, nuevas víctimas de NoName057, el grupo de hackers rusos detrás de los ciberataques del 23J</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/noname-grupo-hackers-rusos-detras-ataques-23j-pone-foco-telefonica-orange-1282278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/telefonica-orange-nuevas-victimas-noname057-grupo-hackers-rusos-detras-ciberataques-23j-3095296.jpg?tf=1200x' alt='Telefónica y Orange, nuevas víctimas de NoName057, el grupo de hackers rusos detrás de los ciberataques del 23J' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/busca-planeta-nueve-nuevo-mundo-sistema-solar-no-pluton-1282188'>En busca del 'Planeta Nueve': un nuevo mundo en el Sistema Solar y no es Plutón</a></h4>
-    <a href='https://computerhoy.com/espacio/busca-planeta-nueve-nuevo-mundo-sistema-solar-no-pluton-1282188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/busca-planeta-nueve-nuevo-mundo-sistema-solar-no-pluton-3095042.jpg?tf=1200x' alt='En busca del 'Planeta Nueve': un nuevo mundo en el Sistema Solar y no es Plutón' />
+    <h4><a href='https://computerhoy.com/tecnologia/stable-diffusion-xl-10-potencia-creatividad-arte-digital-1282268'>Stable Diffusion XL 1.0: más potencia y creatividad para el arte digital</a></h4>
+    <a href='https://computerhoy.com/tecnologia/stable-diffusion-xl-10-potencia-creatividad-arte-digital-1282268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/stable-diffusion-xl-10-potencia-creatividad-arte-digital-3095154.jpg?tf=1200x' alt='Stable Diffusion XL 1.0: más potencia y creatividad para el arte digital' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/historia-siri-alexa-otros-asistentes-futuro-chatgpt-1237612'>25 aniversario de Computer Hoy: historia de los asistentes virtuales como Alexa, Siri y Google, y el principio del fin ante el auge de la IA tipo ChatGPT</a></h4>
-    <a href='https://computerhoy.com/android/historia-siri-alexa-otros-asistentes-futuro-chatgpt-1237612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-alexa-google-assistant-chatgpt-siri-apple-asistentes-virtuales-3090898.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: historia de los asistentes virtuales como Alexa, Siri y Google, y el principio del fin ante el auge de la IA tipo ChatGPT' />
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-paso-seguir-estela-netflix-cuentas-compartidas-1282252'>Disney+ a un paso de seguir la estela de Netflix con las cuentas compartidas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-paso-seguir-estela-netflix-cuentas-compartidas-1282252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/disney-paso-seguir-estela-netflix-cuentas-compartidas-3095150.jpg?tf=1200x' alt='Disney+ a un paso de seguir la estela de Netflix con las cuentas compartidas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-proteger-privacidad-windows-11-tener-ser-experto-1275768'>Cómo proteger tu privacidad en Windows 11 sin tener que ser un experto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-proteger-privacidad-windows-11-tener-ser-experto-1275768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/biblia-windows-11-resolvemos-todas-dudas-sustituto-windows-10-2401109.jpg?tf=1200x' alt='Cómo proteger tu privacidad en Windows 11 sin tener que ser un experto' />
+    <h4><a href='https://computerhoy.com/gaming/sony-asume-equivoco-playstation-5-slim-solucionara-grandes-fallos-ps5-1282236'>Sony asume que se equivocó y PlayStation 5 Slim solucionará uno de los grandes fallos de PS5</a></h4>
+    <a href='https://computerhoy.com/gaming/sony-asume-equivoco-playstation-5-slim-solucionara-grandes-fallos-ps5-1282236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ps5-slim-3095122.jpg?tf=1200x' alt='Sony asume que se equivocó y PlayStation 5 Slim solucionará uno de los grandes fallos de PS5' />
     </a>
 </div>
 
