@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-podria-empezar-produccion-galaxy-ring-agosto-lanzarlo-2024-1282728'>Samsung podría empezar la producción del Galaxy Ring en agosto para lanzarlo en 2024</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-podria-empezar-produccion-galaxy-ring-agosto-lanzarlo-2024-1282728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/anillo-inteligente-3096114.jpg?tf=1200x' alt='Samsung podría empezar la producción del Galaxy Ring en agosto para lanzarlo en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/portatil-menos-300-euros-cual-comprar-1282716'>Portátil de menos de 300 euros: cuál comprar y en qué debes fijarte</a></h4>
     <a href='https://computerhoy.com/pc/portatil-menos-300-euros-cual-comprar-1282716' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portatil-menos-300-euros-cual-comprar-debes-fijarte-3096062.jpg?tf=1200x' alt='Portátil de menos de 300 euros: cuál comprar y en qué debes fijarte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/camaras-autobuses-podrian-ayudar-optimizar-flujo-trafico-urbano-1282694'>Las cámaras de los autobuses podrían ayudar a optimizar el flujo de tráfico urbano</a></h4>
     <a href='https://computerhoy.com/tecnologia/camaras-autobuses-podrian-ayudar-optimizar-flujo-trafico-urbano-1282694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/autobus-3096030.jpg?tf=1200x' alt='Las cámaras de los autobuses podrían ayudar a optimizar el flujo de tráfico urbano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/seria-nueva-interfaz-google-maps-android-auto-no-gustando-1282690'>Esta sería la nueva interfaz de Google Maps para Android Auto y que no está gustando</a></h4>
-    <a href='https://computerhoy.com/apps/seria-nueva-interfaz-google-maps-android-auto-no-gustando-1282690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Esta sería la nueva interfaz de Google Maps para Android Auto y que no está gustando' />
     </a>
 </div>
 
