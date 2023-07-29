@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/faustino-antonio-camazon-espia-espanol-maquina-enigma-alan-turing-1282644'>El espía español tan importante como Alan Turing que todo el mundo ha olvidado: fue clave para derrotar a Hitler</a></h4>
+    <a href='https://computerhoy.com/life/faustino-antonio-camazon-espia-espanol-maquina-enigma-alan-turing-1282644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/espia-espanol-tan-importante-como-alan-turing-todo-mundo-ha-olvidado-fue-clave-derrotar-hitler-3095962.jpg?tf=1200x' alt='El espía español tan importante como Alan Turing que todo el mundo ha olvidado: fue clave para derrotar a Hitler' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/triangulo-alaska-20000-desaparecidos-1280710'>El Triángulo de Alaska, más letal que el de las Bermudas: han desaparecido 20.000 personas en 50 años</a></h4>
+    <a href='https://computerhoy.com/life/triangulo-alaska-20000-desaparecidos-1280710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/triangulo-alaska-letal-bermudas-han-desaparecido-20000-personas-50-anos-3092562.jpg?tf=1200x' alt='El Triángulo de Alaska, más letal que el de las Bermudas: han desaparecido 20.000 personas en 50 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/alternativas-baratas-secador-dyson-1016631'>5 alternativas baratas al secador de pelo Dyson que también merecen la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/alternativas-baratas-secador-dyson-1016631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/profesional-peinando-mujer-secador-rodillo-2624009.jpg?tf=1200x' alt='5 alternativas baratas al secador de pelo Dyson que también merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-plus-canal-television-streaming-gratis-1282420'>La NASA anuncia su canal de televisión en streaming NASA+, gratis y sin publicidad</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-plus-canal-television-streaming-gratis-1282420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1690576574232-3095734.jpg?tf=1200x' alt='La NASA anuncia su canal de televisión en streaming NASA+, gratis y sin publicidad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-suspende-rodaje-temporada-4-the-witcher-1282412'>Netflix suspende el rodaje de la temporada 4 de The Witcher, los rumores de cancelación se disparan</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-suspende-rodaje-temporada-4-the-witcher-1282412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/henry-cavill-como-geralt-rivia-witcher-3058518.jpg?tf=1200x' alt='Netflix suspende el rodaje de la temporada 4 de The Witcher, los rumores de cancelación se disparan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/ultima-locura-viral-tiktok-genialidad-guarrada-partes-iguales-1282404'>La última locura viral de TikTok es una genialidad y una guarrada a partes iguales</a></h4>
-    <a href='https://computerhoy.com/internet/ultima-locura-viral-tiktok-genialidad-guarrada-partes-iguales-1282404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cuchara-recoger-espaguetis-3095700.jpg?tf=1200x' alt='La última locura viral de TikTok es una genialidad y una guarrada a partes iguales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/descubren-fenomeno-espectacular-galaxia-cruz-einstein-1282382'>Descubren un fenómeno de luz espectacular en una galaxia lejana: la Cruz de Einstein</a></h4>
-    <a href='https://computerhoy.com/espacio/descubren-fenomeno-espectacular-galaxia-cruz-einstein-1282382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/descubren-fenomeno-espectacular-galaxia-lejana-cruz-einstein-3095674.jpg?tf=1200x' alt='Descubren un fenómeno de luz espectacular en una galaxia lejana: la Cruz de Einstein' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/importante-advertencia-google-nunca-hagas-clic-ves-estas-tres-ventanas-movil-1282400'>Importante advertencia de Google: nunca hagas clic si ves estas tres ventanas en tu móvil</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/importante-advertencia-google-nunca-hagas-clic-ves-estas-tres-ventanas-movil-1282400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chrome-malware-2914052.jpg?tf=1200x' alt='Importante advertencia de Google: nunca hagas clic si ves estas tres ventanas en tu móvil' />
     </a>
 </div>
 
