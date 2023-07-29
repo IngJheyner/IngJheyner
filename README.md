@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/faustino-antonio-camazon-espia-espanol-maquina-enigma-alan-turing-1282644'>El espía español tan importante como Alan Turing que todo el mundo ha olvidado: fue clave para derrotar a Hitler</a></h4>
-    <a href='https://computerhoy.com/life/faustino-antonio-camazon-espia-espanol-maquina-enigma-alan-turing-1282644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/espia-espanol-tan-importante-como-alan-turing-todo-mundo-ha-olvidado-fue-clave-derrotar-hitler-3095962.jpg?tf=1200x' alt='El espía español tan importante como Alan Turing que todo el mundo ha olvidado: fue clave para derrotar a Hitler' />
+    <h4><a href='https://computerhoy.com/tecnologia/padres-inteligencia-artificial-cuando-empezo-revolucion-locura-tecnologia-1281252'>Padres de la inteligencia artificial: ¿cuándo empezó la revolución y locura por esta tecnología?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/padres-inteligencia-artificial-cuando-empezo-revolucion-locura-tecnologia-1281252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/padres-inteligencia-artificial-cuando-empezo-revolucion-locura-tecnologia-3093692.jpg?tf=1200x' alt='Padres de la inteligencia artificial: ¿cuándo empezó la revolución y locura por esta tecnología?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/triangulo-alaska-20000-desaparecidos-1280710'>El Triángulo de Alaska, más letal que el de las Bermudas: han desaparecido 20.000 personas en 50 años</a></h4>
-    <a href='https://computerhoy.com/life/triangulo-alaska-20000-desaparecidos-1280710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/triangulo-alaska-letal-bermudas-han-desaparecido-20000-personas-50-anos-3092562.jpg?tf=1200x' alt='El Triángulo de Alaska, más letal que el de las Bermudas: han desaparecido 20.000 personas en 50 años' />
+    <h4><a href='https://computerhoy.com/tecnologia/generacion-z-muy-retro-nostalgia-desconexion-digital-privacidad-siglo-xxi-1276106'>Generación Z directa al pasado: desconexión digital en el siglo XXI, ¿qué está ocurriendo?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/generacion-z-muy-retro-nostalgia-desconexion-digital-privacidad-siglo-xxi-1276106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/generacion-z-directa-pasado-nostalgia-desconexion-digital-siglo-xxi-ocurre-3086782.jpg?tf=1200x' alt='Generación Z directa al pasado: desconexión digital en el siglo XXI, ¿qué está ocurriendo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/alternativas-baratas-secador-dyson-1016631'>5 alternativas baratas al secador de pelo Dyson que también merecen la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/alternativas-baratas-secador-dyson-1016631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/profesional-peinando-mujer-secador-rodillo-2624009.jpg?tf=1200x' alt='5 alternativas baratas al secador de pelo Dyson que también merecen la pena' />
+    <h4><a href='https://computerhoy.com/internet/nueva-obsesion-navegador-arc-browser-1277614'>Por qué mi nueva extraña obsesión es un navegador</a></h4>
+    <a href='https://computerhoy.com/internet/nueva-obsesion-navegador-arc-browser-1277614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/captura-pantalla-arc-browser-3087590.jpg?tf=1200x' alt='Por qué mi nueva extraña obsesión es un navegador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-plus-canal-television-streaming-gratis-1282420'>La NASA anuncia su canal de televisión en streaming NASA+, gratis y sin publicidad</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-plus-canal-television-streaming-gratis-1282420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1690576574232-3095734.jpg?tf=1200x' alt='La NASA anuncia su canal de televisión en streaming NASA+, gratis y sin publicidad' />
+    <h4><a href='https://computerhoy.com/ciencia/nueva-forma-sumar-rapido-numeros-grandes-1281308'>Las redes en shock al descubrir esta nueva forma de sumar números grandes más rápido</a></h4>
+    <a href='https://computerhoy.com/ciencia/nueva-forma-sumar-rapido-numeros-grandes-1281308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/redes-shock-descubrir-nueva-forma-sumar-numeros-grandes-rapido-3093650.jpg?tf=1200x' alt='Las redes en shock al descubrir esta nueva forma de sumar números grandes más rápido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-suspende-rodaje-temporada-4-the-witcher-1282412'>Netflix suspende el rodaje de la temporada 4 de The Witcher, los rumores de cancelación se disparan</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-suspende-rodaje-temporada-4-the-witcher-1282412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/henry-cavill-como-geralt-rivia-witcher-3058518.jpg?tf=1200x' alt='Netflix suspende el rodaje de la temporada 4 de The Witcher, los rumores de cancelación se disparan' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673'>Las mejores sillas de escritorio baratas que puedes comprar en 2023 en Amazon, IKEA, PcComponentes y más</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/silla-ikea-3095738.jpg?tf=1200x' alt='Las mejores sillas de escritorio baratas que puedes comprar en 2023 en Amazon, IKEA, PcComponentes y más' />
     </a>
 </div>
 
