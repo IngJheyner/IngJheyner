@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-plus-canal-television-streaming-gratis-1282420'>La NASA anuncia su canal de televisión en streaming NASA+, gratis y sin publicidad</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-plus-canal-television-streaming-gratis-1282420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1690576574232-3095734.jpg?tf=1200x' alt='La NASA anuncia su canal de televisión en streaming NASA+, gratis y sin publicidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-suspende-rodaje-temporada-4-the-witcher-1282412'>Netflix suspende el rodaje de la temporada 4 de The Witcher, los rumores de cancelación se disparan</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-suspende-rodaje-temporada-4-the-witcher-1282412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/henry-cavill-como-geralt-rivia-witcher-3058518.jpg?tf=1200x' alt='Netflix suspende el rodaje de la temporada 4 de The Witcher, los rumores de cancelación se disparan' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/importante-advertencia-google-nunca-hagas-clic-ves-estas-tres-ventanas-movil-1282400'>Importante advertencia de Google: nunca hagas clic si ves estas tres ventanas en tu móvil</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/importante-advertencia-google-nunca-hagas-clic-ves-estas-tres-ventanas-movil-1282400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chrome-malware-2914052.jpg?tf=1200x' alt='Importante advertencia de Google: nunca hagas clic si ves estas tres ventanas en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/juegos-gratis-prime-gaming-agosto-2023-1282398'>Buenos juegos indie, un juegazo de Star Wars, y otros títulos míticos que Prime Gaming regala en agosto</a></h4>
-    <a href='https://computerhoy.com/gaming/juegos-gratis-prime-gaming-agosto-2023-1282398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/juegos-gratis-prime-gaming-agosto-2023-3094644.jpg?tf=1200x' alt='Buenos juegos indie, un juegazo de Star Wars, y otros títulos míticos que Prime Gaming regala en agosto' />
     </a>
 </div>
 
