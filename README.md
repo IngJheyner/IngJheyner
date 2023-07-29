@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/seria-nueva-interfaz-google-maps-android-auto-no-gustando-1282690'>Esta sería la nueva interfaz de Google Maps para Android Auto y que no está gustando</a></h4>
+    <a href='https://computerhoy.com/apps/seria-nueva-interfaz-google-maps-android-auto-no-gustando-1282690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Esta sería la nueva interfaz de Google Maps para Android Auto y que no está gustando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/peligroso-malware-roba-contrasenas-capturas-pantalla-1282684'>El peligroso malware que roba las contraseñas por tus capturas de pantalla</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/peligroso-malware-roba-contrasenas-capturas-pantalla-1282684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/android-malware-3096000.jpg?tf=1200x' alt='El peligroso malware que roba las contraseñas por tus capturas de pantalla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-nacieron-juguetes-estan-protagonizados-estos-1277834'>7 películas que nacieron de juguetes, o están protagonizados por estos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-peliculas-nacieron-juguetes-estan-protagonizados-estos-1277834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/toy-story-4_3.jpg?tf=1200x' alt='7 películas que nacieron de juguetes, o están protagonizados por estos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/actualizacion-windows-rompe-reproduccion-captura-video-estos-ordenadores-1282678'>Esta actualización de Windows rompe la reproducción y captura de vídeo en estos ordenadores</a></h4>
-    <a href='https://computerhoy.com/windows/actualizacion-windows-rompe-reproduccion-captura-video-estos-ordenadores-1282678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3095996.jpg?tf=1200x' alt='Esta actualización de Windows rompe la reproducción y captura de vídeo en estos ordenadores' />
     </a>
 </div>
 
