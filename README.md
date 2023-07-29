@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/debemos-colocar-antenas-router-tener-mejor-wifi-hogar-1282700'>Así debemos colocar las antenas del router para tener el mejor WiFi en nuestro hogar</a></h4>
+    <a href='https://computerhoy.com/internet/debemos-colocar-antenas-router-tener-mejor-wifi-hogar-1282700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2994456.jpg?tf=1200x' alt='Así debemos colocar las antenas del router para tener el mejor WiFi en nuestro hogar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/camaras-autobuses-podrian-ayudar-optimizar-flujo-trafico-urbano-1282694'>Las cámaras de los autobuses podrían ayudar a optimizar el flujo de tráfico urbano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/camaras-autobuses-podrian-ayudar-optimizar-flujo-trafico-urbano-1282694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/autobus-3096030.jpg?tf=1200x' alt='Las cámaras de los autobuses podrían ayudar a optimizar el flujo de tráfico urbano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/seria-nueva-interfaz-google-maps-android-auto-no-gustando-1282690'>Esta sería la nueva interfaz de Google Maps para Android Auto y que no está gustando</a></h4>
     <a href='https://computerhoy.com/apps/seria-nueva-interfaz-google-maps-android-auto-no-gustando-1282690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Esta sería la nueva interfaz de Google Maps para Android Auto y que no está gustando' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-renovar-carnet-conducir-internet-salir-casa-1282202'>Cómo renovar el carnet de conducir por internet sin salir de casa</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-renovar-carnet-conducir-internet-salir-casa-1282202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/carnet-conducir-3059296.jpg?tf=1200x' alt='Cómo renovar el carnet de conducir por internet sin salir de casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/twitter-ahora-x-estrena-nuevo-programa-reparto-ingresos-te-enriquezcas-mientras-musk-presume-usuarios-mensuales-1282682'>Twitter, ahora X, estrena su nuevo programa de reparto de ingresos para que te enriquezcas, mientras Musk presume de usuarios mensuales</a></h4>
-    <a href='https://computerhoy.com/apps/twitter-ahora-x-estrena-nuevo-programa-reparto-ingresos-te-enriquezcas-mientras-musk-presume-usuarios-mensuales-1282682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Twitter, ahora X, estrena su nuevo programa de reparto de ingresos para que te enriquezcas, mientras Musk presume de usuarios mensuales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-nacieron-juguetes-estan-protagonizados-estos-1277834'>7 películas que nacieron de juguetes, o están protagonizados por estos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-nacieron-juguetes-estan-protagonizados-estos-1277834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/toy-story-4_3.jpg?tf=1200x' alt='7 películas que nacieron de juguetes, o están protagonizados por estos' />
     </a>
 </div>
 
