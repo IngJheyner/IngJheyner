@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/portatil-menos-300-euros-cual-comprar-1282716'>Portátil de menos de 300 euros: cuál comprar y en qué debes fijarte</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-menos-300-euros-cual-comprar-1282716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portatil-menos-300-euros-cual-comprar-debes-fijarte-3096062.jpg?tf=1200x' alt='Portátil de menos de 300 euros: cuál comprar y en qué debes fijarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-robot-capaz-escalar-cualquier-pared-subir-techos-aterrador-1282702'>Crean un robot capaz de escalar cualquier pared y subir a los techos, y es aterrador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-robot-capaz-escalar-cualquier-pared-subir-techos-aterrador-1282702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/magnecko-3096042.jpg?tf=1200x' alt='Crean un robot capaz de escalar cualquier pared y subir a los techos, y es aterrador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/debemos-colocar-antenas-router-tener-mejor-wifi-hogar-1282700'>Así debemos colocar las antenas del router para tener el mejor WiFi en nuestro hogar</a></h4>
     <a href='https://computerhoy.com/internet/debemos-colocar-antenas-router-tener-mejor-wifi-hogar-1282700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2994456.jpg?tf=1200x' alt='Así debemos colocar las antenas del router para tener el mejor WiFi en nuestro hogar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/seria-nueva-interfaz-google-maps-android-auto-no-gustando-1282690'>Esta sería la nueva interfaz de Google Maps para Android Auto y que no está gustando</a></h4>
     <a href='https://computerhoy.com/apps/seria-nueva-interfaz-google-maps-android-auto-no-gustando-1282690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Esta sería la nueva interfaz de Google Maps para Android Auto y que no está gustando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/peligroso-malware-roba-contrasenas-capturas-pantalla-1282684'>El peligroso malware que roba las contraseñas por tus capturas de pantalla</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/peligroso-malware-roba-contrasenas-capturas-pantalla-1282684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/android-malware-3096000.jpg?tf=1200x' alt='El peligroso malware que roba las contraseñas por tus capturas de pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-renovar-carnet-conducir-internet-salir-casa-1282202'>Cómo renovar el carnet de conducir por internet sin salir de casa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-renovar-carnet-conducir-internet-salir-casa-1282202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/carnet-conducir-3059296.jpg?tf=1200x' alt='Cómo renovar el carnet de conducir por internet sin salir de casa' />
     </a>
 </div>
 
