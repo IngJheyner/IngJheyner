@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/padres-inteligencia-artificial-cuando-empezo-revolucion-locura-tecnologia-1281252'>Padres de la inteligencia artificial: ¿cuándo empezó la revolución y locura por esta tecnología?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/padres-inteligencia-artificial-cuando-empezo-revolucion-locura-tecnologia-1281252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/padres-inteligencia-artificial-cuando-empezo-revolucion-locura-tecnologia-3093692.jpg?tf=1200x' alt='Padres de la inteligencia artificial: ¿cuándo empezó la revolución y locura por esta tecnología?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/peligroso-malware-roba-contrasenas-capturas-pantalla-1282684'>El peligroso malware que roba las contraseñas por tus capturas de pantalla</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/peligroso-malware-roba-contrasenas-capturas-pantalla-1282684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/android-malware-3096000.jpg?tf=1200x' alt='El peligroso malware que roba las contraseñas por tus capturas de pantalla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/generacion-z-muy-retro-nostalgia-desconexion-digital-privacidad-siglo-xxi-1276106'>Generación Z directa al pasado: desconexión digital en el siglo XXI, ¿qué está ocurriendo?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/generacion-z-muy-retro-nostalgia-desconexion-digital-privacidad-siglo-xxi-1276106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/generacion-z-directa-pasado-nostalgia-desconexion-digital-siglo-xxi-ocurre-3086782.jpg?tf=1200x' alt='Generación Z directa al pasado: desconexión digital en el siglo XXI, ¿qué está ocurriendo?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-renovar-carnet-conducir-internet-salir-casa-1282202'>Cómo renovar el carnet de conducir por internet sin salir de casa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-renovar-carnet-conducir-internet-salir-casa-1282202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/carnet-conducir-3059296.jpg?tf=1200x' alt='Cómo renovar el carnet de conducir por internet sin salir de casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/nueva-obsesion-navegador-arc-browser-1277614'>Por qué mi nueva extraña obsesión es un navegador</a></h4>
-    <a href='https://computerhoy.com/internet/nueva-obsesion-navegador-arc-browser-1277614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/captura-pantalla-arc-browser-3087590.jpg?tf=1200x' alt='Por qué mi nueva extraña obsesión es un navegador' />
+    <h4><a href='https://computerhoy.com/apps/twitter-ahora-x-estrena-nuevo-programa-reparto-ingresos-te-enriquezcas-mientras-musk-presume-usuarios-mensuales-1282682'>Twitter, ahora X, estrena su nuevo programa de reparto de ingresos para que te enriquezcas, mientras Musk presume de usuarios mensuales</a></h4>
+    <a href='https://computerhoy.com/apps/twitter-ahora-x-estrena-nuevo-programa-reparto-ingresos-te-enriquezcas-mientras-musk-presume-usuarios-mensuales-1282682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Twitter, ahora X, estrena su nuevo programa de reparto de ingresos para que te enriquezcas, mientras Musk presume de usuarios mensuales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nueva-forma-sumar-rapido-numeros-grandes-1281308'>Las redes en shock al descubrir esta nueva forma de sumar números grandes más rápido</a></h4>
-    <a href='https://computerhoy.com/ciencia/nueva-forma-sumar-rapido-numeros-grandes-1281308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/redes-shock-descubrir-nueva-forma-sumar-numeros-grandes-rapido-3093650.jpg?tf=1200x' alt='Las redes en shock al descubrir esta nueva forma de sumar números grandes más rápido' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-nacieron-juguetes-estan-protagonizados-estos-1277834'>7 películas que nacieron de juguetes, o están protagonizados por estos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-nacieron-juguetes-estan-protagonizados-estos-1277834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/toy-story-4_3.jpg?tf=1200x' alt='7 películas que nacieron de juguetes, o están protagonizados por estos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673'>Las mejores sillas de escritorio baratas que puedes comprar en 2023 en Amazon, IKEA, PcComponentes y más</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/silla-ikea-3095738.jpg?tf=1200x' alt='Las mejores sillas de escritorio baratas que puedes comprar en 2023 en Amazon, IKEA, PcComponentes y más' />
+    <h4><a href='https://computerhoy.com/windows/actualizacion-windows-rompe-reproduccion-captura-video-estos-ordenadores-1282678'>Esta actualización de Windows rompe la reproducción y captura de vídeo en estos ordenadores</a></h4>
+    <a href='https://computerhoy.com/windows/actualizacion-windows-rompe-reproduccion-captura-video-estos-ordenadores-1282678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3095996.jpg?tf=1200x' alt='Esta actualización de Windows rompe la reproducción y captura de vídeo en estos ordenadores' />
     </a>
 </div>
 
