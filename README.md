@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-pierde-contacto-estacion-espacial-internacional-1282998'>Por primera vez en 25 años, la NASA pierde el contacto con la Estación Espacial Internacional: los rusos al rescate</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-pierde-contacto-estacion-espacial-internacional-1282998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/estacion-espacial-internacional-2162981.jpg?tf=1200x' alt='Por primera vez en 25 años, la NASA pierde el contacto con la Estación Espacial Internacional: los rusos al rescate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mika-primer-ceo-robot-inteligencia-artificial-compania-dictador-1282992'>Mika, el primer robot con IA que se ha convertido en CEO de un compañía, asegura que es mejor que Zuckerberg y Elon Musk</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mika-primer-ceo-robot-inteligencia-artificial-compania-dictador-1282992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mika-primer-robot-ia-ha-convertido-ceo-compania-asegura-mejor-zuckerberg-elon-musk-3096434.jpg?tf=1200x' alt='Mika, el primer robot con IA que se ha convertido en CEO de un compañía, asegura que es mejor que Zuckerberg y Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/aspiradoras-trineo-ventajas-cual-comprar-1282960'>Aspiradoras de trineo: qué ventajas tienen y cuál comprar</a></h4>
+    <a href='https://computerhoy.com/hogar/aspiradoras-trineo-ventajas-cual-comprar-1282960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aspiradoras-trineo-ventajas-tienen-cual-comprar-3096374.jpg?tf=1200x' alt='Aspiradoras de trineo: qué ventajas tienen y cuál comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/logo-x-no-deja-dormir-vecinos-x-sigue-siendo-twitter-ios-1282980'>El logo de X no deja dormir a los vecinos, por qué X se sigue llamando Twitter en iOS, y la muerte del tuit</a></h4>
+    <a href='https://computerhoy.com/internet/logo-x-no-deja-dormir-vecinos-x-sigue-siendo-twitter-ios-1282980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/x-sigue-llamando-twitter-ios-logo-x-no-deja-dormir-vecinos-muerte-tuit-3096426.jpg?tf=1200x' alt='El logo de X no deja dormir a los vecinos, por qué X se sigue llamando Twitter en iOS, y la muerte del tuit' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/chollazo-miravia-xiaomi-redmi-note-12-pro-menos-250-euros-1282940'>Chollazo en Miravia: Xiaomi Redmi Note 12 Pro por menos de 250 euros</a></h4>
     <a href='https://computerhoy.com/android/chollazo-miravia-xiaomi-redmi-note-12-pro-menos-250-euros-1282940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/redmi-note-12-pro-3014752.jpg?tf=1200x' alt='Chollazo en Miravia: Xiaomi Redmi Note 12 Pro por menos de 250 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-quiere-alcanzar-apple-ventas-telefonos-premium-solo-5-anos-1282954'>Samsung quiere alcanzar a Apple en ventas de teléfonos premium en solo 5 años</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-quiere-alcanzar-apple-ventas-telefonos-premium-solo-5-anos-1282954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-fold-5-3089690.jpg?tf=1200x' alt='Samsung quiere alcanzar a Apple en ventas de teléfonos premium en solo 5 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-son-trabajos-enfrentaran-mayor-riesgo-ser-sustituidos-robot-1282950'>Estos son los trabajos que se enfrentarán a un mayor riesgo de ser sustituidos por un robot</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-son-trabajos-enfrentaran-mayor-riesgo-ser-sustituidos-robot-1282950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robot-camarero-3096334.jpg?tf=1200x' alt='Estos son los trabajos que se enfrentarán a un mayor riesgo de ser sustituidos por un robot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-vision-termica-impulsada-ia-conducir-noche-1282946'>Crean una visión térmica impulsada por IA para conducir de noche</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-vision-termica-impulsada-ia-conducir-noche-1282946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/conduccion-nocturna-3096326.jpg?tf=1200x' alt='Crean una visión térmica impulsada por IA para conducir de noche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recibir-alerta-cuando-iphone-alcance-carga-completa-1281000'>Cómo recibir una alerta cuando el iPhone alcance la carga completa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recibir-alerta-cuando-iphone-alcance-carga-completa-1281000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/carga-completa-iphone-3093008.jpg?tf=1200x' alt='Cómo recibir una alerta cuando el iPhone alcance la carga completa' />
     </a>
 </div>
 
