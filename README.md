@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/logo-x-no-deja-dormir-vecinos-x-sigue-siendo-twitter-ios-1282980'>Por qué X se sigue llamando Twitter en iOS, el logo de X no deja dormir a los vecinos, y la muerte del tuit</a></h4>
+    <a href='https://computerhoy.com/internet/logo-x-no-deja-dormir-vecinos-x-sigue-siendo-twitter-ios-1282980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/x-sigue-llamando-twitter-ios-logo-x-no-deja-dormir-vecinos-muerte-tuit-3096426.jpg?tf=1200x' alt='Por qué X se sigue llamando Twitter en iOS, el logo de X no deja dormir a los vecinos, y la muerte del tuit' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/chollazo-miravia-xiaomi-redmi-note-12-pro-menos-250-euros-1282940'>Chollazo en Miravia: Xiaomi Redmi Note 12 Pro por menos de 250 euros</a></h4>
+    <a href='https://computerhoy.com/android/chollazo-miravia-xiaomi-redmi-note-12-pro-menos-250-euros-1282940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/redmi-note-12-pro-3014752.jpg?tf=1200x' alt='Chollazo en Miravia: Xiaomi Redmi Note 12 Pro por menos de 250 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/samsung-quiere-alcanzar-apple-ventas-telefonos-premium-solo-5-anos-1282954'>Samsung quiere alcanzar a Apple en ventas de teléfonos premium en solo 5 años</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-quiere-alcanzar-apple-ventas-telefonos-premium-solo-5-anos-1282954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-fold-5-3089690.jpg?tf=1200x' alt='Samsung quiere alcanzar a Apple en ventas de teléfonos premium en solo 5 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/crean-vision-termica-impulsada-ia-conducir-noche-1282946'>Crean una visión térmica impulsada por IA para conducir de noche</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-vision-termica-impulsada-ia-conducir-noche-1282946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/conduccion-nocturna-3096326.jpg?tf=1200x' alt='Crean una visión térmica impulsada por IA para conducir de noche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recibir-alerta-cuando-iphone-alcance-carga-completa-1281000'>Cómo recibir una alerta cuando el iPhone alcance la carga completa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recibir-alerta-cuando-iphone-alcance-carga-completa-1281000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/carga-completa-iphone-3093008.jpg?tf=1200x' alt='Cómo recibir una alerta cuando el iPhone alcance la carga completa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/solteros-estan-utilizando-chatgpt-crear-biografias-perfectas-tener-exito-aplicaciones-citas-1282938'>Solteros están utilizando ChatGPT para crear biografías perfectas y tener éxito en las aplicaciones de citas</a></h4>
-    <a href='https://computerhoy.com/apps/solteros-estan-utilizando-chatgpt-crear-biografias-perfectas-tener-exito-aplicaciones-citas-1282938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/inteligencia-artificial-3096322.jpg?tf=1200x' alt='Solteros están utilizando ChatGPT para crear biografías perfectas y tener éxito en las aplicaciones de citas' />
     </a>
 </div>
 
