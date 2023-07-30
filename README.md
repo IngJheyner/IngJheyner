@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/wifi-vacaciones-precauciones-tener-cuenta-cosas-no-debes-hacer-1278760'>¿WiFi en vacaciones? Precauciones a tener en cuenta y cosas que no debes hacer </a></h4>
+    <a href='https://computerhoy.com/internet/wifi-vacaciones-precauciones-tener-cuenta-cosas-no-debes-hacer-1278760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/wifi-vacaciones-precauciones-tener-cuenta-cosas-no-debes-hacer-3089514.jpg?tf=1200x' alt='¿WiFi en vacaciones? Precauciones a tener en cuenta y cosas que no debes hacer ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/5-razones-no-debes-hablar-movil-mientras-cargando-1278460'>5 razones por las que no debes hablar por el móvil mientras se está cargando</a></h4>
+    <a href='https://computerhoy.com/life/5-razones-no-debes-hablar-movil-mientras-cargando-1278460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cargadores-movil-3095248.jpg?tf=1200x' alt='5 razones por las que no debes hablar por el móvil mientras se está cargando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sixdegrees-origen-legado-primera-red-social-historia-1281250'>SixDegrees: la desconocida primera red social de la historia y su legado en TikTok, Instagram, Twitter o Facebook </a></h4>
+    <a href='https://computerhoy.com/tecnologia/sixdegrees-origen-legado-primera-red-social-historia-1281250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/sixdegrees-origen-primera-red-social-historia-legado-plataformas-actuales-3095066.jpg?tf=1200x' alt='SixDegrees: la desconocida primera red social de la historia y su legado en TikTok, Instagram, Twitter o Facebook ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/prompt-como-funciona-herramientas-como-chatgpt-1272348'>¿Qué es un 'prompt' y cómo funciona en herramientas como ChatGPT?</a></h4>
     <a href='https://computerhoy.com/tecnologia/prompt-como-funciona-herramientas-como-chatgpt-1272348' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1690551002060-3095410.jpg?tf=1200x' alt='¿Qué es un 'prompt' y cómo funciona en herramientas como ChatGPT?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cientificos-revelan-forma-rapida-enfriar-latas-cerveza-1282140'>Científicos revelan la forma más rápida de enfriar las latas de cerveza, en segundos y sin necesidad de un congelador</a></h4>
     <a href='https://computerhoy.com/life/cientificos-revelan-forma-rapida-enfriar-latas-cerveza-1282140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lata-cerveza-hielo-3094984.jpg?tf=1200x' alt='Científicos revelan la forma más rápida de enfriar las latas de cerveza, en segundos y sin necesidad de un congelador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-primer-cine-mundo-capaz-monitorear-reacciones-personas-1282724'>Crean el primer cine del mundo capaz de monitorear las reacciones de las personas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-primer-cine-mundo-capaz-monitorear-reacciones-personas-1282724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/instrumented-auditorium-3096082.jpg?tf=1200x' alt='Crean el primer cine del mundo capaz de monitorear las reacciones de las personas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-mejores-usos-ia-chatgpt-no-merece-pena-1266878'>Los 7 mejores usos de la IA de ChatGPT ahora mismo y uno que no merece la pena</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-mejores-usos-ia-chatgpt-no-merece-pena-1266878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/quien-creo-chatgpt-quien-dueno-actual-pinta-elon-musk-todo-3021004.jpg?tf=1200x' alt='Los 7 mejores usos de la IA de ChatGPT ahora mismo y uno que no merece la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dormir-poco-casi-mismo-estar-borracho-dice-investigacion-1282722'>Dormir poco es casi lo mismo que estar borracho, dice esta investigación</a></h4>
-    <a href='https://computerhoy.com/life/dormir-poco-casi-mismo-estar-borracho-dice-investigacion-1282722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dormir-mal-3096078.jpg?tf=1200x' alt='Dormir poco es casi lo mismo que estar borracho, dice esta investigación' />
     </a>
 </div>
 
