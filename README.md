@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/wifi-vacaciones-precauciones-tener-cuenta-cosas-no-debes-hacer-1278760'>¿WiFi en vacaciones? Precauciones a tener en cuenta y cosas que no debes hacer </a></h4>
-    <a href='https://computerhoy.com/internet/wifi-vacaciones-precauciones-tener-cuenta-cosas-no-debes-hacer-1278760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/wifi-vacaciones-precauciones-tener-cuenta-cosas-no-debes-hacer-3089514.jpg?tf=1200x' alt='¿WiFi en vacaciones? Precauciones a tener en cuenta y cosas que no debes hacer ' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-quiere-alcanzar-apple-ventas-telefonos-premium-solo-5-anos-1282954'>Samsung quiere alcanzar a Apple en ventas de teléfonos premium en solo 5 años</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-quiere-alcanzar-apple-ventas-telefonos-premium-solo-5-anos-1282954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-fold-5-3089690.jpg?tf=1200x' alt='Samsung quiere alcanzar a Apple en ventas de teléfonos premium en solo 5 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/5-razones-no-debes-hablar-movil-mientras-cargando-1278460'>5 razones por las que no debes hablar por el móvil mientras se está cargando</a></h4>
-    <a href='https://computerhoy.com/life/5-razones-no-debes-hablar-movil-mientras-cargando-1278460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cargadores-movil-3095248.jpg?tf=1200x' alt='5 razones por las que no debes hablar por el móvil mientras se está cargando' />
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-trabajos-enfrentaran-mayor-riesgo-ser-sustituidos-robot-1282950'>Estos son los trabajos que se enfrentarán a un mayor riesgo de ser sustituidos por un robot</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-trabajos-enfrentaran-mayor-riesgo-ser-sustituidos-robot-1282950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robot-camarero-3096334.jpg?tf=1200x' alt='Estos son los trabajos que se enfrentarán a un mayor riesgo de ser sustituidos por un robot' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sixdegrees-origen-legado-primera-red-social-historia-1281250'>SixDegrees: la desconocida primera red social de la historia y su legado en TikTok, Instagram, Twitter o Facebook </a></h4>
-    <a href='https://computerhoy.com/tecnologia/sixdegrees-origen-legado-primera-red-social-historia-1281250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/sixdegrees-origen-primera-red-social-historia-legado-plataformas-actuales-3095066.jpg?tf=1200x' alt='SixDegrees: la desconocida primera red social de la historia y su legado en TikTok, Instagram, Twitter o Facebook ' />
+    <h4><a href='https://computerhoy.com/tecnologia/crean-vision-termica-impulsada-ia-conducir-noche-1282946'>Crean una visión térmica impulsada por IA para conducir de noche</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-vision-termica-impulsada-ia-conducir-noche-1282946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/conduccion-nocturna-3096326.jpg?tf=1200x' alt='Crean una visión térmica impulsada por IA para conducir de noche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/prompt-como-funciona-herramientas-como-chatgpt-1272348'>¿Qué es un 'prompt' y cómo funciona en herramientas como ChatGPT?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/prompt-como-funciona-herramientas-como-chatgpt-1272348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1690551002060-3095410.jpg?tf=1200x' alt='¿Qué es un 'prompt' y cómo funciona en herramientas como ChatGPT?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-recibir-alerta-cuando-iphone-alcance-carga-completa-1281000'>Cómo recibir una alerta cuando el iPhone alcance la carga completa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recibir-alerta-cuando-iphone-alcance-carga-completa-1281000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/carga-completa-iphone-3093008.jpg?tf=1200x' alt='Cómo recibir una alerta cuando el iPhone alcance la carga completa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-revelan-forma-rapida-enfriar-latas-cerveza-1282140'>Científicos revelan la forma más rápida de enfriar las latas de cerveza, en segundos y sin necesidad de un congelador</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-revelan-forma-rapida-enfriar-latas-cerveza-1282140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lata-cerveza-hielo-3094984.jpg?tf=1200x' alt='Científicos revelan la forma más rápida de enfriar las latas de cerveza, en segundos y sin necesidad de un congelador' />
+    <h4><a href='https://computerhoy.com/apps/solteros-estan-utilizando-chatgpt-crear-biografias-perfectas-tener-exito-aplicaciones-citas-1282938'>Solteros están utilizando ChatGPT para crear biografías perfectas y tener éxito en las aplicaciones de citas</a></h4>
+    <a href='https://computerhoy.com/apps/solteros-estan-utilizando-chatgpt-crear-biografias-perfectas-tener-exito-aplicaciones-citas-1282938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/inteligencia-artificial-3096322.jpg?tf=1200x' alt='Solteros están utilizando ChatGPT para crear biografías perfectas y tener éxito en las aplicaciones de citas' />
     </a>
 </div>
 
