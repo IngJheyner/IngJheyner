@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/logo-x-no-deja-dormir-vecinos-x-sigue-siendo-twitter-ios-1282980'>Por qué X se sigue llamando Twitter en iOS, el logo de X no deja dormir a los vecinos, y la muerte del tuit</a></h4>
-    <a href='https://computerhoy.com/internet/logo-x-no-deja-dormir-vecinos-x-sigue-siendo-twitter-ios-1282980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/x-sigue-llamando-twitter-ios-logo-x-no-deja-dormir-vecinos-muerte-tuit-3096426.jpg?tf=1200x' alt='Por qué X se sigue llamando Twitter en iOS, el logo de X no deja dormir a los vecinos, y la muerte del tuit' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/chollazo-miravia-xiaomi-redmi-note-12-pro-menos-250-euros-1282940'>Chollazo en Miravia: Xiaomi Redmi Note 12 Pro por menos de 250 euros</a></h4>
     <a href='https://computerhoy.com/android/chollazo-miravia-xiaomi-redmi-note-12-pro-menos-250-euros-1282940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/redmi-note-12-pro-3014752.jpg?tf=1200x' alt='Chollazo en Miravia: Xiaomi Redmi Note 12 Pro por menos de 250 euros' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/tecnologia/crean-vision-termica-impulsada-ia-conducir-noche-1282946'>Crean una visión térmica impulsada por IA para conducir de noche</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-vision-termica-impulsada-ia-conducir-noche-1282946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/conduccion-nocturna-3096326.jpg?tf=1200x' alt='Crean una visión térmica impulsada por IA para conducir de noche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-recibir-alerta-cuando-iphone-alcance-carga-completa-1281000'>Cómo recibir una alerta cuando el iPhone alcance la carga completa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recibir-alerta-cuando-iphone-alcance-carga-completa-1281000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/carga-completa-iphone-3093008.jpg?tf=1200x' alt='Cómo recibir una alerta cuando el iPhone alcance la carga completa' />
     </a>
 </div>
 
