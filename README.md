@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-podria-empezar-produccion-galaxy-ring-agosto-lanzarlo-2024-1282728'>Samsung podría empezar la producción del Galaxy Ring en agosto para lanzarlo en 2024</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-podria-empezar-produccion-galaxy-ring-agosto-lanzarlo-2024-1282728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/anillo-inteligente-3096114.jpg?tf=1200x' alt='Samsung podría empezar la producción del Galaxy Ring en agosto para lanzarlo en 2024' />
+    <h4><a href='https://computerhoy.com/tecnologia/prompt-como-funciona-herramientas-como-chatgpt-1272348'>¿Qué es un 'prompt' y cómo funciona en herramientas como ChatGPT?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/prompt-como-funciona-herramientas-como-chatgpt-1272348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1690551002060-3095410.jpg?tf=1200x' alt='¿Qué es un 'prompt' y cómo funciona en herramientas como ChatGPT?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-menos-300-euros-cual-comprar-1282716'>Portátil de menos de 300 euros: cuál comprar y en qué debes fijarte</a></h4>
-    <a href='https://computerhoy.com/pc/portatil-menos-300-euros-cual-comprar-1282716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portatil-menos-300-euros-cual-comprar-debes-fijarte-3096062.jpg?tf=1200x' alt='Portátil de menos de 300 euros: cuál comprar y en qué debes fijarte' />
+    <h4><a href='https://computerhoy.com/life/cientificos-revelan-forma-rapida-enfriar-latas-cerveza-1282140'>Científicos revelan la forma más rápida de enfriar las latas de cerveza, en segundos y sin necesidad de un congelador</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-revelan-forma-rapida-enfriar-latas-cerveza-1282140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lata-cerveza-hielo-3094984.jpg?tf=1200x' alt='Científicos revelan la forma más rápida de enfriar las latas de cerveza, en segundos y sin necesidad de un congelador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-robot-capaz-escalar-cualquier-pared-subir-techos-aterrador-1282702'>Crean un robot capaz de escalar cualquier pared y subir a los techos, y es aterrador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-robot-capaz-escalar-cualquier-pared-subir-techos-aterrador-1282702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/magnecko-3096042.jpg?tf=1200x' alt='Crean un robot capaz de escalar cualquier pared y subir a los techos, y es aterrador' />
+    <h4><a href='https://computerhoy.com/tecnologia/crean-primer-cine-mundo-capaz-monitorear-reacciones-personas-1282724'>Crean el primer cine del mundo capaz de monitorear las reacciones de las personas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-primer-cine-mundo-capaz-monitorear-reacciones-personas-1282724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/instrumented-auditorium-3096082.jpg?tf=1200x' alt='Crean el primer cine del mundo capaz de monitorear las reacciones de las personas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/debemos-colocar-antenas-router-tener-mejor-wifi-hogar-1282700'>Así debemos colocar las antenas del router para tener el mejor WiFi en nuestro hogar</a></h4>
-    <a href='https://computerhoy.com/internet/debemos-colocar-antenas-router-tener-mejor-wifi-hogar-1282700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2994456.jpg?tf=1200x' alt='Así debemos colocar las antenas del router para tener el mejor WiFi en nuestro hogar' />
+    <h4><a href='https://computerhoy.com/tecnologia/7-mejores-usos-ia-chatgpt-no-merece-pena-1266878'>Los 7 mejores usos de la IA de ChatGPT ahora mismo y uno que no merece la pena</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-mejores-usos-ia-chatgpt-no-merece-pena-1266878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/quien-creo-chatgpt-quien-dueno-actual-pinta-elon-musk-todo-3021004.jpg?tf=1200x' alt='Los 7 mejores usos de la IA de ChatGPT ahora mismo y uno que no merece la pena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/camaras-autobuses-podrian-ayudar-optimizar-flujo-trafico-urbano-1282694'>Las cámaras de los autobuses podrían ayudar a optimizar el flujo de tráfico urbano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/camaras-autobuses-podrian-ayudar-optimizar-flujo-trafico-urbano-1282694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/autobus-3096030.jpg?tf=1200x' alt='Las cámaras de los autobuses podrían ayudar a optimizar el flujo de tráfico urbano' />
+    <h4><a href='https://computerhoy.com/life/dormir-poco-casi-mismo-estar-borracho-dice-investigacion-1282722'>Dormir poco es casi lo mismo que estar borracho, dice esta investigación</a></h4>
+    <a href='https://computerhoy.com/life/dormir-poco-casi-mismo-estar-borracho-dice-investigacion-1282722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dormir-mal-3096078.jpg?tf=1200x' alt='Dormir poco es casi lo mismo que estar borracho, dice esta investigación' />
     </a>
 </div>
 
