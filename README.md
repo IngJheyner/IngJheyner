@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cuadro-hace-siglos-nino-zapatillas-nike-1283004'>Se hace viral un cuadro de hace 361 años con un niño vistiendo zapatillas Nike, logo incluido</a></h4>
+    <a href='https://computerhoy.com/life/cuadro-hace-siglos-nino-zapatillas-nike-1283004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hace-viral-cuadro-siglo-vii-nino-vistiendo-zapatillas-nike-3096460.jpg?tf=1200x' alt='Se hace viral un cuadro de hace 361 años con un niño vistiendo zapatillas Nike, logo incluido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-mejoras-monitores-alta-tasa-refresco-1283002'>Windows 11 va a añadir dos importantes novedades si tienes un monitor de más de 100 Hz</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-mejoras-monitores-alta-tasa-refresco-1283002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-acelera-ofertas-black-friday-30-descuento-monitor-smart-tv-32-pulgadas-2873873.jpg?tf=1200x' alt='Windows 11 va a añadir dos importantes novedades si tienes un monitor de más de 100 Hz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-pierde-contacto-estacion-espacial-internacional-1282998'>Por primera vez en 25 años, la NASA pierde el contacto con la Estación Espacial Internacional: los rusos al rescate</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-pierde-contacto-estacion-espacial-internacional-1282998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/estacion-espacial-internacional-2162981.jpg?tf=1200x' alt='Por primera vez en 25 años, la NASA pierde el contacto con la Estación Espacial Internacional: los rusos al rescate' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/aspiradoras-trineo-ventajas-cual-comprar-1282960'>Aspiradoras de trineo: qué ventajas tienen y cuál comprar</a></h4>
     <a href='https://computerhoy.com/hogar/aspiradoras-trineo-ventajas-cual-comprar-1282960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aspiradoras-trineo-ventajas-tienen-cual-comprar-3096374.jpg?tf=1200x' alt='Aspiradoras de trineo: qué ventajas tienen y cuál comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/logo-x-no-deja-dormir-vecinos-x-sigue-siendo-twitter-ios-1282980'>El logo de X no deja dormir a los vecinos, por qué X se sigue llamando Twitter en iOS, y la muerte del tuit</a></h4>
-    <a href='https://computerhoy.com/internet/logo-x-no-deja-dormir-vecinos-x-sigue-siendo-twitter-ios-1282980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/x-sigue-llamando-twitter-ios-logo-x-no-deja-dormir-vecinos-muerte-tuit-3096426.jpg?tf=1200x' alt='El logo de X no deja dormir a los vecinos, por qué X se sigue llamando Twitter en iOS, y la muerte del tuit' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/chollazo-miravia-xiaomi-redmi-note-12-pro-menos-250-euros-1282940'>Chollazo en Miravia: Xiaomi Redmi Note 12 Pro por menos de 250 euros</a></h4>
-    <a href='https://computerhoy.com/android/chollazo-miravia-xiaomi-redmi-note-12-pro-menos-250-euros-1282940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/redmi-note-12-pro-3014752.jpg?tf=1200x' alt='Chollazo en Miravia: Xiaomi Redmi Note 12 Pro por menos de 250 euros' />
     </a>
 </div>
 
