@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/paranoia-apple-vision-pro-normas-extremas-desarrolladores-van-probar-1283348'>La paranoia de Apple con sus Vision Pro: normas extremas para los desarrolladores que las van a probar</a></h4>
+    <a href='https://computerhoy.com/apple/paranoia-apple-vision-pro-normas-extremas-desarrolladores-van-probar-1283348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051940.jpg?tf=1200x' alt='La paranoia de Apple con sus Vision Pro: normas extremas para los desarrolladores que las van a probar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gpt-4-tonto-vago-predecesores-openai-reconoce-1283334'>¿Es GPT-4 más tonto y vago que sus predecesores? OpenAI lo reconoce</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gpt-4-tonto-vago-predecesores-openai-reconoce-1283334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/capacidades-chatgpt-duda-chatbot-volviendo-cada-vez-tonto-3094054.jpg?tf=1200x' alt='¿Es GPT-4 más tonto y vago que sus predecesores? OpenAI lo reconoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ciencia-avanza-nuevo-proceso-refrigeracion-enfriamiento-ionocalorico-1283302'>La ciencia avanza con un nuevo proceso de refrigeración: así es el enfriamiento ionocalórico</a></h4>
+    <a href='https://computerhoy.com/ciencia/ciencia-avanza-nuevo-proceso-refrigeracion-enfriamiento-ionocalorico-1283302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/abrir-puerta-congelador-2183483.jpg?tf=1200x' alt='La ciencia avanza con un nuevo proceso de refrigeración: así es el enfriamiento ionocalórico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ultimo-estafas-whatsapp-robar-datos-personales-excusa-encontrar-novio-1283234'>Lo último en estafas por SMS y WhatsApp: robar tus datos personales con la excusa de encontrar novio</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ultimo-estafas-whatsapp-robar-datos-personales-excusa-encontrar-novio-1283234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ultimo-estafas-sms-whatsapp-robar-datos-personales-excusa-encontrar-novio-3096816.jpg?tf=1200x' alt='Lo último en estafas por SMS y WhatsApp: robar tus datos personales con la excusa de encontrar novio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/auriculares-sony-gran-sonido-50-horas-autonomia-menos-50-euros-1283276'>Auriculares Sony con gran sonido y 50 horas de autonomía por menos de 50 euros</a></h4>
     <a href='https://computerhoy.com/audio/auriculares-sony-gran-sonido-50-horas-autonomia-menos-50-euros-1283276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/auriculares-sony-wh-ch520-3096834.jpg?tf=1200x' alt='Auriculares Sony con gran sonido y 50 horas de autonomía por menos de 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-maps-estrena-diseno-android-auto-estas-son-novedades-1283256'>Google Maps estrena diseño en Android Auto: estas son las novedades</a></h4>
-    <a href='https://computerhoy.com/android/google-maps-estrena-diseno-android-auto-estas-son-novedades-1283256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/android-auto-3049794.jpg?tf=1200x' alt='Google Maps estrena diseño en Android Auto: estas son las novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cientificos-mit-desarrollan-imanes-flexibles-electronica-robotica-futuro-1283212'>Científicos del MIT desarrollan imanes flexibles para la electrónica y robótica del futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cientificos-mit-desarrollan-imanes-flexibles-electronica-robotica-futuro-1283212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cientificos-mit-desarrollan-imanes-cuanticos-flexibles-electronica-robotica-futuro-3096746.jpg?tf=1200x' alt='Científicos del MIT desarrollan imanes flexibles para la electrónica y robótica del futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-reviven-gusano-prehistorico-congelado-durante-46000-anos-1283192'>Científicos reviven una especie nueva de gusano prehistórico congelado durante 46.000 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-reviven-gusano-prehistorico-congelado-durante-46000-anos-1283192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cientificos-reviven-especie-nueva-gusano-prehistorico-congelado-durante-46000-anos-3096706.jpg?tf=1200x' alt='Científicos reviven una especie nueva de gusano prehistórico congelado durante 46.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-privacidad-riesgos-consejos-uso-seguro-1283180'>ChatGPT: privacidad, riesgos y consejos para un uso seguro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-privacidad-riesgos-consejos-uso-seguro-1283180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-privacidad-riesgos-consejos-uso-seguro-3096676.jpg?tf=1200x' alt='ChatGPT: privacidad, riesgos y consejos para un uso seguro' />
     </a>
 </div>
 
