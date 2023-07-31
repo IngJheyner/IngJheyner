@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/paranoia-apple-vision-pro-normas-extremas-desarrolladores-van-probar-1283348'>La paranoia de Apple con sus Vision Pro: normas extremas para los desarrolladores que las van a probar</a></h4>
-    <a href='https://computerhoy.com/apple/paranoia-apple-vision-pro-normas-extremas-desarrolladores-van-probar-1283348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051940.jpg?tf=1200x' alt='La paranoia de Apple con sus Vision Pro: normas extremas para los desarrolladores que las van a probar' />
+    <h4><a href='https://computerhoy.com/life/brillante-consejo-steve-jobs-ser-mejor-persona-alcanzar-exito-felicidad-1282646'>El brillante consejo de Steve Jobs para ser mejor persona, alcanzar el éxito y la felicidad</a></h4>
+    <a href='https://computerhoy.com/life/brillante-consejo-steve-jobs-ser-mejor-persona-alcanzar-exito-felicidad-1282646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/steve-jobs-3095968.jpg?tf=1200x' alt='El brillante consejo de Steve Jobs para ser mejor persona, alcanzar el éxito y la felicidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gpt-4-tonto-vago-predecesores-openai-reconoce-1283334'>¿Es GPT-4 más tonto y vago que sus predecesores? OpenAI lo reconoce</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gpt-4-tonto-vago-predecesores-openai-reconoce-1283334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/capacidades-chatgpt-duda-chatbot-volviendo-cada-vez-tonto-3094054.jpg?tf=1200x' alt='¿Es GPT-4 más tonto y vago que sus predecesores? OpenAI lo reconoce' />
+    <h4><a href='https://computerhoy.com/motor/toyota-anuncia-baterias-definitivas-coche-electrico-1200-kilometros-solo-10-minutos-carga-1283380'>Toyota anuncia las baterías definitivas para el coche eléctrico: 1.200 kilómetros con solo 10 minutos de carga</a></h4>
+    <a href='https://computerhoy.com/motor/toyota-anuncia-baterias-definitivas-coche-electrico-1200-kilometros-solo-10-minutos-carga-1283380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/toyota-c-hr-2023-3067728.jpg?tf=1200x' alt='Toyota anuncia las baterías definitivas para el coche eléctrico: 1.200 kilómetros con solo 10 minutos de carga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ciencia-avanza-nuevo-proceso-refrigeracion-enfriamiento-ionocalorico-1283302'>La ciencia avanza con un nuevo proceso de refrigeración: así es el enfriamiento ionocalórico</a></h4>
-    <a href='https://computerhoy.com/ciencia/ciencia-avanza-nuevo-proceso-refrigeracion-enfriamiento-ionocalorico-1283302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/abrir-puerta-congelador-2183483.jpg?tf=1200x' alt='La ciencia avanza con un nuevo proceso de refrigeración: así es el enfriamiento ionocalórico' />
+    <h4><a href='https://computerhoy.com/tv/como-saber-televisor-valido-seguir-viendo-tdt-espana-partir-2024-1282648'>Cómo saber si tu televisor es válido para seguir viendo la TDT en España a partir de 2024</a></h4>
+    <a href='https://computerhoy.com/tv/como-saber-televisor-valido-seguir-viendo-tdt-espana-partir-2024-1282648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/tdt-espana-2024-3095970.jpg?tf=1200x' alt='Cómo saber si tu televisor es válido para seguir viendo la TDT en España a partir de 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ultimo-estafas-whatsapp-robar-datos-personales-excusa-encontrar-novio-1283234'>Lo último en estafas por SMS y WhatsApp: robar tus datos personales con la excusa de encontrar novio</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ultimo-estafas-whatsapp-robar-datos-personales-excusa-encontrar-novio-1283234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ultimo-estafas-sms-whatsapp-robar-datos-personales-excusa-encontrar-novio-3096816.jpg?tf=1200x' alt='Lo último en estafas por SMS y WhatsApp: robar tus datos personales con la excusa de encontrar novio' />
+    <h4><a href='https://computerhoy.com/android/snapdragon-8-12-gb-ram-android-puro-movil-gama-alta-barato-nunca-1283310'>Snapdragon 8, 12 GB de RAM y Android puro: este móvil de gama alta está más barato que nunca</a></h4>
+    <a href='https://computerhoy.com/android/snapdragon-8-12-gb-ram-android-puro-movil-gama-alta-barato-nunca-1283310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-motorola-edge-30-pro-2669407.jpg?tf=1200x' alt='Snapdragon 8, 12 GB de RAM y Android puro: este móvil de gama alta está más barato que nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/auriculares-sony-gran-sonido-50-horas-autonomia-menos-50-euros-1283276'>Auriculares Sony con gran sonido y 50 horas de autonomía por menos de 50 euros</a></h4>
-    <a href='https://computerhoy.com/audio/auriculares-sony-gran-sonido-50-horas-autonomia-menos-50-euros-1283276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/auriculares-sony-wh-ch520-3096834.jpg?tf=1200x' alt='Auriculares Sony con gran sonido y 50 horas de autonomía por menos de 50 euros' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-aplicaciones-son-compatibles-android-auto-1282410'>Cómo saber qué aplicaciones son compatibles con Android Auto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-aplicaciones-son-compatibles-android-auto-1282410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/android-auto-bmw-3012754.jpg?tf=1200x' alt='Cómo saber qué aplicaciones son compatibles con Android Auto' />
     </a>
 </div>
 
