@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/venden-bebe-8-meses-comprarse-iphone-14-1283476'>Venden a su bebé de 8 meses para comprarse un iPhone 14 y subir reels de Instagram</a></h4>
+    <a href='https://computerhoy.com/apple/venden-bebe-8-meses-comprarse-iphone-14-1283476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iphone-14-3069706.jpg?tf=1200x' alt='Venden a su bebé de 8 meses para comprarse un iPhone 14 y subir reels de Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/gobierno-dgt-etiqueta-cero-nueva-norma-2023-1283448'>El Gobierno y la DGT acaban con la trampa y no darán la etiqueta CERO a miles de coches en España</a></h4>
+    <a href='https://computerhoy.com/motor/gobierno-dgt-etiqueta-cero-nueva-norma-2023-1283448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/gobierno-dgt-acaban-trampa-no-daran-etiqueta-cero-miles-coches-espana-3097336.jpg?tf=1200x' alt='El Gobierno y la DGT acaban con la trampa y no darán la etiqueta CERO a miles de coches en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/app-chatgpt-android-ya-disponible-descargar-gratis-1283472'>Ya puedes descargar gratis la app de ChatGPT para Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/app-chatgpt-android-ya-disponible-descargar-gratis-1283472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/chatgpt-ya-cuenta-2-grandes-funciones-todos-usuarios-estaban-esperando-3034376.jpg?tf=1200x' alt='Ya puedes descargar gratis la app de ChatGPT para Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/pez-juicio-final-solo-aparece-antes-gran-terremoto-1283346'>Graban en vídeo un raro Pez del Juicio Final: solo aparece antes de un gran terremoto</a></h4>
+    <a href='https://computerhoy.com/life/pez-juicio-final-solo-aparece-antes-gran-terremoto-1283346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/buceadores-encuentran-pez-juicio-final-solo-aparece-cuando-va-haber-gran-terremoto-3096900.jpg?tf=1200x' alt='Graban en vídeo un raro Pez del Juicio Final: solo aparece antes de un gran terremoto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/comer-fruta-antes-irte-cama-ayuda-dormir-mejor-rapido-incluso-aunque-haga-mucho-calor-1283456'>Comer esta fruta antes de irte a la cama ayuda a dormir mejor y más rápido, incluso aunque haga mucho calor</a></h4>
     <a href='https://computerhoy.com/alimentacion/comer-fruta-antes-irte-cama-ayuda-dormir-mejor-rapido-incluso-aunque-haga-mucho-calor-1283456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/alimentacion-saludable-3097344.jpg?tf=1200x' alt='Comer esta fruta antes de irte a la cama ayuda a dormir mejor y más rápido, incluso aunque haga mucho calor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-con-pantalla-lcd-1283458'>Sorprendentemente Nintendo Switch 2 empeorará una de las principales características de la versión actual</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-2-con-pantalla-lcd-1283458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508427.jpg?tf=1200x' alt='Sorprendentemente Nintendo Switch 2 empeorará una de las principales características de la versión actual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/estos-son-mejores-momentos-dias-hacer-compra-quieres-ahorrar-mucho-dinero-1283454'>Estos son los mejores momentos y días para hacer la compra si quieres ahorrar mucho dinero</a></h4>
-    <a href='https://computerhoy.com/alimentacion/estos-son-mejores-momentos-dias-hacer-compra-quieres-ahorrar-mucho-dinero-1283454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/comprar-supermercado-3097340.jpg?tf=1200x' alt='Estos son los mejores momentos y días para hacer la compra si quieres ahorrar mucho dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/modo-lectura-android-debes-activarlo-ahora-mismo-1282352'>Qué es el Modo Lectura para Android y por qué debes activarlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/apps/modo-lectura-android-debes-activarlo-ahora-mismo-1282352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/modo-lectura-android-3097230.jpg?tf=1200x' alt='Qué es el Modo Lectura para Android y por qué debes activarlo ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ver-futbol-gratis-puede-salir-muy-caro-multas-5000-euros-1283416'>Ver el fútbol y Netflix gratis puede salir muy caro: multas de hasta 5.000 euros para los usuarios de listas IPTV ilegales</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ver-futbol-gratis-puede-salir-muy-caro-multas-5000-euros-1283416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ver-futbol-gratis-puede-salir-muy-caro-multas-5000-euros-usuarios-listas-iptv-ilegales-3097272.jpg?tf=1200x' alt='Ver el fútbol y Netflix gratis puede salir muy caro: multas de hasta 5.000 euros para los usuarios de listas IPTV ilegales' />
     </a>
 </div>
 
