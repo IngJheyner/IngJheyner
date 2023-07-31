@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/ganaron-ios-android-guerra-sistemas-operativos-moviles-1237604'>25 aniversario de Computer Hoy: Así es como Android e iOS llegaron a ser los sistemas operativos móviles todopoderosos</a></h4>
+    <a href='https://computerhoy.com/moviles/ganaron-ios-android-guerra-sistemas-operativos-moviles-1237604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/sistemas-moviles-3089040.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Así es como Android e iOS llegaron a ser los sistemas operativos móviles todopoderosos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cuadro-hace-siglos-nino-zapatillas-nike-1283004'>Se hace viral un cuadro de hace 361 años con un niño vistiendo zapatillas Nike, logo incluido</a></h4>
     <a href='https://computerhoy.com/life/cuadro-hace-siglos-nino-zapatillas-nike-1283004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hace-viral-cuadro-siglo-vii-nino-vistiendo-zapatillas-nike-3096460.jpg?tf=1200x' alt='Se hace viral un cuadro de hace 361 años con un niño vistiendo zapatillas Nike, logo incluido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mika-primer-ceo-robot-inteligencia-artificial-compania-dictador-1282992'>Mika, el primer robot con IA que se ha convertido en CEO de un compañía, asegura que es mejor que Zuckerberg y Elon Musk</a></h4>
     <a href='https://computerhoy.com/tecnologia/mika-primer-ceo-robot-inteligencia-artificial-compania-dictador-1282992' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mika-primer-robot-ia-ha-convertido-ceo-compania-asegura-mejor-zuckerberg-elon-musk-3096434.jpg?tf=1200x' alt='Mika, el primer robot con IA que se ha convertido en CEO de un compañía, asegura que es mejor que Zuckerberg y Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/aspiradoras-trineo-ventajas-cual-comprar-1282960'>Aspiradoras de trineo: qué ventajas tienen y cuál comprar</a></h4>
-    <a href='https://computerhoy.com/hogar/aspiradoras-trineo-ventajas-cual-comprar-1282960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aspiradoras-trineo-ventajas-tienen-cual-comprar-3096374.jpg?tf=1200x' alt='Aspiradoras de trineo: qué ventajas tienen y cuál comprar' />
     </a>
 </div>
 
