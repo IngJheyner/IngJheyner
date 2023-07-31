@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ganaron-ios-android-guerra-sistemas-operativos-moviles-1237604'>25 aniversario de Computer Hoy: Así es como Android e iOS llegaron a ser los sistemas operativos móviles todopoderosos</a></h4>
-    <a href='https://computerhoy.com/moviles/ganaron-ios-android-guerra-sistemas-operativos-moviles-1237604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/sistemas-moviles-3089040.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Así es como Android e iOS llegaron a ser los sistemas operativos móviles todopoderosos' />
+    <h4><a href='https://computerhoy.com/audio/auriculares-sony-gran-sonido-50-horas-autonomia-menos-50-euros-1283276'>Auriculares Sony con gran sonido y 50 horas de autonomía por menos de 50 euros</a></h4>
+    <a href='https://computerhoy.com/audio/auriculares-sony-gran-sonido-50-horas-autonomia-menos-50-euros-1283276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/auriculares-sony-wh-ch520-3096834.jpg?tf=1200x' alt='Auriculares Sony con gran sonido y 50 horas de autonomía por menos de 50 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuadro-hace-siglos-nino-zapatillas-nike-1283004'>Se hace viral un cuadro de hace 361 años con un niño vistiendo zapatillas Nike, logo incluido</a></h4>
-    <a href='https://computerhoy.com/life/cuadro-hace-siglos-nino-zapatillas-nike-1283004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hace-viral-cuadro-siglo-vii-nino-vistiendo-zapatillas-nike-3096460.jpg?tf=1200x' alt='Se hace viral un cuadro de hace 361 años con un niño vistiendo zapatillas Nike, logo incluido' />
+    <h4><a href='https://computerhoy.com/android/google-maps-estrena-diseno-android-auto-estas-son-novedades-1283256'>Google Maps estrena diseño en Android Auto: estas son las novedades</a></h4>
+    <a href='https://computerhoy.com/android/google-maps-estrena-diseno-android-auto-estas-son-novedades-1283256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/android-auto-3049794.jpg?tf=1200x' alt='Google Maps estrena diseño en Android Auto: estas son las novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-mejoras-monitores-alta-tasa-refresco-1283002'>Windows 11 va a añadir dos importantes novedades si tienes un monitor de más de 100 Hz</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-mejoras-monitores-alta-tasa-refresco-1283002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-acelera-ofertas-black-friday-30-descuento-monitor-smart-tv-32-pulgadas-2873873.jpg?tf=1200x' alt='Windows 11 va a añadir dos importantes novedades si tienes un monitor de más de 100 Hz' />
+    <h4><a href='https://computerhoy.com/tecnologia/cientificos-mit-desarrollan-imanes-flexibles-electronica-robotica-futuro-1283212'>Científicos del MIT desarrollan imanes flexibles para la electrónica y robótica del futuro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cientificos-mit-desarrollan-imanes-flexibles-electronica-robotica-futuro-1283212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cientificos-mit-desarrollan-imanes-cuanticos-flexibles-electronica-robotica-futuro-3096746.jpg?tf=1200x' alt='Científicos del MIT desarrollan imanes flexibles para la electrónica y robótica del futuro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-pierde-contacto-estacion-espacial-internacional-1282998'>Por primera vez en 25 años, la NASA pierde el contacto con la Estación Espacial Internacional: los rusos al rescate</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-pierde-contacto-estacion-espacial-internacional-1282998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/estacion-espacial-internacional-2162981.jpg?tf=1200x' alt='Por primera vez en 25 años, la NASA pierde el contacto con la Estación Espacial Internacional: los rusos al rescate' />
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-reviven-gusano-prehistorico-congelado-durante-46000-anos-1283192'>Científicos reviven una especie nueva de gusano prehistórico congelado durante 46.000 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-reviven-gusano-prehistorico-congelado-durante-46000-anos-1283192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cientificos-reviven-especie-nueva-gusano-prehistorico-congelado-durante-46000-anos-3096706.jpg?tf=1200x' alt='Científicos reviven una especie nueva de gusano prehistórico congelado durante 46.000 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mika-primer-ceo-robot-inteligencia-artificial-compania-dictador-1282992'>Mika, el primer robot con IA que se ha convertido en CEO de un compañía, asegura que es mejor que Zuckerberg y Elon Musk</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mika-primer-ceo-robot-inteligencia-artificial-compania-dictador-1282992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mika-primer-robot-ia-ha-convertido-ceo-compania-asegura-mejor-zuckerberg-elon-musk-3096434.jpg?tf=1200x' alt='Mika, el primer robot con IA que se ha convertido en CEO de un compañía, asegura que es mejor que Zuckerberg y Elon Musk' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-privacidad-riesgos-consejos-uso-seguro-1283180'>ChatGPT: privacidad, riesgos y consejos para un uso seguro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-privacidad-riesgos-consejos-uso-seguro-1283180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-privacidad-riesgos-consejos-uso-seguro-3096676.jpg?tf=1200x' alt='ChatGPT: privacidad, riesgos y consejos para un uso seguro' />
     </a>
 </div>
 
