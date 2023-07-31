@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/brillante-consejo-steve-jobs-ser-mejor-persona-alcanzar-exito-felicidad-1282646'>El brillante consejo de Steve Jobs para ser mejor persona, alcanzar el éxito y la felicidad</a></h4>
-    <a href='https://computerhoy.com/life/brillante-consejo-steve-jobs-ser-mejor-persona-alcanzar-exito-felicidad-1282646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/steve-jobs-3095968.jpg?tf=1200x' alt='El brillante consejo de Steve Jobs para ser mejor persona, alcanzar el éxito y la felicidad' />
+    <h4><a href='https://computerhoy.com/alimentacion/comer-fruta-antes-irte-cama-ayuda-dormir-mejor-rapido-incluso-aunque-haga-mucho-calor-1283456'>Comer esta fruta antes de irte a la cama ayuda a dormir mejor y más rápido, incluso aunque haga mucho calor</a></h4>
+    <a href='https://computerhoy.com/alimentacion/comer-fruta-antes-irte-cama-ayuda-dormir-mejor-rapido-incluso-aunque-haga-mucho-calor-1283456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/alimentacion-saludable-3097344.jpg?tf=1200x' alt='Comer esta fruta antes de irte a la cama ayuda a dormir mejor y más rápido, incluso aunque haga mucho calor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/toyota-anuncia-baterias-definitivas-coche-electrico-1200-kilometros-solo-10-minutos-carga-1283380'>Toyota anuncia las baterías definitivas para el coche eléctrico: 1.200 kilómetros con solo 10 minutos de carga</a></h4>
-    <a href='https://computerhoy.com/motor/toyota-anuncia-baterias-definitivas-coche-electrico-1200-kilometros-solo-10-minutos-carga-1283380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/toyota-c-hr-2023-3067728.jpg?tf=1200x' alt='Toyota anuncia las baterías definitivas para el coche eléctrico: 1.200 kilómetros con solo 10 minutos de carga' />
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-con-pantalla-lcd-1283458'>Sorprendentemente Nintendo Switch 2 empeorará una de las principales características de la versión actual</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-con-pantalla-lcd-1283458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508427.jpg?tf=1200x' alt='Sorprendentemente Nintendo Switch 2 empeorará una de las principales características de la versión actual' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/como-saber-televisor-valido-seguir-viendo-tdt-espana-partir-2024-1282648'>Cómo saber si tu televisor es válido para seguir viendo la TDT en España a partir de 2024</a></h4>
-    <a href='https://computerhoy.com/tv/como-saber-televisor-valido-seguir-viendo-tdt-espana-partir-2024-1282648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/tdt-espana-2024-3095970.jpg?tf=1200x' alt='Cómo saber si tu televisor es válido para seguir viendo la TDT en España a partir de 2024' />
+    <h4><a href='https://computerhoy.com/alimentacion/estos-son-mejores-momentos-dias-hacer-compra-quieres-ahorrar-mucho-dinero-1283454'>Estos son los mejores momentos y días para hacer la compra si quieres ahorrar mucho dinero</a></h4>
+    <a href='https://computerhoy.com/alimentacion/estos-son-mejores-momentos-dias-hacer-compra-quieres-ahorrar-mucho-dinero-1283454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/comprar-supermercado-3097340.jpg?tf=1200x' alt='Estos son los mejores momentos y días para hacer la compra si quieres ahorrar mucho dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/snapdragon-8-12-gb-ram-android-puro-movil-gama-alta-barato-nunca-1283310'>Snapdragon 8, 12 GB de RAM y Android puro: este móvil de gama alta está más barato que nunca</a></h4>
-    <a href='https://computerhoy.com/android/snapdragon-8-12-gb-ram-android-puro-movil-gama-alta-barato-nunca-1283310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/analisis-motorola-edge-30-pro-2669407.jpg?tf=1200x' alt='Snapdragon 8, 12 GB de RAM y Android puro: este móvil de gama alta está más barato que nunca' />
+    <h4><a href='https://computerhoy.com/apps/modo-lectura-android-debes-activarlo-ahora-mismo-1282352'>Qué es el Modo Lectura para Android y por qué debes activarlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/apps/modo-lectura-android-debes-activarlo-ahora-mismo-1282352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/modo-lectura-android-3097230.jpg?tf=1200x' alt='Qué es el Modo Lectura para Android y por qué debes activarlo ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-aplicaciones-son-compatibles-android-auto-1282410'>Cómo saber qué aplicaciones son compatibles con Android Auto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-aplicaciones-son-compatibles-android-auto-1282410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/android-auto-bmw-3012754.jpg?tf=1200x' alt='Cómo saber qué aplicaciones son compatibles con Android Auto' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ver-futbol-gratis-puede-salir-muy-caro-multas-5000-euros-1283416'>Ver el fútbol y Netflix gratis puede salir muy caro: multas de hasta 5.000 euros para los usuarios de listas IPTV ilegales</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ver-futbol-gratis-puede-salir-muy-caro-multas-5000-euros-1283416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ver-futbol-gratis-puede-salir-muy-caro-multas-5000-euros-usuarios-listas-iptv-ilegales-3097272.jpg?tf=1200x' alt='Ver el fútbol y Netflix gratis puede salir muy caro: multas de hasta 5.000 euros para los usuarios de listas IPTV ilegales' />
     </a>
 </div>
 
