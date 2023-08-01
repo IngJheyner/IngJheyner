@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/china-lista-probar-tren-levitacion-magnetica-alcanza-1000-km-h-1283716'>China se prepara para probar un tren de levitación magnética de ultrarrápida velocidad de 1.000 km/h</a></h4>
+    <a href='https://computerhoy.com/tecnologia/china-lista-probar-tren-levitacion-magnetica-alcanza-1000-km-h-1283716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/china-prepara-probar-tren-levitacion-magnetica-ultra-alta-velocidad-1000-km-h-3097644.jpg?tf=1200x' alt='China se prepara para probar un tren de levitación magnética de ultrarrápida velocidad de 1.000 km/h' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-12-6-gb-ram-autonomia-varios-dias-hipad-xpro-mejor-tablet-puedes-tener-poco-100-euros-1283696'>Android 12, 6 GB de RAM y autonomía para varios días: la HiPad XPro es la mejor Tablet que puedes tener por poco más de 100 euros</a></h4>
+    <a href='https://computerhoy.com/android/android-12-6-gb-ram-autonomia-varios-dias-hipad-xpro-mejor-tablet-puedes-tener-poco-100-euros-1283696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chuwi-hipad-xp-2023-3097598.jpg?tf=1200x' alt='Android 12, 6 GB de RAM y autonomía para varios días: la HiPad XPro es la mejor Tablet que puedes tener por poco más de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617'>Los mejores teclados ergonómicos para trabajar que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/teclado-ergonomico-logitech-k860-3097298.jpg?tf=1200x' alt='Los mejores teclados ergonómicos para trabajar que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/he-convertido-portatil-hace-5-anos-pc-gaming-potente-1275480'>Así he convertido un portátil de hace 5 años en un PC gaming potente</a></h4>
+    <a href='https://computerhoy.com/gaming/he-convertido-portatil-hace-5-anos-pc-gaming-potente-1275480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/shadow-pc-nube-gaming-3084422.jpg?tf=1200x' alt='Así he convertido un portátil de hace 5 años en un PC gaming potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/venden-bebe-8-meses-comprarse-iphone-14-1283476'>Venden a su bebé de 8 meses para comprarse un iPhone 14 y subir reels de Instagram</a></h4>
     <a href='https://computerhoy.com/apple/venden-bebe-8-meses-comprarse-iphone-14-1283476' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iphone-14-3069706.jpg?tf=1200x' alt='Venden a su bebé de 8 meses para comprarse un iPhone 14 y subir reels de Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/gobierno-dgt-etiqueta-cero-nueva-norma-2023-1283448'>El Gobierno y la DGT acaban con la trampa y no darán la etiqueta CERO a miles de coches en España</a></h4>
-    <a href='https://computerhoy.com/motor/gobierno-dgt-etiqueta-cero-nueva-norma-2023-1283448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/gobierno-dgt-acaban-trampa-no-daran-etiqueta-cero-miles-coches-espana-3097336.jpg?tf=1200x' alt='El Gobierno y la DGT acaban con la trampa y no darán la etiqueta CERO a miles de coches en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/app-chatgpt-android-ya-disponible-descargar-gratis-1283472'>Ya puedes descargar gratis la app de ChatGPT para Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/app-chatgpt-android-ya-disponible-descargar-gratis-1283472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/chatgpt-ya-cuenta-2-grandes-funciones-todos-usuarios-estaban-esperando-3034376.jpg?tf=1200x' alt='Ya puedes descargar gratis la app de ChatGPT para Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pez-juicio-final-solo-aparece-antes-gran-terremoto-1283346'>Graban en vídeo un raro Pez del Juicio Final: solo aparece antes de un gran terremoto</a></h4>
-    <a href='https://computerhoy.com/life/pez-juicio-final-solo-aparece-antes-gran-terremoto-1283346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/buceadores-encuentran-pez-juicio-final-solo-aparece-cuando-va-haber-gran-terremoto-3096900.jpg?tf=1200x' alt='Graban en vídeo un raro Pez del Juicio Final: solo aparece antes de un gran terremoto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/comer-fruta-antes-irte-cama-ayuda-dormir-mejor-rapido-incluso-aunque-haga-mucho-calor-1283456'>Comer esta fruta antes de irte a la cama ayuda a dormir mejor y más rápido, incluso aunque haga mucho calor</a></h4>
-    <a href='https://computerhoy.com/alimentacion/comer-fruta-antes-irte-cama-ayuda-dormir-mejor-rapido-incluso-aunque-haga-mucho-calor-1283456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/alimentacion-saludable-3097344.jpg?tf=1200x' alt='Comer esta fruta antes de irte a la cama ayuda a dormir mejor y más rápido, incluso aunque haga mucho calor' />
     </a>
 </div>
 
