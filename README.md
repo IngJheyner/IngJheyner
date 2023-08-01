@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/lavado-cara-asistente-google-potenciara-ia-similar-bard-1283762'>Un lavado de cara para el Asistente de Google: se potenciará con IA similar a Bard</a></h4>
-    <a href='https://computerhoy.com/google/lavado-cara-asistente-google-potenciara-ia-similar-bard-1283762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/no-has-podido-usar-asistente-google-no-te-preocupes-no-eres-unico-problema-2971504.jpg?tf=1200x' alt='Un lavado de cara para el Asistente de Google: se potenciará con IA similar a Bard' />
+    <h4><a href='https://computerhoy.com/windows/error-raro-windows-11-sistema-no-apaga-1283906'>El error más raro de Windows 11: el sistema no se apaga</a></h4>
+    <a href='https://computerhoy.com/windows/error-raro-windows-11-sistema-no-apaga-1283906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-11-3053952.jpg?tf=1200x' alt='El error más raro de Windows 11: el sistema no se apaga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/usar-portatil-piernas-habito-pone-peligro-dispositivo-1283766'>Usar el portátil sobre las piernas: un hábito que pone en peligro tu dispositivo</a></h4>
-    <a href='https://computerhoy.com/pc/usar-portatil-piernas-habito-pone-peligro-dispositivo-1283766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/persona-utilizando-portatil-unidad-ssd-conectada-diferentes-tarjetas-sd-2926926.jpg?tf=1200x' alt='Usar el portátil sobre las piernas: un hábito que pone en peligro tu dispositivo' />
+    <h4><a href='https://computerhoy.com/apple/subastan-pedazo-historia-apple-cheque-firmado-jobs-wozniak-1283862'>Subastan un pedazo de historia de Apple: un cheque firmado por Jobs y Wozniak</a></h4>
+    <a href='https://computerhoy.com/apple/subastan-pedazo-historia-apple-cheque-firmado-jobs-wozniak-1283862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/subastan-pedazo-historia-apple-segundo-cheque-firmado-steve-jobs-wozniak-3097950.jpg?tf=1200x' alt='Subastan un pedazo de historia de Apple: un cheque firmado por Jobs y Wozniak' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nueva-locura-iphone-viejo-logo-twitter-venden-23000-euros-1283752'>La nueva locura de los iPhone con el viejo logo de Twitter: se venden por 23.000 euros</a></h4>
-    <a href='https://computerhoy.com/apple/nueva-locura-iphone-viejo-logo-twitter-venden-23000-euros-1283752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-dueno-twitter-3074252.jpg?tf=1200x' alt='La nueva locura de los iPhone con el viejo logo de Twitter: se venden por 23.000 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/youtuber-crea-clon-mismo-impresora-3d-100-horas-trabajo-1283820'>Este youtuber ha creado un clon de sí mismo con una impresora 3D y más 100 horas de trabajo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/youtuber-crea-clon-mismo-impresora-3d-100-horas-trabajo-1283820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/impresora-3d-3097858.jpg?tf=1200x' alt='Este youtuber ha creado un clon de sí mismo con una impresora 3D y más 100 horas de trabajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/10-cursos-google-ser-experto-ia-1283724'>10 cursos gratuitos de Google para ser un experto en IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/10-cursos-google-ser-experto-ia-1283724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/10-cursos-gratuitos-google-ser-experto-ia-3097684.jpg?tf=1200x' alt='10 cursos gratuitos de Google para ser un experto en IA' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/trabajadores-prefieren-antes-chatgpt-amigos-pesar-riesgos-seguridad-1283836'>Los trabajadores prefieren antes a ChatGPT que a sus amigos, a pesar de los riesgos de seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/trabajadores-prefieren-antes-chatgpt-amigos-pesar-riesgos-seguridad-1283836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/trabajadores-prefieren-antes-chatgpt-amigos-pesar-riesgos-seguridad-3097888.jpg?tf=1200x' alt='Los trabajadores prefieren antes a ChatGPT que a sus amigos, a pesar de los riesgos de seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/china-lista-probar-tren-levitacion-magnetica-alcanza-1000-km-h-1283716'>China se prepara para probar un tren de levitación magnética de ultrarrápida velocidad de 1.000 km/h</a></h4>
-    <a href='https://computerhoy.com/tecnologia/china-lista-probar-tren-levitacion-magnetica-alcanza-1000-km-h-1283716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/china-prepara-probar-tren-levitacion-magnetica-ultra-alta-velocidad-1000-km-h-3097644.jpg?tf=1200x' alt='China se prepara para probar un tren de levitación magnética de ultrarrápida velocidad de 1.000 km/h' />
+    <h4><a href='https://computerhoy.com/pc/llevate-todas-fotos-videos-donde-quieras-disco-duro-portatil-1-tb-mitad-precio-1283788'>Llévate todas tus fotos y vídeos donde quieras con este disco duro portátil de 1 TB a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/pc/llevate-todas-fotos-videos-donde-quieras-disco-duro-portatil-1-tb-mitad-precio-1283788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/disco-duro-portatil-sandisk-3097838.jpg?tf=1200x' alt='Llévate todas tus fotos y vídeos donde quieras con este disco duro portátil de 1 TB a mitad de precio' />
     </a>
 </div>
 
