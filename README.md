@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/error-raro-windows-11-sistema-no-apaga-1283906'>El error más raro de Windows 11: el sistema no se apaga</a></h4>
-    <a href='https://computerhoy.com/windows/error-raro-windows-11-sistema-no-apaga-1283906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-11-3053952.jpg?tf=1200x' alt='El error más raro de Windows 11: el sistema no se apaga' />
+    <h4><a href='https://computerhoy.com/life/estudiante-resuelve-misterioso-algoritmo-2500-anos-antiguedad-1283976'>Estudiante resuelve un misterioso algoritmo con 2.500 años que permitirá llevar el sánscrito a los ordenadores</a></h4>
+    <a href='https://computerhoy.com/life/estudiante-resuelve-misterioso-algoritmo-2500-anos-antiguedad-1283976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/texto-escrito-sanscrito-3098262.jpg?tf=1200x' alt='Estudiante resuelve un misterioso algoritmo con 2.500 años que permitirá llevar el sánscrito a los ordenadores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/subastan-pedazo-historia-apple-cheque-firmado-jobs-wozniak-1283862'>Subastan un pedazo de historia de Apple: un cheque firmado por Jobs y Wozniak</a></h4>
-    <a href='https://computerhoy.com/apple/subastan-pedazo-historia-apple-cheque-firmado-jobs-wozniak-1283862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/subastan-pedazo-historia-apple-segundo-cheque-firmado-steve-jobs-wozniak-3097950.jpg?tf=1200x' alt='Subastan un pedazo de historia de Apple: un cheque firmado por Jobs y Wozniak' />
+    <h4><a href='https://computerhoy.com/gaming/playstation-5-te-dejara-instalar-muchos-juegos-eliminara-funciones-molestas-1283954'>PlayStation 5 te dejará instalar muchos más juegos y eliminará una de sus funciones más molestas</a></h4>
+    <a href='https://computerhoy.com/gaming/playstation-5-te-dejara-instalar-muchos-juegos-eliminara-funciones-molestas-1283954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ps5-playstation-5-2969058.jpg?tf=1200x' alt='PlayStation 5 te dejará instalar muchos más juegos y eliminará una de sus funciones más molestas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/youtuber-crea-clon-mismo-impresora-3d-100-horas-trabajo-1283820'>Este youtuber ha creado un clon de sí mismo con una impresora 3D y más 100 horas de trabajo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/youtuber-crea-clon-mismo-impresora-3d-100-horas-trabajo-1283820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/impresora-3d-3097858.jpg?tf=1200x' alt='Este youtuber ha creado un clon de sí mismo con una impresora 3D y más 100 horas de trabajo' />
+    <h4><a href='https://computerhoy.com/pc/10-consejos-actualizar-viejo-pc-gastar-fortuna-1282642'>10 consejos para mejorar el rendimiento de tu viejo PC sin gastar una fortuna</a></h4>
+    <a href='https://computerhoy.com/pc/10-consejos-actualizar-viejo-pc-gastar-fortuna-1282642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pc-viejo-3095966.jpg?tf=1200x' alt='10 consejos para mejorar el rendimiento de tu viejo PC sin gastar una fortuna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/trabajadores-prefieren-antes-chatgpt-amigos-pesar-riesgos-seguridad-1283836'>Los trabajadores prefieren antes a ChatGPT que a sus amigos, a pesar de los riesgos de seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/trabajadores-prefieren-antes-chatgpt-amigos-pesar-riesgos-seguridad-1283836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/trabajadores-prefieren-antes-chatgpt-amigos-pesar-riesgos-seguridad-3097888.jpg?tf=1200x' alt='Los trabajadores prefieren antes a ChatGPT que a sus amigos, a pesar de los riesgos de seguridad' />
+    <h4><a href='https://computerhoy.com/life/caravana-bicicletas-electricas-arrasa-redes-tiene-paneles-solares-cama-televisor-todas-comodidades-1283930'>La caravana para bicicletas eléctricas que arrasa en las redes, tiene paneles solares, cama, televisor y todas las comodidades</a></h4>
+    <a href='https://computerhoy.com/life/caravana-bicicletas-electricas-arrasa-redes-tiene-paneles-solares-cama-televisor-todas-comodidades-1283930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pequena-caravana-bici-electrica-cuenta-television-cama-escritorio-3098122.jpg?tf=1200x' alt='La caravana para bicicletas eléctricas que arrasa en las redes, tiene paneles solares, cama, televisor y todas las comodidades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/llevate-todas-fotos-videos-donde-quieras-disco-duro-portatil-1-tb-mitad-precio-1283788'>Llévate todas tus fotos y vídeos donde quieras con este disco duro portátil de 1 TB a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/pc/llevate-todas-fotos-videos-donde-quieras-disco-duro-portatil-1-tb-mitad-precio-1283788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/disco-duro-portatil-sandisk-3097838.jpg?tf=1200x' alt='Llévate todas tus fotos y vídeos donde quieras con este disco duro portátil de 1 TB a mitad de precio' />
+    <h4><a href='https://computerhoy.com/android/android-auto-101-novedades-como-actualizar-google-play-1283934'>Android Auto 10.1: novedades y cómo actualizar desde Google Play</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-101-novedades-como-actualizar-google-play-1283934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/messenger-android-auto-3023266.jpg?tf=1200x' alt='Android Auto 10.1: novedades y cómo actualizar desde Google Play' />
     </a>
 </div>
 
