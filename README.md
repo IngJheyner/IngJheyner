@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estudiante-resuelve-misterioso-algoritmo-2500-anos-antiguedad-1283976'>Estudiante resuelve un misterioso algoritmo con 2.500 años que permitirá llevar el sánscrito a los ordenadores</a></h4>
-    <a href='https://computerhoy.com/life/estudiante-resuelve-misterioso-algoritmo-2500-anos-antiguedad-1283976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/texto-escrito-sanscrito-3098262.jpg?tf=1200x' alt='Estudiante resuelve un misterioso algoritmo con 2.500 años que permitirá llevar el sánscrito a los ordenadores' />
+    <h4><a href='https://computerhoy.com/life/error-muchos-comenten-pedir-cerveza-sale-caro-1284014'>El error que muchos cometen al pedir una cerveza y que a larga te está costando mucho dinero</a></h4>
+    <a href='https://computerhoy.com/life/error-muchos-comenten-pedir-cerveza-sale-caro-1284014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/error-muchos-comenten-pedir-cerveza-larga-te-costando-mucho-dinero-3098308.jpg?tf=1200x' alt='El error que muchos cometen al pedir una cerveza y que a larga te está costando mucho dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/playstation-5-te-dejara-instalar-muchos-juegos-eliminara-funciones-molestas-1283954'>PlayStation 5 te dejará instalar muchos más juegos y eliminará una de sus funciones más molestas</a></h4>
-    <a href='https://computerhoy.com/gaming/playstation-5-te-dejara-instalar-muchos-juegos-eliminara-funciones-molestas-1283954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ps5-playstation-5-2969058.jpg?tf=1200x' alt='PlayStation 5 te dejará instalar muchos más juegos y eliminará una de sus funciones más molestas' />
+    <h4><a href='https://computerhoy.com/tutoriales/funcion-oculta-consumiendo-almacenamiento-interno-iphone-1283698'>Esta función oculta de tu iPhone se está comiendo el almacenamiento interno, desactívala de inmediato</a></h4>
+    <a href='https://computerhoy.com/tutoriales/funcion-oculta-consumiendo-almacenamiento-interno-iphone-1283698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/iphone-face-id-3075408.jpg?tf=1200x' alt='Esta función oculta de tu iPhone se está comiendo el almacenamiento interno, desactívala de inmediato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/10-consejos-actualizar-viejo-pc-gastar-fortuna-1282642'>10 consejos para mejorar el rendimiento de tu viejo PC sin gastar una fortuna</a></h4>
-    <a href='https://computerhoy.com/pc/10-consejos-actualizar-viejo-pc-gastar-fortuna-1282642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pc-viejo-3095966.jpg?tf=1200x' alt='10 consejos para mejorar el rendimiento de tu viejo PC sin gastar una fortuna' />
+    <h4><a href='https://computerhoy.com/ciencia/pteranodon-completo-vende-particular-casi-4-millones-dolares-1283996'>Perdido para la ciencia: un Pteranodon completo se vende a un particular por casi 4 millones de dólares</a></h4>
+    <a href='https://computerhoy.com/ciencia/pteranodon-completo-vende-particular-casi-4-millones-dolares-1283996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/perdido-ciencia-pteranodon-completo-vende-particular-casi-4-millones-dolares-3098230.jpg?tf=1200x' alt='Perdido para la ciencia: un Pteranodon completo se vende a un particular por casi 4 millones de dólares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/caravana-bicicletas-electricas-arrasa-redes-tiene-paneles-solares-cama-televisor-todas-comodidades-1283930'>La caravana para bicicletas eléctricas que arrasa en las redes, tiene paneles solares, cama, televisor y todas las comodidades</a></h4>
-    <a href='https://computerhoy.com/life/caravana-bicicletas-electricas-arrasa-redes-tiene-paneles-solares-cama-televisor-todas-comodidades-1283930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pequena-caravana-bici-electrica-cuenta-television-cama-escritorio-3098122.jpg?tf=1200x' alt='La caravana para bicicletas eléctricas que arrasa en las redes, tiene paneles solares, cama, televisor y todas las comodidades' />
+    <h4><a href='https://computerhoy.com/noticias/perfumen-caro-equivalen-colonias-baratas-zara-lidl-aldi-990041'>A qué perfume caro equivalen las colonias baratas de Zara, Lidl y Aldi</a></h4>
+    <a href='https://computerhoy.com/noticias/perfumen-caro-equivalen-colonias-baratas-zara-lidl-aldi-990041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/colonia-mercadona-2390515.jpg?tf=1200x' alt='A qué perfume caro equivalen las colonias baratas de Zara, Lidl y Aldi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-101-novedades-como-actualizar-google-play-1283934'>Android Auto 10.1: novedades y cómo actualizar desde Google Play</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-101-novedades-como-actualizar-google-play-1283934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/messenger-android-auto-3023266.jpg?tf=1200x' alt='Android Auto 10.1: novedades y cómo actualizar desde Google Play' />
+    <h4><a href='https://computerhoy.com/espacio/cuanto-cuesta-tierra-astrofisico-revela-precio-real-planeta-prepara-cartera-1280724'>¿Cuánto cuesta la Tierra? Un astrofísico revela el precio real del planeta... prepara la cartera</a></h4>
+    <a href='https://computerhoy.com/espacio/cuanto-cuesta-tierra-astrofisico-revela-precio-real-planeta-prepara-cartera-1280724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/tierra-3092770.jpg?tf=1200x' alt='¿Cuánto cuesta la Tierra? Un astrofísico revela el precio real del planeta... prepara la cartera' />
     </a>
 </div>
 
