@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/lavado-cara-asistente-google-potenciara-ia-similar-bard-1283762'>Un lavado de cara para el Asistente de Google: se potenciará con IA similar a Bard</a></h4>
+    <a href='https://computerhoy.com/google/lavado-cara-asistente-google-potenciara-ia-similar-bard-1283762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/no-has-podido-usar-asistente-google-no-te-preocupes-no-eres-unico-problema-2971504.jpg?tf=1200x' alt='Un lavado de cara para el Asistente de Google: se potenciará con IA similar a Bard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/usar-portatil-piernas-habito-pone-peligro-dispositivo-1283766'>Usar el portátil sobre las piernas: un hábito que pone en peligro tu dispositivo</a></h4>
+    <a href='https://computerhoy.com/pc/usar-portatil-piernas-habito-pone-peligro-dispositivo-1283766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/persona-utilizando-portatil-unidad-ssd-conectada-diferentes-tarjetas-sd-2926926.jpg?tf=1200x' alt='Usar el portátil sobre las piernas: un hábito que pone en peligro tu dispositivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/nueva-locura-iphone-viejo-logo-twitter-venden-23000-euros-1283752'>La nueva locura de los iPhone con el viejo logo de Twitter: se venden por 23.000 euros</a></h4>
+    <a href='https://computerhoy.com/apple/nueva-locura-iphone-viejo-logo-twitter-venden-23000-euros-1283752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-dueno-twitter-3074252.jpg?tf=1200x' alt='La nueva locura de los iPhone con el viejo logo de Twitter: se venden por 23.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/10-cursos-google-ser-experto-ia-1283724'>10 cursos gratuitos de Google para ser un experto en IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/10-cursos-google-ser-experto-ia-1283724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/10-cursos-gratuitos-google-ser-experto-ia-3097684.jpg?tf=1200x' alt='10 cursos gratuitos de Google para ser un experto en IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/china-lista-probar-tren-levitacion-magnetica-alcanza-1000-km-h-1283716'>China se prepara para probar un tren de levitación magnética de ultrarrápida velocidad de 1.000 km/h</a></h4>
     <a href='https://computerhoy.com/tecnologia/china-lista-probar-tren-levitacion-magnetica-alcanza-1000-km-h-1283716' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/china-prepara-probar-tren-levitacion-magnetica-ultra-alta-velocidad-1000-km-h-3097644.jpg?tf=1200x' alt='China se prepara para probar un tren de levitación magnética de ultrarrápida velocidad de 1.000 km/h' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-12-6-gb-ram-autonomia-varios-dias-hipad-xpro-mejor-tablet-puedes-tener-poco-100-euros-1283696'>Android 12, 6 GB de RAM y autonomía para varios días: la HiPad XPro es la mejor Tablet que puedes tener por poco más de 100 euros</a></h4>
-    <a href='https://computerhoy.com/android/android-12-6-gb-ram-autonomia-varios-dias-hipad-xpro-mejor-tablet-puedes-tener-poco-100-euros-1283696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chuwi-hipad-xp-2023-3097598.jpg?tf=1200x' alt='Android 12, 6 GB de RAM y autonomía para varios días: la HiPad XPro es la mejor Tablet que puedes tener por poco más de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617'>Los mejores teclados ergonómicos para trabajar que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/teclado-ergonomico-logitech-k860-3097298.jpg?tf=1200x' alt='Los mejores teclados ergonómicos para trabajar que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/he-convertido-portatil-hace-5-anos-pc-gaming-potente-1275480'>Así he convertido un portátil de hace 5 años en un PC gaming potente</a></h4>
-    <a href='https://computerhoy.com/gaming/he-convertido-portatil-hace-5-anos-pc-gaming-potente-1275480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/shadow-pc-nube-gaming-3084422.jpg?tf=1200x' alt='Así he convertido un portátil de hace 5 años en un PC gaming potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/venden-bebe-8-meses-comprarse-iphone-14-1283476'>Venden a su bebé de 8 meses para comprarse un iPhone 14 y subir reels de Instagram</a></h4>
-    <a href='https://computerhoy.com/apple/venden-bebe-8-meses-comprarse-iphone-14-1283476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iphone-14-3069706.jpg?tf=1200x' alt='Venden a su bebé de 8 meses para comprarse un iPhone 14 y subir reels de Instagram' />
     </a>
 </div>
 
