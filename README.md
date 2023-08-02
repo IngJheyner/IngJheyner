@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/lenovo-podria-estar-preparando-propia-steam-deck-1284054'>Lenovo podría estar preparando su propia Steam Deck, de nombre Legion Go</a></h4>
+    <a href='https://computerhoy.com/gaming/lenovo-podria-estar-preparando-propia-steam-deck-1284054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lenovo-podria-estar-preparando-propia-steam-deck-nombre-legion-go-3098442.jpg?tf=1200x' alt='Lenovo podría estar preparando su propia Steam Deck, de nombre Legion Go' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/warner-barbenheimer-japon-1284050'>Warner la lía en Japón al promocionar el fenómeno Barbenheimer con memes graciosos y bombas atómicas rosas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/warner-barbenheimer-japon-1284050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/warner-lia-japon-promocionar-fenomeno-barbenheimer-memes-graciosos-bombas-atomicas-rosas-3098436.jpg?tf=1200x' alt='Warner la lía en Japón al promocionar el fenómeno Barbenheimer con memes graciosos y bombas atómicas rosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-encuentra-galaxia-forma-interrogacion-1284042'>El telescopio James Webb encuentra una galaxia con forma de interrogación</a></h4>
     <a href='https://computerhoy.com/espacio/telescopio-james-webb-encuentra-galaxia-forma-interrogacion-1284042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/telescopio-james-webb-encuentra-galaxia-forma-interrogacion-3098326.jpg?tf=1200x' alt='El telescopio James Webb encuentra una galaxia con forma de interrogación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/8-formas-reparar-error-mensajes-no-cargaron-discord-1283438'>8 formas de reparar el error "Los mensajes no se cargaron" en Discord</a></h4>
     <a href='https://computerhoy.com/tutoriales/8-formas-reparar-error-mensajes-no-cargaron-discord-1283438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/discord-3097342.jpg?tf=1200x' alt='8 formas de reparar el error "Los mensajes no se cargaron" en Discord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/no-falsificacion-nueva-peculiar-moneda-ya-circula-espana-1284022'>No es una falsificación: así es la nueva y peculiar moneda que ya circula por España</a></h4>
-    <a href='https://computerhoy.com/life/no-falsificacion-nueva-peculiar-moneda-ya-circula-espana-1284022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/monedas-euro-3098338.jpg?tf=1200x' alt='No es una falsificación: así es la nueva y peculiar moneda que ya circula por España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/error-muchos-comenten-pedir-cerveza-sale-caro-1284014'>El error que muchos cometen al pedir una cerveza y que a larga te está costando mucho dinero</a></h4>
-    <a href='https://computerhoy.com/life/error-muchos-comenten-pedir-cerveza-sale-caro-1284014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/error-muchos-comenten-pedir-cerveza-larga-te-costando-mucho-dinero-3098308.jpg?tf=1200x' alt='El error que muchos cometen al pedir una cerveza y que a larga te está costando mucho dinero' />
     </a>
 </div>
 
