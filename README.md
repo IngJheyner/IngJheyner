@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/encuentra-flecha-hace-4000-anos-fabricada-metal-extraterrestre-1284588'>Encuentra una flecha de la Edad de Bronce fabricada con un metal extraterrestre</a></h4>
+    <a href='https://computerhoy.com/life/encuentra-flecha-hace-4000-anos-fabricada-metal-extraterrestre-1284588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/encuentra-flecha-edad-bronce-fabricada-metal-extraterrestre-3099442.jpg?tf=1200x' alt='Encuentra una flecha de la Edad de Bronce fabricada con un metal extraterrestre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/lidl-sube-apuesta-baja-precio-thermomix-barata-minimo-historico-1284580'>Lidl sube la apuesta y baja el precio de su Thermomix barata a su mínimo histórico</a></h4>
+    <a href='https://computerhoy.com/hogar/lidl-sube-apuesta-baja-precio-thermomix-barata-minimo-historico-1284580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/monsieur-cuisine-smart-3013182.jpg?tf=1200x' alt='Lidl sube la apuesta y baja el precio de su Thermomix barata a su mínimo histórico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/desencanto-temporada-final-netflix-1284586'>Regresa otra serie de Matt Groening, pero será su temporada final</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/desencanto-temporada-final-netflix-1284586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1691003145094-3099438.jpg?tf=1200x' alt='Regresa otra serie de Matt Groening, pero será su temporada final' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sorprendente-nevera-japonesa-arrasa-redes-estoy-flipando-1284576'>La sorprendente nevera japonesa que arrasa en las redes: “estoy flipando”</a></h4>
     <a href='https://computerhoy.com/tecnologia/sorprendente-nevera-japonesa-arrasa-redes-estoy-flipando-1284576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apertura-nevera-3099432.jpg?tf=1200x' alt='La sorprendente nevera japonesa que arrasa en las redes: “estoy flipando”' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-bateria-extraible-union-europea-iphone-1284528'>Apple se niega a cumplir las normativas europeas en sus iPhone: “reduciría la durabilidad"</a></h4>
     <a href='https://computerhoy.com/apple/apple-bateria-extraible-union-europea-iphone-1284528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-niega-cumplir-normativas-europeas-iphone-reduciria-durabilidad-3099304.jpg?tf=1200x' alt='Apple se niega a cumplir las normativas europeas en sus iPhone: “reduciría la durabilidad"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-pronto-dejara-ser-compatible-tls-10-11-muchos-programas-antiguos-dejaran-funcionar-1284574'>Windows 11 pronto dejará de ser compatible con TLS 1.0 y 1.1, y muchos programas antiguos dejarán de funcionar</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-pronto-dejara-ser-compatible-tls-10-11-muchos-programas-antiguos-dejaran-funcionar-1284574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Windows 11 pronto dejará de ser compatible con TLS 1.0 y 1.1, y muchos programas antiguos dejarán de funcionar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desarrollan-cemento-carga-baterias-coches-electricos-mientras-circulan-1284036'>Desarrollan un cemento que permite cargar las baterías de los coches eléctricos mientras se desplazan por carretera</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desarrollan-cemento-carga-baterias-coches-electricos-mientras-circulan-1284036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/carreteras-futuro-3098438.jpg?tf=1200x' alt='Desarrollan un cemento que permite cargar las baterías de los coches eléctricos mientras se desplazan por carretera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/mejores-reproductores-multimedia-gratis-windows-11-1248284'>Los mejores reproductores multimedia gratis para Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/mejores-reproductores-multimedia-gratis-windows-11-1248284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/reproductores-multimedia-windows-3038376.jpg?tf=1200x' alt='Los mejores reproductores multimedia gratis para Windows 11' />
     </a>
 </div>
 
