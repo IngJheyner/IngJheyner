@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gran-vulnerabilidad-chatgpt-bard-ataques-adversario-1284298'>La gran vulnerabilidad de ChatGPT o Bard: los ataques adversario</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gran-vulnerabilidad-chatgpt-bard-ataques-adversario-1284298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/gran-vulnerabilidad-chatgpt-bard-ataques-adversario-3098736.jpg?tf=1200x' alt='La gran vulnerabilidad de ChatGPT o Bard: los ataques adversario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-detecta-latido-corazon-voyager-2-perder-contacto-millones-kilometros-1284288'>La NASA detecta el 'latido del corazón' de la Voyager 2 tras perder contacto a millones de kilómetros</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-detecta-latido-corazon-voyager-2-perder-contacto-millones-kilometros-1284288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nasa-detecta-latido-corazon-voyager-2-perder-contacto-millones-kilometros-3098682.jpg?tf=1200x' alt='La NASA detecta el 'latido del corazón' de la Voyager 2 tras perder contacto a millones de kilómetros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cuesta-viaje-2-anos-alrededor-mundo-crucero-1283738'>¿Te imaginas cómo sería vivir en un crucero? Esto es lo que cuesta un viaje de 2 años alrededor del mundo</a></h4>
     <a href='https://computerhoy.com/life/cuesta-viaje-2-anos-alrededor-mundo-crucero-1283738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/victoria-cruises-3098678.jpg?tf=1200x' alt='¿Te imaginas cómo sería vivir en un crucero? Esto es lo que cuesta un viaje de 2 años alrededor del mundo' />
@@ -68,23 +84,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173'>Mejores Android TV Box baratas que puedes comprar en 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mando-distancia-boton-netflix-2927632.jpg?tf=1200x' alt='Mejores Android TV Box baratas que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/lenovo-podria-estar-preparando-propia-steam-deck-1284054'>Lenovo podría estar preparando su propia Steam Deck, de nombre Legion Go</a></h4>
-    <a href='https://computerhoy.com/gaming/lenovo-podria-estar-preparando-propia-steam-deck-1284054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lenovo-podria-estar-preparando-propia-steam-deck-nombre-legion-go-3098442.jpg?tf=1200x' alt='Lenovo podría estar preparando su propia Steam Deck, de nombre Legion Go' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/warner-barbenheimer-japon-1284050'>Warner la lía en Japón al promocionar el fenómeno Barbenheimer con memes graciosos y bombas atómicas rosas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/warner-barbenheimer-japon-1284050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/warner-lia-japon-promocionar-fenomeno-barbenheimer-memes-graciosos-bombas-atomicas-rosas-3098436.jpg?tf=1200x' alt='Warner la lía en Japón al promocionar el fenómeno Barbenheimer con memes graciosos y bombas atómicas rosas' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dale-nueva-vida-viejo-televisor-android-tv-box-baja-42-euros-2984462.jpg?tf=1200x' alt='Mejores Android TV Box baratas que puedes comprar en 2023' />
     </a>
 </div>
 
