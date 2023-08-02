@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cuesta-viaje-2-anos-alrededor-mundo-crucero-1283738'>¿Te imaginas cómo sería vivir en un crucero? Esto es lo que cuesta un viaje de 2 años alrededor del mundo</a></h4>
+    <a href='https://computerhoy.com/life/cuesta-viaje-2-anos-alrededor-mundo-crucero-1283738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/victoria-cruises-3098678.jpg?tf=1200x' alt='¿Te imaginas cómo sería vivir en un crucero? Esto es lo que cuesta un viaje de 2 años alrededor del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/historia-fin-roaming-ue-como-llego-no-pagar-datos-extranjero-1281758'>25 aniversario de Computer Hoy: navegación y llamadas, se acabó el roaming en la UE </a></h4>
+    <a href='https://computerhoy.com/tecnologia/historia-fin-roaming-ue-como-llego-no-pagar-datos-extranjero-1281758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/roaming-3094298.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: navegación y llamadas, se acabó el roaming en la UE ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173'>Mejores Android TV Box baratas que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/mando-distancia-boton-netflix-2927632.jpg?tf=1200x' alt='Mejores Android TV Box baratas que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/lenovo-podria-estar-preparando-propia-steam-deck-1284054'>Lenovo podría estar preparando su propia Steam Deck, de nombre Legion Go</a></h4>
     <a href='https://computerhoy.com/gaming/lenovo-podria-estar-preparando-propia-steam-deck-1284054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lenovo-podria-estar-preparando-propia-steam-deck-nombre-legion-go-3098442.jpg?tf=1200x' alt='Lenovo podría estar preparando su propia Steam Deck, de nombre Legion Go' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/warner-barbenheimer-japon-1284050'>Warner la lía en Japón al promocionar el fenómeno Barbenheimer con memes graciosos y bombas atómicas rosas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/warner-barbenheimer-japon-1284050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/warner-lia-japon-promocionar-fenomeno-barbenheimer-memes-graciosos-bombas-atomicas-rosas-3098436.jpg?tf=1200x' alt='Warner la lía en Japón al promocionar el fenómeno Barbenheimer con memes graciosos y bombas atómicas rosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-encuentra-galaxia-forma-interrogacion-1284042'>El telescopio James Webb encuentra una galaxia con forma de interrogación</a></h4>
-    <a href='https://computerhoy.com/espacio/telescopio-james-webb-encuentra-galaxia-forma-interrogacion-1284042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/telescopio-james-webb-encuentra-galaxia-forma-interrogacion-3098326.jpg?tf=1200x' alt='El telescopio James Webb encuentra una galaxia con forma de interrogación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/coleccionistas-entran-panico-ultimo-anuncio-disney-1284026'>Los coleccionistas entran en pánico tras el último anuncio de Disney</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/coleccionistas-entran-panico-ultimo-anuncio-disney-1284026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/peliculas-dvd-3098340.jpg?tf=1200x' alt='Los coleccionistas entran en pánico tras el último anuncio de Disney' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/8-formas-reparar-error-mensajes-no-cargaron-discord-1283438'>8 formas de reparar el error "Los mensajes no se cargaron" en Discord</a></h4>
-    <a href='https://computerhoy.com/tutoriales/8-formas-reparar-error-mensajes-no-cargaron-discord-1283438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/discord-3097342.jpg?tf=1200x' alt='8 formas de reparar el error "Los mensajes no se cargaron" en Discord' />
     </a>
 </div>
 
