@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gran-vulnerabilidad-chatgpt-bard-ataques-adversario-1284298'>La gran vulnerabilidad de ChatGPT o Bard: los ataques adversario</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gran-vulnerabilidad-chatgpt-bard-ataques-adversario-1284298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/gran-vulnerabilidad-chatgpt-bard-ataques-adversario-3098736.jpg?tf=1200x' alt='La gran vulnerabilidad de ChatGPT o Bard: los ataques adversario' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/canon-alerta-riesgo-no-eliminar-datos-wifi-impresora-antes-tirarla-1284406'>Canon alerta sobre el riesgo al no eliminar los datos del wifi de tu impresora antes de tirarla</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/canon-alerta-riesgo-no-eliminar-datos-wifi-impresora-antes-tirarla-1284406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/impresora-canon-2460527.jpg?tf=1200x' alt='Canon alerta sobre el riesgo al no eliminar los datos del wifi de tu impresora antes de tirarla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-detecta-latido-corazon-voyager-2-perder-contacto-millones-kilometros-1284288'>La NASA detecta el 'latido del corazón' de la Voyager 2 tras perder contacto a millones de kilómetros</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-detecta-latido-corazon-voyager-2-perder-contacto-millones-kilometros-1284288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nasa-detecta-latido-corazon-voyager-2-perder-contacto-millones-kilometros-3098682.jpg?tf=1200x' alt='La NASA detecta el 'latido del corazón' de la Voyager 2 tras perder contacto a millones de kilómetros' />
+    <h4><a href='https://computerhoy.com/android/galaxy-tab-a8-ya-solo-cuesta-160-euros-amazon-1284368'>Una de las mejores tablets asequibles del mercado, la Samsung Galaxy Tab A8, ya sólo cuesta 160 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/android/galaxy-tab-a8-ya-solo-cuesta-160-euros-amazon-1284368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-galaxy-tab-a8-2592477.jpg?tf=1200x' alt='Una de las mejores tablets asequibles del mercado, la Samsung Galaxy Tab A8, ya sólo cuesta 160 euros en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuesta-viaje-2-anos-alrededor-mundo-crucero-1283738'>¿Te imaginas cómo sería vivir en un crucero? Esto es lo que cuesta un viaje de 2 años alrededor del mundo</a></h4>
-    <a href='https://computerhoy.com/life/cuesta-viaje-2-anos-alrededor-mundo-crucero-1283738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/victoria-cruises-3098678.jpg?tf=1200x' alt='¿Te imaginas cómo sería vivir en un crucero? Esto es lo que cuesta un viaje de 2 años alrededor del mundo' />
+    <h4><a href='https://computerhoy.com/apple/novedades-opciones-llegar-iphone-15-casi-confirmadas-100-1284322'>Novedades con más opciones de llegar a los iPhone 15, casi confirmadas al 100%</a></h4>
+    <a href='https://computerhoy.com/apple/novedades-opciones-llegar-iphone-15-casi-confirmadas-100-1284322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malas-noticias-fans-apple-iphone-15-sera-caro-predecesor-motivo-3056476.jpg?tf=1200x' alt='Novedades con más opciones de llegar a los iPhone 15, casi confirmadas al 100%' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/historia-fin-roaming-ue-como-llego-no-pagar-datos-extranjero-1281758'>25 aniversario de Computer Hoy: navegación y llamadas, se acabó el roaming en la UE </a></h4>
-    <a href='https://computerhoy.com/tecnologia/historia-fin-roaming-ue-como-llego-no-pagar-datos-extranjero-1281758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/roaming-3094298.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: navegación y llamadas, se acabó el roaming en la UE ' />
+    <h4><a href='https://computerhoy.com/tecnologia/deepmind-crea-modelo-ia-controla-robots-necesidad-entrenamiento-1284328'>DeepMind crea un modelo de IA que controla robots sin necesidad de entrenamiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/deepmind-crea-modelo-ia-controla-robots-necesidad-entrenamiento-1284328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/robots-mando-nuevo-modelo-deepmind-ai-necesidad-entrenamiento-3098810.jpg?tf=1200x' alt='DeepMind crea un modelo de IA que controla robots sin necesidad de entrenamiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173'>Mejores Android TV Box baratas que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/dale-nueva-vida-viejo-televisor-android-tv-box-baja-42-euros-2984462.jpg?tf=1200x' alt='Mejores Android TV Box baratas que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/40-sistemas-ubuntu-riesgo-vulnerabilidad-grave-puedes-saber-te-afecta-1284324'>El 40% de sistemas Ubuntu en riesgo por una vulnerabilidad grave: así puedes saber si te afecta</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/40-sistemas-ubuntu-riesgo-vulnerabilidad-grave-puedes-saber-te-afecta-1284324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/5-tendencias-van-cambiar-ciberseguridad-2020-1858639.jpg?tf=1200x' alt='El 40% de sistemas Ubuntu en riesgo por una vulnerabilidad grave: así puedes saber si te afecta' />
     </a>
 </div>
 
