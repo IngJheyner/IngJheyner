@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/configuracion-oculta-google-maps-deberias-cambiar-ahora-mismo-1281880'>La configuración oculta de Google Maps que deberías cambiar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/configuracion-oculta-google-maps-deberias-cambiar-ahora-mismo-1281880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-maps-3099112.jpg?tf=1200x' alt='La configuración oculta de Google Maps que deberías cambiar ahora mismo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-version-android-auto-tienes-instalada-1284052'>Cómo saber qué versión de Android Auto tienes instalada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-version-android-auto-tienes-instalada-1284052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/movil-android-auto-dentro-coche-3099150.jpg?tf=1200x' alt='Cómo saber qué versión de Android Auto tienes instalada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-llena-problemas-moviles-google-solucion-no-parece-facil-1284408'>Android Auto se llena de problemas en los móviles de Google y la solución no parece fácil</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-llena-problemas-moviles-google-solucion-no-parece-facil-1284408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Android Auto se llena de problemas en los móviles de Google y la solución no parece fácil' />
+    <h4><a href='https://computerhoy.com/energia/paneles-solares-producen-5-veces-contaminacion-pensaba-1284476'>Palo a las energías renovables: un estudio desvela que los paneles solares podrían contaminar hasta 5 veces más de que se pensaba</a></h4>
+    <a href='https://computerhoy.com/energia/paneles-solares-producen-5-veces-contaminacion-pensaba-1284476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/paneles-solares-producen-5-veces-contaminacion-creia-3099192.jpg?tf=1200x' alt='Palo a las energías renovables: un estudio desvela que los paneles solares podrían contaminar hasta 5 veces más de que se pensaba' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/canon-alerta-riesgo-no-eliminar-datos-wifi-impresora-antes-tirarla-1284406'>Canon alerta sobre el riesgo al no eliminar los datos del wifi de tu impresora antes de tirarla</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/canon-alerta-riesgo-no-eliminar-datos-wifi-impresora-antes-tirarla-1284406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/impresora-canon-2460527.jpg?tf=1200x' alt='Canon alerta sobre el riesgo al no eliminar los datos del wifi de tu impresora antes de tirarla' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-reiniciar-correctamente-programa-aplicacion-windows-11-1283466'>Cómo reiniciar correctamente un programa o aplicación en Windows 11 para solucionar problemas menores</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-reiniciar-correctamente-programa-aplicacion-windows-11-1283466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apps-windows-3097372.jpg?tf=1200x' alt='Cómo reiniciar correctamente un programa o aplicación en Windows 11 para solucionar problemas menores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/galaxy-tab-a8-ya-solo-cuesta-160-euros-amazon-1284368'>Una de las mejores tablets asequibles del mercado, la Samsung Galaxy Tab A8, ya sólo cuesta 160 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/android/galaxy-tab-a8-ya-solo-cuesta-160-euros-amazon-1284368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/analisis-galaxy-tab-a8-2592477.jpg?tf=1200x' alt='Una de las mejores tablets asequibles del mercado, la Samsung Galaxy Tab A8, ya sólo cuesta 160 euros en Amazon' />
+    <h4><a href='https://computerhoy.com/internet/abonos-gratuitos-renfe-cercanias-rodalies-media-distancia-final-2023-puedes-conseguirlos-1284348'>Abonos gratuitos de Renfe, Cercanías, Rodalies y Media Distancia hasta final de 2023: así puedes conseguirlos</a></h4>
+    <a href='https://computerhoy.com/internet/abonos-gratuitos-renfe-cercanias-rodalies-media-distancia-final-2023-puedes-conseguirlos-1284348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/abonos-gratuitos-renfe-cercanias-rodalies-media-distancia-final-2023-puedes-conseguirlos-3098844.jpg?tf=1200x' alt='Abonos gratuitos de Renfe, Cercanías, Rodalies y Media Distancia hasta final de 2023: así puedes conseguirlos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/novedades-opciones-llegar-iphone-15-casi-confirmadas-100-1284322'>Novedades con más opciones de llegar a los iPhone 15, casi confirmadas al 100%</a></h4>
-    <a href='https://computerhoy.com/apple/novedades-opciones-llegar-iphone-15-casi-confirmadas-100-1284322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malas-noticias-fans-apple-iphone-15-sera-caro-predecesor-motivo-3056476.jpg?tf=1200x' alt='Novedades con más opciones de llegar a los iPhone 15, casi confirmadas al 100%' />
+    <h4><a href='https://computerhoy.com/espacio/calendario-lunar-agosto-2023-todas-fases-luna-1284472'>Calendario lunar agosto 2023: todas las fases de la Luna para los soñadores, astrónomos y fotógrafos</a></h4>
+    <a href='https://computerhoy.com/espacio/calendario-lunar-agosto-2023-todas-fases-luna-1284472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/calendario-lunar-agosto-2023-todas-fases-luna-sonadores-astronomos-fotografos-3099170.jpg?tf=1200x' alt='Calendario lunar agosto 2023: todas las fases de la Luna para los soñadores, astrónomos y fotógrafos' />
     </a>
 </div>
 
