@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/configuracion-oculta-google-maps-deberias-cambiar-ahora-mismo-1281880'>La configuración oculta de Google Maps que deberías cambiar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/configuracion-oculta-google-maps-deberias-cambiar-ahora-mismo-1281880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-maps-3099112.jpg?tf=1200x' alt='La configuración oculta de Google Maps que deberías cambiar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-auto-llena-problemas-moviles-google-solucion-no-parece-facil-1284408'>Android Auto se llena de problemas en los móviles de Google y la solución no parece fácil</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-llena-problemas-moviles-google-solucion-no-parece-facil-1284408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Android Auto se llena de problemas en los móviles de Google y la solución no parece fácil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/canon-alerta-riesgo-no-eliminar-datos-wifi-impresora-antes-tirarla-1284406'>Canon alerta sobre el riesgo al no eliminar los datos del wifi de tu impresora antes de tirarla</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/canon-alerta-riesgo-no-eliminar-datos-wifi-impresora-antes-tirarla-1284406' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/impresora-canon-2460527.jpg?tf=1200x' alt='Canon alerta sobre el riesgo al no eliminar los datos del wifi de tu impresora antes de tirarla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/novedades-opciones-llegar-iphone-15-casi-confirmadas-100-1284322'>Novedades con más opciones de llegar a los iPhone 15, casi confirmadas al 100%</a></h4>
     <a href='https://computerhoy.com/apple/novedades-opciones-llegar-iphone-15-casi-confirmadas-100-1284322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malas-noticias-fans-apple-iphone-15-sera-caro-predecesor-motivo-3056476.jpg?tf=1200x' alt='Novedades con más opciones de llegar a los iPhone 15, casi confirmadas al 100%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/deepmind-crea-modelo-ia-controla-robots-necesidad-entrenamiento-1284328'>DeepMind crea un modelo de IA que controla robots sin necesidad de entrenamiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/deepmind-crea-modelo-ia-controla-robots-necesidad-entrenamiento-1284328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/robots-mando-nuevo-modelo-deepmind-ai-necesidad-entrenamiento-3098810.jpg?tf=1200x' alt='DeepMind crea un modelo de IA que controla robots sin necesidad de entrenamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/40-sistemas-ubuntu-riesgo-vulnerabilidad-grave-puedes-saber-te-afecta-1284324'>El 40% de sistemas Ubuntu en riesgo por una vulnerabilidad grave: así puedes saber si te afecta</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/40-sistemas-ubuntu-riesgo-vulnerabilidad-grave-puedes-saber-te-afecta-1284324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/5-tendencias-van-cambiar-ciberseguridad-2020-1858639.jpg?tf=1200x' alt='El 40% de sistemas Ubuntu en riesgo por una vulnerabilidad grave: así puedes saber si te afecta' />
     </a>
 </div>
 
