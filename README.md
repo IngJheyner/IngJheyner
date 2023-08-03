@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/youtube-renueva-funciones-instagram-tiktok-shorts-1284930'>YouTube se renueva con funciones de Instagram y TikTok en sus Shorts</a></h4>
-    <a href='https://computerhoy.com/tecnologia/youtube-renueva-funciones-instagram-tiktok-shorts-1284930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-2934326.jpg?tf=1200x' alt='YouTube se renueva con funciones de Instagram y TikTok en sus Shorts' />
+    <h4><a href='https://computerhoy.com/life/thinking-egg-huevo-desconectar-mindfulness-1285034'>Thinking Egg, el huevo para desconectar (vídeo)</a></h4>
+    <a href='https://computerhoy.com/life/thinking-egg-huevo-desconectar-mindfulness-1285034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1691063758626-3100056.jpg?tf=1200x' alt='Thinking Egg, el huevo para desconectar (vídeo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-refuerza-gmail-chrome-phishing-sencilla-funcionalidad-1284882'>Google refuerza la seguridad de Gmail y Chrome contra el 'phishing' con esta sencilla funcionalidad</a></h4>
-    <a href='https://computerhoy.com/google/google-refuerza-gmail-chrome-phishing-sencilla-funcionalidad-1284882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-refuerza-seguridad-gmail-phishing-3099836.jpg?tf=1200x' alt='Google refuerza la seguridad de Gmail y Chrome contra el 'phishing' con esta sencilla funcionalidad' />
+    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-zara-1284788'>Equivalencias de los perfumes y colonias de Zara</a></h4>
+    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-zara-1284788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/equivalencias-perfumes-colonias-zara-3099678.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Zara' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-permitira-usuarios-twitter-blue-ocultar-verificado-x-1284890'>Elon Musk permitirá a los usuarios de Twitter Blue ocultar el verificado en X</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-permitira-usuarios-twitter-blue-ocultar-verificado-x-1284890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-dueno-twitter-3074252.jpg?tf=1200x' alt='Elon Musk permitirá a los usuarios de Twitter Blue ocultar el verificado en X' />
+    <h4><a href='https://computerhoy.com/energia/superconductor-temperatura-ambiente-avance-revolucionario-nuevo-fracaso-1284898'>Superconductor a temperatura ambiente: ¿Un avance revolucionario o un nuevo fracaso?</a></h4>
+    <a href='https://computerhoy.com/energia/superconductor-temperatura-ambiente-avance-revolucionario-nuevo-fracaso-1284898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/superconductor-temperatura-ambiente-3099872.jpg?tf=1200x' alt='Superconductor a temperatura ambiente: ¿Un avance revolucionario o un nuevo fracaso?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/santo-grial-cancer-farmaco-elimina-todos-tumores-danar-celulas-sanas-1284820'>'El Santo Grial contra el cáncer': un fármaco que elimina todos los tumores sin dañar células sanas</a></h4>
-    <a href='https://computerhoy.com/ciencia/santo-grial-cancer-farmaco-elimina-todos-tumores-danar-celulas-sanas-1284820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/santo-grial-cancer-farmaco-elimina-todos-tumores-danar-celulas-sanas-3099720.jpg?tf=1200x' alt=''El Santo Grial contra el cáncer': un fármaco que elimina todos los tumores sin dañar células sanas' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-tamagotchi-adultos-actualiza-nueva-funcion-te-convierte-hacker-cero-conocimientos-1285012'>Flipper Zero, el Tamagotchi para adultos, se actualiza con una nueva función que te convierte hacker con cero conocimientos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-tamagotchi-adultos-actualiza-nueva-funcion-te-convierte-hacker-cero-conocimientos-1285012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/flipper-zero-3017058.jpg?tf=1200x' alt='Flipper Zero, el Tamagotchi para adultos, se actualiza con una nueva función que te convierte hacker con cero conocimientos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-648-computer-hoy-1280584'>¡Ya está en tu quiosco el número 648 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-648-computer-hoy-1280584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/computer-hoy-648-3093536.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 648 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-revela-error-herramienta-desbloquea-funciones-ocultas-windows-11-1284978'>Microsoft revela por error una herramienta que desbloquea funciones ocultas en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-revela-error-herramienta-desbloquea-funciones-ocultas-windows-11-1284978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3088108.jpg?tf=1200x' alt='Microsoft revela por error una herramienta que desbloquea funciones ocultas en Windows 11' />
     </a>
 </div>
 
