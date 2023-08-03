@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/espana-hungria-polonia-paises-5g-rapido-usas-roaming-1284556'>España, Hungría y Polonia, los países con 5G más rápido si usas roaming en tus viajes </a></h4>
+    <a href='https://computerhoy.com/moviles/espana-hungria-polonia-paises-5g-rapido-usas-roaming-1284556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/espana-hungria-polonia-paises-5g-rapido-usas-roaming-viajes-3099384.jpg?tf=1200x' alt='España, Hungría y Polonia, los países con 5G más rápido si usas roaming en tus viajes ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/google-pixel-fold-primeras-impresiones-1283210'>He probado durante unos minutos el Pixel Fold, el primer plegable de Google: es un avance, pero la competencia lo hace mejor</a></h4>
+    <a href='https://computerhoy.com/moviles/google-pixel-fold-primeras-impresiones-1283210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-pixel-fold-mano-3096734.jpg?tf=1200x' alt='He probado durante unos minutos el Pixel Fold, el primer plegable de Google: es un avance, pero la competencia lo hace mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-comprar/repetidor-wifi'>Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet en 2023</a></h4>
+    <a href='https://computerhoy.com/guia-comprar/repetidor-wifi' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tp-link-tl-wa855re-2603947.jpg?tf=1200x' alt='Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/reconstruyen-rostro-mujer-hace-45000-anos-ser-humano-antiguo-1284790'>Una mujer de hace 45.000 años: reconstruyen el rostro del ser humano moderno más antiguo</a></h4>
     <a href='https://computerhoy.com/ciencia/reconstruyen-rostro-mujer-hace-45000-anos-ser-humano-antiguo-1284790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mujer-hace-45000-anos-reconstruyen-rostro-ser-humano-moderno-antiguo-3099446.jpg?tf=1200x' alt='Una mujer de hace 45.000 años: reconstruyen el rostro del ser humano moderno más antiguo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/encuentra-flecha-hace-4000-anos-fabricada-metal-extraterrestre-1284588'>Encuentra una flecha de la Edad de Bronce fabricada con un metal extraterrestre</a></h4>
     <a href='https://computerhoy.com/life/encuentra-flecha-hace-4000-anos-fabricada-metal-extraterrestre-1284588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/encuentra-flecha-edad-bronce-fabricada-metal-extraterrestre-3099442.jpg?tf=1200x' alt='Encuentra una flecha de la Edad de Bronce fabricada con un metal extraterrestre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/lidl-sube-apuesta-baja-precio-thermomix-barata-minimo-historico-1284580'>Lidl sube la apuesta y baja el precio de su Thermomix barata a su mínimo histórico</a></h4>
-    <a href='https://computerhoy.com/hogar/lidl-sube-apuesta-baja-precio-thermomix-barata-minimo-historico-1284580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/monsieur-cuisine-smart-3013182.jpg?tf=1200x' alt='Lidl sube la apuesta y baja el precio de su Thermomix barata a su mínimo histórico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/desencanto-temporada-final-netflix-1284586'>Regresa otra serie de Matt Groening, pero será su temporada final</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/desencanto-temporada-final-netflix-1284586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1691003145094-3099438.jpg?tf=1200x' alt='Regresa otra serie de Matt Groening, pero será su temporada final' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sorprendente-nevera-japonesa-arrasa-redes-estoy-flipando-1284576'>La sorprendente nevera japonesa que arrasa en las redes: “estoy flipando”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sorprendente-nevera-japonesa-arrasa-redes-estoy-flipando-1284576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apertura-nevera-3099432.jpg?tf=1200x' alt='La sorprendente nevera japonesa que arrasa en las redes: “estoy flipando”' />
     </a>
 </div>
 
