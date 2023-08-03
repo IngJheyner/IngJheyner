@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/thinking-egg-huevo-desconectar-mindfulness-1285034'>Thinking Egg, el huevo para desconectar (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/thinking-egg-huevo-desconectar-mindfulness-1285034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1691063758626-3100056.jpg?tf=1200x' alt='Thinking Egg, el huevo para desconectar (vídeo)' />
+    <h4><a href='https://computerhoy.com/life/emergencia-extranjero-cubre-tarjeta-sanitaria-europea-1285072'>Qué cubre la Tarjeta Sanitaria Europea si te pones enfermo o tienes un accidente cuando estás de vacaciones</a></h4>
+    <a href='https://computerhoy.com/life/emergencia-extranjero-cubre-tarjeta-sanitaria-europea-1285072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tarjeta-sanitaria-europea-3100252.jpg?tf=1200x' alt='Qué cubre la Tarjeta Sanitaria Europea si te pones enfermo o tienes un accidente cuando estás de vacaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-zara-1284788'>Equivalencias de los perfumes y colonias de Zara</a></h4>
-    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-zara-1284788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/equivalencias-perfumes-colonias-zara-3099678.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Zara' />
+    <h4><a href='https://computerhoy.com/moviles/nothing-anuncia-nueva-marca-productos-baratos-1285094'>Nothing anuncia nueva marca con productos más baratos: CMF by Nothing</a></h4>
+    <a href='https://computerhoy.com/moviles/nothing-anuncia-nueva-marca-productos-baratos-1285094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cmf-nothing-3100258.jpg?tf=1200x' alt='Nothing anuncia nueva marca con productos más baratos: CMF by Nothing' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/superconductor-temperatura-ambiente-avance-revolucionario-nuevo-fracaso-1284898'>Superconductor a temperatura ambiente: ¿Un avance revolucionario o un nuevo fracaso?</a></h4>
-    <a href='https://computerhoy.com/energia/superconductor-temperatura-ambiente-avance-revolucionario-nuevo-fracaso-1284898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/superconductor-temperatura-ambiente-3099872.jpg?tf=1200x' alt='Superconductor a temperatura ambiente: ¿Un avance revolucionario o un nuevo fracaso?' />
+    <h4><a href='https://computerhoy.com/hogar/aire-acondicionado-perfecto-verano-portatil-silencioso-descuento-300-euros-1285008'>Este aire acondicionado es perfecto para el verano: portátil, silencioso y con un descuento de más de 300 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/aire-acondicionado-perfecto-verano-portatil-silencioso-descuento-300-euros-1285008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/delonghi-pinguino-pacel112-3100080.jpg?tf=1200x' alt='Este aire acondicionado es perfecto para el verano: portátil, silencioso y con un descuento de más de 300 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-tamagotchi-adultos-actualiza-nueva-funcion-te-convierte-hacker-cero-conocimientos-1285012'>Flipper Zero, el Tamagotchi para adultos, se actualiza con una nueva función que te convierte hacker con cero conocimientos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-tamagotchi-adultos-actualiza-nueva-funcion-te-convierte-hacker-cero-conocimientos-1285012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/flipper-zero-3017058.jpg?tf=1200x' alt='Flipper Zero, el Tamagotchi para adultos, se actualiza con una nueva función que te convierte hacker con cero conocimientos' />
+    <h4><a href='https://computerhoy.com/apple/5-cosas-apple-elimino-dispositivos-otros-fabricantes-copiaron-1283414'>Cosas que Apple eliminó de sus dispositivos y que otros fabricantes copiaron a pesar de las críticas</a></h4>
+    <a href='https://computerhoy.com/apple/5-cosas-apple-elimino-dispositivos-otros-fabricantes-copiaron-1283414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cargador-iphone-3097266.jpg?tf=1200x' alt='Cosas que Apple eliminó de sus dispositivos y que otros fabricantes copiaron a pesar de las críticas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-revela-error-herramienta-desbloquea-funciones-ocultas-windows-11-1284978'>Microsoft revela por error una herramienta que desbloquea funciones ocultas en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-revela-error-herramienta-desbloquea-funciones-ocultas-windows-11-1284978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3088108.jpg?tf=1200x' alt='Microsoft revela por error una herramienta que desbloquea funciones ocultas en Windows 11' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-modelo-exacto-tarjeta-grafica-pc-mac-1283964'>Cómo identificar y saber el modelo exacto de la tarjeta gráfica de tu PC o Mac</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-modelo-exacto-tarjeta-grafica-pc-mac-1283964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/modelo-tarjeta-grafica-pc-3098266.jpg?tf=1200x' alt='Cómo identificar y saber el modelo exacto de la tarjeta gráfica de tu PC o Mac' />
     </a>
 </div>
 
