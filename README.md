@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/capsulas-siesta-de-pie-cafeterias-japonesas-1285138'>Las cápsulas para echarse una siesta de pie que están instalando en las cafeterías japonesas</a></h4>
+    <a href='https://computerhoy.com/life/capsulas-siesta-de-pie-cafeterias-japonesas-1285138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/capsulas-dormir-pie-estan-instalando-cafeterias-japonesas-3100456.jpg?tf=1200x' alt='Las cápsulas para echarse una siesta de pie que están instalando en las cafeterías japonesas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-cancelar-transferencia-bancaria-1285134'>Esta es la única forma de cancelar una transferencia, según el Banco de España</a></h4>
+    <a href='https://computerhoy.com/life/como-cancelar-transferencia-bancaria-1285134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/unica-forma-cancelar-transferencia-banco-espana-3100438.jpg?tf=1200x' alt='Esta es la única forma de cancelar una transferencia, según el Banco de España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/parece-raspberry-pi-consiguiendo-salir-crisis-aunque-tal-vez-ya-sea-demasiado-tarde-1285126'>Parece que Raspberry Pi está consiguiendo salir de la crisis, aunque tal vez ya sea demasiado tarde</a></h4>
     <a href='https://computerhoy.com/tecnologia/parece-raspberry-pi-consiguiendo-salir-crisis-aunque-tal-vez-ya-sea-demasiado-tarde-1285126' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/raspberry-pi-3100416.jpg?tf=1200x' alt='Parece que Raspberry Pi está consiguiendo salir de la crisis, aunque tal vez ya sea demasiado tarde' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/dazn-sube-precios-1285116'>DAZN sube los precios hasta un 50%, justo cuando empiezan muchas competiciones</a></h4>
     <a href='https://computerhoy.com/entretenimiento/dazn-sube-precios-1285116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dazn-vuelve-subir-precios-justo-cuando-empiezan-muchas-competiciones-3100306.jpg?tf=1200x' alt='DAZN sube los precios hasta un 50%, justo cuando empiezan muchas competiciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/van-vacaciones-reciben-factura-movil-43-paginas-180000-euros-1285108'>Se van de vacaciones y reciben una factura de móvil de 43 páginas por más de 180.000 euros</a></h4>
-    <a href='https://computerhoy.com/life/van-vacaciones-reciben-factura-movil-43-paginas-180000-euros-1285108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hermanos-van-vacaciones-recibe-factura-telefono-180000-euros-3100288.jpg?tf=1200x' alt='Se van de vacaciones y reciben una factura de móvil de 43 páginas por más de 180.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/razon-no-deberias-vender-movil-antiguo-antes-configurar-nuevo-1281916'>Esta es la razón por la que no deberías vender tu móvil antiguo antes de configurar el nuevo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/razon-no-deberias-vender-movil-antiguo-antes-configurar-nuevo-1281916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/unboxing-apple-iphone-3099964.jpg?tf=1200x' alt='Esta es la razón por la que no deberías vender tu móvil antiguo antes de configurar el nuevo' />
     </a>
 </div>
 
