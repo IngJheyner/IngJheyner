@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/santo-grial-cancer-farmaco-elimina-todos-tumores-danar-celulas-sanas-1284820'>'El Santo Grial contra el cáncer': un fármaco que elimina todos los tumores sin dañar células sanas</a></h4>
+    <a href='https://computerhoy.com/ciencia/santo-grial-cancer-farmaco-elimina-todos-tumores-danar-celulas-sanas-1284820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/santo-grial-cancer-farmaco-elimina-todos-tumores-danar-celulas-sanas-3099720.jpg?tf=1200x' alt=''El Santo Grial contra el cáncer': un fármaco que elimina todos los tumores sin dañar células sanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-648-computer-hoy-1280584'>¡Ya está en tu quiosco el número 648 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-648-computer-hoy-1280584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/computer-hoy-648-3093536.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 648 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/expertos-advierten-gran-problema-chatgpt-otros-chatbots-no-solucionara-jamas-1284802'>Los expertos advierten: el gran problema de ChatGPT y otros chatbots no se solucionará jamás</a></h4>
+    <a href='https://computerhoy.com/tecnologia/expertos-advierten-gran-problema-chatgpt-otros-chatbots-no-solucionara-jamas-1284802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/expertos-advierten-gran-problema-chatgpt-otros-chatbots-no-solucionara-jamas-3099710.jpg?tf=1200x' alt='Los expertos advierten: el gran problema de ChatGPT y otros chatbots no se solucionará jamás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/espana-hungria-polonia-paises-5g-rapido-usas-roaming-1284556'>España, Hungría y Polonia, los países con 5G más rápido si usas roaming en tus viajes </a></h4>
     <a href='https://computerhoy.com/moviles/espana-hungria-polonia-paises-5g-rapido-usas-roaming-1284556' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/espana-hungria-polonia-paises-5g-rapido-usas-roaming-viajes-3099384.jpg?tf=1200x' alt='España, Hungría y Polonia, los países con 5G más rápido si usas roaming en tus viajes ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/google-pixel-fold-primeras-impresiones-1283210'>He probado durante unos minutos el Pixel Fold, el primer plegable de Google: es un avance, pero la competencia lo hace mejor</a></h4>
     <a href='https://computerhoy.com/moviles/google-pixel-fold-primeras-impresiones-1283210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-pixel-fold-mano-3096734.jpg?tf=1200x' alt='He probado durante unos minutos el Pixel Fold, el primer plegable de Google: es un avance, pero la competencia lo hace mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-comprar/repetidor-wifi'>Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet en 2023</a></h4>
-    <a href='https://computerhoy.com/guia-comprar/repetidor-wifi' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/tp-link-tl-wa855re-2603947.jpg?tf=1200x' alt='Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/reconstruyen-rostro-mujer-hace-45000-anos-ser-humano-antiguo-1284790'>Una mujer de hace 45.000 años: reconstruyen el rostro del ser humano moderno más antiguo</a></h4>
-    <a href='https://computerhoy.com/ciencia/reconstruyen-rostro-mujer-hace-45000-anos-ser-humano-antiguo-1284790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mujer-hace-45000-anos-reconstruyen-rostro-ser-humano-moderno-antiguo-3099446.jpg?tf=1200x' alt='Una mujer de hace 45.000 años: reconstruyen el rostro del ser humano moderno más antiguo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/encuentra-flecha-hace-4000-anos-fabricada-metal-extraterrestre-1284588'>Encuentra una flecha de la Edad de Bronce fabricada con un metal extraterrestre</a></h4>
-    <a href='https://computerhoy.com/life/encuentra-flecha-hace-4000-anos-fabricada-metal-extraterrestre-1284588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/encuentra-flecha-edad-bronce-fabricada-metal-extraterrestre-3099442.jpg?tf=1200x' alt='Encuentra una flecha de la Edad de Bronce fabricada con un metal extraterrestre' />
     </a>
 </div>
 
