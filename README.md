@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/emergencia-extranjero-cubre-tarjeta-sanitaria-europea-1285072'>Qué cubre la Tarjeta Sanitaria Europea si te pones enfermo o tienes un accidente cuando estás de vacaciones</a></h4>
-    <a href='https://computerhoy.com/life/emergencia-extranjero-cubre-tarjeta-sanitaria-europea-1285072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tarjeta-sanitaria-europea-3100252.jpg?tf=1200x' alt='Qué cubre la Tarjeta Sanitaria Europea si te pones enfermo o tienes un accidente cuando estás de vacaciones' />
+    <h4><a href='https://computerhoy.com/tecnologia/parece-raspberry-pi-consiguiendo-salir-crisis-aunque-tal-vez-ya-sea-demasiado-tarde-1285126'>Parece que Raspberry Pi está consiguiendo salir de la crisis, aunque tal vez ya sea demasiado tarde</a></h4>
+    <a href='https://computerhoy.com/tecnologia/parece-raspberry-pi-consiguiendo-salir-crisis-aunque-tal-vez-ya-sea-demasiado-tarde-1285126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/raspberry-pi-3100416.jpg?tf=1200x' alt='Parece que Raspberry Pi está consiguiendo salir de la crisis, aunque tal vez ya sea demasiado tarde' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nothing-anuncia-nueva-marca-productos-baratos-1285094'>Nothing anuncia nueva marca con productos más baratos: CMF by Nothing</a></h4>
-    <a href='https://computerhoy.com/moviles/nothing-anuncia-nueva-marca-productos-baratos-1285094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cmf-nothing-3100258.jpg?tf=1200x' alt='Nothing anuncia nueva marca con productos más baratos: CMF by Nothing' />
+    <h4><a href='https://computerhoy.com/life/carreteras-brillan-oscuridad-estilo-tron-todo-mundo-quiere-probar-1285122'>Las carreteras que brillan en la oscuridad al estilo Tron que todo el mundo quiere probar</a></h4>
+    <a href='https://computerhoy.com/life/carreteras-brillan-oscuridad-estilo-tron-todo-mundo-quiere-probar-1285122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/carreteras-brillan-oscuridad-estilo-tron-todo-mundo-quiere-probar-3100410.jpg?tf=1200x' alt='Las carreteras que brillan en la oscuridad al estilo Tron que todo el mundo quiere probar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/aire-acondicionado-perfecto-verano-portatil-silencioso-descuento-300-euros-1285008'>Este aire acondicionado es perfecto para el verano: portátil, silencioso y con un descuento de más de 300 euros</a></h4>
-    <a href='https://computerhoy.com/hogar/aire-acondicionado-perfecto-verano-portatil-silencioso-descuento-300-euros-1285008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/delonghi-pinguino-pacel112-3100080.jpg?tf=1200x' alt='Este aire acondicionado es perfecto para el verano: portátil, silencioso y con un descuento de más de 300 euros' />
+    <h4><a href='https://computerhoy.com/entretenimiento/dazn-sube-precios-1285116'>DAZN sube los precios hasta un 50%, justo cuando empiezan muchas competiciones</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/dazn-sube-precios-1285116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dazn-vuelve-subir-precios-justo-cuando-empiezan-muchas-competiciones-3100306.jpg?tf=1200x' alt='DAZN sube los precios hasta un 50%, justo cuando empiezan muchas competiciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/5-cosas-apple-elimino-dispositivos-otros-fabricantes-copiaron-1283414'>Cosas que Apple eliminó de sus dispositivos y que otros fabricantes copiaron a pesar de las críticas</a></h4>
-    <a href='https://computerhoy.com/apple/5-cosas-apple-elimino-dispositivos-otros-fabricantes-copiaron-1283414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cargador-iphone-3097266.jpg?tf=1200x' alt='Cosas que Apple eliminó de sus dispositivos y que otros fabricantes copiaron a pesar de las críticas' />
+    <h4><a href='https://computerhoy.com/life/van-vacaciones-reciben-factura-movil-43-paginas-180000-euros-1285108'>Se van de vacaciones y reciben una factura de móvil de 43 páginas por más de 180.000 euros</a></h4>
+    <a href='https://computerhoy.com/life/van-vacaciones-reciben-factura-movil-43-paginas-180000-euros-1285108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hermanos-van-vacaciones-recibe-factura-telefono-180000-euros-3100288.jpg?tf=1200x' alt='Se van de vacaciones y reciben una factura de móvil de 43 páginas por más de 180.000 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-modelo-exacto-tarjeta-grafica-pc-mac-1283964'>Cómo identificar y saber el modelo exacto de la tarjeta gráfica de tu PC o Mac</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-modelo-exacto-tarjeta-grafica-pc-mac-1283964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/modelo-tarjeta-grafica-pc-3098266.jpg?tf=1200x' alt='Cómo identificar y saber el modelo exacto de la tarjeta gráfica de tu PC o Mac' />
+    <h4><a href='https://computerhoy.com/tecnologia/razon-no-deberias-vender-movil-antiguo-antes-configurar-nuevo-1281916'>Esta es la razón por la que no deberías vender tu móvil antiguo antes de configurar el nuevo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/razon-no-deberias-vender-movil-antiguo-antes-configurar-nuevo-1281916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/unboxing-apple-iphone-3099964.jpg?tf=1200x' alt='Esta es la razón por la que no deberías vender tu móvil antiguo antes de configurar el nuevo' />
     </a>
 </div>
 
