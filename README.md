@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/youtube-renueva-funciones-instagram-tiktok-shorts-1284930'>YouTube se renueva con funciones de Instagram y TikTok en sus Shorts</a></h4>
+    <a href='https://computerhoy.com/tecnologia/youtube-renueva-funciones-instagram-tiktok-shorts-1284930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tiktok-2934326.jpg?tf=1200x' alt='YouTube se renueva con funciones de Instagram y TikTok en sus Shorts' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-refuerza-gmail-chrome-phishing-sencilla-funcionalidad-1284882'>Google refuerza la seguridad de Gmail y Chrome contra el 'phishing' con esta sencilla funcionalidad</a></h4>
+    <a href='https://computerhoy.com/google/google-refuerza-gmail-chrome-phishing-sencilla-funcionalidad-1284882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-refuerza-seguridad-gmail-phishing-3099836.jpg?tf=1200x' alt='Google refuerza la seguridad de Gmail y Chrome contra el 'phishing' con esta sencilla funcionalidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-permitira-usuarios-twitter-blue-ocultar-verificado-x-1284890'>Elon Musk permitirá a los usuarios de Twitter Blue ocultar el verificado en X</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-permitira-usuarios-twitter-blue-ocultar-verificado-x-1284890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-dueno-twitter-3074252.jpg?tf=1200x' alt='Elon Musk permitirá a los usuarios de Twitter Blue ocultar el verificado en X' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/santo-grial-cancer-farmaco-elimina-todos-tumores-danar-celulas-sanas-1284820'>'El Santo Grial contra el cáncer': un fármaco que elimina todos los tumores sin dañar células sanas</a></h4>
     <a href='https://computerhoy.com/ciencia/santo-grial-cancer-farmaco-elimina-todos-tumores-danar-celulas-sanas-1284820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/santo-grial-cancer-farmaco-elimina-todos-tumores-danar-celulas-sanas-3099720.jpg?tf=1200x' alt=''El Santo Grial contra el cáncer': un fármaco que elimina todos los tumores sin dañar células sanas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-648-computer-hoy-1280584'>¡Ya está en tu quiosco el número 648 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-648-computer-hoy-1280584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/computer-hoy-648-3093536.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 648 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/expertos-advierten-gran-problema-chatgpt-otros-chatbots-no-solucionara-jamas-1284802'>Los expertos advierten: el gran problema de ChatGPT y otros chatbots no se solucionará jamás</a></h4>
-    <a href='https://computerhoy.com/tecnologia/expertos-advierten-gran-problema-chatgpt-otros-chatbots-no-solucionara-jamas-1284802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/expertos-advierten-gran-problema-chatgpt-otros-chatbots-no-solucionara-jamas-3099710.jpg?tf=1200x' alt='Los expertos advierten: el gran problema de ChatGPT y otros chatbots no se solucionará jamás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/espana-hungria-polonia-paises-5g-rapido-usas-roaming-1284556'>España, Hungría y Polonia, los países con 5G más rápido si usas roaming en tus viajes </a></h4>
-    <a href='https://computerhoy.com/moviles/espana-hungria-polonia-paises-5g-rapido-usas-roaming-1284556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/espana-hungria-polonia-paises-5g-rapido-usas-roaming-viajes-3099384.jpg?tf=1200x' alt='España, Hungría y Polonia, los países con 5G más rápido si usas roaming en tus viajes ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/google-pixel-fold-primeras-impresiones-1283210'>He probado durante unos minutos el Pixel Fold, el primer plegable de Google: es un avance, pero la competencia lo hace mejor</a></h4>
-    <a href='https://computerhoy.com/moviles/google-pixel-fold-primeras-impresiones-1283210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-pixel-fold-mano-3096734.jpg?tf=1200x' alt='He probado durante unos minutos el Pixel Fold, el primer plegable de Google: es un avance, pero la competencia lo hace mejor' />
     </a>
 </div>
 
