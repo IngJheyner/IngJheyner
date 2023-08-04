@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/10-solicitudes-servicio-habitaciones-extranas-han-recibido-hoteles-1281200'>Las 10 solicitudes de servicio de habitaciones más extrañas que han recibido los hoteles</a></h4>
-    <a href='https://computerhoy.com/alimentacion/10-solicitudes-servicio-habitaciones-extranas-han-recibido-hoteles-1281200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/comida-servicio-habitaciones-hotel-3099950.jpg?tf=1200x' alt='Las 10 solicitudes de servicio de habitaciones más extrañas que han recibido los hoteles' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-hbo-max-van-damme-espanola-justo-abogado-1285416'>Qué películas ver este fin de semana en Movistar Plus+, Prime Video y HBO Max: Van Damme, una española y un justo abogado</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-hbo-max-van-damme-espanola-justo-abogado-1285416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/peliculas-fin-semana-3100966.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Movistar Plus+, Prime Video y HBO Max: Van Damme, una española y un justo abogado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cuidado-cotillas-truco-iphone-permite-ver-mensajes-eliminados-1285526'>Cuidado con los cotillas: este truco de iPhone permite ver los mensajes de iMessage eliminados</a></h4>
-    <a href='https://computerhoy.com/apple/cuidado-cotillas-truco-iphone-permite-ver-mensajes-eliminados-1285526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cuidado-cotillas-truco-iphone-permite-ver-mensajes-imessage-eliminados-3101036.jpg?tf=1200x' alt='Cuidado con los cotillas: este truco de iPhone permite ver los mensajes de iMessage eliminados' />
+    <h4><a href='https://computerhoy.com/tecnologia/5-cosas-necesitas-saber-antes-comprar-telefono-android-segunda-mano-1278370'>5 cosas que necesitas saber antes de comprar un teléfono Android de segunda mano para que no te engañen</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-cosas-necesitas-saber-antes-comprar-telefono-android-segunda-mano-1278370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hombre-enfadado-movil-boca-3100944.jpg?tf=1200x' alt='5 cosas que necesitas saber antes de comprar un teléfono Android de segunda mano para que no te engañen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/hackeo-desafia-tesla-activa-conduccion-autonoma-completa-1285496'>El hackeo que desafía a Tesla y activa la conducción autónoma completa</a></h4>
-    <a href='https://computerhoy.com/motor/hackeo-desafia-tesla-activa-conduccion-autonoma-completa-1285496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tesla-cuerdas-empleados-compartieron-contenido-sensible-grabado-vehiculos-3005386.jpg?tf=1200x' alt='El hackeo que desafía a Tesla y activa la conducción autónoma completa' />
+    <h4><a href='https://computerhoy.com/life/japon-quieren-prohibir-cajeros-automaticos-mayores-65-anos-1285566'>El gobierno japonés quiere prohibir los cajeros automáticos a los mayores de 65 años</a></h4>
+    <a href='https://computerhoy.com/life/japon-quieren-prohibir-cajeros-automaticos-mayores-65-anos-1285566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/gobierno-japones-propone-prohibir-cajeros-automaticos-mayores-65-anos-3101090.jpg?tf=1200x' alt='El gobierno japonés quiere prohibir los cajeros automáticos a los mayores de 65 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/cortana-apaga-siempre-hora-apple-haga-mismo-siri-1285482'>Cortana se apaga para siempre: ¿es hora de que Apple haga lo mismo con Siri?</a></h4>
-    <a href='https://computerhoy.com/windows/cortana-apaga-siempre-hora-apple-haga-mismo-siri-1285482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/cortana-2158323.jpg?tf=1200x' alt='Cortana se apaga para siempre: ¿es hora de que Apple haga lo mismo con Siri?' />
+    <h4><a href='https://computerhoy.com/google/descubre-informacion-personal-ha-sido-expuesta-internet-gracias-google-1285584'>Descubre si tu información personal ha sido expuesta en internet gracias a Google</a></h4>
+    <a href='https://computerhoy.com/google/descubre-informacion-personal-ha-sido-expuesta-internet-gracias-google-1285584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/privacidad-2792401.jpg?tf=1200x' alt='Descubre si tu información personal ha sido expuesta en internet gracias a Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ttu-macbook-peligro-descubierto-programa-permite-hackeo-instante-1285430'>Tu MacBook está en peligro: descubierto un programa que permite el hackeo al instante</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ttu-macbook-peligro-descubierto-programa-permite-hackeo-instante-1285430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/macbook-pro-16-m2-max-analisis-opinion-3015998.jpg?tf=1200x' alt='Tu MacBook está en peligro: descubierto un programa que permite el hackeo al instante' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-archivos-carpetas-programas-windows-11-dejar-rastro-1285364'>Cómo ocultar archivos, carpetas y programas en Windows 11 sin dejar rastro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-archivos-carpetas-programas-windows-11-dejar-rastro-1285364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/explorador-archivos-windows-11-2942104.jpg?tf=1200x' alt='Cómo ocultar archivos, carpetas y programas en Windows 11 sin dejar rastro' />
     </a>
 </div>
 
