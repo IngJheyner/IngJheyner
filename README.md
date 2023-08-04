@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/10-solicitudes-servicio-habitaciones-extranas-han-recibido-hoteles-1281200'>Las 10 solicitudes de servicio de habitaciones más extrañas que han recibido los hoteles</a></h4>
+    <a href='https://computerhoy.com/alimentacion/10-solicitudes-servicio-habitaciones-extranas-han-recibido-hoteles-1281200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/comida-servicio-habitaciones-hotel-3099950.jpg?tf=1200x' alt='Las 10 solicitudes de servicio de habitaciones más extrañas que han recibido los hoteles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/cuidado-cotillas-truco-iphone-permite-ver-mensajes-eliminados-1285526'>Cuidado con los cotillas: este truco de iPhone permite ver los mensajes de iMessage eliminados</a></h4>
+    <a href='https://computerhoy.com/apple/cuidado-cotillas-truco-iphone-permite-ver-mensajes-eliminados-1285526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cuidado-cotillas-truco-iphone-permite-ver-mensajes-imessage-eliminados-3101036.jpg?tf=1200x' alt='Cuidado con los cotillas: este truco de iPhone permite ver los mensajes de iMessage eliminados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/hackeo-desafia-tesla-activa-conduccion-autonoma-completa-1285496'>El hackeo que desafía a Tesla y activa la conducción autónoma completa</a></h4>
+    <a href='https://computerhoy.com/motor/hackeo-desafia-tesla-activa-conduccion-autonoma-completa-1285496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tesla-cuerdas-empleados-compartieron-contenido-sensible-grabado-vehiculos-3005386.jpg?tf=1200x' alt='El hackeo que desafía a Tesla y activa la conducción autónoma completa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/cortana-apaga-siempre-hora-apple-haga-mismo-siri-1285482'>Cortana se apaga para siempre: ¿es hora de que Apple haga lo mismo con Siri?</a></h4>
+    <a href='https://computerhoy.com/windows/cortana-apaga-siempre-hora-apple-haga-mismo-siri-1285482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/cortana-2158323.jpg?tf=1200x' alt='Cortana se apaga para siempre: ¿es hora de que Apple haga lo mismo con Siri?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/ttu-macbook-peligro-descubierto-programa-permite-hackeo-instante-1285430'>Tu MacBook está en peligro: descubierto un programa que permite el hackeo al instante</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ttu-macbook-peligro-descubierto-programa-permite-hackeo-instante-1285430' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/macbook-pro-16-m2-max-analisis-opinion-3015998.jpg?tf=1200x' alt='Tu MacBook está en peligro: descubierto un programa que permite el hackeo al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/material-fundido-roca-solida-esconde-interior-luna-1285412'>Material fundido o roca sólida: ¿Qué se esconde en el interior de la Luna?</a></h4>
-    <a href='https://computerhoy.com/espacio/material-fundido-roca-solida-esconde-interior-luna-1285412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/interior-luna-3100782.jpg?tf=1200x' alt='Material fundido o roca sólida: ¿Qué se esconde en el interior de la Luna?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/aplicaciones-tendria-superconductor-coreano-lk-99-ser-real-1285394'>¿Qué aplicaciones tendría en la vida real el superconductor coreano LK-99 de ser cierto?</a></h4>
-    <a href='https://computerhoy.com/energia/aplicaciones-tendria-superconductor-coreano-lk-99-ser-real-1285394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/superconductor-coreano-lk-99-3100756.jpg?tf=1200x' alt='¿Qué aplicaciones tendría en la vida real el superconductor coreano LK-99 de ser cierto?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bitcoin-monedas-digitales-centralizadas-cbdc-1237600'>25 aniversario de Computer Hoy: Del bitcoin a las monedas digitales centralizadas (CBDC) </a></h4>
-    <a href='https://computerhoy.com/tecnologia/bitcoin-monedas-digitales-centralizadas-cbdc-1237600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cbdc-3098074.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Del bitcoin a las monedas digitales centralizadas (CBDC) ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/capsulas-siesta-de-pie-cafeterias-japonesas-1285138'>Las cápsulas para echarse una siesta de pie que están instalando en las cafeterías japonesas</a></h4>
-    <a href='https://computerhoy.com/life/capsulas-siesta-de-pie-cafeterias-japonesas-1285138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/capsulas-dormir-pie-estan-instalando-cafeterias-japonesas-3100456.jpg?tf=1200x' alt='Las cápsulas para echarse una siesta de pie que están instalando en las cafeterías japonesas' />
     </a>
 </div>
 
