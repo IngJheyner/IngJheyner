@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-alerta-estafa-buen-empleado-muy-facil-picar-1285646'>La Policía Nacional alerta sobre la estafa del buen empleado en la que es muy fácil picar</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-alerta-estafa-buen-empleado-muy-facil-picar-1285646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/estafa-whatsapp-3101288.jpg?tf=1200x' alt='La Policía Nacional alerta sobre la estafa del buen empleado en la que es muy fácil picar' />
+    <h4><a href='https://computerhoy.com/tecnologia/twitter-ya-te-permite-hacer-streaming-directo-1285662'>Años después de eliminarlo, Twitter, perdón, X, ya te permite hacer streaming en directo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/twitter-ya-te-permite-hacer-streaming-directo-1285662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/anos-despues-eliminarlo-twitter-perdon-x-ya-te-permite-hacer-streaming-directo-3101328.jpg?tf=1200x' alt='Años después de eliminarlo, Twitter, perdón, X, ya te permite hacer streaming en directo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-instagram-orden-cronologico-anuncios-1285140'>Cómo ver Instagram en orden cronológico y sin anuncios</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-instagram-orden-cronologico-anuncios-1285140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/instagram-iphone-2030501.jpg?tf=1200x' alt='Cómo ver Instagram en orden cronológico y sin anuncios' />
+    <h4><a href='https://computerhoy.com/pc/discos-duros-fallan-cada-vez-menos-tiempo-1285642'>Los discos duros cada vez fallan más en menos tiempo</a></h4>
+    <a href='https://computerhoy.com/pc/discos-duros-fallan-cada-vez-menos-tiempo-1285642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/discos-duros-fallan-cada-vez-menos-tiempo-3101286.jpg?tf=1200x' alt='Los discos duros cada vez fallan más en menos tiempo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/brazo-hidraulico-sube-facilmente-bici-electrica-techo-coche-1285604'>Este brazo hidráulico sube y baja con facilidad tu bicicleta eléctrica al techo del coche</a></h4>
-    <a href='https://computerhoy.com/motor/brazo-hidraulico-sube-facilmente-bici-electrica-techo-coche-1285604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/brazo-hidraulico-sube-baja-facilidad-biclicleta-electrica-techo-coche-3101168.jpg?tf=1200x' alt='Este brazo hidráulico sube y baja con facilidad tu bicicleta eléctrica al techo del coche' />
+    <h4><a href='https://computerhoy.com/moviles/modo-bolsillo-movil-1285634'>¿Llamadas sin querer constantes? Prueba el modo bolsillo de tu móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/modo-bolsillo-movil-1285634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/llamadas-querer-constantes-prueba-modo-bolsillo-smartphone-3101282.jpg?tf=1200x' alt='¿Llamadas sin querer constantes? Prueba el modo bolsillo de tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/mejor-funcionalidad-chrome-vez-peligrosa-merece-pena-riesgo-1284796'>La mejor funcionalidad de Chrome es a su vez la más peligrosa: ¿merece la pena el riesgo?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/mejor-funcionalidad-chrome-vez-peligrosa-merece-pena-riesgo-1284796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/logo-chrome-color-blanco-negro-3100910.jpg?tf=1200x' alt='La mejor funcionalidad de Chrome es a su vez la más peligrosa: ¿merece la pena el riesgo?' />
+    <h4><a href='https://computerhoy.com/life/portatil-puertos-usb-escultura-griega-hace-2000-anos-1285654'>¿Viajes en el tiempo? Un portátil con puertos USB en una escultura griega de hace 2.000 años</a></h4>
+    <a href='https://computerhoy.com/life/portatil-puertos-usb-escultura-griega-hace-2000-anos-1285654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/viajeros-tiempo-portatil-puertos-usb-escultura-griega-hace-2000-anos-3101254.jpg?tf=1200x' alt='¿Viajes en el tiempo? Un portátil con puertos USB en una escultura griega de hace 2.000 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/jbl-flip-6-mejor-altavoz-bluetooth-mercado-muy-rebajado-amazon-1285582'>Este altavoz portátil será tu compañero inseparable del verano: resistente al agua, con 12 horas de autonomía y rebajado en Amazon</a></h4>
-    <a href='https://computerhoy.com/audio/jbl-flip-6-mejor-altavoz-bluetooth-mercado-muy-rebajado-amazon-1285582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/altavoz-jbl-flip-6-3101144.jpg?tf=1200x' alt='Este altavoz portátil será tu compañero inseparable del verano: resistente al agua, con 12 horas de autonomía y rebajado en Amazon' />
+    <h4><a href='https://computerhoy.com/espacio/fisico-harvard-asegura-existencia-vida-extraterrestre-podria-probarse-unas-semanas-1285650'>Físico de Harvard asegura que la existencia de vida extraterrestre podría probarse en unas semanas</a></h4>
+    <a href='https://computerhoy.com/espacio/fisico-harvard-asegura-existencia-vida-extraterrestre-podria-probarse-unas-semanas-1285650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/meteorito-cayendo-mar-3101292.jpg?tf=1200x' alt='Físico de Harvard asegura que la existencia de vida extraterrestre podría probarse en unas semanas' />
     </a>
 </div>
 
