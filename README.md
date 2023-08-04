@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ttu-macbook-peligro-descubierto-programa-permite-hackeo-instante-1285430'>Tu MacBook está en peligro: descubierto un programa que permite el hackeo al instante</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ttu-macbook-peligro-descubierto-programa-permite-hackeo-instante-1285430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/macbook-pro-16-m2-max-analisis-opinion-3015998.jpg?tf=1200x' alt='Tu MacBook está en peligro: descubierto un programa que permite el hackeo al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/material-fundido-roca-solida-esconde-interior-luna-1285412'>Material fundido o roca sólida: ¿Qué se esconde en el interior de la Luna?</a></h4>
+    <a href='https://computerhoy.com/espacio/material-fundido-roca-solida-esconde-interior-luna-1285412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/interior-luna-3100782.jpg?tf=1200x' alt='Material fundido o roca sólida: ¿Qué se esconde en el interior de la Luna?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/aplicaciones-tendria-superconductor-coreano-lk-99-ser-real-1285394'>¿Qué aplicaciones tendría en la vida real el superconductor coreano LK-99 de ser cierto?</a></h4>
+    <a href='https://computerhoy.com/energia/aplicaciones-tendria-superconductor-coreano-lk-99-ser-real-1285394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/superconductor-coreano-lk-99-3100756.jpg?tf=1200x' alt='¿Qué aplicaciones tendría en la vida real el superconductor coreano LK-99 de ser cierto?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/bitcoin-monedas-digitales-centralizadas-cbdc-1237600'>25 aniversario de Computer Hoy: Del bitcoin a las monedas digitales centralizadas (CBDC) </a></h4>
     <a href='https://computerhoy.com/tecnologia/bitcoin-monedas-digitales-centralizadas-cbdc-1237600' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cbdc-3098074.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Del bitcoin a las monedas digitales centralizadas (CBDC) ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/capsulas-siesta-de-pie-cafeterias-japonesas-1285138'>Las cápsulas para echarse una siesta de pie que están instalando en las cafeterías japonesas</a></h4>
     <a href='https://computerhoy.com/life/capsulas-siesta-de-pie-cafeterias-japonesas-1285138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/capsulas-dormir-pie-estan-instalando-cafeterias-japonesas-3100456.jpg?tf=1200x' alt='Las cápsulas para echarse una siesta de pie que están instalando en las cafeterías japonesas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-cancelar-transferencia-bancaria-1285134'>Esta es la única forma de cancelar una transferencia, según el Banco de España</a></h4>
-    <a href='https://computerhoy.com/life/como-cancelar-transferencia-bancaria-1285134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/unica-forma-cancelar-transferencia-banco-espana-3100438.jpg?tf=1200x' alt='Esta es la única forma de cancelar una transferencia, según el Banco de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/parece-raspberry-pi-consiguiendo-salir-crisis-aunque-tal-vez-ya-sea-demasiado-tarde-1285126'>Parece que Raspberry Pi está consiguiendo salir de la crisis, aunque tal vez ya sea demasiado tarde</a></h4>
-    <a href='https://computerhoy.com/tecnologia/parece-raspberry-pi-consiguiendo-salir-crisis-aunque-tal-vez-ya-sea-demasiado-tarde-1285126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/raspberry-pi-3100416.jpg?tf=1200x' alt='Parece que Raspberry Pi está consiguiendo salir de la crisis, aunque tal vez ya sea demasiado tarde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/carreteras-brillan-oscuridad-estilo-tron-todo-mundo-quiere-probar-1285122'>Las carreteras que brillan en la oscuridad al estilo Tron que todo el mundo quiere probar</a></h4>
-    <a href='https://computerhoy.com/life/carreteras-brillan-oscuridad-estilo-tron-todo-mundo-quiere-probar-1285122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/carreteras-brillan-oscuridad-estilo-tron-todo-mundo-quiere-probar-3100410.jpg?tf=1200x' alt='Las carreteras que brillan en la oscuridad al estilo Tron que todo el mundo quiere probar' />
     </a>
 </div>
 
