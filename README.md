@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-hbo-max-van-damme-espanola-justo-abogado-1285416'>Qué películas ver este fin de semana en Movistar Plus+, Prime Video y HBO Max: Van Damme, una española y un justo abogado</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-hbo-max-van-damme-espanola-justo-abogado-1285416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/peliculas-fin-semana-3100966.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Movistar Plus+, Prime Video y HBO Max: Van Damme, una española y un justo abogado' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-alerta-estafa-buen-empleado-muy-facil-picar-1285646'>La Policía Nacional alerta sobre la estafa del buen empleado en la que es muy fácil picar</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-alerta-estafa-buen-empleado-muy-facil-picar-1285646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/estafa-whatsapp-3101288.jpg?tf=1200x' alt='La Policía Nacional alerta sobre la estafa del buen empleado en la que es muy fácil picar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-cosas-necesitas-saber-antes-comprar-telefono-android-segunda-mano-1278370'>5 cosas que necesitas saber antes de comprar un teléfono Android de segunda mano para que no te engañen</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-cosas-necesitas-saber-antes-comprar-telefono-android-segunda-mano-1278370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hombre-enfadado-movil-boca-3100944.jpg?tf=1200x' alt='5 cosas que necesitas saber antes de comprar un teléfono Android de segunda mano para que no te engañen' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-instagram-orden-cronologico-anuncios-1285140'>Cómo ver Instagram en orden cronológico y sin anuncios</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-instagram-orden-cronologico-anuncios-1285140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/instagram-iphone-2030501.jpg?tf=1200x' alt='Cómo ver Instagram en orden cronológico y sin anuncios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/japon-quieren-prohibir-cajeros-automaticos-mayores-65-anos-1285566'>El gobierno japonés quiere prohibir los cajeros automáticos a los mayores de 65 años</a></h4>
-    <a href='https://computerhoy.com/life/japon-quieren-prohibir-cajeros-automaticos-mayores-65-anos-1285566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/gobierno-japones-propone-prohibir-cajeros-automaticos-mayores-65-anos-3101090.jpg?tf=1200x' alt='El gobierno japonés quiere prohibir los cajeros automáticos a los mayores de 65 años' />
+    <h4><a href='https://computerhoy.com/motor/brazo-hidraulico-sube-facilmente-bici-electrica-techo-coche-1285604'>Este brazo hidráulico sube y baja con facilidad tu bicicleta eléctrica al techo del coche</a></h4>
+    <a href='https://computerhoy.com/motor/brazo-hidraulico-sube-facilmente-bici-electrica-techo-coche-1285604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/brazo-hidraulico-sube-baja-facilidad-biclicleta-electrica-techo-coche-3101168.jpg?tf=1200x' alt='Este brazo hidráulico sube y baja con facilidad tu bicicleta eléctrica al techo del coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/descubre-informacion-personal-ha-sido-expuesta-internet-gracias-google-1285584'>Descubre si tu información personal ha sido expuesta en internet gracias a Google</a></h4>
-    <a href='https://computerhoy.com/google/descubre-informacion-personal-ha-sido-expuesta-internet-gracias-google-1285584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/privacidad-2792401.jpg?tf=1200x' alt='Descubre si tu información personal ha sido expuesta en internet gracias a Google' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/mejor-funcionalidad-chrome-vez-peligrosa-merece-pena-riesgo-1284796'>La mejor funcionalidad de Chrome es a su vez la más peligrosa: ¿merece la pena el riesgo?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/mejor-funcionalidad-chrome-vez-peligrosa-merece-pena-riesgo-1284796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/logo-chrome-color-blanco-negro-3100910.jpg?tf=1200x' alt='La mejor funcionalidad de Chrome es a su vez la más peligrosa: ¿merece la pena el riesgo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-archivos-carpetas-programas-windows-11-dejar-rastro-1285364'>Cómo ocultar archivos, carpetas y programas en Windows 11 sin dejar rastro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-archivos-carpetas-programas-windows-11-dejar-rastro-1285364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/explorador-archivos-windows-11-2942104.jpg?tf=1200x' alt='Cómo ocultar archivos, carpetas y programas en Windows 11 sin dejar rastro' />
+    <h4><a href='https://computerhoy.com/audio/jbl-flip-6-mejor-altavoz-bluetooth-mercado-muy-rebajado-amazon-1285582'>Este altavoz portátil será tu compañero inseparable del verano: resistente al agua, con 12 horas de autonomía y rebajado en Amazon</a></h4>
+    <a href='https://computerhoy.com/audio/jbl-flip-6-mejor-altavoz-bluetooth-mercado-muy-rebajado-amazon-1285582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/altavoz-jbl-flip-6-3101144.jpg?tf=1200x' alt='Este altavoz portátil será tu compañero inseparable del verano: resistente al agua, con 12 horas de autonomía y rebajado en Amazon' />
     </a>
 </div>
 
