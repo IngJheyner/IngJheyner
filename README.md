@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bitcoin-monedas-digitales-centralizadas-cbdc-1237600'>25 aniversario de Computer Hoy: Del bitcoin a las monedas digitales centralizadas (CBDC) </a></h4>
+    <a href='https://computerhoy.com/tecnologia/bitcoin-monedas-digitales-centralizadas-cbdc-1237600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cbdc-3098074.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Del bitcoin a las monedas digitales centralizadas (CBDC) ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/capsulas-siesta-de-pie-cafeterias-japonesas-1285138'>Las cápsulas para echarse una siesta de pie que están instalando en las cafeterías japonesas</a></h4>
     <a href='https://computerhoy.com/life/capsulas-siesta-de-pie-cafeterias-japonesas-1285138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/capsulas-dormir-pie-estan-instalando-cafeterias-japonesas-3100456.jpg?tf=1200x' alt='Las cápsulas para echarse una siesta de pie que están instalando en las cafeterías japonesas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/carreteras-brillan-oscuridad-estilo-tron-todo-mundo-quiere-probar-1285122'>Las carreteras que brillan en la oscuridad al estilo Tron que todo el mundo quiere probar</a></h4>
     <a href='https://computerhoy.com/life/carreteras-brillan-oscuridad-estilo-tron-todo-mundo-quiere-probar-1285122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/carreteras-brillan-oscuridad-estilo-tron-todo-mundo-quiere-probar-3100410.jpg?tf=1200x' alt='Las carreteras que brillan en la oscuridad al estilo Tron que todo el mundo quiere probar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/dazn-sube-precios-1285116'>DAZN sube los precios hasta un 50%, justo cuando empiezan muchas competiciones</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/dazn-sube-precios-1285116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dazn-vuelve-subir-precios-justo-cuando-empiezan-muchas-competiciones-3100306.jpg?tf=1200x' alt='DAZN sube los precios hasta un 50%, justo cuando empiezan muchas competiciones' />
     </a>
 </div>
 
