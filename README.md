@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-proteger-contenido-plagio-inteligencia-artificial-1276108'>Tu creatividad a buen recaudo: cómo proteger tu contenido del plagio de la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-proteger-contenido-plagio-inteligencia-artificial-1276108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/creatividad-buen-recaudo-como-proteger-contenido-plagio-inteligencia-artificial-3092184.jpg?tf=1200x' alt='Tu creatividad a buen recaudo: cómo proteger tu contenido del plagio de la inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/alimentacion/ocu-confirma-muchos-era-secreto-voces-cerveza-peor-valorada-espana-1285916'>La OCU confirma lo que para muchos era un secreto a voces: esta es la cerveza peor valorada de España</a></h4>
+    <a href='https://computerhoy.com/alimentacion/ocu-confirma-muchos-era-secreto-voces-cerveza-peor-valorada-espana-1285916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lata-cerveza-3101604.jpg?tf=1200x' alt='La OCU confirma lo que para muchos era un secreto a voces: esta es la cerveza peor valorada de España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sequia-centros-datos-problema-ahoga-espana-dificil-solucion-1273242'>La sequía y los centros de datos: un problema que "ahoga" a España, con difícil solución</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sequia-centros-datos-problema-ahoga-espana-dificil-solucion-1273242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/sequia-espana-alto-consumo-agua-centros-datos-gran-desafio-industria-3085698.jpg?tf=1200x' alt='La sequía y los centros de datos: un problema que "ahoga" a España, con difícil solución' />
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-deshabilitar-microsoft-defender-windows-1247528'>Así puedes deshabilitar Microsoft Defender en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-deshabilitar-microsoft-defender-windows-1247528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-defender-2893758.jpg?tf=1200x' alt='Así puedes deshabilitar Microsoft Defender en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/ya-no-puedo-vivir-cancelacion-ruido-auriculares-1283220'>Por qué ya no puedo vivir sin cancelación de ruido en los auriculares</a></h4>
-    <a href='https://computerhoy.com/audio/ya-no-puedo-vivir-cancelacion-ruido-auriculares-1283220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-sony-wh1000xm4-cancelacion-ruido-son-deseados-hoy-tienen-132-euros-descuento-precio-minimo-2582311.jpg?tf=1200x' alt='Por qué ya no puedo vivir sin cancelación de ruido en los auriculares' />
+    <h4><a href='https://computerhoy.com/windows/sencillo-sera-ahora-solucionar-todos-problemas-windows-11-1285912'>Así de sencillo será ahora solucionar todos los problemas de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/sencillo-sera-ahora-solucionar-todos-problemas-windows-11-1285912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg?tf=1200x' alt='Así de sencillo será ahora solucionar todos los problemas de Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/japon-hace-tanto-calor-ya-abren-museos-noche-1283412'>En Japón hace tanto calor que han comenzado a abrir los museos por la noche </a></h4>
-    <a href='https://computerhoy.com/life/japon-hace-tanto-calor-ya-abren-museos-noche-1283412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/japon-hace-tanto-calor-han-comenzado-abrir-museos-noche-3097194.jpg?tf=1200x' alt='En Japón hace tanto calor que han comenzado a abrir los museos por la noche ' />
+    <h4><a href='https://computerhoy.com/audio/xiaomi-rebaja-redmi-buds-3-pro-solo-40-euros-son-mejores-cancelando-ruido-1285648'>Estos auriculares de Xiaomi con cancelación de ruido están ahora a casi la mitad de precio</a></h4>
+    <a href='https://computerhoy.com/audio/xiaomi-rebaja-redmi-buds-3-pro-solo-40-euros-son-mejores-cancelando-ruido-1285648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/redmi-buds-3-pro-2448181.jpg?tf=1200x' alt='Estos auriculares de Xiaomi con cancelación de ruido están ahora a casi la mitad de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipados-3051030.jpg?tf=1200x' alt='Estas son las mejores tablets para estudiantes' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-series-netflix-esperadas-proximos-meses-1281106'>Las 7 series de Netflix más esperadas para los próximos meses</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-series-netflix-esperadas-proximos-meses-1281106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/berlin-3093342.jpg?tf=1200x' alt='Las 7 series de Netflix más esperadas para los próximos meses' />
     </a>
 </div>
 
