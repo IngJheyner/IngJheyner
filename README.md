@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-confirma-amenazas-comienza-avisar-inminentes-cierres-millones-cuentas-gmail-1285936'>Google confirma sus amenazas y comienza a avisar sobre inminentes cierres de millones de cuentas de Gmail</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-confirma-amenazas-comienza-avisar-inminentes-cierres-millones-cuentas-gmail-1285936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/borrar-gmail-3034648.jpg?tf=1200x' alt='Google confirma sus amenazas y comienza a avisar sobre inminentes cierres de millones de cuentas de Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/truco-recibir-siempre-mejores-recomendaciones-series-peliculas-netflix-1285934'>El truco para recibir siempre las mejores recomendaciones de series y películas en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/truco-recibir-siempre-mejores-recomendaciones-series-peliculas-netflix-1285934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/netflix-3068302.jpg?tf=1200x' alt='El truco para recibir siempre las mejores recomendaciones de series y películas en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/chatgpt-ayudando-resucitar-digitalmente-muertos-1285926'>ChatGPT está ayudando a “resucitar” digitalmente a los muertos</a></h4>
+    <a href='https://computerhoy.com/apps/chatgpt-ayudando-resucitar-digitalmente-muertos-1285926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inteligencia-artificial-3101612.jpg?tf=1200x' alt='ChatGPT está ayudando a “resucitar” digitalmente a los muertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/ocu-confirma-muchos-era-secreto-voces-cerveza-peor-valorada-espana-1285916'>La OCU confirma lo que para muchos era un secreto a voces: esta es la cerveza peor valorada de España</a></h4>
     <a href='https://computerhoy.com/alimentacion/ocu-confirma-muchos-era-secreto-voces-cerveza-peor-valorada-espana-1285916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lata-cerveza-3101604.jpg?tf=1200x' alt='La OCU confirma lo que para muchos era un secreto a voces: esta es la cerveza peor valorada de España' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/puedes-deshabilitar-microsoft-defender-windows-1247528'>Así puedes deshabilitar Microsoft Defender en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/puedes-deshabilitar-microsoft-defender-windows-1247528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-defender-2893758.jpg?tf=1200x' alt='Así puedes deshabilitar Microsoft Defender en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/sencillo-sera-ahora-solucionar-todos-problemas-windows-11-1285912'>Así de sencillo será ahora solucionar todos los problemas de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/sencillo-sera-ahora-solucionar-todos-problemas-windows-11-1285912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/windows-11-2767553.jpg?tf=1200x' alt='Así de sencillo será ahora solucionar todos los problemas de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/xiaomi-rebaja-redmi-buds-3-pro-solo-40-euros-son-mejores-cancelando-ruido-1285648'>Estos auriculares de Xiaomi con cancelación de ruido están ahora a casi la mitad de precio</a></h4>
-    <a href='https://computerhoy.com/audio/xiaomi-rebaja-redmi-buds-3-pro-solo-40-euros-son-mejores-cancelando-ruido-1285648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/redmi-buds-3-pro-2448181.jpg?tf=1200x' alt='Estos auriculares de Xiaomi con cancelación de ruido están ahora a casi la mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-series-netflix-esperadas-proximos-meses-1281106'>Las 7 series de Netflix más esperadas para los próximos meses</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-series-netflix-esperadas-proximos-meses-1281106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/berlin-3093342.jpg?tf=1200x' alt='Las 7 series de Netflix más esperadas para los próximos meses' />
     </a>
 </div>
 
