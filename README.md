@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/paleontologia-web-como-era-web-telepizza-pionera-delivery-comida-1283914'>La empresa pionera en el reparto de comida a domicilio en España: así era y así es la web de Telepizza, el negocio que llevó la pizza a los hogares españoles</a></h4>
+    <a href='https://computerhoy.com/alimentacion/paleontologia-web-como-era-web-telepizza-pionera-delivery-comida-1283914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/telepizza-comida-domicilio-3098256.jpg?tf=1200x' alt='La empresa pionera en el reparto de comida a domicilio en España: así era y así es la web de Telepizza, el negocio que llevó la pizza a los hogares españoles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-todo-puedes-hacer-1284786'>Cómo activar el Modo Dios de Android Auto y todo lo que puedes hacer con él</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-todo-puedes-hacer-1284786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/modo-dios-android-auto-3100008.jpg?tf=1200x' alt='Cómo activar el Modo Dios de Android Auto y todo lo que puedes hacer con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estreno-la-que-se-avecina-temporada-13-abierto-telecinco-1285666'>La serie española más popular al fin estrena su última temporada en abierto</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estreno-la-que-se-avecina-temporada-13-abierto-telecinco-1285666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/avecina-dulceida-muchos-crimenes-novedades-noviembre-amazon-prime-video-2857001.jpg?tf=1200x' alt='La serie española más popular al fin estrena su última temporada en abierto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/mejores-juegos-nintendo-switch-2023-estos-son-valorados-metacritic-1285636'>Mejores juegos de Nintendo Switch en 2023: estos son los más valorados en Metacritic</a></h4>
+    <a href='https://computerhoy.com/gaming/mejores-juegos-nintendo-switch-2023-estos-son-valorados-metacritic-1285636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nintendo-switch-3097614.jpg?tf=1200x' alt='Mejores juegos de Nintendo Switch en 2023: estos son los más valorados en Metacritic' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/twitter-ya-te-permite-hacer-streaming-directo-1285662'>Años después de eliminarlo, Twitter, perdón, X, ya te permite hacer streaming en directo</a></h4>
     <a href='https://computerhoy.com/tecnologia/twitter-ya-te-permite-hacer-streaming-directo-1285662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/anos-despues-eliminarlo-twitter-perdon-x-ya-te-permite-hacer-streaming-directo-3101328.jpg?tf=1200x' alt='Años después de eliminarlo, Twitter, perdón, X, ya te permite hacer streaming en directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/discos-duros-fallan-cada-vez-menos-tiempo-1285642'>Los discos duros cada vez fallan más en menos tiempo</a></h4>
-    <a href='https://computerhoy.com/pc/discos-duros-fallan-cada-vez-menos-tiempo-1285642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/discos-duros-fallan-cada-vez-menos-tiempo-3101286.jpg?tf=1200x' alt='Los discos duros cada vez fallan más en menos tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/modo-bolsillo-movil-1285634'>¿Llamadas sin querer constantes? Prueba el modo bolsillo de tu móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/modo-bolsillo-movil-1285634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/llamadas-querer-constantes-prueba-modo-bolsillo-smartphone-3101282.jpg?tf=1200x' alt='¿Llamadas sin querer constantes? Prueba el modo bolsillo de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/portatil-puertos-usb-escultura-griega-hace-2000-anos-1285654'>¿Viajes en el tiempo? Un portátil con puertos USB en una escultura griega de hace 2.000 años</a></h4>
-    <a href='https://computerhoy.com/life/portatil-puertos-usb-escultura-griega-hace-2000-anos-1285654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/viajeros-tiempo-portatil-puertos-usb-escultura-griega-hace-2000-anos-3101254.jpg?tf=1200x' alt='¿Viajes en el tiempo? Un portátil con puertos USB en una escultura griega de hace 2.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/fisico-harvard-asegura-existencia-vida-extraterrestre-podria-probarse-unas-semanas-1285650'>Físico de Harvard asegura que la existencia de vida extraterrestre podría probarse en unas semanas</a></h4>
-    <a href='https://computerhoy.com/espacio/fisico-harvard-asegura-existencia-vida-extraterrestre-podria-probarse-unas-semanas-1285650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/meteorito-cayendo-mar-3101292.jpg?tf=1200x' alt='Físico de Harvard asegura que la existencia de vida extraterrestre podría probarse en unas semanas' />
     </a>
 </div>
 
