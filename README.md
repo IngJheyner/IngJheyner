@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/nuevo-sorprendente-restaurante-disenado-inteligencia-artificial-australia-1285958'>Este es el nuevo y sorprendente restaurante diseñado con inteligencia artificial en Australia</a></h4>
+    <a href='https://computerhoy.com/life/nuevo-sorprendente-restaurante-disenado-inteligencia-artificial-australia-1285958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/luminary-3101650.jpg?tf=1200x' alt='Este es el nuevo y sorprendente restaurante diseñado con inteligencia artificial en Australia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/microfonos-streaming-podcast-mejores-1285960'>Comprar un micrófono para streaming y pódcast: en qué fijarte y cuáles son los mejores</a></h4>
     <a href='https://computerhoy.com/audio/microfonos-streaming-podcast-mejores-1285960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/comprar-microfono-streaming-podcast-fijarte-cuales-son-mejores-3101610.jpg?tf=1200x' alt='Comprar un micrófono para streaming y pódcast: en qué fijarte y cuáles son los mejores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-llegara-2024-sera-retrocompatible-juegos-switch-actual-1285940'>Nintendo Switch 2 llegará en 2024: ¿será retrocompatible con los juegos de la Switch actual?</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-switch-2-llegara-2024-sera-retrocompatible-juegos-switch-actual-1285940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cartucho-juego-nintendo-switch-3076976.jpg?tf=1200x' alt='Nintendo Switch 2 llegará en 2024: ¿será retrocompatible con los juegos de la Switch actual?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-confirma-amenazas-comienza-avisar-inminentes-cierres-millones-cuentas-gmail-1285936'>Google confirma sus amenazas y comienza a avisar sobre inminentes cierres de millones de cuentas de Gmail</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-confirma-amenazas-comienza-avisar-inminentes-cierres-millones-cuentas-gmail-1285936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/borrar-gmail-3034648.jpg?tf=1200x' alt='Google confirma sus amenazas y comienza a avisar sobre inminentes cierres de millones de cuentas de Gmail' />
     </a>
 </div>
 
