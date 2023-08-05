@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/microfonos-streaming-podcast-mejores-1285960'>Comprar un micrófono para streaming y pódcast: en qué fijarte y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/audio/microfonos-streaming-podcast-mejores-1285960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/comprar-microfono-streaming-podcast-fijarte-cuales-son-mejores-3101610.jpg?tf=1200x' alt='Comprar un micrófono para streaming y pódcast: en qué fijarte y cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/facil-sera-escanear-codigos-qr-telefono-android-nueva-funcionalidad-1285954'>Así de fácil será escanear códigos QR en tu teléfono Android con esta nueva funcionalidad</a></h4>
+    <a href='https://computerhoy.com/android/facil-sera-escanear-codigos-qr-telefono-android-nueva-funcionalidad-1285954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/escanear-codigo-qr-3101648.jpg?tf=1200x' alt='Así de fácil será escanear códigos QR en tu teléfono Android con esta nueva funcionalidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-tablets-android-2023-xiaomi-tiene-mejor-relacion-calidad-precio-rebajada-1285532'>Esta es una de las mejores tablets Android de 2023: es de Xiaomi, tiene la mejor relación calidad-precio y está rebajada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-tablets-android-2023-xiaomi-tiene-mejor-relacion-calidad-precio-rebajada-1285532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-pad-6-3082046.jpg?tf=1200x' alt='Esta es una de las mejores tablets Android de 2023: es de Xiaomi, tiene la mejor relación calidad-precio y está rebajada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-llegara-2024-sera-retrocompatible-juegos-switch-actual-1285940'>Nintendo Switch 2 llegará en 2024: ¿será retrocompatible con los juegos de la Switch actual?</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-llegara-2024-sera-retrocompatible-juegos-switch-actual-1285940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cartucho-juego-nintendo-switch-3076976.jpg?tf=1200x' alt='Nintendo Switch 2 llegará en 2024: ¿será retrocompatible con los juegos de la Switch actual?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-confirma-amenazas-comienza-avisar-inminentes-cierres-millones-cuentas-gmail-1285936'>Google confirma sus amenazas y comienza a avisar sobre inminentes cierres de millones de cuentas de Gmail</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-confirma-amenazas-comienza-avisar-inminentes-cierres-millones-cuentas-gmail-1285936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/borrar-gmail-3034648.jpg?tf=1200x' alt='Google confirma sus amenazas y comienza a avisar sobre inminentes cierres de millones de cuentas de Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/truco-recibir-siempre-mejores-recomendaciones-series-peliculas-netflix-1285934'>El truco para recibir siempre las mejores recomendaciones de series y películas en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/truco-recibir-siempre-mejores-recomendaciones-series-peliculas-netflix-1285934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/netflix-3068302.jpg?tf=1200x' alt='El truco para recibir siempre las mejores recomendaciones de series y películas en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chatgpt-ayudando-resucitar-digitalmente-muertos-1285926'>ChatGPT está ayudando a “resucitar” digitalmente a los muertos</a></h4>
-    <a href='https://computerhoy.com/apps/chatgpt-ayudando-resucitar-digitalmente-muertos-1285926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inteligencia-artificial-3101612.jpg?tf=1200x' alt='ChatGPT está ayudando a “resucitar” digitalmente a los muertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/ocu-confirma-muchos-era-secreto-voces-cerveza-peor-valorada-espana-1285916'>La OCU confirma lo que para muchos era un secreto a voces: esta es la cerveza peor valorada de España</a></h4>
-    <a href='https://computerhoy.com/alimentacion/ocu-confirma-muchos-era-secreto-voces-cerveza-peor-valorada-espana-1285916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lata-cerveza-3101604.jpg?tf=1200x' alt='La OCU confirma lo que para muchos era un secreto a voces: esta es la cerveza peor valorada de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-deshabilitar-microsoft-defender-windows-1247528'>Así puedes deshabilitar Microsoft Defender en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-deshabilitar-microsoft-defender-windows-1247528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/windows-defender-2893758.jpg?tf=1200x' alt='Así puedes deshabilitar Microsoft Defender en Windows' />
     </a>
 </div>
 
