@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-planchas-verticales-disponibles-ahora-ofertas-911793'>Las mejores planchas verticales que puedes comprar: ahorra tiempo y esfuerzo con ellas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-planchas-verticales-disponibles-ahora-ofertas-911793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mejores-planchas-verticales-puedes-comprar-ahorra-tiempo-esfuerzo-ellas-3102052.jpg?tf=1200x' alt='Las mejores planchas verticales que puedes comprar: ahorra tiempo y esfuerzo con ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/pelea-elon-musk-mark-zuckerberg-donde-verla-directo-1286212'>La pelea entre Elon Musk y Mark Zuckerberg no está muerta: Musk revela dónde podremos verla en directo</a></h4>
+    <a href='https://computerhoy.com/life/pelea-elon-musk-mark-zuckerberg-donde-verla-directo-1286212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pelea-elon-musk-mark-zuckerberg-no-muerta-musk-revela-donde-podremos-verla-directo-3102056.jpg?tf=1200x' alt='La pelea entre Elon Musk y Mark Zuckerberg no está muerta: Musk revela dónde podremos verla en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/bombillas-inteligentes'>Bombillas inteligentes: tipos, compatibilidad, potencia y todo lo que debes saber antes de comprar</a></h4>
     <a href='https://computerhoy.com/guia-compra/bombillas-inteligentes' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/philips-hue-white-and-color-2659101.jpg?tf=1200x' alt='Bombillas inteligentes: tipos, compatibilidad, potencia y todo lo que debes saber antes de comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/reino-unido-teme-caballo-troya-china-coches-electricos-1286190'>Reino Unido teme un Caballo de Troya de China con sus coches eléctricos</a></h4>
     <a href='https://computerhoy.com/motor/reino-unido-teme-caballo-troya-china-coches-electricos-1286190' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/coche-electrico-2953096.jpg?tf=1200x' alt='Reino Unido teme un Caballo de Troya de China con sus coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/mejores-juegos-xbox-series-x-s-2023-estos-son-valorados-metacritic-1286198'>Mejores juegos de Xbox Series X/S en 2023: estos son los más valorados en Metacritic</a></h4>
-    <a href='https://computerhoy.com/mejores/mejores-juegos-xbox-series-x-s-2023-estos-son-valorados-metacritic-1286198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/xbox-series-x-2918268.jpg?tf=1200x' alt='Mejores juegos de Xbox Series X/S en 2023: estos son los más valorados en Metacritic' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/obligan-pasajera-alergia-comprar-todos-paquetes-cacahuetes-avion-durante-vuelo-1286188'>Obligan a una pasajera con alergia a comprar todos los paquetes de cacahuetes del avión durante un vuelo</a></h4>
-    <a href='https://computerhoy.com/life/obligan-pasajera-alergia-comprar-todos-paquetes-cacahuetes-avion-durante-vuelo-1286188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/comer-avion-3102020.jpg?tf=1200x' alt='Obligan a una pasajera con alergia a comprar todos los paquetes de cacahuetes del avión durante un vuelo' />
     </a>
 </div>
 
