@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/10-caracteristicas-router-wifi-deberias-estar-usando-ahora-mismo-mejorar-conexion-1280134'>Las 10 características de tu router WiFi que deberías estar usando ahora mismo para mejorar tu conexión</a></h4>
-    <a href='https://computerhoy.com/redes/10-caracteristicas-router-wifi-deberias-estar-usando-ahora-mismo-mejorar-conexion-1280134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/router-wifi-3091842.jpg?tf=1200x' alt='Las 10 características de tu router WiFi que deberías estar usando ahora mismo para mejorar tu conexión' />
+    <h4><a href='https://computerhoy.com/life/obligan-pasajera-alergia-comprar-todos-paquetes-cacahuetes-avion-durante-vuelo-1286188'>Obligan a una pasajera con alergia a comprar todos los paquetes de cacahuetes del avión durante un vuelo</a></h4>
+    <a href='https://computerhoy.com/life/obligan-pasajera-alergia-comprar-todos-paquetes-cacahuetes-avion-durante-vuelo-1286188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/comer-avion-3102020.jpg?tf=1200x' alt='Obligan a una pasajera con alergia a comprar todos los paquetes de cacahuetes del avión durante un vuelo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/contrasenas-inteligencia-artificial-seguridad-arma-doble-cara-1280702'>Contraseñas e inteligencia artificial: un arma de doble cara que pone en peligro tu seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/contrasenas-inteligencia-artificial-seguridad-arma-doble-cara-1280702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/contrasenas-inteligencia-artificial-arma-doble-cara-pone-peligro-seguridad-3093266.jpg?tf=1200x' alt='Contraseñas e inteligencia artificial: un arma de doble cara que pone en peligro tu seguridad' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-contactar-wallapop-app-email-telefono-1266104'>Cómo contactar con Wallapop desde la app, email o teléfono</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-contactar-wallapop-app-email-telefono-1266104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/wallapop-2346429.jpg?tf=1200x' alt='Cómo contactar con Wallapop desde la app, email o teléfono' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crm-customer-relationship-management-1272346'>¿Qué es CRM ('Customer Relationship Management') y cuáles son sus beneficios para las empresas?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crm-customer-relationship-management-1272346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1691152491923-3101088.jpg?tf=1200x' alt='¿Qué es CRM ('Customer Relationship Management') y cuáles son sus beneficios para las empresas?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/google-explica-tienda-aplicaciones-coladero-malware-1286186'>Google explica por qué su tienda de aplicaciones es un coladero de malware</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/google-explica-tienda-aplicaciones-coladero-malware-1286186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malware-android-3051122.jpg?tf=1200x' alt='Google explica por qué su tienda de aplicaciones es un coladero de malware' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-ventilador-dormir-noches-calor-sorprendentemente-funciona-1284794'>Dale la vuelta al ventilador, el truco viral para dormir en las noches de calor que sorprendentemente funciona</a></h4>
-    <a href='https://computerhoy.com/life/truco-ventilador-dormir-noches-calor-sorprendentemente-funciona-1284794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/no-solo-alivia-tambien-refresca-ventilador-nebulizador-solo-cuesta-74-euros-2724297.jpg?tf=1200x' alt='Dale la vuelta al ventilador, el truco viral para dormir en las noches de calor que sorprendentemente funciona' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-aprendices-magos-no-son-harry-potter-tambien-gustan-ninos-adultos-1284420'>7 películas de aprendices de magos que no son Harry Potter y también gustan a niños y adultos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-aprendices-magos-no-son-harry-potter-tambien-gustan-ninos-adultos-1284420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/casa-reloj-pared.jpg?tf=1200x' alt='7 películas de aprendices de magos que no son Harry Potter y también gustan a niños y adultos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fabrican-impresora-3d-pinza-robotica-no-necesita-electronica-funcionar-1285964'>Fabrican con una impresora 3D una pinza robótica que no necesita electrónica para funcionar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fabrican-impresora-3d-pinza-robotica-no-necesita-electronica-funcionar-1285964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fabrican-impresora-3d-pinza-robotica-ningun-tipo-electronica-3101654.jpg?tf=1200x' alt='Fabrican con una impresora 3D una pinza robótica que no necesita electrónica para funcionar' />
+    <h4><a href='https://computerhoy.com/apps/estas-son-nuevas-funciones-van-llegar-chatgpt-semana-viene-1286172'>Estas son las nuevas funciones que van a llegar a ChatGPT la semana que viene</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-nuevas-funciones-van-llegar-chatgpt-semana-viene-1286172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3078012.jpg?tf=1200x' alt='Estas son las nuevas funciones que van a llegar a ChatGPT la semana que viene' />
     </a>
 </div>
 
