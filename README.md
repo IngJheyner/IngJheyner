@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/genial-truco-japones-levantarte-siesta-lleno-energia-1286224'>El genial truco japonés para levantarte de una siesta lleno de energía</a></h4>
+    <a href='https://computerhoy.com/life/genial-truco-japones-levantarte-siesta-lleno-energia-1286224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/genial-truco-japones-levantarte-siesta-lleno-energia-3102072.jpg?tf=1200x' alt='El genial truco japonés para levantarte de una siesta lleno de energía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/nokia-estrena-nuevos-moviles-teclado-nokia-130-nokia-150-2023-1286220'>Nokia vuelve a sus raíces y estrena nuevos móviles con teclado</a></h4>
+    <a href='https://computerhoy.com/moviles/nokia-estrena-nuevos-moviles-teclado-nokia-130-nokia-150-2023-1286220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nokia-vuelve-raices-estrena-nuevos-moviles-teclado-3102066.jpg?tf=1200x' alt='Nokia vuelve a sus raíces y estrena nuevos móviles con teclado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-planchas-verticales-disponibles-ahora-ofertas-911793'>Las mejores planchas verticales que puedes comprar: ahorra tiempo y esfuerzo con ellas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-planchas-verticales-disponibles-ahora-ofertas-911793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mejores-planchas-verticales-puedes-comprar-ahorra-tiempo-esfuerzo-ellas-3102052.jpg?tf=1200x' alt='Las mejores planchas verticales que puedes comprar: ahorra tiempo y esfuerzo con ellas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/bombillas-inteligentes'>Bombillas inteligentes: tipos, compatibilidad, potencia y todo lo que debes saber antes de comprar</a></h4>
     <a href='https://computerhoy.com/guia-compra/bombillas-inteligentes' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/philips-hue-white-and-color-2659101.jpg?tf=1200x' alt='Bombillas inteligentes: tipos, compatibilidad, potencia y todo lo que debes saber antes de comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/razon-jamas-deberias-pulsar-boton-telefono-despertar-manana-1286196'>La razón por la que jamás deberías pulsar este botón de tu móvil al despertar por la mañana</a></h4>
-    <a href='https://computerhoy.com/life/razon-jamas-deberias-pulsar-boton-telefono-despertar-manana-1286196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/alarma-movil-3102040.jpg?tf=1200x' alt='La razón por la que jamás deberías pulsar este botón de tu móvil al despertar por la mañana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/reino-unido-teme-caballo-troya-china-coches-electricos-1286190'>Reino Unido teme un Caballo de Troya de China con sus coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/motor/reino-unido-teme-caballo-troya-china-coches-electricos-1286190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/coche-electrico-2953096.jpg?tf=1200x' alt='Reino Unido teme un Caballo de Troya de China con sus coches eléctricos' />
     </a>
 </div>
 
