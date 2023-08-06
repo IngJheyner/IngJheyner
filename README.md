@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/8-buenos-habitos-evitar-problemas-hackers-verano-1280614'>8 cosas que puedes hacer para que los ciberdelincuentes no se aprovechen de ti en vacaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/8-buenos-habitos-evitar-problemas-hackers-verano-1280614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chica-ordenador-3093368.jpg?tf=1200x' alt='8 cosas que puedes hacer para que los ciberdelincuentes no se aprovechen de ti en vacaciones' />
+    <h4><a href='https://computerhoy.com/redes/10-caracteristicas-router-wifi-deberias-estar-usando-ahora-mismo-mejorar-conexion-1280134'>Las 10 características de tu router WiFi que deberías estar usando ahora mismo para mejorar tu conexión</a></h4>
+    <a href='https://computerhoy.com/redes/10-caracteristicas-router-wifi-deberias-estar-usando-ahora-mismo-mejorar-conexion-1280134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/router-wifi-3091842.jpg?tf=1200x' alt='Las 10 características de tu router WiFi que deberías estar usando ahora mismo para mejorar tu conexión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/estos-son-nuevos-mini-rovers-nasa-dedicaran-exploracion-luna-1285966'>Estos son los nuevos mini rovers de la NASA que se dedicarán a la exploración de la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/estos-son-nuevos-mini-rovers-nasa-dedicaran-exploracion-luna-1285966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/estos-son-mini-rovers-nasa-dedicaran-exploracion-luna-3101658.jpg?tf=1200x' alt='Estos son los nuevos mini rovers de la NASA que se dedicarán a la exploración de la Luna' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/contrasenas-inteligencia-artificial-seguridad-arma-doble-cara-1280702'>Contraseñas e inteligencia artificial: un arma de doble cara que pone en peligro tu seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/contrasenas-inteligencia-artificial-seguridad-arma-doble-cara-1280702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/contrasenas-inteligencia-artificial-arma-doble-cara-pone-peligro-seguridad-3093266.jpg?tf=1200x' alt='Contraseñas e inteligencia artificial: un arma de doble cara que pone en peligro tu seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/reto-viral-bombilla-boca-hospital-1284972'>Cuidado con el absurdo reto viral de la bombilla en la boca: está enviando gente al hospital</a></h4>
-    <a href='https://computerhoy.com/life/reto-viral-bombilla-boca-hospital-1284972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cuidado-absurdo-reto-viral-bombilla-boca-enviando-gente-hospital-3099286.jpg?tf=1200x' alt='Cuidado con el absurdo reto viral de la bombilla en la boca: está enviando gente al hospital' />
+    <h4><a href='https://computerhoy.com/tecnologia/crm-customer-relationship-management-1272346'>¿Qué es CRM ('Customer Relationship Management') y cuáles son sus beneficios para las empresas?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crm-customer-relationship-management-1272346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1691152491923-3101088.jpg?tf=1200x' alt='¿Qué es CRM ('Customer Relationship Management') y cuáles son sus beneficios para las empresas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nuevo-sorprendente-restaurante-disenado-inteligencia-artificial-australia-1285958'>Este es el nuevo y sorprendente restaurante diseñado con inteligencia artificial en Australia</a></h4>
-    <a href='https://computerhoy.com/life/nuevo-sorprendente-restaurante-disenado-inteligencia-artificial-australia-1285958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/luminary-3101650.jpg?tf=1200x' alt='Este es el nuevo y sorprendente restaurante diseñado con inteligencia artificial en Australia' />
+    <h4><a href='https://computerhoy.com/life/truco-ventilador-dormir-noches-calor-sorprendentemente-funciona-1284794'>Dale la vuelta al ventilador, el truco viral para dormir en las noches de calor que sorprendentemente funciona</a></h4>
+    <a href='https://computerhoy.com/life/truco-ventilador-dormir-noches-calor-sorprendentemente-funciona-1284794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/no-solo-alivia-tambien-refresca-ventilador-nebulizador-solo-cuesta-74-euros-2724297.jpg?tf=1200x' alt='Dale la vuelta al ventilador, el truco viral para dormir en las noches de calor que sorprendentemente funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/microfonos-streaming-podcast-mejores-1285960'>Comprar un micrófono para streaming y pódcast: en qué fijarte y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/audio/microfonos-streaming-podcast-mejores-1285960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/comprar-microfono-streaming-podcast-fijarte-cuales-son-mejores-3101610.jpg?tf=1200x' alt='Comprar un micrófono para streaming y pódcast: en qué fijarte y cuáles son los mejores' />
+    <h4><a href='https://computerhoy.com/tecnologia/fabrican-impresora-3d-pinza-robotica-no-necesita-electronica-funcionar-1285964'>Fabrican con una impresora 3D una pinza robótica que no necesita electrónica para funcionar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fabrican-impresora-3d-pinza-robotica-no-necesita-electronica-funcionar-1285964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fabrican-impresora-3d-pinza-robotica-ningun-tipo-electronica-3101654.jpg?tf=1200x' alt='Fabrican con una impresora 3D una pinza robótica que no necesita electrónica para funcionar' />
     </a>
 </div>
 
