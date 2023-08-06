@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/8-buenos-habitos-evitar-problemas-hackers-verano-1280614'>8 cosas que puedes hacer para que los ciberdelincuentes no se aprovechen de ti en vacaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/8-buenos-habitos-evitar-problemas-hackers-verano-1280614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chica-ordenador-3093368.jpg?tf=1200x' alt='8 cosas que puedes hacer para que los ciberdelincuentes no se aprovechen de ti en vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/estos-son-nuevos-mini-rovers-nasa-dedicaran-exploracion-luna-1285966'>Estos son los nuevos mini rovers de la NASA que se dedicarán a la exploración de la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/estos-son-nuevos-mini-rovers-nasa-dedicaran-exploracion-luna-1285966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/estos-son-mini-rovers-nasa-dedicaran-exploracion-luna-3101658.jpg?tf=1200x' alt='Estos son los nuevos mini rovers de la NASA que se dedicarán a la exploración de la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/reto-viral-bombilla-boca-hospital-1284972'>Cuidado con el absurdo reto viral de la bombilla en la boca: está enviando gente al hospital</a></h4>
+    <a href='https://computerhoy.com/life/reto-viral-bombilla-boca-hospital-1284972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cuidado-absurdo-reto-viral-bombilla-boca-enviando-gente-hospital-3099286.jpg?tf=1200x' alt='Cuidado con el absurdo reto viral de la bombilla en la boca: está enviando gente al hospital' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/nuevo-sorprendente-restaurante-disenado-inteligencia-artificial-australia-1285958'>Este es el nuevo y sorprendente restaurante diseñado con inteligencia artificial en Australia</a></h4>
     <a href='https://computerhoy.com/life/nuevo-sorprendente-restaurante-disenado-inteligencia-artificial-australia-1285958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/luminary-3101650.jpg?tf=1200x' alt='Este es el nuevo y sorprendente restaurante diseñado con inteligencia artificial en Australia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/microfonos-streaming-podcast-mejores-1285960'>Comprar un micrófono para streaming y pódcast: en qué fijarte y cuáles son los mejores</a></h4>
     <a href='https://computerhoy.com/audio/microfonos-streaming-podcast-mejores-1285960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/comprar-microfono-streaming-podcast-fijarte-cuales-son-mejores-3101610.jpg?tf=1200x' alt='Comprar un micrófono para streaming y pódcast: en qué fijarte y cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/facil-sera-escanear-codigos-qr-telefono-android-nueva-funcionalidad-1285954'>Así de fácil será escanear códigos QR en tu teléfono Android con esta nueva funcionalidad</a></h4>
-    <a href='https://computerhoy.com/android/facil-sera-escanear-codigos-qr-telefono-android-nueva-funcionalidad-1285954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/escanear-codigo-qr-3101648.jpg?tf=1200x' alt='Así de fácil será escanear códigos QR en tu teléfono Android con esta nueva funcionalidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-tablets-android-2023-xiaomi-tiene-mejor-relacion-calidad-precio-rebajada-1285532'>Esta es una de las mejores tablets Android de 2023: es de Xiaomi, tiene la mejor relación calidad-precio y está rebajada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-tablets-android-2023-xiaomi-tiene-mejor-relacion-calidad-precio-rebajada-1285532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-pad-6-3082046.jpg?tf=1200x' alt='Esta es una de las mejores tablets Android de 2023: es de Xiaomi, tiene la mejor relación calidad-precio y está rebajada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-llegara-2024-sera-retrocompatible-juegos-switch-actual-1285940'>Nintendo Switch 2 llegará en 2024: ¿será retrocompatible con los juegos de la Switch actual?</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-2-llegara-2024-sera-retrocompatible-juegos-switch-actual-1285940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cartucho-juego-nintendo-switch-3076976.jpg?tf=1200x' alt='Nintendo Switch 2 llegará en 2024: ¿será retrocompatible con los juegos de la Switch actual?' />
     </a>
 </div>
 
