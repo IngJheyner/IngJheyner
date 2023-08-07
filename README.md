@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/microondas-mejoran-paneles-solares-menos-desperdicio-mayor-eficiencia-1286398'>Los microondas mejoran la producción de paneles solares: menos desperdicio, mayor eficiencia</a></h4>
+    <a href='https://computerhoy.com/energia/microondas-mejoran-paneles-solares-menos-desperdicio-mayor-eficiencia-1286398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/microondas-mejoran-produccion-paneles-solares-menos-desperdicio-mayor-eficiencia-3102298.jpg?tf=1200x' alt='Los microondas mejoran la producción de paneles solares: menos desperdicio, mayor eficiencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/lg-gram-superslim-analisis-opinion-rey-ligereza-movilidad-1281166'>LG Gram SuperSlim, análisis y opinión: el nuevo rey de la ligereza y movilidad</a></h4>
     <a href='https://computerhoy.com/analisis/lg-gram-superslim-analisis-opinion-rey-ligereza-movilidad-1281166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lg-gram-superslim-3094600.jpg?tf=1200x' alt='LG Gram SuperSlim, análisis y opinión: el nuevo rey de la ligereza y movilidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/inteligencia-artificial--contrasenas-escucha-mientras-tecleas-1286226'>Una IA acierta el 95% de las contraseñas con solo escuchar mientras tecleas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/inteligencia-artificial--contrasenas-escucha-mientras-tecleas-1286226' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ia-acierta-95-contrasenas-solo-escuchar-mientras-teclea-3102080.jpg?tf=1200x' alt='Una IA acierta el 95% de las contraseñas con solo escuchar mientras tecleas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/genial-truco-japones-levantarte-siesta-lleno-energia-1286224'>El genial truco japonés para levantarte de una siesta lleno de energía</a></h4>
-    <a href='https://computerhoy.com/life/genial-truco-japones-levantarte-siesta-lleno-energia-1286224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/genial-truco-japones-levantarte-siesta-lleno-energia-3102072.jpg?tf=1200x' alt='El genial truco japonés para levantarte de una siesta lleno de energía' />
     </a>
 </div>
 
