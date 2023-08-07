@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/consejos-stephen-hawking-sonar-grande-vivir-mejor-vida-1285606'>Los consejos de Stephen Hawking para soñar en grande, vivir tu mejor vida y ser mejor persona</a></h4>
+    <a href='https://computerhoy.com/life/consejos-stephen-hawking-sonar-grande-vivir-mejor-vida-1285606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/stephen-hawking-universo-3101258.jpg?tf=1200x' alt='Los consejos de Stephen Hawking para soñar en grande, vivir tu mejor vida y ser mejor persona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tienes-conexion-wifi-pero-no-internet-puedes-hacer-1242478'>Tienes conexión al WiFi, pero no Internet: ¿qué puedes hacer?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tienes-conexion-wifi-pero-no-internet-puedes-hacer-1242478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2990442.jpg?tf=1200x' alt='Tienes conexión al WiFi, pero no Internet: ¿qué puedes hacer?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-detectar-evitar-enlaces-whatsapp-maliciosos-1286562'>Cómo detectar y evitar los enlaces de WhatsApp maliciosos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-detectar-evitar-enlaces-whatsapp-maliciosos-1286562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/whatsapp-3050682.jpg?tf=1200x' alt='Cómo detectar y evitar los enlaces de WhatsApp maliciosos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-juegos-android-auto-jugar-pantalla-coche-1285644'>Cómo instalar cientos de juegos en Android Auto para jugar en la pantalla del coche</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-juegos-android-auto-jugar-pantalla-coche-1285644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-instalar-juegos-android-auto-3101310.jpg?tf=1200x' alt='Cómo instalar cientos de juegos en Android Auto para jugar en la pantalla del coche' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/significado-mordisco-logo-apple-historia-no-conocias-1286560'>El significado del mordisco en el logo de Apple: la historia que no conocías</a></h4>
     <a href='https://computerhoy.com/apple/significado-mordisco-logo-apple-historia-no-conocias-1286560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/logo-apple-3086410.jpg?tf=1200x' alt='El significado del mordisco en el logo de Apple: la historia que no conocías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-recortar-rotar-editar-videos-android-google-fotos-1285144'>Cómo recortar, rotar y editar vídeos en Android con Google Fotos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-recortar-rotar-editar-videos-android-google-fotos-1285144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/editar-video-smartphones-2991636.jpg?tf=1200x' alt='Cómo recortar, rotar y editar vídeos en Android con Google Fotos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/instagram-quiere-acabar-spam-mensajes-directos-1286522'>Instagram quiere acabar con el spam en los mensajes directos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/instagram-quiere-acabar-spam-mensajes-directos-1286522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/instagram-3022000.jpg?tf=1200x' alt='Instagram quiere acabar con el spam en los mensajes directos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/funcion-alexa-te-dira-alguien-ha-entrado-casa-1286484'>Esta función de Alexa te permite saber si alguien ha entrado en tu casa</a></h4>
-    <a href='https://computerhoy.com/hogar/funcion-alexa-te-dira-alguien-ha-entrado-casa-1286484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funcion-alexa-te-permite-saber-alguien-ha-entrado-casa-3102448.jpg?tf=1200x' alt='Esta función de Alexa te permite saber si alguien ha entrado en tu casa' />
     </a>
 </div>
 
