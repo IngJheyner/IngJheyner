@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-juegos-android-auto-jugar-pantalla-coche-1285644'>Cómo instalar cientos de juegos en Android Auto para jugar en la pantalla del coche</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-juegos-android-auto-jugar-pantalla-coche-1285644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-instalar-juegos-android-auto-3101310.jpg?tf=1200x' alt='Cómo instalar cientos de juegos en Android Auto para jugar en la pantalla del coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/significado-mordisco-logo-apple-historia-no-conocias-1286560'>El significado del mordisco en el logo de Apple: la historia que no conocías</a></h4>
+    <a href='https://computerhoy.com/apple/significado-mordisco-logo-apple-historia-no-conocias-1286560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/logo-apple-3086410.jpg?tf=1200x' alt='El significado del mordisco en el logo de Apple: la historia que no conocías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-recortar-rotar-editar-videos-android-google-fotos-1285144'>Cómo recortar, rotar y editar vídeos en Android con Google Fotos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-recortar-rotar-editar-videos-android-google-fotos-1285144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/editar-video-smartphones-2991636.jpg?tf=1200x' alt='Cómo recortar, rotar y editar vídeos en Android con Google Fotos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/instagram-quiere-acabar-spam-mensajes-directos-1286522'>Instagram quiere acabar con el spam en los mensajes directos</a></h4>
     <a href='https://computerhoy.com/tecnologia/instagram-quiere-acabar-spam-mensajes-directos-1286522' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/instagram-3022000.jpg?tf=1200x' alt='Instagram quiere acabar con el spam en los mensajes directos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/funcion-alexa-te-dira-alguien-ha-entrado-casa-1286484'>Esta función de Alexa te permite saber si alguien ha entrado en tu casa</a></h4>
     <a href='https://computerhoy.com/hogar/funcion-alexa-te-dira-alguien-ha-entrado-casa-1286484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funcion-alexa-te-permite-saber-alguien-ha-entrado-casa-3102448.jpg?tf=1200x' alt='Esta función de Alexa te permite saber si alguien ha entrado en tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/honor-x6a-pad-x9-movil-camara-50-megapixeles-tablet-pantalla-115-pulgadas-1286508'>Honor X6a y Pad X9: un móvil con cámara de 50 megapíxeles y una tablet con pantalla de 11,5 pulgadas</a></h4>
-    <a href='https://computerhoy.com/moviles/honor-x6a-pad-x9-movil-camara-50-megapixeles-tablet-pantalla-115-pulgadas-1286508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/honor-x6a-pad-x9-movil-camara-50-megapixeles-tablet-pantalla-115-pulgadas-3102482.jpg?tf=1200x' alt='Honor X6a y Pad X9: un móvil con cámara de 50 megapíxeles y una tablet con pantalla de 11,5 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ataque-pass-cookie-como-proteger-datos-privados-1286454'>¿Qué es un ataque 'Pass-the-Cookie'? Descubre cómo protegerte y poner a salvo tus datos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ataque-pass-cookie-como-proteger-datos-privados-1286454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ataque-pass-cookie-descubre-como-protegerte-poner-salvo-datos-3102414.jpg?tf=1200x' alt='¿Qué es un ataque 'Pass-the-Cookie'? Descubre cómo protegerte y poner a salvo tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/por-que-usar-vpn-movil-ordenador-1118455'>Qué es una VPN, para qué sirve y por qué deberías usar una ya</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/por-que-usar-vpn-movil-ordenador-1118455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/persona-trabajando-portatil-cafeteria-2423435.jpg?tf=1200x' alt='Qué es una VPN, para qué sirve y por qué deberías usar una ya' />
     </a>
 </div>
 
