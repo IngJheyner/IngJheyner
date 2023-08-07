@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/consejos-stephen-hawking-sonar-grande-vivir-mejor-vida-1285606'>Los consejos de Stephen Hawking para soñar en grande, vivir tu mejor vida y ser mejor persona</a></h4>
-    <a href='https://computerhoy.com/life/consejos-stephen-hawking-sonar-grande-vivir-mejor-vida-1285606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/stephen-hawking-universo-3101258.jpg?tf=1200x' alt='Los consejos de Stephen Hawking para soñar en grande, vivir tu mejor vida y ser mejor persona' />
+    <h4><a href='https://computerhoy.com/apps/elon-musk-quiere-twitter-x-cuente-capacidades-busqueda-semantica-basada-ia-consiste-1286690'>Elon Musk quiere que Twitter (X) cuente con capacidades de búsqueda semántica basada en IA, y en esto consiste</a></h4>
+    <a href='https://computerhoy.com/apps/elon-musk-quiere-twitter-x-cuente-capacidades-busqueda-semantica-basada-ia-consiste-1286690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg?tf=1200x' alt='Elon Musk quiere que Twitter (X) cuente con capacidades de búsqueda semántica basada en IA, y en esto consiste' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tienes-conexion-wifi-pero-no-internet-puedes-hacer-1242478'>Tienes conexión al WiFi, pero no Internet: ¿qué puedes hacer?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tienes-conexion-wifi-pero-no-internet-puedes-hacer-1242478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2990442.jpg?tf=1200x' alt='Tienes conexión al WiFi, pero no Internet: ¿qué puedes hacer?' />
+    <h4><a href='https://computerhoy.com/life/cancer-expropiacion-realidad-no-cuenta-pelicula-oppenheimer-1286692'>La realidad de Oppenheimer que no te cuentan en la película: los niveles de radiación alcanzaban grados “casi 10.000 veces superiores" a los permitidos</a></h4>
+    <a href='https://computerhoy.com/life/cancer-expropiacion-realidad-no-cuenta-pelicula-oppenheimer-1286692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/hace-75-anos-exploto-primera-bomba-atomica-mundo-cambio-siempre-2002547.jpg?tf=1200x' alt='La realidad de Oppenheimer que no te cuentan en la película: los niveles de radiación alcanzaban grados “casi 10.000 veces superiores" a los permitidos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-detectar-evitar-enlaces-whatsapp-maliciosos-1286562'>Cómo detectar y evitar los enlaces de WhatsApp maliciosos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-detectar-evitar-enlaces-whatsapp-maliciosos-1286562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/whatsapp-3050682.jpg?tf=1200x' alt='Cómo detectar y evitar los enlaces de WhatsApp maliciosos' />
+    <h4><a href='https://computerhoy.com/tecnologia/edge-quiere-tomar-capturas-pantalla-cada-web-visites-puedes-evitarlo-1286684'>Edge quiere tomar capturas de pantalla de cada web que visites y así puedes evitarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/edge-quiere-tomar-capturas-pantalla-cada-web-visites-puedes-evitarlo-1286684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-edge-2546799.jpg?tf=1200x' alt='Edge quiere tomar capturas de pantalla de cada web que visites y así puedes evitarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-juegos-android-auto-jugar-pantalla-coche-1285644'>Cómo instalar cientos de juegos en Android Auto para jugar en la pantalla del coche</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-juegos-android-auto-jugar-pantalla-coche-1285644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-instalar-juegos-android-auto-3101310.jpg?tf=1200x' alt='Cómo instalar cientos de juegos en Android Auto para jugar en la pantalla del coche' />
+    <h4><a href='https://computerhoy.com/tecnologia/fujitsu-dejara-vender-ordenadores-europa-partir-2024-1286644'>Fujitsu dejará de vender ordenadores en Europa: ¿Qué impacto tendrá en los consumidores?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fujitsu-dejara-vender-ordenadores-europa-partir-2024-1286644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/logotipo-fujitsu-3102964.jpg?tf=1200x' alt='Fujitsu dejará de vender ordenadores en Europa: ¿Qué impacto tendrá en los consumidores?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/significado-mordisco-logo-apple-historia-no-conocias-1286560'>El significado del mordisco en el logo de Apple: la historia que no conocías</a></h4>
-    <a href='https://computerhoy.com/apple/significado-mordisco-logo-apple-historia-no-conocias-1286560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/logo-apple-3086410.jpg?tf=1200x' alt='El significado del mordisco en el logo de Apple: la historia que no conocías' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-corregir-error-windows-no-pudo-completar-formato-windows-11-1282144'>Cómo corregir el error "Windows no pudo completar el formato" en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-corregir-error-windows-no-pudo-completar-formato-windows-11-1282144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/biblia-windows-11-resolvemos-todas-dudas-sustituto-windows-10-2401109.jpg?tf=1200x' alt='Cómo corregir el error "Windows no pudo completar el formato" en Windows 11' />
     </a>
 </div>
 
