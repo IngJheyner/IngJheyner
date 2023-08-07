@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/microondas-mejoran-paneles-solares-menos-desperdicio-mayor-eficiencia-1286398'>Los microondas mejoran la producción de paneles solares: menos desperdicio, mayor eficiencia</a></h4>
-    <a href='https://computerhoy.com/energia/microondas-mejoran-paneles-solares-menos-desperdicio-mayor-eficiencia-1286398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/microondas-mejoran-produccion-paneles-solares-menos-desperdicio-mayor-eficiencia-3102298.jpg?tf=1200x' alt='Los microondas mejoran la producción de paneles solares: menos desperdicio, mayor eficiencia' />
+    <h4><a href='https://computerhoy.com/moviles/honor-x6a-pad-x9-movil-camara-50-megapixeles-tablet-pantalla-115-pulgadas-1286508'>Honor X6a y Pad X9: un móvil con cámara de 50 megapíxeles y una tablet con pantalla de 11,5 pulgadas</a></h4>
+    <a href='https://computerhoy.com/moviles/honor-x6a-pad-x9-movil-camara-50-megapixeles-tablet-pantalla-115-pulgadas-1286508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/honor-x6a-pad-x9-movil-camara-50-megapixeles-tablet-pantalla-115-pulgadas-3102482.jpg?tf=1200x' alt='Honor X6a y Pad X9: un móvil con cámara de 50 megapíxeles y una tablet con pantalla de 11,5 pulgadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/lg-gram-superslim-analisis-opinion-rey-ligereza-movilidad-1281166'>LG Gram SuperSlim, análisis y opinión: el nuevo rey de la ligereza y movilidad</a></h4>
-    <a href='https://computerhoy.com/analisis/lg-gram-superslim-analisis-opinion-rey-ligereza-movilidad-1281166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lg-gram-superslim-3094600.jpg?tf=1200x' alt='LG Gram SuperSlim, análisis y opinión: el nuevo rey de la ligereza y movilidad' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ataque-pass-cookie-como-proteger-datos-privados-1286454'>¿Qué es un ataque 'Pass-the-Cookie'? Descubre cómo protegerte y poner a salvo tus datos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ataque-pass-cookie-como-proteger-datos-privados-1286454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ataque-pass-cookie-descubre-como-protegerte-poner-salvo-datos-3102414.jpg?tf=1200x' alt='¿Qué es un ataque 'Pass-the-Cookie'? Descubre cómo protegerte y poner a salvo tus datos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/origen-presente-futuro-smartphones-plegables-samsung-1264416'>Origen, presente y futuro de los smartphones plegables Samsung: 8 años de I+D antes de lanzar su primer Fold</a></h4>
-    <a href='https://computerhoy.com/moviles/origen-presente-futuro-smartphones-plegables-samsung-1264416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-z-fold-5-3089684.jpg?tf=1200x' alt='Origen, presente y futuro de los smartphones plegables Samsung: 8 años de I+D antes de lanzar su primer Fold' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/por-que-usar-vpn-movil-ordenador-1118455'>Qué es una VPN, para qué sirve y por qué deberías usar una ya</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/por-que-usar-vpn-movil-ordenador-1118455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/persona-trabajando-portatil-cafeteria-2423435.jpg?tf=1200x' alt='Qué es una VPN, para qué sirve y por qué deberías usar una ya' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/criptoinvierno-continua-transacciones-coinbase-han-caido-1286228'>El criptoinvierno continúa en pleno verano: las transacciones en Coinbase han caído un 70%</a></h4>
-    <a href='https://computerhoy.com/criptos/criptoinvierno-continua-transacciones-coinbase-han-caido-1286228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/criptoinvierno-continua-pleno-verano-transacciones-coinbase-han-caido-70-3102090.jpg?tf=1200x' alt='El criptoinvierno continúa en pleno verano: las transacciones en Coinbase han caído un 70%' />
+    <h4><a href='https://computerhoy.com/tecnologia/descubre-mapa-opiniones-barrio-vives-1286460'>Descubre con este mapa las opiniones del barrio en el que vives</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descubre-mapa-opiniones-barrio-vives-1286460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/descubre-mapa-opiniones-barrio-vives-3102420.jpg?tf=1200x' alt='Descubre con este mapa las opiniones del barrio en el que vives' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/inteligencia-artificial--contrasenas-escucha-mientras-tecleas-1286226'>Una IA acierta el 95% de las contraseñas con solo escuchar mientras tecleas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/inteligencia-artificial--contrasenas-escucha-mientras-tecleas-1286226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ia-acierta-95-contrasenas-solo-escuchar-mientras-teclea-3102080.jpg?tf=1200x' alt='Una IA acierta el 95% de las contraseñas con solo escuchar mientras tecleas' />
+    <h4><a href='https://computerhoy.com/moviles/carga-inalambrica-larga-distancia-movil-punto-hacerse-realidad-1286472'>La carga inalámbrica a larga distancia para tu móvil está a punto de hacerse realidad</a></h4>
+    <a href='https://computerhoy.com/moviles/carga-inalambrica-larga-distancia-movil-punto-hacerse-realidad-1286472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/carga-inalambrica-larga-distancia-movil-punto-hacerse-realidad-3102432.jpg?tf=1200x' alt='La carga inalámbrica a larga distancia para tu móvil está a punto de hacerse realidad' />
     </a>
 </div>
 
