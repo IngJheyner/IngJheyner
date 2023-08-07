@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/instagram-quiere-acabar-spam-mensajes-directos-1286522'>Instagram quiere acabar con el spam en los mensajes directos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/instagram-quiere-acabar-spam-mensajes-directos-1286522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/instagram-3022000.jpg?tf=1200x' alt='Instagram quiere acabar con el spam en los mensajes directos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/funcion-alexa-te-dira-alguien-ha-entrado-casa-1286484'>Esta función de Alexa te permite saber si alguien ha entrado en tu casa</a></h4>
+    <a href='https://computerhoy.com/hogar/funcion-alexa-te-dira-alguien-ha-entrado-casa-1286484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funcion-alexa-te-permite-saber-alguien-ha-entrado-casa-3102448.jpg?tf=1200x' alt='Esta función de Alexa te permite saber si alguien ha entrado en tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/honor-x6a-pad-x9-movil-camara-50-megapixeles-tablet-pantalla-115-pulgadas-1286508'>Honor X6a y Pad X9: un móvil con cámara de 50 megapíxeles y una tablet con pantalla de 11,5 pulgadas</a></h4>
     <a href='https://computerhoy.com/moviles/honor-x6a-pad-x9-movil-camara-50-megapixeles-tablet-pantalla-115-pulgadas-1286508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/honor-x6a-pad-x9-movil-camara-50-megapixeles-tablet-pantalla-115-pulgadas-3102482.jpg?tf=1200x' alt='Honor X6a y Pad X9: un móvil con cámara de 50 megapíxeles y una tablet con pantalla de 11,5 pulgadas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/por-que-usar-vpn-movil-ordenador-1118455'>Qué es una VPN, para qué sirve y por qué deberías usar una ya</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/por-que-usar-vpn-movil-ordenador-1118455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/persona-trabajando-portatil-cafeteria-2423435.jpg?tf=1200x' alt='Qué es una VPN, para qué sirve y por qué deberías usar una ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/descubre-mapa-opiniones-barrio-vives-1286460'>Descubre con este mapa las opiniones del barrio en el que vives</a></h4>
-    <a href='https://computerhoy.com/tecnologia/descubre-mapa-opiniones-barrio-vives-1286460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/descubre-mapa-opiniones-barrio-vives-3102420.jpg?tf=1200x' alt='Descubre con este mapa las opiniones del barrio en el que vives' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/carga-inalambrica-larga-distancia-movil-punto-hacerse-realidad-1286472'>La carga inalámbrica a larga distancia para tu móvil está a punto de hacerse realidad</a></h4>
-    <a href='https://computerhoy.com/moviles/carga-inalambrica-larga-distancia-movil-punto-hacerse-realidad-1286472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/carga-inalambrica-larga-distancia-movil-punto-hacerse-realidad-3102432.jpg?tf=1200x' alt='La carga inalámbrica a larga distancia para tu móvil está a punto de hacerse realidad' />
     </a>
 </div>
 
