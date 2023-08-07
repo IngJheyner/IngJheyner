@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elon-musk-quiere-twitter-x-cuente-capacidades-busqueda-semantica-basada-ia-consiste-1286690'>Elon Musk quiere que Twitter (X) cuente con capacidades de búsqueda semántica basada en IA, y en esto consiste</a></h4>
-    <a href='https://computerhoy.com/apps/elon-musk-quiere-twitter-x-cuente-capacidades-busqueda-semantica-basada-ia-consiste-1286690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/twitter-2747695.jpg?tf=1200x' alt='Elon Musk quiere que Twitter (X) cuente con capacidades de búsqueda semántica basada en IA, y en esto consiste' />
+    <h4><a href='https://computerhoy.com/life/bill-gates-competia-dormir-menos-nadie-oficina-1286696'>Bill Gates competía por dormir menos que nadie en la oficina y se arrepiente: “Consideraba que descansar es de perezosos”</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-competia-dormir-menos-nadie-oficina-1286696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-bebiendo-2965066.jpg?tf=1200x' alt='Bill Gates competía por dormir menos que nadie en la oficina y se arrepiente: “Consideraba que descansar es de perezosos”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cancer-expropiacion-realidad-no-cuenta-pelicula-oppenheimer-1286692'>La realidad de Oppenheimer que no te cuentan en la película: los niveles de radiación alcanzaban grados “casi 10.000 veces superiores" a los permitidos</a></h4>
-    <a href='https://computerhoy.com/life/cancer-expropiacion-realidad-no-cuenta-pelicula-oppenheimer-1286692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/hace-75-anos-exploto-primera-bomba-atomica-mundo-cambio-siempre-2002547.jpg?tf=1200x' alt='La realidad de Oppenheimer que no te cuentan en la película: los niveles de radiación alcanzaban grados “casi 10.000 veces superiores" a los permitidos' />
+    <h4><a href='https://computerhoy.com/entretenimiento/dialogos-oppenheimer-oyen-mal-echale-culpa-director-1286710'>No es tu cine: si los diálogos de Oppenheimer se oyen mal, échale la culpa a Christopher Nolan</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/dialogos-oppenheimer-oyen-mal-echale-culpa-director-1286710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/no-culpa-cine-dialogos-oppenheimer-oyen-mal-echale-culpa-christopher-nolan-3103040.jpg?tf=1200x' alt='No es tu cine: si los diálogos de Oppenheimer se oyen mal, échale la culpa a Christopher Nolan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/edge-quiere-tomar-capturas-pantalla-cada-web-visites-puedes-evitarlo-1286684'>Edge quiere tomar capturas de pantalla de cada web que visites y así puedes evitarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/edge-quiere-tomar-capturas-pantalla-cada-web-visites-puedes-evitarlo-1286684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/microsoft-edge-2546799.jpg?tf=1200x' alt='Edge quiere tomar capturas de pantalla de cada web que visites y así puedes evitarlo' />
+    <h4><a href='https://computerhoy.com/life/donde-debes-colocar-rejillas-aire-acondicionado-1286654'>¿Hacia dónde se deben colocar las rejillas del aire acondicionado?</a></h4>
+    <a href='https://computerhoy.com/life/donde-debes-colocar-rejillas-aire-acondicionado-1286654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/donde-debes-colocar-rejilla-aire-acondicionado-3102906.jpg?tf=1200x' alt='¿Hacia dónde se deben colocar las rejillas del aire acondicionado?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fujitsu-dejara-vender-ordenadores-europa-partir-2024-1286644'>Fujitsu dejará de vender ordenadores en Europa: ¿Qué impacto tendrá en los consumidores?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fujitsu-dejara-vender-ordenadores-europa-partir-2024-1286644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/logotipo-fujitsu-3102964.jpg?tf=1200x' alt='Fujitsu dejará de vender ordenadores en Europa: ¿Qué impacto tendrá en los consumidores?' />
+    <h4><a href='https://computerhoy.com/criptos/paypal-criptomoneda-paypal-usd-ethereum-1286708'>PayPal lanza su propia criptomoneda, PayPal USD, basada en Ethereum</a></h4>
+    <a href='https://computerhoy.com/criptos/paypal-criptomoneda-paypal-usd-ethereum-1286708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/paypal-lanza-propia-criptomoneda-paypal-usd-basada-ethereum-3103034.jpg?tf=1200x' alt='PayPal lanza su propia criptomoneda, PayPal USD, basada en Ethereum' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-corregir-error-windows-no-pudo-completar-formato-windows-11-1282144'>Cómo corregir el error "Windows no pudo completar el formato" en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-corregir-error-windows-no-pudo-completar-formato-windows-11-1282144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/biblia-windows-11-resolvemos-todas-dudas-sustituto-windows-10-2401109.jpg?tf=1200x' alt='Cómo corregir el error "Windows no pudo completar el formato" en Windows 11' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuando-deberias-desactivar-buscar-mi-iphone-1286682'>¿Por qué y cuando deberías desactivar: “Buscar mi iPhone? </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuando-deberias-desactivar-buscar-mi-iphone-1286682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cuando-deberias-desactivar-buscar-mi-iphone-3102984.jpg?tf=1200x' alt='¿Por qué y cuando deberías desactivar: “Buscar mi iPhone? ' />
     </a>
 </div>
 
