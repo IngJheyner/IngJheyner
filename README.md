@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/criptoinvierno-continua-transacciones-coinbase-han-caido-1286228'>El criptoinvierno continúa en pleno verano: las transacciones en Coinbase han caído un 70%</a></h4>
+    <a href='https://computerhoy.com/criptos/criptoinvierno-continua-transacciones-coinbase-han-caido-1286228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/criptoinvierno-continua-pleno-verano-transacciones-coinbase-han-caido-70-3102090.jpg?tf=1200x' alt='El criptoinvierno continúa en pleno verano: las transacciones en Coinbase han caído un 70%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/inteligencia-artificial--contrasenas-escucha-mientras-tecleas-1286226'>Una IA acierta el 95% de las contraseñas con solo escuchar mientras tecleas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/inteligencia-artificial--contrasenas-escucha-mientras-tecleas-1286226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ia-acierta-95-contrasenas-solo-escuchar-mientras-teclea-3102080.jpg?tf=1200x' alt='Una IA acierta el 95% de las contraseñas con solo escuchar mientras tecleas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/genial-truco-japones-levantarte-siesta-lleno-energia-1286224'>El genial truco japonés para levantarte de una siesta lleno de energía</a></h4>
     <a href='https://computerhoy.com/life/genial-truco-japones-levantarte-siesta-lleno-energia-1286224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/genial-truco-japones-levantarte-siesta-lleno-energia-3102072.jpg?tf=1200x' alt='El genial truco japonés para levantarte de una siesta lleno de energía' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-planchas-verticales-disponibles-ahora-ofertas-911793'>Las mejores planchas verticales que puedes comprar: ahorra tiempo y esfuerzo con ellas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-planchas-verticales-disponibles-ahora-ofertas-911793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mejores-planchas-verticales-puedes-comprar-ahorra-tiempo-esfuerzo-ellas-3102052.jpg?tf=1200x' alt='Las mejores planchas verticales que puedes comprar: ahorra tiempo y esfuerzo con ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pelea-elon-musk-mark-zuckerberg-donde-verla-directo-1286212'>La pelea entre Elon Musk y Mark Zuckerberg no está muerta: Musk revela dónde podremos verla en directo</a></h4>
-    <a href='https://computerhoy.com/life/pelea-elon-musk-mark-zuckerberg-donde-verla-directo-1286212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pelea-elon-musk-mark-zuckerberg-no-muerta-musk-revela-donde-podremos-verla-directo-3102056.jpg?tf=1200x' alt='La pelea entre Elon Musk y Mark Zuckerberg no está muerta: Musk revela dónde podremos verla en directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/bombillas-inteligentes'>Bombillas inteligentes: tipos, compatibilidad, potencia y todo lo que debes saber antes de comprar</a></h4>
-    <a href='https://computerhoy.com/guia-compra/bombillas-inteligentes' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/philips-hue-white-and-color-2659101.jpg?tf=1200x' alt='Bombillas inteligentes: tipos, compatibilidad, potencia y todo lo que debes saber antes de comprar' />
     </a>
 </div>
 
