@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/lg-gram-superslim-analisis-opinion-rey-ligereza-movilidad-1281166'>LG Gram SuperSlim, análisis y opinión: el nuevo rey de la ligereza y movilidad</a></h4>
+    <a href='https://computerhoy.com/analisis/lg-gram-superslim-analisis-opinion-rey-ligereza-movilidad-1281166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lg-gram-superslim-3094600.jpg?tf=1200x' alt='LG Gram SuperSlim, análisis y opinión: el nuevo rey de la ligereza y movilidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/origen-presente-futuro-smartphones-plegables-samsung-1264416'>Origen, presente y futuro de los smartphones plegables Samsung: 8 años de I+D antes de lanzar su primer Fold</a></h4>
+    <a href='https://computerhoy.com/moviles/origen-presente-futuro-smartphones-plegables-samsung-1264416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-z-fold-5-3089684.jpg?tf=1200x' alt='Origen, presente y futuro de los smartphones plegables Samsung: 8 años de I+D antes de lanzar su primer Fold' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/criptoinvierno-continua-transacciones-coinbase-han-caido-1286228'>El criptoinvierno continúa en pleno verano: las transacciones en Coinbase han caído un 70%</a></h4>
     <a href='https://computerhoy.com/criptos/criptoinvierno-continua-transacciones-coinbase-han-caido-1286228' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/criptoinvierno-continua-pleno-verano-transacciones-coinbase-han-caido-70-3102090.jpg?tf=1200x' alt='El criptoinvierno continúa en pleno verano: las transacciones en Coinbase han caído un 70%' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/genial-truco-japones-levantarte-siesta-lleno-energia-1286224'>El genial truco japonés para levantarte de una siesta lleno de energía</a></h4>
     <a href='https://computerhoy.com/life/genial-truco-japones-levantarte-siesta-lleno-energia-1286224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/genial-truco-japones-levantarte-siesta-lleno-energia-3102072.jpg?tf=1200x' alt='El genial truco japonés para levantarte de una siesta lleno de energía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nokia-estrena-nuevos-moviles-teclado-nokia-130-nokia-150-2023-1286220'>Nokia vuelve a sus raíces y estrena nuevos móviles con teclado</a></h4>
-    <a href='https://computerhoy.com/moviles/nokia-estrena-nuevos-moviles-teclado-nokia-130-nokia-150-2023-1286220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nokia-vuelve-raices-estrena-nuevos-moviles-teclado-3102066.jpg?tf=1200x' alt='Nokia vuelve a sus raíces y estrena nuevos móviles con teclado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-planchas-verticales-disponibles-ahora-ofertas-911793'>Las mejores planchas verticales que puedes comprar: ahorra tiempo y esfuerzo con ellas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-planchas-verticales-disponibles-ahora-ofertas-911793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mejores-planchas-verticales-puedes-comprar-ahorra-tiempo-esfuerzo-ellas-3102052.jpg?tf=1200x' alt='Las mejores planchas verticales que puedes comprar: ahorra tiempo y esfuerzo con ellas' />
     </a>
 </div>
 
