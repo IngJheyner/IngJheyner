@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejor-momento-enviar-correo-electronico-podria-convertirse-peor-pesadilla-resto-1287086'>El mejor momento para enviar un correo electrónico puede convertirse en la peor pesadilla para el resto</a></h4>
+    <a href='https://computerhoy.com/life/mejor-momento-enviar-correo-electronico-podria-convertirse-peor-pesadilla-resto-1287086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/correo-electronico-3103460.jpg?tf=1200x' alt='El mejor momento para enviar un correo electrónico puede convertirse en la peor pesadilla para el resto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/china-reconocimiento-facial-acabo-verificar-identidad-poblacion-1287002'>China contra el reconocimiento facial: se acabó verificar la identidad de la población</a></h4>
     <a href='https://computerhoy.com/tecnologia/china-reconocimiento-facial-acabo-verificar-identidad-poblacion-1287002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/reconocimiento-facial-china-3103440.jpg?tf=1200x' alt='China contra el reconocimiento facial: se acabó verificar la identidad de la población' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/multimillonario-como-elon-musk-vive-casa-prefabricada-50000-dolares-1286964'>¿Por qué un multimillonario como Elon Musk vive en una casa prefabricada de 50.000 dólares?</a></h4>
     <a href='https://computerhoy.com/hogar/multimillonario-como-elon-musk-vive-casa-prefabricada-50000-dolares-1286964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/multimillonario-como-elon-musk-vive-casa-prefabricada-50000-dolares-3103348.jpg?tf=1200x' alt='¿Por qué un multimillonario como Elon Musk vive en una casa prefabricada de 50.000 dólares?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-music-imita-spotify-ya-cuenta-opcion-descubrir-nueva-musica-1286940'>Apple Music imita a Spotify y lanza una opción para descubrir nueva música según tus gustos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-music-imita-spotify-ya-cuenta-opcion-descubrir-nueva-musica-1286940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/apple-music-web-1921191.jpg?tf=1200x' alt='Apple Music imita a Spotify y lanza una opción para descubrir nueva música según tus gustos' />
     </a>
 </div>
 
