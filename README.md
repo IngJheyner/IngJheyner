@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejor-momento-enviar-correo-electronico-podria-convertirse-peor-pesadilla-resto-1287086'>El mejor momento para enviar un correo electrónico puede convertirse en la peor pesadilla para el resto</a></h4>
-    <a href='https://computerhoy.com/life/mejor-momento-enviar-correo-electronico-podria-convertirse-peor-pesadilla-resto-1287086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/correo-electronico-3103460.jpg?tf=1200x' alt='El mejor momento para enviar un correo electrónico puede convertirse en la peor pesadilla para el resto' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-redmi-watch-3-rebajado-menos-100-euros-amazon-1287128'>El smartwatch con mejor relación calidad precio del mercado ya está disponible por menos de 100 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-redmi-watch-3-rebajado-menos-100-euros-amazon-1287128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-redmi-watch-3-active-3086632.jpg?tf=1200x' alt='El smartwatch con mejor relación calidad precio del mercado ya está disponible por menos de 100 euros en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/china-reconocimiento-facial-acabo-verificar-identidad-poblacion-1287002'>China contra el reconocimiento facial: se acabó verificar la identidad de la población</a></h4>
-    <a href='https://computerhoy.com/tecnologia/china-reconocimiento-facial-acabo-verificar-identidad-poblacion-1287002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/reconocimiento-facial-china-3103440.jpg?tf=1200x' alt='China contra el reconocimiento facial: se acabó verificar la identidad de la población' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejor-tablet-economica-estudiantes-xiaomi-rebajada-340-euros-1287126'>Ahorra 340 euros en la compra de esta tablet Xiaomi con Windows 11 y teclado incluidos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejor-tablet-economica-estudiantes-xiaomi-rebajada-340-euros-1287126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-xiaomi-book-s-2814821.jpg?tf=1200x' alt='Ahorra 340 euros en la compra de esta tablet Xiaomi con Windows 11 y teclado incluidos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/superconductor-lk-99-habla-santo-grial-fisica-1286970'>¿Qué es el superconductor LK-99 y por qué se habla del Santo Grial de la física?</a></h4>
-    <a href='https://computerhoy.com/energia/superconductor-lk-99-habla-santo-grial-fisica-1286970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/superconductor-lk-99-3103376.jpg?tf=1200x' alt='¿Qué es el superconductor LK-99 y por qué se habla del Santo Grial de la física?' />
+    <h4><a href='https://computerhoy.com/google/google-eliminara-millones-cuentas-inactivas-hace-dos-anos-puedes-reactivarla-1287084'>Google eliminará millones de cuentas inactivas desde hace dos años: así puedes reactivarla</a></h4>
+    <a href='https://computerhoy.com/google/google-eliminara-millones-cuentas-inactivas-hace-dos-anos-puedes-reactivarla-1287084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-cuenta-3103656.jpg?tf=1200x' alt='Google eliminará millones de cuentas inactivas desde hace dos años: así puedes reactivarla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/samsung-galaxy-m23-5g-rebajado-mitad-precio-solo-170-euros-1286986'>El Samsung Galaxy M23 5G está rebajado en Amazon a la mitad de precio por sólo 170 euros</a></h4>
-    <a href='https://computerhoy.com/android/samsung-galaxy-m23-5g-rebajado-mitad-precio-solo-170-euros-1286986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-m23-2818675.jpg?tf=1200x' alt='El Samsung Galaxy M23 5G está rebajado en Amazon a la mitad de precio por sólo 170 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/openai-lia-nueva-herramienta-accedera-como-pedro-casa-contenido-internet-1287044'>OpenAI la lía con su nueva herramienta y accederá 'como Pedro por su casa' al contenido de Internet</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-lia-nueva-herramienta-accedera-como-pedro-casa-contenido-internet-1287044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/openai-internet-3103546.jpg?tf=1200x' alt='OpenAI la lía con su nueva herramienta y accederá 'como Pedro por su casa' al contenido de Internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/multimillonario-como-elon-musk-vive-casa-prefabricada-50000-dolares-1286964'>¿Por qué un multimillonario como Elon Musk vive en una casa prefabricada de 50.000 dólares?</a></h4>
-    <a href='https://computerhoy.com/hogar/multimillonario-como-elon-musk-vive-casa-prefabricada-50000-dolares-1286964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/multimillonario-como-elon-musk-vive-casa-prefabricada-50000-dolares-3103348.jpg?tf=1200x' alt='¿Por qué un multimillonario como Elon Musk vive en una casa prefabricada de 50.000 dólares?' />
+    <h4><a href='https://computerhoy.com/mejores/escritorios-elevables-baratos-1167934'>Mejores escritorios elevables baratos: modelos que merecen la pena</a></h4>
+    <a href='https://computerhoy.com/mejores/escritorios-elevables-baratos-1167934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-movian-3103688.jpg?tf=1200x' alt='Mejores escritorios elevables baratos: modelos que merecen la pena' />
     </a>
 </div>
 
