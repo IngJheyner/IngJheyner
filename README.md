@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/alla-facil-rapido-lado-oscuro-freidoras-aire-1239118'>Más allá de lo fácil y rápido: el lado oscuro de las freidoras de aire</a></h4>
+    <a href='https://computerhoy.com/life/alla-facil-rapido-lado-oscuro-freidoras-aire-1239118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/freidora-aire-3009478.jpg?tf=1200x' alt='Más allá de lo fácil y rápido: el lado oscuro de las freidoras de aire' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/bill-gates-competia-dormir-menos-nadie-oficina-1286696'>Bill Gates competía por dormir menos que nadie en la oficina y se arrepiente: “Consideraba que descansar es de perezosos”</a></h4>
     <a href='https://computerhoy.com/life/bill-gates-competia-dormir-menos-nadie-oficina-1286696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-bebiendo-2965066.jpg?tf=1200x' alt='Bill Gates competía por dormir menos que nadie en la oficina y se arrepiente: “Consideraba que descansar es de perezosos”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/paypal-criptomoneda-paypal-usd-ethereum-1286708'>PayPal lanza su propia criptomoneda, PayPal USD, basada en Ethereum</a></h4>
     <a href='https://computerhoy.com/criptos/paypal-criptomoneda-paypal-usd-ethereum-1286708' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/paypal-lanza-propia-criptomoneda-paypal-usd-basada-ethereum-3103034.jpg?tf=1200x' alt='PayPal lanza su propia criptomoneda, PayPal USD, basada en Ethereum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuando-deberias-desactivar-buscar-mi-iphone-1286682'>¿Por qué y cuando deberías desactivar: “Buscar mi iPhone? </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuando-deberias-desactivar-buscar-mi-iphone-1286682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cuando-deberias-desactivar-buscar-mi-iphone-3102984.jpg?tf=1200x' alt='¿Por qué y cuando deberías desactivar: “Buscar mi iPhone? ' />
     </a>
 </div>
 
