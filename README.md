@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-redmi-watch-3-rebajado-menos-100-euros-amazon-1287128'>El smartwatch con mejor relación calidad precio del mercado ya está disponible por menos de 100 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-redmi-watch-3-rebajado-menos-100-euros-amazon-1287128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-redmi-watch-3-active-3086632.jpg?tf=1200x' alt='El smartwatch con mejor relación calidad precio del mercado ya está disponible por menos de 100 euros en Amazon' />
+    <h4><a href='https://computerhoy.com/ciencia/calavera-prehistorica-podria-cambiar-evolucion-humana-1287208'>Encuentra en China una calavera de hace 300.000 años con una forma nunca vista, podría reescribir la evolución humana</a></h4>
+    <a href='https://computerhoy.com/ciencia/calavera-prehistorica-podria-cambiar-evolucion-humana-1287208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/encuentra-china-calavera-hace-300000-anos-forma-nunca-vista-podria-reescribir-evolucion-humana-3103720.jpg?tf=1200x' alt='Encuentra en China una calavera de hace 300.000 años con una forma nunca vista, podría reescribir la evolución humana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejor-tablet-economica-estudiantes-xiaomi-rebajada-340-euros-1287126'>Ahorra 340 euros en la compra de esta tablet Xiaomi con Windows 11 y teclado incluidos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejor-tablet-economica-estudiantes-xiaomi-rebajada-340-euros-1287126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-xiaomi-book-s-2814821.jpg?tf=1200x' alt='Ahorra 340 euros en la compra de esta tablet Xiaomi con Windows 11 y teclado incluidos' />
+    <h4><a href='https://computerhoy.com/windows/como-usar-stagingtool-herramienta-oficial-funciones-ocultas-windows-11-1287162'>Así puedes usar StagingTool: la herramienta de Microsoft para activar funciones ocultas en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/como-usar-stagingtool-herramienta-oficial-funciones-ocultas-windows-11-1287162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003502.jpg?tf=1200x' alt='Así puedes usar StagingTool: la herramienta de Microsoft para activar funciones ocultas en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-eliminara-millones-cuentas-inactivas-hace-dos-anos-puedes-reactivarla-1287084'>Google eliminará millones de cuentas inactivas desde hace dos años: así puedes reactivarla</a></h4>
-    <a href='https://computerhoy.com/google/google-eliminara-millones-cuentas-inactivas-hace-dos-anos-puedes-reactivarla-1287084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-cuenta-3103656.jpg?tf=1200x' alt='Google eliminará millones de cuentas inactivas desde hace dos años: así puedes reactivarla' />
+    <h4><a href='https://computerhoy.com/life/aprende-ingles-gratis-online-cursos-union-europea-1287182'>La Unión Europea ofrece cursos de los 29 idiomas oficiales gratuitos y online</a></h4>
+    <a href='https://computerhoy.com/life/aprende-ingles-gratis-online-cursos-union-europea-1287182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/union-europea-lanza-cursos-29-idiomas-oficiales-gratuitos-online-3103846.jpg?tf=1200x' alt='La Unión Europea ofrece cursos de los 29 idiomas oficiales gratuitos y online' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-lia-nueva-herramienta-accedera-como-pedro-casa-contenido-internet-1287044'>OpenAI la lía con su nueva herramienta y accederá 'como Pedro por su casa' al contenido de Internet</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-lia-nueva-herramienta-accedera-como-pedro-casa-contenido-internet-1287044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/openai-internet-3103546.jpg?tf=1200x' alt='OpenAI la lía con su nueva herramienta y accederá 'como Pedro por su casa' al contenido de Internet' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuando-sale-ios-17-como-instalarlo-iphone-1285074'>Cuándo sale iOS 17 y cómo instalarlo en tu iPhone </a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuando-sale-ios-17-como-instalarlo-iphone-1285074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-ios-17-3051698.jpg?tf=1200x' alt='Cuándo sale iOS 17 y cómo instalarlo en tu iPhone ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/escritorios-elevables-baratos-1167934'>Mejores escritorios elevables baratos: modelos que merecen la pena</a></h4>
-    <a href='https://computerhoy.com/mejores/escritorios-elevables-baratos-1167934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-movian-3103688.jpg?tf=1200x' alt='Mejores escritorios elevables baratos: modelos que merecen la pena' />
+    <h4><a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-compartir-pantalla-durante-videollamada-1287160'>Nueva función en WhatsApp: compartir pantalla durante videollamada</a></h4>
+    <a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-compartir-pantalla-durante-videollamada-1287160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nueva-funcion-whatsapp-compartir-pantalla-durante-videollamada-3103814.jpg?tf=1200x' alt='Nueva función en WhatsApp: compartir pantalla durante videollamada' />
     </a>
 </div>
 
