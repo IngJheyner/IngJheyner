@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/alla-facil-rapido-lado-oscuro-freidoras-aire-1239118'>Más allá de lo fácil y rápido: el lado oscuro de las freidoras de aire</a></h4>
-    <a href='https://computerhoy.com/life/alla-facil-rapido-lado-oscuro-freidoras-aire-1239118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/freidora-aire-3009478.jpg?tf=1200x' alt='Más allá de lo fácil y rápido: el lado oscuro de las freidoras de aire' />
+    <h4><a href='https://computerhoy.com/apple/apple-music-imita-spotify-ya-cuenta-opcion-descubrir-nueva-musica-1286940'>Apple Music imita a Spotify y lanza una opción para descubrir nueva música según tus gustos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-music-imita-spotify-ya-cuenta-opcion-descubrir-nueva-musica-1286940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/apple-music-web-1921191.jpg?tf=1200x' alt='Apple Music imita a Spotify y lanza una opción para descubrir nueva música según tus gustos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bill-gates-competia-dormir-menos-nadie-oficina-1286696'>Bill Gates competía por dormir menos que nadie en la oficina y se arrepiente: “Consideraba que descansar es de perezosos”</a></h4>
-    <a href='https://computerhoy.com/life/bill-gates-competia-dormir-menos-nadie-oficina-1286696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-bebiendo-2965066.jpg?tf=1200x' alt='Bill Gates competía por dormir menos que nadie en la oficina y se arrepiente: “Consideraba que descansar es de perezosos”' />
+    <h4><a href='https://computerhoy.com/life/chatgpt-opina-gastronomia-espanola-platos-iconicos-1282230'>ChatGPT opina de la gastronomía española y sus platos más icónicos: "¿Sopa fría de tomate? ¿En serio?"</a></h4>
+    <a href='https://computerhoy.com/life/chatgpt-opina-gastronomia-espanola-platos-iconicos-1282230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-opina-gastronomia-espanola-platos-iconicos-sopa-fria-tomate-serio-3095102.jpg?tf=1200x' alt='ChatGPT opina de la gastronomía española y sus platos más icónicos: "¿Sopa fría de tomate? ¿En serio?"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/dialogos-oppenheimer-oyen-mal-echale-culpa-director-1286710'>No es tu cine: si los diálogos de Oppenheimer se oyen mal, échale la culpa a Christopher Nolan</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/dialogos-oppenheimer-oyen-mal-echale-culpa-director-1286710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/no-culpa-cine-dialogos-oppenheimer-oyen-mal-echale-culpa-christopher-nolan-3103040.jpg?tf=1200x' alt='No es tu cine: si los diálogos de Oppenheimer se oyen mal, échale la culpa a Christopher Nolan' />
+    <h4><a href='https://computerhoy.com/internet/historia-wikipedia-web-asesino-enciclopedias-1237656'>25 aniversario de Computer Hoy: Historia de Wikipedia, la web que asesinó a las enciclopedias</a></h4>
+    <a href='https://computerhoy.com/internet/historia-wikipedia-web-asesino-enciclopedias-1237656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/portada-wikipedia-3098030.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Historia de Wikipedia, la web que asesinó a las enciclopedias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/donde-debes-colocar-rejillas-aire-acondicionado-1286654'>¿Hacia dónde se deben colocar las rejillas del aire acondicionado?</a></h4>
-    <a href='https://computerhoy.com/life/donde-debes-colocar-rejillas-aire-acondicionado-1286654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/donde-debes-colocar-rejilla-aire-acondicionado-3102906.jpg?tf=1200x' alt='¿Hacia dónde se deben colocar las rejillas del aire acondicionado?' />
+    <h4><a href='https://computerhoy.com/analisis/oppo-reno10-5g-analisis-opinion-colorido-pantalla-calidad-1285016'>Oppo Reno10 5G, análisis y opinión: diseño y pantalla como aspectos a tener muy en cuenta</a></h4>
+    <a href='https://computerhoy.com/analisis/oppo-reno10-5g-analisis-opinion-colorido-pantalla-calidad-1285016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/oppo-reno10-5g-analisis-3100320.jpg?tf=1200x' alt='Oppo Reno10 5G, análisis y opinión: diseño y pantalla como aspectos a tener muy en cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/paypal-criptomoneda-paypal-usd-ethereum-1286708'>PayPal lanza su propia criptomoneda, PayPal USD, basada en Ethereum</a></h4>
-    <a href='https://computerhoy.com/criptos/paypal-criptomoneda-paypal-usd-ethereum-1286708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/paypal-lanza-propia-criptomoneda-paypal-usd-basada-ethereum-3103034.jpg?tf=1200x' alt='PayPal lanza su propia criptomoneda, PayPal USD, basada en Ethereum' />
+    <h4><a href='https://computerhoy.com/tecnologia/15-funciones-google-maps-deberias-utilizar-ahora-mismo-1283474'>Sácale más partido a Google Maps: 15 funciones secretas que deberías empezar a utilizar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/15-funciones-google-maps-deberias-utilizar-ahora-mismo-1283474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mejores-funciones-ocultas-google-maps-3097382.jpg?tf=1200x' alt='Sácale más partido a Google Maps: 15 funciones secretas que deberías empezar a utilizar ahora mismo' />
     </a>
 </div>
 
