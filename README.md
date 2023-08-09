@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-14-pro-apple-cae-precio-minimo-historico-amazon-1287648'>El precio del Apple iPhone 14 Pro cae a mínimo histórico en Amazon ante la llegada del iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-14-pro-apple-cae-precio-minimo-historico-amazon-1287648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-sujetando-iphone-14-pro-3005300.jpg?tf=1200x' alt='El precio del Apple iPhone 14 Pro cae a mínimo histórico en Amazon ante la llegada del iPhone 15' />
+    <h4><a href='https://computerhoy.com/life/tesla-pone-venta-nuevo-producto-pero-no-ti-gato-1287756'>Tesla pone a la venta un nuevo producto, pero no es para ti: es para tu gato</a></h4>
+    <a href='https://computerhoy.com/life/tesla-pone-venta-nuevo-producto-pero-no-ti-gato-1287756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tesla-pone-venta-nuevo-producto-pero-no-ti-gato-3104778.jpg?tf=1200x' alt='Tesla pone a la venta un nuevo producto, pero no es para ti: es para tu gato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-podria-revolucionar-nuevo-diseno-moviles-importante-cambio-iphone-15-1287598'>Apple podría revolucionar de nuevo el diseño de los móviles con un gran cambio en el iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/apple-podria-revolucionar-nuevo-diseno-moviles-importante-cambio-iphone-15-1287598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-cambio-iphone-15-3104472.jpg?tf=1200x' alt='Apple podría revolucionar de nuevo el diseño de los móviles con un gran cambio en el iPhone 15' />
+    <h4><a href='https://computerhoy.com/tutoriales/funciones-smart-tv-debes-desactivar-mejorar-calidad-imagen-1287192'>3 funciones de tu Smart TV que debes desactivar ahora mismo para mejorar la calidad de imagen</a></h4>
+    <a href='https://computerhoy.com/tutoriales/funciones-smart-tv-debes-desactivar-mejorar-calidad-imagen-1287192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mando-distancia-televisor-3103962.jpg?tf=1200x' alt='3 funciones de tu Smart TV que debes desactivar ahora mismo para mejorar la calidad de imagen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/beta-tvos-17-filtra-dos-modelos-desconocidos-llegaria-iphone-15-1287586'>La beta de tvOS 17 filtra los modelos de iPhone 15 y otros dos desconocidos</a></h4>
-    <a href='https://computerhoy.com/apple/beta-tvos-17-filtra-dos-modelos-desconocidos-llegaria-iphone-15-1287586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-plus-iphone-14-pro-iphone-13-iphone-13-mini-2959698.jpg?tf=1200x' alt='La beta de tvOS 17 filtra los modelos de iPhone 15 y otros dos desconocidos' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-hubiera-encontrado-matado-accidentalmente-vida-marte-1287732'>¿Y si la NASA hubiera encontrado y matado accidentalmente la vida en Marte?</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-hubiera-encontrado-matado-accidentalmente-vida-marte-1287732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nasa-hubiera-encontrado-matado-accidentalmente-vida-marte-70-3104782.jpg?tf=1200x' alt='¿Y si la NASA hubiera encontrado y matado accidentalmente la vida en Marte?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-elimina-docenas-cpu-intel-ya-no-seran-compatibles-windows-11-1287560'>Microsoft dice adiós a docenas de procesadores Intel que ya no serán compatibles con Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-elimina-docenas-cpu-intel-ya-no-seran-compatibles-windows-11-1287560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3095996.jpg?tf=1200x' alt='Microsoft dice adiós a docenas de procesadores Intel que ya no serán compatibles con Windows 11' />
+    <h4><a href='https://computerhoy.com/life/articulos-comunes-fueron-creados-personas-discapacidad-1286616'>Efecto Curb-Cut: artículos comunes que fueron creados para personas con discapacidad</a></h4>
+    <a href='https://computerhoy.com/life/articulos-comunes-fueron-creados-personas-discapacidad-1286616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inventos-personas-discapacidad-3103042.jpg?tf=1200x' alt='Efecto Curb-Cut: artículos comunes que fueron creados para personas con discapacidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/9-pro-telefonos-mejor-relacion-calidad-precio-realme-ahora-solo-cuesta-261-euros-1287222'>El 9 Pro es uno de los teléfonos con mejor relación calidad precio de realme y ahora sólo cuesta 259 euros</a></h4>
-    <a href='https://computerhoy.com/android/9-pro-telefonos-mejor-relacion-calidad-precio-realme-ahora-solo-cuesta-261-euros-1287222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-analisis-opinion-2618099.jpg?tf=1200x' alt='El 9 Pro es uno de los teléfonos con mejor relación calidad precio de realme y ahora sólo cuesta 259 euros' />
+    <h4><a href='https://computerhoy.com/life/madre-x-hijo-elon-musk-preocupada-obsesion-cohetes-espaciales-1287720'>La madre de X, el hijo de tres años de Elon Musk, preocupada por su obsesión con los cohetes espaciales: “Tiene ataques de ansiedad cuando los lanzamientos no salen como se espera”</a></h4>
+    <a href='https://computerhoy.com/life/madre-x-hijo-elon-musk-preocupada-obsesion-cohetes-espaciales-1287720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/made-x-hijo-elon-musk-tres-anos-preocupada-obsesion-pequeno-cohetes-espaciales-roza-limites-poco-saludables-3104752.jpg?tf=1200x' alt='La madre de X, el hijo de tres años de Elon Musk, preocupada por su obsesión con los cohetes espaciales: “Tiene ataques de ansiedad cuando los lanzamientos no salen como se espera”' />
     </a>
 </div>
 
