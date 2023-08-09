@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/netflix-lanza-app-jugar-videojuegos-tele-1287248'>Netflix lanza una app sin avisar para jugar a videojuegos en la tele, a través de la nube</a></h4>
-    <a href='https://computerhoy.com/gaming/netflix-lanza-app-jugar-videojuegos-tele-1287248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/netflix-lanza-app-avisar-jugar-videojuegos-tele-3104022.jpg?tf=1200x' alt='Netflix lanza una app sin avisar para jugar a videojuegos en la tele, a través de la nube' />
+    <h4><a href='https://computerhoy.com/motor/truco-google-maps-gastar-menos-combustible-viajes-1287230'>El truco de Google Maps para gastar menos combustible que pocos conocen</a></h4>
+    <a href='https://computerhoy.com/motor/truco-google-maps-gastar-menos-combustible-viajes-1287230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-consultar-trafico-tiempo-real-google-maps-3097880.jpg?tf=1200x' alt='El truco de Google Maps para gastar menos combustible que pocos conocen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/modelos-compatibles-ios-17-ipados-17-1285086'>Todos los modelos compatibles con iOS 17 y iPadOS 17</a></h4>
-    <a href='https://computerhoy.com/apple/modelos-compatibles-ios-17-ipados-17-1285086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ios-17-3051016.jpg?tf=1200x' alt='Todos los modelos compatibles con iOS 17 y iPadOS 17' />
+    <h4><a href='https://computerhoy.com/internet/mapa-recopila-lugares-extranos-espana-mundo-1287170'>El mapa que recopila los lugares más extraños e insólitos de España... y el mundo</a></h4>
+    <a href='https://computerhoy.com/internet/mapa-recopila-lugares-extranos-espana-mundo-1287170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mapa-interactivo-lugares-extranos-mundo-3103858.jpg?tf=1200x' alt='El mapa que recopila los lugares más extraños e insólitos de España... y el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/gigafactoria-tesla-espana-elon-musk-cheste-valencia-1287242'>¿Una gigafactoría de Tesla en España? Elon Musk mira a Valencia</a></h4>
-    <a href='https://computerhoy.com/motor/gigafactoria-tesla-espana-elon-musk-cheste-valencia-1287242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/gigafactoria-tesla-berlin-locura-digna-elon-musk-2928094.jpg?tf=1200x' alt='¿Una gigafactoría de Tesla en España? Elon Musk mira a Valencia' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263'>Mejores relojes inteligentes con micrófono para responder llamadas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/garmin-venu-2s-3080144.jpg?tf=1200x' alt='Mejores relojes inteligentes con micrófono para responder llamadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/habito-cafe-debes-eliminar-todas-mananas-despertarte-1287238'>El hábito con tu café que debes eliminar todas las mañanas al despertarte</a></h4>
-    <a href='https://computerhoy.com/alimentacion/habito-cafe-debes-eliminar-todas-mananas-despertarte-1287238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tomar-cafe-2864503.jpg?tf=1200x' alt='El hábito con tu café que debes eliminar todas las mañanas al despertarte' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/worldcoin-proyecto-ofrece-dinero-escanear-retina-genera-dudas-privacidad-seguridad-1283986'>Worldcoin: el proyecto que ofrece dinero por escanear tu retina genera dudas sobre privacidad y seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/worldcoin-proyecto-ofrece-dinero-escanear-retina-genera-dudas-privacidad-seguridad-1283986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/escaneo-retina-worldcoin-3100308.jpg?tf=1200x' alt='Worldcoin: el proyecto que ofrece dinero por escanear tu retina genera dudas sobre privacidad y seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/descubren-malware-invisible-estas-43-aplicaciones-android-debes-borrar-1287236'>Descubren un malware invisible en estas 43 aplicaciones de Android que debes borrar</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/descubren-malware-invisible-estas-43-aplicaciones-android-debes-borrar-1287236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malware-android-3051122.jpg?tf=1200x' alt='Descubren un malware invisible en estas 43 aplicaciones de Android que debes borrar' />
+    <h4><a href='https://computerhoy.com/apple/tienes-estos-iphone-ya-no-actualizara-nuevo-ios-1287244'>Si tienes uno de estos iPhone, ya no podrás actualizar a la versión más reciente de iOS</a></h4>
+    <a href='https://computerhoy.com/apple/tienes-estos-iphone-ya-no-actualizara-nuevo-ios-1287244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/modelos-iphone-3104020.jpg?tf=1200x' alt='Si tienes uno de estos iPhone, ya no podrás actualizar a la versión más reciente de iOS' />
     </a>
 </div>
 
