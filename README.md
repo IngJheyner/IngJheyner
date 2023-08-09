@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/barbie-estreno-streaming-hbo-max-otono-1287812'>Barbie ya tiene plataforma y fecha de estreno en streaming, ¿qué pasa con Oppenheimer y Super Mario Bros La película?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/barbie-estreno-streaming-hbo-max-otono-1287812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/barbie-oppenheimer-3085436.jpg?tf=1200x' alt='Barbie ya tiene plataforma y fecha de estreno en streaming, ¿qué pasa con Oppenheimer y Super Mario Bros La película?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/astronomo-afirma-extraterrestres-estan-tierra-1287774'>Un astrónomo de Harvard afirma que los extraterrestres podrían haber llegado a la Tierra en 2017</a></h4>
     <a href='https://computerhoy.com/espacio/astronomo-afirma-extraterrestres-estan-tierra-1287774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/astronomo-harvard-afirma-extraterrestres-podrian-haber-llegado-tierra-2017-3104934.jpg?tf=1200x' alt='Un astrónomo de Harvard afirma que los extraterrestres podrían haber llegado a la Tierra en 2017' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/suscripcion-x-premium-elon-musk-poniendo-aprietos-muchas-parejas-1287754'>Los extractos de pago de X Premium de Elon Musk están poniendo en aprietos a muchas parejas: “¿Cómo explico yo esto?”</a></h4>
     <a href='https://computerhoy.com/life/suscripcion-x-premium-elon-musk-poniendo-aprietos-muchas-parejas-1287754' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-actualmente-persona-rica-mundo-3073876.jpg?tf=1200x' alt='Los extractos de pago de X Premium de Elon Musk están poniendo en aprietos a muchas parejas: “¿Cómo explico yo esto?”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-iphone-consola-portatil-1287252'>Cómo convertir tu iPhone en una consola portátil para juegos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-iphone-consola-portatil-1287252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-como-consola-juegos-3104032.jpg?tf=1200x' alt='Cómo convertir tu iPhone en una consola portátil para juegos' />
     </a>
 </div>
 
