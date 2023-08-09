@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/prepara-tarjeta-amazon-anuncia-nuevo-prime-day-octubre-2023-1287516'>Prepara la tarjeta: Amazon anuncia un nuevo Prime Day en octubre 2023</a></h4>
+    <a href='https://computerhoy.com/amazon/prepara-tarjeta-amazon-anuncia-nuevo-prime-day-octubre-2023-1287516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ya-hay-fecha-oficial-prime-day-amazon-2023-nuevo-son-dos-dias-3063698.jpg?tf=1200x' alt='Prepara la tarjeta: Amazon anuncia un nuevo Prime Day en octubre 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-twitch-1286670'>Como descargar videos de Twitch, paso a paso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-descargar-videos-twitch-1286670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/twitch-2158639.jpg?tf=1200x' alt='Como descargar videos de Twitch, paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-forerunner-245-caracteristicas-mejores-relojes-running-1287216'>Garmin Forerunner 245: características y por qué es de los mejores relojes running</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-forerunner-245-caracteristicas-mejores-relojes-running-1287216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/garmin-forerunner-245-2137907.jpg?tf=1200x' alt='Garmin Forerunner 245: características y por qué es de los mejores relojes running' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/review-galaxy-z-flip5-samsung-vuelve-delantera-plegables-1285470'>Análisis Galaxy Z Flip5: Samsung vuelve de nuevo a la delantera del mundo plegable</a></h4>
+    <a href='https://computerhoy.com/analisis/review-galaxy-z-flip5-samsung-vuelve-delantera-plegables-1285470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/galaxy-z-flip5-3103430.jpg?tf=1200x' alt='Análisis Galaxy Z Flip5: Samsung vuelve de nuevo a la delantera del mundo plegable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/truco-google-maps-gastar-menos-combustible-viajes-1287230'>El truco de Google Maps para gastar menos combustible que pocos conocen</a></h4>
     <a href='https://computerhoy.com/motor/truco-google-maps-gastar-menos-combustible-viajes-1287230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-consultar-trafico-tiempo-real-google-maps-3097880.jpg?tf=1200x' alt='El truco de Google Maps para gastar menos combustible que pocos conocen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mapa-recopila-lugares-extranos-espana-mundo-1287170'>El mapa que recopila los lugares más extraños e insólitos de España... y el mundo</a></h4>
-    <a href='https://computerhoy.com/internet/mapa-recopila-lugares-extranos-espana-mundo-1287170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mapa-interactivo-lugares-extranos-mundo-3103858.jpg?tf=1200x' alt='El mapa que recopila los lugares más extraños e insólitos de España... y el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263'>Mejores relojes inteligentes con micrófono para responder llamadas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/garmin-venu-2s-3080144.jpg?tf=1200x' alt='Mejores relojes inteligentes con micrófono para responder llamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/worldcoin-proyecto-ofrece-dinero-escanear-retina-genera-dudas-privacidad-seguridad-1283986'>Worldcoin: el proyecto que ofrece dinero por escanear tu retina genera dudas sobre privacidad y seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/worldcoin-proyecto-ofrece-dinero-escanear-retina-genera-dudas-privacidad-seguridad-1283986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/escaneo-retina-worldcoin-3100308.jpg?tf=1200x' alt='Worldcoin: el proyecto que ofrece dinero por escanear tu retina genera dudas sobre privacidad y seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tienes-estos-iphone-ya-no-actualizara-nuevo-ios-1287244'>Si tienes uno de estos iPhone, ya no podrás actualizar a la versión más reciente de iOS</a></h4>
-    <a href='https://computerhoy.com/apple/tienes-estos-iphone-ya-no-actualizara-nuevo-ios-1287244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/modelos-iphone-3104020.jpg?tf=1200x' alt='Si tienes uno de estos iPhone, ya no podrás actualizar a la versión más reciente de iOS' />
     </a>
 </div>
 
