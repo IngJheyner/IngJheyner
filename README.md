@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/netflix-lanza-app-jugar-videojuegos-tele-1287248'>Netflix lanza una app sin avisar para jugar a videojuegos en la tele, a través de la nube</a></h4>
+    <a href='https://computerhoy.com/gaming/netflix-lanza-app-jugar-videojuegos-tele-1287248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/netflix-lanza-app-avisar-jugar-videojuegos-tele-3104022.jpg?tf=1200x' alt='Netflix lanza una app sin avisar para jugar a videojuegos en la tele, a través de la nube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/modelos-compatibles-ios-17-ipados-17-1285086'>Todos los modelos compatibles con iOS 17 y iPadOS 17</a></h4>
+    <a href='https://computerhoy.com/apple/modelos-compatibles-ios-17-ipados-17-1285086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ios-17-3051016.jpg?tf=1200x' alt='Todos los modelos compatibles con iOS 17 y iPadOS 17' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/gigafactoria-tesla-espana-elon-musk-cheste-valencia-1287242'>¿Una gigafactoría de Tesla en España? Elon Musk mira a Valencia</a></h4>
     <a href='https://computerhoy.com/motor/gigafactoria-tesla-espana-elon-musk-cheste-valencia-1287242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/gigafactoria-tesla-berlin-locura-digna-elon-musk-2928094.jpg?tf=1200x' alt='¿Una gigafactoría de Tesla en España? Elon Musk mira a Valencia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/descubren-malware-invisible-estas-43-aplicaciones-android-debes-borrar-1287236'>Descubren un malware invisible en estas 43 aplicaciones de Android que debes borrar</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/descubren-malware-invisible-estas-43-aplicaciones-android-debes-borrar-1287236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malware-android-3051122.jpg?tf=1200x' alt='Descubren un malware invisible en estas 43 aplicaciones de Android que debes borrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/rios-mercurio-impiden-entrar-tumba-primer-emperador-chino-1287220'>Ríos de mercurio y explosivos impiden la excavación de la tumba del primer emperador chino y sus guerreros de terracota</a></h4>
-    <a href='https://computerhoy.com/life/rios-mercurio-impiden-entrar-tumba-primer-emperador-chino-1287220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/rios-mercurio-explosivos-cientos-trampas-impiden-excavacion-tumba-primer-emperador-chino-guerreros-terracota-3103992.jpg?tf=1200x' alt='Ríos de mercurio y explosivos impiden la excavación de la tumba del primer emperador chino y sus guerreros de terracota' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/calavera-prehistorica-podria-cambiar-evolucion-humana-1287208'>Encuentra en China una calavera de hace 300.000 años con una forma nunca vista, podría reescribir la evolución humana</a></h4>
-    <a href='https://computerhoy.com/ciencia/calavera-prehistorica-podria-cambiar-evolucion-humana-1287208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/encuentra-china-calavera-hace-300000-anos-forma-nunca-vista-podria-reescribir-evolucion-humana-3103720.jpg?tf=1200x' alt='Encuentra en China una calavera de hace 300.000 años con una forma nunca vista, podría reescribir la evolución humana' />
     </a>
 </div>
 
