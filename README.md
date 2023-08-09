@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-14-pro-apple-cae-precio-minimo-historico-amazon-1287648'>El precio del Apple iPhone 14 Pro cae a mínimo histórico en Amazon ante la llegada del iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-14-pro-apple-cae-precio-minimo-historico-amazon-1287648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/persona-sujetando-iphone-14-pro-3005300.jpg?tf=1200x' alt='El precio del Apple iPhone 14 Pro cae a mínimo histórico en Amazon ante la llegada del iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-podria-revolucionar-nuevo-diseno-moviles-importante-cambio-iphone-15-1287598'>Apple podría revolucionar de nuevo el diseño de los móviles con un gran cambio en el iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/apple-podria-revolucionar-nuevo-diseno-moviles-importante-cambio-iphone-15-1287598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-cambio-iphone-15-3104472.jpg?tf=1200x' alt='Apple podría revolucionar de nuevo el diseño de los móviles con un gran cambio en el iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/beta-tvos-17-filtra-dos-modelos-desconocidos-llegaria-iphone-15-1287586'>La beta de tvOS 17 filtra los modelos de iPhone 15 y otros dos desconocidos</a></h4>
     <a href='https://computerhoy.com/apple/beta-tvos-17-filtra-dos-modelos-desconocidos-llegaria-iphone-15-1287586' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-plus-iphone-14-pro-iphone-13-iphone-13-mini-2959698.jpg?tf=1200x' alt='La beta de tvOS 17 filtra los modelos de iPhone 15 y otros dos desconocidos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/9-pro-telefonos-mejor-relacion-calidad-precio-realme-ahora-solo-cuesta-261-euros-1287222'>El 9 Pro es uno de los teléfonos con mejor relación calidad precio de realme y ahora sólo cuesta 259 euros</a></h4>
     <a href='https://computerhoy.com/android/9-pro-telefonos-mejor-relacion-calidad-precio-realme-ahora-solo-cuesta-261-euros-1287222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/realme-9-pro-analisis-opinion-2618099.jpg?tf=1200x' alt='El 9 Pro es uno de los teléfonos con mejor relación calidad precio de realme y ahora sólo cuesta 259 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-lanza-android-auto-102-mejoras-como-descargar-version-beta-1287540'>Google lanza Android Auto 10.2: mejoras y cómo descargar la versión beta</a></h4>
-    <a href='https://computerhoy.com/android/google-lanza-android-auto-102-mejoras-como-descargar-version-beta-1287540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-lanza-android-auto-102-3104404.jpg?tf=1200x' alt='Google lanza Android Auto 10.2: mejoras y cómo descargar la versión beta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/kim-kardashian-resonancia-magnetica-2500-dolares-redes-expertos-estallan-1287534'>Kim Kardashian se somete a una resonancia por 2.500 dólares: las redes y expertos estallan</a></h4>
-    <a href='https://computerhoy.com/life/kim-kardashian-resonancia-magnetica-2500-dolares-redes-expertos-estallan-1287534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/kim-kardashian-3104338.jpg?tf=1200x' alt='Kim Kardashian se somete a una resonancia por 2.500 dólares: las redes y expertos estallan' />
     </a>
 </div>
 
