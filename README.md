@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/genial-sencillo-desconocido-truco-mejora-velocidad-wifi-instante-1287250'>El genial, sencillo y desconocido truco que mejora la velocidad de tu WiFi al instante</a></h4>
-    <a href='https://computerhoy.com/tutoriales/genial-sencillo-desconocido-truco-mejora-velocidad-wifi-instante-1287250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/velocidad-wifi-3104714.jpg?tf=1200x' alt='El genial, sencillo y desconocido truco que mejora la velocidad de tu WiFi al instante' />
+    <h4><a href='https://computerhoy.com/espacio/astronomo-afirma-extraterrestres-estan-tierra-1287774'>Un astrónomo de Harvard afirma que los extraterrestres podrían haber llegado a la Tierra en 2017</a></h4>
+    <a href='https://computerhoy.com/espacio/astronomo-afirma-extraterrestres-estan-tierra-1287774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/astronomo-harvard-afirma-extraterrestres-podrian-haber-llegado-tierra-2017-3104934.jpg?tf=1200x' alt='Un astrónomo de Harvard afirma que los extraterrestres podrían haber llegado a la Tierra en 2017' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tesla-pone-venta-nuevo-producto-pero-no-ti-gato-1287756'>Tesla pone a la venta un nuevo producto, pero no es para ti: es para tu gato</a></h4>
-    <a href='https://computerhoy.com/life/tesla-pone-venta-nuevo-producto-pero-no-ti-gato-1287756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tesla-pone-venta-nuevo-producto-pero-no-ti-gato-3104778.jpg?tf=1200x' alt='Tesla pone a la venta un nuevo producto, pero no es para ti: es para tu gato' />
+    <h4><a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-consumidas-durante-verano-espana-1287790'>El lado oscuro de una de las cervezas más consumidas durante el verano en España</a></h4>
+    <a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-consumidas-durante-verano-espana-1287790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lata-cerveza-3104980.jpg?tf=1200x' alt='El lado oscuro de una de las cervezas más consumidas durante el verano en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/funciones-smart-tv-debes-desactivar-mejorar-calidad-imagen-1287192'>3 funciones de tu Smart TV que debes desactivar ahora mismo para mejorar la calidad de imagen</a></h4>
-    <a href='https://computerhoy.com/tutoriales/funciones-smart-tv-debes-desactivar-mejorar-calidad-imagen-1287192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mando-distancia-televisor-3103962.jpg?tf=1200x' alt='3 funciones de tu Smart TV que debes desactivar ahora mismo para mejorar la calidad de imagen' />
+    <h4><a href='https://computerhoy.com/life/dinos-lado-cuerpo-duermes-te-daremos-buenas-malas-noticias-1287786'>Dinos sobre qué lado del cuerpo duermes, y te daremos buenas o malas noticias</a></h4>
+    <a href='https://computerhoy.com/life/dinos-lado-cuerpo-duermes-te-daremos-buenas-malas-noticias-1287786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dormir-3104978.jpg?tf=1200x' alt='Dinos sobre qué lado del cuerpo duermes, y te daremos buenas o malas noticias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-hubiera-encontrado-matado-accidentalmente-vida-marte-1287732'>¿Y si la NASA hubiera encontrado y matado accidentalmente la vida en Marte?</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-hubiera-encontrado-matado-accidentalmente-vida-marte-1287732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nasa-hubiera-encontrado-matado-accidentalmente-vida-marte-70-3104782.jpg?tf=1200x' alt='¿Y si la NASA hubiera encontrado y matado accidentalmente la vida en Marte?' />
+    <h4><a href='https://computerhoy.com/life/suscripcion-x-premium-elon-musk-poniendo-aprietos-muchas-parejas-1287754'>Los extractos de pago de X Premium de Elon Musk están poniendo en aprietos a muchas parejas: “¿Cómo explico yo esto?”</a></h4>
+    <a href='https://computerhoy.com/life/suscripcion-x-premium-elon-musk-poniendo-aprietos-muchas-parejas-1287754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-actualmente-persona-rica-mundo-3073876.jpg?tf=1200x' alt='Los extractos de pago de X Premium de Elon Musk están poniendo en aprietos a muchas parejas: “¿Cómo explico yo esto?”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/articulos-comunes-fueron-creados-personas-discapacidad-1286616'>Efecto Curb-Cut: artículos comunes que fueron creados para personas con discapacidad</a></h4>
-    <a href='https://computerhoy.com/life/articulos-comunes-fueron-creados-personas-discapacidad-1286616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inventos-personas-discapacidad-3103042.jpg?tf=1200x' alt='Efecto Curb-Cut: artículos comunes que fueron creados para personas con discapacidad' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-iphone-consola-portatil-1287252'>Cómo convertir tu iPhone en una consola portátil para juegos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-convertir-iphone-consola-portatil-1287252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-como-consola-juegos-3104032.jpg?tf=1200x' alt='Cómo convertir tu iPhone en una consola portátil para juegos' />
     </a>
 </div>
 
