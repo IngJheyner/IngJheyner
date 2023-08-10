@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/10-lecciones-albert-einstein-cambiaran-forma-ver-vida-1285888'>10 lecciones de Albert Einstein que cambiarán tu forma de ver la vida</a></h4>
+    <a href='https://computerhoy.com/life/10-lecciones-albert-einstein-cambiaran-forma-ver-vida-1285888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/albert-einstein-3105432.jpg?tf=1200x' alt='10 lecciones de Albert Einstein que cambiarán tu forma de ver la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/beer-creer-nombres-sorprendentes-registrados-oficina-espanola-patentes-marcas-1288248'>Beer Para Creer: los nombres más sorprendentes registrados en la Oficina Española de Patentes y Marcas</a></h4>
+    <a href='https://computerhoy.com/life/beer-creer-nombres-sorprendentes-registrados-oficina-espanola-patentes-marcas-1288248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chico-chica-muy-sorprendidos-3105802.jpg?tf=1200x' alt='Beer Para Creer: los nombres más sorprendentes registrados en la Oficina Española de Patentes y Marcas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-android-auto-coche-no-compatible-1287822'>Cómo instalar Android Auto en un coche no compatible</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-android-auto-coche-no-compatible-1287822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg?tf=1200x' alt='Cómo instalar Android Auto en un coche no compatible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-conseguir-introducir-texto-fire-tv-deje-ser-infierno-1287804'>Cómo conseguir que introducir texto en el Amazon Fire TV deje de ser un infierno</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-conseguir-introducir-texto-fire-tv-deje-ser-infierno-1287804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-fire-tv-alexa-3105422.jpg?tf=1200x' alt='Cómo conseguir que introducir texto en el Amazon Fire TV deje de ser un infierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cientificos-revelan-cuanto-debes-caminar-dia-tener-vida-saludable-no-son-10000-pasos-1287772'>Olvídate de los 10.000 pasos, científicos revelan cuánto debes caminar al día para tener una vida activa y saludable (y es mucho menos)</a></h4>
     <a href='https://computerhoy.com/life/cientificos-revelan-cuanto-debes-caminar-dia-tener-vida-saludable-no-son-10000-pasos-1287772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/reto-caminar-10000-pasos-diarios.jpg?tf=1200x' alt='Olvídate de los 10.000 pasos, científicos revelan cuánto debes caminar al día para tener una vida activa y saludable (y es mucho menos)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/chandrayaan3-india-fotos-viaje-luna-1288196'>La India envía espectaculares fotos de su viaje a la Luna, y ya pide ser la nueva superpotencia</a></h4>
-    <a href='https://computerhoy.com/espacio/chandrayaan3-india-fotos-viaje-luna-1288196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/india-envia-espectaculares-fotos-viaje-luna-ya-pide-ser-nueva-superpotencia-3105576.jpg?tf=1200x' alt='La India envía espectaculares fotos de su viaje a la Luna, y ya pide ser la nueva superpotencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/hazte-oppo-enco-air-2-mitad-precio-1288128'>Los auriculares más populares de Oppo están ahora a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/audio/hazte-oppo-enco-air-2-mitad-precio-1288128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/oppo-enco-air-2-3105424.jpg?tf=1200x' alt='Los auriculares más populares de Oppo están ahora a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/enhorabuena-programador-chatgpt-no-te-quitara-trabajo-menos-momento-1288154'>Enhorabuena programador, ChatGPT no te quitará el trabajo, al menos de momento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/enhorabuena-programador-chatgpt-no-te-quitara-trabajo-menos-momento-1288154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-programacion-3105538.jpg?tf=1200x' alt='Enhorabuena programador, ChatGPT no te quitará el trabajo, al menos de momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-plantea-pelea-mark-zuckerberg-pase-punos-palabras-1288108'>Elon Musk plantea que su pelea con Mark Zuckerberg pase de los puños a ¿las palabras?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-plantea-pelea-mark-zuckerberg-pase-punos-palabras-1288108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elon-musk-2698399.jpg?tf=1200x' alt='Elon Musk plantea que su pelea con Mark Zuckerberg pase de los puños a ¿las palabras?' />
     </a>
 </div>
 
