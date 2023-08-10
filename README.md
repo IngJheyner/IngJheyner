@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-quiere-reducir-35-impacto-ambiental-vuelos-usando-inteligencia-artificial-1287818'>Google está trabajando con las aerolíneas para reducir un 35% el impacto ambiental de los vuelos, usando IA</a></h4>
+    <a href='https://computerhoy.com/google/google-quiere-reducir-35-impacto-ambiental-vuelos-usando-inteligencia-artificial-1287818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-trabajando-aerolineas-reducir-35-impacto-ambiental-vuelos-usando-ia-3105048.jpg?tf=1200x' alt='Google está trabajando con las aerolíneas para reducir un 35% el impacto ambiental de los vuelos, usando IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/barbie-estreno-streaming-hbo-max-otono-1287812'>Barbie ya tiene plataforma y fecha de estreno en streaming, ¿qué pasa con Oppenheimer y Super Mario Bros La película?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/barbie-estreno-streaming-hbo-max-otono-1287812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/barbie-oppenheimer-3085436.jpg?tf=1200x' alt='Barbie ya tiene plataforma y fecha de estreno en streaming, ¿qué pasa con Oppenheimer y Super Mario Bros La película?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/dinos-lado-cuerpo-duermes-te-daremos-buenas-malas-noticias-1287786'>Dinos sobre qué lado del cuerpo duermes, y te daremos buenas o malas noticias</a></h4>
     <a href='https://computerhoy.com/life/dinos-lado-cuerpo-duermes-te-daremos-buenas-malas-noticias-1287786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dormir-3104978.jpg?tf=1200x' alt='Dinos sobre qué lado del cuerpo duermes, y te daremos buenas o malas noticias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/suscripcion-x-premium-elon-musk-poniendo-aprietos-muchas-parejas-1287754'>Los extractos de pago de X Premium de Elon Musk están poniendo en aprietos a muchas parejas: “¿Cómo explico yo esto?”</a></h4>
-    <a href='https://computerhoy.com/life/suscripcion-x-premium-elon-musk-poniendo-aprietos-muchas-parejas-1287754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-actualmente-persona-rica-mundo-3073876.jpg?tf=1200x' alt='Los extractos de pago de X Premium de Elon Musk están poniendo en aprietos a muchas parejas: “¿Cómo explico yo esto?”' />
     </a>
 </div>
 
