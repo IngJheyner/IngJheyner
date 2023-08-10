@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-amazfit-t-rex-2-rebajado-solo-180-euros-amazon-1288096'>El smartwatch más resistente y deportivo de Xiaomi está rebajado a sólo 180 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-amazfit-t-rex-2-rebajado-solo-180-euros-amazon-1288096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazfit-t-rex-2-2801081.jpg?tf=1200x' alt='El smartwatch más resistente y deportivo de Xiaomi está rebajado a sólo 180 euros' />
+    <h4><a href='https://computerhoy.com/life/cientificos-revelan-cuanto-debes-caminar-dia-tener-vida-saludable-no-son-10000-pasos-1287772'>Olvídate de los 10.000 pasos, científicos revelan cuánto debes caminar al día para tener una vida activa y saludable (y es mucho menos)</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-revelan-cuanto-debes-caminar-dia-tener-vida-saludable-no-son-10000-pasos-1287772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/reto-caminar-10000-pasos-diarios.jpg?tf=1200x' alt='Olvídate de los 10.000 pasos, científicos revelan cuánto debes caminar al día para tener una vida activa y saludable (y es mucho menos)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-15-pro-conservara-peores-caracteristicas-procesadores-1288092'>El iPhone 15 Pro conservará una de las peores características de sus procesadores</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-15-pro-conservara-peores-caracteristicas-procesadores-1288092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/toca-esperar-nuevo-iphone-15-podria-retrasarse-problemas-fabricacion-3091336.jpg?tf=1200x' alt='El iPhone 15 Pro conservará una de las peores características de sus procesadores' />
+    <h4><a href='https://computerhoy.com/espacio/chandrayaan3-india-fotos-viaje-luna-1288196'>La India envía espectaculares fotos de su viaje a la Luna, y ya pide ser la nueva superpotencia</a></h4>
+    <a href='https://computerhoy.com/espacio/chandrayaan3-india-fotos-viaje-luna-1288196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/india-envia-espectaculares-fotos-viaje-luna-ya-pide-ser-nueva-superpotencia-3105576.jpg?tf=1200x' alt='La India envía espectaculares fotos de su viaje a la Luna, y ya pide ser la nueva superpotencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/eneagrama-ventajas-ofrece-dejando-lado-horoscopo-1288078'>¿Qué es un eneagrama y qué ventajas ofrece para que se esté dejando de lado el horóscopo?</a></h4>
-    <a href='https://computerhoy.com/life/eneagrama-ventajas-ofrece-dejando-lado-horoscopo-1288078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/eneagrama-3105344.jpg?tf=1200x' alt='¿Qué es un eneagrama y qué ventajas ofrece para que se esté dejando de lado el horóscopo?' />
+    <h4><a href='https://computerhoy.com/audio/hazte-oppo-enco-air-2-mitad-precio-1288128'>Los auriculares más populares de Oppo están ahora a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/audio/hazte-oppo-enco-air-2-mitad-precio-1288128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/oppo-enco-air-2-3105424.jpg?tf=1200x' alt='Los auriculares más populares de Oppo están ahora a mitad de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-revoluciona-sube-precios-estrena-plan-publicidad-anuncia-fin-cuentas-compartidas-1288056'>Disney+ se revoluciona: sube precios, estrena plan con publicidad y anuncia el fin de las cuentas compartidas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-revoluciona-sube-precios-estrena-plan-publicidad-anuncia-fin-cuentas-compartidas-1288056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/disney-3105314.jpg?tf=1200x' alt='Disney+ se revoluciona: sube precios, estrena plan con publicidad y anuncia el fin de las cuentas compartidas' />
+    <h4><a href='https://computerhoy.com/tecnologia/enhorabuena-programador-chatgpt-no-te-quitara-trabajo-menos-momento-1288154'>Enhorabuena programador, ChatGPT no te quitará el trabajo, al menos de momento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/enhorabuena-programador-chatgpt-no-te-quitara-trabajo-menos-momento-1288154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-programacion-3105538.jpg?tf=1200x' alt='Enhorabuena programador, ChatGPT no te quitará el trabajo, al menos de momento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/montar-video-final-cut-pro-ipad-locura-ahorro-tiempo-1261530'>Montar vídeo con Final Cut Pro desde iPad: ¿Locura o ahorro de tiempo?</a></h4>
-    <a href='https://computerhoy.com/apple/montar-video-final-cut-pro-ipad-locura-ahorro-tiempo-1261530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ipad-final-cut-pro-3104614.jpg?tf=1200x' alt='Montar vídeo con Final Cut Pro desde iPad: ¿Locura o ahorro de tiempo?' />
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-plantea-pelea-mark-zuckerberg-pase-punos-palabras-1288108'>Elon Musk plantea que su pelea con Mark Zuckerberg pase de los puños a ¿las palabras?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-plantea-pelea-mark-zuckerberg-pase-punos-palabras-1288108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elon-musk-2698399.jpg?tf=1200x' alt='Elon Musk plantea que su pelea con Mark Zuckerberg pase de los puños a ¿las palabras?' />
     </a>
 </div>
 
