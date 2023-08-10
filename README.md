@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-amazfit-t-rex-2-rebajado-solo-180-euros-amazon-1288096'>El smartwatch más resistente y deportivo de Xiaomi está rebajado a sólo 180 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-amazfit-t-rex-2-rebajado-solo-180-euros-amazon-1288096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazfit-t-rex-2-2801081.jpg?tf=1200x' alt='El smartwatch más resistente y deportivo de Xiaomi está rebajado a sólo 180 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-15-pro-conservara-peores-caracteristicas-procesadores-1288092'>El iPhone 15 Pro conservará una de las peores características de sus procesadores</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-15-pro-conservara-peores-caracteristicas-procesadores-1288092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/toca-esperar-nuevo-iphone-15-podria-retrasarse-problemas-fabricacion-3091336.jpg?tf=1200x' alt='El iPhone 15 Pro conservará una de las peores características de sus procesadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/eneagrama-ventajas-ofrece-dejando-lado-horoscopo-1288078'>¿Qué es un eneagrama y qué ventajas ofrece para que se esté dejando de lado el horóscopo?</a></h4>
+    <a href='https://computerhoy.com/life/eneagrama-ventajas-ofrece-dejando-lado-horoscopo-1288078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/eneagrama-3105344.jpg?tf=1200x' alt='¿Qué es un eneagrama y qué ventajas ofrece para que se esté dejando de lado el horóscopo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/disney-revoluciona-sube-precios-estrena-plan-publicidad-anuncia-fin-cuentas-compartidas-1288056'>Disney+ se revoluciona: sube precios, estrena plan con publicidad y anuncia el fin de las cuentas compartidas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-revoluciona-sube-precios-estrena-plan-publicidad-anuncia-fin-cuentas-compartidas-1288056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/disney-3105314.jpg?tf=1200x' alt='Disney+ se revoluciona: sube precios, estrena plan con publicidad y anuncia el fin de las cuentas compartidas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/montar-video-final-cut-pro-ipad-locura-ahorro-tiempo-1261530'>Montar vídeo con Final Cut Pro desde iPad: ¿Locura o ahorro de tiempo?</a></h4>
     <a href='https://computerhoy.com/apple/montar-video-final-cut-pro-ipad-locura-ahorro-tiempo-1261530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ipad-final-cut-pro-3104614.jpg?tf=1200x' alt='Montar vídeo con Final Cut Pro desde iPad: ¿Locura o ahorro de tiempo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-posible-precio-1287782'>Nintendo Switch 2 sigue sumando decepciones: tras el fiasco con su pantalla se filtra su posible precio</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-2-posible-precio-1287782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nintendo-switch-3073978.jpg?tf=1200x' alt='Nintendo Switch 2 sigue sumando decepciones: tras el fiasco con su pantalla se filtra su posible precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/5-moviles-xiaomi-menos-200-euros-merecen-mucho-pena-1287788'>5 móviles Xiaomi de menos de 200 euros que merecen mucho la pena</a></h4>
-    <a href='https://computerhoy.com/moviles/5-moviles-xiaomi-menos-200-euros-merecen-mucho-pena-1287788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/5-moviles-xiaomi-menos-200-euros-merecen-mucho-pena-3105278.jpg?tf=1200x' alt='5 móviles Xiaomi de menos de 200 euros que merecen mucho la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-quiere-reducir-35-impacto-ambiental-vuelos-usando-inteligencia-artificial-1287818'>Google está trabajando con las aerolíneas para reducir un 35% el impacto ambiental de los vuelos, usando IA</a></h4>
-    <a href='https://computerhoy.com/google/google-quiere-reducir-35-impacto-ambiental-vuelos-usando-inteligencia-artificial-1287818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-trabajando-aerolineas-reducir-35-impacto-ambiental-vuelos-usando-ia-3105048.jpg?tf=1200x' alt='Google está trabajando con las aerolíneas para reducir un 35% el impacto ambiental de los vuelos, usando IA' />
     </a>
 </div>
 
