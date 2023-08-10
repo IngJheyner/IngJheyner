@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-revoluciona-sube-precios-estrena-plan-publicidad-anuncia-fin-cuentas-compartidas-1288056'>Disney+ se revoluciona: sube precios, estrena plan con publicidad y anuncia el fin de las cuentas compartidas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-revoluciona-sube-precios-estrena-plan-publicidad-anuncia-fin-cuentas-compartidas-1288056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/disney-3105314.jpg?tf=1200x' alt='Disney+ se revoluciona: sube precios, estrena plan con publicidad y anuncia el fin de las cuentas compartidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/montar-video-final-cut-pro-ipad-locura-ahorro-tiempo-1261530'>Montar vídeo con Final Cut Pro desde iPad: ¿Locura o ahorro de tiempo?</a></h4>
+    <a href='https://computerhoy.com/apple/montar-video-final-cut-pro-ipad-locura-ahorro-tiempo-1261530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ipad-final-cut-pro-3104614.jpg?tf=1200x' alt='Montar vídeo con Final Cut Pro desde iPad: ¿Locura o ahorro de tiempo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-posible-precio-1287782'>Nintendo Switch 2 sigue sumando decepciones: tras el fiasco con su pantalla se filtra su posible precio</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-switch-2-posible-precio-1287782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nintendo-switch-3073978.jpg?tf=1200x' alt='Nintendo Switch 2 sigue sumando decepciones: tras el fiasco con su pantalla se filtra su posible precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-quiere-reducir-35-impacto-ambiental-vuelos-usando-inteligencia-artificial-1287818'>Google está trabajando con las aerolíneas para reducir un 35% el impacto ambiental de los vuelos, usando IA</a></h4>
     <a href='https://computerhoy.com/google/google-quiere-reducir-35-impacto-ambiental-vuelos-usando-inteligencia-artificial-1287818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-trabajando-aerolineas-reducir-35-impacto-ambiental-vuelos-usando-ia-3105048.jpg?tf=1200x' alt='Google está trabajando con las aerolíneas para reducir un 35% el impacto ambiental de los vuelos, usando IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/barbie-estreno-streaming-hbo-max-otono-1287812'>Barbie ya tiene plataforma y fecha de estreno en streaming, ¿qué pasa con Oppenheimer y Super Mario Bros La película?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/barbie-estreno-streaming-hbo-max-otono-1287812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/barbie-oppenheimer-3085436.jpg?tf=1200x' alt='Barbie ya tiene plataforma y fecha de estreno en streaming, ¿qué pasa con Oppenheimer y Super Mario Bros La película?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/astronomo-afirma-extraterrestres-estan-tierra-1287774'>Un astrónomo de Harvard afirma que los extraterrestres podrían haber llegado a la Tierra en 2017</a></h4>
-    <a href='https://computerhoy.com/espacio/astronomo-afirma-extraterrestres-estan-tierra-1287774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/astronomo-harvard-afirma-extraterrestres-podrian-haber-llegado-tierra-2017-3104934.jpg?tf=1200x' alt='Un astrónomo de Harvard afirma que los extraterrestres podrían haber llegado a la Tierra en 2017' />
     </a>
 </div>
 
