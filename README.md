@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/tdtchannels-estrena-nuevos-canales-cine-gratis-nuevas-radios-1288324'>TDTChannels estrena nuevos canales de cine gratis y nuevas radios</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/tdtchannels-estrena-nuevos-canales-cine-gratis-nuevas-radios-1288324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels estrena nuevos canales de cine gratis y nuevas radios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/seria-advertencia-google-no-ignores-ultima-actualizacion-android-movil-serio-peligro-1288318'>Seria advertencia de Google: no ignores la última actualización de Android, tú móvil está en serio peligro</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/seria-advertencia-google-no-ignores-ultima-actualizacion-android-movil-serio-peligro-1288318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/android-malware-3096000.jpg?tf=1200x' alt='Seria advertencia de Google: no ignores la última actualización de Android, tú móvil está en serio peligro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-ofrece-detalles-impresionantes-estrella-distante-jamas-vista-1288314'>El telescopio espacial James Webb de la NASA ofrece detalles impresionantes de la estrella más distante jamás vista</a></h4>
     <a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-ofrece-detalles-impresionantes-estrella-distante-jamas-vista-1288314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/telescopio-espacial-james-webb-nasa-ofrece-detalles-impresionantes-estrella-distante-jamas-vista-3105960.jpg?tf=1200x' alt='El telescopio espacial James Webb de la NASA ofrece detalles impresionantes de la estrella más distante jamás vista' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/turismo-espacial-mantener-relaciones-sexuales-fuera-planeta-1288306'>Turismo espacial: ¿Es seguro mantener relaciones íntimas fuera del planeta?</a></h4>
     <a href='https://computerhoy.com/ciencia/turismo-espacial-mantener-relaciones-sexuales-fuera-planeta-1288306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/turismo-espacial-seguro-mantener-relaciones-intimas-fuera-planeta-3105944.jpg?tf=1200x' alt='Turismo espacial: ¿Es seguro mantener relaciones íntimas fuera del planeta?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-windows-11-cuenta-microsoft-1239040'>Cómo instalar Windows 11 sin cuenta de Microsoft</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-windows-11-cuenta-microsoft-1239040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-pantalla-ordenador-2613829.jpg?tf=1200x' alt='Cómo instalar Windows 11 sin cuenta de Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/alerta-extincion-vaquita-10-ejemplares-1288294'>Lanzan una alerta de extinción, la primera en 70 años, para el mamífero marino más pequeño: solo quedan 10 ejemplares</a></h4>
-    <a href='https://computerhoy.com/ciencia/alerta-extincion-vaquita-10-ejemplares-1288294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lanzan-alerta-extincion-primera-70-anos-mamifero-marino-pequeno-solo-quedan-10-ejemplares-3105924.jpg?tf=1200x' alt='Lanzan una alerta de extinción, la primera en 70 años, para el mamífero marino más pequeño: solo quedan 10 ejemplares' />
     </a>
 </div>
 
