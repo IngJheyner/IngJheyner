@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-posible-precio-1287782'>Nintendo Switch 2 sigue sumando decepciones: tras el fiasco con su pantalla se filtra su posible precio</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-posible-precio-1287782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nintendo-switch-3073978.jpg?tf=1200x' alt='Nintendo Switch 2 sigue sumando decepciones: tras el fiasco con su pantalla se filtra su posible precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/5-moviles-xiaomi-menos-200-euros-merecen-mucho-pena-1287788'>5 móviles Xiaomi de menos de 200 euros que merecen mucho la pena</a></h4>
+    <a href='https://computerhoy.com/moviles/5-moviles-xiaomi-menos-200-euros-merecen-mucho-pena-1287788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/5-moviles-xiaomi-menos-200-euros-merecen-mucho-pena-3105278.jpg?tf=1200x' alt='5 móviles Xiaomi de menos de 200 euros que merecen mucho la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-quiere-reducir-35-impacto-ambiental-vuelos-usando-inteligencia-artificial-1287818'>Google está trabajando con las aerolíneas para reducir un 35% el impacto ambiental de los vuelos, usando IA</a></h4>
     <a href='https://computerhoy.com/google/google-quiere-reducir-35-impacto-ambiental-vuelos-usando-inteligencia-artificial-1287818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-trabajando-aerolineas-reducir-35-impacto-ambiental-vuelos-usando-ia-3105048.jpg?tf=1200x' alt='Google está trabajando con las aerolíneas para reducir un 35% el impacto ambiental de los vuelos, usando IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/astronomo-afirma-extraterrestres-estan-tierra-1287774'>Un astrónomo de Harvard afirma que los extraterrestres podrían haber llegado a la Tierra en 2017</a></h4>
     <a href='https://computerhoy.com/espacio/astronomo-afirma-extraterrestres-estan-tierra-1287774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/astronomo-harvard-afirma-extraterrestres-podrian-haber-llegado-tierra-2017-3104934.jpg?tf=1200x' alt='Un astrónomo de Harvard afirma que los extraterrestres podrían haber llegado a la Tierra en 2017' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-consumidas-durante-verano-espana-1287790'>El lado oscuro de una de las cervezas más consumidas durante el verano en España</a></h4>
-    <a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-consumidas-durante-verano-espana-1287790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lata-cerveza-3104980.jpg?tf=1200x' alt='El lado oscuro de una de las cervezas más consumidas durante el verano en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dinos-lado-cuerpo-duermes-te-daremos-buenas-malas-noticias-1287786'>Dinos sobre qué lado del cuerpo duermes, y te daremos buenas o malas noticias</a></h4>
-    <a href='https://computerhoy.com/life/dinos-lado-cuerpo-duermes-te-daremos-buenas-malas-noticias-1287786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dormir-3104978.jpg?tf=1200x' alt='Dinos sobre qué lado del cuerpo duermes, y te daremos buenas o malas noticias' />
     </a>
 </div>
 
