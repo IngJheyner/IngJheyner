@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/10-lecciones-albert-einstein-cambiaran-forma-ver-vida-1285888'>10 lecciones de Albert Einstein que cambiarán tu forma de ver la vida</a></h4>
-    <a href='https://computerhoy.com/life/10-lecciones-albert-einstein-cambiaran-forma-ver-vida-1285888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/albert-einstein-3105432.jpg?tf=1200x' alt='10 lecciones de Albert Einstein que cambiarán tu forma de ver la vida' />
+    <h4><a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-ofrece-detalles-impresionantes-estrella-distante-jamas-vista-1288314'>El telescopio espacial James Webb de la NASA ofrece detalles impresionantes de la estrella más distante jamás vista</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-ofrece-detalles-impresionantes-estrella-distante-jamas-vista-1288314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/telescopio-espacial-james-webb-nasa-ofrece-detalles-impresionantes-estrella-distante-jamas-vista-3105960.jpg?tf=1200x' alt='El telescopio espacial James Webb de la NASA ofrece detalles impresionantes de la estrella más distante jamás vista' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/beer-creer-nombres-sorprendentes-registrados-oficina-espanola-patentes-marcas-1288248'>Beer Para Creer: los nombres más sorprendentes registrados en la Oficina Española de Patentes y Marcas</a></h4>
-    <a href='https://computerhoy.com/life/beer-creer-nombres-sorprendentes-registrados-oficina-espanola-patentes-marcas-1288248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chico-chica-muy-sorprendidos-3105802.jpg?tf=1200x' alt='Beer Para Creer: los nombres más sorprendentes registrados en la Oficina Española de Patentes y Marcas' />
+    <h4><a href='https://computerhoy.com/life/explicacion-cientifica-detras-maldicion-momias-1288282'>¿Eran los hongos los culpables de la muerte de los excavadores de la tumba de Tutankamón?</a></h4>
+    <a href='https://computerhoy.com/life/explicacion-cientifica-detras-maldicion-momias-1288282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/eran-hongos-culpables-muerte-excavadores-tumba-tutankamon-3105866.jpg?tf=1200x' alt='¿Eran los hongos los culpables de la muerte de los excavadores de la tumba de Tutankamón?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-android-auto-coche-no-compatible-1287822'>Cómo instalar Android Auto en un coche no compatible</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-android-auto-coche-no-compatible-1287822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg?tf=1200x' alt='Cómo instalar Android Auto en un coche no compatible' />
+    <h4><a href='https://computerhoy.com/ciencia/turismo-espacial-mantener-relaciones-sexuales-fuera-planeta-1288306'>Turismo espacial: ¿Es seguro mantener relaciones íntimas fuera del planeta?</a></h4>
+    <a href='https://computerhoy.com/ciencia/turismo-espacial-mantener-relaciones-sexuales-fuera-planeta-1288306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/turismo-espacial-seguro-mantener-relaciones-intimas-fuera-planeta-3105944.jpg?tf=1200x' alt='Turismo espacial: ¿Es seguro mantener relaciones íntimas fuera del planeta?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-conseguir-introducir-texto-fire-tv-deje-ser-infierno-1287804'>Cómo conseguir que introducir texto en el Amazon Fire TV deje de ser un infierno</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-conseguir-introducir-texto-fire-tv-deje-ser-infierno-1287804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-fire-tv-alexa-3105422.jpg?tf=1200x' alt='Cómo conseguir que introducir texto en el Amazon Fire TV deje de ser un infierno' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-windows-11-cuenta-microsoft-1239040'>Cómo instalar Windows 11 sin cuenta de Microsoft</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-windows-11-cuenta-microsoft-1239040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-pantalla-ordenador-2613829.jpg?tf=1200x' alt='Cómo instalar Windows 11 sin cuenta de Microsoft' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-revelan-cuanto-debes-caminar-dia-tener-vida-saludable-no-son-10000-pasos-1287772'>Olvídate de los 10.000 pasos, científicos revelan cuánto debes caminar al día para tener una vida activa y saludable (y es mucho menos)</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-revelan-cuanto-debes-caminar-dia-tener-vida-saludable-no-son-10000-pasos-1287772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/reto-caminar-10000-pasos-diarios.jpg?tf=1200x' alt='Olvídate de los 10.000 pasos, científicos revelan cuánto debes caminar al día para tener una vida activa y saludable (y es mucho menos)' />
+    <h4><a href='https://computerhoy.com/ciencia/alerta-extincion-vaquita-10-ejemplares-1288294'>Lanzan una alerta de extinción, la primera en 70 años, para el mamífero marino más pequeño: solo quedan 10 ejemplares</a></h4>
+    <a href='https://computerhoy.com/ciencia/alerta-extincion-vaquita-10-ejemplares-1288294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lanzan-alerta-extincion-primera-70-anos-mamifero-marino-pequeno-solo-quedan-10-ejemplares-3105924.jpg?tf=1200x' alt='Lanzan una alerta de extinción, la primera en 70 años, para el mamífero marino más pequeño: solo quedan 10 ejemplares' />
     </a>
 </div>
 
