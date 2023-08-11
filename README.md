@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hyperloop-tren-futurista-capaz-viajar-800-km-h-ya-funciona-europa-1288748'>Hyperloop, el tren futurista de Elon Musk capaz de viajar a 800 km/h, ya funciona en Europa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hyperloop-tren-futurista-capaz-viajar-800-km-h-ya-funciona-europa-1288748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/12/hyperloop.jpg?tf=1200x' alt='Hyperloop, el tren futurista de Elon Musk capaz de viajar a 800 km/h, ya funciona en Europa' />
+    <h4><a href='https://computerhoy.com/ciencia/quinta-fuerza-naturaleza-experimento-podria-revolucionar-fisica-actual-1288792'>¿La quinta fuerza de la naturaleza? Un experimento podría revolucionar la física tal y como la conocemos</a></h4>
+    <a href='https://computerhoy.com/ciencia/quinta-fuerza-naturaleza-experimento-podria-revolucionar-fisica-actual-1288792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/quinta-fuerza-naturaleza-experimento-punto-revolucionar-fisica-como-conocemos-3106806.jpg?tf=1200x' alt='¿La quinta fuerza de la naturaleza? Un experimento podría revolucionar la física tal y como la conocemos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/primer-pais-mundo-quiere-eliminar-dinero-metalico-1288746'>Este es el primer país del mundo que quiere eliminar el dinero en metálico</a></h4>
-    <a href='https://computerhoy.com/life/primer-pais-mundo-quiere-eliminar-dinero-metalico-1288746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/primer-pais-mundo-abandona-dinero-metalico-3106626.jpg?tf=1200x' alt='Este es el primer país del mundo que quiere eliminar el dinero en metálico' />
+    <h4><a href='https://computerhoy.com/tutoriales/funcion-oculta-google-maps-ayuda-ahorrar-gasolina-1288560'>La función oculta de Google Maps que nadie utiliza y que ayuda a ahorrar gasolina y ser más ecológico</a></h4>
+    <a href='https://computerhoy.com/tutoriales/funcion-oculta-google-maps-ayuda-ahorrar-gasolina-1288560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/11-caracteristicas-google-maps-todo-mundo-debe-conocer-2408147.jpg?tf=1200x' alt='La función oculta de Google Maps que nadie utiliza y que ayuda a ahorrar gasolina y ser más ecológico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-iphone-introducir-contrasenas-largas-complicadas-segundos-1288336'>El genial truco viral de iPhone para introducir contraseñas largas y complicadas en segundos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-iphone-introducir-contrasenas-largas-complicadas-segundos-1288336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/truco-iphone-introducir-contrasenas-largas-segundos-3106204.jpg?tf=1200x' alt='El genial truco viral de iPhone para introducir contraseñas largas y complicadas en segundos' />
+    <h4><a href='https://computerhoy.com/ciencia/lagunas-permanentes-donana-se-han-secado-1288794'>Por primera vez en la historia, todas las lagunas permanentes de Doñana se han secado por segundo año consecutivo</a></h4>
+    <a href='https://computerhoy.com/ciencia/lagunas-permanentes-donana-se-han-secado-1288794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/primera-vez-historia-todas-lagunas-permanentes-donana-han-secado-segundo-ano-consecutivo-3106782.jpg?tf=1200x' alt='Por primera vez en la historia, todas las lagunas permanentes de Doñana se han secado por segundo año consecutivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-saber-aplicacion-segura-6-consejos-proteger-dispositivo-1277272'>Cómo saber si una aplicación es segura: 6 consejos para proteger tu dispositivo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-saber-aplicacion-segura-6-consejos-proteger-dispositivo-1277272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/app-seguridad-3087230.jpg?tf=1200x' alt='Cómo saber si una aplicación es segura: 6 consejos para proteger tu dispositivo' />
+    <h4><a href='https://computerhoy.com/windows/como-acceder-menu-secreto-windows-11-funciones-incluye-1288300'>Cómo acceder al menú secreto de Windows 11 y qué funciones incluye</a></h4>
+    <a href='https://computerhoy.com/windows/como-acceder-menu-secreto-windows-11-funciones-incluye-1288300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3106634.jpg?tf=1200x' alt='Cómo acceder al menú secreto de Windows 11 y qué funciones incluye' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/realme-snapdragon-695-camara-triple-50-megapixeles-5g-mitad-precio-solo-139-euros-1288692'>Este realme 9 con Snapdragon 695 y 5G está a mitad de precio por sólo 139 euros</a></h4>
-    <a href='https://computerhoy.com/android/realme-snapdragon-695-camara-triple-50-megapixeles-5g-mitad-precio-solo-139-euros-1288692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/realme-9-5g-2928048.jpg?tf=1200x' alt='Este realme 9 con Snapdragon 695 y 5G está a mitad de precio por sólo 139 euros' />
+    <h4><a href='https://computerhoy.com/espacio/37-horas-panico-nasa-recuperar-conexion-voyager-2-1288764'>Las 37 horas de terror en la NASA para recuperar la conexión con la Voyager 2: "Fue un momento de pánico"</a></h4>
+    <a href='https://computerhoy.com/espacio/37-horas-panico-nasa-recuperar-conexion-voyager-2-1288764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/voyager-2-3106776.jpg?tf=1200x' alt='Las 37 horas de terror en la NASA para recuperar la conexión con la Voyager 2: "Fue un momento de pánico"' />
     </a>
 </div>
 
