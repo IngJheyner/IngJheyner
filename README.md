@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/james-webb-encontro-signo-interrogacion-espacio-nasa-ya-sabe-significa-1288696'>James Webb encontró un signo de interrogación en el espacio y la NASA ya sabe qué significa</a></h4>
-    <a href='https://computerhoy.com/espacio/james-webb-encontro-signo-interrogacion-espacio-nasa-ya-sabe-significa-1288696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/james-webb-signo-interrogacion-3106650.jpg?tf=1200x' alt='James Webb encontró un signo de interrogación en el espacio y la NASA ya sabe qué significa' />
+    <h4><a href='https://computerhoy.com/tecnologia/hyperloop-tren-futurista-capaz-viajar-800-km-h-ya-funciona-europa-1288748'>Hyperloop, el tren futurista de Elon Musk capaz de viajar a 800 km/h, ya funciona en Europa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hyperloop-tren-futurista-capaz-viajar-800-km-h-ya-funciona-europa-1288748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/12/hyperloop.jpg?tf=1200x' alt='Hyperloop, el tren futurista de Elon Musk capaz de viajar a 800 km/h, ya funciona en Europa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/perseidas-2023-cuando-ver-espana-lagrimas-san-lorenzo-mejores-lugares-ver-lluvia-estrellas-agosto-1288646'>Perseidas 2023: cuándo ver en España las lágrimas de San Lorenzo y los mejores lugares para ver la lluvia de estrellas de agosto</a></h4>
-    <a href='https://computerhoy.com/espacio/perseidas-2023-cuando-ver-espana-lagrimas-san-lorenzo-mejores-lugares-ver-lluvia-estrellas-agosto-1288646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/perseidas-3106388.jpg?tf=1200x' alt='Perseidas 2023: cuándo ver en España las lágrimas de San Lorenzo y los mejores lugares para ver la lluvia de estrellas de agosto' />
+    <h4><a href='https://computerhoy.com/life/primer-pais-mundo-quiere-eliminar-dinero-metalico-1288746'>Este es el primer país del mundo que quiere eliminar el dinero en metálico</a></h4>
+    <a href='https://computerhoy.com/life/primer-pais-mundo-quiere-eliminar-dinero-metalico-1288746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/primer-pais-mundo-abandona-dinero-metalico-3106626.jpg?tf=1200x' alt='Este es el primer país del mundo que quiere eliminar el dinero en metálico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/donde-comprar-iphone-13-barato-posible-1288640'>¿Dónde comprar el iPhone 13 al menor precio posible?</a></h4>
-    <a href='https://computerhoy.com/apple/donde-comprar-iphone-13-barato-posible-1288640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg?tf=1200x' alt='¿Dónde comprar el iPhone 13 al menor precio posible?' />
+    <h4><a href='https://computerhoy.com/tutoriales/truco-iphone-introducir-contrasenas-largas-complicadas-segundos-1288336'>El genial truco viral de iPhone para introducir contraseñas largas y complicadas en segundos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-iphone-introducir-contrasenas-largas-complicadas-segundos-1288336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/truco-iphone-introducir-contrasenas-largas-segundos-3106204.jpg?tf=1200x' alt='El genial truco viral de iPhone para introducir contraseñas largas y complicadas en segundos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/miles-conductores-europeos-eligen-marcas-coches-menos-fiables-nunca-volverian-comprar-1288626'>Miles de conductores europeos eligen las marcas de coches menos fiables que nunca volverían a comprar</a></h4>
-    <a href='https://computerhoy.com/motor/miles-conductores-europeos-eligen-marcas-coches-menos-fiables-nunca-volverian-comprar-1288626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ocu-coches-3106364.jpg?tf=1200x' alt='Miles de conductores europeos eligen las marcas de coches menos fiables que nunca volverían a comprar' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-saber-aplicacion-segura-6-consejos-proteger-dispositivo-1277272'>Cómo saber si una aplicación es segura: 6 consejos para proteger tu dispositivo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-saber-aplicacion-segura-6-consejos-proteger-dispositivo-1277272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/app-seguridad-3087230.jpg?tf=1200x' alt='Cómo saber si una aplicación es segura: 6 consejos para proteger tu dispositivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/presentacion-iphone-15-novedades-apple-tiene-preparadas-evento-septiembre-1288606'>Presentación iPhone 15: novedades y sorpresas que Apple tiene preparadas para su evento en septiembre</a></h4>
-    <a href='https://computerhoy.com/apple/presentacion-iphone-15-novedades-apple-tiene-preparadas-evento-septiembre-1288606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/evento-apple-3106332.jpg?tf=1200x' alt='Presentación iPhone 15: novedades y sorpresas que Apple tiene preparadas para su evento en septiembre' />
+    <h4><a href='https://computerhoy.com/android/realme-snapdragon-695-camara-triple-50-megapixeles-5g-mitad-precio-solo-139-euros-1288692'>Este realme 9 con Snapdragon 695 y 5G está a mitad de precio por sólo 139 euros</a></h4>
+    <a href='https://computerhoy.com/android/realme-snapdragon-695-camara-triple-50-megapixeles-5g-mitad-precio-solo-139-euros-1288692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/realme-9-5g-2928048.jpg?tf=1200x' alt='Este realme 9 con Snapdragon 695 y 5G está a mitad de precio por sólo 139 euros' />
     </a>
 </div>
 
