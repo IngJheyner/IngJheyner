@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/rtve-recupera-concurso-cifras-letras-2023-1288820'>Tras el éxito de Grand Prix, RTVE se envuelve en la nostalgia y recupera otro concurso mítico de hace 30 años</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/rtve-recupera-concurso-cifras-letras-2023-1288820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/exito-grand-prix-rtve-envuelve-nostalgia-recupera-otro-concurso-mitico-3106840.jpg?tf=1200x' alt='Tras el éxito de Grand Prix, RTVE se envuelve en la nostalgia y recupera otro concurso mítico de hace 30 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/mejores-accesorios-steam-deck-dock-microsd-mucho-1288732'>Los mejores accesorios para Steam Deck: dock, microSD y mucho más</a></h4>
+    <a href='https://computerhoy.com/gaming/mejores-accesorios-steam-deck-dock-microsd-mucho-1288732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704079.jpg?tf=1200x' alt='Los mejores accesorios para Steam Deck: dock, microSD y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-stanford-crean-aldea-25-bots-gestionados-ia-interactuan-viven-como-seres-humanos-1288804'>Google y Stanford crean una aldea con 25 bots gestionados por IA que interactúan y viven como seres humanos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-stanford-crean-aldea-25-bots-gestionados-ia-interactuan-viven-como-seres-humanos-1288804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-stanford-crean-aldea-25-bots-gestionados-ia-interactuan-viven-como-seres-humanos-3106822.jpg?tf=1200x' alt='Google y Stanford crean una aldea con 25 bots gestionados por IA que interactúan y viven como seres humanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/interceptan-hombre-aduana-420-modulos-memoria-ram-envueltos-alrededor-piernas-1288802'>Interceptan a un hombre en la aduana con 420 módulos de memoria RAM envueltos alrededor de sus piernas</a></h4>
     <a href='https://computerhoy.com/life/interceptan-hombre-aduana-420-modulos-memoria-ram-envueltos-alrededor-piernas-1288802' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/interceptan-hombre-aduana-420-modulos-memoria-ram-envueltos-alrededor-piernas-3106820.jpg?tf=1200x' alt='Interceptan a un hombre en la aduana con 420 módulos de memoria RAM envueltos alrededor de sus piernas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-hacer-powertoys-windows-11-esten-siempre-visibles-1288104'>Cómo hacer que las PowerToys de Windows 11 estén siempre visibles </a></h4>
     <a href='https://computerhoy.com/tutoriales/como-hacer-powertoys-windows-11-esten-siempre-visibles-1288104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/powertoys-logo-windows-11-3106690.jpg?tf=1200x' alt='Cómo hacer que las PowerToys de Windows 11 estén siempre visibles ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/quinta-fuerza-naturaleza-experimento-podria-revolucionar-fisica-actual-1288792'>¿La quinta fuerza de la naturaleza? Un experimento podría revolucionar la física tal y como la conocemos</a></h4>
-    <a href='https://computerhoy.com/ciencia/quinta-fuerza-naturaleza-experimento-podria-revolucionar-fisica-actual-1288792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/quinta-fuerza-naturaleza-experimento-punto-revolucionar-fisica-como-conocemos-3106806.jpg?tf=1200x' alt='¿La quinta fuerza de la naturaleza? Un experimento podría revolucionar la física tal y como la conocemos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/funcion-oculta-google-maps-ayuda-ahorrar-gasolina-1288560'>La función oculta de Google Maps que nadie utiliza y que ayuda a ahorrar gasolina y ser más ecológico</a></h4>
-    <a href='https://computerhoy.com/tutoriales/funcion-oculta-google-maps-ayuda-ahorrar-gasolina-1288560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/11-caracteristicas-google-maps-todo-mundo-debe-conocer-2408147.jpg?tf=1200x' alt='La función oculta de Google Maps que nadie utiliza y que ayuda a ahorrar gasolina y ser más ecológico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/lagunas-permanentes-donana-se-han-secado-1288794'>Por primera vez en la historia, todas las lagunas permanentes de Doñana se han secado por segundo año consecutivo</a></h4>
-    <a href='https://computerhoy.com/ciencia/lagunas-permanentes-donana-se-han-secado-1288794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/primera-vez-historia-todas-lagunas-permanentes-donana-han-secado-segundo-ano-consecutivo-3106782.jpg?tf=1200x' alt='Por primera vez en la historia, todas las lagunas permanentes de Doñana se han secado por segundo año consecutivo' />
     </a>
 </div>
 
