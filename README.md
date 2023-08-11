@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/james-webb-encontro-signo-interrogacion-espacio-nasa-ya-sabe-significa-1288696'>James Webb encontró un signo de interrogación en el espacio y la NASA ya sabe qué significa</a></h4>
+    <a href='https://computerhoy.com/espacio/james-webb-encontro-signo-interrogacion-espacio-nasa-ya-sabe-significa-1288696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/james-webb-signo-interrogacion-3106650.jpg?tf=1200x' alt='James Webb encontró un signo de interrogación en el espacio y la NASA ya sabe qué significa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/perseidas-2023-cuando-ver-espana-lagrimas-san-lorenzo-mejores-lugares-ver-lluvia-estrellas-agosto-1288646'>Perseidas 2023: cuándo ver en España las lágrimas de San Lorenzo y los mejores lugares para ver la lluvia de estrellas de agosto</a></h4>
+    <a href='https://computerhoy.com/espacio/perseidas-2023-cuando-ver-espana-lagrimas-san-lorenzo-mejores-lugares-ver-lluvia-estrellas-agosto-1288646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/perseidas-3106388.jpg?tf=1200x' alt='Perseidas 2023: cuándo ver en España las lágrimas de San Lorenzo y los mejores lugares para ver la lluvia de estrellas de agosto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/donde-comprar-iphone-13-barato-posible-1288640'>¿Dónde comprar el iPhone 13 al menor precio posible?</a></h4>
+    <a href='https://computerhoy.com/apple/donde-comprar-iphone-13-barato-posible-1288640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg?tf=1200x' alt='¿Dónde comprar el iPhone 13 al menor precio posible?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/miles-conductores-europeos-eligen-marcas-coches-menos-fiables-nunca-volverian-comprar-1288626'>Miles de conductores europeos eligen las marcas de coches menos fiables que nunca volverían a comprar</a></h4>
     <a href='https://computerhoy.com/motor/miles-conductores-europeos-eligen-marcas-coches-menos-fiables-nunca-volverian-comprar-1288626' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ocu-coches-3106364.jpg?tf=1200x' alt='Miles de conductores europeos eligen las marcas de coches menos fiables que nunca volverían a comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/presentacion-iphone-15-novedades-apple-tiene-preparadas-evento-septiembre-1288606'>Presentación iPhone 15: novedades y sorpresas que Apple tiene preparadas para su evento en septiembre</a></h4>
     <a href='https://computerhoy.com/apple/presentacion-iphone-15-novedades-apple-tiene-preparadas-evento-septiembre-1288606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/evento-apple-3106332.jpg?tf=1200x' alt='Presentación iPhone 15: novedades y sorpresas que Apple tiene preparadas para su evento en septiembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-queda-solo-waze-competencia-directa-tiene-problemas-1288570'>Android Auto se queda "solo": Waze, su competencia más directa, tiene problemas</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-queda-solo-waze-competencia-directa-tiene-problemas-1288570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/waze-android-auto-3106244.jpg?tf=1200x' alt='Android Auto se queda "solo": Waze, su competencia más directa, tiene problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/historia-apagon-analogico-trajo-tdt-espana-1237610'>25 aniversario de Computer Hoy: El apagón analógico del que nació la TDT, un hito tecnológico que marcó la historia de España</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/historia-apagon-analogico-trajo-tdt-espana-1237610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apagon-tecnologico-espana-tdt-25-aniversario-computer-hoy-3103726.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: El apagón analógico del que nació la TDT, un hito tecnológico que marcó la historia de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/ticwatch-pro-5-analisis-opinion-dos-pantallas-mejor-1259210'>TicWatch Pro 5, análisis y opinión: Dos pantallas mejor que una para optimizar la autonomía</a></h4>
-    <a href='https://computerhoy.com/analisis/ticwatch-pro-5-analisis-opinion-dos-pantallas-mejor-1259210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ticwatch-pro-5-3099998.jpg?tf=1200x' alt='TicWatch Pro 5, análisis y opinión: Dos pantallas mejor que una para optimizar la autonomía' />
     </a>
 </div>
 
