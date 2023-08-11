@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/recibe-50-paquetes-amazon-al-mes-sin-pedirlos-razon-preocupante-1288332'>Una mujer ha recibido 50 paquetes de Amazon sin pedirlos, la mayoría zapatos, y la razón es muy preocupante</a></h4>
+    <a href='https://computerhoy.com/amazon/recibe-50-paquetes-amazon-al-mes-sin-pedirlos-razon-preocupante-1288332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mujer-ha-recibido-50-paquetes-amazon-mes-pedirlos-mayoria-zapatos-razon-muy-preocupante-3105988.jpg?tf=1200x' alt='Una mujer ha recibido 50 paquetes de Amazon sin pedirlos, la mayoría zapatos, y la razón es muy preocupante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/tdtchannels-estrena-nuevos-canales-cine-gratis-nuevas-radios-1288324'>TDTChannels estrena nuevos canales de cine gratis y nuevas radios</a></h4>
     <a href='https://computerhoy.com/entretenimiento/tdtchannels-estrena-nuevos-canales-cine-gratis-nuevas-radios-1288324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels estrena nuevos canales de cine gratis y nuevas radios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/explicacion-cientifica-detras-maldicion-momias-1288282'>¿Eran los hongos los culpables de la muerte de los excavadores de la tumba de Tutankamón?</a></h4>
     <a href='https://computerhoy.com/life/explicacion-cientifica-detras-maldicion-momias-1288282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/eran-hongos-culpables-muerte-excavadores-tumba-tutankamon-3105866.jpg?tf=1200x' alt='¿Eran los hongos los culpables de la muerte de los excavadores de la tumba de Tutankamón?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/turismo-espacial-mantener-relaciones-sexuales-fuera-planeta-1288306'>Turismo espacial: ¿Es seguro mantener relaciones íntimas fuera del planeta?</a></h4>
-    <a href='https://computerhoy.com/ciencia/turismo-espacial-mantener-relaciones-sexuales-fuera-planeta-1288306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/turismo-espacial-seguro-mantener-relaciones-intimas-fuera-planeta-3105944.jpg?tf=1200x' alt='Turismo espacial: ¿Es seguro mantener relaciones íntimas fuera del planeta?' />
     </a>
 </div>
 
