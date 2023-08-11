@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/android-auto-queda-solo-waze-competencia-directa-tiene-problemas-1288570'>Android Auto se queda "solo": Waze, su competencia más directa, tiene problemas</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-queda-solo-waze-competencia-directa-tiene-problemas-1288570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/waze-android-auto-3106244.jpg?tf=1200x' alt='Android Auto se queda "solo": Waze, su competencia más directa, tiene problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/historia-apagon-analogico-trajo-tdt-espana-1237610'>25 aniversario de Computer Hoy: El apagón analógico del que nació la TDT, un hito tecnológico que marcó la historia de España</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/historia-apagon-analogico-trajo-tdt-espana-1237610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apagon-tecnologico-espana-tdt-25-aniversario-computer-hoy-3103726.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: El apagón analógico del que nació la TDT, un hito tecnológico que marcó la historia de España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/ticwatch-pro-5-analisis-opinion-dos-pantallas-mejor-1259210'>TicWatch Pro 5, análisis y opinión: Dos pantallas mejor que una para optimizar la autonomía</a></h4>
+    <a href='https://computerhoy.com/analisis/ticwatch-pro-5-analisis-opinion-dos-pantallas-mejor-1259210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ticwatch-pro-5-3099998.jpg?tf=1200x' alt='TicWatch Pro 5, análisis y opinión: Dos pantallas mejor que una para optimizar la autonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-usar-whatsapp-1043943'>5 móviles baratos para usar WhatsApp y poco más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-usar-whatsapp-1043943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-12c-3050838.jpg?tf=1200x' alt='5 móviles baratos para usar WhatsApp y poco más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/recibe-50-paquetes-amazon-al-mes-sin-pedirlos-razon-preocupante-1288332'>Una mujer ha recibido 50 paquetes de Amazon sin pedirlos, la mayoría zapatos, y la razón es muy preocupante</a></h4>
     <a href='https://computerhoy.com/amazon/recibe-50-paquetes-amazon-al-mes-sin-pedirlos-razon-preocupante-1288332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mujer-ha-recibido-50-paquetes-amazon-mes-pedirlos-mayoria-zapatos-razon-muy-preocupante-3105988.jpg?tf=1200x' alt='Una mujer ha recibido 50 paquetes de Amazon sin pedirlos, la mayoría zapatos, y la razón es muy preocupante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/tdtchannels-estrena-nuevos-canales-cine-gratis-nuevas-radios-1288324'>TDTChannels estrena nuevos canales de cine gratis y nuevas radios</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/tdtchannels-estrena-nuevos-canales-cine-gratis-nuevas-radios-1288324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels estrena nuevos canales de cine gratis y nuevas radios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/seria-advertencia-google-no-ignores-ultima-actualizacion-android-movil-serio-peligro-1288318'>Seria advertencia de Google: no ignores la última actualización de Android, tú móvil está en serio peligro</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/seria-advertencia-google-no-ignores-ultima-actualizacion-android-movil-serio-peligro-1288318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/android-malware-3096000.jpg?tf=1200x' alt='Seria advertencia de Google: no ignores la última actualización de Android, tú móvil está en serio peligro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-ofrece-detalles-impresionantes-estrella-distante-jamas-vista-1288314'>El telescopio espacial James Webb de la NASA ofrece detalles impresionantes de la estrella más distante jamás vista</a></h4>
-    <a href='https://computerhoy.com/espacio/telescopio-espacial-james-webb-nasa-ofrece-detalles-impresionantes-estrella-distante-jamas-vista-1288314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/telescopio-espacial-james-webb-nasa-ofrece-detalles-impresionantes-estrella-distante-jamas-vista-3105960.jpg?tf=1200x' alt='El telescopio espacial James Webb de la NASA ofrece detalles impresionantes de la estrella más distante jamás vista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/explicacion-cientifica-detras-maldicion-momias-1288282'>¿Eran los hongos los culpables de la muerte de los excavadores de la tumba de Tutankamón?</a></h4>
-    <a href='https://computerhoy.com/life/explicacion-cientifica-detras-maldicion-momias-1288282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/eran-hongos-culpables-muerte-excavadores-tumba-tutankamon-3105866.jpg?tf=1200x' alt='¿Eran los hongos los culpables de la muerte de los excavadores de la tumba de Tutankamón?' />
     </a>
 </div>
 
