@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/miles-conductores-europeos-eligen-marcas-coches-menos-fiables-nunca-volverian-comprar-1288626'>Miles de conductores europeos eligen las marcas de coches menos fiables que nunca volverían a comprar</a></h4>
+    <a href='https://computerhoy.com/motor/miles-conductores-europeos-eligen-marcas-coches-menos-fiables-nunca-volverian-comprar-1288626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ocu-coches-3106364.jpg?tf=1200x' alt='Miles de conductores europeos eligen las marcas de coches menos fiables que nunca volverían a comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/presentacion-iphone-15-novedades-apple-tiene-preparadas-evento-septiembre-1288606'>Presentación iPhone 15: novedades y sorpresas que Apple tiene preparadas para su evento en septiembre</a></h4>
+    <a href='https://computerhoy.com/apple/presentacion-iphone-15-novedades-apple-tiene-preparadas-evento-septiembre-1288606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/evento-apple-3106332.jpg?tf=1200x' alt='Presentación iPhone 15: novedades y sorpresas que Apple tiene preparadas para su evento en septiembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/android-auto-queda-solo-waze-competencia-directa-tiene-problemas-1288570'>Android Auto se queda "solo": Waze, su competencia más directa, tiene problemas</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-queda-solo-waze-competencia-directa-tiene-problemas-1288570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/waze-android-auto-3106244.jpg?tf=1200x' alt='Android Auto se queda "solo": Waze, su competencia más directa, tiene problemas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/ticwatch-pro-5-analisis-opinion-dos-pantallas-mejor-1259210'>TicWatch Pro 5, análisis y opinión: Dos pantallas mejor que una para optimizar la autonomía</a></h4>
     <a href='https://computerhoy.com/analisis/ticwatch-pro-5-analisis-opinion-dos-pantallas-mejor-1259210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ticwatch-pro-5-3099998.jpg?tf=1200x' alt='TicWatch Pro 5, análisis y opinión: Dos pantallas mejor que una para optimizar la autonomía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-usar-whatsapp-1043943'>5 móviles baratos para usar WhatsApp y poco más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-usar-whatsapp-1043943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-12c-3050838.jpg?tf=1200x' alt='5 móviles baratos para usar WhatsApp y poco más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/recibe-50-paquetes-amazon-al-mes-sin-pedirlos-razon-preocupante-1288332'>Una mujer ha recibido 50 paquetes de Amazon sin pedirlos, la mayoría zapatos, y la razón es muy preocupante</a></h4>
-    <a href='https://computerhoy.com/amazon/recibe-50-paquetes-amazon-al-mes-sin-pedirlos-razon-preocupante-1288332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mujer-ha-recibido-50-paquetes-amazon-mes-pedirlos-mayoria-zapatos-razon-muy-preocupante-3105988.jpg?tf=1200x' alt='Una mujer ha recibido 50 paquetes de Amazon sin pedirlos, la mayoría zapatos, y la razón es muy preocupante' />
     </a>
 </div>
 
