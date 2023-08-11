@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/interceptan-hombre-aduana-420-modulos-memoria-ram-envueltos-alrededor-piernas-1288802'>Interceptan a un hombre en la aduana con 420 módulos de memoria RAM envueltos alrededor de sus piernas</a></h4>
+    <a href='https://computerhoy.com/life/interceptan-hombre-aduana-420-modulos-memoria-ram-envueltos-alrededor-piernas-1288802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/interceptan-hombre-aduana-420-modulos-memoria-ram-envueltos-alrededor-piernas-3106820.jpg?tf=1200x' alt='Interceptan a un hombre en la aduana con 420 módulos de memoria RAM envueltos alrededor de sus piernas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-powertoys-windows-11-esten-siempre-visibles-1288104'>Cómo hacer que las PowerToys de Windows 11 estén siempre visibles </a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-powertoys-windows-11-esten-siempre-visibles-1288104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/powertoys-logo-windows-11-3106690.jpg?tf=1200x' alt='Cómo hacer que las PowerToys de Windows 11 estén siempre visibles ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/quinta-fuerza-naturaleza-experimento-podria-revolucionar-fisica-actual-1288792'>¿La quinta fuerza de la naturaleza? Un experimento podría revolucionar la física tal y como la conocemos</a></h4>
     <a href='https://computerhoy.com/ciencia/quinta-fuerza-naturaleza-experimento-podria-revolucionar-fisica-actual-1288792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/quinta-fuerza-naturaleza-experimento-punto-revolucionar-fisica-como-conocemos-3106806.jpg?tf=1200x' alt='¿La quinta fuerza de la naturaleza? Un experimento podría revolucionar la física tal y como la conocemos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/lagunas-permanentes-donana-se-han-secado-1288794'>Por primera vez en la historia, todas las lagunas permanentes de Doñana se han secado por segundo año consecutivo</a></h4>
     <a href='https://computerhoy.com/ciencia/lagunas-permanentes-donana-se-han-secado-1288794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/primera-vez-historia-todas-lagunas-permanentes-donana-han-secado-segundo-ano-consecutivo-3106782.jpg?tf=1200x' alt='Por primera vez en la historia, todas las lagunas permanentes de Doñana se han secado por segundo año consecutivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-acceder-menu-secreto-windows-11-funciones-incluye-1288300'>Cómo acceder al menú secreto de Windows 11 y qué funciones incluye</a></h4>
-    <a href='https://computerhoy.com/windows/como-acceder-menu-secreto-windows-11-funciones-incluye-1288300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3106634.jpg?tf=1200x' alt='Cómo acceder al menú secreto de Windows 11 y qué funciones incluye' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/37-horas-panico-nasa-recuperar-conexion-voyager-2-1288764'>Las 37 horas de terror en la NASA para recuperar la conexión con la Voyager 2: "Fue un momento de pánico"</a></h4>
-    <a href='https://computerhoy.com/espacio/37-horas-panico-nasa-recuperar-conexion-voyager-2-1288764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/voyager-2-3106776.jpg?tf=1200x' alt='Las 37 horas de terror en la NASA para recuperar la conexión con la Voyager 2: "Fue un momento de pánico"' />
     </a>
 </div>
 
