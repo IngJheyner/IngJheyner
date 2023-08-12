@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bots-son-ya-mejores-humanos-resolver-pruebas-captcha-1289056'>Los bots son ya mejores que los humanos en resolver las pruebas de Captcha</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bots-son-ya-mejores-humanos-resolver-pruebas-captcha-1289056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/captcha-3107144.jpg?tf=1200x' alt='Los bots son ya mejores que los humanos en resolver las pruebas de Captcha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-formula-1-carreras-coches-llenas-emocion-1288280'>7 películas de Fórmula 1 y carreras de coches llenas de emoción</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-formula-1-carreras-coches-llenas-emocion-1288280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mans-66.jpg?tf=1200x' alt='7 películas de Fórmula 1 y carreras de coches llenas de emoción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/peligro-fake-news-nuevo-riesgo-ia-como-chatgpt-bard-1280704'>El peligro de la desinformación y 'fake news': el nuevo riesgo de las IA como ChatGPT o Bard</a></h4>
     <a href='https://computerhoy.com/tecnologia/peligro-fake-news-nuevo-riesgo-ia-como-chatgpt-bard-1280704' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/peligro-desinformacion-fake-news-nuevo-riesgo-ia-como-chatgpt-bard-3095054.jpg?tf=1200x' alt='El peligro de la desinformación y 'fake news': el nuevo riesgo de las IA como ChatGPT o Bard' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/primero-auxilios-movil-evitar-quedarte-verano-1286178'>Verano sin preocupaciones: primeros auxilios para cuidar tu móvil en caso de accidente</a></h4>
     <a href='https://computerhoy.com/moviles/primero-auxilios-movil-evitar-quedarte-verano-1286178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pareja-joven-moviles-playa-3106516.jpg?tf=1200x' alt='Verano sin preocupaciones: primeros auxilios para cuidar tu móvil en caso de accidente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/he-pasado-3-anos-buscando-chollos-tecnologia-estos-son-trucos-pagar-menos-1287718'>He pasado 3 años buscando chollos de tecnología: estos son mis trucos para pagar menos</a></h4>
-    <a href='https://computerhoy.com/life/he-pasado-3-anos-buscando-chollos-tecnologia-estos-son-trucos-pagar-menos-1287718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hucha-forma-cerdo-3104748.jpg?tf=1200x' alt='He pasado 3 años buscando chollos de tecnología: estos son mis trucos para pagar menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/isla-perdida-sentinel-norte-aun-viven-como-hace-10000-anos-1288218'>En esta isla perdida sus habitantes aún viven como hace 10.000 años y matan a todo aquel que ponga un pie allí</a></h4>
-    <a href='https://computerhoy.com/life/isla-perdida-sentinel-norte-aun-viven-como-hace-10000-anos-1288218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1691673902292-3105718.jpg?tf=1200x' alt='En esta isla perdida sus habitantes aún viven como hace 10.000 años y matan a todo aquel que ponga un pie allí' />
     </a>
 </div>
 
