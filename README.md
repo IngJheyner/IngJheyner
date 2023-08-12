@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/victoria-coches-autonomos-circularan-san-francisco-sin-limitaciones-1288822'>Gran victoria para los coches autónomos: podrán circular en San Francisco sin limitaciones</a></h4>
+    <a href='https://computerhoy.com/motor/victoria-coches-autonomos-circularan-san-francisco-sin-limitaciones-1288822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robotaxi-gm-cruise-2747457.jpg?tf=1200x' alt='Gran victoria para los coches autónomos: podrán circular en San Francisco sin limitaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/rtve-recupera-concurso-cifras-letras-2023-1288820'>Tras el éxito de Grand Prix, RTVE se envuelve en la nostalgia y recupera otro concurso mítico de hace 30 años</a></h4>
     <a href='https://computerhoy.com/entretenimiento/rtve-recupera-concurso-cifras-letras-2023-1288820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/exito-grand-prix-rtve-envuelve-nostalgia-recupera-otro-concurso-mitico-3106840.jpg?tf=1200x' alt='Tras el éxito de Grand Prix, RTVE se envuelve en la nostalgia y recupera otro concurso mítico de hace 30 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/interceptan-hombre-aduana-420-modulos-memoria-ram-envueltos-alrededor-piernas-1288802'>Interceptan a un hombre en la aduana con 420 módulos de memoria RAM envueltos alrededor de sus piernas</a></h4>
     <a href='https://computerhoy.com/life/interceptan-hombre-aduana-420-modulos-memoria-ram-envueltos-alrededor-piernas-1288802' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/interceptan-hombre-aduana-420-modulos-memoria-ram-envueltos-alrededor-piernas-3106820.jpg?tf=1200x' alt='Interceptan a un hombre en la aduana con 420 módulos de memoria RAM envueltos alrededor de sus piernas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-powertoys-windows-11-esten-siempre-visibles-1288104'>Cómo hacer que las PowerToys de Windows 11 estén siempre visibles </a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-powertoys-windows-11-esten-siempre-visibles-1288104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/powertoys-logo-windows-11-3106690.jpg?tf=1200x' alt='Cómo hacer que las PowerToys de Windows 11 estén siempre visibles ' />
     </a>
 </div>
 
