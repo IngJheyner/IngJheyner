@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/isla-perdida-sentinel-norte-aun-viven-como-hace-10000-anos-1288218'>En esta isla perdida sus habitantes aún viven como hace 10.000 años y matan a todo aquel que ponga un pie allí</a></h4>
+    <a href='https://computerhoy.com/life/isla-perdida-sentinel-norte-aun-viven-como-hace-10000-anos-1288218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1691673902292-3105718.jpg?tf=1200x' alt='En esta isla perdida sus habitantes aún viven como hace 10.000 años y matan a todo aquel que ponga un pie allí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/paleontologia-web-wikipedia-fin-enciclopedias-papel-1285510'>Wikipedia, así era y así es la web que desterró a las enciclopedias en papel a un rincón de las estanterías</a></h4>
+    <a href='https://computerhoy.com/tecnologia/paleontologia-web-wikipedia-fin-enciclopedias-papel-1285510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/paleontologia-web-wikipedia-3101134.jpg?tf=1200x' alt='Wikipedia, así era y así es la web que desterró a las enciclopedias en papel a un rincón de las estanterías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/estudiante-encuentra-espejo-magico-hace-1500-anos-1288334'>Una estudiante de 17 años encuentra un espejo mágico de hace 1.500 años en Israel, ¿para qué sirve?</a></h4>
+    <a href='https://computerhoy.com/ciencia/estudiante-encuentra-espejo-magico-hace-1500-anos-1288334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/espej-magico-hace-1500-anos-3105994.jpg?tf=1200x' alt='Una estudiante de 17 años encuentra un espejo mágico de hace 1.500 años en Israel, ¿para qué sirve?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/victoria-coches-autonomos-circularan-san-francisco-sin-limitaciones-1288822'>Gran victoria para los coches autónomos: podrán circular en San Francisco sin limitaciones</a></h4>
     <a href='https://computerhoy.com/motor/victoria-coches-autonomos-circularan-san-francisco-sin-limitaciones-1288822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robotaxi-gm-cruise-2747457.jpg?tf=1200x' alt='Gran victoria para los coches autónomos: podrán circular en San Francisco sin limitaciones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/rtve-recupera-concurso-cifras-letras-2023-1288820'>Tras el éxito de Grand Prix, RTVE se envuelve en la nostalgia y recupera otro concurso mítico de hace 30 años</a></h4>
     <a href='https://computerhoy.com/entretenimiento/rtve-recupera-concurso-cifras-letras-2023-1288820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/exito-grand-prix-rtve-envuelve-nostalgia-recupera-otro-concurso-mitico-3106840.jpg?tf=1200x' alt='Tras el éxito de Grand Prix, RTVE se envuelve en la nostalgia y recupera otro concurso mítico de hace 30 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/mejores-accesorios-steam-deck-dock-microsd-mucho-1288732'>Los mejores accesorios para Steam Deck: dock, microSD y mucho más</a></h4>
-    <a href='https://computerhoy.com/gaming/mejores-accesorios-steam-deck-dock-microsd-mucho-1288732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704079.jpg?tf=1200x' alt='Los mejores accesorios para Steam Deck: dock, microSD y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-stanford-crean-aldea-25-bots-gestionados-ia-interactuan-viven-como-seres-humanos-1288804'>Google y Stanford crean una aldea con 25 bots gestionados por IA que interactúan y viven como seres humanos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-stanford-crean-aldea-25-bots-gestionados-ia-interactuan-viven-como-seres-humanos-1288804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-stanford-crean-aldea-25-bots-gestionados-ia-interactuan-viven-como-seres-humanos-3106822.jpg?tf=1200x' alt='Google y Stanford crean una aldea con 25 bots gestionados por IA que interactúan y viven como seres humanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/interceptan-hombre-aduana-420-modulos-memoria-ram-envueltos-alrededor-piernas-1288802'>Interceptan a un hombre en la aduana con 420 módulos de memoria RAM envueltos alrededor de sus piernas</a></h4>
-    <a href='https://computerhoy.com/life/interceptan-hombre-aduana-420-modulos-memoria-ram-envueltos-alrededor-piernas-1288802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/interceptan-hombre-aduana-420-modulos-memoria-ram-envueltos-alrededor-piernas-3106820.jpg?tf=1200x' alt='Interceptan a un hombre en la aduana con 420 módulos de memoria RAM envueltos alrededor de sus piernas' />
     </a>
 </div>
 
