@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-quiere-vision-pro-ajuste-forma-automatica-cabeza-cara-usuarios-1289114'>Apple quiere que su Vision Pro se ajuste de forma automática a la cabeza y a la cara de los usuarios</a></h4>
+    <a href='https://computerhoy.com/apple/apple-quiere-vision-pro-ajuste-forma-automatica-cabeza-cara-usuarios-1289114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051082.jpg?tf=1200x' alt='Apple quiere que su Vision Pro se ajuste de forma automática a la cabeza y a la cara de los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hallan-tumba-nino-vampiro-atado-candados-enterrado-boca-abajo-1289106'>Encuentran la tumba de un "niño vampiro" atado con candados y enterrado boca abajo</a></h4>
+    <a href='https://computerhoy.com/life/hallan-tumba-nino-vampiro-atado-candados-enterrado-boca-abajo-1289106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/encuentran-tumba-nino-vampiro-atado-candados-enterrado-boca-abajo-3107152.jpg?tf=1200x' alt='Encuentran la tumba de un "niño vampiro" atado con candados y enterrado boca abajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/confirman-peores-presagios-julio-ha-sido-mes-caluroso-jamas-registrado-tierra-1289102'>Se confirman los peores presagios: julio ha sido el mes más caluroso jamás registrado en la Tierra</a></h4>
+    <a href='https://computerhoy.com/life/confirman-peores-presagios-julio-ha-sido-mes-caluroso-jamas-registrado-tierra-1289102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ola-calor-3107232.jpg?tf=1200x' alt='Se confirman los peores presagios: julio ha sido el mes más caluroso jamás registrado en la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-cambiar-pc-nube-segundos-1289084'>Windows 11 te permitirá cambiar a un PC en la nube en segundos</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-te-permitira-cambiar-pc-nube-segundos-1289084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/windows-11-2689905.jpg?tf=1200x' alt='Windows 11 te permitirá cambiar a un PC en la nube en segundos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/llegan-instrucciones-personalizadas-todos-usuarios-chatgpt-funcionan-1289080'>Llegan las instrucciones personalizadas a todos los usuarios de ChatGPT y así funcionan</a></h4>
     <a href='https://computerhoy.com/apps/llegan-instrucciones-personalizadas-todos-usuarios-chatgpt-funcionan-1289080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3078012.jpg?tf=1200x' alt='Llegan las instrucciones personalizadas a todos los usuarios de ChatGPT y así funcionan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-insinua-puede-retrasar-regreso-ser-humano-luna-1289078'>La NASA insinúa que puede retrasar el regreso del ser humano a la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-insinua-puede-retrasar-regreso-ser-humano-luna-1289078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lustracion-modulo-aterrizaje-lunar-spacex-starship-luna-3107188.jpg?tf=1200x' alt='La NASA insinúa que puede retrasar el regreso del ser humano a la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-pinterest-paso-paso-1285548'>Cómo descargar vídeos de Pinterest</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-descargar-videos-pinterest-paso-paso-1285548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/alguien-usando-pinterest-3101084.jpg?tf=1200x' alt='Cómo descargar vídeos de Pinterest' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/renfe-avisa-estafa-podria-estropearte-vacaciones-1289074'>Renfe avisa de una estafa que podría estropearte las vacaciones</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/renfe-avisa-estafa-podria-estropearte-vacaciones-1289074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/renfe-3107180.jpg?tf=1200x' alt='Renfe avisa de una estafa que podría estropearte las vacaciones' />
     </a>
 </div>
 
