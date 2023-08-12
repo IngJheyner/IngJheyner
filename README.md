@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/peligro-fake-news-nuevo-riesgo-ia-como-chatgpt-bard-1280704'>El peligro de la desinformación y 'fake news': el nuevo riesgo de las IA como ChatGPT o Bard</a></h4>
+    <a href='https://computerhoy.com/tecnologia/peligro-fake-news-nuevo-riesgo-ia-como-chatgpt-bard-1280704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/peligro-desinformacion-fake-news-nuevo-riesgo-ia-como-chatgpt-bard-3095054.jpg?tf=1200x' alt='El peligro de la desinformación y 'fake news': el nuevo riesgo de las IA como ChatGPT o Bard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/futuro-tecnologia-chip-combina-cerebro-humano-ia-1278952'>¿El futuro de la tecnología? El chip que combina cerebro humano e IA y cuenta con financiación militar</a></h4>
+    <a href='https://computerhoy.com/ciencia/futuro-tecnologia-chip-combina-cerebro-humano-ia-1278952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chip-cerebrarl-3090028.jpg?tf=1200x' alt='¿El futuro de la tecnología? El chip que combina cerebro humano e IA y cuenta con financiación militar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/primero-auxilios-movil-evitar-quedarte-verano-1286178'>Verano sin preocupaciones: primeros auxilios para cuidar tu móvil en caso de accidente</a></h4>
+    <a href='https://computerhoy.com/moviles/primero-auxilios-movil-evitar-quedarte-verano-1286178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pareja-joven-moviles-playa-3106516.jpg?tf=1200x' alt='Verano sin preocupaciones: primeros auxilios para cuidar tu móvil en caso de accidente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/he-pasado-3-anos-buscando-chollos-tecnologia-estos-son-trucos-pagar-menos-1287718'>He pasado 3 años buscando chollos de tecnología: estos son mis trucos para pagar menos</a></h4>
+    <a href='https://computerhoy.com/life/he-pasado-3-anos-buscando-chollos-tecnologia-estos-son-trucos-pagar-menos-1287718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hucha-forma-cerdo-3104748.jpg?tf=1200x' alt='He pasado 3 años buscando chollos de tecnología: estos son mis trucos para pagar menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/isla-perdida-sentinel-norte-aun-viven-como-hace-10000-anos-1288218'>En esta isla perdida sus habitantes aún viven como hace 10.000 años y matan a todo aquel que ponga un pie allí</a></h4>
     <a href='https://computerhoy.com/life/isla-perdida-sentinel-norte-aun-viven-como-hace-10000-anos-1288218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1691673902292-3105718.jpg?tf=1200x' alt='En esta isla perdida sus habitantes aún viven como hace 10.000 años y matan a todo aquel que ponga un pie allí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/paleontologia-web-wikipedia-fin-enciclopedias-papel-1285510'>Wikipedia, así era y así es la web que desterró a las enciclopedias en papel a un rincón de las estanterías</a></h4>
-    <a href='https://computerhoy.com/tecnologia/paleontologia-web-wikipedia-fin-enciclopedias-papel-1285510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/paleontologia-web-wikipedia-3101134.jpg?tf=1200x' alt='Wikipedia, así era y así es la web que desterró a las enciclopedias en papel a un rincón de las estanterías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estudiante-encuentra-espejo-magico-hace-1500-anos-1288334'>Una estudiante de 17 años encuentra un espejo mágico de hace 1.500 años en Israel, ¿para qué sirve?</a></h4>
-    <a href='https://computerhoy.com/ciencia/estudiante-encuentra-espejo-magico-hace-1500-anos-1288334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/espej-magico-hace-1500-anos-3105994.jpg?tf=1200x' alt='Una estudiante de 17 años encuentra un espejo mágico de hace 1.500 años en Israel, ¿para qué sirve?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/victoria-coches-autonomos-circularan-san-francisco-sin-limitaciones-1288822'>Gran victoria para los coches autónomos: podrán circular en San Francisco sin limitaciones</a></h4>
-    <a href='https://computerhoy.com/motor/victoria-coches-autonomos-circularan-san-francisco-sin-limitaciones-1288822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/robotaxi-gm-cruise-2747457.jpg?tf=1200x' alt='Gran victoria para los coches autónomos: podrán circular en San Francisco sin limitaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/rtve-recupera-concurso-cifras-letras-2023-1288820'>Tras el éxito de Grand Prix, RTVE se envuelve en la nostalgia y recupera otro concurso mítico de hace 30 años</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/rtve-recupera-concurso-cifras-letras-2023-1288820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/exito-grand-prix-rtve-envuelve-nostalgia-recupera-otro-concurso-mitico-3106840.jpg?tf=1200x' alt='Tras el éxito de Grand Prix, RTVE se envuelve en la nostalgia y recupera otro concurso mítico de hace 30 años' />
     </a>
 </div>
 
