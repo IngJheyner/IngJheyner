@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bots-son-ya-mejores-humanos-resolver-pruebas-captcha-1289056'>Los bots son ya mejores que los humanos en resolver las pruebas de Captcha</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bots-son-ya-mejores-humanos-resolver-pruebas-captcha-1289056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/captcha-3107144.jpg?tf=1200x' alt='Los bots son ya mejores que los humanos en resolver las pruebas de Captcha' />
+    <h4><a href='https://computerhoy.com/apps/llegan-instrucciones-personalizadas-todos-usuarios-chatgpt-funcionan-1289080'>Llegan las instrucciones personalizadas a todos los usuarios de ChatGPT y así funcionan</a></h4>
+    <a href='https://computerhoy.com/apps/llegan-instrucciones-personalizadas-todos-usuarios-chatgpt-funcionan-1289080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3078012.jpg?tf=1200x' alt='Llegan las instrucciones personalizadas a todos los usuarios de ChatGPT y así funcionan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-formula-1-carreras-coches-llenas-emocion-1288280'>7 películas de Fórmula 1 y carreras de coches llenas de emoción</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-formula-1-carreras-coches-llenas-emocion-1288280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mans-66.jpg?tf=1200x' alt='7 películas de Fórmula 1 y carreras de coches llenas de emoción' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-insinua-puede-retrasar-regreso-ser-humano-luna-1289078'>La NASA insinúa que puede retrasar el regreso del ser humano a la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-insinua-puede-retrasar-regreso-ser-humano-luna-1289078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lustracion-modulo-aterrizaje-lunar-spacex-starship-luna-3107188.jpg?tf=1200x' alt='La NASA insinúa que puede retrasar el regreso del ser humano a la Luna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/peligro-fake-news-nuevo-riesgo-ia-como-chatgpt-bard-1280704'>El peligro de la desinformación y 'fake news': el nuevo riesgo de las IA como ChatGPT o Bard</a></h4>
-    <a href='https://computerhoy.com/tecnologia/peligro-fake-news-nuevo-riesgo-ia-como-chatgpt-bard-1280704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/peligro-desinformacion-fake-news-nuevo-riesgo-ia-como-chatgpt-bard-3095054.jpg?tf=1200x' alt='El peligro de la desinformación y 'fake news': el nuevo riesgo de las IA como ChatGPT o Bard' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-pinterest-paso-paso-1285548'>Cómo descargar vídeos de Pinterest</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-descargar-videos-pinterest-paso-paso-1285548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/alguien-usando-pinterest-3101084.jpg?tf=1200x' alt='Cómo descargar vídeos de Pinterest' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/futuro-tecnologia-chip-combina-cerebro-humano-ia-1278952'>¿El futuro de la tecnología? El chip que combina cerebro humano e IA y cuenta con financiación militar</a></h4>
-    <a href='https://computerhoy.com/ciencia/futuro-tecnologia-chip-combina-cerebro-humano-ia-1278952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chip-cerebrarl-3090028.jpg?tf=1200x' alt='¿El futuro de la tecnología? El chip que combina cerebro humano e IA y cuenta con financiación militar' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/renfe-avisa-estafa-podria-estropearte-vacaciones-1289074'>Renfe avisa de una estafa que podría estropearte las vacaciones</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/renfe-avisa-estafa-podria-estropearte-vacaciones-1289074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/renfe-3107180.jpg?tf=1200x' alt='Renfe avisa de una estafa que podría estropearte las vacaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/primero-auxilios-movil-evitar-quedarte-verano-1286178'>Verano sin preocupaciones: primeros auxilios para cuidar tu móvil en caso de accidente</a></h4>
-    <a href='https://computerhoy.com/moviles/primero-auxilios-movil-evitar-quedarte-verano-1286178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pareja-joven-moviles-playa-3106516.jpg?tf=1200x' alt='Verano sin preocupaciones: primeros auxilios para cuidar tu móvil en caso de accidente' />
+    <h4><a href='https://computerhoy.com/android/movil-huawei-sueno-todo-fotografo-ahora-rebajado-400-euros-menos-1289062'>Este móvil de Huawei es el sueño de todo fotógrafo, y ahora está rebajado por 400 euros menos</a></h4>
+    <a href='https://computerhoy.com/android/movil-huawei-sueno-todo-fotografo-ahora-rebajado-400-euros-menos-1289062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/review-huawei-mate-50-pro-2866341.jpg?tf=1200x' alt='Este móvil de Huawei es el sueño de todo fotógrafo, y ahora está rebajado por 400 euros menos' />
     </a>
 </div>
 
