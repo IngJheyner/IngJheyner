@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/plan-universidades-chatgpt-proximo-curso-1289400'>El plan de las universidades contra ChatGPT el próximo curso: exámenes a boli y pruebas orales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/plan-universidades-chatgpt-proximo-curso-1289400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/plan-universidades-chatgpt-proximo-curso-examenes-boli-pruebas-orales-3107580.jpg?tf=1200x' alt='El plan de las universidades contra ChatGPT el próximo curso: exámenes a boli y pruebas orales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-cierra-docenas-marcas-propias-juicio-antimonopolio-1289398'>Amazon cierra docenas de marcas propias, y no es por bajas ventas</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-cierra-docenas-marcas-propias-juicio-antimonopolio-1289398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-cierra-docenas-marcas-propias-no-bajas-ventas-3107564.jpg?tf=1200x' alt='Amazon cierra docenas de marcas propias, y no es por bajas ventas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/zuckerberg-dice-elon-musk-inventa-cosas-retrasar-pelea-1289390'>Zuckerberg dice que está listo para pelear, pero que Elon Musk se inventa cosas para retrasar la pelea</a></h4>
     <a href='https://computerhoy.com/life/zuckerberg-dice-elon-musk-inventa-cosas-retrasar-pelea-1289390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/zuckerberg-dice-listo-pelear-pero-elon-musk-inventa-cosas-retrasar-pelea-3107558.jpg?tf=1200x' alt='Zuckerberg dice que está listo para pelear, pero que Elon Musk se inventa cosas para retrasar la pelea' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-aprender-dibujar-android-1283756'>Las mejores aplicaciones para aprender a dibujar para Android</a></h4>
     <a href='https://computerhoy.com/apps/mejores-aplicaciones-aprender-dibujar-android-1283756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dibujando-3097616.jpg?tf=1200x' alt='Las mejores aplicaciones para aprender a dibujar para Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/router-movistar-tipos-hay-caracteristicas-tienen-alternativas-baratas-mejores-1289374'>Router Movistar: qué tipos hay, qué características tienen y alternativas más baratas</a></h4>
-    <a href='https://computerhoy.com/redes/router-movistar-tipos-hay-caracteristicas-tienen-alternativas-baratas-mejores-1289374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/configurar-router-movistar-portal-alejandra.jpg?tf=1200x' alt='Router Movistar: qué tipos hay, qué características tienen y alternativas más baratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-maquinas-inteligentes-humanos-solo-expertas-enganar-1286180'>¿Son las máquinas más inteligentes que los humanos o solo expertas en el arte del engaño?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-maquinas-inteligentes-humanos-solo-expertas-enganar-1286180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/son-maquinas-inteligentes-humanos-solo-expertas-arte-engano-3102026.jpg?tf=1200x' alt='¿Son las máquinas más inteligentes que los humanos o solo expertas en el arte del engaño?' />
     </a>
 </div>
 
