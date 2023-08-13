@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/zuckerberg-dice-elon-musk-inventa-cosas-retrasar-pelea-1289390'>Zuckerberg dice que está listo para pelear, pero que Elon Musk se inventa cosas para retrasar la pelea</a></h4>
+    <a href='https://computerhoy.com/life/zuckerberg-dice-elon-musk-inventa-cosas-retrasar-pelea-1289390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/zuckerberg-dice-listo-pelear-pero-elon-musk-inventa-cosas-retrasar-pelea-3107558.jpg?tf=1200x' alt='Zuckerberg dice que está listo para pelear, pero que Elon Musk se inventa cosas para retrasar la pelea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/coober-pedy-ciudad-bajo-tierra-minas-opalo-1289376'>Coober Pedy, la ciudad de los 52 grados en donde todo el mundo ya vive bajo tierra</a></h4>
+    <a href='https://computerhoy.com/life/coober-pedy-ciudad-bajo-tierra-minas-opalo-1289376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/coober-pedy-ciudad-52-grados-donde-todo-mundo-ya-vive-tierra-3107528.jpg?tf=1200x' alt='Coober Pedy, la ciudad de los 52 grados en donde todo el mundo ya vive bajo tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-aprender-dibujar-android-1283756'>Las mejores aplicaciones para aprender a dibujar para Android</a></h4>
     <a href='https://computerhoy.com/apps/mejores-aplicaciones-aprender-dibujar-android-1283756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dibujando-3097616.jpg?tf=1200x' alt='Las mejores aplicaciones para aprender a dibujar para Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/son-maquinas-inteligentes-humanos-solo-expertas-enganar-1286180'>¿Son las máquinas más inteligentes que los humanos o solo expertas en el arte del engaño?</a></h4>
     <a href='https://computerhoy.com/tecnologia/son-maquinas-inteligentes-humanos-solo-expertas-enganar-1286180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/son-maquinas-inteligentes-humanos-solo-expertas-arte-engano-3102026.jpg?tf=1200x' alt='¿Son las máquinas más inteligentes que los humanos o solo expertas en el arte del engaño?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-son-articulos-gratuitos-jamas-deberias-utilizar-habitacion-hotel-1289356'>Estos son los artículos gratuitos que jamás deberías utilizar en la habitación de un hotel</a></h4>
-    <a href='https://computerhoy.com/life/estos-son-articulos-gratuitos-jamas-deberias-utilizar-habitacion-hotel-1289356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/articulos-higienicos-hotel-3107504.jpg?tf=1200x' alt='Estos son los artículos gratuitos que jamás deberías utilizar en la habitación de un hotel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-vimeo-1286606'>Cómo descargar vídeos de Vimeo, paso a paso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-descargar-videos-vimeo-1286606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/logo-vimeo-3102706.jpg?tf=1200x' alt='Cómo descargar vídeos de Vimeo, paso a paso' />
     </a>
 </div>
 
