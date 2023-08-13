@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/4-principales-desafios-resolver-sensor-huellas-movil-1276112'>Estos son los 4 grandes desafíos de los sensores de huellas en los móviles actuales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/4-principales-desafios-resolver-sensor-huellas-movil-1276112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estos-son-grandes-problemas-sensores-huellas-moviles-como-puedes-resolverlos-3085112.jpg?tf=1200x' alt='Estos son los 4 grandes desafíos de los sensores de huellas en los móviles actuales' />
+    <h4><a href='https://computerhoy.com/life/unico-no-debes-hacer-cuando-te-despiertas-mitad-noche-1289344'>Esto es lo único que no debes hacer cuando te despiertas en mitad de la noche</a></h4>
+    <a href='https://computerhoy.com/life/unico-no-debes-hacer-cuando-te-despiertas-mitad-noche-1289344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mujer-no-puede-dormir-noche-3107496.jpg?tf=1200x' alt='Esto es lo único que no debes hacer cuando te despiertas en mitad de la noche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-4k-sintonizar-tve-uhd-1-tve-uhd-2-smart-tv-1288326'>Cómo ver la TDT en 4K y sintonizar TVE UHD 1 y TVE UHD 2 en tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-tdt-4k-sintonizar-tve-uhd-1-tve-uhd-2-smart-tv-1288326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/rtve-4k-3106556.jpg?tf=1200x' alt='Cómo ver la TDT en 4K y sintonizar TVE UHD 1 y TVE UHD 2 en tu Smart TV' />
+    <h4><a href='https://computerhoy.com/life/nuevo-rascacielos-sostenible-sera-torre-curvada-llena-plantas-1289338'>Este nuevo rascacielos sostenible será una torre curvada llena de plantas</a></h4>
+    <a href='https://computerhoy.com/life/nuevo-rascacielos-sostenible-sera-torre-curvada-llena-plantas-1289338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/torre-daxia-3107486.jpg?tf=1200x' alt='Este nuevo rascacielos sostenible será una torre curvada llena de plantas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-tortuga-marina-robotica-proteger-guiar-crias-1289108'>Crean una tortuga marina robótica para proteger y guiar a las crías</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-tortuga-marina-robotica-proteger-guiar-crias-1289108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/crean-tortuga-marina-robotica-proteger-guiar-crias-3107238.jpg?tf=1200x' alt='Crean una tortuga marina robótica para proteger y guiar a las crías' />
+    <h4><a href='https://computerhoy.com/apps/he-probado-app-lucha-sedentarismo-ademas-te-paga-caminar-1288670'>He probado una aplicación que lucha contra el sedentarismo y además te paga por caminar </a></h4>
+    <a href='https://computerhoy.com/apps/he-probado-app-lucha-sedentarismo-ademas-te-paga-caminar-1288670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/aplicacion-weward-3106582.jpg?tf=1200x' alt='He probado una aplicación que lucha contra el sedentarismo y además te paga por caminar ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/6-caracteristicas-moviles-podrian-llegar-pc-1266840'>Las 6 tendencias que esperamos ver en los PC en los próximos años y que ya incorporan los móviles</a></h4>
-    <a href='https://computerhoy.com/pc/6-caracteristicas-moviles-podrian-llegar-pc-1266840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movil-ordenador-3070174.jpg?tf=1200x' alt='Las 6 tendencias que esperamos ver en los PC en los próximos años y que ya incorporan los móviles' />
+    <h4><a href='https://computerhoy.com/tecnologia/estudio-demuestra-muchas-personas-son-incapaces-identificar-estan-escuchando-voz-generada-ia-1289336'>Este estudio demuestra que muchas personas son incapaces de identificar si están escuchando una voz generada por IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estudio-demuestra-muchas-personas-son-incapaces-identificar-estan-escuchando-voz-generada-ia-1289336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/voz-ia-3107484.jpg?tf=1200x' alt='Este estudio demuestra que muchas personas son incapaces de identificar si están escuchando una voz generada por IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/npc-parte-fundamental-videojuegos-1282928'>¿Qué es NPC y por qué se considera parte fundamental del los videojuegos?</a></h4>
-    <a href='https://computerhoy.com/gaming/npc-parte-fundamental-videojuegos-1282928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1691487163965-3103478.jpg?tf=1200x' alt='¿Qué es NPC y por qué se considera parte fundamental del los videojuegos?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-boton-encendido-windows-11-1286446'>Cómo ocultar el botón de encendido en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-boton-encendido-windows-11-1286446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ocultar-boton-encendido-windows-11-3102286.jpg?tf=1200x' alt='Cómo ocultar el botón de encendido en Windows 11' />
     </a>
 </div>
 
