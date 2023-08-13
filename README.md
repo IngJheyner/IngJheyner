@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/unico-no-debes-hacer-cuando-te-despiertas-mitad-noche-1289344'>Esto es lo único que no debes hacer cuando te despiertas en mitad de la noche</a></h4>
-    <a href='https://computerhoy.com/life/unico-no-debes-hacer-cuando-te-despiertas-mitad-noche-1289344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mujer-no-puede-dormir-noche-3107496.jpg?tf=1200x' alt='Esto es lo único que no debes hacer cuando te despiertas en mitad de la noche' />
+    <h4><a href='https://computerhoy.com/life/estos-son-articulos-gratuitos-jamas-deberias-utilizar-habitacion-hotel-1289356'>Estos son los artículos gratuitos que jamás deberías utilizar en la habitación de un hotel</a></h4>
+    <a href='https://computerhoy.com/life/estos-son-articulos-gratuitos-jamas-deberias-utilizar-habitacion-hotel-1289356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/articulos-higienicos-hotel-3107504.jpg?tf=1200x' alt='Estos son los artículos gratuitos que jamás deberías utilizar en la habitación de un hotel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nuevo-rascacielos-sostenible-sera-torre-curvada-llena-plantas-1289338'>Este nuevo rascacielos sostenible será una torre curvada llena de plantas</a></h4>
-    <a href='https://computerhoy.com/life/nuevo-rascacielos-sostenible-sera-torre-curvada-llena-plantas-1289338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/torre-daxia-3107486.jpg?tf=1200x' alt='Este nuevo rascacielos sostenible será una torre curvada llena de plantas' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-vimeo-1286606'>Cómo descargar vídeos de Vimeo, paso a paso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-descargar-videos-vimeo-1286606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/logo-vimeo-3102706.jpg?tf=1200x' alt='Cómo descargar vídeos de Vimeo, paso a paso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-probado-app-lucha-sedentarismo-ademas-te-paga-caminar-1288670'>He probado una aplicación que lucha contra el sedentarismo y además te paga por caminar </a></h4>
-    <a href='https://computerhoy.com/apps/he-probado-app-lucha-sedentarismo-ademas-te-paga-caminar-1288670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/aplicacion-weward-3106582.jpg?tf=1200x' alt='He probado una aplicación que lucha contra el sedentarismo y además te paga por caminar ' />
+    <h4><a href='https://computerhoy.com/tecnologia/grandes-tiendas-apuestan-tecnologia-avanzada-ia-luchar-robos-1289354'>Las grandes tiendas apuestan por la tecnología avanzada en IA para luchar contra los robos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/grandes-tiendas-apuestan-tecnologia-avanzada-ia-luchar-robos-1289354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/supermercado-robo-3107502.jpg?tf=1200x' alt='Las grandes tiendas apuestan por la tecnología avanzada en IA para luchar contra los robos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estudio-demuestra-muchas-personas-son-incapaces-identificar-estan-escuchando-voz-generada-ia-1289336'>Este estudio demuestra que muchas personas son incapaces de identificar si están escuchando una voz generada por IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estudio-demuestra-muchas-personas-son-incapaces-identificar-estan-escuchando-voz-generada-ia-1289336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/voz-ia-3107484.jpg?tf=1200x' alt='Este estudio demuestra que muchas personas son incapaces de identificar si están escuchando una voz generada por IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/chollazo-xiaomi-cargador-inalambrico-50w-disipador-solo-30-euros-1289360'>Uno de los mejores cargadores inalámbricos del mercado está ahora a menos de la mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chollazo-xiaomi-cargador-inalambrico-50w-disipador-solo-30-euros-1289360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cargador-inalambrico-xiaomi-3107506.jpg?tf=1200x' alt='Uno de los mejores cargadores inalámbricos del mercado está ahora a menos de la mitad de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-boton-encendido-windows-11-1286446'>Cómo ocultar el botón de encendido en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-boton-encendido-windows-11-1286446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ocultar-boton-encendido-windows-11-3102286.jpg?tf=1200x' alt='Cómo ocultar el botón de encendido en Windows 11' />
+    <h4><a href='https://computerhoy.com/tutoriales/error-403-significa-como-solucionarlo-1287820'>Error 403: ¿qué significa y cómo solucionarlo?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/error-403-significa-como-solucionarlo-1287820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/error-403-3105404.jpg?tf=1200x' alt='Error 403: ¿qué significa y cómo solucionarlo?' />
     </a>
 </div>
 
