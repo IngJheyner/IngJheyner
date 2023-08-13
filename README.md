@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-aprender-dibujar-android-1283756'>Las mejores aplicaciones para aprender a dibujar para Android</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-aplicaciones-aprender-dibujar-android-1283756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dibujando-3097616.jpg?tf=1200x' alt='Las mejores aplicaciones para aprender a dibujar para Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/router-movistar-tipos-hay-caracteristicas-tienen-alternativas-baratas-mejores-1289374'>Router Movistar: qué tipos hay, qué características tienen y alternativas más baratas</a></h4>
+    <a href='https://computerhoy.com/redes/router-movistar-tipos-hay-caracteristicas-tienen-alternativas-baratas-mejores-1289374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/configurar-router-movistar-portal-alejandra.jpg?tf=1200x' alt='Router Movistar: qué tipos hay, qué características tienen y alternativas más baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/son-maquinas-inteligentes-humanos-solo-expertas-enganar-1286180'>¿Son las máquinas más inteligentes que los humanos o solo expertas en el arte del engaño?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/son-maquinas-inteligentes-humanos-solo-expertas-enganar-1286180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/son-maquinas-inteligentes-humanos-solo-expertas-arte-engano-3102026.jpg?tf=1200x' alt='¿Son las máquinas más inteligentes que los humanos o solo expertas en el arte del engaño?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/estos-son-articulos-gratuitos-jamas-deberias-utilizar-habitacion-hotel-1289356'>Estos son los artículos gratuitos que jamás deberías utilizar en la habitación de un hotel</a></h4>
     <a href='https://computerhoy.com/life/estos-son-articulos-gratuitos-jamas-deberias-utilizar-habitacion-hotel-1289356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/articulos-higienicos-hotel-3107504.jpg?tf=1200x' alt='Estos son los artículos gratuitos que jamás deberías utilizar en la habitación de un hotel' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-vimeo-1286606'>Cómo descargar vídeos de Vimeo, paso a paso</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-descargar-videos-vimeo-1286606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/logo-vimeo-3102706.jpg?tf=1200x' alt='Cómo descargar vídeos de Vimeo, paso a paso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/grandes-tiendas-apuestan-tecnologia-avanzada-ia-luchar-robos-1289354'>Las grandes tiendas apuestan por la tecnología avanzada en IA para luchar contra los robos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/grandes-tiendas-apuestan-tecnologia-avanzada-ia-luchar-robos-1289354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/supermercado-robo-3107502.jpg?tf=1200x' alt='Las grandes tiendas apuestan por la tecnología avanzada en IA para luchar contra los robos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chollazo-xiaomi-cargador-inalambrico-50w-disipador-solo-30-euros-1289360'>Uno de los mejores cargadores inalámbricos del mercado está ahora a menos de la mitad de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chollazo-xiaomi-cargador-inalambrico-50w-disipador-solo-30-euros-1289360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cargador-inalambrico-xiaomi-3107506.jpg?tf=1200x' alt='Uno de los mejores cargadores inalámbricos del mercado está ahora a menos de la mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/error-403-significa-como-solucionarlo-1287820'>Error 403: ¿qué significa y cómo solucionarlo?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/error-403-significa-como-solucionarlo-1287820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/error-403-3105404.jpg?tf=1200x' alt='Error 403: ¿qué significa y cómo solucionarlo?' />
     </a>
 </div>
 
