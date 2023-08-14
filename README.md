@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-deportivo-xiaomi-gps-oferta-78-euros-1289666'>Bombazo Xiaomi: su reloj deportivo hará temblar a Garmin y cuesta mucho menos de lo normal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-deportivo-xiaomi-gps-oferta-78-euros-1289666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-xiaomi-watch-s1-active-2687363.jpg?tf=1200x' alt='Bombazo Xiaomi: su reloj deportivo hará temblar a Garmin y cuesta mucho menos de lo normal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/8-lugares-descarga-software-gratis-seguros-windows-1260394'>8 lugares seguros para descargar software gratis para Windows</a></h4>
+    <a href='https://computerhoy.com/windows/8-lugares-descarga-software-gratis-seguros-windows-1260394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-logo-2627905.jpg?tf=1200x' alt='8 lugares seguros para descargar software gratis para Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-watch-x-mejor-cambio-apple-historia-mark-gurman-1289606'>Apple se prepara para el mejor cambio en la historia de sus relojes inteligentes con el Apple Watch X</a></h4>
     <a href='https://computerhoy.com/apple/apple-watch-x-mejor-cambio-apple-historia-mark-gurman-1289606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3086866.jpg?tf=1200x' alt='Apple se prepara para el mejor cambio en la historia de sus relojes inteligentes con el Apple Watch X' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/8-consejos-mejorar-velocidad-conexion-wifi-1286706'>Internet va lento: 8 consejos para mejorar la velocidad de tu conexión WiFi</a></h4>
     <a href='https://computerhoy.com/redes/8-consejos-mejorar-velocidad-conexion-wifi-1286706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/internet-lento-3103046.jpg?tf=1200x' alt='Internet va lento: 8 consejos para mejorar la velocidad de tu conexión WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-problemas-chatgpt-cuesta-700000-dolares-dia-base-usuarios-sigue-bajando-1289564'>¿OpenAI en problemas? ChatGPT cuesta 700.000 dólares al día y su base de usuarios sigue bajando</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-problemas-chatgpt-cuesta-700000-dolares-dia-base-usuarios-sigue-bajando-1289564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/openai-problemas-chatgpt-cuesta-700000-dolares-dia-base-usuarios-sigue-bajando-3107818.jpg?tf=1200x' alt='¿OpenAI en problemas? ChatGPT cuesta 700.000 dólares al día y su base de usuarios sigue bajando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/5-portatiles-baratos-vuelta-cole-1289556'>5 portátiles baratos para la vuelta al cole</a></h4>
-    <a href='https://computerhoy.com/pc/5-portatiles-baratos-vuelta-cole-1289556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/microsoft-surface-laptop-go-2-2766437.jpg?tf=1200x' alt='5 portátiles baratos para la vuelta al cole' />
     </a>
 </div>
 
