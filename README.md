@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/5-portatiles-baratos-vuelta-cole-1289556'>5 portátiles baratos para la vuelta al cole</a></h4>
+    <a href='https://computerhoy.com/pc/5-portatiles-baratos-vuelta-cole-1289556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/microsoft-surface-laptop-go-2-2766437.jpg?tf=1200x' alt='5 portátiles baratos para la vuelta al cole' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/vivo-v29-5g-precio-caracteristicas-disponibilidad-espana-1288780'>Así es el nuevo Vivo V29 5G, un móvil que promete retrato y fotografía nocturna profesional</a></h4>
+    <a href='https://computerhoy.com/moviles/vivo-v29-5g-precio-caracteristicas-disponibilidad-espana-1288780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/vivo-v29-5g-3106790.jpg?tf=1200x' alt='Así es el nuevo Vivo V29 5G, un móvil que promete retrato y fotografía nocturna profesional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/marcas-moviles-vendidas-espana-2o-trimestre-2023-1288206'>Xiaomi recupera el trono y vuelve a ser la marca de móviles más vendida en España en el segundo trimestre por delante de Samsung</a></h4>
+    <a href='https://computerhoy.com/moviles/marcas-moviles-vendidas-espana-2o-trimestre-2023-1288206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/moviles-3105736.jpg?tf=1200x' alt='Xiaomi recupera el trono y vuelve a ser la marca de móviles más vendida en España en el segundo trimestre por delante de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/steve-jobs-no-queria-apple-estilo-disney-1286716'>Entre manzanas y ratones: por qué Steve Jobs no quería una Apple al estilo Disney</a></h4>
+    <a href='https://computerhoy.com/life/steve-jobs-no-queria-apple-estilo-disney-1286716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2885457.jpg?tf=1200x' alt='Entre manzanas y ratones: por qué Steve Jobs no quería una Apple al estilo Disney' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/phoenix-calor-docenas-cactus-han-hecho-pedazos-1289404'>En Phoenix hace tanto calor que los cactus se parten en pedazos</a></h4>
     <a href='https://computerhoy.com/life/phoenix-calor-docenas-cactus-han-hecho-pedazos-1289404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/phoenix-hace-tanto-calor-cientos-cactus-han-hecho-pedazos-3107586.jpg?tf=1200x' alt='En Phoenix hace tanto calor que los cactus se parten en pedazos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/anillo-mini-reloj-casio-1289402'>Llegan los mini relojes Casio, que se llevan como un anillo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/anillo-mini-reloj-casio-1289402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mini-relojes-casio-como-anillo-3107582.jpg?tf=1200x' alt='Llegan los mini relojes Casio, que se llevan como un anillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/plan-universidades-chatgpt-proximo-curso-1289400'>El plan de las universidades contra ChatGPT el próximo curso: exámenes a boli y pruebas orales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/plan-universidades-chatgpt-proximo-curso-1289400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/plan-universidades-chatgpt-proximo-curso-examenes-boli-pruebas-orales-3107580.jpg?tf=1200x' alt='El plan de las universidades contra ChatGPT el próximo curso: exámenes a boli y pruebas orales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-cierra-docenas-marcas-propias-juicio-antimonopolio-1289398'>Amazon cierra docenas de marcas propias, y no es por bajas ventas</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-cierra-docenas-marcas-propias-juicio-antimonopolio-1289398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-cierra-docenas-marcas-propias-no-bajas-ventas-3107564.jpg?tf=1200x' alt='Amazon cierra docenas de marcas propias, y no es por bajas ventas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/zuckerberg-dice-elon-musk-inventa-cosas-retrasar-pelea-1289390'>Zuckerberg dice que está listo para pelear, pero que Elon Musk se inventa cosas para retrasar la pelea</a></h4>
-    <a href='https://computerhoy.com/life/zuckerberg-dice-elon-musk-inventa-cosas-retrasar-pelea-1289390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/zuckerberg-dice-listo-pelear-pero-elon-musk-inventa-cosas-retrasar-pelea-3107558.jpg?tf=1200x' alt='Zuckerberg dice que está listo para pelear, pero que Elon Musk se inventa cosas para retrasar la pelea' />
     </a>
 </div>
 
