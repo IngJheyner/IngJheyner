@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-watch-x-mejor-cambio-apple-historia-mark-gurman-1289606'>Apple se prepara para el mejor cambio en la historia de sus relojes inteligentes con el Apple Watch X</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-x-mejor-cambio-apple-historia-mark-gurman-1289606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3086866.jpg?tf=1200x' alt='Apple se prepara para el mejor cambio en la historia de sus relojes inteligentes con el Apple Watch X' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/novedad-iphone-15-pro-podria-realmente-justificar-desorbitado-precio-1289582'>Esta novedad del iPhone 15 Pro podría realmente justificar su desorbitado precio</a></h4>
+    <a href='https://computerhoy.com/apple/novedad-iphone-15-pro-podria-realmente-justificar-desorbitado-precio-1289582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-15-pro-precio-3107840.jpg?tf=1200x' alt='Esta novedad del iPhone 15 Pro podría realmente justificar su desorbitado precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/8-consejos-mejorar-velocidad-conexion-wifi-1286706'>Internet va lento: 8 consejos para mejorar la velocidad de tu conexión WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/8-consejos-mejorar-velocidad-conexion-wifi-1286706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/internet-lento-3103046.jpg?tf=1200x' alt='Internet va lento: 8 consejos para mejorar la velocidad de tu conexión WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-problemas-chatgpt-cuesta-700000-dolares-dia-base-usuarios-sigue-bajando-1289564'>¿OpenAI en problemas? ChatGPT cuesta 700.000 dólares al día y su base de usuarios sigue bajando</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-problemas-chatgpt-cuesta-700000-dolares-dia-base-usuarios-sigue-bajando-1289564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/openai-problemas-chatgpt-cuesta-700000-dolares-dia-base-usuarios-sigue-bajando-3107818.jpg?tf=1200x' alt='¿OpenAI en problemas? ChatGPT cuesta 700.000 dólares al día y su base de usuarios sigue bajando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/5-portatiles-baratos-vuelta-cole-1289556'>5 portátiles baratos para la vuelta al cole</a></h4>
     <a href='https://computerhoy.com/pc/5-portatiles-baratos-vuelta-cole-1289556' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/microsoft-surface-laptop-go-2-2766437.jpg?tf=1200x' alt='5 portátiles baratos para la vuelta al cole' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/vivo-v29-5g-precio-caracteristicas-disponibilidad-espana-1288780'>Así es el nuevo Vivo V29 5G, un móvil que promete retrato y fotografía nocturna profesional</a></h4>
-    <a href='https://computerhoy.com/moviles/vivo-v29-5g-precio-caracteristicas-disponibilidad-espana-1288780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/vivo-v29-5g-3106790.jpg?tf=1200x' alt='Así es el nuevo Vivo V29 5G, un móvil que promete retrato y fotografía nocturna profesional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/marcas-moviles-vendidas-espana-2o-trimestre-2023-1288206'>Xiaomi recupera el trono y vuelve a ser la marca de móviles más vendida en España en el segundo trimestre por delante de Samsung</a></h4>
-    <a href='https://computerhoy.com/moviles/marcas-moviles-vendidas-espana-2o-trimestre-2023-1288206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/moviles-3105736.jpg?tf=1200x' alt='Xiaomi recupera el trono y vuelve a ser la marca de móviles más vendida en España en el segundo trimestre por delante de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/steve-jobs-no-queria-apple-estilo-disney-1286716'>Entre manzanas y ratones: por qué Steve Jobs no quería una Apple al estilo Disney</a></h4>
-    <a href='https://computerhoy.com/life/steve-jobs-no-queria-apple-estilo-disney-1286716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-2885457.jpg?tf=1200x' alt='Entre manzanas y ratones: por qué Steve Jobs no quería una Apple al estilo Disney' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/phoenix-calor-docenas-cactus-han-hecho-pedazos-1289404'>En Phoenix hace tanto calor que los cactus se parten en pedazos</a></h4>
-    <a href='https://computerhoy.com/life/phoenix-calor-docenas-cactus-han-hecho-pedazos-1289404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/phoenix-hace-tanto-calor-cientos-cactus-han-hecho-pedazos-3107586.jpg?tf=1200x' alt='En Phoenix hace tanto calor que los cactus se parten en pedazos' />
     </a>
 </div>
 
