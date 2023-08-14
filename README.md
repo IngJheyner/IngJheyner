@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cyberdog-2-mini-doberman-entrenado-inteligencia-artificial-1289806'>CyberDog 2 de Xiaomi: un mini dóberman entrenado por IA que te sigue, te da la pata y hace trucos </a></h4>
+    <a href='https://computerhoy.com/tecnologia/cyberdog-2-mini-doberman-entrenado-inteligencia-artificial-1289806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1692033799009-3108452.jpg?tf=1200x' alt='CyberDog 2 de Xiaomi: un mini dóberman entrenado por IA que te sigue, te da la pata y hace trucos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/arabia-saudi-ya-estan-construidas-casas-ciencia-ficcion-mar-1289774'>Arabia Saudí va en serio: ya están construidas sus casas de ciencia-ficción sobre el mar</a></h4>
     <a href='https://computerhoy.com/arabia-saudi-ya-estan-construidas-casas-ciencia-ficcion-mar-1289774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1692026373092-3108332.jpg?tf=1200x' alt='Arabia Saudí va en serio: ya están construidas sus casas de ciencia-ficción sobre el mar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-8-pro-ultraligera-gran-pantalla-pagos-nfc-1289786'>Xiaomi Smart Band 8 Pro, la nueva pulsera de Xiaomi: ultraligera, gran pantalla y pagos NFC</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-8-pro-ultraligera-gran-pantalla-pagos-nfc-1289786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiamo-smart-band-8-pro-3108392.jpg?tf=1200x' alt='Xiaomi Smart Band 8 Pro, la nueva pulsera de Xiaomi: ultraligera, gran pantalla y pagos NFC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/xiaomi-mix-fold-3-movil-plegable-precio-caracteristicas-1289770'>Xiaomi Mix Fold 3 es oficial: el móvil plegable más fino del mercado</a></h4>
-    <a href='https://computerhoy.com/moviles/xiaomi-mix-fold-3-movil-plegable-precio-caracteristicas-1289770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xaiomi-mix-fold-3-3108356.jpg?tf=1200x' alt='Xiaomi Mix Fold 3 es oficial: el móvil plegable más fino del mercado' />
     </a>
 </div>
 
