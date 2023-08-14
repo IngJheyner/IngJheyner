@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/phoenix-calor-docenas-cactus-han-hecho-pedazos-1289404'>En Phoenix hace tanto calor que los cactus se parten en pedazos</a></h4>
+    <a href='https://computerhoy.com/life/phoenix-calor-docenas-cactus-han-hecho-pedazos-1289404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/phoenix-hace-tanto-calor-cientos-cactus-han-hecho-pedazos-3107586.jpg?tf=1200x' alt='En Phoenix hace tanto calor que los cactus se parten en pedazos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/anillo-mini-reloj-casio-1289402'>Llegan los mini relojes Casio, que se llevan como un anillo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/anillo-mini-reloj-casio-1289402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mini-relojes-casio-como-anillo-3107582.jpg?tf=1200x' alt='Llegan los mini relojes Casio, que se llevan como un anillo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/plan-universidades-chatgpt-proximo-curso-1289400'>El plan de las universidades contra ChatGPT el próximo curso: exámenes a boli y pruebas orales</a></h4>
     <a href='https://computerhoy.com/tecnologia/plan-universidades-chatgpt-proximo-curso-1289400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/plan-universidades-chatgpt-proximo-curso-examenes-boli-pruebas-orales-3107580.jpg?tf=1200x' alt='El plan de las universidades contra ChatGPT el próximo curso: exámenes a boli y pruebas orales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/zuckerberg-dice-elon-musk-inventa-cosas-retrasar-pelea-1289390'>Zuckerberg dice que está listo para pelear, pero que Elon Musk se inventa cosas para retrasar la pelea</a></h4>
     <a href='https://computerhoy.com/life/zuckerberg-dice-elon-musk-inventa-cosas-retrasar-pelea-1289390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/zuckerberg-dice-listo-pelear-pero-elon-musk-inventa-cosas-retrasar-pelea-3107558.jpg?tf=1200x' alt='Zuckerberg dice que está listo para pelear, pero que Elon Musk se inventa cosas para retrasar la pelea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/coober-pedy-ciudad-bajo-tierra-minas-opalo-1289376'>Coober Pedy, la ciudad de los 52 grados en donde todo el mundo ya vive bajo tierra</a></h4>
-    <a href='https://computerhoy.com/life/coober-pedy-ciudad-bajo-tierra-minas-opalo-1289376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/coober-pedy-ciudad-52-grados-donde-todo-mundo-ya-vive-tierra-3107528.jpg?tf=1200x' alt='Coober Pedy, la ciudad de los 52 grados en donde todo el mundo ya vive bajo tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-aprender-dibujar-android-1283756'>Las mejores aplicaciones para aprender a dibujar para Android</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-aplicaciones-aprender-dibujar-android-1283756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dibujando-3097616.jpg?tf=1200x' alt='Las mejores aplicaciones para aprender a dibujar para Android' />
     </a>
 </div>
 
