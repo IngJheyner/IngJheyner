@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/telegram-cumple-10-anos-estrena-stories-gratis-camara-dual-otras-novedades-1289840'>Telegram cumple 10 años y lo celebra ofreciendo el modo Stories gratis para todos, cámara dual, y otras novedades</a></h4>
+    <a href='https://computerhoy.com/internet/telegram-cumple-10-anos-estrena-stories-gratis-camara-dual-otras-novedades-1289840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/telegram-cumple-10-anos-celebra-ofreciendo-modo-stories-gratis-todos-camara-dual-otras-novedades-3108502.jpg?tf=1200x' alt='Telegram cumple 10 años y lo celebra ofreciendo el modo Stories gratis para todos, cámara dual, y otras novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/hace-maniobra-rotonda-tirachinas-evitar-atascos-1289838'>Un conductor se inventa la maniobra "rotonda tirachinas", para evitar atascos y reducir los trayectos</a></h4>
+    <a href='https://computerhoy.com/motor/hace-maniobra-rotonda-tirachinas-evitar-atascos-1289838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/conductor-inventa-maniobra-rotonda-tirachinas-reducir-20-minutos-cualquier-trayecto-3108466.jpg?tf=1200x' alt='Un conductor se inventa la maniobra "rotonda tirachinas", para evitar atascos y reducir los trayectos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mapa-desvela-paises-donde-hombres-tienen-opciones-quedarse-calvos-atentos-espana-1289832'>Este mapa desvela los países donde los hombres tienen más opciones de quedarse calvos, y atentos con España</a></h4>
+    <a href='https://computerhoy.com/life/mapa-desvela-paises-donde-hombres-tienen-opciones-quedarse-calvos-atentos-espana-1289832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/alopecia-3108492.jpg?tf=1200x' alt='Este mapa desvela los países donde los hombres tienen más opciones de quedarse calvos, y atentos con España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-tambien-quiere-iphone-barato-sea-revolucionario-empezando-diseno-similar-iphone-14-1289830'>Apple también quiere que su iPhone barato sea revolucionario y empezando con un diseño similar al iPhone 14</a></h4>
     <a href='https://computerhoy.com/apple/apple-tambien-quiere-iphone-barato-sea-revolucionario-empezando-diseno-similar-iphone-14-1289830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656605.jpg?tf=1200x' alt='Apple también quiere que su iPhone barato sea revolucionario y empezando con un diseño similar al iPhone 14' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cyberdog-2-mini-doberman-entrenado-inteligencia-artificial-1289806'>CyberDog 2 de Xiaomi: un mini dóberman entrenado por IA que te sigue, te da la pata y hace trucos </a></h4>
     <a href='https://computerhoy.com/tecnologia/cyberdog-2-mini-doberman-entrenado-inteligencia-artificial-1289806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1692033799009-3108452.jpg?tf=1200x' alt='CyberDog 2 de Xiaomi: un mini dóberman entrenado por IA que te sigue, te da la pata y hace trucos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/arabia-saudi-ya-estan-construidas-casas-ciencia-ficcion-mar-1289774'>Arabia Saudí va en serio: ya están construidas sus casas de ciencia-ficción sobre el mar</a></h4>
-    <a href='https://computerhoy.com/arabia-saudi-ya-estan-construidas-casas-ciencia-ficcion-mar-1289774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1692026373092-3108332.jpg?tf=1200x' alt='Arabia Saudí va en serio: ya están construidas sus casas de ciencia-ficción sobre el mar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/como-saber-cual-mejor-modo-imagen-smart-tv-1280726'>Cómo saber cuál es el mejor modo de imagen para tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/como-saber-cual-mejor-modo-imagen-smart-tv-1280726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nokia-smart-tv-5000a-2711291.jpg?tf=1200x' alt='Cómo saber cuál es el mejor modo de imagen para tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/android-tv-box-880523'>Consejos y guía para comprar un Android TV Box en 2023 y convertir tu televisor en un Smart TV</a></h4>
-    <a href='https://computerhoy.com/guia-compra/android-tv-box-880523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/smart-tv-3092776.jpg?tf=1200x' alt='Consejos y guía para comprar un Android TV Box en 2023 y convertir tu televisor en un Smart TV' />
     </a>
 </div>
 
