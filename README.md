@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/medios-ia-new-york-times-prohibe-uso-contenido-entrenar-chatgpt-1289674'>Los medios contra la IA: New York Times prohíbe el uso de su contenido para entrenar a ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/medios-ia-new-york-times-prohibe-uso-contenido-entrenar-chatgpt-1289674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/new-york-times-chatgpt-3108076.jpg?tf=1200x' alt='Los medios contra la IA: New York Times prohíbe el uso de su contenido para entrenar a ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-whatsapp-web-paso-paso-1286610'>Cómo descargar vídeos de WhatsApp Web, paso a paso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-descargar-videos-whatsapp-web-paso-paso-1286610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-web-pc-movil-2597981.jpg?tf=1200x' alt='Cómo descargar vídeos de WhatsApp Web, paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/bloquear-chats-contrasenas-novedad-whatsapp-web-fisgones-1289664'>Bloquear chats con contraseñas: la última novedad de WhatsApp Web para evitar los fisgones</a></h4>
+    <a href='https://computerhoy.com/apps/bloquear-chats-contrasenas-novedad-whatsapp-web-fisgones-1289664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/whatsapp-web-contrasena-3108026.jpg?tf=1200x' alt='Bloquear chats con contraseñas: la última novedad de WhatsApp Web para evitar los fisgones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-estafa-cuidado-presuntos-sms-hacienda-ingresar-devolucion-renta-1289622'>Alerta estafa: cuidado con los presuntos SMS de Hacienda para ingresar tu devolución de la Renta</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/alerta-estafa-cuidado-presuntos-sms-hacienda-ingresar-devolucion-renta-1289622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/estafa-sms-hacienda-3107920.jpg?tf=1200x' alt='Alerta estafa: cuidado con los presuntos SMS de Hacienda para ingresar tu devolución de la Renta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-deportivo-xiaomi-gps-oferta-78-euros-1289666'>Bombazo Xiaomi: su reloj deportivo hará temblar a Garmin y cuesta mucho menos de lo normal</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-deportivo-xiaomi-gps-oferta-78-euros-1289666' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-xiaomi-watch-s1-active-2687363.jpg?tf=1200x' alt='Bombazo Xiaomi: su reloj deportivo hará temblar a Garmin y cuesta mucho menos de lo normal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/8-lugares-descarga-software-gratis-seguros-windows-1260394'>8 lugares seguros para descargar software gratis para Windows</a></h4>
-    <a href='https://computerhoy.com/windows/8-lugares-descarga-software-gratis-seguros-windows-1260394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-logo-2627905.jpg?tf=1200x' alt='8 lugares seguros para descargar software gratis para Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-x-mejor-cambio-apple-historia-mark-gurman-1289606'>Apple se prepara para el mejor cambio en la historia de sus relojes inteligentes con el Apple Watch X</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-x-mejor-cambio-apple-historia-mark-gurman-1289606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3086866.jpg?tf=1200x' alt='Apple se prepara para el mejor cambio en la historia de sus relojes inteligentes con el Apple Watch X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/novedad-iphone-15-pro-podria-realmente-justificar-desorbitado-precio-1289582'>Esta novedad del iPhone 15 Pro podría realmente justificar su desorbitado precio</a></h4>
-    <a href='https://computerhoy.com/apple/novedad-iphone-15-pro-podria-realmente-justificar-desorbitado-precio-1289582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-15-pro-precio-3107840.jpg?tf=1200x' alt='Esta novedad del iPhone 15 Pro podría realmente justificar su desorbitado precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/8-consejos-mejorar-velocidad-conexion-wifi-1286706'>Internet va lento: 8 consejos para mejorar la velocidad de tu conexión WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/8-consejos-mejorar-velocidad-conexion-wifi-1286706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/internet-lento-3103046.jpg?tf=1200x' alt='Internet va lento: 8 consejos para mejorar la velocidad de tu conexión WiFi' />
     </a>
 </div>
 
