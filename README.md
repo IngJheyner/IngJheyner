@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/medios-ia-new-york-times-prohibe-uso-contenido-entrenar-chatgpt-1289674'>Los medios contra la IA: New York Times prohíbe el uso de su contenido para entrenar a ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/medios-ia-new-york-times-prohibe-uso-contenido-entrenar-chatgpt-1289674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/new-york-times-chatgpt-3108076.jpg?tf=1200x' alt='Los medios contra la IA: New York Times prohíbe el uso de su contenido para entrenar a ChatGPT' />
+    <h4><a href='https://computerhoy.com/arabia-saudi-ya-estan-construidas-casas-ciencia-ficcion-mar-1289774'>Arabia Saudí va en serio: ya están construidas sus casas de ciencia-ficción sobre el mar</a></h4>
+    <a href='https://computerhoy.com/arabia-saudi-ya-estan-construidas-casas-ciencia-ficcion-mar-1289774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1692026373092-3108332.jpg?tf=1200x' alt='Arabia Saudí va en serio: ya están construidas sus casas de ciencia-ficción sobre el mar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-whatsapp-web-paso-paso-1286610'>Cómo descargar vídeos de WhatsApp Web, paso a paso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-descargar-videos-whatsapp-web-paso-paso-1286610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-web-pc-movil-2597981.jpg?tf=1200x' alt='Cómo descargar vídeos de WhatsApp Web, paso a paso' />
+    <h4><a href='https://computerhoy.com/tv/como-saber-cual-mejor-modo-imagen-smart-tv-1280726'>Cómo saber cuál es el mejor modo de imagen para tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/como-saber-cual-mejor-modo-imagen-smart-tv-1280726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/nokia-smart-tv-5000a-2711291.jpg?tf=1200x' alt='Cómo saber cuál es el mejor modo de imagen para tu Smart TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/bloquear-chats-contrasenas-novedad-whatsapp-web-fisgones-1289664'>Bloquear chats con contraseñas: la última novedad de WhatsApp Web para evitar los fisgones</a></h4>
-    <a href='https://computerhoy.com/apps/bloquear-chats-contrasenas-novedad-whatsapp-web-fisgones-1289664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/whatsapp-web-contrasena-3108026.jpg?tf=1200x' alt='Bloquear chats con contraseñas: la última novedad de WhatsApp Web para evitar los fisgones' />
+    <h4><a href='https://computerhoy.com/guia-compra/android-tv-box-880523'>Consejos y guía para comprar un Android TV Box en 2023 y convertir tu televisor en un Smart TV</a></h4>
+    <a href='https://computerhoy.com/guia-compra/android-tv-box-880523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/smart-tv-3092776.jpg?tf=1200x' alt='Consejos y guía para comprar un Android TV Box en 2023 y convertir tu televisor en un Smart TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-estafa-cuidado-presuntos-sms-hacienda-ingresar-devolucion-renta-1289622'>Alerta estafa: cuidado con los presuntos SMS de Hacienda para ingresar tu devolución de la Renta</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/alerta-estafa-cuidado-presuntos-sms-hacienda-ingresar-devolucion-renta-1289622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/estafa-sms-hacienda-3107920.jpg?tf=1200x' alt='Alerta estafa: cuidado con los presuntos SMS de Hacienda para ingresar tu devolución de la Renta' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-8-pro-ultraligera-gran-pantalla-pagos-nfc-1289786'>Xiaomi Smart Band 8 Pro, la nueva pulsera de Xiaomi: ultraligera, gran pantalla y pagos NFC</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-8-pro-ultraligera-gran-pantalla-pagos-nfc-1289786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiamo-smart-band-8-pro-3108392.jpg?tf=1200x' alt='Xiaomi Smart Band 8 Pro, la nueva pulsera de Xiaomi: ultraligera, gran pantalla y pagos NFC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-deportivo-xiaomi-gps-oferta-78-euros-1289666'>Bombazo Xiaomi: su reloj deportivo hará temblar a Garmin y cuesta mucho menos de lo normal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-deportivo-xiaomi-gps-oferta-78-euros-1289666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-xiaomi-watch-s1-active-2687363.jpg?tf=1200x' alt='Bombazo Xiaomi: su reloj deportivo hará temblar a Garmin y cuesta mucho menos de lo normal' />
+    <h4><a href='https://computerhoy.com/moviles/xiaomi-mix-fold-3-movil-plegable-precio-caracteristicas-1289770'>Xiaomi Mix Fold 3 es oficial: el móvil plegable más fino del mercado</a></h4>
+    <a href='https://computerhoy.com/moviles/xiaomi-mix-fold-3-movil-plegable-precio-caracteristicas-1289770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xaiomi-mix-fold-3-3108356.jpg?tf=1200x' alt='Xiaomi Mix Fold 3 es oficial: el móvil plegable más fino del mercado' />
     </a>
 </div>
 
