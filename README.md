@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ipad-tienen-todo-menos-calculadora-culpa-steve-jobs-1290224'>Los iPad tienen de todo menos calculadora y la culpa es de Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/apple/ipad-tienen-todo-menos-calculadora-culpa-steve-jobs-1290224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ipad-calculadora-3108980.jpg?tf=1200x' alt='Los iPad tienen de todo menos calculadora y la culpa es de Steve Jobs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mitos-gente-aun-cree-memoria-ssd-1247988'>Mitos que la gente aún cree sobre las memorias SSD</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mitos-gente-aun-cree-memoria-ssd-1247988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/ssd.jpg?tf=1200x' alt='Mitos que la gente aún cree sobre las memorias SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/instalar-cargador-coche-electrico-garaje-5-cosas-deberias-conocer-antes-1290194'>Instalar un cargador de coche eléctrico en tu garaje: 5 cosas que deberías saber</a></h4>
+    <a href='https://computerhoy.com/motor/instalar-cargador-coche-electrico-garaje-5-cosas-deberias-conocer-antes-1290194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cargador-coche-electrico-3108894.jpg?tf=1200x' alt='Instalar un cargador de coche eléctrico en tu garaje: 5 cosas que deberías saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/bicicleta-electrica-trekking-doble-suspension-rebajada-20-decathlon-1290164'>Esta bicicleta eléctrica de trekking con doble suspensión está rebajada un 20% en Decathlon</a></h4>
+    <a href='https://computerhoy.com/motor/bicicleta-electrica-trekking-doble-suspension-rebajada-20-decathlon-1290164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bicicleta-trekking-920-3108830.jpg?tf=1200x' alt='Esta bicicleta eléctrica de trekking con doble suspensión está rebajada un 20% en Decathlon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-halla-vulnerabilidades-podrian-apagar-central-nuclear-1290202'>Microsoft encuentra vulnerabilidades que podrían apagar centrales nucleares</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/microsoft-halla-vulnerabilidades-podrian-apagar-central-nuclear-1290202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/microsoft-encuentra-vulnerabilidades-podrian-apagar-centrales-nucleares-3108850.jpg?tf=1200x' alt='Microsoft encuentra vulnerabilidades que podrían apagar centrales nucleares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/guia-photopea-alternativa-gratis-photoshop-todas-funciones-1276660'>Guía de Photopea, la alternativa gratis a Photoshop, y todas sus funciones</a></h4>
-    <a href='https://computerhoy.com/internet/guia-photopea-alternativa-gratis-photoshop-todas-funciones-1276660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/photopea-3089916.jpg?tf=1200x' alt='Guía de Photopea, la alternativa gratis a Photoshop, y todas sus funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/youtube-planta-cara-desinformacion-eliminara-videos-promuevan-curas-alternativas-cancer-1290176'>YouTube planta cara a la desinformación y eliminará vídeos que promuevan curas alternativas al cáncer </a></h4>
-    <a href='https://computerhoy.com/google/youtube-planta-cara-desinformacion-eliminara-videos-promuevan-curas-alternativas-cancer-1290176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/youtube-desinformacion-cancer-3108872.jpg?tf=1200x' alt='YouTube planta cara a la desinformación y eliminará vídeos que promuevan curas alternativas al cáncer ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/buen-rendimiento-gran-autonomia-barata-tablet-ha-bajado-100-euros-gracias-cupon-amazon-1289808'>Buen rendimiento, gran autonomía y barata: esta tablet baja de los 100 euros gracias a un cupón en Amazon</a></h4>
-    <a href='https://computerhoy.com/android/buen-rendimiento-gran-autonomia-barata-tablet-ha-bajado-100-euros-gracias-cupon-amazon-1289808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/teclast-3108438.jpg?tf=1200x' alt='Buen rendimiento, gran autonomía y barata: esta tablet baja de los 100 euros gracias a un cupón en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/5-habitos-tener-cerebro-sano-neurocientificos-1282408'>5 hábitos que recomiendan los neurocientíficos para mantener un cerebro sano</a></h4>
-    <a href='https://computerhoy.com/life/5-habitos-tener-cerebro-sano-neurocientificos-1282408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cerebro-2823899.jpg?tf=1200x' alt='5 hábitos que recomiendan los neurocientíficos para mantener un cerebro sano' />
     </a>
 </div>
 
