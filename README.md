@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-funcionan-autobuses-urbanos-japon-pelo-humano-1290264'>No te vas a creer cómo funcionan los autobuses urbanos en Japón: el pelo humano es fundamental</a></h4>
+    <a href='https://computerhoy.com/life/como-funcionan-autobuses-urbanos-japon-pelo-humano-1290264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/no-te-vas-creer-como-funcionan-autobuses-urbanos-japon-pelo-humano-fundamental-3109040.jpg?tf=1200x' alt='No te vas a creer cómo funcionan los autobuses urbanos en Japón: el pelo humano es fundamental' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/bateria-thomas-edison-creo-hace-100-anos-podria-revolucionar-futuro-1290240'>La batería que Thomas Edison creó hace más de 100 años podría revolucionar el futuro</a></h4>
     <a href='https://computerhoy.com/motor/bateria-thomas-edison-creo-hace-100-anos-podria-revolucionar-futuro-1290240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bateria-thomas-edison-3108996.jpg?tf=1200x' alt='La batería que Thomas Edison creó hace más de 100 años podría revolucionar el futuro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/mejores-apps-android-aprender-guitarra-1281156'>Las mejores aplicaciones Android para aprender a tocar la guitarra</a></h4>
     <a href='https://computerhoy.com/apps/mejores-apps-android-aprender-guitarra-1281156' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/guitarra-3093408.jpg?tf=1200x' alt='Las mejores aplicaciones Android para aprender a tocar la guitarra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nino-encuentra-moneda-romana-1800-anos-antiguedad-mientras-jugaba-1290252'>Un niño encuentra una moneda romana de 1800 años de antigüedad mientras jugaba</a></h4>
-    <a href='https://computerhoy.com/life/nino-encuentra-moneda-romana-1800-anos-antiguedad-mientras-jugaba-1290252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/denario-plata-3109024.jpg?tf=1200x' alt='Un niño encuentra una moneda romana de 1800 años de antigüedad mientras jugaba' />
     </a>
 </div>
 
