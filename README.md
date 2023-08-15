@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/menos-ano-uso-algunos-usuarios-ya-reportan-disminucion-bateria-iphone-14-1290122'>Menos de un año de uso y algunos usuarios ya reportan una disminución de batería en sus iPhone 14</a></h4>
+    <a href='https://computerhoy.com/apple/menos-ano-uso-algunos-usuarios-ya-reportan-disminucion-bateria-iphone-14-1290122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821739.jpg?tf=1200x' alt='Menos de un año de uso y algunos usuarios ya reportan una disminución de batería en sus iPhone 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-reddit-1286638'>Cómo descargar vídeos de Reddit, paso a paso</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-descargar-videos-reddit-1286638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg?tf=1200x' alt='Cómo descargar vídeos de Reddit, paso a paso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estas-son-3-disciplinas-clave-bill-gates-triunfar-trabajo-1286714'>Estas son las 3 disciplinas clave según Bill Gates para triunfar en el trabajo</a></h4>
     <a href='https://computerhoy.com/life/estas-son-3-disciplinas-clave-bill-gates-triunfar-trabajo-1286714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/bill-gates-2912704.jpg?tf=1200x' alt='Estas son las 3 disciplinas clave según Bill Gates para triunfar en el trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-forerunner-745-oferta-amazon-120-euros-menos-1289560'>Si te gusta correr, con este reloj Garmin te gustará más, y es 120€ más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-forerunner-745-oferta-amazon-120-euros-menos-1289560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/garmin-forerunner-745-3107740.jpg?tf=1200x' alt='Si te gusta correr, con este reloj Garmin te gustará más, y es 120€ más barato' />
     </a>
 </div>
 
