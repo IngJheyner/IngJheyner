@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ipad-tienen-todo-menos-calculadora-culpa-steve-jobs-1290224'>Los iPad tienen de todo menos calculadora y la culpa es de Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/apple/ipad-tienen-todo-menos-calculadora-culpa-steve-jobs-1290224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ipad-calculadora-3108980.jpg?tf=1200x' alt='Los iPad tienen de todo menos calculadora y la culpa es de Steve Jobs' />
+    <h4><a href='https://computerhoy.com/motor/bateria-thomas-edison-creo-hace-100-anos-podria-revolucionar-futuro-1290240'>La batería que Thomas Edison creó hace más de 100 años podría revolucionar el futuro</a></h4>
+    <a href='https://computerhoy.com/motor/bateria-thomas-edison-creo-hace-100-anos-podria-revolucionar-futuro-1290240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bateria-thomas-edison-3108996.jpg?tf=1200x' alt='La batería que Thomas Edison creó hace más de 100 años podría revolucionar el futuro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mitos-gente-aun-cree-memoria-ssd-1247988'>Mitos que la gente aún cree sobre las memorias SSD</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mitos-gente-aun-cree-memoria-ssd-1247988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/ssd.jpg?tf=1200x' alt='Mitos que la gente aún cree sobre las memorias SSD' />
+    <h4><a href='https://computerhoy.com/tecnologia/air-fryer-cosori-oferta-amazon-1289568'>La marca de air fryer más vendida en Amazon revienta el precio de su nuevo modelo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/air-fryer-cosori-oferta-amazon-1289568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cosori-pro-3107770.jpg?tf=1200x' alt='La marca de air fryer más vendida en Amazon revienta el precio de su nuevo modelo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/instalar-cargador-coche-electrico-garaje-5-cosas-deberias-conocer-antes-1290194'>Instalar un cargador de coche eléctrico en tu garaje: 5 cosas que deberías saber</a></h4>
-    <a href='https://computerhoy.com/motor/instalar-cargador-coche-electrico-garaje-5-cosas-deberias-conocer-antes-1290194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cargador-coche-electrico-3108894.jpg?tf=1200x' alt='Instalar un cargador de coche eléctrico en tu garaje: 5 cosas que deberías saber' />
+    <h4><a href='https://computerhoy.com/ciencia/organo-olvidado-cuerpo-podria-proteger-cancer-1290258'>Un órgano olvidado de nuestro cuerpo, podría proteger contra el cáncer</a></h4>
+    <a href='https://computerhoy.com/ciencia/organo-olvidado-cuerpo-podria-proteger-cancer-1290258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/organo-olvidado-cuerpo-podria-proteger-cancer-3109030.jpg?tf=1200x' alt='Un órgano olvidado de nuestro cuerpo, podría proteger contra el cáncer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/bicicleta-electrica-trekking-doble-suspension-rebajada-20-decathlon-1290164'>Esta bicicleta eléctrica de trekking con doble suspensión está rebajada un 20% en Decathlon</a></h4>
-    <a href='https://computerhoy.com/motor/bicicleta-electrica-trekking-doble-suspension-rebajada-20-decathlon-1290164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bicicleta-trekking-920-3108830.jpg?tf=1200x' alt='Esta bicicleta eléctrica de trekking con doble suspensión está rebajada un 20% en Decathlon' />
+    <h4><a href='https://computerhoy.com/apps/mejores-apps-android-aprender-guitarra-1281156'>Las mejores aplicaciones Android para aprender a tocar la guitarra</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-apps-android-aprender-guitarra-1281156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/guitarra-3093408.jpg?tf=1200x' alt='Las mejores aplicaciones Android para aprender a tocar la guitarra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-halla-vulnerabilidades-podrian-apagar-central-nuclear-1290202'>Microsoft encuentra vulnerabilidades que podrían apagar centrales nucleares</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/microsoft-halla-vulnerabilidades-podrian-apagar-central-nuclear-1290202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/microsoft-encuentra-vulnerabilidades-podrian-apagar-centrales-nucleares-3108850.jpg?tf=1200x' alt='Microsoft encuentra vulnerabilidades que podrían apagar centrales nucleares' />
+    <h4><a href='https://computerhoy.com/life/nino-encuentra-moneda-romana-1800-anos-antiguedad-mientras-jugaba-1290252'>Un niño encuentra una moneda romana de 1800 años de antigüedad mientras jugaba</a></h4>
+    <a href='https://computerhoy.com/life/nino-encuentra-moneda-romana-1800-anos-antiguedad-mientras-jugaba-1290252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/denario-plata-3109024.jpg?tf=1200x' alt='Un niño encuentra una moneda romana de 1800 años de antigüedad mientras jugaba' />
     </a>
 </div>
 
