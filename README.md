@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/menos-ano-uso-algunos-usuarios-ya-reportan-disminucion-bateria-iphone-14-1290122'>Menos de un año de uso y algunos usuarios ya reportan una disminución de batería en sus iPhone 14</a></h4>
-    <a href='https://computerhoy.com/apple/menos-ano-uso-algunos-usuarios-ya-reportan-disminucion-bateria-iphone-14-1290122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821739.jpg?tf=1200x' alt='Menos de un año de uso y algunos usuarios ya reportan una disminución de batería en sus iPhone 14' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-halla-vulnerabilidades-podrian-apagar-central-nuclear-1290202'>Microsoft encuentra vulnerabilidades que podrían apagar centrales nucleares</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/microsoft-halla-vulnerabilidades-podrian-apagar-central-nuclear-1290202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/microsoft-encuentra-vulnerabilidades-podrian-apagar-centrales-nucleares-3108850.jpg?tf=1200x' alt='Microsoft encuentra vulnerabilidades que podrían apagar centrales nucleares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-reddit-1286638'>Cómo descargar vídeos de Reddit, paso a paso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-descargar-videos-reddit-1286638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg?tf=1200x' alt='Cómo descargar vídeos de Reddit, paso a paso' />
+    <h4><a href='https://computerhoy.com/internet/guia-photopea-alternativa-gratis-photoshop-todas-funciones-1276660'>Guía de Photopea, la alternativa gratis a Photoshop, y todas sus funciones</a></h4>
+    <a href='https://computerhoy.com/internet/guia-photopea-alternativa-gratis-photoshop-todas-funciones-1276660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/photopea-3089916.jpg?tf=1200x' alt='Guía de Photopea, la alternativa gratis a Photoshop, y todas sus funciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/no-quieres-iphone-acabe-basura-deberias-hacer-caso-siguiente-alerta-1290112'>Si no quieres que tu iPhone acabe en la basura, deberías hacer caso a esta alerta en tu móvil</a></h4>
-    <a href='https://computerhoy.com/apple/no-quieres-iphone-acabe-basura-deberias-hacer-caso-siguiente-alerta-1290112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mensaje-iphone-3108778.jpg?tf=1200x' alt='Si no quieres que tu iPhone acabe en la basura, deberías hacer caso a esta alerta en tu móvil' />
+    <h4><a href='https://computerhoy.com/google/youtube-planta-cara-desinformacion-eliminara-videos-promuevan-curas-alternativas-cancer-1290176'>YouTube planta cara a la desinformación y eliminará vídeos que promuevan curas alternativas al cáncer </a></h4>
+    <a href='https://computerhoy.com/google/youtube-planta-cara-desinformacion-eliminara-videos-promuevan-curas-alternativas-cancer-1290176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/youtube-desinformacion-cancer-3108872.jpg?tf=1200x' alt='YouTube planta cara a la desinformación y eliminará vídeos que promuevan curas alternativas al cáncer ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mochila-nuclear-creador-chatgpt-caso-apocalipsis-debido-ia-1290088'>Esto es lo que esconde la "mochila nuclear" del creador de ChatGPT en caso de apocalipsis debido a la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mochila-nuclear-creador-chatgpt-caso-apocalipsis-debido-ia-1290088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mochila-nuclear-creador-chatgpt-3108750.jpg?tf=1200x' alt='Esto es lo que esconde la "mochila nuclear" del creador de ChatGPT en caso de apocalipsis debido a la IA' />
+    <h4><a href='https://computerhoy.com/android/buen-rendimiento-gran-autonomia-barata-tablet-ha-bajado-100-euros-gracias-cupon-amazon-1289808'>Buen rendimiento, gran autonomía y barata: esta tablet baja de los 100 euros gracias a un cupón en Amazon</a></h4>
+    <a href='https://computerhoy.com/android/buen-rendimiento-gran-autonomia-barata-tablet-ha-bajado-100-euros-gracias-cupon-amazon-1289808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/teclast-3108438.jpg?tf=1200x' alt='Buen rendimiento, gran autonomía y barata: esta tablet baja de los 100 euros gracias a un cupón en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-son-3-disciplinas-clave-bill-gates-triunfar-trabajo-1286714'>Estas son las 3 disciplinas clave según Bill Gates para triunfar en el trabajo</a></h4>
-    <a href='https://computerhoy.com/life/estas-son-3-disciplinas-clave-bill-gates-triunfar-trabajo-1286714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/bill-gates-2912704.jpg?tf=1200x' alt='Estas son las 3 disciplinas clave según Bill Gates para triunfar en el trabajo' />
+    <h4><a href='https://computerhoy.com/life/5-habitos-tener-cerebro-sano-neurocientificos-1282408'>5 hábitos que recomiendan los neurocientíficos para mantener un cerebro sano</a></h4>
+    <a href='https://computerhoy.com/life/5-habitos-tener-cerebro-sano-neurocientificos-1282408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cerebro-2823899.jpg?tf=1200x' alt='5 hábitos que recomiendan los neurocientíficos para mantener un cerebro sano' />
     </a>
 </div>
 
