@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/quieres-hablar-jesus-app-funciona-ia-te-permite-chatear-1290082'>¿Quieres hablar con Jesús o Marie Curie? Esta app que funciona con IA te permite chatear con ellos</a></h4>
-    <a href='https://computerhoy.com/apps/quieres-hablar-jesus-app-funciona-ia-te-permite-chatear-1290082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/app-ia-jesus-3108740.jpg?tf=1200x' alt='¿Quieres hablar con Jesús o Marie Curie? Esta app que funciona con IA te permite chatear con ellos' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-reddit-1286638'>Cómo descargar vídeos de Reddit, paso a paso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-descargar-videos-reddit-1286638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg?tf=1200x' alt='Cómo descargar vídeos de Reddit, paso a paso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/como-convertir-vieja-tablet-android-smart-tv-portatil-1278360'>El truco para convertir tu vieja tablet Android en una Smart TV portátil para ver la tele en cualquier parte</a></h4>
-    <a href='https://computerhoy.com/android/como-convertir-vieja-tablet-android-smart-tv-portatil-1278360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mujer-sentada-utilizando-tablet-2793825.jpg?tf=1200x' alt='El truco para convertir tu vieja tablet Android en una Smart TV portátil para ver la tele en cualquier parte' />
+    <h4><a href='https://computerhoy.com/apple/no-quieres-iphone-acabe-basura-deberias-hacer-caso-siguiente-alerta-1290112'>Si no quieres que tu iPhone acabe en la basura, deberías hacer caso a esta alerta en tu móvil</a></h4>
+    <a href='https://computerhoy.com/apple/no-quieres-iphone-acabe-basura-deberias-hacer-caso-siguiente-alerta-1290112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mensaje-iphone-3108778.jpg?tf=1200x' alt='Si no quieres que tu iPhone acabe en la basura, deberías hacer caso a esta alerta en tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar según tu presupuesto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-z-flip5-3089414.jpg?tf=1200x' alt='Los mejores móviles Samsung que puedes comprar según tu presupuesto' />
+    <h4><a href='https://computerhoy.com/tecnologia/mochila-nuclear-creador-chatgpt-caso-apocalipsis-debido-ia-1290088'>Esto es lo que esconde la "mochila nuclear" del creador de ChatGPT en caso de apocalipsis debido a la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mochila-nuclear-creador-chatgpt-caso-apocalipsis-debido-ia-1290088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mochila-nuclear-creador-chatgpt-3108750.jpg?tf=1200x' alt='Esto es lo que esconde la "mochila nuclear" del creador de ChatGPT en caso de apocalipsis debido a la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/historia-amazon-espana-1237614'>25 aniversario de Computer Hoy: Historia de Amazon en España, de los libros y tecnología hasta la alimentación fresca</a></h4>
-    <a href='https://computerhoy.com/amazon/historia-amazon-espana-1237614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-espana-3104716.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Historia de Amazon en España, de los libros y tecnología hasta la alimentación fresca' />
+    <h4><a href='https://computerhoy.com/life/estas-son-3-disciplinas-clave-bill-gates-triunfar-trabajo-1286714'>Estas son las 3 disciplinas clave según Bill Gates para triunfar en el trabajo</a></h4>
+    <a href='https://computerhoy.com/life/estas-son-3-disciplinas-clave-bill-gates-triunfar-trabajo-1286714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/bill-gates-2912704.jpg?tf=1200x' alt='Estas son las 3 disciplinas clave según Bill Gates para triunfar en el trabajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/the-creator-criticada-incluir-imagenes-reales-gran-tragedia-trailer-1289844'>La esperada película The Creator desata la polémica: en su tráiler incluye imágenes reales de una gran tragedia</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/the-creator-criticada-incluir-imagenes-reales-gran-tragedia-trailer-1289844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/creator-3087176.jpg?tf=1200x' alt='La esperada película The Creator desata la polémica: en su tráiler incluye imágenes reales de una gran tragedia' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-forerunner-745-oferta-amazon-120-euros-menos-1289560'>Si te gusta correr, con este reloj Garmin te gustará más, y es 120€ más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-forerunner-745-oferta-amazon-120-euros-menos-1289560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/garmin-forerunner-745-3107740.jpg?tf=1200x' alt='Si te gusta correr, con este reloj Garmin te gustará más, y es 120€ más barato' />
     </a>
 </div>
 
