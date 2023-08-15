@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/quieres-hablar-jesus-app-funciona-ia-te-permite-chatear-1290082'>¿Quieres hablar con Jesús o Marie Curie? Esta app que funciona con IA te permite chatear con ellos</a></h4>
+    <a href='https://computerhoy.com/apps/quieres-hablar-jesus-app-funciona-ia-te-permite-chatear-1290082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/app-ia-jesus-3108740.jpg?tf=1200x' alt='¿Quieres hablar con Jesús o Marie Curie? Esta app que funciona con IA te permite chatear con ellos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/como-convertir-vieja-tablet-android-smart-tv-portatil-1278360'>El truco para convertir tu vieja tablet Android en una Smart TV portátil para ver la tele en cualquier parte</a></h4>
+    <a href='https://computerhoy.com/android/como-convertir-vieja-tablet-android-smart-tv-portatil-1278360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mujer-sentada-utilizando-tablet-2793825.jpg?tf=1200x' alt='El truco para convertir tu vieja tablet Android en una Smart TV portátil para ver la tele en cualquier parte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar según tu presupuesto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-z-flip5-3089414.jpg?tf=1200x' alt='Los mejores móviles Samsung que puedes comprar según tu presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/historia-amazon-espana-1237614'>25 aniversario de Computer Hoy: Historia de Amazon en España, de los libros y tecnología hasta la alimentación fresca</a></h4>
+    <a href='https://computerhoy.com/amazon/historia-amazon-espana-1237614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-espana-3104716.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Historia de Amazon en España, de los libros y tecnología hasta la alimentación fresca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/the-creator-criticada-incluir-imagenes-reales-gran-tragedia-trailer-1289844'>La esperada película The Creator desata la polémica: en su tráiler incluye imágenes reales de una gran tragedia</a></h4>
     <a href='https://computerhoy.com/entretenimiento/the-creator-criticada-incluir-imagenes-reales-gran-tragedia-trailer-1289844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/creator-3087176.jpg?tf=1200x' alt='La esperada película The Creator desata la polémica: en su tráiler incluye imágenes reales de una gran tragedia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/telegram-cumple-10-anos-estrena-stories-gratis-camara-dual-otras-novedades-1289840'>Telegram cumple 10 años y lo celebra ofreciendo el modo Stories gratis para todos, cámara dual, y otras novedades</a></h4>
-    <a href='https://computerhoy.com/internet/telegram-cumple-10-anos-estrena-stories-gratis-camara-dual-otras-novedades-1289840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/telegram-cumple-10-anos-celebra-ofreciendo-modo-stories-gratis-todos-camara-dual-otras-novedades-3108502.jpg?tf=1200x' alt='Telegram cumple 10 años y lo celebra ofreciendo el modo Stories gratis para todos, cámara dual, y otras novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/hace-maniobra-rotonda-tirachinas-evitar-atascos-1289838'>Un conductor se inventa la maniobra "rotonda tirachinas", para evitar atascos y reducir los trayectos</a></h4>
-    <a href='https://computerhoy.com/motor/hace-maniobra-rotonda-tirachinas-evitar-atascos-1289838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/conductor-inventa-maniobra-rotonda-tirachinas-reducir-20-minutos-cualquier-trayecto-3108466.jpg?tf=1200x' alt='Un conductor se inventa la maniobra "rotonda tirachinas", para evitar atascos y reducir los trayectos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-desvela-paises-donde-hombres-tienen-opciones-quedarse-calvos-atentos-espana-1289832'>Este mapa desvela los países donde los hombres tienen más opciones de quedarse calvos, y atentos con España</a></h4>
-    <a href='https://computerhoy.com/life/mapa-desvela-paises-donde-hombres-tienen-opciones-quedarse-calvos-atentos-espana-1289832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/alopecia-3108492.jpg?tf=1200x' alt='Este mapa desvela los países donde los hombres tienen más opciones de quedarse calvos, y atentos con España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-tambien-quiere-iphone-barato-sea-revolucionario-empezando-diseno-similar-iphone-14-1289830'>Apple también quiere que su iPhone barato sea revolucionario y empezando con un diseño similar al iPhone 14</a></h4>
-    <a href='https://computerhoy.com/apple/apple-tambien-quiere-iphone-barato-sea-revolucionario-empezando-diseno-similar-iphone-14-1289830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656605.jpg?tf=1200x' alt='Apple también quiere que su iPhone barato sea revolucionario y empezando con un diseño similar al iPhone 14' />
     </a>
 </div>
 
