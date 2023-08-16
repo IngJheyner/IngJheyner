@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/hora-cambiar-iphone-forma-saberlo-1290712'>¿Es hora de cambiar tu iPhone? Esta es la forma de saberlo</a></h4>
-    <a href='https://computerhoy.com/apple/hora-cambiar-iphone-forma-saberlo-1290712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hora-cambiar-iphone-forma-saberlo-3109746.jpg?tf=1200x' alt='¿Es hora de cambiar tu iPhone? Esta es la forma de saberlo' />
+    <h4><a href='https://computerhoy.com/hogar/gran-error-mucha-gente-comete-comprar-ventilador-techo-1290730'>El gran error que mucha gente comete al comprar un ventilador de techo</a></h4>
+    <a href='https://computerhoy.com/hogar/gran-error-mucha-gente-comete-comprar-ventilador-techo-1290730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/gran-error-mucha-gente-comete-comprar-ventilador-techo-3109856.jpg?tf=1200x' alt='El gran error que mucha gente comete al comprar un ventilador de techo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/robot-aspirador-roomba'>Consejos y guía para comprar un robot aspirador de Roomba y elegir el mejor modelo para ti</a></h4>
-    <a href='https://computerhoy.com/guia-compra/robot-aspirador-roomba' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/roomba-j7-2851333.jpg?tf=1200x' alt='Consejos y guía para comprar un robot aspirador de Roomba y elegir el mejor modelo para ti' />
+    <h4><a href='https://computerhoy.com/moviles/gama-alta-android-2024-podrian-ser-caros-debido-aspecto-1290782'>Los gama alta Android de 2024 podrían ser más caros debido a este aspecto</a></h4>
+    <a href='https://computerhoy.com/moviles/gama-alta-android-2024-podrian-ser-caros-debido-aspecto-1290782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/snapdragon-8-gen-2-2828603.jpg?tf=1200x' alt='Los gama alta Android de 2024 podrían ser más caros debido a este aspecto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ibm-trabaja-chip-hipereficiente-imita-cerebro-humano-1290696'>IBM trabaja en chip hipereficiente que imita a un cerebro humano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ibm-trabaja-chip-hipereficiente-imita-cerebro-humano-1290696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ibm-crea-chip-hipereficiente-funciona-inteligencia-artificial-imitando-cerebro-humano-3109722.jpg?tf=1200x' alt='IBM trabaja en chip hipereficiente que imita a un cerebro humano' />
+    <h4><a href='https://computerhoy.com/espacio/desconciertan-cientificos-estas-misteriosas-senales-radio-megatormentas-saturno-1290778'>Desconciertan a los científicos estas misteriosas señales de radio de megatormentas en Saturno</a></h4>
+    <a href='https://computerhoy.com/espacio/desconciertan-cientificos-estas-misteriosas-senales-radio-megatormentas-saturno-1290778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/saturno-3109986.jpg?tf=1200x' alt='Desconciertan a los científicos estas misteriosas señales de radio de megatormentas en Saturno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/divisor-audio-compartir-musica-viajes-1290678'>Este es el gadget que necesitas para disfrutar de tu música o serie favorita en tus viajes este verano</a></h4>
-    <a href='https://computerhoy.com/life/divisor-audio-compartir-musica-viajes-1290678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/gadget-necesitas-disfutrar-musica-serie-favorita-viajes-verano-3109658.jpg?tf=1200x' alt='Este es el gadget que necesitas para disfrutar de tu música o serie favorita en tus viajes este verano' />
+    <h4><a href='https://computerhoy.com/ciencia/otzi-hombre-hielo-piel-negra-calvo-1290776'>Un análisis genético descubre que Ötzi, la momia más antigua de Europa, era muy diferente a como la habíamos imaginado</a></h4>
+    <a href='https://computerhoy.com/ciencia/otzi-hombre-hielo-piel-negra-calvo-1290776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/analisis-genetico-descubre-otzi-momia-edad-hielo-era-muy-diferente-como-habiamos-imaginado-3109968.jpg?tf=1200x' alt='Un análisis genético descubre que Ötzi, la momia más antigua de Europa, era muy diferente a como la habíamos imaginado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/nuevo-televisor-stanbyme-go-lg-puedes-llevar-maleta-1290670'>Así es el nuevo televisor StanbyME Go de LG que puedes llevar en una maleta</a></h4>
-    <a href='https://computerhoy.com/tv/nuevo-televisor-stanbyme-go-lg-puedes-llevar-maleta-1290670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nuevo-televisor-lg-puedes-llevar-maleta-3109650.jpg?tf=1200x' alt='Así es el nuevo televisor StanbyME Go de LG que puedes llevar en una maleta' />
+    <h4><a href='https://computerhoy.com/motor/dos-funciones-ocultas-puerta-coche-muy-practicas-1289032'>Dos funciones ocultas en la puerta de tu coche: una es muy práctica, la otra te hará volar la cabeza</a></h4>
+    <a href='https://computerhoy.com/motor/dos-funciones-ocultas-puerta-coche-muy-practicas-1289032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funcion-oculta-puerta-3100412.jpg?tf=1200x' alt='Dos funciones ocultas en la puerta de tu coche: una es muy práctica, la otra te hará volar la cabeza' />
     </a>
 </div>
 
