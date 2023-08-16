@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/como-te-afecta-aumento-precio-amazon-music-unlimited-eres-usuario-prime-1290622'>Cómo te afecta el aumento de precio de Amazon Music Unlimited si eres usuario de Prime</a></h4>
+    <a href='https://computerhoy.com/amazon/como-te-afecta-aumento-precio-amazon-music-unlimited-eres-usuario-prime-1290622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-music-unlimited-2550909.jpg?tf=1200x' alt='Cómo te afecta el aumento de precio de Amazon Music Unlimited si eres usuario de Prime' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-abre-puertas-setapp-primera-alternativa-app-store-europa-1290604'>Apple abre las puertas con Setapp, la primera alternativa a la App Store en Europa</a></h4>
+    <a href='https://computerhoy.com/apple/apple-abre-puertas-setapp-primera-alternativa-app-store-europa-1290604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-aplicaciones-3109440.jpg?tf=1200x' alt='Apple abre las puertas con Setapp, la primera alternativa a la App Store en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/mucho-cuidado-viajas-capital-europea-verano-cada-6-minutos-movil-robado-1290574'>Mucho cuidado si viajas a esta capital europea este verano: cada 6 minutos un móvil es robado</a></h4>
+    <a href='https://computerhoy.com/moviles/mucho-cuidado-viajas-capital-europea-verano-cada-6-minutos-movil-robado-1290574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cada-6-minutos-movil-robado-3109420.jpg?tf=1200x' alt='Mucho cuidado si viajas a esta capital europea este verano: cada 6 minutos un móvil es robado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oferta-mac-mini-m2-amazon-solo-649-euros-1289584'>El ordenador más barato de Apple tiene M2 y ahora cuesta mucho menos de lo que piensas, y en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oferta-mac-mini-m2-amazon-solo-649-euros-1289584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mac-mini-3107812.jpg?tf=1200x' alt='El ordenador más barato de Apple tiene M2 y ahora cuesta mucho menos de lo que piensas, y en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-aumenta-produccion-iphone-15-india-reducir-dependencia-china-1290540'>Apple aumenta la producción del iPhone 15 en India para reducir su dependencia con China</a></h4>
     <a href='https://computerhoy.com/apple/apple-aumenta-produccion-iphone-15-india-reducir-dependencia-china-1290540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/foxconn-india-3109352.jpg?tf=1200x' alt='Apple aumenta la producción del iPhone 15 en India para reducir su dependencia con China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/revolucionario-motor-bicicletas-electricas-convierte-baratas-cadena-mantenimiento-1290524'>Revolucionario motor para bicicletas eléctricas que las convierte en más baratas, sin cadena y sin mantenimiento </a></h4>
-    <a href='https://computerhoy.com/motor/revolucionario-motor-bicicletas-electricas-convierte-baratas-cadena-mantenimiento-1290524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/motor-bicicletas-electricas-3109332.jpg?tf=1200x' alt='Revolucionario motor para bicicletas eléctricas que las convierte en más baratas, sin cadena y sin mantenimiento ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-muy-barato-menos-20-euros-oferta-flash-1290518'>Parece el Apple Watch, pero es de Xiaomi y cuesta menos de 20 euros, aunque solo durante 24 horas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-muy-barato-menos-20-euros-oferta-flash-1290518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiaomi-redmi-watch-3-active-3109310.jpg?tf=1200x' alt='Parece el Apple Watch, pero es de Xiaomi y cuesta menos de 20 euros, aunque solo durante 24 horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inventan-aire-acondicionado-portatil-capaz-enfriar-cualquier-lugar-15-minutos-no-requiere-instalacion-1290516'>Inventan el aire acondicionado portátil capaz de enfriar cualquier lugar en 15 minutos y no requiere instalación</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inventan-aire-acondicionado-portatil-capaz-enfriar-cualquier-lugar-15-minutos-no-requiere-instalacion-1290516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/aire-acondicionado-3109320.jpg?tf=1200x' alt='Inventan el aire acondicionado portátil capaz de enfriar cualquier lugar en 15 minutos y no requiere instalación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
-    <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809245.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
     </a>
 </div>
 
