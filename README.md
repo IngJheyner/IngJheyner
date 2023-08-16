@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/nuevo-televisor-stanbyme-go-lg-puedes-llevar-maleta-1290670'>Así es el nuevo televisor StanbyME Go de LG que puedes llevar en una maleta</a></h4>
+    <a href='https://computerhoy.com/tv/nuevo-televisor-stanbyme-go-lg-puedes-llevar-maleta-1290670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nuevo-televisor-lg-puedes-llevar-maleta-3109650.jpg?tf=1200x' alt='Así es el nuevo televisor StanbyME Go de LG que puedes llevar en una maleta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/trucos-faciles-rapidos-5-formas-hacer-ventilador-enfrie-1290246'>Trucos fáciles y rápidos: 5 formas de hacer que tu ventilador enfríe más</a></h4>
+    <a href='https://computerhoy.com/life/trucos-faciles-rapidos-5-formas-hacer-ventilador-enfrie-1290246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/formas-hacer-ventilador-enfrie-3109042.jpg?tf=1200x' alt='Trucos fáciles y rápidos: 5 formas de hacer que tu ventilador enfríe más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-15-puerto-usb-c-tiene-chip-extra-nadie-sabe-sirve-1290668'>iPhone 15: el puerto USB-C tiene un chip extra y nadie sabe para qué sirve</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-15-puerto-usb-c-tiene-chip-extra-nadie-sabe-sirve-1290668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='iPhone 15: el puerto USB-C tiene un chip extra y nadie sabe para qué sirve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/descarga-ya-android-auto-103-nueva-beta-mejoras-novedades-1290658'>Descarga ya Android Auto 10.3: la nueva beta con mejoras y novedades</a></h4>
+    <a href='https://computerhoy.com/android/descarga-ya-android-auto-103-nueva-beta-mejoras-novedades-1290658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-activar-modo-dios-android-auto-3099448.jpg?tf=1200x' alt='Descarga ya Android Auto 10.3: la nueva beta con mejoras y novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/como-te-afecta-aumento-precio-amazon-music-unlimited-eres-usuario-prime-1290622'>Cómo te afecta el aumento de precio de Amazon Music Unlimited si eres usuario de Prime</a></h4>
     <a href='https://computerhoy.com/amazon/como-te-afecta-aumento-precio-amazon-music-unlimited-eres-usuario-prime-1290622' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-music-unlimited-2550909.jpg?tf=1200x' alt='Cómo te afecta el aumento de precio de Amazon Music Unlimited si eres usuario de Prime' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-abre-puertas-setapp-primera-alternativa-app-store-europa-1290604'>Apple abre las puertas con Setapp, la primera alternativa a la App Store en Europa</a></h4>
-    <a href='https://computerhoy.com/apple/apple-abre-puertas-setapp-primera-alternativa-app-store-europa-1290604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-aplicaciones-3109440.jpg?tf=1200x' alt='Apple abre las puertas con Setapp, la primera alternativa a la App Store en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mucho-cuidado-viajas-capital-europea-verano-cada-6-minutos-movil-robado-1290574'>Mucho cuidado si viajas a esta capital europea este verano: cada 6 minutos un móvil es robado</a></h4>
-    <a href='https://computerhoy.com/moviles/mucho-cuidado-viajas-capital-europea-verano-cada-6-minutos-movil-robado-1290574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cada-6-minutos-movil-robado-3109420.jpg?tf=1200x' alt='Mucho cuidado si viajas a esta capital europea este verano: cada 6 minutos un móvil es robado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oferta-mac-mini-m2-amazon-solo-649-euros-1289584'>El ordenador más barato de Apple tiene M2 y ahora cuesta mucho menos de lo que piensas, y en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oferta-mac-mini-m2-amazon-solo-649-euros-1289584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mac-mini-3107812.jpg?tf=1200x' alt='El ordenador más barato de Apple tiene M2 y ahora cuesta mucho menos de lo que piensas, y en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-aumenta-produccion-iphone-15-india-reducir-dependencia-china-1290540'>Apple aumenta la producción del iPhone 15 en India para reducir su dependencia con China</a></h4>
-    <a href='https://computerhoy.com/apple/apple-aumenta-produccion-iphone-15-india-reducir-dependencia-china-1290540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/foxconn-india-3109352.jpg?tf=1200x' alt='Apple aumenta la producción del iPhone 15 en India para reducir su dependencia con China' />
     </a>
 </div>
 
