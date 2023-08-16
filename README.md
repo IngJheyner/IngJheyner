@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/hora-cambiar-iphone-forma-saberlo-1290712'>¿Es hora de cambiar tu iPhone? Esta es la forma de saberlo</a></h4>
+    <a href='https://computerhoy.com/apple/hora-cambiar-iphone-forma-saberlo-1290712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hora-cambiar-iphone-forma-saberlo-3109746.jpg?tf=1200x' alt='¿Es hora de cambiar tu iPhone? Esta es la forma de saberlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/robot-aspirador-roomba'>Consejos y guía para comprar un robot aspirador de Roomba y elegir el mejor modelo para ti</a></h4>
+    <a href='https://computerhoy.com/guia-compra/robot-aspirador-roomba' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/roomba-j7-2851333.jpg?tf=1200x' alt='Consejos y guía para comprar un robot aspirador de Roomba y elegir el mejor modelo para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ibm-trabaja-chip-hipereficiente-imita-cerebro-humano-1290696'>IBM trabaja en chip hipereficiente que imita a un cerebro humano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ibm-trabaja-chip-hipereficiente-imita-cerebro-humano-1290696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ibm-crea-chip-hipereficiente-funciona-inteligencia-artificial-imitando-cerebro-humano-3109722.jpg?tf=1200x' alt='IBM trabaja en chip hipereficiente que imita a un cerebro humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/divisor-audio-compartir-musica-viajes-1290678'>Este es el gadget que necesitas para disfrutar de tu música o serie favorita en tus viajes este verano</a></h4>
+    <a href='https://computerhoy.com/life/divisor-audio-compartir-musica-viajes-1290678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/gadget-necesitas-disfutrar-musica-serie-favorita-viajes-verano-3109658.jpg?tf=1200x' alt='Este es el gadget que necesitas para disfrutar de tu música o serie favorita en tus viajes este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/nuevo-televisor-stanbyme-go-lg-puedes-llevar-maleta-1290670'>Así es el nuevo televisor StanbyME Go de LG que puedes llevar en una maleta</a></h4>
     <a href='https://computerhoy.com/tv/nuevo-televisor-stanbyme-go-lg-puedes-llevar-maleta-1290670' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nuevo-televisor-lg-puedes-llevar-maleta-3109650.jpg?tf=1200x' alt='Así es el nuevo televisor StanbyME Go de LG que puedes llevar en una maleta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/trucos-faciles-rapidos-5-formas-hacer-ventilador-enfrie-1290246'>Trucos fáciles y rápidos: 5 formas de hacer que tu ventilador enfríe más</a></h4>
-    <a href='https://computerhoy.com/life/trucos-faciles-rapidos-5-formas-hacer-ventilador-enfrie-1290246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/formas-hacer-ventilador-enfrie-3109042.jpg?tf=1200x' alt='Trucos fáciles y rápidos: 5 formas de hacer que tu ventilador enfríe más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-15-puerto-usb-c-tiene-chip-extra-nadie-sabe-sirve-1290668'>iPhone 15: el puerto USB-C tiene un chip extra y nadie sabe para qué sirve</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-15-puerto-usb-c-tiene-chip-extra-nadie-sabe-sirve-1290668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='iPhone 15: el puerto USB-C tiene un chip extra y nadie sabe para qué sirve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/descarga-ya-android-auto-103-nueva-beta-mejoras-novedades-1290658'>Descarga ya Android Auto 10.3: la nueva beta con mejoras y novedades</a></h4>
-    <a href='https://computerhoy.com/android/descarga-ya-android-auto-103-nueva-beta-mejoras-novedades-1290658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-activar-modo-dios-android-auto-3099448.jpg?tf=1200x' alt='Descarga ya Android Auto 10.3: la nueva beta con mejoras y novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/como-te-afecta-aumento-precio-amazon-music-unlimited-eres-usuario-prime-1290622'>Cómo te afecta el aumento de precio de Amazon Music Unlimited si eres usuario de Prime</a></h4>
-    <a href='https://computerhoy.com/amazon/como-te-afecta-aumento-precio-amazon-music-unlimited-eres-usuario-prime-1290622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/amazon-music-unlimited-2550909.jpg?tf=1200x' alt='Cómo te afecta el aumento de precio de Amazon Music Unlimited si eres usuario de Prime' />
     </a>
 </div>
 
