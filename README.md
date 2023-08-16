@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-aumenta-produccion-iphone-15-india-reducir-dependencia-china-1290540'>Apple aumenta la producción del iPhone 15 en India para reducir su dependencia con China</a></h4>
+    <a href='https://computerhoy.com/apple/apple-aumenta-produccion-iphone-15-india-reducir-dependencia-china-1290540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/foxconn-india-3109352.jpg?tf=1200x' alt='Apple aumenta la producción del iPhone 15 en India para reducir su dependencia con China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/revolucionario-motor-bicicletas-electricas-convierte-baratas-cadena-mantenimiento-1290524'>Revolucionario motor para bicicletas eléctricas que las convierte en más baratas, sin cadena y sin mantenimiento </a></h4>
+    <a href='https://computerhoy.com/motor/revolucionario-motor-bicicletas-electricas-convierte-baratas-cadena-mantenimiento-1290524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/motor-bicicletas-electricas-3109332.jpg?tf=1200x' alt='Revolucionario motor para bicicletas eléctricas que las convierte en más baratas, sin cadena y sin mantenimiento ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-muy-barato-menos-20-euros-oferta-flash-1290518'>Parece el Apple Watch, pero es de Xiaomi y cuesta menos de 20 euros, aunque solo durante 24 horas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-muy-barato-menos-20-euros-oferta-flash-1290518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiaomi-redmi-watch-3-active-3109310.jpg?tf=1200x' alt='Parece el Apple Watch, pero es de Xiaomi y cuesta menos de 20 euros, aunque solo durante 24 horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inventan-aire-acondicionado-portatil-capaz-enfriar-cualquier-lugar-15-minutos-no-requiere-instalacion-1290516'>Inventan el aire acondicionado portátil capaz de enfriar cualquier lugar en 15 minutos y no requiere instalación</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inventan-aire-acondicionado-portatil-capaz-enfriar-cualquier-lugar-15-minutos-no-requiere-instalacion-1290516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/aire-acondicionado-3109320.jpg?tf=1200x' alt='Inventan el aire acondicionado portátil capaz de enfriar cualquier lugar en 15 minutos y no requiere instalación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
     <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809245.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/marcas-moviles-carga-rapida-2023-1287164'>Apple y Samsung tienen los móviles con la carga más lenta: estos son los fabricantes con carga más rápida de 2023</a></h4>
-    <a href='https://computerhoy.com/moviles/marcas-moviles-carga-rapida-2023-1287164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/carga-rapida-3103890.jpg?tf=1200x' alt='Apple y Samsung tienen los móviles con la carga más lenta: estos son los fabricantes con carga más rápida de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/nubia-redmagic-8s-pro-analisis-opinion-movil-gaming-potente-1286648'>Nubia RedMagic 8S Pro, análisis y opinión: el móvil gaming más potente que Android ha conocido</a></h4>
-    <a href='https://computerhoy.com/analisis/nubia-redmagic-8s-pro-analisis-opinion-movil-gaming-potente-1286648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nubia-redmagic-8s-pro-analisis-opinion-3105800.jpg?tf=1200x' alt='Nubia RedMagic 8S Pro, análisis y opinión: el móvil gaming más potente que Android ha conocido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-funcionan-autobuses-urbanos-japon-pelo-humano-1290264'>No te vas a creer cómo funcionan los autobuses urbanos en Japón: el pelo humano es fundamental</a></h4>
-    <a href='https://computerhoy.com/life/como-funcionan-autobuses-urbanos-japon-pelo-humano-1290264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/no-te-vas-creer-como-funcionan-autobuses-urbanos-japon-pelo-humano-fundamental-3109040.jpg?tf=1200x' alt='No te vas a creer cómo funcionan los autobuses urbanos en Japón: el pelo humano es fundamental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/bateria-thomas-edison-creo-hace-100-anos-podria-revolucionar-futuro-1290240'>La batería que Thomas Edison creó hace más de 100 años podría revolucionar el futuro</a></h4>
-    <a href='https://computerhoy.com/motor/bateria-thomas-edison-creo-hace-100-anos-podria-revolucionar-futuro-1290240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bateria-thomas-edison-3108996.jpg?tf=1200x' alt='La batería que Thomas Edison creó hace más de 100 años podría revolucionar el futuro' />
     </a>
 </div>
 
