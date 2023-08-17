@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/historia-tcl-1276478'>Historia de TCL: de fabricar casetes a un gigante que se ha hecho con el mercado de los televisores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/historia-tcl-1276478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-sedes-tcl-largo-historia-3085856.jpg?tf=1200x' alt='Historia de TCL: de fabricar casetes a un gigante que se ha hecho con el mercado de los televisores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/fans-salvan-serie-cancelada-netflix-1290794'>Los fans consiguen que se recupere una serie cancelada en Netflix... y harán tres películas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fans-salvan-serie-cancelada-netflix-1290794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fans-consiguen-recupere-serie-cancelada-netflix-haran-tres-peliculas-3110036.jpg?tf=1200x' alt='Los fans consiguen que se recupere una serie cancelada en Netflix... y harán tres películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/razon-deberias-borrar-memoria-cache-whatsapp-1290700'>Esta es la razón por la que deberías borrar frecuentemente la memoria caché de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/razon-deberias-borrar-memoria-cache-whatsapp-1290700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dos-whatsapp-2932216.jpg?tf=1200x' alt='Esta es la razón por la que deberías borrar frecuentemente la memoria caché de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/8-habitos-diarios-podrian-sumar-24-anos-vida-1285660'>¿Quieres vivir más y mejor? 8 hábitos saludables que podrían sumar hasta 24 años a tu vida </a></h4>
+    <a href='https://computerhoy.com/life/8-habitos-diarios-podrian-sumar-24-anos-vida-1285660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-vivir-3110032.jpg?tf=1200x' alt='¿Quieres vivir más y mejor? 8 hábitos saludables que podrían sumar hasta 24 años a tu vida ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-comienza-eliminar-doblajes-todos-idiomas-1290790'>Disney+ comienza a eliminar doblajes en múltiples idiomas para sus series originales</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-plus-comienza-eliminar-doblajes-todos-idiomas-1290790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/batacazo-disney-pierde-4-millones-suscriptores-2023-3033288.jpg?tf=1200x' alt='Disney+ comienza a eliminar doblajes en múltiples idiomas para sus series originales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/gran-error-mucha-gente-comete-comprar-ventilador-techo-1290730'>El gran error que mucha gente comete al comprar un ventilador de techo</a></h4>
-    <a href='https://computerhoy.com/hogar/gran-error-mucha-gente-comete-comprar-ventilador-techo-1290730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/gran-error-mucha-gente-comete-comprar-ventilador-techo-3109856.jpg?tf=1200x' alt='El gran error que mucha gente comete al comprar un ventilador de techo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/gama-alta-android-2024-podrian-ser-caros-debido-aspecto-1290782'>Los gama alta Android de 2024 podrían ser más caros debido a este aspecto</a></h4>
-    <a href='https://computerhoy.com/moviles/gama-alta-android-2024-podrian-ser-caros-debido-aspecto-1290782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/snapdragon-8-gen-2-2828603.jpg?tf=1200x' alt='Los gama alta Android de 2024 podrían ser más caros debido a este aspecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/desconciertan-cientificos-estas-misteriosas-senales-radio-megatormentas-saturno-1290778'>Desconciertan a los científicos estas misteriosas señales de radio de megatormentas en Saturno</a></h4>
-    <a href='https://computerhoy.com/espacio/desconciertan-cientificos-estas-misteriosas-senales-radio-megatormentas-saturno-1290778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/saturno-3109986.jpg?tf=1200x' alt='Desconciertan a los científicos estas misteriosas señales de radio de megatormentas en Saturno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/otzi-hombre-hielo-piel-negra-calvo-1290776'>Un análisis genético descubre que Ötzi, la momia más antigua de Europa, era muy diferente a como la habíamos imaginado</a></h4>
-    <a href='https://computerhoy.com/ciencia/otzi-hombre-hielo-piel-negra-calvo-1290776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/analisis-genetico-descubre-otzi-momia-edad-hielo-era-muy-diferente-como-habiamos-imaginado-3109968.jpg?tf=1200x' alt='Un análisis genético descubre que Ötzi, la momia más antigua de Europa, era muy diferente a como la habíamos imaginado' />
     </a>
 </div>
 
