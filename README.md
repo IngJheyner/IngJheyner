@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/retirados-miles-deshumidificadores-riesgo-incendio-comprueba-lista-1291132'>Retirados miles de deshumidificadores por riesgo de incendio: comprueba si el tuyo está en la lista</a></h4>
-    <a href='https://computerhoy.com/hogar/retirados-miles-deshumidificadores-riesgo-incendio-comprueba-lista-1291132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/retirados-miles-deshumidificadores-riesgo-incendio-comprueba-lista-3110510.jpg?tf=1200x' alt='Retirados miles de deshumidificadores por riesgo de incendio: comprueba si el tuyo está en la lista' />
+    <h4><a href='https://computerhoy.com/internet/puedes-hacer-puerto-usb-router-como-configurarlo-1291270'>Qué puedes hacer con el puerto USB de tu router y cómo configurarlo</a></h4>
+    <a href='https://computerhoy.com/internet/puedes-hacer-puerto-usb-router-como-configurarlo-1291270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/router-3061326.jpg?tf=1200x' alt='Qué puedes hacer con el puerto USB de tu router y cómo configurarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estos-todos-ipad-compatibles-ipados-17-1285480'>Estos todos los iPad compatibles con iPadOS 17</a></h4>
-    <a href='https://computerhoy.com/apple/estos-todos-ipad-compatibles-ipados-17-1285480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipados-3051030.jpg?tf=1200x' alt='Estos todos los iPad compatibles con iPadOS 17' />
+    <h4><a href='https://computerhoy.com/espacio/carrera-rusia-india-aterrizar-polo-sur-luna-1291256'>La insólita carrera entre Rusia y la India para ver quién aterriza primero en el polo sur de la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/carrera-rusia-india-aterrizar-polo-sur-luna-1291256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/insolita-carrera-rusia-india-ver-quien-aterriza-primero-polo-sur-luna-3110696.jpg?tf=1200x' alt='La insólita carrera entre Rusia y la India para ver quién aterriza primero en el polo sur de la Luna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/problema-audio-plataformas-como-hbo-max-netflix-estan-diciendo-1291094'>El problema del audio en plataformas como HBO Max o Netflix: no escucho nada, ¿qué están diciendo?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/problema-audio-plataformas-como-hbo-max-netflix-estan-diciendo-1291094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/audio-plataformas-hbo-max-netflix-3110406.jpg?tf=1200x' alt='El problema del audio en plataformas como HBO Max o Netflix: no escucho nada, ¿qué están diciendo?' />
+    <h4><a href='https://computerhoy.com/internet/como-afrontar-viralidad-imagen-redes-sociales-1283982'>Convertirse en un meme sin permiso: cómo afrontar la viralidad de tu imagen en redes sociales</a></h4>
+    <a href='https://computerhoy.com/internet/como-afrontar-viralidad-imagen-redes-sociales-1283982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/meme-viral-redes-sociales-3100260.jpg?tf=1200x' alt='Convertirse en un meme sin permiso: cómo afrontar la viralidad de tu imagen en redes sociales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nunca-desactives-wifi-bluetooth-centro-control-iphone-motivo-1291046'>Nunca desactives el WiFi y Bluetooth desde el Centro de Control de tu iPhone: este es el motivo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nunca-desactives-wifi-bluetooth-centro-control-iphone-motivo-1291046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/centro-control-iphone-3110356.jpg?tf=1200x' alt='Nunca desactives el WiFi y Bluetooth desde el Centro de Control de tu iPhone: este es el motivo' />
+    <h4><a href='https://computerhoy.com/moviles/trucos-hacer-vuelvas-sentir-movil-android-como-fuera-nuevo-1281202'>Trucos para hacer que vuelvas a sentir tu móvil Android como si fuera nuevo</a></h4>
+    <a href='https://computerhoy.com/moviles/trucos-hacer-vuelvas-sentir-movil-android-como-fuera-nuevo-1281202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006122.jpg?tf=1200x' alt='Trucos para hacer que vuelvas a sentir tu móvil Android como si fuera nuevo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-7-windows-11-oferta-amazon-precio-ganga-1290146'>Potencia bestial con Ryzen 7 y Windows 11: este Mini PC ocupa poco espacio y sirve incluso para jugar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-7-windows-11-oferta-amazon-precio-ganga-1290146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chuwi-rzbox-2955014.jpg?tf=1200x' alt='Potencia bestial con Ryzen 7 y Windows 11: este Mini PC ocupa poco espacio y sirve incluso para jugar' />
+    <h4><a href='https://computerhoy.com/android/nearby-share-vs-airdrop-batalla-definitiva-intercambio-archivos-1291222'>Nearby Share vs AirDrop: la batalla definitiva por el intercambio de archivos</a></h4>
+    <a href='https://computerhoy.com/android/nearby-share-vs-airdrop-batalla-definitiva-intercambio-archivos-1291222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/enviar-archivos-movil-pc-ahora-facil-funciona-nearby-share-windows-3000282.jpg?tf=1200x' alt='Nearby Share vs AirDrop: la batalla definitiva por el intercambio de archivos' />
     </a>
 </div>
 
