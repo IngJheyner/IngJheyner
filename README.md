@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/no-deberias-apagar-coche-aire-acondicionado-encendido-1290758'>Por qué no deberías apagar el coche con el aire acondicionado encendido</a></h4>
+    <a href='https://computerhoy.com/motor/no-deberias-apagar-coche-aire-acondicionado-encendido-1290758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/sirve-boton-recirculacion-aire-coche-2466557.jpg?tf=1200x' alt='Por qué no deberías apagar el coche con el aire acondicionado encendido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033'>5 tablets que son tan potentes como un ordenador portátil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-pad-6-3082068.jpg?tf=1200x' alt='5 tablets que son tan potentes como un ordenador portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/galaxy-z-fold-5-review-mejor-fold-pero-poca-distancia-1283872'>Samsung Galaxy Z Fold5, análisis y opinión: poca mejora para uno de los mejores plegables tipo libro</a></h4>
+    <a href='https://computerhoy.com/analisis/galaxy-z-fold-5-review-mejor-fold-pero-poca-distancia-1283872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fold-5-portada-3110038.jpg?tf=1200x' alt='Samsung Galaxy Z Fold5, análisis y opinión: poca mejora para uno de los mejores plegables tipo libro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/historia-tcl-1276478'>Historia de TCL: de fabricar casetes a un gigante que se ha hecho con el mercado de los televisores</a></h4>
     <a href='https://computerhoy.com/tecnologia/historia-tcl-1276478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-sedes-tcl-largo-historia-3085856.jpg?tf=1200x' alt='Historia de TCL: de fabricar casetes a un gigante que se ha hecho con el mercado de los televisores' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/fans-salvan-serie-cancelada-netflix-1290794'>Los fans consiguen que se recupere una serie cancelada en Netflix... y harán tres películas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/fans-salvan-serie-cancelada-netflix-1290794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fans-consiguen-recupere-serie-cancelada-netflix-haran-tres-peliculas-3110036.jpg?tf=1200x' alt='Los fans consiguen que se recupere una serie cancelada en Netflix... y harán tres películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/razon-deberias-borrar-memoria-cache-whatsapp-1290700'>Esta es la razón por la que deberías borrar frecuentemente la memoria caché de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/razon-deberias-borrar-memoria-cache-whatsapp-1290700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dos-whatsapp-2932216.jpg?tf=1200x' alt='Esta es la razón por la que deberías borrar frecuentemente la memoria caché de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/8-habitos-diarios-podrian-sumar-24-anos-vida-1285660'>¿Quieres vivir más y mejor? 8 hábitos saludables que podrían sumar hasta 24 años a tu vida </a></h4>
-    <a href='https://computerhoy.com/life/8-habitos-diarios-podrian-sumar-24-anos-vida-1285660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-vivir-3110032.jpg?tf=1200x' alt='¿Quieres vivir más y mejor? 8 hábitos saludables que podrían sumar hasta 24 años a tu vida ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-comienza-eliminar-doblajes-todos-idiomas-1290790'>Disney+ comienza a eliminar doblajes en múltiples idiomas para sus series originales</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-plus-comienza-eliminar-doblajes-todos-idiomas-1290790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/batacazo-disney-pierde-4-millones-suscriptores-2023-3033288.jpg?tf=1200x' alt='Disney+ comienza a eliminar doblajes en múltiples idiomas para sus series originales' />
     </a>
 </div>
 
