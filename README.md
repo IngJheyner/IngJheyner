@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-como-moderador-ia-regulando-redes-sociales-plataformas-streaming-1291040'>ChatGPT como moderador: ¿la IA regulando las redes sociales y plataformas de streaming?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-como-moderador-ia-regulando-redes-sociales-plataformas-streaming-1291040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-como-moderador-3110342.jpg?tf=1200x' alt='ChatGPT como moderador: ¿la IA regulando las redes sociales y plataformas de streaming?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-649-computer-hoy-1281674'>¡Ya está en tu quiosco el número 649 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-649-computer-hoy-1281674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/computer-hoy-649-3095274.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 649 de Computer Hoy!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/galaxy-z-fold-5-review-mejor-fold-pero-poca-distancia-1283872'>Samsung Galaxy Z Fold5, análisis y opinión: poca mejora para uno de los mejores plegables tipo libro</a></h4>
     <a href='https://computerhoy.com/analisis/galaxy-z-fold-5-review-mejor-fold-pero-poca-distancia-1283872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fold-5-portada-3110038.jpg?tf=1200x' alt='Samsung Galaxy Z Fold5, análisis y opinión: poca mejora para uno de los mejores plegables tipo libro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/historia-tcl-1276478'>Historia de TCL: de fabricar casetes a un gigante que se ha hecho con el mercado de los televisores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/historia-tcl-1276478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-sedes-tcl-largo-historia-3085856.jpg?tf=1200x' alt='Historia de TCL: de fabricar casetes a un gigante que se ha hecho con el mercado de los televisores' />
     </a>
 </div>
 
