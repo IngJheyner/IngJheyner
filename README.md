@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-como-moderador-ia-regulando-redes-sociales-plataformas-streaming-1291040'>ChatGPT como moderador: ¿la IA regulando las redes sociales y plataformas de streaming?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-como-moderador-ia-regulando-redes-sociales-plataformas-streaming-1291040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-como-moderador-3110342.jpg?tf=1200x' alt='ChatGPT como moderador: ¿la IA regulando las redes sociales y plataformas de streaming?' />
+    <h4><a href='https://computerhoy.com/hogar/retirados-miles-deshumidificadores-riesgo-incendio-comprueba-lista-1291132'>Retirados miles de deshumidificadores por riesgo de incendio: comprueba si el tuyo está en la lista</a></h4>
+    <a href='https://computerhoy.com/hogar/retirados-miles-deshumidificadores-riesgo-incendio-comprueba-lista-1291132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/retirados-miles-deshumidificadores-riesgo-incendio-comprueba-lista-3110510.jpg?tf=1200x' alt='Retirados miles de deshumidificadores por riesgo de incendio: comprueba si el tuyo está en la lista' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-649-computer-hoy-1281674'>¡Ya está en tu quiosco el número 649 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-649-computer-hoy-1281674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/computer-hoy-649-3095274.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 649 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/apple/estos-todos-ipad-compatibles-ipados-17-1285480'>Estos todos los iPad compatibles con iPadOS 17</a></h4>
+    <a href='https://computerhoy.com/apple/estos-todos-ipad-compatibles-ipados-17-1285480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipados-3051030.jpg?tf=1200x' alt='Estos todos los iPad compatibles con iPadOS 17' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/no-deberias-apagar-coche-aire-acondicionado-encendido-1290758'>Por qué no deberías apagar el coche con el aire acondicionado encendido</a></h4>
-    <a href='https://computerhoy.com/motor/no-deberias-apagar-coche-aire-acondicionado-encendido-1290758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/sirve-boton-recirculacion-aire-coche-2466557.jpg?tf=1200x' alt='Por qué no deberías apagar el coche con el aire acondicionado encendido' />
+    <h4><a href='https://computerhoy.com/entretenimiento/problema-audio-plataformas-como-hbo-max-netflix-estan-diciendo-1291094'>El problema del audio en plataformas como HBO Max o Netflix: no escucho nada, ¿qué están diciendo?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/problema-audio-plataformas-como-hbo-max-netflix-estan-diciendo-1291094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/audio-plataformas-hbo-max-netflix-3110406.jpg?tf=1200x' alt='El problema del audio en plataformas como HBO Max o Netflix: no escucho nada, ¿qué están diciendo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033'>5 tablets que son tan potentes como un ordenador portátil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-pad-6-3082068.jpg?tf=1200x' alt='5 tablets que son tan potentes como un ordenador portátil' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/nunca-desactives-wifi-bluetooth-centro-control-iphone-motivo-1291046'>Nunca desactives el WiFi y Bluetooth desde el Centro de Control de tu iPhone: este es el motivo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nunca-desactives-wifi-bluetooth-centro-control-iphone-motivo-1291046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/centro-control-iphone-3110356.jpg?tf=1200x' alt='Nunca desactives el WiFi y Bluetooth desde el Centro de Control de tu iPhone: este es el motivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/galaxy-z-fold-5-review-mejor-fold-pero-poca-distancia-1283872'>Samsung Galaxy Z Fold5, análisis y opinión: poca mejora para uno de los mejores plegables tipo libro</a></h4>
-    <a href='https://computerhoy.com/analisis/galaxy-z-fold-5-review-mejor-fold-pero-poca-distancia-1283872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fold-5-portada-3110038.jpg?tf=1200x' alt='Samsung Galaxy Z Fold5, análisis y opinión: poca mejora para uno de los mejores plegables tipo libro' />
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-7-windows-11-oferta-amazon-precio-ganga-1290146'>Potencia bestial con Ryzen 7 y Windows 11: este Mini PC ocupa poco espacio y sirve incluso para jugar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-7-windows-11-oferta-amazon-precio-ganga-1290146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chuwi-rzbox-2955014.jpg?tf=1200x' alt='Potencia bestial con Ryzen 7 y Windows 11: este Mini PC ocupa poco espacio y sirve incluso para jugar' />
     </a>
 </div>
 
