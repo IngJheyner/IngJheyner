@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-comienza-eliminar-doblajes-todos-idiomas-1290790'>Disney+ comienza a eliminar doblajes en múltiples idiomas para sus series originales</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-plus-comienza-eliminar-doblajes-todos-idiomas-1290790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/batacazo-disney-pierde-4-millones-suscriptores-2023-3033288.jpg?tf=1200x' alt='Disney+ comienza a eliminar doblajes en múltiples idiomas para sus series originales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/gran-error-mucha-gente-comete-comprar-ventilador-techo-1290730'>El gran error que mucha gente comete al comprar un ventilador de techo</a></h4>
     <a href='https://computerhoy.com/hogar/gran-error-mucha-gente-comete-comprar-ventilador-techo-1290730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/gran-error-mucha-gente-comete-comprar-ventilador-techo-3109856.jpg?tf=1200x' alt='El gran error que mucha gente comete al comprar un ventilador de techo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/otzi-hombre-hielo-piel-negra-calvo-1290776'>Un análisis genético descubre que Ötzi, la momia más antigua de Europa, era muy diferente a como la habíamos imaginado</a></h4>
     <a href='https://computerhoy.com/ciencia/otzi-hombre-hielo-piel-negra-calvo-1290776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/analisis-genetico-descubre-otzi-momia-edad-hielo-era-muy-diferente-como-habiamos-imaginado-3109968.jpg?tf=1200x' alt='Un análisis genético descubre que Ötzi, la momia más antigua de Europa, era muy diferente a como la habíamos imaginado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/dos-funciones-ocultas-puerta-coche-muy-practicas-1289032'>Dos funciones ocultas en la puerta de tu coche: una es muy práctica, la otra te hará volar la cabeza</a></h4>
-    <a href='https://computerhoy.com/motor/dos-funciones-ocultas-puerta-coche-muy-practicas-1289032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funcion-oculta-puerta-3100412.jpg?tf=1200x' alt='Dos funciones ocultas en la puerta de tu coche: una es muy práctica, la otra te hará volar la cabeza' />
     </a>
 </div>
 
