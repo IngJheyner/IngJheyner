@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-649-computer-hoy-1281674'>¡Ya está en tu quiosco el número 649 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-649-computer-hoy-1281674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/computer-hoy-649-3095274.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 649 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/no-deberias-apagar-coche-aire-acondicionado-encendido-1290758'>Por qué no deberías apagar el coche con el aire acondicionado encendido</a></h4>
     <a href='https://computerhoy.com/motor/no-deberias-apagar-coche-aire-acondicionado-encendido-1290758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/sirve-boton-recirculacion-aire-coche-2466557.jpg?tf=1200x' alt='Por qué no deberías apagar el coche con el aire acondicionado encendido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/historia-tcl-1276478'>Historia de TCL: de fabricar casetes a un gigante que se ha hecho con el mercado de los televisores</a></h4>
     <a href='https://computerhoy.com/tecnologia/historia-tcl-1276478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-sedes-tcl-largo-historia-3085856.jpg?tf=1200x' alt='Historia de TCL: de fabricar casetes a un gigante que se ha hecho con el mercado de los televisores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fans-salvan-serie-cancelada-netflix-1290794'>Los fans consiguen que se recupere una serie cancelada en Netflix... y harán tres películas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fans-salvan-serie-cancelada-netflix-1290794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fans-consiguen-recupere-serie-cancelada-netflix-haran-tres-peliculas-3110036.jpg?tf=1200x' alt='Los fans consiguen que se recupere una serie cancelada en Netflix... y harán tres películas' />
     </a>
 </div>
 
