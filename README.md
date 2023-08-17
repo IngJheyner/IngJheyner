@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/timelapse-google-earth-ha-cambiado-mundo-1984-2022-1291290'>El mapa de Google que te muestra cómo ha cambiado el mundo en los últimos 40 años</a></h4>
+    <a href='https://computerhoy.com/life/timelapse-google-earth-ha-cambiado-mundo-1984-2022-1291290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-earth-actualiza-timelapse-imagenes-2021-2022-ya-puedes-ver-como-ha-cambiado-tierra-40-anos-3001504.jpg?tf=1200x' alt='El mapa de Google que te muestra cómo ha cambiado el mundo en los últimos 40 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-sillas-oficina-malla-1083307'>Estas son las mejores sillas de oficina con malla para trabajar desde casa</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-sillas-oficina-malla-1083307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/silla-oficina-3108846.jpg?tf=1200x' alt='Estas son las mejores sillas de oficina con malla para trabajar desde casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/nuevo-material-actua-como-bateria-generador-placas-solares-1291272'>K-PHI: Un vidrio semitransparente que actúa como batería y generador al mismo tiempo en placas solares</a></h4>
+    <a href='https://computerhoy.com/energia/nuevo-material-actua-como-bateria-generador-placas-solares-1291272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/2-personas-ponen-paneles-solares-tejado-2886762.jpg?tf=1200x' alt='K-PHI: Un vidrio semitransparente que actúa como batería y generador al mismo tiempo en placas solares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ucrania-utilizando-chatgpt-fabricar-drones-combate-1290792'>Ucrania está utilizando ChatGPT e impresoras 3D para fabricar bombas y drones de combate</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ucrania-utilizando-chatgpt-fabricar-drones-combate-1290792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/drones-guerra-3110278.jpg?tf=1200x' alt='Ucrania está utilizando ChatGPT e impresoras 3D para fabricar bombas y drones de combate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/puedes-hacer-puerto-usb-router-como-configurarlo-1291270'>Qué puedes hacer con el puerto USB de tu router y cómo configurarlo</a></h4>
     <a href='https://computerhoy.com/internet/puedes-hacer-puerto-usb-router-como-configurarlo-1291270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/router-3061326.jpg?tf=1200x' alt='Qué puedes hacer con el puerto USB de tu router y cómo configurarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/carrera-rusia-india-aterrizar-polo-sur-luna-1291256'>La insólita carrera entre Rusia y la India para ver quién aterriza primero en el polo sur de la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/carrera-rusia-india-aterrizar-polo-sur-luna-1291256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/insolita-carrera-rusia-india-ver-quien-aterriza-primero-polo-sur-luna-3110696.jpg?tf=1200x' alt='La insólita carrera entre Rusia y la India para ver quién aterriza primero en el polo sur de la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-afrontar-viralidad-imagen-redes-sociales-1283982'>Convertirse en un meme sin permiso: cómo afrontar la viralidad de tu imagen en redes sociales</a></h4>
-    <a href='https://computerhoy.com/internet/como-afrontar-viralidad-imagen-redes-sociales-1283982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/meme-viral-redes-sociales-3100260.jpg?tf=1200x' alt='Convertirse en un meme sin permiso: cómo afrontar la viralidad de tu imagen en redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/trucos-hacer-vuelvas-sentir-movil-android-como-fuera-nuevo-1281202'>Trucos para hacer que vuelvas a sentir tu móvil Android como si fuera nuevo</a></h4>
-    <a href='https://computerhoy.com/moviles/trucos-hacer-vuelvas-sentir-movil-android-como-fuera-nuevo-1281202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006122.jpg?tf=1200x' alt='Trucos para hacer que vuelvas a sentir tu móvil Android como si fuera nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/nearby-share-vs-airdrop-batalla-definitiva-intercambio-archivos-1291222'>Nearby Share vs AirDrop: la batalla definitiva por el intercambio de archivos</a></h4>
-    <a href='https://computerhoy.com/android/nearby-share-vs-airdrop-batalla-definitiva-intercambio-archivos-1291222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/enviar-archivos-movil-pc-ahora-facil-funciona-nearby-share-windows-3000282.jpg?tf=1200x' alt='Nearby Share vs AirDrop: la batalla definitiva por el intercambio de archivos' />
     </a>
 </div>
 
