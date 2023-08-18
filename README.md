@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/tachymenoides-harrisonfordi-nueva-especie-serpiente-dedicada-indiana-jones-1291362'>Tachymenoides harrisonfordi, la nueva especie de serpiente que homenajea a Indiana Jones, impagable la reacción de Ford </a></h4>
+    <a href='https://computerhoy.com/entretenimiento/tachymenoides-harrisonfordi-nueva-especie-serpiente-dedicada-indiana-jones-1291362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tachymenoides-harrisonfordi-nueva-especie-serpiente-homenajea-indiana-jones-impagable-reaccion-ford-3111288.jpg?tf=1200x' alt='Tachymenoides harrisonfordi, la nueva especie de serpiente que homenajea a Indiana Jones, impagable la reacción de Ford ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/consola-portatil-lenovo-legion-go-fotos-1291360'>Podría ser la Nintendo Switch 2, pero es la nueva consola portátil de Lenovo con Windows 11</a></h4>
+    <a href='https://computerhoy.com/gaming/consola-portatil-lenovo-legion-go-fotos-1291360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/podria-ser-nintendo-switch-2-pero-nueva-consola-portatil-lenovo-windows-11-3111262.jpg?tf=1200x' alt='Podría ser la Nintendo Switch 2, pero es la nueva consola portátil de Lenovo con Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/estafas-qr-muchos-sitios-falsos-1291318'>Estafas QR: Están en muchos más sitios que en menús falsos de restaurantes</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estafas-qr-muchos-sitios-falsos-1291318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/escaneo-codigo-qr-2464121.jpg?tf=1200x' alt='Estafas QR: Están en muchos más sitios que en menús falsos de restaurantes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-eterno-rumor-comprar-disney-ahora-argumentada-expertos-1291350'>Apple y el eterno rumor de comprar Disney, ahora argumentada por expertos</a></h4>
     <a href='https://computerhoy.com/apple/apple-eterno-rumor-comprar-disney-ahora-argumentada-expertos-1291350' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-estaria-interesada-comprar-disney-expertos-3111260.jpg?tf=1200x' alt='Apple y el eterno rumor de comprar Disney, ahora argumentada por expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/twitter-empieza-pedir-dni-usuarios-supone-ti-1291344'>Twitter empieza a pedir el DNI a sus usuarios, y esto es lo que supone para ti</a></h4>
-    <a href='https://computerhoy.com/apps/twitter-empieza-pedir-dni-usuarios-supone-ti-1291344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/twitter-x-3111252.jpg?tf=1200x' alt='Twitter empieza a pedir el DNI a sus usuarios, y esto es lo que supone para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/urinario-publico-lujoso-mundo-deji-plaza-1291342'>Este es el urinario público más lujoso del mundo: para quedarse a vivir en él</a></h4>
-    <a href='https://computerhoy.com/life/urinario-publico-lujoso-mundo-deji-plaza-1291342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/urinario-publico-lujoso-mundo-quedarse-vivir-3111014.jpg?tf=1200x' alt='Este es el urinario público más lujoso del mundo: para quedarse a vivir en él' />
     </a>
 </div>
 
