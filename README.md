@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gafas-inteligentes-google-glass-wearable-marco-historia-1237616'>25 aniversario de Computer Hoy: Las gafas inteligentes Google Glass</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gafas-inteligentes-google-glass-wearable-marco-historia-1237616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-glass-3094562.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Las gafas inteligentes Google Glass' />
+    <h4><a href='https://computerhoy.com/internet/internet-inundado-resenas-falsas-productos-como-saber-cuando-son-reales-1291320'>Internet está inundado de reseñas falsas de productos: ¿cómo saber cuándo son reales?</a></h4>
+    <a href='https://computerhoy.com/internet/internet-inundado-resenas-falsas-productos-como-saber-cuando-son-reales-1291320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/resenas-ordenador-3111272.jpg?tf=1200x' alt='Internet está inundado de reseñas falsas de productos: ¿cómo saber cuándo son reales?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/no-deberias-cargar-movil-dentro-habitacion-razon-1289826'>No deberías cargar el móvil dentro de tu habitación y esta es la razón</a></h4>
-    <a href='https://computerhoy.com/moviles/no-deberias-cargar-movil-dentro-habitacion-razon-1289826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/movil-cargando-habitacion-3111210.jpg?tf=1200x' alt='No deberías cargar el móvil dentro de tu habitación y esta es la razón' />
+    <h4><a href='https://computerhoy.com/apps/compartir-fotos-whatsapp-actualiza-ahora-puedes-enviarlas-hd-1291602'>Compartir fotos en WhatsApp se actualiza: ahora puedes enviarlas en HD</a></h4>
+    <a href='https://computerhoy.com/apps/compartir-fotos-whatsapp-actualiza-ahora-puedes-enviarlas-hd-1291602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/whatsapp-hd-3111544.jpg?tf=1200x' alt='Compartir fotos en WhatsApp se actualiza: ahora puedes enviarlas en HD' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/mejores-vpn-iphone-estas-son-funcionan-ios-merecen-pena-1291358'>Mejores VPN para iPhone: estas son las que funcionan en iOS y merecen la pena</a></h4>
-    <a href='https://computerhoy.com/apple/mejores-vpn-iphone-estas-son-funcionan-ios-merecen-pena-1291358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-14-plus-3098316.jpg?tf=1200x' alt='Mejores VPN para iPhone: estas son las que funcionan en iOS y merecen la pena' />
+    <h4><a href='https://computerhoy.com/analisis/vivo-v29-5g-analisis-opinion-fotografia-envidiable-movil-1288790'>Vivo V29 5G, análisis y opinión: un rival a batir en fotografía en su gama</a></h4>
+    <a href='https://computerhoy.com/analisis/vivo-v29-5g-analisis-opinion-fotografia-envidiable-movil-1288790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/vivo-v29-5g-analisis-opinion-3110862.jpg?tf=1200x' alt='Vivo V29 5G, análisis y opinión: un rival a batir en fotografía en su gama' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/dos-semanas-ataques-ciberdelincuentes-continuados-linkedin-1291328'>Dos semanas de ciberdelincuencia continuada en LinkedIn: piden rescates por las cuentas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/dos-semanas-ataques-ciberdelincuentes-continuados-linkedin-1291328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dos-semanas-ataques-ciberdelincuencia-continuada-linkedin-piden-rescates-cuentas-3111168.jpg?tf=1200x' alt='Dos semanas de ciberdelincuencia continuada en LinkedIn: piden rescates por las cuentas' />
+    <h4><a href='https://computerhoy.com/life/inteligencia-artificial-dibuja-hogar-dios-resultados-sorprendentes-1291356'>Le pide a la inteligencia artificial que dibuje el lugar en que se encuentra Dios y el resultado es sorprendente</a></h4>
+    <a href='https://computerhoy.com/life/inteligencia-artificial-dibuja-hogar-dios-resultados-sorprendentes-1291356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dios-inteligencia-artificial-3111518.jpg?tf=1200x' alt='Le pide a la inteligencia artificial que dibuje el lugar en que se encuentra Dios y el resultado es sorprendente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/funcion-google-deberias-empezar-utilizar-hoy-mismo-1291288'>La función de Google que deberías empezar a utilizar hoy mismo en tu iPhone o Android</a></h4>
-    <a href='https://computerhoy.com/google/funcion-google-deberias-empezar-utilizar-hoy-mismo-1291288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-search-3111138.jpg?tf=1200x' alt='La función de Google que deberías empezar a utilizar hoy mismo en tu iPhone o Android' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-youtube-shorts-1286686'>Cómo descargar los vídeos de YouTube Shorts, paso a paso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-descargar-videos-youtube-shorts-1286686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/youtube-shorts-2872347.jpg?tf=1200x' alt='Cómo descargar los vídeos de YouTube Shorts, paso a paso' />
     </a>
 </div>
 
