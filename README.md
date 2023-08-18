@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/clip-raton-no-tienes-sujetarlo-funciona-cualquier-superficie-1291908'>Este ratón no tienes que sujetarlo, y funciona en cualquier superficie</a></h4>
+    <a href='https://computerhoy.com/pc/clip-raton-no-tienes-sujetarlo-funciona-cualquier-superficie-1291908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1692375207204-3112120.jpg?tf=1200x' alt='Este ratón no tienes que sujetarlo, y funciona en cualquier superficie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/futuro-auriculares-drivers-estado-solido-1291892'>El futuro de los auriculares: drivers de estado sólido</a></h4>
+    <a href='https://computerhoy.com/audio/futuro-auriculares-drivers-estado-solido-1291892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/futuro-auriculares-drivers-solido-3112088.jpg?tf=1200x' alt='El futuro de los auriculares: drivers de estado sólido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023</a></h4>
     <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/reloj-deportivo-running-3109382.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/lineas-rosas-verdes-carretera-para-que-sirven-1291888'>¿Qué son las líneas rosas y verdes que se han estrenado en algunas carreteras?</a></h4>
     <a href='https://computerhoy.com/motor/lineas-rosas-verdes-carretera-para-que-sirven-1291888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/son-lineas-rosas-verdes-han-estrenado-algunas-carreteras-3111850.jpg?tf=1200x' alt='¿Qué son las líneas rosas y verdes que se han estrenado en algunas carreteras?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/funcion-poco-conocida-esconde-amazon-fire-stick-1291866'>La función poco conocida que se esconde en tu Amazon Fire Stick para disfrutar de series y películas </a></h4>
-    <a href='https://computerhoy.com/tv/funcion-poco-conocida-esconde-amazon-fire-stick-1291866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funcion-poco-conocida-esconde-amazon-fire-stick-disfrutar-series-peliculas-3112020.jpg?tf=1200x' alt='La función poco conocida que se esconde en tu Amazon Fire Stick para disfrutar de series y películas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-experimenta-nuevo-sistema-valoracion-estrellas-1291846'>Amazon experimenta con un nuevo sistema de valoración por estrellas</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-experimenta-nuevo-sistema-valoracion-estrellas-1291846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-espana-3104716.jpg?tf=1200x' alt='Amazon experimenta con un nuevo sistema de valoración por estrellas' />
     </a>
 </div>
 
