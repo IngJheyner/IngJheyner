@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/8-mejores-aplicaciones-ia-movil-te-ayudaran-ser-productivo-1280032'>Las 8 mejores aplicaciones de inteligencia artificial que puedes descargar en tu móvil </a></h4>
+    <a href='https://computerhoy.com/apps/8-mejores-aplicaciones-ia-movil-te-ayudaran-ser-productivo-1280032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3091720.jpg?tf=1200x' alt='Las 8 mejores aplicaciones de inteligencia artificial que puedes descargar en tu móvil ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ipados-17-nuevas-funciones-modelos-compatibles-1285102'>iPadOS 17: todas las nuevas funciones, modelos compatibles y más </a></h4>
+    <a href='https://computerhoy.com/apple/ipados-17-nuevas-funciones-modelos-compatibles-1285102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipados-17-3051018.jpg?tf=1200x' alt='iPadOS 17: todas las nuevas funciones, modelos compatibles y más ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/tachymenoides-harrisonfordi-nueva-especie-serpiente-dedicada-indiana-jones-1291362'>Tachymenoides harrisonfordi, la nueva especie de serpiente que homenajea a Indiana Jones, impagable la reacción de Ford </a></h4>
     <a href='https://computerhoy.com/entretenimiento/tachymenoides-harrisonfordi-nueva-especie-serpiente-dedicada-indiana-jones-1291362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tachymenoides-harrisonfordi-nueva-especie-serpiente-homenajea-indiana-jones-impagable-reaccion-ford-3111288.jpg?tf=1200x' alt='Tachymenoides harrisonfordi, la nueva especie de serpiente que homenajea a Indiana Jones, impagable la reacción de Ford ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/estafas-qr-muchos-sitios-falsos-1291318'>Estafas QR: Están en muchos más sitios que en menús falsos de restaurantes</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estafas-qr-muchos-sitios-falsos-1291318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/escaneo-codigo-qr-2464121.jpg?tf=1200x' alt='Estafas QR: Están en muchos más sitios que en menús falsos de restaurantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ver-formula-1-dazn-precio-ofertas-todo-debes-saber-1208788'>Cómo ver la Fórmula 1 en DAZN: precio, ofertas y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ver-formula-1-dazn-precio-ofertas-todo-debes-saber-1208788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dazn-3088482.jpg?tf=1200x' alt='Cómo ver la Fórmula 1 en DAZN: precio, ofertas y todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-eterno-rumor-comprar-disney-ahora-argumentada-expertos-1291350'>Apple y el eterno rumor de comprar Disney, ahora argumentada por expertos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-eterno-rumor-comprar-disney-ahora-argumentada-expertos-1291350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-estaria-interesada-comprar-disney-expertos-3111260.jpg?tf=1200x' alt='Apple y el eterno rumor de comprar Disney, ahora argumentada por expertos' />
     </a>
 </div>
 
