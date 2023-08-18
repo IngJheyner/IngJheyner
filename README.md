@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-apple-vision-pro-conseguira-mejorar-vision-1291824'>Cómo el Apple Vision Pro conseguirá mejorar tu visión</a></h4>
-    <a href='https://computerhoy.com/apple/como-apple-vision-pro-conseguira-mejorar-vision-1291824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051940.jpg?tf=1200x' alt='Cómo el Apple Vision Pro conseguirá mejorar tu visión' />
+    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023</a></h4>
+    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/reloj-deportivo-running-3109382.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hp-demandada-bloquear-impresoras-cuando-falta-tinta-1291762'>HP demandada por bloquear impresoras cuando falta tinta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hp-demandada-bloquear-impresoras-cuando-falta-tinta-1291762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg?tf=1200x' alt='HP demandada por bloquear impresoras cuando falta tinta' />
+    <h4><a href='https://computerhoy.com/apps/como-saben-google-maps-waze-hay-atasco-carretera-1291882'>¿Cómo saben Google Maps o Waze que hay un atasco en la carretera?</a></h4>
+    <a href='https://computerhoy.com/apps/como-saben-google-maps-waze-hay-atasco-carretera-1291882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-saben-google-maps-waze-hay-atasco-carretera-3112052.jpg?tf=1200x' alt='¿Cómo saben Google Maps o Waze que hay un atasco en la carretera?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nuevo-desafio-ciberseguridad-amenaza-descifrado-contrasenas-impulsado-ia-1291748'>Un nuevo desafío en ciberseguridad: la amenaza del descifrado de contraseñas impulsado por IA</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nuevo-desafio-ciberseguridad-amenaza-descifrado-contrasenas-impulsado-ia-1291748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ciberseguridad-ia-3111720.jpg?tf=1200x' alt='Un nuevo desafío en ciberseguridad: la amenaza del descifrado de contraseñas impulsado por IA' />
+    <h4><a href='https://computerhoy.com/motor/lineas-rosas-verdes-carretera-para-que-sirven-1291888'>¿Qué son las líneas rosas y verdes que se han estrenado en algunas carreteras?</a></h4>
+    <a href='https://computerhoy.com/motor/lineas-rosas-verdes-carretera-para-que-sirven-1291888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/son-lineas-rosas-verdes-han-estrenado-algunas-carreteras-3111850.jpg?tf=1200x' alt='¿Qué son las líneas rosas y verdes que se han estrenado en algunas carreteras?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-quiere-revolucionar-carga-iphone-15-velocidades-35w-1291722'>Apple quiere revolucionar la carga en el iPhone 15: velocidades de hasta 35W</a></h4>
-    <a href='https://computerhoy.com/apple/apple-quiere-revolucionar-carga-iphone-15-velocidades-35w-1291722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='Apple quiere revolucionar la carga en el iPhone 15: velocidades de hasta 35W' />
+    <h4><a href='https://computerhoy.com/tv/funcion-poco-conocida-esconde-amazon-fire-stick-1291866'>La función poco conocida que se esconde en tu Amazon Fire Stick para disfrutar de series y películas </a></h4>
+    <a href='https://computerhoy.com/tv/funcion-poco-conocida-esconde-amazon-fire-stick-1291866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funcion-poco-conocida-esconde-amazon-fire-stick-disfrutar-series-peliculas-3112020.jpg?tf=1200x' alt='La función poco conocida que se esconde en tu Amazon Fire Stick para disfrutar de series y películas ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/google-maps-actualiza-facilitar-vida-conductores-coches-electricos-1291740'>Google Maps se actualiza para facilitar la vida a los conductores de coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/motor/google-maps-actualiza-facilitar-vida-conductores-coches-electricos-1291740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-consultar-trafico-tiempo-real-google-maps-3097880.jpg?tf=1200x' alt='Google Maps se actualiza para facilitar la vida a los conductores de coches eléctricos' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-experimenta-nuevo-sistema-valoracion-estrellas-1291846'>Amazon experimenta con un nuevo sistema de valoración por estrellas</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-experimenta-nuevo-sistema-valoracion-estrellas-1291846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-espana-3104716.jpg?tf=1200x' alt='Amazon experimenta con un nuevo sistema de valoración por estrellas' />
     </a>
 </div>
 
