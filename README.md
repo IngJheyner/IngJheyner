@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/8-mejores-aplicaciones-ia-movil-te-ayudaran-ser-productivo-1280032'>Las 8 mejores aplicaciones de inteligencia artificial que puedes descargar en tu móvil </a></h4>
-    <a href='https://computerhoy.com/apps/8-mejores-aplicaciones-ia-movil-te-ayudaran-ser-productivo-1280032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3091720.jpg?tf=1200x' alt='Las 8 mejores aplicaciones de inteligencia artificial que puedes descargar en tu móvil ' />
+    <h4><a href='https://computerhoy.com/tecnologia/gafas-inteligentes-google-glass-wearable-marco-historia-1237616'>25 aniversario de Computer Hoy: Las gafas inteligentes Google Glass</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gafas-inteligentes-google-glass-wearable-marco-historia-1237616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-glass-3094562.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Las gafas inteligentes Google Glass' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ipados-17-nuevas-funciones-modelos-compatibles-1285102'>iPadOS 17: todas las nuevas funciones, modelos compatibles y más </a></h4>
-    <a href='https://computerhoy.com/apple/ipados-17-nuevas-funciones-modelos-compatibles-1285102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipados-17-3051018.jpg?tf=1200x' alt='iPadOS 17: todas las nuevas funciones, modelos compatibles y más ' />
+    <h4><a href='https://computerhoy.com/moviles/no-deberias-cargar-movil-dentro-habitacion-razon-1289826'>No deberías cargar el móvil dentro de tu habitación y esta es la razón</a></h4>
+    <a href='https://computerhoy.com/moviles/no-deberias-cargar-movil-dentro-habitacion-razon-1289826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/movil-cargando-habitacion-3111210.jpg?tf=1200x' alt='No deberías cargar el móvil dentro de tu habitación y esta es la razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/tachymenoides-harrisonfordi-nueva-especie-serpiente-dedicada-indiana-jones-1291362'>Tachymenoides harrisonfordi, la nueva especie de serpiente que homenajea a Indiana Jones, impagable la reacción de Ford </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/tachymenoides-harrisonfordi-nueva-especie-serpiente-dedicada-indiana-jones-1291362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tachymenoides-harrisonfordi-nueva-especie-serpiente-homenajea-indiana-jones-impagable-reaccion-ford-3111288.jpg?tf=1200x' alt='Tachymenoides harrisonfordi, la nueva especie de serpiente que homenajea a Indiana Jones, impagable la reacción de Ford ' />
+    <h4><a href='https://computerhoy.com/apple/mejores-vpn-iphone-estas-son-funcionan-ios-merecen-pena-1291358'>Mejores VPN para iPhone: estas son las que funcionan en iOS y merecen la pena</a></h4>
+    <a href='https://computerhoy.com/apple/mejores-vpn-iphone-estas-son-funcionan-ios-merecen-pena-1291358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-14-plus-3098316.jpg?tf=1200x' alt='Mejores VPN para iPhone: estas son las que funcionan en iOS y merecen la pena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/consola-portatil-lenovo-legion-go-fotos-1291360'>Podría ser la Nintendo Switch 2, pero es la nueva consola portátil de Lenovo con Windows 11</a></h4>
-    <a href='https://computerhoy.com/gaming/consola-portatil-lenovo-legion-go-fotos-1291360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/podria-ser-nintendo-switch-2-pero-nueva-consola-portatil-lenovo-windows-11-3111262.jpg?tf=1200x' alt='Podría ser la Nintendo Switch 2, pero es la nueva consola portátil de Lenovo con Windows 11' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/dos-semanas-ataques-ciberdelincuentes-continuados-linkedin-1291328'>Dos semanas de ciberdelincuencia continuada en LinkedIn: piden rescates por las cuentas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/dos-semanas-ataques-ciberdelincuentes-continuados-linkedin-1291328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dos-semanas-ataques-ciberdelincuencia-continuada-linkedin-piden-rescates-cuentas-3111168.jpg?tf=1200x' alt='Dos semanas de ciberdelincuencia continuada en LinkedIn: piden rescates por las cuentas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafas-qr-muchos-sitios-falsos-1291318'>Estafas QR: Están en muchos más sitios que en menús falsos de restaurantes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafas-qr-muchos-sitios-falsos-1291318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/escaneo-codigo-qr-2464121.jpg?tf=1200x' alt='Estafas QR: Están en muchos más sitios que en menús falsos de restaurantes' />
+    <h4><a href='https://computerhoy.com/google/funcion-google-deberias-empezar-utilizar-hoy-mismo-1291288'>La función de Google que deberías empezar a utilizar hoy mismo en tu iPhone o Android</a></h4>
+    <a href='https://computerhoy.com/google/funcion-google-deberias-empezar-utilizar-hoy-mismo-1291288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-search-3111138.jpg?tf=1200x' alt='La función de Google que deberías empezar a utilizar hoy mismo en tu iPhone o Android' />
     </a>
 </div>
 
