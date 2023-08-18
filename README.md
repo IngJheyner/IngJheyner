@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/air-fryer-grande-7l-precio-sorprendentemente-amazon-1291626'>Mucha capacidad a precio de derribo: esta air fryer familiar de 7L rompe su récord de precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/air-fryer-grande-7l-precio-sorprendentemente-amazon-1291626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/aigostar-white-cube-3111536.jpg?tf=1200x' alt='Mucha capacidad a precio de derribo: esta air fryer familiar de 7L rompe su récord de precio en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/configuracion-secreta-puedes-hacer-router-ocultarlo-piratas-informaticos-1291958'>La configuración secreta que puedes hacer en tu router para ocultarlo de los piratas informáticos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/configuracion-secreta-puedes-hacer-router-ocultarlo-piratas-informaticos-1291958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2994456.jpg?tf=1200x' alt='La configuración secreta que puedes hacer en tu router para ocultarlo de los piratas informáticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-pulsera-actividad-xiaomi-puede-ser-origen-bacterias-peligrosas-salud-1291952'>Tu Apple Watch o pulsera de actividad de Xiaomi puede ser el origen de bacterias peligrosas para la salud</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-watch-pulsera-actividad-xiaomi-puede-ser-origen-bacterias-peligrosas-salud-1291952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/relojes-inteligentes-3112238.jpg?tf=1200x' alt='Tu Apple Watch o pulsera de actividad de Xiaomi puede ser el origen de bacterias peligrosas para la salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/reglas-usa-netflix-cancelar-serie-1291934'>Las normas secretas de Netflix para renovar o cancelar una serie</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/reglas-usa-netflix-cancelar-serie-1291934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/sede-central-netflix-3088500.jpg?tf=1200x' alt='Las normas secretas de Netflix para renovar o cancelar una serie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/clip-raton-no-tienes-sujetarlo-funciona-cualquier-superficie-1291908'>Este ratón no tienes que sujetarlo, y funciona en cualquier superficie</a></h4>
     <a href='https://computerhoy.com/pc/clip-raton-no-tienes-sujetarlo-funciona-cualquier-superficie-1291908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1692375207204-3112120.jpg?tf=1200x' alt='Este ratón no tienes que sujetarlo, y funciona en cualquier superficie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/futuro-auriculares-drivers-estado-solido-1291892'>El futuro de los auriculares: drivers de estado sólido</a></h4>
-    <a href='https://computerhoy.com/audio/futuro-auriculares-drivers-estado-solido-1291892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/futuro-auriculares-drivers-solido-3112088.jpg?tf=1200x' alt='El futuro de los auriculares: drivers de estado sólido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023</a></h4>
-    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/reloj-deportivo-running-3109382.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-saben-google-maps-waze-hay-atasco-carretera-1291882'>¿Cómo saben Google Maps o Waze que hay un atasco en la carretera?</a></h4>
-    <a href='https://computerhoy.com/apps/como-saben-google-maps-waze-hay-atasco-carretera-1291882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-saben-google-maps-waze-hay-atasco-carretera-3112052.jpg?tf=1200x' alt='¿Cómo saben Google Maps o Waze que hay un atasco en la carretera?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/lineas-rosas-verdes-carretera-para-que-sirven-1291888'>¿Qué son las líneas rosas y verdes que se han estrenado en algunas carreteras?</a></h4>
-    <a href='https://computerhoy.com/motor/lineas-rosas-verdes-carretera-para-que-sirven-1291888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/son-lineas-rosas-verdes-han-estrenado-algunas-carreteras-3111850.jpg?tf=1200x' alt='¿Qué son las líneas rosas y verdes que se han estrenado en algunas carreteras?' />
     </a>
 </div>
 
