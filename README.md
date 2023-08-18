@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/internet-inundado-resenas-falsas-productos-como-saber-cuando-son-reales-1291320'>Internet está inundado de reseñas falsas de productos: ¿cómo saber cuándo son reales?</a></h4>
-    <a href='https://computerhoy.com/internet/internet-inundado-resenas-falsas-productos-como-saber-cuando-son-reales-1291320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/resenas-ordenador-3111272.jpg?tf=1200x' alt='Internet está inundado de reseñas falsas de productos: ¿cómo saber cuándo son reales?' />
+    <h4><a href='https://computerhoy.com/motor/google-maps-actualiza-facilitar-vida-conductores-coches-electricos-1291740'>Google Maps se actualiza para facilitar la vida a los conductores de coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/motor/google-maps-actualiza-facilitar-vida-conductores-coches-electricos-1291740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-consultar-trafico-tiempo-real-google-maps-3097880.jpg?tf=1200x' alt='Google Maps se actualiza para facilitar la vida a los conductores de coches eléctricos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/compartir-fotos-whatsapp-actualiza-ahora-puedes-enviarlas-hd-1291602'>Compartir fotos en WhatsApp se actualiza: ahora puedes enviarlas en HD</a></h4>
-    <a href='https://computerhoy.com/apps/compartir-fotos-whatsapp-actualiza-ahora-puedes-enviarlas-hd-1291602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/whatsapp-hd-3111544.jpg?tf=1200x' alt='Compartir fotos en WhatsApp se actualiza: ahora puedes enviarlas en HD' />
+    <h4><a href='https://computerhoy.com/ciencia/nasa-cerca-descubrir-enigma-origen-vida-tierra-1291716'>La NASA cada vez más cerca de describir el enigma del origen de la vida en la Tierra</a></h4>
+    <a href='https://computerhoy.com/ciencia/nasa-cerca-descubrir-enigma-origen-vida-tierra-1291716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nasa-vida-3111704.jpg?tf=1200x' alt='La NASA cada vez más cerca de describir el enigma del origen de la vida en la Tierra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/vivo-v29-5g-analisis-opinion-fotografia-envidiable-movil-1288790'>Vivo V29 5G, análisis y opinión: un rival a batir en fotografía en su gama</a></h4>
-    <a href='https://computerhoy.com/analisis/vivo-v29-5g-analisis-opinion-fotografia-envidiable-movil-1288790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/vivo-v29-5g-analisis-opinion-3110862.jpg?tf=1200x' alt='Vivo V29 5G, análisis y opinión: un rival a batir en fotografía en su gama' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429'>Estas son las mejores tablets de Samsung que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galaxy-tab-s8-2610897.jpg?tf=1200x' alt='Estas son las mejores tablets de Samsung que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/inteligencia-artificial-dibuja-hogar-dios-resultados-sorprendentes-1291356'>Le pide a la inteligencia artificial que dibuje el lugar en que se encuentra Dios y el resultado es sorprendente</a></h4>
-    <a href='https://computerhoy.com/life/inteligencia-artificial-dibuja-hogar-dios-resultados-sorprendentes-1291356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dios-inteligencia-artificial-3111518.jpg?tf=1200x' alt='Le pide a la inteligencia artificial que dibuje el lugar en que se encuentra Dios y el resultado es sorprendente' />
+    <h4><a href='https://computerhoy.com/entretenimiento/twitch-cambia-politica-bloqueo-usuarios-no-podran-ver-streams-1291732'>Twitch cambia su política de bloqueo: los usuarios no podrán ver las retransmisiones</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/twitch-cambia-politica-bloqueo-usuarios-no-podran-ver-streams-1291732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/twitch-publicidad-streamers-gaming-3075612.jpg?tf=1200x' alt='Twitch cambia su política de bloqueo: los usuarios no podrán ver las retransmisiones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-youtube-shorts-1286686'>Cómo descargar los vídeos de YouTube Shorts, paso a paso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-descargar-videos-youtube-shorts-1286686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/youtube-shorts-2872347.jpg?tf=1200x' alt='Cómo descargar los vídeos de YouTube Shorts, paso a paso' />
+    <h4><a href='https://computerhoy.com/apple/apple-listo-dominar-industria-smartphones-podra-superar-samsung-2023-1291636'>Apple listo para dominar la industria de los smartphones: ¿Podrá superar a Samsung en 2023?</a></h4>
+    <a href='https://computerhoy.com/apple/apple-listo-dominar-industria-smartphones-podra-superar-samsung-2023-1291636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iphone-14-3069706.jpg?tf=1200x' alt='Apple listo para dominar la industria de los smartphones: ¿Podrá superar a Samsung en 2023?' />
     </a>
 </div>
 
