@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-apple-vision-pro-conseguira-mejorar-vision-1291824'>Cómo el Apple Vision Pro conseguirá mejorar tu visión</a></h4>
+    <a href='https://computerhoy.com/apple/como-apple-vision-pro-conseguira-mejorar-vision-1291824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051940.jpg?tf=1200x' alt='Cómo el Apple Vision Pro conseguirá mejorar tu visión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hp-demandada-bloquear-impresoras-cuando-falta-tinta-1291762'>HP demandada por bloquear impresoras cuando falta tinta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hp-demandada-bloquear-impresoras-cuando-falta-tinta-1291762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg?tf=1200x' alt='HP demandada por bloquear impresoras cuando falta tinta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/nuevo-desafio-ciberseguridad-amenaza-descifrado-contrasenas-impulsado-ia-1291748'>Un nuevo desafío en ciberseguridad: la amenaza del descifrado de contraseñas impulsado por IA</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nuevo-desafio-ciberseguridad-amenaza-descifrado-contrasenas-impulsado-ia-1291748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ciberseguridad-ia-3111720.jpg?tf=1200x' alt='Un nuevo desafío en ciberseguridad: la amenaza del descifrado de contraseñas impulsado por IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-quiere-revolucionar-carga-iphone-15-velocidades-35w-1291722'>Apple quiere revolucionar la carga en el iPhone 15: velocidades de hasta 35W</a></h4>
+    <a href='https://computerhoy.com/apple/apple-quiere-revolucionar-carga-iphone-15-velocidades-35w-1291722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='Apple quiere revolucionar la carga en el iPhone 15: velocidades de hasta 35W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/google-maps-actualiza-facilitar-vida-conductores-coches-electricos-1291740'>Google Maps se actualiza para facilitar la vida a los conductores de coches eléctricos</a></h4>
     <a href='https://computerhoy.com/motor/google-maps-actualiza-facilitar-vida-conductores-coches-electricos-1291740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-consultar-trafico-tiempo-real-google-maps-3097880.jpg?tf=1200x' alt='Google Maps se actualiza para facilitar la vida a los conductores de coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nasa-cerca-descubrir-enigma-origen-vida-tierra-1291716'>La NASA cada vez más cerca de describir el enigma del origen de la vida en la Tierra</a></h4>
-    <a href='https://computerhoy.com/ciencia/nasa-cerca-descubrir-enigma-origen-vida-tierra-1291716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nasa-vida-3111704.jpg?tf=1200x' alt='La NASA cada vez más cerca de describir el enigma del origen de la vida en la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429'>Estas son las mejores tablets de Samsung que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galaxy-tab-s8-2610897.jpg?tf=1200x' alt='Estas son las mejores tablets de Samsung que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/twitch-cambia-politica-bloqueo-usuarios-no-podran-ver-streams-1291732'>Twitch cambia su política de bloqueo: los usuarios no podrán ver las retransmisiones</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/twitch-cambia-politica-bloqueo-usuarios-no-podran-ver-streams-1291732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/twitch-publicidad-streamers-gaming-3075612.jpg?tf=1200x' alt='Twitch cambia su política de bloqueo: los usuarios no podrán ver las retransmisiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-listo-dominar-industria-smartphones-podra-superar-samsung-2023-1291636'>Apple listo para dominar la industria de los smartphones: ¿Podrá superar a Samsung en 2023?</a></h4>
-    <a href='https://computerhoy.com/apple/apple-listo-dominar-industria-smartphones-podra-superar-samsung-2023-1291636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iphone-14-3069706.jpg?tf=1200x' alt='Apple listo para dominar la industria de los smartphones: ¿Podrá superar a Samsung en 2023?' />
     </a>
 </div>
 
