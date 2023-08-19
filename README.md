@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/elon-musk-anuncia-ya-no-vas-poder-bloquear-usuarios-x-1291962'>Elon Musk anuncia que ya no vas a poder bloquear usuarios en X</a></h4>
+    <a href='https://computerhoy.com/internet/elon-musk-anuncia-ya-no-vas-poder-bloquear-usuarios-x-1291962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/fundador-spacex-elon-musk-2753781.jpg?tf=1200x' alt='Elon Musk anuncia que ya no vas a poder bloquear usuarios en X' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/air-fryer-grande-7l-precio-sorprendentemente-amazon-1291626'>Mucha capacidad a precio de derribo: esta air fryer familiar de 7L rompe su récord de precio en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/air-fryer-grande-7l-precio-sorprendentemente-amazon-1291626' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/aigostar-white-cube-3111536.jpg?tf=1200x' alt='Mucha capacidad a precio de derribo: esta air fryer familiar de 7L rompe su récord de precio en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/reglas-usa-netflix-cancelar-serie-1291934'>Las normas secretas de Netflix para renovar o cancelar una serie</a></h4>
     <a href='https://computerhoy.com/entretenimiento/reglas-usa-netflix-cancelar-serie-1291934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/sede-central-netflix-3088500.jpg?tf=1200x' alt='Las normas secretas de Netflix para renovar o cancelar una serie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/clip-raton-no-tienes-sujetarlo-funciona-cualquier-superficie-1291908'>Este ratón no tienes que sujetarlo, y funciona en cualquier superficie</a></h4>
-    <a href='https://computerhoy.com/pc/clip-raton-no-tienes-sujetarlo-funciona-cualquier-superficie-1291908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1692375207204-3112120.jpg?tf=1200x' alt='Este ratón no tienes que sujetarlo, y funciona en cualquier superficie' />
     </a>
 </div>
 
