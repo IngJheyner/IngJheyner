@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/fallo-winrar-permite-ciberdelincuentes-infectar-dispositivo-abrir-archivos-rar-1292194'>El fallo en WinRAR que permite a los ciberdelincuentes infectar tu dispositivo al abrir archivos RAR</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/fallo-winrar-permite-ciberdelincuentes-infectar-dispositivo-abrir-archivos-rar-1292194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/winrar.jpg?tf=1200x' alt='El fallo en WinRAR que permite a los ciberdelincuentes infectar tu dispositivo al abrir archivos RAR' />
+    <h4><a href='https://computerhoy.com/life/dineral-fontana-di-trevi-sucede-todas-monedas-1288818'>El poder recaudatorio de la Fontana di Trevi: ¿a dónde van todas las monedas arrojadas por los turistas?</a></h4>
+    <a href='https://computerhoy.com/life/dineral-fontana-di-trevi-sucede-todas-monedas-1288818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/monumento-fontana-di-trevi-3106910.jpg?tf=1200x' alt='El poder recaudatorio de la Fontana di Trevi: ¿a dónde van todas las monedas arrojadas por los turistas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nuevas-pistas-relojes-inteligentes-lanzara-apple-ano-1292190'>Nuevas pistas sobre los relojes inteligentes que lanzará Apple este año</a></h4>
-    <a href='https://computerhoy.com/apple/nuevas-pistas-relojes-inteligentes-lanzara-apple-ano-1292190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-series-7-2538971.jpg?tf=1200x' alt='Nuevas pistas sobre los relojes inteligentes que lanzará Apple este año' />
+    <h4><a href='https://computerhoy.com/espacio/motor-fusion-nuclear-nos-llevara-marte-podria-alcanzar-800000-kilometros-hora-1292212'>El motor de fusión nuclear que nos llevará a Marte y que podría alcanzar los 800.000 kilómetros por hora</a></h4>
+    <a href='https://computerhoy.com/espacio/motor-fusion-nuclear-nos-llevara-marte-podria-alcanzar-800000-kilometros-hora-1292212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/motor-fusion-nuclear-nos-llevara-marte-podria-alcanzar-800000-kilometros-hora-3112602.jpg?tf=1200x' alt='El motor de fusión nuclear que nos llevará a Marte y que podría alcanzar los 800.000 kilómetros por hora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/3-trucos-infalibles-mejorar-senal-router-wifi-1291364'>3 trucos infalibles para mejorar la señal de tu router WiFi</a></h4>
-    <a href='https://computerhoy.com/hogar/3-trucos-infalibles-mejorar-senal-router-wifi-1291364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mejora-senal-wifi-estos-tres-trucos-3111502.jpg?tf=1200x' alt='3 trucos infalibles para mejorar la señal de tu router WiFi' />
+    <h4><a href='https://computerhoy.com/life/pueblo-japones-practicaba-modificacion-craneal-intencionada-simple-razon-1292208'>El pueblo japonés que practicaba la modificación craneal intencionada por esta simple razón</a></h4>
+    <a href='https://computerhoy.com/life/pueblo-japones-practicaba-modificacion-craneal-intencionada-simple-razon-1292208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pueblo-japones-practicaba-modificacion-craneal-intencionada-simple-razon-3112584.jpg?tf=1200x' alt='El pueblo japonés que practicaba la modificación craneal intencionada por esta simple razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alexa-enciende-luz-menos-10-euros-bombilla-philips-hara-casa-inteligente-1291152'>Alexa, enciende la luz: por menos de 10 euros esta bombilla de Philips hará tu casa inteligente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alexa-enciende-luz-menos-10-euros-bombilla-philips-hara-casa-inteligente-1291152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bombilla-wifi-3110506.jpg?tf=1200x' alt='Alexa, enciende la luz: por menos de 10 euros esta bombilla de Philips hará tu casa inteligente' />
+    <h4><a href='https://computerhoy.com/pc/5-cosas-debes-saber-antes-limpiar-portatil-1291582'>5 precauciones y cosas que debes saber antes de limpiar tu portátil</a></h4>
+    <a href='https://computerhoy.com/pc/5-cosas-debes-saber-antes-limpiar-portatil-1291582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cosas-debes-saber-antes-limpiar-portatil-3111504.jpg?tf=1200x' alt='5 precauciones y cosas que debes saber antes de limpiar tu portátil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/humanos-lograran-inmortalidad-2050-ciencia-1291340'>Los humanos lograrán la inmortalidad en 2050, pero solo los ricos y famosos podrán disfrutar de ella</a></h4>
-    <a href='https://computerhoy.com/ciencia/humanos-lograran-inmortalidad-2050-ciencia-1291340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inmortalidad-3111274.jpg?tf=1200x' alt='Los humanos lograrán la inmortalidad en 2050, pero solo los ricos y famosos podrán disfrutar de ella' />
+    <h4><a href='https://computerhoy.com/apps/nueva-funcion-google-maps-te-permitira-gestionar-mejor-viajes-1292206'>La nueva función de Google Maps que te permitirá gestionar mejor tus viajes</a></h4>
+    <a href='https://computerhoy.com/apps/nueva-funcion-google-maps-te-permitira-gestionar-mejor-viajes-1292206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-maps-gasolineras-2998772.jpg?tf=1200x' alt='La nueva función de Google Maps que te permitirá gestionar mejor tus viajes' />
     </a>
 </div>
 
