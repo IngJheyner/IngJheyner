@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/puedes-encontrar-gecko-foto-nueva-especie-casi-invisible-1291814'>¿Puedes encontrar al gecko en esta foto? Descubren una nueva especie casi invisible</a></h4>
+    <a href='https://computerhoy.com/life/puedes-encontrar-gecko-foto-nueva-especie-casi-invisible-1291814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/puedes-encontrar-gecko-foto-descubren-nueva-especie-casi-invisible-3111752.jpg?tf=1200x' alt='¿Puedes encontrar al gecko en esta foto? Descubren una nueva especie casi invisible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223'>12 móviles potentes y baratos para jugar a cualquier juego de Android</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-note-12-3067746.jpg?tf=1200x' alt='12 móviles potentes y baratos para jugar a cualquier juego de Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/poker-face-gran-estreno-skyshowtime-septiembre-1291968'>Ya tenemos los estrenos de series para septiembre en SkyShowtime, ¡llega Poker Face!</a></h4>
     <a href='https://computerhoy.com/entretenimiento/poker-face-gran-estreno-skyshowtime-septiembre-1291968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/skyshowtime-adelanta-estrenos-series-septiembre-3112262.jpg?tf=1200x' alt='Ya tenemos los estrenos de series para septiembre en SkyShowtime, ¡llega Poker Face!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/air-fryer-grande-7l-precio-sorprendentemente-amazon-1291626'>Mucha capacidad a precio de derribo: esta air fryer familiar de 7L rompe su récord de precio en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/air-fryer-grande-7l-precio-sorprendentemente-amazon-1291626' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/aigostar-white-cube-3111536.jpg?tf=1200x' alt='Mucha capacidad a precio de derribo: esta air fryer familiar de 7L rompe su récord de precio en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/configuracion-secreta-puedes-hacer-router-ocultarlo-piratas-informaticos-1291958'>La configuración secreta que puedes hacer en tu router para ocultarlo de los piratas informáticos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/configuracion-secreta-puedes-hacer-router-ocultarlo-piratas-informaticos-1291958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2994456.jpg?tf=1200x' alt='La configuración secreta que puedes hacer en tu router para ocultarlo de los piratas informáticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-pulsera-actividad-xiaomi-puede-ser-origen-bacterias-peligrosas-salud-1291952'>Tu Apple Watch o pulsera de actividad de Xiaomi puede ser el origen de bacterias peligrosas para la salud</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-watch-pulsera-actividad-xiaomi-puede-ser-origen-bacterias-peligrosas-salud-1291952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/relojes-inteligentes-3112238.jpg?tf=1200x' alt='Tu Apple Watch o pulsera de actividad de Xiaomi puede ser el origen de bacterias peligrosas para la salud' />
     </a>
 </div>
 
