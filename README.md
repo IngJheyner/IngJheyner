@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/razon-probable-morir-dia-cumpleanos-1290732'>La razón por la que es más probable que mueras el día de tu cumpleaños, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/life/razon-probable-morir-dia-cumpleanos-1290732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cumpleanos-3109924.jpg?tf=1200x' alt='La razón por la que es más probable que mueras el día de tu cumpleaños, según la ciencia' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/fallo-winrar-permite-ciberdelincuentes-infectar-dispositivo-abrir-archivos-rar-1292194'>El fallo en WinRAR que permite a los ciberdelincuentes infectar tu dispositivo al abrir archivos RAR</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/fallo-winrar-permite-ciberdelincuentes-infectar-dispositivo-abrir-archivos-rar-1292194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/winrar.jpg?tf=1200x' alt='El fallo en WinRAR que permite a los ciberdelincuentes infectar tu dispositivo al abrir archivos RAR' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/audible-como-funciona-audiolibros-tiene-como-probarlo-gratis-1291948'>Qué es Audible: cómo funciona, qué audiolibros tiene y cómo probarlo gratis</a></h4>
-    <a href='https://computerhoy.com/apps/audible-como-funciona-audiolibros-tiene-como-probarlo-gratis-1291948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/auriculares-sony-wh-ch520-3096834.jpg?tf=1200x' alt='Qué es Audible: cómo funciona, qué audiolibros tiene y cómo probarlo gratis' />
+    <h4><a href='https://computerhoy.com/apple/nuevas-pistas-relojes-inteligentes-lanzara-apple-ano-1292190'>Nuevas pistas sobre los relojes inteligentes que lanzará Apple este año</a></h4>
+    <a href='https://computerhoy.com/apple/nuevas-pistas-relojes-inteligentes-lanzara-apple-ano-1292190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-series-7-2538971.jpg?tf=1200x' alt='Nuevas pistas sobre los relojes inteligentes que lanzará Apple este año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cunados-tecnologicos-gurus-vs-logica-experiencia-1289638'>Los cuñados tecnológicos: de "Se nota el pliegue" a "El coche eléctrico no sirve para viajar"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cunados-tecnologicos-gurus-vs-logica-experiencia-1289638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cunados-tecnologicos-3107956.jpg?tf=1200x' alt='Los cuñados tecnológicos: de "Se nota el pliegue" a "El coche eléctrico no sirve para viajar"' />
+    <h4><a href='https://computerhoy.com/hogar/3-trucos-infalibles-mejorar-senal-router-wifi-1291364'>3 trucos infalibles para mejorar la señal de tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/hogar/3-trucos-infalibles-mejorar-senal-router-wifi-1291364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mejora-senal-wifi-estos-tres-trucos-3111502.jpg?tf=1200x' alt='3 trucos infalibles para mejorar la señal de tu router WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/paleontologia-web-gmail-apuesta-almacenamiento-gratuito-1288250'>Así ha cambiado Gmail, el correo electrónico que enamoró a los usuarios por su almacenamiento gratuito</a></h4>
-    <a href='https://computerhoy.com/google/paleontologia-web-gmail-apuesta-almacenamiento-gratuito-1288250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/paleontologia-web-gmail-correo-electronico-google-3105912.jpg?tf=1200x' alt='Así ha cambiado Gmail, el correo electrónico que enamoró a los usuarios por su almacenamiento gratuito' />
+    <h4><a href='https://computerhoy.com/tecnologia/alexa-enciende-luz-menos-10-euros-bombilla-philips-hara-casa-inteligente-1291152'>Alexa, enciende la luz: por menos de 10 euros esta bombilla de Philips hará tu casa inteligente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alexa-enciende-luz-menos-10-euros-bombilla-philips-hara-casa-inteligente-1291152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bombilla-wifi-3110506.jpg?tf=1200x' alt='Alexa, enciende la luz: por menos de 10 euros esta bombilla de Philips hará tu casa inteligente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/puedes-encontrar-gecko-foto-nueva-especie-casi-invisible-1291814'>¿Puedes encontrar al gecko en esta foto? Descubren una nueva especie casi invisible</a></h4>
-    <a href='https://computerhoy.com/life/puedes-encontrar-gecko-foto-nueva-especie-casi-invisible-1291814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/puedes-encontrar-gecko-foto-descubren-nueva-especie-casi-invisible-3111752.jpg?tf=1200x' alt='¿Puedes encontrar al gecko en esta foto? Descubren una nueva especie casi invisible' />
+    <h4><a href='https://computerhoy.com/ciencia/humanos-lograran-inmortalidad-2050-ciencia-1291340'>Los humanos lograrán la inmortalidad en 2050, pero solo los ricos y famosos podrán disfrutar de ella</a></h4>
+    <a href='https://computerhoy.com/ciencia/humanos-lograran-inmortalidad-2050-ciencia-1291340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inmortalidad-3111274.jpg?tf=1200x' alt='Los humanos lograrán la inmortalidad en 2050, pero solo los ricos y famosos podrán disfrutar de ella' />
     </a>
 </div>
 
