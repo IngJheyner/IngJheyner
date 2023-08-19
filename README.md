@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/razon-probable-morir-dia-cumpleanos-1290732'>La razón por la que es más probable que mueras el día de tu cumpleaños, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/life/razon-probable-morir-dia-cumpleanos-1290732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cumpleanos-3109924.jpg?tf=1200x' alt='La razón por la que es más probable que mueras el día de tu cumpleaños, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/audible-como-funciona-audiolibros-tiene-como-probarlo-gratis-1291948'>Qué es Audible: cómo funciona, qué audiolibros tiene y cómo probarlo gratis</a></h4>
+    <a href='https://computerhoy.com/apps/audible-como-funciona-audiolibros-tiene-como-probarlo-gratis-1291948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/auriculares-sony-wh-ch520-3096834.jpg?tf=1200x' alt='Qué es Audible: cómo funciona, qué audiolibros tiene y cómo probarlo gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cunados-tecnologicos-gurus-vs-logica-experiencia-1289638'>Los cuñados tecnológicos: de "Se nota el pliegue" a "El coche eléctrico no sirve para viajar"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cunados-tecnologicos-gurus-vs-logica-experiencia-1289638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cunados-tecnologicos-3107956.jpg?tf=1200x' alt='Los cuñados tecnológicos: de "Se nota el pliegue" a "El coche eléctrico no sirve para viajar"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/paleontologia-web-gmail-apuesta-almacenamiento-gratuito-1288250'>Así ha cambiado Gmail, el correo electrónico que enamoró a los usuarios por su almacenamiento gratuito</a></h4>
+    <a href='https://computerhoy.com/google/paleontologia-web-gmail-apuesta-almacenamiento-gratuito-1288250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/paleontologia-web-gmail-correo-electronico-google-3105912.jpg?tf=1200x' alt='Así ha cambiado Gmail, el correo electrónico que enamoró a los usuarios por su almacenamiento gratuito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/puedes-encontrar-gecko-foto-nueva-especie-casi-invisible-1291814'>¿Puedes encontrar al gecko en esta foto? Descubren una nueva especie casi invisible</a></h4>
     <a href='https://computerhoy.com/life/puedes-encontrar-gecko-foto-nueva-especie-casi-invisible-1291814' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/puedes-encontrar-gecko-foto-descubren-nueva-especie-casi-invisible-3111752.jpg?tf=1200x' alt='¿Puedes encontrar al gecko en esta foto? Descubren una nueva especie casi invisible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223'>12 móviles potentes y baratos para jugar a cualquier juego de Android</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-note-12-3067746.jpg?tf=1200x' alt='12 móviles potentes y baratos para jugar a cualquier juego de Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/poker-face-gran-estreno-skyshowtime-septiembre-1291968'>Ya tenemos los estrenos de series para septiembre en SkyShowtime, ¡llega Poker Face!</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/poker-face-gran-estreno-skyshowtime-septiembre-1291968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/skyshowtime-adelanta-estrenos-series-septiembre-3112262.jpg?tf=1200x' alt='Ya tenemos los estrenos de series para septiembre en SkyShowtime, ¡llega Poker Face!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/elon-musk-anuncia-ya-no-vas-poder-bloquear-usuarios-x-1291962'>Elon Musk anuncia que ya no vas a poder bloquear usuarios en X</a></h4>
-    <a href='https://computerhoy.com/internet/elon-musk-anuncia-ya-no-vas-poder-bloquear-usuarios-x-1291962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/fundador-spacex-elon-musk-2753781.jpg?tf=1200x' alt='Elon Musk anuncia que ya no vas a poder bloquear usuarios en X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/air-fryer-grande-7l-precio-sorprendentemente-amazon-1291626'>Mucha capacidad a precio de derribo: esta air fryer familiar de 7L rompe su récord de precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/air-fryer-grande-7l-precio-sorprendentemente-amazon-1291626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/aigostar-white-cube-3111536.jpg?tf=1200x' alt='Mucha capacidad a precio de derribo: esta air fryer familiar de 7L rompe su récord de precio en Amazon' />
     </a>
 </div>
 
