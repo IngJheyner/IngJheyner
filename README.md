@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estan-ensenando-robots-abrir-puertas-como-hacen-seres-humanos-1292228'>Están enseñando a los robots a abrir puertas como hacen los seres humanos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estan-ensenando-robots-abrir-puertas-como-hacen-seres-humanos-1292228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/estan-ensenando-robots-abrir-puertas-como-hacen-seres-humanos-3112654.jpg?tf=1200x' alt='Están enseñando a los robots a abrir puertas como hacen los seres humanos' />
+    <h4><a href='https://computerhoy.com/life/misterio-250-mansiones-lujo-abandonadas-china-1292246'>El misterio de las 250 mansiones de lujo abandonadas en una explanada en China</a></h4>
+    <a href='https://computerhoy.com/life/misterio-250-mansiones-lujo-abandonadas-china-1292246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/misterio-250-mansiones-lujo-abandonadas-explanada-china-3112674.jpg?tf=1200x' alt='El misterio de las 250 mansiones de lujo abandonadas en una explanada en China' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-wear-os-1253288'>Estos son los mejores relojes inteligentes con Wear OS que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/mejores/relojes-inteligentes-wear-os-1253288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809251.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes con Wear OS que puedes comprar' />
+    <h4><a href='https://computerhoy.com/apple/ipados-17-estas-son-5-novedades-destacadas-ipad-1285486'>iPadOS 17: estas son las 5 novedades más destacadas para tu iPad</a></h4>
+    <a href='https://computerhoy.com/apple/ipados-17-estas-son-5-novedades-destacadas-ipad-1285486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipados-3051028.jpg?tf=1200x' alt='iPadOS 17: estas son las 5 novedades más destacadas para tu iPad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/seria-precio-fecha-disponibilidad-global-xiaomi-smart-band-8-1292214'>Este sería el precio y la fecha de disponibilidad global de la Xiaomi Smart Band 8</a></h4>
-    <a href='https://computerhoy.com/tecnologia/seria-precio-fecha-disponibilidad-global-xiaomi-smart-band-8-1292214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiamo-smart-band-8-pro-3108392.jpg?tf=1200x' alt='Este sería el precio y la fecha de disponibilidad global de la Xiaomi Smart Band 8' />
+    <h4><a href='https://computerhoy.com/tecnologia/crean-herramienta-proteger-artistas-avances-inteligencia-artificial-1292232'>Crean una herramienta para proteger a los artistas de los avances de la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-herramienta-proteger-artistas-avances-inteligencia-artificial-1292232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/diseno-grafico-3112658.jpg?tf=1200x' alt='Crean una herramienta para proteger a los artistas de los avances de la inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/5-razones-actualizar-ios-17-no-hacerlo-1285100'>¿Merece la pena actualizar a iOS 17? 5 razones para hacerlo y una para no</a></h4>
-    <a href='https://computerhoy.com/apple/5-razones-actualizar-ios-17-no-hacerlo-1285100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/como-descargar-instalar-primera-beta-ios-17-3083240.jpg?tf=1200x' alt='¿Merece la pena actualizar a iOS 17? 5 razones para hacerlo y una para no' />
+    <h4><a href='https://computerhoy.com/life/granjero-encuentra-800-monedas-oro-mientras-plantaba-maiz-1292234'>Un granjero encuentra 800 monedas de oro mientras plantaba maíz, valen millones de euros</a></h4>
+    <a href='https://computerhoy.com/life/granjero-encuentra-800-monedas-oro-mientras-plantaba-maiz-1292234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/granjero-encuentra-800-monedas-oro-mientras-plantaba-maiz-valen-millones-euros-3112648.jpg?tf=1200x' alt='Un granjero encuentra 800 monedas de oro mientras plantaba maíz, valen millones de euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/viajes-tiempo-sputnik-primer-satelite-artificial-cuadro-italiano-siglo-xvii-1292218'>¿Viajes en el tiempo? El Sputnik, el primer satélite artificial, en un cuadro italiano del siglo XVII</a></h4>
-    <a href='https://computerhoy.com/life/viajes-tiempo-sputnik-primer-satelite-artificial-cuadro-italiano-siglo-xvii-1292218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/viajes-tiempo-sputnik-primer-satelite-artificial-cuadro-italiano-siglo-xvi-3112598.jpg?tf=1200x' alt='¿Viajes en el tiempo? El Sputnik, el primer satélite artificial, en un cuadro italiano del siglo XVII' />
+    <h4><a href='https://computerhoy.com/apple/como-activar-usar-siri-iphone-1287228'>Cómo activar y usar Siri en tu iPhone, paso a paso</a></h4>
+    <a href='https://computerhoy.com/apple/como-activar-usar-siri-iphone-1287228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/siri-iphone-2340841.jpg?tf=1200x' alt='Cómo activar y usar Siri en tu iPhone, paso a paso' />
     </a>
 </div>
 
