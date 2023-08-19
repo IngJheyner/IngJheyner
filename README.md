@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/poker-face-gran-estreno-skyshowtime-septiembre-1291968'>Ya tenemos los estrenos de series para septiembre en SkyShowtime, ¡llega Poker Face!</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/poker-face-gran-estreno-skyshowtime-septiembre-1291968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/skyshowtime-adelanta-estrenos-series-septiembre-3112262.jpg?tf=1200x' alt='Ya tenemos los estrenos de series para septiembre en SkyShowtime, ¡llega Poker Face!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/elon-musk-anuncia-ya-no-vas-poder-bloquear-usuarios-x-1291962'>Elon Musk anuncia que ya no vas a poder bloquear usuarios en X</a></h4>
     <a href='https://computerhoy.com/internet/elon-musk-anuncia-ya-no-vas-poder-bloquear-usuarios-x-1291962' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/fundador-spacex-elon-musk-2753781.jpg?tf=1200x' alt='Elon Musk anuncia que ya no vas a poder bloquear usuarios en X' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/apple-watch-pulsera-actividad-xiaomi-puede-ser-origen-bacterias-peligrosas-salud-1291952'>Tu Apple Watch o pulsera de actividad de Xiaomi puede ser el origen de bacterias peligrosas para la salud</a></h4>
     <a href='https://computerhoy.com/tecnologia/apple-watch-pulsera-actividad-xiaomi-puede-ser-origen-bacterias-peligrosas-salud-1291952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/relojes-inteligentes-3112238.jpg?tf=1200x' alt='Tu Apple Watch o pulsera de actividad de Xiaomi puede ser el origen de bacterias peligrosas para la salud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/reglas-usa-netflix-cancelar-serie-1291934'>Las normas secretas de Netflix para renovar o cancelar una serie</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/reglas-usa-netflix-cancelar-serie-1291934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/sede-central-netflix-3088500.jpg?tf=1200x' alt='Las normas secretas de Netflix para renovar o cancelar una serie' />
     </a>
 </div>
 
