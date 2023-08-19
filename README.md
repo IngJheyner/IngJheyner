@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dineral-fontana-di-trevi-sucede-todas-monedas-1288818'>El poder recaudatorio de la Fontana di Trevi: ¿a dónde van todas las monedas arrojadas por los turistas?</a></h4>
-    <a href='https://computerhoy.com/life/dineral-fontana-di-trevi-sucede-todas-monedas-1288818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/monumento-fontana-di-trevi-3106910.jpg?tf=1200x' alt='El poder recaudatorio de la Fontana di Trevi: ¿a dónde van todas las monedas arrojadas por los turistas?' />
+    <h4><a href='https://computerhoy.com/tecnologia/estan-ensenando-robots-abrir-puertas-como-hacen-seres-humanos-1292228'>Están enseñando a los robots a abrir puertas como hacen los seres humanos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estan-ensenando-robots-abrir-puertas-como-hacen-seres-humanos-1292228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/estan-ensenando-robots-abrir-puertas-como-hacen-seres-humanos-3112654.jpg?tf=1200x' alt='Están enseñando a los robots a abrir puertas como hacen los seres humanos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/motor-fusion-nuclear-nos-llevara-marte-podria-alcanzar-800000-kilometros-hora-1292212'>El motor de fusión nuclear que nos llevará a Marte y que podría alcanzar los 800.000 kilómetros por hora</a></h4>
-    <a href='https://computerhoy.com/espacio/motor-fusion-nuclear-nos-llevara-marte-podria-alcanzar-800000-kilometros-hora-1292212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/motor-fusion-nuclear-nos-llevara-marte-podria-alcanzar-800000-kilometros-hora-3112602.jpg?tf=1200x' alt='El motor de fusión nuclear que nos llevará a Marte y que podría alcanzar los 800.000 kilómetros por hora' />
+    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-wear-os-1253288'>Estos son los mejores relojes inteligentes con Wear OS que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/mejores/relojes-inteligentes-wear-os-1253288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/samsung-galaxy-watch-5-pro-analisis-opinion-2809251.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes con Wear OS que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pueblo-japones-practicaba-modificacion-craneal-intencionada-simple-razon-1292208'>El pueblo japonés que practicaba la modificación craneal intencionada por esta simple razón</a></h4>
-    <a href='https://computerhoy.com/life/pueblo-japones-practicaba-modificacion-craneal-intencionada-simple-razon-1292208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pueblo-japones-practicaba-modificacion-craneal-intencionada-simple-razon-3112584.jpg?tf=1200x' alt='El pueblo japonés que practicaba la modificación craneal intencionada por esta simple razón' />
+    <h4><a href='https://computerhoy.com/tecnologia/seria-precio-fecha-disponibilidad-global-xiaomi-smart-band-8-1292214'>Este sería el precio y la fecha de disponibilidad global de la Xiaomi Smart Band 8</a></h4>
+    <a href='https://computerhoy.com/tecnologia/seria-precio-fecha-disponibilidad-global-xiaomi-smart-band-8-1292214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiamo-smart-band-8-pro-3108392.jpg?tf=1200x' alt='Este sería el precio y la fecha de disponibilidad global de la Xiaomi Smart Band 8' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/5-cosas-debes-saber-antes-limpiar-portatil-1291582'>5 precauciones y cosas que debes saber antes de limpiar tu portátil</a></h4>
-    <a href='https://computerhoy.com/pc/5-cosas-debes-saber-antes-limpiar-portatil-1291582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cosas-debes-saber-antes-limpiar-portatil-3111504.jpg?tf=1200x' alt='5 precauciones y cosas que debes saber antes de limpiar tu portátil' />
+    <h4><a href='https://computerhoy.com/apple/5-razones-actualizar-ios-17-no-hacerlo-1285100'>¿Merece la pena actualizar a iOS 17? 5 razones para hacerlo y una para no</a></h4>
+    <a href='https://computerhoy.com/apple/5-razones-actualizar-ios-17-no-hacerlo-1285100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/como-descargar-instalar-primera-beta-ios-17-3083240.jpg?tf=1200x' alt='¿Merece la pena actualizar a iOS 17? 5 razones para hacerlo y una para no' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nueva-funcion-google-maps-te-permitira-gestionar-mejor-viajes-1292206'>La nueva función de Google Maps que te permitirá gestionar mejor tus viajes</a></h4>
-    <a href='https://computerhoy.com/apps/nueva-funcion-google-maps-te-permitira-gestionar-mejor-viajes-1292206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-maps-gasolineras-2998772.jpg?tf=1200x' alt='La nueva función de Google Maps que te permitirá gestionar mejor tus viajes' />
+    <h4><a href='https://computerhoy.com/life/viajes-tiempo-sputnik-primer-satelite-artificial-cuadro-italiano-siglo-xvii-1292218'>¿Viajes en el tiempo? El Sputnik, el primer satélite artificial, en un cuadro italiano del siglo XVII</a></h4>
+    <a href='https://computerhoy.com/life/viajes-tiempo-sputnik-primer-satelite-artificial-cuadro-italiano-siglo-xvii-1292218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/viajes-tiempo-sputnik-primer-satelite-artificial-cuadro-italiano-siglo-xvi-3112598.jpg?tf=1200x' alt='¿Viajes en el tiempo? El Sputnik, el primer satélite artificial, en un cuadro italiano del siglo XVII' />
     </a>
 </div>
 
