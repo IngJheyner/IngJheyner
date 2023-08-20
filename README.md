@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/wallpapers-fondos-pantalla-alucinantes-ios-17-ipados-17-1287624'>Wallpapers y fondos de pantalla alucinantes para iOS 17 y iPadOS 17</a></h4>
+    <a href='https://computerhoy.com/apple/wallpapers-fondos-pantalla-alucinantes-ios-17-ipados-17-1287624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2948946.jpg?tf=1200x' alt='Wallpapers y fondos de pantalla alucinantes para iOS 17 y iPadOS 17' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nave-mision-rusa-luna-25-estrella-luna-1292500'>El rover de la misión rusa Luna-25 se estrella contra la Luna, oportunidad para la India</a></h4>
+    <a href='https://computerhoy.com/espacio/nave-mision-rusa-luna-25-estrella-luna-1292500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/polo-sur-luna-3082888.jpg?tf=1200x' alt='El rover de la misión rusa Luna-25 se estrella contra la Luna, oportunidad para la India' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-desactivar-siri-iphone-ipad-apple-watch-1287608'>Cómo desactivar Siri en tu iPhone, iPad y Apple Watch </a></h4>
+    <a href='https://computerhoy.com/apple/como-desactivar-siri-iphone-ipad-apple-watch-1287608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/siri-apple-2319627.jpg?tf=1200x' alt='Cómo desactivar Siri en tu iPhone, iPad y Apple Watch ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/colocan-tatuaje-celula-convertirla-sensor-1292498'>Consiguen implantar un tatuaje a una célula sin dañarla, para convertirla en un sensor</a></h4>
+    <a href='https://computerhoy.com/ciencia/colocan-tatuaje-celula-convertirla-sensor-1292498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/consiguen-implantar-tatuaje-celula-danarla-convertirla-sensor-3112984.jpg?tf=1200x' alt='Consiguen implantar un tatuaje a una célula sin dañarla, para convertirla en un sensor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-anadir-pegatinas-escritorio-windows-11-1288316'>Así puedes activar la característica oculta de Windows 11 que permite añadir pegatinas en el escritorio</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-anadir-pegatinas-escritorio-windows-11-1288316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/anadir-stickers-windows-11-3105984.jpg?tf=1200x' alt='Así puedes activar la característica oculta de Windows 11 que permite añadir pegatinas en el escritorio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/posiblemente-te-has-estado-atando-mal-cordones-toda-vida-ciencia-1292484'>Posiblemente te has estado atando mal los cordones toda la vida, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/life/posiblemente-te-has-estado-atando-mal-cordones-toda-vida-ciencia-1292484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/posiblemente-has-estado-atandote-mal-cordones-toda-vida-3112968.jpg?tf=1200x' alt='Posiblemente te has estado atando mal los cordones toda la vida, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/7-curiosidades-bicicletas-electricas-1289810'>7 curiosidades sobre las bicicletas eléctricas que harán que las veas de forma diferente</a></h4>
-    <a href='https://computerhoy.com/motor/7-curiosidades-bicicletas-electricas-1289810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mujer-bicicleta-electrica-3079886.jpg?tf=1200x' alt='7 curiosidades sobre las bicicletas eléctricas que harán que las veas de forma diferente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/empleo-parece-no-podra-ser-sustituido-completamente-robot-1292470'>Este es el empleo que parece que no podrá ser sustituido completamente por un robot</a></h4>
-    <a href='https://computerhoy.com/life/empleo-parece-no-podra-ser-sustituido-completamente-robot-1292470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/robots-camareros-inteligencia-artificial-3040246.jpg?tf=1200x' alt='Este es el empleo que parece que no podrá ser sustituido completamente por un robot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-deteccion-presencia-windows-11-1286534'>Qué es y cómo activar la detección de presencia de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-deteccion-presencia-windows-11-1286534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/deteccion-presencial-windows-11-3102440.jpg?tf=1200x' alt='Qué es y cómo activar la detección de presencia de Windows 11' />
     </a>
 </div>
 
