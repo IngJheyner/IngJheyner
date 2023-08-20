@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/decena-coches-autonomos-causan-gran-atasco-san-francisco-despues-perder-senal-inalambrica-1292238'>Una decena de coches autónomos causan un gran atasco en San Francisco después de perder la señal inalámbrica</a></h4>
+    <a href='https://computerhoy.com/life/decena-coches-autonomos-causan-gran-atasco-san-francisco-despues-perder-senal-inalambrica-1292238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cruise-3112666.jpg?tf=1200x' alt='Una decena de coches autónomos causan un gran atasco en San Francisco después de perder la señal inalámbrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/misterio-250-mansiones-lujo-abandonadas-china-1292246'>El misterio de las 250 mansiones de lujo abandonadas en una explanada en China</a></h4>
     <a href='https://computerhoy.com/life/misterio-250-mansiones-lujo-abandonadas-china-1292246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/misterio-250-mansiones-lujo-abandonadas-explanada-china-3112674.jpg?tf=1200x' alt='El misterio de las 250 mansiones de lujo abandonadas en una explanada en China' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/granjero-encuentra-800-monedas-oro-mientras-plantaba-maiz-1292234'>Un granjero encuentra 800 monedas de oro mientras plantaba maíz, valen millones de euros</a></h4>
     <a href='https://computerhoy.com/life/granjero-encuentra-800-monedas-oro-mientras-plantaba-maiz-1292234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/granjero-encuentra-800-monedas-oro-mientras-plantaba-maiz-valen-millones-euros-3112648.jpg?tf=1200x' alt='Un granjero encuentra 800 monedas de oro mientras plantaba maíz, valen millones de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-activar-usar-siri-iphone-1287228'>Cómo activar y usar Siri en tu iPhone, paso a paso</a></h4>
-    <a href='https://computerhoy.com/apple/como-activar-usar-siri-iphone-1287228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/siri-iphone-2340841.jpg?tf=1200x' alt='Cómo activar y usar Siri en tu iPhone, paso a paso' />
     </a>
 </div>
 
