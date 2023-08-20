@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/10-cuestiones-ciencia-todavia-no-ha-logrado-explicacion-1290210'>Misterios sin resolver: 10 cuestiones para las que la ciencia todavía no ha logrado explicación</a></h4>
-    <a href='https://computerhoy.com/ciencia/10-cuestiones-ciencia-todavia-no-ha-logrado-explicacion-1290210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/misterios-resolver-3109956.jpg?tf=1200x' alt='Misterios sin resolver: 10 cuestiones para las que la ciencia todavía no ha logrado explicación' />
+    <h4><a href='https://computerhoy.com/tecnologia/robot-puede-pilotar-cualquier-avion-memorizarse-todos-manuales-vuelo-1292460'>Así es el robot que puede pilotar cualquier avión y memorizarse todos los manuales de vuelo </a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-puede-pilotar-cualquier-avion-memorizarse-todos-manuales-vuelo-1292460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/crean-robot-humanoide-capaz-pilotar-cualquier-avion-memorizarse-todos-manuales-vuelo-3112926.jpg?tf=1200x' alt='Así es el robot que puede pilotar cualquier avión y memorizarse todos los manuales de vuelo ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/motivo-steve-jobs-pidio-mujer-gastara-toda-fortuna-1288806'>El genial motivo por el que Steve Jobs pidió a su mujer que gastara toda su fortuna lo antes posible</a></h4>
-    <a href='https://computerhoy.com/life/motivo-steve-jobs-pidio-mujer-gastara-toda-fortuna-1288806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/steve-jobs-fortuna-apple-3106888.jpg?tf=1200x' alt='El genial motivo por el que Steve Jobs pidió a su mujer que gastara toda su fortuna lo antes posible' />
+    <h4><a href='https://computerhoy.com/tecnologia/estas-son-primeras-gafas-inteligentes-independientes-mundo-capaces-mostrar-estadisticas-mapas-1292454'>Estas son las primeras gafas inteligentes independientes del mundo capaces de mostrar estadísticas y mapas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-son-primeras-gafas-inteligentes-independientes-mundo-capaces-mostrar-estadisticas-mapas-1292454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/minimis-glass-3112908.jpg?tf=1200x' alt='Estas son las primeras gafas inteligentes independientes del mundo capaces de mostrar estadísticas y mapas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/11-apps-basadas-ia-te-facilitaran-vida-haran-productivo-1285112'>11 apps basadas en la inteligencia artificial que te facilitarán la vida y te ayudarán a ser más productivo</a></h4>
-    <a href='https://computerhoy.com/apps/11-apps-basadas-ia-te-facilitaran-vida-haran-productivo-1285112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/moviles-chatbot-3100458.jpg?tf=1200x' alt='11 apps basadas en la inteligencia artificial que te facilitarán la vida y te ayudarán a ser más productivo' />
+    <h4><a href='https://computerhoy.com/motor/boton-coche-nunca-deberias-pulsar-nada-subirte-1288766'>El botón del coche que nunca deberías pulsar nada más subirte, espera al menos 10 minutos</a></h4>
+    <a href='https://computerhoy.com/motor/boton-coche-nunca-deberias-pulsar-nada-subirte-1288766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aire-acondicionado-coche-2749007.jpg?tf=1200x' alt='El botón del coche que nunca deberías pulsar nada más subirte, espera al menos 10 minutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/diferencia-ruido-blanco-ruido-marron-rosa-1290664'>En qué se diferencia el ruido blanco del ruido marrón o rosa</a></h4>
-    <a href='https://computerhoy.com/audio/diferencia-ruido-blanco-ruido-marron-rosa-1290664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/diferencia-ruido-blanco-ruido-marron-rosa-3109586.jpg?tf=1200x' alt='En qué se diferencia el ruido blanco del ruido marrón o rosa' />
+    <h4><a href='https://computerhoy.com/tecnologia/crean-robot-humanoide-proposito-general-avanzado-mundo-1292452'>Crean el robot humanoide de propósito general más avanzado del mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-robot-humanoide-proposito-general-avanzado-mundo-1292452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/robot-h1-3112906.jpg?tf=1200x' alt='Crean el robot humanoide de propósito general más avanzado del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vuelta-cole-2023-guia-compra-dispositivos-tecnologicos-1292178'>Vuelta al cole 2023: guía de compra de dispositivos tecnológicos educativos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vuelta-cole-2023-guia-compra-dispositivos-tecnologicos-1292178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ninos-robotica-2962758.jpg?tf=1200x' alt='Vuelta al cole 2023: guía de compra de dispositivos tecnológicos educativos' />
+    <h4><a href='https://computerhoy.com/redes/distancia-maxima-no-debe-exceder-cable-ethernet-1289772'>Evita problemas de conexión: la distancia máxima que no debe exceder tu cable Ethernet</a></h4>
+    <a href='https://computerhoy.com/redes/distancia-maxima-no-debe-exceder-cable-ethernet-1289772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/cable-ethernet-adsl-router.jpg?tf=1200x' alt='Evita problemas de conexión: la distancia máxima que no debe exceder tu cable Ethernet' />
     </a>
 </div>
 
