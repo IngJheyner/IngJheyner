@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/decena-coches-autonomos-causan-gran-atasco-san-francisco-despues-perder-senal-inalambrica-1292238'>Una decena de coches autónomos causan un gran atasco en San Francisco después de perder la señal inalámbrica</a></h4>
-    <a href='https://computerhoy.com/life/decena-coches-autonomos-causan-gran-atasco-san-francisco-despues-perder-senal-inalambrica-1292238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cruise-3112666.jpg?tf=1200x' alt='Una decena de coches autónomos causan un gran atasco en San Francisco después de perder la señal inalámbrica' />
+    <h4><a href='https://computerhoy.com/ciencia/10-cuestiones-ciencia-todavia-no-ha-logrado-explicacion-1290210'>Misterios sin resolver: 10 cuestiones para las que la ciencia todavía no ha logrado explicación</a></h4>
+    <a href='https://computerhoy.com/ciencia/10-cuestiones-ciencia-todavia-no-ha-logrado-explicacion-1290210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/misterios-resolver-3109956.jpg?tf=1200x' alt='Misterios sin resolver: 10 cuestiones para las que la ciencia todavía no ha logrado explicación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/misterio-250-mansiones-lujo-abandonadas-china-1292246'>El misterio de las 250 mansiones de lujo abandonadas en una explanada en China</a></h4>
-    <a href='https://computerhoy.com/life/misterio-250-mansiones-lujo-abandonadas-china-1292246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/misterio-250-mansiones-lujo-abandonadas-explanada-china-3112674.jpg?tf=1200x' alt='El misterio de las 250 mansiones de lujo abandonadas en una explanada en China' />
+    <h4><a href='https://computerhoy.com/life/motivo-steve-jobs-pidio-mujer-gastara-toda-fortuna-1288806'>El genial motivo por el que Steve Jobs pidió a su mujer que gastara toda su fortuna lo antes posible</a></h4>
+    <a href='https://computerhoy.com/life/motivo-steve-jobs-pidio-mujer-gastara-toda-fortuna-1288806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/steve-jobs-fortuna-apple-3106888.jpg?tf=1200x' alt='El genial motivo por el que Steve Jobs pidió a su mujer que gastara toda su fortuna lo antes posible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ipados-17-estas-son-5-novedades-destacadas-ipad-1285486'>iPadOS 17: estas son las 5 novedades más destacadas para tu iPad</a></h4>
-    <a href='https://computerhoy.com/apple/ipados-17-estas-son-5-novedades-destacadas-ipad-1285486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipados-3051028.jpg?tf=1200x' alt='iPadOS 17: estas son las 5 novedades más destacadas para tu iPad' />
+    <h4><a href='https://computerhoy.com/apps/11-apps-basadas-ia-te-facilitaran-vida-haran-productivo-1285112'>11 apps basadas en la inteligencia artificial que te facilitarán la vida y te ayudarán a ser más productivo</a></h4>
+    <a href='https://computerhoy.com/apps/11-apps-basadas-ia-te-facilitaran-vida-haran-productivo-1285112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/moviles-chatbot-3100458.jpg?tf=1200x' alt='11 apps basadas en la inteligencia artificial que te facilitarán la vida y te ayudarán a ser más productivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-herramienta-proteger-artistas-avances-inteligencia-artificial-1292232'>Crean una herramienta para proteger a los artistas de los avances de la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-herramienta-proteger-artistas-avances-inteligencia-artificial-1292232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/diseno-grafico-3112658.jpg?tf=1200x' alt='Crean una herramienta para proteger a los artistas de los avances de la inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/audio/diferencia-ruido-blanco-ruido-marron-rosa-1290664'>En qué se diferencia el ruido blanco del ruido marrón o rosa</a></h4>
+    <a href='https://computerhoy.com/audio/diferencia-ruido-blanco-ruido-marron-rosa-1290664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/diferencia-ruido-blanco-ruido-marron-rosa-3109586.jpg?tf=1200x' alt='En qué se diferencia el ruido blanco del ruido marrón o rosa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/granjero-encuentra-800-monedas-oro-mientras-plantaba-maiz-1292234'>Un granjero encuentra 800 monedas de oro mientras plantaba maíz, valen millones de euros</a></h4>
-    <a href='https://computerhoy.com/life/granjero-encuentra-800-monedas-oro-mientras-plantaba-maiz-1292234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/granjero-encuentra-800-monedas-oro-mientras-plantaba-maiz-valen-millones-euros-3112648.jpg?tf=1200x' alt='Un granjero encuentra 800 monedas de oro mientras plantaba maíz, valen millones de euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/vuelta-cole-2023-guia-compra-dispositivos-tecnologicos-1292178'>Vuelta al cole 2023: guía de compra de dispositivos tecnológicos educativos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vuelta-cole-2023-guia-compra-dispositivos-tecnologicos-1292178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ninos-robotica-2962758.jpg?tf=1200x' alt='Vuelta al cole 2023: guía de compra de dispositivos tecnológicos educativos' />
     </a>
 </div>
 
