@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-puede-pilotar-cualquier-avion-memorizarse-todos-manuales-vuelo-1292460'>Así es el robot que puede pilotar cualquier avión y memorizarse todos los manuales de vuelo </a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-puede-pilotar-cualquier-avion-memorizarse-todos-manuales-vuelo-1292460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/crean-robot-humanoide-capaz-pilotar-cualquier-avion-memorizarse-todos-manuales-vuelo-3112926.jpg?tf=1200x' alt='Así es el robot que puede pilotar cualquier avión y memorizarse todos los manuales de vuelo ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-pegatinas-escritorio-windows-11-1288316'>Así puedes activar la característica oculta de Windows 11 que permite añadir pegatinas en el escritorio</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-anadir-pegatinas-escritorio-windows-11-1288316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/anadir-stickers-windows-11-3105984.jpg?tf=1200x' alt='Así puedes activar la característica oculta de Windows 11 que permite añadir pegatinas en el escritorio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-son-primeras-gafas-inteligentes-independientes-mundo-capaces-mostrar-estadisticas-mapas-1292454'>Estas son las primeras gafas inteligentes independientes del mundo capaces de mostrar estadísticas y mapas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-son-primeras-gafas-inteligentes-independientes-mundo-capaces-mostrar-estadisticas-mapas-1292454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/minimis-glass-3112908.jpg?tf=1200x' alt='Estas son las primeras gafas inteligentes independientes del mundo capaces de mostrar estadísticas y mapas' />
+    <h4><a href='https://computerhoy.com/life/posiblemente-te-has-estado-atando-mal-cordones-toda-vida-ciencia-1292484'>Posiblemente te has estado atando mal los cordones toda la vida, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/life/posiblemente-te-has-estado-atando-mal-cordones-toda-vida-ciencia-1292484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/posiblemente-has-estado-atandote-mal-cordones-toda-vida-3112968.jpg?tf=1200x' alt='Posiblemente te has estado atando mal los cordones toda la vida, según la ciencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/boton-coche-nunca-deberias-pulsar-nada-subirte-1288766'>El botón del coche que nunca deberías pulsar nada más subirte, espera al menos 10 minutos</a></h4>
-    <a href='https://computerhoy.com/motor/boton-coche-nunca-deberias-pulsar-nada-subirte-1288766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aire-acondicionado-coche-2749007.jpg?tf=1200x' alt='El botón del coche que nunca deberías pulsar nada más subirte, espera al menos 10 minutos' />
+    <h4><a href='https://computerhoy.com/motor/7-curiosidades-bicicletas-electricas-1289810'>7 curiosidades sobre las bicicletas eléctricas que harán que las veas de forma diferente</a></h4>
+    <a href='https://computerhoy.com/motor/7-curiosidades-bicicletas-electricas-1289810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mujer-bicicleta-electrica-3079886.jpg?tf=1200x' alt='7 curiosidades sobre las bicicletas eléctricas que harán que las veas de forma diferente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-robot-humanoide-proposito-general-avanzado-mundo-1292452'>Crean el robot humanoide de propósito general más avanzado del mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-robot-humanoide-proposito-general-avanzado-mundo-1292452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/robot-h1-3112906.jpg?tf=1200x' alt='Crean el robot humanoide de propósito general más avanzado del mundo' />
+    <h4><a href='https://computerhoy.com/life/empleo-parece-no-podra-ser-sustituido-completamente-robot-1292470'>Este es el empleo que parece que no podrá ser sustituido completamente por un robot</a></h4>
+    <a href='https://computerhoy.com/life/empleo-parece-no-podra-ser-sustituido-completamente-robot-1292470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/robots-camareros-inteligencia-artificial-3040246.jpg?tf=1200x' alt='Este es el empleo que parece que no podrá ser sustituido completamente por un robot' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/distancia-maxima-no-debe-exceder-cable-ethernet-1289772'>Evita problemas de conexión: la distancia máxima que no debe exceder tu cable Ethernet</a></h4>
-    <a href='https://computerhoy.com/redes/distancia-maxima-no-debe-exceder-cable-ethernet-1289772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/cable-ethernet-adsl-router.jpg?tf=1200x' alt='Evita problemas de conexión: la distancia máxima que no debe exceder tu cable Ethernet' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-deteccion-presencia-windows-11-1286534'>Qué es y cómo activar la detección de presencia de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-deteccion-presencia-windows-11-1286534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/deteccion-presencial-windows-11-3102440.jpg?tf=1200x' alt='Qué es y cómo activar la detección de presencia de Windows 11' />
     </a>
 </div>
 
