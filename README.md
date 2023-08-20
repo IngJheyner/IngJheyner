@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/desentierran-pompeya-como-era-vida-secreta-esclavos-1292514'>Desentierran en Pompeya los objetos que nos permiten saber cómo vivían los esclavos en Roma</a></h4>
+    <a href='https://computerhoy.com/ciencia/desentierran-pompeya-como-era-vida-secreta-esclavos-1292514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/desentierran-pompeya-objetos-nos-permiten-saber-como-vivian-esclavos-roma-3113024.jpg?tf=1200x' alt='Desentierran en Pompeya los objetos que nos permiten saber cómo vivían los esclavos en Roma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-chollo-inteligencia-artificial-gpu-h100-1292510'>NVIDIA ha encontrado un chollo con la IA: gana un 1000% con cada GPU que vende</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-chollo-inteligencia-artificial-gpu-h100-1292510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nvidia-ha-encontrado-chollo-ia-gana-1000-cada-gpu-vende-3113002.jpg?tf=1200x' alt='NVIDIA ha encontrado un chollo con la IA: gana un 1000% con cada GPU que vende' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/wallpapers-fondos-pantalla-alucinantes-ios-17-ipados-17-1287624'>Wallpapers y fondos de pantalla alucinantes para iOS 17 y iPadOS 17</a></h4>
     <a href='https://computerhoy.com/apple/wallpapers-fondos-pantalla-alucinantes-ios-17-ipados-17-1287624' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2948946.jpg?tf=1200x' alt='Wallpapers y fondos de pantalla alucinantes para iOS 17 y iPadOS 17' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/como-desactivar-siri-iphone-ipad-apple-watch-1287608'>Cómo desactivar Siri en tu iPhone, iPad y Apple Watch </a></h4>
     <a href='https://computerhoy.com/apple/como-desactivar-siri-iphone-ipad-apple-watch-1287608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/siri-apple-2319627.jpg?tf=1200x' alt='Cómo desactivar Siri en tu iPhone, iPad y Apple Watch ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/colocan-tatuaje-celula-convertirla-sensor-1292498'>Consiguen implantar un tatuaje a una célula sin dañarla, para convertirla en un sensor</a></h4>
-    <a href='https://computerhoy.com/ciencia/colocan-tatuaje-celula-convertirla-sensor-1292498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/consiguen-implantar-tatuaje-celula-danarla-convertirla-sensor-3112984.jpg?tf=1200x' alt='Consiguen implantar un tatuaje a una célula sin dañarla, para convertirla en un sensor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-pegatinas-escritorio-windows-11-1288316'>Así puedes activar la característica oculta de Windows 11 que permite añadir pegatinas en el escritorio</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-anadir-pegatinas-escritorio-windows-11-1288316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/anadir-stickers-windows-11-3105984.jpg?tf=1200x' alt='Así puedes activar la característica oculta de Windows 11 que permite añadir pegatinas en el escritorio' />
     </a>
 </div>
 
