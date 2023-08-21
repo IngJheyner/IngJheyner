@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/entiende-modo-puente-router-wifi-elemento-clave-impuesto-ley-1292154'>Entiende el modo puente de tu router WiFi: un elemento clave impuesto por ley</a></h4>
-    <a href='https://computerhoy.com/tutoriales/entiende-modo-puente-router-wifi-elemento-clave-impuesto-ley-1292154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/modo-puente-router-wifi-3113626.jpg?tf=1200x' alt='Entiende el modo puente de tu router WiFi: un elemento clave impuesto por ley' />
+    <h4><a href='https://computerhoy.com/tecnologia/dyson-v15-detect-oferta-1291720'>Si siempre quisiste una Dyson, su mejor aspiradora inalámbrica es ahora 110 euros más barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dyson-v15-detect-oferta-1291720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aspiradora-mano-cables-dyson-v15-detect-absolute-2865003.jpg?tf=1200x' alt='Si siempre quisiste una Dyson, su mejor aspiradora inalámbrica es ahora 110 euros más barata' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/movil-tiene-siempre-mala-cobertura-prueba-genial-truco-1292954'>¿Tu móvil tiene siempre mala cobertura? Prueba este genial truco</a></h4>
-    <a href='https://computerhoy.com/moviles/movil-tiene-siempre-mala-cobertura-prueba-genial-truco-1292954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/movil-tiene-siempre-mala-cobertura-prueba-truco-3113752.jpg?tf=1200x' alt='¿Tu móvil tiene siempre mala cobertura? Prueba este genial truco' />
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-anuncia-lanzamiento-series-blu-ray-4k-1293048'>Disney rectifica y anuncia el lanzamiento de The Mandalorian y otras series en formato físico</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-anuncia-lanzamiento-series-blu-ray-4k-1293048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/disney-rectifica-anuncia-lanzamiento-series-formato-fisico-3113918.jpg?tf=1200x' alt='Disney rectifica y anuncia el lanzamiento de The Mandalorian y otras series en formato físico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280'>Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero</a></h4>
-    <a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-dell-mesa-escritorio-2790609.jpg?tf=1200x' alt='Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-corrige-error-discos-ssd-windows-11-traia-cabeza-millones-usuarios-1293038'>Microsoft corrige el error de los discos SSD en Windows 11 que traía de cabeza a millones de usuarios</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-corrige-error-discos-ssd-windows-11-traia-cabeza-millones-usuarios-1293038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2870243.jpg?tf=1200x' alt='Microsoft corrige el error de los discos SSD en Windows 11 que traía de cabeza a millones de usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/neat-como-puedes-quemar-calorias-hacer-ejercicio-1288824'>Qué es el NEAT y cómo puede ayudarte a quemar calorías sin hacer ejercicio</a></h4>
-    <a href='https://computerhoy.com/life/neat-como-puedes-quemar-calorias-hacer-ejercicio-1288824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/5-trucos-convencerte-ti-mismo-hagas-ejercicio-aunque-odies-2457063.jpg?tf=1200x' alt='Qué es el NEAT y cómo puede ayudarte a quemar calorías sin hacer ejercicio' />
+    <h4><a href='https://computerhoy.com/life/curiosa-filosofia-bill-gates-cuando-iba-colegio-cuanto-menos-esfuerzo-hacias-genial-eras-1293032'>La curiosa filosofía de Bill Gates cuando iba al colegio: “cuanto menos esfuerzo hacías, más genial eras”</a></h4>
+    <a href='https://computerhoy.com/life/curiosa-filosofia-bill-gates-cuando-iba-colegio-cuanto-menos-esfuerzo-hacias-genial-eras-1293032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='La curiosa filosofía de Bill Gates cuando iba al colegio: “cuanto menos esfuerzo hacías, más genial eras”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ciudades-subterraneas-solucion-ser-humano-sobreviva-cambio-climatico-1292944'>Ciudades subterráneas: ¿la solución para que el ser humano sobreviva al cambio climático?</a></h4>
-    <a href='https://computerhoy.com/life/ciudades-subterraneas-solucion-ser-humano-sobreviva-cambio-climatico-1292944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ciudades-subterraneas-sobrevivir-cambio-climatico-3113724.jpg?tf=1200x' alt='Ciudades subterráneas: ¿la solución para que el ser humano sobreviva al cambio climático?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/plan-uefa-evitar-pirateria-iptv-liga-campeones-1292996'>Así funciona el agresivo plan de la UEFA para evitar ver gratis por IPTV La Liga de Campeones 2023/24</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/plan-uefa-evitar-pirateria-iptv-liga-campeones-1292996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funciona-agresivo-plan-uefa-evitar-ver-gratis-iptv-liga-campeones-2023-24-3113842.jpg?tf=1200x' alt='Así funciona el agresivo plan de la UEFA para evitar ver gratis por IPTV La Liga de Campeones 2023/24' />
     </a>
 </div>
 
