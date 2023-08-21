@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/funcion-secreta-alexa-protege-hogar-ladrones-1291954'>La función secreta de Alexa que protege tu hogar de los ladrones</a></h4>
-    <a href='https://computerhoy.com/amazon/funcion-secreta-alexa-protege-hogar-ladrones-1291954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funcion-secreta-alexa-te-ayuda-proteger-hogar-ladrones-3112244.jpg?tf=1200x' alt='La función secreta de Alexa que protege tu hogar de los ladrones' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazfit-gts-4-alternativa-apple-watch-android-muy-barata-1290560'>¿Debe temblar Apple? Este reloj cuesta menos de la mitad que el Apple Watch es compatible con Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazfit-gts-4-alternativa-apple-watch-android-muy-barata-1290560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazfit-gts-4-3109356.jpg?tf=1200x' alt='¿Debe temblar Apple? Este reloj cuesta menos de la mitad que el Apple Watch es compatible con Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ajuste-lograr-movil-android-ofrezca-mejor-sonido-1291900'>El sencillo ajuste para lograr que tu móvil Android ofrezca un mejor sonido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ajuste-lograr-movil-android-ofrezca-mejor-sonido-1291900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mejorar-sonido-android-3112144.jpg?tf=1200x' alt='El sencillo ajuste para lograr que tu móvil Android ofrezca un mejor sonido' />
+    <h4><a href='https://computerhoy.com/tecnologia/ya-mar-primer-barco-velas-eolicas-mundo-1292728'>Ya está en el mar el primer barco con velas eólicas del mundo que lucha contra el cambio climático</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-mar-primer-barco-velas-eolicas-mundo-1292728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/barco-velas-eolicas-3113250.jpg?tf=1200x' alt='Ya está en el mar el primer barco con velas eólicas del mundo que lucha contra el cambio climático' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/algunos-doctores-se-quitan-apendice-antes-ir-antartida-1292520'>Por qué algunos doctores se quitan el apéndice antes de ir a la Antártida</a></h4>
-    <a href='https://computerhoy.com/life/algunos-doctores-se-quitan-apendice-antes-ir-antartida-1292520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/algunos-doctores-quitan-apendice-antes-ir-antartida-3113046.jpg?tf=1200x' alt='Por qué algunos doctores se quitan el apéndice antes de ir a la Antártida' />
+    <h4><a href='https://computerhoy.com/mejores-ordenadores-gaming-baratos-1292516'>Mejores ordenadores gaming baratos que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/mejores-ordenadores-gaming-baratos-1292516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estos-ordenadores-sobremesa-gaming-son-baratos-perfectos-mejorarlos-futuro-2998382.jpg?tf=1200x' alt='Mejores ordenadores gaming baratos que puedes comprar en 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/tecla-pizza-tenian-algunos-pcs-90-1292518'>Para qué servía la tecla con forma de Pizza que tenían algunos PCs de los 90</a></h4>
-    <a href='https://computerhoy.com/pc/tecla-pizza-tenian-algunos-pcs-90-1292518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/servia-tecla-forma-pizza-tenian-algunos-pcs-90-3113028.jpg?tf=1200x' alt='Para qué servía la tecla con forma de Pizza que tenían algunos PCs de los 90' />
+    <h4><a href='https://computerhoy.com/moviles/china-dando-leccion-resto-mundo-moviles-plegables-1290646'>Los plegables siguen creciendo pero defraudan en el mercado internacional, que no logra seguir el ritmo a China</a></h4>
+    <a href='https://computerhoy.com/moviles/china-dando-leccion-resto-mundo-moviles-plegables-1290646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/china-plegables-3110674.jpg?tf=1200x' alt='Los plegables siguen creciendo pero defraudan en el mercado internacional, que no logra seguir el ritmo a China' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/desentierran-pompeya-como-era-vida-secreta-esclavos-1292514'>Desentierran en Pompeya los objetos que nos permiten saber cómo vivían los esclavos en Roma</a></h4>
-    <a href='https://computerhoy.com/ciencia/desentierran-pompeya-como-era-vida-secreta-esclavos-1292514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/desentierran-pompeya-objetos-nos-permiten-saber-como-vivian-esclavos-roma-3113024.jpg?tf=1200x' alt='Desentierran en Pompeya los objetos que nos permiten saber cómo vivían los esclavos en Roma' />
+    <h4><a href='https://computerhoy.com/apple/7-cosas-probablemente-no-sabias-siri-puede-hacer-1287614'>7 cosas que probablemente no sabías que Siri puede hacer</a></h4>
+    <a href='https://computerhoy.com/apple/7-cosas-probablemente-no-sabias-siri-puede-hacer-1287614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/7-cosas-puedes-hacer-siri-3112980.jpg?tf=1200x' alt='7 cosas que probablemente no sabías que Siri puede hacer' />
     </a>
 </div>
 
