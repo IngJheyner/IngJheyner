@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazfit-gts-4-alternativa-apple-watch-android-muy-barata-1290560'>¿Debe temblar Apple? Este reloj cuesta menos de la mitad que el Apple Watch es compatible con Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazfit-gts-4-alternativa-apple-watch-android-muy-barata-1290560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazfit-gts-4-3109356.jpg?tf=1200x' alt='¿Debe temblar Apple? Este reloj cuesta menos de la mitad que el Apple Watch es compatible con Android' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-estrena-nuevas-funciones-texto-mensajes-sean-personalizados-1292818'>WhatsApp estrena nuevas funciones de texto para que tus mensajes sean más personalizados</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-estrena-nuevas-funciones-texto-mensajes-sean-personalizados-1292818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/whatsapp-funciones-3113448.jpg?tf=1200x' alt='WhatsApp estrena nuevas funciones de texto para que tus mensajes sean más personalizados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-mar-primer-barco-velas-eolicas-mundo-1292728'>Ya está en el mar el primer barco con velas eólicas del mundo que lucha contra el cambio climático</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-mar-primer-barco-velas-eolicas-mundo-1292728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/barco-velas-eolicas-3113250.jpg?tf=1200x' alt='Ya está en el mar el primer barco con velas eólicas del mundo que lucha contra el cambio climático' />
+    <h4><a href='https://computerhoy.com/entretenimiento/laliga-telefonica-cierran-grifo-futbol-pirata-78-webs-afectadas-1292840'>LaLiga y Telefónica cierran el grifo al fútbol pirata: 78 webs afectadas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/laliga-telefonica-cierran-grifo-futbol-pirata-78-webs-afectadas-1292840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/como-ver-futbol-temporada-2019-2020-paquetes-ofertas-streaming_2.jpg?tf=1200x' alt='LaLiga y Telefónica cierran el grifo al fútbol pirata: 78 webs afectadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores-ordenadores-gaming-baratos-1292516'>Mejores ordenadores gaming baratos que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/mejores-ordenadores-gaming-baratos-1292516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estos-ordenadores-sobremesa-gaming-son-baratos-perfectos-mejorarlos-futuro-2998382.jpg?tf=1200x' alt='Mejores ordenadores gaming baratos que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/apple/apple-a19-bionic-sera-procesador-iphone-17-pro-1292806'>Apple A19 Bionic: así será el procesador de los iPhone 17 Pro</a></h4>
+    <a href='https://computerhoy.com/apple/apple-a19-bionic-sera-procesador-iphone-17-pro-1292806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/unboxing-apple-iphone-3099964.jpg?tf=1200x' alt='Apple A19 Bionic: así será el procesador de los iPhone 17 Pro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/china-dando-leccion-resto-mundo-moviles-plegables-1290646'>Los plegables siguen creciendo pero defraudan en el mercado internacional, que no logra seguir el ritmo a China</a></h4>
-    <a href='https://computerhoy.com/moviles/china-dando-leccion-resto-mundo-moviles-plegables-1290646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/china-plegables-3110674.jpg?tf=1200x' alt='Los plegables siguen creciendo pero defraudan en el mercado internacional, que no logra seguir el ritmo a China' />
+    <h4><a href='https://computerhoy.com/apps/grindr-uso-encontrar-trabajo-puro-estilo-linkedin-ya-realidad-1292780'>Grindr y su uso para encontrar trabajo al más puro estilo LinkedIn ya es una realidad</a></h4>
+    <a href='https://computerhoy.com/apps/grindr-uso-encontrar-trabajo-puro-estilo-linkedin-ya-realidad-1292780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/grindr-trabajo-3113370.jpg?tf=1200x' alt='Grindr y su uso para encontrar trabajo al más puro estilo LinkedIn ya es una realidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/7-cosas-probablemente-no-sabias-siri-puede-hacer-1287614'>7 cosas que probablemente no sabías que Siri puede hacer</a></h4>
-    <a href='https://computerhoy.com/apple/7-cosas-probablemente-no-sabias-siri-puede-hacer-1287614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/7-cosas-puedes-hacer-siri-3112980.jpg?tf=1200x' alt='7 cosas que probablemente no sabías que Siri puede hacer' />
+    <h4><a href='https://computerhoy.com/windows/todo-necesitas-saber-funcion-no-combinar-barra-tareas-windows-11-1292764'>Todo lo que necesitas saber sobre la función de no combinar en la barra de tareas de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/todo-necesitas-saber-funcion-no-combinar-barra-tareas-windows-11-1292764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Todo lo que necesitas saber sobre la función de no combinar en la barra de tareas de Windows 11' />
     </a>
 </div>
 
