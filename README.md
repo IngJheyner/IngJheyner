@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/trucos-sencillos-haran-wifi-funcione-rapido-instante-1284264'>Trucos muy sencillos que harán que el WiFi funcione más rápido al instante y que solo te llevarán unos segundos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/trucos-sencillos-haran-wifi-funcione-rapido-instante-1284264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/wifi-alta-velocidad-3113620.jpg?tf=1200x' alt='Trucos muy sencillos que harán que el WiFi funcione más rápido al instante y que solo te llevarán unos segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/honor-watch-4-pantalla-amoled-dos-semanas-bateria-1292906'>Honor Watch 4: pantalla AMOLED y hasta dos semanas de batería </a></h4>
+    <a href='https://computerhoy.com/tecnologia/honor-watch-4-pantalla-amoled-dos-semanas-bateria-1292906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/honor-watch-4-pantalla-amoled-120-hz-dos-semanas-bateria-3113524.jpg?tf=1200x' alt='Honor Watch 4: pantalla AMOLED y hasta dos semanas de batería ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-simplifica-cambio-movil-esim-funciona-nueva-herramienta-1292894'>Google simplifica el cambio de móvil con eSIM: así funciona su nueva herramienta</a></h4>
+    <a href='https://computerhoy.com/android/google-simplifica-cambio-movil-esim-funciona-nueva-herramienta-1292894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/esim-isim-2970348.jpg?tf=1200x' alt='Google simplifica el cambio de móvil con eSIM: así funciona su nueva herramienta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/significa-punto-verde-aparece-moviles-android-deberias-estar-pendiente-1292834'>Qué significa el punto verde que aparece en los móviles Android y por qué deberías estar pendiente de él</a></h4>
+    <a href='https://computerhoy.com/android/significa-punto-verde-aparece-moviles-android-deberias-estar-pendiente-1292834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/punto-verde-moviles-android-3113454.jpg?tf=1200x' alt='Qué significa el punto verde que aparece en los móviles Android y por qué deberías estar pendiente de él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-estrena-nuevas-funciones-texto-mensajes-sean-personalizados-1292818'>WhatsApp estrena nuevas funciones de texto para que tus mensajes sean más personalizados</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-estrena-nuevas-funciones-texto-mensajes-sean-personalizados-1292818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/whatsapp-funciones-3113448.jpg?tf=1200x' alt='WhatsApp estrena nuevas funciones de texto para que tus mensajes sean más personalizados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/laliga-telefonica-cierran-grifo-futbol-pirata-78-webs-afectadas-1292840'>LaLiga y Telefónica cierran el grifo al fútbol pirata: 78 webs afectadas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/laliga-telefonica-cierran-grifo-futbol-pirata-78-webs-afectadas-1292840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/como-ver-futbol-temporada-2019-2020-paquetes-ofertas-streaming_2.jpg?tf=1200x' alt='LaLiga y Telefónica cierran el grifo al fútbol pirata: 78 webs afectadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-a19-bionic-sera-procesador-iphone-17-pro-1292806'>Apple A19 Bionic: así será el procesador de los iPhone 17 Pro</a></h4>
-    <a href='https://computerhoy.com/apple/apple-a19-bionic-sera-procesador-iphone-17-pro-1292806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/unboxing-apple-iphone-3099964.jpg?tf=1200x' alt='Apple A19 Bionic: así será el procesador de los iPhone 17 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/grindr-uso-encontrar-trabajo-puro-estilo-linkedin-ya-realidad-1292780'>Grindr y su uso para encontrar trabajo al más puro estilo LinkedIn ya es una realidad</a></h4>
-    <a href='https://computerhoy.com/apps/grindr-uso-encontrar-trabajo-puro-estilo-linkedin-ya-realidad-1292780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/grindr-trabajo-3113370.jpg?tf=1200x' alt='Grindr y su uso para encontrar trabajo al más puro estilo LinkedIn ya es una realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/todo-necesitas-saber-funcion-no-combinar-barra-tareas-windows-11-1292764'>Todo lo que necesitas saber sobre la función de no combinar en la barra de tareas de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/todo-necesitas-saber-funcion-no-combinar-barra-tareas-windows-11-1292764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Todo lo que necesitas saber sobre la función de no combinar en la barra de tareas de Windows 11' />
     </a>
 </div>
 
