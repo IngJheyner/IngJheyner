@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/trucos-sencillos-haran-wifi-funcione-rapido-instante-1284264'>Trucos muy sencillos que harán que el WiFi funcione más rápido al instante y que solo te llevarán unos segundos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/trucos-sencillos-haran-wifi-funcione-rapido-instante-1284264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/wifi-alta-velocidad-3113620.jpg?tf=1200x' alt='Trucos muy sencillos que harán que el WiFi funcione más rápido al instante y que solo te llevarán unos segundos' />
+    <h4><a href='https://computerhoy.com/tutoriales/entiende-modo-puente-router-wifi-elemento-clave-impuesto-ley-1292154'>Entiende el modo puente de tu router WiFi: un elemento clave impuesto por ley</a></h4>
+    <a href='https://computerhoy.com/tutoriales/entiende-modo-puente-router-wifi-elemento-clave-impuesto-ley-1292154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/modo-puente-router-wifi-3113626.jpg?tf=1200x' alt='Entiende el modo puente de tu router WiFi: un elemento clave impuesto por ley' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/honor-watch-4-pantalla-amoled-dos-semanas-bateria-1292906'>Honor Watch 4: pantalla AMOLED y hasta dos semanas de batería </a></h4>
-    <a href='https://computerhoy.com/tecnologia/honor-watch-4-pantalla-amoled-dos-semanas-bateria-1292906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/honor-watch-4-pantalla-amoled-120-hz-dos-semanas-bateria-3113524.jpg?tf=1200x' alt='Honor Watch 4: pantalla AMOLED y hasta dos semanas de batería ' />
+    <h4><a href='https://computerhoy.com/moviles/movil-tiene-siempre-mala-cobertura-prueba-genial-truco-1292954'>¿Tu móvil tiene siempre mala cobertura? Prueba este genial truco</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-tiene-siempre-mala-cobertura-prueba-genial-truco-1292954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/movil-tiene-siempre-mala-cobertura-prueba-truco-3113752.jpg?tf=1200x' alt='¿Tu móvil tiene siempre mala cobertura? Prueba este genial truco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-simplifica-cambio-movil-esim-funciona-nueva-herramienta-1292894'>Google simplifica el cambio de móvil con eSIM: así funciona su nueva herramienta</a></h4>
-    <a href='https://computerhoy.com/android/google-simplifica-cambio-movil-esim-funciona-nueva-herramienta-1292894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/esim-isim-2970348.jpg?tf=1200x' alt='Google simplifica el cambio de móvil con eSIM: así funciona su nueva herramienta' />
+    <h4><a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280'>Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero</a></h4>
+    <a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-dell-mesa-escritorio-2790609.jpg?tf=1200x' alt='Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/significa-punto-verde-aparece-moviles-android-deberias-estar-pendiente-1292834'>Qué significa el punto verde que aparece en los móviles Android y por qué deberías estar pendiente de él</a></h4>
-    <a href='https://computerhoy.com/android/significa-punto-verde-aparece-moviles-android-deberias-estar-pendiente-1292834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/punto-verde-moviles-android-3113454.jpg?tf=1200x' alt='Qué significa el punto verde que aparece en los móviles Android y por qué deberías estar pendiente de él' />
+    <h4><a href='https://computerhoy.com/life/neat-como-puedes-quemar-calorias-hacer-ejercicio-1288824'>Qué es el NEAT y cómo puede ayudarte a quemar calorías sin hacer ejercicio</a></h4>
+    <a href='https://computerhoy.com/life/neat-como-puedes-quemar-calorias-hacer-ejercicio-1288824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/5-trucos-convencerte-ti-mismo-hagas-ejercicio-aunque-odies-2457063.jpg?tf=1200x' alt='Qué es el NEAT y cómo puede ayudarte a quemar calorías sin hacer ejercicio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-estrena-nuevas-funciones-texto-mensajes-sean-personalizados-1292818'>WhatsApp estrena nuevas funciones de texto para que tus mensajes sean más personalizados</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-estrena-nuevas-funciones-texto-mensajes-sean-personalizados-1292818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/whatsapp-funciones-3113448.jpg?tf=1200x' alt='WhatsApp estrena nuevas funciones de texto para que tus mensajes sean más personalizados' />
+    <h4><a href='https://computerhoy.com/life/ciudades-subterraneas-solucion-ser-humano-sobreviva-cambio-climatico-1292944'>Ciudades subterráneas: ¿la solución para que el ser humano sobreviva al cambio climático?</a></h4>
+    <a href='https://computerhoy.com/life/ciudades-subterraneas-solucion-ser-humano-sobreviva-cambio-climatico-1292944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ciudades-subterraneas-sobrevivir-cambio-climatico-3113724.jpg?tf=1200x' alt='Ciudades subterráneas: ¿la solución para que el ser humano sobreviva al cambio climático?' />
     </a>
 </div>
 
