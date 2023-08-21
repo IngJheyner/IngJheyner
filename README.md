@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/funcion-secreta-alexa-protege-hogar-ladrones-1291954'>La función secreta de Alexa que protege tu hogar de los ladrones</a></h4>
+    <a href='https://computerhoy.com/amazon/funcion-secreta-alexa-protege-hogar-ladrones-1291954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funcion-secreta-alexa-te-ayuda-proteger-hogar-ladrones-3112244.jpg?tf=1200x' alt='La función secreta de Alexa que protege tu hogar de los ladrones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ajuste-lograr-movil-android-ofrezca-mejor-sonido-1291900'>El sencillo ajuste para lograr que tu móvil Android ofrezca un mejor sonido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ajuste-lograr-movil-android-ofrezca-mejor-sonido-1291900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mejorar-sonido-android-3112144.jpg?tf=1200x' alt='El sencillo ajuste para lograr que tu móvil Android ofrezca un mejor sonido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/algunos-doctores-se-quitan-apendice-antes-ir-antartida-1292520'>Por qué algunos doctores se quitan el apéndice antes de ir a la Antártida</a></h4>
     <a href='https://computerhoy.com/life/algunos-doctores-se-quitan-apendice-antes-ir-antartida-1292520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/algunos-doctores-quitan-apendice-antes-ir-antartida-3113046.jpg?tf=1200x' alt='Por qué algunos doctores se quitan el apéndice antes de ir a la Antártida' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/desentierran-pompeya-como-era-vida-secreta-esclavos-1292514'>Desentierran en Pompeya los objetos que nos permiten saber cómo vivían los esclavos en Roma</a></h4>
     <a href='https://computerhoy.com/ciencia/desentierran-pompeya-como-era-vida-secreta-esclavos-1292514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/desentierran-pompeya-objetos-nos-permiten-saber-como-vivian-esclavos-roma-3113024.jpg?tf=1200x' alt='Desentierran en Pompeya los objetos que nos permiten saber cómo vivían los esclavos en Roma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-chollo-inteligencia-artificial-gpu-h100-1292510'>NVIDIA ha encontrado un chollo con la IA: gana un 1000% con cada GPU que vende</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-chollo-inteligencia-artificial-gpu-h100-1292510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nvidia-ha-encontrado-chollo-ia-gana-1000-cada-gpu-vende-3113002.jpg?tf=1200x' alt='NVIDIA ha encontrado un chollo con la IA: gana un 1000% con cada GPU que vende' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/wallpapers-fondos-pantalla-alucinantes-ios-17-ipados-17-1287624'>Wallpapers y fondos de pantalla alucinantes para iOS 17 y iPadOS 17</a></h4>
-    <a href='https://computerhoy.com/apple/wallpapers-fondos-pantalla-alucinantes-ios-17-ipados-17-1287624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2948946.jpg?tf=1200x' alt='Wallpapers y fondos de pantalla alucinantes para iOS 17 y iPadOS 17' />
     </a>
 </div>
 
