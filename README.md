@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/algunos-doctores-se-quitan-apendice-antes-ir-antartida-1292520'>Por qué algunos doctores se quitan el apéndice antes de ir a la Antártida</a></h4>
+    <a href='https://computerhoy.com/life/algunos-doctores-se-quitan-apendice-antes-ir-antartida-1292520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/algunos-doctores-quitan-apendice-antes-ir-antartida-3113046.jpg?tf=1200x' alt='Por qué algunos doctores se quitan el apéndice antes de ir a la Antártida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/tecla-pizza-tenian-algunos-pcs-90-1292518'>Para qué servía la tecla con forma de Pizza que tenían algunos PCs de los 90</a></h4>
+    <a href='https://computerhoy.com/pc/tecla-pizza-tenian-algunos-pcs-90-1292518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/servia-tecla-forma-pizza-tenian-algunos-pcs-90-3113028.jpg?tf=1200x' alt='Para qué servía la tecla con forma de Pizza que tenían algunos PCs de los 90' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/desentierran-pompeya-como-era-vida-secreta-esclavos-1292514'>Desentierran en Pompeya los objetos que nos permiten saber cómo vivían los esclavos en Roma</a></h4>
     <a href='https://computerhoy.com/ciencia/desentierran-pompeya-como-era-vida-secreta-esclavos-1292514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/desentierran-pompeya-objetos-nos-permiten-saber-como-vivian-esclavos-roma-3113024.jpg?tf=1200x' alt='Desentierran en Pompeya los objetos que nos permiten saber cómo vivían los esclavos en Roma' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/wallpapers-fondos-pantalla-alucinantes-ios-17-ipados-17-1287624'>Wallpapers y fondos de pantalla alucinantes para iOS 17 y iPadOS 17</a></h4>
     <a href='https://computerhoy.com/apple/wallpapers-fondos-pantalla-alucinantes-ios-17-ipados-17-1287624' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2948946.jpg?tf=1200x' alt='Wallpapers y fondos de pantalla alucinantes para iOS 17 y iPadOS 17' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nave-mision-rusa-luna-25-estrella-luna-1292500'>El rover de la misión rusa Luna-25 se estrella contra la Luna, oportunidad para la India</a></h4>
-    <a href='https://computerhoy.com/espacio/nave-mision-rusa-luna-25-estrella-luna-1292500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/polo-sur-luna-3082888.jpg?tf=1200x' alt='El rover de la misión rusa Luna-25 se estrella contra la Luna, oportunidad para la India' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-desactivar-siri-iphone-ipad-apple-watch-1287608'>Cómo desactivar Siri en tu iPhone, iPad y Apple Watch </a></h4>
-    <a href='https://computerhoy.com/apple/como-desactivar-siri-iphone-ipad-apple-watch-1287608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/siri-apple-2319627.jpg?tf=1200x' alt='Cómo desactivar Siri en tu iPhone, iPad y Apple Watch ' />
     </a>
 </div>
 
