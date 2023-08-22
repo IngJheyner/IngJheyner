@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/trabajadores-deberan-aprender-nuevas-habilidades-inteligencia-artificial-ibm-1293270'>IBM asegura que el 40% de los trabajadores tendrán que aprender nuevas habilidades los próximos 3 años, debido a la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trabajadores-deberan-aprender-nuevas-habilidades-inteligencia-artificial-ibm-1293270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ibm-asegura-40-trabajadores-tendran-aprender-nuevas-habilidades-proximos-3-anos-debido-ia-3113984.jpg?tf=1200x' alt='IBM asegura que el 40% de los trabajadores tendrán que aprender nuevas habilidades los próximos 3 años, debido a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dyson-v15-detect-oferta-1291720'>Si siempre quisiste una Dyson, su mejor aspiradora inalámbrica es ahora 110 euros más barata</a></h4>
     <a href='https://computerhoy.com/tecnologia/dyson-v15-detect-oferta-1291720' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aspiradora-mano-cables-dyson-v15-detect-absolute-2865003.jpg?tf=1200x' alt='Si siempre quisiste una Dyson, su mejor aspiradora inalámbrica es ahora 110 euros más barata' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/curiosa-filosofia-bill-gates-cuando-iba-colegio-cuanto-menos-esfuerzo-hacias-genial-eras-1293032'>La curiosa filosofía de Bill Gates cuando iba al colegio: “cuanto menos esfuerzo hacías, más genial eras”</a></h4>
     <a href='https://computerhoy.com/life/curiosa-filosofia-bill-gates-cuando-iba-colegio-cuanto-menos-esfuerzo-hacias-genial-eras-1293032' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='La curiosa filosofía de Bill Gates cuando iba al colegio: “cuanto menos esfuerzo hacías, más genial eras”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/plan-uefa-evitar-pirateria-iptv-liga-campeones-1292996'>Así funciona el agresivo plan de la UEFA para evitar ver gratis por IPTV La Liga de Campeones 2023/24</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/plan-uefa-evitar-pirateria-iptv-liga-campeones-1292996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funciona-agresivo-plan-uefa-evitar-ver-gratis-iptv-liga-campeones-2023-24-3113842.jpg?tf=1200x' alt='Así funciona el agresivo plan de la UEFA para evitar ver gratis por IPTV La Liga de Campeones 2023/24' />
     </a>
 </div>
 
