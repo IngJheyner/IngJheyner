@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-deshabilitar-face-id-apple-pay-iphone-casos-emergencia-1292992'>Cómo deshabilitar en segundos Face ID y Apple Pay en un iPhone para casos de emergencia</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-deshabilitar-face-id-apple-pay-iphone-casos-emergencia-1292992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/desbloqueo-pantalla-iphone-3113876.jpg?tf=1200x' alt='Cómo deshabilitar en segundos Face ID y Apple Pay en un iPhone para casos de emergencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/orden-padezcas-estas-enfermedades-determina-esperanza-vida-1293522'>El orden en el que padezcas estas enfermedades determina tu esperanza de vida</a></h4>
+    <a href='https://computerhoy.com/life/orden-padezcas-estas-enfermedades-determina-esperanza-vida-1293522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/virus-3114838.jpg?tf=1200x' alt='El orden en el que padezcas estas enfermedades determina tu esperanza de vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-quien-tiene-acceso-archivos-google-drive-1290120'>Cómo saber quién tiene acceso a tus archivos de Google Drive</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-quien-tiene-acceso-archivos-google-drive-1290120' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-drive-3108744.jpg?tf=1200x' alt='Cómo saber quién tiene acceso a tus archivos de Google Drive' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nvidia-mejora-rendimiento-rtx-4000-dlss-35-raytracing-reconstruction-1293286'>NVIDIA mejora el rendimiento de sus RTX 4000 con DLSS 3.5 y RayTracing Reconstruction</a></h4>
     <a href='https://computerhoy.com/tecnologia/nvidia-mejora-rendimiento-rtx-4000-dlss-35-raytracing-reconstruction-1293286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dlss-3114252.jpg?tf=1200x' alt='NVIDIA mejora el rendimiento de sus RTX 4000 con DLSS 3.5 y RayTracing Reconstruction' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-extensiones-tienes-instaladas-chrome-contienen-malware-1293056'>Cómo comprobar si las extensiones que tienes instaladas en Chrome contienen malware o son peligrosas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-comprobar-extensiones-tienes-instaladas-chrome-contienen-malware-1293056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-chrome-3113980.jpg?tf=1200x' alt='Cómo comprobar si las extensiones que tienes instaladas en Chrome contienen malware o son peligrosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-lanza-herramienta-detectar-malware-preinstalado-moviles-android-1293420'>Google lanza una herramienta para detectar 'malware' preinstalado en móviles Android    </a></h4>
-    <a href='https://computerhoy.com/android/google-lanza-herramienta-detectar-malware-preinstalado-moviles-android-1293420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-android-3114620.jpg?tf=1200x' alt='Google lanza una herramienta para detectar 'malware' preinstalado en móviles Android    ' />
     </a>
 </div>
 
