@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/realmente-posible-ganar-dinero-chatgpt-pero-no-forma-imaginas-1293290'>¿Es realmente posible ganar dinero con ChatGPT? Sí, pero no de la forma que imaginas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/realmente-posible-ganar-dinero-chatgpt-pero-no-forma-imaginas-1293290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-dinero-3114262.jpg?tf=1200x' alt='¿Es realmente posible ganar dinero con ChatGPT? Sí, pero no de la forma que imaginas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/futuro-plataformas-streaming-1290630'>25 aniversario de Computer Hoy: El futuro de las plataformas de streaming se parece cada vez más a la vieja TV</a></h4>
+    <a href='https://computerhoy.com/industria/futuro-plataformas-streaming-1290630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/televisor-antiguo-logos-plataformas-streaming-3111716.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: El futuro de las plataformas de streaming se parece cada vez más a la vieja TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/trabajadores-deberan-aprender-nuevas-habilidades-inteligencia-artificial-ibm-1293270'>IBM asegura que el 40% de los trabajadores tendrán que aprender nuevas habilidades los próximos 3 años, debido a la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/trabajadores-deberan-aprender-nuevas-habilidades-inteligencia-artificial-ibm-1293270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ibm-asegura-40-trabajadores-tendran-aprender-nuevas-habilidades-proximos-3-anos-debido-ia-3113984.jpg?tf=1200x' alt='IBM asegura que el 40% de los trabajadores tendrán que aprender nuevas habilidades los próximos 3 años, debido a la IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/disney-anuncia-lanzamiento-series-blu-ray-4k-1293048'>Disney rectifica y anuncia el lanzamiento de The Mandalorian y otras series en formato físico</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-anuncia-lanzamiento-series-blu-ray-4k-1293048' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/disney-rectifica-anuncia-lanzamiento-series-formato-fisico-3113918.jpg?tf=1200x' alt='Disney rectifica y anuncia el lanzamiento de The Mandalorian y otras series en formato físico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-corrige-error-discos-ssd-windows-11-traia-cabeza-millones-usuarios-1293038'>Microsoft corrige el error de los discos SSD en Windows 11 que traía de cabeza a millones de usuarios</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-corrige-error-discos-ssd-windows-11-traia-cabeza-millones-usuarios-1293038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2870243.jpg?tf=1200x' alt='Microsoft corrige el error de los discos SSD en Windows 11 que traía de cabeza a millones de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/curiosa-filosofia-bill-gates-cuando-iba-colegio-cuanto-menos-esfuerzo-hacias-genial-eras-1293032'>La curiosa filosofía de Bill Gates cuando iba al colegio: “cuanto menos esfuerzo hacías, más genial eras”</a></h4>
-    <a href='https://computerhoy.com/life/curiosa-filosofia-bill-gates-cuando-iba-colegio-cuanto-menos-esfuerzo-hacias-genial-eras-1293032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='La curiosa filosofía de Bill Gates cuando iba al colegio: “cuanto menos esfuerzo hacías, más genial eras”' />
     </a>
 </div>
 
