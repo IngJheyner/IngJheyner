@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-deshabilitar-face-id-apple-pay-iphone-casos-emergencia-1292992'>Cómo deshabilitar en segundos Face ID y Apple Pay en un iPhone para casos de emergencia</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-deshabilitar-face-id-apple-pay-iphone-casos-emergencia-1292992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/desbloqueo-pantalla-iphone-3113876.jpg?tf=1200x' alt='Cómo deshabilitar en segundos Face ID y Apple Pay en un iPhone para casos de emergencia' />
+    <h4><a href='https://computerhoy.com/alimentacion/cientificos-desvelan-dieta-sonada-permite-comer-todo-engordar-1293606'>La dieta soñada que te permite comer de todo sin engordar y que recomiendan los científicos</a></h4>
+    <a href='https://computerhoy.com/alimentacion/cientificos-desvelan-dieta-sonada-permite-comer-todo-engordar-1293606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dieta-3115030.jpg?tf=1200x' alt='La dieta soñada que te permite comer de todo sin engordar y que recomiendan los científicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/orden-padezcas-estas-enfermedades-determina-esperanza-vida-1293522'>El orden en el que padezcas estas enfermedades determina tu esperanza de vida</a></h4>
-    <a href='https://computerhoy.com/life/orden-padezcas-estas-enfermedades-determina-esperanza-vida-1293522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/virus-3114838.jpg?tf=1200x' alt='El orden en el que padezcas estas enfermedades determina tu esperanza de vida' />
+    <h4><a href='https://computerhoy.com/internet/meta-activa-medidas-transparencia-privacidad-union-europea-obliga-implantar-1293596'>Meta se rinde a las exigencias de la UE y ya aplica las medidas de transparencia y privacidad de la Ley de Servicios Digitales</a></h4>
+    <a href='https://computerhoy.com/internet/meta-activa-medidas-transparencia-privacidad-union-europea-obliga-implantar-1293596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/meta-rinde-exigencias-ue-anuncia-medidas-transparencia-privacidad-va-implantar-3114982.jpg?tf=1200x' alt='Meta se rinde a las exigencias de la UE y ya aplica las medidas de transparencia y privacidad de la Ley de Servicios Digitales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-quien-tiene-acceso-archivos-google-drive-1290120'>Cómo saber quién tiene acceso a tus archivos de Google Drive</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-quien-tiene-acceso-archivos-google-drive-1290120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-drive-3108744.jpg?tf=1200x' alt='Cómo saber quién tiene acceso a tus archivos de Google Drive' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-no-hay-conexion-internet-tiktok-1293058'>Cómo solucionar el error "no hay conexión a Internet" de TikTok</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-no-hay-conexion-internet-tiktok-1293058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mujer-viendo-tiktok-manos-encadenadas-3114772.jpg?tf=1200x' alt='Cómo solucionar el error "no hay conexión a Internet" de TikTok' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/comienza-mayor-busqueda-monstruo-lago-ness-50-anos-1293500'>Comienza la mayor búsqueda del Monstruo del Lago Ness en 50 años, con drones e hidrófonos </a></h4>
-    <a href='https://computerhoy.com/life/comienza-mayor-busqueda-monstruo-lago-ness-50-anos-1293500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pone-marcha-mayor-busqueda-monstruo-lago-ness-50-anos-3114726.jpg?tf=1200x' alt='Comienza la mayor búsqueda del Monstruo del Lago Ness en 50 años, con drones e hidrófonos ' />
+    <h4><a href='https://computerhoy.com/windows/lenguaje-programacion-python-llega-excel-1293548'>El lenguaje de programación Python llega a Excel</a></h4>
+    <a href='https://computerhoy.com/windows/lenguaje-programacion-python-llega-excel-1293548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lenguaje-programacion-python-llega-excel-3114882.jpg?tf=1200x' alt='El lenguaje de programación Python llega a Excel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-mejora-rendimiento-rtx-4000-dlss-35-raytracing-reconstruction-1293286'>NVIDIA mejora el rendimiento de sus RTX 4000 con DLSS 3.5 y RayTracing Reconstruction</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-mejora-rendimiento-rtx-4000-dlss-35-raytracing-reconstruction-1293286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dlss-3114252.jpg?tf=1200x' alt='NVIDIA mejora el rendimiento de sus RTX 4000 con DLSS 3.5 y RayTracing Reconstruction' />
+    <h4><a href='https://computerhoy.com/tv/funcion-oculta-netflix-cualquier-smart-tv-vea-mejor-1293268'>La desconocida función oculta de Netflix para que cualquier Smart TV se vea mucho mejor</a></h4>
+    <a href='https://computerhoy.com/tv/funcion-oculta-netflix-cualquier-smart-tv-vea-mejor-1293268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mejorar-calidad-imagen-smart-tv-netflix-3114202.jpg?tf=1200x' alt='La desconocida función oculta de Netflix para que cualquier Smart TV se vea mucho mejor' />
     </a>
 </div>
 
