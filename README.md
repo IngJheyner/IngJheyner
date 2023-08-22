@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/como-ver-gratis-mundial-baloncesto-2023-1293640'>Dónde ver gratis el Mundial de Baloncesto 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/como-ver-gratis-mundial-baloncesto-2023-1293640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-ver-gratis-mundial-baloncesto-2023-3115098.jpg?tf=1200x' alt='Dónde ver gratis el Mundial de Baloncesto 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cuanta-agua-necesitas-beber-realmente-1293576'>¿Cuánta agua necesitas beber realmente?</a></h4>
+    <a href='https://computerhoy.com/life/cuanta-agua-necesitas-beber-realmente-1293576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cuanta-agua-necesitas-beber-realmente-3114952.jpg?tf=1200x' alt='¿Cuánta agua necesitas beber realmente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pulsera-xiaomi-sorprendentemente-barata-mi-band-1292832'>Esta desconocida pulsera de Xiaomi es más barata que la Mi Band y tiene dos semanas de batería</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pulsera-xiaomi-sorprendentemente-barata-mi-band-1292832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-smart-band-2-analisis-opinion-2990216.jpg?tf=1200x' alt='Esta desconocida pulsera de Xiaomi es más barata que la Mi Band y tiene dos semanas de batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/contrabandistas-cazados-125000-euros-procesadores-intel-escondidos-motor-autobus-1293608'>Las aduanas chinas interceptan más de 125.000 euros en procesadores Intel escondidos en el motor de un autobús</a></h4>
+    <a href='https://computerhoy.com/life/contrabandistas-cazados-125000-euros-procesadores-intel-escondidos-motor-autobus-1293608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/contrabandistas-cazados-125000-euros-procesadores-intel-escondidos-motor-autobus-3115042.jpg?tf=1200x' alt='Las aduanas chinas interceptan más de 125.000 euros en procesadores Intel escondidos en el motor de un autobús' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/cientificos-desvelan-dieta-sonada-permite-comer-todo-engordar-1293606'>La dieta soñada que te permite comer de todo sin engordar y que recomiendan los científicos</a></h4>
     <a href='https://computerhoy.com/alimentacion/cientificos-desvelan-dieta-sonada-permite-comer-todo-engordar-1293606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dieta-3115030.jpg?tf=1200x' alt='La dieta soñada que te permite comer de todo sin engordar y que recomiendan los científicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/meta-activa-medidas-transparencia-privacidad-union-europea-obliga-implantar-1293596'>Meta se rinde a las exigencias de la UE y ya aplica las medidas de transparencia y privacidad de la Ley de Servicios Digitales</a></h4>
-    <a href='https://computerhoy.com/internet/meta-activa-medidas-transparencia-privacidad-union-europea-obliga-implantar-1293596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/meta-rinde-exigencias-ue-anuncia-medidas-transparencia-privacidad-va-implantar-3114982.jpg?tf=1200x' alt='Meta se rinde a las exigencias de la UE y ya aplica las medidas de transparencia y privacidad de la Ley de Servicios Digitales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-no-hay-conexion-internet-tiktok-1293058'>Cómo solucionar el error "no hay conexión a Internet" de TikTok</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-no-hay-conexion-internet-tiktok-1293058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mujer-viendo-tiktok-manos-encadenadas-3114772.jpg?tf=1200x' alt='Cómo solucionar el error "no hay conexión a Internet" de TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/lenguaje-programacion-python-llega-excel-1293548'>El lenguaje de programación Python llega a Excel</a></h4>
-    <a href='https://computerhoy.com/windows/lenguaje-programacion-python-llega-excel-1293548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lenguaje-programacion-python-llega-excel-3114882.jpg?tf=1200x' alt='El lenguaje de programación Python llega a Excel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/funcion-oculta-netflix-cualquier-smart-tv-vea-mejor-1293268'>La desconocida función oculta de Netflix para que cualquier Smart TV se vea mucho mejor</a></h4>
-    <a href='https://computerhoy.com/tv/funcion-oculta-netflix-cualquier-smart-tv-vea-mejor-1293268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mejorar-calidad-imagen-smart-tv-netflix-3114202.jpg?tf=1200x' alt='La desconocida función oculta de Netflix para que cualquier Smart TV se vea mucho mejor' />
     </a>
 </div>
 
