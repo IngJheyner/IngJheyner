@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/realmente-posible-ganar-dinero-chatgpt-pero-no-forma-imaginas-1293290'>¿Es realmente posible ganar dinero con ChatGPT? Sí, pero no de la forma que imaginas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/realmente-posible-ganar-dinero-chatgpt-pero-no-forma-imaginas-1293290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-dinero-3114262.jpg?tf=1200x' alt='¿Es realmente posible ganar dinero con ChatGPT? Sí, pero no de la forma que imaginas' />
+    <h4><a href='https://computerhoy.com/criptos/token-peta-shiba-inu-quema-850-favorito-ballenas-ethereum-1293412'>Shiba Inu quema un 850% en un día y es el favorito de las ballenas de Ethereum</a></h4>
+    <a href='https://computerhoy.com/criptos/token-peta-shiba-inu-quema-850-favorito-ballenas-ethereum-1293412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/shiba-inu-2610337.jpg?tf=1200x' alt='Shiba Inu quema un 850% en un día y es el favorito de las ballenas de Ethereum' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/futuro-plataformas-streaming-1290630'>25 aniversario de Computer Hoy: El futuro de las plataformas de streaming se parece cada vez más a la vieja TV</a></h4>
-    <a href='https://computerhoy.com/industria/futuro-plataformas-streaming-1290630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/televisor-antiguo-logos-plataformas-streaming-3111716.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: El futuro de las plataformas de streaming se parece cada vez más a la vieja TV' />
+    <h4><a href='https://computerhoy.com/life/museo-britanico-pierde-forma-misteriosa-casi-2000-objetos-valor-millones-libras-1293358'>El Museo Británico pierde de forma misteriosa casi 2.000 objetos por valor de millones de libras</a></h4>
+    <a href='https://computerhoy.com/life/museo-britanico-pierde-forma-misteriosa-casi-2000-objetos-valor-millones-libras-1293358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/museo-britanico-3114478.jpg?tf=1200x' alt='El Museo Británico pierde de forma misteriosa casi 2.000 objetos por valor de millones de libras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trabajadores-deberan-aprender-nuevas-habilidades-inteligencia-artificial-ibm-1293270'>IBM asegura que el 40% de los trabajadores tendrán que aprender nuevas habilidades los próximos 3 años, debido a la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trabajadores-deberan-aprender-nuevas-habilidades-inteligencia-artificial-ibm-1293270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ibm-asegura-40-trabajadores-tendran-aprender-nuevas-habilidades-proximos-3-anos-debido-ia-3113984.jpg?tf=1200x' alt='IBM asegura que el 40% de los trabajadores tendrán que aprender nuevas habilidades los próximos 3 años, debido a la IA' />
+    <h4><a href='https://computerhoy.com/apple/ios-17-llegaria-sorpresas-estas-son-funciones-no-podras-usar-primer-dia-1293344'>iOS 17 llegaría con sorpresas: estas son las funciones que no podrás usar el primer día</a></h4>
+    <a href='https://computerhoy.com/apple/ios-17-llegaria-sorpresas-estas-son-funciones-no-podras-usar-primer-dia-1293344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/como-descargar-instalar-primera-beta-ios-17-3083240.jpg?tf=1200x' alt='iOS 17 llegaría con sorpresas: estas son las funciones que no podrás usar el primer día' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dyson-v15-detect-oferta-1291720'>Si siempre quisiste una Dyson, su mejor aspiradora inalámbrica es ahora 110 euros más barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dyson-v15-detect-oferta-1291720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aspiradora-mano-cables-dyson-v15-detect-absolute-2865003.jpg?tf=1200x' alt='Si siempre quisiste una Dyson, su mejor aspiradora inalámbrica es ahora 110 euros más barata' />
+    <h4><a href='https://computerhoy.com/life/tragedia-k2-muerte-porteador-100-escaladores-pasando-encima-cuerpo-1293318'>Tragedia en el K2: la muerte de un porteador y más de 100 escaladores pasando por encima de su cuerpo</a></h4>
+    <a href='https://computerhoy.com/life/tragedia-k2-muerte-porteador-100-escaladores-pasando-encima-cuerpo-1293318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/k2-montana-3114308.jpg?tf=1200x' alt='Tragedia en el K2: la muerte de un porteador y más de 100 escaladores pasando por encima de su cuerpo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-anuncia-lanzamiento-series-blu-ray-4k-1293048'>Disney rectifica y anuncia el lanzamiento de The Mandalorian y otras series en formato físico</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-anuncia-lanzamiento-series-blu-ray-4k-1293048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/disney-rectifica-anuncia-lanzamiento-series-formato-fisico-3113918.jpg?tf=1200x' alt='Disney rectifica y anuncia el lanzamiento de The Mandalorian y otras series en formato físico' />
+    <h4><a href='https://computerhoy.com/tecnologia/oferta-google-pixel-7a-cupon-descuento-aliexpress-1293340'>El móvil barato de Google que todos buscan tiene su primera oferta realmente importante: ya se acerca a los 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oferta-google-pixel-7a-cupon-descuento-aliexpress-1293340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029780.jpg?tf=1200x' alt='El móvil barato de Google que todos buscan tiene su primera oferta realmente importante: ya se acerca a los 300 euros' />
     </a>
 </div>
 
