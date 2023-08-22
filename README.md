@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/token-peta-shiba-inu-quema-850-favorito-ballenas-ethereum-1293412'>Shiba Inu quema un 850% en un día y es el favorito de las ballenas de Ethereum</a></h4>
-    <a href='https://computerhoy.com/criptos/token-peta-shiba-inu-quema-850-favorito-ballenas-ethereum-1293412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/shiba-inu-2610337.jpg?tf=1200x' alt='Shiba Inu quema un 850% en un día y es el favorito de las ballenas de Ethereum' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-quien-tiene-acceso-archivos-google-drive-1290120'>Cómo saber quién tiene acceso a tus archivos de Google Drive</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-quien-tiene-acceso-archivos-google-drive-1290120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-drive-3108744.jpg?tf=1200x' alt='Cómo saber quién tiene acceso a tus archivos de Google Drive' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/museo-britanico-pierde-forma-misteriosa-casi-2000-objetos-valor-millones-libras-1293358'>El Museo Británico pierde de forma misteriosa casi 2.000 objetos por valor de millones de libras</a></h4>
-    <a href='https://computerhoy.com/life/museo-britanico-pierde-forma-misteriosa-casi-2000-objetos-valor-millones-libras-1293358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/museo-britanico-3114478.jpg?tf=1200x' alt='El Museo Británico pierde de forma misteriosa casi 2.000 objetos por valor de millones de libras' />
+    <h4><a href='https://computerhoy.com/life/comienza-mayor-busqueda-monstruo-lago-ness-50-anos-1293500'>Comienza la mayor búsqueda del Monstruo del Lago Ness en 50 años, con drones e hidrófonos </a></h4>
+    <a href='https://computerhoy.com/life/comienza-mayor-busqueda-monstruo-lago-ness-50-anos-1293500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pone-marcha-mayor-busqueda-monstruo-lago-ness-50-anos-3114726.jpg?tf=1200x' alt='Comienza la mayor búsqueda del Monstruo del Lago Ness en 50 años, con drones e hidrófonos ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ios-17-llegaria-sorpresas-estas-son-funciones-no-podras-usar-primer-dia-1293344'>iOS 17 llegaría con sorpresas: estas son las funciones que no podrás usar el primer día</a></h4>
-    <a href='https://computerhoy.com/apple/ios-17-llegaria-sorpresas-estas-son-funciones-no-podras-usar-primer-dia-1293344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/como-descargar-instalar-primera-beta-ios-17-3083240.jpg?tf=1200x' alt='iOS 17 llegaría con sorpresas: estas son las funciones que no podrás usar el primer día' />
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-mejora-rendimiento-rtx-4000-dlss-35-raytracing-reconstruction-1293286'>NVIDIA mejora el rendimiento de sus RTX 4000 con DLSS 3.5 y RayTracing Reconstruction</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-mejora-rendimiento-rtx-4000-dlss-35-raytracing-reconstruction-1293286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dlss-3114252.jpg?tf=1200x' alt='NVIDIA mejora el rendimiento de sus RTX 4000 con DLSS 3.5 y RayTracing Reconstruction' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tragedia-k2-muerte-porteador-100-escaladores-pasando-encima-cuerpo-1293318'>Tragedia en el K2: la muerte de un porteador y más de 100 escaladores pasando por encima de su cuerpo</a></h4>
-    <a href='https://computerhoy.com/life/tragedia-k2-muerte-porteador-100-escaladores-pasando-encima-cuerpo-1293318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/k2-montana-3114308.jpg?tf=1200x' alt='Tragedia en el K2: la muerte de un porteador y más de 100 escaladores pasando por encima de su cuerpo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-extensiones-tienes-instaladas-chrome-contienen-malware-1293056'>Cómo comprobar si las extensiones que tienes instaladas en Chrome contienen malware o son peligrosas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-comprobar-extensiones-tienes-instaladas-chrome-contienen-malware-1293056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-chrome-3113980.jpg?tf=1200x' alt='Cómo comprobar si las extensiones que tienes instaladas en Chrome contienen malware o son peligrosas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oferta-google-pixel-7a-cupon-descuento-aliexpress-1293340'>El móvil barato de Google que todos buscan tiene su primera oferta realmente importante: ya se acerca a los 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oferta-google-pixel-7a-cupon-descuento-aliexpress-1293340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029780.jpg?tf=1200x' alt='El móvil barato de Google que todos buscan tiene su primera oferta realmente importante: ya se acerca a los 300 euros' />
+    <h4><a href='https://computerhoy.com/android/google-lanza-herramienta-detectar-malware-preinstalado-moviles-android-1293420'>Google lanza una herramienta para detectar 'malware' preinstalado en móviles Android    </a></h4>
+    <a href='https://computerhoy.com/android/google-lanza-herramienta-detectar-malware-preinstalado-moviles-android-1293420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-android-3114620.jpg?tf=1200x' alt='Google lanza una herramienta para detectar 'malware' preinstalado en móviles Android    ' />
     </a>
 </div>
 
