@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cual-siguiente-paso-despues-computacion-cuantica-1293882'>¿Cuál es el siguiente paso después de la computación cuántica?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cual-siguiente-paso-despues-computacion-cuantica-1293882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ordenador-cuantico-3115932.jpg?tf=1200x' alt='¿Cuál es el siguiente paso después de la computación cuántica?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/frasier-2023-primeras-imagenes-fecha-estreno-1294230'>Primeras imágenes y fecha de estreno de la nueva serie Frasier, que regresa 30 años después</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/frasier-2023-primeras-imagenes-fecha-estreno-1294230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/primeras-imagenes-nueva-serie-frasier-regresa-30-anos-despues-3116194.jpg?tf=1200x' alt='Primeras imágenes y fecha de estreno de la nueva serie Frasier, que regresa 30 años después' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mini-casa-cuesta-mismo-coche-construye-dia-1294158'>Esta minicasa cuesta lo mismo que un coche y no adivinarás de qué está fabricada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mini-casa-cuesta-mismo-coche-construye-dia-1294158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1692804739695-3116044.jpg?tf=1200x' alt='Esta minicasa cuesta lo mismo que un coche y no adivinarás de qué está fabricada' />
+    <h4><a href='https://computerhoy.com/alimentacion/expertos-comparten-mejores-recetas-hacer-sangria-perfecta-1294218'>Expertos en vino internacionales dicen que esta es la receta de la sangría perfecta y lo comparan con hacer sopa</a></h4>
+    <a href='https://computerhoy.com/alimentacion/expertos-comparten-mejores-recetas-hacer-sangria-perfecta-1294218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/sangria-3116192.jpg?tf=1200x' alt='Expertos en vino internacionales dicen que esta es la receta de la sangría perfecta y lo comparan con hacer sopa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/sencillo-truco-google-maps-te-ayudara-no-perderte-jamas-1293646'>El sencillo truco de Google Maps que te ayudará a no perderte jamás</a></h4>
-    <a href='https://computerhoy.com/google/sencillo-truco-google-maps-te-ayudara-no-perderte-jamas-1293646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pareja-perdida-consultando-mapa-3115886.jpg?tf=1200x' alt='El sencillo truco de Google Maps que te ayudará a no perderte jamás' />
+    <h4><a href='https://computerhoy.com/energia/leroy-merlin-lanza-kit-paneles-solares-autoinstalables-1294200'>Leroy Merlin lanza kits de paneles solares sin instalación: enchufar y listos</a></h4>
+    <a href='https://computerhoy.com/energia/leroy-merlin-lanza-kit-paneles-solares-autoinstalables-1294200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/leroy-merlin-lanza-kit-paneles-solares-autoinstalables-varias-potencias-3116136.jpg?tf=1200x' alt='Leroy Merlin lanza kits de paneles solares sin instalación: enchufar y listos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bill-gates-revela-4-estrategias-clave-aumentar-autoconfianza-lograr-exito-1289842'>Bill Gates revela sus 4 estrategias clave para aumentar la autoconfianza y lograr el éxito</a></h4>
-    <a href='https://computerhoy.com/life/bill-gates-revela-4-estrategias-clave-aumentar-autoconfianza-lograr-exito-1289842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bill-gates-2829387.jpg?tf=1200x' alt='Bill Gates revela sus 4 estrategias clave para aumentar la autoconfianza y lograr el éxito' />
+    <h4><a href='https://computerhoy.com/life/predicen-gran-extincion-ser-humano-mayor-dinosaurios-mismo-siglo-1294212'>Cerca de suceder una gran extinción del ser humano y mayor que la de los dinosaurios</a></h4>
+    <a href='https://computerhoy.com/life/predicen-gran-extincion-ser-humano-mayor-dinosaurios-mismo-siglo-1294212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/predicen-gran-extincion-ser-humano-mayor-dinosaurios-mismo-siglo-3116186.jpg?tf=1200x' alt='Cerca de suceder una gran extinción del ser humano y mayor que la de los dinosaurios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/funciones-podria-copiar-android-iphone-1294132'>¿Qué funciones podría copiar Android de iPhone?</a></h4>
-    <a href='https://computerhoy.com/moviles/funciones-podria-copiar-android-iphone-1294132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/espiar-movil-otra-persona-3115976.jpg?tf=1200x' alt='¿Qué funciones podría copiar Android de iPhone?' />
+    <h4><a href='https://computerhoy.com/life/encuentra-caja-fondo-charca-buscando-anillo-1294192'>Como en una película de terror: encuentra una caja misteriosa en el fondo de una charca buscando el anillo de su amiga</a></h4>
+    <a href='https://computerhoy.com/life/encuentra-caja-fondo-charca-buscando-anillo-1294192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/encuentra-misteriosa-caja-buceando-3116124.jpg?tf=1200x' alt='Como en una película de terror: encuentra una caja misteriosa en el fondo de una charca buscando el anillo de su amiga' />
     </a>
 </div>
 
