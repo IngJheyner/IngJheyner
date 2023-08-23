@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/encuentran-bosque-primitivo-especies-desconocidas-cueva-china-1293648'>Hallan un bosque primitivo en China dentro de un agujero a casi 200 metros de profundidad, podría albergar especies desconocidas</a></h4>
+    <a href='https://computerhoy.com/life/encuentran-bosque-primitivo-especies-desconocidas-cueva-china-1293648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/encuentran-bosque-primitivo-agujero-290-metros-profundidad-podria-albergar-especies-desconocidas-3115134.jpg?tf=1200x' alt='Hallan un bosque primitivo en China dentro de un agujero a casi 200 metros de profundidad, podría albergar especies desconocidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/como-ver-gratis-mundial-baloncesto-2023-1293640'>Dónde ver gratis el Mundial de Baloncesto 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/como-ver-gratis-mundial-baloncesto-2023-1293640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-ver-gratis-mundial-baloncesto-2023-3115098.jpg?tf=1200x' alt='Dónde ver gratis el Mundial de Baloncesto 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/contrabandistas-cazados-125000-euros-procesadores-intel-escondidos-motor-autobus-1293608'>Las aduanas chinas interceptan más de 125.000 euros en procesadores Intel escondidos en el motor de un autobús</a></h4>
     <a href='https://computerhoy.com/life/contrabandistas-cazados-125000-euros-procesadores-intel-escondidos-motor-autobus-1293608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/contrabandistas-cazados-125000-euros-procesadores-intel-escondidos-motor-autobus-3115042.jpg?tf=1200x' alt='Las aduanas chinas interceptan más de 125.000 euros en procesadores Intel escondidos en el motor de un autobús' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/cientificos-desvelan-dieta-sonada-permite-comer-todo-engordar-1293606'>La dieta soñada que te permite comer de todo sin engordar y que recomiendan los científicos</a></h4>
-    <a href='https://computerhoy.com/alimentacion/cientificos-desvelan-dieta-sonada-permite-comer-todo-engordar-1293606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dieta-3115030.jpg?tf=1200x' alt='La dieta soñada que te permite comer de todo sin engordar y que recomiendan los científicos' />
     </a>
 </div>
 
