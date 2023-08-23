@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/5-maneras-borrar-presencia-internet-mantener-informacion-segura-1287728'>5 maneras de borrar tu presencia en internet y mantener tu información segura</a></h4>
-    <a href='https://computerhoy.com/tutoriales/5-maneras-borrar-presencia-internet-mantener-informacion-segura-1287728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/borrar-informacion-internet-3115856.jpg?tf=1200x' alt='5 maneras de borrar tu presencia en internet y mantener tu información segura' />
+    <h4><a href='https://computerhoy.com/tecnologia/cual-siguiente-paso-despues-computacion-cuantica-1293882'>¿Cuál es el siguiente paso después de la computación cuántica?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cual-siguiente-paso-despues-computacion-cuantica-1293882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ordenador-cuantico-3115932.jpg?tf=1200x' alt='¿Cuál es el siguiente paso después de la computación cuántica?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/llegaba-tocar-logo-dvd-esquina-pantalla-1294118'>¿Llegaba a tocar el logo del DVD la esquina de la pantalla?</a></h4>
-    <a href='https://computerhoy.com/life/llegaba-tocar-logo-dvd-esquina-pantalla-1294118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/logo-dvd-pam-office-3115954.jpg?tf=1200x' alt='¿Llegaba a tocar el logo del DVD la esquina de la pantalla?' />
+    <h4><a href='https://computerhoy.com/tecnologia/mini-casa-cuesta-mismo-coche-construye-dia-1294158'>Esta minicasa cuesta lo mismo que un coche y no adivinarás de qué está fabricada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-casa-cuesta-mismo-coche-construye-dia-1294158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1692804739695-3116044.jpg?tf=1200x' alt='Esta minicasa cuesta lo mismo que un coche y no adivinarás de qué está fabricada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/perucetus-colossus-animal-mas-pesado-jamas-ha-existido-1294100'>Hallan en Perú el animal más enorme que jamás ha existido: pesaba el doble que una ballena azul</a></h4>
-    <a href='https://computerhoy.com/ciencia/perucetus-colossus-animal-mas-pesado-jamas-ha-existido-1294100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hallan-peru-animal-grande-jamas-ha-existido-pesaba-doble-ballena-azul-3115848.jpg?tf=1200x' alt='Hallan en Perú el animal más enorme que jamás ha existido: pesaba el doble que una ballena azul' />
+    <h4><a href='https://computerhoy.com/google/sencillo-truco-google-maps-te-ayudara-no-perderte-jamas-1293646'>El sencillo truco de Google Maps que te ayudará a no perderte jamás</a></h4>
+    <a href='https://computerhoy.com/google/sencillo-truco-google-maps-te-ayudara-no-perderte-jamas-1293646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pareja-perdida-consultando-mapa-3115886.jpg?tf=1200x' alt='El sencillo truco de Google Maps que te ayudará a no perderte jamás' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/snapdragon-g1-g2-g3-son-nuevos-procesadores-qualcomm-consolas-portatiles-1294084'>Snapdragon G1, G2 y G3: así son los nuevos procesadores de Qualcomm para consolas portátiles</a></h4>
-    <a href='https://computerhoy.com/gaming/snapdragon-g1-g2-g3-son-nuevos-procesadores-qualcomm-consolas-portatiles-1294084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/snapdragon-g1-g2-g3-son-nuevos-procesadores-qualcomm-consolas-portatiles-3115884.jpg?tf=1200x' alt='Snapdragon G1, G2 y G3: así son los nuevos procesadores de Qualcomm para consolas portátiles' />
+    <h4><a href='https://computerhoy.com/life/bill-gates-revela-4-estrategias-clave-aumentar-autoconfianza-lograr-exito-1289842'>Bill Gates revela sus 4 estrategias clave para aumentar la autoconfianza y lograr el éxito</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-revela-4-estrategias-clave-aumentar-autoconfianza-lograr-exito-1289842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/bill-gates-2829387.jpg?tf=1200x' alt='Bill Gates revela sus 4 estrategias clave para aumentar la autoconfianza y lograr el éxito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-windows-no-reconoce-puertos-usb-ordenador-1287552'>Qué hacer cuando Windows no reconoce los puertos USB de tu ordenador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacer-cuando-windows-no-reconoce-puertos-usb-ordenador-1287552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/usb-ordenador-portatil-3115870.jpg?tf=1200x' alt='Qué hacer cuando Windows no reconoce los puertos USB de tu ordenador' />
+    <h4><a href='https://computerhoy.com/moviles/funciones-podria-copiar-android-iphone-1294132'>¿Qué funciones podría copiar Android de iPhone?</a></h4>
+    <a href='https://computerhoy.com/moviles/funciones-podria-copiar-android-iphone-1294132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/espiar-movil-otra-persona-3115976.jpg?tf=1200x' alt='¿Qué funciones podría copiar Android de iPhone?' />
     </a>
 </div>
 
