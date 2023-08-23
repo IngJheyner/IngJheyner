@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/regla-infalible-adaptar-tiempos-coccion-horno-freidora-aire-1293586'>La regla infalible para adaptar los tiempos de cocción del horno a la freidora de aire</a></h4>
+    <a href='https://computerhoy.com/alimentacion/regla-infalible-adaptar-tiempos-coccion-horno-freidora-aire-1293586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/freidora-aire-3115858.jpg?tf=1200x' alt='La regla infalible para adaptar los tiempos de cocción del horno a la freidora de aire' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/inteligencia-artificial-facilita-diagnostico-alzheimer-test-dibujo-apple-pencil-1294082'>La Inteligencia Artificial facilita el diagnóstico del Alzheimer con un test de dibujo y el Apple Pencil</a></h4>
     <a href='https://computerhoy.com/ciencia/inteligencia-artificial-facilita-diagnostico-alzheimer-test-dibujo-apple-pencil-1294082' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/persona-escribiendo-tablet-ipad-stylus-apple-pencil-2986444.jpg?tf=1200x' alt='La Inteligencia Artificial facilita el diagnóstico del Alzheimer con un test de dibujo y el Apple Pencil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/adios-baterias-iones-litio-6-alternativas-gran-potencial-1293972'>Adiós a las baterías de iones de litio: 6 alternativas con un gran potencial </a></h4>
     <a href='https://computerhoy.com/energia/adios-baterias-iones-litio-6-alternativas-gran-potencial-1293972' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/problema-coche-electrico-casi-nadie-veia-hace-cinco-anos-3033536.jpg?tf=1200x' alt='Adiós a las baterías de iones de litio: 6 alternativas con un gran potencial ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/project-moohan-filtran-detalles-casco-realidad-mixta-samsung-google-1294002'>Project Moohan: se filtran los detalles del casco de realidad mixta de Samsung y Google</a></h4>
-    <a href='https://computerhoy.com/google/project-moohan-filtran-detalles-casco-realidad-mixta-samsung-google-1294002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/project-moohan-filtran-detalles-casco-realidad-mixta-samsung-google-3115648.jpg?tf=1200x' alt='Project Moohan: se filtran los detalles del casco de realidad mixta de Samsung y Google' />
     </a>
 </div>
 
