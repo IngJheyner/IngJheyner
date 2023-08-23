@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/regla-infalible-adaptar-tiempos-coccion-horno-freidora-aire-1293586'>La regla infalible para adaptar los tiempos de cocción del horno a la freidora de aire</a></h4>
-    <a href='https://computerhoy.com/alimentacion/regla-infalible-adaptar-tiempos-coccion-horno-freidora-aire-1293586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/freidora-aire-3115858.jpg?tf=1200x' alt='La regla infalible para adaptar los tiempos de cocción del horno a la freidora de aire' />
+    <h4><a href='https://computerhoy.com/tutoriales/5-maneras-borrar-presencia-internet-mantener-informacion-segura-1287728'>5 maneras de borrar tu presencia en internet y mantener tu información segura</a></h4>
+    <a href='https://computerhoy.com/tutoriales/5-maneras-borrar-presencia-internet-mantener-informacion-segura-1287728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/borrar-informacion-internet-3115856.jpg?tf=1200x' alt='5 maneras de borrar tu presencia en internet y mantener tu información segura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/inteligencia-artificial-facilita-diagnostico-alzheimer-test-dibujo-apple-pencil-1294082'>La Inteligencia Artificial facilita el diagnóstico del Alzheimer con un test de dibujo y el Apple Pencil</a></h4>
-    <a href='https://computerhoy.com/ciencia/inteligencia-artificial-facilita-diagnostico-alzheimer-test-dibujo-apple-pencil-1294082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/persona-escribiendo-tablet-ipad-stylus-apple-pencil-2986444.jpg?tf=1200x' alt='La Inteligencia Artificial facilita el diagnóstico del Alzheimer con un test de dibujo y el Apple Pencil' />
+    <h4><a href='https://computerhoy.com/life/llegaba-tocar-logo-dvd-esquina-pantalla-1294118'>¿Llegaba a tocar el logo del DVD la esquina de la pantalla?</a></h4>
+    <a href='https://computerhoy.com/life/llegaba-tocar-logo-dvd-esquina-pantalla-1294118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/logo-dvd-pam-office-3115954.jpg?tf=1200x' alt='¿Llegaba a tocar el logo del DVD la esquina de la pantalla?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/prefieren-ir-paro-decision-empleados-amazon-cambios-empresa-1294036'>Prefieren ir al paro: la decisión de los empleados de Amazon ante los cambios de la empresa</a></h4>
-    <a href='https://computerhoy.com/amazon/prefieren-ir-paro-decision-empleados-amazon-cambios-empresa-1294036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/empleados-amazon-3115776.jpg?tf=1200x' alt='Prefieren ir al paro: la decisión de los empleados de Amazon ante los cambios de la empresa' />
+    <h4><a href='https://computerhoy.com/ciencia/perucetus-colossus-animal-mas-pesado-jamas-ha-existido-1294100'>Hallan en Perú el animal más enorme que jamás ha existido: pesaba el doble que una ballena azul</a></h4>
+    <a href='https://computerhoy.com/ciencia/perucetus-colossus-animal-mas-pesado-jamas-ha-existido-1294100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hallan-peru-animal-grande-jamas-ha-existido-pesaba-doble-ballena-azul-3115848.jpg?tf=1200x' alt='Hallan en Perú el animal más enorme que jamás ha existido: pesaba el doble que una ballena azul' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/sigue-directo-aterrizaje-sonda-chandrayaan-3-india-luna-1294034'>Sigue en directo el aterrizaje de la sonda Chandrayaan-3 de India en la Luna</a></h4>
-    <a href='https://computerhoy.com/ciencia/sigue-directo-aterrizaje-sonda-chandrayaan-3-india-luna-1294034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/sigue-directo-aterrizaje-sonda-chandrayaan-3-india-luna-3115724.jpg?tf=1200x' alt='Sigue en directo el aterrizaje de la sonda Chandrayaan-3 de India en la Luna' />
+    <h4><a href='https://computerhoy.com/gaming/snapdragon-g1-g2-g3-son-nuevos-procesadores-qualcomm-consolas-portatiles-1294084'>Snapdragon G1, G2 y G3: así son los nuevos procesadores de Qualcomm para consolas portátiles</a></h4>
+    <a href='https://computerhoy.com/gaming/snapdragon-g1-g2-g3-son-nuevos-procesadores-qualcomm-consolas-portatiles-1294084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/snapdragon-g1-g2-g3-son-nuevos-procesadores-qualcomm-consolas-portatiles-3115884.jpg?tf=1200x' alt='Snapdragon G1, G2 y G3: así son los nuevos procesadores de Qualcomm para consolas portátiles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/adios-baterias-iones-litio-6-alternativas-gran-potencial-1293972'>Adiós a las baterías de iones de litio: 6 alternativas con un gran potencial </a></h4>
-    <a href='https://computerhoy.com/energia/adios-baterias-iones-litio-6-alternativas-gran-potencial-1293972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/problema-coche-electrico-casi-nadie-veia-hace-cinco-anos-3033536.jpg?tf=1200x' alt='Adiós a las baterías de iones de litio: 6 alternativas con un gran potencial ' />
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-windows-no-reconoce-puertos-usb-ordenador-1287552'>Qué hacer cuando Windows no reconoce los puertos USB de tu ordenador</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-cuando-windows-no-reconoce-puertos-usb-ordenador-1287552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/usb-ordenador-portatil-3115870.jpg?tf=1200x' alt='Qué hacer cuando Windows no reconoce los puertos USB de tu ordenador' />
     </a>
 </div>
 
