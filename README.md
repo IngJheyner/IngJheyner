@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-te-permitira-crear-propio-chatgpt-gracias-personalizacion-1293938'>OpenAI te permitirá crear tu propio ChatGPT gracias a la personalización</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-te-permitira-crear-propio-chatgpt-gracias-personalizacion-1293938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/openai-internet-3103546.jpg?tf=1200x' alt='OpenAI te permitirá crear tu propio ChatGPT gracias a la personalización' />
+    <h4><a href='https://computerhoy.com/ciencia/inteligencia-artificial-facilita-diagnostico-alzheimer-test-dibujo-apple-pencil-1294082'>La Inteligencia Artificial facilita el diagnóstico del Alzheimer con un test de dibujo y el Apple Pencil</a></h4>
+    <a href='https://computerhoy.com/ciencia/inteligencia-artificial-facilita-diagnostico-alzheimer-test-dibujo-apple-pencil-1294082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/persona-escribiendo-tablet-ipad-stylus-apple-pencil-2986444.jpg?tf=1200x' alt='La Inteligencia Artificial facilita el diagnóstico del Alzheimer con un test de dibujo y el Apple Pencil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/elon-musk-pronostica-ocaso-fabricantes-coches-tradicionales-no-adaptan-futuro-electrico-1293964'>Elon Musk pronostica el ocaso de los fabricantes de coches tradicionales si no se adaptan al futuro eléctrico</a></h4>
-    <a href='https://computerhoy.com/motor/elon-musk-pronostica-ocaso-fabricantes-coches-tradicionales-no-adaptan-futuro-electrico-1293964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2867409.jpg?tf=1200x' alt='Elon Musk pronostica el ocaso de los fabricantes de coches tradicionales si no se adaptan al futuro eléctrico' />
+    <h4><a href='https://computerhoy.com/amazon/prefieren-ir-paro-decision-empleados-amazon-cambios-empresa-1294036'>Prefieren ir al paro: la decisión de los empleados de Amazon ante los cambios de la empresa</a></h4>
+    <a href='https://computerhoy.com/amazon/prefieren-ir-paro-decision-empleados-amazon-cambios-empresa-1294036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/empleados-amazon-3115776.jpg?tf=1200x' alt='Prefieren ir al paro: la decisión de los empleados de Amazon ante los cambios de la empresa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-elimina-varios-articulos-creados-ia-pero-culpa-humanos-1293924'>Microsoft elimina varios artículos creados con inteligencia artificial, pero culpa a los humanos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-elimina-varios-articulos-creados-ia-pero-culpa-humanos-1293924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/microsoft-noticias-3115494.jpg?tf=1200x' alt='Microsoft elimina varios artículos creados con inteligencia artificial, pero culpa a los humanos' />
+    <h4><a href='https://computerhoy.com/ciencia/sigue-directo-aterrizaje-sonda-chandrayaan-3-india-luna-1294034'>Sigue en directo el aterrizaje de la sonda Chandrayaan-3 de India en la Luna</a></h4>
+    <a href='https://computerhoy.com/ciencia/sigue-directo-aterrizaje-sonda-chandrayaan-3-india-luna-1294034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/sigue-directo-aterrizaje-sonda-chandrayaan-3-india-luna-3115724.jpg?tf=1200x' alt='Sigue en directo el aterrizaje de la sonda Chandrayaan-3 de India en la Luna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aspiradora-tiene-algo-no-tienen-dyson-tambien-fregona-ahora-70eu-barata-1293012'>Esta aspiradora tiene algo que no tienen las Dyson: también es fregona, y ahora es 70€ más barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aspiradora-tiene-algo-no-tienen-dyson-tambien-fregona-ahora-70eu-barata-1293012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dreame-m12-3113848.jpg?tf=1200x' alt='Esta aspiradora tiene algo que no tienen las Dyson: también es fregona, y ahora es 70€ más barata' />
+    <h4><a href='https://computerhoy.com/energia/adios-baterias-iones-litio-6-alternativas-gran-potencial-1293972'>Adiós a las baterías de iones de litio: 6 alternativas con un gran potencial </a></h4>
+    <a href='https://computerhoy.com/energia/adios-baterias-iones-litio-6-alternativas-gran-potencial-1293972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/problema-coche-electrico-casi-nadie-veia-hace-cinco-anos-3033536.jpg?tf=1200x' alt='Adiós a las baterías de iones de litio: 6 alternativas con un gran potencial ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/monitores-odyssey-neo-g9-57-ark-55-pulgadas-samsung-apuesta-grande-1293642'>Samsung apuesta a lo grande, literal, en Gamescom: Odyssey Neo G9 de 57 y Ark de 55 pulgadas</a></h4>
-    <a href='https://computerhoy.com/gaming/monitores-odyssey-neo-g9-57-ark-55-pulgadas-samsung-apuesta-grande-1293642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/monitores-samsung-gamescom-oddysey-neo-g9-ark-2023-3115170.jpg?tf=1200x' alt='Samsung apuesta a lo grande, literal, en Gamescom: Odyssey Neo G9 de 57 y Ark de 55 pulgadas' />
+    <h4><a href='https://computerhoy.com/google/project-moohan-filtran-detalles-casco-realidad-mixta-samsung-google-1294002'>Project Moohan: se filtran los detalles del casco de realidad mixta de Samsung y Google</a></h4>
+    <a href='https://computerhoy.com/google/project-moohan-filtran-detalles-casco-realidad-mixta-samsung-google-1294002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/project-moohan-filtran-detalles-casco-realidad-mixta-samsung-google-3115648.jpg?tf=1200x' alt='Project Moohan: se filtran los detalles del casco de realidad mixta de Samsung y Google' />
     </a>
 </div>
 
