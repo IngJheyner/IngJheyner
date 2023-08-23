@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/moviles-estrenaron-funciones-hoy-dia-lleva-smartphone-1283288'>Los primeros móviles en cada categoría: sí, hubo un origen de cada funcionalidad de tu smartphone</a></h4>
-    <a href='https://computerhoy.com/moviles/moviles-estrenaron-funciones-hoy-dia-lleva-smartphone-1283288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/smartphone-3106712.jpg?tf=1200x' alt='Los primeros móviles en cada categoría: sí, hubo un origen de cada funcionalidad de tu smartphone' />
+    <h4><a href='https://computerhoy.com/tecnologia/openai-te-permitira-crear-propio-chatgpt-gracias-personalizacion-1293938'>OpenAI te permitirá crear tu propio ChatGPT gracias a la personalización</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-te-permitira-crear-propio-chatgpt-gracias-personalizacion-1293938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/openai-internet-3103546.jpg?tf=1200x' alt='OpenAI te permitirá crear tu propio ChatGPT gracias a la personalización' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/encuentran-bosque-primitivo-especies-desconocidas-cueva-china-1293648'>Hallan un bosque primitivo en China dentro de un agujero a casi 200 metros de profundidad, podría albergar especies desconocidas</a></h4>
-    <a href='https://computerhoy.com/life/encuentran-bosque-primitivo-especies-desconocidas-cueva-china-1293648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/encuentran-bosque-primitivo-agujero-290-metros-profundidad-podria-albergar-especies-desconocidas-3115134.jpg?tf=1200x' alt='Hallan un bosque primitivo en China dentro de un agujero a casi 200 metros de profundidad, podría albergar especies desconocidas' />
+    <h4><a href='https://computerhoy.com/motor/elon-musk-pronostica-ocaso-fabricantes-coches-tradicionales-no-adaptan-futuro-electrico-1293964'>Elon Musk pronostica el ocaso de los fabricantes de coches tradicionales si no se adaptan al futuro eléctrico</a></h4>
+    <a href='https://computerhoy.com/motor/elon-musk-pronostica-ocaso-fabricantes-coches-tradicionales-no-adaptan-futuro-electrico-1293964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/elon-musk-2867409.jpg?tf=1200x' alt='Elon Musk pronostica el ocaso de los fabricantes de coches tradicionales si no se adaptan al futuro eléctrico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/como-ver-gratis-mundial-baloncesto-2023-1293640'>Dónde ver gratis el Mundial de Baloncesto 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/como-ver-gratis-mundial-baloncesto-2023-1293640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-ver-gratis-mundial-baloncesto-2023-3115098.jpg?tf=1200x' alt='Dónde ver gratis el Mundial de Baloncesto 2023' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-elimina-varios-articulos-creados-ia-pero-culpa-humanos-1293924'>Microsoft elimina varios artículos creados con inteligencia artificial, pero culpa a los humanos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-elimina-varios-articulos-creados-ia-pero-culpa-humanos-1293924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/microsoft-noticias-3115494.jpg?tf=1200x' alt='Microsoft elimina varios artículos creados con inteligencia artificial, pero culpa a los humanos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuanta-agua-necesitas-beber-realmente-1293576'>¿Cuánta agua necesitas beber realmente?</a></h4>
-    <a href='https://computerhoy.com/life/cuanta-agua-necesitas-beber-realmente-1293576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cuanta-agua-necesitas-beber-realmente-3114952.jpg?tf=1200x' alt='¿Cuánta agua necesitas beber realmente?' />
+    <h4><a href='https://computerhoy.com/tecnologia/aspiradora-tiene-algo-no-tienen-dyson-tambien-fregona-ahora-70eu-barata-1293012'>Esta aspiradora tiene algo que no tienen las Dyson: también es fregona, y ahora es 70€ más barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aspiradora-tiene-algo-no-tienen-dyson-tambien-fregona-ahora-70eu-barata-1293012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dreame-m12-3113848.jpg?tf=1200x' alt='Esta aspiradora tiene algo que no tienen las Dyson: también es fregona, y ahora es 70€ más barata' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pulsera-xiaomi-sorprendentemente-barata-mi-band-1292832'>Esta desconocida pulsera de Xiaomi es más barata que la Mi Band y tiene dos semanas de batería</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pulsera-xiaomi-sorprendentemente-barata-mi-band-1292832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-smart-band-2-analisis-opinion-2990216.jpg?tf=1200x' alt='Esta desconocida pulsera de Xiaomi es más barata que la Mi Band y tiene dos semanas de batería' />
+    <h4><a href='https://computerhoy.com/gaming/monitores-odyssey-neo-g9-57-ark-55-pulgadas-samsung-apuesta-grande-1293642'>Samsung apuesta a lo grande, literal, en Gamescom: Odyssey Neo G9 de 57 y Ark de 55 pulgadas</a></h4>
+    <a href='https://computerhoy.com/gaming/monitores-odyssey-neo-g9-57-ark-55-pulgadas-samsung-apuesta-grande-1293642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/monitores-samsung-gamescom-oddysey-neo-g9-ark-2023-3115170.jpg?tf=1200x' alt='Samsung apuesta a lo grande, literal, en Gamescom: Odyssey Neo G9 de 57 y Ark de 55 pulgadas' />
     </a>
 </div>
 
