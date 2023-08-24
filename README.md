@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/consigue-parecerte-elon-musk-ayuda-chatgpt-1294492'>Así puedes conseguir parecerte y comportarte como Elon Musk con la ayuda de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/consigue-parecerte-elon-musk-ayuda-chatgpt-1294492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/elon-musk-3009470.jpg?tf=1200x' alt='Así puedes conseguir parecerte y comportarte como Elon Musk con la ayuda de ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-series-8-casi-150-euros-descuento-30-dias-prueba-aunque-eso-pero-1293934'>El Apple Watch Series 8 con casi 150 euros de descuento y con 30 días de prueba, aunque eso sí, con un pero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-watch-series-8-casi-150-euros-descuento-30-dias-prueba-aunque-eso-pero-1293934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-watch-3115470.jpg?tf=1200x' alt='El Apple Watch Series 8 con casi 150 euros de descuento y con 30 días de prueba, aunque eso sí, con un pero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/oppo-pad-2-analisis-review-caracteristicas-precio-1289628'>Oppo Pad 2, una tablet Android de gama alta que es un déjà vu tras otro por culpa de OnePlus</a></h4>
+    <a href='https://computerhoy.com/analisis/oppo-pad-2-analisis-review-caracteristicas-precio-1289628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/oppo-pad-2-3107986.jpg?tf=1200x' alt='Oppo Pad 2, una tablet Android de gama alta que es un déjà vu tras otro por culpa de OnePlus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/como-marcas-eeuu-estan-resistiendo-mejor-asiaticas-1294066'>Por qué las marcas de EEUU están resistiendo mejor que las asiáticas el desplome de ventas de móviles y PC</a></h4>
+    <a href='https://computerhoy.com/moviles/como-marcas-eeuu-estan-resistiendo-mejor-asiaticas-1294066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/asia-vs-eeuu-3116106.jpg?tf=1200x' alt='Por qué las marcas de EEUU están resistiendo mejor que las asiáticas el desplome de ventas de móviles y PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299'>Mejores televisores 4K de 55 pulgadas que puedes comprar en 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/tv-sony.jpg?tf=1200x' alt='Mejores televisores 4K de 55 pulgadas que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nueva-consola-atari-2600-plus-sera-compatible-cartuchos-originales-1294236'>44 años después, vuelve la consola Atari 2600, y será compatible con los cartuchos originales</a></h4>
-    <a href='https://computerhoy.com/gaming/nueva-consola-atari-2600-plus-sera-compatible-cartuchos-originales-1294236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1692832036397-3116236.jpg?tf=1200x' alt='44 años después, vuelve la consola Atari 2600, y será compatible con los cartuchos originales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/sony-presenta-playstation-portal-dos-nuevos-auriculares-pulse-1294234'>Sony presenta PlayStation Portal, la Wii-U de 2023, y dos nuevos auriculares</a></h4>
-    <a href='https://computerhoy.com/gaming/sony-presenta-playstation-portal-dos-nuevos-auriculares-pulse-1294234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/sony-anuncia-playstation-portal-wii-2023-dos-nuevos-auriculares-3116230.jpg?tf=1200x' alt='Sony presenta PlayStation Portal, la Wii-U de 2023, y dos nuevos auriculares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/frasier-2023-primeras-imagenes-fecha-estreno-1294230'>Primeras imágenes y fecha de estreno de la nueva serie Frasier, que regresa 30 años después</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/frasier-2023-primeras-imagenes-fecha-estreno-1294230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/primeras-imagenes-nueva-serie-frasier-regresa-30-anos-despues-3116194.jpg?tf=1200x' alt='Primeras imágenes y fecha de estreno de la nueva serie Frasier, que regresa 30 años después' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/expertos-comparten-mejores-recetas-hacer-sangria-perfecta-1294218'>Expertos en vino internacionales dicen que esta es la receta de la sangría perfecta y lo comparan con hacer sopa</a></h4>
-    <a href='https://computerhoy.com/alimentacion/expertos-comparten-mejores-recetas-hacer-sangria-perfecta-1294218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/sangria-3116192.jpg?tf=1200x' alt='Expertos en vino internacionales dicen que esta es la receta de la sangría perfecta y lo comparan con hacer sopa' />
     </a>
 </div>
 
