@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/funcion-iphone-arruinando-calidad-fotos-1293632'>La función oculta del iPhone que está arruinando la calidad de tus fotos y que debes desactivar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/apple/funcion-iphone-arruinando-calidad-fotos-1293632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/foto-iphone-2923608.jpg?tf=1200x' alt='La función oculta del iPhone que está arruinando la calidad de tus fotos y que debes desactivar ahora mismo' />
+    <h4><a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-alcohol-nadie-te-cuenta-1294740'>El lado oscuro de las cervezas sin alcohol, 0% y Light que nadie te cuenta</a></h4>
+    <a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-alcohol-nadie-te-cuenta-1294740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lado-oscuro-cervezas-alcohol-0-ligth-nadie-te-cuenta-3117222.jpg?tf=1200x' alt='El lado oscuro de las cervezas sin alcohol, 0% y Light que nadie te cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nace-primera-jirafa-sin-manchas-unica-mundo-1294680'>Nace la primera jirafa sin manchas, única en el mundo</a></h4>
-    <a href='https://computerhoy.com/ciencia/nace-primera-jirafa-sin-manchas-unica-mundo-1294680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nace-primera-jirafa-manchas-unica-mundo-3117016.jpg?tf=1200x' alt='Nace la primera jirafa sin manchas, única en el mundo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-historial-archivos-windows-11-1285440'>Cómo restablecer el historial de archivos en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-restablecer-historial-archivos-windows-11-1285440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/logos-windows-11-3117068.jpg?tf=1200x' alt='Cómo restablecer el historial de archivos en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tecnologia-iphone-permitio-crear-protesis-medida-impresas-3d-1294654'>La tecnología de tu iPhone que permite crear prótesis 3D para perros y que vuelvan a andar</a></h4>
-    <a href='https://computerhoy.com/apple/tecnologia-iphone-permitio-crear-protesis-medida-impresas-3d-1294654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tecnologia-iphone-permite-crear-protesis-3d-perros-vuelvan-andar-3117102.jpg?tf=1200x' alt='La tecnología de tu iPhone que permite crear prótesis 3D para perros y que vuelvan a andar' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-gamingweek-decenas-ratones-teclados-auriculares-gaming-oferta-1294582'>Amazon pone decenas de ratones, teclados y auriculares gaming en oferta</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-gamingweek-decenas-ratones-teclados-auriculares-gaming-oferta-1294582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/gamingweek-amazon-3116646.jpg?tf=1200x' alt='Amazon pone decenas de ratones, teclados y auriculares gaming en oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/hexapro-aire-acondicionado-portatil-ligero-mundo-1294238'>HexaPro, el aire acondicionado más ligero del mundo: es portátil y consume 80% menos energía</a></h4>
-    <a href='https://computerhoy.com/hogar/hexapro-aire-acondicionado-portatil-ligero-mundo-1294238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/aire-acondicionado-portatil-hexapro-3116242.jpg?tf=1200x' alt='HexaPro, el aire acondicionado más ligero del mundo: es portátil y consume 80% menos energía' />
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-5-mejores-relojes-inteligentes-samsung-ahora-mismo-1294468'>Estos son los 5 mejores relojes inteligentes de Samsung ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-5-mejores-relojes-inteligentes-samsung-ahora-mismo-1294468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110614.jpg?tf=1200x' alt='Estos son los 5 mejores relojes inteligentes de Samsung ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/primera-vez-hay-razon-critica-abandonar-windows-10-pasarse-windows-11-1294588'>Por primera vez hay una razón crítica para abandonar Windows 10 y pasarse a Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/primera-vez-hay-razon-critica-abandonar-windows-10-pasarse-windows-11-1294588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Por primera vez hay una razón crítica para abandonar Windows 10 y pasarse a Windows 11' />
+    <h4><a href='https://computerhoy.com/alimentacion/fruta-bomba-vitamina-c-20-veces-naranja-1294224'>Esta desconocida fruta es una bomba de vitamina C: hasta 20 veces más que una naranja y se puede comprar en España</a></h4>
+    <a href='https://computerhoy.com/alimentacion/fruta-bomba-vitamina-c-20-veces-naranja-1294224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/acerola-3117018.jpg?tf=1200x' alt='Esta desconocida fruta es una bomba de vitamina C: hasta 20 veces más que una naranja y se puede comprar en España' />
     </a>
 </div>
 
