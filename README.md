@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/sony-presenta-playstation-portal-dos-nuevos-auriculares-pulse-1294234'>Sony presenta PlayStation Portal, la Wii-U de 2023, y dos nuevos auriculares</a></h4>
+    <a href='https://computerhoy.com/gaming/sony-presenta-playstation-portal-dos-nuevos-auriculares-pulse-1294234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/sony-anuncia-playstation-portal-wii-2023-dos-nuevos-auriculares-3116230.jpg?tf=1200x' alt='Sony presenta PlayStation Portal, la Wii-U de 2023, y dos nuevos auriculares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/frasier-2023-primeras-imagenes-fecha-estreno-1294230'>Primeras imágenes y fecha de estreno de la nueva serie Frasier, que regresa 30 años después</a></h4>
     <a href='https://computerhoy.com/entretenimiento/frasier-2023-primeras-imagenes-fecha-estreno-1294230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/primeras-imagenes-nueva-serie-frasier-regresa-30-anos-despues-3116194.jpg?tf=1200x' alt='Primeras imágenes y fecha de estreno de la nueva serie Frasier, que regresa 30 años después' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/predicen-gran-extincion-ser-humano-mayor-dinosaurios-mismo-siglo-1294212'>Cerca de suceder una gran extinción del ser humano y mayor que la de los dinosaurios</a></h4>
     <a href='https://computerhoy.com/life/predicen-gran-extincion-ser-humano-mayor-dinosaurios-mismo-siglo-1294212' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/predicen-gran-extincion-ser-humano-mayor-dinosaurios-mismo-siglo-3116186.jpg?tf=1200x' alt='Cerca de suceder una gran extinción del ser humano y mayor que la de los dinosaurios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/encuentra-caja-fondo-charca-buscando-anillo-1294192'>Como en una película de terror: encuentra una caja misteriosa en el fondo de una charca buscando el anillo de su amiga</a></h4>
-    <a href='https://computerhoy.com/life/encuentra-caja-fondo-charca-buscando-anillo-1294192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/encuentra-misteriosa-caja-buceando-3116124.jpg?tf=1200x' alt='Como en una película de terror: encuentra una caja misteriosa en el fondo de una charca buscando el anillo de su amiga' />
     </a>
 </div>
 
