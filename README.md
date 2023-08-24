@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299'>Mejores televisores 4K de 55 pulgadas que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/tv-sony.jpg?tf=1200x' alt='Mejores televisores 4K de 55 pulgadas que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/nueva-consola-atari-2600-plus-sera-compatible-cartuchos-originales-1294236'>44 años después, vuelve la consola Atari 2600, y será compatible con los cartuchos originales</a></h4>
     <a href='https://computerhoy.com/gaming/nueva-consola-atari-2600-plus-sera-compatible-cartuchos-originales-1294236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1692832036397-3116236.jpg?tf=1200x' alt='44 años después, vuelve la consola Atari 2600, y será compatible con los cartuchos originales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/expertos-comparten-mejores-recetas-hacer-sangria-perfecta-1294218'>Expertos en vino internacionales dicen que esta es la receta de la sangría perfecta y lo comparan con hacer sopa</a></h4>
     <a href='https://computerhoy.com/alimentacion/expertos-comparten-mejores-recetas-hacer-sangria-perfecta-1294218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/sangria-3116192.jpg?tf=1200x' alt='Expertos en vino internacionales dicen que esta es la receta de la sangría perfecta y lo comparan con hacer sopa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/leroy-merlin-lanza-kit-paneles-solares-autoinstalables-1294200'>Leroy Merlin lanza kits de paneles solares sin instalación: enchufar y listos</a></h4>
-    <a href='https://computerhoy.com/energia/leroy-merlin-lanza-kit-paneles-solares-autoinstalables-1294200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/leroy-merlin-lanza-kit-paneles-solares-autoinstalables-varias-potencias-3116136.jpg?tf=1200x' alt='Leroy Merlin lanza kits de paneles solares sin instalación: enchufar y listos' />
     </a>
 </div>
 
