@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-asegura-existe-vida-extraterrestre-planeta-1294794'>La NASA asegura que existe vida extraterrestre pero la estamos buscando en el planeta equivocado</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-asegura-existe-vida-extraterrestre-planeta-1294794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/planetas-3117294.jpg?tf=1200x' alt='La NASA asegura que existe vida extraterrestre pero la estamos buscando en el planeta equivocado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/fruta-tan-espanola-ha-sido-nombrada-sana-mundo-1294788'>Esta fruta tan española, que todo el mundo piensa que es una verdura, ha sido nombrada como la más sana del mundo</a></h4>
+    <a href='https://computerhoy.com/alimentacion/fruta-tan-espanola-ha-sido-nombrada-sana-mundo-1294788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/frutas-3117284.jpg?tf=1200x' alt='Esta fruta tan española, que todo el mundo piensa que es una verdura, ha sido nombrada como la más sana del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/cosas-no-sabias-amazon-fire-tv-puede-hacer-1294746'>Cosas que no sabías que tu Amazon Fire TV puede hacer</a></h4>
+    <a href='https://computerhoy.com/tv/cosas-no-sabias-amazon-fire-tv-puede-hacer-1294746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-fire-tv-alexa-3105422.jpg?tf=1200x' alt='Cosas que no sabías que tu Amazon Fire TV puede hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-tener-android-auto-avisos-radares-waze-google-maps-1294196'>El truco de Android Auto para tener los avisos de radares y tráfico de Waze en Google Maps</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-tener-android-auto-avisos-radares-waze-google-maps-1294196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/alerta-avisos-radares-waze-google-maps-3116184.jpg?tf=1200x' alt='El truco de Android Auto para tener los avisos de radares y tráfico de Waze en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-alcohol-nadie-te-cuenta-1294740'>El lado oscuro de las cervezas sin alcohol, 0% y Light que nadie te cuenta</a></h4>
     <a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-alcohol-nadie-te-cuenta-1294740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lado-oscuro-cervezas-alcohol-0-ligth-nadie-te-cuenta-3117222.jpg?tf=1200x' alt='El lado oscuro de las cervezas sin alcohol, 0% y Light que nadie te cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-historial-archivos-windows-11-1285440'>Cómo restablecer el historial de archivos en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-restablecer-historial-archivos-windows-11-1285440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/logos-windows-11-3117068.jpg?tf=1200x' alt='Cómo restablecer el historial de archivos en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-gamingweek-decenas-ratones-teclados-auriculares-gaming-oferta-1294582'>Amazon pone decenas de ratones, teclados y auriculares gaming en oferta</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-gamingweek-decenas-ratones-teclados-auriculares-gaming-oferta-1294582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/gamingweek-amazon-3116646.jpg?tf=1200x' alt='Amazon pone decenas de ratones, teclados y auriculares gaming en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-son-5-mejores-relojes-inteligentes-samsung-ahora-mismo-1294468'>Estos son los 5 mejores relojes inteligentes de Samsung ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-son-5-mejores-relojes-inteligentes-samsung-ahora-mismo-1294468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110614.jpg?tf=1200x' alt='Estos son los 5 mejores relojes inteligentes de Samsung ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/fruta-bomba-vitamina-c-20-veces-naranja-1294224'>Esta desconocida fruta es una bomba de vitamina C: hasta 20 veces más que una naranja y se puede comprar en España</a></h4>
-    <a href='https://computerhoy.com/alimentacion/fruta-bomba-vitamina-c-20-veces-naranja-1294224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/acerola-3117018.jpg?tf=1200x' alt='Esta desconocida fruta es una bomba de vitamina C: hasta 20 veces más que una naranja y se puede comprar en España' />
     </a>
 </div>
 
