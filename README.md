@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nueva-consola-atari-2600-plus-sera-compatible-cartuchos-originales-1294236'>44 años después, vuelve la consola Atari 2600, y será compatible con los cartuchos originales</a></h4>
+    <a href='https://computerhoy.com/gaming/nueva-consola-atari-2600-plus-sera-compatible-cartuchos-originales-1294236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1692832036397-3116236.jpg?tf=1200x' alt='44 años después, vuelve la consola Atari 2600, y será compatible con los cartuchos originales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/sony-presenta-playstation-portal-dos-nuevos-auriculares-pulse-1294234'>Sony presenta PlayStation Portal, la Wii-U de 2023, y dos nuevos auriculares</a></h4>
     <a href='https://computerhoy.com/gaming/sony-presenta-playstation-portal-dos-nuevos-auriculares-pulse-1294234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/sony-anuncia-playstation-portal-wii-2023-dos-nuevos-auriculares-3116230.jpg?tf=1200x' alt='Sony presenta PlayStation Portal, la Wii-U de 2023, y dos nuevos auriculares' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/leroy-merlin-lanza-kit-paneles-solares-autoinstalables-1294200'>Leroy Merlin lanza kits de paneles solares sin instalación: enchufar y listos</a></h4>
     <a href='https://computerhoy.com/energia/leroy-merlin-lanza-kit-paneles-solares-autoinstalables-1294200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/leroy-merlin-lanza-kit-paneles-solares-autoinstalables-varias-potencias-3116136.jpg?tf=1200x' alt='Leroy Merlin lanza kits de paneles solares sin instalación: enchufar y listos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/predicen-gran-extincion-ser-humano-mayor-dinosaurios-mismo-siglo-1294212'>Cerca de suceder una gran extinción del ser humano y mayor que la de los dinosaurios</a></h4>
-    <a href='https://computerhoy.com/life/predicen-gran-extincion-ser-humano-mayor-dinosaurios-mismo-siglo-1294212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/predicen-gran-extincion-ser-humano-mayor-dinosaurios-mismo-siglo-3116186.jpg?tf=1200x' alt='Cerca de suceder una gran extinción del ser humano y mayor que la de los dinosaurios' />
     </a>
 </div>
 
