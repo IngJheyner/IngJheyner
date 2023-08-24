@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/espana-tira-20-energia-solar-producida-absurdo-motivo-muy-espanol-burocracia-1294552'>España tira el 20% de la energía solar producida por un absurdo motivo muy español: la burocracia</a></h4>
-    <a href='https://computerhoy.com/energia/espana-tira-20-energia-solar-producida-absurdo-motivo-muy-espanol-burocracia-1294552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/energia-solar-3116634.jpg?tf=1200x' alt='España tira el 20% de la energía solar producida por un absurdo motivo muy español: la burocracia' />
+    <h4><a href='https://computerhoy.com/apple/funcion-iphone-arruinando-calidad-fotos-1293632'>La función oculta del iPhone que está arruinando la calidad de tus fotos y que debes desactivar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/apple/funcion-iphone-arruinando-calidad-fotos-1293632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/foto-iphone-2923608.jpg?tf=1200x' alt='La función oculta del iPhone que está arruinando la calidad de tus fotos y que debes desactivar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-chromebook-vuelta-cole-oferta-1293314'>Portátil redondo para la vuelta al cole: con Chrome OS y Ryzen 3, pero lo mejor es que es más barato que todos sus rivales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-chromebook-vuelta-cole-oferta-1293314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hp-chromebook-14b-na0017ns-3114276.jpg?tf=1200x' alt='Portátil redondo para la vuelta al cole: con Chrome OS y Ryzen 3, pero lo mejor es que es más barato que todos sus rivales' />
+    <h4><a href='https://computerhoy.com/ciencia/nace-primera-jirafa-sin-manchas-unica-mundo-1294680'>Nace la primera jirafa sin manchas, única en el mundo</a></h4>
+    <a href='https://computerhoy.com/ciencia/nace-primera-jirafa-sin-manchas-unica-mundo-1294680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nace-primera-jirafa-manchas-unica-mundo-3117016.jpg?tf=1200x' alt='Nace la primera jirafa sin manchas, única en el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/secreto-mejor-guardado-apple-cable-usb-c-iphone-15-1294586'>El secreto mejor guardado de Apple: el cable USB-C para el iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/secreto-mejor-guardado-apple-cable-usb-c-iphone-15-1294586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='El secreto mejor guardado de Apple: el cable USB-C para el iPhone 15' />
+    <h4><a href='https://computerhoy.com/apple/tecnologia-iphone-permitio-crear-protesis-medida-impresas-3d-1294654'>La tecnología de tu iPhone que permite crear prótesis 3D para perros y que vuelvan a andar</a></h4>
+    <a href='https://computerhoy.com/apple/tecnologia-iphone-permitio-crear-protesis-medida-impresas-3d-1294654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tecnologia-iphone-permite-crear-protesis-3d-perros-vuelvan-andar-3117102.jpg?tf=1200x' alt='La tecnología de tu iPhone que permite crear prótesis 3D para perros y que vuelvan a andar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/percebes-serian-clave-resolver-misterio-vuelo-malaysia-airlines-desaparecido-oceano-indico-1294518'>Los percebes serían la clave para resolver el misterio del vuelo de Malaysia Airlines desaparecido en el océano Índico</a></h4>
-    <a href='https://computerhoy.com/ciencia/percebes-serian-clave-resolver-misterio-vuelo-malaysia-airlines-desaparecido-oceano-indico-1294518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/percebes-3116540.jpg?tf=1200x' alt='Los percebes serían la clave para resolver el misterio del vuelo de Malaysia Airlines desaparecido en el océano Índico' />
+    <h4><a href='https://computerhoy.com/hogar/hexapro-aire-acondicionado-portatil-ligero-mundo-1294238'>HexaPro, el aire acondicionado más ligero del mundo: es portátil y consume 80% menos energía</a></h4>
+    <a href='https://computerhoy.com/hogar/hexapro-aire-acondicionado-portatil-ligero-mundo-1294238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/aire-acondicionado-portatil-hexapro-3116242.jpg?tf=1200x' alt='HexaPro, el aire acondicionado más ligero del mundo: es portátil y consume 80% menos energía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/revolucion-ia-tareas-especializadas-convertirse-navaja-multiusos-1294510'>La revolución de la IA: de tareas especializadas a convertirse en una navaja multiusos </a></h4>
-    <a href='https://computerhoy.com/tecnologia/revolucion-ia-tareas-especializadas-convertirse-navaja-multiusos-1294510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/revolucion-ia-3116512.jpg?tf=1200x' alt='La revolución de la IA: de tareas especializadas a convertirse en una navaja multiusos ' />
+    <h4><a href='https://computerhoy.com/windows/primera-vez-hay-razon-critica-abandonar-windows-10-pasarse-windows-11-1294588'>Por primera vez hay una razón crítica para abandonar Windows 10 y pasarse a Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/primera-vez-hay-razon-critica-abandonar-windows-10-pasarse-windows-11-1294588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Por primera vez hay una razón crítica para abandonar Windows 10 y pasarse a Windows 11' />
     </a>
 </div>
 
