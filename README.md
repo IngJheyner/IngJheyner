@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/consigue-parecerte-elon-musk-ayuda-chatgpt-1294492'>Así puedes conseguir parecerte y comportarte como Elon Musk con la ayuda de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/consigue-parecerte-elon-musk-ayuda-chatgpt-1294492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/elon-musk-3009470.jpg?tf=1200x' alt='Así puedes conseguir parecerte y comportarte como Elon Musk con la ayuda de ChatGPT' />
+    <h4><a href='https://computerhoy.com/energia/espana-tira-20-energia-solar-producida-absurdo-motivo-muy-espanol-burocracia-1294552'>España tira el 20% de la energía solar producida por un absurdo motivo muy español: la burocracia</a></h4>
+    <a href='https://computerhoy.com/energia/espana-tira-20-energia-solar-producida-absurdo-motivo-muy-espanol-burocracia-1294552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/energia-solar-3116634.jpg?tf=1200x' alt='España tira el 20% de la energía solar producida por un absurdo motivo muy español: la burocracia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-series-8-casi-150-euros-descuento-30-dias-prueba-aunque-eso-pero-1293934'>El Apple Watch Series 8 con casi 150 euros de descuento y con 30 días de prueba, aunque eso sí, con un pero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-watch-series-8-casi-150-euros-descuento-30-dias-prueba-aunque-eso-pero-1293934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-watch-3115470.jpg?tf=1200x' alt='El Apple Watch Series 8 con casi 150 euros de descuento y con 30 días de prueba, aunque eso sí, con un pero' />
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-chromebook-vuelta-cole-oferta-1293314'>Portátil redondo para la vuelta al cole: con Chrome OS y Ryzen 3, pero lo mejor es que es más barato que todos sus rivales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-chromebook-vuelta-cole-oferta-1293314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hp-chromebook-14b-na0017ns-3114276.jpg?tf=1200x' alt='Portátil redondo para la vuelta al cole: con Chrome OS y Ryzen 3, pero lo mejor es que es más barato que todos sus rivales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/oppo-pad-2-analisis-review-caracteristicas-precio-1289628'>Oppo Pad 2, una tablet Android de gama alta que es un déjà vu tras otro por culpa de OnePlus</a></h4>
-    <a href='https://computerhoy.com/analisis/oppo-pad-2-analisis-review-caracteristicas-precio-1289628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/oppo-pad-2-3107986.jpg?tf=1200x' alt='Oppo Pad 2, una tablet Android de gama alta que es un déjà vu tras otro por culpa de OnePlus' />
+    <h4><a href='https://computerhoy.com/apple/secreto-mejor-guardado-apple-cable-usb-c-iphone-15-1294586'>El secreto mejor guardado de Apple: el cable USB-C para el iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/secreto-mejor-guardado-apple-cable-usb-c-iphone-15-1294586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='El secreto mejor guardado de Apple: el cable USB-C para el iPhone 15' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-marcas-eeuu-estan-resistiendo-mejor-asiaticas-1294066'>Por qué las marcas de EEUU están resistiendo mejor que las asiáticas el desplome de ventas de móviles y PC</a></h4>
-    <a href='https://computerhoy.com/moviles/como-marcas-eeuu-estan-resistiendo-mejor-asiaticas-1294066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/asia-vs-eeuu-3116106.jpg?tf=1200x' alt='Por qué las marcas de EEUU están resistiendo mejor que las asiáticas el desplome de ventas de móviles y PC' />
+    <h4><a href='https://computerhoy.com/ciencia/percebes-serian-clave-resolver-misterio-vuelo-malaysia-airlines-desaparecido-oceano-indico-1294518'>Los percebes serían la clave para resolver el misterio del vuelo de Malaysia Airlines desaparecido en el océano Índico</a></h4>
+    <a href='https://computerhoy.com/ciencia/percebes-serian-clave-resolver-misterio-vuelo-malaysia-airlines-desaparecido-oceano-indico-1294518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/percebes-3116540.jpg?tf=1200x' alt='Los percebes serían la clave para resolver el misterio del vuelo de Malaysia Airlines desaparecido en el océano Índico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299'>Mejores televisores 4K de 55 pulgadas que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/tv-sony.jpg?tf=1200x' alt='Mejores televisores 4K de 55 pulgadas que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/tecnologia/revolucion-ia-tareas-especializadas-convertirse-navaja-multiusos-1294510'>La revolución de la IA: de tareas especializadas a convertirse en una navaja multiusos </a></h4>
+    <a href='https://computerhoy.com/tecnologia/revolucion-ia-tareas-especializadas-convertirse-navaja-multiusos-1294510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/revolucion-ia-3116512.jpg?tf=1200x' alt='La revolución de la IA: de tareas especializadas a convertirse en una navaja multiusos ' />
     </a>
 </div>
 
