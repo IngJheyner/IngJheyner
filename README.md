@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/black-list-bizum-lista-debes-evitar-no-quieres-problemas-1294240'>Black List de Bizum: la peligrosa lista que debes evitar si no quieres tener problemas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/black-list-bizum-lista-debes-evitar-no-quieres-problemas-1294240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-2352021.jpg?tf=1200x' alt='Black List de Bizum: la peligrosa lista que debes evitar si no quieres tener problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/samsung-anadira-funcion-smart-tv-ultima-generacion-tv-antiguos-1295180'>Samsung añadirá una función de sus Smart TV de última generación a los TV más antiguos</a></h4>
+    <a href='https://computerhoy.com/gaming/samsung-anadira-funcion-smart-tv-ultima-generacion-tv-antiguos-1295180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-anadira-funcion-smart-tv-ultima-generacion-tv-antiguos-3117900.jpg?tf=1200x' alt='Samsung añadirá una función de sus Smart TV de última generación a los TV más antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-revoluciona-copia-seguridad-nueva-aplicacion-intuitiva-potente-1295150'>Windows 11 revoluciona la copia de seguridad con una nueva aplicación más intuitiva y potente</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-revoluciona-copia-seguridad-nueva-aplicacion-intuitiva-potente-1295150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tecla-windows-11-3117832.jpg?tf=1200x' alt='Windows 11 revoluciona la copia de seguridad con una nueva aplicación más intuitiva y potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/reacciones-emoji-gmail-funcion-oculta-ha-filtrado-codigo-1295144'>Reacciona con emojis a los mensajes de Gmail: la nueva función que llegará pronto</a></h4>
     <a href='https://computerhoy.com/google/reacciones-emoji-gmail-funcion-oculta-ha-filtrado-codigo-1295144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/gmail-2866501.jpg?tf=1200x' alt='Reacciona con emojis a los mensajes de Gmail: la nueva función que llegará pronto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-nuevo-oneplus-nord-3-deja-casi-200-euros-barato-codigo-descuento-1294476'>AliExpress la lía con el nuevo OnePlus Nord 3: lo deja casi 200 euros más barato con un código descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-lia-nuevo-oneplus-nord-3-deja-casi-200-euros-barato-codigo-descuento-1294476' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oneplus-nord-3-3080270.jpg?tf=1200x' alt='AliExpress la lía con el nuevo OnePlus Nord 3: lo deja casi 200 euros más barato con un código descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cambio-radical-iphone-15-pro-filtra-nuevo-color-elimina-preferidos-1295090'>Un cambio radical en el iPhone 15 Pro: se filtra un nuevo color que elimina a uno de los preferidos</a></h4>
-    <a href='https://computerhoy.com/apple/cambio-radical-iphone-15-pro-filtra-nuevo-color-elimina-preferidos-1295090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-15-pro-2959586.jpg?tf=1200x' alt='Un cambio radical en el iPhone 15 Pro: se filtra un nuevo color que elimina a uno de los preferidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elon-musk-desvela-escalofriante-motivo-dejo-utilizar-tiktok-sondeaba-mi-cerebro-1295062'>Elon Musk desvela el escalofriante motivo por el que dejó de utilizar TikTok: "sondeaba mi cerebro"</a></h4>
-    <a href='https://computerhoy.com/apps/elon-musk-desvela-escalofriante-motivo-dejo-utilizar-tiktok-sondeaba-mi-cerebro-1295062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/elon-musk-tiktok-3117654.jpg?tf=1200x' alt='Elon Musk desvela el escalofriante motivo por el que dejó de utilizar TikTok: "sondeaba mi cerebro"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/creadores-chatgpt-estan-muy-preocupados-ocultar-oscuro-ilegal-secreto-1295050'>Los creadores de ChatGPT están muy preocupados por ocultar su más oscuro e ilegal secreto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/creadores-chatgpt-estan-muy-preocupados-ocultar-oscuro-ilegal-secreto-1295050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3074214.jpg?tf=1200x' alt='Los creadores de ChatGPT están muy preocupados por ocultar su más oscuro e ilegal secreto' />
     </a>
 </div>
 
