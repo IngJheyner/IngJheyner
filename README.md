@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/msi-escapan-caracteristicas-procesadores-intel-14a-generacion-1294808'>A MSI se le escapan las características clave de los procesadores Intel de 14ª Generación, incluyendo rendimiento, núcleos e hilos</a></h4>
+    <a href='https://computerhoy.com/pc/msi-escapan-caracteristicas-procesadores-intel-14a-generacion-1294808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/msi-escapan-caracteristicas-clave-procesadores-intel-14a-generacion-incluyen-rendimiento-nucleos-hilos-3117334.jpg?tf=1200x' alt='A MSI se le escapan las características clave de los procesadores Intel de 14ª Generación, incluyendo rendimiento, núcleos e hilos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ahsoka-estrena-rompiendo-canon-star-wars-manera-brutal-1294806'>Ahsoka se estrena en Disney+ rompiendo el canon de Star Wars de una manera brutal</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ahsoka-estrena-rompiendo-canon-star-wars-manera-brutal-1294806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ahsoka-estrena-disney-rompiendo-canon-star-wars-manera-brutal-3117298.jpg?tf=1200x' alt='Ahsoka se estrena en Disney+ rompiendo el canon de Star Wars de una manera brutal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/requisitos-necesarios-ser-seleccionado-colonizar-marte-1294758'>Desvelan los requisitos necesarios para ser seleccionado para colonizar Marte: ¿podrías ser uno de ellos?</a></h4>
+    <a href='https://computerhoy.com/espacio/requisitos-necesarios-ser-seleccionado-colonizar-marte-1294758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/desvelados-requisitios-necesarios-ser-seleccionado-colonizar-marte-podrias-ser-ellos-3117242.jpg?tf=1200x' alt='Desvelan los requisitos necesarios para ser seleccionado para colonizar Marte: ¿podrías ser uno de ellos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-asegura-existe-vida-extraterrestre-planeta-1294794'>La NASA asegura que existe vida extraterrestre pero la estamos buscando en el planeta equivocado</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-asegura-existe-vida-extraterrestre-planeta-1294794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/planetas-3117294.jpg?tf=1200x' alt='La NASA asegura que existe vida extraterrestre pero la estamos buscando en el planeta equivocado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/fruta-tan-espanola-ha-sido-nombrada-sana-mundo-1294788'>Esta fruta tan española, que todo el mundo piensa que es una verdura, ha sido nombrada como la más sana del mundo</a></h4>
     <a href='https://computerhoy.com/alimentacion/fruta-tan-espanola-ha-sido-nombrada-sana-mundo-1294788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/frutas-3117284.jpg?tf=1200x' alt='Esta fruta tan española, que todo el mundo piensa que es una verdura, ha sido nombrada como la más sana del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/cosas-no-sabias-amazon-fire-tv-puede-hacer-1294746'>Cosas que no sabías que tu Amazon Fire TV puede hacer</a></h4>
-    <a href='https://computerhoy.com/tv/cosas-no-sabias-amazon-fire-tv-puede-hacer-1294746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-fire-tv-alexa-3105422.jpg?tf=1200x' alt='Cosas que no sabías que tu Amazon Fire TV puede hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-tener-android-auto-avisos-radares-waze-google-maps-1294196'>El truco de Android Auto para tener los avisos de radares y tráfico de Waze en Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-tener-android-auto-avisos-radares-waze-google-maps-1294196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/alerta-avisos-radares-waze-google-maps-3116184.jpg?tf=1200x' alt='El truco de Android Auto para tener los avisos de radares y tráfico de Waze en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-alcohol-nadie-te-cuenta-1294740'>El lado oscuro de las cervezas sin alcohol, 0% y Light que nadie te cuenta</a></h4>
-    <a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-alcohol-nadie-te-cuenta-1294740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lado-oscuro-cervezas-alcohol-0-ligth-nadie-te-cuenta-3117222.jpg?tf=1200x' alt='El lado oscuro de las cervezas sin alcohol, 0% y Light que nadie te cuenta' />
     </a>
 </div>
 
