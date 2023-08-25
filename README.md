@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/bloqueo-tiempo-real-liga-movistar-pirateria-1295286'>El bloqueo en tiempo real de La Liga y Movistar Plus+ para acabar con el futbol gratis va más allá de las IPTV</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/bloqueo-tiempo-real-liga-movistar-pirateria-1295286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/televisor-futbol-tv-4k-2775915.jpg?tf=1200x' alt='El bloqueo en tiempo real de La Liga y Movistar Plus+ para acabar con el futbol gratis va más allá de las IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/cestas-carros-compra-tienen-mas-germenes-urinario-publico-1295330'>Bacterias en el supermercado: las cestas y carros de la compra tienen más gérmenes que un urinario público</a></h4>
+    <a href='https://computerhoy.com/alimentacion/cestas-carros-compra-tienen-mas-germenes-urinario-publico-1295330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bacterias-supermercado-cestas-carros-compra-tienen-germenes-urinario-publico-3117912.jpg?tf=1200x' alt='Bacterias en el supermercado: las cestas y carros de la compra tienen más gérmenes que un urinario público' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tiembla-oferta-pulsera-inteligente-compite-mi-band-1294506'>Xiaomi tiembla con esta oferta en una pulsera inteligente que compite contra sus Mi Band y que es más barata que nunca</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-tiembla-oferta-pulsera-inteligente-compite-mi-band-1294506' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/5-motivos-merece-pena-huawei-band-8-frente-xiaomi-otras-marcas-3060912.jpg?tf=1200x' alt='Xiaomi tiembla con esta oferta en una pulsera inteligente que compite contra sus Mi Band y que es más barata que nunca' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/regla-60-segundos-google-evitar-estafas-1295316'>La sencilla regla de los 60 segundos que evitará accesos indeseados a tu cuenta de Google</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/regla-60-segundos-google-evitar-estafas-1295316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-refuerza-seguridad-gmail-phishing-3099836.jpg?tf=1200x' alt='La sencilla regla de los 60 segundos que evitará accesos indeseados a tu cuenta de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/giro-planeta-desacelerando-dias-alargan-1295280'>El giro de nuestro planeta se está desacelerando y como resultado los días se alargan, ¿por qué?</a></h4>
-    <a href='https://computerhoy.com/ciencia/giro-planeta-desacelerando-dias-alargan-1295280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/rotacion-tierra-3029324.jpg?tf=1200x' alt='El giro de nuestro planeta se está desacelerando y como resultado los días se alargan, ¿por qué?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/configuracion-oculta-mejora-duracion-bateria-iphone-1292970'>La configuración oculta que mejora la duración de la batería de tu iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/configuracion-oculta-mejora-duracion-bateria-iphone-1292970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bateria-iphone-2350515.jpg?tf=1200x' alt='La configuración oculta que mejora la duración de la batería de tu iPhone' />
     </a>
 </div>
 
