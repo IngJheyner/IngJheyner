@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/pasa-astronauta-muere-espacio-1294770'>Esto es lo que ocurre si un astronauta muere en el espacio</a></h4>
-    <a href='https://computerhoy.com/espacio/pasa-astronauta-muere-espacio-1294770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/astronauta-espacio-3117308.jpg?tf=1200x' alt='Esto es lo que ocurre si un astronauta muere en el espacio' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tiembla-oferta-pulsera-inteligente-compite-mi-band-1294506'>Xiaomi tiembla con esta oferta en una pulsera inteligente que compite contra sus Mi Band y que es más barata que nunca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-tiembla-oferta-pulsera-inteligente-compite-mi-band-1294506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/5-motivos-merece-pena-huawei-band-8-frente-xiaomi-otras-marcas-3060912.jpg?tf=1200x' alt='Xiaomi tiembla con esta oferta en una pulsera inteligente que compite contra sus Mi Band y que es más barata que nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/concorde-nasa-listo-volar-2024-viajar-londres-nueva-york-90-minutos-1295236'>El Concorde de la NASA listo para volar en 2024: viajar de Londres a Nueva York en 90 minutos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/concorde-nasa-listo-volar-2024-viajar-londres-nueva-york-90-minutos-1295236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/avion-supersonico-3118114.jpg?tf=1200x' alt='El Concorde de la NASA listo para volar en 2024: viajar de Londres a Nueva York en 90 minutos' />
+    <h4><a href='https://computerhoy.com/tecnologia/crea-novio-inteligencia-artificial-arrepiente-instante-1295318'>Crea un novio por inteligencia artificial y se arrepiente al instante: “Es como cuidar un Tamagotchi”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crea-novio-inteligencia-artificial-arrepiente-instante-1295318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/simbolo-digital-corazon-3118232.jpg?tf=1200x' alt='Crea un novio por inteligencia artificial y se arrepiente al instante: “Es como cuidar un Tamagotchi”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/truco-util-google-maps-android-auto-tan-sencillo-te-sentiras-estafado-no-utilizas-1294460'>El truco más útil de Google Maps en Android Auto, tan sencillo que te sentirás estafado si no lo utilizas</a></h4>
-    <a href='https://computerhoy.com/android/truco-util-google-maps-android-auto-tan-sencillo-te-sentiras-estafado-no-utilizas-1294460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-2965016.jpg?tf=1200x' alt='El truco más útil de Google Maps en Android Auto, tan sencillo que te sentirás estafado si no lo utilizas' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/regla-60-segundos-google-evitar-estafas-1295316'>La sencilla regla de los 60 segundos que evitará accesos indeseados a tu cuenta de Google</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/regla-60-segundos-google-evitar-estafas-1295316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-refuerza-seguridad-gmail-phishing-3099836.jpg?tf=1200x' alt='La sencilla regla de los 60 segundos que evitará accesos indeseados a tu cuenta de Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-prime-video-flash-scream-espanola-terror-1288568'>Qué películas ver este fin de semana en Netflix, HBO Max y Prime Video: Flash, Scream y una española de terror</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-prime-video-flash-scream-espanola-terror-1288568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/peliculas-fin-semana-3117728.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Prime Video: Flash, Scream y una española de terror' />
+    <h4><a href='https://computerhoy.com/ciencia/giro-planeta-desacelerando-dias-alargan-1295280'>El giro de nuestro planeta se está desacelerando y como resultado los días se alargan, ¿por qué?</a></h4>
+    <a href='https://computerhoy.com/ciencia/giro-planeta-desacelerando-dias-alargan-1295280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/rotacion-tierra-3029324.jpg?tf=1200x' alt='El giro de nuestro planeta se está desacelerando y como resultado los días se alargan, ¿por qué?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/descubren-misterioso-vortice-oscuro-neptuno-visto-tierra-primera-vez-1295224'>Descubren un misterioso vórtice oscuro en Neptuno visto desde la Tierra por primera vez </a></h4>
-    <a href='https://computerhoy.com/espacio/descubren-misterioso-vortice-oscuro-neptuno-visto-tierra-primera-vez-1295224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/vortice-3118086.jpg?tf=1200x' alt='Descubren un misterioso vórtice oscuro en Neptuno visto desde la Tierra por primera vez ' />
+    <h4><a href='https://computerhoy.com/apple/configuracion-oculta-mejora-duracion-bateria-iphone-1292970'>La configuración oculta que mejora la duración de la batería de tu iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/configuracion-oculta-mejora-duracion-bateria-iphone-1292970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bateria-iphone-2350515.jpg?tf=1200x' alt='La configuración oculta que mejora la duración de la batería de tu iPhone' />
     </a>
 </div>
 
