@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/black-list-bizum-lista-debes-evitar-no-quieres-problemas-1294240'>Black List de Bizum: la peligrosa lista que debes evitar si no quieres tener problemas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/black-list-bizum-lista-debes-evitar-no-quieres-problemas-1294240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/bizum-2352021.jpg?tf=1200x' alt='Black List de Bizum: la peligrosa lista que debes evitar si no quieres tener problemas' />
+    <h4><a href='https://computerhoy.com/espacio/pasa-astronauta-muere-espacio-1294770'>Esto es lo que ocurre si un astronauta muere en el espacio</a></h4>
+    <a href='https://computerhoy.com/espacio/pasa-astronauta-muere-espacio-1294770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/astronauta-espacio-3117308.jpg?tf=1200x' alt='Esto es lo que ocurre si un astronauta muere en el espacio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/samsung-anadira-funcion-smart-tv-ultima-generacion-tv-antiguos-1295180'>Samsung añadirá una función de sus Smart TV de última generación a los TV más antiguos</a></h4>
-    <a href='https://computerhoy.com/gaming/samsung-anadira-funcion-smart-tv-ultima-generacion-tv-antiguos-1295180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-anadira-funcion-smart-tv-ultima-generacion-tv-antiguos-3117900.jpg?tf=1200x' alt='Samsung añadirá una función de sus Smart TV de última generación a los TV más antiguos' />
+    <h4><a href='https://computerhoy.com/tecnologia/concorde-nasa-listo-volar-2024-viajar-londres-nueva-york-90-minutos-1295236'>El Concorde de la NASA listo para volar en 2024: viajar de Londres a Nueva York en 90 minutos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/concorde-nasa-listo-volar-2024-viajar-londres-nueva-york-90-minutos-1295236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/avion-supersonico-3118114.jpg?tf=1200x' alt='El Concorde de la NASA listo para volar en 2024: viajar de Londres a Nueva York en 90 minutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-revoluciona-copia-seguridad-nueva-aplicacion-intuitiva-potente-1295150'>Windows 11 revoluciona la copia de seguridad con una nueva aplicación más intuitiva y potente</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-revoluciona-copia-seguridad-nueva-aplicacion-intuitiva-potente-1295150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tecla-windows-11-3117832.jpg?tf=1200x' alt='Windows 11 revoluciona la copia de seguridad con una nueva aplicación más intuitiva y potente' />
+    <h4><a href='https://computerhoy.com/android/truco-util-google-maps-android-auto-tan-sencillo-te-sentiras-estafado-no-utilizas-1294460'>El truco más útil de Google Maps en Android Auto, tan sencillo que te sentirás estafado si no lo utilizas</a></h4>
+    <a href='https://computerhoy.com/android/truco-util-google-maps-android-auto-tan-sencillo-te-sentiras-estafado-no-utilizas-1294460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-2965016.jpg?tf=1200x' alt='El truco más útil de Google Maps en Android Auto, tan sencillo que te sentirás estafado si no lo utilizas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/reacciones-emoji-gmail-funcion-oculta-ha-filtrado-codigo-1295144'>Reacciona con emojis a los mensajes de Gmail: la nueva función que llegará pronto</a></h4>
-    <a href='https://computerhoy.com/google/reacciones-emoji-gmail-funcion-oculta-ha-filtrado-codigo-1295144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/gmail-2866501.jpg?tf=1200x' alt='Reacciona con emojis a los mensajes de Gmail: la nueva función que llegará pronto' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-prime-video-flash-scream-espanola-terror-1288568'>Qué películas ver este fin de semana en Netflix, HBO Max y Prime Video: Flash, Scream y una española de terror</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-prime-video-flash-scream-espanola-terror-1288568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/peliculas-fin-semana-3117728.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Prime Video: Flash, Scream y una española de terror' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-nuevo-oneplus-nord-3-deja-casi-200-euros-barato-codigo-descuento-1294476'>AliExpress la lía con el nuevo OnePlus Nord 3: lo deja casi 200 euros más barato con un código descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-lia-nuevo-oneplus-nord-3-deja-casi-200-euros-barato-codigo-descuento-1294476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oneplus-nord-3-3080270.jpg?tf=1200x' alt='AliExpress la lía con el nuevo OnePlus Nord 3: lo deja casi 200 euros más barato con un código descuento' />
+    <h4><a href='https://computerhoy.com/espacio/descubren-misterioso-vortice-oscuro-neptuno-visto-tierra-primera-vez-1295224'>Descubren un misterioso vórtice oscuro en Neptuno visto desde la Tierra por primera vez </a></h4>
+    <a href='https://computerhoy.com/espacio/descubren-misterioso-vortice-oscuro-neptuno-visto-tierra-primera-vez-1295224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/vortice-3118086.jpg?tf=1200x' alt='Descubren un misterioso vórtice oscuro en Neptuno visto desde la Tierra por primera vez ' />
     </a>
 </div>
 
