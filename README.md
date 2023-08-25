@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/curiosa-historia-cuando-steve-jobs-perdio-estribos-gano-apodo-steve-malo-1293650'>La curiosa historia de cuándo Steve Jobs perdió los estribos y se ganó el apodo de "Steve el malo"</a></h4>
-    <a href='https://computerhoy.com/life/curiosa-historia-cuando-steve-jobs-perdio-estribos-gano-apodo-steve-malo-1293650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/camiseta-steve-jobs-3116978.jpg?tf=1200x' alt='La curiosa historia de cuándo Steve Jobs perdió los estribos y se ganó el apodo de "Steve el malo"' />
+    <h4><a href='https://computerhoy.com/google/reacciones-emoji-gmail-funcion-oculta-ha-filtrado-codigo-1295144'>Reacciona con emojis a los mensajes de Gmail: la nueva función que llegará pronto</a></h4>
+    <a href='https://computerhoy.com/google/reacciones-emoji-gmail-funcion-oculta-ha-filtrado-codigo-1295144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/gmail-2866501.jpg?tf=1200x' alt='Reacciona con emojis a los mensajes de Gmail: la nueva función que llegará pronto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cuando-sale-iphone-15-fecha-lanzamiento-cuando-sale-venta-espana-1295026'>¿Cuándo sale el iPhone 15?: fecha de lanzamiento y cuándo sale a la venta en España</a></h4>
-    <a href='https://computerhoy.com/apple/cuando-sale-iphone-15-fecha-lanzamiento-cuando-sale-venta-espana-1295026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cuando-sale-iphone-15-3117592.jpg?tf=1200x' alt='¿Cuándo sale el iPhone 15?: fecha de lanzamiento y cuándo sale a la venta en España' />
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-nuevo-oneplus-nord-3-deja-casi-200-euros-barato-codigo-descuento-1294476'>AliExpress la lía con el nuevo OnePlus Nord 3: lo deja casi 200 euros más barato con un código descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-lia-nuevo-oneplus-nord-3-deja-casi-200-euros-barato-codigo-descuento-1294476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oneplus-nord-3-3080270.jpg?tf=1200x' alt='AliExpress la lía con el nuevo OnePlus Nord 3: lo deja casi 200 euros más barato con un código descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/oferta-brutal-ps5-100-euros-barata-orden-sony-1294536'>Oferta brutal en PS5: es 100 euros más barata por orden de Sony</a></h4>
-    <a href='https://computerhoy.com/gaming/oferta-brutal-ps5-100-euros-barata-orden-sony-1294536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/oferta-ps5-3116510.jpg?tf=1200x' alt='Oferta brutal en PS5: es 100 euros más barata por orden de Sony' />
+    <h4><a href='https://computerhoy.com/apple/cambio-radical-iphone-15-pro-filtra-nuevo-color-elimina-preferidos-1295090'>Un cambio radical en el iPhone 15 Pro: se filtra un nuevo color que elimina a uno de los preferidos</a></h4>
+    <a href='https://computerhoy.com/apple/cambio-radical-iphone-15-pro-filtra-nuevo-color-elimina-preferidos-1295090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-15-pro-2959586.jpg?tf=1200x' alt='Un cambio radical en el iPhone 15 Pro: se filtra un nuevo color que elimina a uno de los preferidos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cables-red-pc-consola-1072915'>Mejores cables de red que puedes comprar para tu PC y consola</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cables-red-pc-consola-1072915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/cable-ethernet-router-wifi.jpg?tf=1200x' alt='Mejores cables de red que puedes comprar para tu PC y consola' />
+    <h4><a href='https://computerhoy.com/apps/elon-musk-desvela-escalofriante-motivo-dejo-utilizar-tiktok-sondeaba-mi-cerebro-1295062'>Elon Musk desvela el escalofriante motivo por el que dejó de utilizar TikTok: "sondeaba mi cerebro"</a></h4>
+    <a href='https://computerhoy.com/apps/elon-musk-desvela-escalofriante-motivo-dejo-utilizar-tiktok-sondeaba-mi-cerebro-1295062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/elon-musk-tiktok-3117654.jpg?tf=1200x' alt='Elon Musk desvela el escalofriante motivo por el que dejó de utilizar TikTok: "sondeaba mi cerebro"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ha-cambiado-bizum-manera-pagamos-solo-7-anos-1237624'>25 aniversario de Computer Hoy: Bizum, el plan desesperado de los bancos que ha cambiado la forma de pagar</a></h4>
-    <a href='https://computerhoy.com/apps/ha-cambiado-bizum-manera-pagamos-solo-7-anos-1237624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bizum-3103718.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Bizum, el plan desesperado de los bancos que ha cambiado la forma de pagar' />
+    <h4><a href='https://computerhoy.com/tecnologia/creadores-chatgpt-estan-muy-preocupados-ocultar-oscuro-ilegal-secreto-1295050'>Los creadores de ChatGPT están muy preocupados por ocultar su más oscuro e ilegal secreto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/creadores-chatgpt-estan-muy-preocupados-ocultar-oscuro-ilegal-secreto-1295050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-3074214.jpg?tf=1200x' alt='Los creadores de ChatGPT están muy preocupados por ocultar su más oscuro e ilegal secreto' />
     </a>
 </div>
 
