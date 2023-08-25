@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/msi-escapan-caracteristicas-procesadores-intel-14a-generacion-1294808'>A MSI se le escapan las características clave de los procesadores Intel de 14ª Generación, incluyendo rendimiento, núcleos e hilos</a></h4>
-    <a href='https://computerhoy.com/pc/msi-escapan-caracteristicas-procesadores-intel-14a-generacion-1294808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/msi-escapan-caracteristicas-clave-procesadores-intel-14a-generacion-incluyen-rendimiento-nucleos-hilos-3117334.jpg?tf=1200x' alt='A MSI se le escapan las características clave de los procesadores Intel de 14ª Generación, incluyendo rendimiento, núcleos e hilos' />
+    <h4><a href='https://computerhoy.com/life/curiosa-historia-cuando-steve-jobs-perdio-estribos-gano-apodo-steve-malo-1293650'>La curiosa historia de cuándo Steve Jobs perdió los estribos y se ganó el apodo de "Steve el malo"</a></h4>
+    <a href='https://computerhoy.com/life/curiosa-historia-cuando-steve-jobs-perdio-estribos-gano-apodo-steve-malo-1293650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/camiseta-steve-jobs-3116978.jpg?tf=1200x' alt='La curiosa historia de cuándo Steve Jobs perdió los estribos y se ganó el apodo de "Steve el malo"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ahsoka-estrena-rompiendo-canon-star-wars-manera-brutal-1294806'>Ahsoka se estrena en Disney+ rompiendo el canon de Star Wars de una manera brutal</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ahsoka-estrena-rompiendo-canon-star-wars-manera-brutal-1294806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ahsoka-estrena-disney-rompiendo-canon-star-wars-manera-brutal-3117298.jpg?tf=1200x' alt='Ahsoka se estrena en Disney+ rompiendo el canon de Star Wars de una manera brutal' />
+    <h4><a href='https://computerhoy.com/apple/cuando-sale-iphone-15-fecha-lanzamiento-cuando-sale-venta-espana-1295026'>¿Cuándo sale el iPhone 15?: fecha de lanzamiento y cuándo sale a la venta en España</a></h4>
+    <a href='https://computerhoy.com/apple/cuando-sale-iphone-15-fecha-lanzamiento-cuando-sale-venta-espana-1295026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cuando-sale-iphone-15-3117592.jpg?tf=1200x' alt='¿Cuándo sale el iPhone 15?: fecha de lanzamiento y cuándo sale a la venta en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/requisitos-necesarios-ser-seleccionado-colonizar-marte-1294758'>Desvelan los requisitos necesarios para ser seleccionado para colonizar Marte: ¿podrías ser uno de ellos?</a></h4>
-    <a href='https://computerhoy.com/espacio/requisitos-necesarios-ser-seleccionado-colonizar-marte-1294758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/desvelados-requisitios-necesarios-ser-seleccionado-colonizar-marte-podrias-ser-ellos-3117242.jpg?tf=1200x' alt='Desvelan los requisitos necesarios para ser seleccionado para colonizar Marte: ¿podrías ser uno de ellos?' />
+    <h4><a href='https://computerhoy.com/gaming/oferta-brutal-ps5-100-euros-barata-orden-sony-1294536'>Oferta brutal en PS5: es 100 euros más barata por orden de Sony</a></h4>
+    <a href='https://computerhoy.com/gaming/oferta-brutal-ps5-100-euros-barata-orden-sony-1294536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/oferta-ps5-3116510.jpg?tf=1200x' alt='Oferta brutal en PS5: es 100 euros más barata por orden de Sony' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-asegura-existe-vida-extraterrestre-planeta-1294794'>La NASA asegura que existe vida extraterrestre pero la estamos buscando en el planeta equivocado</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-asegura-existe-vida-extraterrestre-planeta-1294794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/planetas-3117294.jpg?tf=1200x' alt='La NASA asegura que existe vida extraterrestre pero la estamos buscando en el planeta equivocado' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-cables-red-pc-consola-1072915'>Mejores cables de red que puedes comprar para tu PC y consola</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-cables-red-pc-consola-1072915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/cable-ethernet-router-wifi.jpg?tf=1200x' alt='Mejores cables de red que puedes comprar para tu PC y consola' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/fruta-tan-espanola-ha-sido-nombrada-sana-mundo-1294788'>Esta fruta tan española, que todo el mundo piensa que es una verdura, ha sido nombrada como la más sana del mundo</a></h4>
-    <a href='https://computerhoy.com/alimentacion/fruta-tan-espanola-ha-sido-nombrada-sana-mundo-1294788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/frutas-3117284.jpg?tf=1200x' alt='Esta fruta tan española, que todo el mundo piensa que es una verdura, ha sido nombrada como la más sana del mundo' />
+    <h4><a href='https://computerhoy.com/apps/ha-cambiado-bizum-manera-pagamos-solo-7-anos-1237624'>25 aniversario de Computer Hoy: Bizum, el plan desesperado de los bancos que ha cambiado la forma de pagar</a></h4>
+    <a href='https://computerhoy.com/apps/ha-cambiado-bizum-manera-pagamos-solo-7-anos-1237624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bizum-3103718.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Bizum, el plan desesperado de los bancos que ha cambiado la forma de pagar' />
     </a>
 </div>
 
