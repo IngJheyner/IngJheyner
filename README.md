@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/dropbox-pone-final-almacenamiento-ilimitado-nube-te-afecta-1295562'>Dropbox pone punto y final a su famoso almacenamiento ilimitado en la nube debido a esta razón</a></h4>
-    <a href='https://computerhoy.com/apps/dropbox-pone-final-almacenamiento-ilimitado-nube-te-afecta-1295562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dropbox-3118656.jpg?tf=1200x' alt='Dropbox pone punto y final a su famoso almacenamiento ilimitado en la nube debido a esta razón' />
+    <h4><a href='https://computerhoy.com/apps/llegan-avatares-reacciones-estado-whatsapp-1295586'>Llegan los avatares a las reacciones de estado en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/llegan-avatares-reacciones-estado-whatsapp-1295586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-avatares-2961198.jpg?tf=1200x' alt='Llegan los avatares a las reacciones de estado en WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-marvel-2023-cuales-han-estrenado-faltan-llegar-1291196'>Películas Marvel de 2023: cuáles se han estrenado y las que faltan por llegar</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-marvel-2023-cuales-han-estrenado-faltan-llegar-1291196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/marvels-pelicula-3111012.jpg?tf=1200x' alt='Películas Marvel de 2023: cuáles se han estrenado y las que faltan por llegar' />
+    <h4><a href='https://computerhoy.com/apps/twitter-anuncia-acceso-previo-x-hiring-permitir-empresas-publicar-ofertas-trabajo-1295580'>Twitter quiere ser la nueva LinkedIn y anuncia el acceso previo a X Hiring para permitir a las empresas publicar ofertas de trabajo</a></h4>
+    <a href='https://computerhoy.com/apps/twitter-anuncia-acceso-previo-x-hiring-permitir-empresas-publicar-ofertas-trabajo-1295580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/twitter-x-linkedin-3118698.jpg?tf=1200x' alt='Twitter quiere ser la nueva LinkedIn y anuncia el acceso previo a X Hiring para permitir a las empresas publicar ofertas de trabajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/funciones-windows-11-ignoradas-1290596'>10 funciones de Windows 11 que todo el mundo ignora, pero que en realidad son alucinantes</a></h4>
-    <a href='https://computerhoy.com/tutoriales/funciones-windows-11-ignoradas-1290596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tecla-windows-11-3117832.jpg?tf=1200x' alt='10 funciones de Windows 11 que todo el mundo ignora, pero que en realidad son alucinantes' />
+    <h4><a href='https://computerhoy.com/tutoriales/error-503-significa-como-solucionarlo-1294508'>Error 503: ¿qué significa y cómo solucionarlo?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/error-503-significa-como-solucionarlo-1294508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/error-503-3116506.jpg?tf=1200x' alt='Error 503: ¿qué significa y cómo solucionarlo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tiene-producto-sorprendente-incluso-ser-xiaomi-ahora-oferta-1294016'>Xiaomi tiene un producto sorprendente incluso para ser Xiaomi, y ahora está en oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-tiene-producto-sorprendente-incluso-ser-xiaomi-ahora-oferta-1294016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiaomi-instant-photo-printer-1s-set-3115680.jpg?tf=1200x' alt='Xiaomi tiene un producto sorprendente incluso para ser Xiaomi, y ahora está en oferta' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-recientes-errores-bsod-windows-11-no-son-actualizaciones-1295570'>Microsoft se pronuncia sobre los errores BSOD en Windows 11 y que afectan a las placas base MSI: no son sus actualizaciones</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-recientes-errores-bsod-windows-11-no-son-actualizaciones-1295570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/error-windows-11-3118674.jpg?tf=1200x' alt='Microsoft se pronuncia sobre los errores BSOD en Windows 11 y que afectan a las placas base MSI: no son sus actualizaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/internet-peligros-salud-di-adios-doctor-google-1289350'>Internet y los peligros para tu salud: di adiós al Doctor Google</a></h4>
-    <a href='https://computerhoy.com/internet/internet-peligros-salud-di-adios-doctor-google-1289350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/internet-salud-3111574.jpg?tf=1200x' alt='Internet y los peligros para tu salud: di adiós al Doctor Google' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-libros-texto-hijos-baratos-mejor-precio-solo-foto-1290064'>Cómo encontrar los libros de texto de tus hijos más baratos y al mejor precio con solo una foto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-encontrar-libros-texto-hijos-baratos-mejor-precio-solo-foto-1290064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/libros-texto-3108706.jpg?tf=1200x' alt='Cómo encontrar los libros de texto de tus hijos más baratos y al mejor precio con solo una foto' />
     </a>
 </div>
 
