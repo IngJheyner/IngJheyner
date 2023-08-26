@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/paleontologia-web-outlook-correo-electronico-microsoft-1291864'>Así ha cambiado el servicio de correo electrónico de Microsoft: de Hotmail a Outlook</a></h4>
+    <a href='https://computerhoy.com/tecnologia/paleontologia-web-outlook-correo-electronico-microsoft-1291864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/paleontologia-web-correo-electronico-microsoft-hotmail-outlook-3112108.jpg?tf=1200x' alt='Así ha cambiado el servicio de correo electrónico de Microsoft: de Hotmail a Outlook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/deshumidificador-me-compro-guia-consejos-adquirir-mejor-opcion-1144379'>¿Qué deshumidificador me compro? Guía y consejos para adquirir la mejor opción</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/deshumidificador-me-compro-guia-consejos-adquirir-mejor-opcion-1144379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/deshumidificador-2286919.jpg?tf=1200x' alt='¿Qué deshumidificador me compro? Guía y consejos para adquirir la mejor opción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/barcelona-instalara-semaforo-homenajeara-mortadelo-filemon-1295526'>Barcelona instalará un semáforo que homenajeará a Mortadelo y Filemón</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/barcelona-instalara-semaforo-homenajeara-mortadelo-filemon-1295526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/barcelona-instalara-semaforo-homenaje-mortadelo-filemon-3118600.jpg?tf=1200x' alt='Barcelona instalará un semáforo que homenajeará a Mortadelo y Filemón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/quien-es-hugging-face-empresa-invierten-google-ibm-intel-amazon-1295332'>Quién es Hugging Face, la empresa en la que Google, Intel, IBM y Amazon han invertido más de 200 millones de dólares</a></h4>
     <a href='https://computerhoy.com/tecnologia/quien-es-hugging-face-empresa-invierten-google-ibm-intel-amazon-1295332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/quien-hugging-face-empresa-google-intel-amazon-nvidia-han-invertido-200-millones-dolares-3118316.jpg?tf=1200x' alt='Quién es Hugging Face, la empresa en la que Google, Intel, IBM y Amazon han invertido más de 200 millones de dólares' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/bloqueo-tiempo-real-liga-movistar-pirateria-1295286'>El bloqueo en tiempo real de La Liga y Movistar Plus+ para acabar con el futbol gratis va más allá de las IPTV</a></h4>
     <a href='https://computerhoy.com/entretenimiento/bloqueo-tiempo-real-liga-movistar-pirateria-1295286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/televisor-futbol-tv-4k-2775915.jpg?tf=1200x' alt='El bloqueo en tiempo real de La Liga y Movistar Plus+ para acabar con el futbol gratis va más allá de las IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/cestas-carros-compra-tienen-mas-germenes-urinario-publico-1295330'>Bacterias en el supermercado: las cestas y carros de la compra tienen más gérmenes que un urinario público</a></h4>
-    <a href='https://computerhoy.com/alimentacion/cestas-carros-compra-tienen-mas-germenes-urinario-publico-1295330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bacterias-supermercado-cestas-carros-compra-tienen-germenes-urinario-publico-3117912.jpg?tf=1200x' alt='Bacterias en el supermercado: las cestas y carros de la compra tienen más gérmenes que un urinario público' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tiembla-oferta-pulsera-inteligente-compite-mi-band-1294506'>Xiaomi tiembla con esta oferta en una pulsera inteligente que compite contra sus Mi Band y que es más barata que nunca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-tiembla-oferta-pulsera-inteligente-compite-mi-band-1294506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/5-motivos-merece-pena-huawei-band-8-frente-xiaomi-otras-marcas-3060912.jpg?tf=1200x' alt='Xiaomi tiembla con esta oferta en una pulsera inteligente que compite contra sus Mi Band y que es más barata que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crea-novio-inteligencia-artificial-arrepiente-instante-1295318'>Crea un novio por inteligencia artificial y se arrepiente al instante: “Es como cuidar un Tamagotchi”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crea-novio-inteligencia-artificial-arrepiente-instante-1295318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/simbolo-digital-corazon-3118232.jpg?tf=1200x' alt='Crea un novio por inteligencia artificial y se arrepiente al instante: “Es como cuidar un Tamagotchi”' />
     </a>
 </div>
 
