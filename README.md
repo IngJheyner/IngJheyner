@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/quien-es-hugging-face-empresa-invierten-google-ibm-intel-amazon-1295332'>Quién es Hugging Face, la empresa en la que Google, Intel, IBM y Amazon han invertido más de 200 millones de dólares</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quien-es-hugging-face-empresa-invierten-google-ibm-intel-amazon-1295332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/quien-hugging-face-empresa-google-intel-amazon-nvidia-han-invertido-200-millones-dolares-3118316.jpg?tf=1200x' alt='Quién es Hugging Face, la empresa en la que Google, Intel, IBM y Amazon han invertido más de 200 millones de dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/bloqueo-tiempo-real-liga-movistar-pirateria-1295286'>El bloqueo en tiempo real de La Liga y Movistar Plus+ para acabar con el futbol gratis va más allá de las IPTV</a></h4>
     <a href='https://computerhoy.com/entretenimiento/bloqueo-tiempo-real-liga-movistar-pirateria-1295286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/televisor-futbol-tv-4k-2775915.jpg?tf=1200x' alt='El bloqueo en tiempo real de La Liga y Movistar Plus+ para acabar con el futbol gratis va más allá de las IPTV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/crea-novio-inteligencia-artificial-arrepiente-instante-1295318'>Crea un novio por inteligencia artificial y se arrepiente al instante: “Es como cuidar un Tamagotchi”</a></h4>
     <a href='https://computerhoy.com/tecnologia/crea-novio-inteligencia-artificial-arrepiente-instante-1295318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/simbolo-digital-corazon-3118232.jpg?tf=1200x' alt='Crea un novio por inteligencia artificial y se arrepiente al instante: “Es como cuidar un Tamagotchi”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/regla-60-segundos-google-evitar-estafas-1295316'>La sencilla regla de los 60 segundos que evitará accesos indeseados a tu cuenta de Google</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/regla-60-segundos-google-evitar-estafas-1295316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-refuerza-seguridad-gmail-phishing-3099836.jpg?tf=1200x' alt='La sencilla regla de los 60 segundos que evitará accesos indeseados a tu cuenta de Google' />
     </a>
 </div>
 
