@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/avance-permite-robots-aprender-tareas-bimanuales-poca-ayuda-1295626'>Este avance permite a los robots aprender tareas bimanuales con mínima ayuda</a></h4>
+    <a href='https://computerhoy.com/tecnologia/avance-permite-robots-aprender-tareas-bimanuales-poca-ayuda-1295626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bi-touch-3118812.jpg?tf=1200x' alt='Este avance permite a los robots aprender tareas bimanuales con mínima ayuda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/estos-trucos-podras-cargar-iphone-completo-tan-solo-minutos-1295616'>Con este sencillo truco podrás cargar tu iPhone por completo en tan solo unos minutos</a></h4>
+    <a href='https://computerhoy.com/apple/estos-trucos-podras-cargar-iphone-completo-tan-solo-minutos-1295616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/modo-avion-iphone-3020440.jpg?tf=1200x' alt='Con este sencillo truco podrás cargar tu iPhone por completo en tan solo unos minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-robot-aspirador-xiaomi-friega-cualquier-rincon-1294668'>Amazon tumba el precio del robot aspirador Xiaomi que friega y que cabe en cualquier rincón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-robot-aspirador-xiaomi-friega-cualquier-rincon-1294668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiaomi-robot-vacuum-e12-3116980.jpg?tf=1200x' alt='Amazon tumba el precio del robot aspirador Xiaomi que friega y que cabe en cualquier rincón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/messenger-lite-android-dice-adios-meta-ofrece-alternativa-1295594'>Meta decide acabar con Messenger Lite en Android y ofrece esta alternativa</a></h4>
     <a href='https://computerhoy.com/apps/messenger-lite-android-dice-adios-meta-ofrece-alternativa-1295594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/messenger-lite-3118726.jpg?tf=1200x' alt='Meta decide acabar con Messenger Lite en Android y ofrece esta alternativa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/cientificos-no-saben-ciberdelincuentes-estan-inutilizando-estos-telescopios-espaciales-1295588'>Científicos siguen buscando razones por las que los ciberdelincuentes están inutilizando estos telescopios espaciales</a></h4>
     <a href='https://computerhoy.com/espacio/cientificos-no-saben-ciberdelincuentes-estan-inutilizando-estos-telescopios-espaciales-1295588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/gemini-north-3118710.jpg?tf=1200x' alt='Científicos siguen buscando razones por las que los ciberdelincuentes están inutilizando estos telescopios espaciales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-calderos-hace-5000-anos-examinando-proteinas-1295530'>Descubren calderos de hace 5.000 años tan bien conservados, que sabemos lo que cocinaban en ellos</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-calderos-hace-5000-anos-examinando-proteinas-1295530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/descubren-calderos-hace-5000-anos-tan-bien-conservados-sabemos-cocinaban-ellos-3118622.jpg?tf=1200x' alt='Descubren calderos de hace 5.000 años tan bien conservados, que sabemos lo que cocinaban en ellos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/llegan-avatares-reacciones-estado-whatsapp-1295586'>Llegan los avatares a las reacciones de estado en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/llegan-avatares-reacciones-estado-whatsapp-1295586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/whatsapp-avatares-2961198.jpg?tf=1200x' alt='Llegan los avatares a las reacciones de estado en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/twitter-anuncia-acceso-previo-x-hiring-permitir-empresas-publicar-ofertas-trabajo-1295580'>Twitter quiere ser la nueva LinkedIn y anuncia el acceso previo a X Hiring para permitir a las empresas publicar ofertas de trabajo</a></h4>
-    <a href='https://computerhoy.com/apps/twitter-anuncia-acceso-previo-x-hiring-permitir-empresas-publicar-ofertas-trabajo-1295580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/twitter-x-linkedin-3118698.jpg?tf=1200x' alt='Twitter quiere ser la nueva LinkedIn y anuncia el acceso previo a X Hiring para permitir a las empresas publicar ofertas de trabajo' />
     </a>
 </div>
 
