@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/paleontologia-web-outlook-correo-electronico-microsoft-1291864'>Así ha cambiado el servicio de correo electrónico de Microsoft: de Hotmail a Outlook</a></h4>
-    <a href='https://computerhoy.com/tecnologia/paleontologia-web-outlook-correo-electronico-microsoft-1291864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/paleontologia-web-correo-electronico-microsoft-hotmail-outlook-3112108.jpg?tf=1200x' alt='Así ha cambiado el servicio de correo electrónico de Microsoft: de Hotmail a Outlook' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tiene-producto-sorprendente-incluso-ser-xiaomi-ahora-oferta-1294016'>Xiaomi tiene un producto sorprendente incluso para ser Xiaomi, y ahora está en oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-tiene-producto-sorprendente-incluso-ser-xiaomi-ahora-oferta-1294016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiaomi-instant-photo-printer-1s-set-3115680.jpg?tf=1200x' alt='Xiaomi tiene un producto sorprendente incluso para ser Xiaomi, y ahora está en oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/deshumidificador-me-compro-guia-consejos-adquirir-mejor-opcion-1144379'>¿Qué deshumidificador me compro? Guía y consejos para adquirir la mejor opción</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/deshumidificador-me-compro-guia-consejos-adquirir-mejor-opcion-1144379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/deshumidificador-2286919.jpg?tf=1200x' alt='¿Qué deshumidificador me compro? Guía y consejos para adquirir la mejor opción' />
+    <h4><a href='https://computerhoy.com/internet/internet-peligros-salud-di-adios-doctor-google-1289350'>Internet y los peligros para tu salud: di adiós al Doctor Google</a></h4>
+    <a href='https://computerhoy.com/internet/internet-peligros-salud-di-adios-doctor-google-1289350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/internet-salud-3111574.jpg?tf=1200x' alt='Internet y los peligros para tu salud: di adiós al Doctor Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/barcelona-instalara-semaforo-homenajeara-mortadelo-filemon-1295526'>Barcelona instalará un semáforo que homenajeará a Mortadelo y Filemón</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/barcelona-instalara-semaforo-homenajeara-mortadelo-filemon-1295526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/barcelona-instalara-semaforo-homenaje-mortadelo-filemon-3118600.jpg?tf=1200x' alt='Barcelona instalará un semáforo que homenajeará a Mortadelo y Filemón' />
+    <h4><a href='https://computerhoy.com/energia/japon-echa-mar-agua-radioactiva-central-fukushima-1295528'>Por qué Japón está echando al mar el agua radioactiva de la central de Fukushima</a></h4>
+    <a href='https://computerhoy.com/energia/japon-echa-mar-agua-radioactiva-central-fukushima-1295528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/japon-echando-mar-agua-radioactiva-central-fukushima-3118618.jpg?tf=1200x' alt='Por qué Japón está echando al mar el agua radioactiva de la central de Fukushima' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quien-es-hugging-face-empresa-invierten-google-ibm-intel-amazon-1295332'>Quién es Hugging Face, la empresa en la que Google, Intel, IBM y Amazon han invertido más de 200 millones de dólares</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quien-es-hugging-face-empresa-invierten-google-ibm-intel-amazon-1295332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/quien-hugging-face-empresa-google-intel-amazon-nvidia-han-invertido-200-millones-dolares-3118316.jpg?tf=1200x' alt='Quién es Hugging Face, la empresa en la que Google, Intel, IBM y Amazon han invertido más de 200 millones de dólares' />
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/bloqueo-tiempo-real-liga-movistar-pirateria-1295286'>El bloqueo en tiempo real de La Liga y Movistar Plus+ para acabar con el futbol gratis va más allá de las IPTV</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/bloqueo-tiempo-real-liga-movistar-pirateria-1295286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/televisor-futbol-tv-4k-2775915.jpg?tf=1200x' alt='El bloqueo en tiempo real de La Liga y Movistar Plus+ para acabar con el futbol gratis va más allá de las IPTV' />
+    <h4><a href='https://computerhoy.com/life/emocionarse-comprar-unas-sartenes-no-hacerse-mayor-creer-has-hecho-buena-eleccion-1291712'>Emocionarse por comprar unas sartenes no es hacerse mayor, es creer en que has hecho una buena elección</a></h4>
+    <a href='https://computerhoy.com/life/emocionarse-comprar-unas-sartenes-no-hacerse-mayor-creer-has-hecho-buena-eleccion-1291712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nino-emocionado-sarten-3111702.jpg?tf=1200x' alt='Emocionarse por comprar unas sartenes no es hacerse mayor, es creer en que has hecho una buena elección' />
     </a>
 </div>
 
