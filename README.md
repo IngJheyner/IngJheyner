@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/redes-sociales-famosas-dietas-milagro-papel-influencers-puede-ser-muy-importante-debido-gran-alcance-1292990'>Las redes sociales y las famosas dietas milagro: "El papel de los influencers puede ser muy importante debido a su gran alcance"</a></h4>
-    <a href='https://computerhoy.com/life/redes-sociales-famosas-dietas-milagro-papel-influencers-puede-ser-muy-importante-debido-gran-alcance-1292990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/redes-sociales-dietas-milagro-3117670.jpg?tf=1200x' alt='Las redes sociales y las famosas dietas milagro: "El papel de los influencers puede ser muy importante debido a su gran alcance"' />
+    <h4><a href='https://computerhoy.com/tutoriales/error-500-significa-como-solucionarlo-1293380'>Error 500: ¿qué significa y cómo solucionarlo?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/error-500-significa-como-solucionarlo-1293380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/error-500-3114274.jpg?tf=1200x' alt='Error 500: ¿qué significa y cómo solucionarlo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/inventos-nacieron-accidente-han-revolucionado-mundo-1289846'>De errores a éxitos: inventos que nacieron por accidente y han revolucionado el mundo</a></h4>
-    <a href='https://computerhoy.com/life/inventos-nacieron-accidente-han-revolucionado-mundo-1289846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inventos-accidente-3113054.jpg?tf=1200x' alt='De errores a éxitos: inventos que nacieron por accidente y han revolucionado el mundo' />
+    <h4><a href='https://computerhoy.com/tecnologia/especie-perro-robot-sigue-funcionando-solo-vez-ha-puesto-marcha-1295854'>Esta especie de perro robot sigue funcionando por sí solo una vez que se ha puesto en marcha</a></h4>
+    <a href='https://computerhoy.com/tecnologia/especie-perro-robot-sigue-funcionando-solo-vez-ha-puesto-marcha-1295854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/especie-perro-robot-sigue-funcionando-solo-vez-ha-puesto-marcha-3119046.jpg?tf=1200x' alt='Esta especie de perro robot sigue funcionando por sí solo una vez que se ha puesto en marcha' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/cosas-nunca-debes-hacer-pc-windows-11-1295016'>Cosas que nunca debes hacer en tu PC con Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/cosas-nunca-debes-hacer-pc-windows-11-1295016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cosas-nunca-debes-hacer-pc-3117548.jpg?tf=1200x' alt='Cosas que nunca debes hacer en tu PC con Windows 11' />
+    <h4><a href='https://computerhoy.com/tutoriales/nintendo-switch-no-carga-ni-enciende-1294154'>Qué hacer cuando una Nintendo Switch no carga ni enciende</a></h4>
+    <a href='https://computerhoy.com/tutoriales/nintendo-switch-no-carga-ni-enciende-1294154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nintendo-switch-no-enciende-3116120.jpg?tf=1200x' alt='Qué hacer cuando una Nintendo Switch no carga ni enciende' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/data-center-considera-gran-pilar-era-digital-1282926'>¿Qué es un 'data center' y por qué se considera el gran pilar de la era digital?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/data-center-considera-gran-pilar-era-digital-1282926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1692867561755-3116616.jpg?tf=1200x' alt='¿Qué es un 'data center' y por qué se considera el gran pilar de la era digital?' />
+    <h4><a href='https://computerhoy.com/tecnologia/primer-software-capaz-predecir-desastres-geograficos-salvar-millones-vidas-1295850'>Este es el primer software capaz de predecir desastres geográficos para salvar millones de vidas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-software-capaz-predecir-desastres-geograficos-salvar-millones-vidas-1295850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/desastre-natural-3119042.jpg?tf=1200x' alt='Este es el primer software capaz de predecir desastres geográficos para salvar millones de vidas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/diferencia-tonelada-metrica-tonelada-corta-tonelada-larga-1295012'>No existe una única tonelada: en qué se diferencia la tonelada métrica, tonelada corta y tonelada larga</a></h4>
-    <a href='https://computerhoy.com/ciencia/diferencia-tonelada-metrica-tonelada-corta-tonelada-larga-1295012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/no-existe-unica-tonelada-diferencia-tonelada-metrica-tonelada-corta-tonelada-larga-3117338.jpg?tf=1200x' alt='No existe una única tonelada: en qué se diferencia la tonelada métrica, tonelada corta y tonelada larga' />
+    <h4><a href='https://computerhoy.com/tecnologia/estado-actual-futuro-inteligencia-artificial-vision-corto-plazo-1289352'>El estado actual y el futuro de la Inteligencia Artificial: una visión a corto plazo </a></h4>
+    <a href='https://computerhoy.com/tecnologia/estado-actual-futuro-inteligencia-artificial-vision-corto-plazo-1289352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inteligencia-artificial-3109798.jpg?tf=1200x' alt='El estado actual y el futuro de la Inteligencia Artificial: una visión a corto plazo ' />
     </a>
 </div>
 
