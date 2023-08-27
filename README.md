@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-robot-humanoide-capaz-cargar-mercancia-mejor-optimus-tesla-1295620'>Crean un nuevo robot humanoide capaz de cargar mercancía mejor que Optimus de Tesla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-robot-humanoide-capaz-cargar-mercancia-mejor-optimus-tesla-1295620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apollo-3118794.jpg?tf=1200x' alt='Crean un nuevo robot humanoide capaz de cargar mercancía mejor que Optimus de Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/preguntas-tecnologia-respuestas-1294554'>25 dudas que siempre quisiste saber sobre tecnología y no te atreviste a preguntar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/preguntas-tecnologia-respuestas-1294554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/preguntas-3116674.jpg?tf=1200x' alt='25 dudas que siempre quisiste saber sobre tecnología y no te atreviste a preguntar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/satelite-creado-estudiantes-puede-ayudar-reducir-basura-espacial-1295624'>Este pequeño y barato satélite creado por estudiantes puede ayudar a reducir la basura espacial</a></h4>
+    <a href='https://computerhoy.com/espacio/satelite-creado-estudiantes-puede-ayudar-reducir-basura-espacial-1295624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pequeno-barato-satelite-creado-estudiantes-puede-ayudar-reducir-basura-espacial-3118810.jpg?tf=1200x' alt='Este pequeño y barato satélite creado por estudiantes puede ayudar a reducir la basura espacial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/estos-son-mejores-relojes-huawei-puedes-comprar-1295590'>Estos son los mejores relojes Huawei que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/android/estos-son-mejores-relojes-huawei-puedes-comprar-1295590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-watch-gt-3-oficial-podras-responder-llamadas-munecael-huawei-watch-gt-3-oficial-podras-responder-llamadas-muneca-2868723.jpg?tf=1200x' alt='Estos son los mejores relojes Huawei que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/avance-permite-robots-aprender-tareas-bimanuales-poca-ayuda-1295626'>Este avance permite a los robots aprender tareas bimanuales con mínima ayuda</a></h4>
     <a href='https://computerhoy.com/tecnologia/avance-permite-robots-aprender-tareas-bimanuales-poca-ayuda-1295626' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bi-touch-3118812.jpg?tf=1200x' alt='Este avance permite a los robots aprender tareas bimanuales con mínima ayuda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estos-trucos-podras-cargar-iphone-completo-tan-solo-minutos-1295616'>Con este sencillo truco podrás cargar tu iPhone por completo en tan solo unos minutos</a></h4>
-    <a href='https://computerhoy.com/apple/estos-trucos-podras-cargar-iphone-completo-tan-solo-minutos-1295616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/modo-avion-iphone-3020440.jpg?tf=1200x' alt='Con este sencillo truco podrás cargar tu iPhone por completo en tan solo unos minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-robot-aspirador-xiaomi-friega-cualquier-rincon-1294668'>Amazon tumba el precio del robot aspirador Xiaomi que friega y que cabe en cualquier rincón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-robot-aspirador-xiaomi-friega-cualquier-rincon-1294668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiaomi-robot-vacuum-e12-3116980.jpg?tf=1200x' alt='Amazon tumba el precio del robot aspirador Xiaomi que friega y que cabe en cualquier rincón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/messenger-lite-android-dice-adios-meta-ofrece-alternativa-1295594'>Meta decide acabar con Messenger Lite en Android y ofrece esta alternativa</a></h4>
-    <a href='https://computerhoy.com/apps/messenger-lite-android-dice-adios-meta-ofrece-alternativa-1295594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/messenger-lite-3118726.jpg?tf=1200x' alt='Meta decide acabar con Messenger Lite en Android y ofrece esta alternativa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cientificos-no-saben-ciberdelincuentes-estan-inutilizando-estos-telescopios-espaciales-1295588'>Científicos siguen buscando razones por las que los ciberdelincuentes están inutilizando estos telescopios espaciales</a></h4>
-    <a href='https://computerhoy.com/espacio/cientificos-no-saben-ciberdelincuentes-estan-inutilizando-estos-telescopios-espaciales-1295588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/gemini-north-3118710.jpg?tf=1200x' alt='Científicos siguen buscando razones por las que los ciberdelincuentes están inutilizando estos telescopios espaciales' />
     </a>
 </div>
 
