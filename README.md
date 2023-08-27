@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-dispositivo-capaz-eliminar-999-microplasticos-agua-1295870'>Crean un dispositivo capaz de eliminar el 99,9 % de los microplásticos del agua</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-dispositivo-capaz-eliminar-999-microplasticos-agua-1295870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/microplasticos-3119062.jpg?tf=1200x' alt='Crean un dispositivo capaz de eliminar el 99,9 % de los microplásticos del agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/vehiculo-volador-forma-huevo-desearas-pilotar-1295866'>Un vehículo volador con forma de huevo que desearás pilotar</a></h4>
+    <a href='https://computerhoy.com/life/vehiculo-volador-forma-huevo-desearas-pilotar-1295866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/airscooter-3119054.jpg?tf=1200x' alt='Un vehículo volador con forma de huevo que desearás pilotar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/error-500-significa-como-solucionarlo-1293380'>Error 500: ¿qué significa y cómo solucionarlo?</a></h4>
     <a href='https://computerhoy.com/tutoriales/error-500-significa-como-solucionarlo-1293380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/error-500-3114274.jpg?tf=1200x' alt='Error 500: ¿qué significa y cómo solucionarlo?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/nintendo-switch-no-carga-ni-enciende-1294154'>Qué hacer cuando una Nintendo Switch no carga ni enciende</a></h4>
     <a href='https://computerhoy.com/tutoriales/nintendo-switch-no-carga-ni-enciende-1294154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nintendo-switch-no-enciende-3116120.jpg?tf=1200x' alt='Qué hacer cuando una Nintendo Switch no carga ni enciende' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-software-capaz-predecir-desastres-geograficos-salvar-millones-vidas-1295850'>Este es el primer software capaz de predecir desastres geográficos para salvar millones de vidas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-software-capaz-predecir-desastres-geograficos-salvar-millones-vidas-1295850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/desastre-natural-3119042.jpg?tf=1200x' alt='Este es el primer software capaz de predecir desastres geográficos para salvar millones de vidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estado-actual-futuro-inteligencia-artificial-vision-corto-plazo-1289352'>El estado actual y el futuro de la Inteligencia Artificial: una visión a corto plazo </a></h4>
-    <a href='https://computerhoy.com/tecnologia/estado-actual-futuro-inteligencia-artificial-vision-corto-plazo-1289352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inteligencia-artificial-3109798.jpg?tf=1200x' alt='El estado actual y el futuro de la Inteligencia Artificial: una visión a corto plazo ' />
     </a>
 </div>
 
