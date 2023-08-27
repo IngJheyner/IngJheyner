@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/misterio-increible-espiral-azul-pudo-ver-mitad-noruega-1295920'>El misterio de la increíble espiral azul que apareció en los cielos de Noruega</a></h4>
+    <a href='https://computerhoy.com/ciencia/misterio-increible-espiral-azul-pudo-ver-mitad-noruega-1295920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/misterio-increible-espiral-azul-aparecio-cielos-noruega-3119214.jpg?tf=1200x' alt='El misterio de la increíble espiral azul que apareció en los cielos de Noruega' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/parque-publico-han-encontrado-35000-diamantes-buscarlos-gratis-1295918'>En este parque público han encontrado 35.000 diamantes, buscarlos es gratis y te los quedas para ti</a></h4>
     <a href='https://computerhoy.com/life/parque-publico-han-encontrado-35000-diamantes-buscarlos-gratis-1295918' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/parque-publico-han-encontrado-33000-diamantes-buscarlos-gratis-te-quedas-ti-3119208.jpg?tf=1200x' alt='En este parque público han encontrado 35.000 diamantes, buscarlos es gratis y te los quedas para ti' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/asus-deja-fabricar-moviles-zenfone-centra-smartphones-gaming-1295904'>Asus deja de fabricar sus móviles Zenfone y se centra en los smartphones para gaming</a></h4>
     <a href='https://computerhoy.com/moviles/asus-deja-fabricar-moviles-zenfone-centra-smartphones-gaming-1295904' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-2771745.jpg?tf=1200x' alt='Asus deja de fabricar sus móviles Zenfone y se centra en los smartphones para gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-dispositivo-capaz-eliminar-999-microplasticos-agua-1295870'>Crean un dispositivo capaz de eliminar el 99,9 % de los microplásticos del agua</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-dispositivo-capaz-eliminar-999-microplasticos-agua-1295870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/microplasticos-3119062.jpg?tf=1200x' alt='Crean un dispositivo capaz de eliminar el 99,9 % de los microplásticos del agua' />
     </a>
 </div>
 
