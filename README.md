@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/pueblo-frances-solucion-perfecta-coches-frenen-1295914'>Un pueblo francés toma una solución drástica para que los coches reduzcan la velocidad</a></h4>
+    <a href='https://computerhoy.com/motor/pueblo-frances-solucion-perfecta-coches-frenen-1295914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pueblo-frances-encuentra-solucion-perfecta-coches-reduzcan-velocidad-volverles-locos-lineas-3119202.jpg?tf=1200x' alt='Un pueblo francés toma una solución drástica para que los coches reduzcan la velocidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/mejores-televisores-65-pulgadas-1292458'>Mejores televisores de 65 pulgadas que puedes comprar ahora</a></h4>
+    <a href='https://computerhoy.com/tv/mejores-televisores-65-pulgadas-1292458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/lg-oled-2878869.jpg?tf=1200x' alt='Mejores televisores de 65 pulgadas que puedes comprar ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/asus-deja-fabricar-moviles-zenfone-centra-smartphones-gaming-1295904'>Asus deja de fabricar sus móviles Zenfone y se centra en los smartphones para gaming</a></h4>
+    <a href='https://computerhoy.com/moviles/asus-deja-fabricar-moviles-zenfone-centra-smartphones-gaming-1295904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-2771745.jpg?tf=1200x' alt='Asus deja de fabricar sus móviles Zenfone y se centra en los smartphones para gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/crean-dispositivo-capaz-eliminar-999-microplasticos-agua-1295870'>Crean un dispositivo capaz de eliminar el 99,9 % de los microplásticos del agua</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-dispositivo-capaz-eliminar-999-microplasticos-agua-1295870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/microplasticos-3119062.jpg?tf=1200x' alt='Crean un dispositivo capaz de eliminar el 99,9 % de los microplásticos del agua' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/vehiculo-volador-forma-huevo-desearas-pilotar-1295866'>Un vehículo volador con forma de huevo que desearás pilotar</a></h4>
     <a href='https://computerhoy.com/life/vehiculo-volador-forma-huevo-desearas-pilotar-1295866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/airscooter-3119054.jpg?tf=1200x' alt='Un vehículo volador con forma de huevo que desearás pilotar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/error-500-significa-como-solucionarlo-1293380'>Error 500: ¿qué significa y cómo solucionarlo?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/error-500-significa-como-solucionarlo-1293380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/error-500-3114274.jpg?tf=1200x' alt='Error 500: ¿qué significa y cómo solucionarlo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/especie-perro-robot-sigue-funcionando-solo-vez-ha-puesto-marcha-1295854'>Esta especie de perro robot sigue funcionando por sí solo una vez que se ha puesto en marcha</a></h4>
-    <a href='https://computerhoy.com/tecnologia/especie-perro-robot-sigue-funcionando-solo-vez-ha-puesto-marcha-1295854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/especie-perro-robot-sigue-funcionando-solo-vez-ha-puesto-marcha-3119046.jpg?tf=1200x' alt='Esta especie de perro robot sigue funcionando por sí solo una vez que se ha puesto en marcha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/nintendo-switch-no-carga-ni-enciende-1294154'>Qué hacer cuando una Nintendo Switch no carga ni enciende</a></h4>
-    <a href='https://computerhoy.com/tutoriales/nintendo-switch-no-carga-ni-enciende-1294154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nintendo-switch-no-enciende-3116120.jpg?tf=1200x' alt='Qué hacer cuando una Nintendo Switch no carga ni enciende' />
     </a>
 </div>
 
