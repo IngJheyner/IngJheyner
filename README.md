@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/parque-publico-han-encontrado-35000-diamantes-buscarlos-gratis-1295918'>En este parque público han encontrado 35.000 diamantes, buscarlos es gratis y te los quedas para ti</a></h4>
+    <a href='https://computerhoy.com/life/parque-publico-han-encontrado-35000-diamantes-buscarlos-gratis-1295918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/parque-publico-han-encontrado-33000-diamantes-buscarlos-gratis-te-quedas-ti-3119208.jpg?tf=1200x' alt='En este parque público han encontrado 35.000 diamantes, buscarlos es gratis y te los quedas para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/pueblo-frances-solucion-perfecta-coches-frenen-1295914'>Un pueblo francés toma una solución drástica para que los coches reduzcan la velocidad</a></h4>
     <a href='https://computerhoy.com/motor/pueblo-frances-solucion-perfecta-coches-frenen-1295914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pueblo-frances-encuentra-solucion-perfecta-coches-reduzcan-velocidad-volverles-locos-lineas-3119202.jpg?tf=1200x' alt='Un pueblo francés toma una solución drástica para que los coches reduzcan la velocidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/crean-dispositivo-capaz-eliminar-999-microplasticos-agua-1295870'>Crean un dispositivo capaz de eliminar el 99,9 % de los microplásticos del agua</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-dispositivo-capaz-eliminar-999-microplasticos-agua-1295870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/microplasticos-3119062.jpg?tf=1200x' alt='Crean un dispositivo capaz de eliminar el 99,9 % de los microplásticos del agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/vehiculo-volador-forma-huevo-desearas-pilotar-1295866'>Un vehículo volador con forma de huevo que desearás pilotar</a></h4>
-    <a href='https://computerhoy.com/life/vehiculo-volador-forma-huevo-desearas-pilotar-1295866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/airscooter-3119054.jpg?tf=1200x' alt='Un vehículo volador con forma de huevo que desearás pilotar' />
     </a>
 </div>
 
