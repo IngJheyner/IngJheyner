@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-robot-humanoide-capaz-cargar-mercancia-mejor-optimus-tesla-1295620'>Crean un nuevo robot humanoide capaz de cargar mercancía mejor que Optimus de Tesla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-robot-humanoide-capaz-cargar-mercancia-mejor-optimus-tesla-1295620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apollo-3118794.jpg?tf=1200x' alt='Crean un nuevo robot humanoide capaz de cargar mercancía mejor que Optimus de Tesla' />
+    <h4><a href='https://computerhoy.com/life/redes-sociales-famosas-dietas-milagro-papel-influencers-puede-ser-muy-importante-debido-gran-alcance-1292990'>Las redes sociales y las famosas dietas milagro: "El papel de los influencers puede ser muy importante debido a su gran alcance"</a></h4>
+    <a href='https://computerhoy.com/life/redes-sociales-famosas-dietas-milagro-papel-influencers-puede-ser-muy-importante-debido-gran-alcance-1292990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/redes-sociales-dietas-milagro-3117670.jpg?tf=1200x' alt='Las redes sociales y las famosas dietas milagro: "El papel de los influencers puede ser muy importante debido a su gran alcance"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/preguntas-tecnologia-respuestas-1294554'>25 dudas que siempre quisiste saber sobre tecnología y no te atreviste a preguntar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/preguntas-tecnologia-respuestas-1294554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/preguntas-3116674.jpg?tf=1200x' alt='25 dudas que siempre quisiste saber sobre tecnología y no te atreviste a preguntar' />
+    <h4><a href='https://computerhoy.com/life/inventos-nacieron-accidente-han-revolucionado-mundo-1289846'>De errores a éxitos: inventos que nacieron por accidente y han revolucionado el mundo</a></h4>
+    <a href='https://computerhoy.com/life/inventos-nacieron-accidente-han-revolucionado-mundo-1289846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inventos-accidente-3113054.jpg?tf=1200x' alt='De errores a éxitos: inventos que nacieron por accidente y han revolucionado el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/satelite-creado-estudiantes-puede-ayudar-reducir-basura-espacial-1295624'>Este pequeño y barato satélite creado por estudiantes puede ayudar a reducir la basura espacial</a></h4>
-    <a href='https://computerhoy.com/espacio/satelite-creado-estudiantes-puede-ayudar-reducir-basura-espacial-1295624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pequeno-barato-satelite-creado-estudiantes-puede-ayudar-reducir-basura-espacial-3118810.jpg?tf=1200x' alt='Este pequeño y barato satélite creado por estudiantes puede ayudar a reducir la basura espacial' />
+    <h4><a href='https://computerhoy.com/tutoriales/cosas-nunca-debes-hacer-pc-windows-11-1295016'>Cosas que nunca debes hacer en tu PC con Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/cosas-nunca-debes-hacer-pc-windows-11-1295016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cosas-nunca-debes-hacer-pc-3117548.jpg?tf=1200x' alt='Cosas que nunca debes hacer en tu PC con Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/estos-son-mejores-relojes-huawei-puedes-comprar-1295590'>Estos son los mejores relojes Huawei que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/android/estos-son-mejores-relojes-huawei-puedes-comprar-1295590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-watch-gt-3-oficial-podras-responder-llamadas-munecael-huawei-watch-gt-3-oficial-podras-responder-llamadas-muneca-2868723.jpg?tf=1200x' alt='Estos son los mejores relojes Huawei que puedes comprar' />
+    <h4><a href='https://computerhoy.com/tecnologia/data-center-considera-gran-pilar-era-digital-1282926'>¿Qué es un 'data center' y por qué se considera el gran pilar de la era digital?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/data-center-considera-gran-pilar-era-digital-1282926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1692867561755-3116616.jpg?tf=1200x' alt='¿Qué es un 'data center' y por qué se considera el gran pilar de la era digital?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/avance-permite-robots-aprender-tareas-bimanuales-poca-ayuda-1295626'>Este avance permite a los robots aprender tareas bimanuales con mínima ayuda</a></h4>
-    <a href='https://computerhoy.com/tecnologia/avance-permite-robots-aprender-tareas-bimanuales-poca-ayuda-1295626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bi-touch-3118812.jpg?tf=1200x' alt='Este avance permite a los robots aprender tareas bimanuales con mínima ayuda' />
+    <h4><a href='https://computerhoy.com/ciencia/diferencia-tonelada-metrica-tonelada-corta-tonelada-larga-1295012'>No existe una única tonelada: en qué se diferencia la tonelada métrica, tonelada corta y tonelada larga</a></h4>
+    <a href='https://computerhoy.com/ciencia/diferencia-tonelada-metrica-tonelada-corta-tonelada-larga-1295012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/no-existe-unica-tonelada-diferencia-tonelada-metrica-tonelada-corta-tonelada-larga-3117338.jpg?tf=1200x' alt='No existe una única tonelada: en qué se diferencia la tonelada métrica, tonelada corta y tonelada larga' />
     </a>
 </div>
 
