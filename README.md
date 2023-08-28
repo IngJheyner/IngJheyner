@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/desarrolladora-ha-sustituido-tabla-periodica-mejores-aplicaciones-ia-existen-1296102'>Esta desarrolladora ha sustituido la tabla periódica por las mejores aplicaciones de IA que existen</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desarrolladora-ha-sustituido-tabla-periodica-mejores-aplicaciones-ia-existen-1296102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tabla-periodica-3119410.jpg?tf=1200x' alt='Esta desarrolladora ha sustituido la tabla periódica por las mejores aplicaciones de IA que existen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/robot-de-cocina'>Thermomix, Lidl, Cecotec... Guía para comprar un robot de cocina sin volverse loco</a></h4>
+    <a href='https://computerhoy.com/guia-compra/robot-de-cocina' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/monsieur-cuisine-connect-2031819.jpg?tf=1200x' alt='Thermomix, Lidl, Cecotec... Guía para comprar un robot de cocina sin volverse loco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/monitor-lg-ultragear-oled-45gr95qe-b-cinco-pros-dos-contras-1259206'>LG UltraGear OLED 45GR95QE-B, cinco pros y dos contras: sensaciones encontradas ante uno de los periféricos más interesantes del momento</a></h4>
+    <a href='https://computerhoy.com/gaming/monitor-lg-ultragear-oled-45gr95qe-b-cinco-pros-dos-contras-1259206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lg-ultragear-oled-45-3113404.jpg?tf=1200x' alt='LG UltraGear OLED 45GR95QE-B, cinco pros y dos contras: sensaciones encontradas ante uno de los periféricos más interesantes del momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/comprar-monitor-pc-fijarte-cuales-son-mejores-1295880'>Comprar un monitor de PC: en qué fijarte y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/guia-compra/comprar-monitor-pc-fijarte-cuales-son-mejores-1295880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/monitor-samsung-3119182.jpg?tf=1200x' alt='Comprar un monitor de PC: en qué fijarte y cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/9-peliculas-estrenadas-solo-china-25-mas-taquilleras-2023-1295922'>9 películas que solo se han estrenado en China, entre las 25 más taquilleras de 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/9-peliculas-estrenadas-solo-china-25-mas-taquilleras-2023-1295922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/10-peliculas-solo-han-estrenado-china-25-taquilleras-ano-3119218.jpg?tf=1200x' alt='9 películas que solo se han estrenado en China, entre las 25 más taquilleras de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/misterio-increible-espiral-azul-pudo-ver-mitad-noruega-1295920'>El misterio de la increíble espiral azul que apareció en los cielos de Noruega</a></h4>
-    <a href='https://computerhoy.com/ciencia/misterio-increible-espiral-azul-pudo-ver-mitad-noruega-1295920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/misterio-increible-espiral-azul-aparecio-cielos-noruega-3119214.jpg?tf=1200x' alt='El misterio de la increíble espiral azul que apareció en los cielos de Noruega' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/parque-publico-han-encontrado-35000-diamantes-buscarlos-gratis-1295918'>En este parque público han encontrado 35.000 diamantes, buscarlos es gratis y te los quedas para ti</a></h4>
-    <a href='https://computerhoy.com/life/parque-publico-han-encontrado-35000-diamantes-buscarlos-gratis-1295918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/parque-publico-han-encontrado-33000-diamantes-buscarlos-gratis-te-quedas-ti-3119208.jpg?tf=1200x' alt='En este parque público han encontrado 35.000 diamantes, buscarlos es gratis y te los quedas para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/pueblo-frances-solucion-perfecta-coches-frenen-1295914'>Un pueblo francés toma una solución drástica para que los coches reduzcan la velocidad</a></h4>
-    <a href='https://computerhoy.com/motor/pueblo-frances-solucion-perfecta-coches-frenen-1295914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pueblo-frances-encuentra-solucion-perfecta-coches-reduzcan-velocidad-volverles-locos-lineas-3119202.jpg?tf=1200x' alt='Un pueblo francés toma una solución drástica para que los coches reduzcan la velocidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/mejores-televisores-65-pulgadas-1292458'>Mejores televisores de 65 pulgadas que puedes comprar ahora</a></h4>
-    <a href='https://computerhoy.com/tv/mejores-televisores-65-pulgadas-1292458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/lg-oled-2878869.jpg?tf=1200x' alt='Mejores televisores de 65 pulgadas que puedes comprar ahora' />
     </a>
 </div>
 
