@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/android-auto-desconecta-como-solucionarlo-1292772'>Por qué Android Auto se desconecta y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/android-auto-desconecta-como-solucionarlo-1292772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/filefield_paths/au.jpg?tf=1200x' alt='Por qué Android Auto se desconecta y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/apple/apple-ya-tiene-lista-venganza-incluir-usb-c-iphone-15-1296328'>Apple ya tiene lista su venganza por la obligación de incluir USB-C en el iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/apple-ya-tiene-lista-venganza-incluir-usb-c-iphone-15-1296328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='Apple ya tiene lista su venganza por la obligación de incluir USB-C en el iPhone 15' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/son-metasuperficies-suponen-gran-riesgo-seguridad-llegada-6g-1296236'>¿Qué son las metasuperficies y por qué suponen un gran riesgo de seguridad con la llegada del 6G?</a></h4>
-    <a href='https://computerhoy.com/redes/son-metasuperficies-suponen-gran-riesgo-seguridad-llegada-6g-1296236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/6g-3119700.jpg?tf=1200x' alt='¿Qué son las metasuperficies y por qué suponen un gran riesgo de seguridad con la llegada del 6G?' />
+    <h4><a href='https://computerhoy.com/guia-compra/mini-pc-1126499'>Cómo elegir el mejor Mini PC</a></h4>
+    <a href='https://computerhoy.com/guia-compra/mini-pc-1126499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mini-pc-16-gb-ram-290eu-2762741.jpg?tf=1200x' alt='Cómo elegir el mejor Mini PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-cuenta-instagram-hizo-pasar-tim-cook-confundio-ejecutivos-apple-1296218'>Cómo una cuenta de Instagram se hizo pasar por Tim Cook y confundió a los ejecutivos de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/como-cuenta-instagram-hizo-pasar-tim-cook-confundio-ejecutivos-apple-1296218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tim-cook-ceo-apple-3037516.jpg?tf=1200x' alt='Cómo una cuenta de Instagram se hizo pasar por Tim Cook y confundió a los ejecutivos de Apple' />
+    <h4><a href='https://computerhoy.com/life/mejor-postura-dormir-bien-ciencia-1295524'>Esta es la mejor postura para dormir bien y evitar dolores de espalda, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/life/mejor-postura-dormir-bien-ciencia-1295524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/dolor-cuello-postura-dormir-2146293.jpg?tf=1200x' alt='Esta es la mejor postura para dormir bien y evitar dolores de espalda, según la ciencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/secreto-iphone-15-pro-pesar-8-menos-iphone-14-pro-1296188'>El secreto del iPhone 15 Pro para pesar un 8% menos que el iPhone 14 Pro</a></h4>
-    <a href='https://computerhoy.com/apple/secreto-iphone-15-pro-pesar-8-menos-iphone-14-pro-1296188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-15-pro-2959586.jpg?tf=1200x' alt='El secreto del iPhone 15 Pro para pesar un 8% menos que el iPhone 14 Pro' />
+    <h4><a href='https://computerhoy.com/alimentacion/alternativas-aceite-oliva-baratas-saludables-cocinar-1296310'>Alternativas al aceite de oliva baratas y saludables para cocinar</a></h4>
+    <a href='https://computerhoy.com/alimentacion/alternativas-aceite-oliva-baratas-saludables-cocinar-1296310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/alternativas-aceite-oliva-baratas-saludables-cocinar-3119814.jpg?tf=1200x' alt='Alternativas al aceite de oliva baratas y saludables para cocinar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/como-distingue-cerebro-real-imaginario-1296222'>¿Cómo distingue el cerebro lo que es real de lo imaginario? Un nuevo estudio tiene la respuesta   </a></h4>
-    <a href='https://computerhoy.com/ciencia/como-distingue-cerebro-real-imaginario-1296222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cerebro-3119682.jpg?tf=1200x' alt='¿Cómo distingue el cerebro lo que es real de lo imaginario? Un nuevo estudio tiene la respuesta   ' />
+    <h4><a href='https://computerhoy.com/life/senales-estas-utilizando-mal-freidora-aire-1295014'>Señales de que estás utilizando mal tu freidora de aire y cómo puedes solucionarlo</a></h4>
+    <a href='https://computerhoy.com/life/senales-estas-utilizando-mal-freidora-aire-1295014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/freidora-aire-3117544.jpg?tf=1200x' alt='Señales de que estás utilizando mal tu freidora de aire y cómo puedes solucionarlo' />
     </a>
 </div>
 
