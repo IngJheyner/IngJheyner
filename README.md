@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/9-peliculas-estrenadas-solo-china-25-mas-taquilleras-2023-1295922'>9 películas que solo se han estrenado en China, entre las 25 más taquilleras de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/9-peliculas-estrenadas-solo-china-25-mas-taquilleras-2023-1295922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/10-peliculas-solo-han-estrenado-china-25-taquilleras-ano-3119218.jpg?tf=1200x' alt='9 películas que solo se han estrenado en China, entre las 25 más taquilleras de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/misterio-increible-espiral-azul-pudo-ver-mitad-noruega-1295920'>El misterio de la increíble espiral azul que apareció en los cielos de Noruega</a></h4>
     <a href='https://computerhoy.com/ciencia/misterio-increible-espiral-azul-pudo-ver-mitad-noruega-1295920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/misterio-increible-espiral-azul-aparecio-cielos-noruega-3119214.jpg?tf=1200x' alt='El misterio de la increíble espiral azul que apareció en los cielos de Noruega' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/mejores-televisores-65-pulgadas-1292458'>Mejores televisores de 65 pulgadas que puedes comprar ahora</a></h4>
     <a href='https://computerhoy.com/tv/mejores-televisores-65-pulgadas-1292458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/lg-oled-2878869.jpg?tf=1200x' alt='Mejores televisores de 65 pulgadas que puedes comprar ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/asus-deja-fabricar-moviles-zenfone-centra-smartphones-gaming-1295904'>Asus deja de fabricar sus móviles Zenfone y se centra en los smartphones para gaming</a></h4>
-    <a href='https://computerhoy.com/moviles/asus-deja-fabricar-moviles-zenfone-centra-smartphones-gaming-1295904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/zenfone-9-oficial-nuevo-telefono-gama-alta-compacto-asus-2771745.jpg?tf=1200x' alt='Asus deja de fabricar sus móviles Zenfone y se centra en los smartphones para gaming' />
     </a>
 </div>
 
