@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desarrolladora-ha-sustituido-tabla-periodica-mejores-aplicaciones-ia-existen-1296102'>Esta desarrolladora ha sustituido la tabla periódica por las mejores aplicaciones de IA que existen</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desarrolladora-ha-sustituido-tabla-periodica-mejores-aplicaciones-ia-existen-1296102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tabla-periodica-3119410.jpg?tf=1200x' alt='Esta desarrolladora ha sustituido la tabla periódica por las mejores aplicaciones de IA que existen' />
+    <h4><a href='https://computerhoy.com/apple/bateria-iphone-15-grandes-aunque-podria-no-ser-suficiente-filtraciones-1296212'>Batería del iPhone 15: totalmente mejoradas aunque podría no ser suficiente según filtraciones</a></h4>
+    <a href='https://computerhoy.com/apple/bateria-iphone-15-grandes-aunque-podria-no-ser-suficiente-filtraciones-1296212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bateria-iphone-15-3119662.jpg?tf=1200x' alt='Batería del iPhone 15: totalmente mejoradas aunque podría no ser suficiente según filtraciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/robot-de-cocina'>Thermomix, Lidl, Cecotec... Guía para comprar un robot de cocina sin volverse loco</a></h4>
-    <a href='https://computerhoy.com/guia-compra/robot-de-cocina' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/monsieur-cuisine-connect-2031819.jpg?tf=1200x' alt='Thermomix, Lidl, Cecotec... Guía para comprar un robot de cocina sin volverse loco' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-desploma-precio-movil-bestial-xiaomi-carga-120w-camara-200-megapixeles-1295174'>Amazon desploma el precio del móvil más bestial de Xiaomi: carga a 120W y cámara de 200 megapíxeles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-desploma-precio-movil-bestial-xiaomi-carga-120w-camara-200-megapixeles-1295174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiaomi-redmi-note-12-pro-5g-3117842.jpg?tf=1200x' alt='Amazon desploma el precio del móvil más bestial de Xiaomi: carga a 120W y cámara de 200 megapíxeles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/monitor-lg-ultragear-oled-45gr95qe-b-cinco-pros-dos-contras-1259206'>LG UltraGear OLED 45GR95QE-B, cinco pros y dos contras: sensaciones encontradas ante uno de los periféricos más interesantes del momento</a></h4>
-    <a href='https://computerhoy.com/gaming/monitor-lg-ultragear-oled-45gr95qe-b-cinco-pros-dos-contras-1259206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lg-ultragear-oled-45-3113404.jpg?tf=1200x' alt='LG UltraGear OLED 45GR95QE-B, cinco pros y dos contras: sensaciones encontradas ante uno de los periféricos más interesantes del momento' />
+    <h4><a href='https://computerhoy.com/apple/ipad-pro-chip-m3-oled-podria-ser-tablet-potente-apple-1296146'>El iPad Pro con chip M3 y OLED: así podría ser la tablet más potente de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/ipad-pro-chip-m3-oled-podria-ser-tablet-potente-apple-1296146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipad-pro-3071542.jpg?tf=1200x' alt='El iPad Pro con chip M3 y OLED: así podría ser la tablet más potente de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/comprar-monitor-pc-fijarte-cuales-son-mejores-1295880'>Comprar un monitor de PC: en qué fijarte y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/guia-compra/comprar-monitor-pc-fijarte-cuales-son-mejores-1295880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/monitor-samsung-3119182.jpg?tf=1200x' alt='Comprar un monitor de PC: en qué fijarte y cuáles son los mejores' />
+    <h4><a href='https://computerhoy.com/android/android-auto-103-todo-cambia-nueva-actualizacion-disponible-play-store-1296164'>Android Auto 10.3: todo lo que cambia con la nueva actualización disponible en la Play Store</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-103-todo-cambia-nueva-actualizacion-disponible-play-store-1296164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/movil-android-auto-dentro-coche-3099150.jpg?tf=1200x' alt='Android Auto 10.3: todo lo que cambia con la nueva actualización disponible en la Play Store' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/9-peliculas-estrenadas-solo-china-25-mas-taquilleras-2023-1295922'>9 películas que solo se han estrenado en China, entre las 25 más taquilleras de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/9-peliculas-estrenadas-solo-china-25-mas-taquilleras-2023-1295922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/10-peliculas-solo-han-estrenado-china-25-taquilleras-ano-3119218.jpg?tf=1200x' alt='9 películas que solo se han estrenado en China, entre las 25 más taquilleras de 2023' />
+    <h4><a href='https://computerhoy.com/tecnologia/bomba-dyson-nueva-aspiradora-va-jubilar-siempre-fregona-aunque-precio-no-todos-1295124'>Bomba de Dyson: su nueva aspiradora va a jubilar para siempre tu fregona, aunque el precio no es para todos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bomba-dyson-nueva-aspiradora-va-jubilar-siempre-fregona-aunque-precio-no-todos-1295124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dyson-v15s-detect-submarine-3117712.jpg?tf=1200x' alt='Bomba de Dyson: su nueva aspiradora va a jubilar para siempre tu fregona, aunque el precio no es para todos' />
     </a>
 </div>
 
