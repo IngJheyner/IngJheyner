@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ver-futbol-gratis-iptv-sera-imposible-muy-poco-tiempo-1296420'>Ver el fútbol gratis por IPTV será prácticamente imposible en muy poco tiempo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ver-futbol-gratis-iptv-sera-imposible-muy-poco-tiempo-1296420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/futbol-iptv-3120030.jpg?tf=1200x' alt='Ver el fútbol gratis por IPTV será prácticamente imposible en muy poco tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/taza-inodoro-resbaladiza-mantiene-limpia-necesidad-agua-1296414'>Crean una taza de inodoro muy resbaladiza que se mantiene limpia sin necesidad de agua</a></h4>
+    <a href='https://computerhoy.com/life/taza-inodoro-resbaladiza-mantiene-limpia-necesidad-agua-1296414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/crean-taza-inodoro-muy-resbaladiza-mantiene-limpia-necesidad-agua-3120024.jpg?tf=1200x' alt='Crean una taza de inodoro muy resbaladiza que se mantiene limpia sin necesidad de agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/onkalo-lugar-no-volver-ser-pisado-100000-anos-1296354'>Este lugar de la Tierra ya está listo para no volver a ser pisado por ningún ser humano en 100.000 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/onkalo-lugar-no-volver-ser-pisado-100000-anos-1296354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lugar-tierra-ya-listo-no-volver-ser-pisado-ningun-ser-humano-100000-anos-3119866.jpg?tf=1200x' alt='Este lugar de la Tierra ya está listo para no volver a ser pisado por ningún ser humano en 100.000 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/misterioso-hueso-45-personas-no-tiene-cuerpo-podrias-ser-ellas-1295328'>El misterioso hueso que el 45% de las personas no tiene en su cuerpo, y tú podrías ser una de ellas</a></h4>
+    <a href='https://computerhoy.com/life/misterioso-hueso-45-personas-no-tiene-cuerpo-podrias-ser-ellas-1295328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/misterioso-hueso-45-personas-no-tiene-cuerpo-3118318.jpg?tf=1200x' alt='El misterioso hueso que el 45% de las personas no tiene en su cuerpo, y tú podrías ser una de ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-ya-tiene-lista-venganza-incluir-usb-c-iphone-15-1296328'>Apple ya tiene lista su venganza por la obligación de incluir USB-C en el iPhone 15</a></h4>
     <a href='https://computerhoy.com/apple/apple-ya-tiene-lista-venganza-incluir-usb-c-iphone-15-1296328' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='Apple ya tiene lista su venganza por la obligación de incluir USB-C en el iPhone 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/mini-pc-1126499'>Cómo elegir el mejor Mini PC</a></h4>
-    <a href='https://computerhoy.com/guia-compra/mini-pc-1126499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mini-pc-16-gb-ram-290eu-2762741.jpg?tf=1200x' alt='Cómo elegir el mejor Mini PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejor-postura-dormir-bien-ciencia-1295524'>Esta es la mejor postura para dormir bien y evitar dolores de espalda, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/life/mejor-postura-dormir-bien-ciencia-1295524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/dolor-cuello-postura-dormir-2146293.jpg?tf=1200x' alt='Esta es la mejor postura para dormir bien y evitar dolores de espalda, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/alternativas-aceite-oliva-baratas-saludables-cocinar-1296310'>Alternativas al aceite de oliva baratas y saludables para cocinar</a></h4>
-    <a href='https://computerhoy.com/alimentacion/alternativas-aceite-oliva-baratas-saludables-cocinar-1296310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/alternativas-aceite-oliva-baratas-saludables-cocinar-3119814.jpg?tf=1200x' alt='Alternativas al aceite de oliva baratas y saludables para cocinar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/senales-estas-utilizando-mal-freidora-aire-1295014'>Señales de que estás utilizando mal tu freidora de aire y cómo puedes solucionarlo</a></h4>
-    <a href='https://computerhoy.com/life/senales-estas-utilizando-mal-freidora-aire-1295014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/freidora-aire-3117544.jpg?tf=1200x' alt='Señales de que estás utilizando mal tu freidora de aire y cómo puedes solucionarlo' />
     </a>
 </div>
 
