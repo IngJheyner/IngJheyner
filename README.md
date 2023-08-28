@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/bateria-iphone-15-grandes-aunque-podria-no-ser-suficiente-filtraciones-1296212'>Batería del iPhone 15: totalmente mejoradas aunque podría no ser suficiente según filtraciones</a></h4>
-    <a href='https://computerhoy.com/apple/bateria-iphone-15-grandes-aunque-podria-no-ser-suficiente-filtraciones-1296212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bateria-iphone-15-3119662.jpg?tf=1200x' alt='Batería del iPhone 15: totalmente mejoradas aunque podría no ser suficiente según filtraciones' />
+    <h4><a href='https://computerhoy.com/tutoriales/android-auto-desconecta-como-solucionarlo-1292772'>Por qué Android Auto se desconecta y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/android-auto-desconecta-como-solucionarlo-1292772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/filefield_paths/au.jpg?tf=1200x' alt='Por qué Android Auto se desconecta y cómo solucionarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-desploma-precio-movil-bestial-xiaomi-carga-120w-camara-200-megapixeles-1295174'>Amazon desploma el precio del móvil más bestial de Xiaomi: carga a 120W y cámara de 200 megapíxeles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-desploma-precio-movil-bestial-xiaomi-carga-120w-camara-200-megapixeles-1295174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiaomi-redmi-note-12-pro-5g-3117842.jpg?tf=1200x' alt='Amazon desploma el precio del móvil más bestial de Xiaomi: carga a 120W y cámara de 200 megapíxeles' />
+    <h4><a href='https://computerhoy.com/redes/son-metasuperficies-suponen-gran-riesgo-seguridad-llegada-6g-1296236'>¿Qué son las metasuperficies y por qué suponen un gran riesgo de seguridad con la llegada del 6G?</a></h4>
+    <a href='https://computerhoy.com/redes/son-metasuperficies-suponen-gran-riesgo-seguridad-llegada-6g-1296236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/6g-3119700.jpg?tf=1200x' alt='¿Qué son las metasuperficies y por qué suponen un gran riesgo de seguridad con la llegada del 6G?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ipad-pro-chip-m3-oled-podria-ser-tablet-potente-apple-1296146'>El iPad Pro con chip M3 y OLED: así podría ser la tablet más potente de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/ipad-pro-chip-m3-oled-podria-ser-tablet-potente-apple-1296146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipad-pro-3071542.jpg?tf=1200x' alt='El iPad Pro con chip M3 y OLED: así podría ser la tablet más potente de Apple' />
+    <h4><a href='https://computerhoy.com/apple/como-cuenta-instagram-hizo-pasar-tim-cook-confundio-ejecutivos-apple-1296218'>Cómo una cuenta de Instagram se hizo pasar por Tim Cook y confundió a los ejecutivos de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/como-cuenta-instagram-hizo-pasar-tim-cook-confundio-ejecutivos-apple-1296218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tim-cook-ceo-apple-3037516.jpg?tf=1200x' alt='Cómo una cuenta de Instagram se hizo pasar por Tim Cook y confundió a los ejecutivos de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-103-todo-cambia-nueva-actualizacion-disponible-play-store-1296164'>Android Auto 10.3: todo lo que cambia con la nueva actualización disponible en la Play Store</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-103-todo-cambia-nueva-actualizacion-disponible-play-store-1296164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/movil-android-auto-dentro-coche-3099150.jpg?tf=1200x' alt='Android Auto 10.3: todo lo que cambia con la nueva actualización disponible en la Play Store' />
+    <h4><a href='https://computerhoy.com/apple/secreto-iphone-15-pro-pesar-8-menos-iphone-14-pro-1296188'>El secreto del iPhone 15 Pro para pesar un 8% menos que el iPhone 14 Pro</a></h4>
+    <a href='https://computerhoy.com/apple/secreto-iphone-15-pro-pesar-8-menos-iphone-14-pro-1296188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-15-pro-2959586.jpg?tf=1200x' alt='El secreto del iPhone 15 Pro para pesar un 8% menos que el iPhone 14 Pro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bomba-dyson-nueva-aspiradora-va-jubilar-siempre-fregona-aunque-precio-no-todos-1295124'>Bomba de Dyson: su nueva aspiradora va a jubilar para siempre tu fregona, aunque el precio no es para todos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bomba-dyson-nueva-aspiradora-va-jubilar-siempre-fregona-aunque-precio-no-todos-1295124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dyson-v15s-detect-submarine-3117712.jpg?tf=1200x' alt='Bomba de Dyson: su nueva aspiradora va a jubilar para siempre tu fregona, aunque el precio no es para todos' />
+    <h4><a href='https://computerhoy.com/ciencia/como-distingue-cerebro-real-imaginario-1296222'>¿Cómo distingue el cerebro lo que es real de lo imaginario? Un nuevo estudio tiene la respuesta   </a></h4>
+    <a href='https://computerhoy.com/ciencia/como-distingue-cerebro-real-imaginario-1296222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cerebro-3119682.jpg?tf=1200x' alt='¿Cómo distingue el cerebro lo que es real de lo imaginario? Un nuevo estudio tiene la respuesta   ' />
     </a>
 </div>
 
