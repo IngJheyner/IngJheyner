@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/elon-musk-muestra-conduccion-autonoma-tesla-pero-no-sale-bien-1296428'>Elon Musk muestra en directo la conducción autónoma de Tesla, pero se salta un semáforo y desvela dónde vive Mark Zuckerberg</a></h4>
+    <a href='https://computerhoy.com/motor/elon-musk-muestra-conduccion-autonoma-tesla-pero-no-sale-bien-1296428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/elon-musk-muestra-directo-conduccion-autonoma-tesla-pero-salta-semaforo-desvela-donde-vive-mark-zuckerberg-3120042.jpg?tf=1200x' alt='Elon Musk muestra en directo la conducción autónoma de Tesla, pero se salta un semáforo y desvela dónde vive Mark Zuckerberg' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/rendimiento-bestial-mini-pc-32gb-ram-tiene-i7-cuesta-mucho-menos-pc-normal-1296180'>Rendimiento bestial: este Mini PC de 32GB de RAM tiene un i7 y además cuesta mucho menos que un PC normal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rendimiento-bestial-mini-pc-32gb-ram-tiene-i7-cuesta-mucho-menos-pc-normal-1296180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/minis-forum-nab6-3119584.jpg?tf=1200x' alt='Rendimiento bestial: este Mini PC de 32GB de RAM tiene un i7 y además cuesta mucho menos que un PC normal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ver-futbol-gratis-iptv-sera-imposible-muy-poco-tiempo-1296420'>Ver el fútbol gratis por IPTV será prácticamente imposible en muy poco tiempo</a></h4>
     <a href='https://computerhoy.com/tecnologia/ver-futbol-gratis-iptv-sera-imposible-muy-poco-tiempo-1296420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/futbol-iptv-3120030.jpg?tf=1200x' alt='Ver el fútbol gratis por IPTV será prácticamente imposible en muy poco tiempo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/onkalo-lugar-no-volver-ser-pisado-100000-anos-1296354'>Este lugar de la Tierra ya está listo para no volver a ser pisado por ningún ser humano en 100.000 años</a></h4>
     <a href='https://computerhoy.com/ciencia/onkalo-lugar-no-volver-ser-pisado-100000-anos-1296354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lugar-tierra-ya-listo-no-volver-ser-pisado-ningun-ser-humano-100000-anos-3119866.jpg?tf=1200x' alt='Este lugar de la Tierra ya está listo para no volver a ser pisado por ningún ser humano en 100.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/misterioso-hueso-45-personas-no-tiene-cuerpo-podrias-ser-ellas-1295328'>El misterioso hueso que el 45% de las personas no tiene en su cuerpo, y tú podrías ser una de ellas</a></h4>
-    <a href='https://computerhoy.com/life/misterioso-hueso-45-personas-no-tiene-cuerpo-podrias-ser-ellas-1295328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/misterioso-hueso-45-personas-no-tiene-cuerpo-3118318.jpg?tf=1200x' alt='El misterioso hueso que el 45% de las personas no tiene en su cuerpo, y tú podrías ser una de ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-ya-tiene-lista-venganza-incluir-usb-c-iphone-15-1296328'>Apple ya tiene lista su venganza por la obligación de incluir USB-C en el iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/apple-ya-tiene-lista-venganza-incluir-usb-c-iphone-15-1296328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='Apple ya tiene lista su venganza por la obligación de incluir USB-C en el iPhone 15' />
     </a>
 </div>
 
