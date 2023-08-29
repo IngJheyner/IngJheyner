@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/luna-azul-2023-cuando-como-puede-verse-superluna-espana-1297006'>Luna Azul 2023: Qué días se puede ver y las mejores horas para no perderse la superluna en España</a></h4>
-    <a href='https://computerhoy.com/espacio/luna-azul-2023-cuando-como-puede-verse-superluna-espana-1297006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/superluna-azul-3121152.jpg?tf=1200x' alt='Luna Azul 2023: Qué días se puede ver y las mejores horas para no perderse la superluna en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tecnica-infalible-detectar-mentiras-segundos-1295270'>La técnica infalible para detectar mentiras en segundos y que cambiará tu forma de ver a las personas</a></h4>
-    <a href='https://computerhoy.com/life/tecnica-infalible-detectar-mentiras-segundos-1295270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/decir-mentiras-2980650.jpg?tf=1200x' alt='La técnica infalible para detectar mentiras en segundos y que cambiará tu forma de ver a las personas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ameca-robot-humanoide-avanzado-revela-futuro-planeta-1296968'>Ameca, el robot humanoide más avanzado del mundo, revela cómo será la vida dentro de 100 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ameca-robot-humanoide-avanzado-revela-futuro-planeta-1296968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-ameca-2552141.jpg?tf=1200x' alt='Ameca, el robot humanoide más avanzado del mundo, revela cómo será la vida dentro de 100 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/realidad-ilusion-estas-son-razones-ves-fantasmas-ciencia-1291964'>¿Realidad o ilusión? Estas son las razones por las que ves fantasmas, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/realidad-ilusion-estas-son-razones-ves-fantasmas-ciencia-1291964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fantasma-3120910.jpg?tf=1200x' alt='¿Realidad o ilusión? Estas son las razones por las que ves fantasmas, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
     <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-ya-tiene-lista-venganza-incluir-usb-c-iphone-15-1296328'>Apple ya tiene lista su venganza por la obligación de incluir USB-C en el iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/apple-ya-tiene-lista-venganza-incluir-usb-c-iphone-15-1296328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='Apple ya tiene lista su venganza por la obligación de incluir USB-C en el iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ferrari-freidoras-aire-dos-cestas-consumo-70-euros-menos-1296654'>El Ferrari de las freidoras de aire: con dos cestas, de bajo consumo y por 70 euros menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ferrari-freidoras-aire-dos-cestas-consumo-70-euros-menos-1296654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ninja-foodi-dual-zone-air-fryer-3120292.jpg?tf=1200x' alt='El Ferrari de las freidoras de aire: con dos cestas, de bajo consumo y por 70 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/7-planetas-sistema-solar-han-comenzado-girar-sentido-contrario-1297010'>Hasta 7 planetas del Sistema Solar han comenzado a girar "en sentido contrario", aunque no debes alarmarte</a></h4>
+    <a href='https://computerhoy.com/espacio/7-planetas-sistema-solar-han-comenzado-girar-sentido-contrario-1297010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/fin-semana-alinean-5-planetas-cielo-puedes-verlos-3059766.jpg?tf=1200x' alt='Hasta 7 planetas del Sistema Solar han comenzado a girar "en sentido contrario", aunque no debes alarmarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/luna-azul-2023-cuando-como-puede-verse-superluna-espana-1297006'>Luna Azul 2023: Qué días se puede ver y las mejores horas para no perderse la superluna en España</a></h4>
+    <a href='https://computerhoy.com/espacio/luna-azul-2023-cuando-como-puede-verse-superluna-espana-1297006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/superluna-azul-3121152.jpg?tf=1200x' alt='Luna Azul 2023: Qué días se puede ver y las mejores horas para no perderse la superluna en España' />
     </a>
 </div>
 
