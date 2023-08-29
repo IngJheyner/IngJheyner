@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-saca-provecho-millonario-datos-maps-va-vender-empresas-renovables-1296820'>Google saca un provecho millonario de los datos de Maps y los va a vender a empresas de renovables</a></h4>
+    <a href='https://computerhoy.com/google/google-saca-provecho-millonario-datos-maps-va-vender-empresas-renovables-1296820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-empresas-renovables-3120620.jpg?tf=1200x' alt='Google saca un provecho millonario de los datos de Maps y los va a vender a empresas de renovables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/motivos-esperar-iphone-16-no-comprar-iphone-15-pro-1296768'>Motivos por los que esperar al iPhone 16 y no comprar el iPhone 15 Pro</a></h4>
+    <a href='https://computerhoy.com/apple/motivos-esperar-iphone-16-no-comprar-iphone-15-pro-1296768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/extranas-predicciones-hablan-peor-rendimiento-iphone-15-pro-pro-max-2024-3057268.jpg?tf=1200x' alt='Motivos por los que esperar al iPhone 16 y no comprar el iPhone 15 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tablet-samsung-perfecta-estudiantes-oferta-1296210'>Una tablet para estudiantes prácticamente perfecta, de Samsung y por mucho menos de 200 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablet-samsung-perfecta-estudiantes-oferta-1296210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-galaxy-tab-a8-2592455.jpg?tf=1200x' alt='Una tablet para estudiantes prácticamente perfecta, de Samsung y por mucho menos de 200 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/filtran-colores-iphone-15-diseno-nuevas-fundas-cambios-muy-radicales-1296728'>Se filtran los colores de los iPhone 15 y el diseño de las nuevas fundas con cambios muy radicales</a></h4>
     <a href='https://computerhoy.com/apple/filtran-colores-iphone-15-diseno-nuevas-fundas-cambios-muy-radicales-1296728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/colores-iphone-15-3120536.jpg?tf=1200x' alt='Se filtran los colores de los iPhone 15 y el diseño de las nuevas fundas con cambios muy radicales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/truco-google-saber-cuanta-antelacion-tienes-comprar-vuelos-navidad-1296734'>El truco de Google para saber con cuánta antelación tienes que comprar tus vuelos en Navidad</a></h4>
-    <a href='https://computerhoy.com/google/truco-google-saber-cuanta-antelacion-tienes-comprar-vuelos-navidad-1296734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-flights-2645197.jpg?tf=1200x' alt='El truco de Google para saber con cuánta antelación tienes que comprar tus vuelos en Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/5-patinetes-electricos-segunda-mano-baratos-aptos-moverte-ciudad-1296700'>5 patinetes eléctricos de segunda mano baratos y aptos para moverte por la ciudad</a></h4>
-    <a href='https://computerhoy.com/mejores/5-patinetes-electricos-segunda-mano-baratos-aptos-moverte-ciudad-1296700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/patinete-ciudad-3021436.jpg?tf=1200x' alt='5 patinetes eléctricos de segunda mano baratos y aptos para moverte por la ciudad' />
     </a>
 </div>
 
