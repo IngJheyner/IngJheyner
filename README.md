@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/luna-azul-2023-cuando-como-puede-verse-superluna-espana-1297006'>Luna Azul 2023: Qué días se puede ver y las mejores horas para no perderse la superluna en España</a></h4>
+    <a href='https://computerhoy.com/espacio/luna-azul-2023-cuando-como-puede-verse-superluna-espana-1297006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/superluna-azul-3121152.jpg?tf=1200x' alt='Luna Azul 2023: Qué días se puede ver y las mejores horas para no perderse la superluna en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tecnica-infalible-detectar-mentiras-segundos-1295270'>La técnica infalible para detectar mentiras en segundos y que cambiará tu forma de ver a las personas</a></h4>
+    <a href='https://computerhoy.com/life/tecnica-infalible-detectar-mentiras-segundos-1295270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/decir-mentiras-2980650.jpg?tf=1200x' alt='La técnica infalible para detectar mentiras en segundos y que cambiará tu forma de ver a las personas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ameca-robot-humanoide-avanzado-revela-futuro-planeta-1296968'>Ameca, el robot humanoide más avanzado del mundo, revela cómo será la vida dentro de 100 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ameca-robot-humanoide-avanzado-revela-futuro-planeta-1296968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/robot-ameca-2552141.jpg?tf=1200x' alt='Ameca, el robot humanoide más avanzado del mundo, revela cómo será la vida dentro de 100 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/realidad-ilusion-estas-son-razones-ves-fantasmas-ciencia-1291964'>¿Realidad o ilusión? Estas son las razones por las que ves fantasmas, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/realidad-ilusion-estas-son-razones-ves-fantasmas-ciencia-1291964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fantasma-3120910.jpg?tf=1200x' alt='¿Realidad o ilusión? Estas son las razones por las que ves fantasmas, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
     <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/analistas-predicen-sony-playstation-podria-enfrentar-mayor-fracaso-historia-1296952'>Analistas predicen que Sony PlayStation podría enfrentar el mayor fracaso de su historia</a></h4>
-    <a href='https://computerhoy.com/gaming/analistas-predicen-sony-playstation-podria-enfrentar-mayor-fracaso-historia-1296952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/project-q-3082916.jpg?tf=1200x' alt='Analistas predicen que Sony PlayStation podría enfrentar el mayor fracaso de su historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apenas-supera-200-euros-tiene-internet-todas-partes-portatil-bombazo-vuelta-cole-1296252'>Supera por poco los 200 euros y tiene internet en todas partes: este portátil Acer es un bombazo para la vuelta al cole</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apenas-supera-200-euros-tiene-internet-todas-partes-portatil-bombazo-vuelta-cole-1296252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/acer-aspire-1-a114-61l-3096054.jpg?tf=1200x' alt='Supera por poco los 200 euros y tiene internet en todas partes: este portátil Acer es un bombazo para la vuelta al cole' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920'>Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-iphone-15-3121022.jpg?tf=1200x' alt='Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/interruptor-hombre-muerto-telegram-como-funciona-1296382'>Qué es el interruptor de hombre muerto de Telegram y cómo funciona</a></h4>
-    <a href='https://computerhoy.com/tutoriales/interruptor-hombre-muerto-telegram-como-funciona-1296382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/telegram-3120908.jpg?tf=1200x' alt='Qué es el interruptor de hombre muerto de Telegram y cómo funciona' />
     </a>
 </div>
 
