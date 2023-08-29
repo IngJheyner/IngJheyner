@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/sencillo-habito-cita-steve-jobs-conseguir-suenos-1296364'>El sencillo hábito que según Steve Jobs separa a los soñadores de los perdedores</a></h4>
+    <a href='https://computerhoy.com/apple/sencillo-habito-cita-steve-jobs-conseguir-suenos-1296364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/steve-jobs-3064448.jpg?tf=1200x' alt='El sencillo hábito que según Steve Jobs separa a los soñadores de los perdedores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
     <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/tcl-40-nxtpaper-40-nxtpaper-5g-primeros-moviles-tecnologia-pantalla-nxtpaper-1296412'>TCL 40 NXTPAPER y 40 NXTPAPER 5G: los primeros móviles con tecnología de pantalla NXTPAPER</a></h4>
     <a href='https://computerhoy.com/moviles/tcl-40-nxtpaper-40-nxtpaper-5g-primeros-moviles-tecnologia-pantalla-nxtpaper-1296412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tcl-40-nxtpaper-40-nxtpaper-5g-primeros-moviles-tecnologia-pantalla-nxtpaper-3120602.jpg?tf=1200x' alt='TCL 40 NXTPAPER y 40 NXTPAPER 5G: los primeros móviles con tecnología de pantalla NXTPAPER' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/ceo-amazon-dicta-sentencia-empleados-niegan-volver-oficina-insta-irse-1296838'>El CEO de Amazon dicta sentencia a los empleados que se niegan a volver a la oficina y les insta a irse</a></h4>
-    <a href='https://computerhoy.com/amazon/ceo-amazon-dicta-sentencia-empleados-niegan-volver-oficina-insta-irse-1296838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/andy-jassy-amazon-3120748.jpg?tf=1200x' alt='El CEO de Amazon dicta sentencia a los empleados que se niegan a volver a la oficina y les insta a irse' />
     </a>
 </div>
 
