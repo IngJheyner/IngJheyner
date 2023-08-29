@@ -50,30 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-saca-provecho-millonario-datos-maps-va-vender-empresas-renovables-1296820'>Google saca un provecho millonario de los datos de Maps y los va a vender a empresas de renovables</a></h4>
-    <a href='https://computerhoy.com/google/google-saca-provecho-millonario-datos-maps-va-vender-empresas-renovables-1296820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-empresas-renovables-3120620.jpg?tf=1200x' alt='Google saca un provecho millonario de los datos de Maps y los va a vender a empresas de renovables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/motivos-esperar-iphone-16-no-comprar-iphone-15-pro-1296768'>Motivos por los que esperar al iPhone 16 y no comprar el iPhone 15 Pro</a></h4>
-    <a href='https://computerhoy.com/apple/motivos-esperar-iphone-16-no-comprar-iphone-15-pro-1296768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/extranas-predicciones-hablan-peor-rendimiento-iphone-15-pro-pro-max-2024-3057268.jpg?tf=1200x' alt='Motivos por los que esperar al iPhone 16 y no comprar el iPhone 15 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-samsung-perfecta-estudiantes-oferta-1296210'>Una tablet para estudiantes prácticamente perfecta, de Samsung y por mucho menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-samsung-perfecta-estudiantes-oferta-1296210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-galaxy-tab-a8-2592455.jpg?tf=1200x' alt='Una tablet para estudiantes prácticamente perfecta, de Samsung y por mucho menos de 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
     <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
@@ -82,9 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/filtran-colores-iphone-15-diseno-nuevas-fundas-cambios-muy-radicales-1296728'>Se filtran los colores de los iPhone 15 y el diseño de las nuevas fundas con cambios muy radicales</a></h4>
-    <a href='https://computerhoy.com/apple/filtran-colores-iphone-15-diseno-nuevas-fundas-cambios-muy-radicales-1296728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/colores-iphone-15-3120536.jpg?tf=1200x' alt='Se filtran los colores de los iPhone 15 y el diseño de las nuevas fundas con cambios muy radicales' />
+    <h4><a href='https://computerhoy.com/apple/precio-iphone-15-iphone-15-pro-iphone-15-pro-max-espana-ultimas-filtraciones-1296284'>Apple sorprenderá con el precio del iPhone 15: será su teléfono más caro</a></h4>
+    <a href='https://computerhoy.com/apple/precio-iphone-15-iphone-15-pro-iphone-15-pro-max-espana-ultimas-filtraciones-1296284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/iphone-12-3087866.jpg?tf=1200x' alt='Apple sorprenderá con el precio del iPhone 15: será su teléfono más caro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/todo-debes-saber-watchos-10-fecha-lanzamiento-novedades-expectativas-1296848'>Todo lo que debes saber sobre watchOS 10: fecha de lanzamiento, novedades y expectativas</a></h4>
+    <a href='https://computerhoy.com/apple/todo-debes-saber-watchos-10-fecha-lanzamiento-novedades-expectativas-1296848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3086866.jpg?tf=1200x' alt='Todo lo que debes saber sobre watchOS 10: fecha de lanzamiento, novedades y expectativas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/tcl-40-nxtpaper-40-nxtpaper-5g-primeros-moviles-tecnologia-pantalla-nxtpaper-1296412'>TCL 40 NXTPAPER y 40 NXTPAPER 5G: los primeros móviles con tecnología de pantalla NXTPAPER</a></h4>
+    <a href='https://computerhoy.com/moviles/tcl-40-nxtpaper-40-nxtpaper-5g-primeros-moviles-tecnologia-pantalla-nxtpaper-1296412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tcl-40-nxtpaper-40-nxtpaper-5g-primeros-moviles-tecnologia-pantalla-nxtpaper-3120602.jpg?tf=1200x' alt='TCL 40 NXTPAPER y 40 NXTPAPER 5G: los primeros móviles con tecnología de pantalla NXTPAPER' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/ceo-amazon-dicta-sentencia-empleados-niegan-volver-oficina-insta-irse-1296838'>El CEO de Amazon dicta sentencia a los empleados que se niegan a volver a la oficina y les insta a irse</a></h4>
+    <a href='https://computerhoy.com/amazon/ceo-amazon-dicta-sentencia-empleados-niegan-volver-oficina-insta-irse-1296838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/andy-jassy-amazon-3120748.jpg?tf=1200x' alt='El CEO de Amazon dicta sentencia a los empleados que se niegan a volver a la oficina y les insta a irse' />
     </a>
 </div>
 
