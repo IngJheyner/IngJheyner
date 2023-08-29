@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/5-patinetes-electricos-segunda-mano-baratos-aptos-moverte-ciudad-1296700'>5 patinetes eléctricos de segunda mano baratos y aptos para moverte por la ciudad</a></h4>
+    <a href='https://computerhoy.com/mejores/5-patinetes-electricos-segunda-mano-baratos-aptos-moverte-ciudad-1296700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/patinete-ciudad-3021436.jpg?tf=1200x' alt='5 patinetes eléctricos de segunda mano baratos y aptos para moverte por la ciudad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/presidente-microsoft-avisa-amenaza-latente-ia-control-humano-1296750'>El presidente de Microsoft avisa de la amenaza latente de la IA sin control humano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/presidente-microsoft-avisa-amenaza-latente-ia-control-humano-1296750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/brad-smith-presidente-microsoft-2351063.jpg?tf=1200x' alt='El presidente de Microsoft avisa de la amenaza latente de la IA sin control humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-prepara-gran-subida-gasto-minimo-tener-envio-gratis-1296692'>Amazon prepara una gran subida al gasto mínimo para tener envíos gratis</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-prepara-gran-subida-gasto-minimo-tener-envio-gratis-1296692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-subida-precios-3120400.jpg?tf=1200x' alt='Amazon prepara una gran subida al gasto mínimo para tener envíos gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-cuenta-version-especializada-empresas-funciones-mejoradas-1296668'>ChatGPT ya tiene una versión especializada para las empresas con funciones mejoradas</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-ya-cuenta-version-especializada-empresas-funciones-mejoradas-1296668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-empresas-3120354.jpg?tf=1200x' alt='ChatGPT ya tiene una versión especializada para las empresas con funciones mejoradas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-microsd-movil-android-1006679'>Mejores micro SD para tu móvil Android que puedes comprar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-microsd-movil-android-1006679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsd-2061497.jpg?tf=1200x' alt='Mejores micro SD para tu móvil Android que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/esperar-ifa-2023-productos-honor-lg-samsung-sony-lenovo-1295226'>Qué esperar de IFA 2023: esto es lo que presentarán  Honor, Samsung, LG, Sony y más</a></h4>
-    <a href='https://computerhoy.com/moviles/esperar-ifa-2023-productos-honor-lg-samsung-sony-lenovo-1295226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ifa-2022-3118080.jpg?tf=1200x' alt='Qué esperar de IFA 2023: esto es lo que presentarán  Honor, Samsung, LG, Sony y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/detienen-hombre-cavando-agujero-arcen-buscaba-calcetin-drogas-1296636'>Descubren a un hombre cavando un agujero en el arcén de la carretera: lo que había dentro te va a hacer gracia</a></h4>
-    <a href='https://computerhoy.com/life/detienen-hombre-cavando-agujero-arcen-buscaba-calcetin-drogas-1296636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/descubren-hombre-cavando-agujero-arcen-habia-dentro-te-va-hacer-gracia-3120264.jpg?tf=1200x' alt='Descubren a un hombre cavando un agujero en el arcén de la carretera: lo que había dentro te va a hacer gracia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/un-planeta-extrano-nueva-serie-creador-rick-morty-apple-tv-plus-1296634'>Un Planeta Extraño, la nueva serie del creador de Rick y Morty, seguramente no es lo que esperas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/un-planeta-extrano-nueva-serie-creador-rick-morty-apple-tv-plus-1296634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/planeta-extrano-3120034.jpg?tf=1200x' alt='Un Planeta Extraño, la nueva serie del creador de Rick y Morty, seguramente no es lo que esperas' />
     </a>
 </div>
 
