@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/un-planeta-extrano-nueva-serie-creador-rick-morty-apple-tv-plus-1296634'>Un Planeta Extraño, la nueva serie del creador de Rick y Morty, seguramente no es lo que esperas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/un-planeta-extrano-nueva-serie-creador-rick-morty-apple-tv-plus-1296634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/planeta-extrano-3120034.jpg?tf=1200x' alt='Un Planeta Extraño, la nueva serie del creador de Rick y Morty, seguramente no es lo que esperas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/elon-musk-muestra-conduccion-autonoma-tesla-pero-no-sale-bien-1296428'>Elon Musk muestra en directo la conducción autónoma de Tesla, pero se salta un semáforo y desvela dónde vive Mark Zuckerberg</a></h4>
     <a href='https://computerhoy.com/motor/elon-musk-muestra-conduccion-autonoma-tesla-pero-no-sale-bien-1296428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/elon-musk-muestra-directo-conduccion-autonoma-tesla-pero-salta-semaforo-desvela-donde-vive-mark-zuckerberg-3120042.jpg?tf=1200x' alt='Elon Musk muestra en directo la conducción autónoma de Tesla, pero se salta un semáforo y desvela dónde vive Mark Zuckerberg' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/taza-inodoro-resbaladiza-mantiene-limpia-necesidad-agua-1296414'>Crean una taza de inodoro muy resbaladiza que se mantiene limpia sin necesidad de agua</a></h4>
     <a href='https://computerhoy.com/life/taza-inodoro-resbaladiza-mantiene-limpia-necesidad-agua-1296414' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/crean-taza-inodoro-muy-resbaladiza-mantiene-limpia-necesidad-agua-3120024.jpg?tf=1200x' alt='Crean una taza de inodoro muy resbaladiza que se mantiene limpia sin necesidad de agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/onkalo-lugar-no-volver-ser-pisado-100000-anos-1296354'>Este lugar de la Tierra ya está listo para no volver a ser pisado por ningún ser humano en 100.000 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/onkalo-lugar-no-volver-ser-pisado-100000-anos-1296354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lugar-tierra-ya-listo-no-volver-ser-pisado-ningun-ser-humano-100000-anos-3119866.jpg?tf=1200x' alt='Este lugar de la Tierra ya está listo para no volver a ser pisado por ningún ser humano en 100.000 años' />
     </a>
 </div>
 
