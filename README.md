@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-samsung-perfecta-estudiantes-oferta-1296210'>Una tablet para estudiantes prácticamente perfecta, de Samsung y por mucho menos de 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-samsung-perfecta-estudiantes-oferta-1296210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-galaxy-tab-a8-2592455.jpg?tf=1200x' alt='Una tablet para estudiantes prácticamente perfecta, de Samsung y por mucho menos de 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/filtran-colores-iphone-15-diseno-nuevas-fundas-cambios-muy-radicales-1296728'>Se filtran los colores de los iPhone 15 y el diseño de las nuevas fundas con cambios muy radicales</a></h4>
+    <a href='https://computerhoy.com/apple/filtran-colores-iphone-15-diseno-nuevas-fundas-cambios-muy-radicales-1296728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/colores-iphone-15-3120536.jpg?tf=1200x' alt='Se filtran los colores de los iPhone 15 y el diseño de las nuevas fundas con cambios muy radicales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/truco-google-saber-cuanta-antelacion-tienes-comprar-vuelos-navidad-1296734'>El truco de Google para saber con cuánta antelación tienes que comprar tus vuelos en Navidad</a></h4>
+    <a href='https://computerhoy.com/google/truco-google-saber-cuanta-antelacion-tienes-comprar-vuelos-navidad-1296734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/google-flights-2645197.jpg?tf=1200x' alt='El truco de Google para saber con cuánta antelación tienes que comprar tus vuelos en Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/5-patinetes-electricos-segunda-mano-baratos-aptos-moverte-ciudad-1296700'>5 patinetes eléctricos de segunda mano baratos y aptos para moverte por la ciudad</a></h4>
     <a href='https://computerhoy.com/mejores/5-patinetes-electricos-segunda-mano-baratos-aptos-moverte-ciudad-1296700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/patinete-ciudad-3021436.jpg?tf=1200x' alt='5 patinetes eléctricos de segunda mano baratos y aptos para moverte por la ciudad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/presidente-microsoft-avisa-amenaza-latente-ia-control-humano-1296750'>El presidente de Microsoft avisa de la amenaza latente de la IA sin control humano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/presidente-microsoft-avisa-amenaza-latente-ia-control-humano-1296750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/brad-smith-presidente-microsoft-2351063.jpg?tf=1200x' alt='El presidente de Microsoft avisa de la amenaza latente de la IA sin control humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-prepara-gran-subida-gasto-minimo-tener-envio-gratis-1296692'>Amazon prepara una gran subida al gasto mínimo para tener envíos gratis</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-prepara-gran-subida-gasto-minimo-tener-envio-gratis-1296692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-subida-precios-3120400.jpg?tf=1200x' alt='Amazon prepara una gran subida al gasto mínimo para tener envíos gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-cuenta-version-especializada-empresas-funciones-mejoradas-1296668'>ChatGPT ya tiene una versión especializada para las empresas con funciones mejoradas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-cuenta-version-especializada-empresas-funciones-mejoradas-1296668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-empresas-3120354.jpg?tf=1200x' alt='ChatGPT ya tiene una versión especializada para las empresas con funciones mejoradas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-microsd-movil-android-1006679'>Mejores micro SD para tu móvil Android que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-microsd-movil-android-1006679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsd-2061497.jpg?tf=1200x' alt='Mejores micro SD para tu móvil Android que puedes comprar' />
     </a>
 </div>
 
