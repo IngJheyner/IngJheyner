@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-cuenta-version-especializada-empresas-funciones-mejoradas-1296668'>ChatGPT ya tiene una versión especializada para las empresas con funciones mejoradas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-cuenta-version-especializada-empresas-funciones-mejoradas-1296668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-empresas-3120354.jpg?tf=1200x' alt='ChatGPT ya tiene una versión especializada para las empresas con funciones mejoradas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-microsd-movil-android-1006679'>Mejores micro SD para tu móvil Android que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-microsd-movil-android-1006679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsd-2061497.jpg?tf=1200x' alt='Mejores micro SD para tu móvil Android que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/esperar-ifa-2023-productos-honor-lg-samsung-sony-lenovo-1295226'>Qué esperar de IFA 2023: esto es lo que presentarán  Honor, Samsung, LG, Sony y más</a></h4>
+    <a href='https://computerhoy.com/moviles/esperar-ifa-2023-productos-honor-lg-samsung-sony-lenovo-1295226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ifa-2022-3118080.jpg?tf=1200x' alt='Qué esperar de IFA 2023: esto es lo que presentarán  Honor, Samsung, LG, Sony y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/detienen-hombre-cavando-agujero-arcen-buscaba-calcetin-drogas-1296636'>Descubren a un hombre cavando un agujero en el arcén de la carretera: lo que había dentro te va a hacer gracia</a></h4>
+    <a href='https://computerhoy.com/life/detienen-hombre-cavando-agujero-arcen-buscaba-calcetin-drogas-1296636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/descubren-hombre-cavando-agujero-arcen-habia-dentro-te-va-hacer-gracia-3120264.jpg?tf=1200x' alt='Descubren a un hombre cavando un agujero en el arcén de la carretera: lo que había dentro te va a hacer gracia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/un-planeta-extrano-nueva-serie-creador-rick-morty-apple-tv-plus-1296634'>Un Planeta Extraño, la nueva serie del creador de Rick y Morty, seguramente no es lo que esperas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/un-planeta-extrano-nueva-serie-creador-rick-morty-apple-tv-plus-1296634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/planeta-extrano-3120034.jpg?tf=1200x' alt='Un Planeta Extraño, la nueva serie del creador de Rick y Morty, seguramente no es lo que esperas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/elon-musk-muestra-conduccion-autonoma-tesla-pero-no-sale-bien-1296428'>Elon Musk muestra en directo la conducción autónoma de Tesla, pero se salta un semáforo y desvela dónde vive Mark Zuckerberg</a></h4>
-    <a href='https://computerhoy.com/motor/elon-musk-muestra-conduccion-autonoma-tesla-pero-no-sale-bien-1296428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/elon-musk-muestra-directo-conduccion-autonoma-tesla-pero-salta-semaforo-desvela-donde-vive-mark-zuckerberg-3120042.jpg?tf=1200x' alt='Elon Musk muestra en directo la conducción autónoma de Tesla, pero se salta un semáforo y desvela dónde vive Mark Zuckerberg' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rendimiento-bestial-mini-pc-32gb-ram-tiene-i7-cuesta-mucho-menos-pc-normal-1296180'>Rendimiento bestial: este Mini PC de 32GB de RAM tiene un i7 y además cuesta mucho menos que un PC normal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rendimiento-bestial-mini-pc-32gb-ram-tiene-i7-cuesta-mucho-menos-pc-normal-1296180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/minis-forum-nab6-3119584.jpg?tf=1200x' alt='Rendimiento bestial: este Mini PC de 32GB de RAM tiene un i7 y además cuesta mucho menos que un PC normal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ver-futbol-gratis-iptv-sera-imposible-muy-poco-tiempo-1296420'>Ver el fútbol gratis por IPTV será prácticamente imposible en muy poco tiempo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ver-futbol-gratis-iptv-sera-imposible-muy-poco-tiempo-1296420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/futbol-iptv-3120030.jpg?tf=1200x' alt='Ver el fútbol gratis por IPTV será prácticamente imposible en muy poco tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/taza-inodoro-resbaladiza-mantiene-limpia-necesidad-agua-1296414'>Crean una taza de inodoro muy resbaladiza que se mantiene limpia sin necesidad de agua</a></h4>
-    <a href='https://computerhoy.com/life/taza-inodoro-resbaladiza-mantiene-limpia-necesidad-agua-1296414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/crean-taza-inodoro-muy-resbaladiza-mantiene-limpia-necesidad-agua-3120024.jpg?tf=1200x' alt='Crean una taza de inodoro muy resbaladiza que se mantiene limpia sin necesidad de agua' />
     </a>
 </div>
 
