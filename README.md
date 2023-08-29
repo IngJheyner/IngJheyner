@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/sencillo-habito-cita-steve-jobs-conseguir-suenos-1296364'>El sencillo hábito que según Steve Jobs separa a los soñadores de los perdedores</a></h4>
-    <a href='https://computerhoy.com/apple/sencillo-habito-cita-steve-jobs-conseguir-suenos-1296364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/steve-jobs-3064448.jpg?tf=1200x' alt='El sencillo hábito que según Steve Jobs separa a los soñadores de los perdedores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
     <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
@@ -66,25 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/precio-iphone-15-iphone-15-pro-iphone-15-pro-max-espana-ultimas-filtraciones-1296284'>Apple sorprenderá con el precio del iPhone 15: será su teléfono más caro</a></h4>
-    <a href='https://computerhoy.com/apple/precio-iphone-15-iphone-15-pro-iphone-15-pro-max-espana-ultimas-filtraciones-1296284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/iphone-12-3087866.jpg?tf=1200x' alt='Apple sorprenderá con el precio del iPhone 15: será su teléfono más caro' />
+    <h4><a href='https://computerhoy.com/gaming/analistas-predicen-sony-playstation-podria-enfrentar-mayor-fracaso-historia-1296952'>Analistas predicen que Sony PlayStation podría enfrentar el mayor fracaso de su historia</a></h4>
+    <a href='https://computerhoy.com/gaming/analistas-predicen-sony-playstation-podria-enfrentar-mayor-fracaso-historia-1296952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/project-q-3082916.jpg?tf=1200x' alt='Analistas predicen que Sony PlayStation podría enfrentar el mayor fracaso de su historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/todo-debes-saber-watchos-10-fecha-lanzamiento-novedades-expectativas-1296848'>Todo lo que debes saber sobre watchOS 10: fecha de lanzamiento, novedades y expectativas</a></h4>
-    <a href='https://computerhoy.com/apple/todo-debes-saber-watchos-10-fecha-lanzamiento-novedades-expectativas-1296848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3086866.jpg?tf=1200x' alt='Todo lo que debes saber sobre watchOS 10: fecha de lanzamiento, novedades y expectativas' />
+    <h4><a href='https://computerhoy.com/tecnologia/apenas-supera-200-euros-tiene-internet-todas-partes-portatil-bombazo-vuelta-cole-1296252'>Supera por poco los 200 euros y tiene internet en todas partes: este portátil Acer es un bombazo para la vuelta al cole</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apenas-supera-200-euros-tiene-internet-todas-partes-portatil-bombazo-vuelta-cole-1296252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/acer-aspire-1-a114-61l-3096054.jpg?tf=1200x' alt='Supera por poco los 200 euros y tiene internet en todas partes: este portátil Acer es un bombazo para la vuelta al cole' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tcl-40-nxtpaper-40-nxtpaper-5g-primeros-moviles-tecnologia-pantalla-nxtpaper-1296412'>TCL 40 NXTPAPER y 40 NXTPAPER 5G: los primeros móviles con tecnología de pantalla NXTPAPER</a></h4>
-    <a href='https://computerhoy.com/moviles/tcl-40-nxtpaper-40-nxtpaper-5g-primeros-moviles-tecnologia-pantalla-nxtpaper-1296412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tcl-40-nxtpaper-40-nxtpaper-5g-primeros-moviles-tecnologia-pantalla-nxtpaper-3120602.jpg?tf=1200x' alt='TCL 40 NXTPAPER y 40 NXTPAPER 5G: los primeros móviles con tecnología de pantalla NXTPAPER' />
+    <h4><a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920'>Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-iphone-15-3121022.jpg?tf=1200x' alt='Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/interruptor-hombre-muerto-telegram-como-funciona-1296382'>Qué es el interruptor de hombre muerto de Telegram y cómo funciona</a></h4>
+    <a href='https://computerhoy.com/tutoriales/interruptor-hombre-muerto-telegram-como-funciona-1296382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/telegram-3120908.jpg?tf=1200x' alt='Qué es el interruptor de hombre muerto de Telegram y cómo funciona' />
     </a>
 </div>
 
