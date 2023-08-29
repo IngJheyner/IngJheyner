@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920'>Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-iphone-15-3121022.jpg?tf=1200x' alt='Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hipster-moderno-foto-1940-demostracion-viajes-tiempo-1297024'>El hipster moderno que aparece en una foto de 1941, ¿demostración de los viajes en el tiempo?</a></h4>
+    <a href='https://computerhoy.com/life/hipster-moderno-foto-1940-demostracion-viajes-tiempo-1297024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hipster-moderno-aparece-foto-1940-demostracion-viajes-tiempo-3121166.jpg?tf=1200x' alt='El hipster moderno que aparece en una foto de 1941, ¿demostración de los viajes en el tiempo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/cuando-sale-iphone-15-fecha-lanzamiento-cuando-sale-venta-espana-1295026'>¿Cuándo sale el iPhone 15?: fecha de lanzamiento y cuándo sale a la venta en España</a></h4>
+    <a href='https://computerhoy.com/apple/cuando-sale-iphone-15-fecha-lanzamiento-cuando-sale-venta-espana-1295026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cuando-sale-iphone-15-3117592.jpg?tf=1200x' alt='¿Cuándo sale el iPhone 15?: fecha de lanzamiento y cuándo sale a la venta en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
     <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-ya-tiene-lista-venganza-incluir-usb-c-iphone-15-1296328'>Apple ya tiene lista su venganza por la obligación de incluir USB-C en el iPhone 15</a></h4>
     <a href='https://computerhoy.com/apple/apple-ya-tiene-lista-venganza-incluir-usb-c-iphone-15-1296328' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='Apple ya tiene lista su venganza por la obligación de incluir USB-C en el iPhone 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ferrari-freidoras-aire-dos-cestas-consumo-70-euros-menos-1296654'>El Ferrari de las freidoras de aire: con dos cestas, de bajo consumo y por 70 euros menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ferrari-freidoras-aire-dos-cestas-consumo-70-euros-menos-1296654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ninja-foodi-dual-zone-air-fryer-3120292.jpg?tf=1200x' alt='El Ferrari de las freidoras de aire: con dos cestas, de bajo consumo y por 70 euros menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/7-planetas-sistema-solar-han-comenzado-girar-sentido-contrario-1297010'>Hasta 7 planetas del Sistema Solar han comenzado a girar "en sentido contrario", aunque no debes alarmarte</a></h4>
-    <a href='https://computerhoy.com/espacio/7-planetas-sistema-solar-han-comenzado-girar-sentido-contrario-1297010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/fin-semana-alinean-5-planetas-cielo-puedes-verlos-3059766.jpg?tf=1200x' alt='Hasta 7 planetas del Sistema Solar han comenzado a girar "en sentido contrario", aunque no debes alarmarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/luna-azul-2023-cuando-como-puede-verse-superluna-espana-1297006'>Luna Azul 2023: Qué días se puede ver y las mejores horas para no perderse la superluna en España</a></h4>
-    <a href='https://computerhoy.com/espacio/luna-azul-2023-cuando-como-puede-verse-superluna-espana-1297006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/superluna-azul-3121152.jpg?tf=1200x' alt='Luna Azul 2023: Qué días se puede ver y las mejores horas para no perderse la superluna en España' />
     </a>
 </div>
 
