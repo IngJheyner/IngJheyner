@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/nvidia-lanza-drivers-reescalado-4k-video-inteligencia-artificial-1297028'>NVIDIA lanza unos drivers con IA que permiten ver Netflix a 4K, aunque solo pagues por la versión estándar</a></h4>
+    <a href='https://computerhoy.com/pc/nvidia-lanza-drivers-reescalado-4k-video-inteligencia-artificial-1297028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nvidia-lanza-drivers-permiten-ver-netflix-4k-aunque-solo-pagues-version-estandar-3121178.jpg?tf=1200x' alt='NVIDIA lanza unos drivers con IA que permiten ver Netflix a 4K, aunque solo pagues por la versión estándar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/que-significa-probabilidades-lluvia-prediccion-tiempo-1296976'>Por qué tu móvil te dice que hay un 30% de probabilidades de lluvia y al final nunca llueve</a></h4>
+    <a href='https://computerhoy.com/ciencia/que-significa-probabilidades-lluvia-prediccion-tiempo-1296976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/lluvia-2094185.jpg?tf=1200x' alt='Por qué tu móvil te dice que hay un 30% de probabilidades de lluvia y al final nunca llueve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920'>Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-iphone-15-3121022.jpg?tf=1200x' alt='Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/cuando-sale-iphone-15-fecha-lanzamiento-cuando-sale-venta-espana-1295026'>¿Cuándo sale el iPhone 15?: fecha de lanzamiento y cuándo sale a la venta en España</a></h4>
     <a href='https://computerhoy.com/apple/cuando-sale-iphone-15-fecha-lanzamiento-cuando-sale-venta-espana-1295026' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cuando-sale-iphone-15-3117592.jpg?tf=1200x' alt='¿Cuándo sale el iPhone 15?: fecha de lanzamiento y cuándo sale a la venta en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-ya-tiene-lista-venganza-incluir-usb-c-iphone-15-1296328'>Apple ya tiene lista su venganza por la obligación de incluir USB-C en el iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/apple-ya-tiene-lista-venganza-incluir-usb-c-iphone-15-1296328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='Apple ya tiene lista su venganza por la obligación de incluir USB-C en el iPhone 15' />
     </a>
 </div>
 
