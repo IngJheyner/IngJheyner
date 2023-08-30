@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/tdtchannels-amplia-oferta-nuevos-canales-television-totalmente-gratis-1297572'>TDTChannels amplía su oferta con nuevos canales de televisión y de radio totalmente gratis</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/tdtchannels-amplia-oferta-nuevos-canales-television-totalmente-gratis-1297572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels amplía su oferta con nuevos canales de televisión y de radio totalmente gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-recurre-estas-molestas-tacticas-abandones-google-windows-11-1297566'>Microsoft está recurriendo a las tácticas más rastreras para que abandones Google en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-recurre-estas-molestas-tacticas-abandones-google-windows-11-1297566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Microsoft está recurriendo a las tácticas más rastreras para que abandones Google en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-pixel-8-presentacion-4-octubre-1297568'>Google presentará sus nuevos móviles Pixel 8 el 4 de octubre, junto a algunas sorpresas</a></h4>
+    <a href='https://computerhoy.com/google/google-pixel-8-presentacion-4-octubre-1297568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-presentara-nuevos-moviles-pixel-8-4-octubre-junto-algunas-sorpresas-3121942.jpg?tf=1200x' alt='Google presentará sus nuevos móviles Pixel 8 el 4 de octubre, junto a algunas sorpresas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/8-maneras-puedes-danar-raspberry-pi-1297014'>8 maneras en las que puedes dañar tu Raspberry Pi </a></h4>
     <a href='https://computerhoy.com/tecnologia/8-maneras-puedes-danar-raspberry-pi-1297014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/raspberry-pi-como-puede-danar-3121176.jpg?tf=1200x' alt='8 maneras en las que puedes dañar tu Raspberry Pi ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/casa-real-pelicula-up-historia-conmovedora-1297546'>La casa de la película Up es real, y su historia es aún más conmovedora</a></h4>
     <a href='https://computerhoy.com/life/casa-real-pelicula-up-historia-conmovedora-1297546' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/casa-pelicula-real-historia-aun-conmovedora-3121810.jpg?tf=1200x' alt='La casa de la película Up es real, y su historia es aún más conmovedora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/cierto-cervezas-alcohol-0-podrian-considerarse-bebidas-saludables-1297516'>¿Es cierto que las cervezas sin alcohol o 0% podrían considerarse bebidas saludables?</a></h4>
-    <a href='https://computerhoy.com/alimentacion/cierto-cervezas-alcohol-0-podrian-considerarse-bebidas-saludables-1297516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cerveza-3077016.jpg?tf=1200x' alt='¿Es cierto que las cervezas sin alcohol o 0% podrían considerarse bebidas saludables?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-conexion-usb-android-auto-1296430'>Cómo solucionar el error de conexión USB de Android Auto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-conexion-usb-android-auto-1296430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/android-auto-3120056.jpg?tf=1200x' alt='Cómo solucionar el error de conexión USB de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hotel-antiguo-mundo-japon-tiene-1300-anos-1297500'>Así es el hotel más antiguo del mundo: está en Japón y tiene 1.300 años</a></h4>
-    <a href='https://computerhoy.com/life/hotel-antiguo-mundo-japon-tiene-1300-anos-1297500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hotel-keiunkan-3121850.jpg?tf=1200x' alt='Así es el hotel más antiguo del mundo: está en Japón y tiene 1.300 años' />
     </a>
 </div>
 
