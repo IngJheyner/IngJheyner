@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hipster-moderno-foto-1940-demostracion-viajes-tiempo-1297024'>El hipster moderno que aparece en una foto de 1941, ¿demostración de los viajes en el tiempo?</a></h4>
+    <a href='https://computerhoy.com/life/hipster-moderno-foto-1940-demostracion-viajes-tiempo-1297024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hipster-moderno-aparece-foto-1940-demostracion-viajes-tiempo-3121166.jpg?tf=1200x' alt='El hipster moderno que aparece en una foto de 1941, ¿demostración de los viajes en el tiempo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/jbl-renueva-catalogo-auriculares-conduccion-osea-altavoces-mucho-1297468'>JBL renueva su catálogo: auriculares de conducción ósea, altavoces y mucho más</a></h4>
+    <a href='https://computerhoy.com/audio/jbl-renueva-catalogo-auriculares-conduccion-osea-altavoces-mucho-1297468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/jbl-renueva-catalogo-auriculares-conduccion-osea-altavoces-mucho-3121800.jpg?tf=1200x' alt='JBL renueva su catálogo: auriculares de conducción ósea, altavoces y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-dominar-metodo-loci-memorizar-cualquier-cosa-solo-2-pasos-1294802'>Cómo dominar el método de loci para memorizar cualquier cosa en solo 2 pasos</a></h4>
+    <a href='https://computerhoy.com/life/como-dominar-metodo-loci-memorizar-cualquier-cosa-solo-2-pasos-1294802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/memoria-3121758.jpg?tf=1200x' alt='Cómo dominar el método de loci para memorizar cualquier cosa en solo 2 pasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/roborock-q5-pro-q8-max-dyad-pro-combo-dos-nuevos-robots-aspiradores-aspirador-convertible-1297448'>Roborock Q5 Pro, Q8 Max y Dyad Pro Combo: dos nuevos robots aspiradores y un aspirador convertible</a></h4>
     <a href='https://computerhoy.com/hogar/roborock-q5-pro-q8-max-dyad-pro-combo-dos-nuevos-robots-aspiradores-aspirador-convertible-1297448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/roborock-q7-max-2780279.jpg?tf=1200x' alt='Roborock Q5 Pro, Q8 Max y Dyad Pro Combo: dos nuevos robots aspiradores y un aspirador convertible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432'>Cómo calibrar Google Maps en Android para que sea mucho más preciso</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/calibrar-google-maps-3120262.jpg?tf=1200x' alt='Cómo calibrar Google Maps en Android para que sea mucho más preciso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920'>Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-iphone-15-3121022.jpg?tf=1200x' alt='Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-food-plataforma-te-propone-recetas-hechas-inteligencia-artificial-gustos-1297436'>Samsung Food: la plataforma que te propone recetas hechas con Inteligencia Artificial según tus gustos</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-food-plataforma-te-propone-recetas-hechas-inteligencia-artificial-gustos-1297436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-food-plataforma-te-propone-recetas-hechas-inteligencia-artificial-gustos-3121756.jpg?tf=1200x' alt='Samsung Food: la plataforma que te propone recetas hechas con Inteligencia Artificial según tus gustos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-correo-gmail-siendo-utilizado-dark-web-1297242'>Cómo saber si tu correo de Gmail está siendo utilizado en la Dark Web con las herramientas de Google</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-correo-gmail-siendo-utilizado-dark-web-1297242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gmail-2912356.jpg?tf=1200x' alt='Cómo saber si tu correo de Gmail está siendo utilizado en la Dark Web con las herramientas de Google' />
     </a>
 </div>
 
