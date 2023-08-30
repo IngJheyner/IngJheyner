@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-prepara-vuelta-nave-osiris-rex-minerales-espacio-1297544'>La NASA prepara la vuelta de la nave OSIRIS-Rex con minerales del espacio</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-prepara-vuelta-nave-osiris-rex-minerales-espacio-1297544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nasa-prepera-vuelta-navez-osisis-rex-minerales-espadcio-3121920.jpg?tf=1200x' alt='La NASA prepara la vuelta de la nave OSIRIS-Rex con minerales del espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-apple-watch-te-gusta-correr-reloj-garmin-barato-completo-1296796'>Olvida el Apple Watch: si te gusta correr, este reloj Garmin es más barato y completo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-apple-watch-te-gusta-correr-reloj-garmin-barato-completo-1296796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garmin-forerunner-255-2721191.jpg?tf=1200x' alt='Olvida el Apple Watch: si te gusta correr, este reloj Garmin es más barato y completo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/primer-ministro-japones-come-pescado-residuos-fukushima-1297536'>El primer ministro japonés come pescado de las aguas con residuos de Fukushima para demostrar que es seguro</a></h4>
+    <a href='https://computerhoy.com/alimentacion/primer-ministro-japones-come-pescado-residuos-fukushima-1297536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1693414869858-3121902.jpg?tf=1200x' alt='El primer ministro japonés come pescado de las aguas con residuos de Fukushima para demostrar que es seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/tdtchannels-amplia-oferta-nuevos-canales-television-totalmente-gratis-1297572'>TDTChannels amplía su oferta con nuevos canales de televisión y de radio totalmente gratis</a></h4>
     <a href='https://computerhoy.com/entretenimiento/tdtchannels-amplia-oferta-nuevos-canales-television-totalmente-gratis-1297572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels amplía su oferta con nuevos canales de televisión y de radio totalmente gratis' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-recurre-estas-molestas-tacticas-abandones-google-windows-11-1297566'>Microsoft está recurriendo a las tácticas más rastreras para que abandones Google en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-recurre-estas-molestas-tacticas-abandones-google-windows-11-1297566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Microsoft está recurriendo a las tácticas más rastreras para que abandones Google en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-pixel-8-presentacion-4-octubre-1297568'>Google presentará sus nuevos móviles Pixel 8 el 4 de octubre, junto a algunas sorpresas</a></h4>
-    <a href='https://computerhoy.com/google/google-pixel-8-presentacion-4-octubre-1297568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-presentara-nuevos-moviles-pixel-8-4-octubre-junto-algunas-sorpresas-3121942.jpg?tf=1200x' alt='Google presentará sus nuevos móviles Pixel 8 el 4 de octubre, junto a algunas sorpresas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/8-maneras-puedes-danar-raspberry-pi-1297014'>8 maneras en las que puedes dañar tu Raspberry Pi </a></h4>
-    <a href='https://computerhoy.com/tecnologia/8-maneras-puedes-danar-raspberry-pi-1297014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/raspberry-pi-como-puede-danar-3121176.jpg?tf=1200x' alt='8 maneras en las que puedes dañar tu Raspberry Pi ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/casa-real-pelicula-up-historia-conmovedora-1297546'>La casa de la película Up es real, y su historia es aún más conmovedora</a></h4>
-    <a href='https://computerhoy.com/life/casa-real-pelicula-up-historia-conmovedora-1297546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/casa-pelicula-real-historia-aun-conmovedora-3121810.jpg?tf=1200x' alt='La casa de la película Up es real, y su historia es aún más conmovedora' />
     </a>
 </div>
 
