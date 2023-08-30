@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
+    <h4><a href='https://computerhoy.com/tecnologia/europa-ya-cuenta-propia-empresa-ia-busca-desbancar-openai-1297306'>Europa ya cuenta con su propia empresa de inteligencia artificial que busca desbancar a OpenAI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/europa-ya-cuenta-propia-empresa-ia-busca-desbancar-openai-1297306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/europa-empresa-ia-3121570.jpg?tf=1200x' alt='Europa ya cuenta con su propia empresa de inteligencia artificial que busca desbancar a OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/locura-amazon-fans-apple-rebaja-iphone-ipad-macbook-52-descuento-1297290'>Locura en Amazon para fans de Apple: rebaja en iPhone, iPad y MacBook con hasta 52% de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/locura-amazon-fans-apple-rebaja-iphone-ipad-macbook-52-descuento-1297290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/apple-store-2147029.jpg?tf=1200x' alt='Locura en Amazon para fans de Apple: rebaja en iPhone, iPad y MacBook con hasta 52% de descuento' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/portatiles-chromebooks-estudiantes-1173970'>Estos son los mejores Chromebooks para estudiantes en 2023</a></h4>
     <a href='https://computerhoy.com/mejores/portatiles-chromebooks-estudiantes-1173970' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/acer-chromebook-2888140.jpg?tf=1200x' alt='Estos son los mejores Chromebooks para estudiantes en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/futuro-tiktok-prohibiciones-nueva-normativa-europea-1237636'>25 aniversario de Computer Hoy: El futuro de TikTok ante la prohibición en varios países y la nueva normativa europea</a></h4>
-    <a href='https://computerhoy.com/tecnologia/futuro-tiktok-prohibiciones-nueva-normativa-europea-1237636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/futuro-tiktok-prohibiciones-bandera-estados-unidos-china-3109622.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: El futuro de TikTok ante la prohibición en varios países y la nueva normativa europea' />
     </a>
 </div>
 
