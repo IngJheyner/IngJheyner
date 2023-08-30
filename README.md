@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/roborock-q5-pro-q8-max-dyad-pro-combo-dos-nuevos-robots-aspiradores-aspirador-convertible-1297448'>Roborock Q5 Pro, Q8 Max y Dyad Pro Combo: dos nuevos robots aspiradores y un aspirador convertible</a></h4>
+    <a href='https://computerhoy.com/hogar/roborock-q5-pro-q8-max-dyad-pro-combo-dos-nuevos-robots-aspiradores-aspirador-convertible-1297448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/roborock-q7-max-2780279.jpg?tf=1200x' alt='Roborock Q5 Pro, Q8 Max y Dyad Pro Combo: dos nuevos robots aspiradores y un aspirador convertible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432'>Cómo calibrar Google Maps en Android para que sea mucho más preciso</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/calibrar-google-maps-3120262.jpg?tf=1200x' alt='Cómo calibrar Google Maps en Android para que sea mucho más preciso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920'>Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-iphone-15-3121022.jpg?tf=1200x' alt='Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-correo-gmail-siendo-utilizado-dark-web-1297242'>Cómo saber si tu correo de Gmail está siendo utilizado en la Dark Web con las herramientas de Google</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-correo-gmail-siendo-utilizado-dark-web-1297242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gmail-2912356.jpg?tf=1200x' alt='Cómo saber si tu correo de Gmail está siendo utilizado en la Dark Web con las herramientas de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/barbie-supera-harry-potter-caballero-oscuro-1297444'>Las referencias de cine están cambiando: Barbie supera a Harry Potter y El Caballero Oscuro</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/barbie-supera-harry-potter-caballero-oscuro-1297444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/barbie-3097766.jpg?tf=1200x' alt='Las referencias de cine están cambiando: Barbie supera a Harry Potter y El Caballero Oscuro' />
     </a>
 </div>
 
