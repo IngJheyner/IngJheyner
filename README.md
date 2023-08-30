@@ -50,17 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cuanto-bajara-precio-iphone-14-modelos-anteriores-cuando-salga-iphone-15-1297358'>¿Cuánto bajará el precio del iPhone 14 y modelos anteriores cuando salga el iPhone 15?</a></h4>
-    <a href='https://computerhoy.com/apple/cuanto-bajara-precio-iphone-14-modelos-anteriores-cuando-salga-iphone-15-1297358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-plus-iphone-14-pro-iphone-13-iphone-13-mini-2959698.jpg?tf=1200x' alt='¿Cuánto bajará el precio del iPhone 14 y modelos anteriores cuando salga el iPhone 15?' />
+    <h4><a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920'>Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-iphone-15-3121022.jpg?tf=1200x' alt='Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/airpods-estuche-carga-usb-c-sorpresa-apple-lanzamiento-iphone-15-1297400'>AirPods con estuche de carga USB-C: la sorpresa de Apple para el lanzamiento del iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/airpods-estuche-carga-usb-c-sorpresa-apple-lanzamiento-iphone-15-1297400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/auriculares-inalambricos-blancos-apple-airpods-pro-2954998.jpg?tf=1200x' alt='AirPods con estuche de carga USB-C: la sorpresa de Apple para el lanzamiento del iPhone 15' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-food-plataforma-te-propone-recetas-hechas-inteligencia-artificial-gustos-1297436'>Samsung Food: la plataforma que te propone recetas hechas con Inteligencia Artificial según tus gustos</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-food-plataforma-te-propone-recetas-hechas-inteligencia-artificial-gustos-1297436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-food-plataforma-te-propone-recetas-hechas-inteligencia-artificial-gustos-3121756.jpg?tf=1200x' alt='Samsung Food: la plataforma que te propone recetas hechas con Inteligencia Artificial según tus gustos' />
     </a>
 </div>
 
@@ -74,17 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/razon-iphone-15-pro-max-sera-smartphone-popular-ano-1297384'>La razón por la que el iPhone 15 Pro Max será el smartphone más popular de este año</a></h4>
-    <a href='https://computerhoy.com/apple/razon-iphone-15-pro-max-sera-smartphone-popular-ano-1297384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='La razón por la que el iPhone 15 Pro Max será el smartphone más popular de este año' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-correo-gmail-siendo-utilizado-dark-web-1297242'>Cómo saber si tu correo de Gmail está siendo utilizado en la Dark Web con las herramientas de Google</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-correo-gmail-siendo-utilizado-dark-web-1297242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gmail-2912356.jpg?tf=1200x' alt='Cómo saber si tu correo de Gmail está siendo utilizado en la Dark Web con las herramientas de Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/onkalo-lugar-no-volver-ser-pisado-100000-anos-1296354'>Este lugar de la Tierra ya está listo para no volver a ser pisado por ningún ser humano en 100.000 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/onkalo-lugar-no-volver-ser-pisado-100000-anos-1296354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lugar-tierra-ya-listo-no-volver-ser-pisado-ningun-ser-humano-100000-anos-3119866.jpg?tf=1200x' alt='Este lugar de la Tierra ya está listo para no volver a ser pisado por ningún ser humano en 100.000 años' />
+    <h4><a href='https://computerhoy.com/entretenimiento/barbie-supera-harry-potter-caballero-oscuro-1297444'>Las referencias de cine están cambiando: Barbie supera a Harry Potter y El Caballero Oscuro</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/barbie-supera-harry-potter-caballero-oscuro-1297444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/barbie-3097766.jpg?tf=1200x' alt='Las referencias de cine están cambiando: Barbie supera a Harry Potter y El Caballero Oscuro' />
     </a>
 </div>
 
