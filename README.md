@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hipster-moderno-foto-1940-demostracion-viajes-tiempo-1297024'>El hipster moderno que aparece en una foto de 1941, ¿demostración de los viajes en el tiempo?</a></h4>
-    <a href='https://computerhoy.com/life/hipster-moderno-foto-1940-demostracion-viajes-tiempo-1297024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hipster-moderno-aparece-foto-1940-demostracion-viajes-tiempo-3121166.jpg?tf=1200x' alt='El hipster moderno que aparece en una foto de 1941, ¿demostración de los viajes en el tiempo?' />
+    <h4><a href='https://computerhoy.com/tecnologia/8-maneras-puedes-danar-raspberry-pi-1297014'>8 maneras en las que puedes dañar tu Raspberry Pi </a></h4>
+    <a href='https://computerhoy.com/tecnologia/8-maneras-puedes-danar-raspberry-pi-1297014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/raspberry-pi-como-puede-danar-3121176.jpg?tf=1200x' alt='8 maneras en las que puedes dañar tu Raspberry Pi ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/jbl-renueva-catalogo-auriculares-conduccion-osea-altavoces-mucho-1297468'>JBL renueva su catálogo: auriculares de conducción ósea, altavoces y mucho más</a></h4>
-    <a href='https://computerhoy.com/audio/jbl-renueva-catalogo-auriculares-conduccion-osea-altavoces-mucho-1297468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/jbl-renueva-catalogo-auriculares-conduccion-osea-altavoces-mucho-3121800.jpg?tf=1200x' alt='JBL renueva su catálogo: auriculares de conducción ósea, altavoces y mucho más' />
+    <h4><a href='https://computerhoy.com/life/casa-real-pelicula-up-historia-conmovedora-1297546'>La casa de la película Up es real, y su historia es aún más conmovedora</a></h4>
+    <a href='https://computerhoy.com/life/casa-real-pelicula-up-historia-conmovedora-1297546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/casa-pelicula-real-historia-aun-conmovedora-3121810.jpg?tf=1200x' alt='La casa de la película Up es real, y su historia es aún más conmovedora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-dominar-metodo-loci-memorizar-cualquier-cosa-solo-2-pasos-1294802'>Cómo dominar el método de loci para memorizar cualquier cosa en solo 2 pasos</a></h4>
-    <a href='https://computerhoy.com/life/como-dominar-metodo-loci-memorizar-cualquier-cosa-solo-2-pasos-1294802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/memoria-3121758.jpg?tf=1200x' alt='Cómo dominar el método de loci para memorizar cualquier cosa en solo 2 pasos' />
+    <h4><a href='https://computerhoy.com/alimentacion/cierto-cervezas-alcohol-0-podrian-considerarse-bebidas-saludables-1297516'>¿Es cierto que las cervezas sin alcohol o 0% podrían considerarse bebidas saludables?</a></h4>
+    <a href='https://computerhoy.com/alimentacion/cierto-cervezas-alcohol-0-podrian-considerarse-bebidas-saludables-1297516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cerveza-3077016.jpg?tf=1200x' alt='¿Es cierto que las cervezas sin alcohol o 0% podrían considerarse bebidas saludables?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-conexion-usb-android-auto-1296430'>Cómo solucionar el error de conexión USB de Android Auto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-conexion-usb-android-auto-1296430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/android-auto-3120056.jpg?tf=1200x' alt='Cómo solucionar el error de conexión USB de Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/roborock-q5-pro-q8-max-dyad-pro-combo-dos-nuevos-robots-aspiradores-aspirador-convertible-1297448'>Roborock Q5 Pro, Q8 Max y Dyad Pro Combo: dos nuevos robots aspiradores y un aspirador convertible</a></h4>
-    <a href='https://computerhoy.com/hogar/roborock-q5-pro-q8-max-dyad-pro-combo-dos-nuevos-robots-aspiradores-aspirador-convertible-1297448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/roborock-q7-max-2780279.jpg?tf=1200x' alt='Roborock Q5 Pro, Q8 Max y Dyad Pro Combo: dos nuevos robots aspiradores y un aspirador convertible' />
+    <h4><a href='https://computerhoy.com/life/hotel-antiguo-mundo-japon-tiene-1300-anos-1297500'>Así es el hotel más antiguo del mundo: está en Japón y tiene 1.300 años</a></h4>
+    <a href='https://computerhoy.com/life/hotel-antiguo-mundo-japon-tiene-1300-anos-1297500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hotel-keiunkan-3121850.jpg?tf=1200x' alt='Así es el hotel más antiguo del mundo: está en Japón y tiene 1.300 años' />
     </a>
 </div>
 
