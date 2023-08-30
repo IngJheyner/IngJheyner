@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/traduccion-automatica-seguridad-mejorada-novedades-firefox-117-1297354'>Traducción automática y seguridad mejorada: las novedades de Firefox 117</a></h4>
+    <a href='https://computerhoy.com/tecnologia/traduccion-automatica-seguridad-mejorada-novedades-firefox-117-1297354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/firefox-ordenador.jpg?tf=1200x' alt='Traducción automática y seguridad mejorada: las novedades de Firefox 117' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920'>Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-iphone-15-3121022.jpg?tf=1200x' alt='Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/europa-ya-cuenta-propia-empresa-ia-busca-desbancar-openai-1297306'>Europa ya cuenta con su propia empresa de inteligencia artificial que busca desbancar a OpenAI</a></h4>
     <a href='https://computerhoy.com/tecnologia/europa-ya-cuenta-propia-empresa-ia-busca-desbancar-openai-1297306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/europa-empresa-ia-3121570.jpg?tf=1200x' alt='Europa ya cuenta con su propia empresa de inteligencia artificial que busca desbancar a OpenAI' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920'>Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-iphone-15-3121022.jpg?tf=1200x' alt='Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/concursos-ciberdelincuentes-foros-rusos-como-crimen-convierte-competencia-1297286'>Concursos de ciberdelincuentes en foros rusos: así es como el crimen se convierte en competencia</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/concursos-ciberdelincuentes-foros-rusos-como-crimen-convierte-competencia-1297286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/concursos-ciberdelincuentes-3121544.jpg?tf=1200x' alt='Concursos de ciberdelincuentes en foros rusos: así es como el crimen se convierte en competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/portatiles-chromebooks-estudiantes-1173970'>Estos son los mejores Chromebooks para estudiantes en 2023</a></h4>
-    <a href='https://computerhoy.com/mejores/portatiles-chromebooks-estudiantes-1173970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/acer-chromebook-2888140.jpg?tf=1200x' alt='Estos son los mejores Chromebooks para estudiantes en 2023' />
     </a>
 </div>
 
