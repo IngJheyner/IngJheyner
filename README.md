@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/traduccion-automatica-seguridad-mejorada-novedades-firefox-117-1297354'>Traducción automática y seguridad mejorada: las novedades de Firefox 117</a></h4>
-    <a href='https://computerhoy.com/tecnologia/traduccion-automatica-seguridad-mejorada-novedades-firefox-117-1297354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/firefox-ordenador.jpg?tf=1200x' alt='Traducción automática y seguridad mejorada: las novedades de Firefox 117' />
+    <h4><a href='https://computerhoy.com/apple/cuanto-bajara-precio-iphone-14-modelos-anteriores-cuando-salga-iphone-15-1297358'>¿Cuánto bajará el precio del iPhone 14 y modelos anteriores cuando salga el iPhone 15?</a></h4>
+    <a href='https://computerhoy.com/apple/cuanto-bajara-precio-iphone-14-modelos-anteriores-cuando-salga-iphone-15-1297358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-plus-iphone-14-pro-iphone-13-iphone-13-mini-2959698.jpg?tf=1200x' alt='¿Cuánto bajará el precio del iPhone 14 y modelos anteriores cuando salga el iPhone 15?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920'>Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/apple/apple-presentara-iphone-15-12-septiembre-todo-debes-saber-1296920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apple-iphone-15-3121022.jpg?tf=1200x' alt='Apple presentará el iPhone 15 el 12 de septiembre: todo lo que debes saber' />
+    <h4><a href='https://computerhoy.com/apple/airpods-estuche-carga-usb-c-sorpresa-apple-lanzamiento-iphone-15-1297400'>AirPods con estuche de carga USB-C: la sorpresa de Apple para el lanzamiento del iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/airpods-estuche-carga-usb-c-sorpresa-apple-lanzamiento-iphone-15-1297400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/auriculares-inalambricos-blancos-apple-airpods-pro-2954998.jpg?tf=1200x' alt='AirPods con estuche de carga USB-C: la sorpresa de Apple para el lanzamiento del iPhone 15' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/europa-ya-cuenta-propia-empresa-ia-busca-desbancar-openai-1297306'>Europa ya cuenta con su propia empresa de inteligencia artificial que busca desbancar a OpenAI</a></h4>
-    <a href='https://computerhoy.com/tecnologia/europa-ya-cuenta-propia-empresa-ia-busca-desbancar-openai-1297306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/europa-empresa-ia-3121570.jpg?tf=1200x' alt='Europa ya cuenta con su propia empresa de inteligencia artificial que busca desbancar a OpenAI' />
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/locura-amazon-fans-apple-rebaja-iphone-ipad-macbook-52-descuento-1297290'>Locura en Amazon para fans de Apple: rebaja en iPhone, iPad y MacBook con hasta 52% de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/locura-amazon-fans-apple-rebaja-iphone-ipad-macbook-52-descuento-1297290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/apple-store-2147029.jpg?tf=1200x' alt='Locura en Amazon para fans de Apple: rebaja en iPhone, iPad y MacBook con hasta 52% de descuento' />
+    <h4><a href='https://computerhoy.com/apple/razon-iphone-15-pro-max-sera-smartphone-popular-ano-1297384'>La razón por la que el iPhone 15 Pro Max será el smartphone más popular de este año</a></h4>
+    <a href='https://computerhoy.com/apple/razon-iphone-15-pro-max-sera-smartphone-popular-ano-1297384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='La razón por la que el iPhone 15 Pro Max será el smartphone más popular de este año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/concursos-ciberdelincuentes-foros-rusos-como-crimen-convierte-competencia-1297286'>Concursos de ciberdelincuentes en foros rusos: así es como el crimen se convierte en competencia</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/concursos-ciberdelincuentes-foros-rusos-como-crimen-convierte-competencia-1297286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/concursos-ciberdelincuentes-3121544.jpg?tf=1200x' alt='Concursos de ciberdelincuentes en foros rusos: así es como el crimen se convierte en competencia' />
+    <h4><a href='https://computerhoy.com/ciencia/onkalo-lugar-no-volver-ser-pisado-100000-anos-1296354'>Este lugar de la Tierra ya está listo para no volver a ser pisado por ningún ser humano en 100.000 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/onkalo-lugar-no-volver-ser-pisado-100000-anos-1296354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lugar-tierra-ya-listo-no-volver-ser-pisado-ningun-ser-humano-100000-anos-3119866.jpg?tf=1200x' alt='Este lugar de la Tierra ya está listo para no volver a ser pisado por ningún ser humano en 100.000 años' />
     </a>
 </div>
 
