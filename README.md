@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/pluto-tv-estrena-septiembre-tres-nuevos-canales-gratis-1297588'>Pluto TV estrena en septiembre tres nuevos canales gratis para los amantes de los crímenes, los deportes y los concursos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pluto-tv-estrena-septiembre-tres-nuevos-canales-gratis-1297588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pluto-tv-estrena-septiembre-tres-nuevos-canales-gratis-amantes-crimenes-deportes-3121972.jpg?tf=1200x' alt='Pluto TV estrena en septiembre tres nuevos canales gratis para los amantes de los crímenes, los deportes y los concursos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-prepara-vuelta-nave-osiris-rex-minerales-espacio-1297544'>La NASA prepara la vuelta de la nave OSIRIS-Rex con minerales del espacio</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-prepara-vuelta-nave-osiris-rex-minerales-espacio-1297544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nasa-prepera-vuelta-navez-osisis-rex-minerales-espadcio-3121920.jpg?tf=1200x' alt='La NASA prepara la vuelta de la nave OSIRIS-Rex con minerales del espacio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/tdtchannels-amplia-oferta-nuevos-canales-television-totalmente-gratis-1297572'>TDTChannels amplía su oferta con nuevos canales de televisión y de radio totalmente gratis</a></h4>
     <a href='https://computerhoy.com/entretenimiento/tdtchannels-amplia-oferta-nuevos-canales-television-totalmente-gratis-1297572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels amplía su oferta con nuevos canales de televisión y de radio totalmente gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-recurre-estas-molestas-tacticas-abandones-google-windows-11-1297566'>Microsoft está recurriendo a las tácticas más rastreras para que abandones Google en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-recurre-estas-molestas-tacticas-abandones-google-windows-11-1297566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Microsoft está recurriendo a las tácticas más rastreras para que abandones Google en Windows 11' />
     </a>
 </div>
 
