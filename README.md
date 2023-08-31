@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/diferencia-salud-duracion-bateria-movil-como-comprobarlo-1296406'>Cuál es la diferencia entre la salud y la duración de la batería de tu móvil y cómo comprobarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/diferencia-salud-duracion-bateria-movil-como-comprobarlo-1296406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/diferencia-salud-duracion-bateria-movil-3120038.jpg?tf=1200x' alt='Cuál es la diferencia entre la salud y la duración de la batería de tu móvil y cómo comprobarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/tiembla-roomba-robot-aspirador-chino-limpia-solo-cuesta-mitad-1296738'>Tiembla Roomba: este robot aspirador chino se limpia solo y cuesta la mitad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiembla-roomba-robot-aspirador-chino-limpia-solo-cuesta-mitad-1296738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dreame-d10-plus-3020404.jpg?tf=1200x' alt='Tiembla Roomba: este robot aspirador chino se limpia solo y cuesta la mitad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-probar-todas-novedades-funciones-android-auto-antes-1298102'>Cómo probar todas las novedades y funciones de Android Auto antes que nadie</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-probar-todas-novedades-funciones-android-auto-antes-1298102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/android-auto-3122918.jpg?tf=1200x' alt='Cómo probar todas las novedades y funciones de Android Auto antes que nadie' />
+    <h4><a href='https://computerhoy.com/entretenimiento/premier-league-quiere-piratas-paguen-leer-amenazas-1298132'>La Premier League quiere que los que ven el fútbol gratis por IPTV paguen por leer sus amenazas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/premier-league-quiere-piratas-paguen-leer-amenazas-1298132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/premier-league-2845347.jpg?tf=1200x' alt='La Premier League quiere que los que ven el fútbol gratis por IPTV paguen por leer sus amenazas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/jarro-agua-fria-toyota-extremistas-coche-electrico-1297788'>Jarro de agua fría de Toyota a los extremistas del coche eléctrico</a></h4>
-    <a href='https://computerhoy.com/motor/jarro-agua-fria-toyota-extremistas-coche-electrico-1297788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/coches-electricos-toyota-3122206.jpg?tf=1200x' alt='Jarro de agua fría de Toyota a los extremistas del coche eléctrico' />
+    <h4><a href='https://computerhoy.com/life/primera-aerolinea-europea-ofrecer-zona-solo-adultos-aviones-1298166'>Polémica por la primera aerolínea europea en ofrecer una zona solo para adultos en sus aviones</a></h4>
+    <a href='https://computerhoy.com/life/primera-aerolinea-europea-ofrecer-zona-solo-adultos-aviones-1298166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pasajeros-avion-3123032.jpg?tf=1200x' alt='Polémica por la primera aerolínea europea en ofrecer una zona solo para adultos en sus aviones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nina-11-anos-inteligente-albert-einstein-tiene-tres-carreras-sera-astronauta-1298088'>La niña de 11 años más inteligente que Albert Einstein: tiene tres carreras y será astronauta, pero no lo ha tenido nada fácil</a></h4>
-    <a href='https://computerhoy.com/espacio/nina-11-anos-inteligente-albert-einstein-tiene-tres-carreras-sera-astronauta-1298088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/adhara-perez-3122866.jpg?tf=1200x' alt='La niña de 11 años más inteligente que Albert Einstein: tiene tres carreras y será astronauta, pero no lo ha tenido nada fácil' />
+    <h4><a href='https://computerhoy.com/ciencia/pez-camina-suelo-avistado-25-anos-despues-1298162'>Descubren en las costas de Tasmania un pez que camina por el suelo, desaparecido hace décadas</a></h4>
+    <a href='https://computerhoy.com/ciencia/pez-camina-suelo-avistado-25-anos-despues-1298162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/descubren-costas-tasmania-pez-camina-suelo-desaparecido-hace-decadas-3123022.jpg?tf=1200x' alt='Descubren en las costas de Tasmania un pez que camina por el suelo, desaparecido hace décadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-meta-nutre-informacion-aprende-evitarlo-1298082'>Cómo negarte a que Meta use tus datos personales para su Inteligencia Artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-meta-nutre-informacion-aprende-evitarlo-1298082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/meta-chatbot-facebook-instagram-whatsapp-3098082.jpg?tf=1200x' alt='Cómo negarte a que Meta use tus datos personales para su Inteligencia Artificial' />
+    <h4><a href='https://computerhoy.com/alimentacion/denuncian-marca-cerveza-espana-publicidad-enganosa-1298156'>Denuncian a una de las marcas de cerveza más populares en España por publicidad engañosa</a></h4>
+    <a href='https://computerhoy.com/alimentacion/denuncian-marca-cerveza-espana-publicidad-enganosa-1298156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/latas-cerveza-3123028.jpg?tf=1200x' alt='Denuncian a una de las marcas de cerveza más populares en España por publicidad engañosa' />
     </a>
 </div>
 
