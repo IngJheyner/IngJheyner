@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-rompe-competencia-movil-barato-bandera-cae-precio-picado-1296850'>Xiaomi rompe a la competencia: su móvil barato de bandera cae de precio en picado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-rompe-competencia-movil-barato-bandera-cae-precio-picado-1296850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiaomi-redmi-note-12-3120706.jpg?tf=1200x' alt='Xiaomi rompe a la competencia: su móvil barato de bandera cae de precio en picado' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-acelerar-amazon-fire-tv-mejorar-rendimiento-1297576'>¿Amazon Fire TV lento? Cómo acelerar su funcionamiento y mejorar su rendimiento</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-acelerar-amazon-fire-tv-mejorar-rendimiento-1297576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-fire-tv-3121992.jpg?tf=1200x' alt='¿Amazon Fire TV lento? Cómo acelerar su funcionamiento y mejorar su rendimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/mapa-muestra-principales-fuentes-energia-europa-solo-14-paises-usan-renovables-1297900'>Este mapa muestra las principales fuentes de energía en Europa: solo 14 países usan renovables</a></h4>
-    <a href='https://computerhoy.com/energia/mapa-muestra-principales-fuentes-energia-europa-solo-14-paises-usan-renovables-1297900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fuentes-energia-3122454.jpg?tf=1200x' alt='Este mapa muestra las principales fuentes de energía en Europa: solo 14 países usan renovables' />
+    <h4><a href='https://computerhoy.com/tecnologia/instagram-cambia-reglas-juego-reels-largos-desafiar-tiktok-youtube-1298022'>Instagram cambia las reglas del juego: Reels más largos para desafiar a TikTok y YouTube</a></h4>
+    <a href='https://computerhoy.com/tecnologia/instagram-cambia-reglas-juego-reels-largos-desafiar-tiktok-youtube-1298022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/duda-resuelta-instagram-notifica-personas-cuando-haces-captura-pantalla-3087618.jpg?tf=1200x' alt='Instagram cambia las reglas del juego: Reels más largos para desafiar a TikTok y YouTube' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-apuesta-ifa-2023-casa-conectada-nuevos-acuerdos-smartthings-1297904'>Samsung apuesta en IFA 2023 por la casa conectada con nuevos acuerdos para SmartThings</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-apuesta-ifa-2023-casa-conectada-nuevos-acuerdos-smartthings-1297904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-3122436.jpg?tf=1200x' alt='Samsung apuesta en IFA 2023 por la casa conectada con nuevos acuerdos para SmartThings' />
+    <h4><a href='https://computerhoy.com/espacio/india-deja-todos-boca-abierta-nuevas-imagenes-llegar-luna-1297980'>La India deja a todos con la boca abierta con sus nuevas imágenes tras llegar a la Luna </a></h4>
+    <a href='https://computerhoy.com/espacio/india-deja-todos-boca-abierta-nuevas-imagenes-llegar-luna-1297980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/modulo-aterrizaje-indio-3122624.jpg?tf=1200x' alt='La India deja a todos con la boca abierta con sus nuevas imágenes tras llegar a la Luna ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-revolucionaria-fabricacion-dispositivos-ayuda-impresoras-3d-1297890'>Apple revolucionaría la fabricación de sus dispositivos con la ayuda de las impresoras 3D</a></h4>
-    <a href='https://computerhoy.com/apple/apple-revolucionaria-fabricacion-dispositivos-ayuda-impresoras-3d-1297890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/impresora-3d-1973153.jpg?tf=1200x' alt='Apple revolucionaría la fabricación de sus dispositivos con la ayuda de las impresoras 3D' />
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/logotipo-evento-apple-esconde-iphone-15-1297842'>Lo que el logotipo del evento de Apple 'Wonderlust' esconde sobre el iPhone 15 y otros productos</a></h4>
-    <a href='https://computerhoy.com/apple/logotipo-evento-apple-esconde-iphone-15-1297842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/logotipo-evento-apple-3122414.jpg?tf=1200x' alt='Lo que el logotipo del evento de Apple 'Wonderlust' esconde sobre el iPhone 15 y otros productos' />
+    <h4><a href='https://computerhoy.com/gaming/quedan-nuevas-tarifas-playstation-plus-aumento-precio-1297902'>Así quedan las nuevas tarifas de PlayStation Plus tras el aumento de precio</a></h4>
+    <a href='https://computerhoy.com/gaming/quedan-nuevas-tarifas-playstation-plus-aumento-precio-1297902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/playstation-5-ps5-2963696.jpg?tf=1200x' alt='Así quedan las nuevas tarifas de PlayStation Plus tras el aumento de precio' />
     </a>
 </div>
 
