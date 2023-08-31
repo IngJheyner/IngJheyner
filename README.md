@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-acelerar-amazon-fire-tv-mejorar-rendimiento-1297576'>¿Amazon Fire TV lento? Cómo acelerar su funcionamiento y mejorar su rendimiento</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-acelerar-amazon-fire-tv-mejorar-rendimiento-1297576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-fire-tv-3121992.jpg?tf=1200x' alt='¿Amazon Fire TV lento? Cómo acelerar su funcionamiento y mejorar su rendimiento' />
+    <h4><a href='https://computerhoy.com/motor/jarro-agua-fria-toyota-extremistas-coche-electrico-1297788'>Jarro de agua fría de Toyota a los extremistas del coche eléctrico</a></h4>
+    <a href='https://computerhoy.com/motor/jarro-agua-fria-toyota-extremistas-coche-electrico-1297788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/coches-electricos-toyota-3122206.jpg?tf=1200x' alt='Jarro de agua fría de Toyota a los extremistas del coche eléctrico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/instagram-cambia-reglas-juego-reels-largos-desafiar-tiktok-youtube-1298022'>Instagram cambia las reglas del juego: Reels más largos para desafiar a TikTok y YouTube</a></h4>
-    <a href='https://computerhoy.com/tecnologia/instagram-cambia-reglas-juego-reels-largos-desafiar-tiktok-youtube-1298022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/duda-resuelta-instagram-notifica-personas-cuando-haces-captura-pantalla-3087618.jpg?tf=1200x' alt='Instagram cambia las reglas del juego: Reels más largos para desafiar a TikTok y YouTube' />
+    <h4><a href='https://computerhoy.com/espacio/nina-11-anos-inteligente-albert-einstein-tiene-tres-carreras-sera-astronauta-1298088'>La niña de 11 años más inteligente que Albert Einstein: tiene tres carreras y será astronauta, pero no lo ha tenido nada fácil</a></h4>
+    <a href='https://computerhoy.com/espacio/nina-11-anos-inteligente-albert-einstein-tiene-tres-carreras-sera-astronauta-1298088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/adhara-perez-3122866.jpg?tf=1200x' alt='La niña de 11 años más inteligente que Albert Einstein: tiene tres carreras y será astronauta, pero no lo ha tenido nada fácil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/india-deja-todos-boca-abierta-nuevas-imagenes-llegar-luna-1297980'>La India deja a todos con la boca abierta con sus nuevas imágenes tras llegar a la Luna </a></h4>
-    <a href='https://computerhoy.com/espacio/india-deja-todos-boca-abierta-nuevas-imagenes-llegar-luna-1297980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/modulo-aterrizaje-indio-3122624.jpg?tf=1200x' alt='La India deja a todos con la boca abierta con sus nuevas imágenes tras llegar a la Luna ' />
+    <h4><a href='https://computerhoy.com/tecnologia/ia-meta-nutre-informacion-aprende-evitarlo-1298082'>Cómo negarte a que Meta use tus datos personales para su Inteligencia Artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-meta-nutre-informacion-aprende-evitarlo-1298082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/meta-chatbot-facebook-instagram-whatsapp-3098082.jpg?tf=1200x' alt='Cómo negarte a que Meta use tus datos personales para su Inteligencia Artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
+    <h4><a href='https://computerhoy.com/tutoriales/escaneo-puertos-como-funciona-como-puedes-protegerte-1297526'>Qué es el escaneo de puertos, cómo funciona y cómo puedes protegerte de los ciberataques</a></h4>
+    <a href='https://computerhoy.com/tutoriales/escaneo-puertos-como-funciona-como-puedes-protegerte-1297526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/escaneo-puertos-3121876.jpg?tf=1200x' alt='Qué es el escaneo de puertos, cómo funciona y cómo puedes protegerte de los ciberataques' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/quedan-nuevas-tarifas-playstation-plus-aumento-precio-1297902'>Así quedan las nuevas tarifas de PlayStation Plus tras el aumento de precio</a></h4>
-    <a href='https://computerhoy.com/gaming/quedan-nuevas-tarifas-playstation-plus-aumento-precio-1297902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/playstation-5-ps5-2963696.jpg?tf=1200x' alt='Así quedan las nuevas tarifas de PlayStation Plus tras el aumento de precio' />
+    <h4><a href='https://computerhoy.com/gaming/lenovo-legion-go-primeras-impresiones-consola-portatil-ryzen-z1-extreme-1298072'>He podido probar Lenovo Legion Go, la consola portátil que también planta cara a Steam Deck con una pantalla más grande</a></h4>
+    <a href='https://computerhoy.com/gaming/lenovo-legion-go-primeras-impresiones-consola-portatil-ryzen-z1-extreme-1298072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lenovo-legion-go-3122796.jpg?tf=1200x' alt='He podido probar Lenovo Legion Go, la consola portátil que también planta cara a Steam Deck con una pantalla más grande' />
     </a>
 </div>
 
