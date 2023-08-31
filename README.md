@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/airpods-estuche-carga-usb-c-sorpresa-apple-lanzamiento-iphone-15-1297400'>AirPods con estuche de carga USB-C: la sorpresa de Apple para el lanzamiento del iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/airpods-estuche-carga-usb-c-sorpresa-apple-lanzamiento-iphone-15-1297400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/auriculares-inalambricos-blancos-apple-airpods-pro-2954998.jpg?tf=1200x' alt='AirPods con estuche de carga USB-C: la sorpresa de Apple para el lanzamiento del iPhone 15' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-rompe-competencia-movil-barato-bandera-cae-precio-picado-1296850'>Xiaomi rompe a la competencia: su móvil barato de bandera cae de precio en picado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-rompe-competencia-movil-barato-bandera-cae-precio-picado-1296850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiaomi-redmi-note-12-3120706.jpg?tf=1200x' alt='Xiaomi rompe a la competencia: su móvil barato de bandera cae de precio en picado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-650-computer-hoy-1294142'>¡Ya está en tu quiosco el número 650 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-650-computer-hoy-1294142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/computer-hoy-650-3117594.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 650 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/energia/mapa-muestra-principales-fuentes-energia-europa-solo-14-paises-usan-renovables-1297900'>Este mapa muestra las principales fuentes de energía en Europa: solo 14 países usan renovables</a></h4>
+    <a href='https://computerhoy.com/energia/mapa-muestra-principales-fuentes-energia-europa-solo-14-paises-usan-renovables-1297900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fuentes-energia-3122454.jpg?tf=1200x' alt='Este mapa muestra las principales fuentes de energía en Europa: solo 14 países usan renovables' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/freidora-sin-aceite'>Guía para comprar una air fryer: consejos, modelos y sus diferencias</a></h4>
-    <a href='https://computerhoy.com/guia-compra/freidora-sin-aceite' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aire-philips-99eu-2703781.jpg?tf=1200x' alt='Guía para comprar una air fryer: consejos, modelos y sus diferencias' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-apuesta-ifa-2023-casa-conectada-nuevos-acuerdos-smartthings-1297904'>Samsung apuesta en IFA 2023 por la casa conectada con nuevos acuerdos para SmartThings</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-apuesta-ifa-2023-casa-conectada-nuevos-acuerdos-smartthings-1297904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-3122436.jpg?tf=1200x' alt='Samsung apuesta en IFA 2023 por la casa conectada con nuevos acuerdos para SmartThings' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/motorola-razr-40-analisis-opinion-1292822'>Moto Razr 40, análisis y opinión del plegable barato de 2023 de Motorola</a></h4>
-    <a href='https://computerhoy.com/analisis/motorola-razr-40-analisis-opinion-1292822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/razr-40-3120914.jpg?tf=1200x' alt='Moto Razr 40, análisis y opinión del plegable barato de 2023 de Motorola' />
+    <h4><a href='https://computerhoy.com/apple/apple-revolucionaria-fabricacion-dispositivos-ayuda-impresoras-3d-1297890'>Apple revolucionaría la fabricación de sus dispositivos con la ayuda de las impresoras 3D</a></h4>
+    <a href='https://computerhoy.com/apple/apple-revolucionaria-fabricacion-dispositivos-ayuda-impresoras-3d-1297890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/impresora-3d-1973153.jpg?tf=1200x' alt='Apple revolucionaría la fabricación de sus dispositivos con la ayuda de las impresoras 3D' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-acuaticos-nadar-870887'>Estos son los mejores MP3 acuáticos para hacer natación que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-acuaticos-nadar-870887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/reproductor-acuatico-agptek-2345421.jpg?tf=1200x' alt='Estos son los mejores MP3 acuáticos para hacer natación que puedes comprar' />
+    <h4><a href='https://computerhoy.com/apple/logotipo-evento-apple-esconde-iphone-15-1297842'>Lo que el logotipo del evento de Apple 'Wonderlust' esconde sobre el iPhone 15 y otros productos</a></h4>
+    <a href='https://computerhoy.com/apple/logotipo-evento-apple-esconde-iphone-15-1297842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/logotipo-evento-apple-3122414.jpg?tf=1200x' alt='Lo que el logotipo del evento de Apple 'Wonderlust' esconde sobre el iPhone 15 y otros productos' />
     </a>
 </div>
 
