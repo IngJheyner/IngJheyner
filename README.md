@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-acuaticos-nadar-870887'>Estos son los mejores MP3 acuáticos para hacer natación que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-acuaticos-nadar-870887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/reproductor-acuatico-agptek-2345421.jpg?tf=1200x' alt='Estos son los mejores MP3 acuáticos para hacer natación que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/pluto-tv-estrena-septiembre-tres-nuevos-canales-gratis-1297588'>Pluto TV estrena en septiembre tres nuevos canales gratis para los amantes de los crímenes, los deportes y los concursos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/pluto-tv-estrena-septiembre-tres-nuevos-canales-gratis-1297588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pluto-tv-estrena-septiembre-tres-nuevos-canales-gratis-amantes-crimenes-deportes-3121972.jpg?tf=1200x' alt='Pluto TV estrena en septiembre tres nuevos canales gratis para los amantes de los crímenes, los deportes y los concursos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/primer-ministro-japones-come-pescado-residuos-fukushima-1297536'>El primer ministro japonés come pescado de las aguas con residuos de Fukushima para demostrar que es seguro</a></h4>
     <a href='https://computerhoy.com/alimentacion/primer-ministro-japones-come-pescado-residuos-fukushima-1297536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1693414869858-3121902.jpg?tf=1200x' alt='El primer ministro japonés come pescado de las aguas con residuos de Fukushima para demostrar que es seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/tdtchannels-amplia-oferta-nuevos-canales-television-totalmente-gratis-1297572'>TDTChannels amplía su oferta con nuevos canales de televisión y de radio totalmente gratis</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/tdtchannels-amplia-oferta-nuevos-canales-television-totalmente-gratis-1297572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels amplía su oferta con nuevos canales de televisión y de radio totalmente gratis' />
     </a>
 </div>
 
