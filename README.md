@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/airpods-estuche-carga-usb-c-sorpresa-apple-lanzamiento-iphone-15-1297400'>AirPods con estuche de carga USB-C: la sorpresa de Apple para el lanzamiento del iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/airpods-estuche-carga-usb-c-sorpresa-apple-lanzamiento-iphone-15-1297400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/auriculares-inalambricos-blancos-apple-airpods-pro-2954998.jpg?tf=1200x' alt='AirPods con estuche de carga USB-C: la sorpresa de Apple para el lanzamiento del iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-650-computer-hoy-1294142'>¡Ya está en tu quiosco el número 650 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-650-computer-hoy-1294142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/computer-hoy-650-3117594.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 650 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/freidora-sin-aceite'>Guía para comprar una air fryer: consejos, modelos y sus diferencias</a></h4>
+    <a href='https://computerhoy.com/guia-compra/freidora-sin-aceite' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/freidora-aire-philips-99eu-2703781.jpg?tf=1200x' alt='Guía para comprar una air fryer: consejos, modelos y sus diferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/motorola-razr-40-analisis-opinion-1292822'>Moto Razr 40, análisis y opinión del plegable barato de 2023 de Motorola</a></h4>
+    <a href='https://computerhoy.com/analisis/motorola-razr-40-analisis-opinion-1292822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/razr-40-3120914.jpg?tf=1200x' alt='Moto Razr 40, análisis y opinión del plegable barato de 2023 de Motorola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-acuaticos-nadar-870887'>Estos son los mejores MP3 acuáticos para hacer natación que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-acuaticos-nadar-870887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/reproductor-acuatico-agptek-2345421.jpg?tf=1200x' alt='Estos son los mejores MP3 acuáticos para hacer natación que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pluto-tv-estrena-septiembre-tres-nuevos-canales-gratis-1297588'>Pluto TV estrena en septiembre tres nuevos canales gratis para los amantes de los crímenes, los deportes y los concursos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pluto-tv-estrena-septiembre-tres-nuevos-canales-gratis-1297588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pluto-tv-estrena-septiembre-tres-nuevos-canales-gratis-amantes-crimenes-deportes-3121972.jpg?tf=1200x' alt='Pluto TV estrena en septiembre tres nuevos canales gratis para los amantes de los crímenes, los deportes y los concursos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-prepara-vuelta-nave-osiris-rex-minerales-espacio-1297544'>La NASA prepara la vuelta de la nave OSIRIS-Rex con minerales del espacio</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-prepara-vuelta-nave-osiris-rex-minerales-espacio-1297544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nasa-prepera-vuelta-navez-osisis-rex-minerales-espadcio-3121920.jpg?tf=1200x' alt='La NASA prepara la vuelta de la nave OSIRIS-Rex con minerales del espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-apple-watch-te-gusta-correr-reloj-garmin-barato-completo-1296796'>Olvida el Apple Watch: si te gusta correr, este reloj Garmin es más barato y completo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-apple-watch-te-gusta-correr-reloj-garmin-barato-completo-1296796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garmin-forerunner-255-2721191.jpg?tf=1200x' alt='Olvida el Apple Watch: si te gusta correr, este reloj Garmin es más barato y completo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/primer-ministro-japones-come-pescado-residuos-fukushima-1297536'>El primer ministro japonés come pescado de las aguas con residuos de Fukushima para demostrar que es seguro</a></h4>
-    <a href='https://computerhoy.com/alimentacion/primer-ministro-japones-come-pescado-residuos-fukushima-1297536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/verticalimage1693414869858-3121902.jpg?tf=1200x' alt='El primer ministro japonés come pescado de las aguas con residuos de Fukushima para demostrar que es seguro' />
     </a>
 </div>
 
