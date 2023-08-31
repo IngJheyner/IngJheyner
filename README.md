@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/diferencia-salud-duracion-bateria-movil-como-comprobarlo-1296406'>Cuál es la diferencia entre la salud y la duración de la batería de tu móvil y cómo comprobarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/diferencia-salud-duracion-bateria-movil-como-comprobarlo-1296406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/diferencia-salud-duracion-bateria-movil-3120038.jpg?tf=1200x' alt='Cuál es la diferencia entre la salud y la duración de la batería de tu móvil y cómo comprobarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-probar-todas-novedades-funciones-android-auto-antes-1298102'>Cómo probar todas las novedades y funciones de Android Auto antes que nadie</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-probar-todas-novedades-funciones-android-auto-antes-1298102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/android-auto-3122918.jpg?tf=1200x' alt='Cómo probar todas las novedades y funciones de Android Auto antes que nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/jarro-agua-fria-toyota-extremistas-coche-electrico-1297788'>Jarro de agua fría de Toyota a los extremistas del coche eléctrico</a></h4>
     <a href='https://computerhoy.com/motor/jarro-agua-fria-toyota-extremistas-coche-electrico-1297788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/coches-electricos-toyota-3122206.jpg?tf=1200x' alt='Jarro de agua fría de Toyota a los extremistas del coche eléctrico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ia-meta-nutre-informacion-aprende-evitarlo-1298082'>Cómo negarte a que Meta use tus datos personales para su Inteligencia Artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-meta-nutre-informacion-aprende-evitarlo-1298082' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/meta-chatbot-facebook-instagram-whatsapp-3098082.jpg?tf=1200x' alt='Cómo negarte a que Meta use tus datos personales para su Inteligencia Artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/escaneo-puertos-como-funciona-como-puedes-protegerte-1297526'>Qué es el escaneo de puertos, cómo funciona y cómo puedes protegerte de los ciberataques</a></h4>
-    <a href='https://computerhoy.com/tutoriales/escaneo-puertos-como-funciona-como-puedes-protegerte-1297526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/escaneo-puertos-3121876.jpg?tf=1200x' alt='Qué es el escaneo de puertos, cómo funciona y cómo puedes protegerte de los ciberataques' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/lenovo-legion-go-primeras-impresiones-consola-portatil-ryzen-z1-extreme-1298072'>He podido probar Lenovo Legion Go, la consola portátil que también planta cara a Steam Deck con una pantalla más grande</a></h4>
-    <a href='https://computerhoy.com/gaming/lenovo-legion-go-primeras-impresiones-consola-portatil-ryzen-z1-extreme-1298072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lenovo-legion-go-3122796.jpg?tf=1200x' alt='He podido probar Lenovo Legion Go, la consola portátil que también planta cara a Steam Deck con una pantalla más grande' />
     </a>
 </div>
 
