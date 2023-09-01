@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/misterio-250-mansiones-lujo-abandonadas-china-1292246'>El increíble misterio de la ciudad fantasma de las 250 mansiones abandonadas</a></h4>
-    <a href='https://computerhoy.com/life/misterio-250-mansiones-lujo-abandonadas-china-1292246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/misterio-250-mansiones-lujo-abandonadas-explanada-china-3112674.jpg?tf=1200x' alt='El increíble misterio de la ciudad fantasma de las 250 mansiones abandonadas' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-efimero-instagram-1298138'>Qué es y cómo activar el modo efímero de Instagram: la función para enviar mensajes que se autodestruyen</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-modo-efimero-instagram-1298138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg?tf=1200x' alt='Qué es y cómo activar el modo efímero de Instagram: la función para enviar mensajes que se autodestruyen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/como-influye-movimiento-38-millones-dolares-ballena-precio-shiba-inu-1298656'>Cómo influye el movimiento de 38 millones de dólares por una ballena en el precio de Shiba Inu</a></h4>
-    <a href='https://computerhoy.com/criptos/como-influye-movimiento-38-millones-dolares-ballena-precio-shiba-inu-1298656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/shiba-inu-2610337.jpg?tf=1200x' alt='Cómo influye el movimiento de 38 millones de dólares por una ballena en el precio de Shiba Inu' />
+    <h4><a href='https://computerhoy.com/tv/como-ver-gratis-3000-canales-tdt-sin-instalar-nada-1298682'>Cómo ver gratis más de 3.000 canales de TDT de todo el mundo sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tv/como-ver-gratis-3000-canales-tdt-sin-instalar-nada-1298682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-gratis-3000-canales-tdt-todo-mundo-instalar-nada-3123998.jpg?tf=1200x' alt='Cómo ver gratis más de 3.000 canales de TDT de todo el mundo sin instalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/metal-precioso-10-veces-caro-oro-muy-posible-tengas-poco-1295304'>Este metal precioso es 10 veces más caro que el oro y es muy posible que tengas un poco</a></h4>
-    <a href='https://computerhoy.com/life/metal-precioso-10-veces-caro-oro-muy-posible-tengas-poco-1295304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/metal-precioso-10-veces-caro-oro-3118250.jpg?tf=1200x' alt='Este metal precioso es 10 veces más caro que el oro y es muy posible que tengas un poco' />
+    <h4><a href='https://computerhoy.com/tutoriales/herramientas-ocultas-windows-11-dificil-acceso-deberias-utilizar-1297584'>Herramientas ocultas de Windows 11 de difícil acceso que deberías utilizar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/herramientas-ocultas-windows-11-dificil-acceso-deberias-utilizar-1297584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/biblia-windows-11-resolvemos-todas-dudas-sustituto-windows-10-2401109.jpg?tf=1200x' alt='Herramientas ocultas de Windows 11 de difícil acceso que deberías utilizar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-mix-fold-3-primeras-impresiones-caracteristicas-precio-1298610'>Unos minutos con el Xiaomi Mix Fold 3 me han valido para darme cuenta de que es una bestia, pero tiene un problema que no puedo pasar por alto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-mix-fold-3-primeras-impresiones-caracteristicas-precio-1298610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-mix-fold-3-3123844.jpg?tf=1200x' alt='Unos minutos con el Xiaomi Mix Fold 3 me han valido para darme cuenta de que es una bestia, pero tiene un problema que no puedo pasar por alto' />
+    <h4><a href='https://computerhoy.com/motor/mitad-propietarios-coches-electricos-arrepienten-1298672'>Más de la mitad de los propietarios de coches eléctricos se arrepienten y volverían a comprar un coche de combustión</a></h4>
+    <a href='https://computerhoy.com/motor/mitad-propietarios-coches-electricos-arrepienten-1298672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/problema-coche-electrico-casi-nadie-veia-hace-cinco-anos-3033536.jpg?tf=1200x' alt='Más de la mitad de los propietarios de coches eléctricos se arrepienten y volverían a comprar un coche de combustión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-extraer-fotograma-exacto-deseas-video-chrome-1298620'>Cómo extraer el fotograma exacto que deseas de un vídeo con Chrome</a></h4>
-    <a href='https://computerhoy.com/google/como-extraer-fotograma-exacto-deseas-video-chrome-1298620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-extraer-fotograma-exacto-deseas-video-chrome-3123824.jpg?tf=1200x' alt='Cómo extraer el fotograma exacto que deseas de un vídeo con Chrome' />
+    <h4><a href='https://computerhoy.com/apple/usb-c-iphone-15-podria-cambiarlo-todo-mundo-moviles-1298666'>El USB-C del iPhone 15 podría cambiarlo todo en el mundo de los móviles</a></h4>
+    <a href='https://computerhoy.com/apple/usb-c-iphone-15-podria-cambiarlo-todo-mundo-moviles-1298666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='El USB-C del iPhone 15 podría cambiarlo todo en el mundo de los móviles' />
     </a>
 </div>
 
