@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/revolucion-ia-intel-habana-gaudi2-140-rapido-h-100-nvidia-1298184'>Intel revoluciona la IA: su nuevo chip Intel Habana Gaudi2 es un 140% más rápido que el H100 de NVIDIA </a></h4>
-    <a href='https://computerhoy.com/tecnologia/revolucion-ia-intel-habana-gaudi2-140-rapido-h-100-nvidia-1298184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/intel-revoluciona-ia-nuevo-chip-intel-habana-gaudi-40-rapido-h-100-nvidia-3123042.jpg?tf=1200x' alt='Intel revoluciona la IA: su nuevo chip Intel Habana Gaudi2 es un 140% más rápido que el H100 de NVIDIA ' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-chatgpt-decide-tiene-responder-cada-solicitudes-1298424'>Así es como ChatGPT funciona y decide lo que tiene que responder a cada una de tus solicitudes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-chatgpt-decide-tiene-responder-cada-solicitudes-1298424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-programacion-3105538.jpg?tf=1200x' alt='Así es como ChatGPT funciona y decide lo que tiene que responder a cada una de tus solicitudes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiembla-roomba-robot-aspirador-chino-limpia-solo-cuesta-mitad-1296738'>Tiembla Roomba: este robot aspirador chino se limpia solo y cuesta la mitad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiembla-roomba-robot-aspirador-chino-limpia-solo-cuesta-mitad-1296738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dreame-d10-plus-3020404.jpg?tf=1200x' alt='Tiembla Roomba: este robot aspirador chino se limpia solo y cuesta la mitad' />
+    <h4><a href='https://computerhoy.com/amazon/vuelta-cole-2023-como-encontrar-libros-texto-colegio-curso-amazon-1297948'>Vuelta al cole 2023: cómo encontrar los libros en Amazon y aprovechar su cupón regalo</a></h4>
+    <a href='https://computerhoy.com/amazon/vuelta-cole-2023-como-encontrar-libros-texto-colegio-curso-amazon-1297948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/libros-2515313.jpg?tf=1200x' alt='Vuelta al cole 2023: cómo encontrar los libros en Amazon y aprovechar su cupón regalo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/premier-league-quiere-piratas-paguen-leer-amenazas-1298132'>La Premier League quiere que los que ven el fútbol gratis por IPTV paguen por leer sus amenazas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/premier-league-quiere-piratas-paguen-leer-amenazas-1298132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/premier-league-2845347.jpg?tf=1200x' alt='La Premier League quiere que los que ven el fútbol gratis por IPTV paguen por leer sus amenazas' />
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-watch6-classic-analisis-informacion-precios-1291158'>Samsung Galaxy Watch6 Classic, análisis y opinión: posiblemente el mejor smartwatch con Wear OS, pero inconsistente para deportistas</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-watch6-classic-analisis-informacion-precios-1291158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110554.jpg?tf=1200x' alt='Samsung Galaxy Watch6 Classic, análisis y opinión: posiblemente el mejor smartwatch con Wear OS, pero inconsistente para deportistas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/primera-aerolinea-europea-ofrecer-zona-solo-adultos-aviones-1298166'>Polémica por la primera aerolínea europea en ofrecer una zona solo para adultos en sus aviones</a></h4>
-    <a href='https://computerhoy.com/life/primera-aerolinea-europea-ofrecer-zona-solo-adultos-aviones-1298166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pasajeros-avion-3123032.jpg?tf=1200x' alt='Polémica por la primera aerolínea europea en ofrecer una zona solo para adultos en sus aviones' />
+    <h4><a href='https://computerhoy.com/mejores/gafas-inteligentes-natacion-1297378'>Mejores gafas inteligentes de natación que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/mejores/gafas-inteligentes-natacion-1297378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/form-swim-googles-3121626.jpg?tf=1200x' alt='Mejores gafas inteligentes de natación que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/pez-camina-suelo-avistado-25-anos-despues-1298162'>Descubren en las costas de Tasmania un pez que camina por el suelo, desaparecido hace décadas</a></h4>
-    <a href='https://computerhoy.com/ciencia/pez-camina-suelo-avistado-25-anos-despues-1298162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/descubren-costas-tasmania-pez-camina-suelo-desaparecido-hace-decadas-3123022.jpg?tf=1200x' alt='Descubren en las costas de Tasmania un pez que camina por el suelo, desaparecido hace décadas' />
+    <h4><a href='https://computerhoy.com/gaming/lenovo-legion-go-primeras-impresiones-consola-portatil-ryzen-z1-extreme-1298072'>He podido probar Lenovo Legion Go, la consola portátil que también planta cara a Steam Deck con una pantalla más grande</a></h4>
+    <a href='https://computerhoy.com/gaming/lenovo-legion-go-primeras-impresiones-consola-portatil-ryzen-z1-extreme-1298072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lenovo-legion-go-3122796.jpg?tf=1200x' alt='He podido probar Lenovo Legion Go, la consola portátil que también planta cara a Steam Deck con una pantalla más grande' />
     </a>
 </div>
 
