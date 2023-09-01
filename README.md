@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-efimero-instagram-1298138'>Qué es y cómo activar el modo efímero de Instagram: la función para enviar mensajes que se autodestruyen</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-modo-efimero-instagram-1298138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/instagram-2714947.jpg?tf=1200x' alt='Qué es y cómo activar el modo efímero de Instagram: la función para enviar mensajes que se autodestruyen' />
+    <h4><a href='https://computerhoy.com/tecnologia/locura-potencia-precio-oneplus-11-rompe-record-precio-envio-espana-1297820'>Locura de potencia y de precio: el OnePlus 11 rompe récord de precio con envío desde España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/locura-potencia-precio-oneplus-11-rompe-record-precio-envio-espana-1297820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952394.jpg?tf=1200x' alt='Locura de potencia y de precio: el OnePlus 11 rompe récord de precio con envío desde España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/como-ver-gratis-3000-canales-tdt-sin-instalar-nada-1298682'>Cómo ver gratis más de 3.000 canales de TDT de todo el mundo sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tv/como-ver-gratis-3000-canales-tdt-sin-instalar-nada-1298682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-gratis-3000-canales-tdt-todo-mundo-instalar-nada-3123998.jpg?tf=1200x' alt='Cómo ver gratis más de 3.000 canales de TDT de todo el mundo sin instalar nada' />
+    <h4><a href='https://computerhoy.com/redes/elon-musk-anuncia-videollamadas-llegaran-pronto-x-1298708'>Elon Musk anuncia que las videollamadas en X llegarán pronto: sin número de teléfono y con amplia compatibilidad</a></h4>
+    <a href='https://computerhoy.com/redes/elon-musk-anuncia-videollamadas-llegaran-pronto-x-1298708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/elon-musk-anuncia-videollamadas-x-llegaran-pronto-numero-telefono-amplica-compatiblidad-3124346.jpg?tf=1200x' alt='Elon Musk anuncia que las videollamadas en X llegarán pronto: sin número de teléfono y con amplia compatibilidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/herramientas-ocultas-windows-11-dificil-acceso-deberias-utilizar-1297584'>Herramientas ocultas de Windows 11 de difícil acceso que deberías utilizar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/herramientas-ocultas-windows-11-dificil-acceso-deberias-utilizar-1297584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/biblia-windows-11-resolvemos-todas-dudas-sustituto-windows-10-2401109.jpg?tf=1200x' alt='Herramientas ocultas de Windows 11 de difícil acceso que deberías utilizar' />
+    <h4><a href='https://computerhoy.com/life/ser-humano-fue-casi-extinguido-tierra-poblacion-redujo-solo-estos-individuos-1298734'>El ser humano fue casi aniquilado de la Tierra y la población se redujo a solo a 1.280 individuos</a></h4>
+    <a href='https://computerhoy.com/life/ser-humano-fue-casi-extinguido-tierra-poblacion-redujo-solo-estos-individuos-1298734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/pintura-arqueologica-prehistorica-3124380.jpg?tf=1200x' alt='El ser humano fue casi aniquilado de la Tierra y la población se redujo a solo a 1.280 individuos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/mitad-propietarios-coches-electricos-arrepienten-1298672'>Más de la mitad de los propietarios de coches eléctricos se arrepienten y volverían a comprar un coche de combustión</a></h4>
-    <a href='https://computerhoy.com/motor/mitad-propietarios-coches-electricos-arrepienten-1298672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/problema-coche-electrico-casi-nadie-veia-hace-cinco-anos-3033536.jpg?tf=1200x' alt='Más de la mitad de los propietarios de coches eléctricos se arrepienten y volverían a comprar un coche de combustión' />
+    <h4><a href='https://computerhoy.com/alimentacion/lado-oscuro-bebidas-energeticas-ocu-1298730'>Qué son realmente las bebidas energéticas y por qué deberías mantenerte alejado de ellas</a></h4>
+    <a href='https://computerhoy.com/alimentacion/lado-oscuro-bebidas-energeticas-ocu-1298730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bebidas-energeticas-3124376.jpg?tf=1200x' alt='Qué son realmente las bebidas energéticas y por qué deberías mantenerte alejado de ellas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/usb-c-iphone-15-podria-cambiarlo-todo-mundo-moviles-1298666'>El USB-C del iPhone 15 podría cambiarlo todo en el mundo de los móviles</a></h4>
-    <a href='https://computerhoy.com/apple/usb-c-iphone-15-podria-cambiarlo-todo-mundo-moviles-1298666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='El USB-C del iPhone 15 podría cambiarlo todo en el mundo de los móviles' />
+    <h4><a href='https://computerhoy.com/alimentacion/flan-mercadona-diabeticos-deportistas-dieta-1298726'>Si eres diabético, deportista, o ya tienes unos años, este nuevo postre de Mercadona está hecho para ti</a></h4>
+    <a href='https://computerhoy.com/alimentacion/flan-mercadona-diabeticos-deportistas-dieta-1298726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/eres-diabetico-ya-tienes-anos-nuevo-postre-mercadona-hecho-ti-3124254.jpg?tf=1200x' alt='Si eres diabético, deportista, o ya tienes unos años, este nuevo postre de Mercadona está hecho para ti' />
     </a>
 </div>
 
