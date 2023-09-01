@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/revolucion-ia-intel-habana-gaudi2-140-rapido-h-100-nvidia-1298184'>Intel revoluciona la IA: su nuevo chip Intel Habana Gaudi2 es un 140% más rápido que el H100 de NVIDIA </a></h4>
+    <a href='https://computerhoy.com/tecnologia/revolucion-ia-intel-habana-gaudi2-140-rapido-h-100-nvidia-1298184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/intel-revoluciona-ia-nuevo-chip-intel-habana-gaudi-40-rapido-h-100-nvidia-3123042.jpg?tf=1200x' alt='Intel revoluciona la IA: su nuevo chip Intel Habana Gaudi2 es un 140% más rápido que el H100 de NVIDIA ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tiembla-roomba-robot-aspirador-chino-limpia-solo-cuesta-mitad-1296738'>Tiembla Roomba: este robot aspirador chino se limpia solo y cuesta la mitad</a></h4>
     <a href='https://computerhoy.com/tecnologia/tiembla-roomba-robot-aspirador-chino-limpia-solo-cuesta-mitad-1296738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dreame-d10-plus-3020404.jpg?tf=1200x' alt='Tiembla Roomba: este robot aspirador chino se limpia solo y cuesta la mitad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/pez-camina-suelo-avistado-25-anos-despues-1298162'>Descubren en las costas de Tasmania un pez que camina por el suelo, desaparecido hace décadas</a></h4>
     <a href='https://computerhoy.com/ciencia/pez-camina-suelo-avistado-25-anos-despues-1298162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/descubren-costas-tasmania-pez-camina-suelo-desaparecido-hace-decadas-3123022.jpg?tf=1200x' alt='Descubren en las costas de Tasmania un pez que camina por el suelo, desaparecido hace décadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/denuncian-marca-cerveza-espana-publicidad-enganosa-1298156'>Denuncian a una de las marcas de cerveza más populares en España por publicidad engañosa</a></h4>
-    <a href='https://computerhoy.com/alimentacion/denuncian-marca-cerveza-espana-publicidad-enganosa-1298156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/latas-cerveza-3123028.jpg?tf=1200x' alt='Denuncian a una de las marcas de cerveza más populares en España por publicidad engañosa' />
     </a>
 </div>
 
