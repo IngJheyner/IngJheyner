@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/pelotazo-oferta-ea-sports-fc-24-antiguo-fifa-rebajado-todas-consolas-solo-hoy-1298476'>Pelotazo de oferta: EA Sports FC 24 (el antiguo FIFA) está rebajado para todas las consolas ¡solo hoy!</a></h4>
-    <a href='https://computerhoy.com/gaming/pelotazo-oferta-ea-sports-fc-24-antiguo-fifa-rebajado-todas-consolas-solo-hoy-1298476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ea-sports-fc-24-3123340.jpg?tf=1200x' alt='Pelotazo de oferta: EA Sports FC 24 (el antiguo FIFA) está rebajado para todas las consolas ¡solo hoy!' />
+    <h4><a href='https://computerhoy.com/moviles/sony-xperia-5-v-oficial-caracteristicas-precio-todo-nuevo-gama-alta-compacto-1298588'>Sony Xperia 5 V: tamaño compacto con potencia de gama alta y ausencia de teleobjetivo</a></h4>
+    <a href='https://computerhoy.com/moviles/sony-xperia-5-v-oficial-caracteristicas-precio-todo-nuevo-gama-alta-compacto-1298588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sony-xperia-5-v-tamano-compacto-potencia-gama-alta-ausencia-teleobjetivo-3123678.jpg?tf=1200x' alt='Sony Xperia 5 V: tamaño compacto con potencia de gama alta y ausencia de teleobjetivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuanto-cobra-desarrollador-espana-1298474'>Cuánto cobra un desarrollador en España: consejos y datos sobre el mercado laboral</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuanto-cobra-desarrollador-espana-1298474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/escritorio-programador-2775857.jpg?tf=1200x' alt='Cuánto cobra un desarrollador en España: consejos y datos sobre el mercado laboral' />
+    <h4><a href='https://computerhoy.com/tutoriales/formas-restaurar-archivos-eliminados-permanentemente-windows-11-1297876'>Formas de restaurar archivos eliminados permanentemente en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/formas-restaurar-archivos-eliminados-permanentemente-windows-11-1297876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/disco-duro-ordenador-2924360.jpg?tf=1200x' alt='Formas de restaurar archivos eliminados permanentemente en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/locura-amazon-fans-apple-rebaja-iphone-ipad-macbook-52-descuento-1297290'>Locura en Amazon para fans de Apple: rebaja en iPhone, iPad y MacBook con hasta 52% de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/locura-amazon-fans-apple-rebaja-iphone-ipad-macbook-52-descuento-1297290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/apple-store-2147029.jpg?tf=1200x' alt='Locura en Amazon para fans de Apple: rebaja en iPhone, iPad y MacBook con hasta 52% de descuento' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-electric-scooter-4-go-llega-espana-precio-oficial-caracteristicas-principales-1298548'>El Xiaomi Electric Scooter 4 Go llega a España: precio oficial y características principales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-electric-scooter-4-go-llega-espana-precio-oficial-caracteristicas-principales-1298548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-electric-scooter-4-go-llega-espana-precio-oficial-caracteristicas-principales-3123612.jpg?tf=1200x' alt='El Xiaomi Electric Scooter 4 Go llega a España: precio oficial y características principales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/honor-magic-v2-movil-plegable-delgado-ligero-1296120'>Honor se lo pone difícil a Samsung con su nuevo Honor Magic V2, el plegable más ligero y delgado</a></h4>
-    <a href='https://computerhoy.com/moviles/honor-magic-v2-movil-plegable-delgado-ligero-1296120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/honor-magic-v2-3119468.jpg?tf=1200x' alt='Honor se lo pone difícil a Samsung con su nuevo Honor Magic V2, el plegable más ligero y delgado' />
+    <h4><a href='https://computerhoy.com/motor/china-lista-lanzar-primeros-coches-electricos-bateria-proxima-generacion-400-kilometros-10-minutos-carga-1298504'>China lista para lanzar los primeros coches eléctricos con batería de próxima generación: 400 kilómetros con 10 minutos de carga</a></h4>
+    <a href='https://computerhoy.com/motor/china-lista-lanzar-primeros-coches-electricos-bateria-proxima-generacion-400-kilometros-10-minutos-carga-1298504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nuevo-material-mejora-baterias-estado-solido-coche-electrico-no-degraden-carguen-rapido-2939562.jpg?tf=1200x' alt='China lista para lanzar los primeros coches eléctricos con batería de próxima generación: 400 kilómetros con 10 minutos de carga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
+    <h4><a href='https://computerhoy.com/moviles/honor-magic-v2-he-probado-plegable-tipo-libro-me-convence-1298538'>Así es el Honor Magic V2, lo he probado y es el plegable tipo libro que más me convence</a></h4>
+    <a href='https://computerhoy.com/moviles/honor-magic-v2-he-probado-plegable-tipo-libro-me-convence-1298538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/honor-magic-v2-3123576.jpg?tf=1200x' alt='Así es el Honor Magic V2, lo he probado y es el plegable tipo libro que más me convence' />
     </a>
 </div>
 
