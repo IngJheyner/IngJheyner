@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
+    <h4><a href='https://computerhoy.com/life/misterio-250-mansiones-lujo-abandonadas-china-1292246'>El increíble misterio de la ciudad fantasma de las 250 mansiones abandonadas</a></h4>
+    <a href='https://computerhoy.com/life/misterio-250-mansiones-lujo-abandonadas-china-1292246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/misterio-250-mansiones-lujo-abandonadas-explanada-china-3112674.jpg?tf=1200x' alt='El increíble misterio de la ciudad fantasma de las 250 mansiones abandonadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sony-xperia-5-v-oficial-caracteristicas-precio-todo-nuevo-gama-alta-compacto-1298588'>Sony Xperia 5 V: tamaño compacto con potencia de gama alta y ausencia de teleobjetivo</a></h4>
-    <a href='https://computerhoy.com/moviles/sony-xperia-5-v-oficial-caracteristicas-precio-todo-nuevo-gama-alta-compacto-1298588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sony-xperia-5-v-tamano-compacto-potencia-gama-alta-ausencia-teleobjetivo-3123678.jpg?tf=1200x' alt='Sony Xperia 5 V: tamaño compacto con potencia de gama alta y ausencia de teleobjetivo' />
+    <h4><a href='https://computerhoy.com/criptos/como-influye-movimiento-38-millones-dolares-ballena-precio-shiba-inu-1298656'>Cómo influye el movimiento de 38 millones de dólares por una ballena en el precio de Shiba Inu</a></h4>
+    <a href='https://computerhoy.com/criptos/como-influye-movimiento-38-millones-dolares-ballena-precio-shiba-inu-1298656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/shiba-inu-2610337.jpg?tf=1200x' alt='Cómo influye el movimiento de 38 millones de dólares por una ballena en el precio de Shiba Inu' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/formas-restaurar-archivos-eliminados-permanentemente-windows-11-1297876'>Formas de restaurar archivos eliminados permanentemente en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/formas-restaurar-archivos-eliminados-permanentemente-windows-11-1297876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/disco-duro-ordenador-2924360.jpg?tf=1200x' alt='Formas de restaurar archivos eliminados permanentemente en Windows 11' />
+    <h4><a href='https://computerhoy.com/life/metal-precioso-10-veces-caro-oro-muy-posible-tengas-poco-1295304'>Este metal precioso es 10 veces más caro que el oro y es muy posible que tengas un poco</a></h4>
+    <a href='https://computerhoy.com/life/metal-precioso-10-veces-caro-oro-muy-posible-tengas-poco-1295304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/metal-precioso-10-veces-caro-oro-3118250.jpg?tf=1200x' alt='Este metal precioso es 10 veces más caro que el oro y es muy posible que tengas un poco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-electric-scooter-4-go-llega-espana-precio-oficial-caracteristicas-principales-1298548'>El Xiaomi Electric Scooter 4 Go llega a España: precio oficial y características principales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-electric-scooter-4-go-llega-espana-precio-oficial-caracteristicas-principales-1298548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-electric-scooter-4-go-llega-espana-precio-oficial-caracteristicas-principales-3123612.jpg?tf=1200x' alt='El Xiaomi Electric Scooter 4 Go llega a España: precio oficial y características principales' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-mix-fold-3-primeras-impresiones-caracteristicas-precio-1298610'>Unos minutos con el Xiaomi Mix Fold 3 me han valido para darme cuenta de que es una bestia, pero tiene un problema que no puedo pasar por alto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-mix-fold-3-primeras-impresiones-caracteristicas-precio-1298610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-mix-fold-3-3123844.jpg?tf=1200x' alt='Unos minutos con el Xiaomi Mix Fold 3 me han valido para darme cuenta de que es una bestia, pero tiene un problema que no puedo pasar por alto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/china-lista-lanzar-primeros-coches-electricos-bateria-proxima-generacion-400-kilometros-10-minutos-carga-1298504'>China lista para lanzar los primeros coches eléctricos con batería de próxima generación: 400 kilómetros con 10 minutos de carga</a></h4>
-    <a href='https://computerhoy.com/motor/china-lista-lanzar-primeros-coches-electricos-bateria-proxima-generacion-400-kilometros-10-minutos-carga-1298504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nuevo-material-mejora-baterias-estado-solido-coche-electrico-no-degraden-carguen-rapido-2939562.jpg?tf=1200x' alt='China lista para lanzar los primeros coches eléctricos con batería de próxima generación: 400 kilómetros con 10 minutos de carga' />
+    <h4><a href='https://computerhoy.com/google/como-extraer-fotograma-exacto-deseas-video-chrome-1298620'>Cómo extraer el fotograma exacto que deseas de un vídeo con Chrome</a></h4>
+    <a href='https://computerhoy.com/google/como-extraer-fotograma-exacto-deseas-video-chrome-1298620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-extraer-fotograma-exacto-deseas-video-chrome-3123824.jpg?tf=1200x' alt='Cómo extraer el fotograma exacto que deseas de un vídeo con Chrome' />
     </a>
 </div>
 
