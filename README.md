@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estrategia-efectiva-responder-incidente-ciberseguridad-tiempo-oro-1292988'>La estrategia más efectiva para responder a un incidente de ciberseguridad: "El tiempo corre contra el defensor"</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estrategia-efectiva-responder-incidente-ciberseguridad-tiempo-oro-1292988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/incidente-ciberseguridad-3119830.jpg?tf=1200x' alt='La estrategia más efectiva para responder a un incidente de ciberseguridad: "El tiempo corre contra el defensor"' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-cree-ya-no-necesitas-wordpad-windows-eliminara-28-anos-1298958'>Adiós a WordPad en Windows: Microsoft cree que ya no lo necesitas tras 28 años</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-cree-ya-no-necesitas-wordpad-windows-eliminara-28-anos-1298958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wordpad-windows-3124654.jpg?tf=1200x' alt='Adiós a WordPad en Windows: Microsoft cree que ya no lo necesitas tras 28 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/mejores-auriculares-running-comodos-ligeros-no-salen-orejas-1298494'>Mejores auriculares para running: cómodos, ligeros y que no se salen de las orejas</a></h4>
-    <a href='https://computerhoy.com/mejores/mejores-auriculares-running-comodos-ligeros-no-salen-orejas-1298494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/running-3025100.jpg?tf=1200x' alt='Mejores auriculares para running: cómodos, ligeros y que no se salen de las orejas' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-pasar-contrasenas-redes-wifi-pc-windows-otro-1289602'>Cómo pasar las contraseñas de las redes WiFi de un PC con Windows a otro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-pasar-contrasenas-redes-wifi-pc-windows-otro-1289602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/persona-teclea-ordenador-ilustracion-representa-cadena-bloques-3099942.jpg?tf=1200x' alt='Cómo pasar las contraseñas de las redes WiFi de un PC con Windows a otro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/10-inventos-hace-250-anos-siguen-usando-actualmente-1294752'>10 inventos de hace más de 250 años que se siguen usando actualmente </a></h4>
-    <a href='https://computerhoy.com/life/10-inventos-hace-250-anos-siguen-usando-actualmente-1294752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inventos-hace-250-anos-3121090.jpg?tf=1200x' alt='10 inventos de hace más de 250 años que se siguen usando actualmente ' />
+    <h4><a href='https://computerhoy.com/apps/facebook-instagram-podrian-ser-pago-europa-razon-1298952'>Meta podría ofrecer un Facebook e Instagram de pago en Europa para no mostrarte publicidad</a></h4>
+    <a href='https://computerhoy.com/apps/facebook-instagram-podrian-ser-pago-europa-razon-1298952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/meta-rinde-exigencias-ue-anuncia-medidas-transparencia-privacidad-va-implantar-3114982.jpg?tf=1200x' alt='Meta podría ofrecer un Facebook e Instagram de pago en Europa para no mostrarte publicidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/util-he-integrado-mi-casa-inteligente-1292720'>Lo más útil que he integrado en mi casa inteligente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/util-he-integrado-mi-casa-inteligente-1292720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/casa-inteligente-3113236.jpg?tf=1200x' alt='Lo más útil que he integrado en mi casa inteligente' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-series-cortas-temporada-miniseries-hbo-max-ver-fin-semana-1297308'>Las mejores series cortas de una temporada o miniseries de HBO Max para ver en un fin de semana</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-series-cortas-temporada-miniseries-hbo-max-ver-fin-semana-1297308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/01/big-little-lies-gran-ganadora-globo-oro_5.jpg?tf=1200x' alt='Las mejores series cortas de una temporada o miniseries de HBO Max para ver en un fin de semana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/jabra-elite-10-analisis-opinion-comodos-dolby-atmos-gran-anc-1292826'>Elite 10, análisis y opinión de los cómodos y efectivos in-ear de Jabra</a></h4>
-    <a href='https://computerhoy.com/analisis/jabra-elite-10-analisis-opinion-comodos-dolby-atmos-gran-anc-1292826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/jabra-elite-10-3122222.jpg?tf=1200x' alt='Elite 10, análisis y opinión de los cómodos y efectivos in-ear de Jabra' />
+    <h4><a href='https://computerhoy.com/energia/promesa-futuro-energetico-limpio-sostenible-fusion-nuclear-1296340'>Promesa de un futuro energético sostenible: "La fusión nuclear nos permitirá obtener energía abundante, barata y limpia"</a></h4>
+    <a href='https://computerhoy.com/energia/promesa-futuro-energetico-limpio-sostenible-fusion-nuclear-1296340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fusion-nuclear-3122680.jpg?tf=1200x' alt='Promesa de un futuro energético sostenible: "La fusión nuclear nos permitirá obtener energía abundante, barata y limpia"' />
     </a>
 </div>
 
