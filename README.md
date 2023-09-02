@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/isla-anguila-haciendo-millonaria-gracias-inteligencia-artificial-1298744'>Por qué la diminuta Isla de Anguila se está haciendo millonaria, gracias a la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/isla-anguila-haciendo-millonaria-gracias-inteligencia-artificial-1298744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/diminuta-isla-anguila-haciendo-millonaria-gracias-inteligencia-artificial-3124392.jpg?tf=1200x' alt='Por qué la diminuta Isla de Anguila se está haciendo millonaria, gracias a la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/locura-potencia-precio-oneplus-11-rompe-record-precio-envio-espana-1297820'>Locura de potencia y de precio: el OnePlus 11 rompe récord de precio con envío desde España</a></h4>
     <a href='https://computerhoy.com/tecnologia/locura-potencia-precio-oneplus-11-rompe-record-precio-envio-espana-1297820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952394.jpg?tf=1200x' alt='Locura de potencia y de precio: el OnePlus 11 rompe récord de precio con envío desde España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/lado-oscuro-bebidas-energeticas-ocu-1298730'>Qué son realmente las bebidas energéticas y por qué deberías mantenerte alejado de ellas</a></h4>
     <a href='https://computerhoy.com/alimentacion/lado-oscuro-bebidas-energeticas-ocu-1298730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bebidas-energeticas-3124376.jpg?tf=1200x' alt='Qué son realmente las bebidas energéticas y por qué deberías mantenerte alejado de ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/flan-mercadona-diabeticos-deportistas-dieta-1298726'>Si eres diabético, deportista, o ya tienes unos años, este nuevo postre de Mercadona está hecho para ti</a></h4>
-    <a href='https://computerhoy.com/alimentacion/flan-mercadona-diabeticos-deportistas-dieta-1298726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/eres-diabetico-ya-tienes-anos-nuevo-postre-mercadona-hecho-ti-3124254.jpg?tf=1200x' alt='Si eres diabético, deportista, o ya tienes unos años, este nuevo postre de Mercadona está hecho para ti' />
     </a>
 </div>
 
