@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ocelote-ataca-perezoso-video-1297986'>Graban en vídeo una pelea entre un perezoso y un ocelote, y no te vas a creer quién gana</a></h4>
-    <a href='https://computerhoy.com/life/ocelote-ataca-perezoso-video-1297986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/graban-video-pelea-perezoso-ocelote-no-te-vas-creer-quien-gana-3122208.jpg?tf=1200x' alt='Graban en vídeo una pelea entre un perezoso y un ocelote, y no te vas a creer quién gana' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estrategia-efectiva-responder-incidente-ciberseguridad-tiempo-oro-1292988'>La estrategia más efectiva para responder a un incidente de ciberseguridad: "El tiempo corre contra el defensor"</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estrategia-efectiva-responder-incidente-ciberseguridad-tiempo-oro-1292988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/incidente-ciberseguridad-3119830.jpg?tf=1200x' alt='La estrategia más efectiva para responder a un incidente de ciberseguridad: "El tiempo corre contra el defensor"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915'>Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/reloj-natacion-3122292.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF' />
+    <h4><a href='https://computerhoy.com/mejores/mejores-auriculares-running-comodos-ligeros-no-salen-orejas-1298494'>Mejores auriculares para running: cómodos, ligeros y que no se salen de las orejas</a></h4>
+    <a href='https://computerhoy.com/mejores/mejores-auriculares-running-comodos-ligeros-no-salen-orejas-1298494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/running-3025100.jpg?tf=1200x' alt='Mejores auriculares para running: cómodos, ligeros y que no se salen de las orejas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-da-prioridad-peliculas-series-estrenos-septiembre-1298750'>HBO Max da prioridad a las películas sobre las series, en sus estrenos de septiembre</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/hbo-max-da-prioridad-peliculas-series-estrenos-septiembre-1298750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hbo-max-da-prioridad-peliculas-series-estrenos-septiembre-3124404.jpg?tf=1200x' alt='HBO Max da prioridad a las películas sobre las series, en sus estrenos de septiembre' />
+    <h4><a href='https://computerhoy.com/life/10-inventos-hace-250-anos-siguen-usando-actualmente-1294752'>10 inventos de hace más de 250 años que se siguen usando actualmente </a></h4>
+    <a href='https://computerhoy.com/life/10-inventos-hace-250-anos-siguen-usando-actualmente-1294752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inventos-hace-250-anos-3121090.jpg?tf=1200x' alt='10 inventos de hace más de 250 años que se siguen usando actualmente ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/isla-anguila-haciendo-millonaria-gracias-inteligencia-artificial-1298744'>Por qué la diminuta Isla de Anguila se está haciendo millonaria, gracias a la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/isla-anguila-haciendo-millonaria-gracias-inteligencia-artificial-1298744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/diminuta-isla-anguila-haciendo-millonaria-gracias-inteligencia-artificial-3124392.jpg?tf=1200x' alt='Por qué la diminuta Isla de Anguila se está haciendo millonaria, gracias a la inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/tecnologia/util-he-integrado-mi-casa-inteligente-1292720'>Lo más útil que he integrado en mi casa inteligente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/util-he-integrado-mi-casa-inteligente-1292720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/casa-inteligente-3113236.jpg?tf=1200x' alt='Lo más útil que he integrado en mi casa inteligente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/locura-potencia-precio-oneplus-11-rompe-record-precio-envio-espana-1297820'>Locura de potencia y de precio: el OnePlus 11 rompe récord de precio con envío desde España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/locura-potencia-precio-oneplus-11-rompe-record-precio-envio-espana-1297820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952394.jpg?tf=1200x' alt='Locura de potencia y de precio: el OnePlus 11 rompe récord de precio con envío desde España' />
+    <h4><a href='https://computerhoy.com/analisis/jabra-elite-10-analisis-opinion-comodos-dolby-atmos-gran-anc-1292826'>Elite 10, análisis y opinión de los cómodos y efectivos in-ear de Jabra</a></h4>
+    <a href='https://computerhoy.com/analisis/jabra-elite-10-analisis-opinion-comodos-dolby-atmos-gran-anc-1292826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/jabra-elite-10-3122222.jpg?tf=1200x' alt='Elite 10, análisis y opinión de los cómodos y efectivos in-ear de Jabra' />
     </a>
 </div>
 
