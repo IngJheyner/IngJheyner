@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cohete-ruso-luna-25-ha-creado-nuevo-crater-chocar-luna-1298922'>El cohete ruso Luna 25 chocó tan fuerte contra la Luna, que ha creado un nuevo cráter visible a simple vista</a></h4>
+    <a href='https://computerhoy.com/espacio/cohete-ruso-luna-25-ha-creado-nuevo-crater-chocar-luna-1298922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cohete-ruso-lunar-25-choco-tan-fuerte-luna-ha-creado-nuevo-crater-3124578.jpg?tf=1200x' alt='El cohete ruso Luna 25 chocó tan fuerte contra la Luna, que ha creado un nuevo cráter visible a simple vista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/enlaces-podria-eliminar-google-tienes-guardados-chrome-1298976'>Estos son los enlaces que podría eliminar Google y que tienes guardados en Chrome</a></h4>
+    <a href='https://computerhoy.com/google/enlaces-podria-eliminar-google-tienes-guardados-chrome-1298976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-chrome-3124666.jpg?tf=1200x' alt='Estos son los enlaces que podría eliminar Google y que tienes guardados en Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-cree-ya-no-necesitas-wordpad-windows-eliminara-28-anos-1298958'>Adiós a WordPad en Windows: Microsoft cree que ya no lo necesitas tras 28 años</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-cree-ya-no-necesitas-wordpad-windows-eliminara-28-anos-1298958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wordpad-windows-3124654.jpg?tf=1200x' alt='Adiós a WordPad en Windows: Microsoft cree que ya no lo necesitas tras 28 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/facebook-instagram-podrian-ser-pago-europa-razon-1298952'>Meta podría ofrecer un Facebook e Instagram de pago en Europa para no mostrarte publicidad</a></h4>
     <a href='https://computerhoy.com/apps/facebook-instagram-podrian-ser-pago-europa-razon-1298952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/meta-rinde-exigencias-ue-anuncia-medidas-transparencia-privacidad-va-implantar-3114982.jpg?tf=1200x' alt='Meta podría ofrecer un Facebook e Instagram de pago en Europa para no mostrarte publicidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-series-cortas-temporada-miniseries-hbo-max-ver-fin-semana-1297308'>Las mejores series cortas de una temporada o miniseries de HBO Max para ver en un fin de semana</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-series-cortas-temporada-miniseries-hbo-max-ver-fin-semana-1297308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/01/big-little-lies-gran-ganadora-globo-oro_5.jpg?tf=1200x' alt='Las mejores series cortas de una temporada o miniseries de HBO Max para ver en un fin de semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/promesa-futuro-energetico-limpio-sostenible-fusion-nuclear-1296340'>Promesa de un futuro energético sostenible: "La fusión nuclear nos permitirá obtener energía abundante, barata y limpia"</a></h4>
-    <a href='https://computerhoy.com/energia/promesa-futuro-energetico-limpio-sostenible-fusion-nuclear-1296340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fusion-nuclear-3122680.jpg?tf=1200x' alt='Promesa de un futuro energético sostenible: "La fusión nuclear nos permitirá obtener energía abundante, barata y limpia"' />
     </a>
 </div>
 
