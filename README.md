@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ocelote-ataca-perezoso-video-1297986'>Graban en vídeo una pelea entre un perezoso y un ocelote, y no te vas a creer quién gana</a></h4>
+    <a href='https://computerhoy.com/life/ocelote-ataca-perezoso-video-1297986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/graban-video-pelea-perezoso-ocelote-no-te-vas-creer-quien-gana-3122208.jpg?tf=1200x' alt='Graban en vídeo una pelea entre un perezoso y un ocelote, y no te vas a creer quién gana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915'>Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/reloj-natacion-3122292.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-da-prioridad-peliculas-series-estrenos-septiembre-1298750'>HBO Max da prioridad a las películas sobre las series, en sus estrenos de septiembre</a></h4>
     <a href='https://computerhoy.com/entretenimiento/hbo-max-da-prioridad-peliculas-series-estrenos-septiembre-1298750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hbo-max-da-prioridad-peliculas-series-estrenos-septiembre-3124404.jpg?tf=1200x' alt='HBO Max da prioridad a las películas sobre las series, en sus estrenos de septiembre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/locura-potencia-precio-oneplus-11-rompe-record-precio-envio-espana-1297820'>Locura de potencia y de precio: el OnePlus 11 rompe récord de precio con envío desde España</a></h4>
     <a href='https://computerhoy.com/tecnologia/locura-potencia-precio-oneplus-11-rompe-record-precio-envio-espana-1297820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952394.jpg?tf=1200x' alt='Locura de potencia y de precio: el OnePlus 11 rompe récord de precio con envío desde España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/elon-musk-anuncia-videollamadas-llegaran-pronto-x-1298708'>Elon Musk anuncia que las videollamadas en X llegarán pronto: sin número de teléfono y con amplia compatibilidad</a></h4>
-    <a href='https://computerhoy.com/redes/elon-musk-anuncia-videollamadas-llegaran-pronto-x-1298708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/elon-musk-anuncia-videollamadas-x-llegaran-pronto-numero-telefono-amplica-compatiblidad-3124346.jpg?tf=1200x' alt='Elon Musk anuncia que las videollamadas en X llegarán pronto: sin número de teléfono y con amplia compatibilidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ser-humano-fue-casi-extinguido-tierra-poblacion-redujo-solo-estos-individuos-1298734'>El ser humano fue casi aniquilado de la Tierra y la población se redujo a solo a 1.280 individuos</a></h4>
-    <a href='https://computerhoy.com/life/ser-humano-fue-casi-extinguido-tierra-poblacion-redujo-solo-estos-individuos-1298734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/pintura-arqueologica-prehistorica-3124380.jpg?tf=1200x' alt='El ser humano fue casi aniquilado de la Tierra y la población se redujo a solo a 1.280 individuos' />
     </a>
 </div>
 
