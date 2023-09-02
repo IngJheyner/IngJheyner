@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/extensiones-chrome-pueden-robar-contrasenas-sitios-web-1299014'>Las extensiones de Chrome pueden robar contraseñas en texto plano de sitios web</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/extensiones-chrome-pueden-robar-contrasenas-sitios-web-1299014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-chrome-3113980.jpg?tf=1200x' alt='Las extensiones de Chrome pueden robar contraseñas en texto plano de sitios web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/que-son-piedras-petoskey-1298546'>Qué son las piedras Petoskey, y por qué tienen escamas</a></h4>
+    <a href='https://computerhoy.com/ciencia/que-son-piedras-petoskey-1298546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/son-piedras-petoskey-tienen-escamas-3123560.jpg?tf=1200x' alt='Qué son las piedras Petoskey, y por qué tienen escamas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/extravagante-idea-nasa-acabar-desechos-espaciales-1299010'>Esta es la idea que tiene la NASA para acabar con los desechos espaciales</a></h4>
     <a href='https://computerhoy.com/espacio/extravagante-idea-nasa-acabar-desechos-espaciales-1299010' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/idea-tiene-nasa-acabar-desechos-espaciales-3124782.jpg?tf=1200x' alt='Esta es la idea que tiene la NASA para acabar con los desechos espaciales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-va-guerra-amazon-rebaja-chromecast-contrarrestar-oferta-fire-tv-stick-1297858'>Google va a la guerra con Amazon: rebaja su Chromecast para contrarrestar la oferta en el Fire TV Stick</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-va-guerra-amazon-rebaja-chromecast-contrarrestar-oferta-fire-tv-stick-1297858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chromecast-vs-fire-tv-3122298.jpg?tf=1200x' alt='Google va a la guerra con Amazon: rebaja su Chromecast para contrarrestar la oferta en el Fire TV Stick' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chat-inteligente-bing-estrena-mejores-respuestas-direcciones-mapas-1298982'>El chat inteligente de Bing estrena mejores respuestas para direcciones de mapas y mucho más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chat-inteligente-bing-estrena-mejores-respuestas-direcciones-mapas-1298982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/he-pasado-semana-probando-3-personalidades-bing-2992354.jpg?tf=1200x' alt='El chat inteligente de Bing estrena mejores respuestas para direcciones de mapas y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/spacex-sera-encargada-lanzar-satelites-funcion-sos-nuevos-iphone-1298978'>SpaceX de Elon Musk será la encargada de lanzar los satélites para la función SOS de los nuevos iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/spacex-sera-encargada-lanzar-satelites-funcion-sos-nuevos-iphone-1298978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/satelite-2806857.jpg?tf=1200x' alt='SpaceX de Elon Musk será la encargada de lanzar los satélites para la función SOS de los nuevos iPhone' />
     </a>
 </div>
 
