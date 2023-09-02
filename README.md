@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-da-prioridad-peliculas-series-estrenos-septiembre-1298750'>HBO Max da prioridad a las películas sobre las series, en sus estrenos de septiembre</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hbo-max-da-prioridad-peliculas-series-estrenos-septiembre-1298750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hbo-max-da-prioridad-peliculas-series-estrenos-septiembre-3124404.jpg?tf=1200x' alt='HBO Max da prioridad a las películas sobre las series, en sus estrenos de septiembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/isla-anguila-haciendo-millonaria-gracias-inteligencia-artificial-1298744'>Por qué la diminuta Isla de Anguila se está haciendo millonaria, gracias a la inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/isla-anguila-haciendo-millonaria-gracias-inteligencia-artificial-1298744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/diminuta-isla-anguila-haciendo-millonaria-gracias-inteligencia-artificial-3124392.jpg?tf=1200x' alt='Por qué la diminuta Isla de Anguila se está haciendo millonaria, gracias a la inteligencia artificial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ser-humano-fue-casi-extinguido-tierra-poblacion-redujo-solo-estos-individuos-1298734'>El ser humano fue casi aniquilado de la Tierra y la población se redujo a solo a 1.280 individuos</a></h4>
     <a href='https://computerhoy.com/life/ser-humano-fue-casi-extinguido-tierra-poblacion-redujo-solo-estos-individuos-1298734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/pintura-arqueologica-prehistorica-3124380.jpg?tf=1200x' alt='El ser humano fue casi aniquilado de la Tierra y la población se redujo a solo a 1.280 individuos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/lado-oscuro-bebidas-energeticas-ocu-1298730'>Qué son realmente las bebidas energéticas y por qué deberías mantenerte alejado de ellas</a></h4>
-    <a href='https://computerhoy.com/alimentacion/lado-oscuro-bebidas-energeticas-ocu-1298730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bebidas-energeticas-3124376.jpg?tf=1200x' alt='Qué son realmente las bebidas energéticas y por qué deberías mantenerte alejado de ellas' />
     </a>
 </div>
 
