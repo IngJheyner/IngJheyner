@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/300-participantes-carrera-barro-tough-mudder-infectados-peligrosa-bacteria-1299308'>Más de 300 participantes de una carrera de obstáculos, infectados con una peligrosa bacteria por meterse en el barro</a></h4>
+    <a href='https://computerhoy.com/life/300-participantes-carrera-barro-tough-mudder-infectados-peligrosa-bacteria-1299308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/300-participantes-carrera-obstaculos-infectados-peligrosa-bacteria-meterse-barro-3125136.jpg?tf=1200x' alt='Más de 300 participantes de una carrera de obstáculos, infectados con una peligrosa bacteria por meterse en el barro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/lidl-retira-bolsas-patrulla-canina-tienen-web-pornografica-1299300'>Lidl retira todas las bolsas de desayuno de La Patrulla Canina porque tienen un enlace a una web pornográfica</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/lidl-retira-bolsas-patrulla-canina-tienen-web-pornografica-1299300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lidl-retira-todas-bolsas-desayuno-patrulla-canina-porque-tienen-enlace-web-pornografica-3125130.jpg?tf=1200x' alt='Lidl retira todas las bolsas de desayuno de La Patrulla Canina porque tienen un enlace a una web pornográfica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ia-capaz-superar-mejores-pilotos-humanos-vuelo-drones-1299276'>Crean una IA capaz de superar a los mejores pilotos humanos en el vuelo de drones</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-capaz-superar-mejores-pilotos-humanos-vuelo-drones-1299276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/crean-ia-capaz-superar-mejores-pilotos-humanos-vuelo-drones-3125106.jpg?tf=1200x' alt='Crean una IA capaz de superar a los mejores pilotos humanos en el vuelo de drones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-forma-eficaz-recolectar-agua-aire-inspirandose-telas-arana-1299274'>Crean una forma eficaz de recolectar agua del aire inspirándose en las telas de araña</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-forma-eficaz-recolectar-agua-aire-inspirandose-telas-arana-1299274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tela-arana-3125102.jpg?tf=1200x' alt='Crean una forma eficaz de recolectar agua del aire inspirándose en las telas de araña' />
     </a>
 </div>
 
