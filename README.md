@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/lidl-retira-bolsas-patrulla-canina-tienen-web-pornografica-1299300'>Lidl retira todas las bolsas de desayuno de La Patrulla Canina porque tienen un enlace a una web pornográfica</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/lidl-retira-bolsas-patrulla-canina-tienen-web-pornografica-1299300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lidl-retira-todas-bolsas-desayuno-patrulla-canina-porque-tienen-enlace-web-pornografica-3125130.jpg?tf=1200x' alt='Lidl retira todas las bolsas de desayuno de La Patrulla Canina porque tienen un enlace a una web pornográfica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/freidora-aire-tiene-funcion-sorprendentemente-util-hace-precio-sea-autentica-ganga-1297884'>Esta freidora de aire tiene una función sorprendentemente útil que hace que su precio sea una auténtica ganga </a></h4>
+    <a href='https://computerhoy.com/tecnologia/freidora-aire-tiene-funcion-sorprendentemente-util-hace-precio-sea-autentica-ganga-1297884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cecotec-cecofry-rain-3122408.jpg?tf=1200x' alt='Esta freidora de aire tiene una función sorprendentemente útil que hace que su precio sea una auténtica ganga ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/honor-v-purse-movil-plegable-transforma-bolso-1299288'>Honor V Purse, el móvil plegable que es también un bolso</a></h4>
+    <a href='https://computerhoy.com/moviles/honor-v-purse-movil-plegable-transforma-bolso-1299288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/honor-v-purse-movil-plegable-tambien-bolso-3125120.jpg?tf=1200x' alt='Honor V Purse, el móvil plegable que es también un bolso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ia-capaz-superar-mejores-pilotos-humanos-vuelo-drones-1299276'>Crean una IA capaz de superar a los mejores pilotos humanos en el vuelo de drones</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-capaz-superar-mejores-pilotos-humanos-vuelo-drones-1299276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/crean-ia-capaz-superar-mejores-pilotos-humanos-vuelo-drones-3125106.jpg?tf=1200x' alt='Crean una IA capaz de superar a los mejores pilotos humanos en el vuelo de drones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/crean-forma-eficaz-recolectar-agua-aire-inspirandose-telas-arana-1299274'>Crean una forma eficaz de recolectar agua del aire inspirándose en las telas de araña</a></h4>
     <a href='https://computerhoy.com/ciencia/crean-forma-eficaz-recolectar-agua-aire-inspirandose-telas-arana-1299274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tela-arana-3125102.jpg?tf=1200x' alt='Crean una forma eficaz de recolectar agua del aire inspirándose en las telas de araña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estas-aplicaciones-hacen-pasar-signal-telegram-debes-borrarlas-1299270'>Estas aplicaciones se hacen pasar por Signal y Telegram y debes borrarlas ahora mismo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estas-aplicaciones-hacen-pasar-signal-telegram-debes-borrarlas-1299270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/android-malware-3096000.jpg?tf=1200x' alt='Estas aplicaciones se hacen pasar por Signal y Telegram y debes borrarlas ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-pedidos-amazon-cuando-compartes-misma-cuenta-1296234'>Cómo ocultar los pedidos de Amazon cuando compartes una misma cuenta</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-pedidos-amazon-cuando-compartes-misma-cuenta-1296234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/amazon-2968408.jpg?tf=1200x' alt='Cómo ocultar los pedidos de Amazon cuando compartes una misma cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-ya-ofrece-usuarios-soporte-multiples-cuentas-1299258'>WhatsApp ya ofrece a más usuarios soporte para múltiples cuentas y un cambio en la interfaz</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-ya-ofrece-usuarios-soporte-multiples-cuentas-1299258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3044036.jpg?tf=1200x' alt='WhatsApp ya ofrece a más usuarios soporte para múltiples cuentas y un cambio en la interfaz' />
     </a>
 </div>
 
