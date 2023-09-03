@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pascalina-primera-calculadora-mecanica-invento-hace-381-anos-1299016'>La primera calculadora mecánica, la Pascalina, se inventó hace 381 años, y aún nos asombra</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pascalina-primera-calculadora-mecanica-invento-hace-381-anos-1299016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/primera-calculadora-mecanica-pascalina-invento-hace-381-anos-aun-nos-asombra-3124802.jpg?tf=1200x' alt='La primera calculadora mecánica, la Pascalina, se inventó hace 381 años, y aún nos asombra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/extensiones-chrome-pueden-robar-contrasenas-sitios-web-1299014'>Las extensiones de Chrome pueden robar contraseñas en texto plano de sitios web</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/extensiones-chrome-pueden-robar-contrasenas-sitios-web-1299014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-chrome-3113980.jpg?tf=1200x' alt='Las extensiones de Chrome pueden robar contraseñas en texto plano de sitios web' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/dron-autonomo-puede-volar-rodar-nasa-quiere-marte-1298998'>Este dron autónomo puede volar y rodar, y podría convertirse en el próximo rover de la NASA</a></h4>
     <a href='https://computerhoy.com/tecnologia/dron-autonomo-puede-volar-rodar-nasa-quiere-marte-1298998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/multi-modal-mobility-morphobot-3124772.jpg?tf=1200x' alt='Este dron autónomo puede volar y rodar, y podría convertirse en el próximo rover de la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-va-guerra-amazon-rebaja-chromecast-contrarrestar-oferta-fire-tv-stick-1297858'>Google va a la guerra con Amazon: rebaja su Chromecast para contrarrestar la oferta en el Fire TV Stick</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-va-guerra-amazon-rebaja-chromecast-contrarrestar-oferta-fire-tv-stick-1297858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chromecast-vs-fire-tv-3122298.jpg?tf=1200x' alt='Google va a la guerra con Amazon: rebaja su Chromecast para contrarrestar la oferta en el Fire TV Stick' />
     </a>
 </div>
 
