@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-capaz-superar-mejores-pilotos-humanos-vuelo-drones-1299276'>Crean una IA capaz de superar a los mejores pilotos humanos en el vuelo de drones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-capaz-superar-mejores-pilotos-humanos-vuelo-drones-1299276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/crean-ia-capaz-superar-mejores-pilotos-humanos-vuelo-drones-3125106.jpg?tf=1200x' alt='Crean una IA capaz de superar a los mejores pilotos humanos en el vuelo de drones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/crean-forma-eficaz-recolectar-agua-aire-inspirandose-telas-arana-1299274'>Crean una forma eficaz de recolectar agua del aire inspirándose en las telas de araña</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-forma-eficaz-recolectar-agua-aire-inspirandose-telas-arana-1299274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tela-arana-3125102.jpg?tf=1200x' alt='Crean una forma eficaz de recolectar agua del aire inspirándose en las telas de araña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estas-aplicaciones-hacen-pasar-signal-telegram-debes-borrarlas-1299270'>Estas aplicaciones se hacen pasar por Signal y Telegram y debes borrarlas ahora mismo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estas-aplicaciones-hacen-pasar-signal-telegram-debes-borrarlas-1299270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/android-malware-3096000.jpg?tf=1200x' alt='Estas aplicaciones se hacen pasar por Signal y Telegram y debes borrarlas ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-pedidos-amazon-cuando-compartes-misma-cuenta-1296234'>Cómo ocultar los pedidos de Amazon cuando compartes una misma cuenta</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ocultar-pedidos-amazon-cuando-compartes-misma-cuenta-1296234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/amazon-2968408.jpg?tf=1200x' alt='Cómo ocultar los pedidos de Amazon cuando compartes una misma cuenta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-ya-ofrece-usuarios-soporte-multiples-cuentas-1299258'>WhatsApp ya ofrece a más usuarios soporte para múltiples cuentas y un cambio en la interfaz</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-ya-ofrece-usuarios-soporte-multiples-cuentas-1299258' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3044036.jpg?tf=1200x' alt='WhatsApp ya ofrece a más usuarios soporte para múltiples cuentas y un cambio en la interfaz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-presenta-nueva-web-promocionar-propias-aplicaciones-1299248'>Apple presenta una nueva web para promocionar sus propias aplicaciones por una sencilla razón</a></h4>
-    <a href='https://computerhoy.com/apple/apple-presenta-nueva-web-promocionar-propias-aplicaciones-1299248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apps-apple-3125066.jpg?tf=1200x' alt='Apple presenta una nueva web para promocionar sus propias aplicaciones por una sencilla razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-mejores-libros-entender-inteligencia-artificial-1294756'>Los 5 mejores libros para entender la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-mejores-libros-entender-inteligencia-artificial-1294756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/libros-inteligencia-artificial-3121130.jpg?tf=1200x' alt='Los 5 mejores libros para entender la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-robot-historia-punto-partida-toda-revolucion-1294754'>Este fue el primer robot de la historia: el punto de partida de la revolución robótica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-robot-historia-punto-partida-toda-revolucion-1294754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/primer-robot-historia-3120574.jpg?tf=1200x' alt='Este fue el primer robot de la historia: el punto de partida de la revolución robótica' />
     </a>
 </div>
 
