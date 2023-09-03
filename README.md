@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/10-cosas-nunca-debes-guardar-movil-quieres-proteger-privacidad-seguridad-1290780'>10 cosas que nunca debes guardar en tu móvil si quieres proteger tu privacidad y seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/10-cosas-nunca-debes-guardar-movil-quieres-proteger-privacidad-seguridad-1290780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/movil-mujer-manos-chat-teclado-3007948.jpg?tf=1200x' alt='10 cosas que nunca debes guardar en tu móvil si quieres proteger tu privacidad y seguridad' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-pedidos-amazon-cuando-compartes-misma-cuenta-1296234'>Cómo ocultar los pedidos de Amazon cuando compartes una misma cuenta</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-pedidos-amazon-cuando-compartes-misma-cuenta-1296234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/amazon-2968408.jpg?tf=1200x' alt='Cómo ocultar los pedidos de Amazon cuando compartes una misma cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/voces-clonadas-ia-ultima-moda-ciberdelincuentes-realizar-estafas-telefonicas-1296336'>Voces clonadas con IA: la última moda entre los delincuentes para realizar estafas telefónicas </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/voces-clonadas-ia-ultima-moda-ciberdelincuentes-realizar-estafas-telefonicas-1296336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hacker-movil-mano-3123404.jpg?tf=1200x' alt='Voces clonadas con IA: la última moda entre los delincuentes para realizar estafas telefónicas ' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-ya-ofrece-usuarios-soporte-multiples-cuentas-1299258'>WhatsApp ya ofrece a más usuarios soporte para múltiples cuentas y un cambio en la interfaz</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-ya-ofrece-usuarios-soporte-multiples-cuentas-1299258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3044036.jpg?tf=1200x' alt='WhatsApp ya ofrece a más usuarios soporte para múltiples cuentas y un cambio en la interfaz' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/jabalies-alemanes-son-radioactivos-ya-sabemos-por-que-1299232'>Descubren que los jabalíes alemanes son radioactivos, y ya sabemos por qué</a></h4>
-    <a href='https://computerhoy.com/life/jabalies-alemanes-son-radioactivos-ya-sabemos-por-que-1299232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/descubren-jabalies-alemanes-son-radioactivos-ya-sabemos-3125008.jpg?tf=1200x' alt='Descubren que los jabalíes alemanes son radioactivos, y ya sabemos por qué' />
+    <h4><a href='https://computerhoy.com/apple/apple-presenta-nueva-web-promocionar-propias-aplicaciones-1299248'>Apple presenta una nueva web para promocionar sus propias aplicaciones por una sencilla razón</a></h4>
+    <a href='https://computerhoy.com/apple/apple-presenta-nueva-web-promocionar-propias-aplicaciones-1299248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apps-apple-3125066.jpg?tf=1200x' alt='Apple presenta una nueva web para promocionar sus propias aplicaciones por una sencilla razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rpa-automatizacion-robotica-procesos-cuales-son-beneficios-1286618'>¿Qué es RPA o Automatización Robótica de Procesos y cuáles son sus beneficios?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rpa-automatizacion-robotica-procesos-cuales-son-beneficios-1286618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1693560727406-3123518.jpg?tf=1200x' alt='¿Qué es RPA o Automatización Robótica de Procesos y cuáles son sus beneficios?' />
+    <h4><a href='https://computerhoy.com/tecnologia/5-mejores-libros-entender-inteligencia-artificial-1294756'>Los 5 mejores libros para entender la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-mejores-libros-entender-inteligencia-artificial-1294756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/libros-inteligencia-artificial-3121130.jpg?tf=1200x' alt='Los 5 mejores libros para entender la inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/todo-puedes-hacer-cuando-iphone-no-enciende-1286984'>Todo lo que puedes hacer cuando tu iPhone no enciende</a></h4>
-    <a href='https://computerhoy.com/tutoriales/todo-puedes-hacer-cuando-iphone-no-enciende-1286984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-apagado-3103246.jpg?tf=1200x' alt='Todo lo que puedes hacer cuando tu iPhone no enciende' />
+    <h4><a href='https://computerhoy.com/tecnologia/primer-robot-historia-punto-partida-toda-revolucion-1294754'>Este fue el primer robot de la historia: el punto de partida de la revolución robótica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-robot-historia-punto-partida-toda-revolucion-1294754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/primer-robot-historia-3120574.jpg?tf=1200x' alt='Este fue el primer robot de la historia: el punto de partida de la revolución robótica' />
     </a>
 </div>
 
