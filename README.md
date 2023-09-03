@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pascalina-primera-calculadora-mecanica-invento-hace-381-anos-1299016'>La primera calculadora mecánica, la Pascalina, se inventó hace 381 años, y aún nos asombra</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pascalina-primera-calculadora-mecanica-invento-hace-381-anos-1299016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/primera-calculadora-mecanica-pascalina-invento-hace-381-anos-aun-nos-asombra-3124802.jpg?tf=1200x' alt='La primera calculadora mecánica, la Pascalina, se inventó hace 381 años, y aún nos asombra' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/10-cosas-nunca-debes-guardar-movil-quieres-proteger-privacidad-seguridad-1290780'>10 cosas que nunca debes guardar en tu móvil si quieres proteger tu privacidad y seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/10-cosas-nunca-debes-guardar-movil-quieres-proteger-privacidad-seguridad-1290780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/movil-mujer-manos-chat-teclado-3007948.jpg?tf=1200x' alt='10 cosas que nunca debes guardar en tu móvil si quieres proteger tu privacidad y seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/extensiones-chrome-pueden-robar-contrasenas-sitios-web-1299014'>Las extensiones de Chrome pueden robar contraseñas en texto plano de sitios web</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/extensiones-chrome-pueden-robar-contrasenas-sitios-web-1299014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-chrome-3113980.jpg?tf=1200x' alt='Las extensiones de Chrome pueden robar contraseñas en texto plano de sitios web' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/voces-clonadas-ia-ultima-moda-ciberdelincuentes-realizar-estafas-telefonicas-1296336'>Voces clonadas con IA: la última moda entre los delincuentes para realizar estafas telefónicas </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/voces-clonadas-ia-ultima-moda-ciberdelincuentes-realizar-estafas-telefonicas-1296336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hacker-movil-mano-3123404.jpg?tf=1200x' alt='Voces clonadas con IA: la última moda entre los delincuentes para realizar estafas telefónicas ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/que-son-piedras-petoskey-1298546'>Qué son las piedras Petoskey, y por qué tienen escamas</a></h4>
-    <a href='https://computerhoy.com/ciencia/que-son-piedras-petoskey-1298546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/son-piedras-petoskey-tienen-escamas-3123560.jpg?tf=1200x' alt='Qué son las piedras Petoskey, y por qué tienen escamas' />
+    <h4><a href='https://computerhoy.com/life/jabalies-alemanes-son-radioactivos-ya-sabemos-por-que-1299232'>Descubren que los jabalíes alemanes son radioactivos, y ya sabemos por qué</a></h4>
+    <a href='https://computerhoy.com/life/jabalies-alemanes-son-radioactivos-ya-sabemos-por-que-1299232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/descubren-jabalies-alemanes-son-radioactivos-ya-sabemos-3125008.jpg?tf=1200x' alt='Descubren que los jabalíes alemanes son radioactivos, y ya sabemos por qué' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/extravagante-idea-nasa-acabar-desechos-espaciales-1299010'>Esta es la idea que tiene la NASA para acabar con los desechos espaciales</a></h4>
-    <a href='https://computerhoy.com/espacio/extravagante-idea-nasa-acabar-desechos-espaciales-1299010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/idea-tiene-nasa-acabar-desechos-espaciales-3124782.jpg?tf=1200x' alt='Esta es la idea que tiene la NASA para acabar con los desechos espaciales' />
+    <h4><a href='https://computerhoy.com/tecnologia/rpa-automatizacion-robotica-procesos-cuales-son-beneficios-1286618'>¿Qué es RPA o Automatización Robótica de Procesos y cuáles son sus beneficios?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rpa-automatizacion-robotica-procesos-cuales-son-beneficios-1286618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1693560727406-3123518.jpg?tf=1200x' alt='¿Qué es RPA o Automatización Robótica de Procesos y cuáles son sus beneficios?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dron-autonomo-puede-volar-rodar-nasa-quiere-marte-1298998'>Este dron autónomo puede volar y rodar, y podría convertirse en el próximo rover de la NASA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dron-autonomo-puede-volar-rodar-nasa-quiere-marte-1298998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/multi-modal-mobility-morphobot-3124772.jpg?tf=1200x' alt='Este dron autónomo puede volar y rodar, y podría convertirse en el próximo rover de la NASA' />
+    <h4><a href='https://computerhoy.com/tutoriales/todo-puedes-hacer-cuando-iphone-no-enciende-1286984'>Todo lo que puedes hacer cuando tu iPhone no enciende</a></h4>
+    <a href='https://computerhoy.com/tutoriales/todo-puedes-hacer-cuando-iphone-no-enciende-1286984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-apagado-3103246.jpg?tf=1200x' alt='Todo lo que puedes hacer cuando tu iPhone no enciende' />
     </a>
 </div>
 
