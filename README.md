@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
+    <h4><a href='https://computerhoy.com/tutoriales/metodo-eficaz-recuperar-contrasena-gmail-olvidada-1296980'>El método infalible para recuperar tu contraseña de Gmail olvidada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/metodo-eficaz-recuperar-contrasena-gmail-olvidada-1296980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/restablecer-contrasena-gmail-3121132.jpg?tf=1200x' alt='El método infalible para recuperar tu contraseña de Gmail olvidada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/formula-steve-jobs-te-hara-tomar-decisiones-inteligentes-1298920'>La fórmula secreta de Steve Jobs que te hará tomar decisiones rápidas e inteligentes</a></h4>
-    <a href='https://computerhoy.com/life/formula-steve-jobs-te-hara-tomar-decisiones-inteligentes-1298920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/steve-jobs-3124594.jpg?tf=1200x' alt='La fórmula secreta de Steve Jobs que te hará tomar decisiones rápidas e inteligentes' />
+    <h4><a href='https://computerhoy.com/life/descubren-google-maps-hombre-supuesto-cadaver-envuelto-1299798'>Descubren en Google Maps a un hombre deshaciéndose de un supuesto cadáver a lo Daniel Sancho y las redes enloquecen</a></h4>
+    <a href='https://computerhoy.com/life/descubren-google-maps-hombre-supuesto-cadaver-envuelto-1299798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/descubren-google-maps-hombre-deshaciendose-supuesto-cadaver-daniel-sancho-redes-enloquecen-3126068.jpg?tf=1200x' alt='Descubren en Google Maps a un hombre deshaciéndose de un supuesto cadáver a lo Daniel Sancho y las redes enloquecen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/desmantelan-red-suplantaba-banco-estafan-150000-euros-telefono-hay-54-detenidos-1299740'>Desmantelan una red que suplantaba al banco y estafan 150.000 euros por teléfono: hay 54 detenidos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/desmantelan-red-suplantaba-banco-estafan-150000-euros-telefono-hay-54-detenidos-1299740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/estafa-telefonica-3122640.jpg?tf=1200x' alt='Desmantelan una red que suplantaba al banco y estafan 150.000 euros por teléfono: hay 54 detenidos' />
+    <h4><a href='https://computerhoy.com/windows/truco-windows-11-hace-carguen-archivos-rapido-1299808'>Este truco en Windows 11 hace que se carguen los archivos en segundos </a></h4>
+    <a href='https://computerhoy.com/windows/truco-windows-11-hace-carguen-archivos-rapido-1299808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carpeta-2925588.jpg?tf=1200x' alt='Este truco en Windows 11 hace que se carguen los archivos en segundos ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/filtracion-desvela-como-serian-iphone-2027-seguramente-te-decepcione-1299704'>Una filtración desvela cómo serían los iPhone hasta 2027 y seguramente te decepcione</a></h4>
-    <a href='https://computerhoy.com/apple/filtracion-desvela-como-serian-iphone-2027-seguramente-te-decepcione-1299704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821739.jpg?tf=1200x' alt='Una filtración desvela cómo serían los iPhone hasta 2027 y seguramente te decepcione' />
+    <h4><a href='https://computerhoy.com/tutoriales/navegacion-segura-mejorada-chrome-1298690'>Qué es la navegación segura mejorada en Chrome y por qué debes activarlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/navegacion-segura-mejorada-chrome-1298690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/seguridad-chrome-3124360.jpg?tf=1200x' alt='Qué es la navegación segura mejorada en Chrome y por qué debes activarlo ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/crucero-nunca-termina-empresa-te-ofrece-viaje-infinito-todo-mundo-1299692'>¿Un crucero que nunca termina? Esta empresa te ofrece un viaje infinito por todo el mundo</a></h4>
-    <a href='https://computerhoy.com/life/crucero-nunca-termina-empresa-te-ofrece-viaje-infinito-todo-mundo-1299692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/crucero-3125870.jpg?tf=1200x' alt='¿Un crucero que nunca termina? Esta empresa te ofrece un viaje infinito por todo el mundo' />
+    <h4><a href='https://computerhoy.com/motor/bosch-crea-revolucionario-motor-invertido-coches-electricos-doble-voltaje-1299780'>Bosch crea un revolucionario motor invertido para coches eléctricos con el doble de voltaje y mucho más pequeño, que podría cambiarlo todo</a></h4>
+    <a href='https://computerhoy.com/motor/bosch-crea-revolucionario-motor-invertido-coches-electricos-doble-voltaje-1299780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bosch-crea-revolucionario-motor-invertido-coches-electricos-doble-voltaje-potencia-podria-cambiarlo-todo-3126030.jpg?tf=1200x' alt='Bosch crea un revolucionario motor invertido para coches eléctricos con el doble de voltaje y mucho más pequeño, que podría cambiarlo todo' />
     </a>
 </div>
 
