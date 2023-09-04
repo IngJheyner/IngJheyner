@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-alertas-alert-proteccion-civil-tienes-segundo-movil-oculto-1299612'>Cómo desactivar las alertas ES-Alert de Protección Civil si tienes un segundo móvil oculto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desactivar-alertas-alert-proteccion-civil-tienes-segundo-movil-oculto-1299612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-desactivar-alertas-alert-proteccion-civil-tienes-segundo-movil-oculto-3125722.jpg?tf=1200x' alt='Cómo desactivar las alertas ES-Alert de Protección Civil si tienes un segundo móvil oculto' />
+    <h4><a href='https://computerhoy.com/apple/filtracion-desvela-como-serian-iphone-2027-seguramente-te-decepcione-1299704'>Una filtración desvela cómo serían los iPhone hasta 2027 y seguramente te decepcione</a></h4>
+    <a href='https://computerhoy.com/apple/filtracion-desvela-como-serian-iphone-2027-seguramente-te-decepcione-1299704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821739.jpg?tf=1200x' alt='Una filtración desvela cómo serían los iPhone hasta 2027 y seguramente te decepcione' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cambio-novedad-importante-traera-iphone-15-1299588'>Este es el cambio y novedad más importante que traerá el iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/cambio-novedad-importante-traera-iphone-15-1299588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-usb-c-3125752.jpg?tf=1200x' alt='Este es el cambio y novedad más importante que traerá el iPhone 15' />
+    <h4><a href='https://computerhoy.com/life/crucero-nunca-termina-empresa-te-ofrece-viaje-infinito-todo-mundo-1299692'>¿Un crucero que nunca termina? Esta empresa te ofrece un viaje infinito por todo el mundo</a></h4>
+    <a href='https://computerhoy.com/life/crucero-nunca-termina-empresa-te-ofrece-viaje-infinito-todo-mundo-1299692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/crucero-3125870.jpg?tf=1200x' alt='¿Un crucero que nunca termina? Esta empresa te ofrece un viaje infinito por todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-104-como-activar-beta-disfrutar-nuevo-diseno-asistente-google-1299562'>Android Auto 10.4: cómo activar la beta y disfrutar del nuevo diseño para el Asistente de Google</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-104-como-activar-beta-disfrutar-nuevo-diseno-asistente-google-1299562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/android-auto-3122918.jpg?tf=1200x' alt='Android Auto 10.4: cómo activar la beta y disfrutar del nuevo diseño para el Asistente de Google' />
+    <h4><a href='https://computerhoy.com/google/filtrados-precios-google-pixel-8-200-euros-caro-pixel-7-1299702'>Filtrados los precios del Google Pixel 8: hasta 200 euros más caro que el Pixel 7</a></h4>
+    <a href='https://computerhoy.com/google/filtrados-precios-google-pixel-8-200-euros-caro-pixel-7-1299702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-1683716476708-3029968.jpg?tf=1200x' alt='Filtrados los precios del Google Pixel 8: hasta 200 euros más caro que el Pixel 7' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-renueva-cambios-importantes-sorpresa-bloc-notas-1299674'>Windows 11 se renueva con cambios importantes y una sorpresa para el bloc de notas</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-renueva-cambios-importantes-sorpresa-bloc-notas-1299674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tecla-windows-11-3117832.jpg?tf=1200x' alt='Windows 11 se renueva con cambios importantes y una sorpresa para el bloc de notas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/tiembla-thermomix-robot-cocina-cuesta-mucho-menos-puedes-comprar-amazon-1299586'>¿Tiembla Thermomix? Este robot de cocina cuesta mucho menos y lo puedes comprar en Amazon</a></h4>
-    <a href='https://computerhoy.com/hogar/tiembla-thermomix-robot-cocina-cuesta-mucho-menos-puedes-comprar-amazon-1299586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mellwerware-tasty-3125692.jpg?tf=1200x' alt='¿Tiembla Thermomix? Este robot de cocina cuesta mucho menos y lo puedes comprar en Amazon' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/son-hackers-sombrero-rojo-meta-google-necesitan-nunca-1299620'>Qué son los 'hackers' de sombrero rojo y por qué Meta o Google los necesitan más que nunca</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/son-hackers-sombrero-rojo-meta-google-necesitan-nunca-1299620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hackers-sombrero-rojo-3125814.jpg?tf=1200x' alt='Qué son los 'hackers' de sombrero rojo y por qué Meta o Google los necesitan más que nunca' />
     </a>
 </div>
 
