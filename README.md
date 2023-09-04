@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/vuelven-estafas-procesadores-intel-amazon-1299316'>Las estafas con los procesadores vuelven a Amazon: compra un Intel Core i9, y resulta ser un Intel Core i7 camuflado</a></h4>
+    <a href='https://computerhoy.com/pc/vuelven-estafas-procesadores-intel-amazon-1299316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/estafas-procesadores-vuelven-amazon-compra-intel-core-i9-realidad-intel-core-i7-camuflado-3125180.jpg?tf=1200x' alt='Las estafas con los procesadores vuelven a Amazon: compra un Intel Core i9, y resulta ser un Intel Core i7 camuflado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/paloma-mensajera-fibra-optica-quien-entrega-rapido-3-tb-datos-1299312'>¿Quién es más rápida entregando 3 TB de datos, una conexión a 1 Gbps o una paloma mensajera?</a></h4>
+    <a href='https://computerhoy.com/internet/paloma-mensajera-fibra-optica-quien-entrega-rapido-3-tb-datos-1299312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/quien-rapido-entregando-3-tb-datos-conexion-1-gbps-paloma-mensajera-3125174.jpg?tf=1200x' alt='¿Quién es más rápida entregando 3 TB de datos, una conexión a 1 Gbps o una paloma mensajera?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/300-participantes-carrera-barro-tough-mudder-infectados-peligrosa-bacteria-1299308'>Más de 300 participantes de una carrera de obstáculos, infectados con una peligrosa bacteria por meterse en el barro</a></h4>
     <a href='https://computerhoy.com/life/300-participantes-carrera-barro-tough-mudder-infectados-peligrosa-bacteria-1299308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/300-participantes-carrera-obstaculos-infectados-peligrosa-bacteria-meterse-barro-3125136.jpg?tf=1200x' alt='Más de 300 participantes de una carrera de obstáculos, infectados con una peligrosa bacteria por meterse en el barro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/freidora-aire-tiene-funcion-sorprendentemente-util-hace-precio-sea-autentica-ganga-1297884'>Esta freidora de aire tiene una función sorprendentemente útil que hace que su precio sea una auténtica ganga </a></h4>
     <a href='https://computerhoy.com/tecnologia/freidora-aire-tiene-funcion-sorprendentemente-util-hace-precio-sea-autentica-ganga-1297884' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cecotec-cecofry-rain-3122408.jpg?tf=1200x' alt='Esta freidora de aire tiene una función sorprendentemente útil que hace que su precio sea una auténtica ganga ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/honor-v-purse-movil-plegable-transforma-bolso-1299288'>Honor V Purse, el móvil plegable que es también un bolso</a></h4>
-    <a href='https://computerhoy.com/moviles/honor-v-purse-movil-plegable-transforma-bolso-1299288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/honor-v-purse-movil-plegable-tambien-bolso-3125120.jpg?tf=1200x' alt='Honor V Purse, el móvil plegable que es también un bolso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-capaz-superar-mejores-pilotos-humanos-vuelo-drones-1299276'>Crean una IA capaz de superar a los mejores pilotos humanos en el vuelo de drones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-capaz-superar-mejores-pilotos-humanos-vuelo-drones-1299276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/crean-ia-capaz-superar-mejores-pilotos-humanos-vuelo-drones-3125106.jpg?tf=1200x' alt='Crean una IA capaz de superar a los mejores pilotos humanos en el vuelo de drones' />
     </a>
 </div>
 
