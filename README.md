@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/formula-steve-jobs-te-hara-tomar-decisiones-inteligentes-1298920'>La fórmula secreta de Steve Jobs que te hará tomar decisiones rápidas e inteligentes</a></h4>
+    <a href='https://computerhoy.com/life/formula-steve-jobs-te-hara-tomar-decisiones-inteligentes-1298920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/steve-jobs-3124594.jpg?tf=1200x' alt='La fórmula secreta de Steve Jobs que te hará tomar decisiones rápidas e inteligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/desmantelan-red-suplantaba-banco-estafan-150000-euros-telefono-hay-54-detenidos-1299740'>Desmantelan una red que suplantaba al banco y estafan 150.000 euros por teléfono: hay 54 detenidos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/desmantelan-red-suplantaba-banco-estafan-150000-euros-telefono-hay-54-detenidos-1299740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/estafa-telefonica-3122640.jpg?tf=1200x' alt='Desmantelan una red que suplantaba al banco y estafan 150.000 euros por teléfono: hay 54 detenidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/filtracion-desvela-como-serian-iphone-2027-seguramente-te-decepcione-1299704'>Una filtración desvela cómo serían los iPhone hasta 2027 y seguramente te decepcione</a></h4>
     <a href='https://computerhoy.com/apple/filtracion-desvela-como-serian-iphone-2027-seguramente-te-decepcione-1299704' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821739.jpg?tf=1200x' alt='Una filtración desvela cómo serían los iPhone hasta 2027 y seguramente te decepcione' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/crucero-nunca-termina-empresa-te-ofrece-viaje-infinito-todo-mundo-1299692'>¿Un crucero que nunca termina? Esta empresa te ofrece un viaje infinito por todo el mundo</a></h4>
     <a href='https://computerhoy.com/life/crucero-nunca-termina-empresa-te-ofrece-viaje-infinito-todo-mundo-1299692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/crucero-3125870.jpg?tf=1200x' alt='¿Un crucero que nunca termina? Esta empresa te ofrece un viaje infinito por todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/filtrados-precios-google-pixel-8-200-euros-caro-pixel-7-1299702'>Filtrados los precios del Google Pixel 8: hasta 200 euros más caro que el Pixel 7</a></h4>
-    <a href='https://computerhoy.com/google/filtrados-precios-google-pixel-8-200-euros-caro-pixel-7-1299702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-1683716476708-3029968.jpg?tf=1200x' alt='Filtrados los precios del Google Pixel 8: hasta 200 euros más caro que el Pixel 7' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-renueva-cambios-importantes-sorpresa-bloc-notas-1299674'>Windows 11 se renueva con cambios importantes y una sorpresa para el bloc de notas</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-renueva-cambios-importantes-sorpresa-bloc-notas-1299674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tecla-windows-11-3117832.jpg?tf=1200x' alt='Windows 11 se renueva con cambios importantes y una sorpresa para el bloc de notas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/son-hackers-sombrero-rojo-meta-google-necesitan-nunca-1299620'>Qué son los 'hackers' de sombrero rojo y por qué Meta o Google los necesitan más que nunca</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/son-hackers-sombrero-rojo-meta-google-necesitan-nunca-1299620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hackers-sombrero-rojo-3125814.jpg?tf=1200x' alt='Qué son los 'hackers' de sombrero rojo y por qué Meta o Google los necesitan más que nunca' />
     </a>
 </div>
 
