@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-alertas-alert-proteccion-civil-tienes-segundo-movil-oculto-1299612'>Cómo desactivar las alertas ES-Alert de Protección Civil si tienes un segundo móvil oculto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desactivar-alertas-alert-proteccion-civil-tienes-segundo-movil-oculto-1299612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-desactivar-alertas-alert-proteccion-civil-tienes-segundo-movil-oculto-3125722.jpg?tf=1200x' alt='Cómo desactivar las alertas ES-Alert de Protección Civil si tienes un segundo móvil oculto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/cambio-novedad-importante-traera-iphone-15-1299588'>Este es el cambio y novedad más importante que traerá el iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/cambio-novedad-importante-traera-iphone-15-1299588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-usb-c-3125752.jpg?tf=1200x' alt='Este es el cambio y novedad más importante que traerá el iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-auto-104-como-activar-beta-disfrutar-nuevo-diseno-asistente-google-1299562'>Android Auto 10.4: cómo activar la beta y disfrutar del nuevo diseño para el Asistente de Google</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-104-como-activar-beta-disfrutar-nuevo-diseno-asistente-google-1299562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/android-auto-3122918.jpg?tf=1200x' alt='Android Auto 10.4: cómo activar la beta y disfrutar del nuevo diseño para el Asistente de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
     <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/tiembla-thermomix-robot-cocina-cuesta-mucho-menos-puedes-comprar-amazon-1299586'>¿Tiembla Thermomix? Este robot de cocina cuesta mucho menos y lo puedes comprar en Amazon</a></h4>
     <a href='https://computerhoy.com/hogar/tiembla-thermomix-robot-cocina-cuesta-mucho-menos-puedes-comprar-amazon-1299586' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mellwerware-tasty-3125692.jpg?tf=1200x' alt='¿Tiembla Thermomix? Este robot de cocina cuesta mucho menos y lo puedes comprar en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tienes-iphone-14-debes-saber-momento-venderlo-1299544'>Si tienes un iPhone 14, debes saber que es momento de venderlo</a></h4>
-    <a href='https://computerhoy.com/apple/tienes-iphone-14-debes-saber-momento-venderlo-1299544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-1677587572246-2969650.jpg?tf=1200x' alt='Si tienes un iPhone 14, debes saber que es momento de venderlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nuevo-fosil-simio-pone-tela-juicio-origenes-africanos-ser-humano-1299536'>Este nuevo fósil de simio pone en tela de juicio los orígenes africanos del ser humano</a></h4>
-    <a href='https://computerhoy.com/ciencia/nuevo-fosil-simio-pone-tela-juicio-origenes-africanos-ser-humano-1299536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fosil-simio-3125406.jpg?tf=1200x' alt='Este nuevo fósil de simio pone en tela de juicio los orígenes africanos del ser humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/historia-google-1296348'>Historia de Google, cómo un buscador se ha convertido en la pieza central de internet y de los móviles</a></h4>
-    <a href='https://computerhoy.com/google/historia-google-1296348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/portada-historia-google-3119880.jpg?tf=1200x' alt='Historia de Google, cómo un buscador se ha convertido en la pieza central de internet y de los móviles' />
     </a>
 </div>
 
