@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/historia-google-1296348'>Historia de Google, cómo un buscador se ha convertido en la pieza central de internet y de los móviles</a></h4>
+    <a href='https://computerhoy.com/google/historia-google-1296348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/portada-historia-google-3119880.jpg?tf=1200x' alt='Historia de Google, cómo un buscador se ha convertido en la pieza central de internet y de los móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/5-chromebooks-menos-300-euros-son-ideales-vuelta-cole-1298988'>5 chromebooks de menos de 300 euros que son ideales para la vuelta al cole</a></h4>
+    <a href='https://computerhoy.com/pc/5-chromebooks-menos-300-euros-son-ideales-vuelta-cole-1298988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/acer-chromebook-714-2808335.jpg?tf=1200x' alt='5 chromebooks de menos de 300 euros que son ideales para la vuelta al cole' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/vuelven-estafas-procesadores-intel-amazon-1299316'>Las estafas con los procesadores vuelven a Amazon: compra un Intel Core i9, y resulta ser un Intel Core i7 camuflado</a></h4>
     <a href='https://computerhoy.com/pc/vuelven-estafas-procesadores-intel-amazon-1299316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/estafas-procesadores-vuelven-amazon-compra-intel-core-i9-realidad-intel-core-i7-camuflado-3125180.jpg?tf=1200x' alt='Las estafas con los procesadores vuelven a Amazon: compra un Intel Core i9, y resulta ser un Intel Core i7 camuflado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/300-participantes-carrera-barro-tough-mudder-infectados-peligrosa-bacteria-1299308'>Más de 300 participantes de una carrera de obstáculos, infectados con una peligrosa bacteria por meterse en el barro</a></h4>
     <a href='https://computerhoy.com/life/300-participantes-carrera-barro-tough-mudder-infectados-peligrosa-bacteria-1299308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/300-participantes-carrera-obstaculos-infectados-peligrosa-bacteria-meterse-barro-3125136.jpg?tf=1200x' alt='Más de 300 participantes de una carrera de obstáculos, infectados con una peligrosa bacteria por meterse en el barro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/lidl-retira-bolsas-patrulla-canina-tienen-web-pornografica-1299300'>Lidl retira todas las bolsas de desayuno de La Patrulla Canina porque tienen un enlace a una web pornográfica</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/lidl-retira-bolsas-patrulla-canina-tienen-web-pornografica-1299300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lidl-retira-todas-bolsas-desayuno-patrulla-canina-porque-tienen-enlace-web-pornografica-3125130.jpg?tf=1200x' alt='Lidl retira todas las bolsas de desayuno de La Patrulla Canina porque tienen un enlace a una web pornográfica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/freidora-aire-tiene-funcion-sorprendentemente-util-hace-precio-sea-autentica-ganga-1297884'>Esta freidora de aire tiene una función sorprendentemente útil que hace que su precio sea una auténtica ganga </a></h4>
-    <a href='https://computerhoy.com/tecnologia/freidora-aire-tiene-funcion-sorprendentemente-util-hace-precio-sea-autentica-ganga-1297884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cecotec-cecofry-rain-3122408.jpg?tf=1200x' alt='Esta freidora de aire tiene una función sorprendentemente útil que hace que su precio sea una auténtica ganga ' />
     </a>
 </div>
 
