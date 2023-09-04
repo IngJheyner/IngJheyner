@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/metodo-eficaz-recuperar-contrasena-gmail-olvidada-1296980'>El método infalible para recuperar tu contraseña de Gmail olvidada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/metodo-eficaz-recuperar-contrasena-gmail-olvidada-1296980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/restablecer-contrasena-gmail-3121132.jpg?tf=1200x' alt='El método infalible para recuperar tu contraseña de Gmail olvidada' />
+    <h4><a href='https://computerhoy.com/tecnologia/jubila-airpods-estos-sorprendentes-auriculares-tienen-caracteristica-sorpresa-son-baratos-1297958'>Jubila tus AirPods: estos sorprendentes auriculares tienen una característica sorpresa y son mucho más baratos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/jubila-airpods-estos-sorprendentes-auriculares-tienen-caracteristica-sorpresa-son-baratos-1297958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/shokz-openmove-3122470.jpg?tf=1200x' alt='Jubila tus AirPods: estos sorprendentes auriculares tienen una característica sorpresa y son mucho más baratos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubren-google-maps-hombre-supuesto-cadaver-envuelto-1299798'>Descubren en Google Maps a un hombre deshaciéndose de un supuesto cadáver a lo Daniel Sancho y las redes enloquecen</a></h4>
-    <a href='https://computerhoy.com/life/descubren-google-maps-hombre-supuesto-cadaver-envuelto-1299798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/descubren-google-maps-hombre-deshaciendose-supuesto-cadaver-daniel-sancho-redes-enloquecen-3126068.jpg?tf=1200x' alt='Descubren en Google Maps a un hombre deshaciéndose de un supuesto cadáver a lo Daniel Sancho y las redes enloquecen' />
+    <h4><a href='https://computerhoy.com/life/encuentran-extrano-orbe-dorado-fondo-oceano-1299880'>Encuentran un extraño orbe dorado en el fondo del océano que fascina a los científicos</a></h4>
+    <a href='https://computerhoy.com/life/encuentran-extrano-orbe-dorado-fondo-oceano-1299880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/encuentran-extrano-orbe-dorado-fondo-oceano-fascina-cientificos-3126180.jpg?tf=1200x' alt='Encuentran un extraño orbe dorado en el fondo del océano que fascina a los científicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/truco-windows-11-hace-carguen-archivos-rapido-1299808'>Este truco en Windows 11 hace que se carguen los archivos en segundos </a></h4>
-    <a href='https://computerhoy.com/windows/truco-windows-11-hace-carguen-archivos-rapido-1299808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carpeta-2925588.jpg?tf=1200x' alt='Este truco en Windows 11 hace que se carguen los archivos en segundos ' />
+    <h4><a href='https://computerhoy.com/life/astronauta-te-avisa-no-deberias-utilizar-movil-antes-dormir-1299876'>Dos estudios de la Estación Espacial Internacional confirman que no deberías utilizar tu móvil antes de dormir</a></h4>
+    <a href='https://computerhoy.com/life/astronauta-te-avisa-no-deberias-utilizar-movil-antes-dormir-1299876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mujer-usa-movil-antes-irse-dormir-3126168.jpg?tf=1200x' alt='Dos estudios de la Estación Espacial Internacional confirman que no deberías utilizar tu móvil antes de dormir' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/navegacion-segura-mejorada-chrome-1298690'>Qué es la navegación segura mejorada en Chrome y por qué debes activarlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/navegacion-segura-mejorada-chrome-1298690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/seguridad-chrome-3124360.jpg?tf=1200x' alt='Qué es la navegación segura mejorada en Chrome y por qué debes activarlo ahora mismo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/filmin-anade-75-peliculas-clasicas-warner-estrenos-como-barbie-1299872'>Filmin llega a un acuerdo con Warner para añadir a su catálogo 75 películas clásicas, y estrenos como Barbie</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/filmin-anade-75-peliculas-clasicas-warner-estrenos-como-barbie-1299872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/filmin-llega-acuerdo-warner-anadir-catalogo-75-peliculas-clasicas-estrenos-como-barbie-3126136.jpg?tf=1200x' alt='Filmin llega a un acuerdo con Warner para añadir a su catálogo 75 películas clásicas, y estrenos como Barbie' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/bosch-crea-revolucionario-motor-invertido-coches-electricos-doble-voltaje-1299780'>Bosch crea un revolucionario motor invertido para coches eléctricos con el doble de voltaje y mucho más pequeño, que podría cambiarlo todo</a></h4>
-    <a href='https://computerhoy.com/motor/bosch-crea-revolucionario-motor-invertido-coches-electricos-doble-voltaje-1299780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bosch-crea-revolucionario-motor-invertido-coches-electricos-doble-voltaje-potencia-podria-cambiarlo-todo-3126030.jpg?tf=1200x' alt='Bosch crea un revolucionario motor invertido para coches eléctricos con el doble de voltaje y mucho más pequeño, que podría cambiarlo todo' />
+    <h4><a href='https://computerhoy.com/motor/apple-patenta-coche-autonomo-llega-apple-car-1299854'>Apple patenta un coche autónomo: ¿Llega el Apple Car?</a></h4>
+    <a href='https://computerhoy.com/motor/apple-patenta-coche-autonomo-llega-apple-car-1299854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-car-2712511.jpg?tf=1200x' alt='Apple patenta un coche autónomo: ¿Llega el Apple Car?' />
     </a>
 </div>
 
