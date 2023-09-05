@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/mapa-mejor-queso-cada-provincia-espanola-has-probado-todos-1299896'>El mapa con el mejor queso de cada provincia española, ¿los has probado todos?</a></h4>
+    <a href='https://computerhoy.com/alimentacion/mapa-mejor-queso-cada-provincia-espanola-has-probado-todos-1299896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mapa-quesos-espana-3093024.jpg?tf=1200x' alt='El mapa con el mejor queso de cada provincia española, ¿los has probado todos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/razon-no-debes-comprar-amazon-fire-tv-1299892'>Esta es la razón por la que no debes comprar un Amazon Fire TV  </a></h4>
     <a href='https://computerhoy.com/amazon/razon-no-debes-comprar-amazon-fire-tv-1299892' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-fire-tv-3046036.jpg?tf=1200x' alt='Esta es la razón por la que no debes comprar un Amazon Fire TV  ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/astronauta-te-avisa-no-deberias-utilizar-movil-antes-dormir-1299876'>Dos estudios de la Estación Espacial Internacional confirman que no deberías utilizar tu móvil antes de dormir</a></h4>
     <a href='https://computerhoy.com/life/astronauta-te-avisa-no-deberias-utilizar-movil-antes-dormir-1299876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mujer-usa-movil-antes-irse-dormir-3126168.jpg?tf=1200x' alt='Dos estudios de la Estación Espacial Internacional confirman que no deberías utilizar tu móvil antes de dormir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/filmin-anade-75-peliculas-clasicas-warner-estrenos-como-barbie-1299872'>Filmin llega a un acuerdo con Warner para añadir a su catálogo 75 películas clásicas, y estrenos como Barbie</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/filmin-anade-75-peliculas-clasicas-warner-estrenos-como-barbie-1299872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/filmin-llega-acuerdo-warner-anadir-catalogo-75-peliculas-clasicas-estrenos-como-barbie-3126136.jpg?tf=1200x' alt='Filmin llega a un acuerdo con Warner para añadir a su catálogo 75 películas clásicas, y estrenos como Barbie' />
     </a>
 </div>
 
