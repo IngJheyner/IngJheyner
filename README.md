@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/regreso-mas-esperado-marvel-loki-temporada-2-1300482'>El regreso más esperado de Marvel, calienta motores para su estreno con un nuevo tráiler</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/regreso-mas-esperado-marvel-loki-temporada-2-1300482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/loki-temporada-2-3097184.jpg?tf=1200x' alt='El regreso más esperado de Marvel, calienta motores para su estreno con un nuevo tráiler' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/whatsapp-prepara-nueva-interfaz-1300438'>WhatsApp prepara una nueva interfaz</a></h4>
     <a href='https://computerhoy.com/tecnologia/whatsapp-prepara-nueva-interfaz-1300438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/5-argumentos-deberias-plantearte-dejar-usar-whatsapp-3070774.jpg?tf=1200x' alt='WhatsApp prepara una nueva interfaz' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
     <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-tiburon-400-anos-miles-kilometros-habitat-1300450'>Descubren un tiburón de 400 años a miles de kilómetros de su hábitat</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-tiburon-400-anos-miles-kilometros-habitat-1300450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/tiburon-tiene-400-anos-nacio-cuando-piratas-caribe-dominaban-mares-2480203.jpg?tf=1200x' alt='Descubren un tiburón de 400 años a miles de kilómetros de su hábitat' />
     </a>
 </div>
 
