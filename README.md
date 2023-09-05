@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-microsoft-quieren-librarse-nueva-normativa-ue-imessage-bing-1300162'>Apple y Microsoft quieren librarse de la nueva normativa de la UE para iMessage y Bing</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-microsoft-quieren-librarse-nueva-normativa-ue-imessage-bing-1300162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ley-mercados-digitales-ue-3126548.jpg?tf=1200x' alt='Apple y Microsoft quieren librarse de la nueva normativa de la UE para iMessage y Bing' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/guerra-precios-producto-apple-muy-buscado-amazon-media-markt-rebajan-200-euros-1300114'>Guerra de precios en un producto Apple muy buscado: Amazon y Media Markt lo rebajan en 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guerra-precios-producto-apple-muy-buscado-amazon-media-markt-rebajan-200-euros-1300114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-watch-ultra-2927740.jpg?tf=1200x' alt='Guerra de precios en un producto Apple muy buscado: Amazon y Media Markt lo rebajan en 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-usb-c-iphone-15-transicion-forzada-da-lugar-jugada-maestra-1300126'>Apple y el USB-C en el iPhone 15: una transición forzada que da lugar a una jugada maestra</a></h4>
+    <a href='https://computerhoy.com/apple/apple-usb-c-iphone-15-transicion-forzada-da-lugar-jugada-maestra-1300126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/toca-esperar-nuevo-iphone-15-podria-retrasarse-problemas-fabricacion-3091336.jpg?tf=1200x' alt='Apple y el USB-C en el iPhone 15: una transición forzada que da lugar a una jugada maestra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/keynote-2023-esperamos-evento-apple-1299714'>Keynote 2023: qué esperar del evento de Apple el 12 de septiembre</a></h4>
+    <a href='https://computerhoy.com/apple/keynote-2023-esperamos-evento-apple-1299714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='Keynote 2023: qué esperar del evento de Apple el 12 de septiembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/sistema-antirrobo-mas-eficaz-niebla-antiladrones-1300094'>El sistema antirrobo más eficaz: la niebla antiladrones</a></h4>
     <a href='https://computerhoy.com/life/sistema-antirrobo-mas-eficaz-niebla-antiladrones-1300094' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1693881928695-3126400.jpg?tf=1200x' alt='El sistema antirrobo más eficaz: la niebla antiladrones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/mapa-mejor-queso-cada-provincia-espanola-has-probado-todos-1299896'>El mapa con el mejor queso de cada provincia española, ¿los has probado todos?</a></h4>
-    <a href='https://computerhoy.com/alimentacion/mapa-mejor-queso-cada-provincia-espanola-has-probado-todos-1299896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mapa-quesos-espana-3093024.jpg?tf=1200x' alt='El mapa con el mejor queso de cada provincia española, ¿los has probado todos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/razon-no-debes-comprar-amazon-fire-tv-1299892'>Esta es la razón por la que no debes comprar un Amazon Fire TV  </a></h4>
-    <a href='https://computerhoy.com/amazon/razon-no-debes-comprar-amazon-fire-tv-1299892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-fire-tv-3046036.jpg?tf=1200x' alt='Esta es la razón por la que no debes comprar un Amazon Fire TV  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jubila-airpods-estos-sorprendentes-auriculares-tienen-caracteristica-sorpresa-son-baratos-1297958'>Jubila tus AirPods: estos sorprendentes auriculares tienen una característica sorpresa y son mucho más baratos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jubila-airpods-estos-sorprendentes-auriculares-tienen-caracteristica-sorpresa-son-baratos-1297958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/shokz-openmove-3122470.jpg?tf=1200x' alt='Jubila tus AirPods: estos sorprendentes auriculares tienen una característica sorpresa y son mucho más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/encuentran-extrano-orbe-dorado-fondo-oceano-1299880'>Encuentran un extraño orbe dorado en el fondo del océano que fascina a los científicos</a></h4>
-    <a href='https://computerhoy.com/life/encuentran-extrano-orbe-dorado-fondo-oceano-1299880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/encuentran-extrano-orbe-dorado-fondo-oceano-fascina-cientificos-3126180.jpg?tf=1200x' alt='Encuentran un extraño orbe dorado en el fondo del océano que fascina a los científicos' />
     </a>
 </div>
 
