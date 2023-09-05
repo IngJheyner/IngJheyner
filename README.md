@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/nueva-estafa-shiba-inu-protege-criptomonedas-siguiendo-estos-sencillos-pasos-1300314'>Nueva estafa en Shiba Inu: protege tus criptomonedas siguiendo estos sencillos pasos</a></h4>
+    <a href='https://computerhoy.com/criptos/nueva-estafa-shiba-inu-protege-criptomonedas-siguiendo-estos-sencillos-pasos-1300314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg?tf=1200x' alt='Nueva estafa en Shiba Inu: protege tus criptomonedas siguiendo estos sencillos pasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/10-rumores-confirman-iphone-15-sera-revolucionario-piensas-1300262'>10 rumores que confirman que el iPhone 15 será mucho más revolucionario de lo que imaginas</a></h4>
+    <a href='https://computerhoy.com/apple/10-rumores-confirman-iphone-15-sera-revolucionario-piensas-1300262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/extranas-predicciones-hablan-peor-rendimiento-iphone-15-pro-pro-max-2024-3057268.jpg?tf=1200x' alt='10 rumores que confirman que el iPhone 15 será mucho más revolucionario de lo que imaginas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/iphone-15-pro-ultra-todo-sabe-iphone-caro-potente-historia-1300190'>El más caro y más potente de la historia de Apple: así será el iPhone 15 Pro Ultra</a></h4>
     <a href='https://computerhoy.com/apple/iphone-15-pro-ultra-todo-sabe-iphone-caro-potente-historia-1300190' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-15-pro-precio-3107840.jpg?tf=1200x' alt='El más caro y más potente de la historia de Apple: así será el iPhone 15 Pro Ultra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-lia-grande-ipad-pro-mitad-precio-espacio-sobra-1300200'>Amazon la lía en grande con el iPad Pro, a mitad de precio y con espacio más que de sobra</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-lia-grande-ipad-pro-mitad-precio-espacio-sobra-1300200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ipad-pro-3126616.jpg?tf=1200x' alt='Amazon la lía en grande con el iPad Pro, a mitad de precio y con espacio más que de sobra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/recortar-bloquear-ventanas-windows-11-como-hacerlo-powertoys-1300182'>Recortar y bloquear ventanas en Windows 11: cómo hacerlo con PowerToys</a></h4>
-    <a href='https://computerhoy.com/windows/recortar-bloquear-ventanas-windows-11-como-hacerlo-powertoys-1300182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/powertoys-2693149.jpg?tf=1200x' alt='Recortar y bloquear ventanas en Windows 11: cómo hacerlo con PowerToys' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-sms-fraudulentos-banco-cada-vez-sofisticados-1300176'>Alerta por SMS fraudulentos cada vez más sofisticados: así es como consiguen engañarte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/alerta-sms-fraudulentos-banco-cada-vez-sofisticados-1300176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sms-fraudulentos-3126590.jpg?tf=1200x' alt='Alerta por SMS fraudulentos cada vez más sofisticados: así es como consiguen engañarte' />
     </a>
 </div>
 
