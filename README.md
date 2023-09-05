@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-quitar-anadir-nuevas-aplicaciones-android-auto-1300088'>Cómo quitar y añadir nuevas aplicaciones en Android Auto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-quitar-anadir-nuevas-aplicaciones-android-auto-1300088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/android-auto-2064651.jpg?tf=1200x' alt='Cómo quitar y añadir nuevas aplicaciones en Android Auto' />
+    <h4><a href='https://computerhoy.com/tecnologia/ultimo-misterioso-mensaje-secreto-enigma-ni-superordenadores-actuales-has-conseguido-descifrar-1299878'>El último y misterioso mensaje secreto de Enigma que ni los superordenadores actuales has conseguido descifrar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ultimo-misterioso-mensaje-secreto-enigma-ni-superordenadores-actuales-has-conseguido-descifrar-1299878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/misterioso-codigo-enigma-3126196.jpg?tf=1200x' alt='El último y misterioso mensaje secreto de Enigma que ni los superordenadores actuales has conseguido descifrar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/nueva-estafa-shiba-inu-protege-criptomonedas-siguiendo-estos-sencillos-pasos-1300314'>Nueva estafa en Shiba Inu: protege tus criptomonedas siguiendo estos sencillos pasos</a></h4>
-    <a href='https://computerhoy.com/criptos/nueva-estafa-shiba-inu-protege-criptomonedas-siguiendo-estos-sencillos-pasos-1300314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg?tf=1200x' alt='Nueva estafa en Shiba Inu: protege tus criptomonedas siguiendo estos sencillos pasos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/revisa-bien-movil-te-has-unido-telegram-recientemente-podrias-estar-peligro-1300370'>Revisa bien tu móvil si te has unido a Telegram recientemente, podrías estar en peligro</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/revisa-bien-movil-te-has-unido-telegram-recientemente-podrias-estar-peligro-1300370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/logo-telegram-3d-2523067.jpg?tf=1200x' alt='Revisa bien tu móvil si te has unido a Telegram recientemente, podrías estar en peligro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/10-rumores-confirman-iphone-15-sera-revolucionario-piensas-1300262'>10 rumores que confirman que el iPhone 15 será mucho más revolucionario de lo que imaginas</a></h4>
-    <a href='https://computerhoy.com/apple/10-rumores-confirman-iphone-15-sera-revolucionario-piensas-1300262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/extranas-predicciones-hablan-peor-rendimiento-iphone-15-pro-pro-max-2024-3057268.jpg?tf=1200x' alt='10 rumores que confirman que el iPhone 15 será mucho más revolucionario de lo que imaginas' />
+    <h4><a href='https://computerhoy.com/tutoriales/reto-121212-como-puedes-aplicarlo-eliminar-desorden-1300092'>Qué es el reto 12:12:12 y cómo puedes aplicarlo en tu vida para eliminar el desorden para siempre</a></h4>
+    <a href='https://computerhoy.com/tutoriales/reto-121212-como-puedes-aplicarlo-eliminar-desorden-1300092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/escritorio-desordenado.jpg?tf=1200x' alt='Qué es el reto 12:12:12 y cómo puedes aplicarlo en tu vida para eliminar el desorden para siempre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-15-pro-ultra-todo-sabe-iphone-caro-potente-historia-1300190'>El más caro y más potente de la historia de Apple: así será el iPhone 15 Pro Ultra</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-15-pro-ultra-todo-sabe-iphone-caro-potente-historia-1300190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-15-pro-precio-3107840.jpg?tf=1200x' alt='El más caro y más potente de la historia de Apple: así será el iPhone 15 Pro Ultra' />
+    <h4><a href='https://computerhoy.com/life/autentica-no-te-estan-enganando-nueva-moneda-pronto-veras-espana-1300366'>Es auténtica y no te están engañando: así es la nueva moneda que pronto verás en España</a></h4>
+    <a href='https://computerhoy.com/life/autentica-no-te-estan-enganando-nueva-moneda-pronto-veras-espana-1300366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/autentica-no-te-estan-enganando-nueva-moneda-pronto-veras-espana-3126904.jpg?tf=1200x' alt='Es auténtica y no te están engañando: así es la nueva moneda que pronto verás en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/startup-promete-10000-tb-almacenamiento-gracias-ceramica-1300226'>Todo gracias a la cerámica: esta startup promete almacenamiento de datos de hasta 10.000 TB en un avance nunca visto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/startup-promete-10000-tb-almacenamiento-gracias-ceramica-1300226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/almacenamiento-datos-3126738.jpg?tf=1200x' alt='Todo gracias a la cerámica: esta startup promete almacenamiento de datos de hasta 10.000 TB en un avance nunca visto' />
+    <h4><a href='https://computerhoy.com/windows/posible-usar-windows-7-8-81-10-11-mismo-ordenador-desarrollador-ha-conseguido-1300354'>Winception: este desarrollador ha conseguido que Windows 7 funcione en Windows 8 sobre Windows 8.1, Windows 10 y Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/posible-usar-windows-7-8-81-10-11-mismo-ordenador-desarrollador-ha-conseguido-1300354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/posible-usar-windows-7-8-81-10-11-mismo-ordenador-desarrollador-ha-conseguido-3126880.jpg?tf=1200x' alt='Winception: este desarrollador ha conseguido que Windows 7 funcione en Windows 8 sobre Windows 8.1, Windows 10 y Windows 11' />
     </a>
 </div>
 
