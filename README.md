@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/razon-no-debes-comprar-amazon-fire-tv-1299892'>Esta es la razón por la que no debes comprar un Amazon Fire TV  </a></h4>
+    <a href='https://computerhoy.com/amazon/razon-no-debes-comprar-amazon-fire-tv-1299892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-fire-tv-3046036.jpg?tf=1200x' alt='Esta es la razón por la que no debes comprar un Amazon Fire TV  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/jubila-airpods-estos-sorprendentes-auriculares-tienen-caracteristica-sorpresa-son-baratos-1297958'>Jubila tus AirPods: estos sorprendentes auriculares tienen una característica sorpresa y son mucho más baratos</a></h4>
     <a href='https://computerhoy.com/tecnologia/jubila-airpods-estos-sorprendentes-auriculares-tienen-caracteristica-sorpresa-son-baratos-1297958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/shokz-openmove-3122470.jpg?tf=1200x' alt='Jubila tus AirPods: estos sorprendentes auriculares tienen una característica sorpresa y son mucho más baratos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/filmin-anade-75-peliculas-clasicas-warner-estrenos-como-barbie-1299872'>Filmin llega a un acuerdo con Warner para añadir a su catálogo 75 películas clásicas, y estrenos como Barbie</a></h4>
     <a href='https://computerhoy.com/entretenimiento/filmin-anade-75-peliculas-clasicas-warner-estrenos-como-barbie-1299872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/filmin-llega-acuerdo-warner-anadir-catalogo-75-peliculas-clasicas-estrenos-como-barbie-3126136.jpg?tf=1200x' alt='Filmin llega a un acuerdo con Warner para añadir a su catálogo 75 películas clásicas, y estrenos como Barbie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/apple-patenta-coche-autonomo-llega-apple-car-1299854'>Apple patenta un coche autónomo: ¿Llega el Apple Car?</a></h4>
-    <a href='https://computerhoy.com/motor/apple-patenta-coche-autonomo-llega-apple-car-1299854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/apple-car-2712511.jpg?tf=1200x' alt='Apple patenta un coche autónomo: ¿Llega el Apple Car?' />
     </a>
 </div>
 
