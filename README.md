@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/sistema-antirrobo-mas-eficaz-niebla-antiladrones-1300094'>El sistema antirrobo más eficaz: la niebla antiladrones</a></h4>
+    <a href='https://computerhoy.com/life/sistema-antirrobo-mas-eficaz-niebla-antiladrones-1300094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1693881928695-3126400.jpg?tf=1200x' alt='El sistema antirrobo más eficaz: la niebla antiladrones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/mapa-mejor-queso-cada-provincia-espanola-has-probado-todos-1299896'>El mapa con el mejor queso de cada provincia española, ¿los has probado todos?</a></h4>
     <a href='https://computerhoy.com/alimentacion/mapa-mejor-queso-cada-provincia-espanola-has-probado-todos-1299896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mapa-quesos-espana-3093024.jpg?tf=1200x' alt='El mapa con el mejor queso de cada provincia española, ¿los has probado todos?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/encuentran-extrano-orbe-dorado-fondo-oceano-1299880'>Encuentran un extraño orbe dorado en el fondo del océano que fascina a los científicos</a></h4>
     <a href='https://computerhoy.com/life/encuentran-extrano-orbe-dorado-fondo-oceano-1299880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/encuentran-extrano-orbe-dorado-fondo-oceano-fascina-cientificos-3126180.jpg?tf=1200x' alt='Encuentran un extraño orbe dorado en el fondo del océano que fascina a los científicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/astronauta-te-avisa-no-deberias-utilizar-movil-antes-dormir-1299876'>Dos estudios de la Estación Espacial Internacional confirman que no deberías utilizar tu móvil antes de dormir</a></h4>
-    <a href='https://computerhoy.com/life/astronauta-te-avisa-no-deberias-utilizar-movil-antes-dormir-1299876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mujer-usa-movil-antes-irse-dormir-3126168.jpg?tf=1200x' alt='Dos estudios de la Estación Espacial Internacional confirman que no deberías utilizar tu móvil antes de dormir' />
     </a>
 </div>
 
