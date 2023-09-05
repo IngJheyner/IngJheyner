@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-microsoft-quieren-librarse-nueva-normativa-ue-imessage-bing-1300162'>Apple y Microsoft quieren librarse de la nueva normativa de la UE para iMessage y Bing</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-microsoft-quieren-librarse-nueva-normativa-ue-imessage-bing-1300162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ley-mercados-digitales-ue-3126548.jpg?tf=1200x' alt='Apple y Microsoft quieren librarse de la nueva normativa de la UE para iMessage y Bing' />
+    <h4><a href='https://computerhoy.com/apple/iphone-15-pro-ultra-todo-sabe-iphone-caro-potente-historia-1300190'>El más caro y más potente de la historia de Apple: así será el iPhone 15 Pro Ultra</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-15-pro-ultra-todo-sabe-iphone-caro-potente-historia-1300190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-15-pro-precio-3107840.jpg?tf=1200x' alt='El más caro y más potente de la historia de Apple: así será el iPhone 15 Pro Ultra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guerra-precios-producto-apple-muy-buscado-amazon-media-markt-rebajan-200-euros-1300114'>Guerra de precios en un producto Apple muy buscado: Amazon y Media Markt lo rebajan en 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guerra-precios-producto-apple-muy-buscado-amazon-media-markt-rebajan-200-euros-1300114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-watch-ultra-2927740.jpg?tf=1200x' alt='Guerra de precios en un producto Apple muy buscado: Amazon y Media Markt lo rebajan en 200 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/startup-promete-10000-tb-almacenamiento-gracias-ceramica-1300226'>Todo gracias a la cerámica: esta startup promete almacenamiento de datos de hasta 10.000 TB en un avance nunca visto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/startup-promete-10000-tb-almacenamiento-gracias-ceramica-1300226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/almacenamiento-datos-3126738.jpg?tf=1200x' alt='Todo gracias a la cerámica: esta startup promete almacenamiento de datos de hasta 10.000 TB en un avance nunca visto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-usb-c-iphone-15-transicion-forzada-da-lugar-jugada-maestra-1300126'>Apple y el USB-C en el iPhone 15: una transición forzada que da lugar a una jugada maestra</a></h4>
-    <a href='https://computerhoy.com/apple/apple-usb-c-iphone-15-transicion-forzada-da-lugar-jugada-maestra-1300126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/toca-esperar-nuevo-iphone-15-podria-retrasarse-problemas-fabricacion-3091336.jpg?tf=1200x' alt='Apple y el USB-C en el iPhone 15: una transición forzada que da lugar a una jugada maestra' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-lia-grande-ipad-pro-mitad-precio-espacio-sobra-1300200'>Amazon la lía en grande con el iPad Pro, a mitad de precio y con espacio más que de sobra</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-lia-grande-ipad-pro-mitad-precio-espacio-sobra-1300200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ipad-pro-3126616.jpg?tf=1200x' alt='Amazon la lía en grande con el iPad Pro, a mitad de precio y con espacio más que de sobra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/keynote-2023-esperamos-evento-apple-1299714'>Keynote 2023: qué esperar del evento de Apple el 12 de septiembre</a></h4>
-    <a href='https://computerhoy.com/apple/keynote-2023-esperamos-evento-apple-1299714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='Keynote 2023: qué esperar del evento de Apple el 12 de septiembre' />
+    <h4><a href='https://computerhoy.com/windows/recortar-bloquear-ventanas-windows-11-como-hacerlo-powertoys-1300182'>Recortar y bloquear ventanas en Windows 11: cómo hacerlo con PowerToys</a></h4>
+    <a href='https://computerhoy.com/windows/recortar-bloquear-ventanas-windows-11-como-hacerlo-powertoys-1300182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/powertoys-2693149.jpg?tf=1200x' alt='Recortar y bloquear ventanas en Windows 11: cómo hacerlo con PowerToys' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sistema-antirrobo-mas-eficaz-niebla-antiladrones-1300094'>El sistema antirrobo más eficaz: la niebla antiladrones</a></h4>
-    <a href='https://computerhoy.com/life/sistema-antirrobo-mas-eficaz-niebla-antiladrones-1300094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1693881928695-3126400.jpg?tf=1200x' alt='El sistema antirrobo más eficaz: la niebla antiladrones' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-sms-fraudulentos-banco-cada-vez-sofisticados-1300176'>Alerta por SMS fraudulentos cada vez más sofisticados: así es como consiguen engañarte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/alerta-sms-fraudulentos-banco-cada-vez-sofisticados-1300176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sms-fraudulentos-3126590.jpg?tf=1200x' alt='Alerta por SMS fraudulentos cada vez más sofisticados: así es como consiguen engañarte' />
     </a>
 </div>
 
