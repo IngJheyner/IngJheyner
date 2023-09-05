@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-quitar-anadir-nuevas-aplicaciones-android-auto-1300088'>Cómo quitar y añadir nuevas aplicaciones en Android Auto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-quitar-anadir-nuevas-aplicaciones-android-auto-1300088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/android-auto-2064651.jpg?tf=1200x' alt='Cómo quitar y añadir nuevas aplicaciones en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/nueva-estafa-shiba-inu-protege-criptomonedas-siguiendo-estos-sencillos-pasos-1300314'>Nueva estafa en Shiba Inu: protege tus criptomonedas siguiendo estos sencillos pasos</a></h4>
     <a href='https://computerhoy.com/criptos/nueva-estafa-shiba-inu-protege-criptomonedas-siguiendo-estos-sencillos-pasos-1300314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg?tf=1200x' alt='Nueva estafa en Shiba Inu: protege tus criptomonedas siguiendo estos sencillos pasos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/startup-promete-10000-tb-almacenamiento-gracias-ceramica-1300226'>Todo gracias a la cerámica: esta startup promete almacenamiento de datos de hasta 10.000 TB en un avance nunca visto</a></h4>
     <a href='https://computerhoy.com/tecnologia/startup-promete-10000-tb-almacenamiento-gracias-ceramica-1300226' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/almacenamiento-datos-3126738.jpg?tf=1200x' alt='Todo gracias a la cerámica: esta startup promete almacenamiento de datos de hasta 10.000 TB en un avance nunca visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-lia-grande-ipad-pro-mitad-precio-espacio-sobra-1300200'>Amazon la lía en grande con el iPad Pro, a mitad de precio y con espacio más que de sobra</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-lia-grande-ipad-pro-mitad-precio-espacio-sobra-1300200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ipad-pro-3126616.jpg?tf=1200x' alt='Amazon la lía en grande con el iPad Pro, a mitad de precio y con espacio más que de sobra' />
     </a>
 </div>
 
