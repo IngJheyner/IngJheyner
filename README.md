@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/unicas-fotos-superficie-venus-1219832'>Estas son las únicas fotos que existen de la superficie de Venus, por una buena razón</a></h4>
-    <a href='https://computerhoy.com/espacio/unicas-fotos-superficie-venus-1219832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estas-son-unicas-fotos-existen-superficie-venus-buena-razon-2991728.jpg?tf=1200x' alt='Estas son las únicas fotos que existen de la superficie de Venus, por una buena razón' />
+    <h4><a href='https://computerhoy.com/entretenimiento/cuidado-letra-pequena-oferta-2-euros-disney-1300958'>Cuidado con la letra pequeña de la oferta de 2 euros de Disney+, esconde una subida de cuotas y te apunta a la más cara</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cuidado-letra-pequena-oferta-2-euros-disney-1300958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cuidado-letra-pequena-oferta-2-euros-disney-esconde-subida-tarifas-3127728.jpg?tf=1200x' alt='Cuidado con la letra pequeña de la oferta de 2 euros de Disney+, esconde una subida de cuotas y te apunta a la más cara' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-desastre-audio-hacer-actualizacion-te-afecta-google-no-te-ayuda-1300844'>Android Auto y el desastre del audio: qué hacer si la actualización te afecta y Google no te ayuda</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-desastre-audio-hacer-actualizacion-te-afecta-google-no-te-ayuda-1300844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-activar-modo-dios-android-auto-3099448.jpg?tf=1200x' alt='Android Auto y el desastre del audio: qué hacer si la actualización te afecta y Google no te ayuda' />
+    <h4><a href='https://computerhoy.com/internet/terra-nullius-extranos-lugares-tierra-nadie-reclama-no-estan-dominio-ningun-pais-1298752'>Terra nullius: los extraños lugares en la Tierra que nadie reclama y que no están bajo el dominio de ningún país</a></h4>
+    <a href='https://computerhoy.com/internet/terra-nullius-extranos-lugares-tierra-nadie-reclama-no-estan-dominio-ningun-pais-1298752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tierra-2941442.jpg?tf=1200x' alt='Terra nullius: los extraños lugares en la Tierra que nadie reclama y que no están bajo el dominio de ningún país' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/luna-poco-poco-aleja-tierra-revela-nuevo-estudio-1300816'>¿Te faltan horas en el día?, la Luna poco a poco se aleja de la Tierra y en el futuro serán más largos</a></h4>
-    <a href='https://computerhoy.com/espacio/luna-poco-poco-aleja-tierra-revela-nuevo-estudio-1300816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/luna-tierra-3127498.jpg?tf=1200x' alt='¿Te faltan horas en el día?, la Luna poco a poco se aleja de la Tierra y en el futuro serán más largos' />
+    <h4><a href='https://computerhoy.com/moviles/nuevo-realme-c51-llega-espana-precio-caracteristicas-disponibilidad-1300946'>El nuevo Realme C51 llega a España: precio, características y disponibilidad</a></h4>
+    <a href='https://computerhoy.com/moviles/nuevo-realme-c51-llega-espana-precio-caracteristicas-disponibilidad-1300946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nuevo-realme-c51-llega-espana-precio-caracteristicas-disponibilidad-3127724.jpg?tf=1200x' alt='El nuevo Realme C51 llega a España: precio, características y disponibilidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/locura-xiaomi-amazon-patinetes-relojes-mucho-48-baratos-1300730'>Locura Xiaomi en Amazon: patinetes, relojes y mucho más hasta un 48% más baratos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/locura-xiaomi-amazon-patinetes-relojes-mucho-48-baratos-1300730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-store-tienda-3127310.jpg?tf=1200x' alt='Locura Xiaomi en Amazon: patinetes, relojes y mucho más hasta un 48% más baratos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-gratis-video-youtube-movil-android-1300486'>Cómo descargar gratis un vídeo de YouTube en un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-gratis-video-youtube-movil-android-1300486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-descargar-gratis-video-youtube-movil-android-3127288.jpg?tf=1200x' alt='Cómo descargar gratis un vídeo de YouTube en un móvil Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/antiguo-vuelve-cinta-capacidad-50-tb-almacenamiento-datos-1300792'>Lo antiguo nunca muere: Fujifilm e IBM presentan una cinta de 50 TB para el almacenamiento de datos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/antiguo-vuelve-cinta-capacidad-50-tb-almacenamiento-datos-1300792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/almacenamiento-datos-cinta-3127436.jpg?tf=1200x' alt='Lo antiguo nunca muere: Fujifilm e IBM presentan una cinta de 50 TB para el almacenamiento de datos' />
+    <h4><a href='https://computerhoy.com/windows/algunas-aplicaciones-viejas-dejaran-funcionar-windows-11-1300922'>Por qué algunas aplicaciones viejas dejarán de funcionar con Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/algunas-aplicaciones-viejas-dejaran-funcionar-windows-11-1300922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/error-windows-11-3118674.jpg?tf=1200x' alt='Por qué algunas aplicaciones viejas dejarán de funcionar con Windows 11' />
     </a>
 </div>
 
