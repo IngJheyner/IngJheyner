@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sorprendente-historia-sindrome-estocolmo-1298924'>La sorprendente historia del síndrome de Estocolmo: ¿por qué las víctimas se enamoran de sus captores?</a></h4>
-    <a href='https://computerhoy.com/life/sorprendente-historia-sindrome-estocolmo-1298924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sorprendente-historia-sindrome-estocolmo-victimas-enamoran-captores-3124600.jpg?tf=1200x' alt='La sorprendente historia del síndrome de Estocolmo: ¿por qué las víctimas se enamoran de sus captores?' />
+    <h4><a href='https://computerhoy.com/gaming/nintendo-primeras-gafas-realidad-virtual-1301086'>Aseguran que Nintendo está preparando unas NintenQuest: sus primeras gafas de realidad virtual autónomas</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-primeras-gafas-realidad-virtual-1301086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/aseguran-nintendo-preparando-unas-nintenquest-primeras-gafas-realidad-virtual-autonomas-3128004.jpg?tf=1200x' alt='Aseguran que Nintendo está preparando unas NintenQuest: sus primeras gafas de realidad virtual autónomas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/usb-c-iphone-15-podria-convertirse-pesadilla-muchos-1301004'>El USB-C del iPhone 15 podría convertirse en una pesadilla para muchos, mientras Apple se frota las manos</a></h4>
-    <a href='https://computerhoy.com/apple/usb-c-iphone-15-podria-convertirse-pesadilla-muchos-1301004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-usb-c-3125752.jpg?tf=1200x' alt='El USB-C del iPhone 15 podría convertirse en una pesadilla para muchos, mientras Apple se frota las manos' />
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-va-apple-samsung-auriculares-gratis-movil-barato-top-1300266'>Google va a por Apple y Samsung: auriculares gratis con su móvil barato más top</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-va-apple-samsung-auriculares-gratis-movil-barato-top-1300266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-pixel-7a-pixel-buds-3126742.jpg?tf=1200x' alt='Google va a por Apple y Samsung: auriculares gratis con su móvil barato más top' />
+    <h4><a href='https://computerhoy.com/tecnologia/warner-music-sorprende-primera-cantante-generada-inteligencia-artificial-1301064'>Warner Music firma el primer contrato discográfico con una cantante generada por Inteligencia Artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/warner-music-sorprende-primera-cantante-generada-inteligencia-artificial-1301064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/noonoouri-3127962.jpg?tf=1200x' alt='Warner Music firma el primer contrato discográfico con una cantante generada por Inteligencia Artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-propia-lista-iptv-personalizada-32000-canales-tv-gratis-todo-mundo-1300712'>Cómo crear tu propia lista IPTV personalizada con hasta 32.000 canales de TV gratis de todo el mundo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-propia-lista-iptv-personalizada-32000-canales-tv-gratis-todo-mundo-1300712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-crear-propia-lista-iptv-personalizada-32000-canales-tv-gratis-todo-mundo-3127328.jpg?tf=1200x' alt='Cómo crear tu propia lista IPTV personalizada con hasta 32.000 canales de TV gratis de todo el mundo' />
+    <h4><a href='https://computerhoy.com/pc/tarjeta-8-ssd-puede-copiar-juego-110-gb-2-segundos-1301066'>Esta tarjeta con ocho SSD puede copiar un juego que ocupa 110 GB, como Starfield, en dos segundos</a></h4>
+    <a href='https://computerhoy.com/pc/tarjeta-8-ssd-puede-copiar-juego-110-gb-2-segundos-1301066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tarjeta-8-ssds-puede-copiar-juego-ocupa-110-gb-como-starfield-2-segundos-3127294.jpg?tf=1200x' alt='Esta tarjeta con ocho SSD puede copiar un juego que ocupa 110 GB, como Starfield, en dos segundos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dana-espana-podria-enfrentarse-algo-incluso-peor-efecto-fujiwhara-1300984'>Tras la DANA, España podría enfrentarse a algo incluso peor: el efecto Fujiwhara</a></h4>
-    <a href='https://computerhoy.com/life/dana-espana-podria-enfrentarse-algo-incluso-peor-efecto-fujiwhara-1300984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/dana-espana-podria-enfrentarse-algo-incluso-peor-efecto-fujiwhara-3127772.jpg?tf=1200x' alt='Tras la DANA, España podría enfrentarse a algo incluso peor: el efecto Fujiwhara' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-tamagotchi-poco-etico-tumba-seguridad-iphone-1301058'>Flipper Zero, el Tamagotchi que consigue poner en jaque la seguridad de los iPhone</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-tamagotchi-poco-etico-tumba-seguridad-iphone-1301058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/zipper-zero-3127956.jpg?tf=1200x' alt='Flipper Zero, el Tamagotchi que consigue poner en jaque la seguridad de los iPhone' />
     </a>
 </div>
 
