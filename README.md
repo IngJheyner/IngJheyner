@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/habra-esperar-mes-tener-manos-nuevo-iphone-15-pro-max-1300770'>Toca esperar hasta un mes para tener en tus manos el iPhone 15 Pro Max según filtraciones</a></h4>
+    <a href='https://computerhoy.com/apple/habra-esperar-mes-tener-manos-nuevo-iphone-15-pro-max-1300770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3127404.jpg?tf=1200x' alt='Toca esperar hasta un mes para tener en tus manos el iPhone 15 Pro Max según filtraciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/derrumbe-precio-amazon-air-fryer-xxl-ahora-cuesta-mitad-1300138'>Derrumbe de precio en Amazon en la Air Fryer XXL que ahora cuesta la mitad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/derrumbe-precio-amazon-air-fryer-xxl-ahora-cuesta-mitad-1300138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/aigostar-cube-smart-3126448.jpg?tf=1200x' alt='Derrumbe de precio en Amazon en la Air Fryer XXL que ahora cuesta la mitad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/grandes-medios-prohiben-usar-noticias-entrenar-chatgpt-1300742'>Grandes medios de comunicación alzan la voz contra la IA: prohíben el uso de su contenido para entrenar a ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/grandes-medios-prohiben-usar-noticias-entrenar-chatgpt-1300742' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/no-inteligencia-artificial-3127364.jpg?tf=1200x' alt='Grandes medios de comunicación alzan la voz contra la IA: prohíben el uso de su contenido para entrenar a ChatGPT' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/baterias-moviles-no-avanzan-capacidad-ue-eeuu-1296766'>Las baterías de los móviles no avanzan en capacidad y las leyes de Europa y EEUU tienen mucha parte de culpa</a></h4>
     <a href='https://computerhoy.com/moviles/baterias-moviles-no-avanzan-capacidad-ue-eeuu-1296766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/baterias-3120734.jpg?tf=1200x' alt='Las baterías de los móviles no avanzan en capacidad y las leyes de Europa y EEUU tienen mucha parte de culpa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-termostatos-inteligentes-1124931'>Mejores termostatos inteligentes: Honeywell, Nest y más modelos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-termostatos-inteligentes-1124931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/termostato-ecobee-3126960.jpg?tf=1200x' alt='Mejores termostatos inteligentes: Honeywell, Nest y más modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-advierte-estafa-amor-divertido-video-tiktok-1300488'>La policía advierte sobre "la estafa del amor" con un divertido vídeo en TikTok</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-advierte-estafa-amor-divertido-video-tiktok-1300488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/policia-advierte-estafa-amor-divertido-video-tiktok-3127074.jpg?tf=1200x' alt='La policía advierte sobre "la estafa del amor" con un divertido vídeo en TikTok' />
     </a>
 </div>
 
