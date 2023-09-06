@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cuidado-letra-pequena-oferta-2-euros-disney-1300958'>Cuidado con la letra pequeña de la oferta de 2 euros de Disney+, esconde una subida de cuotas y te apunta a la más cara</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cuidado-letra-pequena-oferta-2-euros-disney-1300958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cuidado-letra-pequena-oferta-2-euros-disney-esconde-subida-tarifas-3127728.jpg?tf=1200x' alt='Cuidado con la letra pequeña de la oferta de 2 euros de Disney+, esconde una subida de cuotas y te apunta a la más cara' />
+    <h4><a href='https://computerhoy.com/life/sorprendente-historia-sindrome-estocolmo-1298924'>La sorprendente historia del síndrome de Estocolmo: ¿por qué las víctimas se enamoran de sus captores?</a></h4>
+    <a href='https://computerhoy.com/life/sorprendente-historia-sindrome-estocolmo-1298924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sorprendente-historia-sindrome-estocolmo-victimas-enamoran-captores-3124600.jpg?tf=1200x' alt='La sorprendente historia del síndrome de Estocolmo: ¿por qué las víctimas se enamoran de sus captores?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/terra-nullius-extranos-lugares-tierra-nadie-reclama-no-estan-dominio-ningun-pais-1298752'>Terra nullius: los extraños lugares en la Tierra que nadie reclama y que no están bajo el dominio de ningún país</a></h4>
-    <a href='https://computerhoy.com/internet/terra-nullius-extranos-lugares-tierra-nadie-reclama-no-estan-dominio-ningun-pais-1298752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tierra-2941442.jpg?tf=1200x' alt='Terra nullius: los extraños lugares en la Tierra que nadie reclama y que no están bajo el dominio de ningún país' />
+    <h4><a href='https://computerhoy.com/apple/usb-c-iphone-15-podria-convertirse-pesadilla-muchos-1301004'>El USB-C del iPhone 15 podría convertirse en una pesadilla para muchos, mientras Apple se frota las manos</a></h4>
+    <a href='https://computerhoy.com/apple/usb-c-iphone-15-podria-convertirse-pesadilla-muchos-1301004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-usb-c-3125752.jpg?tf=1200x' alt='El USB-C del iPhone 15 podría convertirse en una pesadilla para muchos, mientras Apple se frota las manos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nuevo-realme-c51-llega-espana-precio-caracteristicas-disponibilidad-1300946'>El nuevo Realme C51 llega a España: precio, características y disponibilidad</a></h4>
-    <a href='https://computerhoy.com/moviles/nuevo-realme-c51-llega-espana-precio-caracteristicas-disponibilidad-1300946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nuevo-realme-c51-llega-espana-precio-caracteristicas-disponibilidad-3127724.jpg?tf=1200x' alt='El nuevo Realme C51 llega a España: precio, características y disponibilidad' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-va-apple-samsung-auriculares-gratis-movil-barato-top-1300266'>Google va a por Apple y Samsung: auriculares gratis con su móvil barato más top</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-va-apple-samsung-auriculares-gratis-movil-barato-top-1300266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-pixel-7a-pixel-buds-3126742.jpg?tf=1200x' alt='Google va a por Apple y Samsung: auriculares gratis con su móvil barato más top' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-gratis-video-youtube-movil-android-1300486'>Cómo descargar gratis un vídeo de YouTube en un móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-gratis-video-youtube-movil-android-1300486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-descargar-gratis-video-youtube-movil-android-3127288.jpg?tf=1200x' alt='Cómo descargar gratis un vídeo de YouTube en un móvil Android' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-propia-lista-iptv-personalizada-32000-canales-tv-gratis-todo-mundo-1300712'>Cómo crear tu propia lista IPTV personalizada con hasta 32.000 canales de TV gratis de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-propia-lista-iptv-personalizada-32000-canales-tv-gratis-todo-mundo-1300712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-crear-propia-lista-iptv-personalizada-32000-canales-tv-gratis-todo-mundo-3127328.jpg?tf=1200x' alt='Cómo crear tu propia lista IPTV personalizada con hasta 32.000 canales de TV gratis de todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/algunas-aplicaciones-viejas-dejaran-funcionar-windows-11-1300922'>Por qué algunas aplicaciones viejas dejarán de funcionar con Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/algunas-aplicaciones-viejas-dejaran-funcionar-windows-11-1300922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/error-windows-11-3118674.jpg?tf=1200x' alt='Por qué algunas aplicaciones viejas dejarán de funcionar con Windows 11' />
+    <h4><a href='https://computerhoy.com/life/dana-espana-podria-enfrentarse-algo-incluso-peor-efecto-fujiwhara-1300984'>Tras la DANA, España podría enfrentarse a algo incluso peor: el efecto Fujiwhara</a></h4>
+    <a href='https://computerhoy.com/life/dana-espana-podria-enfrentarse-algo-incluso-peor-efecto-fujiwhara-1300984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/dana-espana-podria-enfrentarse-algo-incluso-peor-efecto-fujiwhara-3127772.jpg?tf=1200x' alt='Tras la DANA, España podría enfrentarse a algo incluso peor: el efecto Fujiwhara' />
     </a>
 </div>
 
