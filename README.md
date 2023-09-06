@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/grandes-medios-prohiben-usar-noticias-entrenar-chatgpt-1300742'>Grandes medios de comunicación alzan la voz contra la IA: prohíben el uso de su contenido para entrenar a ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/grandes-medios-prohiben-usar-noticias-entrenar-chatgpt-1300742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/no-inteligencia-artificial-3127364.jpg?tf=1200x' alt='Grandes medios de comunicación alzan la voz contra la IA: prohíben el uso de su contenido para entrenar a ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatiles-trabajar-hemos-probado-recomendamos-1008035'>10 portátiles para trabajar que hemos probado y recomendamos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/portatiles-trabajar-hemos-probado-recomendamos-1008035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dell-xps-13-plus-9320-analisis-opinion-2946806.jpg?tf=1200x' alt='10 portátiles para trabajar que hemos probado y recomendamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/baterias-moviles-no-avanzan-capacidad-ue-eeuu-1296766'>Las baterías de los móviles no avanzan en capacidad y las leyes de Europa y EEUU tienen mucha parte de culpa</a></h4>
+    <a href='https://computerhoy.com/moviles/baterias-moviles-no-avanzan-capacidad-ue-eeuu-1296766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/baterias-3120734.jpg?tf=1200x' alt='Las baterías de los móviles no avanzan en capacidad y las leyes de Europa y EEUU tienen mucha parte de culpa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-termostatos-inteligentes-1124931'>Mejores termostatos inteligentes: Honeywell, Nest y más modelos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-termostatos-inteligentes-1124931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/termostato-ecobee-3126960.jpg?tf=1200x' alt='Mejores termostatos inteligentes: Honeywell, Nest y más modelos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-advierte-estafa-amor-divertido-video-tiktok-1300488'>La policía advierte sobre "la estafa del amor" con un divertido vídeo en TikTok</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-advierte-estafa-amor-divertido-video-tiktok-1300488' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/policia-advierte-estafa-amor-divertido-video-tiktok-3127074.jpg?tf=1200x' alt='La policía advierte sobre "la estafa del amor" con un divertido vídeo en TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/regreso-mas-esperado-marvel-loki-temporada-2-1300482'>El regreso más esperado de Marvel, calienta motores para su estreno con un nuevo tráiler</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/regreso-mas-esperado-marvel-loki-temporada-2-1300482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/loki-temporada-2-3097184.jpg?tf=1200x' alt='El regreso más esperado de Marvel, calienta motores para su estreno con un nuevo tráiler' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/whatsapp-prepara-nueva-interfaz-1300438'>WhatsApp prepara una nueva interfaz</a></h4>
-    <a href='https://computerhoy.com/tecnologia/whatsapp-prepara-nueva-interfaz-1300438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/5-argumentos-deberias-plantearte-dejar-usar-whatsapp-3070774.jpg?tf=1200x' alt='WhatsApp prepara una nueva interfaz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/alguien-roba-iphone-14-tienda-mordiendo-cable-seguridad-video-1300466'>Consigue robar un iPhone 14 de una tienda… ¡mordiendo el cable de seguridad! (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/alguien-roba-iphone-14-tienda-mordiendo-cable-seguridad-video-1300466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tienda-apple-3127056.jpg?tf=1200x' alt='Consigue robar un iPhone 14 de una tienda… ¡mordiendo el cable de seguridad! (vídeo)' />
     </a>
 </div>
 
