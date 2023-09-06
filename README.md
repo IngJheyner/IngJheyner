@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/habra-esperar-mes-tener-manos-nuevo-iphone-15-pro-max-1300770'>Toca esperar hasta un mes para tener en tus manos el iPhone 15 Pro Max según filtraciones</a></h4>
-    <a href='https://computerhoy.com/apple/habra-esperar-mes-tener-manos-nuevo-iphone-15-pro-max-1300770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3127404.jpg?tf=1200x' alt='Toca esperar hasta un mes para tener en tus manos el iPhone 15 Pro Max según filtraciones' />
+    <h4><a href='https://computerhoy.com/espacio/unicas-fotos-superficie-venus-1219832'>Estas son las únicas fotos que existen de la superficie de Venus, por una buena razón</a></h4>
+    <a href='https://computerhoy.com/espacio/unicas-fotos-superficie-venus-1219832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/estas-son-unicas-fotos-existen-superficie-venus-buena-razon-2991728.jpg?tf=1200x' alt='Estas son las únicas fotos que existen de la superficie de Venus, por una buena razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/derrumbe-precio-amazon-air-fryer-xxl-ahora-cuesta-mitad-1300138'>Derrumbe de precio en Amazon en la Air Fryer XXL que ahora cuesta la mitad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/derrumbe-precio-amazon-air-fryer-xxl-ahora-cuesta-mitad-1300138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/aigostar-cube-smart-3126448.jpg?tf=1200x' alt='Derrumbe de precio en Amazon en la Air Fryer XXL que ahora cuesta la mitad' />
+    <h4><a href='https://computerhoy.com/android/android-auto-desastre-audio-hacer-actualizacion-te-afecta-google-no-te-ayuda-1300844'>Android Auto y el desastre del audio: qué hacer si la actualización te afecta y Google no te ayuda</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-desastre-audio-hacer-actualizacion-te-afecta-google-no-te-ayuda-1300844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-activar-modo-dios-android-auto-3099448.jpg?tf=1200x' alt='Android Auto y el desastre del audio: qué hacer si la actualización te afecta y Google no te ayuda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/grandes-medios-prohiben-usar-noticias-entrenar-chatgpt-1300742'>Grandes medios de comunicación alzan la voz contra la IA: prohíben el uso de su contenido para entrenar a ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/grandes-medios-prohiben-usar-noticias-entrenar-chatgpt-1300742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/no-inteligencia-artificial-3127364.jpg?tf=1200x' alt='Grandes medios de comunicación alzan la voz contra la IA: prohíben el uso de su contenido para entrenar a ChatGPT' />
+    <h4><a href='https://computerhoy.com/espacio/luna-poco-poco-aleja-tierra-revela-nuevo-estudio-1300816'>¿Te faltan horas en el día?, la Luna poco a poco se aleja de la Tierra y en el futuro serán más largos</a></h4>
+    <a href='https://computerhoy.com/espacio/luna-poco-poco-aleja-tierra-revela-nuevo-estudio-1300816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/luna-tierra-3127498.jpg?tf=1200x' alt='¿Te faltan horas en el día?, la Luna poco a poco se aleja de la Tierra y en el futuro serán más largos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/portatiles-trabajar-hemos-probado-recomendamos-1008035'>10 portátiles para trabajar que hemos probado y recomendamos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/portatiles-trabajar-hemos-probado-recomendamos-1008035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dell-xps-13-plus-9320-analisis-opinion-2946806.jpg?tf=1200x' alt='10 portátiles para trabajar que hemos probado y recomendamos' />
+    <h4><a href='https://computerhoy.com/tecnologia/locura-xiaomi-amazon-patinetes-relojes-mucho-48-baratos-1300730'>Locura Xiaomi en Amazon: patinetes, relojes y mucho más hasta un 48% más baratos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/locura-xiaomi-amazon-patinetes-relojes-mucho-48-baratos-1300730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-store-tienda-3127310.jpg?tf=1200x' alt='Locura Xiaomi en Amazon: patinetes, relojes y mucho más hasta un 48% más baratos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/baterias-moviles-no-avanzan-capacidad-ue-eeuu-1296766'>Las baterías de los móviles no avanzan en capacidad y las leyes de Europa y EEUU tienen mucha parte de culpa</a></h4>
-    <a href='https://computerhoy.com/moviles/baterias-moviles-no-avanzan-capacidad-ue-eeuu-1296766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/baterias-3120734.jpg?tf=1200x' alt='Las baterías de los móviles no avanzan en capacidad y las leyes de Europa y EEUU tienen mucha parte de culpa' />
+    <h4><a href='https://computerhoy.com/tecnologia/antiguo-vuelve-cinta-capacidad-50-tb-almacenamiento-datos-1300792'>Lo antiguo nunca muere: Fujifilm e IBM presentan una cinta de 50 TB para el almacenamiento de datos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/antiguo-vuelve-cinta-capacidad-50-tb-almacenamiento-datos-1300792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/almacenamiento-datos-cinta-3127436.jpg?tf=1200x' alt='Lo antiguo nunca muere: Fujifilm e IBM presentan una cinta de 50 TB para el almacenamiento de datos' />
     </a>
 </div>
 
