@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-cheque-regalo-cinco-euros-como-conseguir-1300832'>Amazon te regala 5 euros: estas son las condiciones para conseguir el cupón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-cheque-regalo-cinco-euros-como-conseguir-1300832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/tarjeta-regalo-amazon-francia-2375203.jpg?tf=1200x' alt='Amazon te regala 5 euros: estas son las condiciones para conseguir el cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/nintendo-primeras-gafas-realidad-virtual-1301086'>Aseguran que Nintendo está preparando unas NintenQuest: sus primeras gafas de realidad virtual autónomas</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-primeras-gafas-realidad-virtual-1301086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/aseguran-nintendo-preparando-unas-nintenquest-primeras-gafas-realidad-virtual-autonomas-3128004.jpg?tf=1200x' alt='Aseguran que Nintendo está preparando unas NintenQuest: sus primeras gafas de realidad virtual autónomas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/tarjeta-8-ssd-puede-copiar-juego-110-gb-2-segundos-1301066'>Esta tarjeta con ocho SSD puede copiar un juego que ocupa 110 GB, como Starfield, en dos segundos</a></h4>
     <a href='https://computerhoy.com/pc/tarjeta-8-ssd-puede-copiar-juego-110-gb-2-segundos-1301066' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tarjeta-8-ssds-puede-copiar-juego-ocupa-110-gb-como-starfield-2-segundos-3127294.jpg?tf=1200x' alt='Esta tarjeta con ocho SSD puede copiar un juego que ocupa 110 GB, como Starfield, en dos segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-tamagotchi-poco-etico-tumba-seguridad-iphone-1301058'>Flipper Zero, el Tamagotchi que consigue poner en jaque la seguridad de los iPhone</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-tamagotchi-poco-etico-tumba-seguridad-iphone-1301058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/zipper-zero-3127956.jpg?tf=1200x' alt='Flipper Zero, el Tamagotchi que consigue poner en jaque la seguridad de los iPhone' />
     </a>
 </div>
 
