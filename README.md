@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-advierte-estafa-amor-divertido-video-tiktok-1300488'>La policía advierte sobre "la estafa del amor" con un divertido vídeo en TikTok</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-advierte-estafa-amor-divertido-video-tiktok-1300488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/policia-advierte-estafa-amor-divertido-video-tiktok-3127074.jpg?tf=1200x' alt='La policía advierte sobre "la estafa del amor" con un divertido vídeo en TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/regreso-mas-esperado-marvel-loki-temporada-2-1300482'>El regreso más esperado de Marvel, calienta motores para su estreno con un nuevo tráiler</a></h4>
     <a href='https://computerhoy.com/entretenimiento/regreso-mas-esperado-marvel-loki-temporada-2-1300482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/loki-temporada-2-3097184.jpg?tf=1200x' alt='El regreso más esperado de Marvel, calienta motores para su estreno con un nuevo tráiler' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/mejor-ciudad-espana-vivir-tambien-segura-1300464'>Esta es la mejor ciudad de España para vivir, la más segura y la más asequible</a></h4>
     <a href='https://computerhoy.com/life/mejor-ciudad-espana-vivir-tambien-segura-1300464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/plaza-castillo-pamplona-3127052.jpg?tf=1200x' alt='Esta es la mejor ciudad de España para vivir, la más segura y la más asequible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
     </a>
 </div>
 
