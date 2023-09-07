@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/adios-wordpad-windows-12-pone-pie-guerra-usuarios-1301328'>El adiós a WordPad en la próxima versión de Windows pone en pie de guerra a los usuarios</a></h4>
+    <a href='https://computerhoy.com/windows/adios-wordpad-windows-12-pone-pie-guerra-usuarios-1301328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wordpad-windows-3128328.jpg?tf=1200x' alt='El adiós a WordPad en la próxima versión de Windows pone en pie de guerra a los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/miravia-revienta-precio-iphone-14-14-plus-solo-hoy-deja-precios-nunca-vistos-1301316'>Miravia revienta el precio del iPhone 14 y 14 Plus ¡solo hoy! Los deja a precios nunca vistos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/miravia-revienta-precio-iphone-14-14-plus-solo-hoy-deja-precios-nunca-vistos-1301316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-14-3128302.jpg?tf=1200x' alt='Miravia revienta el precio del iPhone 14 y 14 Plus ¡solo hoy! Los deja a precios nunca vistos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/ratones-inalambricos-1137231'>Ratones inalámbricos: todo lo que necesitas saber</a></h4>
+    <a href='https://computerhoy.com/guia-compra/ratones-inalambricos-1137231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/raton-zurdos-logitech-2796969.jpg?tf=1200x' alt='Ratones inalámbricos: todo lo que necesitas saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/lenovo-yoga-pro-9i-analisis-opinion-1289794'>Lenovo Yoga Pro 9i, un portátil para los amantes de la potencia</a></h4>
+    <a href='https://computerhoy.com/analisis/lenovo-yoga-pro-9i-analisis-opinion-1289794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lenovo-yoga-pro-9i-analisis-opinion-3127918.jpg?tf=1200x' alt='Lenovo Yoga Pro 9i, un portátil para los amantes de la potencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/tres-cosas-nunca-deberias-decir-taller-de-coches-1301098'>Las tres cosas que nunca deberías decir en un taller de coches</a></h4>
     <a href='https://computerhoy.com/motor/tres-cosas-nunca-deberias-decir-taller-de-coches-1301098' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tres-cosas-nunca-deberias-decir-taller-3128018.jpg?tf=1200x' alt='Las tres cosas que nunca deberías decir en un taller de coches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040'>Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aftershokz-2947820.jpg?tf=1200x' alt='Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/derriban-gran-muralla-china-porque-querian-atajar-ir-trabajar-1301090'>Dos albañiles derriban la Gran Muralla China con una excavadora, porque querían atajar para ir a trabajar</a></h4>
-    <a href='https://computerhoy.com/life/derriban-gran-muralla-china-porque-querian-atajar-ir-trabajar-1301090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/albaniles-derriban-gran-muralla-china-excavadora-porque-querian-atajar-ir-trabajar-3128010.jpg?tf=1200x' alt='Dos albañiles derriban la Gran Muralla China con una excavadora, porque querían atajar para ir a trabajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-cheque-regalo-cinco-euros-como-conseguir-1300832'>Amazon te regala 5 euros: estas son las condiciones para conseguir el cupón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-cheque-regalo-cinco-euros-como-conseguir-1300832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/tarjeta-regalo-amazon-francia-2375203.jpg?tf=1200x' alt='Amazon te regala 5 euros: estas son las condiciones para conseguir el cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-primeras-gafas-realidad-virtual-1301086'>Aseguran que Nintendo está preparando unas NintenQuest: sus primeras gafas de realidad virtual autónomas</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-primeras-gafas-realidad-virtual-1301086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/aseguran-nintendo-preparando-unas-nintenquest-primeras-gafas-realidad-virtual-autonomas-3128004.jpg?tf=1200x' alt='Aseguran que Nintendo está preparando unas NintenQuest: sus primeras gafas de realidad virtual autónomas' />
     </a>
 </div>
 
