@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tres-cosas-nunca-deberias-decir-taller-de-coches-1301098'>Las tres cosas que nunca deberías decir en un taller de coches</a></h4>
+    <a href='https://computerhoy.com/motor/tres-cosas-nunca-deberias-decir-taller-de-coches-1301098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tres-cosas-nunca-deberias-decir-taller-3128018.jpg?tf=1200x' alt='Las tres cosas que nunca deberías decir en un taller de coches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040'>Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aftershokz-2947820.jpg?tf=1200x' alt='Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/derriban-gran-muralla-china-porque-querian-atajar-ir-trabajar-1301090'>Dos albañiles derriban la Gran Muralla China con una excavadora, porque querían atajar para ir a trabajar</a></h4>
     <a href='https://computerhoy.com/life/derriban-gran-muralla-china-porque-querian-atajar-ir-trabajar-1301090' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/albaniles-derriban-gran-muralla-china-excavadora-porque-querian-atajar-ir-trabajar-3128010.jpg?tf=1200x' alt='Dos albañiles derriban la Gran Muralla China con una excavadora, porque querían atajar para ir a trabajar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/nintendo-primeras-gafas-realidad-virtual-1301086'>Aseguran que Nintendo está preparando unas NintenQuest: sus primeras gafas de realidad virtual autónomas</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-primeras-gafas-realidad-virtual-1301086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/aseguran-nintendo-preparando-unas-nintenquest-primeras-gafas-realidad-virtual-autonomas-3128004.jpg?tf=1200x' alt='Aseguran que Nintendo está preparando unas NintenQuest: sus primeras gafas de realidad virtual autónomas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/warner-music-sorprende-primera-cantante-generada-inteligencia-artificial-1301064'>Warner Music firma el primer contrato discográfico con una cantante generada por Inteligencia Artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/warner-music-sorprende-primera-cantante-generada-inteligencia-artificial-1301064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/noonoouri-3127962.jpg?tf=1200x' alt='Warner Music firma el primer contrato discográfico con una cantante generada por Inteligencia Artificial' />
     </a>
 </div>
 
