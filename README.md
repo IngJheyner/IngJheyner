@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-ya-realidad-llegaria-tiendas-mucho-antes-previsto-1301632'>Nintendo Switch 2 ya es una realidad y llegaría a las tiendas mucho antes de lo previsto</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-2-ya-realidad-llegaria-tiendas-mucho-antes-previsto-1301632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nintendo-switch-2-2820941.jpg?tf=1200x' alt='Nintendo Switch 2 ya es una realidad y llegaría a las tiendas mucho antes de lo previsto' />
+    <h4><a href='https://computerhoy.com/ciencia/evidencias-cientificas-prueban-hombre-llego-luna-no-fue-montaje-1300700'>Evidencias científicas que prueban que el hombre llegó a la Luna (y no fue un montaje)</a></h4>
+    <a href='https://computerhoy.com/ciencia/evidencias-cientificas-prueban-hombre-llego-luna-no-fue-montaje-1300700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apollo-misiones-luna-2496235.jpg?tf=1200x' alt='Evidencias científicas que prueban que el hombre llegó a la Luna (y no fue un montaje)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-pone-fin-servicio-drivers-impresoras-terceros-1301658'>Windows 11 anuncia el final de un servicio crítico para millones de usuarios</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-pone-fin-servicio-drivers-impresoras-terceros-1301658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/windows-impresora-3128976.jpg?tf=1200x' alt='Windows 11 anuncia el final de un servicio crítico para millones de usuarios' />
+    <h4><a href='https://computerhoy.com/motor/primera-gran-marca-suministrara-todos-coches-version-electrica-2024-1301664'>Primera gran marca que suministrará todos sus coches en versión eléctrica para 2024 </a></h4>
+    <a href='https://computerhoy.com/motor/primera-gran-marca-suministrara-todos-coches-version-electrica-2024-1301664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/opel-astra-sports-tourer-electric-3126708.jpg?tf=1200x' alt='Primera gran marca que suministrará todos sus coches en versión eléctrica para 2024 ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-alargar-vida-bateria-android-configurando-limite-carga-1301296'>Así puedes alargar la vida útil de la batería de tu móvil Android configurando un límite de carga</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-alargar-vida-bateria-android-configurando-limite-carga-1301296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/errores-comunes-acaban-bateria-movil-expertos-reparacion-3016760.jpg?tf=1200x' alt='Así puedes alargar la vida útil de la batería de tu móvil Android configurando un límite de carga' />
+    <h4><a href='https://computerhoy.com/ciencia/quimico-quemo-diamantes-lupa-rayos-sol-1300418'>La increíble historia de Lavoisier, el químico que quemó diamantes con una lupa y los rayos del sol</a></h4>
+    <a href='https://computerhoy.com/ciencia/quimico-quemo-diamantes-lupa-rayos-sol-1300418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/quimico-quemo-diamantes-lupa-rayos-sol-3126992.jpg?tf=1200x' alt='La increíble historia de Lavoisier, el químico que quemó diamantes con una lupa y los rayos del sol' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/filtrados-nuevos-modelos-amazon-fire-tv-stick-interesantes-mejoras-1301622'>Filtrados dos nuevos modelos de Amazon Fire TV Stick con interesantes mejoras</a></h4>
-    <a href='https://computerhoy.com/tv/filtrados-nuevos-modelos-amazon-fire-tv-stick-interesantes-mejoras-1301622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/Captura%20de%20pantalla%202019-01-09%20a%20las%209.40.18.jpg?tf=1200x' alt='Filtrados dos nuevos modelos de Amazon Fire TV Stick con interesantes mejoras' />
+    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-decathlon-cuesta-solo-39-euros-mucha-gente-suficiente-1297992'>El Apple Watch de Decathlon cuesta solo 39 euros y para mucha gente es más que suficiente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-watch-decathlon-cuesta-solo-39-euros-mucha-gente-suficiente-1297992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/kalenji-cw700-hr-3122626.jpg?tf=1200x' alt='El Apple Watch de Decathlon cuesta solo 39 euros y para mucha gente es más que suficiente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/version-google-maps-te-permite-viajar-ultimos-4000-anos-historia-1301084'>Esta versión de Google Maps te permite viajar por los últimos 4.000 años de la historia</a></h4>
-    <a href='https://computerhoy.com/internet/version-google-maps-te-permite-viajar-ultimos-4000-anos-historia-1301084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/version-google-maps-te-permite-viajar-ultimos-4000-anos-historia-3128014.jpg?tf=1200x' alt='Esta versión de Google Maps te permite viajar por los últimos 4.000 años de la historia' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-embriones-humanos-14-dias-vida-ovulos-ni-esperma-1301652'>Crean embriones humanos de 14 días de vida sin óvulos ni esperma </a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-embriones-humanos-14-dias-vida-ovulos-ni-esperma-1301652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/crean-embriones-humanos-14-dias-vida-ovulos-ni-esperma-3128920.jpg?tf=1200x' alt='Crean embriones humanos de 14 días de vida sin óvulos ni esperma ' />
     </a>
 </div>
 
