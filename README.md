@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ultima-llamada-conseguir-ps5-100-euros-menos-quedan-pocos-dias-oferta-1301458'>Última llamada para conseguir la PS5 por 100 euros menos: quedan pocos días de oferta</a></h4>
-    <a href='https://computerhoy.com/gaming/ultima-llamada-conseguir-ps5-100-euros-menos-quedan-pocos-dias-oferta-1301458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='Última llamada para conseguir la PS5 por 100 euros menos: quedan pocos días de oferta' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-modo-imagen-personalizado-smart-tv-1301298'>Cómo crear un modo de imagen personalizado en tu Smart TV para ver el fútbol y otros deportes</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-modo-imagen-personalizado-smart-tv-1301298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/viendo-futbol-televisor-3128738.jpg?tf=1200x' alt='Cómo crear un modo de imagen personalizado en tu Smart TV para ver el fútbol y otros deportes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/verdadera-revolucion-apple-podria-anunciar-junto-iphone-15-nadie-habla-1301410'>La verdadera revolución que Apple podría anunciar junto a los iPhone 15 de la que nadie habla</a></h4>
-    <a href='https://computerhoy.com/apple/verdadera-revolucion-apple-podria-anunciar-junto-iphone-15-nadie-habla-1301410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-ios-17-3128446.jpg?tf=1200x' alt='La verdadera revolución que Apple podría anunciar junto a los iPhone 15 de la que nadie habla' />
+    <h4><a href='https://computerhoy.com/tutoriales/ver-cientos-canales-tdt-gratis-kodi-lista-iptv-tdtchannels-1300706'>Cómo ver cientos de canales de la TDT gratis con Kodi y la lista IPTV de TDTChannels</a></h4>
+    <a href='https://computerhoy.com/tutoriales/ver-cientos-canales-tdt-gratis-kodi-lista-iptv-tdtchannels-1300706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-cientos-canales-tdt-gratis-kodi-lista-iptv-tdtchannels-3127304.jpg?tf=1200x' alt='Cómo ver cientos de canales de la TDT gratis con Kodi y la lista IPTV de TDTChannels' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/surrealista-motivo-obligo-toyota-parar-todas-fabricas-japon-1301364'>Cómo un fallo informático afectó a Toyota y a sus 14 plantas en Japón</a></h4>
-    <a href='https://computerhoy.com/motor/surrealista-motivo-obligo-toyota-parar-todas-fabricas-japon-1301364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fabrica-toyota-2631109.jpg?tf=1200x' alt='Cómo un fallo informático afectó a Toyota y a sus 14 plantas en Japón' />
+    <h4><a href='https://computerhoy.com/motor/tesla-encabeza-lista-peores-marcas-coches-privacidad-aunque-todas-son-pesadilla-1301504'>Tesla: innovación y vulneración de la privacidad van de la mano</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-encabeza-lista-peores-marcas-coches-privacidad-aunque-todas-son-pesadilla-1301504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tesla-autonomo-2968018.jpg?tf=1200x' alt='Tesla: innovación y vulneración de la privacidad van de la mano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ios-17-trae-novedades-airpods-mejoras-todos-modelos-exclusiva-airpods-pro-2-1301344'>iOS 17 trae novedades a los AirPods: mejoras para todos los modelos y una exclusiva para los AirPods Pro 2</a></h4>
-    <a href='https://computerhoy.com/apple/ios-17-trae-novedades-airpods-mejoras-todos-modelos-exclusiva-airpods-pro-2-1301344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844263.jpg?tf=1200x' alt='iOS 17 trae novedades a los AirPods: mejoras para todos los modelos y una exclusiva para los AirPods Pro 2' />
+    <h4><a href='https://computerhoy.com/industria/sistema-calificacion-empleados-microsoft-ha-introducido-secreto-1301500'>El sistema de calificación de empleados que Microsoft ha introducido en secreto, desvelado</a></h4>
+    <a href='https://computerhoy.com/industria/sistema-calificacion-empleados-microsoft-ha-introducido-secreto-1301500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/microsoft-empleados-3128716.jpg?tf=1200x' alt='El sistema de calificación de empleados que Microsoft ha introducido en secreto, desvelado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/adios-wordpad-windows-12-pone-pie-guerra-usuarios-1301328'>El adiós a WordPad en la próxima versión de Windows pone en pie de guerra a los usuarios</a></h4>
-    <a href='https://computerhoy.com/windows/adios-wordpad-windows-12-pone-pie-guerra-usuarios-1301328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wordpad-windows-3128328.jpg?tf=1200x' alt='El adiós a WordPad en la próxima versión de Windows pone en pie de guerra a los usuarios' />
+    <h4><a href='https://computerhoy.com/criptos/shiba-inu-puede-llegar-dolar-obstaculos-debe-superar-conseguirlo-1301478'>¿Shiba Inu puede llegar al dólar? Los obstáculos que debe superar para conseguirlo</a></h4>
+    <a href='https://computerhoy.com/criptos/shiba-inu-puede-llegar-dolar-obstaculos-debe-superar-conseguirlo-1301478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-2571247.jpg?tf=1200x' alt='¿Shiba Inu puede llegar al dólar? Los obstáculos que debe superar para conseguirlo' />
     </a>
 </div>
 
