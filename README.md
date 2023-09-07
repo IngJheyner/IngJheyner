@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tres-cosas-nunca-deberias-decir-taller-de-coches-1301098'>Frases que nunca deberías decir en un taller si no quieres tener problemas</a></h4>
-    <a href='https://computerhoy.com/motor/tres-cosas-nunca-deberias-decir-taller-de-coches-1301098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tres-cosas-nunca-deberias-decir-taller-3128018.jpg?tf=1200x' alt='Frases que nunca deberías decir en un taller si no quieres tener problemas' />
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-ya-realidad-llegaria-tiendas-mucho-antes-previsto-1301632'>Nintendo Switch 2 ya es una realidad y llegaría a las tiendas mucho antes de lo previsto</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-ya-realidad-llegaria-tiendas-mucho-antes-previsto-1301632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nintendo-switch-2-2820941.jpg?tf=1200x' alt='Nintendo Switch 2 ya es una realidad y llegaría a las tiendas mucho antes de lo previsto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-pone-fin-servicio-drivers-impresoras-terceros-1301658'>Windows 11 anuncia el final de un servicio crítico para millones de usuarios</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-pone-fin-servicio-drivers-impresoras-terceros-1301658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/windows-impresora-3128976.jpg?tf=1200x' alt='Windows 11 anuncia el final de un servicio crítico para millones de usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-deshabilitar-atajos-teclado-teclas-acceso-rapido-windows-11-1297966'>Cómo deshabilitar los atajos de teclado y las teclas de acceso rápido en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-deshabilitar-atajos-teclado-teclas-acceso-rapido-windows-11-1297966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tecla-windows-11-3128742.jpg?tf=1200x' alt='Cómo deshabilitar los atajos de teclado y las teclas de acceso rápido en Windows 11' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-alargar-vida-bateria-android-configurando-limite-carga-1301296'>Así puedes alargar la vida útil de la batería de tu móvil Android configurando un límite de carga</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-alargar-vida-bateria-android-configurando-limite-carga-1301296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/errores-comunes-acaban-bateria-movil-expertos-reparacion-3016760.jpg?tf=1200x' alt='Así puedes alargar la vida útil de la batería de tu móvil Android configurando un límite de carga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/primera-ciudad-mundo-cobrar-entrada-pasear-calles-1301554'>Primera ciudad del mundo en cobrar entrada solo para pasear por sus calles</a></h4>
-    <a href='https://computerhoy.com/life/primera-ciudad-mundo-cobrar-entrada-pasear-calles-1301554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/venecia.jpg?tf=1200x' alt='Primera ciudad del mundo en cobrar entrada solo para pasear por sus calles' />
+    <h4><a href='https://computerhoy.com/tv/filtrados-nuevos-modelos-amazon-fire-tv-stick-interesantes-mejoras-1301622'>Filtrados dos nuevos modelos de Amazon Fire TV Stick con interesantes mejoras</a></h4>
+    <a href='https://computerhoy.com/tv/filtrados-nuevos-modelos-amazon-fire-tv-stick-interesantes-mejoras-1301622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/Captura%20de%20pantalla%202019-01-09%20a%20las%209.40.18.jpg?tf=1200x' alt='Filtrados dos nuevos modelos de Amazon Fire TV Stick con interesantes mejoras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-modo-imagen-personalizado-smart-tv-1301298'>Cómo crear un modo de imagen personalizado en tu Smart TV para ver el fútbol y otros deportes</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-modo-imagen-personalizado-smart-tv-1301298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/viendo-futbol-televisor-3128738.jpg?tf=1200x' alt='Cómo crear un modo de imagen personalizado en tu Smart TV para ver el fútbol y otros deportes' />
+    <h4><a href='https://computerhoy.com/internet/version-google-maps-te-permite-viajar-ultimos-4000-anos-historia-1301084'>Esta versión de Google Maps te permite viajar por los últimos 4.000 años de la historia</a></h4>
+    <a href='https://computerhoy.com/internet/version-google-maps-te-permite-viajar-ultimos-4000-anos-historia-1301084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/version-google-maps-te-permite-viajar-ultimos-4000-anos-historia-3128014.jpg?tf=1200x' alt='Esta versión de Google Maps te permite viajar por los últimos 4.000 años de la historia' />
     </a>
 </div>
 
