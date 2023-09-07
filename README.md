@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/derriban-gran-muralla-china-porque-querian-atajar-ir-trabajar-1301090'>Dos albañiles derriban la Gran Muralla China con una excavadora, porque querían atajar para ir a trabajar</a></h4>
+    <a href='https://computerhoy.com/life/derriban-gran-muralla-china-porque-querian-atajar-ir-trabajar-1301090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/albaniles-derriban-gran-muralla-china-excavadora-porque-querian-atajar-ir-trabajar-3128010.jpg?tf=1200x' alt='Dos albañiles derriban la Gran Muralla China con una excavadora, porque querían atajar para ir a trabajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-cheque-regalo-cinco-euros-como-conseguir-1300832'>Amazon te regala 5 euros: estas son las condiciones para conseguir el cupón</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-cheque-regalo-cinco-euros-como-conseguir-1300832' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/tarjeta-regalo-amazon-francia-2375203.jpg?tf=1200x' alt='Amazon te regala 5 euros: estas son las condiciones para conseguir el cupón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/warner-music-sorprende-primera-cantante-generada-inteligencia-artificial-1301064'>Warner Music firma el primer contrato discográfico con una cantante generada por Inteligencia Artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/warner-music-sorprende-primera-cantante-generada-inteligencia-artificial-1301064' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/noonoouri-3127962.jpg?tf=1200x' alt='Warner Music firma el primer contrato discográfico con una cantante generada por Inteligencia Artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/tarjeta-8-ssd-puede-copiar-juego-110-gb-2-segundos-1301066'>Esta tarjeta con ocho SSD puede copiar un juego que ocupa 110 GB, como Starfield, en dos segundos</a></h4>
-    <a href='https://computerhoy.com/pc/tarjeta-8-ssd-puede-copiar-juego-110-gb-2-segundos-1301066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tarjeta-8-ssds-puede-copiar-juego-ocupa-110-gb-como-starfield-2-segundos-3127294.jpg?tf=1200x' alt='Esta tarjeta con ocho SSD puede copiar un juego que ocupa 110 GB, como Starfield, en dos segundos' />
     </a>
 </div>
 
