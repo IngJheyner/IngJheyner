@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tres-cosas-nunca-deberias-decir-taller-de-coches-1301098'>Frases que nunca deberías decir en un taller si no quieres tener problemas</a></h4>
+    <a href='https://computerhoy.com/motor/tres-cosas-nunca-deberias-decir-taller-de-coches-1301098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tres-cosas-nunca-deberias-decir-taller-3128018.jpg?tf=1200x' alt='Frases que nunca deberías decir en un taller si no quieres tener problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-deshabilitar-atajos-teclado-teclas-acceso-rapido-windows-11-1297966'>Cómo deshabilitar los atajos de teclado y las teclas de acceso rápido en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-deshabilitar-atajos-teclado-teclas-acceso-rapido-windows-11-1297966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tecla-windows-11-3128742.jpg?tf=1200x' alt='Cómo deshabilitar los atajos de teclado y las teclas de acceso rápido en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/primera-ciudad-mundo-cobrar-entrada-pasear-calles-1301554'>Primera ciudad del mundo en cobrar entrada solo para pasear por sus calles</a></h4>
+    <a href='https://computerhoy.com/life/primera-ciudad-mundo-cobrar-entrada-pasear-calles-1301554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/venecia.jpg?tf=1200x' alt='Primera ciudad del mundo en cobrar entrada solo para pasear por sus calles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-crear-modo-imagen-personalizado-smart-tv-1301298'>Cómo crear un modo de imagen personalizado en tu Smart TV para ver el fútbol y otros deportes</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-crear-modo-imagen-personalizado-smart-tv-1301298' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/viendo-futbol-televisor-3128738.jpg?tf=1200x' alt='Cómo crear un modo de imagen personalizado en tu Smart TV para ver el fútbol y otros deportes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/ver-cientos-canales-tdt-gratis-kodi-lista-iptv-tdtchannels-1300706'>Cómo ver cientos de canales de la TDT gratis con Kodi y la lista IPTV de TDTChannels</a></h4>
-    <a href='https://computerhoy.com/tutoriales/ver-cientos-canales-tdt-gratis-kodi-lista-iptv-tdtchannels-1300706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-cientos-canales-tdt-gratis-kodi-lista-iptv-tdtchannels-3127304.jpg?tf=1200x' alt='Cómo ver cientos de canales de la TDT gratis con Kodi y la lista IPTV de TDTChannels' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-encabeza-lista-peores-marcas-coches-privacidad-aunque-todas-son-pesadilla-1301504'>Tesla: innovación y vulneración de la privacidad van de la mano</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-encabeza-lista-peores-marcas-coches-privacidad-aunque-todas-son-pesadilla-1301504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tesla-autonomo-2968018.jpg?tf=1200x' alt='Tesla: innovación y vulneración de la privacidad van de la mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/sistema-calificacion-empleados-microsoft-ha-introducido-secreto-1301500'>El sistema de calificación de empleados que Microsoft ha introducido en secreto, desvelado</a></h4>
-    <a href='https://computerhoy.com/industria/sistema-calificacion-empleados-microsoft-ha-introducido-secreto-1301500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/microsoft-empleados-3128716.jpg?tf=1200x' alt='El sistema de calificación de empleados que Microsoft ha introducido en secreto, desvelado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/shiba-inu-puede-llegar-dolar-obstaculos-debe-superar-conseguirlo-1301478'>¿Shiba Inu puede llegar al dólar? Los obstáculos que debe superar para conseguirlo</a></h4>
-    <a href='https://computerhoy.com/criptos/shiba-inu-puede-llegar-dolar-obstaculos-debe-superar-conseguirlo-1301478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-2571247.jpg?tf=1200x' alt='¿Shiba Inu puede llegar al dólar? Los obstáculos que debe superar para conseguirlo' />
     </a>
 </div>
 
