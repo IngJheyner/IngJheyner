@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ultima-llamada-conseguir-ps5-100-euros-menos-quedan-pocos-dias-oferta-1301458'>Última llamada para conseguir la PS5 por 100 euros menos: quedan pocos días de oferta</a></h4>
+    <a href='https://computerhoy.com/gaming/ultima-llamada-conseguir-ps5-100-euros-menos-quedan-pocos-dias-oferta-1301458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='Última llamada para conseguir la PS5 por 100 euros menos: quedan pocos días de oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/verdadera-revolucion-apple-podria-anunciar-junto-iphone-15-nadie-habla-1301410'>La verdadera revolución que Apple podría anunciar junto a los iPhone 15 de la que nadie habla</a></h4>
+    <a href='https://computerhoy.com/apple/verdadera-revolucion-apple-podria-anunciar-junto-iphone-15-nadie-habla-1301410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-ios-17-3128446.jpg?tf=1200x' alt='La verdadera revolución que Apple podría anunciar junto a los iPhone 15 de la que nadie habla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/surrealista-motivo-obligo-toyota-parar-todas-fabricas-japon-1301364'>Cómo un fallo informático afectó a Toyota y a sus 14 plantas en Japón</a></h4>
+    <a href='https://computerhoy.com/motor/surrealista-motivo-obligo-toyota-parar-todas-fabricas-japon-1301364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/fabrica-toyota-2631109.jpg?tf=1200x' alt='Cómo un fallo informático afectó a Toyota y a sus 14 plantas en Japón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ios-17-trae-novedades-airpods-mejoras-todos-modelos-exclusiva-airpods-pro-2-1301344'>iOS 17 trae novedades a los AirPods: mejoras para todos los modelos y una exclusiva para los AirPods Pro 2</a></h4>
+    <a href='https://computerhoy.com/apple/ios-17-trae-novedades-airpods-mejoras-todos-modelos-exclusiva-airpods-pro-2-1301344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844263.jpg?tf=1200x' alt='iOS 17 trae novedades a los AirPods: mejoras para todos los modelos y una exclusiva para los AirPods Pro 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/adios-wordpad-windows-12-pone-pie-guerra-usuarios-1301328'>El adiós a WordPad en la próxima versión de Windows pone en pie de guerra a los usuarios</a></h4>
     <a href='https://computerhoy.com/windows/adios-wordpad-windows-12-pone-pie-guerra-usuarios-1301328' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wordpad-windows-3128328.jpg?tf=1200x' alt='El adiós a WordPad en la próxima versión de Windows pone en pie de guerra a los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/miravia-revienta-precio-iphone-14-14-plus-solo-hoy-deja-precios-nunca-vistos-1301316'>Miravia revienta el precio del iPhone 14 y 14 Plus ¡solo hoy! Los deja a precios nunca vistos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/miravia-revienta-precio-iphone-14-14-plus-solo-hoy-deja-precios-nunca-vistos-1301316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-14-3128302.jpg?tf=1200x' alt='Miravia revienta el precio del iPhone 14 y 14 Plus ¡solo hoy! Los deja a precios nunca vistos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/ratones-inalambricos-1137231'>Ratones inalámbricos: todo lo que necesitas saber</a></h4>
-    <a href='https://computerhoy.com/guia-compra/ratones-inalambricos-1137231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/raton-zurdos-logitech-2796969.jpg?tf=1200x' alt='Ratones inalámbricos: todo lo que necesitas saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/lenovo-yoga-pro-9i-analisis-opinion-1289794'>Lenovo Yoga Pro 9i, un portátil para los amantes de la potencia</a></h4>
-    <a href='https://computerhoy.com/analisis/lenovo-yoga-pro-9i-analisis-opinion-1289794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lenovo-yoga-pro-9i-analisis-opinion-3127918.jpg?tf=1200x' alt='Lenovo Yoga Pro 9i, un portátil para los amantes de la potencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tres-cosas-nunca-deberias-decir-taller-de-coches-1301098'>Las tres cosas que nunca deberías decir en un taller de coches</a></h4>
-    <a href='https://computerhoy.com/motor/tres-cosas-nunca-deberias-decir-taller-de-coches-1301098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tres-cosas-nunca-deberias-decir-taller-3128018.jpg?tf=1200x' alt='Las tres cosas que nunca deberías decir en un taller de coches' />
     </a>
 </div>
 
