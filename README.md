@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972'>Keynote de Apple: cómo ver online la presentación del iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/keynote-apple-3129382.jpg?tf=1200x' alt='Keynote de Apple: cómo ver online la presentación del iPhone 15' />
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/accesorio-iphone-salvavidas-debes-tener-1300886'>Este accesorio para iPhone es un salvavidas que debes tener sí o sí</a></h4>
-    <a href='https://computerhoy.com/tecnologia/accesorio-iphone-salvavidas-debes-tener-1300886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cargador-inalambrico-iphone-2812775.jpg?tf=1200x' alt='Este accesorio para iPhone es un salvavidas que debes tener sí o sí' />
+    <h4><a href='https://computerhoy.com/windows/paint-inspira-photoshop-prueba-herramienta-eliminar-fondo-imagenes-1302076'>Paint se inspira en Photoshop y prueba una herramienta para eliminar el fondo de las imágenes</a></h4>
+    <a href='https://computerhoy.com/windows/paint-inspira-photoshop-prueba-herramienta-eliminar-fondo-imagenes-1302076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/paint-inspira-photoshop-prueba-herramienta-eliminar-fondo-imagenes-3129512.jpg?tf=1200x' alt='Paint se inspira en Photoshop y prueba una herramienta para eliminar el fondo de las imágenes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/elon-musk-abre-debate-hace-iphone-actual-mejor-versiones-anteriores-1301962'>Elon Musk abre debate: ¿Qué hace el iPhone actual mejor que las versiones anteriores?</a></h4>
-    <a href='https://computerhoy.com/apple/elon-musk-abre-debate-hace-iphone-actual-mejor-versiones-anteriores-1301962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/elon-musk-iphone-3129350.jpg?tf=1200x' alt='Elon Musk abre debate: ¿Qué hace el iPhone actual mejor que las versiones anteriores?' />
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-barato-rebajado-sorprende-gran-pantalla-alexa-1302040'>Este smartwatch barato, y rebajado, sorprende por su gran pantalla y Alexa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-barato-rebajado-sorprende-gran-pantalla-alexa-1302040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazfit-bip-5-3129452.jpg?tf=1200x' alt='Este smartwatch barato, y rebajado, sorprende por su gran pantalla y Alexa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/comprar-alfombrilla-raton-debes-tener-cuenta-cuales-son-mejores-modelos-1301676'>Comprar una alfombrilla para ratón: qué debes tener en cuenta y cuáles son los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/guia-compra/comprar-alfombrilla-raton-debes-tener-cuenta-cuales-son-mejores-modelos-1301676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/razer-gigantus-3128998.jpg?tf=1200x' alt='Comprar una alfombrilla para ratón: qué debes tener en cuenta y cuáles son los mejores modelos' />
+    <h4><a href='https://computerhoy.com/criptos/bitcoin-ethereum-dogecoin-criptomonedas-han-subido-noticia-jp-morgan-1302052'>Bitcoin, Ethereum y Dogecoin: las criptomonedas que más han subido tras la noticia de JP Morgan</a></h4>
+    <a href='https://computerhoy.com/criptos/bitcoin-ethereum-dogecoin-criptomonedas-han-subido-noticia-jp-morgan-1302052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/bitcoin-toca-maximo-13-meses-3076912.jpg?tf=1200x' alt='Bitcoin, Ethereum y Dogecoin: las criptomonedas que más han subido tras la noticia de JP Morgan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sistemas-nube-megaupload-llegada-big-tech-1237596'>25 aniversario de Computer Hoy: Historia del almacenamiento en la nube, de Megaupload al desembarco de las 'big tech'</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sistemas-nube-megaupload-llegada-big-tech-1237596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/historia-almacenamiento-nube-dropbox-google-drive-megaupload-microsoft-onedrive-3126930.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Historia del almacenamiento en la nube, de Megaupload al desembarco de las 'big tech'' />
+    <h4><a href='https://computerhoy.com/motor/era-vehiculos-sostenibles-ya-aqui-primer-motor-funciona-100-hidrogeno-1302010'>La era de los coches sostenibles ya está aquí: Corea presenta el primer motor que funciona al 100% con hidrógeno</a></h4>
+    <a href='https://computerhoy.com/motor/era-vehiculos-sostenibles-ya-aqui-primer-motor-funciona-100-hidrogeno-1302010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/coche-hidrogeno-3129424.jpg?tf=1200x' alt='La era de los coches sostenibles ya está aquí: Corea presenta el primer motor que funciona al 100% con hidrógeno' />
     </a>
 </div>
 
