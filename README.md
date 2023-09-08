@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/como-convertir-control-remoto-smart-tv-mando-unico-1301918'>Cómo convertir el control remoto de tu Smart TV en un mando único para gobernarlos a todos</a></h4>
-    <a href='https://computerhoy.com/tv/como-convertir-control-remoto-smart-tv-mando-unico-1301918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-convertir-control-remoto-smart-tv-mando-unico-gobernarlos-todos-3129256.jpg?tf=1200x' alt='Cómo convertir el control remoto de tu Smart TV en un mando único para gobernarlos a todos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/google-corrige-33-fallos-seguridad-android-debes-ya-actualizar-1302286'>¡Actualiza! Google corrige 33 fallos de seguridad en Android que permitían a los ciberdelincuentes tomar el control de tu móvil</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/google-corrige-33-fallos-seguridad-android-debes-ya-actualizar-1302286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/actualiza-android-hook-malware-puede-tomar-control-smartphone-2933388.jpg?tf=1200x' alt='¡Actualiza! Google corrige 33 fallos de seguridad en Android que permitían a los ciberdelincuentes tomar el control de tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-emojis-google-maps-marcar-lugares-favoritos-1302198'>Cómo usar emojis en Google Maps para marcar tus lugares favoritos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-emojis-google-maps-marcar-lugares-favoritos-1302198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mapa-google-maps-emoji-gigante-3129802.jpg?tf=1200x' alt='Cómo usar emojis en Google Maps para marcar tus lugares favoritos' />
+    <h4><a href='https://computerhoy.com/life/carta-babilonica-nino-madre-dejas-mi-ropa-empeore-ano-ano-1301666'>La curiosa carta babilónica de un niño a su madre que demuestra que los adolescentes no han cambiado en 4.000 años</a></h4>
+    <a href='https://computerhoy.com/life/carta-babilonica-nino-madre-dejas-mi-ropa-empeore-ano-ano-1301666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/curiosa-carta-babilonica-nino-madre-hace-4000-anos-arrasa-tiktok-3128988.jpg?tf=1200x' alt='La curiosa carta babilónica de un niño a su madre que demuestra que los adolescentes no han cambiado en 4.000 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/has-comprado-android-tv-box-barato-amazon-aliexpress-revisalo-podria-contener-peligroso-troyano-1302180'>Si has comprado tu Android TV Box barato en Amazon o Aliexpress revísalo, podría contener un peligroso troyano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/has-comprado-android-tv-box-barato-amazon-aliexpress-revisalo-podria-contener-peligroso-troyano-1302180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/has-comprado-android-tv-box-barato-amazon-aliexpress-revisalo-podria-contener-peligroso-troyano-3129800.jpg?tf=1200x' alt='Si has comprado tu Android TV Box barato en Amazon o Aliexpress revísalo, podría contener un peligroso troyano' />
+    <h4><a href='https://computerhoy.com/life/encuentran-cueva-cuatro-espadas-romanas-creian-robadas-hace-1900-anos-1302260'>El sueño de cualquier arqueólogo: encuentran en una cueva cuatro espadas romanas que se creían robadas hace 1.900 años</a></h4>
+    <a href='https://computerhoy.com/life/encuentran-cueva-cuatro-espadas-romanas-creian-robadas-hace-1900-anos-1302260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/espadas-romanas-3129940.jpg?tf=1200x' alt='El sueño de cualquier arqueólogo: encuentran en una cueva cuatro espadas romanas que se creían robadas hace 1.900 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-disney-prime-video-sirenita-scream-soldado-1301994'>Qué películas ver este fin de semana en Netflix, Disney+ y Prime Video: La Sirenita, Scream y una soldado</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-disney-prime-video-sirenita-scream-soldado-1301994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/peliculas-fin-semana-3129480.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Disney+ y Prime Video: La Sirenita, Scream y una soldado' />
+    <h4><a href='https://computerhoy.com/motor/toyota-lista-lanzar-coche-1500-kilometros-autonomia-1301688'>Toyota lista para lanzar al mercado “el santo grial de los coches eléctricos”: 1.500 kilómetros de autonomía con una carga</a></h4>
+    <a href='https://computerhoy.com/motor/toyota-lista-lanzar-coche-1500-kilometros-autonomia-1301688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/toyota-lista-lanzar-mercado-santo-grial-coches-electricos-3129252.jpg?tf=1200x' alt='Toyota lista para lanzar al mercado “el santo grial de los coches eléctricos”: 1.500 kilómetros de autonomía con una carga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-unidad-perdida-windows-11-1296676'>Cómo recuperar una unidad perdida en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recuperar-unidad-perdida-windows-11-1296676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/vida-media-unidad-disco-duro-hdd-no-alcanza-3-anos-nuevo-estudio-3025802.jpg?tf=1200x' alt='Cómo recuperar una unidad perdida en Windows 11' />
+    <h4><a href='https://computerhoy.com/tecnologia/robins-peluche-robotico-raspberry-pi-ayuda-ninos-sordos-aprender-espanol-1302242'>Robins, el peluche robótico con Raspberry Pi que ayuda a niños sordos a aprender español</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robins-peluche-robotico-raspberry-pi-ayuda-ninos-sordos-aprender-espanol-1302242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/robin-perro-robotico-ayudar-lenguaje-ninos-sordos-3129868.jpg?tf=1200x' alt='Robins, el peluche robótico con Raspberry Pi que ayuda a niños sordos a aprender español' />
     </a>
 </div>
 
