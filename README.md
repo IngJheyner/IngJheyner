@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/google-corrige-33-fallos-seguridad-android-debes-ya-actualizar-1302286'>¡Actualiza! Google corrige 33 fallos de seguridad en Android que permitían a los ciberdelincuentes tomar el control de tu móvil</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/google-corrige-33-fallos-seguridad-android-debes-ya-actualizar-1302286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/actualiza-android-hook-malware-puede-tomar-control-smartphone-2933388.jpg?tf=1200x' alt='¡Actualiza! Google corrige 33 fallos de seguridad en Android que permitían a los ciberdelincuentes tomar el control de tu móvil' />
+    <h4><a href='https://computerhoy.com/ciencia/sirven-suenos-como-influyen-conexion-cuerpo-1300446'>¿Para qué sirven los sueños y cómo influyen en la conexión con el cuerpo y la mente? </a></h4>
+    <a href='https://computerhoy.com/ciencia/sirven-suenos-como-influyen-conexion-cuerpo-1300446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/suenos-significado-3127050.jpg?tf=1200x' alt='¿Para qué sirven los sueños y cómo influyen en la conexión con el cuerpo y la mente? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/carta-babilonica-nino-madre-dejas-mi-ropa-empeore-ano-ano-1301666'>La curiosa carta babilónica de un niño a su madre que demuestra que los adolescentes no han cambiado en 4.000 años</a></h4>
-    <a href='https://computerhoy.com/life/carta-babilonica-nino-madre-dejas-mi-ropa-empeore-ano-ano-1301666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/curiosa-carta-babilonica-nino-madre-hace-4000-anos-arrasa-tiktok-3128988.jpg?tf=1200x' alt='La curiosa carta babilónica de un niño a su madre que demuestra que los adolescentes no han cambiado en 4.000 años' />
+    <h4><a href='https://computerhoy.com/tecnologia/dispositivos-inteligentes-recopilan-datos-sepas-1301586'>Estas son las marcas y dispositivos inteligentes que están recopilando tus datos sin que lo sepas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dispositivos-inteligentes-recopilan-datos-sepas-1301586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/estas-son-marcas-dispositivos-inteligentes-estan-recopilando-datos-sepas-3128876.jpg?tf=1200x' alt='Estas son las marcas y dispositivos inteligentes que están recopilando tus datos sin que lo sepas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/encuentran-cueva-cuatro-espadas-romanas-creian-robadas-hace-1900-anos-1302260'>El sueño de cualquier arqueólogo: encuentran en una cueva cuatro espadas romanas que se creían robadas hace 1.900 años</a></h4>
-    <a href='https://computerhoy.com/life/encuentran-cueva-cuatro-espadas-romanas-creian-robadas-hace-1900-anos-1302260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/espadas-romanas-3129940.jpg?tf=1200x' alt='El sueño de cualquier arqueólogo: encuentran en una cueva cuatro espadas romanas que se creían robadas hace 1.900 años' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-revienta-vuelta-cole-impresora-wifi-escaner-sorprendentemente-barata-1300172'>Amazon revienta la vuelta al cole: esta impresora con WiFi y escáner es sorprendentemente barata y te salvará en más de una ocasión</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-revienta-vuelta-cole-impresora-wifi-escaner-sorprendentemente-barata-1300172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/canon-pixma-ts3550i-3126546.jpg?tf=1200x' alt='Amazon revienta la vuelta al cole: esta impresora con WiFi y escáner es sorprendentemente barata y te salvará en más de una ocasión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/toyota-lista-lanzar-coche-1500-kilometros-autonomia-1301688'>Toyota lista para lanzar al mercado “el santo grial de los coches eléctricos”: 1.500 kilómetros de autonomía con una carga</a></h4>
-    <a href='https://computerhoy.com/motor/toyota-lista-lanzar-coche-1500-kilometros-autonomia-1301688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/toyota-lista-lanzar-mercado-santo-grial-coches-electricos-3129252.jpg?tf=1200x' alt='Toyota lista para lanzar al mercado “el santo grial de los coches eléctricos”: 1.500 kilómetros de autonomía con una carga' />
+    <h4><a href='https://computerhoy.com/apple/apple-quiere-usb-c-iphone-15-sea-nueva-mina-oro-1302288'>Apple quiere convertir el USB-C de los iPhone 15 en su nueva mina de oro</a></h4>
+    <a href='https://computerhoy.com/apple/apple-quiere-usb-c-iphone-15-sea-nueva-mina-oro-1302288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='Apple quiere convertir el USB-C de los iPhone 15 en su nueva mina de oro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robins-peluche-robotico-raspberry-pi-ayuda-ninos-sordos-aprender-espanol-1302242'>Robins, el peluche robótico con Raspberry Pi que ayuda a niños sordos a aprender español</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robins-peluche-robotico-raspberry-pi-ayuda-ninos-sordos-aprender-espanol-1302242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/robin-perro-robotico-ayudar-lenguaje-ninos-sordos-3129868.jpg?tf=1200x' alt='Robins, el peluche robótico con Raspberry Pi que ayuda a niños sordos a aprender español' />
+    <h4><a href='https://computerhoy.com/motor/gran-avance-deseadas-baterias-litio-azufre-fabricantes-coches-electricos-frotan-manos-1302264'>Gran avance en las deseadas baterías de litio-azufre: los fabricantes de coches eléctricos se frotan las manos</a></h4>
+    <a href='https://computerhoy.com/motor/gran-avance-deseadas-baterias-litio-azufre-fabricantes-coches-electricos-frotan-manos-1302264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bateria-coche-electrico-3121054.jpg?tf=1200x' alt='Gran avance en las deseadas baterías de litio-azufre: los fabricantes de coches eléctricos se frotan las manos' />
     </a>
 </div>
 
