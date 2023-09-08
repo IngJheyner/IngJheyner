@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/comprar-alfombrilla-raton-debes-tener-cuenta-cuales-son-mejores-modelos-1301676'>Comprar una alfombrilla para ratón: qué debes tener en cuenta y cuáles son los mejores modelos</a></h4>
+    <a href='https://computerhoy.com/guia-compra/comprar-alfombrilla-raton-debes-tener-cuenta-cuales-son-mejores-modelos-1301676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/razer-gigantus-3128998.jpg?tf=1200x' alt='Comprar una alfombrilla para ratón: qué debes tener en cuenta y cuáles son los mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sistemas-nube-megaupload-llegada-big-tech-1237596'>25 aniversario de Computer Hoy: Historia del almacenamiento en la nube, de Megaupload al desembarco de las 'big tech'</a></h4>
     <a href='https://computerhoy.com/tecnologia/sistemas-nube-megaupload-llegada-big-tech-1237596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/historia-almacenamiento-nube-dropbox-google-drive-megaupload-microsoft-onedrive-3126930.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Historia del almacenamiento en la nube, de Megaupload al desembarco de las 'big tech'' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/primera-gran-marca-suministrara-todos-coches-version-electrica-2024-1301664'>Primera gran marca que suministrará todos sus coches en versión eléctrica para 2024 </a></h4>
     <a href='https://computerhoy.com/motor/primera-gran-marca-suministrara-todos-coches-version-electrica-2024-1301664' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/opel-astra-sports-tourer-electric-3126708.jpg?tf=1200x' alt='Primera gran marca que suministrará todos sus coches en versión eléctrica para 2024 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/quimico-quemo-diamantes-lupa-rayos-sol-1300418'>La increíble historia de Lavoisier, el químico que quemó diamantes con una lupa y los rayos del sol</a></h4>
-    <a href='https://computerhoy.com/ciencia/quimico-quemo-diamantes-lupa-rayos-sol-1300418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/quimico-quemo-diamantes-lupa-rayos-sol-3126992.jpg?tf=1200x' alt='La increíble historia de Lavoisier, el químico que quemó diamantes con una lupa y los rayos del sol' />
     </a>
 </div>
 
