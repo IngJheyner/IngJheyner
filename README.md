@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sistemas-nube-megaupload-llegada-big-tech-1237596'>25 aniversario de Computer Hoy: Historia del almacenamiento en la nube, de Megaupload al desembarco de las 'big tech'</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sistemas-nube-megaupload-llegada-big-tech-1237596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/historia-almacenamiento-nube-dropbox-google-drive-megaupload-microsoft-onedrive-3126930.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Historia del almacenamiento en la nube, de Megaupload al desembarco de las 'big tech'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033'>Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/dyson-v15-detect-submarine-3127592.jpg?tf=1200x' alt='Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/evidencias-cientificas-prueban-hombre-llego-luna-no-fue-montaje-1300700'>Evidencias científicas que prueban que el hombre llegó a la Luna (y no fue un montaje)</a></h4>
     <a href='https://computerhoy.com/ciencia/evidencias-cientificas-prueban-hombre-llego-luna-no-fue-montaje-1300700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apollo-misiones-luna-2496235.jpg?tf=1200x' alt='Evidencias científicas que prueban que el hombre llegó a la Luna (y no fue un montaje)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/quimico-quemo-diamantes-lupa-rayos-sol-1300418'>La increíble historia de Lavoisier, el químico que quemó diamantes con una lupa y los rayos del sol</a></h4>
     <a href='https://computerhoy.com/ciencia/quimico-quemo-diamantes-lupa-rayos-sol-1300418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/quimico-quemo-diamantes-lupa-rayos-sol-3126992.jpg?tf=1200x' alt='La increíble historia de Lavoisier, el químico que quemó diamantes con una lupa y los rayos del sol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-decathlon-cuesta-solo-39-euros-mucha-gente-suficiente-1297992'>El Apple Watch de Decathlon cuesta solo 39 euros y para mucha gente es más que suficiente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-watch-decathlon-cuesta-solo-39-euros-mucha-gente-suficiente-1297992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/kalenji-cw700-hr-3122626.jpg?tf=1200x' alt='El Apple Watch de Decathlon cuesta solo 39 euros y para mucha gente es más que suficiente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-embriones-humanos-14-dias-vida-ovulos-ni-esperma-1301652'>Crean embriones humanos de 14 días de vida sin óvulos ni esperma </a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-embriones-humanos-14-dias-vida-ovulos-ni-esperma-1301652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/crean-embriones-humanos-14-dias-vida-ovulos-ni-esperma-3128920.jpg?tf=1200x' alt='Crean embriones humanos de 14 días de vida sin óvulos ni esperma ' />
     </a>
 </div>
 
