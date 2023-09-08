@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
+    <h4><a href='https://computerhoy.com/tv/como-convertir-control-remoto-smart-tv-mando-unico-1301918'>Cómo convertir el control remoto de tu Smart TV en un mando único para gobernarlos a todos</a></h4>
+    <a href='https://computerhoy.com/tv/como-convertir-control-remoto-smart-tv-mando-unico-1301918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-convertir-control-remoto-smart-tv-mando-unico-gobernarlos-todos-3129256.jpg?tf=1200x' alt='Cómo convertir el control remoto de tu Smart TV en un mando único para gobernarlos a todos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-generar-informe-bateria-windows-11-sirve-1297362'>Cómo generar un informe de batería en Windows 11 y para qué sirve</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-generar-informe-bateria-windows-11-sirve-1297362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portatil-bateria-3078342.jpg?tf=1200x' alt='Cómo generar un informe de batería en Windows 11 y para qué sirve' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-emojis-google-maps-marcar-lugares-favoritos-1302198'>Cómo usar emojis en Google Maps para marcar tus lugares favoritos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-emojis-google-maps-marcar-lugares-favoritos-1302198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mapa-google-maps-emoji-gigante-3129802.jpg?tf=1200x' alt='Cómo usar emojis en Google Maps para marcar tus lugares favoritos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/como-convertir-96-teclados-rgb-impresionante-enorme-pantalla-1302114'>Cómo convertir 96 teclados RGB en una impresionante pantalla: así lo ha conseguido este usuario de Reddit</a></h4>
-    <a href='https://computerhoy.com/gaming/como-convertir-96-teclados-rgb-impresionante-enorme-pantalla-1302114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-convertir-96-teclados-rgb-impresionante-pantalla-ha-conseguido-usuario-reddit-3129598.jpg?tf=1200x' alt='Cómo convertir 96 teclados RGB en una impresionante pantalla: así lo ha conseguido este usuario de Reddit' />
+    <h4><a href='https://computerhoy.com/tecnologia/has-comprado-android-tv-box-barato-amazon-aliexpress-revisalo-podria-contener-peligroso-troyano-1302180'>Si has comprado tu Android TV Box barato en Amazon o Aliexpress revísalo, podría contener un peligroso troyano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/has-comprado-android-tv-box-barato-amazon-aliexpress-revisalo-podria-contener-peligroso-troyano-1302180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/has-comprado-android-tv-box-barato-amazon-aliexpress-revisalo-podria-contener-peligroso-troyano-3129800.jpg?tf=1200x' alt='Si has comprado tu Android TV Box barato en Amazon o Aliexpress revísalo, podría contener un peligroso troyano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tripledemia-acerca-covid-19-repunta-puedo-usar-test-ya-han-caducado-1302036'>La "tripledemia" se acerca y la COVID-19 repunta: ¿Puedes aún usar los test que ya han caducado?</a></h4>
-    <a href='https://computerhoy.com/life/tripledemia-acerca-covid-19-repunta-puedo-usar-test-ya-han-caducado-1302036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/coronavirus-3129450.jpg?tf=1200x' alt='La "tripledemia" se acerca y la COVID-19 repunta: ¿Puedes aún usar los test que ya han caducado?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-disney-prime-video-sirenita-scream-soldado-1301994'>Qué películas ver este fin de semana en Netflix, Disney+ y Prime Video: La Sirenita, Scream y una soldado</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-disney-prime-video-sirenita-scream-soldado-1301994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/peliculas-fin-semana-3129480.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Disney+ y Prime Video: La Sirenita, Scream y una soldado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/paint-inspira-photoshop-prueba-herramienta-eliminar-fondo-imagenes-1302076'>Paint se inspira en Photoshop y prueba una herramienta para eliminar el fondo de las imágenes</a></h4>
-    <a href='https://computerhoy.com/windows/paint-inspira-photoshop-prueba-herramienta-eliminar-fondo-imagenes-1302076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/paint-inspira-photoshop-prueba-herramienta-eliminar-fondo-imagenes-3129512.jpg?tf=1200x' alt='Paint se inspira en Photoshop y prueba una herramienta para eliminar el fondo de las imágenes' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-unidad-perdida-windows-11-1296676'>Cómo recuperar una unidad perdida en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-unidad-perdida-windows-11-1296676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/vida-media-unidad-disco-duro-hdd-no-alcanza-3-anos-nuevo-estudio-3025802.jpg?tf=1200x' alt='Cómo recuperar una unidad perdida en Windows 11' />
     </a>
 </div>
 
