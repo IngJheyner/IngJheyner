@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-generar-informe-bateria-windows-11-sirve-1297362'>Cómo generar un informe de batería en Windows 11 y para qué sirve</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-generar-informe-bateria-windows-11-sirve-1297362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portatil-bateria-3078342.jpg?tf=1200x' alt='Cómo generar un informe de batería en Windows 11 y para qué sirve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/como-convertir-96-teclados-rgb-impresionante-enorme-pantalla-1302114'>Cómo convertir 96 teclados RGB en una impresionante pantalla: así lo ha conseguido este usuario de Reddit</a></h4>
+    <a href='https://computerhoy.com/gaming/como-convertir-96-teclados-rgb-impresionante-enorme-pantalla-1302114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-convertir-96-teclados-rgb-impresionante-pantalla-ha-conseguido-usuario-reddit-3129598.jpg?tf=1200x' alt='Cómo convertir 96 teclados RGB en una impresionante pantalla: así lo ha conseguido este usuario de Reddit' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tripledemia-acerca-covid-19-repunta-puedo-usar-test-ya-han-caducado-1302036'>La "tripledemia" se acerca y la COVID-19 repunta: ¿Puedes aún usar los test que ya han caducado?</a></h4>
+    <a href='https://computerhoy.com/life/tripledemia-acerca-covid-19-repunta-puedo-usar-test-ya-han-caducado-1302036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/coronavirus-3129450.jpg?tf=1200x' alt='La "tripledemia" se acerca y la COVID-19 repunta: ¿Puedes aún usar los test que ya han caducado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/paint-inspira-photoshop-prueba-herramienta-eliminar-fondo-imagenes-1302076'>Paint se inspira en Photoshop y prueba una herramienta para eliminar el fondo de las imágenes</a></h4>
     <a href='https://computerhoy.com/windows/paint-inspira-photoshop-prueba-herramienta-eliminar-fondo-imagenes-1302076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/paint-inspira-photoshop-prueba-herramienta-eliminar-fondo-imagenes-3129512.jpg?tf=1200x' alt='Paint se inspira en Photoshop y prueba una herramienta para eliminar el fondo de las imágenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-barato-rebajado-sorprende-gran-pantalla-alexa-1302040'>Este smartwatch barato, y rebajado, sorprende por su gran pantalla y Alexa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-barato-rebajado-sorprende-gran-pantalla-alexa-1302040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazfit-bip-5-3129452.jpg?tf=1200x' alt='Este smartwatch barato, y rebajado, sorprende por su gran pantalla y Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/bitcoin-ethereum-dogecoin-criptomonedas-han-subido-noticia-jp-morgan-1302052'>Bitcoin, Ethereum y Dogecoin: las criptomonedas que más han subido tras la noticia de JP Morgan</a></h4>
-    <a href='https://computerhoy.com/criptos/bitcoin-ethereum-dogecoin-criptomonedas-han-subido-noticia-jp-morgan-1302052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/bitcoin-toca-maximo-13-meses-3076912.jpg?tf=1200x' alt='Bitcoin, Ethereum y Dogecoin: las criptomonedas que más han subido tras la noticia de JP Morgan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/era-vehiculos-sostenibles-ya-aqui-primer-motor-funciona-100-hidrogeno-1302010'>La era de los coches sostenibles ya está aquí: Corea presenta el primer motor que funciona al 100% con hidrógeno</a></h4>
-    <a href='https://computerhoy.com/motor/era-vehiculos-sostenibles-ya-aqui-primer-motor-funciona-100-hidrogeno-1302010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/coche-hidrogeno-3129424.jpg?tf=1200x' alt='La era de los coches sostenibles ya está aquí: Corea presenta el primer motor que funciona al 100% con hidrógeno' />
     </a>
 </div>
 
