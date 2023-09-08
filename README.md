@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972'>Keynote de Apple: cómo ver online la presentación del iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/keynote-apple-3129382.jpg?tf=1200x' alt='Keynote de Apple: cómo ver online la presentación del iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/accesorio-iphone-salvavidas-debes-tener-1300886'>Este accesorio para iPhone es un salvavidas que debes tener sí o sí</a></h4>
+    <a href='https://computerhoy.com/tecnologia/accesorio-iphone-salvavidas-debes-tener-1300886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cargador-inalambrico-iphone-2812775.jpg?tf=1200x' alt='Este accesorio para iPhone es un salvavidas que debes tener sí o sí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/elon-musk-abre-debate-hace-iphone-actual-mejor-versiones-anteriores-1301962'>Elon Musk abre debate: ¿Qué hace el iPhone actual mejor que las versiones anteriores?</a></h4>
+    <a href='https://computerhoy.com/apple/elon-musk-abre-debate-hace-iphone-actual-mejor-versiones-anteriores-1301962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/elon-musk-iphone-3129350.jpg?tf=1200x' alt='Elon Musk abre debate: ¿Qué hace el iPhone actual mejor que las versiones anteriores?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/comprar-alfombrilla-raton-debes-tener-cuenta-cuales-son-mejores-modelos-1301676'>Comprar una alfombrilla para ratón: qué debes tener en cuenta y cuáles son los mejores modelos</a></h4>
     <a href='https://computerhoy.com/guia-compra/comprar-alfombrilla-raton-debes-tener-cuenta-cuales-son-mejores-modelos-1301676' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/razer-gigantus-3128998.jpg?tf=1200x' alt='Comprar una alfombrilla para ratón: qué debes tener en cuenta y cuáles son los mejores modelos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sistemas-nube-megaupload-llegada-big-tech-1237596'>25 aniversario de Computer Hoy: Historia del almacenamiento en la nube, de Megaupload al desembarco de las 'big tech'</a></h4>
     <a href='https://computerhoy.com/tecnologia/sistemas-nube-megaupload-llegada-big-tech-1237596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/historia-almacenamiento-nube-dropbox-google-drive-megaupload-microsoft-onedrive-3126930.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Historia del almacenamiento en la nube, de Megaupload al desembarco de las 'big tech'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033'>Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/dyson-v15-detect-submarine-3127592.jpg?tf=1200x' alt='Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/evidencias-cientificas-prueban-hombre-llego-luna-no-fue-montaje-1300700'>Evidencias científicas que prueban que el hombre llegó a la Luna (y no fue un montaje)</a></h4>
-    <a href='https://computerhoy.com/ciencia/evidencias-cientificas-prueban-hombre-llego-luna-no-fue-montaje-1300700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apollo-misiones-luna-2496235.jpg?tf=1200x' alt='Evidencias científicas que prueban que el hombre llegó a la Luna (y no fue un montaje)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/primera-gran-marca-suministrara-todos-coches-version-electrica-2024-1301664'>Primera gran marca que suministrará todos sus coches en versión eléctrica para 2024 </a></h4>
-    <a href='https://computerhoy.com/motor/primera-gran-marca-suministrara-todos-coches-version-electrica-2024-1301664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/opel-astra-sports-tourer-electric-3126708.jpg?tf=1200x' alt='Primera gran marca que suministrará todos sus coches en versión eléctrica para 2024 ' />
     </a>
 </div>
 
