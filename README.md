@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-dispone-revolucionar-todos-accesorios-anadiendoles-usb-c-1302578'>Apple se dispone a revolucionar todos sus accesorios añadiéndoles USB-C</a></h4>
+    <a href='https://computerhoy.com/apple/apple-dispone-revolucionar-todos-accesorios-anadiendoles-usb-c-1302578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-3130286.jpg?tf=1200x' alt='Apple se dispone a revolucionar todos sus accesorios añadiéndoles USB-C' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/trabajo-va-desaparecer-siempre-avance-ia-1302576'>Este trabajo va a desaparecer para siempre con el avance de la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trabajo-va-desaparecer-siempre-avance-ia-1302576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/empresario-3130284.jpg?tf=1200x' alt='Este trabajo va a desaparecer para siempre con el avance de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/microsoft-quiere-capturar-carbono-piedra-caliza-triturada-1302568'>Microsoft quiere capturar carbono con piedra caliza triturada para cumplir los objetivos climáticos</a></h4>
     <a href='https://computerhoy.com/life/microsoft-quiere-capturar-carbono-piedra-caliza-triturada-1302568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/piedra-caliza-3130274.jpg?tf=1200x' alt='Microsoft quiere capturar carbono con piedra caliza triturada para cumplir los objetivos climáticos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/error-400-significa-como-solucionarlo-1293460'>Error 400: ¿qué significa y cómo solucionarlo?</a></h4>
     <a href='https://computerhoy.com/tutoriales/error-400-significa-como-solucionarlo-1293460' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/error-400-ordenador-3114642.jpg?tf=1200x' alt='Error 400: ¿qué significa y cómo solucionarlo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/descubren-android-14-no-calcula-bien-uso-almacenamiento-1302556'>Descubren que Android 14 calcula incorrectamente el uso del almacenamiento</a></h4>
-    <a href='https://computerhoy.com/android/descubren-android-14-no-calcula-bien-uso-almacenamiento-1302556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-14-2937042.jpg?tf=1200x' alt='Descubren que Android 14 calcula incorrectamente el uso del almacenamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/35-comandos-sacarle-todo-partido-siri-1287616'>35 comandos para sacarle todo el partido a Siri </a></h4>
-    <a href='https://computerhoy.com/apple/35-comandos-sacarle-todo-partido-siri-1287616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/08/188932-integracion-siri-whatsapp.jpg?tf=1200x' alt='35 comandos para sacarle todo el partido a Siri ' />
     </a>
 </div>
 
