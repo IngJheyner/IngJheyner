@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/marca-reina-air-fryer-tiene-modelo-low-cost-menos-50-euros-perfecto-vuelta-rutina-1300322'>La marca reina de las Air Fryer tiene modelo low cost, de menos de 50 euros y perfecto la vuelta a la rutina</a></h4>
+    <a href='https://computerhoy.com/tecnologia/marca-reina-air-fryer-tiene-modelo-low-cost-menos-50-euros-perfecto-vuelta-rutina-1300322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cosori-caf-211-3126768.jpg?tf=1200x' alt='La marca reina de las Air Fryer tiene modelo low cost, de menos de 50 euros y perfecto la vuelta a la rutina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/peligroso-malware-distribuye-traves-microsoft-teams-debes-evitar-1302602'>El peligroso malware que se distribuye a través de Microsoft Teams y que debes evitar</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/peligroso-malware-distribuye-traves-microsoft-teams-debes-evitar-1302602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/microsoft-teams-3130306.jpg?tf=1200x' alt='El peligroso malware que se distribuye a través de Microsoft Teams y que debes evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-watch-series-9-contaria-sensor-frecuencia-cardiaca-mejorado-nuevo-chip-1302580'>El Apple Watch Series 9 contaría con un sensor de frecuencia cardiaca mejorado y un nuevo chip</a></h4>
     <a href='https://computerhoy.com/apple/apple-watch-series-9-contaria-sensor-frecuencia-cardiaca-mejorado-nuevo-chip-1302580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-series-7-2538971.jpg?tf=1200x' alt='El Apple Watch Series 9 contaría con un sensor de frecuencia cardiaca mejorado y un nuevo chip' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-dispone-revolucionar-todos-accesorios-anadiendoles-usb-c-1302578'>Apple se dispone a revolucionar todos sus accesorios añadiéndoles USB-C</a></h4>
     <a href='https://computerhoy.com/apple/apple-dispone-revolucionar-todos-accesorios-anadiendoles-usb-c-1302578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-3130286.jpg?tf=1200x' alt='Apple se dispone a revolucionar todos sus accesorios añadiéndoles USB-C' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trabajo-va-desaparecer-siempre-avance-ia-1302576'>Este trabajo va a desaparecer para siempre con el avance de la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trabajo-va-desaparecer-siempre-avance-ia-1302576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/empresario-3130284.jpg?tf=1200x' alt='Este trabajo va a desaparecer para siempre con el avance de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/microsoft-quiere-capturar-carbono-piedra-caliza-triturada-1302568'>Microsoft quiere capturar carbono con piedra caliza triturada para cumplir los objetivos climáticos</a></h4>
-    <a href='https://computerhoy.com/life/microsoft-quiere-capturar-carbono-piedra-caliza-triturada-1302568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/piedra-caliza-3130274.jpg?tf=1200x' alt='Microsoft quiere capturar carbono con piedra caliza triturada para cumplir los objetivos climáticos' />
     </a>
 </div>
 
