@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-watch-series-9-contaria-sensor-frecuencia-cardiaca-mejorado-nuevo-chip-1302580'>El Apple Watch Series 9 contaría con un sensor de frecuencia cardiaca mejorado y un nuevo chip</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-series-9-contaria-sensor-frecuencia-cardiaca-mejorado-nuevo-chip-1302580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-series-7-2538971.jpg?tf=1200x' alt='El Apple Watch Series 9 contaría con un sensor de frecuencia cardiaca mejorado y un nuevo chip' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/gmail-quiere-envies-reacciones-emoji-correos-electronicos-1302594'>Gmail podría permitirte enviar reacciones con emoji en los correos electrónicos</a></h4>
+    <a href='https://computerhoy.com/apps/gmail-quiere-envies-reacciones-emoji-correos-electronicos-1302594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/reacciones-gmail-3130294.jpg?tf=1200x' alt='Gmail podría permitirte enviar reacciones con emoji en los correos electrónicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-dispone-revolucionar-todos-accesorios-anadiendoles-usb-c-1302578'>Apple se dispone a revolucionar todos sus accesorios añadiéndoles USB-C</a></h4>
     <a href='https://computerhoy.com/apple/apple-dispone-revolucionar-todos-accesorios-anadiendoles-usb-c-1302578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-3130286.jpg?tf=1200x' alt='Apple se dispone a revolucionar todos sus accesorios añadiéndoles USB-C' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/microsoft-quiere-capturar-carbono-piedra-caliza-triturada-1302568'>Microsoft quiere capturar carbono con piedra caliza triturada para cumplir los objetivos climáticos</a></h4>
     <a href='https://computerhoy.com/life/microsoft-quiere-capturar-carbono-piedra-caliza-triturada-1302568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/piedra-caliza-3130274.jpg?tf=1200x' alt='Microsoft quiere capturar carbono con piedra caliza triturada para cumplir los objetivos climáticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-crece-gracias-regreso-cole-1302564'>ChatGPT retoma el vuelo con la vuelta al cole</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-crece-gracias-regreso-cole-1302564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/como-utilizar-chatgpt-estudiar-hacer-trampas-3029598.jpg?tf=1200x' alt='ChatGPT retoma el vuelo con la vuelta al cole' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/error-400-significa-como-solucionarlo-1293460'>Error 400: ¿qué significa y cómo solucionarlo?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/error-400-significa-como-solucionarlo-1293460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/error-400-ordenador-3114642.jpg?tf=1200x' alt='Error 400: ¿qué significa y cómo solucionarlo?' />
     </a>
 </div>
 
