@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/diamante-puede-convertirse-caro-todos-tiempos-1301686'>Este diamante puede convertirse en el más caro de todos los tiempos</a></h4>
-    <a href='https://computerhoy.com/life/diamante-puede-convertirse-caro-todos-tiempos-1301686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/diamante-puede-convertirse-caro-todos-tiempos-3129032.jpg?tf=1200x' alt='Este diamante puede convertirse en el más caro de todos los tiempos' />
+    <h4><a href='https://computerhoy.com/apple/35-comandos-sacarle-todo-partido-siri-1287616'>35 comandos para sacarle todo el partido a Siri </a></h4>
+    <a href='https://computerhoy.com/apple/35-comandos-sacarle-todo-partido-siri-1287616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/08/188932-integracion-siri-whatsapp.jpg?tf=1200x' alt='35 comandos para sacarle todo el partido a Siri ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/casi-toda-probabilidad-proximo-movil-costara-rinon-1299802'>Con casi toda probabilidad tu próximo móvil costará un riñón</a></h4>
-    <a href='https://computerhoy.com/moviles/casi-toda-probabilidad-proximo-movil-costara-rinon-1299802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-iphone-14-pro-2821761.jpg?tf=1200x' alt='Con casi toda probabilidad tu próximo móvil costará un riñón' />
+    <h4><a href='https://computerhoy.com/entretenimiento/5-true-crime-espanoles-han-despertado-polemica-estrenarse-netflix-1301036'>5 true crime españoles que han despertado polémica al estrenarse en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/5-true-crime-espanoles-han-despertado-polemica-estrenarse-netflix-1301036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/cuerpo-llamas-3011668.jpg?tf=1200x' alt='5 true crime españoles que han despertado polémica al estrenarse en Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-dyson-ofertas-805051'>Estas son las mejores aspiradoras Dyson que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-dyson-ofertas-805051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/dyson-v15s-detect-submarine-3127696.jpg?tf=1200x' alt='Estas son las mejores aspiradoras Dyson que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/tutoriales/10-mejores-funciones-experimentales-flags-google-chrome-debes-activar-ahora-mismo-1301016'>Las 10 mejores flags o funciones experimentales de Google Chrome que debes activar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/10-mejores-funciones-experimentales-flags-google-chrome-debes-activar-ahora-mismo-1301016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/mejores-flags-chrome_9.jpg?tf=1200x' alt='Las 10 mejores flags o funciones experimentales de Google Chrome que debes activar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/sirven-suenos-como-influyen-conexion-cuerpo-1300446'>¿Para qué sirven los sueños y cómo influyen en la conexión con el cuerpo y la mente? </a></h4>
-    <a href='https://computerhoy.com/ciencia/sirven-suenos-como-influyen-conexion-cuerpo-1300446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/suenos-significado-3127050.jpg?tf=1200x' alt='¿Para qué sirven los sueños y cómo influyen en la conexión con el cuerpo y la mente? ' />
+    <h4><a href='https://computerhoy.com/life/monedas-valen-miles-euros-secretos-detras-coleccionismo-mitos-realidades-numismatica-1296338'>¿Monedas que valen miles de euros? Secretos detrás del coleccionismo, mitos y realidades de la numismática</a></h4>
+    <a href='https://computerhoy.com/life/monedas-valen-miles-euros-secretos-detras-coleccionismo-mitos-realidades-numismatica-1296338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/numismatica-3128896.jpg?tf=1200x' alt='¿Monedas que valen miles de euros? Secretos detrás del coleccionismo, mitos y realidades de la numismática' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dispositivos-inteligentes-recopilan-datos-sepas-1301586'>Estas son las marcas y dispositivos inteligentes que están recopilando tus datos sin que lo sepas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dispositivos-inteligentes-recopilan-datos-sepas-1301586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/estas-son-marcas-dispositivos-inteligentes-estan-recopilando-datos-sepas-3128876.jpg?tf=1200x' alt='Estas son las marcas y dispositivos inteligentes que están recopilando tus datos sin que lo sepas' />
+    <h4><a href='https://computerhoy.com/guia-compra/desk-mats-alfombrillas-escritorio-estos-son-mejores-modelos-comprar-1302530'>Desk mats o alfombrillas de escritorio: estos son los mejores modelos para comprar</a></h4>
+    <a href='https://computerhoy.com/guia-compra/desk-mats-alfombrillas-escritorio-estos-son-mejores-modelos-comprar-1302530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/desk-mat-keychron-3130220.jpg?tf=1200x' alt='Desk mats o alfombrillas de escritorio: estos son los mejores modelos para comprar' />
     </a>
 </div>
 
