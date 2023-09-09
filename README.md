@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/microsoft-quiere-capturar-carbono-piedra-caliza-triturada-1302568'>Microsoft quiere capturar carbono con piedra caliza triturada para cumplir los objetivos climáticos</a></h4>
+    <a href='https://computerhoy.com/life/microsoft-quiere-capturar-carbono-piedra-caliza-triturada-1302568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/piedra-caliza-3130274.jpg?tf=1200x' alt='Microsoft quiere capturar carbono con piedra caliza triturada para cumplir los objetivos climáticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-crece-gracias-regreso-cole-1302564'>ChatGPT retoma el vuelo con la vuelta al cole</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-crece-gracias-regreso-cole-1302564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/como-utilizar-chatgpt-estudiar-hacer-trampas-3029598.jpg?tf=1200x' alt='ChatGPT retoma el vuelo con la vuelta al cole' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/error-400-significa-como-solucionarlo-1293460'>Error 400: ¿qué significa y cómo solucionarlo?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/error-400-significa-como-solucionarlo-1293460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/error-400-ordenador-3114642.jpg?tf=1200x' alt='Error 400: ¿qué significa y cómo solucionarlo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/descubren-android-14-no-calcula-bien-uso-almacenamiento-1302556'>Descubren que Android 14 calcula incorrectamente el uso del almacenamiento</a></h4>
+    <a href='https://computerhoy.com/android/descubren-android-14-no-calcula-bien-uso-almacenamiento-1302556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-14-2937042.jpg?tf=1200x' alt='Descubren que Android 14 calcula incorrectamente el uso del almacenamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/35-comandos-sacarle-todo-partido-siri-1287616'>35 comandos para sacarle todo el partido a Siri </a></h4>
     <a href='https://computerhoy.com/apple/35-comandos-sacarle-todo-partido-siri-1287616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/08/188932-integracion-siri-whatsapp.jpg?tf=1200x' alt='35 comandos para sacarle todo el partido a Siri ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-true-crime-espanoles-han-despertado-polemica-estrenarse-netflix-1301036'>5 true crime españoles que han despertado polémica al estrenarse en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-true-crime-espanoles-han-despertado-polemica-estrenarse-netflix-1301036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/cuerpo-llamas-3011668.jpg?tf=1200x' alt='5 true crime españoles que han despertado polémica al estrenarse en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/10-mejores-funciones-experimentales-flags-google-chrome-debes-activar-ahora-mismo-1301016'>Las 10 mejores flags o funciones experimentales de Google Chrome que debes activar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/10-mejores-funciones-experimentales-flags-google-chrome-debes-activar-ahora-mismo-1301016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/mejores-flags-chrome_9.jpg?tf=1200x' alt='Las 10 mejores flags o funciones experimentales de Google Chrome que debes activar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/monedas-valen-miles-euros-secretos-detras-coleccionismo-mitos-realidades-numismatica-1296338'>¿Monedas que valen miles de euros? Secretos detrás del coleccionismo, mitos y realidades de la numismática</a></h4>
-    <a href='https://computerhoy.com/life/monedas-valen-miles-euros-secretos-detras-coleccionismo-mitos-realidades-numismatica-1296338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/numismatica-3128896.jpg?tf=1200x' alt='¿Monedas que valen miles de euros? Secretos detrás del coleccionismo, mitos y realidades de la numismática' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/desk-mats-alfombrillas-escritorio-estos-son-mejores-modelos-comprar-1302530'>Desk mats o alfombrillas de escritorio: estos son los mejores modelos para comprar</a></h4>
-    <a href='https://computerhoy.com/guia-compra/desk-mats-alfombrillas-escritorio-estos-son-mejores-modelos-comprar-1302530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/desk-mat-keychron-3130220.jpg?tf=1200x' alt='Desk mats o alfombrillas de escritorio: estos son los mejores modelos para comprar' />
     </a>
 </div>
 
