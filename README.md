@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/diamante-puede-convertirse-caro-todos-tiempos-1301686'>Este diamante puede convertirse en el más caro de todos los tiempos</a></h4>
+    <a href='https://computerhoy.com/life/diamante-puede-convertirse-caro-todos-tiempos-1301686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/diamante-puede-convertirse-caro-todos-tiempos-3129032.jpg?tf=1200x' alt='Este diamante puede convertirse en el más caro de todos los tiempos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/casi-toda-probabilidad-proximo-movil-costara-rinon-1299802'>Con casi toda probabilidad tu próximo móvil costará un riñón</a></h4>
+    <a href='https://computerhoy.com/moviles/casi-toda-probabilidad-proximo-movil-costara-rinon-1299802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/review-iphone-14-pro-2821761.jpg?tf=1200x' alt='Con casi toda probabilidad tu próximo móvil costará un riñón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-dyson-ofertas-805051'>Estas son las mejores aspiradoras Dyson que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-dyson-ofertas-805051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/dyson-v15s-detect-submarine-3127696.jpg?tf=1200x' alt='Estas son las mejores aspiradoras Dyson que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/sirven-suenos-como-influyen-conexion-cuerpo-1300446'>¿Para qué sirven los sueños y cómo influyen en la conexión con el cuerpo y la mente? </a></h4>
     <a href='https://computerhoy.com/ciencia/sirven-suenos-como-influyen-conexion-cuerpo-1300446' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/suenos-significado-3127050.jpg?tf=1200x' alt='¿Para qué sirven los sueños y cómo influyen en la conexión con el cuerpo y la mente? ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/dispositivos-inteligentes-recopilan-datos-sepas-1301586'>Estas son las marcas y dispositivos inteligentes que están recopilando tus datos sin que lo sepas</a></h4>
     <a href='https://computerhoy.com/tecnologia/dispositivos-inteligentes-recopilan-datos-sepas-1301586' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/estas-son-marcas-dispositivos-inteligentes-estan-recopilando-datos-sepas-3128876.jpg?tf=1200x' alt='Estas son las marcas y dispositivos inteligentes que están recopilando tus datos sin que lo sepas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-revienta-vuelta-cole-impresora-wifi-escaner-sorprendentemente-barata-1300172'>Amazon revienta la vuelta al cole: esta impresora con WiFi y escáner es sorprendentemente barata y te salvará en más de una ocasión</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-revienta-vuelta-cole-impresora-wifi-escaner-sorprendentemente-barata-1300172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/canon-pixma-ts3550i-3126546.jpg?tf=1200x' alt='Amazon revienta la vuelta al cole: esta impresora con WiFi y escáner es sorprendentemente barata y te salvará en más de una ocasión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-quiere-usb-c-iphone-15-sea-nueva-mina-oro-1302288'>Apple quiere convertir el USB-C de los iPhone 15 en su nueva mina de oro</a></h4>
-    <a href='https://computerhoy.com/apple/apple-quiere-usb-c-iphone-15-sea-nueva-mina-oro-1302288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='Apple quiere convertir el USB-C de los iPhone 15 en su nueva mina de oro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/gran-avance-deseadas-baterias-litio-azufre-fabricantes-coches-electricos-frotan-manos-1302264'>Gran avance en las deseadas baterías de litio-azufre: los fabricantes de coches eléctricos se frotan las manos</a></h4>
-    <a href='https://computerhoy.com/motor/gran-avance-deseadas-baterias-litio-azufre-fabricantes-coches-electricos-frotan-manos-1302264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bateria-coche-electrico-3121054.jpg?tf=1200x' alt='Gran avance en las deseadas baterías de litio-azufre: los fabricantes de coches eléctricos se frotan las manos' />
     </a>
 </div>
 
