@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/algunos-hominidos-vestian-sandalias-hace-148000-anos-1300360'>Descubrimiento impactante: algunos homínidos vestían sandalias hace 148.000 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/algunos-hominidos-vestian-sandalias-hace-148000-anos-1300360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/descubrimiento-impactante-algunos-hominidos-vestian-sandalias-hace-148000-anos-3126858.jpg?tf=1200x' alt='Descubrimiento impactante: algunos homínidos vestían sandalias hace 148.000 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cinco-preguntas-chatgpt-consumen-medio-litro-agua-1302872'>El despilfarro ecológico de la IA: 5 preguntas a ChatGPT consumen medio litro de agua</a></h4>
     <a href='https://computerhoy.com/tecnologia/cinco-preguntas-chatgpt-consumen-medio-litro-agua-1302872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/despilfarro-ecologico-ia-5-preguntas-chatgpt-consumen-medio-litro-agua-3130574.jpg?tf=1200x' alt='El despilfarro ecológico de la IA: 5 preguntas a ChatGPT consumen medio litro de agua' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/microsoft-abandona-surface-duo-original-ya-no-recibira-actualizaciones-1302840'>Microsoft abandona la Surface Duo original y ya no recibirá actualizaciones</a></h4>
     <a href='https://computerhoy.com/moviles/microsoft-abandona-surface-duo-original-ya-no-recibira-actualizaciones-1302840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/microsoft-surface-duo-movil.jpg?tf=1200x' alt='Microsoft abandona la Surface Duo original y ya no recibirá actualizaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/keynote-2023-esperamos-evento-apple-1299714'>Keynote 2023: qué esperar del evento de Apple el 12 de septiembre</a></h4>
-    <a href='https://computerhoy.com/apple/keynote-2023-esperamos-evento-apple-1299714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='Keynote 2023: qué esperar del evento de Apple el 12 de septiembre' />
     </a>
 </div>
 
