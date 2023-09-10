@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cinco-preguntas-chatgpt-consumen-medio-litro-agua-1302872'>El despilfarro ecológico de la IA: 5 preguntas a ChatGPT consumen medio litro de agua</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cinco-preguntas-chatgpt-consumen-medio-litro-agua-1302872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/despilfarro-ecologico-ia-5-preguntas-chatgpt-consumen-medio-litro-agua-3130574.jpg?tf=1200x' alt='El despilfarro ecológico de la IA: 5 preguntas a ChatGPT consumen medio litro de agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fallece-dennis-austin-creador-powerpoint-76-anos-edad-1302860'>Fallece Dennis Austin, el creador de PowerPoint, a los 76 años de edad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fallece-dennis-austin-creador-powerpoint-76-anos-edad-1302860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fallece-dennis-austin-creador-powerpoint-76-anos-edad-3130564.jpg?tf=1200x' alt='Fallece Dennis Austin, el creador de PowerPoint, a los 76 años de edad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/como-ver-apple-keynote-2023-linux-android-windows-1302850'>Así puedes ver la Keynote de Apple en Linux, Android, Windows y otros sistemas</a></h4>
     <a href='https://computerhoy.com/apple/como-ver-apple-keynote-2023-linux-android-windows-1302850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/puedes-ver-keynote-apple-linux-android-windows-otros-sistemas-3130560.jpg?tf=1200x' alt='Así puedes ver la Keynote de Apple en Linux, Android, Windows y otros sistemas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/keynote-2023-esperamos-evento-apple-1299714'>Keynote 2023: qué esperar del evento de Apple el 12 de septiembre</a></h4>
     <a href='https://computerhoy.com/apple/keynote-2023-esperamos-evento-apple-1299714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='Keynote 2023: qué esperar del evento de Apple el 12 de septiembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972'>Keynote de Apple: cómo ver online la presentación del iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/keynote-apple-3129382.jpg?tf=1200x' alt='Keynote de Apple: cómo ver online la presentación del iPhone 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/vasos-cafe-papel-ecologicos-son-tan-toxicos-como-plastico-sentencia-estudio-1302836'>Los vasos de café de papel ecológicos son tan tóxicos como los de plástico, sentencia este estudio</a></h4>
-    <a href='https://computerhoy.com/life/vasos-cafe-papel-ecologicos-son-tan-toxicos-como-plastico-sentencia-estudio-1302836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/vasos-cafe-papel-3130550.jpg?tf=1200x' alt='Los vasos de café de papel ecológicos son tan tóxicos como los de plástico, sentencia este estudio' />
     </a>
 </div>
 
