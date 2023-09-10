@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-freidoras-aceite-baratas-941017'>5 freidoras de menos de 50 euros para los que prefieren freír a la antigua usanza</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-freidoras-aceite-baratas-941017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/pollo-frito-2264913.jpg?tf=1200x' alt='5 freidoras de menos de 50 euros para los que prefieren freír a la antigua usanza' />
+    <h4><a href='https://computerhoy.com/tecnologia/he-probado-chatbot-denominan-como-gran-competidor-chatgpt-te-interesa-1295080'>He probado el chatbot que denominan como el gran competidor de ChatGPT y esto te interesa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-probado-chatbot-denominan-como-gran-competidor-chatgpt-te-interesa-1295080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/competidor-chatgpt-3117902.jpg?tf=1200x' alt='He probado el chatbot que denominan como el gran competidor de ChatGPT y esto te interesa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/marca-reina-air-fryer-tiene-modelo-low-cost-menos-50-euros-perfecto-vuelta-rutina-1300322'>La marca reina de las Air Fryer tiene modelo low cost, de menos de 50 euros y perfecto la vuelta a la rutina</a></h4>
-    <a href='https://computerhoy.com/tecnologia/marca-reina-air-fryer-tiene-modelo-low-cost-menos-50-euros-perfecto-vuelta-rutina-1300322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cosori-caf-211-3126768.jpg?tf=1200x' alt='La marca reina de las Air Fryer tiene modelo low cost, de menos de 50 euros y perfecto la vuelta a la rutina' />
+    <h4><a href='https://computerhoy.com/life/lemuria-misterioso-continente-perdido-nunca-existio-1301682'>Lemuria: el misterioso continente perdido que nunca existió y que sigue despertando la curiosidad de los más escépticos</a></h4>
+    <a href='https://computerhoy.com/life/lemuria-misterioso-continente-perdido-nunca-existio-1301682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lemuria-misterioso-continente-perdido-nunca-existio-3129008.jpg?tf=1200x' alt='Lemuria: el misterioso continente perdido que nunca existió y que sigue despertando la curiosidad de los más escépticos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/peligroso-malware-distribuye-traves-microsoft-teams-debes-evitar-1302602'>El peligroso malware que se distribuye a través de Microsoft Teams y que debes evitar</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/peligroso-malware-distribuye-traves-microsoft-teams-debes-evitar-1302602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/microsoft-teams-3130306.jpg?tf=1200x' alt='El peligroso malware que se distribuye a través de Microsoft Teams y que debes evitar' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/fuga-datos-como-impacta-seguridad-mundial-1286622'>¿Qué es una fuga de datos y cómo impacta en la seguridad de personas y empresas?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/fuga-datos-como-impacta-seguridad-mundial-1286622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1694079970248-3128568.jpg?tf=1200x' alt='¿Qué es una fuga de datos y cómo impacta en la seguridad de personas y empresas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-series-9-contaria-sensor-frecuencia-cardiaca-mejorado-nuevo-chip-1302580'>El Apple Watch Series 9 contaría con un sensor de frecuencia cardiaca mejorado y un nuevo chip</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-series-9-contaria-sensor-frecuencia-cardiaca-mejorado-nuevo-chip-1302580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-watch-series-7-2538971.jpg?tf=1200x' alt='El Apple Watch Series 9 contaría con un sensor de frecuencia cardiaca mejorado y un nuevo chip' />
+    <h4><a href='https://computerhoy.com/tecnologia/gran-aliado-combatir-absentismo-escolar-japon-robots-1302598'>Japón utilizará robots para combatir el absentismo escolar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gran-aliado-combatir-absentismo-escolar-japon-robots-1302598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/robot-estudiando-3130300.jpg?tf=1200x' alt='Japón utilizará robots para combatir el absentismo escolar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/gmail-quiere-envies-reacciones-emoji-correos-electronicos-1302594'>Gmail podría permitirte enviar reacciones con emoji en los correos electrónicos</a></h4>
-    <a href='https://computerhoy.com/apps/gmail-quiere-envies-reacciones-emoji-correos-electronicos-1302594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/reacciones-gmail-3130294.jpg?tf=1200x' alt='Gmail podría permitirte enviar reacciones con emoji en los correos electrónicos' />
+    <h4><a href='https://computerhoy.com/internet/trucos-mejorar-conexion-internet-1302070'>Llevo ya más de 10 años escribiendo de tecnología: estos son mis trucos para que mi conexión a internet sea la mejor</a></h4>
+    <a href='https://computerhoy.com/internet/trucos-mejorar-conexion-internet-1302070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/router-wifi-3129594.jpg?tf=1200x' alt='Llevo ya más de 10 años escribiendo de tecnología: estos son mis trucos para que mi conexión a internet sea la mejor' />
     </a>
 </div>
 
