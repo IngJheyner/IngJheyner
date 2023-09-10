@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desconocido-muy-barato-producto-xiaomi-oferta-te-ahorrara-muchas-horas-trabajo-1300188'>Un desconocido (y muy barato) producto Xiaomi está en oferta y te ahorrará muchas horas de trabajo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desconocido-muy-barato-producto-xiaomi-oferta-te-ahorrara-muchas-horas-trabajo-1300188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/logo-xiaomi-3076606.jpg?tf=1200x' alt='Un desconocido (y muy barato) producto Xiaomi está en oferta y te ahorrará muchas horas de trabajo' />
+    <h4><a href='https://computerhoy.com/moviles/microsoft-abandona-surface-duo-original-ya-no-recibira-actualizaciones-1302840'>Microsoft abandona la Surface Duo original y ya no recibirá actualizaciones</a></h4>
+    <a href='https://computerhoy.com/moviles/microsoft-abandona-surface-duo-original-ya-no-recibira-actualizaciones-1302840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/microsoft-surface-duo-movil.jpg?tf=1200x' alt='Microsoft abandona la Surface Duo original y ya no recibirá actualizaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-probado-durante-temporada-waze-echo-menos-google-maps-1298518'>He probado durante una temporada Waze y esto es lo que más echo de menos de Google Maps</a></h4>
-    <a href='https://computerhoy.com/apps/he-probado-durante-temporada-waze-echo-menos-google-maps-1298518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/waze-3123648.jpg?tf=1200x' alt='He probado durante una temporada Waze y esto es lo que más echo de menos de Google Maps' />
+    <h4><a href='https://computerhoy.com/apple/keynote-2023-esperamos-evento-apple-1299714'>Keynote 2023: qué esperar del evento de Apple el 12 de septiembre</a></h4>
+    <a href='https://computerhoy.com/apple/keynote-2023-esperamos-evento-apple-1299714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='Keynote 2023: qué esperar del evento de Apple el 12 de septiembre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/7-objetos-junto-nunca-deberias-colocar-router-wifi-1301638'>7 objetos junto a los que nunca deberías colocar el router WiFi para mejorar la señal</a></h4>
-    <a href='https://computerhoy.com/tutoriales/7-objetos-junto-nunca-deberias-colocar-router-wifi-1301638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/router-wifi-2128833.jpg?tf=1200x' alt='7 objetos junto a los que nunca deberías colocar el router WiFi para mejorar la señal' />
+    <h4><a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972'>Keynote de Apple: cómo ver online la presentación del iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/keynote-apple-3129382.jpg?tf=1200x' alt='Keynote de Apple: cómo ver online la presentación del iPhone 15' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/8-motivos-bateria-movil-agota-demasiado-rapido-1297532'>8 motivos por los que la batería de tu móvil se agota demasiado rápido y cómo puedes evitarlo</a></h4>
-    <a href='https://computerhoy.com/moviles/8-motivos-bateria-movil-agota-demasiado-rapido-1297532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/bateria-baja-2066627.jpg?tf=1200x' alt='8 motivos por los que la batería de tu móvil se agota demasiado rápido y cómo puedes evitarlo' />
+    <h4><a href='https://computerhoy.com/life/vasos-cafe-papel-ecologicos-son-tan-toxicos-como-plastico-sentencia-estudio-1302836'>Los vasos de café de papel ecológicos son tan tóxicos como los de plástico, sentencia este estudio</a></h4>
+    <a href='https://computerhoy.com/life/vasos-cafe-papel-ecologicos-son-tan-toxicos-como-plastico-sentencia-estudio-1302836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/vasos-cafe-papel-3130550.jpg?tf=1200x' alt='Los vasos de café de papel ecológicos son tan tóxicos como los de plástico, sentencia este estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-probado-chatbot-denominan-como-gran-competidor-chatgpt-te-interesa-1295080'>He probado el chatbot que denominan como el gran competidor de ChatGPT y esto te interesa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-probado-chatbot-denominan-como-gran-competidor-chatgpt-te-interesa-1295080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/competidor-chatgpt-3117902.jpg?tf=1200x' alt='He probado el chatbot que denominan como el gran competidor de ChatGPT y esto te interesa' />
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
     </a>
 </div>
 
