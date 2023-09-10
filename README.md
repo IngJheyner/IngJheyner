@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-freidoras-aceite-baratas-941017'>5 freidoras de menos de 50 euros para los que prefieren freír a la antigua usanza</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-freidoras-aceite-baratas-941017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/pollo-frito-2264913.jpg?tf=1200x' alt='5 freidoras de menos de 50 euros para los que prefieren freír a la antigua usanza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/marca-reina-air-fryer-tiene-modelo-low-cost-menos-50-euros-perfecto-vuelta-rutina-1300322'>La marca reina de las Air Fryer tiene modelo low cost, de menos de 50 euros y perfecto la vuelta a la rutina</a></h4>
     <a href='https://computerhoy.com/tecnologia/marca-reina-air-fryer-tiene-modelo-low-cost-menos-50-euros-perfecto-vuelta-rutina-1300322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cosori-caf-211-3126768.jpg?tf=1200x' alt='La marca reina de las Air Fryer tiene modelo low cost, de menos de 50 euros y perfecto la vuelta a la rutina' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/gmail-quiere-envies-reacciones-emoji-correos-electronicos-1302594'>Gmail podría permitirte enviar reacciones con emoji en los correos electrónicos</a></h4>
     <a href='https://computerhoy.com/apps/gmail-quiere-envies-reacciones-emoji-correos-electronicos-1302594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/reacciones-gmail-3130294.jpg?tf=1200x' alt='Gmail podría permitirte enviar reacciones con emoji en los correos electrónicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-dispone-revolucionar-todos-accesorios-anadiendoles-usb-c-1302578'>Apple se dispone a revolucionar todos sus accesorios añadiéndoles USB-C</a></h4>
-    <a href='https://computerhoy.com/apple/apple-dispone-revolucionar-todos-accesorios-anadiendoles-usb-c-1302578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-3130286.jpg?tf=1200x' alt='Apple se dispone a revolucionar todos sus accesorios añadiéndoles USB-C' />
     </a>
 </div>
 
