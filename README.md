@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/desconocido-muy-barato-producto-xiaomi-oferta-te-ahorrara-muchas-horas-trabajo-1300188'>Un desconocido (y muy barato) producto Xiaomi está en oferta y te ahorrará muchas horas de trabajo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desconocido-muy-barato-producto-xiaomi-oferta-te-ahorrara-muchas-horas-trabajo-1300188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/logo-xiaomi-3076606.jpg?tf=1200x' alt='Un desconocido (y muy barato) producto Xiaomi está en oferta y te ahorrará muchas horas de trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/he-probado-durante-temporada-waze-echo-menos-google-maps-1298518'>He probado durante una temporada Waze y esto es lo que más echo de menos de Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/he-probado-durante-temporada-waze-echo-menos-google-maps-1298518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/waze-3123648.jpg?tf=1200x' alt='He probado durante una temporada Waze y esto es lo que más echo de menos de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/7-objetos-junto-nunca-deberias-colocar-router-wifi-1301638'>7 objetos junto a los que nunca deberías colocar el router WiFi para mejorar la señal</a></h4>
+    <a href='https://computerhoy.com/tutoriales/7-objetos-junto-nunca-deberias-colocar-router-wifi-1301638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/router-wifi-2128833.jpg?tf=1200x' alt='7 objetos junto a los que nunca deberías colocar el router WiFi para mejorar la señal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/8-motivos-bateria-movil-agota-demasiado-rapido-1297532'>8 motivos por los que la batería de tu móvil se agota demasiado rápido y cómo puedes evitarlo</a></h4>
+    <a href='https://computerhoy.com/moviles/8-motivos-bateria-movil-agota-demasiado-rapido-1297532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/bateria-baja-2066627.jpg?tf=1200x' alt='8 motivos por los que la batería de tu móvil se agota demasiado rápido y cómo puedes evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/he-probado-chatbot-denominan-como-gran-competidor-chatgpt-te-interesa-1295080'>He probado el chatbot que denominan como el gran competidor de ChatGPT y esto te interesa</a></h4>
     <a href='https://computerhoy.com/tecnologia/he-probado-chatbot-denominan-como-gran-competidor-chatgpt-te-interesa-1295080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/competidor-chatgpt-3117902.jpg?tf=1200x' alt='He probado el chatbot que denominan como el gran competidor de ChatGPT y esto te interesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lemuria-misterioso-continente-perdido-nunca-existio-1301682'>Lemuria: el misterioso continente perdido que nunca existió y que sigue despertando la curiosidad de los más escépticos</a></h4>
-    <a href='https://computerhoy.com/life/lemuria-misterioso-continente-perdido-nunca-existio-1301682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lemuria-misterioso-continente-perdido-nunca-existio-3129008.jpg?tf=1200x' alt='Lemuria: el misterioso continente perdido que nunca existió y que sigue despertando la curiosidad de los más escépticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/fuga-datos-como-impacta-seguridad-mundial-1286622'>¿Qué es una fuga de datos y cómo impacta en la seguridad de personas y empresas?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/fuga-datos-como-impacta-seguridad-mundial-1286622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1694079970248-3128568.jpg?tf=1200x' alt='¿Qué es una fuga de datos y cómo impacta en la seguridad de personas y empresas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gran-aliado-combatir-absentismo-escolar-japon-robots-1302598'>Japón utilizará robots para combatir el absentismo escolar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gran-aliado-combatir-absentismo-escolar-japon-robots-1302598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/robot-estudiando-3130300.jpg?tf=1200x' alt='Japón utilizará robots para combatir el absentismo escolar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/trucos-mejorar-conexion-internet-1302070'>Llevo ya más de 10 años escribiendo de tecnología: estos son mis trucos para que mi conexión a internet sea la mejor</a></h4>
-    <a href='https://computerhoy.com/internet/trucos-mejorar-conexion-internet-1302070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/router-wifi-3129594.jpg?tf=1200x' alt='Llevo ya más de 10 años escribiendo de tecnología: estos son mis trucos para que mi conexión a internet sea la mejor' />
     </a>
 </div>
 
