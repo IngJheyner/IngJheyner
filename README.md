@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-ver-apple-keynote-2023-linux-android-windows-1302850'>Así puedes ver la Keynote de Apple en Linux, Android, Windows y otros sistemas</a></h4>
+    <a href='https://computerhoy.com/apple/como-ver-apple-keynote-2023-linux-android-windows-1302850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/puedes-ver-keynote-apple-linux-android-windows-otros-sistemas-3130560.jpg?tf=1200x' alt='Así puedes ver la Keynote de Apple en Linux, Android, Windows y otros sistemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/microsoft-abandona-surface-duo-original-ya-no-recibira-actualizaciones-1302840'>Microsoft abandona la Surface Duo original y ya no recibirá actualizaciones</a></h4>
     <a href='https://computerhoy.com/moviles/microsoft-abandona-surface-duo-original-ya-no-recibira-actualizaciones-1302840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/microsoft-surface-duo-movil.jpg?tf=1200x' alt='Microsoft abandona la Surface Duo original y ya no recibirá actualizaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/vasos-cafe-papel-ecologicos-son-tan-toxicos-como-plastico-sentencia-estudio-1302836'>Los vasos de café de papel ecológicos son tan tóxicos como los de plástico, sentencia este estudio</a></h4>
     <a href='https://computerhoy.com/life/vasos-cafe-papel-ecologicos-son-tan-toxicos-como-plastico-sentencia-estudio-1302836' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/vasos-cafe-papel-3130550.jpg?tf=1200x' alt='Los vasos de café de papel ecológicos son tan tóxicos como los de plástico, sentencia este estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
     </a>
 </div>
 
