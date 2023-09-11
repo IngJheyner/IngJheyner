@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-aprenden-lenguaje-murcielagos-abejas-inteligencia-artificial-1303408'>Los científicos están empezando a aprender el lenguaje de los murciélagos y las abejas utilizando IA</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-aprenden-lenguaje-murcielagos-abejas-inteligencia-artificial-1303408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cientificos-estan-empezando-aprender-lenguaje-mucielagos-abejas-utilizando-ia-3131570.jpg?tf=1200x' alt='Los científicos están empezando a aprender el lenguaje de los murciélagos y las abejas utilizando IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/mala-noticia-apple-dia-antes-estreno-iphone-15-1303412'>Malas noticias para Apple un día antes del estreno del iPhone 15 </a></h4>
+    <a href='https://computerhoy.com/apple/mala-noticia-apple-dia-antes-estreno-iphone-15-1303412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/extranas-predicciones-hablan-peor-rendimiento-iphone-15-pro-pro-max-2024-3057268.jpg?tf=1200x' alt='Malas noticias para Apple un día antes del estreno del iPhone 15 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/como-ver-cometa-nishimura-no-volvera-ano-2317-1303384'>Cuándo y cómo ver en España el cometa Nishimura, que no volverá hasta el año 2317</a></h4>
+    <a href='https://computerhoy.com/espacio/como-ver-cometa-nishimura-no-volvera-ano-2317-1303384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cometa-c-2022-e3-2925144.jpg?tf=1200x' alt='Cuándo y cómo ver en España el cometa Nishimura, que no volverá hasta el año 2317' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/hormiga-roja-fuego-amenaza-mortal-ya-ha-llegado-europa-1303374'>Cuidado con la hormiga roja de fuego: una amenaza mortal que ya ha llegado a Europa  </a></h4>
+    <a href='https://computerhoy.com/ciencia/hormiga-roja-fuego-amenaza-mortal-ya-ha-llegado-europa-1303374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cuidado-hormiga-roja-fuego-amenza-mortal-ya-ha-llegado-europa-3131528.jpg?tf=1200x' alt='Cuidado con la hormiga roja de fuego: una amenaza mortal que ya ha llegado a Europa  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/presentacion-iphone-15-podria-dejar-camino-dos-victimas-inesperadas-1303426'>La presentación del iPhone 15 podría dejar por el camino dos víctimas inesperadas</a></h4>
     <a href='https://computerhoy.com/apple/presentacion-iphone-15-podria-dejar-camino-dos-victimas-inesperadas-1303426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656645.jpg?tf=1200x' alt='La presentación del iPhone 15 podría dejar por el camino dos víctimas inesperadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/palabra-jamas-deberias-decir-telefono-hablas-ciberdelincuente-1303424'>Esta es la palabra con la que nunca debes contestar una llamada, según la Guardia Civil</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/palabra-jamas-deberias-decir-telefono-hablas-ciberdelincuente-1303424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/llamada-vising-2415435.jpg?tf=1200x' alt='Esta es la palabra con la que nunca debes contestar una llamada, según la Guardia Civil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-ultra-eres-android-reloj-top-huawei-tiene-poco-envidiarle-1302064'>¿Apple Watch Ultra? Si eres de Android, este reloj top de Huawei tiene poco que envidiarle</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-watch-ultra-eres-android-reloj-top-huawei-tiene-poco-envidiarle-1302064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/huawei-watch-ultimate-1680683759257-3001984.jpg?tf=1200x' alt='¿Apple Watch Ultra? Si eres de Android, este reloj top de Huawei tiene poco que envidiarle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/historia-broma-causo-primer-apagon-internet-1988-1299772'>La curiosa historia de cómo una broma estudiantil causó el primer apagón de Internet en 1988</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/historia-broma-causo-primer-apagon-internet-1988-1299772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/primer-hacker-historia-3126082.jpg?tf=1200x' alt='La curiosa historia de cómo una broma estudiantil causó el primer apagón de Internet en 1988' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/zeekr-revolucionario-coche-electrico-chino-llega-europa-acabar-hegemonia-tesla-1303340'>ZEEKR, el revolucionario coche eléctrico chino llega a Europa para acabar con la hegemonía de Tesla</a></h4>
-    <a href='https://computerhoy.com/motor/zeekr-revolucionario-coche-electrico-chino-llega-europa-acabar-hegemonia-tesla-1303340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tesla-problemas-zeek-coche-electrico-chino-llega-europa-3131458.jpg?tf=1200x' alt='ZEEKR, el revolucionario coche eléctrico chino llega a Europa para acabar con la hegemonía de Tesla' />
     </a>
 </div>
 
