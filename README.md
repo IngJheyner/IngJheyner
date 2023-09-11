@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/power-bank-999871'>Guía para comprar una Power Bank: capacidad, conexiones, velocidad de carga y más</a></h4>
+    <a href='https://computerhoy.com/guia-compra/power-bank-999871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-10000mah-mi-power-bank-3-ultra-compact-2630743.jpg?tf=1200x' alt='Guía para comprar una Power Bank: capacidad, conexiones, velocidad de carga y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/moviles-plegables-futuro-moda-1302050'>25 aniversario de Computer Hoy: ¿Son los móviles plegables el futuro de los smartphones o una costosa moda?</a></h4>
+    <a href='https://computerhoy.com/moviles/moviles-plegables-futuro-moda-1302050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-z-fold-5-3089684.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: ¿Son los móviles plegables el futuro de los smartphones o una costosa moda?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-banks-cargar-portatil-usb-tipo-c-982287'>Mejores Power Banks con USB-C para cargar un portátil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-banks-cargar-portatil-usb-tipo-c-982287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/anker-737-3130576.jpg?tf=1200x' alt='Mejores Power Banks con USB-C para cargar un portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/japon-quiere-aterrizar-luna-precision-francotirador-1302876'>Japón quiere aterrizar en la Luna con la precisión de un francotirador</a></h4>
     <a href='https://computerhoy.com/tecnologia/japon-quiere-aterrizar-luna-precision-francotirador-1302876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/japon-quiere-aterrizar-luna-precision-francotirador-3130628.jpg?tf=1200x' alt='Japón quiere aterrizar en la Luna con la precisión de un francotirador' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/algunos-hominidos-vestian-sandalias-hace-148000-anos-1300360'>Descubrimiento impactante: algunos homínidos vestían sandalias hace 148.000 años</a></h4>
     <a href='https://computerhoy.com/ciencia/algunos-hominidos-vestian-sandalias-hace-148000-anos-1300360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/descubrimiento-impactante-algunos-hominidos-vestian-sandalias-hace-148000-anos-3126858.jpg?tf=1200x' alt='Descubrimiento impactante: algunos homínidos vestían sandalias hace 148.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cinco-preguntas-chatgpt-consumen-medio-litro-agua-1302872'>El despilfarro ecológico de la IA: 5 preguntas a ChatGPT consumen medio litro de agua</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cinco-preguntas-chatgpt-consumen-medio-litro-agua-1302872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/despilfarro-ecologico-ia-5-preguntas-chatgpt-consumen-medio-litro-agua-3130574.jpg?tf=1200x' alt='El despilfarro ecológico de la IA: 5 preguntas a ChatGPT consumen medio litro de agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fallece-dennis-austin-creador-powerpoint-76-anos-edad-1302860'>Fallece Dennis Austin, el creador de PowerPoint, a los 76 años de edad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fallece-dennis-austin-creador-powerpoint-76-anos-edad-1302860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fallece-dennis-austin-creador-powerpoint-76-anos-edad-3130564.jpg?tf=1200x' alt='Fallece Dennis Austin, el creador de PowerPoint, a los 76 años de edad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-ver-apple-keynote-2023-linux-android-windows-1302850'>Así puedes ver la Keynote de Apple en Linux, Android, Windows y otros sistemas</a></h4>
-    <a href='https://computerhoy.com/apple/como-ver-apple-keynote-2023-linux-android-windows-1302850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/puedes-ver-keynote-apple-linux-android-windows-otros-sistemas-3130560.jpg?tf=1200x' alt='Así puedes ver la Keynote de Apple en Linux, Android, Windows y otros sistemas' />
     </a>
 </div>
 
