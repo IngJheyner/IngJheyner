@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-ver-apple-keynote-2023-linux-android-windows-1302850'>Así puedes ver la Keynote de Apple en Linux, Android, Windows y otros sistemas</a></h4>
-    <a href='https://computerhoy.com/apple/como-ver-apple-keynote-2023-linux-android-windows-1302850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/puedes-ver-keynote-apple-linux-android-windows-otros-sistemas-3130560.jpg?tf=1200x' alt='Así puedes ver la Keynote de Apple en Linux, Android, Windows y otros sistemas' />
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-ahora-puede-enganar-humanos-significa-eso-futuro-1303220'>La inteligencia artificial ahora puede engañar a los humanos: ¿Qué significa eso para el futuro?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-ahora-puede-enganar-humanos-significa-eso-futuro-1303220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/inteligencia-artificial-3131254.jpg?tf=1200x' alt='La inteligencia artificial ahora puede engañar a los humanos: ¿Qué significa eso para el futuro?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972'>Keynote de Apple: cómo ver online la presentación del iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/keynote-apple-3129382.jpg?tf=1200x' alt='Keynote de Apple: cómo ver online la presentación del iPhone 15' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-telegram-cerca-nunca-funcionara-novedad-permitira-enviar-mensajes-ellas-1303188'>WhatsApp y Telegram, más cerca que nunca: así funcionará la novedad que permitirá enviar mensajes entre ellas</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-telegram-cerca-nunca-funcionara-novedad-permitira-enviar-mensajes-ellas-1303188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/whatsapp-telegram.jpg?tf=1200x' alt='WhatsApp y Telegram, más cerca que nunca: así funcionará la novedad que permitirá enviar mensajes entre ellas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
+    <h4><a href='https://computerhoy.com/motor/localizan-colosal-yacimiento-litio-podria-cambiar-futuro-coche-electrico-nivel-mundial-1303162'>Localizan un colosal yacimiento de litio que podría cambiar el futuro del coche eléctrico a nivel mundial</a></h4>
+    <a href='https://computerhoy.com/motor/localizan-colosal-yacimiento-litio-podria-cambiar-futuro-coche-electrico-nivel-mundial-1303162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/yacimiento-litio-3131080.jpg?tf=1200x' alt='Localizan un colosal yacimiento de litio que podría cambiar el futuro del coche eléctrico a nivel mundial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/afectara-ordenador-dispositivos-cambio-drivers-windows-1303112'>Así afectará a tu ordenador y a tus dispositivos el cambio en los drivers de Windows</a></h4>
-    <a href='https://computerhoy.com/windows/afectara-ordenador-dispositivos-cambio-drivers-windows-1303112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Así afectará a tu ordenador y a tus dispositivos el cambio en los drivers de Windows' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-revienta-mercado-rebajando-pulsera-rompe-record-precio-mucho-1303046'>Xiaomi revienta el mercado rebajando su pulsera, que rompe su récord de precio por mucho</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-revienta-mercado-rebajando-pulsera-rompe-record-precio-mucho-1303046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-smart-band-7-2971922.jpg?tf=1200x' alt='Xiaomi revienta el mercado rebajando su pulsera, que rompe su récord de precio por mucho' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estos-son-precios-nuevos-iphone-15-analistas-1303078'>Estos son los precios de los nuevos iPhone 15 según analistas y traen buenas noticias</a></h4>
-    <a href='https://computerhoy.com/apple/estos-son-precios-nuevos-iphone-15-analistas-1303078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/apple-quiere-iphone-15-pro-exclusivo-recortara-muchas-funciones-resto-versiones-2978050.jpg?tf=1200x' alt='Estos son los precios de los nuevos iPhone 15 según analistas y traen buenas noticias' />
+    <h4><a href='https://computerhoy.com/apple/quedan-pocas-horas-iphone-15-sea-oficial-estos-son-todos-ultimos-rumores-1303132'>Quedan pocas horas para que el iPhone 15 sea oficial y estos son todos los últimos rumores</a></h4>
+    <a href='https://computerhoy.com/apple/quedan-pocas-horas-iphone-15-sea-oficial-estos-son-todos-ultimos-rumores-1303132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3131140.jpg?tf=1200x' alt='Quedan pocas horas para que el iPhone 15 sea oficial y estos son todos los últimos rumores' />
     </a>
 </div>
 
