@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/japon-quiere-aterrizar-luna-precision-francotirador-1302876'>Japón quiere aterrizar en la Luna con la precisión de un francotirador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/japon-quiere-aterrizar-luna-precision-francotirador-1302876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/japon-quiere-aterrizar-luna-precision-francotirador-3130628.jpg?tf=1200x' alt='Japón quiere aterrizar en la Luna con la precisión de un francotirador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/algunos-hominidos-vestian-sandalias-hace-148000-anos-1300360'>Descubrimiento impactante: algunos homínidos vestían sandalias hace 148.000 años</a></h4>
     <a href='https://computerhoy.com/ciencia/algunos-hominidos-vestian-sandalias-hace-148000-anos-1300360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/descubrimiento-impactante-algunos-hominidos-vestian-sandalias-hace-148000-anos-3126858.jpg?tf=1200x' alt='Descubrimiento impactante: algunos homínidos vestían sandalias hace 148.000 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/como-ver-apple-keynote-2023-linux-android-windows-1302850'>Así puedes ver la Keynote de Apple en Linux, Android, Windows y otros sistemas</a></h4>
     <a href='https://computerhoy.com/apple/como-ver-apple-keynote-2023-linux-android-windows-1302850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/puedes-ver-keynote-apple-linux-android-windows-otros-sistemas-3130560.jpg?tf=1200x' alt='Así puedes ver la Keynote de Apple en Linux, Android, Windows y otros sistemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/microsoft-abandona-surface-duo-original-ya-no-recibira-actualizaciones-1302840'>Microsoft abandona la Surface Duo original y ya no recibirá actualizaciones</a></h4>
-    <a href='https://computerhoy.com/moviles/microsoft-abandona-surface-duo-original-ya-no-recibira-actualizaciones-1302840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/microsoft-surface-duo-movil.jpg?tf=1200x' alt='Microsoft abandona la Surface Duo original y ya no recibirá actualizaciones' />
     </a>
 </div>
 
