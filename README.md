@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-ahora-puede-enganar-humanos-significa-eso-futuro-1303220'>La inteligencia artificial ahora puede engañar a los humanos: ¿Qué significa eso para el futuro?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-ahora-puede-enganar-humanos-significa-eso-futuro-1303220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/inteligencia-artificial-3131254.jpg?tf=1200x' alt='La inteligencia artificial ahora puede engañar a los humanos: ¿Qué significa eso para el futuro?' />
+    <h4><a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972'>Keynote de Apple: cómo ver online la presentación del iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/keynote-apple-3129382.jpg?tf=1200x' alt='Keynote de Apple: cómo ver online la presentación del iPhone 15' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-telegram-cerca-nunca-funcionara-novedad-permitira-enviar-mensajes-ellas-1303188'>WhatsApp y Telegram, más cerca que nunca: así funcionará la novedad que permitirá enviar mensajes entre ellas</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-telegram-cerca-nunca-funcionara-novedad-permitira-enviar-mensajes-ellas-1303188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/whatsapp-telegram.jpg?tf=1200x' alt='WhatsApp y Telegram, más cerca que nunca: así funcionará la novedad que permitirá enviar mensajes entre ellas' />
+    <h4><a href='https://computerhoy.com/tutoriales/3-formas-efectivas-comprobar-movil-android-tiene-spyware-1300472'>3 formas efectivas de comprobar si tu móvil Android tiene spyware y cómo protegerlo de futuras amenazas </a></h4>
+    <a href='https://computerhoy.com/tutoriales/3-formas-efectivas-comprobar-movil-android-tiene-spyware-1300472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/comprobar-movil-android-tiene-spyware-3127072.jpg?tf=1200x' alt='3 formas efectivas de comprobar si tu móvil Android tiene spyware y cómo protegerlo de futuras amenazas ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/localizan-colosal-yacimiento-litio-podria-cambiar-futuro-coche-electrico-nivel-mundial-1303162'>Localizan un colosal yacimiento de litio que podría cambiar el futuro del coche eléctrico a nivel mundial</a></h4>
-    <a href='https://computerhoy.com/motor/localizan-colosal-yacimiento-litio-podria-cambiar-futuro-coche-electrico-nivel-mundial-1303162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/yacimiento-litio-3131080.jpg?tf=1200x' alt='Localizan un colosal yacimiento de litio que podría cambiar el futuro del coche eléctrico a nivel mundial' />
+    <h4><a href='https://computerhoy.com/criptos/ballenas-shiba-inu-preparan-subida-precio-mueven-billones-shib-1303270'>Las ballenas de Shiba Inu se preparan para la subida de precio: mueven billones de SHIB</a></h4>
+    <a href='https://computerhoy.com/criptos/ballenas-shiba-inu-preparan-subida-precio-mueven-billones-shib-1303270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-2571247.jpg?tf=1200x' alt='Las ballenas de Shiba Inu se preparan para la subida de precio: mueven billones de SHIB' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-revienta-mercado-rebajando-pulsera-rompe-record-precio-mucho-1303046'>Xiaomi revienta el mercado rebajando su pulsera, que rompe su récord de precio por mucho</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-revienta-mercado-rebajando-pulsera-rompe-record-precio-mucho-1303046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-smart-band-7-2971922.jpg?tf=1200x' alt='Xiaomi revienta el mercado rebajando su pulsera, que rompe su récord de precio por mucho' />
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-te-roban-hackean-cuenta-instagram-1302256'>Qué hacer si te roban o hackean tu cuenta de Instagram</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-te-roban-hackean-cuenta-instagram-1302256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hacer-te-roban-hackean-cuenta-instagram-3129922.jpg?tf=1200x' alt='Qué hacer si te roban o hackean tu cuenta de Instagram' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/quedan-pocas-horas-iphone-15-sea-oficial-estos-son-todos-ultimos-rumores-1303132'>Quedan pocas horas para que el iPhone 15 sea oficial y estos son todos los últimos rumores</a></h4>
-    <a href='https://computerhoy.com/apple/quedan-pocas-horas-iphone-15-sea-oficial-estos-son-todos-ultimos-rumores-1303132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3131140.jpg?tf=1200x' alt='Quedan pocas horas para que el iPhone 15 sea oficial y estos son todos los últimos rumores' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-vista-android-auto-personalizarla-gusto-1302272'>Cómo cambiar la vista de Android Auto y personalizarla a tu gusto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-vista-android-auto-personalizarla-gusto-1302272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg?tf=1200x' alt='Cómo cambiar la vista de Android Auto y personalizarla a tu gusto' />
     </a>
 </div>
 
