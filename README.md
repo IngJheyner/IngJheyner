@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972'>Keynote de Apple: cómo ver online la presentación del iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/keynote-apple-3129382.jpg?tf=1200x' alt='Keynote de Apple: cómo ver online la presentación del iPhone 15' />
+    <h4><a href='https://computerhoy.com/apple/presentacion-iphone-15-podria-dejar-camino-dos-victimas-inesperadas-1303426'>La presentación del iPhone 15 podría dejar por el camino dos víctimas inesperadas</a></h4>
+    <a href='https://computerhoy.com/apple/presentacion-iphone-15-podria-dejar-camino-dos-victimas-inesperadas-1303426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656645.jpg?tf=1200x' alt='La presentación del iPhone 15 podría dejar por el camino dos víctimas inesperadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/3-formas-efectivas-comprobar-movil-android-tiene-spyware-1300472'>3 formas efectivas de comprobar si tu móvil Android tiene spyware y cómo protegerlo de futuras amenazas </a></h4>
-    <a href='https://computerhoy.com/tutoriales/3-formas-efectivas-comprobar-movil-android-tiene-spyware-1300472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/comprobar-movil-android-tiene-spyware-3127072.jpg?tf=1200x' alt='3 formas efectivas de comprobar si tu móvil Android tiene spyware y cómo protegerlo de futuras amenazas ' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/palabra-jamas-deberias-decir-telefono-hablas-ciberdelincuente-1303424'>Esta es la palabra con la que nunca debes contestar una llamada, según la Guardia Civil</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/palabra-jamas-deberias-decir-telefono-hablas-ciberdelincuente-1303424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/llamada-vising-2415435.jpg?tf=1200x' alt='Esta es la palabra con la que nunca debes contestar una llamada, según la Guardia Civil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/ballenas-shiba-inu-preparan-subida-precio-mueven-billones-shib-1303270'>Las ballenas de Shiba Inu se preparan para la subida de precio: mueven billones de SHIB</a></h4>
-    <a href='https://computerhoy.com/criptos/ballenas-shiba-inu-preparan-subida-precio-mueven-billones-shib-1303270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/shiba-inu-2571247.jpg?tf=1200x' alt='Las ballenas de Shiba Inu se preparan para la subida de precio: mueven billones de SHIB' />
+    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-ultra-eres-android-reloj-top-huawei-tiene-poco-envidiarle-1302064'>¿Apple Watch Ultra? Si eres de Android, este reloj top de Huawei tiene poco que envidiarle</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-watch-ultra-eres-android-reloj-top-huawei-tiene-poco-envidiarle-1302064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/huawei-watch-ultimate-1680683759257-3001984.jpg?tf=1200x' alt='¿Apple Watch Ultra? Si eres de Android, este reloj top de Huawei tiene poco que envidiarle' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacer-te-roban-hackean-cuenta-instagram-1302256'>Qué hacer si te roban o hackean tu cuenta de Instagram</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacer-te-roban-hackean-cuenta-instagram-1302256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hacer-te-roban-hackean-cuenta-instagram-3129922.jpg?tf=1200x' alt='Qué hacer si te roban o hackean tu cuenta de Instagram' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/historia-broma-causo-primer-apagon-internet-1988-1299772'>La curiosa historia de cómo una broma estudiantil causó el primer apagón de Internet en 1988</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/historia-broma-causo-primer-apagon-internet-1988-1299772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/primer-hacker-historia-3126082.jpg?tf=1200x' alt='La curiosa historia de cómo una broma estudiantil causó el primer apagón de Internet en 1988' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-vista-android-auto-personalizarla-gusto-1302272'>Cómo cambiar la vista de Android Auto y personalizarla a tu gusto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-vista-android-auto-personalizarla-gusto-1302272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2694683.jpg?tf=1200x' alt='Cómo cambiar la vista de Android Auto y personalizarla a tu gusto' />
+    <h4><a href='https://computerhoy.com/motor/zeekr-revolucionario-coche-electrico-chino-llega-europa-acabar-hegemonia-tesla-1303340'>ZEEKR, el revolucionario coche eléctrico chino llega a Europa para acabar con la hegemonía de Tesla</a></h4>
+    <a href='https://computerhoy.com/motor/zeekr-revolucionario-coche-electrico-chino-llega-europa-acabar-hegemonia-tesla-1303340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tesla-problemas-zeek-coche-electrico-chino-llega-europa-3131458.jpg?tf=1200x' alt='ZEEKR, el revolucionario coche eléctrico chino llega a Europa para acabar con la hegemonía de Tesla' />
     </a>
 </div>
 
