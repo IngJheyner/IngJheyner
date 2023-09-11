@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/power-bank-999871'>Guía para comprar una Power Bank: capacidad, conexiones, velocidad de carga y más</a></h4>
-    <a href='https://computerhoy.com/guia-compra/power-bank-999871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/xiaomi-10000mah-mi-power-bank-3-ultra-compact-2630743.jpg?tf=1200x' alt='Guía para comprar una Power Bank: capacidad, conexiones, velocidad de carga y más' />
+    <h4><a href='https://computerhoy.com/apple/como-ver-apple-keynote-2023-linux-android-windows-1302850'>Así puedes ver la Keynote de Apple en Linux, Android, Windows y otros sistemas</a></h4>
+    <a href='https://computerhoy.com/apple/como-ver-apple-keynote-2023-linux-android-windows-1302850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/puedes-ver-keynote-apple-linux-android-windows-otros-sistemas-3130560.jpg?tf=1200x' alt='Así puedes ver la Keynote de Apple en Linux, Android, Windows y otros sistemas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/moviles-plegables-futuro-moda-1302050'>25 aniversario de Computer Hoy: ¿Son los móviles plegables el futuro de los smartphones o una costosa moda?</a></h4>
-    <a href='https://computerhoy.com/moviles/moviles-plegables-futuro-moda-1302050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-z-fold-5-3089684.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: ¿Son los móviles plegables el futuro de los smartphones o una costosa moda?' />
+    <h4><a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972'>Keynote de Apple: cómo ver online la presentación del iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/keynote-apple-3129382.jpg?tf=1200x' alt='Keynote de Apple: cómo ver online la presentación del iPhone 15' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-banks-cargar-portatil-usb-tipo-c-982287'>Mejores Power Banks con USB-C para cargar un portátil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-power-banks-cargar-portatil-usb-tipo-c-982287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/anker-737-3130576.jpg?tf=1200x' alt='Mejores Power Banks con USB-C para cargar un portátil' />
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/iphone-3117886.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el nuevo smartphone de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/japon-quiere-aterrizar-luna-precision-francotirador-1302876'>Japón quiere aterrizar en la Luna con la precisión de un francotirador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/japon-quiere-aterrizar-luna-precision-francotirador-1302876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/japon-quiere-aterrizar-luna-precision-francotirador-3130628.jpg?tf=1200x' alt='Japón quiere aterrizar en la Luna con la precisión de un francotirador' />
+    <h4><a href='https://computerhoy.com/windows/afectara-ordenador-dispositivos-cambio-drivers-windows-1303112'>Así afectará a tu ordenador y a tus dispositivos el cambio en los drivers de Windows</a></h4>
+    <a href='https://computerhoy.com/windows/afectara-ordenador-dispositivos-cambio-drivers-windows-1303112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Así afectará a tu ordenador y a tus dispositivos el cambio en los drivers de Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/algunos-hominidos-vestian-sandalias-hace-148000-anos-1300360'>Descubrimiento impactante: algunos homínidos vestían sandalias hace 148.000 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/algunos-hominidos-vestian-sandalias-hace-148000-anos-1300360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/descubrimiento-impactante-algunos-hominidos-vestian-sandalias-hace-148000-anos-3126858.jpg?tf=1200x' alt='Descubrimiento impactante: algunos homínidos vestían sandalias hace 148.000 años' />
+    <h4><a href='https://computerhoy.com/apple/estos-son-precios-nuevos-iphone-15-analistas-1303078'>Estos son los precios de los nuevos iPhone 15 según analistas y traen buenas noticias</a></h4>
+    <a href='https://computerhoy.com/apple/estos-son-precios-nuevos-iphone-15-analistas-1303078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/apple-quiere-iphone-15-pro-exclusivo-recortara-muchas-funciones-resto-versiones-2978050.jpg?tf=1200x' alt='Estos son los precios de los nuevos iPhone 15 según analistas y traen buenas noticias' />
     </a>
 </div>
 
