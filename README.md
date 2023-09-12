@@ -50,17 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-antiguos-bajadas-precio-iphone-15-1303888'>¿Cuáles son los iPhone que han bajado de precio tras la presentación del nuevo iPhone 15?</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-antiguos-bajadas-precio-iphone-15-1303888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-plus-iphone-14-pro-iphone-13-iphone-13-mini-2959698.jpg?tf=1200x' alt='¿Cuáles son los iPhone que han bajado de precio tras la presentación del nuevo iPhone 15?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cuanto-cuesta-nuevo-iphone-15-precios-todos-modelos-1303866'>¿Cuánto cuesta el nuevo iPhone 15?: estos son los precios de todos los modelos</a></h4>
-    <a href='https://computerhoy.com/apple/cuanto-cuesta-nuevo-iphone-15-precios-todos-modelos-1303866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-iphone-15-plus-3133000.jpg?tf=1200x' alt='¿Cuánto cuesta el nuevo iPhone 15?: estos son los precios de todos los modelos' />
+    <h4><a href='https://computerhoy.com/apple/iphone-15-pro-max-todo-debes-saber-iphone-potente-caro-historia-1303348'>iPhone 15 Pro Max: todo lo que debes saber del iPhone más potente y caro de la historia</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-15-pro-max-todo-debes-saber-iphone-potente-caro-historia-1303348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3133072.jpg?tf=1200x' alt='iPhone 15 Pro Max: todo lo que debes saber del iPhone más potente y caro de la historia' />
     </a>
 </div>
 
@@ -74,17 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sepe-anade-nuevos-cursos-gratuitos-microsoft-amplia-oferta-119-cursos-gratis-1304032'>El SEPE añade nuevos cursos gratuitos de Microsoft y amplía su oferta hasta los 119 cursos gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sepe-anade-nuevos-cursos-gratuitos-microsoft-amplia-oferta-119-cursos-gratis-1304032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/microsoft-3133058.jpg?tf=1200x' alt='El SEPE añade nuevos cursos gratuitos de Microsoft y amplía su oferta hasta los 119 cursos gratis' />
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el último smartphone de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-colores-3132786.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el último smartphone de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-renueva-airpods-pro-ahora-puerto-usb-c-1303928'>Apple renueva los AirPods Pro 2, ahora con carga USB-C y nuevas experiencias de audio</a></h4>
-    <a href='https://computerhoy.com/apple/apple-renueva-airpods-pro-ahora-puerto-usb-c-1303928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-renueva-airpods-pro-2-ahora-carga-usb-c-nuevas-experiencias-audio-3133032.jpg?tf=1200x' alt='Apple renueva los AirPods Pro 2, ahora con carga USB-C y nuevas experiencias de audio' />
+    <h4><a href='https://computerhoy.com/tecnologia/locura-precio-moviles-potentes-poco-f5-5g-pantalla-amoled-1303692'>Locura de precio en uno de los móviles más potentes, el POCO F5 5G con pantalla AMOLED</a></h4>
+    <a href='https://computerhoy.com/tecnologia/locura-precio-moviles-potentes-poco-f5-5g-pantalla-amoled-1303692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/poco-f5-3131916.jpg?tf=1200x' alt='Locura de precio en uno de los móviles más potentes, el POCO F5 5G con pantalla AMOLED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-pone-venta-adaptador-usb-c-lightning-35-euros-1304030'>Apple ya quiere hacer caja con el iPhone 15 y vende un adaptador de USB-C a Lightning por 35 euros</a></h4>
+    <a href='https://computerhoy.com/apple/apple-pone-venta-adaptador-usb-c-lightning-35-euros-1304030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cable-adaptador-usb-c-lightning-3133056.jpg?tf=1200x' alt='Apple ya quiere hacer caja con el iPhone 15 y vende un adaptador de USB-C a Lightning por 35 euros' />
     </a>
 </div>
 
