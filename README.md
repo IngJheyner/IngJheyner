@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/mala-noticia-apple-dia-antes-estreno-iphone-15-1303412'>Malas noticias para Apple un día antes del estreno del iPhone 15 </a></h4>
-    <a href='https://computerhoy.com/apple/mala-noticia-apple-dia-antes-estreno-iphone-15-1303412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/extranas-predicciones-hablan-peor-rendimiento-iphone-15-pro-pro-max-2024-3057268.jpg?tf=1200x' alt='Malas noticias para Apple un día antes del estreno del iPhone 15 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368'>Keynote 2023, en directo: iPhone 15, Apple Watch Series 9 y más en el evento Apple Worderlust</a></h4>
+    <h4><a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368'>Keynote 2023, en directo: iPhone 15, Apple Watch Series 9 y más en el evento Apple Wonderlust</a></h4>
     <a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-wonderlust-3131508.jpg?tf=1200x' alt='Keynote 2023, en directo: iPhone 15, Apple Watch Series 9 y más en el evento Apple Worderlust' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-wonderlust-3131508.jpg?tf=1200x' alt='Keynote 2023, en directo: iPhone 15, Apple Watch Series 9 y más en el evento Apple Wonderlust' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/presentacion-iphone-15-podria-dejar-camino-dos-victimas-inesperadas-1303426'>La presentación del iPhone 15 podría dejar por el camino dos víctimas inesperadas</a></h4>
-    <a href='https://computerhoy.com/apple/presentacion-iphone-15-podria-dejar-camino-dos-victimas-inesperadas-1303426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656645.jpg?tf=1200x' alt='La presentación del iPhone 15 podría dejar por el camino dos víctimas inesperadas' />
+    <h4><a href='https://computerhoy.com/apple/iphone-15-pro-max-seria-movil-apple-caro-jamas-fabricado-1272394'>El iPhone 15 Pro Max sería el móvil de Apple más caro jamás fabricado</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-15-pro-max-seria-movil-apple-caro-jamas-fabricado-1272394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-pro-max-1677587257882-2969646.jpg?tf=1200x' alt='El iPhone 15 Pro Max sería el móvil de Apple más caro jamás fabricado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-accesorios-todos-usuarios-macbook-deberian-tener-984849'>10 accesorios que todos los usuarios de MacBook deberían tener</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-accesorios-todos-usuarios-macbook-deberian-tener-984849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/macbook-pro-16-m2-max-analisis-opinion-3015974.jpg?tf=1200x' alt='10 accesorios que todos los usuarios de MacBook deberían tener' />
+    <h4><a href='https://computerhoy.com/apple/keynote-2023-esperamos-evento-apple-1299714'>Keynote 2023: qué esperar del evento de Apple el 12 de septiembre</a></h4>
+    <a href='https://computerhoy.com/apple/keynote-2023-esperamos-evento-apple-1299714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='Keynote 2023: qué esperar del evento de Apple el 12 de septiembre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-ver-apple-keynote-2023-linux-android-windows-1302850'>Así puedes ver la Keynote de Apple en Linux, Android, Windows y otros sistemas</a></h4>
-    <a href='https://computerhoy.com/apple/como-ver-apple-keynote-2023-linux-android-windows-1302850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/puedes-ver-keynote-apple-linux-android-windows-otros-sistemas-3130560.jpg?tf=1200x' alt='Así puedes ver la Keynote de Apple en Linux, Android, Windows y otros sistemas' />
+    <h4><a href='https://computerhoy.com/apple/cuando-sale-iphone-15-fecha-lanzamiento-cuando-sale-venta-espana-1295026'>¿Cuándo sale el iPhone 15?: fecha de lanzamiento y cuándo sale a la venta en España</a></h4>
+    <a href='https://computerhoy.com/apple/cuando-sale-iphone-15-fecha-lanzamiento-cuando-sale-venta-espana-1295026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cuando-sale-iphone-15-3117592.jpg?tf=1200x' alt='¿Cuándo sale el iPhone 15?: fecha de lanzamiento y cuándo sale a la venta en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-reduce-produccion-iphone-14-plus-decide-enfocarse-pro-pro-max-aunque-iphone-15-plus-sigue-previsto-1142795'>Apple reduce la producción del iPhone 14 Plus y decide enfocarse en el Pro y Pro Max, aunque el iPhone 15 Plus sigue previsto </a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/apple-reduce-produccion-iphone-14-plus-decide-enfocarse-pro-pro-max-aunque-iphone-15-plus-sigue-previsto-1142795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-14-plus-podria-ser-gran-fail-apple-ano-2847747.jpg?tf=1200x' alt='Apple reduce la producción del iPhone 14 Plus y decide enfocarse en el Pro y Pro Max, aunque el iPhone 15 Plus sigue previsto ' />
     </a>
 </div>
 
