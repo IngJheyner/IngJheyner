@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/televisores-panasonic-cambian-sistema-operativo-fire-os-1303646'>Los televisores Panasonic cambian de sistema operativo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/televisores-panasonic-cambian-sistema-operativo-fire-os-1303646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/panasonic-oled-mz2000-2919792.jpg?tf=1200x' alt='Los televisores Panasonic cambian de sistema operativo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/star-wars-vuelve-cine-ahsoka-1303450'>Star Wars vuelve al cine por sorpresa esta semana, se cuece algo gordo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/star-wars-vuelve-cine-ahsoka-1303450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ray-stevenson-ahsoka-3039516.jpg?tf=1200x' alt='Star Wars vuelve al cine por sorpresa esta semana, se cuece algo gordo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/como-ver-cometa-nishimura-no-volvera-ano-2317-1303384'>Cuándo y cómo ver en España el cometa Nishimura, que no volverá hasta el año 2317</a></h4>
     <a href='https://computerhoy.com/espacio/como-ver-cometa-nishimura-no-volvera-ano-2317-1303384' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/cometa-c-2022-e3-2925144.jpg?tf=1200x' alt='Cuándo y cómo ver en España el cometa Nishimura, que no volverá hasta el año 2317' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/hormiga-roja-fuego-amenaza-mortal-ya-ha-llegado-europa-1303374'>Cuidado con la hormiga roja de fuego: una amenaza mortal que ya ha llegado a Europa  </a></h4>
-    <a href='https://computerhoy.com/ciencia/hormiga-roja-fuego-amenaza-mortal-ya-ha-llegado-europa-1303374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cuidado-hormiga-roja-fuego-amenza-mortal-ya-ha-llegado-europa-3131528.jpg?tf=1200x' alt='Cuidado con la hormiga roja de fuego: una amenaza mortal que ya ha llegado a Europa  ' />
     </a>
 </div>
 
