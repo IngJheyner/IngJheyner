@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368'>Apple Event 2023: nuevo iPhone 15, Apple Watch Series 9 y más de la Keynote, en directo</a></h4>
+    <h4><a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368'>Presentación del iPhone 15 online: sigue el evento Apple Keynote 2023 hoy, en directo</a></h4>
     <a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tim-cook-iphone-13-pro-3132102.jpg?tf=1200x' alt='Apple Event 2023: nuevo iPhone 15, Apple Watch Series 9 y más de la Keynote, en directo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tim-cook-iphone-13-pro-3132102.jpg?tf=1200x' alt='Presentación del iPhone 15 online: sigue el evento Apple Keynote 2023 hoy, en directo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972'>Horario y cómo ver el Apple Event 2023 con la presentación del iPhone 15 en directo</a></h4>
+    <h4><a href='https://computerhoy.com/ciberseguridad/5-senales-alerta-revelan-red-wifi-ha-sido-hackeada-1303410'>5 señales de alerta que revelan si tu red WiFi ha sido hackeada</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/5-senales-alerta-revelan-red-wifi-ha-sido-hackeada-1303410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/5-senales-alerta-revelan-red-wifi-ha-sido-hackeada-3131590.jpg?tf=1200x' alt='5 señales de alerta que revelan si tu red WiFi ha sido hackeada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972'>Horario y cómo ver online el la Apple Keynote 2023 con la presentación del iPhone 15</a></h4>
     <a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/keynote-apple-3129382.jpg?tf=1200x' alt='Horario y cómo ver el Apple Event 2023 con la presentación del iPhone 15 en directo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/keynote-apple-3129382.jpg?tf=1200x' alt='Horario y cómo ver online el la Apple Keynote 2023 con la presentación del iPhone 15' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/caza-captura-cualquier-dispositivo-capaz-reproducir-contenidos-iptv-1303912'>Caza y captura para cualquier dispositivo capaz de reproducir contenidos por IPTV</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/caza-captura-cualquier-dispositivo-capaz-reproducir-contenidos-iptv-1303912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pirateria-2698079.jpg?tf=1200x' alt='Caza y captura para cualquier dispositivo capaz de reproducir contenidos por IPTV' />
+    <h4><a href='https://computerhoy.com/amazon/nuevos-amazon-fire-tv-stick-fecha-lanzamiento-precio-caracteristicas-1303930'>Nuevos Amazon Fire TV Stick: fecha de lanzamiento, precio y características</a></h4>
+    <a href='https://computerhoy.com/amazon/nuevos-amazon-fire-tv-stick-fecha-lanzamiento-precio-caracteristicas-1303930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/todo-ya-sabemos-nuevos-amazon-fire-tv-stick-fecha-lanzamiento-caracteristicas-3132310.jpg?tf=1200x' alt='Nuevos Amazon Fire TV Stick: fecha de lanzamiento, precio y características' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sigues-recibiendo-llamadas-comerciales-estan-prohibidas-1303304'>Por qué sigues recibiendo llamadas comerciales si se supone que están prohibidas y qué puedes hacer para evitarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sigues-recibiendo-llamadas-comerciales-estan-prohibidas-1303304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/spam-telefonico-2317649.jpg?tf=1200x' alt='Por qué sigues recibiendo llamadas comerciales si se supone que están prohibidas y qué puedes hacer para evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/razon-no-deberias-tomar-cafe-manana-1298740'>Hay una razón científica por la que no deberías tomar café por la mañana</a></h4>
-    <a href='https://computerhoy.com/life/razon-no-deberias-tomar-cafe-manana-1298740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cafe-2830745.jpg?tf=1200x' alt='Hay una razón científica por la que no deberías tomar café por la mañana' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-mapas-android-auto-viajar-miedo-quedarte-datos-1303434'>Cómo descargar mapas en Android Auto para viajar sin miedo a quedarte sin cobertura o datos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-mapas-android-auto-viajar-miedo-quedarte-datos-1303434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/problemas-habituales-android-auto-como-solucionarlos-2457413.jpg?tf=1200x' alt='Cómo descargar mapas en Android Auto para viajar sin miedo a quedarte sin cobertura o datos' />
     </a>
 </div>
 
