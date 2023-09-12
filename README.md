@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/configuracion-google-maps-eficiente-segura-1303438'>Esta es la configuración de Google Maps más eficiente y segura</a></h4>
+    <a href='https://computerhoy.com/tutoriales/configuracion-google-maps-eficiente-segura-1303438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-maps-2961754.jpg?tf=1200x' alt='Esta es la configuración de Google Maps más eficiente y segura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/navegador-web-rapido-mundo-no-chrome-te-sorprendera-saber-cual-1290688'>El navegador web más rápido del mundo no es Chrome: te sorprenderá saber cuál es</a></h4>
+    <a href='https://computerhoy.com/google/navegador-web-rapido-mundo-no-chrome-te-sorprendera-saber-cual-1290688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-chrome-2943032.jpg?tf=1200x' alt='El navegador web más rápido del mundo no es Chrome: te sorprenderá saber cuál es' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-ataca-apple-base-ofertas-pixel-300-euros-dia-salen-iphone-1303788'>Google ataca a Apple a base de ofertas: sus Pixel, desde 300 euros el día que salen los iPhone</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-ataca-apple-base-ofertas-pixel-300-euros-dia-salen-iphone-1303788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-pixel-3a-3132082.jpg?tf=1200x' alt='Google ataca a Apple a base de ofertas: sus Pixel, desde 300 euros el día que salen los iPhone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/capsula-tiempo-militares-eeuu-revela-gran-tesoro-escondido-1303846'>La cápsula del tiempo de unos militares de EEUU revela un gran tesoro escondido</a></h4>
     <a href='https://computerhoy.com/life/capsula-tiempo-militares-eeuu-revela-gran-tesoro-escondido-1303846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/moneda-tesoro-3132210.jpg?tf=1200x' alt='La cápsula del tiempo de unos militares de EEUU revela un gran tesoro escondido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-explica-como-actuar-antes-correos-electronicos-quieren-robar-identidad-1303856'>La Guardia Civil explica cómo actuar antes los correos electrónicos que quieren robar tu identidad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-explica-como-actuar-antes-correos-electronicos-quieren-robar-identidad-1303856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/email-correo-electronico-2249731.jpg?tf=1200x' alt='La Guardia Civil explica cómo actuar antes los correos electrónicos que quieren robar tu identidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/version-google-maps-indispensable-tienes-coche-electrico-1303798'>La versión de Google Maps indispensable si tienes un coche eléctrico</a></h4>
-    <a href='https://computerhoy.com/motor/version-google-maps-indispensable-tienes-coche-electrico-1303798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/coche-electrico-mapa-3132164.jpg?tf=1200x' alt='La versión de Google Maps indispensable si tienes un coche eléctrico' />
     </a>
 </div>
 
