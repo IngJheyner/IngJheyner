@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-ataca-apple-base-ofertas-pixel-300-euros-dia-salen-iphone-1303788'>Google ataca a Apple a base de ofertas: sus Pixel, desde 300 euros el día que salen los iPhone</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-ataca-apple-base-ofertas-pixel-300-euros-dia-salen-iphone-1303788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-pixel-3a-3132082.jpg?tf=1200x' alt='Google ataca a Apple a base de ofertas: sus Pixel, desde 300 euros el día que salen los iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/capsula-tiempo-militares-eeuu-revela-gran-tesoro-escondido-1303846'>La cápsula del tiempo de unos militares de EEUU revela un gran tesoro escondido</a></h4>
+    <a href='https://computerhoy.com/life/capsula-tiempo-militares-eeuu-revela-gran-tesoro-escondido-1303846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/moneda-tesoro-3132210.jpg?tf=1200x' alt='La cápsula del tiempo de unos militares de EEUU revela un gran tesoro escondido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-explica-como-actuar-antes-correos-electronicos-quieren-robar-identidad-1303856'>La Guardia Civil explica cómo actuar antes los correos electrónicos que quieren robar tu identidad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-explica-como-actuar-antes-correos-electronicos-quieren-robar-identidad-1303856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/email-correo-electronico-2249731.jpg?tf=1200x' alt='La Guardia Civil explica cómo actuar antes los correos electrónicos que quieren robar tu identidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/version-google-maps-indispensable-tienes-coche-electrico-1303798'>La versión de Google Maps indispensable si tienes un coche eléctrico</a></h4>
     <a href='https://computerhoy.com/motor/version-google-maps-indispensable-tienes-coche-electrico-1303798' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/coche-electrico-mapa-3132164.jpg?tf=1200x' alt='La versión de Google Maps indispensable si tienes un coche eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/baterias-ecologicas-secreto-baterias-metales-reciclados-1303810'>Baterías ecológicas: el secreto de las baterías con metales reciclados</a></h4>
-    <a href='https://computerhoy.com/tecnologia/baterias-ecologicas-secreto-baterias-metales-reciclados-1303810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/paquete-baterias-litio-fosfato-hierro-aries-espera-ser-probado-our-next-energy-2811763.jpg?tf=1200x' alt='Baterías ecológicas: el secreto de las baterías con metales reciclados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bombazo-lidl-robot-aspirador-mitad-precio-aplasta-competencia-1303760'>Bombazo de Lidl: su robot aspirador está a mitad de precio y aplasta a la competencia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bombazo-lidl-robot-aspirador-mitad-precio-aplasta-competencia-1303760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/robot-aspirador-lidl-3132066.jpg?tf=1200x' alt='Bombazo de Lidl: su robot aspirador está a mitad de precio y aplasta a la competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/malas-noticias-fans-apple-iphone-15-sera-caro-predecesor-motivo-1259262'>Malas noticias para los fans de Apple: el iPhone 15 será más caro que su predecesor y este es el motivo</a></h4>
-    <a href='https://computerhoy.com/apple/malas-noticias-fans-apple-iphone-15-sera-caro-predecesor-motivo-1259262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malas-noticias-fans-apple-iphone-15-sera-caro-predecesor-motivo-3056476.jpg?tf=1200x' alt='Malas noticias para los fans de Apple: el iPhone 15 será más caro que su predecesor y este es el motivo' />
     </a>
 </div>
 
