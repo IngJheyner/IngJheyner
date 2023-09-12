@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368'>Presentación del iPhone 15: todos los detalles, Apple Watch Series 9 y más en el Apple Keynote 2023, en directo</a></h4>
+    <h4><a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368'>iPhone 15, todas las novedades Apple y precios en el Keynote 2023 de hoy, en directo</a></h4>
     <a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3132630.jpg?tf=1200x' alt='Presentación del iPhone 15: todos los detalles, Apple Watch Series 9 y más en el Apple Keynote 2023, en directo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/portada-iphone-15-pro-3132986.jpg?tf=1200x' alt='iPhone 15, todas las novedades Apple y precios en el Keynote 2023 de hoy, en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el último smartphone de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/portada-iphone-15-pro-3132986.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el último smartphone de Apple' />
     </a>
 </div>
 
@@ -60,31 +68,23 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-watch-series-9-caracteristicas-precio-fecha-lanzamiento-1303932'>Apple Watch Series 9, con procesador S9 y mejoras en los sensores biométricos</a></h4>
     <a href='https://computerhoy.com/apple/apple-watch-series-9-caracteristicas-precio-fecha-lanzamiento-1303932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-series-9-3132482.jpg?tf=1200x' alt='Apple Watch Series 9, con procesador S9 y mejoras en los sensores biométricos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-series-9-procesador-s9-mejoras-sensores-biometricos-3132818.jpg?tf=1200x' alt='Apple Watch Series 9, con procesador S9 y mejoras en los sensores biométricos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/alimento-olvidado-tan-espanol-tiene-8-veces-hierro-lentejas-1303944'>Este alimento tiene 8 veces más hierro que las lentejas, pero ya casi nadie lo consume en España</a></h4>
-    <a href='https://computerhoy.com/life/alimento-olvidado-tan-espanol-tiene-8-veces-hierro-lentejas-1303944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/alimentos-ricos-hierro-3132348.jpg?tf=1200x' alt='Este alimento tiene 8 veces más hierro que las lentejas, pero ya casi nadie lo consume en España' />
+    <h4><a href='https://computerhoy.com/motor/carreteras-electrificadas-verdadera-solucion-coches-electricos-1303984'>Carreteras electrificadas: ¿la verdadera solución para los coches eléctricos?</a></h4>
+    <a href='https://computerhoy.com/motor/carreteras-electrificadas-verdadera-solucion-coches-electricos-1303984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/carretera-futuro-2411681.jpg?tf=1200x' alt='Carreteras electrificadas: ¿la verdadera solución para los coches eléctricos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/plataformas-streaming-segunda-oportunidad-fracasos-cine-1303994'>Las plataformas de streaming, una segunda oportunidad para las películas que no han arrasado en cines</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/plataformas-streaming-segunda-oportunidad-fracasos-cine-1303994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sirenita-3132140.jpg?tf=1200x' alt='Las plataformas de streaming, una segunda oportunidad para las películas que no han arrasado en cines' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/5-senales-alerta-revelan-red-wifi-ha-sido-hackeada-1303410'>5 señales de alerta que revelan si tu red WiFi ha sido hackeada</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/5-senales-alerta-revelan-red-wifi-ha-sido-hackeada-1303410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/5-senales-alerta-revelan-red-wifi-ha-sido-hackeada-3131590.jpg?tf=1200x' alt='5 señales de alerta que revelan si tu red WiFi ha sido hackeada' />
+    <h4><a href='https://computerhoy.com/apple/apple-watch-ultra-2-caracteristicas-precio-fecha-lanzamiento-1303934'>Así es el Apple Watch Ultra 2, el reloj para deportes extremos mejorado</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-ultra-2-caracteristicas-precio-fecha-lanzamiento-1303934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-ultra-2-reloj-deportes-extremos-mejorado-3132694.jpg?tf=1200x' alt='Así es el Apple Watch Ultra 2, el reloj para deportes extremos mejorado' />
     </a>
 </div>
 
