@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/opina-redaccion-computer-hoy-iphone-15-1304050'>Esto opina la redacción de Computer Hoy del iPhone 15, el móvil más potente de Apple hasta la fecha</a></h4>
+    <a href='https://computerhoy.com/apple/opina-redaccion-computer-hoy-iphone-15-1304050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3133024.jpg?tf=1200x' alt='Esto opina la redacción de Computer Hoy del iPhone 15, el móvil más potente de Apple hasta la fecha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/iphone-15-pro-max-todo-debes-saber-iphone-potente-caro-historia-1303348'>iPhone 15 Pro Max: todo lo que debes saber del iPhone más potente y caro de la historia</a></h4>
     <a href='https://computerhoy.com/apple/iphone-15-pro-max-todo-debes-saber-iphone-potente-caro-historia-1303348' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3133072.jpg?tf=1200x' alt='iPhone 15 Pro Max: todo lo que debes saber del iPhone más potente y caro de la historia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/locura-precio-moviles-potentes-poco-f5-5g-pantalla-amoled-1303692'>Locura de precio en uno de los móviles más potentes, el POCO F5 5G con pantalla AMOLED</a></h4>
     <a href='https://computerhoy.com/tecnologia/locura-precio-moviles-potentes-poco-f5-5g-pantalla-amoled-1303692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/poco-f5-3131916.jpg?tf=1200x' alt='Locura de precio en uno de los móviles más potentes, el POCO F5 5G con pantalla AMOLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-pone-venta-adaptador-usb-c-lightning-35-euros-1304030'>Apple ya quiere hacer caja con el iPhone 15 y vende un adaptador de USB-C a Lightning por 35 euros</a></h4>
-    <a href='https://computerhoy.com/apple/apple-pone-venta-adaptador-usb-c-lightning-35-euros-1304030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cable-adaptador-usb-c-lightning-3133056.jpg?tf=1200x' alt='Apple ya quiere hacer caja con el iPhone 15 y vende un adaptador de USB-C a Lightning por 35 euros' />
     </a>
 </div>
 
