@@ -52,39 +52,39 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368'>Keynote 2023, en directo: iPhone 15, Apple Watch Series 9 y más en el evento Apple Wonderlust</a></h4>
     <a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-wonderlust-3131508.jpg?tf=1200x' alt='Keynote 2023, en directo: iPhone 15, Apple Watch Series 9 y más en el evento Apple Wonderlust' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tim-cook-iphone-13-pro-3132102.jpg?tf=1200x' alt='Keynote 2023, en directo: iPhone 15, Apple Watch Series 9 y más en el evento Apple Wonderlust' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-15-pro-max-seria-movil-apple-caro-jamas-fabricado-1272394'>El iPhone 15 Pro Max sería el móvil de Apple más caro jamás fabricado</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-15-pro-max-seria-movil-apple-caro-jamas-fabricado-1272394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-pro-max-1677587257882-2969646.jpg?tf=1200x' alt='El iPhone 15 Pro Max sería el móvil de Apple más caro jamás fabricado' />
+    <h4><a href='https://computerhoy.com/apple/malas-noticias-fans-apple-iphone-15-sera-caro-predecesor-motivo-1259262'>Malas noticias para los fans de Apple: el iPhone 15 será más caro que su predecesor y este es el motivo</a></h4>
+    <a href='https://computerhoy.com/apple/malas-noticias-fans-apple-iphone-15-sera-caro-predecesor-motivo-1259262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malas-noticias-fans-apple-iphone-15-sera-caro-predecesor-motivo-3056476.jpg?tf=1200x' alt='Malas noticias para los fans de Apple: el iPhone 15 será más caro que su predecesor y este es el motivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/keynote-2023-esperamos-evento-apple-1299714'>Keynote 2023: qué esperar del evento de Apple el 12 de septiembre</a></h4>
-    <a href='https://computerhoy.com/apple/keynote-2023-esperamos-evento-apple-1299714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/iphone-15-pro-3019400.jpg?tf=1200x' alt='Keynote 2023: qué esperar del evento de Apple el 12 de septiembre' />
+    <h4><a href='https://computerhoy.com/tecnologia/queso-parmesano-casa-puede-contener-microchips-motivo-1303736'>¿Es 100% auténtico?: el queso parmesano que tienes en casa puede contener microchips por este motivo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/queso-parmesano-casa-puede-contener-microchips-motivo-1303736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/queso-parmesano-3132052.jpg?tf=1200x' alt='¿Es 100% auténtico?: el queso parmesano que tienes en casa puede contener microchips por este motivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cuando-sale-iphone-15-fecha-lanzamiento-cuando-sale-venta-espana-1295026'>¿Cuándo sale el iPhone 15?: fecha de lanzamiento y cuándo sale a la venta en España</a></h4>
-    <a href='https://computerhoy.com/apple/cuando-sale-iphone-15-fecha-lanzamiento-cuando-sale-venta-espana-1295026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cuando-sale-iphone-15-3117592.jpg?tf=1200x' alt='¿Cuándo sale el iPhone 15?: fecha de lanzamiento y cuándo sale a la venta en España' />
+    <h4><a href='https://computerhoy.com/apple/action-button-iphone-15-pro-pro-max-ha-filtrado-antes-debut-1303740'>El Action Button del iPhone 15 Pro y Pro Max se ha filtrado antes de su debut</a></h4>
+    <a href='https://computerhoy.com/apple/action-button-iphone-15-pro-pro-max-ha-filtrado-antes-debut-1303740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/apple-quiere-iphone-15-pro-exclusivo-recortara-muchas-funciones-resto-versiones-2978050.jpg?tf=1200x' alt='El Action Button del iPhone 15 Pro y Pro Max se ha filtrado antes de su debut' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/apple-reduce-produccion-iphone-14-plus-decide-enfocarse-pro-pro-max-aunque-iphone-15-plus-sigue-previsto-1142795'>Apple reduce la producción del iPhone 14 Plus y decide enfocarse en el Pro y Pro Max, aunque el iPhone 15 Plus sigue previsto </a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/apple-reduce-produccion-iphone-14-plus-decide-enfocarse-pro-pro-max-aunque-iphone-15-plus-sigue-previsto-1142795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/iphone-14-plus-podria-ser-gran-fail-apple-ano-2847747.jpg?tf=1200x' alt='Apple reduce la producción del iPhone 14 Plus y decide enfocarse en el Pro y Pro Max, aunque el iPhone 15 Plus sigue previsto ' />
+    <h4><a href='https://computerhoy.com/apple/sorpresas-podria-dejarnos-presentacion-iphone-15-1303680'>Las sorpresas que podría dejarnos la presentación del iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/sorpresas-podria-dejarnos-presentacion-iphone-15-1303680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-mini-2521565.jpg?tf=1200x' alt='Las sorpresas que podría dejarnos la presentación del iPhone 15' />
     </a>
 </div>
 
