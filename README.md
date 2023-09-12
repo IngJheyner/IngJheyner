@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/star-wars-vuelve-cine-ahsoka-1303450'>Star Wars vuelve al cine por sorpresa esta semana, se cuece algo gordo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/star-wars-vuelve-cine-ahsoka-1303450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ray-stevenson-ahsoka-3039516.jpg?tf=1200x' alt='Star Wars vuelve al cine por sorpresa esta semana, se cuece algo gordo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cientificos-aprenden-lenguaje-murcielagos-abejas-inteligencia-artificial-1303408'>Los científicos están empezando a aprender el lenguaje de los murciélagos y las abejas utilizando IA</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-aprenden-lenguaje-murcielagos-abejas-inteligencia-artificial-1303408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cientificos-estan-empezando-aprender-lenguaje-mucielagos-abejas-utilizando-ia-3131570.jpg?tf=1200x' alt='Los científicos están empezando a aprender el lenguaje de los murciélagos y las abejas utilizando IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/hormiga-roja-fuego-amenaza-mortal-ya-ha-llegado-europa-1303374'>Cuidado con la hormiga roja de fuego: una amenaza mortal que ya ha llegado a Europa  </a></h4>
     <a href='https://computerhoy.com/ciencia/hormiga-roja-fuego-amenaza-mortal-ya-ha-llegado-europa-1303374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cuidado-hormiga-roja-fuego-amenza-mortal-ya-ha-llegado-europa-3131528.jpg?tf=1200x' alt='Cuidado con la hormiga roja de fuego: una amenaza mortal que ya ha llegado a Europa  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/presentacion-iphone-15-podria-dejar-camino-dos-victimas-inesperadas-1303426'>La presentación del iPhone 15 podría dejar por el camino dos víctimas inesperadas</a></h4>
-    <a href='https://computerhoy.com/apple/presentacion-iphone-15-podria-dejar-camino-dos-victimas-inesperadas-1303426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656645.jpg?tf=1200x' alt='La presentación del iPhone 15 podría dejar por el camino dos víctimas inesperadas' />
     </a>
 </div>
 
