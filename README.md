@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368'>Keynote 2023, en directo: iPhone 15, Apple Watch Series 9 y más en el evento Apple Wonderlust</a></h4>
+    <h4><a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368'>Apple Keynote 2023: la presentación del iPhone 15, Apple Watch Series 9 y más, en directo</a></h4>
     <a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tim-cook-iphone-13-pro-3132102.jpg?tf=1200x' alt='Keynote 2023, en directo: iPhone 15, Apple Watch Series 9 y más en el evento Apple Wonderlust' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tim-cook-iphone-13-pro-3132102.jpg?tf=1200x' alt='Apple Keynote 2023: la presentación del iPhone 15, Apple Watch Series 9 y más, en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/version-google-maps-indispensable-tienes-coche-electrico-1303798'>La versión de Google Maps indispensable si tienes un coche eléctrico</a></h4>
+    <a href='https://computerhoy.com/motor/version-google-maps-indispensable-tienes-coche-electrico-1303798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/coche-electrico-mapa-3132164.jpg?tf=1200x' alt='La versión de Google Maps indispensable si tienes un coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/baterias-ecologicas-secreto-baterias-metales-reciclados-1303810'>Baterías ecológicas: el secreto de las baterías con metales reciclados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/baterias-ecologicas-secreto-baterias-metales-reciclados-1303810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/paquete-baterias-litio-fosfato-hierro-aries-espera-ser-probado-our-next-energy-2811763.jpg?tf=1200x' alt='Baterías ecológicas: el secreto de las baterías con metales reciclados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bombazo-lidl-robot-aspirador-mitad-precio-aplasta-competencia-1303760'>Bombazo de Lidl: su robot aspirador está a mitad de precio y aplasta a la competencia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bombazo-lidl-robot-aspirador-mitad-precio-aplasta-competencia-1303760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/robot-aspirador-lidl-3132066.jpg?tf=1200x' alt='Bombazo de Lidl: su robot aspirador está a mitad de precio y aplasta a la competencia' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/malas-noticias-fans-apple-iphone-15-sera-caro-predecesor-motivo-1259262'>Malas noticias para los fans de Apple: el iPhone 15 será más caro que su predecesor y este es el motivo</a></h4>
     <a href='https://computerhoy.com/apple/malas-noticias-fans-apple-iphone-15-sera-caro-predecesor-motivo-1259262' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/malas-noticias-fans-apple-iphone-15-sera-caro-predecesor-motivo-3056476.jpg?tf=1200x' alt='Malas noticias para los fans de Apple: el iPhone 15 será más caro que su predecesor y este es el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/queso-parmesano-casa-puede-contener-microchips-motivo-1303736'>¿Es 100% auténtico?: el queso parmesano que tienes en casa puede contener microchips por este motivo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/queso-parmesano-casa-puede-contener-microchips-motivo-1303736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/queso-parmesano-3132052.jpg?tf=1200x' alt='¿Es 100% auténtico?: el queso parmesano que tienes en casa puede contener microchips por este motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/action-button-iphone-15-pro-pro-max-ha-filtrado-antes-debut-1303740'>El Action Button del iPhone 15 Pro y Pro Max se ha filtrado antes de su debut</a></h4>
-    <a href='https://computerhoy.com/apple/action-button-iphone-15-pro-pro-max-ha-filtrado-antes-debut-1303740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/apple-quiere-iphone-15-pro-exclusivo-recortara-muchas-funciones-resto-versiones-2978050.jpg?tf=1200x' alt='El Action Button del iPhone 15 Pro y Pro Max se ha filtrado antes de su debut' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/sorpresas-podria-dejarnos-presentacion-iphone-15-1303680'>Las sorpresas que podría dejarnos la presentación del iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/sorpresas-podria-dejarnos-presentacion-iphone-15-1303680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/iphone-13-mini-2521565.jpg?tf=1200x' alt='Las sorpresas que podría dejarnos la presentación del iPhone 15' />
     </a>
 </div>
 
