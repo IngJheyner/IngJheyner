@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368'>iPhone 15, todas las novedades Apple y precios en el Keynote 2023 de hoy, en directo</a></h4>
+    <h4><a href='https://computerhoy.com/apple/iphone-antiguos-bajadas-precio-iphone-15-1303888'>¿Cuáles son los iPhone que han bajado de precio tras la presentación del nuevo iPhone 15?</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-antiguos-bajadas-precio-iphone-15-1303888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-plus-iphone-14-pro-iphone-13-iphone-13-mini-2959698.jpg?tf=1200x' alt='¿Cuáles son los iPhone que han bajado de precio tras la presentación del nuevo iPhone 15?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/cuanto-cuesta-nuevo-iphone-15-precios-todos-modelos-1303866'>¿Cuánto cuesta el nuevo iPhone 15?: estos son los precios de todos los modelos</a></h4>
+    <a href='https://computerhoy.com/apple/cuanto-cuesta-nuevo-iphone-15-precios-todos-modelos-1303866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-iphone-15-plus-3133000.jpg?tf=1200x' alt='¿Cuánto cuesta el nuevo iPhone 15?: estos son los precios de todos los modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368'>Presentación del iPhone 15, su precio y las novedades de Apple en el Keynote 2023, en directo</a></h4>
     <a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/portada-iphone-15-pro-3132986.jpg?tf=1200x' alt='iPhone 15, todas las novedades Apple y precios en el Keynote 2023 de hoy, en directo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/portada-iphone-15-pro-3132986.jpg?tf=1200x' alt='Presentación del iPhone 15, su precio y las novedades de Apple en el Keynote 2023, en directo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el último smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/portada-iphone-15-pro-3132986.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el último smartphone de Apple' />
+    <h4><a href='https://computerhoy.com/tecnologia/sepe-anade-nuevos-cursos-gratuitos-microsoft-amplia-oferta-119-cursos-gratis-1304032'>El SEPE añade nuevos cursos gratuitos de Microsoft y amplía su oferta hasta los 119 cursos gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sepe-anade-nuevos-cursos-gratuitos-microsoft-amplia-oferta-119-cursos-gratis-1304032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/microsoft-3133058.jpg?tf=1200x' alt='El SEPE añade nuevos cursos gratuitos de Microsoft y amplía su oferta hasta los 119 cursos gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-series-9-caracteristicas-precio-fecha-lanzamiento-1303932'>Apple Watch Series 9, con procesador S9 y mejoras en los sensores biométricos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-series-9-caracteristicas-precio-fecha-lanzamiento-1303932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-series-9-procesador-s9-mejoras-sensores-biometricos-3132818.jpg?tf=1200x' alt='Apple Watch Series 9, con procesador S9 y mejoras en los sensores biométricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/carreteras-electrificadas-verdadera-solucion-coches-electricos-1303984'>Carreteras electrificadas: ¿la verdadera solución para los coches eléctricos?</a></h4>
-    <a href='https://computerhoy.com/motor/carreteras-electrificadas-verdadera-solucion-coches-electricos-1303984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/carretera-futuro-2411681.jpg?tf=1200x' alt='Carreteras electrificadas: ¿la verdadera solución para los coches eléctricos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-ultra-2-caracteristicas-precio-fecha-lanzamiento-1303934'>Así es el Apple Watch Ultra 2, el reloj para deportes extremos mejorado</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-ultra-2-caracteristicas-precio-fecha-lanzamiento-1303934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-ultra-2-reloj-deportes-extremos-mejorado-3132694.jpg?tf=1200x' alt='Así es el Apple Watch Ultra 2, el reloj para deportes extremos mejorado' />
+    <h4><a href='https://computerhoy.com/apple/apple-renueva-airpods-pro-ahora-puerto-usb-c-1303928'>Apple renueva los AirPods Pro 2, ahora con carga USB-C y nuevas experiencias de audio</a></h4>
+    <a href='https://computerhoy.com/apple/apple-renueva-airpods-pro-ahora-puerto-usb-c-1303928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-renueva-airpods-pro-2-ahora-carga-usb-c-nuevas-experiencias-audio-3133032.jpg?tf=1200x' alt='Apple renueva los AirPods Pro 2, ahora con carga USB-C y nuevas experiencias de audio' />
     </a>
 </div>
 
