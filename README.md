@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972'>Cómo y dónde ver la Keynote de Apple 2023 con la presentación del iPhone 15 en directo</a></h4>
+    <a href='https://computerhoy.com/apple/keynote-apple-como-ver-online-presentacion-iphone-15-1301972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/keynote-apple-3129382.jpg?tf=1200x' alt='Cómo y dónde ver la Keynote de Apple 2023 con la presentación del iPhone 15 en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/razon-no-deberias-tomar-cafe-manana-1298740'>Hay una razón científica por la que no deberías tomar café por la mañana</a></h4>
+    <a href='https://computerhoy.com/life/razon-no-deberias-tomar-cafe-manana-1298740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cafe-2830745.jpg?tf=1200x' alt='Hay una razón científica por la que no deberías tomar café por la mañana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/kodi-21-omega-llega-cargado-mejoras-funciones-puedes-descargarla-1303880'>Kodi 21 “Omega” llega cargado de mejoras y funciones: así puedes descargarla</a></h4>
+    <a href='https://computerhoy.com/apps/kodi-21-omega-llega-cargado-mejoras-funciones-puedes-descargarla-1303880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/kodi-logo-3051872.jpg?tf=1200x' alt='Kodi 21 “Omega” llega cargado de mejoras y funciones: así puedes descargarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/configuracion-google-maps-eficiente-segura-1303438'>Esta es la configuración de Google Maps más eficiente y segura</a></h4>
     <a href='https://computerhoy.com/tutoriales/configuracion-google-maps-eficiente-segura-1303438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-maps-2961754.jpg?tf=1200x' alt='Esta es la configuración de Google Maps más eficiente y segura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/navegador-web-rapido-mundo-no-chrome-te-sorprendera-saber-cual-1290688'>El navegador web más rápido del mundo no es Chrome: te sorprenderá saber cuál es</a></h4>
-    <a href='https://computerhoy.com/google/navegador-web-rapido-mundo-no-chrome-te-sorprendera-saber-cual-1290688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-chrome-2943032.jpg?tf=1200x' alt='El navegador web más rápido del mundo no es Chrome: te sorprenderá saber cuál es' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-ataca-apple-base-ofertas-pixel-300-euros-dia-salen-iphone-1303788'>Google ataca a Apple a base de ofertas: sus Pixel, desde 300 euros el día que salen los iPhone</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-ataca-apple-base-ofertas-pixel-300-euros-dia-salen-iphone-1303788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-pixel-3a-3132082.jpg?tf=1200x' alt='Google ataca a Apple a base de ofertas: sus Pixel, desde 300 euros el día que salen los iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/capsula-tiempo-militares-eeuu-revela-gran-tesoro-escondido-1303846'>La cápsula del tiempo de unos militares de EEUU revela un gran tesoro escondido</a></h4>
-    <a href='https://computerhoy.com/life/capsula-tiempo-militares-eeuu-revela-gran-tesoro-escondido-1303846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/moneda-tesoro-3132210.jpg?tf=1200x' alt='La cápsula del tiempo de unos militares de EEUU revela un gran tesoro escondido' />
     </a>
 </div>
 
