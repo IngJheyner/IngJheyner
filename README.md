@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-infalible-steve-jobs-detectar-persona-toxica-1303448'>El truco infalible de Steve Jobs para detectar a una persona tóxica</a></h4>
-    <a href='https://computerhoy.com/life/truco-infalible-steve-jobs-detectar-persona-toxica-1303448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/steve-jobs-toxico-3133662.jpg?tf=1200x' alt='El truco infalible de Steve Jobs para detectar a una persona tóxica' />
+    <h4><a href='https://computerhoy.com/redes/canales-whatsapp-llegan-fin-espana-1304630'>Los canales de WhatsApp llegan por fin a España</a></h4>
+    <a href='https://computerhoy.com/redes/canales-whatsapp-llegan-fin-espana-1304630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/canales-whatsapp-llegan-fin-espana-3133998.jpg?tf=1200x' alt='Los canales de WhatsApp llegan por fin a España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ya-puedes-descargar-fondos-pantalla-iphone-15-1304542'>Ya puedes descargar gratis los fondos de pantalla de los iPhone 15 y iPhone 15 Pro en alta resolución</a></h4>
-    <a href='https://computerhoy.com/apple/ya-puedes-descargar-fondos-pantalla-iphone-15-1304542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3133790.jpg?tf=1200x' alt='Ya puedes descargar gratis los fondos de pantalla de los iPhone 15 y iPhone 15 Pro en alta resolución' />
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-filtrada-resolucion-tiempo-carga-juego-salida-1304616'>Nintendo Switch 2: filtrada su posible resolución, tiempos de carga, juego de lanzamiento y fecha venta</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-filtrada-resolucion-tiempo-carga-juego-salida-1304616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nintendo-switch-2-filtrada-posible-resolucion-tiempos-carga-juego-lanzamiento-fecha-venta-3133956.jpg?tf=1200x' alt='Nintendo Switch 2: filtrada su posible resolución, tiempos de carga, juego de lanzamiento y fecha venta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-smartwatch-hace-sombra-apple-watch-rompe-record-amazon-1303706'>No es un error de precio: el smartwatch que hace sombra al Apple Watch rompe su récord en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-error-precio-smartwatch-hace-sombra-apple-watch-rompe-record-amazon-1303706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ticwatch-pro-5-3100036.jpg?tf=1200x' alt='No es un error de precio: el smartwatch que hace sombra al Apple Watch rompe su récord en Amazon' />
+    <h4><a href='https://computerhoy.com/energia/inventan-bateria-revolucionaria-almacenar-energia-renovable-1304602'>Inventan una batería revolucionaria para almacenar energía renovable que podría cambiarlo todo</a></h4>
+    <a href='https://computerhoy.com/energia/inventan-bateria-revolucionaria-almacenar-energia-renovable-1304602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/panel-solar-1861815.jpg?tf=1200x' alt='Inventan una batería revolucionaria para almacenar energía renovable que podría cambiarlo todo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/deberias-borrar-cookies-cache-movil-android-1304278'>Por qué deberías borrar periódicamente las cookies y la caché de tu móvil Android y cómo hacerlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/deberias-borrar-cookies-cache-movil-android-1304278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/android-3022320.jpg?tf=1200x' alt='Por qué deberías borrar periódicamente las cookies y la caché de tu móvil Android y cómo hacerlo' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-descubre-exoplaneta-todas-condiciones-vida-1304626'>La NASA descubre una “Súper Tierra” con todas las condiciones para la vida del ser humano</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-descubre-exoplaneta-todas-condiciones-vida-1304626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/planeta-3133986.jpg?tf=1200x' alt='La NASA descubre una “Súper Tierra” con todas las condiciones para la vida del ser humano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cancion-anuncio-iphone-15-todos-temas-escuchamos-keynote-apple-1304500'>La canción del anuncio del iPhone 15 y todos los temas que escuchamos en la Keynote de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/cancion-anuncio-iphone-15-todos-temas-escuchamos-keynote-apple-1304500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3131110.jpg?tf=1200x' alt='La canción del anuncio del iPhone 15 y todos los temas que escuchamos en la Keynote de Apple' />
+    <h4><a href='https://computerhoy.com/apple/apple-activara-espana-funciones-esperadas-iphone-1304622'>Apple activará en España una de las funciones más útiles del iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/apple-activara-espana-funciones-esperadas-iphone-1304622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/comunicacion-satelite-2467717.jpg?tf=1200x' alt='Apple activará en España una de las funciones más útiles del iPhone' />
     </a>
 </div>
 
