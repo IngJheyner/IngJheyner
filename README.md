@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/alcarelle-alcohol-sintetico-no-emborracha-ni-produce-resaca-1304274'>Alcarelle, el alcohol sintético que relaja, pero no emborracha ni produce resaca </a></h4>
+    <a href='https://computerhoy.com/alimentacion/alcarelle-alcohol-sintetico-no-emborracha-ni-produce-resaca-1304274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/alcarelle-alcohol-sintetico-no-emborracha-ni-produce-resaca-3133108.jpg?tf=1200x' alt='Alcarelle, el alcohol sintético que relaja, pero no emborracha ni produce resaca ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-renueva-airpods-pro-ahora-puerto-usb-c-1303928'>Apple renueva los AirPods Pro 2, ahora con carga USB-C y nuevas experiencias de audio</a></h4>
     <a href='https://computerhoy.com/apple/apple-renueva-airpods-pro-ahora-puerto-usb-c-1303928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-renueva-airpods-pro-2-ahora-carga-usb-c-nuevas-experiencias-audio-3133032.jpg?tf=1200x' alt='Apple renueva los AirPods Pro 2, ahora con carga USB-C y nuevas experiencias de audio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368'>Presentación del iPhone 15, su precio y las novedades de Apple en el Keynote 2023, en directo</a></h4>
     <a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/portada-iphone-15-pro-3132986.jpg?tf=1200x' alt='Presentación del iPhone 15, su precio y las novedades de Apple en el Keynote 2023, en directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el último smartphone de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-colores-3132786.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el último smartphone de Apple' />
     </a>
 </div>
 
