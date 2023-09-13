@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/sorprendentemente-apple-ha-revolucionado-algo-uso-usb-c-iphone-15-pro-1304044'>Sorprendentemente, Apple sí que ha revolucionado algo con el uso de USB-C en los iPhone 15 Pro</a></h4>
+    <a href='https://computerhoy.com/apple/sorprendentemente-apple-ha-revolucionado-algo-uso-usb-c-iphone-15-pro-1304044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/macbook-pro-conectado-usb-c-iphone-15-pro-3133050.jpg?tf=1200x' alt='Sorprendentemente, Apple sí que ha revolucionado algo con el uso de USB-C en los iPhone 15 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
+    <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110556.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/alcarelle-alcohol-sintetico-no-emborracha-ni-produce-resaca-1304274'>Alcarelle, el alcohol sintético que relaja, pero no emborracha ni produce resaca </a></h4>
     <a href='https://computerhoy.com/alimentacion/alcarelle-alcohol-sintetico-no-emborracha-ni-produce-resaca-1304274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/alcarelle-alcohol-sintetico-no-emborracha-ni-produce-resaca-3133108.jpg?tf=1200x' alt='Alcarelle, el alcohol sintético que relaja, pero no emborracha ni produce resaca ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/opina-redaccion-computer-hoy-iphone-15-1304050'>Esto opina la redacción de Computer Hoy del iPhone 15, el móvil más potente de Apple hasta la fecha</a></h4>
     <a href='https://computerhoy.com/apple/opina-redaccion-computer-hoy-iphone-15-1304050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-15-pro-max-3132760.jpg?tf=1200x' alt='Esto opina la redacción de Computer Hoy del iPhone 15, el móvil más potente de Apple hasta la fecha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-15-pro-max-todo-debes-saber-iphone-potente-caro-historia-1303348'>iPhone 15 Pro Max: todo lo que debes saber del iPhone más potente y caro de la historia</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-15-pro-max-todo-debes-saber-iphone-potente-caro-historia-1303348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3133072.jpg?tf=1200x' alt='iPhone 15 Pro Max: todo lo que debes saber del iPhone más potente y caro de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368'>Presentación del iPhone 15, su precio y las novedades de Apple en el Keynote 2023, en directo</a></h4>
-    <a href='https://computerhoy.com/directos/directo-iphone-15-apple-watch-series-9-evento-apple-worderlust-1303368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/portada-iphone-15-pro-3132986.jpg?tf=1200x' alt='Presentación del iPhone 15, su precio y las novedades de Apple en el Keynote 2023, en directo' />
     </a>
 </div>
 
