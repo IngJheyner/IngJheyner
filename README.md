@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cuando-podras-descargar-ios-17-modelos-iphone-podras-hacerlo-1304350'>Cuándo podrás descargar iOS 17 y en qué modelos de iPhone podrás hacerlo</a></h4>
-    <a href='https://computerhoy.com/apple/cuando-podras-descargar-ios-17-modelos-iphone-podras-hacerlo-1304350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-ios-17-3051698.jpg?tf=1200x' alt='Cuándo podrás descargar iOS 17 y en qué modelos de iPhone podrás hacerlo' />
+    <h4><a href='https://computerhoy.com/life/ciudad-espanola-ejemplo-nivel-mundial-24-anos-restringiendo-trafico-coches-1304464'>Esta ciudad española es un ejemplo a nivel mundial: 24 años restringiendo el tráfico de coches</a></h4>
+    <a href='https://computerhoy.com/life/ciudad-espanola-ejemplo-nivel-mundial-24-anos-restringiendo-trafico-coches-1304464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/pontevedra-3133608.jpg?tf=1200x' alt='Esta ciudad española es un ejemplo a nivel mundial: 24 años restringiendo el tráfico de coches' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cuantos-dias-necesitas-trabajar-comprar-iphone-15-espana-otros-paises-1304366'>Cuántos días necesitas trabajar para comprar un iPhone 15 en España y otros países</a></h4>
-    <a href='https://computerhoy.com/apple/cuantos-dias-necesitas-trabajar-comprar-iphone-15-espana-otros-paises-1304366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/trabajar-dinero-3133460.jpg?tf=1200x' alt='Cuántos días necesitas trabajar para comprar un iPhone 15 en España y otros países' />
+    <h4><a href='https://computerhoy.com/tecnologia/apple-quiere-cobrarte-35eu-accesorio-pero-aliexpress-cuesta-menos-1eu-1304362'>Apple quiere cobrarte 35€ por este accesorio, pero en AliExpress cuesta menos de 1€</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-quiere-cobrarte-35eu-accesorio-pero-aliexpress-cuesta-menos-1eu-1304362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/adaptador-apple-3133442.jpg?tf=1200x' alt='Apple quiere cobrarte 35€ por este accesorio, pero en AliExpress cuesta menos de 1€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-msi-mitad-precio-16gb-ram-intel-core-i5-1303724'>Portátil MSI a mitad de precio, con 16GB de RAM y con Intel Core i5</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-msi-mitad-precio-16gb-ram-intel-core-i5-1303724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/msi-modern-15-portatiles-msi-2747475.jpg?tf=1200x' alt='Portátil MSI a mitad de precio, con 16GB de RAM y con Intel Core i5' />
+    <h4><a href='https://computerhoy.com/apple/colores-iphone-15-diseno-materiales-todas-opciones-disponibles-1304424'>Colores del iPhone 15: diseño, materiales y todas las opciones disponibles</a></h4>
+    <a href='https://computerhoy.com/apple/colores-iphone-15-diseno-materiales-todas-opciones-disponibles-1304424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-iphone-15-plus-3133106.jpg?tf=1200x' alt='Colores del iPhone 15: diseño, materiales y todas las opciones disponibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/trampas-apple-alto-precio-tendras-pagar-tener-iphone-15-usb-c-1304300'>Las trampas de Apple y el alto precio que tendrás que pagar por tener un iPhone 15 con USB-C</a></h4>
-    <a href='https://computerhoy.com/apple/trampas-apple-alto-precio-tendras-pagar-tener-iphone-15-usb-c-1304300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-usb-c-3133446.jpg?tf=1200x' alt='Las trampas de Apple y el alto precio que tendrás que pagar por tener un iPhone 15 con USB-C' />
+    <h4><a href='https://computerhoy.com/apple/francia-prohibe-venta-iphone-12-alta-radiacion-realmente-peligroso-1304426'>Francia prohíbe la venta del iPhone 12 por alta radiación: ¿es realmente peligroso?</a></h4>
+    <a href='https://computerhoy.com/apple/francia-prohibe-venta-iphone-12-alta-radiacion-realmente-peligroso-1304426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/radiacion-moviles-3133572.jpg?tf=1200x' alt='Francia prohíbe la venta del iPhone 12 por alta radiación: ¿es realmente peligroso?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-parecido-apple-watch-oferta-1198370'>Este es el Apple Watch low cost de Xiaomi: cuesta 39 euros y es sorprendentemente completo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-parecido-apple-watch-oferta-1198370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-watch-2-lite-analisis-opinion-2598817.jpg?tf=1200x' alt='Este es el Apple Watch low cost de Xiaomi: cuesta 39 euros y es sorprendentemente completo' />
+    <h4><a href='https://computerhoy.com/apple/diferencias-hay-diferentes-versiones-iphone-15-iphone-15-plus-iphone-15-pro-iphone-15-pro-max-1304378'>Qué diferencias hay entre las diferentes versiones: iPhone 15, iPhone 15 Plus, iPhone 15 Pro y iPhone 15 Pro Max</a></h4>
+    <a href='https://computerhoy.com/apple/diferencias-hay-diferentes-versiones-iphone-15-iphone-15-plus-iphone-15-pro-iphone-15-pro-max-1304378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-iphone-15-plus-iphone-15-pro-iphone-15-pro-max-3133552.jpg?tf=1200x' alt='Qué diferencias hay entre las diferentes versiones: iPhone 15, iPhone 15 Plus, iPhone 15 Pro y iPhone 15 Pro Max' />
     </a>
 </div>
 
