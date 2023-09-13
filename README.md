@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-renueva-airpods-pro-ahora-puerto-usb-c-1303928'>Apple renueva los AirPods Pro 2, ahora con carga USB-C y nuevas experiencias de audio</a></h4>
+    <a href='https://computerhoy.com/apple/apple-renueva-airpods-pro-ahora-puerto-usb-c-1303928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-renueva-airpods-pro-2-ahora-carga-usb-c-nuevas-experiencias-audio-3133032.jpg?tf=1200x' alt='Apple renueva los AirPods Pro 2, ahora con carga USB-C y nuevas experiencias de audio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/opina-redaccion-computer-hoy-iphone-15-1304050'>Esto opina la redacción de Computer Hoy del iPhone 15, el móvil más potente de Apple hasta la fecha</a></h4>
     <a href='https://computerhoy.com/apple/opina-redaccion-computer-hoy-iphone-15-1304050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3133024.jpg?tf=1200x' alt='Esto opina la redacción de Computer Hoy del iPhone 15, el móvil más potente de Apple hasta la fecha' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-15-pro-max-3132760.jpg?tf=1200x' alt='Esto opina la redacción de Computer Hoy del iPhone 15, el móvil más potente de Apple hasta la fecha' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614'>iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el último smartphone de Apple</a></h4>
     <a href='https://computerhoy.com/tecnologia/iphone-15-precio-fecha-lanzamiento-modelos-1294614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-colores-3132786.jpg?tf=1200x' alt='iPhone 15: fecha de salida, modelos, precios y todo lo que se sabe sobre el último smartphone de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/locura-precio-moviles-potentes-poco-f5-5g-pantalla-amoled-1303692'>Locura de precio en uno de los móviles más potentes, el POCO F5 5G con pantalla AMOLED</a></h4>
-    <a href='https://computerhoy.com/tecnologia/locura-precio-moviles-potentes-poco-f5-5g-pantalla-amoled-1303692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/poco-f5-3131916.jpg?tf=1200x' alt='Locura de precio en uno de los móviles más potentes, el POCO F5 5G con pantalla AMOLED' />
     </a>
 </div>
 
