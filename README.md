@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/mejora-velocidad-router-wifi-estos-cuatro-consejos-1303968'>Mejora la velocidad de tu router WiFi en minutos con estos cuatro consejos infalibles</a></h4>
-    <a href='https://computerhoy.com/redes/mejora-velocidad-router-wifi-estos-cuatro-consejos-1303968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg?tf=1200x' alt='Mejora la velocidad de tu router WiFi en minutos con estos cuatro consejos infalibles' />
+    <h4><a href='https://computerhoy.com/life/truco-infalible-steve-jobs-detectar-persona-toxica-1303448'>El truco infalible de Steve Jobs para detectar a una persona tóxica</a></h4>
+    <a href='https://computerhoy.com/life/truco-infalible-steve-jobs-detectar-persona-toxica-1303448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/steve-jobs-toxico-3133662.jpg?tf=1200x' alt='El truco infalible de Steve Jobs para detectar a una persona tóxica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/francia-prohibe-venta-iphone-12-alta-radiacion-realmente-peligroso-1304496'>Francia prohíbe la venta del iPhone 12 por alta radiación: ¿es realmente peligroso?</a></h4>
-    <a href='https://computerhoy.com/apple/francia-prohibe-venta-iphone-12-alta-radiacion-realmente-peligroso-1304496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-2613421.jpg?tf=1200x' alt='Francia prohíbe la venta del iPhone 12 por alta radiación: ¿es realmente peligroso?' />
+    <h4><a href='https://computerhoy.com/apple/ya-puedes-descargar-fondos-pantalla-iphone-15-1304542'>Ya puedes descargar gratis los fondos de pantalla de los iPhone 15 y iPhone 15 Pro en alta resolución</a></h4>
+    <a href='https://computerhoy.com/apple/ya-puedes-descargar-fondos-pantalla-iphone-15-1304542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3133790.jpg?tf=1200x' alt='Ya puedes descargar gratis los fondos de pantalla de los iPhone 15 y iPhone 15 Pro en alta resolución' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/calzadas-romanas-emitian-reflejos-verlas-oscuridad-1304528'>Muchas calzadas romanas tienen unas rocas blancas entre las piedras: no imaginas su utilidad</a></h4>
-    <a href='https://computerhoy.com/ciencia/calzadas-romanas-emitian-reflejos-verlas-oscuridad-1304528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/muchas-calzadas-romanas-tienen-unas-rocas-blancas-piedras-no-imaginas-utilidad-3133638.jpg?tf=1200x' alt='Muchas calzadas romanas tienen unas rocas blancas entre las piedras: no imaginas su utilidad' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-smartwatch-hace-sombra-apple-watch-rompe-record-amazon-1303706'>No es un error de precio: el smartwatch que hace sombra al Apple Watch rompe su récord en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-error-precio-smartwatch-hace-sombra-apple-watch-rompe-record-amazon-1303706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ticwatch-pro-5-3100036.jpg?tf=1200x' alt='No es un error de precio: el smartwatch que hace sombra al Apple Watch rompe su récord en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tdt-2024-necesitas-seguir-viendo-tele-gratis-1-enero-1304276'>TDT en 2024: qué necesitas para seguir viendo la televisión gratis a partir del 1 de enero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tdt-2024-necesitas-seguir-viendo-tele-gratis-1-enero-1304276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='TDT en 2024: qué necesitas para seguir viendo la televisión gratis a partir del 1 de enero' />
+    <h4><a href='https://computerhoy.com/tutoriales/deberias-borrar-cookies-cache-movil-android-1304278'>Por qué deberías borrar periódicamente las cookies y la caché de tu móvil Android y cómo hacerlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/deberias-borrar-cookies-cache-movil-android-1304278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/android-3022320.jpg?tf=1200x' alt='Por qué deberías borrar periódicamente las cookies y la caché de tu móvil Android y cómo hacerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/logran-record-aceleracion-coche-electrico-0-100-km-h-menos-segundo-video-1304458'>Logran el récord de aceleración con un coche eléctrico: de 0 a 100 Km/h en menos de un segundo (Vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/logran-record-aceleracion-coche-electrico-0-100-km-h-menos-segundo-video-1304458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/logran-record-aceleracion-coche-electrico-0-100-km-h-menos-segundo-3133674.jpg?tf=1200x' alt='Logran el récord de aceleración con un coche eléctrico: de 0 a 100 Km/h en menos de un segundo (Vídeo)' />
+    <h4><a href='https://computerhoy.com/apple/cancion-anuncio-iphone-15-todos-temas-escuchamos-keynote-apple-1304500'>La canción del anuncio del iPhone 15 y todos los temas que escuchamos en la Keynote de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/cancion-anuncio-iphone-15-todos-temas-escuchamos-keynote-apple-1304500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3131110.jpg?tf=1200x' alt='La canción del anuncio del iPhone 15 y todos los temas que escuchamos en la Keynote de Apple' />
     </a>
 </div>
 
