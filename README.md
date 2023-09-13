@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ciudad-espanola-ejemplo-nivel-mundial-24-anos-restringiendo-trafico-coches-1304464'>Esta ciudad española es un ejemplo a nivel mundial: 24 años restringiendo el tráfico de coches</a></h4>
-    <a href='https://computerhoy.com/life/ciudad-espanola-ejemplo-nivel-mundial-24-anos-restringiendo-trafico-coches-1304464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/pontevedra-3133608.jpg?tf=1200x' alt='Esta ciudad española es un ejemplo a nivel mundial: 24 años restringiendo el tráfico de coches' />
+    <h4><a href='https://computerhoy.com/redes/mejora-velocidad-router-wifi-estos-cuatro-consejos-1303968'>Mejora la velocidad de tu router WiFi en minutos con estos cuatro consejos infalibles</a></h4>
+    <a href='https://computerhoy.com/redes/mejora-velocidad-router-wifi-estos-cuatro-consejos-1303968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg?tf=1200x' alt='Mejora la velocidad de tu router WiFi en minutos con estos cuatro consejos infalibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-quiere-cobrarte-35eu-accesorio-pero-aliexpress-cuesta-menos-1eu-1304362'>Apple quiere cobrarte 35€ por este accesorio, pero en AliExpress cuesta menos de 1€</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-quiere-cobrarte-35eu-accesorio-pero-aliexpress-cuesta-menos-1eu-1304362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/adaptador-apple-3133442.jpg?tf=1200x' alt='Apple quiere cobrarte 35€ por este accesorio, pero en AliExpress cuesta menos de 1€' />
+    <h4><a href='https://computerhoy.com/apple/francia-prohibe-venta-iphone-12-alta-radiacion-realmente-peligroso-1304496'>Francia prohíbe la venta del iPhone 12 por alta radiación: ¿es realmente peligroso?</a></h4>
+    <a href='https://computerhoy.com/apple/francia-prohibe-venta-iphone-12-alta-radiacion-realmente-peligroso-1304496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/iphone-12-2613421.jpg?tf=1200x' alt='Francia prohíbe la venta del iPhone 12 por alta radiación: ¿es realmente peligroso?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/colores-iphone-15-diseno-materiales-todas-opciones-disponibles-1304424'>Colores del iPhone 15: diseño, materiales y todas las opciones disponibles</a></h4>
-    <a href='https://computerhoy.com/apple/colores-iphone-15-diseno-materiales-todas-opciones-disponibles-1304424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-iphone-15-plus-3133106.jpg?tf=1200x' alt='Colores del iPhone 15: diseño, materiales y todas las opciones disponibles' />
+    <h4><a href='https://computerhoy.com/ciencia/calzadas-romanas-emitian-reflejos-verlas-oscuridad-1304528'>Muchas calzadas romanas tienen unas rocas blancas entre las piedras: no imaginas su utilidad</a></h4>
+    <a href='https://computerhoy.com/ciencia/calzadas-romanas-emitian-reflejos-verlas-oscuridad-1304528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/muchas-calzadas-romanas-tienen-unas-rocas-blancas-piedras-no-imaginas-utilidad-3133638.jpg?tf=1200x' alt='Muchas calzadas romanas tienen unas rocas blancas entre las piedras: no imaginas su utilidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/francia-prohibe-venta-iphone-12-alta-radiacion-realmente-peligroso-1304426'>Francia prohíbe la venta del iPhone 12 por alta radiación: ¿es realmente peligroso?</a></h4>
-    <a href='https://computerhoy.com/apple/francia-prohibe-venta-iphone-12-alta-radiacion-realmente-peligroso-1304426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/radiacion-moviles-3133572.jpg?tf=1200x' alt='Francia prohíbe la venta del iPhone 12 por alta radiación: ¿es realmente peligroso?' />
+    <h4><a href='https://computerhoy.com/tecnologia/tdt-2024-necesitas-seguir-viendo-tele-gratis-1-enero-1304276'>TDT en 2024: qué necesitas para seguir viendo la televisión gratis a partir del 1 de enero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tdt-2024-necesitas-seguir-viendo-tele-gratis-1-enero-1304276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='TDT en 2024: qué necesitas para seguir viendo la televisión gratis a partir del 1 de enero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/diferencias-hay-diferentes-versiones-iphone-15-iphone-15-plus-iphone-15-pro-iphone-15-pro-max-1304378'>Qué diferencias hay entre las diferentes versiones: iPhone 15, iPhone 15 Plus, iPhone 15 Pro y iPhone 15 Pro Max</a></h4>
-    <a href='https://computerhoy.com/apple/diferencias-hay-diferentes-versiones-iphone-15-iphone-15-plus-iphone-15-pro-iphone-15-pro-max-1304378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-iphone-15-plus-iphone-15-pro-iphone-15-pro-max-3133552.jpg?tf=1200x' alt='Qué diferencias hay entre las diferentes versiones: iPhone 15, iPhone 15 Plus, iPhone 15 Pro y iPhone 15 Pro Max' />
+    <h4><a href='https://computerhoy.com/motor/logran-record-aceleracion-coche-electrico-0-100-km-h-menos-segundo-video-1304458'>Logran el récord de aceleración con un coche eléctrico: de 0 a 100 Km/h en menos de un segundo (Vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/logran-record-aceleracion-coche-electrico-0-100-km-h-menos-segundo-video-1304458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/logran-record-aceleracion-coche-electrico-0-100-km-h-menos-segundo-3133674.jpg?tf=1200x' alt='Logran el récord de aceleración con un coche eléctrico: de 0 a 100 Km/h en menos de un segundo (Vídeo)' />
     </a>
 </div>
 
