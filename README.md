@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-parecido-apple-watch-oferta-1198370'>Este es el Apple Watch low cost de Xiaomi: cuesta 39 euros y es sorprendentemente completo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-parecido-apple-watch-oferta-1198370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/redmi-watch-2-lite-analisis-opinion-2598817.jpg?tf=1200x' alt='Este es el Apple Watch low cost de Xiaomi: cuesta 39 euros y es sorprendentemente completo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/mejores-chimeneas-electricas-calentar-casa-estilo-1303704'>Las mejores chimeneas eléctricas para calentar tu casa con estilo</a></h4>
+    <a href='https://computerhoy.com/guia-compra/mejores-chimeneas-electricas-calentar-casa-estilo-1303704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/chiemenea-electrica-3132254.jpg?tf=1200x' alt='Las mejores chimeneas eléctricas para calentar tu casa con estilo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/sorprendentemente-apple-ha-revolucionado-algo-uso-usb-c-iphone-15-pro-1304044'>Sorprendentemente, Apple sí que ha revolucionado algo con el uso de USB-C en los iPhone 15 Pro</a></h4>
     <a href='https://computerhoy.com/apple/sorprendentemente-apple-ha-revolucionado-algo-uso-usb-c-iphone-15-pro-1304044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/macbook-pro-conectado-usb-c-iphone-15-pro-3133050.jpg?tf=1200x' alt='Sorprendentemente, Apple sí que ha revolucionado algo con el uso de USB-C en los iPhone 15 Pro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/alcarelle-alcohol-sintetico-no-emborracha-ni-produce-resaca-1304274'>Alcarelle, el alcohol sintético que relaja, pero no emborracha ni produce resaca </a></h4>
     <a href='https://computerhoy.com/alimentacion/alcarelle-alcohol-sintetico-no-emborracha-ni-produce-resaca-1304274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/alcarelle-alcohol-sintetico-no-emborracha-ni-produce-resaca-3133108.jpg?tf=1200x' alt='Alcarelle, el alcohol sintético que relaja, pero no emborracha ni produce resaca ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-renueva-airpods-pro-ahora-puerto-usb-c-1303928'>Apple renueva los AirPods Pro 2, ahora con carga USB-C y nuevas experiencias de audio</a></h4>
-    <a href='https://computerhoy.com/apple/apple-renueva-airpods-pro-ahora-puerto-usb-c-1303928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-renueva-airpods-pro-2-ahora-carga-usb-c-nuevas-experiencias-audio-3133032.jpg?tf=1200x' alt='Apple renueva los AirPods Pro 2, ahora con carga USB-C y nuevas experiencias de audio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/opina-redaccion-computer-hoy-iphone-15-1304050'>Esto opina la redacción de Computer Hoy del iPhone 15, el móvil más potente de Apple hasta la fecha</a></h4>
-    <a href='https://computerhoy.com/apple/opina-redaccion-computer-hoy-iphone-15-1304050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-15-pro-max-3132760.jpg?tf=1200x' alt='Esto opina la redacción de Computer Hoy del iPhone 15, el móvil más potente de Apple hasta la fecha' />
     </a>
 </div>
 
