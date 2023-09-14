@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-estrenos-series-peliculas-octubre-noviembre-diciembre-2023-1304876'>SkyShowtime anuncia sus grandes estrenos de series y películas para los próximos meses</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/skyshowtime-estrenos-series-peliculas-octubre-noviembre-diciembre-2023-1304876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/skyshowtime-anuncia-grandes-estrenos-series-peliculas-proximos-meses-3134128.jpg?tf=1200x' alt='SkyShowtime anuncia sus grandes estrenos de series y películas para los próximos meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/thunderbolt-5-ya-aqui-alcanza-120-gbps-1304664'>Thunderbolt 5 ya está aquí, alcanza los 120 Gbps y carga a 240 W</a></h4>
     <a href='https://computerhoy.com/pc/thunderbolt-5-ya-aqui-alcanza-120-gbps-1304664' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/thunderbolt-5-ya-aqui-alcanza-120-gbps-carga-240-w-3134038.jpg?tf=1200x' alt='Thunderbolt 5 ya está aquí, alcanza los 120 Gbps y carga a 240 W' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-filtrada-resolucion-tiempo-carga-juego-salida-1304616'>Nintendo Switch 2: filtrada su posible resolución, tiempos de carga, juego de lanzamiento y fecha venta</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-switch-2-filtrada-resolucion-tiempo-carga-juego-salida-1304616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nintendo-switch-2-filtrada-posible-resolucion-tiempos-carga-juego-lanzamiento-fecha-venta-3133956.jpg?tf=1200x' alt='Nintendo Switch 2: filtrada su posible resolución, tiempos de carga, juego de lanzamiento y fecha venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/inventan-bateria-revolucionaria-almacenar-energia-renovable-1304602'>Inventan una batería revolucionaria para almacenar energía renovable que podría cambiarlo todo</a></h4>
-    <a href='https://computerhoy.com/energia/inventan-bateria-revolucionaria-almacenar-energia-renovable-1304602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/panel-solar-1861815.jpg?tf=1200x' alt='Inventan una batería revolucionaria para almacenar energía renovable que podría cambiarlo todo' />
     </a>
 </div>
 
