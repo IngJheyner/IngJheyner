@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/neumaticos-bicicletas-inspirados-rover-nasa-punto-llegar-tierra-1304902'>Los neumáticos para bicicletas inspirados en los rover de la NASA a punto de llegar a la Tierra</a></h4>
+    <a href='https://computerhoy.com/life/neumaticos-bicicletas-inspirados-rover-nasa-punto-llegar-tierra-1304902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/neumaticos-bicicletas-3134394.jpg?tf=1200x' alt='Los neumáticos para bicicletas inspirados en los rover de la NASA a punto de llegar a la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-651-computer-hoy-1300998'>¡Ya está en tu quiosco el número 651 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-651-computer-hoy-1300998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/computer-hoy-651-3129876.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 651 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/adaptadores-usb-c-lightning-cargar-iphone-15-son-barato-apple-1304642'>Adaptadores de USB C a Lightning para cargar el iPhone 15 que son más barato que el de Apple</a></h4>
     <a href='https://computerhoy.com/apple/adaptadores-usb-c-lightning-cargar-iphone-15-son-barato-apple-1304642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-cargador-usb-c-3134026.jpg?tf=1200x' alt='Adaptadores de USB C a Lightning para cargar el iPhone 15 que son más barato que el de Apple' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-estrenos-series-peliculas-octubre-noviembre-diciembre-2023-1304876'>SkyShowtime anuncia sus grandes estrenos de series y películas para los próximos meses</a></h4>
     <a href='https://computerhoy.com/entretenimiento/skyshowtime-estrenos-series-peliculas-octubre-noviembre-diciembre-2023-1304876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/skyshowtime-anuncia-grandes-estrenos-series-peliculas-proximos-meses-3134128.jpg?tf=1200x' alt='SkyShowtime anuncia sus grandes estrenos de series y películas para los próximos meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/thunderbolt-5-ya-aqui-alcanza-120-gbps-1304664'>Thunderbolt 5 ya está aquí, alcanza los 120 Gbps y carga a 240 W</a></h4>
-    <a href='https://computerhoy.com/pc/thunderbolt-5-ya-aqui-alcanza-120-gbps-1304664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/thunderbolt-5-ya-aqui-alcanza-120-gbps-carga-240-w-3134038.jpg?tf=1200x' alt='Thunderbolt 5 ya está aquí, alcanza los 120 Gbps y carga a 240 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/action-button-iphone-15-pro-como-funciona-1304568'>Qué es el Action Button, la gran novedad de los iPhone 15 Pro, y cómo funciona</a></h4>
-    <a href='https://computerhoy.com/apple/action-button-iphone-15-pro-como-funciona-1304568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/action-button-gran-novedad-iphone-15-pro-como-funciona-3133870.jpg?tf=1200x' alt='Qué es el Action Button, la gran novedad de los iPhone 15 Pro, y cómo funciona' />
     </a>
 </div>
 
