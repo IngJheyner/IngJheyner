@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/thunderbolt-5-ya-aqui-alcanza-120-gbps-1304664'>Thunderbolt 5 ya está aquí, alcanza los 120 Gbps y carga a 240 W</a></h4>
+    <a href='https://computerhoy.com/pc/thunderbolt-5-ya-aqui-alcanza-120-gbps-1304664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/thunderbolt-5-ya-aqui-alcanza-120-gbps-carga-240-w-3134038.jpg?tf=1200x' alt='Thunderbolt 5 ya está aquí, alcanza los 120 Gbps y carga a 240 W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/action-button-iphone-15-pro-como-funciona-1304568'>Qué es el Action Button, la gran novedad de los iPhone 15 Pro, y cómo funciona</a></h4>
+    <a href='https://computerhoy.com/apple/action-button-iphone-15-pro-como-funciona-1304568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/action-button-gran-novedad-iphone-15-pro-como-funciona-3133870.jpg?tf=1200x' alt='Qué es el Action Button, la gran novedad de los iPhone 15 Pro, y cómo funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/canales-whatsapp-llegan-fin-espana-1304630'>Los canales de WhatsApp llegan por fin a España</a></h4>
     <a href='https://computerhoy.com/redes/canales-whatsapp-llegan-fin-espana-1304630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/canales-whatsapp-llegan-fin-espana-3133998.jpg?tf=1200x' alt='Los canales de WhatsApp llegan por fin a España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/inventan-bateria-revolucionaria-almacenar-energia-renovable-1304602'>Inventan una batería revolucionaria para almacenar energía renovable que podría cambiarlo todo</a></h4>
     <a href='https://computerhoy.com/energia/inventan-bateria-revolucionaria-almacenar-energia-renovable-1304602' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/panel-solar-1861815.jpg?tf=1200x' alt='Inventan una batería revolucionaria para almacenar energía renovable que podría cambiarlo todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-descubre-exoplaneta-todas-condiciones-vida-1304626'>La NASA descubre una “Súper Tierra” con todas las condiciones para la vida del ser humano</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-descubre-exoplaneta-todas-condiciones-vida-1304626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/planeta-3133986.jpg?tf=1200x' alt='La NASA descubre una “Súper Tierra” con todas las condiciones para la vida del ser humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-activara-espana-funciones-esperadas-iphone-1304622'>Apple activará en España una de las funciones más útiles del iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/apple-activara-espana-funciones-esperadas-iphone-1304622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/comunicacion-satelite-2467717.jpg?tf=1200x' alt='Apple activará en España una de las funciones más útiles del iPhone' />
     </a>
 </div>
 
