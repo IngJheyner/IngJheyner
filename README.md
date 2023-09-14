@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/misteriosos-destellos-luz-segundos-antes-terremoto-marruecos-1305080'>Vuelven a aparecer los misteriosos destellos de luz, segundos antes del terremoto de Marruecos</a></h4>
+    <a href='https://computerhoy.com/ciencia/misteriosos-destellos-luz-segundos-antes-terremoto-marruecos-1305080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/vuelven-aparecer-misteriosos-destellos-luz-segundos-antes-terremoto-marruecos-3134344.jpg?tf=1200x' alt='Vuelven a aparecer los misteriosos destellos de luz, segundos antes del terremoto de Marruecos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/primeras-pruebas-confirman-iphone-15-pro-15-pro-max-incluiran-8-gb-ram-1305046'>Las primeras pruebas confirman que los iPhone 15 Pro y 15 Pro Max incluirán 8 GB de RAM</a></h4>
+    <a href='https://computerhoy.com/apple/primeras-pruebas-confirman-iphone-15-pro-15-pro-max-incluiran-8-gb-ram-1305046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-15-pro-max-3132760.jpg?tf=1200x' alt='Las primeras pruebas confirman que los iPhone 15 Pro y 15 Pro Max incluirán 8 GB de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/shiba-inu-presion-patron-falling-three-momento-comprar-vender-1304990'>Shiba Inu bajo presión por el patrón "Falling Three": ¿Qué consecuencias puede tener? </a></h4>
     <a href='https://computerhoy.com/criptos/shiba-inu-presion-patron-falling-three-momento-comprar-vender-1304990' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rompe-todos-record-individuales-ganancias-criptomonedas-gracias-shiba-inu-2516439.jpg?tf=1200x' alt='Shiba Inu bajo presión por el patrón "Falling Three": ¿Qué consecuencias puede tener? ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/iphone-15-usb-c-todo-necesitas-saber-nadie-te-cuenta-1304950'>iPhone 15 con USB-C: todo lo que necesitas saber y nadie te cuenta</a></h4>
     <a href='https://computerhoy.com/apple/iphone-15-usb-c-todo-necesitas-saber-nadie-te-cuenta-1304950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-usb-c-3134612.jpg?tf=1200x' alt='iPhone 15 con USB-C: todo lo que necesitas saber y nadie te cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/mal-tiempo-carretera-android-auto-te-avisara-evitar-sustos-1304942'>Mal tiempo en la carretera: Android Auto te avisará para evitar sustos</a></h4>
-    <a href='https://computerhoy.com/android/mal-tiempo-carretera-android-auto-te-avisara-evitar-sustos-1304942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Mal tiempo en la carretera: Android Auto te avisará para evitar sustos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/motorola-edge-40-neo-primeras-impresiones-1304584'>Motorola edge 40 Neo, el móvil con uno de los mejores diseños del año y con opciones de cuero vegano</a></h4>
-    <a href='https://computerhoy.com/moviles/motorola-edge-40-neo-primeras-impresiones-1304584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/motorola-edge-40-neo-3133880.jpg?tf=1200x' alt='Motorola edge 40 Neo, el móvil con uno de los mejores diseños del año y con opciones de cuero vegano' />
     </a>
 </div>
 
