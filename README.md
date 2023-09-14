@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/misteriosos-destellos-luz-segundos-antes-terremoto-marruecos-1305080'>Vuelven a aparecer los misteriosos destellos de luz, segundos antes del terremoto de Marruecos</a></h4>
-    <a href='https://computerhoy.com/ciencia/misteriosos-destellos-luz-segundos-antes-terremoto-marruecos-1305080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/vuelven-aparecer-misteriosos-destellos-luz-segundos-antes-terremoto-marruecos-3134344.jpg?tf=1200x' alt='Vuelven a aparecer los misteriosos destellos de luz, segundos antes del terremoto de Marruecos' />
+    <h4><a href='https://computerhoy.com/espacio/astronomos-detectan-extrano-fenomeno-albert-einstein-predijo-seria-imposible-ver-1305102'>Astrónomos detectan un extraño fenómeno que Albert Einstein predijo que sería imposible ver</a></h4>
+    <a href='https://computerhoy.com/espacio/astronomos-detectan-extrano-fenomeno-albert-einstein-predijo-seria-imposible-ver-1305102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cruz-albert-einstein-3134862.jpg?tf=1200x' alt='Astrónomos detectan un extraño fenómeno que Albert Einstein predijo que sería imposible ver' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/primeras-pruebas-confirman-iphone-15-pro-15-pro-max-incluiran-8-gb-ram-1305046'>Las primeras pruebas confirman que los iPhone 15 Pro y 15 Pro Max incluirán 8 GB de RAM</a></h4>
-    <a href='https://computerhoy.com/apple/primeras-pruebas-confirman-iphone-15-pro-15-pro-max-incluiran-8-gb-ram-1305046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-15-pro-max-3132760.jpg?tf=1200x' alt='Las primeras pruebas confirman que los iPhone 15 Pro y 15 Pro Max incluirán 8 GB de RAM' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/detenidos-robar-miles-euros-hackeando-cajeros-raspberry-pi-1305108'>Detenidos por robar miles de euros hackeando cajeros con una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/detenidos-robar-miles-euros-hackeando-cajeros-raspberry-pi-1305108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/raspberry-pi-como-puede-danar-3121176.jpg?tf=1200x' alt='Detenidos por robar miles de euros hackeando cajeros con una Raspberry Pi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/shiba-inu-presion-patron-falling-three-momento-comprar-vender-1304990'>Shiba Inu bajo presión por el patrón "Falling Three": ¿Qué consecuencias puede tener? </a></h4>
-    <a href='https://computerhoy.com/criptos/shiba-inu-presion-patron-falling-three-momento-comprar-vender-1304990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rompe-todos-record-individuales-ganancias-criptomonedas-gracias-shiba-inu-2516439.jpg?tf=1200x' alt='Shiba Inu bajo presión por el patrón "Falling Three": ¿Qué consecuencias puede tener? ' />
+    <h4><a href='https://computerhoy.com/alimentacion/adolescente-fallece-reto-nacho-guindilla-picante-one-chip-challenge-1305126'>Un adolescente fallece tras intentar el reto del nacho con la guindilla más picante del mundo</a></h4>
+    <a href='https://computerhoy.com/alimentacion/adolescente-fallece-reto-nacho-guindilla-picante-one-chip-challenge-1305126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/adolescente-fallece-intentar-reto-nacho-guindilla-picante-mundo-3134782.jpg?tf=1200x' alt='Un adolescente fallece tras intentar el reto del nacho con la guindilla más picante del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-desata-locura-rebaja-brutal-apple-watch-series-8-1304912'>Amazon desata la locura con la rebaja más brutal en el Apple Watch Series 8, que cae a precio muy por debajo del Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-desata-locura-rebaja-brutal-apple-watch-series-8-1304912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841939.jpg?tf=1200x' alt='Amazon desata la locura con la rebaja más brutal en el Apple Watch Series 8, que cae a precio muy por debajo del Prime Day' />
+    <h4><a href='https://computerhoy.com/life/problema-matematico-poniendo-jaque-estudiantes-incluso-personas-inteligentes-pueden-equivocarse-1302294'>El problema matemático que está poniendo en jaque a los estudiantes, incluso las personas más inteligentes pueden equivocarse</a></h4>
+    <a href='https://computerhoy.com/life/problema-matematico-poniendo-jaque-estudiantes-incluso-personas-inteligentes-pueden-equivocarse-1302294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/problema-matematico-3134820.jpg?tf=1200x' alt='El problema matemático que está poniendo en jaque a los estudiantes, incluso las personas más inteligentes pueden equivocarse' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-15-usb-c-todo-necesitas-saber-nadie-te-cuenta-1304950'>iPhone 15 con USB-C: todo lo que necesitas saber y nadie te cuenta</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-15-usb-c-todo-necesitas-saber-nadie-te-cuenta-1304950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-usb-c-3134612.jpg?tf=1200x' alt='iPhone 15 con USB-C: todo lo que necesitas saber y nadie te cuenta' />
+    <h4><a href='https://computerhoy.com/motor/comprar-coche-electrico-chino-barato-podria-tener-dias-contados-europa-1305112'>Comprar un coche eléctrico chino barato podría tener los días contados en Europa</a></h4>
+    <a href='https://computerhoy.com/motor/comprar-coche-electrico-chino-barato-podria-tener-dias-contados-europa-1305112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/coche-electrico-3058550.jpg?tf=1200x' alt='Comprar un coche eléctrico chino barato podría tener los días contados en Europa' />
     </a>
 </div>
 
