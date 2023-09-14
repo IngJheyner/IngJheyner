@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/adaptadores-usb-c-lightning-cargar-iphone-15-son-barato-apple-1304642'>Adaptadores de USB C a Lightning para cargar el iPhone 15 que son más barato que el de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/adaptadores-usb-c-lightning-cargar-iphone-15-son-barato-apple-1304642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-cargador-usb-c-3134026.jpg?tf=1200x' alt='Adaptadores de USB C a Lightning para cargar el iPhone 15 que son más barato que el de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-todo-nos-puede-ofrecer-futuro-1237642'>25 aniversario de Computer Hoy: Inteligencia Artificial, todo lo que nos puede ofrecer en el futuro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-todo-nos-puede-ofrecer-futuro-1237642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/robot-sujetando-globo-terraqueo-3133658.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Inteligencia Artificial, todo lo que nos puede ofrecer en el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-estrenos-series-peliculas-octubre-noviembre-diciembre-2023-1304876'>SkyShowtime anuncia sus grandes estrenos de series y películas para los próximos meses</a></h4>
     <a href='https://computerhoy.com/entretenimiento/skyshowtime-estrenos-series-peliculas-octubre-noviembre-diciembre-2023-1304876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/skyshowtime-anuncia-grandes-estrenos-series-peliculas-proximos-meses-3134128.jpg?tf=1200x' alt='SkyShowtime anuncia sus grandes estrenos de series y películas para los próximos meses' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/action-button-iphone-15-pro-como-funciona-1304568'>Qué es el Action Button, la gran novedad de los iPhone 15 Pro, y cómo funciona</a></h4>
     <a href='https://computerhoy.com/apple/action-button-iphone-15-pro-como-funciona-1304568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/action-button-gran-novedad-iphone-15-pro-como-funciona-3133870.jpg?tf=1200x' alt='Qué es el Action Button, la gran novedad de los iPhone 15 Pro, y cómo funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/canales-whatsapp-llegan-fin-espana-1304630'>Los canales de WhatsApp llegan por fin a España</a></h4>
-    <a href='https://computerhoy.com/redes/canales-whatsapp-llegan-fin-espana-1304630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/canales-whatsapp-llegan-fin-espana-3133998.jpg?tf=1200x' alt='Los canales de WhatsApp llegan por fin a España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-filtrada-resolucion-tiempo-carga-juego-salida-1304616'>Nintendo Switch 2: filtrada su posible resolución, tiempos de carga, juego de lanzamiento y fecha venta</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-2-filtrada-resolucion-tiempo-carga-juego-salida-1304616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nintendo-switch-2-filtrada-posible-resolucion-tiempos-carga-juego-lanzamiento-fecha-venta-3133956.jpg?tf=1200x' alt='Nintendo Switch 2: filtrada su posible resolución, tiempos de carga, juego de lanzamiento y fecha venta' />
     </a>
 </div>
 
