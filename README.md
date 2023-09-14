@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/neumaticos-bicicletas-inspirados-rover-nasa-punto-llegar-tierra-1304902'>Los neumáticos para bicicletas inspirados en los rover de la NASA a punto de llegar a la Tierra</a></h4>
-    <a href='https://computerhoy.com/life/neumaticos-bicicletas-inspirados-rover-nasa-punto-llegar-tierra-1304902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/neumaticos-bicicletas-3134394.jpg?tf=1200x' alt='Los neumáticos para bicicletas inspirados en los rover de la NASA a punto de llegar a la Tierra' />
+    <h4><a href='https://computerhoy.com/criptos/shiba-inu-presion-patron-falling-three-momento-comprar-vender-1304990'>Shiba Inu bajo presión por el patrón "Falling Three": ¿Qué consecuencias puede tener? </a></h4>
+    <a href='https://computerhoy.com/criptos/shiba-inu-presion-patron-falling-three-momento-comprar-vender-1304990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rompe-todos-record-individuales-ganancias-criptomonedas-gracias-shiba-inu-2516439.jpg?tf=1200x' alt='Shiba Inu bajo presión por el patrón "Falling Three": ¿Qué consecuencias puede tener? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-651-computer-hoy-1300998'>¡Ya está en tu quiosco el número 651 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-651-computer-hoy-1300998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/computer-hoy-651-3129876.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 651 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-desata-locura-rebaja-brutal-apple-watch-series-8-1304912'>Amazon desata la locura con la rebaja más brutal en el Apple Watch Series 8, que cae a precio muy por debajo del Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-desata-locura-rebaja-brutal-apple-watch-series-8-1304912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-watch-series-8-analisis-opinion-2841939.jpg?tf=1200x' alt='Amazon desata la locura con la rebaja más brutal en el Apple Watch Series 8, que cae a precio muy por debajo del Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/adaptadores-usb-c-lightning-cargar-iphone-15-son-barato-apple-1304642'>Adaptadores de USB C a Lightning para cargar el iPhone 15 que son más barato que el de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/adaptadores-usb-c-lightning-cargar-iphone-15-son-barato-apple-1304642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-cargador-usb-c-3134026.jpg?tf=1200x' alt='Adaptadores de USB C a Lightning para cargar el iPhone 15 que son más barato que el de Apple' />
+    <h4><a href='https://computerhoy.com/apple/iphone-15-usb-c-todo-necesitas-saber-nadie-te-cuenta-1304950'>iPhone 15 con USB-C: todo lo que necesitas saber y nadie te cuenta</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-15-usb-c-todo-necesitas-saber-nadie-te-cuenta-1304950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-usb-c-3134612.jpg?tf=1200x' alt='iPhone 15 con USB-C: todo lo que necesitas saber y nadie te cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-todo-nos-puede-ofrecer-futuro-1237642'>25 aniversario de Computer Hoy: Inteligencia Artificial, todo lo que nos puede ofrecer en el futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-todo-nos-puede-ofrecer-futuro-1237642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/robot-sujetando-globo-terraqueo-3133658.jpg?tf=1200x' alt='25 aniversario de Computer Hoy: Inteligencia Artificial, todo lo que nos puede ofrecer en el futuro' />
+    <h4><a href='https://computerhoy.com/android/mal-tiempo-carretera-android-auto-te-avisara-evitar-sustos-1304942'>Mal tiempo en la carretera: Android Auto te avisará para evitar sustos</a></h4>
+    <a href='https://computerhoy.com/android/mal-tiempo-carretera-android-auto-te-avisara-evitar-sustos-1304942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Mal tiempo en la carretera: Android Auto te avisará para evitar sustos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-estrenos-series-peliculas-octubre-noviembre-diciembre-2023-1304876'>SkyShowtime anuncia sus grandes estrenos de series y películas para los próximos meses</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/skyshowtime-estrenos-series-peliculas-octubre-noviembre-diciembre-2023-1304876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/skyshowtime-anuncia-grandes-estrenos-series-peliculas-proximos-meses-3134128.jpg?tf=1200x' alt='SkyShowtime anuncia sus grandes estrenos de series y películas para los próximos meses' />
+    <h4><a href='https://computerhoy.com/moviles/motorola-edge-40-neo-primeras-impresiones-1304584'>Motorola edge 40 Neo, el móvil con uno de los mejores diseños del año y con opciones de cuero vegano</a></h4>
+    <a href='https://computerhoy.com/moviles/motorola-edge-40-neo-primeras-impresiones-1304584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/motorola-edge-40-neo-3133880.jpg?tf=1200x' alt='Motorola edge 40 Neo, el móvil con uno de los mejores diseños del año y con opciones de cuero vegano' />
     </a>
 </div>
 
