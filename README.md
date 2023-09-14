@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-desbloquear-movil-android-has-olvidado-contrasena-pin-patron-bloqueo-1304666'>Qué hacer si has olvidado tu PIN, patrón de bloqueo o contraseña y no puedes desbloquear tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desbloquear-movil-android-has-olvidado-contrasena-pin-patron-bloqueo-1304666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hacer-has-olvidado-pin-patron-bloqueo-contrasena-no-puedes-desbloquear-movil-android-3134342.jpg?tf=1200x' alt='Qué hacer si has olvidado tu PIN, patrón de bloqueo o contraseña y no puedes desbloquear tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/desconocido-superalimento-tiene-3-veces-antioxidantes-arandano-te-ayuda-adelgazar-1304612'>Este desconocido superalimento tiene 3 veces más antioxidantes que el arándano, retrasa el envejecimiento y te ayuda a perder peso</a></h4>
+    <a href='https://computerhoy.com/alimentacion/desconocido-superalimento-tiene-3-veces-antioxidantes-arandano-te-ayuda-adelgazar-1304612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bayas-acai-3134878.jpg?tf=1200x' alt='Este desconocido superalimento tiene 3 veces más antioxidantes que el arándano, retrasa el envejecimiento y te ayuda a perder peso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/gesto-soluciona-99-problemas-conexion-smart-tv-1304588'>Este sencillo gesto soluciona el 99% de los problemas de conexión de tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/gesto-soluciona-99-problemas-conexion-smart-tv-1304588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/smart-tv-3134876.jpg?tf=1200x' alt='Este sencillo gesto soluciona el 99% de los problemas de conexión de tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/astronomos-detectan-extrano-fenomeno-albert-einstein-predijo-seria-imposible-ver-1305102'>Astrónomos detectan un extraño fenómeno que Albert Einstein predijo que sería imposible ver</a></h4>
     <a href='https://computerhoy.com/espacio/astronomos-detectan-extrano-fenomeno-albert-einstein-predijo-seria-imposible-ver-1305102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cruz-albert-einstein-3134862.jpg?tf=1200x' alt='Astrónomos detectan un extraño fenómeno que Albert Einstein predijo que sería imposible ver' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/detenidos-robar-miles-euros-hackeando-cajeros-raspberry-pi-1305108'>Detenidos por robar miles de euros hackeando cajeros con una Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/detenidos-robar-miles-euros-hackeando-cajeros-raspberry-pi-1305108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/raspberry-pi-como-puede-danar-3121176.jpg?tf=1200x' alt='Detenidos por robar miles de euros hackeando cajeros con una Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/adolescente-fallece-reto-nacho-guindilla-picante-one-chip-challenge-1305126'>Un adolescente fallece tras intentar el reto del nacho con la guindilla más picante del mundo</a></h4>
-    <a href='https://computerhoy.com/alimentacion/adolescente-fallece-reto-nacho-guindilla-picante-one-chip-challenge-1305126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/adolescente-fallece-intentar-reto-nacho-guindilla-picante-mundo-3134782.jpg?tf=1200x' alt='Un adolescente fallece tras intentar el reto del nacho con la guindilla más picante del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/problema-matematico-poniendo-jaque-estudiantes-incluso-personas-inteligentes-pueden-equivocarse-1302294'>El problema matemático que está poniendo en jaque a los estudiantes, incluso las personas más inteligentes pueden equivocarse</a></h4>
-    <a href='https://computerhoy.com/life/problema-matematico-poniendo-jaque-estudiantes-incluso-personas-inteligentes-pueden-equivocarse-1302294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/problema-matematico-3134820.jpg?tf=1200x' alt='El problema matemático que está poniendo en jaque a los estudiantes, incluso las personas más inteligentes pueden equivocarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/comprar-coche-electrico-chino-barato-podria-tener-dias-contados-europa-1305112'>Comprar un coche eléctrico chino barato podría tener los días contados en Europa</a></h4>
-    <a href='https://computerhoy.com/motor/comprar-coche-electrico-chino-barato-podria-tener-dias-contados-europa-1305112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/coche-electrico-3058550.jpg?tf=1200x' alt='Comprar un coche eléctrico chino barato podría tener los días contados en Europa' />
     </a>
 </div>
 
