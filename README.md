@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/desastrosa-prediccion-elon-musk-starlink-1305240'>Elon Musk predijo que Starlink tendría 20 millones de usuarios en 2022: hoy solo tiene 1,5 millones</a></h4>
+    <a href='https://computerhoy.com/internet/desastrosa-prediccion-elon-musk-starlink-1305240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-starlink-2848305.jpg?tf=1200x' alt='Elon Musk predijo que Starlink tendría 20 millones de usuarios en 2022: hoy solo tiene 1,5 millones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/toyota-pone-fecha-primer-coche-electrico-baterias-nueva-generacion-1305146'>Toyota pone fecha a su primer coche eléctrico con baterías de nueva generación: más potencia, mayor alcance y carga más rápida</a></h4>
     <a href='https://computerhoy.com/motor/toyota-pone-fecha-primer-coche-electrico-baterias-nueva-generacion-1305146' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/toyota-prius-24h-mans-centennial-gr-edition-3051612.jpg?tf=1200x' alt='Toyota pone fecha a su primer coche eléctrico con baterías de nueva generación: más potencia, mayor alcance y carga más rápida' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/detectan-nueva-peligrosa-estafa-wallapop-casi-perfecta-1305212'>Detectan una nueva y peligrosa estafa por Wallapop: "Es casi perfecta"</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/detectan-nueva-peligrosa-estafa-wallapop-casi-perfecta-1305212' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wallapop-3135122.jpg?tf=1200x' alt='Detectan una nueva y peligrosa estafa por Wallapop: "Es casi perfecta"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nadie-te-espiando-llama-fenomeno-baader-meinhof-ilusion-frecuencia-1302280'>Nadie te está espiando, se llama fenómeno Baader-Meinhof o de ilusión de frecuencia</a></h4>
-    <a href='https://computerhoy.com/life/nadie-te-espiando-llama-fenomeno-baader-meinhof-ilusion-frecuencia-1302280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hombre-espiando-ventana-3134956.jpg?tf=1200x' alt='Nadie te está espiando, se llama fenómeno Baader-Meinhof o de ilusión de frecuencia' />
     </a>
 </div>
 
