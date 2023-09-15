@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-google-maps-te-dice-como-barrio-vives-pijo-humilde-hipster-1305254'>Este mapa de Google Maps te dice cómo es el barrio en que vives: pijo, humilde, hipster…</a></h4>
-    <a href='https://computerhoy.com/life/mapa-google-maps-te-dice-como-barrio-vives-pijo-humilde-hipster-1305254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hoodmaps-madrid-3135800.jpg?tf=1200x' alt='Este mapa de Google Maps te dice cómo es el barrio en que vives: pijo, humilde, hipster…' />
+    <h4><a href='https://computerhoy.com/life/4-reglas-elon-musk-vida-feliz-exito-1305742'>Las 4 reglas de Elon Musk para una vida feliz y de éxito</a></h4>
+    <a href='https://computerhoy.com/life/4-reglas-elon-musk-vida-feliz-exito-1305742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-disfrazado-armadura-2957782.jpg?tf=1200x' alt='Las 4 reglas de Elon Musk para una vida feliz y de éxito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-admite-no-pueden-reparar-pantalla-pixel-watch-1305672'>Google admite que no pueden reparar la pantalla del Pixel Watch</a></h4>
-    <a href='https://computerhoy.com/google/google-admite-no-pueden-reparar-pantalla-pixel-watch-1305672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-2702235.jpg?tf=1200x' alt='Google admite que no pueden reparar la pantalla del Pixel Watch' />
+    <h4><a href='https://computerhoy.com/tecnologia/desploma-precio-iphone-13-tiene-poco-envidiar-nuevos-modelos-1305642'>Se desploma el precio del iPhone 13, que tiene poco que envidiar a los nuevos modelos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desploma-precio-iphone-13-tiene-poco-envidiar-nuevos-modelos-1305642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-13-3135746.jpg?tf=1200x' alt='Se desploma el precio del iPhone 13, que tiene poco que envidiar a los nuevos modelos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nuevos-paises-quieren-prohibir-venta-iphone-12-alta-radiacion-acabara-extendiendo-toda-europa-1305664'>Nuevos países quieren prohibir la venta del iPhone 12 por alta radiación: ¿Se acabará extendiendo a toda Europa?</a></h4>
-    <a href='https://computerhoy.com/apple/nuevos-paises-quieren-prohibir-venta-iphone-12-alta-radiacion-acabara-extendiendo-toda-europa-1305664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/iphone-12-color-azul-2499213.jpg?tf=1200x' alt='Nuevos países quieren prohibir la venta del iPhone 12 por alta radiación: ¿Se acabará extendiendo a toda Europa?' />
+    <h4><a href='https://computerhoy.com/tutoriales/configuraciones-smart-tv-estan-empeorando-calidad-imagen-1304662'>Configuraciones de tu Smart TV engañosas que están empeorando la calidad de imagen sin que lo sepas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/configuraciones-smart-tv-estan-empeorando-calidad-imagen-1304662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/chica-decepcionada-mando-distancia-3135860.jpg?tf=1200x' alt='Configuraciones de tu Smart TV engañosas que están empeorando la calidad de imagen sin que lo sepas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/famoso-flipper-zero-tamagotchi-hackers-cae-precio-amazon-quieres-probar-1305502'>El famoso Flipper Zero, el "tamagotchi de hackers" cae de precio en Amazon: ¿lo quieres probar?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/famoso-flipper-zero-tamagotchi-hackers-cae-precio-amazon-quieres-probar-1305502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/zipper-zero-3127956.jpg?tf=1200x' alt='El famoso Flipper Zero, el "tamagotchi de hackers" cae de precio en Amazon: ¿lo quieres probar?' />
+    <h4><a href='https://computerhoy.com/redes/primera-vez-whatsapp-habla-abiertamente-opcion-integrar-anuncios-aplicacion-1305732'>Por primera vez WhatsApp habla abiertamente de la opción de integrar anuncios en la aplicación</a></h4>
+    <a href='https://computerhoy.com/redes/primera-vez-whatsapp-habla-abiertamente-opcion-integrar-anuncios-aplicacion-1305732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/primera-vez-whatsapp-habla-abiertamente-integrar-anuncios-aplicacion-3136032.jpg?tf=1200x' alt='Por primera vez WhatsApp habla abiertamente de la opción de integrar anuncios en la aplicación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/posible-shiba-inu-llegue-00001-dolares-antes-fin-ano-1305592'>¿Es posible que Shiba Inu llegue a los 0,0001 dólares antes de fin de año?</a></h4>
-    <a href='https://computerhoy.com/criptos/posible-shiba-inu-llegue-00001-dolares-antes-fin-ano-1305592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg?tf=1200x' alt='¿Es posible que Shiba Inu llegue a los 0,0001 dólares antes de fin de año?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-asesino-pinochet-ingeniero-nasa-1305544'>Qué películas ver este fin de semana en Netflix, Prime Video y HBO Max: un asesino, Pinochet y un ingeniero de la NASA </a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-asesino-pinochet-ingeniero-nasa-1305544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/peliculas-fin-semana-3135640.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y HBO Max: un asesino, Pinochet y un ingeniero de la NASA ' />
     </a>
 </div>
 
