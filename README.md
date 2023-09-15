@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/es-saludable-aceite-orujo-oliva-1305256'>Con el precio del aceite por las nubes... ¿Es saludable el aceite de orujo de oliva?</a></h4>
+    <a href='https://computerhoy.com/alimentacion/es-saludable-aceite-orujo-oliva-1305256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/precio-aceite-nubes-saludable-orujo-oliva-3135158.jpg?tf=1200x' alt='Con el precio del aceite por las nubes... ¿Es saludable el aceite de orujo de oliva?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/desastrosa-prediccion-elon-musk-starlink-1305240'>Elon Musk predijo que Starlink tendría 20 millones de usuarios en 2022: hoy solo tiene 1,5 millones</a></h4>
     <a href='https://computerhoy.com/internet/desastrosa-prediccion-elon-musk-starlink-1305240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/elon-musk-starlink-2848305.jpg?tf=1200x' alt='Elon Musk predijo que Starlink tendría 20 millones de usuarios en 2022: hoy solo tiene 1,5 millones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/coca-cola-y3000-primer-refresco-mundo-desarrollado-inteligencia-artificial-1305216'>Coca‑Cola Y3000, el primer refresco del mundo desarrollado con inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/life/coca-cola-y3000-primer-refresco-mundo-desarrollado-inteligencia-artificial-1305216' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/coca-cola-y3000-3135128.jpg?tf=1200x' alt='Coca‑Cola Y3000, el primer refresco del mundo desarrollado con inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/detectan-nueva-peligrosa-estafa-wallapop-casi-perfecta-1305212'>Detectan una nueva y peligrosa estafa por Wallapop: "Es casi perfecta"</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/detectan-nueva-peligrosa-estafa-wallapop-casi-perfecta-1305212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wallapop-3135122.jpg?tf=1200x' alt='Detectan una nueva y peligrosa estafa por Wallapop: "Es casi perfecta"' />
     </a>
 </div>
 
