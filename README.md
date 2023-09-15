@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/sistema-multiproyector-portatil-futuro-preparando-samsung-1303260'>Sistema multiproyector portátil, este es el futuro que está preparando Samsung para 2024</a></h4>
+    <a href='https://computerhoy.com/tv/sistema-multiproyector-portatil-futuro-preparando-samsung-1303260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/samsung-proyectores-freestyle-2nd-gen-3131500.jpg?tf=1200x' alt='Sistema multiproyector portátil, este es el futuro que está preparando Samsung para 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-phone-2-3080342.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/es-saludable-aceite-orujo-oliva-1305256'>Con el precio del aceite por las nubes... ¿Es saludable el aceite de orujo de oliva?</a></h4>
     <a href='https://computerhoy.com/alimentacion/es-saludable-aceite-orujo-oliva-1305256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/precio-aceite-nubes-saludable-orujo-oliva-3135158.jpg?tf=1200x' alt='Con el precio del aceite por las nubes... ¿Es saludable el aceite de orujo de oliva?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/toyota-pone-fecha-primer-coche-electrico-baterias-nueva-generacion-1305146'>Toyota pone fecha a su primer coche eléctrico con baterías de nueva generación: más potencia, mayor alcance y carga más rápida</a></h4>
     <a href='https://computerhoy.com/motor/toyota-pone-fecha-primer-coche-electrico-baterias-nueva-generacion-1305146' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/toyota-prius-24h-mans-centennial-gr-edition-3051612.jpg?tf=1200x' alt='Toyota pone fecha a su primer coche eléctrico con baterías de nueva generación: más potencia, mayor alcance y carga más rápida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-estrena-cuatro-cortometrajes-wes-anderson-1305222'>Netflix estrena cuatro cortometrajes de Wes Anderson, el director de Asteroid City</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-estrena-cuatro-cortometrajes-wes-anderson-1305222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1694712557569-3135074.jpg?tf=1200x' alt='Netflix estrena cuatro cortometrajes de Wes Anderson, el director de Asteroid City' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/coca-cola-y3000-primer-refresco-mundo-desarrollado-inteligencia-artificial-1305216'>Coca‑Cola Y3000, el primer refresco del mundo desarrollado con inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/life/coca-cola-y3000-primer-refresco-mundo-desarrollado-inteligencia-artificial-1305216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/coca-cola-y3000-3135128.jpg?tf=1200x' alt='Coca‑Cola Y3000, el primer refresco del mundo desarrollado con inteligencia artificial' />
     </a>
 </div>
 
