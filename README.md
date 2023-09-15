@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/4-reglas-elon-musk-vida-feliz-exito-1305742'>Las 4 reglas de Elon Musk para una vida feliz y de éxito</a></h4>
-    <a href='https://computerhoy.com/life/4-reglas-elon-musk-vida-feliz-exito-1305742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-disfrazado-armadura-2957782.jpg?tf=1200x' alt='Las 4 reglas de Elon Musk para una vida feliz y de éxito' />
+    <h4><a href='https://computerhoy.com/tecnologia/potente-windows-mini-pc-cautiva-usuarios-amazon-precio-1303054'>Potente y con Windows: este Mini PC cautiva a los usuarios de Amazon con su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/potente-windows-mini-pc-cautiva-usuarios-amazon-precio-1303054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/blackview-mp60-3130802.jpg?tf=1200x' alt='Potente y con Windows: este Mini PC cautiva a los usuarios de Amazon con su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desploma-precio-iphone-13-tiene-poco-envidiar-nuevos-modelos-1305642'>Se desploma el precio del iPhone 13, que tiene poco que envidiar a los nuevos modelos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desploma-precio-iphone-13-tiene-poco-envidiar-nuevos-modelos-1305642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-13-3135746.jpg?tf=1200x' alt='Se desploma el precio del iPhone 13, que tiene poco que envidiar a los nuevos modelos' />
+    <h4><a href='https://computerhoy.com/motor/honda-motocompacto-moto-maleta-revolucionaria-1305808'>Honda Motocompacto, la moto-maleta que puedes transportar en la mano (vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/honda-motocompacto-moto-maleta-revolucionaria-1305808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1694798745318-3136208.jpg?tf=1200x' alt='Honda Motocompacto, la moto-maleta que puedes transportar en la mano (vídeo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/configuraciones-smart-tv-estan-empeorando-calidad-imagen-1304662'>Configuraciones de tu Smart TV engañosas que están empeorando la calidad de imagen sin que lo sepas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/configuraciones-smart-tv-estan-empeorando-calidad-imagen-1304662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/chica-decepcionada-mando-distancia-3135860.jpg?tf=1200x' alt='Configuraciones de tu Smart TV engañosas que están empeorando la calidad de imagen sin que lo sepas' />
+    <h4><a href='https://computerhoy.com/google/funcion-modo-incognito-chrome-ya-sirve-algo-1305796'>El modo incógnito de Google Chrome por fin sirve para algo</a></h4>
+    <a href='https://computerhoy.com/google/funcion-modo-incognito-chrome-ya-sirve-algo-1305796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-funcion-google-android-bloqueara-pestanas-incognito-chrome-nadie-vea-2939430.jpg?tf=1200x' alt='El modo incógnito de Google Chrome por fin sirve para algo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/primera-vez-whatsapp-habla-abiertamente-opcion-integrar-anuncios-aplicacion-1305732'>Por primera vez WhatsApp habla abiertamente de la opción de integrar anuncios en la aplicación</a></h4>
-    <a href='https://computerhoy.com/redes/primera-vez-whatsapp-habla-abiertamente-opcion-integrar-anuncios-aplicacion-1305732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/primera-vez-whatsapp-habla-abiertamente-integrar-anuncios-aplicacion-3136032.jpg?tf=1200x' alt='Por primera vez WhatsApp habla abiertamente de la opción de integrar anuncios en la aplicación' />
+    <h4><a href='https://computerhoy.com/life/regla-30-steve-jobs-deberias-seguir-quieres-conseguir-exito-vida-1304546'>La regla del 30% de Steve Jobs que deberías seguir si quieres conseguir el éxito en la vida</a></h4>
+    <a href='https://computerhoy.com/life/regla-30-steve-jobs-deberias-seguir-quieres-conseguir-exito-vida-1304546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/regla-30-steve-jobs-puedes-adoptar-impulsar-vida-profesional-3133830.jpg?tf=1200x' alt='La regla del 30% de Steve Jobs que deberías seguir si quieres conseguir el éxito en la vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-asesino-pinochet-ingeniero-nasa-1305544'>Qué películas ver este fin de semana en Netflix, Prime Video y HBO Max: un asesino, Pinochet y un ingeniero de la NASA </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-asesino-pinochet-ingeniero-nasa-1305544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/peliculas-fin-semana-3135640.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y HBO Max: un asesino, Pinochet y un ingeniero de la NASA ' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-traducir-voz-video-cualquier-idioma-gratis-rask-ai-1305778'>Cómo traducir la voz de un vídeo a cualquier idioma gratis con Rask AI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-traducir-voz-video-cualquier-idioma-gratis-rask-ai-1305778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-traducir-voz-video-cualquier-idioma-gratis-rask-ai-3136232.jpg?tf=1200x' alt='Cómo traducir la voz de un vídeo a cualquier idioma gratis con Rask AI' />
     </a>
 </div>
 
