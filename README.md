@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/responder-videollamadas-whatsapp-avatar-3d-sera-realidad-1305492'>Muy pronto podrás responder las videollamadas de WhatsApp con tu propio avatar en 3D </a></h4>
-    <a href='https://computerhoy.com/apps/responder-videollamadas-whatsapp-avatar-3d-sera-realidad-1305492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/whatsapp-avatar-3d-3135464.jpg?tf=1200x' alt='Muy pronto podrás responder las videollamadas de WhatsApp con tu propio avatar en 3D ' />
+    <h4><a href='https://computerhoy.com/criptos/posible-shiba-inu-llegue-00001-dolares-antes-fin-ano-1305592'>¿Es posible que Shiba Inu llegue a los 0,0001 dólares antes de fin de año?</a></h4>
+    <a href='https://computerhoy.com/criptos/posible-shiba-inu-llegue-00001-dolares-antes-fin-ano-1305592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg?tf=1200x' alt='¿Es posible que Shiba Inu llegue a los 0,0001 dólares antes de fin de año?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-xiaomi-pero-casi-poco-m5-probablemente-mejor-movil-barato-momento-menos-200-euros-1304928'>No es Xiaomi, pero casi: el POCO M5 es probablemente el mejor móvil barato del momento por menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-xiaomi-pero-casi-poco-m5-probablemente-mejor-movil-barato-momento-menos-200-euros-1304928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/poco-m5-3134402.jpg?tf=1200x' alt='No es Xiaomi, pero casi: el POCO M5 es probablemente el mejor móvil barato del momento por menos de 200 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-parece-pero-reloj-inteligente-muy-barato-ademas-hace-electrocardiogramas-1304480'>No lo parece, pero este reloj es inteligente, muy barato y además hace electrocardiogramas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-parece-pero-reloj-inteligente-muy-barato-ademas-hace-electrocardiogramas-1304480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/withings-move-ecg-3133636.jpg?tf=1200x' alt='No lo parece, pero este reloj es inteligente, muy barato y además hace electrocardiogramas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/sistema-multiproyector-portatil-futuro-preparando-samsung-1303260'>Sistema multiproyector portátil, este es el futuro que está preparando Samsung para 2024</a></h4>
-    <a href='https://computerhoy.com/tv/sistema-multiproyector-portatil-futuro-preparando-samsung-1303260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/samsung-proyectores-freestyle-2nd-gen-3131500.jpg?tf=1200x' alt='Sistema multiproyector portátil, este es el futuro que está preparando Samsung para 2024' />
+    <h4><a href='https://computerhoy.com/tv/nuevos-televisores-tcl-98-pulgadas-tecnologia-mini-led-1305588'>Nuevos televisores de TCL: hasta 98 pulgadas y tecnología Mini LED</a></h4>
+    <a href='https://computerhoy.com/tv/nuevos-televisores-tcl-98-pulgadas-tecnologia-mini-led-1305588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nuevos-televisores-tcl-98-pulgadas-tecnologia-mini-led-3135630.jpg?tf=1200x' alt='Nuevos televisores de TCL: hasta 98 pulgadas y tecnología Mini LED' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-phone-2-3080342.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2023' />
+    <h4><a href='https://computerhoy.com/apple/iphone-15-fulminan-rivales-android-pruebas-rendimiento-benchmark-pero-no-impresiona-1305532'>Los iPhone 15 fulminan a sus rivales Android en las pruebas de rendimiento (benchmark), pero no impresiona</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-15-fulminan-rivales-android-pruebas-rendimiento-benchmark-pero-no-impresiona-1305532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3133026.jpg?tf=1200x' alt='Los iPhone 15 fulminan a sus rivales Android en las pruebas de rendimiento (benchmark), pero no impresiona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/es-saludable-aceite-orujo-oliva-1305256'>Con el precio del aceite por las nubes... ¿Es saludable el aceite de orujo de oliva?</a></h4>
-    <a href='https://computerhoy.com/alimentacion/es-saludable-aceite-orujo-oliva-1305256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/precio-aceite-nubes-saludable-orujo-oliva-3135158.jpg?tf=1200x' alt='Con el precio del aceite por las nubes... ¿Es saludable el aceite de orujo de oliva?' />
+    <h4><a href='https://computerhoy.com/tecnologia/quieres-ser-100-productivo-chatgpt-tiene-algunas-claves-ti-1305512'>¿Quieres ser 100% productivo en tu trabajo? ChatGPT tiene algunas claves para ti</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quieres-ser-100-productivo-chatgpt-tiene-algunas-claves-ti-1305512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/productividad-chatgpt-3135490.jpg?tf=1200x' alt='¿Quieres ser 100% productivo en tu trabajo? ChatGPT tiene algunas claves para ti' />
     </a>
 </div>
 
