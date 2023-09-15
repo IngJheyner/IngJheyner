@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mapa-google-maps-te-dice-como-barrio-vives-pijo-humilde-hipster-1305254'>Este mapa de Google Maps te dice cómo es el barrio en que vives: pijo, humilde, hipster…</a></h4>
+    <a href='https://computerhoy.com/life/mapa-google-maps-te-dice-como-barrio-vives-pijo-humilde-hipster-1305254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hoodmaps-madrid-3135800.jpg?tf=1200x' alt='Este mapa de Google Maps te dice cómo es el barrio en que vives: pijo, humilde, hipster…' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-admite-no-pueden-reparar-pantalla-pixel-watch-1305672'>Google admite que no pueden reparar la pantalla del Pixel Watch</a></h4>
+    <a href='https://computerhoy.com/google/google-admite-no-pueden-reparar-pantalla-pixel-watch-1305672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/google-pixel-watch-2702235.jpg?tf=1200x' alt='Google admite que no pueden reparar la pantalla del Pixel Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/nuevos-paises-quieren-prohibir-venta-iphone-12-alta-radiacion-acabara-extendiendo-toda-europa-1305664'>Nuevos países quieren prohibir la venta del iPhone 12 por alta radiación: ¿Se acabará extendiendo a toda Europa?</a></h4>
+    <a href='https://computerhoy.com/apple/nuevos-paises-quieren-prohibir-venta-iphone-12-alta-radiacion-acabara-extendiendo-toda-europa-1305664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/iphone-12-color-azul-2499213.jpg?tf=1200x' alt='Nuevos países quieren prohibir la venta del iPhone 12 por alta radiación: ¿Se acabará extendiendo a toda Europa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/famoso-flipper-zero-tamagotchi-hackers-cae-precio-amazon-quieres-probar-1305502'>El famoso Flipper Zero, el "tamagotchi de hackers" cae de precio en Amazon: ¿lo quieres probar?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/famoso-flipper-zero-tamagotchi-hackers-cae-precio-amazon-quieres-probar-1305502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/zipper-zero-3127956.jpg?tf=1200x' alt='El famoso Flipper Zero, el "tamagotchi de hackers" cae de precio en Amazon: ¿lo quieres probar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/posible-shiba-inu-llegue-00001-dolares-antes-fin-ano-1305592'>¿Es posible que Shiba Inu llegue a los 0,0001 dólares antes de fin de año?</a></h4>
     <a href='https://computerhoy.com/criptos/posible-shiba-inu-llegue-00001-dolares-antes-fin-ano-1305592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg?tf=1200x' alt='¿Es posible que Shiba Inu llegue a los 0,0001 dólares antes de fin de año?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-parece-pero-reloj-inteligente-muy-barato-ademas-hace-electrocardiogramas-1304480'>No lo parece, pero este reloj es inteligente, muy barato y además hace electrocardiogramas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-parece-pero-reloj-inteligente-muy-barato-ademas-hace-electrocardiogramas-1304480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/withings-move-ecg-3133636.jpg?tf=1200x' alt='No lo parece, pero este reloj es inteligente, muy barato y además hace electrocardiogramas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/nuevos-televisores-tcl-98-pulgadas-tecnologia-mini-led-1305588'>Nuevos televisores de TCL: hasta 98 pulgadas y tecnología Mini LED</a></h4>
-    <a href='https://computerhoy.com/tv/nuevos-televisores-tcl-98-pulgadas-tecnologia-mini-led-1305588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nuevos-televisores-tcl-98-pulgadas-tecnologia-mini-led-3135630.jpg?tf=1200x' alt='Nuevos televisores de TCL: hasta 98 pulgadas y tecnología Mini LED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-15-fulminan-rivales-android-pruebas-rendimiento-benchmark-pero-no-impresiona-1305532'>Los iPhone 15 fulminan a sus rivales Android en las pruebas de rendimiento (benchmark), pero no impresiona</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-15-fulminan-rivales-android-pruebas-rendimiento-benchmark-pero-no-impresiona-1305532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3133026.jpg?tf=1200x' alt='Los iPhone 15 fulminan a sus rivales Android en las pruebas de rendimiento (benchmark), pero no impresiona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quieres-ser-100-productivo-chatgpt-tiene-algunas-claves-ti-1305512'>¿Quieres ser 100% productivo en tu trabajo? ChatGPT tiene algunas claves para ti</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quieres-ser-100-productivo-chatgpt-tiene-algunas-claves-ti-1305512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/productividad-chatgpt-3135490.jpg?tf=1200x' alt='¿Quieres ser 100% productivo en tu trabajo? ChatGPT tiene algunas claves para ti' />
     </a>
 </div>
 
