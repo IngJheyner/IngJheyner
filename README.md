@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/hacer-cables-lightning-no-usaran-iphone-15-1304594'>Y ahora, ¿qué hacemos con todos los cables Lightning? Esto dicen los expertos en reciclaje</a></h4>
+    <a href='https://computerhoy.com/industria/hacer-cables-lightning-no-usaran-iphone-15-1304594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cables-centro-reciclaje-3133896.jpg?tf=1200x' alt='Y ahora, ¿qué hacemos con todos los cables Lightning? Esto dicen los expertos en reciclaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ya-puedes-bucear-dentro-boeing-747-espectacular-1306028'>Ya puedes bucear dentro de un Boeing 747, y es espectacular</a></h4>
+    <a href='https://computerhoy.com/life/ya-puedes-bucear-dentro-boeing-747-espectacular-1306028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ya-puedes-bucear-dentro-boeing-747-espectacular-3136536.jpg?tf=1200x' alt='Ya puedes bucear dentro de un Boeing 747, y es espectacular' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/webcam-modelos-videollamadas-conferencias-1185084'>Qué webcam comprar: mejores modelos para videollamadas y conferencias</a></h4>
+    <a href='https://computerhoy.com/mejores/webcam-modelos-videollamadas-conferencias-1185084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/webcam-elgato-3136142.jpg?tf=1200x' alt='Qué webcam comprar: mejores modelos para videollamadas y conferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/momias-alienigenas-hace-1000-anos-mexico-no-convencen-1306024'>Las momias alienígenas de hace 1.000 años presentadas en el Congreso de los Diputados de México, no convencen a la mayoría</a></h4>
     <a href='https://computerhoy.com/ciencia/momias-alienigenas-hace-1000-anos-mexico-no-convencen-1306024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/momias-alienigenas-1000-anos-presentadas-congreso-diputados-mexico-no-convencen-mayoria-3136330.jpg?tf=1200x' alt='Las momias alienígenas de hace 1.000 años presentadas en el Congreso de los Diputados de México, no convencen a la mayoría' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-estrena-funcion-ocr-herramienta-recorte-1305822'>Windows 11 estrena una esperadísima función que te ahorrará teclear texto</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-estrena-funcion-ocr-herramienta-recorte-1305822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/windows-11-estrena-esperadisima-funcion-te-ahorrara-teclear-mucho-texto-3136314.jpg?tf=1200x' alt='Windows 11 estrena una esperadísima función que te ahorrará teclear texto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-renueva-one-piece-segunda-temporada-1305814'>Netflix renueva la adaptación de One Piece, la serie en la que nadie creía</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-renueva-one-piece-segunda-temporada-1305814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/one-piece-serie-imagen-real-netflix-2941502.jpg?tf=1200x' alt='Netflix renueva la adaptación de One Piece, la serie en la que nadie creía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/potente-windows-mini-pc-cautiva-usuarios-amazon-precio-1303054'>Potente y con Windows: este Mini PC cautiva a los usuarios de Amazon con su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/potente-windows-mini-pc-cautiva-usuarios-amazon-precio-1303054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/blackview-mp60-3130802.jpg?tf=1200x' alt='Potente y con Windows: este Mini PC cautiva a los usuarios de Amazon con su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/honda-motocompacto-moto-maleta-revolucionaria-1305808'>Honda Motocompacto, la moto-maleta que puedes transportar en la mano (vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/honda-motocompacto-moto-maleta-revolucionaria-1305808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1694798745318-3136208.jpg?tf=1200x' alt='Honda Motocompacto, la moto-maleta que puedes transportar en la mano (vídeo)' />
     </a>
 </div>
 
