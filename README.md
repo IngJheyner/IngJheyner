@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-estrena-funcion-ocr-herramienta-recorte-1305822'>Windows 11 estrena una esperadísima función que te ahorrará teclear texto</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-estrena-funcion-ocr-herramienta-recorte-1305822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/windows-11-estrena-esperadisima-funcion-te-ahorrara-teclear-mucho-texto-3136314.jpg?tf=1200x' alt='Windows 11 estrena una esperadísima función que te ahorrará teclear texto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-renueva-one-piece-segunda-temporada-1305814'>Netflix renueva la adaptación de One Piece, la serie en la que nadie creía</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-renueva-one-piece-segunda-temporada-1305814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/one-piece-serie-imagen-real-netflix-2941502.jpg?tf=1200x' alt='Netflix renueva la adaptación de One Piece, la serie en la que nadie creía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/potente-windows-mini-pc-cautiva-usuarios-amazon-precio-1303054'>Potente y con Windows: este Mini PC cautiva a los usuarios de Amazon con su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/potente-windows-mini-pc-cautiva-usuarios-amazon-precio-1303054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/blackview-mp60-3130802.jpg?tf=1200x' alt='Potente y con Windows: este Mini PC cautiva a los usuarios de Amazon con su precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/funcion-modo-incognito-chrome-ya-sirve-algo-1305796'>El modo incógnito de Google Chrome por fin sirve para algo</a></h4>
     <a href='https://computerhoy.com/google/funcion-modo-incognito-chrome-ya-sirve-algo-1305796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-funcion-google-android-bloqueara-pestanas-incognito-chrome-nadie-vea-2939430.jpg?tf=1200x' alt='El modo incógnito de Google Chrome por fin sirve para algo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/regla-30-steve-jobs-deberias-seguir-quieres-conseguir-exito-vida-1304546'>La regla del 30% de Steve Jobs que deberías seguir si quieres conseguir el éxito en la vida</a></h4>
-    <a href='https://computerhoy.com/life/regla-30-steve-jobs-deberias-seguir-quieres-conseguir-exito-vida-1304546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/regla-30-steve-jobs-puedes-adoptar-impulsar-vida-profesional-3133830.jpg?tf=1200x' alt='La regla del 30% de Steve Jobs que deberías seguir si quieres conseguir el éxito en la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-traducir-voz-video-cualquier-idioma-gratis-rask-ai-1305778'>Cómo traducir la voz de un vídeo a cualquier idioma gratis con Rask AI</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-traducir-voz-video-cualquier-idioma-gratis-rask-ai-1305778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-traducir-voz-video-cualquier-idioma-gratis-rask-ai-3136232.jpg?tf=1200x' alt='Cómo traducir la voz de un vídeo a cualquier idioma gratis con Rask AI' />
     </a>
 </div>
 
