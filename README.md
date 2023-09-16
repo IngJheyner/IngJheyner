@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/filtra-existencia-anillo-inteligente-samsung-seria-fecha-lanzamiento-1306060'>El anillo inteligente de Samsung es un hecho y esta sería su fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/filtra-existencia-anillo-inteligente-samsung-seria-fecha-lanzamiento-1306060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/anillo-inteligente-3096114.jpg?tf=1200x' alt='El anillo inteligente de Samsung es un hecho y esta sería su fecha de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-juegos-cartas-mesa-enganchan-segundo-final-1305186'>6 películas sobre juegos de cartas y de mesa que enganchan hasta el segundo final</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/6-peliculas-juegos-cartas-mesa-enganchan-segundo-final-1305186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ultima-apuesta-mississippi-grind-2015-3135114.jpg?tf=1200x' alt='6 películas sobre juegos de cartas y de mesa que enganchan hasta el segundo final' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/he-probado-magic-earth-viajes-no-hay-duda-google-maps-incluso-waze-son-irremplazables-1301996'>He probado Magic Earth para mis viajes y no hay duda de que Google Maps o incluso Waze son irremplazables</a></h4>
+    <a href='https://computerhoy.com/apps/he-probado-magic-earth-viajes-no-hay-duda-google-maps-incluso-waze-son-irremplazables-1301996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/magic-earth-3129560.jpg?tf=1200x' alt='He probado Magic Earth para mis viajes y no hay duda de que Google Maps o incluso Waze son irremplazables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/error-cometes-cargar-movil-puede-danarlo-siempre-1295238'>El error que cometes al cargar tu móvil y que puede dañarlo para siempre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/error-cometes-cargar-movil-puede-danarlo-siempre-1295238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cargador-sobretension-3118134.jpg?tf=1200x' alt='El error que cometes al cargar tu móvil y que puede dañarlo para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dsa-1303744'>Ley de Servicios Digitales: entiende las claves de la nueva ley de la UE para frenar a las grandes tecnológicas </a></h4>
     <a href='https://computerhoy.com/tecnologia/dsa-1303744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ley-servicios-digitales-3132358.jpg?tf=1200x' alt='Ley de Servicios Digitales: entiende las claves de la nueva ley de la UE para frenar a las grandes tecnológicas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/no-te-enganen-triple-autonomia-auriculares-true-wireless-1303074'>Cuidado: que no te engañen con la triple autonomía de los auriculares true-wireless</a></h4>
-    <a href='https://computerhoy.com/audio/no-te-enganen-triple-autonomia-auriculares-true-wireless-1303074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989248.jpg?tf=1200x' alt='Cuidado: que no te engañen con la triple autonomía de los auriculares true-wireless' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/bill-gates-anuncio-apple-camiseta-macintosh-1305464'>El día que Bill Gates apareció en un anuncio de Apple, con una camiseta Macintosh</a></h4>
-    <a href='https://computerhoy.com/apple/bill-gates-anuncio-apple-camiseta-macintosh-1305464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/dia-bill-gates-aparecio-anuncio-apple-camiseta-macintosh-3135412.jpg?tf=1200x' alt='El día que Bill Gates apareció en un anuncio de Apple, con una camiseta Macintosh' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-reflex-principiantes-820539'>Estas son las mejores cámaras réflex para principiantes que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-camaras-reflex-principiantes-820539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/canon-eos-2000d.jpg?tf=1200x' alt='Estas son las mejores cámaras réflex para principiantes que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/hacer-cables-lightning-no-usaran-iphone-15-1304594'>Y ahora, ¿qué hacemos con todos los cables Lightning? Esto dicen los expertos en reciclaje</a></h4>
-    <a href='https://computerhoy.com/industria/hacer-cables-lightning-no-usaran-iphone-15-1304594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cables-centro-reciclaje-3133896.jpg?tf=1200x' alt='Y ahora, ¿qué hacemos con todos los cables Lightning? Esto dicen los expertos en reciclaje' />
     </a>
 </div>
 
