@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/momias-alienigenas-hace-1000-anos-mexico-no-convencen-1306024'>Las momias alienígenas de hace 1.000 años presentadas en el Congreso de los Diputados de México, no convencen a la mayoría</a></h4>
+    <a href='https://computerhoy.com/ciencia/momias-alienigenas-hace-1000-anos-mexico-no-convencen-1306024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/momias-alienigenas-1000-anos-presentadas-congreso-diputados-mexico-no-convencen-mayoria-3136330.jpg?tf=1200x' alt='Las momias alienígenas de hace 1.000 años presentadas en el Congreso de los Diputados de México, no convencen a la mayoría' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-estrena-funcion-ocr-herramienta-recorte-1305822'>Windows 11 estrena una esperadísima función que te ahorrará teclear texto</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-estrena-funcion-ocr-herramienta-recorte-1305822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/windows-11-estrena-esperadisima-funcion-te-ahorrara-teclear-mucho-texto-3136314.jpg?tf=1200x' alt='Windows 11 estrena una esperadísima función que te ahorrará teclear texto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/honda-motocompacto-moto-maleta-revolucionaria-1305808'>Honda Motocompacto, la moto-maleta que puedes transportar en la mano (vídeo)</a></h4>
     <a href='https://computerhoy.com/motor/honda-motocompacto-moto-maleta-revolucionaria-1305808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1694798745318-3136208.jpg?tf=1200x' alt='Honda Motocompacto, la moto-maleta que puedes transportar en la mano (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/funcion-modo-incognito-chrome-ya-sirve-algo-1305796'>El modo incógnito de Google Chrome por fin sirve para algo</a></h4>
-    <a href='https://computerhoy.com/google/funcion-modo-incognito-chrome-ya-sirve-algo-1305796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nueva-funcion-google-android-bloqueara-pestanas-incognito-chrome-nadie-vea-2939430.jpg?tf=1200x' alt='El modo incógnito de Google Chrome por fin sirve para algo' />
     </a>
 </div>
 
