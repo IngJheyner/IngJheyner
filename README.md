@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/todas-novedades-llegan-aplicacion-fotos-windows-1306124'>Todas las novedades que llegan a la aplicación de fotos de Windows</a></h4>
+    <a href='https://computerhoy.com/windows/todas-novedades-llegan-aplicacion-fotos-windows-1306124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/aplicacion-fotos-windows-3136702.jpg?tf=1200x' alt='Todas las novedades que llegan a la aplicación de fotos de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-nuevos-emojis-llegaran-movil-muy-pronto-1306122'>Estos son los nuevos emojis que llegarán a tu móvil muy pronto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-nuevos-emojis-llegaran-movil-muy-pronto-1306122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/emoji-151-3136666.jpg?tf=1200x' alt='Estos son los nuevos emojis que llegarán a tu móvil muy pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/miravia-lia-iphone-15-apple-watch-vende-baratos-preventa-sortea-airpods-1306058'>Miravia la lía con los iPhone 15 y Apple Watch: los vende más baratos en preventa y sortea unos AirPods</a></h4>
     <a href='https://computerhoy.com/apple/miravia-lia-iphone-15-apple-watch-vende-baratos-preventa-sortea-airpods-1306058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3136620.jpg?tf=1200x' alt='Miravia la lía con los iPhone 15 y Apple Watch: los vende más baratos en preventa y sortea unos AirPods' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-quiere-llevar-capacidades-juego-iphone-15-pro-tambien-ipad-mac-1306084'>Apple quiere llevar las capacidades de juego del iPhone 15 Pro también al iPad y al Mac</a></h4>
     <a href='https://computerhoy.com/apple/apple-quiere-llevar-capacidades-juego-iphone-15-pro-tambien-ipad-mac-1306084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raytracing-iphone-15-pro-max-3133064.jpg?tf=1200x' alt='Apple quiere llevar las capacidades de juego del iPhone 15 Pro también al iPad y al Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-quiere-tengas-experiencia-unica-play-store-estas-novedades-1306082'>Google trabaja en todas estas novedades para la Play Store para hacerte la vida más fácil</a></h4>
-    <a href='https://computerhoy.com/google/google-quiere-tengas-experiencia-unica-play-store-estas-novedades-1306082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg?tf=1200x' alt='Google trabaja en todas estas novedades para la Play Store para hacerte la vida más fácil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-ya-permite-iniciar-llamadas-32-participantes-1306076'>WhatsApp ya permite iniciar llamadas con hasta 32 participantes</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-ya-permite-iniciar-llamadas-32-participantes-1306076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg?tf=1200x' alt='WhatsApp ya permite iniciar llamadas con hasta 32 participantes' />
     </a>
 </div>
 
