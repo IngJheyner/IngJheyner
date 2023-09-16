@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/miravia-lia-iphone-15-apple-watch-vende-baratos-preventa-sortea-airpods-1306058'>Miravia la lía con los iPhone 15 y Apple Watch: los vende más baratos en preventa y sortea unos AirPods</a></h4>
+    <a href='https://computerhoy.com/apple/miravia-lia-iphone-15-apple-watch-vende-baratos-preventa-sortea-airpods-1306058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3136620.jpg?tf=1200x' alt='Miravia la lía con los iPhone 15 y Apple Watch: los vende más baratos en preventa y sortea unos AirPods' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/spam-ya-no-volvera-ser-mismo-gracias-ultima-actualizacion-google-voice-1306086'>El spam ya no volverá a ser el mismo gracias a la última actualización de Google Voice</a></h4>
+    <a href='https://computerhoy.com/apps/spam-ya-no-volvera-ser-mismo-gracias-ultima-actualizacion-google-voice-1306086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spam-2649813.jpg?tf=1200x' alt='El spam ya no volverá a ser el mismo gracias a la última actualización de Google Voice' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-quiere-llevar-capacidades-juego-iphone-15-pro-tambien-ipad-mac-1306084'>Apple quiere llevar las capacidades de juego del iPhone 15 Pro también al iPad y al Mac</a></h4>
+    <a href='https://computerhoy.com/apple/apple-quiere-llevar-capacidades-juego-iphone-15-pro-tambien-ipad-mac-1306084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raytracing-iphone-15-pro-max-3133064.jpg?tf=1200x' alt='Apple quiere llevar las capacidades de juego del iPhone 15 Pro también al iPad y al Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-quiere-tengas-experiencia-unica-play-store-estas-novedades-1306082'>Google trabaja en todas estas novedades para la Play Store para hacerte la vida más fácil</a></h4>
     <a href='https://computerhoy.com/google/google-quiere-tengas-experiencia-unica-play-store-estas-novedades-1306082' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg?tf=1200x' alt='Google trabaja en todas estas novedades para la Play Store para hacerte la vida más fácil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-ya-permite-iniciar-llamadas-32-participantes-1306076'>WhatsApp ya permite iniciar llamadas con hasta 32 participantes</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-ya-permite-iniciar-llamadas-32-participantes-1306076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg?tf=1200x' alt='WhatsApp ya permite iniciar llamadas con hasta 32 participantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/servicio-streaming-cancela-series-no-netflix-1306066'>Este es el servicio de streaming que cancela más series y no es Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/servicio-streaming-cancela-series-no-netflix-1306066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/servicios-streaming-3136594.jpg?tf=1200x' alt='Este es el servicio de streaming que cancela más series y no es Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/error-502-significa-como-solucionarlo-1295046'>Error 502: ¿qué significa y cómo solucionarlo?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/error-502-significa-como-solucionarlo-1295046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/error-502-3117584.jpg?tf=1200x' alt='Error 502: ¿qué significa y cómo solucionarlo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/filtra-existencia-anillo-inteligente-samsung-seria-fecha-lanzamiento-1306060'>El anillo inteligente de Samsung es un hecho y esta sería su fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/filtra-existencia-anillo-inteligente-samsung-seria-fecha-lanzamiento-1306060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/anillo-inteligente-3096114.jpg?tf=1200x' alt='El anillo inteligente de Samsung es un hecho y esta sería su fecha de lanzamiento' />
     </a>
 </div>
 
