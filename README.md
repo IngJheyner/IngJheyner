@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-quiere-tengas-experiencia-unica-play-store-estas-novedades-1306082'>Google trabaja en todas estas novedades para la Play Store para hacerte la vida más fácil</a></h4>
+    <a href='https://computerhoy.com/google/google-quiere-tengas-experiencia-unica-play-store-estas-novedades-1306082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg?tf=1200x' alt='Google trabaja en todas estas novedades para la Play Store para hacerte la vida más fácil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-ya-permite-iniciar-llamadas-32-participantes-1306076'>WhatsApp ya permite iniciar llamadas con hasta 32 participantes</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-ya-permite-iniciar-llamadas-32-participantes-1306076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg?tf=1200x' alt='WhatsApp ya permite iniciar llamadas con hasta 32 participantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/servicio-streaming-cancela-series-no-netflix-1306066'>Este es el servicio de streaming que cancela más series y no es Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/servicio-streaming-cancela-series-no-netflix-1306066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/servicios-streaming-3136594.jpg?tf=1200x' alt='Este es el servicio de streaming que cancela más series y no es Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/error-502-significa-como-solucionarlo-1295046'>Error 502: ¿qué significa y cómo solucionarlo?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/error-502-significa-como-solucionarlo-1295046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/error-502-3117584.jpg?tf=1200x' alt='Error 502: ¿qué significa y cómo solucionarlo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/filtra-existencia-anillo-inteligente-samsung-seria-fecha-lanzamiento-1306060'>El anillo inteligente de Samsung es un hecho y esta sería su fecha de lanzamiento</a></h4>
     <a href='https://computerhoy.com/tecnologia/filtra-existencia-anillo-inteligente-samsung-seria-fecha-lanzamiento-1306060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/anillo-inteligente-3096114.jpg?tf=1200x' alt='El anillo inteligente de Samsung es un hecho y esta sería su fecha de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-juegos-cartas-mesa-enganchan-segundo-final-1305186'>6 películas sobre juegos de cartas y de mesa que enganchan hasta el segundo final</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/6-peliculas-juegos-cartas-mesa-enganchan-segundo-final-1305186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ultima-apuesta-mississippi-grind-2015-3135114.jpg?tf=1200x' alt='6 películas sobre juegos de cartas y de mesa que enganchan hasta el segundo final' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-probado-magic-earth-viajes-no-hay-duda-google-maps-incluso-waze-son-irremplazables-1301996'>He probado Magic Earth para mis viajes y no hay duda de que Google Maps o incluso Waze son irremplazables</a></h4>
-    <a href='https://computerhoy.com/apps/he-probado-magic-earth-viajes-no-hay-duda-google-maps-incluso-waze-son-irremplazables-1301996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/magic-earth-3129560.jpg?tf=1200x' alt='He probado Magic Earth para mis viajes y no hay duda de que Google Maps o incluso Waze son irremplazables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/error-cometes-cargar-movil-puede-danarlo-siempre-1295238'>El error que cometes al cargar tu móvil y que puede dañarlo para siempre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/error-cometes-cargar-movil-puede-danarlo-siempre-1295238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cargador-sobretension-3118134.jpg?tf=1200x' alt='El error que cometes al cargar tu móvil y que puede dañarlo para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dsa-1303744'>Ley de Servicios Digitales: entiende las claves de la nueva ley de la UE para frenar a las grandes tecnológicas </a></h4>
-    <a href='https://computerhoy.com/tecnologia/dsa-1303744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ley-servicios-digitales-3132358.jpg?tf=1200x' alt='Ley de Servicios Digitales: entiende las claves de la nueva ley de la UE para frenar a las grandes tecnológicas ' />
     </a>
 </div>
 
