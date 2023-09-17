@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/hallan-amazonas-planta-hojas-gigantescas-1306414'>Más grande que una persona: hallan en el Amazonas la planta con las hojas más gigantescas</a></h4>
+    <a href='https://computerhoy.com/ciencia/hallan-amazonas-planta-hojas-gigantescas-1306414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/grande-persona-hallan-amazonas-arbol-hojas-gigantescas-3137098.jpg?tf=1200x' alt='Más grande que una persona: hallan en el Amazonas la planta con las hojas más gigantescas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/ya-en-netflix-hermanos-sangre-the-pacific-hbo-max-1306412'>Ya puedes ver en Netflix dos de las mejores series exclusivas de HBO Max</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ya-en-netflix-hermanos-sangre-the-pacific-hbo-max-1306412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pacific-2663685.jpg?tf=1200x' alt='Ya puedes ver en Netflix dos de las mejores series exclusivas de HBO Max' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/iphone-15-estrenara-salida-video-4k-hdr-dolby-vision-1306394'>Gracias al USB-C, el iPhone 15 estrenará una gran mejora para los fans de las series y películas</a></h4>
     <a href='https://computerhoy.com/apple/iphone-15-estrenara-salida-video-4k-hdr-dolby-vision-1306394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-usb-c-3133446.jpg?tf=1200x' alt='Gracias al USB-C, el iPhone 15 estrenará una gran mejora para los fans de las series y películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ya-disponible-android-auto-105-beta-estas-son-novedades-incluye-1306362'>Ya está disponible Android Auto 10.5 beta y estas son las novedades que incluye</a></h4>
-    <a href='https://computerhoy.com/android/ya-disponible-android-auto-105-beta-estas-son-novedades-incluye-1306362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg?tf=1200x' alt='Ya está disponible Android Auto 10.5 beta y estas son las novedades que incluye' />
     </a>
 </div>
 
