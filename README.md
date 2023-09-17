@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/ya-disponible-android-auto-105-beta-estas-son-novedades-incluye-1306362'>Ya está disponible Android Auto 10.5 beta y estas son las novedades que incluye</a></h4>
+    <a href='https://computerhoy.com/android/ya-disponible-android-auto-105-beta-estas-son-novedades-incluye-1306362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg?tf=1200x' alt='Ya está disponible Android Auto 10.5 beta y estas son las novedades que incluye' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/quieren-construir-estacion-investigacion-submarina-200-m-profundidad-1306350'>Quieren construir una estación de investigación submarina a 200 m de profundidad</a></h4>
+    <a href='https://computerhoy.com/life/quieren-construir-estacion-investigacion-submarina-200-m-profundidad-1306350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sistema-sentinel-3136952.jpg?tf=1200x' alt='Quieren construir una estación de investigación submarina a 200 m de profundidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/codigo-error-ce-34878-0-significa-como-solucionarlo-1303710'>Código de error ce-34878-0: ¿qué significa y cómo solucionarlo?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/codigo-error-ce-34878-0-significa-como-solucionarlo-1303710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/error-ps5-3135774.jpg?tf=1200x' alt='Código de error ce-34878-0: ¿qué significa y cómo solucionarlo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/piensan-vehiculo-volador-parecido-nave-espacial-convertirse-ambulancia-futuro-1306346'>Piensan en un vehículo volador parecido a una nave espacial para convertirse en la ambulancia del futuro</a></h4>
     <a href='https://computerhoy.com/life/piensan-vehiculo-volador-parecido-nave-espacial-convertirse-ambulancia-futuro-1306346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ja1-pulse-3136944.jpg?tf=1200x' alt='Piensan en un vehículo volador parecido a una nave espacial para convertirse en la ambulancia del futuro' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/activa-funciones-ocultas-botones-volumen-iphone-1283994'>10 funciones ocultas en los botones de volumen de tu iPhone que puedes activar fácilmente</a></h4>
     <a href='https://computerhoy.com/tutoriales/activa-funciones-ocultas-botones-volumen-iphone-1283994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821759.jpg?tf=1200x' alt='10 funciones ocultas en los botones de volumen de tu iPhone que puedes activar fácilmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/google-wallet-podria-exponer-informacion-tarjeta-credito-1306344'>Google Wallet podría exponer la información de tu tarjeta de crédito</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/google-wallet-podria-exponer-informacion-tarjeta-credito-1306344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-wallet-3136938.jpg?tf=1200x' alt='Google Wallet podría exponer la información de tu tarjeta de crédito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/empresa-juguetes-desplegara-robots-luna-1306340'>Una empresa de juguetes desplegará uno de sus robots en la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/empresa-juguetes-desplegara-robots-luna-1306340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lunar-excursion-vehicle-2-lev-2-3136932.jpg?tf=1200x' alt='Una empresa de juguetes desplegará uno de sus robots en la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-probado-app-estilo-tinder-perfecta-ayudarte-elegir-peliculas-restaurantes-1305568'>He probado una app al estilo Tinder que es perfecta para ayudarte a elegir películas o restaurantes</a></h4>
-    <a href='https://computerhoy.com/apps/he-probado-app-estilo-tinder-perfecta-ayudarte-elegir-peliculas-restaurantes-1305568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/app-peliculas-3135772.jpg?tf=1200x' alt='He probado una app al estilo Tinder que es perfecta para ayudarte a elegir películas o restaurantes' />
     </a>
 </div>
 
