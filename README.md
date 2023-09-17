@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-derriba-precio-ssd-externo-62000-valoraciones-pondra-ordenador-1000-mb-segundo-1305002'>Amazon derriba el precio de un SSD externo con 62.000 valoraciones que pondrá tu ordenador 1000 MB por segundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-derriba-precio-ssd-externo-62000-valoraciones-pondra-ordenador-1000-mb-segundo-1305002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sandisk-extreme-ssd-3134576.jpg?tf=1200x' alt='Amazon derriba el precio de un SSD externo con 62.000 valoraciones que pondrá tu ordenador 1000 MB por segundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-15-estrenara-salida-video-4k-hdr-dolby-vision-1306394'>Gracias al USB-C, el iPhone 15 estrenará una gran mejora para los fans de las series y películas</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-15-estrenara-salida-video-4k-hdr-dolby-vision-1306394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-usb-c-3133446.jpg?tf=1200x' alt='Gracias al USB-C, el iPhone 15 estrenará una gran mejora para los fans de las series y películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/ya-disponible-android-auto-105-beta-estas-son-novedades-incluye-1306362'>Ya está disponible Android Auto 10.5 beta y estas son las novedades que incluye</a></h4>
     <a href='https://computerhoy.com/android/ya-disponible-android-auto-105-beta-estas-son-novedades-incluye-1306362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg?tf=1200x' alt='Ya está disponible Android Auto 10.5 beta y estas son las novedades que incluye' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/codigo-error-ce-34878-0-significa-como-solucionarlo-1303710'>Código de error ce-34878-0: ¿qué significa y cómo solucionarlo?</a></h4>
     <a href='https://computerhoy.com/tutoriales/codigo-error-ce-34878-0-significa-como-solucionarlo-1303710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/error-ps5-3135774.jpg?tf=1200x' alt='Código de error ce-34878-0: ¿qué significa y cómo solucionarlo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/piensan-vehiculo-volador-parecido-nave-espacial-convertirse-ambulancia-futuro-1306346'>Piensan en un vehículo volador parecido a una nave espacial para convertirse en la ambulancia del futuro</a></h4>
-    <a href='https://computerhoy.com/life/piensan-vehiculo-volador-parecido-nave-espacial-convertirse-ambulancia-futuro-1306346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ja1-pulse-3136944.jpg?tf=1200x' alt='Piensan en un vehículo volador parecido a una nave espacial para convertirse en la ambulancia del futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/activa-funciones-ocultas-botones-volumen-iphone-1283994'>10 funciones ocultas en los botones de volumen de tu iPhone que puedes activar fácilmente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/activa-funciones-ocultas-botones-volumen-iphone-1283994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821759.jpg?tf=1200x' alt='10 funciones ocultas en los botones de volumen de tu iPhone que puedes activar fácilmente' />
     </a>
 </div>
 
