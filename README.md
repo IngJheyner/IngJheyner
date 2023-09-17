@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/protegete-internet-guia-ciberseguridad-navegacion-segura-1298966'>Protégete en Internet: guía de ciberseguridad para una navegación segura</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/protegete-internet-guia-ciberseguridad-navegacion-segura-1298966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ciberseguridad-internet-3128900.jpg?tf=1200x' alt='Protégete en Internet: guía de ciberseguridad para una navegación segura' />
+    <h4><a href='https://computerhoy.com/life/piensan-vehiculo-volador-parecido-nave-espacial-convertirse-ambulancia-futuro-1306346'>Piensan en un vehículo volador parecido a una nave espacial para convertirse en la ambulancia del futuro</a></h4>
+    <a href='https://computerhoy.com/life/piensan-vehiculo-volador-parecido-nave-espacial-convertirse-ambulancia-futuro-1306346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ja1-pulse-3136944.jpg?tf=1200x' alt='Piensan en un vehículo volador parecido a una nave espacial para convertirse en la ambulancia del futuro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/temu-segura-como-comprar-espana-mejores-trucos-1306102'>Guía para comprar en Temu: la nueva tienda de chollos de la que todo el mundo habla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/temu-segura-como-comprar-espana-mejores-trucos-1306102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/temu-3136638.jpg?tf=1200x' alt='Guía para comprar en Temu: la nueva tienda de chollos de la que todo el mundo habla' />
+    <h4><a href='https://computerhoy.com/tutoriales/activa-funciones-ocultas-botones-volumen-iphone-1283994'>10 funciones ocultas en los botones de volumen de tu iPhone que puedes activar fácilmente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/activa-funciones-ocultas-botones-volumen-iphone-1283994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-pro-2821759.jpg?tf=1200x' alt='10 funciones ocultas en los botones de volumen de tu iPhone que puedes activar fácilmente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/unica-foto-existe-aterrizaje-luna-titan-saturno-1305508'>Esta es la única foto que existe del aterrizaje en Titán, la luna de Saturno, y muestra condiciones para la vida</a></h4>
-    <a href='https://computerhoy.com/espacio/unica-foto-existe-aterrizaje-luna-titan-saturno-1305508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/unica-foto-existe-aterrizaje-titan-luna-saturno-muestra-condiciones-vida-3135434.jpg?tf=1200x' alt='Esta es la única foto que existe del aterrizaje en Titán, la luna de Saturno, y muestra condiciones para la vida' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/google-wallet-podria-exponer-informacion-tarjeta-credito-1306344'>Google Wallet podría exponer la información de tu tarjeta de crédito</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/google-wallet-podria-exponer-informacion-tarjeta-credito-1306344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-wallet-3136938.jpg?tf=1200x' alt='Google Wallet podría exponer la información de tu tarjeta de crédito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/jailbreak-consecuencias-tiene-iphone-1286620'>¿Qué es un 'jailbreak' y qué consecuencias tiene para un smartphone?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/jailbreak-consecuencias-tiene-iphone-1286620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1694780849828-3135934.jpg?tf=1200x' alt='¿Qué es un 'jailbreak' y qué consecuencias tiene para un smartphone?' />
+    <h4><a href='https://computerhoy.com/espacio/empresa-juguetes-desplegara-robots-luna-1306340'>Una empresa de juguetes desplegará uno de sus robots en la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/empresa-juguetes-desplegara-robots-luna-1306340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lunar-excursion-vehicle-2-lev-2-3136932.jpg?tf=1200x' alt='Una empresa de juguetes desplegará uno de sus robots en la Luna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-robot-impulsado-ia-capaz-reproducir-pinturas-artistas-escala-1306114'>Crean un robot impulsado por IA capaz de reproducir pinturas de artistas a escala</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-robot-impulsado-ia-capaz-reproducir-pinturas-artistas-escala-1306114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/acrylic-robotics-3136646.jpg?tf=1200x' alt='Crean un robot impulsado por IA capaz de reproducir pinturas de artistas a escala' />
+    <h4><a href='https://computerhoy.com/apps/he-probado-app-estilo-tinder-perfecta-ayudarte-elegir-peliculas-restaurantes-1305568'>He probado una app al estilo Tinder que es perfecta para ayudarte a elegir películas o restaurantes</a></h4>
+    <a href='https://computerhoy.com/apps/he-probado-app-estilo-tinder-perfecta-ayudarte-elegir-peliculas-restaurantes-1305568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/app-peliculas-3135772.jpg?tf=1200x' alt='He probado una app al estilo Tinder que es perfecta para ayudarte a elegir películas o restaurantes' />
     </a>
 </div>
 
