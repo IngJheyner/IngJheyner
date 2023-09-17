@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ya-en-netflix-hermanos-sangre-the-pacific-hbo-max-1306412'>Ya puedes ver en Netflix dos de las mejores series exclusivas de HBO Max</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ya-en-netflix-hermanos-sangre-the-pacific-hbo-max-1306412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pacific-2663685.jpg?tf=1200x' alt='Ya puedes ver en Netflix dos de las mejores series exclusivas de HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/asus-denuncia-samsung-infringir-patentes-1306406'>Asus denuncia a Samsung por infringir sus patentes, el Galaxy Z Flip 5 en peligro</a></h4>
+    <a href='https://computerhoy.com/moviles/asus-denuncia-samsung-infringir-patentes-1306406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/samsung-galaxy-z-flip5-3089366.jpg?tf=1200x' alt='Asus denuncia a Samsung por infringir sus patentes, el Galaxy Z Flip 5 en peligro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-derriba-precio-ssd-externo-62000-valoraciones-pondra-ordenador-1000-mb-segundo-1305002'>Amazon derriba el precio de un SSD externo con 62.000 valoraciones que pondrá tu ordenador 1000 MB por segundo</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-derriba-precio-ssd-externo-62000-valoraciones-pondra-ordenador-1000-mb-segundo-1305002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sandisk-extreme-ssd-3134576.jpg?tf=1200x' alt='Amazon derriba el precio de un SSD externo con 62.000 valoraciones que pondrá tu ordenador 1000 MB por segundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/ya-disponible-android-auto-105-beta-estas-son-novedades-incluye-1306362'>Ya está disponible Android Auto 10.5 beta y estas son las novedades que incluye</a></h4>
     <a href='https://computerhoy.com/android/ya-disponible-android-auto-105-beta-estas-son-novedades-incluye-1306362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2614497.jpg?tf=1200x' alt='Ya está disponible Android Auto 10.5 beta y estas son las novedades que incluye' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/quieren-construir-estacion-investigacion-submarina-200-m-profundidad-1306350'>Quieren construir una estación de investigación submarina a 200 m de profundidad</a></h4>
-    <a href='https://computerhoy.com/life/quieren-construir-estacion-investigacion-submarina-200-m-profundidad-1306350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sistema-sentinel-3136952.jpg?tf=1200x' alt='Quieren construir una estación de investigación submarina a 200 m de profundidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/codigo-error-ce-34878-0-significa-como-solucionarlo-1303710'>Código de error ce-34878-0: ¿qué significa y cómo solucionarlo?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/codigo-error-ce-34878-0-significa-como-solucionarlo-1303710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/error-ps5-3135774.jpg?tf=1200x' alt='Código de error ce-34878-0: ¿qué significa y cómo solucionarlo?' />
     </a>
 </div>
 
