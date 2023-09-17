@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/di-adios-nintendo-switch-consola-portatil-logitech-funciona-game-pass-steam-google-play-1304962'>Di adiós a Nintendo Switch: esta consola portátil de Logitech funciona con Game Pass, Steam y Google Play, y está en oferta</a></h4>
-    <a href='https://computerhoy.com/gaming/di-adios-nintendo-switch-consola-portatil-logitech-funciona-game-pass-steam-google-play-1304962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/logitech-g-cloud-3134470.jpg?tf=1200x' alt='Di adiós a Nintendo Switch: esta consola portátil de Logitech funciona con Game Pass, Steam y Google Play, y está en oferta' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/protegete-internet-guia-ciberseguridad-navegacion-segura-1298966'>Protégete en Internet: guía de ciberseguridad para una navegación segura</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/protegete-internet-guia-ciberseguridad-navegacion-segura-1298966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ciberseguridad-internet-3128900.jpg?tf=1200x' alt='Protégete en Internet: guía de ciberseguridad para una navegación segura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/todas-novedades-llegan-aplicacion-fotos-windows-1306124'>Todas las novedades que llegan a la aplicación de fotos de Windows</a></h4>
-    <a href='https://computerhoy.com/windows/todas-novedades-llegan-aplicacion-fotos-windows-1306124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/aplicacion-fotos-windows-3136702.jpg?tf=1200x' alt='Todas las novedades que llegan a la aplicación de fotos de Windows' />
+    <h4><a href='https://computerhoy.com/tecnologia/temu-segura-como-comprar-espana-mejores-trucos-1306102'>Guía para comprar en Temu: la nueva tienda de chollos de la que todo el mundo habla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/temu-segura-como-comprar-espana-mejores-trucos-1306102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/temu-3136638.jpg?tf=1200x' alt='Guía para comprar en Temu: la nueva tienda de chollos de la que todo el mundo habla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-son-nuevos-emojis-llegaran-movil-muy-pronto-1306122'>Estos son los nuevos emojis que llegarán a tu móvil muy pronto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-son-nuevos-emojis-llegaran-movil-muy-pronto-1306122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/emoji-151-3136666.jpg?tf=1200x' alt='Estos son los nuevos emojis que llegarán a tu móvil muy pronto' />
+    <h4><a href='https://computerhoy.com/espacio/unica-foto-existe-aterrizaje-luna-titan-saturno-1305508'>Esta es la única foto que existe del aterrizaje en Titán, la luna de Saturno, y muestra condiciones para la vida</a></h4>
+    <a href='https://computerhoy.com/espacio/unica-foto-existe-aterrizaje-luna-titan-saturno-1305508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/unica-foto-existe-aterrizaje-titan-luna-saturno-muestra-condiciones-vida-3135434.jpg?tf=1200x' alt='Esta es la única foto que existe del aterrizaje en Titán, la luna de Saturno, y muestra condiciones para la vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/miravia-lia-iphone-15-apple-watch-vende-baratos-preventa-sortea-airpods-1306058'>Miravia la lía con los iPhone 15 y Apple Watch: los vende más baratos en preventa y sortea unos AirPods</a></h4>
-    <a href='https://computerhoy.com/apple/miravia-lia-iphone-15-apple-watch-vende-baratos-preventa-sortea-airpods-1306058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3136620.jpg?tf=1200x' alt='Miravia la lía con los iPhone 15 y Apple Watch: los vende más baratos en preventa y sortea unos AirPods' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/jailbreak-consecuencias-tiene-iphone-1286620'>¿Qué es un 'jailbreak' y qué consecuencias tiene para un smartphone?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/jailbreak-consecuencias-tiene-iphone-1286620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1694780849828-3135934.jpg?tf=1200x' alt='¿Qué es un 'jailbreak' y qué consecuencias tiene para un smartphone?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/spam-ya-no-volvera-ser-mismo-gracias-ultima-actualizacion-google-voice-1306086'>El spam ya no volverá a ser el mismo gracias a la última actualización de Google Voice</a></h4>
-    <a href='https://computerhoy.com/apps/spam-ya-no-volvera-ser-mismo-gracias-ultima-actualizacion-google-voice-1306086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spam-2649813.jpg?tf=1200x' alt='El spam ya no volverá a ser el mismo gracias a la última actualización de Google Voice' />
+    <h4><a href='https://computerhoy.com/tecnologia/crean-robot-impulsado-ia-capaz-reproducir-pinturas-artistas-escala-1306114'>Crean un robot impulsado por IA capaz de reproducir pinturas de artistas a escala</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-robot-impulsado-ia-capaz-reproducir-pinturas-artistas-escala-1306114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/acrylic-robotics-3136646.jpg?tf=1200x' alt='Crean un robot impulsado por IA capaz de reproducir pinturas de artistas a escala' />
     </a>
 </div>
 
