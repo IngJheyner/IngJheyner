@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/di-adios-nintendo-switch-consola-portatil-logitech-funciona-game-pass-steam-google-play-1304962'>Di adiós a Nintendo Switch: esta consola portátil de Logitech funciona con Game Pass, Steam y Google Play, y está en oferta</a></h4>
+    <a href='https://computerhoy.com/gaming/di-adios-nintendo-switch-consola-portatil-logitech-funciona-game-pass-steam-google-play-1304962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/logitech-g-cloud-3134470.jpg?tf=1200x' alt='Di adiós a Nintendo Switch: esta consola portátil de Logitech funciona con Game Pass, Steam y Google Play, y está en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/todas-novedades-llegan-aplicacion-fotos-windows-1306124'>Todas las novedades que llegan a la aplicación de fotos de Windows</a></h4>
     <a href='https://computerhoy.com/windows/todas-novedades-llegan-aplicacion-fotos-windows-1306124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/aplicacion-fotos-windows-3136702.jpg?tf=1200x' alt='Todas las novedades que llegan a la aplicación de fotos de Windows' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/spam-ya-no-volvera-ser-mismo-gracias-ultima-actualizacion-google-voice-1306086'>El spam ya no volverá a ser el mismo gracias a la última actualización de Google Voice</a></h4>
     <a href='https://computerhoy.com/apps/spam-ya-no-volvera-ser-mismo-gracias-ultima-actualizacion-google-voice-1306086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/spam-2649813.jpg?tf=1200x' alt='El spam ya no volverá a ser el mismo gracias a la última actualización de Google Voice' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-quiere-llevar-capacidades-juego-iphone-15-pro-tambien-ipad-mac-1306084'>Apple quiere llevar las capacidades de juego del iPhone 15 Pro también al iPad y al Mac</a></h4>
-    <a href='https://computerhoy.com/apple/apple-quiere-llevar-capacidades-juego-iphone-15-pro-tambien-ipad-mac-1306084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raytracing-iphone-15-pro-max-3133064.jpg?tf=1200x' alt='Apple quiere llevar las capacidades de juego del iPhone 15 Pro también al iPad y al Mac' />
     </a>
 </div>
 
