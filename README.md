@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-ha-vendido-900000-kilos-gpu-h100-inteligencia-artificial-ultimo-cuarto-1306418'>NVIDIA ha vendido 900.000 Kilos de la GPU H100 para la IA en el último cuarto, ¿cuánto es eso? </a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-ha-vendido-900000-kilos-gpu-h100-inteligencia-artificial-ultimo-cuarto-1306418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nvidia-ha-vendido-900000-kilos-gpus-h100-ia-ultimo-cuarto-cuanto-eso-3137104.jpg?tf=1200x' alt='NVIDIA ha vendido 900.000 Kilos de la GPU H100 para la IA en el último cuarto, ¿cuánto es eso? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/hallan-amazonas-planta-hojas-gigantescas-1306414'>Más grande que una persona: hallan en el Amazonas la planta con las hojas más gigantescas</a></h4>
     <a href='https://computerhoy.com/ciencia/hallan-amazonas-planta-hojas-gigantescas-1306414' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/grande-persona-hallan-amazonas-arbol-hojas-gigantescas-3137098.jpg?tf=1200x' alt='Más grande que una persona: hallan en el Amazonas la planta con las hojas más gigantescas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-derriba-precio-ssd-externo-62000-valoraciones-pondra-ordenador-1000-mb-segundo-1305002'>Amazon derriba el precio de un SSD externo con 62.000 valoraciones que pondrá tu ordenador 1000 MB por segundo</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-derriba-precio-ssd-externo-62000-valoraciones-pondra-ordenador-1000-mb-segundo-1305002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sandisk-extreme-ssd-3134576.jpg?tf=1200x' alt='Amazon derriba el precio de un SSD externo con 62.000 valoraciones que pondrá tu ordenador 1000 MB por segundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-15-estrenara-salida-video-4k-hdr-dolby-vision-1306394'>Gracias al USB-C, el iPhone 15 estrenará una gran mejora para los fans de las series y películas</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-15-estrenara-salida-video-4k-hdr-dolby-vision-1306394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-usb-c-3133446.jpg?tf=1200x' alt='Gracias al USB-C, el iPhone 15 estrenará una gran mejora para los fans de las series y películas' />
     </a>
 </div>
 
