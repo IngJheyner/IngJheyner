@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estos-son-primeros-recuerdos-olvida-persona-alzheimer-1305816'>Estos son los primeros recuerdos que olvida una persona con Alzheimer</a></h4>
+    <a href='https://computerhoy.com/life/estos-son-primeros-recuerdos-olvida-persona-alzheimer-1305816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/primero-olvida-persona-alzheimer-3136316.jpg?tf=1200x' alt='Estos son los primeros recuerdos que olvida una persona con Alzheimer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/kit-puedes-convertir-coche-gasolina-electrico-1306838'>Con este Kit puedes convertir tu coche gasolina o diésel en eléctrico en pocas horas</a></h4>
+    <a href='https://computerhoy.com/motor/kit-puedes-convertir-coche-gasolina-electrico-1306838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/kit-puedes-convertir-coche-gasolina-diesel-electrico-menos-dia-3137766.jpg?tf=1200x' alt='Con este Kit puedes convertir tu coche gasolina o diésel en eléctrico en pocas horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-amazon-fire-tv-tester-carga-pilas-1306026'>Cómo convertir tu Amazon Fire TV en un tester de carga para pilas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-convertir-amazon-fire-tv-tester-carga-pilas-1306026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-convertir-amazon-fire-tv-tester-carga-pilas-3136534.jpg?tf=1200x' alt='Cómo convertir tu Amazon Fire TV en un tester de carga para pilas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mapsme-google-maps-padres-no-gasta-datos-puedes-utilizar-android-auto-1306022'>Maps.me, el Google Maps para padres que no gasta datos y puedes utilizar en Android Auto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mapsme-google-maps-padres-no-gasta-datos-puedes-utilizar-android-auto-1306022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mapsme-google-maps-padres-no-gasta-datos-tambien-puedes-utilizar-android-auto-3136530.jpg?tf=1200x' alt='Maps.me, el Google Maps para padres que no gasta datos y puedes utilizar en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/combinacion-teclas-maldita-windows-no-debes-utilizar-1306830'>La combinación de teclas maldita de Windows que no debes utilizar</a></h4>
     <a href='https://computerhoy.com/windows/combinacion-teclas-maldita-windows-no-debes-utilizar-1306830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tecla-windows-11-3117832.jpg?tf=1200x' alt='La combinación de teclas maldita de Windows que no debes utilizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/lista-paginas-web-visitadas-cada-pais-mundo-deja-evidencia-miserias-espana-1305748'>La lista de páginas web más visitadas en cada país del mundo deja en evidencia las "miserias" de España</a></h4>
-    <a href='https://computerhoy.com/internet/lista-paginas-web-visitadas-cada-pais-mundo-deja-evidencia-miserias-espana-1305748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lista-paginas-web-visitadas-cada-pais-mundo-vuelve-mostrar-miserias-espana-3136136.jpg?tf=1200x' alt='La lista de páginas web más visitadas en cada país del mundo deja en evidencia las "miserias" de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/razon-apple-usar-twitter-tim-cook-cuenta-todo-1306766'>La razón de Apple para usar Twitter: Tim Cook lo cuenta todo</a></h4>
-    <a href='https://computerhoy.com/apple/razon-apple-usar-twitter-tim-cook-cuenta-todo-1306766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/tim-cook.jpg?tf=1200x' alt='La razón de Apple para usar Twitter: Tim Cook lo cuenta todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/perseverance-nasa-fotografia-roca-forma-aguacate-gigante-marte-1306788'>El Perseverance de la NASA fotografía una roca con forma de aguacate gigante en Marte</a></h4>
-    <a href='https://computerhoy.com/espacio/perseverance-nasa-fotografia-roca-forma-aguacate-gigante-marte-1306788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/perseverance-3137686.jpg?tf=1200x' alt='El Perseverance de la NASA fotografía una roca con forma de aguacate gigante en Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-asalta-sector-alza-momento-clave-air-fryer-te-rescata-auge-precio-aceite-1306792'>Xiaomi asalta un sector al alza en un momento clave: su air fryer más top te rescata del auge del precio del aceite</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-asalta-sector-alza-momento-clave-air-fryer-te-rescata-auge-precio-aceite-1306792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-smart-air-fryer-pro-3137656.jpg?tf=1200x' alt='Xiaomi asalta un sector al alza en un momento clave: su air fryer más top te rescata del auge del precio del aceite' />
     </a>
 </div>
 
