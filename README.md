@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-calienta-cuenta-atras-prime-day-octubre-rebajas-varios-dispositivos-1306642'>Amazon calienta la cuenta atrás para su Prime Day de octubre con rebajas en varios de sus dispositivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-calienta-cuenta-atras-prime-day-octubre-rebajas-varios-dispositivos-1306642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-echo-pop-3074170.jpg?tf=1200x' alt='Amazon calienta la cuenta atrás para su Prime Day de octubre con rebajas en varios de sus dispositivos' />
+    <h4><a href='https://computerhoy.com/windows/combinacion-teclas-maldita-windows-no-debes-utilizar-1306830'>La combinación de teclas maldita de Windows que no debes utilizar</a></h4>
+    <a href='https://computerhoy.com/windows/combinacion-teclas-maldita-windows-no-debes-utilizar-1306830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tecla-windows-11-3117832.jpg?tf=1200x' alt='La combinación de teclas maldita de Windows que no debes utilizar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ios-17-calienta-motores-estas-son-10-novedades-llegaran-hoy-iphone-1306652'>iOS 17 calienta motores: estas son 10 novedades que llegan hoy a iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/ios-17-calienta-motores-estas-son-10-novedades-llegaran-hoy-iphone-1306652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ios-17-3137496.jpg?tf=1200x' alt='iOS 17 calienta motores: estas son 10 novedades que llegan hoy a iPhone' />
+    <h4><a href='https://computerhoy.com/internet/lista-paginas-web-visitadas-cada-pais-mundo-deja-evidencia-miserias-espana-1305748'>La lista de páginas web más visitadas en cada país del mundo deja en evidencia las "miserias" de España</a></h4>
+    <a href='https://computerhoy.com/internet/lista-paginas-web-visitadas-cada-pais-mundo-deja-evidencia-miserias-espana-1305748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lista-paginas-web-visitadas-cada-pais-mundo-vuelve-mostrar-miserias-espana-3136136.jpg?tf=1200x' alt='La lista de páginas web más visitadas en cada país del mundo deja en evidencia las "miserias" de España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/reparar-cristal-trasero-iphone-15-pro-apple-hace-proceso-sea-sencillo-barato-1306682'>Reparar el cristal trasero del iPhone 15 Pro: Apple hace que el proceso sea más sencillo y barato</a></h4>
-    <a href='https://computerhoy.com/apple/reparar-cristal-trasero-iphone-15-pro-apple-hace-proceso-sea-sencillo-barato-1306682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3133024.jpg?tf=1200x' alt='Reparar el cristal trasero del iPhone 15 Pro: Apple hace que el proceso sea más sencillo y barato' />
+    <h4><a href='https://computerhoy.com/apple/razon-apple-usar-twitter-tim-cook-cuenta-todo-1306766'>La razón de Apple para usar Twitter: Tim Cook lo cuenta todo</a></h4>
+    <a href='https://computerhoy.com/apple/razon-apple-usar-twitter-tim-cook-cuenta-todo-1306766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/tim-cook.jpg?tf=1200x' alt='La razón de Apple para usar Twitter: Tim Cook lo cuenta todo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/leyes-newton-ha-malinterpretado-durante-casi-300-anos-todo-fallo-traduccion-1306638'>Una de las leyes de Newton se ha malinterpretado durante casi 300 años y todo por un fallo de traducción</a></h4>
-    <a href='https://computerhoy.com/life/leyes-newton-ha-malinterpretado-durante-casi-300-anos-todo-fallo-traduccion-1306638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/leyes-newton-3137432.jpg?tf=1200x' alt='Una de las leyes de Newton se ha malinterpretado durante casi 300 años y todo por un fallo de traducción' />
+    <h4><a href='https://computerhoy.com/espacio/perseverance-nasa-fotografia-roca-forma-aguacate-gigante-marte-1306788'>El Perseverance de la NASA fotografía una roca con forma de aguacate gigante en Marte</a></h4>
+    <a href='https://computerhoy.com/espacio/perseverance-nasa-fotografia-roca-forma-aguacate-gigante-marte-1306788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/perseverance-3137686.jpg?tf=1200x' alt='El Perseverance de la NASA fotografía una roca con forma de aguacate gigante en Marte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/business-insider-espana-gala-premios-top-teachers-2023-1306634'>Business Insider elige los Top Teachers del año: así puedes seguir en directo la gala de premios</a></h4>
-    <a href='https://computerhoy.com/internet/business-insider-espana-gala-premios-top-teachers-2023-1306634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/business-insider-espana-top-teachers-2023-3137416.jpg?tf=1200x' alt='Business Insider elige los Top Teachers del año: así puedes seguir en directo la gala de premios' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-asalta-sector-alza-momento-clave-air-fryer-te-rescata-auge-precio-aceite-1306792'>Xiaomi asalta un sector al alza en un momento clave: su air fryer más top te rescata del auge del precio del aceite</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-asalta-sector-alza-momento-clave-air-fryer-te-rescata-auge-precio-aceite-1306792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-smart-air-fryer-pro-3137656.jpg?tf=1200x' alt='Xiaomi asalta un sector al alza en un momento clave: su air fryer más top te rescata del auge del precio del aceite' />
     </a>
 </div>
 
