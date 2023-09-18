@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/futuro-inmediato-inteligencia-artificial-robots-interactivos-trabajan-ti-1306614'>El futuro inmediato de la inteligencia artificial: robots interactivos que trabajan por ti </a></h4>
+    <a href='https://computerhoy.com/tecnologia/futuro-inmediato-inteligencia-artificial-robots-interactivos-trabajan-ti-1306614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/robots-interactivos-ia-3137400.jpg?tf=1200x' alt='El futuro inmediato de la inteligencia artificial: robots interactivos que trabajan por ti ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-5g-precio-xiaomi-decir-precio-suelos-1303142'>Móvil con 5G a precio Xiaomi, es decir, con precio por los suelos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-5g-precio-xiaomi-decir-precio-suelos-1303142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-note-12-3068644.jpg?tf=1200x' alt='Móvil con 5G a precio Xiaomi, es decir, con precio por los suelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/estos-son-mejores-relojes-huawei-puedes-comprar-1295590'>Estos son los mejores relojes Huawei que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/android/estos-son-mejores-relojes-huawei-puedes-comprar-1295590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131236.jpg?tf=1200x' alt='Estos son los mejores relojes Huawei que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/cada-ano-dificil-ser-marca-solo-wearables-audio-1299736'>Las marcas especializadas en wearables y audio pierden terreno frente a los ecosistemas de los gigantes tecnológicos</a></h4>
+    <a href='https://computerhoy.com/industria/cada-ano-dificil-ser-marca-solo-wearables-audio-1299736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/especializados-vs-ecosistemas-3126924.jpg?tf=1200x' alt='Las marcas especializadas en wearables y audio pierden terreno frente a los ecosistemas de los gigantes tecnológicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nvidia-ha-vendido-900000-kilos-gpu-h100-inteligencia-artificial-ultimo-cuarto-1306418'>NVIDIA ha vendido 900.000 Kilos de la GPU H100 para la IA en el último cuarto, ¿cuánto es eso? </a></h4>
     <a href='https://computerhoy.com/tecnologia/nvidia-ha-vendido-900000-kilos-gpu-h100-inteligencia-artificial-ultimo-cuarto-1306418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nvidia-ha-vendido-900000-kilos-gpus-h100-ia-ultimo-cuarto-cuanto-eso-3137104.jpg?tf=1200x' alt='NVIDIA ha vendido 900.000 Kilos de la GPU H100 para la IA en el último cuarto, ¿cuánto es eso? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/hallan-amazonas-planta-hojas-gigantescas-1306414'>Más grande que una persona: hallan en el Amazonas la planta con las hojas más gigantescas</a></h4>
-    <a href='https://computerhoy.com/ciencia/hallan-amazonas-planta-hojas-gigantescas-1306414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/grande-persona-hallan-amazonas-arbol-hojas-gigantescas-3137098.jpg?tf=1200x' alt='Más grande que una persona: hallan en el Amazonas la planta con las hojas más gigantescas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ya-en-netflix-hermanos-sangre-the-pacific-hbo-max-1306412'>Ya puedes ver en Netflix dos de las mejores series exclusivas de HBO Max</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ya-en-netflix-hermanos-sangre-the-pacific-hbo-max-1306412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/pacific-2663685.jpg?tf=1200x' alt='Ya puedes ver en Netflix dos de las mejores series exclusivas de HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/asus-denuncia-samsung-infringir-patentes-1306406'>Asus denuncia a Samsung por infringir sus patentes, el Galaxy Z Flip 5 en peligro</a></h4>
-    <a href='https://computerhoy.com/moviles/asus-denuncia-samsung-infringir-patentes-1306406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/samsung-galaxy-z-flip5-3089366.jpg?tf=1200x' alt='Asus denuncia a Samsung por infringir sus patentes, el Galaxy Z Flip 5 en peligro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-derriba-precio-ssd-externo-62000-valoraciones-pondra-ordenador-1000-mb-segundo-1305002'>Amazon derriba el precio de un SSD externo con 62.000 valoraciones que pondrá tu ordenador 1000 MB por segundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-derriba-precio-ssd-externo-62000-valoraciones-pondra-ordenador-1000-mb-segundo-1305002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sandisk-extreme-ssd-3134576.jpg?tf=1200x' alt='Amazon derriba el precio de un SSD externo con 62.000 valoraciones que pondrá tu ordenador 1000 MB por segundo' />
     </a>
 </div>
 
