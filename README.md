@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-son-primeros-recuerdos-olvida-persona-alzheimer-1305816'>Estos son los primeros recuerdos que olvida una persona con Alzheimer</a></h4>
-    <a href='https://computerhoy.com/life/estos-son-primeros-recuerdos-olvida-persona-alzheimer-1305816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/primero-olvida-persona-alzheimer-3136316.jpg?tf=1200x' alt='Estos son los primeros recuerdos que olvida una persona con Alzheimer' />
+    <h4><a href='https://computerhoy.com/life/consejos-aprender-memorizar-rapido-1304640'>10 consejos científicos para aprender cualquier cosa más rápido y mejorar tu memoria</a></h4>
+    <a href='https://computerhoy.com/life/consejos-aprender-memorizar-rapido-1304640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/memoria-3137756.jpg?tf=1200x' alt='10 consejos científicos para aprender cualquier cosa más rápido y mejorar tu memoria' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/kit-puedes-convertir-coche-gasolina-electrico-1306838'>Con este Kit puedes convertir tu coche gasolina o diésel en eléctrico en pocas horas</a></h4>
-    <a href='https://computerhoy.com/motor/kit-puedes-convertir-coche-gasolina-electrico-1306838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/kit-puedes-convertir-coche-gasolina-diesel-electrico-menos-dia-3137766.jpg?tf=1200x' alt='Con este Kit puedes convertir tu coche gasolina o diésel en eléctrico en pocas horas' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-gratis-instrucciones-cualquier-set-lego-1303258'>Cómo descargar gratis las instrucciones de cualquier set de LEGO</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-gratis-instrucciones-cualquier-set-lego-1303258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-lego-technic-coches-puedes-regalar-estas-navidades-2903318.jpg?tf=1200x' alt='Cómo descargar gratis las instrucciones de cualquier set de LEGO' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-amazon-fire-tv-tester-carga-pilas-1306026'>Cómo convertir tu Amazon Fire TV en un tester de carga para pilas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-amazon-fire-tv-tester-carga-pilas-1306026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-convertir-amazon-fire-tv-tester-carga-pilas-3136534.jpg?tf=1200x' alt='Cómo convertir tu Amazon Fire TV en un tester de carga para pilas' />
+    <h4><a href='https://computerhoy.com/ciencia/meteorito-4600-millones-anos-pone-duda-teorias-origen-universo-1306886'>Un meteorito de 4.600 millones de años encontrado en el Sahara pone en duda las teorías del origen del universo</a></h4>
+    <a href='https://computerhoy.com/ciencia/meteorito-4600-millones-anos-pone-duda-teorias-origen-universo-1306886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/meteorito-4600-millones-anos-encontrado-sahara-pone-duda-teorias-origen-universo-3137868.jpg?tf=1200x' alt='Un meteorito de 4.600 millones de años encontrado en el Sahara pone en duda las teorías del origen del universo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mapsme-google-maps-padres-no-gasta-datos-puedes-utilizar-android-auto-1306022'>Maps.me, el Google Maps para padres que no gasta datos y puedes utilizar en Android Auto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mapsme-google-maps-padres-no-gasta-datos-puedes-utilizar-android-auto-1306022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mapsme-google-maps-padres-no-gasta-datos-tambien-puedes-utilizar-android-auto-3136530.jpg?tf=1200x' alt='Maps.me, el Google Maps para padres que no gasta datos y puedes utilizar en Android Auto' />
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-vs-arduino-diferencias-cual-mejor-opcion-1305172'>Raspberry Pi vs. Arduino: diferencias y cuál es la mejor opción</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-vs-arduino-diferencias-cual-mejor-opcion-1305172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raspberry-pi-vs-arduino-diferencias-cual-mejor-opcion-3135062.jpg?tf=1200x' alt='Raspberry Pi vs. Arduino: diferencias y cuál es la mejor opción' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/combinacion-teclas-maldita-windows-no-debes-utilizar-1306830'>La combinación de teclas maldita de Windows que no debes utilizar</a></h4>
-    <a href='https://computerhoy.com/windows/combinacion-teclas-maldita-windows-no-debes-utilizar-1306830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tecla-windows-11-3117832.jpg?tf=1200x' alt='La combinación de teclas maldita de Windows que no debes utilizar' />
+    <h4><a href='https://computerhoy.com/apple/metodo-puntos-secreto-ser-creativo-steve-jobs-1306862'>El método de los puntos, el secreto para ser más creativo de Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/apple/metodo-puntos-secreto-ser-creativo-steve-jobs-1306862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-estrena-emotivo-video-homenajeando-steve-jobs-decimo-aniversario-muerte-2493217.jpg?tf=1200x' alt='El método de los puntos, el secreto para ser más creativo de Steve Jobs' />
     </a>
 </div>
 
