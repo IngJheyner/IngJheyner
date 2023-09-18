@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/amazon-revienta-precio-movil-supera-xiaomi-poco-x5-pro-1306794'>Amazon revienta el precio de un móvil que supera a los Xiaomi, el POCO X5 Pro</a></h4>
+    <a href='https://computerhoy.com/android/amazon-revienta-precio-movil-supera-xiaomi-poco-x5-pro-1306794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/poco-x5-poco-x5-pro-2976582.jpg?tf=1200x' alt='Amazon revienta el precio de un móvil que supera a los Xiaomi, el POCO X5 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ios-17-calienta-motores-estas-son-10-novedades-llegaran-hoy-iphone-1306652'>iOS 17 calienta motores: estas son 10 novedades que llegan hoy a iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/ios-17-calienta-motores-estas-son-10-novedades-llegaran-hoy-iphone-1306652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ios-17-3137496.jpg?tf=1200x' alt='iOS 17 calienta motores: estas son 10 novedades que llegan hoy a iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ciencia-resuelve-lavar-arroz-antes-cocinarlo-1306896'>La ciencia resuelve el debate: ¿es necesario lavar el arroz antes de cocinarlo?</a></h4>
+    <a href='https://computerhoy.com/life/ciencia-resuelve-lavar-arroz-antes-cocinarlo-1306896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ciencia-resuelve-debate-necesario-lavar-arroz-antes-cocinarlo-3137884.jpg?tf=1200x' alt='La ciencia resuelve el debate: ¿es necesario lavar el arroz antes de cocinarlo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/consejos-aprender-memorizar-rapido-1304640'>10 consejos científicos para aprender cualquier cosa más rápido y mejorar tu memoria</a></h4>
     <a href='https://computerhoy.com/life/consejos-aprender-memorizar-rapido-1304640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/memoria-3137756.jpg?tf=1200x' alt='10 consejos científicos para aprender cualquier cosa más rápido y mejorar tu memoria' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-descargar-gratis-instrucciones-cualquier-set-lego-1303258'>Cómo descargar gratis las instrucciones de cualquier set de LEGO</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-descargar-gratis-instrucciones-cualquier-set-lego-1303258' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-lego-technic-coches-puedes-regalar-estas-navidades-2903318.jpg?tf=1200x' alt='Cómo descargar gratis las instrucciones de cualquier set de LEGO' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/meteorito-4600-millones-anos-pone-duda-teorias-origen-universo-1306886'>Un meteorito de 4.600 millones de años encontrado en el Sahara pone en duda las teorías del origen del universo</a></h4>
-    <a href='https://computerhoy.com/ciencia/meteorito-4600-millones-anos-pone-duda-teorias-origen-universo-1306886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/meteorito-4600-millones-anos-encontrado-sahara-pone-duda-teorias-origen-universo-3137868.jpg?tf=1200x' alt='Un meteorito de 4.600 millones de años encontrado en el Sahara pone en duda las teorías del origen del universo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-vs-arduino-diferencias-cual-mejor-opcion-1305172'>Raspberry Pi vs. Arduino: diferencias y cuál es la mejor opción</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-vs-arduino-diferencias-cual-mejor-opcion-1305172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raspberry-pi-vs-arduino-diferencias-cual-mejor-opcion-3135062.jpg?tf=1200x' alt='Raspberry Pi vs. Arduino: diferencias y cuál es la mejor opción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/metodo-puntos-secreto-ser-creativo-steve-jobs-1306862'>El método de los puntos, el secreto para ser más creativo de Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/apple/metodo-puntos-secreto-ser-creativo-steve-jobs-1306862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/apple-estrena-emotivo-video-homenajeando-steve-jobs-decimo-aniversario-muerte-2493217.jpg?tf=1200x' alt='El método de los puntos, el secreto para ser más creativo de Steve Jobs' />
     </a>
 </div>
 
