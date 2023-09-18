@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/amazon-revienta-precio-movil-supera-xiaomi-poco-x5-pro-1306794'>Amazon revienta el precio de un móvil que supera a los Xiaomi, el POCO X5 Pro</a></h4>
-    <a href='https://computerhoy.com/android/amazon-revienta-precio-movil-supera-xiaomi-poco-x5-pro-1306794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/poco-x5-poco-x5-pro-2976582.jpg?tf=1200x' alt='Amazon revienta el precio de un móvil que supera a los Xiaomi, el POCO X5 Pro' />
+    <h4><a href='https://computerhoy.com/tecnologia/fundador-deepmind-anuncia-tercera-fase-inteligencia-artificial-ia-interactiva-1306992'>El fundador de DeepMind anuncia la tercera fase de la Inteligencia Artificial: la IA interactiva</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fundador-deepmind-anuncia-tercera-fase-inteligencia-artificial-ia-interactiva-1306992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fundador-deepmind-anuncia-tercera-fase-inteligencia-artificial-3137996.jpg?tf=1200x' alt='El fundador de DeepMind anuncia la tercera fase de la Inteligencia Artificial: la IA interactiva' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ios-17-calienta-motores-estas-son-10-novedades-llegaran-hoy-iphone-1306652'>iOS 17 calienta motores: estas son 10 novedades que llegan hoy a iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/ios-17-calienta-motores-estas-son-10-novedades-llegaran-hoy-iphone-1306652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ios-17-3137496.jpg?tf=1200x' alt='iOS 17 calienta motores: estas son 10 novedades que llegan hoy a iPhone' />
+    <h4><a href='https://computerhoy.com/life/truco-tapon-aceite-oliva-te-ayuda-ahorrar-dinero-1306958'>La función oculta del tapón de la botella de aceite de oliva que puede ahorrarte mucho dinero</a></h4>
+    <a href='https://computerhoy.com/life/truco-tapon-aceite-oliva-te-ayuda-ahorrar-dinero-1306958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/funcion-oculta-tapon-botella-aceite-oliva-puede-ahorrarte-mucho-dinero-3137982.jpg?tf=1200x' alt='La función oculta del tapón de la botella de aceite de oliva que puede ahorrarte mucho dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ciencia-resuelve-lavar-arroz-antes-cocinarlo-1306896'>La ciencia resuelve el debate: ¿es necesario lavar el arroz antes de cocinarlo?</a></h4>
-    <a href='https://computerhoy.com/life/ciencia-resuelve-lavar-arroz-antes-cocinarlo-1306896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ciencia-resuelve-debate-necesario-lavar-arroz-antes-cocinarlo-3137884.jpg?tf=1200x' alt='La ciencia resuelve el debate: ¿es necesario lavar el arroz antes de cocinarlo?' />
+    <h4><a href='https://computerhoy.com/life/nave-espacial-650-metros-largo-reposa-montana-china-1306984'>Una nave espacial de 650 metros, reposa en una montaña en China</a></h4>
+    <a href='https://computerhoy.com/life/nave-espacial-650-metros-largo-reposa-montana-china-1306984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nave-espacial-650-metros-largo-reposa-montana-china-3137962.jpg?tf=1200x' alt='Una nave espacial de 650 metros, reposa en una montaña en China' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/consejos-aprender-memorizar-rapido-1304640'>10 consejos científicos para aprender cualquier cosa más rápido y mejorar tu memoria</a></h4>
-    <a href='https://computerhoy.com/life/consejos-aprender-memorizar-rapido-1304640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/memoria-3137756.jpg?tf=1200x' alt='10 consejos científicos para aprender cualquier cosa más rápido y mejorar tu memoria' />
+    <h4><a href='https://computerhoy.com/alimentacion/platano-azul-sabor-vainilla-increible-fruta-ya-cultiva-espana-podria-llegar-pronto-mercadona-1306980'>Plátano azul con sabor a vainilla: la increíble fruta que ya se cultiva en España y podría llegar pronto a Mercadona</a></h4>
+    <a href='https://computerhoy.com/alimentacion/platano-azul-sabor-vainilla-increible-fruta-ya-cultiva-espana-podria-llegar-pronto-mercadona-1306980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/platanos-amarillos-azul-3137986.jpg?tf=1200x' alt='Plátano azul con sabor a vainilla: la increíble fruta que ya se cultiva en España y podría llegar pronto a Mercadona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-gratis-instrucciones-cualquier-set-lego-1303258'>Cómo descargar gratis las instrucciones de cualquier set de LEGO</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-gratis-instrucciones-cualquier-set-lego-1303258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/mejores-lego-technic-coches-puedes-regalar-estas-navidades-2903318.jpg?tf=1200x' alt='Cómo descargar gratis las instrucciones de cualquier set de LEGO' />
+    <h4><a href='https://computerhoy.com/apple/habrias-ganado-lugar-iphones-hubieras-comprado-acciones-apple-1306976'>Esto es lo que habrías ganado si en lugar de iPhones hubieras comprado acciones de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/habrias-ganado-lugar-iphones-hubieras-comprado-acciones-apple-1306976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/varios-iphone-tienda-apple-3137984.jpg?tf=1200x' alt='Esto es lo que habrías ganado si en lugar de iPhones hubieras comprado acciones de Apple' />
     </a>
 </div>
 
