@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/futuro-inmediato-inteligencia-artificial-robots-interactivos-trabajan-ti-1306614'>El futuro inmediato de la inteligencia artificial: robots interactivos que trabajan por ti </a></h4>
-    <a href='https://computerhoy.com/tecnologia/futuro-inmediato-inteligencia-artificial-robots-interactivos-trabajan-ti-1306614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/robots-interactivos-ia-3137400.jpg?tf=1200x' alt='El futuro inmediato de la inteligencia artificial: robots interactivos que trabajan por ti ' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-calienta-cuenta-atras-prime-day-octubre-rebajas-varios-dispositivos-1306642'>Amazon calienta la cuenta atrás para su Prime Day de octubre con rebajas en varios de sus dispositivos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-calienta-cuenta-atras-prime-day-octubre-rebajas-varios-dispositivos-1306642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-echo-pop-3074170.jpg?tf=1200x' alt='Amazon calienta la cuenta atrás para su Prime Day de octubre con rebajas en varios de sus dispositivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-5g-precio-xiaomi-decir-precio-suelos-1303142'>Móvil con 5G a precio Xiaomi, es decir, con precio por los suelos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-5g-precio-xiaomi-decir-precio-suelos-1303142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-note-12-3068644.jpg?tf=1200x' alt='Móvil con 5G a precio Xiaomi, es decir, con precio por los suelos' />
+    <h4><a href='https://computerhoy.com/apple/ios-17-calienta-motores-estas-son-10-novedades-llegaran-hoy-iphone-1306652'>iOS 17 calienta motores: estas son 10 novedades que llegan hoy a iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/ios-17-calienta-motores-estas-son-10-novedades-llegaran-hoy-iphone-1306652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ios-17-3137496.jpg?tf=1200x' alt='iOS 17 calienta motores: estas son 10 novedades que llegan hoy a iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/estos-son-mejores-relojes-huawei-puedes-comprar-1295590'>Estos son los mejores relojes Huawei que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/android/estos-son-mejores-relojes-huawei-puedes-comprar-1295590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131236.jpg?tf=1200x' alt='Estos son los mejores relojes Huawei que puedes comprar' />
+    <h4><a href='https://computerhoy.com/apple/reparar-cristal-trasero-iphone-15-pro-apple-hace-proceso-sea-sencillo-barato-1306682'>Reparar el cristal trasero del iPhone 15 Pro: Apple hace que el proceso sea más sencillo y barato</a></h4>
+    <a href='https://computerhoy.com/apple/reparar-cristal-trasero-iphone-15-pro-apple-hace-proceso-sea-sencillo-barato-1306682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3133024.jpg?tf=1200x' alt='Reparar el cristal trasero del iPhone 15 Pro: Apple hace que el proceso sea más sencillo y barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/cada-ano-dificil-ser-marca-solo-wearables-audio-1299736'>Las marcas especializadas en wearables y audio pierden terreno frente a los ecosistemas de los gigantes tecnológicos</a></h4>
-    <a href='https://computerhoy.com/industria/cada-ano-dificil-ser-marca-solo-wearables-audio-1299736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/especializados-vs-ecosistemas-3126924.jpg?tf=1200x' alt='Las marcas especializadas en wearables y audio pierden terreno frente a los ecosistemas de los gigantes tecnológicos' />
+    <h4><a href='https://computerhoy.com/life/leyes-newton-ha-malinterpretado-durante-casi-300-anos-todo-fallo-traduccion-1306638'>Una de las leyes de Newton se ha malinterpretado durante casi 300 años y todo por un fallo de traducción</a></h4>
+    <a href='https://computerhoy.com/life/leyes-newton-ha-malinterpretado-durante-casi-300-anos-todo-fallo-traduccion-1306638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/leyes-newton-3137432.jpg?tf=1200x' alt='Una de las leyes de Newton se ha malinterpretado durante casi 300 años y todo por un fallo de traducción' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-ha-vendido-900000-kilos-gpu-h100-inteligencia-artificial-ultimo-cuarto-1306418'>NVIDIA ha vendido 900.000 Kilos de la GPU H100 para la IA en el último cuarto, ¿cuánto es eso? </a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-ha-vendido-900000-kilos-gpu-h100-inteligencia-artificial-ultimo-cuarto-1306418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nvidia-ha-vendido-900000-kilos-gpus-h100-ia-ultimo-cuarto-cuanto-eso-3137104.jpg?tf=1200x' alt='NVIDIA ha vendido 900.000 Kilos de la GPU H100 para la IA en el último cuarto, ¿cuánto es eso? ' />
+    <h4><a href='https://computerhoy.com/internet/business-insider-espana-gala-premios-top-teachers-2023-1306634'>Business Insider elige los Top Teachers del año: así puedes seguir en directo la gala de premios</a></h4>
+    <a href='https://computerhoy.com/internet/business-insider-espana-gala-premios-top-teachers-2023-1306634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/business-insider-espana-top-teachers-2023-3137416.jpg?tf=1200x' alt='Business Insider elige los Top Teachers del año: así puedes seguir en directo la gala de premios' />
     </a>
 </div>
 
