@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/air-force-one-ha-despegado-veces-ha-aterrizado-como-posible-1302300'>El Air Force One ha despegado más veces de las que ha aterrizado: ¿cómo es posible?</a></h4>
-    <a href='https://computerhoy.com/life/air-force-one-ha-despegado-veces-ha-aterrizado-como-posible-1302300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/air-force-one-3138638.jpg?tf=1200x' alt='El Air Force One ha despegado más veces de las que ha aterrizado: ¿cómo es posible?' />
+    <h4><a href='https://computerhoy.com/espacio/misteriosos-destellos-luz-procedentes-venus-desconciertan-cientificos-1307532'>Misteriosos destellos de luz procedentes de Venus desconciertan a los científicos</a></h4>
+    <a href='https://computerhoy.com/espacio/misteriosos-destellos-luz-procedentes-venus-desconciertan-cientificos-1307532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/planeta-venus-3138840.jpg?tf=1200x' alt='Misteriosos destellos de luz procedentes de Venus desconciertan a los científicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/port-aventura-en-venta-por-que-1307424'>Por qué Port Aventura está en venta, y qué implica para el parque</a></h4>
-    <a href='https://computerhoy.com/industria/port-aventura-en-venta-por-que-1307424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/port-aventura-estan-venta-implica-parque-3138590.jpg?tf=1200x' alt='Por qué Port Aventura está en venta, y qué implica para el parque' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-encomienda-iglesia-catolica-resolver-investigacion-1307488'>La NASA se encomienda a la Iglesia Católica para resolver una investigación atascada</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-encomienda-iglesia-catolica-resolver-investigacion-1307488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sacerdote-logo-nasa-3138810.jpg?tf=1200x' alt='La NASA se encomienda a la Iglesia Católica para resolver una investigación atascada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/xgimi-horizon-ultra-ya-disponible-1899-euros-1307428'>El Xgimi Horizon Ultra, proyector 4K de larga distancia con Dolby Vision, ya disponible por 1.899 euros</a></h4>
-    <a href='https://computerhoy.com/tv/xgimi-horizon-ultra-ya-disponible-1899-euros-1307428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xgimi-horizon-ultra-3138636.jpg?tf=1200x' alt='El Xgimi Horizon Ultra, proyector 4K de larga distancia con Dolby Vision, ya disponible por 1.899 euros' />
+    <h4><a href='https://computerhoy.com/ciencia/zona-horaria-polo-norte-sur-1307520'>Hay dos lugares en el mundo en donde la zona horaria cambia según quién viva allí</a></h4>
+    <a href='https://computerhoy.com/ciencia/zona-horaria-polo-norte-sur-1307520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hay-dos-lugares-mundo-donde-zona-horaria-cambia-quien-viva-alli-3138780.jpg?tf=1200x' alt='Hay dos lugares en el mundo en donde la zona horaria cambia según quién viva allí' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/grave-error-99-personas-comete-comerse-yogur-1305824'>El grave error que el 99% de las personas comete al comerse un yogur</a></h4>
-    <a href='https://computerhoy.com/life/grave-error-99-personas-comete-comerse-yogur-1305824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/yogur-3138628.jpg?tf=1200x' alt='El grave error que el 99% de las personas comete al comerse un yogur' />
+    <h4><a href='https://computerhoy.com/motor/estos-son-kilometros-reales-puedes-recorrer-cuando-enciende-reserva-coche-1307190'>Estos son los kilómetros reales que puedes recorrer cuando se enciende la luz de reserva del coche</a></h4>
+    <a href='https://computerhoy.com/motor/estos-son-kilometros-reales-puedes-recorrer-cuando-enciende-reserva-coche-1307190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/estos-son-kilometros-puedes-recorrer-cuando-enciende-reserva-coche-3138208.jpg?tf=1200x' alt='Estos son los kilómetros reales que puedes recorrer cuando se enciende la luz de reserva del coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/intel-confirma-windows-11-windows-10-tendran-wifi-7-1307326'>Intel confirma que Windows 11 y Windows 10 tendrán WiFi 7</a></h4>
-    <a href='https://computerhoy.com/windows/intel-confirma-windows-11-windows-10-tendran-wifi-7-1307326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-7-2613799.jpg?tf=1200x' alt='Intel confirma que Windows 11 y Windows 10 tendrán WiFi 7' />
+    <h4><a href='https://computerhoy.com/life/empleos-mejor-pagados-espana-necesidad-titulo-universitario-1307472'>Estos son los empleos mejor pagados en España sin necesidad de título universitario</a></h4>
+    <a href='https://computerhoy.com/life/empleos-mejor-pagados-espana-necesidad-titulo-universitario-1307472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/estos-son-empleos-mejor-pagados-espana-necesidad-titulo-universitario-3138732.jpg?tf=1200x' alt='Estos son los empleos mejor pagados en España sin necesidad de título universitario' />
     </a>
 </div>
 
