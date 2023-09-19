@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/beta-whatsapp-ipad-requisitos-novedades-consejos-descargarla-1307334'>Así es la beta de WhatsApp para iPad: requisitos, novedades y consejos para descargarla</a></h4>
+    <a href='https://computerhoy.com/apple/beta-whatsapp-ipad-requisitos-novedades-consejos-descargarla-1307334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/5-argumentos-deberias-plantearte-dejar-usar-whatsapp-3070774.jpg?tf=1200x' alt='Así es la beta de WhatsApp para iPad: requisitos, novedades y consejos para descargarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/te-aburren-tareas-rutinarias-trabajo-ia-viene-solucionarlo-estas-herramientas-1307324'>¿Te aburren las tareas rutinarias de tu trabajo? La IA viene a solucionarlo con estas herramientas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/te-aburren-tareas-rutinarias-trabajo-ia-viene-solucionarlo-estas-herramientas-1307324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/herramientas-ia-3138444.jpg?tf=1200x' alt='¿Te aburren las tareas rutinarias de tu trabajo? La IA viene a solucionarlo con estas herramientas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/moviles-xiaomi-potente-tiene-rebaja-bomba-amazon-300-euros-1306716'>Uno de los móviles Xiaomi más potente tiene rebaja bomba en Amazon de más de 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/moviles-xiaomi-potente-tiene-rebaja-bomba-amazon-300-euros-1306716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-13-xiaomi-13-pro-analisis-opinion-2985138.jpg?tf=1200x' alt='Uno de los móviles Xiaomi más potente tiene rebaja bomba en Amazon de más de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/shiba-inu-reduce-quema-tokens-significa-1307316'>Shiba Inu: ¿por qué se reduce la quema de tokens y qué significa?</a></h4>
+    <a href='https://computerhoy.com/criptos/shiba-inu-reduce-quema-tokens-significa-1307316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/shiba-inu-2610337.jpg?tf=1200x' alt='Shiba Inu: ¿por qué se reduce la quema de tokens y qué significa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/vacuna-inversa-nueva-esperanza-enfermedades-autoinmunes-1307274'>La "vacuna inversa": la nueva esperanza para enfermedades como la esclerosis o la diabetes</a></h4>
     <a href='https://computerhoy.com/ciencia/vacuna-inversa-nueva-esperanza-enfermedades-autoinmunes-1307274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/vacuna-enfermedades-3138394.jpg?tf=1200x' alt='La "vacuna inversa": la nueva esperanza para enfermedades como la esclerosis o la diabetes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/xbox-series-x-reinventara-2024-descubre-rediseno-mando-1307270'>La Xbox Series X se reinventará en 2024: descubre su rediseño y su mando</a></h4>
-    <a href='https://computerhoy.com/gaming/xbox-series-x-reinventara-2024-descubre-rediseno-mando-1307270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xbox-series-x-reinventara-2024-descubre-rediseno-mando-3138340.jpg?tf=1200x' alt='La Xbox Series X se reinventará en 2024: descubre su rediseño y su mando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/pagar-tener-x-twitter-ultima-idea-elon-musk-todos-usuarios-1307240'>¿Pagar por tener X (Twitter)? Esta es la última idea de Elon Musk para todos los usuarios</a></h4>
-    <a href='https://computerhoy.com/apps/pagar-tener-x-twitter-ultima-idea-elon-musk-todos-usuarios-1307240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-dueno-twitter-3074252.jpg?tf=1200x' alt='¿Pagar por tener X (Twitter)? Esta es la última idea de Elon Musk para todos los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-tumba-competencia-abre-guerra-precios-solo-172eu-mes-1305550'>Esta VPN tumba a la competencia y abre guerra de precios: desde solo 1,72€ al mes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-tumba-competencia-abre-guerra-precios-solo-172eu-mes-1305550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/atlas-vpn-3135552.jpg?tf=1200x' alt='Esta VPN tumba a la competencia y abre guerra de precios: desde solo 1,72€ al mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/puerto-usb-c-sera-quebradero-cabeza-ventaja-muchos-usuarios-1307222'>El puerto USB-C será un quebradero de cabeza más que una ventaja para muchos usuarios</a></h4>
-    <a href='https://computerhoy.com/apple/puerto-usb-c-sera-quebradero-cabeza-ventaja-muchos-usuarios-1307222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='El puerto USB-C será un quebradero de cabeza más que una ventaja para muchos usuarios' />
     </a>
 </div>
 
