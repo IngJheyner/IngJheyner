@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fundador-deepmind-anuncia-tercera-fase-inteligencia-artificial-ia-interactiva-1306992'>El fundador de DeepMind anuncia la tercera fase de la Inteligencia Artificial: la IA interactiva</a></h4>
+    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-cancela-serie-tiempo-victoria-dinastia-lakers-1307000'>HBO Max saca la tijera y se carga otras de sus series mejor valoradas por la crítica</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hbo-max-cancela-serie-tiempo-victoria-dinastia-lakers-1307000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hbo-max-saca-tijera-carga-otras-series-muy-bien-valoradas-critica-3138006.jpg?tf=1200x' alt='HBO Max saca la tijera y se carga otras de sus series mejor valoradas por la crítica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fundador-deepmind-anuncia-tercera-fase-inteligencia-artificial-ia-interactiva-1306992'>El fundador de DeepMind anuncia la tercera fase de la Inteligencia Artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/fundador-deepmind-anuncia-tercera-fase-inteligencia-artificial-ia-interactiva-1306992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fundador-deepmind-anuncia-tercera-fase-inteligencia-artificial-3137996.jpg?tf=1200x' alt='El fundador de DeepMind anuncia la tercera fase de la Inteligencia Artificial: la IA interactiva' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fundador-deepmind-anuncia-tercera-fase-inteligencia-artificial-3137996.jpg?tf=1200x' alt='El fundador de DeepMind anuncia la tercera fase de la Inteligencia Artificial' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/platano-azul-sabor-vainilla-increible-fruta-ya-cultiva-espana-podria-llegar-pronto-mercadona-1306980'>Plátano azul con sabor a vainilla: la increíble fruta que ya se cultiva en España y podría llegar pronto a Mercadona</a></h4>
     <a href='https://computerhoy.com/alimentacion/platano-azul-sabor-vainilla-increible-fruta-ya-cultiva-espana-podria-llegar-pronto-mercadona-1306980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/platanos-amarillos-azul-3137986.jpg?tf=1200x' alt='Plátano azul con sabor a vainilla: la increíble fruta que ya se cultiva en España y podría llegar pronto a Mercadona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/habrias-ganado-lugar-iphones-hubieras-comprado-acciones-apple-1306976'>Esto es lo que habrías ganado si en lugar de iPhones hubieras comprado acciones de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/habrias-ganado-lugar-iphones-hubieras-comprado-acciones-apple-1306976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/varios-iphone-tienda-apple-3137984.jpg?tf=1200x' alt='Esto es lo que habrías ganado si en lugar de iPhones hubieras comprado acciones de Apple' />
     </a>
 </div>
 
