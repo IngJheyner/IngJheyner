@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/plegables-motorola-mejor-razr-2022-razr-40-2023-1296318'>Motorola y su dicotomía en plegables baratos: ¿Mejor el modelo RAZR 2022 del año pasado o el RAZR 40 de 2023?</a></h4>
+    <a href='https://computerhoy.com/moviles/plegables-motorola-mejor-razr-2022-razr-40-2023-1296318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/razr-40-3120914.jpg?tf=1200x' alt='Motorola y su dicotomía en plegables baratos: ¿Mejor el modelo RAZR 2022 del año pasado o el RAZR 40 de 2023?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/xiaomi-redmi-note-12-pro-5-caracteristicas-hacen-movil-top-gama-media-1306996'>Xiaomi Redmi Note 12 Pro: 5 características que lo hacen un móvil top en la gama media</a></h4>
+    <a href='https://computerhoy.com/android/xiaomi-redmi-note-12-pro-5-caracteristicas-hacen-movil-top-gama-media-1306996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-note-12-pro-2991936.jpg?tf=1200x' alt='Xiaomi Redmi Note 12 Pro: 5 características que lo hacen un móvil top en la gama media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-cancela-serie-tiempo-victoria-dinastia-lakers-1307000'>HBO Max saca la tijera y se carga otras de sus series mejor valoradas por la crítica</a></h4>
     <a href='https://computerhoy.com/entretenimiento/hbo-max-cancela-serie-tiempo-victoria-dinastia-lakers-1307000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hbo-max-saca-tijera-carga-otras-series-muy-bien-valoradas-critica-3138006.jpg?tf=1200x' alt='HBO Max saca la tijera y se carga otras de sus series mejor valoradas por la crítica' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/truco-tapon-aceite-oliva-te-ayuda-ahorrar-dinero-1306958'>La función oculta del tapón de la botella de aceite de oliva que puede ahorrarte mucho dinero</a></h4>
     <a href='https://computerhoy.com/life/truco-tapon-aceite-oliva-te-ayuda-ahorrar-dinero-1306958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/funcion-oculta-tapon-botella-aceite-oliva-puede-ahorrarte-mucho-dinero-3137982.jpg?tf=1200x' alt='La función oculta del tapón de la botella de aceite de oliva que puede ahorrarte mucho dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nave-espacial-650-metros-largo-reposa-montana-china-1306984'>Una nave espacial de 650 metros, reposa en una montaña en China</a></h4>
-    <a href='https://computerhoy.com/life/nave-espacial-650-metros-largo-reposa-montana-china-1306984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nave-espacial-650-metros-largo-reposa-montana-china-3137962.jpg?tf=1200x' alt='Una nave espacial de 650 metros, reposa en una montaña en China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/platano-azul-sabor-vainilla-increible-fruta-ya-cultiva-espana-podria-llegar-pronto-mercadona-1306980'>Plátano azul con sabor a vainilla: la increíble fruta que ya se cultiva en España y podría llegar pronto a Mercadona</a></h4>
-    <a href='https://computerhoy.com/alimentacion/platano-azul-sabor-vainilla-increible-fruta-ya-cultiva-espana-podria-llegar-pronto-mercadona-1306980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/platanos-amarillos-azul-3137986.jpg?tf=1200x' alt='Plátano azul con sabor a vainilla: la increíble fruta que ya se cultiva en España y podría llegar pronto a Mercadona' />
     </a>
 </div>
 
