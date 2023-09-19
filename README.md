@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/namx-coche-capsulas-hidrogeno-desafiar-coche-electrico-1307554'>Namx, el coche con cápsulas de hidrógeno para desafiar al coche eléctrico</a></h4>
+    <a href='https://computerhoy.com/motor/namx-coche-capsulas-hidrogeno-desafiar-coche-electrico-1307554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/namx-coche-capsulas-hidrogeno-desafiar-coche-electrico-3138920.jpg?tf=1200x' alt='Namx, el coche con cápsulas de hidrógeno para desafiar al coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nueva-especie-humana-encuentran-mandibula-300000-anos-1307522'>¿Una nueva especie humana? Encuentran una mandíbula en China de 300.000 años con rasgos modernos</a></h4>
+    <a href='https://computerhoy.com/ciencia/nueva-especie-humana-encuentran-mandibula-300000-anos-1307522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nueva-especie-humana-encuentran-mandibula-china-300000-anos-rasgos-modernos-3138818.jpg?tf=1200x' alt='¿Una nueva especie humana? Encuentran una mandíbula en China de 300.000 años con rasgos modernos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/bard-chatbot-ya-puede-conectarse-aplicaciones-google-1307536'>Bard, el chatbot de Google, ya puede conectarse con Gmail, Docs, Drive, Google Maps o YouTube</a></h4>
+    <a href='https://computerhoy.com/google/bard-chatbot-ya-puede-conectarse-aplicaciones-google-1307536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bard-chatbot-google-ya-puede-conectarse-gmail-docs-drive-google-maps-youtube-3138860.jpg?tf=1200x' alt='Bard, el chatbot de Google, ya puede conectarse con Gmail, Docs, Drive, Google Maps o YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/tienes-gato-oferta-amazon-te-interesa-pero-eso-prepara-cartera-1306774'>Si tienes gato, esta oferta de Amazon te interesa, pero eso sí: prepara la cartera</a></h4>
     <a href='https://computerhoy.com/life/tienes-gato-oferta-amazon-te-interesa-pero-eso-prepara-cartera-1306774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/petkit-pura-max-3137606.jpg?tf=1200x' alt='Si tienes gato, esta oferta de Amazon te interesa, pero eso sí: prepara la cartera' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/intel-lanzara-nuevo-procesador-meteor-lake-14-diciembre-1307542'>Intel lanzará el nuevo procesador basado en chiplets, Meteor Lake, el 14 de diciembre </a></h4>
     <a href='https://computerhoy.com/pc/intel-lanzara-nuevo-procesador-meteor-lake-14-diciembre-1307542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/intel-lanzara-nuevo-procesador-basado-chiplets-meteor-lake-14-diciembre-3138874.jpg?tf=1200x' alt='Intel lanzará el nuevo procesador basado en chiplets, Meteor Lake, el 14 de diciembre ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/investigadores-descubren-dos-mejores-horas-dia-hacer-ejercicio-quieres-perder-peso-adelgazar-1307534'>Investigadores descubren las dos mejores horas del día para hacer ejercicio si quieres perder peso y adelgazar</a></h4>
-    <a href='https://computerhoy.com/life/investigadores-descubren-dos-mejores-horas-dia-hacer-ejercicio-quieres-perder-peso-adelgazar-1307534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hacer-ejercicio-manana-3138858.jpg?tf=1200x' alt='Investigadores descubren las dos mejores horas del día para hacer ejercicio si quieres perder peso y adelgazar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/indicacion-google-maps-waze-android-auto-te-puede-confundir-1306998'>La indicación de Google Maps y Waze en Android Auto a la que nunca deberías hacer caso</a></h4>
-    <a href='https://computerhoy.com/motor/indicacion-google-maps-waze-android-auto-te-puede-confundir-1306998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/indicacion-google-maps-waze-android-auto-no-deberias-hacer-caso-3138204.jpg?tf=1200x' alt='La indicación de Google Maps y Waze en Android Auto a la que nunca deberías hacer caso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/misteriosos-destellos-luz-procedentes-venus-desconciertan-cientificos-1307532'>Misteriosos destellos de luz procedentes de Venus desconciertan a los científicos</a></h4>
-    <a href='https://computerhoy.com/espacio/misteriosos-destellos-luz-procedentes-venus-desconciertan-cientificos-1307532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/planeta-venus-3138840.jpg?tf=1200x' alt='Misteriosos destellos de luz procedentes de Venus desconciertan a los científicos' />
     </a>
 </div>
 
