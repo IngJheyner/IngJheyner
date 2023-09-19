@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tienes-gato-oferta-amazon-te-interesa-pero-eso-prepara-cartera-1306774'>Si tienes gato, esta oferta de Amazon te interesa, pero eso sí: prepara la cartera</a></h4>
+    <a href='https://computerhoy.com/life/tienes-gato-oferta-amazon-te-interesa-pero-eso-prepara-cartera-1306774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/petkit-pura-max-3137606.jpg?tf=1200x' alt='Si tienes gato, esta oferta de Amazon te interesa, pero eso sí: prepara la cartera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-lanzara-nuevo-procesador-meteor-lake-14-diciembre-1307542'>Intel lanzará el nuevo procesador basado en chiplets, Meteor Lake, el 14 de diciembre </a></h4>
+    <a href='https://computerhoy.com/pc/intel-lanzara-nuevo-procesador-meteor-lake-14-diciembre-1307542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/intel-lanzara-nuevo-procesador-basado-chiplets-meteor-lake-14-diciembre-3138874.jpg?tf=1200x' alt='Intel lanzará el nuevo procesador basado en chiplets, Meteor Lake, el 14 de diciembre ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/investigadores-descubren-dos-mejores-horas-dia-hacer-ejercicio-quieres-perder-peso-adelgazar-1307534'>Investigadores descubren las dos mejores horas del día para hacer ejercicio si quieres perder peso y adelgazar</a></h4>
+    <a href='https://computerhoy.com/life/investigadores-descubren-dos-mejores-horas-dia-hacer-ejercicio-quieres-perder-peso-adelgazar-1307534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hacer-ejercicio-manana-3138858.jpg?tf=1200x' alt='Investigadores descubren las dos mejores horas del día para hacer ejercicio si quieres perder peso y adelgazar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/indicacion-google-maps-waze-android-auto-te-puede-confundir-1306998'>La indicación de Google Maps y Waze en Android Auto a la que nunca deberías hacer caso</a></h4>
+    <a href='https://computerhoy.com/motor/indicacion-google-maps-waze-android-auto-te-puede-confundir-1306998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/indicacion-google-maps-waze-android-auto-no-deberias-hacer-caso-3138204.jpg?tf=1200x' alt='La indicación de Google Maps y Waze en Android Auto a la que nunca deberías hacer caso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/misteriosos-destellos-luz-procedentes-venus-desconciertan-cientificos-1307532'>Misteriosos destellos de luz procedentes de Venus desconciertan a los científicos</a></h4>
     <a href='https://computerhoy.com/espacio/misteriosos-destellos-luz-procedentes-venus-desconciertan-cientificos-1307532' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/planeta-venus-3138840.jpg?tf=1200x' alt='Misteriosos destellos de luz procedentes de Venus desconciertan a los científicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-encomienda-iglesia-catolica-resolver-investigacion-1307488'>La NASA se encomienda a la Iglesia Católica para resolver una investigación atascada</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-encomienda-iglesia-catolica-resolver-investigacion-1307488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sacerdote-logo-nasa-3138810.jpg?tf=1200x' alt='La NASA se encomienda a la Iglesia Católica para resolver una investigación atascada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/zona-horaria-polo-norte-sur-1307520'>Hay dos lugares en el mundo en donde la zona horaria cambia según quién viva allí</a></h4>
-    <a href='https://computerhoy.com/ciencia/zona-horaria-polo-norte-sur-1307520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hay-dos-lugares-mundo-donde-zona-horaria-cambia-quien-viva-alli-3138780.jpg?tf=1200x' alt='Hay dos lugares en el mundo en donde la zona horaria cambia según quién viva allí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/estos-son-kilometros-reales-puedes-recorrer-cuando-enciende-reserva-coche-1307190'>Estos son los kilómetros reales que puedes recorrer cuando se enciende la luz de reserva del coche</a></h4>
-    <a href='https://computerhoy.com/motor/estos-son-kilometros-reales-puedes-recorrer-cuando-enciende-reserva-coche-1307190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/estos-son-kilometros-puedes-recorrer-cuando-enciende-reserva-coche-3138208.jpg?tf=1200x' alt='Estos son los kilómetros reales que puedes recorrer cuando se enciende la luz de reserva del coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/empleos-mejor-pagados-espana-necesidad-titulo-universitario-1307472'>Estos son los empleos mejor pagados en España sin necesidad de título universitario</a></h4>
-    <a href='https://computerhoy.com/life/empleos-mejor-pagados-espana-necesidad-titulo-universitario-1307472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/estos-son-empleos-mejor-pagados-espana-necesidad-titulo-universitario-3138732.jpg?tf=1200x' alt='Estos son los empleos mejor pagados en España sin necesidad de título universitario' />
     </a>
 </div>
 
