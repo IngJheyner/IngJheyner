@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/beta-whatsapp-ipad-requisitos-novedades-consejos-descargarla-1307334'>Así es la beta de WhatsApp para iPad: requisitos, novedades y consejos para descargarla</a></h4>
-    <a href='https://computerhoy.com/apple/beta-whatsapp-ipad-requisitos-novedades-consejos-descargarla-1307334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/5-argumentos-deberias-plantearte-dejar-usar-whatsapp-3070774.jpg?tf=1200x' alt='Así es la beta de WhatsApp para iPad: requisitos, novedades y consejos para descargarla' />
+    <h4><a href='https://computerhoy.com/life/air-force-one-ha-despegado-veces-ha-aterrizado-como-posible-1302300'>El Air Force One ha despegado más veces de las que ha aterrizado: ¿cómo es posible?</a></h4>
+    <a href='https://computerhoy.com/life/air-force-one-ha-despegado-veces-ha-aterrizado-como-posible-1302300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/air-force-one-3138638.jpg?tf=1200x' alt='El Air Force One ha despegado más veces de las que ha aterrizado: ¿cómo es posible?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/te-aburren-tareas-rutinarias-trabajo-ia-viene-solucionarlo-estas-herramientas-1307324'>¿Te aburren las tareas rutinarias de tu trabajo? La IA viene a solucionarlo con estas herramientas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/te-aburren-tareas-rutinarias-trabajo-ia-viene-solucionarlo-estas-herramientas-1307324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/herramientas-ia-3138444.jpg?tf=1200x' alt='¿Te aburren las tareas rutinarias de tu trabajo? La IA viene a solucionarlo con estas herramientas' />
+    <h4><a href='https://computerhoy.com/industria/port-aventura-en-venta-por-que-1307424'>Por qué Port Aventura está en venta, y qué implica para el parque</a></h4>
+    <a href='https://computerhoy.com/industria/port-aventura-en-venta-por-que-1307424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/port-aventura-estan-venta-implica-parque-3138590.jpg?tf=1200x' alt='Por qué Port Aventura está en venta, y qué implica para el parque' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/moviles-xiaomi-potente-tiene-rebaja-bomba-amazon-300-euros-1306716'>Uno de los móviles Xiaomi más potente tiene rebaja bomba en Amazon de más de 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/moviles-xiaomi-potente-tiene-rebaja-bomba-amazon-300-euros-1306716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-13-xiaomi-13-pro-analisis-opinion-2985138.jpg?tf=1200x' alt='Uno de los móviles Xiaomi más potente tiene rebaja bomba en Amazon de más de 300 euros' />
+    <h4><a href='https://computerhoy.com/tv/xgimi-horizon-ultra-ya-disponible-1899-euros-1307428'>El Xgimi Horizon Ultra, proyector 4K de larga distancia con Dolby Vision, ya disponible por 1.899 euros</a></h4>
+    <a href='https://computerhoy.com/tv/xgimi-horizon-ultra-ya-disponible-1899-euros-1307428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xgimi-horizon-ultra-3138636.jpg?tf=1200x' alt='El Xgimi Horizon Ultra, proyector 4K de larga distancia con Dolby Vision, ya disponible por 1.899 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/shiba-inu-reduce-quema-tokens-significa-1307316'>Shiba Inu: ¿por qué se reduce la quema de tokens y qué significa?</a></h4>
-    <a href='https://computerhoy.com/criptos/shiba-inu-reduce-quema-tokens-significa-1307316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/shiba-inu-2610337.jpg?tf=1200x' alt='Shiba Inu: ¿por qué se reduce la quema de tokens y qué significa?' />
+    <h4><a href='https://computerhoy.com/life/grave-error-99-personas-comete-comerse-yogur-1305824'>El grave error que el 99% de las personas comete al comerse un yogur</a></h4>
+    <a href='https://computerhoy.com/life/grave-error-99-personas-comete-comerse-yogur-1305824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/yogur-3138628.jpg?tf=1200x' alt='El grave error que el 99% de las personas comete al comerse un yogur' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/vacuna-inversa-nueva-esperanza-enfermedades-autoinmunes-1307274'>La "vacuna inversa": la nueva esperanza para enfermedades como la esclerosis o la diabetes</a></h4>
-    <a href='https://computerhoy.com/ciencia/vacuna-inversa-nueva-esperanza-enfermedades-autoinmunes-1307274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/vacuna-enfermedades-3138394.jpg?tf=1200x' alt='La "vacuna inversa": la nueva esperanza para enfermedades como la esclerosis o la diabetes' />
+    <h4><a href='https://computerhoy.com/windows/intel-confirma-windows-11-windows-10-tendran-wifi-7-1307326'>Intel confirma que Windows 11 y Windows 10 tendrán WiFi 7</a></h4>
+    <a href='https://computerhoy.com/windows/intel-confirma-windows-11-windows-10-tendran-wifi-7-1307326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/wifi-7-2613799.jpg?tf=1200x' alt='Intel confirma que Windows 11 y Windows 10 tendrán WiFi 7' />
     </a>
 </div>
 
