@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/vacuna-inversa-nueva-esperanza-enfermedades-autoinmunes-1307274'>La "vacuna inversa": la nueva esperanza para enfermedades como la esclerosis o la diabetes</a></h4>
+    <a href='https://computerhoy.com/ciencia/vacuna-inversa-nueva-esperanza-enfermedades-autoinmunes-1307274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/vacuna-enfermedades-3138394.jpg?tf=1200x' alt='La "vacuna inversa": la nueva esperanza para enfermedades como la esclerosis o la diabetes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/xbox-series-x-reinventara-2024-descubre-rediseno-mando-1307270'>La Xbox Series X se reinventará en 2024: descubre su rediseño y su mando</a></h4>
+    <a href='https://computerhoy.com/gaming/xbox-series-x-reinventara-2024-descubre-rediseno-mando-1307270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xbox-series-x-reinventara-2024-descubre-rediseno-mando-3138340.jpg?tf=1200x' alt='La Xbox Series X se reinventará en 2024: descubre su rediseño y su mando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/pagar-tener-x-twitter-ultima-idea-elon-musk-todos-usuarios-1307240'>¿Pagar por tener X (Twitter)? Esta es la última idea de Elon Musk para todos los usuarios</a></h4>
+    <a href='https://computerhoy.com/apps/pagar-tener-x-twitter-ultima-idea-elon-musk-todos-usuarios-1307240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-dueno-twitter-3074252.jpg?tf=1200x' alt='¿Pagar por tener X (Twitter)? Esta es la última idea de Elon Musk para todos los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-tumba-competencia-abre-guerra-precios-solo-172eu-mes-1305550'>Esta VPN tumba a la competencia y abre guerra de precios: desde solo 1,72€ al mes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-tumba-competencia-abre-guerra-precios-solo-172eu-mes-1305550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/atlas-vpn-3135552.jpg?tf=1200x' alt='Esta VPN tumba a la competencia y abre guerra de precios: desde solo 1,72€ al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/puerto-usb-c-sera-quebradero-cabeza-ventaja-muchos-usuarios-1307222'>El puerto USB-C será un quebradero de cabeza más que una ventaja para muchos usuarios</a></h4>
     <a href='https://computerhoy.com/apple/puerto-usb-c-sera-quebradero-cabeza-ventaja-muchos-usuarios-1307222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='El puerto USB-C será un quebradero de cabeza más que una ventaja para muchos usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015'>Estas son las mejores consolas portátiles que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/razer-edge-5g-2844207.jpg?tf=1200x' alt='Estas son las mejores consolas portátiles que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/plegables-motorola-mejor-razr-2022-razr-40-2023-1296318'>Motorola y su dicotomía en plegables baratos: ¿Mejor el modelo RAZR 2022 del año pasado o el RAZR 40 de 2023?</a></h4>
-    <a href='https://computerhoy.com/moviles/plegables-motorola-mejor-razr-2022-razr-40-2023-1296318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/razr-40-3120914.jpg?tf=1200x' alt='Motorola y su dicotomía en plegables baratos: ¿Mejor el modelo RAZR 2022 del año pasado o el RAZR 40 de 2023?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/xiaomi-redmi-note-12-pro-5-caracteristicas-hacen-movil-top-gama-media-1306996'>Xiaomi Redmi Note 12 Pro: 5 características que lo hacen un móvil top en la gama media</a></h4>
-    <a href='https://computerhoy.com/android/xiaomi-redmi-note-12-pro-5-caracteristicas-hacen-movil-top-gama-media-1306996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-note-12-pro-2991936.jpg?tf=1200x' alt='Xiaomi Redmi Note 12 Pro: 5 características que lo hacen un móvil top en la gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-cancela-serie-tiempo-victoria-dinastia-lakers-1307000'>HBO Max saca la tijera y se carga otras de sus series mejor valoradas por la crítica</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/hbo-max-cancela-serie-tiempo-victoria-dinastia-lakers-1307000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hbo-max-saca-tijera-carga-otras-series-muy-bien-valoradas-critica-3138006.jpg?tf=1200x' alt='HBO Max saca la tijera y se carga otras de sus series mejor valoradas por la crítica' />
     </a>
 </div>
 
