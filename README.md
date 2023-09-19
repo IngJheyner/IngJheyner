@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/puerto-usb-c-sera-quebradero-cabeza-ventaja-muchos-usuarios-1307222'>El puerto USB-C será un quebradero de cabeza más que una ventaja para muchos usuarios</a></h4>
+    <a href='https://computerhoy.com/apple/puerto-usb-c-sera-quebradero-cabeza-ventaja-muchos-usuarios-1307222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='El puerto USB-C será un quebradero de cabeza más que una ventaja para muchos usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015'>Estas son las mejores consolas portátiles que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/razer-edge-5g-2844207.jpg?tf=1200x' alt='Estas son las mejores consolas portátiles que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-cancela-serie-tiempo-victoria-dinastia-lakers-1307000'>HBO Max saca la tijera y se carga otras de sus series mejor valoradas por la crítica</a></h4>
     <a href='https://computerhoy.com/entretenimiento/hbo-max-cancela-serie-tiempo-victoria-dinastia-lakers-1307000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hbo-max-saca-tijera-carga-otras-series-muy-bien-valoradas-critica-3138006.jpg?tf=1200x' alt='HBO Max saca la tijera y se carga otras de sus series mejor valoradas por la crítica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fundador-deepmind-anuncia-tercera-fase-inteligencia-artificial-ia-interactiva-1306992'>El fundador de DeepMind anuncia la tercera fase de la Inteligencia Artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fundador-deepmind-anuncia-tercera-fase-inteligencia-artificial-ia-interactiva-1306992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fundador-deepmind-anuncia-tercera-fase-inteligencia-artificial-3137996.jpg?tf=1200x' alt='El fundador de DeepMind anuncia la tercera fase de la Inteligencia Artificial' />
     </a>
 </div>
 
