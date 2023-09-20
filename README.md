@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usb-c-vs-thunderbolt-principales-diferencias-cual-mejor-1305820'>USB-C vs. Thunderbolt: estas son sus principales diferencias, ¿cuál es mejor?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usb-c-vs-thunderbolt-principales-diferencias-cual-mejor-1305820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/usb-c-vs-thunderbolt-estas-son-principales-diferencias-cual-mejor-3136328.jpg?tf=1200x' alt='USB-C vs. Thunderbolt: estas son sus principales diferencias, ¿cuál es mejor?' />
+    <h4><a href='https://computerhoy.com/tecnologia/openai-anuncia-dalle-3-ia-crear-imagenes-integra-chatgpt-1308166'>OpenAI anuncia DALL-E 3, su IA para crear imágenes que ahora se integra en ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-anuncia-dalle-3-ia-crear-imagenes-integra-chatgpt-1308166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/openai-anuncia-dall-3-ia-crear-imagenes-integra-chatgpt-3139892.jpg?tf=1200x' alt='OpenAI anuncia DALL-E 3, su IA para crear imágenes que ahora se integra en ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/nuevas-gafas-echo-frames-amazon-audio-integrado-1308120'>Así son las nuevas Echo Frames de Amazon: audio integrado, Alexa y siete diseños para elegir</a></h4>
-    <a href='https://computerhoy.com/amazon/nuevas-gafas-echo-frames-amazon-audio-integrado-1308120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/son-nueva-echo-frames-amazon-audio-integrado-siete-disenos-elegir-3139782.jpg?tf=1200x' alt='Así son las nuevas Echo Frames de Amazon: audio integrado, Alexa y siete diseños para elegir' />
+    <h4><a href='https://computerhoy.com/hogar/amazon-echo-show-8-primeras-impresiones-alexa-cada-vez-inteligente-1308122'>Amazon Echo Show 8, primeras impresiones: Alexa cada vez es más inteligente y sostenible</a></h4>
+    <a href='https://computerhoy.com/hogar/amazon-echo-show-8-primeras-impresiones-alexa-cada-vez-inteligente-1308122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/echo-show-8-3139854.jpg?tf=1200x' alt='Amazon Echo Show 8, primeras impresiones: Alexa cada vez es más inteligente y sostenible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/signal-anade-proteccion-ordenadores-cuanticos-1308100'>Signal añade una nueva función de seguridad que deja en ridículo a WhatsApp y Telegram</a></h4>
-    <a href='https://computerhoy.com/apps/signal-anade-proteccion-ordenadores-cuanticos-1308100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/signal-2190577.jpg?tf=1200x' alt='Signal añade una nueva función de seguridad que deja en ridículo a WhatsApp y Telegram' />
+    <h4><a href='https://computerhoy.com/prime-day-1308000'>Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos</a></h4>
+    <a href='https://computerhoy.com/prime-day-1308000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazon-prime-octubre-2023-3139450.jpg?tf=1200x' alt='Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/liquidacion-iphone-13-todos-colores-desploman-precio-hay-guerra-tiendas-1307972'>Liquidación en los iPhone 13: todos los colores desploman su precio, y hay guerra entre tiendas</a></h4>
-    <a href='https://computerhoy.com/apple/liquidacion-iphone-13-todos-colores-desploman-precio-hay-guerra-tiendas-1307972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/iphone-13-2776075.jpg?tf=1200x' alt='Liquidación en los iPhone 13: todos los colores desploman su precio, y hay guerra entre tiendas' />
+    <h4><a href='https://computerhoy.com/apps/disney-desactiva-secreto-funcionalidades-acelera-fin-cuentas-compartidas-1308146'>Disney+ desactiva en secreto una de sus funcionalidades y acelera el fin de las cuentas compartidas</a></h4>
+    <a href='https://computerhoy.com/apps/disney-desactiva-secreto-funcionalidades-acelera-fin-cuentas-compartidas-1308146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-3139844.jpg?tf=1200x' alt='Disney+ desactiva en secreto una de sus funcionalidades y acelera el fin de las cuentas compartidas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/primera-vez-recupera-arn-especie-desaparecida-hace-varias-decadas-1307932'>Por primera vez, se recupera ARN de una especie desaparecida hace varias décadas</a></h4>
-    <a href='https://computerhoy.com/ciencia/primera-vez-recupera-arn-especie-desaparecida-hace-varias-decadas-1307932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/primera-vez-recupera-arn-extinto-tigre-tasmania-3139374.jpg?tf=1200x' alt='Por primera vez, se recupera ARN de una especie desaparecida hace varias décadas' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estos-son-mejores-antivirus-windows-prueba-proteccion-mundo-real-1308142'>Estos son los mejores antivirus para Windows en la prueba de protección del mundo real</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estos-son-mejores-antivirus-windows-prueba-proteccion-mundo-real-1308142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/antivirus-adecuado-movil-pc-2202543.jpg?tf=1200x' alt='Estos son los mejores antivirus para Windows en la prueba de protección del mundo real' />
     </a>
 </div>
 
