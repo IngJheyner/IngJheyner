@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/beneficio-oculto-google-maps-puede-hacerte-ahorrar-dinero-1307430'>El beneficio oculto de Google Maps que puede hacerte ahorrar mucho dinero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/beneficio-oculto-google-maps-puede-hacerte-ahorrar-dinero-1307430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg?tf=1200x' alt='El beneficio oculto de Google Maps que puede hacerte ahorrar mucho dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/catador-profesional-cerveza-prueba-cruzcampo-veredicto-no-te-dejara-indiferente-1307952'>Un catador profesional de cerveza prueba la Cruzcampo y su veredicto no te dejará indiferente</a></h4>
+    <a href='https://computerhoy.com/alimentacion/catador-profesional-cerveza-prueba-cruzcampo-veredicto-no-te-dejara-indiferente-1307952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/catador-profesional-cerveza-prueba-cruzcampo-veredicto-no-te-dejara-indiferente-3139414.jpg?tf=1200x' alt='Un catador profesional de cerveza prueba la Cruzcampo y su veredicto no te dejará indiferente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-apagar-completamente-android-auto-1307576'>Cómo apagar completamente Android Auto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-apagar-completamente-android-auto-1307576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-apagar-completamente-android-auto-3138940.jpg?tf=1200x' alt='Cómo apagar completamente Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/estas-pensando-comprar-android-tv-box-mejor-esperate-poco-1307992'>Si estás pensando en comprar un Android TV Box, mejor espérate un poco</a></h4>
+    <a href='https://computerhoy.com/android/estas-pensando-comprar-android-tv-box-mejor-esperate-poco-1307992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chromecast-google-tv-solo-5529eu-2719311.jpg?tf=1200x' alt='Si estás pensando en comprar un Android TV Box, mejor espérate un poco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/neuralink-startup-elon-musk-busca-humanos-probar-chip-cerebral-te-apuntas-1307942'>Neuralink, la startup de Elon Musk, busca humanos para probar su chip cerebral, ¿te apuntas?</a></h4>
     <a href='https://computerhoy.com/tecnologia/neuralink-startup-elon-musk-busca-humanos-probar-chip-cerebral-te-apuntas-1307942' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/neuralink-elon-musk-3139386.jpg?tf=1200x' alt='Neuralink, la startup de Elon Musk, busca humanos para probar su chip cerebral, ¿te apuntas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-wallapop-eres-novato-nueva-estafa-podria-robar-todos-datos-contrasenas-1307934'>Cuidado con Wallapop si eres novato: esta nueva estafa podría robar todos tus datos y contraseñas </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-wallapop-eres-novato-nueva-estafa-podria-robar-todos-datos-contrasenas-1307934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wallapop-estafa-3139346.jpg?tf=1200x' alt='Cuidado con Wallapop si eres novato: esta nueva estafa podría robar todos tus datos y contraseñas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/secretos-shiba-inu-como-logro-aumento-indice-adopcion-precedentes-1307916'>Los secretos del Shiba Inu: cómo logró un aumento en el índice de adopción sin precedentes</a></h4>
-    <a href='https://computerhoy.com/criptos/secretos-shiba-inu-como-logro-aumento-indice-adopcion-precedentes-1307916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/shiba-inu-2578423.jpg?tf=1200x' alt='Los secretos del Shiba Inu: cómo logró un aumento en el índice de adopción sin precedentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-probando-nueva-funcion-te-permitira-hacer-compras-reservar-vuelos-app-1307882'>WhatsApp está probando una nueva función que te permitirá hacer compras o reservar vuelos en la app</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-probando-nueva-funcion-te-permitira-hacer-compras-reservar-vuelos-app-1307882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/whatsapp-3139294.jpg?tf=1200x' alt='WhatsApp está probando una nueva función que te permitirá hacer compras o reservar vuelos en la app' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/algo-arrasan-ventas-estos-auriculares-xiaomi-son-baratisimos-muy-pintones-1307878'>Por algo arrasan en ventas: estos auriculares Xiaomi son baratísimos y muy pintones</a></h4>
-    <a href='https://computerhoy.com/audio/algo-arrasan-ventas-estos-auriculares-xiaomi-son-baratisimos-muy-pintones-1307878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-buds-4-lite-3062728.jpg?tf=1200x' alt='Por algo arrasan en ventas: estos auriculares Xiaomi son baratísimos y muy pintones' />
     </a>
 </div>
 
