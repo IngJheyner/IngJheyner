@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/tormentas-solares-han-destruido-200-satelites-starlink-dos-meses-1307772'>Las tormentas solares han destruido más de 200 satélites de Starlink en dos meses</a></h4>
+    <a href='https://computerhoy.com/internet/tormentas-solares-han-destruido-200-satelites-starlink-dos-meses-1307772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tormentas-solares-han-incinerado-200-satelites-starlink-dos-meses-3139116.jpg?tf=1200x' alt='Las tormentas solares han destruido más de 200 satélites de Starlink en dos meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/electrodomesticos-xiaomi-cocina-estos-son-mejores-puedes-comprar-1307380'>Electrodomésticos Xiaomi para tu cocina: estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/hogar/electrodomesticos-xiaomi-cocina-estos-son-mejores-puedes-comprar-1307380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cocina-xiaomi-3138518.jpg?tf=1200x' alt='Electrodomésticos Xiaomi para tu cocina: estos son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/disney-colorea-pelicula-marvel-blanco-negro-maldicion-hombre-lobo-1307578'>A Disney+ no le va lo clásico: colorea una película de Marvel en blanco y negro</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-colorea-pelicula-marvel-blanco-negro-maldicion-hombre-lobo-1307578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-no-va-clasico-colorea-pelicula-marvel-blanco-negro-3138936.jpg?tf=1200x' alt='A Disney+ no le va lo clásico: colorea una película de Marvel en blanco y negro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/nueva-especie-humana-encuentran-mandibula-300000-anos-1307522'>¿Una nueva especie humana? Encuentran una mandíbula en China de 300.000 años con rasgos modernos</a></h4>
     <a href='https://computerhoy.com/ciencia/nueva-especie-humana-encuentran-mandibula-300000-anos-1307522' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nueva-especie-humana-encuentran-mandibula-china-300000-anos-rasgos-modernos-3138818.jpg?tf=1200x' alt='¿Una nueva especie humana? Encuentran una mandíbula en China de 300.000 años con rasgos modernos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/bard-chatbot-ya-puede-conectarse-aplicaciones-google-1307536'>Bard, el chatbot de Google, ya puede conectarse con Gmail, Docs, Drive, Google Maps o YouTube</a></h4>
-    <a href='https://computerhoy.com/google/bard-chatbot-ya-puede-conectarse-aplicaciones-google-1307536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bard-chatbot-google-ya-puede-conectarse-gmail-docs-drive-google-maps-youtube-3138860.jpg?tf=1200x' alt='Bard, el chatbot de Google, ya puede conectarse con Gmail, Docs, Drive, Google Maps o YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tienes-gato-oferta-amazon-te-interesa-pero-eso-prepara-cartera-1306774'>Si tienes gato, esta oferta de Amazon te interesa, pero eso sí: prepara la cartera</a></h4>
-    <a href='https://computerhoy.com/life/tienes-gato-oferta-amazon-te-interesa-pero-eso-prepara-cartera-1306774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/petkit-pura-max-3137606.jpg?tf=1200x' alt='Si tienes gato, esta oferta de Amazon te interesa, pero eso sí: prepara la cartera' />
     </a>
 </div>
 
