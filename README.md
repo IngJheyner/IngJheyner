@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/redmi-pad-analisis-opinion-1302554'>Redmi Pad SE: tablet básica por menos de 200 euros que, aun así, te puede sorprender</a></h4>
-    <a href='https://computerhoy.com/analisis/redmi-pad-analisis-opinion-1302554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/redmi-pad-3130270.jpg?tf=1200x' alt='Redmi Pad SE: tablet básica por menos de 200 euros que, aun así, te puede sorprender' />
+    <h4><a href='https://computerhoy.com/tv/crean-netflix-canales-television-gratis-acabar-iptv-piratas-1307830'>Crean un Netflix de canales de televisión gratis para acabar con las IPTV piratas</a></h4>
+    <a href='https://computerhoy.com/tv/crean-netflix-canales-television-gratis-acabar-iptv-piratas-1307830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iptv-piratas-3139196.jpg?tf=1200x' alt='Crean un Netflix de canales de televisión gratis para acabar con las IPTV piratas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/tormentas-solares-han-destruido-200-satelites-starlink-dos-meses-1307772'>Las tormentas solares han destruido más de 200 satélites de Starlink en dos meses</a></h4>
-    <a href='https://computerhoy.com/internet/tormentas-solares-han-destruido-200-satelites-starlink-dos-meses-1307772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tormentas-solares-han-incinerado-200-satelites-starlink-dos-meses-3139116.jpg?tf=1200x' alt='Las tormentas solares han destruido más de 200 satélites de Starlink en dos meses' />
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-supera-ipad-innovacion-tambien-precio-ahora-rebajada-1307236'>Esta tablet supera al iPad en innovación y también en precio, y ahora está rebajada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-supera-ipad-innovacion-tambien-precio-ahora-rebajada-1307236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-matepad-paper-3066750.jpg?tf=1200x' alt='Esta tablet supera al iPad en innovación y también en precio, y ahora está rebajada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/electrodomesticos-xiaomi-cocina-estos-son-mejores-puedes-comprar-1307380'>Electrodomésticos Xiaomi para tu cocina: estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/hogar/electrodomesticos-xiaomi-cocina-estos-son-mejores-puedes-comprar-1307380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cocina-xiaomi-3138518.jpg?tf=1200x' alt='Electrodomésticos Xiaomi para tu cocina: estos son los mejores que puedes comprar' />
+    <h4><a href='https://computerhoy.com/espacio/jwst-podria-desvelar-misterio-como-expande-universo-1307812'>Este descubrimiento del James Webb podría ser clave para resolver el misterio de la expansión del universo</a></h4>
+    <a href='https://computerhoy.com/espacio/jwst-podria-desvelar-misterio-como-expande-universo-1307812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/universo-3139168.jpg?tf=1200x' alt='Este descubrimiento del James Webb podría ser clave para resolver el misterio de la expansión del universo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-colorea-pelicula-marvel-blanco-negro-maldicion-hombre-lobo-1307578'>A Disney+ no le va lo clásico: colorea una película de Marvel en blanco y negro</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-colorea-pelicula-marvel-blanco-negro-maldicion-hombre-lobo-1307578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-no-va-clasico-colorea-pelicula-marvel-blanco-negro-3138936.jpg?tf=1200x' alt='A Disney+ no le va lo clásico: colorea una película de Marvel en blanco y negro' />
+    <h4><a href='https://computerhoy.com/tv/estos-televisores-son-eficientes-energeticamente-te-haran-ahorrar-factura-1307786'>Estos televisores son eficientes energéticamente y te harán ahorrar en la factura</a></h4>
+    <a href='https://computerhoy.com/tv/estos-televisores-son-eficientes-energeticamente-te-haran-ahorrar-factura-1307786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/samsung-smart-tv-3061912.jpg?tf=1200x' alt='Estos televisores son eficientes energéticamente y te harán ahorrar en la factura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/namx-coche-capsulas-hidrogeno-desafiar-coche-electrico-1307554'>Namx, el coche con cápsulas de hidrógeno para desafiar al coche eléctrico</a></h4>
-    <a href='https://computerhoy.com/motor/namx-coche-capsulas-hidrogeno-desafiar-coche-electrico-1307554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/namx-coche-capsulas-hidrogeno-desafiar-coche-electrico-3138920.jpg?tf=1200x' alt='Namx, el coche con cápsulas de hidrógeno para desafiar al coche eléctrico' />
+    <h4><a href='https://computerhoy.com/energia/petrolera-importante-china-rinde-coche-electrico-1300378'>La petrolera más importante de China hace un anuncio histórico que confirma que el coche eléctrico ha llegado para quedarse</a></h4>
+    <a href='https://computerhoy.com/energia/petrolera-importante-china-rinde-coche-electrico-1300378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/petrolera-importante-china-hace-anuncio-historico-confirma-coche-electrico-ha-llegado-quedarse-3126926.jpg?tf=1200x' alt='La petrolera más importante de China hace un anuncio histórico que confirma que el coche eléctrico ha llegado para quedarse' />
     </a>
 </div>
 
