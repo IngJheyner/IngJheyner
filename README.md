@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-colorea-pelicula-marvel-blanco-negro-maldicion-hombre-lobo-1307578'>A Disney+ no le va lo clásico: colorea una película de Marvel en blanco y negro</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-colorea-pelicula-marvel-blanco-negro-maldicion-hombre-lobo-1307578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-no-va-clasico-colorea-pelicula-marvel-blanco-negro-3138936.jpg?tf=1200x' alt='A Disney+ no le va lo clásico: colorea una película de Marvel en blanco y negro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/namx-coche-capsulas-hidrogeno-desafiar-coche-electrico-1307554'>Namx, el coche con cápsulas de hidrógeno para desafiar al coche eléctrico</a></h4>
     <a href='https://computerhoy.com/motor/namx-coche-capsulas-hidrogeno-desafiar-coche-electrico-1307554' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/namx-coche-capsulas-hidrogeno-desafiar-coche-electrico-3138920.jpg?tf=1200x' alt='Namx, el coche con cápsulas de hidrógeno para desafiar al coche eléctrico' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/tienes-gato-oferta-amazon-te-interesa-pero-eso-prepara-cartera-1306774'>Si tienes gato, esta oferta de Amazon te interesa, pero eso sí: prepara la cartera</a></h4>
     <a href='https://computerhoy.com/life/tienes-gato-oferta-amazon-te-interesa-pero-eso-prepara-cartera-1306774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/petkit-pura-max-3137606.jpg?tf=1200x' alt='Si tienes gato, esta oferta de Amazon te interesa, pero eso sí: prepara la cartera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-lanzara-nuevo-procesador-meteor-lake-14-diciembre-1307542'>Intel lanzará el nuevo procesador basado en chiplets, Meteor Lake, el 14 de diciembre </a></h4>
-    <a href='https://computerhoy.com/pc/intel-lanzara-nuevo-procesador-meteor-lake-14-diciembre-1307542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/intel-lanzara-nuevo-procesador-basado-chiplets-meteor-lake-14-diciembre-3138874.jpg?tf=1200x' alt='Intel lanzará el nuevo procesador basado en chiplets, Meteor Lake, el 14 de diciembre ' />
     </a>
 </div>
 
