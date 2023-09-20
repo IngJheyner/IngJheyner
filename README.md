@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/usb-c-vs-thunderbolt-principales-diferencias-cual-mejor-1305820'>USB-C vs. Thunderbolt: estas son sus principales diferencias, ¿cuál es mejor?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usb-c-vs-thunderbolt-principales-diferencias-cual-mejor-1305820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/usb-c-vs-thunderbolt-estas-son-principales-diferencias-cual-mejor-3136328.jpg?tf=1200x' alt='USB-C vs. Thunderbolt: estas son sus principales diferencias, ¿cuál es mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/nuevas-gafas-echo-frames-amazon-audio-integrado-1308120'>Así son las nuevas Echo Frames de Amazon: audio integrado, Alexa y siete diseños para elegir</a></h4>
+    <a href='https://computerhoy.com/amazon/nuevas-gafas-echo-frames-amazon-audio-integrado-1308120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/son-nueva-echo-frames-amazon-audio-integrado-siete-disenos-elegir-3139782.jpg?tf=1200x' alt='Así son las nuevas Echo Frames de Amazon: audio integrado, Alexa y siete diseños para elegir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/signal-anade-proteccion-ordenadores-cuanticos-1308100'>Signal añade una nueva función de seguridad que deja en ridículo a WhatsApp y Telegram</a></h4>
     <a href='https://computerhoy.com/apps/signal-anade-proteccion-ordenadores-cuanticos-1308100' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/signal-2190577.jpg?tf=1200x' alt='Signal añade una nueva función de seguridad que deja en ridículo a WhatsApp y Telegram' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/primera-vez-recupera-arn-especie-desaparecida-hace-varias-decadas-1307932'>Por primera vez, se recupera ARN de una especie desaparecida hace varias décadas</a></h4>
     <a href='https://computerhoy.com/ciencia/primera-vez-recupera-arn-especie-desaparecida-hace-varias-decadas-1307932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/primera-vez-recupera-arn-extinto-tigre-tasmania-3139374.jpg?tf=1200x' alt='Por primera vez, se recupera ARN de una especie desaparecida hace varias décadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/nuevos-dispositivos-amazon-fire-stick-tv-echo-router-eero-max-wifi-7-1308074'>Amazon presenta nuevos dispositivos: Fire Stick TV 4K Max, Echo Hub, Show 9 y eero Max 7</a></h4>
-    <a href='https://computerhoy.com/amazon/nuevos-dispositivos-amazon-fire-stick-tv-echo-router-eero-max-wifi-7-1308074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nuevos-dispositivos-amazon-fire-stick-tv-echo-router-eero-max-wifi-7-3139694.jpg?tf=1200x' alt='Amazon presenta nuevos dispositivos: Fire Stick TV 4K Max, Echo Hub, Show 9 y eero Max 7' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/legado-steve-jobs-frases-inspiradoras-vida-creatividad-1307568'>El legado de Steve Jobs, sus frases más inspiradoras sobre la vida y la creatividad</a></h4>
-    <a href='https://computerhoy.com/apple/legado-steve-jobs-frases-inspiradoras-vida-creatividad-1307568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2011/10/105475-siempre-steve-jobs.jpg?tf=1200x' alt='El legado de Steve Jobs, sus frases más inspiradoras sobre la vida y la creatividad' />
     </a>
 </div>
 
