@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/crean-netflix-canales-television-gratis-acabar-iptv-piratas-1307830'>Crean un Netflix de canales de televisión gratis para acabar con las IPTV piratas</a></h4>
-    <a href='https://computerhoy.com/tv/crean-netflix-canales-television-gratis-acabar-iptv-piratas-1307830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iptv-piratas-3139196.jpg?tf=1200x' alt='Crean un Netflix de canales de televisión gratis para acabar con las IPTV piratas' />
+    <h4><a href='https://computerhoy.com/tecnologia/neuralink-startup-elon-musk-busca-humanos-probar-chip-cerebral-te-apuntas-1307942'>Neuralink, la startup de Elon Musk, busca humanos para probar su chip cerebral, ¿te apuntas?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/neuralink-startup-elon-musk-busca-humanos-probar-chip-cerebral-te-apuntas-1307942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/neuralink-elon-musk-3139386.jpg?tf=1200x' alt='Neuralink, la startup de Elon Musk, busca humanos para probar su chip cerebral, ¿te apuntas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-supera-ipad-innovacion-tambien-precio-ahora-rebajada-1307236'>Esta tablet supera al iPad en innovación y también en precio, y ahora está rebajada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-supera-ipad-innovacion-tambien-precio-ahora-rebajada-1307236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-matepad-paper-3066750.jpg?tf=1200x' alt='Esta tablet supera al iPad en innovación y también en precio, y ahora está rebajada' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-wallapop-eres-novato-nueva-estafa-podria-robar-todos-datos-contrasenas-1307934'>Cuidado con Wallapop si eres novato: esta nueva estafa podría robar todos tus datos y contraseñas </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-wallapop-eres-novato-nueva-estafa-podria-robar-todos-datos-contrasenas-1307934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wallapop-estafa-3139346.jpg?tf=1200x' alt='Cuidado con Wallapop si eres novato: esta nueva estafa podría robar todos tus datos y contraseñas ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/jwst-podria-desvelar-misterio-como-expande-universo-1307812'>Este descubrimiento del James Webb podría ser clave para resolver el misterio de la expansión del universo</a></h4>
-    <a href='https://computerhoy.com/espacio/jwst-podria-desvelar-misterio-como-expande-universo-1307812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/universo-3139168.jpg?tf=1200x' alt='Este descubrimiento del James Webb podría ser clave para resolver el misterio de la expansión del universo' />
+    <h4><a href='https://computerhoy.com/criptos/secretos-shiba-inu-como-logro-aumento-indice-adopcion-precedentes-1307916'>Los secretos del Shiba Inu: cómo logró un aumento en el índice de adopción sin precedentes</a></h4>
+    <a href='https://computerhoy.com/criptos/secretos-shiba-inu-como-logro-aumento-indice-adopcion-precedentes-1307916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/shiba-inu-2578423.jpg?tf=1200x' alt='Los secretos del Shiba Inu: cómo logró un aumento en el índice de adopción sin precedentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/estos-televisores-son-eficientes-energeticamente-te-haran-ahorrar-factura-1307786'>Estos televisores son eficientes energéticamente y te harán ahorrar en la factura</a></h4>
-    <a href='https://computerhoy.com/tv/estos-televisores-son-eficientes-energeticamente-te-haran-ahorrar-factura-1307786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/samsung-smart-tv-3061912.jpg?tf=1200x' alt='Estos televisores son eficientes energéticamente y te harán ahorrar en la factura' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-probando-nueva-funcion-te-permitira-hacer-compras-reservar-vuelos-app-1307882'>WhatsApp está probando una nueva función que te permitirá hacer compras o reservar vuelos en la app</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-probando-nueva-funcion-te-permitira-hacer-compras-reservar-vuelos-app-1307882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/whatsapp-3139294.jpg?tf=1200x' alt='WhatsApp está probando una nueva función que te permitirá hacer compras o reservar vuelos en la app' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/petrolera-importante-china-rinde-coche-electrico-1300378'>La petrolera más importante de China hace un anuncio histórico que confirma que el coche eléctrico ha llegado para quedarse</a></h4>
-    <a href='https://computerhoy.com/energia/petrolera-importante-china-rinde-coche-electrico-1300378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/petrolera-importante-china-hace-anuncio-historico-confirma-coche-electrico-ha-llegado-quedarse-3126926.jpg?tf=1200x' alt='La petrolera más importante de China hace un anuncio histórico que confirma que el coche eléctrico ha llegado para quedarse' />
+    <h4><a href='https://computerhoy.com/audio/algo-arrasan-ventas-estos-auriculares-xiaomi-son-baratisimos-muy-pintones-1307878'>Por algo arrasan en ventas: estos auriculares Xiaomi son baratísimos y muy pintones</a></h4>
+    <a href='https://computerhoy.com/audio/algo-arrasan-ventas-estos-auriculares-xiaomi-son-baratisimos-muy-pintones-1307878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-buds-4-lite-3062728.jpg?tf=1200x' alt='Por algo arrasan en ventas: estos auriculares Xiaomi son baratísimos y muy pintones' />
     </a>
 </div>
 
