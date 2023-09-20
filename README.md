@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/redmi-pad-analisis-opinion-1302554'>Redmi Pad SE: tablet básica por menos de 200 euros que, aun así, te puede sorprender</a></h4>
+    <a href='https://computerhoy.com/analisis/redmi-pad-analisis-opinion-1302554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/redmi-pad-3130270.jpg?tf=1200x' alt='Redmi Pad SE: tablet básica por menos de 200 euros que, aun así, te puede sorprender' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/tormentas-solares-han-destruido-200-satelites-starlink-dos-meses-1307772'>Las tormentas solares han destruido más de 200 satélites de Starlink en dos meses</a></h4>
     <a href='https://computerhoy.com/internet/tormentas-solares-han-destruido-200-satelites-starlink-dos-meses-1307772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tormentas-solares-han-incinerado-200-satelites-starlink-dos-meses-3139116.jpg?tf=1200x' alt='Las tormentas solares han destruido más de 200 satélites de Starlink en dos meses' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/namx-coche-capsulas-hidrogeno-desafiar-coche-electrico-1307554'>Namx, el coche con cápsulas de hidrógeno para desafiar al coche eléctrico</a></h4>
     <a href='https://computerhoy.com/motor/namx-coche-capsulas-hidrogeno-desafiar-coche-electrico-1307554' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/namx-coche-capsulas-hidrogeno-desafiar-coche-electrico-3138920.jpg?tf=1200x' alt='Namx, el coche con cápsulas de hidrógeno para desafiar al coche eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nueva-especie-humana-encuentran-mandibula-300000-anos-1307522'>¿Una nueva especie humana? Encuentran una mandíbula en China de 300.000 años con rasgos modernos</a></h4>
-    <a href='https://computerhoy.com/ciencia/nueva-especie-humana-encuentran-mandibula-300000-anos-1307522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nueva-especie-humana-encuentran-mandibula-china-300000-anos-rasgos-modernos-3138818.jpg?tf=1200x' alt='¿Una nueva especie humana? Encuentran una mandíbula en China de 300.000 años con rasgos modernos' />
     </a>
 </div>
 
