@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/beneficio-oculto-google-maps-puede-hacerte-ahorrar-dinero-1307430'>El beneficio oculto de Google Maps que puede hacerte ahorrar mucho dinero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/beneficio-oculto-google-maps-puede-hacerte-ahorrar-dinero-1307430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/trucos-ocultos-google-maps-android-te-haran-vida-facil-2530159.jpg?tf=1200x' alt='El beneficio oculto de Google Maps que puede hacerte ahorrar mucho dinero' />
+    <h4><a href='https://computerhoy.com/apps/signal-anade-proteccion-ordenadores-cuanticos-1308100'>Signal añade una nueva función de seguridad que deja en ridículo a WhatsApp y Telegram</a></h4>
+    <a href='https://computerhoy.com/apps/signal-anade-proteccion-ordenadores-cuanticos-1308100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/signal-2190577.jpg?tf=1200x' alt='Signal añade una nueva función de seguridad que deja en ridículo a WhatsApp y Telegram' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/catador-profesional-cerveza-prueba-cruzcampo-veredicto-no-te-dejara-indiferente-1307952'>Un catador profesional de cerveza prueba la Cruzcampo y su veredicto no te dejará indiferente</a></h4>
-    <a href='https://computerhoy.com/alimentacion/catador-profesional-cerveza-prueba-cruzcampo-veredicto-no-te-dejara-indiferente-1307952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/catador-profesional-cerveza-prueba-cruzcampo-veredicto-no-te-dejara-indiferente-3139414.jpg?tf=1200x' alt='Un catador profesional de cerveza prueba la Cruzcampo y su veredicto no te dejará indiferente' />
+    <h4><a href='https://computerhoy.com/apple/liquidacion-iphone-13-todos-colores-desploman-precio-hay-guerra-tiendas-1307972'>Liquidación en los iPhone 13: todos los colores desploman su precio, y hay guerra entre tiendas</a></h4>
+    <a href='https://computerhoy.com/apple/liquidacion-iphone-13-todos-colores-desploman-precio-hay-guerra-tiendas-1307972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/iphone-13-2776075.jpg?tf=1200x' alt='Liquidación en los iPhone 13: todos los colores desploman su precio, y hay guerra entre tiendas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-apagar-completamente-android-auto-1307576'>Cómo apagar completamente Android Auto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-apagar-completamente-android-auto-1307576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-apagar-completamente-android-auto-3138940.jpg?tf=1200x' alt='Cómo apagar completamente Android Auto' />
+    <h4><a href='https://computerhoy.com/ciencia/primera-vez-recupera-arn-especie-desaparecida-hace-varias-decadas-1307932'>Por primera vez, se recupera ARN de una especie desaparecida hace varias décadas</a></h4>
+    <a href='https://computerhoy.com/ciencia/primera-vez-recupera-arn-especie-desaparecida-hace-varias-decadas-1307932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/primera-vez-recupera-arn-extinto-tigre-tasmania-3139374.jpg?tf=1200x' alt='Por primera vez, se recupera ARN de una especie desaparecida hace varias décadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/estas-pensando-comprar-android-tv-box-mejor-esperate-poco-1307992'>Si estás pensando en comprar un Android TV Box, mejor espérate un poco</a></h4>
-    <a href='https://computerhoy.com/android/estas-pensando-comprar-android-tv-box-mejor-esperate-poco-1307992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/chromecast-google-tv-solo-5529eu-2719311.jpg?tf=1200x' alt='Si estás pensando en comprar un Android TV Box, mejor espérate un poco' />
+    <h4><a href='https://computerhoy.com/amazon/nuevos-dispositivos-amazon-fire-stick-tv-echo-router-eero-max-wifi-7-1308074'>Amazon presenta nuevos dispositivos: Fire Stick TV 4K Max, Echo Hub, Show 9 y eero Max 7</a></h4>
+    <a href='https://computerhoy.com/amazon/nuevos-dispositivos-amazon-fire-stick-tv-echo-router-eero-max-wifi-7-1308074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nuevos-dispositivos-amazon-fire-stick-tv-echo-router-eero-max-wifi-7-3139694.jpg?tf=1200x' alt='Amazon presenta nuevos dispositivos: Fire Stick TV 4K Max, Echo Hub, Show 9 y eero Max 7' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/neuralink-startup-elon-musk-busca-humanos-probar-chip-cerebral-te-apuntas-1307942'>Neuralink, la startup de Elon Musk, busca humanos para probar su chip cerebral, ¿te apuntas?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/neuralink-startup-elon-musk-busca-humanos-probar-chip-cerebral-te-apuntas-1307942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/neuralink-elon-musk-3139386.jpg?tf=1200x' alt='Neuralink, la startup de Elon Musk, busca humanos para probar su chip cerebral, ¿te apuntas?' />
+    <h4><a href='https://computerhoy.com/apple/legado-steve-jobs-frases-inspiradoras-vida-creatividad-1307568'>El legado de Steve Jobs, sus frases más inspiradoras sobre la vida y la creatividad</a></h4>
+    <a href='https://computerhoy.com/apple/legado-steve-jobs-frases-inspiradoras-vida-creatividad-1307568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2011/10/105475-siempre-steve-jobs.jpg?tf=1200x' alt='El legado de Steve Jobs, sus frases más inspiradoras sobre la vida y la creatividad' />
     </a>
 </div>
 
