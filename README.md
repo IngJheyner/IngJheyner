@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/baterias-coche-electrico-10-minutos-conseguir-80-carga-modificacion-1308040'>Nueva mejora para las baterías del coche eléctrico: solo 10 minutos para conseguir 80% de carga con una simple modificación</a></h4>
-    <a href='https://computerhoy.com/motor/baterias-coche-electrico-10-minutos-conseguir-80-carga-modificacion-1308040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cargador-coche-electrico-3108894.jpg?tf=1200x' alt='Nueva mejora para las baterías del coche eléctrico: solo 10 minutos para conseguir 80% de carga con una simple modificación' />
+    <h4><a href='https://computerhoy.com/ciencia/encuentran-madera-tallada-mas-antigua-mundo-africa-1308734'>En busca de la Edad de Madera: encuentran la madera tallada más antigua del mundo en África</a></h4>
+    <a href='https://computerhoy.com/ciencia/encuentran-madera-tallada-mas-antigua-mundo-africa-1308734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/busca-edad-madera-encuentran-madera-tallada-antigua-mundo-africa-3140868.jpg?tf=1200x' alt='En busca de la Edad de Madera: encuentran la madera tallada más antigua del mundo en África' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-harvard-revelan-5-frases-usadas-manipuladores-1302230'>Científicos de Harvard revelan las 5 frases más usadas por los manipuladores</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-harvard-revelan-5-frases-usadas-manipuladores-1302230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cientificos-harvard-revelan-5-frases-usadas-manipuladores-3129894.jpg?tf=1200x' alt='Científicos de Harvard revelan las 5 frases más usadas por los manipuladores' />
+    <h4><a href='https://computerhoy.com/espacio/james-webb-nasa-captura-impresionante-fotografia-sable-luz-espacial-1308746'>James Webb de la NASA captura una impresionante fotografía de un “sable de luz” espacial</a></h4>
+    <a href='https://computerhoy.com/espacio/james-webb-nasa-captura-impresionante-fotografia-sable-luz-espacial-1308746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/herbig-haro-211-hh-211-3140922.jpg?tf=1200x' alt='James Webb de la NASA captura una impresionante fotografía de un “sable de luz” espacial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-ver-gratis-canales-tdt-espana-movil-instalar-nada-1308014'>Cómo ver gratis canales de TDT de España y resto del mundo en tu móvil sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-ver-gratis-canales-tdt-espana-movil-instalar-nada-1308014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-gratis-canales-tdt-espana-resto-mundo-movil-instalar-nada-3139522.jpg?tf=1200x' alt='Cómo ver gratis canales de TDT de España y resto del mundo en tu móvil sin instalar nada' />
+    <h4><a href='https://computerhoy.com/ciencia/diarrea-sangre-paralisis-edema-cerebral-monos-neuralink-elon-musk-1308696'>Diarrea con sangre, parálisis parcial y edema cerebral, así habrían sido sacrificados los monos con los implantes Neuralink de Elon Musk</a></h4>
+    <a href='https://computerhoy.com/ciencia/diarrea-sangre-paralisis-edema-cerebral-monos-neuralink-elon-musk-1308696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/neuralink-experimento-pager-mono-2292609.jpg?tf=1200x' alt='Diarrea con sangre, parálisis parcial y edema cerebral, así habrían sido sacrificados los monos con los implantes Neuralink de Elon Musk' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/alemania-pone-marcha-jornada-laboral-cuatro-dias-sistema-100-80-100-1308548'>Alemania se suma a la lista de países con jornada laboral de cuatro días con el sistema 100-80-100</a></h4>
-    <a href='https://computerhoy.com/industria/alemania-pone-marcha-jornada-laboral-cuatro-dias-sistema-100-80-100-1308548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/alemania-jornada-laboral-3140432.jpg?tf=1200x' alt='Alemania se suma a la lista de países con jornada laboral de cuatro días con el sistema 100-80-100' />
+    <h4><a href='https://computerhoy.com/amazon/compra-pale-devoluciones-amazon-600-euros-gana-seis-veces-mas-1308722'>Compra un palé de devoluciones de Amazon por 600 euros, y gana seis veces más</a></h4>
+    <a href='https://computerhoy.com/amazon/compra-pale-devoluciones-amazon-600-euros-gana-seis-veces-mas-1308722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/compra-pale-devoluciones-amazon-600-euros-gana-seis-veces-3140688.jpg?tf=1200x' alt='Compra un palé de devoluciones de Amazon por 600 euros, y gana seis veces más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquida-apple-watch-ultra-apenas-semana-despues-presentacion-sucesor-1308488'>Amazon liquida el Apple Watch Ultra apenas una semana después de la presentación de su sucesor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-liquida-apple-watch-ultra-apenas-semana-despues-presentacion-sucesor-1308488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3086868.jpg?tf=1200x' alt='Amazon liquida el Apple Watch Ultra apenas una semana después de la presentación de su sucesor' />
+    <h4><a href='https://computerhoy.com/motor/frio-calor-estudio-desmonta-mito-coches-electricos-1308624'>¿Frío o calor? Un estudio desmonta uno de los grandes mitos de los coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/motor/frio-calor-estudio-desmonta-mito-coches-electricos-1308624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/frio-calor-estudio-desmonta-grandes-mitos-coches-electricos-3140662.jpg?tf=1200x' alt='¿Frío o calor? Un estudio desmonta uno de los grandes mitos de los coches eléctricos' />
     </a>
 </div>
 
