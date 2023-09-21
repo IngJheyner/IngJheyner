@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/encuentran-madera-tallada-mas-antigua-mundo-africa-1308734'>En busca de la Edad de Madera: encuentran la madera tallada más antigua del mundo en África</a></h4>
-    <a href='https://computerhoy.com/ciencia/encuentran-madera-tallada-mas-antigua-mundo-africa-1308734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/busca-edad-madera-encuentran-madera-tallada-antigua-mundo-africa-3140868.jpg?tf=1200x' alt='En busca de la Edad de Madera: encuentran la madera tallada más antigua del mundo en África' />
+    <h4><a href='https://computerhoy.com/tecnologia/proyecto-gutenberg-lanza-5000-audiolibros-gratuitos-creados-ia-1308778'>Proyecto Gutenberg lanza 5.000 audiolibros gratuitos creados con IA, pronto podrás crearlos tú con tu voz</a></h4>
+    <a href='https://computerhoy.com/tecnologia/proyecto-gutenberg-lanza-5000-audiolibros-gratuitos-creados-ia-1308778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/proyecto-gutenberg-lanza-5000-audiolibros-gratuitos-creados-ia-pronto-podras-crear-voz-3140966.jpg?tf=1200x' alt='Proyecto Gutenberg lanza 5.000 audiolibros gratuitos creados con IA, pronto podrás crearlos tú con tu voz' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/james-webb-nasa-captura-impresionante-fotografia-sable-luz-espacial-1308746'>James Webb de la NASA captura una impresionante fotografía de un “sable de luz” espacial</a></h4>
-    <a href='https://computerhoy.com/espacio/james-webb-nasa-captura-impresionante-fotografia-sable-luz-espacial-1308746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/herbig-haro-211-hh-211-3140922.jpg?tf=1200x' alt='James Webb de la NASA captura una impresionante fotografía de un “sable de luz” espacial' />
+    <h4><a href='https://computerhoy.com/life/compra-cuadro-3-euros-resulta-ser-obra-valorada-miles-euros-1308764'>Compra un cuadro por 3 euros, lo enseña en redes, y resulta ser una obra valorada en miles de euros</a></h4>
+    <a href='https://computerhoy.com/life/compra-cuadro-3-euros-resulta-ser-obra-valorada-miles-euros-1308764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/compra-cuadro-3-euros-ensena-redes-resulta-ser-obra-valorada-miles-euros-3140980.jpg?tf=1200x' alt='Compra un cuadro por 3 euros, lo enseña en redes, y resulta ser una obra valorada en miles de euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/diarrea-sangre-paralisis-edema-cerebral-monos-neuralink-elon-musk-1308696'>Diarrea con sangre, parálisis parcial y edema cerebral, así habrían sido sacrificados los monos con los implantes Neuralink de Elon Musk</a></h4>
-    <a href='https://computerhoy.com/ciencia/diarrea-sangre-paralisis-edema-cerebral-monos-neuralink-elon-musk-1308696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/neuralink-experimento-pager-mono-2292609.jpg?tf=1200x' alt='Diarrea con sangre, parálisis parcial y edema cerebral, así habrían sido sacrificados los monos con los implantes Neuralink de Elon Musk' />
+    <h4><a href='https://computerhoy.com/life/mueble-moda-tiene-version-made-amazon-barata-marca-moda-1307866'>Este mueble de moda tiene versión made by Amazon, y es más barata que la marca de moda</a></h4>
+    <a href='https://computerhoy.com/life/mueble-moda-tiene-version-made-amazon-barata-marca-moda-1307866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/escritorio-elevable-movian-3139270.jpg?tf=1200x' alt='Este mueble de moda tiene versión made by Amazon, y es más barata que la marca de moda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/compra-pale-devoluciones-amazon-600-euros-gana-seis-veces-mas-1308722'>Compra un palé de devoluciones de Amazon por 600 euros, y gana seis veces más</a></h4>
-    <a href='https://computerhoy.com/amazon/compra-pale-devoluciones-amazon-600-euros-gana-seis-veces-mas-1308722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/compra-pale-devoluciones-amazon-600-euros-gana-seis-veces-3140688.jpg?tf=1200x' alt='Compra un palé de devoluciones de Amazon por 600 euros, y gana seis veces más' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-advierte-peligro-real-impacto-tierra-asteroide-equivaldria-24-bombas-atomicas-1308750'>La NASA advierte del peligro real de impacto en la Tierra de un asteroide: “Equivaldría a 24 bombas atómicas”</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-advierte-peligro-real-impacto-tierra-asteroide-equivaldria-24-bombas-atomicas-1308750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/asteroide-tierra-3140928.jpg?tf=1200x' alt='La NASA advierte del peligro real de impacto en la Tierra de un asteroide: “Equivaldría a 24 bombas atómicas”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/frio-calor-estudio-desmonta-mito-coches-electricos-1308624'>¿Frío o calor? Un estudio desmonta uno de los grandes mitos de los coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/motor/frio-calor-estudio-desmonta-mito-coches-electricos-1308624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/frio-calor-estudio-desmonta-grandes-mitos-coches-electricos-3140662.jpg?tf=1200x' alt='¿Frío o calor? Un estudio desmonta uno de los grandes mitos de los coches eléctricos' />
+    <h4><a href='https://computerhoy.com/pc/novedades-microsoft-copilot-windows-11-surface-laptop-studio-2-surface-go-3-4-1308762'>Microsoft presenta todas sus novedades: Copilot para Windows 11, Surface Laptop Studio 2 y Surface Go 3 y 4</a></h4>
+    <a href='https://computerhoy.com/pc/novedades-microsoft-copilot-windows-11-surface-laptop-studio-2-surface-go-3-4-1308762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/novedades-microsoft-surface-copilot-surface-studio-2-surface-go-3-4-3140954.jpg?tf=1200x' alt='Microsoft presenta todas sus novedades: Copilot para Windows 11, Surface Laptop Studio 2 y Surface Go 3 y 4' />
     </a>
 </div>
 
