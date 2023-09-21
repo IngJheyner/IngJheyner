@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-demandada-muerte-hombre-seguia-instrucciones-maps-1308510'>Google demandada tras la muerte de un hombre que seguía instrucciones erróneas de Maps</a></h4>
+    <a href='https://computerhoy.com/google/google-demandada-muerte-hombre-seguia-instrucciones-maps-1308510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-demandada-3140398.jpg?tf=1200x' alt='Google demandada tras la muerte de un hombre que seguía instrucciones erróneas de Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-ofertas-top-hoy-tecnologia-descuentazo-no-puedes-dejar-pasar-1308412'>5 ofertas top de tecnología hoy con un descuentazo que no puedes dejar pasar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-ofertas-top-hoy-tecnologia-descuentazo-no-puedes-dejar-pasar-1308412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ir-compras-2895142.jpg?tf=1200x' alt='5 ofertas top de tecnología hoy con un descuentazo que no puedes dejar pasar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/shiba-inu-acerca-fin-shib-perder-756-flujos-netos-semanales-1308490'>Shiba Inu: ¿se acerca el fin del SHIB tras perder un 756% en flujos netos semanales?</a></h4>
+    <a href='https://computerhoy.com/criptos/shiba-inu-acerca-fin-shib-perder-756-flujos-netos-semanales-1308490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg?tf=1200x' alt='Shiba Inu: ¿se acerca el fin del SHIB tras perder un 756% en flujos netos semanales?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/nuevas-funciones-ios-17-como-configurar-iphone-algunas-novedades-1308492'>Nuevas funciones iOS 17: cómo configurar en tu iPhone algunas de sus novedades</a></h4>
+    <a href='https://computerhoy.com/apple/nuevas-funciones-ios-17-como-configurar-iphone-algunas-novedades-1308492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nuevas-funciones-ios-17-configurar-iphone-3140362.jpg?tf=1200x' alt='Nuevas funciones iOS 17: cómo configurar en tu iPhone algunas de sus novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/convierte-iphone-15-consola-videojuegos-capaz-competir-playstation-5-1308462'>Convierte el iPhone 15 en una consola de videojuegos capaz de competir con la PlayStation 5</a></h4>
     <a href='https://computerhoy.com/apple/convierte-iphone-15-consola-videojuegos-capaz-competir-playstation-5-1308462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-juegos-3140240.jpg?tf=1200x' alt='Convierte el iPhone 15 en una consola de videojuegos capaz de competir con la PlayStation 5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-smartwatch-hemos-probado-ahora-tiene-oferta-loca-auriculares-gratis-correa-regalo-1308436'>Es de los mejores smartwatch que hemos probado y ahora tiene una oferta loca: auriculares gratis y correa de regalo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-smartwatch-hemos-probado-ahora-tiene-oferta-loca-auriculares-gratis-correa-regalo-1308436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131198.jpg?tf=1200x' alt='Es de los mejores smartwatch que hemos probado y ahora tiene una oferta loca: auriculares gratis y correa de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/aprovecha-maximo-iphone-15-pasos-cruciales-despues-compra-1308446'>Aprovecha al máximo tu iPhone 15: configuraciones a tener en cuenta después de la compra</a></h4>
-    <a href='https://computerhoy.com/apple/aprovecha-maximo-iphone-15-pasos-cruciales-despues-compra-1308446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3134460.jpg?tf=1200x' alt='Aprovecha al máximo tu iPhone 15: configuraciones a tener en cuenta después de la compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/historia-samsung-1306706'>Historia de Samsung: así se gestó uno de los mayores conglomerados mundiales desde Corea del Sur</a></h4>
-    <a href='https://computerhoy.com/industria/historia-samsung-1306706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sede-samsung-san-jose-california-3137910.jpg?tf=1200x' alt='Historia de Samsung: así se gestó uno de los mayores conglomerados mundiales desde Corea del Sur' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-one-tiene-competencia-mucho-mejor-correo-vpn-drive-precio-risa-1307374'>Google One tiene competencia, y es mucho mejor: correo, VPN y Drive a precio de risa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-one-tiene-competencia-mucho-mejor-correo-vpn-drive-precio-risa-1307374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/proton-vpn-3138446.jpg?tf=1200x' alt='Google One tiene competencia, y es mucho mejor: correo, VPN y Drive a precio de risa' />
     </a>
 </div>
 
