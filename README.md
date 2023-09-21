@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-ver-nuevos-canales-tdt-maxima-calidad-smart-tv-1307516'>Cómo ver los nuevos canales de TDT a máxima calidad: ¿estás desaprovechando tu Smart TV?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-ver-nuevos-canales-tdt-maxima-calidad-smart-tv-1307516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-nuevos-canales-tdt-maxima-calidad-estas-desaprovechando-smart-tv-3138896.jpg?tf=1200x' alt='Cómo ver los nuevos canales de TDT a máxima calidad: ¿estás desaprovechando tu Smart TV?' />
+    <h4><a href='https://computerhoy.com/apple/convierte-iphone-15-consola-videojuegos-capaz-competir-playstation-5-1308462'>Convierte el iPhone 15 en una consola de videojuegos capaz de competir con la PlayStation 5</a></h4>
+    <a href='https://computerhoy.com/apple/convierte-iphone-15-consola-videojuegos-capaz-competir-playstation-5-1308462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-juegos-3140240.jpg?tf=1200x' alt='Convierte el iPhone 15 en una consola de videojuegos capaz de competir con la PlayStation 5' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
-    <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131234.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-smartwatch-hemos-probado-ahora-tiene-oferta-loca-auriculares-gratis-correa-regalo-1308436'>Es de los mejores smartwatch que hemos probado y ahora tiene una oferta loca: auriculares gratis y correa de regalo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-smartwatch-hemos-probado-ahora-tiene-oferta-loca-auriculares-gratis-correa-regalo-1308436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131198.jpg?tf=1200x' alt='Es de los mejores smartwatch que hemos probado y ahora tiene una oferta loca: auriculares gratis y correa de regalo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-quitar-publicidad-youtube-android-tv-chromecast-fire-tv-1307464'>Cómo quitar la publicidad de YouTube gratis en Android TV, Chromecast y Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-quitar-publicidad-youtube-android-tv-chromecast-fire-tv-1307464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-quitar-publicidad-youtube-gratis-android-tv-chromecast-amazon-fire-tv-3138710.jpg?tf=1200x' alt='Cómo quitar la publicidad de YouTube gratis en Android TV, Chromecast y Amazon Fire TV' />
+    <h4><a href='https://computerhoy.com/apple/aprovecha-maximo-iphone-15-pasos-cruciales-despues-compra-1308446'>Aprovecha al máximo tu iPhone 15: configuraciones a tener en cuenta después de la compra</a></h4>
+    <a href='https://computerhoy.com/apple/aprovecha-maximo-iphone-15-pasos-cruciales-despues-compra-1308446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3134460.jpg?tf=1200x' alt='Aprovecha al máximo tu iPhone 15: configuraciones a tener en cuenta después de la compra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/the-creator-proximo-clasico-ciencia-ficcion-1308178'>¿El próximo clásico de ciencia ficción? The Creator impresiona en sus primeros visionados</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/the-creator-proximo-clasico-ciencia-ficcion-1308178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/creator-3113878.jpg?tf=1200x' alt='¿El próximo clásico de ciencia ficción? The Creator impresiona en sus primeros visionados' />
+    <h4><a href='https://computerhoy.com/industria/historia-samsung-1306706'>Historia de Samsung: así se gestó uno de los mayores conglomerados mundiales desde Corea del Sur</a></h4>
+    <a href='https://computerhoy.com/industria/historia-samsung-1306706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sede-samsung-san-jose-california-3137910.jpg?tf=1200x' alt='Historia de Samsung: así se gestó uno de los mayores conglomerados mundiales desde Corea del Sur' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-anuncia-dalle-3-ia-crear-imagenes-integra-chatgpt-1308166'>OpenAI anuncia DALL-E 3, su IA para crear imágenes que ahora se integra en ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-anuncia-dalle-3-ia-crear-imagenes-integra-chatgpt-1308166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/openai-anuncia-dall-3-ia-crear-imagenes-integra-chatgpt-3139892.jpg?tf=1200x' alt='OpenAI anuncia DALL-E 3, su IA para crear imágenes que ahora se integra en ChatGPT' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-one-tiene-competencia-mucho-mejor-correo-vpn-drive-precio-risa-1307374'>Google One tiene competencia, y es mucho mejor: correo, VPN y Drive a precio de risa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-one-tiene-competencia-mucho-mejor-correo-vpn-drive-precio-risa-1307374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/proton-vpn-3138446.jpg?tf=1200x' alt='Google One tiene competencia, y es mucho mejor: correo, VPN y Drive a precio de risa' />
     </a>
 </div>
 
