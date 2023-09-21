@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/baterias-coche-electrico-10-minutos-conseguir-80-carga-modificacion-1308040'>Nueva mejora para las baterías del coche eléctrico: solo 10 minutos para conseguir 80% de carga con una simple modificación</a></h4>
+    <a href='https://computerhoy.com/motor/baterias-coche-electrico-10-minutos-conseguir-80-carga-modificacion-1308040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cargador-coche-electrico-3108894.jpg?tf=1200x' alt='Nueva mejora para las baterías del coche eléctrico: solo 10 minutos para conseguir 80% de carga con una simple modificación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cientificos-harvard-revelan-5-frases-usadas-manipuladores-1302230'>Científicos de Harvard revelan las 5 frases más usadas por los manipuladores</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-harvard-revelan-5-frases-usadas-manipuladores-1302230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cientificos-harvard-revelan-5-frases-usadas-manipuladores-3129894.jpg?tf=1200x' alt='Científicos de Harvard revelan las 5 frases más usadas por los manipuladores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-ver-gratis-canales-tdt-espana-movil-instalar-nada-1308014'>Cómo ver gratis canales de TDT de España y resto del mundo en tu móvil sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-ver-gratis-canales-tdt-espana-movil-instalar-nada-1308014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-gratis-canales-tdt-espana-resto-mundo-movil-instalar-nada-3139522.jpg?tf=1200x' alt='Cómo ver gratis canales de TDT de España y resto del mundo en tu móvil sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/alemania-pone-marcha-jornada-laboral-cuatro-dias-sistema-100-80-100-1308548'>Alemania se suma a la lista de países con jornada laboral de cuatro días con el sistema 100-80-100</a></h4>
     <a href='https://computerhoy.com/industria/alemania-pone-marcha-jornada-laboral-cuatro-dias-sistema-100-80-100-1308548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/alemania-jornada-laboral-3140432.jpg?tf=1200x' alt='Alemania se suma a la lista de países con jornada laboral de cuatro días con el sistema 100-80-100' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-liquida-apple-watch-ultra-apenas-semana-despues-presentacion-sucesor-1308488'>Amazon liquida el Apple Watch Ultra apenas una semana después de la presentación de su sucesor</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-liquida-apple-watch-ultra-apenas-semana-despues-presentacion-sucesor-1308488' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3086868.jpg?tf=1200x' alt='Amazon liquida el Apple Watch Ultra apenas una semana después de la presentación de su sucesor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-demandada-muerte-hombre-seguia-instrucciones-maps-1308510'>Google demandada tras la muerte de un hombre que seguía instrucciones erróneas de Maps</a></h4>
-    <a href='https://computerhoy.com/google/google-demandada-muerte-hombre-seguia-instrucciones-maps-1308510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-demandada-3140398.jpg?tf=1200x' alt='Google demandada tras la muerte de un hombre que seguía instrucciones erróneas de Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-ofertas-top-hoy-tecnologia-descuentazo-no-puedes-dejar-pasar-1308412'>5 ofertas top de tecnología hoy con un descuentazo que no puedes dejar pasar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-ofertas-top-hoy-tecnologia-descuentazo-no-puedes-dejar-pasar-1308412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ir-compras-2895142.jpg?tf=1200x' alt='5 ofertas top de tecnología hoy con un descuentazo que no puedes dejar pasar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/shiba-inu-acerca-fin-shib-perder-756-flujos-netos-semanales-1308490'>Shiba Inu: ¿se acerca el fin del SHIB tras perder un 756% en flujos netos semanales?</a></h4>
-    <a href='https://computerhoy.com/criptos/shiba-inu-acerca-fin-shib-perder-756-flujos-netos-semanales-1308490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg?tf=1200x' alt='Shiba Inu: ¿se acerca el fin del SHIB tras perder un 756% en flujos netos semanales?' />
     </a>
 </div>
 
