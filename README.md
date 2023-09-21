@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/alemania-pone-marcha-jornada-laboral-cuatro-dias-sistema-100-80-100-1308548'>Alemania se suma a la lista de países con jornada laboral de cuatro días con el sistema 100-80-100</a></h4>
+    <a href='https://computerhoy.com/industria/alemania-pone-marcha-jornada-laboral-cuatro-dias-sistema-100-80-100-1308548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/alemania-jornada-laboral-3140432.jpg?tf=1200x' alt='Alemania se suma a la lista de países con jornada laboral de cuatro días con el sistema 100-80-100' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquida-apple-watch-ultra-apenas-semana-despues-presentacion-sucesor-1308488'>Amazon liquida el Apple Watch Ultra apenas una semana después de la presentación de su sucesor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-liquida-apple-watch-ultra-apenas-semana-despues-presentacion-sucesor-1308488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3086868.jpg?tf=1200x' alt='Amazon liquida el Apple Watch Ultra apenas una semana después de la presentación de su sucesor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-demandada-muerte-hombre-seguia-instrucciones-maps-1308510'>Google demandada tras la muerte de un hombre que seguía instrucciones erróneas de Maps</a></h4>
     <a href='https://computerhoy.com/google/google-demandada-muerte-hombre-seguia-instrucciones-maps-1308510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-demandada-3140398.jpg?tf=1200x' alt='Google demandada tras la muerte de un hombre que seguía instrucciones erróneas de Maps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/shiba-inu-acerca-fin-shib-perder-756-flujos-netos-semanales-1308490'>Shiba Inu: ¿se acerca el fin del SHIB tras perder un 756% en flujos netos semanales?</a></h4>
     <a href='https://computerhoy.com/criptos/shiba-inu-acerca-fin-shib-perder-756-flujos-netos-semanales-1308490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg?tf=1200x' alt='Shiba Inu: ¿se acerca el fin del SHIB tras perder un 756% en flujos netos semanales?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nuevas-funciones-ios-17-como-configurar-iphone-algunas-novedades-1308492'>Nuevas funciones iOS 17: cómo configurar en tu iPhone algunas de sus novedades</a></h4>
-    <a href='https://computerhoy.com/apple/nuevas-funciones-ios-17-como-configurar-iphone-algunas-novedades-1308492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nuevas-funciones-ios-17-configurar-iphone-3140362.jpg?tf=1200x' alt='Nuevas funciones iOS 17: cómo configurar en tu iPhone algunas de sus novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/convierte-iphone-15-consola-videojuegos-capaz-competir-playstation-5-1308462'>Convierte el iPhone 15 en una consola de videojuegos capaz de competir con la PlayStation 5</a></h4>
-    <a href='https://computerhoy.com/apple/convierte-iphone-15-consola-videojuegos-capaz-competir-playstation-5-1308462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-juegos-3140240.jpg?tf=1200x' alt='Convierte el iPhone 15 en una consola de videojuegos capaz de competir con la PlayStation 5' />
     </a>
 </div>
 
