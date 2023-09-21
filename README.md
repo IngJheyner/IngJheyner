@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
+    <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131234.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-quitar-publicidad-youtube-android-tv-chromecast-fire-tv-1307464'>Cómo quitar la publicidad de YouTube gratis en Android TV, Chromecast y Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-quitar-publicidad-youtube-android-tv-chromecast-fire-tv-1307464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-quitar-publicidad-youtube-gratis-android-tv-chromecast-amazon-fire-tv-3138710.jpg?tf=1200x' alt='Cómo quitar la publicidad de YouTube gratis en Android TV, Chromecast y Amazon Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/the-creator-proximo-clasico-ciencia-ficcion-1308178'>¿El próximo clásico de ciencia ficción? The Creator impresiona en sus primeros visionados</a></h4>
     <a href='https://computerhoy.com/entretenimiento/the-creator-proximo-clasico-ciencia-ficcion-1308178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/creator-3113878.jpg?tf=1200x' alt='¿El próximo clásico de ciencia ficción? The Creator impresiona en sus primeros visionados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/amazon-echo-show-8-primeras-impresiones-alexa-cada-vez-inteligente-1308122'>Amazon Echo Show 8, primeras impresiones: Alexa cada vez es más inteligente y sostenible</a></h4>
     <a href='https://computerhoy.com/hogar/amazon-echo-show-8-primeras-impresiones-alexa-cada-vez-inteligente-1308122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/echo-show-8-3139854.jpg?tf=1200x' alt='Amazon Echo Show 8, primeras impresiones: Alexa cada vez es más inteligente y sostenible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/prime-day-1308000'>Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos</a></h4>
-    <a href='https://computerhoy.com/prime-day-1308000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazon-prime-octubre-2023-3139450.jpg?tf=1200x' alt='Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/disney-desactiva-secreto-funcionalidades-acelera-fin-cuentas-compartidas-1308146'>Disney+ desactiva en secreto una de sus funcionalidades y acelera el fin de las cuentas compartidas</a></h4>
-    <a href='https://computerhoy.com/apps/disney-desactiva-secreto-funcionalidades-acelera-fin-cuentas-compartidas-1308146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-3139844.jpg?tf=1200x' alt='Disney+ desactiva en secreto una de sus funcionalidades y acelera el fin de las cuentas compartidas' />
     </a>
 </div>
 
