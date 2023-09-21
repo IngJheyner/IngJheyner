@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-ver-nuevos-canales-tdt-maxima-calidad-smart-tv-1307516'>Cómo ver los nuevos canales de TDT a máxima calidad: ¿estás desaprovechando tu Smart TV?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-ver-nuevos-canales-tdt-maxima-calidad-smart-tv-1307516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-nuevos-canales-tdt-maxima-calidad-estas-desaprovechando-smart-tv-3138896.jpg?tf=1200x' alt='Cómo ver los nuevos canales de TDT a máxima calidad: ¿estás desaprovechando tu Smart TV?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
     <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131234.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/openai-anuncia-dalle-3-ia-crear-imagenes-integra-chatgpt-1308166'>OpenAI anuncia DALL-E 3, su IA para crear imágenes que ahora se integra en ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-anuncia-dalle-3-ia-crear-imagenes-integra-chatgpt-1308166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/openai-anuncia-dall-3-ia-crear-imagenes-integra-chatgpt-3139892.jpg?tf=1200x' alt='OpenAI anuncia DALL-E 3, su IA para crear imágenes que ahora se integra en ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/amazon-echo-show-8-primeras-impresiones-alexa-cada-vez-inteligente-1308122'>Amazon Echo Show 8, primeras impresiones: Alexa cada vez es más inteligente y sostenible</a></h4>
-    <a href='https://computerhoy.com/hogar/amazon-echo-show-8-primeras-impresiones-alexa-cada-vez-inteligente-1308122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/echo-show-8-3139854.jpg?tf=1200x' alt='Amazon Echo Show 8, primeras impresiones: Alexa cada vez es más inteligente y sostenible' />
     </a>
 </div>
 
