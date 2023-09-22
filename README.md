@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/estas-son-tacticas-usadas-amazon-aliexpress-compres-cada-vez-1309166'>Estas son las tácticas usadas por Amazon o Aliexpress para que compres cada vez más</a></h4>
+    <a href='https://computerhoy.com/internet/estas-son-tacticas-usadas-amazon-aliexpress-compres-cada-vez-1309166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/comercio-electronico-3141568.jpg?tf=1200x' alt='Estas son las tácticas usadas por Amazon o Aliexpress para que compres cada vez más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/reino-unido-aprueba-compra-microsoft-activision-despues-acuerdo-ubisoft-1309152'>Reino Unido aprueba la compra de Microsoft y Activision después del acuerdo con Ubisoft</a></h4>
     <a href='https://computerhoy.com/gaming/reino-unido-aprueba-compra-microsoft-activision-despues-acuerdo-ubisoft-1309152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-activision-2589223.jpg?tf=1200x' alt='Reino Unido aprueba la compra de Microsoft y Activision después del acuerdo con Ubisoft' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/francia-estrena-primera-bicicleta-electrica-no-necesita-bateria-1309078'>Francia estrena la primera bicicleta eléctrica que no necesita batería</a></h4>
     <a href='https://computerhoy.com/tecnologia/francia-estrena-primera-bicicleta-electrica-no-necesita-bateria-1309078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bicicleta-electrica-no-necesita-bateria-3141402.jpg?tf=1200x' alt='Francia estrena la primera bicicleta eléctrica que no necesita batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/biblia-no-fue-comienzo-fue-primer-libro-impreso-historia-1309050'>La Biblia no fue el comienzo: este fue el primer libro impreso de la historia</a></h4>
-    <a href='https://computerhoy.com/life/biblia-no-fue-comienzo-fue-primer-libro-impreso-historia-1309050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/primer-libro-historia-3141358.jpg?tf=1200x' alt='La Biblia no fue el comienzo: este fue el primer libro impreso de la historia' />
     </a>
 </div>
 
