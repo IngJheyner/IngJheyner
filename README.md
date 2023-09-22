@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903'>Estos son los mejores relojes de running que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110576.jpg?tf=1200x' alt='Estos son los mejores relojes de running que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/unica-aplicacion-necesitas-amazon-fire-tv-1308038'>Olvídate de todo: esta es la única aplicación que necesitas en tu Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/apps/unica-aplicacion-necesitas-amazon-fire-tv-1308038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/olvidate-todo-unica-aplicacion-necesitas-amazon-fire-tv-3139564.jpg?tf=1200x' alt='Olvídate de todo: esta es la única aplicación que necesitas en tu Amazon Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/torre-jeddah-primer-rascacielos-supera-kilometro-altura-1309000'>La Torre Jeddah, el primer rascacielos que superará los 1.000 metros de altura</a></h4>
     <a href='https://computerhoy.com/life/torre-jeddah-primer-rascacielos-supera-kilometro-altura-1309000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/reanuda-construccion-torre-jeddah-primer-rascacielos-superara-kilometro-altura-3141038.jpg?tf=1200x' alt='La Torre Jeddah, el primer rascacielos que superará los 1.000 metros de altura' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/proyecto-gutenberg-lanza-5000-audiolibros-gratuitos-creados-ia-1308778'>Proyecto Gutenberg lanza 5.000 audiolibros gratuitos creados con IA, pronto podrás crearlos tú con tu voz</a></h4>
     <a href='https://computerhoy.com/tecnologia/proyecto-gutenberg-lanza-5000-audiolibros-gratuitos-creados-ia-1308778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/proyecto-gutenberg-lanza-5000-audiolibros-gratuitos-creados-ia-pronto-podras-crear-voz-3140966.jpg?tf=1200x' alt='Proyecto Gutenberg lanza 5.000 audiolibros gratuitos creados con IA, pronto podrás crearlos tú con tu voz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/compra-cuadro-3-euros-resulta-ser-obra-valorada-miles-euros-1308764'>Compra un cuadro por 3 euros, lo enseña en redes, y resulta ser una obra valorada en miles de euros</a></h4>
-    <a href='https://computerhoy.com/life/compra-cuadro-3-euros-resulta-ser-obra-valorada-miles-euros-1308764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/compra-cuadro-3-euros-ensena-redes-resulta-ser-obra-valorada-miles-euros-3140980.jpg?tf=1200x' alt='Compra un cuadro por 3 euros, lo enseña en redes, y resulta ser una obra valorada en miles de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mueble-moda-tiene-version-made-amazon-barata-marca-moda-1307866'>Este mueble de moda tiene versión made by Amazon, y es más barata que la marca de moda</a></h4>
-    <a href='https://computerhoy.com/life/mueble-moda-tiene-version-made-amazon-barata-marca-moda-1307866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/escritorio-elevable-movian-3139270.jpg?tf=1200x' alt='Este mueble de moda tiene versión made by Amazon, y es más barata que la marca de moda' />
     </a>
 </div>
 
