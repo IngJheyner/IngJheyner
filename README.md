@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903'>Estos son los mejores relojes de running que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110576.jpg?tf=1200x' alt='Estos son los mejores relojes de running que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/apple/no-te-cuelen-cajas-iphone-15-cuentan-etiquetas-uv-evitar-estafas-1309034'>Que no te la cuelen: las cajas del iPhone 15 cuentan con etiquetas UV para evitar estafas</a></h4>
+    <a href='https://computerhoy.com/apple/no-te-cuelen-cajas-iphone-15-cuentan-etiquetas-uv-evitar-estafas-1309034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cajas-iphone-15-3141294.jpg?tf=1200x' alt='Que no te la cuelen: las cajas del iPhone 15 cuentan con etiquetas UV para evitar estafas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/unica-aplicacion-necesitas-amazon-fire-tv-1308038'>Olvídate de todo: esta es la única aplicación que necesitas en tu Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/apps/unica-aplicacion-necesitas-amazon-fire-tv-1308038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/olvidate-todo-unica-aplicacion-necesitas-amazon-fire-tv-3139564.jpg?tf=1200x' alt='Olvídate de todo: esta es la única aplicación que necesitas en tu Amazon Fire TV' />
+    <h4><a href='https://computerhoy.com/podcast-/podcast'>¿Conoces el Pódcast Computer Hoy? Te contamos todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/podcast-/podcast' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/podcast-computerhoycom-2879857.jpg?tf=1200x' alt='¿Conoces el Pódcast Computer Hoy? Te contamos todo lo que debes saber' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/torre-jeddah-primer-rascacielos-supera-kilometro-altura-1309000'>La Torre Jeddah, el primer rascacielos que superará los 1.000 metros de altura</a></h4>
-    <a href='https://computerhoy.com/life/torre-jeddah-primer-rascacielos-supera-kilometro-altura-1309000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/reanuda-construccion-torre-jeddah-primer-rascacielos-superara-kilometro-altura-3141038.jpg?tf=1200x' alt='La Torre Jeddah, el primer rascacielos que superará los 1.000 metros de altura' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915'>Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/reloj-natacion-3122292.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/monstruoverso-godzilla-king-kong-monarch-nueva-serie-apple-tv-1308786'>Llega el Monstruoverso de Godzilla y King Kong con la nueva serie de Apple TV+, y otros estrenos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/monstruoverso-godzilla-king-kong-monarch-nueva-serie-apple-tv-1308786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1695332089793-3140996.jpg?tf=1200x' alt='Llega el Monstruoverso de Godzilla y King Kong con la nueva serie de Apple TV+, y otros estrenos' />
+    <h4><a href='https://computerhoy.com/alimentacion/primer-salmon-vegano-impreso-3d-llega-supermercados-1309006'>El primer salmón vegano impreso en 3D, llega a los supermercados</a></h4>
+    <a href='https://computerhoy.com/alimentacion/primer-salmon-vegano-impreso-3d-llega-supermercados-1309006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1695352498211-3141256.jpg?tf=1200x' alt='El primer salmón vegano impreso en 3D, llega a los supermercados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/proyecto-gutenberg-lanza-5000-audiolibros-gratuitos-creados-ia-1308778'>Proyecto Gutenberg lanza 5.000 audiolibros gratuitos creados con IA, pronto podrás crearlos tú con tu voz</a></h4>
-    <a href='https://computerhoy.com/tecnologia/proyecto-gutenberg-lanza-5000-audiolibros-gratuitos-creados-ia-1308778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/proyecto-gutenberg-lanza-5000-audiolibros-gratuitos-creados-ia-pronto-podras-crear-voz-3140966.jpg?tf=1200x' alt='Proyecto Gutenberg lanza 5.000 audiolibros gratuitos creados con IA, pronto podrás crearlos tú con tu voz' />
+    <h4><a href='https://computerhoy.com/moviles/iphone-15-15-plus-toma-contacto-primeras-impresiones-1308714'>iPhone 15 y 15 Plus, toma de contacto y primeras impresiones de los nuevos smartphones de Apple</a></h4>
+    <a href='https://computerhoy.com/moviles/iphone-15-15-plus-toma-contacto-primeras-impresiones-1308714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-15-plus-3141022.jpg?tf=1200x' alt='iPhone 15 y 15 Plus, toma de contacto y primeras impresiones de los nuevos smartphones de Apple' />
     </a>
 </div>
 
