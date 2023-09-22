@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/unity-da-marcha-atras-pide-perdon-anuncia-nuevo-plan-precios-1309394'>Unity da marcha atrás, pide perdón y anuncia su nuevo plan de precios</a></h4>
+    <a href='https://computerhoy.com/gaming/unity-da-marcha-atras-pide-perdon-anuncia-nuevo-plan-precios-1309394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/unity-da-marcha-atras-pide-perdon-anuncia-nuevo-plan-precios-3142074.jpg?tf=1200x' alt='Unity da marcha atrás, pide perdón y anuncia su nuevo plan de precios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/motivo-deberias-poner-cebolla-cerca-cama-1309370'>Este es el motivo por el que deberías comenzar a poner una cebolla cerca de tu cama</a></h4>
+    <a href='https://computerhoy.com/life/motivo-deberias-poner-cebolla-cerca-cama-1309370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/motivo-deberias-comenzar-poner-cebolla-cerca-cama-3142034.jpg?tf=1200x' alt='Este es el motivo por el que deberías comenzar a poner una cebolla cerca de tu cama' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/nuevo-aspirador-gama-alta-cecotec-conga-12090-caracteristicas-precio-1309352'>Cecotec anuncia un robot aspirador de 1.500 euros: estas son las características de las que presume</a></h4>
+    <a href='https://computerhoy.com/hogar/nuevo-aspirador-gama-alta-cecotec-conga-12090-caracteristicas-precio-1309352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cecotec-conga-12090-3141990.jpg?tf=1200x' alt='Cecotec anuncia un robot aspirador de 1.500 euros: estas son las características de las que presume' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/juego-calamar-desafio-reality-fecha-estreno-netflix-1309386'>Llega la versión real de El Juego del Calamar, con 456 participantes y el mayor premio de la historia</a></h4>
     <a href='https://computerhoy.com/entretenimiento/juego-calamar-desafio-reality-fecha-estreno-netflix-1309386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1695408139433-3142044.jpg?tf=1200x' alt='Llega la versión real de El Juego del Calamar, con 456 participantes y el mayor premio de la historia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/elimina-estas-apps-iphone-no-son-esenciales-ralentizan-rendimiento-1309324'>Elimina estas aplicaciones de tu iPhone: no son esenciales y ralentizan su rendimiento</a></h4>
     <a href='https://computerhoy.com/apple/elimina-estas-apps-iphone-no-son-esenciales-ralentizan-rendimiento-1309324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-13-3135746.jpg?tf=1200x' alt='Elimina estas aplicaciones de tu iPhone: no son esenciales y ralentizan su rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-quiere-estropearte-proximas-vacaciones-1309380'>La estafa que quiere estropearte tus próximas vacaciones</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafa-quiere-estropearte-proximas-vacaciones-1309380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estafa-alquiler-vacacional-2754235.jpg?tf=1200x' alt='La estafa que quiere estropearte tus próximas vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-prepara-terreno-decir-adios-contrasenas-toda-vida-1309376'>Windows 11 prepara el terreno para decir adiós a las contraseñas de toda la vida</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-prepara-terreno-decir-adios-contrasenas-toda-vida-1309376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/portada-2970326.jpg?tf=1200x' alt='Windows 11 prepara el terreno para decir adiós a las contraseñas de toda la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/compra-portatil-1000-euros-recibe-5000-error-1309358'>Compra un portátil de 1.000 euros y recibe uno de 5.000 euros por un error en el envío</a></h4>
-    <a href='https://computerhoy.com/life/compra-portatil-1000-euros-recibe-5000-error-1309358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/compra-portatil-1000-recibe-5000-error-envio-3142018.jpg?tf=1200x' alt='Compra un portátil de 1.000 euros y recibe uno de 5.000 euros por un error en el envío' />
     </a>
 </div>
 
