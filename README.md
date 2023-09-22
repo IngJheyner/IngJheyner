@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/monstruoverso-godzilla-king-kong-monarch-nueva-serie-apple-tv-1308786'>Llega el Monstruoverso de Godzilla y King Kong con la nueva serie de Apple TV+, y otros estrenos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/monstruoverso-godzilla-king-kong-monarch-nueva-serie-apple-tv-1308786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1695332089793-3140996.jpg?tf=1200x' alt='Llega el Monstruoverso de Godzilla y King Kong con la nueva serie de Apple TV+, y otros estrenos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/proyecto-gutenberg-lanza-5000-audiolibros-gratuitos-creados-ia-1308778'>Proyecto Gutenberg lanza 5.000 audiolibros gratuitos creados con IA, pronto podrás crearlos tú con tu voz</a></h4>
     <a href='https://computerhoy.com/tecnologia/proyecto-gutenberg-lanza-5000-audiolibros-gratuitos-creados-ia-1308778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/proyecto-gutenberg-lanza-5000-audiolibros-gratuitos-creados-ia-pronto-podras-crear-voz-3140966.jpg?tf=1200x' alt='Proyecto Gutenberg lanza 5.000 audiolibros gratuitos creados con IA, pronto podrás crearlos tú con tu voz' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-advierte-peligro-real-impacto-tierra-asteroide-equivaldria-24-bombas-atomicas-1308750'>La NASA advierte del peligro real de impacto en la Tierra de un asteroide: “Equivaldría a 24 bombas atómicas”</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-advierte-peligro-real-impacto-tierra-asteroide-equivaldria-24-bombas-atomicas-1308750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/asteroide-tierra-3140928.jpg?tf=1200x' alt='La NASA advierte del peligro real de impacto en la Tierra de un asteroide: “Equivaldría a 24 bombas atómicas”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/novedades-microsoft-copilot-windows-11-surface-laptop-studio-2-surface-go-3-4-1308762'>Microsoft presenta todas sus novedades: Copilot para Windows 11, Surface Laptop Studio 2 y Surface Go 3 y 4</a></h4>
-    <a href='https://computerhoy.com/pc/novedades-microsoft-copilot-windows-11-surface-laptop-studio-2-surface-go-3-4-1308762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/novedades-microsoft-surface-copilot-surface-studio-2-surface-go-3-4-3140954.jpg?tf=1200x' alt='Microsoft presenta todas sus novedades: Copilot para Windows 11, Surface Laptop Studio 2 y Surface Go 3 y 4' />
     </a>
 </div>
 
