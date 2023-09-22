@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/estas-son-tacticas-usadas-amazon-aliexpress-compres-cada-vez-1309166'>Estas son las tácticas usadas por Amazon o Aliexpress para que compres cada vez más</a></h4>
-    <a href='https://computerhoy.com/internet/estas-son-tacticas-usadas-amazon-aliexpress-compres-cada-vez-1309166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/comercio-electronico-3141568.jpg?tf=1200x' alt='Estas son las tácticas usadas por Amazon o Aliexpress para que compres cada vez más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/reino-unido-aprueba-compra-microsoft-activision-despues-acuerdo-ubisoft-1309152'>Reino Unido aprueba la compra de Microsoft y Activision después del acuerdo con Ubisoft</a></h4>
-    <a href='https://computerhoy.com/gaming/reino-unido-aprueba-compra-microsoft-activision-despues-acuerdo-ubisoft-1309152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-activision-2589223.jpg?tf=1200x' alt='Reino Unido aprueba la compra de Microsoft y Activision después del acuerdo con Ubisoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/liquidacion-pc-gaming-todos-modelos-baratos-pccomponentes-oferta-1308538'>Liquidación en PC Gaming: todos los modelos baratos de PcComponentes, en oferta</a></h4>
-    <a href='https://computerhoy.com/pc/liquidacion-pc-gaming-todos-modelos-baratos-pccomponentes-oferta-1308538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pccomponentes-2865443.jpg?tf=1200x' alt='Liquidación en PC Gaming: todos los modelos baratos de PcComponentes, en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/actualiza-ios-17-apple-lanza-version-emergencia-corregir-varios-fallos-seguridad-1309136'>Actualiza iOS 17: Apple lanza una versión "de emergencia" para corregir varios fallos de seguridad</a></h4>
-    <a href='https://computerhoy.com/apple/actualiza-ios-17-apple-lanza-version-emergencia-corregir-varios-fallos-seguridad-1309136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/actualiza-ios-17-3141522.jpg?tf=1200x' alt='Actualiza iOS 17: Apple lanza una versión "de emergencia" para corregir varios fallos de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/francia-estrena-primera-bicicleta-electrica-no-necesita-bateria-1309078'>Francia estrena la primera bicicleta eléctrica que no necesita batería</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/francia-estrena-primera-bicicleta-electrica-no-necesita-bateria-1309078'>Presentan la primera bicicleta eléctrica que no necesita batería</a></h4>
     <a href='https://computerhoy.com/tecnologia/francia-estrena-primera-bicicleta-electrica-no-necesita-bateria-1309078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bicicleta-electrica-no-necesita-bateria-3141402.jpg?tf=1200x' alt='Francia estrena la primera bicicleta eléctrica que no necesita batería' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bicicleta-electrica-no-necesita-bateria-3141402.jpg?tf=1200x' alt='Presentan la primera bicicleta eléctrica que no necesita batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tienda-revienta-precio-iphone-15-tiene-oferta-lanzamiento-1309044'>Esta tienda revienta el precio de los iPhone 15 y los tiene en oferta en lanzamiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tienda-revienta-precio-iphone-15-tiene-oferta-lanzamiento-1309044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3141292.jpg?tf=1200x' alt='Esta tienda revienta el precio de los iPhone 15 y los tiene en oferta en lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cuanto-sabes-coches-electricos-5-datos-curiosos-1290476'>¿Cuánto sabes sobre coches eléctricos? 5 datos curiosos que seguro desconocías</a></h4>
+    <a href='https://computerhoy.com/motor/cuanto-sabes-coches-electricos-5-datos-curiosos-1290476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/problema-coche-electrico-casi-nadie-veia-hace-cinco-anos-3033536.jpg?tf=1200x' alt='¿Cuánto sabes sobre coches eléctricos? 5 datos curiosos que seguro desconocías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/descarga-mejores-fondos-pantalla-iphone-15-iphone-15-pro-1309270'>Los mejores fondos de pantalla del iPhone 15 y iPhone 15 Pro para descargar</a></h4>
+    <a href='https://computerhoy.com/apple/descarga-mejores-fondos-pantalla-iphone-15-iphone-15-pro-1309270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3140994.jpg?tf=1200x' alt='Los mejores fondos de pantalla del iPhone 15 y iPhone 15 Pro para descargar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-hbo-max-alemania-nazi-exorcista-rosa-salvaje-1309082'>Qué películas ver este fin de semana en Movistar Plus+, Prime Video y HBO Max: la Alemania nazi, El Exorcista y Rosa Salvaje</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-hbo-max-alemania-nazi-exorcista-rosa-salvaje-1309082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/peliculas-fin-semana-3141462.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Movistar Plus+, Prime Video y HBO Max: la Alemania nazi, El Exorcista y Rosa Salvaje' />
     </a>
 </div>
 
