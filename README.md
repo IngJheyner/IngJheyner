@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/biblia-no-fue-comienzo-fue-primer-libro-impreso-historia-1309050'>La Biblia no fue el comienzo: este fue el primer libro impreso de la historia</a></h4>
+    <a href='https://computerhoy.com/life/biblia-no-fue-comienzo-fue-primer-libro-impreso-historia-1309050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/primer-libro-historia-3141358.jpg?tf=1200x' alt='La Biblia no fue el comienzo: este fue el primer libro impreso de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/televisor-gigante-tiene-arma-secreta-sistema-operativo-mejores-sector-1308598'>Este televisor es gigante y tiene un arma secreta: su sistema operativo es de los mejores del sector</a></h4>
+    <a href='https://computerhoy.com/tecnologia/televisor-gigante-tiene-arma-secreta-sistema-operativo-mejores-sector-1308598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tv-toshiba-65-3140568.jpg?tf=1200x' alt='Este televisor es gigante y tiene un arma secreta: su sistema operativo es de los mejores del sector' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/no-te-cuelen-cajas-iphone-15-cuentan-etiquetas-uv-evitar-estafas-1309034'>Que no te la cuelen: las cajas del iPhone 15 cuentan con etiquetas UV para evitar estafas</a></h4>
     <a href='https://computerhoy.com/apple/no-te-cuelen-cajas-iphone-15-cuentan-etiquetas-uv-evitar-estafas-1309034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cajas-iphone-15-3141294.jpg?tf=1200x' alt='Que no te la cuelen: las cajas del iPhone 15 cuentan con etiquetas UV para evitar estafas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915'>Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/reloj-natacion-3122292.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/primer-salmon-vegano-impreso-3d-llega-supermercados-1309006'>El primer salmón vegano impreso en 3D, llega a los supermercados</a></h4>
-    <a href='https://computerhoy.com/alimentacion/primer-salmon-vegano-impreso-3d-llega-supermercados-1309006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1695352498211-3141256.jpg?tf=1200x' alt='El primer salmón vegano impreso en 3D, llega a los supermercados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/iphone-15-15-plus-toma-contacto-primeras-impresiones-1308714'>iPhone 15 y 15 Plus, toma de contacto y primeras impresiones de los nuevos smartphones de Apple</a></h4>
-    <a href='https://computerhoy.com/moviles/iphone-15-15-plus-toma-contacto-primeras-impresiones-1308714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-15-plus-3141022.jpg?tf=1200x' alt='iPhone 15 y 15 Plus, toma de contacto y primeras impresiones de los nuevos smartphones de Apple' />
     </a>
 </div>
 
