@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/reino-unido-aprueba-compra-microsoft-activision-despues-acuerdo-ubisoft-1309152'>Reino Unido aprueba la compra de Microsoft y Activision después del acuerdo con Ubisoft</a></h4>
+    <a href='https://computerhoy.com/gaming/reino-unido-aprueba-compra-microsoft-activision-despues-acuerdo-ubisoft-1309152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/microsoft-activision-2589223.jpg?tf=1200x' alt='Reino Unido aprueba la compra de Microsoft y Activision después del acuerdo con Ubisoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/liquidacion-pc-gaming-todos-modelos-baratos-pccomponentes-oferta-1308538'>Liquidación en PC Gaming: todos los modelos baratos de PcComponentes, en oferta</a></h4>
+    <a href='https://computerhoy.com/pc/liquidacion-pc-gaming-todos-modelos-baratos-pccomponentes-oferta-1308538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pccomponentes-2865443.jpg?tf=1200x' alt='Liquidación en PC Gaming: todos los modelos baratos de PcComponentes, en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/actualiza-ios-17-apple-lanza-version-emergencia-corregir-varios-fallos-seguridad-1309136'>Actualiza iOS 17: Apple lanza una versión "de emergencia" para corregir varios fallos de seguridad</a></h4>
+    <a href='https://computerhoy.com/apple/actualiza-ios-17-apple-lanza-version-emergencia-corregir-varios-fallos-seguridad-1309136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/actualiza-ios-17-3141522.jpg?tf=1200x' alt='Actualiza iOS 17: Apple lanza una versión "de emergencia" para corregir varios fallos de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/francia-estrena-primera-bicicleta-electrica-no-necesita-bateria-1309078'>Francia estrena la primera bicicleta eléctrica que no necesita batería</a></h4>
+    <a href='https://computerhoy.com/tecnologia/francia-estrena-primera-bicicleta-electrica-no-necesita-bateria-1309078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bicicleta-electrica-no-necesita-bateria-3141402.jpg?tf=1200x' alt='Francia estrena la primera bicicleta eléctrica que no necesita batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/biblia-no-fue-comienzo-fue-primer-libro-impreso-historia-1309050'>La Biblia no fue el comienzo: este fue el primer libro impreso de la historia</a></h4>
     <a href='https://computerhoy.com/life/biblia-no-fue-comienzo-fue-primer-libro-impreso-historia-1309050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/primer-libro-historia-3141358.jpg?tf=1200x' alt='La Biblia no fue el comienzo: este fue el primer libro impreso de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/televisor-gigante-tiene-arma-secreta-sistema-operativo-mejores-sector-1308598'>Este televisor es gigante y tiene un arma secreta: su sistema operativo es de los mejores del sector</a></h4>
-    <a href='https://computerhoy.com/tecnologia/televisor-gigante-tiene-arma-secreta-sistema-operativo-mejores-sector-1308598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tv-toshiba-65-3140568.jpg?tf=1200x' alt='Este televisor es gigante y tiene un arma secreta: su sistema operativo es de los mejores del sector' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/no-te-cuelen-cajas-iphone-15-cuentan-etiquetas-uv-evitar-estafas-1309034'>Que no te la cuelen: las cajas del iPhone 15 cuentan con etiquetas UV para evitar estafas</a></h4>
-    <a href='https://computerhoy.com/apple/no-te-cuelen-cajas-iphone-15-cuentan-etiquetas-uv-evitar-estafas-1309034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cajas-iphone-15-3141294.jpg?tf=1200x' alt='Que no te la cuelen: las cajas del iPhone 15 cuentan con etiquetas UV para evitar estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/podcast-/podcast'>¿Conoces el Pódcast Computer Hoy? Te contamos todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/podcast-/podcast' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/podcast-computerhoycom-2879857.jpg?tf=1200x' alt='¿Conoces el Pódcast Computer Hoy? Te contamos todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915'>Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/reloj-natacion-3122292.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF' />
     </a>
 </div>
 
