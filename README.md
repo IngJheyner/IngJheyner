@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/torre-jeddah-primer-rascacielos-supera-kilometro-altura-1309000'>La Torre Jeddah, el primer rascacielos que superará los 1.000 metros de altura</a></h4>
+    <a href='https://computerhoy.com/life/torre-jeddah-primer-rascacielos-supera-kilometro-altura-1309000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/reanuda-construccion-torre-jeddah-primer-rascacielos-superara-kilometro-altura-3141038.jpg?tf=1200x' alt='La Torre Jeddah, el primer rascacielos que superará los 1.000 metros de altura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/monstruoverso-godzilla-king-kong-monarch-nueva-serie-apple-tv-1308786'>Llega el Monstruoverso de Godzilla y King Kong con la nueva serie de Apple TV+, y otros estrenos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/monstruoverso-godzilla-king-kong-monarch-nueva-serie-apple-tv-1308786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1695332089793-3140996.jpg?tf=1200x' alt='Llega el Monstruoverso de Godzilla y King Kong con la nueva serie de Apple TV+, y otros estrenos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/mueble-moda-tiene-version-made-amazon-barata-marca-moda-1307866'>Este mueble de moda tiene versión made by Amazon, y es más barata que la marca de moda</a></h4>
     <a href='https://computerhoy.com/life/mueble-moda-tiene-version-made-amazon-barata-marca-moda-1307866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/escritorio-elevable-movian-3139270.jpg?tf=1200x' alt='Este mueble de moda tiene versión made by Amazon, y es más barata que la marca de moda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-advierte-peligro-real-impacto-tierra-asteroide-equivaldria-24-bombas-atomicas-1308750'>La NASA advierte del peligro real de impacto en la Tierra de un asteroide: “Equivaldría a 24 bombas atómicas”</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-advierte-peligro-real-impacto-tierra-asteroide-equivaldria-24-bombas-atomicas-1308750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/asteroide-tierra-3140928.jpg?tf=1200x' alt='La NASA advierte del peligro real de impacto en la Tierra de un asteroide: “Equivaldría a 24 bombas atómicas”' />
     </a>
 </div>
 
