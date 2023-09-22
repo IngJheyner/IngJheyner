@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/francia-estrena-primera-bicicleta-electrica-no-necesita-bateria-1309078'>Presentan la primera bicicleta eléctrica que no necesita batería</a></h4>
-    <a href='https://computerhoy.com/tecnologia/francia-estrena-primera-bicicleta-electrica-no-necesita-bateria-1309078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bicicleta-electrica-no-necesita-bateria-3141402.jpg?tf=1200x' alt='Presentan la primera bicicleta eléctrica que no necesita batería' />
+    <h4><a href='https://computerhoy.com/entretenimiento/juego-calamar-desafio-reality-fecha-estreno-netflix-1309386'>Llega la versión real de El Juego del Calamar, con 456 participantes y el mayor premio de la historia</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/juego-calamar-desafio-reality-fecha-estreno-netflix-1309386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1695408139433-3142044.jpg?tf=1200x' alt='Llega la versión real de El Juego del Calamar, con 456 participantes y el mayor premio de la historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tienda-revienta-precio-iphone-15-tiene-oferta-lanzamiento-1309044'>Esta tienda revienta el precio de los iPhone 15 y los tiene en oferta en lanzamiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tienda-revienta-precio-iphone-15-tiene-oferta-lanzamiento-1309044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3141292.jpg?tf=1200x' alt='Esta tienda revienta el precio de los iPhone 15 y los tiene en oferta en lanzamiento' />
+    <h4><a href='https://computerhoy.com/apple/elimina-estas-apps-iphone-no-son-esenciales-ralentizan-rendimiento-1309324'>Elimina estas aplicaciones de tu iPhone: no son esenciales y ralentizan su rendimiento</a></h4>
+    <a href='https://computerhoy.com/apple/elimina-estas-apps-iphone-no-son-esenciales-ralentizan-rendimiento-1309324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-13-3135746.jpg?tf=1200x' alt='Elimina estas aplicaciones de tu iPhone: no son esenciales y ralentizan su rendimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cuanto-sabes-coches-electricos-5-datos-curiosos-1290476'>¿Cuánto sabes sobre coches eléctricos? 5 datos curiosos que seguro desconocías</a></h4>
-    <a href='https://computerhoy.com/motor/cuanto-sabes-coches-electricos-5-datos-curiosos-1290476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/problema-coche-electrico-casi-nadie-veia-hace-cinco-anos-3033536.jpg?tf=1200x' alt='¿Cuánto sabes sobre coches eléctricos? 5 datos curiosos que seguro desconocías' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-quiere-estropearte-proximas-vacaciones-1309380'>La estafa que quiere estropearte tus próximas vacaciones</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafa-quiere-estropearte-proximas-vacaciones-1309380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/estafa-alquiler-vacacional-2754235.jpg?tf=1200x' alt='La estafa que quiere estropearte tus próximas vacaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/descarga-mejores-fondos-pantalla-iphone-15-iphone-15-pro-1309270'>Los mejores fondos de pantalla del iPhone 15 y iPhone 15 Pro para descargar</a></h4>
-    <a href='https://computerhoy.com/apple/descarga-mejores-fondos-pantalla-iphone-15-iphone-15-pro-1309270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3140994.jpg?tf=1200x' alt='Los mejores fondos de pantalla del iPhone 15 y iPhone 15 Pro para descargar' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-prepara-terreno-decir-adios-contrasenas-toda-vida-1309376'>Windows 11 prepara el terreno para decir adiós a las contraseñas de toda la vida</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-prepara-terreno-decir-adios-contrasenas-toda-vida-1309376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/portada-2970326.jpg?tf=1200x' alt='Windows 11 prepara el terreno para decir adiós a las contraseñas de toda la vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-hbo-max-alemania-nazi-exorcista-rosa-salvaje-1309082'>Qué películas ver este fin de semana en Movistar Plus+, Prime Video y HBO Max: la Alemania nazi, El Exorcista y Rosa Salvaje</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-prime-video-hbo-max-alemania-nazi-exorcista-rosa-salvaje-1309082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/peliculas-fin-semana-3141462.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Movistar Plus+, Prime Video y HBO Max: la Alemania nazi, El Exorcista y Rosa Salvaje' />
+    <h4><a href='https://computerhoy.com/life/compra-portatil-1000-euros-recibe-5000-error-1309358'>Compra un portátil de 1.000 euros y recibe uno de 5.000 euros por un error en el envío</a></h4>
+    <a href='https://computerhoy.com/life/compra-portatil-1000-euros-recibe-5000-error-1309358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/compra-portatil-1000-recibe-5000-error-envio-3142018.jpg?tf=1200x' alt='Compra un portátil de 1.000 euros y recibe uno de 5.000 euros por un error en el envío' />
     </a>
 </div>
 
