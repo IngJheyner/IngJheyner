@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuando-marcas-sacan-pecho-tecnologias-otras-han-integrado-hace-5-anos-1306690'>Cuando las marcas sacan pecho de tecnologías que otras han integrado hace 5 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuando-marcas-sacan-pecho-tecnologias-otras-han-integrado-hace-5-anos-1306690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-usb-c-3132722.jpg?tf=1200x' alt='Cuando las marcas sacan pecho de tecnologías que otras han integrado hace 5 años' />
+    <h4><a href='https://computerhoy.com/life/smartphone-plegable-final-mundial-futbol-1962-viajes-en-el-tiempo-1309590'>¿Qué hace un smartphone plegable en la final del Mundial de Fútbol de 1962?</a></h4>
+    <a href='https://computerhoy.com/life/smartphone-plegable-final-mundial-futbol-1962-viajes-en-el-tiempo-1309590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hace-smartphone-plegable-final-mundial-futbol-1962-3142312.jpg?tf=1200x' alt='¿Qué hace un smartphone plegable en la final del Mundial de Fútbol de 1962?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/experimentos-seres-humanos-aterradores-historia-1305204'>Los experimentos con seres humanos más aterradores de la historia</a></h4>
-    <a href='https://computerhoy.com/life/experimentos-seres-humanos-aterradores-historia-1305204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/estos-son-experimentos-seres-humanos-aterradores-historia-3135150.jpg?tf=1200x' alt='Los experimentos con seres humanos más aterradores de la historia' />
+    <h4><a href='https://computerhoy.com/entretenimiento/amazon-prime-video-tendra-publicidad-2024-menos-pagues-1309618'>Amazon Prime Video tendrá publicidad en 2024 a menos que pagues más</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/amazon-prime-video-tendra-publicidad-2024-menos-pagues-1309618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazon-prime-video-3142334.jpg?tf=1200x' alt='Amazon Prime Video tendrá publicidad en 2024 a menos que pagues más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/que-es-jamais-vu-contrario-deja-vu-1308542'>Jamais vu es lo contrario de déjà vu, y es aún más inquietante</a></h4>
-    <a href='https://computerhoy.com/life/que-es-jamais-vu-contrario-deja-vu-1308542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/jamais-vu-contrario-deja-vu-aun-inquietante-3140348.jpg?tf=1200x' alt='Jamais vu es lo contrario de déjà vu, y es aún más inquietante' />
+    <h4><a href='https://computerhoy.com/windows/20-funciones-ocultas-windows-11-anadidas-recientemente-1305802'>20 funciones ocultas de Windows 11 añadidas recientemente que seguramente no conoces</a></h4>
+    <a href='https://computerhoy.com/windows/20-funciones-ocultas-windows-11-anadidas-recientemente-1305802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/20-funciones-ocultas-windows-11-anadidas-recientemente-seguramente-no-conoces-3136286.jpg?tf=1200x' alt='20 funciones ocultas de Windows 11 añadidas recientemente que seguramente no conoces' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fin-discotecas-cierres-masivos-jovenes-ya-no-les-gustan-1309582'>¿El fin de las discotecas? Cierres masivos porque a los jóvenes ya no les gustan</a></h4>
-    <a href='https://computerhoy.com/life/fin-discotecas-cierres-masivos-jovenes-ya-no-les-gustan-1309582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fin-discotecas-cierres-masivos-porque-jovenes-ya-no-gustan-3142114.jpg?tf=1200x' alt='¿El fin de las discotecas? Cierres masivos porque a los jóvenes ya no les gustan' />
+    <h4><a href='https://computerhoy.com/ciencia/increible-metal-viene-espacio-podria-revolucionar-tecnologia-coches-electricos-1297030'>El increíble metal que viene del espacio y que podría revolucionar la tecnología de los coches eléctricos, las baterías y las armas nucleares</a></h4>
+    <a href='https://computerhoy.com/ciencia/increible-metal-viene-espacio-podria-revolucionar-tecnologia-coches-electricos-1297030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/metal-espacio-exterior-3121396.jpg?tf=1200x' alt='El increíble metal que viene del espacio y que podría revolucionar la tecnología de los coches eléctricos, las baterías y las armas nucleares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/matusalen-pez-un-siglo-viviendo-acuario-1309400'>Matusalén, el pez que lleva un siglo viviendo en un acuario</a></h4>
-    <a href='https://computerhoy.com/ciencia/matusalen-pez-un-siglo-viviendo-acuario-1309400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/matusalen-pez-lleva-siglo-viviendo-acuario-3142096.jpg?tf=1200x' alt='Matusalén, el pez que lleva un siglo viviendo en un acuario' />
+    <h4><a href='https://computerhoy.com/tecnologia/twitch-vs-kick-gigante-comercio-criptocasino-1302206'>Twitch vs. Kick: un gigante del comercio electrónico contra un criptocasino</a></h4>
+    <a href='https://computerhoy.com/tecnologia/twitch-vs-kick-gigante-comercio-criptocasino-1302206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/twitch-versus-kick-streaming-directos-plataformas-3129816.jpg?tf=1200x' alt='Twitch vs. Kick: un gigante del comercio electrónico contra un criptocasino' />
     </a>
 </div>
 
