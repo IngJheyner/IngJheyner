@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuando-marcas-sacan-pecho-tecnologias-otras-han-integrado-hace-5-anos-1306690'>Cuando las marcas sacan pecho de tecnologías que otras han integrado hace 5 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuando-marcas-sacan-pecho-tecnologias-otras-han-integrado-hace-5-anos-1306690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-usb-c-3132722.jpg?tf=1200x' alt='Cuando las marcas sacan pecho de tecnologías que otras han integrado hace 5 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/experimentos-seres-humanos-aterradores-historia-1305204'>Los experimentos con seres humanos más aterradores de la historia</a></h4>
+    <a href='https://computerhoy.com/life/experimentos-seres-humanos-aterradores-historia-1305204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/estos-son-experimentos-seres-humanos-aterradores-historia-3135150.jpg?tf=1200x' alt='Los experimentos con seres humanos más aterradores de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/que-es-jamais-vu-contrario-deja-vu-1308542'>Jamais vu es lo contrario de déjà vu, y es aún más inquietante</a></h4>
+    <a href='https://computerhoy.com/life/que-es-jamais-vu-contrario-deja-vu-1308542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/jamais-vu-contrario-deja-vu-aun-inquietante-3140348.jpg?tf=1200x' alt='Jamais vu es lo contrario de déjà vu, y es aún más inquietante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/fin-discotecas-cierres-masivos-jovenes-ya-no-les-gustan-1309582'>¿El fin de las discotecas? Cierres masivos porque a los jóvenes ya no les gustan</a></h4>
     <a href='https://computerhoy.com/life/fin-discotecas-cierres-masivos-jovenes-ya-no-les-gustan-1309582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fin-discotecas-cierres-masivos-porque-jovenes-ya-no-gustan-3142114.jpg?tf=1200x' alt='¿El fin de las discotecas? Cierres masivos porque a los jóvenes ya no les gustan' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/matusalen-pez-un-siglo-viviendo-acuario-1309400'>Matusalén, el pez que lleva un siglo viviendo en un acuario</a></h4>
     <a href='https://computerhoy.com/ciencia/matusalen-pez-un-siglo-viviendo-acuario-1309400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/matusalen-pez-lleva-siglo-viviendo-acuario-3142096.jpg?tf=1200x' alt='Matusalén, el pez que lleva un siglo viviendo en un acuario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/unity-da-marcha-atras-pide-perdon-anuncia-nuevo-plan-precios-1309394'>Unity da marcha atrás, pide perdón y anuncia su nuevo plan de precios</a></h4>
-    <a href='https://computerhoy.com/gaming/unity-da-marcha-atras-pide-perdon-anuncia-nuevo-plan-precios-1309394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/unity-da-marcha-atras-pide-perdon-anuncia-nuevo-plan-precios-3142074.jpg?tf=1200x' alt='Unity da marcha atrás, pide perdón y anuncia su nuevo plan de precios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/motivo-deberias-poner-cebolla-cerca-cama-1309370'>Este es el motivo por el que deberías comenzar a poner una cebolla cerca de tu cama</a></h4>
-    <a href='https://computerhoy.com/life/motivo-deberias-poner-cebolla-cerca-cama-1309370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/motivo-deberias-comenzar-poner-cebolla-cerca-cama-3142034.jpg?tf=1200x' alt='Este es el motivo por el que deberías comenzar a poner una cebolla cerca de tu cama' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/nuevo-aspirador-gama-alta-cecotec-conga-12090-caracteristicas-precio-1309352'>Cecotec anuncia un robot aspirador de 1.500 euros: estas son las características de las que presume</a></h4>
-    <a href='https://computerhoy.com/hogar/nuevo-aspirador-gama-alta-cecotec-conga-12090-caracteristicas-precio-1309352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cecotec-conga-12090-3141990.jpg?tf=1200x' alt='Cecotec anuncia un robot aspirador de 1.500 euros: estas son las características de las que presume' />
     </a>
 </div>
 
