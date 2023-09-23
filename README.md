@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/toyota-inventa-mejor-forma-entrenar-robots-1309678'>Toyota se inventa la mejor forma de entrenar a los robots</a></h4>
+    <a href='https://computerhoy.com/tecnologia/toyota-inventa-mejor-forma-entrenar-robots-1309678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/toyota-inventa-mejor-forma-entrenar-robots-3142468.jpg?tf=1200x' alt='Toyota se inventa la mejor forma de entrenar a los robots' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/skimpflation-como-supermercados-te-enganan-calidad-compras-1309676'>Skimpflation: Así es cómo los supermercados te engañan con la calidad de lo que compras</a></h4>
+    <a href='https://computerhoy.com/alimentacion/skimpflation-como-supermercados-te-enganan-calidad-compras-1309676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/carrito-compra-supermercado-3142464.jpg?tf=1200x' alt='Skimpflation: Así es cómo los supermercados te engañan con la calidad de lo que compras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/importante-funcionalidad-android-desapareciendo-forma-misteriosa-moviles-1309656'>La importante funcionalidad de Android que está desapareciendo de forma misteriosa de los móviles</a></h4>
     <a href='https://computerhoy.com/android/importante-funcionalidad-android-desapareciendo-forma-misteriosa-moviles-1309656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/seguridad-telefono-movil-3142398.jpg?tf=1200x' alt='La importante funcionalidad de Android que está desapareciendo de forma misteriosa de los móviles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/estos-son-nuevos-limites-pago-bizum-1309654'>Estos son los nuevos límites de pago por Bizum</a></h4>
     <a href='https://computerhoy.com/apps/estos-son-nuevos-limites-pago-bizum-1309654' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bizum-3036548.jpg?tf=1200x' alt='Estos son los nuevos límites de pago por Bizum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/piratas-informaticos-rusos-buscan-pruebas-crimenes-guerra-avisa-ucrania-1309652'>Piratas informáticos rusos buscan pruebas de crímenes de guerra, avisa Ucrania</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/piratas-informaticos-rusos-buscan-pruebas-crimenes-guerra-avisa-ucrania-1309652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/pirata-informatico-3142380.jpg?tf=1200x' alt='Piratas informáticos rusos buscan pruebas de crímenes de guerra, avisa Ucrania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tinder-amor-tiene-precio-estrenan-nueva-suscripcion-vip-500-mensuales-1309646'>Para Tinder el amor sí tiene un precio: estrenan su nueva suscripción VIP de 500 dólares mensuales</a></h4>
-    <a href='https://computerhoy.com/apps/tinder-amor-tiene-precio-estrenan-nueva-suscripcion-vip-500-mensuales-1309646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tinder-2790683.jpg?tf=1200x' alt='Para Tinder el amor sí tiene un precio: estrenan su nueva suscripción VIP de 500 dólares mensuales' />
     </a>
 </div>
 
