@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/piratas-informaticos-rusos-buscan-pruebas-crimenes-guerra-avisa-ucrania-1309652'>Piratas informáticos rusos buscan pruebas de crímenes de guerra, avisa Ucrania</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/piratas-informaticos-rusos-buscan-pruebas-crimenes-guerra-avisa-ucrania-1309652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/pirata-informatico-3142380.jpg?tf=1200x' alt='Piratas informáticos rusos buscan pruebas de crímenes de guerra, avisa Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/tinder-amor-tiene-precio-estrenan-nueva-suscripcion-vip-500-mensuales-1309646'>Para Tinder el amor sí tiene un precio: estrenan su nueva suscripción VIP de 500 $ mensuales</a></h4>
     <a href='https://computerhoy.com/apps/tinder-amor-tiene-precio-estrenan-nueva-suscripcion-vip-500-mensuales-1309646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tinder-2790683.jpg?tf=1200x' alt='Para Tinder el amor sí tiene un precio: estrenan su nueva suscripción VIP de 500 $ mensuales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/7-series-son-spin-grandes-exitos-aunque-no-siempre-sepa-1308094'>7 series que son spin-off de grandes éxitos, aunque no siempre se sepa</a></h4>
     <a href='https://computerhoy.com/entretenimiento/7-series-son-spin-grandes-exitos-aunque-no-siempre-sepa-1308094' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/fear-walking-dead-temporada-6-3036078.jpg?tf=1200x' alt='7 series que son spin-off de grandes éxitos, aunque no siempre se sepa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/smartphone-plegable-final-mundial-futbol-1962-viajes-en-el-tiempo-1309590'>¿Qué hace un smartphone plegable en la final del Mundial de Fútbol de 1962?</a></h4>
-    <a href='https://computerhoy.com/life/smartphone-plegable-final-mundial-futbol-1962-viajes-en-el-tiempo-1309590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hace-smartphone-plegable-final-mundial-futbol-1962-3142312.jpg?tf=1200x' alt='¿Qué hace un smartphone plegable en la final del Mundial de Fútbol de 1962?' />
     </a>
 </div>
 
