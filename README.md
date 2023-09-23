@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tinder-amor-tiene-precio-estrenan-nueva-suscripcion-vip-500-mensuales-1309646'>Para Tinder el amor sí tiene un precio: estrenan su nueva suscripción VIP de 500 $ mensuales</a></h4>
+    <a href='https://computerhoy.com/apps/tinder-amor-tiene-precio-estrenan-nueva-suscripcion-vip-500-mensuales-1309646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/tinder-2790683.jpg?tf=1200x' alt='Para Tinder el amor sí tiene un precio: estrenan su nueva suscripción VIP de 500 $ mensuales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/error-configuracion-iphone-15-podria-mostrarte-logo-apple-muerte-1309638'>El error de configuración del iPhone 15 que podría mostrarte el "logo de Apple de la muerte"</a></h4>
+    <a href='https://computerhoy.com/apple/error-configuracion-iphone-15-podria-mostrarte-logo-apple-muerte-1309638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3133026.jpg?tf=1200x' alt='El error de configuración del iPhone 15 que podría mostrarte el "logo de Apple de la muerte"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-contactar-atencion-cliente-movistar-1279926'>Cómo contactar con atención al cliente de Movistar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-contactar-atencion-cliente-movistar-1279926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/contactar-movistar-3091224.jpg?tf=1200x' alt='Cómo contactar con atención al cliente de Movistar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/7-series-son-spin-grandes-exitos-aunque-no-siempre-sepa-1308094'>7 series que son spin-off de grandes éxitos, aunque no siempre se sepa</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-series-son-spin-grandes-exitos-aunque-no-siempre-sepa-1308094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/fear-walking-dead-temporada-6-3036078.jpg?tf=1200x' alt='7 series que son spin-off de grandes éxitos, aunque no siempre se sepa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/smartphone-plegable-final-mundial-futbol-1962-viajes-en-el-tiempo-1309590'>¿Qué hace un smartphone plegable en la final del Mundial de Fútbol de 1962?</a></h4>
     <a href='https://computerhoy.com/life/smartphone-plegable-final-mundial-futbol-1962-viajes-en-el-tiempo-1309590' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hace-smartphone-plegable-final-mundial-futbol-1962-3142312.jpg?tf=1200x' alt='¿Qué hace un smartphone plegable en la final del Mundial de Fútbol de 1962?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/amazon-prime-video-tendra-publicidad-2024-menos-pagues-1309618'>Amazon Prime Video tendrá publicidad en 2024 a menos que pagues más</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/amazon-prime-video-tendra-publicidad-2024-menos-pagues-1309618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazon-prime-video-3142334.jpg?tf=1200x' alt='Amazon Prime Video tendrá publicidad en 2024 a menos que pagues más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/20-funciones-ocultas-windows-11-anadidas-recientemente-1305802'>20 funciones ocultas de Windows 11 añadidas recientemente que seguramente no conoces</a></h4>
-    <a href='https://computerhoy.com/windows/20-funciones-ocultas-windows-11-anadidas-recientemente-1305802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/20-funciones-ocultas-windows-11-anadidas-recientemente-seguramente-no-conoces-3136286.jpg?tf=1200x' alt='20 funciones ocultas de Windows 11 añadidas recientemente que seguramente no conoces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/increible-metal-viene-espacio-podria-revolucionar-tecnologia-coches-electricos-1297030'>El increíble metal que viene del espacio y que podría revolucionar la tecnología de los coches eléctricos, las baterías y las armas nucleares</a></h4>
-    <a href='https://computerhoy.com/ciencia/increible-metal-viene-espacio-podria-revolucionar-tecnologia-coches-electricos-1297030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/metal-espacio-exterior-3121396.jpg?tf=1200x' alt='El increíble metal que viene del espacio y que podría revolucionar la tecnología de los coches eléctricos, las baterías y las armas nucleares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/twitch-vs-kick-gigante-comercio-criptocasino-1302206'>Twitch vs. Kick: un gigante del comercio electrónico contra un criptocasino</a></h4>
-    <a href='https://computerhoy.com/tecnologia/twitch-vs-kick-gigante-comercio-criptocasino-1302206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/twitch-versus-kick-streaming-directos-plataformas-3129816.jpg?tf=1200x' alt='Twitch vs. Kick: un gigante del comercio electrónico contra un criptocasino' />
     </a>
 </div>
 
