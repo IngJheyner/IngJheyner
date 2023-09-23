@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/matusalen-pez-un-siglo-viviendo-acuario-1309400'>Matusalén, el pez que lleva un siglo viviendo en un acuario</a></h4>
+    <a href='https://computerhoy.com/ciencia/matusalen-pez-un-siglo-viviendo-acuario-1309400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/matusalen-pez-lleva-siglo-viviendo-acuario-3142096.jpg?tf=1200x' alt='Matusalén, el pez que lleva un siglo viviendo en un acuario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/unity-da-marcha-atras-pide-perdon-anuncia-nuevo-plan-precios-1309394'>Unity da marcha atrás, pide perdón y anuncia su nuevo plan de precios</a></h4>
     <a href='https://computerhoy.com/gaming/unity-da-marcha-atras-pide-perdon-anuncia-nuevo-plan-precios-1309394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/unity-da-marcha-atras-pide-perdon-anuncia-nuevo-plan-precios-3142074.jpg?tf=1200x' alt='Unity da marcha atrás, pide perdón y anuncia su nuevo plan de precios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/juego-calamar-desafio-reality-fecha-estreno-netflix-1309386'>Llega la versión real de El Juego del Calamar, con 456 participantes y el mayor premio de la historia</a></h4>
     <a href='https://computerhoy.com/entretenimiento/juego-calamar-desafio-reality-fecha-estreno-netflix-1309386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1695408139433-3142044.jpg?tf=1200x' alt='Llega la versión real de El Juego del Calamar, con 456 participantes y el mayor premio de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/elimina-estas-apps-iphone-no-son-esenciales-ralentizan-rendimiento-1309324'>Elimina estas aplicaciones de tu iPhone: no son esenciales y ralentizan su rendimiento</a></h4>
-    <a href='https://computerhoy.com/apple/elimina-estas-apps-iphone-no-son-esenciales-ralentizan-rendimiento-1309324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-13-3135746.jpg?tf=1200x' alt='Elimina estas aplicaciones de tu iPhone: no son esenciales y ralentizan su rendimiento' />
     </a>
 </div>
 
