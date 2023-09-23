@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/fin-discotecas-cierres-masivos-jovenes-ya-no-les-gustan-1309582'>¿El fin de las discotecas? Cierres masivos porque a los jóvenes ya no les gustan</a></h4>
+    <a href='https://computerhoy.com/life/fin-discotecas-cierres-masivos-jovenes-ya-no-les-gustan-1309582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fin-discotecas-cierres-masivos-porque-jovenes-ya-no-gustan-3142114.jpg?tf=1200x' alt='¿El fin de las discotecas? Cierres masivos porque a los jóvenes ya no les gustan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/matusalen-pez-un-siglo-viviendo-acuario-1309400'>Matusalén, el pez que lleva un siglo viviendo en un acuario</a></h4>
     <a href='https://computerhoy.com/ciencia/matusalen-pez-un-siglo-viviendo-acuario-1309400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/matusalen-pez-lleva-siglo-viviendo-acuario-3142096.jpg?tf=1200x' alt='Matusalén, el pez que lleva un siglo viviendo en un acuario' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/nuevo-aspirador-gama-alta-cecotec-conga-12090-caracteristicas-precio-1309352'>Cecotec anuncia un robot aspirador de 1.500 euros: estas son las características de las que presume</a></h4>
     <a href='https://computerhoy.com/hogar/nuevo-aspirador-gama-alta-cecotec-conga-12090-caracteristicas-precio-1309352' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cecotec-conga-12090-3141990.jpg?tf=1200x' alt='Cecotec anuncia un robot aspirador de 1.500 euros: estas son las características de las que presume' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/juego-calamar-desafio-reality-fecha-estreno-netflix-1309386'>Llega la versión real de El Juego del Calamar, con 456 participantes y el mayor premio de la historia</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/juego-calamar-desafio-reality-fecha-estreno-netflix-1309386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1695408139433-3142044.jpg?tf=1200x' alt='Llega la versión real de El Juego del Calamar, con 456 participantes y el mayor premio de la historia' />
     </a>
 </div>
 
