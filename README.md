@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/pixel-8-camaras-magic-editor-precios-oficiales-1309966'>Desveladas las cámaras y la IA del Pixel 8: el fin de la realidad</a></h4>
+    <a href='https://computerhoy.com/google/pixel-8-camaras-magic-editor-precios-oficiales-1309966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pixel-8-pro-3121946.jpg?tf=1200x' alt='Desveladas las cámaras y la IA del Pixel 8: el fin de la realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/logran-adaptar-tecnologia-realidad-virtual-uso-consultas-medicas-1309952'>Logran adaptar la tecnología de realidad virtual para su uso en consultas médicas</a></h4>
     <a href='https://computerhoy.com/tecnologia/logran-adaptar-tecnologia-realidad-virtual-uso-consultas-medicas-1309952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/medico-realidad-virtual-3142788.jpg?tf=1200x' alt='Logran adaptar la tecnología de realidad virtual para su uso en consultas médicas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-desinstalar-revertir-actualizacion-windows-11-1304380'>Cómo desinstalar y revertir una actualización de Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-desinstalar-revertir-actualizacion-windows-11-1304380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3095996.jpg?tf=1200x' alt='Cómo desinstalar y revertir una actualización de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-dispositivo-cuantificar-objetivamente-picor-1309938'>Crean un dispositivo para cuantificar objetivamente el picor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-dispositivo-cuantificar-objetivamente-picor-1309938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mujer-rascandose-brazo-3142778.jpg?tf=1200x' alt='Crean un dispositivo para cuantificar objetivamente el picor' />
     </a>
 </div>
 
