@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/logran-adaptar-tecnologia-realidad-virtual-uso-consultas-medicas-1309952'>Logran adaptar la tecnología de realidad virtual para su uso en consultas médicas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/logran-adaptar-tecnologia-realidad-virtual-uso-consultas-medicas-1309952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/medico-realidad-virtual-3142788.jpg?tf=1200x' alt='Logran adaptar la tecnología de realidad virtual para su uso en consultas médicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tim-cook-consejero-delegado-apple-visita-espana-celebrar-lanzamiento-iphone-15-1309950'>Tim Cook, consejero delegado de Apple, visita España para celebrar el lanzamiento del iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/tim-cook-consejero-delegado-apple-visita-espana-celebrar-lanzamiento-iphone-15-1309950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tim-cook-dabiz-munoz-3142786.jpg?tf=1200x' alt='Tim Cook, consejero delegado de Apple, visita España para celebrar el lanzamiento del iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/elon-musk-desesperado-ruega-famosos-publiquen-x-1309948'>Elon Musk desesperado: ruega a famosos para que publiquen en X</a></h4>
     <a href='https://computerhoy.com/apps/elon-musk-desesperado-ruega-famosos-publiquen-x-1309948' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/elon-musk-x-3142784.jpg?tf=1200x' alt='Elon Musk desesperado: ruega a famosos para que publiquen en X' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/crean-dispositivo-cuantificar-objetivamente-picor-1309938'>Crean un dispositivo para cuantificar objetivamente el picor</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-dispositivo-cuantificar-objetivamente-picor-1309938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mujer-rascandose-brazo-3142778.jpg?tf=1200x' alt='Crean un dispositivo para cuantificar objetivamente el picor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-14-te-permitiria-utilizar-movil-como-camara-web-traves-usb-1309934'>Android 14 te permitiría utilizar tu móvil como cámara web a través de USB</a></h4>
-    <a href='https://computerhoy.com/android/android-14-te-permitiria-utilizar-movil-como-camara-web-traves-usb-1309934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/movil-usandose-como-webcam-3142774.jpg?tf=1200x' alt='Android 14 te permitiría utilizar tu móvil como cámara web a través de USB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-transferir-archivos-android-pc-windows-1308180'>7 métodos efectivos para transferir archivos de Android a un PC con Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-transferir-archivos-android-pc-windows-1308180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/7-metodos-efectivos-transferir-archivos-android-pc-windows-3140142.jpg?tf=1200x' alt='7 métodos efectivos para transferir archivos de Android a un PC con Windows' />
     </a>
 </div>
 
