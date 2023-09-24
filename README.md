@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/lg-oled-tv-evo-g3-analisis-opinion-seguramente-mejor-modelo-2023-1283300'>LG OLED TV evo G3, análisis y opinión: de lo mejor del mercado en 2023</a></h4>
-    <a href='https://computerhoy.com/analisis/lg-oled-tv-evo-g3-analisis-opinion-seguramente-mejor-modelo-2023-1283300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lg-oled-evo-g3-3140498.jpg?tf=1200x' alt='LG OLED TV evo G3, análisis y opinión: de lo mejor del mercado en 2023' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar según tu presupuesto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-z-flip5-3089414.jpg?tf=1200x' alt='Los mejores móviles Samsung que puedes comprar según tu presupuesto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/colorear-dibujos-reducir-estres-1309782'>Ni meditación ni ejercicio: esta sencilla actividad es la que más reduce el estrés</a></h4>
-    <a href='https://computerhoy.com/life/colorear-dibujos-reducir-estres-1309782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ni-meditacion-ni-ejercicio-sencilla-actividad-reduce-estres-3142512.jpg?tf=1200x' alt='Ni meditación ni ejercicio: esta sencilla actividad es la que más reduce el estrés' />
+    <h4><a href='https://computerhoy.com/tecnologia/lineas-rojas-inteligencia-artificial-hace-humanos-verdaderamente-unicos-1306928'>Las líneas rojas de la Inteligencia Artificial: ¿Qué hace a los humanos verdaderamente únicos?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lineas-rojas-inteligencia-artificial-hace-humanos-verdaderamente-unicos-1306928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/inteligencia-artificial-3138794.jpg?tf=1200x' alt='Las líneas rojas de la Inteligencia Artificial: ¿Qué hace a los humanos verdaderamente únicos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/crean-nuevo-revestimiento-enfria-calienta-casa-1309680'>Crean un nuevo revestimiento que enfría y calienta tu casa</a></h4>
-    <a href='https://computerhoy.com/life/crean-nuevo-revestimiento-enfria-calienta-casa-1309680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/crean-nuevo-revestimiento-enfria-calienta-casa-3142470.jpg?tf=1200x' alt='Crean un nuevo revestimiento que enfría y calienta tu casa' />
+    <h4><a href='https://computerhoy.com/ciencia/vida-muerte-unico-hibrido-perro-zorro-conoce-1309900'>Vida y muerte del único híbrido de perro y zorro que se conoce</a></h4>
+    <a href='https://computerhoy.com/ciencia/vida-muerte-unico-hibrido-perro-zorro-conoce-1309900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/vida-muerte-unico-hibrido-perro-zorro-conoce-3142712.jpg?tf=1200x' alt='Vida y muerte del único híbrido de perro y zorro que se conoce' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-natacion-aguas-abiertas-907327'>Estos son los mejores relojes para natación en aguas abiertas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-natacion-aguas-abiertas-907327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/natacion-aguas-abiertas-3139296.jpg?tf=1200x' alt='Estos son los mejores relojes para natación en aguas abiertas' />
+    <h4><a href='https://computerhoy.com/moviles/jovenes-opinan-moviles-iphone-android-hay-mucho-adicto-apple-solo-ser-popular-1303746'>Los jóvenes opinan de los móviles Android vs. iPhone: "Hay mucho adicto a Apple simplemente por tener ese 'chute' de estatus"</a></h4>
+    <a href='https://computerhoy.com/moviles/jovenes-opinan-moviles-iphone-android-hay-mucho-adicto-apple-solo-ser-popular-1303746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/jovenes-moviles-android-iphone-3136664.jpg?tf=1200x' alt='Los jóvenes opinan de los móviles Android vs. iPhone: "Hay mucho adicto a Apple simplemente por tener ese 'chute' de estatus"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/suspende-carnet-conducir-12-veces-busca-doble-pero-todo-sale-mal-1309686'>Suspende el carnet de conducir 12 veces, se busca un doble para sustituirlo, pero la cosa no sale bien</a></h4>
-    <a href='https://computerhoy.com/motor/suspende-carnet-conducir-12-veces-busca-doble-pero-todo-sale-mal-1309686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/suspende-carnet-conducir-12-veces-busca-doble-sustituirlo-pero-cosa-no-sale-bien-3142492.jpg?tf=1200x' alt='Suspende el carnet de conducir 12 veces, se busca un doble para sustituirlo, pero la cosa no sale bien' />
+    <h4><a href='https://computerhoy.com/internet/son-cookies-tipos-existen-cual-funcion-1302820'>¿Qué son las cookies, qué tipos existen y cuál es su función?</a></h4>
+    <a href='https://computerhoy.com/internet/son-cookies-tipos-existen-cual-funcion-1302820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cookies-3140880.jpg?tf=1200x' alt='¿Qué son las cookies, qué tipos existen y cuál es su función?' />
     </a>
 </div>
 
