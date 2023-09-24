@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/suspende-carnet-conducir-12-veces-busca-doble-pero-todo-sale-mal-1309686'>Suspende el carnet de conducir 12 veces, se busca un doble para sustituirlo, pero la cosa no sale bien</a></h4>
+    <a href='https://computerhoy.com/motor/suspende-carnet-conducir-12-veces-busca-doble-pero-todo-sale-mal-1309686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/suspende-carnet-conducir-12-veces-busca-doble-sustituirlo-pero-cosa-no-sale-bien-3142492.jpg?tf=1200x' alt='Suspende el carnet de conducir 12 veces, se busca un doble para sustituirlo, pero la cosa no sale bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/toyota-inventa-mejor-forma-entrenar-robots-1309678'>Toyota se inventa la mejor forma de entrenar a los robots</a></h4>
     <a href='https://computerhoy.com/tecnologia/toyota-inventa-mejor-forma-entrenar-robots-1309678' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/toyota-inventa-mejor-forma-entrenar-robots-3142468.jpg?tf=1200x' alt='Toyota se inventa la mejor forma de entrenar a los robots' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/dazn-tumba-precio-suscripcion-pero-temporal-ahora-puedes-ahorrar-33-proximos-seis-meses-1309086'>DAZN tumba el precio de su suscripción, pero es temporal: ahora puedes ahorrar un 33% para los próximos seis meses</a></h4>
     <a href='https://computerhoy.com/tecnologia/dazn-tumba-precio-suscripcion-pero-temporal-ahora-puedes-ahorrar-33-proximos-seis-meses-1309086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/dazn-3141396.jpg?tf=1200x' alt='DAZN tumba el precio de su suscripción, pero es temporal: ahora puedes ahorrar un 33% para los próximos seis meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estos-son-nuevos-limites-pago-bizum-1309654'>Estos son los nuevos límites de pago por Bizum</a></h4>
-    <a href='https://computerhoy.com/apps/estos-son-nuevos-limites-pago-bizum-1309654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bizum-3036548.jpg?tf=1200x' alt='Estos son los nuevos límites de pago por Bizum' />
     </a>
 </div>
 
