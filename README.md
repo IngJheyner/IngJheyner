@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar según tu presupuesto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-z-flip5-3089414.jpg?tf=1200x' alt='Los mejores móviles Samsung que puedes comprar según tu presupuesto' />
+    <h4><a href='https://computerhoy.com/apps/elon-musk-desesperado-ruega-famosos-publiquen-x-1309948'>Elon Musk desesperado: ruega a famosos para que publiquen en X</a></h4>
+    <a href='https://computerhoy.com/apps/elon-musk-desesperado-ruega-famosos-publiquen-x-1309948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/elon-musk-x-3142784.jpg?tf=1200x' alt='Elon Musk desesperado: ruega a famosos para que publiquen en X' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lineas-rojas-inteligencia-artificial-hace-humanos-verdaderamente-unicos-1306928'>Las líneas rojas de la Inteligencia Artificial: ¿Qué hace a los humanos verdaderamente únicos?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lineas-rojas-inteligencia-artificial-hace-humanos-verdaderamente-unicos-1306928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/inteligencia-artificial-3138794.jpg?tf=1200x' alt='Las líneas rojas de la Inteligencia Artificial: ¿Qué hace a los humanos verdaderamente únicos?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-desinstalar-revertir-actualizacion-windows-11-1304380'>Cómo desinstalar y revertir una actualización de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desinstalar-revertir-actualizacion-windows-11-1304380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3095996.jpg?tf=1200x' alt='Cómo desinstalar y revertir una actualización de Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/vida-muerte-unico-hibrido-perro-zorro-conoce-1309900'>Vida y muerte del único híbrido de perro y zorro que se conoce</a></h4>
-    <a href='https://computerhoy.com/ciencia/vida-muerte-unico-hibrido-perro-zorro-conoce-1309900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/vida-muerte-unico-hibrido-perro-zorro-conoce-3142712.jpg?tf=1200x' alt='Vida y muerte del único híbrido de perro y zorro que se conoce' />
+    <h4><a href='https://computerhoy.com/tecnologia/crean-dispositivo-cuantificar-objetivamente-picor-1309938'>Crean un dispositivo para cuantificar objetivamente el picor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-dispositivo-cuantificar-objetivamente-picor-1309938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mujer-rascandose-brazo-3142778.jpg?tf=1200x' alt='Crean un dispositivo para cuantificar objetivamente el picor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/jovenes-opinan-moviles-iphone-android-hay-mucho-adicto-apple-solo-ser-popular-1303746'>Los jóvenes opinan de los móviles Android vs. iPhone: "Hay mucho adicto a Apple simplemente por tener ese 'chute' de estatus"</a></h4>
-    <a href='https://computerhoy.com/moviles/jovenes-opinan-moviles-iphone-android-hay-mucho-adicto-apple-solo-ser-popular-1303746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/jovenes-moviles-android-iphone-3136664.jpg?tf=1200x' alt='Los jóvenes opinan de los móviles Android vs. iPhone: "Hay mucho adicto a Apple simplemente por tener ese 'chute' de estatus"' />
+    <h4><a href='https://computerhoy.com/android/android-14-te-permitiria-utilizar-movil-como-camara-web-traves-usb-1309934'>Android 14 te permitiría utilizar tu móvil como cámara web a través de USB</a></h4>
+    <a href='https://computerhoy.com/android/android-14-te-permitiria-utilizar-movil-como-camara-web-traves-usb-1309934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/movil-usandose-como-webcam-3142774.jpg?tf=1200x' alt='Android 14 te permitiría utilizar tu móvil como cámara web a través de USB' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/son-cookies-tipos-existen-cual-funcion-1302820'>¿Qué son las cookies, qué tipos existen y cuál es su función?</a></h4>
-    <a href='https://computerhoy.com/internet/son-cookies-tipos-existen-cual-funcion-1302820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cookies-3140880.jpg?tf=1200x' alt='¿Qué son las cookies, qué tipos existen y cuál es su función?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-transferir-archivos-android-pc-windows-1308180'>7 métodos efectivos para transferir archivos de Android a un PC con Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-transferir-archivos-android-pc-windows-1308180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/7-metodos-efectivos-transferir-archivos-android-pc-windows-3140142.jpg?tf=1200x' alt='7 métodos efectivos para transferir archivos de Android a un PC con Windows' />
     </a>
 </div>
 
