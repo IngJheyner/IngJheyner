@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estudio-determina-nft-han-perdido-todo-valor-1309984'>Un nuevo estudio determina que el 95% de los NFT han perdido todo su valor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estudio-determina-nft-han-perdido-todo-valor-1309984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/estudio-determina-95-nfts-han-perdido-todo-valor-3142830.jpg?tf=1200x' alt='Un nuevo estudio determina que el 95% de los NFT han perdido todo su valor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-acusada-favorecer-contenidos-creados-ia-buscador-1309982'>Google es acusada de favorecer los contenidos creados con IA en su buscador</a></h4>
+    <a href='https://computerhoy.com/google/google-acusada-favorecer-contenidos-creados-ia-buscador-1309982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/stable-difussion-v2-2881081.jpg?tf=1200x' alt='Google es acusada de favorecer los contenidos creados con IA en su buscador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/ocaso-moviles-han-cerrado-casi-500-marcas-2017-1309980'>El ocaso de los móviles: han desaparecido casi 500 marcas desde 2017</a></h4>
     <a href='https://computerhoy.com/moviles/ocaso-moviles-han-cerrado-casi-500-marcas-2017-1309980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ocaso-moviles-han-desaparecido-casi-500-marcas-2017-3142804.jpg?tf=1200x' alt='El ocaso de los móviles: han desaparecido casi 500 marcas desde 2017' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/pixel-8-camaras-magic-editor-precios-oficiales-1309966'>Desveladas las cámaras y la IA del Pixel 8: el fin de la realidad</a></h4>
     <a href='https://computerhoy.com/google/pixel-8-camaras-magic-editor-precios-oficiales-1309966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pixel-8-pro-3121946.jpg?tf=1200x' alt='Desveladas las cámaras y la IA del Pixel 8: el fin de la realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/logran-adaptar-tecnologia-realidad-virtual-uso-consultas-medicas-1309952'>Logran adaptar la tecnología de realidad virtual para su uso en consultas médicas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/logran-adaptar-tecnologia-realidad-virtual-uso-consultas-medicas-1309952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/medico-realidad-virtual-3142788.jpg?tf=1200x' alt='Logran adaptar la tecnología de realidad virtual para su uso en consultas médicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tim-cook-consejero-delegado-apple-visita-espana-celebrar-lanzamiento-iphone-15-1309950'>Tim Cook, consejero delegado de Apple, visita España para celebrar el lanzamiento del iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/tim-cook-consejero-delegado-apple-visita-espana-celebrar-lanzamiento-iphone-15-1309950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tim-cook-dabiz-munoz-3142786.jpg?tf=1200x' alt='Tim Cook, consejero delegado de Apple, visita España para celebrar el lanzamiento del iPhone 15' />
     </a>
 </div>
 
