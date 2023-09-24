@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/lg-oled-tv-evo-g3-analisis-opinion-seguramente-mejor-modelo-2023-1283300'>LG OLED TV evo G3, análisis y opinión: de lo mejor del mercado en 2023</a></h4>
+    <a href='https://computerhoy.com/analisis/lg-oled-tv-evo-g3-analisis-opinion-seguramente-mejor-modelo-2023-1283300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lg-oled-evo-g3-3140498.jpg?tf=1200x' alt='LG OLED TV evo G3, análisis y opinión: de lo mejor del mercado en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/colorear-dibujos-reducir-estres-1309782'>Ni meditación ni ejercicio: esta sencilla actividad es la que más reduce el estrés</a></h4>
+    <a href='https://computerhoy.com/life/colorear-dibujos-reducir-estres-1309782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ni-meditacion-ni-ejercicio-sencilla-actividad-reduce-estres-3142512.jpg?tf=1200x' alt='Ni meditación ni ejercicio: esta sencilla actividad es la que más reduce el estrés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/crean-nuevo-revestimiento-enfria-calienta-casa-1309680'>Crean un nuevo revestimiento que enfría y calienta tu casa</a></h4>
+    <a href='https://computerhoy.com/life/crean-nuevo-revestimiento-enfria-calienta-casa-1309680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/crean-nuevo-revestimiento-enfria-calienta-casa-3142470.jpg?tf=1200x' alt='Crean un nuevo revestimiento que enfría y calienta tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-natacion-aguas-abiertas-907327'>Estos son los mejores relojes para natación en aguas abiertas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-natacion-aguas-abiertas-907327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/natacion-aguas-abiertas-3139296.jpg?tf=1200x' alt='Estos son los mejores relojes para natación en aguas abiertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/suspende-carnet-conducir-12-veces-busca-doble-pero-todo-sale-mal-1309686'>Suspende el carnet de conducir 12 veces, se busca un doble para sustituirlo, pero la cosa no sale bien</a></h4>
     <a href='https://computerhoy.com/motor/suspende-carnet-conducir-12-veces-busca-doble-pero-todo-sale-mal-1309686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/suspende-carnet-conducir-12-veces-busca-doble-sustituirlo-pero-cosa-no-sale-bien-3142492.jpg?tf=1200x' alt='Suspende el carnet de conducir 12 veces, se busca un doble para sustituirlo, pero la cosa no sale bien' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/toyota-inventa-mejor-forma-entrenar-robots-1309678'>Toyota se inventa la mejor forma de entrenar a los robots</a></h4>
-    <a href='https://computerhoy.com/tecnologia/toyota-inventa-mejor-forma-entrenar-robots-1309678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/toyota-inventa-mejor-forma-entrenar-robots-3142468.jpg?tf=1200x' alt='Toyota se inventa la mejor forma de entrenar a los robots' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/skimpflation-como-supermercados-te-enganan-calidad-compras-1309676'>Skimpflation: Así es cómo los supermercados te engañan con la calidad de lo que compras</a></h4>
-    <a href='https://computerhoy.com/alimentacion/skimpflation-como-supermercados-te-enganan-calidad-compras-1309676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/carrito-compra-supermercado-3142464.jpg?tf=1200x' alt='Skimpflation: Así es cómo los supermercados te engañan con la calidad de lo que compras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/importante-funcionalidad-android-desapareciendo-forma-misteriosa-moviles-1309656'>La importante funcionalidad de Android que está desapareciendo de forma misteriosa de los móviles</a></h4>
-    <a href='https://computerhoy.com/android/importante-funcionalidad-android-desapareciendo-forma-misteriosa-moviles-1309656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/seguridad-telefono-movil-3142398.jpg?tf=1200x' alt='La importante funcionalidad de Android que está desapareciendo de forma misteriosa de los móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dazn-tumba-precio-suscripcion-pero-temporal-ahora-puedes-ahorrar-33-proximos-seis-meses-1309086'>DAZN tumba el precio de su suscripción, pero es temporal: ahora puedes ahorrar un 33% para los próximos seis meses</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dazn-tumba-precio-suscripcion-pero-temporal-ahora-puedes-ahorrar-33-proximos-seis-meses-1309086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/dazn-3141396.jpg?tf=1200x' alt='DAZN tumba el precio de su suscripción, pero es temporal: ahora puedes ahorrar un 33% para los próximos seis meses' />
     </a>
 </div>
 
