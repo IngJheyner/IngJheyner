@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/ocaso-moviles-han-cerrado-casi-500-marcas-2017-1309980'>El ocaso de los móviles: han desaparecido casi 500 marcas desde 2017</a></h4>
+    <a href='https://computerhoy.com/moviles/ocaso-moviles-han-cerrado-casi-500-marcas-2017-1309980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ocaso-moviles-han-desaparecido-casi-500-marcas-2017-3142804.jpg?tf=1200x' alt='El ocaso de los móviles: han desaparecido casi 500 marcas desde 2017' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/muestras-asteroide-bennu-ya-estan-tierra-1309974'>Las muestras del asteroide Bennu ya están en la Tierra: la misión OSIRIS-REx ha sido un éxito</a></h4>
+    <a href='https://computerhoy.com/espacio/muestras-asteroide-bennu-ya-estan-tierra-1309974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/muestras-asteroide-bennu-ya-estan-tierra-mision-osiris-rex-ha-sido-exito-3142798.jpg?tf=1200x' alt='Las muestras del asteroide Bennu ya están en la Tierra: la misión OSIRIS-REx ha sido un éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/pixel-8-camaras-magic-editor-precios-oficiales-1309966'>Desveladas las cámaras y la IA del Pixel 8: el fin de la realidad</a></h4>
     <a href='https://computerhoy.com/google/pixel-8-camaras-magic-editor-precios-oficiales-1309966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pixel-8-pro-3121946.jpg?tf=1200x' alt='Desveladas las cámaras y la IA del Pixel 8: el fin de la realidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/tim-cook-consejero-delegado-apple-visita-espana-celebrar-lanzamiento-iphone-15-1309950'>Tim Cook, consejero delegado de Apple, visita España para celebrar el lanzamiento del iPhone 15</a></h4>
     <a href='https://computerhoy.com/apple/tim-cook-consejero-delegado-apple-visita-espana-celebrar-lanzamiento-iphone-15-1309950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tim-cook-dabiz-munoz-3142786.jpg?tf=1200x' alt='Tim Cook, consejero delegado de Apple, visita España para celebrar el lanzamiento del iPhone 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elon-musk-desesperado-ruega-famosos-publiquen-x-1309948'>Elon Musk desesperado: ruega a famosos para que publiquen en X</a></h4>
-    <a href='https://computerhoy.com/apps/elon-musk-desesperado-ruega-famosos-publiquen-x-1309948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/elon-musk-x-3142784.jpg?tf=1200x' alt='Elon Musk desesperado: ruega a famosos para que publiquen en X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desinstalar-revertir-actualizacion-windows-11-1304380'>Cómo desinstalar y revertir una actualización de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desinstalar-revertir-actualizacion-windows-11-1304380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3095996.jpg?tf=1200x' alt='Cómo desinstalar y revertir una actualización de Windows 11' />
     </a>
 </div>
 
