@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chips-fotonicos-son-prometen-ser-300-veces-rapidos-chips-actuales-1310396'>Chips fotónicos: qué son y por qué prometen ser 300 veces más rápidos que los chips actuales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chips-fotonicos-son-prometen-ser-300-veces-rapidos-chips-actuales-1310396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/chips-3143652.jpg?tf=1200x' alt='Chips fotónicos: qué son y por qué prometen ser 300 veces más rápidos que los chips actuales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-eliminara-caracteristica-esencial-gmail-tres-meses-1310392'>Google retira una característica esencial de Gmail: la vista HTML básica será eliminada   </a></h4>
+    <a href='https://computerhoy.com/google/google-eliminara-caracteristica-esencial-gmail-tres-meses-1310392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Google retira una característica esencial de Gmail: la vista HTML básica será eliminada   ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mito-cuatro-islas-pacifico-realmente-poseia-espana-esos-territorios-1310372'>El mito de las cuatro islas del Pacífico: ¿Realmente poseía España esos territorios?</a></h4>
+    <a href='https://computerhoy.com/life/mito-cuatro-islas-pacifico-realmente-poseia-espana-esos-territorios-1310372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mapa-antiguo-3143484.jpg?tf=1200x' alt='El mito de las cuatro islas del Pacífico: ¿Realmente poseía España esos territorios?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-practicamente-todo-media-markt-30-estos-son-mejores-chollos-1310306'>Liquidación en prácticamente todo en Media Markt con hasta un 30%: estos son los mejores chollos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/liquidacion-practicamente-todo-media-markt-30-estos-son-mejores-chollos-1310306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/frontal-tienda-mediamarkt-3006918.jpg?tf=1200x' alt='Liquidación en prácticamente todo en Media Markt con hasta un 30%: estos son los mejores chollos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/acabo-fotocopiar-dni-aepd-exige-deje-hacer-seguridad-1310324'>Se acabó lo de fotocopiar o hacer una foto a tu DNI: la AEPD exige que se deje de hacer por seguridad</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/acabo-fotocopiar-dni-aepd-exige-deje-hacer-seguridad-1310324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fotocopiar-dni-3143380.jpg?tf=1200x' alt='Se acabó lo de fotocopiar o hacer una foto a tu DNI: la AEPD exige que se deje de hacer por seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-esperes-prime-day-octubre-pero-amazon-tiene-ya-robot-aspirador-precio-casi-insuperable-1310216'>No esperes al Prime Day de octubre, pero Amazon tiene ya un robot aspirador a precio casi insuperable</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-esperes-prime-day-octubre-pero-amazon-tiene-ya-robot-aspirador-precio-casi-insuperable-1310216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lefant-m210-2635959.jpg?tf=1200x' alt='No esperes al Prime Day de octubre, pero Amazon tiene ya un robot aspirador a precio casi insuperable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/cuidado-llamar-11824-como-funciona-timo-118-1310280'>Cuidado con llamar al 11824: así es como funciona y ha evolucionado el timo del 118</a></h4>
-    <a href='https://computerhoy.com/industria/cuidado-llamar-11824-como-funciona-timo-118-1310280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/estafas-telefonicas-3143296.jpg?tf=1200x' alt='Cuidado con llamar al 11824: así es como funciona y ha evolucionado el timo del 118' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/senales-alerta-indican-movil-android-ha-sido-hackeado-abre-bien-oidos-1310242'>Señales de alerta que indican que tu móvil Android ha sido 'hackeado': abre bien tus orejas</a></h4>
-    <a href='https://computerhoy.com/android/senales-alerta-indican-movil-android-ha-sido-hackeado-abre-bien-oidos-1310242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/android-hackeo-3143182.jpg?tf=1200x' alt='Señales de alerta que indican que tu móvil Android ha sido 'hackeado': abre bien tus orejas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/cuando-saldra-windows-12-fecha-lanzamiento-novedades-requisitos-1310214'>¿Cuándo saldrá Windows 12?: fecha de lanzamiento, novedades y requisitos</a></h4>
-    <a href='https://computerhoy.com/windows/cuando-saldra-windows-12-fecha-lanzamiento-novedades-requisitos-1310214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/windows-12-3143120.jpg?tf=1200x' alt='¿Cuándo saldrá Windows 12?: fecha de lanzamiento, novedades y requisitos' />
     </a>
 </div>
 
