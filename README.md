@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-copias-seguridad-whatsapp-google-drive-1298746'>Cómo desactivar las copias de seguridad automáticas de WhatsApp en Google Drive</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desactivar-copias-seguridad-whatsapp-google-drive-1298746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-2898188.jpg?tf=1200x' alt='Cómo desactivar las copias de seguridad automáticas de WhatsApp en Google Drive' />
+    <h4><a href='https://computerhoy.com/apple/iphone-15-tienen-nuevo-enemigo-cables-carga-moviles-android-1310582'>Los iPhone 15 tienen un nuevo enemigo: los cables de carga de los móviles Android</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-15-tienen-nuevo-enemigo-cables-carga-moviles-android-1310582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-conectado-usb-c-3143608.jpg?tf=1200x' alt='Los iPhone 15 tienen un nuevo enemigo: los cables de carga de los móviles Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/club-uranio-busca-bomba-atomica-nazi-no-fue-1310504'>El club del uranio: en busca de la bomba atómica nazi que (afortunadamente) no fue</a></h4>
-    <a href='https://computerhoy.com/life/club-uranio-busca-bomba-atomica-nazi-no-fue-1310504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/club-uranio-busca-bomba-atomica-nazi-no-fue-3143844.jpg?tf=1200x' alt='El club del uranio: en busca de la bomba atómica nazi que (afortunadamente) no fue' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-deja-apple-fuera-juego-tablet-barata-desploma-precio-aun-1310332'>Xiaomi deja a Apple en fuera de juego: su tablet más barata desploma su precio aún más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-deja-apple-fuera-juego-tablet-barata-desploma-precio-aun-1310332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-redmi-pad-3143356.jpg?tf=1200x' alt='Xiaomi deja a Apple en fuera de juego: su tablet más barata desploma su precio aún más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dyson-derriba-precio-aspiradoras-top-luz-potencia-igual-1309148'>Dyson derriba el precio de una de sus aspiradoras más top, con luz y potencia sin igual</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dyson-derriba-precio-aspiradoras-top-luz-potencia-igual-1309148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dyson-v12-slim-absolute-2842061.jpg?tf=1200x' alt='Dyson derriba el precio de una de sus aspiradoras más top, con luz y potencia sin igual' />
+    <h4><a href='https://computerhoy.com/google/pixel-8-filtran-todo-esplendor-1310554'>Los Pixel 8 se filtran en todo su esplendor: 7 años de actualizaciones, pantalla "Super Actua" con 2.400 nits de brillo y más</a></h4>
+    <a href='https://computerhoy.com/google/pixel-8-filtran-todo-esplendor-1310554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/pixel-8-filtran-todo-esplendor-7-anos-actualizaciones-pantalla-super-actua-2400-nits-brillo-3144060.jpg?tf=1200x' alt='Los Pixel 8 se filtran en todo su esplendor: 7 años de actualizaciones, pantalla "Super Actua" con 2.400 nits de brillo y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/desafio-reparar-iphone-cuba-reyes-reparaciones-no-oficiales-1309002'>El desafío de reparar un iPhone en Cuba: así se las apañan los reyes de las reparaciones no oficiales</a></h4>
-    <a href='https://computerhoy.com/apple/desafio-reparar-iphone-cuba-reyes-reparaciones-no-oficiales-1309002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bandera-cuba-3143730.jpg?tf=1200x' alt='El desafío de reparar un iPhone en Cuba: así se las apañan los reyes de las reparaciones no oficiales' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/liga-iptv-pide-google-poder-entrar-movil-1310552'>La Liga contra las IPTV: pide a Google poder entrar en tu móvil sin tu permiso</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/liga-iptv-pide-google-poder-entrar-movil-1310552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/futbol-iptv-3120030.jpg?tf=1200x' alt='La Liga contra las IPTV: pide a Google poder entrar en tu móvil sin tu permiso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/ue-quiere-prohibir-venta-coches-no-sean-100-libres-emisiones-carbono-2035-1310454'>La UE quiere prohibir la venta de coches que no sean 100% libres de emisiones carbono a partir de 2035</a></h4>
-    <a href='https://computerhoy.com/motor/ue-quiere-prohibir-venta-coches-no-sean-100-libres-emisiones-carbono-2035-1310454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/coche-electrico-2878539.jpg?tf=1200x' alt='La UE quiere prohibir la venta de coches que no sean 100% libres de emisiones carbono a partir de 2035' />
+    <h4><a href='https://computerhoy.com/audio/spotify-va-usar-ia-doblar-espanol-podcast-famosos-1310532'>Spotify usará IA para doblar al español sus pódcast con la voz del locutor</a></h4>
+    <a href='https://computerhoy.com/audio/spotify-va-usar-ia-doblar-espanol-podcast-famosos-1310532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/spotify-apuesta-podcast-sigue-pie-adquiere-empresa-monitoriza-episodios-seguridad-2834627.jpg?tf=1200x' alt='Spotify usará IA para doblar al español sus pódcast con la voz del locutor' />
     </a>
 </div>
 
