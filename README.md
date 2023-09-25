@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chips-fotonicos-son-prometen-ser-300-veces-rapidos-chips-actuales-1310396'>Chips fotónicos: qué son y por qué prometen ser 300 veces más rápidos que los chips actuales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chips-fotonicos-son-prometen-ser-300-veces-rapidos-chips-actuales-1310396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/chips-3143652.jpg?tf=1200x' alt='Chips fotónicos: qué son y por qué prometen ser 300 veces más rápidos que los chips actuales' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-copias-seguridad-whatsapp-google-drive-1298746'>Cómo desactivar las copias de seguridad automáticas de WhatsApp en Google Drive</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desactivar-copias-seguridad-whatsapp-google-drive-1298746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-2898188.jpg?tf=1200x' alt='Cómo desactivar las copias de seguridad automáticas de WhatsApp en Google Drive' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-eliminara-caracteristica-esencial-gmail-tres-meses-1310392'>Google retira una característica esencial de Gmail: la vista HTML básica será eliminada   </a></h4>
-    <a href='https://computerhoy.com/google/google-eliminara-caracteristica-esencial-gmail-tres-meses-1310392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Google retira una característica esencial de Gmail: la vista HTML básica será eliminada   ' />
+    <h4><a href='https://computerhoy.com/life/club-uranio-busca-bomba-atomica-nazi-no-fue-1310504'>El club del uranio: en busca de la bomba atómica nazi que (afortunadamente) no fue</a></h4>
+    <a href='https://computerhoy.com/life/club-uranio-busca-bomba-atomica-nazi-no-fue-1310504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/club-uranio-busca-bomba-atomica-nazi-no-fue-3143844.jpg?tf=1200x' alt='El club del uranio: en busca de la bomba atómica nazi que (afortunadamente) no fue' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mito-cuatro-islas-pacifico-realmente-poseia-espana-esos-territorios-1310372'>El mito de las cuatro islas del Pacífico: ¿Realmente poseía España esos territorios?</a></h4>
-    <a href='https://computerhoy.com/life/mito-cuatro-islas-pacifico-realmente-poseia-espana-esos-territorios-1310372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mapa-antiguo-3143484.jpg?tf=1200x' alt='El mito de las cuatro islas del Pacífico: ¿Realmente poseía España esos territorios?' />
+    <h4><a href='https://computerhoy.com/tecnologia/dyson-derriba-precio-aspiradoras-top-luz-potencia-igual-1309148'>Dyson derriba el precio de una de sus aspiradoras más top, con luz y potencia sin igual</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dyson-derriba-precio-aspiradoras-top-luz-potencia-igual-1309148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dyson-v12-slim-absolute-2842061.jpg?tf=1200x' alt='Dyson derriba el precio de una de sus aspiradoras más top, con luz y potencia sin igual' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-practicamente-todo-media-markt-30-estos-son-mejores-chollos-1310306'>Liquidación en prácticamente todo en Media Markt con hasta un 30%: estos son los mejores chollos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/liquidacion-practicamente-todo-media-markt-30-estos-son-mejores-chollos-1310306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/frontal-tienda-mediamarkt-3006918.jpg?tf=1200x' alt='Liquidación en prácticamente todo en Media Markt con hasta un 30%: estos son los mejores chollos' />
+    <h4><a href='https://computerhoy.com/apple/desafio-reparar-iphone-cuba-reyes-reparaciones-no-oficiales-1309002'>El desafío de reparar un iPhone en Cuba: así se las apañan los reyes de las reparaciones no oficiales</a></h4>
+    <a href='https://computerhoy.com/apple/desafio-reparar-iphone-cuba-reyes-reparaciones-no-oficiales-1309002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bandera-cuba-3143730.jpg?tf=1200x' alt='El desafío de reparar un iPhone en Cuba: así se las apañan los reyes de las reparaciones no oficiales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/acabo-fotocopiar-dni-aepd-exige-deje-hacer-seguridad-1310324'>Se acabó lo de fotocopiar o hacer una foto a tu DNI: la AEPD exige que se deje de hacer por seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/acabo-fotocopiar-dni-aepd-exige-deje-hacer-seguridad-1310324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fotocopiar-dni-3143380.jpg?tf=1200x' alt='Se acabó lo de fotocopiar o hacer una foto a tu DNI: la AEPD exige que se deje de hacer por seguridad' />
+    <h4><a href='https://computerhoy.com/motor/ue-quiere-prohibir-venta-coches-no-sean-100-libres-emisiones-carbono-2035-1310454'>La UE quiere prohibir la venta de coches que no sean 100% libres de emisiones carbono a partir de 2035</a></h4>
+    <a href='https://computerhoy.com/motor/ue-quiere-prohibir-venta-coches-no-sean-100-libres-emisiones-carbono-2035-1310454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/coche-electrico-2878539.jpg?tf=1200x' alt='La UE quiere prohibir la venta de coches que no sean 100% libres de emisiones carbono a partir de 2035' />
     </a>
 </div>
 
