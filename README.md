@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/acabo-fotocopiar-dni-aepd-exige-deje-hacer-seguridad-1310324'>Se acabó lo de fotocopiar o hacer una foto a tu DNI: la AEPD exige que se deje de hacer por seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/acabo-fotocopiar-dni-aepd-exige-deje-hacer-seguridad-1310324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fotocopiar-dni-3143380.jpg?tf=1200x' alt='Se acabó lo de fotocopiar o hacer una foto a tu DNI: la AEPD exige que se deje de hacer por seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-esperes-prime-day-octubre-pero-amazon-tiene-ya-robot-aspirador-precio-casi-insuperable-1310216'>No esperes al Prime Day de octubre, pero Amazon tiene ya un robot aspirador a precio casi insuperable</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-esperes-prime-day-octubre-pero-amazon-tiene-ya-robot-aspirador-precio-casi-insuperable-1310216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lefant-m210-2635959.jpg?tf=1200x' alt='No esperes al Prime Day de octubre, pero Amazon tiene ya un robot aspirador a precio casi insuperable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/cuidado-llamar-11824-como-funciona-timo-118-1310280'>Cuidado con llamar al 11824: así es como funciona y ha evolucionado el timo del 118</a></h4>
     <a href='https://computerhoy.com/industria/cuidado-llamar-11824-como-funciona-timo-118-1310280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/estafas-telefonicas-3143296.jpg?tf=1200x' alt='Cuidado con llamar al 11824: así es como funciona y ha evolucionado el timo del 118' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/cuando-saldra-windows-12-fecha-lanzamiento-novedades-requisitos-1310214'>¿Cuándo saldrá Windows 12?: fecha de lanzamiento, novedades y requisitos</a></h4>
     <a href='https://computerhoy.com/windows/cuando-saldra-windows-12-fecha-lanzamiento-novedades-requisitos-1310214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/windows-12-3143120.jpg?tf=1200x' alt='¿Cuándo saldrá Windows 12?: fecha de lanzamiento, novedades y requisitos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/watchos-10-analisis-opinion-1307446'>El nuevo watchOS 10 es motivo suficiente como para renovar tu antiguo Apple Watch</a></h4>
-    <a href='https://computerhoy.com/apple/watchos-10-analisis-opinion-1307446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-ultra-apple-watch-series-4-3138832.jpg?tf=1200x' alt='El nuevo watchOS 10 es motivo suficiente como para renovar tu antiguo Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuando-volveran-crecer-ventas-dispositivos-tecnologicos-1305700'>Cuándo volverán a crecer las ventas de los principales dispositivos tras 2 años de caídas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuando-volveran-crecer-ventas-dispositivos-tecnologicos-1305700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ventas-moviles-pc-3136140.jpg?tf=1200x' alt='Cuándo volverán a crecer las ventas de los principales dispositivos tras 2 años de caídas' />
     </a>
 </div>
 
