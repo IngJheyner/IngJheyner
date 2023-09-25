@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/watchos-10-analisis-opinion-1307446'>El nuevo watchOS 10 es motivo suficiente como para renovar tu antiguo Apple Watch</a></h4>
+    <a href='https://computerhoy.com/apple/watchos-10-analisis-opinion-1307446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-ultra-apple-watch-series-4-3138832.jpg?tf=1200x' alt='El nuevo watchOS 10 es motivo suficiente como para renovar tu antiguo Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuando-volveran-crecer-ventas-dispositivos-tecnologicos-1305700'>Cuándo volverán a crecer las ventas de los principales dispositivos tras 2 años de caídas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuando-volveran-crecer-ventas-dispositivos-tecnologicos-1305700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ventas-moviles-pc-3136140.jpg?tf=1200x' alt='Cuándo volverán a crecer las ventas de los principales dispositivos tras 2 años de caídas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049'>Los mejores lectores de eBook de 2023: cuál comprar, comparativa y guía para elegir</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/kindle-scribe-3139352.jpg?tf=1200x' alt='Los mejores lectores de eBook de 2023: cuál comprar, comparativa y guía para elegir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cuantas-celulas-tiene-cuerpo-humano-1309986'>¿Cuántas células tiene el cuerpo humano?</a></h4>
     <a href='https://computerhoy.com/ciencia/cuantas-celulas-tiene-cuerpo-humano-1309986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cuantas-celulas-tiene-cuerpo-humano-3142832.jpg?tf=1200x' alt='¿Cuántas células tiene el cuerpo humano?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estudio-determina-nft-han-perdido-todo-valor-1309984'>Un nuevo estudio determina que el 95% de los NFT han perdido todo su valor</a></h4>
     <a href='https://computerhoy.com/tecnologia/estudio-determina-nft-han-perdido-todo-valor-1309984' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/estudio-determina-95-nfts-han-perdido-todo-valor-3142830.jpg?tf=1200x' alt='Un nuevo estudio determina que el 95% de los NFT han perdido todo su valor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-acusada-favorecer-contenidos-creados-ia-buscador-1309982'>Google es acusada de favorecer los contenidos creados con IA en su buscador</a></h4>
-    <a href='https://computerhoy.com/google/google-acusada-favorecer-contenidos-creados-ia-buscador-1309982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/stable-difussion-v2-2881081.jpg?tf=1200x' alt='Google es acusada de favorecer los contenidos creados con IA en su buscador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ocaso-moviles-han-cerrado-casi-500-marcas-2017-1309980'>El ocaso de los móviles: han desaparecido casi 500 marcas desde 2017</a></h4>
-    <a href='https://computerhoy.com/moviles/ocaso-moviles-han-cerrado-casi-500-marcas-2017-1309980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ocaso-moviles-han-desaparecido-casi-500-marcas-2017-3142804.jpg?tf=1200x' alt='El ocaso de los móviles: han desaparecido casi 500 marcas desde 2017' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/muestras-asteroide-bennu-ya-estan-tierra-1309974'>Las muestras del asteroide Bennu ya están en la Tierra: la misión OSIRIS-REx ha sido un éxito</a></h4>
-    <a href='https://computerhoy.com/espacio/muestras-asteroide-bennu-ya-estan-tierra-1309974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/muestras-asteroide-bennu-ya-estan-tierra-mision-osiris-rex-ha-sido-exito-3142798.jpg?tf=1200x' alt='Las muestras del asteroide Bennu ya están en la Tierra: la misión OSIRIS-REx ha sido un éxito' />
     </a>
 </div>
 
