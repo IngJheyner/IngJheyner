@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cuantas-celulas-tiene-cuerpo-humano-1309986'>¿Cuántas células tiene el cuerpo humano?</a></h4>
+    <a href='https://computerhoy.com/ciencia/cuantas-celulas-tiene-cuerpo-humano-1309986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cuantas-celulas-tiene-cuerpo-humano-3142832.jpg?tf=1200x' alt='¿Cuántas células tiene el cuerpo humano?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estudio-determina-nft-han-perdido-todo-valor-1309984'>Un nuevo estudio determina que el 95% de los NFT han perdido todo su valor</a></h4>
     <a href='https://computerhoy.com/tecnologia/estudio-determina-nft-han-perdido-todo-valor-1309984' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/estudio-determina-95-nfts-han-perdido-todo-valor-3142830.jpg?tf=1200x' alt='Un nuevo estudio determina que el 95% de los NFT han perdido todo su valor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/muestras-asteroide-bennu-ya-estan-tierra-1309974'>Las muestras del asteroide Bennu ya están en la Tierra: la misión OSIRIS-REx ha sido un éxito</a></h4>
     <a href='https://computerhoy.com/espacio/muestras-asteroide-bennu-ya-estan-tierra-1309974' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/muestras-asteroide-bennu-ya-estan-tierra-mision-osiris-rex-ha-sido-exito-3142798.jpg?tf=1200x' alt='Las muestras del asteroide Bennu ya están en la Tierra: la misión OSIRIS-REx ha sido un éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/pixel-8-camaras-magic-editor-precios-oficiales-1309966'>Desveladas las cámaras y la IA del Pixel 8: el fin de la realidad</a></h4>
-    <a href='https://computerhoy.com/google/pixel-8-camaras-magic-editor-precios-oficiales-1309966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/pixel-8-pro-3121946.jpg?tf=1200x' alt='Desveladas las cámaras y la IA del Pixel 8: el fin de la realidad' />
     </a>
 </div>
 
