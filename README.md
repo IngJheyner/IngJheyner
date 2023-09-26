@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/business-insider-espana-gala-premios-top-teachers-2023-1306634'>Business Insider elige los Top Teachers del año: así puedes seguir en directo la gala de premios</a></h4>
+    <a href='https://computerhoy.com/internet/business-insider-espana-gala-premios-top-teachers-2023-1306634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/business-insider-espana-top-teachers-2023-3137416.jpg?tf=1200x' alt='Business Insider elige los Top Teachers del año: así puedes seguir en directo la gala de premios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/rover-lunar-india-no-da-senales-vida-teme-peor-1310808'>El rover lunar de la India no da señales de vida, se teme lo peor</a></h4>
+    <a href='https://computerhoy.com/espacio/rover-lunar-india-no-da-senales-vida-teme-peor-1310808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/rover-lunar-india-no-da-senales-vida-teme-peor-3144332.jpg?tf=1200x' alt='El rover lunar de la India no da señales de vida, se teme lo peor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/teclados-logitech-estos-son-mejores-puedes-comprar-ahora-mismo-1310590'>Teclados Logitech: estos son los mejores que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/teclados-logitech-estos-son-mejores-puedes-comprar-ahora-mismo-1310590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/teclado-ergonomico-logitech-k860-3097298.jpg?tf=1200x' alt='Teclados Logitech: estos son los mejores que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/salen-grumos-blancos-aceite-oliva-1309366'>La recomendación de los expertos ante el aceite de oliva virgen con este aspecto</a></h4>
+    <a href='https://computerhoy.com/life/salen-grumos-blancos-aceite-oliva-1309366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/aceite-oliva-virgen-extra-grumos-3143272.jpg?tf=1200x' alt='La recomendación de los expertos ante el aceite de oliva virgen con este aspecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/reboot-the-office-greg-daniels-1310802'>El reboot de The Office está en marcha, con el creador original, ¿es necesario?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/reboot-the-office-greg-daniels-1310802' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/office-2736753.jpg?tf=1200x' alt='El reboot de The Office está en marcha, con el creador original, ¿es necesario?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-energia-nuclear-centros-datos-1310594'>La IA consume tanta electricidad, que Microsoft quiere usar energía nuclear con sus servidores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-energia-nuclear-centros-datos-1310594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/central-nuclear-2679561.jpg?tf=1200x' alt='La IA consume tanta electricidad, que Microsoft quiere usar energía nuclear con sus servidores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-muestra-15-lugares-turisticos-peores-valorados-mundo-1310580'>Este mapa muestra los 15 lugares turísticos peor valorados del mundo y uno está en España</a></h4>
-    <a href='https://computerhoy.com/life/mapa-muestra-15-lugares-turisticos-peores-valorados-mundo-1310580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mapa-muestra-15-lugares-turisticos-peores-valorados-mundo-espana-3144126.jpg?tf=1200x' alt='Este mapa muestra los 15 lugares turísticos peor valorados del mundo y uno está en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/avances-optimus-robot-tesla-hace-yoga-autocalibra-1310570'>Avances en Optimus, el robot de Tesla: hace yoga, se autocalibra y ordena objetos autónomamente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/avances-optimus-robot-tesla-hace-yoga-autocalibra-1310570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/avances-optimus-robot-tesla-hace-yoga-contratan-personal-desarollo-3144058.jpg?tf=1200x' alt='Avances en Optimus, el robot de Tesla: hace yoga, se autocalibra y ordena objetos autónomamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tierra-tendra-solo-un-continente-esteril-1310564'>La Tierra tendrá solo un continente con el 92% de la tierra estéril e inhabitable en 250 millones de años</a></h4>
-    <a href='https://computerhoy.com/life/tierra-tendra-solo-un-continente-esteril-1310564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tierra-volvera-tener-solo-continente-dentro-250-millones-anos-casi-toda-tierra-esteril-inhabitable-3143992.jpg?tf=1200x' alt='La Tierra tendrá solo un continente con el 92% de la tierra estéril e inhabitable en 250 millones de años' />
     </a>
 </div>
 
