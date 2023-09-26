@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/todas-formas-multa-trafico-invalida-1311134'>Todas las formas en las que una multa de tráfico de la DGT es inválida</a></h4>
+    <a href='https://computerhoy.com/motor/todas-formas-multa-trafico-invalida-1311134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/testra-como-saber-tienes-multa-trafico-1963867.jpg?tf=1200x' alt='Todas las formas en las que una multa de tráfico de la DGT es inválida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/oceanos-mundo-son-5-sabes-cual-quinto-1311104'>Los océanos del mundo ahora son 5: ¿sabes cuál es el quinto?</a></h4>
+    <a href='https://computerhoy.com/life/oceanos-mundo-son-5-sabes-cual-quinto-1311104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/oceanos-mundo-son-5-sabes-cual-quinto-3145022.jpg?tf=1200x' alt='Los océanos del mundo ahora son 5: ¿sabes cuál es el quinto?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-windows-11-sorprende-barato-potente-16gb-ram-1307400'>Este Mini PC con Windows 11 sorprende por barato y potente con hasta 16GB de RAM</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-windows-11-sorprende-barato-potente-16gb-ram-1307400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mini-pc-aliexpress-3138526.jpg?tf=1200x' alt='Este Mini PC con Windows 11 sorprende por barato y potente con hasta 16GB de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/coches-electricos-tienen-grave-problema-neumaticos-1311070'>Los coches eléctricos tienen un grave problema: los neumáticos</a></h4>
+    <a href='https://computerhoy.com/motor/coches-electricos-tienen-grave-problema-neumaticos-1311070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/coches-electricos-tiene-grave-problema-neumaticos-3144964.jpg?tf=1200x' alt='Los coches eléctricos tienen un grave problema: los neumáticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/9-formas-reutilizar-productos-caducados-1309396'>9 formas de reutilizar productos caducados</a></h4>
     <a href='https://computerhoy.com/life/9-formas-reutilizar-productos-caducados-1309396' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/9-formas-reutilizar-productos-caducados-3142116.jpg?tf=1200x' alt='9 formas de reutilizar productos caducados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/canal-tdt-bloqueando-smart-tv-philips-lg-samsung-1311052'>Este canal de la TDT está bloqueando los Smart TV de Philips, LG y Samsung</a></h4>
-    <a href='https://computerhoy.com/tv/canal-tdt-bloqueando-smart-tv-philips-lg-samsung-1311052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/philips-tdt-3144942.jpg?tf=1200x' alt='Este canal de la TDT está bloqueando los Smart TV de Philips, LG y Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-ver-gratis-canales-tdt-espana-movil-instalar-nada-1308014'>La forma definitiva para ver la TDT gratis en el móvil: más de 4.000 canales sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-ver-gratis-canales-tdt-espana-movil-instalar-nada-1308014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-gratis-canales-tdt-espana-resto-mundo-movil-instalar-nada-3139522.jpg?tf=1200x' alt='La forma definitiva para ver la TDT gratis en el móvil: más de 4.000 canales sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llega-nearlink-seis-veces-rapido-bluetooth-1311044'>NearLink, el sustituto de Bluetooth, seis veces más rápido y con 30 veces menos latencia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llega-nearlink-seis-veces-rapido-bluetooth-1311044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nearlink-sustituto-bluetooth-seis-veces-rapido-30-veces-menos-latencia-solo-tiene-problema-3144836.jpg?tf=1200x' alt='NearLink, el sustituto de Bluetooth, seis veces más rápido y con 30 veces menos latencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/5-trucos-rapidos-hacer-efectivas-busquedas-google-1309580'>5 trucos rápidos para hacer más efectivas tus búsquedas en Google</a></h4>
-    <a href='https://computerhoy.com/tutoriales/5-trucos-rapidos-hacer-efectivas-busquedas-google-1309580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-3144796.jpg?tf=1200x' alt='5 trucos rápidos para hacer más efectivas tus búsquedas en Google' />
     </a>
 </div>
 
