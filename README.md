@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-15-tienen-nuevo-enemigo-cables-carga-moviles-android-1310582'>Los iPhone 15 tienen un nuevo enemigo: los cables de carga de los móviles Android</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-15-tienen-nuevo-enemigo-cables-carga-moviles-android-1310582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-conectado-usb-c-3143608.jpg?tf=1200x' alt='Los iPhone 15 tienen un nuevo enemigo: los cables de carga de los móviles Android' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-energia-nuclear-centros-datos-1310594'>La IA consume tanta electricidad, que Microsoft quiere usar energía nuclear con sus servidores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-energia-nuclear-centros-datos-1310594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/central-nuclear-2679561.jpg?tf=1200x' alt='La IA consume tanta electricidad, que Microsoft quiere usar energía nuclear con sus servidores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-deja-apple-fuera-juego-tablet-barata-desploma-precio-aun-1310332'>Xiaomi deja a Apple en fuera de juego: su tablet más barata desploma su precio aún más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-deja-apple-fuera-juego-tablet-barata-desploma-precio-aun-1310332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-redmi-pad-3143356.jpg?tf=1200x' alt='Xiaomi deja a Apple en fuera de juego: su tablet más barata desploma su precio aún más' />
+    <h4><a href='https://computerhoy.com/life/mapa-muestra-15-lugares-turisticos-peores-valorados-mundo-1310580'>Este mapa muestra los 15 lugares turísticos peor valorados del mundo y uno está en España</a></h4>
+    <a href='https://computerhoy.com/life/mapa-muestra-15-lugares-turisticos-peores-valorados-mundo-1310580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mapa-muestra-15-lugares-turisticos-peores-valorados-mundo-espana-3144126.jpg?tf=1200x' alt='Este mapa muestra los 15 lugares turísticos peor valorados del mundo y uno está en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/pixel-8-filtran-todo-esplendor-1310554'>Los Pixel 8 se filtran en todo su esplendor: 7 años de actualizaciones, pantalla "Super Actua" con 2.400 nits de brillo y más</a></h4>
-    <a href='https://computerhoy.com/google/pixel-8-filtran-todo-esplendor-1310554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/pixel-8-filtran-todo-esplendor-7-anos-actualizaciones-pantalla-super-actua-2400-nits-brillo-3144060.jpg?tf=1200x' alt='Los Pixel 8 se filtran en todo su esplendor: 7 años de actualizaciones, pantalla "Super Actua" con 2.400 nits de brillo y más' />
+    <h4><a href='https://computerhoy.com/tecnologia/avances-optimus-robot-tesla-hace-yoga-autocalibra-1310570'>Avances en Optimus, el robot de Tesla: hace yoga, se autocalibra y ordena objetos autónomamente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/avances-optimus-robot-tesla-hace-yoga-autocalibra-1310570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/avances-optimus-robot-tesla-hace-yoga-contratan-personal-desarollo-3144058.jpg?tf=1200x' alt='Avances en Optimus, el robot de Tesla: hace yoga, se autocalibra y ordena objetos autónomamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/liga-iptv-pide-google-poder-entrar-movil-1310552'>La Liga contra las IPTV: pide a Google poder entrar en tu móvil sin tu permiso</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/liga-iptv-pide-google-poder-entrar-movil-1310552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/futbol-iptv-3120030.jpg?tf=1200x' alt='La Liga contra las IPTV: pide a Google poder entrar en tu móvil sin tu permiso' />
+    <h4><a href='https://computerhoy.com/life/tierra-tendra-solo-un-continente-esteril-1310564'>La Tierra tendrá solo un continente con el 92% de la tierra estéril e inhabitable en 250 millones de años</a></h4>
+    <a href='https://computerhoy.com/life/tierra-tendra-solo-un-continente-esteril-1310564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tierra-volvera-tener-solo-continente-dentro-250-millones-anos-casi-toda-tierra-esteril-inhabitable-3143992.jpg?tf=1200x' alt='La Tierra tendrá solo un continente con el 92% de la tierra estéril e inhabitable en 250 millones de años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/spotify-va-usar-ia-doblar-espanol-podcast-famosos-1310532'>Spotify usará IA para doblar al español sus pódcast con la voz del locutor</a></h4>
-    <a href='https://computerhoy.com/audio/spotify-va-usar-ia-doblar-espanol-podcast-famosos-1310532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/spotify-apuesta-podcast-sigue-pie-adquiere-empresa-monitoriza-episodios-seguridad-2834627.jpg?tf=1200x' alt='Spotify usará IA para doblar al español sus pódcast con la voz del locutor' />
+    <h4><a href='https://computerhoy.com/life/hora-dia-mes-ano-tienes-probabilidades-morir-ciencia-1310584'>Esta es la hora, el día y el mes del año en que tienes más probabilidades de morir, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/life/hora-dia-mes-ano-tienes-probabilidades-morir-ciencia-1310584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/caminando-luz-3144122.jpg?tf=1200x' alt='Esta es la hora, el día y el mes del año en que tienes más probabilidades de morir, según la ciencia' />
     </a>
 </div>
 
