@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/todas-formas-multa-trafico-invalida-1311134'>Todas las formas en las que una multa de tráfico de la DGT es inválida</a></h4>
-    <a href='https://computerhoy.com/motor/todas-formas-multa-trafico-invalida-1311134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/testra-como-saber-tienes-multa-trafico-1963867.jpg?tf=1200x' alt='Todas las formas en las que una multa de tráfico de la DGT es inválida' />
+    <h4><a href='https://computerhoy.com/life/mapa-nuevas-maravillas-mundo-moderno-cada-pais-1311172'>El mapa de las nuevas maravillas del mundo moderno, una por cada país</a></h4>
+    <a href='https://computerhoy.com/life/mapa-nuevas-maravillas-mundo-moderno-cada-pais-1311172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mapa-nuevas-maravillas-mundo-moderno-cada-pais-3145158.jpg?tf=1200x' alt='El mapa de las nuevas maravillas del mundo moderno, una por cada país' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/oceanos-mundo-son-5-sabes-cual-quinto-1311104'>Los océanos del mundo ahora son 5: ¿sabes cuál es el quinto?</a></h4>
-    <a href='https://computerhoy.com/life/oceanos-mundo-son-5-sabes-cual-quinto-1311104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/oceanos-mundo-son-5-sabes-cual-quinto-3145022.jpg?tf=1200x' alt='Los océanos del mundo ahora son 5: ¿sabes cuál es el quinto?' />
+    <h4><a href='https://computerhoy.com/gaming/logitech-anuncia-primera-silla-gaming-plegable-playseat-challenge-x-1311154'>Logitech anuncia la primera silla gaming de carreras plegable: Playseat Challenge X</a></h4>
+    <a href='https://computerhoy.com/gaming/logitech-anuncia-primera-silla-gaming-plegable-playseat-challenge-x-1311154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/logitech-anuncia-primera-silla-gaming-carreras-plegable-playseat-challenge-x-3145142.jpg?tf=1200x' alt='Logitech anuncia la primera silla gaming de carreras plegable: Playseat Challenge X' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-windows-11-sorprende-barato-potente-16gb-ram-1307400'>Este Mini PC con Windows 11 sorprende por barato y potente con hasta 16GB de RAM</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mini-pc-windows-11-sorprende-barato-potente-16gb-ram-1307400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mini-pc-aliexpress-3138526.jpg?tf=1200x' alt='Este Mini PC con Windows 11 sorprende por barato y potente con hasta 16GB de RAM' />
+    <h4><a href='https://computerhoy.com/pc/lg-lanza-gram-fold-primer-portatil-pantalla-plegable-1311152'>LG lanza Gram Fold, su primer portátil con pantalla plegable</a></h4>
+    <a href='https://computerhoy.com/pc/lg-lanza-gram-fold-primer-portatil-pantalla-plegable-1311152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lg-lanza-gram-fold-primer-portatil-pantalla-plegable-3145166.jpg?tf=1200x' alt='LG lanza Gram Fold, su primer portátil con pantalla plegable' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coches-electricos-tienen-grave-problema-neumaticos-1311070'>Los coches eléctricos tienen un grave problema: los neumáticos</a></h4>
-    <a href='https://computerhoy.com/motor/coches-electricos-tienen-grave-problema-neumaticos-1311070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/coches-electricos-tiene-grave-problema-neumaticos-3144964.jpg?tf=1200x' alt='Los coches eléctricos tienen un grave problema: los neumáticos' />
+    <h4><a href='https://computerhoy.com/apple/chollo-reacondicionado-no-espera-prime-day-iphone-13-precio-saldo-1310896'>Este chollo reacondicionado no espera al Prime Day: iPhone 13 a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/apple/chollo-reacondicionado-no-espera-prime-day-iphone-13-precio-saldo-1310896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-13-3144574.jpg?tf=1200x' alt='Este chollo reacondicionado no espera al Prime Day: iPhone 13 a precio de saldo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/9-formas-reutilizar-productos-caducados-1309396'>9 formas de reutilizar productos caducados</a></h4>
-    <a href='https://computerhoy.com/life/9-formas-reutilizar-productos-caducados-1309396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/9-formas-reutilizar-productos-caducados-3142116.jpg?tf=1200x' alt='9 formas de reutilizar productos caducados' />
+    <h4><a href='https://computerhoy.com/ciencia/bateria-bagdad-misterio-imposible-resolver-2000-anos-antiguedad-1310514'>La batería de Bagdad: un misterio imposible de resolver con 2.000 años de antigüedad</a></h4>
+    <a href='https://computerhoy.com/ciencia/bateria-bagdad-misterio-imposible-resolver-2000-anos-antiguedad-1310514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bateria-bagdad-3143982.jpg?tf=1200x' alt='La batería de Bagdad: un misterio imposible de resolver con 2.000 años de antigüedad' />
     </a>
 </div>
 
