@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/9-formas-reutilizar-productos-caducados-1309396'>9 formas de reutilizar productos caducados</a></h4>
+    <a href='https://computerhoy.com/life/9-formas-reutilizar-productos-caducados-1309396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/9-formas-reutilizar-productos-caducados-3142116.jpg?tf=1200x' alt='9 formas de reutilizar productos caducados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/canal-tdt-bloqueando-smart-tv-philips-lg-samsung-1311052'>Este canal de la TDT está bloqueando los Smart TV de Philips, LG y Samsung</a></h4>
     <a href='https://computerhoy.com/tv/canal-tdt-bloqueando-smart-tv-philips-lg-samsung-1311052' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/philips-tdt-3144942.jpg?tf=1200x' alt='Este canal de la TDT está bloqueando los Smart TV de Philips, LG y Samsung' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/5-trucos-rapidos-hacer-efectivas-busquedas-google-1309580'>5 trucos rápidos para hacer más efectivas tus búsquedas en Google</a></h4>
     <a href='https://computerhoy.com/tutoriales/5-trucos-rapidos-hacer-efectivas-busquedas-google-1309580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-3144796.jpg?tf=1200x' alt='5 trucos rápidos para hacer más efectivas tus búsquedas en Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-band-8-watch-2-pro-nuevos-wearables-pensados-amantes-deporte-1310828'>Xiaomi Band 8 y Watch 2 Pro, nuevos wearables pensados para amantes del deporte</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-band-8-watch-2-pro-nuevos-wearables-pensados-amantes-deporte-1310828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-relojes-3144676.jpg?tf=1200x' alt='Xiaomi Band 8 y Watch 2 Pro, nuevos wearables pensados para amantes del deporte' />
     </a>
 </div>
 
