@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cerveza-creada-principio-fin-chatgpt-nueva-becks-autonomous-1310968'>¿Una cerveza creada de principio a fin con ChatGPT? Así es la nueva Beck’s Autonomous</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cerveza-creada-principio-fin-chatgpt-nueva-becks-autonomous-1310968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cerveza-ia-3144720.jpg?tf=1200x' alt='¿Una cerveza creada de principio a fin con ChatGPT? Así es la nueva Beck’s Autonomous' />
+    <h4><a href='https://computerhoy.com/tv/canal-tdt-bloqueando-smart-tv-philips-lg-samsung-1311052'>Este canal de la TDT está bloqueando los Smart TV de Philips, LG y Samsung</a></h4>
+    <a href='https://computerhoy.com/tv/canal-tdt-bloqueando-smart-tv-philips-lg-samsung-1311052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/philips-tdt-3144942.jpg?tf=1200x' alt='Este canal de la TDT está bloqueando los Smart TV de Philips, LG y Samsung' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-actualizar-macos-sonorama-paso-paso-1310988'>Cómo actualizar a macOS Sonorama y no tener problemas con la instalación</a></h4>
-    <a href='https://computerhoy.com/apple/como-actualizar-macos-sonorama-paso-paso-1310988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/macos-3051022.jpg?tf=1200x' alt='Cómo actualizar a macOS Sonorama y no tener problemas con la instalación' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-ver-gratis-canales-tdt-espana-movil-instalar-nada-1308014'>La forma definitiva para ver la TDT gratis en el móvil: más de 4.000 canales sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-ver-gratis-canales-tdt-espana-movil-instalar-nada-1308014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-gratis-canales-tdt-espana-resto-mundo-movil-instalar-nada-3139522.jpg?tf=1200x' alt='La forma definitiva para ver la TDT gratis en el móvil: más de 4.000 canales sin instalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/alguien-hace-fortuna-336-millones-dolares-shiba-inu-1310986'>El misterioso trillonario de Shiba Inu se hace con una fortuna de 33,6 millones de dólares</a></h4>
-    <a href='https://computerhoy.com/criptos/alguien-hace-fortuna-336-millones-dolares-shiba-inu-1310986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ballenas-ponen-ojos-shiba-inu-como-podria-afectar-precio-2890232.jpg?tf=1200x' alt='El misterioso trillonario de Shiba Inu se hace con una fortuna de 33,6 millones de dólares' />
+    <h4><a href='https://computerhoy.com/tecnologia/llega-nearlink-seis-veces-rapido-bluetooth-1311044'>NearLink, el sustituto de Bluetooth, seis veces más rápido y con 30 veces menos latencia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/llega-nearlink-seis-veces-rapido-bluetooth-1311044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nearlink-sustituto-bluetooth-seis-veces-rapido-30-veces-menos-latencia-solo-tiene-problema-3144836.jpg?tf=1200x' alt='NearLink, el sustituto de Bluetooth, seis veces más rápido y con 30 veces menos latencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/gran-rebaja-xiaomi-redmi-note-12-pro-amazon-menos-320-euros-1310832'>Amazon tumba el precio del móvil top de Xiaomi, el Redmi Note 12 Pro+, con carga ultrarrápida y pantallón AMOLED</a></h4>
-    <a href='https://computerhoy.com/android/gran-rebaja-xiaomi-redmi-note-12-pro-amazon-menos-320-euros-1310832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-note-12-pro-2991760.jpg?tf=1200x' alt='Amazon tumba el precio del móvil top de Xiaomi, el Redmi Note 12 Pro+, con carga ultrarrápida y pantallón AMOLED' />
+    <h4><a href='https://computerhoy.com/tutoriales/5-trucos-rapidos-hacer-efectivas-busquedas-google-1309580'>5 trucos rápidos para hacer más efectivas tus búsquedas en Google</a></h4>
+    <a href='https://computerhoy.com/tutoriales/5-trucos-rapidos-hacer-efectivas-busquedas-google-1309580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-3144796.jpg?tf=1200x' alt='5 trucos rápidos para hacer más efectivas tus búsquedas en Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cambio-climatico-podria-desencadenar-disturbios-sociales-colapso-2050-experto-1310928'>El cambio climático podría desencadenar disturbios sociales y el colapso para 2050 según un experto</a></h4>
-    <a href='https://computerhoy.com/life/cambio-climatico-podria-desencadenar-disturbios-sociales-colapso-2050-experto-1310928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cambio-climatico-3144632.jpg?tf=1200x' alt='El cambio climático podría desencadenar disturbios sociales y el colapso para 2050 según un experto' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-band-8-watch-2-pro-nuevos-wearables-pensados-amantes-deporte-1310828'>Xiaomi Band 8 y Watch 2 Pro, nuevos wearables pensados para amantes del deporte</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-band-8-watch-2-pro-nuevos-wearables-pensados-amantes-deporte-1310828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-relojes-3144676.jpg?tf=1200x' alt='Xiaomi Band 8 y Watch 2 Pro, nuevos wearables pensados para amantes del deporte' />
     </a>
 </div>
 
