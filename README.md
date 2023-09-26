@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/reboot-the-office-greg-daniels-1310802'>El reboot de The Office está en marcha, con el creador original, ¿es necesario?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/reboot-the-office-greg-daniels-1310802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/office-2736753.jpg?tf=1200x' alt='El reboot de The Office está en marcha, con el creador original, ¿es necesario?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-energia-nuclear-centros-datos-1310594'>La IA consume tanta electricidad, que Microsoft quiere usar energía nuclear con sus servidores</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-energia-nuclear-centros-datos-1310594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/central-nuclear-2679561.jpg?tf=1200x' alt='La IA consume tanta electricidad, que Microsoft quiere usar energía nuclear con sus servidores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/tierra-tendra-solo-un-continente-esteril-1310564'>La Tierra tendrá solo un continente con el 92% de la tierra estéril e inhabitable en 250 millones de años</a></h4>
     <a href='https://computerhoy.com/life/tierra-tendra-solo-un-continente-esteril-1310564' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tierra-volvera-tener-solo-continente-dentro-250-millones-anos-casi-toda-tierra-esteril-inhabitable-3143992.jpg?tf=1200x' alt='La Tierra tendrá solo un continente con el 92% de la tierra estéril e inhabitable en 250 millones de años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hora-dia-mes-ano-tienes-probabilidades-morir-ciencia-1310584'>Esta es la hora, el día y el mes del año en que tienes más probabilidades de morir, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/life/hora-dia-mes-ano-tienes-probabilidades-morir-ciencia-1310584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/caminando-luz-3144122.jpg?tf=1200x' alt='Esta es la hora, el día y el mes del año en que tienes más probabilidades de morir, según la ciencia' />
     </a>
 </div>
 
