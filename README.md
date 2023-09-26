@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cerveza-creada-principio-fin-chatgpt-nueva-becks-autonomous-1310968'>¿Una cerveza creada de principio a fin con ChatGPT? Así es la nueva Beck’s Autonomous</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cerveza-creada-principio-fin-chatgpt-nueva-becks-autonomous-1310968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cerveza-ia-3144720.jpg?tf=1200x' alt='¿Una cerveza creada de principio a fin con ChatGPT? Así es la nueva Beck’s Autonomous' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-actualizar-macos-sonorama-paso-paso-1310988'>Cómo actualizar a macOS Sonorama y no tener problemas con la instalación</a></h4>
+    <a href='https://computerhoy.com/apple/como-actualizar-macos-sonorama-paso-paso-1310988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/macos-3051022.jpg?tf=1200x' alt='Cómo actualizar a macOS Sonorama y no tener problemas con la instalación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/alguien-hace-fortuna-336-millones-dolares-shiba-inu-1310986'>El misterioso trillonario de Shiba Inu se hace con una fortuna de 33,6 millones de dólares</a></h4>
     <a href='https://computerhoy.com/criptos/alguien-hace-fortuna-336-millones-dolares-shiba-inu-1310986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ballenas-ponen-ojos-shiba-inu-como-podria-afectar-precio-2890232.jpg?tf=1200x' alt='El misterioso trillonario de Shiba Inu se hace con una fortuna de 33,6 millones de dólares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cambio-climatico-podria-desencadenar-disturbios-sociales-colapso-2050-experto-1310928'>El cambio climático podría desencadenar disturbios sociales y el colapso para 2050 según un experto</a></h4>
     <a href='https://computerhoy.com/life/cambio-climatico-podria-desencadenar-disturbios-sociales-colapso-2050-experto-1310928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cambio-climatico-3144632.jpg?tf=1200x' alt='El cambio climático podría desencadenar disturbios sociales y el colapso para 2050 según un experto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/wifi-puede-colapsar-numero-dispositivos-conectados-1310918'>El wifi de tu casa puede colapsar por el creciente número de dispositivos conectados y el tráfico de datos</a></h4>
-    <a href='https://computerhoy.com/internet/wifi-puede-colapsar-numero-dispositivos-conectados-1310918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/router-3061326.jpg?tf=1200x' alt='El wifi de tu casa puede colapsar por el creciente número de dispositivos conectados y el tráfico de datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-fuera-black-friday-amazon-deja-movil-samsung-precio-risa-1310472'>Como si fuera Black Friday en Amazon: deja un móvil Samsung a precio de risa</a></h4>
-    <a href='https://computerhoy.com/moviles/como-fuera-black-friday-amazon-deja-movil-samsung-precio-risa-1310472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/samsung-galaxy-a14-3143790.jpg?tf=1200x' alt='Como si fuera Black Friday en Amazon: deja un móvil Samsung a precio de risa' />
     </a>
 </div>
 
