@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/business-insider-espana-gala-premios-top-teachers-2023-1306634'>Business Insider elige los Top Teachers del año: así puedes seguir en directo la gala de premios</a></h4>
-    <a href='https://computerhoy.com/internet/business-insider-espana-gala-premios-top-teachers-2023-1306634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/business-insider-espana-top-teachers-2023-3137416.jpg?tf=1200x' alt='Business Insider elige los Top Teachers del año: así puedes seguir en directo la gala de premios' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-eleva-liston-ahora-puedes-mantener-conversaciones-ia-1310854'>ChatGPT se vuelve más humano: ahora puedes mantener conversaciones con la IA y subir imágenes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-eleva-liston-ahora-puedes-mantener-conversaciones-ia-1310854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-programacion-3105538.jpg?tf=1200x' alt='ChatGPT se vuelve más humano: ahora puedes mantener conversaciones con la IA y subir imágenes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/rover-lunar-india-no-da-senales-vida-teme-peor-1310808'>El rover lunar de la India no da señales de vida, se teme lo peor</a></h4>
-    <a href='https://computerhoy.com/espacio/rover-lunar-india-no-da-senales-vida-teme-peor-1310808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/rover-lunar-india-no-da-senales-vida-teme-peor-3144332.jpg?tf=1200x' alt='El rover lunar de la India no da señales de vida, se teme lo peor' />
+    <h4><a href='https://computerhoy.com/tecnologia/fuerza-espacial-americana-baraja-defender-satelites-comerciales-1310848'>La Fuerza Espacial americana está barajando defender los satélites comerciales ante cualquier posible ataque</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fuerza-espacial-americana-baraja-defender-satelites-comerciales-1310848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/satelite-3144470.jpg?tf=1200x' alt='La Fuerza Espacial americana está barajando defender los satélites comerciales ante cualquier posible ataque' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/teclados-logitech-estos-son-mejores-puedes-comprar-ahora-mismo-1310590'>Teclados Logitech: estos son los mejores que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/teclados-logitech-estos-son-mejores-puedes-comprar-ahora-mismo-1310590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/teclado-ergonomico-logitech-k860-3097298.jpg?tf=1200x' alt='Teclados Logitech: estos son los mejores que puedes comprar ahora mismo' />
+    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-xiaomi-aliexpress-tablet-gratis-comprar-nuevo-movil-1310292'>Liquidación Xiaomi en AliExpress: tablet gratis al comprar su nuevo móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/liquidacion-xiaomi-aliexpress-tablet-gratis-comprar-nuevo-movil-1310292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-logo-3143276.jpg?tf=1200x' alt='Liquidación Xiaomi en AliExpress: tablet gratis al comprar su nuevo móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/salen-grumos-blancos-aceite-oliva-1309366'>La recomendación de los expertos ante el aceite de oliva virgen con este aspecto</a></h4>
-    <a href='https://computerhoy.com/life/salen-grumos-blancos-aceite-oliva-1309366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/aceite-oliva-virgen-extra-grumos-3143272.jpg?tf=1200x' alt='La recomendación de los expertos ante el aceite de oliva virgen con este aspecto' />
+    <h4><a href='https://computerhoy.com/tecnologia/spotify-abre-puertas-musica-creada-inteligencia-artificial-1310838'>Spotify abre las puertas a la música creada con inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/spotify-abre-puertas-musica-creada-inteligencia-artificial-1310838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/spotify-ia-3144462.jpg?tf=1200x' alt='Spotify abre las puertas a la música creada con inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/reboot-the-office-greg-daniels-1310802'>El reboot de The Office está en marcha, con el creador original, ¿es necesario?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/reboot-the-office-greg-daniels-1310802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/office-2736753.jpg?tf=1200x' alt='El reboot de The Office está en marcha, con el creador original, ¿es necesario?' />
+    <h4><a href='https://computerhoy.com/tecnologia/honor-watch-4-analisis-opinion-1308062'>Honor Watch 4, análisis y opinión: comodidad, diseño y autonomía a buen precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/honor-watch-4-analisis-opinion-1308062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/honor-watch-4-3141944.jpg?tf=1200x' alt='Honor Watch 4, análisis y opinión: comodidad, diseño y autonomía a buen precio' />
     </a>
 </div>
 
