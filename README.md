@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-potente-precio-locos-rtx-4050-pantalla-144-hz-liquidacion-1311740'>Portátil potente a precio de locos: RTX 4050 y pantalla 144 Hz en liquidación</a></h4>
-    <a href='https://computerhoy.com/pc/portatil-potente-precio-locos-rtx-4050-pantalla-144-hz-liquidacion-1311740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/msi-gf-63-3146178.jpg?tf=1200x' alt='Portátil potente a precio de locos: RTX 4050 y pantalla 144 Hz en liquidación' />
+    <h4><a href='https://computerhoy.com/ciencia/planetas-lava-pueden-tener-clave-origen-tierra-1311744'>Los planetas de lava pueden tener la clave del origen de la Tierra</a></h4>
+    <a href='https://computerhoy.com/ciencia/planetas-lava-pueden-tener-clave-origen-tierra-1311744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/planetas-lava-pueden-tener-clave-origen-tierra-3146192.jpg?tf=1200x' alt='Los planetas de lava pueden tener la clave del origen de la Tierra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-anuncia-meta-ai-emu-alternativa-chatgpt-stable-diffusion-1311746'>Meta anuncia Meta AI y Emu, su alternativa a ChatGPT, DALL-E y Stable Diffusion</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-anuncia-meta-ai-emu-alternativa-chatgpt-stable-diffusion-1311746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/meta-anuncia-meta-ai-emu-alternativa-chatgpt-dall-stable-diffusion-3146194.jpg?tf=1200x' alt='Meta anuncia Meta AI y Emu, su alternativa a ChatGPT, DALL-E y Stable Diffusion' />
+    <h4><a href='https://computerhoy.com/gaming/adios-fifa-ea-sports-retira-catalogo-mitico-juego-deportivo-1311736'>Adiós a FIFA: EA Sports retira definitivamente de su catálogo el mítico juego deportivo</a></h4>
+    <a href='https://computerhoy.com/gaming/adios-fifa-ea-sports-retira-catalogo-mitico-juego-deportivo-1311736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fifa-23-3145812.jpg?tf=1200x' alt='Adiós a FIFA: EA Sports retira definitivamente de su catálogo el mítico juego deportivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mdzhb-misteriosa-estacion-radio-lleva-transmitiendo-1982-nadie-sabe-1311084'>MDZhB: la misteriosa estación de radio que lleva transmitiendo un extraño zumbido desde 1982, y nadie sabe por qué </a></h4>
-    <a href='https://computerhoy.com/life/mdzhb-misteriosa-estacion-radio-lleva-transmitiendo-1982-nadie-sabe-1311084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mdzhb-misteriosa-estacion-radio-lleva-transmitiendo-ruido-extrano-1982-nadie-sabe-3145032.jpg?tf=1200x' alt='MDZhB: la misteriosa estación de radio que lleva transmitiendo un extraño zumbido desde 1982, y nadie sabe por qué ' />
+    <h4><a href='https://computerhoy.com/entretenimiento/condiciones-guionistas-cambiaran-como-funciona-streaming-1311724'>Las plataformas de streaming tiemblan con las condiciones conseguidas por los guionistas de Hollywood</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/condiciones-guionistas-cambiaran-como-funciona-streaming-1311724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huelga-guionistas-2008-3023120.jpg?tf=1200x' alt='Las plataformas de streaming tiemblan con las condiciones conseguidas por los guionistas de Hollywood' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-23h2-elimina-gestos-utiles-windows-11-nadie-entiende-motivo-1311726'>Windows 11 23H2 elimina uno de los gestos más útiles de Windows 11 y nadie entiende el motivo</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-23h2-elimina-gestos-utiles-windows-11-nadie-entiende-motivo-1311726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/explorador-archivos-windows-10-2257833.jpg?tf=1200x' alt='Windows 11 23H2 elimina uno de los gestos más útiles de Windows 11 y nadie entiende el motivo' />
+    <h4><a href='https://computerhoy.com/google/curiosidades-oficinas-google-mundo-1311690'>Curiosidades de las oficinas de Google por el mundo</a></h4>
+    <a href='https://computerhoy.com/google/curiosidades-oficinas-google-mundo-1311690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/curiosidades-oficinas-google-alrededor-mundo-3146106.jpg?tf=1200x' alt='Curiosidades de las oficinas de Google por el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/app-instagram-podria-ser-culpable-problemas-sobrecalentamiento-iphone-15-1311718'>La app de Instagram podría ser la culpable de los problemas de sobrecalentamiento de los iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/app-instagram-podria-ser-culpable-problemas-sobrecalentamiento-iphone-15-1311718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143614.jpg?tf=1200x' alt='La app de Instagram podría ser la culpable de los problemas de sobrecalentamiento de los iPhone 15' />
+    <h4><a href='https://computerhoy.com/hogar/ultima-locura-lidl-felpudo-antirrobo-menos-20-euros-1311738'>La última locura de Lidl: un felpudo antirrobo por menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/ultima-locura-lidl-felpudo-antirrobo-menos-20-euros-1311738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ultima-locura-lidl-felpudo-antirrobo-menos-20-euros-3146246.jpg?tf=1200x' alt='La última locura de Lidl: un felpudo antirrobo por menos de 20 euros' />
     </a>
 </div>
 
