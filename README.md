@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/tormentas-solares-estan-provocando-raras-auroras-boreales-rojas-1311368'>Las tormentas solares están provocando raras auroras boreales rojas, que se ven en Francia</a></h4>
+    <a href='https://computerhoy.com/ciencia/tormentas-solares-estan-provocando-raras-auroras-boreales-rojas-1311368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tormentas-solares-estan-provocando-raras-auroras-boreales-rojas-ven-francia-3145362.jpg?tf=1200x' alt='Las tormentas solares están provocando raras auroras boreales rojas, que se ven en Francia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-prime-day-octubre-2023-estas-son-ofertas-vigilar-10-11-1310402'>Amazon Prime Day de octubre 2023: estas son las ofertas a vigilar el 10 y 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-prime-day-octubre-2023-estas-son-ofertas-vigilar-10-11-1310402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-prime-day-2023-3064760.jpg?tf=1200x' alt='Amazon Prime Day de octubre 2023: estas son las ofertas a vigilar el 10 y 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/ahorra-espacio-cuenta-gmail-eliminando-cache-1310804'>Cómo borrar la memoria caché de Gmail y liberar espacio rápidamente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/ahorra-espacio-cuenta-gmail-eliminando-cache-1310804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-3144832.jpg?tf=1200x' alt='Cómo borrar la memoria caché de Gmail y liberar espacio rápidamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-problema-iphone-15-pro-titanio-funda-1311360'>Apple reconoce un problema si usas el iPhone 15 Pro sin funda</a></h4>
     <a href='https://computerhoy.com/apple/apple-problema-iphone-15-pro-titanio-funda-1311360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-iphone-15-plus-iphone-15-pro-iphone-15-pro-max-3133552.jpg?tf=1200x' alt='Apple reconoce un problema si usas el iPhone 15 Pro sin funda' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/disney-reconoce-castillo-blancanieves-alcazar-segovia-1311180'>Disney al fin confirma que su castillo más famoso está inspirado en el Alcázar de Segovia</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-reconoce-castillo-blancanieves-alcazar-segovia-1311180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-fin-reconoce-castillo-famoso-inspirado-alcazar-segovia-3145160.jpg?tf=1200x' alt='Disney al fin confirma que su castillo más famoso está inspirado en el Alcázar de Segovia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-nuevas-maravillas-mundo-moderno-cada-pais-1311172'>El mapa de las nuevas maravillas del mundo moderno, una por cada país</a></h4>
-    <a href='https://computerhoy.com/life/mapa-nuevas-maravillas-mundo-moderno-cada-pais-1311172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mapa-nuevas-maravillas-mundo-moderno-cada-pais-3145158.jpg?tf=1200x' alt='El mapa de las nuevas maravillas del mundo moderno, una por cada país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/logitech-anuncia-primera-silla-gaming-plegable-playseat-challenge-x-1311154'>Logitech anuncia la primera silla gaming de carreras plegable: Playseat Challenge X</a></h4>
-    <a href='https://computerhoy.com/gaming/logitech-anuncia-primera-silla-gaming-plegable-playseat-challenge-x-1311154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/logitech-anuncia-primera-silla-gaming-carreras-plegable-playseat-challenge-x-3145142.jpg?tf=1200x' alt='Logitech anuncia la primera silla gaming de carreras plegable: Playseat Challenge X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/lg-lanza-gram-fold-primer-portatil-pantalla-plegable-1311152'>LG lanza Gram Fold, su primer portátil con pantalla plegable</a></h4>
-    <a href='https://computerhoy.com/pc/lg-lanza-gram-fold-primer-portatil-pantalla-plegable-1311152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lg-lanza-gram-fold-primer-portatil-pantalla-plegable-3145166.jpg?tf=1200x' alt='LG lanza Gram Fold, su primer portátil con pantalla plegable' />
     </a>
 </div>
 
