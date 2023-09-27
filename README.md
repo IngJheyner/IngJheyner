@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/portatil-potente-precio-locos-rtx-4050-pantalla-144-hz-liquidacion-1311740'>Portátil potente a precio de locos: RTX 4050 y pantalla 144 Hz en liquidación</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-potente-precio-locos-rtx-4050-pantalla-144-hz-liquidacion-1311740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/msi-gf-63-3146178.jpg?tf=1200x' alt='Portátil potente a precio de locos: RTX 4050 y pantalla 144 Hz en liquidación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/meta-anuncia-meta-ai-emu-alternativa-chatgpt-stable-diffusion-1311746'>Meta anuncia Meta AI y Emu, su alternativa a ChatGPT, DALL-E y Stable Diffusion</a></h4>
     <a href='https://computerhoy.com/tecnologia/meta-anuncia-meta-ai-emu-alternativa-chatgpt-stable-diffusion-1311746' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/meta-anuncia-meta-ai-emu-alternativa-chatgpt-dall-stable-diffusion-3146194.jpg?tf=1200x' alt='Meta anuncia Meta AI y Emu, su alternativa a ChatGPT, DALL-E y Stable Diffusion' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/app-instagram-podria-ser-culpable-problemas-sobrecalentamiento-iphone-15-1311718'>La app de Instagram podría ser la culpable de los problemas de sobrecalentamiento de los iPhone 15</a></h4>
     <a href='https://computerhoy.com/apple/app-instagram-podria-ser-culpable-problemas-sobrecalentamiento-iphone-15-1311718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143614.jpg?tf=1200x' alt='La app de Instagram podría ser la culpable de los problemas de sobrecalentamiento de los iPhone 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quest-3-realidad-mixta-caracteristicas-precio-1311714'>Quest 3 ya es oficial: Meta abraza la realidad mixta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quest-3-realidad-mixta-caracteristicas-precio-1311714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/quest-3-ya-oficial-meta-abraza-realidad-mixta-3146226.jpg?tf=1200x' alt='Quest 3 ya es oficial: Meta abraza la realidad mixta' />
     </a>
 </div>
 
