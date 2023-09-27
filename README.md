@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-problema-iphone-15-pro-titanio-funda-1311360'>Apple reconoce un problema si usas el iPhone 15 Pro sin funda</a></h4>
+    <a href='https://computerhoy.com/apple/apple-problema-iphone-15-pro-titanio-funda-1311360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-iphone-15-plus-iphone-15-pro-iphone-15-pro-max-3133552.jpg?tf=1200x' alt='Apple reconoce un problema si usas el iPhone 15 Pro sin funda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-reconoce-castillo-blancanieves-alcazar-segovia-1311180'>Disney al fin confirma que su castillo más famoso está inspirado en el Alcázar de Segovia</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-reconoce-castillo-blancanieves-alcazar-segovia-1311180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-fin-reconoce-castillo-famoso-inspirado-alcazar-segovia-3145160.jpg?tf=1200x' alt='Disney al fin confirma que su castillo más famoso está inspirado en el Alcázar de Segovia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mapa-nuevas-maravillas-mundo-moderno-cada-pais-1311172'>El mapa de las nuevas maravillas del mundo moderno, una por cada país</a></h4>
     <a href='https://computerhoy.com/life/mapa-nuevas-maravillas-mundo-moderno-cada-pais-1311172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mapa-nuevas-maravillas-mundo-moderno-cada-pais-3145158.jpg?tf=1200x' alt='El mapa de las nuevas maravillas del mundo moderno, una por cada país' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/lg-lanza-gram-fold-primer-portatil-pantalla-plegable-1311152'>LG lanza Gram Fold, su primer portátil con pantalla plegable</a></h4>
     <a href='https://computerhoy.com/pc/lg-lanza-gram-fold-primer-portatil-pantalla-plegable-1311152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lg-lanza-gram-fold-primer-portatil-pantalla-plegable-3145166.jpg?tf=1200x' alt='LG lanza Gram Fold, su primer portátil con pantalla plegable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/chollo-reacondicionado-no-espera-prime-day-iphone-13-precio-saldo-1310896'>Este chollo reacondicionado no espera al Prime Day: iPhone 13 a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/apple/chollo-reacondicionado-no-espera-prime-day-iphone-13-precio-saldo-1310896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-13-3144574.jpg?tf=1200x' alt='Este chollo reacondicionado no espera al Prime Day: iPhone 13 a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/bateria-bagdad-misterio-imposible-resolver-2000-anos-antiguedad-1310514'>La batería de Bagdad: un misterio imposible de resolver con 2.000 años de antigüedad</a></h4>
-    <a href='https://computerhoy.com/ciencia/bateria-bagdad-misterio-imposible-resolver-2000-anos-antiguedad-1310514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/bateria-bagdad-3143982.jpg?tf=1200x' alt='La batería de Bagdad: un misterio imposible de resolver con 2.000 años de antigüedad' />
     </a>
 </div>
 
