@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-resetear-android-auto-solucionar-todos-problemas-1311116'>Cómo resetear por completo Android Auto para solucionar todos los problemas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-resetear-android-auto-solucionar-todos-problemas-1311116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/resetear-android-auto-3145846.jpg?tf=1200x' alt='Cómo resetear por completo Android Auto para solucionar todos los problemas' />
+    <h4><a href='https://computerhoy.com/tecnologia/chollazo-papas-smartwatch-ninos-tiene-llamadas-localizador-gran-descuento-1311004'>Chollazo para papás: este smartwatch para niños tiene llamadas, localizador y un gran descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chollazo-papas-smartwatch-ninos-tiene-llamadas-localizador-gran-descuento-1311004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xplora-xgo-3-3144770.jpg?tf=1200x' alt='Chollazo para papás: este smartwatch para niños tiene llamadas, localizador y un gran descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-4-lanzamiento-precio-todas-novedades-movil-barato-apple-1311510'>iPhone 4 SE: lanzamiento, precio y todas las novedades de este smartphone barato de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-4-lanzamiento-precio-todas-novedades-movil-barato-apple-1311510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656607.jpg?tf=1200x' alt='iPhone 4 SE: lanzamiento, precio y todas las novedades de este smartphone barato de Apple' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-pantalla-movil-videollamada-whatsapp-1306988'>Cómo compartir la pantalla de tu móvil en una videollamada de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-compartir-pantalla-movil-videollamada-whatsapp-1306988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nueva-funcion-whatsapp-compartir-pantalla-durante-videollamada-3103814.jpg?tf=1200x' alt='Cómo compartir la pantalla de tu móvil en una videollamada de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-apple-tienen-intencion-cambiar-como-escuchas-podcast-1311516'>Google y Apple tienen la clara intención de cambiar la forma en la que escuchas podcast</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-apple-tienen-intencion-cambiar-como-escuchas-podcast-1311516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ni-musica-ni-palabras-podcast-ruido-blanco-arrasan-algunos-creadores-ganan-18000-euros-mes-2728073.jpg?tf=1200x' alt='Google y Apple tienen la clara intención de cambiar la forma en la que escuchas podcast' />
+    <h4><a href='https://computerhoy.com/espacio/astronauta-frank-rubio-regresa-tierra-puedes-ver-regreso-1311634'>El astronauta Frank Rubio regresa a la Tierra tras 371 días y puedes ver su aterrizaje en directo</a></h4>
+    <a href='https://computerhoy.com/espacio/astronauta-frank-rubio-regresa-tierra-puedes-ver-regreso-1311634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/astronauta-frank-rubio-regresa-tierra-371-dias-puedes-ver-aterrizaje-directo-3145942.jpg?tf=1200x' alt='El astronauta Frank Rubio regresa a la Tierra tras 371 días y puedes ver su aterrizaje en directo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211'>Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-band-8-3060932.jpg?tf=1200x' alt='Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-fire-tv-anade-nueva-funcion-facilitara-busqueda-peliculas-series-ocultas-1311592'>Amazon Fire TV añade una nueva función que facilitará la búsqueda de películas y series ocultas</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-fire-tv-anade-nueva-funcion-facilitara-busqueda-peliculas-series-ocultas-1311592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-fire-tv-alexa-3105422.jpg?tf=1200x' alt='Amazon Fire TV añade una nueva función que facilitará la búsqueda de películas y series ocultas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jony-ive-sam-altman-planean-crear-nuevo-dispositivo-inteligencia-artificial-1311452'>Jony Ive y Sam Altman planean crear un nuevo dispositivo de inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jony-ive-sam-altman-planean-crear-nuevo-dispositivo-inteligencia-artificial-1311452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/jony-ive-sam-altman-3145548.jpg?tf=1200x' alt='Jony Ive y Sam Altman planean crear un nuevo dispositivo de inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/entretenimiento/hobbycine-nuevo-portal-hobbyconsolas-cine-series-television-1311638'>Se estrena HobbyCine, el nuevo portal de HobbyConsolas centrado en el cine y las series</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hobbycine-nuevo-portal-hobbyconsolas-cine-series-television-1311638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hobbycine-3145554.jpg?tf=1200x' alt='Se estrena HobbyCine, el nuevo portal de HobbyConsolas centrado en el cine y las series' />
     </a>
 </div>
 
