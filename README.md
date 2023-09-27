@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cmf-nothing-estrena-auriculares-smartwatch-cargador-gan-1311400'>CMF by Nothing estrena auriculares, smartwatch y cargador GaN para asaltar la gama media</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cmf-nothing-estrena-auriculares-smartwatch-cargador-gan-1311400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/watch-pro-cmf-nothing-3145486.jpg?tf=1200x' alt='CMF by Nothing estrena auriculares, smartwatch y cargador GaN para asaltar la gama media' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211'>Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-band-8-3060932.jpg?tf=1200x' alt='Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primera-oferta-xiaomi-band-8-tienda-te-regala-accesorio-clave-sacarle-partido-1311382'>Primera oferta en la Xiaomi Band 8: esta tienda te regala un accesorio clave para sacarle partido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primera-oferta-xiaomi-band-8-tienda-te-regala-accesorio-clave-sacarle-partido-1311382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-smart-band-8-3145394.jpg?tf=1200x' alt='Primera oferta en la Xiaomi Band 8: esta tienda te regala un accesorio clave para sacarle partido' />
+    <h4><a href='https://computerhoy.com/tecnologia/jony-ive-sam-altman-planean-crear-nuevo-dispositivo-inteligencia-artificial-1311452'>Jony Ive y Sam Altman planean crear un nuevo dispositivo de inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/jony-ive-sam-altman-planean-crear-nuevo-dispositivo-inteligencia-artificial-1311452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/jony-ive-sam-altman-3145548.jpg?tf=1200x' alt='Jony Ive y Sam Altman planean crear un nuevo dispositivo de inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/sony-desata-guerra-fc-24-gratis-total-comprar-ps5-aunque-no-todas-tiendas-1311374'>Sony desata la guerra: FC 24 gratis total al comprar PS5, aunque no en todas las tiendas</a></h4>
-    <a href='https://computerhoy.com/gaming/sony-desata-guerra-fc-24-gratis-total-comprar-ps5-aunque-no-todas-tiendas-1311374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fc-24-haaland-3145392.jpg?tf=1200x' alt='Sony desata la guerra: FC 24 gratis total al comprar PS5, aunque no en todas las tiendas' />
+    <h4><a href='https://computerhoy.com/apple/iphone-15-pro-iphone-15-pro-max-calientan-cuenta-1311490'>El iPhone 15 Pro y el iPhone 15 Pro Max se sobrecalientan más de la cuenta y solo puede resolverse el problema reduciendo potencia</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-15-pro-iphone-15-pro-max-calientan-cuenta-1311490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143602.jpg?tf=1200x' alt='El iPhone 15 Pro y el iPhone 15 Pro Max se sobrecalientan más de la cuenta y solo puede resolverse el problema reduciendo potencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/iphone-15-pro-iphone-15-pro-max-analisis-opinion-1309978'>iPhone 15 Pro y Pro Max, análisis y opinión: un titán(io) con USB-C y un zoom que te deja con la boca abierta</a></h4>
-    <a href='https://computerhoy.com/analisis/iphone-15-pro-iphone-15-pro-max-analisis-opinion-1309978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3142802.jpg?tf=1200x' alt='iPhone 15 Pro y Pro Max, análisis y opinión: un titán(io) con USB-C y un zoom que te deja con la boca abierta' />
+    <h4><a href='https://computerhoy.com/criptos/shiba-inu-anuncia-shiba-hub-app-impulsar-comunidad-1311464'>Shiba Inu anuncia la apertura de Shiba Hub: una app que busca insuflar de nueva vida a la comunidad criptográfica</a></h4>
+    <a href='https://computerhoy.com/criptos/shiba-inu-anuncia-shiba-hub-app-impulsar-comunidad-1311464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg?tf=1200x' alt='Shiba Inu anuncia la apertura de Shiba Hub: una app que busca insuflar de nueva vida a la comunidad criptográfica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tormentas-solares-estan-provocando-raras-auroras-boreales-rojas-1311368'>Las tormentas solares están provocando raras auroras boreales rojas, que se ven en Francia</a></h4>
-    <a href='https://computerhoy.com/ciencia/tormentas-solares-estan-provocando-raras-auroras-boreales-rojas-1311368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tormentas-solares-estan-provocando-raras-auroras-boreales-rojas-ven-francia-3145362.jpg?tf=1200x' alt='Las tormentas solares están provocando raras auroras boreales rojas, que se ven en Francia' />
+    <h4><a href='https://computerhoy.com/espacio/mision-osiris-rex-nasaun-cofre-tesoro-cientifico-1311438'>La misión OSIRIS-REx de la NASA: "Un cofre del tesoro científico"</a></h4>
+    <a href='https://computerhoy.com/espacio/mision-osiris-rex-nasaun-cofre-tesoro-cientifico-1311438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mision-osiris-rex-nasa-3145524.jpg?tf=1200x' alt='La misión OSIRIS-REx de la NASA: "Un cofre del tesoro científico"' />
     </a>
 </div>
 
