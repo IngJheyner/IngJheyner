@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-resetear-android-auto-solucionar-todos-problemas-1311116'>Cómo resetear por completo Android Auto para solucionar todos los problemas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-resetear-android-auto-solucionar-todos-problemas-1311116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/resetear-android-auto-3145846.jpg?tf=1200x' alt='Cómo resetear por completo Android Auto para solucionar todos los problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-4-lanzamiento-precio-todas-novedades-movil-barato-apple-1311510'>iPhone 4 SE: lanzamiento, precio y todas las novedades de este smartphone barato de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-4-lanzamiento-precio-todas-novedades-movil-barato-apple-1311510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656607.jpg?tf=1200x' alt='iPhone 4 SE: lanzamiento, precio y todas las novedades de este smartphone barato de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-apple-tienen-intencion-cambiar-como-escuchas-podcast-1311516'>Google y Apple tienen la clara intención de cambiar la forma en la que escuchas podcast</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-apple-tienen-intencion-cambiar-como-escuchas-podcast-1311516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ni-musica-ni-palabras-podcast-ruido-blanco-arrasan-algunos-creadores-ganan-18000-euros-mes-2728073.jpg?tf=1200x' alt='Google y Apple tienen la clara intención de cambiar la forma en la que escuchas podcast' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211'>Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-band-8-3060932.jpg?tf=1200x' alt='Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/jony-ive-sam-altman-planean-crear-nuevo-dispositivo-inteligencia-artificial-1311452'>Jony Ive y Sam Altman planean crear un nuevo dispositivo de inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/jony-ive-sam-altman-planean-crear-nuevo-dispositivo-inteligencia-artificial-1311452' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/jony-ive-sam-altman-3145548.jpg?tf=1200x' alt='Jony Ive y Sam Altman planean crear un nuevo dispositivo de inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-15-pro-iphone-15-pro-max-calientan-cuenta-1311490'>El iPhone 15 Pro y el iPhone 15 Pro Max se sobrecalientan más de la cuenta y solo puede resolverse el problema reduciendo potencia</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-15-pro-iphone-15-pro-max-calientan-cuenta-1311490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143602.jpg?tf=1200x' alt='El iPhone 15 Pro y el iPhone 15 Pro Max se sobrecalientan más de la cuenta y solo puede resolverse el problema reduciendo potencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/shiba-inu-anuncia-shiba-hub-app-impulsar-comunidad-1311464'>Shiba Inu anuncia la apertura de Shiba Hub: una app que busca insuflar de nueva vida a la comunidad criptográfica</a></h4>
-    <a href='https://computerhoy.com/criptos/shiba-inu-anuncia-shiba-hub-app-impulsar-comunidad-1311464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg?tf=1200x' alt='Shiba Inu anuncia la apertura de Shiba Hub: una app que busca insuflar de nueva vida a la comunidad criptográfica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/mision-osiris-rex-nasaun-cofre-tesoro-cientifico-1311438'>La misión OSIRIS-REx de la NASA: "Un cofre del tesoro científico"</a></h4>
-    <a href='https://computerhoy.com/espacio/mision-osiris-rex-nasaun-cofre-tesoro-cientifico-1311438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mision-osiris-rex-nasa-3145524.jpg?tf=1200x' alt='La misión OSIRIS-REx de la NASA: "Un cofre del tesoro científico"' />
     </a>
 </div>
 
