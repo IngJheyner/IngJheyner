@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chollazo-papas-smartwatch-ninos-tiene-llamadas-localizador-gran-descuento-1311004'>Chollazo para papás: este smartwatch para niños tiene llamadas, localizador y un gran descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chollazo-papas-smartwatch-ninos-tiene-llamadas-localizador-gran-descuento-1311004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xplora-xgo-3-3144770.jpg?tf=1200x' alt='Chollazo para papás: este smartwatch para niños tiene llamadas, localizador y un gran descuento' />
+    <h4><a href='https://computerhoy.com/tecnologia/meta-anuncia-meta-ai-emu-alternativa-chatgpt-stable-diffusion-1311746'>Meta anuncia Meta AI y Emu, su alternativa a ChatGPT, DALL-E y Stable Diffusion</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-anuncia-meta-ai-emu-alternativa-chatgpt-stable-diffusion-1311746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/meta-anuncia-meta-ai-emu-alternativa-chatgpt-dall-stable-diffusion-3146194.jpg?tf=1200x' alt='Meta anuncia Meta AI y Emu, su alternativa a ChatGPT, DALL-E y Stable Diffusion' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-pantalla-movil-videollamada-whatsapp-1306988'>Cómo compartir la pantalla de tu móvil en una videollamada de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-compartir-pantalla-movil-videollamada-whatsapp-1306988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nueva-funcion-whatsapp-compartir-pantalla-durante-videollamada-3103814.jpg?tf=1200x' alt='Cómo compartir la pantalla de tu móvil en una videollamada de WhatsApp' />
+    <h4><a href='https://computerhoy.com/life/mdzhb-misteriosa-estacion-radio-lleva-transmitiendo-1982-nadie-sabe-1311084'>MDZhB: la misteriosa estación de radio que lleva transmitiendo un extraño zumbido desde 1982, y nadie sabe por qué </a></h4>
+    <a href='https://computerhoy.com/life/mdzhb-misteriosa-estacion-radio-lleva-transmitiendo-1982-nadie-sabe-1311084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mdzhb-misteriosa-estacion-radio-lleva-transmitiendo-ruido-extrano-1982-nadie-sabe-3145032.jpg?tf=1200x' alt='MDZhB: la misteriosa estación de radio que lleva transmitiendo un extraño zumbido desde 1982, y nadie sabe por qué ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/astronauta-frank-rubio-regresa-tierra-puedes-ver-regreso-1311634'>El astronauta Frank Rubio regresa a la Tierra tras 371 días y puedes ver su aterrizaje en directo</a></h4>
-    <a href='https://computerhoy.com/espacio/astronauta-frank-rubio-regresa-tierra-puedes-ver-regreso-1311634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/astronauta-frank-rubio-regresa-tierra-371-dias-puedes-ver-aterrizaje-directo-3145942.jpg?tf=1200x' alt='El astronauta Frank Rubio regresa a la Tierra tras 371 días y puedes ver su aterrizaje en directo' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-23h2-elimina-gestos-utiles-windows-11-nadie-entiende-motivo-1311726'>Windows 11 23H2 elimina uno de los gestos más útiles de Windows 11 y nadie entiende el motivo</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-23h2-elimina-gestos-utiles-windows-11-nadie-entiende-motivo-1311726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/explorador-archivos-windows-10-2257833.jpg?tf=1200x' alt='Windows 11 23H2 elimina uno de los gestos más útiles de Windows 11 y nadie entiende el motivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-fire-tv-anade-nueva-funcion-facilitara-busqueda-peliculas-series-ocultas-1311592'>Amazon Fire TV añade una nueva función que facilitará la búsqueda de películas y series ocultas</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-fire-tv-anade-nueva-funcion-facilitara-busqueda-peliculas-series-ocultas-1311592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-fire-tv-alexa-3105422.jpg?tf=1200x' alt='Amazon Fire TV añade una nueva función que facilitará la búsqueda de películas y series ocultas' />
+    <h4><a href='https://computerhoy.com/apple/app-instagram-podria-ser-culpable-problemas-sobrecalentamiento-iphone-15-1311718'>La app de Instagram podría ser la culpable de los problemas de sobrecalentamiento de los iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/app-instagram-podria-ser-culpable-problemas-sobrecalentamiento-iphone-15-1311718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143614.jpg?tf=1200x' alt='La app de Instagram podría ser la culpable de los problemas de sobrecalentamiento de los iPhone 15' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/hobbycine-nuevo-portal-hobbyconsolas-cine-series-television-1311638'>Se estrena HobbyCine, el nuevo portal de HobbyConsolas centrado en el cine y las series</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/hobbycine-nuevo-portal-hobbyconsolas-cine-series-television-1311638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/hobbycine-3145554.jpg?tf=1200x' alt='Se estrena HobbyCine, el nuevo portal de HobbyConsolas centrado en el cine y las series' />
+    <h4><a href='https://computerhoy.com/tecnologia/quest-3-realidad-mixta-caracteristicas-precio-1311714'>Quest 3 ya es oficial: Meta abraza la realidad mixta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quest-3-realidad-mixta-caracteristicas-precio-1311714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/quest-3-ya-oficial-meta-abraza-realidad-mixta-3146226.jpg?tf=1200x' alt='Quest 3 ya es oficial: Meta abraza la realidad mixta' />
     </a>
 </div>
 
