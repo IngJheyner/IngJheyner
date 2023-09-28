@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coches-segunda-mano-riesgo-tener-cuentakilometros-trucado-1311664'>Un informe desvela los coches de segunda mano con más opciones de tener el cuentakilómetros trucado</a></h4>
-    <a href='https://computerhoy.com/motor/coches-segunda-mano-riesgo-tener-cuentakilometros-trucado-1311664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cuentakilometros-3147070.jpg?tf=1200x' alt='Un informe desvela los coches de segunda mano con más opciones de tener el cuentakilómetros trucado' />
+    <h4><a href='https://computerhoy.com/alimentacion/supermercados-han-subido-precios-deberias-evitar-1312300'>Los supermercados que más han subido precios y que deberías evitar</a></h4>
+    <a href='https://computerhoy.com/alimentacion/supermercados-han-subido-precios-deberias-evitar-1312300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/supermercado-2751511.jpg?tf=1200x' alt='Los supermercados que más han subido precios y que deberías evitar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/precio-loco-xiaomi-reloj-parecido-apple-watch-casi-mitad-precio-amazon-1300150'>Precio loco de Xiaomi: su reloj más parecido al Apple Watch es más barato que nunca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/precio-loco-xiaomi-reloj-parecido-apple-watch-casi-mitad-precio-amazon-1300150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/redmi-watch-3-analisis-opinion-3022040.jpg?tf=1200x' alt='Precio loco de Xiaomi: su reloj más parecido al Apple Watch es más barato que nunca' />
+    <h4><a href='https://computerhoy.com/internet/lugares-donde-no-hay-zonas-horarias-cada-decide-hora-1311588'>En esta zona del mundo no existen zonas horarias y cada uno decide qué hora es</a></h4>
+    <a href='https://computerhoy.com/internet/lugares-donde-no-hay-zonas-horarias-cada-decide-hora-1311588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cual-pais-zonas-horarias-no-rusia-ni-china-2959488.jpg?tf=1200x' alt='En esta zona del mundo no existen zonas horarias y cada uno decide qué hora es' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/gana-300000-euros-ano-teletrabajando-tres-empleos-1312216'>Gana más de 300.000 euros al año teletrabajando en tres empleos diferentes a tiempo completo</a></h4>
-    <a href='https://computerhoy.com/life/gana-300000-euros-ano-teletrabajando-tres-empleos-1312216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lluvia-dinero-3147056.jpg?tf=1200x' alt='Gana más de 300.000 euros al año teletrabajando en tres empleos diferentes a tiempo completo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/filtran-millones-correos-contrasenas-como-comprobar-ellas-1312296'>Se filtran millones de correos y contraseñas: cómo comprobar si la tuya es una de ellas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/filtran-millones-correos-contrasenas-como-comprobar-ellas-1312296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/aplicacion-inteligencia-artificial-descifra-contrasenas-menos-minuto-3007518.jpg?tf=1200x' alt='Se filtran millones de correos y contraseñas: cómo comprobar si la tuya es una de ellas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/increible-metodo-steve-jobs-compartir-buenas-noticias-1311030'>El increíble método de Steve Jobs para compartir buenas noticias</a></h4>
-    <a href='https://computerhoy.com/life/increible-metodo-steve-jobs-compartir-buenas-noticias-1311030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/steve-jobs-logo-apple-3097710.jpg?tf=1200x' alt='El increíble método de Steve Jobs para compartir buenas noticias' />
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-comienza-prohibir-cuentas-compartidas-1-noviembre-1312292'>Disney+ comienza a prohibir las cuentas compartidas el 1 de noviembre</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-comienza-prohibir-cuentas-compartidas-1-noviembre-1312292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-comienza-prohibir-cuentas-compartidas-1-noviembre-3147114.jpg?tf=1200x' alt='Disney+ comienza a prohibir las cuentas compartidas el 1 de noviembre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/escucha-sonido-aterrador-mundo-silbato-muerte-azteca-1312208'>Escucha el sonido más aterrador del mundo: el Silbato de la Muerte Azteca</a></h4>
-    <a href='https://computerhoy.com/life/escucha-sonido-aterrador-mundo-silbato-muerte-azteca-1312208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/escucha-sonido-aterrador-mundo-silbato-muerte-azteca-3147022.jpg?tf=1200x' alt='Escucha el sonido más aterrador del mundo: el Silbato de la Muerte Azteca' />
+    <h4><a href='https://computerhoy.com/life/auroras-boreales-han-llegado-sur-frances-llegaran-espana-1312254'>Las auroras boreales han teñido de rojo el cielo el sur de Francia, ¿llegarán a España? </a></h4>
+    <a href='https://computerhoy.com/life/auroras-boreales-han-llegado-sur-frances-llegaran-espana-1312254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/auroras-boreales-han-tenido-rojo-cielo-sur-francia-llegaran-espana-3147092.jpg?tf=1200x' alt='Las auroras boreales han teñido de rojo el cielo el sur de Francia, ¿llegarán a España? ' />
     </a>
 </div>
 
