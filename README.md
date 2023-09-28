@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-5-lanzamiento-precio-acorde-todas-laa-novedades-integra-1311990'>Raspberry Pi 5: lanzamiento y un precio acorde a todas las novedades que integra</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-5-lanzamiento-precio-acorde-todas-laa-novedades-integra-1311990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raspberry-pi-5-3146614.jpg?tf=1200x' alt='Raspberry Pi 5: lanzamiento y un precio acorde a todas las novedades que integra' />
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-5-vs-raspberry-pi-4-todas-diferencias-mejoras-1312072'>Raspberry Pi 5 vs Raspberry Pi 4: todas las diferencias y mejoras que trae el nuevo modelo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-5-vs-raspberry-pi-4-todas-diferencias-mejoras-1312072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raspberry-pi-5-3146610.jpg?tf=1200x' alt='Raspberry Pi 5 vs Raspberry Pi 4: todas las diferencias y mejoras que trae el nuevo modelo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-652-computer-hoy-1308060'>¡Ya está en tu quiosco el número 652 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-652-computer-hoy-1308060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/computer-hoy-652-3141388.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 652 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/entretenimiento/fiesta-cine-octubre-2023-cuando-empieza-como-conseguir-entradas-1312066'>Fiesta del Cine octubre 2023: cuándo empieza y cómo conseguir tus entradas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fiesta-cine-octubre-2023-cuando-empieza-como-conseguir-entradas-1312066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fiesta-cine-octubre-2023-3146744.jpg?tf=1200x' alt='Fiesta del Cine octubre 2023: cuándo empieza y cómo conseguir tus entradas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/lidl-sube-apuesta-baja-precio-thermomix-barata-minimo-historico-1284580'>Lidl sube la apuesta y baja el precio de su Thermomix barata a su mínimo histórico</a></h4>
-    <a href='https://computerhoy.com/hogar/lidl-sube-apuesta-baja-precio-thermomix-barata-minimo-historico-1284580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/monsieur-cuisine-smart-3013182.jpg?tf=1200x' alt='Lidl sube la apuesta y baja el precio de su Thermomix barata a su mínimo histórico' />
+    <h4><a href='https://computerhoy.com/moviles/bombazo-xiaomi-moviles-baratos-ahora-mucho-baja-menos-100-euros-1311110'>Bombazo Xiaomi: uno de sus móviles baratos ahora lo es mucho más y baja a menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/moviles/bombazo-xiaomi-moviles-baratos-ahora-mucho-baja-menos-100-euros-1311110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/redmi-12c-3012488.jpg?tf=1200x' alt='Bombazo Xiaomi: uno de sus móviles baratos ahora lo es mucho más y baja a menos de 100 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-analizado-iphone-15-15-plus-mi-veredicto-1310220'>Apple iPhone 15 y 15 Plus, análisis y opinión de los iPhone más modestos y cumplidores del año</a></h4>
-    <a href='https://computerhoy.com/analisis/he-analizado-iphone-15-15-plus-mi-veredicto-1310220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='Apple iPhone 15 y 15 Plus, análisis y opinión de los iPhone más modestos y cumplidores del año' />
+    <h4><a href='https://computerhoy.com/tecnologia/apple-presion-ue-busca-abrir-ecosistema-competencia-1312042'>Apple bajo presión de la UE que busca de forma inminente "abrir su ecosistema a la competencia"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-presion-ue-busca-abrir-ecosistema-competencia-1312042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-ue-3146704.jpg?tf=1200x' alt='Apple bajo presión de la UE que busca de forma inminente "abrir su ecosistema a la competencia"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/mejores-pulseras-inteligentes-menos-30-euros-ofertas-894779'>7 pulseras inteligentes de menos de 50€ que tienen poco que envidiar a muchos relojes</a></h4>
-    <a href='https://computerhoy.com/reportajes/mejores-pulseras-inteligentes-menos-30-euros-ofertas-894779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-band-7-pro-2833387.jpg?tf=1200x' alt='7 pulseras inteligentes de menos de 50€ que tienen poco que envidiar a muchos relojes' />
+    <h4><a href='https://computerhoy.com/life/descubre-mapa-interactivo-vives-ciudad-15-minutos-1312014'>Descubre en este mapa interactivo si vives en una ciudad de 15 minutos</a></h4>
+    <a href='https://computerhoy.com/life/descubre-mapa-interactivo-vives-ciudad-15-minutos-1312014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/qualcomm-suma-ola-alta-resolucion-audio-inalambrico-lanza-estandar-aptx-lossless-2457531.jpg?tf=1200x' alt='Descubre en este mapa interactivo si vives en una ciudad de 15 minutos' />
     </a>
 </div>
 
