@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-revela-viaje-sonado-cada-pais-unas-islas-llevan-top-1-diferencia-1312100'>Este mapa revela el viaje soñado por cada país y unas islas se llevan el oro con diferencia</a></h4>
-    <a href='https://computerhoy.com/life/mapa-revela-viaje-sonado-cada-pais-unas-islas-llevan-top-1-diferencia-1312100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/maldivas-3146854.jpg?tf=1200x' alt='Este mapa revela el viaje soñado por cada país y unas islas se llevan el oro con diferencia' />
+    <h4><a href='https://computerhoy.com/motor/coches-segunda-mano-riesgo-tener-cuentakilometros-trucado-1311664'>Un informe desvela los coches de segunda mano con más opciones de tener el cuentakilómetros trucado</a></h4>
+    <a href='https://computerhoy.com/motor/coches-segunda-mano-riesgo-tener-cuentakilometros-trucado-1311664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cuentakilometros-3147070.jpg?tf=1200x' alt='Un informe desvela los coches de segunda mano con más opciones de tener el cuentakilómetros trucado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-5-vs-raspberry-pi-4-todas-diferencias-mejoras-1312072'>Raspberry Pi 5 vs Raspberry Pi 4: todas las diferencias y mejoras que trae el nuevo modelo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-5-vs-raspberry-pi-4-todas-diferencias-mejoras-1312072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raspberry-pi-5-3146610.jpg?tf=1200x' alt='Raspberry Pi 5 vs Raspberry Pi 4: todas las diferencias y mejoras que trae el nuevo modelo' />
+    <h4><a href='https://computerhoy.com/tecnologia/precio-loco-xiaomi-reloj-parecido-apple-watch-casi-mitad-precio-amazon-1300150'>Precio loco de Xiaomi: su reloj más parecido al Apple Watch es más barato que nunca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/precio-loco-xiaomi-reloj-parecido-apple-watch-casi-mitad-precio-amazon-1300150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/redmi-watch-3-analisis-opinion-3022040.jpg?tf=1200x' alt='Precio loco de Xiaomi: su reloj más parecido al Apple Watch es más barato que nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fiesta-cine-octubre-2023-cuando-empieza-como-conseguir-entradas-1312066'>Fiesta del Cine octubre 2023: cuándo empieza y cómo conseguir tus entradas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fiesta-cine-octubre-2023-cuando-empieza-como-conseguir-entradas-1312066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fiesta-cine-octubre-2023-3146744.jpg?tf=1200x' alt='Fiesta del Cine octubre 2023: cuándo empieza y cómo conseguir tus entradas' />
+    <h4><a href='https://computerhoy.com/life/gana-300000-euros-ano-teletrabajando-tres-empleos-1312216'>Gana más de 300.000 euros al año teletrabajando en tres empleos diferentes a tiempo completo</a></h4>
+    <a href='https://computerhoy.com/life/gana-300000-euros-ano-teletrabajando-tres-empleos-1312216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lluvia-dinero-3147056.jpg?tf=1200x' alt='Gana más de 300.000 euros al año teletrabajando en tres empleos diferentes a tiempo completo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/bombazo-xiaomi-moviles-baratos-ahora-mucho-baja-menos-100-euros-1311110'>Bombazo Xiaomi: uno de sus móviles baratos ahora lo es mucho más y baja a menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/moviles/bombazo-xiaomi-moviles-baratos-ahora-mucho-baja-menos-100-euros-1311110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/redmi-12c-3012488.jpg?tf=1200x' alt='Bombazo Xiaomi: uno de sus móviles baratos ahora lo es mucho más y baja a menos de 100 euros' />
+    <h4><a href='https://computerhoy.com/life/increible-metodo-steve-jobs-compartir-buenas-noticias-1311030'>El increíble método de Steve Jobs para compartir buenas noticias</a></h4>
+    <a href='https://computerhoy.com/life/increible-metodo-steve-jobs-compartir-buenas-noticias-1311030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/steve-jobs-logo-apple-3097710.jpg?tf=1200x' alt='El increíble método de Steve Jobs para compartir buenas noticias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-presion-ue-busca-abrir-ecosistema-competencia-1312042'>Apple bajo presión de la UE que busca de forma inminente "abrir su ecosistema a la competencia"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-presion-ue-busca-abrir-ecosistema-competencia-1312042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-ue-3146704.jpg?tf=1200x' alt='Apple bajo presión de la UE que busca de forma inminente "abrir su ecosistema a la competencia"' />
+    <h4><a href='https://computerhoy.com/life/escucha-sonido-aterrador-mundo-silbato-muerte-azteca-1312208'>Escucha el sonido más aterrador del mundo: el Silbato de la Muerte Azteca</a></h4>
+    <a href='https://computerhoy.com/life/escucha-sonido-aterrador-mundo-silbato-muerte-azteca-1312208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/escucha-sonido-aterrador-mundo-silbato-muerte-azteca-3147022.jpg?tf=1200x' alt='Escucha el sonido más aterrador del mundo: el Silbato de la Muerte Azteca' />
     </a>
 </div>
 
