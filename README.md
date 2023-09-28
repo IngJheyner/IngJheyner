@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/mejores-pulseras-inteligentes-menos-30-euros-ofertas-894779'>7 pulseras inteligentes de menos de 50€ que tienen poco que envidiar a muchos relojes</a></h4>
+    <a href='https://computerhoy.com/reportajes/mejores-pulseras-inteligentes-menos-30-euros-ofertas-894779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-band-7-pro-2833387.jpg?tf=1200x' alt='7 pulseras inteligentes de menos de 50€ que tienen poco que envidiar a muchos relojes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/hitos-iinteligencia-artificial-google-1311708'>Los hitos cronológicos de la IA según Google: desde el corrector automático hasta Bard</a></h4>
+    <a href='https://computerhoy.com/google/hitos-iinteligencia-artificial-google-1311708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/10-cursos-gratuitos-google-ser-experto-ia-3097684.jpg?tf=1200x' alt='Los hitos cronológicos de la IA según Google: desde el corrector automático hasta Bard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/series-animacion-netflix-tomb-raider-devil-may-cry-castlevania-1311766'>Tomb Raider, Devil May Cry y Castlevania, nuevas series de animación de Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-animacion-netflix-tomb-raider-devil-may-cry-castlevania-1311766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tomb-raider-devil-may-cry-castlevania-nuevas-series-animacion-netflix-3146324.jpg?tf=1200x' alt='Tomb Raider, Devil May Cry y Castlevania, nuevas series de animación de Netflix' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/adios-fifa-ea-sports-retira-catalogo-mitico-juego-deportivo-1311736'>Adiós a FIFA: EA Sports retira definitivamente de su catálogo el mítico juego deportivo</a></h4>
     <a href='https://computerhoy.com/gaming/adios-fifa-ea-sports-retira-catalogo-mitico-juego-deportivo-1311736' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fifa-23-3145812.jpg?tf=1200x' alt='Adiós a FIFA: EA Sports retira definitivamente de su catálogo el mítico juego deportivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/condiciones-guionistas-cambiaran-como-funciona-streaming-1311724'>Las plataformas de streaming tiemblan con las condiciones conseguidas por los guionistas de Hollywood</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/condiciones-guionistas-cambiaran-como-funciona-streaming-1311724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/huelga-guionistas-2008-3023120.jpg?tf=1200x' alt='Las plataformas de streaming tiemblan con las condiciones conseguidas por los guionistas de Hollywood' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/curiosidades-oficinas-google-mundo-1311690'>Curiosidades de las oficinas de Google por el mundo</a></h4>
-    <a href='https://computerhoy.com/google/curiosidades-oficinas-google-mundo-1311690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/curiosidades-oficinas-google-alrededor-mundo-3146106.jpg?tf=1200x' alt='Curiosidades de las oficinas de Google por el mundo' />
     </a>
 </div>
 
