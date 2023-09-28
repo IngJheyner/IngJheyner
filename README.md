@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mapa-revela-viaje-sonado-cada-pais-unas-islas-llevan-top-1-diferencia-1312100'>Este mapa revela el viaje soñado por cada país y unas islas se llevan el oro con diferencia</a></h4>
+    <a href='https://computerhoy.com/life/mapa-revela-viaje-sonado-cada-pais-unas-islas-llevan-top-1-diferencia-1312100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/maldivas-3146854.jpg?tf=1200x' alt='Este mapa revela el viaje soñado por cada país y unas islas se llevan el oro con diferencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-5-vs-raspberry-pi-4-todas-diferencias-mejoras-1312072'>Raspberry Pi 5 vs Raspberry Pi 4: todas las diferencias y mejoras que trae el nuevo modelo</a></h4>
     <a href='https://computerhoy.com/tecnologia/raspberry-pi-5-vs-raspberry-pi-4-todas-diferencias-mejoras-1312072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raspberry-pi-5-3146610.jpg?tf=1200x' alt='Raspberry Pi 5 vs Raspberry Pi 4: todas las diferencias y mejoras que trae el nuevo modelo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/apple-presion-ue-busca-abrir-ecosistema-competencia-1312042'>Apple bajo presión de la UE que busca de forma inminente "abrir su ecosistema a la competencia"</a></h4>
     <a href='https://computerhoy.com/tecnologia/apple-presion-ue-busca-abrir-ecosistema-competencia-1312042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-ue-3146704.jpg?tf=1200x' alt='Apple bajo presión de la UE que busca de forma inminente "abrir su ecosistema a la competencia"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubre-mapa-interactivo-vives-ciudad-15-minutos-1312014'>Descubre en este mapa interactivo si vives en una ciudad de 15 minutos</a></h4>
-    <a href='https://computerhoy.com/life/descubre-mapa-interactivo-vives-ciudad-15-minutos-1312014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/qualcomm-suma-ola-alta-resolucion-audio-inalambrico-lanza-estandar-aptx-lossless-2457531.jpg?tf=1200x' alt='Descubre en este mapa interactivo si vives en una ciudad de 15 minutos' />
     </a>
 </div>
 
