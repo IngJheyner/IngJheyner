@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/series-animacion-netflix-tomb-raider-devil-may-cry-castlevania-1311766'>Tomb Raider, Devil May Cry y Castlevania, nuevas series de animación de Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/series-animacion-netflix-tomb-raider-devil-may-cry-castlevania-1311766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tomb-raider-devil-may-cry-castlevania-nuevas-series-animacion-netflix-3146324.jpg?tf=1200x' alt='Tomb Raider, Devil May Cry y Castlevania, nuevas series de animación de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/planetas-lava-pueden-tener-clave-origen-tierra-1311744'>Los planetas de lava pueden tener la clave del origen de la Tierra</a></h4>
     <a href='https://computerhoy.com/ciencia/planetas-lava-pueden-tener-clave-origen-tierra-1311744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/planetas-lava-pueden-tener-clave-origen-tierra-3146192.jpg?tf=1200x' alt='Los planetas de lava pueden tener la clave del origen de la Tierra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/curiosidades-oficinas-google-mundo-1311690'>Curiosidades de las oficinas de Google por el mundo</a></h4>
     <a href='https://computerhoy.com/google/curiosidades-oficinas-google-mundo-1311690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/curiosidades-oficinas-google-alrededor-mundo-3146106.jpg?tf=1200x' alt='Curiosidades de las oficinas de Google por el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ultima-locura-lidl-felpudo-antirrobo-menos-20-euros-1311738'>La última locura de Lidl: un felpudo antirrobo por menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/hogar/ultima-locura-lidl-felpudo-antirrobo-menos-20-euros-1311738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ultima-locura-lidl-felpudo-antirrobo-menos-20-euros-3146246.jpg?tf=1200x' alt='La última locura de Lidl: un felpudo antirrobo por menos de 20 euros' />
     </a>
 </div>
 
