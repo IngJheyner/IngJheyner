@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-5-lanzamiento-precio-acorde-todas-laa-novedades-integra-1311990'>Raspberry Pi 5: lanzamiento y un precio acorde a todas las novedades que integra</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-5-lanzamiento-precio-acorde-todas-laa-novedades-integra-1311990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raspberry-pi-5-3146614.jpg?tf=1200x' alt='Raspberry Pi 5: lanzamiento y un precio acorde a todas las novedades que integra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-652-computer-hoy-1308060'>¡Ya está en tu quiosco el número 652 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-652-computer-hoy-1308060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/computer-hoy-652-3141388.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 652 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/lidl-sube-apuesta-baja-precio-thermomix-barata-minimo-historico-1284580'>Lidl sube la apuesta y baja el precio de su Thermomix barata a su mínimo histórico</a></h4>
+    <a href='https://computerhoy.com/hogar/lidl-sube-apuesta-baja-precio-thermomix-barata-minimo-historico-1284580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/monsieur-cuisine-smart-3013182.jpg?tf=1200x' alt='Lidl sube la apuesta y baja el precio de su Thermomix barata a su mínimo histórico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-analizado-iphone-15-15-plus-mi-veredicto-1310220'>Apple iPhone 15 y 15 Plus, análisis y opinión de los iPhone más modestos y cumplidores del año</a></h4>
+    <a href='https://computerhoy.com/analisis/he-analizado-iphone-15-15-plus-mi-veredicto-1310220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='Apple iPhone 15 y 15 Plus, análisis y opinión de los iPhone más modestos y cumplidores del año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/mejores-pulseras-inteligentes-menos-30-euros-ofertas-894779'>7 pulseras inteligentes de menos de 50€ que tienen poco que envidiar a muchos relojes</a></h4>
     <a href='https://computerhoy.com/reportajes/mejores-pulseras-inteligentes-menos-30-euros-ofertas-894779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-band-7-pro-2833387.jpg?tf=1200x' alt='7 pulseras inteligentes de menos de 50€ que tienen poco que envidiar a muchos relojes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/hitos-iinteligencia-artificial-google-1311708'>Los hitos cronológicos de la IA según Google: desde el corrector automático hasta Bard</a></h4>
-    <a href='https://computerhoy.com/google/hitos-iinteligencia-artificial-google-1311708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/10-cursos-gratuitos-google-ser-experto-ia-3097684.jpg?tf=1200x' alt='Los hitos cronológicos de la IA según Google: desde el corrector automático hasta Bard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/series-animacion-netflix-tomb-raider-devil-may-cry-castlevania-1311766'>Tomb Raider, Devil May Cry y Castlevania, nuevas series de animación de Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/series-animacion-netflix-tomb-raider-devil-may-cry-castlevania-1311766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tomb-raider-devil-may-cry-castlevania-nuevas-series-animacion-netflix-3146324.jpg?tf=1200x' alt='Tomb Raider, Devil May Cry y Castlevania, nuevas series de animación de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/planetas-lava-pueden-tener-clave-origen-tierra-1311744'>Los planetas de lava pueden tener la clave del origen de la Tierra</a></h4>
-    <a href='https://computerhoy.com/ciencia/planetas-lava-pueden-tener-clave-origen-tierra-1311744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/planetas-lava-pueden-tener-clave-origen-tierra-3146192.jpg?tf=1200x' alt='Los planetas de lava pueden tener la clave del origen de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/adios-fifa-ea-sports-retira-catalogo-mitico-juego-deportivo-1311736'>Adiós a FIFA: EA Sports retira definitivamente de su catálogo el mítico juego deportivo</a></h4>
-    <a href='https://computerhoy.com/gaming/adios-fifa-ea-sports-retira-catalogo-mitico-juego-deportivo-1311736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fifa-23-3145812.jpg?tf=1200x' alt='Adiós a FIFA: EA Sports retira definitivamente de su catálogo el mítico juego deportivo' />
     </a>
 </div>
 
