@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cadenas-tv-contratan-expertos-combatir-iptv-futbol-gratis-1312310'>Las cadenas de televisión están contratando investigadores para acabar con las IPTV para ver el fútbol gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cadenas-tv-contratan-expertos-combatir-iptv-futbol-gratis-1312310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cadenas-television-estan-contratando-investigadores-acabar-iptv-ver-futbol-gratis-3147212.jpg?tf=1200x' alt='Las cadenas de televisión están contratando investigadores para acabar con las IPTV para ver el fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/fitbit-charge-6-con-inteligencia-artificial-aplicaciones-google-integradas-1312314'>Fitbit Charge 6, la nueva pulsera de actividad con IA y aplicaciones de Google integradas</a></h4>
+    <a href='https://computerhoy.com/life/fitbit-charge-6-con-inteligencia-artificial-aplicaciones-google-integradas-1312314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1695935143123-3147214.jpg?tf=1200x' alt='Fitbit Charge 6, la nueva pulsera de actividad con IA y aplicaciones de Google integradas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-ya-reemplazando-humanos-estas-10-profesiones-1311764'>Si tienes alguno de estos trabajos sentimos decirte que ya existe una IA capaz de reemplazarte</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-ya-reemplazando-humanos-estas-10-profesiones-1311764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mujer-sorprendida-3147072.jpg?tf=1200x' alt='Si tienes alguno de estos trabajos sentimos decirte que ya existe una IA capaz de reemplazarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/gravedad-atrae-antimateria-como-dijo-einstein-1311676'>Se confirma que la gravedad atrae a la antimateria, como predijo Einstein</a></h4>
+    <a href='https://computerhoy.com/ciencia/gravedad-atrae-antimateria-como-dijo-einstein-1311676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/Albert%20Einstein%2C%20en%201931.jpg?tf=1200x' alt='Se confirma que la gravedad atrae a la antimateria, como predijo Einstein' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/supermercados-han-subido-precios-deberias-evitar-1312300'>Los supermercados que más han subido precios y que deberías evitar</a></h4>
     <a href='https://computerhoy.com/alimentacion/supermercados-han-subido-precios-deberias-evitar-1312300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/supermercado-2751511.jpg?tf=1200x' alt='Los supermercados que más han subido precios y que deberías evitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/lugares-donde-no-hay-zonas-horarias-cada-decide-hora-1311588'>En esta zona del mundo no existen zonas horarias y cada uno decide qué hora es</a></h4>
-    <a href='https://computerhoy.com/internet/lugares-donde-no-hay-zonas-horarias-cada-decide-hora-1311588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/cual-pais-zonas-horarias-no-rusia-ni-china-2959488.jpg?tf=1200x' alt='En esta zona del mundo no existen zonas horarias y cada uno decide qué hora es' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/filtran-millones-correos-contrasenas-como-comprobar-ellas-1312296'>Se filtran millones de correos y contraseñas: cómo comprobar si la tuya es una de ellas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/filtran-millones-correos-contrasenas-como-comprobar-ellas-1312296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/aplicacion-inteligencia-artificial-descifra-contrasenas-menos-minuto-3007518.jpg?tf=1200x' alt='Se filtran millones de correos y contraseñas: cómo comprobar si la tuya es una de ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-comienza-prohibir-cuentas-compartidas-1-noviembre-1312292'>Disney+ comienza a prohibir las cuentas compartidas el 1 de noviembre</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-comienza-prohibir-cuentas-compartidas-1-noviembre-1312292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-comienza-prohibir-cuentas-compartidas-1-noviembre-3147114.jpg?tf=1200x' alt='Disney+ comienza a prohibir las cuentas compartidas el 1 de noviembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/auroras-boreales-han-llegado-sur-frances-llegaran-espana-1312254'>Las auroras boreales han teñido de rojo el cielo el sur de Francia, ¿llegarán a España? </a></h4>
-    <a href='https://computerhoy.com/life/auroras-boreales-han-llegado-sur-frances-llegaran-espana-1312254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/auroras-boreales-han-tenido-rojo-cielo-sur-francia-llegaran-espana-3147092.jpg?tf=1200x' alt='Las auroras boreales han teñido de rojo el cielo el sur de Francia, ¿llegarán a España? ' />
     </a>
 </div>
 
