@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/varios-paises-europeos-anuncian-septiembre-mas-caluroso-historia-1312874'>Varios países europeos anuncian el septiembre más caluroso de su historia</a></h4>
+    <a href='https://computerhoy.com/life/varios-paises-europeos-anuncian-septiembre-mas-caluroso-historia-1312874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/varios-paises-europeos-anuncian-septiembre-caluroso-historia-3148270.jpg?tf=1200x' alt='Varios países europeos anuncian el septiembre más caluroso de su historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/descubren-cueva-granada-zapatos-antiguos-europa-1312872'>Descubren en una cueva de Granada los zapatos más antiguos de Europa</a></h4>
+    <a href='https://computerhoy.com/life/descubren-cueva-granada-zapatos-antiguos-europa-1312872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/descubren-cueva-granada-zapatos-antiguos-europa-3148286.jpg?tf=1200x' alt='Descubren en una cueva de Granada los zapatos más antiguos de Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-han-equivocado-precio-ordenador-msi-windows-11-barato-1312630'>No se han equivocado con el precio: este ordenador MSI con Windows 11 es así de barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-han-equivocado-precio-ordenador-msi-windows-11-barato-1312630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/msi-dp130-11-218eu-pro-3147642.jpg?tf=1200x' alt='No se han equivocado con el precio: este ordenador MSI con Windows 11 es así de barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/satelites-starlink-amenazan-desencadenar-sindrome-kessler-1312200'>Los satélites Starlink de Elon Musk amenazan con desencadenar el peligroso síndrome de Kessler</a></h4>
+    <a href='https://computerhoy.com/internet/satelites-starlink-amenazan-desencadenar-sindrome-kessler-1312200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/starlink-elon-musk-3147958.jpg?tf=1200x' alt='Los satélites Starlink de Elon Musk amenazan con desencadenar el peligroso síndrome de Kessler' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/luna-vista-traves-ojo-odin-espectaculo-igual-1312860'>La luna vista a través del Ojo de Odín, un espectáculo sin igual</a></h4>
     <a href='https://computerhoy.com/life/luna-vista-traves-ojo-odin-espectaculo-igual-1312860' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/luna-vista-traves-ojo-odin-espectaculo-igual-3148172.jpg?tf=1200x' alt='La luna vista a través del Ojo de Odín, un espectáculo sin igual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/toyota-rebaja-expectativas-baterias-estado-solido-coches-electricos-1312836'>Toyota rebaja las expectativas para las baterías de estado sólido en sus coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/motor/toyota-rebaja-expectativas-baterias-estado-solido-coches-electricos-1312836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/coche-electrico-3148222.jpg?tf=1200x' alt='Toyota rebaja las expectativas para las baterías de estado sólido en sus coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/sencilla-rutina-mejora-rendimiento-smart-tv-instante-1312290'>Esta sencilla rutina mejora el rendimiento de tu Smart TV y solo te llevará 10 segundos a la semana</a></h4>
-    <a href='https://computerhoy.com/tv/sencilla-rutina-mejora-rendimiento-smart-tv-instante-1312290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/smart-tv-mando-distancia-3147954.jpg?tf=1200x' alt='Esta sencilla rutina mejora el rendimiento de tu Smart TV y solo te llevará 10 segundos a la semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estos-son-moviles-quedaran-whatsapp-partir-24-octubre-1312830'>Estos son los móviles que se quedarán sin WhatsApp a partir del 24 de octubre</a></h4>
-    <a href='https://computerhoy.com/apps/estos-son-moviles-quedaran-whatsapp-partir-24-octubre-1312830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/whatsapp-2678487.jpg?tf=1200x' alt='Estos son los móviles que se quedarán sin WhatsApp a partir del 24 de octubre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/neuralink-significa-ancho-banda-comunicacion-humana-1312808'>Neuralink: ¿Qué significa "el mayor ancho de banda" en la comunicación humana que promete Elon Musk?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/neuralink-significa-ancho-banda-comunicacion-humana-1312808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/neuralink-elon-musk-3139386.jpg?tf=1200x' alt='Neuralink: ¿Qué significa "el mayor ancho de banda" en la comunicación humana que promete Elon Musk?' />
     </a>
 </div>
 
