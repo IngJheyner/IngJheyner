@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-podria-resucitar-linea-pulseras-inteligentes-1312574'>Samsung podría resucitar su línea de pulseras inteligentes tras 3 años de silencio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-podria-resucitar-linea-pulseras-inteligentes-1312574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-galaxy-fit-2-2971920.jpg?tf=1200x' alt='Samsung podría resucitar su línea de pulseras inteligentes tras 3 años de silencio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-bing-como-motor-busqueda-iphone-podria-haber-ocurrido-2020-1312548'>¿Apple con Bing como motor de búsqueda en iPhone? Esto podría haber ocurrido en 2020</a></h4>
+    <a href='https://computerhoy.com/apple/apple-bing-como-motor-busqueda-iphone-podria-haber-ocurrido-2020-1312548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-bing-3147448.jpg?tf=1200x' alt='¿Apple con Bing como motor de búsqueda en iPhone? Esto podría haber ocurrido en 2020' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cadenas-tv-contratan-expertos-combatir-iptv-futbol-gratis-1312310'>Las cadenas de televisión están contratando investigadores para acabar con las IPTV para ver el fútbol gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/cadenas-tv-contratan-expertos-combatir-iptv-futbol-gratis-1312310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cadenas-television-estan-contratando-investigadores-acabar-iptv-ver-futbol-gratis-3147212.jpg?tf=1200x' alt='Las cadenas de televisión están contratando investigadores para acabar con las IPTV para ver el fútbol gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ia-ya-reemplazando-humanos-estas-10-profesiones-1311764'>Si tienes alguno de estos trabajos sentimos decirte que ya existe una IA capaz de reemplazarte</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-ya-reemplazando-humanos-estas-10-profesiones-1311764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mujer-sorprendida-3147072.jpg?tf=1200x' alt='Si tienes alguno de estos trabajos sentimos decirte que ya existe una IA capaz de reemplazarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/gravedad-atrae-antimateria-como-dijo-einstein-1311676'>Se confirma que la gravedad atrae a la antimateria, como predijo Einstein</a></h4>
-    <a href='https://computerhoy.com/ciencia/gravedad-atrae-antimateria-como-dijo-einstein-1311676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/Albert%20Einstein%2C%20en%201931.jpg?tf=1200x' alt='Se confirma que la gravedad atrae a la antimateria, como predijo Einstein' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/supermercados-han-subido-precios-deberias-evitar-1312300'>Los supermercados que más han subido precios y que deberías evitar</a></h4>
-    <a href='https://computerhoy.com/alimentacion/supermercados-han-subido-precios-deberias-evitar-1312300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/supermercado-2751511.jpg?tf=1200x' alt='Los supermercados que más han subido precios y que deberías evitar' />
     </a>
 </div>
 
