@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/misteriosos-circulos-hadas-extienden-todo-mundo-respuesta-1312586'>Los misteriosos "círculos de hadas" se extienden por todo el mundo sin respuesta</a></h4>
-    <a href='https://computerhoy.com/ciencia/misteriosos-circulos-hadas-extienden-todo-mundo-respuesta-1312586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/circulos-tierra-3147586.jpg?tf=1200x' alt='Los misteriosos "círculos de hadas" se extienden por todo el mundo sin respuesta' />
+    <h4><a href='https://computerhoy.com/internet/actualiza-ahora-descubren-peligrosa-vulnerabilidad-chrome-1312778'>¡Actualiza ahora! Chrome lanza una de las actualizaciones de seguridad más importantes de su historia</a></h4>
+    <a href='https://computerhoy.com/internet/actualiza-ahora-descubren-peligrosa-vulnerabilidad-chrome-1312778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-chrome-3113980.jpg?tf=1200x' alt='¡Actualiza ahora! Chrome lanza una de las actualizaciones de seguridad más importantes de su historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/freidora-aire-xxl-toca-fondo-precio-desploma-38-amazon-te-llega-rapidisimo-1312046'>Esta freidora de aire XXL toca fondo: su precio se desploma un 38% en Amazon y te llega rapidísimo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/freidora-aire-xxl-toca-fondo-precio-desploma-38-amazon-te-llega-rapidisimo-1312046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/aigostar-zane-3146660.jpg?tf=1200x' alt='Esta freidora de aire XXL toca fondo: su precio se desploma un 38% en Amazon y te llega rapidísimo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-netflix-supervivencia-extraterrestres-amante-cine-1312622'>Qué películas ver este fin de semana en Movistar Plus+ y Netflix: supervivencia, extraterrestres y un amante del cine</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-netflix-supervivencia-extraterrestres-amante-cine-1312622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/peliculas-fin-semana-3147652.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Movistar Plus+ y Netflix: supervivencia, extraterrestres y un amante del cine' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ultraram-recibe-importante-respaldo-financiero-proyecto-1312584'>Si la empresa detrás de UltraRAM tiene éxito, podría lograr que te olvides de las unidades SSD</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ultraram-recibe-importante-respaldo-financiero-proyecto-1312584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/unidad-ssd-nvme-m2-instalada-torre-ordenador-2764077.jpg?tf=1200x' alt='Si la empresa detrás de UltraRAM tiene éxito, podría lograr que te olvides de las unidades SSD' />
+    <h4><a href='https://computerhoy.com/tutoriales/interruptor-hombre-muerto-deberias-tener-1311142'>Qué es el interruptor del hombre muerto digital y por qué deberías tener uno</a></h4>
+    <a href='https://computerhoy.com/tutoriales/interruptor-hombre-muerto-deberias-tener-1311142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/interruptor-hombre-muerto-3147944.jpg?tf=1200x' alt='Qué es el interruptor del hombre muerto digital y por qué deberías tener uno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-swim-2-mejor-reloj-natacion-motivos-1312016'>Hago natación con este reloj Garmin y jamás se me ocurriría cambiarlo por otro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-swim-2-mejor-reloj-natacion-motivos-1312016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/garmin-swim-2-3147086.jpg?tf=1200x' alt='Hago natación con este reloj Garmin y jamás se me ocurriría cambiarlo por otro' />
+    <h4><a href='https://computerhoy.com/life/cancion-reducira-ansiedad-solo-escucharla-1312776'>Esta canción reducirá tu ansiedad con tan solo escucharla: es tan relajante que no se debe conducir con ella</a></h4>
+    <a href='https://computerhoy.com/life/cancion-reducira-ansiedad-solo-escucharla-1312776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/musica-relajante-3148076.jpg?tf=1200x' alt='Esta canción reducirá tu ansiedad con tan solo escucharla: es tan relajante que no se debe conducir con ella' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-pone-fin-activacion-windows-11-10-claves-windows-7-8-1312566'>Microsoft cierra la puerta a la activación de Windows 11 y 10 con claves de Windows 7 y 8</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-pone-fin-activacion-windows-11-10-claves-windows-7-8-1312566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Microsoft cierra la puerta a la activación de Windows 11 y 10 con claves de Windows 7 y 8' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-memoria-cache-windows-11-ventajas-tiene-1307356'>Cómo borrar la memoria caché de Windows 11 y qué ventajas tiene</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-memoria-cache-windows-11-ventajas-tiene-1307356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/borrar-cache-windows-11-3147868.jpg?tf=1200x' alt='Cómo borrar la memoria caché de Windows 11 y qué ventajas tiene' />
     </a>
 </div>
 
