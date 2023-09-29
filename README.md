@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ultraram-recibe-importante-respaldo-financiero-proyecto-1312584'>Si la empresa detrás de UltraRAM tiene éxito, podría lograr que te olvides de las unidades SSD</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ultraram-recibe-importante-respaldo-financiero-proyecto-1312584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/unidad-ssd-nvme-m2-instalada-torre-ordenador-2764077.jpg?tf=1200x' alt='Si la empresa detrás de UltraRAM tiene éxito, podría lograr que te olvides de las unidades SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-swim-2-mejor-reloj-natacion-motivos-1312016'>Hago natación con este reloj Garmin y jamás se me ocurriría cambiarlo por otro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-swim-2-mejor-reloj-natacion-motivos-1312016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/garmin-swim-2-3147086.jpg?tf=1200x' alt='Hago natación con este reloj Garmin y jamás se me ocurriría cambiarlo por otro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-pone-fin-activacion-windows-11-10-claves-windows-7-8-1312566'>Microsoft cierra la puerta a la activación de Windows 11 y 10 con claves de Windows 7 y 8</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-pone-fin-activacion-windows-11-10-claves-windows-7-8-1312566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Microsoft cierra la puerta a la activación de Windows 11 y 10 con claves de Windows 7 y 8' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-practicamente-todo-media-markt-30-estos-son-mejores-chollos-1310306'>Liquidación en prácticamente todo en Media Markt con hasta un 30%: estos son los mejores chollos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/liquidacion-practicamente-todo-media-markt-30-estos-son-mejores-chollos-1310306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/media-markt-mediamarkt-3147504.jpg?tf=1200x' alt='Liquidación en prácticamente todo en Media Markt con hasta un 30%: estos son los mejores chollos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/samsung-podria-resucitar-linea-pulseras-inteligentes-1312574'>Samsung podría resucitar su línea de pulseras inteligentes tras 3 años de silencio</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-podria-resucitar-linea-pulseras-inteligentes-1312574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-galaxy-fit-2-2971920.jpg?tf=1200x' alt='Samsung podría resucitar su línea de pulseras inteligentes tras 3 años de silencio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-bing-como-motor-busqueda-iphone-podria-haber-ocurrido-2020-1312548'>¿Apple con Bing como motor de búsqueda en iPhone? Esto podría haber ocurrido en 2020</a></h4>
-    <a href='https://computerhoy.com/apple/apple-bing-como-motor-busqueda-iphone-podria-haber-ocurrido-2020-1312548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-bing-3147448.jpg?tf=1200x' alt='¿Apple con Bing como motor de búsqueda en iPhone? Esto podría haber ocurrido en 2020' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cadenas-tv-contratan-expertos-combatir-iptv-futbol-gratis-1312310'>Las cadenas de televisión están contratando investigadores para acabar con las IPTV para ver el fútbol gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cadenas-tv-contratan-expertos-combatir-iptv-futbol-gratis-1312310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cadenas-television-estan-contratando-investigadores-acabar-iptv-ver-futbol-gratis-3147212.jpg?tf=1200x' alt='Las cadenas de televisión están contratando investigadores para acabar con las IPTV para ver el fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fitbit-charge-6-con-inteligencia-artificial-aplicaciones-google-integradas-1312314'>Fitbit Charge 6, la nueva pulsera de actividad con IA y aplicaciones de Google integradas</a></h4>
-    <a href='https://computerhoy.com/life/fitbit-charge-6-con-inteligencia-artificial-aplicaciones-google-integradas-1312314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1695935143123-3147214.jpg?tf=1200x' alt='Fitbit Charge 6, la nueva pulsera de actividad con IA y aplicaciones de Google integradas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-ya-reemplazando-humanos-estas-10-profesiones-1311764'>Si tienes alguno de estos trabajos sentimos decirte que ya existe una IA capaz de reemplazarte</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-ya-reemplazando-humanos-estas-10-profesiones-1311764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mujer-sorprendida-3147072.jpg?tf=1200x' alt='Si tienes alguno de estos trabajos sentimos decirte que ya existe una IA capaz de reemplazarte' />
     </a>
 </div>
 
