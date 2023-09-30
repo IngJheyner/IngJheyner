@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/seguridad-riesgo-codigos-qr-abren-nueva-puerta-atacantes-1306924'>Tu seguridad en riesgo por el "QRishing": los códigos QR abren una nueva puerta para los atacantes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/seguridad-riesgo-codigos-qr-abren-nueva-puerta-atacantes-1306924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/codigos-qr-ciberseguridad-3138748.jpg?tf=1200x' alt='Tu seguridad en riesgo por el "QRishing": los códigos QR abren una nueva puerta para los atacantes' />
+    <h4><a href='https://computerhoy.com/tecnologia/crean-primera-fabrica-robots-humanoides-mundo-fabricar-otros-robots-1313104'>Crean la primera fábrica de robots humanoides del mundo para fabricar otros robots</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-primera-fabrica-robots-humanoides-mundo-fabricar-otros-robots-1313104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/robot-digit-3148534.jpg?tf=1200x' alt='Crean la primera fábrica de robots humanoides del mundo para fabricar otros robots' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dos-mejores-test-medir-coeficiente-intelectual-1285890'>Dos de los mejores test para medir tu coeficiente intelectual y descubrir tu verdadero potencial</a></h4>
-    <a href='https://computerhoy.com/life/dos-mejores-test-medir-coeficiente-intelectual-1285890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/test-medir-coeficiente-intelectual-3101562.jpg?tf=1200x' alt='Dos de los mejores test para medir tu coeficiente intelectual y descubrir tu verdadero potencial' />
+    <h4><a href='https://computerhoy.com/google/google-jamboard-ya-tiene-fecha-defuncion-estos-son-plazos-1313098'>El cementerio de Google añade un nuevo integrante: la pizarra de trabajo colaborativa Jamboard</a></h4>
+    <a href='https://computerhoy.com/google/google-jamboard-ya-tiene-fecha-defuncion-estos-son-plazos-1313098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-jamboard-3148528.jpg?tf=1200x' alt='El cementerio de Google añade un nuevo integrante: la pizarra de trabajo colaborativa Jamboard' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adolescentes-manipulacion-fotos-ia-muchos-no-son-conscientes-implicaciones-1310296'>Adolescentes y la manipulación de fotos con IA: "Muchos no son conscientes de sus implicaciones"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adolescentes-manipulacion-fotos-ia-muchos-no-son-conscientes-implicaciones-1310296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/manipulacion-fotos-ia-3144764.jpg?tf=1200x' alt='Adolescentes y la manipulación de fotos con IA: "Muchos no son conscientes de sus implicaciones"' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-bloquear-aplicaciones-programas-windows-11-instalar-nada-1312102'>Cómo bloquear aplicaciones y programas en Windows 11 sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-bloquear-aplicaciones-programas-windows-11-instalar-nada-1312102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/windows-11-stop-3147832.jpg?tf=1200x' alt='Cómo bloquear aplicaciones y programas en Windows 11 sin instalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/no-tiene-sentido-cambiar-movil-todos-anos-1311106'>No tiene sentido cambiar de móvil todos los años</a></h4>
-    <a href='https://computerhoy.com/moviles/no-tiene-sentido-cambiar-movil-todos-anos-1311106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/varios-modelos-iphone-3145026.jpg?tf=1200x' alt='No tiene sentido cambiar de móvil todos los años' />
+    <h4><a href='https://computerhoy.com/apple/codigos-qr-ocultos-tiene-iphone-pantalla-uso-sorprendente-1313090'>Tu iPhone tiene un código QR oculto en su pantalla y Apple lo ha puesto ahí por esta razón</a></h4>
+    <a href='https://computerhoy.com/apple/codigos-qr-ocultos-tiene-iphone-pantalla-uso-sorprendente-1313090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143570.jpg?tf=1200x' alt='Tu iPhone tiene un código QR oculto en su pantalla y Apple lo ha puesto ahí por esta razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-alternativas-steam-deck-como-consolas-portatiles-windows-1069779'>Las 5 mejores alternativas a Steam Deck como consolas portátiles Windows</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-alternativas-steam-deck-como-consolas-portatiles-windows-1069779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/steam-deck-3145828.jpg?tf=1200x' alt='Las 5 mejores alternativas a Steam Deck como consolas portátiles Windows' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-robots-generaron-tanta-expectacion-como-creator-1311710'>7 películas de robots que generaron tanta expectación como The Creator</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-robots-generaron-tanta-expectacion-como-creator-1311710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/terminator-1984-2880437.jpg?tf=1200x' alt='7 películas de robots que generaron tanta expectación como The Creator' />
     </a>
 </div>
 
