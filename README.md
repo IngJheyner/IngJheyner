@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/todos-iphone-16-contarian-procesador-a18-apple-dice-analista-1313148'>Todos los iPhone 16 contarían con el procesador A18 de Apple, dice este analista</a></h4>
+    <a href='https://computerhoy.com/apple/todos-iphone-16-contarian-procesador-a18-apple-dice-analista-1313148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3143606.jpg?tf=1200x' alt='Todos los iPhone 16 contarían con el procesador A18 de Apple, dice este analista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-lanzara-actualizacion-solventar-problemas-sobrecalentamiento-iphone-15-1313142'>Apple lanzará una actualización para solventar los problemas de sobrecalentamiento en el iPhone 15</a></h4>
     <a href='https://computerhoy.com/apple/apple-lanzara-actualizacion-solventar-problemas-sobrecalentamiento-iphone-15-1313142' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/grabando-video-iphone-15-pro-3143592.jpg?tf=1200x' alt='Apple lanzará una actualización para solventar los problemas de sobrecalentamiento en el iPhone 15' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/garmin-tiene-motivos-temblar-reloj-running-triatlon-barato-hace-competencia-1313092'>Garmin tiene motivos para temblar: este reloj para running y triatlón es barato y le hace la competencia</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-tiene-motivos-temblar-reloj-running-triatlon-barato-hace-competencia-1313092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/coros-pace-2-2473765.jpg?tf=1200x' alt='Garmin tiene motivos para temblar: este reloj para running y triatlón es barato y le hace la competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-trabajaria-version-windows-12-basada-web-acabar-chromeos-1313112'>Microsoft trabajaría en una versión de Windows 12 basada en la web para acabar con ChromeOS</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-trabajaria-version-windows-12-basada-web-acabar-chromeos-1313112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/entorno-windows-3148540.jpg?tf=1200x' alt='Microsoft trabajaría en una versión de Windows 12 basada en la web para acabar con ChromeOS' />
     </a>
 </div>
 
