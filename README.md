@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-tiene-motivos-temblar-reloj-running-triatlon-barato-hace-competencia-1313092'>Garmin tiene motivos para temblar: este reloj para running y triatlón es barato y le hace la competencia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-tiene-motivos-temblar-reloj-running-triatlon-barato-hace-competencia-1313092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/coros-pace-2-2473765.jpg?tf=1200x' alt='Garmin tiene motivos para temblar: este reloj para running y triatlón es barato y le hace la competencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-trabajaria-version-windows-12-basada-web-acabar-chromeos-1313112'>Microsoft trabajaría en una versión de Windows 12 basada en la web para acabar con ChromeOS</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-trabajaria-version-windows-12-basada-web-acabar-chromeos-1313112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/entorno-windows-3148540.jpg?tf=1200x' alt='Microsoft trabajaría en una versión de Windows 12 basada en la web para acabar con ChromeOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/carplay-no-funciona-algunos-iphone-15-usb-c-parece-culpable-1313108'>CarPlay no funciona en algunos iPhone 15 y el USB-C parece el culpable</a></h4>
+    <a href='https://computerhoy.com/apple/carplay-no-funciona-algunos-iphone-15-usb-c-parece-culpable-1313108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/carplay-2629035.jpg?tf=1200x' alt='CarPlay no funciona en algunos iPhone 15 y el USB-C parece el culpable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/crean-primera-fabrica-robots-humanoides-mundo-fabricar-otros-robots-1313104'>Crean la primera fábrica de robots humanoides del mundo para fabricar otros robots</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-primera-fabrica-robots-humanoides-mundo-fabricar-otros-robots-1313104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/robot-digit-3148534.jpg?tf=1200x' alt='Crean la primera fábrica de robots humanoides del mundo para fabricar otros robots' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-jamboard-ya-tiene-fecha-defuncion-estos-son-plazos-1313098'>El cementerio de Google añade un nuevo integrante: la pizarra de trabajo colaborativa Jamboard</a></h4>
     <a href='https://computerhoy.com/google/google-jamboard-ya-tiene-fecha-defuncion-estos-son-plazos-1313098' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-jamboard-3148528.jpg?tf=1200x' alt='El cementerio de Google añade un nuevo integrante: la pizarra de trabajo colaborativa Jamboard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-bloquear-aplicaciones-programas-windows-11-instalar-nada-1312102'>Cómo bloquear aplicaciones y programas en Windows 11 sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-bloquear-aplicaciones-programas-windows-11-instalar-nada-1312102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/windows-11-stop-3147832.jpg?tf=1200x' alt='Cómo bloquear aplicaciones y programas en Windows 11 sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/codigos-qr-ocultos-tiene-iphone-pantalla-uso-sorprendente-1313090'>Tu iPhone tiene un código QR oculto en su pantalla y Apple lo ha puesto ahí por esta razón</a></h4>
-    <a href='https://computerhoy.com/apple/codigos-qr-ocultos-tiene-iphone-pantalla-uso-sorprendente-1313090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143570.jpg?tf=1200x' alt='Tu iPhone tiene un código QR oculto en su pantalla y Apple lo ha puesto ahí por esta razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-robots-generaron-tanta-expectacion-como-creator-1311710'>7 películas de robots que generaron tanta expectación como The Creator</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-robots-generaron-tanta-expectacion-como-creator-1311710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/terminator-1984-2880437.jpg?tf=1200x' alt='7 películas de robots que generaron tanta expectación como The Creator' />
     </a>
 </div>
 
