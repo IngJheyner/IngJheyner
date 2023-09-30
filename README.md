@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/seguridad-riesgo-codigos-qr-abren-nueva-puerta-atacantes-1306924'>Tu seguridad en riesgo por el "QRishing": los códigos QR abren una nueva puerta para los atacantes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/seguridad-riesgo-codigos-qr-abren-nueva-puerta-atacantes-1306924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/codigos-qr-ciberseguridad-3138748.jpg?tf=1200x' alt='Tu seguridad en riesgo por el "QRishing": los códigos QR abren una nueva puerta para los atacantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/dos-mejores-test-medir-coeficiente-intelectual-1285890'>Dos de los mejores test para medir tu coeficiente intelectual y descubrir tu verdadero potencial</a></h4>
+    <a href='https://computerhoy.com/life/dos-mejores-test-medir-coeficiente-intelectual-1285890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/test-medir-coeficiente-intelectual-3101562.jpg?tf=1200x' alt='Dos de los mejores test para medir tu coeficiente intelectual y descubrir tu verdadero potencial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/adolescentes-manipulacion-fotos-ia-muchos-no-son-conscientes-implicaciones-1310296'>Adolescentes y la manipulación de fotos con IA: "Muchos no son conscientes de sus implicaciones"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adolescentes-manipulacion-fotos-ia-muchos-no-son-conscientes-implicaciones-1310296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/manipulacion-fotos-ia-3144764.jpg?tf=1200x' alt='Adolescentes y la manipulación de fotos con IA: "Muchos no son conscientes de sus implicaciones"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/no-tiene-sentido-cambiar-movil-todos-anos-1311106'>No tiene sentido cambiar de móvil todos los años</a></h4>
     <a href='https://computerhoy.com/moviles/no-tiene-sentido-cambiar-movil-todos-anos-1311106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/varios-modelos-iphone-3145026.jpg?tf=1200x' alt='No tiene sentido cambiar de móvil todos los años' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-alternativas-steam-deck-como-consolas-portatiles-windows-1069779'>Las 5 mejores alternativas a Steam Deck como consolas portátiles Windows</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-mejores-alternativas-steam-deck-como-consolas-portatiles-windows-1069779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/steam-deck-3145828.jpg?tf=1200x' alt='Las 5 mejores alternativas a Steam Deck como consolas portátiles Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/estos-son-moviles-carga-rapida-puedes-comprar-ahora-mismo-1312866'>Estos son los móviles con la carga más rápida que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/mejores/estos-son-moviles-carga-rapida-puedes-comprar-ahora-mismo-1312866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/carga-rapida-240w-realme-gt3-2968612.jpg?tf=1200x' alt='Estos son los móviles con la carga más rápida que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/escalofriante-experimento-nasa-dos-gemelos-1312184'>La NASA separó a dos gemelos durante un año: uno en la Tierra, otro en el espacio, y los resultados fueron escalofriantes</a></h4>
-    <a href='https://computerhoy.com/life/escalofriante-experimento-nasa-dos-gemelos-1312184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nasa-separo-dos-gemelos-durante-ano-tierra-otro-espacio-resultados-fueron-escalofriantes-3147010.jpg?tf=1200x' alt='La NASA separó a dos gemelos durante un año: uno en la Tierra, otro en el espacio, y los resultados fueron escalofriantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-tab-s9-ultra-5g-analisis-opinion-1306080'>Samsung Galaxy Tab S9 Ultra 5G: diseño, pantalla y rendimiento... ¿para todos?</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-tab-s9-ultra-5g-analisis-opinion-1306080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/samsung-galaxy-tab-s9-ultra-5g-3138530.jpg?tf=1200x' alt='Samsung Galaxy Tab S9 Ultra 5G: diseño, pantalla y rendimiento... ¿para todos?' />
     </a>
 </div>
 
