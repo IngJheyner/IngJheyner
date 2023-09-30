@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/varios-paises-europeos-anuncian-septiembre-mas-caluroso-historia-1312874'>Varios países europeos anuncian el septiembre más caluroso de su historia</a></h4>
+    <h4><a href='https://computerhoy.com/life/varios-paises-europeos-anuncian-septiembre-mas-caluroso-historia-1312874'>Varios países europeos confirman el septiembre más caluroso de su historia</a></h4>
     <a href='https://computerhoy.com/life/varios-paises-europeos-anuncian-septiembre-mas-caluroso-historia-1312874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/varios-paises-europeos-anuncian-septiembre-caluroso-historia-3148270.jpg?tf=1200x' alt='Varios países europeos anuncian el septiembre más caluroso de su historia' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/varios-paises-europeos-anuncian-septiembre-caluroso-historia-3148270.jpg?tf=1200x' alt='Varios países europeos confirman el septiembre más caluroso de su historia' />
     </a>
 </div>
 
