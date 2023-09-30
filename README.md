@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-lanzara-actualizacion-solventar-problemas-sobrecalentamiento-iphone-15-1313142'>Apple lanzará una actualización para solventar los problemas de sobrecalentamiento en el iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/apple-lanzara-actualizacion-solventar-problemas-sobrecalentamiento-iphone-15-1313142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/grabando-video-iphone-15-pro-3143592.jpg?tf=1200x' alt='Apple lanzará una actualización para solventar los problemas de sobrecalentamiento en el iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/trabajadora-anciana-mcdonalds-tiene-90-anos-1313140'>La trabajadora más anciana de McDonald's tiene 90 años, se encarga de limpiar todo el local</a></h4>
+    <a href='https://computerhoy.com/life/trabajadora-anciana-mcdonalds-tiene-90-anos-1313140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/trabajadora-anciana-mcdonalds-tiene-90-anos-encarga-limpiar-todo-local-3148556.jpg?tf=1200x' alt='La trabajadora más anciana de McDonald's tiene 90 años, se encarga de limpiar todo el local' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-nuevas-marcas-verificacion-canales-empresas-1313134'>WhatsApp trabaja en nuevas marcas de verificación para canales y empresas</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-trabaja-nuevas-marcas-verificacion-canales-empresas-1313134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/whatsapp-3148554.jpg?tf=1200x' alt='WhatsApp trabaja en nuevas marcas de verificación para canales y empresas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/garmin-tiene-motivos-temblar-reloj-running-triatlon-barato-hace-competencia-1313092'>Garmin tiene motivos para temblar: este reloj para running y triatlón es barato y le hace la competencia</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-tiene-motivos-temblar-reloj-running-triatlon-barato-hace-competencia-1313092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/coros-pace-2-2473765.jpg?tf=1200x' alt='Garmin tiene motivos para temblar: este reloj para running y triatlón es barato y le hace la competencia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-trabajaria-version-windows-12-basada-web-acabar-chromeos-1313112'>Microsoft trabajaría en una versión de Windows 12 basada en la web para acabar con ChromeOS</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-trabajaria-version-windows-12-basada-web-acabar-chromeos-1313112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/entorno-windows-3148540.jpg?tf=1200x' alt='Microsoft trabajaría en una versión de Windows 12 basada en la web para acabar con ChromeOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/carplay-no-funciona-algunos-iphone-15-usb-c-parece-culpable-1313108'>CarPlay no funciona en algunos iPhone 15 y el USB-C parece el culpable</a></h4>
-    <a href='https://computerhoy.com/apple/carplay-no-funciona-algunos-iphone-15-usb-c-parece-culpable-1313108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/carplay-2629035.jpg?tf=1200x' alt='CarPlay no funciona en algunos iPhone 15 y el USB-C parece el culpable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-primera-fabrica-robots-humanoides-mundo-fabricar-otros-robots-1313104'>Crean la primera fábrica de robots humanoides del mundo para fabricar otros robots</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-primera-fabrica-robots-humanoides-mundo-fabricar-otros-robots-1313104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/robot-digit-3148534.jpg?tf=1200x' alt='Crean la primera fábrica de robots humanoides del mundo para fabricar otros robots' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-jamboard-ya-tiene-fecha-defuncion-estos-son-plazos-1313098'>El cementerio de Google añade un nuevo integrante: la pizarra de trabajo colaborativa Jamboard</a></h4>
-    <a href='https://computerhoy.com/google/google-jamboard-ya-tiene-fecha-defuncion-estos-son-plazos-1313098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-jamboard-3148528.jpg?tf=1200x' alt='El cementerio de Google añade un nuevo integrante: la pizarra de trabajo colaborativa Jamboard' />
     </a>
 </div>
 
