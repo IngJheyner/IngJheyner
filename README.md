@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/varios-paises-europeos-anuncian-septiembre-mas-caluroso-historia-1312874'>Varios países europeos confirman el septiembre más caluroso de su historia</a></h4>
-    <a href='https://computerhoy.com/life/varios-paises-europeos-anuncian-septiembre-mas-caluroso-historia-1312874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/varios-paises-europeos-anuncian-septiembre-caluroso-historia-3148270.jpg?tf=1200x' alt='Varios países europeos confirman el septiembre más caluroso de su historia' />
+    <h4><a href='https://computerhoy.com/moviles/no-tiene-sentido-cambiar-movil-todos-anos-1311106'>No tiene sentido cambiar de móvil todos los años</a></h4>
+    <a href='https://computerhoy.com/moviles/no-tiene-sentido-cambiar-movil-todos-anos-1311106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/varios-modelos-iphone-3145026.jpg?tf=1200x' alt='No tiene sentido cambiar de móvil todos los años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubren-cueva-granada-zapatos-antiguos-europa-1312872'>Descubren en una cueva de Granada los zapatos más antiguos de Europa</a></h4>
-    <a href='https://computerhoy.com/life/descubren-cueva-granada-zapatos-antiguos-europa-1312872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/descubren-cueva-granada-zapatos-antiguos-europa-3148286.jpg?tf=1200x' alt='Descubren en una cueva de Granada los zapatos más antiguos de Europa' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-alternativas-steam-deck-como-consolas-portatiles-windows-1069779'>Las 5 mejores alternativas a Steam Deck como consolas portátiles Windows</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-alternativas-steam-deck-como-consolas-portatiles-windows-1069779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/steam-deck-3145828.jpg?tf=1200x' alt='Las 5 mejores alternativas a Steam Deck como consolas portátiles Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-han-equivocado-precio-ordenador-msi-windows-11-barato-1312630'>No se han equivocado con el precio: este ordenador MSI con Windows 11 es así de barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-han-equivocado-precio-ordenador-msi-windows-11-barato-1312630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/msi-dp130-11-218eu-pro-3147642.jpg?tf=1200x' alt='No se han equivocado con el precio: este ordenador MSI con Windows 11 es así de barato' />
+    <h4><a href='https://computerhoy.com/mejores/estos-son-moviles-carga-rapida-puedes-comprar-ahora-mismo-1312866'>Estos son los móviles con la carga más rápida que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/mejores/estos-son-moviles-carga-rapida-puedes-comprar-ahora-mismo-1312866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/carga-rapida-240w-realme-gt3-2968612.jpg?tf=1200x' alt='Estos son los móviles con la carga más rápida que puedes comprar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/satelites-starlink-amenazan-desencadenar-sindrome-kessler-1312200'>Los satélites Starlink de Elon Musk amenazan con desencadenar el peligroso síndrome de Kessler</a></h4>
-    <a href='https://computerhoy.com/internet/satelites-starlink-amenazan-desencadenar-sindrome-kessler-1312200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/starlink-elon-musk-3147958.jpg?tf=1200x' alt='Los satélites Starlink de Elon Musk amenazan con desencadenar el peligroso síndrome de Kessler' />
+    <h4><a href='https://computerhoy.com/life/escalofriante-experimento-nasa-dos-gemelos-1312184'>La NASA separó a dos gemelos durante un año: uno en la Tierra, otro en el espacio, y los resultados fueron escalofriantes</a></h4>
+    <a href='https://computerhoy.com/life/escalofriante-experimento-nasa-dos-gemelos-1312184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nasa-separo-dos-gemelos-durante-ano-tierra-otro-espacio-resultados-fueron-escalofriantes-3147010.jpg?tf=1200x' alt='La NASA separó a dos gemelos durante un año: uno en la Tierra, otro en el espacio, y los resultados fueron escalofriantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/luna-vista-traves-ojo-odin-espectaculo-igual-1312860'>La luna vista a través del Ojo de Odín, un espectáculo sin igual</a></h4>
-    <a href='https://computerhoy.com/life/luna-vista-traves-ojo-odin-espectaculo-igual-1312860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/luna-vista-traves-ojo-odin-espectaculo-igual-3148172.jpg?tf=1200x' alt='La luna vista a través del Ojo de Odín, un espectáculo sin igual' />
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-tab-s9-ultra-5g-analisis-opinion-1306080'>Samsung Galaxy Tab S9 Ultra 5G: diseño, pantalla y rendimiento... ¿para todos?</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-tab-s9-ultra-5g-analisis-opinion-1306080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/samsung-galaxy-tab-s9-ultra-5g-3138530.jpg?tf=1200x' alt='Samsung Galaxy Tab S9 Ultra 5G: diseño, pantalla y rendimiento... ¿para todos?' />
     </a>
 </div>
 
