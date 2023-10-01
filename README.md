@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/documento-google-no-quiere-leas-juicio-antimonopolio-1313422'>Este es el documento que Google no quiere que leas, y puede ser clave en su juicio antimonopolio</a></h4>
+    <a href='https://computerhoy.com/google/documento-google-no-quiere-leas-juicio-antimonopolio-1313422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/documento-google-no-quiere-leas-puede-ser-clave-juicio-antimonopolio-3148946.jpg?tf=1200x' alt='Este es el documento que Google no quiere que leas, y puede ser clave en su juicio antimonopolio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/retiran-tablas-skate-onewheel-provocar-cuatro-muertes-1313414'>Retiran del mercado 300.000 tablas de skate OneWheel, tras cuatro accidentes mortales</a></h4>
+    <a href='https://computerhoy.com/life/retiran-tablas-skate-onewheel-provocar-cuatro-muertes-1313414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/etiran-mercado-300000-tablas-skate-onewheel-provocar-cuatro-muertes-3148942.jpg?tf=1200x' alt='Retiran del mercado 300.000 tablas de skate OneWheel, tras cuatro accidentes mortales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cientificos-predicen-extincion-masiva-aniquilara-casi-todos-seres-humanos-tierra-1313394'>Científicos predicen la extinción masiva que aniquilará a casi todos los seres humanos de la Tierra</a></h4>
     <a href='https://computerhoy.com/life/cientificos-predicen-extincion-masiva-aniquilara-casi-todos-seres-humanos-tierra-1313394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/extincion-tierra-3148912.jpg?tf=1200x' alt='Científicos predicen la extinción masiva que aniquilará a casi todos los seres humanos de la Tierra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-estrena-nuevas-maquinas-virtuales-windows-11-actualizacion-septiembre-1313388'>Microsoft estrena nuevas máquinas virtuales de Windows 11 con la actualización de septiembre</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-estrena-nuevas-maquinas-virtuales-windows-11-actualizacion-septiembre-1313388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Microsoft estrena nuevas máquinas virtuales de Windows 11 con la actualización de septiembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desinstalar-varias-aplicaciones-vez-android-1311544'>Cómo desinstalar varias aplicaciones a la vez en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desinstalar-varias-aplicaciones-vez-android-1311544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/eliminar-android-3147844.jpg?tf=1200x' alt='Cómo desinstalar varias aplicaciones a la vez en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-quiere-usar-blockchain-almacenar-datos-luna-1313386'>La NASA quiere usar blockchain para almacenar datos en la Luna porque no se fían de la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-quiere-usar-blockchain-almacenar-datos-luna-1313386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/luna-2881895.jpg?tf=1200x' alt='La NASA quiere usar blockchain para almacenar datos en la Luna porque no se fían de la Tierra' />
     </a>
 </div>
 
