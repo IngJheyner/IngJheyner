@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/te-hace-google-maps-menos-inteligente-dependencia-tecnologia-afectando-cerebro-1310300'>¿Te hace el Google Maps menos inteligente? Cómo la dependencia del GPS está afectando a tu cerebro </a></h4>
-    <a href='https://computerhoy.com/tecnologia/te-hace-google-maps-menos-inteligente-dependencia-tecnologia-afectando-cerebro-1310300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-maps-cerebro-3147790.jpg?tf=1200x' alt='¿Te hace el Google Maps menos inteligente? Cómo la dependencia del GPS está afectando a tu cerebro ' />
+    <h4><a href='https://computerhoy.com/apps/funcionan-reacciones-emoji-gmail-pronto-podras-utilizar-1313382'>Así funcionan las reacciones por emoji en Gmail y que pronto podrás utilizar</a></h4>
+    <a href='https://computerhoy.com/apps/funcionan-reacciones-emoji-gmail-pronto-podras-utilizar-1313382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/reacciones-gmail-3130294.jpg?tf=1200x' alt='Así funcionan las reacciones por emoji en Gmail y que pronto podrás utilizar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sideloading-apple-resiste-implementarlo-1302816'>¿Qué es 'sideloading' y por qué Apple se resiste a implementarlo en sus dispositivos?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sideloading-apple-resiste-implementarlo-1302816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1695992399232-3148018.jpg?tf=1200x' alt='¿Qué es 'sideloading' y por qué Apple se resiste a implementarlo en sus dispositivos?' />
+    <h4><a href='https://computerhoy.com/apple/ue-da-luz-verde-sideloading-iphones-libertad-mayor-riesgo-seguridad-1306926'>La UE da luz verde al "sideloading" en iPhones: ¿Más libertad o mayor riesgo de seguridad?</a></h4>
+    <a href='https://computerhoy.com/apple/ue-da-luz-verde-sideloading-iphones-libertad-mayor-riesgo-seguridad-1306926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sideloading-apple-3140898.jpg?tf=1200x' alt='La UE da luz verde al "sideloading" en iPhones: ¿Más libertad o mayor riesgo de seguridad?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/regla-leonardo-da-vinci-pintura-desmentida-despues-500-anos-1312260'>Desmienten una regla de Leonardo da Vinci que ha sido utilizada en pintura durante más de 500 años</a></h4>
-    <a href='https://computerhoy.com/life/regla-leonardo-da-vinci-pintura-desmentida-despues-500-anos-1312260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/leonardo-da-vinci-3147146.jpg?tf=1200x' alt='Desmienten una regla de Leonardo da Vinci que ha sido utilizada en pintura durante más de 500 años' />
+    <h4><a href='https://computerhoy.com/tecnologia/7-profesiones-sectores-dominaran-mundo-2050-1308708'>Las 7 profesiones que dominarán el mundo en 2050: es hora de prepararse para el futuro laboral </a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-profesiones-sectores-dominaran-mundo-2050-1308708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mujer-futuro-3147828.jpg?tf=1200x' alt='Las 7 profesiones que dominarán el mundo en 2050: es hora de prepararse para el futuro laboral ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/amazon-kindle'>Guía para comprar un Kindle: modelos y diferencias entre los ebooks de Amazon</a></h4>
-    <a href='https://computerhoy.com/guia-compra/amazon-kindle' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-kindle-2022-2813879.jpg?tf=1200x' alt='Guía para comprar un Kindle: modelos y diferencias entre los ebooks de Amazon' />
+    <h4><a href='https://computerhoy.com/tecnologia/i5-ssd-portatil-sorprende-precio-inferior-cualquier-movil-gama-media-1313084'>Con i5 y SSD, este portátil sorprende con un precio inferior al de cualquier móvil de gama media</a></h4>
+    <a href='https://computerhoy.com/tecnologia/i5-ssd-portatil-sorprende-precio-inferior-cualquier-movil-gama-media-1313084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/medion-akoya-e16401-md62264-3148518.jpg?tf=1200x' alt='Con i5 y SSD, este portátil sorprende con un precio inferior al de cualquier móvil de gama media' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-robots-funcionan-ondas-luz-radio-1313144'>Crean robots que funcionan con ondas de luz y de radio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-robots-funcionan-ondas-luz-radio-1313144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/millimobile-3148582.jpg?tf=1200x' alt='Crean robots que funcionan con ondas de luz y de radio' />
+    <h4><a href='https://computerhoy.com/life/16-habilidades-utiles-puedes-aprender-minuto-1309368'>16 habilidades tremendamente útiles que puedes aprender en menos de un minuto </a></h4>
+    <a href='https://computerhoy.com/life/16-habilidades-utiles-puedes-aprender-minuto-1309368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/tienes-habilidad-laboral-ningun-robot-te-quitara-trabajo-futuro.jpg?tf=1200x' alt='16 habilidades tremendamente útiles que puedes aprender en menos de un minuto ' />
     </a>
 </div>
 
