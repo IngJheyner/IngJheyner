@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/china-asegura-india-no-aterrizo-polo-sur-luna-1313432'>China asegura que la India no aterrizó en el polo sur de la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/china-asegura-india-no-aterrizo-polo-sur-luna-1313432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/rover-lunar-india-no-da-senales-vida-teme-peor-3144332.jpg?tf=1200x' alt='China asegura que la India no aterrizó en el polo sur de la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/pc-sovietico-chernobil-no-se-ha-encendido-30-anos-1313428'>Rescatan un PC soviético de Chernóbil que no se ha encendido en 30 años, desde la explosión de la central nuclear</a></h4>
+    <a href='https://computerhoy.com/pc/pc-sovietico-chernobil-no-se-ha-encendido-30-anos-1313428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/rescatan-pc-sovietico-chernobil-no-ha-encendido-30-anos-explosion-central-nuclear-3148958.jpg?tf=1200x' alt='Rescatan un PC soviético de Chernóbil que no se ha encendido en 30 años, desde la explosión de la central nuclear' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/documento-google-no-quiere-leas-juicio-antimonopolio-1313422'>Este es el documento que Google no quiere que leas, y puede ser clave en su juicio antimonopolio</a></h4>
     <a href='https://computerhoy.com/google/documento-google-no-quiere-leas-juicio-antimonopolio-1313422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/documento-google-no-quiere-leas-puede-ser-clave-juicio-antimonopolio-3148946.jpg?tf=1200x' alt='Este es el documento que Google no quiere que leas, y puede ser clave en su juicio antimonopolio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cientificos-predicen-extincion-masiva-aniquilara-casi-todos-seres-humanos-tierra-1313394'>Científicos predicen la extinción masiva que aniquilará a casi todos los seres humanos de la Tierra</a></h4>
     <a href='https://computerhoy.com/life/cientificos-predicen-extincion-masiva-aniquilara-casi-todos-seres-humanos-tierra-1313394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/extincion-tierra-3148912.jpg?tf=1200x' alt='Científicos predicen la extinción masiva que aniquilará a casi todos los seres humanos de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estamos-peor-desempeno-trimestral-venta-telefonos-moviles-decada-1313392'>Estamos ante el peor desempeño trimestral en venta de teléfonos móviles en más de una década</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estamos-peor-desempeno-trimestral-venta-telefonos-moviles-decada-1313392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/jovenes-moviles-android-iphone-3136664.jpg?tf=1200x' alt='Estamos ante el peor desempeño trimestral en venta de teléfonos móviles en más de una década' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-estrena-nuevas-maquinas-virtuales-windows-11-actualizacion-septiembre-1313388'>Microsoft estrena nuevas máquinas virtuales de Windows 11 con la actualización de septiembre</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-estrena-nuevas-maquinas-virtuales-windows-11-actualizacion-septiembre-1313388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Microsoft estrena nuevas máquinas virtuales de Windows 11 con la actualización de septiembre' />
     </a>
 </div>
 
