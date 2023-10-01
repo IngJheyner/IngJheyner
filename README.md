@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cientificos-predicen-extincion-masiva-aniquilara-casi-todos-seres-humanos-tierra-1313394'>Científicos predicen la extinción masiva que aniquilará a casi todos los seres humanos de la Tierra</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-predicen-extincion-masiva-aniquilara-casi-todos-seres-humanos-tierra-1313394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/extincion-tierra-3148912.jpg?tf=1200x' alt='Científicos predicen la extinción masiva que aniquilará a casi todos los seres humanos de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estamos-peor-desempeno-trimestral-venta-telefonos-moviles-decada-1313392'>Estamos ante el peor desempeño trimestral en venta de teléfonos móviles en más de una década</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estamos-peor-desempeno-trimestral-venta-telefonos-moviles-decada-1313392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/jovenes-moviles-android-iphone-3136664.jpg?tf=1200x' alt='Estamos ante el peor desempeño trimestral en venta de teléfonos móviles en más de una década' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-estrena-nuevas-maquinas-virtuales-windows-11-actualizacion-septiembre-1313388'>Microsoft estrena nuevas máquinas virtuales de Windows 11 con la actualización de septiembre</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-estrena-nuevas-maquinas-virtuales-windows-11-actualizacion-septiembre-1313388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Microsoft estrena nuevas máquinas virtuales de Windows 11 con la actualización de septiembre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-quiere-usar-blockchain-almacenar-datos-luna-1313386'>La NASA quiere usar blockchain para almacenar datos en la Luna porque no se fían de la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-quiere-usar-blockchain-almacenar-datos-luna-1313386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/luna-2881895.jpg?tf=1200x' alt='La NASA quiere usar blockchain para almacenar datos en la Luna porque no se fían de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funcionan-reacciones-emoji-gmail-pronto-podras-utilizar-1313382'>Así funcionan las reacciones por emoji en Gmail y que pronto podrás utilizar</a></h4>
-    <a href='https://computerhoy.com/apps/funcionan-reacciones-emoji-gmail-pronto-podras-utilizar-1313382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/reacciones-gmail-3130294.jpg?tf=1200x' alt='Así funcionan las reacciones por emoji en Gmail y que pronto podrás utilizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ue-da-luz-verde-sideloading-iphones-libertad-mayor-riesgo-seguridad-1306926'>La UE da luz verde al "sideloading" en iPhones: ¿Más libertad o mayor riesgo de seguridad?</a></h4>
-    <a href='https://computerhoy.com/apple/ue-da-luz-verde-sideloading-iphones-libertad-mayor-riesgo-seguridad-1306926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sideloading-apple-3140898.jpg?tf=1200x' alt='La UE da luz verde al "sideloading" en iPhones: ¿Más libertad o mayor riesgo de seguridad?' />
     </a>
 </div>
 
