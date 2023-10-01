@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/todos-iphone-16-contarian-procesador-a18-apple-dice-analista-1313148'>Todos los iPhone 16 contarían con el procesador A18 de Apple, dice este analista</a></h4>
-    <a href='https://computerhoy.com/apple/todos-iphone-16-contarian-procesador-a18-apple-dice-analista-1313148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3143606.jpg?tf=1200x' alt='Todos los iPhone 16 contarían con el procesador A18 de Apple, dice este analista' />
+    <h4><a href='https://computerhoy.com/tecnologia/te-hace-google-maps-menos-inteligente-dependencia-tecnologia-afectando-cerebro-1310300'>¿Te hace el Google Maps menos inteligente? Cómo la dependencia del GPS está afectando a tu cerebro </a></h4>
+    <a href='https://computerhoy.com/tecnologia/te-hace-google-maps-menos-inteligente-dependencia-tecnologia-afectando-cerebro-1310300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-maps-cerebro-3147790.jpg?tf=1200x' alt='¿Te hace el Google Maps menos inteligente? Cómo la dependencia del GPS está afectando a tu cerebro ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-lanzara-actualizacion-solventar-problemas-sobrecalentamiento-iphone-15-1313142'>Apple lanzará una actualización para solventar los problemas de sobrecalentamiento en el iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/apple-lanzara-actualizacion-solventar-problemas-sobrecalentamiento-iphone-15-1313142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/grabando-video-iphone-15-pro-3143592.jpg?tf=1200x' alt='Apple lanzará una actualización para solventar los problemas de sobrecalentamiento en el iPhone 15' />
+    <h4><a href='https://computerhoy.com/tecnologia/sideloading-apple-resiste-implementarlo-1302816'>¿Qué es 'sideloading' y por qué Apple se resiste a implementarlo en sus dispositivos?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sideloading-apple-resiste-implementarlo-1302816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verticalimage1695992399232-3148018.jpg?tf=1200x' alt='¿Qué es 'sideloading' y por qué Apple se resiste a implementarlo en sus dispositivos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/trabajadora-anciana-mcdonalds-tiene-90-anos-1313140'>La trabajadora más anciana de McDonald's tiene 90 años, se encarga de limpiar todo el local</a></h4>
-    <a href='https://computerhoy.com/life/trabajadora-anciana-mcdonalds-tiene-90-anos-1313140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/trabajadora-anciana-mcdonalds-tiene-90-anos-encarga-limpiar-todo-local-3148556.jpg?tf=1200x' alt='La trabajadora más anciana de McDonald's tiene 90 años, se encarga de limpiar todo el local' />
+    <h4><a href='https://computerhoy.com/life/regla-leonardo-da-vinci-pintura-desmentida-despues-500-anos-1312260'>Desmienten una regla de Leonardo da Vinci que ha sido utilizada en pintura durante más de 500 años</a></h4>
+    <a href='https://computerhoy.com/life/regla-leonardo-da-vinci-pintura-desmentida-despues-500-anos-1312260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/leonardo-da-vinci-3147146.jpg?tf=1200x' alt='Desmienten una regla de Leonardo da Vinci que ha sido utilizada en pintura durante más de 500 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-nuevas-marcas-verificacion-canales-empresas-1313134'>WhatsApp trabaja en nuevas marcas de verificación para canales y empresas</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-trabaja-nuevas-marcas-verificacion-canales-empresas-1313134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/whatsapp-3148554.jpg?tf=1200x' alt='WhatsApp trabaja en nuevas marcas de verificación para canales y empresas' />
+    <h4><a href='https://computerhoy.com/guia-compra/amazon-kindle'>Guía para comprar un Kindle: modelos y diferencias entre los ebooks de Amazon</a></h4>
+    <a href='https://computerhoy.com/guia-compra/amazon-kindle' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-kindle-2022-2813879.jpg?tf=1200x' alt='Guía para comprar un Kindle: modelos y diferencias entre los ebooks de Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-tiene-motivos-temblar-reloj-running-triatlon-barato-hace-competencia-1313092'>Garmin tiene motivos para temblar: este reloj para running y triatlón es barato y le hace la competencia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-tiene-motivos-temblar-reloj-running-triatlon-barato-hace-competencia-1313092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/coros-pace-2-2473765.jpg?tf=1200x' alt='Garmin tiene motivos para temblar: este reloj para running y triatlón es barato y le hace la competencia' />
+    <h4><a href='https://computerhoy.com/tecnologia/crean-robots-funcionan-ondas-luz-radio-1313144'>Crean robots que funcionan con ondas de luz y de radio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-robots-funcionan-ondas-luz-radio-1313144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/millimobile-3148582.jpg?tf=1200x' alt='Crean robots que funcionan con ondas de luz y de radio' />
     </a>
 </div>
 
