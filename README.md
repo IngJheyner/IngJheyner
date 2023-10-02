@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/pegasus-buscador-inteligencia-artificial-apple-1313434'>Apple podría estar preparando su propio buscador, Pegasus, por si la obligan a cortar con Google</a></h4>
-    <a href='https://computerhoy.com/apple/pegasus-buscador-inteligencia-artificial-apple-1313434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Apple podría estar preparando su propio buscador, Pegasus, por si la obligan a cortar con Google' />
+    <h4><a href='https://computerhoy.com/tecnologia/privacidad-google-bard-como-proteger-datos-usar-chatbot-ia-1313640'>Privacidad en Google Bard: cómo proteger tus datos al usar este chatbot de IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/privacidad-google-bard-como-proteger-datos-usar-chatbot-ia-1313640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-alerta-empleados-bard-deben-vigilar-uso-evitar-generar-codigo-chatbot-3061656.jpg?tf=1200x' alt='Privacidad en Google Bard: cómo proteger tus datos al usar este chatbot de IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/china-asegura-india-no-aterrizo-polo-sur-luna-1313432'>China asegura que la India no aterrizó en el polo sur de la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/china-asegura-india-no-aterrizo-polo-sur-luna-1313432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/rover-lunar-india-no-da-senales-vida-teme-peor-3144332.jpg?tf=1200x' alt='China asegura que la India no aterrizó en el polo sur de la Luna' />
+    <h4><a href='https://computerhoy.com/mejores/mejores-ofertas-dias-naranjas-pccomponentes-1313636'>PcComponentes va a por Amazon: sus Días Naranjas vienen cargados de chollos a las puertas del Prime Day</a></h4>
+    <a href='https://computerhoy.com/mejores/mejores-ofertas-dias-naranjas-pccomponentes-1313636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dias-naranjas-amazon-3149220.jpg?tf=1200x' alt='PcComponentes va a por Amazon: sus Días Naranjas vienen cargados de chollos a las puertas del Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pc-sovietico-chernobil-no-se-ha-encendido-30-anos-1313428'>Rescatan un PC soviético de Chernóbil que no se ha encendido en 30 años, desde la explosión de la central nuclear</a></h4>
-    <a href='https://computerhoy.com/pc/pc-sovietico-chernobil-no-se-ha-encendido-30-anos-1313428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/rescatan-pc-sovietico-chernobil-no-ha-encendido-30-anos-explosion-central-nuclear-3148958.jpg?tf=1200x' alt='Rescatan un PC soviético de Chernóbil que no se ha encendido en 30 años, desde la explosión de la central nuclear' />
+    <h4><a href='https://computerhoy.com/tecnologia/productos-xiaomi-queridos-vuelta-amazon-tiene-baja-precio-1312704'>Uno de los productos Xiaomi más queridos está de vuelta: Amazon lo tiene y le baja el precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/productos-xiaomi-queridos-vuelta-amazon-tiene-baja-precio-1312704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-mi-box-s-2863083.jpg?tf=1200x' alt='Uno de los productos Xiaomi más queridos está de vuelta: Amazon lo tiene y le baja el precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/documento-google-no-quiere-leas-juicio-antimonopolio-1313422'>Este es el documento que Google no quiere que leas, y puede ser clave en su juicio antimonopolio</a></h4>
-    <a href='https://computerhoy.com/google/documento-google-no-quiere-leas-juicio-antimonopolio-1313422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/documento-google-no-quiere-leas-puede-ser-clave-juicio-antimonopolio-3148946.jpg?tf=1200x' alt='Este es el documento que Google no quiere que leas, y puede ser clave en su juicio antimonopolio' />
+    <h4><a href='https://computerhoy.com/tecnologia/app-usa-ia-encontrar-pareja-perfecta-solo-cara-1313654'>Esta app de citas usa la IA para encontrar tu pareja perfecta solo con tu cara</a></h4>
+    <a href='https://computerhoy.com/tecnologia/app-usa-ia-encontrar-pareja-perfecta-solo-cara-1313654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/aplicacion-citas-2621955.jpg?tf=1200x' alt='Esta app de citas usa la IA para encontrar tu pareja perfecta solo con tu cara' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/retiran-tablas-skate-onewheel-provocar-cuatro-muertes-1313414'>Retiran del mercado 300.000 tablas de skate OneWheel, tras cuatro accidentes mortales</a></h4>
-    <a href='https://computerhoy.com/life/retiran-tablas-skate-onewheel-provocar-cuatro-muertes-1313414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/etiran-mercado-300000-tablas-skate-onewheel-provocar-cuatro-muertes-3148942.jpg?tf=1200x' alt='Retiran del mercado 300.000 tablas de skate OneWheel, tras cuatro accidentes mortales' />
+    <h4><a href='https://computerhoy.com/motor/soldado-ucraniano-llama-soporte-tecnico-ruso-pidiendo-ayuda-reparar-tanque-robado-1313638'>Un soldado ucraniano llama al soporte técnico ruso pidiendo ayuda para reparar un tanque robado</a></h4>
+    <a href='https://computerhoy.com/motor/soldado-ucraniano-llama-soporte-tecnico-ruso-pidiendo-ayuda-reparar-tanque-robado-1313638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/guerra-rusia-ucrania-3149180.jpg?tf=1200x' alt='Un soldado ucraniano llama al soporte técnico ruso pidiendo ayuda para reparar un tanque robado' />
     </a>
 </div>
 
