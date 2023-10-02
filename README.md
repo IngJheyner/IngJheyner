@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/pegasus-buscador-inteligencia-artificial-apple-1313434'>Apple podría estar preparando su propio buscador, Pegasus, por si la obligan a cortar con Google</a></h4>
+    <a href='https://computerhoy.com/apple/pegasus-buscador-inteligencia-artificial-apple-1313434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Apple podría estar preparando su propio buscador, Pegasus, por si la obligan a cortar con Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/china-asegura-india-no-aterrizo-polo-sur-luna-1313432'>China asegura que la India no aterrizó en el polo sur de la Luna</a></h4>
     <a href='https://computerhoy.com/espacio/china-asegura-india-no-aterrizo-polo-sur-luna-1313432' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/rover-lunar-india-no-da-senales-vida-teme-peor-3144332.jpg?tf=1200x' alt='China asegura que la India no aterrizó en el polo sur de la Luna' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/retiran-tablas-skate-onewheel-provocar-cuatro-muertes-1313414'>Retiran del mercado 300.000 tablas de skate OneWheel, tras cuatro accidentes mortales</a></h4>
     <a href='https://computerhoy.com/life/retiran-tablas-skate-onewheel-provocar-cuatro-muertes-1313414' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/etiran-mercado-300000-tablas-skate-onewheel-provocar-cuatro-muertes-3148942.jpg?tf=1200x' alt='Retiran del mercado 300.000 tablas de skate OneWheel, tras cuatro accidentes mortales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-predicen-extincion-masiva-aniquilara-casi-todos-seres-humanos-tierra-1313394'>Científicos predicen la extinción masiva que aniquilará a casi todos los seres humanos de la Tierra</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-predicen-extincion-masiva-aniquilara-casi-todos-seres-humanos-tierra-1313394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/extincion-tierra-3148912.jpg?tf=1200x' alt='Científicos predicen la extinción masiva que aniquilará a casi todos los seres humanos de la Tierra' />
     </a>
 </div>
 
