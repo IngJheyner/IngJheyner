@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/privacidad-google-bard-como-proteger-datos-usar-chatbot-ia-1313640'>Privacidad en Google Bard: cómo proteger tus datos al usar este chatbot de IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/privacidad-google-bard-como-proteger-datos-usar-chatbot-ia-1313640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-alerta-empleados-bard-deben-vigilar-uso-evitar-generar-codigo-chatbot-3061656.jpg?tf=1200x' alt='Privacidad en Google Bard: cómo proteger tus datos al usar este chatbot de IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/estudio-revela-chatgpt-puede-provocar-peor-rendimiento-laboral-trabajadores-1313786'>Un estudio revela que ChatGPT puede provocar un peor rendimiento laboral en los trabajadores </a></h4>
+    <a href='https://computerhoy.com/tecnologia/estudio-revela-chatgpt-puede-provocar-peor-rendimiento-laboral-trabajadores-1313786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chatgpt-trabajo-3149594.jpg?tf=1200x' alt='Un estudio revela que ChatGPT puede provocar un peor rendimiento laboral en los trabajadores ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/mejores-ofertas-dias-naranjas-pccomponentes-1313636'>PcComponentes va a por Amazon: sus Días Naranjas vienen cargados de chollos a las puertas del Prime Day</a></h4>
-    <a href='https://computerhoy.com/mejores/mejores-ofertas-dias-naranjas-pccomponentes-1313636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dias-naranjas-amazon-3149220.jpg?tf=1200x' alt='PcComponentes va a por Amazon: sus Días Naranjas vienen cargados de chollos a las puertas del Prime Day' />
+    <h4><a href='https://computerhoy.com/life/contaminan-famosos-vuelos-avion-privado-1313746'>Este es el ranking de famosos que más contaminan con sus vuelos en avión privado</a></h4>
+    <a href='https://computerhoy.com/life/contaminan-famosos-vuelos-avion-privado-1313746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/emisiones-co2-famosos-3149544.jpg?tf=1200x' alt='Este es el ranking de famosos que más contaminan con sus vuelos en avión privado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/productos-xiaomi-queridos-vuelta-amazon-tiene-baja-precio-1312704'>Uno de los productos Xiaomi más queridos está de vuelta: Amazon lo tiene y le baja el precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/productos-xiaomi-queridos-vuelta-amazon-tiene-baja-precio-1312704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-mi-box-s-2863083.jpg?tf=1200x' alt='Uno de los productos Xiaomi más queridos está de vuelta: Amazon lo tiene y le baja el precio' />
+    <h4><a href='https://computerhoy.com/criptos/shiba-inu-alerta-estafas-ofrece-5-consejos-protegerse-1313700'>Shiba Inu alerta a su comunidad sobre posibles estafas y ofrece 5 consejos para estar protegidos</a></h4>
+    <a href='https://computerhoy.com/criptos/shiba-inu-alerta-estafas-ofrece-5-consejos-protegerse-1313700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/shiba-inu-2791151.jpg?tf=1200x' alt='Shiba Inu alerta a su comunidad sobre posibles estafas y ofrece 5 consejos para estar protegidos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/app-usa-ia-encontrar-pareja-perfecta-solo-cara-1313654'>Esta app de citas usa la IA para encontrar tu pareja perfecta solo con tu cara</a></h4>
-    <a href='https://computerhoy.com/tecnologia/app-usa-ia-encontrar-pareja-perfecta-solo-cara-1313654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/aplicacion-citas-2621955.jpg?tf=1200x' alt='Esta app de citas usa la IA para encontrar tu pareja perfecta solo con tu cara' />
+    <h4><a href='https://computerhoy.com/prime-day-1308000'>Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos</a></h4>
+    <a href='https://computerhoy.com/prime-day-1308000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazon-prime-octubre-2023-3139450.jpg?tf=1200x' alt='Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/soldado-ucraniano-llama-soporte-tecnico-ruso-pidiendo-ayuda-reparar-tanque-robado-1313638'>Un soldado ucraniano llama al soporte técnico ruso pidiendo ayuda para reparar un tanque robado</a></h4>
-    <a href='https://computerhoy.com/motor/soldado-ucraniano-llama-soporte-tecnico-ruso-pidiendo-ayuda-reparar-tanque-robado-1313638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/guerra-rusia-ucrania-3149180.jpg?tf=1200x' alt='Un soldado ucraniano llama al soporte técnico ruso pidiendo ayuda para reparar un tanque robado' />
+    <h4><a href='https://computerhoy.com/apple/ponen-prueba-iphone-15-pro-max-ver-dobla-agrieta-1313698'>Ponen a prueba la dureza del iPhone 15 Pro Max para comprobar si se dobla o agrieta</a></h4>
+    <a href='https://computerhoy.com/apple/ponen-prueba-iphone-15-pro-max-ver-dobla-agrieta-1313698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/boton-accion-iphone-15-pro-max-3143578.jpg?tf=1200x' alt='Ponen a prueba la dureza del iPhone 15 Pro Max para comprobar si se dobla o agrieta' />
     </a>
 </div>
 
