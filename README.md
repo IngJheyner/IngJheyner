@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nuevo-material-podria-cagar-baterias-coche-electrico-instante-1313866'>Crea un nuevo material que podría cargar las baterías del coche eléctrico casi al instante</a></h4>
-    <a href='https://computerhoy.com/motor/nuevo-material-podria-cagar-baterias-coche-electrico-instante-1313866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bateria-coche-electrico-3121054.jpg?tf=1200x' alt='Crea un nuevo material que podría cargar las baterías del coche eléctrico casi al instante' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/recibes-bizum-10-euros-desconocido-estafa-1313918'>Si recibes un Bizum de 10 euros de un desconocido, quédatelos, es una nueva estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/recibes-bizum-10-euros-desconocido-estafa-1313918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bizum-2671393.jpg?tf=1200x' alt='Si recibes un Bizum de 10 euros de un desconocido, quédatelos, es una nueva estafa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ponen-prueba-iphone-15-pro-max-ver-dobla-agrieta-1313698'>Un laboratorio desmiente los problemas del iPhone 15 Pro Max: ni se dobla, ni se agrieta</a></h4>
-    <a href='https://computerhoy.com/apple/ponen-prueba-iphone-15-pro-max-ver-dobla-agrieta-1313698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/boton-accion-iphone-15-pro-max-3143578.jpg?tf=1200x' alt='Un laboratorio desmiente los problemas del iPhone 15 Pro Max: ni se dobla, ni se agrieta' />
+    <h4><a href='https://computerhoy.com/life/3-senales-alerta-detectar-apartamento-alquiler-sucio-1312828'>3 señales de alerta que pueden indicar que un apartamento de alquiler no está completamente limpio</a></h4>
+    <a href='https://computerhoy.com/life/3-senales-alerta-detectar-apartamento-alquiler-sucio-1312828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/3-senales-alerta-pueden-indicar-apartamento-alquiler-no-completamente-limpio-3148258.jpg?tf=1200x' alt='3 señales de alerta que pueden indicar que un apartamento de alquiler no está completamente limpio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-agregar-funciones-nuevas-windows-11-windows-10-1311658'>Cómo agregar funciones nuevas de Windows 11 a Windows 10</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-agregar-funciones-nuevas-windows-11-windows-10-1311658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg?tf=1200x' alt='Cómo agregar funciones nuevas de Windows 11 a Windows 10' />
+    <h4><a href='https://computerhoy.com/motor/conductor-autocaravana-no-volvera-fiarse-google-maps-1313902'>El conductor de esta autocaravana no volverá a fiarse nunca más de Google Maps </a></h4>
+    <a href='https://computerhoy.com/motor/conductor-autocaravana-no-volvera-fiarse-google-maps-1313902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hombre-llorando-junto-autocaravana-3149846.jpg?tf=1200x' alt='El conductor de esta autocaravana no volverá a fiarse nunca más de Google Maps ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/parte-cuerpo-seguira-viviendo-tiempo-despues-muerte-1313856'>Esta parte de tu cuerpo seguirá viviendo mucho tiempo después de tu muerte</a></h4>
-    <a href='https://computerhoy.com/life/parte-cuerpo-seguira-viviendo-tiempo-despues-muerte-1313856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/parte-cuerpo-seguira-viviendo-mucho-tiempo-despues-muerte-3149728.jpg?tf=1200x' alt='Esta parte de tu cuerpo seguirá viviendo mucho tiempo después de tu muerte' />
+    <h4><a href='https://computerhoy.com/motor/luna-trasera-espejo-retrovisor-tienen-dias-contados-1313880'>La luna trasera y el espejo retrovisor en los coches tienen los días contados</a></h4>
+    <a href='https://computerhoy.com/motor/luna-trasera-espejo-retrovisor-tienen-dias-contados-1313880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/luna-trasera-podria-desaparecer-coches-3149754.jpg?tf=1200x' alt='La luna trasera y el espejo retrovisor en los coches tienen los días contados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-android-auto-desbloquear-funciones-ocultas-1312792'>Cómo liberar Android Auto para desbloquear funciones ocultas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-liberar-android-auto-desbloquear-funciones-ocultas-1312792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/android-auto-3149634.jpg?tf=1200x' alt='Cómo liberar Android Auto para desbloquear funciones ocultas' />
+    <h4><a href='https://computerhoy.com/tecnologia/animalada-precio-mejor-movil-samsung-ahora-mismo-tiene-350eu-descuento-amazon-1313374'>Animalada de precio en el mejor móvil Samsung ahora mismo: tiene 350€ de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/animalada-precio-mejor-movil-samsung-ahora-mismo-tiene-350eu-descuento-amazon-1313374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-ultra-analisis-opinion-2961026.jpg?tf=1200x' alt='Animalada de precio en el mejor móvil Samsung ahora mismo: tiene 350€ de descuento en Amazon' />
     </a>
 </div>
 
