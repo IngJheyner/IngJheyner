@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estudio-revela-chatgpt-puede-provocar-peor-rendimiento-laboral-trabajadores-1313786'>Un estudio revela que ChatGPT puede provocar un peor rendimiento laboral en los trabajadores </a></h4>
-    <a href='https://computerhoy.com/tecnologia/estudio-revela-chatgpt-puede-provocar-peor-rendimiento-laboral-trabajadores-1313786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chatgpt-trabajo-3149594.jpg?tf=1200x' alt='Un estudio revela que ChatGPT puede provocar un peor rendimiento laboral en los trabajadores ' />
+    <h4><a href='https://computerhoy.com/life/parte-cuerpo-seguira-viviendo-tiempo-despues-muerte-1313856'>Esta parte de tu cuerpo seguirá viviendo mucho tiempo después de tu muerte</a></h4>
+    <a href='https://computerhoy.com/life/parte-cuerpo-seguira-viviendo-tiempo-despues-muerte-1313856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/parte-cuerpo-seguira-viviendo-mucho-tiempo-despues-muerte-3149728.jpg?tf=1200x' alt='Esta parte de tu cuerpo seguirá viviendo mucho tiempo después de tu muerte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/contaminan-famosos-vuelos-avion-privado-1313746'>Este es el ranking de famosos que más contaminan con sus vuelos en avión privado</a></h4>
-    <a href='https://computerhoy.com/life/contaminan-famosos-vuelos-avion-privado-1313746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/emisiones-co2-famosos-3149544.jpg?tf=1200x' alt='Este es el ranking de famosos que más contaminan con sus vuelos en avión privado' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-android-auto-desbloquear-funciones-ocultas-1312792'>Cómo liberar Android Auto para desbloquear funciones ocultas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-liberar-android-auto-desbloquear-funciones-ocultas-1312792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/android-auto-3149634.jpg?tf=1200x' alt='Cómo liberar Android Auto para desbloquear funciones ocultas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/shiba-inu-alerta-estafas-ofrece-5-consejos-protegerse-1313700'>Shiba Inu alerta a su comunidad sobre posibles estafas y ofrece 5 consejos para estar protegidos</a></h4>
-    <a href='https://computerhoy.com/criptos/shiba-inu-alerta-estafas-ofrece-5-consejos-protegerse-1313700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/shiba-inu-2791151.jpg?tf=1200x' alt='Shiba Inu alerta a su comunidad sobre posibles estafas y ofrece 5 consejos para estar protegidos' />
+    <h4><a href='https://computerhoy.com/google/son-chromebook-plus-potencia-449-euros-1313776'>Google renueva su línea de portátiles con Chromebook Plus: más potencia desde 449 euros</a></h4>
+    <a href='https://computerhoy.com/google/son-chromebook-plus-potencia-449-euros-1313776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chromebook-plus-3149336.jpg?tf=1200x' alt='Google renueva su línea de portátiles con Chromebook Plus: más potencia desde 449 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/prime-day-1308000'>Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos</a></h4>
-    <a href='https://computerhoy.com/prime-day-1308000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazon-prime-octubre-2023-3139450.jpg?tf=1200x' alt='Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-varios-perfiles-usuario-android-1310462'>Cómo crear varios perfiles de usuario en Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-varios-perfiles-usuario-android-1310462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/muchas-mascotas-android-3149596.jpg?tf=1200x' alt='Cómo crear varios perfiles de usuario en Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ponen-prueba-iphone-15-pro-max-ver-dobla-agrieta-1313698'>Ponen a prueba la dureza del iPhone 15 Pro Max para comprobar si se dobla o agrieta</a></h4>
-    <a href='https://computerhoy.com/apple/ponen-prueba-iphone-15-pro-max-ver-dobla-agrieta-1313698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/boton-accion-iphone-15-pro-max-3143578.jpg?tf=1200x' alt='Ponen a prueba la dureza del iPhone 15 Pro Max para comprobar si se dobla o agrieta' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-lia-liquida-altavoces-alexa-61-baratos-antes-prime-day-1313748'>Amazon la lía y liquida sus altavoces con Alexa: hasta un 61% más baratos antes del Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-lia-liquida-altavoces-alexa-61-baratos-antes-prime-day-1313748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/echo-dot-4a-generacion-2378435.jpg?tf=1200x' alt='Amazon la lía y liquida sus altavoces con Alexa: hasta un 61% más baratos antes del Prime Day' />
     </a>
 </div>
 
