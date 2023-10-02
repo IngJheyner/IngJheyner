@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/nuevo-material-podria-cagar-baterias-coche-electrico-instante-1313866'>Crea un nuevo material que podría cargar las baterías del coche eléctrico casi al instante</a></h4>
+    <a href='https://computerhoy.com/motor/nuevo-material-podria-cagar-baterias-coche-electrico-instante-1313866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/bateria-coche-electrico-3121054.jpg?tf=1200x' alt='Crea un nuevo material que podría cargar las baterías del coche eléctrico casi al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ponen-prueba-iphone-15-pro-max-ver-dobla-agrieta-1313698'>Un laboratorio desmiente los problemas del iPhone 15 Pro Max: ni se dobla, ni se agrieta</a></h4>
+    <a href='https://computerhoy.com/apple/ponen-prueba-iphone-15-pro-max-ver-dobla-agrieta-1313698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/boton-accion-iphone-15-pro-max-3143578.jpg?tf=1200x' alt='Un laboratorio desmiente los problemas del iPhone 15 Pro Max: ni se dobla, ni se agrieta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-agregar-funciones-nuevas-windows-11-windows-10-1311658'>Cómo agregar funciones nuevas de Windows 11 a Windows 10</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-agregar-funciones-nuevas-windows-11-windows-10-1311658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg?tf=1200x' alt='Cómo agregar funciones nuevas de Windows 11 a Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/parte-cuerpo-seguira-viviendo-tiempo-despues-muerte-1313856'>Esta parte de tu cuerpo seguirá viviendo mucho tiempo después de tu muerte</a></h4>
     <a href='https://computerhoy.com/life/parte-cuerpo-seguira-viviendo-tiempo-despues-muerte-1313856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/parte-cuerpo-seguira-viviendo-mucho-tiempo-despues-muerte-3149728.jpg?tf=1200x' alt='Esta parte de tu cuerpo seguirá viviendo mucho tiempo después de tu muerte' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-liberar-android-auto-desbloquear-funciones-ocultas-1312792'>Cómo liberar Android Auto para desbloquear funciones ocultas</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-liberar-android-auto-desbloquear-funciones-ocultas-1312792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/android-auto-3149634.jpg?tf=1200x' alt='Cómo liberar Android Auto para desbloquear funciones ocultas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/son-chromebook-plus-potencia-449-euros-1313776'>Google renueva su línea de portátiles con Chromebook Plus: más potencia desde 449 euros</a></h4>
-    <a href='https://computerhoy.com/google/son-chromebook-plus-potencia-449-euros-1313776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chromebook-plus-3149336.jpg?tf=1200x' alt='Google renueva su línea de portátiles con Chromebook Plus: más potencia desde 449 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-varios-perfiles-usuario-android-1310462'>Cómo crear varios perfiles de usuario en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-varios-perfiles-usuario-android-1310462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/muchas-mascotas-android-3149596.jpg?tf=1200x' alt='Cómo crear varios perfiles de usuario en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-lia-liquida-altavoces-alexa-61-baratos-antes-prime-day-1313748'>Amazon la lía y liquida sus altavoces con Alexa: hasta un 61% más baratos antes del Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-lia-liquida-altavoces-alexa-61-baratos-antes-prime-day-1313748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/echo-dot-4a-generacion-2378435.jpg?tf=1200x' alt='Amazon la lía y liquida sus altavoces con Alexa: hasta un 61% más baratos antes del Prime Day' />
     </a>
 </div>
 
