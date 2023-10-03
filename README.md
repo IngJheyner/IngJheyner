@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/thonis-heracleion-ciudad-faraones-sumergida-llena-tesoros-1314180'>Los secretos de Thonis-Heracleion, la ciudad de los faraones sumergida, llena de tesoros</a></h4>
+    <a href='https://computerhoy.com/ciencia/thonis-heracleion-ciudad-faraones-sumergida-llena-tesoros-1314180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/secretos-thonis-heraclion-ciudad-faraones-sumergida-llena-tesoros-3150184.jpg?tf=1200x' alt='Los secretos de Thonis-Heracleion, la ciudad de los faraones sumergida, llena de tesoros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897866.jpg?tf=1200x' alt='Estas son las mejores tablets para estudiantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/penultimo-intento-elon-musk-salvar-x-ficha-paris-hilton-1313998'>El penúltimo intento de Elon Musk para salvar X: ficha a Paris Hilton</a></h4>
     <a href='https://computerhoy.com/tecnologia/penultimo-intento-elon-musk-salvar-x-ficha-paris-hilton-1313998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/paris-hilton-partido-angeles-rams-2704841.jpg?tf=1200x' alt='El penúltimo intento de Elon Musk para salvar X: ficha a Paris Hilton' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/pluto-tv-estrena-cinco-nuevos-canales-gratis-octubre-1313994'>Pluto TV estrena cinco nuevos canales en octubre, gratis y sin registro</a></h4>
     <a href='https://computerhoy.com/entretenimiento/pluto-tv-estrena-cinco-nuevos-canales-gratis-octubre-1313994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pluto-tv-estrena-cinco-nuevos-canales-octubre-gratis-registro-3149934.jpg?tf=1200x' alt='Pluto TV estrena cinco nuevos canales en octubre, gratis y sin registro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/verdadera-razon-debes-subir-persianas-avion-1313056'>La verdadera razón por la que siempre debes subir las persianas del avión al despegar y al aterrizar</a></h4>
-    <a href='https://computerhoy.com/life/verdadera-razon-debes-subir-persianas-avion-1313056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verdadera-razon-siempre-debes-subir-persianas-avion-despegar-aterrizar-3148498.jpg?tf=1200x' alt='La verdadera razón por la que siempre debes subir las persianas del avión al despegar y al aterrizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-revienta-precio-smartwatch-fossil-parece-clasico-pero-tiene-google-1312748'>Amazon revienta el precio de un smartwatch Fossil que parece clásico pero que tiene SO de Google</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-revienta-precio-smartwatch-fossil-parece-clasico-pero-tiene-google-1312748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fossil-gen-7-connected-watch-wellness-edition-3147960.jpg?tf=1200x' alt='Amazon revienta el precio de un smartwatch Fossil que parece clásico pero que tiene SO de Google' />
     </a>
 </div>
 
