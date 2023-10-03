@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funcion-desconocida-google-maps-waze-no-puede-imitar-1314482'>La función desconocida de Google Maps que ni Waze ni Apple Mapas pueden imitar</a></h4>
-    <a href='https://computerhoy.com/apps/funcion-desconocida-google-maps-waze-no-puede-imitar-1314482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/rutas-google-maps-3119840.jpg?tf=1200x' alt='La función desconocida de Google Maps que ni Waze ni Apple Mapas pueden imitar' />
+    <h4><a href='https://computerhoy.com/android/cambio-android-auto-polemico-historia-ya-disponible-todos-1314592'>El cambio de Android Auto más polémico de su historia ya está disponible para todos</a></h4>
+    <a href='https://computerhoy.com/android/cambio-android-auto-polemico-historia-ya-disponible-todos-1314592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/coolwalk-android-auto-2879987.jpg?tf=1200x' alt='El cambio de Android Auto más polémico de su historia ya está disponible para todos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/compresion-memoria-windows-11-deberias-activarla-1314002'>Qué es la compresión de memoria en Windows 11 y por qué deberías activarla</a></h4>
-    <a href='https://computerhoy.com/tutoriales/compresion-memoria-windows-11-deberias-activarla-1314002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/compresion-memoria-windows-11-deberias-activarlo-3150178.jpg?tf=1200x' alt='Qué es la compresión de memoria en Windows 11 y por qué deberías activarla' />
+    <h4><a href='https://computerhoy.com/life/espanoles-punto-mira-sospechoso-uso-tipo-billetes-1314590'>Los españoles en el punto de mira por sospechoso uso de este tipo de billetes</a></h4>
+    <a href='https://computerhoy.com/life/espanoles-punto-mira-sospechoso-uso-tipo-billetes-1314590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/billetes-euro-3150932.jpg?tf=1200x' alt='Los españoles en el punto de mira por sospechoso uso de este tipo de billetes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estas-cometiendo-estos-errores-contrasenas-estas-peligro-1314472'>Si estás cometiendo estos errores con tus contraseñas, estás en peligro</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estas-cometiendo-estos-errores-contrasenas-estas-peligro-1314472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordeanador-password-2953452.jpg?tf=1200x' alt='Si estás cometiendo estos errores con tus contraseñas, estás en peligro' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-confidencial-gmail-1313996'>Cómo activar el modo confidencial de Gmail</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-modo-confidencial-gmail-1313996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-activar-modo-confidencial-gmail-3149994.jpg?tf=1200x' alt='Cómo activar el modo confidencial de Gmail' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/misterio-cantar-ducha-mejora-realmente-voz-tan-solo-ilusion-1314346'>El misterio de cantar en la ducha: ¿Mejora realmente tu voz o es tan solo una ilusión? </a></h4>
-    <a href='https://computerhoy.com/ciencia/misterio-cantar-ducha-mejora-realmente-voz-tan-solo-ilusion-1314346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cantar-ducha-3150494.jpg?tf=1200x' alt='El misterio de cantar en la ducha: ¿Mejora realmente tu voz o es tan solo una ilusión? ' />
+    <h4><a href='https://computerhoy.com/energia/veremos-alguna-vez-energia-limpia-infinita-fusion-tierra-1314522'>¿Veremos alguna vez la energía limpia e infinita de fusión en la Tierra?</a></h4>
+    <a href='https://computerhoy.com/energia/veremos-alguna-vez-energia-limpia-infinita-fusion-tierra-1314522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/energia-solar-3150774.jpg?tf=1200x' alt='¿Veremos alguna vez la energía limpia e infinita de fusión en la Tierra?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/protege-red-local-firewall-ajustes-seguridad-router-1314380'>Protege tu red local con el firewall y los ajustes de seguridad del router</a></h4>
-    <a href='https://computerhoy.com/patrocinado/protege-red-local-firewall-ajustes-seguridad-router-1314380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/avm-3150530.jpg?tf=1200x' alt='Protege tu red local con el firewall y los ajustes de seguridad del router' />
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificia-podria-predecir-premios-nobel-1314534'>¿Podría la IA ayudar a predecir los premios Nobel? </a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificia-podria-predecir-premios-nobel-1314534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inteligencia-artificial-3109798.jpg?tf=1200x' alt='¿Podría la IA ayudar a predecir los premios Nobel? ' />
     </a>
 </div>
 
