@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/funcion-desconocida-google-maps-waze-no-puede-imitar-1314482'>La función desconocida de Google Maps que ni Waze ni Apple Mapas pueden imitar</a></h4>
+    <a href='https://computerhoy.com/apps/funcion-desconocida-google-maps-waze-no-puede-imitar-1314482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/rutas-google-maps-3119840.jpg?tf=1200x' alt='La función desconocida de Google Maps que ni Waze ni Apple Mapas pueden imitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/compresion-memoria-windows-11-deberias-activarla-1314002'>Qué es la compresión de memoria en Windows 11 y por qué deberías activarla</a></h4>
+    <a href='https://computerhoy.com/tutoriales/compresion-memoria-windows-11-deberias-activarla-1314002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/compresion-memoria-windows-11-deberias-activarlo-3150178.jpg?tf=1200x' alt='Qué es la compresión de memoria en Windows 11 y por qué deberías activarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estas-cometiendo-estos-errores-contrasenas-estas-peligro-1314472'>Si estás cometiendo estos errores con tus contraseñas, estás en peligro</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estas-cometiendo-estos-errores-contrasenas-estas-peligro-1314472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordeanador-password-2953452.jpg?tf=1200x' alt='Si estás cometiendo estos errores con tus contraseñas, estás en peligro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/misterio-cantar-ducha-mejora-realmente-voz-tan-solo-ilusion-1314346'>El misterio de cantar en la ducha: ¿Mejora realmente tu voz o es tan solo una ilusión? </a></h4>
     <a href='https://computerhoy.com/ciencia/misterio-cantar-ducha-mejora-realmente-voz-tan-solo-ilusion-1314346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cantar-ducha-3150494.jpg?tf=1200x' alt='El misterio de cantar en la ducha: ¿Mejora realmente tu voz o es tan solo una ilusión? ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/patrocinado/protege-red-local-firewall-ajustes-seguridad-router-1314380'>Protege tu red local con el firewall y los ajustes de seguridad del router</a></h4>
     <a href='https://computerhoy.com/patrocinado/protege-red-local-firewall-ajustes-seguridad-router-1314380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/avm-3150530.jpg?tf=1200x' alt='Protege tu red local con el firewall y los ajustes de seguridad del router' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-podria-sorprender-movil-plegable-barato-no-nuevo-pixel-fold-1314296'>Google podría sorprender con un móvil plegable más barato y no es un nuevo Pixel Fold</a></h4>
-    <a href='https://computerhoy.com/google/google-podria-sorprender-movil-plegable-barato-no-nuevo-pixel-fold-1314296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pantalla-interior-plegable-google-pixel-fold-3096744.jpg?tf=1200x' alt='Google podría sorprender con un móvil plegable más barato y no es un nuevo Pixel Fold' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/bitcoin-dispara-20-post-satoshi-nakamoto-1314360'>El precio del bitcoin se dispara un 20% tras un post de Satoshi Nakamoto</a></h4>
-    <a href='https://computerhoy.com/criptos/bitcoin-dispara-20-post-satoshi-nakamoto-1314360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/bitcoin-3011088.jpg?tf=1200x' alt='El precio del bitcoin se dispara un 20% tras un post de Satoshi Nakamoto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvidate-windows-portatil-potente-viene-google-corazon-ahora-ha-desplomado-precio-1313402'>Olvídate de Windows: este portátil es potentísimo, viene con Google en el corazón y ahora ha desplomado su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvidate-windows-portatil-potente-viene-google-corazon-ahora-ha-desplomado-precio-1313402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/asus-chromebook-cx9-cx9400cea-kc0172-3148918.jpg?tf=1200x' alt='Olvídate de Windows: este portátil es potentísimo, viene con Google en el corazón y ahora ha desplomado su precio' />
     </a>
 </div>
 
