@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/thonis-heracleion-ciudad-faraones-sumergida-llena-tesoros-1314180'>Los secretos de Thonis-Heracleion, la ciudad de los faraones sumergida, llena de tesoros</a></h4>
-    <a href='https://computerhoy.com/ciencia/thonis-heracleion-ciudad-faraones-sumergida-llena-tesoros-1314180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/secretos-thonis-heraclion-ciudad-faraones-sumergida-llena-tesoros-3150184.jpg?tf=1200x' alt='Los secretos de Thonis-Heracleion, la ciudad de los faraones sumergida, llena de tesoros' />
+    <h4><a href='https://computerhoy.com/moviles/movil-barato-top-xiaomi-amazon-acaba-tumbar-precio-1313728'>Es el móvil barato más top de Xiaomi y Amazon acaba de tumbar su precio</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-barato-top-xiaomi-amazon-acaba-tumbar-precio-1313728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-12c-3062822.jpg?tf=1200x' alt='Es el móvil barato más top de Xiaomi y Amazon acaba de tumbar su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897866.jpg?tf=1200x' alt='Estas son las mejores tablets para estudiantes' />
+    <h4><a href='https://computerhoy.com/tecnologia/tiktok-planteando-suscripcion-pago-publicidad-1314224'>TikTok se está planteando una suscripción de pago sin publicidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiktok-planteando-suscripcion-pago-publicidad-1314224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/7-cosas-no-deberias-hacer-no-quieres-quedarte-cuenta-tiktok-2988768.jpg?tf=1200x' alt='TikTok se está planteando una suscripción de pago sin publicidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/penultimo-intento-elon-musk-salvar-x-ficha-paris-hilton-1313998'>El penúltimo intento de Elon Musk para salvar X: ficha a Paris Hilton</a></h4>
-    <a href='https://computerhoy.com/tecnologia/penultimo-intento-elon-musk-salvar-x-ficha-paris-hilton-1313998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/paris-hilton-partido-angeles-rams-2704841.jpg?tf=1200x' alt='El penúltimo intento de Elon Musk para salvar X: ficha a Paris Hilton' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/gran-ciberataque-2023-62-millones-afectados-consecuencias-largo-plazo-1314226'>El gran ciberataque de 2023: más de 62 millones de afectados con consecuencias a largo plazo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/gran-ciberataque-2023-62-millones-afectados-consecuencias-largo-plazo-1314226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/gran-ciberataque-2023-3150242.jpg?tf=1200x' alt='El gran ciberataque de 2023: más de 62 millones de afectados con consecuencias a largo plazo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-debes-saber-nueva-raspberry-pi-5-1313974'>Todo lo que debes saber de la nueva Raspberry Pi 5</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-debes-saber-nueva-raspberry-pi-5-1313974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/todo-debes-saber-nueva-raspberry-pi-5-3149980.jpg?tf=1200x' alt='Todo lo que debes saber de la nueva Raspberry Pi 5' />
+    <h4><a href='https://computerhoy.com/tecnologia/meta-quiere-cobrar-13-euros-mes-usar-redes-publicidad-1314216'>Meta se plantea una suscripción de 13 euros al mes para usar Instagram y Facebook sin publicidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-quiere-cobrar-13-euros-mes-usar-redes-publicidad-1314216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/meta-facebook-2877199.jpg?tf=1200x' alt='Meta se plantea una suscripción de 13 euros al mes para usar Instagram y Facebook sin publicidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pluto-tv-estrena-cinco-nuevos-canales-gratis-octubre-1313994'>Pluto TV estrena cinco nuevos canales en octubre, gratis y sin registro</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pluto-tv-estrena-cinco-nuevos-canales-gratis-octubre-1313994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pluto-tv-estrena-cinco-nuevos-canales-octubre-gratis-registro-3149934.jpg?tf=1200x' alt='Pluto TV estrena cinco nuevos canales en octubre, gratis y sin registro' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-prime-student-90-dias-prueba-gratis-antes-prime-day-luego-solo-pagas-mitad-quieres-1313990'>Puedes tener Amazon Prime gratis 90 días, y luego pagar la mitad, a las puertas del Prime Day (aunque tiene truco)</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-prime-student-90-dias-prueba-gratis-antes-prime-day-luego-solo-pagas-mitad-quieres-1313990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-prime-day-2757613.jpg?tf=1200x' alt='Puedes tener Amazon Prime gratis 90 días, y luego pagar la mitad, a las puertas del Prime Day (aunque tiene truco)' />
     </a>
 </div>
 
