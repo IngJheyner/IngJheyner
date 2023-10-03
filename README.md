@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/misterio-cantar-ducha-mejora-realmente-voz-tan-solo-ilusion-1314346'>El misterio de cantar en la ducha: ¿Mejora realmente tu voz o es tan solo una ilusión? </a></h4>
+    <a href='https://computerhoy.com/ciencia/misterio-cantar-ducha-mejora-realmente-voz-tan-solo-ilusion-1314346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cantar-ducha-3150494.jpg?tf=1200x' alt='El misterio de cantar en la ducha: ¿Mejora realmente tu voz o es tan solo una ilusión? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/protege-red-local-firewall-ajustes-seguridad-router-1314380'>Protege tu red local con el firewall y los ajustes de seguridad del router</a></h4>
+    <a href='https://computerhoy.com/patrocinado/protege-red-local-firewall-ajustes-seguridad-router-1314380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/avm-3150530.jpg?tf=1200x' alt='Protege tu red local con el firewall y los ajustes de seguridad del router' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-podria-sorprender-movil-plegable-barato-no-nuevo-pixel-fold-1314296'>Google podría sorprender con un móvil plegable más barato y no es un nuevo Pixel Fold</a></h4>
+    <a href='https://computerhoy.com/google/google-podria-sorprender-movil-plegable-barato-no-nuevo-pixel-fold-1314296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pantalla-interior-plegable-google-pixel-fold-3096744.jpg?tf=1200x' alt='Google podría sorprender con un móvil plegable más barato y no es un nuevo Pixel Fold' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/bitcoin-dispara-20-post-satoshi-nakamoto-1314360'>El precio del bitcoin se dispara un 20% tras un post de Satoshi Nakamoto</a></h4>
     <a href='https://computerhoy.com/criptos/bitcoin-dispara-20-post-satoshi-nakamoto-1314360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/bitcoin-3011088.jpg?tf=1200x' alt='El precio del bitcoin se dispara un 20% tras un post de Satoshi Nakamoto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/olvidate-windows-portatil-potente-viene-google-corazon-ahora-ha-desplomado-precio-1313402'>Olvídate de Windows: este portátil es potentísimo, viene con Google en el corazón y ahora ha desplomado su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/olvidate-windows-portatil-potente-viene-google-corazon-ahora-ha-desplomado-precio-1313402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/asus-chromebook-cx9-cx9400cea-kc0172-3148918.jpg?tf=1200x' alt='Olvídate de Windows: este portátil es potentísimo, viene con Google en el corazón y ahora ha desplomado su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/primer-apple-watch-pantalla-micro-led-llegaria-2025-estas-son-enormes-ventajas-1314252'>El primer Apple Watch con pantalla micro-LED llega en 2025: estas son sus enormes ventajas</a></h4>
-    <a href='https://computerhoy.com/apple/primer-apple-watch-pantalla-micro-led-llegaria-2025-estas-son-enormes-ventajas-1314252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3087092.jpg?tf=1200x' alt='El primer Apple Watch con pantalla micro-LED llega en 2025: estas son sus enormes ventajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-pencil-3-podria-contar-puntas-magneticas-intercambiables-1314290'>El próximo Apple Pencil podría contar con puntas magnéticas intercambiables</a></h4>
-    <a href='https://computerhoy.com/apple/apple-pencil-3-podria-contar-puntas-magneticas-intercambiables-1314290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-pencil-2543007.jpg?tf=1200x' alt='El próximo Apple Pencil podría contar con puntas magnéticas intercambiables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/aplicacion-windows-11-llega-quedarse-porque-microsoft-no-te-dejara-borrarla-1314232'>Esta aplicación de Windows 11 llega para quedarse porque Microsoft no te dejará borrarla</a></h4>
-    <a href='https://computerhoy.com/windows/aplicacion-windows-11-llega-quedarse-porque-microsoft-no-te-dejara-borrarla-1314232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Esta aplicación de Windows 11 llega para quedarse porque Microsoft no te dejará borrarla' />
     </a>
 </div>
 
