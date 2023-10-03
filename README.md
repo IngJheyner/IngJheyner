@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/penultimo-intento-elon-musk-salvar-x-ficha-paris-hilton-1313998'>El penúltimo intento de Elon Musk para salvar X: ficha a Paris Hilton</a></h4>
+    <a href='https://computerhoy.com/tecnologia/penultimo-intento-elon-musk-salvar-x-ficha-paris-hilton-1313998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/paris-hilton-partido-angeles-rams-2704841.jpg?tf=1200x' alt='El penúltimo intento de Elon Musk para salvar X: ficha a Paris Hilton' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/todo-debes-saber-nueva-raspberry-pi-5-1313974'>Todo lo que debes saber de la nueva Raspberry Pi 5</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-debes-saber-nueva-raspberry-pi-5-1313974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/todo-debes-saber-nueva-raspberry-pi-5-3149980.jpg?tf=1200x' alt='Todo lo que debes saber de la nueva Raspberry Pi 5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/pluto-tv-estrena-cinco-nuevos-canales-gratis-octubre-1313994'>Pluto TV estrena cinco nuevos canales en octubre, gratis y sin registro</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pluto-tv-estrena-cinco-nuevos-canales-gratis-octubre-1313994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pluto-tv-estrena-cinco-nuevos-canales-octubre-gratis-registro-3149934.jpg?tf=1200x' alt='Pluto TV estrena cinco nuevos canales en octubre, gratis y sin registro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/verdadera-razon-debes-subir-persianas-avion-1313056'>La verdadera razón por la que siempre debes subir las persianas del avión al despegar y al aterrizar</a></h4>
     <a href='https://computerhoy.com/life/verdadera-razon-debes-subir-persianas-avion-1313056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/verdadera-razon-siempre-debes-subir-persianas-avion-despegar-aterrizar-3148498.jpg?tf=1200x' alt='La verdadera razón por la que siempre debes subir las persianas del avión al despegar y al aterrizar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-revienta-precio-smartwatch-fossil-parece-clasico-pero-tiene-google-1312748'>Amazon revienta el precio de un smartwatch Fossil que parece clásico pero que tiene SO de Google</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-revienta-precio-smartwatch-fossil-parece-clasico-pero-tiene-google-1312748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/fossil-gen-7-connected-watch-wellness-edition-3147960.jpg?tf=1200x' alt='Amazon revienta el precio de un smartwatch Fossil que parece clásico pero que tiene SO de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/avisan-chip-nfc-iphone-15-estropea-conectarse-ciertos-modelos-coche-1313976'>Avisan que el chip NFC de los iPhone 15 se estropea al conectarse a ciertos modelos de coche</a></h4>
-    <a href='https://computerhoy.com/apple/avisan-chip-nfc-iphone-15-estropea-conectarse-ciertos-modelos-coche-1313976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/iphone-coche-3149940.jpg?tf=1200x' alt='Avisan que el chip NFC de los iPhone 15 se estropea al conectarse a ciertos modelos de coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-webs-ver-tdt-movil-instalar-nada-1312878'>Las mejores webs para ver la TDT sin instalar nada: miles de canales de TV gratis en tu móvil</a></h4>
-    <a href='https://computerhoy.com/internet/mejores-webs-ver-tdt-movil-instalar-nada-1312878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mejores-webs-ver-tdt-instalar-nada-miles-canales-tv-gratis-movil-3148492.jpg?tf=1200x' alt='Las mejores webs para ver la TDT sin instalar nada: miles de canales de TV gratis en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/perseverance-nasa-captura-impresionante-diablo-polvo-superficie-marte-1313972'>Perseverance de la NASA captura un impresionante "diablo de polvo" en la superficie de Marte</a></h4>
-    <a href='https://computerhoy.com/espacio/perseverance-nasa-captura-impresionante-diablo-polvo-superficie-marte-1313972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/perseverance-nasa-detecta-pinza-cangrejo-marte-3128808.jpg?tf=1200x' alt='Perseverance de la NASA captura un impresionante "diablo de polvo" en la superficie de Marte' />
     </a>
 </div>
 
