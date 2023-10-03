@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/cambio-android-auto-polemico-historia-ya-disponible-todos-1314592'>El cambio de Android Auto más polémico de su historia ya está disponible para todos</a></h4>
-    <a href='https://computerhoy.com/android/cambio-android-auto-polemico-historia-ya-disponible-todos-1314592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/coolwalk-android-auto-2879987.jpg?tf=1200x' alt='El cambio de Android Auto más polémico de su historia ya está disponible para todos' />
+    <h4><a href='https://computerhoy.com/life/pitagoras-plagiador-encuentran-tablilla-famoso-teorema-1000-anos-anterior-nacimiento-1314616'>¿Pitágoras plagiador? Encuentran una tablilla con el famoso teorema 1.000 años anterior a su nacimiento</a></h4>
+    <a href='https://computerhoy.com/life/pitagoras-plagiador-encuentran-tablilla-famoso-teorema-1000-anos-anterior-nacimiento-1314616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pitagoras-plagiador-encuentran-tablilla-famoso-teorema-1000-anos-anterior-nacimiento-3185518.jpg?tf=1200x' alt='¿Pitágoras plagiador? Encuentran una tablilla con el famoso teorema 1.000 años anterior a su nacimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/espanoles-punto-mira-sospechoso-uso-tipo-billetes-1314590'>Los españoles en el punto de mira por sospechoso uso de este tipo de billetes</a></h4>
-    <a href='https://computerhoy.com/life/espanoles-punto-mira-sospechoso-uso-tipo-billetes-1314590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/billetes-euro-3150932.jpg?tf=1200x' alt='Los españoles en el punto de mira por sospechoso uso de este tipo de billetes' />
+    <h4><a href='https://computerhoy.com/life/tablebag-bolsa-convierte-mesa-mcdonalds-1314608'>TableBag, la bolsa que se transforma en mesa de McDonald's</a></h4>
+    <a href='https://computerhoy.com/life/tablebag-bolsa-convierte-mesa-mcdonalds-1314608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1696348788768-3150776.jpg?tf=1200x' alt='TableBag, la bolsa que se transforma en mesa de McDonald's' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-confidencial-gmail-1313996'>Cómo activar el modo confidencial de Gmail</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-modo-confidencial-gmail-1313996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-activar-modo-confidencial-gmail-3149994.jpg?tf=1200x' alt='Cómo activar el modo confidencial de Gmail' />
+    <h4><a href='https://computerhoy.com/tecnologia/barato-ser-xiaomi-cepillo-dientes-cuesta-menos-pasta-dientes-1306698'>Es barato hasta para ser Xiaomi: este cepillo de dientes cuesta menos que un pack de pasta de dientes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/barato-ser-xiaomi-cepillo-dientes-cuesta-menos-pasta-dientes-1306698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mijia-t100-2527789.jpg?tf=1200x' alt='Es barato hasta para ser Xiaomi: este cepillo de dientes cuesta menos que un pack de pasta de dientes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/veremos-alguna-vez-energia-limpia-infinita-fusion-tierra-1314522'>¿Veremos alguna vez la energía limpia e infinita de fusión en la Tierra?</a></h4>
-    <a href='https://computerhoy.com/energia/veremos-alguna-vez-energia-limpia-infinita-fusion-tierra-1314522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/energia-solar-3150774.jpg?tf=1200x' alt='¿Veremos alguna vez la energía limpia e infinita de fusión en la Tierra?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-subira-precios-cuando-finalice-huelga-actores-1314556'>Los usuarios pagan: Netflix subirá los precios cuando termine la huelga de actores </a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-subira-precios-cuando-finalice-huelga-actores-1314556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/miniseries-netflix-3065072.jpg?tf=1200x' alt='Los usuarios pagan: Netflix subirá los precios cuando termine la huelga de actores ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificia-podria-predecir-premios-nobel-1314534'>¿Podría la IA ayudar a predecir los premios Nobel? </a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificia-podria-predecir-premios-nobel-1314534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inteligencia-artificial-3109798.jpg?tf=1200x' alt='¿Podría la IA ayudar a predecir los premios Nobel? ' />
+    <h4><a href='https://computerhoy.com/tv/senales-indican-smart-tv-punto-estropearse-1313842'>Señales que indican que tu Smart TV está a punto de estropearse</a></h4>
+    <a href='https://computerhoy.com/tv/senales-indican-smart-tv-punto-estropearse-1313842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/smart-tv-roto-3150720.jpg?tf=1200x' alt='Señales que indican que tu Smart TV está a punto de estropearse' />
     </a>
 </div>
 
