@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/movil-barato-top-xiaomi-amazon-acaba-tumbar-precio-1313728'>Es el móvil barato más top de Xiaomi y Amazon acaba de tumbar su precio</a></h4>
-    <a href='https://computerhoy.com/moviles/movil-barato-top-xiaomi-amazon-acaba-tumbar-precio-1313728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-12c-3062822.jpg?tf=1200x' alt='Es el móvil barato más top de Xiaomi y Amazon acaba de tumbar su precio' />
+    <h4><a href='https://computerhoy.com/criptos/bitcoin-dispara-20-post-satoshi-nakamoto-1314360'>El precio del bitcoin se dispara un 20% tras un post de Satoshi Nakamoto</a></h4>
+    <a href='https://computerhoy.com/criptos/bitcoin-dispara-20-post-satoshi-nakamoto-1314360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/bitcoin-3011088.jpg?tf=1200x' alt='El precio del bitcoin se dispara un 20% tras un post de Satoshi Nakamoto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiktok-planteando-suscripcion-pago-publicidad-1314224'>TikTok se está planteando una suscripción de pago sin publicidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiktok-planteando-suscripcion-pago-publicidad-1314224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/7-cosas-no-deberias-hacer-no-quieres-quedarte-cuenta-tiktok-2988768.jpg?tf=1200x' alt='TikTok se está planteando una suscripción de pago sin publicidad' />
+    <h4><a href='https://computerhoy.com/tecnologia/olvidate-windows-portatil-potente-viene-google-corazon-ahora-ha-desplomado-precio-1313402'>Olvídate de Windows: este portátil es potentísimo, viene con Google en el corazón y ahora ha desplomado su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvidate-windows-portatil-potente-viene-google-corazon-ahora-ha-desplomado-precio-1313402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/asus-chromebook-cx9-cx9400cea-kc0172-3148918.jpg?tf=1200x' alt='Olvídate de Windows: este portátil es potentísimo, viene con Google en el corazón y ahora ha desplomado su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/gran-ciberataque-2023-62-millones-afectados-consecuencias-largo-plazo-1314226'>El gran ciberataque de 2023: más de 62 millones de afectados con consecuencias a largo plazo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/gran-ciberataque-2023-62-millones-afectados-consecuencias-largo-plazo-1314226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/gran-ciberataque-2023-3150242.jpg?tf=1200x' alt='El gran ciberataque de 2023: más de 62 millones de afectados con consecuencias a largo plazo' />
+    <h4><a href='https://computerhoy.com/apple/primer-apple-watch-pantalla-micro-led-llegaria-2025-estas-son-enormes-ventajas-1314252'>El primer Apple Watch con pantalla micro-LED llega en 2025: estas son sus enormes ventajas</a></h4>
+    <a href='https://computerhoy.com/apple/primer-apple-watch-pantalla-micro-led-llegaria-2025-estas-son-enormes-ventajas-1314252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3087092.jpg?tf=1200x' alt='El primer Apple Watch con pantalla micro-LED llega en 2025: estas son sus enormes ventajas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-quiere-cobrar-13-euros-mes-usar-redes-publicidad-1314216'>Meta se plantea una suscripción de 13 euros al mes para usar Instagram y Facebook sin publicidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-quiere-cobrar-13-euros-mes-usar-redes-publicidad-1314216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/meta-facebook-2877199.jpg?tf=1200x' alt='Meta se plantea una suscripción de 13 euros al mes para usar Instagram y Facebook sin publicidad' />
+    <h4><a href='https://computerhoy.com/apple/apple-pencil-3-podria-contar-puntas-magneticas-intercambiables-1314290'>El próximo Apple Pencil podría contar con puntas magnéticas intercambiables</a></h4>
+    <a href='https://computerhoy.com/apple/apple-pencil-3-podria-contar-puntas-magneticas-intercambiables-1314290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-pencil-2543007.jpg?tf=1200x' alt='El próximo Apple Pencil podría contar con puntas magnéticas intercambiables' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-prime-student-90-dias-prueba-gratis-antes-prime-day-luego-solo-pagas-mitad-quieres-1313990'>Puedes tener Amazon Prime gratis 90 días, y luego pagar la mitad, a las puertas del Prime Day (aunque tiene truco)</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-prime-student-90-dias-prueba-gratis-antes-prime-day-luego-solo-pagas-mitad-quieres-1313990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-prime-day-2757613.jpg?tf=1200x' alt='Puedes tener Amazon Prime gratis 90 días, y luego pagar la mitad, a las puertas del Prime Day (aunque tiene truco)' />
+    <h4><a href='https://computerhoy.com/windows/aplicacion-windows-11-llega-quedarse-porque-microsoft-no-te-dejara-borrarla-1314232'>Esta aplicación de Windows 11 llega para quedarse porque Microsoft no te dejará borrarla</a></h4>
+    <a href='https://computerhoy.com/windows/aplicacion-windows-11-llega-quedarse-porque-microsoft-no-te-dejara-borrarla-1314232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Esta aplicación de Windows 11 llega para quedarse porque Microsoft no te dejará borrarla' />
     </a>
 </div>
 
