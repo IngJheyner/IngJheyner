@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-prime-video-octubre-2023-1314832'>Estrenos de Prime Video en octubre: Awareness, todo James Bond, nueva temporada de Upload, y mucho más</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estrenos-prime-video-octubre-2023-1314832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estrenos-prime-video-octubre-awareness-todo-james-bond-nueva-temporada-upload-mucho-3185728.jpg?tf=1200x' alt='Estrenos de Prime Video en octubre: Awareness, todo James Bond, nueva temporada de Upload, y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/meta-planea-cobrar-17-euros-mes-europa-usar-instagram-facebook-1314620'>Meta planea cobrar 17 euros al mes en Europa por usar Instagram y Facebook sin que te rastreen</a></h4>
     <a href='https://computerhoy.com/tecnologia/meta-planea-cobrar-17-euros-mes-europa-usar-instagram-facebook-1314620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estafa-instagram-3072338.jpg?tf=1200x' alt='Meta planea cobrar 17 euros al mes en Europa por usar Instagram y Facebook sin que te rastreen' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/barato-ser-xiaomi-cepillo-dientes-cuesta-menos-pasta-dientes-1306698'>Es barato hasta para ser Xiaomi: este cepillo de dientes cuesta menos que un pack de pasta de dientes</a></h4>
     <a href='https://computerhoy.com/tecnologia/barato-ser-xiaomi-cepillo-dientes-cuesta-menos-pasta-dientes-1306698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mijia-t100-2527789.jpg?tf=1200x' alt='Es barato hasta para ser Xiaomi: este cepillo de dientes cuesta menos que un pack de pasta de dientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-subira-precios-cuando-finalice-huelga-actores-1314556'>Los usuarios pagan: Netflix subirá los precios cuando termine la huelga de actores </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-subira-precios-cuando-finalice-huelga-actores-1314556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/miniseries-netflix-3065072.jpg?tf=1200x' alt='Los usuarios pagan: Netflix subirá los precios cuando termine la huelga de actores ' />
     </a>
 </div>
 
