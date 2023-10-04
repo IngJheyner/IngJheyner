@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/unico-producto-apple-no-hubiera-utilizado-steve-jobs-1315046'>Este es el único producto de Apple que nunca hubiera utilizado Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/apple/unico-producto-apple-no-hubiera-utilizado-steve-jobs-1315046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/steve-jobs-apple-watch-3186136.jpg?tf=1200x' alt='Este es el único producto de Apple que nunca hubiera utilizado Steve Jobs' />
+    <h4><a href='https://computerhoy.com/life/tecnica-feynman-metodo-infalible-aprender-cualquier-cosa-1310806'>La técnica Feynman: el método infalible para aprender cualquier cosa rápidamente</a></h4>
+    <a href='https://computerhoy.com/life/tecnica-feynman-metodo-infalible-aprender-cualquier-cosa-1310806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tecnica-feynman-metodo-infalible-aprender-cualquier-cosa-rapidamente-3144330.jpg?tf=1200x' alt='La técnica Feynman: el método infalible para aprender cualquier cosa rápidamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aparato-arraso-prime-day-julio-no-ha-esperado-octubre-ya-oferta-1314948'>Este aparato arrasó en el Prime Day de julio y no ha esperado al de octubre: ya está en oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aparato-arraso-prime-day-julio-no-ha-esperado-octubre-ya-oferta-1314948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg?tf=1200x' alt='Este aparato arrasó en el Prime Day de julio y no ha esperado al de octubre: ya está en oferta' />
+    <h4><a href='https://computerhoy.com/life/estas-son-ciudades-espana-donde-palabrotas-dicen-1315160'>Estas son las ciudades de España donde más palabrotas se utilizan</a></h4>
+    <a href='https://computerhoy.com/life/estas-son-ciudades-espana-donde-palabrotas-dicen-1315160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/decir-palabrotas-tacos-3186364.jpg?tf=1200x' alt='Estas son las ciudades de España donde más palabrotas se utilizan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-acceder-funciones-ocultas-tdt-cualquier-smart-tv-1314550'>Cómo acceder a las funciones ocultas de la TDT en cualquier Smart TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-acceder-funciones-ocultas-tdt-cualquier-smart-tv-1314550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-acceder-funciones-ocultas-tdt-cualquier-smart-tv-3150890.jpg?tf=1200x' alt='Cómo acceder a las funciones ocultas de la TDT en cualquier Smart TV' />
+    <h4><a href='https://computerhoy.com/tecnologia/estan-liquidando-moviles-baratos-top-xiaomi-supera-precio-amazon-aliexpress-1314960'>Están liquidando uno de los móviles baratos más top de Xiaomi: supera en precio a Amazon y AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estan-liquidando-moviles-baratos-top-xiaomi-supera-precio-amazon-aliexpress-1314960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-12c-3185940.jpg?tf=1200x' alt='Están liquidando uno de los móviles baratos más top de Xiaomi: supera en precio a Amazon y AliExpress' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/explicacion-cientifica-sensacion-presencias-inexplicables-1315034'>¿Hay alguien detrás de ti? La explicación científica a la sensación de presencias inexplicables</a></h4>
-    <a href='https://computerhoy.com/life/explicacion-cientifica-sensacion-presencias-inexplicables-1315034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hay-alguien-junto-ti-explicacion-cientifica-sensacion-presencias-inexplicables-3186104.jpg?tf=1200x' alt='¿Hay alguien detrás de ti? La explicación científica a la sensación de presencias inexplicables' />
+    <h4><a href='https://computerhoy.com/life/mapa-muestra-donde-hay-probabilidades-super-rayo-hay-varias-zonas-espana-1315156'>Este mapa muestra dónde hay más probabilidades de un “súper rayo” y hay varias zonas en España</a></h4>
+    <a href='https://computerhoy.com/life/mapa-muestra-donde-hay-probabilidades-super-rayo-hay-varias-zonas-espana-1315156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/rayos-tormenta-3186360.jpg?tf=1200x' alt='Este mapa muestra dónde hay más probabilidades de un “súper rayo” y hay varias zonas en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sirve-agujero-tapa-populares-boligrafos-bic-1133279'>¿Para qué sirve el agujero en la tapa de los bolígrafos BIC? Seguramente no para lo que estás pensando</a></h4>
-    <a href='https://computerhoy.com/life/sirve-agujero-tapa-populares-boligrafos-bic-1133279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/boli-bic-3186174.jpg?tf=1200x' alt='¿Para qué sirve el agujero en la tapa de los bolígrafos BIC? Seguramente no para lo que estás pensando' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-notificacion-molesta-desesperante-telegram-1314604'>Cómo desactivar la notificación más molesta y desesperante de Telegram</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desactivar-notificacion-molesta-desesperante-telegram-1314604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-desactivar-notificacion-molesta-desesperante-telegram-3185514.jpg?tf=1200x' alt='Cómo desactivar la notificación más molesta y desesperante de Telegram' />
     </a>
 </div>
 
