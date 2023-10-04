@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-va-dyson-hace-precio-loco-mejor-aspiradora-inalambrica-tiene-precio-dyson-solo-puede-sonar-1314850'>Xiaomi va a por Dyson y lo hace con precio loco: su mejor aspiradora inalámbrica tiene un precio que Dyson solo puede soñar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-va-dyson-hace-precio-loco-mejor-aspiradora-inalambrica-tiene-precio-dyson-solo-puede-sonar-1314850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-vacuum-cleaner-g10-plus-3185764.jpg?tf=1200x' alt='Xiaomi va a por Dyson y lo hace con precio loco: su mejor aspiradora inalámbrica tiene un precio que Dyson solo puede soñar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/shiba-inu-podria-subir-3600-pico-maximo-averigua-cuando-1314950'>Shiba Inu podría subir un 3.600% su pico máximo: averigua cuándo</a></h4>
+    <a href='https://computerhoy.com/criptos/shiba-inu-podria-subir-3600-pico-maximo-averigua-cuando-1314950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rompe-todos-record-individuales-ganancias-criptomonedas-gracias-shiba-inu-2516439.jpg?tf=1200x' alt='Shiba Inu podría subir un 3.600% su pico máximo: averigua cuándo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/renfe-anuncia-superprecio-billetes-avlo-7-euros-ave-alvia-tan-solo-11-euros-1314912'>Renfe anuncia el Superprecio: billetes Avlo desde 7 euros y AVE y Alvia por tan solo 11 euros</a></h4>
     <a href='https://computerhoy.com/life/renfe-anuncia-superprecio-billetes-avlo-7-euros-ave-alvia-tan-solo-11-euros-1314912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/avlo-3185824.jpg?tf=1200x' alt='Renfe anuncia el Superprecio: billetes Avlo desde 7 euros y AVE y Alvia por tan solo 11 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/minority-report-no-funciona-herramientas-predicciones-delitos-son-fracaso-1314898'>Minority Report no funciona: las herramientas de predicción de delitos son un fracaso</a></h4>
     <a href='https://computerhoy.com/tecnologia/minority-report-no-funciona-herramientas-predicciones-delitos-son-fracaso-1314898' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/minority-report-2832275.jpg?tf=1200x' alt='Minority Report no funciona: las herramientas de predicción de delitos son un fracaso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dall-3-openai-llega-bing-como-ia-transforma-texto-imagenes-otro-nivel-1314896'>DALL-E 3 de OpenAI llega a Bing: así es como la IA transforma texto en imágenes a otro nivel</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dall-3-openai-llega-bing-como-ia-transforma-texto-imagenes-otro-nivel-1314896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dall-3-openai-llega-bing-3185806.jpg?tf=1200x' alt='DALL-E 3 de OpenAI llega a Bing: así es como la IA transforma texto en imágenes a otro nivel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/sobrecalentamiento-iphone-15-pro-acabara-ios-1703-1314878'>La actualización de iOS 17 para arreglar el problema de sobrecalentamiento del iPhone 15 Pro está a la vuelta de la esquina</a></h4>
-    <a href='https://computerhoy.com/apple/sobrecalentamiento-iphone-15-pro-acabara-ios-1703-1314878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143614.jpg?tf=1200x' alt='La actualización de iOS 17 para arreglar el problema de sobrecalentamiento del iPhone 15 Pro está a la vuelta de la esquina' />
     </a>
 </div>
 
