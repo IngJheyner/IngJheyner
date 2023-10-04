@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/meta-planea-cobrar-17-euros-mes-europa-usar-instagram-facebook-1314620'>Meta planea cobrar 17 euros al mes en Europa por usar Instagram y Facebook sin que te rastreen</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-planea-cobrar-17-euros-mes-europa-usar-instagram-facebook-1314620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estafa-instagram-3072338.jpg?tf=1200x' alt='Meta planea cobrar 17 euros al mes en Europa por usar Instagram y Facebook sin que te rastreen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/pitagoras-plagiador-encuentran-tablilla-famoso-teorema-1000-anos-anterior-nacimiento-1314616'>¿Pitágoras plagiador? Encuentran una tablilla con el famoso teorema 1.000 años anterior a su nacimiento</a></h4>
     <a href='https://computerhoy.com/life/pitagoras-plagiador-encuentran-tablilla-famoso-teorema-1000-anos-anterior-nacimiento-1314616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pitagoras-plagiador-encuentran-tablilla-famoso-teorema-1000-anos-anterior-nacimiento-3185518.jpg?tf=1200x' alt='¿Pitágoras plagiador? Encuentran una tablilla con el famoso teorema 1.000 años anterior a su nacimiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-subira-precios-cuando-finalice-huelga-actores-1314556'>Los usuarios pagan: Netflix subirá los precios cuando termine la huelga de actores </a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-subira-precios-cuando-finalice-huelga-actores-1314556' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/miniseries-netflix-3065072.jpg?tf=1200x' alt='Los usuarios pagan: Netflix subirá los precios cuando termine la huelga de actores ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/senales-indican-smart-tv-punto-estropearse-1313842'>Señales que indican que tu Smart TV está a punto de estropearse</a></h4>
-    <a href='https://computerhoy.com/tv/senales-indican-smart-tv-punto-estropearse-1313842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/smart-tv-roto-3150720.jpg?tf=1200x' alt='Señales que indican que tu Smart TV está a punto de estropearse' />
     </a>
 </div>
 
