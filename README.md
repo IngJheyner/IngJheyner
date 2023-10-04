@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-facebook-sin-filtros-1315184'>El Papa con un rifle, Mickey con un cuchillo ensangrentado, Trump el bebé llorón: los stickers de Facebook creados con IA, sin filtros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-facebook-sin-filtros-1315184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/luigi-rifle-mickey-cuchillo-ensangrentado-trump-bebe-lloron-stickers-facebook-creados-ia-filtros-3186446.jpg?tf=1200x' alt='El Papa con un rifle, Mickey con un cuchillo ensangrentado, Trump el bebé llorón: los stickers de Facebook creados con IA, sin filtros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/bateria-estado-solido-volvo-ya-realidad-1315172'>La batería de estado sólido de Volvo ya es una realidad: carga ultrarrápida con un gran inconveniente</a></h4>
+    <a href='https://computerhoy.com/motor/bateria-estado-solido-volvo-ya-realidad-1315172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bateria-estado-solido-volvo-ya-realidad-carga-ultrarrapida-gran-inconveniente-3186444.jpg?tf=1200x' alt='La batería de estado sólido de Volvo ya es una realidad: carga ultrarrápida con un gran inconveniente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/descubren-nuevo-pangolin-traves-escamas-trafico-animal-1315104'>Descubren en China una nueva especie de pangolín a través de escamas confiscadas del tráfico ilegal </a></h4>
+    <a href='https://computerhoy.com/life/descubren-nuevo-pangolin-traves-escamas-trafico-animal-1315104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/descubren-nueva-especie-pangolin-3186266.jpg?tf=1200x' alt='Descubren en China una nueva especie de pangolín a través de escamas confiscadas del tráfico ilegal ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/tecnica-feynman-metodo-infalible-aprender-cualquier-cosa-1310806'>La técnica Feynman: el método infalible para aprender cualquier cosa rápidamente</a></h4>
     <a href='https://computerhoy.com/life/tecnica-feynman-metodo-infalible-aprender-cualquier-cosa-1310806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tecnica-feynman-metodo-infalible-aprender-cualquier-cosa-rapidamente-3144330.jpg?tf=1200x' alt='La técnica Feynman: el método infalible para aprender cualquier cosa rápidamente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estas-son-ciudades-espana-donde-palabrotas-dicen-1315160'>Estas son las ciudades de España donde más palabrotas se utilizan</a></h4>
     <a href='https://computerhoy.com/life/estas-son-ciudades-espana-donde-palabrotas-dicen-1315160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/decir-palabrotas-tacos-3186364.jpg?tf=1200x' alt='Estas son las ciudades de España donde más palabrotas se utilizan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estan-liquidando-moviles-baratos-top-xiaomi-supera-precio-amazon-aliexpress-1314960'>Están liquidando uno de los móviles baratos más top de Xiaomi: supera en precio a Amazon y AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estan-liquidando-moviles-baratos-top-xiaomi-supera-precio-amazon-aliexpress-1314960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-12c-3185940.jpg?tf=1200x' alt='Están liquidando uno de los móviles baratos más top de Xiaomi: supera en precio a Amazon y AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-muestra-donde-hay-probabilidades-super-rayo-hay-varias-zonas-espana-1315156'>Este mapa muestra dónde hay más probabilidades de un “súper rayo” y hay varias zonas en España</a></h4>
-    <a href='https://computerhoy.com/life/mapa-muestra-donde-hay-probabilidades-super-rayo-hay-varias-zonas-espana-1315156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/rayos-tormenta-3186360.jpg?tf=1200x' alt='Este mapa muestra dónde hay más probabilidades de un “súper rayo” y hay varias zonas en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-notificacion-molesta-desesperante-telegram-1314604'>Cómo desactivar la notificación más molesta y desesperante de Telegram</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desactivar-notificacion-molesta-desesperante-telegram-1314604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-desactivar-notificacion-molesta-desesperante-telegram-3185514.jpg?tf=1200x' alt='Cómo desactivar la notificación más molesta y desesperante de Telegram' />
     </a>
 </div>
 
