@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/di-adios-spam-gmail-google-prepara-endurecer-politica-correos-no-deseados-1314946'>Di adiós al 'spam' en Gmail: Google se prepara para endurecer la política de correos no deseados</a></h4>
+    <a href='https://computerhoy.com/google/di-adios-spam-gmail-google-prepara-endurecer-politica-correos-no-deseados-1314946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/spam-gmail-3185936.jpg?tf=1200x' alt='Di adiós al 'spam' en Gmail: Google se prepara para endurecer la política de correos no deseados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-presenta-galaxy-s23-fe-galaxy-tab-s9-fe-buds-fe-1314970'>Samsung presenta el Galaxy S23 FE, la Galaxy Tab S9 FE y los Buds FE</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-presenta-galaxy-s23-fe-galaxy-tab-s9-fe-buds-fe-1314970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/samsung-galaxy-s23fe-galaxy-tab-s9-fe-buds-fe-3185962.jpg?tf=1200x' alt='Samsung presenta el Galaxy S23 FE, la Galaxy Tab S9 FE y los Buds FE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/spotify-premium-anade-150000-audiolibros-catalogo-1314956'>Spotify Premium suma 150.000 audiolibros: 15 horas de reproducción mensual, aunque de momento no llega a España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/spotify-premium-anade-150000-audiolibros-catalogo-1314956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/audiolibros-spotify-3185942.jpg?tf=1200x' alt='Spotify Premium suma 150.000 audiolibros: 15 horas de reproducción mensual, aunque de momento no llega a España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-google-manipula-resultados-busqueda-aumentar-ganancias-1314926'>Así es como Google manipula tus resultados de búsqueda para aumentar sus ganancias</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-google-manipula-resultados-busqueda-aumentar-ganancias-1314926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-manipula-resultados-3185862.jpg?tf=1200x' alt='Así es como Google manipula tus resultados de búsqueda para aumentar sus ganancias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-va-dyson-hace-precio-loco-mejor-aspiradora-inalambrica-tiene-precio-dyson-solo-puede-sonar-1314850'>Xiaomi va a por Dyson y lo hace con precio loco: su mejor aspiradora inalámbrica tiene un precio que Dyson solo puede soñar</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-va-dyson-hace-precio-loco-mejor-aspiradora-inalambrica-tiene-precio-dyson-solo-puede-sonar-1314850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-vacuum-cleaner-g10-plus-3185764.jpg?tf=1200x' alt='Xiaomi va a por Dyson y lo hace con precio loco: su mejor aspiradora inalámbrica tiene un precio que Dyson solo puede soñar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/shiba-inu-podria-subir-3600-pico-maximo-averigua-cuando-1314950'>Shiba Inu podría subir un 3.600% su pico máximo: averigua cuándo</a></h4>
-    <a href='https://computerhoy.com/criptos/shiba-inu-podria-subir-3600-pico-maximo-averigua-cuando-1314950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/rompe-todos-record-individuales-ganancias-criptomonedas-gracias-shiba-inu-2516439.jpg?tf=1200x' alt='Shiba Inu podría subir un 3.600% su pico máximo: averigua cuándo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/renfe-anuncia-superprecio-billetes-avlo-7-euros-ave-alvia-tan-solo-11-euros-1314912'>Renfe anuncia el Superprecio: billetes Avlo desde 7 euros y AVE y Alvia por tan solo 11 euros</a></h4>
-    <a href='https://computerhoy.com/life/renfe-anuncia-superprecio-billetes-avlo-7-euros-ave-alvia-tan-solo-11-euros-1314912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/avlo-3185824.jpg?tf=1200x' alt='Renfe anuncia el Superprecio: billetes Avlo desde 7 euros y AVE y Alvia por tan solo 11 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-activar-ia-copilot-windows-11-espana-1314886'>Cómo activar la IA Copilot de Windows 11 en España, a pesar de las restricciones</a></h4>
-    <a href='https://computerhoy.com/windows/como-activar-ia-copilot-windows-11-espana-1314886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/copilot-3140950.jpg?tf=1200x' alt='Cómo activar la IA Copilot de Windows 11 en España, a pesar de las restricciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/minority-report-no-funciona-herramientas-predicciones-delitos-son-fracaso-1314898'>Minority Report no funciona: las herramientas de predicción de delitos son un fracaso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/minority-report-no-funciona-herramientas-predicciones-delitos-son-fracaso-1314898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/minority-report-2832275.jpg?tf=1200x' alt='Minority Report no funciona: las herramientas de predicción de delitos son un fracaso' />
     </a>
 </div>
 
