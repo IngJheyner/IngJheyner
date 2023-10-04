@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-movil-realme-cuesta-59eu-has-leido-bien-1314844'>No es un error de precio: este móvil realme cuesta 59€, y sí, has leído bien</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-error-precio-movil-realme-cuesta-59eu-has-leido-bien-1314844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/realme-narzo-50i-prime-3185754.jpg?tf=1200x' alt='No es un error de precio: este móvil realme cuesta 59€, y sí, has leído bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/prime-day-1308000'>Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos</a></h4>
+    <a href='https://computerhoy.com/prime-day-1308000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazon-prime-octubre-2023-3139450.jpg?tf=1200x' alt='Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/ia-generativa-alexa-suscita-futuro-prometedor-asistentes-digitales-1313858'>La IA generativa de Alexa deja entrever un futuro prometedor para los asistentes digitales, pero está llena de retos</a></h4>
+    <a href='https://computerhoy.com/hogar/ia-generativa-alexa-suscita-futuro-prometedor-asistentes-digitales-1313858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/alexa-ia-generativa-3149844.jpg?tf=1200x' alt='La IA generativa de Alexa deja entrever un futuro prometedor para los asistentes digitales, pero está llena de retos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/estrenos-prime-video-octubre-2023-1314832'>Estrenos de Prime Video en octubre: Awareness, todo James Bond, nueva temporada de Upload, y mucho más</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estrenos-prime-video-octubre-2023-1314832' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estrenos-prime-video-octubre-awareness-todo-james-bond-nueva-temporada-upload-mucho-3185728.jpg?tf=1200x' alt='Estrenos de Prime Video en octubre: Awareness, todo James Bond, nueva temporada de Upload, y mucho más' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/meta-planea-cobrar-17-euros-mes-europa-usar-instagram-facebook-1314620'>Meta planea cobrar 17 euros al mes en Europa por usar Instagram y Facebook sin que te rastreen</a></h4>
     <a href='https://computerhoy.com/tecnologia/meta-planea-cobrar-17-euros-mes-europa-usar-instagram-facebook-1314620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/estafa-instagram-3072338.jpg?tf=1200x' alt='Meta planea cobrar 17 euros al mes en Europa por usar Instagram y Facebook sin que te rastreen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pitagoras-plagiador-encuentran-tablilla-famoso-teorema-1000-anos-anterior-nacimiento-1314616'>¿Pitágoras plagiador? Encuentran una tablilla con el famoso teorema 1.000 años anterior a su nacimiento</a></h4>
-    <a href='https://computerhoy.com/life/pitagoras-plagiador-encuentran-tablilla-famoso-teorema-1000-anos-anterior-nacimiento-1314616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pitagoras-plagiador-encuentran-tablilla-famoso-teorema-1000-anos-anterior-nacimiento-3185518.jpg?tf=1200x' alt='¿Pitágoras plagiador? Encuentran una tablilla con el famoso teorema 1.000 años anterior a su nacimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tablebag-bolsa-convierte-mesa-mcdonalds-1314608'>TableBag, la bolsa que se transforma en mesa de McDonald's</a></h4>
-    <a href='https://computerhoy.com/life/tablebag-bolsa-convierte-mesa-mcdonalds-1314608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1696348788768-3150776.jpg?tf=1200x' alt='TableBag, la bolsa que se transforma en mesa de McDonald's' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/barato-ser-xiaomi-cepillo-dientes-cuesta-menos-pasta-dientes-1306698'>Es barato hasta para ser Xiaomi: este cepillo de dientes cuesta menos que un pack de pasta de dientes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/barato-ser-xiaomi-cepillo-dientes-cuesta-menos-pasta-dientes-1306698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mijia-t100-2527789.jpg?tf=1200x' alt='Es barato hasta para ser Xiaomi: este cepillo de dientes cuesta menos que un pack de pasta de dientes' />
     </a>
 </div>
 
