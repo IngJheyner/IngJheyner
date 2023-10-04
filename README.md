@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/di-adios-spam-gmail-google-prepara-endurecer-politica-correos-no-deseados-1314946'>Di adiós al 'spam' en Gmail: Google se prepara para endurecer la política de correos no deseados</a></h4>
-    <a href='https://computerhoy.com/google/di-adios-spam-gmail-google-prepara-endurecer-politica-correos-no-deseados-1314946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/spam-gmail-3185936.jpg?tf=1200x' alt='Di adiós al 'spam' en Gmail: Google se prepara para endurecer la política de correos no deseados' />
+    <h4><a href='https://computerhoy.com/apple/unico-producto-apple-no-hubiera-utilizado-steve-jobs-1315046'>Este es el único producto de Apple que nunca hubiera utilizado Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/apple/unico-producto-apple-no-hubiera-utilizado-steve-jobs-1315046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/steve-jobs-apple-watch-3186136.jpg?tf=1200x' alt='Este es el único producto de Apple que nunca hubiera utilizado Steve Jobs' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-presenta-galaxy-s23-fe-galaxy-tab-s9-fe-buds-fe-1314970'>Samsung presenta el Galaxy S23 FE, la Galaxy Tab S9 FE y los Buds FE</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-presenta-galaxy-s23-fe-galaxy-tab-s9-fe-buds-fe-1314970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/samsung-galaxy-s23fe-galaxy-tab-s9-fe-buds-fe-3185962.jpg?tf=1200x' alt='Samsung presenta el Galaxy S23 FE, la Galaxy Tab S9 FE y los Buds FE' />
+    <h4><a href='https://computerhoy.com/tecnologia/aparato-arraso-prime-day-julio-no-ha-esperado-octubre-ya-oferta-1314948'>Este aparato arrasó en el Prime Day de julio y no ha esperado al de octubre: ya está en oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aparato-arraso-prime-day-julio-no-ha-esperado-octubre-ya-oferta-1314948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg?tf=1200x' alt='Este aparato arrasó en el Prime Day de julio y no ha esperado al de octubre: ya está en oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/spotify-premium-anade-150000-audiolibros-catalogo-1314956'>Spotify Premium suma 150.000 audiolibros: 15 horas de reproducción mensual, aunque de momento no llega a España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/spotify-premium-anade-150000-audiolibros-catalogo-1314956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/audiolibros-spotify-3185942.jpg?tf=1200x' alt='Spotify Premium suma 150.000 audiolibros: 15 horas de reproducción mensual, aunque de momento no llega a España' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-acceder-funciones-ocultas-tdt-cualquier-smart-tv-1314550'>Cómo acceder a las funciones ocultas de la TDT en cualquier Smart TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-acceder-funciones-ocultas-tdt-cualquier-smart-tv-1314550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-acceder-funciones-ocultas-tdt-cualquier-smart-tv-3150890.jpg?tf=1200x' alt='Cómo acceder a las funciones ocultas de la TDT en cualquier Smart TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-google-manipula-resultados-busqueda-aumentar-ganancias-1314926'>Así es como Google manipula tus resultados de búsqueda para aumentar sus ganancias</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-google-manipula-resultados-busqueda-aumentar-ganancias-1314926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-manipula-resultados-3185862.jpg?tf=1200x' alt='Así es como Google manipula tus resultados de búsqueda para aumentar sus ganancias' />
+    <h4><a href='https://computerhoy.com/life/explicacion-cientifica-sensacion-presencias-inexplicables-1315034'>¿Hay alguien detrás de ti? La explicación científica a la sensación de presencias inexplicables</a></h4>
+    <a href='https://computerhoy.com/life/explicacion-cientifica-sensacion-presencias-inexplicables-1315034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hay-alguien-junto-ti-explicacion-cientifica-sensacion-presencias-inexplicables-3186104.jpg?tf=1200x' alt='¿Hay alguien detrás de ti? La explicación científica a la sensación de presencias inexplicables' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-va-dyson-hace-precio-loco-mejor-aspiradora-inalambrica-tiene-precio-dyson-solo-puede-sonar-1314850'>Xiaomi va a por Dyson y lo hace con precio loco: su mejor aspiradora inalámbrica tiene un precio que Dyson solo puede soñar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-va-dyson-hace-precio-loco-mejor-aspiradora-inalambrica-tiene-precio-dyson-solo-puede-sonar-1314850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-vacuum-cleaner-g10-plus-3185764.jpg?tf=1200x' alt='Xiaomi va a por Dyson y lo hace con precio loco: su mejor aspiradora inalámbrica tiene un precio que Dyson solo puede soñar' />
+    <h4><a href='https://computerhoy.com/life/sirve-agujero-tapa-populares-boligrafos-bic-1133279'>¿Para qué sirve el agujero en la tapa de los bolígrafos BIC? Seguramente no para lo que estás pensando</a></h4>
+    <a href='https://computerhoy.com/life/sirve-agujero-tapa-populares-boligrafos-bic-1133279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/boli-bic-3186174.jpg?tf=1200x' alt='¿Para qué sirve el agujero en la tapa de los bolígrafos BIC? Seguramente no para lo que estás pensando' />
     </a>
 </div>
 
