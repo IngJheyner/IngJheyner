@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/dos-caracteristicas-me-han-gustado-iphone-15-pro-1314228'>Las dos características que más me han gustado tras analizar el iPhone 15 Pro</a></h4>
+    <a href='https://computerhoy.com/moviles/dos-caracteristicas-me-han-gustado-iphone-15-pro-1314228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143598.jpg?tf=1200x' alt='Las dos características que más me han gustado tras analizar el iPhone 15 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-facebook-sin-filtros-1315184'>El Papa con un rifle, Mickey con un cuchillo ensangrentado, Trump el bebé llorón: los stickers de Facebook creados con IA, sin filtros</a></h4>
     <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-facebook-sin-filtros-1315184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/luigi-rifle-mickey-cuchillo-ensangrentado-trump-bebe-lloron-stickers-facebook-creados-ia-filtros-3186446.jpg?tf=1200x' alt='El Papa con un rifle, Mickey con un cuchillo ensangrentado, Trump el bebé llorón: los stickers de Facebook creados con IA, sin filtros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/tecnica-feynman-metodo-infalible-aprender-cualquier-cosa-1310806'>La técnica Feynman: el método infalible para aprender cualquier cosa rápidamente</a></h4>
     <a href='https://computerhoy.com/life/tecnica-feynman-metodo-infalible-aprender-cualquier-cosa-1310806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tecnica-feynman-metodo-infalible-aprender-cualquier-cosa-rapidamente-3144330.jpg?tf=1200x' alt='La técnica Feynman: el método infalible para aprender cualquier cosa rápidamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-son-ciudades-espana-donde-palabrotas-dicen-1315160'>Estas son las ciudades de España donde más palabrotas se utilizan</a></h4>
-    <a href='https://computerhoy.com/life/estas-son-ciudades-espana-donde-palabrotas-dicen-1315160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/decir-palabrotas-tacos-3186364.jpg?tf=1200x' alt='Estas son las ciudades de España donde más palabrotas se utilizan' />
     </a>
 </div>
 
