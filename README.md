@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/funciones-ocultas-movil-android-quizas-no-conocias-1315130'>Funciones ocultas de tu móvil Android que quizás no conocías y que te harán la vida más fácil</a></h4>
-    <a href='https://computerhoy.com/android/funciones-ocultas-movil-android-quizas-no-conocias-1315130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/secretos-android-3186918.jpg?tf=1200x' alt='Funciones ocultas de tu móvil Android que quizás no conocías y que te harán la vida más fácil' />
+    <h4><a href='https://computerhoy.com/tecnologia/dispositivo-lidl-bolsillo-evitara-te-roben-1315794'>Este dispositivo de Lidl cuesta solo 11.99 euros, cabe en el bolsillo y evitará que te roben</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dispositivo-lidl-bolsillo-evitara-te-roben-1315794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dispositivo-lidl-cuesta-solo-1199-euros-bolsillo-evitara-te-roben-3187600.jpg?tf=1200x' alt='Este dispositivo de Lidl cuesta solo 11.99 euros, cabe en el bolsillo y evitará que te roben' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-mando-distancia-amazon-fire-tv-1314178'>Cómo restablecer el mando a distancia de los Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-restablecer-mando-distancia-amazon-fire-tv-1314178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-fire-tv-3186912.jpg?tf=1200x' alt='Cómo restablecer el mando a distancia de los Amazon Fire TV' />
+    <h4><a href='https://computerhoy.com/pc/por-que-deberias-dejar-algo-espacio-ssd-1315762'>¿Por qué deberías dejar un 30% de espacio libre en tu SSD? </a></h4>
+    <a href='https://computerhoy.com/pc/por-que-deberias-dejar-algo-espacio-ssd-1315762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ssd-samsung-3059474.jpg?tf=1200x' alt='¿Por qué deberías dejar un 30% de espacio libre en tu SSD? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/antonio-jubilado-ha-revolucionado-generacion-z-camaras-analogicas-1315688'>Antonio, el jubilado que ha revolucionado a la generación Z con sus cámaras analógicas</a></h4>
-    <a href='https://computerhoy.com/life/antonio-jubilado-ha-revolucionado-generacion-z-camaras-analogicas-1315688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cuando-vintage-hacer-viral-antonio-jubilado-atrae-generacion-z-coleccion-analogica-tiktok-3187382.jpg?tf=1200x' alt='Antonio, el jubilado que ha revolucionado a la generación Z con sus cámaras analógicas' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/aumenta-uso-dispositivos-piratear-surtidores-conseguir-gasolina-gratis-1315782'>Aumenta el uso de dispositivos para piratear los surtidores y conseguir gasolina gratis</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/aumenta-uso-dispositivos-piratear-surtidores-conseguir-gasolina-gratis-1315782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/gasolinera-shell-3187576.jpg?tf=1200x' alt='Aumenta el uso de dispositivos para piratear los surtidores y conseguir gasolina gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chollo-nivel-prime-day-pero-adelantado-roomba-i7-desploma-precio-casi-300-euros-barata-1314442'>Chollo nivel Prime Day, pero por adelantado: la Roomba i7 desploma su precio y es casi 300 euros más barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chollo-nivel-prime-day-pero-adelantado-roomba-i7-desploma-precio-casi-300-euros-barata-1314442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/roomba-i7156-3150626.jpg?tf=1200x' alt='Chollo nivel Prime Day, pero por adelantado: la Roomba i7 desploma su precio y es casi 300 euros más barata' />
+    <h4><a href='https://computerhoy.com/ciencia/dinosaurio-garumbatitan-morellensis-morella-castellon-1315788'>Encuentran en Castellón un nuevo titanosaurio de 25 metros de largo, uno de los más grandes jamás vistos</a></h4>
+    <a href='https://computerhoy.com/ciencia/dinosaurio-garumbatitan-morellensis-morella-castellon-1315788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/encuentran-castellon-titanosaurio-25-metros-largo-grandes-jamas-vistos-3187568.jpg?tf=1200x' alt='Encuentran en Castellón un nuevo titanosaurio de 25 metros de largo, uno de los más grandes jamás vistos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microondas-tiene-modo-silencioso-muy-poco-conocen-1314830'>Tu microondas tiene un modo silencioso para no molestar por la noche, y así puedes activarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microondas-tiene-modo-silencioso-muy-poco-conocen-1314830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/silencio-microondas-3186906.jpg?tf=1200x' alt='Tu microondas tiene un modo silencioso para no molestar por la noche, y así puedes activarlo' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-podria-obligarte-pagar-suscripcion-utilizar-windows-12-1315780'>Microsoft podría obligarte a pagar una suscripción por utilizar Windows 12</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-podria-obligarte-pagar-suscripcion-utilizar-windows-12-1315780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-12-2971604.jpg?tf=1200x' alt='Microsoft podría obligarte a pagar una suscripción por utilizar Windows 12' />
     </a>
 </div>
 
