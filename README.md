@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/receta-limpiar-pantalla-televisor-sin-marcas-961259'>La pócima mágica para limpiar la pantalla del televisor sin dejar una sola marca</a></h4>
+    <a href='https://computerhoy.com/noticias/life/receta-limpiar-pantalla-televisor-sin-marcas-961259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/limpiar-tv-3187132.jpg?tf=1200x' alt='La pócima mágica para limpiar la pantalla del televisor sin dejar una sola marca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sirve-extrano-cilindro-cables-carga-1315402'>Qué es y para qué sirve el extraño cilindro de los cables de carga</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sirve-extrano-cilindro-cables-carga-1315402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cable-cilindro-ferrita-3186900.jpg?tf=1200x' alt='Qué es y para qué sirve el extraño cilindro de los cables de carga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/revelado-momento-ideal-dia-andar-obtener-mejores-resultados-1315652'>¡Revelado! Este es el momento ideal del día para andar y obtener mejores resultados </a></h4>
+    <a href='https://computerhoy.com/life/revelado-momento-ideal-dia-andar-obtener-mejores-resultados-1315652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/momento-dia-andar-obtener-mejores-resultados-3187262.jpg?tf=1200x' alt='¡Revelado! Este es el momento ideal del día para andar y obtener mejores resultados ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/8-maneras-solucionar-problemas-android-auto-1313060'>8 maneras de solucionar los problemas de Android Auto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/8-maneras-solucionar-problemas-android-auto-1313060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/8-maneras-solucionar-problemas-android-auto-3148500.jpg?tf=1200x' alt='8 maneras de solucionar los problemas de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/anuncio-5g-movistar-viola-propias-condiciones-uso-1315632'>Movistar Plus lanza un anuncio de su 5G+ que viola sus propias condiciones de uso</a></h4>
     <a href='https://computerhoy.com/internet/anuncio-5g-movistar-viola-propias-condiciones-uso-1315632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/movistar-lanza-clientes-fugados-netflix-canal-plus-muy-barato-incluye-liga-champions-3082996.jpg?tf=1200x' alt='Movistar Plus lanza un anuncio de su 5G+ que viola sus propias condiciones de uso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-grabar-usar-propia-voz-navegar-waze-1315036'>Cómo grabar y usar tu propia voz para navegar en Waze</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-grabar-usar-propia-voz-navegar-waze-1315036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-grabar-usar-propia-voz-navegar-waze-3186106.jpg?tf=1200x' alt='Cómo grabar y usar tu propia voz para navegar en Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-muestra-como-debes-responder-estornudo-europa-1315608'>Así es el mapa de los estornudos europeo: aprende cómo responder estés donde estés</a></h4>
-    <a href='https://computerhoy.com/life/mapa-muestra-como-debes-responder-estornudo-europa-1315608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/estornudo-1863977.jpg?tf=1200x' alt='Así es el mapa de los estornudos europeo: aprende cómo responder estés donde estés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-1000-millones-dolares-algoritmo-subia-precios-1315594'>Amazon ha utilizado un algoritmo secreto para subir los precios en internet con el que ha ganado 1.000 millones de dólares</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-1000-millones-dolares-algoritmo-subia-precios-1315594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/empleados-amazon-3115776.jpg?tf=1200x' alt='Amazon ha utilizado un algoritmo secreto para subir los precios en internet con el que ha ganado 1.000 millones de dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/revelada-agonia-fueron-sometidos-varios-monos-durante-experimentos-neuralink-1315508'>Revelada la agonía a la que fueron sometidos varios monos durante los experimentos de Neuralink</a></h4>
-    <a href='https://computerhoy.com/tecnologia/revelada-agonia-fueron-sometidos-varios-monos-durante-experimentos-neuralink-1315508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/neuralink-elon-musk-3186908.jpg?tf=1200x' alt='Revelada la agonía a la que fueron sometidos varios monos durante los experimentos de Neuralink' />
     </a>
 </div>
 
