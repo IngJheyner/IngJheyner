@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/dos-caracteristicas-me-han-gustado-iphone-15-pro-1314228'>Las dos características que más me han gustado tras analizar el iPhone 15 Pro</a></h4>
-    <a href='https://computerhoy.com/moviles/dos-caracteristicas-me-han-gustado-iphone-15-pro-1314228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143598.jpg?tf=1200x' alt='Las dos características que más me han gustado tras analizar el iPhone 15 Pro' />
+    <h4><a href='https://computerhoy.com/criptos/criptoinversor-revela-como-hizo-millonario-shiba-inu-1315460'>Un criptoinversor revela cómo se hizo millonario invirtiendo en Shiba Inu: estos son los pasos que dio</a></h4>
+    <a href='https://computerhoy.com/criptos/criptoinversor-revela-como-hizo-millonario-shiba-inu-1315460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg?tf=1200x' alt='Un criptoinversor revela cómo se hizo millonario invirtiendo en Shiba Inu: estos son los pasos que dio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-facebook-sin-filtros-1315184'>El Papa con un rifle, Mickey con un cuchillo ensangrentado, Trump el bebé llorón: los stickers de Facebook creados con IA, sin filtros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-facebook-sin-filtros-1315184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/luigi-rifle-mickey-cuchillo-ensangrentado-trump-bebe-lloron-stickers-facebook-creados-ia-filtros-3186446.jpg?tf=1200x' alt='El Papa con un rifle, Mickey con un cuchillo ensangrentado, Trump el bebé llorón: los stickers de Facebook creados con IA, sin filtros' />
+    <h4><a href='https://computerhoy.com/apps/elon-musk-1315452'>Elon Musk y sus nuevos cambios en X: es el turno de eliminar titulares y texto de noticias</a></h4>
+    <a href='https://computerhoy.com/apps/elon-musk-1315452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-x-3186734.jpg?tf=1200x' alt='Elon Musk y sus nuevos cambios en X: es el turno de eliminar titulares y texto de noticias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/bateria-estado-solido-volvo-ya-realidad-1315172'>La batería de estado sólido de Volvo ya es una realidad: carga ultrarrápida con un gran inconveniente</a></h4>
-    <a href='https://computerhoy.com/motor/bateria-estado-solido-volvo-ya-realidad-1315172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bateria-estado-solido-volvo-ya-realidad-carga-ultrarrapida-gran-inconveniente-3186444.jpg?tf=1200x' alt='La batería de estado sólido de Volvo ya es una realidad: carga ultrarrápida con un gran inconveniente' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-usar-whatsapp-1043943'>5 móviles baratos para usar WhatsApp y poco más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-usar-whatsapp-1043943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/poco-m5-2803713.jpg?tf=1200x' alt='5 móviles baratos para usar WhatsApp y poco más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubren-nuevo-pangolin-traves-escamas-trafico-animal-1315104'>Descubren en China una nueva especie de pangolín a través de escamas confiscadas del tráfico ilegal </a></h4>
-    <a href='https://computerhoy.com/life/descubren-nuevo-pangolin-traves-escamas-trafico-animal-1315104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/descubren-nueva-especie-pangolin-3186266.jpg?tf=1200x' alt='Descubren en China una nueva especie de pangolín a través de escamas confiscadas del tráfico ilegal ' />
+    <h4><a href='https://computerhoy.com/moviles/china-ya-vende-plegables-resto-mundo-junto-causas-1314882'>China ya vende más móviles plegables que todos los demás países del mundo juntos (y estas son las causas)</a></h4>
+    <a href='https://computerhoy.com/moviles/china-ya-vende-plegables-resto-mundo-junto-causas-1314882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/china-plegables-3185858.jpg?tf=1200x' alt='China ya vende más móviles plegables que todos los demás países del mundo juntos (y estas son las causas)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tecnica-feynman-metodo-infalible-aprender-cualquier-cosa-1310806'>La técnica Feynman: el método infalible para aprender cualquier cosa rápidamente</a></h4>
-    <a href='https://computerhoy.com/life/tecnica-feynman-metodo-infalible-aprender-cualquier-cosa-1310806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tecnica-feynman-metodo-infalible-aprender-cualquier-cosa-rapidamente-3144330.jpg?tf=1200x' alt='La técnica Feynman: el método infalible para aprender cualquier cosa rápidamente' />
+    <h4><a href='https://computerhoy.com/entretenimiento/asalto-banco-central-serie-netflix-basada-atraco-barcelona-1315400'>Asalto al Banco Central, la nueva serie de Netflix basada en el famoso atraco en Barcelona</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/asalto-banco-central-serie-netflix-basada-atraco-barcelona-1315400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/asalto-banco-central-nueva-serie-netflix-basada-famoso-atraco-barcelona-3186452.jpg?tf=1200x' alt='Asalto al Banco Central, la nueva serie de Netflix basada en el famoso atraco en Barcelona' />
     </a>
 </div>
 
