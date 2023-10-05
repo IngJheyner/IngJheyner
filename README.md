@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/receta-limpiar-pantalla-televisor-sin-marcas-961259'>La pócima mágica para limpiar la pantalla del televisor sin dejar una sola marca</a></h4>
-    <a href='https://computerhoy.com/noticias/life/receta-limpiar-pantalla-televisor-sin-marcas-961259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/limpiar-tv-3187132.jpg?tf=1200x' alt='La pócima mágica para limpiar la pantalla del televisor sin dejar una sola marca' />
+    <h4><a href='https://computerhoy.com/android/funciones-ocultas-movil-android-quizas-no-conocias-1315130'>Funciones ocultas de tu móvil Android que quizás no conocías y que te harán la vida más fácil</a></h4>
+    <a href='https://computerhoy.com/android/funciones-ocultas-movil-android-quizas-no-conocias-1315130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/secretos-android-3186918.jpg?tf=1200x' alt='Funciones ocultas de tu móvil Android que quizás no conocías y que te harán la vida más fácil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sirve-extrano-cilindro-cables-carga-1315402'>Qué es y para qué sirve el extraño cilindro de los cables de carga</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sirve-extrano-cilindro-cables-carga-1315402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cable-cilindro-ferrita-3186900.jpg?tf=1200x' alt='Qué es y para qué sirve el extraño cilindro de los cables de carga' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-mando-distancia-amazon-fire-tv-1314178'>Cómo restablecer el mando a distancia de los Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-restablecer-mando-distancia-amazon-fire-tv-1314178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-fire-tv-3186912.jpg?tf=1200x' alt='Cómo restablecer el mando a distancia de los Amazon Fire TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/revelado-momento-ideal-dia-andar-obtener-mejores-resultados-1315652'>¡Revelado! Este es el momento ideal del día para andar y obtener mejores resultados </a></h4>
-    <a href='https://computerhoy.com/life/revelado-momento-ideal-dia-andar-obtener-mejores-resultados-1315652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/momento-dia-andar-obtener-mejores-resultados-3187262.jpg?tf=1200x' alt='¡Revelado! Este es el momento ideal del día para andar y obtener mejores resultados ' />
+    <h4><a href='https://computerhoy.com/life/antonio-jubilado-ha-revolucionado-generacion-z-camaras-analogicas-1315688'>Antonio, el jubilado que ha revolucionado a la generación Z con sus cámaras analógicas</a></h4>
+    <a href='https://computerhoy.com/life/antonio-jubilado-ha-revolucionado-generacion-z-camaras-analogicas-1315688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cuando-vintage-hacer-viral-antonio-jubilado-atrae-generacion-z-coleccion-analogica-tiktok-3187382.jpg?tf=1200x' alt='Antonio, el jubilado que ha revolucionado a la generación Z con sus cámaras analógicas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/8-maneras-solucionar-problemas-android-auto-1313060'>8 maneras de solucionar los problemas de Android Auto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/8-maneras-solucionar-problemas-android-auto-1313060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/8-maneras-solucionar-problemas-android-auto-3148500.jpg?tf=1200x' alt='8 maneras de solucionar los problemas de Android Auto' />
+    <h4><a href='https://computerhoy.com/tecnologia/chollo-nivel-prime-day-pero-adelantado-roomba-i7-desploma-precio-casi-300-euros-barata-1314442'>Chollo nivel Prime Day, pero por adelantado: la Roomba i7 desploma su precio y es casi 300 euros más barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chollo-nivel-prime-day-pero-adelantado-roomba-i7-desploma-precio-casi-300-euros-barata-1314442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/roomba-i7156-3150626.jpg?tf=1200x' alt='Chollo nivel Prime Day, pero por adelantado: la Roomba i7 desploma su precio y es casi 300 euros más barata' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/anuncio-5g-movistar-viola-propias-condiciones-uso-1315632'>Movistar Plus lanza un anuncio de su 5G+ que viola sus propias condiciones de uso</a></h4>
-    <a href='https://computerhoy.com/internet/anuncio-5g-movistar-viola-propias-condiciones-uso-1315632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/movistar-lanza-clientes-fugados-netflix-canal-plus-muy-barato-incluye-liga-champions-3082996.jpg?tf=1200x' alt='Movistar Plus lanza un anuncio de su 5G+ que viola sus propias condiciones de uso' />
+    <h4><a href='https://computerhoy.com/tecnologia/microondas-tiene-modo-silencioso-muy-poco-conocen-1314830'>Tu microondas tiene un modo silencioso para no molestar por la noche, y así puedes activarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microondas-tiene-modo-silencioso-muy-poco-conocen-1314830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/silencio-microondas-3186906.jpg?tf=1200x' alt='Tu microondas tiene un modo silencioso para no molestar por la noche, y así puedes activarlo' />
     </a>
 </div>
 
