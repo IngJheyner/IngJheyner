@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-antivirus-tiene-arma-secreta-hace-merezca-pena-practicamente-te-borra-internet-1309194'>Esta VPN tiene un arma secreta que hace que merezca la pena: prácticamente te borra de internet</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-antivirus-tiene-arma-secreta-hace-merezca-pena-practicamente-te-borra-internet-1309194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/surfshark-vpn-movil-2931482.jpg?tf=1200x' alt='Esta VPN tiene un arma secreta que hace que merezca la pena: prácticamente te borra de internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/descubierta-peligrosa-red-fraude-vinculada-android-tv-box-infectadas-1315498'>Alerta usuarios: descubierta una peligrosa red de fraude vinculada a Android TV Box infectadas</a></h4>
+    <a href='https://computerhoy.com/android/descubierta-peligrosa-red-fraude-vinculada-android-tv-box-infectadas-1315498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/android-tv-box-infectados-3186886.jpg?tf=1200x' alt='Alerta usuarios: descubierta una peligrosa red de fraude vinculada a Android TV Box infectadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-10-sigue-arrasando-popularidad-frente-windows-11-ocurriendo-1315468'>Windows 10 sigue arrasando en popularidad frente a Windows 11, ¿qué está ocurriendo?</a></h4>
+    <a href='https://computerhoy.com/windows/windows-10-sigue-arrasando-popularidad-frente-windows-11-ocurriendo-1315468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/windows-10-windows-11-3186856.jpg?tf=1200x' alt='Windows 10 sigue arrasando en popularidad frente a Windows 11, ¿qué está ocurriendo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-tiene-motivos-temerle-garmin-acaba-estrenar-amenaza-reinado-1314336'>Apple tiene motivos para temerle a este Garmin que se acaba de estrenar y que amenaza su reinado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-tiene-motivos-temerle-garmin-acaba-estrenar-amenaza-reinado-1314336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-vivoactive-5-3150426.jpg?tf=1200x' alt='Apple tiene motivos para temerle a este Garmin que se acaba de estrenar y que amenaza su reinado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/criptoinversor-revela-como-hizo-millonario-shiba-inu-1315460'>Un criptoinversor revela cómo se hizo millonario invirtiendo en Shiba Inu: estos son los pasos que dio</a></h4>
     <a href='https://computerhoy.com/criptos/criptoinversor-revela-como-hizo-millonario-shiba-inu-1315460' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/shiba-inu-2523863.jpg?tf=1200x' alt='Un criptoinversor revela cómo se hizo millonario invirtiendo en Shiba Inu: estos son los pasos que dio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elon-musk-1315452'>Elon Musk y sus nuevos cambios en X: es el turno de eliminar titulares y texto de noticias</a></h4>
-    <a href='https://computerhoy.com/apps/elon-musk-1315452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-x-3186734.jpg?tf=1200x' alt='Elon Musk y sus nuevos cambios en X: es el turno de eliminar titulares y texto de noticias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-usar-whatsapp-1043943'>5 móviles baratos para usar WhatsApp y poco más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/moviles-baratos-usar-whatsapp-1043943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/poco-m5-2803713.jpg?tf=1200x' alt='5 móviles baratos para usar WhatsApp y poco más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/china-ya-vende-plegables-resto-mundo-junto-causas-1314882'>China ya vende más móviles plegables que todos los demás países del mundo juntos (y estas son las causas)</a></h4>
-    <a href='https://computerhoy.com/moviles/china-ya-vende-plegables-resto-mundo-junto-causas-1314882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/china-plegables-3185858.jpg?tf=1200x' alt='China ya vende más móviles plegables que todos los demás países del mundo juntos (y estas son las causas)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/asalto-banco-central-serie-netflix-basada-atraco-barcelona-1315400'>Asalto al Banco Central, la nueva serie de Netflix basada en el famoso atraco en Barcelona</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/asalto-banco-central-serie-netflix-basada-atraco-barcelona-1315400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/asalto-banco-central-nueva-serie-netflix-basada-famoso-atraco-barcelona-3186452.jpg?tf=1200x' alt='Asalto al Banco Central, la nueva serie de Netflix basada en el famoso atraco en Barcelona' />
     </a>
 </div>
 
