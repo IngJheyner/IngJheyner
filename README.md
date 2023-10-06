@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-no-puede-hacer-frente-gastos-chatgpt-valora-cambio-estrategia-1316106'>OpenAI no puede hacer frente a los gastos de ChatGPT y valora un cambio de estrategia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-no-puede-hacer-frente-gastos-chatgpt-valora-cambio-estrategia-1316106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/openai-chatgpt-3188102.jpg?tf=1200x' alt='OpenAI no puede hacer frente a los gastos de ChatGPT y valora un cambio de estrategia' />
+    <h4><a href='https://computerhoy.com/ciencia/experto-ia-fecha-llegada-inmortalidad-humana-ano-2030-1316346'>Inventor y experto en IA pronostica la llegada de la inmortalidad humana, será en 2030 con nanobots  </a></h4>
+    <a href='https://computerhoy.com/ciencia/experto-ia-fecha-llegada-inmortalidad-humana-ano-2030-1316346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/inventor-experto-ia-pronostica-llegada-inmortalidad-humana-2030-nanobots-3188568.jpg?tf=1200x' alt='Inventor y experto en IA pronostica la llegada de la inmortalidad humana, será en 2030 con nanobots  ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-trabaja-2-versiones-ipad-air-ipad-mini-7-2024-1316172'>Apple trabaja en 2 versiones del iPad Air y un iPad Mini 7 que podrían llegar a principios de 2024</a></h4>
-    <a href='https://computerhoy.com/apple/apple-trabaja-2-versiones-ipad-air-ipad-mini-7-2024-1316172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ipad-mini-6a-generacion-2021-analisis-opinion-2501963.jpg?tf=1200x' alt='Apple trabaja en 2 versiones del iPad Air y un iPad Mini 7 que podrían llegar a principios de 2024' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-video-pinterest-necesidad-programas-1316016'>Cómo descargar un vídeo de Pinterest sin necesidad de programas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-video-pinterest-necesidad-programas-1316016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-descargar-video-pinterest-3187896.jpg?tf=1200x' alt='Cómo descargar un vídeo de Pinterest sin necesidad de programas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-apple-tienen-rival-reloj-amazfit-usa-ia-entrenamientos-running-muy-barato-1314284'>Garmin y Apple tienen rival: este reloj Amazfit usa IA para tus entrenamientos de running y es sorprendentemente barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-apple-tienen-rival-reloj-amazfit-usa-ia-entrenamientos-running-muy-barato-1314284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazfit-cheetah-pro-3150278.jpg?tf=1200x' alt='Garmin y Apple tienen rival: este reloj Amazfit usa IA para tus entrenamientos de running y es sorprendentemente barato' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-prime-video-netflix-disney-spider-man-asesino-serie-mansion-encantada-1315570'>Qué películas ver este fin de semana en Prime Video, Netflix y Disney+: Spider Man, un asesino en serie y una mansión encantada</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-prime-video-netflix-disney-spider-man-asesino-serie-mansion-encantada-1315570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/peliculas-fin-semana-3188118.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Prime Video, Netflix y Disney+: Spider Man, un asesino en serie y una mansión encantada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-muestra-gorra-teclado-puedes-escribir-verdad-1316154'>Así es la Google gorra: forma de tecla y con la que puedes escribir de verdad</a></h4>
-    <a href='https://computerhoy.com/google/google-muestra-gorra-teclado-puedes-escribir-verdad-1316154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-gorra-3188136.jpg?tf=1200x' alt='Así es la Google gorra: forma de tecla y con la que puedes escribir de verdad' />
+    <h4><a href='https://computerhoy.com/redes/torturas-violaciones-moderadores-redes-sociales-no-pueden-1316314'>Desmembramientos, torturas, violaciones, suicidios en directo: los moderadores de redes sociales no pueden más</a></h4>
+    <a href='https://computerhoy.com/redes/torturas-violaciones-moderadores-redes-sociales-no-pueden-1316314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/desmembramientos-torturas-violaciones-suicidios-directo-moderadores-redes-sociales-no-pueden-3188520.jpg?tf=1200x' alt='Desmembramientos, torturas, violaciones, suicidios en directo: los moderadores de redes sociales no pueden más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-lucha-ganar-terreno-mientras-windows-10-llega-final-fabricantes-frotan-manos-1316096'>Windows 11 lucha por ganar terreno mientras Windows 10 llega a su final: los fabricantes se frotan las manos</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-lucha-ganar-terreno-mientras-windows-10-llega-final-fabricantes-frotan-manos-1316096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/windows-11-3188060.jpg?tf=1200x' alt='Windows 11 lucha por ganar terreno mientras Windows 10 llega a su final: los fabricantes se frotan las manos' />
+    <h4><a href='https://computerhoy.com/life/semana-oso-gordo-vota-favorito-1316310'>Comienza la Semana del Oso Gordo: vota por el que más kilos ha cogido para la hibernación</a></h4>
+    <a href='https://computerhoy.com/life/semana-oso-gordo-vota-favorito-1316310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/comienza-semana-oso-gordo-vota-kilos-ha-cogido-hibernacion-3188482.jpg?tf=1200x' alt='Comienza la Semana del Oso Gordo: vota por el que más kilos ha cogido para la hibernación' />
     </a>
 </div>
 
