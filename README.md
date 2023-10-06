@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/amazon-pagara-millon-dolares-quien-fotografie-extraterrestre-1316014'>Amazon pagará un millón de dólares a quien fotografíe un extraterrestre con la cámara de sus timbres Ring</a></h4>
+    <a href='https://computerhoy.com/life/amazon-pagara-millon-dolares-quien-fotografie-extraterrestre-1316014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-pagara-millon-dolares-quien-fotografie-extraterrestre-camara-timbres-ring-3187650.jpg?tf=1200x' alt='Amazon pagará un millón de dólares a quien fotografíe un extraterrestre con la cámara de sus timbres Ring' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/sony-pictures-core-nueva-plataforma-cine-consolas-playstation-1315812'>Sony Pictures Core, la nueva plataforma con más de 2.000 películas sin suscripción, 100 son gratis si tienes PlayStation Plus Premium</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/sony-pictures-core-nueva-plataforma-cine-consolas-playstation-1315812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sony-pictures-core-nueva-plataforma-2000-peliculas-suscripcion-100-son-gratis-tienes-playstation-plus-3187646.jpg?tf=1200x' alt='Sony Pictures Core, la nueva plataforma con más de 2.000 películas sin suscripción, 100 son gratis si tienes PlayStation Plus Premium' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dispositivo-lidl-bolsillo-evitara-te-roben-1315794'>Este dispositivo de Lidl cuesta solo 11.99 euros, cabe en el bolsillo y evitará que te roben</a></h4>
     <a href='https://computerhoy.com/tecnologia/dispositivo-lidl-bolsillo-evitara-te-roben-1315794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dispositivo-lidl-cuesta-solo-1199-euros-bolsillo-evitara-te-roben-3187600.jpg?tf=1200x' alt='Este dispositivo de Lidl cuesta solo 11.99 euros, cabe en el bolsillo y evitará que te roben' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/aumenta-uso-dispositivos-piratear-surtidores-conseguir-gasolina-gratis-1315782'>Aumenta el uso de dispositivos para piratear los surtidores y conseguir gasolina gratis</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/aumenta-uso-dispositivos-piratear-surtidores-conseguir-gasolina-gratis-1315782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/gasolinera-shell-3187576.jpg?tf=1200x' alt='Aumenta el uso de dispositivos para piratear los surtidores y conseguir gasolina gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/dinosaurio-garumbatitan-morellensis-morella-castellon-1315788'>Encuentran en Castellón un nuevo titanosaurio de 25 metros de largo, uno de los más grandes jamás vistos</a></h4>
-    <a href='https://computerhoy.com/ciencia/dinosaurio-garumbatitan-morellensis-morella-castellon-1315788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/encuentran-castellon-titanosaurio-25-metros-largo-grandes-jamas-vistos-3187568.jpg?tf=1200x' alt='Encuentran en Castellón un nuevo titanosaurio de 25 metros de largo, uno de los más grandes jamás vistos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-podria-obligarte-pagar-suscripcion-utilizar-windows-12-1315780'>Microsoft podría obligarte a pagar una suscripción por utilizar Windows 12</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-podria-obligarte-pagar-suscripcion-utilizar-windows-12-1315780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/windows-12-2971604.jpg?tf=1200x' alt='Microsoft podría obligarte a pagar una suscripción por utilizar Windows 12' />
     </a>
 </div>
 
