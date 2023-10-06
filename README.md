@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-lucha-ganar-terreno-mientras-windows-10-llega-final-fabricantes-frotan-manos-1316096'>Windows 11 lucha por ganar terreno mientras Windows 10 llega a su final: los fabricantes se frotan las manos</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-lucha-ganar-terreno-mientras-windows-10-llega-final-fabricantes-frotan-manos-1316096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/windows-11-3188060.jpg?tf=1200x' alt='Windows 11 lucha por ganar terreno mientras Windows 10 llega a su final: los fabricantes se frotan las manos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/desmantelan-grupo-iptv-pirata-habia-ganado-25-millones-euros-1316090'>Importante victoria contra la IPTV pirata: desmantelan un grupo que había ganado más de 25 millones de euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desmantelan-grupo-iptv-pirata-habia-ganado-25-millones-euros-1316090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hombre-esposado-3188058.jpg?tf=1200x' alt='Importante victoria contra la IPTV pirata: desmantelan un grupo que había ganado más de 25 millones de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/dulce-acido-salado-amargo-umami-cloruro-amonio-1316064'>Dulce, ácido, salado, amargo, umami y, ¿un nuevo sabor llamado cloruro de amonio?</a></h4>
+    <a href='https://computerhoy.com/ciencia/dulce-acido-salado-amargo-umami-cloruro-amonio-1316064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sabores-3187974.jpg?tf=1200x' alt='Dulce, ácido, salado, amargo, umami y, ¿un nuevo sabor llamado cloruro de amonio?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-mapas-renueva-espana-monton-novedades-1316062'>Apple renueva Mapas con mejoras para España: modo para ciclistas, novedades para el Apple Watch y más</a></h4>
+    <a href='https://computerhoy.com/apple/apple-mapas-renueva-espana-monton-novedades-1316062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/apple-maps-ios-13.jpg?tf=1200x' alt='Apple renueva Mapas con mejoras para España: modo para ciclistas, novedades para el Apple Watch y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/dia-mundial-sonrisa-celebra-6-octubre-1316056'>Día Mundial de la Sonrisa: ¿Por qué se celebra el 6 de octubre?</a></h4>
     <a href='https://computerhoy.com/life/dia-mundial-sonrisa-celebra-6-octubre-1316056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dia-mundial-sonrisa-3187944.jpg?tf=1200x' alt='Día Mundial de la Sonrisa: ¿Por qué se celebra el 6 de octubre?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/apple-watch-series-9-analisis-opinion-1314972'>Apple Watch Series 9, análisis y opinión: un gran salto en rendimiento para el futuro, pero con un diseño que toca renovar</a></h4>
-    <a href='https://computerhoy.com/analisis/apple-watch-series-9-analisis-opinion-1314972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187098.jpg?tf=1200x' alt='Apple Watch Series 9, análisis y opinión: un gran salto en rendimiento para el futuro, pero con un diseño que toca renovar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/3-principales-debilidades-iphone-pro-analizarlo-detalle-1314326'>El iPhone 15 Pro no es perfecto: sus 3 principales debilidades tras analizarlo en detalle </a></h4>
-    <a href='https://computerhoy.com/apple/3-principales-debilidades-iphone-pro-analizarlo-detalle-1314326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143596.jpg?tf=1200x' alt='El iPhone 15 Pro no es perfecto: sus 3 principales debilidades tras analizarlo en detalle ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/amazon-pagara-millon-dolares-quien-fotografie-extraterrestre-1316014'>Amazon pagará un millón de dólares a quien fotografíe un extraterrestre con la cámara de sus timbres Ring</a></h4>
-    <a href='https://computerhoy.com/life/amazon-pagara-millon-dolares-quien-fotografie-extraterrestre-1316014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-pagara-millon-dolares-quien-fotografie-extraterrestre-camara-timbres-ring-3187650.jpg?tf=1200x' alt='Amazon pagará un millón de dólares a quien fotografíe un extraterrestre con la cámara de sus timbres Ring' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/sony-pictures-core-nueva-plataforma-cine-consolas-playstation-1315812'>Sony Pictures Core, la nueva plataforma con más de 2.000 películas sin suscripción, 100 son gratis si tienes PlayStation Plus Premium</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/sony-pictures-core-nueva-plataforma-cine-consolas-playstation-1315812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sony-pictures-core-nueva-plataforma-2000-peliculas-suscripcion-100-son-gratis-tienes-playstation-plus-3187646.jpg?tf=1200x' alt='Sony Pictures Core, la nueva plataforma con más de 2.000 películas sin suscripción, 100 son gratis si tienes PlayStation Plus Premium' />
     </a>
 </div>
 
