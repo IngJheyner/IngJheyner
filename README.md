@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/lista-ceo-inteligentes-mundo-posicion-queda-elon-musk-1316444'>Esta es la lista de los CEO más inteligentes del mundo: ¿en qué posición queda Elon Musk?</a></h4>
+    <a href='https://computerhoy.com/life/lista-ceo-inteligentes-mundo-posicion-queda-elon-musk-1316444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elon-musk-2698399.jpg?tf=1200x' alt='Esta es la lista de los CEO más inteligentes del mundo: ¿en qué posición queda Elon Musk?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/dazn-da-marcha-atras-recupera-paquete-laliga-ver-futbol-barato-1316442'>DAZN da marcha atrás y recupera el paquete de LaLiga para ver el fútbol más barato</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/dazn-da-marcha-atras-recupera-paquete-laliga-ver-futbol-barato-1316442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/futbol-3188724.jpg?tf=1200x' alt='DAZN da marcha atrás y recupera el paquete de LaLiga para ver el fútbol más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-16gb-ram-derrumba-precio-limites-inimaginables-ssd-1314306'>Este Mini PC con 16GB de RAM derrumba su precio a límites inimaginables, y con SSD</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-16gb-ram-derrumba-precio-limites-inimaginables-ssd-1314306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/firebat-t9-pro-plus-3150374.jpg?tf=1200x' alt='Este Mini PC con 16GB de RAM derrumba su precio a límites inimaginables, y con SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/dance-dance-revolution-classic-mini-consola-konami-baile-1316438'>Dance Dance Revolution Classic Mini, la nueva mini consola de Konami... ¡Para bailar!</a></h4>
+    <a href='https://computerhoy.com/gaming/dance-dance-revolution-classic-mini-consola-konami-baile-1316438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1696617857612-3188706.jpg?tf=1200x' alt='Dance Dance Revolution Classic Mini, la nueva mini consola de Konami... ¡Para bailar!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/sorprendente-origen-momias-cuenca-tarim-1315712'>Científicos en shock al descubrir el sorprendente origen de las momias de la cuenca del Tarim</a></h4>
     <a href='https://computerhoy.com/life/sorprendente-origen-momias-cuenca-tarim-1315712' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cientificos-shock-descubrir-sorprendente-origen-momias-cuenca-tarim-3187500.jpg?tf=1200x' alt='Científicos en shock al descubrir el sorprendente origen de las momias de la cuenca del Tarim' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/primera-multa-basura-espacial-ha-llegado-1316390'>La primera multa por basura espacial ha llegado  </a></h4>
-    <a href='https://computerhoy.com/espacio/primera-multa-basura-espacial-ha-llegado-1316390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/basura-espacial-2336789.jpg?tf=1200x' alt='La primera multa por basura espacial ha llegado  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/razon-siempre-deberias-conectar-fire-tv-alexa-1315764'>El beneficio oculto por el que siempre deberías conectar tu Amazon Fire TV con Alexa</a></h4>
-    <a href='https://computerhoy.com/amazon/razon-siempre-deberias-conectar-fire-tv-alexa-1315764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-fire-tv-alexa-3188362.jpg?tf=1200x' alt='El beneficio oculto por el que siempre deberías conectar tu Amazon Fire TV con Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/paciente-cero-terapia-genica-55-anos-21-biologicos-1316366'>Es la paciente cero de su terapia génica contra el envejecimiento y asegura haber conseguido pasar de 52 años biológicos a 21  </a></h4>
-    <a href='https://computerhoy.com/ciencia/paciente-cero-terapia-genica-55-anos-21-biologicos-1316366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/empresaria-protagonista-estudio-revertir-envejacimiento-3135140.jpg?tf=1200x' alt='Es la paciente cero de su terapia génica contra el envejecimiento y asegura haber conseguido pasar de 52 años biológicos a 21  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/7-metodos-efectivos-arreglar-ordenador-va-lento-1315066'>7 métodos efectivos para arreglar un ordenador que va lento</a></h4>
-    <a href='https://computerhoy.com/pc/7-metodos-efectivos-arreglar-ordenador-va-lento-1315066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/7-metodos-efectivos-arreglar-ordenador-va-lento-3186296.jpg?tf=1200x' alt='7 métodos efectivos para arreglar un ordenador que va lento' />
     </a>
 </div>
 
