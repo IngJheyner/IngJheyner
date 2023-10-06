@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/experto-ia-fecha-llegada-inmortalidad-humana-ano-2030-1316346'>Inventor y experto en IA pronostica la llegada de la inmortalidad humana, será en 2030 con nanobots  </a></h4>
-    <a href='https://computerhoy.com/ciencia/experto-ia-fecha-llegada-inmortalidad-humana-ano-2030-1316346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/inventor-experto-ia-pronostica-llegada-inmortalidad-humana-2030-nanobots-3188568.jpg?tf=1200x' alt='Inventor y experto en IA pronostica la llegada de la inmortalidad humana, será en 2030 con nanobots  ' />
+    <h4><a href='https://computerhoy.com/life/sorprendente-origen-momias-cuenca-tarim-1315712'>Científicos en shock al descubrir el sorprendente origen de las momias de la cuenca del Tarim</a></h4>
+    <a href='https://computerhoy.com/life/sorprendente-origen-momias-cuenca-tarim-1315712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cientificos-shock-descubrir-sorprendente-origen-momias-cuenca-tarim-3187500.jpg?tf=1200x' alt='Científicos en shock al descubrir el sorprendente origen de las momias de la cuenca del Tarim' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-video-pinterest-necesidad-programas-1316016'>Cómo descargar un vídeo de Pinterest sin necesidad de programas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-video-pinterest-necesidad-programas-1316016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-descargar-video-pinterest-3187896.jpg?tf=1200x' alt='Cómo descargar un vídeo de Pinterest sin necesidad de programas' />
+    <h4><a href='https://computerhoy.com/espacio/primera-multa-basura-espacial-ha-llegado-1316390'>La primera multa por basura espacial ha llegado  </a></h4>
+    <a href='https://computerhoy.com/espacio/primera-multa-basura-espacial-ha-llegado-1316390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/basura-espacial-2336789.jpg?tf=1200x' alt='La primera multa por basura espacial ha llegado  ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-prime-video-netflix-disney-spider-man-asesino-serie-mansion-encantada-1315570'>Qué películas ver este fin de semana en Prime Video, Netflix y Disney+: Spider Man, un asesino en serie y una mansión encantada</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-prime-video-netflix-disney-spider-man-asesino-serie-mansion-encantada-1315570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/peliculas-fin-semana-3188118.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Prime Video, Netflix y Disney+: Spider Man, un asesino en serie y una mansión encantada' />
+    <h4><a href='https://computerhoy.com/amazon/razon-siempre-deberias-conectar-fire-tv-alexa-1315764'>El beneficio oculto por el que siempre deberías conectar tu Amazon Fire TV con Alexa</a></h4>
+    <a href='https://computerhoy.com/amazon/razon-siempre-deberias-conectar-fire-tv-alexa-1315764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-fire-tv-alexa-3188362.jpg?tf=1200x' alt='El beneficio oculto por el que siempre deberías conectar tu Amazon Fire TV con Alexa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/torturas-violaciones-moderadores-redes-sociales-no-pueden-1316314'>Desmembramientos, torturas, violaciones, suicidios en directo: los moderadores de redes sociales no pueden más</a></h4>
-    <a href='https://computerhoy.com/redes/torturas-violaciones-moderadores-redes-sociales-no-pueden-1316314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/desmembramientos-torturas-violaciones-suicidios-directo-moderadores-redes-sociales-no-pueden-3188520.jpg?tf=1200x' alt='Desmembramientos, torturas, violaciones, suicidios en directo: los moderadores de redes sociales no pueden más' />
+    <h4><a href='https://computerhoy.com/ciencia/paciente-cero-terapia-genica-55-anos-21-biologicos-1316366'>Es la paciente cero de su terapia génica contra el envejecimiento y asegura haber conseguido pasar de 52 años biológicos a 21  </a></h4>
+    <a href='https://computerhoy.com/ciencia/paciente-cero-terapia-genica-55-anos-21-biologicos-1316366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/empresaria-protagonista-estudio-revertir-envejacimiento-3135140.jpg?tf=1200x' alt='Es la paciente cero de su terapia génica contra el envejecimiento y asegura haber conseguido pasar de 52 años biológicos a 21  ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/semana-oso-gordo-vota-favorito-1316310'>Comienza la Semana del Oso Gordo: vota por el que más kilos ha cogido para la hibernación</a></h4>
-    <a href='https://computerhoy.com/life/semana-oso-gordo-vota-favorito-1316310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/comienza-semana-oso-gordo-vota-kilos-ha-cogido-hibernacion-3188482.jpg?tf=1200x' alt='Comienza la Semana del Oso Gordo: vota por el que más kilos ha cogido para la hibernación' />
+    <h4><a href='https://computerhoy.com/pc/7-metodos-efectivos-arreglar-ordenador-va-lento-1315066'>7 métodos efectivos para arreglar un ordenador que va lento</a></h4>
+    <a href='https://computerhoy.com/pc/7-metodos-efectivos-arreglar-ordenador-va-lento-1315066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/7-metodos-efectivos-arreglar-ordenador-va-lento-3186296.jpg?tf=1200x' alt='7 métodos efectivos para arreglar un ordenador que va lento' />
     </a>
 </div>
 
