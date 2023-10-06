@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-no-puede-hacer-frente-gastos-chatgpt-valora-cambio-estrategia-1316106'>OpenAI no puede hacer frente a los gastos de ChatGPT y valora un cambio de estrategia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-no-puede-hacer-frente-gastos-chatgpt-valora-cambio-estrategia-1316106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/openai-chatgpt-3188102.jpg?tf=1200x' alt='OpenAI no puede hacer frente a los gastos de ChatGPT y valora un cambio de estrategia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-trabaja-2-versiones-ipad-air-ipad-mini-7-2024-1316172'>Apple trabaja en 2 versiones del iPad Air y un iPad Mini 7 que podrían llegar a principios de 2024</a></h4>
+    <a href='https://computerhoy.com/apple/apple-trabaja-2-versiones-ipad-air-ipad-mini-7-2024-1316172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ipad-mini-6a-generacion-2021-analisis-opinion-2501963.jpg?tf=1200x' alt='Apple trabaja en 2 versiones del iPad Air y un iPad Mini 7 que podrían llegar a principios de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-apple-tienen-rival-reloj-amazfit-usa-ia-entrenamientos-running-muy-barato-1314284'>Garmin y Apple tienen rival: este reloj Amazfit usa IA para tus entrenamientos de running y es sorprendentemente barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-apple-tienen-rival-reloj-amazfit-usa-ia-entrenamientos-running-muy-barato-1314284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazfit-cheetah-pro-3150278.jpg?tf=1200x' alt='Garmin y Apple tienen rival: este reloj Amazfit usa IA para tus entrenamientos de running y es sorprendentemente barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-muestra-gorra-teclado-puedes-escribir-verdad-1316154'>Así es la Google gorra: forma de tecla y con la que puedes escribir de verdad</a></h4>
+    <a href='https://computerhoy.com/google/google-muestra-gorra-teclado-puedes-escribir-verdad-1316154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-gorra-3188136.jpg?tf=1200x' alt='Así es la Google gorra: forma de tecla y con la que puedes escribir de verdad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-lucha-ganar-terreno-mientras-windows-10-llega-final-fabricantes-frotan-manos-1316096'>Windows 11 lucha por ganar terreno mientras Windows 10 llega a su final: los fabricantes se frotan las manos</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-lucha-ganar-terreno-mientras-windows-10-llega-final-fabricantes-frotan-manos-1316096' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/windows-11-3188060.jpg?tf=1200x' alt='Windows 11 lucha por ganar terreno mientras Windows 10 llega a su final: los fabricantes se frotan las manos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desmantelan-grupo-iptv-pirata-habia-ganado-25-millones-euros-1316090'>Importante victoria contra la IPTV pirata: desmantelan un grupo que había ganado más de 25 millones de euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desmantelan-grupo-iptv-pirata-habia-ganado-25-millones-euros-1316090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hombre-esposado-3188058.jpg?tf=1200x' alt='Importante victoria contra la IPTV pirata: desmantelan un grupo que había ganado más de 25 millones de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/dulce-acido-salado-amargo-umami-cloruro-amonio-1316064'>Dulce, ácido, salado, amargo, umami y, ¿un nuevo sabor llamado cloruro de amonio?</a></h4>
-    <a href='https://computerhoy.com/ciencia/dulce-acido-salado-amargo-umami-cloruro-amonio-1316064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sabores-3187974.jpg?tf=1200x' alt='Dulce, ácido, salado, amargo, umami y, ¿un nuevo sabor llamado cloruro de amonio?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-mapas-renueva-espana-monton-novedades-1316062'>Apple renueva Mapas con mejoras para España: modo para ciclistas, novedades para el Apple Watch y más</a></h4>
-    <a href='https://computerhoy.com/apple/apple-mapas-renueva-espana-monton-novedades-1316062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/apple-maps-ios-13.jpg?tf=1200x' alt='Apple renueva Mapas con mejoras para España: modo para ciclistas, novedades para el Apple Watch y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dia-mundial-sonrisa-celebra-6-octubre-1316056'>Día Mundial de la Sonrisa: ¿Por qué se celebra el 6 de octubre?</a></h4>
-    <a href='https://computerhoy.com/life/dia-mundial-sonrisa-celebra-6-octubre-1316056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dia-mundial-sonrisa-3187944.jpg?tf=1200x' alt='Día Mundial de la Sonrisa: ¿Por qué se celebra el 6 de octubre?' />
     </a>
 </div>
 
