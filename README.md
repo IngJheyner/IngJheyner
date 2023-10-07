@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/sociedad-nieve-ultima-pelicula-ja-bayona-netflix-1316456'>La sociedad de la nieve, la última película de J.A. Bayona, se estrenará en Netflix muy pronto</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/sociedad-nieve-ultima-pelicula-ja-bayona-netflix-1316456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sociedad-nieve-ultima-pelicula-ja-bayona-estrenara-netflix-muy-pronto-3188738.jpg?tf=1200x' alt='La sociedad de la nieve, la última película de J.A. Bayona, se estrenará en Netflix muy pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/seguro-dejar-movil-cargando-toda-noche-1316448'>¿Podría explotar la batería de tu móvil por dejarlo cargando toda la noche?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/seguro-dejar-movil-cargando-toda-noche-1316448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/podria-explotar-bateria-movil-dejarlo-cargando-toda-noche-3188742.jpg?tf=1200x' alt='¿Podría explotar la batería de tu móvil por dejarlo cargando toda la noche?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-ha-puesto-orbita-primeros-satelites-project-kuiper-1316452'>Amazon ha puesto en órbita con éxito sus primeros satélites para competir con Starlink de Elon Musk</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-ha-puesto-orbita-primeros-satelites-project-kuiper-1316452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-ha-puesto-orbita-exito-primeros-satelites-competir-starlink-elon-musk-3188732.jpg?tf=1200x' alt='Amazon ha puesto en órbita con éxito sus primeros satélites para competir con Starlink de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/lista-ceo-inteligentes-mundo-posicion-queda-elon-musk-1316444'>Esta es la lista de los CEO más inteligentes del mundo: ¿en qué posición queda Elon Musk?</a></h4>
     <a href='https://computerhoy.com/life/lista-ceo-inteligentes-mundo-posicion-queda-elon-musk-1316444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elon-musk-2698399.jpg?tf=1200x' alt='Esta es la lista de los CEO más inteligentes del mundo: ¿en qué posición queda Elon Musk?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/dazn-da-marcha-atras-recupera-paquete-laliga-ver-futbol-barato-1316442'>DAZN da marcha atrás y recupera el paquete de LaLiga para ver el fútbol más barato</a></h4>
     <a href='https://computerhoy.com/entretenimiento/dazn-da-marcha-atras-recupera-paquete-laliga-ver-futbol-barato-1316442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/futbol-3188724.jpg?tf=1200x' alt='DAZN da marcha atrás y recupera el paquete de LaLiga para ver el fútbol más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-16gb-ram-derrumba-precio-limites-inimaginables-ssd-1314306'>Este Mini PC con 16GB de RAM derrumba su precio a límites inimaginables, y con SSD</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mini-pc-16gb-ram-derrumba-precio-limites-inimaginables-ssd-1314306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/firebat-t9-pro-plus-3150374.jpg?tf=1200x' alt='Este Mini PC con 16GB de RAM derrumba su precio a límites inimaginables, y con SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/dance-dance-revolution-classic-mini-consola-konami-baile-1316438'>Dance Dance Revolution Classic Mini, la nueva mini consola de Konami... ¡Para bailar!</a></h4>
-    <a href='https://computerhoy.com/gaming/dance-dance-revolution-classic-mini-consola-konami-baile-1316438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1696617857612-3188706.jpg?tf=1200x' alt='Dance Dance Revolution Classic Mini, la nueva mini consola de Konami... ¡Para bailar!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sorprendente-origen-momias-cuenca-tarim-1315712'>Científicos en shock al descubrir el sorprendente origen de las momias de la cuenca del Tarim</a></h4>
-    <a href='https://computerhoy.com/life/sorprendente-origen-momias-cuenca-tarim-1315712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cientificos-shock-descubrir-sorprendente-origen-momias-cuenca-tarim-3187500.jpg?tf=1200x' alt='Científicos en shock al descubrir el sorprendente origen de las momias de la cuenca del Tarim' />
     </a>
 </div>
 
