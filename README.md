@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gente-triunfo-productos-tecnologia-no-te-esperas-1316248'>8 personas que tuvieron éxito con productos tecnológicos que nunca hubieses pensado que triunfarían</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gente-triunfo-productos-tecnologia-no-te-esperas-1316248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/palo-selfie-3188392.jpg?tf=1200x' alt='8 personas que tuvieron éxito con productos tecnológicos que nunca hubieses pensado que triunfarían' />
+    <h4><a href='https://computerhoy.com/apps/he-probado-app-navegacion-busca-competir-google-maps-waze-no-decepciona-1309118'>He probado una app de navegación que busca competir con Google Maps o Waze y no decepciona</a></h4>
+    <a href='https://computerhoy.com/apps/he-probado-app-navegacion-busca-competir-google-maps-waze-no-decepciona-1309118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/app-navegacion-3147796.jpg?tf=1200x' alt='He probado una app de navegación que busca competir con Google Maps o Waze y no decepciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/bola-piedra-mas-grande-mundo-natural-creada-humanos-1316020'>Encuentran la esfera de piedra más grande del mundo, ¿natural, o creada por una civilización perdida?</a></h4>
-    <a href='https://computerhoy.com/ciencia/bola-piedra-mas-grande-mundo-natural-creada-humanos-1316020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/encuentran-bola-piedra-grande-mundo-natural-creada-humanos-3187884.jpg?tf=1200x' alt='Encuentran la esfera de piedra más grande del mundo, ¿natural, o creada por una civilización perdida?' />
+    <h4><a href='https://computerhoy.com/moviles/no-digas-movil-camara-hace-muy-buenas-fotos-1314382'>Tu móvil/cámara hace muy buenas fotos...</a></h4>
+    <a href='https://computerhoy.com/moviles/no-digas-movil-camara-hace-muy-buenas-fotos-1314382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funcion-oculta-iphone-arruina-fotos-3115130.jpg?tf=1200x' alt='Tu móvil/cámara hace muy buenas fotos...' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263'>Mejores relojes inteligentes con micrófono para responder llamadas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187120.jpg?tf=1200x' alt='Mejores relojes inteligentes con micrófono para responder llamadas' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-videos-youtube-como-archivos-audio-1315810'>Cómo descargar vídeos de YouTube como archivos de audio</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-videos-youtube-como-archivos-audio-1315810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-descargar-videos-youtube-como-archivos-audio-3187670.jpg?tf=1200x' alt='Cómo descargar vídeos de YouTube como archivos de audio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/subasta-cabeza-original-c-3po-otras-1800-piezas-atrezzo-1316656'>A subasta la cabeza original de C-3PO de Star Wars, y otras 1.800 piezas de atrezzo míticas del cine </a></h4>
-    <a href='https://computerhoy.com/life/subasta-cabeza-original-c-3po-otras-1800-piezas-atrezzo-1316656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/subasta-cabeza-original-c-3po-otras-1800-piezas-atrezzo-miticas-cine-3188782.jpg?tf=1200x' alt='A subasta la cabeza original de C-3PO de Star Wars, y otras 1.800 piezas de atrezzo míticas del cine ' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mejores-tablets-leer-puedes-comprar-ahora-mismo-3002764.jpg?tf=1200x' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/sociedad-nieve-ultima-pelicula-ja-bayona-netflix-1316456'>La sociedad de la nieve, la última película de J.A. Bayona, se estrenará en Netflix muy pronto</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/sociedad-nieve-ultima-pelicula-ja-bayona-netflix-1316456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sociedad-nieve-ultima-pelicula-ja-bayona-estrenara-netflix-muy-pronto-3188738.jpg?tf=1200x' alt='La sociedad de la nieve, la última película de J.A. Bayona, se estrenará en Netflix muy pronto' />
+    <h4><a href='https://computerhoy.com/entretenimiento/cine-cabina-proyeccion-futuro-cine-llega-gracias-odeon-multicines-lg-1316126'>Cine sin cabina de proyección: el futuro del cine llega gracias a ODEON Multicines y LG</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cine-cabina-proyeccion-futuro-cine-llega-gracias-odeon-multicines-lg-1316126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/odeon-multicines-3188120.jpg?tf=1200x' alt='Cine sin cabina de proyección: el futuro del cine llega gracias a ODEON Multicines y LG' />
     </a>
 </div>
 
