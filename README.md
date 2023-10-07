@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/gato-culpable-apagar-sistema-informatico-hospital-saltar-teclado-1316782'>Un gato culpable de apagar el sistema informático de un hospital al saltar sobre el teclado</a></h4>
+    <a href='https://computerhoy.com/life/gato-culpable-apagar-sistema-informatico-hospital-saltar-teclado-1316782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/gato-frente-teclado-3189128.jpg?tf=1200x' alt='Un gato culpable de apagar el sistema informático de un hospital al saltar sobre el teclado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-inteligencia-artificial-capaz-disenar-robot-segundos-1316766'>Crean una inteligencia artificial capaz de diseñar un robot en segundos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-inteligencia-artificial-capaz-disenar-robot-segundos-1316766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/crean-inteligencia-artificial-disenar-robot-segundos-3189088.jpg?tf=1200x' alt='Crean una inteligencia artificial capaz de diseñar un robot en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/paciente-cero-terapia-genica-55-anos-21-biologicos-1316366'>Empresaria de 52 años biológicos afirmar haber rejuvenecido hasta los 21 con terapia génica</a></h4>
     <a href='https://computerhoy.com/ciencia/paciente-cero-terapia-genica-55-anos-21-biologicos-1316366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/empresaria-protagonista-estudio-revertir-envejacimiento-3135140.jpg?tf=1200x' alt='Empresaria de 52 años biológicos afirmar haber rejuvenecido hasta los 21 con terapia génica' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/android-auto-106-ya-disponible-todos-estrena-nuevo-boton-1316736'>Android Auto 10.6 ya está disponible para todos y estrena un nuevo botón</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-106-ya-disponible-todos-estrena-nuevo-boton-1316736' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg?tf=1200x' alt='Android Auto 10.6 ya está disponible para todos y estrena un nuevo botón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-estan-haciendo-uso-chatgpt-similares-crear-ataques-mucho-sofisticados-1316734'>Ciberdelincuentes están haciendo uso de ChatGPT y similares para crear ataques mucho más sofisticados</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-estan-haciendo-uso-chatgpt-similares-crear-ataques-mucho-sofisticados-1316734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/hacker-2513637.jpg?tf=1200x' alt='Ciberdelincuentes están haciendo uso de ChatGPT y similares para crear ataques mucho más sofisticados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ahora-wifi-no-funciona-bien-iphone-15-ultima-actualizacion-1316730'>Tras los problemas de sobrecalentamiento ahora el WiFi no funciona bien en los iPhone 15 tras la última actualización</a></h4>
-    <a href='https://computerhoy.com/apple/ahora-wifi-no-funciona-bien-iphone-15-ultima-actualizacion-1316730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-primeras-impresiones-3140302.jpg?tf=1200x' alt='Tras los problemas de sobrecalentamiento ahora el WiFi no funciona bien en los iPhone 15 tras la última actualización' />
     </a>
 </div>
 
