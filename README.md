@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-probado-app-navegacion-busca-competir-google-maps-waze-no-decepciona-1309118'>He probado una app de navegación que busca competir con Google Maps o Waze y no decepciona</a></h4>
-    <a href='https://computerhoy.com/apps/he-probado-app-navegacion-busca-competir-google-maps-waze-no-decepciona-1309118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/app-navegacion-3147796.jpg?tf=1200x' alt='He probado una app de navegación que busca competir con Google Maps o Waze y no decepciona' />
+    <h4><a href='https://computerhoy.com/espacio/cohete-espanol-miura-1-despega-exito-huelva-supone-espana-1316716'>El cohete español Miura 1 despega con éxito desde Huelva y esto es lo que supone para España</a></h4>
+    <a href='https://computerhoy.com/espacio/cohete-espanol-miura-1-despega-exito-huelva-supone-espana-1316716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/miura-1-3189046.jpg?tf=1200x' alt='El cohete español Miura 1 despega con éxito desde Huelva y esto es lo que supone para España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/no-digas-movil-camara-hace-muy-buenas-fotos-1314382'>Tu móvil/cámara hace muy buenas fotos...</a></h4>
-    <a href='https://computerhoy.com/moviles/no-digas-movil-camara-hace-muy-buenas-fotos-1314382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funcion-oculta-iphone-arruina-fotos-3115130.jpg?tf=1200x' alt='Tu móvil/cámara hace muy buenas fotos...' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-fusionar-eliminar-contactos-duplicados-android-1314934'>Cómo fusionar o eliminar contactos duplicados en Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-fusionar-eliminar-contactos-duplicados-android-1314934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/contacto-android-duplicado-3188290.jpg?tf=1200x' alt='Cómo fusionar o eliminar contactos duplicados en Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-videos-youtube-como-archivos-audio-1315810'>Cómo descargar vídeos de YouTube como archivos de audio</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-videos-youtube-como-archivos-audio-1315810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-descargar-videos-youtube-como-archivos-audio-3187670.jpg?tf=1200x' alt='Cómo descargar vídeos de YouTube como archivos de audio' />
+    <h4><a href='https://computerhoy.com/windows/intel-habla-indirectamente-existencia-windows-12-2024-1316702'>Intel habla indirectamente de la existencia de Windows 12 para 2024</a></h4>
+    <a href='https://computerhoy.com/windows/intel-habla-indirectamente-existencia-windows-12-2024-1316702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/windows-12-3143120.jpg?tf=1200x' alt='Intel habla indirectamente de la existencia de Windows 12 para 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/mejores-tablets-leer-puedes-comprar-ahora-mismo-3002764.jpg?tf=1200x' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/6-series-espanolas-han-arrasado-tambien-extranjero-1315100'>6 series españolas que han arrasado también en el extranjero</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/6-series-espanolas-han-arrasado-tambien-extranjero-1315100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/casa-papel-2550211.jpg?tf=1200x' alt='6 series españolas que han arrasado también en el extranjero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cine-cabina-proyeccion-futuro-cine-llega-gracias-odeon-multicines-lg-1316126'>Cine sin cabina de proyección: el futuro del cine llega gracias a ODEON Multicines y LG</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cine-cabina-proyeccion-futuro-cine-llega-gracias-odeon-multicines-lg-1316126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/odeon-multicines-3188120.jpg?tf=1200x' alt='Cine sin cabina de proyección: el futuro del cine llega gracias a ODEON Multicines y LG' />
+    <h4><a href='https://computerhoy.com/apple/merece-pena-comprar-iphone-15-pro-mi-opinion-analizarlo-detalle-1314486'>¿El mejor móvil del año? Mi opinión sobre las características clave del iPhone 15 Pro</a></h4>
+    <a href='https://computerhoy.com/apple/merece-pena-comprar-iphone-15-pro-mi-opinion-analizarlo-detalle-1314486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3143576.jpg?tf=1200x' alt='¿El mejor móvil del año? Mi opinión sobre las características clave del iPhone 15 Pro' />
     </a>
 </div>
 
