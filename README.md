@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/subasta-cabeza-original-c-3po-otras-1800-piezas-atrezzo-1316656'>A subasta la cabeza original de C-3PO de Star Wars, y otras 1.800 piezas de atrezzo míticas del cine </a></h4>
+    <a href='https://computerhoy.com/life/subasta-cabeza-original-c-3po-otras-1800-piezas-atrezzo-1316656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/subasta-cabeza-original-c-3po-otras-1800-piezas-atrezzo-miticas-cine-3188782.jpg?tf=1200x' alt='A subasta la cabeza original de C-3PO de Star Wars, y otras 1.800 piezas de atrezzo míticas del cine ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/sociedad-nieve-ultima-pelicula-ja-bayona-netflix-1316456'>La sociedad de la nieve, la última película de J.A. Bayona, se estrenará en Netflix muy pronto</a></h4>
     <a href='https://computerhoy.com/entretenimiento/sociedad-nieve-ultima-pelicula-ja-bayona-netflix-1316456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sociedad-nieve-ultima-pelicula-ja-bayona-estrenara-netflix-muy-pronto-3188738.jpg?tf=1200x' alt='La sociedad de la nieve, la última película de J.A. Bayona, se estrenará en Netflix muy pronto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/lista-ceo-inteligentes-mundo-posicion-queda-elon-musk-1316444'>Esta es la lista de los CEO más inteligentes del mundo: ¿en qué posición queda Elon Musk?</a></h4>
     <a href='https://computerhoy.com/life/lista-ceo-inteligentes-mundo-posicion-queda-elon-musk-1316444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elon-musk-2698399.jpg?tf=1200x' alt='Esta es la lista de los CEO más inteligentes del mundo: ¿en qué posición queda Elon Musk?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/dazn-da-marcha-atras-recupera-paquete-laliga-ver-futbol-barato-1316442'>DAZN da marcha atrás y recupera el paquete de LaLiga para ver el fútbol más barato</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/dazn-da-marcha-atras-recupera-paquete-laliga-ver-futbol-barato-1316442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/futbol-3188724.jpg?tf=1200x' alt='DAZN da marcha atrás y recupera el paquete de LaLiga para ver el fútbol más barato' />
     </a>
 </div>
 
