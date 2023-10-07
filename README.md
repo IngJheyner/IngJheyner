@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gente-triunfo-productos-tecnologia-no-te-esperas-1316248'>8 personas que tuvieron éxito con productos tecnológicos que nunca hubieses pensado que triunfarían</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gente-triunfo-productos-tecnologia-no-te-esperas-1316248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/palo-selfie-3188392.jpg?tf=1200x' alt='8 personas que tuvieron éxito con productos tecnológicos que nunca hubieses pensado que triunfarían' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/bola-piedra-mas-grande-mundo-natural-creada-humanos-1316020'>Encuentran la esfera de piedra más grande del mundo, ¿natural, o creada por una civilización perdida?</a></h4>
+    <a href='https://computerhoy.com/ciencia/bola-piedra-mas-grande-mundo-natural-creada-humanos-1316020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/encuentran-bola-piedra-grande-mundo-natural-creada-humanos-3187884.jpg?tf=1200x' alt='Encuentran la esfera de piedra más grande del mundo, ¿natural, o creada por una civilización perdida?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263'>Mejores relojes inteligentes con micrófono para responder llamadas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187120.jpg?tf=1200x' alt='Mejores relojes inteligentes con micrófono para responder llamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/subasta-cabeza-original-c-3po-otras-1800-piezas-atrezzo-1316656'>A subasta la cabeza original de C-3PO de Star Wars, y otras 1.800 piezas de atrezzo míticas del cine </a></h4>
     <a href='https://computerhoy.com/life/subasta-cabeza-original-c-3po-otras-1800-piezas-atrezzo-1316656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/subasta-cabeza-original-c-3po-otras-1800-piezas-atrezzo-miticas-cine-3188782.jpg?tf=1200x' alt='A subasta la cabeza original de C-3PO de Star Wars, y otras 1.800 piezas de atrezzo míticas del cine ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/sociedad-nieve-ultima-pelicula-ja-bayona-netflix-1316456'>La sociedad de la nieve, la última película de J.A. Bayona, se estrenará en Netflix muy pronto</a></h4>
     <a href='https://computerhoy.com/entretenimiento/sociedad-nieve-ultima-pelicula-ja-bayona-netflix-1316456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sociedad-nieve-ultima-pelicula-ja-bayona-estrenara-netflix-muy-pronto-3188738.jpg?tf=1200x' alt='La sociedad de la nieve, la última película de J.A. Bayona, se estrenará en Netflix muy pronto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/seguro-dejar-movil-cargando-toda-noche-1316448'>¿Podría explotar la batería de tu móvil por dejarlo cargando toda la noche?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/seguro-dejar-movil-cargando-toda-noche-1316448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/podria-explotar-bateria-movil-dejarlo-cargando-toda-noche-3188742.jpg?tf=1200x' alt='¿Podría explotar la batería de tu móvil por dejarlo cargando toda la noche?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-ha-puesto-orbita-primeros-satelites-project-kuiper-1316452'>Amazon ha puesto en órbita con éxito sus primeros satélites para competir con Starlink de Elon Musk</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-ha-puesto-orbita-primeros-satelites-project-kuiper-1316452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-ha-puesto-orbita-exito-primeros-satelites-competir-starlink-elon-musk-3188732.jpg?tf=1200x' alt='Amazon ha puesto en órbita con éxito sus primeros satélites para competir con Starlink de Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lista-ceo-inteligentes-mundo-posicion-queda-elon-musk-1316444'>Esta es la lista de los CEO más inteligentes del mundo: ¿en qué posición queda Elon Musk?</a></h4>
-    <a href='https://computerhoy.com/life/lista-ceo-inteligentes-mundo-posicion-queda-elon-musk-1316444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/elon-musk-2698399.jpg?tf=1200x' alt='Esta es la lista de los CEO más inteligentes del mundo: ¿en qué posición queda Elon Musk?' />
     </a>
 </div>
 
