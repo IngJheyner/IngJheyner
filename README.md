@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/error-android-auto-propia-google-no-sabe-como-resolver-1317036'>El error de Android Auto que la propia Google no sabe cómo resolver</a></h4>
+    <a href='https://computerhoy.com/apps/error-android-auto-propia-google-no-sabe-como-resolver-1317036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2591465.jpg?tf=1200x' alt='El error de Android Auto que la propia Google no sabe cómo resolver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/espana-avanza-futuro-cajeros-automaticos-sacaremos-dinero-espanoles-1317048'>España avanza hacia un futuro sin cajeros automáticos: así sacaremos dinero los españoles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/espana-avanza-futuro-cajeros-automaticos-sacaremos-dinero-espanoles-1317048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cajero-automatico-3189502.jpg?tf=1200x' alt='España avanza hacia un futuro sin cajeros automáticos: así sacaremos dinero los españoles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/investigadores-idean-forma-gestionar-todos-satelites-existentes-orbita-tierra-1317030'>Investigadores idean una forma de gestionar todos los satélites existentes en la órbita de la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/investigadores-idean-forma-gestionar-todos-satelites-existentes-orbita-tierra-1317030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/red-comunicacion-satelites-tierra-3189490.jpg?tf=1200x' alt='Investigadores idean una forma de gestionar todos los satélites existentes en la órbita de la Tierra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/extrano-robot-puede-ayudar-desmantelamiento-nuclear-1317022'>El extraño robot que puede ayudar en el desmantelamiento nuclear</a></h4>
     <a href='https://computerhoy.com/tecnologia/extrano-robot-puede-ayudar-desmantelamiento-nuclear-1317022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/desmantelamiento-nuclear-3189476.jpg?tf=1200x' alt='El extraño robot que puede ayudar en el desmantelamiento nuclear' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-grandes-cambios-siglo-xxi-han-revolucionado-vidas-todos-1308710'>Los 7 grandes cambios del siglo XXI que han revolucionado las vidas de todos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-grandes-cambios-siglo-xxi-han-revolucionado-vidas-todos-1308710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/avances-innovaciones-siglo-xxi-3143882.jpg?tf=1200x' alt='Los 7 grandes cambios del siglo XXI que han revolucionado las vidas de todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-quiere-saber-siempre-donde-vas-coche-evites-contaminacion-1317012'>Google quiere saber siempre a dónde vas con tu coche para que evites la contaminación</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-quiere-saber-siempre-donde-vas-coche-evites-contaminacion-1317012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/conducir-coche-3189464.jpg?tf=1200x' alt='Google quiere saber siempre a dónde vas con tu coche para que evites la contaminación' />
     </a>
 </div>
 
