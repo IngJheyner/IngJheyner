@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/trikarenos-chip-risc-v-creado-misiones-espaciales-1317112'>Trikarenos, el chip RISC-V para misiones espaciales que consume 300 veces menos que los chips de la NASA</a></h4>
+    <a href='https://computerhoy.com/pc/trikarenos-chip-risc-v-creado-misiones-espaciales-1317112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/trikarenos-chip-arquitectura-risc-v-creado-misiones-espaciales-3189574.jpg?tf=1200x' alt='Trikarenos, el chip RISC-V para misiones espaciales que consume 300 veces menos que los chips de la NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/cd-projekt-ha-gastado-millonada-arreglar-cyberpunk-2077-1317104'>CD Projekt se ha gastado tanto dinero en arreglar Cyberpunk 2077, que podría rodar una temporada completa de Juego de Tronos</a></h4>
+    <a href='https://computerhoy.com/gaming/cd-projekt-ha-gastado-millonada-arreglar-cyberpunk-2077-1317104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cd-projekt-ha-gastado-tanto-dinero-arreglar-cyberpunk-2077-podria-rodar-temporada-completa-juego-tronos-3189564.jpg?tf=1200x' alt='CD Projekt se ha gastado tanto dinero en arreglar Cyberpunk 2077, que podría rodar una temporada completa de Juego de Tronos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazfit-falcon-puede-ser-rival-apple-watch-ultra-estas-son-caracteristicas-1316792'>Amazfit Falcon: ¿puede ser rival para el Apple Watch Ultra? Estas son sus características</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazfit-falcon-puede-ser-rival-apple-watch-ultra-estas-son-caracteristicas-1316792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazfit-falcon-3189204.jpg?tf=1200x' alt='Amazfit Falcon: ¿puede ser rival para el Apple Watch Ultra? Estas son sus características' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/validrive-gratis-descubre-tienes-pendrive-usb-falso-1317094'>Compró 12 pendrives USB en Amazon y los 12 eran falsos: por eso ha creado esta aplicación gratuita que los detecta</a></h4>
     <a href='https://computerhoy.com/tecnologia/validrive-gratis-descubre-tienes-pendrive-usb-falso-1317094' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-aplicacion-gratuita-descubre-tienes-usb-falso-muestra-espacio-real-3189552.jpg?tf=1200x' alt='Compró 12 pendrives USB en Amazon y los 12 eran falsos: por eso ha creado esta aplicación gratuita que los detecta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/suspendio-quimica-universidad-hoy-ha-ganado-premio-nobel-1317074'>Suspendió su primer examen de química en la Universidad, esta semana ha ganado el Premio Nobel</a></h4>
     <a href='https://computerhoy.com/ciencia/suspendio-quimica-universidad-hoy-ha-ganado-premio-nobel-1317074' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/suspendio-primer-examen-quimica-universidad-semana-ha-ganado-premio-nobel-3189540.jpg?tf=1200x' alt='Suspendió su primer examen de química en la Universidad, esta semana ha ganado el Premio Nobel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/error-android-auto-propia-google-no-sabe-como-resolver-1317036'>El error de Android Auto que la propia Google no sabe cómo resolver</a></h4>
-    <a href='https://computerhoy.com/apps/error-android-auto-propia-google-no-sabe-como-resolver-1317036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2591465.jpg?tf=1200x' alt='El error de Android Auto que la propia Google no sabe cómo resolver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/espana-avanza-futuro-cajeros-automaticos-sacaremos-dinero-espanoles-1317048'>España avanza hacia un futuro sin cajeros automáticos: así sacaremos dinero los españoles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/espana-avanza-futuro-cajeros-automaticos-sacaremos-dinero-espanoles-1317048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cajero-automatico-3189502.jpg?tf=1200x' alt='España avanza hacia un futuro sin cajeros automáticos: así sacaremos dinero los españoles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/investigadores-idean-forma-gestionar-todos-satelites-existentes-orbita-tierra-1317030'>Investigadores idean una forma de gestionar todos los satélites existentes en la órbita de la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/investigadores-idean-forma-gestionar-todos-satelites-existentes-orbita-tierra-1317030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/red-comunicacion-satelites-tierra-3189490.jpg?tf=1200x' alt='Investigadores idean una forma de gestionar todos los satélites existentes en la órbita de la Tierra' />
     </a>
 </div>
 
