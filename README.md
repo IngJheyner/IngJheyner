@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estudio-relaciona-tener-pene-pequeno-comprarse-deportivo-1316794'>Un estudio psicológico encuentra relación entre tener el pene pequeño y comprarse un coche potente</a></h4>
-    <a href='https://computerhoy.com/life/estudio-relaciona-tener-pene-pequeno-comprarse-deportivo-1316794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estudio-encuentra-evidencia-psicologica-tener-pene-pequeno-comprarse-deportivo-3189176.jpg?tf=1200x' alt='Un estudio psicológico encuentra relación entre tener el pene pequeño y comprarse un coche potente' />
+    <h4><a href='https://computerhoy.com/life/reto-agudeza-visual-vasos-comunicantes-1316990'>¿Qué vaso se llena antes? El 99% falla este test de agudeza mental</a></h4>
+    <a href='https://computerhoy.com/life/reto-agudeza-visual-vasos-comunicantes-1316990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/vaso-llena-antes-99-falla-test-agudeza-mental-3189206.jpg?tf=1200x' alt='¿Qué vaso se llena antes? El 99% falla este test de agudeza mental' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/gato-culpable-apagar-sistema-informatico-hospital-saltar-teclado-1316782'>Un gato culpable de apagar el sistema informático de un hospital al saltar sobre el teclado</a></h4>
-    <a href='https://computerhoy.com/life/gato-culpable-apagar-sistema-informatico-hospital-saltar-teclado-1316782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/gato-frente-teclado-3189128.jpg?tf=1200x' alt='Un gato culpable de apagar el sistema informático de un hospital al saltar sobre el teclado' />
+    <h4><a href='https://computerhoy.com/tecnologia/metasuperficie-aplicaciones-tienen-dia-dia-1302818'>¿Qué es una metasuperficie y qué aplicaciones tienen en el día a día?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/metasuperficie-aplicaciones-tienen-dia-dia-1302818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1696579615737-3188064.jpg?tf=1200x' alt='¿Qué es una metasuperficie y qué aplicaciones tienen en el día a día?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-inteligencia-artificial-capaz-disenar-robot-segundos-1316766'>Crean una inteligencia artificial capaz de diseñar un robot en segundos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-inteligencia-artificial-capaz-disenar-robot-segundos-1316766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/crean-inteligencia-artificial-disenar-robot-segundos-3189088.jpg?tf=1200x' alt='Crean una inteligencia artificial capaz de diseñar un robot en segundos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-quitar-pegatinas-restos-pegamento-cualquier-superficie-1316022'>Cómo quitar pegatinas y los restos de pegamento de cualquier superficie</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-quitar-pegatinas-restos-pegamento-cualquier-superficie-1316022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pegatinas-ordenador-portatil-3188354.jpg?tf=1200x' alt='Cómo quitar pegatinas y los restos de pegamento de cualquier superficie' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/paciente-cero-terapia-genica-55-anos-21-biologicos-1316366'>Empresaria de 52 años biológicos afirmar haber rejuvenecido hasta los 21 con terapia génica</a></h4>
-    <a href='https://computerhoy.com/ciencia/paciente-cero-terapia-genica-55-anos-21-biologicos-1316366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/empresaria-protagonista-estudio-revertir-envejacimiento-3135140.jpg?tf=1200x' alt='Empresaria de 52 años biológicos afirmar haber rejuvenecido hasta los 21 con terapia génica' />
+    <h4><a href='https://computerhoy.com/tecnologia/crean-super-parrilla-inteligencia-artificial-capaz-cocinar-comida-10-veces-rapido-1316772'>Crean una súper parrilla con inteligencia artificial capaz de cocinar comida 10 veces más rápido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-super-parrilla-inteligencia-artificial-capaz-cocinar-comida-10-veces-rapido-1316772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/parilla-inteligente-perfecta-3189100.jpg?tf=1200x' alt='Crean una súper parrilla con inteligencia artificial capaz de cocinar comida 10 veces más rápido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-quiere-construir-casas-luna-2040-1316740'>La NASA quiere construir casas en la Luna para 2040</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-quiere-construir-casas-luna-2040-1316740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nasa-quiere-construir-casas-luna-2040-3189068.jpg?tf=1200x' alt='La NASA quiere construir casas en la Luna para 2040' />
+    <h4><a href='https://computerhoy.com/tecnologia/7-gadgets-uso-mi-dia-dia-son-especialmente-utiles-1308564'>Los 7 gadgets que uso en mi día a día y que son especialmente útiles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-gadgets-uso-mi-dia-dia-son-especialmente-utiles-1308564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gadgets-uso-mi-dia-dia-3140590.jpg?tf=1200x' alt='Los 7 gadgets que uso en mi día a día y que son especialmente útiles' />
     </a>
 </div>
 
