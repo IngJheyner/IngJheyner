@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/validrive-gratis-descubre-tienes-pendrive-usb-falso-1317094'>Compró 12 pendrives USB en Amazon y los 12 eran falsos: por eso ha creado esta aplicación gratuita que los detecta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/validrive-gratis-descubre-tienes-pendrive-usb-falso-1317094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-aplicacion-gratuita-descubre-tienes-usb-falso-muestra-espacio-real-3189552.jpg?tf=1200x' alt='Compró 12 pendrives USB en Amazon y los 12 eran falsos: por eso ha creado esta aplicación gratuita que los detecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/suspendio-quimica-universidad-hoy-ha-ganado-premio-nobel-1317074'>Suspendió su primer examen de química en la Universidad, esta semana ha ganado el Premio Nobel</a></h4>
+    <a href='https://computerhoy.com/ciencia/suspendio-quimica-universidad-hoy-ha-ganado-premio-nobel-1317074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/suspendio-primer-examen-quimica-universidad-semana-ha-ganado-premio-nobel-3189540.jpg?tf=1200x' alt='Suspendió su primer examen de química en la Universidad, esta semana ha ganado el Premio Nobel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/error-android-auto-propia-google-no-sabe-como-resolver-1317036'>El error de Android Auto que la propia Google no sabe cómo resolver</a></h4>
     <a href='https://computerhoy.com/apps/error-android-auto-propia-google-no-sabe-como-resolver-1317036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2591465.jpg?tf=1200x' alt='El error de Android Auto que la propia Google no sabe cómo resolver' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/investigadores-idean-forma-gestionar-todos-satelites-existentes-orbita-tierra-1317030'>Investigadores idean una forma de gestionar todos los satélites existentes en la órbita de la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/investigadores-idean-forma-gestionar-todos-satelites-existentes-orbita-tierra-1317030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/red-comunicacion-satelites-tierra-3189490.jpg?tf=1200x' alt='Investigadores idean una forma de gestionar todos los satélites existentes en la órbita de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-fusionar-eliminar-contactos-duplicados-iphone-1314422'>Cómo fusionar o eliminar contactos duplicados en iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-fusionar-eliminar-contactos-duplicados-iphone-1314422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fusionar-contactos-iphone-3187574.jpg?tf=1200x' alt='Cómo fusionar o eliminar contactos duplicados en iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/extrano-robot-puede-ayudar-desmantelamiento-nuclear-1317022'>El extraño robot que puede ayudar en el desmantelamiento nuclear</a></h4>
-    <a href='https://computerhoy.com/tecnologia/extrano-robot-puede-ayudar-desmantelamiento-nuclear-1317022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/desmantelamiento-nuclear-3189476.jpg?tf=1200x' alt='El extraño robot que puede ayudar en el desmantelamiento nuclear' />
     </a>
 </div>
 
