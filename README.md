@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/jupiter-primer-superordenador-exaflop-union-europea-1317124'>La Unión Europea anuncia Júpiter, su primer superordenador que supera el exaFLOP de potencia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/jupiter-primer-superordenador-exaflop-union-europea-1317124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/union-europea-anuncia-jupiter-primer-superordenador-supera-exaflop-potencia-3189636.jpg?tf=1200x' alt='La Unión Europea anuncia Júpiter, su primer superordenador que supera el exaFLOP de potencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/trikarenos-chip-risc-v-creado-misiones-espaciales-1317112'>Trikarenos, el chip RISC-V para misiones espaciales que consume 300 veces menos que los chips de la NASA</a></h4>
     <a href='https://computerhoy.com/pc/trikarenos-chip-risc-v-creado-misiones-espaciales-1317112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/trikarenos-chip-arquitectura-risc-v-creado-misiones-espaciales-3189574.jpg?tf=1200x' alt='Trikarenos, el chip RISC-V para misiones espaciales que consume 300 veces menos que los chips de la NASA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/validrive-gratis-descubre-tienes-pendrive-usb-falso-1317094'>Compró 12 pendrives USB en Amazon y los 12 eran falsos: por eso ha creado esta aplicación gratuita que los detecta</a></h4>
     <a href='https://computerhoy.com/tecnologia/validrive-gratis-descubre-tienes-pendrive-usb-falso-1317094' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-aplicacion-gratuita-descubre-tienes-usb-falso-muestra-espacio-real-3189552.jpg?tf=1200x' alt='Compró 12 pendrives USB en Amazon y los 12 eran falsos: por eso ha creado esta aplicación gratuita que los detecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/suspendio-quimica-universidad-hoy-ha-ganado-premio-nobel-1317074'>Suspendió su primer examen de química en la Universidad, esta semana ha ganado el Premio Nobel</a></h4>
-    <a href='https://computerhoy.com/ciencia/suspendio-quimica-universidad-hoy-ha-ganado-premio-nobel-1317074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/suspendio-primer-examen-quimica-universidad-semana-ha-ganado-premio-nobel-3189540.jpg?tf=1200x' alt='Suspendió su primer examen de química en la Universidad, esta semana ha ganado el Premio Nobel' />
     </a>
 </div>
 
