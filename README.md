@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/regla-5-horas-todos-dias-sean-productivos-usan-elon-musk-bill-gates-1086543'>La regla de las 5 horas para que todos los días sean productivos que usan Elon Musk y Bill Gates</a></h4>
-    <a href='https://computerhoy.com/noticias/life/regla-5-horas-todos-dias-sean-productivos-usan-elon-musk-bill-gates-1086543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg?tf=1200x' alt='La regla de las 5 horas para que todos los días sean productivos que usan Elon Musk y Bill Gates' />
+    <h4><a href='https://computerhoy.com/espacio/investigadores-idean-forma-gestionar-todos-satelites-existentes-orbita-tierra-1317030'>Investigadores idean una forma de gestionar todos los satélites existentes en la órbita de la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/investigadores-idean-forma-gestionar-todos-satelites-existentes-orbita-tierra-1317030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/red-comunicacion-satelites-tierra-3189490.jpg?tf=1200x' alt='Investigadores idean una forma de gestionar todos los satélites existentes en la órbita de la Tierra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-movil-sea-imposible-rastrear-1311752'>Cómo hacer que tu móvil sea imposible de rastrear para proteger tus datos e información</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-movil-sea-imposible-rastrear-1311752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-hacer-movil-sea-imposible-rastrear-proteger-datos-informacion-3146326.jpg?tf=1200x' alt='Cómo hacer que tu móvil sea imposible de rastrear para proteger tus datos e información' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-fusionar-eliminar-contactos-duplicados-iphone-1314422'>Cómo fusionar o eliminar contactos duplicados en iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-fusionar-eliminar-contactos-duplicados-iphone-1314422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fusionar-contactos-iphone-3187574.jpg?tf=1200x' alt='Cómo fusionar o eliminar contactos duplicados en iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-presume-16gb-ram-pantalla-2k-pero-todo-precio-increiblemente-1316786'>Esta tablet presume de 16GB de RAM y pantalla 2K, pero sobre todo de precio increíblemente bajo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-presume-16gb-ram-pantalla-2k-pero-todo-precio-increiblemente-1316786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teclast-t50-3189134.jpg?tf=1200x' alt='Esta tablet presume de 16GB de RAM y pantalla 2K, pero sobre todo de precio increíblemente bajo' />
+    <h4><a href='https://computerhoy.com/tecnologia/extrano-robot-puede-ayudar-desmantelamiento-nuclear-1317022'>El extraño robot que puede ayudar en el desmantelamiento nuclear</a></h4>
+    <a href='https://computerhoy.com/tecnologia/extrano-robot-puede-ayudar-desmantelamiento-nuclear-1317022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/desmantelamiento-nuclear-3189476.jpg?tf=1200x' alt='El extraño robot que puede ayudar en el desmantelamiento nuclear' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/he-probado-metodo-monje-durante-tres-dias-romper-procrastinacion-no-me-ha-resultado-nada-facil-1315568'>He probado el Método Monje para romper con la procrastinación y no me ha resultado nada fácil</a></h4>
-    <a href='https://computerhoy.com/life/he-probado-metodo-monje-durante-tres-dias-romper-procrastinacion-no-me-ha-resultado-nada-facil-1315568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/metodo-monje-3187172.jpg?tf=1200x' alt='He probado el Método Monje para romper con la procrastinación y no me ha resultado nada fácil' />
+    <h4><a href='https://computerhoy.com/tecnologia/7-grandes-cambios-siglo-xxi-han-revolucionado-vidas-todos-1308710'>Los 7 grandes cambios del siglo XXI que han revolucionado las vidas de todos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-grandes-cambios-siglo-xxi-han-revolucionado-vidas-todos-1308710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/avances-innovaciones-siglo-xxi-3143882.jpg?tf=1200x' alt='Los 7 grandes cambios del siglo XXI que han revolucionado las vidas de todos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/reto-agudeza-visual-vasos-comunicantes-1316990'>¿Qué vaso se llena antes? El 99% falla este test de agudeza mental</a></h4>
-    <a href='https://computerhoy.com/life/reto-agudeza-visual-vasos-comunicantes-1316990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/vaso-llena-antes-99-falla-test-agudeza-mental-3189206.jpg?tf=1200x' alt='¿Qué vaso se llena antes? El 99% falla este test de agudeza mental' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-quiere-saber-siempre-donde-vas-coche-evites-contaminacion-1317012'>Google quiere saber siempre a dónde vas con tu coche para que evites la contaminación</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-quiere-saber-siempre-donde-vas-coche-evites-contaminacion-1317012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/conducir-coche-3189464.jpg?tf=1200x' alt='Google quiere saber siempre a dónde vas con tu coche para que evites la contaminación' />
     </a>
 </div>
 
