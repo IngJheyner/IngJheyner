@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/regla-5-horas-todos-dias-sean-productivos-usan-elon-musk-bill-gates-1086543'>La regla de las 5 horas para que todos los días sean productivos que usan Elon Musk y Bill Gates</a></h4>
+    <a href='https://computerhoy.com/noticias/life/regla-5-horas-todos-dias-sean-productivos-usan-elon-musk-bill-gates-1086543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg?tf=1200x' alt='La regla de las 5 horas para que todos los días sean productivos que usan Elon Musk y Bill Gates' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-movil-sea-imposible-rastrear-1311752'>Cómo hacer que tu móvil sea imposible de rastrear para proteger tus datos e información</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-movil-sea-imposible-rastrear-1311752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-hacer-movil-sea-imposible-rastrear-proteger-datos-informacion-3146326.jpg?tf=1200x' alt='Cómo hacer que tu móvil sea imposible de rastrear para proteger tus datos e información' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-presume-16gb-ram-pantalla-2k-pero-todo-precio-increiblemente-1316786'>Esta tablet presume de 16GB de RAM y pantalla 2K, pero sobre todo de precio increíblemente bajo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-presume-16gb-ram-pantalla-2k-pero-todo-precio-increiblemente-1316786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teclast-t50-3189134.jpg?tf=1200x' alt='Esta tablet presume de 16GB de RAM y pantalla 2K, pero sobre todo de precio increíblemente bajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/he-probado-metodo-monje-durante-tres-dias-romper-procrastinacion-no-me-ha-resultado-nada-facil-1315568'>He probado el Método Monje para romper con la procrastinación y no me ha resultado nada fácil</a></h4>
+    <a href='https://computerhoy.com/life/he-probado-metodo-monje-durante-tres-dias-romper-procrastinacion-no-me-ha-resultado-nada-facil-1315568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/metodo-monje-3187172.jpg?tf=1200x' alt='He probado el Método Monje para romper con la procrastinación y no me ha resultado nada fácil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/reto-agudeza-visual-vasos-comunicantes-1316990'>¿Qué vaso se llena antes? El 99% falla este test de agudeza mental</a></h4>
     <a href='https://computerhoy.com/life/reto-agudeza-visual-vasos-comunicantes-1316990' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/vaso-llena-antes-99-falla-test-agudeza-mental-3189206.jpg?tf=1200x' alt='¿Qué vaso se llena antes? El 99% falla este test de agudeza mental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/metasuperficie-aplicaciones-tienen-dia-dia-1302818'>¿Qué es una metasuperficie y qué aplicaciones tienen en el día a día?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/metasuperficie-aplicaciones-tienen-dia-dia-1302818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1696579615737-3188064.jpg?tf=1200x' alt='¿Qué es una metasuperficie y qué aplicaciones tienen en el día a día?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-quitar-pegatinas-restos-pegamento-cualquier-superficie-1316022'>Cómo quitar pegatinas y los restos de pegamento de cualquier superficie</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-quitar-pegatinas-restos-pegamento-cualquier-superficie-1316022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pegatinas-ordenador-portatil-3188354.jpg?tf=1200x' alt='Cómo quitar pegatinas y los restos de pegamento de cualquier superficie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-super-parrilla-inteligencia-artificial-capaz-cocinar-comida-10-veces-rapido-1316772'>Crean una súper parrilla con inteligencia artificial capaz de cocinar comida 10 veces más rápido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-super-parrilla-inteligencia-artificial-capaz-cocinar-comida-10-veces-rapido-1316772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/parilla-inteligente-perfecta-3189100.jpg?tf=1200x' alt='Crean una súper parrilla con inteligencia artificial capaz de cocinar comida 10 veces más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-gadgets-uso-mi-dia-dia-son-especialmente-utiles-1308564'>Los 7 gadgets que uso en mi día a día y que son especialmente útiles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-gadgets-uso-mi-dia-dia-son-especialmente-utiles-1308564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gadgets-uso-mi-dia-dia-3140590.jpg?tf=1200x' alt='Los 7 gadgets que uso en mi día a día y que son especialmente útiles' />
     </a>
 </div>
 
