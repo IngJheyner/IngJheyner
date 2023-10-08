@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estudio-relaciona-tener-pene-pequeno-comprarse-deportivo-1316794'>Un estudio psicológico encuentra relación entre tener el pene pequeño y comprarse un coche potente</a></h4>
+    <a href='https://computerhoy.com/life/estudio-relaciona-tener-pene-pequeno-comprarse-deportivo-1316794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estudio-encuentra-evidencia-psicologica-tener-pene-pequeno-comprarse-deportivo-3189176.jpg?tf=1200x' alt='Un estudio psicológico encuentra relación entre tener el pene pequeño y comprarse un coche potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/gato-culpable-apagar-sistema-informatico-hospital-saltar-teclado-1316782'>Un gato culpable de apagar el sistema informático de un hospital al saltar sobre el teclado</a></h4>
     <a href='https://computerhoy.com/life/gato-culpable-apagar-sistema-informatico-hospital-saltar-teclado-1316782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/gato-frente-teclado-3189128.jpg?tf=1200x' alt='Un gato culpable de apagar el sistema informático de un hospital al saltar sobre el teclado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-quiere-construir-casas-luna-2040-1316740'>La NASA quiere construir casas en la Luna para 2040</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-quiere-construir-casas-luna-2040-1316740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nasa-quiere-construir-casas-luna-2040-3189068.jpg?tf=1200x' alt='La NASA quiere construir casas en la Luna para 2040' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-106-ya-disponible-todos-estrena-nuevo-boton-1316736'>Android Auto 10.6 ya está disponible para todos y estrena un nuevo botón</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-106-ya-disponible-todos-estrena-nuevo-boton-1316736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg?tf=1200x' alt='Android Auto 10.6 ya está disponible para todos y estrena un nuevo botón' />
     </a>
 </div>
 
