@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/100-peliculas-gratis-ps4-ps5-playstation-plus-premium-1317708'>Estas son las 100 películas gratis que puedes ver en PS4 y PS5 si tienes PlayStation Plus</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/100-peliculas-gratis-ps4-ps5-playstation-plus-premium-1317708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estas-son-100-peliculas-gratis-puedes-ver-ps4-ps5-tienes-playstation-plus-3190628.jpg?tf=1200x' alt='Estas son las 100 películas gratis que puedes ver en PS4 y PS5 si tienes PlayStation Plus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/como-saber-radar-dgt-encendido-apagado-1317698'>El truco definitivo para saber si un radar de la DGT está encendido</a></h4>
     <a href='https://computerhoy.com/motor/como-saber-radar-dgt-encendido-apagado-1317698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radar-dgt-2206447.jpg?tf=1200x' alt='El truco definitivo para saber si un radar de la DGT está encendido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/moviles-xiaomi-podrian-recibir-cambio-importante-historia-1317686'>Los móviles Xiaomi podrían recibir el cambio más importante de su historia</a></h4>
     <a href='https://computerhoy.com/moviles/moviles-xiaomi-podrian-recibir-cambio-importante-historia-1317686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-3190620.jpg?tf=1200x' alt='Los móviles Xiaomi podrían recibir el cambio más importante de su historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/clave-hijo-sea-inteligente-expertos-1304054'>La fórmula mágica para que tu hijo sea más inteligente, según los expertos de Cambridge</a></h4>
-    <a href='https://computerhoy.com/life/clave-hijo-sea-inteligente-expertos-1304054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nino-gafas-3017336.jpg?tf=1200x' alt='La fórmula mágica para que tu hijo sea más inteligente, según los expertos de Cambridge' />
     </a>
 </div>
 
