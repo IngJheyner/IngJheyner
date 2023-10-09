@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Fiesta de Ofertas Prime Day de Amazon 2023: primeros descuentos y chollos, en directo</a></h4>
+    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Fiesta de Ofertas Prime Day de Amazon 2023, en directo con todas las mejores ofertas</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Fiesta de Ofertas Prime Day de Amazon 2023: primeros descuentos y chollos, en directo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Fiesta de Ofertas Prime Day de Amazon 2023, en directo con todas las mejores ofertas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/100-peliculas-gratis-ps4-ps5-playstation-plus-premium-1317708'>Estas son las 100 películas gratis que puedes ver en PS4 y PS5 si tienes PlayStation Plus</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/100-peliculas-gratis-ps4-ps5-playstation-plus-premium-1317708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estas-son-100-peliculas-gratis-puedes-ver-ps4-ps5-tienes-playstation-plus-3190628.jpg?tf=1200x' alt='Estas son las 100 películas gratis que puedes ver en PS4 y PS5 si tienes PlayStation Plus' />
+    <h4><a href='https://computerhoy.com/google/google-gmail-reacciones-emoji-1317714'>Google anuncia cuándo podremos responder a los emails en Gmail con un emoji</a></h4>
+    <a href='https://computerhoy.com/google/google-gmail-reacciones-emoji-1317714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-anuncia-cuando-podremos-responder-emails-gmail-emoji-3190652.jpg?tf=1200x' alt='Google anuncia cuándo podremos responder a los emails en Gmail con un emoji' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/como-saber-radar-dgt-encendido-apagado-1317698'>El truco definitivo para saber si un radar de la DGT está encendido</a></h4>
-    <a href='https://computerhoy.com/motor/como-saber-radar-dgt-encendido-apagado-1317698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radar-dgt-2206447.jpg?tf=1200x' alt='El truco definitivo para saber si un radar de la DGT está encendido' />
+    <h4><a href='https://computerhoy.com/tecnologia/cascos-top-mercado-desploman-precio-rozan-300-euros-prime-day-1316416'>Los cascos más top del mercado desploman su precio y rozan los 300 euros en el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cascos-top-mercado-desploman-precio-rozan-300-euros-prime-day-1316416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sony-wh-1000xm5-analisis-opinion-2891374.jpg?tf=1200x' alt='Los cascos más top del mercado desploman su precio y rozan los 300 euros en el Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-actualiza-lista-modelos-iphone-potencialmente-peligrosos-ya-no-deberias-utilizar-1317690'>Apple actualiza la lista de modelos de iPhone potencialmente peligrosos que ya no deberías utilizar</a></h4>
-    <a href='https://computerhoy.com/apple/apple-actualiza-lista-modelos-iphone-potencialmente-peligrosos-ya-no-deberias-utilizar-1317690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/modelos-iphone-3190632.jpg?tf=1200x' alt='Apple actualiza la lista de modelos de iPhone potencialmente peligrosos que ya no deberías utilizar' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-quiere-reventar-amazon-prime-day-puede-lograr-nuevos-pixel-estrenan-ofertas-1316350'>Google quiere reventar el Amazon Prime Day y lo puede lograr: sus nuevos Pixel se estrenan con ofertas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-quiere-reventar-amazon-prime-day-puede-lograr-nuevos-pixel-estrenan-ofertas-1316350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-3188558.jpg?tf=1200x' alt='Google quiere reventar el Amazon Prime Day y lo puede lograr: sus nuevos Pixel se estrenan con ofertas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/moviles-xiaomi-podrian-recibir-cambio-importante-historia-1317686'>Los móviles Xiaomi podrían recibir el cambio más importante de su historia</a></h4>
-    <a href='https://computerhoy.com/moviles/moviles-xiaomi-podrian-recibir-cambio-importante-historia-1317686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-3190620.jpg?tf=1200x' alt='Los móviles Xiaomi podrían recibir el cambio más importante de su historia' />
+    <h4><a href='https://computerhoy.com/tecnologia/tiemble-apple-desploma-precio-movil-samsung-top-400eu-descuento-1316748'>Que tiemble Apple: se desploma el precio del móvil Samsung más top con 400€ de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiemble-apple-desploma-precio-movil-samsung-top-400eu-descuento-1316748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/samsung-galaxy-s23-ultra-3189066.jpg?tf=1200x' alt='Que tiemble Apple: se desploma el precio del móvil Samsung más top con 400€ de descuento' />
     </a>
 </div>
 
