@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/como-conseguir-cupones-descuento-amazon-prime-day-octubre-empieza-ya-1317064'>Cómo conseguir cupones descuento para el Amazon Prime Day de octubre que empieza ya</a></h4>
-    <a href='https://computerhoy.com/amazon/como-conseguir-cupones-descuento-amazon-prime-day-octubre-empieza-ya-1317064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-day-3081434.jpg?tf=1200x' alt='Cómo conseguir cupones descuento para el Amazon Prime Day de octubre que empieza ya' />
+    <h4><a href='https://computerhoy.com/motor/adaptador-desbloquea-android-completo-carplay-android-auto-1317392'>Este adaptador desbloquea todas las funciones de Android en coches con CarPlay o Android Auto y sin cables</a></h4>
+    <a href='https://computerhoy.com/motor/adaptador-desbloquea-android-completo-carplay-android-auto-1317392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/carluex-pro-3190002.jpg?tf=1200x' alt='Este adaptador desbloquea todas las funciones de Android en coches con CarPlay o Android Auto y sin cables' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/estas-son-marcas-chips-moviles-vendidas-mundo-2023-1311082'>MediaTek resiste como la marca que más chips para móviles vende, pero retrocede y otros 2 fabricantes la superan en ingresos</a></h4>
-    <a href='https://computerhoy.com/industria/estas-son-marcas-chips-moviles-vendidas-mundo-2023-1311082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mediatek-qualcomm-3145610.jpg?tf=1200x' alt='MediaTek resiste como la marca que más chips para móviles vende, pero retrocede y otros 2 fabricantes la superan en ingresos' />
+    <h4><a href='https://computerhoy.com/motor/epica-busqueda-rolls-royce-200000-dolares-surcando-cielos-encontrarlo-1317342'>La épica búsqueda de un Rolls Royce de 200.000 dólares: surcando los cielos para encontrarlo</a></h4>
+    <a href='https://computerhoy.com/motor/epica-busqueda-rolls-royce-200000-dolares-surcando-cielos-encontrarlo-1317342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/rolls-royce-morado-3189942.jpg?tf=1200x' alt='La épica búsqueda de un Rolls Royce de 200.000 dólares: surcando los cielos para encontrarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/carritos-supermercado-te-cobran-compra-1317126'>Se estrenan en Japón los carritos de supermercado que te cobran la compra: así funcionan</a></h4>
-    <a href='https://computerhoy.com/alimentacion/carritos-supermercado-te-cobran-compra-1317126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estrenan-japon-carritos-supermercado-cajero-incorporado-funcionan-3189650.jpg?tf=1200x' alt='Se estrenan en Japón los carritos de supermercado que te cobran la compra: así funcionan' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-lia-calienta-prime-day-desploma-precio-moviles-top-5g-1317024'>Xiaomi la lía y calienta el Prime Day de octubre: desploma el precio de uno de sus móviles más top, con 5G y pantalla AMOLED</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-lia-calienta-prime-day-desploma-precio-moviles-top-5g-1317024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-note-12-pro-5g-3189474.jpg?tf=1200x' alt='Xiaomi la lía y calienta el Prime Day de octubre: desploma el precio de uno de sus móviles más top, con 5G y pantalla AMOLED' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jupiter-primer-superordenador-exaflop-union-europea-1317124'>La Unión Europea anuncia Júpiter, su primer superordenador que supera el exaFLOP de potencia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jupiter-primer-superordenador-exaflop-union-europea-1317124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/union-europea-anuncia-jupiter-primer-superordenador-supera-exaflop-potencia-3189636.jpg?tf=1200x' alt='La Unión Europea anuncia Júpiter, su primer superordenador que supera el exaFLOP de potencia' />
+    <h4><a href='https://computerhoy.com/criptos/shiba-dispara-750-menos-24-horas-1317334'>Shiba, el autoproclamado "asesino de Dogecoin", se dispara más de un 750% en 24 horas</a></h4>
+    <a href='https://computerhoy.com/criptos/shiba-dispara-750-menos-24-horas-1317334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ballenas-ponen-ojos-shiba-inu-como-podria-afectar-precio-2890232.jpg?tf=1200x' alt='Shiba, el autoproclamado "asesino de Dogecoin", se dispara más de un 750% en 24 horas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/trikarenos-chip-risc-v-creado-misiones-espaciales-1317112'>Trikarenos, el chip RISC-V para misiones espaciales que consume 300 veces menos que los chips de la NASA</a></h4>
-    <a href='https://computerhoy.com/pc/trikarenos-chip-risc-v-creado-misiones-espaciales-1317112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/trikarenos-chip-arquitectura-risc-v-creado-misiones-espaciales-3189574.jpg?tf=1200x' alt='Trikarenos, el chip RISC-V para misiones espaciales que consume 300 veces menos que los chips de la NASA' />
+    <h4><a href='https://computerhoy.com/google/google-chrome-quiere-evitar-navegador-convierta-caos-novedad-1317322'>Google Chrome quiere evitar que tu navegador se convierta en un caos con esta novedad</a></h4>
+    <a href='https://computerhoy.com/google/google-chrome-quiere-evitar-navegador-convierta-caos-novedad-1317322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-chrome-3124666.jpg?tf=1200x' alt='Google Chrome quiere evitar que tu navegador se convierta en un caos con esta novedad' />
     </a>
 </div>
 
