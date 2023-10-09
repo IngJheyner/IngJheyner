@@ -50,33 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/toxico-metodo-bill-gates-clasificar-empleados-1317582'>El tóxico método de Bill Gates para decidir quiénes eran los mejores empleados de Microsoft </a></h4>
-    <a href='https://computerhoy.com/life/toxico-metodo-bill-gates-clasificar-empleados-1317582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bill-gates-toxico-3190460.jpg?tf=1200x' alt='El tóxico método de Bill Gates para decidir quiénes eran los mejores empleados de Microsoft ' />
+    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Prime Day de octubre: Fiesta de Ofertas Prime de Amazon, en directo</a></h4>
+    <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Prime Day de octubre: Fiesta de Ofertas Prime de Amazon, en directo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-ocultar-numero-telefono-telegram-1315670'>Cómo ocultar tu número de teléfono en Telegram</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-ocultar-numero-telefono-telegram-1315670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-ocultar-numero-telefono-telegram-3187416.jpg?tf=1200x' alt='Cómo ocultar tu número de teléfono en Telegram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/conductor-secuestrado-coche-electrico-1317566'>Un conductor es secuestrado por su coche eléctrico MG ZS EV y tiene que intervenir la policía </a></h4>
-    <a href='https://computerhoy.com/motor/conductor-secuestrado-coche-electrico-1317566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/persecucion-policial-3190390.jpg?tf=1200x' alt='Un conductor es secuestrado por su coche eléctrico MG ZS EV y tiene que intervenir la policía ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-fotos-como-salvapantallas-amazon-fire-tv-1316430'>Cómo usar tus propias fotos como salvapantallas en el Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-fotos-como-salvapantallas-amazon-fire-tv-1316430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-usar-propias-fotos-como-salvapantallas-amazon-fire-tv-3188718.jpg?tf=1200x' alt='Cómo usar tus propias fotos como salvapantallas en el Amazon Fire TV' />
+    <h4><a href='https://computerhoy.com/gaming/lg-lanza-coleccion-ratones-alfombrillas-star-wars-1317648'>Logitech lanza una colección de ratones y alfombrillas con temática de El retorno del Jedi  </a></h4>
+    <a href='https://computerhoy.com/gaming/lg-lanza-coleccion-ratones-alfombrillas-star-wars-1317648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/logitech-lanza-coleccion-mouse-alfombrillas-tematica-retorno-jedi-3190560.jpg?tf=1200x' alt='Logitech lanza una colección de ratones y alfombrillas con temática de El retorno del Jedi  ' />
     </a>
 </div>
 
@@ -85,6 +69,22 @@
     <h4><a href='https://computerhoy.com/prime-day-1308000'>Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos</a></h4>
     <a href='https://computerhoy.com/prime-day-1308000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazon-prime-octubre-2023-3139450.jpg?tf=1200x' alt='Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/9-soluciones-cuando-no-aparece-opcion-wifi-windows-11-1301096'>9 soluciones efectivas para cuando no aparece la opción de WiFi en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/9-soluciones-cuando-no-aparece-opcion-wifi-windows-11-1301096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/9-soluciones-efectivas-cuando-no-aparece-opcion-wifi-windows-11-3128242.jpg?tf=1200x' alt='9 soluciones efectivas para cuando no aparece la opción de WiFi en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cerebro-facil-contar-grupos-4-5-1317630'>¿Por qué al cerebro le es más fácil contar en grupos de 4 que de 5? </a></h4>
+    <a href='https://computerhoy.com/ciencia/cerebro-facil-contar-grupos-4-5-1317630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cerebro-facil-contar-grupos-4-5-3190490.jpg?tf=1200x' alt='¿Por qué al cerebro le es más fácil contar en grupos de 4 que de 5? ' />
     </a>
 </div>
 
