@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Prime Day de octubre: Fiesta de Ofertas Prime de Amazon, en directo</a></h4>
+    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Fiesta de Ofertas Prime Day de Amazon 2023: primeros descuentos y chollos, en directo</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Prime Day de octubre: Fiesta de Ofertas Prime de Amazon, en directo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Fiesta de Ofertas Prime Day de Amazon 2023: primeros descuentos y chollos, en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-actualiza-lista-modelos-iphone-potencialmente-peligrosos-ya-no-deberias-utilizar-1317690'>Apple actualiza la lista de modelos de iPhone potencialmente peligrosos que ya no deberías utilizar</a></h4>
+    <a href='https://computerhoy.com/apple/apple-actualiza-lista-modelos-iphone-potencialmente-peligrosos-ya-no-deberias-utilizar-1317690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/modelos-iphone-3190632.jpg?tf=1200x' alt='Apple actualiza la lista de modelos de iPhone potencialmente peligrosos que ya no deberías utilizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/moviles-xiaomi-podrian-recibir-cambio-importante-historia-1317686'>Los móviles Xiaomi podrían recibir el cambio más importante de su historia</a></h4>
+    <a href='https://computerhoy.com/moviles/moviles-xiaomi-podrian-recibir-cambio-importante-historia-1317686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-3190620.jpg?tf=1200x' alt='Los móviles Xiaomi podrían recibir el cambio más importante de su historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/clave-hijo-sea-inteligente-expertos-1304054'>La fórmula mágica para que tu hijo sea más inteligente, según los expertos de Cambridge</a></h4>
+    <a href='https://computerhoy.com/life/clave-hijo-sea-inteligente-expertos-1304054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/nino-gafas-3017336.jpg?tf=1200x' alt='La fórmula mágica para que tu hijo sea más inteligente, según los expertos de Cambridge' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/lg-lanza-coleccion-ratones-alfombrillas-star-wars-1317648'>Logitech lanza una colección de ratones y alfombrillas con temática de El retorno del Jedi  </a></h4>
     <a href='https://computerhoy.com/gaming/lg-lanza-coleccion-ratones-alfombrillas-star-wars-1317648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/logitech-lanza-coleccion-mouse-alfombrillas-tematica-retorno-jedi-3190560.jpg?tf=1200x' alt='Logitech lanza una colección de ratones y alfombrillas con temática de El retorno del Jedi  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/prime-day-1308000'>Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos</a></h4>
-    <a href='https://computerhoy.com/prime-day-1308000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazon-prime-octubre-2023-3139450.jpg?tf=1200x' alt='Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/9-soluciones-cuando-no-aparece-opcion-wifi-windows-11-1301096'>9 soluciones efectivas para cuando no aparece la opción de WiFi en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/9-soluciones-cuando-no-aparece-opcion-wifi-windows-11-1301096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/9-soluciones-efectivas-cuando-no-aparece-opcion-wifi-windows-11-3128242.jpg?tf=1200x' alt='9 soluciones efectivas para cuando no aparece la opción de WiFi en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cerebro-facil-contar-grupos-4-5-1317630'>¿Por qué al cerebro le es más fácil contar en grupos de 4 que de 5? </a></h4>
-    <a href='https://computerhoy.com/ciencia/cerebro-facil-contar-grupos-4-5-1317630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cerebro-facil-contar-grupos-4-5-3190490.jpg?tf=1200x' alt='¿Por qué al cerebro le es más fácil contar en grupos de 4 que de 5? ' />
     </a>
 </div>
 
