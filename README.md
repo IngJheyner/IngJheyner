@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/como-conseguir-cupones-descuento-amazon-prime-day-octubre-empieza-ya-1317064'>Cómo conseguir cupones descuento para el Amazon Prime Day de octubre que empieza ya</a></h4>
+    <a href='https://computerhoy.com/amazon/como-conseguir-cupones-descuento-amazon-prime-day-octubre-empieza-ya-1317064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-day-3081434.jpg?tf=1200x' alt='Cómo conseguir cupones descuento para el Amazon Prime Day de octubre que empieza ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/estas-son-marcas-chips-moviles-vendidas-mundo-2023-1311082'>MediaTek resiste como la marca que más chips para móviles vende, pero retrocede y otros 2 fabricantes la superan en ingresos</a></h4>
+    <a href='https://computerhoy.com/industria/estas-son-marcas-chips-moviles-vendidas-mundo-2023-1311082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mediatek-qualcomm-3145610.jpg?tf=1200x' alt='MediaTek resiste como la marca que más chips para móviles vende, pero retrocede y otros 2 fabricantes la superan en ingresos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/carritos-supermercado-te-cobran-compra-1317126'>Se estrenan en Japón los carritos de supermercado que te cobran la compra: así funcionan</a></h4>
     <a href='https://computerhoy.com/alimentacion/carritos-supermercado-te-cobran-compra-1317126' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estrenan-japon-carritos-supermercado-cajero-incorporado-funcionan-3189650.jpg?tf=1200x' alt='Se estrenan en Japón los carritos de supermercado que te cobran la compra: así funcionan' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/trikarenos-chip-risc-v-creado-misiones-espaciales-1317112'>Trikarenos, el chip RISC-V para misiones espaciales que consume 300 veces menos que los chips de la NASA</a></h4>
     <a href='https://computerhoy.com/pc/trikarenos-chip-risc-v-creado-misiones-espaciales-1317112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/trikarenos-chip-arquitectura-risc-v-creado-misiones-espaciales-3189574.jpg?tf=1200x' alt='Trikarenos, el chip RISC-V para misiones espaciales que consume 300 veces menos que los chips de la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/cd-projekt-ha-gastado-millonada-arreglar-cyberpunk-2077-1317104'>CD Projekt se ha gastado tanto dinero en arreglar Cyberpunk 2077, que podría rodar una temporada completa de Juego de Tronos</a></h4>
-    <a href='https://computerhoy.com/gaming/cd-projekt-ha-gastado-millonada-arreglar-cyberpunk-2077-1317104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cd-projekt-ha-gastado-tanto-dinero-arreglar-cyberpunk-2077-podria-rodar-temporada-completa-juego-tronos-3189564.jpg?tf=1200x' alt='CD Projekt se ha gastado tanto dinero en arreglar Cyberpunk 2077, que podría rodar una temporada completa de Juego de Tronos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazfit-falcon-puede-ser-rival-apple-watch-ultra-estas-son-caracteristicas-1316792'>Amazfit Falcon: ¿puede ser rival para el Apple Watch Ultra? Estas son sus características</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazfit-falcon-puede-ser-rival-apple-watch-ultra-estas-son-caracteristicas-1316792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazfit-falcon-3189204.jpg?tf=1200x' alt='Amazfit Falcon: ¿puede ser rival para el Apple Watch Ultra? Estas son sus características' />
     </a>
 </div>
 
