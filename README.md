@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/toxico-metodo-bill-gates-clasificar-empleados-1317582'>El tóxico método de Bill Gates para decidir quiénes eran los mejores empleados de Microsoft </a></h4>
+    <a href='https://computerhoy.com/life/toxico-metodo-bill-gates-clasificar-empleados-1317582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bill-gates-toxico-3190460.jpg?tf=1200x' alt='El tóxico método de Bill Gates para decidir quiénes eran los mejores empleados de Microsoft ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-ocultar-numero-telefono-telegram-1315670'>Cómo ocultar tu número de teléfono en Telegram</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-ocultar-numero-telefono-telegram-1315670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-ocultar-numero-telefono-telegram-3187416.jpg?tf=1200x' alt='Cómo ocultar tu número de teléfono en Telegram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/conductor-secuestrado-coche-electrico-1317566'>Un conductor es secuestrado por su coche eléctrico MG ZS EV y tiene que intervenir la policía </a></h4>
+    <a href='https://computerhoy.com/motor/conductor-secuestrado-coche-electrico-1317566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/persecucion-policial-3190390.jpg?tf=1200x' alt='Un conductor es secuestrado por su coche eléctrico MG ZS EV y tiene que intervenir la policía ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-fotos-como-salvapantallas-amazon-fire-tv-1316430'>Cómo usar tus propias fotos como salvapantallas en el Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-fotos-como-salvapantallas-amazon-fire-tv-1316430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-usar-propias-fotos-como-salvapantallas-amazon-fire-tv-3188718.jpg?tf=1200x' alt='Cómo usar tus propias fotos como salvapantallas en el Amazon Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/prime-day-1308000'>Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos</a></h4>
     <a href='https://computerhoy.com/prime-day-1308000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazon-prime-octubre-2023-3139450.jpg?tf=1200x' alt='Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/viaja-gratis-europa-bonos-ue-requisitos-como-solicitarlo-1317474'>La Unión Europea regala a los jóvenes bonos para viajar por Europa: requisitos y cómo solicitarlo</a></h4>
-    <a href='https://computerhoy.com/internet/viaja-gratis-europa-bonos-ue-requisitos-como-solicitarlo-1317474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/viaja-gratis-europa-3190200.jpg?tf=1200x' alt='La Unión Europea regala a los jóvenes bonos para viajar por Europa: requisitos y cómo solicitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-ahora-alcance-todos-funciona-ia-codigo-1317408'>La inteligencia artificial ahora al alcance de todos: crea chatbots y mucho más en unos simples pasos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-ahora-alcance-todos-funciona-ia-codigo-1317408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/inteligencia-artificial-3190120.jpg?tf=1200x' alt='La inteligencia artificial ahora al alcance de todos: crea chatbots y mucho más en unos simples pasos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-iphone-xiaomi-cual-esperanza-vida-movil-1317382'>Samsung, iPhone, Xiaomi, Huawei… ¿Cuál es la esperanza de vida de un móvil?</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-iphone-xiaomi-cual-esperanza-vida-movil-1317382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3143568.jpg?tf=1200x' alt='Samsung, iPhone, Xiaomi, Huawei… ¿Cuál es la esperanza de vida de un móvil?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/adaptador-desbloquea-android-completo-carplay-android-auto-1317392'>Este adaptador desbloquea todas las funciones de Android en coches con CarPlay o Android Auto y sin cables</a></h4>
-    <a href='https://computerhoy.com/motor/adaptador-desbloquea-android-completo-carplay-android-auto-1317392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/carluex-pro-3190002.jpg?tf=1200x' alt='Este adaptador desbloquea todas las funciones de Android en coches con CarPlay o Android Auto y sin cables' />
     </a>
 </div>
 
