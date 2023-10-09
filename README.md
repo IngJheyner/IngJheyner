@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-ahora-alcance-todos-funciona-ia-codigo-1317408'>La inteligencia artificial ahora al alcance de todos: crea chatbots y mucho más en unos simples pasos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-ahora-alcance-todos-funciona-ia-codigo-1317408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/inteligencia-artificial-3190120.jpg?tf=1200x' alt='La inteligencia artificial ahora al alcance de todos: crea chatbots y mucho más en unos simples pasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-iphone-xiaomi-cual-esperanza-vida-movil-1317382'>Samsung, iPhone, Xiaomi, Huawei… ¿Cuál es la esperanza de vida de un móvil?</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-iphone-xiaomi-cual-esperanza-vida-movil-1317382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3143568.jpg?tf=1200x' alt='Samsung, iPhone, Xiaomi, Huawei… ¿Cuál es la esperanza de vida de un móvil?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/adaptador-desbloquea-android-completo-carplay-android-auto-1317392'>Este adaptador desbloquea todas las funciones de Android en coches con CarPlay o Android Auto y sin cables</a></h4>
     <a href='https://computerhoy.com/motor/adaptador-desbloquea-android-completo-carplay-android-auto-1317392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/carluex-pro-3190002.jpg?tf=1200x' alt='Este adaptador desbloquea todas las funciones de Android en coches con CarPlay o Android Auto y sin cables' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-lia-calienta-prime-day-desploma-precio-moviles-top-5g-1317024'>Xiaomi la lía y calienta el Prime Day de octubre: desploma el precio de uno de sus móviles más top, con 5G y pantalla AMOLED</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-lia-calienta-prime-day-desploma-precio-moviles-top-5g-1317024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-note-12-pro-5g-3189474.jpg?tf=1200x' alt='Xiaomi la lía y calienta el Prime Day de octubre: desploma el precio de uno de sus móviles más top, con 5G y pantalla AMOLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/shiba-dispara-750-menos-24-horas-1317334'>Shiba, el autoproclamado "asesino de Dogecoin", se dispara más de un 750% en 24 horas</a></h4>
-    <a href='https://computerhoy.com/criptos/shiba-dispara-750-menos-24-horas-1317334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ballenas-ponen-ojos-shiba-inu-como-podria-afectar-precio-2890232.jpg?tf=1200x' alt='Shiba, el autoproclamado "asesino de Dogecoin", se dispara más de un 750% en 24 horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-chrome-quiere-evitar-navegador-convierta-caos-novedad-1317322'>Google Chrome quiere evitar que tu navegador se convierta en un caos con esta novedad</a></h4>
-    <a href='https://computerhoy.com/google/google-chrome-quiere-evitar-navegador-convierta-caos-novedad-1317322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-chrome-3124666.jpg?tf=1200x' alt='Google Chrome quiere evitar que tu navegador se convierta en un caos con esta novedad' />
     </a>
 </div>
 
