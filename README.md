@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/carritos-supermercado-te-cobran-compra-1317126'>Se estrenan en Japón los carritos de supermercado que te cobran la compra: así funcionan</a></h4>
+    <a href='https://computerhoy.com/alimentacion/carritos-supermercado-te-cobran-compra-1317126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estrenan-japon-carritos-supermercado-cajero-incorporado-funcionan-3189650.jpg?tf=1200x' alt='Se estrenan en Japón los carritos de supermercado que te cobran la compra: así funcionan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/jupiter-primer-superordenador-exaflop-union-europea-1317124'>La Unión Europea anuncia Júpiter, su primer superordenador que supera el exaFLOP de potencia</a></h4>
     <a href='https://computerhoy.com/tecnologia/jupiter-primer-superordenador-exaflop-union-europea-1317124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/union-europea-anuncia-jupiter-primer-superordenador-supera-exaflop-potencia-3189636.jpg?tf=1200x' alt='La Unión Europea anuncia Júpiter, su primer superordenador que supera el exaFLOP de potencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazfit-falcon-puede-ser-rival-apple-watch-ultra-estas-son-caracteristicas-1316792'>Amazfit Falcon: ¿puede ser rival para el Apple Watch Ultra? Estas son sus características</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazfit-falcon-puede-ser-rival-apple-watch-ultra-estas-son-caracteristicas-1316792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazfit-falcon-3189204.jpg?tf=1200x' alt='Amazfit Falcon: ¿puede ser rival para el Apple Watch Ultra? Estas son sus características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/validrive-gratis-descubre-tienes-pendrive-usb-falso-1317094'>Compró 12 pendrives USB en Amazon y los 12 eran falsos: por eso ha creado esta aplicación gratuita que los detecta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/validrive-gratis-descubre-tienes-pendrive-usb-falso-1317094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-aplicacion-gratuita-descubre-tienes-usb-falso-muestra-espacio-real-3189552.jpg?tf=1200x' alt='Compró 12 pendrives USB en Amazon y los 12 eran falsos: por eso ha creado esta aplicación gratuita que los detecta' />
     </a>
 </div>
 
