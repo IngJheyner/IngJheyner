@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/prime-day-1308000'>Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos</a></h4>
+    <a href='https://computerhoy.com/prime-day-1308000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazon-prime-octubre-2023-3139450.jpg?tf=1200x' alt='Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/viaja-gratis-europa-bonos-ue-requisitos-como-solicitarlo-1317474'>La Unión Europea regala a los jóvenes bonos para viajar por Europa: requisitos y cómo solicitarlo</a></h4>
+    <a href='https://computerhoy.com/internet/viaja-gratis-europa-bonos-ue-requisitos-como-solicitarlo-1317474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/viaja-gratis-europa-3190200.jpg?tf=1200x' alt='La Unión Europea regala a los jóvenes bonos para viajar por Europa: requisitos y cómo solicitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-ahora-alcance-todos-funciona-ia-codigo-1317408'>La inteligencia artificial ahora al alcance de todos: crea chatbots y mucho más en unos simples pasos</a></h4>
     <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-ahora-alcance-todos-funciona-ia-codigo-1317408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/inteligencia-artificial-3190120.jpg?tf=1200x' alt='La inteligencia artificial ahora al alcance de todos: crea chatbots y mucho más en unos simples pasos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/adaptador-desbloquea-android-completo-carplay-android-auto-1317392'>Este adaptador desbloquea todas las funciones de Android en coches con CarPlay o Android Auto y sin cables</a></h4>
     <a href='https://computerhoy.com/motor/adaptador-desbloquea-android-completo-carplay-android-auto-1317392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/carluex-pro-3190002.jpg?tf=1200x' alt='Este adaptador desbloquea todas las funciones de Android en coches con CarPlay o Android Auto y sin cables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/epica-busqueda-rolls-royce-200000-dolares-surcando-cielos-encontrarlo-1317342'>La épica búsqueda de un Rolls Royce de 200.000 dólares: surcando los cielos para encontrarlo</a></h4>
-    <a href='https://computerhoy.com/motor/epica-busqueda-rolls-royce-200000-dolares-surcando-cielos-encontrarlo-1317342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/rolls-royce-morado-3189942.jpg?tf=1200x' alt='La épica búsqueda de un Rolls Royce de 200.000 dólares: surcando los cielos para encontrarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-lia-calienta-prime-day-desploma-precio-moviles-top-5g-1317024'>Xiaomi la lía y calienta el Prime Day de octubre: desploma el precio de uno de sus móviles más top, con 5G y pantalla AMOLED</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-lia-calienta-prime-day-desploma-precio-moviles-top-5g-1317024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-note-12-pro-5g-3189474.jpg?tf=1200x' alt='Xiaomi la lía y calienta el Prime Day de octubre: desploma el precio de uno de sus móviles más top, con 5G y pantalla AMOLED' />
     </a>
 </div>
 
