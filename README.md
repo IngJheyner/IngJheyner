@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Amazon Prime Day 2023: Las mejores ofertas en electrónica, en directo</a></h4>
+    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Amazon Prime Day 2023: las mejores ofertas y descuentos, en directo</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Amazon Prime Day 2023: Las mejores ofertas en electrónica, en directo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Amazon Prime Day 2023: las mejores ofertas y descuentos, en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/marcas-moviles-pierden-valor-tiempo-analisis-tiene-respuesta-1317990'>¿Qué marcas de móviles pierden más valor con el tiempo? Este análisis tiene la respuesta</a></h4>
+    <a href='https://computerhoy.com/moviles/marcas-moviles-pierden-valor-tiempo-analisis-tiene-respuesta-1317990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/moviles-3191070.jpg?tf=1200x' alt='¿Qué marcas de móviles pierden más valor con el tiempo? Este análisis tiene la respuesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ofertas-sorpresa-buenas-amazon-prime-day-1316278'>7 ofertas de Amazon Prime Day que puedes pasar por alto (y no deberías)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ofertas-sorpresa-buenas-amazon-prime-day-1316278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/caja-amazon-2099189.jpg?tf=1200x' alt='7 ofertas de Amazon Prime Day que puedes pasar por alto (y no deberías)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/mitos-realidades-cargar-movil-noche-afecta-bateria-1317956'>Mitos y realidades: ¿Cargar tu móvil por la noche afecta a la batería?</a></h4>
+    <a href='https://computerhoy.com/moviles/mitos-realidades-cargar-movil-noche-afecta-bateria-1317956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cargar-movil-noche-3190966.jpg?tf=1200x' alt='Mitos y realidades: ¿Cargar tu móvil por la noche afecta a la batería?' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/moviles-xiaomi-baratos-prime-day-octubre-1317960'>Móviles Xiaomi desde 69 euros en el Prime Day: así quiere Amazon que piques en su gran evento</a></h4>
     <a href='https://computerhoy.com/tecnologia/moviles-xiaomi-baratos-prime-day-octubre-1317960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/movil-logo-xiaomi-3190934.jpg?tf=1200x' alt='Móviles Xiaomi desde 69 euros en el Prime Day: así quiere Amazon que piques en su gran evento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bateria-14-dias-precio-locos-xiaomi-pasa-prime-day-oferta-mejores-pulseras-actividad-1317560'>Batería de 14 días y precio de locos: Xiaomi se pasa el Prime Day con esta oferta en una de sus mejores pulseras de actividad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bateria-14-dias-precio-locos-xiaomi-pasa-prime-day-oferta-mejores-pulseras-actividad-1317560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-smart-band-2-3190324.jpg?tf=1200x' alt='Batería de 14 días y precio de locos: Xiaomi se pasa el Prime Day con esta oferta en una de sus mejores pulseras de actividad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/puesta-sol-azul-marte-estas-son-imagenes-tomadas-perseverance-nasa-1317942'>¿Una puesta de sol "azul" en Marte? Estas son las imágenes tomadas por el Perseverance de la NASA</a></h4>
-    <a href='https://computerhoy.com/espacio/puesta-sol-azul-marte-estas-son-imagenes-tomadas-perseverance-nasa-1317942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/perseverance-marte-3190952.jpg?tf=1200x' alt='¿Una puesta de sol "azul" en Marte? Estas son las imágenes tomadas por el Perseverance de la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/mejores-gangas-menos-20-euros-prime-day-1317712'>Las mejores gangas por menos de 20 euros en el Prime Day</a></h4>
-    <a href='https://computerhoy.com/amazon/mejores-gangas-menos-20-euros-prime-day-1317712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/gangas-prime-day-3190650.jpg?tf=1200x' alt='Las mejores gangas por menos de 20 euros en el Prime Day' />
     </a>
 </div>
 
