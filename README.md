@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/misterioso-caso-iphone-apagan-solos-noche-1318266'>El misterioso caso de los iPhone que se apagan solos por la noche</a></h4>
+    <a href='https://computerhoy.com/apple/misterioso-caso-iphone-apagan-solos-noche-1318266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/misterioso-caso-iphone-apagan-solos-noche-3191974.jpg?tf=1200x' alt='El misterioso caso de los iPhone que se apagan solos por la noche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Amazon Prime Day 2023: Últimas ofertas del día 10, en directo ¡Es hora de ahorrar!</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Amazon Prime Day 2023: Últimas ofertas del día 10, en directo ¡Es hora de ahorrar!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/salud-estudia-aprobar-farmacias-inyeccion-adelgazar-1318254'>El Ministerio de Sanidad está estudiando aprobar la venta en farmacias de una inyección para adelgazar  </a></h4>
     <a href='https://computerhoy.com/life/salud-estudia-aprobar-farmacias-inyeccion-adelgazar-1318254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ministerio-salud-estudiando-aprobar-farmacias-inyeccion-adelgazar-3191934.jpg?tf=1200x' alt='El Ministerio de Sanidad está estudiando aprobar la venta en farmacias de una inyección para adelgazar  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-pesa-menos-1-kg-reta-macbook-pro-sustancial-rebaja-prime-day-1316726'>Este portátil pesa menos de 1 kg y reta al MacBook Pro con una sustancial rebaja en el Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-pesa-menos-1-kg-reta-macbook-pro-sustancial-rebaja-prime-day-1316726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/lg-gram-3017242.jpg?tf=1200x' alt='Este portátil pesa menos de 1 kg y reta al MacBook Pro con una sustancial rebaja en el Prime Day' />
     </a>
 </div>
 
