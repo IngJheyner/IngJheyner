@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Prime Day 2023, la Fiesta de Ofertas Prime de Amazon, los mejores chollos, en directo</a></h4>
+    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Amazon Prime Day 2023: Las mejores ofertas en electrónica, en directo</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Prime Day 2023, la Fiesta de Ofertas Prime de Amazon, los mejores chollos, en directo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Amazon Prime Day 2023: Las mejores ofertas en electrónica, en directo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/prime-day-1308000'>Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos</a></h4>
-    <a href='https://computerhoy.com/prime-day-1308000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazon-prime-octubre-2023-3139450.jpg?tf=1200x' alt='Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos' />
+    <h4><a href='https://computerhoy.com/tecnologia/moviles-xiaomi-baratos-prime-day-octubre-1317960'>Móviles Xiaomi desde 69 euros en el Prime Day: así quiere Amazon que piques en su gran evento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/moviles-xiaomi-baratos-prime-day-octubre-1317960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/movil-logo-xiaomi-3190934.jpg?tf=1200x' alt='Móviles Xiaomi desde 69 euros en el Prime Day: así quiere Amazon que piques en su gran evento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/freidoras-aire-ofertas-amazon-prime-day-octubre-1316040'>Amazon está liquidando freidoras de aire en el Prime Day de octubre: modelos a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/freidoras-aire-ofertas-amazon-prime-day-octubre-1316040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/air-fryer-3187644.jpg?tf=1200x' alt='Amazon está liquidando freidoras de aire en el Prime Day de octubre: modelos a mitad de precio' />
+    <h4><a href='https://computerhoy.com/tecnologia/bateria-14-dias-precio-locos-xiaomi-pasa-prime-day-oferta-mejores-pulseras-actividad-1317560'>Batería de 14 días y precio de locos: Xiaomi se pasa el Prime Day con esta oferta en una de sus mejores pulseras de actividad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bateria-14-dias-precio-locos-xiaomi-pasa-prime-day-oferta-mejores-pulseras-actividad-1317560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-smart-band-2-3190324.jpg?tf=1200x' alt='Batería de 14 días y precio de locos: Xiaomi se pasa el Prime Day con esta oferta en una de sus mejores pulseras de actividad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oferta-hace-ko-google-drive-12tb-almacenamiento-ti-pagas-solo-vez-1317516'>Esta oferta le hace un KO a Google Drive: 12TB de almacenamiento para ti y los pagas solo una vez</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oferta-hace-ko-google-drive-12tb-almacenamiento-ti-pagas-solo-vez-1317516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/wd-my-book-3190656.jpg?tf=1200x' alt='Esta oferta le hace un KO a Google Drive: 12TB de almacenamiento para ti y los pagas solo una vez' />
+    <h4><a href='https://computerhoy.com/espacio/puesta-sol-azul-marte-estas-son-imagenes-tomadas-perseverance-nasa-1317942'>¿Una puesta de sol "azul" en Marte? Estas son las imágenes tomadas por el Perseverance de la NASA</a></h4>
+    <a href='https://computerhoy.com/espacio/puesta-sol-azul-marte-estas-son-imagenes-tomadas-perseverance-nasa-1317942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/perseverance-marte-3190952.jpg?tf=1200x' alt='¿Una puesta de sol "azul" en Marte? Estas son las imágenes tomadas por el Perseverance de la NASA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/honor-pad-x9-analisis-opinion-1310470'>Honor Pad X9, una tablet para todos los públicos que puede engancharte por su precio</a></h4>
-    <a href='https://computerhoy.com/analisis/honor-pad-x9-analisis-opinion-1310470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/honor-pad-x9-analisis-opinion-3148120.jpg?tf=1200x' alt='Honor Pad X9, una tablet para todos los públicos que puede engancharte por su precio' />
+    <h4><a href='https://computerhoy.com/amazon/mejores-gangas-menos-20-euros-prime-day-1317712'>Las mejores gangas por menos de 20 euros en el Prime Day</a></h4>
+    <a href='https://computerhoy.com/amazon/mejores-gangas-menos-20-euros-prime-day-1317712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/gangas-prime-day-3190650.jpg?tf=1200x' alt='Las mejores gangas por menos de 20 euros en el Prime Day' />
     </a>
 </div>
 
