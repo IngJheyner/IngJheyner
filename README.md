@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-actualizaciones-amazon-fire-tv-1317668'>Cómo desactivar las actualizaciones en el Amazon Fire TV y por qué deberías hacerlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desactivar-actualizaciones-amazon-fire-tv-1317668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-desactivar-actualizaciones-amazon-fire-tv-deberias-hacerlo-ahora-mismo-3190630.jpg?tf=1200x' alt='Cómo desactivar las actualizaciones en el Amazon Fire TV y por qué deberías hacerlo ahora mismo' />
+    <h4><a href='https://computerhoy.com/tecnologia/ryzen-9-32gb-ram-mucho-portatil-gaming-bombas-prime-day-1317304'>Ryzen 9, 32GB RAM y mucho más: este portátil gaming es una de las bombas del Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ryzen-9-32gb-ram-mucho-portatil-gaming-bombas-prime-day-1317304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/asus-tuf-gaming-a15-fa507xi-3189826.jpg?tf=1200x' alt='Ryzen 9, 32GB RAM y mucho más: este portátil gaming es una de las bombas del Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-rompiendo-prime-day-100-euros-barato-tiene-pantalla-120-hz-1318160'>Este móvil la está rompiendo en el Prime Day: es 100 euros más barato y tiene pantalla 120 Hz</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-rompiendo-prime-day-100-euros-barato-tiene-pantalla-120-hz-1318160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/poco-x5-pro-3191430.jpg?tf=1200x' alt='Este móvil la está rompiendo en el Prime Day: es 100 euros más barato y tiene pantalla 120 Hz' />
+    <h4><a href='https://computerhoy.com/gaming/ps5-slim-oficial-caracteristicas-precios-fecha-lanzamiento-1318264'>PS5 Slim es oficial: características, precios, y fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.com/gaming/ps5-slim-oficial-caracteristicas-precios-fecha-lanzamiento-1318264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1696956353063-3191948.jpg?tf=1200x' alt='PS5 Slim es oficial: características, precios, y fecha de lanzamiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/sencillo-habito-pensamiento-steve-jobs-lograr-exito-1318172'>El sencillo hábito de pensamiento de Steve Jobs para lograr el éxito</a></h4>
-    <a href='https://computerhoy.com/apple/sencillo-habito-pensamiento-steve-jobs-lograr-exito-1318172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/steve-jobs-historia-iphone-3064292.jpg?tf=1200x' alt='El sencillo hábito de pensamiento de Steve Jobs para lograr el éxito' />
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-martes-10-octubre-2023-1318230'>Programación TV: ¿Qué ver hoy en televisión? Martes 10 de octubre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-martes-10-octubre-2023-1318230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-martes-10-octubre-2023-3191874.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Martes 10 de octubre de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/camara-vigilancia-tan-barata-prime-day-amazon-tiene-problema-ella-no-da-abasto-envios-1318170'>Esta cámara de vigilancia es tan barata en el Prime Day que Amazon tiene un problema con ella: no da abasto con los envíos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/camara-vigilancia-tan-barata-prime-day-amazon-tiene-problema-ella-no-da-abasto-envios-1318170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/d-link-dcs-6500lh-3191648.jpg?tf=1200x' alt='Esta cámara de vigilancia es tan barata en el Prime Day que Amazon tiene un problema con ella: no da abasto con los envíos' />
+    <h4><a href='https://computerhoy.com/life/como-donde-ver-eclipse-solar-anillo-fuego-14-octubre-1318212'>Cómo y dónde ver el eclipse solar o anillo de fuego del 14 de octubre</a></h4>
+    <a href='https://computerhoy.com/life/como-donde-ver-eclipse-solar-anillo-fuego-14-octubre-1318212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-donde-ver-anillo-fuego-solar-14-octubre-3191778.jpg?tf=1200x' alt='Cómo y dónde ver el eclipse solar o anillo de fuego del 14 de octubre' />
     </a>
 </div>
 
