@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ryzen-9-32gb-ram-mucho-portatil-gaming-bombas-prime-day-1317304'>Ryzen 9, 32GB RAM y mucho más: este portátil gaming es una de las bombas del Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ryzen-9-32gb-ram-mucho-portatil-gaming-bombas-prime-day-1317304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/asus-tuf-gaming-a15-fa507xi-3189826.jpg?tf=1200x' alt='Ryzen 9, 32GB RAM y mucho más: este portátil gaming es una de las bombas del Prime Day' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/air-europa-pide-clientes-cancelen-tarjetas-credito-sufrir-hackeo-1318294'>Air Europa pide a sus clientes que cancelen sus tarjetas de crédito tras sufrir un hackeo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/air-europa-pide-clientes-cancelen-tarjetas-credito-sufrir-hackeo-1318294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/air-europa-3192032.jpg?tf=1200x' alt='Air Europa pide a sus clientes que cancelen sus tarjetas de crédito tras sufrir un hackeo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ps5-slim-oficial-caracteristicas-precios-fecha-lanzamiento-1318264'>PS5 Slim es oficial: características, precios, y fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/gaming/ps5-slim-oficial-caracteristicas-precios-fecha-lanzamiento-1318264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1696956353063-3191948.jpg?tf=1200x' alt='PS5 Slim es oficial: características, precios, y fecha de lanzamiento' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/dgt-alerta-phishing-falsas-multas-sms-1318244'>La DGT alerta de una nueva campaña de phishing a través de falsas multas por SMS </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/dgt-alerta-phishing-falsas-multas-sms-1318244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/atasco-carretera-2438587.jpg?tf=1200x' alt='La DGT alerta de una nueva campaña de phishing a través de falsas multas por SMS ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-martes-10-octubre-2023-1318230'>Programación TV: ¿Qué ver hoy en televisión? Martes 10 de octubre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-martes-10-octubre-2023-1318230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-martes-10-octubre-2023-3191874.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Martes 10 de octubre de 2023' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-estan-modificando-paginas-error-404-tiendas-online-robar-tarjetas-credito-1318290'>Los ciberdelincuentes están modificando las páginas de error 404 de las tiendas online para robar tarjetas de crédito</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-estan-modificando-paginas-error-404-tiendas-online-robar-tarjetas-credito-1318290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tarjeta-credito-3192030.jpg?tf=1200x' alt='Los ciberdelincuentes están modificando las páginas de error 404 de las tiendas online para robar tarjetas de crédito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-donde-ver-eclipse-solar-anillo-fuego-14-octubre-1318212'>Cómo y dónde ver el eclipse solar o anillo de fuego del 14 de octubre</a></h4>
-    <a href='https://computerhoy.com/life/como-donde-ver-eclipse-solar-anillo-fuego-14-octubre-1318212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-donde-ver-anillo-fuego-solar-14-octubre-3191778.jpg?tf=1200x' alt='Cómo y dónde ver el eclipse solar o anillo de fuego del 14 de octubre' />
+    <h4><a href='https://computerhoy.com/tecnologia/movil-barato-google-directo-top-ventas-prime-day-40-euros-descuento-1318250'>El móvil barato de Google, directo al top ventas del Prime Day con 40 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-barato-google-directo-top-ventas-prime-day-40-euros-descuento-1318250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029780.jpg?tf=1200x' alt='El móvil barato de Google, directo al top ventas del Prime Day con 40 euros de descuento' />
     </a>
 </div>
 
