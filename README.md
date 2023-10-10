@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/roomba-precio-robot-aspirador-chino-prime-day-menos-200-euros-forma-temporal-1316732'>Roomba a precio de robot aspirador chino por el Prime Day: por menos de 200 euros y de forma temporal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/roomba-precio-robot-aspirador-chino-prime-day-menos-200-euros-forma-temporal-1316732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/irobot-roomba-692-3189054.jpg?tf=1200x' alt='Roomba a precio de robot aspirador chino por el Prime Day: por menos de 200 euros y de forma temporal' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-errores-comunes-pueden-arruinar-trabajo-1317966'>ChatGPT: errores más comunes que pueden arruinar tu trabajo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-errores-comunes-pueden-arruinar-trabajo-1317966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-programacion-3105538.jpg?tf=1200x' alt='ChatGPT: errores más comunes que pueden arruinar tu trabajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ventajas-desventajas-cerraduras-inteligentes-son-realmente-seguras-1318100'>Las ventajas y desventajas de las cerraduras inteligentes: ¿Son realmente seguras?</a></h4>
-    <a href='https://computerhoy.com/hogar/ventajas-desventajas-cerraduras-inteligentes-son-realmente-seguras-1318100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cerradura-inteligente-3191104.jpg?tf=1200x' alt='Las ventajas y desventajas de las cerraduras inteligentes: ¿Son realmente seguras?' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tumba-precio-auriculares-baratos-deja-ko-competencia-prime-day-1318044'>Xiaomi tumba el precio de sus auriculares baratos y deja KO a la competencia en el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-tumba-precio-auriculares-baratos-deja-ko-competencia-prime-day-1318044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-buds-4-lite-3191128.jpg?tf=1200x' alt='Xiaomi tumba el precio de sus auriculares baratos y deja KO a la competencia en el Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-prime-day-5-portatiles-top-precios-saldo-1318004'>Amazon los está liquidando en el Prime Day: 5 portátiles top a precios de saldo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-prime-day-5-portatiles-top-precios-saldo-1318004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/portatiles-prime-day-3191084.jpg?tf=1200x' alt='Amazon los está liquidando en el Prime Day: 5 portátiles top a precios de saldo' />
+    <h4><a href='https://computerhoy.com/tecnologia/ni-lidl-ni-nadie-puede-air-fryer-arrasa-otra-vez-amazon-rebajada-prime-day-1316330'>Ni Lidl ni nadie puede con esta Air Fryer que arrasa otra vez en Amazon, y está rebajada por el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-lidl-ni-nadie-puede-air-fryer-arrasa-otra-vez-amazon-rebajada-prime-day-1316330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cosori-prime-day-3188542.jpg?tf=1200x' alt='Ni Lidl ni nadie puede con esta Air Fryer que arrasa otra vez en Amazon, y está rebajada por el Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/shiba-inu-aumenta-353-grandes-transacciones-valor-26-billones-shib-1318050'>Shiba Inu explota: aumenta un 353% en grandes transacciones por valor de 2,6 billones SHIB</a></h4>
-    <a href='https://computerhoy.com/criptos/shiba-inu-aumenta-353-grandes-transacciones-valor-26-billones-shib-1318050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/shiba-inu-2791151.jpg?tf=1200x' alt='Shiba Inu explota: aumenta un 353% en grandes transacciones por valor de 2,6 billones SHIB' />
+    <h4><a href='https://computerhoy.com/tecnologia/preocupante-tendencia-podria-afectar-toda-generacion-hombres-1318122'>La preocupante tendencia que podría afectar a toda una generación de hombres</a></h4>
+    <a href='https://computerhoy.com/tecnologia/preocupante-tendencia-podria-afectar-toda-generacion-hombres-1318122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/inteligencia-artificial-3191572.jpg?tf=1200x' alt='La preocupante tendencia que podría afectar a toda una generación de hombres' />
     </a>
 </div>
 
