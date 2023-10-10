@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Fiesta de Ofertas Prime Day de Amazon 2023, en directo con todas las mejores ofertas</a></h4>
+    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Prime Day 2023, la Fiesta de Ofertas Prime de Amazon, los mejores chollos, en directo</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Fiesta de Ofertas Prime Day de Amazon 2023, en directo con todas las mejores ofertas' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Prime Day 2023, la Fiesta de Ofertas Prime de Amazon, los mejores chollos, en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/prime-day-1308000'>Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos</a></h4>
+    <a href='https://computerhoy.com/prime-day-1308000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazon-prime-octubre-2023-3139450.jpg?tf=1200x' alt='Amazon Prime Day 2023 (octubre): fecha, ofertas destacadas y tips para conseguir los mejores descuentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/freidoras-aire-ofertas-amazon-prime-day-octubre-1316040'>Amazon está liquidando freidoras de aire en el Prime Day de octubre: modelos a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/freidoras-aire-ofertas-amazon-prime-day-octubre-1316040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/air-fryer-3187644.jpg?tf=1200x' alt='Amazon está liquidando freidoras de aire en el Prime Day de octubre: modelos a mitad de precio' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/honor-pad-x9-analisis-opinion-1310470'>Honor Pad X9, una tablet para todos los públicos que puede engancharte por su precio</a></h4>
     <a href='https://computerhoy.com/analisis/honor-pad-x9-analisis-opinion-1310470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/honor-pad-x9-analisis-opinion-3148120.jpg?tf=1200x' alt='Honor Pad X9, una tablet para todos los públicos que puede engancharte por su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-estos-moviles-derrumban-precio-prime-day-amazon-1315806'>No es un error de precio: estos móviles derrumban su precio en el Prime Day de Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-error-precio-estos-moviles-derrumban-precio-prime-day-amazon-1315806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nothing-phone-3187596.jpg?tf=1200x' alt='No es un error de precio: estos móviles derrumban su precio en el Prime Day de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-revienta-precio-televisor-4k-fire-tv-rompe-barrera-300-euros-1317494'>Xiaomi revienta el precio de su televisor 4K con Fire TV, que rompe la barrera de los 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-revienta-precio-televisor-4k-fire-tv-rompe-barrera-300-euros-1317494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-tv-f2-43-3190210.jpg?tf=1200x' alt='Xiaomi revienta el precio de su televisor 4K con Fire TV, que rompe la barrera de los 300 euros' />
     </a>
 </div>
 
