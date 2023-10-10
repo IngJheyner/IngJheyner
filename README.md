@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-rompiendo-prime-day-100-euros-barato-tiene-pantalla-120-hz-1318160'>Este móvil la está rompiendo en el Prime Day: es 100 euros más barato y tiene pantalla 120 Hz</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-rompiendo-prime-day-100-euros-barato-tiene-pantalla-120-hz-1318160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/poco-x5-pro-3191430.jpg?tf=1200x' alt='Este móvil la está rompiendo en el Prime Day: es 100 euros más barato y tiene pantalla 120 Hz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/sencillo-habito-pensamiento-steve-jobs-lograr-exito-1318172'>El sencillo hábito de pensamiento de Steve Jobs para lograr el éxito</a></h4>
+    <a href='https://computerhoy.com/apple/sencillo-habito-pensamiento-steve-jobs-lograr-exito-1318172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/steve-jobs-historia-iphone-3064292.jpg?tf=1200x' alt='El sencillo hábito de pensamiento de Steve Jobs para lograr el éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/camara-vigilancia-tan-barata-prime-day-amazon-tiene-problema-ella-no-da-abasto-envios-1318170'>Esta cámara de vigilancia es tan barata en el Prime Day que Amazon tiene un problema con ella: no da abasto con los envíos</a></h4>
     <a href='https://computerhoy.com/tecnologia/camara-vigilancia-tan-barata-prime-day-amazon-tiene-problema-ella-no-da-abasto-envios-1318170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/d-link-dcs-6500lh-3191648.jpg?tf=1200x' alt='Esta cámara de vigilancia es tan barata en el Prime Day que Amazon tiene un problema con ella: no da abasto con los envíos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-descargar-musica-youtube-ordenador-1225418'>Cómo descargar música de YouTube al ordenador</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-descargar-musica-youtube-ordenador-1225418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/musica-youtube-3000702.jpg?tf=1200x' alt='Cómo descargar música de YouTube al ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-errores-comunes-pueden-arruinar-trabajo-1317966'>ChatGPT: errores más comunes que pueden arruinar tu trabajo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-errores-comunes-pueden-arruinar-trabajo-1317966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-programacion-3105538.jpg?tf=1200x' alt='ChatGPT: errores más comunes que pueden arruinar tu trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tumba-precio-auriculares-baratos-deja-ko-competencia-prime-day-1318044'>Xiaomi tumba el precio de sus auriculares baratos y deja KO a la competencia en el Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-tumba-precio-auriculares-baratos-deja-ko-competencia-prime-day-1318044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-buds-4-lite-3191128.jpg?tf=1200x' alt='Xiaomi tumba el precio de sus auriculares baratos y deja KO a la competencia en el Prime Day' />
     </a>
 </div>
 
