@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/air-europa-pide-clientes-cancelen-tarjetas-credito-sufrir-hackeo-1318294'>Air Europa pide a sus clientes que cancelen sus tarjetas de crédito tras sufrir un hackeo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/air-europa-pide-clientes-cancelen-tarjetas-credito-sufrir-hackeo-1318294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/air-europa-3192032.jpg?tf=1200x' alt='Air Europa pide a sus clientes que cancelen sus tarjetas de crédito tras sufrir un hackeo' />
+    <h4><a href='https://computerhoy.com/ciencia/pretende-china-tomar-relevo-eei-ambiciosa-estacion-espacial-1318088'>Así pretende China tomar el relevo de la EEI con su ambiciosa estación espacial</a></h4>
+    <a href='https://computerhoy.com/ciencia/pretende-china-tomar-relevo-eei-ambiciosa-estacion-espacial-1318088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estacion-espacial-china-3191772.jpg?tf=1200x' alt='Así pretende China tomar el relevo de la EEI con su ambiciosa estación espacial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/dgt-alerta-phishing-falsas-multas-sms-1318244'>La DGT alerta de una nueva campaña de phishing a través de falsas multas por SMS </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/dgt-alerta-phishing-falsas-multas-sms-1318244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/atasco-carretera-2438587.jpg?tf=1200x' alt='La DGT alerta de una nueva campaña de phishing a través de falsas multas por SMS ' />
+    <h4><a href='https://computerhoy.com/gaming/prime-day-playstation-5-oferta-fifa-fc-24-gratis-1318292'>Este es el Prime Day de PlayStation 5: viene con el juego de moda de regalo y está rompiendo Amazon</a></h4>
+    <a href='https://computerhoy.com/gaming/prime-day-playstation-5-oferta-fifa-fc-24-gratis-1318292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ea-sports-fc-24-3123340.jpg?tf=1200x' alt='Este es el Prime Day de PlayStation 5: viene con el juego de moda de regalo y está rompiendo Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-estan-modificando-paginas-error-404-tiendas-online-robar-tarjetas-credito-1318290'>Los ciberdelincuentes están modificando las páginas de error 404 de las tiendas online para robar tarjetas de crédito</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-estan-modificando-paginas-error-404-tiendas-online-robar-tarjetas-credito-1318290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tarjeta-credito-3192030.jpg?tf=1200x' alt='Los ciberdelincuentes están modificando las páginas de error 404 de las tiendas online para robar tarjetas de crédito' />
+    <h4><a href='https://computerhoy.com/life/salud-estudia-aprobar-farmacias-inyeccion-adelgazar-1318254'>El Ministerio de Sanidad está estudiando aprobar la venta en farmacias de una inyección para adelgazar  </a></h4>
+    <a href='https://computerhoy.com/life/salud-estudia-aprobar-farmacias-inyeccion-adelgazar-1318254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ministerio-salud-estudiando-aprobar-farmacias-inyeccion-adelgazar-3191934.jpg?tf=1200x' alt='El Ministerio de Sanidad está estudiando aprobar la venta en farmacias de una inyección para adelgazar  ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-barato-google-directo-top-ventas-prime-day-40-euros-descuento-1318250'>El móvil barato de Google, directo al top ventas del Prime Day con 40 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-barato-google-directo-top-ventas-prime-day-40-euros-descuento-1318250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029780.jpg?tf=1200x' alt='El móvil barato de Google, directo al top ventas del Prime Day con 40 euros de descuento' />
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-pesa-menos-1-kg-reta-macbook-pro-sustancial-rebaja-prime-day-1316726'>Este portátil pesa menos de 1 kg y reta al MacBook Pro con una sustancial rebaja en el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-pesa-menos-1-kg-reta-macbook-pro-sustancial-rebaja-prime-day-1316726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/lg-gram-3017242.jpg?tf=1200x' alt='Este portátil pesa menos de 1 kg y reta al MacBook Pro con una sustancial rebaja en el Prime Day' />
     </a>
 </div>
 
