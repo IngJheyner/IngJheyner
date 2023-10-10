@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Amazon Prime Day 2023: los productos más vendidos de hoy, en directo</a></h4>
+    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Amazon Prime Day 2023: Últimas ofertas del día 10, en directo ¡Es hora de ahorrar!</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Amazon Prime Day 2023: los productos más vendidos de hoy, en directo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Amazon Prime Day 2023: Últimas ofertas del día 10, en directo ¡Es hora de ahorrar!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/camara-vigilancia-tan-barata-prime-day-amazon-tiene-problema-ella-no-da-abasto-envios-1318170'>Esta cámara de vigilancia es tan barata en el Prime Day que Amazon tiene un problema con ella: no da abasto con los envíos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/camara-vigilancia-tan-barata-prime-day-amazon-tiene-problema-ella-no-da-abasto-envios-1318170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/d-link-dcs-6500lh-3191648.jpg?tf=1200x' alt='Esta cámara de vigilancia es tan barata en el Prime Day que Amazon tiene un problema con ella: no da abasto con los envíos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-musica-youtube-ordenador-1225418'>Cómo descargar música de YouTube al ordenador</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-musica-youtube-ordenador-1225418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/musica-youtube-3000702.jpg?tf=1200x' alt='Cómo descargar música de YouTube al ordenador' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tumba-precio-auriculares-baratos-deja-ko-competencia-prime-day-1318044'>Xiaomi tumba el precio de sus auriculares baratos y deja KO a la competencia en el Prime Day</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-tumba-precio-auriculares-baratos-deja-ko-competencia-prime-day-1318044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-buds-4-lite-3191128.jpg?tf=1200x' alt='Xiaomi tumba el precio de sus auriculares baratos y deja KO a la competencia en el Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ni-lidl-ni-nadie-puede-air-fryer-arrasa-otra-vez-amazon-rebajada-prime-day-1316330'>Ni Lidl ni nadie puede con esta Air Fryer que arrasa otra vez en Amazon, y está rebajada por el Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ni-lidl-ni-nadie-puede-air-fryer-arrasa-otra-vez-amazon-rebajada-prime-day-1316330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cosori-prime-day-3188542.jpg?tf=1200x' alt='Ni Lidl ni nadie puede con esta Air Fryer que arrasa otra vez en Amazon, y está rebajada por el Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/preocupante-tendencia-podria-afectar-toda-generacion-hombres-1318122'>La preocupante tendencia que podría afectar a toda una generación de hombres</a></h4>
-    <a href='https://computerhoy.com/tecnologia/preocupante-tendencia-podria-afectar-toda-generacion-hombres-1318122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/inteligencia-artificial-3191572.jpg?tf=1200x' alt='La preocupante tendencia que podría afectar a toda una generación de hombres' />
     </a>
 </div>
 
