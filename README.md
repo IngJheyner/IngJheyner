@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-revienta-precio-televisor-4k-fire-tv-rompe-barrera-300-euros-1317494'>Xiaomi revienta el precio de su televisor 4K con Fire TV, que rompe la barrera de los 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-revienta-precio-televisor-4k-fire-tv-rompe-barrera-300-euros-1317494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-tv-f2-43-3190210.jpg?tf=1200x' alt='Xiaomi revienta el precio de su televisor 4K con Fire TV, que rompe la barrera de los 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-garmin-top-prime-day-fenix-7x-solar-vuelve-ser-chollo-1316776'>Liquidación en el Garmin más top del Prime Day: el Fenix 7X Solar vuelve a ser un chollo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/liquidacion-garmin-top-prime-day-fenix-7x-solar-vuelve-ser-chollo-1316776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7x-solar-2591043.jpg?tf=1200x' alt='Liquidación en el Garmin más top del Prime Day: el Fenix 7X Solar vuelve a ser un chollo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Fiesta de Ofertas Prime Day de Amazon 2023, en directo con todas las mejores ofertas</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Fiesta de Ofertas Prime Day de Amazon 2023, en directo con todas las mejores ofertas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cascos-top-mercado-desploman-precio-rozan-300-euros-prime-day-1316416'>Los cascos más top del mercado desploman su precio y rozan los 300 euros en el Prime Day</a></h4>
     <a href='https://computerhoy.com/tecnologia/cascos-top-mercado-desploman-precio-rozan-300-euros-prime-day-1316416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sony-wh-1000xm5-analisis-opinion-2891374.jpg?tf=1200x' alt='Los cascos más top del mercado desploman su precio y rozan los 300 euros en el Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-quiere-reventar-amazon-prime-day-puede-lograr-nuevos-pixel-estrenan-ofertas-1316350'>Google quiere reventar el Amazon Prime Day y lo puede lograr: sus nuevos Pixel se estrenan con ofertas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-quiere-reventar-amazon-prime-day-puede-lograr-nuevos-pixel-estrenan-ofertas-1316350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-3188558.jpg?tf=1200x' alt='Google quiere reventar el Amazon Prime Day y lo puede lograr: sus nuevos Pixel se estrenan con ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiemble-apple-desploma-precio-movil-samsung-top-400eu-descuento-1316748'>Que tiemble Apple: se desploma el precio del móvil Samsung más top con 400€ de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiemble-apple-desploma-precio-movil-samsung-top-400eu-descuento-1316748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/samsung-galaxy-s23-ultra-3189066.jpg?tf=1200x' alt='Que tiemble Apple: se desploma el precio del móvil Samsung más top con 400€ de descuento' />
     </a>
 </div>
 
