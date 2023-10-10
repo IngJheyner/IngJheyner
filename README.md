@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Amazon Prime Day 2023: las mejores ofertas y descuentos, en directo</a></h4>
+    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Amazon Prime Day 2023: los productos más vendidos de hoy, en directo</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Amazon Prime Day 2023: las mejores ofertas y descuentos, en directo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Amazon Prime Day 2023: los productos más vendidos de hoy, en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-prime-day-5-portatiles-top-precios-saldo-1318004'>Amazon los está liquidando en el Prime Day: 5 portátiles top a precios de saldo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-prime-day-5-portatiles-top-precios-saldo-1318004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/portatiles-prime-day-3191084.jpg?tf=1200x' alt='Amazon los está liquidando en el Prime Day: 5 portátiles top a precios de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/shiba-inu-aumenta-353-grandes-transacciones-valor-26-billones-shib-1318050'>Shiba Inu explota: aumenta un 353% en grandes transacciones por valor de 2,6 billones SHIB</a></h4>
+    <a href='https://computerhoy.com/criptos/shiba-inu-aumenta-353-grandes-transacciones-valor-26-billones-shib-1318050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/shiba-inu-2791151.jpg?tf=1200x' alt='Shiba Inu explota: aumenta un 353% en grandes transacciones por valor de 2,6 billones SHIB' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ofertas-sorpresa-buenas-amazon-prime-day-1316278'>7 ofertas de Amazon Prime Day que puedes pasar por alto (y no deberías)</a></h4>
     <a href='https://computerhoy.com/tecnologia/ofertas-sorpresa-buenas-amazon-prime-day-1316278' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/caja-amazon-2099189.jpg?tf=1200x' alt='7 ofertas de Amazon Prime Day que puedes pasar por alto (y no deberías)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mitos-realidades-cargar-movil-noche-afecta-bateria-1317956'>Mitos y realidades: ¿Cargar tu móvil por la noche afecta a la batería?</a></h4>
-    <a href='https://computerhoy.com/moviles/mitos-realidades-cargar-movil-noche-afecta-bateria-1317956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cargar-movil-noche-3190966.jpg?tf=1200x' alt='Mitos y realidades: ¿Cargar tu móvil por la noche afecta a la batería?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/moviles-xiaomi-baratos-prime-day-octubre-1317960'>Móviles Xiaomi desde 69 euros en el Prime Day: así quiere Amazon que piques en su gran evento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/moviles-xiaomi-baratos-prime-day-octubre-1317960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/movil-logo-xiaomi-3190934.jpg?tf=1200x' alt='Móviles Xiaomi desde 69 euros en el Prime Day: así quiere Amazon que piques en su gran evento' />
     </a>
 </div>
 
