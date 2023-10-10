@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-actualizaciones-amazon-fire-tv-1317668'>Cómo desactivar las actualizaciones en el Amazon Fire TV y por qué deberías hacerlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desactivar-actualizaciones-amazon-fire-tv-1317668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-desactivar-actualizaciones-amazon-fire-tv-deberias-hacerlo-ahora-mismo-3190630.jpg?tf=1200x' alt='Cómo desactivar las actualizaciones en el Amazon Fire TV y por qué deberías hacerlo ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/movil-rompiendo-prime-day-100-euros-barato-tiene-pantalla-120-hz-1318160'>Este móvil la está rompiendo en el Prime Day: es 100 euros más barato y tiene pantalla 120 Hz</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-rompiendo-prime-day-100-euros-barato-tiene-pantalla-120-hz-1318160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/poco-x5-pro-3191430.jpg?tf=1200x' alt='Este móvil la está rompiendo en el Prime Day: es 100 euros más barato y tiene pantalla 120 Hz' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/camara-vigilancia-tan-barata-prime-day-amazon-tiene-problema-ella-no-da-abasto-envios-1318170'>Esta cámara de vigilancia es tan barata en el Prime Day que Amazon tiene un problema con ella: no da abasto con los envíos</a></h4>
     <a href='https://computerhoy.com/tecnologia/camara-vigilancia-tan-barata-prime-day-amazon-tiene-problema-ella-no-da-abasto-envios-1318170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/d-link-dcs-6500lh-3191648.jpg?tf=1200x' alt='Esta cámara de vigilancia es tan barata en el Prime Day que Amazon tiene un problema con ella: no da abasto con los envíos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-musica-youtube-ordenador-1225418'>Cómo descargar música de YouTube al ordenador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-musica-youtube-ordenador-1225418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/musica-youtube-3000702.jpg?tf=1200x' alt='Cómo descargar música de YouTube al ordenador' />
     </a>
 </div>
 
