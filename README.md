@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-aterriza-prime-day-cambia-todo-50eu-descuento-decenas-dispositivos-tambien-iphone-15-1318316'>Apple aterriza en el Prime Day y lo cambia todo: 50€ de descuento en decenas de dispositivos, también el iPhone 15</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-aterriza-prime-day-cambia-todo-50eu-descuento-decenas-dispositivos-tambien-iphone-15-1318316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/apple-store-2147029.jpg?tf=1200x' alt='Apple aterriza en el Prime Day y lo cambia todo: 50€ de descuento en decenas de dispositivos, también el iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/frasier-fellow-travelers-estrenos-noviembre-skyshowtime-1318318'>La nueva serie de Frasier y Fellow Travelers, los estrenos destacados de noviembre en SkyShowtime</a></h4>
     <a href='https://computerhoy.com/entretenimiento/frasier-fellow-travelers-estrenos-noviembre-skyshowtime-1318318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-serie-frasier-fellow-trevellers-estrenos-destacados-noviembre-skyshowtime-3192050.jpg?tf=1200x' alt='La nueva serie de Frasier y Fellow Travelers, los estrenos destacados de noviembre en SkyShowtime' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/pretende-china-tomar-relevo-eei-ambiciosa-estacion-espacial-1318088'>Así pretende China tomar el relevo de la EEI con su ambiciosa estación espacial</a></h4>
     <a href='https://computerhoy.com/ciencia/pretende-china-tomar-relevo-eei-ambiciosa-estacion-espacial-1318088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estacion-espacial-china-3191772.jpg?tf=1200x' alt='Así pretende China tomar el relevo de la EEI con su ambiciosa estación espacial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/prime-day-playstation-5-oferta-fifa-fc-24-gratis-1318292'>Este es el Prime Day de PlayStation 5: viene con el juego de moda de regalo y está rompiendo Amazon</a></h4>
-    <a href='https://computerhoy.com/gaming/prime-day-playstation-5-oferta-fifa-fc-24-gratis-1318292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ea-sports-fc-24-3123340.jpg?tf=1200x' alt='Este es el Prime Day de PlayStation 5: viene con el juego de moda de regalo y está rompiendo Amazon' />
     </a>
 </div>
 
