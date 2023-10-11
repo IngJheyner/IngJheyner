@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Prime Day 2023: Las mejores ofertas en electrónica con ofertas en Xiaomi, Apple y Garmin, en directo</a></h4>
+    <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-directo-3192338.jpg?tf=1200x' alt='Prime Day 2023: Las mejores ofertas en electrónica con ofertas en Xiaomi, Apple y Garmin, en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bueno-bonito-ahora-barato-oneplus-10t-5g-desploma-precio-prime-day-te-lleva-carga-150w-1318680'>Bueno, bonito y ahora barato: el OnePlus 10T 5G desploma su precio en el Prime Day y te lleva a la carga de 150W</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bueno-bonito-ahora-barato-oneplus-10t-5g-desploma-precio-prime-day-te-lleva-carga-150w-1318680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oneplus-10t-analisis-opinion-2823451.jpg?tf=1200x' alt='Bueno, bonito y ahora barato: el OnePlus 10T 5G desploma su precio en el Prime Day y te lleva a la carga de 150W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/producto-apple-no-volveras-perder-maleta-1318688'>El producto de Apple con el que no volverás a perder tu maleta</a></h4>
+    <a href='https://computerhoy.com/apple/producto-apple-no-volveras-perder-maleta-1318688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/maletas-viaje-3193134.jpg?tf=1200x' alt='El producto de Apple con el que no volverás a perder tu maleta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-garmin-arrasa-runners-100-euros-barato-amazon-prime-day-1316294'>El reloj Garmin que arrasa entre los runners es 100 euros más barato en el Amazon Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-garmin-arrasa-runners-100-euros-barato-amazon-prime-day-1316294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-forerunner-255-3188452.jpg?tf=1200x' alt='El reloj Garmin que arrasa entre los runners es 100 euros más barato en el Amazon Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/comparativa-ps5-ps5-slim-merece-pena-cambio-1318626'>PS5 vs PS5 Slim, ¿Merece la pena el cambio?: todas las mejoras, cambios y similitudes de ambos modelos</a></h4>
     <a href='https://computerhoy.com/tecnologia/comparativa-ps5-ps5-slim-merece-pena-cambio-1318626' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ps5-vs-ps5-slim-3193020.jpg?tf=1200x' alt='PS5 vs PS5 Slim, ¿Merece la pena el cambio?: todas las mejoras, cambios y similitudes de ambos modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/cambio-climatico-podria-cobrarse-nueva-victima-cerveza-1318642'>El cambio climático podría cobrarse una nueva víctima: la cerveza</a></h4>
-    <a href='https://computerhoy.com/alimentacion/cambio-climatico-podria-cobrarse-nueva-victima-cerveza-1318642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cerveza-3193000.jpg?tf=1200x' alt='El cambio climático podría cobrarse una nueva víctima: la cerveza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-potentes-mundo-precio-cae-plomo-prime-day-1316318'>Este Mini PC con Ryzen 9 es de los más potentes del mundo y su precio cae a plomo en el Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mini-pc-potentes-mundo-precio-cae-plomo-prime-day-1316318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/minis-forum-hm90-2969166.jpg?tf=1200x' alt='Este Mini PC con Ryzen 9 es de los más potentes del mundo y su precio cae a plomo en el Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adobe-revoluciona-programas-inteligencia-artificial-photoshop-illustrator-mucho-1318592'>Adobe revoluciona sus programas con inteligencia artificial: Photoshop, Illustrator y mucho más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adobe-revoluciona-programas-inteligencia-artificial-photoshop-illustrator-mucho-1318592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/adobe-firefly-3192352.jpg?tf=1200x' alt='Adobe revoluciona sus programas con inteligencia artificial: Photoshop, Illustrator y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Amazon Prime Day 2023: ofertas en Xiaomi, Apple y Garmin, en directo ¡Es hora de ahorrar!</a></h4>
-    <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-directo-3192338.jpg?tf=1200x' alt='Amazon Prime Day 2023: ofertas en Xiaomi, Apple y Garmin, en directo ¡Es hora de ahorrar!' />
     </a>
 </div>
 
