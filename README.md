@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Prime Day 2023: Las mejores ofertas en electrónica con ofertas en Xiaomi, Apple y Garmin, en directo</a></h4>
+    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Prime Day 2023: Las mejores ofertas en tecnología, en directo ¡Es hora de ahorrar!</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-directo-3192338.jpg?tf=1200x' alt='Prime Day 2023: Las mejores ofertas en electrónica con ofertas en Xiaomi, Apple y Garmin, en directo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-directo-3192338.jpg?tf=1200x' alt='Prime Day 2023: Las mejores ofertas en tecnología, en directo ¡Es hora de ahorrar!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-prepara-nueva-oleada-novedades-aplicacion-1318640'>WhatsApp se prepara para una nueva oleada de novedades en la aplicación</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-prepara-nueva-oleada-novedades-aplicacion-1318640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/novedades-whatsapp-3193064.jpg?tf=1200x' alt='WhatsApp se prepara para una nueva oleada de novedades en la aplicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/freidora-aire-novedosa-usa-pellets-dar-sabor-rebajada-amazon-1318700'>Esta freidora de aire sí que es novedosa: usa pellets para dar sabor y está rebajada en Amazon</a></h4>
+    <a href='https://computerhoy.com/amazon/freidora-aire-novedosa-usa-pellets-dar-sabor-rebajada-amazon-1318700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ninja-woodfire-3193138.jpg?tf=1200x' alt='Esta freidora de aire sí que es novedosa: usa pellets para dar sabor y está rebajada en Amazon' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/producto-apple-no-volveras-perder-maleta-1318688'>El producto de Apple con el que no volverás a perder tu maleta</a></h4>
     <a href='https://computerhoy.com/apple/producto-apple-no-volveras-perder-maleta-1318688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/maletas-viaje-3193134.jpg?tf=1200x' alt='El producto de Apple con el que no volverás a perder tu maleta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-garmin-arrasa-runners-100-euros-barato-amazon-prime-day-1316294'>El reloj Garmin que arrasa entre los runners es 100 euros más barato en el Amazon Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-garmin-arrasa-runners-100-euros-barato-amazon-prime-day-1316294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-forerunner-255-3188452.jpg?tf=1200x' alt='El reloj Garmin que arrasa entre los runners es 100 euros más barato en el Amazon Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/comparativa-ps5-ps5-slim-merece-pena-cambio-1318626'>PS5 vs PS5 Slim, ¿Merece la pena el cambio?: todas las mejoras, cambios y similitudes de ambos modelos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/comparativa-ps5-ps5-slim-merece-pena-cambio-1318626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ps5-vs-ps5-slim-3193020.jpg?tf=1200x' alt='PS5 vs PS5 Slim, ¿Merece la pena el cambio?: todas las mejoras, cambios y similitudes de ambos modelos' />
     </a>
 </div>
 
