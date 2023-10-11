@@ -52,39 +52,39 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Amazon Prime Day 2023: Últimas ofertas del día 11, en directo ¡Es hora de ahorrar!</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Amazon Prime Day 2023: Últimas ofertas del día 11, en directo ¡Es hora de ahorrar!' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-directo-3192338.jpg?tf=1200x' alt='Amazon Prime Day 2023: Últimas ofertas del día 11, en directo ¡Es hora de ahorrar!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-reloj-inteligente-fitbit-similar-apple-watch-1316392'>Amazon tumba el precio del reloj inteligente Fitbit más similar al Apple Watch</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-reloj-inteligente-fitbit-similar-apple-watch-1316392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fitbit-versa-4-2927658.jpg?tf=1200x' alt='Amazon tumba el precio del reloj inteligente Fitbit más similar al Apple Watch' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-reloj-deportivo-ultrarresistente-polar-150eu-barato-pone-apuros-garmin-1317632'>Amazon está liquidando un reloj deportivo ultrarresistente de Polar: es 150€ más barato y pone en apuros a Garmin</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-reloj-deportivo-ultrarresistente-polar-150eu-barato-pone-apuros-garmin-1317632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/polar-grit-x-pro-3190478.jpg?tf=1200x' alt='Amazon está liquidando un reloj deportivo ultrarresistente de Polar: es 150€ más barato y pone en apuros a Garmin' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/roborock-revienta-prime-day-precio-robots-aspiradores-potentes-1316760'>Roborock revienta en el Prime Day el precio de uno de sus robots aspiradores más potentes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/roborock-revienta-prime-day-precio-robots-aspiradores-potentes-1316760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/roborock-q7-max-3056696.jpg?tf=1200x' alt='Roborock revienta en el Prime Day el precio de uno de sus robots aspiradores más potentes' />
+    <h4><a href='https://computerhoy.com/moviles/futuros-moviles-2028-incorporaran-pantallas-reparan-solas-funcionan-1318582'>Los futuros móviles de 2028 incorporarán pantallas que se reparan solas: así funcionan</a></h4>
+    <a href='https://computerhoy.com/moviles/futuros-moviles-2028-incorporaran-pantallas-reparan-solas-funcionan-1318582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/samsung-galaxy-a14-3143790.jpg?tf=1200x' alt='Los futuros móviles de 2028 incorporarán pantallas que se reparan solas: así funcionan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xiaomi-13t-pro-analisis-opinion-1315024'>Xiaomi 13T Pro, análisis y opinión: fotografía y diseño de gama alta por debajo de los 1.000 euros</a></h4>
-    <a href='https://computerhoy.com/analisis/xiaomi-13t-pro-analisis-opinion-1315024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-13t-pro-3191452.jpg?tf=1200x' alt='Xiaomi 13T Pro, análisis y opinión: fotografía y diseño de gama alta por debajo de los 1.000 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-robot-disney-tan-real-parece-animado-ordenador-1318540'>El nuevo robot de Disney es tan real, que parece animado por ordenador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-robot-disney-tan-real-parece-animado-ordenador-1318540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1696996716973-3192278.jpg?tf=1200x' alt='El nuevo robot de Disney es tan real, que parece animado por ordenador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-dice-no-thermomix-robot-cocina-cecotec-cuesta-cuarta-parte-prime-day-1316718'>Amazon le dice no a Thermomix: este robot de cocina de Cecotec cuesta la cuarta parte en el Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-dice-no-thermomix-robot-cocina-cecotec-cuesta-cuarta-parte-prime-day-1316718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cecotec-mambo-touch-3189038.jpg?tf=1200x' alt='Amazon le dice no a Thermomix: este robot de cocina de Cecotec cuesta la cuarta parte en el Prime Day' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-vs-amazon-chromecast-llega-prime-day-quiere-poner-apuros-fire-tv-stick-1316774'>Google vs Amazon: el Chromecast llega al Prime Day y quiere poner en apuros a los Fire TV Stick</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-vs-amazon-chromecast-llega-prime-day-quiere-poner-apuros-fire-tv-stick-1316774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chromecast-vs-fire-tv-3122298.jpg?tf=1200x' alt='Google vs Amazon: el Chromecast llega al Prime Day y quiere poner en apuros a los Fire TV Stick' />
     </a>
 </div>
 
