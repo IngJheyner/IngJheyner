@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/verdad-flipper-zero-cosas-realmente-puedes-hacer-1318320'>La verdad sobre Flipper Zero, las cosas que realmente puedes hacer con el tamagotchi para hackers</a></h4>
+    <a href='https://computerhoy.com/tecnologia/verdad-flipper-zero-cosas-realmente-puedes-hacer-1318320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/flipper-zero-3193160.jpg?tf=1200x' alt='La verdad sobre Flipper Zero, las cosas que realmente puedes hacer con el tamagotchi para hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Prime Day 2023: Las mejores ofertas en tecnología, en directo ¡Es hora de ahorrar!</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-directo-3192338.jpg?tf=1200x' alt='Prime Day 2023: Las mejores ofertas en tecnología, en directo ¡Es hora de ahorrar!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes-sociales/foto-te-hara-explotar-cabeza-no-trucada-1233882'>Esta fotografía no está trucada, y te hará estallar la cabeza</a></h4>
     <a href='https://computerhoy.com/redes-sociales/foto-te-hara-explotar-cabeza-no-trucada-1233882' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ilusion-optica-3014780.jpg?tf=1200x' alt='Esta fotografía no está trucada, y te hará estallar la cabeza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/google-pixel-8-pro-analisis-opinion-1318158'>Google Pixel 8 Pro, análisis y opinión: mucha nube para tanto móvil</a></h4>
-    <a href='https://computerhoy.com/analisis/google-pixel-8-pro-analisis-opinion-1318158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191844.jpg?tf=1200x' alt='Google Pixel 8 Pro, análisis y opinión: mucha nube para tanto móvil' />
     </a>
 </div>
 
