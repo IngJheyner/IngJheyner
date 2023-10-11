@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-youtube-292203'>Cómo descargar un vídeo de YouTube en tu PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-youtube-292203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/descargar-youtube-3193158.jpg?tf=1200x' alt='Cómo descargar un vídeo de YouTube en tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oferta-volando-apple-watch-recien-estrenado-ya-tiene-descuentazo-amazon-1318814'>Esta oferta está volando: el Apple Watch SE recién estrenado ya tiene un descuentazo en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oferta-volando-apple-watch-recien-estrenado-ya-tiene-descuentazo-amazon-1318814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-2023-3193530.jpg?tf=1200x' alt='Esta oferta está volando: el Apple Watch SE recién estrenado ya tiene un descuentazo en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vpn-popular-planeta-desploma-precio-casi-mitad-prime-day-cuesta-333eu-mes-1316360'>La VPN más popular de planeta desploma su precio a casi la mitad en el Prime Day</a></h4>
     <a href='https://computerhoy.com/tecnologia/vpn-popular-planeta-desploma-precio-casi-mitad-prime-day-cuesta-333eu-mes-1316360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/persona-activando-vpn-ver-contenidos-netflix-3054644.jpg?tf=1200x' alt='La VPN más popular de planeta desploma su precio a casi la mitad en el Prime Day' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/trucos-infalibles-quitar-manchas-casi-cualquier-cosa-1318526'>Trucos infalibles para eliminar las manchas de casi cualquier cosa</a></h4>
     <a href='https://computerhoy.com/life/trucos-infalibles-quitar-manchas-casi-cualquier-cosa-1318526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ninos-manchados-3193128.jpg?tf=1200x' alt='Trucos infalibles para eliminar las manchas de casi cualquier cosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubren-verdadero-origen-canas-no-pensabas-1318784'>Descubren el verdadero origen de las canas y no es solo el que pensabas</a></h4>
-    <a href='https://computerhoy.com/life/descubren-verdadero-origen-canas-no-pensabas-1318784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/descubren-verdadero-origen-canas-no-solo-pensabas-3193482.jpg?tf=1200x' alt='Descubren el verdadero origen de las canas y no es solo el que pensabas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ofertas-ultima-hora-prime-day-1318740'>Ofertas de última hora que no volveremos a ver en mucho tiempo: el Prime Day se acaba y debes darte prisa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ofertas-ultima-hora-prime-day-1318740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-day-reloj-arena-3081928.jpg?tf=1200x' alt='Ofertas de última hora que no volveremos a ver en mucho tiempo: el Prime Day se acaba y debes darte prisa' />
     </a>
 </div>
 
