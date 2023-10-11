@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/frasier-fellow-travelers-estrenos-noviembre-skyshowtime-1318318'>La nueva serie de Frasier y Fellow Travelers, los estrenos destacados de noviembre en SkyShowtime</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/frasier-fellow-travelers-estrenos-noviembre-skyshowtime-1318318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-serie-frasier-fellow-trevellers-estrenos-destacados-noviembre-skyshowtime-3192050.jpg?tf=1200x' alt='La nueva serie de Frasier y Fellow Travelers, los estrenos destacados de noviembre en SkyShowtime' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/misterioso-caso-iphone-apagan-solos-noche-1318266'>El misterioso caso de los iPhone que se apagan solos por la noche</a></h4>
     <a href='https://computerhoy.com/apple/misterioso-caso-iphone-apagan-solos-noche-1318266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/misterioso-caso-iphone-apagan-solos-noche-3191974.jpg?tf=1200x' alt='El misterioso caso de los iPhone que se apagan solos por la noche' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/prime-day-playstation-5-oferta-fifa-fc-24-gratis-1318292'>Este es el Prime Day de PlayStation 5: viene con el juego de moda de regalo y está rompiendo Amazon</a></h4>
     <a href='https://computerhoy.com/gaming/prime-day-playstation-5-oferta-fifa-fc-24-gratis-1318292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ea-sports-fc-24-3123340.jpg?tf=1200x' alt='Este es el Prime Day de PlayStation 5: viene con el juego de moda de regalo y está rompiendo Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/salud-estudia-aprobar-farmacias-inyeccion-adelgazar-1318254'>El Ministerio de Sanidad está estudiando aprobar la venta en farmacias de una inyección para adelgazar  </a></h4>
-    <a href='https://computerhoy.com/life/salud-estudia-aprobar-farmacias-inyeccion-adelgazar-1318254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ministerio-salud-estudiando-aprobar-farmacias-inyeccion-adelgazar-3191934.jpg?tf=1200x' alt='El Ministerio de Sanidad está estudiando aprobar la venta en farmacias de una inyección para adelgazar  ' />
     </a>
 </div>
 
