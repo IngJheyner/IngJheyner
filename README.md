@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-aterriza-prime-day-cambia-todo-50eu-descuento-decenas-dispositivos-tambien-iphone-15-1318316'>Apple aterriza en el Prime Day y lo cambia todo: 50€ de descuento en decenas de dispositivos, también el iPhone 15</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-aterriza-prime-day-cambia-todo-50eu-descuento-decenas-dispositivos-tambien-iphone-15-1318316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/apple-store-2147029.jpg?tf=1200x' alt='Apple aterriza en el Prime Day y lo cambia todo: 50€ de descuento en decenas de dispositivos, también el iPhone 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/frasier-fellow-travelers-estrenos-noviembre-skyshowtime-1318318'>La nueva serie de Frasier y Fellow Travelers, los estrenos destacados de noviembre en SkyShowtime</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/frasier-fellow-travelers-estrenos-noviembre-skyshowtime-1318318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-serie-frasier-fellow-trevellers-estrenos-destacados-noviembre-skyshowtime-3192050.jpg?tf=1200x' alt='La nueva serie de Frasier y Fellow Travelers, los estrenos destacados de noviembre en SkyShowtime' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/misterioso-caso-iphone-apagan-solos-noche-1318266'>El misterioso caso de los iPhone que se apagan solos por la noche</a></h4>
-    <a href='https://computerhoy.com/apple/misterioso-caso-iphone-apagan-solos-noche-1318266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/misterioso-caso-iphone-apagan-solos-noche-3191974.jpg?tf=1200x' alt='El misterioso caso de los iPhone que se apagan solos por la noche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Amazon Prime Day 2023: Últimas ofertas del día 10, en directo ¡Es hora de ahorrar!</a></h4>
+    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Amazon Prime Day 2023: Últimas ofertas del día 11, en directo ¡Es hora de ahorrar!</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Amazon Prime Day 2023: Últimas ofertas del día 10, en directo ¡Es hora de ahorrar!' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-3190514.jpg?tf=1200x' alt='Amazon Prime Day 2023: Últimas ofertas del día 11, en directo ¡Es hora de ahorrar!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/pretende-china-tomar-relevo-eei-ambiciosa-estacion-espacial-1318088'>Así pretende China tomar el relevo de la EEI con su ambiciosa estación espacial</a></h4>
-    <a href='https://computerhoy.com/ciencia/pretende-china-tomar-relevo-eei-ambiciosa-estacion-espacial-1318088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estacion-espacial-china-3191772.jpg?tf=1200x' alt='Así pretende China tomar el relevo de la EEI con su ambiciosa estación espacial' />
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-13t-pro-analisis-opinion-1315024'>Xiaomi 13T Pro, análisis y opinión: fotografía y diseño de gama alta por debajo de los 1.000 euros</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-13t-pro-analisis-opinion-1315024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-13t-pro-3191452.jpg?tf=1200x' alt='Xiaomi 13T Pro, análisis y opinión: fotografía y diseño de gama alta por debajo de los 1.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-dice-no-thermomix-robot-cocina-cecotec-cuesta-cuarta-parte-prime-day-1316718'>Amazon le dice no a Thermomix: este robot de cocina de Cecotec cuesta la cuarta parte en el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-dice-no-thermomix-robot-cocina-cecotec-cuesta-cuarta-parte-prime-day-1316718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cecotec-mambo-touch-3189038.jpg?tf=1200x' alt='Amazon le dice no a Thermomix: este robot de cocina de Cecotec cuesta la cuarta parte en el Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/air-fryer-xiaomi-apunta-prime-day-freidoras-top-mitad-precio-1318310'>La Air Fryer de Xiaomi se apunta al Prime Day: es de las freidoras más top y está a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/air-fryer-xiaomi-apunta-prime-day-freidoras-top-mitad-precio-1318310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-smart-air-fryer-pro-3141312.jpg?tf=1200x' alt='La Air Fryer de Xiaomi se apunta al Prime Day: es de las freidoras más top y está a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/que-es-hidroferol-cuanto-tarda-hacer-efecto-1318530'>Qué es el hidroferol y cuánto tarda en hacer efecto</a></h4>
+    <a href='https://computerhoy.com/life/que-es-hidroferol-cuanto-tarda-hacer-efecto-1318530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hidroferol-cuanto-tarda-hacer-efecto-3192272.jpg?tf=1200x' alt='Qué es el hidroferol y cuánto tarda en hacer efecto' />
     </a>
 </div>
 
