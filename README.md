@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/verdad-flipper-zero-cosas-realmente-puedes-hacer-1318320'>La verdad sobre Flipper Zero, las cosas que realmente puedes hacer con el tamagotchi para hackers</a></h4>
-    <a href='https://computerhoy.com/tecnologia/verdad-flipper-zero-cosas-realmente-puedes-hacer-1318320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/flipper-zero-3193160.jpg?tf=1200x' alt='La verdad sobre Flipper Zero, las cosas que realmente puedes hacer con el tamagotchi para hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Prime Day 2023: Las mejores ofertas en tecnología, en directo ¡Es hora de ahorrar!</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-directo-3192338.jpg?tf=1200x' alt='Prime Day 2023: Las mejores ofertas en tecnología, en directo ¡Es hora de ahorrar!' />
@@ -66,25 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-apple-disney-cierran-dos-iptv-grandes-mundo-1318840'>Netflix, Apple y Disney consiguen cerrar dos de los servicios de IPTV más grandes del mundo </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-apple-disney-cierran-dos-iptv-grandes-mundo-1318840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='Netflix, Apple y Disney consiguen cerrar dos de los servicios de IPTV más grandes del mundo ' />
+    <h4><a href='https://computerhoy.com/entretenimiento/rtve-estrena-sorpresa-temporada-final-cuentame-como-paso-1318912'>RTVE estrena por sorpresa la temporada final de Cuéntame como pasó, adiós a Los Alcántara</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/rtve-estrena-sorpresa-temporada-final-cuentame-como-paso-1318912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697055736529-3194010.jpg?tf=1200x' alt='RTVE estrena por sorpresa la temporada final de Cuéntame como pasó, adiós a Los Alcántara' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ultima-frontera-ia-salud-personal-1318236'>La última frontera de la IA es la salud personal: ¿qué riesgos implica? </a></h4>
-    <a href='https://computerhoy.com/life/ultima-frontera-ia-salud-personal-1318236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/inteligencia-artificial-3131254.jpg?tf=1200x' alt='La última frontera de la IA es la salud personal: ¿qué riesgos implica? ' />
+    <h4><a href='https://computerhoy.com/alimentacion/mercadona-confirma-retirada-varios-productos-redes-estallan-1318894'>Mercadona confirma la retirada de varios productos y las redes estallan</a></h4>
+    <a href='https://computerhoy.com/alimentacion/mercadona-confirma-retirada-varios-productos-redes-estallan-1318894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/supermercado-2953104.jpg?tf=1200x' alt='Mercadona confirma la retirada de varios productos y las redes estallan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/foto-te-hara-explotar-cabeza-no-trucada-1233882'>Esta fotografía no está trucada, y te hará estallar la cabeza</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/foto-te-hara-explotar-cabeza-no-trucada-1233882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ilusion-optica-3014780.jpg?tf=1200x' alt='Esta fotografía no está trucada, y te hará estallar la cabeza' />
+    <h4><a href='https://computerhoy.com/tecnologia/diferencias-clave-raspberry-pi-5-raspberry-pi-4-1317716'>Diferencias clave y secretos ocultos entre Raspberry Pi 5 y Raspberry Pi 4</a></h4>
+    <a href='https://computerhoy.com/tecnologia/diferencias-clave-raspberry-pi-5-raspberry-pi-4-1317716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/diferencias-clave-secretos-ocultos-raspberry-pi-5-raspberry-pi-4-3190848.jpg?tf=1200x' alt='Diferencias clave y secretos ocultos entre Raspberry Pi 5 y Raspberry Pi 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cientificos-descubren-nuevo-secreto-escondido-mona-lisa-1318892'>Científicos descubren un nuevo secreto escondido en la Mona Lisa</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-descubren-nuevo-secreto-escondido-mona-lisa-1318892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mona-lisa-3146846.jpg?tf=1200x' alt='Científicos descubren un nuevo secreto escondido en la Mona Lisa' />
     </a>
 </div>
 
