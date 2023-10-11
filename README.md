@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/comparativa-ps5-ps5-slim-merece-pena-cambio-1318626'>PS5 vs PS5 Slim, ¿Merece la pena el cambio?: todas las mejoras, cambios y similitudes de ambos modelos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/comparativa-ps5-ps5-slim-merece-pena-cambio-1318626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ps5-vs-ps5-slim-3193020.jpg?tf=1200x' alt='PS5 vs PS5 Slim, ¿Merece la pena el cambio?: todas las mejoras, cambios y similitudes de ambos modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/cambio-climatico-podria-cobrarse-nueva-victima-cerveza-1318642'>El cambio climático podría cobrarse una nueva víctima: la cerveza</a></h4>
+    <a href='https://computerhoy.com/alimentacion/cambio-climatico-podria-cobrarse-nueva-victima-cerveza-1318642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cerveza-3193000.jpg?tf=1200x' alt='El cambio climático podría cobrarse una nueva víctima: la cerveza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-potentes-mundo-precio-cae-plomo-prime-day-1316318'>Este Mini PC con Ryzen 9 es de los más potentes del mundo y su precio cae a plomo en el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-potentes-mundo-precio-cae-plomo-prime-day-1316318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/minis-forum-hm90-2969166.jpg?tf=1200x' alt='Este Mini PC con Ryzen 9 es de los más potentes del mundo y su precio cae a plomo en el Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/adobe-revoluciona-programas-inteligencia-artificial-photoshop-illustrator-mucho-1318592'>Adobe revoluciona sus programas con inteligencia artificial: Photoshop, Illustrator y mucho más</a></h4>
     <a href='https://computerhoy.com/tecnologia/adobe-revoluciona-programas-inteligencia-artificial-photoshop-illustrator-mucho-1318592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/adobe-firefly-3192352.jpg?tf=1200x' alt='Adobe revoluciona sus programas con inteligencia artificial: Photoshop, Illustrator y mucho más' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Amazon Prime Day 2023: ofertas en Xiaomi, Apple y Garmin, en directo ¡Es hora de ahorrar!</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-directo-3192338.jpg?tf=1200x' alt='Amazon Prime Day 2023: ofertas en Xiaomi, Apple y Garmin, en directo ¡Es hora de ahorrar!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-lanza-actualizacion-airpods-pro-solucionar-bugs-1318604'>Apple lanza una actualización para los AirPods Pro que soluciona varios bugs</a></h4>
-    <a href='https://computerhoy.com/apple/apple-lanza-actualizacion-airpods-pro-solucionar-bugs-1318604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844263.jpg?tf=1200x' alt='Apple lanza una actualización para los AirPods Pro que soluciona varios bugs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/120-km-autonomia-precio-record-bici-electrica-montana-rompe-registros-amazon-1317674'>120 km de autonomía y precio récord: esta bici eléctrica de montaña rompe registros en Amazon</a></h4>
-    <a href='https://computerhoy.com/motor/120-km-autonomia-precio-record-bici-electrica-montana-rompe-registros-amazon-1317674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/moma-bikes-bicicleta-eletrica-emtb-3190580.jpg?tf=1200x' alt='120 km de autonomía y precio récord: esta bici eléctrica de montaña rompe registros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-reloj-deportivo-ultrarresistente-polar-150eu-barato-pone-apuros-garmin-1317632'>Amazon está liquidando un reloj deportivo ultrarresistente de Polar: es 150€ más barato y pone en apuros a Garmin</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-reloj-deportivo-ultrarresistente-polar-150eu-barato-pone-apuros-garmin-1317632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/polar-grit-x-pro-3190478.jpg?tf=1200x' alt='Amazon está liquidando un reloj deportivo ultrarresistente de Polar: es 150€ más barato y pone en apuros a Garmin' />
     </a>
 </div>
 
