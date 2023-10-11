@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/sony-anuncia-juegos-ps5-nube-empujada-microsoft-1318918'>Sony anuncia juegos de PS5 en la nube, empujada por Microsoft </a></h4>
+    <a href='https://computerhoy.com/gaming/sony-anuncia-juegos-ps5-nube-empujada-microsoft-1318918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/juegos-ps5-nube-3194012.jpg?tf=1200x' alt='Sony anuncia juegos de PS5 en la nube, empujada por Microsoft ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-funciona-passkeys-mata-contrasenas-google-1318904'>Cómo funciona passkeys, el "mata contraseñas" de Google que ya es una realidad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-funciona-passkeys-mata-contrasenas-google-1318904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-funciona-passkeys-mata-contrasenas-google-ya-realidad-3194028.jpg?tf=1200x' alt='Cómo funciona passkeys, el "mata contraseñas" de Google que ya es una realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Prime Day 2023: Las mejores ofertas en tecnología, en directo ¡Es hora de ahorrar!</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-directo-3192338.jpg?tf=1200x' alt='Prime Day 2023: Las mejores ofertas en tecnología, en directo ¡Es hora de ahorrar!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/mercadona-confirma-retirada-varios-productos-redes-estallan-1318894'>Mercadona confirma la retirada de varios productos y las redes estallan</a></h4>
     <a href='https://computerhoy.com/alimentacion/mercadona-confirma-retirada-varios-productos-redes-estallan-1318894' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/supermercado-2953104.jpg?tf=1200x' alt='Mercadona confirma la retirada de varios productos y las redes estallan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/diferencias-clave-raspberry-pi-5-raspberry-pi-4-1317716'>Diferencias clave y secretos ocultos entre Raspberry Pi 5 y Raspberry Pi 4</a></h4>
-    <a href='https://computerhoy.com/tecnologia/diferencias-clave-raspberry-pi-5-raspberry-pi-4-1317716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/diferencias-clave-secretos-ocultos-raspberry-pi-5-raspberry-pi-4-3190848.jpg?tf=1200x' alt='Diferencias clave y secretos ocultos entre Raspberry Pi 5 y Raspberry Pi 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-descubren-nuevo-secreto-escondido-mona-lisa-1318892'>Científicos descubren un nuevo secreto escondido en la Mona Lisa</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-descubren-nuevo-secreto-escondido-mona-lisa-1318892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/mona-lisa-3146846.jpg?tf=1200x' alt='Científicos descubren un nuevo secreto escondido en la Mona Lisa' />
     </a>
 </div>
 
