@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Amazon Prime Day 2023: Últimas ofertas del día 11, en directo ¡Es hora de ahorrar!</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/adobe-revoluciona-programas-inteligencia-artificial-photoshop-illustrator-mucho-1318592'>Adobe revoluciona sus programas con inteligencia artificial: Photoshop, Illustrator y mucho más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adobe-revoluciona-programas-inteligencia-artificial-photoshop-illustrator-mucho-1318592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/adobe-firefly-3192352.jpg?tf=1200x' alt='Adobe revoluciona sus programas con inteligencia artificial: Photoshop, Illustrator y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Amazon Prime Day 2023: ofertas en Xiaomi, Apple y Garmin, en directo ¡Es hora de ahorrar!</a></h4>
     <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-directo-3192338.jpg?tf=1200x' alt='Amazon Prime Day 2023: Últimas ofertas del día 11, en directo ¡Es hora de ahorrar!' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-directo-3192338.jpg?tf=1200x' alt='Amazon Prime Day 2023: ofertas en Xiaomi, Apple y Garmin, en directo ¡Es hora de ahorrar!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-lanza-actualizacion-airpods-pro-solucionar-bugs-1318604'>Apple lanza una actualización para los AirPods Pro que soluciona varios bugs</a></h4>
+    <a href='https://computerhoy.com/apple/apple-lanza-actualizacion-airpods-pro-solucionar-bugs-1318604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844263.jpg?tf=1200x' alt='Apple lanza una actualización para los AirPods Pro que soluciona varios bugs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/120-km-autonomia-precio-record-bici-electrica-montana-rompe-registros-amazon-1317674'>120 km de autonomía y precio récord: esta bici eléctrica de montaña rompe registros en Amazon</a></h4>
+    <a href='https://computerhoy.com/motor/120-km-autonomia-precio-record-bici-electrica-montana-rompe-registros-amazon-1317674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/moma-bikes-bicicleta-eletrica-emtb-3190580.jpg?tf=1200x' alt='120 km de autonomía y precio récord: esta bici eléctrica de montaña rompe registros en Amazon' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-reloj-deportivo-ultrarresistente-polar-150eu-barato-pone-apuros-garmin-1317632'>Amazon está liquidando un reloj deportivo ultrarresistente de Polar: es 150€ más barato y pone en apuros a Garmin</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-liquidando-reloj-deportivo-ultrarresistente-polar-150eu-barato-pone-apuros-garmin-1317632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/polar-grit-x-pro-3190478.jpg?tf=1200x' alt='Amazon está liquidando un reloj deportivo ultrarresistente de Polar: es 150€ más barato y pone en apuros a Garmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/futuros-moviles-2028-incorporaran-pantallas-reparan-solas-funcionan-1318582'>Los futuros móviles de 2028 incorporarán pantallas que se reparan solas: así funcionan</a></h4>
-    <a href='https://computerhoy.com/moviles/futuros-moviles-2028-incorporaran-pantallas-reparan-solas-funcionan-1318582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/samsung-galaxy-a14-3143790.jpg?tf=1200x' alt='Los futuros móviles de 2028 incorporarán pantallas que se reparan solas: así funcionan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-robot-disney-tan-real-parece-animado-ordenador-1318540'>El nuevo robot de Disney es tan real, que parece animado por ordenador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-robot-disney-tan-real-parece-animado-ordenador-1318540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1696996716973-3192278.jpg?tf=1200x' alt='El nuevo robot de Disney es tan real, que parece animado por ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-vs-amazon-chromecast-llega-prime-day-quiere-poner-apuros-fire-tv-stick-1316774'>Google vs Amazon: el Chromecast llega al Prime Day y quiere poner en apuros a los Fire TV Stick</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-vs-amazon-chromecast-llega-prime-day-quiere-poner-apuros-fire-tv-stick-1316774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chromecast-vs-fire-tv-3122298.jpg?tf=1200x' alt='Google vs Amazon: el Chromecast llega al Prime Day y quiere poner en apuros a los Fire TV Stick' />
     </a>
 </div>
 
