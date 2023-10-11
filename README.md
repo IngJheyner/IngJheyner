@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-voz-google-maps-android-1317636'>Cómo cambiar la voz de Google Maps en iOS y Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-voz-google-maps-android-1317636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-maps-3193122.jpg?tf=1200x' alt='Cómo cambiar la voz de Google Maps en iOS y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cancelacion-ruido-precio-ganga-auriculares-top-oferta-prime-day-octubre-1316140'>Cancelación de ruido a precio de ganga: auriculares top en oferta en el Prime Day de octubre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cancelacion-ruido-precio-ganga-auriculares-top-oferta-prime-day-octubre-1316140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989248.jpg?tf=1200x' alt='Cancelación de ruido a precio de ganga: auriculares top en oferta en el Prime Day de octubre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-prepara-nueva-oleada-novedades-aplicacion-1318640'>WhatsApp se prepara para una nueva oleada de novedades en la aplicación</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-prepara-nueva-oleada-novedades-aplicacion-1318640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/novedades-whatsapp-3193064.jpg?tf=1200x' alt='WhatsApp se prepara para una nueva oleada de novedades en la aplicación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/freidora-aire-novedosa-usa-pellets-dar-sabor-rebajada-amazon-1318700'>Esta freidora de aire sí que es novedosa: usa pellets para dar sabor y está rebajada en Amazon</a></h4>
     <a href='https://computerhoy.com/amazon/freidora-aire-novedosa-usa-pellets-dar-sabor-rebajada-amazon-1318700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ninja-woodfire-3193138.jpg?tf=1200x' alt='Esta freidora de aire sí que es novedosa: usa pellets para dar sabor y está rebajada en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bueno-bonito-ahora-barato-oneplus-10t-5g-desploma-precio-prime-day-te-lleva-carga-150w-1318680'>Bueno, bonito y ahora barato: el OnePlus 10T 5G desploma su precio en el Prime Day y te lleva a la carga de 150W</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bueno-bonito-ahora-barato-oneplus-10t-5g-desploma-precio-prime-day-te-lleva-carga-150w-1318680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oneplus-10t-analisis-opinion-2823451.jpg?tf=1200x' alt='Bueno, bonito y ahora barato: el OnePlus 10T 5G desploma su precio en el Prime Day y te lleva a la carga de 150W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/producto-apple-no-volveras-perder-maleta-1318688'>El producto de Apple con el que no volverás a perder tu maleta</a></h4>
-    <a href='https://computerhoy.com/apple/producto-apple-no-volveras-perder-maleta-1318688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/maletas-viaje-3193134.jpg?tf=1200x' alt='El producto de Apple con el que no volverás a perder tu maleta' />
     </a>
 </div>
 
