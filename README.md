@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-voz-google-maps-android-1317636'>Cómo cambiar la voz de Google Maps en iOS y Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-voz-google-maps-android-1317636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-maps-3193122.jpg?tf=1200x' alt='Cómo cambiar la voz de Google Maps en iOS y Android' />
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-popular-planeta-desploma-precio-casi-mitad-prime-day-cuesta-333eu-mes-1316360'>La VPN más popular de planeta desploma su precio a casi la mitad en el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-popular-planeta-desploma-precio-casi-mitad-prime-day-cuesta-333eu-mes-1316360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/persona-activando-vpn-ver-contenidos-netflix-3054644.jpg?tf=1200x' alt='La VPN más popular de planeta desploma su precio a casi la mitad en el Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cancelacion-ruido-precio-ganga-auriculares-top-oferta-prime-day-octubre-1316140'>Cancelación de ruido a precio de ganga: auriculares top en oferta en el Prime Day de octubre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cancelacion-ruido-precio-ganga-auriculares-top-oferta-prime-day-octubre-1316140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989248.jpg?tf=1200x' alt='Cancelación de ruido a precio de ganga: auriculares top en oferta en el Prime Day de octubre' />
+    <h4><a href='https://computerhoy.com/life/trucos-infalibles-quitar-manchas-casi-cualquier-cosa-1318526'>Trucos infalibles para eliminar las manchas de casi cualquier cosa</a></h4>
+    <a href='https://computerhoy.com/life/trucos-infalibles-quitar-manchas-casi-cualquier-cosa-1318526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ninos-manchados-3193128.jpg?tf=1200x' alt='Trucos infalibles para eliminar las manchas de casi cualquier cosa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-prepara-nueva-oleada-novedades-aplicacion-1318640'>WhatsApp se prepara para una nueva oleada de novedades en la aplicación</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-prepara-nueva-oleada-novedades-aplicacion-1318640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/novedades-whatsapp-3193064.jpg?tf=1200x' alt='WhatsApp se prepara para una nueva oleada de novedades en la aplicación' />
+    <h4><a href='https://computerhoy.com/life/descubren-verdadero-origen-canas-no-pensabas-1318784'>Descubren el verdadero origen de las canas y no es solo el que pensabas</a></h4>
+    <a href='https://computerhoy.com/life/descubren-verdadero-origen-canas-no-pensabas-1318784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/descubren-verdadero-origen-canas-no-solo-pensabas-3193482.jpg?tf=1200x' alt='Descubren el verdadero origen de las canas y no es solo el que pensabas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/freidora-aire-novedosa-usa-pellets-dar-sabor-rebajada-amazon-1318700'>Esta freidora de aire sí que es novedosa: usa pellets para dar sabor y está rebajada en Amazon</a></h4>
-    <a href='https://computerhoy.com/amazon/freidora-aire-novedosa-usa-pellets-dar-sabor-rebajada-amazon-1318700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ninja-woodfire-3193138.jpg?tf=1200x' alt='Esta freidora de aire sí que es novedosa: usa pellets para dar sabor y está rebajada en Amazon' />
+    <h4><a href='https://computerhoy.com/tecnologia/ofertas-ultima-hora-prime-day-1318740'>Ofertas de última hora que no volveremos a ver en mucho tiempo: el Prime Day se acaba y debes darte prisa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ofertas-ultima-hora-prime-day-1318740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-day-reloj-arena-3081928.jpg?tf=1200x' alt='Ofertas de última hora que no volveremos a ver en mucho tiempo: el Prime Day se acaba y debes darte prisa' />
     </a>
 </div>
 
