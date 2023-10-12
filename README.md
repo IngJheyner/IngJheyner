@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/union-europea-multa-intel-376-millones-euros-1319260'>La Unión Europea multa a Intel con 376 millones de euros por abuso de posición en el mercado de procesadores</a></h4>
+    <a href='https://computerhoy.com/pc/union-europea-multa-intel-376-millones-euros-1319260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/union-europea-multa-intel-376-millones-euros-abuso-posicion-mercado-procesadores-3194434.jpg?tf=1200x' alt='La Unión Europea multa a Intel con 376 millones de euros por abuso de posición en el mercado de procesadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-poner-fondo-pantalla-diferente-cada-monitor-windows-11-1296928'>Cómo poner un fondo de pantalla diferente para cada monitor en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-poner-fondo-pantalla-diferente-cada-monitor-windows-11-1296928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dos-monitores-logo-windows-11-3193324.jpg?tf=1200x' alt='Cómo poner un fondo de pantalla diferente para cada monitor en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/jensen-huang-nvidia-elegido-ceo-mas-popular-1319228'>Jensen Huang, de NVIDIA, es elegido el CEO más popular, Tim Cook no entra en el Top 3</a></h4>
+    <a href='https://computerhoy.com/tecnologia/jensen-huang-nvidia-elegido-ceo-mas-popular-1319228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Jensen Huang, de NVIDIA, es elegido el CEO más popular, Tim Cook no entra en el Top 3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/10-ofertas-han-arrasado-amazon-prime-day-siguen-disponibles-1319212'>10 ofertas que han arrasado en el Amazon Prime Day y siguen disponibles</a></h4>
     <a href='https://computerhoy.com/tecnologia/10-ofertas-han-arrasado-amazon-prime-day-siguen-disponibles-1319212' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-aplicacion-3075164.jpg?tf=1200x' alt='10 ofertas que han arrasado en el Amazon Prime Day y siguen disponibles' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/podria-haber-vida-jupiter-nasa-apuntan-luna-europa-1318690'>¿Podría haber vida en Júpiter? Nuevos descubrimientos de la NASA apuntan a su luna Europa</a></h4>
     <a href='https://computerhoy.com/ciencia/podria-haber-vida-jupiter-nasa-apuntan-luna-europa-1318690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/james-webb-jupiter-2792531.jpg?tf=1200x' alt='¿Podría haber vida en Júpiter? Nuevos descubrimientos de la NASA apuntan a su luna Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-donde-guardan-todas-contrasenas-android-1318776'>Cómo ver dónde se guardan todas las contraseñas en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-donde-guardan-todas-contrasenas-android-1318776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/contrasenas-android-3193520.jpg?tf=1200x' alt='Cómo ver dónde se guardan todas las contraseñas en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-pierde-80-dolares-mes-usuario-inteligencia-artificial-1319208'>"Como usar un Lamborghini para entregar una pizza": Microsoft pierde hasta 80 dólares al mes por usuario con su IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-pierde-80-dolares-mes-usuario-inteligencia-artificial-1319208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/microsoft-pierde-80-dolares-mes-cada-usuario-suscrito-ia-3194336.jpg?tf=1200x' alt='"Como usar un Lamborghini para entregar una pizza": Microsoft pierde hasta 80 dólares al mes por usuario con su IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/usan-videojuegos-desinformar-conflicto-israel-palestina-1319194'>Las cuentas de fake news usan metraje de videojuegos para desinformar sobre el conflicto entre Israel y Palestina</a></h4>
-    <a href='https://computerhoy.com/life/usan-videojuegos-desinformar-conflicto-israel-palestina-1319194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cuentas-fake-news-usan-metraje-videojuegos-desinformar-guerra-israel-palestina-3194328.jpg?tf=1200x' alt='Las cuentas de fake news usan metraje de videojuegos para desinformar sobre el conflicto entre Israel y Palestina' />
     </a>
 </div>
 
