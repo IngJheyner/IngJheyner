@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/solo-necesitas-dos-palabras-saltarte-requisitos-windows-11-1319180'>Solo necesitas dos palabras para saltarte los requisitos de CPU y TMP 2.0 de Windows 11, e instalarlo en cualquier PC</a></h4>
-    <a href='https://computerhoy.com/windows/solo-necesitas-dos-palabras-saltarte-requisitos-windows-11-1319180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/windows-11-estrena-esperadisima-funcion-te-ahorrara-teclear-mucho-texto-3136314.jpg?tf=1200x' alt='Solo necesitas dos palabras para saltarte los requisitos de CPU y TMP 2.0 de Windows 11, e instalarlo en cualquier PC' />
+    <h4><a href='https://computerhoy.com/tecnologia/10-ofertas-han-arrasado-amazon-prime-day-siguen-disponibles-1319212'>10 ofertas que han arrasado en el Amazon Prime Day y siguen disponibles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/10-ofertas-han-arrasado-amazon-prime-day-siguen-disponibles-1319212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-aplicacion-3075164.jpg?tf=1200x' alt='10 ofertas que han arrasado en el Amazon Prime Day y siguen disponibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sera-futuro-ia-europa-inversion-recelo-1318636'>Así será el futuro de la IA en Europa: entre la inversión y el recelo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sera-futuro-ia-europa-inversion-recelo-1318636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/inteligencia-artificial-robots-3193282.jpg?tf=1200x' alt='Así será el futuro de la IA en Europa: entre la inversión y el recelo' />
+    <h4><a href='https://computerhoy.com/ciencia/podria-haber-vida-jupiter-nasa-apuntan-luna-europa-1318690'>¿Podría haber vida en Júpiter? Nuevos descubrimientos de la NASA apuntan a su luna Europa</a></h4>
+    <a href='https://computerhoy.com/ciencia/podria-haber-vida-jupiter-nasa-apuntan-luna-europa-1318690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/james-webb-jupiter-2792531.jpg?tf=1200x' alt='¿Podría haber vida en Júpiter? Nuevos descubrimientos de la NASA apuntan a su luna Europa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-reloj-inteligente-fitbit-similar-apple-watch-1316392'>Amazon tumba el precio del reloj inteligente Fitbit más similar al Apple Watch</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-reloj-inteligente-fitbit-similar-apple-watch-1316392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fitbit-versa-4-2927658.jpg?tf=1200x' alt='Amazon tumba el precio del reloj inteligente Fitbit más similar al Apple Watch' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-donde-guardan-todas-contrasenas-android-1318776'>Cómo ver dónde se guardan todas las contraseñas en Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-donde-guardan-todas-contrasenas-android-1318776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/contrasenas-android-3193520.jpg?tf=1200x' alt='Cómo ver dónde se guardan todas las contraseñas en Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/air-fryer-xiaomi-apunta-prime-day-freidoras-top-mitad-precio-1318310'>La Air Fryer de Xiaomi se apunta al Prime Day: es de las freidoras más top y está a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/air-fryer-xiaomi-apunta-prime-day-freidoras-top-mitad-precio-1318310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-smart-air-fryer-pro-3141312.jpg?tf=1200x' alt='La Air Fryer de Xiaomi se apunta al Prime Day: es de las freidoras más top y está a mitad de precio' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-pierde-80-dolares-mes-usuario-inteligencia-artificial-1319208'>"Como usar un Lamborghini para entregar una pizza": Microsoft pierde hasta 80 dólares al mes por usuario con su IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-pierde-80-dolares-mes-usuario-inteligencia-artificial-1319208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/microsoft-pierde-80-dolares-mes-cada-usuario-suscrito-ia-3194336.jpg?tf=1200x' alt='"Como usar un Lamborghini para entregar una pizza": Microsoft pierde hasta 80 dólares al mes por usuario con su IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-encuentra-componentes-vida-asteroide-bennu-1319156'>La NASA encuentra componentes para la vida en las muestras del asteroide Bennu traídas a la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-encuentra-componentes-vida-asteroide-bennu-1319156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nasa-encuentra-componentes-vida-muestras-asteroide-bennu-traidas-tierra-3194266.jpg?tf=1200x' alt='La NASA encuentra componentes para la vida en las muestras del asteroide Bennu traídas a la Tierra' />
+    <h4><a href='https://computerhoy.com/life/usan-videojuegos-desinformar-conflicto-israel-palestina-1319194'>Las cuentas de fake news usan metraje de videojuegos para desinformar sobre el conflicto entre Israel y Palestina</a></h4>
+    <a href='https://computerhoy.com/life/usan-videojuegos-desinformar-conflicto-israel-palestina-1319194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cuentas-fake-news-usan-metraje-videojuegos-desinformar-guerra-israel-palestina-3194328.jpg?tf=1200x' alt='Las cuentas de fake news usan metraje de videojuegos para desinformar sobre el conflicto entre Israel y Palestina' />
     </a>
 </div>
 
