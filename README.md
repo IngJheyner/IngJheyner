@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-house-tiendas-fisicas-experiencias-fans-1319302'>Netflix anuncia Netflix House, tiendas físicas con "experiencias para los fans"</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-house-tiendas-fisicas-experiencias-fans-1319302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/netflix-anuncia-netflix-house-tiendas-fisicas-experiencias-fans-3194524.jpg?tf=1200x' alt='Netflix anuncia Netflix House, tiendas físicas con "experiencias para los fans"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/oneplus-open-movil-plegable-fotos-presentacion-1319298'>OnePlus Open, el primer móvil plegable de OnePlus, se presenta el 19 de octubre</a></h4>
+    <a href='https://computerhoy.com/moviles/oneplus-open-movil-plegable-fotos-presentacion-1319298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/oneplus-open-primer-movil-plegable-oneplus-presenta-semana-viene-3194520.jpg?tf=1200x' alt='OnePlus Open, el primer móvil plegable de OnePlus, se presenta el 19 de octubre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/buscador-google-integra-generacion-imagenes-inteligencia-artificial-1319282'>El buscador de Google integra la generación de imágenes mediante IA</a></h4>
     <a href='https://computerhoy.com/google/buscador-google-integra-generacion-imagenes-inteligencia-artificial-1319282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/buscador-google-integra-generacion-imagenes-mediante-ia-3194504.jpg?tf=1200x' alt='El buscador de Google integra la generación de imágenes mediante IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/union-europea-multa-intel-376-millones-euros-1319260'>La Unión Europea multa a Intel con 376 millones de euros por abuso de posición en el mercado de procesadores</a></h4>
     <a href='https://computerhoy.com/pc/union-europea-multa-intel-376-millones-euros-1319260' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/union-europea-multa-intel-376-millones-euros-abuso-posicion-mercado-procesadores-3194434.jpg?tf=1200x' alt='La Unión Europea multa a Intel con 376 millones de euros por abuso de posición en el mercado de procesadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-fondo-pantalla-diferente-cada-monitor-windows-11-1296928'>Cómo poner un fondo de pantalla diferente para cada monitor en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-fondo-pantalla-diferente-cada-monitor-windows-11-1296928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dos-monitores-logo-windows-11-3193324.jpg?tf=1200x' alt='Cómo poner un fondo de pantalla diferente para cada monitor en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jensen-huang-nvidia-elegido-ceo-mas-popular-1319228'>Jensen Huang, de NVIDIA, es elegido el CEO más popular, Tim Cook no entra en el Top 3</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jensen-huang-nvidia-elegido-ceo-mas-popular-1319228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Jensen Huang, de NVIDIA, es elegido el CEO más popular, Tim Cook no entra en el Top 3' />
     </a>
 </div>
 
