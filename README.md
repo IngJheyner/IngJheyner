@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/modo-dios-windows-11-4-funciones-sorprendentes-1318304'>Modo Dios de Windows 11: cómo aprovechar sus 4 funciones más sorprendentes</a></h4>
-    <a href='https://computerhoy.com/tutoriales/modo-dios-windows-11-4-funciones-sorprendentes-1318304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/modo-dios-windows-11-como-aprovechar-4-funciones-sorprendentes-3192044.jpg?tf=1200x' alt='Modo Dios de Windows 11: cómo aprovechar sus 4 funciones más sorprendentes' />
+    <h4><a href='https://computerhoy.com/windows/solo-necesitas-dos-palabras-saltarte-requisitos-windows-11-1319180'>Solo necesitas dos palabras para saltarte los requisitos de CPU y TMP 2.0 de Windows 11, e instalarlo en cualquier PC</a></h4>
+    <a href='https://computerhoy.com/windows/solo-necesitas-dos-palabras-saltarte-requisitos-windows-11-1319180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/windows-11-estrena-esperadisima-funcion-te-ahorrara-teclear-mucho-texto-3136314.jpg?tf=1200x' alt='Solo necesitas dos palabras para saltarte los requisitos de CPU y TMP 2.0 de Windows 11, e instalarlo en cualquier PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-653-computer-hoy-1315148'>¡Ya está en tu quiosco el número 653 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-653-computer-hoy-1315148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/computer-hoy-653-3187228.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 653 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/tecnologia/sera-futuro-ia-europa-inversion-recelo-1318636'>Así será el futuro de la IA en Europa: entre la inversión y el recelo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sera-futuro-ia-europa-inversion-recelo-1318636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/inteligencia-artificial-robots-3193282.jpg?tf=1200x' alt='Así será el futuro de la IA en Europa: entre la inversión y el recelo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pobres-son-pobres-dice-hombre-rico-china-1318268'>La razón por la que los pobres son pobres, según el hombre más rico de China</a></h4>
-    <a href='https://computerhoy.com/life/pobres-son-pobres-dice-hombre-rico-china-1318268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/jack-ma-3193292.jpg?tf=1200x' alt='La razón por la que los pobres son pobres, según el hombre más rico de China' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-reloj-inteligente-fitbit-similar-apple-watch-1316392'>Amazon tumba el precio del reloj inteligente Fitbit más similar al Apple Watch</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-reloj-inteligente-fitbit-similar-apple-watch-1316392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fitbit-versa-4-2927658.jpg?tf=1200x' alt='Amazon tumba el precio del reloj inteligente Fitbit más similar al Apple Watch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/caracteristica-me-ha-gustado-iphone-15-15-plus-1317370'>La característica que más me ha gustado del iPhone 15 y 15 Plus</a></h4>
-    <a href='https://computerhoy.com/moviles/caracteristica-me-ha-gustado-iphone-15-15-plus-1317370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-vs-15-plus-3146330.jpg?tf=1200x' alt='La característica que más me ha gustado del iPhone 15 y 15 Plus' />
+    <h4><a href='https://computerhoy.com/tecnologia/air-fryer-xiaomi-apunta-prime-day-freidoras-top-mitad-precio-1318310'>La Air Fryer de Xiaomi se apunta al Prime Day: es de las freidoras más top y está a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/air-fryer-xiaomi-apunta-prime-day-freidoras-top-mitad-precio-1318310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-smart-air-fryer-pro-3141312.jpg?tf=1200x' alt='La Air Fryer de Xiaomi se apunta al Prime Day: es de las freidoras más top y está a mitad de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/historia-vivo-principales-fabricantes-moviles-mundiales-1316184'>Historia de Vivo, uno de los mayores fabricantes de móviles en expansión por Europa</a></h4>
-    <a href='https://computerhoy.com/industria/historia-vivo-principales-fabricantes-moviles-mundiales-1316184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/historia-vivo-3188628.jpg?tf=1200x' alt='Historia de Vivo, uno de los mayores fabricantes de móviles en expansión por Europa' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-encuentra-componentes-vida-asteroide-bennu-1319156'>La NASA encuentra componentes para la vida en las muestras del asteroide Bennu traídas a la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-encuentra-componentes-vida-asteroide-bennu-1319156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nasa-encuentra-componentes-vida-muestras-asteroide-bennu-traidas-tierra-3194266.jpg?tf=1200x' alt='La NASA encuentra componentes para la vida en las muestras del asteroide Bennu traídas a la Tierra' />
     </a>
 </div>
 
