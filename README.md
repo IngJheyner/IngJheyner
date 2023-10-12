@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/sony-anuncia-juegos-ps5-nube-empujada-microsoft-1318918'>Sony anuncia juegos de PS5 en la nube, empujada por Microsoft </a></h4>
-    <a href='https://computerhoy.com/gaming/sony-anuncia-juegos-ps5-nube-empujada-microsoft-1318918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/juegos-ps5-nube-3194012.jpg?tf=1200x' alt='Sony anuncia juegos de PS5 en la nube, empujada por Microsoft ' />
+    <h4><a href='https://computerhoy.com/tutoriales/modo-dios-windows-11-4-funciones-sorprendentes-1318304'>Modo Dios de Windows 11: cómo aprovechar sus 4 funciones más sorprendentes</a></h4>
+    <a href='https://computerhoy.com/tutoriales/modo-dios-windows-11-4-funciones-sorprendentes-1318304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/modo-dios-windows-11-como-aprovechar-4-funciones-sorprendentes-3192044.jpg?tf=1200x' alt='Modo Dios de Windows 11: cómo aprovechar sus 4 funciones más sorprendentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-funciona-passkeys-mata-contrasenas-google-1318904'>Cómo funciona passkeys, el "mata contraseñas" de Google que ya es una realidad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-funciona-passkeys-mata-contrasenas-google-1318904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-funciona-passkeys-mata-contrasenas-google-ya-realidad-3194028.jpg?tf=1200x' alt='Cómo funciona passkeys, el "mata contraseñas" de Google que ya es una realidad' />
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-653-computer-hoy-1315148'>¡Ya está en tu quiosco el número 653 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-653-computer-hoy-1315148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/computer-hoy-653-3187228.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 653 de Computer Hoy!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760'>Prime Day 2023: Las mejores ofertas en tecnología, en directo ¡Es hora de ahorrar!</a></h4>
-    <a href='https://computerhoy.com/directos/prime-day-octubre-fiesta-ofertas-prime-amazon-directo-1315760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-prime-day-directo-3192338.jpg?tf=1200x' alt='Prime Day 2023: Las mejores ofertas en tecnología, en directo ¡Es hora de ahorrar!' />
+    <h4><a href='https://computerhoy.com/life/pobres-son-pobres-dice-hombre-rico-china-1318268'>La razón por la que los pobres son pobres, según el hombre más rico de China</a></h4>
+    <a href='https://computerhoy.com/life/pobres-son-pobres-dice-hombre-rico-china-1318268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/jack-ma-3193292.jpg?tf=1200x' alt='La razón por la que los pobres son pobres, según el hombre más rico de China' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/rtve-estrena-sorpresa-temporada-final-cuentame-como-paso-1318912'>RTVE estrena por sorpresa la temporada final de Cuéntame como pasó, adiós a Los Alcántara</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/rtve-estrena-sorpresa-temporada-final-cuentame-como-paso-1318912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697055736529-3194010.jpg?tf=1200x' alt='RTVE estrena por sorpresa la temporada final de Cuéntame como pasó, adiós a Los Alcántara' />
+    <h4><a href='https://computerhoy.com/moviles/caracteristica-me-ha-gustado-iphone-15-15-plus-1317370'>La característica que más me ha gustado del iPhone 15 y 15 Plus</a></h4>
+    <a href='https://computerhoy.com/moviles/caracteristica-me-ha-gustado-iphone-15-15-plus-1317370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-vs-15-plus-3146330.jpg?tf=1200x' alt='La característica que más me ha gustado del iPhone 15 y 15 Plus' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/mercadona-confirma-retirada-varios-productos-redes-estallan-1318894'>Mercadona confirma la retirada de varios productos y las redes estallan</a></h4>
-    <a href='https://computerhoy.com/alimentacion/mercadona-confirma-retirada-varios-productos-redes-estallan-1318894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/supermercado-2953104.jpg?tf=1200x' alt='Mercadona confirma la retirada de varios productos y las redes estallan' />
+    <h4><a href='https://computerhoy.com/industria/historia-vivo-principales-fabricantes-moviles-mundiales-1316184'>Historia de Vivo, uno de los mayores fabricantes de móviles en expansión por Europa</a></h4>
+    <a href='https://computerhoy.com/industria/historia-vivo-principales-fabricantes-moviles-mundiales-1316184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/historia-vivo-3188628.jpg?tf=1200x' alt='Historia de Vivo, uno de los mayores fabricantes de móviles en expansión por Europa' />
     </a>
 </div>
 
