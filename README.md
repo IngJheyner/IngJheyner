@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/microsoft-cierra-compra-activision-blizzard-69000-millones-dolares-1319864'>Microsoft vence a todas las agencias antimonopolio y cierra la compra de Activision Blizzard por 69.000 millones de dólares</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-cierra-compra-activision-blizzard-69000-millones-dolares-1319864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/microsoft-vence-todas-agencias-antimonopolio-cierra-compra-activision-blizzard-69000-millones-dolares-3195594.jpg?tf=1200x' alt='Microsoft vence a todas las agencias antimonopolio y cierra la compra de Activision Blizzard por 69.000 millones de dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/descubren-tesoro-clan-escoces-olla-chimenea-1318878'>Descubren un tesoro de un antiguo clan escocés oculto en una olla dentro de una chimenea </a></h4>
     <a href='https://computerhoy.com/life/descubren-tesoro-clan-escoces-olla-chimenea-1318878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/descubren-tesoro-antiguo-clan-escoces-oculto-olla-dentro-chimenea-3193862.jpg?tf=1200x' alt='Descubren un tesoro de un antiguo clan escocés oculto en una olla dentro de una chimenea ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-prepara-steam-moviles-juegos-aplicaciones-ios-android-1319850'>Microsoft prepara su “Steam para móviles” con juegos y aplicaciones para iOS y Android</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-prepara-steam-moviles-juegos-aplicaciones-ios-android-1319850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tienda-microsoft-3195568.jpg?tf=1200x' alt='Microsoft prepara su “Steam para móviles” con juegos y aplicaciones para iOS y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/omegle-como-funciona-redes-sociales-peligrosas-deberias-evitar-808247'>Qué es Omegle y cómo funciona la peligrosa red social que deberías evitar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/omegle-como-funciona-redes-sociales-peligrosas-deberias-evitar-808247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/omegle-3195142.jpg?tf=1200x' alt='Qué es Omegle y cómo funciona la peligrosa red social que deberías evitar' />
     </a>
 </div>
 
