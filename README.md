@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/tiempos-estan-cambiando-microsoft-quiere-ayudarte-instalacion-linux-1319630'>Los tiempos están cambiando: Microsoft quiere ayudarte en la instalación de Linux </a></h4>
-    <a href='https://computerhoy.com/windows/tiempos-estan-cambiando-microsoft-quiere-ayudarte-instalacion-linux-1319630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/microsoft-linux-3195106.jpg?tf=1200x' alt='Los tiempos están cambiando: Microsoft quiere ayudarte en la instalación de Linux ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-ni-complicaciones-1319246'>Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizarlos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-ni-complicaciones-1319246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apagon-tecnologico-espana-tdt-25-aniversario-computer-hoy-3103726.jpg?tf=1200x' alt='Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizarlos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/investigadores-chinos-desarrollan-primera-bateria-cuantica-inalambrica-nunca-gasta-1319602'>Investigadores chinos desarrollan la primera batería cuántica inalámbrica y que nunca se gasta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/investigadores-chinos-desarrollan-primera-bateria-cuantica-inalambrica-nunca-gasta-1319602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bateria-cuantica-3195026.jpg?tf=1200x' alt='Investigadores chinos desarrollan la primera batería cuántica inalámbrica y que nunca se gasta' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-1319690'>Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: mucho terror y una comedia española algo picante</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-1319690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/peliculas-fin-semana-3195260.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: mucho terror y una comedia española algo picante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/electrodomestico-te-dejara-despedirte-plancha-siempre-1319634'>Despídete de planchar para siempre con este electrodoméstico que deja tu ropa perfecta en 10 minutos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/electrodomestico-te-dejara-despedirte-plancha-siempre-1319634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hombre-enfadado-plancha-3195088.jpg?tf=1200x' alt='Despídete de planchar para siempre con este electrodoméstico que deja tu ropa perfecta en 10 minutos' />
+    <h4><a href='https://computerhoy.com/tecnologia/whatsapp-podras-poner-contrasena-ocultar-chats-1319640'>WhatsApp: podrás poner una contraseña para ocultar tus chats</a></h4>
+    <a href='https://computerhoy.com/tecnologia/whatsapp-podras-poner-contrasena-ocultar-chats-1319640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ocultar-whatsapp-3195248.jpg?tf=1200x' alt='WhatsApp: podrás poner una contraseña para ocultar tus chats' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/carrefour-tumba-precio-dyson-potentes-forma-temporal-1319512'>Carrefour tumba el precio de una de las Dyson más potentes de forma temporal</a></h4>
-    <a href='https://computerhoy.com/hogar/carrefour-tumba-precio-dyson-potentes-forma-temporal-1319512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/dyson-v11-absolute-extra-pro-2294427.jpg?tf=1200x' alt='Carrefour tumba el precio de una de las Dyson más potentes de forma temporal' />
+    <h4><a href='https://computerhoy.com/life/has-estado-utilizando-papel-aluminio-mal-no-sabias-1315398'>Has estado utilizando el papel de aluminio mal toda la vida y no lo sabías</a></h4>
+    <a href='https://computerhoy.com/life/has-estado-utilizando-papel-aluminio-mal-no-sabias-1315398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/papel-aluminio-3194974.jpg?tf=1200x' alt='Has estado utilizando el papel de aluminio mal toda la vida y no lo sabías' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/trucos-legales-mujer-japonesa-no-pagar-sola-factura-luz-10-anos-1134951'>Los trucos (legales) de esta mujer japonesa para no pagar una sola factura de la luz en 10 años</a></h4>
-    <a href='https://computerhoy.com/noticias/trucos-legales-mujer-japonesa-no-pagar-sola-factura-luz-10-anos-1134951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/modelos-basados-ia-tambien-seran-entrenados-entender-lenguaje-personas-discapacitadas-poder-ayudarlas-2832495.jpg?tf=1200x' alt='Los trucos (legales) de esta mujer japonesa para no pagar una sola factura de la luz en 10 años' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/sms-sospechosos-como-detectar-evitar-estafas-1319550'>SMS sospechosos: cómo detectar y evitar las estafas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/sms-sospechosos-como-detectar-evitar-estafas-1319550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/sms.jpg?tf=1200x' alt='SMS sospechosos: cómo detectar y evitar las estafas' />
     </a>
 </div>
 
