@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/afirman-viajar-tiempo-podria-solucionar-problemas-imposibles-1319620'>Un equipo de científicos afirma que viajar en el tiempo podría solucionar problemas imposibles</a></h4>
+    <a href='https://computerhoy.com/ciencia/afirman-viajar-tiempo-podria-solucionar-problemas-imposibles-1319620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/regreso-futuro-1907935.jpg?tf=1200x' alt='Un equipo de científicos afirma que viajar en el tiempo podría solucionar problemas imposibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-te-permitira-crear-imagenes-textos-ia-barra-barra-busquedas-chrome-1319530'>Google te permitirá crear imágenes y textos con IA desde su barra de búsquedas </a></h4>
+    <a href='https://computerhoy.com/google/google-te-permitira-crear-imagenes-textos-ia-barra-barra-busquedas-chrome-1319530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-inteligencia-artificial-3194854.jpg?tf=1200x' alt='Google te permitirá crear imágenes y textos con IA desde su barra de búsquedas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oferta-xiaomi-band-8-va-agotar-hoy-deja-precio-saldo-solo-durante-24-horas-1319506'>Esta oferta en la Xiaomi Band 8 se va a agotar hoy: la deja a precio de saldo solo durante 24 horas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oferta-xiaomi-band-8-va-agotar-hoy-deja-precio-saldo-solo-durante-24-horas-1319506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-smart-band-8-3194786.jpg?tf=1200x' alt='Esta oferta en la Xiaomi Band 8 se va a agotar hoy: la deja a precio de saldo solo durante 24 horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/ya-no-puedes-actualizar-windows-7-windows-11-forma-gratuita-1319542'>Microsoft ya no permite actualizar de Windows 7 a Windows 11 de forma gratuita</a></h4>
     <a href='https://computerhoy.com/windows/ya-no-puedes-actualizar-windows-7-windows-11-forma-gratuita-1319542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/windows-7-2375493.jpg?tf=1200x' alt='Microsoft ya no permite actualizar de Windows 7 a Windows 11 de forma gratuita' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/spacex-anuncia-futuro-comunicaciones-conectividad-satelital-todos-moviles-1319524'>SpaceX anuncia el futuro de las comunicaciones: conectividad satelital para todos los móviles</a></h4>
     <a href='https://computerhoy.com/tecnologia/spacex-anuncia-futuro-comunicaciones-conectividad-satelital-todos-moviles-1319524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/starlink-moviles-3194838.jpg?tf=1200x' alt='SpaceX anuncia el futuro de las comunicaciones: conectividad satelital para todos los móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/geekom-a5-analisis-opinion-miniordenador-te-va-sorprender-1312570'>Geekom A5, análisis y opinión: un miniordenador que te va a sorprender</a></h4>
-    <a href='https://computerhoy.com/analisis/geekom-a5-analisis-opinion-miniordenador-te-va-sorprender-1312570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/geekom-a5-3189436.jpg?tf=1200x' alt='Geekom A5, análisis y opinión: un miniordenador que te va a sorprender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023</a></h4>
-    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-forerunner-255-3188452.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-house-tiendas-fisicas-experiencias-fans-1319302'>Netflix anuncia Netflix House, tiendas físicas con "experiencias para los fans"</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-house-tiendas-fisicas-experiencias-fans-1319302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/netflix-anuncia-netflix-house-tiendas-fisicas-experiencias-fans-3194524.jpg?tf=1200x' alt='Netflix anuncia Netflix House, tiendas físicas con "experiencias para los fans"' />
     </a>
 </div>
 
