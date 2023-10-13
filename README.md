@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-ni-complicaciones-1319246'>Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizarlos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-ni-complicaciones-1319246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apagon-tecnologico-espana-tdt-25-aniversario-computer-hoy-3103726.jpg?tf=1200x' alt='Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizarlos' />
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-viernes-13-octubre-2023-1319830'>Programación TV: ¿Qué ver hoy en televisión? Viernes 13 de octubre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-viernes-13-octubre-2023-1319830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-viernes-13-octubre-2023-3195536.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Viernes 13 de octubre de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-1319690'>Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: mucho terror y una comedia española algo picante</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-1319690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/peliculas-fin-semana-3195260.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Disney+ y HBO Max: mucho terror y una comedia española algo picante' />
+    <h4><a href='https://computerhoy.com/tutoriales/funcion-oculta-amazon-fire-tv-deberias-activar-1314618'>La función oculta del Amazon Fire TV que pocos conocen y que deberías activar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/funcion-oculta-amazon-fire-tv-deberias-activar-1314618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funcion-oculta-amazon-fire-tv-pocos-conocen-deberias-activar-ahora-mismo-3185522.jpg?tf=1200x' alt='La función oculta del Amazon Fire TV que pocos conocen y que deberías activar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/whatsapp-podras-poner-contrasena-ocultar-chats-1319640'>WhatsApp: podrás poner una contraseña para ocultar tus chats</a></h4>
-    <a href='https://computerhoy.com/tecnologia/whatsapp-podras-poner-contrasena-ocultar-chats-1319640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ocultar-whatsapp-3195248.jpg?tf=1200x' alt='WhatsApp: podrás poner una contraseña para ocultar tus chats' />
+    <h4><a href='https://computerhoy.com/tutoriales/consejos-practicos-mejorar-uso-iphone-durante-noche-1319666'>Consejos prácticos para mejorar el uso de tu iPhone durante la noche</a></h4>
+    <a href='https://computerhoy.com/tutoriales/consejos-practicos-mejorar-uso-iphone-durante-noche-1319666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/consejos-practicos-mejorar-uso-iphone-durante-noche-3195144.jpg?tf=1200x' alt='Consejos prácticos para mejorar el uso de tu iPhone durante la noche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/has-estado-utilizando-papel-aluminio-mal-no-sabias-1315398'>Has estado utilizando el papel de aluminio mal toda la vida y no lo sabías</a></h4>
-    <a href='https://computerhoy.com/life/has-estado-utilizando-papel-aluminio-mal-no-sabias-1315398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/papel-aluminio-3194974.jpg?tf=1200x' alt='Has estado utilizando el papel de aluminio mal toda la vida y no lo sabías' />
+    <h4><a href='https://computerhoy.com/tecnologia/16gb-ram-ryzen-7-precio-mini-pc-amazon-aunque-oferta-pero-importante-1319534'>16GB de RAM y Ryzen 7 a precio de Mini PC en Amazon, aunque es una oferta con un pero importante</a></h4>
+    <a href='https://computerhoy.com/tecnologia/16gb-ram-ryzen-7-precio-mini-pc-amazon-aunque-oferta-pero-importante-1319534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/lenovo-ideapad-3-gen-6-3194820.jpg?tf=1200x' alt='16GB de RAM y Ryzen 7 a precio de Mini PC en Amazon, aunque es una oferta con un pero importante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/sms-sospechosos-como-detectar-evitar-estafas-1319550'>SMS sospechosos: cómo detectar y evitar las estafas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/sms-sospechosos-como-detectar-evitar-estafas-1319550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/sms.jpg?tf=1200x' alt='SMS sospechosos: cómo detectar y evitar las estafas' />
+    <h4><a href='https://computerhoy.com/tutoriales/truco-definitivo-saber-pagina-web-segura-1318924'>El truco definitivo para saber si una página web es segura</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-definitivo-saber-pagina-web-segura-1318924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-chrome-seguridad-2980508.jpg?tf=1200x' alt='El truco definitivo para saber si una página web es segura' />
     </a>
 </div>
 
