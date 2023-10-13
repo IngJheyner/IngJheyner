@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ya-no-puedes-actualizar-windows-7-windows-11-forma-gratuita-1319542'>Microsoft ya no permite actualizar de Windows 7 a Windows 11 de forma gratuita</a></h4>
+    <a href='https://computerhoy.com/windows/ya-no-puedes-actualizar-windows-7-windows-11-forma-gratuita-1319542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/windows-7-2375493.jpg?tf=1200x' alt='Microsoft ya no permite actualizar de Windows 7 a Windows 11 de forma gratuita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/spacex-anuncia-futuro-comunicaciones-conectividad-satelital-todos-moviles-1319524'>SpaceX anuncia el futuro de las comunicaciones: conectividad satelital para todos los móviles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/spacex-anuncia-futuro-comunicaciones-conectividad-satelital-todos-moviles-1319524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/starlink-moviles-3194838.jpg?tf=1200x' alt='SpaceX anuncia el futuro de las comunicaciones: conectividad satelital para todos los móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/geekom-a5-analisis-opinion-miniordenador-te-va-sorprender-1312570'>Geekom A5, análisis y opinión: un miniordenador que te va a sorprender</a></h4>
+    <a href='https://computerhoy.com/analisis/geekom-a5-analisis-opinion-miniordenador-te-va-sorprender-1312570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/geekom-a5-3189436.jpg?tf=1200x' alt='Geekom A5, análisis y opinión: un miniordenador que te va a sorprender' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023</a></h4>
+    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-forerunner-255-3188452.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-house-tiendas-fisicas-experiencias-fans-1319302'>Netflix anuncia Netflix House, tiendas físicas con "experiencias para los fans"</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-house-tiendas-fisicas-experiencias-fans-1319302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/netflix-anuncia-netflix-house-tiendas-fisicas-experiencias-fans-3194524.jpg?tf=1200x' alt='Netflix anuncia Netflix House, tiendas físicas con "experiencias para los fans"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oneplus-open-movil-plegable-fotos-presentacion-1319298'>OnePlus Open, el primer móvil plegable de OnePlus, se presenta el 19 de octubre</a></h4>
-    <a href='https://computerhoy.com/moviles/oneplus-open-movil-plegable-fotos-presentacion-1319298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/oneplus-open-primer-movil-plegable-oneplus-presenta-semana-viene-3194520.jpg?tf=1200x' alt='OnePlus Open, el primer móvil plegable de OnePlus, se presenta el 19 de octubre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/buscador-google-integra-generacion-imagenes-inteligencia-artificial-1319282'>El buscador de Google integra la generación de imágenes mediante IA</a></h4>
-    <a href='https://computerhoy.com/google/buscador-google-integra-generacion-imagenes-inteligencia-artificial-1319282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/buscador-google-integra-generacion-imagenes-mediante-ia-3194504.jpg?tf=1200x' alt='El buscador de Google integra la generación de imágenes mediante IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-jueves-12-octubre-2023-1319272'>Programación TV: ¿Qué ver hoy en televisión? Jueves 12 de octubre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-jueves-12-octubre-2023-1319272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-jueves-12-octubre-2023-3194492.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Jueves 12 de octubre de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/union-europea-multa-intel-376-millones-euros-1319260'>La Unión Europea multa a Intel con 376 millones de euros por abuso de posición en el mercado de procesadores</a></h4>
-    <a href='https://computerhoy.com/pc/union-europea-multa-intel-376-millones-euros-1319260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/union-europea-multa-intel-376-millones-euros-abuso-posicion-mercado-procesadores-3194434.jpg?tf=1200x' alt='La Unión Europea multa a Intel con 376 millones de euros por abuso de posición en el mercado de procesadores' />
     </a>
 </div>
 
