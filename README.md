@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-viernes-13-octubre-2023-1319830'>Programación TV: ¿Qué ver hoy en televisión? Viernes 13 de octubre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-viernes-13-octubre-2023-1319830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-viernes-13-octubre-2023-3195536.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Viernes 13 de octubre de 2023' />
+    <h4><a href='https://computerhoy.com/life/descubren-tesoro-clan-escoces-olla-chimenea-1318878'>Descubren un tesoro de un antiguo clan escocés oculto en una olla dentro de una chimenea </a></h4>
+    <a href='https://computerhoy.com/life/descubren-tesoro-clan-escoces-olla-chimenea-1318878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/descubren-tesoro-antiguo-clan-escoces-oculto-olla-dentro-chimenea-3193862.jpg?tf=1200x' alt='Descubren un tesoro de un antiguo clan escocés oculto en una olla dentro de una chimenea ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/funcion-oculta-amazon-fire-tv-deberias-activar-1314618'>La función oculta del Amazon Fire TV que pocos conocen y que deberías activar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/funcion-oculta-amazon-fire-tv-deberias-activar-1314618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funcion-oculta-amazon-fire-tv-pocos-conocen-deberias-activar-ahora-mismo-3185522.jpg?tf=1200x' alt='La función oculta del Amazon Fire TV que pocos conocen y que deberías activar ahora mismo' />
+    <h4><a href='https://computerhoy.com/life/estudiante-inteligencia-artificial-leer-papiro-carbonizado-gana-40000-dolares-1319858'>Un estudiante usa la IA para leer un papiro carbonizado por el Vesubio, gana 40.000 dólares</a></h4>
+    <a href='https://computerhoy.com/life/estudiante-inteligencia-artificial-leer-papiro-carbonizado-gana-40000-dolares-1319858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/ia-intentara-leer-papiros-calcinados-pompeya-herculano.jpg?tf=1200x' alt='Un estudiante usa la IA para leer un papiro carbonizado por el Vesubio, gana 40.000 dólares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/consejos-practicos-mejorar-uso-iphone-durante-noche-1319666'>Consejos prácticos para mejorar el uso de tu iPhone durante la noche</a></h4>
-    <a href='https://computerhoy.com/tutoriales/consejos-practicos-mejorar-uso-iphone-durante-noche-1319666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/consejos-practicos-mejorar-uso-iphone-durante-noche-3195144.jpg?tf=1200x' alt='Consejos prácticos para mejorar el uso de tu iPhone durante la noche' />
+    <h4><a href='https://computerhoy.com/moviles/sueno-tener-cargar-movil-solo-vez-mes-cada-vez-cerca-1319854'>El sueño de tener que cargar el móvil solo una vez al mes, cada vez más cerca</a></h4>
+    <a href='https://computerhoy.com/moviles/sueno-tener-cargar-movil-solo-vez-mes-cada-vez-cerca-1319854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/moviles-cargando-bateria-3195570.jpg?tf=1200x' alt='El sueño de tener que cargar el móvil solo una vez al mes, cada vez más cerca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/16gb-ram-ryzen-7-precio-mini-pc-amazon-aunque-oferta-pero-importante-1319534'>16GB de RAM y Ryzen 7 a precio de Mini PC en Amazon, aunque es una oferta con un pero importante</a></h4>
-    <a href='https://computerhoy.com/tecnologia/16gb-ram-ryzen-7-precio-mini-pc-amazon-aunque-oferta-pero-importante-1319534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/lenovo-ideapad-3-gen-6-3194820.jpg?tf=1200x' alt='16GB de RAM y Ryzen 7 a precio de Mini PC en Amazon, aunque es una oferta con un pero importante' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-prepara-steam-moviles-juegos-aplicaciones-ios-android-1319850'>Microsoft prepara su “Steam para móviles” con juegos y aplicaciones para iOS y Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-prepara-steam-moviles-juegos-aplicaciones-ios-android-1319850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tienda-microsoft-3195568.jpg?tf=1200x' alt='Microsoft prepara su “Steam para móviles” con juegos y aplicaciones para iOS y Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-definitivo-saber-pagina-web-segura-1318924'>El truco definitivo para saber si una página web es segura</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-definitivo-saber-pagina-web-segura-1318924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-chrome-seguridad-2980508.jpg?tf=1200x' alt='El truco definitivo para saber si una página web es segura' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/omegle-como-funciona-redes-sociales-peligrosas-deberias-evitar-808247'>Qué es Omegle y cómo funciona la peligrosa red social que deberías evitar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/omegle-como-funciona-redes-sociales-peligrosas-deberias-evitar-808247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/omegle-3195142.jpg?tf=1200x' alt='Qué es Omegle y cómo funciona la peligrosa red social que deberías evitar' />
     </a>
 </div>
 
