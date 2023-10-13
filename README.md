@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/afirman-viajar-tiempo-podria-solucionar-problemas-imposibles-1319620'>Un equipo de científicos afirma que viajar en el tiempo podría solucionar problemas imposibles</a></h4>
-    <a href='https://computerhoy.com/ciencia/afirman-viajar-tiempo-podria-solucionar-problemas-imposibles-1319620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/regreso-futuro-1907935.jpg?tf=1200x' alt='Un equipo de científicos afirma que viajar en el tiempo podría solucionar problemas imposibles' />
+    <h4><a href='https://computerhoy.com/windows/tiempos-estan-cambiando-microsoft-quiere-ayudarte-instalacion-linux-1319630'>Los tiempos están cambiando: Microsoft quiere ayudarte en la instalación de Linux </a></h4>
+    <a href='https://computerhoy.com/windows/tiempos-estan-cambiando-microsoft-quiere-ayudarte-instalacion-linux-1319630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/microsoft-linux-3195106.jpg?tf=1200x' alt='Los tiempos están cambiando: Microsoft quiere ayudarte en la instalación de Linux ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-te-permitira-crear-imagenes-textos-ia-barra-barra-busquedas-chrome-1319530'>Google te permitirá crear imágenes y textos con IA desde su barra de búsquedas </a></h4>
-    <a href='https://computerhoy.com/google/google-te-permitira-crear-imagenes-textos-ia-barra-barra-busquedas-chrome-1319530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-inteligencia-artificial-3194854.jpg?tf=1200x' alt='Google te permitirá crear imágenes y textos con IA desde su barra de búsquedas ' />
+    <h4><a href='https://computerhoy.com/tecnologia/investigadores-chinos-desarrollan-primera-bateria-cuantica-inalambrica-nunca-gasta-1319602'>Investigadores chinos desarrollan la primera batería cuántica inalámbrica y que nunca se gasta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/investigadores-chinos-desarrollan-primera-bateria-cuantica-inalambrica-nunca-gasta-1319602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bateria-cuantica-3195026.jpg?tf=1200x' alt='Investigadores chinos desarrollan la primera batería cuántica inalámbrica y que nunca se gasta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oferta-xiaomi-band-8-va-agotar-hoy-deja-precio-saldo-solo-durante-24-horas-1319506'>Esta oferta en la Xiaomi Band 8 se va a agotar hoy: la deja a precio de saldo solo durante 24 horas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oferta-xiaomi-band-8-va-agotar-hoy-deja-precio-saldo-solo-durante-24-horas-1319506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-smart-band-8-3194786.jpg?tf=1200x' alt='Esta oferta en la Xiaomi Band 8 se va a agotar hoy: la deja a precio de saldo solo durante 24 horas' />
+    <h4><a href='https://computerhoy.com/tecnologia/electrodomestico-te-dejara-despedirte-plancha-siempre-1319634'>Despídete de planchar para siempre con este electrodoméstico que deja tu ropa perfecta en 10 minutos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/electrodomestico-te-dejara-despedirte-plancha-siempre-1319634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hombre-enfadado-plancha-3195088.jpg?tf=1200x' alt='Despídete de planchar para siempre con este electrodoméstico que deja tu ropa perfecta en 10 minutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ya-no-puedes-actualizar-windows-7-windows-11-forma-gratuita-1319542'>Microsoft ya no permite actualizar de Windows 7 a Windows 11 de forma gratuita</a></h4>
-    <a href='https://computerhoy.com/windows/ya-no-puedes-actualizar-windows-7-windows-11-forma-gratuita-1319542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/windows-7-2375493.jpg?tf=1200x' alt='Microsoft ya no permite actualizar de Windows 7 a Windows 11 de forma gratuita' />
+    <h4><a href='https://computerhoy.com/hogar/carrefour-tumba-precio-dyson-potentes-forma-temporal-1319512'>Carrefour tumba el precio de una de las Dyson más potentes de forma temporal</a></h4>
+    <a href='https://computerhoy.com/hogar/carrefour-tumba-precio-dyson-potentes-forma-temporal-1319512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/dyson-v11-absolute-extra-pro-2294427.jpg?tf=1200x' alt='Carrefour tumba el precio de una de las Dyson más potentes de forma temporal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/spacex-anuncia-futuro-comunicaciones-conectividad-satelital-todos-moviles-1319524'>SpaceX anuncia el futuro de las comunicaciones: conectividad satelital para todos los móviles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/spacex-anuncia-futuro-comunicaciones-conectividad-satelital-todos-moviles-1319524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/starlink-moviles-3194838.jpg?tf=1200x' alt='SpaceX anuncia el futuro de las comunicaciones: conectividad satelital para todos los móviles' />
+    <h4><a href='https://computerhoy.com/noticias/trucos-legales-mujer-japonesa-no-pagar-sola-factura-luz-10-anos-1134951'>Los trucos (legales) de esta mujer japonesa para no pagar una sola factura de la luz en 10 años</a></h4>
+    <a href='https://computerhoy.com/noticias/trucos-legales-mujer-japonesa-no-pagar-sola-factura-luz-10-anos-1134951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/modelos-basados-ia-tambien-seran-entrenados-entender-lenguaje-personas-discapacitadas-poder-ayudarlas-2832495.jpg?tf=1200x' alt='Los trucos (legales) de esta mujer japonesa para no pagar una sola factura de la luz en 10 años' />
     </a>
 </div>
 
