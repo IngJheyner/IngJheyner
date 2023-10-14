@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211'>Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fitbit-charge-6-3195502.jpg?tf=1200x' alt='Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?' />
+    <h4><a href='https://computerhoy.com/tecnologia/chromecast-google-tv-4k-recibe-finalmente-actualizacion-llevabas-tiempo-esperando-1320094'>Tu Chromecast con Google TV 4K recibe finalmente esta actualización que llevabas tiempo esperando</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chromecast-google-tv-4k-recibe-finalmente-actualizacion-llevabas-tiempo-esperando-1320094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg?tf=1200x' alt='Tu Chromecast con Google TV 4K recibe finalmente esta actualización que llevabas tiempo esperando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-series-peliculas-ayudan-entender-conflicto-israel-palestina-1318724'>5 series y películas que ayudan a entender el conflicto entre Israel y Palestina</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-series-peliculas-ayudan-entender-conflicto-israel-palestina-1318724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/peliculas-guerra-3193312.jpg?tf=1200x' alt='5 series y películas que ayudan a entender el conflicto entre Israel y Palestina' />
+    <h4><a href='https://computerhoy.com/windows/error-evita-te-instale-ultima-actualizacion-windows-10-1320090'>El error que evita que se te instale la última actualización de Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/error-evita-te-instale-ultima-actualizacion-windows-10-1320090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/fin-soporte-windows-10-2369043.jpg?tf=1200x' alt='El error que evita que se te instale la última actualización de Windows 10' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejor-vpn-gratis-ocultar-ip-1319306'>Mejor VPN gratis: cómo ocultar tu IP o simular que te conectas desde otro país</a></h4>
-    <a href='https://computerhoy.com/internet/mejor-vpn-gratis-ocultar-ip-1319306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/evita-conectarte-cualquier-estos-paises-cuando-uses-vpn-no-quieres-tener-problemas-2881283.jpg?tf=1200x' alt='Mejor VPN gratis: cómo ocultar tu IP o simular que te conectas desde otro país' />
+    <h4><a href='https://computerhoy.com/tutoriales/hacen-sticky-keys-windows-11-como-activan-desactivan-1317446'>Qué hacen las Sticky Keys de Windows 11 y cómo se activan y desactivan</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacen-sticky-keys-windows-11-como-activan-desactivan-1317446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teclas-windows-3195108.jpg?tf=1200x' alt='Qué hacen las Sticky Keys de Windows 11 y cómo se activan y desactivan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/precio-bomba-camara-vigilancia-4k-deja-otras-ridiculo-1319668'>Precio bomba en una cámara de vigilancia 4K que deja a otras en ridículo</a></h4>
-    <a href='https://computerhoy.com/hogar/precio-bomba-camara-vigilancia-4k-deja-otras-ridiculo-1319668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/eufycam-3c-s300-3195194.jpg?tf=1200x' alt='Precio bomba en una cámara de vigilancia 4K que deja a otras en ridículo' />
+    <h4><a href='https://computerhoy.com/google/google-experimenta-nuevo-diseno-buscador-escritorio-no-va-gustarte-1320084'>Google experimenta con un nuevo diseño para su buscador en escritorio y no va a gustarte</a></h4>
+    <a href='https://computerhoy.com/google/google-experimenta-nuevo-diseno-buscador-escritorio-no-va-gustarte-1320084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/paleontologia-web-google-buscador-3080312.jpg?tf=1200x' alt='Google experimenta con un nuevo diseño para su buscador en escritorio y no va a gustarte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-herramienta-definitiva-conocer-todos-movimientos-ciberdelincuentes-1317396'>He convertido Telegram en la herramienta definitiva para conocer todos los movimientos de los ciberdelincuentes</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-herramienta-definitiva-conocer-todos-movimientos-ciberdelincuentes-1317396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/telegram-ciberdelincuentes-3192014.jpg?tf=1200x' alt='He convertido Telegram en la herramienta definitiva para conocer todos los movimientos de los ciberdelincuentes' />
+    <h4><a href='https://computerhoy.com/energia/como-funcionan-placas-solares-tipos-paneles-eficientes-1319266'>Cómo funcionan las placas solares: tipos de paneles solares y cuáles son los más eficientes</a></h4>
+    <a href='https://computerhoy.com/energia/como-funcionan-placas-solares-tipos-paneles-eficientes-1319266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/paneles-solares_3.jpg?tf=1200x' alt='Cómo funcionan las placas solares: tipos de paneles solares y cuáles son los más eficientes' />
     </a>
 </div>
 
