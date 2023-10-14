@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211'>Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fitbit-charge-6-3195502.jpg?tf=1200x' alt='Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/5-series-peliculas-ayudan-entender-conflicto-israel-palestina-1318724'>5 series y películas que ayudan a entender el conflicto entre Israel y Palestina</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/5-series-peliculas-ayudan-entender-conflicto-israel-palestina-1318724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/peliculas-guerra-3193312.jpg?tf=1200x' alt='5 series y películas que ayudan a entender el conflicto entre Israel y Palestina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mejor-vpn-gratis-ocultar-ip-1319306'>Mejor VPN gratis: cómo ocultar tu IP o simular que te conectas desde otro país</a></h4>
+    <a href='https://computerhoy.com/internet/mejor-vpn-gratis-ocultar-ip-1319306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/evita-conectarte-cualquier-estos-paises-cuando-uses-vpn-no-quieres-tener-problemas-2881283.jpg?tf=1200x' alt='Mejor VPN gratis: cómo ocultar tu IP o simular que te conectas desde otro país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/precio-bomba-camara-vigilancia-4k-deja-otras-ridiculo-1319668'>Precio bomba en una cámara de vigilancia 4K que deja a otras en ridículo</a></h4>
     <a href='https://computerhoy.com/hogar/precio-bomba-camara-vigilancia-4k-deja-otras-ridiculo-1319668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/eufycam-3c-s300-3195194.jpg?tf=1200x' alt='Precio bomba en una cámara de vigilancia 4K que deja a otras en ridículo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/telegram-herramienta-definitiva-conocer-todos-movimientos-ciberdelincuentes-1317396'>He convertido Telegram en la herramienta definitiva para conocer todos los movimientos de los ciberdelincuentes</a></h4>
     <a href='https://computerhoy.com/apps/telegram-herramienta-definitiva-conocer-todos-movimientos-ciberdelincuentes-1317396' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/telegram-ciberdelincuentes-3192014.jpg?tf=1200x' alt='He convertido Telegram en la herramienta definitiva para conocer todos los movimientos de los ciberdelincuentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/para-toda-la-humanidad-temporada-4-apple-tv-plus-1320038'>Vuelve la serie más ambiciosa de Apple TV+, y adelanta un futuro posible para toda la humanidad</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/para-toda-la-humanidad-temporada-4-apple-tv-plus-1320038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697236253229-3195598.jpg?tf=1200x' alt='Vuelve la serie más ambiciosa de Apple TV+, y adelanta un futuro posible para toda la humanidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/jovenes-caen-estafas-adultos-pasando-1314558'>Los jóvenes caen en más estafas que los adultos: "Ese sentimiento falso de impunidad les hace estar menos atentos a los engaños de Internet"</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/jovenes-caen-estafas-adultos-pasando-1314558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/jovenes-estafas-3187400.jpg?tf=1200x' alt='Los jóvenes caen en más estafas que los adultos: "Ese sentimiento falso de impunidad les hace estar menos atentos a los engaños de Internet"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/menos-me-ha-gustado-iphone-15-iphone-15-plus-1317394'>Esto es lo que menos me ha gustado del iPhone 15 y iPhone 15 Plus</a></h4>
-    <a href='https://computerhoy.com/apple/menos-me-ha-gustado-iphone-15-iphone-15-plus-1317394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-vs-iphone-15-plus-3141026.jpg?tf=1200x' alt='Esto es lo que menos me ha gustado del iPhone 15 y iPhone 15 Plus' />
     </a>
 </div>
 
