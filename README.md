@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/precio-bomba-camara-vigilancia-4k-deja-otras-ridiculo-1319668'>Precio bomba en una cámara de vigilancia 4K que deja a otras en ridículo</a></h4>
+    <a href='https://computerhoy.com/hogar/precio-bomba-camara-vigilancia-4k-deja-otras-ridiculo-1319668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/eufycam-3c-s300-3195194.jpg?tf=1200x' alt='Precio bomba en una cámara de vigilancia 4K que deja a otras en ridículo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/telegram-herramienta-definitiva-conocer-todos-movimientos-ciberdelincuentes-1317396'>He convertido Telegram en la herramienta definitiva para conocer todos los movimientos de los ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-herramienta-definitiva-conocer-todos-movimientos-ciberdelincuentes-1317396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/telegram-ciberdelincuentes-3192014.jpg?tf=1200x' alt='He convertido Telegram en la herramienta definitiva para conocer todos los movimientos de los ciberdelincuentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/para-toda-la-humanidad-temporada-4-apple-tv-plus-1320038'>Vuelve la serie más ambiciosa de Apple TV+, y adelanta un futuro posible para toda la humanidad</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/para-toda-la-humanidad-temporada-4-apple-tv-plus-1320038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697236253229-3195598.jpg?tf=1200x' alt='Vuelve la serie más ambiciosa de Apple TV+, y adelanta un futuro posible para toda la humanidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/jovenes-caen-estafas-adultos-pasando-1314558'>Los jóvenes caen en más estafas que los adultos: "Ese sentimiento falso de impunidad les hace estar menos atentos a los engaños de Internet"</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/jovenes-caen-estafas-adultos-pasando-1314558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/jovenes-estafas-3187400.jpg?tf=1200x' alt='Los jóvenes caen en más estafas que los adultos: "Ese sentimiento falso de impunidad les hace estar menos atentos a los engaños de Internet"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/menos-me-ha-gustado-iphone-15-iphone-15-plus-1317394'>Esto es lo que menos me ha gustado del iPhone 15 y iPhone 15 Plus</a></h4>
     <a href='https://computerhoy.com/apple/menos-me-ha-gustado-iphone-15-iphone-15-plus-1317394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-vs-iphone-15-plus-3141026.jpg?tf=1200x' alt='Esto es lo que menos me ha gustado del iPhone 15 y iPhone 15 Plus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tecnologia-invasiva-vestible-nuevos-intentos-1318040'>¿Algún día veremos tecnología invasiva vestible? No será por falta de nuevos intentos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tecnologia-invasiva-vestible-nuevos-intentos-1318040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/humane-3191160.jpg?tf=1200x' alt='¿Algún día veremos tecnología invasiva vestible? No será por falta de nuevos intentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/autobuses-trenes-utilizan-telas-extranas-asientos-1318228'>Esta es la sorprendente razón por la que los autobuses y trenes utilizan telas tan extrañas en los asientos</a></h4>
-    <a href='https://computerhoy.com/life/autobuses-trenes-utilizan-telas-extranas-asientos-1318228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/razon-autobuses-utilizan-telas-tan-extranas-asientos-3191926.jpg?tf=1200x' alt='Esta es la sorprendente razón por la que los autobuses y trenes utilizan telas tan extrañas en los asientos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/9-dispositivos-vendieron-como-futuro-no-triunfaron-1319186'>9 dispositivos que se vendieron como el futuro y no triunfaron </a></h4>
-    <a href='https://computerhoy.com/tecnologia/9-dispositivos-vendieron-como-futuro-no-triunfaron-1319186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/10/67489-project-ara.jpg?tf=1200x' alt='9 dispositivos que se vendieron como el futuro y no triunfaron ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/eolipila-primera-maquina-vapor-2000-anos-heron-alejandria-1318796'>Eolípila, la máquina de vapor de hace 2.000 años, que nadie sabe para qué sirve</a></h4>
-    <a href='https://computerhoy.com/ciencia/eolipila-primera-maquina-vapor-2000-anos-heron-alejandria-1318796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/eolipila-maquina-vapor-hace-2000-anos-nadie-sabe-sirve-3193456.jpg?tf=1200x' alt='Eolípila, la máquina de vapor de hace 2.000 años, que nadie sabe para qué sirve' />
     </a>
 </div>
 
