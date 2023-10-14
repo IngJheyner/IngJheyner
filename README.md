@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/pon-prueba-inteligencia-acertijo-sombrero-prisionero-1319862'>Pon a prueba tu inteligencia con el acertijo del sombrero de prisionero, solo unos pocos pueden resolverlo</a></h4>
+    <a href='https://computerhoy.com/life/pon-prueba-inteligencia-acertijo-sombrero-prisionero-1319862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pon-prueba-inteligencia-acertijo-sombrero-prisionero-solo-pocos-pueden-resolverlo-3195600.jpg?tf=1200x' alt='Pon a prueba tu inteligencia con el acertijo del sombrero de prisionero, solo unos pocos pueden resolverlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/microsoft-cierra-compra-activision-blizzard-69000-millones-dolares-1319864'>Microsoft vence a todas las agencias antimonopolio y cierra la compra de Activision Blizzard por 69.000 millones de dólares</a></h4>
     <a href='https://computerhoy.com/gaming/microsoft-cierra-compra-activision-blizzard-69000-millones-dolares-1319864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/microsoft-vence-todas-agencias-antimonopolio-cierra-compra-activision-blizzard-69000-millones-dolares-3195594.jpg?tf=1200x' alt='Microsoft vence a todas las agencias antimonopolio y cierra la compra de Activision Blizzard por 69.000 millones de dólares' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/sueno-tener-cargar-movil-solo-vez-mes-cada-vez-cerca-1319854'>El sueño de tener que cargar el móvil solo una vez al mes, cada vez más cerca</a></h4>
     <a href='https://computerhoy.com/moviles/sueno-tener-cargar-movil-solo-vez-mes-cada-vez-cerca-1319854' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/moviles-cargando-bateria-3195570.jpg?tf=1200x' alt='El sueño de tener que cargar el móvil solo una vez al mes, cada vez más cerca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-prepara-steam-moviles-juegos-aplicaciones-ios-android-1319850'>Microsoft prepara su “Steam para móviles” con juegos y aplicaciones para iOS y Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-prepara-steam-moviles-juegos-aplicaciones-ios-android-1319850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tienda-microsoft-3195568.jpg?tf=1200x' alt='Microsoft prepara su “Steam para móviles” con juegos y aplicaciones para iOS y Android' />
     </a>
 </div>
 
