@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211'>Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fitbit-charge-6-3195502.jpg?tf=1200x' alt='Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/pon-prueba-inteligencia-acertijo-sombrero-prisionero-1319862'>Pon a prueba tu inteligencia con el acertijo del sombrero de prisionero, solo unos pocos pueden resolverlo</a></h4>
     <a href='https://computerhoy.com/life/pon-prueba-inteligencia-acertijo-sombrero-prisionero-1319862' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pon-prueba-inteligencia-acertijo-sombrero-prisionero-solo-pocos-pueden-resolverlo-3195600.jpg?tf=1200x' alt='Pon a prueba tu inteligencia con el acertijo del sombrero de prisionero, solo unos pocos pueden resolverlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estudiante-inteligencia-artificial-leer-papiro-carbonizado-gana-40000-dolares-1319858'>Un estudiante usa la IA para leer un papiro carbonizado por el Vesubio, gana 40.000 dólares</a></h4>
     <a href='https://computerhoy.com/life/estudiante-inteligencia-artificial-leer-papiro-carbonizado-gana-40000-dolares-1319858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/ia-intentara-leer-papiros-calcinados-pompeya-herculano.jpg?tf=1200x' alt='Un estudiante usa la IA para leer un papiro carbonizado por el Vesubio, gana 40.000 dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sueno-tener-cargar-movil-solo-vez-mes-cada-vez-cerca-1319854'>El sueño de tener que cargar el móvil solo una vez al mes, cada vez más cerca</a></h4>
-    <a href='https://computerhoy.com/moviles/sueno-tener-cargar-movil-solo-vez-mes-cada-vez-cerca-1319854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/moviles-cargando-bateria-3195570.jpg?tf=1200x' alt='El sueño de tener que cargar el móvil solo una vez al mes, cada vez más cerca' />
     </a>
 </div>
 
