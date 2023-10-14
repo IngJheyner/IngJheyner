@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-sabado-14-octubre-2023-1320064'>Programación TV: ¿Qué ver hoy en televisión? Sábado 14 de octubre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-sabado-14-octubre-2023-1320064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-sabado-14-octubre-2023-3195818.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Sábado 14 de octubre de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/desaparece-misteriosamente-aplicacion-google-android-auto-1320098'>Desaparece misteriosamente esta aplicación de Google en Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/desaparece-misteriosamente-aplicacion-google-android-auto-1320098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/android-auto-2828149.jpg?tf=1200x' alt='Desaparece misteriosamente esta aplicación de Google en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chromecast-google-tv-4k-recibe-finalmente-actualizacion-llevabas-tiempo-esperando-1320094'>Tu Chromecast con Google TV 4K recibe finalmente esta actualización que llevabas tiempo esperando</a></h4>
     <a href='https://computerhoy.com/tecnologia/chromecast-google-tv-4k-recibe-finalmente-actualizacion-llevabas-tiempo-esperando-1320094' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg?tf=1200x' alt='Tu Chromecast con Google TV 4K recibe finalmente esta actualización que llevabas tiempo esperando' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/hacen-sticky-keys-windows-11-como-activan-desactivan-1317446'>Qué hacen las Sticky Keys de Windows 11 y cómo se activan y desactivan</a></h4>
     <a href='https://computerhoy.com/tutoriales/hacen-sticky-keys-windows-11-como-activan-desactivan-1317446' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teclas-windows-3195108.jpg?tf=1200x' alt='Qué hacen las Sticky Keys de Windows 11 y cómo se activan y desactivan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-experimenta-nuevo-diseno-buscador-escritorio-no-va-gustarte-1320084'>Google experimenta con un nuevo diseño para su buscador en escritorio y no va a gustarte</a></h4>
-    <a href='https://computerhoy.com/google/google-experimenta-nuevo-diseno-buscador-escritorio-no-va-gustarte-1320084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/paleontologia-web-google-buscador-3080312.jpg?tf=1200x' alt='Google experimenta con un nuevo diseño para su buscador en escritorio y no va a gustarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/como-funcionan-placas-solares-tipos-paneles-eficientes-1319266'>Cómo funcionan las placas solares: tipos de paneles solares y cuáles son los más eficientes</a></h4>
-    <a href='https://computerhoy.com/energia/como-funcionan-placas-solares-tipos-paneles-eficientes-1319266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/paneles-solares_3.jpg?tf=1200x' alt='Cómo funcionan las placas solares: tipos de paneles solares y cuáles son los más eficientes' />
     </a>
 </div>
 
