@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211'>Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fitbit-charge-6-3195502.jpg?tf=1200x' alt='Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?' />
+    <h4><a href='https://computerhoy.com/apple/menos-me-ha-gustado-iphone-15-iphone-15-plus-1317394'>Esto es lo que menos me ha gustado del iPhone 15 y iPhone 15 Plus</a></h4>
+    <a href='https://computerhoy.com/apple/menos-me-ha-gustado-iphone-15-iphone-15-plus-1317394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-vs-iphone-15-plus-3141026.jpg?tf=1200x' alt='Esto es lo que menos me ha gustado del iPhone 15 y iPhone 15 Plus' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pon-prueba-inteligencia-acertijo-sombrero-prisionero-1319862'>Pon a prueba tu inteligencia con el acertijo del sombrero de prisionero, solo unos pocos pueden resolverlo</a></h4>
-    <a href='https://computerhoy.com/life/pon-prueba-inteligencia-acertijo-sombrero-prisionero-1319862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pon-prueba-inteligencia-acertijo-sombrero-prisionero-solo-pocos-pueden-resolverlo-3195600.jpg?tf=1200x' alt='Pon a prueba tu inteligencia con el acertijo del sombrero de prisionero, solo unos pocos pueden resolverlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/tecnologia-invasiva-vestible-nuevos-intentos-1318040'>¿Algún día veremos tecnología invasiva vestible? No será por falta de nuevos intentos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tecnologia-invasiva-vestible-nuevos-intentos-1318040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/humane-3191160.jpg?tf=1200x' alt='¿Algún día veremos tecnología invasiva vestible? No será por falta de nuevos intentos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/microsoft-cierra-compra-activision-blizzard-69000-millones-dolares-1319864'>Microsoft vence a todas las agencias antimonopolio y cierra la compra de Activision Blizzard por 69.000 millones de dólares</a></h4>
-    <a href='https://computerhoy.com/gaming/microsoft-cierra-compra-activision-blizzard-69000-millones-dolares-1319864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/microsoft-vence-todas-agencias-antimonopolio-cierra-compra-activision-blizzard-69000-millones-dolares-3195594.jpg?tf=1200x' alt='Microsoft vence a todas las agencias antimonopolio y cierra la compra de Activision Blizzard por 69.000 millones de dólares' />
+    <h4><a href='https://computerhoy.com/life/autobuses-trenes-utilizan-telas-extranas-asientos-1318228'>Esta es la sorprendente razón por la que los autobuses y trenes utilizan telas tan extrañas en los asientos</a></h4>
+    <a href='https://computerhoy.com/life/autobuses-trenes-utilizan-telas-extranas-asientos-1318228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/razon-autobuses-utilizan-telas-tan-extranas-asientos-3191926.jpg?tf=1200x' alt='Esta es la sorprendente razón por la que los autobuses y trenes utilizan telas tan extrañas en los asientos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubren-tesoro-clan-escoces-olla-chimenea-1318878'>Descubren un tesoro de un antiguo clan escocés oculto en una olla dentro de una chimenea </a></h4>
-    <a href='https://computerhoy.com/life/descubren-tesoro-clan-escoces-olla-chimenea-1318878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/descubren-tesoro-antiguo-clan-escoces-oculto-olla-dentro-chimenea-3193862.jpg?tf=1200x' alt='Descubren un tesoro de un antiguo clan escocés oculto en una olla dentro de una chimenea ' />
+    <h4><a href='https://computerhoy.com/tecnologia/9-dispositivos-vendieron-como-futuro-no-triunfaron-1319186'>9 dispositivos que se vendieron como el futuro y no triunfaron </a></h4>
+    <a href='https://computerhoy.com/tecnologia/9-dispositivos-vendieron-como-futuro-no-triunfaron-1319186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/10/67489-project-ara.jpg?tf=1200x' alt='9 dispositivos que se vendieron como el futuro y no triunfaron ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estudiante-inteligencia-artificial-leer-papiro-carbonizado-gana-40000-dolares-1319858'>Un estudiante usa la IA para leer un papiro carbonizado por el Vesubio, gana 40.000 dólares</a></h4>
-    <a href='https://computerhoy.com/life/estudiante-inteligencia-artificial-leer-papiro-carbonizado-gana-40000-dolares-1319858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/ia-intentara-leer-papiros-calcinados-pompeya-herculano.jpg?tf=1200x' alt='Un estudiante usa la IA para leer un papiro carbonizado por el Vesubio, gana 40.000 dólares' />
+    <h4><a href='https://computerhoy.com/ciencia/eolipila-primera-maquina-vapor-2000-anos-heron-alejandria-1318796'>Eolípila, la máquina de vapor de hace 2.000 años, que nadie sabe para qué sirve</a></h4>
+    <a href='https://computerhoy.com/ciencia/eolipila-primera-maquina-vapor-2000-anos-heron-alejandria-1318796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/eolipila-maquina-vapor-hace-2000-anos-nadie-sabe-sirve-3193456.jpg?tf=1200x' alt='Eolípila, la máquina de vapor de hace 2.000 años, que nadie sabe para qué sirve' />
     </a>
 </div>
 
