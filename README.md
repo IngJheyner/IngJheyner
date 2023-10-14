@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-unas-gafas-realidad-aumentada-diseno-modular-bateria-intercambiable-1320134'>Microsoft piensa en unas gafas de realidad aumentada con un diseño modular y batería intercambiable</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-unas-gafas-realidad-aumentada-diseno-modular-bateria-intercambiable-1320134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/dims_2.jpeg?tf=1200x' alt='Microsoft piensa en unas gafas de realidad aumentada con un diseño modular y batería intercambiable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/investigadores-quieren-hacer-autopistas-luna-luz-solar-1320124'>Investigadores quieren hacer autopistas en la Luna con luz solar</a></h4>
+    <a href='https://computerhoy.com/espacio/investigadores-quieren-hacer-autopistas-luna-luz-solar-1320124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/superficie-luna-2921252.jpg?tf=1200x' alt='Investigadores quieren hacer autopistas en la Luna con luz solar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-lanza-actualizacion-urgente-iphone-antiguos-consiste-1320118'>Apple lanza una actualización urgente para iPhone antiguos y en esto consiste</a></h4>
+    <a href='https://computerhoy.com/apple/apple-lanza-actualizacion-urgente-iphone-antiguos-consiste-1320118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143570.jpg?tf=1200x' alt='Apple lanza una actualización urgente para iPhone antiguos y en esto consiste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/black-friday-1319726'>Black Friday 2023: qué es, fecha confirmada y tips para conseguir los mejores descuentos</a></h4>
+    <a href='https://computerhoy.com/patrocinado/black-friday-1319726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/black-friday-portada-3195152.jpg?tf=1200x' alt='Black Friday 2023: qué es, fecha confirmada y tips para conseguir los mejores descuentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-sabado-14-octubre-2023-1320064'>Programación TV: ¿Qué ver hoy en televisión? Sábado 14 de octubre de 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-sabado-14-octubre-2023-1320064' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-sabado-14-octubre-2023-3195818.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Sábado 14 de octubre de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/desaparece-misteriosamente-aplicacion-google-android-auto-1320098'>Desaparece misteriosamente esta aplicación de Google en Android Auto</a></h4>
-    <a href='https://computerhoy.com/apps/desaparece-misteriosamente-aplicacion-google-android-auto-1320098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/android-auto-2828149.jpg?tf=1200x' alt='Desaparece misteriosamente esta aplicación de Google en Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chromecast-google-tv-4k-recibe-finalmente-actualizacion-llevabas-tiempo-esperando-1320094'>Tu Chromecast con Google TV 4K recibe finalmente esta actualización que llevabas tiempo esperando</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chromecast-google-tv-4k-recibe-finalmente-actualizacion-llevabas-tiempo-esperando-1320094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/chromecast-google-tv-2366821.jpg?tf=1200x' alt='Tu Chromecast con Google TV 4K recibe finalmente esta actualización que llevabas tiempo esperando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/error-evita-te-instale-ultima-actualizacion-windows-10-1320090'>El error que evita que se te instale la última actualización de Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/error-evita-te-instale-ultima-actualizacion-windows-10-1320090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/fin-soporte-windows-10-2369043.jpg?tf=1200x' alt='El error que evita que se te instale la última actualización de Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacen-sticky-keys-windows-11-como-activan-desactivan-1317446'>Qué hacen las Sticky Keys de Windows 11 y cómo se activan y desactivan</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacen-sticky-keys-windows-11-como-activan-desactivan-1317446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teclas-windows-3195108.jpg?tf=1200x' alt='Qué hacen las Sticky Keys de Windows 11 y cómo se activan y desactivan' />
     </a>
 </div>
 
