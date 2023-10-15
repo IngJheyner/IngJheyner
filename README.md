@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-quiere-utilizar-ia-hacer-semaforos-sean-inteligentes-ecologicos-1320358'>Google quiere utilizar la IA para hacer que los semáforos sean más inteligentes y ecológicos</a></h4>
-    <a href='https://computerhoy.com/google/google-quiere-utilizar-ia-hacer-semaforos-sean-inteligentes-ecologicos-1320358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/semaforo-2950704.jpg?tf=1200x' alt='Google quiere utilizar la IA para hacer que los semáforos sean más inteligentes y ecológicos' />
+    <h4><a href='https://computerhoy.com/life/empresa-sueca-fabrica-coches-compactos-inspirados-ikea-1320366'>Esta empresa sueca fabrica coches compactos inspirados en Ikea</a></h4>
+    <a href='https://computerhoy.com/life/empresa-sueca-fabrica-coches-compactos-inspirados-ikea-1320366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/luvly-0-3196172.jpg?tf=1200x' alt='Esta empresa sueca fabrica coches compactos inspirados en Ikea' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-traductores-online-gratis-cual-mejor-ti-1319130'>¿Cuál es el mejor traductor? Traductores online gratis para traducir textos, PDF, páginas webs e incluso imágenes en tu móvil o PC</a></h4>
-    <a href='https://computerhoy.com/internet/mejores-traductores-online-gratis-cual-mejor-ti-1319130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/Inteligencia%20Artificial_5.jpg?tf=1200x' alt='¿Cuál es el mejor traductor? Traductores online gratis para traducir textos, PDF, páginas webs e incluso imágenes en tu móvil o PC' />
+    <h4><a href='https://computerhoy.com/internet/7-mejores-webs-aprender-linux-forma-facil-divertida-1318920'>Las 7 mejores webs para aprender Linux de forma fácil y divertida </a></h4>
+    <a href='https://computerhoy.com/internet/7-mejores-webs-aprender-linux-forma-facil-divertida-1318920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/linux-2904136.jpg?tf=1200x' alt='Las 7 mejores webs para aprender Linux de forma fácil y divertida ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/9-trucos-ejercitar-mejorar-memoria-ciencia-1308666'>9 trucos sencillos y efectivos para ejercitar y mejorar tu memoria, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/life/9-trucos-ejercitar-mejorar-memoria-ciencia-1308666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/9-trucos-sencillos-ejercitar-mejorar-memoria-ciencia-3140936.jpg?tf=1200x' alt='9 trucos sencillos y efectivos para ejercitar y mejorar tu memoria, según la ciencia' />
+    <h4><a href='https://computerhoy.com/tecnologia/crean-estas-pegatinas-capaces-medir-fuerzas-objetos-contacto-1320364'>Crean estas pegatinas capaces de medir las fuerzas entre objetos en contacto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-estas-pegatinas-capaces-medir-fuerzas-objetos-contacto-1320364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/crean-estas-pegatinas-capaces-medir-fuerzas-objetos-contacto-3196150.jpg?tf=1200x' alt='Crean estas pegatinas capaces de medir las fuerzas entre objetos en contacto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/viaje-origenes-ia-cuando-nacio-tecnologia-1308706'>Un viaje a los orígenes de la inteligencia artificial: ¿Sabes realmente cuándo nació esta tecnología?  </a></h4>
-    <a href='https://computerhoy.com/tecnologia/viaje-origenes-ia-cuando-nacio-tecnologia-1308706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nacimiento-inteligencia-artficial-3143904.jpg?tf=1200x' alt='Un viaje a los orígenes de la inteligencia artificial: ¿Sabes realmente cuándo nació esta tecnología?  ' />
+    <h4><a href='https://computerhoy.com/tecnologia/neuralink-avances-pelicula-pero-incontrolables-peligros-fusion-cerebro-maquina-1310298'>Neuralink: avances de película, pero ¿incontrolables peligros en la fusión cerebro-máquina?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/neuralink-avances-pelicula-pero-incontrolables-peligros-fusion-cerebro-maquina-1310298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-neuralink-2889316.jpg?tf=1200x' alt='Neuralink: avances de película, pero ¿incontrolables peligros en la fusión cerebro-máquina?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alucinacion-inteligencia-artificial-resulta-tan-peligrosa-1313130'>¿Qué es una alucinación de la inteligencia artificial y por qué resulta tan peligrosa?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alucinacion-inteligencia-artificial-resulta-tan-peligrosa-1313130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697201825573-3195378.jpg?tf=1200x' alt='¿Qué es una alucinación de la inteligencia artificial y por qué resulta tan peligrosa?' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-revienta-precio-movil-top-ventas-redmi-note-12-pro-precio-nunca-visto-1320354'>Xiaomi revienta el precio de su móvil top ventas, el Redmi Note 12 Pro: está a precio nunca visto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-revienta-precio-movil-top-ventas-redmi-note-12-pro-precio-nunca-visto-1320354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-note-12-pro-3196134.jpg?tf=1200x' alt='Xiaomi revienta el precio de su móvil top ventas, el Redmi Note 12 Pro: está a precio nunca visto' />
     </a>
 </div>
 
