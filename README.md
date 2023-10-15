@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-unas-gafas-realidad-aumentada-diseno-modular-bateria-intercambiable-1320134'>Microsoft piensa en unas gafas de realidad aumentada con un diseño modular y batería intercambiable</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-unas-gafas-realidad-aumentada-diseno-modular-bateria-intercambiable-1320134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/dims_2.jpeg?tf=1200x' alt='Microsoft piensa en unas gafas de realidad aumentada con un diseño modular y batería intercambiable' />
+    <h4><a href='https://computerhoy.com/tecnologia/alucinacion-inteligencia-artificial-resulta-tan-peligrosa-1313130'>¿Qué es una alucinación de la inteligencia artificial y por qué resulta tan peligrosa?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alucinacion-inteligencia-artificial-resulta-tan-peligrosa-1313130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697201825573-3195378.jpg?tf=1200x' alt='¿Qué es una alucinación de la inteligencia artificial y por qué resulta tan peligrosa?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/investigadores-quieren-hacer-autopistas-luna-luz-solar-1320124'>Investigadores quieren hacer autopistas en la Luna con luz solar</a></h4>
-    <a href='https://computerhoy.com/espacio/investigadores-quieren-hacer-autopistas-luna-luz-solar-1320124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/superficie-luna-2921252.jpg?tf=1200x' alt='Investigadores quieren hacer autopistas en la Luna con luz solar' />
+    <h4><a href='https://computerhoy.com/life/truco-salvador-dali-no-pagar-ni-sola-factura-1319494'>Genio y figura: el truco de Salvador Dalí para no pagar ni una sola factura</a></h4>
+    <a href='https://computerhoy.com/life/truco-salvador-dali-no-pagar-ni-sola-factura-1319494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/genio-figura-truco-salvador-dali-no-pagar-ni-sola-factura-3194772.jpg?tf=1200x' alt='Genio y figura: el truco de Salvador Dalí para no pagar ni una sola factura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-lanza-actualizacion-urgente-iphone-antiguos-consiste-1320118'>Apple lanza una actualización urgente para iPhone antiguos y en esto consiste</a></h4>
-    <a href='https://computerhoy.com/apple/apple-lanza-actualizacion-urgente-iphone-antiguos-consiste-1320118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143570.jpg?tf=1200x' alt='Apple lanza una actualización urgente para iPhone antiguos y en esto consiste' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033'>Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-jet-90-analisis-aspiradora-mano-cables-2875225.jpg?tf=1200x' alt='Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/black-friday-1319726'>Black Friday 2023: qué es, fecha confirmada y tips para conseguir los mejores descuentos</a></h4>
-    <a href='https://computerhoy.com/patrocinado/black-friday-1319726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/black-friday-portada-3195152.jpg?tf=1200x' alt='Black Friday 2023: qué es, fecha confirmada y tips para conseguir los mejores descuentos' />
+    <h4><a href='https://computerhoy.com/tecnologia/spot-boston-dynamics-ya-ayuda-mapear-radiacion-avance-1320136'>Spot de Boston Dynamics ya ayuda a mapear la radiación con este avance</a></h4>
+    <a href='https://computerhoy.com/tecnologia/spot-boston-dynamics-ya-ayuda-mapear-radiacion-avance-1320136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/spot-boston-dynamics-ya-ayuda-mapear-radiacion-avance-3195872.jpg?tf=1200x' alt='Spot de Boston Dynamics ya ayuda a mapear la radiación con este avance' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-sabado-14-octubre-2023-1320064'>Programación TV: ¿Qué ver hoy en televisión? Sábado 14 de octubre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-sabado-14-octubre-2023-1320064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-sabado-14-octubre-2023-3195818.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Sábado 14 de octubre de 2023' />
+    <h4><a href='https://computerhoy.com/tecnologia/6-dispositivos-uso-mi-dia-dia-durante-teletrabajo-1319206'>Teletrabajo desde hace 5 años: 6 dispositivos que uso día a día que me hacen la vida más fácil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/6-dispositivos-uso-mi-dia-dia-durante-teletrabajo-1319206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/6-cosas-te-haran-vida-facil-teletrabajas-3194506.jpg?tf=1200x' alt='Teletrabajo desde hace 5 años: 6 dispositivos que uso día a día que me hacen la vida más fácil' />
     </a>
 </div>
 
