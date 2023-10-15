@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-quiere-utilizar-ia-hacer-semaforos-sean-inteligentes-ecologicos-1320358'>Google quiere utilizar la IA para hacer que los semáforos sean más inteligentes y ecológicos</a></h4>
+    <a href='https://computerhoy.com/google/google-quiere-utilizar-ia-hacer-semaforos-sean-inteligentes-ecologicos-1320358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/semaforo-2950704.jpg?tf=1200x' alt='Google quiere utilizar la IA para hacer que los semáforos sean más inteligentes y ecológicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mejores-traductores-online-gratis-cual-mejor-ti-1319130'>¿Cuál es el mejor traductor? Traductores online gratis para traducir textos, PDF, páginas webs e incluso imágenes en tu móvil o PC</a></h4>
+    <a href='https://computerhoy.com/internet/mejores-traductores-online-gratis-cual-mejor-ti-1319130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/Inteligencia%20Artificial_5.jpg?tf=1200x' alt='¿Cuál es el mejor traductor? Traductores online gratis para traducir textos, PDF, páginas webs e incluso imágenes en tu móvil o PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/9-trucos-ejercitar-mejorar-memoria-ciencia-1308666'>9 trucos sencillos y efectivos para ejercitar y mejorar tu memoria, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/life/9-trucos-ejercitar-mejorar-memoria-ciencia-1308666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/9-trucos-sencillos-ejercitar-mejorar-memoria-ciencia-3140936.jpg?tf=1200x' alt='9 trucos sencillos y efectivos para ejercitar y mejorar tu memoria, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/viaje-origenes-ia-cuando-nacio-tecnologia-1308706'>Un viaje a los orígenes de la inteligencia artificial: ¿Sabes realmente cuándo nació esta tecnología?  </a></h4>
+    <a href='https://computerhoy.com/tecnologia/viaje-origenes-ia-cuando-nacio-tecnologia-1308706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nacimiento-inteligencia-artficial-3143904.jpg?tf=1200x' alt='Un viaje a los orígenes de la inteligencia artificial: ¿Sabes realmente cuándo nació esta tecnología?  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/alucinacion-inteligencia-artificial-resulta-tan-peligrosa-1313130'>¿Qué es una alucinación de la inteligencia artificial y por qué resulta tan peligrosa?</a></h4>
     <a href='https://computerhoy.com/tecnologia/alucinacion-inteligencia-artificial-resulta-tan-peligrosa-1313130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697201825573-3195378.jpg?tf=1200x' alt='¿Qué es una alucinación de la inteligencia artificial y por qué resulta tan peligrosa?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-salvador-dali-no-pagar-ni-sola-factura-1319494'>Genio y figura: el truco de Salvador Dalí para no pagar ni una sola factura</a></h4>
-    <a href='https://computerhoy.com/life/truco-salvador-dali-no-pagar-ni-sola-factura-1319494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/genio-figura-truco-salvador-dali-no-pagar-ni-sola-factura-3194772.jpg?tf=1200x' alt='Genio y figura: el truco de Salvador Dalí para no pagar ni una sola factura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033'>Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/samsung-jet-90-analisis-aspiradora-mano-cables-2875225.jpg?tf=1200x' alt='Estas son las mejores aspiradoras inalámbricas que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/spot-boston-dynamics-ya-ayuda-mapear-radiacion-avance-1320136'>Spot de Boston Dynamics ya ayuda a mapear la radiación con este avance</a></h4>
-    <a href='https://computerhoy.com/tecnologia/spot-boston-dynamics-ya-ayuda-mapear-radiacion-avance-1320136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/spot-boston-dynamics-ya-ayuda-mapear-radiacion-avance-3195872.jpg?tf=1200x' alt='Spot de Boston Dynamics ya ayuda a mapear la radiación con este avance' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/6-dispositivos-uso-mi-dia-dia-durante-teletrabajo-1319206'>Teletrabajo desde hace 5 años: 6 dispositivos que uso día a día que me hacen la vida más fácil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/6-dispositivos-uso-mi-dia-dia-durante-teletrabajo-1319206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/6-cosas-te-haran-vida-facil-teletrabajas-3194506.jpg?tf=1200x' alt='Teletrabajo desde hace 5 años: 6 dispositivos que uso día a día que me hacen la vida más fácil' />
     </a>
 </div>
 
