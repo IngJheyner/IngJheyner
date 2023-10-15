@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-domingo-15-octubre-2023-1320320'>Programación TV: ¿Qué ver hoy en televisión? Domingo 15 de octubre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-domingo-15-octubre-2023-1320320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-domingo-15-octubre-2023-3196086.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Domingo 15 de octubre de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/lente-nimrud-misterioso-cristal-aumento-hace-2800-anos-1320380'>La Lente de Nimrud: el enigmático cristal de aumento de hace 2.800 años cuyo uso es un misterio</a></h4>
     <a href='https://computerhoy.com/ciencia/lente-nimrud-misterioso-cristal-aumento-hace-2800-anos-1320380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/lente-nimrud-enigmatico-cristal-aumento-hace-3000-anos-cuyo-uso-misterio-3196186.jpg?tf=1200x' alt='La Lente de Nimrud: el enigmático cristal de aumento de hace 2.800 años cuyo uso es un misterio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-anadir-texto-pantalla-bloqueo-iphone-1313838'>Cómo añadir un texto a la pantalla de bloqueo del iPhone</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-anadir-texto-pantalla-bloqueo-iphone-1313838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/texto-pantalla-bloqueo-iphone-3149718.jpg?tf=1200x' alt='Cómo añadir un texto a la pantalla de bloqueo del iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/empresa-sueca-fabrica-coches-compactos-inspirados-ikea-1320366'>Esta empresa sueca fabrica coches compactos inspirados en Ikea</a></h4>
-    <a href='https://computerhoy.com/life/empresa-sueca-fabrica-coches-compactos-inspirados-ikea-1320366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/luvly-0-3196172.jpg?tf=1200x' alt='Esta empresa sueca fabrica coches compactos inspirados en Ikea' />
     </a>
 </div>
 
