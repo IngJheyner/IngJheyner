@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/geforce-now-plataforma-juego-nube-sube-precio-espana-1320392'>GeForce NOW, la plataforma de juegos en la nube, sube de precio en España</a></h4>
+    <a href='https://computerhoy.com/gaming/geforce-now-plataforma-juego-nube-sube-precio-espana-1320392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/geforce-now-plataforma-juego-nube-sube-precio-espana-3196250.jpg?tf=1200x' alt='GeForce NOW, la plataforma de juegos en la nube, sube de precio en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-domingo-15-octubre-2023-1320320'>Programación TV: ¿Qué ver hoy en televisión? Domingo 15 de octubre de 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-domingo-15-octubre-2023-1320320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-domingo-15-octubre-2023-3196086.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Domingo 15 de octubre de 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/nuevo-algoritmo-ia-quiere-defender-robots-ciberataques-1320368'>Un nuevo algoritmo de IA quiere defender a los robots contra los ciberataques</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/nuevo-algoritmo-ia-quiere-defender-robots-ciberataques-1320368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nuevo-algoritmo-ia-quiere-defender-robots-ciberataques-3196178.jpg?tf=1200x' alt='Un nuevo algoritmo de IA quiere defender a los robots contra los ciberataques' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-texto-pantalla-bloqueo-iphone-1313838'>Cómo añadir un texto a la pantalla de bloqueo del iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-anadir-texto-pantalla-bloqueo-iphone-1313838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/texto-pantalla-bloqueo-iphone-3149718.jpg?tf=1200x' alt='Cómo añadir un texto a la pantalla de bloqueo del iPhone' />
     </a>
 </div>
 
