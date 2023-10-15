@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/cuidado-ssd-falsos-samsung-tiendas-chinas-7-veces-mas-lentos-1320416'>Cuidado si compras un SSD barato de Samsung en tiendas chinas: algunos son falsos, hasta 7 veces más lentos</a></h4>
+    <a href='https://computerhoy.com/pc/cuidado-ssd-falsos-samsung-tiendas-chinas-7-veces-mas-lentos-1320416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cuidado-compras-ssd-barato-samsung-tiendas-chinas-algunos-son-falsos-7-veces-lentos-3196314.jpg?tf=1200x' alt='Cuidado si compras un SSD barato de Samsung en tiendas chinas: algunos son falsos, hasta 7 veces más lentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/recortes-gafas-vision-pro-baratas-apple-1320404'>Estos son los recortes en pantallas y procesador de las gafas Vision Pro baratas de Apple, para bajar el precio 2.000 euros</a></h4>
+    <a href='https://computerhoy.com/apple/recortes-gafas-vision-pro-baratas-apple-1320404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/vision-pro-3051536.jpg?tf=1200x' alt='Estos son los recortes en pantallas y procesador de las gafas Vision Pro baratas de Apple, para bajar el precio 2.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/geforce-now-plataforma-juego-nube-sube-precio-espana-1320392'>GeForce NOW, la plataforma de juegos en la nube, sube de precio en España</a></h4>
     <a href='https://computerhoy.com/gaming/geforce-now-plataforma-juego-nube-sube-precio-espana-1320392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/geforce-now-plataforma-juego-nube-sube-precio-espana-3196250.jpg?tf=1200x' alt='GeForce NOW, la plataforma de juegos en la nube, sube de precio en España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/lente-nimrud-misterioso-cristal-aumento-hace-2800-anos-1320380'>La Lente de Nimrud: el enigmático cristal de aumento de hace 2.800 años cuyo uso es un misterio</a></h4>
     <a href='https://computerhoy.com/ciencia/lente-nimrud-misterioso-cristal-aumento-hace-2800-anos-1320380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/lente-nimrud-enigmatico-cristal-aumento-hace-3000-anos-cuyo-uso-misterio-3196186.jpg?tf=1200x' alt='La Lente de Nimrud: el enigmático cristal de aumento de hace 2.800 años cuyo uso es un misterio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/error-hace-android-auto-no-entienda-nada-dices-1320372'>Este error hace que Android Auto no entienda nada de lo que dices</a></h4>
-    <a href='https://computerhoy.com/android/error-hace-android-auto-no-entienda-nada-dices-1320372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922220.jpg?tf=1200x' alt='Este error hace que Android Auto no entienda nada de lo que dices' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nuevo-algoritmo-ia-quiere-defender-robots-ciberataques-1320368'>Un nuevo algoritmo de IA quiere defender a los robots contra los ciberataques</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nuevo-algoritmo-ia-quiere-defender-robots-ciberataques-1320368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nuevo-algoritmo-ia-quiere-defender-robots-ciberataques-3196178.jpg?tf=1200x' alt='Un nuevo algoritmo de IA quiere defender a los robots contra los ciberataques' />
     </a>
 </div>
 
