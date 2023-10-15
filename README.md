@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/lente-nimrud-misterioso-cristal-aumento-hace-2800-anos-1320380'>La Lente de Nimrud: el enigmático cristal de aumento de hace 2.800 años cuyo uso es un misterio</a></h4>
+    <a href='https://computerhoy.com/ciencia/lente-nimrud-misterioso-cristal-aumento-hace-2800-anos-1320380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/lente-nimrud-enigmatico-cristal-aumento-hace-3000-anos-cuyo-uso-misterio-3196186.jpg?tf=1200x' alt='La Lente de Nimrud: el enigmático cristal de aumento de hace 2.800 años cuyo uso es un misterio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/error-hace-android-auto-no-entienda-nada-dices-1320372'>Este error hace que Android Auto no entienda nada de lo que dices</a></h4>
+    <a href='https://computerhoy.com/android/error-hace-android-auto-no-entienda-nada-dices-1320372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922220.jpg?tf=1200x' alt='Este error hace que Android Auto no entienda nada de lo que dices' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/nuevo-algoritmo-ia-quiere-defender-robots-ciberataques-1320368'>Un nuevo algoritmo de IA quiere defender a los robots contra los ciberataques</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nuevo-algoritmo-ia-quiere-defender-robots-ciberataques-1320368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nuevo-algoritmo-ia-quiere-defender-robots-ciberataques-3196178.jpg?tf=1200x' alt='Un nuevo algoritmo de IA quiere defender a los robots contra los ciberataques' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-texto-pantalla-bloqueo-iphone-1313838'>Cómo añadir un texto a la pantalla de bloqueo del iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-anadir-texto-pantalla-bloqueo-iphone-1313838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/texto-pantalla-bloqueo-iphone-3149718.jpg?tf=1200x' alt='Cómo añadir un texto a la pantalla de bloqueo del iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/empresa-sueca-fabrica-coches-compactos-inspirados-ikea-1320366'>Esta empresa sueca fabrica coches compactos inspirados en Ikea</a></h4>
     <a href='https://computerhoy.com/life/empresa-sueca-fabrica-coches-compactos-inspirados-ikea-1320366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/luvly-0-3196172.jpg?tf=1200x' alt='Esta empresa sueca fabrica coches compactos inspirados en Ikea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/7-mejores-webs-aprender-linux-forma-facil-divertida-1318920'>Las 7 mejores webs para aprender Linux de forma fácil y divertida </a></h4>
-    <a href='https://computerhoy.com/internet/7-mejores-webs-aprender-linux-forma-facil-divertida-1318920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/linux-2904136.jpg?tf=1200x' alt='Las 7 mejores webs para aprender Linux de forma fácil y divertida ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-estas-pegatinas-capaces-medir-fuerzas-objetos-contacto-1320364'>Crean estas pegatinas capaces de medir las fuerzas entre objetos en contacto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-estas-pegatinas-capaces-medir-fuerzas-objetos-contacto-1320364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/crean-estas-pegatinas-capaces-medir-fuerzas-objetos-contacto-3196150.jpg?tf=1200x' alt='Crean estas pegatinas capaces de medir las fuerzas entre objetos en contacto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/neuralink-avances-pelicula-pero-incontrolables-peligros-fusion-cerebro-maquina-1310298'>Neuralink: avances de película, pero ¿incontrolables peligros en la fusión cerebro-máquina?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/neuralink-avances-pelicula-pero-incontrolables-peligros-fusion-cerebro-maquina-1310298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-neuralink-2889316.jpg?tf=1200x' alt='Neuralink: avances de película, pero ¿incontrolables peligros en la fusión cerebro-máquina?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-revienta-precio-movil-top-ventas-redmi-note-12-pro-precio-nunca-visto-1320354'>Xiaomi revienta el precio de su móvil top ventas, el Redmi Note 12 Pro: está a precio nunca visto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-revienta-precio-movil-top-ventas-redmi-note-12-pro-precio-nunca-visto-1320354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-note-12-pro-3196134.jpg?tf=1200x' alt='Xiaomi revienta el precio de su móvil top ventas, el Redmi Note 12 Pro: está a precio nunca visto' />
     </a>
 </div>
 
