@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/espana-cada-vez-venden-menos-ordenadores-puede-ser-razon-1320674'>En España cada vez se venden menos ordenadores, y está puede ser la razón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/espana-cada-vez-venden-menos-ordenadores-puede-ser-razon-1320674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/malo-dejar-ordenador-portatil-enchufado-todo-dia-2994904.jpg?tf=1200x' alt='En España cada vez se venden menos ordenadores, y está puede ser la razón' />
+    <h4><a href='https://computerhoy.com/life/descubren-nuevo-tipo-hielo-solo-derrite-temperaturas-muy-altas-1320994'>Descubren un nuevo tipo de hielo que solo se derrite a temperaturas muy altas</a></h4>
+    <a href='https://computerhoy.com/life/descubren-nuevo-tipo-hielo-solo-derrite-temperaturas-muy-altas-1320994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cubitos-hielo-3197488.jpg?tf=1200x' alt='Descubren un nuevo tipo de hielo que solo se derrite a temperaturas muy altas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-alternativas-flipper-zero-tamagotchi-hackers-1319840'>Las mejores alternativas a Flipper Zero, el Tamagotchi para hackers</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-alternativas-flipper-zero-tamagotchi-hackers-1319840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/flipper-zero-3017058.jpg?tf=1200x' alt='Las mejores alternativas a Flipper Zero, el Tamagotchi para hackers' />
+    <h4><a href='https://computerhoy.com/life/estoy-grabando-llamada-nuevo-metodo-deshacerte-llamadas-comerciales-1320992'>Estoy grabando la llamada: el nuevo método para deshacerte de las llamadas comerciales</a></h4>
+    <a href='https://computerhoy.com/life/estoy-grabando-llamada-nuevo-metodo-deshacerte-llamadas-comerciales-1320992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/llamadas-spam-3197486.jpg?tf=1200x' alt='Estoy grabando la llamada: el nuevo método para deshacerte de las llamadas comerciales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/grupos-canales-publicos-whatsapp-son-como-te-ayudan-conocer-gente-1320702'>Grupos y canales públicos de WhatsApp: qué son y cómo te ayudan a conocer gente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/grupos-canales-publicos-whatsapp-son-como-te-ayudan-conocer-gente-1320702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-grupos-3197148.jpg?tf=1200x' alt='Grupos y canales públicos de WhatsApp: qué son y cómo te ayudan a conocer gente' />
+    <h4><a href='https://computerhoy.com/google/google-japon-presenta-sombrero-teclado-puedes-hacer-mismo-1316400'>Google Japón presenta un sombrero-teclado que puedes hacer tú mismo</a></h4>
+    <a href='https://computerhoy.com/google/google-japon-presenta-sombrero-teclado-puedes-hacer-mismo-1316400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-japon-presenta-sombrero-teclado-puedes-hacer-mismo-3188624.jpg?tf=1200x' alt='Google Japón presenta un sombrero-teclado que puedes hacer tú mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/todos-juegos-puedes-jugar-google-instalar-nada-1319492'>Juegos de Google: todos los juegos que puedes jugar en Google sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/gaming/todos-juegos-puedes-jugar-google-instalar-nada-1319492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/juegos-google-todos-juegos-puedes-jugar-google-instalar-nada-3194768.jpg?tf=1200x' alt='Juegos de Google: todos los juegos que puedes jugar en Google sin instalar nada' />
+    <h4><a href='https://computerhoy.com/life/encuentra-gato-oculto-imagen-solo-inteligentes-logran-1319820'>Encuentra al gato oculto en la imagen, solo los más inteligentes lo logran</a></h4>
+    <a href='https://computerhoy.com/life/encuentra-gato-oculto-imagen-solo-inteligentes-logran-1319820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/encuentra-gato-oculto-imagen-solo-inteligentes-logran-3195548.jpg?tf=1200x' alt='Encuentra al gato oculto en la imagen, solo los más inteligentes lo logran' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nasa-confirma-asteroide-bennu-podria-ser-amenaza-tierra-1320632'>La NASA confirma que el asteroide Bennu podría ser una amenaza para la Tierra</a></h4>
-    <a href='https://computerhoy.com/ciencia/nasa-confirma-asteroide-bennu-podria-ser-amenaza-tierra-1320632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nasa-explica-como-moleculas-encontradas-asteroide-bennu-responder-grandes-interrogantes-3196596.jpg?tf=1200x' alt='La NASA confirma que el asteroide Bennu podría ser una amenaza para la Tierra' />
+    <h4><a href='https://computerhoy.com/life/lavar-vaqueros-levis-casi-nunca-no-te-queda-otra-ducha-1319866'>Lavar los vaqueros, según Levi’s: lo menos posible y si no te queda más remedio, en la ducha</a></h4>
+    <a href='https://computerhoy.com/life/lavar-vaqueros-levis-casi-nunca-no-te-queda-otra-ducha-1319866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/lavar-vaqueros-lavadora-2510109.jpg?tf=1200x' alt='Lavar los vaqueros, según Levi’s: lo menos posible y si no te queda más remedio, en la ducha' />
     </a>
 </div>
 
