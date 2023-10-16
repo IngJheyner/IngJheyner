@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cientificos-usan-ia-simular-batallas-animales-peligrosos-mundo-ganador-1320756'>Científicos usan la IA para simular batallas entre los animales más peligrosos del mundo y este es el ganador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cientificos-usan-ia-simular-batallas-animales-peligrosos-mundo-ganador-1320756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/animales-ia-3196952.jpg?tf=1200x' alt='Científicos usan la IA para simular batallas entre los animales más peligrosos del mundo y este es el ganador' />
+    <h4><a href='https://computerhoy.com/internet/consejos-trucos-como-vender-wallapop-regatear-ni-bajar-precios-1319286'>Consejos, trucos y cómo vender en Wallapop sin regatear ni bajar precios</a></h4>
+    <a href='https://computerhoy.com/internet/consejos-trucos-como-vender-wallapop-regatear-ni-bajar-precios-1319286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wallapop-3135122.jpg?tf=1200x' alt='Consejos, trucos y cómo vender en Wallapop sin regatear ni bajar precios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/activar-opcion-router-wifi-podria-evitarte-grandes-problemas-ciberseguridad-1320712'>Activar esta opción en tu router WiFi podría evitarte grandes problemas de ciberseguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/activar-opcion-router-wifi-podria-evitarte-grandes-problemas-ciberseguridad-1320712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/wifi-seguridad-3196804.jpg?tf=1200x' alt='Activar esta opción en tu router WiFi podría evitarte grandes problemas de ciberseguridad' />
+    <h4><a href='https://computerhoy.com/ciencia/misteriosos-circulos-hadas-aparecen-todo-mundo-son-como-producen-1318754'>Los misteriosos círculos de hadas que aparecen en todo el mundo: ¿qué son y cómo se producen?</a></h4>
+    <a href='https://computerhoy.com/ciencia/misteriosos-circulos-hadas-aparecen-todo-mundo-son-como-producen-1318754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/misteriosos-circulos-hadas-aparecen-todo-mundo-son-como-producen-3193372.jpg?tf=1200x' alt='Los misteriosos círculos de hadas que aparecen en todo el mundo: ¿qué son y cómo se producen?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-destroza-precio-garmin-forerunner-muy-top-queda-precio-reloj-chino-1320394'>Amazon destroza el precio de un Garmin Forerunner muy top que queda a precio de reloj chino</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-destroza-precio-garmin-forerunner-muy-top-queda-precio-reloj-chino-1320394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-forerunner-745-3196270.jpg?tf=1200x' alt='Amazon destroza el precio de un Garmin Forerunner muy top que queda a precio de reloj chino' />
+    <h4><a href='https://computerhoy.com/tecnologia/quien-me-llama-webs-saber-quien-pertenece-numero-telefono-1255144'>¿Recibes llamadas de números desconocidos? Así puedes saber quién te está llamando</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quien-me-llama-webs-saber-quien-pertenece-numero-telefono-1255144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/llamadas-spam-918286085-2738039.jpg?tf=1200x' alt='¿Recibes llamadas de números desconocidos? Así puedes saber quién te está llamando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-llega-alto-vence-campeon-street-fighter-batalla-epica-1320682'>La inteligencia artificial llega a lo más alto y vence al campeón de Street Fighter en una batalla épica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-llega-alto-vence-campeon-street-fighter-batalla-epica-1320682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/street-fighter-v-vega-50355.jpg?tf=1200x' alt='La inteligencia artificial llega a lo más alto y vence al campeón de Street Fighter en una batalla épica' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-mapa-personalizado-google-maps-1320040'>Cómo hacer tu propio mapa en Google Maps para evitar riesgos y viajar más seguro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-mapa-personalizado-google-maps-1320040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-maps-3197096.jpg?tf=1200x' alt='Cómo hacer tu propio mapa en Google Maps para evitar riesgos y viajar más seguro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-google-precio-xiaomi-oferta-sacude-mercado-quieres-android-barato-1319754'>Móvil Google a precio Xiaomi: esta oferta sacude el mercado si quieres un Android barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-google-precio-xiaomi-oferta-sacude-mercado-quieres-android-barato-1319754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg?tf=1200x' alt='Móvil Google a precio Xiaomi: esta oferta sacude el mercado si quieres un Android barato' />
+    <h4><a href='https://computerhoy.com/pc/procesadores-intel-core-14a-generacion-caracteristicas-precio-fecha-lanzamiento-1320842'>Los procesadores Intel Core de 14ª Generación son oficiales, con la inteligencia artificial como gran protagonista</a></h4>
+    <a href='https://computerhoy.com/pc/procesadores-intel-core-14a-generacion-caracteristicas-precio-fecha-lanzamiento-1320842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/procesadores-intel-core-14a-generacion-ya-son-oficiales-inteligencia-artificial-como-gran-protagonista-3197118.jpg?tf=1200x' alt='Los procesadores Intel Core de 14ª Generación son oficiales, con la inteligencia artificial como gran protagonista' />
     </a>
 </div>
 
