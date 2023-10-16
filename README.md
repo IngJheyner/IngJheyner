@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/consejos-trucos-como-vender-wallapop-regatear-ni-bajar-precios-1319286'>Consejos, trucos y cómo vender en Wallapop sin regatear ni bajar precios</a></h4>
-    <a href='https://computerhoy.com/internet/consejos-trucos-como-vender-wallapop-regatear-ni-bajar-precios-1319286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wallapop-3135122.jpg?tf=1200x' alt='Consejos, trucos y cómo vender en Wallapop sin regatear ni bajar precios' />
+    <h4><a href='https://computerhoy.com/tecnologia/espana-cada-vez-venden-menos-ordenadores-puede-ser-razon-1320674'>En España cada vez se venden menos ordenadores, y está puede ser la razón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/espana-cada-vez-venden-menos-ordenadores-puede-ser-razon-1320674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/malo-dejar-ordenador-portatil-enchufado-todo-dia-2994904.jpg?tf=1200x' alt='En España cada vez se venden menos ordenadores, y está puede ser la razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/misteriosos-circulos-hadas-aparecen-todo-mundo-son-como-producen-1318754'>Los misteriosos círculos de hadas que aparecen en todo el mundo: ¿qué son y cómo se producen?</a></h4>
-    <a href='https://computerhoy.com/ciencia/misteriosos-circulos-hadas-aparecen-todo-mundo-son-como-producen-1318754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/misteriosos-circulos-hadas-aparecen-todo-mundo-son-como-producen-3193372.jpg?tf=1200x' alt='Los misteriosos círculos de hadas que aparecen en todo el mundo: ¿qué son y cómo se producen?' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-alternativas-flipper-zero-tamagotchi-hackers-1319840'>Las mejores alternativas a Flipper Zero, el Tamagotchi para hackers</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-alternativas-flipper-zero-tamagotchi-hackers-1319840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/flipper-zero-3017058.jpg?tf=1200x' alt='Las mejores alternativas a Flipper Zero, el Tamagotchi para hackers' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quien-me-llama-webs-saber-quien-pertenece-numero-telefono-1255144'>¿Recibes llamadas de números desconocidos? Así puedes saber quién te está llamando</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quien-me-llama-webs-saber-quien-pertenece-numero-telefono-1255144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/llamadas-spam-918286085-2738039.jpg?tf=1200x' alt='¿Recibes llamadas de números desconocidos? Así puedes saber quién te está llamando' />
+    <h4><a href='https://computerhoy.com/tutoriales/grupos-canales-publicos-whatsapp-son-como-te-ayudan-conocer-gente-1320702'>Grupos y canales públicos de WhatsApp: qué son y cómo te ayudan a conocer gente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/grupos-canales-publicos-whatsapp-son-como-te-ayudan-conocer-gente-1320702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-grupos-3197148.jpg?tf=1200x' alt='Grupos y canales públicos de WhatsApp: qué son y cómo te ayudan a conocer gente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-mapa-personalizado-google-maps-1320040'>Cómo hacer tu propio mapa en Google Maps para evitar riesgos y viajar más seguro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-mapa-personalizado-google-maps-1320040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-maps-3197096.jpg?tf=1200x' alt='Cómo hacer tu propio mapa en Google Maps para evitar riesgos y viajar más seguro' />
+    <h4><a href='https://computerhoy.com/gaming/todos-juegos-puedes-jugar-google-instalar-nada-1319492'>Juegos de Google: todos los juegos que puedes jugar en Google sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/gaming/todos-juegos-puedes-jugar-google-instalar-nada-1319492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/juegos-google-todos-juegos-puedes-jugar-google-instalar-nada-3194768.jpg?tf=1200x' alt='Juegos de Google: todos los juegos que puedes jugar en Google sin instalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/procesadores-intel-core-14a-generacion-caracteristicas-precio-fecha-lanzamiento-1320842'>Los procesadores Intel Core de 14ª Generación son oficiales, con la inteligencia artificial como gran protagonista</a></h4>
-    <a href='https://computerhoy.com/pc/procesadores-intel-core-14a-generacion-caracteristicas-precio-fecha-lanzamiento-1320842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/procesadores-intel-core-14a-generacion-ya-son-oficiales-inteligencia-artificial-como-gran-protagonista-3197118.jpg?tf=1200x' alt='Los procesadores Intel Core de 14ª Generación son oficiales, con la inteligencia artificial como gran protagonista' />
+    <h4><a href='https://computerhoy.com/ciencia/nasa-confirma-asteroide-bennu-podria-ser-amenaza-tierra-1320632'>La NASA confirma que el asteroide Bennu podría ser una amenaza para la Tierra</a></h4>
+    <a href='https://computerhoy.com/ciencia/nasa-confirma-asteroide-bennu-podria-ser-amenaza-tierra-1320632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nasa-explica-como-moleculas-encontradas-asteroide-bennu-responder-grandes-interrogantes-3196596.jpg?tf=1200x' alt='La NASA confirma que el asteroide Bennu podría ser una amenaza para la Tierra' />
     </a>
 </div>
 
