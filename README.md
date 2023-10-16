@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/warner-revela-cuando-llegara-max-espana-deportes-incluidos-1321002'>Warner revela cuándo llegará Max a España, con deportes incluidos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/warner-revela-cuando-llegara-max-espana-deportes-incluidos-1321002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estreno-max-marca-futuro-streaming-fusionarse-morir-3040420.jpg?tf=1200x' alt='Warner revela cuándo llegará Max a España, con deportes incluidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/descubren-nuevo-tipo-hielo-solo-derrite-temperaturas-muy-altas-1320994'>Descubren un nuevo tipo de hielo que solo se derrite a temperaturas muy altas</a></h4>
     <a href='https://computerhoy.com/life/descubren-nuevo-tipo-hielo-solo-derrite-temperaturas-muy-altas-1320994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cubitos-hielo-3197488.jpg?tf=1200x' alt='Descubren un nuevo tipo de hielo que solo se derrite a temperaturas muy altas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/encuentra-gato-oculto-imagen-solo-inteligentes-logran-1319820'>Encuentra al gato oculto en la imagen, solo los más inteligentes lo logran</a></h4>
     <a href='https://computerhoy.com/life/encuentra-gato-oculto-imagen-solo-inteligentes-logran-1319820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/encuentra-gato-oculto-imagen-solo-inteligentes-logran-3195548.jpg?tf=1200x' alt='Encuentra al gato oculto en la imagen, solo los más inteligentes lo logran' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lavar-vaqueros-levis-casi-nunca-no-te-queda-otra-ducha-1319866'>Lavar los vaqueros, según Levi’s: lo menos posible y si no te queda más remedio, en la ducha</a></h4>
-    <a href='https://computerhoy.com/life/lavar-vaqueros-levis-casi-nunca-no-te-queda-otra-ducha-1319866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/lavar-vaqueros-lavadora-2510109.jpg?tf=1200x' alt='Lavar los vaqueros, según Levi’s: lo menos posible y si no te queda más remedio, en la ducha' />
     </a>
 </div>
 
