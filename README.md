@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/liberando-espacio-movil-soluciones-aplicaciones-olvidadas-android-ios-1320650'>Liberando espacio en tu móvil: soluciones para aplicaciones olvidadas en Android e iOS</a></h4>
+    <a href='https://computerhoy.com/moviles/liberando-espacio-movil-soluciones-aplicaciones-olvidadas-android-ios-1320650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/espacio-movil-3196640.jpg?tf=1200x' alt='Liberando espacio en tu móvil: soluciones para aplicaciones olvidadas en Android e iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/apple-watch-ultra-2-analisis-opinion-1319572'>Apple Watch Ultra 2, análisis y opinión: si algo funciona bien, no lo cambies</a></h4>
     <a href='https://computerhoy.com/analisis/apple-watch-ultra-2-analisis-opinion-1319572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-ultra-2-3194948.jpg?tf=1200x' alt='Apple Watch Ultra 2, análisis y opinión: si algo funciona bien, no lo cambies' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/telefonica-explica-como-quiere-netflix-youtube-paguen-usar-redes-1320420'>Telefónica explica a la UE cómo hacer que Netflix, YouTube, TikTok y compañía paguen por usar sus redes</a></h4>
     <a href='https://computerhoy.com/internet/telefonica-explica-como-quiere-netflix-youtube-paguen-usar-redes-1320420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/telefonica-explica-ue-como-quiere-hacer-netflix-youtube-tiktok-compania-paguen-usar-redes-3196358.jpg?tf=1200x' alt='Telefónica explica a la UE cómo hacer que Netflix, YouTube, TikTok y compañía paguen por usar sus redes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cuidado-ssd-falsos-samsung-tiendas-chinas-7-veces-mas-lentos-1320416'>Cuidado si compras un SSD barato de Samsung en tiendas chinas: algunos son falsos, hasta 7 veces más lentos</a></h4>
-    <a href='https://computerhoy.com/pc/cuidado-ssd-falsos-samsung-tiendas-chinas-7-veces-mas-lentos-1320416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cuidado-compras-ssd-barato-samsung-tiendas-chinas-algunos-son-falsos-7-veces-lentos-3196314.jpg?tf=1200x' alt='Cuidado si compras un SSD barato de Samsung en tiendas chinas: algunos son falsos, hasta 7 veces más lentos' />
     </a>
 </div>
 
