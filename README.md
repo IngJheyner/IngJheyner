@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/activar-opcion-router-wifi-podria-evitarte-grandes-problemas-ciberseguridad-1320712'>Activar esta opción en tu router WiFi podría evitarte grandes problemas de ciberseguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/activar-opcion-router-wifi-podria-evitarte-grandes-problemas-ciberseguridad-1320712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/wifi-seguridad-3196804.jpg?tf=1200x' alt='Activar esta opción en tu router WiFi podría evitarte grandes problemas de ciberseguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-destroza-precio-garmin-forerunner-muy-top-queda-precio-reloj-chino-1320394'>Amazon destroza el precio de un Garmin Forerunner muy top que queda a precio de reloj chino</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-destroza-precio-garmin-forerunner-muy-top-queda-precio-reloj-chino-1320394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-forerunner-745-3196270.jpg?tf=1200x' alt='Amazon destroza el precio de un Garmin Forerunner muy top que queda a precio de reloj chino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-llega-alto-vence-campeon-street-fighter-batalla-epica-1320682'>La inteligencia artificial llega a lo más alto y vence al campeón de Street Fighter en una batalla épica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-llega-alto-vence-campeon-street-fighter-batalla-epica-1320682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/street-fighter-v-vega-50355.jpg?tf=1200x' alt='La inteligencia artificial llega a lo más alto y vence al campeón de Street Fighter en una batalla épica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-google-precio-xiaomi-oferta-sacude-mercado-quieres-android-barato-1319754'>Móvil Google a precio Xiaomi: esta oferta sacude el mercado si quieres un Android barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-google-precio-xiaomi-oferta-sacude-mercado-quieres-android-barato-1319754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg?tf=1200x' alt='Móvil Google a precio Xiaomi: esta oferta sacude el mercado si quieres un Android barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/liberando-espacio-movil-soluciones-aplicaciones-olvidadas-android-ios-1320650'>Liberando espacio en tu móvil: soluciones para aplicaciones olvidadas en Android e iOS</a></h4>
     <a href='https://computerhoy.com/moviles/liberando-espacio-movil-soluciones-aplicaciones-olvidadas-android-ios-1320650' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/espacio-movil-3196640.jpg?tf=1200x' alt='Liberando espacio en tu móvil: soluciones para aplicaciones olvidadas en Android e iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/apple-watch-ultra-2-analisis-opinion-1319572'>Apple Watch Ultra 2, análisis y opinión: si algo funciona bien, no lo cambies</a></h4>
-    <a href='https://computerhoy.com/analisis/apple-watch-ultra-2-analisis-opinion-1319572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-ultra-2-3194948.jpg?tf=1200x' alt='Apple Watch Ultra 2, análisis y opinión: si algo funciona bien, no lo cambies' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/altavoces-inteligentes-mejores-modelos-ofertas-1172860'>¿Qué altavoz inteligente te merece la pena comprar? Modelos y mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/audio/altavoces-inteligentes-mejores-modelos-ofertas-1172860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-echo-dot-reloj-2765665.jpg?tf=1200x' alt='¿Qué altavoz inteligente te merece la pena comprar? Modelos y mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/youtube-muestra-mensajes-desactives-bloqueador-anuncios-1320422'>YouTube comienza mostrar en España mensajes pop-up para que desactives el bloqueador de anuncios, y son muy molestos</a></h4>
-    <a href='https://computerhoy.com/internet/youtube-muestra-mensajes-desactives-bloqueador-anuncios-1320422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/youtube-comienza-mostrar-espana-mensajes-pop-desactives-bloqueador-anuncios-son-muy-molestos-3196360.jpg?tf=1200x' alt='YouTube comienza mostrar en España mensajes pop-up para que desactives el bloqueador de anuncios, y son muy molestos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/telefonica-explica-como-quiere-netflix-youtube-paguen-usar-redes-1320420'>Telefónica explica a la UE cómo hacer que Netflix, YouTube, TikTok y compañía paguen por usar sus redes</a></h4>
-    <a href='https://computerhoy.com/internet/telefonica-explica-como-quiere-netflix-youtube-paguen-usar-redes-1320420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/telefonica-explica-ue-como-quiere-hacer-netflix-youtube-tiktok-compania-paguen-usar-redes-3196358.jpg?tf=1200x' alt='Telefónica explica a la UE cómo hacer que Netflix, YouTube, TikTok y compañía paguen por usar sus redes' />
     </a>
 </div>
 
