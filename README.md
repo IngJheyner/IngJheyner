@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/apple-watch-ultra-2-analisis-opinion-1319572'>Apple Watch Ultra 2, análisis y opinión: si algo funciona bien, no lo cambies</a></h4>
+    <a href='https://computerhoy.com/analisis/apple-watch-ultra-2-analisis-opinion-1319572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-ultra-2-3194948.jpg?tf=1200x' alt='Apple Watch Ultra 2, análisis y opinión: si algo funciona bien, no lo cambies' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/altavoces-inteligentes-mejores-modelos-ofertas-1172860'>¿Qué altavoz inteligente te merece la pena comprar? Modelos y mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/audio/altavoces-inteligentes-mejores-modelos-ofertas-1172860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-echo-dot-reloj-2765665.jpg?tf=1200x' alt='¿Qué altavoz inteligente te merece la pena comprar? Modelos y mejores ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/youtube-muestra-mensajes-desactives-bloqueador-anuncios-1320422'>YouTube comienza mostrar en España mensajes pop-up para que desactives el bloqueador de anuncios, y son muy molestos</a></h4>
+    <a href='https://computerhoy.com/internet/youtube-muestra-mensajes-desactives-bloqueador-anuncios-1320422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/youtube-comienza-mostrar-espana-mensajes-pop-desactives-bloqueador-anuncios-son-muy-molestos-3196360.jpg?tf=1200x' alt='YouTube comienza mostrar en España mensajes pop-up para que desactives el bloqueador de anuncios, y son muy molestos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/telefonica-explica-como-quiere-netflix-youtube-paguen-usar-redes-1320420'>Telefónica explica a la UE cómo hacer que Netflix, YouTube, TikTok y compañía paguen por usar sus redes</a></h4>
     <a href='https://computerhoy.com/internet/telefonica-explica-como-quiere-netflix-youtube-paguen-usar-redes-1320420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/telefonica-explica-ue-como-quiere-hacer-netflix-youtube-tiktok-compania-paguen-usar-redes-3196358.jpg?tf=1200x' alt='Telefónica explica a la UE cómo hacer que Netflix, YouTube, TikTok y compañía paguen por usar sus redes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/cuidado-ssd-falsos-samsung-tiendas-chinas-7-veces-mas-lentos-1320416'>Cuidado si compras un SSD barato de Samsung en tiendas chinas: algunos son falsos, hasta 7 veces más lentos</a></h4>
     <a href='https://computerhoy.com/pc/cuidado-ssd-falsos-samsung-tiendas-chinas-7-veces-mas-lentos-1320416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cuidado-compras-ssd-barato-samsung-tiendas-chinas-algunos-son-falsos-7-veces-lentos-3196314.jpg?tf=1200x' alt='Cuidado si compras un SSD barato de Samsung en tiendas chinas: algunos son falsos, hasta 7 veces más lentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/recortes-gafas-vision-pro-baratas-apple-1320404'>Estos son los recortes en pantallas y procesador de las gafas Vision Pro baratas de Apple, para bajar el precio 2.000 euros</a></h4>
-    <a href='https://computerhoy.com/apple/recortes-gafas-vision-pro-baratas-apple-1320404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/vision-pro-3051536.jpg?tf=1200x' alt='Estos son los recortes en pantallas y procesador de las gafas Vision Pro baratas de Apple, para bajar el precio 2.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/geforce-now-plataforma-juego-nube-sube-precio-espana-1320392'>GeForce NOW, la plataforma de juegos en la nube, sube de precio en España</a></h4>
-    <a href='https://computerhoy.com/gaming/geforce-now-plataforma-juego-nube-sube-precio-espana-1320392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/geforce-now-plataforma-juego-nube-sube-precio-espana-3196250.jpg?tf=1200x' alt='GeForce NOW, la plataforma de juegos en la nube, sube de precio en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-domingo-15-octubre-2023-1320320'>Programación TV: ¿Qué ver hoy en televisión? Domingo 15 de octubre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-domingo-15-octubre-2023-1320320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-domingo-15-octubre-2023-3196086.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Domingo 15 de octubre de 2023' />
     </a>
 </div>
 
