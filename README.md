@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/telefonica-explica-como-quiere-netflix-youtube-paguen-usar-redes-1320420'>Telefónica explica a la UE cómo hacer que Netflix, YouTube, TikTok y compañía paguen por usar sus redes</a></h4>
+    <a href='https://computerhoy.com/internet/telefonica-explica-como-quiere-netflix-youtube-paguen-usar-redes-1320420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/telefonica-explica-ue-como-quiere-hacer-netflix-youtube-tiktok-compania-paguen-usar-redes-3196358.jpg?tf=1200x' alt='Telefónica explica a la UE cómo hacer que Netflix, YouTube, TikTok y compañía paguen por usar sus redes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/cuidado-ssd-falsos-samsung-tiendas-chinas-7-veces-mas-lentos-1320416'>Cuidado si compras un SSD barato de Samsung en tiendas chinas: algunos son falsos, hasta 7 veces más lentos</a></h4>
     <a href='https://computerhoy.com/pc/cuidado-ssd-falsos-samsung-tiendas-chinas-7-veces-mas-lentos-1320416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cuidado-compras-ssd-barato-samsung-tiendas-chinas-algunos-son-falsos-7-veces-lentos-3196314.jpg?tf=1200x' alt='Cuidado si compras un SSD barato de Samsung en tiendas chinas: algunos son falsos, hasta 7 veces más lentos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-domingo-15-octubre-2023-1320320'>Programación TV: ¿Qué ver hoy en televisión? Domingo 15 de octubre de 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-domingo-15-octubre-2023-1320320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-domingo-15-octubre-2023-3196086.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Domingo 15 de octubre de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/lente-nimrud-misterioso-cristal-aumento-hace-2800-anos-1320380'>La Lente de Nimrud: el enigmático cristal de aumento de hace 2.800 años cuyo uso es un misterio</a></h4>
-    <a href='https://computerhoy.com/ciencia/lente-nimrud-misterioso-cristal-aumento-hace-2800-anos-1320380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/lente-nimrud-enigmatico-cristal-aumento-hace-3000-anos-cuyo-uso-misterio-3196186.jpg?tf=1200x' alt='La Lente de Nimrud: el enigmático cristal de aumento de hace 2.800 años cuyo uso es un misterio' />
     </a>
 </div>
 
