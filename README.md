@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cientificos-usan-ia-simular-batallas-animales-peligrosos-mundo-ganador-1320756'>Científicos usan la IA para simular batallas entre los animales más peligrosos del mundo y este es el ganador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cientificos-usan-ia-simular-batallas-animales-peligrosos-mundo-ganador-1320756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/animales-ia-3196952.jpg?tf=1200x' alt='Científicos usan la IA para simular batallas entre los animales más peligrosos del mundo y este es el ganador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/activar-opcion-router-wifi-podria-evitarte-grandes-problemas-ciberseguridad-1320712'>Activar esta opción en tu router WiFi podría evitarte grandes problemas de ciberseguridad</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/activar-opcion-router-wifi-podria-evitarte-grandes-problemas-ciberseguridad-1320712' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/wifi-seguridad-3196804.jpg?tf=1200x' alt='Activar esta opción en tu router WiFi podría evitarte grandes problemas de ciberseguridad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/movil-google-precio-xiaomi-oferta-sacude-mercado-quieres-android-barato-1319754'>Móvil Google a precio Xiaomi: esta oferta sacude el mercado si quieres un Android barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-google-precio-xiaomi-oferta-sacude-mercado-quieres-android-barato-1319754' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/analisis-pixel-6a-2765529.jpg?tf=1200x' alt='Móvil Google a precio Xiaomi: esta oferta sacude el mercado si quieres un Android barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/liberando-espacio-movil-soluciones-aplicaciones-olvidadas-android-ios-1320650'>Liberando espacio en tu móvil: soluciones para aplicaciones olvidadas en Android e iOS</a></h4>
-    <a href='https://computerhoy.com/moviles/liberando-espacio-movil-soluciones-aplicaciones-olvidadas-android-ios-1320650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/espacio-movil-3196640.jpg?tf=1200x' alt='Liberando espacio en tu móvil: soluciones para aplicaciones olvidadas en Android e iOS' />
     </a>
 </div>
 
