@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/comprueba-datos-estan-dark-web-herramienta-google-1320998'>Cómo saber si tus datos personales están en la dark web utilizando la herramienta gratis de Google</a></h4>
+    <a href='https://computerhoy.com/tecnologia/comprueba-datos-estan-dark-web-herramienta-google-1320998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-saber-datos-personales-estan-dark-web-utilizando-herramienta-gratis-google-3197508.jpg?tf=1200x' alt='Cómo saber si tus datos personales están en la dark web utilizando la herramienta gratis de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-sistema-actualizar-iphone-sin-sacarlos-caja-1321012'>Apple desarrolla un sistema para actualizar un iPhone apagado, sin sacarlo de la caja</a></h4>
+    <a href='https://computerhoy.com/apple/apple-sistema-actualizar-iphone-sin-sacarlos-caja-1321012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-desarrolla-sistema-actualizar-iphones-estrenar-sacarlos-caja-3197500.jpg?tf=1200x' alt='Apple desarrolla un sistema para actualizar un iPhone apagado, sin sacarlo de la caja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/warner-revela-cuando-llegara-max-espana-deportes-incluidos-1321002'>Warner revela cuándo llegará Max a España, con deportes incluidos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/warner-revela-cuando-llegara-max-espana-deportes-incluidos-1321002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estreno-max-marca-futuro-streaming-fusionarse-morir-3040420.jpg?tf=1200x' alt='Warner revela cuándo llegará Max a España, con deportes incluidos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estoy-grabando-llamada-nuevo-metodo-deshacerte-llamadas-comerciales-1320992'>Estoy grabando la llamada: el nuevo método para deshacerte de las llamadas comerciales</a></h4>
     <a href='https://computerhoy.com/life/estoy-grabando-llamada-nuevo-metodo-deshacerte-llamadas-comerciales-1320992' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/llamadas-spam-3197486.jpg?tf=1200x' alt='Estoy grabando la llamada: el nuevo método para deshacerte de las llamadas comerciales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-japon-presenta-sombrero-teclado-puedes-hacer-mismo-1316400'>Google Japón presenta un sombrero-teclado que puedes hacer tú mismo</a></h4>
-    <a href='https://computerhoy.com/google/google-japon-presenta-sombrero-teclado-puedes-hacer-mismo-1316400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-japon-presenta-sombrero-teclado-puedes-hacer-mismo-3188624.jpg?tf=1200x' alt='Google Japón presenta un sombrero-teclado que puedes hacer tú mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/encuentra-gato-oculto-imagen-solo-inteligentes-logran-1319820'>Encuentra al gato oculto en la imagen, solo los más inteligentes lo logran</a></h4>
-    <a href='https://computerhoy.com/life/encuentra-gato-oculto-imagen-solo-inteligentes-logran-1319820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/encuentra-gato-oculto-imagen-solo-inteligentes-logran-3195548.jpg?tf=1200x' alt='Encuentra al gato oculto en la imagen, solo los más inteligentes lo logran' />
     </a>
 </div>
 
