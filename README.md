@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089'>Estas son las mejores impresoras baratas que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/impresora-canon-2460527.jpg?tf=1200x' alt='Estas son las mejores impresoras baratas que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-jbl-soundgear-sense-no-son-todos-usuarios-1310224'>JBL SoundGear Sense, análisis y opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-jbl-soundgear-sense-no-son-todos-usuarios-1310224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/soundgear-sense-jbl-3193864.jpg?tf=1200x' alt='JBL SoundGear Sense, análisis y opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-huele-lena-pero-casi-chimenea-electrica-quieres-salon-invierno-ahora-precio-saldo-1320828'>No huele a leña, pero casi: esta chimenea eléctrica es lo que quieres para tu salón en invierno, y ahora a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-huele-lena-pero-casi-chimenea-electrica-quieres-salon-invierno-ahora-precio-saldo-1320828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cecotec-ready-warm-2250-curved-flames-connected-3197138.jpg?tf=1200x' alt='No huele a leña, pero casi: esta chimenea eléctrica es lo que quieres para tu salón en invierno, y ahora a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/comprueba-datos-estan-dark-web-herramienta-google-1320998'>Cómo saber si tus datos personales están en la dark web utilizando la herramienta gratis de Google</a></h4>
     <a href='https://computerhoy.com/tecnologia/comprueba-datos-estan-dark-web-herramienta-google-1320998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-saber-datos-personales-estan-dark-web-utilizando-herramienta-gratis-google-3197508.jpg?tf=1200x' alt='Cómo saber si tus datos personales están en la dark web utilizando la herramienta gratis de Google' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-sistema-actualizar-iphone-sin-sacarlos-caja-1321012'>Apple desarrolla un sistema para actualizar un iPhone apagado, sin sacarlo de la caja</a></h4>
     <a href='https://computerhoy.com/apple/apple-sistema-actualizar-iphone-sin-sacarlos-caja-1321012' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-desarrolla-sistema-actualizar-iphones-estrenar-sacarlos-caja-3197500.jpg?tf=1200x' alt='Apple desarrolla un sistema para actualizar un iPhone apagado, sin sacarlo de la caja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/warner-revela-cuando-llegara-max-espana-deportes-incluidos-1321002'>Warner revela cuándo llegará Max a España, con deportes incluidos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/warner-revela-cuando-llegara-max-espana-deportes-incluidos-1321002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/estreno-max-marca-futuro-streaming-fusionarse-morir-3040420.jpg?tf=1200x' alt='Warner revela cuándo llegará Max a España, con deportes incluidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubren-nuevo-tipo-hielo-solo-derrite-temperaturas-muy-altas-1320994'>Descubren un nuevo tipo de hielo que solo se derrite a temperaturas muy altas</a></h4>
-    <a href='https://computerhoy.com/life/descubren-nuevo-tipo-hielo-solo-derrite-temperaturas-muy-altas-1320994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cubitos-hielo-3197488.jpg?tf=1200x' alt='Descubren un nuevo tipo de hielo que solo se derrite a temperaturas muy altas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estoy-grabando-llamada-nuevo-metodo-deshacerte-llamadas-comerciales-1320992'>Estoy grabando la llamada: el nuevo método para deshacerte de las llamadas comerciales</a></h4>
-    <a href='https://computerhoy.com/life/estoy-grabando-llamada-nuevo-metodo-deshacerte-llamadas-comerciales-1320992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/llamadas-spam-3197486.jpg?tf=1200x' alt='Estoy grabando la llamada: el nuevo método para deshacerte de las llamadas comerciales' />
     </a>
 </div>
 
