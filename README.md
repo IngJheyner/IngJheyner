@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/project-primrose-vestido-adobe-cambia-diseno-pulsando-boton-1321602'>Project Primrose, el vestido de Adobe que cambia de diseño pulsando un botón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/project-primrose-vestido-adobe-cambia-diseno-pulsando-boton-1321602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697545378166-3198178.jpg?tf=1200x' alt='Project Primrose, el vestido de Adobe que cambia de diseño pulsando un botón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-tablet-android-potente-galaxy-tab-s9-150eu-descuento-1321248'>Liquidación en la tablet Android más potente: las Galaxy Tab S9, con hasta 150€ de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/liquidacion-tablet-android-potente-galaxy-tab-s9-150eu-descuento-1321248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/samsung-galaxy-tab-s9-3197758.jpg?tf=1200x' alt='Liquidación en la tablet Android más potente: las Galaxy Tab S9, con hasta 150€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/tan-dificil-iphone-infecte-virus-1320926'>¿Por qué es tan difícil que tu iPhone se infecte con un virus?</a></h4>
     <a href='https://computerhoy.com/apple/tan-dificil-iphone-infecte-virus-1320926' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tan-dificil-iphone-infecte-virus-3197462.jpg?tf=1200x' alt='¿Por qué es tan difícil que tu iPhone se infecte con un virus?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/tdtchannels-mejor-app-ver-tdt-gratis-actualiza-importante-novedad-1321580'>TDTChannels, la mejor app para ver la TDT gratis se actualiza con una importante novedad</a></h4>
     <a href='https://computerhoy.com/apps/tdtchannels-mejor-app-ver-tdt-gratis-actualiza-importante-novedad-1321580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels, la mejor app para ver la TDT gratis se actualiza con una importante novedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/beneficia-cuerpo-comer-jengibre-ciencia-1321244'>Así beneficia a tu cuerpo comer jengibre, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/beneficia-cuerpo-comer-jengibre-ciencia-1321244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/beneficia-cuerpo-comer-jengibre-ciencia-3197804.jpg?tf=1200x' alt='Así beneficia a tu cuerpo comer jengibre, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafadores-delincuentes-utilizan-telegram-1320982'>Esta es la razón por la que los estafadores y delincuentes utilizan Telegram, según los expertos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafadores-delincuentes-utilizan-telegram-1320982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hacker-telegram-3198184.jpg?tf=1200x' alt='Esta es la razón por la que los estafadores y delincuentes utilizan Telegram, según los expertos' />
     </a>
 </div>
 
