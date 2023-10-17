@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-cosas-puedes-hacer-cuenta-hotmail-no-sabias-278021'>Cosas que puedes hacer con Hotmail y no sabías hasta ahora</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-cosas-puedes-hacer-cuenta-hotmail-no-sabias-278021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/outlook.jpg?tf=1200x' alt='Cosas que puedes hacer con Hotmail y no sabías hasta ahora' />
+    <h4><a href='https://computerhoy.com/tutoriales/genial-truco-waze-repostar-siempre-gasolinera-barata-1321014'>El genial truco de Waze para repostar siempre en la gasolinera más barata</a></h4>
+    <a href='https://computerhoy.com/tutoriales/genial-truco-waze-repostar-siempre-gasolinera-barata-1321014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/genial-truco-waze-repostar-siempre-gasolinera-barata-3197704.jpg?tf=1200x' alt='El genial truco de Waze para repostar siempre en la gasolinera más barata' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/hombre-aun-conserva-movil-ladrillo-anos-80-te-colocabas-hombro-llevarlo-casa-1321362'>Este hombre aún conserva su móvil ladrillo de los años 80: "te lo colocabas al hombro para llevarlo a casa"</a></h4>
-    <a href='https://computerhoy.com/moviles/hombre-aun-conserva-movil-ladrillo-anos-80-te-colocabas-hombro-llevarlo-casa-1321362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/movil-anitiguo-3197988.jpg?tf=1200x' alt='Este hombre aún conserva su móvil ladrillo de los años 80: "te lo colocabas al hombro para llevarlo a casa"' />
+    <h4><a href='https://computerhoy.com/android/xiaomi-matara-miui-reemplazara-sistema-operativo-hyperos-1321524'>Xiaomi matará MIUI y lo reemplazará por un nuevo sistema operativo, HyperOS</a></h4>
+    <a href='https://computerhoy.com/android/xiaomi-matara-miui-reemplazara-sistema-operativo-hyperos-1321524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-hyperos-vs-miui-14-3198380.jpg?tf=1200x' alt='Xiaomi matará MIUI y lo reemplazará por un nuevo sistema operativo, HyperOS' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/policia-avisa-peligro-monedas-falsas-parecen-euros-1321430'>La Policía advierte sobre monedas falsas que parecen euros que circulan libremente por España</a></h4>
-    <a href='https://computerhoy.com/life/policia-avisa-peligro-monedas-falsas-parecen-euros-1321430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/monedas-euro-3098338.jpg?tf=1200x' alt='La Policía advierte sobre monedas falsas que parecen euros que circulan libremente por España' />
+    <h4><a href='https://computerhoy.com/tutoriales/whatsapp-como-funcionan-fotos-visualizacion-unica-no-son-infalibles-1321294'>WhatsApp: cómo funcionan las fotos de visualización única y por qué no son infalibles</a></h4>
+    <a href='https://computerhoy.com/tutoriales/whatsapp-como-funcionan-fotos-visualizacion-unica-no-son-infalibles-1321294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-logo-3198238.jpg?tf=1200x' alt='WhatsApp: cómo funcionan las fotos de visualización única y por qué no son infalibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/pegatina-puede-multiplicar-autonomia-coche-electrico-1321398'>Esta simple pegatina puede multiplicar la autonomía de tu coche eléctrico y gratis: así funciona</a></h4>
-    <a href='https://computerhoy.com/motor/pegatina-puede-multiplicar-autonomia-coche-electrico-1321398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pegatina-fotovoltaica-3198134.jpg?tf=1200x' alt='Esta simple pegatina puede multiplicar la autonomía de tu coche eléctrico y gratis: así funciona' />
+    <h4><a href='https://computerhoy.com/reportajes/life/verdadera-historia-fotografias-famosas-todos-tiempos-730579'>La verdadera historia de una de las fotografías más famosas de todos los tiempos</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/verdadera-historia-fotografias-famosas-todos-tiempos-730579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/almuerzo-alto-rascacielos-3198334.jpg?tf=1200x' alt='La verdadera historia de una de las fotografías más famosas de todos los tiempos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-implementa-passkeys-android-reforzando-seguridad-millones-usuarios-1321346'>WhatsApp implementa las passkeys en Android reforzando la seguridad de millones de usuarios</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-implementa-passkeys-android-reforzando-seguridad-millones-usuarios-1321346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-passkey-3197976.jpg?tf=1200x' alt='WhatsApp implementa las passkeys en Android reforzando la seguridad de millones de usuarios' />
+    <h4><a href='https://computerhoy.com/tutoriales/google-chrome-como-saber-cuanta-ram-consume-cada-pestana-abierta-1321198'>Google Chrome: cómo saber cuánta memoria RAM está consumiendo cada pestaña abierta</a></h4>
+    <a href='https://computerhoy.com/tutoriales/google-chrome-como-saber-cuanta-ram-consume-cada-pestana-abierta-1321198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-chrome-como-saber-cuanta-memoria-ram-consumiendo-cada-pestana-abierta-3197714.jpg?tf=1200x' alt='Google Chrome: cómo saber cuánta memoria RAM está consumiendo cada pestaña abierta' />
     </a>
 </div>
 
