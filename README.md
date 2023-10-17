@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/genial-truco-waze-repostar-siempre-gasolinera-barata-1321014'>El genial truco de Waze para repostar siempre en la gasolinera más barata</a></h4>
-    <a href='https://computerhoy.com/tutoriales/genial-truco-waze-repostar-siempre-gasolinera-barata-1321014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/genial-truco-waze-repostar-siempre-gasolinera-barata-3197704.jpg?tf=1200x' alt='El genial truco de Waze para repostar siempre en la gasolinera más barata' />
+    <h4><a href='https://computerhoy.com/apple/tan-dificil-iphone-infecte-virus-1320926'>¿Por qué es tan difícil que tu iPhone se infecte con un virus?</a></h4>
+    <a href='https://computerhoy.com/apple/tan-dificil-iphone-infecte-virus-1320926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tan-dificil-iphone-infecte-virus-3197462.jpg?tf=1200x' alt='¿Por qué es tan difícil que tu iPhone se infecte con un virus?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/xiaomi-matara-miui-reemplazara-sistema-operativo-hyperos-1321524'>Xiaomi matará MIUI y lo reemplazará por un nuevo sistema operativo, HyperOS</a></h4>
-    <a href='https://computerhoy.com/android/xiaomi-matara-miui-reemplazara-sistema-operativo-hyperos-1321524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-hyperos-vs-miui-14-3198380.jpg?tf=1200x' alt='Xiaomi matará MIUI y lo reemplazará por un nuevo sistema operativo, HyperOS' />
+    <h4><a href='https://computerhoy.com/apps/actualizacion-android-no-debes-instalar-utilizas-google-maps-android-auto-1321582'>La actualización de Android que no debes instalar si utilizas Google Maps en Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/actualizacion-android-no-debes-instalar-utilizas-google-maps-android-auto-1321582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='La actualización de Android que no debes instalar si utilizas Google Maps en Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/whatsapp-como-funcionan-fotos-visualizacion-unica-no-son-infalibles-1321294'>WhatsApp: cómo funcionan las fotos de visualización única y por qué no son infalibles</a></h4>
-    <a href='https://computerhoy.com/tutoriales/whatsapp-como-funcionan-fotos-visualizacion-unica-no-son-infalibles-1321294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-logo-3198238.jpg?tf=1200x' alt='WhatsApp: cómo funcionan las fotos de visualización única y por qué no son infalibles' />
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-mejor-app-ver-tdt-gratis-actualiza-importante-novedad-1321580'>TDTChannels, la mejor app para ver la TDT gratis se actualiza con una importante novedad</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-mejor-app-ver-tdt-gratis-actualiza-importante-novedad-1321580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels, la mejor app para ver la TDT gratis se actualiza con una importante novedad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/verdadera-historia-fotografias-famosas-todos-tiempos-730579'>La verdadera historia de una de las fotografías más famosas de todos los tiempos</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/verdadera-historia-fotografias-famosas-todos-tiempos-730579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/almuerzo-alto-rascacielos-3198334.jpg?tf=1200x' alt='La verdadera historia de una de las fotografías más famosas de todos los tiempos' />
+    <h4><a href='https://computerhoy.com/ciencia/beneficia-cuerpo-comer-jengibre-ciencia-1321244'>Así beneficia a tu cuerpo comer jengibre, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/beneficia-cuerpo-comer-jengibre-ciencia-1321244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/beneficia-cuerpo-comer-jengibre-ciencia-3197804.jpg?tf=1200x' alt='Así beneficia a tu cuerpo comer jengibre, según la ciencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/google-chrome-como-saber-cuanta-ram-consume-cada-pestana-abierta-1321198'>Google Chrome: cómo saber cuánta memoria RAM está consumiendo cada pestaña abierta</a></h4>
-    <a href='https://computerhoy.com/tutoriales/google-chrome-como-saber-cuanta-ram-consume-cada-pestana-abierta-1321198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-chrome-como-saber-cuanta-memoria-ram-consumiendo-cada-pestana-abierta-3197714.jpg?tf=1200x' alt='Google Chrome: cómo saber cuánta memoria RAM está consumiendo cada pestaña abierta' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafadores-delincuentes-utilizan-telegram-1320982'>Esta es la razón por la que los estafadores y delincuentes utilizan Telegram, según los expertos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafadores-delincuentes-utilizan-telegram-1320982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hacker-telegram-3198184.jpg?tf=1200x' alt='Esta es la razón por la que los estafadores y delincuentes utilizan Telegram, según los expertos' />
     </a>
 </div>
 
