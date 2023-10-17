@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rebaja-bestia-xiaomi-redmi-note-12s-movil-barato-pero-muy-completo-tiene-casi-todo-1321214'>Rebaja a lo bestia en el Xiaomi Redmi Note 12S, un móvil barato pero muy completo que lo tiene casi todo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rebaja-bestia-xiaomi-redmi-note-12s-movil-barato-pero-muy-completo-tiene-casi-todo-1321214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-note-12s-3197748.jpg?tf=1200x' alt='Rebaja a lo bestia en el Xiaomi Redmi Note 12S, un móvil barato pero muy completo que lo tiene casi todo' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-cosas-puedes-hacer-cuenta-hotmail-no-sabias-278021'>Cosas que puedes hacer con Hotmail y no sabías hasta ahora</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-cosas-puedes-hacer-cuenta-hotmail-no-sabias-278021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/outlook.jpg?tf=1200x' alt='Cosas que puedes hacer con Hotmail y no sabías hasta ahora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/comprar-nuevo-iphone-cada-ano-tim-cook-explica-buena-idea-1321328'>¿Comprar un nuevo iPhone cada año? Tim Cook explica por qué es una buena idea</a></h4>
-    <a href='https://computerhoy.com/apple/comprar-nuevo-iphone-cada-ano-tim-cook-explica-buena-idea-1321328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tim-cook-iphone-13-pro-3132102.jpg?tf=1200x' alt='¿Comprar un nuevo iPhone cada año? Tim Cook explica por qué es una buena idea' />
+    <h4><a href='https://computerhoy.com/moviles/hombre-aun-conserva-movil-ladrillo-anos-80-te-colocabas-hombro-llevarlo-casa-1321362'>Este hombre aún conserva su móvil ladrillo de los años 80: "te lo colocabas al hombro para llevarlo a casa"</a></h4>
+    <a href='https://computerhoy.com/moviles/hombre-aun-conserva-movil-ladrillo-anos-80-te-colocabas-hombro-llevarlo-casa-1321362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/movil-anitiguo-3197988.jpg?tf=1200x' alt='Este hombre aún conserva su móvil ladrillo de los años 80: "te lo colocabas al hombro para llevarlo a casa"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-google-maps-sabe-velocidad-debes-circular-evitar-te-multen-1321292'>Así es como Google Maps sabe la velocidad a la que debes circular para evitar que te multen</a></h4>
-    <a href='https://computerhoy.com/google/como-google-maps-sabe-velocidad-debes-circular-evitar-te-multen-1321292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-maps-velocidad-3197916.jpg?tf=1200x' alt='Así es como Google Maps sabe la velocidad a la que debes circular para evitar que te multen' />
+    <h4><a href='https://computerhoy.com/life/policia-avisa-peligro-monedas-falsas-parecen-euros-1321430'>La Policía advierte sobre monedas falsas que parecen euros que circulan libremente por España</a></h4>
+    <a href='https://computerhoy.com/life/policia-avisa-peligro-monedas-falsas-parecen-euros-1321430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/monedas-euro-3098338.jpg?tf=1200x' alt='La Policía advierte sobre monedas falsas que parecen euros que circulan libremente por España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/suzuki-revela-nueva-scooter-electrica-cuatro-patas-roboticas-sube-escaleras-1321250'>Suzuki revela su nueva scooter eléctrica con cuatro patas robóticas que sube escaleras</a></h4>
-    <a href='https://computerhoy.com/motor/suzuki-revela-nueva-scooter-electrica-cuatro-patas-roboticas-sube-escaleras-1321250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/scooter-suzuki-3197826.jpg?tf=1200x' alt='Suzuki revela su nueva scooter eléctrica con cuatro patas robóticas que sube escaleras' />
+    <h4><a href='https://computerhoy.com/motor/pegatina-puede-multiplicar-autonomia-coche-electrico-1321398'>Esta simple pegatina puede multiplicar la autonomía de tu coche eléctrico y gratis: así funciona</a></h4>
+    <a href='https://computerhoy.com/motor/pegatina-puede-multiplicar-autonomia-coche-electrico-1321398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pegatina-fotovoltaica-3198134.jpg?tf=1200x' alt='Esta simple pegatina puede multiplicar la autonomía de tu coche eléctrico y gratis: así funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gopro-camara-dji-mucho-barata-graba-video-4k-120-fps-1320722'>¿GoPro? Esta cámara DJI es mucho más barata y graba vídeo 4K a 120 FPS</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gopro-camara-dji-mucho-barata-graba-video-4k-120-fps-1320722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dji-action-2-3197010.jpg?tf=1200x' alt='¿GoPro? Esta cámara DJI es mucho más barata y graba vídeo 4K a 120 FPS' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-implementa-passkeys-android-reforzando-seguridad-millones-usuarios-1321346'>WhatsApp implementa las passkeys en Android reforzando la seguridad de millones de usuarios</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-implementa-passkeys-android-reforzando-seguridad-millones-usuarios-1321346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-passkey-3197976.jpg?tf=1200x' alt='WhatsApp implementa las passkeys en Android reforzando la seguridad de millones de usuarios' />
     </a>
 </div>
 
