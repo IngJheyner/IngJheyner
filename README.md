@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089'>Estas son las mejores impresoras baratas que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/impresora-canon-2460527.jpg?tf=1200x' alt='Estas son las mejores impresoras baratas que puedes comprar' />
+    <h4><a href='https://computerhoy.com/tecnologia/rebaja-bestia-xiaomi-redmi-note-12s-movil-barato-pero-muy-completo-tiene-casi-todo-1321214'>Rebaja a lo bestia en el Xiaomi Redmi Note 12S, un móvil barato pero muy completo que lo tiene casi todo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rebaja-bestia-xiaomi-redmi-note-12s-movil-barato-pero-muy-completo-tiene-casi-todo-1321214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-note-12s-3197748.jpg?tf=1200x' alt='Rebaja a lo bestia en el Xiaomi Redmi Note 12S, un móvil barato pero muy completo que lo tiene casi todo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-jbl-soundgear-sense-no-son-todos-usuarios-1310224'>JBL SoundGear Sense, análisis y opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-jbl-soundgear-sense-no-son-todos-usuarios-1310224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/soundgear-sense-jbl-3193864.jpg?tf=1200x' alt='JBL SoundGear Sense, análisis y opinión' />
+    <h4><a href='https://computerhoy.com/apple/comprar-nuevo-iphone-cada-ano-tim-cook-explica-buena-idea-1321328'>¿Comprar un nuevo iPhone cada año? Tim Cook explica por qué es una buena idea</a></h4>
+    <a href='https://computerhoy.com/apple/comprar-nuevo-iphone-cada-ano-tim-cook-explica-buena-idea-1321328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tim-cook-iphone-13-pro-3132102.jpg?tf=1200x' alt='¿Comprar un nuevo iPhone cada año? Tim Cook explica por qué es una buena idea' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-huele-lena-pero-casi-chimenea-electrica-quieres-salon-invierno-ahora-precio-saldo-1320828'>No huele a leña, pero casi: esta chimenea eléctrica es lo que quieres para tu salón en invierno, y ahora a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-huele-lena-pero-casi-chimenea-electrica-quieres-salon-invierno-ahora-precio-saldo-1320828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cecotec-ready-warm-2250-curved-flames-connected-3197138.jpg?tf=1200x' alt='No huele a leña, pero casi: esta chimenea eléctrica es lo que quieres para tu salón en invierno, y ahora a precio de saldo' />
+    <h4><a href='https://computerhoy.com/google/como-google-maps-sabe-velocidad-debes-circular-evitar-te-multen-1321292'>Así es como Google Maps sabe la velocidad a la que debes circular para evitar que te multen</a></h4>
+    <a href='https://computerhoy.com/google/como-google-maps-sabe-velocidad-debes-circular-evitar-te-multen-1321292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-maps-velocidad-3197916.jpg?tf=1200x' alt='Así es como Google Maps sabe la velocidad a la que debes circular para evitar que te multen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/comprueba-datos-estan-dark-web-herramienta-google-1320998'>Cómo saber si tus datos personales están en la dark web utilizando la herramienta gratis de Google</a></h4>
-    <a href='https://computerhoy.com/tecnologia/comprueba-datos-estan-dark-web-herramienta-google-1320998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-saber-datos-personales-estan-dark-web-utilizando-herramienta-gratis-google-3197508.jpg?tf=1200x' alt='Cómo saber si tus datos personales están en la dark web utilizando la herramienta gratis de Google' />
+    <h4><a href='https://computerhoy.com/motor/suzuki-revela-nueva-scooter-electrica-cuatro-patas-roboticas-sube-escaleras-1321250'>Suzuki revela su nueva scooter eléctrica con cuatro patas robóticas que sube escaleras</a></h4>
+    <a href='https://computerhoy.com/motor/suzuki-revela-nueva-scooter-electrica-cuatro-patas-roboticas-sube-escaleras-1321250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/scooter-suzuki-3197826.jpg?tf=1200x' alt='Suzuki revela su nueva scooter eléctrica con cuatro patas robóticas que sube escaleras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-sistema-actualizar-iphone-sin-sacarlos-caja-1321012'>Apple desarrolla un sistema para actualizar un iPhone apagado, sin sacarlo de la caja</a></h4>
-    <a href='https://computerhoy.com/apple/apple-sistema-actualizar-iphone-sin-sacarlos-caja-1321012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-desarrolla-sistema-actualizar-iphones-estrenar-sacarlos-caja-3197500.jpg?tf=1200x' alt='Apple desarrolla un sistema para actualizar un iPhone apagado, sin sacarlo de la caja' />
+    <h4><a href='https://computerhoy.com/tecnologia/gopro-camara-dji-mucho-barata-graba-video-4k-120-fps-1320722'>¿GoPro? Esta cámara DJI es mucho más barata y graba vídeo 4K a 120 FPS</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gopro-camara-dji-mucho-barata-graba-video-4k-120-fps-1320722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dji-action-2-3197010.jpg?tf=1200x' alt='¿GoPro? Esta cámara DJI es mucho más barata y graba vídeo 4K a 120 FPS' />
     </a>
 </div>
 
