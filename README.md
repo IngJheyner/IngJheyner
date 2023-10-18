@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/youtube-anuncia-30-novedades-llegan-plataforma-buscan-revolucionar-experiencia-1321874'>YouTube anuncia 30 novedades que llegan a la plataforma que buscan revolucionar tu experiencia</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-anuncia-30-novedades-llegan-plataforma-buscan-revolucionar-experiencia-1321874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/youtube-novedades-3199052.jpg?tf=1200x' alt='YouTube anuncia 30 novedades que llegan a la plataforma que buscan revolucionar tu experiencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-12gb-ram-apto-jugar-ver-video-4k-pero-mejor-increiblemente-barato-1321300'>Este Mini PC con 12GB de RAM es apto para jugar y ver vídeo 4K, pero lo mejor: es increíblemente barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-12gb-ram-apto-jugar-ver-video-4k-pero-mejor-increiblemente-barato-1321300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chuwi-larkbox-x-3197842.jpg?tf=1200x' alt='Este Mini PC con 12GB de RAM es apto para jugar y ver vídeo 4K, pero lo mejor: es increíblemente barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/carrefour-revienta-web-robot-cocina-taurus-precio-regalo-1321836'>Carrefour revienta su web con un robot de cocina Taurus a precio de regalo</a></h4>
     <a href='https://computerhoy.com/tecnologia/carrefour-revienta-web-robot-cocina-taurus-precio-regalo-1321836' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/taurus-foodie-3198922.jpg?tf=1200x' alt='Carrefour revienta su web con un robot de cocina Taurus a precio de regalo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/mejores-vpn-android-estas-son-rapidas-seguras-1321826'>Mejores VPN para Android: estas son las más rápidas y seguras</a></h4>
     <a href='https://computerhoy.com/android/mejores-vpn-android-estas-son-rapidas-seguras-1321826' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/persona-activando-vpn-ver-contenidos-netflix-3054644.jpg?tf=1200x' alt='Mejores VPN para Android: estas son las más rápidas y seguras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-freebuds-pro-3-analisis-opinion-evolucion-gama-top-1320658'>Huawei FreeBuds Pro 3, análisis y opinión: Soporte Hi-Res y cancelación de ruido mejorada</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-freebuds-pro-3-analisis-opinion-evolucion-gama-top-1320658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/freebuds-pro-3-3198414.jpg?tf=1200x' alt='Huawei FreeBuds Pro 3, análisis y opinión: Soporte Hi-Res y cancelación de ruido mejorada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/la-que-se-avecina-trailer-temporada-14-1321818'>La que se avecina suma y sigue: tráiler de la temporada 14, estreno en Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/la-que-se-avecina-trailer-temporada-14-1321818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697593157281-3198908.jpg?tf=1200x' alt='La que se avecina suma y sigue: tráiler de la temporada 14, estreno en Prime Video' />
     </a>
 </div>
 
