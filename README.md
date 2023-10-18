@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estos-son-8-tipos-inteligencia-existen-ciencia-1320042'>Estos son los 8 tipos de inteligencia que existen, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/life/estos-son-8-tipos-inteligencia-existen-ciencia-1320042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/inteligencia-artificial-3138794.jpg?tf=1200x' alt='Estos son los 8 tipos de inteligencia que existen, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/adiccion-movil-internet-como-detectarlo-ciencia-1322028'>Adicción al móvil e Internet: cómo detectarlo, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/adiccion-movil-internet-como-detectarlo-ciencia-1322028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/adictos-movil-3199366.jpg?tf=1200x' alt='Adicción al móvil e Internet: cómo detectarlo, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-hacer-propio-desatascador-casero-seguro-productos-quimicos-1321566'>Cómo hacer tu propio desatascador casero seguro sin productos químicos</a></h4>
+    <a href='https://computerhoy.com/life/como-hacer-propio-desatascador-casero-seguro-productos-quimicos-1321566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/desatascador-casero-3199364.jpg?tf=1200x' alt='Cómo hacer tu propio desatascador casero seguro sin productos químicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/duda-resuelta-instagram-notifica-personas-cuando-haces-captura-pantalla-1277616'>Duda resuelta: ¿Instagram notifica a las personas cuando haces una captura de pantalla?</a></h4>
+    <a href='https://computerhoy.com/redes/duda-resuelta-instagram-notifica-personas-cuando-haces-captura-pantalla-1277616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/duda-resuelta-instagram-notifica-personas-cuando-haces-captura-pantalla-3087618.jpg?tf=1200x' alt='Duda resuelta: ¿Instagram notifica a las personas cuando haces una captura de pantalla?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/investigadores-descubren-ia-chatbots-como-chatgpt-son-capaces-revelar-datos-privados-1321946'>Investigadores descubren que la IA y chatbots como ChatGPT son capaces de revelar tus datos privados</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/investigadores-descubren-ia-chatbots-como-chatgpt-son-capaces-revelar-datos-privados-1321946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/inteligencia-artificial-privacidad-ciberdelincuentes-3199226.jpg?tf=1200x' alt='Investigadores descubren que la IA y chatbots como ChatGPT son capaces de revelar tus datos privados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estudio-relaciona-tener-pene-pequeno-comprarse-deportivo-1316794'>Presumir de coche deportivo: ¿una forma de compensar el tamaño del pene?</a></h4>
-    <a href='https://computerhoy.com/life/estudio-relaciona-tener-pene-pequeno-comprarse-deportivo-1316794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hombre-coche-deportivo-3199322.jpg?tf=1200x' alt='Presumir de coche deportivo: ¿una forma de compensar el tamaño del pene?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/util-atajo-windows-ahorrarte-horas-frente-teclado-1321988'>El útil atajo para Windows que te va a permitir ahorrarte cientos de horas frente al teclado</a></h4>
-    <a href='https://computerhoy.com/windows/util-atajo-windows-ahorrarte-horas-frente-teclado-1321988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/teclado-ergonomico-microsoft-raton-te-puede-cambiar-vida-tiene-29-descuento-2992728.jpg?tf=1200x' alt='El útil atajo para Windows que te va a permitir ahorrarte cientos de horas frente al teclado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/invento-definitivo-no-pasar-frio-invierno-evitar-dispare-factura-ventiladores-estufa-1321916'>El invento definitivo para no pasar frío en invierno y evitar que se dispare tu factura: ventiladores de estufa</a></h4>
-    <a href='https://computerhoy.com/hogar/invento-definitivo-no-pasar-frio-invierno-evitar-dispare-factura-ventiladores-estufa-1321916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ventilador-estufa-3199138.jpg?tf=1200x' alt='El invento definitivo para no pasar frío en invierno y evitar que se dispare tu factura: ventiladores de estufa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubren-roca-grabada-mapa-tesoro-gigante-1321962'>Una roca extrañamente grabada es un "mapa del tesoro gigante", afirma un arqueólogo</a></h4>
-    <a href='https://computerhoy.com/life/descubren-roca-grabada-mapa-tesoro-gigante-1321962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fotograma-busqueda-3199244.jpg?tf=1200x' alt='Una roca extrañamente grabada es un "mapa del tesoro gigante", afirma un arqueólogo' />
     </a>
 </div>
 
