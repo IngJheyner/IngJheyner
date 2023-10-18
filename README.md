@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/nuevo-apple-pencil-usb-c-barato-compatible-todos-ipad-1321614'>Apple lanza un lápiz Apple Pencil "barato" con USB-C, que funciona con todos los iPad</a></h4>
+    <a href='https://computerhoy.com/apple/nuevo-apple-pencil-usb-c-barato-compatible-todos-ipad-1321614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-lanza-lapiz-apple-pencil-barato-usb-c-funciona-todos-ipad-3198706.jpg?tf=1200x' alt='Apple lanza un lápiz Apple Pencil "barato" con USB-C, que funciona con todos los iPad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/project-primrose-vestido-adobe-cambia-diseno-pulsando-boton-1321602'>Project Primrose, el vestido de Adobe que cambia de diseño pulsando un botón</a></h4>
     <a href='https://computerhoy.com/tecnologia/project-primrose-vestido-adobe-cambia-diseno-pulsando-boton-1321602' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697545378166-3198178.jpg?tf=1200x' alt='Project Primrose, el vestido de Adobe que cambia de diseño pulsando un botón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/actualizacion-android-no-debes-instalar-utilizas-google-maps-android-auto-1321582'>La actualización de Android que no debes instalar si utilizas Google Maps en Android Auto</a></h4>
     <a href='https://computerhoy.com/apps/actualizacion-android-no-debes-instalar-utilizas-google-maps-android-auto-1321582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='La actualización de Android que no debes instalar si utilizas Google Maps en Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tdtchannels-mejor-app-ver-tdt-gratis-actualiza-importante-novedad-1321580'>TDTChannels, la mejor app para ver la TDT gratis se actualiza con una importante novedad</a></h4>
-    <a href='https://computerhoy.com/apps/tdtchannels-mejor-app-ver-tdt-gratis-actualiza-importante-novedad-1321580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels, la mejor app para ver la TDT gratis se actualiza con una importante novedad' />
     </a>
 </div>
 
