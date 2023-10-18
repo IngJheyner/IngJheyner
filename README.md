@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-son-8-tipos-inteligencia-existen-ciencia-1320042'>Estos son los 8 tipos de inteligencia que existen, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/life/estos-son-8-tipos-inteligencia-existen-ciencia-1320042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/inteligencia-artificial-3138794.jpg?tf=1200x' alt='Estos son los 8 tipos de inteligencia que existen, según la ciencia' />
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-miercoles-18-octubre-2023-1322146'>Programación TV: ¿Qué ver hoy en televisión? Miércoles 18 de octubre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-miercoles-18-octubre-2023-1322146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-miercoles-18-octubre-2023-3199598.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Miércoles 18 de octubre de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/adiccion-movil-internet-como-detectarlo-ciencia-1322028'>Adicción al móvil e Internet: cómo detectarlo, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/adiccion-movil-internet-como-detectarlo-ciencia-1322028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/adictos-movil-3199366.jpg?tf=1200x' alt='Adicción al móvil e Internet: cómo detectarlo, según la ciencia' />
+    <h4><a href='https://computerhoy.com/dia-del-soltero-11-11-1321402'>11 del 11 'Día del soltero': ¿Qué es, cuándo empieza y dónde encontrar los mejores chollos?</a></h4>
+    <a href='https://computerhoy.com/dia-del-soltero-11-11-1321402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/1111-aliexpress-11-11-2853593.jpg?tf=1200x' alt='11 del 11 'Día del soltero': ¿Qué es, cuándo empieza y dónde encontrar los mejores chollos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-hacer-propio-desatascador-casero-seguro-productos-quimicos-1321566'>Cómo hacer tu propio desatascador casero seguro sin productos químicos</a></h4>
-    <a href='https://computerhoy.com/life/como-hacer-propio-desatascador-casero-seguro-productos-quimicos-1321566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/desatascador-casero-3199364.jpg?tf=1200x' alt='Cómo hacer tu propio desatascador casero seguro sin productos químicos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-espia-google-maps-beneficios-tiene-1321196'>Cómo activar el "modo espía" de Google Maps y qué beneficios tiene</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-modo-espia-google-maps-beneficios-tiene-1321196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-activar-modo-espia-google-maps-beneficios-tiene-3197708.jpg?tf=1200x' alt='Cómo activar el "modo espía" de Google Maps y qué beneficios tiene' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/duda-resuelta-instagram-notifica-personas-cuando-haces-captura-pantalla-1277616'>Duda resuelta: ¿Instagram notifica a las personas cuando haces una captura de pantalla?</a></h4>
-    <a href='https://computerhoy.com/redes/duda-resuelta-instagram-notifica-personas-cuando-haces-captura-pantalla-1277616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/duda-resuelta-instagram-notifica-personas-cuando-haces-captura-pantalla-3087618.jpg?tf=1200x' alt='Duda resuelta: ¿Instagram notifica a las personas cuando haces una captura de pantalla?' />
+    <h4><a href='https://computerhoy.com/criptos/estadisticas-shiba-inu-son-alarmantes-toca-preocuparse-1322024'>Las últimas estadísticas de Shiba Inu son alarmantes, ¿hay que preocuparse?</a></h4>
+    <a href='https://computerhoy.com/criptos/estadisticas-shiba-inu-son-alarmantes-toca-preocuparse-1322024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg?tf=1200x' alt='Las últimas estadísticas de Shiba Inu son alarmantes, ¿hay que preocuparse?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/investigadores-descubren-ia-chatbots-como-chatgpt-son-capaces-revelar-datos-privados-1321946'>Investigadores descubren que la IA y chatbots como ChatGPT son capaces de revelar tus datos privados</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/investigadores-descubren-ia-chatbots-como-chatgpt-son-capaces-revelar-datos-privados-1321946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/inteligencia-artificial-privacidad-ciberdelincuentes-3199226.jpg?tf=1200x' alt='Investigadores descubren que la IA y chatbots como ChatGPT son capaces de revelar tus datos privados' />
+    <h4><a href='https://computerhoy.com/tutoriales/whatsapp-no-puedes-ver-foto-perfil-contacto-1321870'>WhatsApp: por qué no puedes ver la foto de perfil de un contacto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/whatsapp-no-puedes-ver-foto-perfil-contacto-1321870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='WhatsApp: por qué no puedes ver la foto de perfil de un contacto' />
     </a>
 </div>
 
