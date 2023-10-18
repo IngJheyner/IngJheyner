@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-miercoles-18-octubre-2023-1322146'>Programación TV: ¿Qué ver hoy en televisión? Miércoles 18 de octubre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-miercoles-18-octubre-2023-1322146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-miercoles-18-octubre-2023-3199598.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Miércoles 18 de octubre de 2023' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-anuncia-final-elite-temporada-8-1322186'>Netflix anuncia el final de la serie española Élite, uno de sus mayores éxitos mundiales</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-anuncia-final-elite-temporada-8-1322186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697655751328-3199630.jpg?tf=1200x' alt='Netflix anuncia el final de la serie española Élite, uno de sus mayores éxitos mundiales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/dia-del-soltero-11-11-1321402'>11 del 11 'Día del soltero': ¿Qué es, cuándo empieza y dónde encontrar los mejores chollos?</a></h4>
-    <a href='https://computerhoy.com/dia-del-soltero-11-11-1321402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/1111-aliexpress-11-11-2853593.jpg?tf=1200x' alt='11 del 11 'Día del soltero': ¿Qué es, cuándo empieza y dónde encontrar los mejores chollos?' />
+    <h4><a href='https://computerhoy.com/tecnologia/robot-aspirador-arraso-prime-day-vuelve-desplomar-precio-1321904'>El robot aspirador que arrasó en el Prime Day vuelve a desplomar su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-aspirador-arraso-prime-day-vuelve-desplomar-precio-1321904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lefant-m210-3077986.jpg?tf=1200x' alt='El robot aspirador que arrasó en el Prime Day vuelve a desplomar su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-espia-google-maps-beneficios-tiene-1321196'>Cómo activar el "modo espía" de Google Maps y qué beneficios tiene</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-modo-espia-google-maps-beneficios-tiene-1321196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-activar-modo-espia-google-maps-beneficios-tiene-3197708.jpg?tf=1200x' alt='Cómo activar el "modo espía" de Google Maps y qué beneficios tiene' />
+    <h4><a href='https://computerhoy.com/alimentacion/alertan-riesgos-salud-cervezas-consumidas-1322170'>Alertan sobre los riesgos para la salud de una de las cervezas más consumidas</a></h4>
+    <a href='https://computerhoy.com/alimentacion/alertan-riesgos-salud-cervezas-consumidas-1322170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cervezas-limon-3199626.jpg?tf=1200x' alt='Alertan sobre los riesgos para la salud de una de las cervezas más consumidas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/estadisticas-shiba-inu-son-alarmantes-toca-preocuparse-1322024'>Las últimas estadísticas de Shiba Inu son alarmantes, ¿hay que preocuparse?</a></h4>
-    <a href='https://computerhoy.com/criptos/estadisticas-shiba-inu-son-alarmantes-toca-preocuparse-1322024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/shiba-inu-2702641.jpg?tf=1200x' alt='Las últimas estadísticas de Shiba Inu son alarmantes, ¿hay que preocuparse?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-tiempo-actividad-windows-10-11-1313896'>Cómo saber cuánto tiempo lleva tu ordenador encendido en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-comprobar-tiempo-actividad-windows-10-11-1313896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ocultar-boton-encendido-windows-11-3102286.jpg?tf=1200x' alt='Cómo saber cuánto tiempo lleva tu ordenador encendido en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/whatsapp-no-puedes-ver-foto-perfil-contacto-1321870'>WhatsApp: por qué no puedes ver la foto de perfil de un contacto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/whatsapp-no-puedes-ver-foto-perfil-contacto-1321870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='WhatsApp: por qué no puedes ver la foto de perfil de un contacto' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-desarrolla-forma-almacenar-datos-vidrio-durante-miles-anos-1322168'>Microsoft desarrolla una forma de almacenar datos en vidrio durante miles de años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-desarrolla-forma-almacenar-datos-vidrio-durante-miles-anos-1322168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/project-silica-3199622.jpg?tf=1200x' alt='Microsoft desarrolla una forma de almacenar datos en vidrio durante miles de años' />
     </a>
 </div>
 
