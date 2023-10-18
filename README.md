@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-anuncia-30-novedades-llegan-plataforma-buscan-revolucionar-experiencia-1321874'>YouTube anuncia 30 novedades que llegan a la plataforma que buscan revolucionar tu experiencia</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-anuncia-30-novedades-llegan-plataforma-buscan-revolucionar-experiencia-1321874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/youtube-novedades-3199052.jpg?tf=1200x' alt='YouTube anuncia 30 novedades que llegan a la plataforma que buscan revolucionar tu experiencia' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/investigadores-descubren-ia-chatbots-como-chatgpt-son-capaces-revelar-datos-privados-1321946'>Investigadores descubren que la IA y chatbots como ChatGPT son capaces de revelar tus datos privados</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/investigadores-descubren-ia-chatbots-como-chatgpt-son-capaces-revelar-datos-privados-1321946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/inteligencia-artificial-privacidad-ciberdelincuentes-3199226.jpg?tf=1200x' alt='Investigadores descubren que la IA y chatbots como ChatGPT son capaces de revelar tus datos privados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-12gb-ram-apto-jugar-ver-video-4k-pero-mejor-increiblemente-barato-1321300'>Este Mini PC con 12GB de RAM es apto para jugar y ver vídeo 4K, pero lo mejor: es increíblemente barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mini-pc-12gb-ram-apto-jugar-ver-video-4k-pero-mejor-increiblemente-barato-1321300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chuwi-larkbox-x-3197842.jpg?tf=1200x' alt='Este Mini PC con 12GB de RAM es apto para jugar y ver vídeo 4K, pero lo mejor: es increíblemente barato' />
+    <h4><a href='https://computerhoy.com/life/estudio-relaciona-tener-pene-pequeno-comprarse-deportivo-1316794'>Presumir de coche deportivo: ¿una forma de compensar el tamaño del pene?</a></h4>
+    <a href='https://computerhoy.com/life/estudio-relaciona-tener-pene-pequeno-comprarse-deportivo-1316794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hombre-coche-deportivo-3199322.jpg?tf=1200x' alt='Presumir de coche deportivo: ¿una forma de compensar el tamaño del pene?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/carrefour-revienta-web-robot-cocina-taurus-precio-regalo-1321836'>Carrefour revienta su web con un robot de cocina Taurus a precio de regalo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/carrefour-revienta-web-robot-cocina-taurus-precio-regalo-1321836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/taurus-foodie-3198922.jpg?tf=1200x' alt='Carrefour revienta su web con un robot de cocina Taurus a precio de regalo' />
+    <h4><a href='https://computerhoy.com/windows/util-atajo-windows-ahorrarte-horas-frente-teclado-1321988'>El útil atajo para Windows que te va a permitir ahorrarte cientos de horas frente al teclado</a></h4>
+    <a href='https://computerhoy.com/windows/util-atajo-windows-ahorrarte-horas-frente-teclado-1321988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/teclado-ergonomico-microsoft-raton-te-puede-cambiar-vida-tiene-29-descuento-2992728.jpg?tf=1200x' alt='El útil atajo para Windows que te va a permitir ahorrarte cientos de horas frente al teclado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elon-musk-impone-tarifa-anual-dolar-x-nuevos-usuarios-combatir-bots-1321856'>Elon Musk impone una tarifa anual de un dólar en X a nuevos usuarios para combatir los bots</a></h4>
-    <a href='https://computerhoy.com/apps/elon-musk-impone-tarifa-anual-dolar-x-nuevos-usuarios-combatir-bots-1321856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-dueno-twitter-3074252.jpg?tf=1200x' alt='Elon Musk impone una tarifa anual de un dólar en X a nuevos usuarios para combatir los bots' />
+    <h4><a href='https://computerhoy.com/hogar/invento-definitivo-no-pasar-frio-invierno-evitar-dispare-factura-ventiladores-estufa-1321916'>El invento definitivo para no pasar frío en invierno y evitar que se dispare tu factura: ventiladores de estufa</a></h4>
+    <a href='https://computerhoy.com/hogar/invento-definitivo-no-pasar-frio-invierno-evitar-dispare-factura-ventiladores-estufa-1321916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ventilador-estufa-3199138.jpg?tf=1200x' alt='El invento definitivo para no pasar frío en invierno y evitar que se dispare tu factura: ventiladores de estufa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/mejores-vpn-android-estas-son-rapidas-seguras-1321826'>Mejores VPN para Android: estas son las más rápidas y seguras</a></h4>
-    <a href='https://computerhoy.com/android/mejores-vpn-android-estas-son-rapidas-seguras-1321826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/persona-activando-vpn-ver-contenidos-netflix-3054644.jpg?tf=1200x' alt='Mejores VPN para Android: estas son las más rápidas y seguras' />
+    <h4><a href='https://computerhoy.com/life/descubren-roca-grabada-mapa-tesoro-gigante-1321962'>Una roca extrañamente grabada es un "mapa del tesoro gigante", afirma un arqueólogo</a></h4>
+    <a href='https://computerhoy.com/life/descubren-roca-grabada-mapa-tesoro-gigante-1321962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fotograma-busqueda-3199244.jpg?tf=1200x' alt='Una roca extrañamente grabada es un "mapa del tesoro gigante", afirma un arqueólogo' />
     </a>
 </div>
 
