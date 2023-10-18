@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/mejores-vpn-android-estas-son-rapidas-seguras-1321826'>Mejores VPN para Android: estas son las más rápidas y seguras</a></h4>
+    <a href='https://computerhoy.com/android/mejores-vpn-android-estas-son-rapidas-seguras-1321826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/persona-activando-vpn-ver-contenidos-netflix-3054644.jpg?tf=1200x' alt='Mejores VPN para Android: estas son las más rápidas y seguras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/huawei-freebuds-pro-3-analisis-opinion-evolucion-gama-top-1320658'>Huawei FreeBuds Pro 3, análisis y opinión: Soporte Hi-Res y cancelación de ruido mejorada</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-freebuds-pro-3-analisis-opinion-evolucion-gama-top-1320658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/freebuds-pro-3-3198414.jpg?tf=1200x' alt='Huawei FreeBuds Pro 3, análisis y opinión: Soporte Hi-Res y cancelación de ruido mejorada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/la-que-se-avecina-trailer-temporada-14-1321818'>La que se avecina suma y sigue: tráiler de la temporada 14, estreno en Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/la-que-se-avecina-trailer-temporada-14-1321818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697593157281-3198908.jpg?tf=1200x' alt='La que se avecina suma y sigue: tráiler de la temporada 14, estreno en Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-amazfit-656161'>Relojes Inteligentes Amazfit: estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-amazfit-656161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazfit-falcon-3189204.jpg?tf=1200x' alt='Relojes Inteligentes Amazfit: estos son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/nuevo-apple-pencil-usb-c-barato-compatible-todos-ipad-1321614'>Apple lanza un lápiz Apple Pencil "barato" con USB-C, que funciona con todos los iPad</a></h4>
     <a href='https://computerhoy.com/apple/nuevo-apple-pencil-usb-c-barato-compatible-todos-ipad-1321614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-lanza-lapiz-apple-pencil-barato-usb-c-funciona-todos-ipad-3198706.jpg?tf=1200x' alt='Apple lanza un lápiz Apple Pencil "barato" con USB-C, que funciona con todos los iPad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/project-primrose-vestido-adobe-cambia-diseno-pulsando-boton-1321602'>Project Primrose, el vestido de Adobe que cambia de diseño pulsando un botón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/project-primrose-vestido-adobe-cambia-diseno-pulsando-boton-1321602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697545378166-3198178.jpg?tf=1200x' alt='Project Primrose, el vestido de Adobe que cambia de diseño pulsando un botón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-tablet-android-potente-galaxy-tab-s9-150eu-descuento-1321248'>Liquidación en la tablet Android más potente: las Galaxy Tab S9, con hasta 150€ de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/liquidacion-tablet-android-potente-galaxy-tab-s9-150eu-descuento-1321248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/samsung-galaxy-tab-s9-3197758.jpg?tf=1200x' alt='Liquidación en la tablet Android más potente: las Galaxy Tab S9, con hasta 150€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tan-dificil-iphone-infecte-virus-1320926'>¿Por qué es tan difícil que tu iPhone se infecte con un virus?</a></h4>
-    <a href='https://computerhoy.com/apple/tan-dificil-iphone-infecte-virus-1320926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tan-dificil-iphone-infecte-virus-3197462.jpg?tf=1200x' alt='¿Por qué es tan difícil que tu iPhone se infecte con un virus?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/actualizacion-android-no-debes-instalar-utilizas-google-maps-android-auto-1321582'>La actualización de Android que no debes instalar si utilizas Google Maps en Android Auto</a></h4>
-    <a href='https://computerhoy.com/apps/actualizacion-android-no-debes-instalar-utilizas-google-maps-android-auto-1321582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/android-auto-2700725.jpg?tf=1200x' alt='La actualización de Android que no debes instalar si utilizas Google Maps en Android Auto' />
     </a>
 </div>
 
