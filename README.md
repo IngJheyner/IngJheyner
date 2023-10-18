@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/carrefour-revienta-web-robot-cocina-taurus-precio-regalo-1321836'>Carrefour revienta su web con un robot de cocina Taurus a precio de regalo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/carrefour-revienta-web-robot-cocina-taurus-precio-regalo-1321836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/taurus-foodie-3198922.jpg?tf=1200x' alt='Carrefour revienta su web con un robot de cocina Taurus a precio de regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/elon-musk-impone-tarifa-anual-dolar-x-nuevos-usuarios-combatir-bots-1321856'>Elon Musk impone una tarifa anual de un dólar en X a nuevos usuarios para combatir los bots</a></h4>
+    <a href='https://computerhoy.com/apps/elon-musk-impone-tarifa-anual-dolar-x-nuevos-usuarios-combatir-bots-1321856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-dueno-twitter-3074252.jpg?tf=1200x' alt='Elon Musk impone una tarifa anual de un dólar en X a nuevos usuarios para combatir los bots' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/mejores-vpn-android-estas-son-rapidas-seguras-1321826'>Mejores VPN para Android: estas son las más rápidas y seguras</a></h4>
     <a href='https://computerhoy.com/android/mejores-vpn-android-estas-son-rapidas-seguras-1321826' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/persona-activando-vpn-ver-contenidos-netflix-3054644.jpg?tf=1200x' alt='Mejores VPN para Android: estas son las más rápidas y seguras' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/la-que-se-avecina-trailer-temporada-14-1321818'>La que se avecina suma y sigue: tráiler de la temporada 14, estreno en Prime Video</a></h4>
     <a href='https://computerhoy.com/entretenimiento/la-que-se-avecina-trailer-temporada-14-1321818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697593157281-3198908.jpg?tf=1200x' alt='La que se avecina suma y sigue: tráiler de la temporada 14, estreno en Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-amazfit-656161'>Relojes Inteligentes Amazfit: estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-amazfit-656161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazfit-falcon-3189204.jpg?tf=1200x' alt='Relojes Inteligentes Amazfit: estos son los mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nuevo-apple-pencil-usb-c-barato-compatible-todos-ipad-1321614'>Apple lanza un lápiz Apple Pencil "barato" con USB-C, que funciona con todos los iPad</a></h4>
-    <a href='https://computerhoy.com/apple/nuevo-apple-pencil-usb-c-barato-compatible-todos-ipad-1321614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-lanza-lapiz-apple-pencil-barato-usb-c-funciona-todos-ipad-3198706.jpg?tf=1200x' alt='Apple lanza un lápiz Apple Pencil "barato" con USB-C, que funciona con todos los iPad' />
     </a>
 </div>
 
