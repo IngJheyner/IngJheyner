@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-anuncia-nueva-subida-precios-varios-planes-1322418'>Prepárate porque Netflix va a subir de nuevo los precios en varios de sus planes</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-anuncia-nueva-subida-precios-varios-planes-1322418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/he-dejado-pagar-suscripcion-netflix-me-estoy-arrepintiendo-3043230.jpg?tf=1200x' alt='Prepárate porque Netflix va a subir de nuevo los precios en varios de sus planes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-android-comprar-2021-798505'>Las 10 mejores tablets Android que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-android-comprar-2021-798505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-redmi-pad-3143356.jpg?tf=1200x' alt='Las 10 mejores tablets Android que puedes comprar ahora mismo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173'>Mejores Android TV Box baratas que puedes comprar en 2023</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nokia-tv-box-3199488.jpg?tf=1200x' alt='Mejores Android TV Box baratas que puedes comprar en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pagar-alquiler-te-hace-envejecer-doble-rapido-estar-paro-1322196'>Pagar el alquiler te hace envejecer igual que fumar 6 meses al año, según un estudio</a></h4>
-    <a href='https://computerhoy.com/life/pagar-alquiler-te-hace-envejecer-doble-rapido-estar-paro-1322196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pagar-alquiler-te-hace-envejecer-doble-rapido-estar-paro-estudio-3199410.jpg?tf=1200x' alt='Pagar el alquiler te hace envejecer igual que fumar 6 meses al año, según un estudio' />
     </a>
 </div>
 
