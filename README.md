@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/elon-musk-carga-nuevo-teletrabajo-afirma-tiene-vibraciones-maria-antonieta-1322442'>Elon Musk carga de nuevo contra el teletrabajo y afirma que tiene ¿"vibraciones de María Antonieta"?</a></h4>
+    <a href='https://computerhoy.com/industria/elon-musk-carga-nuevo-teletrabajo-afirma-tiene-vibraciones-maria-antonieta-1322442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-teletrabajo-3200072.jpg?tf=1200x' alt='Elon Musk carga de nuevo contra el teletrabajo y afirma que tiene ¿"vibraciones de María Antonieta"?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/carrefour-rebaja-bestia-dyson-liquidando-aspiradoras-120-euros-descuento-1321922'>Carrefour rebaja a lo bestia las Dyson: está liquidando aspiradoras con hasta 120 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/carrefour-rebaja-bestia-dyson-liquidando-aspiradoras-120-euros-descuento-1321922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dyson-aspiradora-3063524.jpg?tf=1200x' alt='Carrefour rebaja a lo bestia las Dyson: está liquidando aspiradoras con hasta 120 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-sigue-poder-mejor-linux-1322430'>Windows 11 sigue sin poder con el mejor Linux y solo queda un año para Windows 12</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-sigue-poder-mejor-linux-1322430' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/linux-2023-2971128.jpg?tf=1200x' alt='Windows 11 sigue sin poder con el mejor Linux y solo queda un año para Windows 12' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-anuncia-nueva-subida-precios-varios-planes-1322418'>Prepárate porque Netflix va a subir de nuevo los precios en varios de sus planes</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-anuncia-nueva-subida-precios-varios-planes-1322418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/he-dejado-pagar-suscripcion-netflix-me-estoy-arrepintiendo-3043230.jpg?tf=1200x' alt='Prepárate porque Netflix va a subir de nuevo los precios en varios de sus planes' />
     </a>
 </div>
 
