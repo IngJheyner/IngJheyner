@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/elon-musk-sincera-cavamos-propia-tumba-cybertruck-1322830'>Elon Musk se confiesa: "Cavamos nuestra propia tumba con el Cybertruck"</a></h4>
+    <a href='https://computerhoy.com/motor/elon-musk-sincera-cavamos-propia-tumba-cybertruck-1322830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cybertruck-tesla-2843845.jpg?tf=1200x' alt='Elon Musk se confiesa: "Cavamos nuestra propia tumba con el Cybertruck"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/televisor-tiene-hoy-menos-canales-tdt-no-error-1322824'>Lo sentimos, tu televisor tiene hoy menos canales de la TDT, y no es un error</a></h4>
+    <a href='https://computerhoy.com/tecnologia/televisor-tiene-hoy-menos-canales-tdt-no-error-1322824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sentimos-televisor-tiene-hoy-menos-canales-tdt-no-error-3200804.jpg?tf=1200x' alt='Lo sentimos, tu televisor tiene hoy menos canales de la TDT, y no es un error' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-portatil-msi-intel-core-i3-cuesta-menos-movil-1321986'>No es un error de precio: este portátil MSI con Intel Core i3 cuesta menos que un móvil</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-error-precio-portatil-msi-intel-core-i3-cuesta-menos-movil-1321986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/msi-modern-15-b11m-042xes-3199268.jpg?tf=1200x' alt='No es un error de precio: este portátil MSI con Intel Core i3 cuesta menos que un móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/truco-viral-cuchara-evitar-te-hagan-lio-pedir-cafe-bar-1322814'>El truco viral de la cuchara para evitar que te hagan el lío al pedir un café en un bar</a></h4>
     <a href='https://computerhoy.com/alimentacion/truco-viral-cuchara-evitar-te-hagan-lio-pedir-cafe-bar-1322814' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tazas-cafe-3200784.jpg?tf=1200x' alt='El truco viral de la cuchara para evitar que te hagan el lío al pedir un café en un bar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/no-piques-timo-doble-llamada-actualiza-ocu-como-gancho-1322812'>¡No piques! El timo de la doble llamada se actualiza con la OCU como gancho</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/no-piques-timo-doble-llamada-actualiza-ocu-como-gancho-1322812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/llamada-spam-3200782.jpg?tf=1200x' alt='¡No piques! El timo de la doble llamada se actualiza con la OCU como gancho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-google-maps-1310898'>Cómo compartir tu ubicación en Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-google-maps-1310898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ubicacion-google-maps-3200664.jpg?tf=1200x' alt='Cómo compartir tu ubicación en Google Maps' />
     </a>
 </div>
 
