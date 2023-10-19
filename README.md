@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/carrefour-rebaja-bestia-dyson-liquidando-aspiradoras-120-euros-descuento-1321922'>Carrefour rebaja a lo bestia las Dyson: está liquidando aspiradoras con hasta 120 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/carrefour-rebaja-bestia-dyson-liquidando-aspiradoras-120-euros-descuento-1321922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dyson-aspiradora-3063524.jpg?tf=1200x' alt='Carrefour rebaja a lo bestia las Dyson: está liquidando aspiradoras con hasta 120 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/policia-afirma-poder-identificar-usuarios-servicio-ilegal-iptv-1322478'>La policía afirma poder identificar a los usuarios de un servicio ilegal IPTV al que están suscritos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/policia-afirma-poder-identificar-usuarios-servicio-ilegal-iptv-1322478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='La policía afirma poder identificar a los usuarios de un servicio ilegal IPTV al que están suscritos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/fin-whatsapp-te-hace-caso-ya-posible-tener-dos-cuentas-mismo-dispositivo-1322452'>Por fin WhatsApp te hace caso y ya es posible tener dos cuentas activas en el mismo dispositivo</a></h4>
+    <a href='https://computerhoy.com/apps/fin-whatsapp-te-hace-caso-ya-posible-tener-dos-cuentas-mismo-dispositivo-1322452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-3200078.jpg?tf=1200x' alt='Por fin WhatsApp te hace caso y ya es posible tener dos cuentas activas en el mismo dispositivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-sigue-poder-mejor-linux-1322430'>Windows 11 sigue sin poder con el mejor Linux y solo queda un año para Windows 12</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-sigue-poder-mejor-linux-1322430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/linux-2023-2971128.jpg?tf=1200x' alt='Windows 11 sigue sin poder con el mejor Linux y solo queda un año para Windows 12' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-anuncia-nueva-subida-precios-varios-planes-1322418'>Prepárate porque Netflix va a subir de nuevo los precios en varios de sus planes</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-anuncia-nueva-subida-precios-varios-planes-1322418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/he-dejado-pagar-suscripcion-netflix-me-estoy-arrepintiendo-3043230.jpg?tf=1200x' alt='Prepárate porque Netflix va a subir de nuevo los precios en varios de sus planes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-android-comprar-2021-798505'>Las 10 mejores tablets Android que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-android-comprar-2021-798505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-redmi-pad-3143356.jpg?tf=1200x' alt='Las 10 mejores tablets Android que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xiaomi-smart-band-8-analisis-opinion-opcion-perfecta-buscas-calidad-precio-1320780'>Xiaomi Smart Band 8, análisis y opinión: la pulsera de actividad que quiere estar a la moda y que además es más barata</a></h4>
-    <a href='https://computerhoy.com/analisis/xiaomi-smart-band-8-analisis-opinion-opcion-perfecta-buscas-calidad-precio-1320780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-smart-band-8-3197316.jpg?tf=1200x' alt='Xiaomi Smart Band 8, análisis y opinión: la pulsera de actividad que quiere estar a la moda y que además es más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/avion-vuelo-parece-congelado-aire-no-mueve-ilusion-optica-1322386'>¿Por qué este avión en vuelo parece congelado en el aire, y no se mueve?</a></h4>
-    <a href='https://computerhoy.com/ciencia/avion-vuelo-parece-congelado-aire-no-mueve-ilusion-optica-1322386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/avion-vuelo-parece-congelado-aire-no-mueve-3199942.jpg?tf=1200x' alt='¿Por qué este avión en vuelo parece congelado en el aire, y no se mueve?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173'>Mejores Android TV Box baratas que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nokia-tv-box-3199488.jpg?tf=1200x' alt='Mejores Android TV Box baratas que puedes comprar en 2023' />
     </a>
 </div>
 
