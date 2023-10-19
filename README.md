@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-jueves-19-octubre-2023-1322784'>Programación TV: ¿Qué ver hoy en televisión? Jueves 19 de octubre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-jueves-19-octubre-2023-1322784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-jueves-19-octubre-2023-3200732.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Jueves 19 de octubre de 2023' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-portatil-msi-intel-core-i3-cuesta-menos-movil-1321986'>No es un error de precio: este portátil MSI con Intel Core i3 cuesta menos que un móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-error-precio-portatil-msi-intel-core-i3-cuesta-menos-movil-1321986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/msi-modern-15-b11m-042xes-3199268.jpg?tf=1200x' alt='No es un error de precio: este portátil MSI con Intel Core i3 cuesta menos que un móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ruidos-extranos-ordenador-no-deberias-ignorar-1322090'>Ruidos extraños en tu ordenador que no deberías ignorar si no quieres que se estropee</a></h4>
-    <a href='https://computerhoy.com/pc/ruidos-extranos-ordenador-no-deberias-ignorar-1322090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sonidos-ordenador-3200620.jpg?tf=1200x' alt='Ruidos extraños en tu ordenador que no deberías ignorar si no quieres que se estropee' />
+    <h4><a href='https://computerhoy.com/moviles/oneplus-open-primer-plegable-marca-gama-alta-1899-euros-1322778'>Así es el OnePlus Open: primer plegable de la marca, gama alta y un precio de 1.899 euros </a></h4>
+    <a href='https://computerhoy.com/moviles/oneplus-open-primer-plegable-marca-gama-alta-1899-euros-1322778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/oneplus-open-primer-plegable-marca-gama-alta-precio-1899-euros-3200706.jpg?tf=1200x' alt='Así es el OnePlus Open: primer plegable de la marca, gama alta y un precio de 1.899 euros ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/10-chollos-tecnologia-son-casi-robo-alegrarte-fin-semana-1322646'>10 chollos de tecnología que son casi un robo para alegrarte el fin de semana</a></h4>
-    <a href='https://computerhoy.com/tecnologia/10-chollos-tecnologia-son-casi-robo-alegrarte-fin-semana-1322646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ecommerce-compra-online-3200588.jpg?tf=1200x' alt='10 chollos de tecnología que son casi un robo para alegrarte el fin de semana' />
+    <h4><a href='https://computerhoy.com/alimentacion/truco-viral-cuchara-evitar-te-hagan-lio-pedir-cafe-bar-1322814'>El truco viral de la cuchara para evitar que te hagan el lío al pedir un café en un bar</a></h4>
+    <a href='https://computerhoy.com/alimentacion/truco-viral-cuchara-evitar-te-hagan-lio-pedir-cafe-bar-1322814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tazas-cafe-3200784.jpg?tf=1200x' alt='El truco viral de la cuchara para evitar que te hagan el lío al pedir un café en un bar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cerebro-aun-escucha-reacciona-fase-profunda-sueno-1322740'>Tu cerebro sigue escuchando y reaccionando incluso en la fase más profunda del sueño</a></h4>
-    <a href='https://computerhoy.com/life/cerebro-aun-escucha-reacciona-fase-profunda-sueno-1322740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cerebro-sigue-escuchando-reaccionando-incluso-fase-profunda-sueno-3200648.jpg?tf=1200x' alt='Tu cerebro sigue escuchando y reaccionando incluso en la fase más profunda del sueño' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/no-piques-timo-doble-llamada-actualiza-ocu-como-gancho-1322812'>¡No piques! El timo de la doble llamada se actualiza con la OCU como gancho</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/no-piques-timo-doble-llamada-actualiza-ocu-como-gancho-1322812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/llamada-spam-3200782.jpg?tf=1200x' alt='¡No piques! El timo de la doble llamada se actualiza con la OCU como gancho' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-historias-instagram-forma-anonima-1321616'>Cómo ver las historias de Instagram de forma anónima</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-historias-instagram-forma-anonima-1321616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-ver-historias-instagram-forma-anonima-3198904.jpg?tf=1200x' alt='Cómo ver las historias de Instagram de forma anónima' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-google-maps-1310898'>Cómo compartir tu ubicación en Google Maps</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-google-maps-1310898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ubicacion-google-maps-3200664.jpg?tf=1200x' alt='Cómo compartir tu ubicación en Google Maps' />
     </a>
 </div>
 
