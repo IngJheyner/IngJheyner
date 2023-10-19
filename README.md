@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/pagar-alquiler-te-hace-envejecer-doble-rapido-estar-paro-1322196'>Pagar el alquiler te hace envejecer igual que fumar 6 meses al año, según un estudio</a></h4>
+    <a href='https://computerhoy.com/life/pagar-alquiler-te-hace-envejecer-doble-rapido-estar-paro-1322196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pagar-alquiler-te-hace-envejecer-doble-rapido-estar-paro-estudio-3199410.jpg?tf=1200x' alt='Pagar el alquiler te hace envejecer igual que fumar 6 meses al año, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estas-listas-iptv-ver-futbol-peliculas-tienen-dias-contados-1322182'>Estas listas IPTV para ver fútbol, series y películas tienen los días contados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-listas-iptv-ver-futbol-peliculas-tienen-dias-contados-1322182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estas-listas-iptv-ver-futbol-series-peliculas-tienen-dias-contados-3199736.jpg?tf=1200x' alt='Estas listas IPTV para ver fútbol, series y películas tienen los días contados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-investigara-antecedentes-policiales-comprar-impresora-3d-1322190'>Estados Unidos quiere investigar los antecedentes policiales al comprar una impresora 3D</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estados-unidos-investigara-antecedentes-policiales-comprar-impresora-3d-1322190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estados-unidos-investigara-antecedentes-policiales-comprar-impresora-3d-3199730.jpg?tf=1200x' alt='Estados Unidos quiere investigar los antecedentes policiales al comprar una impresora 3D' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-anuncia-final-elite-temporada-8-1322186'>Netflix anuncia el final de la serie española Élite, uno de sus mayores éxitos mundiales</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-anuncia-final-elite-temporada-8-1322186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697655751328-3199630.jpg?tf=1200x' alt='Netflix anuncia el final de la serie española Élite, uno de sus mayores éxitos mundiales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/robot-aspirador-arraso-prime-day-vuelve-desplomar-precio-1321904'>El robot aspirador que arrasó en el Prime Day vuelve a desplomar su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/robot-aspirador-arraso-prime-day-vuelve-desplomar-precio-1321904' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lefant-m210-3077986.jpg?tf=1200x' alt='El robot aspirador que arrasó en el Prime Day vuelve a desplomar su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/alertan-riesgos-salud-cervezas-consumidas-1322170'>Alertan sobre los riesgos para la salud de una de las cervezas más consumidas</a></h4>
-    <a href='https://computerhoy.com/alimentacion/alertan-riesgos-salud-cervezas-consumidas-1322170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cervezas-limon-3199626.jpg?tf=1200x' alt='Alertan sobre los riesgos para la salud de una de las cervezas más consumidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-tiempo-actividad-windows-10-11-1313896'>Cómo saber cuánto tiempo lleva tu ordenador encendido en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-comprobar-tiempo-actividad-windows-10-11-1313896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ocultar-boton-encendido-windows-11-3102286.jpg?tf=1200x' alt='Cómo saber cuánto tiempo lleva tu ordenador encendido en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-desarrolla-forma-almacenar-datos-vidrio-durante-miles-anos-1322168'>Microsoft desarrolla una forma de almacenar datos en vidrio durante miles de años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-desarrolla-forma-almacenar-datos-vidrio-durante-miles-anos-1322168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/project-silica-3199622.jpg?tf=1200x' alt='Microsoft desarrolla una forma de almacenar datos en vidrio durante miles de años' />
     </a>
 </div>
 
