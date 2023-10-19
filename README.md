@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ps5-desploma-precio-nunca-viene-regalo-aunque-tiene-pero-1322502'>PS5 desploma su precio más que nunca, y viene con regalo, aunque tiene un pero</a></h4>
-    <a href='https://computerhoy.com/gaming/ps5-desploma-precio-nunca-viene-regalo-aunque-tiene-pero-1322502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/playstation-5-ps5-3200156.jpg?tf=1200x' alt='PS5 desploma su precio más que nunca, y viene con regalo, aunque tiene un pero' />
+    <h4><a href='https://computerhoy.com/ciencia/numero-minimo-escaleras-debes-subir-dia-1322700'>Este es el número mínimo de escaleras que debes subir al día, para reducir el riesgo de infarto</a></h4>
+    <a href='https://computerhoy.com/ciencia/numero-minimo-escaleras-debes-subir-dia-1322700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/numero-exacto-escaleras-debes-subir-dia-reducir-riesgo-infarto-3200434.jpg?tf=1200x' alt='Este es el número mínimo de escaleras que debes subir al día, para reducir el riesgo de infarto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ya-puedes-usar-android-auto-107-sencillo-truco-1322482'>Ya puedes usar Android Auto 10.7 con este sencillo truco</a></h4>
-    <a href='https://computerhoy.com/android/ya-puedes-usar-android-auto-107-sencillo-truco-1322482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/android-auto-3122918.jpg?tf=1200x' alt='Ya puedes usar Android Auto 10.7 con este sencillo truco' />
+    <h4><a href='https://computerhoy.com/tecnologia/truco-bateria-movil-dure-mas-1314586'>El truco definitivo para que la batería de tu móvil dure mucho más tiempo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/truco-bateria-movil-dure-mas-1314586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bateria-movil-3200160.jpg?tf=1200x' alt='El truco definitivo para que la batería de tu móvil dure mucho más tiempo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/elon-musk-carga-nuevo-teletrabajo-afirma-tiene-vibraciones-maria-antonieta-1322442'>Elon Musk carga de nuevo contra el teletrabajo y afirma que tiene ¿"vibraciones de María Antonieta"?</a></h4>
-    <a href='https://computerhoy.com/industria/elon-musk-carga-nuevo-teletrabajo-afirma-tiene-vibraciones-maria-antonieta-1322442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-teletrabajo-3200072.jpg?tf=1200x' alt='Elon Musk carga de nuevo contra el teletrabajo y afirma que tiene ¿"vibraciones de María Antonieta"?' />
+    <h4><a href='https://computerhoy.com/google/olvidate-escribir-mal-busquedas-chrome-novedad-movil-corregira-automaticamente-1322670'>Olvídate de escribir mal tus búsquedas en Chrome: esta novedad para móvil las corregirá automáticamente</a></h4>
+    <a href='https://computerhoy.com/google/olvidate-escribir-mal-busquedas-chrome-novedad-movil-corregira-automaticamente-1322670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chrome-movil-3200446.jpg?tf=1200x' alt='Olvídate de escribir mal tus búsquedas en Chrome: esta novedad para móvil las corregirá automáticamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/carrefour-rebaja-bestia-dyson-liquidando-aspiradoras-120-euros-descuento-1321922'>Carrefour rebaja a lo bestia las Dyson: está liquidando aspiradoras con hasta 120 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/carrefour-rebaja-bestia-dyson-liquidando-aspiradoras-120-euros-descuento-1321922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/dyson-aspiradora-3063524.jpg?tf=1200x' alt='Carrefour rebaja a lo bestia las Dyson: está liquidando aspiradoras con hasta 120 euros de descuento' />
+    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-zara-1284788'>Equivalencias de los perfumes y colonias de Zara</a></h4>
+    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-zara-1284788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/equivalencias-perfumes-colonias-zara-3099678.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Zara' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/policia-afirma-poder-identificar-usuarios-servicio-ilegal-iptv-1322478'>La policía afirma poder identificar a los usuarios de un servicio ilegal IPTV al que están suscritos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/policia-afirma-poder-identificar-usuarios-servicio-ilegal-iptv-1322478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='La policía afirma poder identificar a los usuarios de un servicio ilegal IPTV al que están suscritos' />
+    <h4><a href='https://computerhoy.com/energia/pueblo-opone-mina-litio-puede-cambiar-vida-no-hay-nadie-favor-1322648'>Este pueblo se opone a la mina de litio que puede cambiar su vida: "No hay nadie que esté a favor"</a></h4>
+    <a href='https://computerhoy.com/energia/pueblo-opone-mina-litio-puede-cambiar-vida-no-hay-nadie-favor-1322648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pueblportugal-3200424.jpg?tf=1200x' alt='Este pueblo se opone a la mina de litio que puede cambiar su vida: "No hay nadie que esté a favor"' />
     </a>
 </div>
 
