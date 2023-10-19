@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/numero-minimo-escaleras-debes-subir-dia-1322700'>Este es el número mínimo de escaleras que debes subir al día, para reducir el riesgo de infarto</a></h4>
-    <a href='https://computerhoy.com/ciencia/numero-minimo-escaleras-debes-subir-dia-1322700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/numero-exacto-escaleras-debes-subir-dia-reducir-riesgo-infarto-3200434.jpg?tf=1200x' alt='Este es el número mínimo de escaleras que debes subir al día, para reducir el riesgo de infarto' />
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-jueves-19-octubre-2023-1322784'>Programación TV: ¿Qué ver hoy en televisión? Jueves 19 de octubre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-jueves-19-octubre-2023-1322784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-jueves-19-octubre-2023-3200732.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Jueves 19 de octubre de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/truco-bateria-movil-dure-mas-1314586'>El truco definitivo para que la batería de tu móvil dure mucho más tiempo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/truco-bateria-movil-dure-mas-1314586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bateria-movil-3200160.jpg?tf=1200x' alt='El truco definitivo para que la batería de tu móvil dure mucho más tiempo' />
+    <h4><a href='https://computerhoy.com/pc/ruidos-extranos-ordenador-no-deberias-ignorar-1322090'>Ruidos extraños en tu ordenador que no deberías ignorar si no quieres que se estropee</a></h4>
+    <a href='https://computerhoy.com/pc/ruidos-extranos-ordenador-no-deberias-ignorar-1322090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sonidos-ordenador-3200620.jpg?tf=1200x' alt='Ruidos extraños en tu ordenador que no deberías ignorar si no quieres que se estropee' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/olvidate-escribir-mal-busquedas-chrome-novedad-movil-corregira-automaticamente-1322670'>Olvídate de escribir mal tus búsquedas en Chrome: esta novedad para móvil las corregirá automáticamente</a></h4>
-    <a href='https://computerhoy.com/google/olvidate-escribir-mal-busquedas-chrome-novedad-movil-corregira-automaticamente-1322670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chrome-movil-3200446.jpg?tf=1200x' alt='Olvídate de escribir mal tus búsquedas en Chrome: esta novedad para móvil las corregirá automáticamente' />
+    <h4><a href='https://computerhoy.com/tecnologia/10-chollos-tecnologia-son-casi-robo-alegrarte-fin-semana-1322646'>10 chollos de tecnología que son casi un robo para alegrarte el fin de semana</a></h4>
+    <a href='https://computerhoy.com/tecnologia/10-chollos-tecnologia-son-casi-robo-alegrarte-fin-semana-1322646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ecommerce-compra-online-3200588.jpg?tf=1200x' alt='10 chollos de tecnología que son casi un robo para alegrarte el fin de semana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-zara-1284788'>Equivalencias de los perfumes y colonias de Zara</a></h4>
-    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-zara-1284788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/equivalencias-perfumes-colonias-zara-3099678.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Zara' />
+    <h4><a href='https://computerhoy.com/life/cerebro-aun-escucha-reacciona-fase-profunda-sueno-1322740'>Tu cerebro sigue escuchando y reaccionando incluso en la fase más profunda del sueño</a></h4>
+    <a href='https://computerhoy.com/life/cerebro-aun-escucha-reacciona-fase-profunda-sueno-1322740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cerebro-sigue-escuchando-reaccionando-incluso-fase-profunda-sueno-3200648.jpg?tf=1200x' alt='Tu cerebro sigue escuchando y reaccionando incluso en la fase más profunda del sueño' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/pueblo-opone-mina-litio-puede-cambiar-vida-no-hay-nadie-favor-1322648'>Este pueblo se opone a la mina de litio que puede cambiar su vida: "No hay nadie que esté a favor"</a></h4>
-    <a href='https://computerhoy.com/energia/pueblo-opone-mina-litio-puede-cambiar-vida-no-hay-nadie-favor-1322648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pueblportugal-3200424.jpg?tf=1200x' alt='Este pueblo se opone a la mina de litio que puede cambiar su vida: "No hay nadie que esté a favor"' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-historias-instagram-forma-anonima-1321616'>Cómo ver las historias de Instagram de forma anónima</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-historias-instagram-forma-anonima-1321616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-ver-historias-instagram-forma-anonima-3198904.jpg?tf=1200x' alt='Cómo ver las historias de Instagram de forma anónima' />
     </a>
 </div>
 
