@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ps5-desploma-precio-nunca-viene-regalo-aunque-tiene-pero-1322502'>PS5 desploma su precio más que nunca, y viene con regalo, aunque tiene un pero</a></h4>
+    <a href='https://computerhoy.com/gaming/ps5-desploma-precio-nunca-viene-regalo-aunque-tiene-pero-1322502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/playstation-5-ps5-3200156.jpg?tf=1200x' alt='PS5 desploma su precio más que nunca, y viene con regalo, aunque tiene un pero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/ya-puedes-usar-android-auto-107-sencillo-truco-1322482'>Ya puedes usar Android Auto 10.7 con este sencillo truco</a></h4>
+    <a href='https://computerhoy.com/android/ya-puedes-usar-android-auto-107-sencillo-truco-1322482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/android-auto-3122918.jpg?tf=1200x' alt='Ya puedes usar Android Auto 10.7 con este sencillo truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/elon-musk-carga-nuevo-teletrabajo-afirma-tiene-vibraciones-maria-antonieta-1322442'>Elon Musk carga de nuevo contra el teletrabajo y afirma que tiene ¿"vibraciones de María Antonieta"?</a></h4>
     <a href='https://computerhoy.com/industria/elon-musk-carga-nuevo-teletrabajo-afirma-tiene-vibraciones-maria-antonieta-1322442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-teletrabajo-3200072.jpg?tf=1200x' alt='Elon Musk carga de nuevo contra el teletrabajo y afirma que tiene ¿"vibraciones de María Antonieta"?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/policia-afirma-poder-identificar-usuarios-servicio-ilegal-iptv-1322478'>La policía afirma poder identificar a los usuarios de un servicio ilegal IPTV al que están suscritos</a></h4>
     <a href='https://computerhoy.com/tecnologia/policia-afirma-poder-identificar-usuarios-servicio-ilegal-iptv-1322478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='La policía afirma poder identificar a los usuarios de un servicio ilegal IPTV al que están suscritos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/fin-whatsapp-te-hace-caso-ya-posible-tener-dos-cuentas-mismo-dispositivo-1322452'>Por fin WhatsApp te hace caso y ya es posible tener dos cuentas activas en el mismo dispositivo</a></h4>
-    <a href='https://computerhoy.com/apps/fin-whatsapp-te-hace-caso-ya-posible-tener-dos-cuentas-mismo-dispositivo-1322452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-3200078.jpg?tf=1200x' alt='Por fin WhatsApp te hace caso y ya es posible tener dos cuentas activas en el mismo dispositivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-sigue-poder-mejor-linux-1322430'>Windows 11 sigue sin poder con el mejor Linux y solo queda un año para Windows 12</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-sigue-poder-mejor-linux-1322430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/linux-2023-2971128.jpg?tf=1200x' alt='Windows 11 sigue sin poder con el mejor Linux y solo queda un año para Windows 12' />
     </a>
 </div>
 
