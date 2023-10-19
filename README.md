@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-android-comprar-2021-798505'>Las 10 mejores tablets Android que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-android-comprar-2021-798505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-redmi-pad-3143356.jpg?tf=1200x' alt='Las 10 mejores tablets Android que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-smart-band-8-analisis-opinion-opcion-perfecta-buscas-calidad-precio-1320780'>Xiaomi Smart Band 8, análisis y opinión: la pulsera de actividad que quiere estar a la moda y que además es más barata</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-smart-band-8-analisis-opinion-opcion-perfecta-buscas-calidad-precio-1320780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-smart-band-8-3197316.jpg?tf=1200x' alt='Xiaomi Smart Band 8, análisis y opinión: la pulsera de actividad que quiere estar a la moda y que además es más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/avion-vuelo-parece-congelado-aire-no-mueve-ilusion-optica-1322386'>¿Por qué este avión en vuelo parece congelado en el aire, y no se mueve?</a></h4>
+    <a href='https://computerhoy.com/ciencia/avion-vuelo-parece-congelado-aire-no-mueve-ilusion-optica-1322386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/avion-vuelo-parece-congelado-aire-no-mueve-3199942.jpg?tf=1200x' alt='¿Por qué este avión en vuelo parece congelado en el aire, y no se mueve?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173'>Mejores Android TV Box baratas que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nokia-tv-box-3199488.jpg?tf=1200x' alt='Mejores Android TV Box baratas que puedes comprar en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/pagar-alquiler-te-hace-envejecer-doble-rapido-estar-paro-1322196'>Pagar el alquiler te hace envejecer igual que fumar 6 meses al año, según un estudio</a></h4>
     <a href='https://computerhoy.com/life/pagar-alquiler-te-hace-envejecer-doble-rapido-estar-paro-1322196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pagar-alquiler-te-hace-envejecer-doble-rapido-estar-paro-estudio-3199410.jpg?tf=1200x' alt='Pagar el alquiler te hace envejecer igual que fumar 6 meses al año, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-listas-iptv-ver-futbol-peliculas-tienen-dias-contados-1322182'>Estas listas IPTV para ver fútbol, series y películas tienen los días contados</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-listas-iptv-ver-futbol-peliculas-tienen-dias-contados-1322182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estas-listas-iptv-ver-futbol-series-peliculas-tienen-dias-contados-3199736.jpg?tf=1200x' alt='Estas listas IPTV para ver fútbol, series y películas tienen los días contados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-investigara-antecedentes-policiales-comprar-impresora-3d-1322190'>Estados Unidos quiere investigar los antecedentes policiales al comprar una impresora 3D</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estados-unidos-investigara-antecedentes-policiales-comprar-impresora-3d-1322190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estados-unidos-investigara-antecedentes-policiales-comprar-impresora-3d-3199730.jpg?tf=1200x' alt='Estados Unidos quiere investigar los antecedentes policiales al comprar una impresora 3D' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-anuncia-final-elite-temporada-8-1322186'>Netflix anuncia el final de la serie española Élite, uno de sus mayores éxitos mundiales</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-anuncia-final-elite-temporada-8-1322186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697655751328-3199630.jpg?tf=1200x' alt='Netflix anuncia el final de la serie española Élite, uno de sus mayores éxitos mundiales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-aspirador-arraso-prime-day-vuelve-desplomar-precio-1321904'>El robot aspirador que arrasó en el Prime Day vuelve a desplomar su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-aspirador-arraso-prime-day-vuelve-desplomar-precio-1321904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lefant-m210-3077986.jpg?tf=1200x' alt='El robot aspirador que arrasó en el Prime Day vuelve a desplomar su precio' />
     </a>
 </div>
 
