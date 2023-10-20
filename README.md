@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejor-configuracion-bandeja-entrada-gmail-1322722'>Esta es la mejor configuración para la bandeja de entrada de Gmail</a></h4>
-    <a href='https://computerhoy.com/apps/mejor-configuracion-bandeja-entrada-gmail-1322722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Esta es la mejor configuración para la bandeja de entrada de Gmail' />
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-planta-cara-apple-garmin-favoritos-2023-ahora-viene-regalo-sorpresa-1321308'>Este reloj planta cara a Apple y Garmin, es de nuestros favoritos de 2023 y ahora viene con regalo sorpresa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-planta-cara-apple-garmin-favoritos-2023-ahora-viene-regalo-sorpresa-1321308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131142.jpg?tf=1200x' alt='Este reloj planta cara a Apple y Garmin, es de nuestros favoritos de 2023 y ahora viene con regalo sorpresa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/mejor-dia-hora-llenar-deposito-gasolina-1322710'>Este es el mejor día y hora para que llenar el depósito de gasolina sea más barato, confirmado por la OCU</a></h4>
-    <a href='https://computerhoy.com/motor/mejor-dia-hora-llenar-deposito-gasolina-1322710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/mejor-dia-hora-llenar-deposito-gasolina-sea-barato-confirmado-ocueste-mejor-dia-hora-llenar-deposito-gasolina-sea-barato-confirmado-ocu-3200524.jpg?tf=1200x' alt='Este es el mejor día y hora para que llenar el depósito de gasolina sea más barato, confirmado por la OCU' />
+    <h4><a href='https://computerhoy.com/moviles/tipica-accion-todo-mundo-hace-podria-estar-danando-bateria-iphone-1322492'>La típica acción que todo el mundo hace y podría estar dañando la batería de tu iPhone</a></h4>
+    <a href='https://computerhoy.com/moviles/tipica-accion-todo-mundo-hace-podria-estar-danando-bateria-iphone-1322492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/iphone-cargando-3200730.jpg?tf=1200x' alt='La típica acción que todo el mundo hace y podría estar dañando la batería de tu iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/elon-musk-sincera-cavamos-propia-tumba-cybertruck-1322830'>Elon Musk se confiesa: "Cavamos nuestra propia tumba con el Cybertruck"</a></h4>
-    <a href='https://computerhoy.com/motor/elon-musk-sincera-cavamos-propia-tumba-cybertruck-1322830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cybertruck-tesla-2843845.jpg?tf=1200x' alt='Elon Musk se confiesa: "Cavamos nuestra propia tumba con el Cybertruck"' />
+    <h4><a href='https://computerhoy.com/tecnologia/tecnofobia-terror-generacion-tecnologia-1313774'>Tecnofobia, el terror de una generación hacia la tecnología</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tecnofobia-terror-generacion-tecnologia-1313774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tecnofobia-tecnoestres-generacion-tecnologia-3149838.jpg?tf=1200x' alt='Tecnofobia, el terror de una generación hacia la tecnología' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/televisor-tiene-hoy-menos-canales-tdt-no-error-1322824'>Lo sentimos, tu televisor tiene hoy menos canales de la TDT, y no es un error</a></h4>
-    <a href='https://computerhoy.com/tecnologia/televisor-tiene-hoy-menos-canales-tdt-no-error-1322824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sentimos-televisor-tiene-hoy-menos-canales-tdt-no-error-3200804.jpg?tf=1200x' alt='Lo sentimos, tu televisor tiene hoy menos canales de la TDT, y no es un error' />
+    <h4><a href='https://computerhoy.com/entretenimiento/exito-suits-netflix-series-licenciadas-1322838'>El éxito de Suits en Netflix desvela una estrategia que la competencia no está aprovechando</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/exito-suits-netflix-series-licenciadas-1322838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/suits-3111950.jpg?tf=1200x' alt='El éxito de Suits en Netflix desvela una estrategia que la competencia no está aprovechando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-portatil-msi-intel-core-i3-cuesta-menos-movil-1321986'>No es un error de precio: este portátil MSI con Intel Core i3 cuesta menos que un móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-error-precio-portatil-msi-intel-core-i3-cuesta-menos-movil-1321986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/msi-modern-15-b11m-042xes-3199268.jpg?tf=1200x' alt='No es un error de precio: este portátil MSI con Intel Core i3 cuesta menos que un móvil' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-evitar-carding-estafa-usan-ciberdelincuentes-robarte-cuenta-1322450'>Cómo evitar el carding, la estafa que usan los ciberdelincuentes para robarte la cuenta</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-evitar-carding-estafa-usan-ciberdelincuentes-robarte-cuenta-1322450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robo-datos-tarjeta-3094674.jpg?tf=1200x' alt='Cómo evitar el carding, la estafa que usan los ciberdelincuentes para robarte la cuenta' />
     </a>
 </div>
 
