@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/son-bonos-conectividad-digital-subvencionados-240-euros-como-solicitarlo-1323142'>Estos bonos con ayudas de hasta 240 euros buscan un acceso a Internet para familias vulnerables: cómo solicitarlo</a></h4>
+    <a href='https://computerhoy.com/internet/son-bonos-conectividad-digital-subvencionados-240-euros-como-solicitarlo-1323142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bonos-ayuda-acceso-internet-3201352.jpg?tf=1200x' alt='Estos bonos con ayudas de hasta 240 euros buscan un acceso a Internet para familias vulnerables: cómo solicitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-revienta-precio-airpods-pro-2-pone-jaque-apple-corre-porque-van-agotar-1323168'>PcComponentes revienta el precio de los AirPods Pro 2 y pone en jaque a Apple: corre porque se van a agotar</a></h4>
     <a href='https://computerhoy.com/tecnologia/pccomponentes-revienta-precio-airpods-pro-2-pone-jaque-apple-corre-porque-van-agotar-1323168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airpods-pro-2677577.jpg?tf=1200x' alt='PcComponentes revienta el precio de los AirPods Pro 2 y pone en jaque a Apple: corre porque se van a agotar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/actualiza-winrar-cuanto-antes-podrias-estar-expuesto-ciberataque-1323086'>Actualiza WinRAR cuanto antes: podrías estar expuesto a un ciberataque</a></h4>
     <a href='https://computerhoy.com/tecnologia/actualiza-winrar-cuanto-antes-podrias-estar-expuesto-ciberataque-1323086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/winrar.jpg?tf=1200x' alt='Actualiza WinRAR cuanto antes: podrías estar expuesto a un ciberataque' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/aprende-ingles-google-nueva-herramienta-android-1323096'>Google revoluciona el aprendizaje de inglés con esta nueva herramienta para Android</a></h4>
-    <a href='https://computerhoy.com/google/aprende-ingles-google-nueva-herramienta-android-1323096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-ingles-android-3201188.jpg?tf=1200x' alt='Google revoluciona el aprendizaje de inglés con esta nueva herramienta para Android' />
     </a>
 </div>
 
