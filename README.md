@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/significan-abreviaturas-whatsapp-redes-sociales-como-utilizarlas-correctamente-1300858'>POV, OMG, GOAT, XOXO, LOL... qué significan las abreviaturas de WhatsApp y las redes sociales y cómo utilizarlas correctamente</a></h4>
-    <a href='https://computerhoy.com/internet/significan-abreviaturas-whatsapp-redes-sociales-como-utilizarlas-correctamente-1300858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/abreviaturas-3127402.jpg?tf=1200x' alt='POV, OMG, GOAT, XOXO, LOL... qué significan las abreviaturas de WhatsApp y las redes sociales y cómo utilizarlas correctamente' />
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-viernes-20-octubre-2023-1323334'>Programación TV: ¿Qué ver hoy en televisión? Viernes 20 de octubre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-viernes-20-octubre-2023-1323334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-viernes-20-octubre-2023-3201886.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Viernes 20 de octubre de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/retrete-espacial-vistas-tierra-space-perspective-1323248'>Este retrete tiene las mejores vistas de la Tierra, y podrás usarlo en 2024</a></h4>
-    <a href='https://computerhoy.com/espacio/retrete-espacial-vistas-tierra-space-perspective-1323248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/retrete-tiene-mejores-vistas-tierra-podras-usarlo-ano-viene-3201706.jpg?tf=1200x' alt='Este retrete tiene las mejores vistas de la Tierra, y podrás usarlo en 2024' />
+    <h4><a href='https://computerhoy.com/moviles/5-usos-sorprendentes-utiles-dar-segunda-vida-viejo-movil-1323066'>5 usos sorprendentes (y útiles) para dar una segunda vida a tu viejo móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/5-usos-sorprendentes-utiles-dar-segunda-vida-viejo-movil-1323066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/5-usos-sorprendentes-utiles-dar-segunda-vida-viejo-movil-3201100.jpg?tf=1200x' alt='5 usos sorprendentes (y útiles) para dar una segunda vida a tu viejo móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/7-mejores-webs-conocer-prevision-del-tiempo-23537'>Las mejores webs para conocer la previsión del tiempo</a></h4>
-    <a href='https://computerhoy.com/listas/life/7-mejores-webs-conocer-prevision-del-tiempo-23537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/mejores-webs-conocer-prevision-tiempo-3201044.jpg?tf=1200x' alt='Las mejores webs para conocer la previsión del tiempo' />
+    <h4><a href='https://computerhoy.com/espacio/rafaga-radio-llega-tierra-8000-millones-anos-1323276'>Una ráfaga de radio ha tardado 8.000 millones de años en llegar a la Tierra, y ahora puede contarnos su viaje</a></h4>
+    <a href='https://computerhoy.com/espacio/rafaga-radio-llega-tierra-8000-millones-anos-1323276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/rafaga-radio-ha-tardado-8-mil-millones-anos-llegar-tierra-ahora-puede-contarnos-viaje-3201766.jpg?tf=1200x' alt='Una ráfaga de radio ha tardado 8.000 millones de años en llegar a la Tierra, y ahora puede contarnos su viaje' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/diferencian-huevos-blancos-marrones-848199'>En qué se diferencian los huevos blancos y los marrones</a></h4>
-    <a href='https://computerhoy.com/noticias/life/diferencian-huevos-blancos-marrones-848199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/huevos.jpg?tf=1200x' alt='En qué se diferencian los huevos blancos y los marrones' />
+    <h4><a href='https://computerhoy.com/pc/herramienta-activa-windows-11-reduce-45-rendimiento-ssd-1323260'>Una herramienta activa por defecto en algunas versiones de Windows 11 reduce a la mitad el rendimiento de los SSD</a></h4>
+    <a href='https://computerhoy.com/pc/herramienta-activa-windows-11-reduce-45-rendimiento-ssd-1323260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ssd-samsung-3059474.jpg?tf=1200x' alt='Una herramienta activa por defecto en algunas versiones de Windows 11 reduce a la mitad el rendimiento de los SSD' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/va-agotar-roomba-limpia-sola-ahora-cuesta-mitad-1323182'>Se va a agotar esta Roomba que se limpia sola y que ahora cuesta la mitad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/va-agotar-roomba-limpia-sola-ahora-cuesta-mitad-1323182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/roomba-i7-3201448.jpg?tf=1200x' alt='Se va a agotar esta Roomba que se limpia sola y que ahora cuesta la mitad' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-evitar-estafa-whatsapp-familiar-movil-1322590'>Cómo evitar la estafa de WhatsApp del familiar sin móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-evitar-estafa-whatsapp-familiar-movil-1322590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estafa-sicario-vuelve-whatsapp-usuarios-espana-ya-estan-recibiendo-estos-mensajes-3050664.jpg?tf=1200x' alt='Cómo evitar la estafa de WhatsApp del familiar sin móvil' />
     </a>
 </div>
 
