@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejor-configuracion-bandeja-entrada-gmail-1322722'>Esta es la mejor configuración para la bandeja de entrada de Gmail</a></h4>
+    <a href='https://computerhoy.com/apps/mejor-configuracion-bandeja-entrada-gmail-1322722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Esta es la mejor configuración para la bandeja de entrada de Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/mejor-dia-hora-llenar-deposito-gasolina-1322710'>Este es el mejor día y hora para que llenar el depósito de gasolina sea más barato, confirmado por la OCU</a></h4>
+    <a href='https://computerhoy.com/motor/mejor-dia-hora-llenar-deposito-gasolina-1322710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/mejor-dia-hora-llenar-deposito-gasolina-sea-barato-confirmado-ocueste-mejor-dia-hora-llenar-deposito-gasolina-sea-barato-confirmado-ocu-3200524.jpg?tf=1200x' alt='Este es el mejor día y hora para que llenar el depósito de gasolina sea más barato, confirmado por la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/elon-musk-sincera-cavamos-propia-tumba-cybertruck-1322830'>Elon Musk se confiesa: "Cavamos nuestra propia tumba con el Cybertruck"</a></h4>
     <a href='https://computerhoy.com/motor/elon-musk-sincera-cavamos-propia-tumba-cybertruck-1322830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/cybertruck-tesla-2843845.jpg?tf=1200x' alt='Elon Musk se confiesa: "Cavamos nuestra propia tumba con el Cybertruck"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-portatil-msi-intel-core-i3-cuesta-menos-movil-1321986'>No es un error de precio: este portátil MSI con Intel Core i3 cuesta menos que un móvil</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-error-precio-portatil-msi-intel-core-i3-cuesta-menos-movil-1321986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/msi-modern-15-b11m-042xes-3199268.jpg?tf=1200x' alt='No es un error de precio: este portátil MSI con Intel Core i3 cuesta menos que un móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oneplus-open-primer-plegable-marca-gama-alta-1899-euros-1322778'>Así es el OnePlus Open: primer plegable de la marca, gama alta y un precio de 1.899 euros </a></h4>
-    <a href='https://computerhoy.com/moviles/oneplus-open-primer-plegable-marca-gama-alta-1899-euros-1322778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/oneplus-open-primer-plegable-marca-gama-alta-precio-1899-euros-3200706.jpg?tf=1200x' alt='Así es el OnePlus Open: primer plegable de la marca, gama alta y un precio de 1.899 euros ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/truco-viral-cuchara-evitar-te-hagan-lio-pedir-cafe-bar-1322814'>El truco viral de la cuchara para evitar que te hagan el lío al pedir un café en un bar</a></h4>
-    <a href='https://computerhoy.com/alimentacion/truco-viral-cuchara-evitar-te-hagan-lio-pedir-cafe-bar-1322814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tazas-cafe-3200784.jpg?tf=1200x' alt='El truco viral de la cuchara para evitar que te hagan el lío al pedir un café en un bar' />
     </a>
 </div>
 
