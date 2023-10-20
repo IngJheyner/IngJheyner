@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-planta-cara-apple-garmin-favoritos-2023-ahora-viene-regalo-sorpresa-1321308'>Este reloj planta cara a Apple y Garmin, es de nuestros favoritos de 2023 y ahora viene con regalo sorpresa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-planta-cara-apple-garmin-favoritos-2023-ahora-viene-regalo-sorpresa-1321308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131142.jpg?tf=1200x' alt='Este reloj planta cara a Apple y Garmin, es de nuestros favoritos de 2023 y ahora viene con regalo sorpresa' />
+    <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-revienta-precio-airpods-pro-2-pone-jaque-apple-corre-porque-van-agotar-1323168'>PcComponentes revienta el precio de los AirPods Pro 2 y pone en jaque a Apple: corre porque se van a agotar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pccomponentes-revienta-precio-airpods-pro-2-pone-jaque-apple-corre-porque-van-agotar-1323168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airpods-pro-2677577.jpg?tf=1200x' alt='PcComponentes revienta el precio de los AirPods Pro 2 y pone en jaque a Apple: corre porque se van a agotar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tipica-accion-todo-mundo-hace-podria-estar-danando-bateria-iphone-1322492'>La típica acción que todo el mundo hace y podría estar dañando la batería de tu iPhone</a></h4>
-    <a href='https://computerhoy.com/moviles/tipica-accion-todo-mundo-hace-podria-estar-danando-bateria-iphone-1322492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/iphone-cargando-3200730.jpg?tf=1200x' alt='La típica acción que todo el mundo hace y podría estar dañando la batería de tu iPhone' />
+    <h4><a href='https://computerhoy.com/life/cuadro-robado-durante-segunda-guerra-mundial-vuelve-alemania-1323146'>Un cuadro robado durante la Segunda Guerra Mundial en Alemania de más de 300 años, por fin vuelve a casa</a></h4>
+    <a href='https://computerhoy.com/life/cuadro-robado-durante-segunda-guerra-mundial-vuelve-alemania-1323146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cuadro-robado-3201330.jpg?tf=1200x' alt='Un cuadro robado durante la Segunda Guerra Mundial en Alemania de más de 300 años, por fin vuelve a casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tecnofobia-terror-generacion-tecnologia-1313774'>Tecnofobia, el terror de una generación hacia la tecnología</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tecnofobia-terror-generacion-tecnologia-1313774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tecnofobia-tecnoestres-generacion-tecnologia-3149838.jpg?tf=1200x' alt='Tecnofobia, el terror de una generación hacia la tecnología' />
+    <h4><a href='https://computerhoy.com/life/como-funciona-metodo-ohio-busca-mayor-eficiencia-realmente-util-1323110'>Así es como funciona el Método OHIO, que busca la mayor eficiencia: ¿Realmente es útil?</a></h4>
+    <a href='https://computerhoy.com/life/como-funciona-metodo-ohio-busca-mayor-eficiencia-realmente-util-1323110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/metodo-productividad-3201210.jpg?tf=1200x' alt='Así es como funciona el Método OHIO, que busca la mayor eficiencia: ¿Realmente es útil?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/exito-suits-netflix-series-licenciadas-1322838'>El éxito de Suits en Netflix desvela una estrategia que la competencia no está aprovechando</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/exito-suits-netflix-series-licenciadas-1322838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/suits-3111950.jpg?tf=1200x' alt='El éxito de Suits en Netflix desvela una estrategia que la competencia no está aprovechando' />
+    <h4><a href='https://computerhoy.com/tecnologia/actualiza-winrar-cuanto-antes-podrias-estar-expuesto-ciberataque-1323086'>Actualiza WinRAR cuanto antes: podrías estar expuesto a un ciberataque</a></h4>
+    <a href='https://computerhoy.com/tecnologia/actualiza-winrar-cuanto-antes-podrias-estar-expuesto-ciberataque-1323086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/winrar.jpg?tf=1200x' alt='Actualiza WinRAR cuanto antes: podrías estar expuesto a un ciberataque' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-evitar-carding-estafa-usan-ciberdelincuentes-robarte-cuenta-1322450'>Cómo evitar el carding, la estafa que usan los ciberdelincuentes para robarte la cuenta</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-evitar-carding-estafa-usan-ciberdelincuentes-robarte-cuenta-1322450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/robo-datos-tarjeta-3094674.jpg?tf=1200x' alt='Cómo evitar el carding, la estafa que usan los ciberdelincuentes para robarte la cuenta' />
+    <h4><a href='https://computerhoy.com/google/aprende-ingles-google-nueva-herramienta-android-1323096'>Google revoluciona el aprendizaje de inglés con esta nueva herramienta para Android</a></h4>
+    <a href='https://computerhoy.com/google/aprende-ingles-google-nueva-herramienta-android-1323096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-ingles-android-3201188.jpg?tf=1200x' alt='Google revoluciona el aprendizaje de inglés con esta nueva herramienta para Android' />
     </a>
 </div>
 
