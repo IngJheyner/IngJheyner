@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/son-bonos-conectividad-digital-subvencionados-240-euros-como-solicitarlo-1323142'>Estos bonos con ayudas de hasta 240 euros buscan un acceso a Internet para familias vulnerables: cómo solicitarlo</a></h4>
-    <a href='https://computerhoy.com/internet/son-bonos-conectividad-digital-subvencionados-240-euros-como-solicitarlo-1323142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bonos-ayuda-acceso-internet-3201352.jpg?tf=1200x' alt='Estos bonos con ayudas de hasta 240 euros buscan un acceso a Internet para familias vulnerables: cómo solicitarlo' />
+    <h4><a href='https://computerhoy.com/internet/significan-abreviaturas-whatsapp-redes-sociales-como-utilizarlas-correctamente-1300858'>POV, OMG, GOAT, XOXO, LOL... qué significan las abreviaturas de WhatsApp y las redes sociales y cómo utilizarlas correctamente</a></h4>
+    <a href='https://computerhoy.com/internet/significan-abreviaturas-whatsapp-redes-sociales-como-utilizarlas-correctamente-1300858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/abreviaturas-3127402.jpg?tf=1200x' alt='POV, OMG, GOAT, XOXO, LOL... qué significan las abreviaturas de WhatsApp y las redes sociales y cómo utilizarlas correctamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-revienta-precio-airpods-pro-2-pone-jaque-apple-corre-porque-van-agotar-1323168'>PcComponentes revienta el precio de los AirPods Pro 2 y pone en jaque a Apple: corre porque se van a agotar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pccomponentes-revienta-precio-airpods-pro-2-pone-jaque-apple-corre-porque-van-agotar-1323168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airpods-pro-2677577.jpg?tf=1200x' alt='PcComponentes revienta el precio de los AirPods Pro 2 y pone en jaque a Apple: corre porque se van a agotar' />
+    <h4><a href='https://computerhoy.com/espacio/retrete-espacial-vistas-tierra-space-perspective-1323248'>Este retrete tiene las mejores vistas de la Tierra, y podrás usarlo en 2024</a></h4>
+    <a href='https://computerhoy.com/espacio/retrete-espacial-vistas-tierra-space-perspective-1323248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/retrete-tiene-mejores-vistas-tierra-podras-usarlo-ano-viene-3201706.jpg?tf=1200x' alt='Este retrete tiene las mejores vistas de la Tierra, y podrás usarlo en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuadro-robado-durante-segunda-guerra-mundial-vuelve-alemania-1323146'>Un cuadro robado durante la Segunda Guerra Mundial en Alemania de más de 300 años, por fin vuelve a casa</a></h4>
-    <a href='https://computerhoy.com/life/cuadro-robado-durante-segunda-guerra-mundial-vuelve-alemania-1323146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cuadro-robado-3201330.jpg?tf=1200x' alt='Un cuadro robado durante la Segunda Guerra Mundial en Alemania de más de 300 años, por fin vuelve a casa' />
+    <h4><a href='https://computerhoy.com/listas/life/7-mejores-webs-conocer-prevision-del-tiempo-23537'>Las mejores webs para conocer la previsión del tiempo</a></h4>
+    <a href='https://computerhoy.com/listas/life/7-mejores-webs-conocer-prevision-del-tiempo-23537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/mejores-webs-conocer-prevision-tiempo-3201044.jpg?tf=1200x' alt='Las mejores webs para conocer la previsión del tiempo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-funciona-metodo-ohio-busca-mayor-eficiencia-realmente-util-1323110'>Así es como funciona el Método OHIO, que busca la mayor eficiencia: ¿Realmente es útil?</a></h4>
-    <a href='https://computerhoy.com/life/como-funciona-metodo-ohio-busca-mayor-eficiencia-realmente-util-1323110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/metodo-productividad-3201210.jpg?tf=1200x' alt='Así es como funciona el Método OHIO, que busca la mayor eficiencia: ¿Realmente es útil?' />
+    <h4><a href='https://computerhoy.com/noticias/life/diferencian-huevos-blancos-marrones-848199'>En qué se diferencian los huevos blancos y los marrones</a></h4>
+    <a href='https://computerhoy.com/noticias/life/diferencian-huevos-blancos-marrones-848199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/huevos.jpg?tf=1200x' alt='En qué se diferencian los huevos blancos y los marrones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/actualiza-winrar-cuanto-antes-podrias-estar-expuesto-ciberataque-1323086'>Actualiza WinRAR cuanto antes: podrías estar expuesto a un ciberataque</a></h4>
-    <a href='https://computerhoy.com/tecnologia/actualiza-winrar-cuanto-antes-podrias-estar-expuesto-ciberataque-1323086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/winrar.jpg?tf=1200x' alt='Actualiza WinRAR cuanto antes: podrías estar expuesto a un ciberataque' />
+    <h4><a href='https://computerhoy.com/tecnologia/va-agotar-roomba-limpia-sola-ahora-cuesta-mitad-1323182'>Se va a agotar esta Roomba que se limpia sola y que ahora cuesta la mitad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/va-agotar-roomba-limpia-sola-ahora-cuesta-mitad-1323182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/roomba-i7-3201448.jpg?tf=1200x' alt='Se va a agotar esta Roomba que se limpia sola y que ahora cuesta la mitad' />
     </a>
 </div>
 
