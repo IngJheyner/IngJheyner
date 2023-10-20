@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-viernes-20-octubre-2023-1323334'>Programación TV: ¿Qué ver hoy en televisión? Viernes 20 de octubre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-viernes-20-octubre-2023-1323334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-viernes-20-octubre-2023-3201886.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Viernes 20 de octubre de 2023' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-vuelve-liar-freidora-cosori-top-ventas-ahora-barata-prime-day-1323360'>Amazon la vuelve a liar con la freidora Cosori top ventas: es ahora más barata que en el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-vuelve-liar-freidora-cosori-top-ventas-ahora-barata-prime-day-1323360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cosori-freidora-aceite-2658901.jpg?tf=1200x' alt='Amazon la vuelve a liar con la freidora Cosori top ventas: es ahora más barata que en el Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/5-usos-sorprendentes-utiles-dar-segunda-vida-viejo-movil-1323066'>5 usos sorprendentes (y útiles) para dar una segunda vida a tu viejo móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/5-usos-sorprendentes-utiles-dar-segunda-vida-viejo-movil-1323066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/5-usos-sorprendentes-utiles-dar-segunda-vida-viejo-movil-3201100.jpg?tf=1200x' alt='5 usos sorprendentes (y útiles) para dar una segunda vida a tu viejo móvil' />
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-estrenos-series-peliculas-noviembre-2023-1323366'>Todos los estrenos de Disney+ en noviembre, para que la subida de precios sea más llevadera</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-plus-estrenos-series-peliculas-noviembre-2023-1323366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/todos-estrenos-disney-noviembre-subida-precios-sea-llevadera-3201914.jpg?tf=1200x' alt='Todos los estrenos de Disney+ en noviembre, para que la subida de precios sea más llevadera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/rafaga-radio-llega-tierra-8000-millones-anos-1323276'>Una ráfaga de radio ha tardado 8.000 millones de años en llegar a la Tierra, y ahora puede contarnos su viaje</a></h4>
-    <a href='https://computerhoy.com/espacio/rafaga-radio-llega-tierra-8000-millones-anos-1323276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/rafaga-radio-ha-tardado-8-mil-millones-anos-llegar-tierra-ahora-puede-contarnos-viaje-3201766.jpg?tf=1200x' alt='Una ráfaga de radio ha tardado 8.000 millones de años en llegar a la Tierra, y ahora puede contarnos su viaje' />
+    <h4><a href='https://computerhoy.com/windows/acaba-tiempo-explotar-bug-permite-instalar-windows-11-cumplir-requisitos-1323362'>Se acaba el tiempo para explotar el bug que permite instalar Windows 11 sin cumplir los requisitos</a></h4>
+    <a href='https://computerhoy.com/windows/acaba-tiempo-explotar-bug-permite-instalar-windows-11-cumplir-requisitos-1323362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aplicaciones-abiertas-windows-11-3150200.jpg?tf=1200x' alt='Se acaba el tiempo para explotar el bug que permite instalar Windows 11 sin cumplir los requisitos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/herramienta-activa-windows-11-reduce-45-rendimiento-ssd-1323260'>Una herramienta activa por defecto en algunas versiones de Windows 11 reduce a la mitad el rendimiento de los SSD</a></h4>
-    <a href='https://computerhoy.com/pc/herramienta-activa-windows-11-reduce-45-rendimiento-ssd-1323260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ssd-samsung-3059474.jpg?tf=1200x' alt='Una herramienta activa por defecto en algunas versiones de Windows 11 reduce a la mitad el rendimiento de los SSD' />
+    <h4><a href='https://computerhoy.com/tecnologia/cargadores-fantasma-amenaza-silenciosa-factura-luz-1323356'>Cargadores fantasma: la amenaza silenciosa para tu factura de la luz</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cargadores-fantasma-amenaza-silenciosa-factura-luz-1323356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-conectado-usb-c-3143608.jpg?tf=1200x' alt='Cargadores fantasma: la amenaza silenciosa para tu factura de la luz' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-evitar-estafa-whatsapp-familiar-movil-1322590'>Cómo evitar la estafa de WhatsApp del familiar sin móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-evitar-estafa-whatsapp-familiar-movil-1322590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estafa-sicario-vuelve-whatsapp-usuarios-espana-ya-estan-recibiendo-estos-mensajes-3050664.jpg?tf=1200x' alt='Cómo evitar la estafa de WhatsApp del familiar sin móvil' />
+    <h4><a href='https://computerhoy.com/life/como-recuperar-recubrimiento-antiadherente-sartenes-ollas-1322832'>Cómo recuperar el recubrimiento antiadherente de sartenes y ollas</a></h4>
+    <a href='https://computerhoy.com/life/como-recuperar-recubrimiento-antiadherente-sartenes-ollas-1322832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-recuperar-recubrimiento-antiadherente-sartenes-ollas-3200814.jpg?tf=1200x' alt='Cómo recuperar el recubrimiento antiadherente de sartenes y ollas' />
     </a>
 </div>
 
