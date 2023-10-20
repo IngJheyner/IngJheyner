@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-estrenos-series-peliculas-noviembre-2023-1323366'>Todos los estrenos de Disney+ en noviembre, para que la subida de precios sea más llevadera</a></h4>
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-estrenos-series-peliculas-noviembre-2023-1323366'>Todos los estrenos de Disney+ en noviembre, para que la subida de las cuotas sea más llevadera</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-plus-estrenos-series-peliculas-noviembre-2023-1323366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/todos-estrenos-disney-noviembre-subida-precios-sea-llevadera-3201914.jpg?tf=1200x' alt='Todos los estrenos de Disney+ en noviembre, para que la subida de precios sea más llevadera' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/todos-estrenos-disney-noviembre-subida-precios-sea-llevadera-3201914.jpg?tf=1200x' alt='Todos los estrenos de Disney+ en noviembre, para que la subida de las cuotas sea más llevadera' />
     </a>
 </div>
 
