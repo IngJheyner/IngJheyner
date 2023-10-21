@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/precio-locura-bombilla-wifi-alexa-cuesta-ya-mucho-menos-piensas-1323580'>Precio de locura: esta bombilla WiFi con Alexa cuesta ya mucho menos de lo que piensas</a></h4>
+    <a href='https://computerhoy.com/hogar/precio-locura-bombilla-wifi-alexa-cuesta-ya-mucho-menos-piensas-1323580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/tp-link-tapo-l520e-3083032.jpg?tf=1200x' alt='Precio de locura: esta bombilla WiFi con Alexa cuesta ya mucho menos de lo que piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/rompiendo-estereotipo-espanol-he-estado-semana-echarme-siesta-resultado-1319652'>Rompiendo con el estereotipo español: he estado una semana sin echarme la siesta y este es el resultado</a></h4>
+    <a href='https://computerhoy.com/life/rompiendo-estereotipo-espanol-he-estado-semana-echarme-siesta-resultado-1319652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dormir-siesta-3195146.jpg?tf=1200x' alt='Rompiendo con el estereotipo español: he estado una semana sin echarme la siesta y este es el resultado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/guia-definitiva-identificar-phishing-protegerte-correos-quieren-estafarte-1317400'>Guía definitiva para identificar el 'phishing' y protegerte de correos que quieren estafarte</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/guia-definitiva-identificar-phishing-protegerte-correos-quieren-estafarte-1317400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/phishing-3196152.jpg?tf=1200x' alt='Guía definitiva para identificar el 'phishing' y protegerte de correos que quieren estafarte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/kobo-libra-2-merece-pena-alternativa-kindle-1323108'>Me compré este lector de ebooks y ahora me ha convencido tanto que jamás volveré a comprar un Kindle</a></h4>
     <a href='https://computerhoy.com/tecnologia/kobo-libra-2-merece-pena-alternativa-kindle-1323108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kobo-libra-2-3201546.jpg?tf=1200x' alt='Me compré este lector de ebooks y ahora me ha convencido tanto que jamás volveré a comprar un Kindle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-silenciar-llamadas-mensajes-contacto-especifico-iphone-1302044'>Cómo silenciar llamadas y mensajes de un contacto específico en iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-silenciar-llamadas-mensajes-contacto-especifico-iphone-1302044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/llamada-iphone-3129344.jpg?tf=1200x' alt='Cómo silenciar llamadas y mensajes de un contacto específico en iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/he-cambiado-android-ios-sistema-no-estoy-acostumbrado-1319722'>Me he cambiado de Android a iOS: mi experiencia con un sistema operativo al que no estoy acostumbrado</a></h4>
-    <a href='https://computerhoy.com/android/he-cambiado-android-ios-sistema-no-estoy-acostumbrado-1319722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/samsung-android-ios-apple-iphone-3195426.jpg?tf=1200x' alt='Me he cambiado de Android a iOS: mi experiencia con un sistema operativo al que no estoy acostumbrado' />
     </a>
 </div>
 
