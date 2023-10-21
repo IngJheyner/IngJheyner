@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/concurso-un-dos-tres-thegrefg-1323576'>20 años después ha vuelto el Un, Dos, Tres, pero con influencers y para jóvenes</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/concurso-un-dos-tres-thegrefg-1323576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/20-anos-despues-ha-vuelto-dos-tres-pero-influencers-jovenes-3201968.jpg?tf=1200x' alt='20 años después ha vuelto el Un, Dos, Tres, pero con influencers y para jóvenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/he-descubierto-mi-movil-tiene-fecha-caducidad-puedes-encontrar-1323374'>He descubierto que mi móvil tiene "fecha de caducidad" y así puedes encontrar la tuya</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-descubierto-mi-movil-tiene-fecha-caducidad-puedes-encontrar-1323374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peligro-corres-no-desactivas-wifi-movil-salir-casa-2972376.jpg?tf=1200x' alt='He descubierto que mi móvil tiene "fecha de caducidad" y así puedes encontrar la tuya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-androide-digit-clasificando-paquetes-1323376'>Amazon ya tiene androides transportando cajas en sus almacenes</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-androide-digit-clasificando-paquetes-1323376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-ya-tiene-robots-humanoides-clasificando-paquetes-almacenes-3201938.jpg?tf=1200x' alt='Amazon ya tiene androides transportando cajas en sus almacenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-vuelve-liar-freidora-cosori-top-ventas-ahora-barata-prime-day-1323360'>Amazon la vuelve a liar con la freidora Cosori top ventas: es ahora más barata que en el Prime Day</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-vuelve-liar-freidora-cosori-top-ventas-ahora-barata-prime-day-1323360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cosori-freidora-aceite-2658901.jpg?tf=1200x' alt='Amazon la vuelve a liar con la freidora Cosori top ventas: es ahora más barata que en el Prime Day' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-estrenos-series-peliculas-noviembre-2023-1323366'>Todos los estrenos de Disney+ en noviembre, para que la subida de las cuotas sea más llevadera</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-plus-estrenos-series-peliculas-noviembre-2023-1323366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/todos-estrenos-disney-noviembre-subida-precios-sea-llevadera-3201914.jpg?tf=1200x' alt='Todos los estrenos de Disney+ en noviembre, para que la subida de las cuotas sea más llevadera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/acaba-tiempo-explotar-bug-permite-instalar-windows-11-cumplir-requisitos-1323362'>Se acaba el tiempo para explotar el bug que permite instalar Windows 11 sin cumplir los requisitos</a></h4>
-    <a href='https://computerhoy.com/windows/acaba-tiempo-explotar-bug-permite-instalar-windows-11-cumplir-requisitos-1323362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aplicaciones-abiertas-windows-11-3150200.jpg?tf=1200x' alt='Se acaba el tiempo para explotar el bug que permite instalar Windows 11 sin cumplir los requisitos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cargadores-fantasma-amenaza-silenciosa-factura-luz-1323356'>Cargadores fantasma: la amenaza silenciosa para tu factura de la luz</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cargadores-fantasma-amenaza-silenciosa-factura-luz-1323356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-conectado-usb-c-3143608.jpg?tf=1200x' alt='Cargadores fantasma: la amenaza silenciosa para tu factura de la luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-recuperar-recubrimiento-antiadherente-sartenes-ollas-1322832'>Cómo recuperar el recubrimiento antiadherente de sartenes y ollas</a></h4>
-    <a href='https://computerhoy.com/life/como-recuperar-recubrimiento-antiadherente-sartenes-ollas-1322832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-recuperar-recubrimiento-antiadherente-sartenes-ollas-3200814.jpg?tf=1200x' alt='Cómo recuperar el recubrimiento antiadherente de sartenes y ollas' />
     </a>
 </div>
 
