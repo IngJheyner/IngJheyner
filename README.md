@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-potencial-flipper-zero-tamagotchi-hackers-1322382'>Descubren cómo liberar el verdadero potencial de Flipper Zero, el Tamagotchi para hackers</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-liberar-potencial-flipper-zero-tamagotchi-hackers-1322382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/flipper-zero-3201478.jpg?tf=1200x' alt='Descubren cómo liberar el verdadero potencial de Flipper Zero, el Tamagotchi para hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/concurso-un-dos-tres-thegrefg-1323576'>20 años después ha vuelto el Un, Dos, Tres, pero con influencers y para jóvenes</a></h4>
     <a href='https://computerhoy.com/entretenimiento/concurso-un-dos-tres-thegrefg-1323576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/20-anos-despues-ha-vuelto-dos-tres-pero-influencers-jovenes-3201968.jpg?tf=1200x' alt='20 años después ha vuelto el Un, Dos, Tres, pero con influencers y para jóvenes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-vuelve-liar-freidora-cosori-top-ventas-ahora-barata-prime-day-1323360'>Amazon la vuelve a liar con la freidora Cosori top ventas: es ahora más barata que en el Prime Day</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-vuelve-liar-freidora-cosori-top-ventas-ahora-barata-prime-day-1323360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cosori-freidora-aceite-2658901.jpg?tf=1200x' alt='Amazon la vuelve a liar con la freidora Cosori top ventas: es ahora más barata que en el Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-estrenos-series-peliculas-noviembre-2023-1323366'>Todos los estrenos de Disney+ en noviembre, para que la subida de las cuotas sea más llevadera</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-plus-estrenos-series-peliculas-noviembre-2023-1323366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/todos-estrenos-disney-noviembre-subida-precios-sea-llevadera-3201914.jpg?tf=1200x' alt='Todos los estrenos de Disney+ en noviembre, para que la subida de las cuotas sea más llevadera' />
     </a>
 </div>
 
