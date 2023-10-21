@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-metodo-infalible-enfriar-dispositivos-electronicos-1323662'>Microsoft piensa en un método infalible para enfriar los dispositivos electrónicos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-metodo-infalible-enfriar-dispositivos-electronicos-1323662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cargador-movil-3202278.jpg?tf=1200x' alt='Microsoft piensa en un método infalible para enfriar los dispositivos electrónicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejor-alternativa-google-maps-actualiza-todas-estas-novedades-1323650'>La mejor alternativa para Google Maps se actualiza con todas estas novedades</a></h4>
+    <a href='https://computerhoy.com/apps/mejor-alternativa-google-maps-actualiza-todas-estas-novedades-1323650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/here-wego-3202270.jpg?tf=1200x' alt='La mejor alternativa para Google Maps se actualiza con todas estas novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/efectivo-metodo-memorizar-absolutamente-todo-2-pasos-1278444'>Así es el efectivo método que te permitirá memorizar absolutamente todo en 2 pasos</a></h4>
     <a href='https://computerhoy.com/life/efectivo-metodo-memorizar-absolutamente-todo-2-pasos-1278444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/memoria-3202264.jpg?tf=1200x' alt='Así es el efectivo método que te permitirá memorizar absolutamente todo en 2 pasos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/facil-windows-11-te-permitira-compartir-contrasena-wifi-1323630'>Así de fácil Windows 11 te permitirá compartir tu contraseña del WiFi con quien quieras</a></h4>
     <a href='https://computerhoy.com/windows/facil-windows-11-te-permitira-compartir-contrasena-wifi-1323630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/wifi-seguridad-3196804.jpg?tf=1200x' alt='Así de fácil Windows 11 te permitirá compartir tu contraseña del WiFi con quien quieras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/ciudad-japonesa-probando-carga-inalambrica-coches-electricos-semaforos-1323628'>Esta ciudad japonesa está probando la carga inalámbrica de coches eléctricos en los semáforos</a></h4>
-    <a href='https://computerhoy.com/motor/ciudad-japonesa-probando-carga-inalambrica-coches-electricos-semaforos-1323628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/semaforo-3202252.jpg?tf=1200x' alt='Esta ciudad japonesa está probando la carga inalámbrica de coches eléctricos en los semáforos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estafa-smartwatch-auriculares-buzon-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estafa-smartwatch-auriculares-buzon-brushing-malware-1265776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/peligro-buzon-3202228.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses' />
     </a>
 </div>
 
