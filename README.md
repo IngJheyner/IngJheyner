@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coches-electricos-cada-vez-mayor-riesgo-no-ser-cubiertos-seguro-1323622'>Los coches eléctricos y el cada vez mayor riesgo de no ser cubiertos por un seguro</a></h4>
-    <a href='https://computerhoy.com/motor/coches-electricos-cada-vez-mayor-riesgo-no-ser-cubiertos-seguro-1323622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg?tf=1200x' alt='Los coches eléctricos y el cada vez mayor riesgo de no ser cubiertos por un seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/windows-11-mostrar-siempre-extensiones-1320816'>Cómo hacer que Windows 11 muestre siempre las extensiones de los archivos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/windows-11-mostrar-siempre-extensiones-1320816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/extensiones-archivos-windows-11-3196862.jpg?tf=1200x' alt='Cómo hacer que Windows 11 muestre siempre las extensiones de los archivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/enganaron-amazon-vendieran-orina-como-bebida-energetica-1323614'>Así engañaron a Amazon para que vendieran orina como bebida energética</a></h4>
-    <a href='https://computerhoy.com/life/enganaron-amazon-vendieran-orina-como-bebida-energetica-1323614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/enganaron-amazon-vendiera-orina-como-bebida-energetica-3202234.jpg?tf=1200x' alt='Así engañaron a Amazon para que vendieran orina como bebida energética' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-auriculares-buzon-estafas-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-auriculares-buzon-estafas-brushing-malware-1265776' target='_blank'>
+    <h4><a href='https://computerhoy.com/tecnologia/estafa-smartwatch-auriculares-buzon-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estafa-smartwatch-auriculares-buzon-brushing-malware-1265776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/peligro-buzon-3202228.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/descubren-estas-aplicaciones-malware-suman-421-millones-descargas-debes-borrarlas-1323606'>Descubren estas aplicaciones con malware que suman más de 421 millones de descargas y debes borrarlas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/descubren-estas-aplicaciones-malware-suman-421-millones-descargas-debes-borrarlas-1323606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/malware-android-3202220.jpg?tf=1200x' alt='Descubren estas aplicaciones con malware que suman más de 421 millones de descargas y debes borrarlas' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-esconder-chats-bloqueados-mediante-codigo-secreto-1323626'>WhatsApp te permitirá esconder tus chats bloqueados mediante un código secreto y así funciona</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-esconder-chats-bloqueados-mediante-codigo-secreto-1323626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-privacidad-3202248.jpg?tf=1200x' alt='WhatsApp te permitirá esconder tus chats bloqueados mediante un código secreto y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-liquidando-portatil-windows-11-precio-ganga-cupon-descuento-1322610'>Huawei está liquidando un portátil con Windows 11 a precio de ganga, y con cupón descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-liquidando-portatil-windows-11-precio-ganga-cupon-descuento-1322610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/huawei-matebook-b3-520-3200288.jpg?tf=1200x' alt='Huawei está liquidando un portátil con Windows 11 a precio de ganga, y con cupón descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-instalacion-limpia-windows-11-1315418'>Cómo hacer una instalación limpia de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-instalacion-limpia-windows-11-1315418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/instalacion-limpia-windows-11-3201328.jpg?tf=1200x' alt='Cómo hacer una instalación limpia de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/coches-electricos-cada-vez-mayor-riesgo-no-ser-cubiertos-seguro-1323622'>Los coches eléctricos y el cada vez mayor riesgo de no ser cubiertos por un seguro</a></h4>
+    <a href='https://computerhoy.com/motor/coches-electricos-cada-vez-mayor-riesgo-no-ser-cubiertos-seguro-1323622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg?tf=1200x' alt='Los coches eléctricos y el cada vez mayor riesgo de no ser cubiertos por un seguro' />
     </a>
 </div>
 
