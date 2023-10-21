@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/efectivo-metodo-memorizar-absolutamente-todo-2-pasos-1278444'>Así es el efectivo método que te permitirá memorizar absolutamente todo en 2 pasos</a></h4>
+    <a href='https://computerhoy.com/life/efectivo-metodo-memorizar-absolutamente-todo-2-pasos-1278444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/memoria-3202264.jpg?tf=1200x' alt='Así es el efectivo método que te permitirá memorizar absolutamente todo en 2 pasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-sabado-21-octubre-2023-1323642'>Programación TV: ¿Qué ver hoy en televisión? Sábado 21 de octubre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-sabado-21-octubre-2023-1323642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-sabado-21-octubre-2023-3202262.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Sábado 21 de octubre de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/facil-windows-11-te-permitira-compartir-contrasena-wifi-1323630'>Así de fácil Windows 11 te permitirá compartir tu contraseña del WiFi con quien quieras</a></h4>
+    <a href='https://computerhoy.com/windows/facil-windows-11-te-permitira-compartir-contrasena-wifi-1323630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/wifi-seguridad-3196804.jpg?tf=1200x' alt='Así de fácil Windows 11 te permitirá compartir tu contraseña del WiFi con quien quieras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/ciudad-japonesa-probando-carga-inalambrica-coches-electricos-semaforos-1323628'>Esta ciudad japonesa está probando la carga inalámbrica de coches eléctricos en los semáforos</a></h4>
+    <a href='https://computerhoy.com/motor/ciudad-japonesa-probando-carga-inalambrica-coches-electricos-semaforos-1323628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/semaforo-3202252.jpg?tf=1200x' alt='Esta ciudad japonesa está probando la carga inalámbrica de coches eléctricos en los semáforos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estafa-smartwatch-auriculares-buzon-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses</a></h4>
     <a href='https://computerhoy.com/tecnologia/estafa-smartwatch-auriculares-buzon-brushing-malware-1265776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/peligro-buzon-3202228.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-esconder-chats-bloqueados-mediante-codigo-secreto-1323626'>WhatsApp te permitirá esconder tus chats bloqueados mediante un código secreto y así funciona</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-esconder-chats-bloqueados-mediante-codigo-secreto-1323626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-privacidad-3202248.jpg?tf=1200x' alt='WhatsApp te permitirá esconder tus chats bloqueados mediante un código secreto y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-liquidando-portatil-windows-11-precio-ganga-cupon-descuento-1322610'>Huawei está liquidando un portátil con Windows 11 a precio de ganga, y con cupón descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-liquidando-portatil-windows-11-precio-ganga-cupon-descuento-1322610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/huawei-matebook-b3-520-3200288.jpg?tf=1200x' alt='Huawei está liquidando un portátil con Windows 11 a precio de ganga, y con cupón descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-instalacion-limpia-windows-11-1315418'>Cómo hacer una instalación limpia de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-instalacion-limpia-windows-11-1315418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/instalacion-limpia-windows-11-3201328.jpg?tf=1200x' alt='Cómo hacer una instalación limpia de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coches-electricos-cada-vez-mayor-riesgo-no-ser-cubiertos-seguro-1323622'>Los coches eléctricos y el cada vez mayor riesgo de no ser cubiertos por un seguro</a></h4>
-    <a href='https://computerhoy.com/motor/coches-electricos-cada-vez-mayor-riesgo-no-ser-cubiertos-seguro-1323622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg?tf=1200x' alt='Los coches eléctricos y el cada vez mayor riesgo de no ser cubiertos por un seguro' />
     </a>
 </div>
 
