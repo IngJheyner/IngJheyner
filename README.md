@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/precio-locura-bombilla-wifi-alexa-cuesta-ya-mucho-menos-piensas-1323580'>Precio de locura: esta bombilla WiFi con Alexa cuesta ya mucho menos de lo que piensas</a></h4>
-    <a href='https://computerhoy.com/hogar/precio-locura-bombilla-wifi-alexa-cuesta-ya-mucho-menos-piensas-1323580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/tp-link-tapo-l520e-3083032.jpg?tf=1200x' alt='Precio de locura: esta bombilla WiFi con Alexa cuesta ya mucho menos de lo que piensas' />
+    <h4><a href='https://computerhoy.com/motor/coches-electricos-cada-vez-mayor-riesgo-no-ser-cubiertos-seguro-1323622'>Los coches eléctricos y el cada vez mayor riesgo de no ser cubiertos por un seguro</a></h4>
+    <a href='https://computerhoy.com/motor/coches-electricos-cada-vez-mayor-riesgo-no-ser-cubiertos-seguro-1323622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/coche-electrico-estacion-carga-2538519.jpg?tf=1200x' alt='Los coches eléctricos y el cada vez mayor riesgo de no ser cubiertos por un seguro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/rompiendo-estereotipo-espanol-he-estado-semana-echarme-siesta-resultado-1319652'>Rompiendo con el estereotipo español: he estado una semana sin echarme la siesta y este es el resultado</a></h4>
-    <a href='https://computerhoy.com/life/rompiendo-estereotipo-espanol-he-estado-semana-echarme-siesta-resultado-1319652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dormir-siesta-3195146.jpg?tf=1200x' alt='Rompiendo con el estereotipo español: he estado una semana sin echarme la siesta y este es el resultado' />
+    <h4><a href='https://computerhoy.com/tutoriales/windows-11-mostrar-siempre-extensiones-1320816'>Cómo hacer que Windows 11 muestre siempre las extensiones de los archivos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/windows-11-mostrar-siempre-extensiones-1320816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/extensiones-archivos-windows-11-3196862.jpg?tf=1200x' alt='Cómo hacer que Windows 11 muestre siempre las extensiones de los archivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guia-definitiva-identificar-phishing-protegerte-correos-quieren-estafarte-1317400'>Guía definitiva para identificar el 'phishing' y protegerte de correos que quieren estafarte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guia-definitiva-identificar-phishing-protegerte-correos-quieren-estafarte-1317400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/phishing-3196152.jpg?tf=1200x' alt='Guía definitiva para identificar el 'phishing' y protegerte de correos que quieren estafarte' />
+    <h4><a href='https://computerhoy.com/life/enganaron-amazon-vendieran-orina-como-bebida-energetica-1323614'>Así engañaron a Amazon para que vendieran orina como bebida energética</a></h4>
+    <a href='https://computerhoy.com/life/enganaron-amazon-vendieran-orina-como-bebida-energetica-1323614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/enganaron-amazon-vendiera-orina-como-bebida-energetica-3202234.jpg?tf=1200x' alt='Así engañaron a Amazon para que vendieran orina como bebida energética' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/caracteristica-destacada-iphone-15-plus-usb-c-todo-conlleva-1323148'>La característica más destacada del iPhone 15 Plus: USB-C y todo lo que conlleva </a></h4>
-    <a href='https://computerhoy.com/apple/caracteristica-destacada-iphone-15-plus-usb-c-todo-conlleva-1323148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='La característica más destacada del iPhone 15 Plus: USB-C y todo lo que conlleva ' />
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-auriculares-buzon-estafas-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-auriculares-buzon-estafas-brushing-malware-1265776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/peligro-buzon-3202228.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/kobo-libra-2-merece-pena-alternativa-kindle-1323108'>Me compré este lector de ebooks y ahora me ha convencido tanto que jamás volveré a comprar un Kindle</a></h4>
-    <a href='https://computerhoy.com/tecnologia/kobo-libra-2-merece-pena-alternativa-kindle-1323108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kobo-libra-2-3201546.jpg?tf=1200x' alt='Me compré este lector de ebooks y ahora me ha convencido tanto que jamás volveré a comprar un Kindle' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/descubren-estas-aplicaciones-malware-suman-421-millones-descargas-debes-borrarlas-1323606'>Descubren estas aplicaciones con malware que suman más de 421 millones de descargas y debes borrarlas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/descubren-estas-aplicaciones-malware-suman-421-millones-descargas-debes-borrarlas-1323606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/malware-android-3202220.jpg?tf=1200x' alt='Descubren estas aplicaciones con malware que suman más de 421 millones de descargas y debes borrarlas' />
     </a>
 </div>
 
