@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-crea-modelo-anuncio-television-1323672'>Una IA crea una modelo en vídeo para un anuncio, mucha gente no puede distinguir si es real o no</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-crea-modelo-anuncio-television-1323672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697865980460-3202186.jpg?tf=1200x' alt='Una IA crea una modelo en vídeo para un anuncio, mucha gente no puede distinguir si es real o no' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-metodo-infalible-enfriar-dispositivos-electronicos-1323662'>Microsoft piensa en un método infalible para enfriar los dispositivos electrónicos</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-piensa-metodo-infalible-enfriar-dispositivos-electronicos-1323662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cargador-movil-3202278.jpg?tf=1200x' alt='Microsoft piensa en un método infalible para enfriar los dispositivos electrónicos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-sabado-21-octubre-2023-1323642'>Programación TV: ¿Qué ver hoy en televisión? Sábado 21 de octubre de 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-sabado-21-octubre-2023-1323642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-sabado-21-octubre-2023-3202262.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Sábado 21 de octubre de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/facil-windows-11-te-permitira-compartir-contrasena-wifi-1323630'>Así de fácil Windows 11 te permitirá compartir tu contraseña del WiFi con quien quieras</a></h4>
-    <a href='https://computerhoy.com/windows/facil-windows-11-te-permitira-compartir-contrasena-wifi-1323630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/wifi-seguridad-3196804.jpg?tf=1200x' alt='Así de fácil Windows 11 te permitirá compartir tu contraseña del WiFi con quien quieras' />
     </a>
 </div>
 
