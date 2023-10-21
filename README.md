@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-potencial-flipper-zero-tamagotchi-hackers-1322382'>Descubren cómo liberar el verdadero potencial de Flipper Zero, el Tamagotchi para hackers</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-liberar-potencial-flipper-zero-tamagotchi-hackers-1322382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/flipper-zero-3201478.jpg?tf=1200x' alt='Descubren cómo liberar el verdadero potencial de Flipper Zero, el Tamagotchi para hackers' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/guia-definitiva-identificar-phishing-protegerte-correos-quieren-estafarte-1317400'>Guía definitiva para identificar el 'phishing' y protegerte de correos que quieren estafarte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/guia-definitiva-identificar-phishing-protegerte-correos-quieren-estafarte-1317400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/phishing-3196152.jpg?tf=1200x' alt='Guía definitiva para identificar el 'phishing' y protegerte de correos que quieren estafarte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/concurso-un-dos-tres-thegrefg-1323576'>20 años después ha vuelto el Un, Dos, Tres, pero con influencers y para jóvenes</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/concurso-un-dos-tres-thegrefg-1323576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/20-anos-despues-ha-vuelto-dos-tres-pero-influencers-jovenes-3201968.jpg?tf=1200x' alt='20 años después ha vuelto el Un, Dos, Tres, pero con influencers y para jóvenes' />
+    <h4><a href='https://computerhoy.com/apple/caracteristica-destacada-iphone-15-plus-usb-c-todo-conlleva-1323148'>La característica más destacada del iPhone 15 Plus: USB-C y todo lo que conlleva </a></h4>
+    <a href='https://computerhoy.com/apple/caracteristica-destacada-iphone-15-plus-usb-c-todo-conlleva-1323148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='La característica más destacada del iPhone 15 Plus: USB-C y todo lo que conlleva ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-descubierto-mi-movil-tiene-fecha-caducidad-puedes-encontrar-1323374'>He descubierto que mi móvil tiene "fecha de caducidad" y así puedes encontrar la tuya</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-descubierto-mi-movil-tiene-fecha-caducidad-puedes-encontrar-1323374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peligro-corres-no-desactivas-wifi-movil-salir-casa-2972376.jpg?tf=1200x' alt='He descubierto que mi móvil tiene "fecha de caducidad" y así puedes encontrar la tuya' />
+    <h4><a href='https://computerhoy.com/tecnologia/kobo-libra-2-merece-pena-alternativa-kindle-1323108'>Me compré este lector de ebooks y ahora me ha convencido tanto que jamás volveré a comprar un Kindle</a></h4>
+    <a href='https://computerhoy.com/tecnologia/kobo-libra-2-merece-pena-alternativa-kindle-1323108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kobo-libra-2-3201546.jpg?tf=1200x' alt='Me compré este lector de ebooks y ahora me ha convencido tanto que jamás volveré a comprar un Kindle' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-androide-digit-clasificando-paquetes-1323376'>Amazon ya tiene androides transportando cajas en sus almacenes</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-androide-digit-clasificando-paquetes-1323376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-ya-tiene-robots-humanoides-clasificando-paquetes-almacenes-3201938.jpg?tf=1200x' alt='Amazon ya tiene androides transportando cajas en sus almacenes' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-silenciar-llamadas-mensajes-contacto-especifico-iphone-1302044'>Cómo silenciar llamadas y mensajes de un contacto específico en iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-silenciar-llamadas-mensajes-contacto-especifico-iphone-1302044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/llamada-iphone-3129344.jpg?tf=1200x' alt='Cómo silenciar llamadas y mensajes de un contacto específico en iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-vuelve-liar-freidora-cosori-top-ventas-ahora-barata-prime-day-1323360'>Amazon la vuelve a liar con la freidora Cosori top ventas: es ahora más barata que en el Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-vuelve-liar-freidora-cosori-top-ventas-ahora-barata-prime-day-1323360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/cosori-freidora-aceite-2658901.jpg?tf=1200x' alt='Amazon la vuelve a liar con la freidora Cosori top ventas: es ahora más barata que en el Prime Day' />
+    <h4><a href='https://computerhoy.com/android/he-cambiado-android-ios-sistema-no-estoy-acostumbrado-1319722'>Me he cambiado de Android a iOS: mi experiencia con un sistema operativo al que no estoy acostumbrado</a></h4>
+    <a href='https://computerhoy.com/android/he-cambiado-android-ios-sistema-no-estoy-acostumbrado-1319722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/samsung-android-ios-apple-iphone-3195426.jpg?tf=1200x' alt='Me he cambiado de Android a iOS: mi experiencia con un sistema operativo al que no estoy acostumbrado' />
     </a>
 </div>
 
