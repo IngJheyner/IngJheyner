@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/xbox-playstation-anuncio-esfera-las-vegas-espectacular-1323964'>Xbox y PlayStation llevan su rivalidad a la Esfera de Las Vegas, y es espectacular</a></h4>
+    <a href='https://computerhoy.com/gaming/xbox-playstation-anuncio-esfera-las-vegas-espectacular-1323964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xbox-playstation-llevan-rivalidad-esfera-vegas-espectacular-3202664.jpg?tf=1200x' alt='Xbox y PlayStation llevan su rivalidad a la Esfera de Las Vegas, y es espectacular' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nokia-despide-14000-trabajadores-1323958'>Un mito en peligro: Nokia despide a 14.000 trabajadores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nokia-despide-14000-trabajadores-1323958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/mito-peligro-nokia-despide-14000-trabajadores-3202656.jpg?tf=1200x' alt='Un mito en peligro: Nokia despide a 14.000 trabajadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/quitar-anuncios-youtube-chrome-windows-phone-1323950'>Descubren un truco de los tiempos de Windows Phone, para quitar todos los anuncios de YouTube</a></h4>
     <a href='https://computerhoy.com/google/quitar-anuncios-youtube-chrome-windows-phone-1323950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/descubren-truco-tiempos-windows-phone-quitar-todos-anuncios-youtube-3202620.jpg?tf=1200x' alt='Descubren un truco de los tiempos de Windows Phone, para quitar todos los anuncios de YouTube' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/cybertruck-disparos-bala-elon-musk-blindaje-antibalas-1323934'>Se cruza con un Cybertruck ametrallado, Elon Musk confiesa: "le vaciamos el cargador, es a prueba de balas"</a></h4>
     <a href='https://computerhoy.com/motor/cybertruck-disparos-bala-elon-musk-blindaje-antibalas-1323934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cruza-cybertruck-ametrallado-elon-musk-confiesa-vaciamos-cargador-prueba-balas-3202602.jpg?tf=1200x' alt='Se cruza con un Cybertruck ametrallado, Elon Musk confiesa: "le vaciamos el cargador, es a prueba de balas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-domingo-22-octubre-2023-1323676'>Programación TV: ¿Qué ver hoy en televisión? Domingo 22 de octubre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-domingo-22-octubre-2023-1323676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-domingo-22-octubre-2023-3202300.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Domingo 22 de octubre de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/sonda-juno-captura-humo-volcanes-luna-io-jupiter-1323916'>La sonda Juno se acerca tanto al mundo más volcánico del Sistema Solar, que se puede ver el humo</a></h4>
-    <a href='https://computerhoy.com/espacio/sonda-juno-captura-humo-volcanes-luna-io-jupiter-1323916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sonda-juno-acerca-tanto-mundo-volcanico-sistema-solar-puede-ver-humo-3202566.jpg?tf=1200x' alt='La sonda Juno se acerca tanto al mundo más volcánico del Sistema Solar, que se puede ver el humo' />
     </a>
 </div>
 
