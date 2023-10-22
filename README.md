@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/quitar-anuncios-youtube-chrome-windows-phone-1323950'>Descubren un truco de los tiempos de Windows Phone, para quitar todos los anuncios de YouTube</a></h4>
+    <a href='https://computerhoy.com/google/quitar-anuncios-youtube-chrome-windows-phone-1323950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/descubren-truco-tiempos-windows-phone-quitar-todos-anuncios-youtube-3202620.jpg?tf=1200x' alt='Descubren un truco de los tiempos de Windows Phone, para quitar todos los anuncios de YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/blizzard-sortea-pc-refrigerado-sangre-humana-1323942'>Blizzard sortea un PC refrigerado con sangre humana</a></h4>
+    <a href='https://computerhoy.com/gaming/blizzard-sortea-pc-refrigerado-sangre-humana-1323942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/blizzard-sortea-pc-refrigerado-sangre-humana-3202604.jpg?tf=1200x' alt='Blizzard sortea un PC refrigerado con sangre humana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/cybertruck-disparos-bala-elon-musk-blindaje-antibalas-1323934'>Se cruza con un Cybertruck ametrallado, Elon Musk confiesa: "le vaciamos el cargador, es a prueba de balas"</a></h4>
     <a href='https://computerhoy.com/motor/cybertruck-disparos-bala-elon-musk-blindaje-antibalas-1323934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cruza-cybertruck-ametrallado-elon-musk-confiesa-vaciamos-cargador-prueba-balas-3202602.jpg?tf=1200x' alt='Se cruza con un Cybertruck ametrallado, Elon Musk confiesa: "le vaciamos el cargador, es a prueba de balas"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/sonda-juno-captura-humo-volcanes-luna-io-jupiter-1323916'>La sonda Juno se acerca tanto al mundo más volcánico del Sistema Solar, que se puede ver el humo</a></h4>
     <a href='https://computerhoy.com/espacio/sonda-juno-captura-humo-volcanes-luna-io-jupiter-1323916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sonda-juno-acerca-tanto-mundo-volcanico-sistema-solar-puede-ver-humo-3202566.jpg?tf=1200x' alt='La sonda Juno se acerca tanto al mundo más volcánico del Sistema Solar, que se puede ver el humo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/5-palabras-pueden-llevarte-exito-steve-jobs-warren-buffett-1323910'>Las 5 palabras que pueden llevarte al éxito, según Steve Jobs y Warren Buffett</a></h4>
-    <a href='https://computerhoy.com/life/5-palabras-pueden-llevarte-exito-steve-jobs-warren-buffett-1323910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/alcanzar-exito-3202522.jpg?tf=1200x' alt='Las 5 palabras que pueden llevarte al éxito, según Steve Jobs y Warren Buffett' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-quiere-vision-pro-tambien-sean-utilizadas-dentro-vehiculos-1323904'>Apple quiere que sus Vision Pro también sean utilizadas dentro de los vehículos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-quiere-vision-pro-tambien-sean-utilizadas-dentro-vehiculos-1323904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='Apple quiere que sus Vision Pro también sean utilizadas dentro de los vehículos' />
     </a>
 </div>
 
