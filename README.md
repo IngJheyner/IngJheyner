@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/mejores-pulseras-inteligentes-menos-30-euros-ofertas-894779'>7 pulseras inteligentes de menos de 50€ que tienen poco que envidiar a muchos relojes</a></h4>
-    <a href='https://computerhoy.com/reportajes/mejores-pulseras-inteligentes-menos-30-euros-ofertas-894779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-smart-band-8-3197310.jpg?tf=1200x' alt='7 pulseras inteligentes de menos de 50€ que tienen poco que envidiar a muchos relojes' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/sabes-vishing-tipo-estafa-cada-vez-popular-puede-acabar-intimidad-1320892'>¿Sabes qué es el 'vishing'? Este tipo de estafa cada vez más popular puede acabar con tu intimidad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/sabes-vishing-tipo-estafa-cada-vez-popular-puede-acabar-intimidad-1320892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estafa-telefonica-3200580.jpg?tf=1200x' alt='¿Sabes qué es el 'vishing'? Este tipo de estafa cada vez más popular puede acabar con tu intimidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/suspender-apagar-hibernar-pc-windows-aconsejable-1323028'>Suspender, apagar o hibernar un PC con Windows, ¿qué es lo más aconsejable?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/suspender-apagar-hibernar-pc-windows-aconsejable-1323028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/suspender-apagar-hibernar-pc-windows-aconsejable-3201016.jpg?tf=1200x' alt='Suspender, apagar o hibernar un PC con Windows, ¿qué es lo más aconsejable?' />
+    <h4><a href='https://computerhoy.com/industria/upselling-como-ejecutan-empresas-como-amazon-aliexpress-1313126'>¿Qué es el 'upselling' y cómo la ejecutan empresas como Amazon o AliExpress?</a></h4>
+    <a href='https://computerhoy.com/industria/upselling-como-ejecutan-empresas-como-amazon-aliexpress-1313126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697801916924-3201544.jpg?tf=1200x' alt='¿Qué es el 'upselling' y cómo la ejecutan empresas como Amazon o AliExpress?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-crea-modelo-anuncio-television-1323672'>Una IA crea una modelo en vídeo para un anuncio, mucha gente no puede distinguir si es real o no</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-crea-modelo-anuncio-television-1323672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697865980460-3202186.jpg?tf=1200x' alt='Una IA crea una modelo en vídeo para un anuncio, mucha gente no puede distinguir si es real o no' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-contrasenas-wifi-aunque-no-estes-conectado-windows-mac-ios-android-1321914'>Cómo ver las contraseñas WiFi aunque no estés conectado en Windows, Mac, iOS y Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-contrasenas-wifi-aunque-no-estes-conectado-windows-mac-ios-android-1321914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/wifi-3199136.jpg?tf=1200x' alt='Cómo ver las contraseñas WiFi aunque no estés conectado en Windows, Mac, iOS y Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-metodo-infalible-enfriar-dispositivos-electronicos-1323662'>Microsoft piensa en un método infalible para enfriar los dispositivos electrónicos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-metodo-infalible-enfriar-dispositivos-electronicos-1323662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cargador-movil-3202278.jpg?tf=1200x' alt='Microsoft piensa en un método infalible para enfriar los dispositivos electrónicos' />
+    <h4><a href='https://computerhoy.com/hogar/estaciones-climatologicas-informacion-mejores-modelos-1193504'>Estaciones climatológicas: qué debes tener en cuenta y cuáles son las mejores</a></h4>
+    <a href='https://computerhoy.com/hogar/estaciones-climatologicas-informacion-mejores-modelos-1193504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estacion-metereologica-netatmo-3202492.jpg?tf=1200x' alt='Estaciones climatológicas: qué debes tener en cuenta y cuáles son las mejores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejor-alternativa-google-maps-actualiza-todas-estas-novedades-1323650'>La mejor alternativa para Google Maps se actualiza con todas estas novedades</a></h4>
-    <a href='https://computerhoy.com/apps/mejor-alternativa-google-maps-actualiza-todas-estas-novedades-1323650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/here-wego-3202270.jpg?tf=1200x' alt='La mejor alternativa para Google Maps se actualiza con todas estas novedades' />
+    <h4><a href='https://computerhoy.com/tecnologia/cientificos-usan-ia-hacer-robots-puedan-realizar-multiples-tareas-1323656'>Científicos usan IA para hacer que los robots puedan realizar múltiples tareas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cientificos-usan-ia-hacer-robots-puedan-realizar-multiples-tareas-1323656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cientificos-usan-ia-hacer-robots-puedan-realizar-multiples-tareas-3202274.jpg?tf=1200x' alt='Científicos usan IA para hacer que los robots puedan realizar múltiples tareas' />
     </a>
 </div>
 
