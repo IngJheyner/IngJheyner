@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cybertruck-disparos-bala-elon-musk-blindaje-antibalas-1323934'>Se cruza con un Cybertruck ametrallado, Elon Musk confiesa: "le vaciamos el cargador, es a prueba de balas"</a></h4>
+    <a href='https://computerhoy.com/motor/cybertruck-disparos-bala-elon-musk-blindaje-antibalas-1323934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cruza-cybertruck-ametrallado-elon-musk-confiesa-vaciamos-cargador-prueba-balas-3202602.jpg?tf=1200x' alt='Se cruza con un Cybertruck ametrallado, Elon Musk confiesa: "le vaciamos el cargador, es a prueba de balas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-domingo-22-octubre-2023-1323676'>Programación TV: ¿Qué ver hoy en televisión? Domingo 22 de octubre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-domingo-22-octubre-2023-1323676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-domingo-22-octubre-2023-3202300.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Domingo 22 de octubre de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/sonda-juno-captura-humo-volcanes-luna-io-jupiter-1323916'>La sonda Juno se acerca tanto al mundo más volcánico del Sistema Solar, que se puede ver el humo</a></h4>
+    <a href='https://computerhoy.com/espacio/sonda-juno-captura-humo-volcanes-luna-io-jupiter-1323916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sonda-juno-acerca-tanto-mundo-volcanico-sistema-solar-puede-ver-humo-3202566.jpg?tf=1200x' alt='La sonda Juno se acerca tanto al mundo más volcánico del Sistema Solar, que se puede ver el humo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/5-palabras-pueden-llevarte-exito-steve-jobs-warren-buffett-1323910'>Las 5 palabras que pueden llevarte al éxito, según Steve Jobs y Warren Buffett</a></h4>
+    <a href='https://computerhoy.com/life/5-palabras-pueden-llevarte-exito-steve-jobs-warren-buffett-1323910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/alcanzar-exito-3202522.jpg?tf=1200x' alt='Las 5 palabras que pueden llevarte al éxito, según Steve Jobs y Warren Buffett' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-quiere-vision-pro-tambien-sean-utilizadas-dentro-vehiculos-1323904'>Apple quiere que sus Vision Pro también sean utilizadas dentro de los vehículos</a></h4>
     <a href='https://computerhoy.com/apple/apple-quiere-vision-pro-tambien-sean-utilizadas-dentro-vehiculos-1323904' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='Apple quiere que sus Vision Pro también sean utilizadas dentro de los vehículos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/razon-siempre-debes-quitar-etiquetas-equipaje-bajar-avion-1316660'>La razón por la que siempre debes quitar las etiquetas del equipaje al bajar del avión</a></h4>
-    <a href='https://computerhoy.com/life/razon-siempre-debes-quitar-etiquetas-equipaje-bajar-avion-1316660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/etiqueta-avion-maleta-3201214.jpg?tf=1200x' alt='La razón por la que siempre debes quitar las etiquetas del equipaje al bajar del avión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ahora-movil-android-sera-mucho-seguro-gracias-nueva-funcionalidad-te-ofrece-google-1323902'>Ahora tu móvil Android será mucho más seguro gracias a esta nueva funcionalidad que te ofrece Google</a></h4>
-    <a href='https://computerhoy.com/android/ahora-movil-android-sera-mucho-seguro-gracias-nueva-funcionalidad-te-ofrece-google-1323902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-play-protect-3202518.jpg?tf=1200x' alt='Ahora tu móvil Android será mucho más seguro gracias a esta nueva funcionalidad que te ofrece Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-automaticamente-archivos-viejos-windows-11-1319662'>Cómo eliminar automáticamente archivos viejos en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-eliminar-automaticamente-archivos-viejos-windows-11-1319662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-eliminar-automaticamente-archivos-viejos-windows-11-3194780.jpg?tf=1200x' alt='Cómo eliminar automáticamente archivos viejos en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-va-dyson-ello-desploma-precio-aspiradora-inalambrica-cuesta-mitad-dyson-barata-1319582'>Xiaomi va a por Dyson y para ello desploma el precio de su aspiradora inalámbrica: cuesta la mitad que la Dyson más barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-va-dyson-ello-desploma-precio-aspiradora-inalambrica-cuesta-mitad-dyson-barata-1319582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-g9-plus-3194916.jpg?tf=1200x' alt='Xiaomi va a por Dyson y para ello desploma el precio de su aspiradora inalámbrica: cuesta la mitad que la Dyson más barata' />
     </a>
 </div>
 
