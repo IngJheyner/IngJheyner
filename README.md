@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-store-renueva-windows-10-windows-11-todos-estos-cambios-1323894'>Microsoft Store se renueva en Windows 10 y Windows 11 con todos estos cambios</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-store-renueva-windows-10-windows-11-todos-estos-cambios-1323894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-microsoft-store-3202512.jpg?tf=1200x' alt='Microsoft Store se renueva en Windows 10 y Windows 11 con todos estos cambios' />
+    <h4><a href='https://computerhoy.com/apple/apple-quiere-vision-pro-tambien-sean-utilizadas-dentro-vehiculos-1323904'>Apple quiere que sus Vision Pro también sean utilizadas dentro de los vehículos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-quiere-vision-pro-tambien-sean-utilizadas-dentro-vehiculos-1323904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='Apple quiere que sus Vision Pro también sean utilizadas dentro de los vehículos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/son-graficos-dedicados-windows-11-como-desactivarlos-cuando-deberias-hacerlo-1320688'>Qué son los gráficos dedicados de Windows 11, cómo desactivarlos y cuándo deberías hacerlo </a></h4>
-    <a href='https://computerhoy.com/tutoriales/son-graficos-dedicados-windows-11-como-desactivarlos-cuando-deberias-hacerlo-1320688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tarjeta-grafica-3201276.jpg?tf=1200x' alt='Qué son los gráficos dedicados de Windows 11, cómo desactivarlos y cuándo deberías hacerlo ' />
+    <h4><a href='https://computerhoy.com/life/razon-siempre-debes-quitar-etiquetas-equipaje-bajar-avion-1316660'>La razón por la que siempre debes quitar las etiquetas del equipaje al bajar del avión</a></h4>
+    <a href='https://computerhoy.com/life/razon-siempre-debes-quitar-etiquetas-equipaje-bajar-avion-1316660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/etiqueta-avion-maleta-3201214.jpg?tf=1200x' alt='La razón por la que siempre debes quitar las etiquetas del equipaje al bajar del avión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/dazn-podria-haber-encontrado-solucion-acabar-listas-iptv-piratas-1323890'>DAZN podría haber encontrado la solución para acabar con las listas IPTV piratas</a></h4>
-    <a href='https://computerhoy.com/internet/dazn-podria-haber-encontrado-solucion-acabar-listas-iptv-piratas-1323890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/futbol-iptv-3201772.jpg?tf=1200x' alt='DAZN podría haber encontrado la solución para acabar con las listas IPTV piratas' />
+    <h4><a href='https://computerhoy.com/android/ahora-movil-android-sera-mucho-seguro-gracias-nueva-funcionalidad-te-ofrece-google-1323902'>Ahora tu móvil Android será mucho más seguro gracias a esta nueva funcionalidad que te ofrece Google</a></h4>
+    <a href='https://computerhoy.com/android/ahora-movil-android-sera-mucho-seguro-gracias-nueva-funcionalidad-te-ofrece-google-1323902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-play-protect-3202518.jpg?tf=1200x' alt='Ahora tu móvil Android será mucho más seguro gracias a esta nueva funcionalidad que te ofrece Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/problemas-metaverso-mark-zuckerberg-sucediendo-1317398'>¿Por qué está en problemas el metaverso de Mark Zuckerberg? Estos son sus grandes desafíos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/problemas-metaverso-mark-zuckerberg-sucediendo-1317398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/metaverso-3196158.jpg?tf=1200x' alt='¿Por qué está en problemas el metaverso de Mark Zuckerberg? Estos son sus grandes desafíos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-automaticamente-archivos-viejos-windows-11-1319662'>Cómo eliminar automáticamente archivos viejos en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-eliminar-automaticamente-archivos-viejos-windows-11-1319662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-eliminar-automaticamente-archivos-viejos-windows-11-3194780.jpg?tf=1200x' alt='Cómo eliminar automáticamente archivos viejos en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-quitar-facilmente-etiquetas-tarros-cristal-1322142'>Cómo quitar fácilmente las etiquetas de los tarros de cristal</a></h4>
-    <a href='https://computerhoy.com/life/como-quitar-facilmente-etiquetas-tarros-cristal-1322142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tarro-mermelada-3202502.jpg?tf=1200x' alt='Cómo quitar fácilmente las etiquetas de los tarros de cristal' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-va-dyson-ello-desploma-precio-aspiradora-inalambrica-cuesta-mitad-dyson-barata-1319582'>Xiaomi va a por Dyson y para ello desploma el precio de su aspiradora inalámbrica: cuesta la mitad que la Dyson más barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-va-dyson-ello-desploma-precio-aspiradora-inalambrica-cuesta-mitad-dyson-barata-1319582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-g9-plus-3194916.jpg?tf=1200x' alt='Xiaomi va a por Dyson y para ello desploma el precio de su aspiradora inalámbrica: cuesta la mitad que la Dyson más barata' />
     </a>
 </div>
 
