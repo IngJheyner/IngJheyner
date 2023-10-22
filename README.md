@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/sabes-vishing-tipo-estafa-cada-vez-popular-puede-acabar-intimidad-1320892'>¿Sabes qué es el 'vishing'? Este tipo de estafa cada vez más popular puede acabar con tu intimidad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/sabes-vishing-tipo-estafa-cada-vez-popular-puede-acabar-intimidad-1320892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estafa-telefonica-3200580.jpg?tf=1200x' alt='¿Sabes qué es el 'vishing'? Este tipo de estafa cada vez más popular puede acabar con tu intimidad' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-store-renueva-windows-10-windows-11-todos-estos-cambios-1323894'>Microsoft Store se renueva en Windows 10 y Windows 11 con todos estos cambios</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-store-renueva-windows-10-windows-11-todos-estos-cambios-1323894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-microsoft-store-3202512.jpg?tf=1200x' alt='Microsoft Store se renueva en Windows 10 y Windows 11 con todos estos cambios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/upselling-como-ejecutan-empresas-como-amazon-aliexpress-1313126'>¿Qué es el 'upselling' y cómo la ejecutan empresas como Amazon o AliExpress?</a></h4>
-    <a href='https://computerhoy.com/industria/upselling-como-ejecutan-empresas-como-amazon-aliexpress-1313126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1697801916924-3201544.jpg?tf=1200x' alt='¿Qué es el 'upselling' y cómo la ejecutan empresas como Amazon o AliExpress?' />
+    <h4><a href='https://computerhoy.com/tutoriales/son-graficos-dedicados-windows-11-como-desactivarlos-cuando-deberias-hacerlo-1320688'>Qué son los gráficos dedicados de Windows 11, cómo desactivarlos y cuándo deberías hacerlo </a></h4>
+    <a href='https://computerhoy.com/tutoriales/son-graficos-dedicados-windows-11-como-desactivarlos-cuando-deberias-hacerlo-1320688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tarjeta-grafica-3201276.jpg?tf=1200x' alt='Qué son los gráficos dedicados de Windows 11, cómo desactivarlos y cuándo deberías hacerlo ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-contrasenas-wifi-aunque-no-estes-conectado-windows-mac-ios-android-1321914'>Cómo ver las contraseñas WiFi aunque no estés conectado en Windows, Mac, iOS y Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-contrasenas-wifi-aunque-no-estes-conectado-windows-mac-ios-android-1321914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/wifi-3199136.jpg?tf=1200x' alt='Cómo ver las contraseñas WiFi aunque no estés conectado en Windows, Mac, iOS y Android' />
+    <h4><a href='https://computerhoy.com/internet/dazn-podria-haber-encontrado-solucion-acabar-listas-iptv-piratas-1323890'>DAZN podría haber encontrado la solución para acabar con las listas IPTV piratas</a></h4>
+    <a href='https://computerhoy.com/internet/dazn-podria-haber-encontrado-solucion-acabar-listas-iptv-piratas-1323890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/futbol-iptv-3201772.jpg?tf=1200x' alt='DAZN podría haber encontrado la solución para acabar con las listas IPTV piratas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/estaciones-climatologicas-informacion-mejores-modelos-1193504'>Estaciones climatológicas: qué debes tener en cuenta y cuáles son las mejores</a></h4>
-    <a href='https://computerhoy.com/hogar/estaciones-climatologicas-informacion-mejores-modelos-1193504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estacion-metereologica-netatmo-3202492.jpg?tf=1200x' alt='Estaciones climatológicas: qué debes tener en cuenta y cuáles son las mejores' />
+    <h4><a href='https://computerhoy.com/tecnologia/problemas-metaverso-mark-zuckerberg-sucediendo-1317398'>¿Por qué está en problemas el metaverso de Mark Zuckerberg? Estos son sus grandes desafíos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/problemas-metaverso-mark-zuckerberg-sucediendo-1317398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/metaverso-3196158.jpg?tf=1200x' alt='¿Por qué está en problemas el metaverso de Mark Zuckerberg? Estos son sus grandes desafíos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cientificos-usan-ia-hacer-robots-puedan-realizar-multiples-tareas-1323656'>Científicos usan IA para hacer que los robots puedan realizar múltiples tareas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cientificos-usan-ia-hacer-robots-puedan-realizar-multiples-tareas-1323656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cientificos-usan-ia-hacer-robots-puedan-realizar-multiples-tareas-3202274.jpg?tf=1200x' alt='Científicos usan IA para hacer que los robots puedan realizar múltiples tareas' />
+    <h4><a href='https://computerhoy.com/life/como-quitar-facilmente-etiquetas-tarros-cristal-1322142'>Cómo quitar fácilmente las etiquetas de los tarros de cristal</a></h4>
+    <a href='https://computerhoy.com/life/como-quitar-facilmente-etiquetas-tarros-cristal-1322142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tarro-mermelada-3202502.jpg?tf=1200x' alt='Cómo quitar fácilmente las etiquetas de los tarros de cristal' />
     </a>
 </div>
 
