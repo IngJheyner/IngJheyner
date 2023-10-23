@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ahora-amigos-pueden-revisar-red-flags-match-tinder-1324386'>Ahora tus amigos pueden revisar tus match de Tinder en busca de “banderas rojas"</a></h4>
+    <a href='https://computerhoy.com/life/ahora-amigos-pueden-revisar-red-flags-match-tinder-1324386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ahora-amigos-pueden-revisar-match-tinder-busca-banderas-rojas-3203332.jpg?tf=1200x' alt='Ahora tus amigos pueden revisar tus match de Tinder en busca de “banderas rojas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/5-sencillos-trucos-hablar-persona-te-ha-bloqueado-whatsapp-1323136'>5 sencillos trucos para hablar con una persona que te ha bloqueado en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/moviles/5-sencillos-trucos-hablar-persona-te-ha-bloqueado-whatsapp-1323136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bloqueo-whatsapp-3203304.jpg?tf=1200x' alt='5 sencillos trucos para hablar con una persona que te ha bloqueado en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/historia-lenguajes-programacion-428041'>La historia de los lenguajes de programación</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/historia-lenguajes-programacion-428041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/programacion-ordenador-2828521.jpg?tf=1200x' alt='La historia de los lenguajes de programación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-anade-seguridad-chrome-nueva-funcion-ocultara-ip-funciona-1324318'>Google añade más seguridad a Chrome con esta nueva función que ocultará tu IP: así funciona</a></h4>
     <a href='https://computerhoy.com/google/google-anade-seguridad-chrome-nueva-funcion-ocultara-ip-funciona-1324318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/privacidad-chrome-3203240.jpg?tf=1200x' alt='Google añade más seguridad a Chrome con esta nueva función que ocultará tu IP: así funciona' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-anuncia-fin-soporte-algunos-dispositivos-significa-usuarios-1324306'>Netflix anuncia el fin del soporte en algunos dispositivos: ¿Qué significa para los usuarios? </a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-anuncia-fin-soporte-algunos-dispositivos-significa-usuarios-1324306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/netflix-smart-tv-3061928.jpg?tf=1200x' alt='Netflix anuncia el fin del soporte en algunos dispositivos: ¿Qué significa para los usuarios? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-casi-robo-16gb-ram-precio-barato-movil-1321446'>Este Mini PC es casi un robo: 16GB de RAM y precio más barato que un móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mini-pc-casi-robo-16gb-ram-precio-barato-movil-1321446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nipogi-ak1-pro-3198130.jpg?tf=1200x' alt='Este Mini PC es casi un robo: 16GB de RAM y precio más barato que un móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/motivo-steve-jobs-tiro-acuario-primer-prototipo-ipod-1324212'>Este es el motivo por el que Steve Jobs tiró a un acuario el primer prototipo de iPod</a></h4>
-    <a href='https://computerhoy.com/apple/motivo-steve-jobs-tiro-acuario-primer-prototipo-ipod-1324212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ipod-steve-jobs-3203064.jpg?tf=1200x' alt='Este es el motivo por el que Steve Jobs tiró a un acuario el primer prototipo de iPod' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-grandes-lideres-hacen-uso-regla-10-segundos-resolver-conflictos-1324176'>Así es como los grandes líderes hacen uso de la regla de los 10 segundos para resolver conflictos</a></h4>
-    <a href='https://computerhoy.com/life/como-grandes-lideres-hacen-uso-regla-10-segundos-resolver-conflictos-1324176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/lider-empresa-3202956.jpg?tf=1200x' alt='Así es como los grandes líderes hacen uso de la regla de los 10 segundos para resolver conflictos' />
     </a>
 </div>
 
