@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/motivo-steve-jobs-tiro-acuario-primer-prototipo-ipod-1324212'>Este es el motivo por el que Steve Jobs tiró a un acuario el primer prototipo de iPod</a></h4>
+    <a href='https://computerhoy.com/apple/motivo-steve-jobs-tiro-acuario-primer-prototipo-ipod-1324212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ipod-steve-jobs-3203064.jpg?tf=1200x' alt='Este es el motivo por el que Steve Jobs tiró a un acuario el primer prototipo de iPod' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-grandes-lideres-hacen-uso-regla-10-segundos-resolver-conflictos-1324176'>Así es como los grandes líderes hacen uso de la regla de los 10 segundos para resolver conflictos</a></h4>
+    <a href='https://computerhoy.com/life/como-grandes-lideres-hacen-uso-regla-10-segundos-resolver-conflictos-1324176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/lider-empresa-3202956.jpg?tf=1200x' alt='Así es como los grandes líderes hacen uso de la regla de los 10 segundos para resolver conflictos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tiemble-dyson-xiaomi-vende-espana-secador-pelo-cuesta-octava-parte-1321342'>¿Que tiemble Dyson? Xiaomi vende en España su secador de pelo, y cuesta la octava parte</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiemble-dyson-xiaomi-vende-espana-secador-pelo-cuesta-octava-parte-1321342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-h501-3197952.jpg?tf=1200x' alt='¿Que tiemble Dyson? Xiaomi vende en España su secador de pelo, y cuesta la octava parte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/enigma-planeta-nueve-realmente-planeta-1324162'>El enigma del Planeta Nueve: ¿es realmente un planeta?</a></h4>
+    <a href='https://computerhoy.com/espacio/enigma-planeta-nueve-realmente-planeta-1324162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/busca-planeta-nueve-nuevo-mundo-sistema-solar-no-pluton-3095042.jpg?tf=1200x' alt='El enigma del Planeta Nueve: ¿es realmente un planeta?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588'>Los 12 mejores móviles de Xiaomi por rango de precio</a></h4>
     <a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-12-pro-2649385.jpg?tf=1200x' alt='Los 12 mejores móviles de Xiaomi por rango de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/fabricante-moviles-crece-2023-no-conoces-1314384'>Este es el fabricante de móviles que más crece en el mundo en 2023, aunque puede que no lo conozcas</a></h4>
-    <a href='https://computerhoy.com/moviles/fabricante-moviles-crece-2023-no-conoces-1314384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tecno-pova-5-3150744.jpg?tf=1200x' alt='Este es el fabricante de móviles que más crece en el mundo en 2023, aunque puede que no lo conozcas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/gestores-contrasenas-1235216'>Mantén tu vida digital a salvo con los mejores gestores de contraseñas</a></h4>
-    <a href='https://computerhoy.com/mejores/gestores-contrasenas-1235216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/proton-pass-3202670.jpg?tf=1200x' alt='Mantén tu vida digital a salvo con los mejores gestores de contraseñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/xbox-playstation-anuncio-esfera-las-vegas-espectacular-1323964'>Xbox y PlayStation llevan su rivalidad a la Esfera de Las Vegas, y es espectacular</a></h4>
-    <a href='https://computerhoy.com/gaming/xbox-playstation-anuncio-esfera-las-vegas-espectacular-1323964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xbox-playstation-llevan-rivalidad-esfera-vegas-espectacular-3202664.jpg?tf=1200x' alt='Xbox y PlayStation llevan su rivalidad a la Esfera de Las Vegas, y es espectacular' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nokia-despide-14000-trabajadores-1323958'>Un mito en peligro: Nokia despide a 14.000 trabajadores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nokia-despide-14000-trabajadores-1323958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/mito-peligro-nokia-despide-14000-trabajadores-3202656.jpg?tf=1200x' alt='Un mito en peligro: Nokia despide a 14.000 trabajadores' />
     </a>
 </div>
 
