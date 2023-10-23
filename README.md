@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/elon-musk-steve-jobs-compartian-mismo-lado-oscuro-biografo-1324420'>Elon Musk y Steve Jobs compartían un mismo lado oscuro, según su biógrafo</a></h4>
+    <a href='https://computerhoy.com/life/elon-musk-steve-jobs-compartian-mismo-lado-oscuro-biografo-1324420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tactica-comun-steve-jobs-elon-musk-biografo-3203392.jpg?tf=1200x' alt='Elon Musk y Steve Jobs compartían un mismo lado oscuro, según su biógrafo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/guia-consejos-comprar-humidificador-712033'>Humidificadores: cuál es mejor, cómo funcionan y qué tener en cuenta al comprar uno</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/guia-consejos-comprar-humidificador-712033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/humidificador-2103003.jpg?tf=1200x' alt='Humidificadores: cuál es mejor, cómo funcionan y qué tener en cuenta al comprar uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cuenta-twitter-x-1324304'>Cómo borrar tu cuenta de Twitter X de forma definitiva</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-cuenta-twitter-x-1324304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-borrar-cuenta-twitter-x-forma-definitiva-3203158.jpg?tf=1200x' alt='Cómo borrar tu cuenta de Twitter X de forma definitiva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-meet-nuevos-filtros-belleza-videollamadas-1323204'>Google Meet escucha a sus usuarios: así son sus nuevos filtros de belleza para videollamadas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-meet-nuevos-filtros-belleza-videollamadas-1323204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-meet-3055314.jpg?tf=1200x' alt='Google Meet escucha a sus usuarios: así son sus nuevos filtros de belleza para videollamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ahora-amigos-pueden-revisar-red-flags-match-tinder-1324386'>Ahora tus amigos pueden revisar tus match de Tinder en busca de “banderas rojas"</a></h4>
     <a href='https://computerhoy.com/life/ahora-amigos-pueden-revisar-red-flags-match-tinder-1324386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ahora-amigos-pueden-revisar-match-tinder-busca-banderas-rojas-3203332.jpg?tf=1200x' alt='Ahora tus amigos pueden revisar tus match de Tinder en busca de “banderas rojas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/5-sencillos-trucos-hablar-persona-te-ha-bloqueado-whatsapp-1323136'>5 sencillos trucos para hablar con una persona que te ha bloqueado en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/moviles/5-sencillos-trucos-hablar-persona-te-ha-bloqueado-whatsapp-1323136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bloqueo-whatsapp-3203304.jpg?tf=1200x' alt='5 sencillos trucos para hablar con una persona que te ha bloqueado en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/historia-lenguajes-programacion-428041'>La historia de los lenguajes de programación</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/historia-lenguajes-programacion-428041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/programacion-ordenador-2828521.jpg?tf=1200x' alt='La historia de los lenguajes de programación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-anade-seguridad-chrome-nueva-funcion-ocultara-ip-funciona-1324318'>Google añade más seguridad a Chrome con esta nueva función que ocultará tu IP: así funciona</a></h4>
-    <a href='https://computerhoy.com/google/google-anade-seguridad-chrome-nueva-funcion-ocultara-ip-funciona-1324318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/privacidad-chrome-3203240.jpg?tf=1200x' alt='Google añade más seguridad a Chrome con esta nueva función que ocultará tu IP: así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-anuncia-fin-soporte-algunos-dispositivos-significa-usuarios-1324306'>Netflix anuncia el fin del soporte en algunos dispositivos: ¿Qué significa para los usuarios? </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-anuncia-fin-soporte-algunos-dispositivos-significa-usuarios-1324306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/netflix-smart-tv-3061928.jpg?tf=1200x' alt='Netflix anuncia el fin del soporte en algunos dispositivos: ¿Qué significa para los usuarios? ' />
     </a>
 </div>
 
