@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/elon-musk-steve-jobs-compartian-mismo-lado-oscuro-biografo-1324420'>Elon Musk y Steve Jobs compartían un mismo lado oscuro, según su biógrafo</a></h4>
-    <a href='https://computerhoy.com/life/elon-musk-steve-jobs-compartian-mismo-lado-oscuro-biografo-1324420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tactica-comun-steve-jobs-elon-musk-biografo-3203392.jpg?tf=1200x' alt='Elon Musk y Steve Jobs compartían un mismo lado oscuro, según su biógrafo' />
+    <h4><a href='https://computerhoy.com/tutoriales/mejores-trucos-ocultar-contacto-whatsapp-bloquearlo-1324248'>Mejores trucos para ocultar un contacto de WhatsApp sin bloquearlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/mejores-trucos-ocultar-contacto-whatsapp-bloquearlo-1324248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ocultar-chat-whatsapp-3203388.jpg?tf=1200x' alt='Mejores trucos para ocultar un contacto de WhatsApp sin bloquearlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/guia-consejos-comprar-humidificador-712033'>Humidificadores: cuál es mejor, cómo funcionan y qué tener en cuenta al comprar uno</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/guia-consejos-comprar-humidificador-712033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/humidificador-2103003.jpg?tf=1200x' alt='Humidificadores: cuál es mejor, cómo funcionan y qué tener en cuenta al comprar uno' />
+    <h4><a href='https://computerhoy.com/alimentacion/alerta-presencia-gluten-bebida-avena-sin-gluten-1324482'>Alerta por presencia de gluten en una bebida de avena que precisamente se anunciaba como “sin gluten”</a></h4>
+    <a href='https://computerhoy.com/alimentacion/alerta-presencia-gluten-bebida-avena-sin-gluten-1324482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/alerta-presencia-gluten-bebida-avena-precisamente-anunciaba-como-gluten-3203494.jpg?tf=1200x' alt='Alerta por presencia de gluten en una bebida de avena que precisamente se anunciaba como “sin gluten”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cuenta-twitter-x-1324304'>Cómo borrar tu cuenta de Twitter X de forma definitiva</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-borrar-cuenta-twitter-x-1324304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-borrar-cuenta-twitter-x-forma-definitiva-3203158.jpg?tf=1200x' alt='Cómo borrar tu cuenta de Twitter X de forma definitiva' />
+    <h4><a href='https://computerhoy.com/amazon/youtube-ha-dejado-funcionar-algunos-modelos-amazon-fire-tv-1324472'>¡Cuidado! YouTube ha dejado de funcionar en algunos modelos de Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/amazon/youtube-ha-dejado-funcionar-algunos-modelos-amazon-fire-tv-1324472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-quitar-publicidad-youtube-gratis-android-tv-chromecast-amazon-fire-tv-3138710.jpg?tf=1200x' alt='¡Cuidado! YouTube ha dejado de funcionar en algunos modelos de Amazon Fire TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-meet-nuevos-filtros-belleza-videollamadas-1323204'>Google Meet escucha a sus usuarios: así son sus nuevos filtros de belleza para videollamadas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-meet-nuevos-filtros-belleza-videollamadas-1323204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-meet-3055314.jpg?tf=1200x' alt='Google Meet escucha a sus usuarios: así son sus nuevos filtros de belleza para videollamadas' />
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-lunes-23-octubre-2023-1324492'>Programación TV: ¿Qué ver hoy en televisión? Lunes 23 de octubre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-lunes-23-octubre-2023-1324492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-lunes-23-octubre-2023-3203510.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Lunes 23 de octubre de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ahora-amigos-pueden-revisar-red-flags-match-tinder-1324386'>Ahora tus amigos pueden revisar tus match de Tinder en busca de “banderas rojas"</a></h4>
-    <a href='https://computerhoy.com/life/ahora-amigos-pueden-revisar-red-flags-match-tinder-1324386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ahora-amigos-pueden-revisar-match-tinder-busca-banderas-rojas-3203332.jpg?tf=1200x' alt='Ahora tus amigos pueden revisar tus match de Tinder en busca de “banderas rojas"' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-aumentar-maximo-precision-google-maps-posicionar-ubicacion-1323314'>Cómo aumentar al máximo la precisión de Google Maps al posicionar tu ubicación</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-aumentar-maximo-precision-google-maps-posicionar-ubicacion-1323314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/calibrar-google-maps-3120262.jpg?tf=1200x' alt='Cómo aumentar al máximo la precisión de Google Maps al posicionar tu ubicación' />
     </a>
 </div>
 
