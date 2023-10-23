@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/mejores-trucos-ocultar-contacto-whatsapp-bloquearlo-1324248'>Mejores trucos para ocultar un contacto de WhatsApp sin bloquearlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/mejores-trucos-ocultar-contacto-whatsapp-bloquearlo-1324248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ocultar-chat-whatsapp-3203388.jpg?tf=1200x' alt='Mejores trucos para ocultar un contacto de WhatsApp sin bloquearlo' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-anuncia-fin-contrasenas-comprar-tienda-1324552'>Amazon anuncia el fin de las contraseñas para comprar en su tienda</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-anuncia-fin-contrasenas-comprar-tienda-1324552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/passkeys-ya-disponibles-chrome-fin-contrasenas-aqui-2898332.jpg?tf=1200x' alt='Amazon anuncia el fin de las contraseñas para comprar en su tienda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/alerta-presencia-gluten-bebida-avena-sin-gluten-1324482'>Alerta por presencia de gluten en una bebida de avena que precisamente se anunciaba como “sin gluten”</a></h4>
-    <a href='https://computerhoy.com/alimentacion/alerta-presencia-gluten-bebida-avena-sin-gluten-1324482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/alerta-presencia-gluten-bebida-avena-precisamente-anunciaba-como-gluten-3203494.jpg?tf=1200x' alt='Alerta por presencia de gluten en una bebida de avena que precisamente se anunciaba como “sin gluten”' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/guerra-inteligencia-artificial-artistas-aplicaciones-adulterar-entrenamiento-1324522'>La guerra entre los artistas y la IA: nuevas aplicaciones para adulterar el entrenamiento y defender los derechos de autor </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/guerra-inteligencia-artificial-artistas-aplicaciones-adulterar-entrenamiento-1324522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nuevas-armas-artistas-guerra-inteligencia-artificial-aplicaciones-adulterar-entrenamiento-3203592.jpg?tf=1200x' alt='La guerra entre los artistas y la IA: nuevas aplicaciones para adulterar el entrenamiento y defender los derechos de autor ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/youtube-ha-dejado-funcionar-algunos-modelos-amazon-fire-tv-1324472'>¡Cuidado! YouTube ha dejado de funcionar en algunos modelos de Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/amazon/youtube-ha-dejado-funcionar-algunos-modelos-amazon-fire-tv-1324472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-quitar-publicidad-youtube-gratis-android-tv-chromecast-amazon-fire-tv-3138710.jpg?tf=1200x' alt='¡Cuidado! YouTube ha dejado de funcionar en algunos modelos de Amazon Fire TV' />
+    <h4><a href='https://computerhoy.com/life/temporal-ha-cancelado-vuelo-viaje-tren-puedes-reclamar-1324508'>¿El temporal ha cancelado tu vuelo o viaje en tren? Esto es lo que puedes reclamar</a></h4>
+    <a href='https://computerhoy.com/life/temporal-ha-cancelado-vuelo-viaje-tren-puedes-reclamar-1324508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/temporal-ha-cancelado-vuelo-viaje-tren-puedes-reclamar-3203576.jpg?tf=1200x' alt='¿El temporal ha cancelado tu vuelo o viaje en tren? Esto es lo que puedes reclamar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-lunes-23-octubre-2023-1324492'>Programación TV: ¿Qué ver hoy en televisión? Lunes 23 de octubre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-lunes-23-octubre-2023-1324492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-lunes-23-octubre-2023-3203510.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Lunes 23 de octubre de 2023' />
+    <h4><a href='https://computerhoy.com/audio/animalada-precio-proyector-full-hd-cuesta-menos-movil-1324534'>Animalada de precio en este proyector Full HD que cuesta menos que un móvil</a></h4>
+    <a href='https://computerhoy.com/audio/animalada-precio-proyector-full-hd-cuesta-menos-movil-1324534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/proyector-full-hd-toptro-3203596.jpg?tf=1200x' alt='Animalada de precio en este proyector Full HD que cuesta menos que un móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-aumentar-maximo-precision-google-maps-posicionar-ubicacion-1323314'>Cómo aumentar al máximo la precisión de Google Maps al posicionar tu ubicación</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-aumentar-maximo-precision-google-maps-posicionar-ubicacion-1323314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/calibrar-google-maps-3120262.jpg?tf=1200x' alt='Cómo aumentar al máximo la precisión de Google Maps al posicionar tu ubicación' />
+    <h4><a href='https://computerhoy.com/tecnologia/nuevas-tablets-samsung-galaxy-tab-a9-1324496'>Así son las nuevas tablets Samsung Galaxy Tab A9 y Galaxy Tab A9+ </a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevas-tablets-samsung-galaxy-tab-a9-1324496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/son-nuevas-samsung-galaxy-tab-a9-galaxy-tab-a9-3203646.jpg?tf=1200x' alt='Así son las nuevas tablets Samsung Galaxy Tab A9 y Galaxy Tab A9+ ' />
     </a>
 </div>
 
