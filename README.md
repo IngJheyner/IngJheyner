@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/metodos-ciberdelincuentes-acceder-cuenta-bancaria-1322716'>5 métodos que utilizan los ciberdelincuentes para robar tus datos bancarios</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/metodos-ciberdelincuentes-acceder-cuenta-bancaria-1322716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ciberdelincuentes-2794155.jpg?tf=1200x' alt='5 métodos que utilizan los ciberdelincuentes para robar tus datos bancarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/truco-burger-king-comerse-hamburguesa-sin-mancharse-1325034'>El truco de Burger King para comerse una hamburguesa sin mancharse</a></h4>
+    <a href='https://computerhoy.com/alimentacion/truco-burger-king-comerse-hamburguesa-sin-mancharse-1325034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1698149381001-3204306.jpg?tf=1200x' alt='El truco de Burger King para comerse una hamburguesa sin mancharse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-imprimir-imagen-cuatro-hojas-word-263109'>Cómo imprimir una imagen en cuatro hojas en Word</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-imprimir-imagen-cuatro-hojas-word-263109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/como-imprimir-imagen-cuatro-hojas-word.jpg?tf=1200x' alt='Cómo imprimir una imagen en cuatro hojas en Word' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/miedo-turbulencias-aviones-nuevo-sistema-elimina-80-1324888'>¿Miedo a las turbulencias en los aviones? Este nuevo sistema las elimina en un 80%</a></h4>
     <a href='https://computerhoy.com/tecnologia/miedo-turbulencias-aviones-nuevo-sistema-elimina-80-1324888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/turbulencias-aviones-3204146.jpg?tf=1200x' alt='¿Miedo a las turbulencias en los aviones? Este nuevo sistema las elimina en un 80%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/liquidacion-moviles-baratos-deseados-poco-x5-pro-precio-derribo-1324824'>Liquidación en uno de los móviles baratos más deseados: el POCO X5 Pro, a precio de derribo</a></h4>
-    <a href='https://computerhoy.com/android/liquidacion-moviles-baratos-deseados-poco-x5-pro-precio-derribo-1324824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-pro-5g-2948376.jpg?tf=1200x' alt='Liquidación en uno de los móviles baratos más deseados: el POCO X5 Pro, a precio de derribo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-redes-neuronales-convolucionales-ia-funciones-aplicaciones-medicina-1324850'>¿Qué son las redes neuronales convolucionales de la IA?: funciones, aplicaciones en medicina y más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-redes-neuronales-convolucionales-ia-funciones-aplicaciones-medicina-1324850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/redes-neuronales-convolucionales-ia-3204142.jpg?tf=1200x' alt='¿Qué son las redes neuronales convolucionales de la IA?: funciones, aplicaciones en medicina y más' />
     </a>
 </div>
 
