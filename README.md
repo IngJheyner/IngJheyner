@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/8-senales-indican-lavadora-punto-estropearse-1321532'>8 señales que indican que tu lavadora está a punto de estropearse</a></h4>
-    <a href='https://computerhoy.com/life/8-senales-indican-lavadora-punto-estropearse-1321532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/8-senales-indican-lavadora-punto-estropearse-3198478.jpg?tf=1200x' alt='8 señales que indican que tu lavadora está a punto de estropearse' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819'>Los mejores auriculares con cancelación de ruido para volver a la oficina</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sony-wh-1000xm5-analisis-opinion-2891374.jpg?tf=1200x' alt='Los mejores auriculares con cancelación de ruido para volver a la oficina' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/quieres-casa-limpia-minutos-prueba-regla-20-10-1321612'>La regla 20/10: el efectivo método para limpiar tu casa de manera fácil, rápida y sin contratiempos</a></h4>
-    <a href='https://computerhoy.com/life/quieres-casa-limpia-minutos-prueba-regla-20-10-1321612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regla-2-minutos-truco-limpieza-genial-tener-siempre-limpia-casa-esfuerzo-2557645.jpg?tf=1200x' alt='La regla 20/10: el efectivo método para limpiar tu casa de manera fácil, rápida y sin contratiempos' />
+    <h4><a href='https://computerhoy.com/google/auriculares-pixel-buds-pro-reciben-actualizacion-hace-interesantes-nunca-1324440'>Los auriculares Pixel Buds Pro reciben una actualización que los hace más interesantes que nunca</a></h4>
+    <a href='https://computerhoy.com/google/auriculares-pixel-buds-pro-reciben-actualizacion-hace-interesantes-nunca-1324440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-buds-pro-3203450.jpg?tf=1200x' alt='Los auriculares Pixel Buds Pro reciben una actualización que los hace más interesantes que nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/operadoras-podrian-salvar-listas-iptv-pirata-desaparicion-1324550'>Sorprendentemente, las operadoras podrían salvar a las listas IPTV pirata de su desaparición</a></h4>
-    <a href='https://computerhoy.com/tecnologia/operadoras-podrian-salvar-listas-iptv-pirata-desaparicion-1324550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2876899.jpg?tf=1200x' alt='Sorprendentemente, las operadoras podrían salvar a las listas IPTV pirata de su desaparición' />
+    <h4><a href='https://computerhoy.com/analisis/google-pixel-watch-2-analisis-opinion-1322408'>Google Pixel Watch 2, análisis y opinión: Google tiene el reloj con Wear OS para acompañar tu Android que estabas buscando</a></h4>
+    <a href='https://computerhoy.com/analisis/google-pixel-watch-2-analisis-opinion-1322408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199982.jpg?tf=1200x' alt='Google Pixel Watch 2, análisis y opinión: Google tiene el reloj con Wear OS para acompañar tu Android que estabas buscando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/filmin-plataforma-streaming-mejor-valorada-espana-1324556'>Ni Netflix ni Disney+ ni HBO Max: esta es la plataforma de streaming mejor valorada en España</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/filmin-plataforma-streaming-mejor-valorada-espana-1324556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ni-netflix-ni-disney-ni-hbo-max-plataforma-streaming-mejor-valorada-usuarios-espanoles-3203778.jpg?tf=1200x' alt='Ni Netflix ni Disney+ ni HBO Max: esta es la plataforma de streaming mejor valorada en España' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635'>Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/redmi-watch-3-analisis-opinion-3022036.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-anuncia-fin-contrasenas-comprar-tienda-1324552'>Amazon anuncia el fin de las contraseñas para comprar en su tienda</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-anuncia-fin-contrasenas-comprar-tienda-1324552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/passkeys-ya-disponibles-chrome-fin-contrasenas-aqui-2898332.jpg?tf=1200x' alt='Amazon anuncia el fin de las contraseñas para comprar en su tienda' />
+    <h4><a href='https://computerhoy.com/life/suplementos-toman-cardiologos-combatir-fatiga-fortalecer-sistema-inmunitario-1323380'>3 suplementos que toman los cardiólogos para combatir la fatiga y fortalecer tu sistema inmunitario</a></h4>
+    <a href='https://computerhoy.com/life/suplementos-toman-cardiologos-combatir-fatiga-fortalecer-sistema-inmunitario-1323380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/suplementos-vitaminicos-2876721.jpg?tf=1200x' alt='3 suplementos que toman los cardiólogos para combatir la fatiga y fortalecer tu sistema inmunitario' />
     </a>
 </div>
 
