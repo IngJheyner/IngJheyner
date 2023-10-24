@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/toyota-lista-revolucionar-sector-electrico-baterias-1200-kilometros-autonomia-10-minutos-carga-1324818'>Toyota lista para revolucionar el sector eléctrico con sus nuevas baterías: 1.200 kilómetros de autonomía con 10 minutos de carga</a></h4>
+    <a href='https://computerhoy.com/motor/toyota-lista-revolucionar-sector-electrico-baterias-1200-kilometros-autonomia-10-minutos-carga-1324818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/toyota-coche-electrico-3204064.jpg?tf=1200x' alt='Toyota lista para revolucionar el sector eléctrico con sus nuevas baterías: 1.200 kilómetros de autonomía con 10 minutos de carga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/shiba-inu-dispara-600-ultimos-movimientos-mercado-1324800'>Shiba Inu se dispara un 600% tras los últimos movimientos del mercado</a></h4>
+    <a href='https://computerhoy.com/criptos/shiba-inu-dispara-600-ultimos-movimientos-mercado-1324800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/shiba-inu-2791151.jpg?tf=1200x' alt='Shiba Inu se dispara un 600% tras los últimos movimientos del mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/guerra-israel-hamas-obliga-google-maps-repetir-decision-historica-2022-1324786'>La guerra entre Israel y Hamás obliga a Google Maps a repetir una decisión histórica de 2022</a></h4>
+    <a href='https://computerhoy.com/google/guerra-israel-hamas-obliga-google-maps-repetir-decision-historica-2022-1324786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-maps-3060322.jpg?tf=1200x' alt='La guerra entre Israel y Hamás obliga a Google Maps a repetir una decisión histórica de 2022' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-snapdragon-8-gen-3-gran-ano-ia-1323952'>Qualcomm Snapdragon 8 Gen 3: El gran año de la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/qualcomm-snapdragon-8-gen-3-gran-ano-ia-1323952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/snapdragon-8-gen-3-3203528.jpg?tf=1200x' alt='Qualcomm Snapdragon 8 Gen 3: El gran año de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819'>Los mejores auriculares con cancelación de ruido para volver a la oficina</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sony-wh-1000xm5-analisis-opinion-2891374.jpg?tf=1200x' alt='Los mejores auriculares con cancelación de ruido para volver a la oficina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/auriculares-pixel-buds-pro-reciben-actualizacion-hace-interesantes-nunca-1324440'>Los auriculares Pixel Buds Pro reciben una actualización que los hace más interesantes que nunca</a></h4>
-    <a href='https://computerhoy.com/google/auriculares-pixel-buds-pro-reciben-actualizacion-hace-interesantes-nunca-1324440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-buds-pro-3203450.jpg?tf=1200x' alt='Los auriculares Pixel Buds Pro reciben una actualización que los hace más interesantes que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/google-pixel-watch-2-analisis-opinion-1322408'>Google Pixel Watch 2, análisis y opinión: Google tiene el reloj con Wear OS para acompañar tu Android que estabas buscando</a></h4>
-    <a href='https://computerhoy.com/analisis/google-pixel-watch-2-analisis-opinion-1322408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199982.jpg?tf=1200x' alt='Google Pixel Watch 2, análisis y opinión: Google tiene el reloj con Wear OS para acompañar tu Android que estabas buscando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635'>Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/redmi-watch-3-analisis-opinion-3022036.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/suplementos-toman-cardiologos-combatir-fatiga-fortalecer-sistema-inmunitario-1323380'>3 suplementos que toman los cardiólogos para combatir la fatiga y fortalecer tu sistema inmunitario</a></h4>
-    <a href='https://computerhoy.com/life/suplementos-toman-cardiologos-combatir-fatiga-fortalecer-sistema-inmunitario-1323380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/suplementos-vitaminicos-2876721.jpg?tf=1200x' alt='3 suplementos que toman los cardiólogos para combatir la fatiga y fortalecer tu sistema inmunitario' />
     </a>
 </div>
 
