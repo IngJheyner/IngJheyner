@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/8-senales-indican-lavadora-punto-estropearse-1321532'>8 señales que indican que tu lavadora está a punto de estropearse</a></h4>
+    <a href='https://computerhoy.com/life/8-senales-indican-lavadora-punto-estropearse-1321532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/8-senales-indican-lavadora-punto-estropearse-3198478.jpg?tf=1200x' alt='8 señales que indican que tu lavadora está a punto de estropearse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/quieres-casa-limpia-minutos-prueba-regla-20-10-1321612'>La regla 20/10: el efectivo método para limpiar tu casa de manera fácil, rápida y sin contratiempos</a></h4>
+    <a href='https://computerhoy.com/life/quieres-casa-limpia-minutos-prueba-regla-20-10-1321612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/regla-2-minutos-truco-limpieza-genial-tener-siempre-limpia-casa-esfuerzo-2557645.jpg?tf=1200x' alt='La regla 20/10: el efectivo método para limpiar tu casa de manera fácil, rápida y sin contratiempos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/operadoras-podrian-salvar-listas-iptv-pirata-desaparicion-1324550'>Sorprendentemente, las operadoras podrían salvar a las listas IPTV pirata de su desaparición</a></h4>
     <a href='https://computerhoy.com/tecnologia/operadoras-podrian-salvar-listas-iptv-pirata-desaparicion-1324550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2876899.jpg?tf=1200x' alt='Sorprendentemente, las operadoras podrían salvar a las listas IPTV pirata de su desaparición' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/amazon-anuncia-fin-contrasenas-comprar-tienda-1324552'>Amazon anuncia el fin de las contraseñas para comprar en su tienda</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-anuncia-fin-contrasenas-comprar-tienda-1324552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/passkeys-ya-disponibles-chrome-fin-contrasenas-aqui-2898332.jpg?tf=1200x' alt='Amazon anuncia el fin de las contraseñas para comprar en su tienda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guerra-inteligencia-artificial-artistas-aplicaciones-adulterar-entrenamiento-1324522'>La guerra entre los artistas y la IA: nuevas aplicaciones para adulterar el entrenamiento y defender los derechos de autor </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guerra-inteligencia-artificial-artistas-aplicaciones-adulterar-entrenamiento-1324522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nuevas-armas-artistas-guerra-inteligencia-artificial-aplicaciones-adulterar-entrenamiento-3203592.jpg?tf=1200x' alt='La guerra entre los artistas y la IA: nuevas aplicaciones para adulterar el entrenamiento y defender los derechos de autor ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/temporal-ha-cancelado-vuelo-viaje-tren-puedes-reclamar-1324508'>¿El temporal ha cancelado tu vuelo o viaje en tren? Esto es lo que puedes reclamar</a></h4>
-    <a href='https://computerhoy.com/life/temporal-ha-cancelado-vuelo-viaje-tren-puedes-reclamar-1324508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/temporal-ha-cancelado-vuelo-viaje-tren-puedes-reclamar-3203576.jpg?tf=1200x' alt='¿El temporal ha cancelado tu vuelo o viaje en tren? Esto es lo que puedes reclamar' />
     </a>
 </div>
 
