@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/enamorarse-ia-puedes-distinguir-estas-hablando-1324848'>Enamorarse de una IA: así puedes distinguir una inteligencia artificial en apps como Tinder</a></h4>
+    <a href='https://computerhoy.com/tutoriales/enamorarse-ia-puedes-distinguir-estas-hablando-1324848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/enamorarse-ia-puedes-distinguir-inteligencia-artificial-apps-como-tinder-3204090.jpg?tf=1200x' alt='Enamorarse de una IA: así puedes distinguir una inteligencia artificial en apps como Tinder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-martes-24-octubre-2023-1325124'>Programación TV: ¿Qué ver hoy en televisión? Martes 24 de octubre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-martes-24-octubre-2023-1325124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-martes-24-octubre-2023-3204532.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Martes 24 de octubre de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/modo-incognito-google-quien-puede-verlo-realmente-1324998'>Modo incógnito de Google: ¿quién puede verlo realmente?</a></h4>
     <a href='https://computerhoy.com/internet/modo-incognito-google-quien-puede-verlo-realmente-1324998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/modo-incognito-google-quien-puede-verlo-realmente-3204302.jpg?tf=1200x' alt='Modo incógnito de Google: ¿quién puede verlo realmente?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/hackers-ofrecen-recuperar-223-millones-bitcoin-usb-dueno-no-quiere-1325068'>Hackers afirman poder recuperar 223 millones de euros en Bitcoin de un USB, pero el dueño se niega</a></h4>
     <a href='https://computerhoy.com/criptos/hackers-ofrecen-recuperar-223-millones-bitcoin-usb-dueno-no-quiere-1325068' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ironkey-usb-3204492.jpg?tf=1200x' alt='Hackers afirman poder recuperar 223 millones de euros en Bitcoin de un USB, pero el dueño se niega' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/he-probado-primer-coche-chatgpt-integrado-creo-tecnologia-ha-llegado-quedarse-1324956'>He probado el primer coche con ChatGPT integrado y creo que esta tecnología ha llegado para quedarse</a></h4>
-    <a href='https://computerhoy.com/motor/he-probado-primer-coche-chatgpt-integrado-creo-tecnologia-ha-llegado-quedarse-1324956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chatgpt-coche-3204428.jpg?tf=1200x' alt='He probado el primer coche con ChatGPT integrado y creo que esta tecnología ha llegado para quedarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cena-salio-cara-20000-euros-arreglar-tesla-mojado-lluvia-1325048'>La cena les salió cara: 20.000 euros por arreglar un Tesla mojado por la lluvia</a></h4>
-    <a href='https://computerhoy.com/motor/cena-salio-cara-20000-euros-arreglar-tesla-mojado-lluvia-1325048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/factura-tesla-3204442.jpg?tf=1200x' alt='La cena les salió cara: 20.000 euros por arreglar un Tesla mojado por la lluvia' />
     </a>
 </div>
 
