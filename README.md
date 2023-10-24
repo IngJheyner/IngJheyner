@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/metodos-ciberdelincuentes-acceder-cuenta-bancaria-1322716'>5 métodos que utilizan los ciberdelincuentes para robar tus datos bancarios</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/metodos-ciberdelincuentes-acceder-cuenta-bancaria-1322716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ciberdelincuentes-2794155.jpg?tf=1200x' alt='5 métodos que utilizan los ciberdelincuentes para robar tus datos bancarios' />
+    <h4><a href='https://computerhoy.com/internet/modo-incognito-google-quien-puede-verlo-realmente-1324998'>Modo incógnito de Google: ¿quién puede verlo realmente?</a></h4>
+    <a href='https://computerhoy.com/internet/modo-incognito-google-quien-puede-verlo-realmente-1324998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/modo-incognito-google-quien-puede-verlo-realmente-3204302.jpg?tf=1200x' alt='Modo incógnito de Google: ¿quién puede verlo realmente?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/truco-burger-king-comerse-hamburguesa-sin-mancharse-1325034'>El truco de Burger King para comerse una hamburguesa sin mancharse</a></h4>
-    <a href='https://computerhoy.com/alimentacion/truco-burger-king-comerse-hamburguesa-sin-mancharse-1325034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1698149381001-3204306.jpg?tf=1200x' alt='El truco de Burger King para comerse una hamburguesa sin mancharse' />
+    <h4><a href='https://computerhoy.com/tecnologia/175000-usuarios-amazon-avalan-chollo-cuesta-menos-20eu-soluciona-problemas-wifi-1323956'>175.000 usuarios de Amazon avalan este chollo: cuesta menos de 20€ y soluciona tus problemas con el WiFi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/175000-usuarios-amazon-avalan-chollo-cuesta-menos-20eu-soluciona-problemas-wifi-1323956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tp-link-n300-tl-wa850re-3202652.jpg?tf=1200x' alt='175.000 usuarios de Amazon avalan este chollo: cuesta menos de 20€ y soluciona tus problemas con el WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-imprimir-imagen-cuatro-hojas-word-263109'>Cómo imprimir una imagen en cuatro hojas en Word</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-imprimir-imagen-cuatro-hojas-word-263109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/como-imprimir-imagen-cuatro-hojas-word.jpg?tf=1200x' alt='Cómo imprimir una imagen en cuatro hojas en Word' />
+    <h4><a href='https://computerhoy.com/criptos/hackers-ofrecen-recuperar-223-millones-bitcoin-usb-dueno-no-quiere-1325068'>Hackers afirman poder recuperar 223 millones de euros en Bitcoin de un USB, pero el dueño se niega</a></h4>
+    <a href='https://computerhoy.com/criptos/hackers-ofrecen-recuperar-223-millones-bitcoin-usb-dueno-no-quiere-1325068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ironkey-usb-3204492.jpg?tf=1200x' alt='Hackers afirman poder recuperar 223 millones de euros en Bitcoin de un USB, pero el dueño se niega' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/mejor-aplicacion-ver-tv-gratis-movil-actualiza-20-nuevos-canales-1324910'>La mejor aplicación para ver la TV gratis en el móvil se actualiza con 20 nuevos canales</a></h4>
-    <a href='https://computerhoy.com/tv/mejor-aplicacion-ver-tv-gratis-movil-actualiza-20-nuevos-canales-1324910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vuelve-tdt-channels-anunciar-cierre-estara-operativo-tanto-web-como-android-ios-2912264.jpg?tf=1200x' alt='La mejor aplicación para ver la TV gratis en el móvil se actualiza con 20 nuevos canales' />
+    <h4><a href='https://computerhoy.com/motor/he-probado-primer-coche-chatgpt-integrado-creo-tecnologia-ha-llegado-quedarse-1324956'>He probado el primer coche con ChatGPT integrado y creo que esta tecnología ha llegado para quedarse</a></h4>
+    <a href='https://computerhoy.com/motor/he-probado-primer-coche-chatgpt-integrado-creo-tecnologia-ha-llegado-quedarse-1324956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chatgpt-coche-3204428.jpg?tf=1200x' alt='He probado el primer coche con ChatGPT integrado y creo que esta tecnología ha llegado para quedarse' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/miedo-turbulencias-aviones-nuevo-sistema-elimina-80-1324888'>¿Miedo a las turbulencias en los aviones? Este nuevo sistema las elimina en un 80%</a></h4>
-    <a href='https://computerhoy.com/tecnologia/miedo-turbulencias-aviones-nuevo-sistema-elimina-80-1324888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/turbulencias-aviones-3204146.jpg?tf=1200x' alt='¿Miedo a las turbulencias en los aviones? Este nuevo sistema las elimina en un 80%' />
+    <h4><a href='https://computerhoy.com/motor/cena-salio-cara-20000-euros-arreglar-tesla-mojado-lluvia-1325048'>La cena les salió cara: 20.000 euros por arreglar un Tesla mojado por la lluvia</a></h4>
+    <a href='https://computerhoy.com/motor/cena-salio-cara-20000-euros-arreglar-tesla-mojado-lluvia-1325048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/factura-tesla-3204442.jpg?tf=1200x' alt='La cena les salió cara: 20.000 euros por arreglar un Tesla mojado por la lluvia' />
     </a>
 </div>
 
