@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-imprimir-imagen-cuatro-hojas-word-263109'>Cómo imprimir una imagen en cuatro hojas en Word</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-imprimir-imagen-cuatro-hojas-word-263109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/como-imprimir-imagen-cuatro-hojas-word.jpg?tf=1200x' alt='Cómo imprimir una imagen en cuatro hojas en Word' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/mejor-aplicacion-ver-tv-gratis-movil-actualiza-20-nuevos-canales-1324910'>La mejor aplicación para ver la TV gratis en el móvil se actualiza con 20 nuevos canales</a></h4>
+    <a href='https://computerhoy.com/tv/mejor-aplicacion-ver-tv-gratis-movil-actualiza-20-nuevos-canales-1324910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vuelve-tdt-channels-anunciar-cierre-estara-operativo-tanto-web-como-android-ios-2912264.jpg?tf=1200x' alt='La mejor aplicación para ver la TV gratis en el móvil se actualiza con 20 nuevos canales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/miedo-turbulencias-aviones-nuevo-sistema-elimina-80-1324888'>¿Miedo a las turbulencias en los aviones? Este nuevo sistema las elimina en un 80%</a></h4>
+    <a href='https://computerhoy.com/tecnologia/miedo-turbulencias-aviones-nuevo-sistema-elimina-80-1324888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/turbulencias-aviones-3204146.jpg?tf=1200x' alt='¿Miedo a las turbulencias en los aviones? Este nuevo sistema las elimina en un 80%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/liquidacion-moviles-baratos-deseados-poco-x5-pro-precio-derribo-1324824'>Liquidación en uno de los móviles baratos más deseados: el POCO X5 Pro, a precio de derribo</a></h4>
     <a href='https://computerhoy.com/android/liquidacion-moviles-baratos-deseados-poco-x5-pro-precio-derribo-1324824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-pro-5g-2948376.jpg?tf=1200x' alt='Liquidación en uno de los móviles baratos más deseados: el POCO X5 Pro, a precio de derribo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/son-redes-neuronales-convolucionales-ia-funciones-aplicaciones-medicina-1324850'>¿Qué son las redes neuronales convolucionales de la IA?: funciones, aplicaciones en medicina y más</a></h4>
     <a href='https://computerhoy.com/tecnologia/son-redes-neuronales-convolucionales-ia-funciones-aplicaciones-medicina-1324850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/redes-neuronales-convolucionales-ia-3204142.jpg?tf=1200x' alt='¿Qué son las redes neuronales convolucionales de la IA?: funciones, aplicaciones en medicina y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/toyota-lista-revolucionar-sector-electrico-baterias-1200-kilometros-autonomia-10-minutos-carga-1324818'>Toyota lista para revolucionar el sector eléctrico con sus nuevas baterías: 1.200 kilómetros de autonomía con 10 minutos de carga</a></h4>
-    <a href='https://computerhoy.com/motor/toyota-lista-revolucionar-sector-electrico-baterias-1200-kilometros-autonomia-10-minutos-carga-1324818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/toyota-coche-electrico-3204064.jpg?tf=1200x' alt='Toyota lista para revolucionar el sector eléctrico con sus nuevas baterías: 1.200 kilómetros de autonomía con 10 minutos de carga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/shiba-inu-dispara-600-ultimos-movimientos-mercado-1324800'>Shiba Inu se dispara un 600% tras los últimos movimientos del mercado</a></h4>
-    <a href='https://computerhoy.com/criptos/shiba-inu-dispara-600-ultimos-movimientos-mercado-1324800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/shiba-inu-2791151.jpg?tf=1200x' alt='Shiba Inu se dispara un 600% tras los últimos movimientos del mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/guerra-israel-hamas-obliga-google-maps-repetir-decision-historica-2022-1324786'>La guerra entre Israel y Hamás obliga a Google Maps a repetir una decisión histórica de 2022</a></h4>
-    <a href='https://computerhoy.com/google/guerra-israel-hamas-obliga-google-maps-repetir-decision-historica-2022-1324786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-maps-3060322.jpg?tf=1200x' alt='La guerra entre Israel y Hamás obliga a Google Maps a repetir una decisión histórica de 2022' />
     </a>
 </div>
 
