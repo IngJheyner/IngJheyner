@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/liquidacion-moviles-baratos-deseados-poco-x5-pro-precio-derribo-1324824'>Liquidación en uno de los móviles baratos más deseados: el POCO X5 Pro, a precio de derribo</a></h4>
+    <a href='https://computerhoy.com/android/liquidacion-moviles-baratos-deseados-poco-x5-pro-precio-derribo-1324824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-pro-5g-2948376.jpg?tf=1200x' alt='Liquidación en uno de los móviles baratos más deseados: el POCO X5 Pro, a precio de derribo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/son-redes-neuronales-convolucionales-ia-funciones-aplicaciones-medicina-1324850'>¿Qué son las redes neuronales convolucionales de la IA?: funciones, aplicaciones en medicina y más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/son-redes-neuronales-convolucionales-ia-funciones-aplicaciones-medicina-1324850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/redes-neuronales-convolucionales-ia-3204142.jpg?tf=1200x' alt='¿Qué son las redes neuronales convolucionales de la IA?: funciones, aplicaciones en medicina y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/toyota-lista-revolucionar-sector-electrico-baterias-1200-kilometros-autonomia-10-minutos-carga-1324818'>Toyota lista para revolucionar el sector eléctrico con sus nuevas baterías: 1.200 kilómetros de autonomía con 10 minutos de carga</a></h4>
     <a href='https://computerhoy.com/motor/toyota-lista-revolucionar-sector-electrico-baterias-1200-kilometros-autonomia-10-minutos-carga-1324818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/toyota-coche-electrico-3204064.jpg?tf=1200x' alt='Toyota lista para revolucionar el sector eléctrico con sus nuevas baterías: 1.200 kilómetros de autonomía con 10 minutos de carga' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/guerra-israel-hamas-obliga-google-maps-repetir-decision-historica-2022-1324786'>La guerra entre Israel y Hamás obliga a Google Maps a repetir una decisión histórica de 2022</a></h4>
     <a href='https://computerhoy.com/google/guerra-israel-hamas-obliga-google-maps-repetir-decision-historica-2022-1324786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-maps-3060322.jpg?tf=1200x' alt='La guerra entre Israel y Hamás obliga a Google Maps a repetir una decisión histórica de 2022' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-snapdragon-8-gen-3-gran-ano-ia-1323952'>Qualcomm Snapdragon 8 Gen 3: El gran año de la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/qualcomm-snapdragon-8-gen-3-gran-ano-ia-1323952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/snapdragon-8-gen-3-3203528.jpg?tf=1200x' alt='Qualcomm Snapdragon 8 Gen 3: El gran año de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819'>Los mejores auriculares con cancelación de ruido para volver a la oficina</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sony-wh-1000xm5-analisis-opinion-2891374.jpg?tf=1200x' alt='Los mejores auriculares con cancelación de ruido para volver a la oficina' />
     </a>
 </div>
 
