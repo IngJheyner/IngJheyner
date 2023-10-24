@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/operadoras-podrian-salvar-listas-iptv-pirata-desaparicion-1324550'>Sorprendentemente, las operadoras podrían salvar a las listas IPTV pirata de su desaparición</a></h4>
+    <a href='https://computerhoy.com/tecnologia/operadoras-podrian-salvar-listas-iptv-pirata-desaparicion-1324550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2876899.jpg?tf=1200x' alt='Sorprendentemente, las operadoras podrían salvar a las listas IPTV pirata de su desaparición' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/filmin-plataforma-streaming-mejor-valorada-espana-1324556'>Ni Netflix ni Disney+ ni HBO Max: esta es la plataforma de streaming mejor valorada en España</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/filmin-plataforma-streaming-mejor-valorada-espana-1324556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ni-netflix-ni-disney-ni-hbo-max-plataforma-streaming-mejor-valorada-usuarios-espanoles-3203778.jpg?tf=1200x' alt='Ni Netflix ni Disney+ ni HBO Max: esta es la plataforma de streaming mejor valorada en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/amazon-anuncia-fin-contrasenas-comprar-tienda-1324552'>Amazon anuncia el fin de las contraseñas para comprar en su tienda</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-anuncia-fin-contrasenas-comprar-tienda-1324552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/passkeys-ya-disponibles-chrome-fin-contrasenas-aqui-2898332.jpg?tf=1200x' alt='Amazon anuncia el fin de las contraseñas para comprar en su tienda' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/temporal-ha-cancelado-vuelo-viaje-tren-puedes-reclamar-1324508'>¿El temporal ha cancelado tu vuelo o viaje en tren? Esto es lo que puedes reclamar</a></h4>
     <a href='https://computerhoy.com/life/temporal-ha-cancelado-vuelo-viaje-tren-puedes-reclamar-1324508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/temporal-ha-cancelado-vuelo-viaje-tren-puedes-reclamar-3203576.jpg?tf=1200x' alt='¿El temporal ha cancelado tu vuelo o viaje en tren? Esto es lo que puedes reclamar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/animalada-precio-proyector-full-hd-cuesta-menos-movil-1324534'>Animalada de precio en este proyector Full HD que cuesta menos que un móvil</a></h4>
-    <a href='https://computerhoy.com/audio/animalada-precio-proyector-full-hd-cuesta-menos-movil-1324534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/proyector-full-hd-toptro-3203596.jpg?tf=1200x' alt='Animalada de precio en este proyector Full HD que cuesta menos que un móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevas-tablets-samsung-galaxy-tab-a9-1324496'>Así son las nuevas tablets Samsung Galaxy Tab A9 y Galaxy Tab A9+ </a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevas-tablets-samsung-galaxy-tab-a9-1324496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/son-nuevas-samsung-galaxy-tab-a9-galaxy-tab-a9-3203646.jpg?tf=1200x' alt='Así son las nuevas tablets Samsung Galaxy Tab A9 y Galaxy Tab A9+ ' />
     </a>
 </div>
 
