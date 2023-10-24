@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/enamorarse-ia-puedes-distinguir-estas-hablando-1324848'>Enamorarse de una IA: así puedes distinguir una inteligencia artificial en apps como Tinder</a></h4>
-    <a href='https://computerhoy.com/tutoriales/enamorarse-ia-puedes-distinguir-estas-hablando-1324848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/enamorarse-ia-puedes-distinguir-inteligencia-artificial-apps-como-tinder-3204090.jpg?tf=1200x' alt='Enamorarse de una IA: así puedes distinguir una inteligencia artificial en apps como Tinder' />
+    <h4><a href='https://computerhoy.com/tv/kodi-lanza-primera-beta-oficial-version-21-omega-1325118'>Kodi lanza la primera beta oficial de su versión 21 "Omega"  </a></h4>
+    <a href='https://computerhoy.com/tv/kodi-lanza-primera-beta-oficial-version-21-omega-1325118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-cientos-canales-tdt-gratis-kodi-lista-iptv-tdtchannels-3127304.jpg?tf=1200x' alt='Kodi lanza la primera beta oficial de su versión 21 "Omega"  ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-martes-24-octubre-2023-1325124'>Programación TV: ¿Qué ver hoy en televisión? Martes 24 de octubre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-martes-24-octubre-2023-1325124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-martes-24-octubre-2023-3204532.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Martes 24 de octubre de 2023' />
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-barata-mercado-ahora-barata-nunca-solo-154eu-mes-1325150'>La VPN más barata del mercado está ahora más barata que nunca: sólo 1,54€ al mes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-barata-mercado-ahora-barata-nunca-solo-154eu-mes-1325150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/atlas-vpn-3135552.jpg?tf=1200x' alt='La VPN más barata del mercado está ahora más barata que nunca: sólo 1,54€ al mes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/modo-incognito-google-quien-puede-verlo-realmente-1324998'>Modo incógnito de Google: ¿quién puede verlo realmente?</a></h4>
-    <a href='https://computerhoy.com/internet/modo-incognito-google-quien-puede-verlo-realmente-1324998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/modo-incognito-google-quien-puede-verlo-realmente-3204302.jpg?tf=1200x' alt='Modo incógnito de Google: ¿quién puede verlo realmente?' />
+    <h4><a href='https://computerhoy.com/tutoriales/control-parental-puedes-configurar-whatsapp-usen-hijos-1325014'>Control parental: así puedes configurar WhatsApp para que lo usen tus hijos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/control-parental-puedes-configurar-whatsapp-usen-hijos-1325014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/control-parental-puedes-configurar-whatsapp-usen-hijos-3204352.jpg?tf=1200x' alt='Control parental: así puedes configurar WhatsApp para que lo usen tus hijos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/175000-usuarios-amazon-avalan-chollo-cuesta-menos-20eu-soluciona-problemas-wifi-1323956'>175.000 usuarios de Amazon avalan este chollo: cuesta menos de 20€ y soluciona tus problemas con el WiFi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/175000-usuarios-amazon-avalan-chollo-cuesta-menos-20eu-soluciona-problemas-wifi-1323956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tp-link-n300-tl-wa850re-3202652.jpg?tf=1200x' alt='175.000 usuarios de Amazon avalan este chollo: cuesta menos de 20€ y soluciona tus problemas con el WiFi' />
+    <h4><a href='https://computerhoy.com/tecnologia/solo-1-usuarios-netflix-utiliza-mejores-funciones-1325166'>Solo el 1% de los usuarios de Netflix utiliza una de sus mejores funciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/solo-1-usuarios-netflix-utiliza-mejores-funciones-1325166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-gaming-2825567.jpg?tf=1200x' alt='Solo el 1% de los usuarios de Netflix utiliza una de sus mejores funciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/hackers-ofrecen-recuperar-223-millones-bitcoin-usb-dueno-no-quiere-1325068'>Hackers afirman poder recuperar 223 millones de euros en Bitcoin de un USB, pero el dueño se niega</a></h4>
-    <a href='https://computerhoy.com/criptos/hackers-ofrecen-recuperar-223-millones-bitcoin-usb-dueno-no-quiere-1325068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ironkey-usb-3204492.jpg?tf=1200x' alt='Hackers afirman poder recuperar 223 millones de euros en Bitcoin de un USB, pero el dueño se niega' />
+    <h4><a href='https://computerhoy.com/tecnologia/olvidate-siempre-estos-canales-tdt-tal-como-conoces-1325164'>Olvídate para siempre de estos canales de la TDT tal como los conoces</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvidate-siempre-estos-canales-tdt-tal-como-conoces-1325164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-acceder-funciones-ocultas-tdt-cualquier-smart-tv-3150890.jpg?tf=1200x' alt='Olvídate para siempre de estos canales de la TDT tal como los conoces' />
     </a>
 </div>
 
