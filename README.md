@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-mejores-roomba-200-euros-barata-1325426'>Amazon está liquidando una de las mejores Roomba: es 200 euros más barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-mejores-roomba-200-euros-barata-1325426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/roomba-i8-3204882.jpg?tf=1200x' alt='Amazon está liquidando una de las mejores Roomba: es 200 euros más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/power-1-dispositivo-nothing-no-llego-ver-luz-carl-pei-cuenta-motivos-1325494'>Power (1), el dispositivo de Nothing que jamás llegó a ver la luz: Carl Pei cuenta los motivos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/power-1-dispositivo-nothing-no-llego-ver-luz-carl-pei-cuenta-motivos-1325494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nothing-dispositivo-fallido-3205016.jpg?tf=1200x' alt='Power (1), el dispositivo de Nothing que jamás llegó a ver la luz: Carl Pei cuenta los motivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dispositivo-va-enganchado-chaqueta-proyecta-imagenes-mano-quiere-acabar-moviles-gracias-ia-1325478'>Este dispositivo que va enganchado a tu ropa y proyecta imágenes en tu mano quiere acabar con los móviles gracias a la IA </a></h4>
+    <a href='https://computerhoy.com/tecnologia/dispositivo-va-enganchado-chaqueta-proyecta-imagenes-mano-quiere-acabar-moviles-gracias-ia-1325478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/humane-ai-pin-3205010.jpg?tf=1200x' alt='Este dispositivo que va enganchado a tu ropa y proyecta imágenes en tu mano quiere acabar con los móviles gracias a la IA ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/nueva-bicicleta-electrica-desafia-norma-integra-1325454'>Esta nueva bicicleta eléctrica desafía la norma y su parecido a una bicicleta normal casi asusta</a></h4>
     <a href='https://computerhoy.com/motor/nueva-bicicleta-electrica-desafia-norma-integra-1325454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bicicleta-electrica-3204934.jpg?tf=1200x' alt='Esta nueva bicicleta eléctrica desafía la norma y su parecido a una bicicleta normal casi asusta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/alerta-presencia-gluten-bebida-avena-sin-gluten-1324482'>Alerta por presencia de gluten en una bebida de avena que precisamente se anunciaba como “sin gluten”</a></h4>
     <a href='https://computerhoy.com/alimentacion/alerta-presencia-gluten-bebida-avena-sin-gluten-1324482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/avena.jpg?tf=1200x' alt='Alerta por presencia de gluten en una bebida de avena que precisamente se anunciaba como “sin gluten”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/amazon-acerca-alexa-personas-mayores-1325142'>Amazon acerca Alexa a las personas mayores </a></h4>
-    <a href='https://computerhoy.com/life/amazon-acerca-alexa-personas-mayores-1325142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-acerca-alexa-personas-mayores-3204568.jpg?tf=1200x' alt='Amazon acerca Alexa a las personas mayores ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/altavoces-inteligentes-mejores-modelos-ofertas-1172860'>¿Qué altavoz inteligente te merece la pena comprar? Modelos y mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/audio/altavoces-inteligentes-mejores-modelos-ofertas-1172860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/homepod-3007214.jpg?tf=1200x' alt='¿Qué altavoz inteligente te merece la pena comprar? Modelos y mejores ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ventas-moviles-remontaran-finales-2023-1323216'>Cambio de rumbo en los móviles: las ventas revivirán al fin en el cuarto trimestre tras 2 años de descensos, según los expertos</a></h4>
-    <a href='https://computerhoy.com/moviles/ventas-moviles-remontaran-finales-2023-1323216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/revive-movil-3201810.jpg?tf=1200x' alt='Cambio de rumbo en los móviles: las ventas revivirán al fin en el cuarto trimestre tras 2 años de descensos, según los expertos' />
     </a>
 </div>
 
