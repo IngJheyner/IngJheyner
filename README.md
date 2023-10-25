@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alternativas-google-maps-te-interesa-privacidad-datos-1324744'>Alternativas a Google Maps si de verdad te interesa la privacidad de tus datos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativas-google-maps-te-interesa-privacidad-datos-1324744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/navmii-3205266.jpg?tf=1200x' alt='Alternativas a Google Maps si de verdad te interesa la privacidad de tus datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-transferir-archivos-android-smart-tv-android-tv-1317594'>Cómo transferir archivos de Android a un Smart TV con Android TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-transferir-archivos-android-smart-tv-android-tv-1317594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-transferir-archivos-android-smart-tv-android-tv-3190516.jpg?tf=1200x' alt='Cómo transferir archivos de Android a un Smart TV con Android TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/fallece-bobi-perro-mas-viejo-historia-1325620'>Fallece Bobi, el perro más anciano de la historia: nació el año de las Olimpiadas de Barcelona</a></h4>
+    <a href='https://computerhoy.com/life/fallece-bobi-perro-mas-viejo-historia-1325620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fallece-bobi-perro-anciano-historia-nacio-ano-olimpiadas-barcelona-3205300.jpg?tf=1200x' alt='Fallece Bobi, el perro más anciano de la historia: nació el año de las Olimpiadas de Barcelona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/historia-telefonos-moviles-origen-actualidad-1181484'>Esta es la historia de los teléfonos móviles: desde su origen hasta la actualidad</a></h4>
+    <a href='https://computerhoy.com/moviles/historia-telefonos-moviles-origen-actualidad-1181484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/historia-moviles-origen-actualidad-2923544.jpg?tf=1200x' alt='Esta es la historia de los teléfonos móviles: desde su origen hasta la actualidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-auto-107-ya-oficial-novedades-clave-como-descargarlo-1325588'>Android Auto 10.7 ya es oficial: estas son sus principales características</a></h4>
     <a href='https://computerhoy.com/android/android-auto-107-ya-oficial-novedades-clave-como-descargarlo-1325588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/movil-android-auto-dentro-coche-3099150.jpg?tf=1200x' alt='Android Auto 10.7 ya es oficial: estas son sus principales características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-calienta-motores-nuevo-evento-30-octubre-nombre-scary-fast-novedades-traera-1325524'>Scary Fast: Apple calienta motores para un evento el 30 de octubre en el que se presentarán nuevos Mac</a></h4>
-    <a href='https://computerhoy.com/apple/apple-calienta-motores-nuevo-evento-30-octubre-nombre-scary-fast-novedades-traera-1325524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/keynote-apple-30-octubre-3205046.jpg?tf=1200x' alt='Scary Fast: Apple calienta motores para un evento el 30 de octubre en el que se presentarán nuevos Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-mejores-roomba-200-euros-barata-1325426'>Amazon está liquidando una de las mejores Roomba: es 200 euros más barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-mejores-roomba-200-euros-barata-1325426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/roomba-i8-3204882.jpg?tf=1200x' alt='Amazon está liquidando una de las mejores Roomba: es 200 euros más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/power-1-dispositivo-nothing-no-llego-ver-luz-carl-pei-cuenta-motivos-1325494'>Power (1), el dispositivo de Nothing que jamás llegó a ver la luz: Carl Pei cuenta los motivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/power-1-dispositivo-nothing-no-llego-ver-luz-carl-pei-cuenta-motivos-1325494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nothing-dispositivo-fallido-3205016.jpg?tf=1200x' alt='Power (1), el dispositivo de Nothing que jamás llegó a ver la luz: Carl Pei cuenta los motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dispositivo-va-enganchado-chaqueta-proyecta-imagenes-mano-quiere-acabar-moviles-gracias-ia-1325478'>Este dispositivo que va enganchado a tu ropa y proyecta imágenes en tu mano quiere acabar con los móviles gracias a la IA </a></h4>
-    <a href='https://computerhoy.com/tecnologia/dispositivo-va-enganchado-chaqueta-proyecta-imagenes-mano-quiere-acabar-moviles-gracias-ia-1325478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/humane-ai-pin-3205010.jpg?tf=1200x' alt='Este dispositivo que va enganchado a tu ropa y proyecta imágenes en tu mano quiere acabar con los móviles gracias a la IA ' />
     </a>
 </div>
 
