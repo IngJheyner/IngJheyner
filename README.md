@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/truco-definitivo-android-auto-nunca-pierdas-rumbo-1323270'>El truco definitivo de Android Auto para que nunca pierdas el rumbo</a></h4>
-    <a href='https://computerhoy.com/android/truco-definitivo-android-auto-nunca-pierdas-rumbo-1323270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/truco-definitivo-android-auto-nunca-pierdas-rumbo-3201816.jpg?tf=1200x' alt='El truco definitivo de Android Auto para que nunca pierdas el rumbo' />
+    <h4><a href='https://computerhoy.com/motor/nueva-bicicleta-electrica-desafia-norma-integra-1325454'>Esta nueva bicicleta eléctrica desafía la norma y su parecido a una bicicleta normal casi asusta</a></h4>
+    <a href='https://computerhoy.com/motor/nueva-bicicleta-electrica-desafia-norma-integra-1325454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bicicleta-electrica-3204934.jpg?tf=1200x' alt='Esta nueva bicicleta eléctrica desafía la norma y su parecido a una bicicleta normal casi asusta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/como-secar-platos-lavavajillas-solo-5-minutos-1324746'>Cómo secar los platos del lavavajillas en solo 5 minutos</a></h4>
-    <a href='https://computerhoy.com/hogar/como-secar-platos-lavavajillas-solo-5-minutos-1324746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-secar-platos-lavavajillas-solo-5-minutos-3203978.jpg?tf=1200x' alt='Cómo secar los platos del lavavajillas en solo 5 minutos' />
+    <h4><a href='https://computerhoy.com/alimentacion/alerta-presencia-gluten-bebida-avena-sin-gluten-1324482'>Alerta por presencia de gluten en una bebida de avena que precisamente se anunciaba como “sin gluten”</a></h4>
+    <a href='https://computerhoy.com/alimentacion/alerta-presencia-gluten-bebida-avena-sin-gluten-1324482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/avena.jpg?tf=1200x' alt='Alerta por presencia de gluten en una bebida de avena que precisamente se anunciaba como “sin gluten”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-saber-series-peliculas-van-desaparecer-netflix-1324516'>El truco definitivo para saber qué series y películas dejarán pronto el catálogo de Netflix</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-saber-series-peliculas-van-desaparecer-netflix-1324516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/miniseries-netflix-ver-fin-semana-3089032.jpg?tf=1200x' alt='El truco definitivo para saber qué series y películas dejarán pronto el catálogo de Netflix' />
+    <h4><a href='https://computerhoy.com/life/amazon-acerca-alexa-personas-mayores-1325142'>Amazon acerca Alexa a las personas mayores </a></h4>
+    <a href='https://computerhoy.com/life/amazon-acerca-alexa-personas-mayores-1325142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazon-acerca-alexa-personas-mayores-3204568.jpg?tf=1200x' alt='Amazon acerca Alexa a las personas mayores ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-movistar-plus-noviembre-incluyendo-pelicula-mario-1325174'>Movistar Plus+ se hace con el estreno de Super Mario Bros La Película, y otras novedades en noviembre</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estrenos-movistar-plus-noviembre-incluyendo-pelicula-mario-1325174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/movistar-plus-hace-estreno-super-mario-bros-pelicula-otras-novedades-noviembre-3204606.jpg?tf=1200x' alt='Movistar Plus+ se hace con el estreno de Super Mario Bros La Película, y otras novedades en noviembre' />
+    <h4><a href='https://computerhoy.com/audio/altavoces-inteligentes-mejores-modelos-ofertas-1172860'>¿Qué altavoz inteligente te merece la pena comprar? Modelos y mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/audio/altavoces-inteligentes-mejores-modelos-ofertas-1172860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/homepod-3007214.jpg?tf=1200x' alt='¿Qué altavoz inteligente te merece la pena comprar? Modelos y mejores ofertas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-music-te-permitira-crear-listas-musica-portadas-inteligencia-artificial-1325146'>YouTube Music permitirá crear listas de música y portadas con inteligencia artificial  </a></h4>
-    <a href='https://computerhoy.com/apps/youtube-music-te-permitira-crear-listas-musica-portadas-inteligencia-artificial-1325146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/youtube-music-te-permitira-crear-listas-musica-portadas-inteligencia-artificial-3204578.jpg?tf=1200x' alt='YouTube Music permitirá crear listas de música y portadas con inteligencia artificial  ' />
+    <h4><a href='https://computerhoy.com/moviles/ventas-moviles-remontaran-finales-2023-1323216'>Cambio de rumbo en los móviles: las ventas revivirán al fin en el cuarto trimestre tras 2 años de descensos, según los expertos</a></h4>
+    <a href='https://computerhoy.com/moviles/ventas-moviles-remontaran-finales-2023-1323216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/revive-movil-3201810.jpg?tf=1200x' alt='Cambio de rumbo en los móviles: las ventas revivirán al fin en el cuarto trimestre tras 2 años de descensos, según los expertos' />
     </a>
 </div>
 
