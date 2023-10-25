@@ -50,17 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-saber-series-peliculas-van-desaparecer-netflix-1324516'>El truco definitivo para saber qué series y películas dejarán pronto el catálogo de Netflix</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-saber-series-peliculas-van-desaparecer-netflix-1324516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/miniseries-netflix-ver-fin-semana-3089032.jpg?tf=1200x' alt='El truco definitivo para saber qué series y películas dejarán pronto el catálogo de Netflix' />
+    <h4><a href='https://computerhoy.com/android/truco-definitivo-android-auto-nunca-pierdas-rumbo-1323270'>El truco definitivo de Android Auto para que nunca pierdas el rumbo</a></h4>
+    <a href='https://computerhoy.com/android/truco-definitivo-android-auto-nunca-pierdas-rumbo-1323270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/truco-definitivo-android-auto-nunca-pierdas-rumbo-3201816.jpg?tf=1200x' alt='El truco definitivo de Android Auto para que nunca pierdas el rumbo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rinde-snapdragon-8-gen-3-benchmarks-cuanto-mejora-respecto-gen-2-1324748'>Así rinde el Snapdragon 8 Gen 3: Benchmarks y mejoría respecto a Gen 2</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rinde-snapdragon-8-gen-3-benchmarks-cuanto-mejora-respecto-gen-2-1324748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/snapdragon-8-gen-3-3204628.jpg?tf=1200x' alt='Así rinde el Snapdragon 8 Gen 3: Benchmarks y mejoría respecto a Gen 2' />
+    <h4><a href='https://computerhoy.com/hogar/como-secar-platos-lavavajillas-solo-5-minutos-1324746'>Cómo secar los platos del lavavajillas en solo 5 minutos</a></h4>
+    <a href='https://computerhoy.com/hogar/como-secar-platos-lavavajillas-solo-5-minutos-1324746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-secar-platos-lavavajillas-solo-5-minutos-3203978.jpg?tf=1200x' alt='Cómo secar los platos del lavavajillas en solo 5 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/truco-saber-series-peliculas-van-desaparecer-netflix-1324516'>El truco definitivo para saber qué series y películas dejarán pronto el catálogo de Netflix</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-saber-series-peliculas-van-desaparecer-netflix-1324516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/miniseries-netflix-ver-fin-semana-3089032.jpg?tf=1200x' alt='El truco definitivo para saber qué series y películas dejarán pronto el catálogo de Netflix' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/youtube-music-te-permitira-crear-listas-musica-portadas-inteligencia-artificial-1325146'>YouTube Music permitirá crear listas de música y portadas con inteligencia artificial  </a></h4>
     <a href='https://computerhoy.com/apps/youtube-music-te-permitira-crear-listas-musica-portadas-inteligencia-artificial-1325146' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/youtube-music-te-permitira-crear-listas-musica-portadas-inteligencia-artificial-3204578.jpg?tf=1200x' alt='YouTube Music permitirá crear listas de música y portadas con inteligencia artificial  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/alerta-detectan-inyecciones-adelgazar-falsificadas-venta-1325134'>Alerta: La Organización Europea del Medicamento detecta inyecciones para adelgazar falsificadas</a></h4>
-    <a href='https://computerhoy.com/life/alerta-detectan-inyecciones-adelgazar-falsificadas-venta-1325134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/alerta-organizacion-europea-medicamento-detecta-inyecciones-adelgazar-falsificadas-venta-3204560.jpg?tf=1200x' alt='Alerta: La Organización Europea del Medicamento detecta inyecciones para adelgazar falsificadas' />
     </a>
 </div>
 
