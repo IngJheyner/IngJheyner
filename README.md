@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/americanos-tiktok-supermercados-espanoles-1325748'>Los americanos en TikTok se llevan las manos a la cabeza al entrar en los supermercados españoles</a></h4>
-    <a href='https://computerhoy.com/redes/americanos-tiktok-supermercados-espanoles-1325748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/americanos-tiktok-llevan-manos-cabeza-entrar-supermercados-espanoles-3205566.jpg?tf=1200x' alt='Los americanos en TikTok se llevan las manos a la cabeza al entrar en los supermercados españoles' />
+    <h4><a href='https://computerhoy.com/tecnologia/satya-nadella-confiesa-mayor-error-historia-microsoft-salida-mercado-moviles-1325788'>Satya Nadella confiesa su mayor error como CEO de Microsoft, y Bill Gates está de acuerdo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/satya-nadella-confiesa-mayor-error-historia-microsoft-salida-mercado-moviles-1325788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/satya-nadella-ceo-microsoft-1901205.jpg?tf=1200x' alt='Satya Nadella confiesa su mayor error como CEO de Microsoft, y Bill Gates está de acuerdo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/5-apps-disfrutar-pareja-salir-monotonia-1324204'>5 apps para disfrutar en pareja y salir de la monotonía</a></h4>
-    <a href='https://computerhoy.com/apps/5-apps-disfrutar-pareja-salir-monotonia-1324204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/5-apps-disfrutar-pareja-salir-monotonia-3202966.jpg?tf=1200x' alt='5 apps para disfrutar en pareja y salir de la monotonía' />
+    <h4><a href='https://computerhoy.com/entretenimiento/shazam-actualiza-recomendador-conciertos-otras-mejoras-1325782'>Shazam se actualiza con un recomendador de conciertos y otras mejoras</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/shazam-actualiza-recomendador-conciertos-otras-mejoras-1325782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/shazam-2984664.jpg?tf=1200x' alt='Shazam se actualiza con un recomendador de conciertos y otras mejoras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-recupera-teclado-numerico-puedas-hablar-contactos-no-tienes-agenda-1325758'>WhatsApp recupera el teclado numérico para que puedas hablar con contactos que no tienes en la agenda</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-recupera-teclado-numerico-puedas-hablar-contactos-no-tienes-agenda-1325758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/10-trucos-actuales-whatsapp-que-seguramente-no-conoces.jpg?tf=1200x' alt='WhatsApp recupera el teclado numérico para que puedas hablar con contactos que no tienes en la agenda' />
+    <h4><a href='https://computerhoy.com/motor/lexus-gigacast-doble-autonomia-coches-electricos-1325766'>Lexus promete una producción masiva y autonomía duplicada en sus coches eléctricos con baterías de última generación</a></h4>
+    <a href='https://computerhoy.com/motor/lexus-gigacast-doble-autonomia-coches-electricos-1325766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/lexus-promete-produccion-masiva-autonomia-duplicada-coches-electricos-baterias-ultima-generacion-3205606.jpg?tf=1200x' alt='Lexus promete una producción masiva y autonomía duplicada en sus coches eléctricos con baterías de última generación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/test-viral-nevera-supermercado-saber-alguien-buena-persona-1325752'>El test viral de la nevera en el supermercado para saber si alguien es una buena persona</a></h4>
-    <a href='https://computerhoy.com/life/test-viral-nevera-supermercado-saber-alguien-buena-persona-1325752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nevera-supermercado-3205588.jpg?tf=1200x' alt='El test viral de la nevera en el supermercado para saber si alguien es una buena persona' />
+    <h4><a href='https://computerhoy.com/life/llega-cambio-hora-invierno-debate-horario-fijo-1325760'>Llega el cambio de hora de invierno y con él el debate: ¿sería más saludable un horario fijo? </a></h4>
+    <a href='https://computerhoy.com/life/llega-cambio-hora-invierno-debate-horario-fijo-1325760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/llega-cambio-hora-seria-saludable-horario-fijo-reflexion-espana-3205600.jpg?tf=1200x' alt='Llega el cambio de hora de invierno y con él el debate: ¿sería más saludable un horario fijo? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/simple-cambio-radiadores-puede-ahorrarte-mucho-dinero-1325162'>Con este sencillo cambio he conseguido que los radiadores de la calefacción calienten más ahorrando en la factura</a></h4>
-    <a href='https://computerhoy.com/life/simple-cambio-radiadores-puede-ahorrarte-mucho-dinero-1325162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sencillo-cambio-radiadores-calefaccion-he-conseguido-calienten-ahorrando-factura-3204604.jpg?tf=1200x' alt='Con este sencillo cambio he conseguido que los radiadores de la calefacción calienten más ahorrando en la factura' />
+    <h4><a href='https://computerhoy.com/android/samsung-galaxy-a14-movil-economico-perfecto-ahora-solo-179-euros-1325686'>Tiene todo lo necesario, es de Samsung y ahora su precio ha caído en picado en Amazon</a></h4>
+    <a href='https://computerhoy.com/android/samsung-galaxy-a14-movil-economico-perfecto-ahora-solo-179-euros-1325686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/samsung-galaxy-a14-3143790.jpg?tf=1200x' alt='Tiene todo lo necesario, es de Samsung y ahora su precio ha caído en picado en Amazon' />
     </a>
 </div>
 
