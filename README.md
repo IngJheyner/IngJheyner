@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-auto-107-ya-oficial-novedades-clave-como-descargarlo-1325588'>Android Auto 10.7 ya es oficial: estas son sus principales características</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-107-ya-oficial-novedades-clave-como-descargarlo-1325588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/movil-android-auto-dentro-coche-3099150.jpg?tf=1200x' alt='Android Auto 10.7 ya es oficial: estas son sus principales características' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-calienta-motores-nuevo-evento-30-octubre-nombre-scary-fast-novedades-traera-1325524'>Apple calienta motores para un nuevo evento el 30 de octubre con nombre "Scary Fast": ¿Nuevos Mac?</a></h4>
+    <a href='https://computerhoy.com/apple/apple-calienta-motores-nuevo-evento-30-octubre-nombre-scary-fast-novedades-traera-1325524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/keynote-apple-30-octubre-3205046.jpg?tf=1200x' alt='Apple calienta motores para un nuevo evento el 30 de octubre con nombre "Scary Fast": ¿Nuevos Mac?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-mejores-roomba-200-euros-barata-1325426'>Amazon está liquidando una de las mejores Roomba: es 200 euros más barata</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-liquidando-mejores-roomba-200-euros-barata-1325426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/roomba-i8-3204882.jpg?tf=1200x' alt='Amazon está liquidando una de las mejores Roomba: es 200 euros más barata' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/dispositivo-va-enganchado-chaqueta-proyecta-imagenes-mano-quiere-acabar-moviles-gracias-ia-1325478'>Este dispositivo que va enganchado a tu ropa y proyecta imágenes en tu mano quiere acabar con los móviles gracias a la IA </a></h4>
     <a href='https://computerhoy.com/tecnologia/dispositivo-va-enganchado-chaqueta-proyecta-imagenes-mano-quiere-acabar-moviles-gracias-ia-1325478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/humane-ai-pin-3205010.jpg?tf=1200x' alt='Este dispositivo que va enganchado a tu ropa y proyecta imágenes en tu mano quiere acabar con los móviles gracias a la IA ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nueva-bicicleta-electrica-desafia-norma-integra-1325454'>Esta nueva bicicleta eléctrica desafía la norma y su parecido a una bicicleta normal casi asusta</a></h4>
-    <a href='https://computerhoy.com/motor/nueva-bicicleta-electrica-desafia-norma-integra-1325454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bicicleta-electrica-3204934.jpg?tf=1200x' alt='Esta nueva bicicleta eléctrica desafía la norma y su parecido a una bicicleta normal casi asusta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/alerta-presencia-gluten-bebida-avena-sin-gluten-1324482'>Alerta por presencia de gluten en una bebida de avena que precisamente se anunciaba como “sin gluten”</a></h4>
-    <a href='https://computerhoy.com/alimentacion/alerta-presencia-gluten-bebida-avena-sin-gluten-1324482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/avena.jpg?tf=1200x' alt='Alerta por presencia de gluten en una bebida de avena que precisamente se anunciaba como “sin gluten”' />
     </a>
 </div>
 
