@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-calienta-motores-nuevo-evento-30-octubre-nombre-scary-fast-novedades-traera-1325524'>Apple calienta motores para un nuevo evento el 30 de octubre con nombre "Scary Fast": ¿Nuevos Mac?</a></h4>
+    <h4><a href='https://computerhoy.com/apple/apple-calienta-motores-nuevo-evento-30-octubre-nombre-scary-fast-novedades-traera-1325524'>Scary Fast: Apple calienta motores para un evento el 30 de octubre en el que se presentarán nuevos Mac</a></h4>
     <a href='https://computerhoy.com/apple/apple-calienta-motores-nuevo-evento-30-octubre-nombre-scary-fast-novedades-traera-1325524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/keynote-apple-30-octubre-3205046.jpg?tf=1200x' alt='Apple calienta motores para un nuevo evento el 30 de octubre con nombre "Scary Fast": ¿Nuevos Mac?' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/keynote-apple-30-octubre-3205046.jpg?tf=1200x' alt='Scary Fast: Apple calienta motores para un evento el 30 de octubre en el que se presentarán nuevos Mac' />
     </a>
 </div>
 
