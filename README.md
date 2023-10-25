@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alternativas-google-maps-te-interesa-privacidad-datos-1324744'>Alternativas a Google Maps si de verdad te interesa la privacidad de tus datos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alternativas-google-maps-te-interesa-privacidad-datos-1324744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/navmii-3205266.jpg?tf=1200x' alt='Alternativas a Google Maps si de verdad te interesa la privacidad de tus datos' />
+    <h4><a href='https://computerhoy.com/life/simple-cambio-radiadores-puede-ahorrarte-mucho-dinero-1325162'>Con este sencillo cambio he conseguido que los radiadores de la calefacción calienten más ahorrando en la factura</a></h4>
+    <a href='https://computerhoy.com/life/simple-cambio-radiadores-puede-ahorrarte-mucho-dinero-1325162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sencillo-cambio-radiadores-calefaccion-he-conseguido-calienten-ahorrando-factura-3204604.jpg?tf=1200x' alt='Con este sencillo cambio he conseguido que los radiadores de la calefacción calienten más ahorrando en la factura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-transferir-archivos-android-smart-tv-android-tv-1317594'>Cómo transferir archivos de Android a un Smart TV con Android TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-transferir-archivos-android-smart-tv-android-tv-1317594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-transferir-archivos-android-smart-tv-android-tv-3190516.jpg?tf=1200x' alt='Cómo transferir archivos de Android a un Smart TV con Android TV' />
+    <h4><a href='https://computerhoy.com/life/pueblo-nombres-raros-mundo-espana-1325702'>Este es el pueblo con los nombres más raros del mundo, y está en España</a></h4>
+    <a href='https://computerhoy.com/life/pueblo-nombres-raros-mundo-espana-1325702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/huerta-rey-3205466.jpg?tf=1200x' alt='Este es el pueblo con los nombres más raros del mundo, y está en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fallece-bobi-perro-mas-viejo-historia-1325620'>Fallece Bobi, el perro más anciano de la historia: nació el año de las Olimpiadas de Barcelona</a></h4>
-    <a href='https://computerhoy.com/life/fallece-bobi-perro-mas-viejo-historia-1325620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fallece-bobi-perro-anciano-historia-nacio-ano-olimpiadas-barcelona-3205300.jpg?tf=1200x' alt='Fallece Bobi, el perro más anciano de la historia: nació el año de las Olimpiadas de Barcelona' />
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-miercoles-25-octubre-2023-1325744'>Programación TV: ¿Qué ver hoy en televisión? Miércoles 25 de octubre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-miercoles-25-octubre-2023-1325744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-miercoles-25-octubre-2023-3205532.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Miércoles 25 de octubre de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/historia-telefonos-moviles-origen-actualidad-1181484'>Esta es la historia de los teléfonos móviles: desde su origen hasta la actualidad</a></h4>
-    <a href='https://computerhoy.com/moviles/historia-telefonos-moviles-origen-actualidad-1181484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/historia-moviles-origen-actualidad-2923544.jpg?tf=1200x' alt='Esta es la historia de los teléfonos móviles: desde su origen hasta la actualidad' />
+    <h4><a href='https://computerhoy.com/tecnologia/carrefour-tumba-precio-cafetera-dolce-gusto-superventas-deja-precio-regalo-1325456'>Carrefour tumba el precio de la cafetera Dolce Gusto superventas y la deja a precio de regalo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/carrefour-tumba-precio-cafetera-dolce-gusto-superventas-deja-precio-regalo-1325456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/krups-piccolo-xs-2617911.jpg?tf=1200x' alt='Carrefour tumba el precio de la cafetera Dolce Gusto superventas y la deja a precio de regalo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-107-ya-oficial-novedades-clave-como-descargarlo-1325588'>Android Auto 10.7 ya es oficial: estas son sus principales características</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-107-ya-oficial-novedades-clave-como-descargarlo-1325588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/movil-android-auto-dentro-coche-3099150.jpg?tf=1200x' alt='Android Auto 10.7 ya es oficial: estas son sus principales características' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-tamagotchi-hackers-tiene-nueva-victimas-1325678'>Flipper Zero, el Tamagotchi para hackers, tiene nuevas “víctimas”</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-tamagotchi-hackers-tiene-nueva-victimas-1325678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/flipper-zero-tamagotchi-hackers-tiene-nueva-victimas-3205360.jpg?tf=1200x' alt='Flipper Zero, el Tamagotchi para hackers, tiene nuevas “víctimas”' />
     </a>
 </div>
 
