@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/americanos-tiktok-supermercados-espanoles-1325748'>Los americanos en TikTok se llevan las manos a la cabeza al entrar en los supermercados españoles</a></h4>
+    <a href='https://computerhoy.com/redes/americanos-tiktok-supermercados-espanoles-1325748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/americanos-tiktok-llevan-manos-cabeza-entrar-supermercados-espanoles-3205566.jpg?tf=1200x' alt='Los americanos en TikTok se llevan las manos a la cabeza al entrar en los supermercados españoles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/5-apps-disfrutar-pareja-salir-monotonia-1324204'>5 apps para disfrutar en pareja y salir de la monotonía</a></h4>
+    <a href='https://computerhoy.com/apps/5-apps-disfrutar-pareja-salir-monotonia-1324204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/5-apps-disfrutar-pareja-salir-monotonia-3202966.jpg?tf=1200x' alt='5 apps para disfrutar en pareja y salir de la monotonía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-recupera-teclado-numerico-puedas-hablar-contactos-no-tienes-agenda-1325758'>WhatsApp recupera el teclado numérico para que puedas hablar con contactos que no tienes en la agenda</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-recupera-teclado-numerico-puedas-hablar-contactos-no-tienes-agenda-1325758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/10-trucos-actuales-whatsapp-que-seguramente-no-conoces.jpg?tf=1200x' alt='WhatsApp recupera el teclado numérico para que puedas hablar con contactos que no tienes en la agenda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/test-viral-nevera-supermercado-saber-alguien-buena-persona-1325752'>El test viral de la nevera en el supermercado para saber si alguien es una buena persona</a></h4>
+    <a href='https://computerhoy.com/life/test-viral-nevera-supermercado-saber-alguien-buena-persona-1325752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nevera-supermercado-3205588.jpg?tf=1200x' alt='El test viral de la nevera en el supermercado para saber si alguien es una buena persona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/simple-cambio-radiadores-puede-ahorrarte-mucho-dinero-1325162'>Con este sencillo cambio he conseguido que los radiadores de la calefacción calienten más ahorrando en la factura</a></h4>
     <a href='https://computerhoy.com/life/simple-cambio-radiadores-puede-ahorrarte-mucho-dinero-1325162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sencillo-cambio-radiadores-calefaccion-he-conseguido-calienten-ahorrando-factura-3204604.jpg?tf=1200x' alt='Con este sencillo cambio he conseguido que los radiadores de la calefacción calienten más ahorrando en la factura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pueblo-nombres-raros-mundo-espana-1325702'>Este es el pueblo con los nombres más raros del mundo, y está en España</a></h4>
-    <a href='https://computerhoy.com/life/pueblo-nombres-raros-mundo-espana-1325702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/huerta-rey-3205466.jpg?tf=1200x' alt='Este es el pueblo con los nombres más raros del mundo, y está en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-miercoles-25-octubre-2023-1325744'>Programación TV: ¿Qué ver hoy en televisión? Miércoles 25 de octubre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-miercoles-25-octubre-2023-1325744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-miercoles-25-octubre-2023-3205532.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Miércoles 25 de octubre de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/carrefour-tumba-precio-cafetera-dolce-gusto-superventas-deja-precio-regalo-1325456'>Carrefour tumba el precio de la cafetera Dolce Gusto superventas y la deja a precio de regalo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/carrefour-tumba-precio-cafetera-dolce-gusto-superventas-deja-precio-regalo-1325456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/krups-piccolo-xs-2617911.jpg?tf=1200x' alt='Carrefour tumba el precio de la cafetera Dolce Gusto superventas y la deja a precio de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-tamagotchi-hackers-tiene-nueva-victimas-1325678'>Flipper Zero, el Tamagotchi para hackers, tiene nuevas “víctimas”</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-tamagotchi-hackers-tiene-nueva-victimas-1325678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/flipper-zero-tamagotchi-hackers-tiene-nueva-victimas-3205360.jpg?tf=1200x' alt='Flipper Zero, el Tamagotchi para hackers, tiene nuevas “víctimas”' />
     </a>
 </div>
 
