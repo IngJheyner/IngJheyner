@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/truco-saber-series-peliculas-van-desaparecer-netflix-1324516'>El truco definitivo para saber qué series y películas dejarán pronto el catálogo de Netflix</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-saber-series-peliculas-van-desaparecer-netflix-1324516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/miniseries-netflix-ver-fin-semana-3089032.jpg?tf=1200x' alt='El truco definitivo para saber qué series y películas dejarán pronto el catálogo de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/rinde-snapdragon-8-gen-3-benchmarks-cuanto-mejora-respecto-gen-2-1324748'>Así rinde el Snapdragon 8 Gen 3: Benchmarks y mejoría respecto a Gen 2</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rinde-snapdragon-8-gen-3-benchmarks-cuanto-mejora-respecto-gen-2-1324748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/snapdragon-8-gen-3-3204628.jpg?tf=1200x' alt='Así rinde el Snapdragon 8 Gen 3: Benchmarks y mejoría respecto a Gen 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/estrenos-movistar-plus-noviembre-incluyendo-pelicula-mario-1325174'>Movistar Plus+ se hace con el estreno de Super Mario Bros La Película, y otras novedades en noviembre</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estrenos-movistar-plus-noviembre-incluyendo-pelicula-mario-1325174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/movistar-plus-hace-estreno-super-mario-bros-pelicula-otras-novedades-noviembre-3204606.jpg?tf=1200x' alt='Movistar Plus+ se hace con el estreno de Super Mario Bros La Película, y otras novedades en noviembre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/alerta-detectan-inyecciones-adelgazar-falsificadas-venta-1325134'>Alerta: La Organización Europea del Medicamento detecta inyecciones para adelgazar falsificadas</a></h4>
     <a href='https://computerhoy.com/life/alerta-detectan-inyecciones-adelgazar-falsificadas-venta-1325134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/alerta-organizacion-europea-medicamento-detecta-inyecciones-adelgazar-falsificadas-venta-3204560.jpg?tf=1200x' alt='Alerta: La Organización Europea del Medicamento detecta inyecciones para adelgazar falsificadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/magnetosfera-mercurio-tierra-actuan-manera-inversa-1325112'>Mercurio es el único planeta interior, junto a la Tierra, con magnetosfera, pero actúa de manera opuesta</a></h4>
-    <a href='https://computerhoy.com/espacio/magnetosfera-mercurio-tierra-actuan-manera-inversa-1325112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/mercurio-unico-planeta-interior-junto-tierra-magnetosfera-pero-actua-manera-opuesta-3204510.jpg?tf=1200x' alt='Mercurio es el único planeta interior, junto a la Tierra, con magnetosfera, pero actúa de manera opuesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/kodi-lanza-primera-beta-oficial-version-21-omega-1325118'>Kodi lanza la primera beta oficial de su versión 21 "Omega"  </a></h4>
-    <a href='https://computerhoy.com/tv/kodi-lanza-primera-beta-oficial-version-21-omega-1325118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-cientos-canales-tdt-gratis-kodi-lista-iptv-tdtchannels-3127304.jpg?tf=1200x' alt='Kodi lanza la primera beta oficial de su versión 21 "Omega"  ' />
     </a>
 </div>
 
