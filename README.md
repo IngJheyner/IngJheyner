@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601'>Mejores televisores 4K que puedes comprar en 2023 según tu presupuesto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-puedes-comprar-presupuesto-1057601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/philips-55oled707-12-3032800.jpg?tf=1200x' alt='Mejores televisores 4K que puedes comprar en 2023 según tu presupuesto' />
+    <h4><a href='https://computerhoy.com/apps/x-comienza-anadir-funcion-llamadas-audio-videollamadas-pero-no-todos-1326008'>X comienza a añadir la función de llamadas de audio y videollamadas pero no para todos</a></h4>
+    <a href='https://computerhoy.com/apps/x-comienza-anadir-funcion-llamadas-audio-videollamadas-pero-no-todos-1326008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-sentado-junto-logos-twitter-x-3205070.jpg?tf=1200x' alt='X comienza a añadir la función de llamadas de audio y videollamadas pero no para todos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-llenar-lavavajillas-forma-correcta-sea-eficiente-1325168'>Cómo llenar tu lavavajillas de forma correcta para que sea más eficiente</a></h4>
-    <a href='https://computerhoy.com/life/como-llenar-lavavajillas-forma-correcta-sea-eficiente-1325168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-llenar-lavavajillas-forma-correcta-sea-eficiente-3204620.jpg?tf=1200x' alt='Cómo llenar tu lavavajillas de forma correcta para que sea más eficiente' />
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-654-computer-hoy-1322148'>¡Ya está en tu quiosco el número 654 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-654-computer-hoy-1322148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/computer-hoy-654-3201714.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 654 de Computer Hoy!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/sencilla-configuracion-debes-hacer-tener-red-wifi-segura-1325786'>La sencilla configuración que debes hacer en tu router para tener una red WiFi segura</a></h4>
-    <a href='https://computerhoy.com/redes/sencilla-configuracion-debes-hacer-tener-red-wifi-segura-1325786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/router-wifi.jpg?tf=1200x' alt='La sencilla configuración que debes hacer en tu router para tener una red WiFi segura' />
+    <h4><a href='https://computerhoy.com/tecnologia/va-agotar-colacao-regala-smartwatch-otra-vez-ahora-amazon-vende-pack-1325998'>Se va a agotar: ColaCao regala un smartwatch otra vez, y ahora Amazon vende el pack</a></h4>
+    <a href='https://computerhoy.com/tecnologia/va-agotar-colacao-regala-smartwatch-otra-vez-ahora-amazon-vende-pack-1325998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cola-cao-3205870.jpg?tf=1200x' alt='Se va a agotar: ColaCao regala un smartwatch otra vez, y ahora Amazon vende el pack' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/satya-nadella-confiesa-mayor-error-historia-microsoft-salida-mercado-moviles-1325788'>Satya Nadella confiesa su mayor error como CEO de Microsoft, y Bill Gates está de acuerdo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/satya-nadella-confiesa-mayor-error-historia-microsoft-salida-mercado-moviles-1325788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/satya-nadella-ceo-microsoft-1901205.jpg?tf=1200x' alt='Satya Nadella confiesa su mayor error como CEO de Microsoft, y Bill Gates está de acuerdo' />
+    <h4><a href='https://computerhoy.com/audio/auriculares-bose-estos-son-mejores-puedes-comprar-1325978'>Auriculares BOSE: estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/audio/auriculares-bose-estos-son-mejores-puedes-comprar-1325978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bose-quietcomfort-earbuds-ii-2934806.jpg?tf=1200x' alt='Auriculares BOSE: estos son los mejores que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/shazam-actualiza-recomendador-conciertos-otras-mejoras-1325782'>Shazam se actualiza con un recomendador de conciertos y otras mejoras</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/shazam-actualiza-recomendador-conciertos-otras-mejoras-1325782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/shazam-2984664.jpg?tf=1200x' alt='Shazam se actualiza con un recomendador de conciertos y otras mejoras' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-maps-vs-waze-cual-mejor-app-llegar-tiempo-1324478'>Google Maps vs. Waze: diferencias y cuál es la mejor app para llegar a tiempo a tu destino</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-maps-vs-waze-cual-mejor-app-llegar-tiempo-1324478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-maps-vs-waze-diferencias-cual-mejor-app-llegar-tiempo-destino-3203534.jpg?tf=1200x' alt='Google Maps vs. Waze: diferencias y cuál es la mejor app para llegar a tiempo a tu destino' />
     </a>
 </div>
 
