@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/x-comienza-anadir-funcion-llamadas-audio-videollamadas-pero-no-todos-1326008'>X comienza a añadir la función de llamadas de audio y videollamadas pero no para todos</a></h4>
-    <a href='https://computerhoy.com/apps/x-comienza-anadir-funcion-llamadas-audio-videollamadas-pero-no-todos-1326008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-sentado-junto-logos-twitter-x-3205070.jpg?tf=1200x' alt='X comienza a añadir la función de llamadas de audio y videollamadas pero no para todos' />
+    <h4><a href='https://computerhoy.com/apple/futuro-airpods-apple-nuevos-airpods-airpods-max-2024-airpods-pro-mejorados-2025-1326094'>El futuro de los AirPods de Apple: nuevos AirPods y AirPods Max en 2024 y AirPods Pro mejorados en 2025</a></h4>
+    <a href='https://computerhoy.com/apple/futuro-airpods-apple-nuevos-airpods-airpods-max-2024-airpods-pro-mejorados-2025-1326094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-airpods-pro-2-1675628565024-2947480.jpg?tf=1200x' alt='El futuro de los AirPods de Apple: nuevos AirPods y AirPods Max en 2024 y AirPods Pro mejorados en 2025' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-654-computer-hoy-1322148'>¡Ya está en tu quiosco el número 654 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-654-computer-hoy-1322148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/computer-hoy-654-3201714.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 654 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/apple/filtra-nuevo-macbook-pro-escasos-dias-evento-apple-1326132'>Se filtra el nuevo MacBook Pro a escasos días del evento de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/filtra-nuevo-macbook-pro-escasos-dias-evento-apple-1326132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/macbook-pro-16-m2-max-analisis-opinion-3015996.jpg?tf=1200x' alt='Se filtra el nuevo MacBook Pro a escasos días del evento de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/va-agotar-colacao-regala-smartwatch-otra-vez-ahora-amazon-vende-pack-1325998'>Se va a agotar: ColaCao regala un smartwatch otra vez, y ahora Amazon vende el pack</a></h4>
-    <a href='https://computerhoy.com/tecnologia/va-agotar-colacao-regala-smartwatch-otra-vez-ahora-amazon-vende-pack-1325998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cola-cao-3205870.jpg?tf=1200x' alt='Se va a agotar: ColaCao regala un smartwatch otra vez, y ahora Amazon vende el pack' />
+    <h4><a href='https://computerhoy.com/android/llega-android-auto-nueva-opcion-personalizacion-muy-esperada-1326128'>Llega a Android Auto una nueva opción de personalización muy esperada</a></h4>
+    <a href='https://computerhoy.com/android/llega-android-auto-nueva-opcion-personalizacion-muy-esperada-1326128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/android-auto-3120056.jpg?tf=1200x' alt='Llega a Android Auto una nueva opción de personalización muy esperada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/auriculares-bose-estos-son-mejores-puedes-comprar-1325978'>Auriculares BOSE: estos son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/audio/auriculares-bose-estos-son-mejores-puedes-comprar-1325978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bose-quietcomfort-earbuds-ii-2934806.jpg?tf=1200x' alt='Auriculares BOSE: estos son los mejores que puedes comprar' />
+    <h4><a href='https://computerhoy.com/google/google-maps-android-pone-dia-incluye-nueva-funcion-lleva-cuatro-anos-ios-1321238'>Google Maps se actualiza con un nuevo botón que los usuarios han estado esperando durante años </a></h4>
+    <a href='https://computerhoy.com/google/google-maps-android-pone-dia-incluye-nueva-funcion-lleva-cuatro-anos-ios-1321238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/alegria-google-maps-3206158.jpg?tf=1200x' alt='Google Maps se actualiza con un nuevo botón que los usuarios han estado esperando durante años ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-maps-vs-waze-cual-mejor-app-llegar-tiempo-1324478'>Google Maps vs. Waze: diferencias y cuál es la mejor app para llegar a tiempo a tu destino</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-maps-vs-waze-cual-mejor-app-llegar-tiempo-1324478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-maps-vs-waze-diferencias-cual-mejor-app-llegar-tiempo-destino-3203534.jpg?tf=1200x' alt='Google Maps vs. Waze: diferencias y cuál es la mejor app para llegar a tiempo a tu destino' />
+    <h4><a href='https://computerhoy.com/tecnologia/carrefour-desploma-precio-reloj-apple-deseado-watch-ultra-2-ya-oferta-1326050'>Carrefour desploma el precio del reloj Apple más deseado, el Watch Ultra 2, ya en oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/carrefour-desploma-precio-reloj-apple-deseado-watch-ultra-2-ya-oferta-1326050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-ultra-2-3194940.jpg?tf=1200x' alt='Carrefour desploma el precio del reloj Apple más deseado, el Watch Ultra 2, ya en oferta' />
     </a>
 </div>
 
