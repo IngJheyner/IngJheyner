@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-automatizar-rutinas-android-auto-1325974'>Cómo configurar y automatizar rutinas en Android Auto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-automatizar-rutinas-android-auto-1325974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-configurar-automatizar-rutinas-android-auto-3205822.jpg?tf=1200x' alt='Cómo configurar y automatizar rutinas en Android Auto' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-fnmt-agencia-tributaria-alerta-1326298'>Si has recibido este mail de la FNMT o la Agencia Tributaria tus datos están en peligro </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafa-fnmt-agencia-tributaria-alerta-1326298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-android-3114620.jpg?tf=1200x' alt='Si has recibido este mail de la FNMT o la Agencia Tributaria tus datos están en peligro ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-jueves-26-octubre-2023-1326288'>Programación TV: ¿Qué ver hoy en televisión? Jueves 26 de octubre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-jueves-26-octubre-2023-1326288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-jueves-26-octubre-2023-3206518.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Jueves 26 de octubre de 2023' />
+    <h4><a href='https://computerhoy.com/espacio/como-cuando-ver-luna-cazador-eclipse-lunar-28-octubre-1326284'>Cómo y cuándo ver la Luna de Cazador y el eclipse lunar parcial de este sábado 28 de octubre </a></h4>
+    <a href='https://computerhoy.com/espacio/como-cuando-ver-luna-cazador-eclipse-lunar-28-octubre-1326284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-cuando-ver-luna-cazador-eclipse-lunar-parcial-sabado-3206520.jpg?tf=1200x' alt='Cómo y cuándo ver la Luna de Cazador y el eclipse lunar parcial de este sábado 28 de octubre ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/legal-usar-vpn-espana-1325784'>¿Es legal usar una VPN en España?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/legal-usar-vpn-espana-1325784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/legal-usar-vpn-espana-3205820.jpg?tf=1200x' alt='¿Es legal usar una VPN en España?' />
+    <h4><a href='https://computerhoy.com/alimentacion/come-22-restaurantes-estrella-michelin-24-horas-1326276'>Come en 22 restaurantes con estrella Michelin en 24 horas para romper un récord Guinness </a></h4>
+    <a href='https://computerhoy.com/alimentacion/come-22-restaurantes-estrella-michelin-24-horas-1326276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/devora-22-restaurantes-michelin-solo-24-horas-romper-record-guinness-3206464.jpg?tf=1200x' alt='Come en 22 restaurantes con estrella Michelin en 24 horas para romper un récord Guinness ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-miui-bienvenido-hyperos-nuevo-sistema-operativo-xiaomi-1326240'>Adiós MIUI, bienvenido HyperOS, el nuevo sistema operativo de Xiaomi </a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-miui-bienvenido-hyperos-nuevo-sistema-operativo-xiaomi-1326240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/software-unirlos-todos-hyperos-nuevo-sistema-operativo-xiaomi-3206368.jpg?tf=1200x' alt='Adiós MIUI, bienvenido HyperOS, el nuevo sistema operativo de Xiaomi ' />
+    <h4><a href='https://computerhoy.com/apps/inteligencia-artificial-llega-fin-google-maps-1326308'>La inteligencia artificial llega al fin a Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/inteligencia-artificial-llega-fin-google-maps-1326308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-maps-3206608.jpg?tf=1200x' alt='La inteligencia artificial llega al fin a Google Maps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-error-pulsera-pro-xiaomi-ha-desplomado-precio-mitad-1325550'>No es un error: la pulsera Pro de Xiaomi ha desplomado su precio a la mitad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-error-pulsera-pro-xiaomi-ha-desplomado-precio-mitad-1325550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-smart-band-7-pro-3205068.jpg?tf=1200x' alt='No es un error: la pulsera Pro de Xiaomi ha desplomado su precio a la mitad' />
+    <h4><a href='https://computerhoy.com/life/clave-separa-lideres-jefes-steve-jobs-1325062'>La clave que separa a los líderes de los jefes, según Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/life/clave-separa-lideres-jefes-steve-jobs-1325062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/steve-jobs-3081322.jpg?tf=1200x' alt='La clave que separa a los líderes de los jefes, según Steve Jobs' />
     </a>
 </div>
 
