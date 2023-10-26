@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/sencilla-configuracion-debes-hacer-tener-red-wifi-segura-1325786'>La sencilla configuración que debes hacer en tu router para tener una red WiFi segura</a></h4>
+    <a href='https://computerhoy.com/redes/sencilla-configuracion-debes-hacer-tener-red-wifi-segura-1325786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/router-wifi.jpg?tf=1200x' alt='La sencilla configuración que debes hacer en tu router para tener una red WiFi segura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/satya-nadella-confiesa-mayor-error-historia-microsoft-salida-mercado-moviles-1325788'>Satya Nadella confiesa su mayor error como CEO de Microsoft, y Bill Gates está de acuerdo</a></h4>
     <a href='https://computerhoy.com/tecnologia/satya-nadella-confiesa-mayor-error-historia-microsoft-salida-mercado-moviles-1325788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/satya-nadella-ceo-microsoft-1901205.jpg?tf=1200x' alt='Satya Nadella confiesa su mayor error como CEO de Microsoft, y Bill Gates está de acuerdo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/llega-cambio-hora-invierno-debate-horario-fijo-1325760'>Llega el cambio de hora de invierno y con él el debate: ¿sería más saludable un horario fijo? </a></h4>
     <a href='https://computerhoy.com/life/llega-cambio-hora-invierno-debate-horario-fijo-1325760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/llega-cambio-hora-seria-saludable-horario-fijo-reflexion-espana-3205600.jpg?tf=1200x' alt='Llega el cambio de hora de invierno y con él el debate: ¿sería más saludable un horario fijo? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/samsung-galaxy-a14-movil-economico-perfecto-ahora-solo-179-euros-1325686'>Tiene todo lo necesario, es de Samsung y ahora su precio ha caído en picado en Amazon</a></h4>
-    <a href='https://computerhoy.com/android/samsung-galaxy-a14-movil-economico-perfecto-ahora-solo-179-euros-1325686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/samsung-galaxy-a14-3143790.jpg?tf=1200x' alt='Tiene todo lo necesario, es de Samsung y ahora su precio ha caído en picado en Amazon' />
     </a>
 </div>
 
