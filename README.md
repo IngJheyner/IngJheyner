@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-maps-android-pone-dia-incluye-nueva-funcion-lleva-cuatro-anos-ios-1321238'>Google Maps se actualiza con un nuevo botón que los usuarios han estado esperando durante años </a></h4>
+    <a href='https://computerhoy.com/google/google-maps-android-pone-dia-incluye-nueva-funcion-lleva-cuatro-anos-ios-1321238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/alegria-google-maps-3206158.jpg?tf=1200x' alt='Google Maps se actualiza con un nuevo botón que los usuarios han estado esperando durante años ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-numero-serie-ordenador-pc-windows-11-1296762'>Cómo encontrar el número de serie de un ordenador con Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-encontrar-numero-serie-ordenador-pc-windows-11-1296762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/encontrar-numero-serie-pc-3120358.jpg?tf=1200x' alt='Cómo encontrar el número de serie de un ordenador con Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/bomba-nuclear-eeuu-perdio-aun-nadie-sabe-donde-1316658'>La misteriosa bomba nuclear perdida de EEUU que no explotó y que nadie sabe dónde está </a></h4>
     <a href='https://computerhoy.com/life/bomba-nuclear-eeuu-perdio-aun-nadie-sabe-donde-1316658' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/misteriosa-bomba-nuclear-perdida-eeuu-no-exploto-nadie-sabe-donde-3188996.jpg?tf=1200x' alt='La misteriosa bomba nuclear perdida de EEUU que no explotó y que nadie sabe dónde está ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/vuelve-thermomix-barata-aldi-30-descuento-mejor-precio-historico-1326144'>Vuelve la Thermomix barata de Aldi con un 30% de descuento, su mejor precio histórico</a></h4>
     <a href='https://computerhoy.com/alimentacion/vuelve-thermomix-barata-aldi-30-descuento-mejor-precio-historico-1326144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aldi-robot-cocina-3206160.jpg?tf=1200x' alt='Vuelve la Thermomix barata de Aldi con un 30% de descuento, su mejor precio histórico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-pensando-comprarte-flipper-zero-tamagotchi-hackers-deberias-hacerlo-ahora-mismo-1326112'>Si estás pensando en comprarte un Flipper Zero, el Tamagotchi para hackers, deberías hacerlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-pensando-comprarte-flipper-zero-tamagotchi-hackers-deberias-hacerlo-ahora-mismo-1326112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/flipper-zero-3206138.jpg?tf=1200x' alt='Si estás pensando en comprarte un Flipper Zero, el Tamagotchi para hackers, deberías hacerlo ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-12-podria-obligarte-usar-copilot-1326134'>Windows 12 podría obligarte a usar Copilot de una manera que no te va a gustar</a></h4>
-    <a href='https://computerhoy.com/windows/windows-12-podria-obligarte-usar-copilot-1326134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/windows-12-2845309.jpg?tf=1200x' alt='Windows 12 podría obligarte a usar Copilot de una manera que no te va a gustar' />
     </a>
 </div>
 
