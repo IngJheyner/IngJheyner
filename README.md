@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-android-pone-dia-incluye-nueva-funcion-lleva-cuatro-anos-ios-1321238'>Google Maps se actualiza con un nuevo botón que los usuarios han estado esperando durante años </a></h4>
-    <a href='https://computerhoy.com/google/google-maps-android-pone-dia-incluye-nueva-funcion-lleva-cuatro-anos-ios-1321238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/alegria-google-maps-3206158.jpg?tf=1200x' alt='Google Maps se actualiza con un nuevo botón que los usuarios han estado esperando durante años ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-automatizar-rutinas-android-auto-1325974'>Cómo configurar y automatizar rutinas en Android Auto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-automatizar-rutinas-android-auto-1325974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-configurar-automatizar-rutinas-android-auto-3205822.jpg?tf=1200x' alt='Cómo configurar y automatizar rutinas en Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-numero-serie-ordenador-pc-windows-11-1296762'>Cómo encontrar el número de serie de un ordenador con Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-encontrar-numero-serie-ordenador-pc-windows-11-1296762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/encontrar-numero-serie-pc-3120358.jpg?tf=1200x' alt='Cómo encontrar el número de serie de un ordenador con Windows 11' />
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-jueves-26-octubre-2023-1326288'>Programación TV: ¿Qué ver hoy en televisión? Jueves 26 de octubre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-jueves-26-octubre-2023-1326288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-jueves-26-octubre-2023-3206518.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Jueves 26 de octubre de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bomba-nuclear-eeuu-perdio-aun-nadie-sabe-donde-1316658'>La misteriosa bomba nuclear perdida de EEUU que no explotó y que nadie sabe dónde está </a></h4>
-    <a href='https://computerhoy.com/life/bomba-nuclear-eeuu-perdio-aun-nadie-sabe-donde-1316658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/misteriosa-bomba-nuclear-perdida-eeuu-no-exploto-nadie-sabe-donde-3188996.jpg?tf=1200x' alt='La misteriosa bomba nuclear perdida de EEUU que no explotó y que nadie sabe dónde está ' />
+    <h4><a href='https://computerhoy.com/tecnologia/legal-usar-vpn-espana-1325784'>¿Es legal usar una VPN en España?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/legal-usar-vpn-espana-1325784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/legal-usar-vpn-espana-3205820.jpg?tf=1200x' alt='¿Es legal usar una VPN en España?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-devolver-producto-aliexpress-363329'>Cómo devolver un producto a AliExpress paso a paso</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-devolver-producto-aliexpress-363329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/aliexpress-app-2442063.jpg?tf=1200x' alt='Cómo devolver un producto a AliExpress paso a paso' />
+    <h4><a href='https://computerhoy.com/tecnologia/adios-miui-bienvenido-hyperos-nuevo-sistema-operativo-xiaomi-1326240'>Adiós MIUI, bienvenido HyperOS, el nuevo sistema operativo de Xiaomi </a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-miui-bienvenido-hyperos-nuevo-sistema-operativo-xiaomi-1326240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/software-unirlos-todos-hyperos-nuevo-sistema-operativo-xiaomi-3206368.jpg?tf=1200x' alt='Adiós MIUI, bienvenido HyperOS, el nuevo sistema operativo de Xiaomi ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/vuelve-thermomix-barata-aldi-30-descuento-mejor-precio-historico-1326144'>Vuelve la Thermomix barata de Aldi con un 30% de descuento, su mejor precio histórico</a></h4>
-    <a href='https://computerhoy.com/alimentacion/vuelve-thermomix-barata-aldi-30-descuento-mejor-precio-historico-1326144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aldi-robot-cocina-3206160.jpg?tf=1200x' alt='Vuelve la Thermomix barata de Aldi con un 30% de descuento, su mejor precio histórico' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-error-pulsera-pro-xiaomi-ha-desplomado-precio-mitad-1325550'>No es un error: la pulsera Pro de Xiaomi ha desplomado su precio a la mitad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-error-pulsera-pro-xiaomi-ha-desplomado-precio-mitad-1325550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-smart-band-7-pro-3205068.jpg?tf=1200x' alt='No es un error: la pulsera Pro de Xiaomi ha desplomado su precio a la mitad' />
     </a>
 </div>
 
