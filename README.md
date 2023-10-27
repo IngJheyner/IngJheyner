@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-incumple-promesa-privacidad-exponer-direccion-mac-iphones-ipads-1326604'>Apple incumple su promesa de privacidad al exponer la dirección MAC en iPhones y iPads</a></h4>
-    <a href='https://computerhoy.com/apple/apple-incumple-promesa-privacidad-exponer-direccion-mac-iphones-ipads-1326604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-seguridad-3207026.jpg?tf=1200x' alt='Apple incumple su promesa de privacidad al exponer la dirección MAC en iPhones y iPads' />
+    <h4><a href='https://computerhoy.com/tecnologia/ganadores-tecnologicos-premios-top-insiders-2023-1326594'>Mac Pro con M2 Ultra y Wallapop, favoritos de la audiencia en los Premios Top Insiders 2023 de Business Insider España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ganadores-tecnologicos-premios-top-insiders-2023-1326594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/galardonados-premios-top-insiders-2023-3207016.jpg?tf=1200x' alt='Mac Pro con M2 Ultra y Wallapop, favoritos de la audiencia en los Premios Top Insiders 2023 de Business Insider España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estas-son-todas-novedades-beta-ios-172-1326562'>Estas son todas las novedades de la beta de iOS 17.2: Journal, mejoras en Mensajes y más</a></h4>
-    <a href='https://computerhoy.com/apple/estas-son-todas-novedades-beta-ios-172-1326562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ios-17-3137496.jpg?tf=1200x' alt='Estas son todas las novedades de la beta de iOS 17.2: Journal, mejoras en Mensajes y más' />
+    <h4><a href='https://computerhoy.com/android/samsung-galaxy-s23-desploma-precio-android-top-precio-saldo-1326656'>Samsung Galaxy S23 desploma su precio: Android top a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/android/samsung-galaxy-s23-desploma-precio-android-top-precio-saldo-1326656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-s23-galaxy-s23-analisis-opinion-3006122.jpg?tf=1200x' alt='Samsung Galaxy S23 desploma su precio: Android top a precio de saldo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-diferencias-caracteristicas-precios-1192232'>Nuevos Amazon Fire TV Stick 4K Max vs Fire TV Stick 4K: en qué se diferencian y cuál deberías comprar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-diferencias-caracteristicas-precios-1192232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-fire-tv-3052638.jpg?tf=1200x' alt='Nuevos Amazon Fire TV Stick 4K Max vs Fire TV Stick 4K: en qué se diferencian y cuál deberías comprar' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s24-supera-limites-fotografia-nuevo-snapdragon-8-gen-3-200-mpx-ia-1326662'>Samsung Galaxy S24: supera los límites de la fotografía con el nuevo Snapdragon 8 Gen 3, 200 Mpx y la IA</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-galaxy-s24-supera-limites-fotografia-nuevo-snapdragon-8-gen-3-200-mpx-ia-1326662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/samsung-galaxy-s24-3207098.jpg?tf=1200x' alt='Samsung Galaxy S24: supera los límites de la fotografía con el nuevo Snapdragon 8 Gen 3, 200 Mpx y la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alexa-enciende-radiador-arrasando-amazon-calefactor-consumo-precio-record-1326090'>Alexa, enciende el radiador: está arrasando en Amazon este calefactor de bajo consumo a precio récord</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alexa-enciende-radiador-arrasando-amazon-calefactor-consumo-precio-record-1326090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/radiador-gridinlux-3206050.jpg?tf=1200x' alt='Alexa, enciende el radiador: está arrasando en Amazon este calefactor de bajo consumo a precio récord' />
+    <h4><a href='https://computerhoy.com/apple/bajas-ventas-macbooks-2023-lleva-apple-tomar-nuevo-curioso-rumbo-1326632'>Las bajas ventas de Macbooks en 2023 llevan a Apple a tomar un nuevo y curioso rumbo</a></h4>
+    <a href='https://computerhoy.com/apple/bajas-ventas-macbooks-2023-lleva-apple-tomar-nuevo-curioso-rumbo-1326632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/macbook-air-15-pulgadas-3069044.jpg?tf=1200x' alt='Las bajas ventas de Macbooks en 2023 llevan a Apple a tomar un nuevo y curioso rumbo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-lanza-servicio-almacenamiento-nube-galaxy-1326302'>Si tienes un Samsung Galaxy ya puedes hacer una copia de seguridad en la nube de tus datos</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-lanza-servicio-almacenamiento-nube-galaxy-1326302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tienes-samsung-galaxy-ya-puedes-hacer-copia-seguridad-nube-datos-3206566.jpg?tf=1200x' alt='Si tienes un Samsung Galaxy ya puedes hacer una copia de seguridad en la nube de tus datos' />
+    <h4><a href='https://computerhoy.com/tecnologia/ps5-slim-podria-poner-peligro-conservacion-videojuego-1326600'>La necesidad de conectar la PS5 Slim a internet podría poner en peligro la conservación del videojuego</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ps5-slim-podria-poner-peligro-conservacion-videojuego-1326600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='La necesidad de conectar la PS5 Slim a internet podría poner en peligro la conservación del videojuego' />
     </a>
 </div>
 
