@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/modo-acceso-asistido-iphone-mayores-1325976'>Acceso asistido: el modo que convierte el iPhone en el móvil perfecto para personas mayores</a></h4>
-    <a href='https://computerhoy.com/tutoriales/modo-acceso-asistido-iphone-mayores-1325976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/acceso-asistido-modo-convierte-iphone-movil-perfecto-personas-mayores-3205832.jpg?tf=1200x' alt='Acceso asistido: el modo que convierte el iPhone en el móvil perfecto para personas mayores' />
+    <h4><a href='https://computerhoy.com/tutoriales/conexion-internet-falla-estos-5-sencillos-trucos-caseros-pueden-ser-solucion-1326106'>¿Tu conexión a Internet falla? Estos 5 sencillos trucos caseros pueden ser la solución</a></h4>
+    <a href='https://computerhoy.com/tutoriales/conexion-internet-falla-estos-5-sencillos-trucos-caseros-pueden-ser-solucion-1326106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/conexion-internet-falla-estos-5-sencillos-trucos-caseros-pueden-ser-solucion-3206074.jpg?tf=1200x' alt='¿Tu conexión a Internet falla? Estos 5 sencillos trucos caseros pueden ser la solución' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/como-dyson-pero-mucho-barata-aspiradora-arrasa-casi-100-euros-descuento-1326788'>Como las Dyson pero mucho más barata: esta aspiradora arrasa con casi 100 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/hogar/como-dyson-pero-mucho-barata-aspiradora-arrasa-casi-100-euros-descuento-1326788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dreame-v11-mistral-3195876.jpg?tf=1200x' alt='Como las Dyson pero mucho más barata: esta aspiradora arrasa con casi 100 euros de descuento' />
+    <h4><a href='https://computerhoy.com/audio/57000-personas-avalan-estos-auriculares-nosotros-tambien-tienen-anc-son-sorprendentemente-baratos-1326876'>57.000 personas avalan estos auriculares, y nosotros también: tienen ANC y son sorprendentemente baratos</a></h4>
+    <a href='https://computerhoy.com/audio/57000-personas-avalan-estos-auriculares-nosotros-tambien-tienen-anc-son-sorprendentemente-baratos-1326876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/soundcore-life-q30-analisis-opinion-2438235.jpg?tf=1200x' alt='57.000 personas avalan estos auriculares, y nosotros también: tienen ANC y son sorprendentemente baratos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/11-extensiones-chrome-evitar-distracciones-1318824'>11 extensiones de Chrome para bloquear notificaciones, anuncios y otras distracciones</a></h4>
-    <a href='https://computerhoy.com/internet/11-extensiones-chrome-evitar-distracciones-1318824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/11-extensiones-chrome-bloquear-notificaciones-anuncios-otras-distracciones-3193686.jpg?tf=1200x' alt='11 extensiones de Chrome para bloquear notificaciones, anuncios y otras distracciones' />
+    <h4><a href='https://computerhoy.com/hogar/dilema-calefaccion-encendida-todo-el-dia-solo-cuando-se-necesita-1326850'>¿Cómo se ahorra más: manteniendo la calefacción o encendiéndola solo cuando se necesita? </a></h4>
+    <a href='https://computerhoy.com/hogar/dilema-calefaccion-encendida-todo-el-dia-solo-cuando-se-necesita-1326850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-ahorra-manteniendo-calefaccion-encendiendola-solo-cuando-necesita-3207690.jpg?tf=1200x' alt='¿Cómo se ahorra más: manteniendo la calefacción o encendiéndola solo cuando se necesita? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/thelibrarymap-no-sabes-libro-leer-herramienta-necesitas-1326796'>¿No sabes qué libro leer? Esta es la herramienta que necesitas </a></h4>
-    <a href='https://computerhoy.com/life/thelibrarymap-no-sabes-libro-leer-herramienta-necesitas-1326796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/no-sabes-libro-leer-herramienta-necesitas-3207544.jpg?tf=1200x' alt='¿No sabes qué libro leer? Esta es la herramienta que necesitas ' />
+    <h4><a href='https://computerhoy.com/life/avion-fantasma-google-maps-desata-teorias-conspiracion-1326826'>Un avión “fantasma” en Google Maps desata nuevas teorías de conspiración  </a></h4>
+    <a href='https://computerhoy.com/life/avion-fantasma-google-maps-desata-teorias-conspiracion-1326826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/avion-fantasma-google-maps-desata-nuevas-teorias-conspiracion-3207604.jpg?tf=1200x' alt='Un avión “fantasma” en Google Maps desata nuevas teorías de conspiración  ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-passkey-whatsapp-movil-android-1324258'>Cómo activar las Passkey de WhatsApp en un móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-passkey-whatsapp-movil-android-1324258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/passkey-whatsapp-3203112.jpg?tf=1200x' alt='Cómo activar las Passkey de WhatsApp en un móvil Android' />
+    <h4><a href='https://computerhoy.com/hogar/adios-radiador-como-hacer-pared-muebles-calienten-hogar-1326838'>¡Adiós al radiador! Cómo hacer que tus paredes, muebles y alfombras calienten tu casa</a></h4>
+    <a href='https://computerhoy.com/hogar/adios-radiador-como-hacer-pared-muebles-calienten-hogar-1326838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/adios-radiador-como-hacer-paredes-muebles-alfombras-calienten-casa-3207618.jpg?tf=1200x' alt='¡Adiós al radiador! Cómo hacer que tus paredes, muebles y alfombras calienten tu casa' />
     </a>
 </div>
 
