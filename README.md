@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/enviar-mensajes-audio-whatsapp-1325084'>La función para enviar mensajes de audio en WhatsApp "sin manos" que sorprendentemente casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/tutoriales/enviar-mensajes-audio-whatsapp-1325084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funcion-enviar-mensajes-audio-whatsapp-manos-sorprendentemente-casi-nadie-conoce-3204522.jpg?tf=1200x' alt='La función para enviar mensajes de audio en WhatsApp "sin manos" que sorprendentemente casi nadie conoce' />
+    <h4><a href='https://computerhoy.com/apple/apple-incumple-promesa-privacidad-exponer-direccion-mac-iphones-ipads-1326604'>Apple incumple su promesa de privacidad al exponer la dirección MAC en iPhones y iPads</a></h4>
+    <a href='https://computerhoy.com/apple/apple-incumple-promesa-privacidad-exponer-direccion-mac-iphones-ipads-1326604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-seguridad-3207026.jpg?tf=1200x' alt='Apple incumple su promesa de privacidad al exponer la dirección MAC en iPhones y iPads' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-trabajar-estudiar-alternativa-portatil-821429'>Estas tablets te harán olvidar el portátil: son aptas para trabajar sin problemas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-trabajar-estudiar-alternativa-portatil-821429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/galaxy-tab-s9-ultra-funda-teclado-3206620.jpg?tf=1200x' alt='Estas tablets te harán olvidar el portátil: son aptas para trabajar sin problemas' />
+    <h4><a href='https://computerhoy.com/apple/estas-son-todas-novedades-beta-ios-172-1326562'>Estas son todas las novedades de la beta de iOS 17.2: Journal, mejoras en Mensajes y más</a></h4>
+    <a href='https://computerhoy.com/apple/estas-son-todas-novedades-beta-ios-172-1326562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ios-17-3137496.jpg?tf=1200x' alt='Estas son todas las novedades de la beta de iOS 17.2: Journal, mejoras en Mensajes y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-limpiar-olla-quemada-mover-solo-dedo-1325734'>Cómo limpiar una olla quemada sin mover un solo dedo</a></h4>
-    <a href='https://computerhoy.com/life/como-limpiar-olla-quemada-mover-solo-dedo-1325734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-limpiar-olla-quemada-mover-solo-dedo-3205632.jpg?tf=1200x' alt='Cómo limpiar una olla quemada sin mover un solo dedo' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-diferencias-caracteristicas-precios-1192232'>Nuevos Amazon Fire TV Stick 4K Max vs Fire TV Stick 4K: en qué se diferencian y cuál deberías comprar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-fire-tv-stick-4k-max-vs-fire-tv-stick-4k-diferencias-caracteristicas-precios-1192232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-fire-tv-3052638.jpg?tf=1200x' alt='Nuevos Amazon Fire TV Stick 4K Max vs Fire TV Stick 4K: en qué se diferencian y cuál deberías comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hay-personas-estan-guardando-papel-higienico-nevera-1326322'>La extraña razón por la que algunas personas guardan el papel higiénico en la nevera, y tú también deberías</a></h4>
-    <a href='https://computerhoy.com/life/hay-personas-estan-guardando-papel-higienico-nevera-1326322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/extrana-razon-algunas-personas-guardan-papel-higienico-nevera-tambien-deberias-3206640.jpg?tf=1200x' alt='La extraña razón por la que algunas personas guardan el papel higiénico en la nevera, y tú también deberías' />
+    <h4><a href='https://computerhoy.com/tecnologia/alexa-enciende-radiador-arrasando-amazon-calefactor-consumo-precio-record-1326090'>Alexa, enciende el radiador: está arrasando en Amazon este calefactor de bajo consumo a precio récord</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alexa-enciende-radiador-arrasando-amazon-calefactor-consumo-precio-record-1326090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/radiador-gridinlux-3206050.jpg?tf=1200x' alt='Alexa, enciende el radiador: está arrasando en Amazon este calefactor de bajo consumo a precio récord' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/microsoft-word-cumple-40-anos-1326318'>Word cumple 40 años y Microsoft lo celebra recordando sus logros</a></h4>
-    <a href='https://computerhoy.com/apps/microsoft-word-cumple-40-anos-1326318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/word-cumple-40-anos-microsoft-celebra-recordando-logros-3206630.jpg?tf=1200x' alt='Word cumple 40 años y Microsoft lo celebra recordando sus logros' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-lanza-servicio-almacenamiento-nube-galaxy-1326302'>Si tienes un Samsung Galaxy ya puedes hacer una copia de seguridad en la nube de tus datos</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-lanza-servicio-almacenamiento-nube-galaxy-1326302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tienes-samsung-galaxy-ya-puedes-hacer-copia-seguridad-nube-datos-3206566.jpg?tf=1200x' alt='Si tienes un Samsung Galaxy ya puedes hacer una copia de seguridad en la nube de tus datos' />
     </a>
 </div>
 
