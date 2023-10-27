@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-gratis-poster-estilo-disney-pixar-inteligencia-artificial-1325534'>Cómo crear gratis un póster al estilo Disney Pixar con inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-gratis-poster-estilo-disney-pixar-inteligencia-artificial-1325534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/imagen-creada-dall-3-3205082.jpg?tf=1200x' alt='Cómo crear gratis un póster al estilo Disney Pixar con inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/tutoriales/modo-acceso-asistido-iphone-mayores-1325976'>Acceso asistido: el modo que convierte el iPhone en el móvil perfecto para personas mayores</a></h4>
+    <a href='https://computerhoy.com/tutoriales/modo-acceso-asistido-iphone-mayores-1325976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/acceso-asistido-modo-convierte-iphone-movil-perfecto-personas-mayores-3205832.jpg?tf=1200x' alt='Acceso asistido: el modo que convierte el iPhone en el móvil perfecto para personas mayores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/documental-doble-harry-potter-quedo-paralitico-rodaje-1326770'>Daniel Radcliffe produce un documental sobre el doble de Harry Potter que se quedó paralítico al sustituirle en una escena</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/documental-doble-harry-potter-quedo-paralitico-rodaje-1326770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/daniel-radcliffe-produce-documental-doble-harry-potter-quedo-paralitico-sustituirle-escena-3207390.jpg?tf=1200x' alt='Daniel Radcliffe produce un documental sobre el doble de Harry Potter que se quedó paralítico al sustituirle en una escena' />
+    <h4><a href='https://computerhoy.com/hogar/como-dyson-pero-mucho-barata-aspiradora-arrasa-casi-100-euros-descuento-1326788'>Como las Dyson pero mucho más barata: esta aspiradora arrasa con casi 100 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/hogar/como-dyson-pero-mucho-barata-aspiradora-arrasa-casi-100-euros-descuento-1326788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dreame-v11-mistral-3195876.jpg?tf=1200x' alt='Como las Dyson pero mucho más barata: esta aspiradora arrasa con casi 100 euros de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/internet/que-es-google-academico-como-funciona-52486'>¿Qué es Google Académico y cómo funciona?</a></h4>
-    <a href='https://computerhoy.com/noticias/internet/que-es-google-academico-como-funciona-52486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-academico-3207104.jpg?tf=1200x' alt='¿Qué es Google Académico y cómo funciona?' />
+    <h4><a href='https://computerhoy.com/internet/11-extensiones-chrome-evitar-distracciones-1318824'>11 extensiones de Chrome para bloquear notificaciones, anuncios y otras distracciones</a></h4>
+    <a href='https://computerhoy.com/internet/11-extensiones-chrome-evitar-distracciones-1318824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/11-extensiones-chrome-bloquear-notificaciones-anuncios-otras-distracciones-3193686.jpg?tf=1200x' alt='11 extensiones de Chrome para bloquear notificaciones, anuncios y otras distracciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/borra-inmediato-estas-aplicaciones-falsas-movil-android-estan-haciendo-pasar-juegos-1326692'>Borra de inmediato estas aplicaciones falsas de tu móvil Android: se están haciendo pasar por juegos</a></h4>
-    <a href='https://computerhoy.com/android/borra-inmediato-estas-aplicaciones-falsas-movil-android-estan-haciendo-pasar-juegos-1326692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/malware-android-3202220.jpg?tf=1200x' alt='Borra de inmediato estas aplicaciones falsas de tu móvil Android: se están haciendo pasar por juegos' />
+    <h4><a href='https://computerhoy.com/life/thelibrarymap-no-sabes-libro-leer-herramienta-necesitas-1326796'>¿No sabes qué libro leer? Esta es la herramienta que necesitas </a></h4>
+    <a href='https://computerhoy.com/life/thelibrarymap-no-sabes-libro-leer-herramienta-necesitas-1326796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/no-sabes-libro-leer-herramienta-necesitas-3207544.jpg?tf=1200x' alt='¿No sabes qué libro leer? Esta es la herramienta que necesitas ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ganadores-tecnologicos-premios-top-insiders-2023-1326594'>Mac Pro con M2 Ultra y Wallapop, favoritos de la audiencia en los Premios Top Insiders 2023 de Business Insider España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ganadores-tecnologicos-premios-top-insiders-2023-1326594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/galardonados-premios-top-insiders-2023-3207016.jpg?tf=1200x' alt='Mac Pro con M2 Ultra y Wallapop, favoritos de la audiencia en los Premios Top Insiders 2023 de Business Insider España' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-passkey-whatsapp-movil-android-1324258'>Cómo activar las Passkey de WhatsApp en un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-passkey-whatsapp-movil-android-1324258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/passkey-whatsapp-3203112.jpg?tf=1200x' alt='Cómo activar las Passkey de WhatsApp en un móvil Android' />
     </a>
 </div>
 
