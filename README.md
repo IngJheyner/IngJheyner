@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/x-reemplazara-banco-asegura-elon-musk-1326894'>Elon Musk, en su primer aniversario como dueño de Twitter: "En un año X reemplazará a tu banco"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/x-reemplazara-banco-asegura-elon-musk-1326894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-logo-twitter-3078314.jpg?tf=1200x' alt='Elon Musk, en su primer aniversario como dueño de Twitter: "En un año X reemplazará a tu banco"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/doctor-who-llega-disney-plus-especial-60-aniversario-1326890'>Doctor Who llega a Disney+ emitiendo el especial del 60 Aniversario en castellano, al mismo tiempo que la BBC</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/doctor-who-llega-disney-plus-especial-60-aniversario-1326890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1698441325821-3207818.jpg?tf=1200x' alt='Doctor Who llega a Disney+ emitiendo el especial del 60 Aniversario en castellano, al mismo tiempo que la BBC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/conexion-internet-falla-estos-5-sencillos-trucos-caseros-pueden-ser-solucion-1326106'>¿Tu conexión a Internet falla? Estos 5 sencillos trucos caseros pueden ser la solución</a></h4>
     <a href='https://computerhoy.com/tutoriales/conexion-internet-falla-estos-5-sencillos-trucos-caseros-pueden-ser-solucion-1326106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/conexion-internet-falla-estos-5-sencillos-trucos-caseros-pueden-ser-solucion-3206074.jpg?tf=1200x' alt='¿Tu conexión a Internet falla? Estos 5 sencillos trucos caseros pueden ser la solución' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/dilema-calefaccion-encendida-todo-el-dia-solo-cuando-se-necesita-1326850'>¿Cómo se ahorra más: manteniendo la calefacción o encendiéndola solo cuando se necesita? </a></h4>
     <a href='https://computerhoy.com/hogar/dilema-calefaccion-encendida-todo-el-dia-solo-cuando-se-necesita-1326850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-ahorra-manteniendo-calefaccion-encendiendola-solo-cuando-necesita-3207690.jpg?tf=1200x' alt='¿Cómo se ahorra más: manteniendo la calefacción o encendiéndola solo cuando se necesita? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/avion-fantasma-google-maps-desata-teorias-conspiracion-1326826'>Un avión “fantasma” en Google Maps desata nuevas teorías de conspiración  </a></h4>
-    <a href='https://computerhoy.com/life/avion-fantasma-google-maps-desata-teorias-conspiracion-1326826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/avion-fantasma-google-maps-desata-nuevas-teorias-conspiracion-3207604.jpg?tf=1200x' alt='Un avión “fantasma” en Google Maps desata nuevas teorías de conspiración  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/adios-radiador-como-hacer-pared-muebles-calienten-hogar-1326838'>¡Adiós al radiador! Cómo hacer que tus paredes, muebles y alfombras calienten tu casa</a></h4>
-    <a href='https://computerhoy.com/hogar/adios-radiador-como-hacer-pared-muebles-calienten-hogar-1326838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/adios-radiador-como-hacer-paredes-muebles-alfombras-calienten-casa-3207618.jpg?tf=1200x' alt='¡Adiós al radiador! Cómo hacer que tus paredes, muebles y alfombras calienten tu casa' />
     </a>
 </div>
 
