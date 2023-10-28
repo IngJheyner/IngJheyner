@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/pepper-x-nuevo-chile-mas-picante-mundo-1326238'>Pepper X es el nuevo chile más picante del mundo, pocos se atreven a probarlo</a></h4>
+    <a href='https://computerhoy.com/alimentacion/pepper-x-nuevo-chile-mas-picante-mundo-1326238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pepper-x-nuevo-chile-picante-mundo-pocos-atreven-probarlo-3206256.jpg?tf=1200x' alt='Pepper X es el nuevo chile más picante del mundo, pocos se atreven a probarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/grave-error-casi-todo-mundo-comete-limpiar-sarten-1326280'>El grave error que casi todo el mundo comete al limpiar una sartén</a></h4>
+    <a href='https://computerhoy.com/life/grave-error-casi-todo-mundo-comete-limpiar-sarten-1326280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/grave-error-casi-todo-mundo-comete-limpiar-sarten-3206622.jpg?tf=1200x' alt='El grave error que casi todo el mundo comete al limpiar una sartén' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/x-reemplazara-banco-asegura-elon-musk-1326894'>Elon Musk, en su primer aniversario como dueño de Twitter: "En un año X reemplazará a tu banco"</a></h4>
     <a href='https://computerhoy.com/tecnologia/x-reemplazara-banco-asegura-elon-musk-1326894' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-logo-twitter-3078314.jpg?tf=1200x' alt='Elon Musk, en su primer aniversario como dueño de Twitter: "En un año X reemplazará a tu banco"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/conexion-internet-falla-estos-5-sencillos-trucos-caseros-pueden-ser-solucion-1326106'>¿Tu conexión a Internet falla? Estos 5 sencillos trucos caseros pueden ser la solución</a></h4>
     <a href='https://computerhoy.com/tutoriales/conexion-internet-falla-estos-5-sencillos-trucos-caseros-pueden-ser-solucion-1326106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/conexion-internet-falla-estos-5-sencillos-trucos-caseros-pueden-ser-solucion-3206074.jpg?tf=1200x' alt='¿Tu conexión a Internet falla? Estos 5 sencillos trucos caseros pueden ser la solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/57000-personas-avalan-estos-auriculares-nosotros-tambien-tienen-anc-son-sorprendentemente-baratos-1326876'>57.000 personas avalan estos auriculares, y nosotros también: tienen ANC y son sorprendentemente baratos</a></h4>
-    <a href='https://computerhoy.com/audio/57000-personas-avalan-estos-auriculares-nosotros-tambien-tienen-anc-son-sorprendentemente-baratos-1326876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/soundcore-life-q30-analisis-opinion-2438235.jpg?tf=1200x' alt='57.000 personas avalan estos auriculares, y nosotros también: tienen ANC y son sorprendentemente baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/dilema-calefaccion-encendida-todo-el-dia-solo-cuando-se-necesita-1326850'>¿Cómo se ahorra más: manteniendo la calefacción o encendiéndola solo cuando se necesita? </a></h4>
-    <a href='https://computerhoy.com/hogar/dilema-calefaccion-encendida-todo-el-dia-solo-cuando-se-necesita-1326850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-ahorra-manteniendo-calefaccion-encendiendola-solo-cuando-necesita-3207690.jpg?tf=1200x' alt='¿Cómo se ahorra más: manteniendo la calefacción o encendiéndola solo cuando se necesita? ' />
     </a>
 </div>
 
