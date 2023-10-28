@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-watch-enfrenta-posible-prohibicion-importacion-estados-unidos-1327138'>Apple Watch se enfrenta a una posible prohibición de importación en Estados Unidos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-enfrenta-posible-prohibicion-importacion-estados-unidos-1327138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-ultra-apple-watch-series-4-3138832.jpg?tf=1200x' alt='Apple Watch se enfrenta a una posible prohibición de importación en Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-no-pierde-tiempo-acaba-estrenar-version-beta-android-auto-108-1327136'>Google no pierde el tiempo y acaba de estrenar la versión beta Android Auto 10.8</a></h4>
+    <a href='https://computerhoy.com/apps/google-no-pierde-tiempo-acaba-estrenar-version-beta-android-auto-108-1327136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-liberar-android-auto-desbloquear-funciones-ocultas-3148184.jpg?tf=1200x' alt='Google no pierde el tiempo y acaba de estrenar la versión beta Android Auto 10.8' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/chrome-vs-tor-diferencias-cual-navegador-mejor-1318032'>Chrome vs. Tor: diferencias y cuál navegador es mejor</a></h4>
+    <a href='https://computerhoy.com/tutoriales/chrome-vs-tor-diferencias-cual-navegador-mejor-1318032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tor-vs-chrome-3190940.jpg?tf=1200x' alt='Chrome vs. Tor: diferencias y cuál navegador es mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/gente-conserva-iphone-durante-tiempo-moviles-android-1327128'>La gente conserva los iPhone durante más tiempo que los móviles Android</a></h4>
+    <a href='https://computerhoy.com/moviles/gente-conserva-iphone-durante-tiempo-moviles-android-1327128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/moviles-3208098.jpg?tf=1200x' alt='La gente conserva los iPhone durante más tiempo que los móviles Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-hackear-alexa-te-cuente-historias-escalofriantes-halloween-1322660'>Cómo hackear a Alexa para que te cuente historias escalofriantes y pasar una noche de Halloween inolvidable</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-hackear-alexa-te-cuente-historias-escalofriantes-halloween-1322660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/alexa-halloween-3206348.jpg?tf=1200x' alt='Cómo hackear a Alexa para que te cuente historias escalofriantes y pasar una noche de Halloween inolvidable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/x-antes-conocido-como-twitter-estrena-dos-nuevos-planes-suscripcion-estas-son-diferencias-1327118'>X, antes conocido como Twitter, estrena dos nuevos planes de suscripción y estas son las diferencias</a></h4>
-    <a href='https://computerhoy.com/apps/x-antes-conocido-como-twitter-estrena-dos-nuevos-planes-suscripcion-estas-son-diferencias-1327118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/twitter-x-3208088.jpg?tf=1200x' alt='X, antes conocido como Twitter, estrena dos nuevos planes de suscripción y estas son las diferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-series-western-skyshowtime-plataformas-1325710'>7 series de western que puede encontrar en SkyShowtime y otras plataformas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-series-western-skyshowtime-plataformas-1325710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/1923-2871241.jpg?tf=1200x' alt='7 series de western que puede encontrar en SkyShowtime y otras plataformas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/historias-ciberseguridad-ataques-informaticos-terrorificos-historia-1323240'>Historias de ciberseguridad: los ataques informáticos más terroríficos de la historia</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/historias-ciberseguridad-ataques-informaticos-terrorificos-historia-1323240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/incidente-ciberseguridad-3119830.jpg?tf=1200x' alt='Historias de ciberseguridad: los ataques informáticos más terroríficos de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/peligrosa-razon-deberias-dejar-usar-estas-tablas-cortar-1316396'>Esta es la peligrosa razón por la que deberías dejar de usar estas tablas para cortar</a></h4>
-    <a href='https://computerhoy.com/life/peligrosa-razon-deberias-dejar-usar-estas-tablas-cortar-1316396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tabla-cortar-3206214.jpg?tf=1200x' alt='Esta es la peligrosa razón por la que deberías dejar de usar estas tablas para cortar' />
     </a>
 </div>
 
