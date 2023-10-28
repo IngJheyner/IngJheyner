@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/linkedin-convierte-trampa-como-evitar-estafadores-aprovechen-ti-1324466'>LinkedIn se convierte en una trampa: cómo evitar que los estafadores se aprovechen de tu búsqueda de empleo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/linkedin-convierte-trampa-como-evitar-estafadores-aprovechen-ti-1324466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/linkedin-estafas-3205506.jpg?tf=1200x' alt='LinkedIn se convierte en una trampa: cómo evitar que los estafadores se aprovechen de tu búsqueda de empleo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-hackear-alexa-te-cuente-historias-escalofriantes-halloween-1322660'>Cómo hackear a Alexa para que te cuente historias escalofriantes y pasar una noche de Halloween inolvidable</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hackear-alexa-te-cuente-historias-escalofriantes-halloween-1322660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/alexa-halloween-3206348.jpg?tf=1200x' alt='Cómo hackear a Alexa para que te cuente historias escalofriantes y pasar una noche de Halloween inolvidable' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/suerte-dos-anos-portatil-parecera-mucho-mac-1324902'>Por suerte en dos años tu portátil se parecerá mucho más a un Mac</a></h4>
-    <a href='https://computerhoy.com/industria/suerte-dos-anos-portatil-parecera-mucho-mac-1324902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dell-xps-13-plus-9320-analisis-opinion-2946808.jpg?tf=1200x' alt='Por suerte en dos años tu portátil se parecerá mucho más a un Mac' />
+    <h4><a href='https://computerhoy.com/apps/x-antes-conocido-como-twitter-estrena-dos-nuevos-planes-suscripcion-estas-son-diferencias-1327118'>X, antes conocido como Twitter, estrena dos nuevos planes de suscripción y estas son las diferencias</a></h4>
+    <a href='https://computerhoy.com/apps/x-antes-conocido-como-twitter-estrena-dos-nuevos-planes-suscripcion-estas-son-diferencias-1327118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/twitter-x-3208088.jpg?tf=1200x' alt='X, antes conocido como Twitter, estrena dos nuevos planes de suscripción y estas son las diferencias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/todo-operador-puede-saber-ti-cuando-utilizas-vpn-1326536'>¿Navegación segura? Esto es todo lo que tu operador puede saber de ti cuando utilizas una VPN</a></h4>
-    <a href='https://computerhoy.com/redes/todo-operador-puede-saber-ti-cuando-utilizas-vpn-1326536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/vpn-2957402.jpg?tf=1200x' alt='¿Navegación segura? Esto es todo lo que tu operador puede saber de ti cuando utilizas una VPN' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-series-western-skyshowtime-plataformas-1325710'>7 series de western que puede encontrar en SkyShowtime y otras plataformas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-series-western-skyshowtime-plataformas-1325710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/1923-2871241.jpg?tf=1200x' alt='7 series de western que puede encontrar en SkyShowtime y otras plataformas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/mejores-televisores-65-pulgadas-1292458'>Mejores televisores de 65 pulgadas que puedes comprar ahora</a></h4>
-    <a href='https://computerhoy.com/tv/mejores-televisores-65-pulgadas-1292458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/philips-48oled-3150198.jpg?tf=1200x' alt='Mejores televisores de 65 pulgadas que puedes comprar ahora' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/historias-ciberseguridad-ataques-informaticos-terrorificos-historia-1323240'>Historias de ciberseguridad: los ataques informáticos más terroríficos de la historia</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/historias-ciberseguridad-ataques-informaticos-terrorificos-historia-1323240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/incidente-ciberseguridad-3119830.jpg?tf=1200x' alt='Historias de ciberseguridad: los ataques informáticos más terroríficos de la historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/metaverso-futuro-fail-tecnologico-1229254'>Se cumplen 2 años del metaverso de Meta: ¿futuro o 'fail' tecnológico?</a></h4>
-    <a href='https://computerhoy.com/industria/metaverso-futuro-fail-tecnologico-1229254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/metaverso-3007164.jpg?tf=1200x' alt='Se cumplen 2 años del metaverso de Meta: ¿futuro o 'fail' tecnológico?' />
+    <h4><a href='https://computerhoy.com/life/peligrosa-razon-deberias-dejar-usar-estas-tablas-cortar-1316396'>Esta es la peligrosa razón por la que deberías dejar de usar estas tablas para cortar</a></h4>
+    <a href='https://computerhoy.com/life/peligrosa-razon-deberias-dejar-usar-estas-tablas-cortar-1316396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tabla-cortar-3206214.jpg?tf=1200x' alt='Esta es la peligrosa razón por la que deberías dejar de usar estas tablas para cortar' />
     </a>
 </div>
 
