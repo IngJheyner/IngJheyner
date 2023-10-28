@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/pepper-x-nuevo-chile-mas-picante-mundo-1326238'>Pepper X es el nuevo chile más picante del mundo, pocos se atreven a probarlo</a></h4>
-    <a href='https://computerhoy.com/alimentacion/pepper-x-nuevo-chile-mas-picante-mundo-1326238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pepper-x-nuevo-chile-picante-mundo-pocos-atreven-probarlo-3206256.jpg?tf=1200x' alt='Pepper X es el nuevo chile más picante del mundo, pocos se atreven a probarlo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/linkedin-convierte-trampa-como-evitar-estafadores-aprovechen-ti-1324466'>LinkedIn se convierte en una trampa: cómo evitar que los estafadores se aprovechen de tu búsqueda de empleo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/linkedin-convierte-trampa-como-evitar-estafadores-aprovechen-ti-1324466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/linkedin-estafas-3205506.jpg?tf=1200x' alt='LinkedIn se convierte en una trampa: cómo evitar que los estafadores se aprovechen de tu búsqueda de empleo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/grave-error-casi-todo-mundo-comete-limpiar-sarten-1326280'>El grave error que casi todo el mundo comete al limpiar una sartén</a></h4>
-    <a href='https://computerhoy.com/life/grave-error-casi-todo-mundo-comete-limpiar-sarten-1326280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/grave-error-casi-todo-mundo-comete-limpiar-sarten-3206622.jpg?tf=1200x' alt='El grave error que casi todo el mundo comete al limpiar una sartén' />
+    <h4><a href='https://computerhoy.com/industria/suerte-dos-anos-portatil-parecera-mucho-mac-1324902'>Por suerte en dos años tu portátil se parecerá mucho más a un Mac</a></h4>
+    <a href='https://computerhoy.com/industria/suerte-dos-anos-portatil-parecera-mucho-mac-1324902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dell-xps-13-plus-9320-analisis-opinion-2946808.jpg?tf=1200x' alt='Por suerte en dos años tu portátil se parecerá mucho más a un Mac' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/x-reemplazara-banco-asegura-elon-musk-1326894'>Elon Musk, en su primer aniversario como dueño de Twitter: "En un año X reemplazará a tu banco"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/x-reemplazara-banco-asegura-elon-musk-1326894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/elon-musk-logo-twitter-3078314.jpg?tf=1200x' alt='Elon Musk, en su primer aniversario como dueño de Twitter: "En un año X reemplazará a tu banco"' />
+    <h4><a href='https://computerhoy.com/redes/todo-operador-puede-saber-ti-cuando-utilizas-vpn-1326536'>¿Navegación segura? Esto es todo lo que tu operador puede saber de ti cuando utilizas una VPN</a></h4>
+    <a href='https://computerhoy.com/redes/todo-operador-puede-saber-ti-cuando-utilizas-vpn-1326536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/vpn-2957402.jpg?tf=1200x' alt='¿Navegación segura? Esto es todo lo que tu operador puede saber de ti cuando utilizas una VPN' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/doctor-who-llega-disney-plus-especial-60-aniversario-1326890'>Doctor Who llega a Disney+ emitiendo el especial del 60 Aniversario en castellano, al mismo tiempo que la BBC</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/doctor-who-llega-disney-plus-especial-60-aniversario-1326890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1698441325821-3207818.jpg?tf=1200x' alt='Doctor Who llega a Disney+ emitiendo el especial del 60 Aniversario en castellano, al mismo tiempo que la BBC' />
+    <h4><a href='https://computerhoy.com/tv/mejores-televisores-65-pulgadas-1292458'>Mejores televisores de 65 pulgadas que puedes comprar ahora</a></h4>
+    <a href='https://computerhoy.com/tv/mejores-televisores-65-pulgadas-1292458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/philips-48oled-3150198.jpg?tf=1200x' alt='Mejores televisores de 65 pulgadas que puedes comprar ahora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/conexion-internet-falla-estos-5-sencillos-trucos-caseros-pueden-ser-solucion-1326106'>¿Tu conexión a Internet falla? Estos 5 sencillos trucos caseros pueden ser la solución</a></h4>
-    <a href='https://computerhoy.com/tutoriales/conexion-internet-falla-estos-5-sencillos-trucos-caseros-pueden-ser-solucion-1326106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/conexion-internet-falla-estos-5-sencillos-trucos-caseros-pueden-ser-solucion-3206074.jpg?tf=1200x' alt='¿Tu conexión a Internet falla? Estos 5 sencillos trucos caseros pueden ser la solución' />
+    <h4><a href='https://computerhoy.com/industria/metaverso-futuro-fail-tecnologico-1229254'>Se cumplen 2 años del metaverso de Meta: ¿futuro o 'fail' tecnológico?</a></h4>
+    <a href='https://computerhoy.com/industria/metaverso-futuro-fail-tecnologico-1229254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/metaverso-3007164.jpg?tf=1200x' alt='Se cumplen 2 años del metaverso de Meta: ¿futuro o 'fail' tecnológico?' />
     </a>
 </div>
 
