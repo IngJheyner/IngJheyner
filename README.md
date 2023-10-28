@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-nos-permitira-escribir-mano-casi-cualquier-lugar-gracias-windows-ink-1327162'>Windows 11 nos permitirá escribir a mano en casi cualquier lugar gracias a Windows Ink</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-nos-permitira-escribir-mano-casi-cualquier-lugar-gracias-windows-ink-1327162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/windows-ink-3208170.jpg?tf=1200x' alt='Windows 11 nos permitirá escribir a mano en casi cualquier lugar gracias a Windows Ink' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-sabado-28-octubre-2023-1327088'>Programación TV: ¿Qué ver hoy en televisión? Sábado 28 de octubre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-sabado-28-octubre-2023-1327088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-sabado-28-octubre-2023-3208036.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Sábado 28 de octubre de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estas-son-nuevas-opciones-tienes-disponibles-google-bard-usan-1327144'>Estas son las nuevas opciones que tienes disponibles en Google Bard y así se usan</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-nuevas-opciones-tienes-disponibles-google-bard-usan-1327144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/he-probado-nuevo-bard-google-espanol-tengo-sabor-algo-agridulce-3084150.jpg?tf=1200x' alt='Estas son las nuevas opciones que tienes disponibles en Google Bard y así se usan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-watch-enfrenta-posible-prohibicion-importacion-estados-unidos-1327138'>Apple Watch se enfrenta a una posible prohibición de importación en Estados Unidos</a></h4>
     <a href='https://computerhoy.com/apple/apple-watch-enfrenta-posible-prohibicion-importacion-estados-unidos-1327138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-ultra-apple-watch-series-4-3138832.jpg?tf=1200x' alt='Apple Watch se enfrenta a una posible prohibición de importación en Estados Unidos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-no-pierde-tiempo-acaba-estrenar-version-beta-android-auto-108-1327136'>Google no pierde el tiempo y acaba de estrenar la versión beta Android Auto 10.8</a></h4>
     <a href='https://computerhoy.com/apps/google-no-pierde-tiempo-acaba-estrenar-version-beta-android-auto-108-1327136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-liberar-android-auto-desbloquear-funciones-ocultas-3148184.jpg?tf=1200x' alt='Google no pierde el tiempo y acaba de estrenar la versión beta Android Auto 10.8' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/chrome-vs-tor-diferencias-cual-navegador-mejor-1318032'>Chrome vs. Tor: diferencias y cuál navegador es mejor</a></h4>
-    <a href='https://computerhoy.com/tutoriales/chrome-vs-tor-diferencias-cual-navegador-mejor-1318032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tor-vs-chrome-3190940.jpg?tf=1200x' alt='Chrome vs. Tor: diferencias y cuál navegador es mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/gente-conserva-iphone-durante-tiempo-moviles-android-1327128'>La gente conserva los iPhone durante más tiempo que los móviles Android</a></h4>
-    <a href='https://computerhoy.com/moviles/gente-conserva-iphone-durante-tiempo-moviles-android-1327128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/moviles-3208098.jpg?tf=1200x' alt='La gente conserva los iPhone durante más tiempo que los móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hackear-alexa-te-cuente-historias-escalofriantes-halloween-1322660'>Cómo hackear a Alexa para que te cuente historias escalofriantes y pasar una noche de Halloween inolvidable</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hackear-alexa-te-cuente-historias-escalofriantes-halloween-1322660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/alexa-halloween-3206348.jpg?tf=1200x' alt='Cómo hackear a Alexa para que te cuente historias escalofriantes y pasar una noche de Halloween inolvidable' />
     </a>
 </div>
 
