@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-10-recibe-inesperada-actualizacion-menu-inicio-1327174'>Windows 10 recibe una inesperada actualización del menú inicio</a></h4>
-    <a href='https://computerhoy.com/windows/windows-10-recibe-inesperada-actualizacion-menu-inicio-1327174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg?tf=1200x' alt='Windows 10 recibe una inesperada actualización del menú inicio' />
+    <h4><a href='https://computerhoy.com/internet/certificado-digital-considera-clave-seguridad-autenticacion-linea-1313128'>¿Que es un certificado digital y por qué se considera clave para tu seguridad y autenticación en línea?</a></h4>
+    <a href='https://computerhoy.com/internet/certificado-digital-considera-clave-seguridad-autenticacion-linea-1313128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1698413117684-3207512.jpg?tf=1200x' alt='¿Que es un certificado digital y por qué se considera clave para tu seguridad y autenticación en línea?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-chrome-ya-te-permite-guardar-directamente-fotogramas-videos-youtube-1327168'>Google Chrome ya te permite guardar directamente fotogramas de vídeos de YouTube</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-chrome-ya-te-permite-guardar-directamente-fotogramas-videos-youtube-1327168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/youtube-3208178.jpg?tf=1200x' alt='Google Chrome ya te permite guardar directamente fotogramas de vídeos de YouTube' />
+    <h4><a href='https://computerhoy.com/tecnologia/canales-fast-nueva-alternativa-tdt-ver-miles-canales-tv-gratis-smart-tv-1326534'>Canales FAST: la nueva alternativa a la TDT para ver miles de canales de TV gratis en tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tecnologia/canales-fast-nueva-alternativa-tdt-ver-miles-canales-tv-gratis-smart-tv-1326534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/son-como-funcionan-canales-fast-nueva-opcion-ver-contenido-gratis-smart-tv-3206864.jpg?tf=1200x' alt='Canales FAST: la nueva alternativa a la TDT para ver miles de canales de TV gratis en tu Smart TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-nos-permitira-escribir-mano-casi-cualquier-lugar-gracias-windows-ink-1327162'>Windows 11 nos permitirá escribir a mano en casi cualquier lugar gracias a Windows Ink</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-nos-permitira-escribir-mano-casi-cualquier-lugar-gracias-windows-ink-1327162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/windows-ink-3208170.jpg?tf=1200x' alt='Windows 11 nos permitirá escribir a mano en casi cualquier lugar gracias a Windows Ink' />
+    <h4><a href='https://computerhoy.com/tecnologia/fabrican-robot-capaz-detectar-ruidos-sutiles-localizar-seres-humanos-cercanos-1327164'>Fabrican un robot capaz de detectar ruidos sutiles para localizar a seres humanos cercanos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fabrican-robot-capaz-detectar-ruidos-sutiles-localizar-seres-humanos-cercanos-1327164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fabrican-robot-capaz-detectar-ruidos-sutiles-localizar-seres-humanos-cercanos-3208174.jpg?tf=1200x' alt='Fabrican un robot capaz de detectar ruidos sutiles para localizar a seres humanos cercanos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-sabado-28-octubre-2023-1327088'>Programación TV: ¿Qué ver hoy en televisión? Sábado 28 de octubre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-hoy-sabado-28-octubre-2023-1327088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-sabado-28-octubre-2023-3208036.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Sábado 28 de octubre de 2023' />
+    <h4><a href='https://computerhoy.com/tecnologia/he-convertido-mi-casa-domotica-6-dispositivos-menos-1000-euros-1321464'>He convertido mi casa en domótica por menos de 1.000 euros: estos son los 6 dispositivos que tengo en casa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-convertido-mi-casa-domotica-6-dispositivos-menos-1000-euros-1321464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dispositivos-3200426.jpg?tf=1200x' alt='He convertido mi casa en domótica por menos de 1.000 euros: estos son los 6 dispositivos que tengo en casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-son-nuevas-opciones-tienes-disponibles-google-bard-usan-1327144'>Estas son las nuevas opciones que tienes disponibles en Google Bard y así se usan</a></h4>
-    <a href='https://computerhoy.com/apps/estas-son-nuevas-opciones-tienes-disponibles-google-bard-usan-1327144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/he-probado-nuevo-bard-google-espanol-tengo-sabor-algo-agridulce-3084150.jpg?tf=1200x' alt='Estas son las nuevas opciones que tienes disponibles en Google Bard y así se usan' />
+    <h4><a href='https://computerhoy.com/life/dormir-menos-7-horas-diarias-puede-danar-corazon-estudio-1327166'>Dormir menos de 7 horas diarias puede dañar tu corazón, según este estudio</a></h4>
+    <a href='https://computerhoy.com/life/dormir-menos-7-horas-diarias-puede-danar-corazon-estudio-1327166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dormir-mal-3208176.jpg?tf=1200x' alt='Dormir menos de 7 horas diarias puede dañar tu corazón, según este estudio' />
     </a>
 </div>
 
