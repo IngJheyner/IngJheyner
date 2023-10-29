@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/halloween-explica-ciencia-nos-guste-pasar-miedo-celebrar-fiesta-1322518'>Halloween: así explica la ciencia que nos guste pasar miedo y celebrar esta fiesta</a></h4>
+    <a href='https://computerhoy.com/ciencia/halloween-explica-ciencia-nos-guste-pasar-miedo-celebrar-fiesta-1322518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/halloween.jpg?tf=1200x' alt='Halloween: así explica la ciencia que nos guste pasar miedo y celebrar esta fiesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pronto-vas-poder-fijar-botones-barra-herramientas-google-chrome-1327430'>Pronto vas a poder fijar botones en la barra de herramientas de Google Chrome</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pronto-vas-poder-fijar-botones-barra-herramientas-google-chrome-1327430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-chrome-3021946.jpg?tf=1200x' alt='Pronto vas a poder fijar botones en la barra de herramientas de Google Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/codigos-secretos-netflix-desbloquear-contenido-terror-halloween-1321382'>Los códigos secretos de Netflix para desbloquear el contenido de terror para Halloween</a></h4>
+    <a href='https://computerhoy.com/tv/codigos-secretos-netflix-desbloquear-contenido-terror-halloween-1321382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/halloween-netflix-3206292.jpg?tf=1200x' alt='Los códigos secretos de Netflix para desbloquear el contenido de terror para Halloween' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/astronomos-desconcertados-estas-estrellas-desaparecieron-cielo-1327426'>Astrónomos desconcertados por estas estrellas que desaparecieron del cielo</a></h4>
+    <a href='https://computerhoy.com/espacio/astronomos-desconcertados-estas-estrellas-desaparecieron-cielo-1327426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estrellas-cielo-3208468.jpg?tf=1200x' alt='Astrónomos desconcertados por estas estrellas que desaparecieron del cielo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/trastorno-afectivo-estacional-explica-ciencia-estar-bajon-otono-1326078'>Trastorno afectivo estacional: así explica la ciencia estar de bajón en otoño</a></h4>
     <a href='https://computerhoy.com/ciencia/trastorno-afectivo-estacional-explica-ciencia-estar-bajon-otono-1326078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/trastorno-afectivo-estacional-explica-ciencia-estar-bajon-otono-3206012.jpg?tf=1200x' alt='Trastorno afectivo estacional: así explica la ciencia estar de bajón en otoño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-presume-exito-plan-anuncios-llegara-1-noviembre-espana-1327418'>Disney+ presume del éxito de su plan con anuncios que llegará el 1 de noviembre a España</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-presume-exito-plan-anuncios-llegara-1-noviembre-espana-1327418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/disney-disney-plus-2543387.jpg?tf=1200x' alt='Disney+ presume del éxito de su plan con anuncios que llegará el 1 de noviembre a España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/10-cosas-nunca-debes-guardar-movil-1325122'>10 cosas que nunca debes guardar en tu móvil para evitar fraudes y robo de datos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/10-cosas-nunca-debes-guardar-movil-1325122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/10-cosas-nunca-debes-guardar-movil-evitar-fraudes-robo-datos-3204590.jpg?tf=1200x' alt='10 cosas que nunca debes guardar en tu móvil para evitar fraudes y robo de datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/he-probado-metodo-pomodoro-mejorar-mi-productividad-resultado-terrible-1323114'>He probado el Método Pomodoro para mejorar mi productividad y el resultado es terrible</a></h4>
-    <a href='https://computerhoy.com/life/he-probado-metodo-pomodoro-mejorar-mi-productividad-resultado-terrible-1323114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/metodo-pomodoro-3201476.jpg?tf=1200x' alt='He probado el Método Pomodoro para mejorar mi productividad y el resultado es terrible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/certificado-digital-considera-clave-seguridad-autenticacion-linea-1313128'>¿Que es un certificado digital y por qué se considera clave para tu seguridad y autenticación en línea?</a></h4>
-    <a href='https://computerhoy.com/internet/certificado-digital-considera-clave-seguridad-autenticacion-linea-1313128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1698413117684-3207512.jpg?tf=1200x' alt='¿Que es un certificado digital y por qué se considera clave para tu seguridad y autenticación en línea?' />
     </a>
 </div>
 
