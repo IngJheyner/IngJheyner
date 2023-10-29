@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-apple-watch-ultra-cuesta-cuarta-parte-mejores-relojes-running-1325682'>No es el Apple Watch Ultra: cuesta la cuarta parte y es de los mejores relojes running</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-apple-watch-ultra-cuesta-cuarta-parte-mejores-relojes-running-1325682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazfit-cheetah-square-3205164.jpg?tf=1200x' alt='No es el Apple Watch Ultra: cuesta la cuarta parte y es de los mejores relojes running' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/elon-musk-ofrece-satelites-starlink-ong-gaza-israel-protesta-1327466'>Elon Musk ofrece sus satélites de Starlink a las ONG de Gaza, Israel asegura que los usará Hamás</a></h4>
+    <a href='https://computerhoy.com/internet/elon-musk-ofrece-satelites-starlink-ong-gaza-israel-protesta-1327466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/13000-satelites-espacio-suprimir-elon-musk-empresa-starlink-2975000.jpg?tf=1200x' alt='Elon Musk ofrece sus satélites de Starlink a las ONG de Gaza, Israel asegura que los usará Hamás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-29-octubre-2023-1327180'>Programación TV: ¿Qué ver hoy en televisión? Domingo 29 de octubre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-29-octubre-2023-1327180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-domingo-29-octubre-2023-3208224.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Domingo 29 de octubre de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/descubren-400-fortalezas-romanas-ocultas-durante-2000-anos-1327460'>Revisan viejas fotos aéreas de la Guerra Fría y descubren 400 fortalezas romanas ocultas durante 2.000 años</a></h4>
     <a href='https://computerhoy.com/life/descubren-400-fortalezas-romanas-ocultas-durante-2000-anos-1327460' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/revisan-viejas-fotos-aereas-guerra-fria-descubren-400-fortalezas-romanas-ocultas-durante-2000-anos-3207616.jpg?tf=1200x' alt='Revisan viejas fotos aéreas de la Guerra Fría y descubren 400 fortalezas romanas ocultas durante 2.000 años' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/razon-te-mareas-asiento-trasero-coche-autobus-1327442'>La razón por la que te mareas más en el asiento trasero del coche o del autobús</a></h4>
     <a href='https://computerhoy.com/life/razon-te-mareas-asiento-trasero-coche-autobus-1327442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/marearse-3208488.jpg?tf=1200x' alt='La razón por la que te mareas más en el asiento trasero del coche o del autobús' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-microrobots-basados-plantas-hacer-operaciones-medicas-sean-menos-invasivas-1327436'>Crean microrobots basados en plantas para hacer que las operaciones médicas sean menos invasivas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-microrobots-basados-plantas-hacer-operaciones-medicas-sean-menos-invasivas-1327436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/microrobots-organismo-3208480.jpg?tf=1200x' alt='Crean microrobots basados en plantas para hacer que las operaciones médicas sean menos invasivas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-bsod-srttrailtxt-windows-11-1305608'>Cómo solucionar el error BSOD de Srttrail.txt en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-bsod-srttrailtxt-windows-11-1305608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/error-bsod-srttrailtxt-3135608.jpg?tf=1200x' alt='Cómo solucionar el error BSOD de Srttrail.txt en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/halloween-explica-ciencia-nos-guste-pasar-miedo-celebrar-fiesta-1322518'>Halloween: así explica la ciencia que nos guste pasar miedo y celebrar esta fiesta</a></h4>
-    <a href='https://computerhoy.com/ciencia/halloween-explica-ciencia-nos-guste-pasar-miedo-celebrar-fiesta-1322518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/halloween.jpg?tf=1200x' alt='Halloween: así explica la ciencia que nos guste pasar miedo y celebrar esta fiesta' />
     </a>
 </div>
 
