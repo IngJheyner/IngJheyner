@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/lluvias-torrenciales-convierten-valle-muerte-lago-1327496'>El mundo al revés: lluvias torrenciales convierte el Valle de la Muerte en un lago</a></h4>
+    <a href='https://computerhoy.com/life/lluvias-torrenciales-convierten-valle-muerte-lago-1327496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/valle-muerte-bate-record-mundial-temperatura-noche-489-grados-1-madrugada-3092774.jpg?tf=1200x' alt='El mundo al revés: lluvias torrenciales convierte el Valle de la Muerte en un lago' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-paga-26300-millones-ano-buscador-todos-sitios-1327490'>Google paga 26.300 millones de dólares al año para que su buscador esté en todos los sitios, 18.000 millones son para Apple</a></h4>
     <a href='https://computerhoy.com/google/google-paga-26300-millones-ano-buscador-todos-sitios-1327490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/buscador-google-integra-generacion-imagenes-mediante-ia-3194512.jpg?tf=1200x' alt='Google paga 26.300 millones de dólares al año para que su buscador esté en todos los sitios, 18.000 millones son para Apple' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/elon-musk-ofrece-satelites-starlink-ong-gaza-israel-protesta-1327466'>Elon Musk ofrece sus satélites de Starlink a las ONG de Gaza, Israel asegura que los usará Hamás</a></h4>
     <a href='https://computerhoy.com/internet/elon-musk-ofrece-satelites-starlink-ong-gaza-israel-protesta-1327466' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/13000-satelites-espacio-suprimir-elon-musk-empresa-starlink-2975000.jpg?tf=1200x' alt='Elon Musk ofrece sus satélites de Starlink a las ONG de Gaza, Israel asegura que los usará Hamás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-29-octubre-2023-1327180'>Programación TV: ¿Qué ver hoy en televisión? Domingo 29 de octubre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-29-octubre-2023-1327180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-domingo-29-octubre-2023-3208224.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Domingo 29 de octubre de 2023' />
     </a>
 </div>
 
