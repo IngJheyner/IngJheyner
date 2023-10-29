@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-paga-26300-millones-ano-buscador-todos-sitios-1327490'>Google paga 26.300 millones de dólares al año para que su buscador esté en todos los sitios, 18.000 millones son para Apple</a></h4>
+    <a href='https://computerhoy.com/google/google-paga-26300-millones-ano-buscador-todos-sitios-1327490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/buscador-google-integra-generacion-imagenes-mediante-ia-3194512.jpg?tf=1200x' alt='Google paga 26.300 millones de dólares al año para que su buscador esté en todos los sitios, 18.000 millones son para Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/tiny11-core-windows-11-solo-necesita-2-gb-ram-3-gb-espacio-1327478'>El secreto de esta versión de Windows 11 sin bloatware que solo ocupa 3 GB de espacio</a></h4>
+    <a href='https://computerhoy.com/windows/tiny11-core-windows-11-solo-necesita-2-gb-ram-3-gb-espacio-1327478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/instalar-version-windows-11-solo-necesitas-2-gb-ram-3-gb-espacio-3208596.jpg?tf=1200x' alt='El secreto de esta versión de Windows 11 sin bloatware que solo ocupa 3 GB de espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/no-apple-watch-ultra-cuesta-cuarta-parte-mejores-relojes-running-1325682'>No es el Apple Watch Ultra: cuesta la cuarta parte y es de los mejores relojes running</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-apple-watch-ultra-cuesta-cuarta-parte-mejores-relojes-running-1325682' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazfit-cheetah-square-3205164.jpg?tf=1200x' alt='No es el Apple Watch Ultra: cuesta la cuarta parte y es de los mejores relojes running' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-29-octubre-2023-1327180'>Programación TV: ¿Qué ver hoy en televisión? Domingo 29 de octubre de 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-29-octubre-2023-1327180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-domingo-29-octubre-2023-3208224.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Domingo 29 de octubre de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubren-400-fortalezas-romanas-ocultas-durante-2000-anos-1327460'>Revisan viejas fotos aéreas de la Guerra Fría y descubren 400 fortalezas romanas ocultas durante 2.000 años</a></h4>
-    <a href='https://computerhoy.com/life/descubren-400-fortalezas-romanas-ocultas-durante-2000-anos-1327460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/revisan-viejas-fotos-aereas-guerra-fria-descubren-400-fortalezas-romanas-ocultas-durante-2000-anos-3207616.jpg?tf=1200x' alt='Revisan viejas fotos aéreas de la Guerra Fría y descubren 400 fortalezas romanas ocultas durante 2.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/razon-te-mareas-asiento-trasero-coche-autobus-1327442'>La razón por la que te mareas más en el asiento trasero del coche o del autobús</a></h4>
-    <a href='https://computerhoy.com/life/razon-te-mareas-asiento-trasero-coche-autobus-1327442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/marearse-3208488.jpg?tf=1200x' alt='La razón por la que te mareas más en el asiento trasero del coche o del autobús' />
     </a>
 </div>
 
