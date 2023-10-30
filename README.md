@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/jbl-go-3-altavoz-barato-resiste-casi-todo-tiene-ya-60000-opiniones-amazon-1327662'>Este altavoz bluetooth es barato, lo resiste casi todo y tiene ya 60.000 opiniones en Amazon</a></h4>
-    <a href='https://computerhoy.com/audio/jbl-go-3-altavoz-barato-resiste-casi-todo-tiene-ya-60000-opiniones-amazon-1327662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/jbl-go-3-2621847.jpg?tf=1200x' alt='Este altavoz bluetooth es barato, lo resiste casi todo y tiene ya 60.000 opiniones en Amazon' />
+    <h4><a href='https://computerhoy.com/tecnologia/arrasa-ventas-no-sorprende-smartwatch-chino-baratisimo-hace-electrocardiogramas-1326650'>Arrasa en ventas y no sorprende: este smartwatch chino es baratísimo y hasta hace electrocardiogramas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/arrasa-ventas-no-sorprende-smartwatch-chino-baratisimo-hace-electrocardiogramas-1326650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/lemfo-lemz-3207052.jpg?tf=1200x' alt='Arrasa en ventas y no sorprende: este smartwatch chino es baratísimo y hasta hace electrocardiogramas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/2-cada-3-marcas-moviles-han-desaparecido-pero-positivo-1319654'>2 de cada 3 marcas de móviles han desaparecido en los últimos años, pero es más positivo de lo que piensas</a></h4>
-    <a href='https://computerhoy.com/moviles/2-cada-3-marcas-moviles-han-desaparecido-pero-positivo-1319654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/moviles-3195440.jpg?tf=1200x' alt='2 de cada 3 marcas de móviles han desaparecido en los últimos años, pero es más positivo de lo que piensas' />
+    <h4><a href='https://computerhoy.com/apps/elon-musk-quiere-acabar-bancos-2024-convertira-x-nuevo-centro-financiero-1327804'>Elon Musk quiere acabar con los bancos en 2024 y convertirá X en tu nuevo centro financiero</a></h4>
+    <a href='https://computerhoy.com/apps/elon-musk-quiere-acabar-bancos-2024-convertira-x-nuevo-centro-financiero-1327804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-logos-twitter-x-3205062.jpg?tf=1200x' alt='Elon Musk quiere acabar con los bancos en 2024 y convertirá X en tu nuevo centro financiero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040'>Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/jbl-soundgear-3208828.jpg?tf=1200x' alt='Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores' />
+    <h4><a href='https://computerhoy.com/google/funcion-oculta-google-te-avisara-cuanto-datos-personales-esten-online-borrara-1327754'>Esta función oculta de Google te avisará cuanto tus datos personales estén online y los borrará</a></h4>
+    <a href='https://computerhoy.com/google/funcion-oculta-google-te-avisara-cuanto-datos-personales-esten-online-borrara-1327754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/privacidad-chrome-3203240.jpg?tf=1200x' alt='Esta función oculta de Google te avisará cuanto tus datos personales estén online y los borrará' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/calixcoca-primera-vacuna-adiccion-cocaina-1327502'>Ya está lista la primera vacuna contra la adicción a la cocaína</a></h4>
-    <a href='https://computerhoy.com/ciencia/calixcoca-primera-vacuna-adiccion-cocaina-1327502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ya-lista-primera-vacuna-adiccion-cocaina-3208658.jpg?tf=1200x' alt='Ya está lista la primera vacuna contra la adicción a la cocaína' />
+    <h4><a href='https://computerhoy.com/mejores/cuales-son-mejores-air-fryer-mercado-1327668'>Mejores air fryer que puedes comprar: Cosori, Xiaomi y más modelos top</a></h4>
+    <a href='https://computerhoy.com/mejores/cuales-son-mejores-air-fryer-mercado-1327668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cosori-caf-211-3126768.jpg?tf=1200x' alt='Mejores air fryer que puedes comprar: Cosori, Xiaomi y más modelos top' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lluvias-torrenciales-convierten-valle-muerte-lago-1327496'>El mundo al revés: lluvias torrenciales convierten el Valle de la Muerte en un lago</a></h4>
-    <a href='https://computerhoy.com/life/lluvias-torrenciales-convierten-valle-muerte-lago-1327496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/valle-muerte-bate-record-mundial-temperatura-noche-489-grados-1-madrugada-3092774.jpg?tf=1200x' alt='El mundo al revés: lluvias torrenciales convierten el Valle de la Muerte en un lago' />
+    <h4><a href='https://computerhoy.com/android/beta-android-108-ya-aqui-novedades-como-descargarla-1327696'>La beta de Android 10.8 ya está aquí: principales novedades y cómo descargarla</a></h4>
+    <a href='https://computerhoy.com/android/beta-android-108-ya-aqui-novedades-como-descargarla-1327696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/messenger-android-auto-3023266.jpg?tf=1200x' alt='La beta de Android 10.8 ya está aquí: principales novedades y cómo descargarla' />
     </a>
 </div>
 
