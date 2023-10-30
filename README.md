@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/jbl-go-3-altavoz-barato-resiste-casi-todo-tiene-ya-60000-opiniones-amazon-1327662'>Este altavoz bluetooth es barato, lo resiste casi todo y tiene ya 60.000 opiniones en Amazon</a></h4>
+    <a href='https://computerhoy.com/audio/jbl-go-3-altavoz-barato-resiste-casi-todo-tiene-ya-60000-opiniones-amazon-1327662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/jbl-go-3-2621847.jpg?tf=1200x' alt='Este altavoz bluetooth es barato, lo resiste casi todo y tiene ya 60.000 opiniones en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/2-cada-3-marcas-moviles-han-desaparecido-pero-positivo-1319654'>2 de cada 3 marcas de móviles han desaparecido en los últimos años, pero es más positivo de lo que piensas</a></h4>
+    <a href='https://computerhoy.com/moviles/2-cada-3-marcas-moviles-han-desaparecido-pero-positivo-1319654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/moviles-3195440.jpg?tf=1200x' alt='2 de cada 3 marcas de móviles han desaparecido en los últimos años, pero es más positivo de lo que piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040'>Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores</a></h4>
     <a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/jbl-soundgear-3208828.jpg?tf=1200x' alt='Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/lluvias-torrenciales-convierten-valle-muerte-lago-1327496'>El mundo al revés: lluvias torrenciales convierten el Valle de la Muerte en un lago</a></h4>
     <a href='https://computerhoy.com/life/lluvias-torrenciales-convierten-valle-muerte-lago-1327496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/valle-muerte-bate-record-mundial-temperatura-noche-489-grados-1-madrugada-3092774.jpg?tf=1200x' alt='El mundo al revés: lluvias torrenciales convierten el Valle de la Muerte en un lago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-paga-26300-millones-ano-buscador-todos-sitios-1327490'>Google paga 26.300 millones de dólares al año para que su buscador esté en todos los sitios, 18.000 millones son para Apple</a></h4>
-    <a href='https://computerhoy.com/google/google-paga-26300-millones-ano-buscador-todos-sitios-1327490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/buscador-google-integra-generacion-imagenes-mediante-ia-3194512.jpg?tf=1200x' alt='Google paga 26.300 millones de dólares al año para que su buscador esté en todos los sitios, 18.000 millones son para Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/tiny11-core-windows-11-solo-necesita-2-gb-ram-3-gb-espacio-1327478'>El secreto de esta nueva versión de Windows 11 sin bloatware que solo ocupa 3 GB de espacio</a></h4>
-    <a href='https://computerhoy.com/windows/tiny11-core-windows-11-solo-necesita-2-gb-ram-3-gb-espacio-1327478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/instalar-version-windows-11-solo-necesitas-2-gb-ram-3-gb-espacio-3208596.jpg?tf=1200x' alt='El secreto de esta nueva versión de Windows 11 sin bloatware que solo ocupa 3 GB de espacio' />
     </a>
 </div>
 
