@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/calixcoca-primera-vacuna-adiccion-cocaina-1327502'>Ya está lista la primera vacuna contra la adicción a la cocaína</a></h4>
+    <a href='https://computerhoy.com/ciencia/calixcoca-primera-vacuna-adiccion-cocaina-1327502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ya-lista-primera-vacuna-adiccion-cocaina-3208658.jpg?tf=1200x' alt='Ya está lista la primera vacuna contra la adicción a la cocaína' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/lluvias-torrenciales-convierten-valle-muerte-lago-1327496'>El mundo al revés: lluvias torrenciales convierten el Valle de la Muerte en un lago</a></h4>
     <a href='https://computerhoy.com/life/lluvias-torrenciales-convierten-valle-muerte-lago-1327496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/valle-muerte-bate-record-mundial-temperatura-noche-489-grados-1-madrugada-3092774.jpg?tf=1200x' alt='El mundo al revés: lluvias torrenciales convierten el Valle de la Muerte en un lago' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-apple-watch-ultra-cuesta-cuarta-parte-mejores-relojes-running-1325682'>No es el Apple Watch Ultra: cuesta la cuarta parte y es de los mejores relojes running</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-apple-watch-ultra-cuesta-cuarta-parte-mejores-relojes-running-1325682' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazfit-cheetah-square-3205164.jpg?tf=1200x' alt='No es el Apple Watch Ultra: cuesta la cuarta parte y es de los mejores relojes running' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/elon-musk-ofrece-satelites-starlink-ong-gaza-israel-protesta-1327466'>Elon Musk ofrece sus satélites de Starlink a las ONG de Gaza, Israel asegura que los usará Hamás</a></h4>
-    <a href='https://computerhoy.com/internet/elon-musk-ofrece-satelites-starlink-ong-gaza-israel-protesta-1327466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/13000-satelites-espacio-suprimir-elon-musk-empresa-starlink-2975000.jpg?tf=1200x' alt='Elon Musk ofrece sus satélites de Starlink a las ONG de Gaza, Israel asegura que los usará Hamás' />
     </a>
 </div>
 
