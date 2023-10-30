@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/19-crimes-primer-vino-envejecido-ataud-cementerio-1327974'>19 Crimes, el primer vino envejecido en ataúd en un cementerio</a></h4>
-    <a href='https://computerhoy.com/alimentacion/19-crimes-primer-vino-envejecido-ataud-cementerio-1327974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1698675978396-3209354.jpg?tf=1200x' alt='19 Crimes, el primer vino envejecido en ataúd en un cementerio' />
+    <h4><a href='https://computerhoy.com/life/duermes-menos-5-horas-podria-pasarle-cuerpo-1326658'>¿Duermes menos de 5 horas? Esto podría pasarle a tu cuerpo</a></h4>
+    <a href='https://computerhoy.com/life/duermes-menos-5-horas-podria-pasarle-cuerpo-1326658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/duermes-menos-5-horas-podria-pasarle-cuerpo-3207070.jpg?tf=1200x' alt='¿Duermes menos de 5 horas? Esto podría pasarle a tu cuerpo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/preguntas-curiosas-puedes-hacerle-alexa-1326892'>10 preguntas curiosas que puedes hacerle a Alexa y no sabías que era capaz</a></h4>
-    <a href='https://computerhoy.com/amazon/preguntas-curiosas-puedes-hacerle-alexa-1326892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-alexa-2661513.jpg?tf=1200x' alt='10 preguntas curiosas que puedes hacerle a Alexa y no sabías que era capaz' />
+    <h4><a href='https://computerhoy.com/hogar/he-conseguido-abaratar-factura-calefaccion-inversion-ridicula-siempre-1328046'>He conseguido abaratar la factura de la calefacción con una inversión ridícula y para siempre</a></h4>
+    <a href='https://computerhoy.com/hogar/he-conseguido-abaratar-factura-calefaccion-inversion-ridicula-siempre-1328046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/radiador-calefaccion-3209542.jpg?tf=1200x' alt='He conseguido abaratar la factura de la calefacción con una inversión ridícula y para siempre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/4-grandes-fallos-ingeniero-google-ha-visto-1000-entrevistas-realizadas-1327892'>Los 4 grandes fallos que este ingeniero de Google ha visto en sus más de 1.000 entrevistas realizadas</a></h4>
-    <a href='https://computerhoy.com/life/4-grandes-fallos-ingeniero-google-ha-visto-1000-entrevistas-realizadas-1327892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/entrevistas-trabajo-3209228.jpg?tf=1200x' alt='Los 4 grandes fallos que este ingeniero de Google ha visto en sus más de 1.000 entrevistas realizadas' />
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-lunes-30-octubre-2023-1328092'>Programación TV: ¿Qué ver hoy en televisión? Lunes 30 de octubre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-lunes-30-octubre-2023-1328092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-lunes-30-octubre-2023-3209576.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Lunes 30 de octubre de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lenovo-x3-pro-auriculares-conduccion-osea-buenos-bonitos-baratos-1327674'>Son auriculares, pero no como los que conoces: conducen el sonido vía ósea y son sorprendentemente baratos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lenovo-x3-pro-auriculares-conduccion-osea-buenos-bonitos-baratos-1327674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/lenovo-x3-pro-3208844.jpg?tf=1200x' alt='Son auriculares, pero no como los que conoces: conducen el sonido vía ósea y son sorprendentemente baratos' />
+    <h4><a href='https://computerhoy.com/pc/no-deberias-forzar-nunca-apagado-ordenador-1318528'>Por qué no deberías forzar nunca el apagado de tu ordenador</a></h4>
+    <a href='https://computerhoy.com/pc/no-deberias-forzar-nunca-apagado-ordenador-1318528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apagar-ordenador-3209430.jpg?tf=1200x' alt='Por qué no deberías forzar nunca el apagado de tu ordenador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/quieres-eliminar-anuncios-facebook-instagram-meta-lanza-suscripcion-pago-1327922'>¿Quieres eliminar los anuncios de Facebook e Instagram? Meta lanza una suscripción de pago</a></h4>
-    <a href='https://computerhoy.com/apps/quieres-eliminar-anuncios-facebook-instagram-meta-lanza-suscripcion-pago-1327922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/meta-facebook-3209280.jpg?tf=1200x' alt='¿Quieres eliminar los anuncios de Facebook e Instagram? Meta lanza una suscripción de pago' />
+    <h4><a href='https://computerhoy.com/tv/merece-pena-comprar-smart-tv-8k-ahora-mismo-4k-suficiente-1326830'>¿Merece la pena comprar un Smart TV 8K ahora mismo o con 4K es suficiente?</a></h4>
+    <a href='https://computerhoy.com/tv/merece-pena-comprar-smart-tv-8k-ahora-mismo-4k-suficiente-1326830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/merece-pena-comprar-smart-tv-8k-ahora-mismo-4k-suficiente-3207748.jpg?tf=1200x' alt='¿Merece la pena comprar un Smart TV 8K ahora mismo o con 4K es suficiente?' />
     </a>
 </div>
 
