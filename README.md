@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/lenovo-x3-pro-auriculares-conduccion-osea-buenos-bonitos-baratos-1327674'>Son auriculares, pero no como los que conoces: conducen el sonido vía ósea y son sorprendentemente baratos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lenovo-x3-pro-auriculares-conduccion-osea-buenos-bonitos-baratos-1327674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/lenovo-x3-pro-3208844.jpg?tf=1200x' alt='Son auriculares, pero no como los que conoces: conducen el sonido vía ósea y son sorprendentemente baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/quieres-eliminar-anuncios-facebook-instagram-meta-lanza-suscripcion-pago-1327922'>¿Quieres eliminar los anuncios de Facebook e Instagram? Meta lanza una suscripción de pago</a></h4>
+    <a href='https://computerhoy.com/apps/quieres-eliminar-anuncios-facebook-instagram-meta-lanza-suscripcion-pago-1327922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/meta-facebook-3209280.jpg?tf=1200x' alt='¿Quieres eliminar los anuncios de Facebook e Instagram? Meta lanza una suscripción de pago' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-solo-cautivo-corazones-todos-friends-matthew-perry-tambien-enseno-usar-windows-1327816'>No solo cautivó los corazones de todos en Friends, Matthew Perry también enseñó a usar Windows </a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-solo-cautivo-corazones-todos-friends-matthew-perry-tambien-enseno-usar-windows-1327816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/matthew-perry-windows-3209082.jpg?tf=1200x' alt='No solo cautivó los corazones de todos en Friends, Matthew Perry también enseñó a usar Windows ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/arrasa-ventas-no-sorprende-smartwatch-chino-baratisimo-hace-electrocardiogramas-1326650'>Arrasa en ventas y no sorprende: este smartwatch chino es baratísimo y hasta hace electrocardiogramas</a></h4>
     <a href='https://computerhoy.com/tecnologia/arrasa-ventas-no-sorprende-smartwatch-chino-baratisimo-hace-electrocardiogramas-1326650' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/lemfo-lemz-3207052.jpg?tf=1200x' alt='Arrasa en ventas y no sorprende: este smartwatch chino es baratísimo y hasta hace electrocardiogramas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/elon-musk-quiere-acabar-bancos-2024-convertira-x-nuevo-centro-financiero-1327804'>Elon Musk quiere acabar con los bancos en 2024 y convertirá X en tu nuevo centro financiero</a></h4>
     <a href='https://computerhoy.com/apps/elon-musk-quiere-acabar-bancos-2024-convertira-x-nuevo-centro-financiero-1327804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-logos-twitter-x-3205062.jpg?tf=1200x' alt='Elon Musk quiere acabar con los bancos en 2024 y convertirá X en tu nuevo centro financiero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/funcion-oculta-google-te-avisara-cuanto-datos-personales-esten-online-borrara-1327754'>Esta función oculta de Google te avisará cuanto tus datos personales estén online y los borrará</a></h4>
-    <a href='https://computerhoy.com/google/funcion-oculta-google-te-avisara-cuanto-datos-personales-esten-online-borrara-1327754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/privacidad-chrome-3203240.jpg?tf=1200x' alt='Esta función oculta de Google te avisará cuanto tus datos personales estén online y los borrará' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/cuales-son-mejores-air-fryer-mercado-1327668'>Mejores air fryer que puedes comprar: Cosori, Xiaomi y más modelos top</a></h4>
-    <a href='https://computerhoy.com/mejores/cuales-son-mejores-air-fryer-mercado-1327668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cosori-caf-211-3126768.jpg?tf=1200x' alt='Mejores air fryer que puedes comprar: Cosori, Xiaomi y más modelos top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/beta-android-108-ya-aqui-novedades-como-descargarla-1327696'>La beta de Android 10.8 ya está aquí: principales novedades y cómo descargarla</a></h4>
-    <a href='https://computerhoy.com/android/beta-android-108-ya-aqui-novedades-como-descargarla-1327696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/messenger-android-auto-3023266.jpg?tf=1200x' alt='La beta de Android 10.8 ya está aquí: principales novedades y cómo descargarla' />
     </a>
 </div>
 
