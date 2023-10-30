@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040'>Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/jbl-soundgear-3208828.jpg?tf=1200x' alt='Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/calixcoca-primera-vacuna-adiccion-cocaina-1327502'>Ya está lista la primera vacuna contra la adicción a la cocaína</a></h4>
     <a href='https://computerhoy.com/ciencia/calixcoca-primera-vacuna-adiccion-cocaina-1327502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ya-lista-primera-vacuna-adiccion-cocaina-3208658.jpg?tf=1200x' alt='Ya está lista la primera vacuna contra la adicción a la cocaína' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/tiny11-core-windows-11-solo-necesita-2-gb-ram-3-gb-espacio-1327478'>El secreto de esta nueva versión de Windows 11 sin bloatware que solo ocupa 3 GB de espacio</a></h4>
     <a href='https://computerhoy.com/windows/tiny11-core-windows-11-solo-necesita-2-gb-ram-3-gb-espacio-1327478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/instalar-version-windows-11-solo-necesitas-2-gb-ram-3-gb-espacio-3208596.jpg?tf=1200x' alt='El secreto de esta nueva versión de Windows 11 sin bloatware que solo ocupa 3 GB de espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-apple-watch-ultra-cuesta-cuarta-parte-mejores-relojes-running-1325682'>No es el Apple Watch Ultra: cuesta la cuarta parte y es de los mejores relojes running</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-apple-watch-ultra-cuesta-cuarta-parte-mejores-relojes-running-1325682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazfit-cheetah-square-3205164.jpg?tf=1200x' alt='No es el Apple Watch Ultra: cuesta la cuarta parte y es de los mejores relojes running' />
     </a>
 </div>
 
