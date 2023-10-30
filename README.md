@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lluvias-torrenciales-convierten-valle-muerte-lago-1327496'>El mundo al revés: lluvias torrenciales convierte el Valle de la Muerte en un lago</a></h4>
+    <h4><a href='https://computerhoy.com/life/lluvias-torrenciales-convierten-valle-muerte-lago-1327496'>El mundo al revés: lluvias torrenciales convierten el Valle de la Muerte en un lago</a></h4>
     <a href='https://computerhoy.com/life/lluvias-torrenciales-convierten-valle-muerte-lago-1327496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/valle-muerte-bate-record-mundial-temperatura-noche-489-grados-1-madrugada-3092774.jpg?tf=1200x' alt='El mundo al revés: lluvias torrenciales convierte el Valle de la Muerte en un lago' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/valle-muerte-bate-record-mundial-temperatura-noche-489-grados-1-madrugada-3092774.jpg?tf=1200x' alt='El mundo al revés: lluvias torrenciales convierten el Valle de la Muerte en un lago' />
     </a>
 </div>
 
@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/tiny11-core-windows-11-solo-necesita-2-gb-ram-3-gb-espacio-1327478'>El secreto de esta versión de Windows 11 sin bloatware que solo ocupa 3 GB de espacio</a></h4>
+    <h4><a href='https://computerhoy.com/windows/tiny11-core-windows-11-solo-necesita-2-gb-ram-3-gb-espacio-1327478'>El secreto de esta nueva versión de Windows 11 sin bloatware que solo ocupa 3 GB de espacio</a></h4>
     <a href='https://computerhoy.com/windows/tiny11-core-windows-11-solo-necesita-2-gb-ram-3-gb-espacio-1327478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/instalar-version-windows-11-solo-necesitas-2-gb-ram-3-gb-espacio-3208596.jpg?tf=1200x' alt='El secreto de esta versión de Windows 11 sin bloatware que solo ocupa 3 GB de espacio' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/instalar-version-windows-11-solo-necesitas-2-gb-ram-3-gb-espacio-3208596.jpg?tf=1200x' alt='El secreto de esta nueva versión de Windows 11 sin bloatware que solo ocupa 3 GB de espacio' />
     </a>
 </div>
 
