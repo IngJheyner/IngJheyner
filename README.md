@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/19-crimes-primer-vino-envejecido-ataud-cementerio-1327974'>19 Crimes, el primer vino envejecido en ataúd en un cementerio</a></h4>
+    <a href='https://computerhoy.com/alimentacion/19-crimes-primer-vino-envejecido-ataud-cementerio-1327974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1698675978396-3209354.jpg?tf=1200x' alt='19 Crimes, el primer vino envejecido en ataúd en un cementerio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/preguntas-curiosas-puedes-hacerle-alexa-1326892'>10 preguntas curiosas que puedes hacerle a Alexa y no sabías que era capaz</a></h4>
+    <a href='https://computerhoy.com/amazon/preguntas-curiosas-puedes-hacerle-alexa-1326892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-alexa-2661513.jpg?tf=1200x' alt='10 preguntas curiosas que puedes hacerle a Alexa y no sabías que era capaz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/4-grandes-fallos-ingeniero-google-ha-visto-1000-entrevistas-realizadas-1327892'>Los 4 grandes fallos que este ingeniero de Google ha visto en sus más de 1.000 entrevistas realizadas</a></h4>
+    <a href='https://computerhoy.com/life/4-grandes-fallos-ingeniero-google-ha-visto-1000-entrevistas-realizadas-1327892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/entrevistas-trabajo-3209228.jpg?tf=1200x' alt='Los 4 grandes fallos que este ingeniero de Google ha visto en sus más de 1.000 entrevistas realizadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/lenovo-x3-pro-auriculares-conduccion-osea-buenos-bonitos-baratos-1327674'>Son auriculares, pero no como los que conoces: conducen el sonido vía ósea y son sorprendentemente baratos</a></h4>
     <a href='https://computerhoy.com/tecnologia/lenovo-x3-pro-auriculares-conduccion-osea-buenos-bonitos-baratos-1327674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/lenovo-x3-pro-3208844.jpg?tf=1200x' alt='Son auriculares, pero no como los que conoces: conducen el sonido vía ósea y son sorprendentemente baratos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/quieres-eliminar-anuncios-facebook-instagram-meta-lanza-suscripcion-pago-1327922'>¿Quieres eliminar los anuncios de Facebook e Instagram? Meta lanza una suscripción de pago</a></h4>
     <a href='https://computerhoy.com/apps/quieres-eliminar-anuncios-facebook-instagram-meta-lanza-suscripcion-pago-1327922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/meta-facebook-3209280.jpg?tf=1200x' alt='¿Quieres eliminar los anuncios de Facebook e Instagram? Meta lanza una suscripción de pago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-solo-cautivo-corazones-todos-friends-matthew-perry-tambien-enseno-usar-windows-1327816'>No solo cautivó los corazones de todos en Friends, Matthew Perry también enseñó a usar Windows </a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-solo-cautivo-corazones-todos-friends-matthew-perry-tambien-enseno-usar-windows-1327816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/matthew-perry-windows-3209082.jpg?tf=1200x' alt='No solo cautivó los corazones de todos en Friends, Matthew Perry también enseñó a usar Windows ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/arrasa-ventas-no-sorprende-smartwatch-chino-baratisimo-hace-electrocardiogramas-1326650'>Arrasa en ventas y no sorprende: este smartwatch chino es baratísimo y hasta hace electrocardiogramas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/arrasa-ventas-no-sorprende-smartwatch-chino-baratisimo-hace-electrocardiogramas-1326650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/lemfo-lemz-3207052.jpg?tf=1200x' alt='Arrasa en ventas y no sorprende: este smartwatch chino es baratísimo y hasta hace electrocardiogramas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elon-musk-quiere-acabar-bancos-2024-convertira-x-nuevo-centro-financiero-1327804'>Elon Musk quiere acabar con los bancos en 2024 y convertirá X en tu nuevo centro financiero</a></h4>
-    <a href='https://computerhoy.com/apps/elon-musk-quiere-acabar-bancos-2024-convertira-x-nuevo-centro-financiero-1327804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-logos-twitter-x-3205062.jpg?tf=1200x' alt='Elon Musk quiere acabar con los bancos en 2024 y convertirá X en tu nuevo centro financiero' />
     </a>
 </div>
 
