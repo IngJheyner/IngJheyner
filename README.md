@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/duermes-menos-5-horas-podria-pasarle-cuerpo-1326658'>¿Duermes menos de 5 horas? Esto podría pasarle a tu cuerpo</a></h4>
-    <a href='https://computerhoy.com/life/duermes-menos-5-horas-podria-pasarle-cuerpo-1326658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/duermes-menos-5-horas-podria-pasarle-cuerpo-3207070.jpg?tf=1200x' alt='¿Duermes menos de 5 horas? Esto podría pasarle a tu cuerpo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-oferta-suscripcion-mitad-precio-tres-meses-1328150'>SkyShowtime baja la suscripción un 50% durante tres meses, aprovecha para ver sus grandes series</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/skyshowtime-oferta-suscripcion-mitad-precio-tres-meses-1328150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/skyshowtime-te-da-ultima-oportunidad-puedes-ver-gratis-contenido-3020032.jpg?tf=1200x' alt='SkyShowtime baja la suscripción un 50% durante tres meses, aprovecha para ver sus grandes series' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/he-conseguido-abaratar-factura-calefaccion-inversion-ridicula-siempre-1328046'>He conseguido abaratar la factura de la calefacción con una inversión ridícula y para siempre</a></h4>
-    <a href='https://computerhoy.com/hogar/he-conseguido-abaratar-factura-calefaccion-inversion-ridicula-siempre-1328046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/radiador-calefaccion-3209542.jpg?tf=1200x' alt='He conseguido abaratar la factura de la calefacción con una inversión ridícula y para siempre' />
+    <h4><a href='https://computerhoy.com/apps/nueva-actualizacion-telegram-respuestas-20-edicion-links-1328118'>Nueva actualización en Telegram: Respuestas 2.0, vistas previas de enlaces y otras novedades</a></h4>
+    <a href='https://computerhoy.com/apps/nueva-actualizacion-telegram-respuestas-20-edicion-links-1328118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-actualizacion-telegram-respuestas-20-vistas-previas-enlaces-personalizacion-colores-nombres-3209628.jpg?tf=1200x' alt='Nueva actualización en Telegram: Respuestas 2.0, vistas previas de enlaces y otras novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-lunes-30-octubre-2023-1328092'>Programación TV: ¿Qué ver hoy en televisión? Lunes 30 de octubre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-lunes-30-octubre-2023-1328092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/programacion-tv-ver-hoy-television-lunes-30-octubre-2023-3209576.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Lunes 30 de octubre de 2023' />
+    <h4><a href='https://computerhoy.com/ciencia/increibles-imagenes-nebulosa-cangrejo-telescopio-james-webb-1328110'>Las impresionantes imágenes de la Nebulosa del Cangrejo tomadas por el James Webb son de una belleza insuperable</a></h4>
+    <a href='https://computerhoy.com/ciencia/increibles-imagenes-nebulosa-cangrejo-telescopio-james-webb-1328110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1698693647741-3209622.jpg?tf=1200x' alt='Las impresionantes imágenes de la Nebulosa del Cangrejo tomadas por el James Webb son de una belleza insuperable' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/no-deberias-forzar-nunca-apagado-ordenador-1318528'>Por qué no deberías forzar nunca el apagado de tu ordenador</a></h4>
-    <a href='https://computerhoy.com/pc/no-deberias-forzar-nunca-apagado-ordenador-1318528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apagar-ordenador-3209430.jpg?tf=1200x' alt='Por qué no deberías forzar nunca el apagado de tu ordenador' />
+    <h4><a href='https://computerhoy.com/windows/aleluya-windows-11-ya-compatible-forma-nativa-archivos-rar-7-zip-tar-gz-1328132'>¡Aleluya! Windows 11 ya es compatible de forma nativa con archivos RAR, 7-Zip, Tar y GZ</a></h4>
+    <a href='https://computerhoy.com/windows/aleluya-windows-11-ya-compatible-forma-nativa-archivos-rar-7-zip-tar-gz-1328132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-11-3040832.jpg?tf=1200x' alt='¡Aleluya! Windows 11 ya es compatible de forma nativa con archivos RAR, 7-Zip, Tar y GZ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/merece-pena-comprar-smart-tv-8k-ahora-mismo-4k-suficiente-1326830'>¿Merece la pena comprar un Smart TV 8K ahora mismo o con 4K es suficiente?</a></h4>
-    <a href='https://computerhoy.com/tv/merece-pena-comprar-smart-tv-8k-ahora-mismo-4k-suficiente-1326830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/merece-pena-comprar-smart-tv-8k-ahora-mismo-4k-suficiente-3207748.jpg?tf=1200x' alt='¿Merece la pena comprar un Smart TV 8K ahora mismo o con 4K es suficiente?' />
+    <h4><a href='https://computerhoy.com/motor/tienes-coche-seat-fabricado-2009-2017-posible-airbag-no-sea-seguro-1328130'>¿Tienes un coche Seat fabricado entre 2009 y 2017? Es posible que su airbag no sea seguro</a></h4>
+    <a href='https://computerhoy.com/motor/tienes-coche-seat-fabricado-2009-2017-posible-airbag-no-sea-seguro-1328130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/airbag-3009182.jpg?tf=1200x' alt='¿Tienes un coche Seat fabricado entre 2009 y 2017? Es posible que su airbag no sea seguro' />
     </a>
 </div>
 
