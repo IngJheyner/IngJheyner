@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/como-lavar-bayetas-microfibra-1326882'>Cómo lavar las bayetas de microfibra sin que pierdan propiedades</a></h4>
-    <a href='https://computerhoy.com/hogar/como-lavar-bayetas-microfibra-1326882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/articulos-limpieza-3209420.jpg?tf=1200x' alt='Cómo lavar las bayetas de microfibra sin que pierdan propiedades' />
+    <h4><a href='https://computerhoy.com/google/sundar-pichai-ceo-google-defiende-capa-espada-empresa-nuevo-juicio-antimonopolio-1328378'>Sundar Pichai, CEO de Google, defiende a capa y espada su empresa en un nuevo juicio antimonopolio</a></h4>
+    <a href='https://computerhoy.com/google/sundar-pichai-ceo-google-defiende-capa-espada-empresa-nuevo-juicio-antimonopolio-1328378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sundar-pichai-ceo-google-3209960.jpg?tf=1200x' alt='Sundar Pichai, CEO de Google, defiende a capa y espada su empresa en un nuevo juicio antimonopolio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/buscador-google-deberes-matematicas-fisica-geometria-inteligencia-artificial-1328154'>Atención estudiantes: el buscador de Google ahora te hace los deberes de matemáticas, física y geometría</a></h4>
-    <a href='https://computerhoy.com/google/buscador-google-deberes-matematicas-fisica-geometria-inteligencia-artificial-1328154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/atencion-estudiantes-buscador-google-ahora-te-hace-deberes-matematicas-fisica-geometria-3209698.jpg?tf=1200x' alt='Atención estudiantes: el buscador de Google ahora te hace los deberes de matemáticas, física y geometría' />
+    <h4><a href='https://computerhoy.com/apple/precios-macbook-imac-2023-m3-1328366'>Precio de los nuevos MacBook e iMac con chip M3 y fechas de lanzamiento</a></h4>
+    <a href='https://computerhoy.com/apple/precios-macbook-imac-2023-m3-1328366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-m3-3209952.jpg?tf=1200x' alt='Precio de los nuevos MacBook e iMac con chip M3 y fechas de lanzamiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/superior-boy-flipper-zero-puedes-fabricar-mismo-raspberry-pi-1328134'>Superior Boy, el Flipper Zero que puedes fabricar tú mismo con una Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/superior-boy-flipper-zero-puedes-fabricar-mismo-raspberry-pi-1328134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/superior-boy-flipper-zero-puedes-fabricar-mismo-raspberry-pi-3209696.jpg?tf=1200x' alt='Superior Boy, el Flipper Zero que puedes fabricar tú mismo con una Raspberry Pi' />
+    <h4><a href='https://computerhoy.com/apple/apple-macbook-pro-14-16-pulgadas-chips-m3-precio-fecha-1328346'>Apple presenta los MacBook Pro de 14 y 16 pulgadas impulsados por sus potentes chips M3 </a></h4>
+    <a href='https://computerhoy.com/apple/apple-macbook-pro-14-16-pulgadas-chips-m3-precio-fecha-1328346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-macbook-pro-3209928.jpg?tf=1200x' alt='Apple presenta los MacBook Pro de 14 y 16 pulgadas impulsados por sus potentes chips M3 ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-oferta-suscripcion-mitad-precio-tres-meses-1328150'>SkyShowtime baja la suscripción un 50% durante tres meses, aprovecha para ver sus grandes series</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/skyshowtime-oferta-suscripcion-mitad-precio-tres-meses-1328150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/skyshowtime-te-da-ultima-oportunidad-puedes-ver-gratis-contenido-3020032.jpg?tf=1200x' alt='SkyShowtime baja la suscripción un 50% durante tres meses, aprovecha para ver sus grandes series' />
+    <h4><a href='https://computerhoy.com/apple/apple-presenta-chips-m3-m3-pro-m3-max-potencia-descomunal-1328340'>Apple presenta sus chips M3, M3 Pro y M3 Max con potencia descomunal y mucha eficiencia energética</a></h4>
+    <a href='https://computerhoy.com/apple/apple-presenta-chips-m3-m3-pro-m3-max-potencia-descomunal-1328340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-chip-m3-m3-pro-m3-max-3209930.jpg?tf=1200x' alt='Apple presenta sus chips M3, M3 Pro y M3 Max con potencia descomunal y mucha eficiencia energética' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nueva-actualizacion-telegram-respuestas-20-edicion-links-1328118'>Nueva actualización en Telegram: Respuestas 2.0, vistas previas de enlaces y otras novedades</a></h4>
-    <a href='https://computerhoy.com/apps/nueva-actualizacion-telegram-respuestas-20-edicion-links-1328118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-actualizacion-telegram-respuestas-20-vistas-previas-enlaces-personalizacion-colores-nombres-3209628.jpg?tf=1200x' alt='Nueva actualización en Telegram: Respuestas 2.0, vistas previas de enlaces y otras novedades' />
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949'>Estos son los mejores robots aspiradores que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nuevos-robots-aspiradores-roborock-limpieza-inteligente-efectiva-tamano-mini-2919190.jpg?tf=1200x' alt='Estos son los mejores robots aspiradores que puedes comprar ahora mismo' />
     </a>
 </div>
 
