@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ataque-masivo-vulnerabilidad-productos-acceso-remoto-ya-ha-afectado-20000-empresas-1328406'>Ataque masivo: esta vulnerabilidad en productos de acceso remoto ya ha afectado a 20.000 empresas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ataque-masivo-vulnerabilidad-productos-acceso-remoto-ya-ha-afectado-20000-empresas-1328406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ciberseguridad-ataque-3210096.jpg?tf=1200x' alt='Ataque masivo: esta vulnerabilidad en productos de acceso remoto ya ha afectado a 20.000 empresas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/evita-correos-electronicos-acaben-bandeja-spam-estos-consejos-1328386'>Evita que tus correos electrónicos acaben en la bandeja de 'spam' con estos consejos</a></h4>
+    <a href='https://computerhoy.com/apps/evita-correos-electronicos-acaben-bandeja-spam-estos-consejos-1328386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/correo-electronico-spam-3209982.jpg?tf=1200x' alt='Evita que tus correos electrónicos acaben en la bandeja de 'spam' con estos consejos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ahora-ya-no-hay-escasez-bajara-precio-ps5-1328382'>Ahora que ya no hay escasez, ¿Bajará el precio de la PS5?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ahora-ya-no-hay-escasez-bajara-precio-ps5-1328382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ps5-playstation-5-2944466.jpg?tf=1200x' alt='Ahora que ya no hay escasez, ¿Bajará el precio de la PS5?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/roomba-friega-limpia-sola-pulveriza-precio-amazon-vuelve-oferta-prime-day-1328364'>La Roomba que friega y se limpia sola pulveriza su precio en Amazon y vuelve a la oferta de Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/roomba-friega-limpia-sola-pulveriza-precio-amazon-vuelve-oferta-prime-day-1328364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/roomba-i8-combo-3209922.jpg?tf=1200x' alt='La Roomba que friega y se limpia sola pulveriza su precio en Amazon y vuelve a la oferta de Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/sundar-pichai-ceo-google-defiende-capa-espada-empresa-nuevo-juicio-antimonopolio-1328378'>Sundar Pichai, CEO de Google, defiende a capa y espada su empresa en un nuevo juicio antimonopolio</a></h4>
     <a href='https://computerhoy.com/google/sundar-pichai-ceo-google-defiende-capa-espada-empresa-nuevo-juicio-antimonopolio-1328378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sundar-pichai-ceo-google-3209960.jpg?tf=1200x' alt='Sundar Pichai, CEO de Google, defiende a capa y espada su empresa en un nuevo juicio antimonopolio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/precios-macbook-imac-2023-m3-1328366'>Precio de los nuevos MacBook e iMac con chip M3 y fechas de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/apple/precios-macbook-imac-2023-m3-1328366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-m3-3209952.jpg?tf=1200x' alt='Precio de los nuevos MacBook e iMac con chip M3 y fechas de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-macbook-pro-14-16-pulgadas-chips-m3-precio-fecha-1328346'>Apple presenta los MacBook Pro de 14 y 16 pulgadas impulsados por sus potentes chips M3 </a></h4>
-    <a href='https://computerhoy.com/apple/apple-macbook-pro-14-16-pulgadas-chips-m3-precio-fecha-1328346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-macbook-pro-3209928.jpg?tf=1200x' alt='Apple presenta los MacBook Pro de 14 y 16 pulgadas impulsados por sus potentes chips M3 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-presenta-chips-m3-m3-pro-m3-max-potencia-descomunal-1328340'>Apple presenta sus chips M3, M3 Pro y M3 Max con potencia descomunal y mucha eficiencia energética</a></h4>
-    <a href='https://computerhoy.com/apple/apple-presenta-chips-m3-m3-pro-m3-max-potencia-descomunal-1328340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-chip-m3-m3-pro-m3-max-3209930.jpg?tf=1200x' alt='Apple presenta sus chips M3, M3 Pro y M3 Max con potencia descomunal y mucha eficiencia energética' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949'>Estos son los mejores robots aspiradores que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nuevos-robots-aspiradores-roborock-limpieza-inteligente-efectiva-tamano-mini-2919190.jpg?tf=1200x' alt='Estos son los mejores robots aspiradores que puedes comprar ahora mismo' />
     </a>
 </div>
 
