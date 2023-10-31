@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ataque-masivo-vulnerabilidad-productos-acceso-remoto-ya-ha-afectado-20000-empresas-1328406'>Ataque masivo: esta vulnerabilidad en productos de acceso remoto ya ha afectado a 20.000 empresas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ataque-masivo-vulnerabilidad-productos-acceso-remoto-ya-ha-afectado-20000-empresas-1328406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ciberseguridad-ataque-3210096.jpg?tf=1200x' alt='Ataque masivo: esta vulnerabilidad en productos de acceso remoto ya ha afectado a 20.000 empresas' />
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-revoluciona-investigacion-salud-fitness-nuevo-laboratorio-finlandia-1328518'>Huawei revoluciona la investigación en salud y fitness con su nuevo laboratorio en Finlandia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-revoluciona-investigacion-salud-fitness-nuevo-laboratorio-finlandia-1328518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/laboratorio-salud-huawei-3210264.jpg?tf=1200x' alt='Huawei revoluciona la investigación en salud y fitness con su nuevo laboratorio en Finlandia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/evita-correos-electronicos-acaben-bandeja-spam-estos-consejos-1328386'>Evita que tus correos electrónicos acaben en la bandeja de 'spam' con estos consejos</a></h4>
-    <a href='https://computerhoy.com/apps/evita-correos-electronicos-acaben-bandeja-spam-estos-consejos-1328386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/correo-electronico-spam-3209982.jpg?tf=1200x' alt='Evita que tus correos electrónicos acaben en la bandeja de 'spam' con estos consejos' />
+    <h4><a href='https://computerhoy.com/industria/vodafone-espana-100-negocio-fondo-britanico-zegona-5000-millones-euros-1328520'>Vodafone España vende el 100% del negocio al fondo británico Zegona por 5.000 millones de euros</a></h4>
+    <a href='https://computerhoy.com/industria/vodafone-espana-100-negocio-fondo-britanico-zegona-5000-millones-euros-1328520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/vodafone-2967264.jpg?tf=1200x' alt='Vodafone España vende el 100% del negocio al fondo británico Zegona por 5.000 millones de euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ahora-ya-no-hay-escasez-bajara-precio-ps5-1328382'>Ahora que ya no hay escasez, ¿Bajará el precio de la PS5?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ahora-ya-no-hay-escasez-bajara-precio-ps5-1328382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ps5-playstation-5-2944466.jpg?tf=1200x' alt='Ahora que ya no hay escasez, ¿Bajará el precio de la PS5?' />
+    <h4><a href='https://computerhoy.com/moviles/one-ui-6-aterriza-samsung-galaxy-incluye-potente-aliado-seguridad-movil-1326580'>One UI 6 aterriza en los Samsung Galaxy e incluye un potente aliado para la seguridad de tu móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/one-ui-6-aterriza-samsung-galaxy-incluye-potente-aliado-seguridad-movil-1326580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/one-ui-6-samsung-3206986.jpg?tf=1200x' alt='One UI 6 aterriza en los Samsung Galaxy e incluye un potente aliado para la seguridad de tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/roomba-friega-limpia-sola-pulveriza-precio-amazon-vuelve-oferta-prime-day-1328364'>La Roomba que friega y se limpia sola pulveriza su precio en Amazon y vuelve a la oferta de Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/roomba-friega-limpia-sola-pulveriza-precio-amazon-vuelve-oferta-prime-day-1328364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/roomba-i8-combo-3209922.jpg?tf=1200x' alt='La Roomba que friega y se limpia sola pulveriza su precio en Amazon y vuelve a la oferta de Prime Day' />
+    <h4><a href='https://computerhoy.com/ciencia/encuentran-nanotecnologia-yacimientos-romanos-hace-2000-anos-como-posible-1328440'>Encuentran nanotecnología en yacimientos romanos de hace 2.000 años: ¿Cómo es posible?</a></h4>
+    <a href='https://computerhoy.com/ciencia/encuentran-nanotecnologia-yacimientos-romanos-hace-2000-anos-como-posible-1328440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/yacimientos-romanos-3210166.jpg?tf=1200x' alt='Encuentran nanotecnología en yacimientos romanos de hace 2.000 años: ¿Cómo es posible?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/sundar-pichai-ceo-google-defiende-capa-espada-empresa-nuevo-juicio-antimonopolio-1328378'>Sundar Pichai, CEO de Google, defiende a capa y espada su empresa en un nuevo juicio antimonopolio</a></h4>
-    <a href='https://computerhoy.com/google/sundar-pichai-ceo-google-defiende-capa-espada-empresa-nuevo-juicio-antimonopolio-1328378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sundar-pichai-ceo-google-3209960.jpg?tf=1200x' alt='Sundar Pichai, CEO de Google, defiende a capa y espada su empresa en un nuevo juicio antimonopolio' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-xiaomi-revientan-precio-movil-barato-ahora-sorprende-va-alla-1327750'>Amazon y Xiaomi revientan el precio de un móvil barato que ahora sorprende y va más allá</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-xiaomi-revientan-precio-movil-barato-ahora-sorprende-va-alla-1327750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-12c-3185940.jpg?tf=1200x' alt='Amazon y Xiaomi revientan el precio de un móvil barato que ahora sorprende y va más allá' />
     </a>
 </div>
 
