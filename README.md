@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/gatos-negros-curiosidades-falsos-mitos-seguro-no-conoces-1327832'>Gatos negros: curiosidades y falsos mitos que seguro que no conoces</a></h4>
-    <a href='https://computerhoy.com/life/gatos-negros-curiosidades-falsos-mitos-seguro-no-conoces-1327832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/gatos-negros-curiosidades-falsos-mitos-seguro-no-conoces-3209098.jpg?tf=1200x' alt='Gatos negros: curiosidades y falsos mitos que seguro que no conoces' />
+    <h4><a href='https://computerhoy.com/life/tratamiento-genetico-devuelve-oido-ninos-sordos-china-1328702'>Un pionero tratamiento genético devuelve el oído a varios niños sordos de nacimiento en China </a></h4>
+    <a href='https://computerhoy.com/life/tratamiento-genetico-devuelve-oido-ninos-sordos-china-1328702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pionero-tratamiento-genetico-devuelve-oido-varios-ninos-sordos-nacimiento-china-3210780.jpg?tf=1200x' alt='Un pionero tratamiento genético devuelve el oído a varios niños sordos de nacimiento en China ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/halloween-son-cementerios-siniestros-mundo-1328462'>Halloween: así son los cementerios más siniestros del mundo</a></h4>
-    <a href='https://computerhoy.com/life/halloween-son-cementerios-siniestros-mundo-1328462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pelicula-terror-son-cementerios-siniestros-mundo-3210180.jpg?tf=1200x' alt='Halloween: así son los cementerios más siniestros del mundo' />
+    <h4><a href='https://computerhoy.com/life/truco-hostelera-obligarte-dejar-propina-incendiando-redes-1328760'>El truco de una hostelera para “obligarte” a dejar propina que está incendiando las redes</a></h4>
+    <a href='https://computerhoy.com/life/truco-hostelera-obligarte-dejar-propina-incendiando-redes-1328760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/propina-3210954.jpg?tf=1200x' alt='El truco de una hostelera para “obligarte” a dejar propina que está incendiando las redes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/hacer-cine-movil-ya-posible-corto-grabado-honor-magic4-pro-gana-otro-premio-1328656'>El cine ya se hace con móvil: este corto grabado íntegramente con un Honor Magic4 Pro es galardonado de nuevo</a></h4>
-    <a href='https://computerhoy.com/moviles/hacer-cine-movil-ya-posible-corto-grabado-honor-magic4-pro-gana-otro-premio-1328656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kaleidoscope-honor-3210634.jpg?tf=1200x' alt='El cine ya se hace con móvil: este corto grabado íntegramente con un Honor Magic4 Pro es galardonado de nuevo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/creeper-virus-historia-primer-virus-reaper-primer-antivirus-1327086'>Creeper Virus: historia del primer virus informático y Reaper, el primer antivirus</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/creeper-virus-historia-primer-virus-reaper-primer-antivirus-1327086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/creeper-virus-historia-primer-virus-informatico-reaper-primer-antivirus-3208044.jpg?tf=1200x' alt='Creeper Virus: historia del primer virus informático y Reaper, el primer antivirus' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/miedo-tecnologia-gadgets-dispositivos-cobraron-vida-funcionaron-forma-extrana-1324364'>Miedo a la tecnología: los gadgets y dispositivos que “cobraron vida” o funcionaron de forma extraña</a></h4>
-    <a href='https://computerhoy.com/tecnologia/miedo-tecnologia-gadgets-dispositivos-cobraron-vida-funcionaron-forma-extrana-1324364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/miedo-tecnologia-gadgets-dispositivos-cobraron-vida-funcionaron-forma-extrana-3203306.jpg?tf=1200x' alt='Miedo a la tecnología: los gadgets y dispositivos que “cobraron vida” o funcionaron de forma extraña' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/banco-fantasma-guardia-civil-alerta-terrorifica-estafa-puede-dejar-cuenta-temblando-1328756'>El banco fantasma: la Guardia Civil alerta sobre esta terrorífica estafa que puede dejar tu cuenta temblando</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/banco-fantasma-guardia-civil-alerta-terrorifica-estafa-puede-dejar-cuenta-temblando-1328756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/phishing-3210938.jpg?tf=1200x' alt='El banco fantasma: la Guardia Civil alerta sobre esta terrorífica estafa que puede dejar tu cuenta temblando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-hombre-saco-coco-cada-pais-mundo-1328644'>Este mapa muestra cómo es el Hombre del Saco en cada país del mundo</a></h4>
-    <a href='https://computerhoy.com/life/mapa-hombre-saco-coco-cada-pais-mundo-1328644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/mapa-muestra-como-hombre-saco-cada-pais-mundo-3210490.jpg?tf=1200x' alt='Este mapa muestra cómo es el Hombre del Saco en cada país del mundo' />
+    <h4><a href='https://computerhoy.com/pc/no-tires-8-maneras-reutilizar-viejo-pc-1327992'>¡No lo tires! 8 maneras de reutilizar tu viejo PC </a></h4>
+    <a href='https://computerhoy.com/pc/no-tires-8-maneras-reutilizar-viejo-pc-1327992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/no-tires-8-maneras-reutilizar-viejo-pc-3209418.jpg?tf=1200x' alt='¡No lo tires! 8 maneras de reutilizar tu viejo PC ' />
     </a>
 </div>
 
