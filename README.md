@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/como-lavar-bayetas-microfibra-1326882'>Cómo lavar las bayetas de microfibra sin que pierdan propiedades</a></h4>
+    <a href='https://computerhoy.com/hogar/como-lavar-bayetas-microfibra-1326882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/articulos-limpieza-3209420.jpg?tf=1200x' alt='Cómo lavar las bayetas de microfibra sin que pierdan propiedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/buscador-google-deberes-matematicas-fisica-geometria-inteligencia-artificial-1328154'>Atención estudiantes: el buscador de Google ahora te hace los deberes de matemáticas, física y geometría</a></h4>
+    <a href='https://computerhoy.com/google/buscador-google-deberes-matematicas-fisica-geometria-inteligencia-artificial-1328154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/atencion-estudiantes-buscador-google-ahora-te-hace-deberes-matematicas-fisica-geometria-3209698.jpg?tf=1200x' alt='Atención estudiantes: el buscador de Google ahora te hace los deberes de matemáticas, física y geometría' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/superior-boy-flipper-zero-puedes-fabricar-mismo-raspberry-pi-1328134'>Superior Boy, el Flipper Zero que puedes fabricar tú mismo con una Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/tecnologia/superior-boy-flipper-zero-puedes-fabricar-mismo-raspberry-pi-1328134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/superior-boy-flipper-zero-puedes-fabricar-mismo-raspberry-pi-3209696.jpg?tf=1200x' alt='Superior Boy, el Flipper Zero que puedes fabricar tú mismo con una Raspberry Pi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/nueva-actualizacion-telegram-respuestas-20-edicion-links-1328118'>Nueva actualización en Telegram: Respuestas 2.0, vistas previas de enlaces y otras novedades</a></h4>
     <a href='https://computerhoy.com/apps/nueva-actualizacion-telegram-respuestas-20-edicion-links-1328118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-actualizacion-telegram-respuestas-20-vistas-previas-enlaces-personalizacion-colores-nombres-3209628.jpg?tf=1200x' alt='Nueva actualización en Telegram: Respuestas 2.0, vistas previas de enlaces y otras novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/increibles-imagenes-nebulosa-cangrejo-telescopio-james-webb-1328110'>Las impresionantes imágenes de la Nebulosa del Cangrejo tomadas por el James Webb son de una belleza insuperable</a></h4>
-    <a href='https://computerhoy.com/ciencia/increibles-imagenes-nebulosa-cangrejo-telescopio-james-webb-1328110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/verticalimage1698693647741-3209622.jpg?tf=1200x' alt='Las impresionantes imágenes de la Nebulosa del Cangrejo tomadas por el James Webb son de una belleza insuperable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/aleluya-windows-11-ya-compatible-forma-nativa-archivos-rar-7-zip-tar-gz-1328132'>¡Aleluya! Windows 11 ya es compatible de forma nativa con archivos RAR, 7-Zip, Tar y GZ</a></h4>
-    <a href='https://computerhoy.com/windows/aleluya-windows-11-ya-compatible-forma-nativa-archivos-rar-7-zip-tar-gz-1328132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-11-3040832.jpg?tf=1200x' alt='¡Aleluya! Windows 11 ya es compatible de forma nativa con archivos RAR, 7-Zip, Tar y GZ' />
     </a>
 </div>
 
