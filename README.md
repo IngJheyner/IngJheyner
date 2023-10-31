@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/superior-boy-flipper-zero-puedes-fabricar-mismo-raspberry-pi-1328134'>Superior Boy, el Flipper Zero que puedes fabricar tú mismo con una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/superior-boy-flipper-zero-puedes-fabricar-mismo-raspberry-pi-1328134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/superior-boy-flipper-zero-puedes-fabricar-mismo-raspberry-pi-3209696.jpg?tf=1200x' alt='Superior Boy, el Flipper Zero que puedes fabricar tú mismo con una Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-oferta-suscripcion-mitad-precio-tres-meses-1328150'>SkyShowtime baja la suscripción un 50% durante tres meses, aprovecha para ver sus grandes series</a></h4>
     <a href='https://computerhoy.com/entretenimiento/skyshowtime-oferta-suscripcion-mitad-precio-tres-meses-1328150' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/skyshowtime-te-da-ultima-oportunidad-puedes-ver-gratis-contenido-3020032.jpg?tf=1200x' alt='SkyShowtime baja la suscripción un 50% durante tres meses, aprovecha para ver sus grandes series' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/aleluya-windows-11-ya-compatible-forma-nativa-archivos-rar-7-zip-tar-gz-1328132'>¡Aleluya! Windows 11 ya es compatible de forma nativa con archivos RAR, 7-Zip, Tar y GZ</a></h4>
     <a href='https://computerhoy.com/windows/aleluya-windows-11-ya-compatible-forma-nativa-archivos-rar-7-zip-tar-gz-1328132' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-11-3040832.jpg?tf=1200x' alt='¡Aleluya! Windows 11 ya es compatible de forma nativa con archivos RAR, 7-Zip, Tar y GZ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tienes-coche-seat-fabricado-2009-2017-posible-airbag-no-sea-seguro-1328130'>¿Tienes un coche Seat fabricado entre 2009 y 2017? Es posible que su airbag no sea seguro</a></h4>
-    <a href='https://computerhoy.com/motor/tienes-coche-seat-fabricado-2009-2017-posible-airbag-no-sea-seguro-1328130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/airbag-3009182.jpg?tf=1200x' alt='¿Tienes un coche Seat fabricado entre 2009 y 2017? Es posible que su airbag no sea seguro' />
     </a>
 </div>
 
