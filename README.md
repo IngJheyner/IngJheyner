@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-revoluciona-investigacion-salud-fitness-nuevo-laboratorio-finlandia-1328518'>Huawei revoluciona la investigación en salud y fitness con su nuevo laboratorio en Finlandia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-revoluciona-investigacion-salud-fitness-nuevo-laboratorio-finlandia-1328518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/laboratorio-salud-huawei-3210264.jpg?tf=1200x' alt='Huawei revoluciona la investigación en salud y fitness con su nuevo laboratorio en Finlandia' />
+    <h4><a href='https://computerhoy.com/life/gatos-negros-curiosidades-falsos-mitos-seguro-no-conoces-1327832'>Gatos negros: curiosidades y falsos mitos que seguro que no conoces</a></h4>
+    <a href='https://computerhoy.com/life/gatos-negros-curiosidades-falsos-mitos-seguro-no-conoces-1327832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/gatos-negros-curiosidades-falsos-mitos-seguro-no-conoces-3209098.jpg?tf=1200x' alt='Gatos negros: curiosidades y falsos mitos que seguro que no conoces' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/vodafone-espana-100-negocio-fondo-britanico-zegona-5000-millones-euros-1328520'>Vodafone España vende el 100% del negocio al fondo británico Zegona por 5.000 millones de euros</a></h4>
-    <a href='https://computerhoy.com/industria/vodafone-espana-100-negocio-fondo-britanico-zegona-5000-millones-euros-1328520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/vodafone-2967264.jpg?tf=1200x' alt='Vodafone España vende el 100% del negocio al fondo británico Zegona por 5.000 millones de euros' />
+    <h4><a href='https://computerhoy.com/life/halloween-son-cementerios-siniestros-mundo-1328462'>Halloween: así son los cementerios más siniestros del mundo</a></h4>
+    <a href='https://computerhoy.com/life/halloween-son-cementerios-siniestros-mundo-1328462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pelicula-terror-son-cementerios-siniestros-mundo-3210180.jpg?tf=1200x' alt='Halloween: así son los cementerios más siniestros del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/one-ui-6-aterriza-samsung-galaxy-incluye-potente-aliado-seguridad-movil-1326580'>One UI 6 aterriza en los Samsung Galaxy e incluye un potente aliado para la seguridad de tu móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/one-ui-6-aterriza-samsung-galaxy-incluye-potente-aliado-seguridad-movil-1326580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/one-ui-6-samsung-3206986.jpg?tf=1200x' alt='One UI 6 aterriza en los Samsung Galaxy e incluye un potente aliado para la seguridad de tu móvil' />
+    <h4><a href='https://computerhoy.com/moviles/hacer-cine-movil-ya-posible-corto-grabado-honor-magic4-pro-gana-otro-premio-1328656'>El cine ya se hace con móvil: este corto grabado íntegramente con un Honor Magic4 Pro es galardonado de nuevo</a></h4>
+    <a href='https://computerhoy.com/moviles/hacer-cine-movil-ya-posible-corto-grabado-honor-magic4-pro-gana-otro-premio-1328656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kaleidoscope-honor-3210634.jpg?tf=1200x' alt='El cine ya se hace con móvil: este corto grabado íntegramente con un Honor Magic4 Pro es galardonado de nuevo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/encuentran-nanotecnologia-yacimientos-romanos-hace-2000-anos-como-posible-1328440'>Encuentran nanotecnología en yacimientos romanos de hace 2.000 años: ¿Cómo es posible?</a></h4>
-    <a href='https://computerhoy.com/ciencia/encuentran-nanotecnologia-yacimientos-romanos-hace-2000-anos-como-posible-1328440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/yacimientos-romanos-3210166.jpg?tf=1200x' alt='Encuentran nanotecnología en yacimientos romanos de hace 2.000 años: ¿Cómo es posible?' />
+    <h4><a href='https://computerhoy.com/tecnologia/miedo-tecnologia-gadgets-dispositivos-cobraron-vida-funcionaron-forma-extrana-1324364'>Miedo a la tecnología: los gadgets y dispositivos que “cobraron vida” o funcionaron de forma extraña</a></h4>
+    <a href='https://computerhoy.com/tecnologia/miedo-tecnologia-gadgets-dispositivos-cobraron-vida-funcionaron-forma-extrana-1324364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/miedo-tecnologia-gadgets-dispositivos-cobraron-vida-funcionaron-forma-extrana-3203306.jpg?tf=1200x' alt='Miedo a la tecnología: los gadgets y dispositivos que “cobraron vida” o funcionaron de forma extraña' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-xiaomi-revientan-precio-movil-barato-ahora-sorprende-va-alla-1327750'>Amazon y Xiaomi revientan el precio de un móvil barato que ahora sorprende y va más allá</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-xiaomi-revientan-precio-movil-barato-ahora-sorprende-va-alla-1327750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-12c-3185940.jpg?tf=1200x' alt='Amazon y Xiaomi revientan el precio de un móvil barato que ahora sorprende y va más allá' />
+    <h4><a href='https://computerhoy.com/life/mapa-hombre-saco-coco-cada-pais-mundo-1328644'>Este mapa muestra cómo es el Hombre del Saco en cada país del mundo</a></h4>
+    <a href='https://computerhoy.com/life/mapa-hombre-saco-coco-cada-pais-mundo-1328644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/mapa-muestra-como-hombre-saco-cada-pais-mundo-3210490.jpg?tf=1200x' alt='Este mapa muestra cómo es el Hombre del Saco en cada país del mundo' />
     </a>
 </div>
 
