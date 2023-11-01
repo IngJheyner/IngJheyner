@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/buscador-google-busquedas-mejor-pagadas-1329134'>El dato que Google no quiere que sepas: las búsquedas que más dinero generan</a></h4>
+    <a href='https://computerhoy.com/google/buscador-google-busquedas-mejor-pagadas-1329134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/estas-son-busquedas-dinero-dan-google-3211586.jpg?tf=1200x' alt='El dato que Google no quiere que sepas: las búsquedas que más dinero generan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/creen-haber-descubierto-origen-como-construyo-gran-esfinge-guiza-1329130'>Creen haber descubierto el origen de cómo se construyó la Gran Esfinge de Guiza</a></h4>
+    <a href='https://computerhoy.com/life/creen-haber-descubierto-origen-como-construyo-gran-esfinge-guiza-1329130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/gran-esfinge-guiza-3211594.jpg?tf=1200x' alt='Creen haber descubierto el origen de cómo se construyó la Gran Esfinge de Guiza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/expertos-recomiendan-mejor-forma-hacer-seguras-contrasenas-emojis-1329128'>Expertos recomiendan la mejor forma de hacer seguras las contraseñas: con emojis</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/expertos-recomiendan-mejor-forma-hacer-seguras-contrasenas-emojis-1329128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/contrasenas-emoji-3211592.jpg?tf=1200x' alt='Expertos recomiendan la mejor forma de hacer seguras las contraseñas: con emojis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/rebaja-bestia-reloj-xiaomi-runners-hace-temblar-garmin-1328486'>Rebaja a lo bestia del reloj Xiaomi para runners que hace temblar a Garmin</a></h4>
     <a href='https://computerhoy.com/tecnologia/rebaja-bestia-reloj-xiaomi-runners-hace-temblar-garmin-1328486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-watch-s1-active-2648923.jpg?tf=1200x' alt='Rebaja a lo bestia del reloj Xiaomi para runners que hace temblar a Garmin' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-miercoles-1-noviembre-2023-1329114'>Programación TV: ¿Qué ver hoy en televisión? Miércoles 1 de noviembre de 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/programacion-tv-miercoles-1-noviembre-2023-1329114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-miercoles-1-noviembre-2023-3211568.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Miércoles 1 de noviembre de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-hp-i7-cuesta-menos-200-euros-1328748'>No es un error de precio: este HP con i7 cuesta 152 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-error-precio-hp-i7-cuesta-menos-200-euros-1328748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hp-elite-8300-3210846.jpg?tf=1200x' alt='No es un error de precio: este HP con i7 cuesta 152 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-lanza-actualizacion-windows-11-version-23h2-1329086'>Microsoft lanza la actualización Windows 11 Version 23H2, con un par de novedades interesantes</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-lanza-actualizacion-windows-11-version-23h2-1329086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-lanza-actualizacion-windows-11-23h2-par-novedades-interesantes-3211446.jpg?tf=1200x' alt='Microsoft lanza la actualización Windows 11 Version 23H2, con un par de novedades interesantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/metodo-ford-clave-mantener-conversacion-cualquier-persona-1324432'>El método FORD: la clave infalible para mantener una conversación con cualquier persona</a></h4>
-    <a href='https://computerhoy.com/life/metodo-ford-clave-mantener-conversacion-cualquier-persona-1324432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/conversacion-3209378.jpg?tf=1200x' alt='El método FORD: la clave infalible para mantener una conversación con cualquier persona' />
     </a>
 </div>
 
