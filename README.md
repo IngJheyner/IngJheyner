@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/metodo-ford-clave-mantener-conversacion-cualquier-persona-1324432'>El método FORD: la clave infalible para mantener una conversación con cualquier persona</a></h4>
+    <a href='https://computerhoy.com/life/metodo-ford-clave-mantener-conversacion-cualquier-persona-1324432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/conversacion-3209378.jpg?tf=1200x' alt='El método FORD: la clave infalible para mantener una conversación con cualquier persona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-sube-precios-espana-prohibe-compartir-cuenta-1329058'>Disney+ ha subido hoy sus precios en España, añade publicidad y prohíbe compartir cuenta</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-plus-sube-precios-espana-prohibe-compartir-cuenta-1329058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/batacazo-disney-pierde-4-millones-suscriptores-2023-3033288.jpg?tf=1200x' alt='Disney+ ha subido hoy sus precios en España, añade publicidad y prohíbe compartir cuenta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/diccionario-collins-elige-ia-palabra-ano-2023-1329036'>El diccionario Collins elige a la IA como la Palabra del Año 2023, y no ha gustado a todos</a></h4>
     <a href='https://computerhoy.com/tecnologia/diccionario-collins-elige-ia-palabra-ano-2023-1329036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/diccionario-collins-elige-ia-como-palabra-ano-2023-no-ha-gustado-todos-3211294.jpg?tf=1200x' alt='El diccionario Collins elige a la IA como la Palabra del Año 2023, y no ha gustado a todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-12gb-ram-rompe-moldes-precio-increiblemente-1327838'>Esta tablet con 12GB de RAM rompe los moldes con un precio increíblemente bajo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-12gb-ram-rompe-moldes-precio-increiblemente-1327838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teclast-m50-3209106.jpg?tf=1200x' alt='Esta tablet con 12GB de RAM rompe los moldes con un precio increíblemente bajo' />
     </a>
 </div>
 
