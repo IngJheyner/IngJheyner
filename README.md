@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/he-aprendido-gestionar-radiadores-calefaccion-ahora-no-paso-frio-gasto-mucho-menos-1328786'>He aprendido a gestionar los radiadores de la calefacción, ahora no paso frío y gasto mucho menos</a></h4>
-    <a href='https://computerhoy.com/life/he-aprendido-gestionar-radiadores-calefaccion-ahora-no-paso-frio-gasto-mucho-menos-1328786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/he-aprendido-gestionar-radiadores-calefaccion-ahora-no-paso-frio-gasto-mucho-menos-3211004.jpg?tf=1200x' alt='He aprendido a gestionar los radiadores de la calefacción, ahora no paso frío y gasto mucho menos' />
+    <h4><a href='https://computerhoy.com/tutoriales/son-codigos-plus-google-maps-como-funcionan-ventajas-tienen-1328156'>Qué son los Códigos Plus de Google Maps, cómo funcionan y qué ventajas tienen</a></h4>
+    <a href='https://computerhoy.com/tutoriales/son-codigos-plus-google-maps-como-funcionan-ventajas-tienen-1328156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-maps-3060322.jpg?tf=1200x' alt='Qué son los Códigos Plus de Google Maps, cómo funcionan y qué ventajas tienen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-noviembre-prime-video-la-que-se-avecina-temporada-14-1328790'>Los estrenos de noviembre en Prime Video tienen sabor español, con Romancero, La que se avecina y Operación Triunfo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estrenos-noviembre-prime-video-la-que-se-avecina-temporada-14-1328790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estrenos-noviembre-prime-video-tienen-sabor-espanol-romancero-avecina-operacion-triunfo-3210980.jpg?tf=1200x' alt='Los estrenos de noviembre en Prime Video tienen sabor español, con Romancero, La que se avecina y Operación Triunfo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-copiar-texto-imagenes-paginas-web-protegidas-windows-11-1327090'>Cómo copiar texto de imágenes, programas y páginas web protegidas en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-copiar-texto-imagenes-paginas-web-protegidas-windows-11-1327090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-copiar-texto-imagenes-programas-paginas-web-protegidas-windows-11-3208052.jpg?tf=1200x' alt='Cómo copiar texto de imágenes, programas y páginas web protegidas en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-revela-foto-mano-cosmica-fantasmal-1328788'>La NASA revela la foto de una mano cósmica fantasmal, ¿qué es?</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-revela-foto-mano-cosmica-fantasmal-1328788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nasa-revela-foto-mano-cosmica-fantasmal-3210984.jpg?tf=1200x' alt='La NASA revela la foto de una mano cósmica fantasmal, ¿qué es?' />
+    <h4><a href='https://computerhoy.com/tecnologia/presentacion-apple-grabada-iphone-15-pro-max-que-significa-1328508'>La última presentación de Apple se grabó con un iPhone 15 Pro Max y eso es lo de menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/presentacion-apple-grabada-iphone-15-pro-max-que-significa-1328508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/grabacion-presentacion-apple-iphone-15-pro-max-3210286.jpg?tf=1200x' alt='La última presentación de Apple se grabó con un iPhone 15 Pro Max y eso es lo de menos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/favoritos-ahora-desploma-precio-nothing-phone-1-cae-plomo-amazon-1327828'>Es un de nuestros favoritos y ahora desploma su precio: el Nothing Phone (1) cae a plomo en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/favoritos-ahora-desploma-precio-nothing-phone-1-cae-plomo-amazon-1327828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/nothing-phone-1-primeras-impresiones-2756901.jpg?tf=1200x' alt='Es un de nuestros favoritos y ahora desploma su precio: el Nothing Phone (1) cae a plomo en Amazon' />
+    <h4><a href='https://computerhoy.com/life/como-limpiar-exterior-sarten-dejarla-como-nueva-1328062'>Cómo limpiar el exterior de una sartén y dejarla como nueva sin mover un dedo</a></h4>
+    <a href='https://computerhoy.com/life/como-limpiar-exterior-sarten-dejarla-como-nueva-1328062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-limpiar-exterior-sarten-dejarla-como-nueva-mover-dedo-3209642.jpg?tf=1200x' alt='Cómo limpiar el exterior de una sartén y dejarla como nueva sin mover un dedo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tratamiento-genetico-devuelve-oido-ninos-sordos-china-1328702'>Un pionero tratamiento genético devuelve el oído a varios niños sordos de nacimiento en China </a></h4>
-    <a href='https://computerhoy.com/life/tratamiento-genetico-devuelve-oido-ninos-sordos-china-1328702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pionero-tratamiento-genetico-devuelve-oido-varios-ninos-sordos-nacimiento-china-3210780.jpg?tf=1200x' alt='Un pionero tratamiento genético devuelve el oído a varios niños sordos de nacimiento en China ' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593'>Mejores tablets de 10 pulgadas que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/persona-utilizando-tablet-apple-ipad-3034556.jpg?tf=1200x' alt='Mejores tablets de 10 pulgadas que puedes comprar en 2023' />
     </a>
 </div>
 
