@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/son-codigos-plus-google-maps-como-funcionan-ventajas-tienen-1328156'>Qué son los Códigos Plus de Google Maps, cómo funcionan y qué ventajas tienen</a></h4>
-    <a href='https://computerhoy.com/tutoriales/son-codigos-plus-google-maps-como-funcionan-ventajas-tienen-1328156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-maps-3060322.jpg?tf=1200x' alt='Qué son los Códigos Plus de Google Maps, cómo funcionan y qué ventajas tienen' />
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-12gb-ram-rompe-moldes-precio-increiblemente-1327838'>Esta tablet con 12GB de RAM rompe los moldes con un precio increíblemente bajo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-12gb-ram-rompe-moldes-precio-increiblemente-1327838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teclast-m50-3209106.jpg?tf=1200x' alt='Esta tablet con 12GB de RAM rompe los moldes con un precio increíblemente bajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-copiar-texto-imagenes-paginas-web-protegidas-windows-11-1327090'>Cómo copiar texto de imágenes, programas y páginas web protegidas en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-copiar-texto-imagenes-paginas-web-protegidas-windows-11-1327090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-copiar-texto-imagenes-programas-paginas-web-protegidas-windows-11-3208052.jpg?tf=1200x' alt='Cómo copiar texto de imágenes, programas y páginas web protegidas en Windows 11' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-identificar-apps-bateria-consumen-movil-1328332'>Cómo identificar las apps que más batería consumen en tu móvil, según los expertos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-identificar-apps-bateria-consumen-movil-1328332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-identificar-apps-bateria-consumen-movil-expertos-3209880.jpg?tf=1200x' alt='Cómo identificar las apps que más batería consumen en tu móvil, según los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/presentacion-apple-grabada-iphone-15-pro-max-que-significa-1328508'>La última presentación de Apple se grabó con un iPhone 15 Pro Max y eso es lo de menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/presentacion-apple-grabada-iphone-15-pro-max-que-significa-1328508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/grabacion-presentacion-apple-iphone-15-pro-max-3210286.jpg?tf=1200x' alt='La última presentación de Apple se grabó con un iPhone 15 Pro Max y eso es lo de menos' />
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-microsoft-polemica-encuesta-fallecida-1329026'>Una IA de Microsoft causa polémica, al crear una encuesta con una fallecida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-microsoft-polemica-encuesta-fallecida-1329026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ia-microsoft-lia-crear-encuesta-fallecida-3211276.jpg?tf=1200x' alt='Una IA de Microsoft causa polémica, al crear una encuesta con una fallecida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-limpiar-exterior-sarten-dejarla-como-nueva-1328062'>Cómo limpiar el exterior de una sartén y dejarla como nueva sin mover un dedo</a></h4>
-    <a href='https://computerhoy.com/life/como-limpiar-exterior-sarten-dejarla-como-nueva-1328062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-limpiar-exterior-sarten-dejarla-como-nueva-mover-dedo-3209642.jpg?tf=1200x' alt='Cómo limpiar el exterior de una sartén y dejarla como nueva sin mover un dedo' />
+    <h4><a href='https://computerhoy.com/tutoriales/sirven-teclas-f1-f12-windows-11-1321502'>Para qué sirven las teclas del F1 al F12 en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/sirven-teclas-f1-f12-windows-11-1321502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teclado-3210388.jpg?tf=1200x' alt='Para qué sirven las teclas del F1 al F12 en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593'>Mejores tablets de 10 pulgadas que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/persona-utilizando-tablet-apple-ipad-3034556.jpg?tf=1200x' alt='Mejores tablets de 10 pulgadas que puedes comprar en 2023' />
+    <h4><a href='https://computerhoy.com/gaming/comparativa-ps5-frente-nueva-ps5-slim-diferencias-conectores-1329018'>Por primera vez la PS5 frente a la nueva PS5 Slim, la diferencia es brutal</a></h4>
+    <a href='https://computerhoy.com/gaming/comparativa-ps5-frente-nueva-ps5-slim-diferencias-conectores-1329018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/primera-vez-ps5-frente-nueva-ps5-slim-diferencia-brutal-3211258.jpg?tf=1200x' alt='Por primera vez la PS5 frente a la nueva PS5 Slim, la diferencia es brutal' />
     </a>
 </div>
 
