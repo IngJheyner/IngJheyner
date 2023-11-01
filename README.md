@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-sube-precios-espana-prohibe-compartir-cuenta-1329058'>Disney+ ha subido hoy sus precios en España, añade publicidad y prohíbe compartir cuenta</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-plus-sube-precios-espana-prohibe-compartir-cuenta-1329058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/batacazo-disney-pierde-4-millones-suscriptores-2023-3033288.jpg?tf=1200x' alt='Disney+ ha subido hoy sus precios en España, añade publicidad y prohíbe compartir cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los mejores móviles baratos de Samsung que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/samsung-galaxy-a33-5g-galaxy-a53-5g-2647685.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Samsung que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pirateria-series-peliculas-ha-aumentado-en-europa-1329044'>La Unión Europea confirma que la piratería de series y películas ha aumentado tras la pandemia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pirateria-series-peliculas-ha-aumentado-en-europa-1329044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/union-europea-confirma-pirateria-series-peliculas-ha-aumentado-pandemia-3211304.jpg?tf=1200x' alt='La Unión Europea confirma que la piratería de series y películas ha aumentado tras la pandemia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/diccionario-collins-elige-ia-palabra-ano-2023-1329036'>El diccionario Collins elige a la IA como la Palabra del Año 2023, y no ha gustado a todos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/diccionario-collins-elige-ia-palabra-ano-2023-1329036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/diccionario-collins-elige-ia-como-palabra-ano-2023-no-ha-gustado-todos-3211294.jpg?tf=1200x' alt='El diccionario Collins elige a la IA como la Palabra del Año 2023, y no ha gustado a todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tablet-12gb-ram-rompe-moldes-precio-increiblemente-1327838'>Esta tablet con 12GB de RAM rompe los moldes con un precio increíblemente bajo</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablet-12gb-ram-rompe-moldes-precio-increiblemente-1327838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teclast-m50-3209106.jpg?tf=1200x' alt='Esta tablet con 12GB de RAM rompe los moldes con un precio increíblemente bajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-identificar-apps-bateria-consumen-movil-1328332'>Cómo identificar las apps que más batería consumen en tu móvil, según los expertos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-identificar-apps-bateria-consumen-movil-1328332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-identificar-apps-bateria-consumen-movil-expertos-3209880.jpg?tf=1200x' alt='Cómo identificar las apps que más batería consumen en tu móvil, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-microsoft-polemica-encuesta-fallecida-1329026'>Una IA de Microsoft causa polémica, al crear una encuesta con una fallecida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-microsoft-polemica-encuesta-fallecida-1329026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ia-microsoft-lia-crear-encuesta-fallecida-3211276.jpg?tf=1200x' alt='Una IA de Microsoft causa polémica, al crear una encuesta con una fallecida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/sirven-teclas-f1-f12-windows-11-1321502'>Para qué sirven las teclas del F1 al F12 en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/sirven-teclas-f1-f12-windows-11-1321502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teclado-3210388.jpg?tf=1200x' alt='Para qué sirven las teclas del F1 al F12 en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/comparativa-ps5-frente-nueva-ps5-slim-diferencias-conectores-1329018'>Por primera vez la PS5 frente a la nueva PS5 Slim, la diferencia es brutal</a></h4>
-    <a href='https://computerhoy.com/gaming/comparativa-ps5-frente-nueva-ps5-slim-diferencias-conectores-1329018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/primera-vez-ps5-frente-nueva-ps5-slim-diferencia-brutal-3211258.jpg?tf=1200x' alt='Por primera vez la PS5 frente a la nueva PS5 Slim, la diferencia es brutal' />
     </a>
 </div>
 
