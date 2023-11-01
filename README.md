@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/he-aprendido-gestionar-radiadores-calefaccion-ahora-no-paso-frio-gasto-mucho-menos-1328786'>He aprendido a gestionar los radiadores de la calefacción, ahora no paso frío y gasto mucho menos</a></h4>
+    <a href='https://computerhoy.com/life/he-aprendido-gestionar-radiadores-calefaccion-ahora-no-paso-frio-gasto-mucho-menos-1328786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/he-aprendido-gestionar-radiadores-calefaccion-ahora-no-paso-frio-gasto-mucho-menos-3211004.jpg?tf=1200x' alt='He aprendido a gestionar los radiadores de la calefacción, ahora no paso frío y gasto mucho menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/estrenos-noviembre-prime-video-la-que-se-avecina-temporada-14-1328790'>Los estrenos de noviembre en Prime Video tienen sabor español, con Romancero, La que se avecina y Operación Triunfo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estrenos-noviembre-prime-video-la-que-se-avecina-temporada-14-1328790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estrenos-noviembre-prime-video-tienen-sabor-espanol-romancero-avecina-operacion-triunfo-3210980.jpg?tf=1200x' alt='Los estrenos de noviembre en Prime Video tienen sabor español, con Romancero, La que se avecina y Operación Triunfo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/tratamiento-genetico-devuelve-oido-ninos-sordos-china-1328702'>Un pionero tratamiento genético devuelve el oído a varios niños sordos de nacimiento en China </a></h4>
     <a href='https://computerhoy.com/life/tratamiento-genetico-devuelve-oido-ninos-sordos-china-1328702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pionero-tratamiento-genetico-devuelve-oido-varios-ninos-sordos-nacimiento-china-3210780.jpg?tf=1200x' alt='Un pionero tratamiento genético devuelve el oído a varios niños sordos de nacimiento en China ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-hostelera-obligarte-dejar-propina-incendiando-redes-1328760'>El truco de una hostelera para “obligarte” a dejar propina que está incendiando las redes</a></h4>
-    <a href='https://computerhoy.com/life/truco-hostelera-obligarte-dejar-propina-incendiando-redes-1328760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/propina-3210954.jpg?tf=1200x' alt='El truco de una hostelera para “obligarte” a dejar propina que está incendiando las redes' />
     </a>
 </div>
 
