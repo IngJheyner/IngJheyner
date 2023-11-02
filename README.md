@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/empresas-fabrican-3-cada-4-smartphones-mundo-1322118'>Estas 3 empresas fabrican 3 de cada 4 smartphones del mundo y nunca has oído hablar de ellas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/empresas-fabrican-3-cada-4-smartphones-mundo-1322118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fabricantes-moviles-3201538.jpg?tf=1200x' alt='Estas 3 empresas fabrican 3 de cada 4 smartphones del mundo y nunca has oído hablar de ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/viral-productos-aliexpress-ahora-precio-record-invierno-1329138'>El más viral de los productos de AliExpress, ahora a precio récord para el invierno</a></h4>
     <a href='https://computerhoy.com/tecnologia/viral-productos-aliexpress-ahora-precio-record-invierno-1329138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chaleco-calefactable-3211606.jpg?tf=1200x' alt='El más viral de los productos de AliExpress, ahora a precio récord para el invierno' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/tactica-netflix-pases-cuatro-horas-viendo-serie-1329140'>Netflix va a usar una vieja táctica de los videojuegos para que estés cuatro horas seguidas viendo una serie</a></h4>
     <a href='https://computerhoy.com/entretenimiento/tactica-netflix-pases-cuatro-horas-viendo-serie-1329140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/netflix-va-usar-tactica-sucia-videojuegos-estes-cuatro-horas-seguidas-viendo-serie-3211602.jpg?tf=1200x' alt='Netflix va a usar una vieja táctica de los videojuegos para que estés cuatro horas seguidas viendo una serie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/buscador-google-busquedas-mejor-pagadas-1329134'>El dato que Google no quiere que sepas: las búsquedas que más dinero generan</a></h4>
-    <a href='https://computerhoy.com/google/buscador-google-busquedas-mejor-pagadas-1329134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/estas-son-busquedas-dinero-dan-google-3211586.jpg?tf=1200x' alt='El dato que Google no quiere que sepas: las búsquedas que más dinero generan' />
     </a>
 </div>
 
