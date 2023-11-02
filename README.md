@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/policia-nacional-ejecuta-primer-gran-apagon-iptv-espana-1329710'>La Policía Nacional ejecuta el primer gran apagón IPTV en España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/policia-nacional-ejecuta-primer-gran-apagon-iptv-espana-1329710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nuevo-golpe-pirateria-desmantelan-red-iptv-pirata-obtenia-miles-euros-cada-mes-3206636.jpg?tf=1200x' alt='La Policía Nacional ejecuta el primer gran apagón IPTV en España' />
+    <h4><a href='https://computerhoy.com/entretenimiento/indiana-jones-dial-destino-fecha-estreno-disney-plus-1329744'>Indiana Jones y el Dial del Destino ya tiene fecha de estreno en Disney+, y viene con regalo para los fans</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/indiana-jones-dial-destino-fecha-estreno-disney-plus-1329744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/indiana-jones-dial-destino-ya-tiene-fecha-estreno-disney-viene-regalo-3212576.jpg?tf=1200x' alt='Indiana Jones y el Dial del Destino ya tiene fecha de estreno en Disney+, y viene con regalo para los fans' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-pulveriza-precio-mucho-barato-cabria-pensar-1327798'>Este smartwatch Xiaomi pulveriza su precio y es mucho más barato de lo que cabría pensar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-pulveriza-precio-mucho-barato-cabria-pensar-1327798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-redmi-watch-3-active-3086624.jpg?tf=1200x' alt='Este smartwatch Xiaomi pulveriza su precio y es mucho más barato de lo que cabría pensar' />
+    <h4><a href='https://computerhoy.com/life/la-mitad-poblacion-mundial-sera-miope-2050-1329700'>En 2050 el 50 por ciento de la población mundial será miope</a></h4>
+    <a href='https://computerhoy.com/life/la-mitad-poblacion-mundial-sera-miope-2050-1329700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/2050-50-ciento-poblacion-mundial-sera-miope-3212504.jpg?tf=1200x' alt='En 2050 el 50 por ciento de la población mundial será miope' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/consiguen-emular-app-ataque-flipper-zero-1329676'>Consiguen emular en una app algunas de las funciones de Flipper Zero, el Tamagotchi para hackers</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/consiguen-emular-app-ataque-flipper-zero-1329676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/flipper-zero-3212488.jpg?tf=1200x' alt='Consiguen emular en una app algunas de las funciones de Flipper Zero, el Tamagotchi para hackers' />
+    <h4><a href='https://computerhoy.com/tecnologia/pc-16gb-ram-rtx-3060-rompe-precio-amazon-chollo-gaming-como-pocos-1329464'>Este PC con 16GB de RAM y RTX 3060 rompe su precio en Amazon y es un chollo gaming como pocos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-16gb-ram-rtx-3060-rompe-precio-amazon-chollo-gaming-como-pocos-1329464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-ideacentre-gaming-5-gen-7-3212032.jpg?tf=1200x' alt='Este PC con 16GB de RAM y RTX 3060 rompe su precio en Amazon y es un chollo gaming como pocos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tierra-podria-guardar-interior-restos-impacto-creo-luna-1329532'>La Tierra podría guardar en su interior restos del impacto que creó la Luna</a></h4>
-    <a href='https://computerhoy.com/ciencia/tierra-podria-guardar-interior-restos-impacto-creo-luna-1329532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tierra-podria-guardar-interior-restos-impacto-creo-luna-3212146.jpg?tf=1200x' alt='La Tierra podría guardar en su interior restos del impacto que creó la Luna' />
+    <h4><a href='https://computerhoy.com/tecnologia/cada-euro-empresa-invierte-ia-obtiene-triple-1329690'>Por cada euro que una empresa invierte en IA obtiene el triple en menos de un año, según un estudio de Microsoft </a></h4>
+    <a href='https://computerhoy.com/tecnologia/cada-euro-empresa-invierte-ia-obtiene-triple-1329690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cada-euro-empresa-invierte-ia-obtiene-tres-medio-menos-ano-estudio-microsoft-3212496.jpg?tf=1200x' alt='Por cada euro que una empresa invierte en IA obtiene el triple en menos de un año, según un estudio de Microsoft ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/granjas-solares-espaciales-ya-son-comercialmente-viables-1329660'>Las granjas solares espaciales ya son comercialmente viables: son baratas y aguantan la radiación solar años</a></h4>
-    <a href='https://computerhoy.com/energia/granjas-solares-espaciales-ya-son-comercialmente-viables-1329660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sol-espacio-3212446.jpg?tf=1200x' alt='Las granjas solares espaciales ya son comercialmente viables: son baratas y aguantan la radiación solar años' />
+    <h4><a href='https://computerhoy.com/apps/tecnologia-descanso-5-sorprendentes-apps-te-ayudan-dormir-mejor-1328614'>Tecnología y descanso: 5 sorprendentes apps que te ayudan a dormir mejor</a></h4>
+    <a href='https://computerhoy.com/apps/tecnologia-descanso-5-sorprendentes-apps-te-ayudan-dormir-mejor-1328614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tecnologia-descanso-5-sorprendentes-apps-te-ayudan-dormir-mejor-3210468.jpg?tf=1200x' alt='Tecnología y descanso: 5 sorprendentes apps que te ayudan a dormir mejor' />
     </a>
 </div>
 
