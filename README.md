@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/comunidad-internacional-acuerda-amenazas-inteligencia-artificial-humanidad-1329430'>La comunidad internacional se pone de acuerdo: estas son las amenazas de la inteligencia artificial para la humanidad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/comunidad-internacional-acuerda-amenazas-inteligencia-artificial-humanidad-1329430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/comunidad-internacional-pone-acuerdo-estas-son-amenazas-inteligencia-artificial-humanidad-3211966.jpg?tf=1200x' alt='La comunidad internacional se pone de acuerdo: estas son las amenazas de la inteligencia artificial para la humanidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mujeres-resisten-usar-inteligencia-artificial-trabajo-hombres-1329478'>Las mujeres se resisten más a usar la inteligencia artificial en su trabajo que los hombres: ¿Por qué?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mujeres-resisten-usar-inteligencia-artificial-trabajo-hombres-1329478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mujeres-inteligencia-artificial-3212074.jpg?tf=1200x' alt='Las mujeres se resisten más a usar la inteligencia artificial en su trabajo que los hombres: ¿Por qué?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/hardware/como-formatear-tu-disco-duro-completo-windows-cmd-62604'>Cómo formatear tu disco duro por completo con Windows y CMD</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/hardware/como-formatear-tu-disco-duro-completo-windows-cmd-62604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/05/239118-formatear-disco-duro-instalar-windows-problema-formato-ntfs.jpg?tf=1200x' alt='Cómo formatear tu disco duro por completo con Windows y CMD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amd-revoluciona-mercado-procesadores-zen-4c-potencia-menos-espacio-1329110'>AMD revoluciona el mercado de los procesadores con Zen 4c: más potencia en menos espacio</a></h4>
     <a href='https://computerhoy.com/tecnologia/amd-revoluciona-mercado-procesadores-zen-4c-potencia-menos-espacio-1329110' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amd-procesadores-3211572.jpg?tf=1200x' alt='AMD revoluciona el mercado de los procesadores con Zen 4c: más potencia en menos espacio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-23h2-todas-novedades-como-descargarlo-ya-mismo-1329524'>Windows 11: todas las novedades de 23H2, la actualización más importante del año y cómo descargarla ya</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-23h2-todas-novedades-como-descargarlo-ya-mismo-1329524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aplicaciones-abiertas-windows-11-3150200.jpg?tf=1200x' alt='Windows 11: todas las novedades de 23H2, la actualización más importante del año y cómo descargarla ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estamos-solos-universo-ayudara-ia-buscar-civilizaciones-extraterrestres-europeos-1328410'>¿Estamos solos en el universo? Así ayudará la IA a buscar civilizaciones extraterrestres a los europeos</a></h4>
-    <a href='https://computerhoy.com/ciencia/estamos-solos-universo-ayudara-ia-buscar-civilizaciones-extraterrestres-europeos-1328410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estamos-solos-universo-ayudara-ia-buscar-civilizaciones-extraterrestres-europeos-3210046.jpg?tf=1200x' alt='¿Estamos solos en el universo? Así ayudará la IA a buscar civilizaciones extraterrestres a los europeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/filtra-informacion-sucesora-switch-todos-detalles-1329504'>Nintendo Super Play podría ser el nombre en clave de Switch 2: todos los detalles de la filtración</a></h4>
-    <a href='https://computerhoy.com/tecnologia/filtra-informacion-sucesora-switch-todos-detalles-1329504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nintendo-switch-2-filtrada-posible-resolucion-tiempos-carga-juego-lanzamiento-fecha-venta-3133956.jpg?tf=1200x' alt='Nintendo Super Play podría ser el nombre en clave de Switch 2: todos los detalles de la filtración' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nuevo-apple-pencil-usb-c-opcion-barata-deja-mucho-desear-1329442'>El nuevo Apple Pencil con USB-C, una opción más "barata" que va a decepcionar a los usuarios</a></h4>
-    <a href='https://computerhoy.com/apple/nuevo-apple-pencil-usb-c-opcion-barata-deja-mucho-desear-1329442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-pencil-usb-c-3212024.jpg?tf=1200x' alt='El nuevo Apple Pencil con USB-C, una opción más "barata" que va a decepcionar a los usuarios' />
     </a>
 </div>
 
