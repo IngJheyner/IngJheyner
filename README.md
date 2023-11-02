@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amd-revoluciona-mercado-procesadores-zen-4c-potencia-menos-espacio-1329110'>AMD revoluciona el mercado de los procesadores con Zen 4c: más potencia en menos espacio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amd-revoluciona-mercado-procesadores-zen-4c-potencia-menos-espacio-1329110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amd-procesadores-3211572.jpg?tf=1200x' alt='AMD revoluciona el mercado de los procesadores con Zen 4c: más potencia en menos espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-23h2-todas-novedades-como-descargarlo-ya-mismo-1329524'>Windows 11: todas las novedades de 23H2, la actualización más importante del año y cómo descargarla ya</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-23h2-todas-novedades-como-descargarlo-ya-mismo-1329524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aplicaciones-abiertas-windows-11-3150200.jpg?tf=1200x' alt='Windows 11: todas las novedades de 23H2, la actualización más importante del año y cómo descargarla ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/estamos-solos-universo-ayudara-ia-buscar-civilizaciones-extraterrestres-europeos-1328410'>¿Estamos solos en el universo? Así ayudará la IA a buscar civilizaciones extraterrestres a los europeos</a></h4>
+    <a href='https://computerhoy.com/ciencia/estamos-solos-universo-ayudara-ia-buscar-civilizaciones-extraterrestres-europeos-1328410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estamos-solos-universo-ayudara-ia-buscar-civilizaciones-extraterrestres-europeos-3210046.jpg?tf=1200x' alt='¿Estamos solos en el universo? Así ayudará la IA a buscar civilizaciones extraterrestres a los europeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/filtra-informacion-sucesora-switch-todos-detalles-1329504'>Nintendo Super Play podría ser el nombre en clave de Switch 2: todos los detalles de la filtración</a></h4>
     <a href='https://computerhoy.com/tecnologia/filtra-informacion-sucesora-switch-todos-detalles-1329504' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nintendo-switch-2-filtrada-posible-resolucion-tiempos-carga-juego-lanzamiento-fecha-venta-3133956.jpg?tf=1200x' alt='Nintendo Super Play podría ser el nombre en clave de Switch 2: todos los detalles de la filtración' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/nuevo-apple-pencil-usb-c-opcion-barata-deja-mucho-desear-1329442'>El nuevo Apple Pencil con USB-C, una opción más "barata" que va a decepcionar a los usuarios</a></h4>
     <a href='https://computerhoy.com/apple/nuevo-apple-pencil-usb-c-opcion-barata-deja-mucho-desear-1329442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-pencil-usb-c-3212024.jpg?tf=1200x' alt='El nuevo Apple Pencil con USB-C, una opción más "barata" que va a decepcionar a los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-garmin-forerunner-965-oferta-decathlon-1329372'>El reloj más buscado de Garmin reaparece a la venta ¡y con un generoso descuento!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-garmin-forerunner-965-oferta-decathlon-1329372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-forerunner-965-3211838.jpg?tf=1200x' alt='El reloj más buscado de Garmin reaparece a la venta ¡y con un generoso descuento!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-m3-max-pruebas-rendimiento-muestran-bestia-interior-macbook-pro-16-pulgadas-1329420'>Apple M3 Max: las pruebas de rendimiento muestran una bestia en el interior de los MacBook Pro de 16 pulgadas</a></h4>
-    <a href='https://computerhoy.com/apple/apple-m3-max-pruebas-rendimiento-muestran-bestia-interior-macbook-pro-16-pulgadas-1329420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-m3-max-3211964.jpg?tf=1200x' alt='Apple M3 Max: las pruebas de rendimiento muestran una bestia en el interior de los MacBook Pro de 16 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-series-10-podria-detectar-apnea-sueno-1329474'>El Apple Watch Series 10 podría controlar la presión arterial y detectar la apnea del sueño</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-series-10-podria-detectar-apnea-sueno-1329474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-watch-3212062.jpg?tf=1200x' alt='El Apple Watch Series 10 podría controlar la presión arterial y detectar la apnea del sueño' />
     </a>
 </div>
 
