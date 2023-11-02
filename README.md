@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/viral-productos-aliexpress-ahora-precio-record-invierno-1329138'>El más viral de los productos de AliExpress, ahora a precio récord para el invierno</a></h4>
+    <a href='https://computerhoy.com/tecnologia/viral-productos-aliexpress-ahora-precio-record-invierno-1329138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chaleco-calefactable-3211606.jpg?tf=1200x' alt='El más viral de los productos de AliExpress, ahora a precio récord para el invierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/canon-presenta-3-nuevos-objetivos-rf-ampliar-oferta-1328594'>Canon presenta 3 nuevos objetivos RF para ampliar las posibilidades creativas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/canon-presenta-3-nuevos-objetivos-rf-ampliar-oferta-1328594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/objetivo-canon-rf-3210462.jpg?tf=1200x' alt='Canon presenta 3 nuevos objetivos RF para ampliar las posibilidades creativas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/detenido-robar-53-iphone-primer-dia-como-jefe-ventas-1329142'>Detenido por robar 53 iPhone en su primer día como jefe de ventas</a></h4>
     <a href='https://computerhoy.com/apple/detenido-robar-53-iphone-primer-dia-como-jefe-ventas-1329142' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/detenido-robar-53-iphones-primer-dia-como-jefe-ventas-3211614.jpg?tf=1200x' alt='Detenido por robar 53 iPhone en su primer día como jefe de ventas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/buscador-google-busquedas-mejor-pagadas-1329134'>El dato que Google no quiere que sepas: las búsquedas que más dinero generan</a></h4>
     <a href='https://computerhoy.com/google/buscador-google-busquedas-mejor-pagadas-1329134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/estas-son-busquedas-dinero-dan-google-3211586.jpg?tf=1200x' alt='El dato que Google no quiere que sepas: las búsquedas que más dinero generan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/creen-haber-descubierto-origen-como-construyo-gran-esfinge-guiza-1329130'>Creen haber descubierto el origen de cómo se construyó la Gran Esfinge de Guiza</a></h4>
-    <a href='https://computerhoy.com/life/creen-haber-descubierto-origen-como-construyo-gran-esfinge-guiza-1329130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/gran-esfinge-guiza-3211594.jpg?tf=1200x' alt='Creen haber descubierto el origen de cómo se construyó la Gran Esfinge de Guiza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/expertos-recomiendan-mejor-forma-hacer-seguras-contrasenas-emojis-1329128'>Expertos recomiendan la mejor forma de hacer seguras las contraseñas: con emojis</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/expertos-recomiendan-mejor-forma-hacer-seguras-contrasenas-emojis-1329128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/contrasenas-emoji-3211592.jpg?tf=1200x' alt='Expertos recomiendan la mejor forma de hacer seguras las contraseñas: con emojis' />
     </a>
 </div>
 
