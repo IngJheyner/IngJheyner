@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/detenido-robar-53-iphone-primer-dia-como-jefe-ventas-1329142'>Detenido por robar 53 iPhone en su primer día como jefe de ventas</a></h4>
+    <a href='https://computerhoy.com/apple/detenido-robar-53-iphone-primer-dia-como-jefe-ventas-1329142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/detenido-robar-53-iphones-primer-dia-como-jefe-ventas-3211614.jpg?tf=1200x' alt='Detenido por robar 53 iPhone en su primer día como jefe de ventas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/tactica-netflix-pases-cuatro-horas-viendo-serie-1329140'>Netflix va a usar una vieja táctica de los videojuegos para que estés cuatro horas seguidas viendo una serie</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/tactica-netflix-pases-cuatro-horas-viendo-serie-1329140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/netflix-va-usar-tactica-sucia-videojuegos-estes-cuatro-horas-seguidas-viendo-serie-3211602.jpg?tf=1200x' alt='Netflix va a usar una vieja táctica de los videojuegos para que estés cuatro horas seguidas viendo una serie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/buscador-google-busquedas-mejor-pagadas-1329134'>El dato que Google no quiere que sepas: las búsquedas que más dinero generan</a></h4>
     <a href='https://computerhoy.com/google/buscador-google-busquedas-mejor-pagadas-1329134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/estas-son-busquedas-dinero-dan-google-3211586.jpg?tf=1200x' alt='El dato que Google no quiere que sepas: las búsquedas que más dinero generan' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/expertos-recomiendan-mejor-forma-hacer-seguras-contrasenas-emojis-1329128'>Expertos recomiendan la mejor forma de hacer seguras las contraseñas: con emojis</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/expertos-recomiendan-mejor-forma-hacer-seguras-contrasenas-emojis-1329128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/contrasenas-emoji-3211592.jpg?tf=1200x' alt='Expertos recomiendan la mejor forma de hacer seguras las contraseñas: con emojis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rebaja-bestia-reloj-xiaomi-runners-hace-temblar-garmin-1328486'>Rebaja a lo bestia del reloj Xiaomi para runners que hace temblar a Garmin</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rebaja-bestia-reloj-xiaomi-runners-hace-temblar-garmin-1328486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/xiaomi-watch-s1-active-2648923.jpg?tf=1200x' alt='Rebaja a lo bestia del reloj Xiaomi para runners que hace temblar a Garmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-miercoles-1-noviembre-2023-1329114'>Programación TV: ¿Qué ver hoy en televisión? Miércoles 1 de noviembre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-miercoles-1-noviembre-2023-1329114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-miercoles-1-noviembre-2023-3211568.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Miércoles 1 de noviembre de 2023' />
     </a>
 </div>
 
