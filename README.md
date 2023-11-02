@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-despega-nuevo-servicio-streaming-nasa-totalmente-gratuito-1329370'>NASA+ despega: este es el nuevo servicio de streaming de la NASA totalmente gratuito</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-despega-nuevo-servicio-streaming-nasa-totalmente-gratuito-1329370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nasa-streaming-3211872.jpg?tf=1200x' alt='NASA+ despega: este es el nuevo servicio de streaming de la NASA totalmente gratuito' />
+    <h4><a href='https://computerhoy.com/tecnologia/filtra-informacion-sucesora-switch-todos-detalles-1329504'>Nintendo Super Play podría ser el nombre en clave de Switch 2: todos los detalles de la filtración</a></h4>
+    <a href='https://computerhoy.com/tecnologia/filtra-informacion-sucesora-switch-todos-detalles-1329504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nintendo-switch-2-filtrada-posible-resolucion-tiempos-carga-juego-lanzamiento-fecha-venta-3133956.jpg?tf=1200x' alt='Nintendo Super Play podría ser el nombre en clave de Switch 2: todos los detalles de la filtración' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-vuelve-rebajar-kindle-precio-prime-day-1329322'>Amazon vuelve a rebajar el Kindle a precio de Prime Day</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-vuelve-rebajar-kindle-precio-prime-day-1329322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kindle-2022-3150214.jpg?tf=1200x' alt='Amazon vuelve a rebajar el Kindle a precio de Prime Day' />
+    <h4><a href='https://computerhoy.com/apple/nuevo-apple-pencil-usb-c-opcion-barata-deja-mucho-desear-1329442'>El nuevo Apple Pencil con USB-C, una opción más "barata" que va a decepcionar a los usuarios</a></h4>
+    <a href='https://computerhoy.com/apple/nuevo-apple-pencil-usb-c-opcion-barata-deja-mucho-desear-1329442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-pencil-usb-c-3212024.jpg?tf=1200x' alt='El nuevo Apple Pencil con USB-C, una opción más "barata" que va a decepcionar a los usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-vuelve-hacer-abandona-plan-hacer-apple-watch-compatible-android-1329354'>Apple lo vuelve hacer y abandona el plan de hacer el Apple Watch compatible con Android</a></h4>
-    <a href='https://computerhoy.com/apple/apple-vuelve-hacer-abandona-plan-hacer-apple-watch-compatible-android-1329354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-ultra-apple-watch-ultra-2-apple-watch-series-9-apple-watch-series-4-3194962.jpg?tf=1200x' alt='Apple lo vuelve hacer y abandona el plan de hacer el Apple Watch compatible con Android' />
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-garmin-forerunner-965-oferta-decathlon-1329372'>El reloj más buscado de Garmin reaparece a la venta ¡y con un generoso descuento!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-garmin-forerunner-965-oferta-decathlon-1329372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-forerunner-965-3211838.jpg?tf=1200x' alt='El reloj más buscado de Garmin reaparece a la venta ¡y con un generoso descuento!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/empresas-fabrican-3-cada-4-smartphones-mundo-1322118'>Estas 3 empresas fabrican 3 de cada 4 smartphones del mundo y nunca has oído hablar de ellas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/empresas-fabrican-3-cada-4-smartphones-mundo-1322118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fabricantes-moviles-3201538.jpg?tf=1200x' alt='Estas 3 empresas fabrican 3 de cada 4 smartphones del mundo y nunca has oído hablar de ellas' />
+    <h4><a href='https://computerhoy.com/apple/apple-m3-max-pruebas-rendimiento-muestran-bestia-interior-macbook-pro-16-pulgadas-1329420'>Apple M3 Max: las pruebas de rendimiento muestran una bestia en el interior de los MacBook Pro de 16 pulgadas</a></h4>
+    <a href='https://computerhoy.com/apple/apple-m3-max-pruebas-rendimiento-muestran-bestia-interior-macbook-pro-16-pulgadas-1329420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-m3-max-3211964.jpg?tf=1200x' alt='Apple M3 Max: las pruebas de rendimiento muestran una bestia en el interior de los MacBook Pro de 16 pulgadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/viral-productos-aliexpress-ahora-precio-record-invierno-1329138'>El más viral de los productos de AliExpress, ahora a precio récord para el invierno</a></h4>
-    <a href='https://computerhoy.com/tecnologia/viral-productos-aliexpress-ahora-precio-record-invierno-1329138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chaleco-calefactable-3211606.jpg?tf=1200x' alt='El más viral de los productos de AliExpress, ahora a precio récord para el invierno' />
+    <h4><a href='https://computerhoy.com/apple/apple-watch-series-10-podria-detectar-apnea-sueno-1329474'>El Apple Watch Series 10 podría controlar la presión arterial y detectar la apnea del sueño</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-series-10-podria-detectar-apnea-sueno-1329474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-watch-3212062.jpg?tf=1200x' alt='El Apple Watch Series 10 podría controlar la presión arterial y detectar la apnea del sueño' />
     </a>
 </div>
 
