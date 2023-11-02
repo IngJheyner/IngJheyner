@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-despega-nuevo-servicio-streaming-nasa-totalmente-gratuito-1329370'>NASA+ despega: este es el nuevo servicio de streaming de la NASA totalmente gratuito</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-despega-nuevo-servicio-streaming-nasa-totalmente-gratuito-1329370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nasa-streaming-3211872.jpg?tf=1200x' alt='NASA+ despega: este es el nuevo servicio de streaming de la NASA totalmente gratuito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-vuelve-rebajar-kindle-precio-prime-day-1329322'>Amazon vuelve a rebajar el Kindle a precio de Prime Day</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-vuelve-rebajar-kindle-precio-prime-day-1329322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kindle-2022-3150214.jpg?tf=1200x' alt='Amazon vuelve a rebajar el Kindle a precio de Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-vuelve-hacer-abandona-plan-hacer-apple-watch-compatible-android-1329354'>Apple lo vuelve hacer y abandona el plan de hacer el Apple Watch compatible con Android</a></h4>
+    <a href='https://computerhoy.com/apple/apple-vuelve-hacer-abandona-plan-hacer-apple-watch-compatible-android-1329354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-ultra-apple-watch-ultra-2-apple-watch-series-9-apple-watch-series-4-3194962.jpg?tf=1200x' alt='Apple lo vuelve hacer y abandona el plan de hacer el Apple Watch compatible con Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/empresas-fabrican-3-cada-4-smartphones-mundo-1322118'>Estas 3 empresas fabrican 3 de cada 4 smartphones del mundo y nunca has oído hablar de ellas</a></h4>
     <a href='https://computerhoy.com/tecnologia/empresas-fabrican-3-cada-4-smartphones-mundo-1322118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fabricantes-moviles-3201538.jpg?tf=1200x' alt='Estas 3 empresas fabrican 3 de cada 4 smartphones del mundo y nunca has oído hablar de ellas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/viral-productos-aliexpress-ahora-precio-record-invierno-1329138'>El más viral de los productos de AliExpress, ahora a precio récord para el invierno</a></h4>
     <a href='https://computerhoy.com/tecnologia/viral-productos-aliexpress-ahora-precio-record-invierno-1329138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chaleco-calefactable-3211606.jpg?tf=1200x' alt='El más viral de los productos de AliExpress, ahora a precio récord para el invierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/canon-presenta-3-nuevos-objetivos-rf-ampliar-oferta-1328594'>Canon presenta 3 nuevos objetivos RF para ampliar las posibilidades creativas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/canon-presenta-3-nuevos-objetivos-rf-ampliar-oferta-1328594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/objetivo-canon-rf-3210462.jpg?tf=1200x' alt='Canon presenta 3 nuevos objetivos RF para ampliar las posibilidades creativas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/detenido-robar-53-iphone-primer-dia-como-jefe-ventas-1329142'>Detenido por robar 53 iPhone en su primer día como jefe de ventas</a></h4>
-    <a href='https://computerhoy.com/apple/detenido-robar-53-iphone-primer-dia-como-jefe-ventas-1329142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/detenido-robar-53-iphones-primer-dia-como-jefe-ventas-3211614.jpg?tf=1200x' alt='Detenido por robar 53 iPhone en su primer día como jefe de ventas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/tactica-netflix-pases-cuatro-horas-viendo-serie-1329140'>Netflix va a usar una vieja táctica de los videojuegos para que estés cuatro horas seguidas viendo una serie</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/tactica-netflix-pases-cuatro-horas-viendo-serie-1329140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/netflix-va-usar-tactica-sucia-videojuegos-estes-cuatro-horas-seguidas-viendo-serie-3211602.jpg?tf=1200x' alt='Netflix va a usar una vieja táctica de los videojuegos para que estés cuatro horas seguidas viendo una serie' />
     </a>
 </div>
 
