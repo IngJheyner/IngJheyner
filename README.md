@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/comunidad-internacional-acuerda-amenazas-inteligencia-artificial-humanidad-1329430'>La comunidad internacional se pone de acuerdo: estas son las amenazas de la inteligencia artificial para la humanidad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/comunidad-internacional-acuerda-amenazas-inteligencia-artificial-humanidad-1329430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/comunidad-internacional-pone-acuerdo-estas-son-amenazas-inteligencia-artificial-humanidad-3211966.jpg?tf=1200x' alt='La comunidad internacional se pone de acuerdo: estas son las amenazas de la inteligencia artificial para la humanidad' />
+    <h4><a href='https://computerhoy.com/tecnologia/policia-nacional-ejecuta-primer-gran-apagon-iptv-espana-1329710'>La Policía Nacional ejecuta el primer gran apagón IPTV en España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/policia-nacional-ejecuta-primer-gran-apagon-iptv-espana-1329710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nuevo-golpe-pirateria-desmantelan-red-iptv-pirata-obtenia-miles-euros-cada-mes-3206636.jpg?tf=1200x' alt='La Policía Nacional ejecuta el primer gran apagón IPTV en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mujeres-resisten-usar-inteligencia-artificial-trabajo-hombres-1329478'>Las mujeres se resisten más a usar la inteligencia artificial en su trabajo que los hombres: ¿Por qué?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mujeres-resisten-usar-inteligencia-artificial-trabajo-hombres-1329478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mujeres-inteligencia-artificial-3212074.jpg?tf=1200x' alt='Las mujeres se resisten más a usar la inteligencia artificial en su trabajo que los hombres: ¿Por qué?' />
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-pulveriza-precio-mucho-barato-cabria-pensar-1327798'>Este smartwatch Xiaomi pulveriza su precio y es mucho más barato de lo que cabría pensar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-pulveriza-precio-mucho-barato-cabria-pensar-1327798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-redmi-watch-3-active-3086624.jpg?tf=1200x' alt='Este smartwatch Xiaomi pulveriza su precio y es mucho más barato de lo que cabría pensar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/hardware/como-formatear-tu-disco-duro-completo-windows-cmd-62604'>Cómo formatear tu disco duro por completo con Windows y CMD</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/hardware/como-formatear-tu-disco-duro-completo-windows-cmd-62604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/05/239118-formatear-disco-duro-instalar-windows-problema-formato-ntfs.jpg?tf=1200x' alt='Cómo formatear tu disco duro por completo con Windows y CMD' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/consiguen-emular-app-ataque-flipper-zero-1329676'>Consiguen emular en una app algunas de las funciones de Flipper Zero, el Tamagotchi para hackers</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/consiguen-emular-app-ataque-flipper-zero-1329676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/flipper-zero-3212488.jpg?tf=1200x' alt='Consiguen emular en una app algunas de las funciones de Flipper Zero, el Tamagotchi para hackers' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amd-revoluciona-mercado-procesadores-zen-4c-potencia-menos-espacio-1329110'>AMD revoluciona el mercado de los procesadores con Zen 4c: más potencia en menos espacio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amd-revoluciona-mercado-procesadores-zen-4c-potencia-menos-espacio-1329110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amd-procesadores-3211572.jpg?tf=1200x' alt='AMD revoluciona el mercado de los procesadores con Zen 4c: más potencia en menos espacio' />
+    <h4><a href='https://computerhoy.com/ciencia/tierra-podria-guardar-interior-restos-impacto-creo-luna-1329532'>La Tierra podría guardar en su interior restos del impacto que creó la Luna</a></h4>
+    <a href='https://computerhoy.com/ciencia/tierra-podria-guardar-interior-restos-impacto-creo-luna-1329532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tierra-podria-guardar-interior-restos-impacto-creo-luna-3212146.jpg?tf=1200x' alt='La Tierra podría guardar en su interior restos del impacto que creó la Luna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-23h2-todas-novedades-como-descargarlo-ya-mismo-1329524'>Windows 11: todas las novedades de 23H2, la actualización más importante del año y cómo descargarla ya</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-23h2-todas-novedades-como-descargarlo-ya-mismo-1329524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aplicaciones-abiertas-windows-11-3150200.jpg?tf=1200x' alt='Windows 11: todas las novedades de 23H2, la actualización más importante del año y cómo descargarla ya' />
+    <h4><a href='https://computerhoy.com/energia/granjas-solares-espaciales-ya-son-comercialmente-viables-1329660'>Las granjas solares espaciales ya son comercialmente viables: son baratas y aguantan la radiación solar años</a></h4>
+    <a href='https://computerhoy.com/energia/granjas-solares-espaciales-ya-son-comercialmente-viables-1329660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sol-espacio-3212446.jpg?tf=1200x' alt='Las granjas solares espaciales ya son comercialmente viables: son baratas y aguantan la radiación solar años' />
     </a>
 </div>
 
