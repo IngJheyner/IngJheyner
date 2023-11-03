@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-protegerte-flipper-zero-1330258'>Solo hay una forma de proteger tu móvil del ataque de Flipper Zero, pero no te va a gustar </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-protegerte-flipper-zero-1330258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/solo-hay-forma-proteger-movil-ataque-flipper-zero-pero-no-te-va-gustar-3213636.jpg?tf=1200x' alt='Solo hay una forma de proteger tu móvil del ataque de Flipper Zero, pero no te va a gustar ' />
+    <h4><a href='https://computerhoy.com/ciencia/restos-planeta-theia-misterio-oculto-corazon-tierra-1329720'>Restos del planeta Theia: un misterio ancestral oculto en el corazón de la Tierra</a></h4>
+    <a href='https://computerhoy.com/ciencia/restos-planeta-theia-misterio-oculto-corazon-tierra-1329720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/restos-planeta-theia-misterio-ancestral-oculto-corazon-tierra-3212554.jpg?tf=1200x' alt='Restos del planeta Theia: un misterio ancestral oculto en el corazón de la Tierra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/he-decidido-pasar-dos-semanas-coger-ascensor-compruebo-realmente-nota-1330078'>He decidido pasar dos semanas sin coger un ascensor, y compruebo si realmente se nota</a></h4>
-    <a href='https://computerhoy.com/life/he-decidido-pasar-dos-semanas-coger-ascensor-compruebo-realmente-nota-1330078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/decido-pasar-dos-semanas-coger-ascensor-compruebo-realmente-nota-3213070.jpg?tf=1200x' alt='He decidido pasar dos semanas sin coger un ascensor, y compruebo si realmente se nota' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-rebaja-bestia-galaxy-watch-6-lte-cuesta-mitad-apple-watch-1330056'>Samsung rebaja a lo bestia su Galaxy Watch 6 con LTE: cuesta la mitad que el Apple Watch</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-rebaja-bestia-galaxy-watch-6-lte-cuesta-mitad-apple-watch-1330056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110556.jpg?tf=1200x' alt='Samsung rebaja a lo bestia su Galaxy Watch 6 con LTE: cuesta la mitad que el Apple Watch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/oneplus-ace-2-pro-pepino-24-gb-ram-one-plus-fin-rebajado-1330058'>Este pepino de OnePlus con especificaciones top y 24 GB de RAM ya está a un precio más que asequible</a></h4>
-    <a href='https://computerhoy.com/android/oneplus-ace-2-pro-pepino-24-gb-ram-one-plus-fin-rebajado-1330058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oneplus-ace-2-pro-3212574.jpg?tf=1200x' alt='Este pepino de OnePlus con especificaciones top y 24 GB de RAM ya está a un precio más que asequible' />
+    <h4><a href='https://computerhoy.com/motor/mecanica-cuantica-proxima-gran-revolucion-motor-1330268'>¿Será la mecánica cuántica la próxima gran revolución del motor?</a></h4>
+    <a href='https://computerhoy.com/motor/mecanica-cuantica-proxima-gran-revolucion-motor-1330268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sera-mecanica-cuantica-proxima-gran-revolucion-motor-3213670.jpg?tf=1200x' alt='¿Será la mecánica cuántica la próxima gran revolución del motor?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/debes-ajustar-calefaccion-reducir-factura-pagar-menos-1329654'>Así debes ajustar la calefacción para reducir la factura y pagar menos</a></h4>
-    <a href='https://computerhoy.com/life/debes-ajustar-calefaccion-reducir-factura-pagar-menos-1329654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ahorra-calefaccion-3213372.jpg?tf=1200x' alt='Así debes ajustar la calefacción para reducir la factura y pagar menos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-aprovechar-maximo-google-my-maps-estas-5-funciones-esenciales-1323370'>Cómo aprovechar al máximo Google My Maps con estas 5 funciones esenciales</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-aprovechar-maximo-google-my-maps-estas-5-funciones-esenciales-1323370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-aprovechar-maximo-google-my-maps-estas-5-funciones-esenciales-3201954.jpg?tf=1200x' alt='Cómo aprovechar al máximo Google My Maps con estas 5 funciones esenciales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/avance-coche-electrico-durabilidad-carga-rapida-1330246'>Paso de gigante para el coche eléctrico: baterías que no se degradan con la carga rápida</a></h4>
-    <a href='https://computerhoy.com/motor/avance-coche-electrico-durabilidad-carga-rapida-1330246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/paso-gigante-coche-electrico-baterias-no-degradan-carga-rapida-3213616.jpg?tf=1200x' alt='Paso de gigante para el coche eléctrico: baterías que no se degradan con la carga rápida' />
+    <h4><a href='https://computerhoy.com/windows/no-puedes-actualizar-windows-11-23h2-no-estas-solo-pero-puedes-solucionarlo-1330304'>¿No puedes actualizar a Windows 11 23H2? No estás solo, pero así puedes solucionarlo</a></h4>
+    <a href='https://computerhoy.com/windows/no-puedes-actualizar-windows-11-23h2-no-estas-solo-pero-puedes-solucionarlo-1330304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aplicaciones-abiertas-windows-11-3150200.jpg?tf=1200x' alt='¿No puedes actualizar a Windows 11 23H2? No estás solo, pero así puedes solucionarlo' />
     </a>
 </div>
 
