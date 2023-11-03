@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/elon-musk-acepta-prueba-flecha-arriesga-nuevo-ridiculo-tesla-cybertruck-1329752'>Elon Musk acepta la prueba de la flecha y se arriesga a un nuevo ridículo de su Tesla Cybertruck</a></h4>
-    <a href='https://computerhoy.com/motor/elon-musk-acepta-prueba-flecha-arriesga-nuevo-ridiculo-tesla-cybertruck-1329752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/joe-rogan-lanza-flecha-tesla-cybertruck-delante-elon-musk-3211858.jpg?tf=1200x' alt='Elon Musk acepta la prueba de la flecha y se arriesga a un nuevo ridículo de su Tesla Cybertruck' />
+    <h4><a href='https://computerhoy.com/tecnologia/firestick-tiene-rival-chino-cuesta-menos-mitad-tiene-android-4k-1328754'>El Firestick tiene rival chino: cuesta menos de la mitad, tiene Android y con 4K</a></h4>
+    <a href='https://computerhoy.com/tecnologia/firestick-tiene-rival-chino-cuesta-menos-mitad-tiene-android-4k-1328754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dq06-atv-mini-tv-stick-3210922.jpg?tf=1200x' alt='El Firestick tiene rival chino: cuesta menos de la mitad, tiene Android y con 4K' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-bate-record-ganancias-iphone-servicios-tercer-trimestre-2023-1329754'>En el último trimestre Apple ha batido el récord de ganancias con el iPhone y los servicios, pero iPad y Mac se hunden</a></h4>
-    <a href='https://computerhoy.com/apple/apple-bate-record-ganancias-iphone-servicios-tercer-trimestre-2023-1329754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tim-cook-iphone-13-pro-3132102.jpg?tf=1200x' alt='En el último trimestre Apple ha batido el récord de ganancias con el iPhone y los servicios, pero iPad y Mac se hunden' />
+    <h4><a href='https://computerhoy.com/analisis/oppo-enco-air3-pro-analisis-opinion-1321544'>Oppo Enco Air3 Pro, los auriculares asequibles que tendría para usar habitualmente</a></h4>
+    <a href='https://computerhoy.com/analisis/oppo-enco-air3-pro-analisis-opinion-1321544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/oppo-enco-air3-pro-analisis-opinion-3201734.jpg?tf=1200x' alt='Oppo Enco Air3 Pro, los auriculares asequibles que tendría para usar habitualmente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/indiana-jones-dial-destino-fecha-estreno-disney-plus-1329744'>Indiana Jones y el Dial del Destino ya tiene fecha de estreno en Disney+, y viene con regalo para los fans</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/indiana-jones-dial-destino-fecha-estreno-disney-plus-1329744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/indiana-jones-dial-destino-ya-tiene-fecha-estreno-disney-viene-regalo-3212576.jpg?tf=1200x' alt='Indiana Jones y el Dial del Destino ya tiene fecha de estreno en Disney+, y viene con regalo para los fans' />
+    <h4><a href='https://computerhoy.com/redes/ofensiva-eeuu-acusan-meta-instagram-perjudicar-salud-mental-jovenes-1326190'>Ofensiva en EEUU: acusan a Meta e Instagram de perjudicar la salud mental de los jóvenes</a></h4>
+    <a href='https://computerhoy.com/redes/ofensiva-eeuu-acusan-meta-instagram-perjudicar-salud-mental-jovenes-1326190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/instagram-3212144.jpg?tf=1200x' alt='Ofensiva en EEUU: acusan a Meta e Instagram de perjudicar la salud mental de los jóvenes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/la-mitad-poblacion-mundial-sera-miope-2050-1329700'>En 2050 el 50 por ciento de la población mundial será miope</a></h4>
-    <a href='https://computerhoy.com/life/la-mitad-poblacion-mundial-sera-miope-2050-1329700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/2050-50-ciento-poblacion-mundial-sera-miope-3212504.jpg?tf=1200x' alt='En 2050 el 50 por ciento de la población mundial será miope' />
+    <h4><a href='https://computerhoy.com/internet/estas-son-mejores-vpn-usar-argentina-1329726'>Estas son las mejores VPN para usar en Argentina en 2023</a></h4>
+    <a href='https://computerhoy.com/internet/estas-son-mejores-vpn-usar-argentina-1329726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/servicio-vpn-usandose-movil-ver-evento-deportivo-2946270.jpg?tf=1200x' alt='Estas son las mejores VPN para usar en Argentina en 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-16gb-ram-rtx-3060-rompe-precio-amazon-chollo-gaming-como-pocos-1329464'>Este PC con 16GB de RAM y RTX 3060 rompe su precio en Amazon y es un chollo gaming como pocos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-16gb-ram-rtx-3060-rompe-precio-amazon-chollo-gaming-como-pocos-1329464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-ideacentre-gaming-5-gen-7-3212032.jpg?tf=1200x' alt='Este PC con 16GB de RAM y RTX 3060 rompe su precio en Amazon y es un chollo gaming como pocos' />
+    <h4><a href='https://computerhoy.com/life/como-quitar-manchas-fuentes-horno-tipo-pyrex-1328766'>Cómo quitar las manchas de las fuentes para horno tipo Pyrex</a></h4>
+    <a href='https://computerhoy.com/life/como-quitar-manchas-fuentes-horno-tipo-pyrex-1328766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-quitar-manchas-fuentes-horno-tipo-pyrex-3211000.jpg?tf=1200x' alt='Cómo quitar las manchas de las fuentes para horno tipo Pyrex' />
     </a>
 </div>
 
