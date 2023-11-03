@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/firestick-tiene-rival-chino-cuesta-menos-mitad-tiene-android-4k-1328754'>El Firestick tiene rival chino: cuesta menos de la mitad, tiene Android y con 4K</a></h4>
-    <a href='https://computerhoy.com/tecnologia/firestick-tiene-rival-chino-cuesta-menos-mitad-tiene-android-4k-1328754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dq06-atv-mini-tv-stick-3210922.jpg?tf=1200x' alt='El Firestick tiene rival chino: cuesta menos de la mitad, tiene Android y con 4K' />
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-asegura-ia-hara-nadie-tenga-trabajar-1329982'>Elon Musk asegura que la IA hará que nadie tenga que trabajar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-asegura-ia-hara-nadie-tenga-trabajar-1329982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/elon-musk-3009470.jpg?tf=1200x' alt='Elon Musk asegura que la IA hará que nadie tenga que trabajar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/oppo-enco-air3-pro-analisis-opinion-1321544'>Oppo Enco Air3 Pro, los auriculares asequibles que tendría para usar habitualmente</a></h4>
-    <a href='https://computerhoy.com/analisis/oppo-enco-air3-pro-analisis-opinion-1321544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/oppo-enco-air3-pro-analisis-opinion-3201734.jpg?tf=1200x' alt='Oppo Enco Air3 Pro, los auriculares asequibles que tendría para usar habitualmente' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-prepara-futuro-seguro-millonario-proyecto-ciberseguridad-1330036'>Microsoft se prepara para un futuro más seguro con este millonario proyecto en ciberseguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/microsoft-prepara-futuro-seguro-millonario-proyecto-ciberseguridad-1330036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/microsoft-empleados-3128716.jpg?tf=1200x' alt='Microsoft se prepara para un futuro más seguro con este millonario proyecto en ciberseguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/ofensiva-eeuu-acusan-meta-instagram-perjudicar-salud-mental-jovenes-1326190'>Ofensiva en EEUU: acusan a Meta e Instagram de perjudicar la salud mental de los jóvenes</a></h4>
-    <a href='https://computerhoy.com/redes/ofensiva-eeuu-acusan-meta-instagram-perjudicar-salud-mental-jovenes-1326190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/instagram-3212144.jpg?tf=1200x' alt='Ofensiva en EEUU: acusan a Meta e Instagram de perjudicar la salud mental de los jóvenes' />
+    <h4><a href='https://computerhoy.com/tecnologia/guerra-precios-garmin-top-carga-solar-200-euros-barato-forma-temporal-1329978'>Guerra de precios con el Garmin más top con carga solar: hasta 200 euros más barato de forma temporal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guerra-precios-garmin-top-carga-solar-200-euros-barato-forma-temporal-1329978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7x-pro-solar-3212838.jpg?tf=1200x' alt='Guerra de precios con el Garmin más top con carga solar: hasta 200 euros más barato de forma temporal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/estas-son-mejores-vpn-usar-argentina-1329726'>Estas son las mejores VPN para usar en Argentina en 2023</a></h4>
-    <a href='https://computerhoy.com/internet/estas-son-mejores-vpn-usar-argentina-1329726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/servicio-vpn-usandose-movil-ver-evento-deportivo-2946270.jpg?tf=1200x' alt='Estas son las mejores VPN para usar en Argentina en 2023' />
+    <h4><a href='https://computerhoy.com/criptos/sam-bankman-fried-declarado-culpable-caso-ftx-1329974'>Sam Bankman-Fried, declarado culpable, y puede que la industria de las criptomonedas nunca se recupere</a></h4>
+    <a href='https://computerhoy.com/criptos/sam-bankman-fried-declarado-culpable-caso-ftx-1329974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sam-bankman-fried-2869933.jpg?tf=1200x' alt='Sam Bankman-Fried, declarado culpable, y puede que la industria de las criptomonedas nunca se recupere' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-quitar-manchas-fuentes-horno-tipo-pyrex-1328766'>Cómo quitar las manchas de las fuentes para horno tipo Pyrex</a></h4>
-    <a href='https://computerhoy.com/life/como-quitar-manchas-fuentes-horno-tipo-pyrex-1328766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-quitar-manchas-fuentes-horno-tipo-pyrex-3211000.jpg?tf=1200x' alt='Cómo quitar las manchas de las fuentes para horno tipo Pyrex' />
+    <h4><a href='https://computerhoy.com/tecnologia/navegador-brave-presenta-leo-chatbot-viene-romper-falta-privacidad-1330000'>El navegador Brave presenta un chatbot al estilo ChatGPT que viene a romper con la falta de privacidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/navegador-brave-presenta-leo-chatbot-viene-romper-falta-privacidad-1330000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chatbots-3212908.jpg?tf=1200x' alt='El navegador Brave presenta un chatbot al estilo ChatGPT que viene a romper con la falta de privacidad' />
     </a>
 </div>
 
