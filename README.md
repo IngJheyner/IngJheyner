@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/elon-musk-acepta-prueba-flecha-arriesga-nuevo-ridiculo-tesla-cybertruck-1329752'>Elon Musk acepta la prueba de la flecha y se arriesga a un nuevo ridículo de su Tesla Cybertruck</a></h4>
+    <a href='https://computerhoy.com/motor/elon-musk-acepta-prueba-flecha-arriesga-nuevo-ridiculo-tesla-cybertruck-1329752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/joe-rogan-lanza-flecha-tesla-cybertruck-delante-elon-musk-3211858.jpg?tf=1200x' alt='Elon Musk acepta la prueba de la flecha y se arriesga a un nuevo ridículo de su Tesla Cybertruck' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-bate-record-ganancias-iphone-servicios-tercer-trimestre-2023-1329754'>En el último trimestre Apple ha batido el récord de ganancias con el iPhone y los servicios, pero iPad y Mac se hunden</a></h4>
+    <a href='https://computerhoy.com/apple/apple-bate-record-ganancias-iphone-servicios-tercer-trimestre-2023-1329754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tim-cook-iphone-13-pro-3132102.jpg?tf=1200x' alt='En el último trimestre Apple ha batido el récord de ganancias con el iPhone y los servicios, pero iPad y Mac se hunden' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/indiana-jones-dial-destino-fecha-estreno-disney-plus-1329744'>Indiana Jones y el Dial del Destino ya tiene fecha de estreno en Disney+, y viene con regalo para los fans</a></h4>
     <a href='https://computerhoy.com/entretenimiento/indiana-jones-dial-destino-fecha-estreno-disney-plus-1329744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/indiana-jones-dial-destino-ya-tiene-fecha-estreno-disney-viene-regalo-3212576.jpg?tf=1200x' alt='Indiana Jones y el Dial del Destino ya tiene fecha de estreno en Disney+, y viene con regalo para los fans' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pc-16gb-ram-rtx-3060-rompe-precio-amazon-chollo-gaming-como-pocos-1329464'>Este PC con 16GB de RAM y RTX 3060 rompe su precio en Amazon y es un chollo gaming como pocos</a></h4>
     <a href='https://computerhoy.com/tecnologia/pc-16gb-ram-rtx-3060-rompe-precio-amazon-chollo-gaming-como-pocos-1329464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-ideacentre-gaming-5-gen-7-3212032.jpg?tf=1200x' alt='Este PC con 16GB de RAM y RTX 3060 rompe su precio en Amazon y es un chollo gaming como pocos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cada-euro-empresa-invierte-ia-obtiene-triple-1329690'>Por cada euro que una empresa invierte en IA obtiene el triple en menos de un año, según un estudio de Microsoft </a></h4>
-    <a href='https://computerhoy.com/tecnologia/cada-euro-empresa-invierte-ia-obtiene-triple-1329690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cada-euro-empresa-invierte-ia-obtiene-tres-medio-menos-ano-estudio-microsoft-3212496.jpg?tf=1200x' alt='Por cada euro que una empresa invierte en IA obtiene el triple en menos de un año, según un estudio de Microsoft ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tecnologia-descanso-5-sorprendentes-apps-te-ayudan-dormir-mejor-1328614'>Tecnología y descanso: 5 sorprendentes apps que te ayudan a dormir mejor</a></h4>
-    <a href='https://computerhoy.com/apps/tecnologia-descanso-5-sorprendentes-apps-te-ayudan-dormir-mejor-1328614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tecnologia-descanso-5-sorprendentes-apps-te-ayudan-dormir-mejor-3210468.jpg?tf=1200x' alt='Tecnología y descanso: 5 sorprendentes apps que te ayudan a dormir mejor' />
     </a>
 </div>
 
