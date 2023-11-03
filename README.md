@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/arrasa-amazon-chimenea-electrica-ha-reventado-precio-tiene-wifi-1330016'>Arrasa en Amazon esta chimenea eléctrica que ha reventado su precio y que tiene WiFi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/arrasa-amazon-chimenea-electrica-ha-reventado-precio-tiene-wifi-1330016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cecotec-ready-warm-2690-flames-connected-white-3212900.jpg?tf=1200x' alt='Arrasa en Amazon esta chimenea eléctrica que ha reventado su precio y que tiene WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/machine-learning-vs-deep-learning-suena-complejo-pero-estas-son-diferencias-1330084'>Machine Learning vs. Deep Learning: suena complejo, pero estas son sus diferencias con ejemplos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/machine-learning-vs-deep-learning-suena-complejo-pero-estas-son-diferencias-1330084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/machine-learning-vs-deep-learning-3213210.jpg?tf=1200x' alt='Machine Learning vs. Deep Learning: suena complejo, pero estas son sus diferencias con ejemplos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-asegura-ia-hara-nadie-tenga-trabajar-1329982'>Elon Musk asegura que la IA hará que nadie tenga que trabajar</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-asegura-ia-hara-nadie-tenga-trabajar-1329982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/elon-musk-3009470.jpg?tf=1200x' alt='Elon Musk asegura que la IA hará que nadie tenga que trabajar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/guerra-precios-garmin-top-carga-solar-200-euros-barato-forma-temporal-1329978'>Guerra de precios con el Garmin más top con carga solar: hasta 200 euros más barato de forma temporal</a></h4>
     <a href='https://computerhoy.com/tecnologia/guerra-precios-garmin-top-carga-solar-200-euros-barato-forma-temporal-1329978' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7x-pro-solar-3212838.jpg?tf=1200x' alt='Guerra de precios con el Garmin más top con carga solar: hasta 200 euros más barato de forma temporal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/sam-bankman-fried-declarado-culpable-caso-ftx-1329974'>Sam Bankman-Fried, declarado culpable, y puede que la industria de las criptomonedas nunca se recupere</a></h4>
-    <a href='https://computerhoy.com/criptos/sam-bankman-fried-declarado-culpable-caso-ftx-1329974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sam-bankman-fried-2869933.jpg?tf=1200x' alt='Sam Bankman-Fried, declarado culpable, y puede que la industria de las criptomonedas nunca se recupere' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/navegador-brave-presenta-leo-chatbot-viene-romper-falta-privacidad-1330000'>El navegador Brave presenta un chatbot al estilo ChatGPT que viene a romper con la falta de privacidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/navegador-brave-presenta-leo-chatbot-viene-romper-falta-privacidad-1330000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chatbots-3212908.jpg?tf=1200x' alt='El navegador Brave presenta un chatbot al estilo ChatGPT que viene a romper con la falta de privacidad' />
     </a>
 </div>
 
