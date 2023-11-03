@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/revolucionario-calefactor-grafeno-ahorra-30-factura-1330232'>Con este calefactor de grafeno puedes ahorrar hasta un 30% en la factura de la calefacción </a></h4>
-    <a href='https://computerhoy.com/hogar/revolucionario-calefactor-grafeno-ahorra-30-factura-1330232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/calefactor-grafeno-simula-chimenea-puedes-ahorrar-30-factura-calefaccion-3213578.jpg?tf=1200x' alt='Con este calefactor de grafeno puedes ahorrar hasta un 30% en la factura de la calefacción ' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-protegerte-flipper-zero-1330258'>Solo hay una forma de proteger tu móvil del ataque de Flipper Zero, pero no te va a gustar </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-protegerte-flipper-zero-1330258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/solo-hay-forma-proteger-movil-ataque-flipper-zero-pero-no-te-va-gustar-3213636.jpg?tf=1200x' alt='Solo hay una forma de proteger tu móvil del ataque de Flipper Zero, pero no te va a gustar ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/coeficiente-intelectual-como-mide-significado-puntuaciones-1322836'>Qué es el coeficiente intelectual, cómo se mide y que significan las puntuaciones</a></h4>
-    <a href='https://computerhoy.com/life/coeficiente-intelectual-como-mide-significado-puntuaciones-1322836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/test-inteligencia-3213286.jpg?tf=1200x' alt='Qué es el coeficiente intelectual, cómo se mide y que significan las puntuaciones' />
+    <h4><a href='https://computerhoy.com/life/he-decidido-pasar-dos-semanas-coger-ascensor-compruebo-realmente-nota-1330078'>He decidido pasar dos semanas sin coger un ascensor, y compruebo si realmente se nota</a></h4>
+    <a href='https://computerhoy.com/life/he-decidido-pasar-dos-semanas-coger-ascensor-compruebo-realmente-nota-1330078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/decido-pasar-dos-semanas-coger-ascensor-compruebo-realmente-nota-3213070.jpg?tf=1200x' alt='He decidido pasar dos semanas sin coger un ascensor, y compruebo si realmente se nota' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/192-168-1-1-como-acceder-router-modificar-configuracion-228735'>192.168.1.1: Cómo acceder al router para modificar su configuración</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/192-168-1-1-como-acceder-router-modificar-configuracion-228735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-movil-ordenador-2622317.jpg?tf=1200x' alt='192.168.1.1: Cómo acceder al router para modificar su configuración' />
+    <h4><a href='https://computerhoy.com/android/oneplus-ace-2-pro-pepino-24-gb-ram-one-plus-fin-rebajado-1330058'>Este pepino de OnePlus con especificaciones top y 24 GB de RAM ya está a un precio más que asequible</a></h4>
+    <a href='https://computerhoy.com/android/oneplus-ace-2-pro-pepino-24-gb-ram-one-plus-fin-rebajado-1330058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oneplus-ace-2-pro-3212574.jpg?tf=1200x' alt='Este pepino de OnePlus con especificaciones top y 24 GB de RAM ya está a un precio más que asequible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/arrasa-amazon-chimenea-electrica-ha-reventado-precio-tiene-wifi-1330016'>Arrasa en Amazon esta chimenea eléctrica que ha reventado su precio y que tiene WiFi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/arrasa-amazon-chimenea-electrica-ha-reventado-precio-tiene-wifi-1330016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cecotec-ready-warm-2690-flames-connected-white-3212900.jpg?tf=1200x' alt='Arrasa en Amazon esta chimenea eléctrica que ha reventado su precio y que tiene WiFi' />
+    <h4><a href='https://computerhoy.com/life/debes-ajustar-calefaccion-reducir-factura-pagar-menos-1329654'>Así debes ajustar la calefacción para reducir la factura y pagar menos</a></h4>
+    <a href='https://computerhoy.com/life/debes-ajustar-calefaccion-reducir-factura-pagar-menos-1329654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ahorra-calefaccion-3213372.jpg?tf=1200x' alt='Así debes ajustar la calefacción para reducir la factura y pagar menos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/machine-learning-vs-deep-learning-suena-complejo-pero-estas-son-diferencias-1330084'>Machine Learning vs. Deep Learning: suena complejo, pero estas son sus diferencias con ejemplos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/machine-learning-vs-deep-learning-suena-complejo-pero-estas-son-diferencias-1330084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/machine-learning-vs-deep-learning-3213210.jpg?tf=1200x' alt='Machine Learning vs. Deep Learning: suena complejo, pero estas son sus diferencias con ejemplos' />
+    <h4><a href='https://computerhoy.com/motor/avance-coche-electrico-durabilidad-carga-rapida-1330246'>Paso de gigante para el coche eléctrico: baterías que no se degradan con la carga rápida</a></h4>
+    <a href='https://computerhoy.com/motor/avance-coche-electrico-durabilidad-carga-rapida-1330246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/paso-gigante-coche-electrico-baterias-no-degradan-carga-rapida-3213616.jpg?tf=1200x' alt='Paso de gigante para el coche eléctrico: baterías que no se degradan con la carga rápida' />
     </a>
 </div>
 
