@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/revolucionario-calefactor-grafeno-ahorra-30-factura-1330232'>Con este calefactor de grafeno puedes ahorrar hasta un 30% en la factura de la calefacción </a></h4>
+    <a href='https://computerhoy.com/hogar/revolucionario-calefactor-grafeno-ahorra-30-factura-1330232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/calefactor-grafeno-simula-chimenea-puedes-ahorrar-30-factura-calefaccion-3213578.jpg?tf=1200x' alt='Con este calefactor de grafeno puedes ahorrar hasta un 30% en la factura de la calefacción ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/coeficiente-intelectual-como-mide-significado-puntuaciones-1322836'>Qué es el coeficiente intelectual, cómo se mide y que significan las puntuaciones</a></h4>
+    <a href='https://computerhoy.com/life/coeficiente-intelectual-como-mide-significado-puntuaciones-1322836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/test-inteligencia-3213286.jpg?tf=1200x' alt='Qué es el coeficiente intelectual, cómo se mide y que significan las puntuaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/192-168-1-1-como-acceder-router-modificar-configuracion-228735'>192.168.1.1: Cómo acceder al router para modificar su configuración</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/192-168-1-1-como-acceder-router-modificar-configuracion-228735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-movil-ordenador-2622317.jpg?tf=1200x' alt='192.168.1.1: Cómo acceder al router para modificar su configuración' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/arrasa-amazon-chimenea-electrica-ha-reventado-precio-tiene-wifi-1330016'>Arrasa en Amazon esta chimenea eléctrica que ha reventado su precio y que tiene WiFi</a></h4>
     <a href='https://computerhoy.com/tecnologia/arrasa-amazon-chimenea-electrica-ha-reventado-precio-tiene-wifi-1330016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cecotec-ready-warm-2690-flames-connected-white-3212900.jpg?tf=1200x' alt='Arrasa en Amazon esta chimenea eléctrica que ha reventado su precio y que tiene WiFi' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/machine-learning-vs-deep-learning-suena-complejo-pero-estas-son-diferencias-1330084'>Machine Learning vs. Deep Learning: suena complejo, pero estas son sus diferencias con ejemplos</a></h4>
     <a href='https://computerhoy.com/tecnologia/machine-learning-vs-deep-learning-suena-complejo-pero-estas-son-diferencias-1330084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/machine-learning-vs-deep-learning-3213210.jpg?tf=1200x' alt='Machine Learning vs. Deep Learning: suena complejo, pero estas son sus diferencias con ejemplos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-asegura-ia-hara-nadie-tenga-trabajar-1329982'>Elon Musk asegura que la IA hará que nadie tenga que trabajar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-asegura-ia-hara-nadie-tenga-trabajar-1329982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/elon-musk-3009470.jpg?tf=1200x' alt='Elon Musk asegura que la IA hará que nadie tenga que trabajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-prepara-futuro-seguro-millonario-proyecto-ciberseguridad-1330036'>Microsoft se prepara para un futuro más seguro con este millonario proyecto en ciberseguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/microsoft-prepara-futuro-seguro-millonario-proyecto-ciberseguridad-1330036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/microsoft-empleados-3128716.jpg?tf=1200x' alt='Microsoft se prepara para un futuro más seguro con este millonario proyecto en ciberseguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guerra-precios-garmin-top-carga-solar-200-euros-barato-forma-temporal-1329978'>Guerra de precios con el Garmin más top con carga solar: hasta 200 euros más barato de forma temporal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guerra-precios-garmin-top-carga-solar-200-euros-barato-forma-temporal-1329978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7x-pro-solar-3212838.jpg?tf=1200x' alt='Guerra de precios con el Garmin más top con carga solar: hasta 200 euros más barato de forma temporal' />
     </a>
 </div>
 
