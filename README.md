@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/como-hacer-tortilla-francesa-aceite-ni-sarten-manchar-nada-1329682'>Cómo hacer una tortilla francesa sin aceite ni sartén, y sin manchar nada</a></h4>
-    <a href='https://computerhoy.com/alimentacion/como-hacer-tortilla-francesa-aceite-ni-sarten-manchar-nada-1329682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-hacer-tortilla-francesa-aceite-ni-sarten-manchar-nada-3212568.jpg?tf=1200x' alt='Cómo hacer una tortilla francesa sin aceite ni sartén, y sin manchar nada' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/palabras-envenenadas-como-estafadores-nos-manipulan-quedarse-dinero-1328022'>Cuidado con lo que te dicen: así es como los estafadores te manipulan con las palabras para robar tus datos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/palabras-envenenadas-como-estafadores-nos-manipulan-quedarse-dinero-1328022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estafadores-ciberseguridad-3210704.jpg?tf=1200x' alt='Cuidado con lo que te dicen: así es como los estafadores te manipulan con las palabras para robar tus datos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/navegador-brave-lanza-leo-ia-tipo-chatgpt-no-te-espia-1330324'>Brave, el navegador más privado, lanza Leo, su IA tipo ChatGPT que no te espía</a></h4>
-    <a href='https://computerhoy.com/tecnologia/navegador-brave-lanza-leo-ia-tipo-chatgpt-no-te-espia-1330324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/brave-navegador-privado-lanza-leo-ia-tipo-chatgpt-no-te-espia-3213764.jpg?tf=1200x' alt='Brave, el navegador más privado, lanza Leo, su IA tipo ChatGPT que no te espía' />
+    <h4><a href='https://computerhoy.com/google/apple-tiene-parte-culpa-no-existan-alternativas-buscador-google-puedes-hacer-cambiar-algo-1329968'>Por qué Apple tiene parte de la culpa de que no existan alternativas al buscador de Google y qué puedes hacer para cambiar algo</a></h4>
+    <a href='https://computerhoy.com/google/apple-tiene-parte-culpa-no-existan-alternativas-buscador-google-puedes-hacer-cambiar-algo-1329968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/resultados-google-iphone-3212836.jpg?tf=1200x' alt='Por qué Apple tiene parte de la culpa de que no existan alternativas al buscador de Google y qué puedes hacer para cambiar algo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/curioso-motivo-policia-recomienda-aparcar-siempre-linea-lugar-bateria-1330316'>El curioso motivo por el que la Policía recomienda aparcar siempre en línea en lugar de en batería</a></h4>
-    <a href='https://computerhoy.com/motor/curioso-motivo-policia-recomienda-aparcar-siempre-linea-lugar-bateria-1330316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aparcar-doble-fila-2772597.jpg?tf=1200x' alt='El curioso motivo por el que la Policía recomienda aparcar siempre en línea en lugar de en batería' />
+    <h4><a href='https://computerhoy.com/life/metodo-rejuvenecer-cerebro-30-anos-simple-cambio-mental-1329738'>Científicos descubren un método para rejuvenecer tu cerebro 30 años con un simple cambio mental</a></h4>
+    <a href='https://computerhoy.com/life/metodo-rejuvenecer-cerebro-30-anos-simple-cambio-mental-1329738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cerebro-2823899.jpg?tf=1200x' alt='Científicos descubren un método para rejuvenecer tu cerebro 30 años con un simple cambio mental' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/hbo-fecha-casa-dragon-temporada-2-1330320'>HBO anuncia la fecha de La Casa del Dragón Temporada 2, pero hay malas noticias para los fans de The Last of us, Euphoria y White Lotus</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/hbo-fecha-casa-dragon-temporada-2-1330320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/casa-dragon-2835353.jpg?tf=1200x' alt='HBO anuncia la fecha de La Casa del Dragón Temporada 2, pero hay malas noticias para los fans de The Last of us, Euphoria y White Lotus' />
+    <h4><a href='https://computerhoy.com/dia-del-soltero-11-11-1321402'>11 del 11 'Día del soltero': ¿Qué es, cuándo empieza y dónde encontrar los mejores chollos?</a></h4>
+    <a href='https://computerhoy.com/dia-del-soltero-11-11-1321402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/1111-aliexpress-11-11-2853593.jpg?tf=1200x' alt='11 del 11 'Día del soltero': ¿Qué es, cuándo empieza y dónde encontrar los mejores chollos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/restos-planeta-theia-misterio-oculto-corazon-tierra-1329720'>Restos del planeta Theia: un misterio ancestral oculto en el corazón de la Tierra</a></h4>
-    <a href='https://computerhoy.com/ciencia/restos-planeta-theia-misterio-oculto-corazon-tierra-1329720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/restos-planeta-theia-misterio-ancestral-oculto-corazon-tierra-3212554.jpg?tf=1200x' alt='Restos del planeta Theia: un misterio ancestral oculto en el corazón de la Tierra' />
+    <h4><a href='https://computerhoy.com/tecnologia/7-cosas-tecnologicas-uso-tratar-estar-forma-1322730'>Cómo te puede ayudar la tecnología a hacer deporte: 6 cosas que uso para tratar de estar en forma</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-cosas-tecnologicas-uso-tratar-estar-forma-1322730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apps-hacer-deporte-3200708.jpg?tf=1200x' alt='Cómo te puede ayudar la tecnología a hacer deporte: 6 cosas que uso para tratar de estar en forma' />
     </a>
 </div>
 
