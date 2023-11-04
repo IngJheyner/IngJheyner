@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/navegador-brave-lanza-leo-ia-tipo-chatgpt-no-te-espia-1330324'>Brave, el navegador más privado, lanza Leo, su IA tipo ChatGPT que no te espía</a></h4>
+    <a href='https://computerhoy.com/tecnologia/navegador-brave-lanza-leo-ia-tipo-chatgpt-no-te-espia-1330324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/brave-navegador-privado-lanza-leo-ia-tipo-chatgpt-no-te-espia-3213764.jpg?tf=1200x' alt='Brave, el navegador más privado, lanza Leo, su IA tipo ChatGPT que no te espía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/curioso-motivo-policia-recomienda-aparcar-siempre-linea-lugar-bateria-1330316'>El curioso motivo por el que la Policía recomienda aparcar siempre en línea en lugar de en batería</a></h4>
     <a href='https://computerhoy.com/motor/curioso-motivo-policia-recomienda-aparcar-siempre-linea-lugar-bateria-1330316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aparcar-doble-fila-2772597.jpg?tf=1200x' alt='El curioso motivo por el que la Policía recomienda aparcar siempre en línea en lugar de en batería' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-rebaja-bestia-galaxy-watch-6-lte-cuesta-mitad-apple-watch-1330056'>Samsung rebaja a lo bestia su Galaxy Watch 6 con LTE: cuesta la mitad que el Apple Watch</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-rebaja-bestia-galaxy-watch-6-lte-cuesta-mitad-apple-watch-1330056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110556.jpg?tf=1200x' alt='Samsung rebaja a lo bestia su Galaxy Watch 6 con LTE: cuesta la mitad que el Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/mecanica-cuantica-proxima-gran-revolucion-motor-1330268'>¿Será la mecánica cuántica la próxima gran revolución del motor?</a></h4>
-    <a href='https://computerhoy.com/motor/mecanica-cuantica-proxima-gran-revolucion-motor-1330268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sera-mecanica-cuantica-proxima-gran-revolucion-motor-3213670.jpg?tf=1200x' alt='¿Será la mecánica cuántica la próxima gran revolución del motor?' />
     </a>
 </div>
 
