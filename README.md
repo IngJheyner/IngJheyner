@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/he-probado-regla-5-horas-elon-musk-bill-gates-ser-productiva-1326700'>He probado la "regla de las 5 horas" de Elon Musk y Bill Gates para ser más productiva y no veo claro</a></h4>
-    <a href='https://computerhoy.com/life/he-probado-regla-5-horas-elon-musk-bill-gates-ser-productiva-1326700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/regla-5-horas-3207292.jpg?tf=1200x' alt='He probado la "regla de las 5 horas" de Elon Musk y Bill Gates para ser más productiva y no veo claro' />
+    <h4><a href='https://computerhoy.com/tutoriales/20-codigos-secretos-android-mejoran-seguridad-movil-1329122'>Los 20 códigos secretos de Android que mejoran la seguridad y privacidad de tu móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/20-codigos-secretos-android-mejoran-seguridad-movil-1329122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/20-codigos-secretos-android-mejoran-seguridad-privacidad-movil-3211600.jpg?tf=1200x' alt='Los 20 códigos secretos de Android que mejoran la seguridad y privacidad de tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/palabras-envenenadas-como-estafadores-nos-manipulan-quedarse-dinero-1328022'>Cuidado con lo que te dicen: así es como los estafadores te manipulan con las palabras para robar tus datos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/palabras-envenenadas-como-estafadores-nos-manipulan-quedarse-dinero-1328022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estafadores-ciberseguridad-3210704.jpg?tf=1200x' alt='Cuidado con lo que te dicen: así es como los estafadores te manipulan con las palabras para robar tus datos' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-iniciar-sesion-correo-electronico-1330534'>WhatsApp te permitirá iniciar sesión con tu correo electrónico</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-iniciar-sesion-correo-electronico-1330534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/whatsapp-correo-electronico-3214002.jpg?tf=1200x' alt='WhatsApp te permitirá iniciar sesión con tu correo electrónico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/apple-tiene-parte-culpa-no-existan-alternativas-buscador-google-puedes-hacer-cambiar-algo-1329968'>Por qué Apple tiene parte de la culpa de que no existan alternativas al buscador de Google y qué puedes hacer para cambiar algo</a></h4>
-    <a href='https://computerhoy.com/google/apple-tiene-parte-culpa-no-existan-alternativas-buscador-google-puedes-hacer-cambiar-algo-1329968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/resultados-google-iphone-3212836.jpg?tf=1200x' alt='Por qué Apple tiene parte de la culpa de que no existan alternativas al buscador de Google y qué puedes hacer para cambiar algo' />
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-dice-pronto-vas-poder-probar-chatbot-ia-llamado-grok-pero-solo-cumples-requisito-1330532'>Elon Musk dice que pronto vas a poder probar su chatbot de IA llamado Grok pero solo si cumples este requisito</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-dice-pronto-vas-poder-probar-chatbot-ia-llamado-grok-pero-solo-cumples-requisito-1330532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xai-3084784.jpg?tf=1200x' alt='Elon Musk dice que pronto vas a poder probar su chatbot de IA llamado Grok pero solo si cumples este requisito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/metodo-rejuvenecer-cerebro-30-anos-simple-cambio-mental-1329738'>Científicos descubren un método para rejuvenecer tu cerebro 30 años con un simple cambio mental</a></h4>
-    <a href='https://computerhoy.com/life/metodo-rejuvenecer-cerebro-30-anos-simple-cambio-mental-1329738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/cerebro-2823899.jpg?tf=1200x' alt='Científicos descubren un método para rejuvenecer tu cerebro 30 años con un simple cambio mental' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-pixar-indispensables-disney-plus-1329688'>7 películas de Pixar indispensables que tienes disponibles en Disney+</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-pixar-indispensables-disney-plus-1329688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/coco-3212560.jpg?tf=1200x' alt='7 películas de Pixar indispensables que tienes disponibles en Disney+' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/dia-del-soltero-11-11-1321402'>11 del 11 'Día del soltero': ¿Qué es, cuándo empieza y dónde encontrar los mejores chollos?</a></h4>
-    <a href='https://computerhoy.com/dia-del-soltero-11-11-1321402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/1111-aliexpress-11-11-2853593.jpg?tf=1200x' alt='11 del 11 'Día del soltero': ¿Qué es, cuándo empieza y dónde encontrar los mejores chollos?' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-va-apple-reloj-arma-fatal-ahora-50-euros-barato-1327710'>Garmin va a por Apple y este reloj es su arma fatal: ahora es 50 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-va-apple-reloj-arma-fatal-ahora-50-euros-barato-1327710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-venu-3-3208880.jpg?tf=1200x' alt='Garmin va a por Apple y este reloj es su arma fatal: ahora es 50 euros más barato' />
     </a>
 </div>
 
