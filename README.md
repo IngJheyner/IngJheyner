@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/curioso-motivo-policia-recomienda-aparcar-siempre-linea-lugar-bateria-1330316'>El curioso motivo por el que la Policía recomienda aparcar siempre en línea en lugar de en batería</a></h4>
+    <a href='https://computerhoy.com/motor/curioso-motivo-policia-recomienda-aparcar-siempre-linea-lugar-bateria-1330316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aparcar-doble-fila-2772597.jpg?tf=1200x' alt='El curioso motivo por el que la Policía recomienda aparcar siempre en línea en lugar de en batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hbo-fecha-casa-dragon-temporada-2-1330320'>HBO anuncia la fecha de La Casa del Dragón Temporada 2, pero hay malas noticias para los fans de The Last of us, Euphoria y White Lotus</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hbo-fecha-casa-dragon-temporada-2-1330320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/casa-dragon-2835353.jpg?tf=1200x' alt='HBO anuncia la fecha de La Casa del Dragón Temporada 2, pero hay malas noticias para los fans de The Last of us, Euphoria y White Lotus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/restos-planeta-theia-misterio-oculto-corazon-tierra-1329720'>Restos del planeta Theia: un misterio ancestral oculto en el corazón de la Tierra</a></h4>
     <a href='https://computerhoy.com/ciencia/restos-planeta-theia-misterio-oculto-corazon-tierra-1329720' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/restos-planeta-theia-misterio-ancestral-oculto-corazon-tierra-3212554.jpg?tf=1200x' alt='Restos del planeta Theia: un misterio ancestral oculto en el corazón de la Tierra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/mecanica-cuantica-proxima-gran-revolucion-motor-1330268'>¿Será la mecánica cuántica la próxima gran revolución del motor?</a></h4>
     <a href='https://computerhoy.com/motor/mecanica-cuantica-proxima-gran-revolucion-motor-1330268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sera-mecanica-cuantica-proxima-gran-revolucion-motor-3213670.jpg?tf=1200x' alt='¿Será la mecánica cuántica la próxima gran revolución del motor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-aprovechar-maximo-google-my-maps-estas-5-funciones-esenciales-1323370'>Cómo aprovechar al máximo Google My Maps con estas 5 funciones esenciales</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-aprovechar-maximo-google-my-maps-estas-5-funciones-esenciales-1323370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-aprovechar-maximo-google-my-maps-estas-5-funciones-esenciales-3201954.jpg?tf=1200x' alt='Cómo aprovechar al máximo Google My Maps con estas 5 funciones esenciales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/no-puedes-actualizar-windows-11-23h2-no-estas-solo-pero-puedes-solucionarlo-1330304'>¿No puedes actualizar a Windows 11 23H2? No estás solo, pero así puedes solucionarlo</a></h4>
-    <a href='https://computerhoy.com/windows/no-puedes-actualizar-windows-11-23h2-no-estas-solo-pero-puedes-solucionarlo-1330304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aplicaciones-abiertas-windows-11-3150200.jpg?tf=1200x' alt='¿No puedes actualizar a Windows 11 23H2? No estás solo, pero así puedes solucionarlo' />
     </a>
 </div>
 
