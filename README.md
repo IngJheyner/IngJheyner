@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-no-podras-actualizar-google-chrome-estos-moviles-1330556'>Ya no podrás actualizar Google Chrome en estos móviles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-no-podras-actualizar-google-chrome-estos-moviles-1330556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/seguridad-chrome-3124360.jpg?tf=1200x' alt='Ya no podrás actualizar Google Chrome en estos móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-cambia-completo-interfaz-administrador-contrasenas-1330552'>Google cambia por completo la interfaz de su administrador de contraseñas</a></h4>
+    <a href='https://computerhoy.com/apps/google-cambia-completo-interfaz-administrador-contrasenas-1330552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/administrador-contrasenas-3214028.jpg?tf=1200x' alt='Google cambia por completo la interfaz de su administrador de contraseñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/resultados-ti-google-como-activar-aviso-filtra-informacion-ti-1328738'>Resultados sobre ti de Google: cómo activar la función oculta que te avisa si tu información personal aparece en la web</a></h4>
+    <a href='https://computerhoy.com/tutoriales/resultados-ti-google-como-activar-aviso-filtra-informacion-ti-1328738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/alertas-google-funcion-oculta-te-avisa-informacion-personal-aparece-web-3210936.jpg?tf=1200x' alt='Resultados sobre ti de Google: cómo activar la función oculta que te avisa si tu información personal aparece en la web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/20-codigos-secretos-android-mejoran-seguridad-movil-1329122'>Los 20 códigos secretos de Android que mejoran la seguridad y privacidad de tu móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/20-codigos-secretos-android-mejoran-seguridad-movil-1329122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/20-codigos-secretos-android-mejoran-seguridad-privacidad-movil-3211600.jpg?tf=1200x' alt='Los 20 códigos secretos de Android que mejoran la seguridad y privacidad de tu móvil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-iniciar-sesion-correo-electronico-1330534'>WhatsApp te permitirá iniciar sesión con tu correo electrónico</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-te-permitira-iniciar-sesion-correo-electronico-1330534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/whatsapp-correo-electronico-3214002.jpg?tf=1200x' alt='WhatsApp te permitirá iniciar sesión con tu correo electrónico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-dice-pronto-vas-poder-probar-chatbot-ia-llamado-grok-pero-solo-cumples-requisito-1330532'>Elon Musk dice que pronto vas a poder probar su chatbot de IA llamado Grok pero solo si cumples este requisito</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-dice-pronto-vas-poder-probar-chatbot-ia-llamado-grok-pero-solo-cumples-requisito-1330532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xai-3084784.jpg?tf=1200x' alt='Elon Musk dice que pronto vas a poder probar su chatbot de IA llamado Grok pero solo si cumples este requisito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-pixar-indispensables-disney-plus-1329688'>7 películas de Pixar indispensables que tienes disponibles en Disney+</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-pixar-indispensables-disney-plus-1329688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/coco-3212560.jpg?tf=1200x' alt='7 películas de Pixar indispensables que tienes disponibles en Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-va-apple-reloj-arma-fatal-ahora-50-euros-barato-1327710'>Garmin va a por Apple y este reloj es su arma fatal: ahora es 50 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-va-apple-reloj-arma-fatal-ahora-50-euros-barato-1327710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-venu-3-3208880.jpg?tf=1200x' alt='Garmin va a por Apple y este reloj es su arma fatal: ahora es 50 euros más barato' />
     </a>
 </div>
 
