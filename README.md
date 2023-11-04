@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/como-hacer-tortilla-francesa-aceite-ni-sarten-manchar-nada-1329682'>Cómo hacer una tortilla francesa sin aceite ni sartén, y sin manchar nada</a></h4>
+    <a href='https://computerhoy.com/alimentacion/como-hacer-tortilla-francesa-aceite-ni-sarten-manchar-nada-1329682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-hacer-tortilla-francesa-aceite-ni-sarten-manchar-nada-3212568.jpg?tf=1200x' alt='Cómo hacer una tortilla francesa sin aceite ni sartén, y sin manchar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/navegador-brave-lanza-leo-ia-tipo-chatgpt-no-te-espia-1330324'>Brave, el navegador más privado, lanza Leo, su IA tipo ChatGPT que no te espía</a></h4>
     <a href='https://computerhoy.com/tecnologia/navegador-brave-lanza-leo-ia-tipo-chatgpt-no-te-espia-1330324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/brave-navegador-privado-lanza-leo-ia-tipo-chatgpt-no-te-espia-3213764.jpg?tf=1200x' alt='Brave, el navegador más privado, lanza Leo, su IA tipo ChatGPT que no te espía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/restos-planeta-theia-misterio-oculto-corazon-tierra-1329720'>Restos del planeta Theia: un misterio ancestral oculto en el corazón de la Tierra</a></h4>
     <a href='https://computerhoy.com/ciencia/restos-planeta-theia-misterio-oculto-corazon-tierra-1329720' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/restos-planeta-theia-misterio-ancestral-oculto-corazon-tierra-3212554.jpg?tf=1200x' alt='Restos del planeta Theia: un misterio ancestral oculto en el corazón de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-rebaja-bestia-galaxy-watch-6-lte-cuesta-mitad-apple-watch-1330056'>Samsung rebaja a lo bestia su Galaxy Watch 6 con LTE: cuesta la mitad que el Apple Watch</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-rebaja-bestia-galaxy-watch-6-lte-cuesta-mitad-apple-watch-1330056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110556.jpg?tf=1200x' alt='Samsung rebaja a lo bestia su Galaxy Watch 6 con LTE: cuesta la mitad que el Apple Watch' />
     </a>
 </div>
 
