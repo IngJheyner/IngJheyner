@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cafeteria-japonesa-no-puedes-hablar-1330614'>Un Café Sin Palabras, la única cafetería del mundo en donde no se puede hablar, ni siquiera para pedir</a></h4>
+    <a href='https://computerhoy.com/life/cafeteria-japonesa-no-puedes-hablar-1330614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cafe-palabras-unica-cafeteria-mundo-donde-no-puede-hablar-ni-siquiera-pedir-3214118.jpg?tf=1200x' alt='Un Café Sin Palabras, la única cafetería del mundo en donde no se puede hablar, ni siquiera para pedir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/alguien-recibe-60-iphone-15-pro-max-error-ahora-tiene-devolverlos-1330612'>Alguien recibe 60 iPhone 15 Pro Max por error y ahora tiene que devolverlos</a></h4>
+    <a href='https://computerhoy.com/apple/alguien-recibe-60-iphone-15-pro-max-error-ahora-tiene-devolverlos-1330612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3133024.jpg?tf=1200x' alt='Alguien recibe 60 iPhone 15 Pro Max por error y ahora tiene que devolverlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-nueva-tecnologia-seguimiento-ocular-realidad-mixta-1330608'>Microsoft piensa en una nueva tecnología de seguimiento ocular para realidad mixta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-nueva-tecnologia-seguimiento-ocular-realidad-mixta-1330608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hololens-2606583.jpg?tf=1200x' alt='Microsoft piensa en una nueva tecnología de seguimiento ocular para realidad mixta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/actualizacion-reciente-trae-malas-noticias-usuarios-android-auto-cable-1330588'>La actualización más reciente trae malas noticias a los usuarios de Android Auto con cable</a></h4>
     <a href='https://computerhoy.com/android/actualizacion-reciente-trae-malas-noticias-usuarios-android-auto-cable-1330588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-activar-modo-dios-android-auto-3099448.jpg?tf=1200x' alt='La actualización más reciente trae malas noticias a los usuarios de Android Auto con cable' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/samsung-galaxy-a34-5g-mejor-gama-media-android-ahora-solo-350-euros-1330574'>El Samsung Galaxy A34 es el gama media perfecto ahora que está rebajado a menos de 350 euros</a></h4>
     <a href='https://computerhoy.com/android/samsung-galaxy-a34-5g-mejor-gama-media-android-ahora-solo-350-euros-1330574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/samsung-galaxy-a34-3214058.jpg?tf=1200x' alt='El Samsung Galaxy A34 es el gama media perfecto ahora que está rebajado a menos de 350 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nombre-usuario-x-antigua-twitter-podria-costarte-50000-dolares-1330558'>Tu nombre de usuario en X, la antigua Twitter, podría costarte 50.000 dólares</a></h4>
-    <a href='https://computerhoy.com/apps/nombre-usuario-x-antigua-twitter-podria-costarte-50000-dolares-1330558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='Tu nombre de usuario en X, la antigua Twitter, podría costarte 50.000 dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-sabado-4-noviembre-2023-1330508'>Programación TV: ¿Qué ver hoy en televisión? Sábado 4 de noviembre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-sabado-4-noviembre-2023-1330508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-sabado-4-noviembre-2023-3213962.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Sábado 4 de noviembre de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-no-podras-actualizar-google-chrome-estos-moviles-1330556'>Ya no podrás actualizar Google Chrome en estos móviles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-no-podras-actualizar-google-chrome-estos-moviles-1330556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/seguridad-chrome-3124360.jpg?tf=1200x' alt='Ya no podrás actualizar Google Chrome en estos móviles' />
     </a>
 </div>
 
