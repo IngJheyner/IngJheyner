@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/he-probado-regla-5-horas-elon-musk-bill-gates-ser-productiva-1326700'>He probado la "regla de las 5 horas" de Elon Musk y Bill Gates para ser más productiva y no veo claro</a></h4>
+    <a href='https://computerhoy.com/life/he-probado-regla-5-horas-elon-musk-bill-gates-ser-productiva-1326700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/regla-5-horas-3207292.jpg?tf=1200x' alt='He probado la "regla de las 5 horas" de Elon Musk y Bill Gates para ser más productiva y no veo claro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/palabras-envenenadas-como-estafadores-nos-manipulan-quedarse-dinero-1328022'>Cuidado con lo que te dicen: así es como los estafadores te manipulan con las palabras para robar tus datos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/palabras-envenenadas-como-estafadores-nos-manipulan-quedarse-dinero-1328022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estafadores-ciberseguridad-3210704.jpg?tf=1200x' alt='Cuidado con lo que te dicen: así es como los estafadores te manipulan con las palabras para robar tus datos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/dia-del-soltero-11-11-1321402'>11 del 11 'Día del soltero': ¿Qué es, cuándo empieza y dónde encontrar los mejores chollos?</a></h4>
     <a href='https://computerhoy.com/dia-del-soltero-11-11-1321402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/1111-aliexpress-11-11-2853593.jpg?tf=1200x' alt='11 del 11 'Día del soltero': ¿Qué es, cuándo empieza y dónde encontrar los mejores chollos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-cosas-tecnologicas-uso-tratar-estar-forma-1322730'>Cómo te puede ayudar la tecnología a hacer deporte: 6 cosas que uso para tratar de estar en forma</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-cosas-tecnologicas-uso-tratar-estar-forma-1322730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apps-hacer-deporte-3200708.jpg?tf=1200x' alt='Cómo te puede ayudar la tecnología a hacer deporte: 6 cosas que uso para tratar de estar en forma' />
     </a>
 </div>
 
