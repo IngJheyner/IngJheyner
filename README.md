@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/que-lavadora-secadora-me-compro-1000455'>Qué lavadora secadora me compro: 5 modelos de Samsung, Bosch y otras marcas que merecen la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/que-lavadora-secadora-me-compro-1000455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lavadora-3030328.jpg?tf=1200x' alt='Qué lavadora secadora me compro: 5 modelos de Samsung, Bosch y otras marcas que merecen la pena' />
+    <h4><a href='https://computerhoy.com/tecnologia/ordenador-portatil-enchufado-siempre-usar-bateria-guia-hacer-mejor-uso-1326248'>¿Ordenador portátil enchufado siempre o es mejor usar la batería?: guía para hacer un mejor uso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ordenador-portatil-enchufado-siempre-usar-bateria-guia-hacer-mejor-uso-1326248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ordenador-portatil-3208094.jpg?tf=1200x' alt='¿Ordenador portátil enchufado siempre o es mejor usar la batería?: guía para hacer un mejor uso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-sobrevivir-ictus-derrame-cerebral-cuando-no-hay-nadie-cerca-1330616'>Cómo sobrevivir a un ictus o derrame cerebral cuando no hay nadie cerca, según el SAMU</a></h4>
-    <a href='https://computerhoy.com/life/como-sobrevivir-ictus-derrame-cerebral-cuando-no-hay-nadie-cerca-1330616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-sobrevivir-ictus-derrame-cerebral-cuando-no-hay-nadie-cerca-samu-3214124.jpg?tf=1200x' alt='Cómo sobrevivir a un ictus o derrame cerebral cuando no hay nadie cerca, según el SAMU' />
+    <h4><a href='https://computerhoy.com/tecnologia/punto-cuantico-descubrimiento-ha-sido-reconocido-premio-nobel-quimica-2023-1321554'>¿Qué es un punto cuántico y por qué su descubrimiento ha sido reconocido con el premio Nobel de Química 2023?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/punto-cuantico-descubrimiento-ha-sido-reconocido-premio-nobel-quimica-2023-1321554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1699021720695-3213550.jpg?tf=1200x' alt='¿Qué es un punto cuántico y por qué su descubrimiento ha sido reconocido con el premio Nobel de Química 2023?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cafeteria-japonesa-no-puedes-hablar-1330614'>Un Café Sin Palabras, la única cafetería del mundo en donde no se puede hablar, ni siquiera para pedir</a></h4>
-    <a href='https://computerhoy.com/life/cafeteria-japonesa-no-puedes-hablar-1330614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cafe-palabras-unica-cafeteria-mundo-donde-no-puede-hablar-ni-siquiera-pedir-3214118.jpg?tf=1200x' alt='Un Café Sin Palabras, la única cafetería del mundo en donde no se puede hablar, ni siquiera para pedir' />
+    <h4><a href='https://computerhoy.com/internet/google-maps-culinario-buscar-restaurante-bueno-bonito-barato-1329634'>Así es el Google Maps culinario para buscar un restaurante bueno, bonito y barato</a></h4>
+    <a href='https://computerhoy.com/internet/google-maps-culinario-buscar-restaurante-bueno-bonito-barato-1329634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-maps-culinario-buscar-restaurante-bueno-bonito-barato-3212480.jpg?tf=1200x' alt='Así es el Google Maps culinario para buscar un restaurante bueno, bonito y barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/alguien-recibe-60-iphone-15-pro-max-error-ahora-tiene-devolverlos-1330612'>Alguien recibe 60 iPhone 15 Pro Max por error y ahora tiene que devolverlos</a></h4>
-    <a href='https://computerhoy.com/apple/alguien-recibe-60-iphone-15-pro-max-error-ahora-tiene-devolverlos-1330612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3133024.jpg?tf=1200x' alt='Alguien recibe 60 iPhone 15 Pro Max por error y ahora tiene que devolverlos' />
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377'>Mejores secadoras de ropa pequeñas que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lavadora-secadora-2586445.jpg?tf=1200x' alt='Mejores secadoras de ropa pequeñas que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-nueva-tecnologia-seguimiento-ocular-realidad-mixta-1330608'>Microsoft piensa en una nueva tecnología de seguimiento ocular para realidad mixta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-nueva-tecnologia-seguimiento-ocular-realidad-mixta-1330608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hololens-2606583.jpg?tf=1200x' alt='Microsoft piensa en una nueva tecnología de seguimiento ocular para realidad mixta' />
+    <h4><a href='https://computerhoy.com/tecnologia/robot-obrero-podria-dejar-paro-millones-trabajadores-1330594'>El robot obrero que podría dejar en el paro a millones de trabajadores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-obrero-podria-dejar-paro-millones-trabajadores-1330594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hadrian-x-3214078.jpg?tf=1200x' alt='El robot obrero que podría dejar en el paro a millones de trabajadores' />
     </a>
 </div>
 
