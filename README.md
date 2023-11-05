@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/extrana-tienda-batidos-impulsada-ia-ha-cerrado-noche-manana-1330850'>La extraña tienda de batidos impulsada por IA que ha cerrado de la noche a la mañana</a></h4>
+    <a href='https://computerhoy.com/life/extrana-tienda-batidos-impulsada-ia-ha-cerrado-noche-manana-1330850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/betterblends-3214396.jpg?tf=1200x' alt='La extraña tienda de batidos impulsada por IA que ha cerrado de la noche a la mañana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/direccion-correo-desechable-son-como-crearlas-sirven-1325176'>Dirección de correo desechable: qué son, cómo crear una y para qué necesitas un email de un solo uso</a></h4>
+    <a href='https://computerhoy.com/tutoriales/direccion-correo-desechable-son-como-crearlas-sirven-1325176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/email-papelera-3212238.jpg?tf=1200x' alt='Dirección de correo desechable: qué son, cómo crear una y para qué necesitas un email de un solo uso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-probando-nueva-barra-herramientas-chrome-adapta-cualquier-tamano-ventana-1330846'>Google está probando una nueva barra de herramientas para Chrome que se adapta a cualquier tamaño de ventana</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-probando-nueva-barra-herramientas-chrome-adapta-cualquier-tamano-ventana-1330846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-chrome-3021946.jpg?tf=1200x' alt='Google está probando una nueva barra de herramientas para Chrome que se adapta a cualquier tamaño de ventana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/todo-puedes-hacer-forma-legal-no-tanto-flipper-zero-1328706'>Todo lo que puedes hacer de forma legal (o no tanto) con un Flipper Zero, el tamagotchi para hackers</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-puedes-hacer-forma-legal-no-tanto-flipper-zero-1328706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/flipper-zero-3212224.jpg?tf=1200x' alt='Todo lo que puedes hacer de forma legal (o no tanto) con un Flipper Zero, el tamagotchi para hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-rompe-web-auriculares-conduccion-osea-precio-saldo-1329438'>AliExpress rompe su web con unos auriculares de conducción ósea a precio de saldo</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-rompe-web-auriculares-conduccion-osea-precio-saldo-1329438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/soundpeats-runfree-lite-3211906.jpg?tf=1200x' alt='AliExpress rompe su web con unos auriculares de conducción ósea a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-ya-no-preinstalara-estas-aplicaciones-windows-11-1330836'>Microsoft ya no preinstalará estas aplicaciones en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-ya-no-preinstalara-estas-aplicaciones-windows-11-1330836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3088108.jpg?tf=1200x' alt='Microsoft ya no preinstalará estas aplicaciones en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-archivos-corruptos-windows-11-1324852'>Cómo recuperar archivos corruptos en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recuperar-archivos-corruptos-windows-11-1324852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-recuperar-archivos-corruptos-windows-11-3204128.jpg?tf=1200x' alt='Cómo recuperar archivos corruptos en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/instagram-spotify-consumen-70-mi-bateria-como-he-solucionado-1324464'>Instagram y Spotify consumen el 70% de mi batería, así es como lo he solucionado</a></h4>
-    <a href='https://computerhoy.com/moviles/instagram-spotify-consumen-70-mi-bateria-como-he-solucionado-1324464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/consumo-bateria-movil-3206390.jpg?tf=1200x' alt='Instagram y Spotify consumen el 70% de mi batería, así es como lo he solucionado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ordenador-portatil-enchufado-siempre-usar-bateria-guia-hacer-mejor-uso-1326248'>¿Ordenador portátil enchufado siempre o es mejor usar la batería?: guía para hacer un mejor uso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ordenador-portatil-enchufado-siempre-usar-bateria-guia-hacer-mejor-uso-1326248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ordenador-portatil-3208094.jpg?tf=1200x' alt='¿Ordenador portátil enchufado siempre o es mejor usar la batería?: guía para hacer un mejor uso' />
     </a>
 </div>
 
