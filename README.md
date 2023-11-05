@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-usb-movil-android-transferir-archivos-1326228'>Cómo conectar una memoria USB a tu móvil Android para transferir archivos en un instante</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-conectar-usb-movil-android-transferir-archivos-1326228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-conectar-memoria-usb-movil-android-transferir-archivos-instante-3206384.jpg?tf=1200x' alt='Cómo conectar una memoria USB a tu móvil Android para transferir archivos en un instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/extrana-tienda-batidos-impulsada-ia-ha-cerrado-noche-manana-1330850'>La extraña tienda de batidos impulsada por IA que ha cerrado de la noche a la mañana</a></h4>
     <a href='https://computerhoy.com/life/extrana-tienda-batidos-impulsada-ia-ha-cerrado-noche-manana-1330850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/betterblends-3214396.jpg?tf=1200x' alt='La extraña tienda de batidos impulsada por IA que ha cerrado de la noche a la mañana' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/todo-puedes-hacer-forma-legal-no-tanto-flipper-zero-1328706'>Todo lo que puedes hacer de forma legal (o no tanto) con un Flipper Zero, el tamagotchi para hackers</a></h4>
     <a href='https://computerhoy.com/tecnologia/todo-puedes-hacer-forma-legal-no-tanto-flipper-zero-1328706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/flipper-zero-3212224.jpg?tf=1200x' alt='Todo lo que puedes hacer de forma legal (o no tanto) con un Flipper Zero, el tamagotchi para hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-rompe-web-auriculares-conduccion-osea-precio-saldo-1329438'>AliExpress rompe su web con unos auriculares de conducción ósea a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-rompe-web-auriculares-conduccion-osea-precio-saldo-1329438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/soundpeats-runfree-lite-3211906.jpg?tf=1200x' alt='AliExpress rompe su web con unos auriculares de conducción ósea a precio de saldo' />
     </a>
 </div>
 
