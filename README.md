@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-sobrevivir-ictus-derrame-cerebral-cuando-no-hay-nadie-cerca-1330616'>Cómo sobrevivir a un ictus o derrame cerebral cuando no hay nadie cerca, según el SAMU</a></h4>
+    <a href='https://computerhoy.com/life/como-sobrevivir-ictus-derrame-cerebral-cuando-no-hay-nadie-cerca-1330616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-sobrevivir-ictus-derrame-cerebral-cuando-no-hay-nadie-cerca-samu-3214124.jpg?tf=1200x' alt='Cómo sobrevivir a un ictus o derrame cerebral cuando no hay nadie cerca, según el SAMU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cafeteria-japonesa-no-puedes-hablar-1330614'>Un Café Sin Palabras, la única cafetería del mundo en donde no se puede hablar, ni siquiera para pedir</a></h4>
     <a href='https://computerhoy.com/life/cafeteria-japonesa-no-puedes-hablar-1330614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cafe-palabras-unica-cafeteria-mundo-donde-no-puede-hablar-ni-siquiera-pedir-3214118.jpg?tf=1200x' alt='Un Café Sin Palabras, la única cafetería del mundo en donde no se puede hablar, ni siquiera para pedir' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/actualizacion-reciente-trae-malas-noticias-usuarios-android-auto-cable-1330588'>La actualización más reciente trae malas noticias a los usuarios de Android Auto con cable</a></h4>
     <a href='https://computerhoy.com/android/actualizacion-reciente-trae-malas-noticias-usuarios-android-auto-cable-1330588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-activar-modo-dios-android-auto-3099448.jpg?tf=1200x' alt='La actualización más reciente trae malas noticias a los usuarios de Android Auto con cable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/samsung-galaxy-a34-5g-mejor-gama-media-android-ahora-solo-350-euros-1330574'>El Samsung Galaxy A34 es el gama media perfecto ahora que está rebajado a menos de 350 euros</a></h4>
-    <a href='https://computerhoy.com/android/samsung-galaxy-a34-5g-mejor-gama-media-android-ahora-solo-350-euros-1330574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/samsung-galaxy-a34-3214058.jpg?tf=1200x' alt='El Samsung Galaxy A34 es el gama media perfecto ahora que está rebajado a menos de 350 euros' />
     </a>
 </div>
 
