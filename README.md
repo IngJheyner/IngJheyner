@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-rompe-web-auriculares-conduccion-osea-precio-saldo-1329438'>AliExpress rompe su web con unos auriculares de conducción ósea a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-rompe-web-auriculares-conduccion-osea-precio-saldo-1329438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/soundpeats-runfree-lite-3211906.jpg?tf=1200x' alt='AliExpress rompe su web con unos auriculares de conducción ósea a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-ya-no-preinstalara-estas-aplicaciones-windows-11-1330836'>Microsoft ya no preinstalará estas aplicaciones en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-ya-no-preinstalara-estas-aplicaciones-windows-11-1330836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3088108.jpg?tf=1200x' alt='Microsoft ya no preinstalará estas aplicaciones en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-archivos-corruptos-windows-11-1324852'>Cómo recuperar archivos corruptos en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-archivos-corruptos-windows-11-1324852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-recuperar-archivos-corruptos-windows-11-3204128.jpg?tf=1200x' alt='Cómo recuperar archivos corruptos en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/instagram-spotify-consumen-70-mi-bateria-como-he-solucionado-1324464'>Instagram y Spotify consumen el 70% de mi batería, así es como lo he solucionado</a></h4>
+    <a href='https://computerhoy.com/moviles/instagram-spotify-consumen-70-mi-bateria-como-he-solucionado-1324464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/consumo-bateria-movil-3206390.jpg?tf=1200x' alt='Instagram y Spotify consumen el 70% de mi batería, así es como lo he solucionado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ordenador-portatil-enchufado-siempre-usar-bateria-guia-hacer-mejor-uso-1326248'>¿Ordenador portátil enchufado siempre o es mejor usar la batería?: guía para hacer un mejor uso</a></h4>
     <a href='https://computerhoy.com/tecnologia/ordenador-portatil-enchufado-siempre-usar-bateria-guia-hacer-mejor-uso-1326248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ordenador-portatil-3208094.jpg?tf=1200x' alt='¿Ordenador portátil enchufado siempre o es mejor usar la batería?: guía para hacer un mejor uso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/punto-cuantico-descubrimiento-ha-sido-reconocido-premio-nobel-quimica-2023-1321554'>¿Qué es un punto cuántico y por qué su descubrimiento ha sido reconocido con el premio Nobel de Química 2023?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/punto-cuantico-descubrimiento-ha-sido-reconocido-premio-nobel-quimica-2023-1321554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1699021720695-3213550.jpg?tf=1200x' alt='¿Qué es un punto cuántico y por qué su descubrimiento ha sido reconocido con el premio Nobel de Química 2023?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/google-maps-culinario-buscar-restaurante-bueno-bonito-barato-1329634'>Así es el Google Maps culinario para buscar un restaurante bueno, bonito y barato</a></h4>
-    <a href='https://computerhoy.com/internet/google-maps-culinario-buscar-restaurante-bueno-bonito-barato-1329634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-maps-culinario-buscar-restaurante-bueno-bonito-barato-3212480.jpg?tf=1200x' alt='Así es el Google Maps culinario para buscar un restaurante bueno, bonito y barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377'>Mejores secadoras de ropa pequeñas que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-secadoras-ropa-pequenas-puedes-comprar-1015377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/lavadora-secadora-2586445.jpg?tf=1200x' alt='Mejores secadoras de ropa pequeñas que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-obrero-podria-dejar-paro-millones-trabajadores-1330594'>El robot obrero que podría dejar en el paro a millones de trabajadores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-obrero-podria-dejar-paro-millones-trabajadores-1330594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hadrian-x-3214078.jpg?tf=1200x' alt='El robot obrero que podría dejar en el paro a millones de trabajadores' />
     </a>
 </div>
 
