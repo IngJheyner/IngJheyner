@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/max-elimina-resolucion-4k-usuarios-plan-clasico-1330920'>HBO Max y lo que está por venir: elimina la resolución 4K a los usuarios del plan estándar clásico en algunos países</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/max-elimina-resolucion-4k-usuarios-plan-clasico-1330920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hbo-max-venir-elimina-resolucion-4k-usuarios-plan-anuncios-3214564.jpg?tf=1200x' alt='HBO Max y lo que está por venir: elimina la resolución 4K a los usuarios del plan estándar clásico en algunos países' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mark-zuckerberg-lesiona-rotura-ligamento-cruzado-anterior-1330912'>Elon Musk está a salvo: Mark Zuckerberg se rompe y no podrá luchar en un año</a></h4>
     <a href='https://computerhoy.com/life/mark-zuckerberg-lesiona-rotura-ligamento-cruzado-anterior-1330912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-salvo-mark-zuckerberg-rompe-no-podra-luchar-ano-3214470.jpg?tf=1200x' alt='Elon Musk está a salvo: Mark Zuckerberg se rompe y no podrá luchar en un año' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-5-noviembre-2023-1330620'>Programación TV: ¿Qué ver hoy en televisión? Domingo 5 de noviembre de 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-5-noviembre-2023-1330620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-domingo-5-noviembre-2023-3214136.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Domingo 5 de noviembre de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ahora-apple-sabra-ha-derramado-liquido-mac-reducir-reclamaciones-garantias-falsas-1330864'>Ahora Apple sabrá si se ha derramado líquido en el Mac para reducir las reclamaciones de garantías falsas</a></h4>
-    <a href='https://computerhoy.com/apple/ahora-apple-sabra-ha-derramado-liquido-mac-reducir-reclamaciones-garantias-falsas-1330864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-macbook-pro-2464169.jpg?tf=1200x' alt='Ahora Apple sabrá si se ha derramado líquido en el Mac para reducir las reclamaciones de garantías falsas' />
     </a>
 </div>
 
