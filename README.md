@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-5-noviembre-2023-1330620'>Programación TV: ¿Qué ver hoy en televisión? Domingo 5 de noviembre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-5-noviembre-2023-1330620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-domingo-5-noviembre-2023-3214136.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Domingo 5 de noviembre de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ahora-apple-sabra-ha-derramado-liquido-mac-reducir-reclamaciones-garantias-falsas-1330864'>Ahora Apple sabrá si se ha derramado líquido en el Mac para reducir las reclamaciones de garantías falsas</a></h4>
+    <a href='https://computerhoy.com/apple/ahora-apple-sabra-ha-derramado-liquido-mac-reducir-reclamaciones-garantias-falsas-1330864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-macbook-pro-2464169.jpg?tf=1200x' alt='Ahora Apple sabrá si se ha derramado líquido en el Mac para reducir las reclamaciones de garantías falsas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-quiere-sepas-cuales-son-aplicaciones-seguras-play-store-1330856'>Google quiere que sepas cuáles son las aplicaciones más seguras de la Play Store</a></h4>
+    <a href='https://computerhoy.com/apps/google-quiere-sepas-cuales-son-aplicaciones-seguras-play-store-1330856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-play-protect-3202518.jpg?tf=1200x' alt='Google quiere que sepas cuáles son las aplicaciones más seguras de la Play Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-conectar-usb-movil-android-transferir-archivos-1326228'>Cómo conectar una memoria USB a tu móvil Android para transferir archivos en un instante</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-conectar-usb-movil-android-transferir-archivos-1326228' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-conectar-memoria-usb-movil-android-transferir-archivos-instante-3206384.jpg?tf=1200x' alt='Cómo conectar una memoria USB a tu móvil Android para transferir archivos en un instante' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/extrana-tienda-batidos-impulsada-ia-ha-cerrado-noche-manana-1330850'>La extraña tienda de batidos impulsada por IA que ha cerrado de la noche a la mañana</a></h4>
     <a href='https://computerhoy.com/life/extrana-tienda-batidos-impulsada-ia-ha-cerrado-noche-manana-1330850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/betterblends-3214396.jpg?tf=1200x' alt='La extraña tienda de batidos impulsada por IA que ha cerrado de la noche a la mañana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/direccion-correo-desechable-son-como-crearlas-sirven-1325176'>Dirección de correo desechable: qué son, cómo crear una y para qué necesitas un email de un solo uso</a></h4>
-    <a href='https://computerhoy.com/tutoriales/direccion-correo-desechable-son-como-crearlas-sirven-1325176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/email-papelera-3212238.jpg?tf=1200x' alt='Dirección de correo desechable: qué son, cómo crear una y para qué necesitas un email de un solo uso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-probando-nueva-barra-herramientas-chrome-adapta-cualquier-tamano-ventana-1330846'>Google está probando una nueva barra de herramientas para Chrome que se adapta a cualquier tamaño de ventana</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-probando-nueva-barra-herramientas-chrome-adapta-cualquier-tamano-ventana-1330846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-chrome-3021946.jpg?tf=1200x' alt='Google está probando una nueva barra de herramientas para Chrome que se adapta a cualquier tamaño de ventana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-puedes-hacer-forma-legal-no-tanto-flipper-zero-1328706'>Todo lo que puedes hacer de forma legal (o no tanto) con un Flipper Zero, el tamagotchi para hackers</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-puedes-hacer-forma-legal-no-tanto-flipper-zero-1328706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/flipper-zero-3212224.jpg?tf=1200x' alt='Todo lo que puedes hacer de forma legal (o no tanto) con un Flipper Zero, el tamagotchi para hackers' />
     </a>
 </div>
 
