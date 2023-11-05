@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/alienware-construye-teclado-mecanico-raton-mas-grandes-mundo-1330896'>Alienware construye el teclado y el ratón más grandes del mundo, y consiguen ganar una partida al DotA</a></h4>
+    <a href='https://computerhoy.com/pc/alienware-construye-teclado-mecanico-raton-mas-grandes-mundo-1330896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/alienware-construye-teclado-raton-grandes-mundo-completamente-funcionales-3214454.jpg?tf=1200x' alt='Alienware construye el teclado y el ratón más grandes del mundo, y consiguen ganar una partida al DotA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/prueba-estres-ps5-slim-tiene-dos-desventajas-1330882'>Someten a la PS5 Slim a una prueba de estrés de 8 horas, y revela dos desventajas</a></h4>
+    <a href='https://computerhoy.com/gaming/prueba-estres-ps5-slim-tiene-dos-desventajas-1330882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/someten-ps5-slim-prueba-estres-revela-dos-desventajas-modelo-actual-3214420.jpg?tf=1200x' alt='Someten a la PS5 Slim a una prueba de estrés de 8 horas, y revela dos desventajas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-5-noviembre-2023-1330620'>Programación TV: ¿Qué ver hoy en televisión? Domingo 5 de noviembre de 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-5-noviembre-2023-1330620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-domingo-5-noviembre-2023-3214136.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Domingo 5 de noviembre de 2023' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-quiere-sepas-cuales-son-aplicaciones-seguras-play-store-1330856'>Google quiere que sepas cuáles son las aplicaciones más seguras de la Play Store</a></h4>
     <a href='https://computerhoy.com/apps/google-quiere-sepas-cuales-son-aplicaciones-seguras-play-store-1330856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-play-protect-3202518.jpg?tf=1200x' alt='Google quiere que sepas cuáles son las aplicaciones más seguras de la Play Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-usb-movil-android-transferir-archivos-1326228'>Cómo conectar una memoria USB a tu móvil Android para transferir archivos en un instante</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-conectar-usb-movil-android-transferir-archivos-1326228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-conectar-memoria-usb-movil-android-transferir-archivos-instante-3206384.jpg?tf=1200x' alt='Cómo conectar una memoria USB a tu móvil Android para transferir archivos en un instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/extrana-tienda-batidos-impulsada-ia-ha-cerrado-noche-manana-1330850'>La extraña tienda de batidos impulsada por IA que ha cerrado de la noche a la mañana</a></h4>
-    <a href='https://computerhoy.com/life/extrana-tienda-batidos-impulsada-ia-ha-cerrado-noche-manana-1330850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/betterblends-3214396.jpg?tf=1200x' alt='La extraña tienda de batidos impulsada por IA que ha cerrado de la noche a la mañana' />
     </a>
 </div>
 
