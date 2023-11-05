@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/que-lavadora-secadora-me-compro-1000455'>Qué lavadora secadora me compro: 5 modelos de Samsung, Bosch y otras marcas que merecen la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/que-lavadora-secadora-me-compro-1000455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lavadora-3030328.jpg?tf=1200x' alt='Qué lavadora secadora me compro: 5 modelos de Samsung, Bosch y otras marcas que merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/como-sobrevivir-ictus-derrame-cerebral-cuando-no-hay-nadie-cerca-1330616'>Cómo sobrevivir a un ictus o derrame cerebral cuando no hay nadie cerca, según el SAMU</a></h4>
     <a href='https://computerhoy.com/life/como-sobrevivir-ictus-derrame-cerebral-cuando-no-hay-nadie-cerca-1330616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-sobrevivir-ictus-derrame-cerebral-cuando-no-hay-nadie-cerca-samu-3214124.jpg?tf=1200x' alt='Cómo sobrevivir a un ictus o derrame cerebral cuando no hay nadie cerca, según el SAMU' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-nueva-tecnologia-seguimiento-ocular-realidad-mixta-1330608'>Microsoft piensa en una nueva tecnología de seguimiento ocular para realidad mixta</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-piensa-nueva-tecnologia-seguimiento-ocular-realidad-mixta-1330608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/hololens-2606583.jpg?tf=1200x' alt='Microsoft piensa en una nueva tecnología de seguimiento ocular para realidad mixta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/actualizacion-reciente-trae-malas-noticias-usuarios-android-auto-cable-1330588'>La actualización más reciente trae malas noticias a los usuarios de Android Auto con cable</a></h4>
-    <a href='https://computerhoy.com/android/actualizacion-reciente-trae-malas-noticias-usuarios-android-auto-cable-1330588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-activar-modo-dios-android-auto-3099448.jpg?tf=1200x' alt='La actualización más reciente trae malas noticias a los usuarios de Android Auto con cable' />
     </a>
 </div>
 
