@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mark-zuckerberg-lesiona-rotura-ligamento-cruzado-anterior-1330912'>Elon Musk está a salvo: Mark Zuckerberg se rompe y no podrá luchar en un año</a></h4>
+    <a href='https://computerhoy.com/life/mark-zuckerberg-lesiona-rotura-ligamento-cruzado-anterior-1330912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-salvo-mark-zuckerberg-rompe-no-podra-luchar-ano-3214470.jpg?tf=1200x' alt='Elon Musk está a salvo: Mark Zuckerberg se rompe y no podrá luchar en un año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/alienware-construye-teclado-mecanico-raton-mas-grandes-mundo-1330896'>Alienware construye el teclado y el ratón más grandes del mundo, y consiguen ganar una partida al DotA</a></h4>
     <a href='https://computerhoy.com/pc/alienware-construye-teclado-mecanico-raton-mas-grandes-mundo-1330896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/alienware-construye-teclado-raton-grandes-mundo-completamente-funcionales-3214454.jpg?tf=1200x' alt='Alienware construye el teclado y el ratón más grandes del mundo, y consiguen ganar una partida al DotA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/ahora-apple-sabra-ha-derramado-liquido-mac-reducir-reclamaciones-garantias-falsas-1330864'>Ahora Apple sabrá si se ha derramado líquido en el Mac para reducir las reclamaciones de garantías falsas</a></h4>
     <a href='https://computerhoy.com/apple/ahora-apple-sabra-ha-derramado-liquido-mac-reducir-reclamaciones-garantias-falsas-1330864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/apple-macbook-pro-2464169.jpg?tf=1200x' alt='Ahora Apple sabrá si se ha derramado líquido en el Mac para reducir las reclamaciones de garantías falsas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-quiere-sepas-cuales-son-aplicaciones-seguras-play-store-1330856'>Google quiere que sepas cuáles son las aplicaciones más seguras de la Play Store</a></h4>
-    <a href='https://computerhoy.com/apps/google-quiere-sepas-cuales-son-aplicaciones-seguras-play-store-1330856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-play-protect-3202518.jpg?tf=1200x' alt='Google quiere que sepas cuáles son las aplicaciones más seguras de la Play Store' />
     </a>
 </div>
 
