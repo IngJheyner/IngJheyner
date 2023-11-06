@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/airtags-gratis-iniciativa-quiere-evitar-robo-coches-dispositivo-apple-1331296'>AirTags gratis: esta iniciativa quiere evitar el robo de coches con este dispositivo de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/airtags-gratis-iniciativa-quiere-evitar-robo-coches-dispositivo-apple-1331296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airtag-2696073.jpg?tf=1200x' alt='AirTags gratis: esta iniciativa quiere evitar el robo de coches con este dispositivo de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/coches-electricos-causan-50-accidentes-resto-estos-motivos-1331238'>Los coches eléctricos causan un 50% más de accidentes que el resto por estos motivos</a></h4>
     <a href='https://computerhoy.com/motor/coches-electricos-causan-50-accidentes-resto-estos-motivos-1331238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/coches-electricos-accidentes-3215030.jpg?tf=1200x' alt='Los coches eléctricos causan un 50% más de accidentes que el resto por estos motivos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/problema-bateria-apple-watch-solucionara-pronto-1331138'>El problema de batería del Apple Watch se solucionará pronto</a></h4>
     <a href='https://computerhoy.com/apple/problema-bateria-apple-watch-solucionara-pronto-1331138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-series-9-3135646.jpg?tf=1200x' alt='El problema de batería del Apple Watch se solucionará pronto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/convertiran-baterias-sodio-alternativa-litio-1331128'>¿Se convertirán las baterías de sodio en una alternativa al litio?</a></h4>
-    <a href='https://computerhoy.com/motor/convertiran-baterias-sodio-alternativa-litio-1331128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/baterias-sodio-3214904.jpg?tf=1200x' alt='¿Se convertirán las baterías de sodio en una alternativa al litio?' />
     </a>
 </div>
 
