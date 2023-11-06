@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-4-toques-fire-tv-mejora-calidad-sonido-1330240'>El truco de los 4 toques del Amazon Fire TV que mejora la calidad de sonido al instante</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-4-toques-fire-tv-mejora-calidad-sonido-1330240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/truco-4-toques-amazon-fire-tv-mejora-calidad-sonido-instante-3213624.jpg?tf=1200x' alt='El truco de los 4 toques del Amazon Fire TV que mejora la calidad de sonido al instante' />
+    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-radiador-electrico-consumo-arrasa-ventas-amazon-1330082'>Liquidación en un radiador eléctrico de bajo consumo que arrasa en ventas en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/liquidacion-radiador-electrico-consumo-arrasa-ventas-amazon-1330082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/orbegozo-rre-1810-3213104.jpg?tf=1200x' alt='Liquidación en un radiador eléctrico de bajo consumo que arrasa en ventas en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hackean-google-maps-google-momento-no-puede-hacer-nada-evitarlo-1331436'>Consiguen hackear Google Maps y Google, de momento, no puede hacer nada para evitarlo</a></h4>
-    <a href='https://computerhoy.com/life/hackean-google-maps-google-momento-no-puede-hacer-nada-evitarlo-1331436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nueva-tactica-negocios-burlan-google-aparecen-primeros-google-maps-3215372.jpg?tf=1200x' alt='Consiguen hackear Google Maps y Google, de momento, no puede hacer nada para evitarlo' />
+    <h4><a href='https://computerhoy.com/life/simar-khurana-desarrolladora-videojuegos-joven-mundo-1331586'>Simar Khurana, la niña que con 6 años que ya es genio de la programación y desarrolladora de videojuegos más joven del mundo</a></h4>
+    <a href='https://computerhoy.com/life/simar-khurana-desarrolladora-videojuegos-joven-mundo-1331586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/simar-khurana-nina-6-anos-ya-genio-programacion-desarrolladora-videojuegos-joven-mundo-3215636.jpg?tf=1200x' alt='Simar Khurana, la niña que con 6 años que ya es genio de la programación y desarrolladora de videojuegos más joven del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/brutal-portatil-gaming-tiene-16gb-ram-rtx-3050-cuesta-300-euros-menos-amazon-1331112'>Este brutal portátil gaming tiene 16GB de RAM, RTX 3050 y cuesta 300 euros menos en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/brutal-portatil-gaming-tiene-16gb-ram-rtx-3050-cuesta-300-euros-menos-amazon-1331112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-ideapad-gaming-3-gen-7-3214782.jpg?tf=1200x' alt='Este brutal portátil gaming tiene 16GB de RAM, RTX 3050 y cuesta 300 euros menos en Amazon' />
+    <h4><a href='https://computerhoy.com/motor/truco-80-pocos-conductores-coche-electrico-conocen-1331568'>El truco del 80% que pocos conductores de coche eléctrico conocen: ahorra dinero y salud de la batería </a></h4>
+    <a href='https://computerhoy.com/motor/truco-80-pocos-conductores-coche-electrico-conocen-1331568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/truco-80-pocos-conductores-coche-electrico-conocen-ahorra-dinero-salud-bateria-3215602.jpg?tf=1200x' alt='El truco del 80% que pocos conductores de coche eléctrico conocen: ahorra dinero y salud de la batería ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/trucos-android-auto-todo-conductor-debe-conocer-1330322'>10 trucos de Android Auto que todo conductor debe conocer obligatoriamente</a></h4>
-    <a href='https://computerhoy.com/android/trucos-android-auto-todo-conductor-debe-conocer-1330322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/10-trucos-android-auto-todo-conductor-debe-conocer-obligatoriamente-3213770.jpg?tf=1200x' alt='10 trucos de Android Auto que todo conductor debe conocer obligatoriamente' />
+    <h4><a href='https://computerhoy.com/tecnologia/buenas-noticias-nuevo-estudio-asegura-ia-no-te-quitara-trabajo-solo-transformara-1331608'>Buenas noticias: un nuevo estudio asegura que la IA no te quitará tu trabajo, solo lo transformará</a></h4>
+    <a href='https://computerhoy.com/tecnologia/buenas-noticias-nuevo-estudio-asegura-ia-no-te-quitara-trabajo-solo-transformara-1331608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inteligencia-artificial-3215668.jpg?tf=1200x' alt='Buenas noticias: un nuevo estudio asegura que la IA no te quitará tu trabajo, solo lo transformará' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/estar-hora-internet-espana-cuesta-217-millones-euros-1331396'>Estar una hora sin Internet en España cuesta 21,7 millones de euros</a></h4>
-    <a href='https://computerhoy.com/internet/estar-hora-internet-espana-cuesta-217-millones-euros-1331396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lluvia-dinero-3215384.jpg?tf=1200x' alt='Estar una hora sin Internet en España cuesta 21,7 millones de euros' />
+    <h4><a href='https://computerhoy.com/espacio/pasaria-tierra-comenzara-girar-reves-1321598'>Esto es lo que pasaría si la Tierra comenzara a girar en sentido contrario</a></h4>
+    <a href='https://computerhoy.com/espacio/pasaria-tierra-comenzara-girar-reves-1321598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pasaria-tierra-girara-reves-3198708.jpg?tf=1200x' alt='Esto es lo que pasaría si la Tierra comenzara a girar en sentido contrario' />
     </a>
 </div>
 
