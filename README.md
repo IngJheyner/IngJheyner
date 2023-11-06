@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/estar-hora-internet-espana-cuesta-217-millones-euros-1331396'>Estar una hora sin Internet en España cuesta 21,7 millones de euros</a></h4>
+    <a href='https://computerhoy.com/internet/estar-hora-internet-espana-cuesta-217-millones-euros-1331396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lluvia-dinero-3215384.jpg?tf=1200x' alt='Estar una hora sin Internet en España cuesta 21,7 millones de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/trucos-proteger-bateria-movil-1329572'>5 sencillos trucos que te ayudan a proteger la batería de tu móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/trucos-proteger-bateria-movil-1329572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/bateria-movil-baja-3215262.jpg?tf=1200x' alt='5 sencillos trucos que te ayudan a proteger la batería de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/albert-einstein-intento-asaltar-banca-casino-dio-cuenta-era-imposible-1330178'>El día que Albert Einstein intentó “asaltar la banca” en un casino, y se dio cuenta de que era imposible</a></h4>
+    <a href='https://computerhoy.com/ciencia/albert-einstein-intento-asaltar-banca-casino-dio-cuenta-era-imposible-1330178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/einstein-ruleta-casino-3215256.jpg?tf=1200x' alt='El día que Albert Einstein intentó “asaltar la banca” en un casino, y se dio cuenta de que era imposible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-libros-epub-gratis-1224782'>Cómo descargar libros en ePub gratis</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-libros-epub-gratis-1224782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/libros-digitales-1893173.jpg?tf=1200x' alt='Cómo descargar libros en ePub gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/airtags-gratis-iniciativa-quiere-evitar-robo-coches-dispositivo-apple-1331296'>AirTags gratis: esta iniciativa quiere evitar el robo de coches con este dispositivo de Apple</a></h4>
     <a href='https://computerhoy.com/apple/airtags-gratis-iniciativa-quiere-evitar-robo-coches-dispositivo-apple-1331296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airtag-2696073.jpg?tf=1200x' alt='AirTags gratis: esta iniciativa quiere evitar el robo de coches con este dispositivo de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coches-electricos-causan-50-accidentes-resto-estos-motivos-1331238'>Los coches eléctricos causan un 50% más de accidentes que el resto por estos motivos</a></h4>
-    <a href='https://computerhoy.com/motor/coches-electricos-causan-50-accidentes-resto-estos-motivos-1331238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/coches-electricos-accidentes-3215030.jpg?tf=1200x' alt='Los coches eléctricos causan un 50% más de accidentes que el resto por estos motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-thermomix-amazon-deja-minimo-robot-cocina-todos-quieren-1331104'>Olvida la Thermomix: Amazon deja al mínimo el robot de cocina que todos quieren</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-thermomix-amazon-deja-minimo-robot-cocina-todos-quieren-1331104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cecotec-mambo-10070-3214772.jpg?tf=1200x' alt='Olvida la Thermomix: Amazon deja al mínimo el robot de cocina que todos quieren' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/halo-dispositivo-te-permitira-controlar-suenos-como-desees-1331258'>Así es Halo, el dispositivo que te permitirá controlar tus sueños como desees</a></h4>
-    <a href='https://computerhoy.com/tecnologia/halo-dispositivo-te-permitira-controlar-suenos-como-desees-1331258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/suenos-3215052.jpg?tf=1200x' alt='Así es Halo, el dispositivo que te permitirá controlar tus sueños como desees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/problema-bateria-apple-watch-solucionara-pronto-1331138'>El problema de batería del Apple Watch se solucionará pronto</a></h4>
-    <a href='https://computerhoy.com/apple/problema-bateria-apple-watch-solucionara-pronto-1331138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-series-9-3135646.jpg?tf=1200x' alt='El problema de batería del Apple Watch se solucionará pronto' />
     </a>
 </div>
 
