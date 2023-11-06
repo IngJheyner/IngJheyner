@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/10-moviles-vendidos-mundo-segundo-trimestre-2023-1324396'>Los 10 móviles más vendidos en el mundo en el segundo trimestre dibujan un panorama con 2 grandes dominadores</a></h4>
+    <a href='https://computerhoy.com/moviles/10-moviles-vendidos-mundo-segundo-trimestre-2023-1324396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/moviles-vendidos-3204180.jpg?tf=1200x' alt='Los 10 móviles más vendidos en el mundo en el segundo trimestre dibujan un panorama con 2 grandes dominadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033'>Tablets que son tan potentes como un ordenador portátil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/galaxy-tab-s9-ultra-funda-teclado-3206620.jpg?tf=1200x' alt='Tablets que son tan potentes como un ordenador portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/caldo-pollo-ayuda-curar-resfriado-gripe-1330922'>¿Es cierto que el caldo de pollo ayuda a curar el resfriado y la gripe? Un nutricionista responde</a></h4>
     <a href='https://computerhoy.com/alimentacion/caldo-pollo-ayuda-curar-resfriado-gripe-1330922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cierto-caldo-pollo-ayuda-curar-resfriado-gripe-nutricionista-responde-3214570.jpg?tf=1200x' alt='¿Es cierto que el caldo de pollo ayuda a curar el resfriado y la gripe? Un nutricionista responde' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/mark-zuckerberg-lesiona-rotura-ligamento-cruzado-anterior-1330912'>Elon Musk está a salvo: Mark Zuckerberg se rompe y no podrá luchar en un año</a></h4>
     <a href='https://computerhoy.com/life/mark-zuckerberg-lesiona-rotura-ligamento-cruzado-anterior-1330912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-salvo-mark-zuckerberg-rompe-no-podra-luchar-ano-3214470.jpg?tf=1200x' alt='Elon Musk está a salvo: Mark Zuckerberg se rompe y no podrá luchar en un año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/alienware-construye-teclado-mecanico-raton-mas-grandes-mundo-1330896'>Alienware construye el teclado y el ratón más grandes del mundo, y consiguen ganar una partida al DotA</a></h4>
-    <a href='https://computerhoy.com/pc/alienware-construye-teclado-mecanico-raton-mas-grandes-mundo-1330896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/alienware-construye-teclado-raton-grandes-mundo-completamente-funcionales-3214454.jpg?tf=1200x' alt='Alienware construye el teclado y el ratón más grandes del mundo, y consiguen ganar una partida al DotA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/prueba-estres-ps5-slim-tiene-dos-desventajas-1330882'>Someten a la PS5 Slim a una prueba de estrés de 8 horas, y revela dos desventajas</a></h4>
-    <a href='https://computerhoy.com/gaming/prueba-estres-ps5-slim-tiene-dos-desventajas-1330882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/someten-ps5-slim-prueba-estres-revela-dos-desventajas-modelo-actual-3214420.jpg?tf=1200x' alt='Someten a la PS5 Slim a una prueba de estrés de 8 horas, y revela dos desventajas' />
     </a>
 </div>
 
