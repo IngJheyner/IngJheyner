@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/10-moviles-vendidos-mundo-segundo-trimestre-2023-1324396'>Los 10 móviles más vendidos en el mundo en el segundo trimestre dibujan un panorama con 2 grandes dominadores</a></h4>
-    <a href='https://computerhoy.com/moviles/10-moviles-vendidos-mundo-segundo-trimestre-2023-1324396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/moviles-vendidos-3204180.jpg?tf=1200x' alt='Los 10 móviles más vendidos en el mundo en el segundo trimestre dibujan un panorama con 2 grandes dominadores' />
+    <h4><a href='https://computerhoy.com/motor/convertiran-baterias-sodio-alternativa-litio-1331128'>¿Se convertirán las baterías de sodio en una alternativa al litio?</a></h4>
+    <a href='https://computerhoy.com/motor/convertiran-baterias-sodio-alternativa-litio-1331128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/baterias-sodio-3214904.jpg?tf=1200x' alt='¿Se convertirán las baterías de sodio en una alternativa al litio?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033'>Tablets que son tan potentes como un ordenador portátil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/galaxy-tab-s9-ultra-funda-teclado-3206620.jpg?tf=1200x' alt='Tablets que son tan potentes como un ordenador portátil' />
+    <h4><a href='https://computerhoy.com/android/android-auto-108-ya-disponible-estas-son-todas-novedades-1331136'>Ya está disponible para todos Android Auto 10.8 con todas estas novedades</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-108-ya-disponible-estas-son-todas-novedades-1331136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-liberar-android-auto-desbloquear-funciones-ocultas-3148184.jpg?tf=1200x' alt='Ya está disponible para todos Android Auto 10.8 con todas estas novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/caldo-pollo-ayuda-curar-resfriado-gripe-1330922'>¿Es cierto que el caldo de pollo ayuda a curar el resfriado y la gripe? Un nutricionista responde</a></h4>
-    <a href='https://computerhoy.com/alimentacion/caldo-pollo-ayuda-curar-resfriado-gripe-1330922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cierto-caldo-pollo-ayuda-curar-resfriado-gripe-nutricionista-responde-3214570.jpg?tf=1200x' alt='¿Es cierto que el caldo de pollo ayuda a curar el resfriado y la gripe? Un nutricionista responde' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-televisor-qled-50-pulgadas-queda-precio-derribo-1331142'>Amazon está liquidando un televisor QLED de 50 pulgadas que queda a precio de derribo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-televisor-qled-50-pulgadas-queda-precio-derribo-1331142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hisense-50a7kq-3214806.jpg?tf=1200x' alt='Amazon está liquidando un televisor QLED de 50 pulgadas que queda a precio de derribo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/max-elimina-resolucion-4k-usuarios-plan-clasico-1330920'>HBO Max y lo que está por venir: elimina la resolución 4K a los usuarios del plan estándar clásico en algunos países</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/max-elimina-resolucion-4k-usuarios-plan-clasico-1330920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hbo-max-venir-elimina-resolucion-4k-usuarios-plan-anuncios-3214564.jpg?tf=1200x' alt='HBO Max y lo que está por venir: elimina la resolución 4K a los usuarios del plan estándar clásico en algunos países' />
+    <h4><a href='https://computerhoy.com/apple/apple-prepara-presentar-nuevos-ipads-2024-sabe-lanzamiento-1331124'>Apple prepara una oleada de novedades: actualizaciones en toda su línea de iPad en 2024</a></h4>
+    <a href='https://computerhoy.com/apple/apple-prepara-presentar-nuevos-ipads-2024-sabe-lanzamiento-1331124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897864.jpg?tf=1200x' alt='Apple prepara una oleada de novedades: actualizaciones en toda su línea de iPad en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mark-zuckerberg-lesiona-rotura-ligamento-cruzado-anterior-1330912'>Elon Musk está a salvo: Mark Zuckerberg se rompe y no podrá luchar en un año</a></h4>
-    <a href='https://computerhoy.com/life/mark-zuckerberg-lesiona-rotura-ligamento-cruzado-anterior-1330912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-salvo-mark-zuckerberg-rompe-no-podra-luchar-ano-3214470.jpg?tf=1200x' alt='Elon Musk está a salvo: Mark Zuckerberg se rompe y no podrá luchar en un año' />
+    <h4><a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768'>Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-tv-f2-43-3190210.jpg?tf=1200x' alt='Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores' />
     </a>
 </div>
 
