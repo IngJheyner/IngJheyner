@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/caldo-pollo-ayuda-curar-resfriado-gripe-1330922'>¿Es cierto que el caldo de pollo ayuda a curar el resfriado y la gripe? Un nutricionista responde</a></h4>
+    <a href='https://computerhoy.com/alimentacion/caldo-pollo-ayuda-curar-resfriado-gripe-1330922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cierto-caldo-pollo-ayuda-curar-resfriado-gripe-nutricionista-responde-3214570.jpg?tf=1200x' alt='¿Es cierto que el caldo de pollo ayuda a curar el resfriado y la gripe? Un nutricionista responde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/max-elimina-resolucion-4k-usuarios-plan-clasico-1330920'>HBO Max y lo que está por venir: elimina la resolución 4K a los usuarios del plan estándar clásico en algunos países</a></h4>
     <a href='https://computerhoy.com/entretenimiento/max-elimina-resolucion-4k-usuarios-plan-clasico-1330920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hbo-max-venir-elimina-resolucion-4k-usuarios-plan-anuncios-3214564.jpg?tf=1200x' alt='HBO Max y lo que está por venir: elimina la resolución 4K a los usuarios del plan estándar clásico en algunos países' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/prueba-estres-ps5-slim-tiene-dos-desventajas-1330882'>Someten a la PS5 Slim a una prueba de estrés de 8 horas, y revela dos desventajas</a></h4>
     <a href='https://computerhoy.com/gaming/prueba-estres-ps5-slim-tiene-dos-desventajas-1330882' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/someten-ps5-slim-prueba-estres-revela-dos-desventajas-modelo-actual-3214420.jpg?tf=1200x' alt='Someten a la PS5 Slim a una prueba de estrés de 8 horas, y revela dos desventajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-5-noviembre-2023-1330620'>Programación TV: ¿Qué ver hoy en televisión? Domingo 5 de noviembre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-5-noviembre-2023-1330620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-domingo-5-noviembre-2023-3214136.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Domingo 5 de noviembre de 2023' />
     </a>
 </div>
 
