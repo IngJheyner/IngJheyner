@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/truco-4-toques-fire-tv-mejora-calidad-sonido-1330240'>El truco de los 4 toques del Amazon Fire TV que mejora la calidad de sonido al instante</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-4-toques-fire-tv-mejora-calidad-sonido-1330240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/truco-4-toques-amazon-fire-tv-mejora-calidad-sonido-instante-3213624.jpg?tf=1200x' alt='El truco de los 4 toques del Amazon Fire TV que mejora la calidad de sonido al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hackean-google-maps-google-momento-no-puede-hacer-nada-evitarlo-1331436'>Consiguen hackear Google Maps y Google, de momento, no puede hacer nada para evitarlo</a></h4>
+    <a href='https://computerhoy.com/life/hackean-google-maps-google-momento-no-puede-hacer-nada-evitarlo-1331436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nueva-tactica-negocios-burlan-google-aparecen-primeros-google-maps-3215372.jpg?tf=1200x' alt='Consiguen hackear Google Maps y Google, de momento, no puede hacer nada para evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/brutal-portatil-gaming-tiene-16gb-ram-rtx-3050-cuesta-300-euros-menos-amazon-1331112'>Este brutal portátil gaming tiene 16GB de RAM, RTX 3050 y cuesta 300 euros menos en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/brutal-portatil-gaming-tiene-16gb-ram-rtx-3050-cuesta-300-euros-menos-amazon-1331112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-ideapad-gaming-3-gen-7-3214782.jpg?tf=1200x' alt='Este brutal portátil gaming tiene 16GB de RAM, RTX 3050 y cuesta 300 euros menos en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/trucos-android-auto-todo-conductor-debe-conocer-1330322'>10 trucos de Android Auto que todo conductor debe conocer obligatoriamente</a></h4>
+    <a href='https://computerhoy.com/android/trucos-android-auto-todo-conductor-debe-conocer-1330322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/10-trucos-android-auto-todo-conductor-debe-conocer-obligatoriamente-3213770.jpg?tf=1200x' alt='10 trucos de Android Auto que todo conductor debe conocer obligatoriamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/estar-hora-internet-espana-cuesta-217-millones-euros-1331396'>Estar una hora sin Internet en España cuesta 21,7 millones de euros</a></h4>
     <a href='https://computerhoy.com/internet/estar-hora-internet-espana-cuesta-217-millones-euros-1331396' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lluvia-dinero-3215384.jpg?tf=1200x' alt='Estar una hora sin Internet en España cuesta 21,7 millones de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/trucos-proteger-bateria-movil-1329572'>5 sencillos trucos que te ayudan a proteger la batería de tu móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/trucos-proteger-bateria-movil-1329572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/bateria-movil-baja-3215262.jpg?tf=1200x' alt='5 sencillos trucos que te ayudan a proteger la batería de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/albert-einstein-intento-asaltar-banca-casino-dio-cuenta-era-imposible-1330178'>El día que Albert Einstein intentó “asaltar la banca” en un casino, y se dio cuenta de que era imposible</a></h4>
-    <a href='https://computerhoy.com/ciencia/albert-einstein-intento-asaltar-banca-casino-dio-cuenta-era-imposible-1330178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/einstein-ruleta-casino-3215256.jpg?tf=1200x' alt='El día que Albert Einstein intentó “asaltar la banca” en un casino, y se dio cuenta de que era imposible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-libros-epub-gratis-1224782'>Cómo descargar libros en ePub gratis</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-libros-epub-gratis-1224782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/libros-digitales-1893173.jpg?tf=1200x' alt='Cómo descargar libros en ePub gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/airtags-gratis-iniciativa-quiere-evitar-robo-coches-dispositivo-apple-1331296'>AirTags gratis: esta iniciativa quiere evitar el robo de coches con este dispositivo de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/airtags-gratis-iniciativa-quiere-evitar-robo-coches-dispositivo-apple-1331296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airtag-2696073.jpg?tf=1200x' alt='AirTags gratis: esta iniciativa quiere evitar el robo de coches con este dispositivo de Apple' />
     </a>
 </div>
 
