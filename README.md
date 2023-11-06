@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/coches-electricos-causan-50-accidentes-resto-estos-motivos-1331238'>Los coches eléctricos causan un 50% más de accidentes que el resto por estos motivos</a></h4>
+    <a href='https://computerhoy.com/motor/coches-electricos-causan-50-accidentes-resto-estos-motivos-1331238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/coches-electricos-accidentes-3215030.jpg?tf=1200x' alt='Los coches eléctricos causan un 50% más de accidentes que el resto por estos motivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-thermomix-amazon-deja-minimo-robot-cocina-todos-quieren-1331104'>Olvida la Thermomix: Amazon deja al mínimo el robot de cocina que todos quieren</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-thermomix-amazon-deja-minimo-robot-cocina-todos-quieren-1331104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cecotec-mambo-10070-3214772.jpg?tf=1200x' alt='Olvida la Thermomix: Amazon deja al mínimo el robot de cocina que todos quieren' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/halo-dispositivo-te-permitira-controlar-suenos-como-desees-1331258'>Así es Halo, el dispositivo que te permitirá controlar tus sueños como desees</a></h4>
+    <a href='https://computerhoy.com/tecnologia/halo-dispositivo-te-permitira-controlar-suenos-como-desees-1331258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/suenos-3215052.jpg?tf=1200x' alt='Así es Halo, el dispositivo que te permitirá controlar tus sueños como desees' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/problema-bateria-apple-watch-solucionara-pronto-1331138'>El problema de batería del Apple Watch se solucionará pronto</a></h4>
+    <a href='https://computerhoy.com/apple/problema-bateria-apple-watch-solucionara-pronto-1331138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-series-9-3135646.jpg?tf=1200x' alt='El problema de batería del Apple Watch se solucionará pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/convertiran-baterias-sodio-alternativa-litio-1331128'>¿Se convertirán las baterías de sodio en una alternativa al litio?</a></h4>
     <a href='https://computerhoy.com/motor/convertiran-baterias-sodio-alternativa-litio-1331128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/baterias-sodio-3214904.jpg?tf=1200x' alt='¿Se convertirán las baterías de sodio en una alternativa al litio?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-108-ya-disponible-estas-son-todas-novedades-1331136'>Ya está disponible para todos Android Auto 10.8 con todas estas novedades</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-108-ya-disponible-estas-son-todas-novedades-1331136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-liberar-android-auto-desbloquear-funciones-ocultas-3148184.jpg?tf=1200x' alt='Ya está disponible para todos Android Auto 10.8 con todas estas novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-televisor-qled-50-pulgadas-queda-precio-derribo-1331142'>Amazon está liquidando un televisor QLED de 50 pulgadas que queda a precio de derribo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-televisor-qled-50-pulgadas-queda-precio-derribo-1331142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hisense-50a7kq-3214806.jpg?tf=1200x' alt='Amazon está liquidando un televisor QLED de 50 pulgadas que queda a precio de derribo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-prepara-presentar-nuevos-ipads-2024-sabe-lanzamiento-1331124'>Apple prepara una oleada de novedades: actualizaciones en toda su línea de iPad en 2024</a></h4>
-    <a href='https://computerhoy.com/apple/apple-prepara-presentar-nuevos-ipads-2024-sabe-lanzamiento-1331124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897864.jpg?tf=1200x' alt='Apple prepara una oleada de novedades: actualizaciones en toda su línea de iPad en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768'>Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-tv-f2-43-3190210.jpg?tf=1200x' alt='Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores' />
     </a>
 </div>
 
