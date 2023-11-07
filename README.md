@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-reinventa-cuales-han-sido-ultimas-novedades-como-usarlas-1328648'>WhatsApp se reinventa: cuáles han sido sus últimas novedades y cómo usarlas</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-reinventa-cuales-han-sido-ultimas-novedades-como-usarlas-1328648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funcion-enviar-mensajes-audio-whatsapp-manos-sorprendentemente-casi-nadie-conoce-3204522.jpg?tf=1200x' alt='WhatsApp se reinventa: cuáles han sido sus últimas novedades y cómo usarlas' />
+    <h4><a href='https://computerhoy.com/apps/youtube-revoluciona-inteligencia-artificial-cambiara-forma-ver-videos-1331842'>YouTube se revoluciona y la inteligencia artificial cambiará tu forma de ver los vídeos</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-revoluciona-inteligencia-artificial-cambiara-forma-ver-videos-1331842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/youtube-3216000.jpg?tf=1200x' alt='YouTube se revoluciona y la inteligencia artificial cambiará tu forma de ver los vídeos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/mini-pc-potentes-baratos-1229866'>Estos mini PC pueden reemplazar a tu ordenador, son potentes y mucho más baratos</a></h4>
-    <a href='https://computerhoy.com/mejores/mini-pc-potentes-baratos-1229866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mini-pc-2955010.jpg?tf=1200x' alt='Estos mini PC pueden reemplazar a tu ordenador, son potentes y mucho más baratos' />
+    <h4><a href='https://computerhoy.com/tecnologia/cae-picado-precio-auriculares-favoritos-nothing-ear-2-son-40-euros-baratos-1331782'>Cae en picado el precio de unos nuestros auriculares favoritos, los Nothing Ear (2), que son 40 euros más baratos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cae-picado-precio-auriculares-favoritos-nothing-ear-2-son-40-euros-baratos-1331782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/nothing-ear-2-2989250.jpg?tf=1200x' alt='Cae en picado el precio de unos nuestros auriculares favoritos, los Nothing Ear (2), que son 40 euros más baratos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cual-forma-correcta-colocar-cubiertos-lavavajillas-1323342'>¿Cuál es la forma correcta de colocar los cubiertos en el lavavajillas?</a></h4>
-    <a href='https://computerhoy.com/life/cual-forma-correcta-colocar-cubiertos-lavavajillas-1323342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cual-forma-correcta-colocar-cubiertos-lavavajillas-3201900.jpg?tf=1200x' alt='¿Cuál es la forma correcta de colocar los cubiertos en el lavavajillas?' />
+    <h4><a href='https://computerhoy.com/tecnologia/openai-ya-te-permite-crear-propio-chatbot-estilo-chatgpt-saber-nada-programacion-1331824'>OpenAI ya te permite crear tu propio chatbot al estilo ChatGPT sin saber nada de programación</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-ya-te-permite-crear-propio-chatbot-estilo-chatgpt-saber-nada-programacion-1331824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-programacion-3105538.jpg?tf=1200x' alt='OpenAI ya te permite crear tu propio chatbot al estilo ChatGPT sin saber nada de programación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/crean-protesis-inyectable-hidrogel-rehabilita-musculos-1330572'>Desarrollan una prótesis inyectable de hidrogel que evita la cirugía y acorta la recuperación de lesiones</a></h4>
-    <a href='https://computerhoy.com/life/crean-protesis-inyectable-hidrogel-rehabilita-musculos-1330572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/desarrollan-protesis-hidrogel-rehabilita-musculos-traves-estimulacion-electrica-recuperar-lesiones-3214080.jpg?tf=1200x' alt='Desarrollan una prótesis inyectable de hidrogel que evita la cirugía y acorta la recuperación de lesiones' />
+    <h4><a href='https://computerhoy.com/mejores/mejores-servidores-nas-montar-nube-privada-1219132'>Mejores NAS para montar tu nube privada y pagar solo una vez</a></h4>
+    <a href='https://computerhoy.com/mejores/mejores-servidores-nas-montar-nube-privada-1219132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/wd-personal-cloud-3215726.jpg?tf=1200x' alt='Mejores NAS para montar tu nube privada y pagar solo una vez' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/actores-stranger-things-hacen-mayores-rejuvenecerlos-ia-1331636'>Los actores de Stranger Things se hacen mayores, el productor opina sobre rejuvenecerlos con IA en la última temporada</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/actores-stranger-things-hacen-mayores-rejuvenecerlos-ia-1331636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/stranger-things-1972469.jpg?tf=1200x' alt='Los actores de Stranger Things se hacen mayores, el productor opina sobre rejuvenecerlos con IA en la última temporada' />
+    <h4><a href='https://computerhoy.com/tecnologia/hace-10-anos-no-montaba-pc-problemas-aprendizajes-1327888'>Hace 10 años que no montaba un PC: estos son los problemas que me han sacado de quicio y lo que he aprendido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hace-10-anos-no-montaba-pc-problemas-aprendizajes-1327888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/componentes-pc-sobremesa-3209432.jpg?tf=1200x' alt='Hace 10 años que no montaba un PC: estos son los problemas que me han sacado de quicio y lo que he aprendido' />
     </a>
 </div>
 
