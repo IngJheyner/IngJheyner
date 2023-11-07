@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/actores-stranger-things-hacen-mayores-rejuvenecerlos-ia-1331636'>Los actores de Stranger Things se hacen mayores, el productor opina sobre rejuvenecerlos con IA en la última temporada</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/actores-stranger-things-hacen-mayores-rejuvenecerlos-ia-1331636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/stranger-things-1972469.jpg?tf=1200x' alt='Los actores de Stranger Things se hacen mayores, el productor opina sobre rejuvenecerlos con IA en la última temporada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-falso-hijo-whatsapp-bizum-mensaje-no-debes-contestar-1331628'>La estafa del falso hijo: WhatsApp, Bizum y un mensaje que no debes contestar nunca</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafa-falso-hijo-whatsapp-bizum-mensaje-no-debes-contestar-1331628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/estafa-falso-hijo-whatsapp-bizum-mensaje-no-debes-contestar-nunca-3215716.jpg?tf=1200x' alt='La estafa del falso hijo: WhatsApp, Bizum y un mensaje que no debes contestar nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-conferencia-desarrolladores-gpt-4-turbo-tienda-gpt-1331632'>OpenAI anuncia la inteligencia artificial a medida: crea tu propio ChatGPT sin programar, y gana dinero con él</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-conferencia-desarrolladores-gpt-4-turbo-tienda-gpt-1331632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/openai-anuncia-inteligencia-artificial-medida-crea-propio-chatgpt-gana-dinero-3215704.jpg?tf=1200x' alt='OpenAI anuncia la inteligencia artificial a medida: crea tu propio ChatGPT sin programar, y gana dinero con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/experimento-realidad-virtual-ratas-descubre-pueden-imaginar-1331596'>Un experimento de realidad virtual con ratas descubre que pueden recordar, imaginar y recrear los sitios en los que estuvieron </a></h4>
+    <a href='https://computerhoy.com/ciencia/experimento-realidad-virtual-ratas-descubre-pueden-imaginar-1331596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/experimento-realidad-virtual-ratas-descubre-pueden-recordar-imaginar-recrear-sitios-estuvieron-3215648.jpg?tf=1200x' alt='Un experimento de realidad virtual con ratas descubre que pueden recordar, imaginar y recrear los sitios en los que estuvieron ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/liquidacion-radiador-electrico-consumo-arrasa-ventas-amazon-1330082'>Liquidación en un radiador eléctrico de bajo consumo que arrasa en ventas en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/liquidacion-radiador-electrico-consumo-arrasa-ventas-amazon-1330082' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/orbegozo-rre-1810-3213104.jpg?tf=1200x' alt='Liquidación en un radiador eléctrico de bajo consumo que arrasa en ventas en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/simar-khurana-desarrolladora-videojuegos-joven-mundo-1331586'>Simar Khurana, la niña que con 6 años que ya es genio de la programación y desarrolladora de videojuegos más joven del mundo</a></h4>
-    <a href='https://computerhoy.com/life/simar-khurana-desarrolladora-videojuegos-joven-mundo-1331586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/simar-khurana-nina-6-anos-ya-genio-programacion-desarrolladora-videojuegos-joven-mundo-3215636.jpg?tf=1200x' alt='Simar Khurana, la niña que con 6 años que ya es genio de la programación y desarrolladora de videojuegos más joven del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/truco-80-pocos-conductores-coche-electrico-conocen-1331568'>El truco del 80% que pocos conductores de coche eléctrico conocen: ahorra dinero y salud de la batería </a></h4>
-    <a href='https://computerhoy.com/motor/truco-80-pocos-conductores-coche-electrico-conocen-1331568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/truco-80-pocos-conductores-coche-electrico-conocen-ahorra-dinero-salud-bateria-3215602.jpg?tf=1200x' alt='El truco del 80% que pocos conductores de coche eléctrico conocen: ahorra dinero y salud de la batería ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/buenas-noticias-nuevo-estudio-asegura-ia-no-te-quitara-trabajo-solo-transformara-1331608'>Buenas noticias: un nuevo estudio asegura que la IA no te quitará tu trabajo, solo lo transformará</a></h4>
-    <a href='https://computerhoy.com/tecnologia/buenas-noticias-nuevo-estudio-asegura-ia-no-te-quitara-trabajo-solo-transformara-1331608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inteligencia-artificial-3215668.jpg?tf=1200x' alt='Buenas noticias: un nuevo estudio asegura que la IA no te quitará tu trabajo, solo lo transformará' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/pasaria-tierra-comenzara-girar-reves-1321598'>Esto es lo que pasaría si la Tierra comenzara a girar en sentido contrario</a></h4>
-    <a href='https://computerhoy.com/espacio/pasaria-tierra-comenzara-girar-reves-1321598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pasaria-tierra-girara-reves-3198708.jpg?tf=1200x' alt='Esto es lo que pasaría si la Tierra comenzara a girar en sentido contrario' />
     </a>
 </div>
 
