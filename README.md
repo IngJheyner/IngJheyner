@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-abrir-correo-gmail-movil-279715'>Cómo abrir el correo de Gmail desde el móvil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-abrir-correo-gmail-movil-279715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/gmail-buena-calidad.jpg?tf=1200x' alt='Cómo abrir el correo de Gmail desde el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-wifi-1330292'>La regla de los 30 centímetros para aumentar la velocidad de tu Internet al instante</a></h4>
+    <a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-wifi-1330292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/regla-wifi-3216230.jpg?tf=1200x' alt='La regla de los 30 centímetros para aumentar la velocidad de tu Internet al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/son-coches-electricos-realmente-solucion-reducir-emisiones-estudio-plantea-dudas-1332022'>¿Son los coches eléctricos realmente la solución para reducir emisiones? Este estudio plantea dudas</a></h4>
+    <a href='https://computerhoy.com/motor/son-coches-electricos-realmente-solucion-reducir-emisiones-estudio-plantea-dudas-1332022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carga-coche-electrico-2922466.jpg?tf=1200x' alt='¿Son los coches eléctricos realmente la solución para reducir emisiones? Este estudio plantea dudas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cancion-creada-ia-estilo-bad-bunny-hace-viral-tiktok-propio-cantante-enfada-1331994'>Una canción creada por IA con "estilo Bad Bunny" se hace viral y el cantante se despacha a gusto en WhatsApp </a></h4>
+    <a href='https://computerhoy.com/tecnologia/cancion-creada-ia-estilo-bad-bunny-hace-viral-tiktok-propio-cantante-enfada-1331994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/bad-bunny-ia-3216278.jpg?tf=1200x' alt='Una canción creada por IA con "estilo Bad Bunny" se hace viral y el cantante se despacha a gusto en WhatsApp ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/google-maps-renueva-completo-android-auto-1331852'>Google Maps se renueva por completo en Android Auto con un diseño más moderno</a></h4>
     <a href='https://computerhoy.com/android/google-maps-renueva-completo-android-auto-1331852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/android-auto-3049794.jpg?tf=1200x' alt='Google Maps se renueva por completo en Android Auto con un diseño más moderno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/james-webb-nasa-muestra-como-era-sol-cuando-estaba-naciendo-1331956'>James Webb de la NASA muestra cómo habría sido el Sol cuando estaba naciendo</a></h4>
-    <a href='https://computerhoy.com/espacio/james-webb-nasa-muestra-como-era-sol-cuando-estaba-naciendo-1331956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/james-webb-sol-3216166.jpg?tf=1200x' alt='James Webb de la NASA muestra cómo habría sido el Sol cuando estaba naciendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/microsoft-promete-6-anos-actualizaciones-surface-1331856'>Microsoft promete 6 años de actualizaciones de software y seguridad para sus Surface</a></h4>
-    <a href='https://computerhoy.com/pc/microsoft-promete-6-anos-actualizaciones-surface-1331856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/microsoft-surface-laptop-4-1670570612587-2896316.jpg?tf=1200x' alt='Microsoft promete 6 años de actualizaciones de software y seguridad para sus Surface' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estan-liquidando-portatil-16gb-ram-i5-precio-ya-hito-pccomponentes-1331792'>Están liquidando este portátil con 16GB de RAM y con i5: su precio es ya un hito en PcComponentes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estan-liquidando-portatil-16gb-ram-i5-precio-ya-hito-pccomponentes-1331792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/medion-akoya-e15423-md62562-3215904.jpg?tf=1200x' alt='Están liquidando este portátil con 16GB de RAM y con i5: su precio es ya un hito en PcComponentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cuantos-anos-tienes-realmente-edad-biologica-importante-ano-naciste-1331876'>¿Cuántos años tienes realmente? Tu edad biológica es más importante que el año en el que naciste</a></h4>
-    <a href='https://computerhoy.com/ciencia/cuantos-anos-tienes-realmente-edad-biologica-importante-ano-naciste-1331876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/edad-jovenes-mayores-3216046.jpg?tf=1200x' alt='¿Cuántos años tienes realmente? Tu edad biológica es más importante que el año en el que naciste' />
     </a>
 </div>
 
