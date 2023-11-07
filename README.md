@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-abrir-correo-gmail-movil-279715'>Cómo abrir el correo de Gmail desde el móvil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-abrir-correo-gmail-movil-279715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/gmail-buena-calidad.jpg?tf=1200x' alt='Cómo abrir el correo de Gmail desde el móvil' />
+    <h4><a href='https://computerhoy.com/life/metodo-pregunta-steve-jobs-no-desviarse-camino-exito-1331426'>El método de la pregunta de Steve Jobs para no desviarse del camino del éxito</a></h4>
+    <a href='https://computerhoy.com/life/metodo-pregunta-steve-jobs-no-desviarse-camino-exito-1331426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/metodo-pregunta-steve-jobs-no-desviarse-camino-exito-3215532.jpg?tf=1200x' alt='El método de la pregunta de Steve Jobs para no desviarse del camino del éxito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-wifi-1330292'>La regla de los 30 centímetros para aumentar la velocidad de tu Internet al instante</a></h4>
-    <a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-wifi-1330292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/regla-wifi-3216230.jpg?tf=1200x' alt='La regla de los 30 centímetros para aumentar la velocidad de tu Internet al instante' />
+    <h4><a href='https://computerhoy.com/tecnologia/primer-voluntario-chip-neuralink-elon-musk-cerca-1332152'>El primer voluntario de Neuralink con chip en su cerebro está cerca: menor de 40 años, con ELA y llevará el implante al menos 6 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-voluntario-chip-neuralink-elon-musk-cerca-1332152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-neuralink-2889316.jpg?tf=1200x' alt='El primer voluntario de Neuralink con chip en su cerebro está cerca: menor de 40 años, con ELA y llevará el implante al menos 6 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/son-coches-electricos-realmente-solucion-reducir-emisiones-estudio-plantea-dudas-1332022'>¿Son los coches eléctricos realmente la solución para reducir emisiones? Este estudio plantea dudas</a></h4>
-    <a href='https://computerhoy.com/motor/son-coches-electricos-realmente-solucion-reducir-emisiones-estudio-plantea-dudas-1332022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/carga-coche-electrico-2922466.jpg?tf=1200x' alt='¿Son los coches eléctricos realmente la solución para reducir emisiones? Este estudio plantea dudas' />
+    <h4><a href='https://computerhoy.com/hogar/mejor-chollo-todo-aliexpress-camara-vigilancia-wifi-miles-valoraciones-positivas-15-euros-1332000'>El mejor chollo de todo Aliexpress: cámara de vigilancia WiFi con miles de valoraciones positivas por 15 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/mejor-chollo-todo-aliexpress-camara-vigilancia-wifi-miles-valoraciones-positivas-15-euros-1332000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/camara-vigilancia-aliexpress-3216260.jpg?tf=1200x' alt='El mejor chollo de todo Aliexpress: cámara de vigilancia WiFi con miles de valoraciones positivas por 15 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cancion-creada-ia-estilo-bad-bunny-hace-viral-tiktok-propio-cantante-enfada-1331994'>Una canción creada por IA con "estilo Bad Bunny" se hace viral y el cantante se despacha a gusto en WhatsApp </a></h4>
-    <a href='https://computerhoy.com/tecnologia/cancion-creada-ia-estilo-bad-bunny-hace-viral-tiktok-propio-cantante-enfada-1331994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/bad-bunny-ia-3216278.jpg?tf=1200x' alt='Una canción creada por IA con "estilo Bad Bunny" se hace viral y el cantante se despacha a gusto en WhatsApp ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-combinar-dall-3-midjourney-crear-imagenes-inteligencia-artificial-1331774'>Cómo combinar DALL-E 3 con Midjourney para crear imágenes espectaculares con inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-combinar-dall-3-midjourney-crear-imagenes-inteligencia-artificial-1331774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-combinar-dall-3-midjourney-crear-imagenes-espectaculares-inteligencia-artificial-3215898.jpg?tf=1200x' alt='Cómo combinar DALL-E 3 con Midjourney para crear imágenes espectaculares con inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-maps-renueva-completo-android-auto-1331852'>Google Maps se renueva por completo en Android Auto con un diseño más moderno</a></h4>
-    <a href='https://computerhoy.com/android/google-maps-renueva-completo-android-auto-1331852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/android-auto-3049794.jpg?tf=1200x' alt='Google Maps se renueva por completo en Android Auto con un diseño más moderno' />
+    <h4><a href='https://computerhoy.com/life/test-cena-saber-momento-cambiar-trabajo-1332102'>El test de la cena para saber si es momento de cambiar de trabajo</a></h4>
+    <a href='https://computerhoy.com/life/test-cena-saber-momento-cambiar-trabajo-1332102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cena-amigos-3216592.jpg?tf=1200x' alt='El test de la cena para saber si es momento de cambiar de trabajo' />
     </a>
 </div>
 
