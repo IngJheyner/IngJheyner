@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-reinventa-cuales-han-sido-ultimas-novedades-como-usarlas-1328648'>WhatsApp se reinventa: cuáles han sido sus últimas novedades y cómo usarlas</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-reinventa-cuales-han-sido-ultimas-novedades-como-usarlas-1328648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funcion-enviar-mensajes-audio-whatsapp-manos-sorprendentemente-casi-nadie-conoce-3204522.jpg?tf=1200x' alt='WhatsApp se reinventa: cuáles han sido sus últimas novedades y cómo usarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/mini-pc-potentes-baratos-1229866'>Estos mini PC pueden reemplazar a tu ordenador, son potentes y mucho más baratos</a></h4>
+    <a href='https://computerhoy.com/mejores/mini-pc-potentes-baratos-1229866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mini-pc-2955010.jpg?tf=1200x' alt='Estos mini PC pueden reemplazar a tu ordenador, son potentes y mucho más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cual-forma-correcta-colocar-cubiertos-lavavajillas-1323342'>¿Cuál es la forma correcta de colocar los cubiertos en el lavavajillas?</a></h4>
+    <a href='https://computerhoy.com/life/cual-forma-correcta-colocar-cubiertos-lavavajillas-1323342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cual-forma-correcta-colocar-cubiertos-lavavajillas-3201900.jpg?tf=1200x' alt='¿Cuál es la forma correcta de colocar los cubiertos en el lavavajillas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/crean-protesis-inyectable-hidrogel-rehabilita-musculos-1330572'>Desarrollan una prótesis inyectable de hidrogel que evita la cirugía y acorta la recuperación de lesiones</a></h4>
+    <a href='https://computerhoy.com/life/crean-protesis-inyectable-hidrogel-rehabilita-musculos-1330572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/desarrollan-protesis-hidrogel-rehabilita-musculos-traves-estimulacion-electrica-recuperar-lesiones-3214080.jpg?tf=1200x' alt='Desarrollan una prótesis inyectable de hidrogel que evita la cirugía y acorta la recuperación de lesiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/actores-stranger-things-hacen-mayores-rejuvenecerlos-ia-1331636'>Los actores de Stranger Things se hacen mayores, el productor opina sobre rejuvenecerlos con IA en la última temporada</a></h4>
     <a href='https://computerhoy.com/entretenimiento/actores-stranger-things-hacen-mayores-rejuvenecerlos-ia-1331636' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/stranger-things-1972469.jpg?tf=1200x' alt='Los actores de Stranger Things se hacen mayores, el productor opina sobre rejuvenecerlos con IA en la última temporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-falso-hijo-whatsapp-bizum-mensaje-no-debes-contestar-1331628'>La estafa del falso hijo: WhatsApp, Bizum y un mensaje que no debes contestar nunca</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafa-falso-hijo-whatsapp-bizum-mensaje-no-debes-contestar-1331628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/estafa-falso-hijo-whatsapp-bizum-mensaje-no-debes-contestar-nunca-3215716.jpg?tf=1200x' alt='La estafa del falso hijo: WhatsApp, Bizum y un mensaje que no debes contestar nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-conferencia-desarrolladores-gpt-4-turbo-tienda-gpt-1331632'>OpenAI anuncia la inteligencia artificial a medida: crea tu propio ChatGPT sin programar, y gana dinero con él</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-conferencia-desarrolladores-gpt-4-turbo-tienda-gpt-1331632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/openai-anuncia-inteligencia-artificial-medida-crea-propio-chatgpt-gana-dinero-3215704.jpg?tf=1200x' alt='OpenAI anuncia la inteligencia artificial a medida: crea tu propio ChatGPT sin programar, y gana dinero con él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/experimento-realidad-virtual-ratas-descubre-pueden-imaginar-1331596'>Un experimento de realidad virtual con ratas descubre que pueden recordar, imaginar y recrear los sitios en los que estuvieron </a></h4>
-    <a href='https://computerhoy.com/ciencia/experimento-realidad-virtual-ratas-descubre-pueden-imaginar-1331596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/experimento-realidad-virtual-ratas-descubre-pueden-recordar-imaginar-recrear-sitios-estuvieron-3215648.jpg?tf=1200x' alt='Un experimento de realidad virtual con ratas descubre que pueden recordar, imaginar y recrear los sitios en los que estuvieron ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-radiador-electrico-consumo-arrasa-ventas-amazon-1330082'>Liquidación en un radiador eléctrico de bajo consumo que arrasa en ventas en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/liquidacion-radiador-electrico-consumo-arrasa-ventas-amazon-1330082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/orbegozo-rre-1810-3213104.jpg?tf=1200x' alt='Liquidación en un radiador eléctrico de bajo consumo que arrasa en ventas en Amazon' />
     </a>
 </div>
 
