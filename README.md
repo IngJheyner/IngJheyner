@@ -50,17 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/arrasando-air-fryer-dos-cestas-amazon-acaba-rebajar-precio-black-friday-1331314'>Está arrasando esta Air Fryer con dos cestas que Amazon acaba de rebajar a precio de Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/arrasando-air-fryer-dos-cestas-amazon-acaba-rebajar-precio-black-friday-1331314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cecotec-cecofry-advance-double-2891186.jpg?tf=1200x' alt='Está arrasando esta Air Fryer con dos cestas que Amazon acaba de rebajar a precio de Black Friday' />
+    <h4><a href='https://computerhoy.com/tecnologia/increible-accesorio-otorga-superpoderes-flipper-zero-1332218'>Este increíble accesorio le otorga superpoderes a Flipper Zero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/increible-accesorio-otorga-superpoderes-flipper-zero-1332218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/increible-accesorio-otorga-superpoderes-flipper-zero-3216826.jpg?tf=1200x' alt='Este increíble accesorio le otorga superpoderes a Flipper Zero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/increible-accesorio-otorga-superpoderes-flipper-zero-1332218'>Este increíble accesorio le otorga superpoderes a Flipper Zero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/increible-accesorio-otorga-superpoderes-flipper-zero-1332218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/increible-accesorio-otorga-superpoderes-flipper-zero-3216826.jpg?tf=1200x' alt='Este increíble accesorio le otorga superpoderes a Flipper Zero' />
+    <h4><a href='https://computerhoy.com/motor/waze-historial-accidentes-carreteras-1332222'>Prevención de accidentes: la función de Waze que puede evitarte un accidente de tráfico y Google Maps no tiene</a></h4>
+    <a href='https://computerhoy.com/motor/waze-historial-accidentes-carreteras-1332222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/waze-vuelve-adelantar-google-maps-ahora-avisa-historial-accidentes-carreteras-3216800.jpg?tf=1200x' alt='Prevención de accidentes: la función de Waze que puede evitarte un accidente de tráfico y Google Maps no tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/arrasando-air-fryer-dos-cestas-amazon-acaba-rebajar-precio-black-friday-1331314'>Está arrasando esta Air Fryer con dos cestas que Amazon acaba de rebajar a precio de Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/arrasando-air-fryer-dos-cestas-amazon-acaba-rebajar-precio-black-friday-1331314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cecotec-cecofry-advance-double-2891186.jpg?tf=1200x' alt='Está arrasando esta Air Fryer con dos cestas que Amazon acaba de rebajar a precio de Black Friday' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/recomendable-dormir-calefaccion-encendida-1331872'>¿Es recomendable dormir con la calefacción encendida? Así afecta a la calidad de tu sueño</a></h4>
     <a href='https://computerhoy.com/ciencia/recomendable-dormir-calefaccion-encendida-1331872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/puede-afectar-dormir-calefaccion-encendida-calidad-sueno-3216022.jpg?tf=1200x' alt='¿Es recomendable dormir con la calefacción encendida? Así afecta a la calidad de tu sueño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-podria-haber-confirmado-quererlo-windows-12-office-2024-1332210'>Microsoft podría haber confirmado sin quererlo Windows 12 y Office 2024</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-podria-haber-confirmado-quererlo-windows-12-office-2024-1332210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/windows-12-2845309.jpg?tf=1200x' alt='Microsoft podría haber confirmado sin quererlo Windows 12 y Office 2024' />
     </a>
 </div>
 
