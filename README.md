@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/metodo-pregunta-steve-jobs-no-desviarse-camino-exito-1331426'>El método de la pregunta de Steve Jobs para no desviarse del camino del éxito</a></h4>
-    <a href='https://computerhoy.com/life/metodo-pregunta-steve-jobs-no-desviarse-camino-exito-1331426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/metodo-pregunta-steve-jobs-no-desviarse-camino-exito-3215532.jpg?tf=1200x' alt='El método de la pregunta de Steve Jobs para no desviarse del camino del éxito' />
+    <h4><a href='https://computerhoy.com/tecnologia/arrasando-air-fryer-dos-cestas-amazon-acaba-rebajar-precio-black-friday-1331314'>Está arrasando esta Air Fryer con dos cestas que Amazon acaba de rebajar a precio de Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/arrasando-air-fryer-dos-cestas-amazon-acaba-rebajar-precio-black-friday-1331314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cecotec-cecofry-advance-double-2891186.jpg?tf=1200x' alt='Está arrasando esta Air Fryer con dos cestas que Amazon acaba de rebajar a precio de Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-voluntario-chip-neuralink-elon-musk-cerca-1332152'>El primer voluntario de Neuralink con chip en su cerebro está cerca: menor de 40 años, con ELA y llevará el implante al menos 6 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-voluntario-chip-neuralink-elon-musk-cerca-1332152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-neuralink-2889316.jpg?tf=1200x' alt='El primer voluntario de Neuralink con chip en su cerebro está cerca: menor de 40 años, con ELA y llevará el implante al menos 6 años' />
+    <h4><a href='https://computerhoy.com/tecnologia/increible-accesorio-otorga-superpoderes-flipper-zero-1332218'>Este increíble accesorio le otorga superpoderes a Flipper Zero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/increible-accesorio-otorga-superpoderes-flipper-zero-1332218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/increible-accesorio-otorga-superpoderes-flipper-zero-3216826.jpg?tf=1200x' alt='Este increíble accesorio le otorga superpoderes a Flipper Zero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/mejor-chollo-todo-aliexpress-camara-vigilancia-wifi-miles-valoraciones-positivas-15-euros-1332000'>El mejor chollo de todo Aliexpress: cámara de vigilancia WiFi con miles de valoraciones positivas por 15 euros</a></h4>
-    <a href='https://computerhoy.com/hogar/mejor-chollo-todo-aliexpress-camara-vigilancia-wifi-miles-valoraciones-positivas-15-euros-1332000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/camara-vigilancia-aliexpress-3216260.jpg?tf=1200x' alt='El mejor chollo de todo Aliexpress: cámara de vigilancia WiFi con miles de valoraciones positivas por 15 euros' />
+    <h4><a href='https://computerhoy.com/apps/youtube-infringiendo-normas-europeas-guerra-anti-adblock-1332212'>La prohibición de los bloqueadores de anuncios en YouTube podría ser ilegal en Europa</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-infringiendo-normas-europeas-guerra-anti-adblock-1332212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/youtube-3208178.jpg?tf=1200x' alt='La prohibición de los bloqueadores de anuncios en YouTube podría ser ilegal en Europa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-combinar-dall-3-midjourney-crear-imagenes-inteligencia-artificial-1331774'>Cómo combinar DALL-E 3 con Midjourney para crear imágenes espectaculares con inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-combinar-dall-3-midjourney-crear-imagenes-inteligencia-artificial-1331774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-combinar-dall-3-midjourney-crear-imagenes-espectaculares-inteligencia-artificial-3215898.jpg?tf=1200x' alt='Cómo combinar DALL-E 3 con Midjourney para crear imágenes espectaculares con inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/ciencia/recomendable-dormir-calefaccion-encendida-1331872'>¿Es recomendable dormir con la calefacción encendida? Así afecta a la calidad de tu sueño</a></h4>
+    <a href='https://computerhoy.com/ciencia/recomendable-dormir-calefaccion-encendida-1331872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/puede-afectar-dormir-calefaccion-encendida-calidad-sueno-3216022.jpg?tf=1200x' alt='¿Es recomendable dormir con la calefacción encendida? Así afecta a la calidad de tu sueño' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/test-cena-saber-momento-cambiar-trabajo-1332102'>El test de la cena para saber si es momento de cambiar de trabajo</a></h4>
-    <a href='https://computerhoy.com/life/test-cena-saber-momento-cambiar-trabajo-1332102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cena-amigos-3216592.jpg?tf=1200x' alt='El test de la cena para saber si es momento de cambiar de trabajo' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-podria-haber-confirmado-quererlo-windows-12-office-2024-1332210'>Microsoft podría haber confirmado sin quererlo Windows 12 y Office 2024</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-podria-haber-confirmado-quererlo-windows-12-office-2024-1332210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/windows-12-2845309.jpg?tf=1200x' alt='Microsoft podría haber confirmado sin quererlo Windows 12 y Office 2024' />
     </a>
 </div>
 
