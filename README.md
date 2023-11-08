@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/portatiles-gaming-baratos-1261694'>Portátiles gaming baratos: qué detalles tienes que tener en cuenta y mejores modelos</a></h4>
+    <a href='https://computerhoy.com/mejores/portatiles-gaming-baratos-1261694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-elegir-portatil-perfecto-necesidades-no-morir-intento-3103484.jpg?tf=1200x' alt='Portátiles gaming baratos: qué detalles tienes que tener en cuenta y mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/oneplus-open-analisis-opinion-1331236'>OnePlus Open, análisis y opinión: el primer plegable de OnePlus también es el mejor del año</a></h4>
+    <a href='https://computerhoy.com/analisis/oneplus-open-analisis-opinion-1331236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oneplus-open-3216512.jpg?tf=1200x' alt='OnePlus Open, análisis y opinión: el primer plegable de OnePlus también es el mejor del año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040'>Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aftershokz-2947820.jpg?tf=1200x' alt='Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/what3words-google-maps-tres-palabras-podria-salvarte-vida-1331634'>What3words: el Google Maps de las tres palabras que deberías instalar en tu móvil, podría salvarte la vida</a></h4>
     <a href='https://computerhoy.com/apps/what3words-google-maps-tres-palabras-podria-salvarte-vida-1331634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/what3words-google-maps-tres-palabras-deberias-instalar-movil-podria-salvarte-vida-3215882.jpg?tf=1200x' alt='What3words: el Google Maps de las tres palabras que deberías instalar en tu móvil, podría salvarte la vida' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/reto-numerico-encontrar-numeros-menos-10-segundos-1332450'>¿Puedes encontrar los números que faltan en menos de 10 segundos?   </a></h4>
     <a href='https://computerhoy.com/life/reto-numerico-encontrar-numeros-menos-10-segundos-1332450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/puedes-encontrar-dos-numeros-faltan-menos-10-segundos-3216604.jpg?tf=1200x' alt='¿Puedes encontrar los números que faltan en menos de 10 segundos?   ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/5-razones-deberias-tener-planta-menta-casa-1331550'>5 razones por las que deberías tener una planta de menta en casa</a></h4>
-    <a href='https://computerhoy.com/life/5-razones-deberias-tener-planta-menta-casa-1331550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-razones-deberias-tener-planta-menta-casa-3215524.jpg?tf=1200x' alt='5 razones por las que deberías tener una planta de menta en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-quiere-no-te-suscribas-version-sin-anuncios-facebook-instagram-1332246'>Meta busca desesperadamente que no te suscribas a la versión sin anuncios de Facebook e Instagram</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-quiere-no-te-suscribas-version-sin-anuncios-facebook-instagram-1332246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/meta-facebook-3209280.jpg?tf=1200x' alt='Meta busca desesperadamente que no te suscribas a la versión sin anuncios de Facebook e Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/lista-iptv-ver-canales-tdt-hd-abierto-todo-mundo-1332238'>Con esta lista IPTV puedes ver gratis en tu móvil miles de canales de TDT HD en abierto de todo el mundo</a></h4>
-    <a href='https://computerhoy.com/tv/lista-iptv-ver-canales-tdt-hd-abierto-todo-mundo-1332238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lista-iptv-puedes-ver-gratis-movil-miles-canales-tdt-hd-abierto-todo-mundo-3216862.jpg?tf=1200x' alt='Con esta lista IPTV puedes ver gratis en tu móvil miles de canales de TDT HD en abierto de todo el mundo' />
     </a>
 </div>
 
