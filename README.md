@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/instagram-ya-lista-anadir-funciones-amadas-whatsapp-1332582'>Instagram ya está lista para añadir una de las funciones más amadas de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/instagram-ya-lista-anadir-funciones-amadas-whatsapp-1332582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/instagram-novedades-3217320.jpg?tf=1200x' alt='Instagram ya está lista para añadir una de las funciones más amadas de WhatsApp' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-app-mensajeria-gigante-anuncios-acercan-novedades-1332720'>WhatsApp, de una app de mensajería simple a ¿un gigante de los anuncios? Se acercan novedades</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-app-mensajeria-gigante-anuncios-acercan-novedades-1332720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/whatsapp-anuncios-3217704.jpg?tf=1200x' alt='WhatsApp, de una app de mensajería simple a ¿un gigante de los anuncios? Se acercan novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/clon-barato-logitech-lift-cuesta-poco-10-euros-aliexpress-1332608'>El popular ratón ergonómico Logitech Lift ya tiene su clon low cost en AliExpress</a></h4>
-    <a href='https://computerhoy.com/pc/clon-barato-logitech-lift-cuesta-poco-10-euros-aliexpress-1332608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/logitech-lift-clon-aliexpress-3217384.jpg?tf=1200x' alt='El popular ratón ergonómico Logitech Lift ya tiene su clon low cost en AliExpress' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-descargar-musica-gratuita-libre-derechos-487641'>Las mejores páginas para descargar música gratis de forma totalmente legal</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-descargar-musica-gratuita-libre-derechos-487641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/5-alternativas-spotify-amazon-music-tambien-encontraras-musica-calidad-2606009.jpg?tf=1200x' alt='Las mejores páginas para descargar música gratis de forma totalmente legal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-lista-grandes-cambios-linea-ipads-2024-aunque-no-todo-son-buenas-noticias-1332564'>Apple lista para grandes cambios en su línea de iPads para 2024, aunque no todo son buenas noticias</a></h4>
-    <a href='https://computerhoy.com/apple/apple-lista-grandes-cambios-linea-ipads-2024-aunque-no-todo-son-buenas-noticias-1332564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipad-pro-3071542.jpg?tf=1200x' alt='Apple lista para grandes cambios en su línea de iPads para 2024, aunque no todo son buenas noticias' />
+    <h4><a href='https://computerhoy.com/tecnologia/computacion-cuantica-nueva-guerra-fria-eeuu-no-quiere-perder-frente-china-rusia-1332718'>Computación cuántica: la nueva "Guerra Fría" que EEUU no quiere perder frente a China y Rusia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/computacion-cuantica-nueva-guerra-fria-eeuu-no-quiere-perder-frente-china-rusia-1332718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/computacion-cuantica-3217680.jpg?tf=1200x' alt='Computación cuántica: la nueva "Guerra Fría" que EEUU no quiere perder frente a China y Rusia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/olvida-steam-deck-consola-portatil-retro-pozo-horas-buscabas-amazon-ha-desplomado-precio-1331250'>Olvida la Steam Deck: esta consola portátil retro es el pozo de horas que buscabas, y Amazon ha desplomado su precio</a></h4>
-    <a href='https://computerhoy.com/gaming/olvida-steam-deck-consola-portatil-retro-pozo-horas-buscabas-amazon-ha-desplomado-precio-1331250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/evercade-exp-2717775.jpg?tf=1200x' alt='Olvida la Steam Deck: esta consola portátil retro es el pozo de horas que buscabas, y Amazon ha desplomado su precio' />
+    <h4><a href='https://computerhoy.com/life/naufragio-santo-grial-tesoro-20000-millones-dolares-listo-salir-flote-1332674'>El naufragio del 'Santo Grial' con un tesoro de 20.000 millones de dólares listo para salir a flote: ¿Se lo llevará España?</a></h4>
+    <a href='https://computerhoy.com/life/naufragio-santo-grial-tesoro-20000-millones-dolares-listo-salir-flote-1332674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/naufragio-tesoro-3217606.jpg?tf=1200x' alt='El naufragio del 'Santo Grial' con un tesoro de 20.000 millones de dólares listo para salir a flote: ¿Se lo llevará España?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-decide-detener-desarrollo-ios-18-macos-15-demasiados-errores-1332526'>Apple decide detener el desarrollo de iOS 18 y macOS 15 por demasiados errores</a></h4>
-    <a href='https://computerhoy.com/apple/apple-decide-detener-desarrollo-ios-18-macos-15-demasiados-errores-1332526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sistema-operativo-apple-3217236.jpg?tf=1200x' alt='Apple decide detener el desarrollo de iOS 18 y macOS 15 por demasiados errores' />
+    <h4><a href='https://computerhoy.com/ciencia/antiguo-continente-desaparecido-descubierto-despues-155-millones-anos-1332614'>Argolandia, el antiguo continente desaparecido, es descubierto después de 155 millones de años</a></h4>
+    <a href='https://computerhoy.com/ciencia/antiguo-continente-desaparecido-descubierto-despues-155-millones-anos-1332614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/continente-desaparecido-3217428.jpg?tf=1200x' alt='Argolandia, el antiguo continente desaparecido, es descubierto después de 155 millones de años' />
     </a>
 </div>
 
