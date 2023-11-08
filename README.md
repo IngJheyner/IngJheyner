@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/64gb-ram-i9-mini-pc-ultrapotente-revienta-sector-precio-1327876'>Hasta 64GB de RAM y con i9: este Mini PC ultrapotente revienta el sector con su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/64gb-ram-i9-mini-pc-ultrapotente-revienta-sector-precio-1327876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/intel-core-i9-3209128.jpg?tf=1200x' alt='Hasta 64GB de RAM y con i9: este Mini PC ultrapotente revienta el sector con su precio' />
+    <h4><a href='https://computerhoy.com/tecnologia/golpe-global-redes-pirateria-iptv-caen-webs-2800-millones-visitas-1332892'>Golpe global a las redes de piratería IPTV: caen webs con más de 2.800 millones de visitas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/golpe-global-redes-pirateria-iptv-caen-webs-2800-millones-visitas-1332892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='Golpe global a las redes de piratería IPTV: caen webs con más de 2.800 millones de visitas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-desploma-precio-mitad-incluye-antivirus-todas-descargas-1327856'>Esta VPN desploma su precio a la mitad e incluye antivirus para todas tus descargas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-desploma-precio-mitad-incluye-antivirus-todas-descargas-1327856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nordvpn-3128362.jpg?tf=1200x' alt='Esta VPN desploma su precio a la mitad e incluye antivirus para todas tus descargas' />
+    <h4><a href='https://computerhoy.com/life/numeros-prohibidos-loteria-navidad-no-deberias-elegir-tirar-dinero-1332122'>Los números “prohibidos” de la Lotería de Navidad que no deberías elegir, es tirar el dinero</a></h4>
+    <a href='https://computerhoy.com/life/numeros-prohibidos-loteria-navidad-no-deberias-elegir-tirar-dinero-1332122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/loteria-navidad-3217762.jpg?tf=1200x' alt='Los números “prohibidos” de la Lotería de Navidad que no deberías elegir, es tirar el dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/podrias-estar-danando-pantalla-telefono-movil-estos-productos-limpiarla-1332074'>Así podrías estar dañando la pantalla de tu teléfono móvil si usas estos productos para limpiarla</a></h4>
-    <a href='https://computerhoy.com/moviles/podrias-estar-danando-pantalla-telefono-movil-estos-productos-limpiarla-1332074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/podrias-estar-danando-pantalla-telefono-movil-usas-alcohol-limpiarla-3216436.jpg?tf=1200x' alt='Así podrías estar dañando la pantalla de tu teléfono móvil si usas estos productos para limpiarla' />
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-miercoles-8-noviembre-2023-1332886'>Programación TV: ¿Qué ver hoy en televisión? Miércoles 8 de noviembre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-miercoles-8-noviembre-2023-1332886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-miercoles-8-noviembre-2023-3218110.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Miércoles 8 de noviembre de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hizo-tumba-tutankamon-famosa-todo-egipto-1332786'>El curioso motivo, que no esperas, que hizo de la tumba de Tutankamón la más famosa de todo Egipto</a></h4>
-    <a href='https://computerhoy.com/life/hizo-tumba-tutankamon-famosa-todo-egipto-1332786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/motivo-no-esperas-hizo-tumba-tutankamon-famosa-todo-egipto-3217896.jpg?tf=1200x' alt='El curioso motivo, que no esperas, que hizo de la tumba de Tutankamón la más famosa de todo Egipto' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-asegura-chrome-ha-ahorrado-humanidad-10000-anos-1332880'>Google asegura que Chrome le ha ahorrado a la humanidad 10.000 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-asegura-chrome-ha-ahorrado-humanidad-10000-anos-1332880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Google asegura que Chrome le ha ahorrado a la humanidad 10.000 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/muchas-horas-tiktok-instagram-facebook-puedes-restringir-tiempo-redes-sociales-1331440'>¿Muchas horas en TikTok, Instagram o Facebook? Así puedes restringir tu tiempo en redes sociales</a></h4>
-    <a href='https://computerhoy.com/redes/muchas-horas-tiktok-instagram-facebook-puedes-restringir-tiempo-redes-sociales-1331440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/muchas-horas-tiktok-instagram-facebook-puedes-restringir-tiempo-redes-sociales-3215396.jpg?tf=1200x' alt='¿Muchas horas en TikTok, Instagram o Facebook? Así puedes restringir tu tiempo en redes sociales' />
+    <h4><a href='https://computerhoy.com/life/bpa-sirve-peligroso-salud-1326902'>Qué es BPA, dónde se encuentra y por qué es peligroso para tu salud</a></h4>
+    <a href='https://computerhoy.com/life/bpa-sirve-peligroso-salud-1326902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bpa-donde-encuentra-peligroso-salud-3208032.jpg?tf=1200x' alt='Qué es BPA, dónde se encuentra y por qué es peligroso para tu salud' />
     </a>
 </div>
 
