@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/meta-quiere-no-te-suscribas-version-sin-anuncios-facebook-instagram-1332246'>Meta busca desesperadamente que no te suscribas a la versión sin anuncios de Facebook e Instagram</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-quiere-no-te-suscribas-version-sin-anuncios-facebook-instagram-1332246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/meta-facebook-3209280.jpg?tf=1200x' alt='Meta busca desesperadamente que no te suscribas a la versión sin anuncios de Facebook e Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/lista-iptv-ver-canales-tdt-hd-abierto-todo-mundo-1332238'>Con esta lista IPTV puedes ver gratis en tu móvil miles de canales de TDT HD en abierto de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/tv/lista-iptv-ver-canales-tdt-hd-abierto-todo-mundo-1332238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lista-iptv-puedes-ver-gratis-movil-miles-canales-tdt-hd-abierto-todo-mundo-3216862.jpg?tf=1200x' alt='Con esta lista IPTV puedes ver gratis en tu móvil miles de canales de TDT HD en abierto de todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/nintendo-sony-anuncian-pelicula-the-legend-zelda-1332242'>Nintendo y Sony anuncian la película The Legend of Zelda, con actores reales</a></h4>
     <a href='https://computerhoy.com/entretenimiento/nintendo-sony-anuncian-pelicula-the-legend-zelda-1332242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nintendo-sony-anuncian-pelicula-legend-zelda-actores-reales-3216858.jpg?tf=1200x' alt='Nintendo y Sony anuncian la película The Legend of Zelda, con actores reales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/waze-historial-accidentes-carreteras-1332222'>Prevención de accidentes: la función de Waze que puede evitarte un accidente de tráfico y Google Maps no tiene</a></h4>
     <a href='https://computerhoy.com/motor/waze-historial-accidentes-carreteras-1332222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/waze-vuelve-adelantar-google-maps-ahora-avisa-historial-accidentes-carreteras-3216800.jpg?tf=1200x' alt='Prevención de accidentes: la función de Waze que puede evitarte un accidente de tráfico y Google Maps no tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/arrasando-air-fryer-dos-cestas-amazon-acaba-rebajar-precio-black-friday-1331314'>Está arrasando esta Air Fryer con dos cestas que Amazon acaba de rebajar a precio de Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/arrasando-air-fryer-dos-cestas-amazon-acaba-rebajar-precio-black-friday-1331314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cecotec-cecofry-advance-double-2891186.jpg?tf=1200x' alt='Está arrasando esta Air Fryer con dos cestas que Amazon acaba de rebajar a precio de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-infringiendo-normas-europeas-guerra-anti-adblock-1332212'>La prohibición de los bloqueadores de anuncios en YouTube podría ser ilegal en Europa</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-infringiendo-normas-europeas-guerra-anti-adblock-1332212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/youtube-3208178.jpg?tf=1200x' alt='La prohibición de los bloqueadores de anuncios en YouTube podría ser ilegal en Europa' />
     </a>
 </div>
 
