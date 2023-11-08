@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/bill-gates-impulsa-nueva-forma-obtener-energia-eolica-nunca-vista-1332502'>Bill Gates financia con 4 millones de dólares una tecnología para obtener energía eólica nunca vista</a></h4>
-    <a href='https://computerhoy.com/industria/bill-gates-impulsa-nueva-forma-obtener-energia-eolica-nunca-vista-1332502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/bill-gates-renovables-3217154.jpg?tf=1200x' alt='Bill Gates financia con 4 millones de dólares una tecnología para obtener energía eólica nunca vista' />
+    <h4><a href='https://computerhoy.com/apps/instagram-ya-lista-anadir-funciones-amadas-whatsapp-1332582'>Instagram ya está lista para añadir una de las funciones más amadas de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/instagram-ya-lista-anadir-funciones-amadas-whatsapp-1332582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/instagram-novedades-3217320.jpg?tf=1200x' alt='Instagram ya está lista para añadir una de las funciones más amadas de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mujeres-pasean-pelos-punta-grave-peligro-video-1332050'>Estás personas que pasean por el desierto con los pelos de punta, están en grave peligro</a></h4>
-    <a href='https://computerhoy.com/life/mujeres-pasean-pelos-punta-grave-peligro-video-1332050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/estas-personas-pasean-desierto-pelos-punta-estan-grave-peligro-3216360.jpg?tf=1200x' alt='Estás personas que pasean por el desierto con los pelos de punta, están en grave peligro' />
+    <h4><a href='https://computerhoy.com/pc/clon-barato-logitech-lift-cuesta-poco-10-euros-aliexpress-1332608'>El popular ratón ergonómico Logitech Lift ya tiene su clon low cost en AliExpress</a></h4>
+    <a href='https://computerhoy.com/pc/clon-barato-logitech-lift-cuesta-poco-10-euros-aliexpress-1332608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/logitech-lift-clon-aliexpress-3217384.jpg?tf=1200x' alt='El popular ratón ergonómico Logitech Lift ya tiene su clon low cost en AliExpress' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/portatiles-gaming-baratos-1261694'>Portátiles gaming baratos: qué detalles tienes que tener en cuenta y mejores modelos</a></h4>
-    <a href='https://computerhoy.com/mejores/portatiles-gaming-baratos-1261694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-elegir-portatil-perfecto-necesidades-no-morir-intento-3103484.jpg?tf=1200x' alt='Portátiles gaming baratos: qué detalles tienes que tener en cuenta y mejores modelos' />
+    <h4><a href='https://computerhoy.com/apple/apple-lista-grandes-cambios-linea-ipads-2024-aunque-no-todo-son-buenas-noticias-1332564'>Apple lista para grandes cambios en su línea de iPads para 2024, aunque no todo son buenas noticias</a></h4>
+    <a href='https://computerhoy.com/apple/apple-lista-grandes-cambios-linea-ipads-2024-aunque-no-todo-son-buenas-noticias-1332564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipad-pro-3071542.jpg?tf=1200x' alt='Apple lista para grandes cambios en su línea de iPads para 2024, aunque no todo son buenas noticias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/oneplus-open-analisis-opinion-1331236'>OnePlus Open, análisis y opinión: el primer plegable de OnePlus también es el mejor del año</a></h4>
-    <a href='https://computerhoy.com/analisis/oneplus-open-analisis-opinion-1331236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oneplus-open-3216512.jpg?tf=1200x' alt='OnePlus Open, análisis y opinión: el primer plegable de OnePlus también es el mejor del año' />
+    <h4><a href='https://computerhoy.com/gaming/olvida-steam-deck-consola-portatil-retro-pozo-horas-buscabas-amazon-ha-desplomado-precio-1331250'>Olvida la Steam Deck: esta consola portátil retro es el pozo de horas que buscabas, y Amazon ha desplomado su precio</a></h4>
+    <a href='https://computerhoy.com/gaming/olvida-steam-deck-consola-portatil-retro-pozo-horas-buscabas-amazon-ha-desplomado-precio-1331250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/evercade-exp-2717775.jpg?tf=1200x' alt='Olvida la Steam Deck: esta consola portátil retro es el pozo de horas que buscabas, y Amazon ha desplomado su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040'>Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aftershokz-2947820.jpg?tf=1200x' alt='Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores' />
+    <h4><a href='https://computerhoy.com/apple/apple-decide-detener-desarrollo-ios-18-macos-15-demasiados-errores-1332526'>Apple decide detener el desarrollo de iOS 18 y macOS 15 por demasiados errores</a></h4>
+    <a href='https://computerhoy.com/apple/apple-decide-detener-desarrollo-ios-18-macos-15-demasiados-errores-1332526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sistema-operativo-apple-3217236.jpg?tf=1200x' alt='Apple decide detener el desarrollo de iOS 18 y macOS 15 por demasiados errores' />
     </a>
 </div>
 
