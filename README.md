@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/what3words-google-maps-tres-palabras-podria-salvarte-vida-1331634'>What3words: el Google Maps de las tres palabras que deberías instalar en tu móvil, podría salvarte la vida</a></h4>
+    <a href='https://computerhoy.com/apps/what3words-google-maps-tres-palabras-podria-salvarte-vida-1331634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/what3words-google-maps-tres-palabras-deberias-instalar-movil-podria-salvarte-vida-3215882.jpg?tf=1200x' alt='What3words: el Google Maps de las tres palabras que deberías instalar en tu móvil, podría salvarte la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/reto-numerico-encontrar-numeros-menos-10-segundos-1332450'>¿Puedes encontrar los números que faltan en menos de 10 segundos?   </a></h4>
+    <a href='https://computerhoy.com/life/reto-numerico-encontrar-numeros-menos-10-segundos-1332450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/puedes-encontrar-dos-numeros-faltan-menos-10-segundos-3216604.jpg?tf=1200x' alt='¿Puedes encontrar los números que faltan en menos de 10 segundos?   ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/5-razones-deberias-tener-planta-menta-casa-1331550'>5 razones por las que deberías tener una planta de menta en casa</a></h4>
+    <a href='https://computerhoy.com/life/5-razones-deberias-tener-planta-menta-casa-1331550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-razones-deberias-tener-planta-menta-casa-3215524.jpg?tf=1200x' alt='5 razones por las que deberías tener una planta de menta en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/meta-quiere-no-te-suscribas-version-sin-anuncios-facebook-instagram-1332246'>Meta busca desesperadamente que no te suscribas a la versión sin anuncios de Facebook e Instagram</a></h4>
     <a href='https://computerhoy.com/tecnologia/meta-quiere-no-te-suscribas-version-sin-anuncios-facebook-instagram-1332246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/meta-facebook-3209280.jpg?tf=1200x' alt='Meta busca desesperadamente que no te suscribas a la versión sin anuncios de Facebook e Instagram' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/lista-iptv-ver-canales-tdt-hd-abierto-todo-mundo-1332238'>Con esta lista IPTV puedes ver gratis en tu móvil miles de canales de TDT HD en abierto de todo el mundo</a></h4>
     <a href='https://computerhoy.com/tv/lista-iptv-ver-canales-tdt-hd-abierto-todo-mundo-1332238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lista-iptv-puedes-ver-gratis-movil-miles-canales-tdt-hd-abierto-todo-mundo-3216862.jpg?tf=1200x' alt='Con esta lista IPTV puedes ver gratis en tu móvil miles de canales de TDT HD en abierto de todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/nintendo-sony-anuncian-pelicula-the-legend-zelda-1332242'>Nintendo y Sony anuncian la película The Legend of Zelda, con actores reales</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/nintendo-sony-anuncian-pelicula-the-legend-zelda-1332242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nintendo-sony-anuncian-pelicula-legend-zelda-actores-reales-3216858.jpg?tf=1200x' alt='Nintendo y Sony anuncian la película The Legend of Zelda, con actores reales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/increible-accesorio-otorga-superpoderes-flipper-zero-1332218'>Este increíble accesorio le otorga superpoderes a Flipper Zero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/increible-accesorio-otorga-superpoderes-flipper-zero-1332218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/increible-accesorio-otorga-superpoderes-flipper-zero-3216826.jpg?tf=1200x' alt='Este increíble accesorio le otorga superpoderes a Flipper Zero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/waze-historial-accidentes-carreteras-1332222'>Prevención de accidentes: la función de Waze que puede evitarte un accidente de tráfico y Google Maps no tiene</a></h4>
-    <a href='https://computerhoy.com/motor/waze-historial-accidentes-carreteras-1332222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/waze-vuelve-adelantar-google-maps-ahora-avisa-historial-accidentes-carreteras-3216800.jpg?tf=1200x' alt='Prevención de accidentes: la función de Waze que puede evitarte un accidente de tráfico y Google Maps no tiene' />
     </a>
 </div>
 
