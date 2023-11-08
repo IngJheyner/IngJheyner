@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/nintendo-sony-anuncian-pelicula-the-legend-zelda-1332242'>Nintendo y Sony anuncian la película The Legend of Zelda, con actores reales</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/nintendo-sony-anuncian-pelicula-the-legend-zelda-1332242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nintendo-sony-anuncian-pelicula-legend-zelda-actores-reales-3216858.jpg?tf=1200x' alt='Nintendo y Sony anuncian la película The Legend of Zelda, con actores reales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/increible-accesorio-otorga-superpoderes-flipper-zero-1332218'>Este increíble accesorio le otorga superpoderes a Flipper Zero</a></h4>
     <a href='https://computerhoy.com/tecnologia/increible-accesorio-otorga-superpoderes-flipper-zero-1332218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/increible-accesorio-otorga-superpoderes-flipper-zero-3216826.jpg?tf=1200x' alt='Este increíble accesorio le otorga superpoderes a Flipper Zero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/youtube-infringiendo-normas-europeas-guerra-anti-adblock-1332212'>La prohibición de los bloqueadores de anuncios en YouTube podría ser ilegal en Europa</a></h4>
     <a href='https://computerhoy.com/apps/youtube-infringiendo-normas-europeas-guerra-anti-adblock-1332212' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/youtube-3208178.jpg?tf=1200x' alt='La prohibición de los bloqueadores de anuncios en YouTube podría ser ilegal en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/recomendable-dormir-calefaccion-encendida-1331872'>¿Es recomendable dormir con la calefacción encendida? Así afecta a la calidad de tu sueño</a></h4>
-    <a href='https://computerhoy.com/ciencia/recomendable-dormir-calefaccion-encendida-1331872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/puede-afectar-dormir-calefaccion-encendida-calidad-sueno-3216022.jpg?tf=1200x' alt='¿Es recomendable dormir con la calefacción encendida? Así afecta a la calidad de tu sueño' />
     </a>
 </div>
 
