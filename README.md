@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-arrasa-aliexpress-desploma-precio-pantalla-amoled-precio-risa-1331358'>El smartwatch que arrasa en AliExpress desploma su precio: pantalla AMOLED a precio de risa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-arrasa-aliexpress-desploma-precio-pantalla-amoled-precio-risa-1331358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/zeblade-stratos-2-3215176.jpg?tf=1200x' alt='El smartwatch que arrasa en AliExpress desploma su precio: pantalla AMOLED a precio de risa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/golpe-global-redes-pirateria-iptv-caen-webs-2800-millones-visitas-1332892'>Golpe global a las redes de piratería IPTV: caen webs con más de 2.800 millones de visitas</a></h4>
     <a href='https://computerhoy.com/tecnologia/golpe-global-redes-pirateria-iptv-caen-webs-2800-millones-visitas-1332892' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='Golpe global a las redes de piratería IPTV: caen webs con más de 2.800 millones de visitas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-asegura-chrome-ha-ahorrado-humanidad-10000-anos-1332880'>Google asegura que Chrome le ha ahorrado a la humanidad 10.000 años</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-asegura-chrome-ha-ahorrado-humanidad-10000-anos-1332880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Google asegura que Chrome le ha ahorrado a la humanidad 10.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bpa-sirve-peligroso-salud-1326902'>Qué es BPA, dónde se encuentra y por qué es peligroso para tu salud</a></h4>
-    <a href='https://computerhoy.com/life/bpa-sirve-peligroso-salud-1326902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bpa-donde-encuentra-peligroso-salud-3208032.jpg?tf=1200x' alt='Qué es BPA, dónde se encuentra y por qué es peligroso para tu salud' />
     </a>
 </div>
 
