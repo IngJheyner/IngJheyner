@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/bill-gates-impulsa-nueva-forma-obtener-energia-eolica-nunca-vista-1332502'>Bill Gates financia con 4 millones de dólares una tecnología para obtener energía eólica nunca vista</a></h4>
+    <a href='https://computerhoy.com/industria/bill-gates-impulsa-nueva-forma-obtener-energia-eolica-nunca-vista-1332502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/bill-gates-renovables-3217154.jpg?tf=1200x' alt='Bill Gates financia con 4 millones de dólares una tecnología para obtener energía eólica nunca vista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mujeres-pasean-pelos-punta-grave-peligro-video-1332050'>Estás personas que pasean por el desierto con los pelos de punta, están en grave peligro</a></h4>
+    <a href='https://computerhoy.com/life/mujeres-pasean-pelos-punta-grave-peligro-video-1332050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/estas-personas-pasean-desierto-pelos-punta-estan-grave-peligro-3216360.jpg?tf=1200x' alt='Estás personas que pasean por el desierto con los pelos de punta, están en grave peligro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/portatiles-gaming-baratos-1261694'>Portátiles gaming baratos: qué detalles tienes que tener en cuenta y mejores modelos</a></h4>
     <a href='https://computerhoy.com/mejores/portatiles-gaming-baratos-1261694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-elegir-portatil-perfecto-necesidades-no-morir-intento-3103484.jpg?tf=1200x' alt='Portátiles gaming baratos: qué detalles tienes que tener en cuenta y mejores modelos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040'>Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores</a></h4>
     <a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aftershokz-2947820.jpg?tf=1200x' alt='Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/what3words-google-maps-tres-palabras-podria-salvarte-vida-1331634'>What3words: el Google Maps de las tres palabras que deberías instalar en tu móvil, podría salvarte la vida</a></h4>
-    <a href='https://computerhoy.com/apps/what3words-google-maps-tres-palabras-podria-salvarte-vida-1331634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/what3words-google-maps-tres-palabras-deberias-instalar-movil-podria-salvarte-vida-3215882.jpg?tf=1200x' alt='What3words: el Google Maps de las tres palabras que deberías instalar en tu móvil, podría salvarte la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/reto-numerico-encontrar-numeros-menos-10-segundos-1332450'>¿Puedes encontrar los números que faltan en menos de 10 segundos?   </a></h4>
-    <a href='https://computerhoy.com/life/reto-numerico-encontrar-numeros-menos-10-segundos-1332450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/puedes-encontrar-dos-numeros-faltan-menos-10-segundos-3216604.jpg?tf=1200x' alt='¿Puedes encontrar los números que faltan en menos de 10 segundos?   ' />
     </a>
 </div>
 
