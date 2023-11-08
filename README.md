@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-app-mensajeria-gigante-anuncios-acercan-novedades-1332720'>WhatsApp, de una app de mensajería simple a ¿un gigante de los anuncios? Se acercan novedades</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-app-mensajeria-gigante-anuncios-acercan-novedades-1332720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/whatsapp-anuncios-3217704.jpg?tf=1200x' alt='WhatsApp, de una app de mensajería simple a ¿un gigante de los anuncios? Se acercan novedades' />
+    <h4><a href='https://computerhoy.com/tecnologia/64gb-ram-i9-mini-pc-ultrapotente-revienta-sector-precio-1327876'>Hasta 64GB de RAM y con i9: este Mini PC ultrapotente revienta el sector con su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/64gb-ram-i9-mini-pc-ultrapotente-revienta-sector-precio-1327876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/intel-core-i9-3209128.jpg?tf=1200x' alt='Hasta 64GB de RAM y con i9: este Mini PC ultrapotente revienta el sector con su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-descargar-musica-gratuita-libre-derechos-487641'>Las mejores páginas para descargar música gratis de forma totalmente legal</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-descargar-musica-gratuita-libre-derechos-487641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/5-alternativas-spotify-amazon-music-tambien-encontraras-musica-calidad-2606009.jpg?tf=1200x' alt='Las mejores páginas para descargar música gratis de forma totalmente legal' />
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-desploma-precio-mitad-incluye-antivirus-todas-descargas-1327856'>Esta VPN desploma su precio a la mitad e incluye antivirus para todas tus descargas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-desploma-precio-mitad-incluye-antivirus-todas-descargas-1327856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nordvpn-3128362.jpg?tf=1200x' alt='Esta VPN desploma su precio a la mitad e incluye antivirus para todas tus descargas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/computacion-cuantica-nueva-guerra-fria-eeuu-no-quiere-perder-frente-china-rusia-1332718'>Computación cuántica: la nueva "Guerra Fría" que EEUU no quiere perder frente a China y Rusia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/computacion-cuantica-nueva-guerra-fria-eeuu-no-quiere-perder-frente-china-rusia-1332718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/computacion-cuantica-3217680.jpg?tf=1200x' alt='Computación cuántica: la nueva "Guerra Fría" que EEUU no quiere perder frente a China y Rusia' />
+    <h4><a href='https://computerhoy.com/moviles/podrias-estar-danando-pantalla-telefono-movil-estos-productos-limpiarla-1332074'>Así podrías estar dañando la pantalla de tu teléfono móvil si usas estos productos para limpiarla</a></h4>
+    <a href='https://computerhoy.com/moviles/podrias-estar-danando-pantalla-telefono-movil-estos-productos-limpiarla-1332074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/podrias-estar-danando-pantalla-telefono-movil-usas-alcohol-limpiarla-3216436.jpg?tf=1200x' alt='Así podrías estar dañando la pantalla de tu teléfono móvil si usas estos productos para limpiarla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/naufragio-santo-grial-tesoro-20000-millones-dolares-listo-salir-flote-1332674'>El naufragio del 'Santo Grial' con un tesoro de 20.000 millones de dólares listo para salir a flote: ¿Se lo llevará España?</a></h4>
-    <a href='https://computerhoy.com/life/naufragio-santo-grial-tesoro-20000-millones-dolares-listo-salir-flote-1332674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/naufragio-tesoro-3217606.jpg?tf=1200x' alt='El naufragio del 'Santo Grial' con un tesoro de 20.000 millones de dólares listo para salir a flote: ¿Se lo llevará España?' />
+    <h4><a href='https://computerhoy.com/life/hizo-tumba-tutankamon-famosa-todo-egipto-1332786'>El curioso motivo, que no esperas, que hizo de la tumba de Tutankamón la más famosa de todo Egipto</a></h4>
+    <a href='https://computerhoy.com/life/hizo-tumba-tutankamon-famosa-todo-egipto-1332786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/motivo-no-esperas-hizo-tumba-tutankamon-famosa-todo-egipto-3217896.jpg?tf=1200x' alt='El curioso motivo, que no esperas, que hizo de la tumba de Tutankamón la más famosa de todo Egipto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/antiguo-continente-desaparecido-descubierto-despues-155-millones-anos-1332614'>Argolandia, el antiguo continente desaparecido, es descubierto después de 155 millones de años</a></h4>
-    <a href='https://computerhoy.com/ciencia/antiguo-continente-desaparecido-descubierto-despues-155-millones-anos-1332614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/continente-desaparecido-3217428.jpg?tf=1200x' alt='Argolandia, el antiguo continente desaparecido, es descubierto después de 155 millones de años' />
+    <h4><a href='https://computerhoy.com/redes/muchas-horas-tiktok-instagram-facebook-puedes-restringir-tiempo-redes-sociales-1331440'>¿Muchas horas en TikTok, Instagram o Facebook? Así puedes restringir tu tiempo en redes sociales</a></h4>
+    <a href='https://computerhoy.com/redes/muchas-horas-tiktok-instagram-facebook-puedes-restringir-tiempo-redes-sociales-1331440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/muchas-horas-tiktok-instagram-facebook-puedes-restringir-tiempo-redes-sociales-3215396.jpg?tf=1200x' alt='¿Muchas horas en TikTok, Instagram o Facebook? Así puedes restringir tu tiempo en redes sociales' />
     </a>
 </div>
 
