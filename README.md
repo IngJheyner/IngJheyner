@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-tamagotchi-hackers-7-cosas-geniales-no-sabias-podias-hacer-1332244'>Flipper Zero, el Tamagotchi para hackers: 7 cosas geniales que no sabías qué podías hacer</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flipper-zero-tamagotchi-hackers-7-cosas-geniales-no-sabias-podias-hacer-1332244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-sacar-maximo-partido-flipper-zero-7-cosas-geniales-no-sabias-podias-hacer-3217060.jpg?tf=1200x' alt='Flipper Zero, el Tamagotchi para hackers: 7 cosas geniales que no sabías qué podías hacer' />
+    <h4><a href='https://computerhoy.com/tecnologia/adobe-vende-imagenes-creadas-ia-guerra-israel-hamas-salen-noticias-pero-quien-culpa-1333164'>Adobe vende imágenes creadas con IA de la guerra entre Israel y Hamás y acaban en las noticias, pero ¿de quién es la culpa?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adobe-vende-imagenes-creadas-ia-guerra-israel-hamas-salen-noticias-pero-quien-culpa-1333164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/adobe-imagenes-ia-3218438.jpg?tf=1200x' alt='Adobe vende imágenes creadas con IA de la guerra entre Israel y Hamás y acaban en las noticias, pero ¿de quién es la culpa?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trucos-exprimir-11-11-aliexpress-1331814'>5 trucos para exprimir el 11 del 11 en AliExpress y conseguir los mejores chollos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trucos-exprimir-11-11-aliexpress-1331814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/11-11-aliexpress-dia-soltero-3215910.jpg?tf=1200x' alt='5 trucos para exprimir el 11 del 11 en AliExpress y conseguir los mejores chollos' />
+    <h4><a href='https://computerhoy.com/ciencia/dia-inventor-internacional-5-inventos-pelicula-han-hecho-realidad-1332662'>Día del Inventor Internacional: 5 inventos de película que se han hecho realidad</a></h4>
+    <a href='https://computerhoy.com/ciencia/dia-inventor-internacional-5-inventos-pelicula-han-hecho-realidad-1332662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dia-inventor-internacional-5-inventos-pelicula-han-hecho-realidad-3217610.jpg?tf=1200x' alt='Día del Inventor Internacional: 5 inventos de película que se han hecho realidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-trabajar-elon-musk-no-jefe-facil-1330222'>Un asesor de SpaceX cuenta cómo es trabajar con Elon Musk: "No es el jefe más fácil"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-trabajar-elon-musk-no-jefe-facil-1330222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-como-trabajar-spacex-liderazgo-3215172.jpg?tf=1200x' alt='Un asesor de SpaceX cuenta cómo es trabajar con Elon Musk: "No es el jefe más fácil"' />
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-ordenador-windows-no-reconoce-memoria-usb-pendrive-1327824'>Todo lo que puedes hacer si tu ordenador Windows no reconoce tu memoria USB o Pendrive</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-ordenador-windows-no-reconoce-memoria-usb-pendrive-1327824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ordenador-no-reconoce-usb-3209088.jpg?tf=1200x' alt='Todo lo que puedes hacer si tu ordenador Windows no reconoce tu memoria USB o Pendrive' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/historia-sony-empresa-japonesa-innovo-revoluciono-varias-veces-mundo-tecnologia-1321394'>Historia de Sony: la empresa japonesa que innovó y revolucionó (varias veces) el mundo de la tecnología</a></h4>
-    <a href='https://computerhoy.com/industria/historia-sony-empresa-japonesa-innovo-revoluciono-varias-veces-mundo-tecnologia-1321394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/historia-sony-3199210.jpg?tf=1200x' alt='Historia de Sony: la empresa japonesa que innovó y revolucionó (varias veces) el mundo de la tecnología' />
+    <h4><a href='https://computerhoy.com/moviles/estudio-revela-sorpresas-uso-moviles-30-encuestados-tienen-alto-riesgo-adiccion-1333152'>Este estudio revela sorpresas sobre el uso de los móviles: un 30% de los encuestados tienen alto riesgo de adicción</a></h4>
+    <a href='https://computerhoy.com/moviles/estudio-revela-sorpresas-uso-moviles-30-encuestados-tienen-alto-riesgo-adiccion-1333152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/adiccion-moviles-3218416.jpg?tf=1200x' alt='Este estudio revela sorpresas sobre el uso de los móviles: un 30% de los encuestados tienen alto riesgo de adicción' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/recomendable-modo-oscuro-movil-paso-semana-usandolo-estas-son-conclusiones-1331894'>Paso una semana usando el modo oscuro del móvil y estas son mis conclusiones</a></h4>
-    <a href='https://computerhoy.com/moviles/recomendable-modo-oscuro-movil-paso-semana-usandolo-estas-son-conclusiones-1331894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/modo-oscuro-3217598.jpg?tf=1200x' alt='Paso una semana usando el modo oscuro del móvil y estas son mis conclusiones' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-procesador-cpu-compatible-placa-base-1331380'>Cómo saber si un procesador (CPU) es compatible con tu placa base</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-procesador-cpu-compatible-placa-base-1331380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-saber-procesador-cpu-compatible-placa-base-3215352.jpg?tf=1200x' alt='Cómo saber si un procesador (CPU) es compatible con tu placa base' />
     </a>
 </div>
 
