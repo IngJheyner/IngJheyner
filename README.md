@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/trucos-mantener-casa-caliente-encender-calefaccion-1332900'>Trucos de los expertos en ahorro para mantener la casa caliente sin encender la calefacción</a></h4>
+    <a href='https://computerhoy.com/hogar/trucos-mantener-casa-caliente-encender-calefaccion-1332900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/radiador-calefaccion-3209542.jpg?tf=1200x' alt='Trucos de los expertos en ahorro para mantener la casa caliente sin encender la calefacción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/traduccion-llamadas-tiempo-real-nueva-funcion-ia-samsung-galaxy-s24-1333220'>Traducción de llamadas en tiempo real: la nueva función de IA del Samsung Galaxy S24</a></h4>
+    <a href='https://computerhoy.com/moviles/traduccion-llamadas-tiempo-real-nueva-funcion-ia-samsung-galaxy-s24-1333220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/samsung-ia-3218608.jpg?tf=1200x' alt='Traducción de llamadas en tiempo real: la nueva función de IA del Samsung Galaxy S24' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tecnica-48-segundos-controlar-nervios-1329756'>La técnica de los 48 segundos para controlar los nervios antes de hablar en público</a></h4>
+    <a href='https://computerhoy.com/life/tecnica-48-segundos-controlar-nervios-1329756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hablar-publico-3217314.jpg?tf=1200x' alt='La técnica de los 48 segundos para controlar los nervios antes de hablar en público' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/llegada-usb-c-apple-pasa-aro-reconoce-son-inevitables-tiendas-terceros-1333170'>Apple pasa por el aro y ya está lista para hacer ajustes en su App Store para cumplir con la DMA</a></h4>
+    <a href='https://computerhoy.com/apple/llegada-usb-c-apple-pasa-aro-reconoce-son-inevitables-tiendas-terceros-1333170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-dma-3218500.jpg?tf=1200x' alt='Apple pasa por el aro y ya está lista para hacer ajustes en su App Store para cumplir con la DMA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/omegle-famoso-servicio-videollamadas-aleatorias-extranos-dice-adios-14-anos-1333206'>Omegle, el famoso servicio de videollamadas aleatorias con extraños, dice adiós tras 14 años</a></h4>
     <a href='https://computerhoy.com/internet/omegle-famoso-servicio-videollamadas-aleatorias-extranos-dice-adios-14-anos-1333206' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/omegle-cierre-3218574.jpg?tf=1200x' alt='Omegle, el famoso servicio de videollamadas aleatorias con extraños, dice adiós tras 14 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-son-mejores-ofertas-11-11-aliexpress-puedes-meter-ya-cesta-1333166'>AliExpress muestra los chollos que podrás comprar el 11 del 11: éstos son los mejores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-son-mejores-ofertas-11-11-aliexpress-puedes-meter-ya-cesta-1333166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/compra-aliexpress-1111-2865579.jpg?tf=1200x' alt='AliExpress muestra los chollos que podrás comprar el 11 del 11: éstos son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ajustes-mejorar-seguridad-privacidad-google-chrome-1332176'>9 ajustes imprescindibles para mejorar la seguridad y la privacidad de Google Chrome</a></h4>
-    <a href='https://computerhoy.com/google/ajustes-mejorar-seguridad-privacidad-google-chrome-1332176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/9-ajustes-imprescindibles-mejorar-seguridad-privacidad-google-chrome-3216774.jpg?tf=1200x' alt='9 ajustes imprescindibles para mejorar la seguridad y la privacidad de Google Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adobe-vende-imagenes-creadas-ia-guerra-israel-hamas-salen-noticias-pero-quien-culpa-1333164'>Adobe vende imágenes creadas con IA de la guerra entre Israel y Hamás y acaban en las noticias, pero ¿de quién es la culpa?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adobe-vende-imagenes-creadas-ia-guerra-israel-hamas-salen-noticias-pero-quien-culpa-1333164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/adobe-imagenes-ia-3218438.jpg?tf=1200x' alt='Adobe vende imágenes creadas con IA de la guerra entre Israel y Hamás y acaban en las noticias, pero ¿de quién es la culpa?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/dia-inventor-internacional-5-inventos-pelicula-han-hecho-realidad-1332662'>Día del Inventor Internacional: 5 inventos de película que se han hecho realidad</a></h4>
-    <a href='https://computerhoy.com/ciencia/dia-inventor-internacional-5-inventos-pelicula-han-hecho-realidad-1332662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dia-inventor-internacional-5-inventos-pelicula-han-hecho-realidad-3217610.jpg?tf=1200x' alt='Día del Inventor Internacional: 5 inventos de película que se han hecho realidad' />
     </a>
 </div>
 
