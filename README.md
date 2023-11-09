@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/como-calentar-casa-electricidad-efecto-peltier-1332906'>Efecto peltier: qué es y cómo puedes utilizarlo para calentar tu casa sin electricidad</a></h4>
+    <a href='https://computerhoy.com/hogar/como-calentar-casa-electricidad-efecto-peltier-1332906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/efecto-peltier-como-puedes-utilizarlo-calentar-casa-electricidad-3218136.jpg?tf=1200x' alt='Efecto peltier: qué es y cómo puedes utilizarlo para calentar tu casa sin electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robot-cuadrupedo-sr-02-como-montar-triceratops-1333346'>Montar en el robot cuadrúpedo SR-02 es como conducir un triceratops sin cabeza</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-cuadrupedo-sr-02-como-montar-triceratops-1333346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1699557029291-3218838.jpg?tf=1200x' alt='Montar en el robot cuadrúpedo SR-02 es como conducir un triceratops sin cabeza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/jefe-horario-laboral-inesperados-causantes-mala-salud-cardiovascular-1333340'>Tu jefe y horario laboral: los inesperados causantes de una mala salud cardiovascular</a></h4>
     <a href='https://computerhoy.com/life/jefe-horario-laboral-inesperados-causantes-mala-salud-cardiovascular-1333340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/jefe-trabajo-3218866.jpg?tf=1200x' alt='Tu jefe y horario laboral: los inesperados causantes de una mala salud cardiovascular' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/nace-nueva-isla-permanente-vivo-directo-1333134'>Un vídeo muestra cómo nace una nueva isla permanente, en vivo y en directo</a></h4>
     <a href='https://computerhoy.com/life/nace-nueva-isla-permanente-vivo-directo-1333134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/video-muestra-como-forma-nueva-isla-permanente-vivo-directo-3218390.jpg?tf=1200x' alt='Un vídeo muestra cómo nace una nueva isla permanente, en vivo y en directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/experto-te-aclaras-peligroso-meter-comida-caliente-nevera-1333332'>Este experto te aclara si es peligroso meter comida caliente en la nevera</a></h4>
-    <a href='https://computerhoy.com/alimentacion/experto-te-aclaras-peligroso-meter-comida-caliente-nevera-1333332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/frigorifico-3218842.jpg?tf=1200x' alt='Este experto te aclara si es peligroso meter comida caliente en la nevera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estudio-ocu-videoconsolas-descanso-1332878'>¿Duermes bien? Casi la mitad de usuarios de videoconsolas no descansan adecuadamente</a></h4>
-    <a href='https://computerhoy.com/life/estudio-ocu-videoconsolas-descanso-1332878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/duermes-bien-casi-mitad-usuarios-videoconsolas-no-descansan-adecuadamente-3218108.jpg?tf=1200x' alt='¿Duermes bien? Casi la mitad de usuarios de videoconsolas no descansan adecuadamente' />
     </a>
 </div>
 
