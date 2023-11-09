@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-arrasa-aliexpress-desploma-precio-pantalla-amoled-precio-risa-1331358'>El smartwatch que arrasa en AliExpress desploma su precio: pantalla AMOLED a precio de risa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-arrasa-aliexpress-desploma-precio-pantalla-amoled-precio-risa-1331358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/zeblade-stratos-2-3215176.jpg?tf=1200x' alt='El smartwatch que arrasa en AliExpress desploma su precio: pantalla AMOLED a precio de risa' />
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-tamagotchi-hackers-7-cosas-geniales-no-sabias-podias-hacer-1332244'>Flipper Zero, el Tamagotchi para hackers: 7 cosas geniales que no sabías qué podías hacer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-zero-tamagotchi-hackers-7-cosas-geniales-no-sabias-podias-hacer-1332244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-sacar-maximo-partido-flipper-zero-7-cosas-geniales-no-sabias-podias-hacer-3217060.jpg?tf=1200x' alt='Flipper Zero, el Tamagotchi para hackers: 7 cosas geniales que no sabías qué podías hacer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/golpe-global-redes-pirateria-iptv-caen-webs-2800-millones-visitas-1332892'>Golpe global a las redes de piratería IPTV: caen webs con más de 2.800 millones de visitas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/golpe-global-redes-pirateria-iptv-caen-webs-2800-millones-visitas-1332892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='Golpe global a las redes de piratería IPTV: caen webs con más de 2.800 millones de visitas' />
+    <h4><a href='https://computerhoy.com/tecnologia/trucos-exprimir-11-11-aliexpress-1331814'>5 trucos para exprimir el 11 del 11 en AliExpress y conseguir los mejores chollos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trucos-exprimir-11-11-aliexpress-1331814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/11-11-aliexpress-dia-soltero-3215910.jpg?tf=1200x' alt='5 trucos para exprimir el 11 del 11 en AliExpress y conseguir los mejores chollos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/numeros-prohibidos-loteria-navidad-no-deberias-elegir-tirar-dinero-1332122'>Los números “prohibidos” de la Lotería de Navidad que no deberías elegir, es tirar el dinero</a></h4>
-    <a href='https://computerhoy.com/life/numeros-prohibidos-loteria-navidad-no-deberias-elegir-tirar-dinero-1332122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/loteria-navidad-3217762.jpg?tf=1200x' alt='Los números “prohibidos” de la Lotería de Navidad que no deberías elegir, es tirar el dinero' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-trabajar-elon-musk-no-jefe-facil-1330222'>Un asesor de SpaceX cuenta cómo es trabajar con Elon Musk: "No es el jefe más fácil"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-trabajar-elon-musk-no-jefe-facil-1330222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-como-trabajar-spacex-liderazgo-3215172.jpg?tf=1200x' alt='Un asesor de SpaceX cuenta cómo es trabajar con Elon Musk: "No es el jefe más fácil"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-miercoles-8-noviembre-2023-1332886'>Programación TV: ¿Qué ver hoy en televisión? Miércoles 8 de noviembre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-miercoles-8-noviembre-2023-1332886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-miercoles-8-noviembre-2023-3218110.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Miércoles 8 de noviembre de 2023' />
+    <h4><a href='https://computerhoy.com/industria/historia-sony-empresa-japonesa-innovo-revoluciono-varias-veces-mundo-tecnologia-1321394'>Historia de Sony: la empresa japonesa que innovó y revolucionó (varias veces) el mundo de la tecnología</a></h4>
+    <a href='https://computerhoy.com/industria/historia-sony-empresa-japonesa-innovo-revoluciono-varias-veces-mundo-tecnologia-1321394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/historia-sony-3199210.jpg?tf=1200x' alt='Historia de Sony: la empresa japonesa que innovó y revolucionó (varias veces) el mundo de la tecnología' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-asegura-chrome-ha-ahorrado-humanidad-10000-anos-1332880'>Google asegura que Chrome le ha ahorrado a la humanidad 10.000 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-asegura-chrome-ha-ahorrado-humanidad-10000-anos-1332880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Google asegura que Chrome le ha ahorrado a la humanidad 10.000 años' />
+    <h4><a href='https://computerhoy.com/moviles/recomendable-modo-oscuro-movil-paso-semana-usandolo-estas-son-conclusiones-1331894'>Paso una semana usando el modo oscuro del móvil y estas son mis conclusiones</a></h4>
+    <a href='https://computerhoy.com/moviles/recomendable-modo-oscuro-movil-paso-semana-usandolo-estas-son-conclusiones-1331894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/modo-oscuro-3217598.jpg?tf=1200x' alt='Paso una semana usando el modo oscuro del móvil y estas son mis conclusiones' />
     </a>
 </div>
 
