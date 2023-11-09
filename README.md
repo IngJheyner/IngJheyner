@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/omegle-famoso-servicio-videollamadas-aleatorias-extranos-dice-adios-14-anos-1333206'>Omegle, el famoso servicio de videollamadas aleatorias con extraños, dice adiós tras 14 años</a></h4>
+    <a href='https://computerhoy.com/internet/omegle-famoso-servicio-videollamadas-aleatorias-extranos-dice-adios-14-anos-1333206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/omegle-cierre-3218574.jpg?tf=1200x' alt='Omegle, el famoso servicio de videollamadas aleatorias con extraños, dice adiós tras 14 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estas-son-mejores-ofertas-11-11-aliexpress-puedes-meter-ya-cesta-1333166'>AliExpress muestra los chollos que podrás comprar el 11 del 11: éstos son los mejores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-son-mejores-ofertas-11-11-aliexpress-puedes-meter-ya-cesta-1333166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/compra-aliexpress-1111-2865579.jpg?tf=1200x' alt='AliExpress muestra los chollos que podrás comprar el 11 del 11: éstos son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ajustes-mejorar-seguridad-privacidad-google-chrome-1332176'>9 ajustes imprescindibles para mejorar la seguridad y la privacidad de Google Chrome</a></h4>
+    <a href='https://computerhoy.com/google/ajustes-mejorar-seguridad-privacidad-google-chrome-1332176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/9-ajustes-imprescindibles-mejorar-seguridad-privacidad-google-chrome-3216774.jpg?tf=1200x' alt='9 ajustes imprescindibles para mejorar la seguridad y la privacidad de Google Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/adobe-vende-imagenes-creadas-ia-guerra-israel-hamas-salen-noticias-pero-quien-culpa-1333164'>Adobe vende imágenes creadas con IA de la guerra entre Israel y Hamás y acaban en las noticias, pero ¿de quién es la culpa?</a></h4>
     <a href='https://computerhoy.com/tecnologia/adobe-vende-imagenes-creadas-ia-guerra-israel-hamas-salen-noticias-pero-quien-culpa-1333164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/adobe-imagenes-ia-3218438.jpg?tf=1200x' alt='Adobe vende imágenes creadas con IA de la guerra entre Israel y Hamás y acaban en las noticias, pero ¿de quién es la culpa?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/dia-inventor-internacional-5-inventos-pelicula-han-hecho-realidad-1332662'>Día del Inventor Internacional: 5 inventos de película que se han hecho realidad</a></h4>
     <a href='https://computerhoy.com/ciencia/dia-inventor-internacional-5-inventos-pelicula-han-hecho-realidad-1332662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dia-inventor-internacional-5-inventos-pelicula-han-hecho-realidad-3217610.jpg?tf=1200x' alt='Día del Inventor Internacional: 5 inventos de película que se han hecho realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacer-ordenador-windows-no-reconoce-memoria-usb-pendrive-1327824'>Todo lo que puedes hacer si tu ordenador Windows no reconoce tu memoria USB o Pendrive</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacer-ordenador-windows-no-reconoce-memoria-usb-pendrive-1327824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ordenador-no-reconoce-usb-3209088.jpg?tf=1200x' alt='Todo lo que puedes hacer si tu ordenador Windows no reconoce tu memoria USB o Pendrive' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/estudio-revela-sorpresas-uso-moviles-30-encuestados-tienen-alto-riesgo-adiccion-1333152'>Este estudio revela sorpresas sobre el uso de los móviles: un 30% de los encuestados tienen alto riesgo de adicción</a></h4>
-    <a href='https://computerhoy.com/moviles/estudio-revela-sorpresas-uso-moviles-30-encuestados-tienen-alto-riesgo-adiccion-1333152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/adiccion-moviles-3218416.jpg?tf=1200x' alt='Este estudio revela sorpresas sobre el uso de los móviles: un 30% de los encuestados tienen alto riesgo de adicción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-procesador-cpu-compatible-placa-base-1331380'>Cómo saber si un procesador (CPU) es compatible con tu placa base</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-procesador-cpu-compatible-placa-base-1331380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-saber-procesador-cpu-compatible-placa-base-3215352.jpg?tf=1200x' alt='Cómo saber si un procesador (CPU) es compatible con tu placa base' />
     </a>
 </div>
 
