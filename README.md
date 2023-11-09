@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/movistar-cuidado-correo-phishing-1332888'>Si eres de Movistar cuidado si te llega este correo, es un ataque de phishing</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/movistar-cuidado-correo-phishing-1332888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-movistar-2531743.jpg?tf=1200x' alt='Si eres de Movistar cuidado si te llega este correo, es un ataque de phishing' />
+    <h4><a href='https://computerhoy.com/life/jefe-horario-laboral-inesperados-causantes-mala-salud-cardiovascular-1333340'>Tu jefe y horario laboral: los inesperados causantes de una mala salud cardiovascular</a></h4>
+    <a href='https://computerhoy.com/life/jefe-horario-laboral-inesperados-causantes-mala-salud-cardiovascular-1333340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/jefe-trabajo-3218866.jpg?tf=1200x' alt='Tu jefe y horario laboral: los inesperados causantes de una mala salud cardiovascular' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-grabar-pantalla-windows-11-tener-descargar-ninguna-aplicacion-1333286'>Cómo grabar la pantalla con Windows 11 sin tener que descargar ninguna aplicación</a></h4>
-    <a href='https://computerhoy.com/windows/como-grabar-pantalla-windows-11-tener-descargar-ninguna-aplicacion-1333286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grabar-pantalla-windows-11-3218710.jpg?tf=1200x' alt='Cómo grabar la pantalla con Windows 11 sin tener que descargar ninguna aplicación' />
+    <h4><a href='https://computerhoy.com/audio/baseus-bowie-m2-auriculares-anc-top-aliexpress-50-descuento-1333334'>Cancelación de ruido a precio top: AliExpress tumba el precio de estos auriculares con ANC</a></h4>
+    <a href='https://computerhoy.com/audio/baseus-bowie-m2-auriculares-anc-top-aliexpress-50-descuento-1333334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/baseus-bowie-m2-3218852.jpg?tf=1200x' alt='Cancelación de ruido a precio top: AliExpress tumba el precio de estos auriculares con ANC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-tdt-jueves-9-noviembre-2023-1333302'>Programación TV: ¿Qué ver hoy en televisión? Jueves 9 de noviembre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-tdt-jueves-9-noviembre-2023-1333302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-jueves-9-noviembre-2023-3218740.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Jueves 9 de noviembre de 2023' />
+    <h4><a href='https://computerhoy.com/life/nace-nueva-isla-permanente-vivo-directo-1333134'>Un vídeo muestra cómo nace una nueva isla permanente, en vivo y en directo</a></h4>
+    <a href='https://computerhoy.com/life/nace-nueva-isla-permanente-vivo-directo-1333134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/video-muestra-como-forma-nueva-isla-permanente-vivo-directo-3218390.jpg?tf=1200x' alt='Un vídeo muestra cómo nace una nueva isla permanente, en vivo y en directo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ofertas-black-friday-comienzan-mejor-comprarse-iphone-14-elegir-otra-version-1333274'>Las ofertas de Black Friday comienzan: ¿es mejor comprarse el iPhone 14 o elegir otra versión?</a></h4>
-    <a href='https://computerhoy.com/moviles/ofertas-black-friday-comienzan-mejor-comprarse-iphone-14-elegir-otra-version-1333274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857703.jpg?tf=1200x' alt='Las ofertas de Black Friday comienzan: ¿es mejor comprarse el iPhone 14 o elegir otra versión?' />
+    <h4><a href='https://computerhoy.com/alimentacion/experto-te-aclaras-peligroso-meter-comida-caliente-nevera-1333332'>Este experto te aclara si es peligroso meter comida caliente en la nevera</a></h4>
+    <a href='https://computerhoy.com/alimentacion/experto-te-aclaras-peligroso-meter-comida-caliente-nevera-1333332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/frigorifico-3218842.jpg?tf=1200x' alt='Este experto te aclara si es peligroso meter comida caliente en la nevera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/trilogia-senor-anillos-vuelve-cines-1332904'>La trilogía de El Señor de los Anillos de Peter Jackson vuelve a los cines, para celebrar el 20 Aniversario</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/trilogia-senor-anillos-vuelve-cines-1332904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/senor-anillos-2612631.jpg?tf=1200x' alt='La trilogía de El Señor de los Anillos de Peter Jackson vuelve a los cines, para celebrar el 20 Aniversario' />
+    <h4><a href='https://computerhoy.com/life/estudio-ocu-videoconsolas-descanso-1332878'>¿Duermes bien? Casi la mitad de usuarios de videoconsolas no descansan adecuadamente</a></h4>
+    <a href='https://computerhoy.com/life/estudio-ocu-videoconsolas-descanso-1332878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/duermes-bien-casi-mitad-usuarios-videoconsolas-no-descansan-adecuadamente-3218108.jpg?tf=1200x' alt='¿Duermes bien? Casi la mitad de usuarios de videoconsolas no descansan adecuadamente' />
     </a>
 </div>
 
