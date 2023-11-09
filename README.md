@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/trucos-mantener-casa-caliente-encender-calefaccion-1332900'>Trucos de los expertos en ahorro para mantener la casa caliente sin encender la calefacción</a></h4>
-    <a href='https://computerhoy.com/hogar/trucos-mantener-casa-caliente-encender-calefaccion-1332900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/radiador-calefaccion-3209542.jpg?tf=1200x' alt='Trucos de los expertos en ahorro para mantener la casa caliente sin encender la calefacción' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/movistar-cuidado-correo-phishing-1332888'>Si eres de Movistar cuidado si te llega este correo, es un ataque de phishing</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/movistar-cuidado-correo-phishing-1332888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/tienda-movistar-2531743.jpg?tf=1200x' alt='Si eres de Movistar cuidado si te llega este correo, es un ataque de phishing' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/traduccion-llamadas-tiempo-real-nueva-funcion-ia-samsung-galaxy-s24-1333220'>Traducción de llamadas en tiempo real: la nueva función de IA del Samsung Galaxy S24</a></h4>
-    <a href='https://computerhoy.com/moviles/traduccion-llamadas-tiempo-real-nueva-funcion-ia-samsung-galaxy-s24-1333220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/samsung-ia-3218608.jpg?tf=1200x' alt='Traducción de llamadas en tiempo real: la nueva función de IA del Samsung Galaxy S24' />
+    <h4><a href='https://computerhoy.com/windows/como-grabar-pantalla-windows-11-tener-descargar-ninguna-aplicacion-1333286'>Cómo grabar la pantalla con Windows 11 sin tener que descargar ninguna aplicación</a></h4>
+    <a href='https://computerhoy.com/windows/como-grabar-pantalla-windows-11-tener-descargar-ninguna-aplicacion-1333286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grabar-pantalla-windows-11-3218710.jpg?tf=1200x' alt='Cómo grabar la pantalla con Windows 11 sin tener que descargar ninguna aplicación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tecnica-48-segundos-controlar-nervios-1329756'>La técnica de los 48 segundos para controlar los nervios antes de hablar en público</a></h4>
-    <a href='https://computerhoy.com/life/tecnica-48-segundos-controlar-nervios-1329756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hablar-publico-3217314.jpg?tf=1200x' alt='La técnica de los 48 segundos para controlar los nervios antes de hablar en público' />
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-tdt-jueves-9-noviembre-2023-1333302'>Programación TV: ¿Qué ver hoy en televisión? Jueves 9 de noviembre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-tdt-jueves-9-noviembre-2023-1333302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-jueves-9-noviembre-2023-3218740.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Jueves 9 de noviembre de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/llegada-usb-c-apple-pasa-aro-reconoce-son-inevitables-tiendas-terceros-1333170'>Apple pasa por el aro y ya está lista para hacer ajustes en su App Store para cumplir con la DMA</a></h4>
-    <a href='https://computerhoy.com/apple/llegada-usb-c-apple-pasa-aro-reconoce-son-inevitables-tiendas-terceros-1333170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-dma-3218500.jpg?tf=1200x' alt='Apple pasa por el aro y ya está lista para hacer ajustes en su App Store para cumplir con la DMA' />
+    <h4><a href='https://computerhoy.com/moviles/ofertas-black-friday-comienzan-mejor-comprarse-iphone-14-elegir-otra-version-1333274'>Las ofertas de Black Friday comienzan: ¿es mejor comprarse el iPhone 14 o elegir otra versión?</a></h4>
+    <a href='https://computerhoy.com/moviles/ofertas-black-friday-comienzan-mejor-comprarse-iphone-14-elegir-otra-version-1333274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857703.jpg?tf=1200x' alt='Las ofertas de Black Friday comienzan: ¿es mejor comprarse el iPhone 14 o elegir otra versión?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/omegle-famoso-servicio-videollamadas-aleatorias-extranos-dice-adios-14-anos-1333206'>Omegle, el famoso servicio de videollamadas aleatorias con extraños, dice adiós tras 14 años</a></h4>
-    <a href='https://computerhoy.com/internet/omegle-famoso-servicio-videollamadas-aleatorias-extranos-dice-adios-14-anos-1333206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/omegle-cierre-3218574.jpg?tf=1200x' alt='Omegle, el famoso servicio de videollamadas aleatorias con extraños, dice adiós tras 14 años' />
+    <h4><a href='https://computerhoy.com/entretenimiento/trilogia-senor-anillos-vuelve-cines-1332904'>La trilogía de El Señor de los Anillos de Peter Jackson vuelve a los cines, para celebrar el 20 Aniversario</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/trilogia-senor-anillos-vuelve-cines-1332904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/senor-anillos-2612631.jpg?tf=1200x' alt='La trilogía de El Señor de los Anillos de Peter Jackson vuelve a los cines, para celebrar el 20 Aniversario' />
     </a>
 </div>
 
