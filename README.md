@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
+    <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199976.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/200-dispositivos-analizados-unico-no-puedo-vivir-1324448'>He probado más de 200 dispositivos a lo largo de mi carrera y este es el único sin el que no puedo vivir   </a></h4>
+    <a href='https://computerhoy.com/tecnologia/200-dispositivos-analizados-unico-no-puedo-vivir-1324448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/portada-productos-3204406.jpg?tf=1200x' alt='He probado más de 200 dispositivos a lo largo de mi carrera y este es el único sin el que no puedo vivir   ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cupones-11-11-aliexpress-activos-1331862'>Cupones del 11 del 11 en AliExpress: estos son los que funcionan y cómo usarlos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cupones-11-11-aliexpress-activos-1331862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aliexpress-aplicacion-3210416.jpg?tf=1200x' alt='Cupones del 11 del 11 en AliExpress: estos son los que funcionan y cómo usarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/como-calentar-casa-electricidad-efecto-peltier-1332906'>Efecto peltier: qué es y cómo puedes utilizarlo para calentar tu casa sin electricidad</a></h4>
     <a href='https://computerhoy.com/hogar/como-calentar-casa-electricidad-efecto-peltier-1332906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/efecto-peltier-como-puedes-utilizarlo-calentar-casa-electricidad-3218136.jpg?tf=1200x' alt='Efecto peltier: qué es y cómo puedes utilizarlo para calentar tu casa sin electricidad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/robot-cuadrupedo-sr-02-como-montar-triceratops-1333346'>Montar en el robot cuadrúpedo SR-02 es como conducir un triceratops sin cabeza</a></h4>
     <a href='https://computerhoy.com/tecnologia/robot-cuadrupedo-sr-02-como-montar-triceratops-1333346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1699557029291-3218838.jpg?tf=1200x' alt='Montar en el robot cuadrúpedo SR-02 es como conducir un triceratops sin cabeza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/jefe-horario-laboral-inesperados-causantes-mala-salud-cardiovascular-1333340'>Tu jefe y horario laboral: los inesperados causantes de una mala salud cardiovascular</a></h4>
-    <a href='https://computerhoy.com/life/jefe-horario-laboral-inesperados-causantes-mala-salud-cardiovascular-1333340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/jefe-trabajo-3218866.jpg?tf=1200x' alt='Tu jefe y horario laboral: los inesperados causantes de una mala salud cardiovascular' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/baseus-bowie-m2-auriculares-anc-top-aliexpress-50-descuento-1333334'>Cancelación de ruido a precio top: AliExpress tumba el precio de estos auriculares con ANC</a></h4>
-    <a href='https://computerhoy.com/audio/baseus-bowie-m2-auriculares-anc-top-aliexpress-50-descuento-1333334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/baseus-bowie-m2-3218852.jpg?tf=1200x' alt='Cancelación de ruido a precio top: AliExpress tumba el precio de estos auriculares con ANC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nace-nueva-isla-permanente-vivo-directo-1333134'>Un vídeo muestra cómo nace una nueva isla permanente, en vivo y en directo</a></h4>
-    <a href='https://computerhoy.com/life/nace-nueva-isla-permanente-vivo-directo-1333134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/video-muestra-como-forma-nueva-isla-permanente-vivo-directo-3218390.jpg?tf=1200x' alt='Un vídeo muestra cómo nace una nueva isla permanente, en vivo y en directo' />
     </a>
 </div>
 
