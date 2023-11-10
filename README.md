@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/todos-smart-tv-oled-queman-10-meses-uso-intensivo-1333856'>Se confirman las sospechas: todos los Smart TV OLED se queman a los 10 meses de uso extremo</a></h4>
+    <a href='https://computerhoy.com/tv/todos-smart-tv-oled-queman-10-meses-uso-intensivo-1333856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/philips-ambilight-tv-oled718-3190512.jpg?tf=1200x' alt='Se confirman las sospechas: todos los Smart TV OLED se queman a los 10 meses de uso extremo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/rayas-unas-salen-cuando-pueden-ser-peligrosas-1332694'>Rayas en las uñas: ¿por qué salen y cuándo pueden ser peligrosas?</a></h4>
     <a href='https://computerhoy.com/alimentacion/rayas-unas-salen-cuando-pueden-ser-peligrosas-1332694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/rayas-unas-salen-cuando-pueden-ser-peligrosas-3217702.jpg?tf=1200x' alt='Rayas en las uñas: ¿por qué salen y cuándo pueden ser peligrosas?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/cuantos-bizum-pueden-hacer-mes-dia-1333298'>¿Cuántos Bizum se pueden hacer al mes? ¿Y al día?</a></h4>
     <a href='https://computerhoy.com/internet/cuantos-bizum-pueden-hacer-mes-dia-1333298' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cuantos-bizum-pueden-hacer-mes-dia-3218774.jpg?tf=1200x' alt='¿Cuántos Bizum se pueden hacer al mes? ¿Y al día?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/precio-locura-estos-auriculares-lenovo-11-euros-son-sensacion-rebajas-aliexpress-1332632'>Precio de locura: estos auriculares Lenovo de 11 euros son la sensación de las rebajas de AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/precio-locura-estos-auriculares-lenovo-11-euros-son-sensacion-rebajas-aliexpress-1332632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-lp5-3217386.jpg?tf=1200x' alt='Precio de locura: estos auriculares Lenovo de 11 euros son la sensación de las rebajas de AliExpress' />
     </a>
 </div>
 
