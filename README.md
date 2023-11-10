@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estudiar-noche-efectivo-mejor-memoria-1333696'>Dormir bien y estudiar menos: así explica la ciencia cómo potenciar la memoria</a></h4>
-    <a href='https://computerhoy.com/ciencia/estudiar-noche-efectivo-mejor-memoria-1333696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dormir-bien-estudiar-menos-explica-ciencia-como-potenciar-memoria-3219518.jpg?tf=1200x' alt='Dormir bien y estudiar menos: así explica la ciencia cómo potenciar la memoria' />
+    <h4><a href='https://computerhoy.com/alimentacion/rayas-unas-salen-cuando-pueden-ser-peligrosas-1332694'>Rayas en las uñas: ¿por qué salen y cuándo pueden ser peligrosas?</a></h4>
+    <a href='https://computerhoy.com/alimentacion/rayas-unas-salen-cuando-pueden-ser-peligrosas-1332694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/rayas-unas-salen-cuando-pueden-ser-peligrosas-3217702.jpg?tf=1200x' alt='Rayas en las uñas: ¿por qué salen y cuándo pueden ser peligrosas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-prime-video-hackers-historia-amor-mujer-ley-1333704'>Qué películas ver este fin de semana en Netflix, HBO Max y Prime Video: hackers, una historia de amor y una mujer contra la ley </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-hbo-max-prime-video-hackers-historia-amor-mujer-ley-1333704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/peliculas-fin-semana-3219552.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, HBO Max y Prime Video: hackers, una historia de amor y una mujer contra la ley ' />
+    <h4><a href='https://computerhoy.com/hogar/como-evitar-vaho-ventanas-invierno-1333848'>¿Cómo evitar el vaho en las ventanas en invierno?</a></h4>
+    <a href='https://computerhoy.com/hogar/como-evitar-vaho-ventanas-invierno-1333848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-evitar-vaho-ventanas-invierno-3219878.jpg?tf=1200x' alt='¿Cómo evitar el vaho en las ventanas en invierno?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/deberia-ser-tamano-televisor-salon-no-quieres-verlo-pixelado-1332590'>Este debería ser el tamaño de tu televisor según tu salón, si no quieres verlo pixelado</a></h4>
-    <a href='https://computerhoy.com/tutoriales/deberia-ser-tamano-televisor-salon-no-quieres-verlo-pixelado-1332590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mujer-viendo-television-3219734.jpg?tf=1200x' alt='Este debería ser el tamaño de tu televisor según tu salón, si no quieres verlo pixelado' />
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-app-ver-gratis-tdt-movil-da-gran-salto-calidad-1333880'>TDTChannels, la app para ver gratis la TDT en el móvil da un gran salto de calidad</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-app-ver-gratis-tdt-movil-da-gran-salto-calidad-1333880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels, la app para ver gratis la TDT en el móvil da un gran salto de calidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/elon-musk-acordo-mark-zuckerberg-comprar-twitter-1333746'>Lo primero de lo que se acordó Elon Musk tras comprar Twitter fue de Mark Zuckerberg, y no cariñosamente</a></h4>
-    <a href='https://computerhoy.com/redes/elon-musk-acordo-mark-zuckerberg-comprar-twitter-1333746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/primero-acordo-elon-musk-comprar-twitter-fue-mark-zuckerberg-no-carinosamente-3219810.jpg?tf=1200x' alt='Lo primero de lo que se acordó Elon Musk tras comprar Twitter fue de Mark Zuckerberg, y no cariñosamente' />
+    <h4><a href='https://computerhoy.com/internet/cuantos-bizum-pueden-hacer-mes-dia-1333298'>¿Cuántos Bizum se pueden hacer al mes? ¿Y al día?</a></h4>
+    <a href='https://computerhoy.com/internet/cuantos-bizum-pueden-hacer-mes-dia-1333298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cuantos-bizum-pueden-hacer-mes-dia-3218774.jpg?tf=1200x' alt='¿Cuántos Bizum se pueden hacer al mes? ¿Y al día?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/curiosidades-xiaomi-11-11-aliexpress-1333218'>Curiosidades de Xiaomi a precio de risa en el 11 del 11: estos son sus mejores gadgets</a></h4>
-    <a href='https://computerhoy.com/tecnologia/curiosidades-xiaomi-11-11-aliexpress-1333218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tienda-xiaomi-3218508.jpg?tf=1200x' alt='Curiosidades de Xiaomi a precio de risa en el 11 del 11: estos son sus mejores gadgets' />
+    <h4><a href='https://computerhoy.com/tecnologia/precio-locura-estos-auriculares-lenovo-11-euros-son-sensacion-rebajas-aliexpress-1332632'>Precio de locura: estos auriculares Lenovo de 11 euros son la sensación de las rebajas de AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/precio-locura-estos-auriculares-lenovo-11-euros-son-sensacion-rebajas-aliexpress-1332632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-lp5-3217386.jpg?tf=1200x' alt='Precio de locura: estos auriculares Lenovo de 11 euros son la sensación de las rebajas de AliExpress' />
     </a>
 </div>
 
