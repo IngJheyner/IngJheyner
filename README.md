@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dos-exempleados-apple-crean-alternativa-ia-smartphone-puedes-llevar-ropa-1333544'>Dos exempleados de Apple crean una alternativa con IA al smartphone que puedes llevar en la ropa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dos-exempleados-apple-crean-alternativa-ia-smartphone-puedes-llevar-ropa-1333544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ai-pin-3219120.jpg?tf=1200x' alt='Dos exempleados de Apple crean una alternativa con IA al smartphone que puedes llevar en la ropa' />
+    <h4><a href='https://computerhoy.com/motor/accesorio-coches-buscado-xiaomi-desploma-precio-11-11-1332726'>El accesorio para coches más buscado de Xiaomi desploma su precio por el 11 del 11</a></h4>
+    <a href='https://computerhoy.com/motor/accesorio-coches-buscado-xiaomi-desploma-precio-11-11-1332726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-portable-electric-air-compressor-2-3217734.jpg?tf=1200x' alt='El accesorio para coches más buscado de Xiaomi desploma su precio por el 11 del 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
-    <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199976.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
+    <h4><a href='https://computerhoy.com/criptos/bitcoin-desploma-35700-dolares-ha-ocurrido-1333642'>El Bitcoin se desploma a los 35.700 dólares, ¿Qué ha ocurrido?</a></h4>
+    <a href='https://computerhoy.com/criptos/bitcoin-desploma-35700-dolares-ha-ocurrido-1333642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/bitcoin-toca-maximo-13-meses-3076912.jpg?tf=1200x' alt='El Bitcoin se desploma a los 35.700 dólares, ¿Qué ha ocurrido?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/200-dispositivos-analizados-unico-no-puedo-vivir-1324448'>He probado más de 200 dispositivos a lo largo de mi carrera y este es el único sin el que no puedo vivir   </a></h4>
-    <a href='https://computerhoy.com/tecnologia/200-dispositivos-analizados-unico-no-puedo-vivir-1324448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/portada-productos-3204406.jpg?tf=1200x' alt='He probado más de 200 dispositivos a lo largo de mi carrera y este es el único sin el que no puedo vivir   ' />
+    <h4><a href='https://computerhoy.com/tecnologia/creador-chatgpt-mofa-elon-musk-chatbot-grok-gpt-pueden-ahorran-mucho-esfuerzo-1333566'>El creador de ChatGPT se mofa de Elon Musk y su chatbot Grok: "Las GPT pueden ahorran mucho esfuerzo"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/creador-chatgpt-mofa-elon-musk-chatbot-grok-gpt-pueden-ahorran-mucho-esfuerzo-1333566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-sam-altman-3219198.jpg?tf=1200x' alt='El creador de ChatGPT se mofa de Elon Musk y su chatbot Grok: "Las GPT pueden ahorran mucho esfuerzo"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cupones-11-11-aliexpress-activos-1331862'>Cupones del 11 del 11 en AliExpress: estos son los que funcionan y cómo usarlos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cupones-11-11-aliexpress-activos-1331862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aliexpress-aplicacion-3210416.jpg?tf=1200x' alt='Cupones del 11 del 11 en AliExpress: estos son los que funcionan y cómo usarlos' />
+    <h4><a href='https://computerhoy.com/android/tienes-kia-hyundai-usas-android-auto-estas-enhorabuena-1333580'>Si tienes un Kia o Hyundai y usas Android Auto, estás de enhorabuena</a></h4>
+    <a href='https://computerhoy.com/android/tienes-kia-hyundai-usas-android-auto-estas-enhorabuena-1333580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/movil-android-auto-dentro-coche-3099150.jpg?tf=1200x' alt='Si tienes un Kia o Hyundai y usas Android Auto, estás de enhorabuena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/como-calentar-casa-electricidad-efecto-peltier-1332906'>Efecto peltier: qué es y cómo puedes utilizarlo para calentar tu casa sin electricidad</a></h4>
-    <a href='https://computerhoy.com/hogar/como-calentar-casa-electricidad-efecto-peltier-1332906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/efecto-peltier-como-puedes-utilizarlo-calentar-casa-electricidad-3218136.jpg?tf=1200x' alt='Efecto peltier: qué es y cómo puedes utilizarlo para calentar tu casa sin electricidad' />
+    <h4><a href='https://computerhoy.com/moviles/movil-plegable-samsung-barato-podria-llegar-2024-cumplira-promesa-1333564'>Un móvil plegable Samsung más barato podría llegar en 2024: ¿cumplirá su promesa?</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-plegable-samsung-barato-podria-llegar-2024-cumplira-promesa-1333564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/galaxy-z-flip5-3103430.jpg?tf=1200x' alt='Un móvil plegable Samsung más barato podría llegar en 2024: ¿cumplirá su promesa?' />
     </a>
 </div>
 
