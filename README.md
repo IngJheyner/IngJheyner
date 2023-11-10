@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dos-exempleados-apple-crean-alternativa-ia-smartphone-puedes-llevar-ropa-1333544'>Dos exempleados de Apple crean una alternativa con IA al smartphone que puedes llevar en la ropa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dos-exempleados-apple-crean-alternativa-ia-smartphone-puedes-llevar-ropa-1333544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ai-pin-3219120.jpg?tf=1200x' alt='Dos exempleados de Apple crean una alternativa con IA al smartphone que puedes llevar en la ropa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
     <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199976.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/como-calentar-casa-electricidad-efecto-peltier-1332906'>Efecto peltier: qué es y cómo puedes utilizarlo para calentar tu casa sin electricidad</a></h4>
     <a href='https://computerhoy.com/hogar/como-calentar-casa-electricidad-efecto-peltier-1332906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/efecto-peltier-como-puedes-utilizarlo-calentar-casa-electricidad-3218136.jpg?tf=1200x' alt='Efecto peltier: qué es y cómo puedes utilizarlo para calentar tu casa sin electricidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-cuadrupedo-sr-02-como-montar-triceratops-1333346'>Montar en el robot cuadrúpedo SR-02 es como conducir un triceratops sin cabeza</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-cuadrupedo-sr-02-como-montar-triceratops-1333346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1699557029291-3218838.jpg?tf=1200x' alt='Montar en el robot cuadrúpedo SR-02 es como conducir un triceratops sin cabeza' />
     </a>
 </div>
 
