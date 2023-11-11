@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-estrena-android-auto-109-puedes-probarlo-antes-nadie-1334148'>Google estrena Android Auto 10.9 y así puedes probarlo antes que nadie</a></h4>
-    <a href='https://computerhoy.com/apps/google-estrena-android-auto-109-puedes-probarlo-antes-nadie-1334148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-liberar-android-auto-desbloquear-funciones-ocultas-3148184.jpg?tf=1200x' alt='Google estrena Android Auto 10.9 y así puedes probarlo antes que nadie' />
+    <h4><a href='https://computerhoy.com/tecnologia/ssd-1tb-pondra-pc-1-gb-segundo-precio-casi-ridiculo-ahora-mismo-1332470'>Este SSD de 1TB pondrá tu PC a 1 GB por segundo y su precio de casi ridículo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ssd-1tb-pondra-pc-1-gb-segundo-precio-casi-ridiculo-ahora-mismo-1332470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ssd-puskill-3217106.jpg?tf=1200x' alt='Este SSD de 1TB pondrá tu PC a 1 GB por segundo y su precio de casi ridículo ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-deja-dron-4k-buscado-precio-saldo-pero-hay-pocas-unidades-1332178'>AliExpress la lía y deja el dron 4K más buscado a precio de saldo, pero hay pocas unidades</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-lia-deja-dron-4k-buscado-precio-saldo-pero-hay-pocas-unidades-1332178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fimi-x8-mini-v2-3216684.jpg?tf=1200x' alt='AliExpress la lía y deja el dron 4K más buscado a precio de saldo, pero hay pocas unidades' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-nombres-usuario-canales-1334152'>WhatsApp trabaja en nombres de usuario para canales</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-trabaja-nombres-usuario-canales-1334152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-logo-3198238.jpg?tf=1200x' alt='WhatsApp trabaja en nombres de usuario para canales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-roborock-chollos-11-11-estos-son-robots-aspiradores-baratos-aliexpress-hoy-1333834'>Xiaomi, Roborock y más chollos del 11 del 11: estos son los robots aspiradores más baratos de AliExpress hoy</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-roborock-chollos-11-11-estos-son-robots-aspiradores-baratos-aliexpress-hoy-1333834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-omni-robot-vacuum-mop-2-3219856.jpg?tf=1200x' alt='Xiaomi, Roborock y más chollos del 11 del 11: estos son los robots aspiradores más baratos de AliExpress hoy' />
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-sabado-11-noviembre-2023-1334098'>Programación TV: ¿Qué ver hoy en televisión? Sábado 11 de noviembre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-sabado-11-noviembre-2023-1334098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-sabado-11-noviembre-2023-3220286.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Sábado 11 de noviembre de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cientificos-descubren-sol-pequeno-pensaba-1334146'>Científicos descubren que el Sol es más pequeño de lo que se pensaba</a></h4>
-    <a href='https://computerhoy.com/espacio/cientificos-descubren-sol-pequeno-pensaba-1334146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sol-3220388.jpg?tf=1200x' alt='Científicos descubren que el Sol es más pequeño de lo que se pensaba' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-hace-temblar-xiaomi-oferta-pixel-7a-pulveriza-precio-1333532'>Google hace temblar a Xiaomi con esta oferta: el Pixel 7a pulveriza su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-hace-temblar-xiaomi-oferta-pixel-7a-pulveriza-precio-1333532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029774.jpg?tf=1200x' alt='Google hace temblar a Xiaomi con esta oferta: el Pixel 7a pulveriza su precio' />
     </a>
 </div>
 
