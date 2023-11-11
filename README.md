@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/fin-huelga-actores-hollywood-frenazo-inteligencia-artificial-1333920'>El fin de la huelga de actores en Hollywood supone un frenazo para la IA en el cine</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fin-huelga-actores-hollywood-frenazo-inteligencia-artificial-1333920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/7-tecnologias-cine-parecen-ciencia-ficcion-pero-utilizan-grabaciones-1859899.jpg?tf=1200x' alt='El fin de la huelga de actores en Hollywood supone un frenazo para la IA en el cine' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/habitos-muy-extranos-steve-jobs-1333916'>Hábitos muy extraños de Steve Jobs (lee bajo tu responsabilidad, podría caerse un mito)</a></h4>
+    <a href='https://computerhoy.com/life/habitos-muy-extranos-steve-jobs-1333916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steve-jobs-sosteniendo-iphone-2986484.jpg?tf=1200x' alt='Hábitos muy extraños de Steve Jobs (lee bajo tu responsabilidad, podría caerse un mito)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/iptv-sentencia-espana-15000-euros-multa-piratear-futbol-1333868'>IPTV: sentencia sin precedentes en España, hasta 15.000 euros de multa por piratear fútbol</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/iptv-sentencia-espana-15000-euros-multa-piratear-futbol-1333868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estas-listas-iptv-ver-futbol-series-peliculas-tienen-dias-contados-3199736.jpg?tf=1200x' alt='IPTV: sentencia sin precedentes en España, hasta 15.000 euros de multa por piratear fútbol' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/movil-brutal-xiaomi-hoy-barato-nunca-cuesta-mitad-iphone-1332036'>El móvil más brutal de Xiaomi es hoy más barato que nunca: cuesta la mitad que un iPhone</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-brutal-xiaomi-hoy-barato-nunca-cuesta-mitad-iphone-1332036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-13t-pro-3216318.jpg?tf=1200x' alt='El móvil más brutal de Xiaomi es hoy más barato que nunca: cuesta la mitad que un iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/19216811-cambiar-contrasena-wifi-282217'>192.168.1.1: Cambiar contraseña del WiFi</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/19216811-cambiar-contrasena-wifi-282217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3219766.jpg?tf=1200x' alt='192.168.1.1: Cambiar contraseña del WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/todos-smart-tv-oled-queman-10-meses-uso-intensivo-1333856'>Se confirman las sospechas: todos los Smart TV OLED se queman a los 10 meses de uso extremo</a></h4>
-    <a href='https://computerhoy.com/tv/todos-smart-tv-oled-queman-10-meses-uso-intensivo-1333856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/philips-ambilight-tv-oled718-3190512.jpg?tf=1200x' alt='Se confirman las sospechas: todos los Smart TV OLED se queman a los 10 meses de uso extremo' />
     </a>
 </div>
 
