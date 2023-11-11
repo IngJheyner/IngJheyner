@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-reestrenarse-cines-anos-despues-tambien-han-sido-exito-1332826'>6 películas que al reestrenarse en cines años después también han sido un éxito</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/6-peliculas-reestrenarse-cines-anos-despues-tambien-han-sido-exito-1332826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/rey-leon-2554943.jpg?tf=1200x' alt='6 películas que al reestrenarse en cines años después también han sido un éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/parece-apple-watch-pero-cuesta-cinco-veces-menos-xiaomi-chollo-1332504'>Parece el Apple Watch pero cuesta cinco veces menos: este Xiaomi sí que es un chollo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/parece-apple-watch-pero-cuesta-cinco-veces-menos-xiaomi-chollo-1332504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-redmi-watch-3-active-1689615537867-3086012.jpg?tf=1200x' alt='Parece el Apple Watch pero cuesta cinco veces menos: este Xiaomi sí que es un chollo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tablet-xiaomi-rival-ipad-da-campanada-desploma-precio-11-11-1331912'>La tablet Xiaomi rival del iPad da la campanada: desploma su precio por el 11 del 11</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablet-xiaomi-rival-ipad-da-campanada-desploma-precio-11-11-1331912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-pad-6-3082052.jpg?tf=1200x' alt='La tablet Xiaomi rival del iPad da la campanada: desploma su precio por el 11 del 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pepino-mini-pc-no-tiene-nada-mini-32gb-ram-ryzen-7-precio-saldo-11-11-1332852'>Este pepino de Mini PC no tiene nada de mini: 32GB de RAM y Ryzen 7 a precio de saldo por el 11 del 11</a></h4>
     <a href='https://computerhoy.com/tecnologia/pepino-mini-pc-no-tiene-nada-mini-32gb-ram-ryzen-7-precio-saldo-11-11-1332852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amd-ryzen-3218006.jpg?tf=1200x' alt='Este pepino de Mini PC no tiene nada de mini: 32GB de RAM y Ryzen 7 a precio de saldo por el 11 del 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/antes-guardaba-contrasenas-notas-como-ahora-protejo-datos-movil-1328024'>Antes guardaba mis contraseñas en notas, así es como ahora protejo mis datos en el móvil</a></h4>
-    <a href='https://computerhoy.com/apps/antes-guardaba-contrasenas-notas-como-ahora-protejo-datos-movil-1328024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/contrasenas-movil-3209496.jpg?tf=1200x' alt='Antes guardaba mis contraseñas en notas, así es como ahora protejo mis datos en el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oferta-bomba-11-11-nueva-xiaomi-band-8-rebajada-minimo-historico-1332476'>Oferta bomba en el 11 del 11: la nueva Xiaomi Band 8, rebajada a mínimo histórico</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oferta-bomba-11-11-nueva-xiaomi-band-8-rebajada-minimo-historico-1332476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-smart-band-8-3197322.jpg?tf=1200x' alt='Oferta bomba en el 11 del 11: la nueva Xiaomi Band 8, rebajada a mínimo histórico' />
     </a>
 </div>
 
