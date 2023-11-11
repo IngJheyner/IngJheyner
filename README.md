@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ayaneo-remake-mini-pc-retro-1334094'>Los nuevos Mini PC retro de Ayaneo homenajean a Macintosh, NES, Super Nintendo, y Nintendo DS</a></h4>
-    <a href='https://computerhoy.com/pc/ayaneo-remake-mini-pc-retro-1334094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1699670185497-3220226.jpg?tf=1200x' alt='Los nuevos Mini PC retro de Ayaneo homenajean a Macintosh, NES, Super Nintendo, y Nintendo DS' />
+    <h4><a href='https://computerhoy.com/directos/ofertas-11-11-directo-estos-son-mejores-chollos-dia-solteros-1333592'>Las ofertas del 11 del 11, en directo: estos son los mejores chollos del Día de los Solteros</a></h4>
+    <a href='https://computerhoy.com/directos/ofertas-11-11-directo-estos-son-mejores-chollos-dia-solteros-1333592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/11-11-3219202.jpg?tf=1200x' alt='Las ofertas del 11 del 11, en directo: estos son los mejores chollos del Día de los Solteros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fin-huelga-actores-hollywood-frenazo-inteligencia-artificial-1333920'>El fin de la huelga de actores en Hollywood supone un frenazo para la IA en el cine</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fin-huelga-actores-hollywood-frenazo-inteligencia-artificial-1333920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/7-tecnologias-cine-parecen-ciencia-ficcion-pero-utilizan-grabaciones-1859899.jpg?tf=1200x' alt='El fin de la huelga de actores en Hollywood supone un frenazo para la IA en el cine' />
+    <h4><a href='https://computerhoy.com/gaming/aliexpress-da-sorpresa-tumba-precio-ps5-pero-van-agotar-rapido-1331930'>AliExpress da la sorpresa: tumba el precio de PS5, pero se van a agotar rápido</a></h4>
+    <a href='https://computerhoy.com/gaming/aliexpress-da-sorpresa-tumba-precio-ps5-pero-van-agotar-rapido-1331930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/playstation-5-ps5-3216088.jpg?tf=1200x' alt='AliExpress da la sorpresa: tumba el precio de PS5, pero se van a agotar rápido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/habitos-muy-extranos-steve-jobs-1333916'>Hábitos muy extraños de Steve Jobs (lee bajo tu responsabilidad, podría caerse un mito)</a></h4>
-    <a href='https://computerhoy.com/life/habitos-muy-extranos-steve-jobs-1333916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steve-jobs-sosteniendo-iphone-2986484.jpg?tf=1200x' alt='Hábitos muy extraños de Steve Jobs (lee bajo tu responsabilidad, podría caerse un mito)' />
+    <h4><a href='https://computerhoy.com/android/11-11-mejor-dia-ano-comprar-movil-xiaomi-oneplus-google-honor-precio-risa-1333740'>OnePlus, Xiaomi y más marcas revientan hoy sus precios: estos son los móviles top del 11 del 11</a></h4>
+    <a href='https://computerhoy.com/android/11-11-mejor-dia-ano-comprar-movil-xiaomi-oneplus-google-honor-precio-risa-1333740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-13t-series-3140190.jpg?tf=1200x' alt='OnePlus, Xiaomi y más marcas revientan hoy sus precios: estos son los móviles top del 11 del 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/iptv-sentencia-espana-15000-euros-multa-piratear-futbol-1333868'>IPTV: sentencia sin precedentes en España, hasta 15.000 euros de multa por piratear fútbol</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/iptv-sentencia-espana-15000-euros-multa-piratear-futbol-1333868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estas-listas-iptv-ver-futbol-series-peliculas-tienen-dias-contados-3199736.jpg?tf=1200x' alt='IPTV: sentencia sin precedentes en España, hasta 15.000 euros de multa por piratear fútbol' />
+    <h4><a href='https://computerhoy.com/windows/windows-12-fecha-lanzamiento-caracteristicas-modelos-compatibles-1333352'>Windows 12: fecha de lanzamiento, características, equipos compatibles y todo lo que debes saber </a></h4>
+    <a href='https://computerhoy.com/windows/windows-12-fecha-lanzamiento-caracteristicas-modelos-compatibles-1333352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/windows-12-3219514.jpg?tf=1200x' alt='Windows 12: fecha de lanzamiento, características, equipos compatibles y todo lo que debes saber ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/traduccion-tiempo-real-samsung-ia-galaxy-1333864'>¿En qué consistirá la traducción en tiempo real con IA de Samsung Galaxy?</a></h4>
-    <a href='https://computerhoy.com/moviles/traduccion-tiempo-real-samsung-ia-galaxy-1333864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/consistira-traduccion-tiempo-real-ia-galaxy-3219902.jpg?tf=1200x' alt='¿En qué consistirá la traducción en tiempo real con IA de Samsung Galaxy?' />
+    <h4><a href='https://computerhoy.com/moviles/como-tener-datos-aglomeraciones-zonas-poca-cobertura-1331328'>Cómo tener datos en aglomeraciones y zonas con poca cobertura</a></h4>
+    <a href='https://computerhoy.com/moviles/como-tener-datos-aglomeraciones-zonas-poca-cobertura-1331328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-comprobar-cobertura-real-movil-android-iphone-rapidamente-2887536.jpg?tf=1200x' alt='Cómo tener datos en aglomeraciones y zonas con poca cobertura' />
     </a>
 </div>
 
