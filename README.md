@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/rey-carga-rapida-hunde-precio-aliexpress-11-11-tiene-240w-potencia-pantalla-144-hz-1333584'>El rey de la carga rápida hunde su precio en AliExpress por el 11 del 11: tiene 240W de potencia y pantalla 144 Hz</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rey-carga-rapida-hunde-precio-aliexpress-11-11-tiene-240w-potencia-pantalla-144-hz-1333584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/realme-gt-neo-5-240w-3219134.jpg?tf=1200x' alt='El rey de la carga rápida hunde su precio en AliExpress por el 11 del 11: tiene 240W de potencia y pantalla 144 Hz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alguien-envia-5000-solicitudes-empleo-usando-ia-solo-consigue-20-entrevistas-1334162'>Alguien envía 5000 solicitudes de empleo usando IA y solo consigue 20 entrevistas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alguien-envia-5000-solicitudes-empleo-usando-ia-solo-consigue-20-entrevistas-1334162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/empleo-ia-3220406.jpg?tf=1200x' alt='Alguien envía 5000 solicitudes de empleo usando IA y solo consigue 20 entrevistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/120-hz-carga-turbo-67w-movil-xiaomi-ha-reventado-hoy-precio-1332456'>120 Hz y carga Turbo a 67W: este móvil Xiaomi ha reventado hoy su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/120-hz-carga-turbo-67w-movil-xiaomi-ha-reventado-hoy-precio-1332456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/poco-f56-pro-3029060.jpg?tf=1200x' alt='120 Hz y carga Turbo a 67W: este móvil Xiaomi ha reventado hoy su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ssd-1tb-pondra-pc-1-gb-segundo-precio-casi-ridiculo-ahora-mismo-1332470'>Este SSD de 1TB pondrá tu PC a 1 GB por segundo y su precio de casi ridículo ahora mismo</a></h4>
     <a href='https://computerhoy.com/tecnologia/ssd-1tb-pondra-pc-1-gb-segundo-precio-casi-ridiculo-ahora-mismo-1332470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ssd-puskill-3217106.jpg?tf=1200x' alt='Este SSD de 1TB pondrá tu PC a 1 GB por segundo y su precio de casi ridículo ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-nombres-usuario-canales-1334152'>WhatsApp trabaja en nombres de usuario para canales</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-trabaja-nombres-usuario-canales-1334152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-logo-3198238.jpg?tf=1200x' alt='WhatsApp trabaja en nombres de usuario para canales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-sabado-11-noviembre-2023-1334098'>Programación TV: ¿Qué ver hoy en televisión? Sábado 11 de noviembre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-sabado-11-noviembre-2023-1334098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-sabado-11-noviembre-2023-3220286.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Sábado 11 de noviembre de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-hace-temblar-xiaomi-oferta-pixel-7a-pulveriza-precio-1333532'>Google hace temblar a Xiaomi con esta oferta: el Pixel 7a pulveriza su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-hace-temblar-xiaomi-oferta-pixel-7a-pulveriza-precio-1333532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029774.jpg?tf=1200x' alt='Google hace temblar a Xiaomi con esta oferta: el Pixel 7a pulveriza su precio' />
     </a>
 </div>
 
