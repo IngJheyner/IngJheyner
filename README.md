@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-xiaomi-rival-ipad-da-campanada-desploma-precio-11-11-1331912'>La tablet Xiaomi rival del iPad da la campanada: desploma su precio por el 11 del 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-xiaomi-rival-ipad-da-campanada-desploma-precio-11-11-1331912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-pad-6-3082052.jpg?tf=1200x' alt='La tablet Xiaomi rival del iPad da la campanada: desploma su precio por el 11 del 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pepino-mini-pc-no-tiene-nada-mini-32gb-ram-ryzen-7-precio-saldo-11-11-1332852'>Este pepino de Mini PC no tiene nada de mini: 32GB de RAM y Ryzen 7 a precio de saldo por el 11 del 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pepino-mini-pc-no-tiene-nada-mini-32gb-ram-ryzen-7-precio-saldo-11-11-1332852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amd-ryzen-3218006.jpg?tf=1200x' alt='Este pepino de Mini PC no tiene nada de mini: 32GB de RAM y Ryzen 7 a precio de saldo por el 11 del 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/antes-guardaba-contrasenas-notas-como-ahora-protejo-datos-movil-1328024'>Antes guardaba mis contraseñas en notas, así es como ahora protejo mis datos en el móvil</a></h4>
+    <a href='https://computerhoy.com/apps/antes-guardaba-contrasenas-notas-como-ahora-protejo-datos-movil-1328024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/contrasenas-movil-3209496.jpg?tf=1200x' alt='Antes guardaba mis contraseñas en notas, así es como ahora protejo mis datos en el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/oferta-bomba-11-11-nueva-xiaomi-band-8-rebajada-minimo-historico-1332476'>Oferta bomba en el 11 del 11: la nueva Xiaomi Band 8, rebajada a mínimo histórico</a></h4>
     <a href='https://computerhoy.com/tecnologia/oferta-bomba-11-11-nueva-xiaomi-band-8-rebajada-minimo-historico-1332476' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-smart-band-8-3197322.jpg?tf=1200x' alt='Oferta bomba en el 11 del 11: la nueva Xiaomi Band 8, rebajada a mínimo histórico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/positividad-toxica-redes-cuando-felicidad-puede-convertirse-peligro-1326832'>Positividad tóxica en redes: cuando la felicidad puede convertirse en un peligro</a></h4>
-    <a href='https://computerhoy.com/redes/positividad-toxica-redes-cuando-felicidad-puede-convertirse-peligro-1326832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/positividad-toxica-redes-cuando-felicidad-puede-convertirse-peligro-3207594.jpg?tf=1200x' alt='Positividad tóxica en redes: cuando la felicidad puede convertirse en un peligro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/aliexpress-da-sorpresa-tumba-precio-ps5-pero-van-agotar-rapido-1331930'>AliExpress da la sorpresa: tumba el precio de PS5, pero se van a agotar rápido</a></h4>
-    <a href='https://computerhoy.com/gaming/aliexpress-da-sorpresa-tumba-precio-ps5-pero-van-agotar-rapido-1331930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/playstation-5-ps5-3216088.jpg?tf=1200x' alt='AliExpress da la sorpresa: tumba el precio de PS5, pero se van a agotar rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/11-11-mejor-dia-ano-comprar-movil-xiaomi-oneplus-google-honor-precio-risa-1333740'>OnePlus, Xiaomi y más marcas revientan hoy sus precios: estos son los móviles top del 11 del 11</a></h4>
-    <a href='https://computerhoy.com/android/11-11-mejor-dia-ano-comprar-movil-xiaomi-oneplus-google-honor-precio-risa-1333740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-13t-series-3140190.jpg?tf=1200x' alt='OnePlus, Xiaomi y más marcas revientan hoy sus precios: estos son los móviles top del 11 del 11' />
     </a>
 </div>
 
