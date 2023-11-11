@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/iptv-sentencia-espana-15000-euros-multa-piratear-futbol-1333868'>IPTV: sentencia sin precedentes en España, hasta 15.000 euros de multa por piratear fútbol</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/iptv-sentencia-espana-15000-euros-multa-piratear-futbol-1333868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estas-listas-iptv-ver-futbol-series-peliculas-tienen-dias-contados-3199736.jpg?tf=1200x' alt='IPTV: sentencia sin precedentes en España, hasta 15.000 euros de multa por piratear fútbol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/traduccion-tiempo-real-samsung-ia-galaxy-1333864'>¿En qué consistirá la traducción en tiempo real con IA de Samsung Galaxy?</a></h4>
+    <a href='https://computerhoy.com/moviles/traduccion-tiempo-real-samsung-ia-galaxy-1333864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/consistira-traduccion-tiempo-real-ia-galaxy-3219902.jpg?tf=1200x' alt='¿En qué consistirá la traducción en tiempo real con IA de Samsung Galaxy?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-brutal-xiaomi-hoy-barato-nunca-cuesta-mitad-iphone-1332036'>El móvil más brutal de Xiaomi es hoy más barato que nunca: cuesta la mitad que un iPhone</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-brutal-xiaomi-hoy-barato-nunca-cuesta-mitad-iphone-1332036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-13t-pro-3216318.jpg?tf=1200x' alt='El móvil más brutal de Xiaomi es hoy más barato que nunca: cuesta la mitad que un iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/19216811-cambiar-contrasena-wifi-282217'>192.168.1.1: Cambiar contraseña del WiFi</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/19216811-cambiar-contrasena-wifi-282217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3219766.jpg?tf=1200x' alt='192.168.1.1: Cambiar contraseña del WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/todos-smart-tv-oled-queman-10-meses-uso-intensivo-1333856'>Se confirman las sospechas: todos los Smart TV OLED se queman a los 10 meses de uso extremo</a></h4>
     <a href='https://computerhoy.com/tv/todos-smart-tv-oled-queman-10-meses-uso-intensivo-1333856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/philips-ambilight-tv-oled718-3190512.jpg?tf=1200x' alt='Se confirman las sospechas: todos los Smart TV OLED se queman a los 10 meses de uso extremo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/rayas-unas-salen-cuando-pueden-ser-peligrosas-1332694'>Rayas en las uñas: ¿por qué salen y cuándo pueden ser peligrosas?</a></h4>
-    <a href='https://computerhoy.com/alimentacion/rayas-unas-salen-cuando-pueden-ser-peligrosas-1332694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/rayas-unas-salen-cuando-pueden-ser-peligrosas-3217702.jpg?tf=1200x' alt='Rayas en las uñas: ¿por qué salen y cuándo pueden ser peligrosas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/como-evitar-vaho-ventanas-invierno-1333848'>¿Cómo evitar el vaho en las ventanas en invierno?</a></h4>
-    <a href='https://computerhoy.com/hogar/como-evitar-vaho-ventanas-invierno-1333848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-evitar-vaho-ventanas-invierno-3219878.jpg?tf=1200x' alt='¿Cómo evitar el vaho en las ventanas en invierno?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tdtchannels-app-ver-gratis-tdt-movil-da-gran-salto-calidad-1333880'>TDTChannels, la app para ver gratis la TDT en el móvil da un gran salto de calidad</a></h4>
-    <a href='https://computerhoy.com/apps/tdtchannels-app-ver-gratis-tdt-movil-da-gran-salto-calidad-1333880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels, la app para ver gratis la TDT en el móvil da un gran salto de calidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cuantos-bizum-pueden-hacer-mes-dia-1333298'>¿Cuántos Bizum se pueden hacer al mes? ¿Y al día?</a></h4>
-    <a href='https://computerhoy.com/internet/cuantos-bizum-pueden-hacer-mes-dia-1333298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cuantos-bizum-pueden-hacer-mes-dia-3218774.jpg?tf=1200x' alt='¿Cuántos Bizum se pueden hacer al mes? ¿Y al día?' />
     </a>
 </div>
 
