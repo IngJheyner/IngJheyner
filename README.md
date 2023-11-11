@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/ayaneo-remake-mini-pc-retro-1334094'>Los nuevos Mini PC retro de Ayaneo homenajean a Macintosh, NES, Super Nintendo, y Nintendo DS</a></h4>
+    <a href='https://computerhoy.com/pc/ayaneo-remake-mini-pc-retro-1334094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1699670185497-3220226.jpg?tf=1200x' alt='Los nuevos Mini PC retro de Ayaneo homenajean a Macintosh, NES, Super Nintendo, y Nintendo DS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/fin-huelga-actores-hollywood-frenazo-inteligencia-artificial-1333920'>El fin de la huelga de actores en Hollywood supone un frenazo para la IA en el cine</a></h4>
     <a href='https://computerhoy.com/entretenimiento/fin-huelga-actores-hollywood-frenazo-inteligencia-artificial-1333920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/7-tecnologias-cine-parecen-ciencia-ficcion-pero-utilizan-grabaciones-1859899.jpg?tf=1200x' alt='El fin de la huelga de actores en Hollywood supone un frenazo para la IA en el cine' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/traduccion-tiempo-real-samsung-ia-galaxy-1333864'>¿En qué consistirá la traducción en tiempo real con IA de Samsung Galaxy?</a></h4>
     <a href='https://computerhoy.com/moviles/traduccion-tiempo-real-samsung-ia-galaxy-1333864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/consistira-traduccion-tiempo-real-ia-galaxy-3219902.jpg?tf=1200x' alt='¿En qué consistirá la traducción en tiempo real con IA de Samsung Galaxy?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-brutal-xiaomi-hoy-barato-nunca-cuesta-mitad-iphone-1332036'>El móvil más brutal de Xiaomi es hoy más barato que nunca: cuesta la mitad que un iPhone</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-brutal-xiaomi-hoy-barato-nunca-cuesta-mitad-iphone-1332036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-13t-pro-3216318.jpg?tf=1200x' alt='El móvil más brutal de Xiaomi es hoy más barato que nunca: cuesta la mitad que un iPhone' />
     </a>
 </div>
 
