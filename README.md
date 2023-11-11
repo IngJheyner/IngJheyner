@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/problema-lag-estan-sufriendo-estos-usuarios-concretos-android-auto-1334136'>El problema de lag que están sufriendo estos usuarios concretos de Android Auto</a></h4>
-    <a href='https://computerhoy.com/apps/problema-lag-estan-sufriendo-estos-usuarios-concretos-android-auto-1334136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg?tf=1200x' alt='El problema de lag que están sufriendo estos usuarios concretos de Android Auto' />
+    <h4><a href='https://computerhoy.com/apple/apple-aclara-no-aumentara-precios-iphone-compensar-costes-objetivos-medioambientales-1334142'>Apple aclara que no aumentará los precios del iPhone para compensar los costes de los objetivos medioambientales</a></h4>
+    <a href='https://computerhoy.com/apple/apple-aclara-no-aumentara-precios-iphone-compensar-costes-objetivos-medioambientales-1334142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oficinas-apple-3220378.jpg?tf=1200x' alt='Apple aclara que no aumentará los precios del iPhone para compensar los costes de los objetivos medioambientales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-combinar-varios-archivos-pdf-solo-gratis-instalar-nada-1333350'>Cómo combinar varios archivos PDF en uno solo gratis y sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-combinar-varios-archivos-pdf-solo-gratis-instalar-nada-1333350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-combinar-varios-archivos-pdf-solo-gratis-instalar-nada-3218880.jpg?tf=1200x' alt='Cómo combinar varios archivos PDF en uno solo gratis y sin instalar nada' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-todos-correos-gmail-1332572'>Cómo borrar todos los correos de Gmail</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-todos-correos-gmail-1332572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/borrar-todos-correos-gmail-3217110.jpg?tf=1200x' alt='Cómo borrar todos los correos de Gmail' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/air-fryer-buscada-arrasa-11-11-xiaomi-barata-nunca-1332002'>La Air Fryer más buscada arrasa en el 11 del 11: es de Xiaomi y más barata que nunca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/air-fryer-buscada-arrasa-11-11-xiaomi-barata-nunca-1332002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/consigue-xiaomi-air-fryer-83eu-2917672.jpg?tf=1200x' alt='La Air Fryer más buscada arrasa en el 11 del 11: es de Xiaomi y más barata que nunca' />
+    <h4><a href='https://computerhoy.com/tecnologia/movil-xiaomi-5g-arrasa-ventas-aterriza-11-11-rebajazo-1331952'>El móvil Xiaomi 5G que arrasa en ventas aterriza en el 11 del 11 y con rebajazo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-xiaomi-5g-arrasa-ventas-aterriza-11-11-rebajazo-1331952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-redmi-12-pro-plus-5g-xiaomi-redmi-12-pro-5g-3216132.jpg?tf=1200x' alt='El móvil Xiaomi 5G que arrasa en ventas aterriza en el 11 del 11 y con rebajazo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/importante-actualizacion-windows-11-23h2-no-instala-muchos-usuarios-1334130'>La importante actualización Windows 11 23H2 no se instala para muchos usuarios</a></h4>
-    <a href='https://computerhoy.com/windows/importante-actualizacion-windows-11-23h2-no-instala-muchos-usuarios-1334130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-bloquear-instalacion-aplicaciones-windows-11-3205444.jpg?tf=1200x' alt='La importante actualización Windows 11 23H2 no se instala para muchos usuarios' />
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-16gb-ram-pepino-android-precio-saldo-solo-11-11-1332184'>Este OnePlus con 16GB de RAM es un pepino Android a precio de saldo solo en el 11 del 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-16gb-ram-pepino-android-precio-saldo-solo-11-11-1332184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oneplus-nord-3-3080270.jpg?tf=1200x' alt='Este OnePlus con 16GB de RAM es un pepino Android a precio de saldo solo en el 11 del 11' />
     </a>
 </div>
 
