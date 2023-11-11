@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cupones-11-11-aliexpress-activos-1331862'>Cupones del 11 del 11 en AliExpress: estos son los que funcionan y cómo usarlos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cupones-11-11-aliexpress-activos-1331862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aliexpress-aplicacion-3210416.jpg?tf=1200x' alt='Cupones del 11 del 11 en AliExpress: estos son los que funcionan y cómo usarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-crear-archivos-7-zip-tar-herramientas-terceros-1334170'>Windows 11 te permitirá crear archivos 7-zip y TAR sin herramientas de terceros</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-te-permitira-crear-archivos-7-zip-tar-herramientas-terceros-1334170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-11-3040832.jpg?tf=1200x' alt='Windows 11 te permitirá crear archivos 7-zip y TAR sin herramientas de terceros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/rey-carga-rapida-hunde-precio-aliexpress-11-11-tiene-240w-potencia-pantalla-144-hz-1333584'>El rey de la carga rápida hunde su precio en AliExpress por el 11 del 11: tiene 240W de potencia y pantalla 144 Hz</a></h4>
     <a href='https://computerhoy.com/tecnologia/rey-carga-rapida-hunde-precio-aliexpress-11-11-tiene-240w-potencia-pantalla-144-hz-1333584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/realme-gt-neo-5-240w-3219134.jpg?tf=1200x' alt='El rey de la carga rápida hunde su precio en AliExpress por el 11 del 11: tiene 240W de potencia y pantalla 144 Hz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alguien-envia-5000-solicitudes-empleo-usando-ia-solo-consigue-20-entrevistas-1334162'>Alguien envía 5000 solicitudes de empleo usando IA y solo consigue 20 entrevistas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alguien-envia-5000-solicitudes-empleo-usando-ia-solo-consigue-20-entrevistas-1334162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/empleo-ia-3220406.jpg?tf=1200x' alt='Alguien envía 5000 solicitudes de empleo usando IA y solo consigue 20 entrevistas' />
     </a>
 </div>
 
