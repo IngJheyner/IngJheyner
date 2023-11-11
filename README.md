@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oferta-bomba-11-11-nueva-xiaomi-band-8-rebajada-minimo-historico-1332476'>Oferta bomba en el 11 del 11: la nueva Xiaomi Band 8, rebajada a mínimo histórico</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oferta-bomba-11-11-nueva-xiaomi-band-8-rebajada-minimo-historico-1332476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-smart-band-8-3197322.jpg?tf=1200x' alt='Oferta bomba en el 11 del 11: la nueva Xiaomi Band 8, rebajada a mínimo histórico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/positividad-toxica-redes-cuando-felicidad-puede-convertirse-peligro-1326832'>Positividad tóxica en redes: cuando la felicidad puede convertirse en un peligro</a></h4>
+    <a href='https://computerhoy.com/redes/positividad-toxica-redes-cuando-felicidad-puede-convertirse-peligro-1326832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/positividad-toxica-redes-cuando-felicidad-puede-convertirse-peligro-3207594.jpg?tf=1200x' alt='Positividad tóxica en redes: cuando la felicidad puede convertirse en un peligro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/aliexpress-da-sorpresa-tumba-precio-ps5-pero-van-agotar-rapido-1331930'>AliExpress da la sorpresa: tumba el precio de PS5, pero se van a agotar rápido</a></h4>
     <a href='https://computerhoy.com/gaming/aliexpress-da-sorpresa-tumba-precio-ps5-pero-van-agotar-rapido-1331930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/playstation-5-ps5-3216088.jpg?tf=1200x' alt='AliExpress da la sorpresa: tumba el precio de PS5, pero se van a agotar rápido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/11-11-mejor-dia-ano-comprar-movil-xiaomi-oneplus-google-honor-precio-risa-1333740'>OnePlus, Xiaomi y más marcas revientan hoy sus precios: estos son los móviles top del 11 del 11</a></h4>
     <a href='https://computerhoy.com/android/11-11-mejor-dia-ano-comprar-movil-xiaomi-oneplus-google-honor-precio-risa-1333740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-13t-series-3140190.jpg?tf=1200x' alt='OnePlus, Xiaomi y más marcas revientan hoy sus precios: estos son los móviles top del 11 del 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-12-fecha-lanzamiento-caracteristicas-modelos-compatibles-1333352'>Windows 12: fecha de lanzamiento, características, equipos compatibles y todo lo que debes saber </a></h4>
-    <a href='https://computerhoy.com/windows/windows-12-fecha-lanzamiento-caracteristicas-modelos-compatibles-1333352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/windows-12-3219514.jpg?tf=1200x' alt='Windows 12: fecha de lanzamiento, características, equipos compatibles y todo lo que debes saber ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-tener-datos-aglomeraciones-zonas-poca-cobertura-1331328'>Cómo tener datos en aglomeraciones y zonas con poca cobertura</a></h4>
-    <a href='https://computerhoy.com/moviles/como-tener-datos-aglomeraciones-zonas-poca-cobertura-1331328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-comprobar-cobertura-real-movil-android-iphone-rapidamente-2887536.jpg?tf=1200x' alt='Cómo tener datos en aglomeraciones y zonas con poca cobertura' />
     </a>
 </div>
 
