@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-aclara-no-aumentara-precios-iphone-compensar-costes-objetivos-medioambientales-1334142'>Apple aclara que no aumentará los precios del iPhone para compensar los costes de los objetivos medioambientales</a></h4>
-    <a href='https://computerhoy.com/apple/apple-aclara-no-aumentara-precios-iphone-compensar-costes-objetivos-medioambientales-1334142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oficinas-apple-3220378.jpg?tf=1200x' alt='Apple aclara que no aumentará los precios del iPhone para compensar los costes de los objetivos medioambientales' />
+    <h4><a href='https://computerhoy.com/apps/google-estrena-android-auto-109-puedes-probarlo-antes-nadie-1334148'>Google estrena Android Auto 10.9 y así puedes probarlo antes que nadie</a></h4>
+    <a href='https://computerhoy.com/apps/google-estrena-android-auto-109-puedes-probarlo-antes-nadie-1334148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-liberar-android-auto-desbloquear-funciones-ocultas-3148184.jpg?tf=1200x' alt='Google estrena Android Auto 10.9 y así puedes probarlo antes que nadie' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-todos-correos-gmail-1332572'>Cómo borrar todos los correos de Gmail</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-borrar-todos-correos-gmail-1332572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/borrar-todos-correos-gmail-3217110.jpg?tf=1200x' alt='Cómo borrar todos los correos de Gmail' />
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-deja-dron-4k-buscado-precio-saldo-pero-hay-pocas-unidades-1332178'>AliExpress la lía y deja el dron 4K más buscado a precio de saldo, pero hay pocas unidades</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-lia-deja-dron-4k-buscado-precio-saldo-pero-hay-pocas-unidades-1332178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fimi-x8-mini-v2-3216684.jpg?tf=1200x' alt='AliExpress la lía y deja el dron 4K más buscado a precio de saldo, pero hay pocas unidades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-xiaomi-5g-arrasa-ventas-aterriza-11-11-rebajazo-1331952'>El móvil Xiaomi 5G que arrasa en ventas aterriza en el 11 del 11 y con rebajazo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-xiaomi-5g-arrasa-ventas-aterriza-11-11-rebajazo-1331952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-redmi-12-pro-plus-5g-xiaomi-redmi-12-pro-5g-3216132.jpg?tf=1200x' alt='El móvil Xiaomi 5G que arrasa en ventas aterriza en el 11 del 11 y con rebajazo' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-roborock-chollos-11-11-estos-son-robots-aspiradores-baratos-aliexpress-hoy-1333834'>Xiaomi, Roborock y más chollos del 11 del 11: estos son los robots aspiradores más baratos de AliExpress hoy</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-roborock-chollos-11-11-estos-son-robots-aspiradores-baratos-aliexpress-hoy-1333834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-omni-robot-vacuum-mop-2-3219856.jpg?tf=1200x' alt='Xiaomi, Roborock y más chollos del 11 del 11: estos son los robots aspiradores más baratos de AliExpress hoy' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-16gb-ram-pepino-android-precio-saldo-solo-11-11-1332184'>Este OnePlus con 16GB de RAM es un pepino Android a precio de saldo solo en el 11 del 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-16gb-ram-pepino-android-precio-saldo-solo-11-11-1332184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oneplus-nord-3-3080270.jpg?tf=1200x' alt='Este OnePlus con 16GB de RAM es un pepino Android a precio de saldo solo en el 11 del 11' />
+    <h4><a href='https://computerhoy.com/espacio/cientificos-descubren-sol-pequeno-pensaba-1334146'>Científicos descubren que el Sol es más pequeño de lo que se pensaba</a></h4>
+    <a href='https://computerhoy.com/espacio/cientificos-descubren-sol-pequeno-pensaba-1334146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sol-3220388.jpg?tf=1200x' alt='Científicos descubren que el Sol es más pequeño de lo que se pensaba' />
     </a>
 </div>
 
