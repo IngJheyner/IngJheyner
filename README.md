@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-reestrenarse-cines-anos-despues-tambien-han-sido-exito-1332826'>6 películas que al reestrenarse en cines años después también han sido un éxito</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/6-peliculas-reestrenarse-cines-anos-despues-tambien-han-sido-exito-1332826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/rey-leon-2554943.jpg?tf=1200x' alt='6 películas que al reestrenarse en cines años después también han sido un éxito' />
+    <h4><a href='https://computerhoy.com/apps/problema-lag-estan-sufriendo-estos-usuarios-concretos-android-auto-1334136'>El problema de lag que están sufriendo estos usuarios concretos de Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/problema-lag-estan-sufriendo-estos-usuarios-concretos-android-auto-1334136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg?tf=1200x' alt='El problema de lag que están sufriendo estos usuarios concretos de Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/parece-apple-watch-pero-cuesta-cinco-veces-menos-xiaomi-chollo-1332504'>Parece el Apple Watch pero cuesta cinco veces menos: este Xiaomi sí que es un chollo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/parece-apple-watch-pero-cuesta-cinco-veces-menos-xiaomi-chollo-1332504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-redmi-watch-3-active-1689615537867-3086012.jpg?tf=1200x' alt='Parece el Apple Watch pero cuesta cinco veces menos: este Xiaomi sí que es un chollo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-combinar-varios-archivos-pdf-solo-gratis-instalar-nada-1333350'>Cómo combinar varios archivos PDF en uno solo gratis y sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-combinar-varios-archivos-pdf-solo-gratis-instalar-nada-1333350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-combinar-varios-archivos-pdf-solo-gratis-instalar-nada-3218880.jpg?tf=1200x' alt='Cómo combinar varios archivos PDF en uno solo gratis y sin instalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-xiaomi-rival-ipad-da-campanada-desploma-precio-11-11-1331912'>La tablet Xiaomi rival del iPad da la campanada: desploma su precio por el 11 del 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-xiaomi-rival-ipad-da-campanada-desploma-precio-11-11-1331912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-pad-6-3082052.jpg?tf=1200x' alt='La tablet Xiaomi rival del iPad da la campanada: desploma su precio por el 11 del 11' />
+    <h4><a href='https://computerhoy.com/tecnologia/air-fryer-buscada-arrasa-11-11-xiaomi-barata-nunca-1332002'>La Air Fryer más buscada arrasa en el 11 del 11: es de Xiaomi y más barata que nunca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/air-fryer-buscada-arrasa-11-11-xiaomi-barata-nunca-1332002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/consigue-xiaomi-air-fryer-83eu-2917672.jpg?tf=1200x' alt='La Air Fryer más buscada arrasa en el 11 del 11: es de Xiaomi y más barata que nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pepino-mini-pc-no-tiene-nada-mini-32gb-ram-ryzen-7-precio-saldo-11-11-1332852'>Este pepino de Mini PC no tiene nada de mini: 32GB de RAM y Ryzen 7 a precio de saldo por el 11 del 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pepino-mini-pc-no-tiene-nada-mini-32gb-ram-ryzen-7-precio-saldo-11-11-1332852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amd-ryzen-3218006.jpg?tf=1200x' alt='Este pepino de Mini PC no tiene nada de mini: 32GB de RAM y Ryzen 7 a precio de saldo por el 11 del 11' />
+    <h4><a href='https://computerhoy.com/windows/importante-actualizacion-windows-11-23h2-no-instala-muchos-usuarios-1334130'>La importante actualización Windows 11 23H2 no se instala para muchos usuarios</a></h4>
+    <a href='https://computerhoy.com/windows/importante-actualizacion-windows-11-23h2-no-instala-muchos-usuarios-1334130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-bloquear-instalacion-aplicaciones-windows-11-3205444.jpg?tf=1200x' alt='La importante actualización Windows 11 23H2 no se instala para muchos usuarios' />
     </a>
 </div>
 
