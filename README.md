@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/maniqui-quirurgico-avanzado-ejercito-britanico-1334352'>La armada británica desvela el maniquí más realista para entrenar a sus cirujanos, y da miedo de lo real que es</a></h4>
+    <a href='https://computerhoy.com/life/maniqui-quirurgico-avanzado-ejercito-britanico-1334352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/armada-britanica-desvela-maniqui-realista-entrenar-cirujanos-da-miedo-real-3220474.jpg?tf=1200x' alt='La armada británica desvela el maniquí más realista para entrenar a sus cirujanos, y da miedo de lo real que es' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-eliminara-itunes-movie-store-fusionarla-apple-tv-1334366'>Apple eliminará iTunes Movie Store para fusionarla con Apple TV</a></h4>
+    <a href='https://computerhoy.com/apple/apple-eliminara-itunes-movie-store-fusionarla-apple-tv-1334366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-apple-tv-4k-2022-2903666.jpg?tf=1200x' alt='Apple eliminará iTunes Movie Store para fusionarla con Apple TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/te-llaman-robot-dice-goodbye-cuelgan-funcionan-robollamadas-teleoperadoras-1331900'>Me llaman, un robot dice "goodbye" y cuelgan: he comprobado cómo funcionan las robollamadas de las teleoperadoras</a></h4>
+    <a href='https://computerhoy.com/life/te-llaman-robot-dice-goodbye-cuelgan-funcionan-robollamadas-teleoperadoras-1331900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/robollamadas-3216106.jpg?tf=1200x' alt='Me llaman, un robot dice "goodbye" y cuelgan: he comprobado cómo funcionan las robollamadas de las teleoperadoras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/diferencias-cpu-gpu-son-sirven-1332792'>Diferencias entre CPU y GPU: qué son y para qué sirven</a></h4>
     <a href='https://computerhoy.com/pc/diferencias-cpu-gpu-son-sirven-1332792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/diferencias-cpu-gpu-son-sirven-3217974.jpg?tf=1200x' alt='Diferencias entre CPU y GPU: qué son y para qué sirven' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/hacktivismo-cuales-son-motivaciones-detras-ataques-1321552'>¿Qué es el 'hacktivismo' y cuáles son las motivaciones detrás de sus ataques?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/hacktivismo-cuales-son-motivaciones-detras-ataques-1321552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1699466997673-3218042.jpg?tf=1200x' alt='¿Qué es el 'hacktivismo' y cuáles son las motivaciones detrás de sus ataques?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-desbloquear-amazon-fire-tv-funciona-lento-atasca-1332760'>El genial truco para desbloquear un Amazon Fire TV que funciona lento y se atasca</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-desbloquear-amazon-fire-tv-funciona-lento-atasca-1332760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/genial-truco-desbloquear-amazon-fire-tv-funciona-lento-atasca-3217892.jpg?tf=1200x' alt='El genial truco para desbloquear un Amazon Fire TV que funciona lento y se atasca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-terapeuta-chatbot-inteligencia-artificial-ofrecerte-atencion-emocional-1334168'>Microsoft piensa en un terapeuta chatbot con inteligencia artificial para ofrecerte atención emocional</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-terapeuta-chatbot-inteligencia-artificial-ofrecerte-atencion-emocional-1334168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/medico-robot-3220410.jpg?tf=1200x' alt='Microsoft piensa en un terapeuta chatbot con inteligencia artificial para ofrecerte atención emocional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/solo-juego-consolas-antiguas-no-cambiaria-nuevas-1323922'>Llevo toda la vida jugando a consolas antiguas y no cambiaría nunca a las de última generación</a></h4>
-    <a href='https://computerhoy.com/gaming/solo-juego-consolas-antiguas-no-cambiaria-nuevas-1323922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/jaime-gonzalez-soriano-redactor-traductor-documentalista-edicion-castellano-revista-retro-gamer-personal-tecnico-game-3205362.jpg?tf=1200x' alt='Llevo toda la vida jugando a consolas antiguas y no cambiaría nunca a las de última generación' />
     </a>
 </div>
 
