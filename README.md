@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/maniqui-quirurgico-avanzado-ejercito-britanico-1334352'>La armada británica desvela el maniquí más realista para entrenar a sus cirujanos, y da miedo de lo real que es</a></h4>
-    <a href='https://computerhoy.com/life/maniqui-quirurgico-avanzado-ejercito-britanico-1334352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/armada-britanica-desvela-maniqui-realista-entrenar-cirujanos-da-miedo-real-3220474.jpg?tf=1200x' alt='La armada británica desvela el maniquí más realista para entrenar a sus cirujanos, y da miedo de lo real que es' />
+    <h4><a href='https://computerhoy.com/life/inventan-pasta-dientes-tratar-alergias-cacahuete-1334378'>Inventan una pasta de dientes para tratar las alergias al cacahuete</a></h4>
+    <a href='https://computerhoy.com/life/inventan-pasta-dientes-tratar-alergias-cacahuete-1334378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/pasta-dientes-2290701.jpg?tf=1200x' alt='Inventan una pasta de dientes para tratar las alergias al cacahuete' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-eliminara-itunes-movie-store-fusionarla-apple-tv-1334366'>Apple eliminará iTunes Movie Store para fusionarla con Apple TV</a></h4>
-    <a href='https://computerhoy.com/apple/apple-eliminara-itunes-movie-store-fusionarla-apple-tv-1334366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-apple-tv-4k-2022-2903666.jpg?tf=1200x' alt='Apple eliminará iTunes Movie Store para fusionarla con Apple TV' />
+    <h4><a href='https://computerhoy.com/audio/mejor-altavoz-portatil-aliexpress-ahora-barato-nunca-1334180'>El mejor altavoz portátil de AliExpress está ahora más barato que nunca</a></h4>
+    <a href='https://computerhoy.com/audio/mejor-altavoz-portatil-aliexpress-ahora-barato-nunca-1334180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tronsmart-3220416.jpg?tf=1200x' alt='El mejor altavoz portátil de AliExpress está ahora más barato que nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/te-llaman-robot-dice-goodbye-cuelgan-funcionan-robollamadas-teleoperadoras-1331900'>Me llaman, un robot dice "goodbye" y cuelgan: he comprobado cómo funcionan las robollamadas de las teleoperadoras</a></h4>
-    <a href='https://computerhoy.com/life/te-llaman-robot-dice-goodbye-cuelgan-funcionan-robollamadas-teleoperadoras-1331900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/robollamadas-3216106.jpg?tf=1200x' alt='Me llaman, un robot dice "goodbye" y cuelgan: he comprobado cómo funcionan las robollamadas de las teleoperadoras' />
+    <h4><a href='https://computerhoy.com/life/he-probado-semana-metodo-comerse-rana-mark-twain-dio-clavo-idea-1333600'>He probado una semana el método "comerse una rana" y Mark Twain dio en el clavo con su idea </a></h4>
+    <a href='https://computerhoy.com/life/he-probado-semana-metodo-comerse-rana-mark-twain-dio-clavo-idea-1333600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/metodo-rana-3219470.jpg?tf=1200x' alt='He probado una semana el método "comerse una rana" y Mark Twain dio en el clavo con su idea ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/diferencias-cpu-gpu-son-sirven-1332792'>Diferencias entre CPU y GPU: qué son y para qué sirven</a></h4>
-    <a href='https://computerhoy.com/pc/diferencias-cpu-gpu-son-sirven-1332792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/diferencias-cpu-gpu-son-sirven-3217974.jpg?tf=1200x' alt='Diferencias entre CPU y GPU: qué son y para qué sirven' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-portatil-windows-11-solo-15-kg-cuesta-menos-200eu-1333712'>No es un error de precio: este portátil con Windows 11 y y solo 1,5 kg cuesta menos de 200€</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-error-precio-portatil-windows-11-solo-15-kg-cuesta-menos-200eu-1333712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chuwi-gemibook-pro-2893138.jpg?tf=1200x' alt='No es un error de precio: este portátil con Windows 11 y y solo 1,5 kg cuesta menos de 200€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hacktivismo-cuales-son-motivaciones-detras-ataques-1321552'>¿Qué es el 'hacktivismo' y cuáles son las motivaciones detrás de sus ataques?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hacktivismo-cuales-son-motivaciones-detras-ataques-1321552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1699466997673-3218042.jpg?tf=1200x' alt='¿Qué es el 'hacktivismo' y cuáles son las motivaciones detrás de sus ataques?' />
+    <h4><a href='https://computerhoy.com/apps/he-probado-aplicacion-descargada-dormir-mejor-solo-tengo-buenas-palabras-1330046'>He probado la aplicación más descargada para dormir mejor y solo tengo buenas palabras</a></h4>
+    <a href='https://computerhoy.com/apps/he-probado-aplicacion-descargada-dormir-mejor-solo-tengo-buenas-palabras-1330046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aplicacion-dormir-3213120.jpg?tf=1200x' alt='He probado la aplicación más descargada para dormir mejor y solo tengo buenas palabras' />
     </a>
 </div>
 
