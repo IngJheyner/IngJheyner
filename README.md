@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/inventan-pasta-dientes-tratar-alergias-cacahuete-1334378'>Inventan una pasta de dientes para tratar las alergias al cacahuete</a></h4>
-    <a href='https://computerhoy.com/life/inventan-pasta-dientes-tratar-alergias-cacahuete-1334378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/pasta-dientes-2290701.jpg?tf=1200x' alt='Inventan una pasta de dientes para tratar las alergias al cacahuete' />
+    <h4><a href='https://computerhoy.com/life/esfuerzos-reducir-contaminacion-estan-calentando-planeta-rapido-1334390'>Los esfuerzos para reducir la contaminación están calentando el planeta más rápido</a></h4>
+    <a href='https://computerhoy.com/life/esfuerzos-reducir-contaminacion-estan-calentando-planeta-rapido-1334390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/calentamiento-global-3220690.jpg?tf=1200x' alt='Los esfuerzos para reducir la contaminación están calentando el planeta más rápido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/mejor-altavoz-portatil-aliexpress-ahora-barato-nunca-1334180'>El mejor altavoz portátil de AliExpress está ahora más barato que nunca</a></h4>
-    <a href='https://computerhoy.com/audio/mejor-altavoz-portatil-aliexpress-ahora-barato-nunca-1334180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tronsmart-3220416.jpg?tf=1200x' alt='El mejor altavoz portátil de AliExpress está ahora más barato que nunca' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-ahora-borrar-todas-estas-aplicaciones-preinstaladas-1334388'>Windows 11 te permitirá ahora borrar todas estas aplicaciones preinstaladas</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-te-permitira-ahora-borrar-todas-estas-aplicaciones-preinstaladas-1334388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-eliminar-automaticamente-archivos-viejos-windows-11-3194780.jpg?tf=1200x' alt='Windows 11 te permitirá ahora borrar todas estas aplicaciones preinstaladas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/he-probado-semana-metodo-comerse-rana-mark-twain-dio-clavo-idea-1333600'>He probado una semana el método "comerse una rana" y Mark Twain dio en el clavo con su idea </a></h4>
-    <a href='https://computerhoy.com/life/he-probado-semana-metodo-comerse-rana-mark-twain-dio-clavo-idea-1333600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/metodo-rana-3219470.jpg?tf=1200x' alt='He probado una semana el método "comerse una rana" y Mark Twain dio en el clavo con su idea ' />
+    <h4><a href='https://computerhoy.com/tecnologia/animalada-precio-mini-pc-12gb-ram-ssd-1331888'>Animalada de precio en este Mini PC con 12GB de RAM y SSD</a></h4>
+    <a href='https://computerhoy.com/tecnologia/animalada-precio-mini-pc-12gb-ram-ssd-1331888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chuwi-larkbox-x-3197842.jpg?tf=1200x' alt='Animalada de precio en este Mini PC con 12GB de RAM y SSD' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-portatil-windows-11-solo-15-kg-cuesta-menos-200eu-1333712'>No es un error de precio: este portátil con Windows 11 y y solo 1,5 kg cuesta menos de 200€</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-error-precio-portatil-windows-11-solo-15-kg-cuesta-menos-200eu-1333712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chuwi-gemibook-pro-2893138.jpg?tf=1200x' alt='No es un error de precio: este portátil con Windows 11 y y solo 1,5 kg cuesta menos de 200€' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-cerrar-sesion-gmail-todos-dispositivos-vez-1333672'>Cómo cerrar sesión de Gmail en todos los dispositivos a la vez</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cerrar-sesion-gmail-todos-dispositivos-vez-1333672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/gmail-3219612.jpg?tf=1200x' alt='Cómo cerrar sesión de Gmail en todos los dispositivos a la vez' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-probado-aplicacion-descargada-dormir-mejor-solo-tengo-buenas-palabras-1330046'>He probado la aplicación más descargada para dormir mejor y solo tengo buenas palabras</a></h4>
-    <a href='https://computerhoy.com/apps/he-probado-aplicacion-descargada-dormir-mejor-solo-tengo-buenas-palabras-1330046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aplicacion-dormir-3213120.jpg?tf=1200x' alt='He probado la aplicación más descargada para dormir mejor y solo tengo buenas palabras' />
+    <h4><a href='https://computerhoy.com/hogar/chollo-top-frioleros-manta-electrica-xxl-cuesta-mucho-menos-imaginas-ahora-1331976'>Chollo top para frioleros: esta manta eléctrica XXL cuesta mucho menos de lo que imaginas ahora</a></h4>
+    <a href='https://computerhoy.com/hogar/chollo-top-frioleros-manta-electrica-xxl-cuesta-mucho-menos-imaginas-ahora-1331976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/manta-electrica-3216186.jpg?tf=1200x' alt='Chollo top para frioleros: esta manta eléctrica XXL cuesta mucho menos de lo que imaginas ahora' />
     </a>
 </div>
 
