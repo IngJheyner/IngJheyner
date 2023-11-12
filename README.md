@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/portatiles-arm-apple-pierden-cuota-mercado-intel-renace-1334444'>Los datos se confirman: los portátiles ARM de Apple pierden cuota de mercado, Intel y los portátiles x86 renacen</a></h4>
+    <a href='https://computerhoy.com/pc/portatiles-arm-apple-pierden-cuota-mercado-intel-renace-1334444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/macbook-pro-14-m3-3219372.jpg?tf=1200x' alt='Los datos se confirman: los portátiles ARM de Apple pierden cuota de mercado, Intel y los portátiles x86 renacen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/visionan-1000-videos-tiktok-seguidos-un-tercio-publicidad-1334434'>Visionan 1.000 vídeos de TikTok seguidos, salen vivos y descubren tantos anuncios como en las cadenas de la TDT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/visionan-1000-videos-tiktok-seguidos-un-tercio-publicidad-1334434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/visionan-1000-videos-tiktok-seguidos-salen-vivos-descubren-tantos-anuncios-como-cadenas-tdt-3220812.jpg?tf=1200x' alt='Visionan 1.000 vídeos de TikTok seguidos, salen vivos y descubren tantos anuncios como en las cadenas de la TDT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-12-noviembre-2023-1334354'>Programación TV: ¿Qué ver hoy en televisión? Domingo 12 de noviembre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-12-noviembre-2023-1334354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-domingo-12-noviembre-2023-3220644.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Domingo 12 de noviembre de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/esfuerzos-reducir-contaminacion-estan-calentando-planeta-rapido-1334390'>Los esfuerzos para reducir la contaminación están calentando el planeta más rápido</a></h4>
     <a href='https://computerhoy.com/life/esfuerzos-reducir-contaminacion-estan-calentando-planeta-rapido-1334390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/calentamiento-global-3220690.jpg?tf=1200x' alt='Los esfuerzos para reducir la contaminación están calentando el planeta más rápido' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-ahora-borrar-todas-estas-aplicaciones-preinstaladas-1334388'>Windows 11 te permitirá ahora borrar todas estas aplicaciones preinstaladas</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-te-permitira-ahora-borrar-todas-estas-aplicaciones-preinstaladas-1334388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-eliminar-automaticamente-archivos-viejos-windows-11-3194780.jpg?tf=1200x' alt='Windows 11 te permitirá ahora borrar todas estas aplicaciones preinstaladas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/animalada-precio-mini-pc-12gb-ram-ssd-1331888'>Animalada de precio en este Mini PC con 12GB de RAM y SSD</a></h4>
-    <a href='https://computerhoy.com/tecnologia/animalada-precio-mini-pc-12gb-ram-ssd-1331888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chuwi-larkbox-x-3197842.jpg?tf=1200x' alt='Animalada de precio en este Mini PC con 12GB de RAM y SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cerrar-sesion-gmail-todos-dispositivos-vez-1333672'>Cómo cerrar sesión de Gmail en todos los dispositivos a la vez</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cerrar-sesion-gmail-todos-dispositivos-vez-1333672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/gmail-3219612.jpg?tf=1200x' alt='Cómo cerrar sesión de Gmail en todos los dispositivos a la vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/chollo-top-frioleros-manta-electrica-xxl-cuesta-mucho-menos-imaginas-ahora-1331976'>Chollo top para frioleros: esta manta eléctrica XXL cuesta mucho menos de lo que imaginas ahora</a></h4>
-    <a href='https://computerhoy.com/hogar/chollo-top-frioleros-manta-electrica-xxl-cuesta-mucho-menos-imaginas-ahora-1331976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/manta-electrica-3216186.jpg?tf=1200x' alt='Chollo top para frioleros: esta manta eléctrica XXL cuesta mucho menos de lo que imaginas ahora' />
     </a>
 </div>
 
