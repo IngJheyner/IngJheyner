@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/buscan-pendiente-perdido-encuentran-tumba-vikinga-jardin-1334184'>Una familia se pone a buscar un pendiente perdido, y encuentra una tumba vikinga en el jardín de casa</a></h4>
+    <a href='https://computerhoy.com/life/buscan-pendiente-perdido-encuentran-tumba-vikinga-jardin-1334184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/familia-pone-buscar-pendiente-perdido-encuentra-tumba-vikinga-jardin-casa-3220432.jpg?tf=1200x' alt='Una familia se pone a buscar un pendiente perdido, y encuentra una tumba vikinga en el jardín de casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/directos/ofertas-11-11-directo-estos-son-mejores-chollos-dia-solteros-1333592'>Las ofertas del 11 del 11, en directo: estos son los mejores chollos del Día de los Solteros</a></h4>
     <a href='https://computerhoy.com/directos/ofertas-11-11-directo-estos-son-mejores-chollos-dia-solteros-1333592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/11-11-3219202.jpg?tf=1200x' alt='Las ofertas del 11 del 11, en directo: estos son los mejores chollos del Día de los Solteros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/olvida-apple-watch-reloj-android-barato-tiene-dos-pantallas-1332578'>Olvida el Apple Watch: este reloj para Android es más barato y tiene dos pantallas</a></h4>
     <a href='https://computerhoy.com/tecnologia/olvida-apple-watch-reloj-android-barato-tiene-dos-pantallas-1332578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ticwatch-pro-5-3100036.jpg?tf=1200x' alt='Olvida el Apple Watch: este reloj para Android es más barato y tiene dos pantallas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rey-carga-rapida-hunde-precio-aliexpress-11-11-tiene-240w-potencia-pantalla-144-hz-1333584'>El rey de la carga rápida hunde su precio en AliExpress por el 11 del 11: tiene 240W de potencia y pantalla 144 Hz</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rey-carga-rapida-hunde-precio-aliexpress-11-11-tiene-240w-potencia-pantalla-144-hz-1333584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/realme-gt-neo-5-240w-3219134.jpg?tf=1200x' alt='El rey de la carga rápida hunde su precio en AliExpress por el 11 del 11: tiene 240W de potencia y pantalla 144 Hz' />
     </a>
 </div>
 
