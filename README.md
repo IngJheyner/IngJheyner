@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/buscan-pendiente-perdido-encuentran-tumba-vikinga-jardin-1334184'>Una familia se pone a buscar un pendiente perdido, y encuentra una tumba vikinga en el jardín de casa</a></h4>
-    <a href='https://computerhoy.com/life/buscan-pendiente-perdido-encuentran-tumba-vikinga-jardin-1334184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/familia-pone-buscar-pendiente-perdido-encuentra-tumba-vikinga-jardin-casa-3220432.jpg?tf=1200x' alt='Una familia se pone a buscar un pendiente perdido, y encuentra una tumba vikinga en el jardín de casa' />
+    <h4><a href='https://computerhoy.com/pc/diferencias-cpu-gpu-son-sirven-1332792'>Diferencias entre CPU y GPU: qué son y para qué sirven</a></h4>
+    <a href='https://computerhoy.com/pc/diferencias-cpu-gpu-son-sirven-1332792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/diferencias-cpu-gpu-son-sirven-3217974.jpg?tf=1200x' alt='Diferencias entre CPU y GPU: qué son y para qué sirven' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/ofertas-11-11-directo-estos-son-mejores-chollos-dia-solteros-1333592'>Las ofertas del 11 del 11, en directo: estos son los mejores chollos del Día de los Solteros</a></h4>
-    <a href='https://computerhoy.com/directos/ofertas-11-11-directo-estos-son-mejores-chollos-dia-solteros-1333592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/11-11-3219202.jpg?tf=1200x' alt='Las ofertas del 11 del 11, en directo: estos son los mejores chollos del Día de los Solteros' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/hacktivismo-cuales-son-motivaciones-detras-ataques-1321552'>¿Qué es el 'hacktivismo' y cuáles son las motivaciones detrás de sus ataques?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hacktivismo-cuales-son-motivaciones-detras-ataques-1321552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1699466997673-3218042.jpg?tf=1200x' alt='¿Qué es el 'hacktivismo' y cuáles son las motivaciones detrás de sus ataques?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cupones-11-11-aliexpress-activos-1331862'>Cupones del 11 del 11 en AliExpress: estos son los que funcionan y cómo usarlos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cupones-11-11-aliexpress-activos-1331862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aliexpress-aplicacion-3210416.jpg?tf=1200x' alt='Cupones del 11 del 11 en AliExpress: estos son los que funcionan y cómo usarlos' />
+    <h4><a href='https://computerhoy.com/tutoriales/truco-desbloquear-amazon-fire-tv-funciona-lento-atasca-1332760'>El genial truco para desbloquear un Amazon Fire TV que funciona lento y se atasca</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-desbloquear-amazon-fire-tv-funciona-lento-atasca-1332760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/genial-truco-desbloquear-amazon-fire-tv-funciona-lento-atasca-3217892.jpg?tf=1200x' alt='El genial truco para desbloquear un Amazon Fire TV que funciona lento y se atasca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-crear-archivos-7-zip-tar-herramientas-terceros-1334170'>Windows 11 te permitirá crear archivos 7-zip y TAR sin herramientas de terceros</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-te-permitira-crear-archivos-7-zip-tar-herramientas-terceros-1334170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-11-3040832.jpg?tf=1200x' alt='Windows 11 te permitirá crear archivos 7-zip y TAR sin herramientas de terceros' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-terapeuta-chatbot-inteligencia-artificial-ofrecerte-atencion-emocional-1334168'>Microsoft piensa en un terapeuta chatbot con inteligencia artificial para ofrecerte atención emocional</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-terapeuta-chatbot-inteligencia-artificial-ofrecerte-atencion-emocional-1334168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/medico-robot-3220410.jpg?tf=1200x' alt='Microsoft piensa en un terapeuta chatbot con inteligencia artificial para ofrecerte atención emocional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-apple-watch-reloj-android-barato-tiene-dos-pantallas-1332578'>Olvida el Apple Watch: este reloj para Android es más barato y tiene dos pantallas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-apple-watch-reloj-android-barato-tiene-dos-pantallas-1332578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ticwatch-pro-5-3100036.jpg?tf=1200x' alt='Olvida el Apple Watch: este reloj para Android es más barato y tiene dos pantallas' />
+    <h4><a href='https://computerhoy.com/gaming/solo-juego-consolas-antiguas-no-cambiaria-nuevas-1323922'>Llevo toda la vida jugando a consolas antiguas y no cambiaría nunca a las de última generación</a></h4>
+    <a href='https://computerhoy.com/gaming/solo-juego-consolas-antiguas-no-cambiaria-nuevas-1323922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/jaime-gonzalez-soriano-redactor-traductor-documentalista-edicion-castellano-revista-retro-gamer-personal-tecnico-game-3205362.jpg?tf=1200x' alt='Llevo toda la vida jugando a consolas antiguas y no cambiaría nunca a las de última generación' />
     </a>
 </div>
 
