@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/leon-pasea-durante-cinco-horas-calles-ciudad-italia-1334448'>Un león pasea durante cinco horas por las calles de una ciudad en Italia</a></h4>
+    <a href='https://computerhoy.com/life/leon-pasea-durante-cinco-horas-calles-ciudad-italia-1334448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/leon-pasea-durante-cinco-horas-calles-ciudad-italia-3220870.jpg?tf=1200x' alt='Un león pasea durante cinco horas por las calles de una ciudad en Italia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/portatiles-arm-apple-pierden-cuota-mercado-intel-renace-1334444'>Los datos se confirman: los portátiles ARM de Apple pierden cuota de mercado, Intel y los portátiles x86 renacen</a></h4>
     <a href='https://computerhoy.com/pc/portatiles-arm-apple-pierden-cuota-mercado-intel-renace-1334444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/macbook-pro-14-m3-3219372.jpg?tf=1200x' alt='Los datos se confirman: los portátiles ARM de Apple pierden cuota de mercado, Intel y los portátiles x86 renacen' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/esfuerzos-reducir-contaminacion-estan-calentando-planeta-rapido-1334390'>Los esfuerzos para reducir la contaminación están calentando el planeta más rápido</a></h4>
     <a href='https://computerhoy.com/life/esfuerzos-reducir-contaminacion-estan-calentando-planeta-rapido-1334390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/calentamiento-global-3220690.jpg?tf=1200x' alt='Los esfuerzos para reducir la contaminación están calentando el planeta más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-ahora-borrar-todas-estas-aplicaciones-preinstaladas-1334388'>Windows 11 te permitirá ahora borrar todas estas aplicaciones preinstaladas</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-te-permitira-ahora-borrar-todas-estas-aplicaciones-preinstaladas-1334388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-eliminar-automaticamente-archivos-viejos-windows-11-3194780.jpg?tf=1200x' alt='Windows 11 te permitirá ahora borrar todas estas aplicaciones preinstaladas' />
     </a>
 </div>
 
