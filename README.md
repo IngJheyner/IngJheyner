@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ryzen-5-1tb-ssd-precio-jamas-visto-oferta-locura-pccomponentes-1334400'>Ryzen 5 y ¡1TB de SSD! a precio jamás visto en esta oferta de locura de PcComponentes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ryzen-5-1tb-ssd-precio-jamas-visto-oferta-locura-pccomponentes-1334400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/acer-aspire-3-3220718.jpg?tf=1200x' alt='Ryzen 5 y ¡1TB de SSD! a precio jamás visto en esta oferta de locura de PcComponentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/donde-crazy-day-factory-tiendas-comprar-devoluciones-amazon-1333836'>Dónde está Crazy Day Factory: las tiendas para comprar devoluciones de Amazon a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/amazon/donde-crazy-day-factory-tiendas-comprar-devoluciones-amazon-1333836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/donde-crazy-day-factory-tiendas-comprar-devoluciones-amazon-precio-saldo-3219956.jpg?tf=1200x' alt='Dónde está Crazy Day Factory: las tiendas para comprar devoluciones de Amazon a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-memoria-usb-candado-portatil-seguro-barato-1333922'>Cómo convertir una memoria USB vieja en un candado o llave de seguridad para tu portátil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-convertir-memoria-usb-candado-portatil-seguro-barato-1333922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-convertir-memoria-usb-vieja-candado-llave-seguridad-portatil-3220218.jpg?tf=1200x' alt='Cómo convertir una memoria USB vieja en un candado o llave de seguridad para tu portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cibercondria-cuando-buscar-internet-puede-afectar-salud-1332038'>Cibercondría: cuando buscar en Internet puede afectar a tu salud</a></h4>
+    <a href='https://computerhoy.com/life/cibercondria-cuando-buscar-internet-puede-afectar-salud-1332038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cibercondria-cuando-buscar-internet-puede-afectar-salud-3216348.jpg?tf=1200x' alt='Cibercondría: cuando buscar en Internet puede afectar a tu salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/no-te-enganen-black-friday-estos-son-derechos-cuando-recibes-paquete-casa-1334842'>Que no te engañen en el Black Friday: estos son tus derechos cuando recibes un paquete en casa</a></h4>
     <a href='https://computerhoy.com/life/no-te-enganen-black-friday-estos-son-derechos-cuando-recibes-paquete-casa-1334842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-derechos-comprados-3221582.jpg?tf=1200x' alt='Que no te engañen en el Black Friday: estos son tus derechos cuando recibes un paquete en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/equivalencias-perfumes-colonias-mercadona-737105'>Equivalencias de los perfumes y colonias de Mercadona</a></h4>
-    <a href='https://computerhoy.com/listas/life/equivalencias-perfumes-colonias-mercadona-737105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/colonia-mercadona-2390515.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Mercadona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-inteligencia-artificial-cambiara-vida-proximos-5-anos-bill-gates-1334840'>Así es como la inteligencia artificial cambiará tu vida en los próximos 5 años, según Bill Gates</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-inteligencia-artificial-cambiara-vida-proximos-5-anos-bill-gates-1334840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='Así es como la inteligencia artificial cambiará tu vida en los próximos 5 años, según Bill Gates' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dron-aliexpress-tiene-gps-esquiva-obstaculos-solo-cuesta-20-euros-1334820'>Este superdron con GPS esquiva obstáculos y ahora está más barato que nunca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dron-aliexpress-tiene-gps-esquiva-obstaculos-solo-cuesta-20-euros-1334820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dron-3221538.jpg?tf=1200x' alt='Este superdron con GPS esquiva obstáculos y ahora está más barato que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/problemas-espaciales-llegan-madrid-tres-empresas-ojo-huracan-quienes-son-ocurriendo-1334734'>Problemas espaciales llegan a Madrid: Zero 2 Infinity, Halo Space y Eos X en el ojo del huracán: ¿Quiénes son y qué está ocurriendo?</a></h4>
-    <a href='https://computerhoy.com/espacio/problemas-espaciales-llegan-madrid-tres-empresas-ojo-huracan-quienes-son-ocurriendo-1334734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/turismo-espacial-3221342.jpg?tf=1200x' alt='Problemas espaciales llegan a Madrid: Zero 2 Infinity, Halo Space y Eos X en el ojo del huracán: ¿Quiénes son y qué está ocurriendo?' />
     </a>
 </div>
 
