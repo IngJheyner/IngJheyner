@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-tendra-renovacion-epica-linea-ipads-2024-ming-chi-kuo-1334672'>Apple tendrá una renovación épica de su línea de iPads en 2024, según Ming-Chi Kuo</a></h4>
+    <a href='https://computerhoy.com/apple/apple-tendra-renovacion-epica-linea-ipads-2024-ming-chi-kuo-1334672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipad-pro-3071542.jpg?tf=1200x' alt='Apple tendrá una renovación épica de su línea de iPads en 2024, según Ming-Chi Kuo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-confia-ios-18-inteligencia-artificial-venderle-gente-nuevos-iphone-16-1334652'>Apple confía en iOS 18 y la inteligencia artificial para venderle a la gente los nuevos iPhone 16</a></h4>
+    <a href='https://computerhoy.com/apple/apple-confia-ios-18-inteligencia-artificial-venderle-gente-nuevos-iphone-16-1334652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/isla-dinamica-iphone-15-pro-max-3150496.jpg?tf=1200x' alt='Apple confía en iOS 18 y la inteligencia artificial para venderle a la gente los nuevos iPhone 16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/tesla-inventa-truco-frenar-revendedores-cybertruck-1334452'>La última ocurrencia de Elon Musk: no dejarte vender tu Tesla de segunda mano</a></h4>
     <a href='https://computerhoy.com/motor/tesla-inventa-truco-frenar-revendedores-cybertruck-1334452' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/tesla-cybertruck-2113111.jpg?tf=1200x' alt='La última ocurrencia de Elon Musk: no dejarte vender tu Tesla de segunda mano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/ha-aumentado-tamano-pantallas-moviles-2023-1326660'>Así ha aumentado el tamaño de las pantallas de los móviles en los últimos años</a></h4>
     <a href='https://computerhoy.com/moviles/ha-aumentado-tamano-pantallas-moviles-2023-1326660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pantallas-moviles-3209500.jpg?tf=1200x' alt='Así ha aumentado el tamaño de las pantallas de los móviles en los últimos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gmail-tiene-rival-suizo-tambien-tiene-vpn-ahora-rebaja-precios-60-1330142'>Gmail tiene rival, es suizo y también tiene VPN: ahora rebaja sus precios hasta en un 60%</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gmail-tiene-rival-suizo-tambien-tiene-vpn-ahora-rebaja-precios-60-1330142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/proton-3213148.jpg?tf=1200x' alt='Gmail tiene rival, es suizo y también tiene VPN: ahora rebaja sus precios hasta en un 60%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/reconstruyen-rostro-neandertal-anciano-60-anos-1334458'>Reconstruyen el rostro de un Neandertal anciano de 60 años, y es sorprendentemente parecido a nosotros</a></h4>
-    <a href='https://computerhoy.com/ciencia/reconstruyen-rostro-neandertal-anciano-60-anos-1334458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/reconstruyen-rostro-neandertal-anciano-60-anos-sorprendentemente-parecido-nosotros-3220966.jpg?tf=1200x' alt='Reconstruyen el rostro de un Neandertal anciano de 60 años, y es sorprendentemente parecido a nosotros' />
     </a>
 </div>
 
