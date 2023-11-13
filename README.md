@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/no-te-enganen-black-friday-estos-son-derechos-cuando-recibes-paquete-casa-1334842'>Que no te engañen en el Black Friday: estos son tus derechos cuando recibes un paquete en casa</a></h4>
+    <a href='https://computerhoy.com/life/no-te-enganen-black-friday-estos-son-derechos-cuando-recibes-paquete-casa-1334842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-derechos-comprados-3221582.jpg?tf=1200x' alt='Que no te engañen en el Black Friday: estos son tus derechos cuando recibes un paquete en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/life/equivalencias-perfumes-colonias-mercadona-737105'>Equivalencias de los perfumes y colonias de Mercadona</a></h4>
     <a href='https://computerhoy.com/listas/life/equivalencias-perfumes-colonias-mercadona-737105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/colonia-mercadona-2390515.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Mercadona' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/problemas-espaciales-llegan-madrid-tres-empresas-ojo-huracan-quienes-son-ocurriendo-1334734'>Problemas espaciales llegan a Madrid: Zero 2 Infinity, Halo Space y Eos X en el ojo del huracán: ¿Quiénes son y qué está ocurriendo?</a></h4>
     <a href='https://computerhoy.com/espacio/problemas-espaciales-llegan-madrid-tres-empresas-ojo-huracan-quienes-son-ocurriendo-1334734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/turismo-espacial-3221342.jpg?tf=1200x' alt='Problemas espaciales llegan a Madrid: Zero 2 Infinity, Halo Space y Eos X en el ojo del huracán: ¿Quiénes son y qué está ocurriendo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/arqueologos-encuentran-esqueleto-protesis-mano-metal-podria-tener-600-anos-1334690'>Arqueólogos encuentran un esqueleto con una prótesis de mano de metal que podría tener unos 600 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/arqueologos-encuentran-esqueleto-protesis-mano-metal-podria-tener-600-anos-1334690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mano-protesis-metal-edad-media-3221290.jpg?tf=1200x' alt='Arqueólogos encuentran un esqueleto con una prótesis de mano de metal que podría tener unos 600 años' />
     </a>
 </div>
 
