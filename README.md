@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tesla-inventa-truco-frenar-revendedores-cybertruck-1334452'>Tesla se inventa un truco para frenar a los revendedores del Cybertruck</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-inventa-truco-frenar-revendedores-cybertruck-1334452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/tesla-cybertruck-2113111.jpg?tf=1200x' alt='Tesla se inventa un truco para frenar a los revendedores del Cybertruck' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/leon-pasea-durante-cinco-horas-calles-ciudad-italia-1334448'>Un león pasea durante cinco horas por las calles de una ciudad en Italia</a></h4>
     <a href='https://computerhoy.com/life/leon-pasea-durante-cinco-horas-calles-ciudad-italia-1334448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/leon-pasea-durante-cinco-horas-calles-ciudad-italia-3220870.jpg?tf=1200x' alt='Un león pasea durante cinco horas por las calles de una ciudad en Italia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-12-noviembre-2023-1334354'>Programación TV: ¿Qué ver hoy en televisión? Domingo 12 de noviembre de 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/programacion-tv-domingo-12-noviembre-2023-1334354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-domingo-12-noviembre-2023-3220644.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Domingo 12 de noviembre de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/esfuerzos-reducir-contaminacion-estan-calentando-planeta-rapido-1334390'>Los esfuerzos para reducir la contaminación están calentando el planeta más rápido</a></h4>
-    <a href='https://computerhoy.com/life/esfuerzos-reducir-contaminacion-estan-calentando-planeta-rapido-1334390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/calentamiento-global-3220690.jpg?tf=1200x' alt='Los esfuerzos para reducir la contaminación están calentando el planeta más rápido' />
     </a>
 </div>
 
