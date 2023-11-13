@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ryzen-5-1tb-ssd-precio-jamas-visto-oferta-locura-pccomponentes-1334400'>Ryzen 5 y ¡1TB de SSD! a precio jamás visto en esta oferta de locura de PcComponentes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ryzen-5-1tb-ssd-precio-jamas-visto-oferta-locura-pccomponentes-1334400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/acer-aspire-3-3220718.jpg?tf=1200x' alt='Ryzen 5 y ¡1TB de SSD! a precio jamás visto en esta oferta de locura de PcComponentes' />
+    <h4><a href='https://computerhoy.com/entretenimiento/pense-todo-mundo-conocia-estas-funciones-netflix-pero-muchos-me-miran-sorprendidos-1333908'>Pensé que todo el mundo conocía estas funciones de Netflix, pero muchos me miran sorprendidos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pense-todo-mundo-conocia-estas-funciones-netflix-pero-muchos-me-miran-sorprendidos-1333908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/netflix-sorpresa-3221580.jpg?tf=1200x' alt='Pensé que todo el mundo conocía estas funciones de Netflix, pero muchos me miran sorprendidos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/donde-crazy-day-factory-tiendas-comprar-devoluciones-amazon-1333836'>Dónde está Crazy Day Factory: las tiendas para comprar devoluciones de Amazon a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/amazon/donde-crazy-day-factory-tiendas-comprar-devoluciones-amazon-1333836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/donde-crazy-day-factory-tiendas-comprar-devoluciones-amazon-precio-saldo-3219956.jpg?tf=1200x' alt='Dónde está Crazy Day Factory: las tiendas para comprar devoluciones de Amazon a precio de saldo' />
+    <h4><a href='https://computerhoy.com/life/estereotipo-alumnos-superdotados-no-son-menos-sociales-1334988'>No, los superdotados no son menos sociales, y sí, están abiertos a nuevas experiencias, según un estudio</a></h4>
+    <a href='https://computerhoy.com/life/estereotipo-alumnos-superdotados-no-son-menos-sociales-1334988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/superdotados-no-son-menos-sociales-estudio-3221862.jpg?tf=1200x' alt='No, los superdotados no son menos sociales, y sí, están abiertos a nuevas experiencias, según un estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-memoria-usb-candado-portatil-seguro-barato-1333922'>Cómo convertir una memoria USB vieja en un candado o llave de seguridad para tu portátil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-memoria-usb-candado-portatil-seguro-barato-1333922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-convertir-memoria-usb-vieja-candado-llave-seguridad-portatil-3220218.jpg?tf=1200x' alt='Cómo convertir una memoria USB vieja en un candado o llave de seguridad para tu portátil' />
+    <h4><a href='https://computerhoy.com/android/funciones-accesibilidad-android-te-haran-vida-facil-1330214'>7 funciones de accesibilidad de Android que te harán la vida más fácil</a></h4>
+    <a href='https://computerhoy.com/android/funciones-accesibilidad-android-te-haran-vida-facil-1330214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/7-funciones-accesibilidad-android-te-haran-vida-facil-3213562.jpg?tf=1200x' alt='7 funciones de accesibilidad de Android que te harán la vida más fácil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cibercondria-cuando-buscar-internet-puede-afectar-salud-1332038'>Cibercondría: cuando buscar en Internet puede afectar a tu salud</a></h4>
-    <a href='https://computerhoy.com/life/cibercondria-cuando-buscar-internet-puede-afectar-salud-1332038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cibercondria-cuando-buscar-internet-puede-afectar-salud-3216348.jpg?tf=1200x' alt='Cibercondría: cuando buscar en Internet puede afectar a tu salud' />
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-tdt-lunes-13-noviembre-2023-1335046'>Programación TV: ¿Qué ver hoy en televisión? Lunes 13 de noviembre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-tdt-lunes-13-noviembre-2023-1335046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-lunes-13-noviembre-2023-3221906.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Lunes 13 de noviembre de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/no-te-enganen-black-friday-estos-son-derechos-cuando-recibes-paquete-casa-1334842'>Que no te engañen en el Black Friday: estos son tus derechos cuando recibes un paquete en casa</a></h4>
-    <a href='https://computerhoy.com/life/no-te-enganen-black-friday-estos-son-derechos-cuando-recibes-paquete-casa-1334842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-derechos-comprados-3221582.jpg?tf=1200x' alt='Que no te engañen en el Black Friday: estos son tus derechos cuando recibes un paquete en casa' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-mantener-portatil-encendido-tapa-cerrada-1333806'>Cómo mantener tu portátil con Windows 11 encendido al cerrar la tapa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mantener-portatil-encendido-tapa-cerrada-1333806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-mantener-portatil-windows-11-encendido-cerrar-tapa-3219870.jpg?tf=1200x' alt='Cómo mantener tu portátil con Windows 11 encendido al cerrar la tapa' />
     </a>
 </div>
 
