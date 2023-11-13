@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gmail-tiene-rival-suizo-tambien-tiene-vpn-ahora-rebaja-precios-60-1330142'>Gmail tiene rival, es suizo y también tiene VPN: ahora rebaja sus precios hasta en un 60%</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gmail-tiene-rival-suizo-tambien-tiene-vpn-ahora-rebaja-precios-60-1330142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/proton-3213148.jpg?tf=1200x' alt='Gmail tiene rival, es suizo y también tiene VPN: ahora rebaja sus precios hasta en un 60%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/reconstruyen-rostro-neandertal-anciano-60-anos-1334458'>Reconstruyen el rostro de un Neandertal anciano de 60 años, y es sorprendentemente parecido a nosotros</a></h4>
     <a href='https://computerhoy.com/ciencia/reconstruyen-rostro-neandertal-anciano-60-anos-1334458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/reconstruyen-rostro-neandertal-anciano-60-anos-sorprendentemente-parecido-nosotros-3220966.jpg?tf=1200x' alt='Reconstruyen el rostro de un Neandertal anciano de 60 años, y es sorprendentemente parecido a nosotros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/portatiles-arm-apple-pierden-cuota-mercado-intel-renace-1334444'>Los datos se confirman: los portátiles ARM de Apple pierden cuota de mercado, Intel y los portátiles x86 renacen</a></h4>
     <a href='https://computerhoy.com/pc/portatiles-arm-apple-pierden-cuota-mercado-intel-renace-1334444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/macbook-pro-14-m3-3219372.jpg?tf=1200x' alt='Los datos se confirman: los portátiles ARM de Apple pierden cuota de mercado, Intel y los portátiles x86 renacen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/visionan-1000-videos-tiktok-seguidos-un-tercio-publicidad-1334434'>Visionan 1.000 vídeos de TikTok seguidos, salen vivos y descubren tantos anuncios como en las cadenas de la TDT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/visionan-1000-videos-tiktok-seguidos-un-tercio-publicidad-1334434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/visionan-1000-videos-tiktok-seguidos-salen-vivos-descubren-tantos-anuncios-como-cadenas-tdt-3220812.jpg?tf=1200x' alt='Visionan 1.000 vídeos de TikTok seguidos, salen vivos y descubren tantos anuncios como en las cadenas de la TDT' />
     </a>
 </div>
 
