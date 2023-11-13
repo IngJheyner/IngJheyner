@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-tendra-renovacion-epica-linea-ipads-2024-ming-chi-kuo-1334672'>Apple tendrá una renovación épica de su línea de iPads en 2024, según Ming-Chi Kuo</a></h4>
-    <a href='https://computerhoy.com/apple/apple-tendra-renovacion-epica-linea-ipads-2024-ming-chi-kuo-1334672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ipad-pro-3071542.jpg?tf=1200x' alt='Apple tendrá una renovación épica de su línea de iPads en 2024, según Ming-Chi Kuo' />
+    <h4><a href='https://computerhoy.com/listas/life/equivalencias-perfumes-colonias-mercadona-737105'>Equivalencias de los perfumes y colonias de Mercadona</a></h4>
+    <a href='https://computerhoy.com/listas/life/equivalencias-perfumes-colonias-mercadona-737105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/colonia-mercadona-2390515.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Mercadona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-confia-ios-18-inteligencia-artificial-venderle-gente-nuevos-iphone-16-1334652'>Apple confía en iOS 18 y la inteligencia artificial para venderle a la gente los nuevos iPhone 16</a></h4>
-    <a href='https://computerhoy.com/apple/apple-confia-ios-18-inteligencia-artificial-venderle-gente-nuevos-iphone-16-1334652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/isla-dinamica-iphone-15-pro-max-3150496.jpg?tf=1200x' alt='Apple confía en iOS 18 y la inteligencia artificial para venderle a la gente los nuevos iPhone 16' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-inteligencia-artificial-cambiara-vida-proximos-5-anos-bill-gates-1334840'>Así es como la inteligencia artificial cambiará tu vida en los próximos 5 años, según Bill Gates</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-inteligencia-artificial-cambiara-vida-proximos-5-anos-bill-gates-1334840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='Así es como la inteligencia artificial cambiará tu vida en los próximos 5 años, según Bill Gates' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-inventa-truco-frenar-revendedores-cybertruck-1334452'>La última ocurrencia de Elon Musk: no dejarte vender tu Tesla de segunda mano</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-inventa-truco-frenar-revendedores-cybertruck-1334452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/tesla-cybertruck-2113111.jpg?tf=1200x' alt='La última ocurrencia de Elon Musk: no dejarte vender tu Tesla de segunda mano' />
+    <h4><a href='https://computerhoy.com/tecnologia/dron-aliexpress-tiene-gps-esquiva-obstaculos-solo-cuesta-20-euros-1334820'>Este superdron con GPS esquiva obstáculos y ahora está más barato que nunca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dron-aliexpress-tiene-gps-esquiva-obstaculos-solo-cuesta-20-euros-1334820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dron-3221538.jpg?tf=1200x' alt='Este superdron con GPS esquiva obstáculos y ahora está más barato que nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015'>Estas son las mejores consolas portátiles que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/asus-rog-ally-3071626.jpg?tf=1200x' alt='Estas son las mejores consolas portátiles que puedes comprar' />
+    <h4><a href='https://computerhoy.com/espacio/problemas-espaciales-llegan-madrid-tres-empresas-ojo-huracan-quienes-son-ocurriendo-1334734'>Problemas espaciales llegan a Madrid: Zero 2 Infinity, Halo Space y Eos X en el ojo del huracán: ¿Quiénes son y qué está ocurriendo?</a></h4>
+    <a href='https://computerhoy.com/espacio/problemas-espaciales-llegan-madrid-tres-empresas-ojo-huracan-quienes-son-ocurriendo-1334734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/turismo-espacial-3221342.jpg?tf=1200x' alt='Problemas espaciales llegan a Madrid: Zero 2 Infinity, Halo Space y Eos X en el ojo del huracán: ¿Quiénes son y qué está ocurriendo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ha-aumentado-tamano-pantallas-moviles-2023-1326660'>Así ha aumentado el tamaño de las pantallas de los móviles en los últimos años</a></h4>
-    <a href='https://computerhoy.com/moviles/ha-aumentado-tamano-pantallas-moviles-2023-1326660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pantallas-moviles-3209500.jpg?tf=1200x' alt='Así ha aumentado el tamaño de las pantallas de los móviles en los últimos años' />
+    <h4><a href='https://computerhoy.com/ciencia/arqueologos-encuentran-esqueleto-protesis-mano-metal-podria-tener-600-anos-1334690'>Arqueólogos encuentran un esqueleto con una prótesis de mano de metal que podría tener unos 600 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/arqueologos-encuentran-esqueleto-protesis-mano-metal-podria-tener-600-anos-1334690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mano-protesis-metal-edad-media-3221290.jpg?tf=1200x' alt='Arqueólogos encuentran un esqueleto con una prótesis de mano de metal que podría tener unos 600 años' />
     </a>
 </div>
 
