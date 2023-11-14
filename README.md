@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/sorprendente-origen-palabra-meme-quien-invento-1335078'>El sorprendente origen de la palabra "meme": quién la inventó y por qué</a></h4>
-    <a href='https://computerhoy.com/internet/sorprendente-origen-palabra-meme-quien-invento-1335078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sorprendente-origen-palabra-meme-quien-invento-3221962.jpg?tf=1200x' alt='El sorprendente origen de la palabra "meme": quién la inventó y por qué' />
+    <h4><a href='https://computerhoy.com/ciencia/grandes-inventos-tecnologicos-cine-ciencia-ficcion-no-existen-1334680'>Grandes inventos tecnológicos del cine de ciencia ficción que no existen (y seguramente nunca existirán)</a></h4>
+    <a href='https://computerhoy.com/ciencia/grandes-inventos-tecnologicos-cine-ciencia-ficcion-no-existen-1334680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grandes-inventos-tecnologicos-cine-ciencia-ficcion-no-existen-seguramente-nunca-existiran-3221258.jpg?tf=1200x' alt='Grandes inventos tecnológicos del cine de ciencia ficción que no existen (y seguramente nunca existirán)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuanto-valen-datos-redes-sociales-dark-web-1335536'>¿Cuánto valen tus datos de Instagram, TikTok, Facebook y más redes sociales en la Dark Web?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuanto-valen-datos-redes-sociales-dark-web-1335536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cuanto-valen-datos-instagram-tiktok-facebook-redes-sociales-dark-web-3222730.jpg?tf=1200x' alt='¿Cuánto valen tus datos de Instagram, TikTok, Facebook y más redes sociales en la Dark Web?' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-pixel-8-hunde-precio-ya-70-euros-barato-1335262'>El Google Pixel 8 hunde su precio y es ya 70 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-pixel-8-hunde-precio-ya-70-euros-barato-1335262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-3188554.jpg?tf=1200x' alt='El Google Pixel 8 hunde su precio y es ya 70 euros más barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-funciones-teclas-f1-f12-windows-11-1335082'>Cómo cambiar a tu antojo las funciones de las teclas del F1 a F12 en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-funciones-teclas-f1-f12-windows-11-1335082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-cambiar-antojo-funciones-teclas-f1-f12-windows-11-3221992.jpg?tf=1200x' alt='Cómo cambiar a tu antojo las funciones de las teclas del F1 a F12 en Windows 11' />
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-tdt-martes-14-noviembre-2023-1335616'>Programación TV: ¿Qué ver hoy en televisión? Martes 14 de noviembre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-tdt-martes-14-noviembre-2023-1335616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-martes-14-noviembre-2023-3222904.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Martes 14 de noviembre de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/mil-formas-gratis-quitar-fondo-imagen-1329456'>Las mil y una formas gratis de quitar el fondo de una imagen</a></h4>
-    <a href='https://computerhoy.com/tutoriales/mil-formas-gratis-quitar-fondo-imagen-1329456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/foto-fondo-3211800.jpg?tf=1200x' alt='Las mil y una formas gratis de quitar el fondo de una imagen' />
+    <h4><a href='https://computerhoy.com/tecnologia/verdad-detras-mitos-baterias-moviles-1328792'>No te dejes engañar: esta es la verdad detrás de los mitos de las baterías de los móviles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/verdad-detras-mitos-baterias-moviles-1328792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/no-te-dejes-enganar-verdad-detras-mitos-baterias-moviles-3211008.jpg?tf=1200x' alt='No te dejes engañar: esta es la verdad detrás de los mitos de las baterías de los móviles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/internet/como-cerrar-sesion-gmail-78681'>Cómo cerrar sesión en Gmail </a></h4>
-    <a href='https://computerhoy.com/noticias/internet/como-cerrar-sesion-gmail-78681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-cerrar-sesion-gmail-3221994.jpg?tf=1200x' alt='Cómo cerrar sesión en Gmail ' />
+    <h4><a href='https://computerhoy.com/apps/videos-youtube-creados-ia-llevaran-etiqueta-especial-1335588'>¡Ya era hora! Los vídeos en YouTube creados con IA llevarán una etiqueta especial</a></h4>
+    <a href='https://computerhoy.com/apps/videos-youtube-creados-ia-llevaran-etiqueta-especial-1335588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/videos-youtube-creados-ia-llevaran-etiqueta-especial-3222820.jpg?tf=1200x' alt='¡Ya era hora! Los vídeos en YouTube creados con IA llevarán una etiqueta especial' />
     </a>
 </div>
 
