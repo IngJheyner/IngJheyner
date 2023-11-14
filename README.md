@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/sorprendente-origen-palabra-meme-quien-invento-1335078'>El sorprendente origen de la palabra "meme": quién la inventó y por qué</a></h4>
+    <a href='https://computerhoy.com/internet/sorprendente-origen-palabra-meme-quien-invento-1335078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sorprendente-origen-palabra-meme-quien-invento-3221962.jpg?tf=1200x' alt='El sorprendente origen de la palabra "meme": quién la inventó y por qué' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuanto-valen-datos-redes-sociales-dark-web-1335536'>¿Cuánto valen tus datos de Instagram, TikTok, Facebook y más redes sociales en la Dark Web?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuanto-valen-datos-redes-sociales-dark-web-1335536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cuanto-valen-datos-instagram-tiktok-facebook-redes-sociales-dark-web-3222730.jpg?tf=1200x' alt='¿Cuánto valen tus datos de Instagram, TikTok, Facebook y más redes sociales en la Dark Web?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-funciones-teclas-f1-f12-windows-11-1335082'>Cómo cambiar a tu antojo las funciones de las teclas del F1 a F12 en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-funciones-teclas-f1-f12-windows-11-1335082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-cambiar-antojo-funciones-teclas-f1-f12-windows-11-3221992.jpg?tf=1200x' alt='Cómo cambiar a tu antojo las funciones de las teclas del F1 a F12 en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/mil-formas-gratis-quitar-fondo-imagen-1329456'>Las mil y una formas gratis de quitar el fondo de una imagen</a></h4>
+    <a href='https://computerhoy.com/tutoriales/mil-formas-gratis-quitar-fondo-imagen-1329456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/foto-fondo-3211800.jpg?tf=1200x' alt='Las mil y una formas gratis de quitar el fondo de una imagen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/internet/como-cerrar-sesion-gmail-78681'>Cómo cerrar sesión en Gmail </a></h4>
     <a href='https://computerhoy.com/noticias/internet/como-cerrar-sesion-gmail-78681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-cerrar-sesion-gmail-3221994.jpg?tf=1200x' alt='Cómo cerrar sesión en Gmail ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/chromecast-inauguran-black-friday-precio-cae-menos-30-euros-1335372'>Los Chromecast inauguran el Black Friday y su precio cae a menos de 30 euros</a></h4>
-    <a href='https://computerhoy.com/google/chromecast-inauguran-black-friday-precio-cae-menos-30-euros-1335372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-chromecast-2926538.jpg?tf=1200x' alt='Los Chromecast inauguran el Black Friday y su precio cae a menos de 30 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-pago-samsung-8000-millones-dolares-mantener-usuarios-ecosistema-1335386'>Google pagó a Samsung 8.000 millones de dólares para mantener a los usuarios encerrados en su ecosistema</a></h4>
-    <a href='https://computerhoy.com/google/google-pago-samsung-8000-millones-dolares-mantener-usuarios-ecosistema-1335386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-juicio-antimonopolio-3222476.jpg?tf=1200x' alt='Google pagó a Samsung 8.000 millones de dólares para mantener a los usuarios encerrados en su ecosistema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/alerta-estafadores-usan-enlaces-falsos-descargar-google-bard-contienen-malware-1335398'>Alerta: estafadores usan enlaces falsos para descargar Google Bard que contienen malware</a></h4>
-    <a href='https://computerhoy.com/google/alerta-estafadores-usan-enlaces-falsos-descargar-google-bard-contienen-malware-1335398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/estafas-google-bard-3222364.jpg?tf=1200x' alt='Alerta: estafadores usan enlaces falsos para descargar Google Bard que contienen malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-ganga-como-pocas-cuesta-69-euros-aliexpress-tiene-pantalla-grande-1334436'>Esta tablet es una ganga como pocas: cuesta 69 euros en AliExpress, y tiene pantalla grande</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-ganga-como-pocas-cuesta-69-euros-aliexpress-tiene-pantalla-grande-1334436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chuwi-hi10-xpro-3220810.jpg?tf=1200x' alt='Esta tablet es una ganga como pocas: cuesta 69 euros en AliExpress, y tiene pantalla grande' />
     </a>
 </div>
 
