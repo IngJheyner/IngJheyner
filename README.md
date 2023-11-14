@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/importante-interior-ve-airpod-real-falso-pasas-escaner-1335326'>Lo importante está en el interior: así se ve un AirPod real y uno falso si lo pasas por un escáner</a></h4>
-    <a href='https://computerhoy.com/apple/importante-interior-ve-airpod-real-falso-pasas-escaner-1335326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/escanear-airpods-reales-falsos-3222298.jpg?tf=1200x' alt='Lo importante está en el interior: así se ve un AirPod real y uno falso si lo pasas por un escáner' />
+    <h4><a href='https://computerhoy.com/noticias/internet/como-cerrar-sesion-gmail-78681'>Cómo cerrar sesión en Gmail </a></h4>
+    <a href='https://computerhoy.com/noticias/internet/como-cerrar-sesion-gmail-78681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-cerrar-sesion-gmail-3221994.jpg?tf=1200x' alt='Cómo cerrar sesión en Gmail ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-cree-escasez-chips-ia-reducira-2024-1335308'>Sam Altman asegura que la "brutal" escasez de chips de IA se reducirá en 2024</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-cree-escasez-chips-ia-reducira-2024-1335308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-respecto-2937980.jpg?tf=1200x' alt='Sam Altman asegura que la "brutal" escasez de chips de IA se reducirá en 2024' />
+    <h4><a href='https://computerhoy.com/google/chromecast-inauguran-black-friday-precio-cae-menos-30-euros-1335372'>Los Chromecast inauguran el Black Friday y su precio cae a menos de 30 euros</a></h4>
+    <a href='https://computerhoy.com/google/chromecast-inauguran-black-friday-precio-cae-menos-30-euros-1335372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-chromecast-2926538.jpg?tf=1200x' alt='Los Chromecast inauguran el Black Friday y su precio cae a menos de 30 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/cepillo-top-oral-b-precio-minimo-historico-amazon-1335264'>El cepillo más top de Oral-B está a precio mínimo histórico en Amazon</a></h4>
-    <a href='https://computerhoy.com/hogar/cepillo-top-oral-b-precio-minimo-historico-amazon-1335264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/oral-b-io-9-series-9-3192308.jpg?tf=1200x' alt='El cepillo más top de Oral-B está a precio mínimo histórico en Amazon' />
+    <h4><a href='https://computerhoy.com/google/google-pago-samsung-8000-millones-dolares-mantener-usuarios-ecosistema-1335386'>Google pagó a Samsung 8.000 millones de dólares para mantener a los usuarios encerrados en su ecosistema</a></h4>
+    <a href='https://computerhoy.com/google/google-pago-samsung-8000-millones-dolares-mantener-usuarios-ecosistema-1335386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-juicio-antimonopolio-3222476.jpg?tf=1200x' alt='Google pagó a Samsung 8.000 millones de dólares para mantener a los usuarios encerrados en su ecosistema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/distraidos-enfocados-estudio-revela-tecnologia-ha-empeorado-inteligencia-concentracion-1335298'>¿Distraídos o más enfocados? Este estudio revela si la tecnología ha empeorado tu inteligencia y concentración</a></h4>
-    <a href='https://computerhoy.com/life/distraidos-enfocados-estudio-revela-tecnologia-ha-empeorado-inteligencia-concentracion-1335298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tecnologia-digitalizacion-3222274.jpg?tf=1200x' alt='¿Distraídos o más enfocados? Este estudio revela si la tecnología ha empeorado tu inteligencia y concentración' />
+    <h4><a href='https://computerhoy.com/google/alerta-estafadores-usan-enlaces-falsos-descargar-google-bard-contienen-malware-1335398'>Alerta: estafadores usan enlaces falsos para descargar Google Bard que contienen malware</a></h4>
+    <a href='https://computerhoy.com/google/alerta-estafadores-usan-enlaces-falsos-descargar-google-bard-contienen-malware-1335398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/estafas-google-bard-3222364.jpg?tf=1200x' alt='Alerta: estafadores usan enlaces falsos para descargar Google Bard que contienen malware' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-devuelve-ataque-sam-altman-califica-chatgpt-insoportable-1335290'>Elon Musk devuelve el ataque a Sam Altman y califica a ChatGPT de "insoportable"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-devuelve-ataque-sam-altman-califica-chatgpt-insoportable-1335290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='Elon Musk devuelve el ataque a Sam Altman y califica a ChatGPT de "insoportable"' />
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-ganga-como-pocas-cuesta-69-euros-aliexpress-tiene-pantalla-grande-1334436'>Esta tablet es una ganga como pocas: cuesta 69 euros en AliExpress, y tiene pantalla grande</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-ganga-como-pocas-cuesta-69-euros-aliexpress-tiene-pantalla-grande-1334436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chuwi-hi10-xpro-3220810.jpg?tf=1200x' alt='Esta tablet es una ganga como pocas: cuesta 69 euros en AliExpress, y tiene pantalla grande' />
     </a>
 </div>
 
