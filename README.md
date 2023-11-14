@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bing-chatgpt-pierde-cuota-mercado-buscador-google-1335084'>La IA no era la salvación: Bing pierde cuota de mercado tras integrar ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bing-chatgpt-pierde-cuota-mercado-buscador-google-1335084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-va-google-integra-chatgpt-bing-ya-puedes-probar-2949674.jpg?tf=1200x' alt='La IA no era la salvación: Bing pierde cuota de mercado tras integrar ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/has-cumplido-18-anos-2023-movistar-plus-oferta-ocho-meses-gratis-1335080'>Si has cumplido 18 años en 2023, Movistar Plus+ tiene una oferta irresistible para ti</a></h4>
     <a href='https://computerhoy.com/entretenimiento/has-cumplido-18-anos-2023-movistar-plus-oferta-ocho-meses-gratis-1335080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/movistar-lanza-clientes-fugados-netflix-canal-plus-muy-barato-incluye-liga-champions-3082996.jpg?tf=1200x' alt='Si has cumplido 18 años en 2023, Movistar Plus+ tiene una oferta irresistible para ti' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/no-te-asustes-sigue-siendo-android-tv-aunque-no-parezca-1335060'>No te asustes, sigue siendo Android TV, aunque no lo parezca</a></h4>
     <a href='https://computerhoy.com/android/no-te-asustes-sigue-siendo-android-tv-aunque-no-parezca-1335060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-tv-2548843.jpg?tf=1200x' alt='No te asustes, sigue siendo Android TV, aunque no lo parezca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/botella-te-permite-beber-agua-charco-seguridad-1335044'>Esta botella inteligente te permite beber con seguridad agua de un charco, lago o incluso del fregadero</a></h4>
-    <a href='https://computerhoy.com/life/botella-te-permite-beber-agua-charco-seguridad-1335044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/botella-perfecta-escapadas-naturaleza-capaz-filtrar-purificar-agua-3221904.jpg?tf=1200x' alt='Esta botella inteligente te permite beber con seguridad agua de un charco, lago o incluso del fregadero' />
     </a>
 </div>
 
