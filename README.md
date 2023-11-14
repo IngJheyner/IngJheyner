@@ -50,30 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/grandes-inventos-tecnologicos-cine-ciencia-ficcion-no-existen-1334680'>Grandes inventos tecnológicos del cine de ciencia ficción que no existen (y seguramente nunca existirán)</a></h4>
-    <a href='https://computerhoy.com/ciencia/grandes-inventos-tecnologicos-cine-ciencia-ficcion-no-existen-1334680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grandes-inventos-tecnologicos-cine-ciencia-ficcion-no-existen-seguramente-nunca-existiran-3221258.jpg?tf=1200x' alt='Grandes inventos tecnológicos del cine de ciencia ficción que no existen (y seguramente nunca existirán)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-pixel-8-hunde-precio-ya-70-euros-barato-1335262'>El Google Pixel 8 hunde su precio y es ya 70 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-pixel-8-hunde-precio-ya-70-euros-barato-1335262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-3188554.jpg?tf=1200x' alt='El Google Pixel 8 hunde su precio y es ya 70 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-tdt-martes-14-noviembre-2023-1335616'>Programación TV: ¿Qué ver hoy en televisión? Martes 14 de noviembre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-tdt-martes-14-noviembre-2023-1335616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-martes-14-noviembre-2023-3222904.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Martes 14 de noviembre de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/verdad-detras-mitos-baterias-moviles-1328792'>No te dejes engañar: esta es la verdad detrás de los mitos de las baterías de los móviles</a></h4>
     <a href='https://computerhoy.com/tecnologia/verdad-detras-mitos-baterias-moviles-1328792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/no-te-dejes-enganar-verdad-detras-mitos-baterias-moviles-3211008.jpg?tf=1200x' alt='No te dejes engañar: esta es la verdad detrás de los mitos de las baterías de los móviles' />
@@ -85,6 +61,30 @@
     <h4><a href='https://computerhoy.com/apps/videos-youtube-creados-ia-llevaran-etiqueta-especial-1335588'>¡Ya era hora! Los vídeos en YouTube creados con IA llevarán una etiqueta especial</a></h4>
     <a href='https://computerhoy.com/apps/videos-youtube-creados-ia-llevaran-etiqueta-especial-1335588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/videos-youtube-creados-ia-llevaran-etiqueta-especial-3222820.jpg?tf=1200x' alt='¡Ya era hora! Los vídeos en YouTube creados con IA llevarán una etiqueta especial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/teoria-bill-gates-elegir-trabajadores-perezosos-ya-estudian-muchas-empresas-1335334'>La teoría de Bill Gates para elegir “trabajadores perezosos”, y que ya estudian muchas empresas</a></h4>
+    <a href='https://computerhoy.com/life/teoria-bill-gates-elegir-trabajadores-perezosos-ya-estudian-muchas-empresas-1335334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/historia-menos-conocida-bill-gates-programo-primer-videojuego-pc-historia-3020778.jpg?tf=1200x' alt='La teoría de Bill Gates para elegir “trabajadores perezosos”, y que ya estudian muchas empresas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/waze-ignora-google-maps-funcion-evita-accidentes-1335570'>Waze ignora a Google Maps y lanza una función que de verdad ayuda a evitar accidentes</a></h4>
+    <a href='https://computerhoy.com/apps/waze-ignora-google-maps-funcion-evita-accidentes-1335570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/waze-3222806.jpg?tf=1200x' alt='Waze ignora a Google Maps y lanza una función que de verdad ayuda a evitar accidentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-relojes-como-garmin-fenix-son-baratos-1335408'>5 relojes como los Garmin Fenix pero más baratos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-relojes-como-garmin-fenix-son-baratos-1335408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/coros-pace-3-3206098.jpg?tf=1200x' alt='5 relojes como los Garmin Fenix pero más baratos' />
     </a>
 </div>
 
