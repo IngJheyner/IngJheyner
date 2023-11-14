@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pense-todo-mundo-conocia-estas-funciones-netflix-pero-muchos-me-miran-sorprendidos-1333908'>Pensé que todo el mundo conocía estas funciones de Netflix, pero muchos me miran sorprendidos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pense-todo-mundo-conocia-estas-funciones-netflix-pero-muchos-me-miran-sorprendidos-1333908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/netflix-sorpresa-3221580.jpg?tf=1200x' alt='Pensé que todo el mundo conocía estas funciones de Netflix, pero muchos me miran sorprendidos' />
+    <h4><a href='https://computerhoy.com/entretenimiento/has-cumplido-18-anos-2023-movistar-plus-oferta-ocho-meses-gratis-1335080'>Si has cumplido 18 años en 2023, Movistar Plus+ tiene una oferta irresistible para ti</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/has-cumplido-18-anos-2023-movistar-plus-oferta-ocho-meses-gratis-1335080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/movistar-lanza-clientes-fugados-netflix-canal-plus-muy-barato-incluye-liga-champions-3082996.jpg?tf=1200x' alt='Si has cumplido 18 años en 2023, Movistar Plus+ tiene una oferta irresistible para ti' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estereotipo-alumnos-superdotados-no-son-menos-sociales-1334988'>No, los superdotados no son menos sociales, y sí, están abiertos a nuevas experiencias, según un estudio</a></h4>
-    <a href='https://computerhoy.com/life/estereotipo-alumnos-superdotados-no-son-menos-sociales-1334988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/superdotados-no-son-menos-sociales-estudio-3221862.jpg?tf=1200x' alt='No, los superdotados no son menos sociales, y sí, están abiertos a nuevas experiencias, según un estudio' />
+    <h4><a href='https://computerhoy.com/tecnologia/parece-error-precio-pero-barato-robot-aspirador-limpia-solo-cuesta-menos-200-euros-1334422'>Parece un error de precio, pero es así de barato: este robot aspirador se limpia solo y cuesta menos de 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/parece-error-precio-pero-barato-robot-aspirador-limpia-solo-cuesta-menos-200-euros-1334422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cecotec-conga-2499-ultra-home-titanium-3220790.jpg?tf=1200x' alt='Parece un error de precio, pero es así de barato: este robot aspirador se limpia solo y cuesta menos de 200 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/funciones-accesibilidad-android-te-haran-vida-facil-1330214'>7 funciones de accesibilidad de Android que te harán la vida más fácil</a></h4>
-    <a href='https://computerhoy.com/android/funciones-accesibilidad-android-te-haran-vida-facil-1330214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/7-funciones-accesibilidad-android-te-haran-vida-facil-3213562.jpg?tf=1200x' alt='7 funciones de accesibilidad de Android que te harán la vida más fácil' />
+    <h4><a href='https://computerhoy.com/apps/duro-golpe-google-maps-competidores-tiembla-waze-1335062'>Duro golpe de Google Maps a su competidores, tiembla Waze</a></h4>
+    <a href='https://computerhoy.com/apps/duro-golpe-google-maps-competidores-tiembla-waze-1335062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/vista-inmersiva-google-maps-3221946.jpg?tf=1200x' alt='Duro golpe de Google Maps a su competidores, tiembla Waze' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-tdt-lunes-13-noviembre-2023-1335046'>Programación TV: ¿Qué ver hoy en televisión? Lunes 13 de noviembre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-tdt-lunes-13-noviembre-2023-1335046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-lunes-13-noviembre-2023-3221906.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Lunes 13 de noviembre de 2023' />
+    <h4><a href='https://computerhoy.com/android/no-te-asustes-sigue-siendo-android-tv-aunque-no-parezca-1335060'>No te asustes, sigue siendo Android TV, aunque no lo parezca</a></h4>
+    <a href='https://computerhoy.com/android/no-te-asustes-sigue-siendo-android-tv-aunque-no-parezca-1335060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-tv-2548843.jpg?tf=1200x' alt='No te asustes, sigue siendo Android TV, aunque no lo parezca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mantener-portatil-encendido-tapa-cerrada-1333806'>Cómo mantener tu portátil con Windows 11 encendido al cerrar la tapa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mantener-portatil-encendido-tapa-cerrada-1333806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-mantener-portatil-windows-11-encendido-cerrar-tapa-3219870.jpg?tf=1200x' alt='Cómo mantener tu portátil con Windows 11 encendido al cerrar la tapa' />
+    <h4><a href='https://computerhoy.com/life/botella-te-permite-beber-agua-charco-seguridad-1335044'>Esta botella inteligente te permite beber con seguridad agua de un charco, lago o incluso del fregadero</a></h4>
+    <a href='https://computerhoy.com/life/botella-te-permite-beber-agua-charco-seguridad-1335044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/botella-perfecta-escapadas-naturaleza-capaz-filtrar-purificar-agua-3221904.jpg?tf=1200x' alt='Esta botella inteligente te permite beber con seguridad agua de un charco, lago o incluso del fregadero' />
     </a>
 </div>
 
