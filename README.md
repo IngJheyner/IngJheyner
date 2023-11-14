@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/importante-interior-ve-airpod-real-falso-pasas-escaner-1335326'>Lo importante está en el interior: así se ve un AirPod real y uno falso si lo pasas por un escáner</a></h4>
+    <a href='https://computerhoy.com/apple/importante-interior-ve-airpod-real-falso-pasas-escaner-1335326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/escanear-airpods-reales-falsos-3222298.jpg?tf=1200x' alt='Lo importante está en el interior: así se ve un AirPod real y uno falso si lo pasas por un escáner' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-cree-escasez-chips-ia-reducira-2024-1335308'>Sam Altman asegura que la "brutal" escasez de chips de IA se reducirá en 2024</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-cree-escasez-chips-ia-reducira-2024-1335308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-respecto-2937980.jpg?tf=1200x' alt='Sam Altman asegura que la "brutal" escasez de chips de IA se reducirá en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/cepillo-top-oral-b-precio-minimo-historico-amazon-1335264'>El cepillo más top de Oral-B está a precio mínimo histórico en Amazon</a></h4>
+    <a href='https://computerhoy.com/hogar/cepillo-top-oral-b-precio-minimo-historico-amazon-1335264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/oral-b-io-9-series-9-3192308.jpg?tf=1200x' alt='El cepillo más top de Oral-B está a precio mínimo histórico en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/distraidos-enfocados-estudio-revela-tecnologia-ha-empeorado-inteligencia-concentracion-1335298'>¿Distraídos o más enfocados? Este estudio revela si la tecnología ha empeorado tu inteligencia y concentración</a></h4>
+    <a href='https://computerhoy.com/life/distraidos-enfocados-estudio-revela-tecnologia-ha-empeorado-inteligencia-concentracion-1335298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tecnologia-digitalizacion-3222274.jpg?tf=1200x' alt='¿Distraídos o más enfocados? Este estudio revela si la tecnología ha empeorado tu inteligencia y concentración' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-devuelve-ataque-sam-altman-califica-chatgpt-insoportable-1335290'>Elon Musk devuelve el ataque a Sam Altman y califica a ChatGPT de "insoportable"</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-devuelve-ataque-sam-altman-califica-chatgpt-insoportable-1335290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='Elon Musk devuelve el ataque a Sam Altman y califica a ChatGPT de "insoportable"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/retro-no-viejo-consola-oled-android-puede-todos-juegos-infancia-1334414'>Retro no es viejo: esta consola OLED con Android puede con todos los juegos de tu infancia</a></h4>
-    <a href='https://computerhoy.com/gaming/retro-no-viejo-consola-oled-android-puede-todos-juegos-infancia-1334414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/anbernic-rg505-3220782.jpg?tf=1200x' alt='Retro no es viejo: esta consola OLED con Android puede con todos los juegos de tu infancia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/macbook-pro-14-m3-2023-analisis-opinion-1333158'>MacBook Pro 14 (2023) con chip M3, análisis y opinión: uno de los mejores portátiles de Apple, pero la mejora de rendimiento es una incógnita</a></h4>
-    <a href='https://computerhoy.com/analisis/macbook-pro-14-m3-2023-analisis-opinion-1333158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/macbook-pro-14-m3-3219348.jpg?tf=1200x' alt='MacBook Pro 14 (2023) con chip M3, análisis y opinión: uno de los mejores portátiles de Apple, pero la mejora de rendimiento es una incógnita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiendas-hacen-previa-black-friday-estas-son-ya-estan-ello-1335246'>¿Qué tiendas hacen previa del Black Friday? Estas son las que ya están en ello</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiendas-hacen-previa-black-friday-estas-son-ya-estan-ello-1335246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aliexpress-vs-amazon-black-friday-ofertas-tienda-china-son-baratas-2880369.jpg?tf=1200x' alt='¿Qué tiendas hacen previa del Black Friday? Estas son las que ya están en ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/levas-usando-mal-batidor-varillas-toda-vida-forma-correcta-usarlo-1333322'>Llevas usando mal el batidor de varillas toda la vida, esta es la forma correcta de usarlo, según un chef profesional</a></h4>
-    <a href='https://computerhoy.com/hogar/levas-usando-mal-batidor-varillas-toda-vida-forma-correcta-usarlo-1333322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/llevas-usando-mal-batidor-varillas-toda-vida-forma-correcta-usarlo-chef-profesional-3218850.jpg?tf=1200x' alt='Llevas usando mal el batidor de varillas toda la vida, esta es la forma correcta de usarlo, según un chef profesional' />
     </a>
 </div>
 
