@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bing-chatgpt-pierde-cuota-mercado-buscador-google-1335084'>La IA no era la salvación: Bing pierde cuota de mercado tras integrar ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bing-chatgpt-pierde-cuota-mercado-buscador-google-1335084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-va-google-integra-chatgpt-bing-ya-puedes-probar-2949674.jpg?tf=1200x' alt='La IA no era la salvación: Bing pierde cuota de mercado tras integrar ChatGPT' />
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-devuelve-ataque-sam-altman-califica-chatgpt-insoportable-1335290'>Elon Musk devuelve el ataque a Sam Altman y califica a ChatGPT de "insoportable"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-devuelve-ataque-sam-altman-califica-chatgpt-insoportable-1335290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='Elon Musk devuelve el ataque a Sam Altman y califica a ChatGPT de "insoportable"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/has-cumplido-18-anos-2023-movistar-plus-oferta-ocho-meses-gratis-1335080'>Si has cumplido 18 años en 2023, Movistar Plus+ tiene una oferta irresistible para ti</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/has-cumplido-18-anos-2023-movistar-plus-oferta-ocho-meses-gratis-1335080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/movistar-lanza-clientes-fugados-netflix-canal-plus-muy-barato-incluye-liga-champions-3082996.jpg?tf=1200x' alt='Si has cumplido 18 años en 2023, Movistar Plus+ tiene una oferta irresistible para ti' />
+    <h4><a href='https://computerhoy.com/gaming/retro-no-viejo-consola-oled-android-puede-todos-juegos-infancia-1334414'>Retro no es viejo: esta consola OLED con Android puede con todos los juegos de tu infancia</a></h4>
+    <a href='https://computerhoy.com/gaming/retro-no-viejo-consola-oled-android-puede-todos-juegos-infancia-1334414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/anbernic-rg505-3220782.jpg?tf=1200x' alt='Retro no es viejo: esta consola OLED con Android puede con todos los juegos de tu infancia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/parece-error-precio-pero-barato-robot-aspirador-limpia-solo-cuesta-menos-200-euros-1334422'>Parece un error de precio, pero es así de barato: este robot aspirador se limpia solo y cuesta menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/parece-error-precio-pero-barato-robot-aspirador-limpia-solo-cuesta-menos-200-euros-1334422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cecotec-conga-2499-ultra-home-titanium-3220790.jpg?tf=1200x' alt='Parece un error de precio, pero es así de barato: este robot aspirador se limpia solo y cuesta menos de 200 euros' />
+    <h4><a href='https://computerhoy.com/analisis/macbook-pro-14-m3-2023-analisis-opinion-1333158'>MacBook Pro 14 (2023) con chip M3, análisis y opinión: uno de los mejores portátiles de Apple, pero la mejora de rendimiento es una incógnita</a></h4>
+    <a href='https://computerhoy.com/analisis/macbook-pro-14-m3-2023-analisis-opinion-1333158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/macbook-pro-14-m3-3219348.jpg?tf=1200x' alt='MacBook Pro 14 (2023) con chip M3, análisis y opinión: uno de los mejores portátiles de Apple, pero la mejora de rendimiento es una incógnita' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/duro-golpe-google-maps-competidores-tiembla-waze-1335062'>Duro golpe de Google Maps a su competidores, tiembla Waze</a></h4>
-    <a href='https://computerhoy.com/apps/duro-golpe-google-maps-competidores-tiembla-waze-1335062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/vista-inmersiva-google-maps-3221946.jpg?tf=1200x' alt='Duro golpe de Google Maps a su competidores, tiembla Waze' />
+    <h4><a href='https://computerhoy.com/tecnologia/tiendas-hacen-previa-black-friday-estas-son-ya-estan-ello-1335246'>¿Qué tiendas hacen previa del Black Friday? Estas son las que ya están en ello</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiendas-hacen-previa-black-friday-estas-son-ya-estan-ello-1335246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aliexpress-vs-amazon-black-friday-ofertas-tienda-china-son-baratas-2880369.jpg?tf=1200x' alt='¿Qué tiendas hacen previa del Black Friday? Estas son las que ya están en ello' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/no-te-asustes-sigue-siendo-android-tv-aunque-no-parezca-1335060'>No te asustes, sigue siendo Android TV, aunque no lo parezca</a></h4>
-    <a href='https://computerhoy.com/android/no-te-asustes-sigue-siendo-android-tv-aunque-no-parezca-1335060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-tv-2548843.jpg?tf=1200x' alt='No te asustes, sigue siendo Android TV, aunque no lo parezca' />
+    <h4><a href='https://computerhoy.com/hogar/levas-usando-mal-batidor-varillas-toda-vida-forma-correcta-usarlo-1333322'>Llevas usando mal el batidor de varillas toda la vida, esta es la forma correcta de usarlo, según un chef profesional</a></h4>
+    <a href='https://computerhoy.com/hogar/levas-usando-mal-batidor-varillas-toda-vida-forma-correcta-usarlo-1333322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/llevas-usando-mal-batidor-varillas-toda-vida-forma-correcta-usarlo-chef-profesional-3218850.jpg?tf=1200x' alt='Llevas usando mal el batidor de varillas toda la vida, esta es la forma correcta de usarlo, según un chef profesional' />
     </a>
 </div>
 
