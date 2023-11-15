@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-cuenta-gmail-drive-docs-calendar-meet-google-photos-sera-eliminada-1336152'>Cómo saber si tu cuenta de Gmail, Drive, Docs, Calendar, Meet o Google Photos está en riesgo de ser eliminada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-cuenta-gmail-drive-docs-calendar-meet-google-photos-sera-eliminada-1336152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Cómo saber si tu cuenta de Gmail, Drive, Docs, Calendar, Meet o Google Photos está en riesgo de ser eliminada' />
+    <h4><a href='https://computerhoy.com/espacio/misteriosas-esferas-metalicas-descubiertas-oceano-no-son-extraterrestres-son-algo-mucho-peor-1336220'>Las misteriosas esferas metálicas descubiertas en el océano no son extraterrestres, son algo mucho peor</a></h4>
+    <a href='https://computerhoy.com/espacio/misteriosas-esferas-metalicas-descubiertas-oceano-no-son-extraterrestres-son-algo-mucho-peor-1336220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/meteorito-3087238.jpg?tf=1200x' alt='Las misteriosas esferas metálicas descubiertas en el océano no son extraterrestres, son algo mucho peor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-centro-evento-ignite-2023-microsoft-novedades-esperar-1335966'>La inteligencia artificial y Copilot en el centro del evento Ignite de Microsoft: qué novedades esperar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-centro-evento-ignite-2023-microsoft-novedades-esperar-1335966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-evento-ia-3223344.jpg?tf=1200x' alt='La inteligencia artificial y Copilot en el centro del evento Ignite de Microsoft: qué novedades esperar' />
+    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-tdt-miercoles-15-noviembre-2023-1336218'>Programación TV: ¿Qué ver hoy en televisión? Miércoles 15 de noviembre de 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/programacion-tv-tdt-miercoles-15-noviembre-2023-1336218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-miercoles-15-noviembre-2023-3223774.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Miércoles 15 de noviembre de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dia-mundial-alcohol-5-senales-claras-identificar-tienes-problemas-bebida-1335448'>Día Mundial sin Alcohol: 5 señales claras para identificar si tienes problemas con la bebida</a></h4>
-    <a href='https://computerhoy.com/life/dia-mundial-alcohol-5-senales-claras-identificar-tienes-problemas-bebida-1335448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dia-mundial-alcohol-5-senales-claras-identificar-tienes-problemas-bebida-3222542.jpg?tf=1200x' alt='Día Mundial sin Alcohol: 5 señales claras para identificar si tienes problemas con la bebida' />
+    <h4><a href='https://computerhoy.com/tutoriales/ip-logger-como-funciona-jamas-deberias-abrir-tipo-enlaces-1335648'>Qué es IP Logger, cómo funciona y por qué jamás deberías abrir este tipo de enlaces</a></h4>
+    <a href='https://computerhoy.com/tutoriales/ip-logger-como-funciona-jamas-deberias-abrir-tipo-enlaces-1335648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ip-logger-como-funciona-jamas-deberias-abrir-tipo-enlaces-3222974.jpg?tf=1200x' alt='Qué es IP Logger, cómo funciona y por qué jamás deberías abrir este tipo de enlaces' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estamos-paso-cerca-comprender-origen-vida-tierra-1336136'>Estamos un paso más cerca de comprender el origen de la vida en la Tierra</a></h4>
-    <a href='https://computerhoy.com/ciencia/estamos-paso-cerca-comprender-origen-vida-tierra-1336136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/origen-vida-tierra-cerca-ser-comprendido-3223608.jpg?tf=1200x' alt='Estamos un paso más cerca de comprender el origen de la vida en la Tierra' />
+    <h4><a href='https://computerhoy.com/moviles/paso-semana-movil-completamente-silencio-ha-cambiado-mi-vida-1335994'>Paso una semana con el móvil completamente en silencio, y así ha cambiado mi vida</a></h4>
+    <a href='https://computerhoy.com/moviles/paso-semana-movil-completamente-silencio-ha-cambiado-mi-vida-1335994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/silencio-movil-3223522.jpg?tf=1200x' alt='Paso una semana con el móvil completamente en silencio, y así ha cambiado mi vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/florida-lluvia de-iguanas-congeladas-1336118'>En Florida están lloviendo iguanas congeladas, ¿qué ocurre?</a></h4>
-    <a href='https://computerhoy.com/life/florida-lluvia de-iguanas-congeladas-1336118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/florida-estan-lloviendo-iguanas-congeladas-ocurre-3223534.jpg?tf=1200x' alt='En Florida están lloviendo iguanas congeladas, ¿qué ocurre?' />
+    <h4><a href='https://computerhoy.com/life/envia-adn-luna-formar-parte-zoologico-galactico-1336172'>Envía su ADN a la Luna por un motivo sorprendentemente absurdo: formar parte de un zoológico</a></h4>
+    <a href='https://computerhoy.com/life/envia-adn-luna-formar-parte-zoologico-galactico-1336172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/luna-tierra-3127498.jpg?tf=1200x' alt='Envía su ADN a la Luna por un motivo sorprendentemente absurdo: formar parte de un zoológico' />
     </a>
 </div>
 
