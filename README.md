@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/surfshark-te-regala-5-meses-vpn-gratis-plan-anual-ademas-ahora-rebajado-85-1335632'>Surfshark te regala 5 meses de VPN gratis con su plan anual, que además ahora está rebajado un 85%</a></h4>
+    <a href='https://computerhoy.com/tecnologia/surfshark-te-regala-5-meses-vpn-gratis-plan-anual-ademas-ahora-rebajado-85-1335632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-surfshark-3222928.jpg?tf=1200x' alt='Surfshark te regala 5 meses de VPN gratis con su plan anual, que además ahora está rebajado un 85%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/estrenos-navidad-skyshowtime-transformers-1335650'>Estrenos de Navidad 2023 en SkyShowtime: Transformers El despertar de las Bestias, Asteroid City, y más</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estrenos-navidad-skyshowtime-transformers-1335650' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/transformers-despertar-bestias-2994434.jpg?tf=1200x' alt='Estrenos de Navidad 2023 en SkyShowtime: Transformers El despertar de las Bestias, Asteroid City, y más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-memoria-ram-iphone-segundos-1334938'>Cómo liberar la memoria RAM de tu iPhone en segundos y por qué deberías hacerlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-limpiar-memoria-ram-iphone-segundos-1334938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143598.jpg?tf=1200x' alt='Cómo liberar la memoria RAM de tu iPhone en segundos y por qué deberías hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tdt-4k-smart-tv-compatibles-ya-tiene-fecha-estreno-espana-1335634'>La TDT 4K para Smart TV compatibles ya tiene fecha de estreno en España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tdt-4k-smart-tv-compatibles-ya-tiene-fecha-estreno-espana-1335634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sentimos-televisor-tiene-hoy-menos-canales-tdt-no-error-3200804.jpg?tf=1200x' alt='La TDT 4K para Smart TV compatibles ya tiene fecha de estreno en España' />
     </a>
 </div>
 
