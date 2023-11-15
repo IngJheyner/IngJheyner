@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/china-lanza-red-internet-rapida-mundo-descarga-150-peliculas-segundo-1335870'>China lanza la red de Internet más rápida del mundo que descarga 150 películas en un segundo</a></h4>
-    <a href='https://computerhoy.com/internet/china-lanza-red-internet-rapida-mundo-descarga-150-peliculas-segundo-1335870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/china-internet-3223204.jpg?tf=1200x' alt='China lanza la red de Internet más rápida del mundo que descarga 150 películas en un segundo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/christopher-nolan-asegura-debes-comprar-oppenheimer-blu-ray-antes-netflix-te-robe-1335968'>Christopher Nolan asegura que debes comprar Oppenheimer en Blu-ray antes de que Netflix te la robe</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/christopher-nolan-asegura-debes-comprar-oppenheimer-blu-ray-antes-netflix-te-robe-1335968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/christopher-nolan-oppenheimer-3223240.jpg?tf=1200x' alt='Christopher Nolan asegura que debes comprar Oppenheimer en Blu-ray antes de que Netflix te la robe' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oferta-ps5-amazon-black-friday-1335844'>Liquidación en PS5: consola y juegos a precios jamás vistos en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oferta-ps5-amazon-black-friday-1335844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/playstation-5-ps5-3200156.jpg?tf=1200x' alt='Liquidación en PS5: consola y juegos a precios jamás vistos en Amazon' />
+    <h4><a href='https://computerhoy.com/tecnologia/ai-pin-humane-fallo-2-respuestas-anuncio-presentacion-1335938'>El AI Pin de Humane falló 2 respuestas en su anuncio de presentación y trabajan en solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ai-pin-humane-fallo-2-respuestas-anuncio-presentacion-1335938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/humane-3191160.jpg?tf=1200x' alt='El AI Pin de Humane falló 2 respuestas en su anuncio de presentación y trabajan en solucionarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/llevo-toda-vida-jugando-videojuegos-busco-smartphone-gaming-1328496'>Llevo toda la vida jugando a videojuegos competitivos en el móvil: esto busco en un smartphone gaming</a></h4>
-    <a href='https://computerhoy.com/gaming/llevo-toda-vida-jugando-videojuegos-busco-smartphone-gaming-1328496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/videojuegos-moviles-competitivos-smartphone-gaming-3210390.jpg?tf=1200x' alt='Llevo toda la vida jugando a videojuegos competitivos en el móvil: esto busco en un smartphone gaming' />
+    <h4><a href='https://computerhoy.com/google/drive-dejara-guardar-gratis-copias-whatsapp-android-2024-1335926'>Drive dejará de guardar gratis tus copias de WhatsApp en Android en 2024</a></h4>
+    <a href='https://computerhoy.com/google/drive-dejara-guardar-gratis-copias-whatsapp-android-2024-1335926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/whatsapp-puedes-ocultar-contacto-bloquearlo-3215588.jpg?tf=1200x' alt='Drive dejará de guardar gratis tus copias de WhatsApp en Android en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/piloto-aerolineas-explica-que-hace-vuelo-18-horas-1335832'>Un piloto de aerolíneas explica qué hace en un vuelo de 18 horas </a></h4>
-    <a href='https://computerhoy.com/life/piloto-aerolineas-explica-que-hace-vuelo-18-horas-1335832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/piloto-aerolineas-explica-hace-vuelo-18-horas-3223160.jpg?tf=1200x' alt='Un piloto de aerolíneas explica qué hace en un vuelo de 18 horas ' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-mejorara-bateria-iphone-18-nuevo-material-pantallas-oled-1335880'>Samsung mejorará la batería del iPhone 18 con este nuevo material para pantallas OLED</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-mejorara-bateria-iphone-18-nuevo-material-pantallas-oled-1335880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/isla-dinamica-iphone-15-pro-max-3150496.jpg?tf=1200x' alt='Samsung mejorará la batería del iPhone 18 con este nuevo material para pantallas OLED' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/surfshark-te-regala-5-meses-vpn-gratis-plan-anual-ademas-ahora-rebajado-85-1335632'>Surfshark te regala 5 meses de VPN gratis con su plan anual, que además ahora está rebajado un 85%</a></h4>
-    <a href='https://computerhoy.com/tecnologia/surfshark-te-regala-5-meses-vpn-gratis-plan-anual-ademas-ahora-rebajado-85-1335632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-surfshark-3222928.jpg?tf=1200x' alt='Surfshark te regala 5 meses de VPN gratis con su plan anual, que además ahora está rebajado un 85%' />
+    <h4><a href='https://computerhoy.com/tecnologia/32-gb-ram-ryzen-7-pc-canon-cuesta-menos-xiaomi-1335360'>32 GB de RAM y Ryzen 7: este PC es un cañón que cuesta menos que un Xiaomi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/32-gb-ram-ryzen-7-pc-canon-cuesta-menos-xiaomi-1335360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mini-pc-trigkey-speed-s5-3222386.jpg?tf=1200x' alt='32 GB de RAM y Ryzen 7: este PC es un cañón que cuesta menos que un Xiaomi' />
     </a>
 </div>
 
