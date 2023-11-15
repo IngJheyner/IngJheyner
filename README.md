@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-navidad-skyshowtime-transformers-1335650'>Estrenos de Navidad 2023 en SkyShowtime: Transformers El despertar de las Bestias, Asteroid City, y más</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estrenos-navidad-skyshowtime-transformers-1335650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/transformers-despertar-bestias-2994434.jpg?tf=1200x' alt='Estrenos de Navidad 2023 en SkyShowtime: Transformers El despertar de las Bestias, Asteroid City, y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/calefaccion-sofa-invento-puedes-instalar-mismo-1335646'>Calefacción en el sofá: el genial invento para no pasar frío que puedes instalar tú mismo, con WiFi y un consumo ridículo</a></h4>
+    <a href='https://computerhoy.com/hogar/calefaccion-sofa-invento-puedes-instalar-mismo-1335646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/calefaccion-sofa-genial-invento-no-pasar-frio-puedes-instalar-mismo-wifi-consumo-ridiculo-3222968.jpg?tf=1200x' alt='Calefacción en el sofá: el genial invento para no pasar frío que puedes instalar tú mismo, con WiFi y un consumo ridículo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ranking-alucinaciones-inteligencia-artificial-1335644'>Un ranking de modelos de inteligencia artificial según sus alucinaciones, deja a las IAs de Google como las más "mentirosas"</a></h4>
     <a href='https://computerhoy.com/tecnologia/ranking-alucinaciones-inteligencia-artificial-1335644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ranking-modelos-inteligencia-artificial-alucinaciones-dejan-ias-google-como-mentirosas-3222952.jpg?tf=1200x' alt='Un ranking de modelos de inteligencia artificial según sus alucinaciones, deja a las IAs de Google como las más "mentirosas"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tdt-4k-smart-tv-compatibles-ya-tiene-fecha-estreno-espana-1335634'>La TDT 4K para Smart TV compatibles ya tiene fecha de estreno en España</a></h4>
     <a href='https://computerhoy.com/tecnologia/tdt-4k-smart-tv-compatibles-ya-tiene-fecha-estreno-espana-1335634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sentimos-televisor-tiene-hoy-menos-canales-tdt-no-error-3200804.jpg?tf=1200x' alt='La TDT 4K para Smart TV compatibles ya tiene fecha de estreno en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/marenostrum-5-superordenador-espanol-ha-colado-lista-ordenadores-potentes-mundo-1335630'>MareNostrum 5: el superordenador español que se ha colado en la lista de ordenadores más potentes del mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/marenostrum-5-superordenador-espanol-ha-colado-lista-ordenadores-potentes-mundo-1335630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/marenostrum-5-superordenador-espanol-ha-colado-lista-ordenadores-potentes-mundo-3222926.jpg?tf=1200x' alt='MareNostrum 5: el superordenador español que se ha colado en la lista de ordenadores más potentes del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/impacto-mayor-big-bang-golpeo-atmosfera-siete-minutos-1335614'>Un impacto cósmico sacudió nuestra atmósfera siete minutos: el mayor golpe desde el Big Bang</a></h4>
-    <a href='https://computerhoy.com/ciencia/impacto-mayor-big-bang-golpeo-atmosfera-siete-minutos-1335614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/impacto-cosmico-sacudio-atmosfera-siete-minutos-mayor-big-bang-3222900.jpg?tf=1200x' alt='Un impacto cósmico sacudió nuestra atmósfera siete minutos: el mayor golpe desde el Big Bang' />
     </a>
 </div>
 
