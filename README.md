@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/estas-son-mejores-consolas-portatiles-android-1335642'>Estas son las mejores consolas portátiles con Android</a></h4>
+    <a href='https://computerhoy.com/android/estas-son-mejores-consolas-portatiles-android-1335642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/logitech-g-cloud-2819965.jpg?tf=1200x' alt='Estas son las mejores consolas portátiles con Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-deja-ko-amazon-oferta-android-favoritos-desploma-precio-1335284'>AliExpress deja KO a Amazon con esta oferta: uno de nuestros Android favoritos desploma su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-deja-ko-amazon-oferta-android-favoritos-desploma-precio-1335284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nothing-phone-3187596.jpg?tf=1200x' alt='AliExpress deja KO a Amazon con esta oferta: uno de nuestros Android favoritos desploma su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/christopher-nolan-asegura-debes-comprar-oppenheimer-blu-ray-antes-netflix-te-robe-1335968'>Christopher Nolan asegura que debes comprar Oppenheimer en Blu-ray antes de que Netflix te la robe</a></h4>
     <a href='https://computerhoy.com/entretenimiento/christopher-nolan-asegura-debes-comprar-oppenheimer-blu-ray-antes-netflix-te-robe-1335968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/christopher-nolan-oppenheimer-3223240.jpg?tf=1200x' alt='Christopher Nolan asegura que debes comprar Oppenheimer en Blu-ray antes de que Netflix te la robe' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/drive-dejara-guardar-gratis-copias-whatsapp-android-2024-1335926'>Drive dejará de guardar gratis tus copias de WhatsApp en Android en 2024</a></h4>
     <a href='https://computerhoy.com/google/drive-dejara-guardar-gratis-copias-whatsapp-android-2024-1335926' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/whatsapp-puedes-ocultar-contacto-bloquearlo-3215588.jpg?tf=1200x' alt='Drive dejará de guardar gratis tus copias de WhatsApp en Android en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-mejorara-bateria-iphone-18-nuevo-material-pantallas-oled-1335880'>Samsung mejorará la batería del iPhone 18 con este nuevo material para pantallas OLED</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-mejorara-bateria-iphone-18-nuevo-material-pantallas-oled-1335880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/isla-dinamica-iphone-15-pro-max-3150496.jpg?tf=1200x' alt='Samsung mejorará la batería del iPhone 18 con este nuevo material para pantallas OLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/32-gb-ram-ryzen-7-pc-canon-cuesta-menos-xiaomi-1335360'>32 GB de RAM y Ryzen 7: este PC es un cañón que cuesta menos que un Xiaomi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/32-gb-ram-ryzen-7-pc-canon-cuesta-menos-xiaomi-1335360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mini-pc-trigkey-speed-s5-3222386.jpg?tf=1200x' alt='32 GB de RAM y Ryzen 7: este PC es un cañón que cuesta menos que un Xiaomi' />
     </a>
 </div>
 
