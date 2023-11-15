@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/verdad-detras-mitos-baterias-moviles-1328792'>No te dejes engañar: esta es la verdad detrás de los mitos de las baterías de los móviles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/verdad-detras-mitos-baterias-moviles-1328792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/no-te-dejes-enganar-verdad-detras-mitos-baterias-moviles-3211008.jpg?tf=1200x' alt='No te dejes engañar: esta es la verdad detrás de los mitos de las baterías de los móviles' />
+    <h4><a href='https://computerhoy.com/tecnologia/ranking-alucinaciones-inteligencia-artificial-1335644'>Un ranking de modelos de inteligencia artificial según sus alucinaciones, deja a las IAs de Google como las más "mentirosas"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ranking-alucinaciones-inteligencia-artificial-1335644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ranking-modelos-inteligencia-artificial-alucinaciones-dejan-ias-google-como-mentirosas-3222952.jpg?tf=1200x' alt='Un ranking de modelos de inteligencia artificial según sus alucinaciones, deja a las IAs de Google como las más "mentirosas"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/videos-youtube-creados-ia-llevaran-etiqueta-especial-1335588'>¡Ya era hora! Los vídeos en YouTube creados con IA llevarán una etiqueta especial</a></h4>
-    <a href='https://computerhoy.com/apps/videos-youtube-creados-ia-llevaran-etiqueta-especial-1335588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/videos-youtube-creados-ia-llevaran-etiqueta-especial-3222820.jpg?tf=1200x' alt='¡Ya era hora! Los vídeos en YouTube creados con IA llevarán una etiqueta especial' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-memoria-ram-iphone-segundos-1334938'>Cómo liberar la memoria RAM de tu iPhone en segundos y por qué deberías hacerlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-limpiar-memoria-ram-iphone-segundos-1334938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143598.jpg?tf=1200x' alt='Cómo liberar la memoria RAM de tu iPhone en segundos y por qué deberías hacerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/teoria-bill-gates-elegir-trabajadores-perezosos-ya-estudian-muchas-empresas-1335334'>La teoría de Bill Gates para elegir “trabajadores perezosos”, y que ya estudian muchas empresas</a></h4>
-    <a href='https://computerhoy.com/life/teoria-bill-gates-elegir-trabajadores-perezosos-ya-estudian-muchas-empresas-1335334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/historia-menos-conocida-bill-gates-programo-primer-videojuego-pc-historia-3020778.jpg?tf=1200x' alt='La teoría de Bill Gates para elegir “trabajadores perezosos”, y que ya estudian muchas empresas' />
+    <h4><a href='https://computerhoy.com/tecnologia/tdt-4k-smart-tv-compatibles-ya-tiene-fecha-estreno-espana-1335634'>La TDT 4K para Smart TV compatibles ya tiene fecha de estreno en España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tdt-4k-smart-tv-compatibles-ya-tiene-fecha-estreno-espana-1335634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sentimos-televisor-tiene-hoy-menos-canales-tdt-no-error-3200804.jpg?tf=1200x' alt='La TDT 4K para Smart TV compatibles ya tiene fecha de estreno en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/waze-ignora-google-maps-funcion-evita-accidentes-1335570'>Waze ignora a Google Maps y lanza una función que de verdad ayuda a evitar accidentes</a></h4>
-    <a href='https://computerhoy.com/apps/waze-ignora-google-maps-funcion-evita-accidentes-1335570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/waze-3222806.jpg?tf=1200x' alt='Waze ignora a Google Maps y lanza una función que de verdad ayuda a evitar accidentes' />
+    <h4><a href='https://computerhoy.com/tecnologia/marenostrum-5-superordenador-espanol-ha-colado-lista-ordenadores-potentes-mundo-1335630'>MareNostrum 5: el superordenador español que se ha colado en la lista de ordenadores más potentes del mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/marenostrum-5-superordenador-espanol-ha-colado-lista-ordenadores-potentes-mundo-1335630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/marenostrum-5-superordenador-espanol-ha-colado-lista-ordenadores-potentes-mundo-3222926.jpg?tf=1200x' alt='MareNostrum 5: el superordenador español que se ha colado en la lista de ordenadores más potentes del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-relojes-como-garmin-fenix-son-baratos-1335408'>5 relojes como los Garmin Fenix pero más baratos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-relojes-como-garmin-fenix-son-baratos-1335408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/coros-pace-3-3206098.jpg?tf=1200x' alt='5 relojes como los Garmin Fenix pero más baratos' />
+    <h4><a href='https://computerhoy.com/ciencia/impacto-mayor-big-bang-golpeo-atmosfera-siete-minutos-1335614'>Un impacto cósmico sacudió nuestra atmósfera siete minutos: el mayor golpe desde el Big Bang</a></h4>
+    <a href='https://computerhoy.com/ciencia/impacto-mayor-big-bang-golpeo-atmosfera-siete-minutos-1335614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/impacto-cosmico-sacudio-atmosfera-siete-minutos-mayor-big-bang-3222900.jpg?tf=1200x' alt='Un impacto cósmico sacudió nuestra atmósfera siete minutos: el mayor golpe desde el Big Bang' />
     </a>
 </div>
 
