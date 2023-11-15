@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/china-lanza-red-internet-rapida-mundo-descarga-150-peliculas-segundo-1335870'>China lanza la red de Internet más rápida del mundo que descarga 150 películas en un segundo</a></h4>
+    <a href='https://computerhoy.com/internet/china-lanza-red-internet-rapida-mundo-descarga-150-peliculas-segundo-1335870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/china-internet-3223204.jpg?tf=1200x' alt='China lanza la red de Internet más rápida del mundo que descarga 150 películas en un segundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oferta-ps5-amazon-black-friday-1335844'>Liquidación en PS5: consola y juegos a precios jamás vistos en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oferta-ps5-amazon-black-friday-1335844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/playstation-5-ps5-3200156.jpg?tf=1200x' alt='Liquidación en PS5: consola y juegos a precios jamás vistos en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/llevo-toda-vida-jugando-videojuegos-busco-smartphone-gaming-1328496'>Llevo toda la vida jugando a videojuegos competitivos en el móvil: esto busco en un smartphone gaming</a></h4>
+    <a href='https://computerhoy.com/gaming/llevo-toda-vida-jugando-videojuegos-busco-smartphone-gaming-1328496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/videojuegos-moviles-competitivos-smartphone-gaming-3210390.jpg?tf=1200x' alt='Llevo toda la vida jugando a videojuegos competitivos en el móvil: esto busco en un smartphone gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/piloto-aerolineas-explica-que-hace-vuelo-18-horas-1335832'>Un piloto de aerolíneas explica qué hace en un vuelo de 18 horas </a></h4>
+    <a href='https://computerhoy.com/life/piloto-aerolineas-explica-que-hace-vuelo-18-horas-1335832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/piloto-aerolineas-explica-hace-vuelo-18-horas-3223160.jpg?tf=1200x' alt='Un piloto de aerolíneas explica qué hace en un vuelo de 18 horas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/surfshark-te-regala-5-meses-vpn-gratis-plan-anual-ademas-ahora-rebajado-85-1335632'>Surfshark te regala 5 meses de VPN gratis con su plan anual, que además ahora está rebajado un 85%</a></h4>
     <a href='https://computerhoy.com/tecnologia/surfshark-te-regala-5-meses-vpn-gratis-plan-anual-ademas-ahora-rebajado-85-1335632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-surfshark-3222928.jpg?tf=1200x' alt='Surfshark te regala 5 meses de VPN gratis con su plan anual, que además ahora está rebajado un 85%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-navidad-skyshowtime-transformers-1335650'>Estrenos de Navidad 2023 en SkyShowtime: Transformers El despertar de las Bestias, Asteroid City, y más</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estrenos-navidad-skyshowtime-transformers-1335650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/transformers-despertar-bestias-2994434.jpg?tf=1200x' alt='Estrenos de Navidad 2023 en SkyShowtime: Transformers El despertar de las Bestias, Asteroid City, y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/calefaccion-sofa-invento-puedes-instalar-mismo-1335646'>Calefacción en el sofá: el genial invento para no pasar frío que puedes instalar tú mismo, con WiFi y un consumo ridículo</a></h4>
-    <a href='https://computerhoy.com/hogar/calefaccion-sofa-invento-puedes-instalar-mismo-1335646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/calefaccion-sofa-genial-invento-no-pasar-frio-puedes-instalar-mismo-wifi-consumo-ridiculo-3222968.jpg?tf=1200x' alt='Calefacción en el sofá: el genial invento para no pasar frío que puedes instalar tú mismo, con WiFi y un consumo ridículo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ranking-alucinaciones-inteligencia-artificial-1335644'>Un ranking de modelos de inteligencia artificial según sus alucinaciones, deja a las IAs de Google como las más "mentirosas"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ranking-alucinaciones-inteligencia-artificial-1335644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ranking-modelos-inteligencia-artificial-alucinaciones-dejan-ias-google-como-mentirosas-3222952.jpg?tf=1200x' alt='Un ranking de modelos de inteligencia artificial según sus alucinaciones, deja a las IAs de Google como las más "mentirosas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-memoria-ram-iphone-segundos-1334938'>Cómo liberar la memoria RAM de tu iPhone en segundos y por qué deberías hacerlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-limpiar-memoria-ram-iphone-segundos-1334938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143598.jpg?tf=1200x' alt='Cómo liberar la memoria RAM de tu iPhone en segundos y por qué deberías hacerlo' />
     </a>
 </div>
 
