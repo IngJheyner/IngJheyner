@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/estas-son-mejores-consolas-portatiles-android-1335642'>Estas son las mejores consolas portátiles con Android</a></h4>
-    <a href='https://computerhoy.com/android/estas-son-mejores-consolas-portatiles-android-1335642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/logitech-g-cloud-2819965.jpg?tf=1200x' alt='Estas son las mejores consolas portátiles con Android' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-cuenta-gmail-drive-docs-calendar-meet-google-photos-sera-eliminada-1336152'>Cómo saber si tu cuenta de Gmail, Drive, Docs, Calendar, Meet o Google Photos está en riesgo de ser eliminada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-cuenta-gmail-drive-docs-calendar-meet-google-photos-sera-eliminada-1336152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Cómo saber si tu cuenta de Gmail, Drive, Docs, Calendar, Meet o Google Photos está en riesgo de ser eliminada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-deja-ko-amazon-oferta-android-favoritos-desploma-precio-1335284'>AliExpress deja KO a Amazon con esta oferta: uno de nuestros Android favoritos desploma su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-deja-ko-amazon-oferta-android-favoritos-desploma-precio-1335284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nothing-phone-3187596.jpg?tf=1200x' alt='AliExpress deja KO a Amazon con esta oferta: uno de nuestros Android favoritos desploma su precio' />
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-centro-evento-ignite-2023-microsoft-novedades-esperar-1335966'>La inteligencia artificial y Copilot en el centro del evento Ignite de Microsoft: qué novedades esperar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-centro-evento-ignite-2023-microsoft-novedades-esperar-1335966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-evento-ia-3223344.jpg?tf=1200x' alt='La inteligencia artificial y Copilot en el centro del evento Ignite de Microsoft: qué novedades esperar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/christopher-nolan-asegura-debes-comprar-oppenheimer-blu-ray-antes-netflix-te-robe-1335968'>Christopher Nolan asegura que debes comprar Oppenheimer en Blu-ray antes de que Netflix te la robe</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/christopher-nolan-asegura-debes-comprar-oppenheimer-blu-ray-antes-netflix-te-robe-1335968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/christopher-nolan-oppenheimer-3223240.jpg?tf=1200x' alt='Christopher Nolan asegura que debes comprar Oppenheimer en Blu-ray antes de que Netflix te la robe' />
+    <h4><a href='https://computerhoy.com/life/dia-mundial-alcohol-5-senales-claras-identificar-tienes-problemas-bebida-1335448'>Día Mundial sin Alcohol: 5 señales claras para identificar si tienes problemas con la bebida</a></h4>
+    <a href='https://computerhoy.com/life/dia-mundial-alcohol-5-senales-claras-identificar-tienes-problemas-bebida-1335448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dia-mundial-alcohol-5-senales-claras-identificar-tienes-problemas-bebida-3222542.jpg?tf=1200x' alt='Día Mundial sin Alcohol: 5 señales claras para identificar si tienes problemas con la bebida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ai-pin-humane-fallo-2-respuestas-anuncio-presentacion-1335938'>El AI Pin de Humane falló 2 respuestas en su anuncio de presentación y trabajan en solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ai-pin-humane-fallo-2-respuestas-anuncio-presentacion-1335938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/humane-3191160.jpg?tf=1200x' alt='El AI Pin de Humane falló 2 respuestas en su anuncio de presentación y trabajan en solucionarlo' />
+    <h4><a href='https://computerhoy.com/ciencia/estamos-paso-cerca-comprender-origen-vida-tierra-1336136'>Estamos un paso más cerca de comprender el origen de la vida en la Tierra</a></h4>
+    <a href='https://computerhoy.com/ciencia/estamos-paso-cerca-comprender-origen-vida-tierra-1336136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/origen-vida-tierra-cerca-ser-comprendido-3223608.jpg?tf=1200x' alt='Estamos un paso más cerca de comprender el origen de la vida en la Tierra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/drive-dejara-guardar-gratis-copias-whatsapp-android-2024-1335926'>Drive dejará de guardar gratis tus copias de WhatsApp en Android en 2024</a></h4>
-    <a href='https://computerhoy.com/google/drive-dejara-guardar-gratis-copias-whatsapp-android-2024-1335926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/whatsapp-puedes-ocultar-contacto-bloquearlo-3215588.jpg?tf=1200x' alt='Drive dejará de guardar gratis tus copias de WhatsApp en Android en 2024' />
+    <h4><a href='https://computerhoy.com/life/florida-lluvia de-iguanas-congeladas-1336118'>En Florida están lloviendo iguanas congeladas, ¿qué ocurre?</a></h4>
+    <a href='https://computerhoy.com/life/florida-lluvia de-iguanas-congeladas-1336118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/florida-estan-lloviendo-iguanas-congeladas-ocurre-3223534.jpg?tf=1200x' alt='En Florida están lloviendo iguanas congeladas, ¿qué ocurre?' />
     </a>
 </div>
 
