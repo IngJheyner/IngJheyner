@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/misteriosas-esferas-metalicas-descubiertas-oceano-no-son-extraterrestres-son-algo-mucho-peor-1336220'>Las misteriosas esferas metálicas descubiertas en el océano no son extraterrestres, son algo mucho peor</a></h4>
-    <a href='https://computerhoy.com/espacio/misteriosas-esferas-metalicas-descubiertas-oceano-no-son-extraterrestres-son-algo-mucho-peor-1336220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/meteorito-3087238.jpg?tf=1200x' alt='Las misteriosas esferas metálicas descubiertas en el océano no son extraterrestres, son algo mucho peor' />
+    <h4><a href='https://computerhoy.com/tecnologia/generador-solar-pone-amazon-patas-arriba-top-ventas-te-permitira-ahorrar-electricidad-1335856'>Este generador solar pone Amazon patas arriba: es top ventas y te permitirá ahorrar electricidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/generador-solar-pone-amazon-patas-arriba-top-ventas-te-permitira-ahorrar-electricidad-1335856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/generador-ctechi-3223174.jpg?tf=1200x' alt='Este generador solar pone Amazon patas arriba: es top ventas y te permitirá ahorrar electricidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/programacion-tv-tdt-miercoles-15-noviembre-2023-1336218'>Programación TV: ¿Qué ver hoy en televisión? Miércoles 15 de noviembre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/programacion-tv-tdt-miercoles-15-noviembre-2023-1336218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programacion-tv-ver-hoy-television-miercoles-15-noviembre-2023-3223774.jpg?tf=1200x' alt='Programación TV: ¿Qué ver hoy en televisión? Miércoles 15 de noviembre de 2023' />
+    <h4><a href='https://computerhoy.com/motor/tesla-xiaomi-ya-oficial-fotos-detalles-fechas-1336200'>El Tesla de Xiaomi ya oficial: fotos, características, fecha de lanzamiento, autonomía, precio y más</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-xiaomi-ya-oficial-fotos-detalles-fechas-1336200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tesla-xiaomi-ya-oficial-fotos-caracteristicas-fecha-lanzamiento-autonomia-precio-3223728.jpg?tf=1200x' alt='El Tesla de Xiaomi ya oficial: fotos, características, fecha de lanzamiento, autonomía, precio y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/ip-logger-como-funciona-jamas-deberias-abrir-tipo-enlaces-1335648'>Qué es IP Logger, cómo funciona y por qué jamás deberías abrir este tipo de enlaces</a></h4>
-    <a href='https://computerhoy.com/tutoriales/ip-logger-como-funciona-jamas-deberias-abrir-tipo-enlaces-1335648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ip-logger-como-funciona-jamas-deberias-abrir-tipo-enlaces-3222974.jpg?tf=1200x' alt='Qué es IP Logger, cómo funciona y por qué jamás deberías abrir este tipo de enlaces' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-permite-piratear-juguetes-sexuales-1336186'>Flipper Zero, el Tamagotchi para hackers sin freno: ahora permite piratear juguetes sexuales</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-permite-piratear-juguetes-sexuales-1336186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/flipper-zero-tamagotchi-hackers-freno-ahora-permite-piratear-juguetes-sexuales-3223710.jpg?tf=1200x' alt='Flipper Zero, el Tamagotchi para hackers sin freno: ahora permite piratear juguetes sexuales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/paso-semana-movil-completamente-silencio-ha-cambiado-mi-vida-1335994'>Paso una semana con el móvil completamente en silencio, y así ha cambiado mi vida</a></h4>
-    <a href='https://computerhoy.com/moviles/paso-semana-movil-completamente-silencio-ha-cambiado-mi-vida-1335994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/silencio-movil-3223522.jpg?tf=1200x' alt='Paso una semana con el móvil completamente en silencio, y así ha cambiado mi vida' />
+    <h4><a href='https://computerhoy.com/ciencia/bueno-ducharse-todos-dias-dicen-expertos-harvard-1335510'>¿Es bueno ducharse todos los días? Esto dicen los expertos de Harvard</a></h4>
+    <a href='https://computerhoy.com/ciencia/bueno-ducharse-todos-dias-dicen-expertos-harvard-1335510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/bueno-ducharse-todos-dias-dicen-expertos-harvard-3222688.jpg?tf=1200x' alt='¿Es bueno ducharse todos los días? Esto dicen los expertos de Harvard' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/envia-adn-luna-formar-parte-zoologico-galactico-1336172'>Envía su ADN a la Luna por un motivo sorprendentemente absurdo: formar parte de un zoológico</a></h4>
-    <a href='https://computerhoy.com/life/envia-adn-luna-formar-parte-zoologico-galactico-1336172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/luna-tierra-3127498.jpg?tf=1200x' alt='Envía su ADN a la Luna por un motivo sorprendentemente absurdo: formar parte de un zoológico' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-alerta-ultima-estafa-viral-tarjeta-inhabilitada-1336224'>La Policía alerta de la última estafa viral: la tarjeta inhabilitada</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-alerta-ultima-estafa-viral-tarjeta-inhabilitada-1336224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/phishing-3210938.jpg?tf=1200x' alt='La Policía alerta de la última estafa viral: la tarjeta inhabilitada' />
     </a>
 </div>
 
