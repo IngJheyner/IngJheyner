@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/grafeno-oro-encuentran-nuevas-propiedades-mina-lapiz-1336798'>El grafeno de oro: encuentran nuevas propiedades en la mina de un lápiz</a></h4>
-    <a href='https://computerhoy.com/tecnologia/grafeno-oro-encuentran-nuevas-propiedades-mina-lapiz-1336798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grafeno-oro-encuentran-nuevas-propiedades-mina-lapiz-3224812.jpg?tf=1200x' alt='El grafeno de oro: encuentran nuevas propiedades en la mina de un lápiz' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-salva-invierno-hunde-precio-radiador-consumo-1336534'>Xiaomi salva el invierno: hunde el precio de su radiador de bajo consumo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-salva-invierno-hunde-precio-radiador-consumo-1336534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-smartmi-1s-3224336.jpg?tf=1200x' alt='Xiaomi salva el invierno: hunde el precio de su radiador de bajo consumo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-enviar-mensajes-telegram-anadir-contactos-1333128'>El truco para enviar mensajes en Telegram sin tener que añadir a los contactos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-enviar-mensajes-telegram-anadir-contactos-1333128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/truco-enviar-mensajes-telegram-tener-anadir-contactos-3218388.jpg?tf=1200x' alt='El truco para enviar mensajes en Telegram sin tener que añadir a los contactos' />
+    <h4><a href='https://computerhoy.com/tecnologia/vamping-afecta-uso-nocturno-movil-jovenes-1329556'>Vamping: así afecta el uso nocturno del móvil a los jóvenes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vamping-afecta-uso-nocturno-movil-jovenes-1329556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/vamping-afecta-uso-nocturno-movil-jovenes-3212182.jpg?tf=1200x' alt='Vamping: así afecta el uso nocturno del móvil a los jóvenes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/has-actualizado-windows-hace-poco-puedes-tener-problema-1336726'>Si has actualizado hace poco a Windows 10 o Windows 11 podrías sufrir este problema de desactivación </a></h4>
-    <a href='https://computerhoy.com/windows/has-actualizado-windows-hace-poco-puedes-tener-problema-1336726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/recuperar-archivos-corruptos-windows-11-3204098.jpg?tf=1200x' alt='Si has actualizado hace poco a Windows 10 o Windows 11 podrías sufrir este problema de desactivación ' />
+    <h4><a href='https://computerhoy.com/life/influencia-redes-sociales-criar-perros-no-respiran-bien-1336784'>La influencia de las redes sociales hace que se críen perros que no pueden respirar por motivos de moda</a></h4>
+    <a href='https://computerhoy.com/life/influencia-redes-sociales-criar-perros-no-respiran-bien-1336784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/influencia-redes-sociales-hace-crien-perros-no-pueden-respirar-mantener-estereotipo-3224798.jpg?tf=1200x' alt='La influencia de las redes sociales hace que se críen perros que no pueden respirar por motivos de moda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chollo-realme-hace-temblar-xiaomi-carga-ultrarrapida-precio-escandaloso-1335934'>Este chollo realme hace temblar a Xiaomi: carga ultrarrápida a precio escandaloso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chollo-realme-hace-temblar-xiaomi-carga-ultrarrapida-precio-escandaloso-1335934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/realme-c55-3223230.jpg?tf=1200x' alt='Este chollo realme hace temblar a Xiaomi: carga ultrarrápida a precio escandaloso' />
+    <h4><a href='https://computerhoy.com/tutoriales/conexion-wifi-segura-puntos-debiles-debes-revisar-1336144'>¿Es tu conexión WiFi segura? Puntos débiles que debes revisar y cómo solucionarlos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/conexion-wifi-segura-puntos-debiles-debes-revisar-1336144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/conexion-wifi-segura-puntos-debiles-debes-revisar-como-solucionarlos-3223712.jpg?tf=1200x' alt='¿Es tu conexión WiFi segura? Puntos débiles que debes revisar y cómo solucionarlos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cosas-debes-saber-raspberry-pi-5-no-quieres-tirar-dinero-1336122'>Cosas que debes saber de Raspberry Pi 5 si no quieres tirar tu dinero</a></h4>
-    <a href='https://computerhoy.com/pc/cosas-debes-saber-raspberry-pi-5-no-quieres-tirar-dinero-1336122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-cosas-debes-saber-raspberry-pi-5-no-quieres-tirar-dinero-3223628.jpg?tf=1200x' alt='Cosas que debes saber de Raspberry Pi 5 si no quieres tirar tu dinero' />
+    <h4><a href='https://computerhoy.com/google/graphcast-google-herramienta-inteligencia-artificial-meteorologia-1336760'>Google cumple su promesa y presenta GraphCast, la inteligencia artificial más precisa para la meteorología</a></h4>
+    <a href='https://computerhoy.com/google/graphcast-google-herramienta-inteligencia-artificial-meteorologia-1336760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-cumple-promesa-presenta-graphcast-herramienta-precisa-meteorologia-impulsada-ia-momento-3224774.jpg?tf=1200x' alt='Google cumple su promesa y presenta GraphCast, la inteligencia artificial más precisa para la meteorología' />
     </a>
 </div>
 
