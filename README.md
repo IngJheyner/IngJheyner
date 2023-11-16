@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cae-picado-precio-xiaomi-vendido-amazon-promete-agotarse-1335396'>Cae en picado el precio del Xiaomi más vendido en Amazon y promete agotarse</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cae-picado-precio-xiaomi-vendido-amazon-promete-agotarse-1335396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-note-12-pro-3196134.jpg?tf=1200x' alt='Cae en picado el precio del Xiaomi más vendido en Amazon y promete agotarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/defenestrada-verdura-alimentos-sanos-mundo-1335302'>Esta defenestrada verdura es uno de los alimentos más sanos del mundo, según los expertos, y jamás debería faltar en tu dieta</a></h4>
+    <a href='https://computerhoy.com/alimentacion/defenestrada-verdura-alimentos-sanos-mundo-1335302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/estos-son-alimentos-sanos-mundo-estudio-3222268.jpg?tf=1200x' alt='Esta defenestrada verdura es uno de los alimentos más sanos del mundo, según los expertos, y jamás debería faltar en tu dieta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mini-lavadora-plegable-puede-salvar-vacaciones-indispensable-viajas-caravana-1334958'>Esta mini lavadora plegable puede salvar tus vacaciones, y es un indispensable si viajas en caravana</a></h4>
+    <a href='https://computerhoy.com/life/mini-lavadora-plegable-puede-salvar-vacaciones-indispensable-viajas-caravana-1334958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tienes-autocaravana-siempre-te-falta-hueco-maleta-mini-lavadora-portatil-puede-ser-estas-buscando-3221758.jpg?tf=1200x' alt='Esta mini lavadora plegable puede salvar tus vacaciones, y es un indispensable si viajas en caravana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/inquietante-luz-router-wifi-vital-funcione-rapido-1336256'>La inquietante luz del router WiFi, vital para que funcione más rápido que todo el mundo ignora</a></h4>
     <a href='https://computerhoy.com/redes/inquietante-luz-router-wifi-vital-funcione-rapido-1336256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inquietante-luz-router-wifi-vital-funcione-rapido-todo-mundo-ignora-3223956.jpg?tf=1200x' alt='La inquietante luz del router WiFi, vital para que funcione más rápido que todo el mundo ignora' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/nasa-plus-5-contenidos-imprescindibles-espanol-1336254'>5 contenidos en español de la nueva plataforma gratuita NASA+, que no te puedes perder</a></h4>
     <a href='https://computerhoy.com/entretenimiento/nasa-plus-5-contenidos-imprescindibles-espanol-1336254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-contenidos-espanol-nueva-plataforma-gratuita-nasa-no-te-puedes-perder-3223896.jpg?tf=1200x' alt='5 contenidos en español de la nueva plataforma gratuita NASA+, que no te puedes perder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/generador-solar-pone-amazon-patas-arriba-top-ventas-te-permitira-ahorrar-electricidad-1335856'>Este generador solar pone Amazon patas arriba: es top ventas y te permitirá ahorrar electricidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/generador-solar-pone-amazon-patas-arriba-top-ventas-te-permitira-ahorrar-electricidad-1335856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/generador-ctechi-3223174.jpg?tf=1200x' alt='Este generador solar pone Amazon patas arriba: es top ventas y te permitirá ahorrar electricidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-xiaomi-ya-oficial-fotos-detalles-fechas-1336200'>El Tesla de Xiaomi ya oficial: fotos, características, fecha de lanzamiento, autonomía, precio y más</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-xiaomi-ya-oficial-fotos-detalles-fechas-1336200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tesla-xiaomi-ya-oficial-fotos-caracteristicas-fecha-lanzamiento-autonomia-precio-3223728.jpg?tf=1200x' alt='El Tesla de Xiaomi ya oficial: fotos, características, fecha de lanzamiento, autonomía, precio y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-permite-piratear-juguetes-sexuales-1336186'>Flipper Zero, el Tamagotchi para hackers sin freno: ahora permite piratear juguetes sexuales</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-permite-piratear-juguetes-sexuales-1336186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/flipper-zero-tamagotchi-hackers-freno-ahora-permite-piratear-juguetes-sexuales-3223710.jpg?tf=1200x' alt='Flipper Zero, el Tamagotchi para hackers sin freno: ahora permite piratear juguetes sexuales' />
     </a>
 </div>
 
