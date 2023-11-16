@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/impresion-3d-confirma-puente-anti-terremotos-leonardo-da-vinci-funciona-1336688'>La impresión 3D confirma que el puente anti-terremotos de Leonardo Da Vinci funciona</a></h4>
-    <a href='https://computerhoy.com/life/impresion-3d-confirma-puente-anti-terremotos-leonardo-da-vinci-funciona-1336688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/confirma-puente-da-vinci-era-viable-gracias-impresion-3d-3224614.jpg?tf=1200x' alt='La impresión 3D confirma que el puente anti-terremotos de Leonardo Da Vinci funciona' />
+    <h4><a href='https://computerhoy.com/tecnologia/grafeno-oro-encuentran-nuevas-propiedades-mina-lapiz-1336798'>El grafeno de oro: encuentran nuevas propiedades en la mina de un lápiz</a></h4>
+    <a href='https://computerhoy.com/tecnologia/grafeno-oro-encuentran-nuevas-propiedades-mina-lapiz-1336798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grafeno-oro-encuentran-nuevas-propiedades-mina-lapiz-3224812.jpg?tf=1200x' alt='El grafeno de oro: encuentran nuevas propiedades en la mina de un lápiz' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-whatsapp-texto-negrita-cursiva-tachado-monoespaciado-1336242'>Cómo poner en WhatsApp un texto en negrita, cursiva, tachado o monoespaciado</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-whatsapp-texto-negrita-cursiva-tachado-monoespaciado-1336242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-grupos-3197148.jpg?tf=1200x' alt='Cómo poner en WhatsApp un texto en negrita, cursiva, tachado o monoespaciado' />
+    <h4><a href='https://computerhoy.com/tutoriales/truco-enviar-mensajes-telegram-anadir-contactos-1333128'>El truco para enviar mensajes en Telegram sin tener que añadir a los contactos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-enviar-mensajes-telegram-anadir-contactos-1333128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/truco-enviar-mensajes-telegram-tener-anadir-contactos-3218388.jpg?tf=1200x' alt='El truco para enviar mensajes en Telegram sin tener que añadir a los contactos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes-sociales/200-frases-instagram-cortas-bio-ingles-motivadoras-amor-viajes-1218968'>Más de 300 frases para Instagram: cortas, perfil, en inglés, bonitas, motivadoras, de amor, viajes y más</a></h4>
-    <a href='https://computerhoy.com/redes-sociales/200-frases-instagram-cortas-bio-ingles-motivadoras-amor-viajes-1218968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/instagram-2992538.jpg?tf=1200x' alt='Más de 300 frases para Instagram: cortas, perfil, en inglés, bonitas, motivadoras, de amor, viajes y más' />
+    <h4><a href='https://computerhoy.com/windows/has-actualizado-windows-hace-poco-puedes-tener-problema-1336726'>Si has actualizado hace poco a Windows 10 o Windows 11 podrías sufrir este problema de desactivación </a></h4>
+    <a href='https://computerhoy.com/windows/has-actualizado-windows-hace-poco-puedes-tener-problema-1336726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/recuperar-archivos-corruptos-windows-11-3204098.jpg?tf=1200x' alt='Si has actualizado hace poco a Windows 10 o Windows 11 podrías sufrir este problema de desactivación ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/bard-google-ya-disponible-jovenes-funciones-especiales-1336598'>Bard de Google ya está disponible para menores de 18 años con funciones especiales para los jóvenes</a></h4>
-    <a href='https://computerhoy.com/google/bard-google-ya-disponible-jovenes-funciones-especiales-1336598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-bard-3224464.jpg?tf=1200x' alt='Bard de Google ya está disponible para menores de 18 años con funciones especiales para los jóvenes' />
+    <h4><a href='https://computerhoy.com/tecnologia/chollo-realme-hace-temblar-xiaomi-carga-ultrarrapida-precio-escandaloso-1335934'>Este chollo realme hace temblar a Xiaomi: carga ultrarrápida a precio escandaloso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chollo-realme-hace-temblar-xiaomi-carga-ultrarrapida-precio-escandaloso-1335934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/realme-c55-3223230.jpg?tf=1200x' alt='Este chollo realme hace temblar a Xiaomi: carga ultrarrápida a precio escandaloso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/xiaomi-smart-cooking-robot-llega-espana-mayor-rival-thermomix-1336036'>Xiaomi, a por Thermomix: su robot de cocina premium llega a España y es sorprendente</a></h4>
-    <a href='https://computerhoy.com/hogar/xiaomi-smart-cooking-robot-llega-espana-mayor-rival-thermomix-1336036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-cooking-robot-2837635.jpg?tf=1200x' alt='Xiaomi, a por Thermomix: su robot de cocina premium llega a España y es sorprendente' />
+    <h4><a href='https://computerhoy.com/pc/cosas-debes-saber-raspberry-pi-5-no-quieres-tirar-dinero-1336122'>Cosas que debes saber de Raspberry Pi 5 si no quieres tirar tu dinero</a></h4>
+    <a href='https://computerhoy.com/pc/cosas-debes-saber-raspberry-pi-5-no-quieres-tirar-dinero-1336122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-cosas-debes-saber-raspberry-pi-5-no-quieres-tirar-dinero-3223628.jpg?tf=1200x' alt='Cosas que debes saber de Raspberry Pi 5 si no quieres tirar tu dinero' />
     </a>
 </div>
 
