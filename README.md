@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/bard-google-ya-disponible-jovenes-funciones-especiales-1336598'>Bard de Google ya está disponible para menores de 18 años con funciones especiales para los jóvenes</a></h4>
+    <a href='https://computerhoy.com/google/bard-google-ya-disponible-jovenes-funciones-especiales-1336598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-bard-3224464.jpg?tf=1200x' alt='Bard de Google ya está disponible para menores de 18 años con funciones especiales para los jóvenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/xiaomi-smart-cooking-robot-llega-espana-mayor-rival-thermomix-1336036'>Xiaomi, a por Thermomix: su robot de cocina premium llega a España y es sorprendente</a></h4>
+    <a href='https://computerhoy.com/hogar/xiaomi-smart-cooking-robot-llega-espana-mayor-rival-thermomix-1336036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-cooking-robot-2837635.jpg?tf=1200x' alt='Xiaomi, a por Thermomix: su robot de cocina premium llega a España y es sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/carga-inalambrica-qi-v20-punto-llegar-iphone-15-pero-ventajas-tiene-1336552'>La carga inalámbrica Qi v2.0 a punto de llegar a los iPhone 15, pero ¿qué es y qué ventajas tiene?</a></h4>
+    <a href='https://computerhoy.com/moviles/carga-inalambrica-qi-v20-punto-llegar-iphone-15-pero-ventajas-tiene-1336552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/movil-carga-inalambrica-2929350.jpg?tf=1200x' alt='La carga inalámbrica Qi v2.0 a punto de llegar a los iPhone 15, pero ¿qué es y qué ventajas tiene?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/locura-precio-portatil-16gb-ram-windows-11-da-campanada-amazon-1336016'>Locura de precio: este portátil con 16GB de RAM y Windows 11 da la campanada en Amazon</a></h4>
     <a href='https://computerhoy.com/pc/locura-precio-portatil-16gb-ram-windows-11-da-campanada-amazon-1336016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/vivobook-16x-3223390.jpg?tf=1200x' alt='Locura de precio: este portátil con 16GB de RAM y Windows 11 da la campanada en Amazon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/como-sobrevivir-ictus-derrame-cerebral-cuando-no-hay-nadie-cerca-1330616'>Qué hacer para sobrevivir a un ictus o derrame cerebral si estás solo en casa</a></h4>
     <a href='https://computerhoy.com/life/como-sobrevivir-ictus-derrame-cerebral-cuando-no-hay-nadie-cerca-1330616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-sobrevivir-ictus-derrame-cerebral-cuando-no-hay-nadie-cerca-samu-3214124.jpg?tf=1200x' alt='Qué hacer para sobrevivir a un ictus o derrame cerebral si estás solo en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cargador-ultrarrapido-500-kw-coche-electrico-solo-aprovecha-modelo-concreto-1336506'>Este cargador ultrarrápido de 500 kW para coche eléctrico solo lo aprovecha un modelo en concreto</a></h4>
-    <a href='https://computerhoy.com/motor/cargador-ultrarrapido-500-kw-coche-electrico-solo-aprovecha-modelo-concreto-1336506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cargador-ultrarrapido-coche-electrico-3224334.jpg?tf=1200x' alt='Este cargador ultrarrápido de 500 kW para coche eléctrico solo lo aprovecha un modelo en concreto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/son-nuevas-llaves-seguridad-titan-google-listas-mundo-contrasenas-1336460'>Así son las nuevas llaves de seguridad Titan de Google, listas para un mundo sin contraseñas</a></h4>
-    <a href='https://computerhoy.com/google/son-nuevas-llaves-seguridad-titan-google-listas-mundo-contrasenas-1336460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/seguridad-google-titan-3224240.jpg?tf=1200x' alt='Así son las nuevas llaves de seguridad Titan de Google, listas para un mundo sin contraseñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/black-friday-1319726'>Black Friday 2023: qué es, fecha confirmada y tips para conseguir los mejores descuentos</a></h4>
-    <a href='https://computerhoy.com/patrocinado/black-friday-1319726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-3223172.jpg?tf=1200x' alt='Black Friday 2023: qué es, fecha confirmada y tips para conseguir los mejores descuentos' />
     </a>
 </div>
 
