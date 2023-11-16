@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/nasa-plus-5-contenidos-imprescindibles-espanol-1336254'>5 contenidos en español de la nueva plataforma gratuita NASA+, que no te puedes perder</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/nasa-plus-5-contenidos-imprescindibles-espanol-1336254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-contenidos-espanol-nueva-plataforma-gratuita-nasa-no-te-puedes-perder-3223896.jpg?tf=1200x' alt='5 contenidos en español de la nueva plataforma gratuita NASA+, que no te puedes perder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/generador-solar-pone-amazon-patas-arriba-top-ventas-te-permitira-ahorrar-electricidad-1335856'>Este generador solar pone Amazon patas arriba: es top ventas y te permitirá ahorrar electricidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/generador-solar-pone-amazon-patas-arriba-top-ventas-te-permitira-ahorrar-electricidad-1335856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/generador-ctechi-3223174.jpg?tf=1200x' alt='Este generador solar pone Amazon patas arriba: es top ventas y te permitirá ahorrar electricidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/bueno-ducharse-todos-dias-dicen-expertos-harvard-1335510'>¿Es bueno ducharse todos los días? Esto dicen los expertos de Harvard</a></h4>
     <a href='https://computerhoy.com/ciencia/bueno-ducharse-todos-dias-dicen-expertos-harvard-1335510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/bueno-ducharse-todos-dias-dicen-expertos-harvard-3222688.jpg?tf=1200x' alt='¿Es bueno ducharse todos los días? Esto dicen los expertos de Harvard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-alerta-ultima-estafa-viral-tarjeta-inhabilitada-1336224'>La Policía alerta de la última estafa viral: la tarjeta inhabilitada</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-alerta-ultima-estafa-viral-tarjeta-inhabilitada-1336224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/phishing-3210938.jpg?tf=1200x' alt='La Policía alerta de la última estafa viral: la tarjeta inhabilitada' />
     </a>
 </div>
 
