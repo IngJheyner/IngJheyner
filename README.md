@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cae-picado-precio-xiaomi-vendido-amazon-promete-agotarse-1335396'>Cae en picado el precio del Xiaomi más vendido en Amazon y promete agotarse</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cae-picado-precio-xiaomi-vendido-amazon-promete-agotarse-1335396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-note-12-pro-3196134.jpg?tf=1200x' alt='Cae en picado el precio del Xiaomi más vendido en Amazon y promete agotarse' />
+    <h4><a href='https://computerhoy.com/life/cerveza-estilo-cybertruck-elon-musk-fracasa-sabe-basura-caliente-1336456'>La nueva cerveza customizada al estilo Cybertruck de Elon Musk fracasa: sabe a "basura caliente"</a></h4>
+    <a href='https://computerhoy.com/life/cerveza-estilo-cybertruck-elon-musk-fracasa-sabe-basura-caliente-1336456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-tesla-cerveza-3224186.jpg?tf=1200x' alt='La nueva cerveza customizada al estilo Cybertruck de Elon Musk fracasa: sabe a "basura caliente"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/defenestrada-verdura-alimentos-sanos-mundo-1335302'>Esta defenestrada verdura es uno de los alimentos más sanos del mundo, según los expertos, y jamás debería faltar en tu dieta</a></h4>
-    <a href='https://computerhoy.com/alimentacion/defenestrada-verdura-alimentos-sanos-mundo-1335302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/estos-son-alimentos-sanos-mundo-estudio-3222268.jpg?tf=1200x' alt='Esta defenestrada verdura es uno de los alimentos más sanos del mundo, según los expertos, y jamás debería faltar en tu dieta' />
+    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-auriculares-xiaomi-baratos-llamativos-ahora-menos-20eu-1334662'>Liquidación en los auriculares Xiaomi más baratos y llamativos, ahora por menos de 20€</a></h4>
+    <a href='https://computerhoy.com/tecnologia/liquidacion-auriculares-xiaomi-baratos-llamativos-ahora-menos-20eu-1334662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-buds-4-lite-3062728.jpg?tf=1200x' alt='Liquidación en los auriculares Xiaomi más baratos y llamativos, ahora por menos de 20€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mini-lavadora-plegable-puede-salvar-vacaciones-indispensable-viajas-caravana-1334958'>Esta mini lavadora plegable puede salvar tus vacaciones, y es un indispensable si viajas en caravana</a></h4>
-    <a href='https://computerhoy.com/life/mini-lavadora-plegable-puede-salvar-vacaciones-indispensable-viajas-caravana-1334958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tienes-autocaravana-siempre-te-falta-hueco-maleta-mini-lavadora-portatil-puede-ser-estas-buscando-3221758.jpg?tf=1200x' alt='Esta mini lavadora plegable puede salvar tus vacaciones, y es un indispensable si viajas en caravana' />
+    <h4><a href='https://computerhoy.com/industria/historia-honor-tercer-aniversario-1333574'>Honor cumple 3 años independiente de Huawei: así ha sido su viaje y lo que se espera de su futuro</a></h4>
+    <a href='https://computerhoy.com/industria/historia-honor-tercer-aniversario-1333574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/huawei-honor-3220858.jpg?tf=1200x' alt='Honor cumple 3 años independiente de Huawei: así ha sido su viaje y lo que se espera de su futuro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/inquietante-luz-router-wifi-vital-funcione-rapido-1336256'>La inquietante luz del router WiFi, vital para que funcione más rápido que todo el mundo ignora</a></h4>
-    <a href='https://computerhoy.com/redes/inquietante-luz-router-wifi-vital-funcione-rapido-1336256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inquietante-luz-router-wifi-vital-funcione-rapido-todo-mundo-ignora-3223956.jpg?tf=1200x' alt='La inquietante luz del router WiFi, vital para que funcione más rápido que todo el mundo ignora' />
+    <h4><a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-dira-adios-llamadas-grupales-1336110'>La nueva función con la que WhatsApp dirá “adiós” a las llamadas grupales</a></h4>
+    <a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-dira-adios-llamadas-grupales-1336110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3043418.jpg?tf=1200x' alt='La nueva función con la que WhatsApp dirá “adiós” a las llamadas grupales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/nasa-plus-5-contenidos-imprescindibles-espanol-1336254'>5 contenidos en español de la nueva plataforma gratuita NASA+, que no te puedes perder</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/nasa-plus-5-contenidos-imprescindibles-espanol-1336254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-contenidos-espanol-nueva-plataforma-gratuita-nasa-no-te-puedes-perder-3223896.jpg?tf=1200x' alt='5 contenidos en español de la nueva plataforma gratuita NASA+, que no te puedes perder' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/peores-contrasenas-2023-1336420'>Las peores contraseñas de 2023 en España: tan ridículas como siempre</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/peores-contrasenas-2023-1336420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/peores-contrasenas-2023-espana-tan-ridiculas-como-siempre-3223954.jpg?tf=1200x' alt='Las peores contraseñas de 2023 en España: tan ridículas como siempre' />
     </a>
 </div>
 
