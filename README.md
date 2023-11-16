@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cerveza-estilo-cybertruck-elon-musk-fracasa-sabe-basura-caliente-1336456'>La nueva cerveza customizada al estilo Cybertruck de Elon Musk fracasa: sabe a "basura caliente"</a></h4>
-    <a href='https://computerhoy.com/life/cerveza-estilo-cybertruck-elon-musk-fracasa-sabe-basura-caliente-1336456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-tesla-cerveza-3224186.jpg?tf=1200x' alt='La nueva cerveza customizada al estilo Cybertruck de Elon Musk fracasa: sabe a "basura caliente"' />
+    <h4><a href='https://computerhoy.com/pc/locura-precio-portatil-16gb-ram-windows-11-da-campanada-amazon-1336016'>Locura de precio: este portátil con 16GB de RAM y Windows 11 da la campanada en Amazon</a></h4>
+    <a href='https://computerhoy.com/pc/locura-precio-portatil-16gb-ram-windows-11-da-campanada-amazon-1336016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/vivobook-16x-3223390.jpg?tf=1200x' alt='Locura de precio: este portátil con 16GB de RAM y Windows 11 da la campanada en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-auriculares-xiaomi-baratos-llamativos-ahora-menos-20eu-1334662'>Liquidación en los auriculares Xiaomi más baratos y llamativos, ahora por menos de 20€</a></h4>
-    <a href='https://computerhoy.com/tecnologia/liquidacion-auriculares-xiaomi-baratos-llamativos-ahora-menos-20eu-1334662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/xiaomi-redmi-buds-4-lite-3062728.jpg?tf=1200x' alt='Liquidación en los auriculares Xiaomi más baratos y llamativos, ahora por menos de 20€' />
+    <h4><a href='https://computerhoy.com/life/como-sobrevivir-ictus-derrame-cerebral-cuando-no-hay-nadie-cerca-1330616'>Qué hacer para sobrevivir a un ictus o derrame cerebral si estás solo en casa</a></h4>
+    <a href='https://computerhoy.com/life/como-sobrevivir-ictus-derrame-cerebral-cuando-no-hay-nadie-cerca-1330616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-sobrevivir-ictus-derrame-cerebral-cuando-no-hay-nadie-cerca-samu-3214124.jpg?tf=1200x' alt='Qué hacer para sobrevivir a un ictus o derrame cerebral si estás solo en casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/historia-honor-tercer-aniversario-1333574'>Honor cumple 3 años independiente de Huawei: así ha sido su viaje y lo que se espera de su futuro</a></h4>
-    <a href='https://computerhoy.com/industria/historia-honor-tercer-aniversario-1333574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/huawei-honor-3220858.jpg?tf=1200x' alt='Honor cumple 3 años independiente de Huawei: así ha sido su viaje y lo que se espera de su futuro' />
+    <h4><a href='https://computerhoy.com/motor/cargador-ultrarrapido-500-kw-coche-electrico-solo-aprovecha-modelo-concreto-1336506'>Este cargador ultrarrápido de 500 kW para coche eléctrico solo lo aprovecha un modelo en concreto</a></h4>
+    <a href='https://computerhoy.com/motor/cargador-ultrarrapido-500-kw-coche-electrico-solo-aprovecha-modelo-concreto-1336506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cargador-ultrarrapido-coche-electrico-3224334.jpg?tf=1200x' alt='Este cargador ultrarrápido de 500 kW para coche eléctrico solo lo aprovecha un modelo en concreto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-dira-adios-llamadas-grupales-1336110'>La nueva función con la que WhatsApp dirá “adiós” a las llamadas grupales</a></h4>
-    <a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-dira-adios-llamadas-grupales-1336110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/whatsapp-3043418.jpg?tf=1200x' alt='La nueva función con la que WhatsApp dirá “adiós” a las llamadas grupales' />
+    <h4><a href='https://computerhoy.com/google/son-nuevas-llaves-seguridad-titan-google-listas-mundo-contrasenas-1336460'>Así son las nuevas llaves de seguridad Titan de Google, listas para un mundo sin contraseñas</a></h4>
+    <a href='https://computerhoy.com/google/son-nuevas-llaves-seguridad-titan-google-listas-mundo-contrasenas-1336460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/seguridad-google-titan-3224240.jpg?tf=1200x' alt='Así son las nuevas llaves de seguridad Titan de Google, listas para un mundo sin contraseñas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/peores-contrasenas-2023-1336420'>Las peores contraseñas de 2023 en España: tan ridículas como siempre</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/peores-contrasenas-2023-1336420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/peores-contrasenas-2023-espana-tan-ridiculas-como-siempre-3223954.jpg?tf=1200x' alt='Las peores contraseñas de 2023 en España: tan ridículas como siempre' />
+    <h4><a href='https://computerhoy.com/patrocinado/black-friday-1319726'>Black Friday 2023: qué es, fecha confirmada y tips para conseguir los mejores descuentos</a></h4>
+    <a href='https://computerhoy.com/patrocinado/black-friday-1319726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-3223172.jpg?tf=1200x' alt='Black Friday 2023: qué es, fecha confirmada y tips para conseguir los mejores descuentos' />
     </a>
 </div>
 
