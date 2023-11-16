@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/inquietante-luz-router-wifi-vital-funcione-rapido-1336256'>La inquietante luz del router WiFi, vital para que funcione más rápido que todo el mundo ignora</a></h4>
+    <a href='https://computerhoy.com/redes/inquietante-luz-router-wifi-vital-funcione-rapido-1336256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inquietante-luz-router-wifi-vital-funcione-rapido-todo-mundo-ignora-3223956.jpg?tf=1200x' alt='La inquietante luz del router WiFi, vital para que funcione más rápido que todo el mundo ignora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/nasa-plus-5-contenidos-imprescindibles-espanol-1336254'>5 contenidos en español de la nueva plataforma gratuita NASA+, que no te puedes perder</a></h4>
     <a href='https://computerhoy.com/entretenimiento/nasa-plus-5-contenidos-imprescindibles-espanol-1336254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-contenidos-espanol-nueva-plataforma-gratuita-nasa-no-te-puedes-perder-3223896.jpg?tf=1200x' alt='5 contenidos en español de la nueva plataforma gratuita NASA+, que no te puedes perder' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-permite-piratear-juguetes-sexuales-1336186'>Flipper Zero, el Tamagotchi para hackers sin freno: ahora permite piratear juguetes sexuales</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/flipper-zero-permite-piratear-juguetes-sexuales-1336186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/flipper-zero-tamagotchi-hackers-freno-ahora-permite-piratear-juguetes-sexuales-3223710.jpg?tf=1200x' alt='Flipper Zero, el Tamagotchi para hackers sin freno: ahora permite piratear juguetes sexuales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/bueno-ducharse-todos-dias-dicen-expertos-harvard-1335510'>¿Es bueno ducharse todos los días? Esto dicen los expertos de Harvard</a></h4>
-    <a href='https://computerhoy.com/ciencia/bueno-ducharse-todos-dias-dicen-expertos-harvard-1335510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/bueno-ducharse-todos-dias-dicen-expertos-harvard-3222688.jpg?tf=1200x' alt='¿Es bueno ducharse todos los días? Esto dicen los expertos de Harvard' />
     </a>
 </div>
 
