@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-10t-oferta-amazon-black-friday-2023-1337096'>Carga de locos a 150W y pantalla 120 Hz: este OnePlus de 345 euros asalta el Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-10t-oferta-amazon-black-friday-2023-1337096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oneplus-10t-3225204.jpg?tf=1200x' alt='Carga de locos a 150W y pantalla 120 Hz: este OnePlus de 345 euros asalta el Black Friday' />
+    <h4><a href='https://computerhoy.com/tecnologia/secretos-hacen-starlink-opcion-internet-interferencias-1337326'>Los secretos tecnológicos que hacen de Starlink una opción de internet sin interferencias</a></h4>
+    <a href='https://computerhoy.com/tecnologia/secretos-hacen-starlink-opcion-internet-interferencias-1337326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/secretos-tecnologicos-hacen-starlink-opcion-internet-interferencias-3225718.jpg?tf=1200x' alt='Los secretos tecnológicos que hacen de Starlink una opción de internet sin interferencias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-permitira-desinstalar-edge-bing-windows-11-1337132'>Microsoft permitirá desinstalar Edge o Bing en Windows 11 para cumplir con la normativa europea</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-permitira-desinstalar-edge-bing-windows-11-1337132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/eliminar-microsoft-edge-2865345.jpg?tf=1200x' alt='Microsoft permitirá desinstalar Edge o Bing en Windows 11 para cumplir con la normativa europea' />
+    <h4><a href='https://computerhoy.com/tecnologia/claves-llegada-superinteligencia-artificial-1337328'>Las claves para enfrentarse a la revolución tecnológica con la llegada de la Superinteligencia Artificial </a></h4>
+    <a href='https://computerhoy.com/tecnologia/claves-llegada-superinteligencia-artificial-1337328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/claves-enfrentar-revolucion-tecnologica-llegada-superinteligencia-artificial-3225628.jpg?tf=1200x' alt='Las claves para enfrentarse a la revolución tecnológica con la llegada de la Superinteligencia Artificial ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/descubre-como-proteger-chats-archivos-whatsapp-antes-sea-demasiado-tarde-1337236'>Descubre cómo proteger tus chats y archivos de WhatsApp antes de que sea demasiado tarde</a></h4>
-    <a href='https://computerhoy.com/apps/descubre-como-proteger-chats-archivos-whatsapp-antes-sea-demasiado-tarde-1337236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/liberar-espacio-whatsapp-3209290.jpg?tf=1200x' alt='Descubre cómo proteger tus chats y archivos de WhatsApp antes de que sea demasiado tarde' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-conquista-gama-media-rebaja-deja-pixel-7-precio-nunca-visto-1336432'>Google conquista la gama media con esta rebaja: deja el Pixel 7 a precio nunca visto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-conquista-gama-media-rebaja-deja-pixel-7-precio-nunca-visto-1336432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029766.jpg?tf=1200x' alt='Google conquista la gama media con esta rebaja: deja el Pixel 7 a precio nunca visto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-eliminara-steps-recorder-windows-11-1337180'>Microsoft eliminará esta función de Windows 11 de la que seguramente no hayas oído ni hablar</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-eliminara-steps-recorder-windows-11-1337180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3088108.jpg?tf=1200x' alt='Microsoft eliminará esta función de Windows 11 de la que seguramente no hayas oído ni hablar' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-navidad-atraco-millonario-dc-1337254'>Qué películas ver este fin de semana en Netflix, Prime Video y HBO Max: Navidad, un atraco millonario y DC</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-navidad-atraco-millonario-dc-1337254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/peliculas-fin-semana-3225548.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y HBO Max: Navidad, un atraco millonario y DC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/amazon-aliexpress-mira-ftc-venta-dispositivos-virus-1337176'>Amazon y AliExpress en la mira de la FTC por la venta de dispositivos con virus</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/amazon-aliexpress-mira-ftc-venta-dispositivos-virus-1337176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-aliexpress-android-tv-3225370.jpg?tf=1200x' alt='Amazon y AliExpress en la mira de la FTC por la venta de dispositivos con virus' />
+    <h4><a href='https://computerhoy.com/google/ahora-google-fotos-te-permitira-ahorrar-espacio-movil-1337308'>La nueva función de Google Fotos que te permitirá ahorrar espacio de almacenamiento en tu móvil</a></h4>
+    <a href='https://computerhoy.com/google/ahora-google-fotos-te-permitira-ahorrar-espacio-movil-1337308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nueva-funcion-google-fotos-te-permitira-ahorrar-espacio-almacenamiento-movil-3225596.jpg?tf=1200x' alt='La nueva función de Google Fotos que te permitirá ahorrar espacio de almacenamiento en tu móvil' />
     </a>
 </div>
 
