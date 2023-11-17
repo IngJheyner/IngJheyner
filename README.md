@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/3-meses-gratis-apple-tv-6-meses-gratis-apple-music-ps5-1337448'>3 meses gratis de Apple TV+ y 6 meses gratis de Apple Music si tienes una PS5</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/3-meses-gratis-apple-tv-6-meses-gratis-apple-music-ps5-1337448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/meses-gratis-apple-tv-6-meses-gratis-apple-music-tienes-ps5-3225944.jpg?tf=1200x' alt='3 meses gratis de Apple TV+ y 6 meses gratis de Apple Music si tienes una PS5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-despedido-como-ceo-openai-1337444'>Sam Altman despedido fulminantemente como CEO de OpenAI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-despedido-como-ceo-openai-1337444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/san-altman-madrid-inteligencia-artificial-tan-peligrosa-como-armas-nucleares-3039550.jpg?tf=1200x' alt='Sam Altman despedido fulminantemente como CEO de OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-avanza-mision-internet-todo-mundo-satelites-1337368'>El primer paso de la misión espacial de Amazon para llevar Internet a sitios desfavorecidos es un éxito</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-avanza-mision-internet-todo-mundo-satelites-1337368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/primer-paso-mision-espacial-amazon-llevar-internet-sitios-desfavorecidos-exito-3225724.jpg?tf=1200x' alt='El primer paso de la misión espacial de Amazon para llevar Internet a sitios desfavorecidos es un éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/van-agotar-antes-black-friday-estas-ofertas-amazon-estan-volando-1336612'>Se van a agotar antes del Black Friday: estas ofertas de Amazon están volando</a></h4>
+    <a href='https://computerhoy.com/tecnologia/van-agotar-antes-black-friday-estas-ofertas-amazon-estan-volando-1336612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-black-friday-3224416.jpg?tf=1200x' alt='Se van a agotar antes del Black Friday: estas ofertas de Amazon están volando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/como-conectarte-cualquier-red-wifi-aunque-no-sepas-contrasena-1337354'>Cómo conectarte a cualquier red WiFi aunque no sepas la contraseña</a></h4>
     <a href='https://computerhoy.com/internet/como-conectarte-cualquier-red-wifi-aunque-no-sepas-contrasena-1337354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='Cómo conectarte a cualquier red WiFi aunque no sepas la contraseña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-divertido-spaguetti-western-alex-iglesia-1337416'>Qué película ver en la TDT hoy: la divertida comedia de Alex de la Iglesia que homenajea al spaguetti western rodado en Almería</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-divertido-spaguetti-western-alex-iglesia-1337416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/800-balas-2141959.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: la divertida comedia de Alex de la Iglesia que homenajea al spaguetti western rodado en Almería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/hombre-roba-33-iphone-comprar-coche-novia-1337322'>Este hombre roba 33 iPhone para comprar un coche a su novia</a></h4>
-    <a href='https://computerhoy.com/apple/hombre-roba-33-iphone-comprar-coche-novia-1337322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/varios-iphone-tienda-3225624.jpg?tf=1200x' alt='Este hombre roba 33 iPhone para comprar un coche a su novia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/6-sencillos-ajustes-haran-movil-android-luzca-como-nuevo-1337332'>6 sencillos ajustes que harán que tu viejo móvil Android funcione y luzca como nuevo</a></h4>
-    <a href='https://computerhoy.com/moviles/6-sencillos-ajustes-haran-movil-android-luzca-como-nuevo-1337332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/6-sencillos-ajustes-haran-viejo-movil-android-funcione-luzca-como-nuevo-3225636.jpg?tf=1200x' alt='6 sencillos ajustes que harán que tu viejo móvil Android funcione y luzca como nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/silent-walking-practica-budista-arrasa-tiktok-1337288'>Qué es el “Silent Walking”, la práctica budista que arrasa en TikTok</a></h4>
-    <a href='https://computerhoy.com/redes/silent-walking-practica-budista-arrasa-tiktok-1337288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/silent-walking-practica-budista-arrasa-tiktok-3225560.jpg?tf=1200x' alt='Qué es el “Silent Walking”, la práctica budista que arrasa en TikTok' />
     </a>
 </div>
 
