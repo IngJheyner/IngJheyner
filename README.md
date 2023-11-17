@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/secretos-hacen-starlink-opcion-internet-interferencias-1337326'>Los secretos tecnológicos que hacen de Starlink una opción de internet sin interferencias</a></h4>
-    <a href='https://computerhoy.com/tecnologia/secretos-hacen-starlink-opcion-internet-interferencias-1337326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/secretos-tecnologicos-hacen-starlink-opcion-internet-interferencias-3225718.jpg?tf=1200x' alt='Los secretos tecnológicos que hacen de Starlink una opción de internet sin interferencias' />
+    <h4><a href='https://computerhoy.com/internet/como-conectarte-cualquier-red-wifi-aunque-no-sepas-contrasena-1337354'>Cómo conectarte a cualquier red WiFi aunque no sepas la contraseña</a></h4>
+    <a href='https://computerhoy.com/internet/como-conectarte-cualquier-red-wifi-aunque-no-sepas-contrasena-1337354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='Cómo conectarte a cualquier red WiFi aunque no sepas la contraseña' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/claves-llegada-superinteligencia-artificial-1337328'>Las claves para enfrentarse a la revolución tecnológica con la llegada de la Superinteligencia Artificial </a></h4>
-    <a href='https://computerhoy.com/tecnologia/claves-llegada-superinteligencia-artificial-1337328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/claves-enfrentar-revolucion-tecnologica-llegada-superinteligencia-artificial-3225628.jpg?tf=1200x' alt='Las claves para enfrentarse a la revolución tecnológica con la llegada de la Superinteligencia Artificial ' />
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-divertido-spaguetti-western-alex-iglesia-1337416'>Qué película ver en la TDT hoy: la divertida comedia de Alex de la Iglesia que homenajea al spaguetti western rodado en Almería</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-divertido-spaguetti-western-alex-iglesia-1337416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/800-balas-2141959.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: la divertida comedia de Alex de la Iglesia que homenajea al spaguetti western rodado en Almería' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-conquista-gama-media-rebaja-deja-pixel-7-precio-nunca-visto-1336432'>Google conquista la gama media con esta rebaja: deja el Pixel 7 a precio nunca visto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-conquista-gama-media-rebaja-deja-pixel-7-precio-nunca-visto-1336432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029766.jpg?tf=1200x' alt='Google conquista la gama media con esta rebaja: deja el Pixel 7 a precio nunca visto' />
+    <h4><a href='https://computerhoy.com/apple/hombre-roba-33-iphone-comprar-coche-novia-1337322'>Este hombre roba 33 iPhone para comprar un coche a su novia</a></h4>
+    <a href='https://computerhoy.com/apple/hombre-roba-33-iphone-comprar-coche-novia-1337322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/varios-iphone-tienda-3225624.jpg?tf=1200x' alt='Este hombre roba 33 iPhone para comprar un coche a su novia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-navidad-atraco-millonario-dc-1337254'>Qué películas ver este fin de semana en Netflix, Prime Video y HBO Max: Navidad, un atraco millonario y DC</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-navidad-atraco-millonario-dc-1337254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/peliculas-fin-semana-3225548.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y HBO Max: Navidad, un atraco millonario y DC' />
+    <h4><a href='https://computerhoy.com/moviles/6-sencillos-ajustes-haran-movil-android-luzca-como-nuevo-1337332'>6 sencillos ajustes que harán que tu viejo móvil Android funcione y luzca como nuevo</a></h4>
+    <a href='https://computerhoy.com/moviles/6-sencillos-ajustes-haran-movil-android-luzca-como-nuevo-1337332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/6-sencillos-ajustes-haran-viejo-movil-android-funcione-luzca-como-nuevo-3225636.jpg?tf=1200x' alt='6 sencillos ajustes que harán que tu viejo móvil Android funcione y luzca como nuevo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ahora-google-fotos-te-permitira-ahorrar-espacio-movil-1337308'>La nueva función de Google Fotos que te permitirá ahorrar espacio de almacenamiento en tu móvil</a></h4>
-    <a href='https://computerhoy.com/google/ahora-google-fotos-te-permitira-ahorrar-espacio-movil-1337308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nueva-funcion-google-fotos-te-permitira-ahorrar-espacio-almacenamiento-movil-3225596.jpg?tf=1200x' alt='La nueva función de Google Fotos que te permitirá ahorrar espacio de almacenamiento en tu móvil' />
+    <h4><a href='https://computerhoy.com/redes/silent-walking-practica-budista-arrasa-tiktok-1337288'>Qué es el “Silent Walking”, la práctica budista que arrasa en TikTok</a></h4>
+    <a href='https://computerhoy.com/redes/silent-walking-practica-budista-arrasa-tiktok-1337288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/silent-walking-practica-budista-arrasa-tiktok-3225560.jpg?tf=1200x' alt='Qué es el “Silent Walking”, la práctica budista que arrasa en TikTok' />
     </a>
 </div>
 
