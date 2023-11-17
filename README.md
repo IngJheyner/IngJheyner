@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-adoptara-solucion-android-sobrecalentamiento-futuro-iphone-16-1337158'>Apple adoptará una solución de Android contra el sobrecalentamiento en el futuro iPhone 16</a></h4>
+    <a href='https://computerhoy.com/apple/apple-adoptara-solucion-android-sobrecalentamiento-futuro-iphone-16-1337158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Apple adoptará una solución de Android contra el sobrecalentamiento en el futuro iPhone 16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/empresa-desarrollara-embriones-humanos-espacio-5-anos-1337108'>Esta empresa desarrollará embriones de células madre humanas en el espacio en 5 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/empresa-desarrollara-embriones-humanos-espacio-5-anos-1337108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/spaceborn-united-bebes-humanos-nacidos-espacio-embriones-3225358.jpg?tf=1200x' alt='Esta empresa desarrollará embriones de células madre humanas en el espacio en 5 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-ahora-aplicacion-iphone-ipad-mac-pero-no-android-momento-1337140'>Windows ahora es una aplicación para iPhone, iPad, y Mac, pero no para Android por el momento</a></h4>
+    <a href='https://computerhoy.com/windows/windows-ahora-aplicacion-iphone-ipad-mac-pero-no-android-momento-1337140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/windows-app-3225306.jpg?tf=1200x' alt='Windows ahora es una aplicación para iPhone, iPad, y Mac, pero no para Android por el momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/apple-watch-ultra-te-pone-tiro-adelanta-black-friday-amazon-1336108'>El Apple Watch Ultra se te pone a tiro: se adelanta al Black Friday en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/apple-watch-ultra-te-pone-tiro-adelanta-black-friday-amazon-1336108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-watch-ultra-3223538.jpg?tf=1200x' alt='El Apple Watch Ultra se te pone a tiro: se adelanta al Black Friday en Amazon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/black-friday-amazon-mejores-ofertas-1335944'>Black Friday por sorpresa: Amazon ya tiene sus ofertas y estas son las mejores</a></h4>
     <a href='https://computerhoy.com/tecnologia/black-friday-amazon-mejores-ofertas-1335944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-amazon-3223272.jpg?tf=1200x' alt='Black Friday por sorpresa: Amazon ya tiene sus ofertas y estas son las mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/moviles-top-menos-300-euros-estas-son-gangas-black-friday-amazon-1336732'>Móviles top por menos de 300 euros: estas son las gangas del Black Friday de Amazon</a></h4>
-    <a href='https://computerhoy.com/android/moviles-top-menos-300-euros-estas-son-gangas-black-friday-amazon-1336732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/poco-x5-poco-x5-pro-2976562.jpg?tf=1200x' alt='Móviles top por menos de 300 euros: estas son las gangas del Black Friday de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-rinde-anuncia-llegada-iphone-soporte-mensajes-rcs-2024-pero-significa-1337072'>Apple se rinde y anuncia la llegada a iPhone del soporte para mensajes RCS en 2024, pero ¿qué significa esto?</a></h4>
-    <a href='https://computerhoy.com/apple/apple-rinde-anuncia-llegada-iphone-soporte-mensajes-rcs-2024-pero-significa-1337072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/texto-pantalla-bloqueo-iphone-3149718.jpg?tf=1200x' alt='Apple se rinde y anuncia la llegada a iPhone del soporte para mensajes RCS en 2024, pero ¿qué significa esto?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/altavoz-alexa-barato-toca-fondo-ahora-cuesta-menos-20-euros-1336090'>El altavoz con Alexa más barato toca fondo: ahora cuesta menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/altavoz-alexa-barato-toca-fondo-ahora-cuesta-menos-20-euros-1336090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-echo-pop-3038338.jpg?tf=1200x' alt='El altavoz con Alexa más barato toca fondo: ahora cuesta menos de 20 euros' />
     </a>
 </div>
 
