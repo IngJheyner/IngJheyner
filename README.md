@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/altavoz-alexa-barato-toca-fondo-ahora-cuesta-menos-20-euros-1336090'>El altavoz con Alexa más barato toca fondo: ahora cuesta menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/altavoz-alexa-barato-toca-fondo-ahora-cuesta-menos-20-euros-1336090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-echo-pop-3038338.jpg?tf=1200x' alt='El altavoz con Alexa más barato toca fondo: ahora cuesta menos de 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/qualcomm-snapdragon-7-gen-3-explosion-inteligencia-artificial-1337048'>El procesador Snapdragon 7 Gen 3 de Qualcomm es oficial, un nuevo empujón a la gama media con la IA como protagonista</a></h4>
+    <a href='https://computerhoy.com/moviles/qualcomm-snapdragon-7-gen-3-explosion-inteligencia-artificial-1337048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/procesador-snapdragon-7-gen-3-qualcomm-ya-oficial-nuevo-empujon-gama-media-ia-como-gran-protagonista-3224954.jpg?tf=1200x' alt='El procesador Snapdragon 7 Gen 3 de Qualcomm es oficial, un nuevo empujón a la gama media con la IA como protagonista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/motorola-edge-40-neo-opinion-analisis-caracteristicas-1331392'>Motorola edge 40 Neo: curvas con utilidad y diseño ligero y premium por menos de 400 euros</a></h4>
+    <a href='https://computerhoy.com/analisis/motorola-edge-40-neo-opinion-analisis-caracteristicas-1331392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/motorola-edge-40-neo-3224618.jpg?tf=1200x' alt='Motorola edge 40 Neo: curvas con utilidad y diseño ligero y premium por menos de 400 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/sientes-ansiedad-cuando-suena-telefono-podrias-sufrir-telenofobia-1335500'>¿Sientes ansiedad cuando suena el teléfono? Podrías sufrir telenofobia</a></h4>
+    <a href='https://computerhoy.com/life/sientes-ansiedad-cuando-suena-telefono-podrias-sufrir-telenofobia-1335500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sientes-ansiedad-cuando-suena-telefono-podrias-sufrir-telenofobia-3222654.jpg?tf=1200x' alt='¿Sientes ansiedad cuando suena el teléfono? Podrías sufrir telenofobia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-fire-tv-stick-antes-black-friday-1336066'>Amazon está liquidando sus Fire TV Stick antes del Black Friday</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-liquidando-fire-tv-stick-antes-black-friday-1336066' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-3223450.jpg?tf=1200x' alt='Amazon está liquidando sus Fire TV Stick antes del Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/tomas-cafe-ayunas-puede-reaccionar-cuerpo-estudio-1333596'>¿Tomas café en ayunas? Así puede reaccionar tu cuerpo, según un estudio</a></h4>
-    <a href='https://computerhoy.com/alimentacion/tomas-cafe-ayunas-puede-reaccionar-cuerpo-estudio-1333596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tomas-cafe-ayunas-puede-reaccionar-cuerpo-estudio-3219206.jpg?tf=1200x' alt='¿Tomas café en ayunas? Así puede reaccionar tu cuerpo, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/aviso-importante-usas-android-auto-no-instales-mejor-espera-1336854'>Aviso importante si usas Android Auto: no lo instales, mejor espera</a></h4>
-    <a href='https://computerhoy.com/android/aviso-importante-usas-android-auto-no-instales-mejor-espera-1336854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aviso-importante-usas-android-auto-no-instales-mejor-espera-3224952.jpg?tf=1200x' alt='Aviso importante si usas Android Auto: no lo instales, mejor espera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/amazon-comenzara-vender-coches-online-empezando-hyundai-1336856'>Amazon comenzará a vender coches online, empezando por Hyundai</a></h4>
-    <a href='https://computerhoy.com/motor/amazon-comenzara-vender-coches-online-empezando-hyundai-1336856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-comenzara-vender-coches-online-empezando-hyundai-3224938.jpg?tf=1200x' alt='Amazon comenzará a vender coches online, empezando por Hyundai' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hoy-dia-barato-comprar-kindle-tumban-precio-amazon-1336042'>Hoy es el día más barato para comprar un Kindle: tumban su precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hoy-dia-barato-comprar-kindle-tumban-precio-amazon-1336042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/kindle-2022-3223364.jpg?tf=1200x' alt='Hoy es el día más barato para comprar un Kindle: tumban su precio en Amazon' />
     </a>
 </div>
 
