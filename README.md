@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/aviso-importante-usas-android-auto-no-instales-mejor-espera-1336854'>Aviso importante si usas Android Auto: no lo instales, mejor espera</a></h4>
+    <a href='https://computerhoy.com/android/aviso-importante-usas-android-auto-no-instales-mejor-espera-1336854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aviso-importante-usas-android-auto-no-instales-mejor-espera-3224952.jpg?tf=1200x' alt='Aviso importante si usas Android Auto: no lo instales, mejor espera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/amazon-comenzara-vender-coches-online-empezando-hyundai-1336856'>Amazon comenzará a vender coches online, empezando por Hyundai</a></h4>
+    <a href='https://computerhoy.com/motor/amazon-comenzara-vender-coches-online-empezando-hyundai-1336856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-comenzara-vender-coches-online-empezando-hyundai-3224938.jpg?tf=1200x' alt='Amazon comenzará a vender coches online, empezando por Hyundai' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/hoy-dia-barato-comprar-kindle-tumban-precio-amazon-1336042'>Hoy es el día más barato para comprar un Kindle: tumban su precio en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/hoy-dia-barato-comprar-kindle-tumban-precio-amazon-1336042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/kindle-2022-3223364.jpg?tf=1200x' alt='Hoy es el día más barato para comprar un Kindle: tumban su precio en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/agoto-prime-day-ahora-barato-poco-x5-pro-quiere-repetir-exito-1336466'>Se agotó en el Prime Day y ahora es más barato: el POCO X5 Pro quiere repetir éxito</a></h4>
     <a href='https://computerhoy.com/tecnologia/agoto-prime-day-ahora-barato-poco-x5-pro-quiere-repetir-exito-1336466' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/poco-x5-pro-5g-3224168.jpg?tf=1200x' alt='Se agotó en el Prime Day y ahora es más barato: el POCO X5 Pro quiere repetir éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-cancela-sombra-hueso-otras-cuatro-series-1336852'>Nueva ronda de cancelaciones en Netflix: se carga Sombra y Hueso, y otras cuatro series más</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-cancela-sombra-hueso-otras-cuatro-series-1336852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/sombra-hueso-2308821.jpg?tf=1200x' alt='Nueva ronda de cancelaciones en Netflix: se carga Sombra y Hueso, y otras cuatro series más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-salva-invierno-hunde-precio-radiador-consumo-1336534'>Xiaomi salva el invierno: hunde el precio de su radiador de bajo consumo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-salva-invierno-hunde-precio-radiador-consumo-1336534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-smartmi-1s-3224336.jpg?tf=1200x' alt='Xiaomi salva el invierno: hunde el precio de su radiador de bajo consumo' />
     </a>
 </div>
 
