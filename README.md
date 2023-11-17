@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hoy-dia-barato-comprar-kindle-tumban-precio-amazon-1336042'>Hoy es el día más barato para comprar un Kindle: tumban su precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hoy-dia-barato-comprar-kindle-tumban-precio-amazon-1336042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/kindle-2022-3223364.jpg?tf=1200x' alt='Hoy es el día más barato para comprar un Kindle: tumban su precio en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/black-friday-amazon-mejores-ofertas-1335944'>Black Friday por sorpresa: Amazon ya tiene sus ofertas y estas son las mejores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/black-friday-amazon-mejores-ofertas-1335944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-amazon-3223272.jpg?tf=1200x' alt='Black Friday por sorpresa: Amazon ya tiene sus ofertas y estas son las mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/agoto-prime-day-ahora-barato-poco-x5-pro-quiere-repetir-exito-1336466'>Se agotó en el Prime Day y ahora es más barato: el POCO X5 Pro quiere repetir éxito</a></h4>
+    <a href='https://computerhoy.com/tecnologia/agoto-prime-day-ahora-barato-poco-x5-pro-quiere-repetir-exito-1336466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/poco-x5-pro-5g-3224168.jpg?tf=1200x' alt='Se agotó en el Prime Day y ahora es más barato: el POCO X5 Pro quiere repetir éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-cancela-sombra-hueso-otras-cuatro-series-1336852'>Nueva ronda de cancelaciones en Netflix: se carga Sombra y Hueso, y otras cuatro series más</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-cancela-sombra-hueso-otras-cuatro-series-1336852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/sombra-hueso-2308821.jpg?tf=1200x' alt='Nueva ronda de cancelaciones en Netflix: se carga Sombra y Hueso, y otras cuatro series más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-salva-invierno-hunde-precio-radiador-consumo-1336534'>Xiaomi salva el invierno: hunde el precio de su radiador de bajo consumo</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-salva-invierno-hunde-precio-radiador-consumo-1336534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-smartmi-1s-3224336.jpg?tf=1200x' alt='Xiaomi salva el invierno: hunde el precio de su radiador de bajo consumo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vamping-afecta-uso-nocturno-movil-jovenes-1329556'>Vamping: así afecta el uso nocturno del móvil a los jóvenes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vamping-afecta-uso-nocturno-movil-jovenes-1329556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/vamping-afecta-uso-nocturno-movil-jovenes-3212182.jpg?tf=1200x' alt='Vamping: así afecta el uso nocturno del móvil a los jóvenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/influencia-redes-sociales-criar-perros-no-respiran-bien-1336784'>La influencia de las redes sociales hace que se críen perros que no pueden respirar por motivos de moda</a></h4>
-    <a href='https://computerhoy.com/life/influencia-redes-sociales-criar-perros-no-respiran-bien-1336784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/influencia-redes-sociales-hace-crien-perros-no-pueden-respirar-mantener-estereotipo-3224798.jpg?tf=1200x' alt='La influencia de las redes sociales hace que se críen perros que no pueden respirar por motivos de moda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/conexion-wifi-segura-puntos-debiles-debes-revisar-1336144'>¿Es tu conexión WiFi segura? Puntos débiles que debes revisar y cómo solucionarlos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/conexion-wifi-segura-puntos-debiles-debes-revisar-1336144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/conexion-wifi-segura-puntos-debiles-debes-revisar-como-solucionarlos-3223712.jpg?tf=1200x' alt='¿Es tu conexión WiFi segura? Puntos débiles que debes revisar y cómo solucionarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/graphcast-google-herramienta-inteligencia-artificial-meteorologia-1336760'>Google cumple su promesa y presenta GraphCast, la inteligencia artificial más precisa para la meteorología</a></h4>
-    <a href='https://computerhoy.com/google/graphcast-google-herramienta-inteligencia-artificial-meteorologia-1336760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-cumple-promesa-presenta-graphcast-herramienta-precisa-meteorologia-impulsada-ia-momento-3224774.jpg?tf=1200x' alt='Google cumple su promesa y presenta GraphCast, la inteligencia artificial más precisa para la meteorología' />
     </a>
 </div>
 
