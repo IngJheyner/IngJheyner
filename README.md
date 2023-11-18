@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/agotando-ultimo-smartwatch-samsung-desploma-precio-arrasa-amazon-1337646'>Se está agotando: el último smartwatch de Samsung desploma su precio y arrasa en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/agotando-ultimo-smartwatch-samsung-desploma-precio-arrasa-amazon-1337646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/samsung-galaxy-watch6-3226248.jpg?tf=1200x' alt='Se está agotando: el último smartwatch de Samsung desploma su precio y arrasa en Amazon' />
+    <h4><a href='https://computerhoy.com/apps/herramienta-busqueda-empleo-x-antigua-twitter-ya-operativa-funciona-1337694'>La herramienta de búsqueda de empleo de X, la antigua Twitter, ya está operativa y así funciona</a></h4>
+    <a href='https://computerhoy.com/apps/herramienta-busqueda-empleo-x-antigua-twitter-ya-operativa-funciona-1337694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/twitter-x-3226424.jpg?tf=1200x' alt='La herramienta de búsqueda de empleo de X, la antigua Twitter, ya está operativa y así funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/tiktok-notifica-usuarios-cuando-haces-captura-pantalla-1334964'>¿TikTok notifica a los usuarios cuando haces una captura de pantalla?</a></h4>
-    <a href='https://computerhoy.com/redes/tiktok-notifica-usuarios-cuando-haces-captura-pantalla-1334964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tiktok-notifica-usuarios-cuando-haces-captura-pantalla-3221842.jpg?tf=1200x' alt='¿TikTok notifica a los usuarios cuando haces una captura de pantalla?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-muerte-traicion-casa-gucci-1337618'>Qué película ver en la TDT hoy: traiciones, lucha por el poder y asesinatos en una de las grandes familias de la moda italiana</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-muerte-traicion-casa-gucci-1337618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/casa-gucci-2541361.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: traiciones, lucha por el poder y asesinatos en una de las grandes familias de la moda italiana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-hace-inteligente-funcion-ahorro-memoria-chrome-1337674'>Google hace más inteligente la función de ahorro de memoria en Chrome</a></h4>
-    <a href='https://computerhoy.com/apps/google-hace-inteligente-funcion-ahorro-memoria-chrome-1337674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Google hace más inteligente la función de ahorro de memoria en Chrome' />
+    <h4><a href='https://computerhoy.com/gaming/amazon-liquidando-xbox-black-friday-promete-convertirlas-regalo-navidad-mucha-gente-1336556'>Amazon está liquidando las Xbox en el Black Friday y promete convertirlas en el regalo de Navidad de mucha gente</a></h4>
+    <a href='https://computerhoy.com/gaming/amazon-liquidando-xbox-black-friday-promete-convertirlas-regalo-navidad-mucha-gente-1336556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xbox-series-x-xbox-series-s-3224378.jpg?tf=1200x' alt='Amazon está liquidando las Xbox en el Black Friday y promete convertirlas en el regalo de Navidad de mucha gente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/capcut-sirve-trucos-mejor-app-edicion-video-movil-1328402'>Capcut: qué es, para qué sirve y trucos de la mejor app de edición de vídeo para el móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/capcut-sirve-trucos-mejor-app-edicion-video-movil-1328402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/catcut-3209908.jpg?tf=1200x' alt='Capcut: qué es, para qué sirve y trucos de la mejor app de edición de vídeo para el móvil' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-estas-solo-caida-masiva-redsys-provoca-problemas-pago-tarjeta-bizum-espana-1337698'>No estás solo, una caída masiva de Redsys provoca problemas en el pago con tarjeta y Bizum en España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-estas-solo-caida-masiva-redsys-provoca-problemas-pago-tarjeta-bizum-espana-1337698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pago-movil-3226428.jpg?tf=1200x' alt='No estás solo, una caída masiva de Redsys provoca problemas en el pago con tarjeta y Bizum en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-109-llega-version-estable-incluye-1337668'>Android Auto 10.9 llega a versión estable y esto es lo que incluye</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-109-llega-version-estable-incluye-1337668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-liberar-android-auto-desbloquear-funciones-ocultas-3148184.jpg?tf=1200x' alt='Android Auto 10.9 llega a versión estable y esto es lo que incluye' />
+    <h4><a href='https://computerhoy.com/apps/expertos-avisan-estos-mods-whatsapp-contienen-software-espia-debes-estar-alerta-1337684'>Expertos avisan de estos mods para WhatsApp que contienen software espía y debes estar alerta</a></h4>
+    <a href='https://computerhoy.com/apps/expertos-avisan-estos-mods-whatsapp-contienen-software-espia-debes-estar-alerta-1337684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mods-whatsapp_0.jpg?tf=1200x' alt='Expertos avisan de estos mods para WhatsApp que contienen software espía y debes estar alerta' />
     </a>
 </div>
 
