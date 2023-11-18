@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/camion-autonomo-einride-ya-tiene-trabajo-jornada-completa-1337612'>El camión autónomo Einride ya tiene trabajo a jornada completa</a></h4>
+    <a href='https://computerhoy.com/motor/camion-autonomo-einride-ya-tiene-trabajo-jornada-completa-1337612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/camion-autonomo-einride-ya-tiene-trabajo-jornada-completa-3226012.jpg?tf=1200x' alt='El camión autónomo Einride ya tiene trabajo a jornada completa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/3-meses-gratis-apple-tv-6-meses-gratis-apple-music-ps5-1337448'>3 meses gratis de Apple TV+ y 6 meses gratis de Apple Music si tienes una PS5</a></h4>
     <a href='https://computerhoy.com/entretenimiento/3-meses-gratis-apple-tv-6-meses-gratis-apple-music-ps5-1337448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/meses-gratis-apple-tv-6-meses-gratis-apple-music-tienes-ps5-3225944.jpg?tf=1200x' alt='3 meses gratis de Apple TV+ y 6 meses gratis de Apple Music si tienes una PS5' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/van-agotar-antes-black-friday-estas-ofertas-amazon-estan-volando-1336612'>Se van a agotar antes del Black Friday: estas ofertas de Amazon están volando</a></h4>
     <a href='https://computerhoy.com/tecnologia/van-agotar-antes-black-friday-estas-ofertas-amazon-estan-volando-1336612' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-black-friday-3224416.jpg?tf=1200x' alt='Se van a agotar antes del Black Friday: estas ofertas de Amazon están volando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-conectarte-cualquier-red-wifi-aunque-no-sepas-contrasena-1337354'>Cómo conectarte a cualquier red WiFi aunque no sepas la contraseña</a></h4>
-    <a href='https://computerhoy.com/internet/como-conectarte-cualquier-red-wifi-aunque-no-sepas-contrasena-1337354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='Cómo conectarte a cualquier red WiFi aunque no sepas la contraseña' />
     </a>
 </div>
 
