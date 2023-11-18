@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-hara-mucho-facil-encontrar-conexion-wifi-estas-buscando-1337722'>Windows 11 hará mucho más fácil encontrar la conexión WiFi que estás buscando</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-hara-mucho-facil-encontrar-conexion-wifi-estas-buscando-1337722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/windows-11-wifi-3226480.jpg?tf=1200x' alt='Windows 11 hará mucho más fácil encontrar la conexión WiFi que estás buscando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-prepara-chats-impulsados-inteligencia-artificial-vas-poder-acceder-ellos-1337716'>WhatsApp prepara chats impulsados por inteligencia artificial y así vas a poder acceder a ellos</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-prepara-chats-impulsados-inteligencia-artificial-vas-poder-acceder-ellos-1337716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatpsapp-chatbot-2653515.jpg?tf=1200x' alt='WhatsApp prepara chats impulsados por inteligencia artificial y así vas a poder acceder a ellos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/estos-son-anos-deberia-durarte-movil-ocu-1337692'>Estos son los años que debería durarte el móvil, según la OCU</a></h4>
+    <a href='https://computerhoy.com/moviles/estos-son-anos-deberia-durarte-movil-ocu-1337692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/telefonos-moviles-3226416.jpg?tf=1200x' alt='Estos son los años que debería durarte el móvil, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/herramienta-busqueda-empleo-x-antigua-twitter-ya-operativa-funciona-1337694'>La herramienta de búsqueda de empleo de X, la antigua Twitter, ya está operativa y así funciona</a></h4>
     <a href='https://computerhoy.com/apps/herramienta-busqueda-empleo-x-antigua-twitter-ya-operativa-funciona-1337694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/twitter-x-3226424.jpg?tf=1200x' alt='La herramienta de búsqueda de empleo de X, la antigua Twitter, ya está operativa y así funciona' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-muerte-traicion-casa-gucci-1337618'>Qué película ver en la TDT hoy: traiciones, lucha por el poder y asesinatos en una de las grandes familias de la moda italiana</a></h4>
     <a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-muerte-traicion-casa-gucci-1337618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/casa-gucci-2541361.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: traiciones, lucha por el poder y asesinatos en una de las grandes familias de la moda italiana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/amazon-liquidando-xbox-black-friday-promete-convertirlas-regalo-navidad-mucha-gente-1336556'>Amazon está liquidando las Xbox en el Black Friday y promete convertirlas en el regalo de Navidad de mucha gente</a></h4>
-    <a href='https://computerhoy.com/gaming/amazon-liquidando-xbox-black-friday-promete-convertirlas-regalo-navidad-mucha-gente-1336556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xbox-series-x-xbox-series-s-3224378.jpg?tf=1200x' alt='Amazon está liquidando las Xbox en el Black Friday y promete convertirlas en el regalo de Navidad de mucha gente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-estas-solo-caida-masiva-redsys-provoca-problemas-pago-tarjeta-bizum-espana-1337698'>No estás solo, una caída masiva de Redsys provoca problemas en el pago con tarjeta y Bizum en España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-estas-solo-caida-masiva-redsys-provoca-problemas-pago-tarjeta-bizum-espana-1337698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pago-movil-3226428.jpg?tf=1200x' alt='No estás solo, una caída masiva de Redsys provoca problemas en el pago con tarjeta y Bizum en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/expertos-avisan-estos-mods-whatsapp-contienen-software-espia-debes-estar-alerta-1337684'>Expertos avisan de estos mods para WhatsApp que contienen software espía y debes estar alerta</a></h4>
-    <a href='https://computerhoy.com/apps/expertos-avisan-estos-mods-whatsapp-contienen-software-espia-debes-estar-alerta-1337684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/mods-whatsapp_0.jpg?tf=1200x' alt='Expertos avisan de estos mods para WhatsApp que contienen software espía y debes estar alerta' />
     </a>
 </div>
 
