@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pessimists-archive-web-noticias-refleja-temores-sociedad-1331896'>Pessimists Archive, la web de noticias que refleja los temores de la sociedad y que resultaron falsos: ¿Ocurrirá lo mismo con la IA?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pessimists-archive-web-noticias-refleja-temores-sociedad-1331896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inteligencia-artificial-noticias-3220374.jpg?tf=1200x' alt='Pessimists Archive, la web de noticias que refleja los temores de la sociedad y que resultaron falsos: ¿Ocurrirá lo mismo con la IA?' />
+    <h4><a href='https://computerhoy.com/tecnologia/agotando-ultimo-smartwatch-samsung-desploma-precio-arrasa-amazon-1337646'>Se está agotando: el último smartwatch de Samsung desploma su precio y arrasa en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/agotando-ultimo-smartwatch-samsung-desploma-precio-arrasa-amazon-1337646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/samsung-galaxy-watch6-3226248.jpg?tf=1200x' alt='Se está agotando: el último smartwatch de Samsung desploma su precio y arrasa en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pantalla-2k-windows-11-precio-bomba-portatil-asalta-black-friday-menos-500eu-1337222'>Pantalla 2K y Windows 11 a precio bomba: este portátil asalta el Black Friday por menos de 500€</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pantalla-2k-windows-11-precio-bomba-portatil-asalta-black-friday-menos-500eu-1337222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/realme-book-prime-3045204.jpg?tf=1200x' alt='Pantalla 2K y Windows 11 a precio bomba: este portátil asalta el Black Friday por menos de 500€' />
+    <h4><a href='https://computerhoy.com/redes/tiktok-notifica-usuarios-cuando-haces-captura-pantalla-1334964'>¿TikTok notifica a los usuarios cuando haces una captura de pantalla?</a></h4>
+    <a href='https://computerhoy.com/redes/tiktok-notifica-usuarios-cuando-haces-captura-pantalla-1334964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tiktok-notifica-usuarios-cuando-haces-captura-pantalla-3221842.jpg?tf=1200x' alt='¿TikTok notifica a los usuarios cuando haces una captura de pantalla?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/cuanta-leche-saludable-beber-dia-dice-ciencia-1334912'>¿Cuánta leche es saludable beber al día? Esto dice la ciencia</a></h4>
-    <a href='https://computerhoy.com/alimentacion/cuanta-leche-saludable-beber-dia-dice-ciencia-1334912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cuanta-leche-saludable-beber-dia-dice-ciencia-3221610.jpg?tf=1200x' alt='¿Cuánta leche es saludable beber al día? Esto dice la ciencia' />
+    <h4><a href='https://computerhoy.com/apps/google-hace-inteligente-funcion-ahorro-memoria-chrome-1337674'>Google hace más inteligente la función de ahorro de memoria en Chrome</a></h4>
+    <a href='https://computerhoy.com/apps/google-hace-inteligente-funcion-ahorro-memoria-chrome-1337674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/google-chrome-2897360.jpg?tf=1200x' alt='Google hace más inteligente la función de ahorro de memoria en Chrome' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/optimiza-wifi-mejorar-senal-dispositivos-utilizas-1335528'>Cómo configurar tu router WiFi para aumentar la señal en los dispositivos que más lo necesitan</a></h4>
-    <a href='https://computerhoy.com/tutoriales/optimiza-wifi-mejorar-senal-dispositivos-utilizas-1335528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='Cómo configurar tu router WiFi para aumentar la señal en los dispositivos que más lo necesitan' />
+    <h4><a href='https://computerhoy.com/tutoriales/capcut-sirve-trucos-mejor-app-edicion-video-movil-1328402'>Capcut: qué es, para qué sirve y trucos de la mejor app de edición de vídeo para el móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/capcut-sirve-trucos-mejor-app-edicion-video-movil-1328402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/catcut-3209908.jpg?tf=1200x' alt='Capcut: qué es, para qué sirve y trucos de la mejor app de edición de vídeo para el móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trackers-smart-tags-no-te-pierdan-maleta-aeropuerto-mito-realidad-1334674'>Trackers o smart tags para que no te pierdan la maleta en el aeropuerto: ¿mito o realidad?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trackers-smart-tags-no-te-pierdan-maleta-aeropuerto-mito-realidad-1334674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/maletas-3221282.jpg?tf=1200x' alt='Trackers o smart tags para que no te pierdan la maleta en el aeropuerto: ¿mito o realidad?' />
+    <h4><a href='https://computerhoy.com/apps/android-auto-109-llega-version-estable-incluye-1337668'>Android Auto 10.9 llega a versión estable y esto es lo que incluye</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-109-llega-version-estable-incluye-1337668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-liberar-android-auto-desbloquear-funciones-ocultas-3148184.jpg?tf=1200x' alt='Android Auto 10.9 llega a versión estable y esto es lo que incluye' />
     </a>
 </div>
 
