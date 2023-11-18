@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/black-friday-amazon-pulsera-actividad-xiaomi-queda-solo-25-euros-1337150'>14 días de batería y pantalla top: esta pulsera de Xiaomi es desconocida pero lo tiene todo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/black-friday-amazon-pulsera-actividad-xiaomi-queda-solo-25-euros-1337150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-smart-band-2-analisis-opinion-2990216.jpg?tf=1200x' alt='14 días de batería y pantalla top: esta pulsera de Xiaomi es desconocida pero lo tiene todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/17-formas-rapidas-optimizar-acelerar-maximo-pc-windows-11-1334092'>17 formas rápidas de optimizar y acelerar al máximo tu PC con Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/17-formas-rapidas-optimizar-acelerar-maximo-pc-windows-11-1334092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/17-formas-rapidas-optimizar-acelerar-maximo-pc-windows-11-3220262.jpg?tf=1200x' alt='17 formas rápidas de optimizar y acelerar al máximo tu PC con Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/he-probado-1000-apps-largo-mi-carrera-vital-1333254'>He probado más de 1.000 apps a lo largo de mi carrera y esta es la única sin la que no puedo vivir</a></h4>
+    <a href='https://computerhoy.com/apps/he-probado-1000-apps-largo-mi-carrera-vital-1333254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/carlos-movil-3219710.jpg?tf=1200x' alt='He probado más de 1.000 apps a lo largo de mi carrera y esta es la única sin la que no puedo vivir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-48-nuevas-especies-aranas-venenosas-australia-1337382'>Descubren 48 nuevas especies de arañas venenosas en Australia, el país con más animales peligrosos</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-48-nuevas-especies-aranas-venenosas-australia-1337382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/descubren-48-nuevas-especies-arana-australia-pais-animales-venenosos-3225604.jpg?tf=1200x' alt='Descubren 48 nuevas especies de arañas venenosas en Australia, el país con más animales peligrosos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/smartwatch-android-hunde-precio-forma-radical-amazon-favoritos-1336496'>Este smartwatch Android hunde su precio de forma radical en Amazon, y es de nuestros favoritos</a></h4>
     <a href='https://computerhoy.com/tecnologia/smartwatch-android-hunde-precio-forma-radical-amazon-favoritos-1336496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ticwatch-pro-5-3224242.jpg?tf=1200x' alt='Este smartwatch Android hunde su precio de forma radical en Amazon, y es de nuestros favoritos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/salvo-bill-gates-apple-quiebra-abuchearon-ello-1335828'>¿Salvó Bill Gates a Apple de la quiebra? Sí, y le abuchearon por ello</a></h4>
-    <a href='https://computerhoy.com/life/salvo-bill-gates-apple-quiebra-abuchearon-ello-1335828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/salvo-bill-gates-apple-quiebra-abuchearon-ello-3223158.jpg?tf=1200x' alt='¿Salvó Bill Gates a Apple de la quiebra? Sí, y le abuchearon por ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/camion-autonomo-einride-ya-tiene-trabajo-jornada-completa-1337612'>El camión autónomo Einride ya tiene trabajo a jornada completa</a></h4>
-    <a href='https://computerhoy.com/motor/camion-autonomo-einride-ya-tiene-trabajo-jornada-completa-1337612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/camion-autonomo-einride-ya-tiene-trabajo-jornada-completa-3226012.jpg?tf=1200x' alt='El camión autónomo Einride ya tiene trabajo a jornada completa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/3-meses-gratis-apple-tv-6-meses-gratis-apple-music-ps5-1337448'>3 meses gratis de Apple TV+ y 6 meses gratis de Apple Music si tienes una PS5</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/3-meses-gratis-apple-tv-6-meses-gratis-apple-music-ps5-1337448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/meses-gratis-apple-tv-6-meses-gratis-apple-music-tienes-ps5-3225944.jpg?tf=1200x' alt='3 meses gratis de Apple TV+ y 6 meses gratis de Apple Music si tienes una PS5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-despedido-como-ceo-openai-1337444'>Sam Altman despedido fulminantemente como CEO de OpenAI</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-despedido-como-ceo-openai-1337444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/san-altman-madrid-inteligencia-artificial-tan-peligrosa-como-armas-nucleares-3039550.jpg?tf=1200x' alt='Sam Altman despedido fulminantemente como CEO de OpenAI' />
     </a>
 </div>
 
