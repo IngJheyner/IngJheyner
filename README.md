@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/black-friday-amazon-pulsera-actividad-xiaomi-queda-solo-25-euros-1337150'>14 días de batería y pantalla top: esta pulsera de Xiaomi es desconocida pero lo tiene todo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/black-friday-amazon-pulsera-actividad-xiaomi-queda-solo-25-euros-1337150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-smart-band-2-analisis-opinion-2990216.jpg?tf=1200x' alt='14 días de batería y pantalla top: esta pulsera de Xiaomi es desconocida pero lo tiene todo' />
+    <h4><a href='https://computerhoy.com/tecnologia/pessimists-archive-web-noticias-refleja-temores-sociedad-1331896'>Pessimists Archive, la web de noticias que refleja los temores de la sociedad y que resultaron falsos: ¿Ocurrirá lo mismo con la IA?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pessimists-archive-web-noticias-refleja-temores-sociedad-1331896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inteligencia-artificial-noticias-3220374.jpg?tf=1200x' alt='Pessimists Archive, la web de noticias que refleja los temores de la sociedad y que resultaron falsos: ¿Ocurrirá lo mismo con la IA?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/17-formas-rapidas-optimizar-acelerar-maximo-pc-windows-11-1334092'>17 formas rápidas de optimizar y acelerar al máximo tu PC con Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/17-formas-rapidas-optimizar-acelerar-maximo-pc-windows-11-1334092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/17-formas-rapidas-optimizar-acelerar-maximo-pc-windows-11-3220262.jpg?tf=1200x' alt='17 formas rápidas de optimizar y acelerar al máximo tu PC con Windows 11' />
+    <h4><a href='https://computerhoy.com/tecnologia/pantalla-2k-windows-11-precio-bomba-portatil-asalta-black-friday-menos-500eu-1337222'>Pantalla 2K y Windows 11 a precio bomba: este portátil asalta el Black Friday por menos de 500€</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pantalla-2k-windows-11-precio-bomba-portatil-asalta-black-friday-menos-500eu-1337222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/realme-book-prime-3045204.jpg?tf=1200x' alt='Pantalla 2K y Windows 11 a precio bomba: este portátil asalta el Black Friday por menos de 500€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-probado-1000-apps-largo-mi-carrera-vital-1333254'>He probado más de 1.000 apps a lo largo de mi carrera y esta es la única sin la que no puedo vivir</a></h4>
-    <a href='https://computerhoy.com/apps/he-probado-1000-apps-largo-mi-carrera-vital-1333254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/carlos-movil-3219710.jpg?tf=1200x' alt='He probado más de 1.000 apps a lo largo de mi carrera y esta es la única sin la que no puedo vivir' />
+    <h4><a href='https://computerhoy.com/alimentacion/cuanta-leche-saludable-beber-dia-dice-ciencia-1334912'>¿Cuánta leche es saludable beber al día? Esto dice la ciencia</a></h4>
+    <a href='https://computerhoy.com/alimentacion/cuanta-leche-saludable-beber-dia-dice-ciencia-1334912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cuanta-leche-saludable-beber-dia-dice-ciencia-3221610.jpg?tf=1200x' alt='¿Cuánta leche es saludable beber al día? Esto dice la ciencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-48-nuevas-especies-aranas-venenosas-australia-1337382'>Descubren 48 nuevas especies de arañas venenosas en Australia, el país con más animales peligrosos</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-48-nuevas-especies-aranas-venenosas-australia-1337382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/descubren-48-nuevas-especies-arana-australia-pais-animales-venenosos-3225604.jpg?tf=1200x' alt='Descubren 48 nuevas especies de arañas venenosas en Australia, el país con más animales peligrosos' />
+    <h4><a href='https://computerhoy.com/tutoriales/optimiza-wifi-mejorar-senal-dispositivos-utilizas-1335528'>Cómo configurar tu router WiFi para aumentar la señal en los dispositivos que más lo necesitan</a></h4>
+    <a href='https://computerhoy.com/tutoriales/optimiza-wifi-mejorar-senal-dispositivos-utilizas-1335528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='Cómo configurar tu router WiFi para aumentar la señal en los dispositivos que más lo necesitan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-android-hunde-precio-forma-radical-amazon-favoritos-1336496'>Este smartwatch Android hunde su precio de forma radical en Amazon, y es de nuestros favoritos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-android-hunde-precio-forma-radical-amazon-favoritos-1336496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ticwatch-pro-5-3224242.jpg?tf=1200x' alt='Este smartwatch Android hunde su precio de forma radical en Amazon, y es de nuestros favoritos' />
+    <h4><a href='https://computerhoy.com/tecnologia/trackers-smart-tags-no-te-pierdan-maleta-aeropuerto-mito-realidad-1334674'>Trackers o smart tags para que no te pierdan la maleta en el aeropuerto: ¿mito o realidad?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trackers-smart-tags-no-te-pierdan-maleta-aeropuerto-mito-realidad-1334674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/maletas-3221282.jpg?tf=1200x' alt='Trackers o smart tags para que no te pierdan la maleta en el aeropuerto: ¿mito o realidad?' />
     </a>
 </div>
 
