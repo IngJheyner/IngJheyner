@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-android-hunde-precio-forma-radical-amazon-favoritos-1336496'>Este smartwatch Android hunde su precio de forma radical en Amazon, y es de nuestros favoritos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-android-hunde-precio-forma-radical-amazon-favoritos-1336496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ticwatch-pro-5-3224242.jpg?tf=1200x' alt='Este smartwatch Android hunde su precio de forma radical en Amazon, y es de nuestros favoritos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/salvo-bill-gates-apple-quiebra-abuchearon-ello-1335828'>¿Salvó Bill Gates a Apple de la quiebra? Sí, y le abuchearon por ello</a></h4>
+    <a href='https://computerhoy.com/life/salvo-bill-gates-apple-quiebra-abuchearon-ello-1335828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/salvo-bill-gates-apple-quiebra-abuchearon-ello-3223158.jpg?tf=1200x' alt='¿Salvó Bill Gates a Apple de la quiebra? Sí, y le abuchearon por ello' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/camion-autonomo-einride-ya-tiene-trabajo-jornada-completa-1337612'>El camión autónomo Einride ya tiene trabajo a jornada completa</a></h4>
     <a href='https://computerhoy.com/motor/camion-autonomo-einride-ya-tiene-trabajo-jornada-completa-1337612' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/camion-autonomo-einride-ya-tiene-trabajo-jornada-completa-3226012.jpg?tf=1200x' alt='El camión autónomo Einride ya tiene trabajo a jornada completa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sam-altman-despedido-como-ceo-openai-1337444'>Sam Altman despedido fulminantemente como CEO de OpenAI</a></h4>
     <a href='https://computerhoy.com/tecnologia/sam-altman-despedido-como-ceo-openai-1337444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/san-altman-madrid-inteligencia-artificial-tan-peligrosa-como-armas-nucleares-3039550.jpg?tf=1200x' alt='Sam Altman despedido fulminantemente como CEO de OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-avanza-mision-internet-todo-mundo-satelites-1337368'>El primer paso de la misión espacial de Amazon para llevar Internet a sitios desfavorecidos es un éxito</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-avanza-mision-internet-todo-mundo-satelites-1337368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/primer-paso-mision-espacial-amazon-llevar-internet-sitios-desfavorecidos-exito-3225724.jpg?tf=1200x' alt='El primer paso de la misión espacial de Amazon para llevar Internet a sitios desfavorecidos es un éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/van-agotar-antes-black-friday-estas-ofertas-amazon-estan-volando-1336612'>Se van a agotar antes del Black Friday: estas ofertas de Amazon están volando</a></h4>
-    <a href='https://computerhoy.com/tecnologia/van-agotar-antes-black-friday-estas-ofertas-amazon-estan-volando-1336612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-black-friday-3224416.jpg?tf=1200x' alt='Se van a agotar antes del Black Friday: estas ofertas de Amazon están volando' />
     </a>
 </div>
 
