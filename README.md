@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/arrasa-ventas-pone-android-coche-41-euros-radio-2-din-tan-barata-parece-mentira-1337336'>Arrasa en ventas y pone Android en tu coche desde 41 euros: esta radio 2 DIN es tan barata que parece mentira</a></h4>
+    <a href='https://computerhoy.com/tecnologia/arrasa-ventas-pone-android-coche-41-euros-radio-2-din-tan-barata-parece-mentira-1337336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/podofo-radio-3225626.jpg?tf=1200x' alt='Arrasa en ventas y pone Android en tu coche desde 41 euros: esta radio 2 DIN es tan barata que parece mentira' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-hara-mucho-facil-encontrar-conexion-wifi-estas-buscando-1337722'>Windows 11 hará mucho más fácil encontrar la conexión WiFi que estás buscando</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-hara-mucho-facil-encontrar-conexion-wifi-estas-buscando-1337722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/windows-11-wifi-3226480.jpg?tf=1200x' alt='Windows 11 hará mucho más fácil encontrar la conexión WiFi que estás buscando' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/herramienta-busqueda-empleo-x-antigua-twitter-ya-operativa-funciona-1337694'>La herramienta de búsqueda de empleo de X, la antigua Twitter, ya está operativa y así funciona</a></h4>
     <a href='https://computerhoy.com/apps/herramienta-busqueda-empleo-x-antigua-twitter-ya-operativa-funciona-1337694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/twitter-x-3226424.jpg?tf=1200x' alt='La herramienta de búsqueda de empleo de X, la antigua Twitter, ya está operativa y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-muerte-traicion-casa-gucci-1337618'>Qué película ver en la TDT hoy: traiciones, lucha por el poder y asesinatos en una de las grandes familias de la moda italiana</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-muerte-traicion-casa-gucci-1337618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/casa-gucci-2541361.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: traiciones, lucha por el poder y asesinatos en una de las grandes familias de la moda italiana' />
     </a>
 </div>
 
