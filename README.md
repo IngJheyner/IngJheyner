@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-podria-volver-ceo-openai-1337996'>Sam Altman podría volver: todo lo que se sabe del despido del CEO de OpenAI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-podria-volver-ceo-openai-1337996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-respecto-2937980.jpg?tf=1200x' alt='Sam Altman podría volver: todo lo que se sabe del despido del CEO de OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-james-bond-javier-bardem-villano-1337726'>Qué película ver en la TDT hoy: uno de los mejores filmes de James Bond, con Javier Bardem haciendo de villano</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-james-bond-javier-bardem-villano-1337726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/skyfall-3226506.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: uno de los mejores filmes de James Bond, con Javier Bardem haciendo de villano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/300000-personas-avalan-bascula-inteligente-low-cost-rompe-registros-amazon-1336442'>300.000 personas la avalan: esta báscula inteligente low cost rompe registros en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/300000-personas-avalan-bascula-inteligente-low-cost-rompe-registros-amazon-1336442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/bascula-renpho-3224140.jpg?tf=1200x' alt='300.000 personas la avalan: esta báscula inteligente low cost rompe registros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-13t-protagoniza-ofertas-top-previa-black-friday-cae-499-euros-1337688'>El Xiaomi 13T protagoniza una de las ofertas top de la previa del Black Friday: cae a 499 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-13t-protagoniza-ofertas-top-previa-black-friday-cae-499-euros-1337688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-13t-3226412.jpg?tf=1200x' alt='El Xiaomi 13T protagoniza una de las ofertas top de la previa del Black Friday: cae a 499 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-store-estrena-caracteristica-estabas-esperando-instalacion-juegos-1337960'>La Microsoft Store estrena la característica que estabas esperando para la instalación de juegos</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-store-estrena-caracteristica-estabas-esperando-instalacion-juegos-1337960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-store-3226806.jpg?tf=1200x' alt='La Microsoft Store estrena la característica que estabas esperando para la instalación de juegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-gratis-como-usar-gpt-4-chatgpt-plus-pagar-euro-1335624'>ChatGPT gratis: como usar GPT-4 y ChatGPT Plus sin pagar un euro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-gratis-como-usar-gpt-4-chatgpt-plus-pagar-euro-1335624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-revela-claves-gratuitas-windows-pero-cuidado-porque-mala-idea-3062610.jpg?tf=1200x' alt='ChatGPT gratis: como usar GPT-4 y ChatGPT Plus sin pagar un euro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-quiere-compartas-notas-informativas-resultados-busqueda-1337958'>Google quiere que compartas notas informativas en los resultados de búsqueda</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-quiere-compartas-notas-informativas-resultados-busqueda-1337958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-quiere-compartas-notas-informativas-resultados-busqueda-3226802.jpg?tf=1200x' alt='Google quiere que compartas notas informativas en los resultados de búsqueda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/trabajan-nuevo-microsoft-planner-amparado-inteligencia-artificial-1337954'>Trabajan en un nuevo Microsoft Planner amparado en inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/apps/trabajan-nuevo-microsoft-planner-amparado-inteligencia-artificial-1337954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-planner-3226794.jpg?tf=1200x' alt='Trabajan en un nuevo Microsoft Planner amparado en inteligencia artificial' />
     </a>
 </div>
 
