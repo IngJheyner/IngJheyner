@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ipad-air-m1-sigue-siendo-autentico-pepino-tablet-ahora-100-euros-barato-1336128'>El iPad Air con M1 sigue siendo un auténtico pepino de tablet y ahora es 100 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ipad-air-m1-sigue-siendo-autentico-pepino-tablet-ahora-100-euros-barato-1336128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ipad-air-3223566.jpg?tf=1200x' alt='El iPad Air con M1 sigue siendo un auténtico pepino de tablet y ahora es 100 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/11-pruebas-increibles-viajes-tiempo-explicacion-1334612'>11 "pruebas" increíbles de los viajes en el tiempo: la explicación de por qué encontramos tantos ejemplos</a></h4>
+    <a href='https://computerhoy.com/life/11-pruebas-increibles-viajes-tiempo-explicacion-1334612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/6-pruebas-increibles-viajes-tiempo-explicacion-encontramos-tantas-3215316.jpg?tf=1200x' alt='11 "pruebas" increíbles de los viajes en el tiempo: la explicación de por qué encontramos tantos ejemplos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-apps-ver-series-gratis-movil-smart-tv-1335584'>Las mejores apps para ver series gratis en tu móvil o Smart TV</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-apps-ver-series-gratis-movil-smart-tv-1335584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mejores-apps-ver-series-gratis-movil-smart-tv-3222920.jpg?tf=1200x' alt='Las mejores apps para ver series gratis en tu móvil o Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/ataque-man-midde-tan-peligroso-como-puedes-protegerte-1321550'>¿Qué es el ataque 'Man in the Midde', por qué es tan peligroso y cómo puedes protegerte?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ataque-man-midde-tan-peligroso-como-puedes-protegerte-1321550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1700232346941-3225632.jpg?tf=1200x' alt='¿Qué es el ataque 'Man in the Midde', por qué es tan peligroso y cómo puedes protegerte?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/samsung-galaxy-a14-movil-android-asequible-perfecto-existe-cuesta-solo-159-eu-1337296'>Samsung va a por Xiaomi y revienta el precio de su móvil más barato por el Black Friday</a></h4>
     <a href='https://computerhoy.com/android/samsung-galaxy-a14-movil-android-asequible-perfecto-existe-cuesta-solo-159-eu-1337296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/samsung-galaxy-a14-3143326.jpg?tf=1200x' alt='Samsung va a por Xiaomi y revienta el precio de su móvil más barato por el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/debes-tener-cuenta-comprar-cable-usb-android-auto-1335830'>Todo lo que debes saber antes de comprar un cable USB para Android Auto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/debes-tener-cuenta-comprar-cable-usb-android-auto-1335830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/debes-tener-cuenta-hora-comprar-cable-usb-android-auto-3223162.jpg?tf=1200x' alt='Todo lo que debes saber antes de comprar un cable USB para Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/piensan-senales-trafico-impulsadas-ia-reducir-emisiones-contaminantes-coches-ciudad-1337720'>Piensan en señales de tráfico impulsadas por IA para reducir las emisiones contaminantes de los coches en una ciudad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/piensan-senales-trafico-impulsadas-ia-reducir-emisiones-contaminantes-coches-ciudad-1337720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/semaforo-inteligente-3226472.jpg?tf=1200x' alt='Piensan en señales de tráfico impulsadas por IA para reducir las emisiones contaminantes de los coches en una ciudad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/samsung-hw-q990b-atmos-5-caracteristicas-me-convencen-2-no-1321864'>5 características que me convencen de la barra de sonido Samsung HW-Q990B Dolby Atmos, y 2 que no, tras usarla un mes</a></h4>
-    <a href='https://computerhoy.com/audio/samsung-hw-q990b-atmos-5-caracteristicas-me-convencen-2-no-1321864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fondo-samsung-3219228.jpg?tf=1200x' alt='5 características que me convencen de la barra de sonido Samsung HW-Q990B Dolby Atmos, y 2 que no, tras usarla un mes' />
     </a>
 </div>
 
