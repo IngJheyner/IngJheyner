@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ipad-air-m1-sigue-siendo-autentico-pepino-tablet-ahora-100-euros-barato-1336128'>El iPad Air con M1 sigue siendo un auténtico pepino de tablet y ahora es 100 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ipad-air-m1-sigue-siendo-autentico-pepino-tablet-ahora-100-euros-barato-1336128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ipad-air-3223566.jpg?tf=1200x' alt='El iPad Air con M1 sigue siendo un auténtico pepino de tablet y ahora es 100 euros más barato' />
+    <h4><a href='https://computerhoy.com/apps/trabajan-nuevo-microsoft-planner-amparado-inteligencia-artificial-1337954'>Trabajan en un nuevo Microsoft Planner amparado en inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/apps/trabajan-nuevo-microsoft-planner-amparado-inteligencia-artificial-1337954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-planner-3226794.jpg?tf=1200x' alt='Trabajan en un nuevo Microsoft Planner amparado en inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/11-pruebas-increibles-viajes-tiempo-explicacion-1334612'>11 "pruebas" increíbles de los viajes en el tiempo: la explicación de por qué encontramos tantos ejemplos</a></h4>
-    <a href='https://computerhoy.com/life/11-pruebas-increibles-viajes-tiempo-explicacion-1334612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/6-pruebas-increibles-viajes-tiempo-explicacion-encontramos-tantas-3215316.jpg?tf=1200x' alt='11 "pruebas" increíbles de los viajes en el tiempo: la explicación de por qué encontramos tantos ejemplos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-alta-industria-1300752'>Cómo saber online si estoy dado de alta en Industria</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-alta-industria-1300752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/seguridad-social-3127308.jpg?tf=1200x' alt='Cómo saber online si estoy dado de alta en Industria' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-apps-ver-series-gratis-movil-smart-tv-1335584'>Las mejores apps para ver series gratis en tu móvil o Smart TV</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-apps-ver-series-gratis-movil-smart-tv-1335584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mejores-apps-ver-series-gratis-movil-smart-tv-3222920.jpg?tf=1200x' alt='Las mejores apps para ver series gratis en tu móvil o Smart TV' />
+    <h4><a href='https://computerhoy.com/apps/ahora-google-chrome-android-leera-noticias-ti-1337942'>Ahora Google Chrome en Android leerá las noticias por ti</a></h4>
+    <a href='https://computerhoy.com/apps/ahora-google-chrome-android-leera-noticias-ti-1337942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chrome-efecto-mica-3021520.jpg?tf=1200x' alt='Ahora Google Chrome en Android leerá las noticias por ti' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ataque-man-midde-tan-peligroso-como-puedes-protegerte-1321550'>¿Qué es el ataque 'Man in the Midde', por qué es tan peligroso y cómo puedes protegerte?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ataque-man-midde-tan-peligroso-como-puedes-protegerte-1321550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1700232346941-3225632.jpg?tf=1200x' alt='¿Qué es el ataque 'Man in the Midde', por qué es tan peligroso y cómo puedes protegerte?' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-pasa-black-friday-amazon-tv-4k-rompe-barrera-300-euros-1337352'>Xiaomi se pasa el Black Friday de Amazon: esta TV 4K rompe la barrera de los 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-pasa-black-friday-amazon-tv-4k-rompe-barrera-300-euros-1337352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-f2-43-3225644.jpg?tf=1200x' alt='Xiaomi se pasa el Black Friday de Amazon: esta TV 4K rompe la barrera de los 300 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/samsung-galaxy-a14-movil-android-asequible-perfecto-existe-cuesta-solo-159-eu-1337296'>Samsung va a por Xiaomi y revienta el precio de su móvil más barato por el Black Friday</a></h4>
-    <a href='https://computerhoy.com/android/samsung-galaxy-a14-movil-android-asequible-perfecto-existe-cuesta-solo-159-eu-1337296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/samsung-galaxy-a14-3143326.jpg?tf=1200x' alt='Samsung va a por Xiaomi y revienta el precio de su móvil más barato por el Black Friday' />
+    <h4><a href='https://computerhoy.com/life/listos-invierno-consejos-clave-ahorrar-calefaccion-no-vaciar-bolsillos-1331898'>¿Listos para el invierno?: consejos clave para ahorrar en calefacción y no vaciar tus bolsillos</a></h4>
+    <a href='https://computerhoy.com/life/listos-invierno-consejos-clave-ahorrar-calefaccion-no-vaciar-bolsillos-1331898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/calefaccion-ahorro-3223466.jpg?tf=1200x' alt='¿Listos para el invierno?: consejos clave para ahorrar en calefacción y no vaciar tus bolsillos' />
     </a>
 </div>
 
