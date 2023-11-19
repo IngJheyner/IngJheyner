@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-13t-protagoniza-ofertas-top-previa-black-friday-cae-499-euros-1337688'>El Xiaomi 13T protagoniza una de las ofertas top de la previa del Black Friday: cae a 499 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-13t-protagoniza-ofertas-top-previa-black-friday-cae-499-euros-1337688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-13t-3226412.jpg?tf=1200x' alt='El Xiaomi 13T protagoniza una de las ofertas top de la previa del Black Friday: cae a 499 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-store-estrena-caracteristica-estabas-esperando-instalacion-juegos-1337960'>La Microsoft Store estrena la característica que estabas esperando para la instalación de juegos</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-store-estrena-caracteristica-estabas-esperando-instalacion-juegos-1337960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-store-3226806.jpg?tf=1200x' alt='La Microsoft Store estrena la característica que estabas esperando para la instalación de juegos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/trabajan-nuevo-microsoft-planner-amparado-inteligencia-artificial-1337954'>Trabajan en un nuevo Microsoft Planner amparado en inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/apps/trabajan-nuevo-microsoft-planner-amparado-inteligencia-artificial-1337954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-planner-3226794.jpg?tf=1200x' alt='Trabajan en un nuevo Microsoft Planner amparado en inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-alta-industria-1300752'>Cómo saber online si estoy dado de alta en Industria</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-alta-industria-1300752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/seguridad-social-3127308.jpg?tf=1200x' alt='Cómo saber online si estoy dado de alta en Industria' />
     </a>
 </div>
 
