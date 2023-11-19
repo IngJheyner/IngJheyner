@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/arrasa-ventas-pone-android-coche-41-euros-radio-2-din-tan-barata-parece-mentira-1337336'>Arrasa en ventas y pone Android en tu coche desde 41 euros: esta radio 2 DIN es tan barata que parece mentira</a></h4>
-    <a href='https://computerhoy.com/tecnologia/arrasa-ventas-pone-android-coche-41-euros-radio-2-din-tan-barata-parece-mentira-1337336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/podofo-radio-3225626.jpg?tf=1200x' alt='Arrasa en ventas y pone Android en tu coche desde 41 euros: esta radio 2 DIN es tan barata que parece mentira' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ataque-man-midde-tan-peligroso-como-puedes-protegerte-1321550'>¿Qué es el ataque 'Man in the Midde', por qué es tan peligroso y cómo puedes protegerte?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ataque-man-midde-tan-peligroso-como-puedes-protegerte-1321550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1700232346941-3225632.jpg?tf=1200x' alt='¿Qué es el ataque 'Man in the Midde', por qué es tan peligroso y cómo puedes protegerte?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-hara-mucho-facil-encontrar-conexion-wifi-estas-buscando-1337722'>Windows 11 hará mucho más fácil encontrar la conexión WiFi que estás buscando</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-hara-mucho-facil-encontrar-conexion-wifi-estas-buscando-1337722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/windows-11-wifi-3226480.jpg?tf=1200x' alt='Windows 11 hará mucho más fácil encontrar la conexión WiFi que estás buscando' />
+    <h4><a href='https://computerhoy.com/android/samsung-galaxy-a14-movil-android-asequible-perfecto-existe-cuesta-solo-159-eu-1337296'>Samsung va a por Xiaomi y revienta el precio de su móvil más barato por el Black Friday</a></h4>
+    <a href='https://computerhoy.com/android/samsung-galaxy-a14-movil-android-asequible-perfecto-existe-cuesta-solo-159-eu-1337296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/samsung-galaxy-a14-3143326.jpg?tf=1200x' alt='Samsung va a por Xiaomi y revienta el precio de su móvil más barato por el Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-prepara-chats-impulsados-inteligencia-artificial-vas-poder-acceder-ellos-1337716'>WhatsApp prepara chats impulsados por inteligencia artificial y así vas a poder acceder a ellos</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-prepara-chats-impulsados-inteligencia-artificial-vas-poder-acceder-ellos-1337716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/whatpsapp-chatbot-2653515.jpg?tf=1200x' alt='WhatsApp prepara chats impulsados por inteligencia artificial y así vas a poder acceder a ellos' />
+    <h4><a href='https://computerhoy.com/tutoriales/debes-tener-cuenta-comprar-cable-usb-android-auto-1335830'>Todo lo que debes saber antes de comprar un cable USB para Android Auto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/debes-tener-cuenta-comprar-cable-usb-android-auto-1335830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/debes-tener-cuenta-hora-comprar-cable-usb-android-auto-3223162.jpg?tf=1200x' alt='Todo lo que debes saber antes de comprar un cable USB para Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/estos-son-anos-deberia-durarte-movil-ocu-1337692'>Estos son los años que debería durarte el móvil, según la OCU</a></h4>
-    <a href='https://computerhoy.com/moviles/estos-son-anos-deberia-durarte-movil-ocu-1337692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/telefonos-moviles-3226416.jpg?tf=1200x' alt='Estos son los años que debería durarte el móvil, según la OCU' />
+    <h4><a href='https://computerhoy.com/tecnologia/piensan-senales-trafico-impulsadas-ia-reducir-emisiones-contaminantes-coches-ciudad-1337720'>Piensan en señales de tráfico impulsadas por IA para reducir las emisiones contaminantes de los coches en una ciudad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/piensan-senales-trafico-impulsadas-ia-reducir-emisiones-contaminantes-coches-ciudad-1337720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/semaforo-inteligente-3226472.jpg?tf=1200x' alt='Piensan en señales de tráfico impulsadas por IA para reducir las emisiones contaminantes de los coches en una ciudad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/herramienta-busqueda-empleo-x-antigua-twitter-ya-operativa-funciona-1337694'>La herramienta de búsqueda de empleo de X, la antigua Twitter, ya está operativa y así funciona</a></h4>
-    <a href='https://computerhoy.com/apps/herramienta-busqueda-empleo-x-antigua-twitter-ya-operativa-funciona-1337694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/twitter-x-3226424.jpg?tf=1200x' alt='La herramienta de búsqueda de empleo de X, la antigua Twitter, ya está operativa y así funciona' />
+    <h4><a href='https://computerhoy.com/audio/samsung-hw-q990b-atmos-5-caracteristicas-me-convencen-2-no-1321864'>5 características que me convencen de la barra de sonido Samsung HW-Q990B Dolby Atmos, y 2 que no, tras usarla un mes</a></h4>
+    <a href='https://computerhoy.com/audio/samsung-hw-q990b-atmos-5-caracteristicas-me-convencen-2-no-1321864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fondo-samsung-3219228.jpg?tf=1200x' alt='5 características que me convencen de la barra de sonido Samsung HW-Q990B Dolby Atmos, y 2 que no, tras usarla un mes' />
     </a>
 </div>
 
