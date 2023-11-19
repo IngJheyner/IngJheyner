@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-ibm-disney-warner-retiran-publicidad-x-1338014'>Apple, IBM, Disney y otras compañías quitan su publicidad de X, tras los polémicos comentarios de Elon Musk</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-ibm-disney-warner-retiran-publicidad-x-1338014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-marte-colonizacion-spacex-3213542.jpg?tf=1200x' alt='Apple, IBM, Disney y otras compañías quitan su publicidad de X, tras los polémicos comentarios de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/half-life-cumple-25-anos-descargalo-gratis-nuevos-mapas-1338006'>Half-Life cumple 25 años, descárgalo gratis y juega a los nuevos mapas</a></h4>
+    <a href='https://computerhoy.com/gaming/half-life-cumple-25-anos-descargalo-gratis-nuevos-mapas-1338006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/half-life-cumple-25-anos-descargalo-gratis-juega-nuevos-mapas-3226992.jpg?tf=1200x' alt='Half-Life cumple 25 años, descárgalo gratis y juega a los nuevos mapas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/32gb-ram-potencia-locos-mini-pc-ryzen-9-revienta-black-friday-amazon-1336774'>32GB de RAM y potencia de locos: este Mini PC con Ryzen 9 revienta el Black Friday en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/32gb-ram-potencia-locos-mini-pc-ryzen-9-revienta-black-friday-amazon-1336774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/minis-forum-um690-3224552.jpg?tf=1200x' alt='32GB de RAM y potencia de locos: este Mini PC con Ryzen 9 revienta el Black Friday en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sam-altman-podria-volver-ceo-openai-1337996'>Sam Altman podría volver: todo lo que se sabe del despido del CEO de OpenAI</a></h4>
     <a href='https://computerhoy.com/tecnologia/sam-altman-podria-volver-ceo-openai-1337996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-respecto-2937980.jpg?tf=1200x' alt='Sam Altman podría volver: todo lo que se sabe del despido del CEO de OpenAI' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-james-bond-javier-bardem-villano-1337726'>Qué película ver en la TDT hoy: uno de los mejores filmes de James Bond, con Javier Bardem haciendo de villano</a></h4>
     <a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-james-bond-javier-bardem-villano-1337726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/skyfall-3226506.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: uno de los mejores filmes de James Bond, con Javier Bardem haciendo de villano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/300000-personas-avalan-bascula-inteligente-low-cost-rompe-registros-amazon-1336442'>300.000 personas la avalan: esta báscula inteligente low cost rompe registros en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/300000-personas-avalan-bascula-inteligente-low-cost-rompe-registros-amazon-1336442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/bascula-renpho-3224140.jpg?tf=1200x' alt='300.000 personas la avalan: esta báscula inteligente low cost rompe registros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-13t-protagoniza-ofertas-top-previa-black-friday-cae-499-euros-1337688'>El Xiaomi 13T protagoniza una de las ofertas top de la previa del Black Friday: cae a 499 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-13t-protagoniza-ofertas-top-previa-black-friday-cae-499-euros-1337688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-13t-3226412.jpg?tf=1200x' alt='El Xiaomi 13T protagoniza una de las ofertas top de la previa del Black Friday: cae a 499 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-store-estrena-caracteristica-estabas-esperando-instalacion-juegos-1337960'>La Microsoft Store estrena la característica que estabas esperando para la instalación de juegos</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-store-estrena-caracteristica-estabas-esperando-instalacion-juegos-1337960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-store-3226806.jpg?tf=1200x' alt='La Microsoft Store estrena la característica que estabas esperando para la instalación de juegos' />
     </a>
 </div>
 
