@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-store-estrena-caracteristica-estabas-esperando-instalacion-juegos-1337960'>La Microsoft Store estrena la característica que estabas esperando para la instalación de juegos</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-store-estrena-caracteristica-estabas-esperando-instalacion-juegos-1337960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-store-3226806.jpg?tf=1200x' alt='La Microsoft Store estrena la característica que estabas esperando para la instalación de juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-gratis-como-usar-gpt-4-chatgpt-plus-pagar-euro-1335624'>ChatGPT gratis: como usar GPT-4 y ChatGPT Plus sin pagar un euro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-gratis-como-usar-gpt-4-chatgpt-plus-pagar-euro-1335624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/chatgpt-revela-claves-gratuitas-windows-pero-cuidado-porque-mala-idea-3062610.jpg?tf=1200x' alt='ChatGPT gratis: como usar GPT-4 y ChatGPT Plus sin pagar un euro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-quiere-compartas-notas-informativas-resultados-busqueda-1337958'>Google quiere que compartas notas informativas en los resultados de búsqueda</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-quiere-compartas-notas-informativas-resultados-busqueda-1337958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-quiere-compartas-notas-informativas-resultados-busqueda-3226802.jpg?tf=1200x' alt='Google quiere que compartas notas informativas en los resultados de búsqueda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/trabajan-nuevo-microsoft-planner-amparado-inteligencia-artificial-1337954'>Trabajan en un nuevo Microsoft Planner amparado en inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/apps/trabajan-nuevo-microsoft-planner-amparado-inteligencia-artificial-1337954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-planner-3226794.jpg?tf=1200x' alt='Trabajan en un nuevo Microsoft Planner amparado en inteligencia artificial' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-alta-industria-1300752'>Cómo saber online si estoy dado de alta en Industria</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-online-estoy-dado-alta-industria-1300752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/seguridad-social-3127308.jpg?tf=1200x' alt='Cómo saber online si estoy dado de alta en Industria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ahora-google-chrome-android-leera-noticias-ti-1337942'>Ahora Google Chrome en Android leerá las noticias por ti</a></h4>
-    <a href='https://computerhoy.com/apps/ahora-google-chrome-android-leera-noticias-ti-1337942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chrome-efecto-mica-3021520.jpg?tf=1200x' alt='Ahora Google Chrome en Android leerá las noticias por ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-pasa-black-friday-amazon-tv-4k-rompe-barrera-300-euros-1337352'>Xiaomi se pasa el Black Friday de Amazon: esta TV 4K rompe la barrera de los 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-pasa-black-friday-amazon-tv-4k-rompe-barrera-300-euros-1337352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-f2-43-3225644.jpg?tf=1200x' alt='Xiaomi se pasa el Black Friday de Amazon: esta TV 4K rompe la barrera de los 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/listos-invierno-consejos-clave-ahorrar-calefaccion-no-vaciar-bolsillos-1331898'>¿Listos para el invierno?: consejos clave para ahorrar en calefacción y no vaciar tus bolsillos</a></h4>
-    <a href='https://computerhoy.com/life/listos-invierno-consejos-clave-ahorrar-calefaccion-no-vaciar-bolsillos-1331898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/calefaccion-ahorro-3223466.jpg?tf=1200x' alt='¿Listos para el invierno?: consejos clave para ahorrar en calefacción y no vaciar tus bolsillos' />
     </a>
 </div>
 
