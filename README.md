@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-ya-tiene-trabajo-microsoft-contrata-liderar-equipo-investigacion-ia-1337654'>Sam Altman ya tiene trabajo: Microsoft le contrata para liderar un equipo de investigación de IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-ya-tiene-trabajo-microsoft-contrata-liderar-equipo-investigacion-ia-1337654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-sam-altman-3227330.jpg?tf=1200x' alt='Sam Altman ya tiene trabajo: Microsoft le contrata para liderar un equipo de investigación de IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-aunque-parezca-tv-4k-50-cuesta-menos-300-euros-amazon-1338346'>No es un error de precio aunque lo parezca: esta TV 4K de 50" cuesta menos de 300 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-error-precio-aunque-parezca-tv-4k-50-cuesta-menos-300-euros-amazon-1338346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hisense-50a6k-3227418.jpg?tf=1200x' alt='No es un error de precio aunque lo parezca: esta TV 4K de 50" cuesta menos de 300 euros en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tres-paises-ley-ia-ue-hay-regular-aplicaciones-no-tecnologia-queremos-jugar-liga-importante-mundo-1338266'>Estos tres países proponen cambios en la Ley de IA de la Unión Europea y son considerados como "una declaración de guerra"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tres-paises-ley-ia-ue-hay-regular-aplicaciones-no-tecnologia-queremos-jugar-liga-importante-mundo-1338266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nueva-estricta-ley-inteligencia-artificial-europea-sigue-ver-luz-varios-anos-2959678.jpg?tf=1200x' alt='Estos tres países proponen cambios en la Ley de IA de la Unión Europea y son considerados como "una declaración de guerra"' />
+    <h4><a href='https://computerhoy.com/tecnologia/experto-realidad-virtual-cuenta-como-sera-sexo-10-anos-metaverso-tecnologia-haran-sea-real-1338322'>Experto en realidad virtual cuenta cómo será el sexo en 10 años: el metaverso y la tecnología harán que sea real</a></h4>
+    <a href='https://computerhoy.com/tecnologia/experto-realidad-virtual-cuenta-como-sera-sexo-10-anos-metaverso-tecnologia-haran-sea-real-1338322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sexo-realidad-virtual-3227378.jpg?tf=1200x' alt='Experto en realidad virtual cuenta cómo será el sexo en 10 años: el metaverso y la tecnología harán que sea real' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/animalada-precio-portatil-windows-11-ryzen-7-barato-piensas-1338248'>Animalada de precio: este portátil con Windows 11 y Ryzen 7 es más barato de lo que piensas</a></h4>
-    <a href='https://computerhoy.com/pc/animalada-precio-portatil-windows-11-ryzen-7-barato-piensas-1338248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-ideapad-gen-7-3227274.jpg?tf=1200x' alt='Animalada de precio: este portátil con Windows 11 y Ryzen 7 es más barato de lo que piensas' />
+    <h4><a href='https://computerhoy.com/moviles/poco-c65-precio-caracteristicas-disponibilidad-1334920'>POCO C65, el nuevo móvil que busca reventar el mercado gracias a un precio muy ajustado</a></h4>
+    <a href='https://computerhoy.com/moviles/poco-c65-precio-caracteristicas-disponibilidad-1334920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/poco-c65-precio-caracteristicas-disponibilidad-3221730.jpg?tf=1200x' alt='POCO C65, el nuevo móvil que busca reventar el mercado gracias a un precio muy ajustado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-no-vuelve-openai-sera-sustituido-ex-ceo-twitch-1338230'>Sam Altman no vuelve a OpenAI y será sustituido por el ex-CEO de Twitch</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-no-vuelve-openai-sera-sustituido-ex-ceo-twitch-1338230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-openai-3227242.jpg?tf=1200x' alt='Sam Altman no vuelve a OpenAI y será sustituido por el ex-CEO de Twitch' />
+    <h4><a href='https://computerhoy.com/tecnologia/puedes-crear-voces-videos-chatgpt-plus-1338310'>Así puedes crear voces en off para tus vídeos o pódcast con ChatGPT Plus en segundos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puedes-crear-voces-videos-chatgpt-plus-1338310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/voces-chatgpt-3227372.jpg?tf=1200x' alt='Así puedes crear voces en off para tus vídeos o pódcast con ChatGPT Plus en segundos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/productos-expertos-recomiendan-no-comprar-black-friday-1337452'>La lista de productos que los expertos recomiendan no comprar en este Black Friday</a></h4>
-    <a href='https://computerhoy.com/life/productos-expertos-recomiendan-no-comprar-black-friday-1337452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nos-manipulan-black-friday-comprar-no-necesitamos-2881911.jpg?tf=1200x' alt='La lista de productos que los expertos recomiendan no comprar en este Black Friday' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-vuelve-hacerlo-altavoz-inteligente-top-ventas-vendido-ya-black-friday-1338000'>Amazon vuelve a hacerlo: su altavoz inteligente top ventas es lo más vendido ya por el Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-vuelve-hacerlo-altavoz-inteligente-top-ventas-vendido-ya-black-friday-1338000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/echo-dot-4a-generacion-2378435.jpg?tf=1200x' alt='Amazon vuelve a hacerlo: su altavoz inteligente top ventas es lo más vendido ya por el Black Friday' />
     </a>
 </div>
 
