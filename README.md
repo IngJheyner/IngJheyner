@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/tono-llamada-nokia-obra-compositor-espanol-francisco-tarrega-1338024'>Poca gente sabe que el mítico tono de llamada de Nokia fue creado por un compositor español</a></h4>
+    <a href='https://computerhoy.com/moviles/tono-llamada-nokia-obra-compositor-espanol-francisco-tarrega-1338024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mitico-nokia-3310-vuelve-estar-moda-aunque-uso-muy-diferente-ilegal-3027794.jpg?tf=1200x' alt='Poca gente sabe que el mítico tono de llamada de Nokia fue creado por un compositor español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/handbrake-mejor-conversor-video-gratuito-codec-av1-1338022'>El mejor conversor de vídeo gratuito se actualiza acelerando el codec AV1, y otras novedades importantes</a></h4>
+    <a href='https://computerhoy.com/apps/handbrake-mejor-conversor-video-gratuito-codec-av1-1338022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mejor-conversor-video-gratuito-actualiza-acelerando-codec-av1-3227016.jpg?tf=1200x' alt='El mejor conversor de vídeo gratuito se actualiza acelerando el codec AV1, y otras novedades importantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/apple-ibm-disney-warner-retiran-publicidad-x-1338014'>Apple, IBM, Disney y otras compañías quitan su publicidad de X, tras los polémicos comentarios de Elon Musk</a></h4>
     <a href='https://computerhoy.com/tecnologia/apple-ibm-disney-warner-retiran-publicidad-x-1338014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-marte-colonizacion-spacex-3213542.jpg?tf=1200x' alt='Apple, IBM, Disney y otras compañías quitan su publicidad de X, tras los polémicos comentarios de Elon Musk' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/32gb-ram-potencia-locos-mini-pc-ryzen-9-revienta-black-friday-amazon-1336774'>32GB de RAM y potencia de locos: este Mini PC con Ryzen 9 revienta el Black Friday en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/32gb-ram-potencia-locos-mini-pc-ryzen-9-revienta-black-friday-amazon-1336774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/minis-forum-um690-3224552.jpg?tf=1200x' alt='32GB de RAM y potencia de locos: este Mini PC con Ryzen 9 revienta el Black Friday en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-podria-volver-ceo-openai-1337996'>Sam Altman podría volver: todo lo que se sabe del despido del CEO de OpenAI</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-podria-volver-ceo-openai-1337996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-respecto-2937980.jpg?tf=1200x' alt='Sam Altman podría volver: todo lo que se sabe del despido del CEO de OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-james-bond-javier-bardem-villano-1337726'>Qué película ver en la TDT hoy: uno de los mejores filmes de James Bond, con Javier Bardem haciendo de villano</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-james-bond-javier-bardem-villano-1337726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/skyfall-3226506.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: uno de los mejores filmes de James Bond, con Javier Bardem haciendo de villano' />
     </a>
 </div>
 
