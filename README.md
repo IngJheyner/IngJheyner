@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-thriller-basado-hechos-reales-1338600'>Qué película ver en la TDT hoy: un thriller basado en el atentado de la maratón de Boston de 2013</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-thriller-basado-hechos-reales-1338600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pelicula-ver-tdt-hoy-thriller-basado-ataque-terrorista-maraton-boston-2013-3227986.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: un thriller basado en el atentado de la maratón de Boston de 2013' />
+    <h4><a href='https://computerhoy.com/industria/primera-vez-xbox-supera-playstation-ingresos-videojuegos-1338610'>Por primera vez, Microsoft superará a Sony como la segunda compañía con más ingresos por videojuegos</a></h4>
+    <a href='https://computerhoy.com/industria/primera-vez-xbox-supera-playstation-ingresos-videojuegos-1338610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/primera-vez-microsoft-superara-sony-como-segunda-compania-ingresos-videojuegos-3228098.jpg?tf=1200x' alt='Por primera vez, Microsoft superará a Sony como la segunda compañía con más ingresos por videojuegos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/black-friday-poco-f5-pro-pepino-marca-12gb-ram-camara-top-solo-500-euros-1337230'>12GB de RAM y potencia brutal: el móvil más pepino de POCO, más barato que nunca en Amazon</a></h4>
-    <a href='https://computerhoy.com/android/black-friday-poco-f5-pro-pepino-marca-12gb-ram-camara-top-solo-500-euros-1337230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/poco-f5-pro-5g-3191322.jpg?tf=1200x' alt='12GB de RAM y potencia brutal: el móvil más pepino de POCO, más barato que nunca en Amazon' />
+    <h4><a href='https://computerhoy.com/apple/truco-ahorrar-bateria-iphone-luz-blanca-1338582'>Este truco viral hará que nunca vuelvas a quedarte sin batería en el iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/truco-ahorrar-bateria-iphone-luz-blanca-1338582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-conectado-usb-c-3143608.jpg?tf=1200x' alt='Este truco viral hará que nunca vuelvas a quedarte sin batería en el iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/montana-rusa-disney-world-te-ayuda-eliminar-piedras-rinon-1338488'>La montaña rusa de Disney World que te ayuda a eliminar las piedras en el riñón</a></h4>
-    <a href='https://computerhoy.com/life/montana-rusa-disney-world-te-ayuda-eliminar-piedras-rinon-1338488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/montana-rusa-elimina-piedras-rinon-3227974.jpg?tf=1200x' alt='La montaña rusa de Disney World que te ayuda a eliminar las piedras en el riñón' />
+    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-lia-deja-vpn-barata-nunca-65-descuento-black-friday-1338016'>NordVPN la lía y deja su VPN más barata que nunca: 65% de descuento por el Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nordvpn-lia-deja-vpn-barata-nunca-65-descuento-black-friday-1338016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nordvpn-3227002.jpg?tf=1200x' alt='NordVPN la lía y deja su VPN más barata que nunca: 65% de descuento por el Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/nuevos-colores-google-maps-no-gustan-usuarios-1338468'>El cambio de Google Maps que ha enfurecido a la mayoría de conductores</a></h4>
-    <a href='https://computerhoy.com/google/nuevos-colores-google-maps-no-gustan-usuarios-1338468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-maps-2880679.jpg?tf=1200x' alt='El cambio de Google Maps que ha enfurecido a la mayoría de conductores' />
+    <h4><a href='https://computerhoy.com/tecnologia/tiemble-garmin-reloj-deportivo-polar-mucho-barato-igual-completo-1336648'>Que tiemble Garmin: este reloj deportivo Polar es mucho más barato e igual de completo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiemble-garmin-reloj-deportivo-polar-mucho-barato-igual-completo-1336648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/polar-ignite-2-3224524.jpg?tf=1200x' alt='Que tiemble Garmin: este reloj deportivo Polar es mucho más barato e igual de completo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ultima-version-ios-17-tampoco-puede-frenar-flipper-zero-1338510'>Apple no se toma en serio a Flipper Zero y el "tamagotchi de los hackers" aún puede inutilizar un iPhone en la última versión de iOS 17</a></h4>
-    <a href='https://computerhoy.com/apple/ultima-version-ios-17-tampoco-puede-frenar-flipper-zero-1338510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-no-toma-serio-flipper-zero-tamagotchi-hackers-sigue-pudiendo-inutilizar-iphone-ultima-version-ios-17-3227948.jpg?tf=1200x' alt='Apple no se toma en serio a Flipper Zero y el "tamagotchi de los hackers" aún puede inutilizar un iPhone en la última versión de iOS 17' />
+    <h4><a href='https://computerhoy.com/tecnologia/crean-mano-tendones-corazon-valvulas-impreso-3d-1338560'>Crean una mano con tendones capaz de moverse y un corazón robótico con válvulas y sensores, mediante impresión 3D</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-mano-tendones-corazon-valvulas-impreso-3d-1338560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/crean-mano-tendones-capaz-moverse-corazon-robotico-valvulas-cavidades-sensores-mediante-impresion-3d-3228072.jpg?tf=1200x' alt='Crean una mano con tendones capaz de moverse y un corazón robótico con válvulas y sensores, mediante impresión 3D' />
     </a>
 </div>
 
