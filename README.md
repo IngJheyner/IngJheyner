@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/investigadores-descubren-nueva-capa-nucleo-tierra-ya-saben-como-ha-formado-1338382'>Investigadores descubren una nueva capa en el núcleo de la Tierra y ya saben cómo se ha formado</a></h4>
+    <a href='https://computerhoy.com/ciencia/investigadores-descubren-nueva-capa-nucleo-tierra-ya-saben-como-ha-formado-1338382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/interior-tierra-3227592.jpg?tf=1200x' alt='Investigadores descubren una nueva capa en el núcleo de la Tierra y ya saben cómo se ha formado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-aunque-parezca-tv-4k-50-cuesta-menos-300-euros-amazon-1338346'>No es un error de precio aunque lo parezca: esta TV 4K de 50" cuesta menos de 300 euros en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-error-precio-aunque-parezca-tv-4k-50-cuesta-menos-300-euros-amazon-1338346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hisense-50a6k-3227418.jpg?tf=1200x' alt='No es un error de precio aunque lo parezca: esta TV 4K de 50" cuesta menos de 300 euros en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/puedes-crear-voces-videos-chatgpt-plus-1338310'>Así puedes crear voces en off para tus vídeos o pódcast con ChatGPT Plus en segundos</a></h4>
     <a href='https://computerhoy.com/tecnologia/puedes-crear-voces-videos-chatgpt-plus-1338310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/voces-chatgpt-3227372.jpg?tf=1200x' alt='Así puedes crear voces en off para tus vídeos o pódcast con ChatGPT Plus en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-vuelve-hacerlo-altavoz-inteligente-top-ventas-vendido-ya-black-friday-1338000'>Amazon vuelve a hacerlo: su altavoz inteligente top ventas es lo más vendido ya por el Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-vuelve-hacerlo-altavoz-inteligente-top-ventas-vendido-ya-black-friday-1338000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/echo-dot-4a-generacion-2378435.jpg?tf=1200x' alt='Amazon vuelve a hacerlo: su altavoz inteligente top ventas es lo más vendido ya por el Black Friday' />
     </a>
 </div>
 
