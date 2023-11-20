@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/razon-nunca-debes-tatuarte-codigo-spotify-1337446'>La razón por la que nunca debes tatuarte un código de Spotify</a></h4>
+    <a href='https://computerhoy.com/internet/razon-nunca-debes-tatuarte-codigo-spotify-1337446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/razon-nunca-debes-tatuarte-codigo-spotify-3225994.jpg?tf=1200x' alt='La razón por la que nunca debes tatuarte un código de Spotify' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-oneplus-sorprende-black-friday-menos-300eu-no-tiene-rival-altura-1337372'>Este móvil OnePlus sorprende en el Black Friday: por menos de 300€ no tiene rival a su altura</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-oneplus-sorprende-black-friday-menos-300eu-no-tiene-rival-altura-1337372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-2273859.jpg?tf=1200x' alt='Este móvil OnePlus sorprende en el Black Friday: por menos de 300€ no tiene rival a su altura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/tono-llamada-nokia-obra-compositor-espanol-francisco-tarrega-1338024'>Poca gente sabe que el mítico tono de llamada de Nokia fue creado por un compositor español</a></h4>
     <a href='https://computerhoy.com/moviles/tono-llamada-nokia-obra-compositor-espanol-francisco-tarrega-1338024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mitico-nokia-3310-vuelve-estar-moda-aunque-uso-muy-diferente-ilegal-3027794.jpg?tf=1200x' alt='Poca gente sabe que el mítico tono de llamada de Nokia fue creado por un compositor español' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/apple-ibm-disney-warner-retiran-publicidad-x-1338014'>Apple, IBM, Disney y otras compañías quitan su publicidad de X, tras los polémicos comentarios de Elon Musk</a></h4>
     <a href='https://computerhoy.com/tecnologia/apple-ibm-disney-warner-retiran-publicidad-x-1338014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-marte-colonizacion-spacex-3213542.jpg?tf=1200x' alt='Apple, IBM, Disney y otras compañías quitan su publicidad de X, tras los polémicos comentarios de Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/half-life-cumple-25-anos-descargalo-gratis-nuevos-mapas-1338006'>Half-Life cumple 25 años, descárgalo gratis y juega a los nuevos mapas</a></h4>
-    <a href='https://computerhoy.com/gaming/half-life-cumple-25-anos-descargalo-gratis-nuevos-mapas-1338006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/half-life-cumple-25-anos-descargalo-gratis-juega-nuevos-mapas-3226992.jpg?tf=1200x' alt='Half-Life cumple 25 años, descárgalo gratis y juega a los nuevos mapas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/32gb-ram-potencia-locos-mini-pc-ryzen-9-revienta-black-friday-amazon-1336774'>32GB de RAM y potencia de locos: este Mini PC con Ryzen 9 revienta el Black Friday en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/32gb-ram-potencia-locos-mini-pc-ryzen-9-revienta-black-friday-amazon-1336774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/minis-forum-um690-3224552.jpg?tf=1200x' alt='32GB de RAM y potencia de locos: este Mini PC con Ryzen 9 revienta el Black Friday en Amazon' />
     </a>
 </div>
 
