@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ultima-version-ios-17-tampoco-puede-frenar-flipper-zero-1338510'>Apple no se toma en serio a Flipper Zero y el "tamagotchi de los hackers" aún puede inutilizar un iPhone en la última versión de iOS 17</a></h4>
+    <a href='https://computerhoy.com/apple/ultima-version-ios-17-tampoco-puede-frenar-flipper-zero-1338510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-no-toma-serio-flipper-zero-tamagotchi-hackers-sigue-pudiendo-inutilizar-iphone-ultima-version-ios-17-3227948.jpg?tf=1200x' alt='Apple no se toma en serio a Flipper Zero y el "tamagotchi de los hackers" aún puede inutilizar un iPhone en la última versión de iOS 17' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-liquidando-pixel-buds-black-friday-todos-colores-79-euros-1337438'>Google está liquidando sus Pixel Buds en el Black Friday en todos sus colores y desde 79 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-liquidando-pixel-buds-black-friday-todos-colores-79-euros-1337438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-pixel-buds-3225770.jpg?tf=1200x' alt='Google está liquidando sus Pixel Buds en el Black Friday en todos sus colores y desde 79 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/nuevos-colores-google-maps-no-gustan-usuarios-1338468'>Los usuarios piden a Google Maps que retroceda y vuelva a los colores de siempre: los nuevos no se ven bien</a></h4>
+    <a href='https://computerhoy.com/google/nuevos-colores-google-maps-no-gustan-usuarios-1338468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/usuarios-piden-google-maps-retroceda-vuelva-colores-siempre-no-ven-bien-3227888.jpg?tf=1200x' alt='Los usuarios piden a Google Maps que retroceda y vuelva a los colores de siempre: los nuevos no se ven bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dyson-tiene-rival-aspiradora-dreame-ultrapotente-precio-saldo-no-llega-200-euros-1338288'>Dyson tiene rival: esta aspiradora Dreame ultrapotente está a precio de saldo y no llega a 200 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/dyson-tiene-rival-aspiradora-dreame-ultrapotente-precio-saldo-no-llega-200-euros-1338288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aeg-qx7-1-i360-3227308.jpg?tf=1200x' alt='Dyson tiene rival: esta aspiradora Dreame ultrapotente está a precio de saldo y no llega a 200 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/bicicletas-railes-aprovechan-viejas-vias-tren-japon-1338204'>Bicicletas sobre raíles, lo último en Japón para aprovechar las viejas vías del ferrocarril</a></h4>
     <a href='https://computerhoy.com/life/bicicletas-railes-aprovechan-viejas-vias-tren-japon-1338204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/bicis-railes-ultimo-japon-aprovechar-viejas-vias-ferrocarril-3227214.jpg?tf=1200x' alt='Bicicletas sobre raíles, lo último en Japón para aprovechar las viejas vías del ferrocarril' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/investigadores-descubren-nueva-capa-nucleo-tierra-ya-saben-como-ha-formado-1338382'>Investigadores descubren una nueva capa en el núcleo de la Tierra y ya saben cómo se ha formado</a></h4>
-    <a href='https://computerhoy.com/ciencia/investigadores-descubren-nueva-capa-nucleo-tierra-ya-saben-como-ha-formado-1338382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/interior-tierra-3227592.jpg?tf=1200x' alt='Investigadores descubren una nueva capa en el núcleo de la Tierra y ya saben cómo se ha formado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-aunque-parezca-tv-4k-50-cuesta-menos-300-euros-amazon-1338346'>No es un error de precio aunque lo parezca: esta TV 4K de 50" cuesta menos de 300 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-error-precio-aunque-parezca-tv-4k-50-cuesta-menos-300-euros-amazon-1338346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hisense-50a6k-3227418.jpg?tf=1200x' alt='No es un error de precio aunque lo parezca: esta TV 4K de 50" cuesta menos de 300 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/experto-realidad-virtual-cuenta-como-sera-sexo-10-anos-metaverso-tecnologia-haran-sea-real-1338322'>Experto en realidad virtual cuenta cómo será el sexo en 10 años: el metaverso y la tecnología harán que sea real</a></h4>
-    <a href='https://computerhoy.com/tecnologia/experto-realidad-virtual-cuenta-como-sera-sexo-10-anos-metaverso-tecnologia-haran-sea-real-1338322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sexo-realidad-virtual-3227378.jpg?tf=1200x' alt='Experto en realidad virtual cuenta cómo será el sexo en 10 años: el metaverso y la tecnología harán que sea real' />
     </a>
 </div>
 
