@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dyson-tiene-rival-aspiradora-dreame-ultrapotente-precio-saldo-no-llega-200-euros-1338288'>Dyson tiene rival: esta aspiradora Dreame ultrapotente está a precio de saldo y no llega a 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dyson-tiene-rival-aspiradora-dreame-ultrapotente-precio-saldo-no-llega-200-euros-1338288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aeg-qx7-1-i360-3227308.jpg?tf=1200x' alt='Dyson tiene rival: esta aspiradora Dreame ultrapotente está a precio de saldo y no llega a 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/bicicletas-railes-aprovechan-viejas-vias-tren-japon-1338204'>Bicicletas sobre raíles, lo último en Japón para aprovechar las viejas vías del ferrocarril</a></h4>
+    <a href='https://computerhoy.com/life/bicicletas-railes-aprovechan-viejas-vias-tren-japon-1338204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/bicis-railes-ultimo-japon-aprovechar-viejas-vias-ferrocarril-3227214.jpg?tf=1200x' alt='Bicicletas sobre raíles, lo último en Japón para aprovechar las viejas vías del ferrocarril' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/investigadores-descubren-nueva-capa-nucleo-tierra-ya-saben-como-ha-formado-1338382'>Investigadores descubren una nueva capa en el núcleo de la Tierra y ya saben cómo se ha formado</a></h4>
     <a href='https://computerhoy.com/ciencia/investigadores-descubren-nueva-capa-nucleo-tierra-ya-saben-como-ha-formado-1338382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/interior-tierra-3227592.jpg?tf=1200x' alt='Investigadores descubren una nueva capa en el núcleo de la Tierra y ya saben cómo se ha formado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/experto-realidad-virtual-cuenta-como-sera-sexo-10-anos-metaverso-tecnologia-haran-sea-real-1338322'>Experto en realidad virtual cuenta cómo será el sexo en 10 años: el metaverso y la tecnología harán que sea real</a></h4>
     <a href='https://computerhoy.com/tecnologia/experto-realidad-virtual-cuenta-como-sera-sexo-10-anos-metaverso-tecnologia-haran-sea-real-1338322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sexo-realidad-virtual-3227378.jpg?tf=1200x' alt='Experto en realidad virtual cuenta cómo será el sexo en 10 años: el metaverso y la tecnología harán que sea real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/poco-c65-precio-caracteristicas-disponibilidad-1334920'>POCO C65, el nuevo móvil que busca reventar el mercado gracias a un precio muy ajustado</a></h4>
-    <a href='https://computerhoy.com/moviles/poco-c65-precio-caracteristicas-disponibilidad-1334920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/poco-c65-precio-caracteristicas-disponibilidad-3221730.jpg?tf=1200x' alt='POCO C65, el nuevo móvil que busca reventar el mercado gracias a un precio muy ajustado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puedes-crear-voces-videos-chatgpt-plus-1338310'>Así puedes crear voces en off para tus vídeos o pódcast con ChatGPT Plus en segundos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puedes-crear-voces-videos-chatgpt-plus-1338310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/voces-chatgpt-3227372.jpg?tf=1200x' alt='Así puedes crear voces en off para tus vídeos o pódcast con ChatGPT Plus en segundos' />
     </a>
 </div>
 
