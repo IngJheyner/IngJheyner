@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/nuevos-colores-google-maps-no-gustan-usuarios-1338468'>El cambio de Google Maps que ha enfurecido a la mayoría de conductores</a></h4>
+    <a href='https://computerhoy.com/google/nuevos-colores-google-maps-no-gustan-usuarios-1338468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/google-maps-2880679.jpg?tf=1200x' alt='El cambio de Google Maps que ha enfurecido a la mayoría de conductores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ultima-version-ios-17-tampoco-puede-frenar-flipper-zero-1338510'>Apple no se toma en serio a Flipper Zero y el "tamagotchi de los hackers" aún puede inutilizar un iPhone en la última versión de iOS 17</a></h4>
     <a href='https://computerhoy.com/apple/ultima-version-ios-17-tampoco-puede-frenar-flipper-zero-1338510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-no-toma-serio-flipper-zero-tamagotchi-hackers-sigue-pudiendo-inutilizar-iphone-ultima-version-ios-17-3227948.jpg?tf=1200x' alt='Apple no se toma en serio a Flipper Zero y el "tamagotchi de los hackers" aún puede inutilizar un iPhone en la última versión de iOS 17' />
@@ -61,14 +69,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-liquidando-pixel-buds-black-friday-todos-colores-79-euros-1337438'>Google está liquidando sus Pixel Buds en el Black Friday en todos sus colores y desde 79 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-liquidando-pixel-buds-black-friday-todos-colores-79-euros-1337438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-pixel-buds-3225770.jpg?tf=1200x' alt='Google está liquidando sus Pixel Buds en el Black Friday en todos sus colores y desde 79 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/nuevos-colores-google-maps-no-gustan-usuarios-1338468'>Los usuarios piden a Google Maps que retroceda y vuelva a los colores de siempre: los nuevos no se ven bien</a></h4>
-    <a href='https://computerhoy.com/google/nuevos-colores-google-maps-no-gustan-usuarios-1338468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/usuarios-piden-google-maps-retroceda-vuelva-colores-siempre-no-ven-bien-3227888.jpg?tf=1200x' alt='Los usuarios piden a Google Maps que retroceda y vuelva a los colores de siempre: los nuevos no se ven bien' />
     </a>
 </div>
 
