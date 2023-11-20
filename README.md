@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/razon-nunca-debes-tatuarte-codigo-spotify-1337446'>La razón por la que nunca debes tatuarte un código de Spotify</a></h4>
-    <a href='https://computerhoy.com/internet/razon-nunca-debes-tatuarte-codigo-spotify-1337446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/razon-nunca-debes-tatuarte-codigo-spotify-3225994.jpg?tf=1200x' alt='La razón por la que nunca debes tatuarte un código de Spotify' />
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-no-vuelve-openai-sera-sustituido-ex-ceo-twitch-1338230'>Sam Altman no vuelve a OpenAI y será sustituido por el ex-CEO de Twitch</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-no-vuelve-openai-sera-sustituido-ex-ceo-twitch-1338230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-openai-3227242.jpg?tf=1200x' alt='Sam Altman no vuelve a OpenAI y será sustituido por el ex-CEO de Twitch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-oneplus-sorprende-black-friday-menos-300eu-no-tiene-rival-altura-1337372'>Este móvil OnePlus sorprende en el Black Friday: por menos de 300€ no tiene rival a su altura</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-oneplus-sorprende-black-friday-menos-300eu-no-tiene-rival-altura-1337372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-2273859.jpg?tf=1200x' alt='Este móvil OnePlus sorprende en el Black Friday: por menos de 300€ no tiene rival a su altura' />
+    <h4><a href='https://computerhoy.com/life/productos-expertos-recomiendan-no-comprar-black-friday-1337452'>La lista de productos que los expertos recomiendan no comprar en este Black Friday</a></h4>
+    <a href='https://computerhoy.com/life/productos-expertos-recomiendan-no-comprar-black-friday-1337452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nos-manipulan-black-friday-comprar-no-necesitamos-2881911.jpg?tf=1200x' alt='La lista de productos que los expertos recomiendan no comprar en este Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tono-llamada-nokia-obra-compositor-espanol-francisco-tarrega-1338024'>Poca gente sabe que el mítico tono de llamada de Nokia fue creado por un compositor español</a></h4>
-    <a href='https://computerhoy.com/moviles/tono-llamada-nokia-obra-compositor-espanol-francisco-tarrega-1338024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mitico-nokia-3310-vuelve-estar-moda-aunque-uso-muy-diferente-ilegal-3027794.jpg?tf=1200x' alt='Poca gente sabe que el mítico tono de llamada de Nokia fue creado por un compositor español' />
+    <h4><a href='https://computerhoy.com/tecnologia/llega-chollo-garmin-buscado-black-friday-fenix-7-desploma-precio-calienta-previa-1338202'>Llega el chollo Garmin más buscado del Black Friday: el Fenix 7 desploma su precio y calienta la previa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/llega-chollo-garmin-buscado-black-friday-fenix-7-desploma-precio-calienta-previa-1338202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7-3227222.jpg?tf=1200x' alt='Llega el chollo Garmin más buscado del Black Friday: el Fenix 7 desploma su precio y calienta la previa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/handbrake-mejor-conversor-video-gratuito-codec-av1-1338022'>El mejor conversor de vídeo gratuito se actualiza acelerando el codec AV1, y otras novedades importantes</a></h4>
-    <a href='https://computerhoy.com/apps/handbrake-mejor-conversor-video-gratuito-codec-av1-1338022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mejor-conversor-video-gratuito-actualiza-acelerando-codec-av1-3227016.jpg?tf=1200x' alt='El mejor conversor de vídeo gratuito se actualiza acelerando el codec AV1, y otras novedades importantes' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-lia-calienta-black-friday-rebaja-ultima-tablet-120-euros-barata-1336826'>Samsung la lía y calienta el Black Friday: rebaja su última tablet y es 120 euros más barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-lia-calienta-black-friday-rebaja-ultima-tablet-120-euros-barata-1336826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/samsung-galaxy-tab-s8-3224860.jpg?tf=1200x' alt='Samsung la lía y calienta el Black Friday: rebaja su última tablet y es 120 euros más barata' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-ibm-disney-warner-retiran-publicidad-x-1338014'>Apple, IBM, Disney y otras compañías quitan su publicidad de X, tras los polémicos comentarios de Elon Musk</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-ibm-disney-warner-retiran-publicidad-x-1338014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-marte-colonizacion-spacex-3213542.jpg?tf=1200x' alt='Apple, IBM, Disney y otras compañías quitan su publicidad de X, tras los polémicos comentarios de Elon Musk' />
+    <h4><a href='https://computerhoy.com/moviles/tienen-comun-moviles-vendidos-mundo-1324398'>Perfil del móvil más popular: las características que arrasan en el mercado</a></h4>
+    <a href='https://computerhoy.com/moviles/tienen-comun-moviles-vendidos-mundo-1324398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/moviles-vendidos-3223604.jpg?tf=1200x' alt='Perfil del móvil más popular: las características que arrasan en el mercado' />
     </a>
 </div>
 
