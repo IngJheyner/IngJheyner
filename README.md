@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/primera-vez-xbox-supera-playstation-ingresos-videojuegos-1338610'>Por primera vez, Microsoft superará a Sony como la segunda compañía con más ingresos por videojuegos</a></h4>
-    <a href='https://computerhoy.com/industria/primera-vez-xbox-supera-playstation-ingresos-videojuegos-1338610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/primera-vez-microsoft-superara-sony-como-segunda-compania-ingresos-videojuegos-3228098.jpg?tf=1200x' alt='Por primera vez, Microsoft superará a Sony como la segunda compañía con más ingresos por videojuegos' />
+    <h4><a href='https://computerhoy.com/entretenimiento/taika-waititi-pelicula-star-wars-va-cabrear-mucha-gente-1338660'>Taika Waititi avisa: "Mi película de Star Wars va a cabrear a mucha gente" </a></h4>
+    <a href='https://computerhoy.com/entretenimiento/taika-waititi-pelicula-star-wars-va-cabrear-mucha-gente-1338660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/taika-waititi-2436399.jpg?tf=1200x' alt='Taika Waititi avisa: "Mi película de Star Wars va a cabrear a mucha gente" ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/truco-ahorrar-bateria-iphone-luz-blanca-1338582'>Este truco viral hará que nunca vuelvas a quedarte sin batería en el iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/truco-ahorrar-bateria-iphone-luz-blanca-1338582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-conectado-usb-c-3143608.jpg?tf=1200x' alt='Este truco viral hará que nunca vuelvas a quedarte sin batería en el iPhone' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/renfe-falsa-encuesta-black-friday-estafa-1338658'>Cuidado, Renfe no está regalando viajes gratis por el Black Friday, es una estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/renfe-falsa-encuesta-black-friday-estafa-1338658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/renfe-1980347.jpg?tf=1200x' alt='Cuidado, Renfe no está regalando viajes gratis por el Black Friday, es una estafa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-lia-deja-vpn-barata-nunca-65-descuento-black-friday-1338016'>NordVPN la lía y deja su VPN más barata que nunca: 65% de descuento por el Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nordvpn-lia-deja-vpn-barata-nunca-65-descuento-black-friday-1338016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nordvpn-3227002.jpg?tf=1200x' alt='NordVPN la lía y deja su VPN más barata que nunca: 65% de descuento por el Black Friday' />
+    <h4><a href='https://computerhoy.com/google/extensiones-chrome-pueden-dejar-funcionar-2024-1337396'>Las extensiones de Chrome que pueden dejar de funcionar en 2024</a></h4>
+    <a href='https://computerhoy.com/google/extensiones-chrome-pueden-dejar-funcionar-2024-1337396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-chrome-3124666.jpg?tf=1200x' alt='Las extensiones de Chrome que pueden dejar de funcionar en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiemble-garmin-reloj-deportivo-polar-mucho-barato-igual-completo-1336648'>Que tiemble Garmin: este reloj deportivo Polar es mucho más barato e igual de completo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiemble-garmin-reloj-deportivo-polar-mucho-barato-igual-completo-1336648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/polar-ignite-2-3224524.jpg?tf=1200x' alt='Que tiemble Garmin: este reloj deportivo Polar es mucho más barato e igual de completo' />
+    <h4><a href='https://computerhoy.com/life/escondite-desconocidos-juego-viral-hong-kong-1338644'>Jugar al escondite en un parque con 40 desconocidos y el Google Maps chino: el juego más viral en Hong Kong</a></h4>
+    <a href='https://computerhoy.com/life/escondite-desconocidos-juego-viral-hong-kong-1338644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/escondite-parque-desconocidos-usando-google-maps-chino-juego-moda-viral-hong-kong-3228108.jpg?tf=1200x' alt='Jugar al escondite en un parque con 40 desconocidos y el Google Maps chino: el juego más viral en Hong Kong' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-mano-tendones-corazon-valvulas-impreso-3d-1338560'>Crean una mano con tendones capaz de moverse y un corazón robótico con válvulas y sensores, mediante impresión 3D</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-mano-tendones-corazon-valvulas-impreso-3d-1338560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/crean-mano-tendones-capaz-moverse-corazon-robotico-valvulas-cavidades-sensores-mediante-impresion-3d-3228072.jpg?tf=1200x' alt='Crean una mano con tendones capaz de moverse y un corazón robótico con válvulas y sensores, mediante impresión 3D' />
+    <h4><a href='https://computerhoy.com/ciencia/einstein-sabia-envejecer-viajes-avion-1338630'>Einstein lo sabía: ¿Por qué se envejece más rápido si viajas en avión?</a></h4>
+    <a href='https://computerhoy.com/ciencia/einstein-sabia-envejecer-viajes-avion-1338630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/einstein-sabia-envejece-viajas-avion-3228094.jpg?tf=1200x' alt='Einstein lo sabía: ¿Por qué se envejece más rápido si viajas en avión?' />
     </a>
 </div>
 
