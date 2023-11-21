@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/whatsapp-anade-posibilidad-verificar-cuenta-correo-1339052'>WhatsApp añade la posibilidad de verificar tu cuenta con el correo electrónico</a></h4>
+    <a href='https://computerhoy.com/tecnologia/whatsapp-anade-posibilidad-verificar-cuenta-correo-1339052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ocultar-chat-whatsapp-3203388.jpg?tf=1200x' alt='WhatsApp añade la posibilidad de verificar tu cuenta con el correo electrónico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nigromancia-digital-como-inteligencia-artificial-ayuda-revivir-fallecidos-1338984'>Nigromancia digital o cómo la inteligencia artificial ayuda a "revivir" a los fallecidos: ¿Necesario o peligroso?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nigromancia-digital-como-inteligencia-artificial-ayuda-revivir-fallecidos-1338984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inteligencia-artificial-fallecidos-3228578.jpg?tf=1200x' alt='Nigromancia digital o cómo la inteligencia artificial ayuda a "revivir" a los fallecidos: ¿Necesario o peligroso?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/son-unas-gafas-sol-mucho-tienen-bluetooth-altavoz-son-increiblemente-baratas-1338304'>Son unas gafas de sol y mucho más: tienen Bluetooth, altavoz y son increíblemente baratas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/son-unas-gafas-sol-mucho-tienen-bluetooth-altavoz-son-increiblemente-baratas-1338304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-lecoo-c8-3227340.jpg?tf=1200x' alt='Son unas gafas de sol y mucho más: tienen Bluetooth, altavoz y son increíblemente baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/lecciones-astronauta-178-dias-espacio-estamos-viviendo-gran-mentira-1338920'>Lecciones de un astronauta tras 178 días en el espacio: "estamos viviendo una gran mentira"</a></h4>
+    <a href='https://computerhoy.com/espacio/lecciones-astronauta-178-dias-espacio-estamos-viviendo-gran-mentira-1338920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/astronauta-espacio-3228474.jpg?tf=1200x' alt='Lecciones de un astronauta tras 178 días en el espacio: "estamos viviendo una gran mentira"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/precio-airpods-pro-2-toca-fondo-amazon-black-friday-hoy-son-baratos-nunca-antes-1338844'>El precio de los AirPods Pro 2 toca fondo en Amazon por el Black Friday: hoy son más baratos que nunca antes</a></h4>
     <a href='https://computerhoy.com/tecnologia/precio-airpods-pro-2-toca-fondo-amazon-black-friday-hoy-son-baratos-nunca-antes-1338844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/airpods-pro-2-3228358.jpg?tf=1200x' alt='El precio de los AirPods Pro 2 toca fondo en Amazon por el Black Friday: hoy son más baratos que nunca antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/has-notado-youtube-carga-lento-culpa-navegador-1338884'>¿Has notado que YouTube carga más lento? La culpa es de tu navegador</a></h4>
-    <a href='https://computerhoy.com/tv/has-notado-youtube-carga-lento-culpa-navegador-1338884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/youtube-3208178.jpg?tf=1200x' alt='¿Has notado que YouTube carga más lento? La culpa es de tu navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/tecnica-maestra-robar-millones-dolares-ethereum-1338894'>La técnica maestra para robar millones de dólares en Ethereum</a></h4>
-    <a href='https://computerhoy.com/criptos/tecnica-maestra-robar-millones-dolares-ethereum-1338894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ethereum-2606325.jpg?tf=1200x' alt='La técnica maestra para robar millones de dólares en Ethereum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/drama-openai-no-ha-terminado-empleados-pie-guerra-sam-altman-regresaria-condicion-1338868'>El drama de OpenAI no ha terminado: empleados en pie de guerra y Sam Altman regresaría con una condición</a></h4>
-    <a href='https://computerhoy.com/tecnologia/drama-openai-no-ha-terminado-empleados-pie-guerra-sam-altman-regresaria-condicion-1338868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-despido-3228404.jpg?tf=1200x' alt='El drama de OpenAI no ha terminado: empleados en pie de guerra y Sam Altman regresaría con una condición' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jubila-escoba-fregona-roomba-desploma-precio-mucho-robot-aspirador-1338264'>Jubila tu escoba y tu fregona: esta Roomba desploma su precio y es mucho más que un robot aspirador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jubila-escoba-fregona-roomba-desploma-precio-mucho-robot-aspirador-1338264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/irobot-roomba-combo-i5-3227268.jpg?tf=1200x' alt='Jubila tu escoba y tu fregona: esta Roomba desploma su precio y es mucho más que un robot aspirador' />
     </a>
 </div>
 
