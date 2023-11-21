@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tinder-actualiza-nuevas-funciones-te-ayudan-romper-hielo-1338996'>Tinder se actualiza con nuevas funciones que te ayudan a “romper el hielo"</a></h4>
+    <a href='https://computerhoy.com/apps/tinder-actualiza-nuevas-funciones-te-ayudan-romper-hielo-1338996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tinder-actualiza-nuevas-funciones-te-ayudan-romper-hielo-3228576.jpg?tf=1200x' alt='Tinder se actualiza con nuevas funciones que te ayudan a “romper el hielo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/8-alternativas-midjourney-crear-imagenes-ia-1339010'>8 alternativas a Midjourney si no te convence esta herramienta de IA para crear imágenes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/8-alternativas-midjourney-crear-imagenes-ia-1339010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/imagen-generada-ia-3228640.jpg?tf=1200x' alt='8 alternativas a Midjourney si no te convence esta herramienta de IA para crear imágenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dron-low-cost-dji-rompiendola-black-friday-10-km-autonomia-solo-299eu-1339008'>Este dron low cost de DJI está partiéndolo en el Black Friday: 10 km de autonomía y por solo 299€</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dron-low-cost-dji-rompiendola-black-friday-10-km-autonomia-solo-299eu-1339008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dji-mini-2-3228658.jpg?tf=1200x' alt='Este dron low cost de DJI está partiéndolo en el Black Friday: 10 km de autonomía y por solo 299€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/whatsapp-anade-posibilidad-verificar-cuenta-correo-1339052'>WhatsApp añade la posibilidad de verificar tu cuenta con el correo electrónico</a></h4>
     <a href='https://computerhoy.com/tecnologia/whatsapp-anade-posibilidad-verificar-cuenta-correo-1339052' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ocultar-chat-whatsapp-3203388.jpg?tf=1200x' alt='WhatsApp añade la posibilidad de verificar tu cuenta con el correo electrónico' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nigromancia-digital-como-inteligencia-artificial-ayuda-revivir-fallecidos-1338984'>Nigromancia digital o cómo la inteligencia artificial ayuda a "revivir" a los fallecidos: ¿Necesario o peligroso?</a></h4>
     <a href='https://computerhoy.com/tecnologia/nigromancia-digital-como-inteligencia-artificial-ayuda-revivir-fallecidos-1338984' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inteligencia-artificial-fallecidos-3228578.jpg?tf=1200x' alt='Nigromancia digital o cómo la inteligencia artificial ayuda a "revivir" a los fallecidos: ¿Necesario o peligroso?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-unas-gafas-sol-mucho-tienen-bluetooth-altavoz-son-increiblemente-baratas-1338304'>Son unas gafas de sol y mucho más: tienen Bluetooth, altavoz y son increíblemente baratas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-unas-gafas-sol-mucho-tienen-bluetooth-altavoz-son-increiblemente-baratas-1338304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-lecoo-c8-3227340.jpg?tf=1200x' alt='Son unas gafas de sol y mucho más: tienen Bluetooth, altavoz y son increíblemente baratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/lecciones-astronauta-178-dias-espacio-estamos-viviendo-gran-mentira-1338920'>Lecciones de un astronauta tras 178 días en el espacio: "estamos viviendo una gran mentira"</a></h4>
-    <a href='https://computerhoy.com/espacio/lecciones-astronauta-178-dias-espacio-estamos-viviendo-gran-mentira-1338920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/astronauta-espacio-3228474.jpg?tf=1200x' alt='Lecciones de un astronauta tras 178 días en el espacio: "estamos viviendo una gran mentira"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/precio-airpods-pro-2-toca-fondo-amazon-black-friday-hoy-son-baratos-nunca-antes-1338844'>El precio de los AirPods Pro 2 toca fondo en Amazon por el Black Friday: hoy son más baratos que nunca antes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/precio-airpods-pro-2-toca-fondo-amazon-black-friday-hoy-son-baratos-nunca-antes-1338844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/airpods-pro-2-3228358.jpg?tf=1200x' alt='El precio de los AirPods Pro 2 toca fondo en Amazon por el Black Friday: hoy son más baratos que nunca antes' />
     </a>
 </div>
 
