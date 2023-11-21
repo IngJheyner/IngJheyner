@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-whatsapp-recibes-sms-contactos-no-respondas-1339072'>Nueva estafa por WhatsApp: si recibes este SMS de tus contactos no respondas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-whatsapp-recibes-sms-contactos-no-respondas-1339072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/estafa-falso-hijo-whatsapp-bizum-mensaje-no-debes-contestar-nunca-3215716.jpg?tf=1200x' alt='Nueva estafa por WhatsApp: si recibes este SMS de tus contactos no respondas' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ocu-advierte-usan-ciberdelincuentes-netflix-hbo-disney-plus-prime-video-estafarte-1338972'>Así usan los ciberdelincuentes Netflix, HBO, Disney Plus o Prime Video para estafarte, advierte la OCU</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ocu-advierte-usan-ciberdelincuentes-netflix-hbo-disney-plus-prime-video-estafarte-1338972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hackean-cuenta-netflix-dejan-espeluznante-mensaje-clave-2965998.jpg?tf=1200x' alt='Así usan los ciberdelincuentes Netflix, HBO, Disney Plus o Prime Video para estafarte, advierte la OCU' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alexa-siempre-contigo-smartwatch-barato-amazfit-chollos-top-black-friday-1337316'>Alexa siempre contigo: este smartwatch barato de Amazfit es uno de los chollos top del Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alexa-siempre-contigo-smartwatch-barato-amazfit-chollos-top-black-friday-1337316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazfit-gts-4-mini-3125396.jpg?tf=1200x' alt='Alexa siempre contigo: este smartwatch barato de Amazfit es uno de los chollos top del Black Friday' />
+    <h4><a href='https://computerhoy.com/google/google-compras-navidad-inteligencia-artificial-1339166'>Google quiere quedarse con una parte del pastel de las compras de Navidad gracias a su IA</a></h4>
+    <a href='https://computerhoy.com/google/google-compras-navidad-inteligencia-artificial-1339166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-quiere-quedarse-parte-pastel-compras-navidad-ia-3228976.jpg?tf=1200x' alt='Google quiere quedarse con una parte del pastel de las compras de Navidad gracias a su IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/conjuncio-solar-marte-desaparece-cielo-dos-semanas-1339096'>Marte está a punto de desaparecer del cielo durante dos semanas, se perderán todas las comunicaciones</a></h4>
-    <a href='https://computerhoy.com/espacio/conjuncio-solar-marte-desaparece-cielo-dos-semanas-1339096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/marte-punto-desaparecer-cielo-durante-dos-semanas-3228732.jpg?tf=1200x' alt='Marte está a punto de desaparecer del cielo durante dos semanas, se perderán todas las comunicaciones' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-deja-ko-roomba-robot-aspirador-friega-estrella-black-friday-amazon-1339174'>Xiaomi deja KO a las Roomba: su robot aspirador que friega es la estrella del Black Friday en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-deja-ko-roomba-robot-aspirador-friega-estrella-black-friday-amazon-1339174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-robot-vacuum-s12-3228972.jpg?tf=1200x' alt='Xiaomi deja KO a las Roomba: su robot aspirador que friega es la estrella del Black Friday en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-ya-capaz-crear-pagina-web-partir-dibujo-1338656'>¿Ha llegado el fin de la programación web? La IA ya es capaz de crear una página web a partir de un dibujo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-ya-capaz-crear-pagina-web-partir-dibujo-1338656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/programacion-ordenador-2828521.jpg?tf=1200x' alt='¿Ha llegado el fin de la programación web? La IA ya es capaz de crear una página web a partir de un dibujo' />
+    <h4><a href='https://computerhoy.com/google/google-toma-medidas-gmail-libre-spam-2024-1339138'>Google toma medidas para que puedas tener Gmail libre de spam en 2024</a></h4>
+    <a href='https://computerhoy.com/google/google-toma-medidas-gmail-libre-spam-2024-1339138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-toma-medidas-puedas-tener-gmail-libre-spam-2024-3228902.jpg?tf=1200x' alt='Google toma medidas para que puedas tener Gmail libre de spam en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tinder-actualiza-nuevas-funciones-te-ayudan-romper-hielo-1338996'>Tinder se actualiza con nuevas funciones que te ayudan a “romper el hielo"</a></h4>
-    <a href='https://computerhoy.com/apps/tinder-actualiza-nuevas-funciones-te-ayudan-romper-hielo-1338996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tinder-actualiza-nuevas-funciones-te-ayudan-romper-hielo-3228576.jpg?tf=1200x' alt='Tinder se actualiza con nuevas funciones que te ayudan a “romper el hielo"' />
+    <h4><a href='https://computerhoy.com/redes/dismorfia-cuando-filtros-instagram-te-afectan-vida-real-1331592'>Dismorfia: cuando los filtros de Instagram te afectan en la vida real</a></h4>
+    <a href='https://computerhoy.com/redes/dismorfia-cuando-filtros-instagram-te-afectan-vida-real-1331592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dismorfia-cuando-filtros-instagram-te-afectan-vida-real-3215620.jpg?tf=1200x' alt='Dismorfia: cuando los filtros de Instagram te afectan en la vida real' />
     </a>
 </div>
 
