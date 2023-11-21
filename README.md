@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-whatsapp-recibes-sms-contactos-no-respondas-1339072'>Nueva estafa por WhatsApp: si recibes este SMS de tus contactos no respondas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-whatsapp-recibes-sms-contactos-no-respondas-1339072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/estafa-falso-hijo-whatsapp-bizum-mensaje-no-debes-contestar-nunca-3215716.jpg?tf=1200x' alt='Nueva estafa por WhatsApp: si recibes este SMS de tus contactos no respondas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alexa-siempre-contigo-smartwatch-barato-amazfit-chollos-top-black-friday-1337316'>Alexa siempre contigo: este smartwatch barato de Amazfit es uno de los chollos top del Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alexa-siempre-contigo-smartwatch-barato-amazfit-chollos-top-black-friday-1337316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/amazfit-gts-4-mini-3125396.jpg?tf=1200x' alt='Alexa siempre contigo: este smartwatch barato de Amazfit es uno de los chollos top del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/conjuncio-solar-marte-desaparece-cielo-dos-semanas-1339096'>Marte está a punto de desaparecer del cielo durante dos semanas, se perderán todas las comunicaciones</a></h4>
+    <a href='https://computerhoy.com/espacio/conjuncio-solar-marte-desaparece-cielo-dos-semanas-1339096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/marte-punto-desaparecer-cielo-durante-dos-semanas-3228732.jpg?tf=1200x' alt='Marte está a punto de desaparecer del cielo durante dos semanas, se perderán todas las comunicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-ya-capaz-crear-pagina-web-partir-dibujo-1338656'>¿Ha llegado el fin de la programación web? La IA ya es capaz de crear una página web a partir de un dibujo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-ya-capaz-crear-pagina-web-partir-dibujo-1338656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/programacion-ordenador-2828521.jpg?tf=1200x' alt='¿Ha llegado el fin de la programación web? La IA ya es capaz de crear una página web a partir de un dibujo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/tinder-actualiza-nuevas-funciones-te-ayudan-romper-hielo-1338996'>Tinder se actualiza con nuevas funciones que te ayudan a “romper el hielo"</a></h4>
     <a href='https://computerhoy.com/apps/tinder-actualiza-nuevas-funciones-te-ayudan-romper-hielo-1338996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tinder-actualiza-nuevas-funciones-te-ayudan-romper-hielo-3228576.jpg?tf=1200x' alt='Tinder se actualiza con nuevas funciones que te ayudan a “romper el hielo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/8-alternativas-midjourney-crear-imagenes-ia-1339010'>8 alternativas a Midjourney si no te convence esta herramienta de IA para crear imágenes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/8-alternativas-midjourney-crear-imagenes-ia-1339010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/imagen-generada-ia-3228640.jpg?tf=1200x' alt='8 alternativas a Midjourney si no te convence esta herramienta de IA para crear imágenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dron-low-cost-dji-rompiendola-black-friday-10-km-autonomia-solo-299eu-1339008'>Este dron low cost de DJI está partiéndolo en el Black Friday: 10 km de autonomía y por solo 299€</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dron-low-cost-dji-rompiendola-black-friday-10-km-autonomia-solo-299eu-1339008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dji-mini-2-3228658.jpg?tf=1200x' alt='Este dron low cost de DJI está partiéndolo en el Black Friday: 10 km de autonomía y por solo 299€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/whatsapp-anade-posibilidad-verificar-cuenta-correo-1339052'>WhatsApp añade la posibilidad de verificar tu cuenta con el correo electrónico</a></h4>
-    <a href='https://computerhoy.com/tecnologia/whatsapp-anade-posibilidad-verificar-cuenta-correo-1339052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ocultar-chat-whatsapp-3203388.jpg?tf=1200x' alt='WhatsApp añade la posibilidad de verificar tu cuenta con el correo electrónico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nigromancia-digital-como-inteligencia-artificial-ayuda-revivir-fallecidos-1338984'>Nigromancia digital o cómo la inteligencia artificial ayuda a "revivir" a los fallecidos: ¿Necesario o peligroso?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nigromancia-digital-como-inteligencia-artificial-ayuda-revivir-fallecidos-1338984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inteligencia-artificial-fallecidos-3228578.jpg?tf=1200x' alt='Nigromancia digital o cómo la inteligencia artificial ayuda a "revivir" a los fallecidos: ¿Necesario o peligroso?' />
     </a>
 </div>
 
