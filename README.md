@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/falta-elon-musk-colonizar-marte-exastronauta-nasa-asesor-spacex-1329708'>A Elon Musk aún le falta algo esencial para colonizar Marte, según un exastronauta de la NASA y asesor de SpaceX</a></h4>
+    <a href='https://computerhoy.com/espacio/falta-elon-musk-colonizar-marte-exastronauta-nasa-asesor-spacex-1329708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-spacex-colonizar-marte-starship-3215210.jpg?tf=1200x' alt='A Elon Musk aún le falta algo esencial para colonizar Marte, según un exastronauta de la NASA y asesor de SpaceX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/5-motivos-comprar-fire-tv-stick-black-friday-ahora-oferta-1338482'>5 motivos para comprar el Fire TV Stick ahora que está en oferta por Black Friday</a></h4>
+    <a href='https://computerhoy.com/amazon/5-motivos-comprar-fire-tv-stick-black-friday-ahora-oferta-1338482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fire-tv-3228138.jpg?tf=1200x' alt='5 motivos para comprar el Fire TV Stick ahora que está en oferta por Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/estudio-confirma-dormir-5-minutos-puede-ser-bueno-salud-1336528'>Un estudio lo confirma: dormir “5 minutos más” puede ser bueno para tu salud</a></h4>
+    <a href='https://computerhoy.com/ciencia/estudio-confirma-dormir-5-minutos-puede-ser-bueno-salud-1336528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/estudio-confirma-dormir-5-minutos-puede-ser-bueno-salud-3224344.jpg?tf=1200x' alt='Un estudio lo confirma: dormir “5 minutos más” puede ser bueno para tu salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/black-friday-amazon-mejores-ofertas-1335944'>El Black Friday de Amazon, a pleno rendimiento: estas son las mejores ofertas de la semana previa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/black-friday-amazon-mejores-ofertas-1335944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-amazon-3223272.jpg?tf=1200x' alt='El Black Friday de Amazon, a pleno rendimiento: estas son las mejores ofertas de la semana previa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/taika-waititi-pelicula-star-wars-va-cabrear-mucha-gente-1338660'>Taika Waititi avisa: "Mi película de Star Wars va a cabrear a mucha gente" </a></h4>
     <a href='https://computerhoy.com/entretenimiento/taika-waititi-pelicula-star-wars-va-cabrear-mucha-gente-1338660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/taika-waititi-2436399.jpg?tf=1200x' alt='Taika Waititi avisa: "Mi película de Star Wars va a cabrear a mucha gente" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/renfe-falsa-encuesta-black-friday-estafa-1338658'>Cuidado, Renfe no está regalando viajes gratis por el Black Friday, es una estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/renfe-falsa-encuesta-black-friday-estafa-1338658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/renfe-1980347.jpg?tf=1200x' alt='Cuidado, Renfe no está regalando viajes gratis por el Black Friday, es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/extensiones-chrome-pueden-dejar-funcionar-2024-1337396'>Las extensiones de Chrome que pueden dejar de funcionar en 2024</a></h4>
-    <a href='https://computerhoy.com/google/extensiones-chrome-pueden-dejar-funcionar-2024-1337396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-chrome-3124666.jpg?tf=1200x' alt='Las extensiones de Chrome que pueden dejar de funcionar en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/escondite-desconocidos-juego-viral-hong-kong-1338644'>Jugar al escondite en un parque con 40 desconocidos y el Google Maps chino: el juego más viral en Hong Kong</a></h4>
-    <a href='https://computerhoy.com/life/escondite-desconocidos-juego-viral-hong-kong-1338644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/escondite-parque-desconocidos-usando-google-maps-chino-juego-moda-viral-hong-kong-3228108.jpg?tf=1200x' alt='Jugar al escondite en un parque con 40 desconocidos y el Google Maps chino: el juego más viral en Hong Kong' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/einstein-sabia-envejecer-viajes-avion-1338630'>Einstein lo sabía: ¿Por qué se envejece más rápido si viajas en avión?</a></h4>
-    <a href='https://computerhoy.com/ciencia/einstein-sabia-envejecer-viajes-avion-1338630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/einstein-sabia-envejece-viajas-avion-3228094.jpg?tf=1200x' alt='Einstein lo sabía: ¿Por qué se envejece más rápido si viajas en avión?' />
     </a>
 </div>
 
