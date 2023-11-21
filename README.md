@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/falta-elon-musk-colonizar-marte-exastronauta-nasa-asesor-spacex-1329708'>A Elon Musk aún le falta algo esencial para colonizar Marte, según un exastronauta de la NASA y asesor de SpaceX</a></h4>
-    <a href='https://computerhoy.com/espacio/falta-elon-musk-colonizar-marte-exastronauta-nasa-asesor-spacex-1329708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-spacex-colonizar-marte-starship-3215210.jpg?tf=1200x' alt='A Elon Musk aún le falta algo esencial para colonizar Marte, según un exastronauta de la NASA y asesor de SpaceX' />
+    <h4><a href='https://computerhoy.com/tecnologia/precio-airpods-pro-2-toca-fondo-amazon-black-friday-hoy-son-baratos-nunca-antes-1338844'>El precio de los AirPods Pro 2 toca fondo en Amazon por el Black Friday: hoy son más baratos que nunca antes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/precio-airpods-pro-2-toca-fondo-amazon-black-friday-hoy-son-baratos-nunca-antes-1338844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/airpods-pro-2-3228358.jpg?tf=1200x' alt='El precio de los AirPods Pro 2 toca fondo en Amazon por el Black Friday: hoy son más baratos que nunca antes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/5-motivos-comprar-fire-tv-stick-black-friday-ahora-oferta-1338482'>5 motivos para comprar el Fire TV Stick ahora que está en oferta por Black Friday</a></h4>
-    <a href='https://computerhoy.com/amazon/5-motivos-comprar-fire-tv-stick-black-friday-ahora-oferta-1338482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fire-tv-3228138.jpg?tf=1200x' alt='5 motivos para comprar el Fire TV Stick ahora que está en oferta por Black Friday' />
+    <h4><a href='https://computerhoy.com/tv/has-notado-youtube-carga-lento-culpa-navegador-1338884'>¿Has notado que YouTube carga más lento? La culpa es de tu navegador</a></h4>
+    <a href='https://computerhoy.com/tv/has-notado-youtube-carga-lento-culpa-navegador-1338884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/youtube-3208178.jpg?tf=1200x' alt='¿Has notado que YouTube carga más lento? La culpa es de tu navegador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estudio-confirma-dormir-5-minutos-puede-ser-bueno-salud-1336528'>Un estudio lo confirma: dormir “5 minutos más” puede ser bueno para tu salud</a></h4>
-    <a href='https://computerhoy.com/ciencia/estudio-confirma-dormir-5-minutos-puede-ser-bueno-salud-1336528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/estudio-confirma-dormir-5-minutos-puede-ser-bueno-salud-3224344.jpg?tf=1200x' alt='Un estudio lo confirma: dormir “5 minutos más” puede ser bueno para tu salud' />
+    <h4><a href='https://computerhoy.com/criptos/tecnica-maestra-robar-millones-dolares-ethereum-1338894'>La técnica maestra para robar millones de dólares en Ethereum</a></h4>
+    <a href='https://computerhoy.com/criptos/tecnica-maestra-robar-millones-dolares-ethereum-1338894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/ethereum-2606325.jpg?tf=1200x' alt='La técnica maestra para robar millones de dólares en Ethereum' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/black-friday-amazon-mejores-ofertas-1335944'>El Black Friday de Amazon, a pleno rendimiento: estas son las mejores ofertas de la semana previa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/black-friday-amazon-mejores-ofertas-1335944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-amazon-3223272.jpg?tf=1200x' alt='El Black Friday de Amazon, a pleno rendimiento: estas son las mejores ofertas de la semana previa' />
+    <h4><a href='https://computerhoy.com/tecnologia/drama-openai-no-ha-terminado-empleados-pie-guerra-sam-altman-regresaria-condicion-1338868'>El drama de OpenAI no ha terminado: empleados en pie de guerra y Sam Altman regresaría con una condición</a></h4>
+    <a href='https://computerhoy.com/tecnologia/drama-openai-no-ha-terminado-empleados-pie-guerra-sam-altman-regresaria-condicion-1338868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-despido-3228404.jpg?tf=1200x' alt='El drama de OpenAI no ha terminado: empleados en pie de guerra y Sam Altman regresaría con una condición' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/taika-waititi-pelicula-star-wars-va-cabrear-mucha-gente-1338660'>Taika Waititi avisa: "Mi película de Star Wars va a cabrear a mucha gente" </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/taika-waititi-pelicula-star-wars-va-cabrear-mucha-gente-1338660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/taika-waititi-2436399.jpg?tf=1200x' alt='Taika Waititi avisa: "Mi película de Star Wars va a cabrear a mucha gente" ' />
+    <h4><a href='https://computerhoy.com/tecnologia/jubila-escoba-fregona-roomba-desploma-precio-mucho-robot-aspirador-1338264'>Jubila tu escoba y tu fregona: esta Roomba desploma su precio y es mucho más que un robot aspirador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/jubila-escoba-fregona-roomba-desploma-precio-mucho-robot-aspirador-1338264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/irobot-roomba-combo-i5-3227268.jpg?tf=1200x' alt='Jubila tu escoba y tu fregona: esta Roomba desploma su precio y es mucho más que un robot aspirador' />
     </a>
 </div>
 
