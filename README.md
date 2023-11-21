@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ocu-advierte-usan-ciberdelincuentes-netflix-hbo-disney-plus-prime-video-estafarte-1338972'>Así usan los ciberdelincuentes Netflix, HBO, Disney Plus o Prime Video para estafarte, advierte la OCU</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ocu-advierte-usan-ciberdelincuentes-netflix-hbo-disney-plus-prime-video-estafarte-1338972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/hackean-cuenta-netflix-dejan-espeluznante-mensaje-clave-2965998.jpg?tf=1200x' alt='Así usan los ciberdelincuentes Netflix, HBO, Disney Plus o Prime Video para estafarte, advierte la OCU' />
+    <h4><a href='https://computerhoy.com/apple/steve-jobs-equivoco-macbook-vuelven-tener-internet-movil-1339268'>¿Steve Jobs se equivocó? La función que quitó vuelve a MacBook</a></h4>
+    <a href='https://computerhoy.com/apple/steve-jobs-equivoco-macbook-vuelven-tener-internet-movil-1339268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/steve-jobs-equivoco-funcion-quito-vuelve-macbook-internet-wifi-como-movil-3229158.jpg?tf=1200x' alt='¿Steve Jobs se equivocó? La función que quitó vuelve a MacBook' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-compras-navidad-inteligencia-artificial-1339166'>Google quiere quedarse con una parte del pastel de las compras de Navidad gracias a su IA</a></h4>
-    <a href='https://computerhoy.com/google/google-compras-navidad-inteligencia-artificial-1339166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-quiere-quedarse-parte-pastel-compras-navidad-ia-3228976.jpg?tf=1200x' alt='Google quiere quedarse con una parte del pastel de las compras de Navidad gracias a su IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/canon-pc-gaming-32gb-ram-ryzen-7-desploma-precio-600-euros-1338424'>Este cañón de PC Gaming con 32GB de RAM y Ryzen 7 desploma su precio en 600 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/canon-pc-gaming-32gb-ram-ryzen-7-desploma-precio-600-euros-1338424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pccom-imperial-3227774.jpg?tf=1200x' alt='Este cañón de PC Gaming con 32GB de RAM y Ryzen 7 desploma su precio en 600 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-deja-ko-roomba-robot-aspirador-friega-estrella-black-friday-amazon-1339174'>Xiaomi deja KO a las Roomba: su robot aspirador que friega es la estrella del Black Friday en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-deja-ko-roomba-robot-aspirador-friega-estrella-black-friday-amazon-1339174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-robot-vacuum-s12-3228972.jpg?tf=1200x' alt='Xiaomi deja KO a las Roomba: su robot aspirador que friega es la estrella del Black Friday en Amazon' />
+    <h4><a href='https://computerhoy.com/tecnologia/domina-rutina-diaria-estos-10-trucos-alexa-amazon-echo-1339276'>Domina tu rutina diaria con estos 10 trucos para Alexa y Amazon Echo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/domina-rutina-diaria-estos-10-trucos-alexa-amazon-echo-1339276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-echo-4-3229170.jpg?tf=1200x' alt='Domina tu rutina diaria con estos 10 trucos para Alexa y Amazon Echo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-toma-medidas-gmail-libre-spam-2024-1339138'>Google toma medidas para que puedas tener Gmail libre de spam en 2024</a></h4>
-    <a href='https://computerhoy.com/google/google-toma-medidas-gmail-libre-spam-2024-1339138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-toma-medidas-puedas-tener-gmail-libre-spam-2024-3228902.jpg?tf=1200x' alt='Google toma medidas para que puedas tener Gmail libre de spam en 2024' />
+    <h4><a href='https://computerhoy.com/life/de-profesora-a-onlyfans-cecilia-sopena-1339248'>De profesora de matemáticas a OnlyFans para poder tener tiempo para lo que importa</a></h4>
+    <a href='https://computerhoy.com/life/de-profesora-a-onlyfans-cecilia-sopena-1339248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/onlyfans-2659275.jpg?tf=1200x' alt='De profesora de matemáticas a OnlyFans para poder tener tiempo para lo que importa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/dismorfia-cuando-filtros-instagram-te-afectan-vida-real-1331592'>Dismorfia: cuando los filtros de Instagram te afectan en la vida real</a></h4>
-    <a href='https://computerhoy.com/redes/dismorfia-cuando-filtros-instagram-te-afectan-vida-real-1331592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dismorfia-cuando-filtros-instagram-te-afectan-vida-real-3215620.jpg?tf=1200x' alt='Dismorfia: cuando los filtros de Instagram te afectan en la vida real' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-convencerte-utilices-windows-copilot-windows-11-windows-10-1339264'>Microsoft quiere convencerte de que utilices Windows Copilot en Windows 11 y Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-quiere-convencerte-utilices-windows-copilot-windows-11-windows-10-1339264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/copilot-3140950.jpg?tf=1200x' alt='Microsoft quiere convencerte de que utilices Windows Copilot en Windows 11 y Windows 10' />
     </a>
 </div>
 
