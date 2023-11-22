@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/240-hz-ryzen-9-bestial-portatil-gaming-te-lleva-jugar-ultra-incluso-4k-1338880'>240 Hz y Ryzen 9: este bestial portátil gaming te lleva a jugar en Ultra incluso en 4K</a></h4>
-    <a href='https://computerhoy.com/tecnologia/240-hz-ryzen-9-bestial-portatil-gaming-te-lleva-jugar-ultra-incluso-4k-1338880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/msi-alpha-17-c7vf-022xes-3228384.jpg?tf=1200x' alt='240 Hz y Ryzen 9: este bestial portátil gaming te lleva a jugar en Ultra incluso en 4K' />
+    <h4><a href='https://computerhoy.com/tecnologia/mano-tiene-16gb-ram-precio-mini-pc-pone-amazon-reves-1338928'>Cabe en tu mano y tiene 16GB de RAM: el precio de este Mini PC pone Amazon del revés</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mano-tiene-16gb-ram-precio-mini-pc-pone-amazon-reves-1338928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nipogi-ak1-pro-3062680.jpg?tf=1200x' alt='Cabe en tu mano y tiene 16GB de RAM: el precio de este Mini PC pone Amazon del revés' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/nueva-pelicula-karate-kid-2024-jackie-chan-ralph-macchio-1339508'>Sony Pictures anuncia nueva película de Karate Kid, con Jackie Chan y Ralph Macchio repitiendo sus papeles de hace décadas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/nueva-pelicula-karate-kid-2024-jackie-chan-ralph-macchio-1339508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sony-pictures-anuncia-nueva-pelicula-karate-kid-jackie-chan-ralph-macchio-repitiendo-papeles-hace-tres-decadas-3229618.jpg?tf=1200x' alt='Sony Pictures anuncia nueva película de Karate Kid, con Jackie Chan y Ralph Macchio repitiendo sus papeles de hace décadas' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/malware-espionaje-ruso-propaga-nivel-mundial-traves-usb-1339566'>Un 'malware' de espionaje ruso se propaga a nivel mundial a través de USB</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/malware-espionaje-ruso-propaga-nivel-mundial-traves-usb-1339566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/gusano-informatico-3229752.jpg?tf=1200x' alt='Un 'malware' de espionaje ruso se propaga a nivel mundial a través de USB' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/grave-error-todo-mundo-comete-inflar-neumaticos-1336800'>El grave error que todo el mundo comete al inflar los neumáticos y que pone en riesgo tu seguridad</a></h4>
-    <a href='https://computerhoy.com/motor/grave-error-todo-mundo-comete-inflar-neumaticos-1336800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grave-error-todo-mundo-comete-inflar-neumaticos-pone-riesgo-seguridad-3224894.jpg?tf=1200x' alt='El grave error que todo el mundo comete al inflar los neumáticos y que pone en riesgo tu seguridad' />
+    <h4><a href='https://computerhoy.com/alimentacion/mejor-hora-dia-tomar-cafe-adelgazar-1334876'>Esta es la mejor hora del día en la que tomar café para adelgazar</a></h4>
+    <a href='https://computerhoy.com/alimentacion/mejor-hora-dia-tomar-cafe-adelgazar-1334876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mejor-hora-dia-tomar-cafe-adelgazar-3221576.jpg?tf=1200x' alt='Esta es la mejor hora del día en la que tomar café para adelgazar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-vendido-amazon-no-sorprende-299eu-intel-core-i3-1339120'>Es el portátil más vendido en Amazon, y no sorprende: 299€ y con Intel Core i3</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-vendido-amazon-no-sorprende-299eu-intel-core-i3-1339120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hp-15-fd0000ns-3228816.jpg?tf=1200x' alt='Es el portátil más vendido en Amazon, y no sorprende: 299€ y con Intel Core i3' />
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-vuelve-regresa-triunfal-como-ceo-openai-1339536'>Sam Altman vuelve y regresa triunfal como CEO a OpenAI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-vuelve-regresa-triunfal-como-ceo-openai-1339536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-ex-ceo-openai-3228088.jpg?tf=1200x' alt='Sam Altman vuelve y regresa triunfal como CEO a OpenAI' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/razones-gpt-store-ya-dando-hablar-1339118'>Las razones por la que la GPT Store ya está dando de qué hablar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/razones-gpt-store-ya-dando-hablar-1339118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/razones-gpt-store-ya-dando-hablar-3228832.jpg?tf=1200x' alt='Las razones por la que la GPT Store ya está dando de qué hablar' />
+    <h4><a href='https://computerhoy.com/tecnologia/sindrome-diogenes-digital-claves-identificarlo-combatirlo-1338334'>Síndrome de Diógenes digital: claves para identificarlo y combatirlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sindrome-diogenes-digital-claves-identificarlo-combatirlo-1338334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sindrome-diogenes-digital-claves-identificarlo-combatirlo-3227376.jpg?tf=1200x' alt='Síndrome de Diógenes digital: claves para identificarlo y combatirlo' />
     </a>
 </div>
 
