@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/nueva-pelicula-karate-kid-2024-jackie-chan-ralph-macchio-1339508'>Sony Pictures anuncia nueva película de Karate Kid, con Jackie Chan y Ralph Macchio repitiendo sus papeles de hace décadas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/nueva-pelicula-karate-kid-2024-jackie-chan-ralph-macchio-1339508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sony-pictures-anuncia-nueva-pelicula-karate-kid-jackie-chan-ralph-macchio-repitiendo-papeles-hace-tres-decadas-3229618.jpg?tf=1200x' alt='Sony Pictures anuncia nueva película de Karate Kid, con Jackie Chan y Ralph Macchio repitiendo sus papeles de hace décadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/grave-error-todo-mundo-comete-inflar-neumaticos-1336800'>El grave error que todo el mundo comete al inflar los neumáticos y que pone en riesgo tu seguridad</a></h4>
+    <a href='https://computerhoy.com/motor/grave-error-todo-mundo-comete-inflar-neumaticos-1336800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grave-error-todo-mundo-comete-inflar-neumaticos-pone-riesgo-seguridad-3224894.jpg?tf=1200x' alt='El grave error que todo el mundo comete al inflar los neumáticos y que pone en riesgo tu seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-vendido-amazon-no-sorprende-299eu-intel-core-i3-1339120'>Es el portátil más vendido en Amazon, y no sorprende: 299€ y con Intel Core i3</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-vendido-amazon-no-sorprende-299eu-intel-core-i3-1339120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hp-15-fd0000ns-3228816.jpg?tf=1200x' alt='Es el portátil más vendido en Amazon, y no sorprende: 299€ y con Intel Core i3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/razones-gpt-store-ya-dando-hablar-1339118'>Las razones por la que la GPT Store ya está dando de qué hablar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/razones-gpt-store-ya-dando-hablar-1339118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/razones-gpt-store-ya-dando-hablar-3228832.jpg?tf=1200x' alt='Las razones por la que la GPT Store ya está dando de qué hablar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/elon-musk-usa-video-el-risitas-mofarse-openai-1339316'>Elon Musk usa el mítico vídeo de El Risitas para burlarse de Sam Altman y OpenAI</a></h4>
     <a href='https://computerhoy.com/life/elon-musk-usa-video-el-risitas-mofarse-openai-1339316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-usa-mitico-video-risitas-mofarse-openai-3229378.jpg?tf=1200x' alt='Elon Musk usa el mítico vídeo de El Risitas para burlarse de Sam Altman y OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/dimite-ceo-binance-criptomonedas-changpeng-zhao-1339308'>Changpeng Zhao, CEO de Binance y gurú de las criptomonedas, dimite: pagará 4.300 millones de dólares de multa por blanqueo de dinero</a></h4>
-    <a href='https://computerhoy.com/criptos/dimite-ceo-binance-criptomonedas-changpeng-zhao-1339308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/director-ejecutivo-binance-changpeng-zhao-2994432.jpg?tf=1200x' alt='Changpeng Zhao, CEO de Binance y gurú de las criptomonedas, dimite: pagará 4.300 millones de dólares de multa por blanqueo de dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/truco-definitivo-iniciar-sesion-whatsapp-sin-movil-1339288'>El truco definitivo para iniciar sesión en WhatsApp aunque no encuentres tu móvil</a></h4>
-    <a href='https://computerhoy.com/apple/truco-definitivo-iniciar-sesion-whatsapp-sin-movil-1339288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funcion-enviar-mensajes-audio-whatsapp-manos-sorprendentemente-casi-nadie-conoce-3204522.jpg?tf=1200x' alt='El truco definitivo para iniciar sesión en WhatsApp aunque no encuentres tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-equivoco-macbook-vuelven-tener-internet-movil-1339268'>¿Steve Jobs se equivocó? La función que quitó vuelve a MacBook</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-equivoco-macbook-vuelven-tener-internet-movil-1339268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/steve-jobs-equivoco-funcion-quito-vuelve-macbook-internet-wifi-como-movil-3229158.jpg?tf=1200x' alt='¿Steve Jobs se equivocó? La función que quitó vuelve a MacBook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/canon-pc-gaming-32gb-ram-ryzen-7-desploma-precio-600-euros-1338424'>Este cañón de PC Gaming con 32GB de RAM y Ryzen 7 desploma su precio en 600 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/canon-pc-gaming-32gb-ram-ryzen-7-desploma-precio-600-euros-1338424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pccom-imperial-3227774.jpg?tf=1200x' alt='Este cañón de PC Gaming con 32GB de RAM y Ryzen 7 desploma su precio en 600 euros' />
     </a>
 </div>
 
