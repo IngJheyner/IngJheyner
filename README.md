@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-actualizan-tres-nuevas-esperadas-funciones-1339830'>Google Maps se actualiza con tres nuevas funciones y se distancia, aún más, de su competencia</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-actualizan-tres-nuevas-esperadas-funciones-1339830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tres-nuevas-funciones-google-maps-mejoraran-experiencia-navegacio-3230340.jpg?tf=1200x' alt='Google Maps se actualiza con tres nuevas funciones y se distancia, aún más, de su competencia' />
+    <h4><a href='https://computerhoy.com/entretenimiento/creador-witcher-andrzej-sapkowski-netflix-nunca-escucho-ideas-serie-1339916'>El creador de The Witcher habla claro: "Netflix nunca escuchó mis ideas para la serie"</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/creador-witcher-andrzej-sapkowski-netflix-nunca-escucho-ideas-serie-1339916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/henry-cavill-como-geralt-rivia-witcher-3058518.jpg?tf=1200x' alt='El creador de The Witcher habla claro: "Netflix nunca escuchó mis ideas para la serie"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/fakedetail-crear-conversacion-falsa-whatsapp-1336194'>Fakedetail WhatsApp: cómo crear un chat o conversación falsa de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/fakedetail-crear-conversacion-falsa-whatsapp-1336194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fakedetail-whatsapp-como-crear-chat-conversacion-falsa-whatsapp-3223838.jpg?tf=1200x' alt='Fakedetail WhatsApp: cómo crear un chat o conversación falsa de WhatsApp' />
+    <h4><a href='https://computerhoy.com/tecnologia/ahora-momento-gopro-hero11-tumba-precio-amazon-black-friday-1339060'>Ahora es el momento: la GoPro Hero11 tumba su precio en Amazon por el Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ahora-momento-gopro-hero11-tumba-precio-amazon-black-friday-1339060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gopro-hero11-black-2957156.jpg?tf=1200x' alt='Ahora es el momento: la GoPro Hero11 tumba su precio en Amazon por el Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-hoy-tdt-sentencia-muerte-1339856'>Qué película ver en la TDT hoy: el drama de una venganza justa, pero que te convierte en un monstruo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-ver-hoy-tdt-sentencia-muerte-1339856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pelicula-ver-hoy-tdt-drama-venganza-justa-pero-va-ley-3230328.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: el drama de una venganza justa, pero que te convierte en un monstruo' />
+    <h4><a href='https://computerhoy.com/industria/telefono-11827-gratuito-puede-reclamar-ves-factura-1336836'>Teléfono 11827: ¿qué es?, ¿es gratuito?, ¿se puede reclamar si lo ves en tu factura?</a></h4>
+    <a href='https://computerhoy.com/industria/telefono-11827-gratuito-puede-reclamar-ves-factura-1336836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/11827-3230176.jpg?tf=1200x' alt='Teléfono 11827: ¿qué es?, ¿es gratuito?, ¿se puede reclamar si lo ves en tu factura?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/desconocida-combinacion-botones-amazon-fire-tv-deberias-probar-1339814'>La desconocida combinación de botones del Amazon Fire TV que deberías probar</a></h4>
-    <a href='https://computerhoy.com/amazon/desconocida-combinacion-botones-amazon-fire-tv-deberias-probar-1339814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/combinacion-botones-amazon-fire-stick-ofrece-funcion-sonido-desconocida-3230294.jpg?tf=1200x' alt='La desconocida combinación de botones del Amazon Fire TV que deberías probar' />
+    <h4><a href='https://computerhoy.com/ciencia/descubren-neuronas-gusanos-tienen-propio-wifi-1339876'>Descubren que las neuronas de los gusanos tienen su propio WiFi para comunicarse a distancia</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-neuronas-gusanos-tienen-propio-wifi-1339876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/descubren-neuronas-gusanos-tienen-propio-wifi-comunicarse-distancia-3230422.jpg?tf=1200x' alt='Descubren que las neuronas de los gusanos tienen su propio WiFi para comunicarse a distancia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-airpods-xiaomi-tienen-anc-precio-risa-apenas-superan-50-euros-1339032'>Son los AirPods de Xiaomi, tienen ANC y precio de risa: apenas superan los 50 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-airpods-xiaomi-tienen-anc-precio-risa-apenas-superan-50-euros-1339032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-redmi-buds-4-pro-3228616.jpg?tf=1200x' alt='Son los AirPods de Xiaomi, tienen ANC y precio de risa: apenas superan los 50 euros' />
+    <h4><a href='https://computerhoy.com/life/genial-truco-viral-japones-toalla-secar-ropa-dentro-casa-invierno-rapido-olor-humedad-1339896'>El genial truco viral japonés de la toalla para secar la ropa dentro de casa en invierno, rápido y sin olor a humedad</a></h4>
+    <a href='https://computerhoy.com/life/genial-truco-viral-japones-toalla-secar-ropa-dentro-casa-invierno-rapido-olor-humedad-1339896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tender-ropa-3230466.jpg?tf=1200x' alt='El genial truco viral japonés de la toalla para secar la ropa dentro de casa en invierno, rápido y sin olor a humedad' />
     </a>
 </div>
 
