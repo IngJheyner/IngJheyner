@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/mejores-auriculares-inalambricos-mercado-bajan-250-euros-1339756'>Ni Apple ni Samsung: Sony vende los mejores auriculares inalámbricos del mercado, y ahora en oferta</a></h4>
-    <a href='https://computerhoy.com/audio/mejores-auriculares-inalambricos-mercado-bajan-250-euros-1339756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/sony-wf-1000xm5-3091556.jpg?tf=1200x' alt='Ni Apple ni Samsung: Sony vende los mejores auriculares inalámbricos del mercado, y ahora en oferta' />
+    <h4><a href='https://computerhoy.com/google/google-maps-actualizan-tres-nuevas-esperadas-funciones-1339830'>Google Maps se actualiza con tres nuevas funciones y se distancia, aún más, de su competencia</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-actualizan-tres-nuevas-esperadas-funciones-1339830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tres-nuevas-funciones-google-maps-mejoraran-experiencia-navegacio-3230340.jpg?tf=1200x' alt='Google Maps se actualiza con tres nuevas funciones y se distancia, aún más, de su competencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/trucos-ocu-no-cambiar-movil-1339644'>Estos son los 5 sencillos trucos que da la OCU para no tener que cambiar de móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/trucos-ocu-no-cambiar-movil-1339644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sencillo-truco-evitar-movil-escuche-conversaciones-3207452.jpg?tf=1200x' alt='Estos son los 5 sencillos trucos que da la OCU para no tener que cambiar de móvil' />
+    <h4><a href='https://computerhoy.com/tutoriales/fakedetail-crear-conversacion-falsa-whatsapp-1336194'>Fakedetail WhatsApp: cómo crear un chat o conversación falsa de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/fakedetail-crear-conversacion-falsa-whatsapp-1336194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fakedetail-whatsapp-como-crear-chat-conversacion-falsa-whatsapp-3223838.jpg?tf=1200x' alt='Fakedetail WhatsApp: cómo crear un chat o conversación falsa de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/era-google-maps-romanos-viaje-ano-20-c-1277838'>Así era el Google Maps de los romanos: un viaje al año 20 antes de Cristo</a></h4>
-    <a href='https://computerhoy.com/life/era-google-maps-romanos-viaje-ano-20-c-1277838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-maps-roma-3088084.jpg?tf=1200x' alt='Así era el Google Maps de los romanos: un viaje al año 20 antes de Cristo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-hoy-tdt-sentencia-muerte-1339856'>Qué película ver en la TDT hoy: el drama de una venganza justa, pero que te convierte en un monstruo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-ver-hoy-tdt-sentencia-muerte-1339856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pelicula-ver-hoy-tdt-drama-venganza-justa-pero-va-ley-3230328.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: el drama de una venganza justa, pero que te convierte en un monstruo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-crear-videos-ia-gracias-herramienta-creadores-stable-diffusion-1339698'>Los creadores de Stable Diffusion lanzan una herramienta que permite crear vídeos con IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-puedes-crear-videos-ia-gracias-herramienta-creadores-stable-diffusion-1339698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/stable-video-diffusion-ia-3230090.jpg?tf=1200x' alt='Los creadores de Stable Diffusion lanzan una herramienta que permite crear vídeos con IA' />
+    <h4><a href='https://computerhoy.com/amazon/desconocida-combinacion-botones-amazon-fire-tv-deberias-probar-1339814'>La desconocida combinación de botones del Amazon Fire TV que deberías probar</a></h4>
+    <a href='https://computerhoy.com/amazon/desconocida-combinacion-botones-amazon-fire-tv-deberias-probar-1339814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/combinacion-botones-amazon-fire-stick-ofrece-funcion-sonido-desconocida-3230294.jpg?tf=1200x' alt='La desconocida combinación de botones del Amazon Fire TV que deberías probar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejor-capaz-reloj-fitbit-barato-nunca-1339668'>El mejor y más capaz reloj de Fitbit está más barato que nunca este Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejor-capaz-reloj-fitbit-barato-nunca-1339668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/fitbit-versa-4-3040308.jpg?tf=1200x' alt='El mejor y más capaz reloj de Fitbit está más barato que nunca este Black Friday' />
+    <h4><a href='https://computerhoy.com/tecnologia/son-airpods-xiaomi-tienen-anc-precio-risa-apenas-superan-50-euros-1339032'>Son los AirPods de Xiaomi, tienen ANC y precio de risa: apenas superan los 50 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/son-airpods-xiaomi-tienen-anc-precio-risa-apenas-superan-50-euros-1339032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-redmi-buds-4-pro-3228616.jpg?tf=1200x' alt='Son los AirPods de Xiaomi, tienen ANC y precio de risa: apenas superan los 50 euros' />
     </a>
 </div>
 
