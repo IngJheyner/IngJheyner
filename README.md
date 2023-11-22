@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/mejores-auriculares-inalambricos-mercado-bajan-250-euros-1339756'>Ni Apple ni Samsung: Sony vende los mejores auriculares inalámbricos del mercado, y ahora en oferta</a></h4>
+    <a href='https://computerhoy.com/audio/mejores-auriculares-inalambricos-mercado-bajan-250-euros-1339756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/sony-wf-1000xm5-3091556.jpg?tf=1200x' alt='Ni Apple ni Samsung: Sony vende los mejores auriculares inalámbricos del mercado, y ahora en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/trucos-ocu-no-cambiar-movil-1339644'>Estos son los 5 sencillos trucos que da la OCU para no tener que cambiar de móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/trucos-ocu-no-cambiar-movil-1339644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sencillo-truco-evitar-movil-escuche-conversaciones-3207452.jpg?tf=1200x' alt='Estos son los 5 sencillos trucos que da la OCU para no tener que cambiar de móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/era-google-maps-romanos-viaje-ano-20-c-1277838'>Así era el Google Maps de los romanos: un viaje al año 20 antes de Cristo</a></h4>
     <a href='https://computerhoy.com/life/era-google-maps-romanos-viaje-ano-20-c-1277838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-maps-roma-3088084.jpg?tf=1200x' alt='Así era el Google Maps de los romanos: un viaje al año 20 antes de Cristo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mejor-capaz-reloj-fitbit-barato-nunca-1339668'>El mejor y más capaz reloj de Fitbit está más barato que nunca este Black Friday</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejor-capaz-reloj-fitbit-barato-nunca-1339668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/fitbit-versa-4-3040308.jpg?tf=1200x' alt='El mejor y más capaz reloj de Fitbit está más barato que nunca este Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-lidl-1271064'>Equivalencias de los perfumes y colonias de Lidl</a></h4>
-    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-lidl-1271064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/perfumes-lidl-3076714.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Lidl' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/famoso-te-pareces-1039875'>A qué famoso te pareces   </a></h4>
-    <a href='https://computerhoy.com/noticias/life/famoso-te-pareces-1039875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/famoso-te-pareces-2666203.jpg?tf=1200x' alt='A qué famoso te pareces   ' />
     </a>
 </div>
 
