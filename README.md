@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/elon-musk-usa-video-el-risitas-mofarse-openai-1339316'>Elon Musk usa el mítico vídeo de El Risitas para burlarse de Sam Altman y OpenAI</a></h4>
+    <a href='https://computerhoy.com/life/elon-musk-usa-video-el-risitas-mofarse-openai-1339316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-usa-mitico-video-risitas-mofarse-openai-3229378.jpg?tf=1200x' alt='Elon Musk usa el mítico vídeo de El Risitas para burlarse de Sam Altman y OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/dimite-ceo-binance-criptomonedas-changpeng-zhao-1339308'>Changpeng Zhao, CEO de Binance y gurú de las criptomonedas, dimite: pagará 4.300 millones de dólares de multa por blanqueo de dinero</a></h4>
+    <a href='https://computerhoy.com/criptos/dimite-ceo-binance-criptomonedas-changpeng-zhao-1339308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/director-ejecutivo-binance-changpeng-zhao-2994432.jpg?tf=1200x' alt='Changpeng Zhao, CEO de Binance y gurú de las criptomonedas, dimite: pagará 4.300 millones de dólares de multa por blanqueo de dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/truco-definitivo-iniciar-sesion-whatsapp-sin-movil-1339288'>El truco definitivo para iniciar sesión en WhatsApp aunque no encuentres tu móvil</a></h4>
+    <a href='https://computerhoy.com/apple/truco-definitivo-iniciar-sesion-whatsapp-sin-movil-1339288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funcion-enviar-mensajes-audio-whatsapp-manos-sorprendentemente-casi-nadie-conoce-3204522.jpg?tf=1200x' alt='El truco definitivo para iniciar sesión en WhatsApp aunque no encuentres tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/steve-jobs-equivoco-macbook-vuelven-tener-internet-movil-1339268'>¿Steve Jobs se equivocó? La función que quitó vuelve a MacBook</a></h4>
     <a href='https://computerhoy.com/apple/steve-jobs-equivoco-macbook-vuelven-tener-internet-movil-1339268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/steve-jobs-equivoco-funcion-quito-vuelve-macbook-internet-wifi-como-movil-3229158.jpg?tf=1200x' alt='¿Steve Jobs se equivocó? La función que quitó vuelve a MacBook' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/canon-pc-gaming-32gb-ram-ryzen-7-desploma-precio-600-euros-1338424'>Este cañón de PC Gaming con 32GB de RAM y Ryzen 7 desploma su precio en 600 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/canon-pc-gaming-32gb-ram-ryzen-7-desploma-precio-600-euros-1338424' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pccom-imperial-3227774.jpg?tf=1200x' alt='Este cañón de PC Gaming con 32GB de RAM y Ryzen 7 desploma su precio en 600 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/domina-rutina-diaria-estos-10-trucos-alexa-amazon-echo-1339276'>Domina tu rutina diaria con estos 10 trucos para Alexa y Amazon Echo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/domina-rutina-diaria-estos-10-trucos-alexa-amazon-echo-1339276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-echo-4-3229170.jpg?tf=1200x' alt='Domina tu rutina diaria con estos 10 trucos para Alexa y Amazon Echo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/de-profesora-a-onlyfans-cecilia-sopena-1339248'>De profesora de matemáticas a OnlyFans para poder tener tiempo para lo que importa</a></h4>
-    <a href='https://computerhoy.com/life/de-profesora-a-onlyfans-cecilia-sopena-1339248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/onlyfans-2659275.jpg?tf=1200x' alt='De profesora de matemáticas a OnlyFans para poder tener tiempo para lo que importa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-convencerte-utilices-windows-copilot-windows-11-windows-10-1339264'>Microsoft quiere convencerte de que utilices Windows Copilot en Windows 11 y Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-quiere-convencerte-utilices-windows-copilot-windows-11-windows-10-1339264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/copilot-3140950.jpg?tf=1200x' alt='Microsoft quiere convencerte de que utilices Windows Copilot en Windows 11 y Windows 10' />
     </a>
 </div>
 
