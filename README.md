@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/era-google-maps-romanos-viaje-ano-20-c-1277838'>Así era el Google Maps de los romanos: un viaje al año 20 antes de Cristo</a></h4>
+    <a href='https://computerhoy.com/life/era-google-maps-romanos-viaje-ano-20-c-1277838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-maps-roma-3088084.jpg?tf=1200x' alt='Así era el Google Maps de los romanos: un viaje al año 20 antes de Cristo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-crear-videos-ia-gracias-herramienta-creadores-stable-diffusion-1339698'>Los creadores de Stable Diffusion lanzan una herramienta que permite crear vídeos con IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-puedes-crear-videos-ia-gracias-herramienta-creadores-stable-diffusion-1339698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/stable-video-diffusion-ia-3230090.jpg?tf=1200x' alt='Los creadores de Stable Diffusion lanzan una herramienta que permite crear vídeos con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejor-capaz-reloj-fitbit-barato-nunca-1339668'>El mejor y más capaz reloj de Fitbit está más barato que nunca este Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejor-capaz-reloj-fitbit-barato-nunca-1339668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/fitbit-versa-4-3040308.jpg?tf=1200x' alt='El mejor y más capaz reloj de Fitbit está más barato que nunca este Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-lidl-1271064'>Equivalencias de los perfumes y colonias de Lidl</a></h4>
+    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-lidl-1271064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/perfumes-lidl-3076714.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Lidl' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/famoso-te-pareces-1039875'>A qué famoso te pareces   </a></h4>
     <a href='https://computerhoy.com/noticias/life/famoso-te-pareces-1039875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/famoso-te-pareces-2666203.jpg?tf=1200x' alt='A qué famoso te pareces   ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cierre-omegle-da-paso-duras-declaraciones-afectados-falta-control-sitio-1339626'>El adiós a Omegle y las duras declaraciones de afectados: "Cómo conseguí cerrar este peligroso sitio"</a></h4>
-    <a href='https://computerhoy.com/internet/cierre-omegle-da-paso-duras-declaraciones-afectados-falta-control-sitio-1339626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/omegle-3229938.jpg?tf=1200x' alt='El adiós a Omegle y las duras declaraciones de afectados: "Cómo conseguí cerrar este peligroso sitio"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-roba-black-friday-apple-watch-desploma-precio-triunfa-ventas-1339004'>Apple se roba el Black Friday: el Apple Watch SE desploma su precio y triunfa en ventas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-roba-black-friday-apple-watch-desploma-precio-triunfa-ventas-1339004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/apple-watch-2288841.jpg?tf=1200x' alt='Apple se roba el Black Friday: el Apple Watch SE desploma su precio y triunfa en ventas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/quien-podria-suceder-tim-cook-planes-ceo-apple-1339582'>¿Quién podría suceder a Tim Cook? Los planes de sucesión del CEO de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/quien-podria-suceder-tim-cook-planes-ceo-apple-1339582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/entrevista-tim-cook-3229824.jpg?tf=1200x' alt='¿Quién podría suceder a Tim Cook? Los planes de sucesión del CEO de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mano-tiene-16gb-ram-precio-mini-pc-pone-amazon-reves-1338928'>Cabe en tu mano y tiene 16GB de RAM: el precio de este Mini PC pone Amazon del revés</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mano-tiene-16gb-ram-precio-mini-pc-pone-amazon-reves-1338928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nipogi-ak1-pro-3062680.jpg?tf=1200x' alt='Cabe en tu mano y tiene 16GB de RAM: el precio de este Mini PC pone Amazon del revés' />
     </a>
 </div>
 
