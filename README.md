@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/240-hz-ryzen-9-bestial-portatil-gaming-te-lleva-jugar-ultra-incluso-4k-1338880'>240 Hz y Ryzen 9: este bestial portátil gaming te lleva a jugar en Ultra incluso en 4K</a></h4>
+    <a href='https://computerhoy.com/tecnologia/240-hz-ryzen-9-bestial-portatil-gaming-te-lleva-jugar-ultra-incluso-4k-1338880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/msi-alpha-17-c7vf-022xes-3228384.jpg?tf=1200x' alt='240 Hz y Ryzen 9: este bestial portátil gaming te lleva a jugar en Ultra incluso en 4K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/nueva-pelicula-karate-kid-2024-jackie-chan-ralph-macchio-1339508'>Sony Pictures anuncia nueva película de Karate Kid, con Jackie Chan y Ralph Macchio repitiendo sus papeles de hace décadas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/nueva-pelicula-karate-kid-2024-jackie-chan-ralph-macchio-1339508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sony-pictures-anuncia-nueva-pelicula-karate-kid-jackie-chan-ralph-macchio-repitiendo-papeles-hace-tres-decadas-3229618.jpg?tf=1200x' alt='Sony Pictures anuncia nueva película de Karate Kid, con Jackie Chan y Ralph Macchio repitiendo sus papeles de hace décadas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/razones-gpt-store-ya-dando-hablar-1339118'>Las razones por la que la GPT Store ya está dando de qué hablar</a></h4>
     <a href='https://computerhoy.com/tecnologia/razones-gpt-store-ya-dando-hablar-1339118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/razones-gpt-store-ya-dando-hablar-3228832.jpg?tf=1200x' alt='Las razones por la que la GPT Store ya está dando de qué hablar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/elon-musk-usa-video-el-risitas-mofarse-openai-1339316'>Elon Musk usa el mítico vídeo de El Risitas para burlarse de Sam Altman y OpenAI</a></h4>
-    <a href='https://computerhoy.com/life/elon-musk-usa-video-el-risitas-mofarse-openai-1339316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-usa-mitico-video-risitas-mofarse-openai-3229378.jpg?tf=1200x' alt='Elon Musk usa el mítico vídeo de El Risitas para burlarse de Sam Altman y OpenAI' />
     </a>
 </div>
 
