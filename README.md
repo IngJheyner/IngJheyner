@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-656-computer-hoy-1336240'>¡Ya está en tu quiosco el número 656 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-656-computer-hoy-1336240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/computer-hoy-656-3225574.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 656 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/proyecto-q-misteriosa-carta-fueron-suficientes-despedir-sam-altman-openai-1340144'>El proyecto Q* y una misteriosa carta fueron suficientes para despedir a Sam Altman de OpenAI </a></h4>
+    <a href='https://computerhoy.com/tecnologia/proyecto-q-misteriosa-carta-fueron-suficientes-despedir-sam-altman-openai-1340144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/proyecto-ia-sam-altman-3230814.jpg?tf=1200x' alt='El proyecto Q* y una misteriosa carta fueron suficientes para despedir a Sam Altman de OpenAI ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cuantos-minutos-ejercicio-compensar-dia-sentado-1340114'>Expertos calculan cuántos minutos de ejercicio hay que hacer para compensar un día sentado</a></h4>
+    <a href='https://computerhoy.com/life/cuantos-minutos-ejercicio-compensar-dia-sentado-1340114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/expertos-calculan-cuantos-minutos-ejercicio-hay-hacer-compensar-dia-sentado-3230756.jpg?tf=1200x' alt='Expertos calculan cuántos minutos de ejercicio hay que hacer para compensar un día sentado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/no-te-vas-creer-precio-tv-65-qled-amazon-ha-tumbado-precio-1339148'>No te vas a creer el precio de esta TV de 65" QLED: Amazon ha tumbado su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-te-vas-creer-precio-tv-65-qled-amazon-ha-tumbado-precio-1339148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hisense-65a6g-2749913.jpg?tf=1200x' alt='No te vas a creer el precio de esta TV de 65" QLED: Amazon ha tumbado su precio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/ventas-moviles-crecen-fin-27-meses-despues-causas-1339674'>Las ventas de móviles por fin crecen: los buenos datos de octubre dejan atrás 27 meses consecutivos de caídas</a></h4>
     <a href='https://computerhoy.com/moviles/ventas-moviles-crecen-fin-27-meses-despues-causas-1339674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/suben-ventas-moviles-3230126.jpg?tf=1200x' alt='Las ventas de móviles por fin crecen: los buenos datos de octubre dejan atrás 27 meses consecutivos de caídas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/jbl-authentics-300-altavoz-del-siglo-21-con-corazon-del-siglo-20-1332088'>Análisis JBL Authentics 300: sonido del siglo XXI con apariencia de siglo XX</a></h4>
-    <a href='https://computerhoy.com/analisis/jbl-authentics-300-altavoz-del-siglo-21-con-corazon-del-siglo-20-1332088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/jbl-authentics-300-3227526.jpg?tf=1200x' alt='Análisis JBL Authentics 300: sonido del siglo XXI con apariencia de siglo XX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/aumentan-flatulencias-espacio-pero-son-menos-olorosas-gravedad-0-1339160'>Aventuras en el espacio: aumentan las flatulencias, pero son menos olorosas con gravedad 0</a></h4>
-    <a href='https://computerhoy.com/ciencia/aumentan-flatulencias-espacio-pero-son-menos-olorosas-gravedad-0-1339160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aventuras-espacio-aumentan-flatulencias-pero-son-menos-olorosas-gravedad-0-3228996.jpg?tf=1200x' alt='Aventuras en el espacio: aumentan las flatulencias, pero son menos olorosas con gravedad 0' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pantalla-2k-precio-digno-xiaomi-tablet-lenovo-revienta-precio-amazon-1339108'>Pantalla 2K y precio digno de Xiaomi: esta tablet Lenovo revienta su precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pantalla-2k-precio-digno-xiaomi-tablet-lenovo-revienta-precio-amazon-1339108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-tab-m10-plus-3228742.jpg?tf=1200x' alt='Pantalla 2K y precio digno de Xiaomi: esta tablet Lenovo revienta su precio en Amazon' />
     </a>
 </div>
 
