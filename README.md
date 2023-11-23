@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7x-carga-solar-oferta-black-friday-deja-mitad-precio-1338864'>Garmin revienta el Black Friday: el Fenix 7X Solar aterriza a mitad de precio y con 400 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-fenix-7x-carga-solar-oferta-black-friday-deja-mitad-precio-1338864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7x-pro-solar-3212838.jpg?tf=1200x' alt='Garmin revienta el Black Friday: el Fenix 7X Solar aterriza a mitad de precio y con 400 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/dormir-japonesa-razones-usar-futon-1336558'>Dormir a la japonesa: 5 razones por las que no es una locura cambiar la cama por un futón</a></h4>
+    <a href='https://computerhoy.com/life/dormir-japonesa-razones-usar-futon-1336558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dormir-japonesa-5-razones-no-locura-usar-futon-3224408.jpg?tf=1200x' alt='Dormir a la japonesa: 5 razones por las que no es una locura cambiar la cama por un futón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/odias-nuevos-colores-google-maps-puedes-evitarlos-1339906'>¿Odias los nuevos colores de Google Maps? Tranquilo, hay una forma de evitarlos</a></h4>
     <a href='https://computerhoy.com/google/odias-nuevos-colores-google-maps-puedes-evitarlos-1339906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/odias-nuevos-colores-google-maps-tranquilo-hay-forma-evitarlos-3230528.jpg?tf=1200x' alt='¿Odias los nuevos colores de Google Maps? Tranquilo, hay una forma de evitarlos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ahora-momento-gopro-hero11-tumba-precio-amazon-black-friday-1339060'>Ahora es el momento: la GoPro Hero11 tumba su precio en Amazon por el Black Friday</a></h4>
     <a href='https://computerhoy.com/tecnologia/ahora-momento-gopro-hero11-tumba-precio-amazon-black-friday-1339060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gopro-hero11-black-2957156.jpg?tf=1200x' alt='Ahora es el momento: la GoPro Hero11 tumba su precio en Amazon por el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/telefono-11827-gratuito-puede-reclamar-ves-factura-1336836'>Teléfono 11827: ¿qué es?, ¿es gratuito?, ¿se puede reclamar si lo ves en tu factura?</a></h4>
-    <a href='https://computerhoy.com/industria/telefono-11827-gratuito-puede-reclamar-ves-factura-1336836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/11827-3230176.jpg?tf=1200x' alt='Teléfono 11827: ¿qué es?, ¿es gratuito?, ¿se puede reclamar si lo ves en tu factura?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-neuronas-gusanos-tienen-propio-wifi-1339876'>Descubren que las neuronas de los gusanos tienen su propio WiFi para comunicarse a distancia</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-neuronas-gusanos-tienen-propio-wifi-1339876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/descubren-neuronas-gusanos-tienen-propio-wifi-comunicarse-distancia-3230422.jpg?tf=1200x' alt='Descubren que las neuronas de los gusanos tienen su propio WiFi para comunicarse a distancia' />
     </a>
 </div>
 
