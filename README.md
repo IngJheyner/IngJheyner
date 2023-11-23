@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/odias-nuevos-colores-google-maps-puedes-evitarlos-1339906'>¿Odias los nuevos colores de Google Maps? Tranquilo, hay una forma de evitarlos</a></h4>
+    <a href='https://computerhoy.com/google/odias-nuevos-colores-google-maps-puedes-evitarlos-1339906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/odias-nuevos-colores-google-maps-tranquilo-hay-forma-evitarlos-3230528.jpg?tf=1200x' alt='¿Odias los nuevos colores de Google Maps? Tranquilo, hay una forma de evitarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/creador-witcher-andrzej-sapkowski-netflix-nunca-escucho-ideas-serie-1339916'>El creador de The Witcher habla claro: "Netflix nunca escuchó mis ideas para la serie"</a></h4>
     <a href='https://computerhoy.com/entretenimiento/creador-witcher-andrzej-sapkowski-netflix-nunca-escucho-ideas-serie-1339916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/henry-cavill-como-geralt-rivia-witcher-3058518.jpg?tf=1200x' alt='El creador de The Witcher habla claro: "Netflix nunca escuchó mis ideas para la serie"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/descubren-neuronas-gusanos-tienen-propio-wifi-1339876'>Descubren que las neuronas de los gusanos tienen su propio WiFi para comunicarse a distancia</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-neuronas-gusanos-tienen-propio-wifi-1339876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/descubren-neuronas-gusanos-tienen-propio-wifi-comunicarse-distancia-3230422.jpg?tf=1200x' alt='Descubren que las neuronas de los gusanos tienen su propio WiFi para comunicarse a distancia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/genial-truco-viral-japones-toalla-secar-ropa-dentro-casa-invierno-rapido-olor-humedad-1339896'>El genial truco viral japonés de la toalla para secar la ropa dentro de casa en invierno, rápido y sin olor a humedad</a></h4>
-    <a href='https://computerhoy.com/life/genial-truco-viral-japones-toalla-secar-ropa-dentro-casa-invierno-rapido-olor-humedad-1339896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tender-ropa-3230466.jpg?tf=1200x' alt='El genial truco viral japonés de la toalla para secar la ropa dentro de casa en invierno, rápido y sin olor a humedad' />
     </a>
 </div>
 
