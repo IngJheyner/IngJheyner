@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/borrala-ahora-mismo-app-android-puede-acceder-fotos-videos-privados-1340232'>Deshazte de ellas: estas apps de Android pueden acceder a tus mensajes, fotos y vídeos privados</a></h4>
-    <a href='https://computerhoy.com/android/borrala-ahora-mismo-app-android-puede-acceder-fotos-videos-privados-1340232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aplicaciones-mensajes-android-seguridad-3230962.jpg?tf=1200x' alt='Deshazte de ellas: estas apps de Android pueden acceder a tus mensajes, fotos y vídeos privados' />
+    <h4><a href='https://computerhoy.com/tecnologia/10-errores-estan-danando-bateria-movil-sepas-1337430'>¡Cuidado! 10 errores que están estropeando la batería de tu móvil sin que lo sepas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/10-errores-estan-danando-bateria-movil-sepas-1337430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/consumo-bateria-movil-3206390.jpg?tf=1200x' alt='¡Cuidado! 10 errores que están estropeando la batería de tu móvil sin que lo sepas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/james-webb-revela-exoplaneta-esponjoso-nubes-arena-1340214'>El James Webb revela que este exoplaneta es ¿esponjoso y con nubes de arena?</a></h4>
-    <a href='https://computerhoy.com/espacio/james-webb-revela-exoplaneta-esponjoso-nubes-arena-1340214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/exoplaneta-james-webb-3230908.jpg?tf=1200x' alt='El James Webb revela que este exoplaneta es ¿esponjoso y con nubes de arena?' />
+    <h4><a href='https://computerhoy.com/tecnologia/me-compre-estos-auriculares-11-11-quizas-tambien-deberias-1335330'>Me compré estos auriculares en el 11 del 11 y quizás tú también deberías</a></h4>
+    <a href='https://computerhoy.com/tecnologia/me-compre-estos-auriculares-11-11-quizas-tambien-deberias-1335330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oneplus-nord-buds-2r-3231084.jpg?tf=1200x' alt='Me compré estos auriculares en el 11 del 11 y quizás tú también deberías' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/senal-laser-espacio-profundo-alcanza-tierra-primera-vez-1340250'>Una señal láser del espacio profundo alcanza la Tierra por primera vez</a></h4>
-    <a href='https://computerhoy.com/ciencia/senal-laser-espacio-profundo-alcanza-tierra-primera-vez-1340250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ilustracion-3d-satelite-laser-tierra-espacio-3231096.jpg?tf=1200x' alt='Una señal láser del espacio profundo alcanza la Tierra por primera vez' />
+    <h4><a href='https://computerhoy.com/noticias/life/esta-formula-te-dice-cuantas-calorias-debes-comer-dia-adelgazar-286837'>Con esta fórmula sabrás cuántas calorías debes comer al día para adelgazar, según tu peso, edad y altura</a></h4>
+    <a href='https://computerhoy.com/noticias/life/esta-formula-te-dice-cuantas-calorias-debes-comer-dia-adelgazar-286837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/calorias-alimentos-2119653.jpg?tf=1200x' alt='Con esta fórmula sabrás cuántas calorías debes comer al día para adelgazar, según tu peso, edad y altura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tengo-reloj-garmin-no-cambio-black-friday-acaba-desplomar-precio-1339244'>Tengo este reloj Garmin y no lo cambio: en el Black Friday acaba de desplomar su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tengo-reloj-garmin-no-cambio-black-friday-acaba-desplomar-precio-1339244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/garmin-swim-2-3147086.jpg?tf=1200x' alt='Tengo este reloj Garmin y no lo cambio: en el Black Friday acaba de desplomar su precio' />
+    <h4><a href='https://computerhoy.com/tecnologia/dentista-compraria-black-friday-irrigador-32000-opiniones-1340124'>Esto es lo que tu dentista se compraría en el Black Friday: un irrigador con 32.000 opiniones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dentista-compraria-black-friday-irrigador-32000-opiniones-1340124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oral-b-centro-salud-bucal-3229216.jpg?tf=1200x' alt='Esto es lo que tu dentista se compraría en el Black Friday: un irrigador con 32.000 opiniones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/descubren-fallo-sensor-huellas-windows-hello-1340258'>Descubren un fallo de seguridad en el sensor de huellas de Windows Hello que afecta a miles de portátiles</a></h4>
-    <a href='https://computerhoy.com/windows/descubren-fallo-sensor-huellas-windows-hello-1340258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sensor-huellas-ordenador-3231080.jpg?tf=1200x' alt='Descubren un fallo de seguridad en el sensor de huellas de Windows Hello que afecta a miles de portátiles' />
+    <h4><a href='https://computerhoy.com/google/atascos-navidad-funcion-google-maps-te-avisa-mejores-horas-conducir-1340254'>¿Atascos en Navidad? Esta función de Google Maps te avisa de las mejores horas para conducir</a></h4>
+    <a href='https://computerhoy.com/google/atascos-navidad-funcion-google-maps-te-avisa-mejores-horas-conducir-1340254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/conduccion-navidad-google-maps-3231020.jpg?tf=1200x' alt='¿Atascos en Navidad? Esta función de Google Maps te avisa de las mejores horas para conducir' />
     </a>
 </div>
 
