@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/borrala-ahora-mismo-app-android-puede-acceder-fotos-videos-privados-1340232'>Deshazte de ellas: estas apps de Android pueden acceder a tus mensajes, fotos y vídeos privados</a></h4>
+    <a href='https://computerhoy.com/android/borrala-ahora-mismo-app-android-puede-acceder-fotos-videos-privados-1340232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aplicaciones-mensajes-android-seguridad-3230962.jpg?tf=1200x' alt='Deshazte de ellas: estas apps de Android pueden acceder a tus mensajes, fotos y vídeos privados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/james-webb-revela-exoplaneta-esponjoso-nubes-arena-1340214'>El James Webb revela que este exoplaneta es ¿esponjoso y con nubes de arena?</a></h4>
     <a href='https://computerhoy.com/espacio/james-webb-revela-exoplaneta-esponjoso-nubes-arena-1340214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/exoplaneta-james-webb-3230908.jpg?tf=1200x' alt='El James Webb revela que este exoplaneta es ¿esponjoso y con nubes de arena?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/descubren-fallo-sensor-huellas-windows-hello-1340258'>Descubren un fallo de seguridad en el sensor de huellas de Windows Hello que afecta a miles de portátiles</a></h4>
     <a href='https://computerhoy.com/windows/descubren-fallo-sensor-huellas-windows-hello-1340258' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sensor-huellas-ordenador-3231080.jpg?tf=1200x' alt='Descubren un fallo de seguridad en el sensor de huellas de Windows Hello que afecta a miles de portátiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/lenovo-demanda-asus-usar-patentes-portatiles-zenbook-pro-flip-14-1340192'>Lenovo demanda a Asus por usar sus patentes en los portátiles Zenbook Pro y Flip 14</a></h4>
-    <a href='https://computerhoy.com/pc/lenovo-demanda-asus-usar-patentes-portatiles-zenbook-pro-flip-14-1340192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/1_18.jpg?tf=1200x' alt='Lenovo demanda a Asus por usar sus patentes en los portátiles Zenbook Pro y Flip 14' />
     </a>
 </div>
 
