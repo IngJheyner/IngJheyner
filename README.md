@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-656-computer-hoy-1336240'>¡Ya está en tu quiosco el número 656 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-656-computer-hoy-1336240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/computer-hoy-656-3225574.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 656 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/espacio/james-webb-revela-exoplaneta-esponjoso-nubes-arena-1340214'>El James Webb revela que este exoplaneta es ¿esponjoso y con nubes de arena?</a></h4>
+    <a href='https://computerhoy.com/espacio/james-webb-revela-exoplaneta-esponjoso-nubes-arena-1340214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/exoplaneta-james-webb-3230908.jpg?tf=1200x' alt='El James Webb revela que este exoplaneta es ¿esponjoso y con nubes de arena?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/proyecto-q-misteriosa-carta-fueron-suficientes-despedir-sam-altman-openai-1340144'>El proyecto Q* y una misteriosa carta fueron suficientes para despedir a Sam Altman de OpenAI </a></h4>
-    <a href='https://computerhoy.com/tecnologia/proyecto-q-misteriosa-carta-fueron-suficientes-despedir-sam-altman-openai-1340144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/proyecto-ia-sam-altman-3230814.jpg?tf=1200x' alt='El proyecto Q* y una misteriosa carta fueron suficientes para despedir a Sam Altman de OpenAI ' />
+    <h4><a href='https://computerhoy.com/ciencia/senal-laser-espacio-profundo-alcanza-tierra-primera-vez-1340250'>Una señal láser del espacio profundo alcanza la Tierra por primera vez</a></h4>
+    <a href='https://computerhoy.com/ciencia/senal-laser-espacio-profundo-alcanza-tierra-primera-vez-1340250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ilustracion-3d-satelite-laser-tierra-espacio-3231096.jpg?tf=1200x' alt='Una señal láser del espacio profundo alcanza la Tierra por primera vez' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuantos-minutos-ejercicio-compensar-dia-sentado-1340114'>Expertos calculan cuántos minutos de ejercicio hay que hacer para compensar un día sentado</a></h4>
-    <a href='https://computerhoy.com/life/cuantos-minutos-ejercicio-compensar-dia-sentado-1340114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/expertos-calculan-cuantos-minutos-ejercicio-hay-hacer-compensar-dia-sentado-3230756.jpg?tf=1200x' alt='Expertos calculan cuántos minutos de ejercicio hay que hacer para compensar un día sentado' />
+    <h4><a href='https://computerhoy.com/tecnologia/tengo-reloj-garmin-no-cambio-black-friday-acaba-desplomar-precio-1339244'>Tengo este reloj Garmin y no lo cambio: en el Black Friday acaba de desplomar su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tengo-reloj-garmin-no-cambio-black-friday-acaba-desplomar-precio-1339244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/garmin-swim-2-3147086.jpg?tf=1200x' alt='Tengo este reloj Garmin y no lo cambio: en el Black Friday acaba de desplomar su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-te-vas-creer-precio-tv-65-qled-amazon-ha-tumbado-precio-1339148'>No te vas a creer el precio de esta TV de 65" QLED: Amazon ha tumbado su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-te-vas-creer-precio-tv-65-qled-amazon-ha-tumbado-precio-1339148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hisense-65a6g-2749913.jpg?tf=1200x' alt='No te vas a creer el precio de esta TV de 65" QLED: Amazon ha tumbado su precio' />
+    <h4><a href='https://computerhoy.com/windows/descubren-fallo-sensor-huellas-windows-hello-1340258'>Descubren un fallo de seguridad en el sensor de huellas de Windows Hello que afecta a miles de portátiles</a></h4>
+    <a href='https://computerhoy.com/windows/descubren-fallo-sensor-huellas-windows-hello-1340258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sensor-huellas-ordenador-3231080.jpg?tf=1200x' alt='Descubren un fallo de seguridad en el sensor de huellas de Windows Hello que afecta a miles de portátiles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ventas-moviles-crecen-fin-27-meses-despues-causas-1339674'>Las ventas de móviles por fin crecen: los buenos datos de octubre dejan atrás 27 meses consecutivos de caídas</a></h4>
-    <a href='https://computerhoy.com/moviles/ventas-moviles-crecen-fin-27-meses-despues-causas-1339674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/suben-ventas-moviles-3230126.jpg?tf=1200x' alt='Las ventas de móviles por fin crecen: los buenos datos de octubre dejan atrás 27 meses consecutivos de caídas' />
+    <h4><a href='https://computerhoy.com/pc/lenovo-demanda-asus-usar-patentes-portatiles-zenbook-pro-flip-14-1340192'>Lenovo demanda a Asus por usar sus patentes en los portátiles Zenbook Pro y Flip 14</a></h4>
+    <a href='https://computerhoy.com/pc/lenovo-demanda-asus-usar-patentes-portatiles-zenbook-pro-flip-14-1340192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/1_18.jpg?tf=1200x' alt='Lenovo demanda a Asus por usar sus patentes en los portátiles Zenbook Pro y Flip 14' />
     </a>
 </div>
 
