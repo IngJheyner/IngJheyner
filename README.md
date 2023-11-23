@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-thriller-accion-mision-imposible-1340484'>Qué película ver en la TDT hoy: un thriller de acción con una misión imposible, colarse en una prisión inexpugnable</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-thriller-accion-mision-imposible-1340484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/roca-2041859.jpeg?tf=1200x' alt='Qué película ver en la TDT hoy: un thriller de acción con una misión imposible, colarse en una prisión inexpugnable' />
+    <h4><a href='https://computerhoy.com/life/cuidado-timo-falso-cambio-compania-haciendo-estragos-espana-1340508'>¡Cuidado! El timo del falso cambio de compañía que está haciendo estragos en España</a></h4>
+    <a href='https://computerhoy.com/life/cuidado-timo-falso-cambio-compania-haciendo-estragos-espana-1340508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/llamada-comercial-3231476.jpg?tf=1200x' alt='¡Cuidado! El timo del falso cambio de compañía que está haciendo estragos en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/frases-miticas-napoleon-adelanto-tiempo-1339662'>5 frases míticas con las que Napoleón se adelantó a su tiempo (y que siguen siendo ciertas hoy)</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/frases-miticas-napoleon-adelanto-tiempo-1339662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/napoleon-2023-3198910.jpg?tf=1200x' alt='5 frases míticas con las que Napoleón se adelantó a su tiempo (y que siguen siendo ciertas hoy)' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-direccion-email-whatsapp-deberias-hacerlo-1339882'>Cómo añadir tu dirección de email a WhatsApp y por qué deberías hacerlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-anadir-direccion-email-whatsapp-deberias-hacerlo-1339882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-anadir-direccion-email-whatsapp-deberias-hacerlo-3230504.jpg?tf=1200x' alt='Cómo añadir tu dirección de email a WhatsApp y por qué deberías hacerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/rediseno-google-maps-no-convence-creadores-1340350'>El rediseño de Google Maps no ha dejado indiferente ni a sus creadores:"Han perdido una gran oportunidad, el mapa debería ser un lugar sagrado"</a></h4>
-    <a href='https://computerhoy.com/google/rediseno-google-maps-no-convence-creadores-1340350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/rediseno-google-maps-no-ha-dejado-indiferente-ni-creadoreshan-perdido-gran-oportunidad-mapa-deberia-ser-lugar-sagrado-3231252.jpg?tf=1200x' alt='El rediseño de Google Maps no ha dejado indiferente ni a sus creadores:"Han perdido una gran oportunidad, el mapa debería ser un lugar sagrado"' />
+    <h4><a href='https://computerhoy.com/life/requisitos-viajar-gratis-transporte-publico-2024-1340402'>Estos son los requisitos y condiciones que debes cumplir para viajar gratis en transporte público en 2024</a></h4>
+    <a href='https://computerhoy.com/life/requisitos-viajar-gratis-transporte-publico-2024-1340402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/autobus-3096030.jpg?tf=1200x' alt='Estos son los requisitos y condiciones que debes cumplir para viajar gratis en transporte público en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/peligro-multas-trafico-falsas-truco-infalible-detectarlas-1339692'>El peligro de las multas de tráfico falsas: el truco infalible para detectarlas</a></h4>
-    <a href='https://computerhoy.com/motor/peligro-multas-trafico-falsas-truco-infalible-detectarlas-1339692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/multa-2758211.jpg?tf=1200x' alt='El peligro de las multas de tráfico falsas: el truco infalible para detectarlas' />
+    <h4><a href='https://computerhoy.com/life/devastador-error-frigorifico-arruinando-comida-te-des-cuenta-1340506'>El devastador error con tu frigorífico que está arruinando la comida sin que te des cuenta</a></h4>
+    <a href='https://computerhoy.com/life/devastador-error-frigorifico-arruinando-comida-te-des-cuenta-1340506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/frigorifico-3231472.jpg?tf=1200x' alt='El devastador error con tu frigorífico que está arruinando la comida sin que te des cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-conquista-runners-polar-pacer-pro-desploma-precio-mejor-reloj-deportivo-black-friday-1338008'>Amazon conquista a los runners: el Polar Pacer Pro desploma su precio y es el mejor reloj deportivo del Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-conquista-runners-polar-pacer-pro-desploma-precio-mejor-reloj-deportivo-black-friday-1338008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/polar-pacer-pro-3226998.jpg?tf=1200x' alt='Amazon conquista a los runners: el Polar Pacer Pro desploma su precio y es el mejor reloj deportivo del Black Friday' />
+    <h4><a href='https://computerhoy.com/life/descanso-emocional-resulta-tan-importante-como-fisico-1330030'>Descanso emocional: qué es y por qué resulta tan importante como el físico</a></h4>
+    <a href='https://computerhoy.com/life/descanso-emocional-resulta-tan-importante-como-fisico-1330030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/descanso-emocional-resulta-tan-importante-como-fisico-3213004.jpg?tf=1200x' alt='Descanso emocional: qué es y por qué resulta tan importante como el físico' />
     </a>
 </div>
 
