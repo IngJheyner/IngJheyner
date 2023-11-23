@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-evitar-google-ralentice-navegador-ver-youtube-1339764'>Cómo evitar que Google ralentice tu navegador para ver YouTube</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-evitar-google-ralentice-navegador-ver-youtube-1339764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/youtube-3230920.jpg?tf=1200x' alt='Cómo evitar que Google ralentice tu navegador para ver YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-quiere-liar-tv-neo-qled-ia-1000-euros-barata-1339302'>Samsung la quiere liar: esta TV Neo QLED con IA es 1.000 euros más barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-quiere-liar-tv-neo-qled-ia-1000-euros-barata-1339302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/samsung-55qn85c-3229230.jpg?tf=1200x' alt='Samsung la quiere liar: esta TV Neo QLED con IA es 1.000 euros más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/10-errores-estan-danando-bateria-movil-sepas-1337430'>¡Cuidado! 10 errores que están estropeando la batería de tu móvil sin que lo sepas</a></h4>
     <a href='https://computerhoy.com/tecnologia/10-errores-estan-danando-bateria-movil-sepas-1337430' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/consumo-bateria-movil-3206390.jpg?tf=1200x' alt='¡Cuidado! 10 errores que están estropeando la batería de tu móvil sin que lo sepas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/esta-formula-te-dice-cuantas-calorias-debes-comer-dia-adelgazar-286837'>Con esta fórmula sabrás cuántas calorías debes comer al día para adelgazar, según tu peso, edad y altura</a></h4>
     <a href='https://computerhoy.com/noticias/life/esta-formula-te-dice-cuantas-calorias-debes-comer-dia-adelgazar-286837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/calorias-alimentos-2119653.jpg?tf=1200x' alt='Con esta fórmula sabrás cuántas calorías debes comer al día para adelgazar, según tu peso, edad y altura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dentista-compraria-black-friday-irrigador-32000-opiniones-1340124'>Esto es lo que tu dentista se compraría en el Black Friday: un irrigador con 32.000 opiniones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dentista-compraria-black-friday-irrigador-32000-opiniones-1340124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oral-b-centro-salud-bucal-3229216.jpg?tf=1200x' alt='Esto es lo que tu dentista se compraría en el Black Friday: un irrigador con 32.000 opiniones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/atascos-navidad-funcion-google-maps-te-avisa-mejores-horas-conducir-1340254'>¿Atascos en Navidad? Esta función de Google Maps te avisa de las mejores horas para conducir</a></h4>
-    <a href='https://computerhoy.com/google/atascos-navidad-funcion-google-maps-te-avisa-mejores-horas-conducir-1340254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/conduccion-navidad-google-maps-3231020.jpg?tf=1200x' alt='¿Atascos en Navidad? Esta función de Google Maps te avisa de las mejores horas para conducir' />
     </a>
 </div>
 
