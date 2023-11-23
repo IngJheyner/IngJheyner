@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7x-carga-solar-oferta-black-friday-deja-mitad-precio-1338864'>Garmin revienta el Black Friday: el Fenix 7X Solar aterriza a mitad de precio y con 400 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-fenix-7x-carga-solar-oferta-black-friday-deja-mitad-precio-1338864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7x-pro-solar-3212838.jpg?tf=1200x' alt='Garmin revienta el Black Friday: el Fenix 7X Solar aterriza a mitad de precio y con 400 euros de descuento' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-te-vas-creer-precio-tv-65-qled-amazon-ha-tumbado-precio-1339148'>No te vas a creer el precio de esta TV de 65" QLED: Amazon ha tumbado su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-te-vas-creer-precio-tv-65-qled-amazon-ha-tumbado-precio-1339148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/hisense-65a6g-2749913.jpg?tf=1200x' alt='No te vas a creer el precio de esta TV de 65" QLED: Amazon ha tumbado su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dormir-japonesa-razones-usar-futon-1336558'>Dormir a la japonesa: 5 razones por las que no es una locura cambiar la cama por un futón</a></h4>
-    <a href='https://computerhoy.com/life/dormir-japonesa-razones-usar-futon-1336558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dormir-japonesa-5-razones-no-locura-usar-futon-3224408.jpg?tf=1200x' alt='Dormir a la japonesa: 5 razones por las que no es una locura cambiar la cama por un futón' />
+    <h4><a href='https://computerhoy.com/moviles/ventas-moviles-crecen-fin-27-meses-despues-causas-1339674'>Las ventas de móviles por fin crecen: los buenos datos de octubre dejan atrás 27 meses consecutivos de caídas</a></h4>
+    <a href='https://computerhoy.com/moviles/ventas-moviles-crecen-fin-27-meses-despues-causas-1339674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/suben-ventas-moviles-3230126.jpg?tf=1200x' alt='Las ventas de móviles por fin crecen: los buenos datos de octubre dejan atrás 27 meses consecutivos de caídas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/odias-nuevos-colores-google-maps-puedes-evitarlos-1339906'>¿Odias los nuevos colores de Google Maps? Tranquilo, hay una forma de evitarlos</a></h4>
-    <a href='https://computerhoy.com/google/odias-nuevos-colores-google-maps-puedes-evitarlos-1339906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/odias-nuevos-colores-google-maps-tranquilo-hay-forma-evitarlos-3230528.jpg?tf=1200x' alt='¿Odias los nuevos colores de Google Maps? Tranquilo, hay una forma de evitarlos' />
+    <h4><a href='https://computerhoy.com/analisis/jbl-authentics-300-altavoz-del-siglo-21-con-corazon-del-siglo-20-1332088'>Análisis JBL Authentics 300: sonido del siglo XXI con apariencia de siglo XX</a></h4>
+    <a href='https://computerhoy.com/analisis/jbl-authentics-300-altavoz-del-siglo-21-con-corazon-del-siglo-20-1332088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/jbl-authentics-300-3227526.jpg?tf=1200x' alt='Análisis JBL Authentics 300: sonido del siglo XXI con apariencia de siglo XX' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/creador-witcher-andrzej-sapkowski-netflix-nunca-escucho-ideas-serie-1339916'>El creador de The Witcher habla claro: "Netflix nunca escuchó mis ideas para la serie"</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/creador-witcher-andrzej-sapkowski-netflix-nunca-escucho-ideas-serie-1339916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/henry-cavill-como-geralt-rivia-witcher-3058518.jpg?tf=1200x' alt='El creador de The Witcher habla claro: "Netflix nunca escuchó mis ideas para la serie"' />
+    <h4><a href='https://computerhoy.com/ciencia/aumentan-flatulencias-espacio-pero-son-menos-olorosas-gravedad-0-1339160'>Aventuras en el espacio: aumentan las flatulencias, pero son menos olorosas con gravedad 0</a></h4>
+    <a href='https://computerhoy.com/ciencia/aumentan-flatulencias-espacio-pero-son-menos-olorosas-gravedad-0-1339160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aventuras-espacio-aumentan-flatulencias-pero-son-menos-olorosas-gravedad-0-3228996.jpg?tf=1200x' alt='Aventuras en el espacio: aumentan las flatulencias, pero son menos olorosas con gravedad 0' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ahora-momento-gopro-hero11-tumba-precio-amazon-black-friday-1339060'>Ahora es el momento: la GoPro Hero11 tumba su precio en Amazon por el Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ahora-momento-gopro-hero11-tumba-precio-amazon-black-friday-1339060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gopro-hero11-black-2957156.jpg?tf=1200x' alt='Ahora es el momento: la GoPro Hero11 tumba su precio en Amazon por el Black Friday' />
+    <h4><a href='https://computerhoy.com/tecnologia/pantalla-2k-precio-digno-xiaomi-tablet-lenovo-revienta-precio-amazon-1339108'>Pantalla 2K y precio digno de Xiaomi: esta tablet Lenovo revienta su precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pantalla-2k-precio-digno-xiaomi-tablet-lenovo-revienta-precio-amazon-1339108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-tab-m10-plus-3228742.jpg?tf=1200x' alt='Pantalla 2K y precio digno de Xiaomi: esta tablet Lenovo revienta su precio en Amazon' />
     </a>
 </div>
 
