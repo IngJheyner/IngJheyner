@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/carrefour-deja-aspiradora-dyson-precio-jamas-visto-ademas-te-envia-gratis-1340764'>Carrefour deja una aspiradora Dyson a precio jamás visto y además te la envía gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/carrefour-deja-aspiradora-dyson-precio-jamas-visto-ademas-te-envia-gratis-1340764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dyson-v8-origin-origin-3078022.jpg?tf=1200x' alt='Carrefour deja una aspiradora Dyson a precio jamás visto y además te la envía gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tiktoker-usa-ia-parecer-embarazada-manda-fotos-exparejas-1340810'>Esta tiktoker usa la IA para parecer embarazada y le manda las fotos a sus exparejas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiktoker-usa-ia-parecer-embarazada-manda-fotos-exparejas-1340810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tiktoker-ia-3231826.jpg?tf=1200x' alt='Esta tiktoker usa la IA para parecer embarazada y le manda las fotos a sus exparejas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/black-friday-2023-mejores-robots-aspiradores-1340312'>El Black Friday huele a limpio: estos robos aspiradores hunden su precio de forma temporal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/black-friday-2023-mejores-robots-aspiradores-1340312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/robot-aspirador-3230992.jpg?tf=1200x' alt='El Black Friday huele a limpio: estos robos aspiradores hunden su precio de forma temporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-destroza-precio-android-tv-box-buscada-xiaomi-1340242'>Amazon destroza el precio de la Android TV Box más buscada, la de Xiaomi</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-destroza-precio-android-tv-box-buscada-xiaomi-1340242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-tv-box-s-4k-segunda-generacion-3014280.jpg?tf=1200x' alt='Amazon destroza el precio de la Android TV Box más buscada, la de Xiaomi' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/desliz-videollamada-cuesta-nvidia-demanda-presunto-robo-secretos-1340792'>Este desliz en una videollamada le cuesta a NVIDIA una demanda por presunto robo de secretos </a></h4>
     <a href='https://computerhoy.com/tecnologia/desliz-videollamada-cuesta-nvidia-demanda-presunto-robo-secretos-1340792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nvidia-3231818.jpg?tf=1200x' alt='Este desliz en una videollamada le cuesta a NVIDIA una demanda por presunto robo de secretos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/black-friday-2023-mejores-ofertas-auriculares-1340208'>Afina el oído para las ofertas: estos son los auriculares más top para comprar en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/black-friday-2023-mejores-ofertas-auriculares-1340208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-pixel-buds-pro-3230812.jpg?tf=1200x' alt='Afina el oído para las ofertas: estos son los auriculares más top para comprar en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-series-9-cuelan-black-friday-precio-ahora-1340492'>Los Apple Watch Series 9 se cuelan en el Black Friday con el precio más bajo hasta ahora</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-watch-series-9-cuelan-black-friday-precio-ahora-1340492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187108.jpg?tf=1200x' alt='Los Apple Watch Series 9 se cuelan en el Black Friday con el precio más bajo hasta ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752'>Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo</a></h4>
-    <a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/directo-computerhoy-black-friday-2023-3230128.jpg?tf=1200x' alt='Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo' />
     </a>
 </div>
 
