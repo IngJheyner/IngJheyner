@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hablan-maravillas-estos-auriculares-precio-tienen-black-friday-merece-pena-comprobar-son-ciertas-1339886'>Hablan maravillas de estos auriculares y, por el precio que tienen en el Black Friday, merece la pena comprobar si son ciertas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hablan-maravillas-estos-auriculares-precio-tienen-black-friday-merece-pena-comprobar-son-ciertas-1339886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/anker-soundcore-space-a40-3230410.jpg?tf=1200x' alt='Hablan maravillas de estos auriculares y, por el precio que tienen en el Black Friday, merece la pena comprobar si son ciertas' />
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-airpods-estos-beats-cuestan-mitad-tambien-tienen-siri-audio-espacial-1339592'>Olvida los AirPods: estos Beats cuestan la mitad y también tienen Siri y audio espacial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-airpods-estos-beats-cuestan-mitad-tambien-tienen-siri-audio-espacial-1339592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/beats-fit-pro-3229714.jpg?tf=1200x' alt='Olvida los AirPods: estos Beats cuestan la mitad y también tienen Siri y audio espacial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-podria-acabar-situaciones-polemicas-formula-1-1340860'>La IA podría acabar con una de las situaciones más polémicas de la Fórmula 1</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-podria-acabar-situaciones-polemicas-formula-1-1340860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/formula-1-3231996.jpg?tf=1200x' alt='La IA podría acabar con una de las situaciones más polémicas de la Fórmula 1' />
+    <h4><a href='https://computerhoy.com/motor/xiaomi-liquidando-patinetes-todos-modelos-caen-precio-picado-1340784'>Xiaomi está liquidando sus patinetes: todos los modelos caen de precio en picado</a></h4>
+    <a href='https://computerhoy.com/motor/xiaomi-liquidando-patinetes-todos-modelos-caen-precio-picado-1340784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/patinete-electrico-3231770.jpg?tf=1200x' alt='Xiaomi está liquidando sus patinetes: todos los modelos caen de precio en picado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/black-friday-momento-perfecto-hacerte-portatil-gaming-rebajado-tope-1340814'>Black Friday, el momento perfecto para hacerte con un portátil gaming rebajado a tope</a></h4>
-    <a href='https://computerhoy.com/tecnologia/black-friday-momento-perfecto-hacerte-portatil-gaming-rebajado-tope-1340814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/portatiles-msi-2985068.jpg?tf=1200x' alt='Black Friday, el momento perfecto para hacerte con un portátil gaming rebajado a tope' />
+    <h4><a href='https://computerhoy.com/noticias/internet/como-crear-cuenta-gmail-numero-telefono-76953'>Cómo crear una cuenta en Gmail sin número de teléfono </a></h4>
+    <a href='https://computerhoy.com/noticias/internet/como-crear-cuenta-gmail-numero-telefono-76953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-crear-cuenta-gmail-numero-telefono-3230754.jpg?tf=1200x' alt='Cómo crear una cuenta en Gmail sin número de teléfono ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-va-game-pass-revienta-precio-luna-mando-jugar-streaming-cualquier-parte-1339708'>Amazon va a por Game Pass y revienta el precio de Luna, su mando para jugar en streaming en cualquier parte</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-va-game-pass-revienta-precio-luna-mando-jugar-streaming-cualquier-parte-1339708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-luna-3230058.jpg?tf=1200x' alt='Amazon va a por Game Pass y revienta el precio de Luna, su mando para jugar en streaming en cualquier parte' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-videos-youtube-iphone-instalar-nada-1340744'>Cómo descargar vídeos de YouTube en iPhone sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-videos-youtube-iphone-instalar-nada-1340744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-descargar-videos-youtube-iphone-instalar-nada-3231748.jpg?tf=1200x' alt='Cómo descargar vídeos de YouTube en iPhone sin instalar nada' />
     </a>
 </div>
 
