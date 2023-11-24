@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-destroza-precio-android-tv-box-buscada-xiaomi-1340242'>Amazon destroza el precio de la Android TV Box más buscada, la de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-destroza-precio-android-tv-box-buscada-xiaomi-1340242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-tv-box-s-4k-segunda-generacion-3014280.jpg?tf=1200x' alt='Amazon destroza el precio de la Android TV Box más buscada, la de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/desliz-videollamada-cuesta-nvidia-demanda-presunto-robo-secretos-1340792'>Este desliz en una videollamada le cuesta a NVIDIA una demanda por presunto robo de secretos </a></h4>
+    <a href='https://computerhoy.com/tecnologia/desliz-videollamada-cuesta-nvidia-demanda-presunto-robo-secretos-1340792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nvidia-3231818.jpg?tf=1200x' alt='Este desliz en una videollamada le cuesta a NVIDIA una demanda por presunto robo de secretos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/black-friday-2023-mejores-ofertas-auriculares-1340208'>Afina el oído para las ofertas: estos son los auriculares más top para comprar en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/black-friday-2023-mejores-ofertas-auriculares-1340208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-pixel-buds-pro-3230812.jpg?tf=1200x' alt='Afina el oído para las ofertas: estos son los auriculares más top para comprar en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/apple-watch-series-9-cuelan-black-friday-precio-ahora-1340492'>Los Apple Watch Series 9 se cuelan en el Black Friday con el precio más bajo hasta ahora</a></h4>
     <a href='https://computerhoy.com/tecnologia/apple-watch-series-9-cuelan-black-friday-precio-ahora-1340492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187108.jpg?tf=1200x' alt='Los Apple Watch Series 9 se cuelan en el Black Friday con el precio más bajo hasta ahora' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752'>Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo</a></h4>
     <a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/directo-computerhoy-black-friday-2023-3230128.jpg?tf=1200x' alt='Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/todos-estos-moviles-quedan-tirados-precio-black-friday-1340396'>Todos estos móviles de gama media se han quedado tirados de precio en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/android/todos-estos-moviles-quedan-tirados-precio-black-friday-1340396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/poco-x5-poco-x5-pro-2976560.jpg?tf=1200x' alt='Todos estos móviles de gama media se han quedado tirados de precio en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tienes-renovar-portatil-aprovecha-alguna-estas-ofertas-son-mejores-todo-ano-1340528'>Si tienes que renovar portátil aprovecha alguna de estas ofertas, que son las mejores de todo el año</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tienes-renovar-portatil-aprovecha-alguna-estas-ofertas-son-mejores-todo-ano-1340528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ordenador-portatil-3208092.jpg?tf=1200x' alt='Si tienes que renovar portátil aprovecha alguna de estas ofertas, que son las mejores de todo el año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-oppo-usa-robots-fotos-salgan-perfectas-1338572'>Así son los peculiares robots con cabezas humanas que se hacen miles de selfis para que tus fotos salgan perfectas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-oppo-usa-robots-fotos-salgan-perfectas-1338572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oppo-image-lab-3228804.jpg?tf=1200x' alt='Así son los peculiares robots con cabezas humanas que se hacen miles de selfis para que tus fotos salgan perfectas' />
     </a>
 </div>
 
