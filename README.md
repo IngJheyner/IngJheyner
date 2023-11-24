@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-airpods-estos-beats-cuestan-mitad-tambien-tienen-siri-audio-espacial-1339592'>Olvida los AirPods: estos Beats cuestan la mitad y también tienen Siri y audio espacial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-airpods-estos-beats-cuestan-mitad-tambien-tienen-siri-audio-espacial-1339592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/beats-fit-pro-3229714.jpg?tf=1200x' alt='Olvida los AirPods: estos Beats cuestan la mitad y también tienen Siri y audio espacial' />
+    <h4><a href='https://computerhoy.com/android/google-pixel-8-pro-mejor-android-rebajado-100-euros-amazon-1341036'>Que tiemble el iPhone: el Pixel 8 Pro cae a solo 999€ en Amazon con un cupón</a></h4>
+    <a href='https://computerhoy.com/android/google-pixel-8-pro-mejor-android-rebajado-100-euros-amazon-1341036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191810.jpg?tf=1200x' alt='Que tiemble el iPhone: el Pixel 8 Pro cae a solo 999€ en Amazon con un cupón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/xiaomi-liquidando-patinetes-todos-modelos-caen-precio-picado-1340784'>Xiaomi está liquidando sus patinetes: todos los modelos caen de precio en picado</a></h4>
-    <a href='https://computerhoy.com/motor/xiaomi-liquidando-patinetes-todos-modelos-caen-precio-picado-1340784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/patinete-electrico-3231770.jpg?tf=1200x' alt='Xiaomi está liquidando sus patinetes: todos los modelos caen de precio en picado' />
+    <h4><a href='https://computerhoy.com/internet/cosas-no-deberias-publicar-redes-sociales-1340532'>10 cosas que jamás deberías publicar en las redes sociales</a></h4>
+    <a href='https://computerhoy.com/internet/cosas-no-deberias-publicar-redes-sociales-1340532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/10-cosas-jamas-deberias-publicar-redes-sociales-3231532.jpg?tf=1200x' alt='10 cosas que jamás deberías publicar en las redes sociales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/internet/como-crear-cuenta-gmail-numero-telefono-76953'>Cómo crear una cuenta en Gmail sin número de teléfono </a></h4>
-    <a href='https://computerhoy.com/noticias/internet/como-crear-cuenta-gmail-numero-telefono-76953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-crear-cuenta-gmail-numero-telefono-3230754.jpg?tf=1200x' alt='Cómo crear una cuenta en Gmail sin número de teléfono ' />
+    <h4><a href='https://computerhoy.com/tecnologia/camara-sony-arrasa-fotografos-amazon-liquidando-42-descuento-1340818'>Esta cámara Sony arrasa entre fotógrafos y Amazon la está liquidando con 42% de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/camara-sony-arrasa-fotografos-amazon-liquidando-42-descuento-1340818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/sony-alpha-7-ii-2152745.jpg?tf=1200x' alt='Esta cámara Sony arrasa entre fotógrafos y Amazon la está liquidando con 42% de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-videos-youtube-iphone-instalar-nada-1340744'>Cómo descargar vídeos de YouTube en iPhone sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-videos-youtube-iphone-instalar-nada-1340744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-descargar-videos-youtube-iphone-instalar-nada-3231748.jpg?tf=1200x' alt='Cómo descargar vídeos de YouTube en iPhone sin instalar nada' />
+    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-saber-cual-es-direccion-ip-mi-ordenador-24347'>¿Cuál es la dirección IP de mi ordenador? Cómo saber la IP en todos tus dispositivos</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/internet/como-saber-cual-es-direccion-ip-mi-ordenador-24347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cual-direccion-ip-mi-ordenador-como-saber-ip-todos-dispositivos-3231750.jpg?tf=1200x' alt='¿Cuál es la dirección IP de mi ordenador? Cómo saber la IP en todos tus dispositivos' />
     </a>
 </div>
 
