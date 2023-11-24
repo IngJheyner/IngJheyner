@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752'>Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo</a></h4>
+    <a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/directo-computerhoy-black-friday-2023-3230128.jpg?tf=1200x' alt='Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hablan-maravillas-estos-auriculares-precio-tienen-black-friday-merece-pena-comprobar-son-ciertas-1339886'>Hablan maravillas de estos auriculares y, por el precio que tienen en el Black Friday, merece la pena comprobar si son ciertas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hablan-maravillas-estos-auriculares-precio-tienen-black-friday-merece-pena-comprobar-son-ciertas-1339886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/anker-soundcore-space-a40-3230410.jpg?tf=1200x' alt='Hablan maravillas de estos auriculares y, por el precio que tienen en el Black Friday, merece la pena comprobar si son ciertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ia-podria-acabar-situaciones-polemicas-formula-1-1340860'>La IA podría acabar con una de las situaciones más polémicas de la Fórmula 1</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-podria-acabar-situaciones-polemicas-formula-1-1340860' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/formula-1-3231996.jpg?tf=1200x' alt='La IA podría acabar con una de las situaciones más polémicas de la Fórmula 1' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-va-game-pass-revienta-precio-luna-mando-jugar-streaming-cualquier-parte-1339708'>Amazon va a por Game Pass y revienta el precio de Luna, su mando para jugar en streaming en cualquier parte</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-va-game-pass-revienta-precio-luna-mando-jugar-streaming-cualquier-parte-1339708' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-luna-3230058.jpg?tf=1200x' alt='Amazon va a por Game Pass y revienta el precio de Luna, su mando para jugar en streaming en cualquier parte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/ultima-actualizacion-amazon-fire-tv-esconde-desagradable-sorpresa-1340844'>La última actualización de los Amazon Fire TV esconde una desagradable sorpresa</a></h4>
-    <a href='https://computerhoy.com/amazon/ultima-actualizacion-amazon-fire-tv-esconde-desagradable-sorpresa-1340844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-4k-max-2023-3229700.jpg?tf=1200x' alt='La última actualización de los Amazon Fire TV esconde una desagradable sorpresa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatiles-menos-300-euros-black-friday-posible-estos-son-mejores-1340462'>Portátiles por menos de 300 euros: en el Black Friday es posible y estos son los mejores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatiles-menos-300-euros-black-friday-posible-estos-son-mejores-1340462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-3223172.jpg?tf=1200x' alt='Portátiles por menos de 300 euros: en el Black Friday es posible y estos son los mejores' />
     </a>
 </div>
 
