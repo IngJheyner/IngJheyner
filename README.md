@@ -50,17 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/pantalla-proximo-iphone-podria-verse-peor-aunque-buen-motivo-1341122'>La pantalla de tu próximo iPhone podría verse peor, aunque por un buen motivo</a></h4>
-    <a href='https://computerhoy.com/apple/pantalla-proximo-iphone-podria-verse-peor-aunque-buen-motivo-1341122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/texto-pantalla-bloqueo-iphone-3149718.jpg?tf=1200x' alt='La pantalla de tu próximo iPhone podría verse peor, aunque por un buen motivo' />
+    <h4><a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752'>Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo</a></h4>
+    <a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/directo-computerhoy-black-friday-2023-3230128.jpg?tf=1200x' alt='Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752'>Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo</a></h4>
-    <a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/directo-computerhoy-black-friday-2023-3230128.jpg?tf=1200x' alt='Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo' />
+    <h4><a href='https://computerhoy.com/life/consejo-steve-jobs-conseguir-todo-quieres-1339922'>El consejo infalible de Steve Jobs para conseguir todo lo que quieres, y que casi siempre funciona</a></h4>
+    <a href='https://computerhoy.com/life/consejo-steve-jobs-conseguir-todo-quieres-1339922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/consejo-infalible-steve-jobs-conseguir-todo-quieres-casi-siempre-funciona-3230546.jpg?tf=1200x' alt='El consejo infalible de Steve Jobs para conseguir todo lo que quieres, y que casi siempre funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/pantalla-proximo-iphone-podria-verse-peor-aunque-buen-motivo-1341122'>La pantalla de tu próximo iPhone podría verse peor, aunque por un buen motivo</a></h4>
+    <a href='https://computerhoy.com/apple/pantalla-proximo-iphone-podria-verse-peor-aunque-buen-motivo-1341122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/texto-pantalla-bloqueo-iphone-3149718.jpg?tf=1200x' alt='La pantalla de tu próximo iPhone podría verse peor, aunque por un buen motivo' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/china-estan-desmantelando-miles-nvidia-geforce-rtx-4090-culpa-ia-1341118'>En China están desmantelando miles de NVIDIA GeForce RTX 4090 por culpa de la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/china-estan-desmantelando-miles-nvidia-geforce-rtx-4090-culpa-ia-1341118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2835443.jpg?tf=1200x' alt='En China están desmantelando miles de NVIDIA GeForce RTX 4090 por culpa de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/whatsapp-android-auto-problema-llamadas-1341082'>WhatsApp y Android Auto no se llevan bien y Google no consigue solucionarlo</a></h4>
-    <a href='https://computerhoy.com/google/whatsapp-android-auto-problema-llamadas-1341082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/whatsapp-android-auto-no-llevan-bien-google-no-consigue-solucionarlo-3232634.jpg?tf=1200x' alt='WhatsApp y Android Auto no se llevan bien y Google no consigue solucionarlo' />
     </a>
 </div>
 
