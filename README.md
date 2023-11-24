@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-series-9-cuelan-black-friday-precio-ahora-1340492'>Los Apple Watch Series 9 se cuelan en el Black Friday con el precio más bajo hasta ahora</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-watch-series-9-cuelan-black-friday-precio-ahora-1340492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187108.jpg?tf=1200x' alt='Los Apple Watch Series 9 se cuelan en el Black Friday con el precio más bajo hasta ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752'>Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo</a></h4>
     <a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/directo-computerhoy-black-friday-2023-3230128.jpg?tf=1200x' alt='Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/todos-estos-moviles-quedan-tirados-precio-black-friday-1340396'>Todos estos móviles de gama media se han quedado tirados de precio en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/android/todos-estos-moviles-quedan-tirados-precio-black-friday-1340396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/poco-x5-poco-x5-pro-2976560.jpg?tf=1200x' alt='Todos estos móviles de gama media se han quedado tirados de precio en el Black Friday' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-oppo-usa-robots-fotos-salgan-perfectas-1338572'>Así son los peculiares robots con cabezas humanas que se hacen miles de selfis para que tus fotos salgan perfectas</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-oppo-usa-robots-fotos-salgan-perfectas-1338572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oppo-image-lab-3228804.jpg?tf=1200x' alt='Así son los peculiares robots con cabezas humanas que se hacen miles de selfis para que tus fotos salgan perfectas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/black-friday-2023-mejores-freidoras-aire-1340274'>Que suba el aceite, te dará igual: estas freidoras de aire causan sensación en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/black-friday-2023-mejores-freidoras-aire-1340274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='Que suba el aceite, te dará igual: estas freidoras de aire causan sensación en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/npc-ceo-kpi-seo-otras-siglas-internet-casi-nadie-entiende-1336750'>NPC, CEO, KPI, SEO y otras siglas de Internet que casi nadie entiende</a></h4>
-    <a href='https://computerhoy.com/tutoriales/npc-ceo-kpi-seo-otras-siglas-internet-casi-nadie-entiende-1336750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/npc-ceo-kpi-seo-otras-siglas-internet-casi-nadie-entiende-3224804.jpg?tf=1200x' alt='NPC, CEO, KPI, SEO y otras siglas de Internet que casi nadie entiende' />
     </a>
 </div>
 
