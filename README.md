@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752'>Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo</a></h4>
-    <a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/directo-computerhoy-black-friday-2023-3230128.jpg?tf=1200x' alt='Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo' />
+    <h4><a href='https://computerhoy.com/motor/certificado-tendran-tener-todos-patinetes-electricos-2024-1340742'>Este es el nuevo certificado obligatorio que tendrán que tener los usuarios de patinete eléctrico en enero de 2024</a></h4>
+    <a href='https://computerhoy.com/motor/certificado-tendran-tener-todos-patinetes-electricos-2024-1340742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/patinete-electrico-xiaomi-3015246.jpg?tf=1200x' alt='Este es el nuevo certificado obligatorio que tendrán que tener los usuarios de patinete eléctrico en enero de 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-pixel-7a-oferta-black-friday-movil-barato-google-1339840'>Ahora sí que es barato: el Google Pixel 7a deja en fuera de juego a la competencia con su oferta de Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-pixel-7a-oferta-black-friday-movil-barato-google-1339840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-1683716476708-3029968.jpg?tf=1200x' alt='Ahora sí que es barato: el Google Pixel 7a deja en fuera de juego a la competencia con su oferta de Black Friday' />
+    <h4><a href='https://computerhoy.com/tecnologia/eres-olvidadizo-gastate-18eu-accesorio-hara-vida-facil-1340440'>Si eres olvidadizo, gástate 18€ en este accesorio que hará tu vida más fácil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/eres-olvidadizo-gastate-18eu-accesorio-hara-vida-facil-1340440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tile-mate-2022-3231338.jpg?tf=1200x' alt='Si eres olvidadizo, gástate 18€ en este accesorio que hará tu vida más fácil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-lia-grande-tiene-decenas-ofertas-brutales-black-friday-1340228'>Xiaomi la lía a lo grande y tiene decenas de ofertas brutales en este Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-lia-grande-tiene-decenas-ofertas-brutales-black-friday-1340228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tienda-xiaomi-3218508.jpg?tf=1200x' alt='Xiaomi la lía a lo grande y tiene decenas de ofertas brutales en este Black Friday' />
+    <h4><a href='https://computerhoy.com/tecnologia/elegante-deportivo-ahora-regalo-sorpresa-smartwatch-favoritos-desploma-precio-black-friday-1339748'>Elegante, deportivo y ahora con regalo sorpresa: este smartwatch es de nuestros favoritos y desploma su precio en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elegante-deportivo-ahora-regalo-sorpresa-smartwatch-favoritos-desploma-precio-black-friday-1339748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131200.jpg?tf=1200x' alt='Elegante, deportivo y ahora con regalo sorpresa: este smartwatch es de nuestros favoritos y desploma su precio en el Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-rebaja-bestia-chromecast-deja-menos-30-euros-mejores-gangas-black-friday-1339848'>Amazon rebaja a lo bestia los Chromecast y los deja por menos de 30 euros, una de las mejores gangas del Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-rebaja-bestia-chromecast-deja-menos-30-euros-mejores-gangas-black-friday-1339848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-chromecast-2926538.jpg?tf=1200x' alt='Amazon rebaja a lo bestia los Chromecast y los deja por menos de 30 euros, una de las mejores gangas del Black Friday' />
+    <h4><a href='https://computerhoy.com/entretenimiento/varios-participantes-concurso-juego-calamar-sufren-lesiones-1340530'>Varios participantes del concurso de El juego del calamar amenazan con denunciar a Netflix por sufrir lesiones</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/varios-participantes-concurso-juego-calamar-sufren-lesiones-1340530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/varios-participantes-concurso-juego-calamar-amenazan-denunciar-netflix-sufrir-lesiones-3231496.jpg?tf=1200x' alt='Varios participantes del concurso de El juego del calamar amenazan con denunciar a Netflix por sufrir lesiones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/black-friday-amazon-mejores-ofertas-1335944'>El Black Friday de Amazon, a pleno rendimiento: estas son las mejores ofertas disponibles ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/black-friday-amazon-mejores-ofertas-1335944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ofertas-black-friday-3230910.jpg?tf=1200x' alt='El Black Friday de Amazon, a pleno rendimiento: estas son las mejores ofertas disponibles ahora mismo' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-moviles-black-friday-2023-1339688'>iPhone 15, Pixel 8 y otros móviles muy top que están a precio de chollo en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-moviles-black-friday-2023-1339688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-pixel-3229906.jpg?tf=1200x' alt='iPhone 15, Pixel 8 y otros móviles muy top que están a precio de chollo en el Black Friday' />
     </a>
 </div>
 
