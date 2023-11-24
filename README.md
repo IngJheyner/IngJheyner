@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/black-friday-asequible-recopilamos-todas-gangas-menos-20eu-1340516'>El Black Friday más asequible: recopilamos todas las gangas por menos de 20€</a></h4>
+    <a href='https://computerhoy.com/amazon/black-friday-asequible-recopilamos-todas-gangas-menos-20eu-1340516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/personas-comprando-rebajas-2926646.jpg?tf=1200x' alt='El Black Friday más asequible: recopilamos todas las gangas por menos de 20€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/reacciona-cerebro-black-friday-ciencia-1340222'>Así reacciona tu cerebro en el Black Friday, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/reacciona-cerebro-black-friday-ciencia-1340222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/oniomania-tiempos-internet-puede-afectarte-adiccion-compras-3210428.jpg?tf=1200x' alt='Así reacciona tu cerebro en el Black Friday, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/certificado-tendran-tener-todos-patinetes-electricos-2024-1340742'>Este es el nuevo certificado obligatorio que tendrán que tener los usuarios de patinete eléctrico en enero de 2024</a></h4>
     <a href='https://computerhoy.com/motor/certificado-tendran-tener-todos-patinetes-electricos-2024-1340742' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/patinete-electrico-xiaomi-3015246.jpg?tf=1200x' alt='Este es el nuevo certificado obligatorio que tendrán que tener los usuarios de patinete eléctrico en enero de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/elegante-deportivo-ahora-regalo-sorpresa-smartwatch-favoritos-desploma-precio-black-friday-1339748'>Elegante, deportivo y ahora con regalo sorpresa: este smartwatch es de nuestros favoritos y desploma su precio en el Black Friday</a></h4>
     <a href='https://computerhoy.com/tecnologia/elegante-deportivo-ahora-regalo-sorpresa-smartwatch-favoritos-desploma-precio-black-friday-1339748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131200.jpg?tf=1200x' alt='Elegante, deportivo y ahora con regalo sorpresa: este smartwatch es de nuestros favoritos y desploma su precio en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/varios-participantes-concurso-juego-calamar-sufren-lesiones-1340530'>Varios participantes del concurso de El juego del calamar amenazan con denunciar a Netflix por sufrir lesiones</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/varios-participantes-concurso-juego-calamar-sufren-lesiones-1340530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/varios-participantes-concurso-juego-calamar-amenazan-denunciar-netflix-sufrir-lesiones-3231496.jpg?tf=1200x' alt='Varios participantes del concurso de El juego del calamar amenazan con denunciar a Netflix por sufrir lesiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-moviles-black-friday-2023-1339688'>iPhone 15, Pixel 8 y otros móviles muy top que están a precio de chollo en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-moviles-black-friday-2023-1339688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-pixel-3229906.jpg?tf=1200x' alt='iPhone 15, Pixel 8 y otros móviles muy top que están a precio de chollo en el Black Friday' />
     </a>
 </div>
 
