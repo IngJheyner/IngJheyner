@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-como-entrenar-dragon-3-santos-criminales-1341108'>Qué película ver en la TDT hoy: el dragón negro encuentra su destino, ideal para ver en familia</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-como-entrenar-dragon-3-santos-criminales-1341108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/Como_entrenar_dragon_3_1.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: el dragón negro encuentra su destino, ideal para ver en familia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/funciona-nueva-caracteristica-chatgpt-beneficia-usuarios-gratuitos-1340306'>Así funciona la nueva característica de ChatGPT que beneficia a los usuarios gratuitos</a></h4>
+    <a href='https://computerhoy.com/apps/funciona-nueva-caracteristica-chatgpt-beneficia-usuarios-gratuitos-1340306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-android-3091838.jpg?tf=1200x' alt='Así funciona la nueva característica de ChatGPT que beneficia a los usuarios gratuitos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/velocidad-avion-einstein-tiene-respuesta-1341080'>¿Por qué no se nota tanto la velocidad viajando en avión? Einstein tiene la respuesta</a></h4>
+    <a href='https://computerhoy.com/ciencia/velocidad-avion-einstein-tiene-respuesta-1341080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/no-nota-tanto-velocidad-viajando-avion-einstein-tiene-respuesta-3232626.jpg?tf=1200x' alt='¿Por qué no se nota tanto la velocidad viajando en avión? Einstein tiene la respuesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/kindle-cuaderno-vez-mejor-lector-ebooks-mundo-tumba-precio-casi-100-euros-barato-1340936'>Kindle y cuaderno a la vez: el mejor lector de ebooks del mundo tumba su precio y es casi 100 euros más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/kindle-cuaderno-vez-mejor-lector-ebooks-mundo-tumba-precio-casi-100-euros-barato-1340936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kindle-scribe-3150238.jpg?tf=1200x' alt='Kindle y cuaderno a la vez: el mejor lector de ebooks del mundo tumba su precio y es casi 100 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-desplazamiento-automatico-modo-manos-libres-tiktok-1339828'>Cómo activar el desplazamiento automático o modo manos libres de TikTok</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-desplazamiento-automatico-modo-manos-libres-tiktok-1339828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-activar-desplazamiento-automatico-modo-manos-libres-tiktok-3230430.jpg?tf=1200x' alt='Cómo activar el desplazamiento automático o modo manos libres de TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-vikingos-poco-alcohol-divertida-lagartija-1340938'>Qué películas ver este fin de semana en Netflix, Prime Video y HBO Max: vikingos, un "poco" de alcohol y una divertida lagartija</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-vikingos-poco-alcohol-divertida-lagartija-1340938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/peliculas-fin-semana-3232184.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y HBO Max: vikingos, un "poco" de alcohol y una divertida lagartija' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-samsung-potente-500-euros-descuento-olvida-portatil-ipad-pro-oferta-1340392'>La tablet Samsung más potente, con 500 euros de descuento: olvida el portátil y el iPad Pro con esta oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-samsung-potente-500-euros-descuento-olvida-portatil-ipad-pro-oferta-1340392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/samsung-galaxy-tab-s9-ultra-3231246.jpg?tf=1200x' alt='La tablet Samsung más potente, con 500 euros de descuento: olvida el portátil y el iPad Pro con esta oferta' />
     </a>
 </div>
 
