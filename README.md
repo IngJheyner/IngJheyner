@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuidado-timo-falso-cambio-compania-haciendo-estragos-espana-1340508'>¡Cuidado! El timo del falso cambio de compañía que está haciendo estragos en España</a></h4>
-    <a href='https://computerhoy.com/life/cuidado-timo-falso-cambio-compania-haciendo-estragos-espana-1340508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/llamada-comercial-3231476.jpg?tf=1200x' alt='¡Cuidado! El timo del falso cambio de compañía que está haciendo estragos en España' />
+    <h4><a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752'>Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo</a></h4>
+    <a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/directo-computerhoy-black-friday-2023-3230128.jpg?tf=1200x' alt='Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-direccion-email-whatsapp-deberias-hacerlo-1339882'>Cómo añadir tu dirección de email a WhatsApp y por qué deberías hacerlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-anadir-direccion-email-whatsapp-deberias-hacerlo-1339882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-anadir-direccion-email-whatsapp-deberias-hacerlo-3230504.jpg?tf=1200x' alt='Cómo añadir tu dirección de email a WhatsApp y por qué deberías hacerlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-pixel-7a-oferta-black-friday-movil-barato-google-1339840'>Ahora sí que es barato: el Google Pixel 7a deja en fuera de juego a la competencia con su oferta de Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-pixel-7a-oferta-black-friday-movil-barato-google-1339840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-1683716476708-3029968.jpg?tf=1200x' alt='Ahora sí que es barato: el Google Pixel 7a deja en fuera de juego a la competencia con su oferta de Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/requisitos-viajar-gratis-transporte-publico-2024-1340402'>Estos son los requisitos y condiciones que debes cumplir para viajar gratis en transporte público en 2024</a></h4>
-    <a href='https://computerhoy.com/life/requisitos-viajar-gratis-transporte-publico-2024-1340402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/autobus-3096030.jpg?tf=1200x' alt='Estos son los requisitos y condiciones que debes cumplir para viajar gratis en transporte público en 2024' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-lia-grande-tiene-decenas-ofertas-brutales-black-friday-1340228'>Xiaomi la lía a lo grande y tiene decenas de ofertas brutales en este Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-lia-grande-tiene-decenas-ofertas-brutales-black-friday-1340228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tienda-xiaomi-3218508.jpg?tf=1200x' alt='Xiaomi la lía a lo grande y tiene decenas de ofertas brutales en este Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/devastador-error-frigorifico-arruinando-comida-te-des-cuenta-1340506'>El devastador error con tu frigorífico que está arruinando la comida sin que te des cuenta</a></h4>
-    <a href='https://computerhoy.com/life/devastador-error-frigorifico-arruinando-comida-te-des-cuenta-1340506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/frigorifico-3231472.jpg?tf=1200x' alt='El devastador error con tu frigorífico que está arruinando la comida sin que te des cuenta' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-rebaja-bestia-chromecast-deja-menos-30-euros-mejores-gangas-black-friday-1339848'>Amazon rebaja a lo bestia los Chromecast y los deja por menos de 30 euros, una de las mejores gangas del Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-rebaja-bestia-chromecast-deja-menos-30-euros-mejores-gangas-black-friday-1339848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-chromecast-2926538.jpg?tf=1200x' alt='Amazon rebaja a lo bestia los Chromecast y los deja por menos de 30 euros, una de las mejores gangas del Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descanso-emocional-resulta-tan-importante-como-fisico-1330030'>Descanso emocional: qué es y por qué resulta tan importante como el físico</a></h4>
-    <a href='https://computerhoy.com/life/descanso-emocional-resulta-tan-importante-como-fisico-1330030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/descanso-emocional-resulta-tan-importante-como-fisico-3213004.jpg?tf=1200x' alt='Descanso emocional: qué es y por qué resulta tan importante como el físico' />
+    <h4><a href='https://computerhoy.com/tecnologia/black-friday-amazon-mejores-ofertas-1335944'>El Black Friday de Amazon, a pleno rendimiento: estas son las mejores ofertas disponibles ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/black-friday-amazon-mejores-ofertas-1335944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ofertas-black-friday-3230910.jpg?tf=1200x' alt='El Black Friday de Amazon, a pleno rendimiento: estas son las mejores ofertas disponibles ahora mismo' />
     </a>
 </div>
 
