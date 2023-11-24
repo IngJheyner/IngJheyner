@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/kindle-cuaderno-vez-mejor-lector-ebooks-mundo-tumba-precio-casi-100-euros-barato-1340936'>Kindle y cuaderno a la vez: el mejor lector de ebooks del mundo tumba su precio y es casi 100 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/kindle-cuaderno-vez-mejor-lector-ebooks-mundo-tumba-precio-casi-100-euros-barato-1340936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kindle-scribe-3150238.jpg?tf=1200x' alt='Kindle y cuaderno a la vez: el mejor lector de ebooks del mundo tumba su precio y es casi 100 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-desplazamiento-automatico-modo-manos-libres-tiktok-1339828'>Cómo activar el desplazamiento automático o modo manos libres de TikTok</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-desplazamiento-automatico-modo-manos-libres-tiktok-1339828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-activar-desplazamiento-automatico-modo-manos-libres-tiktok-3230430.jpg?tf=1200x' alt='Cómo activar el desplazamiento automático o modo manos libres de TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-vikingos-poco-alcohol-divertida-lagartija-1340938'>Qué películas ver este fin de semana en Netflix, Prime Video y HBO Max: vikingos, un "poco" de alcohol y una divertida lagartija</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-vikingos-poco-alcohol-divertida-lagartija-1340938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/peliculas-fin-semana-3232184.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y HBO Max: vikingos, un "poco" de alcohol y una divertida lagartija' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tablet-samsung-potente-500-euros-descuento-olvida-portatil-ipad-pro-oferta-1340392'>La tablet Samsung más potente, con 500 euros de descuento: olvida el portátil y el iPad Pro con esta oferta</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablet-samsung-potente-500-euros-descuento-olvida-portatil-ipad-pro-oferta-1340392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/samsung-galaxy-tab-s9-ultra-3231246.jpg?tf=1200x' alt='La tablet Samsung más potente, con 500 euros de descuento: olvida el portátil y el iPad Pro con esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/puede-esperar-nuevo-chatgpt-integrado-whatsapp-1340378'>¿Qué se puede esperar del nuevo ChatGPT integrado en WhatsApp?</a></h4>
-    <a href='https://computerhoy.com/redes/puede-esperar-nuevo-chatgpt-integrado-whatsapp-1340378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chatgpt-3232044.jpg?tf=1200x' alt='¿Qué se puede esperar del nuevo ChatGPT integrado en WhatsApp?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-sencillos-cambios-dieta-puede-alargar-vida-decada-1341064'>Estos sencillos cambios en tu dieta puede alargar tu vida una década</a></h4>
-    <a href='https://computerhoy.com/life/estos-sencillos-cambios-dieta-puede-alargar-vida-decada-1341064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cambiar-dieta-puede-alargar-vida-decada-3232598.jpg?tf=1200x' alt='Estos sencillos cambios en tu dieta puede alargar tu vida una década' />
     </a>
 </div>
 
