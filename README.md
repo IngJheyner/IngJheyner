@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/doctor-who-resucita-prime-video-pluto-tv-disney-plus-1341140'>Doctor Who resucita en Prime Video, Pluto TV y Disney+, pero hay un agujero negro de tres años que desespera a los fans</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/doctor-who-resucita-prime-video-pluto-tv-disney-plus-1341140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/doctor-who-resucita-prime-video-pluto-tv-disney-pero-hay-agujero-negro-tres-anos-desespera-fans-3232770.jpg?tf=1200x' alt='Doctor Who resucita en Prime Video, Pluto TV y Disney+, pero hay un agujero negro de tres años que desespera a los fans' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-hologramas-movil-sencillo-metodo-casero-1340404'>Como crear hologramas en tu móvil con este sencillo método casero</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-hologramas-movil-sencillo-metodo-casero-1340404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/crea-propios-hologramas-movil-sencillo-metodo-casero-3231332.jpg?tf=1200x' alt='Como crear hologramas en tu móvil con este sencillo método casero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/consejo-steve-jobs-conseguir-todo-quieres-1339922'>El consejo infalible de Steve Jobs para conseguir todo lo que quieres, y que casi siempre funciona</a></h4>
     <a href='https://computerhoy.com/life/consejo-steve-jobs-conseguir-todo-quieres-1339922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/consejo-infalible-steve-jobs-conseguir-todo-quieres-casi-siempre-funciona-3230546.jpg?tf=1200x' alt='El consejo infalible de Steve Jobs para conseguir todo lo que quieres, y que casi siempre funciona' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/pantalla-proximo-iphone-podria-verse-peor-aunque-buen-motivo-1341122'>La pantalla de tu próximo iPhone podría verse peor, aunque por un buen motivo</a></h4>
     <a href='https://computerhoy.com/apple/pantalla-proximo-iphone-podria-verse-peor-aunque-buen-motivo-1341122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/texto-pantalla-bloqueo-iphone-3149718.jpg?tf=1200x' alt='La pantalla de tu próximo iPhone podría verse peor, aunque por un buen motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/quieres-adelgazar-estas-son-verduras-deberias-quitar-dieta-harvard-1340280'>¿Quieres adelgazar? Estas son las verduras que deberías quitar de tu dieta, según Harvard</a></h4>
-    <a href='https://computerhoy.com/life/quieres-adelgazar-estas-son-verduras-deberias-quitar-dieta-harvard-1340280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dieta-vegetariana-2740723.jpg?tf=1200x' alt='¿Quieres adelgazar? Estas son las verduras que deberías quitar de tu dieta, según Harvard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/china-estan-desmantelando-miles-nvidia-geforce-rtx-4090-culpa-ia-1341118'>En China están desmantelando miles de NVIDIA GeForce RTX 4090 por culpa de la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/china-estan-desmantelando-miles-nvidia-geforce-rtx-4090-culpa-ia-1341118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2835443.jpg?tf=1200x' alt='En China están desmantelando miles de NVIDIA GeForce RTX 4090 por culpa de la IA' />
     </a>
 </div>
 
