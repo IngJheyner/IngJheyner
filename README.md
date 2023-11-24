@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/carrefour-deja-aspiradora-dyson-precio-jamas-visto-ademas-te-envia-gratis-1340764'>Carrefour deja una aspiradora Dyson a precio jamás visto y además te la envía gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/carrefour-deja-aspiradora-dyson-precio-jamas-visto-ademas-te-envia-gratis-1340764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dyson-v8-origin-origin-3078022.jpg?tf=1200x' alt='Carrefour deja una aspiradora Dyson a precio jamás visto y además te la envía gratis' />
+    <h4><a href='https://computerhoy.com/tecnologia/ia-podria-acabar-situaciones-polemicas-formula-1-1340860'>La IA podría acabar con una de las situaciones más polémicas de la Fórmula 1</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-podria-acabar-situaciones-polemicas-formula-1-1340860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/formula-1-3231996.jpg?tf=1200x' alt='La IA podría acabar con una de las situaciones más polémicas de la Fórmula 1' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiktoker-usa-ia-parecer-embarazada-manda-fotos-exparejas-1340810'>Esta tiktoker usa la IA para parecer embarazada y le manda las fotos a sus exparejas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiktoker-usa-ia-parecer-embarazada-manda-fotos-exparejas-1340810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tiktoker-ia-3231826.jpg?tf=1200x' alt='Esta tiktoker usa la IA para parecer embarazada y le manda las fotos a sus exparejas' />
+    <h4><a href='https://computerhoy.com/tecnologia/black-friday-momento-perfecto-hacerte-portatil-gaming-rebajado-tope-1340814'>Black Friday, el momento perfecto para hacerte con un portátil gaming rebajado a tope</a></h4>
+    <a href='https://computerhoy.com/tecnologia/black-friday-momento-perfecto-hacerte-portatil-gaming-rebajado-tope-1340814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/portatiles-msi-2985068.jpg?tf=1200x' alt='Black Friday, el momento perfecto para hacerte con un portátil gaming rebajado a tope' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/black-friday-2023-mejores-robots-aspiradores-1340312'>El Black Friday huele a limpio: estos robos aspiradores hunden su precio de forma temporal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/black-friday-2023-mejores-robots-aspiradores-1340312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/robot-aspirador-3230992.jpg?tf=1200x' alt='El Black Friday huele a limpio: estos robos aspiradores hunden su precio de forma temporal' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-va-game-pass-revienta-precio-luna-mando-jugar-streaming-cualquier-parte-1339708'>Amazon va a por Game Pass y revienta el precio de Luna, su mando para jugar en streaming en cualquier parte</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-va-game-pass-revienta-precio-luna-mando-jugar-streaming-cualquier-parte-1339708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-luna-3230058.jpg?tf=1200x' alt='Amazon va a por Game Pass y revienta el precio de Luna, su mando para jugar en streaming en cualquier parte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-destroza-precio-android-tv-box-buscada-xiaomi-1340242'>Amazon destroza el precio de la Android TV Box más buscada, la de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-destroza-precio-android-tv-box-buscada-xiaomi-1340242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/xiaomi-tv-box-s-4k-segunda-generacion-3014280.jpg?tf=1200x' alt='Amazon destroza el precio de la Android TV Box más buscada, la de Xiaomi' />
+    <h4><a href='https://computerhoy.com/amazon/ultima-actualizacion-amazon-fire-tv-esconde-desagradable-sorpresa-1340844'>La última actualización de los Amazon Fire TV esconde una desagradable sorpresa</a></h4>
+    <a href='https://computerhoy.com/amazon/ultima-actualizacion-amazon-fire-tv-esconde-desagradable-sorpresa-1340844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-4k-max-2023-3229700.jpg?tf=1200x' alt='La última actualización de los Amazon Fire TV esconde una desagradable sorpresa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desliz-videollamada-cuesta-nvidia-demanda-presunto-robo-secretos-1340792'>Este desliz en una videollamada le cuesta a NVIDIA una demanda por presunto robo de secretos </a></h4>
-    <a href='https://computerhoy.com/tecnologia/desliz-videollamada-cuesta-nvidia-demanda-presunto-robo-secretos-1340792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nvidia-3231818.jpg?tf=1200x' alt='Este desliz en una videollamada le cuesta a NVIDIA una demanda por presunto robo de secretos ' />
+    <h4><a href='https://computerhoy.com/tecnologia/portatiles-menos-300-euros-black-friday-posible-estos-son-mejores-1340462'>Portátiles por menos de 300 euros: en el Black Friday es posible y estos son los mejores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatiles-menos-300-euros-black-friday-posible-estos-son-mejores-1340462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-3223172.jpg?tf=1200x' alt='Portátiles por menos de 300 euros: en el Black Friday es posible y estos son los mejores' />
     </a>
 </div>
 
