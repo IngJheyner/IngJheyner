@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/black-friday-asequible-recopilamos-todas-gangas-menos-20eu-1340516'>El Black Friday más asequible: recopilamos todas las gangas por menos de 20€</a></h4>
-    <a href='https://computerhoy.com/amazon/black-friday-asequible-recopilamos-todas-gangas-menos-20eu-1340516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/personas-comprando-rebajas-2926646.jpg?tf=1200x' alt='El Black Friday más asequible: recopilamos todas las gangas por menos de 20€' />
+    <h4><a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752'>Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo</a></h4>
+    <a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/directo-computerhoy-black-friday-2023-3230128.jpg?tf=1200x' alt='Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/reacciona-cerebro-black-friday-ciencia-1340222'>Así reacciona tu cerebro en el Black Friday, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/reacciona-cerebro-black-friday-ciencia-1340222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/oniomania-tiempos-internet-puede-afectarte-adiccion-compras-3210428.jpg?tf=1200x' alt='Así reacciona tu cerebro en el Black Friday, según la ciencia' />
+    <h4><a href='https://computerhoy.com/tecnologia/tienes-renovar-portatil-aprovecha-alguna-estas-ofertas-son-mejores-todo-ano-1340528'>Si tienes que renovar portátil aprovecha alguna de estas ofertas, que son las mejores de todo el año</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tienes-renovar-portatil-aprovecha-alguna-estas-ofertas-son-mejores-todo-ano-1340528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ordenador-portatil-3208092.jpg?tf=1200x' alt='Si tienes que renovar portátil aprovecha alguna de estas ofertas, que son las mejores de todo el año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/certificado-tendran-tener-todos-patinetes-electricos-2024-1340742'>Este es el nuevo certificado obligatorio que tendrán que tener los usuarios de patinete eléctrico en enero de 2024</a></h4>
-    <a href='https://computerhoy.com/motor/certificado-tendran-tener-todos-patinetes-electricos-2024-1340742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/patinete-electrico-xiaomi-3015246.jpg?tf=1200x' alt='Este es el nuevo certificado obligatorio que tendrán que tener los usuarios de patinete eléctrico en enero de 2024' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-oppo-usa-robots-fotos-salgan-perfectas-1338572'>Así son los peculiares robots con cabezas humanas que se hacen miles de selfis para que tus fotos salgan perfectas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-oppo-usa-robots-fotos-salgan-perfectas-1338572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oppo-image-lab-3228804.jpg?tf=1200x' alt='Así son los peculiares robots con cabezas humanas que se hacen miles de selfis para que tus fotos salgan perfectas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/eres-olvidadizo-gastate-18eu-accesorio-hara-vida-facil-1340440'>Si eres olvidadizo, gástate 18€ en este accesorio que hará tu vida más fácil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/eres-olvidadizo-gastate-18eu-accesorio-hara-vida-facil-1340440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tile-mate-2022-3231338.jpg?tf=1200x' alt='Si eres olvidadizo, gástate 18€ en este accesorio que hará tu vida más fácil' />
+    <h4><a href='https://computerhoy.com/tecnologia/black-friday-2023-mejores-freidoras-aire-1340274'>Que suba el aceite, te dará igual: estas freidoras de aire causan sensación en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/black-friday-2023-mejores-freidoras-aire-1340274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='Que suba el aceite, te dará igual: estas freidoras de aire causan sensación en el Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elegante-deportivo-ahora-regalo-sorpresa-smartwatch-favoritos-desploma-precio-black-friday-1339748'>Elegante, deportivo y ahora con regalo sorpresa: este smartwatch es de nuestros favoritos y desploma su precio en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elegante-deportivo-ahora-regalo-sorpresa-smartwatch-favoritos-desploma-precio-black-friday-1339748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131200.jpg?tf=1200x' alt='Elegante, deportivo y ahora con regalo sorpresa: este smartwatch es de nuestros favoritos y desploma su precio en el Black Friday' />
+    <h4><a href='https://computerhoy.com/tutoriales/npc-ceo-kpi-seo-otras-siglas-internet-casi-nadie-entiende-1336750'>NPC, CEO, KPI, SEO y otras siglas de Internet que casi nadie entiende</a></h4>
+    <a href='https://computerhoy.com/tutoriales/npc-ceo-kpi-seo-otras-siglas-internet-casi-nadie-entiende-1336750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/npc-ceo-kpi-seo-otras-siglas-internet-casi-nadie-entiende-3224804.jpg?tf=1200x' alt='NPC, CEO, KPI, SEO y otras siglas de Internet que casi nadie entiende' />
     </a>
 </div>
 
