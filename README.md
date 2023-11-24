@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-pixel-8-pro-mejor-android-rebajado-100-euros-amazon-1341036'>Que tiemble el iPhone: el Pixel 8 Pro cae a solo 999€ en Amazon con un cupón</a></h4>
-    <a href='https://computerhoy.com/android/google-pixel-8-pro-mejor-android-rebajado-100-euros-amazon-1341036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191810.jpg?tf=1200x' alt='Que tiemble el iPhone: el Pixel 8 Pro cae a solo 999€ en Amazon con un cupón' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-vikingos-poco-alcohol-divertida-lagartija-1340938'>Qué películas ver este fin de semana en Netflix, Prime Video y HBO Max: vikingos, un "poco" de alcohol y una divertida lagartija</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-hbo-max-vikingos-poco-alcohol-divertida-lagartija-1340938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/peliculas-fin-semana-3232184.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y HBO Max: vikingos, un "poco" de alcohol y una divertida lagartija' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cosas-no-deberias-publicar-redes-sociales-1340532'>10 cosas que jamás deberías publicar en las redes sociales</a></h4>
-    <a href='https://computerhoy.com/internet/cosas-no-deberias-publicar-redes-sociales-1340532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/10-cosas-jamas-deberias-publicar-redes-sociales-3231532.jpg?tf=1200x' alt='10 cosas que jamás deberías publicar en las redes sociales' />
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-samsung-potente-500-euros-descuento-olvida-portatil-ipad-pro-oferta-1340392'>La tablet Samsung más potente, con 500 euros de descuento: olvida el portátil y el iPad Pro con esta oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-samsung-potente-500-euros-descuento-olvida-portatil-ipad-pro-oferta-1340392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/samsung-galaxy-tab-s9-ultra-3231246.jpg?tf=1200x' alt='La tablet Samsung más potente, con 500 euros de descuento: olvida el portátil y el iPad Pro con esta oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/camara-sony-arrasa-fotografos-amazon-liquidando-42-descuento-1340818'>Esta cámara Sony arrasa entre fotógrafos y Amazon la está liquidando con 42% de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/camara-sony-arrasa-fotografos-amazon-liquidando-42-descuento-1340818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/sony-alpha-7-ii-2152745.jpg?tf=1200x' alt='Esta cámara Sony arrasa entre fotógrafos y Amazon la está liquidando con 42% de descuento' />
+    <h4><a href='https://computerhoy.com/redes/puede-esperar-nuevo-chatgpt-integrado-whatsapp-1340378'>¿Qué se puede esperar del nuevo ChatGPT integrado en WhatsApp?</a></h4>
+    <a href='https://computerhoy.com/redes/puede-esperar-nuevo-chatgpt-integrado-whatsapp-1340378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chatgpt-3232044.jpg?tf=1200x' alt='¿Qué se puede esperar del nuevo ChatGPT integrado en WhatsApp?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-saber-cual-es-direccion-ip-mi-ordenador-24347'>¿Cuál es la dirección IP de mi ordenador? Cómo saber la IP en todos tus dispositivos</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/internet/como-saber-cual-es-direccion-ip-mi-ordenador-24347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cual-direccion-ip-mi-ordenador-como-saber-ip-todos-dispositivos-3231750.jpg?tf=1200x' alt='¿Cuál es la dirección IP de mi ordenador? Cómo saber la IP en todos tus dispositivos' />
+    <h4><a href='https://computerhoy.com/life/estos-sencillos-cambios-dieta-puede-alargar-vida-decada-1341064'>Estos sencillos cambios en tu dieta puede alargar tu vida una década</a></h4>
+    <a href='https://computerhoy.com/life/estos-sencillos-cambios-dieta-puede-alargar-vida-decada-1341064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cambiar-dieta-puede-alargar-vida-decada-3232598.jpg?tf=1200x' alt='Estos sencillos cambios en tu dieta puede alargar tu vida una década' />
     </a>
 </div>
 
