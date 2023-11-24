@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/pantalla-proximo-iphone-podria-verse-peor-aunque-buen-motivo-1341122'>La pantalla de tu próximo iPhone podría verse peor, aunque por un buen motivo</a></h4>
+    <a href='https://computerhoy.com/apple/pantalla-proximo-iphone-podria-verse-peor-aunque-buen-motivo-1341122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/texto-pantalla-bloqueo-iphone-3149718.jpg?tf=1200x' alt='La pantalla de tu próximo iPhone podría verse peor, aunque por un buen motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752'>Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo</a></h4>
     <a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/directo-computerhoy-black-friday-2023-3230128.jpg?tf=1200x' alt='Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo' />
@@ -58,33 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-como-entrenar-dragon-3-santos-criminales-1341108'>Qué película ver en la TDT hoy: el dragón negro encuentra su destino, ideal para ver en familia</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-como-entrenar-dragon-3-santos-criminales-1341108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/Como_entrenar_dragon_3_1.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: el dragón negro encuentra su destino, ideal para ver en familia' />
+    <h4><a href='https://computerhoy.com/life/quieres-adelgazar-estas-son-verduras-deberias-quitar-dieta-harvard-1340280'>¿Quieres adelgazar? Estas son las verduras que deberías quitar de tu dieta, según Harvard</a></h4>
+    <a href='https://computerhoy.com/life/quieres-adelgazar-estas-son-verduras-deberias-quitar-dieta-harvard-1340280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/dieta-vegetariana-2740723.jpg?tf=1200x' alt='¿Quieres adelgazar? Estas son las verduras que deberías quitar de tu dieta, según Harvard' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funciona-nueva-caracteristica-chatgpt-beneficia-usuarios-gratuitos-1340306'>Así funciona la nueva característica de ChatGPT que beneficia a los usuarios gratuitos</a></h4>
-    <a href='https://computerhoy.com/apps/funciona-nueva-caracteristica-chatgpt-beneficia-usuarios-gratuitos-1340306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-android-3091838.jpg?tf=1200x' alt='Así funciona la nueva característica de ChatGPT que beneficia a los usuarios gratuitos' />
+    <h4><a href='https://computerhoy.com/tecnologia/china-estan-desmantelando-miles-nvidia-geforce-rtx-4090-culpa-ia-1341118'>En China están desmantelando miles de NVIDIA GeForce RTX 4090 por culpa de la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/china-estan-desmantelando-miles-nvidia-geforce-rtx-4090-culpa-ia-1341118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2835443.jpg?tf=1200x' alt='En China están desmantelando miles de NVIDIA GeForce RTX 4090 por culpa de la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/velocidad-avion-einstein-tiene-respuesta-1341080'>¿Por qué no se nota tanto la velocidad viajando en avión? Einstein tiene la respuesta</a></h4>
-    <a href='https://computerhoy.com/ciencia/velocidad-avion-einstein-tiene-respuesta-1341080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/no-nota-tanto-velocidad-viajando-avion-einstein-tiene-respuesta-3232626.jpg?tf=1200x' alt='¿Por qué no se nota tanto la velocidad viajando en avión? Einstein tiene la respuesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/kindle-cuaderno-vez-mejor-lector-ebooks-mundo-tumba-precio-casi-100-euros-barato-1340936'>Kindle y cuaderno a la vez: el mejor lector de ebooks del mundo tumba su precio y es casi 100 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/kindle-cuaderno-vez-mejor-lector-ebooks-mundo-tumba-precio-casi-100-euros-barato-1340936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kindle-scribe-3150238.jpg?tf=1200x' alt='Kindle y cuaderno a la vez: el mejor lector de ebooks del mundo tumba su precio y es casi 100 euros más barato' />
+    <h4><a href='https://computerhoy.com/google/whatsapp-android-auto-problema-llamadas-1341082'>WhatsApp y Android Auto no se llevan bien y Google no consigue solucionarlo</a></h4>
+    <a href='https://computerhoy.com/google/whatsapp-android-auto-problema-llamadas-1341082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/whatsapp-android-auto-no-llevan-bien-google-no-consigue-solucionarlo-3232634.jpg?tf=1200x' alt='WhatsApp y Android Auto no se llevan bien y Google no consigue solucionarlo' />
     </a>
 </div>
 
