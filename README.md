@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/altura-debes-colocar-pantalla-ordenador-puedes-calcularlo-evitar-dolores-espalda-1339092'>¿A qué altura debes colocar la pantalla de tu ordenador? Así puedes calcularlo para evitar dolores de espalda</a></h4>
-    <a href='https://computerhoy.com/tecnologia/altura-debes-colocar-pantalla-ordenador-puedes-calcularlo-evitar-dolores-espalda-1339092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/altura-debes-colocar-pantalla-ordenador-puedes-calcularlo-evitar-dolores-espalda-3228758.jpg?tf=1200x' alt='¿A qué altura debes colocar la pantalla de tu ordenador? Así puedes calcularlo para evitar dolores de espalda' />
+    <h4><a href='https://computerhoy.com/apps/ya-puedes-disfrutar-videojuegos-youtube-playables-ya-disponible-usuarios-premium-1341400'>Ya puedes disfrutar de videojuegos desde YouTube: Playables ya está disponible para los usuarios premium</a></h4>
+    <a href='https://computerhoy.com/apps/ya-puedes-disfrutar-videojuegos-youtube-playables-ya-disponible-usuarios-premium-1341400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-playables-3233160.jpg?tf=1200x' alt='Ya puedes disfrutar de videojuegos desde YouTube: Playables ya está disponible para los usuarios premium' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-te-aspira-ti-te-descuidas-tiene-7000-pa-potencia-limpia-solo-1340978'>Este robot te aspira a ti si te descuidas: tiene 7000 Pa de potencia y se limpia solo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-te-aspira-ti-te-descuidas-tiene-7000-pa-potencia-limpia-solo-1340978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cecotec-conga-8290-immortal-ultra-power-home-genesis-3232182.jpg?tf=1200x' alt='Este robot te aspira a ti si te descuidas: tiene 7000 Pa de potencia y se limpia solo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-pedir-cita-seguridad-social-internet-gestiones-1287638'>Cómo pedir cita para la Seguridad Social por Internet y para qué gestiones puedes pedir cita previa online</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-pedir-cita-seguridad-social-internet-gestiones-1287638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cita-previa-internet-3104520.jpg?tf=1200x' alt='Cómo pedir cita para la Seguridad Social por Internet y para qué gestiones puedes pedir cita previa online' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/6-peliculas-historicas-muy-largas-son-delicia-bien-ambientas-estan-1340496'>7 películas históricas muy largas que son una delicia por lo bien ambientadas que están</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/6-peliculas-historicas-muy-largas-son-delicia-bien-ambientas-estan-1340496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/braveheart-2389665.jpg?tf=1200x' alt='7 películas históricas muy largas que son una delicia por lo bien ambientadas que están' />
+    <h4><a href='https://computerhoy.com/apps/ya-disponible-beta-android-auto-11-puedes-probarla-antes-nadie-1341392'>Ya está disponible la beta de Android Auto 11 y así puedes probarla antes que nadie</a></h4>
+    <a href='https://computerhoy.com/apps/ya-disponible-beta-android-auto-11-puedes-probarla-antes-nadie-1341392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/android-auto-bmw-3012754.jpg?tf=1200x' alt='Ya está disponible la beta de Android Auto 11 y así puedes probarla antes que nadie' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/5-mejores-apps-salir-practicar-senderismo-otono-1338362'>Las 5 mejores apps para salir a practicar senderismo este otoño</a></h4>
-    <a href='https://computerhoy.com/apps/5-mejores-apps-salir-practicar-senderismo-otono-1338362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-mejores-apps-salir-practicar-senderismo-otono-3227464.jpg?tf=1200x' alt='Las 5 mejores apps para salir a practicar senderismo este otoño' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-programar-correo-gmail-ordenador-movil-1334826'>Cómo programar un correo en Gmail desde el ordenador o móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-programar-correo-gmail-ordenador-movil-1334826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/programar-gmail-3221426.jpg?tf=1200x' alt='Cómo programar un correo en Gmail desde el ordenador o móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/casos-top-hacktivismo-historia-anonymous-demas-grupos-personas-como-snowden-1326246'>Casos de hacktivismo que han marcado la historia: desde Anonymous hasta Edward Snowden</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/casos-top-hacktivismo-historia-anonymous-demas-grupos-personas-como-snowden-1326246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/anonymous-3206430.jpg?tf=1200x' alt='Casos de hacktivismo que han marcado la historia: desde Anonymous hasta Edward Snowden' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-dara-mayor-visibilidad-informacion-perfil-funcion-1341376'>WhatsApp dará mayor visibilidad a la información de tu perfil con esta función</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-dara-mayor-visibilidad-informacion-perfil-funcion-1341376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-logo-3198238.jpg?tf=1200x' alt='WhatsApp dará mayor visibilidad a la información de tu perfil con esta función' />
     </a>
 </div>
 
