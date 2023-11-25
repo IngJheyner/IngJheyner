@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-ya-no-te-dejara-poner-resenas-estos-sitios-1341442'>Google Maps ya no te dejará poner reseñas de estos sitios</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-ya-no-te-dejara-poner-resenas-estos-sitios-1341442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-maps-3233298.jpg?tf=1200x' alt='Google Maps ya no te dejará poner reseñas de estos sitios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-anade-seccion-avanzada-configuracion-chrome-funciones-ia-1341438'>Google añade una sección avanzada a la configuración de Chrome con funciones de IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-anade-seccion-avanzada-configuracion-chrome-funciones-ia-1341438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-chrome-seguridad-2980508.jpg?tf=1200x' alt='Google añade una sección avanzada a la configuración de Chrome con funciones de IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/descubren-granja-criptomonedas-oculta-debajo-tribunal-polonia-1341432'>Descubren una granja de criptomonedas oculta debajo del Tribunal en Polonia</a></h4>
     <a href='https://computerhoy.com/criptos/descubren-granja-criptomonedas-oculta-debajo-tribunal-polonia-1341432' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/granja-criptomonedas-3233252.jpg?tf=1200x' alt='Descubren una granja de criptomonedas oculta debajo del Tribunal en Polonia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/nuevo-google-assistant-bard-incluira-modo-clasico-aquellos-no-confien-ia-1341410'>El nuevo Google Assistant con Bard incluirá un modo clásico para aquellos que no confíen en la IA</a></h4>
     <a href='https://computerhoy.com/apps/nuevo-google-assistant-bard-incluira-modo-clasico-aquellos-no-confien-ia-1341410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-assistant-bard-3233184.jpg?tf=1200x' alt='El nuevo Google Assistant con Bard incluirá un modo clásico para aquellos que no confíen en la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-trilogia-boxeo-mitica-historia-rocky-1341348'>Qué película ver en la TDT hoy: la trilogía de boxeo más mítica de la historia, el gran triunfo de Sylvester Stallone</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-trilogia-boxeo-mitica-historia-rocky-1341348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pelicula-ver-tdt-hoy-trilogia-boxeo-mitica-historia-gran-triunfo-sylvester-stallone-3232988.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: la trilogía de boxeo más mítica de la historia, el gran triunfo de Sylvester Stallone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cientificos-creen-mercurio-puede-haber-vida-culpa-tienen-glaciares-sal-1341406'>Científicos creen que en Mercurio puede haber vida, y la culpa la tienen sus glaciares de sal</a></h4>
-    <a href='https://computerhoy.com/espacio/cientificos-creen-mercurio-puede-haber-vida-culpa-tienen-glaciares-sal-1341406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/planeta-mercurio-3233178.jpg?tf=1200x' alt='Científicos creen que en Mercurio puede haber vida, y la culpa la tienen sus glaciares de sal' />
     </a>
 </div>
 
