@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/descubren-granja-criptomonedas-oculta-debajo-tribunal-polonia-1341432'>Descubren una granja de criptomonedas oculta debajo del Tribunal en Polonia</a></h4>
+    <a href='https://computerhoy.com/criptos/descubren-granja-criptomonedas-oculta-debajo-tribunal-polonia-1341432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/granja-criptomonedas-3233252.jpg?tf=1200x' alt='Descubren una granja de criptomonedas oculta debajo del Tribunal en Polonia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-hunde-google-oferta-1tb-almacenamiento-todos-programas-premium-ademas-antivirus-regalo-1341028'>Microsoft hunde a Google con esta oferta: 1TB de almacenamiento, todos sus programas premium y además antivirus de regalo</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-hunde-google-oferta-1tb-almacenamiento-todos-programas-premium-ademas-antivirus-regalo-1341028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-aplicaciones-3232280.jpg?tf=1200x' alt='Microsoft hunde a Google con esta oferta: 1TB de almacenamiento, todos sus programas premium y además antivirus de regalo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/cientificos-creen-mercurio-puede-haber-vida-culpa-tienen-glaciares-sal-1341406'>Científicos creen que en Mercurio puede haber vida, y la culpa la tienen sus glaciares de sal</a></h4>
     <a href='https://computerhoy.com/espacio/cientificos-creen-mercurio-puede-haber-vida-culpa-tienen-glaciares-sal-1341406' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/planeta-mercurio-3233178.jpg?tf=1200x' alt='Científicos creen que en Mercurio puede haber vida, y la culpa la tienen sus glaciares de sal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-puedes-disfrutar-videojuegos-youtube-playables-ya-disponible-usuarios-premium-1341400'>Ya puedes disfrutar de videojuegos desde YouTube: Playables ya está disponible para los usuarios premium</a></h4>
-    <a href='https://computerhoy.com/apps/ya-puedes-disfrutar-videojuegos-youtube-playables-ya-disponible-usuarios-premium-1341400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-playables-3233160.jpg?tf=1200x' alt='Ya puedes disfrutar de videojuegos desde YouTube: Playables ya está disponible para los usuarios premium' />
     </a>
 </div>
 
