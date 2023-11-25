@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aitana-lopez-primera-modelo-espanola-creada-inteligencia-artificial-1341146'>Así es Aitana López, la primera modelo española creada por una IA, ya gana 10.000 euros al mes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aitana-lopez-primera-modelo-espanola-creada-inteligencia-artificial-1341146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aitana-lopez-primera-modelo-espanola-creada-ia-ya-gana-10000-euros-mes-3232782.jpg?tf=1200x' alt='Así es Aitana López, la primera modelo española creada por una IA, ya gana 10.000 euros al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/misterio-carretera-odia-android-auto-nadie-sabe-solucionar-1341142'>El misterio de la carretera que "odia" Android Auto y que nadie sabe solucionar</a></h4>
+    <a href='https://computerhoy.com/android/misterio-carretera-odia-android-auto-nadie-sabe-solucionar-1341142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/misterio-carretera-odia-android-auto-nadie-sabe-solucionar-3232786.jpg?tf=1200x' alt='El misterio de la carretera que "odia" Android Auto y que nadie sabe solucionar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752'>Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo</a></h4>
     <a href='https://computerhoy.com/directos/black-friday-2023-ofertas-bestias-tecnologia-electronica-gadgets-directo-1339752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/directo-computerhoy-black-friday-2023-3230128.jpg?tf=1200x' alt='Black Friday 2023: las ofertas más bestias en tecnología, electrónica y gadgets, en directo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-crear-hologramas-movil-sencillo-metodo-casero-1340404'>Como crear hologramas en tu móvil con este sencillo método casero</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-crear-hologramas-movil-sencillo-metodo-casero-1340404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/crea-propios-hologramas-movil-sencillo-metodo-casero-3231332.jpg?tf=1200x' alt='Como crear hologramas en tu móvil con este sencillo método casero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/consejo-steve-jobs-conseguir-todo-quieres-1339922'>El consejo infalible de Steve Jobs para conseguir todo lo que quieres, y que casi siempre funciona</a></h4>
-    <a href='https://computerhoy.com/life/consejo-steve-jobs-conseguir-todo-quieres-1339922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/consejo-infalible-steve-jobs-conseguir-todo-quieres-casi-siempre-funciona-3230546.jpg?tf=1200x' alt='El consejo infalible de Steve Jobs para conseguir todo lo que quieres, y que casi siempre funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/pantalla-proximo-iphone-podria-verse-peor-aunque-buen-motivo-1341122'>La pantalla de tu próximo iPhone podría verse peor, aunque por un buen motivo</a></h4>
-    <a href='https://computerhoy.com/apple/pantalla-proximo-iphone-podria-verse-peor-aunque-buen-motivo-1341122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/texto-pantalla-bloqueo-iphone-3149718.jpg?tf=1200x' alt='La pantalla de tu próximo iPhone podría verse peor, aunque por un buen motivo' />
     </a>
 </div>
 
