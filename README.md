@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-deja-tablet-xiaomi-barata-precio-escandalo-1341060'>AliExpress la lía y deja la tablet Xiaomi más barata a precio de escándalo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-lia-deja-tablet-xiaomi-barata-precio-escandalo-1341060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-redmi-pad-3232502.jpg?tf=1200x' alt='AliExpress la lía y deja la tablet Xiaomi más barata a precio de escándalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-maps-ya-no-te-dejara-poner-resenas-estos-sitios-1341442'>Google Maps ya no te dejará poner reseñas de estos sitios</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-ya-no-te-dejara-poner-resenas-estos-sitios-1341442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-maps-3233298.jpg?tf=1200x' alt='Google Maps ya no te dejará poner reseñas de estos sitios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-hunde-google-oferta-1tb-almacenamiento-todos-programas-premium-ademas-antivirus-regalo-1341028'>Microsoft hunde a Google con esta oferta: 1TB de almacenamiento, todos sus programas premium y además antivirus de regalo</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-hunde-google-oferta-1tb-almacenamiento-todos-programas-premium-ademas-antivirus-regalo-1341028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-aplicaciones-3232280.jpg?tf=1200x' alt='Microsoft hunde a Google con esta oferta: 1TB de almacenamiento, todos sus programas premium y además antivirus de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nuevo-google-assistant-bard-incluira-modo-clasico-aquellos-no-confien-ia-1341410'>El nuevo Google Assistant con Bard incluirá un modo clásico para aquellos que no confíen en la IA</a></h4>
-    <a href='https://computerhoy.com/apps/nuevo-google-assistant-bard-incluira-modo-clasico-aquellos-no-confien-ia-1341410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-assistant-bard-3233184.jpg?tf=1200x' alt='El nuevo Google Assistant con Bard incluirá un modo clásico para aquellos que no confíen en la IA' />
     </a>
 </div>
 
