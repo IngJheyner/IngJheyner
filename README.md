@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/5-apps-ideales-practicar-yoga-salir-casa-1332780'>5 apps ideales para practicar yoga sin salir de casa</a></h4>
-    <a href='https://computerhoy.com/apps/5-apps-ideales-practicar-yoga-salir-casa-1332780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-apps-ideales-practicar-yoga-salir-casa-3217832.jpg?tf=1200x' alt='5 apps ideales para practicar yoga sin salir de casa' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-trabaja-opcion-cambiar-fondo-pantalla-chrome-utilizando-ia-1341670'>Google trabaja en una opción para cambiar el fondo de pantalla en Chrome utilizando IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-trabaja-opcion-cambiar-fondo-pantalla-chrome-utilizando-ia-1341670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-chrome-3233530.jpg?tf=1200x' alt='Google trabaja en una opción para cambiar el fondo de pantalla en Chrome utilizando IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tarjetas-virtuales-desechables-1338556'>Desde que descubrí las tarjetas virtuales desechables no me planteo otra forma de pagar mis compras por Internet</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tarjetas-virtuales-desechables-1338556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tarjetas-banco-virtuales-3229084.jpg?tf=1200x' alt='Desde que descubrí las tarjetas virtuales desechables no me planteo otra forma de pagar mis compras por Internet' />
+    <h4><a href='https://computerhoy.com/redes/necesitas-wifi-no-ralentice-invitados-1338662'>El truco que necesitas para que tu red WiFi no se ralentice cuando tengas invitados en casa estas Navidades</a></h4>
+    <a href='https://computerhoy.com/redes/necesitas-wifi-no-ralentice-invitados-1338662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-wifi-3047130.jpg?tf=1200x' alt='El truco que necesitas para que tu red WiFi no se ralentice cuando tengas invitados en casa estas Navidades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/patron-oscuro-como-juegan-contigo-webs-compras-1334122'>¿Qué es un patrón oscuro o dark pattern y cómo juegan contigo las webs en tus compras?</a></h4>
-    <a href='https://computerhoy.com/internet/patron-oscuro-como-juegan-contigo-webs-compras-1334122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1700817724316-3231894.jpg?tf=1200x' alt='¿Qué es un patrón oscuro o dark pattern y cómo juegan contigo las webs en tus compras?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/juguetes-espias-peligrosos-1338012'>Juguetes espías que pusieron en riesgo la privacidad de los niños: ¿Son realmente peligrosos?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/juguetes-espias-peligrosos-1338012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/munecos-3227014.jpg?tf=1200x' alt='Juguetes espías que pusieron en riesgo la privacidad de los niños: ¿Son realmente peligrosos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/5-sencillas-costumbres-japonesas-te-ayudan-adelgazar-hacer-dieta-1339236'>5 sencillas costumbres japonesas que te ayudan a adelgazar sin hacer dieta</a></h4>
-    <a href='https://computerhoy.com/life/5-sencillas-costumbres-japonesas-te-ayudan-adelgazar-hacer-dieta-1339236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-sencillas-costumbres-japonesas-te-ayudan-adelgazar-hacer-dieta-3229058.jpg?tf=1200x' alt='5 sencillas costumbres japonesas que te ayudan a adelgazar sin hacer dieta' />
+    <h4><a href='https://computerhoy.com/life/5-sencillas-practicas-protegen-salud-pasas-muchas-horas-delante-portatil-1336512'>5 sencillas prácticas que protegen tu salud si pasas muchas horas delante del portátil</a></h4>
+    <a href='https://computerhoy.com/life/5-sencillas-practicas-protegen-salud-pasas-muchas-horas-delante-portatil-1336512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-sencillas-practicas-protegen-salud-pasas-muchas-horas-delante-portatil-3224274.jpg?tf=1200x' alt='5 sencillas prácticas que protegen tu salud si pasas muchas horas delante del portátil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ipad-navidad-hoy-ultimo-dia-comprarlo-barato-1341078'>¿iPad para Navidad? Si es así, hoy es el último día para comprarlo barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ipad-navidad-hoy-ultimo-dia-comprarlo-barato-1341078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/ipad-air-2020-2468877.jpg?tf=1200x' alt='¿iPad para Navidad? Si es así, hoy es el último día para comprarlo barato' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-listas-iptv-canales-gratis-todo-mundo-movil-pc-1339926'>Cómo ver las listas IPTV de canales gratis de todo el mundo en el móvil o PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-listas-iptv-canales-gratis-todo-mundo-movil-pc-1339926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-ver-listas-iptv-canales-gratis-todo-mundo-movil-pc-3230748.jpg?tf=1200x' alt='Cómo ver las listas IPTV de canales gratis de todo el mundo en el móvil o PC' />
     </a>
 </div>
 
