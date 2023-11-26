@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ultima-llamada-comprar-ps5-barata-antes-navidad-fc-24-regalo-1341402'>Última llamada para comprar la PS5 barata antes de Navidad, y con FC 24 de regalo</a></h4>
-    <a href='https://computerhoy.com/gaming/ultima-llamada-comprar-ps5-barata-antes-navidad-fc-24-regalo-1341402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ps5-playstation-5-ea-sports-fc-24-3233142.jpg?tf=1200x' alt='Última llamada para comprar la PS5 barata antes de Navidad, y con FC 24 de regalo' />
+    <h4><a href='https://computerhoy.com/apps/5-apps-ideales-practicar-yoga-salir-casa-1332780'>5 apps ideales para practicar yoga sin salir de casa</a></h4>
+    <a href='https://computerhoy.com/apps/5-apps-ideales-practicar-yoga-salir-casa-1332780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-apps-ideales-practicar-yoga-salir-casa-3217832.jpg?tf=1200x' alt='5 apps ideales para practicar yoga sin salir de casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-crossfade-apple-music-1339136'>Qué es y cómo usar Crossfade con Apple Music</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-crossfade-apple-music-1339136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-usar-crossfade-apple-music-3228936.jpg?tf=1200x' alt='Qué es y cómo usar Crossfade con Apple Music' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/tarjetas-virtuales-desechables-1338556'>Desde que descubrí las tarjetas virtuales desechables no me planteo otra forma de pagar mis compras por Internet</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tarjetas-virtuales-desechables-1338556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tarjetas-banco-virtuales-3229084.jpg?tf=1200x' alt='Desde que descubrí las tarjetas virtuales desechables no me planteo otra forma de pagar mis compras por Internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-deja-tablet-xiaomi-barata-precio-escandalo-1341060'>AliExpress la lía y deja la tablet Xiaomi más barata a precio de escándalo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-lia-deja-tablet-xiaomi-barata-precio-escandalo-1341060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-redmi-pad-3232502.jpg?tf=1200x' alt='AliExpress la lía y deja la tablet Xiaomi más barata a precio de escándalo' />
+    <h4><a href='https://computerhoy.com/internet/patron-oscuro-como-juegan-contigo-webs-compras-1334122'>¿Qué es un patrón oscuro o dark pattern y cómo juegan contigo las webs en tus compras?</a></h4>
+    <a href='https://computerhoy.com/internet/patron-oscuro-como-juegan-contigo-webs-compras-1334122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1700817724316-3231894.jpg?tf=1200x' alt='¿Qué es un patrón oscuro o dark pattern y cómo juegan contigo las webs en tus compras?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-ya-no-te-dejara-poner-resenas-estos-sitios-1341442'>Google Maps ya no te dejará poner reseñas de estos sitios</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-ya-no-te-dejara-poner-resenas-estos-sitios-1341442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-maps-3233298.jpg?tf=1200x' alt='Google Maps ya no te dejará poner reseñas de estos sitios' />
+    <h4><a href='https://computerhoy.com/life/5-sencillas-costumbres-japonesas-te-ayudan-adelgazar-hacer-dieta-1339236'>5 sencillas costumbres japonesas que te ayudan a adelgazar sin hacer dieta</a></h4>
+    <a href='https://computerhoy.com/life/5-sencillas-costumbres-japonesas-te-ayudan-adelgazar-hacer-dieta-1339236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-sencillas-costumbres-japonesas-te-ayudan-adelgazar-hacer-dieta-3229058.jpg?tf=1200x' alt='5 sencillas costumbres japonesas que te ayudan a adelgazar sin hacer dieta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-anade-seccion-avanzada-configuracion-chrome-funciones-ia-1341438'>Google añade una sección avanzada a la configuración de Chrome con funciones de IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-anade-seccion-avanzada-configuracion-chrome-funciones-ia-1341438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-chrome-seguridad-2980508.jpg?tf=1200x' alt='Google añade una sección avanzada a la configuración de Chrome con funciones de IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/ipad-navidad-hoy-ultimo-dia-comprarlo-barato-1341078'>¿iPad para Navidad? Si es así, hoy es el último día para comprarlo barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ipad-navidad-hoy-ultimo-dia-comprarlo-barato-1341078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/ipad-air-2020-2468877.jpg?tf=1200x' alt='¿iPad para Navidad? Si es así, hoy es el último día para comprarlo barato' />
     </a>
 </div>
 
