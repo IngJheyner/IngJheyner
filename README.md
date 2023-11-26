@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-trabaja-opcion-cambiar-fondo-pantalla-chrome-utilizando-ia-1341670'>Google trabaja en una opción para cambiar el fondo de pantalla en Chrome utilizando IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-trabaja-opcion-cambiar-fondo-pantalla-chrome-utilizando-ia-1341670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-chrome-3233530.jpg?tf=1200x' alt='Google trabaja en una opción para cambiar el fondo de pantalla en Chrome utilizando IA' />
+    <h4><a href='https://computerhoy.com/apps/android-auto-no-responde-reciente-actualizacion-estos-son-moviles-afectados-1341678'>Android Auto no responde tras una reciente actualización, y estos son los móviles afectados</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-no-responde-reciente-actualizacion-estos-son-moviles-afectados-1341678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg?tf=1200x' alt='Android Auto no responde tras una reciente actualización, y estos son los móviles afectados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/necesitas-wifi-no-ralentice-invitados-1338662'>El truco que necesitas para que tu red WiFi no se ralentice cuando tengas invitados en casa estas Navidades</a></h4>
-    <a href='https://computerhoy.com/redes/necesitas-wifi-no-ralentice-invitados-1338662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-wifi-3047130.jpg?tf=1200x' alt='El truco que necesitas para que tu red WiFi no se ralentice cuando tengas invitados en casa estas Navidades' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-cerrar-sesion-gmail-movil-android-iphone-1335328'>Cómo cerrar sesión de Gmail en el móvil (Android o iPhone)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cerrar-sesion-gmail-movil-android-iphone-1335328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Cómo cerrar sesión de Gmail en el móvil (Android o iPhone)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/juguetes-espias-peligrosos-1338012'>Juguetes espías que pusieron en riesgo la privacidad de los niños: ¿Son realmente peligrosos?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/juguetes-espias-peligrosos-1338012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/munecos-3227014.jpg?tf=1200x' alt='Juguetes espías que pusieron en riesgo la privacidad de los niños: ¿Son realmente peligrosos?' />
+    <h4><a href='https://computerhoy.com/espacio/james-webb-detecta-estructuras-inexplicables-centro-galaxia-desconciertan-cientificos-1341674'>James Webb detecta "estructuras inexplicables" en el centro de nuestra galaxia que desconciertan a los científicos</a></h4>
+    <a href='https://computerhoy.com/espacio/james-webb-detecta-estructuras-inexplicables-centro-galaxia-desconciertan-cientificos-1341674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/james-webb-detecta-estructuras-inexplicables-centro-galaxia-desconciertan-cientificos-3233536.jpg?tf=1200x' alt='James Webb detecta "estructuras inexplicables" en el centro de nuestra galaxia que desconciertan a los científicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/5-sencillas-practicas-protegen-salud-pasas-muchas-horas-delante-portatil-1336512'>5 sencillas prácticas que protegen tu salud si pasas muchas horas delante del portátil</a></h4>
-    <a href='https://computerhoy.com/life/5-sencillas-practicas-protegen-salud-pasas-muchas-horas-delante-portatil-1336512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-sencillas-practicas-protegen-salud-pasas-muchas-horas-delante-portatil-3224274.jpg?tf=1200x' alt='5 sencillas prácticas que protegen tu salud si pasas muchas horas delante del portátil' />
+    <h4><a href='https://computerhoy.com/google/como-borrar-todo-historial-google-cada-dispositivo-1339246'>Cómo borrar todo el historial de Google de cada dispositivo</a></h4>
+    <a href='https://computerhoy.com/google/como-borrar-todo-historial-google-cada-dispositivo-1339246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-borrar-todo-historial-google-cada-dispositivo-3229214.jpg?tf=1200x' alt='Cómo borrar todo el historial de Google de cada dispositivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-listas-iptv-canales-gratis-todo-mundo-movil-pc-1339926'>Cómo ver las listas IPTV de canales gratis de todo el mundo en el móvil o PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-listas-iptv-canales-gratis-todo-mundo-movil-pc-1339926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-ver-listas-iptv-canales-gratis-todo-mundo-movil-pc-3230748.jpg?tf=1200x' alt='Cómo ver las listas IPTV de canales gratis de todo el mundo en el móvil o PC' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-garmin-fenix-mejor-epix-2-agotandose-400eu-barato-1341686'>No es el Garmin Fenix, es mejor: el Epix 2 está agotándose y es 400€ más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-garmin-fenix-mejor-epix-2-agotandose-400eu-barato-1341686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-epix-2-3233564.jpg?tf=1200x' alt='No es el Garmin Fenix, es mejor: el Epix 2 está agotándose y es 400€ más barato' />
     </a>
 </div>
 
