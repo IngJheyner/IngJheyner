@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ultima-llamada-comprar-ps5-barata-antes-navidad-fc-24-regalo-1341402'>Última llamada para comprar la PS5 barata antes de Navidad, y con FC 24 de regalo</a></h4>
+    <a href='https://computerhoy.com/gaming/ultima-llamada-comprar-ps5-barata-antes-navidad-fc-24-regalo-1341402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ps5-playstation-5-ea-sports-fc-24-3233142.jpg?tf=1200x' alt='Última llamada para comprar la PS5 barata antes de Navidad, y con FC 24 de regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-crossfade-apple-music-1339136'>Qué es y cómo usar Crossfade con Apple Music</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-crossfade-apple-music-1339136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-usar-crossfade-apple-music-3228936.jpg?tf=1200x' alt='Qué es y cómo usar Crossfade con Apple Music' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-deja-tablet-xiaomi-barata-precio-escandalo-1341060'>AliExpress la lía y deja la tablet Xiaomi más barata a precio de escándalo</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-lia-deja-tablet-xiaomi-barata-precio-escandalo-1341060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-redmi-pad-3232502.jpg?tf=1200x' alt='AliExpress la lía y deja la tablet Xiaomi más barata a precio de escándalo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-anade-seccion-avanzada-configuracion-chrome-funciones-ia-1341438'>Google añade una sección avanzada a la configuración de Chrome con funciones de IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-anade-seccion-avanzada-configuracion-chrome-funciones-ia-1341438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/google-chrome-seguridad-2980508.jpg?tf=1200x' alt='Google añade una sección avanzada a la configuración de Chrome con funciones de IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/descubren-granja-criptomonedas-oculta-debajo-tribunal-polonia-1341432'>Descubren una granja de criptomonedas oculta debajo del Tribunal en Polonia</a></h4>
-    <a href='https://computerhoy.com/criptos/descubren-granja-criptomonedas-oculta-debajo-tribunal-polonia-1341432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/granja-criptomonedas-3233252.jpg?tf=1200x' alt='Descubren una granja de criptomonedas oculta debajo del Tribunal en Polonia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-hunde-google-oferta-1tb-almacenamiento-todos-programas-premium-ademas-antivirus-regalo-1341028'>Microsoft hunde a Google con esta oferta: 1TB de almacenamiento, todos sus programas premium y además antivirus de regalo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-hunde-google-oferta-1tb-almacenamiento-todos-programas-premium-ademas-antivirus-regalo-1341028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-aplicaciones-3232280.jpg?tf=1200x' alt='Microsoft hunde a Google con esta oferta: 1TB de almacenamiento, todos sus programas premium y además antivirus de regalo' />
     </a>
 </div>
 
