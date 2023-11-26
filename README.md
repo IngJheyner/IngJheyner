@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-prueba-busqueda-simple-buscador-serian-resultados-1341708'>Google prueba una búsqueda simple para su buscador, y así serían los resultados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-prueba-busqueda-simple-buscador-serian-resultados-1341708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/buscador-google-3026692.jpg?tf=1200x' alt='Google prueba una búsqueda simple para su buscador, y así serían los resultados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/agujero-capa-ozono-grande-creia-estos-ultimos-anos-1341680'>El agujero de la capa de ozono es más grande de lo que se creía en estos últimos años</a></h4>
+    <a href='https://computerhoy.com/life/agujero-capa-ozono-grande-creia-estos-ultimos-anos-1341680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/capa-ozono-3233544.jpg?tf=1200x' alt='El agujero de la capa de ozono es más grande de lo que se creía en estos últimos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-abrir-archivos-heic-windows-convertirlos-jpeg-1292852'>Cómo abrir archivos HEIC en Windows o convertirlos a JPEG </a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-abrir-archivos-heic-windows-convertirlos-jpeg-1292852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-heic-3113376.jpg?tf=1200x' alt='Cómo abrir archivos HEIC en Windows o convertirlos a JPEG ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/android-auto-no-responde-reciente-actualizacion-estos-son-moviles-afectados-1341678'>Android Auto no responde tras una reciente actualización, y estos son los móviles afectados</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-no-responde-reciente-actualizacion-estos-son-moviles-afectados-1341678' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2592657.jpg?tf=1200x' alt='Android Auto no responde tras una reciente actualización, y estos son los móviles afectados' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-cerrar-sesion-gmail-movil-android-iphone-1335328'>Cómo cerrar sesión de Gmail en el móvil (Android o iPhone)</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cerrar-sesion-gmail-movil-android-iphone-1335328' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Cómo cerrar sesión de Gmail en el móvil (Android o iPhone)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/james-webb-detecta-estructuras-inexplicables-centro-galaxia-desconciertan-cientificos-1341674'>James Webb detecta "estructuras inexplicables" en el centro de nuestra galaxia que desconciertan a los científicos</a></h4>
-    <a href='https://computerhoy.com/espacio/james-webb-detecta-estructuras-inexplicables-centro-galaxia-desconciertan-cientificos-1341674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/james-webb-detecta-estructuras-inexplicables-centro-galaxia-desconciertan-cientificos-3233536.jpg?tf=1200x' alt='James Webb detecta "estructuras inexplicables" en el centro de nuestra galaxia que desconciertan a los científicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-borrar-todo-historial-google-cada-dispositivo-1339246'>Cómo borrar todo el historial de Google de cada dispositivo</a></h4>
-    <a href='https://computerhoy.com/google/como-borrar-todo-historial-google-cada-dispositivo-1339246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-borrar-todo-historial-google-cada-dispositivo-3229214.jpg?tf=1200x' alt='Cómo borrar todo el historial de Google de cada dispositivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-garmin-fenix-mejor-epix-2-agotandose-400eu-barato-1341686'>No es el Garmin Fenix, es mejor: el Epix 2 está agotándose y es 400€ más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-garmin-fenix-mejor-epix-2-agotandose-400eu-barato-1341686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-epix-2-3233564.jpg?tf=1200x' alt='No es el Garmin Fenix, es mejor: el Epix 2 está agotándose y es 400€ más barato' />
     </a>
 </div>
 
