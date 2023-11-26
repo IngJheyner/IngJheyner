@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s24-ultra-podria-estrenar-cambio-pantalla-1341758'>El Samsung Galaxy S24 Ultra podría estrenar un cambio significativo en su pantalla</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-galaxy-s24-ultra-podria-estrenar-cambio-pantalla-1341758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-ultra-analisis-opinion-2961026.jpg?tf=1200x' alt='El Samsung Galaxy S24 Ultra podría estrenar un cambio significativo en su pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/bascula-inteligente-953625'>Guía y consejos para comprar una báscula inteligente con medidor de grasa corporal</a></h4>
+    <a href='https://computerhoy.com/guia-compra/bascula-inteligente-953625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bascula-inteligente-realme-2676603.jpg?tf=1200x' alt='Guía y consejos para comprar una báscula inteligente con medidor de grasa corporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/como-aumentar-velocidad-wifi-instante-truco-mesita-cafe-1341756'>Cómo aumentar la velocidad del WiFi al instante con el genial truco de la mesita de café</a></h4>
+    <a href='https://computerhoy.com/redes/como-aumentar-velocidad-wifi-instante-truco-mesita-cafe-1341756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-movil-ordenador-2622317.jpg?tf=1200x' alt='Cómo aumentar la velocidad del WiFi al instante con el genial truco de la mesita de café' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dbrand-denuncia-casetify-plagio-fundas-1341754'>El curioso caso de las marcas de fundas y skins de rayos X que se copian unas a otras: las pruebas están en los easter eggs</a></h4>
     <a href='https://computerhoy.com/tecnologia/dbrand-denuncia-casetify-plagio-fundas-1341754' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/curioso-caso-fundas-rayos-x-copian-unas-otras-3233720.jpg?tf=1200x' alt='El curioso caso de las marcas de fundas y skins de rayos X que se copian unas a otras: las pruebas están en los easter eggs' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/mejores-auriculares-conduccion-osea-estan-primera-vez-menos-100-euros-1341726'>Estos auriculares son distintos a los demás: de transmisión ósea y ahora a precio de ganga</a></h4>
     <a href='https://computerhoy.com/audio/mejores-auriculares-conduccion-osea-estan-primera-vez-menos-100-euros-1341726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aftershokz-openrun-2947826.jpg?tf=1200x' alt='Estos auriculares son distintos a los demás: de transmisión ósea y ahora a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/tiny11-windows-11-miniatura-solo-ocupa-4-gb-anade-ia-copilot-1341746'>Tiny11, el Windows 11 en miniatura que solo ocupa 4 GB, se encoge un 20% más y añade la IA Copilot</a></h4>
-    <a href='https://computerhoy.com/windows/tiny11-windows-11-miniatura-solo-ocupa-4-gb-anade-ia-copilot-1341746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tiny11-windows-11-solo-ocupa-4-gb-encoge-20-anade-ia-copilot-3233704.jpg?tf=1200x' alt='Tiny11, el Windows 11 en miniatura que solo ocupa 4 GB, se encoge un 20% más y añade la IA Copilot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-mad-max-furia-carretera-1341644'>Qué película ver en la TDT hoy: un posible futuro apocalíptico que te deja sin aliento</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-mad-max-furia-carretera-1341644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pelicula-ver-tdt-hoy-posible-futuro-apocaliptico-nos-espera-3233518.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: un posible futuro apocalíptico que te deja sin aliento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-prueba-busqueda-simple-buscador-serian-resultados-1341708'>Google prueba una búsqueda simple para su buscador, y así serían los resultados</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-prueba-busqueda-simple-buscador-serian-resultados-1341708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/buscador-google-3026692.jpg?tf=1200x' alt='Google prueba una búsqueda simple para su buscador, y así serían los resultados' />
     </a>
 </div>
 
