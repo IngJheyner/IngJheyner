@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/modo-avion-sirve-cuando-necesario-activarlo-1322794'>Modo avión en el móvil: qué es, para qué sirve y cuándo es necesario activarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/modo-avion-sirve-cuando-necesario-activarlo-1322794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/modo-avion-movil-sirve-cuando-necesario-activarlo-3200786.jpg?tf=1200x' alt='Modo avión en el móvil: qué es, para qué sirve y cuándo es necesario activarlo' />
+    <h4><a href='https://computerhoy.com/ciencia/como-musica-puede-mejorar-recuerdos-nuevo-estudio-1341056'>Cómo la música puede mejorar tus recuerdos, según un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/ciencia/como-musica-puede-mejorar-recuerdos-nuevo-estudio-1341056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mujer-escucha-musica-2946780.jpg?tf=1200x' alt='Cómo la música puede mejorar tus recuerdos, según un nuevo estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/signal-demuestra-whatsapp-telegram-privacidad-no-cara-1342228'>Signal avergüenza a WhatsApp y Telegram demostrando que la privacidad no es cara</a></h4>
-    <a href='https://computerhoy.com/apps/signal-demuestra-whatsapp-telegram-privacidad-no-cara-1342228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/signal-requerira-45-millones-euros-ano-funcionar-2025-cantidad-ridicula-comparacion-whatsapp-telegram-3234680.jpg?tf=1200x' alt='Signal avergüenza a WhatsApp y Telegram demostrando que la privacidad no es cara' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuando-ia-equivoca-chatgpt-puede-generar-datos-falsos-apoyar-hipotesis-cientificas-1341012'>Cuando la IA se equivoca: ChatGPT puede generar datos falsos para apoyar hipótesis científicas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuando-ia-equivoca-chatgpt-puede-generar-datos-falsos-apoyar-hipotesis-cientificas-1341012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ranking-modelos-inteligencia-artificial-alucinaciones-dejan-ias-google-como-mentirosas-3222952.jpg?tf=1200x' alt='Cuando la IA se equivoca: ChatGPT puede generar datos falsos para apoyar hipótesis científicas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783'>Apps Android para poder localizar a tus amigos y familiares, incluso en grandes aglomeraciones de gente</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ubicacion-2530989.jpg?tf=1200x' alt='Apps Android para poder localizar a tus amigos y familiares, incluso en grandes aglomeraciones de gente' />
+    <h4><a href='https://computerhoy.com/tv/fire-tv-stick-chino-tiene-4k-hdr-android-13-cuesta-menos-20-euros-1342284'>El Fire TV Stick chino tiene 4K, HDR, Android 13 y cuesta menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/tv/fire-tv-stick-chino-tiene-4k-hdr-android-13-cuesta-menos-20-euros-1342284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-tv-f2-43-3190210.jpg?tf=1200x' alt='El Fire TV Stick chino tiene 4K, HDR, Android 13 y cuesta menos de 20 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/fraude-sicario-proxeneta-nueva-estafa-paginas-porno-1342184'>El fraude del sicario o proxeneta, la nueva y peligrosa estafa cada vez más frecuente en las páginas porno</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/fraude-sicario-proxeneta-nueva-estafa-paginas-porno-1342184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fraude-sicario-proxeneta-nueva-estafa-cada-vez-comun-paginas-porno-3234620.jpg?tf=1200x' alt='El fraude del sicario o proxeneta, la nueva y peligrosa estafa cada vez más frecuente en las páginas porno' />
+    <h4><a href='https://computerhoy.com/android/pesadilla-usuarios-google-maps-llega-android-auto-1342252'>La pesadilla para los usuarios de Google Maps llega también a Android Auto</a></h4>
+    <a href='https://computerhoy.com/android/pesadilla-usuarios-google-maps-llega-android-auto-1342252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pesadilla-usuarios-google-maps-llega-tambien-android-auto-3234738.jpg?tf=1200x' alt='La pesadilla para los usuarios de Google Maps llega también a Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-recomendada-rebajada-69-cyber-monday-1342148'>Esta VPN incluye el equivalente a Dropbox y Drive y sin que te espíen, y ahora te regala tres meses</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-recomendada-rebajada-69-cyber-monday-1342148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nordvpn-3227002.jpg?tf=1200x' alt='Esta VPN incluye el equivalente a Dropbox y Drive y sin que te espíen, y ahora te regala tres meses' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-evitar-colas-google-maps-1341144'>Cómo evitar colas con Google Maps y ahorrar cientos de horas en espera</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-evitar-colas-google-maps-1341144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-evitar-colas-google-maps-ahorrar-cientos-horas-espera-3232792.jpg?tf=1200x' alt='Cómo evitar colas con Google Maps y ahorrar cientos de horas en espera' />
     </a>
 </div>
 
