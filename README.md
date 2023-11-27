@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pantalla-locos-precio-minimos-portatil-gaming-hp-pone-amazon-reves-1341984'>Pantalla de locos y precio bajo mínimos: este portátil gaming de HP pone Amazon del revés</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pantalla-locos-precio-minimos-portatil-gaming-hp-pone-amazon-reves-1341984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hp-victus-16-d0068ns-3234052.jpg?tf=1200x' alt='Pantalla de locos y precio bajo mínimos: este portátil gaming de HP pone Amazon del revés' />
+    <h4><a href='https://computerhoy.com/entretenimiento/ridley-scott-napoleon-humano-como-vamos-frenar-ia-1342138'>Ridley Scott: Si Napoleón es humano, ¿cómo vamos a frenar a la IA?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ridley-scott-napoleon-humano-como-vamos-frenar-ia-1342138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ridley-scott-director-blade-runner-napoleon-cree-inteligencia-artificial-imparable-3234468.jpg?tf=1200x' alt='Ridley Scott: Si Napoleón es humano, ¿cómo vamos a frenar a la IA?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-deja-frito-amazon-samsung-galaxy-s23-ultra-tiene-precio-locos-1341744'>AliExpress deja frito a Amazon: el Samsung Galaxy S23 Ultra tiene un precio de locos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-deja-frito-amazon-samsung-galaxy-s23-ultra-tiene-precio-locos-1341744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/samsung-galaxy-s23-3233714.jpg?tf=1200x' alt='AliExpress deja frito a Amazon: el Samsung Galaxy S23 Ultra tiene un precio de locos' />
+    <h4><a href='https://computerhoy.com/gaming/aun-anoras-game-boy-color-consola-linux-regalo-navidad-perfecto-1341990'>Si aún añoras la Game Boy color, esta consola Linux es el regalo de Navidad perfecto</a></h4>
+    <a href='https://computerhoy.com/gaming/aun-anoras-game-boy-color-consola-linux-regalo-navidad-perfecto-1341990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/data-frog-r35s-3233738.jpg?tf=1200x' alt='Si aún añoras la Game Boy color, esta consola Linux es el regalo de Navidad perfecto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-enchufe-wifi-realmente-cuesta-8-euros-1341740'>No es un error de precio: este enchufe WiFi realmente cuesta 8 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-error-precio-enchufe-wifi-realmente-cuesta-8-euros-1341740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tenda-sp6-3233706.jpg?tf=1200x' alt='No es un error de precio: este enchufe WiFi realmente cuesta 8 euros' />
+    <h4><a href='https://computerhoy.com/amazon/modo-oculto-alexa-mucho-util-super-alexa-seguro-no-conoces-1342072'>El modo oculto de Alexa, mucho más útil que “Super Alexa”, que seguro no conoces</a></h4>
+    <a href='https://computerhoy.com/amazon/modo-oculto-alexa-mucho-util-super-alexa-seguro-no-conoces-1342072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/modo-oculto-alexa-mucho-util-super-alexa-3234278.jpg?tf=1200x' alt='El modo oculto de Alexa, mucho más útil que “Super Alexa”, que seguro no conoces' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/marcas-moviles-vendidas-espana-tercer-trimestre-2023-1339790'>Xiaomi lidera las ventas de móviles en España en un tercer trimestre en el que despunta el iPhone y se desploma Oppo</a></h4>
-    <a href='https://computerhoy.com/moviles/marcas-moviles-vendidas-espana-tercer-trimestre-2023-1339790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/marcas-moviles-espana-3230304.jpg?tf=1200x' alt='Xiaomi lidera las ventas de móviles en España en un tercer trimestre en el que despunta el iPhone y se desploma Oppo' />
+    <h4><a href='https://computerhoy.com/android/ya-disponible-beta-android-auto-110-como-puedes-descargarla-1342030'>La beta de Android Auto 11.0 ya está disponible: principales novedades y cómo descargarla</a></h4>
+    <a href='https://computerhoy.com/android/ya-disponible-beta-android-auto-110-como-puedes-descargarla-1342030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-configurar-automatizar-rutinas-android-auto-3205822.jpg?tf=1200x' alt='La beta de Android Auto 11.0 ya está disponible: principales novedades y cómo descargarla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/atento-runner-minusculo-desconocido-gadget-garmin-te-hara-mejorar-tecnica-carrera-1341728'>Atento, runner: este minúsculo (y desconocido) gadget de Garmin te hará mejorar tu técnica de carrera</a></h4>
-    <a href='https://computerhoy.com/tecnologia/atento-runner-minusculo-desconocido-gadget-garmin-te-hara-mejorar-tecnica-carrera-1341728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-running-dynamics-pod-3233686.jpg?tf=1200x' alt='Atento, runner: este minúsculo (y desconocido) gadget de Garmin te hará mejorar tu técnica de carrera' />
+    <h4><a href='https://computerhoy.com/tecnologia/wifi-problemas-todos-rincones-pack-routers-mesh-justo-necesitas-1342038'>WiFi sin problemas y en todos los rincones: este pack de routers mesh es justo lo que necesitas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/wifi-problemas-todos-rincones-pack-routers-mesh-justo-necesitas-1342038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mercusys-halo-3-3234220.jpg?tf=1200x' alt='WiFi sin problemas y en todos los rincones: este pack de routers mesh es justo lo que necesitas' />
     </a>
 </div>
 
