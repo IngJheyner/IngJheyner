@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pantalla-locos-precio-minimos-portatil-gaming-hp-pone-amazon-reves-1341984'>Pantalla de locos y precio bajo mínimos: este portátil gaming de HP pone Amazon del revés</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pantalla-locos-precio-minimos-portatil-gaming-hp-pone-amazon-reves-1341984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hp-victus-16-d0068ns-3234052.jpg?tf=1200x' alt='Pantalla de locos y precio bajo mínimos: este portátil gaming de HP pone Amazon del revés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-deja-frito-amazon-samsung-galaxy-s23-ultra-tiene-precio-locos-1341744'>AliExpress deja frito a Amazon: el Samsung Galaxy S23 Ultra tiene un precio de locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-deja-frito-amazon-samsung-galaxy-s23-ultra-tiene-precio-locos-1341744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/samsung-galaxy-s23-3233714.jpg?tf=1200x' alt='AliExpress deja frito a Amazon: el Samsung Galaxy S23 Ultra tiene un precio de locos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-enchufe-wifi-realmente-cuesta-8-euros-1341740'>No es un error de precio: este enchufe WiFi realmente cuesta 8 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-error-precio-enchufe-wifi-realmente-cuesta-8-euros-1341740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tenda-sp6-3233706.jpg?tf=1200x' alt='No es un error de precio: este enchufe WiFi realmente cuesta 8 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/marcas-moviles-vendidas-espana-tercer-trimestre-2023-1339790'>Xiaomi lidera las ventas de móviles en España en un tercer trimestre en el que despunta el iPhone y se desploma Oppo</a></h4>
     <a href='https://computerhoy.com/moviles/marcas-moviles-vendidas-espana-tercer-trimestre-2023-1339790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/marcas-moviles-espana-3230304.jpg?tf=1200x' alt='Xiaomi lidera las ventas de móviles en España en un tercer trimestre en el que despunta el iPhone y se desploma Oppo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/atento-runner-minusculo-desconocido-gadget-garmin-te-hara-mejorar-tecnica-carrera-1341728'>Atento, runner: este minúsculo (y desconocido) gadget de Garmin te hará mejorar tu técnica de carrera</a></h4>
     <a href='https://computerhoy.com/tecnologia/atento-runner-minusculo-desconocido-gadget-garmin-te-hara-mejorar-tecnica-carrera-1341728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-running-dynamics-pod-3233686.jpg?tf=1200x' alt='Atento, runner: este minúsculo (y desconocido) gadget de Garmin te hará mejorar tu técnica de carrera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-son-10-mejores-ofertas-cyber-monday-1341720'>Siguen las ofertas: el Cyber Monday arranca y estos son los mejores chollos del día</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-son-10-mejores-ofertas-cyber-monday-1341720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cyber-monday-3233642.jpg?tf=1200x' alt='Siguen las ofertas: el Cyber Monday arranca y estos son los mejores chollos del día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/que-es-extrano-crater-patomskiy-conspiraciones-disparan-1341768'>Nadie sabe qué es el extraño cráter Patomskiy, y las teorías conspiranoicas se disparan</a></h4>
-    <a href='https://computerhoy.com/ciencia/que-es-extrano-crater-patomskiy-conspiraciones-disparan-1341768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nadie-sabe-extrano-crater-patomskiy-teorias-conspiranoicas-disparan-3233844.jpg?tf=1200x' alt='Nadie sabe qué es el extraño cráter Patomskiy, y las teorías conspiranoicas se disparan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/fosa-sacrificios-edad-hierro-badajoz-miles-huesos-1341766'>Descubren miles de huesos de 52 animales diferentes en una fosa de sacrificios de la Edad de Hierro, en Badajoz</a></h4>
-    <a href='https://computerhoy.com/ciencia/fosa-sacrificios-edad-hierro-badajoz-miles-huesos-1341766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/descubren-miles-huesos-52-animales-diferentes-fosa-sacrificios-edad-hierro-badajoz-3233840.jpg?tf=1200x' alt='Descubren miles de huesos de 52 animales diferentes en una fosa de sacrificios de la Edad de Hierro, en Badajoz' />
     </a>
 </div>
 
