@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/marcas-moviles-vendidas-espana-tercer-trimestre-2023-1339790'>Xiaomi lidera las ventas de móviles en España en un tercer trimestre en el que despunta el iPhone y se desploma Oppo</a></h4>
+    <a href='https://computerhoy.com/moviles/marcas-moviles-vendidas-espana-tercer-trimestre-2023-1339790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/marcas-moviles-espana-3230304.jpg?tf=1200x' alt='Xiaomi lidera las ventas de móviles en España en un tercer trimestre en el que despunta el iPhone y se desploma Oppo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/atento-runner-minusculo-desconocido-gadget-garmin-te-hara-mejorar-tecnica-carrera-1341728'>Atento, runner: este minúsculo (y desconocido) gadget de Garmin te hará mejorar tu técnica de carrera</a></h4>
+    <a href='https://computerhoy.com/tecnologia/atento-runner-minusculo-desconocido-gadget-garmin-te-hara-mejorar-tecnica-carrera-1341728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-running-dynamics-pod-3233686.jpg?tf=1200x' alt='Atento, runner: este minúsculo (y desconocido) gadget de Garmin te hará mejorar tu técnica de carrera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estas-son-10-mejores-ofertas-cyber-monday-1341720'>Siguen las ofertas: el Cyber Monday arranca y estos son los mejores chollos del día</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-son-10-mejores-ofertas-cyber-monday-1341720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cyber-monday-3233642.jpg?tf=1200x' alt='Siguen las ofertas: el Cyber Monday arranca y estos son los mejores chollos del día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/que-es-extrano-crater-patomskiy-conspiraciones-disparan-1341768'>Nadie sabe qué es el extraño cráter Patomskiy, y las teorías conspiranoicas se disparan</a></h4>
     <a href='https://computerhoy.com/ciencia/que-es-extrano-crater-patomskiy-conspiraciones-disparan-1341768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nadie-sabe-extrano-crater-patomskiy-teorias-conspiranoicas-disparan-3233844.jpg?tf=1200x' alt='Nadie sabe qué es el extraño cráter Patomskiy, y las teorías conspiranoicas se disparan' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/fosa-sacrificios-edad-hierro-badajoz-miles-huesos-1341766'>Descubren miles de huesos de 52 animales diferentes en una fosa de sacrificios de la Edad de Hierro, en Badajoz</a></h4>
     <a href='https://computerhoy.com/ciencia/fosa-sacrificios-edad-hierro-badajoz-miles-huesos-1341766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/descubren-miles-huesos-52-animales-diferentes-fosa-sacrificios-edad-hierro-badajoz-3233840.jpg?tf=1200x' alt='Descubren miles de huesos de 52 animales diferentes en una fosa de sacrificios de la Edad de Hierro, en Badajoz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s24-ultra-podria-estrenar-cambio-pantalla-1341758'>El Samsung Galaxy S24 Ultra podría estrenar un cambio significativo en su pantalla</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-galaxy-s24-ultra-podria-estrenar-cambio-pantalla-1341758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-ultra-analisis-opinion-2961026.jpg?tf=1200x' alt='El Samsung Galaxy S24 Ultra podría estrenar un cambio significativo en su pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/bascula-inteligente-953625'>Guía y consejos para comprar una báscula inteligente con medidor de grasa corporal</a></h4>
-    <a href='https://computerhoy.com/guia-compra/bascula-inteligente-953625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bascula-inteligente-realme-2676603.jpg?tf=1200x' alt='Guía y consejos para comprar una báscula inteligente con medidor de grasa corporal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/como-aumentar-velocidad-wifi-instante-truco-mesita-cafe-1341756'>Cómo aumentar la velocidad del WiFi al instante con el genial truco de la mesita de café</a></h4>
-    <a href='https://computerhoy.com/redes/como-aumentar-velocidad-wifi-instante-truco-mesita-cafe-1341756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-movil-ordenador-2622317.jpg?tf=1200x' alt='Cómo aumentar la velocidad del WiFi al instante con el genial truco de la mesita de café' />
     </a>
 </div>
 
