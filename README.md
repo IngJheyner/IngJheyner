@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/que-es-extrano-crater-patomskiy-conspiraciones-disparan-1341768'>Nadie sabe qué es el extraño cráter Patomskiy, y las teorías conspiranoicas se disparan</a></h4>
+    <a href='https://computerhoy.com/ciencia/que-es-extrano-crater-patomskiy-conspiraciones-disparan-1341768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nadie-sabe-extrano-crater-patomskiy-teorias-conspiranoicas-disparan-3233844.jpg?tf=1200x' alt='Nadie sabe qué es el extraño cráter Patomskiy, y las teorías conspiranoicas se disparan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/fosa-sacrificios-edad-hierro-badajoz-miles-huesos-1341766'>Descubren miles de huesos de 52 animales diferentes en una fosa de sacrificios de la Edad de Hierro, en Badajoz</a></h4>
+    <a href='https://computerhoy.com/ciencia/fosa-sacrificios-edad-hierro-badajoz-miles-huesos-1341766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/descubren-miles-huesos-52-animales-diferentes-fosa-sacrificios-edad-hierro-badajoz-3233840.jpg?tf=1200x' alt='Descubren miles de huesos de 52 animales diferentes en una fosa de sacrificios de la Edad de Hierro, en Badajoz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s24-ultra-podria-estrenar-cambio-pantalla-1341758'>El Samsung Galaxy S24 Ultra podría estrenar un cambio significativo en su pantalla</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-galaxy-s24-ultra-podria-estrenar-cambio-pantalla-1341758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-ultra-analisis-opinion-2961026.jpg?tf=1200x' alt='El Samsung Galaxy S24 Ultra podría estrenar un cambio significativo en su pantalla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/como-aumentar-velocidad-wifi-instante-truco-mesita-cafe-1341756'>Cómo aumentar la velocidad del WiFi al instante con el genial truco de la mesita de café</a></h4>
     <a href='https://computerhoy.com/redes/como-aumentar-velocidad-wifi-instante-truco-mesita-cafe-1341756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-movil-ordenador-2622317.jpg?tf=1200x' alt='Cómo aumentar la velocidad del WiFi al instante con el genial truco de la mesita de café' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dbrand-denuncia-casetify-plagio-fundas-1341754'>El curioso caso de las marcas de fundas y skins de rayos X que se copian unas a otras: las pruebas están en los easter eggs</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dbrand-denuncia-casetify-plagio-fundas-1341754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/curioso-caso-fundas-rayos-x-copian-unas-otras-3233720.jpg?tf=1200x' alt='El curioso caso de las marcas de fundas y skins de rayos X que se copian unas a otras: las pruebas están en los easter eggs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/mejores-auriculares-conduccion-osea-estan-primera-vez-menos-100-euros-1341726'>Estos auriculares son distintos a los demás: de transmisión ósea y ahora a precio de ganga</a></h4>
-    <a href='https://computerhoy.com/audio/mejores-auriculares-conduccion-osea-estan-primera-vez-menos-100-euros-1341726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/aftershokz-openrun-2947826.jpg?tf=1200x' alt='Estos auriculares son distintos a los demás: de transmisión ósea y ahora a precio de ganga' />
     </a>
 </div>
 
