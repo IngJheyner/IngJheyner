@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/como-musica-puede-mejorar-recuerdos-nuevo-estudio-1341056'>Cómo la música puede mejorar tus recuerdos, según un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/ciencia/como-musica-puede-mejorar-recuerdos-nuevo-estudio-1341056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mujer-escucha-musica-2946780.jpg?tf=1200x' alt='Cómo la música puede mejorar tus recuerdos, según un nuevo estudio' />
+    <h4><a href='https://computerhoy.com/google/son-sirven-extranas-figuras-gigantes-google-maps-1341112'>Las extrañas figuras gigantes de Google Maps: ¿Qué son, para qué sirven y cómo puedes encontrarlas?</a></h4>
+    <a href='https://computerhoy.com/google/son-sirven-extranas-figuras-gigantes-google-maps-1341112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/misteriosos-codigos-gigantes-puedes-ver-google-maps-son-sirven-como-puedes-encontrarlos-3232732.jpg?tf=1200x' alt='Las extrañas figuras gigantes de Google Maps: ¿Qué son, para qué sirven y cómo puedes encontrarlas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuando-ia-equivoca-chatgpt-puede-generar-datos-falsos-apoyar-hipotesis-cientificas-1341012'>Cuando la IA se equivoca: ChatGPT puede generar datos falsos para apoyar hipótesis científicas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuando-ia-equivoca-chatgpt-puede-generar-datos-falsos-apoyar-hipotesis-cientificas-1341012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ranking-modelos-inteligencia-artificial-alucinaciones-dejan-ias-google-como-mentirosas-3222952.jpg?tf=1200x' alt='Cuando la IA se equivoca: ChatGPT puede generar datos falsos para apoyar hipótesis científicas' />
+    <h4><a href='https://computerhoy.com/moviles/alarma-iphone-suena-cada-manana-925-ni-apple-sabe-solucionarlo-1342384'>La alarma de su iPhone suena cada mañana a las 9:25 y ni Apple sabe solucionarlo</a></h4>
+    <a href='https://computerhoy.com/moviles/alarma-iphone-suena-cada-manana-925-ni-apple-sabe-solucionarlo-1342384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/alarma-smartphone-3234920.jpg?tf=1200x' alt='La alarma de su iPhone suena cada mañana a las 9:25 y ni Apple sabe solucionarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/fire-tv-stick-chino-tiene-4k-hdr-android-13-cuesta-menos-20-euros-1342284'>El Fire TV Stick chino tiene 4K, HDR, Android 13 y cuesta menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/tv/fire-tv-stick-chino-tiene-4k-hdr-android-13-cuesta-menos-20-euros-1342284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-tv-f2-43-3190210.jpg?tf=1200x' alt='El Fire TV Stick chino tiene 4K, HDR, Android 13 y cuesta menos de 20 euros' />
+    <h4><a href='https://computerhoy.com/apps/eres-ellos-millones-usuarios-google-drive-estan-perdiendo-archivos-error-1342382'>¿Eres uno de ellos? Millones de usuarios de Google Drive están perdiendo archivos por un error</a></h4>
+    <a href='https://computerhoy.com/apps/eres-ellos-millones-usuarios-google-drive-estan-perdiendo-archivos-error-1342382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-drive-2239641.jpg?tf=1200x' alt='¿Eres uno de ellos? Millones de usuarios de Google Drive están perdiendo archivos por un error' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/pesadilla-usuarios-google-maps-llega-android-auto-1342252'>La pesadilla para los usuarios de Google Maps llega también a Android Auto</a></h4>
-    <a href='https://computerhoy.com/android/pesadilla-usuarios-google-maps-llega-android-auto-1342252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pesadilla-usuarios-google-maps-llega-tambien-android-auto-3234738.jpg?tf=1200x' alt='La pesadilla para los usuarios de Google Maps llega también a Android Auto' />
+    <h4><a href='https://computerhoy.com/tutoriales/4-metodos-evitar-apps-rastreen-actividad-android-1341132'>4 métodos efectivos para evitar que las apps rastreen tu actividad en Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/4-metodos-evitar-apps-rastreen-actividad-android-1341132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/4-metodos-efectivos-evitar-apps-rastreen-actividad-android-3232780.jpg?tf=1200x' alt='4 métodos efectivos para evitar que las apps rastreen tu actividad en Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-evitar-colas-google-maps-1341144'>Cómo evitar colas con Google Maps y ahorrar cientos de horas en espera</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-evitar-colas-google-maps-1341144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-evitar-colas-google-maps-ahorrar-cientos-horas-espera-3232792.jpg?tf=1200x' alt='Cómo evitar colas con Google Maps y ahorrar cientos de horas en espera' />
+    <h4><a href='https://computerhoy.com/life/estos-auriculares-no-emiten-sonido-sirven-calentar-oidos-1342374'>Estos auriculares no emiten sonido: sirven para calentar los oídos desde dentro, relajándonos</a></h4>
+    <a href='https://computerhoy.com/life/estos-auriculares-no-emiten-sonido-sirven-calentar-oidos-1342374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1701112176915-3234904.jpg?tf=1200x' alt='Estos auriculares no emiten sonido: sirven para calentar los oídos desde dentro, relajándonos' />
     </a>
 </div>
 
