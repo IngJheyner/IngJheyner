@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ridley-scott-napoleon-humano-como-vamos-frenar-ia-1342138'>Ridley Scott: Si Napoleón es humano, ¿cómo vamos a frenar a la IA?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ridley-scott-napoleon-humano-como-vamos-frenar-ia-1342138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ridley-scott-director-blade-runner-napoleon-cree-inteligencia-artificial-imparable-3234468.jpg?tf=1200x' alt='Ridley Scott: Si Napoleón es humano, ¿cómo vamos a frenar a la IA?' />
+    <h4><a href='https://computerhoy.com/tecnologia/modo-avion-sirve-cuando-necesario-activarlo-1322794'>Modo avión en el móvil: qué es, para qué sirve y cuándo es necesario activarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/modo-avion-sirve-cuando-necesario-activarlo-1322794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/modo-avion-movil-sirve-cuando-necesario-activarlo-3200786.jpg?tf=1200x' alt='Modo avión en el móvil: qué es, para qué sirve y cuándo es necesario activarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/aun-anoras-game-boy-color-consola-linux-regalo-navidad-perfecto-1341990'>Si aún añoras la Game Boy color, esta consola Linux es el regalo de Navidad perfecto</a></h4>
-    <a href='https://computerhoy.com/gaming/aun-anoras-game-boy-color-consola-linux-regalo-navidad-perfecto-1341990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/data-frog-r35s-3233738.jpg?tf=1200x' alt='Si aún añoras la Game Boy color, esta consola Linux es el regalo de Navidad perfecto' />
+    <h4><a href='https://computerhoy.com/apps/signal-demuestra-whatsapp-telegram-privacidad-no-cara-1342228'>Signal avergüenza a WhatsApp y Telegram demostrando que la privacidad no es cara</a></h4>
+    <a href='https://computerhoy.com/apps/signal-demuestra-whatsapp-telegram-privacidad-no-cara-1342228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/signal-requerira-45-millones-euros-ano-funcionar-2025-cantidad-ridicula-comparacion-whatsapp-telegram-3234680.jpg?tf=1200x' alt='Signal avergüenza a WhatsApp y Telegram demostrando que la privacidad no es cara' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/modo-oculto-alexa-mucho-util-super-alexa-seguro-no-conoces-1342072'>El modo oculto de Alexa, mucho más útil que “Super Alexa”, que seguro no conoces</a></h4>
-    <a href='https://computerhoy.com/amazon/modo-oculto-alexa-mucho-util-super-alexa-seguro-no-conoces-1342072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/modo-oculto-alexa-mucho-util-super-alexa-3234278.jpg?tf=1200x' alt='El modo oculto de Alexa, mucho más útil que “Super Alexa”, que seguro no conoces' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783'>Apps Android para poder localizar a tus amigos y familiares, incluso en grandes aglomeraciones de gente</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/ubicacion-2530989.jpg?tf=1200x' alt='Apps Android para poder localizar a tus amigos y familiares, incluso en grandes aglomeraciones de gente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ya-disponible-beta-android-auto-110-como-puedes-descargarla-1342030'>La beta de Android Auto 11.0 ya está disponible: principales novedades y cómo descargarla</a></h4>
-    <a href='https://computerhoy.com/android/ya-disponible-beta-android-auto-110-como-puedes-descargarla-1342030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-configurar-automatizar-rutinas-android-auto-3205822.jpg?tf=1200x' alt='La beta de Android Auto 11.0 ya está disponible: principales novedades y cómo descargarla' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/fraude-sicario-proxeneta-nueva-estafa-paginas-porno-1342184'>El fraude del sicario o proxeneta, la nueva y peligrosa estafa cada vez más frecuente en las páginas porno</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/fraude-sicario-proxeneta-nueva-estafa-paginas-porno-1342184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fraude-sicario-proxeneta-nueva-estafa-cada-vez-comun-paginas-porno-3234620.jpg?tf=1200x' alt='El fraude del sicario o proxeneta, la nueva y peligrosa estafa cada vez más frecuente en las páginas porno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/wifi-problemas-todos-rincones-pack-routers-mesh-justo-necesitas-1342038'>WiFi sin problemas y en todos los rincones: este pack de routers mesh es justo lo que necesitas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/wifi-problemas-todos-rincones-pack-routers-mesh-justo-necesitas-1342038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mercusys-halo-3-3234220.jpg?tf=1200x' alt='WiFi sin problemas y en todos los rincones: este pack de routers mesh es justo lo que necesitas' />
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-recomendada-rebajada-69-cyber-monday-1342148'>Esta VPN incluye el equivalente a Dropbox y Drive y sin que te espíen, y ahora te regala tres meses</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-recomendada-rebajada-69-cyber-monday-1342148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nordvpn-3227002.jpg?tf=1200x' alt='Esta VPN incluye el equivalente a Dropbox y Drive y sin que te espíen, y ahora te regala tres meses' />
     </a>
 </div>
 
