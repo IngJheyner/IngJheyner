@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-gps-top-ventas-aliexpress-pone-web-patas-arriba-70-descuento-1342082'>El smartwatch top ventas en AliExpress pone la web patas arriba con un 70% de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-gps-top-ventas-aliexpress-pone-web-patas-arriba-70-descuento-1342082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/zeblade-vibe-7-pro-3234276.jpg?tf=1200x' alt='El smartwatch top ventas en AliExpress pone la web patas arriba con un 70% de descuento' />
+    <h4><a href='https://computerhoy.com/android/movil-oneplus-canon-12gb-ram-pero-mejor-precio-1342618'>Este móvil OnePlus es un cañón de 12GB de RAM, pero lo mejor es su precio</a></h4>
+    <a href='https://computerhoy.com/android/movil-oneplus-canon-12gb-ram-pero-mejor-precio-1342618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oneplus-ace-2-pro-3235250.jpg?tf=1200x' alt='Este móvil OnePlus es un cañón de 12GB de RAM, pero lo mejor es su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-amazon-fire-tv-stick-4k-max-2023-modelo-deberias-comprar-1339554'>He probado el Amazon Fire TV Stick 4K Max (2023) y no tengo dudas de que es el único que deberías comprar</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-amazon-fire-tv-stick-4k-max-2023-modelo-deberias-comprar-1339554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-4k-max-2023-3229694.jpg?tf=1200x' alt='He probado el Amazon Fire TV Stick 4K Max (2023) y no tengo dudas de que es el único que deberías comprar' />
+    <h4><a href='https://computerhoy.com/hogar/son-como-funcionan-radiadores-calor-azul-verdad-gastan-menos-1342672'>Qué son y cómo funcionan los radiadores de calor azul: ¿de verdad son más eficientes y gastan menos?</a></h4>
+    <a href='https://computerhoy.com/hogar/son-como-funcionan-radiadores-calor-azul-verdad-gastan-menos-1342672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/son-como-funcionan-radiadores-calor-azul-verdad-son-eficientes-gastan-menos-3235336.jpg?tf=1200x' alt='Qué son y cómo funcionan los radiadores de calor azul: ¿de verdad son más eficientes y gastan menos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-waze-no-llegar-nunca-tarde-cita-1341042'>Cómo configurar Waze para no llegar nunca tarde a una cita</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-waze-no-llegar-nunca-tarde-cita-1341042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-configurar-waze-no-llegar-nunca-tarde-cita-3232606.jpg?tf=1200x' alt='Cómo configurar Waze para no llegar nunca tarde a una cita' />
+    <h4><a href='https://computerhoy.com/tecnologia/ia-podria-haber-sido-despidio-altman-openai-1342648'>La IA podría haber sido la que despidió a Altman de OpenAI en su empeño por destruir la humanidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-podria-haber-sido-despidio-altman-openai-1342648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/terminator-3042080.jpg?tf=1200x' alt='La IA podría haber sido la que despidió a Altman de OpenAI en su empeño por destruir la humanidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-basculas-medidor-grasa-puedes-comprar-637773'>Las mejores básculas con medidor de grasa que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-basculas-medidor-grasa-puedes-comprar-637773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bascula-inteligente-2520331.jpg?tf=1200x' alt='Las mejores básculas con medidor de grasa que puedes comprar' />
+    <h4><a href='https://computerhoy.com/amazon/nueva-funcion-amazon-fire-tv-soluciona-problemas-almacenamiento-1342642'>Una nueva función del Amazon Fire TV soluciona el que posiblemente sea su mayor problema</a></h4>
+    <a href='https://computerhoy.com/amazon/nueva-funcion-amazon-fire-tv-soluciona-problemas-almacenamiento-1342642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nueva-funcion-amazon-fire-tv-soluciona-posiblemente-sea-mayor-problema-3235274.jpg?tf=1200x' alt='Una nueva función del Amazon Fire TV soluciona el que posiblemente sea su mayor problema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/uefi-como-compara-bios-ordenador-1340438'>UEFI: qué es, cómo se diferencia de la BIOS y por qué es importante para tu ordenador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/uefi-como-compara-bios-ordenador-1340438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/uefi-como-diferencia-bios-importante-ordenador-3231408.jpg?tf=1200x' alt='UEFI: qué es, cómo se diferencia de la BIOS y por qué es importante para tu ordenador' />
+    <h4><a href='https://computerhoy.com/tecnologia/bateria-solar-600w-potente-precio-tiene-mejor-tenerla-casa-1342130'>Esta batería solar de 600W es potente y por el precio que tiene es mejor tenerla en casa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bateria-solar-600w-potente-precio-tiene-mejor-tenerla-casa-1342130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/allpowers-r600-3234326.jpg?tf=1200x' alt='Esta batería solar de 600W es potente y por el precio que tiene es mejor tenerla en casa' />
     </a>
 </div>
 
