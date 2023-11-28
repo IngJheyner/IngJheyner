@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-amazon-fire-tv-stick-4k-max-2023-modelo-deberias-comprar-1339554'>He probado el Amazon Fire TV Stick 4k Max (2023) y no tengo dudas de que es el único que deberías comprar</a></h4>
+    <h4><a href='https://computerhoy.com/analisis/he-probado-amazon-fire-tv-stick-4k-max-2023-modelo-deberias-comprar-1339554'>He probado el Amazon Fire TV Stick 4K Max (2023) y no tengo dudas de que es el único que deberías comprar</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-amazon-fire-tv-stick-4k-max-2023-modelo-deberias-comprar-1339554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-4k-max-2023-3229694.jpg?tf=1200x' alt='He probado el Amazon Fire TV Stick 4k Max (2023) y no tengo dudas de que es el único que deberías comprar' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-4k-max-2023-3229694.jpg?tf=1200x' alt='He probado el Amazon Fire TV Stick 4K Max (2023) y no tengo dudas de que es el único que deberías comprar' />
     </a>
 </div>
 
