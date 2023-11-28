@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/polos-magneticos-tierra-podrian-estar-punto-invertirse-1342726'>Los polos magnéticos podrían estar a punto de invertirse: tranquilo, será un cataclismo lento y gradual</a></h4>
-    <a href='https://computerhoy.com/ciencia/polos-magneticos-tierra-podrian-estar-punto-invertirse-1342726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/polos-magneticos-norte-sur-podrian-estar-punto-invertirse-estamos-peligro-3235372.jpg?tf=1200x' alt='Los polos magnéticos podrían estar a punto de invertirse: tranquilo, será un cataclismo lento y gradual' />
+    <h4><a href='https://computerhoy.com/google/como-usar-google-maps-como-experto-1342402'>Cómo usar Google Maps para viajes en modo experto: 7 funciones avanzadas que debes conocer</a></h4>
+    <a href='https://computerhoy.com/google/como-usar-google-maps-como-experto-1342402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-usar-google-maps-como-experto-7-funciones-avanzadas-debes-conocer-3234942.jpg?tf=1200x' alt='Cómo usar Google Maps para viajes en modo experto: 7 funciones avanzadas que debes conocer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/mejor-air-fryer-xiaomi-barata-nunca-oferta-flash-1342710'>La air fryer pro de Xiaomi, más barata que en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/hogar/mejor-air-fryer-xiaomi-barata-nunca-oferta-flash-1342710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-air-fryer-pro-3235370.jpg?tf=1200x' alt='La air fryer pro de Xiaomi, más barata que en el Black Friday' />
+    <h4><a href='https://computerhoy.com/tutoriales/he-conseguido-quitar-publicidad-molesta-mi-amazon-fire-tv-1342300'>Así he conseguido quitar la publicidad molesta de mi Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/he-conseguido-quitar-publicidad-molesta-mi-amazon-fire-tv-1342300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/he-conseguido-quitar-publicidad-molesta-mi-amazon-fire-tv-3234842.jpg?tf=1200x' alt='Así he conseguido quitar la publicidad molesta de mi Amazon Fire TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/movil-oneplus-canon-12gb-ram-pero-mejor-precio-1342618'>Este móvil OnePlus es un cañón de 12GB de RAM, pero lo mejor es su precio</a></h4>
-    <a href='https://computerhoy.com/android/movil-oneplus-canon-12gb-ram-pero-mejor-precio-1342618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oneplus-ace-2-pro-3235250.jpg?tf=1200x' alt='Este móvil OnePlus es un cañón de 12GB de RAM, pero lo mejor es su precio' />
+    <h4><a href='https://computerhoy.com/apps/cuidado-ves-porno-contenidos-ilegales-plex-envia-reproduces-amigos-1342802'>¡Ojo con lo que haces! Plex, la app para crear tu propio Netflix o IPTV, manda un mail a tus amigos con lo que ves</a></h4>
+    <a href='https://computerhoy.com/apps/cuidado-ves-porno-contenidos-ilegales-plex-envia-reproduces-amigos-1342802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cuidado-ves-porno-plex-aplicacion-crear-propio-netflix-iptv-publica-red-social-manda-mail-reproduces-cada-semana-3235556.jpg?tf=1200x' alt='¡Ojo con lo que haces! Plex, la app para crear tu propio Netflix o IPTV, manda un mail a tus amigos con lo que ves' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/son-como-funcionan-radiadores-calor-azul-verdad-gastan-menos-1342672'>Qué son y cómo funcionan los radiadores de calor azul: ¿de verdad son más eficientes y gastan menos?</a></h4>
-    <a href='https://computerhoy.com/hogar/son-como-funcionan-radiadores-calor-azul-verdad-gastan-menos-1342672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/son-como-funcionan-radiadores-calor-azul-verdad-son-eficientes-gastan-menos-3235336.jpg?tf=1200x' alt='Qué son y cómo funcionan los radiadores de calor azul: ¿de verdad son más eficientes y gastan menos?' />
+    <h4><a href='https://computerhoy.com/tutoriales/windows-11-no-arranca-soluciones-1342370'>Windows 11 no arranca: 13 soluciones efectivas para que tu PC vuelva a funcionar correctamente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/windows-11-no-arranca-soluciones-1342370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/windows-11-no-arranca-13-soluciones-efectivas-pc-vuelva-funcionar-correctamente-3234932.jpg?tf=1200x' alt='Windows 11 no arranca: 13 soluciones efectivas para que tu PC vuelva a funcionar correctamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-podria-haber-sido-despidio-altman-openai-1342648'>La IA podría haber sido la que despidió a Altman de OpenAI en su empeño por destruir la humanidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-podria-haber-sido-despidio-altman-openai-1342648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/terminator-3042080.jpg?tf=1200x' alt='La IA podría haber sido la que despidió a Altman de OpenAI en su empeño por destruir la humanidad' />
+    <h4><a href='https://computerhoy.com/redes/tiktok-gaslighting-grooming-cricketing-1338306'>Relaciones tóxicas en la era de TikTok: gaslighting, grooming o cricketing</a></h4>
+    <a href='https://computerhoy.com/redes/tiktok-gaslighting-grooming-cricketing-1338306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chica-movil-tapandose-cara-3235304.jpg?tf=1200x' alt='Relaciones tóxicas en la era de TikTok: gaslighting, grooming o cricketing' />
     </a>
 </div>
 
