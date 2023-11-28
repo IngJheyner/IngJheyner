@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-gps-top-ventas-aliexpress-pone-web-patas-arriba-70-descuento-1342082'>El smartwatch top ventas en AliExpress pone la web patas arriba con un 70% de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-gps-top-ventas-aliexpress-pone-web-patas-arriba-70-descuento-1342082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/zeblade-vibe-7-pro-3234276.jpg?tf=1200x' alt='El smartwatch top ventas en AliExpress pone la web patas arriba con un 70% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-amazon-fire-tv-stick-4k-max-2023-modelo-deberias-comprar-1339554'>He probado el Amazon Fire TV Stick 4k Max (2023) y no tengo dudas de que es el único que deberías comprar</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-amazon-fire-tv-stick-4k-max-2023-modelo-deberias-comprar-1339554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-4k-max-2023-3229694.jpg?tf=1200x' alt='He probado el Amazon Fire TV Stick 4k Max (2023) y no tengo dudas de que es el único que deberías comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-waze-no-llegar-nunca-tarde-cita-1341042'>Cómo configurar Waze para no llegar nunca tarde a una cita</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-waze-no-llegar-nunca-tarde-cita-1341042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-configurar-waze-no-llegar-nunca-tarde-cita-3232606.jpg?tf=1200x' alt='Cómo configurar Waze para no llegar nunca tarde a una cita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-basculas-medidor-grasa-puedes-comprar-637773'>Las mejores básculas con medidor de grasa que puedes comprar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-basculas-medidor-grasa-puedes-comprar-637773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bascula-inteligente-2520331.jpg?tf=1200x' alt='Las mejores básculas con medidor de grasa que puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/uefi-como-compara-bios-ordenador-1340438'>UEFI: qué es, cómo se diferencia de la BIOS y por qué es importante para tu ordenador</a></h4>
     <a href='https://computerhoy.com/tutoriales/uefi-como-compara-bios-ordenador-1340438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/uefi-como-diferencia-bios-importante-ordenador-3231408.jpg?tf=1200x' alt='UEFI: qué es, cómo se diferencia de la BIOS y por qué es importante para tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/plataforma-streaming-filmin-baja-precio-tiempo-limitado-1342404'>La plataforma de streaming Filmin baja de precio un 30% por tiempo limitado</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/plataforma-streaming-filmin-baja-precio-tiempo-limitado-1342404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/plataforma-streaming-filmin-baja-precio-30-tiempo-limitado-3234934.jpg?tf=1200x' alt='La plataforma de streaming Filmin baja de precio un 30% por tiempo limitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/fallo-google-maps-perdidos-desierto-mojave-1342398'>Iban a ver a Fernando Alonso, pero un fallo de Google Maps dejó atascados a docenas de coches en el desierto de Mojave</a></h4>
-    <a href='https://computerhoy.com/motor/fallo-google-maps-perdidos-desierto-mojave-1342398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/iban-ver-fernando-alonso-pero-fallo-google-maps-perdio-docenas-coches-desierto-mojave-carretera-3234924.jpg?tf=1200x' alt='Iban a ver a Fernando Alonso, pero un fallo de Google Maps dejó atascados a docenas de coches en el desierto de Mojave' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/son-sirven-extranas-figuras-gigantes-google-maps-1341112'>Las extrañas figuras gigantes de Google Maps: ¿Qué son, para qué sirven y cómo puedes encontrarlas?</a></h4>
-    <a href='https://computerhoy.com/google/son-sirven-extranas-figuras-gigantes-google-maps-1341112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/misteriosos-codigos-gigantes-puedes-ver-google-maps-son-sirven-como-puedes-encontrarlos-3232732.jpg?tf=1200x' alt='Las extrañas figuras gigantes de Google Maps: ¿Qué son, para qué sirven y cómo puedes encontrarlas?' />
     </a>
 </div>
 
