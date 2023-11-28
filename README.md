@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/plataforma-streaming-filmin-baja-precio-tiempo-limitado-1342404'>La plataforma de streaming Filmin baja de precio un 30% por tiempo limitado</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/plataforma-streaming-filmin-baja-precio-tiempo-limitado-1342404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/plataforma-streaming-filmin-baja-precio-30-tiempo-limitado-3234934.jpg?tf=1200x' alt='La plataforma de streaming Filmin baja de precio un 30% por tiempo limitado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/fallo-google-maps-perdidos-desierto-mojave-1342398'>Iban a ver a Fernando Alonso, pero un fallo de Google Maps dejó atascados a docenas de coches en el desierto de Mojave</a></h4>
+    <a href='https://computerhoy.com/motor/fallo-google-maps-perdidos-desierto-mojave-1342398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/iban-ver-fernando-alonso-pero-fallo-google-maps-perdio-docenas-coches-desierto-mojave-carretera-3234924.jpg?tf=1200x' alt='Iban a ver a Fernando Alonso, pero un fallo de Google Maps dejó atascados a docenas de coches en el desierto de Mojave' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/son-sirven-extranas-figuras-gigantes-google-maps-1341112'>Las extrañas figuras gigantes de Google Maps: ¿Qué son, para qué sirven y cómo puedes encontrarlas?</a></h4>
     <a href='https://computerhoy.com/google/son-sirven-extranas-figuras-gigantes-google-maps-1341112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/misteriosos-codigos-gigantes-puedes-ver-google-maps-son-sirven-como-puedes-encontrarlos-3232732.jpg?tf=1200x' alt='Las extrañas figuras gigantes de Google Maps: ¿Qué son, para qué sirven y cómo puedes encontrarlas?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/eres-ellos-millones-usuarios-google-drive-estan-perdiendo-archivos-error-1342382'>¿Eres uno de ellos? Millones de usuarios de Google Drive están perdiendo archivos por un error</a></h4>
     <a href='https://computerhoy.com/apps/eres-ellos-millones-usuarios-google-drive-estan-perdiendo-archivos-error-1342382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-drive-2239641.jpg?tf=1200x' alt='¿Eres uno de ellos? Millones de usuarios de Google Drive están perdiendo archivos por un error' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/4-metodos-evitar-apps-rastreen-actividad-android-1341132'>4 métodos efectivos para evitar que las apps rastreen tu actividad en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/4-metodos-evitar-apps-rastreen-actividad-android-1341132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/4-metodos-efectivos-evitar-apps-rastreen-actividad-android-3232780.jpg?tf=1200x' alt='4 métodos efectivos para evitar que las apps rastreen tu actividad en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-auriculares-no-emiten-sonido-sirven-calentar-oidos-1342374'>Estos auriculares no emiten sonido: sirven para calentar los oídos desde dentro, relajándonos</a></h4>
-    <a href='https://computerhoy.com/life/estos-auriculares-no-emiten-sonido-sirven-calentar-oidos-1342374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1701112176915-3234904.jpg?tf=1200x' alt='Estos auriculares no emiten sonido: sirven para calentar los oídos desde dentro, relajándonos' />
     </a>
 </div>
 
