@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/polos-magneticos-tierra-podrian-estar-punto-invertirse-1342726'>Los polos magnéticos podrían estar a punto de invertirse: tranquilo, será un cataclismo lento y gradual</a></h4>
+    <a href='https://computerhoy.com/ciencia/polos-magneticos-tierra-podrian-estar-punto-invertirse-1342726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/polos-magneticos-norte-sur-podrian-estar-punto-invertirse-estamos-peligro-3235372.jpg?tf=1200x' alt='Los polos magnéticos podrían estar a punto de invertirse: tranquilo, será un cataclismo lento y gradual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/mejor-air-fryer-xiaomi-barata-nunca-oferta-flash-1342710'>La air fryer pro de Xiaomi, más barata que en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/hogar/mejor-air-fryer-xiaomi-barata-nunca-oferta-flash-1342710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-air-fryer-pro-3235370.jpg?tf=1200x' alt='La air fryer pro de Xiaomi, más barata que en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/movil-oneplus-canon-12gb-ram-pero-mejor-precio-1342618'>Este móvil OnePlus es un cañón de 12GB de RAM, pero lo mejor es su precio</a></h4>
     <a href='https://computerhoy.com/android/movil-oneplus-canon-12gb-ram-pero-mejor-precio-1342618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oneplus-ace-2-pro-3235250.jpg?tf=1200x' alt='Este móvil OnePlus es un cañón de 12GB de RAM, pero lo mejor es su precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ia-podria-haber-sido-despidio-altman-openai-1342648'>La IA podría haber sido la que despidió a Altman de OpenAI en su empeño por destruir la humanidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-podria-haber-sido-despidio-altman-openai-1342648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/terminator-3042080.jpg?tf=1200x' alt='La IA podría haber sido la que despidió a Altman de OpenAI en su empeño por destruir la humanidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/nueva-funcion-amazon-fire-tv-soluciona-problemas-almacenamiento-1342642'>Una nueva función del Amazon Fire TV soluciona el que posiblemente sea su mayor problema</a></h4>
-    <a href='https://computerhoy.com/amazon/nueva-funcion-amazon-fire-tv-soluciona-problemas-almacenamiento-1342642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nueva-funcion-amazon-fire-tv-soluciona-posiblemente-sea-mayor-problema-3235274.jpg?tf=1200x' alt='Una nueva función del Amazon Fire TV soluciona el que posiblemente sea su mayor problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bateria-solar-600w-potente-precio-tiene-mejor-tenerla-casa-1342130'>Esta batería solar de 600W es potente y por el precio que tiene es mejor tenerla en casa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bateria-solar-600w-potente-precio-tiene-mejor-tenerla-casa-1342130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/allpowers-r600-3234326.jpg?tf=1200x' alt='Esta batería solar de 600W es potente y por el precio que tiene es mejor tenerla en casa' />
     </a>
 </div>
 
