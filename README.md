@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-basculas-medidor-grasa-puedes-comprar-637773'>Las mejores básculas con medidor de grasa que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-basculas-medidor-grasa-puedes-comprar-637773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bascula-inteligente-2520331.jpg?tf=1200x' alt='Las mejores básculas con medidor de grasa que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/uefi-como-compara-bios-ordenador-1340438'>UEFI: qué es, cómo se diferencia de la BIOS y por qué es importante para tu ordenador</a></h4>
+    <a href='https://computerhoy.com/tutoriales/uefi-como-compara-bios-ordenador-1340438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/uefi-como-diferencia-bios-importante-ordenador-3231408.jpg?tf=1200x' alt='UEFI: qué es, cómo se diferencia de la BIOS y por qué es importante para tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/plataforma-streaming-filmin-baja-precio-tiempo-limitado-1342404'>La plataforma de streaming Filmin baja de precio un 30% por tiempo limitado</a></h4>
     <a href='https://computerhoy.com/entretenimiento/plataforma-streaming-filmin-baja-precio-tiempo-limitado-1342404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/plataforma-streaming-filmin-baja-precio-30-tiempo-limitado-3234934.jpg?tf=1200x' alt='La plataforma de streaming Filmin baja de precio un 30% por tiempo limitado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/son-sirven-extranas-figuras-gigantes-google-maps-1341112'>Las extrañas figuras gigantes de Google Maps: ¿Qué son, para qué sirven y cómo puedes encontrarlas?</a></h4>
     <a href='https://computerhoy.com/google/son-sirven-extranas-figuras-gigantes-google-maps-1341112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/misteriosos-codigos-gigantes-puedes-ver-google-maps-son-sirven-como-puedes-encontrarlos-3232732.jpg?tf=1200x' alt='Las extrañas figuras gigantes de Google Maps: ¿Qué son, para qué sirven y cómo puedes encontrarlas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/alarma-iphone-suena-cada-manana-925-ni-apple-sabe-solucionarlo-1342384'>La alarma de su iPhone suena cada mañana a las 9:25 y ni Apple sabe solucionarlo</a></h4>
-    <a href='https://computerhoy.com/moviles/alarma-iphone-suena-cada-manana-925-ni-apple-sabe-solucionarlo-1342384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/alarma-smartphone-3234920.jpg?tf=1200x' alt='La alarma de su iPhone suena cada mañana a las 9:25 y ni Apple sabe solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/eres-ellos-millones-usuarios-google-drive-estan-perdiendo-archivos-error-1342382'>¿Eres uno de ellos? Millones de usuarios de Google Drive están perdiendo archivos por un error</a></h4>
-    <a href='https://computerhoy.com/apps/eres-ellos-millones-usuarios-google-drive-estan-perdiendo-archivos-error-1342382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/google-drive-2239641.jpg?tf=1200x' alt='¿Eres uno de ellos? Millones de usuarios de Google Drive están perdiendo archivos por un error' />
     </a>
 </div>
 
