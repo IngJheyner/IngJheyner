@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-usar-google-maps-como-experto-1342402'>Cómo usar Google Maps para viajes en modo experto: 7 funciones avanzadas que debes conocer</a></h4>
-    <a href='https://computerhoy.com/google/como-usar-google-maps-como-experto-1342402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-usar-google-maps-como-experto-7-funciones-avanzadas-debes-conocer-3234942.jpg?tf=1200x' alt='Cómo usar Google Maps para viajes en modo experto: 7 funciones avanzadas que debes conocer' />
+    <h4><a href='https://computerhoy.com/apps/estos-son-moviles-quedaran-whatsapp-diciembre-2023-1342978'>Estos son los móviles que se quedarán sin WhatsApp en diciembre de 2023</a></h4>
+    <a href='https://computerhoy.com/apps/estos-son-moviles-quedaran-whatsapp-diciembre-2023-1342978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg?tf=1200x' alt='Estos son los móviles que se quedarán sin WhatsApp en diciembre de 2023' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/he-conseguido-quitar-publicidad-molesta-mi-amazon-fire-tv-1342300'>Así he conseguido quitar la publicidad molesta de mi Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/he-conseguido-quitar-publicidad-molesta-mi-amazon-fire-tv-1342300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/he-conseguido-quitar-publicidad-molesta-mi-amazon-fire-tv-3234842.jpg?tf=1200x' alt='Así he conseguido quitar la publicidad molesta de mi Amazon Fire TV' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/truco-duplicar-seguridad-contrasenas-1342274'>Con este truco he conseguido duplicar la seguridad de mis contraseñas y cualquiera puede hacerlo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/truco-duplicar-seguridad-contrasenas-1342274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sencillo-truco-duplicar-seguridad-contrasenas-cuentas-online-3234794.jpg?tf=1200x' alt='Con este truco he conseguido duplicar la seguridad de mis contraseñas y cualquiera puede hacerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/cuidado-ves-porno-contenidos-ilegales-plex-envia-reproduces-amigos-1342802'>¡Ojo con lo que haces! Plex, la app para crear tu propio Netflix o IPTV, manda un mail a tus amigos con lo que ves</a></h4>
-    <a href='https://computerhoy.com/apps/cuidado-ves-porno-contenidos-ilegales-plex-envia-reproduces-amigos-1342802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cuidado-ves-porno-plex-aplicacion-crear-propio-netflix-iptv-publica-red-social-manda-mail-reproduces-cada-semana-3235556.jpg?tf=1200x' alt='¡Ojo con lo que haces! Plex, la app para crear tu propio Netflix o IPTV, manda un mail a tus amigos con lo que ves' />
+    <h4><a href='https://computerhoy.com/tecnologia/q-nuevo-chatgpt-superinteligencia-artificial-1342898'>Q* el nuevo ChatGPT con el que OpenAI y Microsoft quieren alcanzar la Superinteligencia Artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/q-nuevo-chatgpt-superinteligencia-artificial-1342898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/q-modelo-diferente-chatgpt-openai-microsoft-querrian-ensenar-matematicas-ia-llevarnos-superinteligencia-artificial-3235686.jpg?tf=1200x' alt='Q* el nuevo ChatGPT con el que OpenAI y Microsoft quieren alcanzar la Superinteligencia Artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/windows-11-no-arranca-soluciones-1342370'>Windows 11 no arranca: 13 soluciones efectivas para que tu PC vuelva a funcionar correctamente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/windows-11-no-arranca-soluciones-1342370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/windows-11-no-arranca-13-soluciones-efectivas-pc-vuelva-funcionar-correctamente-3234932.jpg?tf=1200x' alt='Windows 11 no arranca: 13 soluciones efectivas para que tu PC vuelva a funcionar correctamente' />
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-mejor-app-ver-tdt-gratis-actualiza-nuevo-canal-todas-estas-novedades-1342972'>TDTChannels, la mejor app para ver la TDT gratis, se actualiza con un nuevo canal y todas estas novedades</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-mejor-app-ver-tdt-gratis-actualiza-nuevo-canal-todas-estas-novedades-1342972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels, la mejor app para ver la TDT gratis, se actualiza con un nuevo canal y todas estas novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/tiktok-gaslighting-grooming-cricketing-1338306'>Relaciones tóxicas en la era de TikTok: gaslighting, grooming o cricketing</a></h4>
-    <a href='https://computerhoy.com/redes/tiktok-gaslighting-grooming-cricketing-1338306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chica-movil-tapandose-cara-3235304.jpg?tf=1200x' alt='Relaciones tóxicas en la era de TikTok: gaslighting, grooming o cricketing' />
+    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-dead-man-down-1342964'>Qué película ver en la TDT hoy: un thriller con un oscuro y desesperado plan de venganza</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-dead-man-down-1342964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/venganza-hombre-muerto-3235806.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: un thriller con un oscuro y desesperado plan de venganza' />
     </a>
 </div>
 
