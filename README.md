@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/te-puede-curiosidad-estos-auriculares-conduccion-osea-son-baratos-estan-genial-1343274'>Si te puede la curiosidad, estos auriculares de conducción ósea son muy baratos y están genial</a></h4>
+    <a href='https://computerhoy.com/audio/te-puede-curiosidad-estos-auriculares-conduccion-osea-son-baratos-estan-genial-1343274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/auriculares-conduccion-osea-3236384.jpg?tf=1200x' alt='Si te puede la curiosidad, estos auriculares de conducción ósea son muy baratos y están genial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-despierta-nostalgia-video-lofi-mitico-fondo-windows-xp-1343368'>Microsoft despierta la nostalgia con un vídeo lofi de una hora y el mítico fondo de Windows XP</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-despierta-nostalgia-video-lofi-mitico-fondo-windows-xp-1343368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-musica-lofi-3236528.jpg?tf=1200x' alt='Microsoft despierta la nostalgia con un vídeo lofi de una hora y el mítico fondo de Windows XP' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/afecta-espacio-trajes-astronautas-disfuncion-erectil-incluso-perdida-unas-1343350'>Así afecta el espacio y los trajes a los astronautas: disfunción eréctil e incluso pérdida de uñas</a></h4>
     <a href='https://computerhoy.com/espacio/afecta-espacio-trajes-astronautas-disfuncion-erectil-incluso-perdida-unas-1343350' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/astronauta-espacio-3236414.jpg?tf=1200x' alt='Así afecta el espacio y los trajes a los astronautas: disfunción eréctil e incluso pérdida de uñas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/nuevos-airpods-4-apple-fecha-lanzamiento-novedades-precio-1343304'>Esto es lo que se sabe de los AirPods 4 de Apple: fecha de lanzamiento, novedades y precio</a></h4>
     <a href='https://computerhoy.com/apple/nuevos-airpods-4-apple-fecha-lanzamiento-novedades-precio-1343304' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-airpods-pro-2-1675628565024-2947480.jpg?tf=1200x' alt='Esto es lo que se sabe de los AirPods 4 de Apple: fecha de lanzamiento, novedades y precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/buscas-cantante-google-aparecen-imagenes-generadas-ia-eso-problema-1343222'>Si buscas a este cantante en Google aparecen imágenes generadas con IA y eso es un problema</a></h4>
-    <a href='https://computerhoy.com/google/buscas-cantante-google-aparecen-imagenes-generadas-ia-eso-problema-1343222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/imagen-generada-ia-3236200.jpg?tf=1200x' alt='Si buscas a este cantante en Google aparecen imágenes generadas con IA y eso es un problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cecotec-ha-inventado-bicinete-mitad-bici-mitad-patinete-verdad-no-tiene-mala-pinta-1343202'>Cecotec ha inventado el bicinete: mitad bici y mitad patinete, y la verdad es que no tiene mala pinta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cecotec-ha-inventado-bicinete-mitad-bici-mitad-patinete-verdad-no-tiene-mala-pinta-1343202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cecotec-bicinete-3236170.jpg?tf=1200x' alt='Cecotec ha inventado el bicinete: mitad bici y mitad patinete, y la verdad es que no tiene mala pinta' />
     </a>
 </div>
 
