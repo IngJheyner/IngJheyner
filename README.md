@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/nuevos-airpods-4-apple-fecha-lanzamiento-novedades-precio-1343304'>Esto es lo que se sabe de los AirPods 4 de Apple: fecha de lanzamiento, novedades y precio</a></h4>
+    <a href='https://computerhoy.com/apple/nuevos-airpods-4-apple-fecha-lanzamiento-novedades-precio-1343304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-airpods-pro-2-1675628565024-2947480.jpg?tf=1200x' alt='Esto es lo que se sabe de los AirPods 4 de Apple: fecha de lanzamiento, novedades y precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/buscas-cantante-google-aparecen-imagenes-generadas-ia-eso-problema-1343222'>Si buscas a este cantante en Google aparecen imágenes generadas con IA y eso es un problema</a></h4>
     <a href='https://computerhoy.com/google/buscas-cantante-google-aparecen-imagenes-generadas-ia-eso-problema-1343222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/imagen-generada-ia-3236200.jpg?tf=1200x' alt='Si buscas a este cantante en Google aparecen imágenes generadas con IA y eso es un problema' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/amd-desata-bestia-96-nucleos-procesador-reclama-19-records-mundiales-1343192'>AMD desata a su bestia de 96 núcleos: este procesador reclama 19 récords mundiales</a></h4>
     <a href='https://computerhoy.com/pc/amd-desata-bestia-96-nucleos-procesador-reclama-19-records-mundiales-1343192' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amd-procesadores-3236164.jpg?tf=1200x' alt='AMD desata a su bestia de 96 núcleos: este procesador reclama 19 récords mundiales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173'>Mejores Android TV Box baratas que puedes comprar en 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nokia-streaming-box-3235964.jpg?tf=1200x' alt='Mejores Android TV Box baratas que puedes comprar en 2023' />
     </a>
 </div>
 
