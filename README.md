@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/cristiano-ronaldo-podria-enfrentarse-demanda-multimillonaria-nft-1343476'>Cristiano Ronaldo podría enfrentar una demanda de más de 900 millones de euros por sus NFT</a></h4>
+    <a href='https://computerhoy.com/criptos/cristiano-ronaldo-podria-enfrentarse-demanda-multimillonaria-nft-1343476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cristiano-ronaldo-3236710.jpg?tf=1200x' alt='Cristiano Ronaldo podría enfrentar una demanda de más de 900 millones de euros por sus NFT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/eres-buen-comer-freidora-aire-desploma-precio-tiene-9l-capacidad-1341748'>Si eres de buen comer, esta freidora de aire desploma su precio y tiene 9L de capacidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/eres-buen-comer-freidora-aire-desploma-precio-tiene-9l-capacidad-1341748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cecotec-cecofry-advance-9000-window-3233718.jpg?tf=1200x' alt='Si eres de buen comer, esta freidora de aire desploma su precio y tiene 9L de capacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ciclo-solar-prepara-alcanzar-maximo-como-puede-afectar-tierra-1343298'>El ciclo solar se prepara para alcanzar su máximo: ¿cómo puede afectar a la Tierra?</a></h4>
+    <a href='https://computerhoy.com/ciencia/ciclo-solar-prepara-alcanzar-maximo-como-puede-afectar-tierra-1343298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ciclo-solar-prepara-alcanzar-maximo-como-puede-afectar-tierra-3236336.jpg?tf=1200x' alt='El ciclo solar se prepara para alcanzar su máximo: ¿cómo puede afectar a la Tierra?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-ocho-apellidos-vascos-1343492'>Qué película ver en la TDT hoy: un andaluz que se hace pasar por vasco para ligar con una chica, y la cosa se complica</a></h4>
     <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-ocho-apellidos-vascos-1343492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/ocho-apellidos-vascos-1857787.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: un andaluz que se hace pasar por vasco para ligar con una chica, y la cosa se complica' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/como-configurar-nuevas-funciones-privacidad-whatsapp-1343416'>Cómo configurar las nuevas funciones de privacidad de WhatsApp: bloquea de chats, silenciar llamadas y más</a></h4>
     <a href='https://computerhoy.com/apps/como-configurar-nuevas-funciones-privacidad-whatsapp-1343416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-configurar-cada-nuevas-funciones-privacidad-whatsapp-algunas-permiten-bloquear-chats-contrasena-silenciar-llamadas-desconocidos-3236626.jpg?tf=1200x' alt='Cómo configurar las nuevas funciones de privacidad de WhatsApp: bloquea de chats, silenciar llamadas y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/bluesnarfing-puedes-evitar-robos-bluetooth-1342794'>Bluesnarfing: así puedes evitar los robos que llegan por Bluetooth</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/bluesnarfing-puedes-evitar-robos-bluetooth-1342794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bluetooth-2759957.jpg?tf=1200x' alt='Bluesnarfing: así puedes evitar los robos que llegan por Bluetooth' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/grave-error-termostato-todo-mundo-comete-casa-1343392'>El grave error con el termostato que todo el mundo comete al intentar que la calefacción de casa caliente más rápido</a></h4>
-    <a href='https://computerhoy.com/life/grave-error-termostato-todo-mundo-comete-casa-1343392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grave-error-termostato-todo-mundo-comete-intentar-calefaccion-casa-caliente-rapido-3236588.jpg?tf=1200x' alt='El grave error con el termostato que todo el mundo comete al intentar que la calefacción de casa caliente más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/chatgpt-razon-no-deberias-compartir-informacion-personal-ia-1343264'>ChatGPT: esta es la razón por la que no deberías compartir información personal con la IA</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/chatgpt-razon-no-deberias-compartir-informacion-personal-ia-1343264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chatgpt-razon-no-deberias-compartir-informacion-personal-ia-3236298.jpg?tf=1200x' alt='ChatGPT: esta es la razón por la que no deberías compartir información personal con la IA' />
     </a>
 </div>
 
