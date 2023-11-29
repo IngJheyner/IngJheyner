@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-copiar-texto-imagen-windows-11-1339190'>Cómo copiar texto de una imagen en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-copiar-texto-imagen-windows-11-1339190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-copiar-texto-imagen-rapidamente-windows-11-3229088.jpg?tf=1200x' alt='Cómo copiar texto de una imagen en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/amazon-q-nueva-ia-generativa-amazon-1343018'>Amazon Q, la nueva IA generativa de Amazon que quiere plantar cara a OpenAI, Meta y Microsoft</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-q-nueva-ia-generativa-amazon-1343018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-q-nueva-ia-generativa-amazon-quiere-plantar-cara-open-ai-meta-microsoft-3235972.jpg?tf=1200x' alt='Amazon Q, la nueva IA generativa de Amazon que quiere plantar cara a OpenAI, Meta y Microsoft' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/primeras-imagenes-serie-fallout-basada-mitico-videojuego-1343006'>Primeras imágenes de Fallout, la nueva serie del creador de Westworld, basada en el mítico videojuego</a></h4>
     <a href='https://computerhoy.com/entretenimiento/primeras-imagenes-serie-fallout-basada-mitico-videojuego-1343006' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/primeras-imagenes-fallout-nueva-serie-creador-westworld-basada-mitico-videojuego-3235920.jpg?tf=1200x' alt='Primeras imágenes de Fallout, la nueva serie del creador de Westworld, basada en el mítico videojuego' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estos-son-moviles-quedaran-whatsapp-diciembre-2023-1342978'>Estos son los móviles que se quedarán sin WhatsApp en diciembre de 2023</a></h4>
-    <a href='https://computerhoy.com/apps/estos-son-moviles-quedaran-whatsapp-diciembre-2023-1342978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg?tf=1200x' alt='Estos son los móviles que se quedarán sin WhatsApp en diciembre de 2023' />
     </a>
 </div>
 
