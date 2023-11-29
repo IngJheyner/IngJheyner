@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/chatgpt-razon-no-deberias-compartir-informacion-personal-ia-1343264'>ChatGPT: esta es la razón por la que no deberías compartir información personal con la IA</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/chatgpt-razon-no-deberias-compartir-informacion-personal-ia-1343264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chatgpt-razon-no-deberias-compartir-informacion-personal-ia-3236298.jpg?tf=1200x' alt='ChatGPT: esta es la razón por la que no deberías compartir información personal con la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/te-despiertas-cansado-prueba-rutina-20-minutos-levantarte-1343378'>¿Te despiertas cansado? Prueba esta rutina de 20 minutos al levantarte en vez del café</a></h4>
+    <a href='https://computerhoy.com/life/te-despiertas-cansado-prueba-rutina-20-minutos-levantarte-1343378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/te-despiertas-cansado-simple-cambio-20-minutos-rutina-diaria-puede-acabar-esa-sensacion-3236520.jpg?tf=1200x' alt='¿Te despiertas cansado? Prueba esta rutina de 20 minutos al levantarte en vez del café' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cuadros-hace-siglos-personas-usando-movil-explicacion-sencilla-1240736'>Los cuadros de hace siglos, con personas usando el móvil, tienen una explicación muy sencilla</a></h4>
     <a href='https://computerhoy.com/ciencia/cuadros-hace-siglos-personas-usando-movil-explicacion-sencilla-1240736' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cuadros-hace-siglos-personas-usando-movil-tienen-explicacion-muy-sencilla-3025960.jpg?tf=1200x' alt='Los cuadros de hace siglos, con personas usando el móvil, tienen una explicación muy sencilla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-despierta-nostalgia-video-lofi-mitico-fondo-windows-xp-1343368'>Microsoft despierta la nostalgia con un vídeo lofi de una hora y el mítico fondo de Windows XP</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-despierta-nostalgia-video-lofi-mitico-fondo-windows-xp-1343368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-musica-lofi-3236528.jpg?tf=1200x' alt='Microsoft despierta la nostalgia con un vídeo lofi de una hora y el mítico fondo de Windows XP' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/afecta-espacio-trajes-astronautas-disfuncion-erectil-incluso-perdida-unas-1343350'>Así afecta el espacio y los trajes a los astronautas: disfunción eréctil e incluso pérdida de uñas</a></h4>
-    <a href='https://computerhoy.com/espacio/afecta-espacio-trajes-astronautas-disfuncion-erectil-incluso-perdida-unas-1343350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/astronauta-espacio-3236414.jpg?tf=1200x' alt='Así afecta el espacio y los trajes a los astronautas: disfunción eréctil e incluso pérdida de uñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tumba-precio-router-ultrarrapido-wifi-6-1342916'>Xiaomi tumba el precio de su router ultrarrápido con WiFi 6</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-tumba-precio-router-ultrarrapido-wifi-6-1342916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mesh-system-ax3000-analisis-opinion-2525579.jpg?tf=1200x' alt='Xiaomi tumba el precio de su router ultrarrápido con WiFi 6' />
     </a>
 </div>
 
