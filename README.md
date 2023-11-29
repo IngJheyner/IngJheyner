@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/lotus-presenta-superdeportivo-carga-coche-electrico-1343504'>Lotus presenta el “superdeportivo” de los cargadores de baterías para coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/motor/lotus-presenta-superdeportivo-carga-coche-electrico-1343504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lotus-presenta-superdeportivo-cargadores-baterias-coches-electricos-3236780.jpg?tf=1200x' alt='Lotus presenta el “superdeportivo” de los cargadores de baterías para coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/nace-cria-rinoceronte-sumatra-indonesia-1343524'>Toda Indonesia celebra la nueva cría de uno de los mamíferos más raros del mundo</a></h4>
+    <a href='https://computerhoy.com/life/nace-cria-rinoceronte-sumatra-indonesia-1343524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/toda-indonesia-celebra-nueva-cria-mamiferos-raros-mundo-3236618.jpg?tf=1200x' alt='Toda Indonesia celebra la nueva cría de uno de los mamíferos más raros del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/que-son-passkeys-diferencia-contrasenas-1343014'>Qué son las Passkeys y en qué se diferencia de las contraseñas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/que-son-passkeys-diferencia-contrasenas-1343014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/son-passkeys-diferencian-contrasenas-3235982.jpg?tf=1200x' alt='Qué son las Passkeys y en qué se diferencia de las contraseñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/cristiano-ronaldo-podria-enfrentarse-demanda-multimillonaria-nft-1343476'>Cristiano Ronaldo podría enfrentar una demanda de más de 900 millones de euros por sus NFT</a></h4>
     <a href='https://computerhoy.com/criptos/cristiano-ronaldo-podria-enfrentarse-demanda-multimillonaria-nft-1343476' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cristiano-ronaldo-3236710.jpg?tf=1200x' alt='Cristiano Ronaldo podría enfrentar una demanda de más de 900 millones de euros por sus NFT' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/eres-buen-comer-freidora-aire-desploma-precio-tiene-9l-capacidad-1341748'>Si eres de buen comer, esta freidora de aire desploma su precio y tiene 9L de capacidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/eres-buen-comer-freidora-aire-desploma-precio-tiene-9l-capacidad-1341748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cecotec-cecofry-advance-9000-window-3233718.jpg?tf=1200x' alt='Si eres de buen comer, esta freidora de aire desploma su precio y tiene 9L de capacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ciclo-solar-prepara-alcanzar-maximo-como-puede-afectar-tierra-1343298'>El ciclo solar se prepara para alcanzar su máximo: ¿cómo puede afectar a la Tierra?</a></h4>
-    <a href='https://computerhoy.com/ciencia/ciclo-solar-prepara-alcanzar-maximo-como-puede-afectar-tierra-1343298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ciclo-solar-prepara-alcanzar-maximo-como-puede-afectar-tierra-3236336.jpg?tf=1200x' alt='El ciclo solar se prepara para alcanzar su máximo: ¿cómo puede afectar a la Tierra?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-ocho-apellidos-vascos-1343492'>Qué película ver en la TDT hoy: un andaluz que se hace pasar por vasco para ligar con una chica, y la cosa se complica</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-ocho-apellidos-vascos-1343492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/ocho-apellidos-vascos-1857787.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: un andaluz que se hace pasar por vasco para ligar con una chica, y la cosa se complica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-configurar-nuevas-funciones-privacidad-whatsapp-1343416'>Cómo configurar las nuevas funciones de privacidad de WhatsApp: bloquea de chats, silenciar llamadas y más</a></h4>
-    <a href='https://computerhoy.com/apps/como-configurar-nuevas-funciones-privacidad-whatsapp-1343416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-configurar-cada-nuevas-funciones-privacidad-whatsapp-algunas-permiten-bloquear-chats-contrasena-silenciar-llamadas-desconocidos-3236626.jpg?tf=1200x' alt='Cómo configurar las nuevas funciones de privacidad de WhatsApp: bloquea de chats, silenciar llamadas y más' />
     </a>
 </div>
 
