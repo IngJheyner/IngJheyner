@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/grave-error-termostato-todo-mundo-comete-casa-1343392'>El grave error con el termostato que todo el mundo comete al intentar que la calefacción de casa caliente más rápido</a></h4>
+    <a href='https://computerhoy.com/life/grave-error-termostato-todo-mundo-comete-casa-1343392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grave-error-termostato-todo-mundo-comete-intentar-calefaccion-casa-caliente-rapido-3236588.jpg?tf=1200x' alt='El grave error con el termostato que todo el mundo comete al intentar que la calefacción de casa caliente más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/chatgpt-razon-no-deberias-compartir-informacion-personal-ia-1343264'>ChatGPT: esta es la razón por la que no deberías compartir información personal con la IA</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/chatgpt-razon-no-deberias-compartir-informacion-personal-ia-1343264' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chatgpt-razon-no-deberias-compartir-informacion-personal-ia-3236298.jpg?tf=1200x' alt='ChatGPT: esta es la razón por la que no deberías compartir información personal con la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/te-puede-curiosidad-estos-auriculares-conduccion-osea-son-baratos-estan-genial-1343274'>Si te puede la curiosidad, estos auriculares de conducción ósea son muy baratos y están genial</a></h4>
     <a href='https://computerhoy.com/audio/te-puede-curiosidad-estos-auriculares-conduccion-osea-son-baratos-estan-genial-1343274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/auriculares-conduccion-osea-3236384.jpg?tf=1200x' alt='Si te puede la curiosidad, estos auriculares de conducción ósea son muy baratos y están genial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-despierta-nostalgia-video-lofi-mitico-fondo-windows-xp-1343368'>Microsoft despierta la nostalgia con un vídeo lofi de una hora y el mítico fondo de Windows XP</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-despierta-nostalgia-video-lofi-mitico-fondo-windows-xp-1343368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-musica-lofi-3236528.jpg?tf=1200x' alt='Microsoft despierta la nostalgia con un vídeo lofi de una hora y el mítico fondo de Windows XP' />
     </a>
 </div>
 
