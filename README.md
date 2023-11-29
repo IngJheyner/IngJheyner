@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/llega-windows-10-funciones-utiles-windows-11-1343560'>Llega a Windows 10 una de las funciones más útiles de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/llega-windows-10-funciones-utiles-windows-11-1343560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg?tf=1200x' alt='Llega a Windows 10 una de las funciones más útiles de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/fin-cuentas-compartidas-autentico-fiasco-netflix-menos-espana-1343558'>Fin de las cuentas compartidas: un auténtico fiasco para Netflix, al menos en España</a></h4>
+    <a href='https://computerhoy.com/apps/fin-cuentas-compartidas-autentico-fiasco-netflix-menos-espana-1343558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/he-dejado-pagar-suscripcion-netflix-me-estoy-arrepintiendo-3043230.jpg?tf=1200x' alt='Fin de las cuentas compartidas: un auténtico fiasco para Netflix, al menos en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cierto-flipper-zero-puede-convertir-persona-hacker-1342924'>¿Es cierto que Flipper Zero puede convertir a una persona sin conocimientos en un hacker?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cierto-flipper-zero-puede-convertir-persona-hacker-1342924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cierto-flipper-zero-puede-convertir-persona-conocimientos-hacker-3235778.jpg?tf=1200x' alt='¿Es cierto que Flipper Zero puede convertir a una persona sin conocimientos en un hacker?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/lotus-presenta-superdeportivo-carga-coche-electrico-1343504'>Lotus presenta el “superdeportivo” de los cargadores de baterías para coches eléctricos</a></h4>
     <a href='https://computerhoy.com/motor/lotus-presenta-superdeportivo-carga-coche-electrico-1343504' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lotus-presenta-superdeportivo-cargadores-baterias-coches-electricos-3236780.jpg?tf=1200x' alt='Lotus presenta el “superdeportivo” de los cargadores de baterías para coches eléctricos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/nace-cria-rinoceronte-sumatra-indonesia-1343524'>Toda Indonesia celebra la nueva cría de uno de los mamíferos más raros del mundo</a></h4>
     <a href='https://computerhoy.com/life/nace-cria-rinoceronte-sumatra-indonesia-1343524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/toda-indonesia-celebra-nueva-cria-mamiferos-raros-mundo-3236618.jpg?tf=1200x' alt='Toda Indonesia celebra la nueva cría de uno de los mamíferos más raros del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/que-son-passkeys-diferencia-contrasenas-1343014'>Qué son las Passkeys y en qué se diferencia de las contraseñas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/que-son-passkeys-diferencia-contrasenas-1343014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/son-passkeys-diferencian-contrasenas-3235982.jpg?tf=1200x' alt='Qué son las Passkeys y en qué se diferencia de las contraseñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/cristiano-ronaldo-podria-enfrentarse-demanda-multimillonaria-nft-1343476'>Cristiano Ronaldo podría enfrentar una demanda de más de 900 millones de euros por sus NFT</a></h4>
-    <a href='https://computerhoy.com/criptos/cristiano-ronaldo-podria-enfrentarse-demanda-multimillonaria-nft-1343476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cristiano-ronaldo-3236710.jpg?tf=1200x' alt='Cristiano Ronaldo podría enfrentar una demanda de más de 900 millones de euros por sus NFT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/eres-buen-comer-freidora-aire-desploma-precio-tiene-9l-capacidad-1341748'>Si eres de buen comer, esta freidora de aire desploma su precio y tiene 9L de capacidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/eres-buen-comer-freidora-aire-desploma-precio-tiene-9l-capacidad-1341748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cecotec-cecofry-advance-9000-window-3233718.jpg?tf=1200x' alt='Si eres de buen comer, esta freidora de aire desploma su precio y tiene 9L de capacidad' />
     </a>
 </div>
 
