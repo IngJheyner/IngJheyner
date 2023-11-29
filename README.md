@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cuadros-hace-siglos-personas-usando-movil-explicacion-sencilla-1240736'>Los cuadros de hace siglos, con personas usando el móvil, tienen una explicación muy sencilla</a></h4>
+    <a href='https://computerhoy.com/ciencia/cuadros-hace-siglos-personas-usando-movil-explicacion-sencilla-1240736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cuadros-hace-siglos-personas-usando-movil-tienen-explicacion-muy-sencilla-3025960.jpg?tf=1200x' alt='Los cuadros de hace siglos, con personas usando el móvil, tienen una explicación muy sencilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/te-puede-curiosidad-estos-auriculares-conduccion-osea-son-baratos-estan-genial-1343274'>Si te puede la curiosidad, estos auriculares de conducción ósea son muy baratos y están genial</a></h4>
     <a href='https://computerhoy.com/audio/te-puede-curiosidad-estos-auriculares-conduccion-osea-son-baratos-estan-genial-1343274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/auriculares-conduccion-osea-3236384.jpg?tf=1200x' alt='Si te puede la curiosidad, estos auriculares de conducción ósea son muy baratos y están genial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tumba-precio-router-ultrarrapido-wifi-6-1342916'>Xiaomi tumba el precio de su router ultrarrápido con WiFi 6</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-tumba-precio-router-ultrarrapido-wifi-6-1342916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mesh-system-ax3000-analisis-opinion-2525579.jpg?tf=1200x' alt='Xiaomi tumba el precio de su router ultrarrápido con WiFi 6' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nuevos-airpods-4-apple-fecha-lanzamiento-novedades-precio-1343304'>Esto es lo que se sabe de los AirPods 4 de Apple: fecha de lanzamiento, novedades y precio</a></h4>
-    <a href='https://computerhoy.com/apple/nuevos-airpods-4-apple-fecha-lanzamiento-novedades-precio-1343304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-airpods-pro-2-1675628565024-2947480.jpg?tf=1200x' alt='Esto es lo que se sabe de los AirPods 4 de Apple: fecha de lanzamiento, novedades y precio' />
     </a>
 </div>
 
