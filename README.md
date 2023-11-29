@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/dazn-sube-tarifas-cincuenta-por-ciento-2024-1343568'>DAZN vuelve a subir sus tarifas hasta un 50%, y las redes arden</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/dazn-sube-tarifas-cincuenta-por-ciento-2024-1343568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dazn-vuelve-subir-precios-justo-cuando-empiezan-muchas-competiciones-3100306.jpg?tf=1200x' alt='DAZN vuelve a subir sus tarifas hasta un 50%, y las redes arden' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/qos-funcion-router-wifi-1342940'>QoS: la función oculta de tu router WiFi con el que podrás dar pase VIP a tus dispositivos preferidos</a></h4>
+    <a href='https://computerhoy.com/redes/qos-funcion-router-wifi-1342940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/qos-funcion-oculta-router-wifi-podras-dar-pase-vip-dispositivos-preferentes-3235910.jpg?tf=1200x' alt='QoS: la función oculta de tu router WiFi con el que podrás dar pase VIP a tus dispositivos preferidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/llega-windows-10-funciones-utiles-windows-11-1343560'>Llega a Windows 10 una de las funciones más útiles de Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/llega-windows-10-funciones-utiles-windows-11-1343560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg?tf=1200x' alt='Llega a Windows 10 una de las funciones más útiles de Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/cierto-flipper-zero-puede-convertir-persona-hacker-1342924'>¿Es cierto que Flipper Zero puede convertir a una persona sin conocimientos en un hacker?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cierto-flipper-zero-puede-convertir-persona-hacker-1342924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cierto-flipper-zero-puede-convertir-persona-conocimientos-hacker-3235778.jpg?tf=1200x' alt='¿Es cierto que Flipper Zero puede convertir a una persona sin conocimientos en un hacker?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/lotus-presenta-superdeportivo-carga-coche-electrico-1343504'>Lotus presenta el “superdeportivo” de los cargadores de baterías para coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/motor/lotus-presenta-superdeportivo-carga-coche-electrico-1343504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lotus-presenta-superdeportivo-cargadores-baterias-coches-electricos-3236780.jpg?tf=1200x' alt='Lotus presenta el “superdeportivo” de los cargadores de baterías para coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nace-cria-rinoceronte-sumatra-indonesia-1343524'>Toda Indonesia celebra la nueva cría de uno de los mamíferos más raros del mundo</a></h4>
-    <a href='https://computerhoy.com/life/nace-cria-rinoceronte-sumatra-indonesia-1343524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/toda-indonesia-celebra-nueva-cria-mamiferos-raros-mundo-3236618.jpg?tf=1200x' alt='Toda Indonesia celebra la nueva cría de uno de los mamíferos más raros del mundo' />
     </a>
 </div>
 
