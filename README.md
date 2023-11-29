@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-ocho-apellidos-vascos-1343492'>Qué película ver en la TDT hoy: un andaluz que se hace pasar por vasco para ligar con una chica, y la cosa se complica</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-ocho-apellidos-vascos-1343492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/ocho-apellidos-vascos-1857787.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: un andaluz que se hace pasar por vasco para ligar con una chica, y la cosa se complica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-configurar-nuevas-funciones-privacidad-whatsapp-1343416'>Cómo configurar las nuevas funciones de privacidad de WhatsApp: bloquea de chats, silenciar llamadas y más</a></h4>
+    <a href='https://computerhoy.com/apps/como-configurar-nuevas-funciones-privacidad-whatsapp-1343416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-configurar-cada-nuevas-funciones-privacidad-whatsapp-algunas-permiten-bloquear-chats-contrasena-silenciar-llamadas-desconocidos-3236626.jpg?tf=1200x' alt='Cómo configurar las nuevas funciones de privacidad de WhatsApp: bloquea de chats, silenciar llamadas y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/bluesnarfing-puedes-evitar-robos-bluetooth-1342794'>Bluesnarfing: así puedes evitar los robos que llegan por Bluetooth</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/bluesnarfing-puedes-evitar-robos-bluetooth-1342794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/bluetooth-2759957.jpg?tf=1200x' alt='Bluesnarfing: así puedes evitar los robos que llegan por Bluetooth' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/grave-error-termostato-todo-mundo-comete-casa-1343392'>El grave error con el termostato que todo el mundo comete al intentar que la calefacción de casa caliente más rápido</a></h4>
     <a href='https://computerhoy.com/life/grave-error-termostato-todo-mundo-comete-casa-1343392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grave-error-termostato-todo-mundo-comete-intentar-calefaccion-casa-caliente-rapido-3236588.jpg?tf=1200x' alt='El grave error con el termostato que todo el mundo comete al intentar que la calefacción de casa caliente más rápido' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/chatgpt-razon-no-deberias-compartir-informacion-personal-ia-1343264'>ChatGPT: esta es la razón por la que no deberías compartir información personal con la IA</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/chatgpt-razon-no-deberias-compartir-informacion-personal-ia-1343264' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chatgpt-razon-no-deberias-compartir-informacion-personal-ia-3236298.jpg?tf=1200x' alt='ChatGPT: esta es la razón por la que no deberías compartir información personal con la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/te-despiertas-cansado-prueba-rutina-20-minutos-levantarte-1343378'>¿Te despiertas cansado? Prueba esta rutina de 20 minutos al levantarte en vez del café</a></h4>
-    <a href='https://computerhoy.com/life/te-despiertas-cansado-prueba-rutina-20-minutos-levantarte-1343378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/te-despiertas-cansado-simple-cambio-20-minutos-rutina-diaria-puede-acabar-esa-sensacion-3236520.jpg?tf=1200x' alt='¿Te despiertas cansado? Prueba esta rutina de 20 minutos al levantarte en vez del café' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cuadros-hace-siglos-personas-usando-movil-explicacion-sencilla-1240736'>Los cuadros de hace siglos, con personas usando el móvil, tienen una explicación muy sencilla</a></h4>
-    <a href='https://computerhoy.com/ciencia/cuadros-hace-siglos-personas-usando-movil-explicacion-sencilla-1240736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/cuadros-hace-siglos-personas-usando-movil-tienen-explicacion-muy-sencilla-3025960.jpg?tf=1200x' alt='Los cuadros de hace siglos, con personas usando el móvil, tienen una explicación muy sencilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/te-puede-curiosidad-estos-auriculares-conduccion-osea-son-baratos-estan-genial-1343274'>Si te puede la curiosidad, estos auriculares de conducción ósea son muy baratos y están genial</a></h4>
-    <a href='https://computerhoy.com/audio/te-puede-curiosidad-estos-auriculares-conduccion-osea-son-baratos-estan-genial-1343274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/auriculares-conduccion-osea-3236384.jpg?tf=1200x' alt='Si te puede la curiosidad, estos auriculares de conducción ósea son muy baratos y están genial' />
     </a>
 </div>
 
