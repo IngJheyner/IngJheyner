@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/google-anuncia-exploit-dia-cero-chrome-actualiza-navegador-1343580'>Google anuncia un grave exploit de día cero en Chrome, actualiza tu navegador ahora mismo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/google-anuncia-exploit-dia-cero-chrome-actualiza-navegador-1343580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/privacidad-chrome-3203240.jpg?tf=1200x' alt='Google anuncia un grave exploit de día cero en Chrome, actualiza tu navegador ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/lector-ebooks-puede-comics-gracias-pantalla-color-1343358'>Este lector de ebooks puede hasta con los cómics gracias a su pantalla a color</a></h4>
     <a href='https://computerhoy.com/tecnologia/lector-ebooks-puede-comics-gracias-pantalla-color-1343358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pocketbook-ink-pad-3236564.jpg?tf=1200x' alt='Este lector de ebooks puede hasta con los cómics gracias a su pantalla a color' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/llega-windows-10-funciones-utiles-windows-11-1343560'>Llega a Windows 10 una de las funciones más útiles de Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/llega-windows-10-funciones-utiles-windows-11-1343560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg?tf=1200x' alt='Llega a Windows 10 una de las funciones más útiles de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/fin-cuentas-compartidas-autentico-fiasco-netflix-menos-espana-1343558'>Fin de las cuentas compartidas: un auténtico fiasco para Netflix, al menos en España</a></h4>
-    <a href='https://computerhoy.com/apps/fin-cuentas-compartidas-autentico-fiasco-netflix-menos-espana-1343558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/he-dejado-pagar-suscripcion-netflix-me-estoy-arrepintiendo-3043230.jpg?tf=1200x' alt='Fin de las cuentas compartidas: un auténtico fiasco para Netflix, al menos en España' />
     </a>
 </div>
 
