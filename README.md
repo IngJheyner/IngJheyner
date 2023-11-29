@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/afecta-espacio-trajes-astronautas-disfuncion-erectil-incluso-perdida-unas-1343350'>Así afecta el espacio y los trajes a los astronautas: disfunción eréctil e incluso pérdida de uñas</a></h4>
+    <a href='https://computerhoy.com/espacio/afecta-espacio-trajes-astronautas-disfuncion-erectil-incluso-perdida-unas-1343350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/astronauta-espacio-3236414.jpg?tf=1200x' alt='Así afecta el espacio y los trajes a los astronautas: disfunción eréctil e incluso pérdida de uñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tumba-precio-router-ultrarrapido-wifi-6-1342916'>Xiaomi tumba el precio de su router ultrarrápido con WiFi 6</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-tumba-precio-router-ultrarrapido-wifi-6-1342916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mesh-system-ax3000-analisis-opinion-2525579.jpg?tf=1200x' alt='Xiaomi tumba el precio de su router ultrarrápido con WiFi 6' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/nuevos-airpods-4-apple-fecha-lanzamiento-novedades-precio-1343304'>Esto es lo que se sabe de los AirPods 4 de Apple: fecha de lanzamiento, novedades y precio</a></h4>
     <a href='https://computerhoy.com/apple/nuevos-airpods-4-apple-fecha-lanzamiento-novedades-precio-1343304' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-airpods-pro-2-1675628565024-2947480.jpg?tf=1200x' alt='Esto es lo que se sabe de los AirPods 4 de Apple: fecha de lanzamiento, novedades y precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cecotec-ha-inventado-bicinete-mitad-bici-mitad-patinete-verdad-no-tiene-mala-pinta-1343202'>Cecotec ha inventado el bicinete: mitad bici y mitad patinete, y la verdad es que no tiene mala pinta</a></h4>
     <a href='https://computerhoy.com/tecnologia/cecotec-ha-inventado-bicinete-mitad-bici-mitad-patinete-verdad-no-tiene-mala-pinta-1343202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cecotec-bicinete-3236170.jpg?tf=1200x' alt='Cecotec ha inventado el bicinete: mitad bici y mitad patinete, y la verdad es que no tiene mala pinta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/10-datos-chatgpt-desconocias-uso-espana-1342870'>10 datos de ChatGPT que desconocías de su uso en España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/10-datos-chatgpt-desconocias-uso-espana-1342870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/datos-uso-chatgpt-espana-desconocias-openai-3235682.jpg?tf=1200x' alt='10 datos de ChatGPT que desconocías de su uso en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/amd-desata-bestia-96-nucleos-procesador-reclama-19-records-mundiales-1343192'>AMD desata a su bestia de 96 núcleos: este procesador reclama 19 récords mundiales</a></h4>
-    <a href='https://computerhoy.com/pc/amd-desata-bestia-96-nucleos-procesador-reclama-19-records-mundiales-1343192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amd-procesadores-3236164.jpg?tf=1200x' alt='AMD desata a su bestia de 96 núcleos: este procesador reclama 19 récords mundiales' />
     </a>
 </div>
 
