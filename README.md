@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-copiar-texto-imagen-windows-11-1339190'>Cómo copiar texto de una imagen en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-copiar-texto-imagen-windows-11-1339190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-copiar-texto-imagen-rapidamente-windows-11-3229088.jpg?tf=1200x' alt='Cómo copiar texto de una imagen en Windows 11' />
+    <h4><a href='https://computerhoy.com/google/buscas-cantante-google-aparecen-imagenes-generadas-ia-eso-problema-1343222'>Si buscas a este cantante en Google aparecen imágenes generadas con IA y eso es un problema</a></h4>
+    <a href='https://computerhoy.com/google/buscas-cantante-google-aparecen-imagenes-generadas-ia-eso-problema-1343222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/imagen-generada-ia-3236200.jpg?tf=1200x' alt='Si buscas a este cantante en Google aparecen imágenes generadas con IA y eso es un problema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-q-nueva-ia-generativa-amazon-1343018'>Amazon Q, la nueva IA generativa de Amazon que quiere plantar cara a OpenAI, Meta y Microsoft</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-q-nueva-ia-generativa-amazon-1343018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-q-nueva-ia-generativa-amazon-quiere-plantar-cara-open-ai-meta-microsoft-3235972.jpg?tf=1200x' alt='Amazon Q, la nueva IA generativa de Amazon que quiere plantar cara a OpenAI, Meta y Microsoft' />
+    <h4><a href='https://computerhoy.com/tecnologia/cecotec-ha-inventado-bicinete-mitad-bici-mitad-patinete-verdad-no-tiene-mala-pinta-1343202'>Cecotec ha inventado el bicinete: mitad bici y mitad patinete, y la verdad es que no tiene mala pinta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cecotec-ha-inventado-bicinete-mitad-bici-mitad-patinete-verdad-no-tiene-mala-pinta-1343202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cecotec-bicinete-3236170.jpg?tf=1200x' alt='Cecotec ha inventado el bicinete: mitad bici y mitad patinete, y la verdad es que no tiene mala pinta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/peticion-steve-jobs-presentar-iphone-hubiera-sido-humillacion-hoy-dia-1343000'>La sorprendente petición de Steve Jobs al presentar el iPhone que hubiera sido una humillación hoy en día</a></h4>
-    <a href='https://computerhoy.com/life/peticion-steve-jobs-presentar-iphone-hubiera-sido-humillacion-hoy-dia-1343000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sorprendente-peticion-steve-jobs-presentar-iphone-hubiera-sido-humillacion-hoy-dia-3235970.jpg?tf=1200x' alt='La sorprendente petición de Steve Jobs al presentar el iPhone que hubiera sido una humillación hoy en día' />
+    <h4><a href='https://computerhoy.com/tecnologia/10-datos-chatgpt-desconocias-uso-espana-1342870'>10 datos de ChatGPT que desconocías de su uso en España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/10-datos-chatgpt-desconocias-uso-espana-1342870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/datos-uso-chatgpt-espana-desconocias-openai-3235682.jpg?tf=1200x' alt='10 datos de ChatGPT que desconocías de su uso en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/huawei-rebaja-bestia-portatil-windows-11-i5-deja-menos-500eu-forma-temporal-1342774'>Huawei rebaja a lo bestia su portátil Windows 11 con i5: lo deja por menos de 500€ de forma temporal</a></h4>
-    <a href='https://computerhoy.com/pc/huawei-rebaja-bestia-portatil-windows-11-i5-deja-menos-500eu-forma-temporal-1342774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/huawei-matebook-d15-2491001.jpg?tf=1200x' alt='Huawei rebaja a lo bestia su portátil Windows 11 con i5: lo deja por menos de 500€ de forma temporal' />
+    <h4><a href='https://computerhoy.com/pc/amd-desata-bestia-96-nucleos-procesador-reclama-19-records-mundiales-1343192'>AMD desata a su bestia de 96 núcleos: este procesador reclama 19 récords mundiales</a></h4>
+    <a href='https://computerhoy.com/pc/amd-desata-bestia-96-nucleos-procesador-reclama-19-records-mundiales-1343192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amd-procesadores-3236164.jpg?tf=1200x' alt='AMD desata a su bestia de 96 núcleos: este procesador reclama 19 récords mundiales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/primeras-imagenes-serie-fallout-basada-mitico-videojuego-1343006'>Primeras imágenes de Fallout, la nueva serie del creador de Westworld, basada en el mítico videojuego</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/primeras-imagenes-serie-fallout-basada-mitico-videojuego-1343006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/primeras-imagenes-fallout-nueva-serie-creador-westworld-basada-mitico-videojuego-3235920.jpg?tf=1200x' alt='Primeras imágenes de Fallout, la nueva serie del creador de Westworld, basada en el mítico videojuego' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173'>Mejores Android TV Box baratas que puedes comprar en 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nokia-streaming-box-3235964.jpg?tf=1200x' alt='Mejores Android TV Box baratas que puedes comprar en 2023' />
     </a>
 </div>
 
