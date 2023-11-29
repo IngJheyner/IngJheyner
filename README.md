@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/lector-ebooks-puede-comics-gracias-pantalla-color-1343358'>Este lector de ebooks puede hasta con los cómics gracias a su pantalla a color</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lector-ebooks-puede-comics-gracias-pantalla-color-1343358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pocketbook-ink-pad-3236564.jpg?tf=1200x' alt='Este lector de ebooks puede hasta con los cómics gracias a su pantalla a color' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/dazn-sube-tarifas-cincuenta-por-ciento-2024-1343568'>DAZN vuelve a subir sus tarifas hasta un 50%, y las redes arden</a></h4>
     <a href='https://computerhoy.com/entretenimiento/dazn-sube-tarifas-cincuenta-por-ciento-2024-1343568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dazn-vuelve-subir-precios-justo-cuando-empiezan-muchas-competiciones-3100306.jpg?tf=1200x' alt='DAZN vuelve a subir sus tarifas hasta un 50%, y las redes arden' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/fin-cuentas-compartidas-autentico-fiasco-netflix-menos-espana-1343558'>Fin de las cuentas compartidas: un auténtico fiasco para Netflix, al menos en España</a></h4>
     <a href='https://computerhoy.com/apps/fin-cuentas-compartidas-autentico-fiasco-netflix-menos-espana-1343558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/he-dejado-pagar-suscripcion-netflix-me-estoy-arrepintiendo-3043230.jpg?tf=1200x' alt='Fin de las cuentas compartidas: un auténtico fiasco para Netflix, al menos en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cierto-flipper-zero-puede-convertir-persona-hacker-1342924'>¿Es cierto que Flipper Zero puede convertir a una persona sin conocimientos en un hacker?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cierto-flipper-zero-puede-convertir-persona-hacker-1342924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cierto-flipper-zero-puede-convertir-persona-conocimientos-hacker-3235778.jpg?tf=1200x' alt='¿Es cierto que Flipper Zero puede convertir a una persona sin conocimientos en un hacker?' />
     </a>
 </div>
 
