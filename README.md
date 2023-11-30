@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/threads-llegara-espana-resto-europa-navidad-1343896'>Mark Zuckerberg lo tiene todo listo: Threads llegará a España y resto de Europa por Navidad</a></h4>
+    <a href='https://computerhoy.com/redes/threads-llegara-espana-resto-europa-navidad-1343896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/threads-llega-europa-navidad-mark-zuckerberg-ya-tiene-todo-listo-3237408.jpg?tf=1200x' alt='Mark Zuckerberg lo tiene todo listo: Threads llegará a España y resto de Europa por Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-contrasena-instagram-394025'>Cómo cambiar tu contraseña de Instagram</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-contrasena-instagram-394025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-cambiar-contrasena-instagram-3237116.jpg?tf=1200x' alt='Cómo cambiar tu contraseña de Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cuestan-menos-10eu-son-lenovo-estos-cascos-bluetooth-arrasan-ventas-aliexpress-1343818'>Cuestan menos de 10€ y son de Lenovo: estos cascos Bluetooth arrasan en ventas en AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuestan-menos-10eu-son-lenovo-estos-cascos-bluetooth-arrasan-ventas-aliexpress-1343818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lenovo-gm2-pro-3141460.jpg?tf=1200x' alt='Cuestan menos de 10€ y son de Lenovo: estos cascos Bluetooth arrasan en ventas en AliExpress' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/precio-ssd-podria-dispararse-quiebra-actor-clave-1343788'>El precio de los discos duros podría dispararse tras la rumoreada quiebra de un actor clave</a></h4>
     <a href='https://computerhoy.com/tecnologia/precio-ssd-podria-dispararse-quiebra-actor-clave-1343788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/vida-media-unidad-disco-duro-hdd-no-alcanza-3-anos-nuevo-estudio-3025802.jpg?tf=1200x' alt='El precio de los discos duros podría dispararse tras la rumoreada quiebra de un actor clave' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-repite-ano-elige-10-mejores-aplicaciones-android-2023-1343760'>Google repite un año más y elige las 10 mejores aplicaciones Android de 2023</a></h4>
-    <a href='https://computerhoy.com/google/google-repite-ano-elige-10-mejores-aplicaciones-android-2023-1343760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mejores-apps-2023-google-3237160.jpg?tf=1200x' alt='Google repite un año más y elige las 10 mejores aplicaciones Android de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-cosas-revela-sam-altman-culebron-open-ai-1343758'>5 cosas que revela Sam Altman tras el culebrón de Open AI</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-cosas-revela-sam-altman-culebron-open-ai-1343758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-junto-logo-openai-3237186.jpg?tf=1200x' alt='5 cosas que revela Sam Altman tras el culebrón de Open AI' />
     </a>
 </div>
 
