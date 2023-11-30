@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/siranna-neom--minas-tirith-version-moderna-arabia-saudi-1343586'>Están construyendo Minas Tirith en versión moderna, en el desierto de Arabia Saudí</a></h4>
+    <a href='https://computerhoy.com/life/siranna-neom--minas-tirith-version-moderna-arabia-saudi-1343586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1701298400618-3236930.jpg?tf=1200x' alt='Están construyendo Minas Tirith en versión moderna, en el desierto de Arabia Saudí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/google-anuncia-exploit-dia-cero-chrome-actualiza-navegador-1343580'>Google anuncia un grave exploit de día cero en Chrome, actualiza tu navegador ahora mismo</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/google-anuncia-exploit-dia-cero-chrome-actualiza-navegador-1343580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/privacidad-chrome-3203240.jpg?tf=1200x' alt='Google anuncia un grave exploit de día cero en Chrome, actualiza tu navegador ahora mismo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/qos-funcion-router-wifi-1342940'>QoS: la función oculta de tu router WiFi con el que podrás dar pase VIP a tus dispositivos preferidos</a></h4>
     <a href='https://computerhoy.com/redes/qos-funcion-router-wifi-1342940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/qos-funcion-oculta-router-wifi-podras-dar-pase-vip-dispositivos-preferentes-3235910.jpg?tf=1200x' alt='QoS: la función oculta de tu router WiFi con el que podrás dar pase VIP a tus dispositivos preferidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/llega-windows-10-funciones-utiles-windows-11-1343560'>Llega a Windows 10 una de las funciones más útiles de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/llega-windows-10-funciones-utiles-windows-11-1343560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg?tf=1200x' alt='Llega a Windows 10 una de las funciones más útiles de Windows 11' />
     </a>
 </div>
 
