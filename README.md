@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/listas-canales-iptv-tienen-dias-contados-sky-ha-encontrado-formula-acabar-ellas-1344014'>Las listas de canales IPTV tienen los días contados: Sky ha encontrado la fórmula para acabar con ellas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/listas-canales-iptv-tienen-dias-contados-sky-ha-encontrado-formula-acabar-ellas-1344014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='Las listas de canales IPTV tienen los días contados: Sky ha encontrado la fórmula para acabar con ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-adios-pequena-adios-1344010'>Qué película ver en la TDT hoy: un drama sobre una niña desaparecida, el aplaudido debut de Ben Affleck como director</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-adios-pequena-adios-1344010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pelicula-ver-tdt-hoy-drama-nina-desaparecida-primera-pelicula-ben-affleck-como-director-3237688.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: un drama sobre una niña desaparecida, el aplaudido debut de Ben Affleck como director' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/acestream-mejor-app-ver-listas-iptv-smart-tv-1342888'>AceStream: la mejor app para ver IPTV en un Smart TV con un gran inconveniente si estás en España</a></h4>
+    <a href='https://computerhoy.com/apps/acestream-mejor-app-ver-listas-iptv-smart-tv-1342888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/acestream-mejor-app-ver-iptv-smart-tv-gran-inconveniente-estas-espana-3235730.jpg?tf=1200x' alt='AceStream: la mejor app para ver IPTV en un Smart TV con un gran inconveniente si estás en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/consiguen-hacer-funcionar-raspberry-pi-5-tarjeta-grafica-externa-1343936'>Consiguen hacer funcionar una Raspberry Pi 5 con una tarjeta gráfica externa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/consiguen-hacer-funcionar-raspberry-pi-5-tarjeta-grafica-externa-1343936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/raspberry-pi-5-ya-puede-conectarse-tarjeta-grafica-externa-3237464.jpg?tf=1200x' alt='Consiguen hacer funcionar una Raspberry Pi 5 con una tarjeta gráfica externa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/que-son-apps-boveda-como-detectarlas-1343020'>Qué son las apps bóveda y cómo detectarlas: la peligrosa vía con las que tus hijos se pueden saltar el control parental</a></h4>
     <a href='https://computerhoy.com/tutoriales/que-son-apps-boveda-como-detectarlas-1343020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/son-apps-boveda-como-funcionan-ocultar-actividad-movil-saltar-control-parental-3235988.jpg?tf=1200x' alt='Qué son las apps bóveda y cómo detectarlas: la peligrosa vía con las que tus hijos se pueden saltar el control parental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/patinete-electrico-pesa-menos-portatil-pliega-tamano-folio-1343862'>Este patinete eléctrico pesa menos que un ordenador portátil y se pliega al tamaño de un folio</a></h4>
-    <a href='https://computerhoy.com/motor/patinete-electrico-pesa-menos-portatil-pliega-tamano-folio-1343862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/patinete-electrico-japones-mochila-pesa-menos-muchos-portatiles-3237330.jpg?tf=1200x' alt='Este patinete eléctrico pesa menos que un ordenador portátil y se pliega al tamaño de un folio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejor-kindle-lector-ebooks-acepta-todos-formatos-tiene-todo-catalogo-ebiblio-1343846'>¿Mejor que el Kindle? Este lector de ebooks acepta todos los formatos y tiene todo el catálogo de eBiblio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejor-kindle-lector-ebooks-acepta-todos-formatos-tiene-todo-catalogo-ebiblio-1343846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pocketbook-era-3237308.jpg?tf=1200x' alt='¿Mejor que el Kindle? Este lector de ebooks acepta todos los formatos y tiene todo el catálogo de eBiblio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-permite-ahora-esconder-chats-codigo-secreto-1343956'>¡Ábrete sésamo! WhatsApp ya permite esconder tus chats con un código secreto</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-permite-ahora-esconder-chats-codigo-secreto-1343956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/whatsapp-ahora-permite-esconder-chats-bloqueados-codigo-secreto-solo-podran-verse-pones-barra-busqueda-adios-cotillas-3237534.jpg?tf=1200x' alt='¡Ábrete sésamo! WhatsApp ya permite esconder tus chats con un código secreto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/seguro-tener-activas-opciones-desarrollador-movil-android-1343464'>¿Es seguro tener activas las opciones de desarrollador en tu móvil Android?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/seguro-tener-activas-opciones-desarrollador-movil-android-1343464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/seguro-tener-activas-opciones-desarrollador-movil-android-3236786.jpg?tf=1200x' alt='¿Es seguro tener activas las opciones de desarrollador en tu móvil Android?' />
     </a>
 </div>
 
