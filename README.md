@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-no-gran-muralla-china-espana-ni-te-imaginas-1344018'>La única estructura visible desde el espacio no es la Gran Muralla China, está en España y ni te imaginas qué es</a></h4>
+    <a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-no-gran-muralla-china-espana-ni-te-imaginas-1344018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mar-plastico-almeria-3237738.jpg?tf=1200x' alt='La única estructura visible desde el espacio no es la Gran Muralla China, está en España y ni te imaginas qué es' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/amazon-fire-tv-lento-truco-volvera-funcionar-como-primer-dia-1341072'>¿Amazon Fire TV lento? Con este sencillo truco volverá a funcionar como el primer día</a></h4>
+    <a href='https://computerhoy.com/tutoriales/amazon-fire-tv-lento-truco-volvera-funcionar-como-primer-dia-1341072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-lento-sencillo-truco-volvera-funcionar-como-primer-dia-3232672.jpg?tf=1200x' alt='¿Amazon Fire TV lento? Con este sencillo truco volverá a funcionar como el primer día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/listas-canales-iptv-tienen-dias-contados-sky-ha-encontrado-formula-acabar-ellas-1344014'>Las listas de canales IPTV tienen los días contados: Sky ha encontrado la fórmula para acabar con ellas</a></h4>
     <a href='https://computerhoy.com/tecnologia/listas-canales-iptv-tienen-dias-contados-sky-ha-encontrado-formula-acabar-ellas-1344014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='Las listas de canales IPTV tienen los días contados: Sky ha encontrado la fórmula para acabar con ellas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/acestream-mejor-app-ver-listas-iptv-smart-tv-1342888'>AceStream: la mejor app para ver IPTV en un Smart TV con un gran inconveniente si estás en España</a></h4>
     <a href='https://computerhoy.com/apps/acestream-mejor-app-ver-listas-iptv-smart-tv-1342888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/acestream-mejor-app-ver-iptv-smart-tv-gran-inconveniente-estas-espana-3235730.jpg?tf=1200x' alt='AceStream: la mejor app para ver IPTV en un Smart TV con un gran inconveniente si estás en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/consiguen-hacer-funcionar-raspberry-pi-5-tarjeta-grafica-externa-1343936'>Consiguen hacer funcionar una Raspberry Pi 5 con una tarjeta gráfica externa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/consiguen-hacer-funcionar-raspberry-pi-5-tarjeta-grafica-externa-1343936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/raspberry-pi-5-ya-puede-conectarse-tarjeta-grafica-externa-3237464.jpg?tf=1200x' alt='Consiguen hacer funcionar una Raspberry Pi 5 con una tarjeta gráfica externa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/que-son-apps-boveda-como-detectarlas-1343020'>Qué son las apps bóveda y cómo detectarlas: la peligrosa vía con las que tus hijos se pueden saltar el control parental</a></h4>
-    <a href='https://computerhoy.com/tutoriales/que-son-apps-boveda-como-detectarlas-1343020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/son-apps-boveda-como-funcionan-ocultar-actividad-movil-saltar-control-parental-3235988.jpg?tf=1200x' alt='Qué son las apps bóveda y cómo detectarlas: la peligrosa vía con las que tus hijos se pueden saltar el control parental' />
     </a>
 </div>
 
