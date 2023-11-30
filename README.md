@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuestan-menos-10eu-son-lenovo-estos-cascos-bluetooth-arrasan-ventas-aliexpress-1343818'>Cuestan menos de 10€ y son de Lenovo: estos cascos Bluetooth arrasan en ventas en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuestan-menos-10eu-son-lenovo-estos-cascos-bluetooth-arrasan-ventas-aliexpress-1343818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lenovo-gm2-pro-3141460.jpg?tf=1200x' alt='Cuestan menos de 10€ y son de Lenovo: estos cascos Bluetooth arrasan en ventas en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/prestigioso-estudio-demuestra-ia-tonta-piensas-1343780'>Este prestigioso estudio demuestra que la IA es más tonta de lo que piensas</a></h4>
     <a href='https://computerhoy.com/tecnologia/prestigioso-estudio-demuestra-ia-tonta-piensas-1343780' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inteligencia-ia-3237184.jpg?tf=1200x' alt='Este prestigioso estudio demuestra que la IA es más tonta de lo que piensas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/5-cosas-revela-sam-altman-culebron-open-ai-1343758'>5 cosas que revela Sam Altman tras el culebrón de Open AI</a></h4>
     <a href='https://computerhoy.com/tecnologia/5-cosas-revela-sam-altman-culebron-open-ai-1343758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-junto-logo-openai-3237186.jpg?tf=1200x' alt='5 cosas que revela Sam Altman tras el culebrón de Open AI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jubila-vieja-estufa-chimenea-electrica-calienta-decora-casa-vez-1343766'>Jubila tu vieja estufa: esta chimenea eléctrica calienta y decora tu casa a la vez</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jubila-vieja-estufa-chimenea-electrica-calienta-decora-casa-vez-1343766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chimenea-cecotec-3237158.jpg?tf=1200x' alt='Jubila tu vieja estufa: esta chimenea eléctrica calienta y decora tu casa a la vez' />
     </a>
 </div>
 
