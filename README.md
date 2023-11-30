@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/formas-humanidad-podria-extinguirse-1339292'>14 formas en que la humanidad podría extinguirse, según los expertos</a></h4>
+    <a href='https://computerhoy.com/ciencia/formas-humanidad-podria-extinguirse-1339292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/14-formas-humanidad-podria-extinguirse-expertos-3229364.jpg?tf=1200x' alt='14 formas en que la humanidad podría extinguirse, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/threads-llegara-espana-resto-europa-navidad-1343896'>Mark Zuckerberg lo tiene todo listo: Threads llegará a España y resto de Europa por Navidad</a></h4>
     <a href='https://computerhoy.com/redes/threads-llegara-espana-resto-europa-navidad-1343896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/threads-llega-europa-navidad-mark-zuckerberg-ya-tiene-todo-listo-3237408.jpg?tf=1200x' alt='Mark Zuckerberg lo tiene todo listo: Threads llegará a España y resto de Europa por Navidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/prestigioso-estudio-demuestra-ia-tonta-piensas-1343780'>Este prestigioso estudio demuestra que la IA es más tonta de lo que piensas</a></h4>
     <a href='https://computerhoy.com/tecnologia/prestigioso-estudio-demuestra-ia-tonta-piensas-1343780' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inteligencia-ia-3237184.jpg?tf=1200x' alt='Este prestigioso estudio demuestra que la IA es más tonta de lo que piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/precio-ssd-podria-dispararse-quiebra-actor-clave-1343788'>El precio de los discos duros podría dispararse tras la rumoreada quiebra de un actor clave</a></h4>
-    <a href='https://computerhoy.com/tecnologia/precio-ssd-podria-dispararse-quiebra-actor-clave-1343788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/vida-media-unidad-disco-duro-hdd-no-alcanza-3-anos-nuevo-estudio-3025802.jpg?tf=1200x' alt='El precio de los discos duros podría dispararse tras la rumoreada quiebra de un actor clave' />
     </a>
 </div>
 
