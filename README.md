@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-note-12-pro-2991936.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/tipos-amistad-harvard-1342248'>Estos son los 3 tipos de amistad que existen, según Harvard</a></h4>
+    <a href='https://computerhoy.com/ciencia/tipos-amistad-harvard-1342248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/microfono-cantar-amigos-2477029.jpg?tf=1200x' alt='Estos son los 3 tipos de amistad que existen, según Harvard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/siranna-neom--minas-tirith-version-moderna-arabia-saudi-1343586'>Están construyendo Minas Tirith en versión moderna, en el desierto de Arabia Saudí</a></h4>
     <a href='https://computerhoy.com/life/siranna-neom--minas-tirith-version-moderna-arabia-saudi-1343586' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1701298400618-3236930.jpg?tf=1200x' alt='Están construyendo Minas Tirith en versión moderna, en el desierto de Arabia Saudí' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/lector-ebooks-puede-comics-gracias-pantalla-color-1343358'>Este lector de ebooks puede hasta con los cómics gracias a su pantalla a color</a></h4>
     <a href='https://computerhoy.com/tecnologia/lector-ebooks-puede-comics-gracias-pantalla-color-1343358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pocketbook-ink-pad-3236564.jpg?tf=1200x' alt='Este lector de ebooks puede hasta con los cómics gracias a su pantalla a color' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/dazn-sube-tarifas-cincuenta-por-ciento-2024-1343568'>DAZN vuelve a subir sus tarifas hasta un 50%, y las redes arden</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/dazn-sube-tarifas-cincuenta-por-ciento-2024-1343568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/dazn-vuelve-subir-precios-justo-cuando-empiezan-muchas-competiciones-3100306.jpg?tf=1200x' alt='DAZN vuelve a subir sus tarifas hasta un 50%, y las redes arden' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/qos-funcion-router-wifi-1342940'>QoS: la función oculta de tu router WiFi con el que podrás dar pase VIP a tus dispositivos preferidos</a></h4>
-    <a href='https://computerhoy.com/redes/qos-funcion-router-wifi-1342940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/qos-funcion-oculta-router-wifi-podras-dar-pase-vip-dispositivos-preferentes-3235910.jpg?tf=1200x' alt='QoS: la función oculta de tu router WiFi con el que podrás dar pase VIP a tus dispositivos preferidos' />
     </a>
 </div>
 
