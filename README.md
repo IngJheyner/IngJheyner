@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cybertruck-precios-oficiales-autonomia-1344034'>Elon Musk entrega en mano los primeros Cybertruck: precios oficiales y autonomía</a></h4>
+    <a href='https://computerhoy.com/motor/cybertruck-precios-oficiales-autonomia-1344034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-entrega-mano-primeros-cybertruck-ya-conocemos-precios-oficiales-3237768.jpg?tf=1200x' alt='Elon Musk entrega en mano los primeros Cybertruck: precios oficiales y autonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-muy-potente-cuesta-poco-raspberry-1343894'>Este mini PC es muy potente y cuesta poco más que una Raspberry</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-muy-potente-cuesta-poco-raspberry-1343894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/beelink-s12-mini-3237462.jpg?tf=1200x' alt='Este mini PC es muy potente y cuesta poco más que una Raspberry' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-no-gran-muralla-china-espana-ni-te-imaginas-1344018'>La única estructura visible desde el espacio no es la Gran Muralla China, está en España y ni te imaginas qué es</a></h4>
     <a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-no-gran-muralla-china-espana-ni-te-imaginas-1344018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mar-plastico-almeria-3237738.jpg?tf=1200x' alt='La única estructura visible desde el espacio no es la Gran Muralla China, está en España y ni te imaginas qué es' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/listas-canales-iptv-tienen-dias-contados-sky-ha-encontrado-formula-acabar-ellas-1344014'>Las listas de canales IPTV tienen los días contados: Sky ha encontrado la fórmula para acabar con ellas</a></h4>
     <a href='https://computerhoy.com/tecnologia/listas-canales-iptv-tienen-dias-contados-sky-ha-encontrado-formula-acabar-ellas-1344014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='Las listas de canales IPTV tienen los días contados: Sky ha encontrado la fórmula para acabar con ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-adios-pequena-adios-1344010'>Qué película ver en la TDT hoy: un drama sobre una niña desaparecida, el aplaudido debut de Ben Affleck como director</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-adios-pequena-adios-1344010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pelicula-ver-tdt-hoy-drama-nina-desaparecida-primera-pelicula-ben-affleck-como-director-3237688.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: un drama sobre una niña desaparecida, el aplaudido debut de Ben Affleck como director' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/acestream-mejor-app-ver-listas-iptv-smart-tv-1342888'>AceStream: la mejor app para ver IPTV en un Smart TV con un gran inconveniente si estás en España</a></h4>
-    <a href='https://computerhoy.com/apps/acestream-mejor-app-ver-listas-iptv-smart-tv-1342888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/acestream-mejor-app-ver-iptv-smart-tv-gran-inconveniente-estas-espana-3235730.jpg?tf=1200x' alt='AceStream: la mejor app para ver IPTV en un Smart TV con un gran inconveniente si estás en España' />
     </a>
 </div>
 
