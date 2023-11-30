@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejor-kindle-lector-ebooks-acepta-todos-formatos-tiene-todo-catalogo-ebiblio-1343846'>¿Mejor que el Kindle? Este lector de ebooks acepta todos los formatos y tiene todo el catálogo de eBiblio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejor-kindle-lector-ebooks-acepta-todos-formatos-tiene-todo-catalogo-ebiblio-1343846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pocketbook-era-3237308.jpg?tf=1200x' alt='¿Mejor que el Kindle? Este lector de ebooks acepta todos los formatos y tiene todo el catálogo de eBiblio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-permite-ahora-esconder-chats-codigo-secreto-1343956'>¡Ábrete sésamo! WhatsApp ya permite esconder tus chats con un código secreto</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-permite-ahora-esconder-chats-codigo-secreto-1343956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/whatsapp-ahora-permite-esconder-chats-bloqueados-codigo-secreto-solo-podran-verse-pones-barra-busqueda-adios-cotillas-3237534.jpg?tf=1200x' alt='¡Ábrete sésamo! WhatsApp ya permite esconder tus chats con un código secreto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/seguro-tener-activas-opciones-desarrollador-movil-android-1343464'>¿Es seguro tener activas las opciones de desarrollador en tu móvil Android?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/seguro-tener-activas-opciones-desarrollador-movil-android-1343464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/seguro-tener-activas-opciones-desarrollador-movil-android-3236786.jpg?tf=1200x' alt='¿Es seguro tener activas las opciones de desarrollador en tu móvil Android?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/estudio-desmonta-mito-fiabilidad-coches-electricos-1343878'>Un estudio desmonta el mito de la fiabilidad de los coches eléctricos: 79% más de problemas que los gasolina o diésel</a></h4>
     <a href='https://computerhoy.com/motor/estudio-desmonta-mito-fiabilidad-coches-electricos-1343878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/problema-tesla-seguro-propio-3230106.jpg?tf=1200x' alt='Un estudio desmonta el mito de la fiabilidad de los coches eléctricos: 79% más de problemas que los gasolina o diésel' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-ignora-amenaza-flipper-zero-iphone-1343424'>Por qué Apple ignora la amenaza de Flipper Zero para los iPhone: ¿indiferencia o incompetencia?</a></h4>
     <a href='https://computerhoy.com/apple/apple-ignora-amenaza-flipper-zero-iphone-1343424' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-ignora-amenaza-flipper-zero-iphone-indiferencia-incompetencia-3236670.jpg?tf=1200x' alt='Por qué Apple ignora la amenaza de Flipper Zero para los iPhone: ¿indiferencia o incompetencia?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/formas-humanidad-podria-extinguirse-1339292'>14 formas en que la humanidad podría extinguirse, según los expertos</a></h4>
-    <a href='https://computerhoy.com/ciencia/formas-humanidad-podria-extinguirse-1339292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/14-formas-humanidad-podria-extinguirse-expertos-3229364.jpg?tf=1200x' alt='14 formas en que la humanidad podría extinguirse, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/threads-llegara-espana-resto-europa-navidad-1343896'>Mark Zuckerberg lo tiene todo listo: Threads llegará a España y resto de Europa por Navidad</a></h4>
-    <a href='https://computerhoy.com/redes/threads-llegara-espana-resto-europa-navidad-1343896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/threads-llega-europa-navidad-mark-zuckerberg-ya-tiene-todo-listo-3237408.jpg?tf=1200x' alt='Mark Zuckerberg lo tiene todo listo: Threads llegará a España y resto de Europa por Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-contrasena-instagram-394025'>Cómo cambiar tu contraseña de Instagram</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-contrasena-instagram-394025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-cambiar-contrasena-instagram-3237116.jpg?tf=1200x' alt='Cómo cambiar tu contraseña de Instagram' />
     </a>
 </div>
 
