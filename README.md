@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/precio-ssd-podria-dispararse-quiebra-actor-clave-1343788'>El precio de los discos duros podría dispararse tras la rumoreada quiebra de un actor clave</a></h4>
+    <a href='https://computerhoy.com/tecnologia/precio-ssd-podria-dispararse-quiebra-actor-clave-1343788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/vida-media-unidad-disco-duro-hdd-no-alcanza-3-anos-nuevo-estudio-3025802.jpg?tf=1200x' alt='El precio de los discos duros podría dispararse tras la rumoreada quiebra de un actor clave' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-repite-ano-elige-10-mejores-aplicaciones-android-2023-1343760'>Google repite un año más y elige las 10 mejores aplicaciones Android de 2023</a></h4>
+    <a href='https://computerhoy.com/google/google-repite-ano-elige-10-mejores-aplicaciones-android-2023-1343760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mejores-apps-2023-google-3237160.jpg?tf=1200x' alt='Google repite un año más y elige las 10 mejores aplicaciones Android de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-cosas-revela-sam-altman-culebron-open-ai-1343758'>5 cosas que revela Sam Altman tras el culebrón de Open AI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-cosas-revela-sam-altman-culebron-open-ai-1343758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-junto-logo-openai-3237186.jpg?tf=1200x' alt='5 cosas que revela Sam Altman tras el culebrón de Open AI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/jubila-vieja-estufa-chimenea-electrica-calienta-decora-casa-vez-1343766'>Jubila tu vieja estufa: esta chimenea eléctrica calienta y decora tu casa a la vez</a></h4>
+    <a href='https://computerhoy.com/tecnologia/jubila-vieja-estufa-chimenea-electrica-calienta-decora-casa-vez-1343766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chimenea-cecotec-3237158.jpg?tf=1200x' alt='Jubila tu vieja estufa: esta chimenea eléctrica calienta y decora tu casa a la vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ano-revolucion-ia-grandes-piedras-camino-1343754'>ChatGPT: un año de revolución en la inteligencia artificial con sus grandes piedras por el camino</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-ano-revolucion-ia-grandes-piedras-camino-1343754' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chatgpt-ano-3237142.jpg?tf=1200x' alt='ChatGPT: un año de revolución en la inteligencia artificial con sus grandes piedras por el camino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/mejores-accesorios-steam-deck-dock-microsd-mucho-1288732'>Los mejores accesorios para Steam Deck: dock, microSD y mucho más</a></h4>
-    <a href='https://computerhoy.com/gaming/mejores-accesorios-steam-deck-dock-microsd-mucho-1288732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/steam-deck-joystick-grips-3106880.jpg?tf=1200x' alt='Los mejores accesorios para Steam Deck: dock, microSD y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/efecto-fomo-miedo-perderse-algo-usan-instagram-tiktok-1336700'>Efecto FOMO o miedo a perderse algo: la estrategia oculta de Instagram y TikTok para que consumas</a></h4>
-    <a href='https://computerhoy.com/internet/efecto-fomo-miedo-perderse-algo-usan-instagram-tiktok-1336700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/efecto-fomo-miedo-perderse-algo-tiktok-instagram-redes-sociales-3224842.jpg?tf=1200x' alt='Efecto FOMO o miedo a perderse algo: la estrategia oculta de Instagram y TikTok para que consumas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/10-cosas-debes-hacer-cada-manana-quieres-ser-disciplinado-1342406'>10 cosas que debes hacer todas las mañanas si quieres ser más disciplinado</a></h4>
-    <a href='https://computerhoy.com/life/10-cosas-debes-hacer-cada-manana-quieres-ser-disciplinado-1342406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/despertar-manana-3236378.jpg?tf=1200x' alt='10 cosas que debes hacer todas las mañanas si quieres ser más disciplinado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-note-12-pro-2991936.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Xiaomi' />
     </a>
 </div>
 
