@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/estudio-desmonta-mito-fiabilidad-coches-electricos-1343878'>Un estudio desmonta el mito de la fiabilidad de los coches eléctricos: 79% más de problemas que los gasolina o diésel</a></h4>
+    <a href='https://computerhoy.com/motor/estudio-desmonta-mito-fiabilidad-coches-electricos-1343878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/problema-tesla-seguro-propio-3230106.jpg?tf=1200x' alt='Un estudio desmonta el mito de la fiabilidad de los coches eléctricos: 79% más de problemas que los gasolina o diésel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-ignora-amenaza-flipper-zero-iphone-1343424'>Por qué Apple ignora la amenaza de Flipper Zero para los iPhone: ¿indiferencia o incompetencia?</a></h4>
+    <a href='https://computerhoy.com/apple/apple-ignora-amenaza-flipper-zero-iphone-1343424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-ignora-amenaza-flipper-zero-iphone-indiferencia-incompetencia-3236670.jpg?tf=1200x' alt='Por qué Apple ignora la amenaza de Flipper Zero para los iPhone: ¿indiferencia o incompetencia?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/formas-humanidad-podria-extinguirse-1339292'>14 formas en que la humanidad podría extinguirse, según los expertos</a></h4>
     <a href='https://computerhoy.com/ciencia/formas-humanidad-podria-extinguirse-1339292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/14-formas-humanidad-podria-extinguirse-expertos-3229364.jpg?tf=1200x' alt='14 formas en que la humanidad podría extinguirse, según los expertos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-contrasena-instagram-394025'>Cómo cambiar tu contraseña de Instagram</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-contrasena-instagram-394025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-cambiar-contrasena-instagram-3237116.jpg?tf=1200x' alt='Cómo cambiar tu contraseña de Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuestan-menos-10eu-son-lenovo-estos-cascos-bluetooth-arrasan-ventas-aliexpress-1343818'>Cuestan menos de 10€ y son de Lenovo: estos cascos Bluetooth arrasan en ventas en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuestan-menos-10eu-son-lenovo-estos-cascos-bluetooth-arrasan-ventas-aliexpress-1343818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/lenovo-gm2-pro-3141460.jpg?tf=1200x' alt='Cuestan menos de 10€ y son de Lenovo: estos cascos Bluetooth arrasan en ventas en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/prestigioso-estudio-demuestra-ia-tonta-piensas-1343780'>Este prestigioso estudio demuestra que la IA es más tonta de lo que piensas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/prestigioso-estudio-demuestra-ia-tonta-piensas-1343780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inteligencia-ia-3237184.jpg?tf=1200x' alt='Este prestigioso estudio demuestra que la IA es más tonta de lo que piensas' />
     </a>
 </div>
 
