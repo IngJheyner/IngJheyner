@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ano-revolucion-ia-grandes-piedras-camino-1343754'>ChatGPT: un año de revolución en la inteligencia artificial con sus grandes piedras por el camino</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ano-revolucion-ia-grandes-piedras-camino-1343754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chatgpt-ano-3237142.jpg?tf=1200x' alt='ChatGPT: un año de revolución en la inteligencia artificial con sus grandes piedras por el camino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/mejores-accesorios-steam-deck-dock-microsd-mucho-1288732'>Los mejores accesorios para Steam Deck: dock, microSD y mucho más</a></h4>
+    <a href='https://computerhoy.com/gaming/mejores-accesorios-steam-deck-dock-microsd-mucho-1288732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/steam-deck-joystick-grips-3106880.jpg?tf=1200x' alt='Los mejores accesorios para Steam Deck: dock, microSD y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/efecto-fomo-miedo-perderse-algo-usan-instagram-tiktok-1336700'>Efecto FOMO o miedo a perderse algo: la estrategia oculta de Instagram y TikTok para que consumas</a></h4>
     <a href='https://computerhoy.com/internet/efecto-fomo-miedo-perderse-algo-usan-instagram-tiktok-1336700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/efecto-fomo-miedo-perderse-algo-tiktok-instagram-redes-sociales-3224842.jpg?tf=1200x' alt='Efecto FOMO o miedo a perderse algo: la estrategia oculta de Instagram y TikTok para que consumas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-note-12-pro-2991936.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tipos-amistad-harvard-1342248'>Estos son los 3 tipos de amistad que existen, según Harvard</a></h4>
-    <a href='https://computerhoy.com/ciencia/tipos-amistad-harvard-1342248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/microfono-cantar-amigos-2477029.jpg?tf=1200x' alt='Estos son los 3 tipos de amistad que existen, según Harvard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/siranna-neom--minas-tirith-version-moderna-arabia-saudi-1343586'>Están construyendo Minas Tirith en versión moderna, en el desierto de Arabia Saudí</a></h4>
-    <a href='https://computerhoy.com/life/siranna-neom--minas-tirith-version-moderna-arabia-saudi-1343586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1701298400618-3236930.jpg?tf=1200x' alt='Están construyendo Minas Tirith en versión moderna, en el desierto de Arabia Saudí' />
     </a>
 </div>
 
