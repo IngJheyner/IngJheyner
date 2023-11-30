@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/efecto-fomo-miedo-perderse-algo-usan-instagram-tiktok-1336700'>Efecto FOMO o miedo a perderse algo: la estrategia oculta de Instagram y TikTok para que consumas</a></h4>
+    <a href='https://computerhoy.com/internet/efecto-fomo-miedo-perderse-algo-usan-instagram-tiktok-1336700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/efecto-fomo-miedo-perderse-algo-tiktok-instagram-redes-sociales-3224842.jpg?tf=1200x' alt='Efecto FOMO o miedo a perderse algo: la estrategia oculta de Instagram y TikTok para que consumas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/10-cosas-debes-hacer-cada-manana-quieres-ser-disciplinado-1342406'>10 cosas que debes hacer todas las mañanas si quieres ser más disciplinado</a></h4>
+    <a href='https://computerhoy.com/life/10-cosas-debes-hacer-cada-manana-quieres-ser-disciplinado-1342406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/despertar-manana-3236378.jpg?tf=1200x' alt='10 cosas que debes hacer todas las mañanas si quieres ser más disciplinado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/redmi-note-12-pro-2991936.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Xiaomi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/siranna-neom--minas-tirith-version-moderna-arabia-saudi-1343586'>Están construyendo Minas Tirith en versión moderna, en el desierto de Arabia Saudí</a></h4>
     <a href='https://computerhoy.com/life/siranna-neom--minas-tirith-version-moderna-arabia-saudi-1343586' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/verticalimage1701298400618-3236930.jpg?tf=1200x' alt='Están construyendo Minas Tirith en versión moderna, en el desierto de Arabia Saudí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/google-anuncia-exploit-dia-cero-chrome-actualiza-navegador-1343580'>Google anuncia un grave exploit de día cero en Chrome, actualiza tu navegador ahora mismo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/google-anuncia-exploit-dia-cero-chrome-actualiza-navegador-1343580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/privacidad-chrome-3203240.jpg?tf=1200x' alt='Google anuncia un grave exploit de día cero en Chrome, actualiza tu navegador ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lector-ebooks-puede-comics-gracias-pantalla-color-1343358'>Este lector de ebooks puede hasta con los cómics gracias a su pantalla a color</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lector-ebooks-puede-comics-gracias-pantalla-color-1343358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pocketbook-ink-pad-3236564.jpg?tf=1200x' alt='Este lector de ebooks puede hasta con los cómics gracias a su pantalla a color' />
     </a>
 </div>
 
