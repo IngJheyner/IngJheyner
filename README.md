@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/prestigioso-estudio-demuestra-ia-tonta-piensas-1343780'>Este prestigioso estudio demuestra que la IA es más tonta de lo que piensas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/prestigioso-estudio-demuestra-ia-tonta-piensas-1343780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inteligencia-ia-3237184.jpg?tf=1200x' alt='Este prestigioso estudio demuestra que la IA es más tonta de lo que piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/precio-ssd-podria-dispararse-quiebra-actor-clave-1343788'>El precio de los discos duros podría dispararse tras la rumoreada quiebra de un actor clave</a></h4>
     <a href='https://computerhoy.com/tecnologia/precio-ssd-podria-dispararse-quiebra-actor-clave-1343788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/vida-media-unidad-disco-duro-hdd-no-alcanza-3-anos-nuevo-estudio-3025802.jpg?tf=1200x' alt='El precio de los discos duros podría dispararse tras la rumoreada quiebra de un actor clave' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/jubila-vieja-estufa-chimenea-electrica-calienta-decora-casa-vez-1343766'>Jubila tu vieja estufa: esta chimenea eléctrica calienta y decora tu casa a la vez</a></h4>
     <a href='https://computerhoy.com/tecnologia/jubila-vieja-estufa-chimenea-electrica-calienta-decora-casa-vez-1343766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chimenea-cecotec-3237158.jpg?tf=1200x' alt='Jubila tu vieja estufa: esta chimenea eléctrica calienta y decora tu casa a la vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ano-revolucion-ia-grandes-piedras-camino-1343754'>ChatGPT: un año de revolución en la inteligencia artificial con sus grandes piedras por el camino</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-ano-revolucion-ia-grandes-piedras-camino-1343754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/chatgpt-ano-3237142.jpg?tf=1200x' alt='ChatGPT: un año de revolución en la inteligencia artificial con sus grandes piedras por el camino' />
     </a>
 </div>
 
