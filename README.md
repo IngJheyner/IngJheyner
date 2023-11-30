@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/que-son-apps-boveda-como-detectarlas-1343020'>Qué son las apps bóveda y cómo detectarlas: la peligrosa vía con las que tus hijos se pueden saltar el control parental</a></h4>
+    <a href='https://computerhoy.com/tutoriales/que-son-apps-boveda-como-detectarlas-1343020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/son-apps-boveda-como-funcionan-ocultar-actividad-movil-saltar-control-parental-3235988.jpg?tf=1200x' alt='Qué son las apps bóveda y cómo detectarlas: la peligrosa vía con las que tus hijos se pueden saltar el control parental' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/patinete-electrico-pesa-menos-portatil-pliega-tamano-folio-1343862'>Este patinete eléctrico pesa menos que un ordenador portátil y se pliega al tamaño de un folio</a></h4>
+    <a href='https://computerhoy.com/motor/patinete-electrico-pesa-menos-portatil-pliega-tamano-folio-1343862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/patinete-electrico-japones-mochila-pesa-menos-muchos-portatiles-3237330.jpg?tf=1200x' alt='Este patinete eléctrico pesa menos que un ordenador portátil y se pliega al tamaño de un folio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mejor-kindle-lector-ebooks-acepta-todos-formatos-tiene-todo-catalogo-ebiblio-1343846'>¿Mejor que el Kindle? Este lector de ebooks acepta todos los formatos y tiene todo el catálogo de eBiblio</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejor-kindle-lector-ebooks-acepta-todos-formatos-tiene-todo-catalogo-ebiblio-1343846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pocketbook-era-3237308.jpg?tf=1200x' alt='¿Mejor que el Kindle? Este lector de ebooks acepta todos los formatos y tiene todo el catálogo de eBiblio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/seguro-tener-activas-opciones-desarrollador-movil-android-1343464'>¿Es seguro tener activas las opciones de desarrollador en tu móvil Android?</a></h4>
     <a href='https://computerhoy.com/tutoriales/seguro-tener-activas-opciones-desarrollador-movil-android-1343464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/seguro-tener-activas-opciones-desarrollador-movil-android-3236786.jpg?tf=1200x' alt='¿Es seguro tener activas las opciones de desarrollador en tu móvil Android?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/estudio-desmonta-mito-fiabilidad-coches-electricos-1343878'>Un estudio desmonta el mito de la fiabilidad de los coches eléctricos: 79% más de problemas que los gasolina o diésel</a></h4>
-    <a href='https://computerhoy.com/motor/estudio-desmonta-mito-fiabilidad-coches-electricos-1343878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/problema-tesla-seguro-propio-3230106.jpg?tf=1200x' alt='Un estudio desmonta el mito de la fiabilidad de los coches eléctricos: 79% más de problemas que los gasolina o diésel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-ignora-amenaza-flipper-zero-iphone-1343424'>Por qué Apple ignora la amenaza de Flipper Zero para los iPhone: ¿indiferencia o incompetencia?</a></h4>
-    <a href='https://computerhoy.com/apple/apple-ignora-amenaza-flipper-zero-iphone-1343424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-ignora-amenaza-flipper-zero-iphone-indiferencia-incompetencia-3236670.jpg?tf=1200x' alt='Por qué Apple ignora la amenaza de Flipper Zero para los iPhone: ¿indiferencia o incompetencia?' />
     </a>
 </div>
 
