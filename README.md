@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/primeras-fotos-estacion-espacial-china-tiangong-1344438'>Primeras fotos de la estación espacial china Tiangong, orbitando la Tierra </a></h4>
+    <a href='https://computerhoy.com/espacio/primeras-fotos-estacion-espacial-china-tiangong-1344438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/primeras-fotos-estacion-espacial-china-tiangong-orbitando-tierra-3238618.jpg?tf=1200x' alt='Primeras fotos de la estación espacial china Tiangong, orbitando la Tierra ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/ahorra-tiempo-viajes-truco-secreto-google-maps-1343916'>El truco secreto de Google Maps que casi nadie conoce y que puede ayudarte a planificar tus viajes como un experto</a></h4>
     <a href='https://computerhoy.com/google/ahorra-tiempo-viajes-truco-secreto-google-maps-1343916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/truco-secreto-google-maps-casi-nadie-conoce-puede-ayudarte-planificar-viajes-como-experto-3237494.jpg?tf=1200x' alt='El truco secreto de Google Maps que casi nadie conoce y que puede ayudarte a planificar tus viajes como un experto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/iphone-ipad-mac-actualizalos-porque-ciberdelincuentes-podrian-robar-datos-privados-1344370'>¿iPhone, iPad o Mac? Actualízalos porque los ciberdelincuentes podrían robar tus datos privados</a></h4>
     <a href='https://computerhoy.com/apple/iphone-ipad-mac-actualizalos-porque-ciberdelincuentes-podrian-robar-datos-privados-1344370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ciberseguridad-apple-3238606.jpg?tf=1200x' alt='¿iPhone, iPad o Mac? Actualízalos porque los ciberdelincuentes podrían robar tus datos privados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-comienza-llegar-colegios-peligro-1344352'>Flipper Zero comienza a llegar a los colegios, y es un auténtico peligro</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-comienza-llegar-colegios-peligro-1344352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-comienza-llegar-colegios-autentico-peligro-3238550.jpg?tf=1200x' alt='Flipper Zero comienza a llegar a los colegios, y es un auténtico peligro' />
     </a>
 </div>
 
