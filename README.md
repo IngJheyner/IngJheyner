@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/funciones-windows-desconocidas-1343582'>8 funciones de Windows 11 que quizás no conoces y que deberías usar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/funciones-windows-desconocidas-1343582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/5-metodos-recuperar-clave-producto-windows-3150792.jpg?tf=1200x' alt='8 funciones de Windows 11 que quizás no conoces y que deberías usar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-ninos-hace-llamadas-ideal-como-regalo-navidad-1344476'>Este reloj para niños les permite recibir llamadas de sus padres y es ideal como regalo de Navidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-ninos-hace-llamadas-ideal-como-regalo-navidad-1344476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/reloj-infantil-gps-3238772.jpg?tf=1200x' alt='Este reloj para niños les permite recibir llamadas de sus padres y es ideal como regalo de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-eliminara-botones-utiles-utilizados-hacerle-hueco-copilot-1344532'>Windows 11 eliminará unos de sus botones más útiles y utilizados para hacerle hueco a Copilot</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-eliminara-botones-utiles-utilizados-hacerle-hueco-copilot-1344532' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Windows 11 eliminará unos de sus botones más útiles y utilizados para hacerle hueco a Copilot' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/tiempo-debes-esperar-antes-iniciar-marcha-arrancar-motor-no-danarlo-1344188'>Este es el tiempo que debes que esperar antes de iniciar la marcha tras arrancar el motor para no dañarlo</a></h4>
     <a href='https://computerhoy.com/motor/tiempo-debes-esperar-antes-iniciar-marcha-arrancar-motor-no-danarlo-1344188' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tiempo-tienes-dejar-ralenti-motor-antes-iniciar-marcha-no-danar-componentes-coche-3238058.jpg?tf=1200x' alt='Este es el tiempo que debes que esperar antes de iniciar la marcha tras arrancar el motor para no dañarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/imagen-ia-gasta-tanta-energia-como-950-cargas-telefono-1344466'>Generar una imagen con IA gasta tanta energía como 950 cargas completas de tu teléfono</a></h4>
-    <a href='https://computerhoy.com/tecnologia/imagen-ia-gasta-tanta-energia-como-950-cargas-telefono-1344466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/generar-imagen-ia-gasta-tanta-energia-como-950-cargas-completas-telefono-3238762.jpg?tf=1200x' alt='Generar una imagen con IA gasta tanta energía como 950 cargas completas de tu teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/que-es-itinerancia-datos-movil-cuando-debes-activarla-1343712'>Qué es la itinerancia de datos de tu móvil y cuándo debes activarla</a></h4>
-    <a href='https://computerhoy.com/tutoriales/que-es-itinerancia-datos-movil-cuando-debes-activarla-1343712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/itinerancia-datos-movil-cuando-debes-activarla-3237086.jpg?tf=1200x' alt='Qué es la itinerancia de datos de tu móvil y cuándo debes activarla' />
     </a>
 </div>
 
