@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-comienza-llegar-colegios-peligro-1344352'>Flipper Zero comienza a llegar a los colegios, y es un auténtico peligro</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-comienza-llegar-colegios-peligro-1344352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-comienza-llegar-colegios-autentico-peligro-3238550.jpg?tf=1200x' alt='Flipper Zero comienza a llegar a los colegios, y es un auténtico peligro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/cae-picado-precio-altavoz-bluetooth-acuatico-aliexpress-ya-cuesta-menos-20-euros-1344314'>El precio de este altavoz todoterreno resistente a cualquier cosa cae en picado en AliExpress</a></h4>
+    <a href='https://computerhoy.com/audio/cae-picado-precio-altavoz-bluetooth-acuatico-aliexpress-ya-cuesta-menos-20-euros-1344314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tronsmart-3238408.jpg?tf=1200x' alt='El precio de este altavoz todoterreno resistente a cualquier cosa cae en picado en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/tivify-mejores-apps-ver-tv-movil-actualiza-nuevos-canales-1344252'>Tivify, una de las mejores apps para ver la TV en el móvil, se actualiza con nuevos canales</a></h4>
     <a href='https://computerhoy.com/tv/tivify-mejores-apps-ver-tv-movil-actualiza-nuevos-canales-1344252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tivify-3238334.jpg?tf=1200x' alt='Tivify, una de las mejores apps para ver la TV en el móvil, se actualiza con nuevos canales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/estas-camaras-360-grados-espacio-capturan-tierra-maximo-esplendor-1344250'>Las primeras cámaras de 360 grados llegan al espacio y capturan la belleza azul de la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/estas-camaras-360-grados-espacio-capturan-tierra-maximo-esplendor-1344250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/imagenes-tierra-360-grados-3238250.jpg?tf=1200x' alt='Las primeras cámaras de 360 grados llegan al espacio y capturan la belleza azul de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-ultimate-smartwatch-amantes-relojes-1344244'>El smartwatch para los amantes de los relojes está ahora rebajado y con auriculares de regalo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-watch-ultimate-smartwatch-amantes-relojes-1344244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/huawei-watch-ultimate-alternativa-apple-watch-ultra-2990750.jpg?tf=1200x' alt='El smartwatch para los amantes de los relojes está ahora rebajado y con auriculares de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/alicia-framis-casar-ia-holograma-2024-1343772'>Una artista catalana se casará con una IA en 2024</a></h4>
-    <a href='https://computerhoy.com/life/alicia-framis-casar-ia-holograma-2024-1343772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/artista-catalana-casara-ia-2024-3237168.jpg?tf=1200x' alt='Una artista catalana se casará con una IA en 2024' />
     </a>
 </div>
 
