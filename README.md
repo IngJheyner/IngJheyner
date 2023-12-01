@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-ipad-mac-actualizalos-porque-ciberdelincuentes-podrian-robar-datos-privados-1344370'>¿iPhone, iPad o Mac? Actualízalos porque los ciberdelincuentes podrían robar tus datos privados</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-ipad-mac-actualizalos-porque-ciberdelincuentes-podrian-robar-datos-privados-1344370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ciberseguridad-apple-3238606.jpg?tf=1200x' alt='¿iPhone, iPad o Mac? Actualízalos porque los ciberdelincuentes podrían robar tus datos privados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-comienza-llegar-colegios-peligro-1344352'>Flipper Zero comienza a llegar a los colegios, y es un auténtico peligro</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/flipper-zero-comienza-llegar-colegios-peligro-1344352' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-comienza-llegar-colegios-autentico-peligro-3238550.jpg?tf=1200x' alt='Flipper Zero comienza a llegar a los colegios, y es un auténtico peligro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/sorprendente-capa-invisibilidad-ha-inventado-china-recuerda-harry-potter-1343408'>La sorprendente “capa de invisibilidad” que ha inventado China y recuerda a Harry Potter</a></h4>
     <a href='https://computerhoy.com/ciencia/sorprendente-capa-invisibilidad-ha-inventado-china-recuerda-harry-potter-1343408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sorprendente-capa-invisibilidad-ha-inventado-china-recuerda-harry-potter-3236602.jpg?tf=1200x' alt='La sorprendente “capa de invisibilidad” que ha inventado China y recuerda a Harry Potter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/estas-camaras-360-grados-espacio-capturan-tierra-maximo-esplendor-1344250'>Las primeras cámaras de 360 grados llegan al espacio y capturan la belleza azul de la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/estas-camaras-360-grados-espacio-capturan-tierra-maximo-esplendor-1344250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/imagenes-tierra-360-grados-3238250.jpg?tf=1200x' alt='Las primeras cámaras de 360 grados llegan al espacio y capturan la belleza azul de la Tierra' />
     </a>
 </div>
 
