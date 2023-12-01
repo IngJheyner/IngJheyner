@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223'>12 móviles potentes y baratos para jugar a cualquier juego de Android</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/videojuegos-moviles-competitivos-smartphone-gaming-3210390.jpg?tf=1200x' alt='12 móviles potentes y baratos para jugar a cualquier juego de Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/estrenos-hbo-max-diciembre-2023-fast-furious-nueva-serie-superman-1344044'>La saga Fast & Furious y la nueva serie de Superman, entre los estrenos de HBO Max en diciembre de 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estrenos-hbo-max-diciembre-2023-fast-furious-nueva-serie-superman-1344044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fast-furious-7-3189106.jpg?tf=1200x' alt='La saga Fast & Furious y la nueva serie de Superman, entre los estrenos de HBO Max en diciembre de 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-no-gran-muralla-china-espana-ni-te-imaginas-1344018'>La única estructura visible desde el espacio no es la Gran Muralla China, está en España y ni te imaginas qué es</a></h4>
     <a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-no-gran-muralla-china-espana-ni-te-imaginas-1344018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mar-plastico-almeria-3237738.jpg?tf=1200x' alt='La única estructura visible desde el espacio no es la Gran Muralla China, está en España y ni te imaginas qué es' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/amazon-fire-tv-lento-truco-volvera-funcionar-como-primer-dia-1341072'>¿Amazon Fire TV lento? Con este sencillo truco volverá a funcionar como el primer día</a></h4>
-    <a href='https://computerhoy.com/tutoriales/amazon-fire-tv-lento-truco-volvera-funcionar-como-primer-dia-1341072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-lento-sencillo-truco-volvera-funcionar-como-primer-dia-3232672.jpg?tf=1200x' alt='¿Amazon Fire TV lento? Con este sencillo truco volverá a funcionar como el primer día' />
     </a>
 </div>
 
