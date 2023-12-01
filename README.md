@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/tivify-mejores-apps-ver-tv-movil-actualiza-nuevos-canales-1344252'>Tivify, una de las mejores apps para ver la TV en el móvil, se actualiza con nuevos canales</a></h4>
+    <a href='https://computerhoy.com/tv/tivify-mejores-apps-ver-tv-movil-actualiza-nuevos-canales-1344252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tivify-3238334.jpg?tf=1200x' alt='Tivify, una de las mejores apps para ver la TV en el móvil, se actualiza con nuevos canales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/sorprendente-capa-invisibilidad-ha-inventado-china-recuerda-harry-potter-1343408'>La sorprendente “capa de invisibilidad” que ha inventado China y recuerda a Harry Potter</a></h4>
     <a href='https://computerhoy.com/ciencia/sorprendente-capa-invisibilidad-ha-inventado-china-recuerda-harry-potter-1343408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sorprendente-capa-invisibilidad-ha-inventado-china-recuerda-harry-potter-3236602.jpg?tf=1200x' alt='La sorprendente “capa de invisibilidad” que ha inventado China y recuerda a Harry Potter' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/alicia-framis-casar-ia-holograma-2024-1343772'>Una artista catalana se casará con una IA en 2024</a></h4>
     <a href='https://computerhoy.com/life/alicia-framis-casar-ia-holograma-2024-1343772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/artista-catalana-casara-ia-2024-3237168.jpg?tf=1200x' alt='Una artista catalana se casará con una IA en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/dinosaurios-tienen-culpa-humanos-no-vivan-100-anos-teoria-1344238'>Los dinosaurios tienen la culpa de que los humanos no vivan más de 100 años, según esta teoría</a></h4>
-    <a href='https://computerhoy.com/ciencia/dinosaurios-tienen-culpa-humanos-no-vivan-100-anos-teoria-1344238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dinosaurios-3238186.jpg?tf=1200x' alt='Los dinosaurios tienen la culpa de que los humanos no vivan más de 100 años, según esta teoría' />
     </a>
 </div>
 
