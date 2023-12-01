@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-jugar-dinosaurio-chrome-aunque-tengas-conexion-pc-movil-1344038'>Cómo jugar al dinosaurio de Google Chrome aunque tengas conexión en PC y móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-jugar-dinosaurio-chrome-aunque-tengas-conexion-pc-movil-1344038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-jugar-dinosaurio-google-chrome-aunque-tengas-conexion-pc-movil-3237812.jpg?tf=1200x' alt='Cómo jugar al dinosaurio de Google Chrome aunque tengas conexión en PC y móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-john-wick-3-1344500'>Qué película ver en la TDT hoy: el asesino más infalible, perseguido por su gremio</a></h4>
     <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-john-wick-3-1344500' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/john-wick-3-parabellum_16.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: el asesino más infalible, perseguido por su gremio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-filmin-netflix-jon-batiste-corea-protagonista-sed-venganza-1344290'>Qué películas ver este fin de semana en Movistar Plus+, Filmin y Netflix: Jon Batiste, Corea y un protagonista con sed de venganza</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-filmin-netflix-jon-batiste-corea-protagonista-sed-venganza-1344290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/peliculas-fin-semana-3238402.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Movistar Plus+, Filmin y Netflix: Jon Batiste, Corea y un protagonista con sed de venganza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-te-llega-correo-eliminalo-directamente-estafa-1344260'>La Policía Nacional advierte: si te llega este correo, elimínalo directamente, es una estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-te-llega-correo-eliminalo-directamente-estafa-1344260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/policia-nacional-advierte-te-llega-correo-eliminalo-directamente-estafa-3238256.jpg?tf=1200x' alt='La Policía Nacional advierte: si te llega este correo, elimínalo directamente, es una estafa' />
     </a>
 </div>
 
