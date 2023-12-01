@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/imagen-ia-gasta-tanta-energia-como-950-cargas-telefono-1344466'>Generar una imagen con IA gasta tanta energía como 950 cargas completas de tu teléfono</a></h4>
+    <a href='https://computerhoy.com/tecnologia/imagen-ia-gasta-tanta-energia-como-950-cargas-telefono-1344466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/generar-imagen-ia-gasta-tanta-energia-como-950-cargas-completas-telefono-3238762.jpg?tf=1200x' alt='Generar una imagen con IA gasta tanta energía como 950 cargas completas de tu teléfono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/que-es-itinerancia-datos-movil-cuando-debes-activarla-1343712'>Qué es la itinerancia de datos de tu móvil y cuándo debes activarla</a></h4>
+    <a href='https://computerhoy.com/tutoriales/que-es-itinerancia-datos-movil-cuando-debes-activarla-1343712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/itinerancia-datos-movil-cuando-debes-activarla-3237086.jpg?tf=1200x' alt='Qué es la itinerancia de datos de tu móvil y cuándo debes activarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-jugar-dinosaurio-chrome-aunque-tengas-conexion-pc-movil-1344038'>Cómo jugar al dinosaurio de Google Chrome aunque tengas conexión en PC y móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-jugar-dinosaurio-chrome-aunque-tengas-conexion-pc-movil-1344038' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-jugar-dinosaurio-google-chrome-aunque-tengas-conexion-pc-movil-3237812.jpg?tf=1200x' alt='Cómo jugar al dinosaurio de Google Chrome aunque tengas conexión en PC y móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/cae-gigante-descargas-torrents-50000-peliculas-series-1344454'>Cae una de las mayores redes de torrents del mundo con más de 50.00 películas y series</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cae-gigante-descargas-torrents-50000-peliculas-series-1344454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cae-mayores-redes-torrents-mundo-5000-peliculas-series-3238720.jpg?tf=1200x' alt='Cae una de las mayores redes de torrents del mundo con más de 50.00 películas y series' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/clonacion-voz-como-puedes-protegerte-estafas-suplantacion-identidad-1343344'>Clonación de voz: cómo puedes protegerte de las estafas por suplantación de identidad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/clonacion-voz-como-puedes-protegerte-estafas-suplantacion-identidad-1343344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/clonacion-voz-como-puedes-protegerte-estafas-suplantacion-identidad-3236354.jpg?tf=1200x' alt='Clonación de voz: cómo puedes protegerte de las estafas por suplantación de identidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-filmin-netflix-jon-batiste-corea-protagonista-sed-venganza-1344290'>Qué películas ver este fin de semana en Movistar Plus+, Filmin y Netflix: Jon Batiste, Corea y un protagonista con sed de venganza</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-filmin-netflix-jon-batiste-corea-protagonista-sed-venganza-1344290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/peliculas-fin-semana-3238402.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Movistar Plus+, Filmin y Netflix: Jon Batiste, Corea y un protagonista con sed de venganza' />
     </a>
 </div>
 
