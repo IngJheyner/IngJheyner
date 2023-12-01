@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/sorprendente-capa-invisibilidad-ha-inventado-china-recuerda-harry-potter-1343408'>La sorprendente “capa de invisibilidad” que ha inventado China y recuerda a Harry Potter</a></h4>
+    <a href='https://computerhoy.com/ciencia/sorprendente-capa-invisibilidad-ha-inventado-china-recuerda-harry-potter-1343408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sorprendente-capa-invisibilidad-ha-inventado-china-recuerda-harry-potter-3236602.jpg?tf=1200x' alt='La sorprendente “capa de invisibilidad” que ha inventado China y recuerda a Harry Potter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/estas-camaras-360-grados-espacio-capturan-tierra-maximo-esplendor-1344250'>Las primeras cámaras de 360 grados llegan al espacio y capturan la belleza azul de la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/estas-camaras-360-grados-espacio-capturan-tierra-maximo-esplendor-1344250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/imagenes-tierra-360-grados-3238250.jpg?tf=1200x' alt='Las primeras cámaras de 360 grados llegan al espacio y capturan la belleza azul de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-ultimate-smartwatch-amantes-relojes-1344244'>El smartwatch para los amantes de los relojes está ahora rebajado y con auriculares de regalo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-watch-ultimate-smartwatch-amantes-relojes-1344244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/huawei-watch-ultimate-alternativa-apple-watch-ultra-2990750.jpg?tf=1200x' alt='El smartwatch para los amantes de los relojes está ahora rebajado y con auriculares de regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/alicia-framis-casar-ia-holograma-2024-1343772'>Una artista catalana se casará con una IA en 2024</a></h4>
     <a href='https://computerhoy.com/life/alicia-framis-casar-ia-holograma-2024-1343772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/artista-catalana-casara-ia-2024-3237168.jpg?tf=1200x' alt='Una artista catalana se casará con una IA en 2024' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/dinosaurios-tienen-culpa-humanos-no-vivan-100-anos-teoria-1344238'>Los dinosaurios tienen la culpa de que los humanos no vivan más de 100 años, según esta teoría</a></h4>
     <a href='https://computerhoy.com/ciencia/dinosaurios-tienen-culpa-humanos-no-vivan-100-anos-teoria-1344238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dinosaurios-3238186.jpg?tf=1200x' alt='Los dinosaurios tienen la culpa de que los humanos no vivan más de 100 años, según esta teoría' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-anade-nuevas-funciones-reposteo-historias-videomensajes-personalizacion-1344222'>Telegram añade nuevas funciones: reposteo de historias, videomensajes, personalización y más</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-anade-nuevas-funciones-reposteo-historias-videomensajes-personalizacion-1344222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/telegram-novedades-3238116.jpg?tf=1200x' alt='Telegram añade nuevas funciones: reposteo de historias, videomensajes, personalización y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radiador-electrico-2185825.jpg?tf=1200x' alt='Los mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/irobot-roomba-combo-j9-analisis-opinion-1337986'>iRobot Roomba Combo j9+, el robot que me ha ahorrado tiempo y esfuerzo (con varias sorpresas en su diseño)</a></h4>
-    <a href='https://computerhoy.com/analisis/irobot-roomba-combo-j9-analisis-opinion-1337986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/irobot-roomba-combo-j9-analisis-opinion-3232718.jpg?tf=1200x' alt='iRobot Roomba Combo j9+, el robot que me ha ahorrado tiempo y esfuerzo (con varias sorpresas en su diseño)' />
     </a>
 </div>
 
