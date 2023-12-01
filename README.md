@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/alicia-framis-casar-ia-holograma-2024-1343772'>Una artista catalana se casará con una IA en 2024</a></h4>
+    <a href='https://computerhoy.com/life/alicia-framis-casar-ia-holograma-2024-1343772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/artista-catalana-casara-ia-2024-3237168.jpg?tf=1200x' alt='Una artista catalana se casará con una IA en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/dinosaurios-tienen-culpa-humanos-no-vivan-100-anos-teoria-1344238'>Los dinosaurios tienen la culpa de que los humanos no vivan más de 100 años, según esta teoría</a></h4>
+    <a href='https://computerhoy.com/ciencia/dinosaurios-tienen-culpa-humanos-no-vivan-100-anos-teoria-1344238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dinosaurios-3238186.jpg?tf=1200x' alt='Los dinosaurios tienen la culpa de que los humanos no vivan más de 100 años, según esta teoría' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/telegram-anade-nuevas-funciones-reposteo-historias-videomensajes-personalizacion-1344222'>Telegram añade nuevas funciones: reposteo de historias, videomensajes, personalización y más</a></h4>
     <a href='https://computerhoy.com/apps/telegram-anade-nuevas-funciones-reposteo-historias-videomensajes-personalizacion-1344222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/telegram-novedades-3238116.jpg?tf=1200x' alt='Telegram añade nuevas funciones: reposteo de historias, videomensajes, personalización y más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/irobot-roomba-combo-j9-analisis-opinion-1337986'>iRobot Roomba Combo j9+, el robot que me ha ahorrado tiempo y esfuerzo (con varias sorpresas en su diseño)</a></h4>
     <a href='https://computerhoy.com/analisis/irobot-roomba-combo-j9-analisis-opinion-1337986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/irobot-roomba-combo-j9-analisis-opinion-3232718.jpg?tf=1200x' alt='iRobot Roomba Combo j9+, el robot que me ha ahorrado tiempo y esfuerzo (con varias sorpresas en su diseño)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223'>12 móviles potentes y baratos para jugar a cualquier juego de Android</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-potentes-baratos-jugar-android-1041223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/videojuegos-moviles-competitivos-smartphone-gaming-3210390.jpg?tf=1200x' alt='12 móviles potentes y baratos para jugar a cualquier juego de Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-hbo-max-diciembre-2023-fast-furious-nueva-serie-superman-1344044'>La saga Fast & Furious y la nueva serie de Superman, entre los estrenos de HBO Max en diciembre de 2023</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estrenos-hbo-max-diciembre-2023-fast-furious-nueva-serie-superman-1344044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fast-furious-7-3189106.jpg?tf=1200x' alt='La saga Fast & Furious y la nueva serie de Superman, entre los estrenos de HBO Max en diciembre de 2023' />
     </a>
 </div>
 
