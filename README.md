@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/telegram-anade-nuevas-funciones-reposteo-historias-videomensajes-personalizacion-1344222'>Telegram añade nuevas funciones: reposteo de historias, videomensajes, personalización y más</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-anade-nuevas-funciones-reposteo-historias-videomensajes-personalizacion-1344222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/telegram-novedades-3238116.jpg?tf=1200x' alt='Telegram añade nuevas funciones: reposteo de historias, videomensajes, personalización y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/radiador-electrico-2185825.jpg?tf=1200x' alt='Los mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/estrenos-hbo-max-diciembre-2023-fast-furious-nueva-serie-superman-1344044'>La saga Fast & Furious y la nueva serie de Superman, entre los estrenos de HBO Max en diciembre de 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estrenos-hbo-max-diciembre-2023-fast-furious-nueva-serie-superman-1344044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fast-furious-7-3189106.jpg?tf=1200x' alt='La saga Fast & Furious y la nueva serie de Superman, entre los estrenos de HBO Max en diciembre de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cybertruck-precios-oficiales-autonomia-1344034'>Elon Musk entrega en mano los primeros Cybertruck: precios oficiales y autonomía</a></h4>
-    <a href='https://computerhoy.com/motor/cybertruck-precios-oficiales-autonomia-1344034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-entrega-mano-primeros-cybertruck-ya-conocemos-precios-oficiales-3237768.jpg?tf=1200x' alt='Elon Musk entrega en mano los primeros Cybertruck: precios oficiales y autonomía' />
     </a>
 </div>
 
