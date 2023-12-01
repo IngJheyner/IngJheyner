@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ahorra-tiempo-viajes-truco-secreto-google-maps-1343916'>El truco secreto de Google Maps que casi nadie conoce y que puede ayudarte a planificar tus viajes como un experto</a></h4>
+    <a href='https://computerhoy.com/google/ahorra-tiempo-viajes-truco-secreto-google-maps-1343916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/truco-secreto-google-maps-casi-nadie-conoce-puede-ayudarte-planificar-viajes-como-experto-3237494.jpg?tf=1200x' alt='El truco secreto de Google Maps que casi nadie conoce y que puede ayudarte a planificar tus viajes como un experto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-funciona-nueva-fibra-fttr-movistar-1344408'>Qué es y cómo funciona la nueva fibra FTTR de Movistar que promete acabar con todos los problemas de tu red WiFi</a></h4>
+    <a href='https://computerhoy.com/internet/como-funciona-nueva-fibra-fttr-movistar-1344408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nueva-fibra-fttr-movistar-gamers-streamers-teletrabajadores-3238638.jpg?tf=1200x' alt='Qué es y cómo funciona la nueva fibra FTTR de Movistar que promete acabar con todos los problemas de tu red WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/10-formas-descargar-cualquier-video-internet-429785'>Todas las opciones posibles para descargar cualquier vídeo de Internet</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/10-formas-descargar-cualquier-video-internet-429785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/todas-opciones-posibles-descargar-cualquier-video-internet-3238070.jpg?tf=1200x' alt='Todas las opciones posibles para descargar cualquier vídeo de Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/iphone-ipad-mac-actualizalos-porque-ciberdelincuentes-podrian-robar-datos-privados-1344370'>¿iPhone, iPad o Mac? Actualízalos porque los ciberdelincuentes podrían robar tus datos privados</a></h4>
     <a href='https://computerhoy.com/apple/iphone-ipad-mac-actualizalos-porque-ciberdelincuentes-podrian-robar-datos-privados-1344370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ciberseguridad-apple-3238606.jpg?tf=1200x' alt='¿iPhone, iPad o Mac? Actualízalos porque los ciberdelincuentes podrían robar tus datos privados' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-comienza-llegar-colegios-peligro-1344352'>Flipper Zero comienza a llegar a los colegios, y es un auténtico peligro</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/flipper-zero-comienza-llegar-colegios-peligro-1344352' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-comienza-llegar-colegios-autentico-peligro-3238550.jpg?tf=1200x' alt='Flipper Zero comienza a llegar a los colegios, y es un auténtico peligro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/cae-picado-precio-altavoz-bluetooth-acuatico-aliexpress-ya-cuesta-menos-20-euros-1344314'>El precio de este altavoz todoterreno resistente a cualquier cosa cae en picado en AliExpress</a></h4>
-    <a href='https://computerhoy.com/audio/cae-picado-precio-altavoz-bluetooth-acuatico-aliexpress-ya-cuesta-menos-20-euros-1344314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tronsmart-3238408.jpg?tf=1200x' alt='El precio de este altavoz todoterreno resistente a cualquier cosa cae en picado en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/tivify-mejores-apps-ver-tv-movil-actualiza-nuevos-canales-1344252'>Tivify, una de las mejores apps para ver la TV en el móvil, se actualiza con nuevos canales</a></h4>
-    <a href='https://computerhoy.com/tv/tivify-mejores-apps-ver-tv-movil-actualiza-nuevos-canales-1344252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tivify-3238334.jpg?tf=1200x' alt='Tivify, una de las mejores apps para ver la TV en el móvil, se actualiza con nuevos canales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/sorprendente-capa-invisibilidad-ha-inventado-china-recuerda-harry-potter-1343408'>La sorprendente “capa de invisibilidad” que ha inventado China y recuerda a Harry Potter</a></h4>
-    <a href='https://computerhoy.com/ciencia/sorprendente-capa-invisibilidad-ha-inventado-china-recuerda-harry-potter-1343408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sorprendente-capa-invisibilidad-ha-inventado-china-recuerda-harry-potter-3236602.jpg?tf=1200x' alt='La sorprendente “capa de invisibilidad” que ha inventado China y recuerda a Harry Potter' />
     </a>
 </div>
 
