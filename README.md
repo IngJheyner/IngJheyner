@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-john-wick-3-1344500'>Qué película ver en la TDT hoy: el asesino más infalible, perseguido por su gremio</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-john-wick-3-1344500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/john-wick-3-parabellum_16.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: el asesino más infalible, perseguido por su gremio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cae-gigante-descargas-torrents-50000-peliculas-series-1344454'>Cae una de las mayores redes de torrents del mundo con más de 50.00 películas y series</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cae-gigante-descargas-torrents-50000-peliculas-series-1344454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cae-mayores-redes-torrents-mundo-5000-peliculas-series-3238720.jpg?tf=1200x' alt='Cae una de las mayores redes de torrents del mundo con más de 50.00 películas y series' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/clonacion-voz-como-puedes-protegerte-estafas-suplantacion-identidad-1343344'>Clonación de voz: cómo puedes protegerte de las estafas por suplantación de identidad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/clonacion-voz-como-puedes-protegerte-estafas-suplantacion-identidad-1343344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/clonacion-voz-como-puedes-protegerte-estafas-suplantacion-identidad-3236354.jpg?tf=1200x' alt='Clonación de voz: cómo puedes protegerte de las estafas por suplantación de identidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-filmin-netflix-jon-batiste-corea-protagonista-sed-venganza-1344290'>Qué películas ver este fin de semana en Movistar Plus+, Filmin y Netflix: Jon Batiste, Corea y un protagonista con sed de venganza</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-filmin-netflix-jon-batiste-corea-protagonista-sed-venganza-1344290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/peliculas-fin-semana-3238402.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Movistar Plus+, Filmin y Netflix: Jon Batiste, Corea y un protagonista con sed de venganza' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-te-llega-correo-eliminalo-directamente-estafa-1344260'>La Policía Nacional advierte: si te llega este correo, elimínalo directamente, es una estafa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-te-llega-correo-eliminalo-directamente-estafa-1344260' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/policia-nacional-advierte-te-llega-correo-eliminalo-directamente-estafa-3238256.jpg?tf=1200x' alt='La Policía Nacional advierte: si te llega este correo, elimínalo directamente, es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/primeras-fotos-estacion-espacial-china-tiangong-1344438'>Primeras fotos de la estación espacial china Tiangong, orbitando la Tierra </a></h4>
-    <a href='https://computerhoy.com/espacio/primeras-fotos-estacion-espacial-china-tiangong-1344438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/primeras-fotos-estacion-espacial-china-tiangong-orbitando-tierra-3238618.jpg?tf=1200x' alt='Primeras fotos de la estación espacial china Tiangong, orbitando la Tierra ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ahorra-tiempo-viajes-truco-secreto-google-maps-1343916'>El truco secreto de Google Maps que casi nadie conoce y que puede ayudarte a planificar tus viajes como un experto</a></h4>
-    <a href='https://computerhoy.com/google/ahorra-tiempo-viajes-truco-secreto-google-maps-1343916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/truco-secreto-google-maps-casi-nadie-conoce-puede-ayudarte-planificar-viajes-como-experto-3237494.jpg?tf=1200x' alt='El truco secreto de Google Maps que casi nadie conoce y que puede ayudarte a planificar tus viajes como un experto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-funciona-nueva-fibra-fttr-movistar-1344408'>Qué es y cómo funciona la nueva fibra FTTR de Movistar que promete acabar con todos los problemas de tu red WiFi</a></h4>
-    <a href='https://computerhoy.com/internet/como-funciona-nueva-fibra-fttr-movistar-1344408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nueva-fibra-fttr-movistar-gamers-streamers-teletrabajadores-3238638.jpg?tf=1200x' alt='Qué es y cómo funciona la nueva fibra FTTR de Movistar que promete acabar con todos los problemas de tu red WiFi' />
     </a>
 </div>
 
