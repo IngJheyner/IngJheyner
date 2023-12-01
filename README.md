@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-filmin-netflix-jon-batiste-corea-protagonista-sed-venganza-1344290'>Qué películas ver este fin de semana en Movistar Plus+, Filmin y Netflix: Jon Batiste, Corea y un protagonista con sed de venganza</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-filmin-netflix-jon-batiste-corea-protagonista-sed-venganza-1344290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/peliculas-fin-semana-3238402.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Movistar Plus+, Filmin y Netflix: Jon Batiste, Corea y un protagonista con sed de venganza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-te-llega-correo-eliminalo-directamente-estafa-1344260'>La Policía Nacional advierte: si te llega este correo, elimínalo directamente, es una estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-te-llega-correo-eliminalo-directamente-estafa-1344260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/policia-nacional-advierte-te-llega-correo-eliminalo-directamente-estafa-3238256.jpg?tf=1200x' alt='La Policía Nacional advierte: si te llega este correo, elimínalo directamente, es una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/primeras-fotos-estacion-espacial-china-tiangong-1344438'>Primeras fotos de la estación espacial china Tiangong, orbitando la Tierra </a></h4>
     <a href='https://computerhoy.com/espacio/primeras-fotos-estacion-espacial-china-tiangong-1344438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/primeras-fotos-estacion-espacial-china-tiangong-orbitando-tierra-3238618.jpg?tf=1200x' alt='Primeras fotos de la estación espacial china Tiangong, orbitando la Tierra ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/como-funciona-nueva-fibra-fttr-movistar-1344408'>Qué es y cómo funciona la nueva fibra FTTR de Movistar que promete acabar con todos los problemas de tu red WiFi</a></h4>
     <a href='https://computerhoy.com/internet/como-funciona-nueva-fibra-fttr-movistar-1344408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nueva-fibra-fttr-movistar-gamers-streamers-teletrabajadores-3238638.jpg?tf=1200x' alt='Qué es y cómo funciona la nueva fibra FTTR de Movistar que promete acabar con todos los problemas de tu red WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/10-formas-descargar-cualquier-video-internet-429785'>Todas las opciones posibles para descargar cualquier vídeo de Internet</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/10-formas-descargar-cualquier-video-internet-429785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/todas-opciones-posibles-descargar-cualquier-video-internet-3238070.jpg?tf=1200x' alt='Todas las opciones posibles para descargar cualquier vídeo de Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-ipad-mac-actualizalos-porque-ciberdelincuentes-podrian-robar-datos-privados-1344370'>¿iPhone, iPad o Mac? Actualízalos porque los ciberdelincuentes podrían robar tus datos privados</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-ipad-mac-actualizalos-porque-ciberdelincuentes-podrian-robar-datos-privados-1344370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ciberseguridad-apple-3238606.jpg?tf=1200x' alt='¿iPhone, iPad o Mac? Actualízalos porque los ciberdelincuentes podrían robar tus datos privados' />
     </a>
 </div>
 
