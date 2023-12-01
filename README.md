@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-12-llegara-junio-2024-iniciara-era-ai-pc-1344546'>Windows 12 llegará en junio de 2024 y estrenará la era de los AI PC, según dos fabricantes</a></h4>
+    <a href='https://computerhoy.com/windows/windows-12-llegara-junio-2024-iniciara-era-ai-pc-1344546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-12-sera-sistema-operativo-top-gracias-integracion-inteligencia-artificial-3011474.jpg?tf=1200x' alt='Windows 12 llegará en junio de 2024 y estrenará la era de los AI PC, según dos fabricantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/funciones-windows-desconocidas-1343582'>8 funciones de Windows 11 que quizás no conoces y que deberías usar ahora mismo</a></h4>
     <a href='https://computerhoy.com/tutoriales/funciones-windows-desconocidas-1343582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/5-metodos-recuperar-clave-producto-windows-3150792.jpg?tf=1200x' alt='8 funciones de Windows 11 que quizás no conoces y que deberías usar ahora mismo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-prepara-modo-avanzado-windows-11-usuarios-expertos-1344530'>Microsoft prepara un modo avanzado de Windows 11 para los usuarios más expertos</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-prepara-modo-avanzado-windows-11-usuarios-expertos-1344530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2870243.jpg?tf=1200x' alt='Microsoft prepara un modo avanzado de Windows 11 para los usuarios más expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tiempo-debes-esperar-antes-iniciar-marcha-arrancar-motor-no-danarlo-1344188'>Este es el tiempo que debes que esperar antes de iniciar la marcha tras arrancar el motor para no dañarlo</a></h4>
-    <a href='https://computerhoy.com/motor/tiempo-debes-esperar-antes-iniciar-marcha-arrancar-motor-no-danarlo-1344188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tiempo-tienes-dejar-ralenti-motor-antes-iniciar-marcha-no-danar-componentes-coche-3238058.jpg?tf=1200x' alt='Este es el tiempo que debes que esperar antes de iniciar la marcha tras arrancar el motor para no dañarlo' />
     </a>
 </div>
 
