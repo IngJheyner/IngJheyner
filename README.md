@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/trabajos-enfermedades-trabajadores-1335940'>Estos son los trabajos que más enfermedades provocan a los trabajadores</a></h4>
+    <a href='https://computerhoy.com/life/trabajos-enfermedades-trabajadores-1335940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/trabajadores-3238210.jpg?tf=1200x' alt='Estos son los trabajos que más enfermedades provocan a los trabajadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/razones-conexion-internet-va-lenta-1344194'>10 razones por las que tu conexión a Internet va lenta y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/redes/razones-conexion-internet-va-lenta-1344194' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/10-razones-conexion-internet-va-lenta-como-solucionarlo-3238060.jpg?tf=1200x' alt='10 razones por las que tu conexión a Internet va lenta y cómo solucionarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/son-curiosas-siestas-japonesas-mejoran-memoria-expertos-1344232'>Así son las curiosas siestas japonesas que mejoran la memoria, según los expertos</a></h4>
     <a href='https://computerhoy.com/ciencia/son-curiosas-siestas-japonesas-mejoran-memoria-expertos-1344232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/son-curiosas-siestas-japonesas-mejoran-memoria-expertos-3238142.jpg?tf=1200x' alt='Así son las curiosas siestas japonesas que mejoran la memoria, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xr-lab-oppo-donde-prueban-visores-realidad-aumentada-1342342'>He probado la apuesta por la realidad aumentada de Oppo, pero Apple puede poner patas arriba todos sus avances</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xr-lab-oppo-donde-prueban-visores-realidad-aumentada-1342342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oppo-mr-glass-3234838.jpg?tf=1200x' alt='He probado la apuesta por la realidad aumentada de Oppo, pero Apple puede poner patas arriba todos sus avances' />
     </a>
 </div>
 
