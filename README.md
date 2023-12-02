@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/razones-conexion-internet-va-lenta-1344194'>10 razones por las que tu conexión a Internet va lenta y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/redes/razones-conexion-internet-va-lenta-1344194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/10-razones-conexion-internet-va-lenta-como-solucionarlo-3238060.jpg?tf=1200x' alt='10 razones por las que tu conexión a Internet va lenta y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/publicidad-fire-tv-excesiva-problema-1342122'>Amazon tiene un problema con la publicidad en los Fire TV, pero creo que te dará igual	</a></h4>
     <a href='https://computerhoy.com/amazon/publicidad-fire-tv-excesiva-problema-1342122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-3234608.jpg?tf=1200x' alt='Amazon tiene un problema con la publicidad en los Fire TV, pero creo que te dará igual	' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xr-lab-oppo-donde-prueban-visores-realidad-aumentada-1342342'>He probado la apuesta por la realidad aumentada de Oppo, pero Apple puede poner patas arriba todos sus avances</a></h4>
     <a href='https://computerhoy.com/tecnologia/xr-lab-oppo-donde-prueban-visores-realidad-aumentada-1342342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oppo-mr-glass-3234838.jpg?tf=1200x' alt='He probado la apuesta por la realidad aumentada de Oppo, pero Apple puede poner patas arriba todos sus avances' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/no-tires-pieles-platano-truco-te-va-sorprender-1343730'>Las redes en shock al descubrir lo que puedes hacer con la piel de un plátano, ¡no la tires!</a></h4>
-    <a href='https://computerhoy.com/alimentacion/no-tires-pieles-platano-truco-te-va-sorprender-1343730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/redes-shock-descubrir-puedes-hacer-piel-platano-no-tires-3237090.jpg?tf=1200x' alt='Las redes en shock al descubrir lo que puedes hacer con la piel de un plátano, ¡no la tires!' />
     </a>
 </div>
 
