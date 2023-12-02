@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/no-tires-pieles-platano-truco-te-va-sorprender-1343730'>Las redes en shock al descubrir lo que puedes hacer con la piel de un plátano, ¡no la tires!</a></h4>
+    <a href='https://computerhoy.com/alimentacion/no-tires-pieles-platano-truco-te-va-sorprender-1343730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/redes-shock-descubrir-puedes-hacer-piel-platano-no-tires-3237090.jpg?tf=1200x' alt='Las redes en shock al descubrir lo que puedes hacer con la piel de un plátano, ¡no la tires!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estas-son-mejores-vpn-vas-viajar-china-1344552'>Estas son las mejores VPN si vas a viajar a China</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estas-son-mejores-vpn-vas-viajar-china-1344552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/china-espacio-2251531.jpg?tf=1200x' alt='Estas son las mejores VPN si vas a viajar a China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/christopher-nolan-blu-ray-4k-oppenheimer-agotado-1344702'>Christopher Nolan se sale con la suya: el Blu-ray 4K de Oppenheimer se agota "antes de que el streaming lo robe"</a></h4>
     <a href='https://computerhoy.com/entretenimiento/christopher-nolan-blu-ray-4k-oppenheimer-agotado-1344702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/christopher-nolan-3116728.jpg?tf=1200x' alt='Christopher Nolan se sale con la suya: el Blu-ray 4K de Oppenheimer se agota "antes de que el streaming lo robe"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-12-llegara-junio-2024-iniciara-era-ai-pc-1344546'>Windows 12 llegará en junio de 2024 y estrenará la era de los AI PC, según dos fabricantes</a></h4>
     <a href='https://computerhoy.com/windows/windows-12-llegara-junio-2024-iniciara-era-ai-pc-1344546' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-12-sera-sistema-operativo-top-gracias-integracion-inteligencia-artificial-3011474.jpg?tf=1200x' alt='Windows 12 llegará en junio de 2024 y estrenará la era de los AI PC, según dos fabricantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/funciones-windows-desconocidas-1343582'>8 funciones de Windows 11 que quizás no conoces y que deberías usar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/funciones-windows-desconocidas-1343582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/5-metodos-recuperar-clave-producto-windows-3150792.jpg?tf=1200x' alt='8 funciones de Windows 11 que quizás no conoces y que deberías usar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-ninos-hace-llamadas-ideal-como-regalo-navidad-1344476'>Este reloj para niños les permite recibir llamadas de sus padres y es ideal como regalo de Navidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-ninos-hace-llamadas-ideal-como-regalo-navidad-1344476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/reloj-infantil-gps-3238772.jpg?tf=1200x' alt='Este reloj para niños les permite recibir llamadas de sus padres y es ideal como regalo de Navidad' />
     </a>
 </div>
 
