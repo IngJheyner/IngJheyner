@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/amazon-renueva-completo-aplicacion-alexa-todas-estas-nuevas-funciones-1344774'>Amazon renueva por completo la aplicación de Alexa con todas estas nuevas funciones</a></h4>
+    <a href='https://computerhoy.com/apps/amazon-renueva-completo-aplicacion-alexa-todas-estas-nuevas-funciones-1344774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicacion-alexa-3239506.jpg?tf=1200x' alt='Amazon renueva por completo la aplicación de Alexa con todas estas nuevas funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-guerra-del-manana-1344706'>Qué película ver en la TDT hoy: un viaje al futuro para luchar contra alienígenas letales</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-guerra-del-manana-1344706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-ver-tdt-hoy-viaje-futuro-luchar-alienigenas-letales-3239288.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: un viaje al futuro para luchar contra alienígenas letales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/youtube-experimenta-contadores-vistas-me-gusta-actualizan-tiempo-real-1344770'>YouTube experimenta con contadores de vistas y me gusta que se actualizan en tiempo real</a></h4>
     <a href='https://computerhoy.com/apps/youtube-experimenta-contadores-vistas-me-gusta-actualizan-tiempo-real-1344770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/youtube-3239502.jpg?tf=1200x' alt='YouTube experimenta con contadores de vistas y me gusta que se actualizan en tiempo real' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-destroza-precio-cafetera-portatil-vendida-1344742'>AliExpress destroza el precio de su cafetera portátil más vendida</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-destroza-precio-cafetera-portatil-vendida-1344742' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cafetera-portatil-hibrew-3239354.jpg?tf=1200x' alt='AliExpress destroza el precio de su cafetera portátil más vendida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-silenciar-llamadas-mensajes-contacto-android-1303108'>Cómo silenciar llamadas y mensajes de contacto específico en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-silenciar-llamadas-mensajes-contacto-android-1303108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/llamadas-android-3201474.jpg?tf=1200x' alt='Cómo silenciar llamadas y mensajes de contacto específico en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-retrasa-lanzamiento-tienda-gpt-algunas-cosas-inesperadas-1344760'>OpenAI retrasa el lanzamiento de su tienda GPT “por algunas cosas inesperadas”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-retrasa-lanzamiento-tienda-gpt-algunas-cosas-inesperadas-1344760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tienda-gpt-3239488.jpg?tf=1200x' alt='OpenAI retrasa el lanzamiento de su tienda GPT “por algunas cosas inesperadas”' />
     </a>
 </div>
 
