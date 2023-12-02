@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/publicidad-fire-tv-excesiva-problema-1342122'>Amazon tiene un problema con la publicidad en los Fire TV, pero creo que te dará igual	</a></h4>
+    <a href='https://computerhoy.com/amazon/publicidad-fire-tv-excesiva-problema-1342122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-3234608.jpg?tf=1200x' alt='Amazon tiene un problema con la publicidad en los Fire TV, pero creo que te dará igual	' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/lectores-ebooks-compatibles-ebiblio-estos-son-mejores-1344704'>Lectores de ebooks compatibles con eBiblio: estos son los mejores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lectores-ebooks-compatibles-ebiblio-estos-son-mejores-1344704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kobo-libra-2-3201546.jpg?tf=1200x' alt='Lectores de ebooks compatibles con eBiblio: estos son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/son-curiosas-siestas-japonesas-mejoran-memoria-expertos-1344232'>Así son las curiosas siestas japonesas que mejoran la memoria, según los expertos</a></h4>
+    <a href='https://computerhoy.com/ciencia/son-curiosas-siestas-japonesas-mejoran-memoria-expertos-1344232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/son-curiosas-siestas-japonesas-mejoran-memoria-expertos-3238142.jpg?tf=1200x' alt='Así son las curiosas siestas japonesas que mejoran la memoria, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xr-lab-oppo-donde-prueban-visores-realidad-aumentada-1342342'>He probado la apuesta por la realidad aumentada de Oppo, pero Apple puede poner patas arriba todos sus avances</a></h4>
     <a href='https://computerhoy.com/tecnologia/xr-lab-oppo-donde-prueban-visores-realidad-aumentada-1342342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oppo-mr-glass-3234838.jpg?tf=1200x' alt='He probado la apuesta por la realidad aumentada de Oppo, pero Apple puede poner patas arriba todos sus avances' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/no-tires-pieles-platano-truco-te-va-sorprender-1343730'>Las redes en shock al descubrir lo que puedes hacer con la piel de un plátano, ¡no la tires!</a></h4>
     <a href='https://computerhoy.com/alimentacion/no-tires-pieles-platano-truco-te-va-sorprender-1343730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/redes-shock-descubrir-puedes-hacer-piel-platano-no-tires-3237090.jpg?tf=1200x' alt='Las redes en shock al descubrir lo que puedes hacer con la piel de un plátano, ¡no la tires!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estas-son-mejores-vpn-vas-viajar-china-1344552'>Estas son las mejores VPN si vas a viajar a China</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estas-son-mejores-vpn-vas-viajar-china-1344552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/china-espacio-2251531.jpg?tf=1200x' alt='Estas son las mejores VPN si vas a viajar a China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/christopher-nolan-blu-ray-4k-oppenheimer-agotado-1344702'>Christopher Nolan se sale con la suya: el Blu-ray 4K de Oppenheimer se agota "antes de que el streaming lo robe"</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/christopher-nolan-blu-ray-4k-oppenheimer-agotado-1344702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/christopher-nolan-3116728.jpg?tf=1200x' alt='Christopher Nolan se sale con la suya: el Blu-ray 4K de Oppenheimer se agota "antes de que el streaming lo robe"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/truco-definitivo-acceder-menu-oculto-amazon-fire-tv-1344550'>El truco definitivo para acceder al menú oculto de tu Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/amazon/truco-definitivo-acceder-menu-oculto-amazon-fire-tv-1344550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/truco-definitivo-acceder-menu-oculto-amazon-fire-tv-3239264.jpg?tf=1200x' alt='El truco definitivo para acceder al menú oculto de tu Amazon Fire TV' />
     </a>
 </div>
 
