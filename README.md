@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-retrasa-lanzamiento-tienda-gpt-algunas-cosas-inesperadas-1344760'>OpenAI retrasa el lanzamiento de su tienda GPT “por algunas cosas inesperadas”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-retrasa-lanzamiento-tienda-gpt-algunas-cosas-inesperadas-1344760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tienda-gpt-3239488.jpg?tf=1200x' alt='OpenAI retrasa el lanzamiento de su tienda GPT “por algunas cosas inesperadas”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-han-leido-correo-gmail-1343248'>Cómo saber si han leído un correo de Gmail </a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-han-leido-correo-gmail-1343248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/gmail-2248027.jpg?tf=1200x' alt='Cómo saber si han leído un correo de Gmail ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cuerpos-ciberneticos-amenazas-tecnologias-pueden-hackear-cuerpo-1326250'>Cuerpos cibernéticos: las amenazas de las tecnologías que pueden hackear tu cuerpo</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuerpos-ciberneticos-amenazas-tecnologias-pueden-hackear-cuerpo-1326250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/biohacking-3208482.jpg?tf=1200x' alt='Cuerpos cibernéticos: las amenazas de las tecnologías que pueden hackear tu cuerpo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/trabajos-enfermedades-trabajadores-1335940'>Estos son los trabajos que más enfermedades provocan a los trabajadores</a></h4>
-    <a href='https://computerhoy.com/life/trabajos-enfermedades-trabajadores-1335940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/trabajadores-3238210.jpg?tf=1200x' alt='Estos son los trabajos que más enfermedades provocan a los trabajadores' />
     </a>
 </div>
 
