@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-quiere-reacciones-emoji-fotos-hoteles-google-maps-1344812'>Google quiere que reacciones con emoji en las fotos de hoteles en Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/google-quiere-reacciones-emoji-fotos-hoteles-google-maps-1344812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/rutas-google-maps-3119840.jpg?tf=1200x' alt='Google quiere que reacciones con emoji en las fotos de hoteles en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/amazon-renueva-completo-aplicacion-alexa-todas-estas-nuevas-funciones-1344774'>Amazon renueva por completo la aplicación de Alexa con todas estas nuevas funciones</a></h4>
     <a href='https://computerhoy.com/apps/amazon-renueva-completo-aplicacion-alexa-todas-estas-nuevas-funciones-1344774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicacion-alexa-3239506.jpg?tf=1200x' alt='Amazon renueva por completo la aplicación de Alexa con todas estas nuevas funciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-buscar-otras-personas-nombre-usuario-funciona-1344766'>WhatsApp te permitirá buscar a otras personas por nombre de usuario, y así funciona</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-te-permitira-buscar-otras-personas-nombre-usuario-funciona-1344766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-logo-3198238.jpg?tf=1200x' alt='WhatsApp te permitirá buscar a otras personas por nombre de usuario, y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-destroza-precio-cafetera-portatil-vendida-1344742'>AliExpress destroza el precio de su cafetera portátil más vendida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-destroza-precio-cafetera-portatil-vendida-1344742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cafetera-portatil-hibrew-3239354.jpg?tf=1200x' alt='AliExpress destroza el precio de su cafetera portátil más vendida' />
     </a>
 </div>
 
