@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-ahorrar-dinero-factura-luz-gracias-nueva-funcion-1344822'>Windows 11 te permitirá ahorrar dinero de la factura de la luz gracias a esta nueva función</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-te-permitira-ahorrar-dinero-factura-luz-gracias-nueva-funcion-1344822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2864029.jpg?tf=1200x' alt='Windows 11 te permitirá ahorrar dinero de la factura de la luz gracias a esta nueva función' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/error-hace-android-auto-no-funcione-absoluto-1344814'>Este error hace que Android Auto no funcione en absoluto</a></h4>
+    <a href='https://computerhoy.com/apps/error-hace-android-auto-no-funcione-absoluto-1344814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Este error hace que Android Auto no funcione en absoluto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-quiere-reacciones-emoji-fotos-hoteles-google-maps-1344812'>Google quiere que reacciones con emoji en las fotos de hoteles en Google Maps</a></h4>
     <a href='https://computerhoy.com/apps/google-quiere-reacciones-emoji-fotos-hoteles-google-maps-1344812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/rutas-google-maps-3119840.jpg?tf=1200x' alt='Google quiere que reacciones con emoji en las fotos de hoteles en Google Maps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-guerra-del-manana-1344706'>Qué película ver en la TDT hoy: un viaje al futuro para luchar contra alienígenas letales</a></h4>
     <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-guerra-del-manana-1344706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-ver-tdt-hoy-viaje-futuro-luchar-alienigenas-letales-3239288.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: un viaje al futuro para luchar contra alienígenas letales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-experimenta-contadores-vistas-me-gusta-actualizan-tiempo-real-1344770'>YouTube experimenta con contadores de vistas y me gusta que se actualizan en tiempo real</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-experimenta-contadores-vistas-me-gusta-actualizan-tiempo-real-1344770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/youtube-3239502.jpg?tf=1200x' alt='YouTube experimenta con contadores de vistas y me gusta que se actualizan en tiempo real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-buscar-otras-personas-nombre-usuario-funciona-1344766'>WhatsApp te permitirá buscar a otras personas por nombre de usuario, y así funciona</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-buscar-otras-personas-nombre-usuario-funciona-1344766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-logo-3198238.jpg?tf=1200x' alt='WhatsApp te permitirá buscar a otras personas por nombre de usuario, y así funciona' />
     </a>
 </div>
 
