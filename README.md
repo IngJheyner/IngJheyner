@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-han-leido-correo-gmail-1343248'>Cómo saber si han leído un correo de Gmail </a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-han-leido-correo-gmail-1343248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/gmail-2248027.jpg?tf=1200x' alt='Cómo saber si han leído un correo de Gmail ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ya-puedes-tener-copilot-windows-10-puedes-instalarlo-1344734'>Ya puedes tener Copilot en Windows 10 y así puedes instalarlo</a></h4>
+    <a href='https://computerhoy.com/windows/ya-puedes-tener-copilot-windows-10-puedes-instalarlo-1344734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg?tf=1200x' alt='Ya puedes tener Copilot en Windows 10 y así puedes instalarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sera-mundo-2100-inteligencia-artificial-1341450'>La inteligencia artificial y ChatGPT han hablado: así será el mundo en 2100</a></h4>
     <a href='https://computerhoy.com/tecnologia/sera-mundo-2100-inteligencia-artificial-1341450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inteligencia-artificial-futuro-3233596.jpg?tf=1200x' alt='La inteligencia artificial y ChatGPT han hablado: así será el mundo en 2100' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/trabajos-enfermedades-trabajadores-1335940'>Estos son los trabajos que más enfermedades provocan a los trabajadores</a></h4>
     <a href='https://computerhoy.com/life/trabajos-enfermedades-trabajadores-1335940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/trabajadores-3238210.jpg?tf=1200x' alt='Estos son los trabajos que más enfermedades provocan a los trabajadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/razones-conexion-internet-va-lenta-1344194'>10 razones por las que tu conexión a Internet va lenta y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/redes/razones-conexion-internet-va-lenta-1344194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/10-razones-conexion-internet-va-lenta-como-solucionarlo-3238060.jpg?tf=1200x' alt='10 razones por las que tu conexión a Internet va lenta y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/publicidad-fire-tv-excesiva-problema-1342122'>Amazon tiene un problema con la publicidad en los Fire TV, pero creo que te dará igual	</a></h4>
-    <a href='https://computerhoy.com/amazon/publicidad-fire-tv-excesiva-problema-1342122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-3234608.jpg?tf=1200x' alt='Amazon tiene un problema con la publicidad en los Fire TV, pero creo que te dará igual	' />
     </a>
 </div>
 
