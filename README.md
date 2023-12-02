@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-buscar-otras-personas-nombre-usuario-funciona-1344766'>WhatsApp te permitirá buscar a otras personas por nombre de usuario, y así funciona</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-buscar-otras-personas-nombre-usuario-funciona-1344766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-logo-3198238.jpg?tf=1200x' alt='WhatsApp te permitirá buscar a otras personas por nombre de usuario, y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-destroza-precio-cafetera-portatil-vendida-1344742'>AliExpress destroza el precio de su cafetera portátil más vendida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-destroza-precio-cafetera-portatil-vendida-1344742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cafetera-portatil-hibrew-3239354.jpg?tf=1200x' alt='AliExpress destroza el precio de su cafetera portátil más vendida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-silenciar-llamadas-mensajes-contacto-android-1303108'>Cómo silenciar llamadas y mensajes de contacto específico en Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-silenciar-llamadas-mensajes-contacto-android-1303108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/llamadas-android-3201474.jpg?tf=1200x' alt='Cómo silenciar llamadas y mensajes de contacto específico en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/openai-retrasa-lanzamiento-tienda-gpt-algunas-cosas-inesperadas-1344760'>OpenAI retrasa el lanzamiento de su tienda GPT “por algunas cosas inesperadas”</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-retrasa-lanzamiento-tienda-gpt-algunas-cosas-inesperadas-1344760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tienda-gpt-3239488.jpg?tf=1200x' alt='OpenAI retrasa el lanzamiento de su tienda GPT “por algunas cosas inesperadas”' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-han-leido-correo-gmail-1343248'>Cómo saber si han leído un correo de Gmail </a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-han-leido-correo-gmail-1343248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/gmail-2248027.jpg?tf=1200x' alt='Cómo saber si han leído un correo de Gmail ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ya-puedes-tener-copilot-windows-10-puedes-instalarlo-1344734'>Ya puedes tener Copilot en Windows 10 y así puedes instalarlo</a></h4>
-    <a href='https://computerhoy.com/windows/ya-puedes-tener-copilot-windows-10-puedes-instalarlo-1344734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg?tf=1200x' alt='Ya puedes tener Copilot en Windows 10 y así puedes instalarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sera-mundo-2100-inteligencia-artificial-1341450'>La inteligencia artificial y ChatGPT han hablado: así será el mundo en 2100</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sera-mundo-2100-inteligencia-artificial-1341450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inteligencia-artificial-futuro-3233596.jpg?tf=1200x' alt='La inteligencia artificial y ChatGPT han hablado: así será el mundo en 2100' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuerpos-ciberneticos-amenazas-tecnologias-pueden-hackear-cuerpo-1326250'>Cuerpos cibernéticos: las amenazas de las tecnologías que pueden hackear tu cuerpo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuerpos-ciberneticos-amenazas-tecnologias-pueden-hackear-cuerpo-1326250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/biohacking-3208482.jpg?tf=1200x' alt='Cuerpos cibernéticos: las amenazas de las tecnologías que pueden hackear tu cuerpo' />
     </a>
 </div>
 
