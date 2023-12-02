@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/truco-definitivo-acceder-menu-oculto-amazon-fire-tv-1344550'>El truco definitivo para acceder al menú oculto de tu Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/amazon/truco-definitivo-acceder-menu-oculto-amazon-fire-tv-1344550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/truco-definitivo-acceder-menu-oculto-amazon-fire-tv-3239264.jpg?tf=1200x' alt='El truco definitivo para acceder al menú oculto de tu Amazon Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-12-llegara-junio-2024-iniciara-era-ai-pc-1344546'>Windows 12 llegará en junio de 2024 y estrenará la era de los AI PC, según dos fabricantes</a></h4>
     <a href='https://computerhoy.com/windows/windows-12-llegara-junio-2024-iniciara-era-ai-pc-1344546' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-12-sera-sistema-operativo-top-gracias-integracion-inteligencia-artificial-3011474.jpg?tf=1200x' alt='Windows 12 llegará en junio de 2024 y estrenará la era de los AI PC, según dos fabricantes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-eliminara-botones-utiles-utilizados-hacerle-hueco-copilot-1344532'>Windows 11 eliminará unos de sus botones más útiles y utilizados para hacerle hueco a Copilot</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-eliminara-botones-utiles-utilizados-hacerle-hueco-copilot-1344532' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-11-3003862.jpg?tf=1200x' alt='Windows 11 eliminará unos de sus botones más útiles y utilizados para hacerle hueco a Copilot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-prepara-modo-avanzado-windows-11-usuarios-expertos-1344530'>Microsoft prepara un modo avanzado de Windows 11 para los usuarios más expertos</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-prepara-modo-avanzado-windows-11-usuarios-expertos-1344530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2870243.jpg?tf=1200x' alt='Microsoft prepara un modo avanzado de Windows 11 para los usuarios más expertos' />
     </a>
 </div>
 
