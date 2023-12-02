@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/youtube-experimenta-contadores-vistas-me-gusta-actualizan-tiempo-real-1344770'>YouTube experimenta con contadores de vistas y me gusta que se actualizan en tiempo real</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-experimenta-contadores-vistas-me-gusta-actualizan-tiempo-real-1344770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/youtube-3239502.jpg?tf=1200x' alt='YouTube experimenta con contadores de vistas y me gusta que se actualizan en tiempo real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-buscar-otras-personas-nombre-usuario-funciona-1344766'>WhatsApp te permitirá buscar a otras personas por nombre de usuario, y así funciona</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-te-permitira-buscar-otras-personas-nombre-usuario-funciona-1344766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-logo-3198238.jpg?tf=1200x' alt='WhatsApp te permitirá buscar a otras personas por nombre de usuario, y así funciona' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/openai-retrasa-lanzamiento-tienda-gpt-algunas-cosas-inesperadas-1344760'>OpenAI retrasa el lanzamiento de su tienda GPT “por algunas cosas inesperadas”</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-retrasa-lanzamiento-tienda-gpt-algunas-cosas-inesperadas-1344760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tienda-gpt-3239488.jpg?tf=1200x' alt='OpenAI retrasa el lanzamiento de su tienda GPT “por algunas cosas inesperadas”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-han-leido-correo-gmail-1343248'>Cómo saber si han leído un correo de Gmail </a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-han-leido-correo-gmail-1343248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/gmail-2248027.jpg?tf=1200x' alt='Cómo saber si han leído un correo de Gmail ' />
     </a>
 </div>
 
