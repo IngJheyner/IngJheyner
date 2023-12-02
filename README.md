@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sera-mundo-2100-inteligencia-artificial-1341450'>La inteligencia artificial y ChatGPT han hablado: así será el mundo en 2100</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sera-mundo-2100-inteligencia-artificial-1341450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/inteligencia-artificial-futuro-3233596.jpg?tf=1200x' alt='La inteligencia artificial y ChatGPT han hablado: así será el mundo en 2100' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuerpos-ciberneticos-amenazas-tecnologias-pueden-hackear-cuerpo-1326250'>Cuerpos cibernéticos: las amenazas de las tecnologías que pueden hackear tu cuerpo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuerpos-ciberneticos-amenazas-tecnologias-pueden-hackear-cuerpo-1326250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/biohacking-3208482.jpg?tf=1200x' alt='Cuerpos cibernéticos: las amenazas de las tecnologías que pueden hackear tu cuerpo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/trabajos-enfermedades-trabajadores-1335940'>Estos son los trabajos que más enfermedades provocan a los trabajadores</a></h4>
     <a href='https://computerhoy.com/life/trabajos-enfermedades-trabajadores-1335940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/trabajadores-3238210.jpg?tf=1200x' alt='Estos son los trabajos que más enfermedades provocan a los trabajadores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/publicidad-fire-tv-excesiva-problema-1342122'>Amazon tiene un problema con la publicidad en los Fire TV, pero creo que te dará igual	</a></h4>
     <a href='https://computerhoy.com/amazon/publicidad-fire-tv-excesiva-problema-1342122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-3234608.jpg?tf=1200x' alt='Amazon tiene un problema con la publicidad en los Fire TV, pero creo que te dará igual	' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lectores-ebooks-compatibles-ebiblio-estos-son-mejores-1344704'>Lectores de ebooks compatibles con eBiblio: estos son los mejores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lectores-ebooks-compatibles-ebiblio-estos-son-mejores-1344704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kobo-libra-2-3201546.jpg?tf=1200x' alt='Lectores de ebooks compatibles con eBiblio: estos son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/son-curiosas-siestas-japonesas-mejoran-memoria-expertos-1344232'>Así son las curiosas siestas japonesas que mejoran la memoria, según los expertos</a></h4>
-    <a href='https://computerhoy.com/ciencia/son-curiosas-siestas-japonesas-mejoran-memoria-expertos-1344232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/son-curiosas-siestas-japonesas-mejoran-memoria-expertos-3238142.jpg?tf=1200x' alt='Así son las curiosas siestas japonesas que mejoran la memoria, según los expertos' />
     </a>
 </div>
 
