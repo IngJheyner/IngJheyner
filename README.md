@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xr-lab-oppo-donde-prueban-visores-realidad-aumentada-1342342'>He probado la apuesta por la realidad aumentada de Oppo, pero Apple puede poner patas arriba todos sus avances</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xr-lab-oppo-donde-prueban-visores-realidad-aumentada-1342342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oppo-mr-glass-3234838.jpg?tf=1200x' alt='He probado la apuesta por la realidad aumentada de Oppo, pero Apple puede poner patas arriba todos sus avances' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/no-tires-pieles-platano-truco-te-va-sorprender-1343730'>Las redes en shock al descubrir lo que puedes hacer con la piel de un plátano, ¡no la tires!</a></h4>
     <a href='https://computerhoy.com/alimentacion/no-tires-pieles-platano-truco-te-va-sorprender-1343730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/redes-shock-descubrir-puedes-hacer-piel-platano-no-tires-3237090.jpg?tf=1200x' alt='Las redes en shock al descubrir lo que puedes hacer con la piel de un plátano, ¡no la tires!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/truco-definitivo-acceder-menu-oculto-amazon-fire-tv-1344550'>El truco definitivo para acceder al menú oculto de tu Amazon Fire TV</a></h4>
     <a href='https://computerhoy.com/amazon/truco-definitivo-acceder-menu-oculto-amazon-fire-tv-1344550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/truco-definitivo-acceder-menu-oculto-amazon-fire-tv-3239264.jpg?tf=1200x' alt='El truco definitivo para acceder al menú oculto de tu Amazon Fire TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-12-llegara-junio-2024-iniciara-era-ai-pc-1344546'>Windows 12 llegará en junio de 2024 y estrenará la era de los AI PC, según dos fabricantes</a></h4>
-    <a href='https://computerhoy.com/windows/windows-12-llegara-junio-2024-iniciara-era-ai-pc-1344546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-12-sera-sistema-operativo-top-gracias-integracion-inteligencia-artificial-3011474.jpg?tf=1200x' alt='Windows 12 llegará en junio de 2024 y estrenará la era de los AI PC, según dos fabricantes' />
     </a>
 </div>
 
