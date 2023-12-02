@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/desvelan-truco-foto-mas-famosa-mundo-almuerzo-rascacielos-1344826'>Se desvela el truco de la foto más famosa de la historia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desvelan-truco-foto-mas-famosa-mundo-almuerzo-rascacielos-1344826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/verdadera-historia-fotografias-famosas-todos-tiempos-2091845.jpg?tf=1200x' alt='Se desvela el truco de la foto más famosa de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-ahorrar-dinero-factura-luz-gracias-nueva-funcion-1344822'>Windows 11 te permitirá ahorrar dinero de la factura de la luz gracias a esta nueva función</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-te-permitira-ahorrar-dinero-factura-luz-gracias-nueva-funcion-1344822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2864029.jpg?tf=1200x' alt='Windows 11 te permitirá ahorrar dinero de la factura de la luz gracias a esta nueva función' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/amazon-renueva-completo-aplicacion-alexa-todas-estas-nuevas-funciones-1344774'>Amazon renueva por completo la aplicación de Alexa con todas estas nuevas funciones</a></h4>
     <a href='https://computerhoy.com/apps/amazon-renueva-completo-aplicacion-alexa-todas-estas-nuevas-funciones-1344774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicacion-alexa-3239506.jpg?tf=1200x' alt='Amazon renueva por completo la aplicación de Alexa con todas estas nuevas funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-guerra-del-manana-1344706'>Qué película ver en la TDT hoy: un viaje al futuro para luchar contra alienígenas letales</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-guerra-del-manana-1344706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-ver-tdt-hoy-viaje-futuro-luchar-alienigenas-letales-3239288.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: un viaje al futuro para luchar contra alienígenas letales' />
     </a>
 </div>
 
