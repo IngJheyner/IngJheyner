@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-robot-limpieza-definitivo-recoger-ropa-sucia-suelo-1344820'>Crean un robot de limpieza definitivo para recoger la ropa sucia del suelo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-robot-limpieza-definitivo-recoger-ropa-sucia-suelo-1344820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robot-recolector-ropa-sucia-3239604.jpg?tf=1200x' alt='Crean un robot de limpieza definitivo para recoger la ropa sucia del suelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/7-cosas-me-fijaria-comprar-movil-nuevo-1342154'>He probado más de 30 móviles este año: las 7 cosas en las que me fijaría al comprar un smartphone nuevo</a></h4>
+    <a href='https://computerhoy.com/7-cosas-me-fijaria-comprar-movil-nuevo-1342154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/honor-70-lite-3075908.jpg?tf=1200x' alt='He probado más de 30 móviles este año: las 7 cosas en las que me fijaría al comprar un smartphone nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estudio-dice-no-solo-asteroide-fue-culpable-extincion-dinosaurios-1344818'>Un estudio dice que no solo un asteroide fue el culpable de la extinción de los dinosaurios</a></h4>
+    <a href='https://computerhoy.com/life/estudio-dice-no-solo-asteroide-fue-culpable-extincion-dinosaurios-1344818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/asteroide-choca-tierra-3239600.jpg?tf=1200x' alt='Un estudio dice que no solo un asteroide fue el culpable de la extinción de los dinosaurios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-airbus-reposta-combustible-aviones-aire-1344192'>¿La vuelta al mundo sin aterrizar? Una IA de Airbus reposta combustible a los aviones en el aire</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-airbus-reposta-combustible-aviones-aire-1344192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vuelta-mundo-avion-aterrizar-drones-autonomos-airbus-repostan-combustible-aviones-aire-3237842.jpg?tf=1200x' alt='¿La vuelta al mundo sin aterrizar? Una IA de Airbus reposta combustible a los aviones en el aire' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/moviles-snapdragon-8-gen-2-1208104'>Estos son los mejores móviles con Snapdragon 8 Gen 2, uno de los procesadores más potentes del mundo</a></h4>
     <a href='https://computerhoy.com/mejores/moviles-snapdragon-8-gen-2-1208104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-ultra-analisis-opinion-2961018.jpg?tf=1200x' alt='Estos son los mejores móviles con Snapdragon 8 Gen 2, uno de los procesadores más potentes del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desvelan-truco-foto-mas-famosa-mundo-almuerzo-rascacielos-1344826'>Se desvela el truco de la foto más famosa de la historia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desvelan-truco-foto-mas-famosa-mundo-almuerzo-rascacielos-1344826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/verdadera-historia-fotografias-famosas-todos-tiempos-2091845.jpg?tf=1200x' alt='Se desvela el truco de la foto más famosa de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-ahorrar-dinero-factura-luz-gracias-nueva-funcion-1344822'>Windows 11 te permitirá ahorrar dinero de la factura de la luz gracias a esta nueva función</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-te-permitira-ahorrar-dinero-factura-luz-gracias-nueva-funcion-1344822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2864029.jpg?tf=1200x' alt='Windows 11 te permitirá ahorrar dinero de la factura de la luz gracias a esta nueva función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/error-hace-android-auto-no-funcione-absoluto-1344814'>Este error hace que Android Auto no funcione en absoluto</a></h4>
-    <a href='https://computerhoy.com/apps/error-hace-android-auto-no-funcione-absoluto-1344814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Este error hace que Android Auto no funcione en absoluto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-quiere-reacciones-emoji-fotos-hoteles-google-maps-1344812'>Google quiere que reacciones con emoji en las fotos de hoteles en Google Maps</a></h4>
-    <a href='https://computerhoy.com/apps/google-quiere-reacciones-emoji-fotos-hoteles-google-maps-1344812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/rutas-google-maps-3119840.jpg?tf=1200x' alt='Google quiere que reacciones con emoji en las fotos de hoteles en Google Maps' />
     </a>
 </div>
 
