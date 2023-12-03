@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tiny11-instalacion-limitaciones-windows-11-requisitos-minimos-1343984'>Tiny11, la versión en miniatura de Windows 11: instalación, limitaciones y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tiny11-instalacion-limitaciones-windows-11-requisitos-minimos-1343984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tiny11-version-miniatura-windows-11-instalacion-limitaciones-todo-debes-saber-3237782.jpg?tf=1200x' alt='Tiny11, la versión en miniatura de Windows 11: instalación, limitaciones y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/fotografia-computacional-como-mejora-movil-fotos-haces-1334124'>¿Qué es la fotografía computacional y cómo mejora tu móvil las fotos que haces?</a></h4>
     <a href='https://computerhoy.com/moviles/fotografia-computacional-como-mejora-movil-fotos-haces-1334124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/verticalimage1701427023093-3238350.jpg?tf=1200x' alt='¿Qué es la fotografía computacional y cómo mejora tu móvil las fotos que haces?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/crean-robot-limpieza-definitivo-recoger-ropa-sucia-suelo-1344820'>Crean un robot de limpieza definitivo para recoger la ropa sucia del suelo</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-robot-limpieza-definitivo-recoger-ropa-sucia-suelo-1344820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robot-recolector-ropa-sucia-3239604.jpg?tf=1200x' alt='Crean un robot de limpieza definitivo para recoger la ropa sucia del suelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/7-cosas-me-fijaria-comprar-movil-nuevo-1342154'>He probado más de 30 móviles este año: las 7 cosas en las que me fijaría al comprar un smartphone nuevo</a></h4>
-    <a href='https://computerhoy.com/7-cosas-me-fijaria-comprar-movil-nuevo-1342154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/honor-70-lite-3075908.jpg?tf=1200x' alt='He probado más de 30 móviles este año: las 7 cosas en las que me fijaría al comprar un smartphone nuevo' />
     </a>
 </div>
 
