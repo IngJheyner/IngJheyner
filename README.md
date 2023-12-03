@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/transaccion-promedio-bitcoin-desperdicia-piscina-llena-agua-estudio-1344966'>La transacción promedio de Bitcoin desperdicia una piscina llena de agua, según este estudio</a></h4>
+    <a href='https://computerhoy.com/criptos/transaccion-promedio-bitcoin-desperdicia-piscina-llena-agua-estudio-1344966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bitcoin-3239838.jpg?tf=1200x' alt='La transacción promedio de Bitcoin desperdicia una piscina llena de agua, según este estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/clon-logitech-mx-master-cuesta-cuarta-parte-tiene-envio-gratis-1344960'>Este clon del Logitech MX Master cuesta la cuarta parte y tiene envío gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/clon-logitech-mx-master-cuesta-cuarta-parte-tiene-envio-gratis-1344960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/clon-mx-master-3239834.jpg?tf=1200x' alt='Este clon del Logitech MX Master cuesta la cuarta parte y tiene envío gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/hacktivistas-heroes-villanos-1328020'>La delgada línea en la que se mueven los hacktivistas: ¿Héroes o villanos?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hacktivistas-heroes-villanos-1328020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hacktivismo-3211578.jpg?tf=1200x' alt='La delgada línea en la que se mueven los hacktivistas: ¿Héroes o villanos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tiny11-instalacion-limitaciones-windows-11-requisitos-minimos-1343984'>Tiny11, la versión en miniatura de Windows 11: instalación, limitaciones y todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/tutoriales/tiny11-instalacion-limitaciones-windows-11-requisitos-minimos-1343984' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tiny11-version-miniatura-windows-11-instalacion-limitaciones-todo-debes-saber-3237782.jpg?tf=1200x' alt='Tiny11, la versión en miniatura de Windows 11: instalación, limitaciones y todo lo que debes saber' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/fotografia-computacional-como-mejora-movil-fotos-haces-1334124'>¿Qué es la fotografía computacional y cómo mejora tu móvil las fotos que haces?</a></h4>
     <a href='https://computerhoy.com/moviles/fotografia-computacional-como-mejora-movil-fotos-haces-1334124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/verticalimage1701427023093-3238350.jpg?tf=1200x' alt='¿Qué es la fotografía computacional y cómo mejora tu móvil las fotos que haces?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/predicciones-nostradamus-no-sabias-hicieron-realidad-1343942'>Predicciones de Nostradamus que no sabías que se hicieron realidad</a></h4>
-    <a href='https://computerhoy.com/life/predicciones-nostradamus-no-sabias-hicieron-realidad-1343942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/9-sorprendentes-predicciones-nostradamus-hicieron-realidad-quizas-no-sabias-3237690.jpg?tf=1200x' alt='Predicciones de Nostradamus que no sabías que se hicieron realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-baratos-menos-20-euros-950501'>Auriculares inalámbricos de menos de 20€ que son perfectos si quieres unos baratos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-baratos-menos-20-euros-950501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-buds-3-2982696.jpg?tf=1200x' alt='Auriculares inalámbricos de menos de 20€ que son perfectos si quieres unos baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-robot-limpieza-definitivo-recoger-ropa-sucia-suelo-1344820'>Crean un robot de limpieza definitivo para recoger la ropa sucia del suelo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-robot-limpieza-definitivo-recoger-ropa-sucia-suelo-1344820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robot-recolector-ropa-sucia-3239604.jpg?tf=1200x' alt='Crean un robot de limpieza definitivo para recoger la ropa sucia del suelo' />
     </a>
 </div>
 
