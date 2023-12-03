@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/estafas-tarjeta-grafica-amazon-sapphire-alerta-1345008'>Cuidado a quién compras una tarjeta gráfica en Amazon: un fabricante alerta de las estafas</a></h4>
+    <a href='https://computerhoy.com/pc/estafas-tarjeta-grafica-amazon-sapphire-alerta-1345008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sapphire-pulse-amd-radeon-rx-7900-xt-3014702.jpg?tf=1200x' alt='Cuidado a quién compras una tarjeta gráfica en Amazon: un fabricante alerta de las estafas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-spectre-james-bond-1344946'>Qué película ver en la TDT hoy: el espía más famoso descubre una inesperada verdad</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-spectre-james-bond-1344946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-ver-tdt-hoy-espia-famoso-descubre-inesperada-verdad-3239690.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: el espía más famoso descubre una inesperada verdad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-retrasa-ultimo-momento-lanzamiento-gemini-nuevo-modelo-ia-promete-desbancar-chatgpt-1344988'>Google retrasa en el último momento el lanzamiento de Gemini, su nuevo modelo de IA que promete desbancar a ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-retrasa-ultimo-momento-lanzamiento-gemini-nuevo-modelo-ia-promete-desbancar-chatgpt-1344988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='Google retrasa en el último momento el lanzamiento de Gemini, su nuevo modelo de IA que promete desbancar a ChatGPT' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-usar-iphone-como-altavoz-externo-mac-1296148'>Cómo usar un iPhone como un altavoz externo para tu Mac</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-usar-iphone-como-altavoz-externo-mac-1296148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/altavoz-iphone-3119392.jpg?tf=1200x' alt='Cómo usar un iPhone como un altavoz externo para tu Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-podria-permitirte-usar-movil-como-camara-web-windows-11-1344976'>Microsoft podría permitirte usar tu móvil como cámara web en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-podria-permitirte-usar-movil-como-camara-web-windows-11-1344976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mujer-usando-movil-como-webcam-3239882.jpg?tf=1200x' alt='Microsoft podría permitirte usar tu móvil como cámara web en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/filtro-luz-azul-como-puedes-activarlo-android-iphone-1344040'>Qué es el filtro de luz azul y cómo puedes activarlo en tu móvil Android o iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/filtro-luz-azul-como-puedes-activarlo-android-iphone-1344040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/filtro-luz-azul-como-puedes-activarlo-movil-android-iphone-3237840.jpg?tf=1200x' alt='Qué es el filtro de luz azul y cómo puedes activarlo en tu móvil Android o iPhone' />
     </a>
 </div>
 
