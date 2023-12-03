@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/practicamente-seguro-2023-sera-ano-caluroso-historia-naciones-unidas-1344982'>“Es prácticamente seguro” que 2023 será el año más caluroso de la historia, según las Naciones Unidas</a></h4>
+    <a href='https://computerhoy.com/life/practicamente-seguro-2023-sera-ano-caluroso-historia-naciones-unidas-1344982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cambio-climatico-3239892.jpg?tf=1200x' alt='“Es prácticamente seguro” que 2023 será el año más caluroso de la historia, según las Naciones Unidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-usar-iphone-como-altavoz-externo-mac-1296148'>Cómo usar un iPhone como un altavoz externo para tu Mac</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-usar-iphone-como-altavoz-externo-mac-1296148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/altavoz-iphone-3119392.jpg?tf=1200x' alt='Cómo usar un iPhone como un altavoz externo para tu Mac' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/he-probado-metodo-deep-work-triunfar-bill-gates-elon-musk-1340910'>He probado el método Deep Work que Bill Gates o Elon Musk quieren que uses para triunfar y funciona</a></h4>
     <a href='https://computerhoy.com/life/he-probado-metodo-deep-work-triunfar-bill-gates-elon-musk-1340910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-bill-gates-2994776.jpg?tf=1200x' alt='He probado el método Deep Work que Bill Gates o Elon Musk quieren que uses para triunfar y funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/actualizacion-samsung-android-14-parece-romper-android-auto-1344972'>Esta actualización de Samsung de Android 14 parece romper Android Auto</a></h4>
-    <a href='https://computerhoy.com/apps/actualizacion-samsung-android-14-parece-romper-android-auto-1344972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/android-auto-2374127.jpg?tf=1200x' alt='Esta actualización de Samsung de Android 14 parece romper Android Auto' />
     </a>
 </div>
 
