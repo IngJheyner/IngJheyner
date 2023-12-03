@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cybertruck-para-ninos-1500-dolares-autonomia-20-kilometros-1345016'>Tesla pone a la venta un cybertruck por solo 1.500 dólares, con una autonomía de 20 Kilómetros</a></h4>
+    <a href='https://computerhoy.com/motor/cybertruck-para-ninos-1500-dolares-autonomia-20-kilometros-1345016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tesla-pone-venta-cybertruck-solo-1500-dolares-autonomia-20-kilometros-3240062.jpg?tf=1200x' alt='Tesla pone a la venta un cybertruck por solo 1.500 dólares, con una autonomía de 20 Kilómetros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/estafas-tarjeta-grafica-amazon-sapphire-alerta-1345008'>Cuidado a quién compras una tarjeta gráfica en Amazon: un fabricante alerta de las estafas</a></h4>
     <a href='https://computerhoy.com/pc/estafas-tarjeta-grafica-amazon-sapphire-alerta-1345008' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sapphire-pulse-amd-radeon-rx-7900-xt-3014702.jpg?tf=1200x' alt='Cuidado a quién compras una tarjeta gráfica en Amazon: un fabricante alerta de las estafas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/practicamente-seguro-2023-sera-ano-caluroso-historia-naciones-unidas-1344982'>“Es prácticamente seguro” que 2023 será el año más caluroso de la historia, según las Naciones Unidas</a></h4>
     <a href='https://computerhoy.com/life/practicamente-seguro-2023-sera-ano-caluroso-historia-naciones-unidas-1344982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cambio-climatico-3239892.jpg?tf=1200x' alt='“Es prácticamente seguro” que 2023 será el año más caluroso de la historia, según las Naciones Unidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-iphone-como-altavoz-externo-mac-1296148'>Cómo usar un iPhone como un altavoz externo para tu Mac</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-iphone-como-altavoz-externo-mac-1296148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/altavoz-iphone-3119392.jpg?tf=1200x' alt='Cómo usar un iPhone como un altavoz externo para tu Mac' />
     </a>
 </div>
 
