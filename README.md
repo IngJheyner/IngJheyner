@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-iphone-como-altavoz-externo-mac-1296148'>Cómo usar un iPhone como un altavoz externo para tu Mac</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-iphone-como-altavoz-externo-mac-1296148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/altavoz-iphone-3119392.jpg?tf=1200x' alt='Cómo usar un iPhone como un altavoz externo para tu Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-podria-permitirte-usar-movil-como-camara-web-windows-11-1344976'>Microsoft podría permitirte usar tu móvil como cámara web en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-podria-permitirte-usar-movil-como-camara-web-windows-11-1344976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mujer-usando-movil-como-webcam-3239882.jpg?tf=1200x' alt='Microsoft podría permitirte usar tu móvil como cámara web en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/filtro-luz-azul-como-puedes-activarlo-android-iphone-1344040'>Qué es el filtro de luz azul y cómo puedes activarlo en tu móvil Android o iPhone</a></h4>
     <a href='https://computerhoy.com/tutoriales/filtro-luz-azul-como-puedes-activarlo-android-iphone-1344040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/filtro-luz-azul-como-puedes-activarlo-movil-android-iphone-3237840.jpg?tf=1200x' alt='Qué es el filtro de luz azul y cómo puedes activarlo en tu móvil Android o iPhone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/actualizacion-samsung-android-14-parece-romper-android-auto-1344972'>Esta actualización de Samsung de Android 14 parece romper Android Auto</a></h4>
     <a href='https://computerhoy.com/apps/actualizacion-samsung-android-14-parece-romper-android-auto-1344972' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/android-auto-2374127.jpg?tf=1200x' alt='Esta actualización de Samsung de Android 14 parece romper Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/transaccion-promedio-bitcoin-desperdicia-piscina-llena-agua-estudio-1344966'>La transacción promedio de Bitcoin desperdicia una piscina llena de agua, según este estudio</a></h4>
-    <a href='https://computerhoy.com/criptos/transaccion-promedio-bitcoin-desperdicia-piscina-llena-agua-estudio-1344966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bitcoin-3239838.jpg?tf=1200x' alt='La transacción promedio de Bitcoin desperdicia una piscina llena de agua, según este estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/clon-logitech-mx-master-cuesta-cuarta-parte-tiene-envio-gratis-1344960'>Este clon del Logitech MX Master cuesta la cuarta parte y tiene envío gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/clon-logitech-mx-master-cuesta-cuarta-parte-tiene-envio-gratis-1344960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/clon-mx-master-3239834.jpg?tf=1200x' alt='Este clon del Logitech MX Master cuesta la cuarta parte y tiene envío gratis' />
     </a>
 </div>
 
