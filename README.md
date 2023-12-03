@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/filtro-luz-azul-como-puedes-activarlo-android-iphone-1344040'>Qué es el filtro de luz azul y cómo puedes activarlo en tu móvil Android o iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/filtro-luz-azul-como-puedes-activarlo-android-iphone-1344040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/filtro-luz-azul-como-puedes-activarlo-movil-android-iphone-3237840.jpg?tf=1200x' alt='Qué es el filtro de luz azul y cómo puedes activarlo en tu móvil Android o iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/he-probado-metodo-deep-work-triunfar-bill-gates-elon-musk-1340910'>He probado el método Deep Work que Bill Gates o Elon Musk quieren que uses para triunfar y funciona</a></h4>
+    <a href='https://computerhoy.com/life/he-probado-metodo-deep-work-triunfar-bill-gates-elon-musk-1340910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-bill-gates-2994776.jpg?tf=1200x' alt='He probado el método Deep Work que Bill Gates o Elon Musk quieren que uses para triunfar y funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/actualizacion-samsung-android-14-parece-romper-android-auto-1344972'>Esta actualización de Samsung de Android 14 parece romper Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/actualizacion-samsung-android-14-parece-romper-android-auto-1344972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/android-auto-2374127.jpg?tf=1200x' alt='Esta actualización de Samsung de Android 14 parece romper Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/transaccion-promedio-bitcoin-desperdicia-piscina-llena-agua-estudio-1344966'>La transacción promedio de Bitcoin desperdicia una piscina llena de agua, según este estudio</a></h4>
     <a href='https://computerhoy.com/criptos/transaccion-promedio-bitcoin-desperdicia-piscina-llena-agua-estudio-1344966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bitcoin-3239838.jpg?tf=1200x' alt='La transacción promedio de Bitcoin desperdicia una piscina llena de agua, según este estudio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/clon-logitech-mx-master-cuesta-cuarta-parte-tiene-envio-gratis-1344960'>Este clon del Logitech MX Master cuesta la cuarta parte y tiene envío gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/clon-logitech-mx-master-cuesta-cuarta-parte-tiene-envio-gratis-1344960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/clon-mx-master-3239834.jpg?tf=1200x' alt='Este clon del Logitech MX Master cuesta la cuarta parte y tiene envío gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hacktivistas-heroes-villanos-1328020'>La delgada línea en la que se mueven los hacktivistas: ¿Héroes o villanos?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hacktivistas-heroes-villanos-1328020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hacktivismo-3211578.jpg?tf=1200x' alt='La delgada línea en la que se mueven los hacktivistas: ¿Héroes o villanos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tiny11-instalacion-limitaciones-windows-11-requisitos-minimos-1343984'>Tiny11, la versión en miniatura de Windows 11: instalación, limitaciones y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tiny11-instalacion-limitaciones-windows-11-requisitos-minimos-1343984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tiny11-version-miniatura-windows-11-instalacion-limitaciones-todo-debes-saber-3237782.jpg?tf=1200x' alt='Tiny11, la versión en miniatura de Windows 11: instalación, limitaciones y todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/fotografia-computacional-como-mejora-movil-fotos-haces-1334124'>¿Qué es la fotografía computacional y cómo mejora tu móvil las fotos que haces?</a></h4>
-    <a href='https://computerhoy.com/moviles/fotografia-computacional-como-mejora-movil-fotos-haces-1334124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/verticalimage1701427023093-3238350.jpg?tf=1200x' alt='¿Qué es la fotografía computacional y cómo mejora tu móvil las fotos que haces?' />
     </a>
 </div>
 
