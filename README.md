@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-retrasa-ultimo-momento-lanzamiento-gemini-nuevo-modelo-ia-promete-desbancar-chatgpt-1344988'>Google retrasa en el último momento el lanzamiento de Gemini, su nuevo modelo de IA que promete desbancar a ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-retrasa-ultimo-momento-lanzamiento-gemini-nuevo-modelo-ia-promete-desbancar-chatgpt-1344988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='Google retrasa en el último momento el lanzamiento de Gemini, su nuevo modelo de IA que promete desbancar a ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/practicamente-seguro-2023-sera-ano-caluroso-historia-naciones-unidas-1344982'>“Es prácticamente seguro” que 2023 será el año más caluroso de la historia, según las Naciones Unidas</a></h4>
     <a href='https://computerhoy.com/life/practicamente-seguro-2023-sera-ano-caluroso-historia-naciones-unidas-1344982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cambio-climatico-3239892.jpg?tf=1200x' alt='“Es prácticamente seguro” que 2023 será el año más caluroso de la historia, según las Naciones Unidas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/filtro-luz-azul-como-puedes-activarlo-android-iphone-1344040'>Qué es el filtro de luz azul y cómo puedes activarlo en tu móvil Android o iPhone</a></h4>
     <a href='https://computerhoy.com/tutoriales/filtro-luz-azul-como-puedes-activarlo-android-iphone-1344040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/filtro-luz-azul-como-puedes-activarlo-movil-android-iphone-3237840.jpg?tf=1200x' alt='Qué es el filtro de luz azul y cómo puedes activarlo en tu móvil Android o iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/he-probado-metodo-deep-work-triunfar-bill-gates-elon-musk-1340910'>He probado el método Deep Work que Bill Gates o Elon Musk quieren que uses para triunfar y funciona</a></h4>
-    <a href='https://computerhoy.com/life/he-probado-metodo-deep-work-triunfar-bill-gates-elon-musk-1340910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-bill-gates-2994776.jpg?tf=1200x' alt='He probado el método Deep Work que Bill Gates o Elon Musk quieren que uses para triunfar y funciona' />
     </a>
 </div>
 
