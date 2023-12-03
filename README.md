@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/playstation-borra-docenas-series-discovery-usuarios-compraron-1345028'>La vida efímera de lo digital: PlayStation borra docenas de series a los usuarios que las compraron</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/playstation-borra-docenas-series-discovery-usuarios-compraron-1345028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vida-efimera-digital-playstation-borra-docenas-series-usuarios-compraron-3240290.jpg?tf=1200x' alt='La vida efímera de lo digital: PlayStation borra docenas de series a los usuarios que las compraron' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/amazon-contrata-gran-rival-spacex-lanzar-primeros-satelites-1345022'>¿Humillación o pragmatismo? Amazon contrata a su gran rival, la dueña de Starlink, SpaceX, para poner en órbita sus primeros satélites</a></h4>
     <a href='https://computerhoy.com/espacio/amazon-contrata-gran-rival-spacex-lanzar-primeros-satelites-1345022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/satelites-amazon-3188736.jpg?tf=1200x' alt='¿Humillación o pragmatismo? Amazon contrata a su gran rival, la dueña de Starlink, SpaceX, para poner en órbita sus primeros satélites' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-spectre-james-bond-1344946'>Qué película ver en la TDT hoy: el espía más famoso descubre una inesperada verdad</a></h4>
     <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-spectre-james-bond-1344946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-ver-tdt-hoy-espia-famoso-descubre-inesperada-verdad-3239690.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: el espía más famoso descubre una inesperada verdad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-retrasa-ultimo-momento-lanzamiento-gemini-nuevo-modelo-ia-promete-desbancar-chatgpt-1344988'>Google retrasa en el último momento el lanzamiento de Gemini, su nuevo modelo de IA que promete desbancar a ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-retrasa-ultimo-momento-lanzamiento-gemini-nuevo-modelo-ia-promete-desbancar-chatgpt-1344988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='Google retrasa en el último momento el lanzamiento de Gemini, su nuevo modelo de IA que promete desbancar a ChatGPT' />
     </a>
 </div>
 
