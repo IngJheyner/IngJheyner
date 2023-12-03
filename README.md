@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/amazon-contrata-gran-rival-spacex-lanzar-primeros-satelites-1345022'>¿Humillación o pragmatismo? Amazon contrata a su gran rival, la dueña de Starlink, SpaceX, para poner en órbita sus primeros satélites</a></h4>
+    <a href='https://computerhoy.com/espacio/amazon-contrata-gran-rival-spacex-lanzar-primeros-satelites-1345022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/satelites-amazon-3188736.jpg?tf=1200x' alt='¿Humillación o pragmatismo? Amazon contrata a su gran rival, la dueña de Starlink, SpaceX, para poner en órbita sus primeros satélites' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/cybertruck-para-ninos-1500-dolares-autonomia-20-kilometros-1345016'>Tesla pone a la venta un cybertruck por solo 1.500 dólares, con una autonomía de 20 Kilómetros</a></h4>
     <a href='https://computerhoy.com/motor/cybertruck-para-ninos-1500-dolares-autonomia-20-kilometros-1345016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tesla-pone-venta-cybertruck-solo-1500-dolares-autonomia-20-kilometros-3240062.jpg?tf=1200x' alt='Tesla pone a la venta un cybertruck por solo 1.500 dólares, con una autonomía de 20 Kilómetros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-retrasa-ultimo-momento-lanzamiento-gemini-nuevo-modelo-ia-promete-desbancar-chatgpt-1344988'>Google retrasa en el último momento el lanzamiento de Gemini, su nuevo modelo de IA que promete desbancar a ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-retrasa-ultimo-momento-lanzamiento-gemini-nuevo-modelo-ia-promete-desbancar-chatgpt-1344988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='Google retrasa en el último momento el lanzamiento de Gemini, su nuevo modelo de IA que promete desbancar a ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/practicamente-seguro-2023-sera-ano-caluroso-historia-naciones-unidas-1344982'>“Es prácticamente seguro” que 2023 será el año más caluroso de la historia, según las Naciones Unidas</a></h4>
-    <a href='https://computerhoy.com/life/practicamente-seguro-2023-sera-ano-caluroso-historia-naciones-unidas-1344982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cambio-climatico-3239892.jpg?tf=1200x' alt='“Es prácticamente seguro” que 2023 será el año más caluroso de la historia, según las Naciones Unidas' />
     </a>
 </div>
 
