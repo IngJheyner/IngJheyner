@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/moviles-snapdragon-8-gen-2-1208104'>Estos son los mejores móviles con Snapdragon 8 Gen 2, uno de los procesadores más potentes del mundo</a></h4>
+    <a href='https://computerhoy.com/mejores/moviles-snapdragon-8-gen-2-1208104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/samsung-galaxy-s23-ultra-analisis-opinion-2961018.jpg?tf=1200x' alt='Estos son los mejores móviles con Snapdragon 8 Gen 2, uno de los procesadores más potentes del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/desvelan-truco-foto-mas-famosa-mundo-almuerzo-rascacielos-1344826'>Se desvela el truco de la foto más famosa de la historia</a></h4>
     <a href='https://computerhoy.com/tecnologia/desvelan-truco-foto-mas-famosa-mundo-almuerzo-rascacielos-1344826' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/verdadera-historia-fotografias-famosas-todos-tiempos-2091845.jpg?tf=1200x' alt='Se desvela el truco de la foto más famosa de la historia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-quiere-reacciones-emoji-fotos-hoteles-google-maps-1344812'>Google quiere que reacciones con emoji en las fotos de hoteles en Google Maps</a></h4>
     <a href='https://computerhoy.com/apps/google-quiere-reacciones-emoji-fotos-hoteles-google-maps-1344812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/rutas-google-maps-3119840.jpg?tf=1200x' alt='Google quiere que reacciones con emoji en las fotos de hoteles en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/amazon-renueva-completo-aplicacion-alexa-todas-estas-nuevas-funciones-1344774'>Amazon renueva por completo la aplicación de Alexa con todas estas nuevas funciones</a></h4>
-    <a href='https://computerhoy.com/apps/amazon-renueva-completo-aplicacion-alexa-todas-estas-nuevas-funciones-1344774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicacion-alexa-3239506.jpg?tf=1200x' alt='Amazon renueva por completo la aplicación de Alexa con todas estas nuevas funciones' />
     </a>
 </div>
 
