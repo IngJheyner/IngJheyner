@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-te-controlan-whatsapp-1344522'>Cómo saber si te controlan el WhatsApp sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-te-controlan-whatsapp-1344522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-te-controlan-whatsapp-instalar-nada-3239054.jpg?tf=1200x' alt='Cómo saber si te controlan el WhatsApp sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/gran-apagon-tecnologico-1344422'>El riesgo de un gran apagón tecnológico es más real que nunca: ¿estás preparado?</a></h4>
+    <a href='https://computerhoy.com/ciencia/gran-apagon-tecnologico-1344422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gran-apagon-tecnologico-como-afrontarlo-posibilidades-hay-suceda-3238622.jpg?tf=1200x' alt='El riesgo de un gran apagón tecnológico es más real que nunca: ¿estás preparado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/estas-busquedas-google-pueden-infectar-dispositivo-malware-1345408'>¡Cuidado! Estas búsquedas en Google pueden infectar tu dispositivo con malware</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estas-busquedas-google-pueden-infectar-dispositivo-malware-1345408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/taylor-swift-2716531.jpg?tf=1200x' alt='¡Cuidado! Estas búsquedas en Google pueden infectar tu dispositivo con malware' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/nintendo-switch-minicaracteristicas-lanzamiento-precio-posible-1345386'>Nintendo Switch Mini o Micro: posibles características, lanzamiento, precio y todo lo que ya sabemos</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-switch-minicaracteristicas-lanzamiento-precio-posible-1345386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nintendo-switch-mini-micro-posibles-caracteristicas-lanzamiento-precio-todo-ya-sabemos-3240922.jpg?tf=1200x' alt='Nintendo Switch Mini o Micro: posibles características, lanzamiento, precio y todo lo que ya sabemos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-no-quiere-uses-barra-tareas-windows-10-windows-11-1345392'>¡Sorpresa! Microsoft no quiere que uses la barra de tareas de Windows 10 en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-no-quiere-uses-barra-tareas-windows-10-windows-11-1345392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-3013954.jpg?tf=1200x' alt='¡Sorpresa! Microsoft no quiere que uses la barra de tareas de Windows 10 en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/topo-creia-extinto-pero-solo-habia-escondido-nosotros-1345370'>Este topo se creía extinto desde 1937, pero solo se había escondido de nosotros </a></h4>
-    <a href='https://computerhoy.com/life/topo-creia-extinto-pero-solo-habia-escondido-nosotros-1345370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/redescubriendo-animales-creian-extintos-pero-solo-han-escondido-nosotros-3240906.jpg?tf=1200x' alt='Este topo se creía extinto desde 1937, pero solo se había escondido de nosotros ' />
     </a>
 </div>
 
