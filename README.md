@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estas-busquedas-google-pueden-infectar-dispositivo-malware-1345408'>¡Cuidado! Estas búsquedas en Google pueden infectar tu dispositivo con malware</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estas-busquedas-google-pueden-infectar-dispositivo-malware-1345408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/taylor-swift-2716531.jpg?tf=1200x' alt='¡Cuidado! Estas búsquedas en Google pueden infectar tu dispositivo con malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejor-hora-hacer-compras-navidad-google-maps-1345350'>Esta es la mejor hora para hacer las compras de Navidad, según Google Maps</a></h4>
+    <a href='https://computerhoy.com/life/mejor-hora-hacer-compras-navidad-google-maps-1345350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mejor-hora-hacer-compras-navidad-google-maps-3240832.jpg?tf=1200x' alt='Esta es la mejor hora para hacer las compras de Navidad, según Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-minicaracteristicas-lanzamiento-precio-posible-1345386'>Nintendo Switch Mini o Micro: posibles características, lanzamiento, precio y todo lo que ya sabemos</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-minicaracteristicas-lanzamiento-precio-posible-1345386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nintendo-switch-mini-micro-posibles-caracteristicas-lanzamiento-precio-todo-ya-sabemos-3240922.jpg?tf=1200x' alt='Nintendo Switch Mini o Micro: posibles características, lanzamiento, precio y todo lo que ya sabemos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-no-quiere-uses-barra-tareas-windows-10-windows-11-1345392'>¡Sorpresa! Microsoft no quiere que uses la barra de tareas de Windows 10 en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-no-quiere-uses-barra-tareas-windows-10-windows-11-1345392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-3013954.jpg?tf=1200x' alt='¡Sorpresa! Microsoft no quiere que uses la barra de tareas de Windows 10 en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/topo-creia-extinto-pero-solo-habia-escondido-nosotros-1345370'>Este topo se creía extinto desde 1937, pero solo se había escondido de nosotros </a></h4>
     <a href='https://computerhoy.com/life/topo-creia-extinto-pero-solo-habia-escondido-nosotros-1345370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/redescubriendo-animales-creian-extintos-pero-solo-han-escondido-nosotros-3240906.jpg?tf=1200x' alt='Este topo se creía extinto desde 1937, pero solo se había escondido de nosotros ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-puso-prueba-windows-98-carrito-usb-muerte-destruia-pc-segundos-funcionaba-1345286'>Microsoft puso a prueba Windows 98 con el "Carrito USB de la Muerte" que destruía PC en segundos: así funcionaba </a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-puso-prueba-windows-98-carrito-usb-muerte-destruia-pc-segundos-funcionaba-1345286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-windows-98-3240696.jpg?tf=1200x' alt='Microsoft puso a prueba Windows 98 con el "Carrito USB de la Muerte" que destruía PC en segundos: así funcionaba ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-gps-garmin-tactico-montana-precio-ganga-va-volar-1345266'>El reloj GPS Garmin más táctico para la montaña está a precio de ganga, y va a volar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-gps-garmin-tactico-montana-precio-ganga-va-volar-1345266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-instinct-2-camo-3240630.jpg?tf=1200x' alt='El reloj GPS Garmin más táctico para la montaña está a precio de ganga, y va a volar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/adios-agujas-crean-vacuna-liquida-aplica-piel-produce-anticuerpos-1345254'>Adiós a las agujas: crean una vacuna líquida que se aplica en la piel y que produce más anticuerpos</a></h4>
-    <a href='https://computerhoy.com/ciencia/adios-agujas-crean-vacuna-liquida-aplica-piel-produce-anticuerpos-1345254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vacunas-3240644.jpg?tf=1200x' alt='Adiós a las agujas: crean una vacuna líquida que se aplica en la piel y que produce más anticuerpos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/transmitir-22-veces-trafico-global-internet-segundo-ya-posible-1345226'>¿Transmitir más de 20 veces el tráfico global de Internet en un segundo? Ya es posible</a></h4>
-    <a href='https://computerhoy.com/internet/transmitir-22-veces-trafico-global-internet-segundo-ya-posible-1345226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/velocidad-internet-fibra-optica-3240614.jpg?tf=1200x' alt='¿Transmitir más de 20 veces el tráfico global de Internet en un segundo? Ya es posible' />
     </a>
 </div>
 
