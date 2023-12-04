@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-consolas-retro-como-game-boy-puedes-comprar-aliexpress-1345030'>5 consolas retro como las Game Boy que puedes comprar en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-consolas-retro-como-game-boy-puedes-comprar-aliexpress-1345030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/game-boy-clon-aliexpress-3240366.jpg?tf=1200x' alt='5 consolas retro como las Game Boy que puedes comprar en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/pinguinos-barbijo-nunca-duerme-10000-siestas-4-segundos-dia-1345034'>Descubren que esta especie de pingüino nunca duerme: se echa 10.000 siestas de 4 segundos al día</a></h4>
     <a href='https://computerhoy.com/ciencia/pinguinos-barbijo-nunca-duerme-10000-siestas-4-segundos-dia-1345034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-especie-pinguinos-nunca-duermen-echan-10000-siestas-4-segundos-dia-3240376.jpg?tf=1200x' alt='Descubren que esta especie de pingüino nunca duerme: se echa 10.000 siestas de 4 segundos al día' />
@@ -66,25 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/amazon-contrata-gran-rival-spacex-lanzar-primeros-satelites-1345022'>¿Humillación o pragmatismo? Amazon contrata a su gran rival, SpaceX, la dueña de Starlink, para poner en órbita sus satélites</a></h4>
+    <h4><a href='https://computerhoy.com/espacio/amazon-contrata-gran-rival-spacex-lanzar-primeros-satelites-1345022'>¿Humillación o pragmatismo? Amazon contrata a su gran rival SpaceX, dueña de Starlink, para poner en órbita sus primeros satélites</a></h4>
     <a href='https://computerhoy.com/espacio/amazon-contrata-gran-rival-spacex-lanzar-primeros-satelites-1345022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/satelites-amazon-3188736.jpg?tf=1200x' alt='¿Humillación o pragmatismo? Amazon contrata a su gran rival, SpaceX, la dueña de Starlink, para poner en órbita sus satélites' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/satelites-amazon-3188736.jpg?tf=1200x' alt='¿Humillación o pragmatismo? Amazon contrata a su gran rival SpaceX, dueña de Starlink, para poner en órbita sus primeros satélites' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cybertruck-para-ninos-1500-dolares-autonomia-20-kilometros-1345016'>Tesla pone a la venta un cybertruck por solo 1.500 dólares, con una autonomía de 20 Kilómetros</a></h4>
+    <h4><a href='https://computerhoy.com/motor/cybertruck-para-ninos-1500-dolares-autonomia-20-kilometros-1345016'>Tesla pone a la venta un Cybertruck por solo 1.500 dólares, con una autonomía de 20 Kilómetros</a></h4>
     <a href='https://computerhoy.com/motor/cybertruck-para-ninos-1500-dolares-autonomia-20-kilometros-1345016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tesla-pone-venta-cybertruck-solo-1500-dolares-autonomia-20-kilometros-3240062.jpg?tf=1200x' alt='Tesla pone a la venta un cybertruck por solo 1.500 dólares, con una autonomía de 20 Kilómetros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/estafas-tarjeta-grafica-amazon-sapphire-alerta-1345008'>Cuidado a quién compras una tarjeta gráfica en Amazon: un fabricante alerta de las estafas</a></h4>
-    <a href='https://computerhoy.com/pc/estafas-tarjeta-grafica-amazon-sapphire-alerta-1345008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sapphire-pulse-amd-radeon-rx-7900-xt-3014702.jpg?tf=1200x' alt='Cuidado a quién compras una tarjeta gráfica en Amazon: un fabricante alerta de las estafas' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tesla-pone-venta-cybertruck-solo-1500-dolares-autonomia-20-kilometros-3240062.jpg?tf=1200x' alt='Tesla pone a la venta un Cybertruck por solo 1.500 dólares, con una autonomía de 20 Kilómetros' />
     </a>
 </div>
 
