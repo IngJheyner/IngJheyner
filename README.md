@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/transmitir-22-veces-trafico-global-internet-segundo-ya-posible-1345226'>¿Transmitir más de 20 veces el tráfico global de Internet en un segundo? Ya es posible</a></h4>
+    <a href='https://computerhoy.com/internet/transmitir-22-veces-trafico-global-internet-segundo-ya-posible-1345226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/velocidad-internet-fibra-optica-3240614.jpg?tf=1200x' alt='¿Transmitir más de 20 veces el tráfico global de Internet en un segundo? Ya es posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/corre-amazon-google-pixel-8-tiene-descuentazo-incluye-gratis-mejores-auriculares-marca-1345180'>Corre a Amazon: el Google Pixel 8 tiene un descuentazo e incluye gratis los mejores auriculares de la marca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/corre-amazon-google-pixel-8-tiene-descuentazo-incluye-gratis-mejores-auriculares-marca-1345180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-3188558.jpg?tf=1200x' alt='Corre a Amazon: el Google Pixel 8 tiene un descuentazo e incluye gratis los mejores auriculares de la marca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cuadros-famosos-van-gogh-oculta-secreto-visto-pocos-1345218'>Uno de los cuadros más famosos de Van Gogh oculta un secreto visto por pocos</a></h4>
+    <a href='https://computerhoy.com/ciencia/cuadros-famosos-van-gogh-oculta-secreto-visto-pocos-1345218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cuadro-van-gogh-3240568.jpg?tf=1200x' alt='Uno de los cuadros más famosos de Van Gogh oculta un secreto visto por pocos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/microsoft-365-planes-existen-cual-te-conviene-necesidades-1345032'>Microsoft 365: qué planes existen y cuál te conviene más según tus necesidades </a></h4>
+    <a href='https://computerhoy.com/apps/microsoft-365-planes-existen-cual-te-conviene-necesidades-1345032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/microsoft-365-3068988.jpg?tf=1200x' alt='Microsoft 365: qué planes existen y cuál te conviene más según tus necesidades ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/mapa-muestra-cuales-son-marcas-moviles-vendidas-cada-continente-1335014'>El mapa que muestra cuáles son las marcas de móviles más vendidas en cada continente</a></h4>
     <a href='https://computerhoy.com/moviles/mapa-muestra-cuales-son-marcas-moviles-vendidas-cada-continente-1335014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mapa-marcas-moviles-vendidas-mundo-regiones-3227696.jpg?tf=1200x' alt='El mapa que muestra cuáles son las marcas de móviles más vendidas en cada continente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-consolas-retro-como-game-boy-puedes-comprar-aliexpress-1345030'>5 consolas retro como las Game Boy que puedes comprar en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-consolas-retro-como-game-boy-puedes-comprar-aliexpress-1345030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/game-boy-clon-aliexpress-3240366.jpg?tf=1200x' alt='5 consolas retro como las Game Boy que puedes comprar en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/pinguinos-barbijo-nunca-duerme-10000-siestas-4-segundos-dia-1345034'>Descubren que esta especie de pingüino nunca duerme: se echa 10.000 siestas de 4 segundos al día</a></h4>
-    <a href='https://computerhoy.com/ciencia/pinguinos-barbijo-nunca-duerme-10000-siestas-4-segundos-dia-1345034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-especie-pinguinos-nunca-duermen-echan-10000-siestas-4-segundos-dia-3240376.jpg?tf=1200x' alt='Descubren que esta especie de pingüino nunca duerme: se echa 10.000 siestas de 4 segundos al día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/playstation-borra-docenas-series-discovery-usuarios-compraron-1345028'>La vida efímera de lo digital: PlayStation borra docenas de series a los usuarios que las compraron</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/playstation-borra-docenas-series-discovery-usuarios-compraron-1345028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vida-efimera-digital-playstation-borra-docenas-series-usuarios-compraron-3240290.jpg?tf=1200x' alt='La vida efímera de lo digital: PlayStation borra docenas de series a los usuarios que las compraron' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/amazon-contrata-gran-rival-spacex-lanzar-primeros-satelites-1345022'>¿Humillación o pragmatismo? Amazon contrata a su gran rival SpaceX, dueña de Starlink, para poner en órbita sus primeros satélites</a></h4>
-    <a href='https://computerhoy.com/espacio/amazon-contrata-gran-rival-spacex-lanzar-primeros-satelites-1345022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/satelites-amazon-3188736.jpg?tf=1200x' alt='¿Humillación o pragmatismo? Amazon contrata a su gran rival SpaceX, dueña de Starlink, para poner en órbita sus primeros satélites' />
     </a>
 </div>
 
