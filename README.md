@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-puso-prueba-windows-98-carrito-usb-muerte-destruia-pc-segundos-funcionaba-1345286'>Microsoft puso a prueba Windows 98 con el "Carrito USB de la Muerte" que destruía PC en segundos: así funcionaba </a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-puso-prueba-windows-98-carrito-usb-muerte-destruia-pc-segundos-funcionaba-1345286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-windows-98-3240696.jpg?tf=1200x' alt='Microsoft puso a prueba Windows 98 con el "Carrito USB de la Muerte" que destruía PC en segundos: así funcionaba ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-gps-garmin-tactico-montana-precio-ganga-va-volar-1345266'>El reloj GPS Garmin más táctico para la montaña está a precio de ganga, y va a volar</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-gps-garmin-tactico-montana-precio-ganga-va-volar-1345266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-instinct-2-camo-3240630.jpg?tf=1200x' alt='El reloj GPS Garmin más táctico para la montaña está a precio de ganga, y va a volar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/corre-amazon-google-pixel-8-tiene-descuentazo-incluye-gratis-mejores-auriculares-marca-1345180'>Corre a Amazon: el Google Pixel 8 tiene un descuentazo e incluye gratis los mejores auriculares de la marca</a></h4>
     <a href='https://computerhoy.com/tecnologia/corre-amazon-google-pixel-8-tiene-descuentazo-incluye-gratis-mejores-auriculares-marca-1345180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-3188558.jpg?tf=1200x' alt='Corre a Amazon: el Google Pixel 8 tiene un descuentazo e incluye gratis los mejores auriculares de la marca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cuadros-famosos-van-gogh-oculta-secreto-visto-pocos-1345218'>Uno de los cuadros más famosos de Van Gogh oculta un secreto visto por pocos</a></h4>
-    <a href='https://computerhoy.com/ciencia/cuadros-famosos-van-gogh-oculta-secreto-visto-pocos-1345218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cuadro-van-gogh-3240568.jpg?tf=1200x' alt='Uno de los cuadros más famosos de Van Gogh oculta un secreto visto por pocos' />
     </a>
 </div>
 
