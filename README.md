@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/demandan-vendedores-listas-iptv-pirata-no-declarar-iva-1345584'>¡De locos! Demandan a vendedores de listas IPTV pirata por no declarar el IVA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/demandan-vendedores-listas-iptv-pirata-no-declarar-iva-1345584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/locos-demandan-vendedores-listas-iptv-pirata-no-declarar-iva-3241352.jpg?tf=1200x' alt='¡De locos! Demandan a vendedores de listas IPTV pirata por no declarar el IVA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-apple-tv-paquetes-descuento-companias-rivales-1345586'>Este es el futuro del streaming: Netflix, HBO Max y Apple TV+ aceptan entrar en paquetes descuento con compañías rivales</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-apple-tv-paquetes-descuento-companias-rivales-1345586' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/futuro-streaming-netflix-apple-tv-aceptan-entrar-paquetes-descuento-companias-rivales-3241302.jpg?tf=1200x' alt='Este es el futuro del streaming: Netflix, HBO Max y Apple TV+ aceptan entrar en paquetes descuento con compañías rivales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/culpable-bajada-rendimiento-actualizacion-windows-11-23h2-1345568'>Este es el culpable de la bajada de rendimiento tras la actualización Windows 11 23H2</a></h4>
     <a href='https://computerhoy.com/windows/culpable-bajada-rendimiento-actualizacion-windows-11-23h2-1345568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aplicaciones-abiertas-windows-11-3150200.jpg?tf=1200x' alt='Este es el culpable de la bajada de rendimiento tras la actualización Windows 11 23H2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/internet-lento-adorno-navidad-culpable-1345234'>¿Internet va demasiado lento? Este adorno navideño que tienes en casa podría ser el culpable</a></h4>
-    <a href='https://computerhoy.com/hogar/internet-lento-adorno-navidad-culpable-1345234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/adornos-navidad-3241222.jpg?tf=1200x' alt='¿Internet va demasiado lento? Este adorno navideño que tienes en casa podría ser el culpable' />
     </a>
 </div>
 
