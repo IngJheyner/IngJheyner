@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/mapa-muestra-cuales-son-marcas-moviles-vendidas-cada-continente-1335014'>El mapa que muestra cuáles son las marcas de móviles más vendidas en cada continente</a></h4>
+    <a href='https://computerhoy.com/moviles/mapa-muestra-cuales-son-marcas-moviles-vendidas-cada-continente-1335014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mapa-marcas-moviles-vendidas-mundo-regiones-3227696.jpg?tf=1200x' alt='El mapa que muestra cuáles son las marcas de móviles más vendidas en cada continente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/5-consolas-retro-como-game-boy-puedes-comprar-aliexpress-1345030'>5 consolas retro como las Game Boy que puedes comprar en AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/5-consolas-retro-como-game-boy-puedes-comprar-aliexpress-1345030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/game-boy-clon-aliexpress-3240366.jpg?tf=1200x' alt='5 consolas retro como las Game Boy que puedes comprar en AliExpress' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/amazon-contrata-gran-rival-spacex-lanzar-primeros-satelites-1345022'>¿Humillación o pragmatismo? Amazon contrata a su gran rival SpaceX, dueña de Starlink, para poner en órbita sus primeros satélites</a></h4>
     <a href='https://computerhoy.com/espacio/amazon-contrata-gran-rival-spacex-lanzar-primeros-satelites-1345022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/satelites-amazon-3188736.jpg?tf=1200x' alt='¿Humillación o pragmatismo? Amazon contrata a su gran rival SpaceX, dueña de Starlink, para poner en órbita sus primeros satélites' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cybertruck-para-ninos-1500-dolares-autonomia-20-kilometros-1345016'>Tesla pone a la venta un Cybertruck por solo 1.500 dólares, con una autonomía de 20 Kilómetros</a></h4>
-    <a href='https://computerhoy.com/motor/cybertruck-para-ninos-1500-dolares-autonomia-20-kilometros-1345016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tesla-pone-venta-cybertruck-solo-1500-dolares-autonomia-20-kilometros-3240062.jpg?tf=1200x' alt='Tesla pone a la venta un Cybertruck por solo 1.500 dólares, con una autonomía de 20 Kilómetros' />
     </a>
 </div>
 
