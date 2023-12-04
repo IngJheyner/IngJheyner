@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/pinguinos-barbijo-nunca-duerme-10000-siestas-4-segundos-dia-1345034'>Descubren que esta especie de pingüino nunca duerme: se echan 10.000 siestas de 4 segundos al día</a></h4>
+    <h4><a href='https://computerhoy.com/ciencia/pinguinos-barbijo-nunca-duerme-10000-siestas-4-segundos-dia-1345034'>Descubren que esta especie de pingüino nunca duerme: se echa 10.000 siestas de 4 segundos al día</a></h4>
     <a href='https://computerhoy.com/ciencia/pinguinos-barbijo-nunca-duerme-10000-siestas-4-segundos-dia-1345034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-especie-pinguinos-nunca-duermen-echan-10000-siestas-4-segundos-dia-3240376.jpg?tf=1200x' alt='Descubren que esta especie de pingüino nunca duerme: se echan 10.000 siestas de 4 segundos al día' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-especie-pinguinos-nunca-duermen-echan-10000-siestas-4-segundos-dia-3240376.jpg?tf=1200x' alt='Descubren que esta especie de pingüino nunca duerme: se echa 10.000 siestas de 4 segundos al día' />
     </a>
 </div>
 
