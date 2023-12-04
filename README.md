@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/jarro-agua-fria-toyota-coche-electrico-ansiadas-nuevas-baterias-1345476'>Jarro de agua fría de Toyota al coche eléctrico y las ansiadas nuevas baterías</a></h4>
+    <a href='https://computerhoy.com/motor/jarro-agua-fria-toyota-coche-electrico-ansiadas-nuevas-baterias-1345476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/jarro-agua-fria-toyota-coche-electrico-ansiada-nueva-generacion-baterias-3241114.jpg?tf=1200x' alt='Jarro de agua fría de Toyota al coche eléctrico y las ansiadas nuevas baterías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/relacion-toxica-tecnologia-claves-1326202'>¿Tienes una relación tóxica con la tecnología? 5 claves para detectarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/relacion-toxica-tecnologia-claves-1326202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tienes-relacion-toxica-tecnologia-5-claves-detectarlo-3206278.jpg?tf=1200x' alt='¿Tienes una relación tóxica con la tecnología? 5 claves para detectarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/reactor-fusion-nuclear-tokamak-grande-mundo-1345464'>Así es el impresionante reactor de fusión nuclear Tokamak, el más grande del mundo, casi sin residuos tóxicos</a></h4>
     <a href='https://computerhoy.com/energia/reactor-fusion-nuclear-tokamak-grande-mundo-1345464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/reactor-tokamak-japones-grande-mundo-3241094.jpg?tf=1200x' alt='Así es el impresionante reactor de fusión nuclear Tokamak, el más grande del mundo, casi sin residuos tóxicos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-gremlins-1345510'>Qué película ver en la TDT hoy: no lo mojes, no lo alimentes, que no le dé la luz después de medianoche</a></h4>
     <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-gremlins-1345510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-ver-tdt-hoy-no-mojes-no-alimentes-no-luz-despues-medianoche-3241140.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: no lo mojes, no lo alimentes, que no le dé la luz después de medianoche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/amd-intel-como-elegir-procesador-portatil-1340478'>¿Intel o AMD? Qué tipo de procesador debes elegir al comprar un portátil para trabajar o estudiar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/amd-intel-como-elegir-procesador-portatil-1340478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tipo-procesador-debes-fijarte-antes-comprar-portatil-trabajar-estudiar-3231474.jpg?tf=1200x' alt='¿Intel o AMD? Qué tipo de procesador debes elegir al comprar un portátil para trabajar o estudiar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-te-controlan-whatsapp-1344522'>Cómo saber si te controlan el WhatsApp sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-te-controlan-whatsapp-1344522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-te-controlan-whatsapp-instalar-nada-3239054.jpg?tf=1200x' alt='Cómo saber si te controlan el WhatsApp sin instalar nada' />
     </a>
 </div>
 
