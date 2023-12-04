@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-apple-tv-paquetes-descuento-companias-rivales-1345586'>Este es el futuro del streaming: Netflix, HBO Max y Apple TV+ aceptan entrar en paquetes descuento con compañías rivales</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-apple-tv-paquetes-descuento-companias-rivales-1345586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/futuro-streaming-netflix-apple-tv-aceptan-entrar-paquetes-descuento-companias-rivales-3241302.jpg?tf=1200x' alt='Este es el futuro del streaming: Netflix, HBO Max y Apple TV+ aceptan entrar en paquetes descuento con compañías rivales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/nothing-phone-2-mayor-rival-pixel-baja-precio-minimo-amazon-1345360'>El Nothing Phone (2), el mayor rival de los Pixel, baja a precio mínimo en Amazon</a></h4>
+    <a href='https://computerhoy.com/android/nothing-phone-2-mayor-rival-pixel-baja-precio-minimo-amazon-1345360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-phone-2-3083276.jpg?tf=1200x' alt='El Nothing Phone (2), el mayor rival de los Pixel, baja a precio mínimo en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/despidete-todos-relojes-tierra-evoluciona-dias-25-horas-1345572'>Despídete de todos tus relojes: la Tierra evoluciona hacia los días de 25 horas</a></h4>
     <a href='https://computerhoy.com/life/despidete-todos-relojes-tierra-evoluciona-dias-25-horas-1345572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/rotacion-tierra-3241310.jpg?tf=1200x' alt='Despídete de todos tus relojes: la Tierra evoluciona hacia los días de 25 horas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/internet-lento-adorno-navidad-culpable-1345234'>¿Internet va demasiado lento? Este adorno navideño que tienes en casa podría ser el culpable</a></h4>
     <a href='https://computerhoy.com/hogar/internet-lento-adorno-navidad-culpable-1345234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/adornos-navidad-3241222.jpg?tf=1200x' alt='¿Internet va demasiado lento? Este adorno navideño que tienes en casa podría ser el culpable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/padre-era-famoso-ladron-bancos-no-supo-muerte-cuando-encontro-foto-internet-1345506'>Su padre era famoso ladrón de bancos, no lo supo hasta su muerte cuando encontró su foto en internet</a></h4>
-    <a href='https://computerhoy.com/life/padre-era-famoso-ladron-bancos-no-supo-muerte-cuando-encontro-foto-internet-1345506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/padre-era-ladron-bancos-pero-no-supo-confeso-antes-morir-3241178.jpg?tf=1200x' alt='Su padre era famoso ladrón de bancos, no lo supo hasta su muerte cuando encontró su foto en internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/idioma-dificil-aprender-mundo-1343506'>Ni vasco, mandarín o húngaro, este es el idioma más difícil de aprender del mundo</a></h4>
-    <a href='https://computerhoy.com/life/idioma-dificil-aprender-mundo-1343506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ni-vasco-mandarin-hungaro-idioma-dificil-aprender-mundo-3236908.jpg?tf=1200x' alt='Ni vasco, mandarín o húngaro, este es el idioma más difícil de aprender del mundo' />
     </a>
 </div>
 
