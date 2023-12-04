@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/internet-lento-adorno-navidad-culpable-1345234'>¿Internet va demasiado lento? Este adorno navideño que tienes en casa podría ser el culpable</a></h4>
+    <a href='https://computerhoy.com/hogar/internet-lento-adorno-navidad-culpable-1345234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/adornos-navidad-3241222.jpg?tf=1200x' alt='¿Internet va demasiado lento? Este adorno navideño que tienes en casa podría ser el culpable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/padre-era-famoso-ladron-bancos-no-supo-muerte-cuando-encontro-foto-internet-1345506'>Su padre era famoso ladrón de bancos, no lo supo hasta su muerte cuando encontró su foto en internet</a></h4>
+    <a href='https://computerhoy.com/life/padre-era-famoso-ladron-bancos-no-supo-muerte-cuando-encontro-foto-internet-1345506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/padre-era-ladron-bancos-pero-no-supo-confeso-antes-morir-3241178.jpg?tf=1200x' alt='Su padre era famoso ladrón de bancos, no lo supo hasta su muerte cuando encontró su foto en internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/idioma-dificil-aprender-mundo-1343506'>Ni vasco, mandarín o húngaro, este es el idioma más difícil de aprender del mundo</a></h4>
+    <a href='https://computerhoy.com/life/idioma-dificil-aprender-mundo-1343506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ni-vasco-mandarin-hungaro-idioma-dificil-aprender-mundo-3236908.jpg?tf=1200x' alt='Ni vasco, mandarín o húngaro, este es el idioma más difícil de aprender del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/jarro-agua-fria-toyota-coche-electrico-ansiadas-nuevas-baterias-1345476'>Jarro de agua fría de Toyota al coche eléctrico y las ansiadas nuevas baterías</a></h4>
     <a href='https://computerhoy.com/motor/jarro-agua-fria-toyota-coche-electrico-ansiadas-nuevas-baterias-1345476' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/jarro-agua-fria-toyota-coche-electrico-ansiada-nueva-generacion-baterias-3241114.jpg?tf=1200x' alt='Jarro de agua fría de Toyota al coche eléctrico y las ansiadas nuevas baterías' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/relacion-toxica-tecnologia-claves-1326202'>¿Tienes una relación tóxica con la tecnología? 5 claves para detectarlo</a></h4>
     <a href='https://computerhoy.com/tecnologia/relacion-toxica-tecnologia-claves-1326202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tienes-relacion-toxica-tecnologia-5-claves-detectarlo-3206278.jpg?tf=1200x' alt='¿Tienes una relación tóxica con la tecnología? 5 claves para detectarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/reactor-fusion-nuclear-tokamak-grande-mundo-1345464'>Así es el impresionante reactor de fusión nuclear Tokamak, el más grande del mundo, casi sin residuos tóxicos</a></h4>
-    <a href='https://computerhoy.com/energia/reactor-fusion-nuclear-tokamak-grande-mundo-1345464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/reactor-tokamak-japones-grande-mundo-3241094.jpg?tf=1200x' alt='Así es el impresionante reactor de fusión nuclear Tokamak, el más grande del mundo, casi sin residuos tóxicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-airpods-baratos-cuestan-cuarta-parte-tienen-anc-1345222'>Amazon tumba el precio de sus AirPods baratos: cuestan la cuarta parte y tienen ANC</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-airpods-baratos-cuestan-cuarta-parte-tienen-anc-1345222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-echo-buds-2a-gen-2665799.jpg?tf=1200x' alt='Amazon tumba el precio de sus AirPods baratos: cuestan la cuarta parte y tienen ANC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-gremlins-1345510'>Qué película ver en la TDT hoy: no lo mojes, no lo alimentes, que no le dé la luz después de medianoche</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-gremlins-1345510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-ver-tdt-hoy-no-mojes-no-alimentes-no-luz-despues-medianoche-3241140.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: no lo mojes, no lo alimentes, que no le dé la luz después de medianoche' />
     </a>
 </div>
 
