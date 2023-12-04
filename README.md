@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/topo-creia-extinto-pero-solo-habia-escondido-nosotros-1345370'>Este topo se creía extinto desde 1937, pero solo se había escondido de nosotros </a></h4>
+    <a href='https://computerhoy.com/life/topo-creia-extinto-pero-solo-habia-escondido-nosotros-1345370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/redescubriendo-animales-creian-extintos-pero-solo-han-escondido-nosotros-3240906.jpg?tf=1200x' alt='Este topo se creía extinto desde 1937, pero solo se había escondido de nosotros ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-puso-prueba-windows-98-carrito-usb-muerte-destruia-pc-segundos-funcionaba-1345286'>Microsoft puso a prueba Windows 98 con el "Carrito USB de la Muerte" que destruía PC en segundos: así funcionaba </a></h4>
     <a href='https://computerhoy.com/windows/microsoft-puso-prueba-windows-98-carrito-usb-muerte-destruia-pc-segundos-funcionaba-1345286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-windows-98-3240696.jpg?tf=1200x' alt='Microsoft puso a prueba Windows 98 con el "Carrito USB de la Muerte" que destruía PC en segundos: así funcionaba ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/transmitir-22-veces-trafico-global-internet-segundo-ya-posible-1345226'>¿Transmitir más de 20 veces el tráfico global de Internet en un segundo? Ya es posible</a></h4>
     <a href='https://computerhoy.com/internet/transmitir-22-veces-trafico-global-internet-segundo-ya-posible-1345226' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/velocidad-internet-fibra-optica-3240614.jpg?tf=1200x' alt='¿Transmitir más de 20 veces el tráfico global de Internet en un segundo? Ya es posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/corre-amazon-google-pixel-8-tiene-descuentazo-incluye-gratis-mejores-auriculares-marca-1345180'>Corre a Amazon: el Google Pixel 8 tiene un descuentazo e incluye gratis los mejores auriculares de la marca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/corre-amazon-google-pixel-8-tiene-descuentazo-incluye-gratis-mejores-auriculares-marca-1345180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-3188558.jpg?tf=1200x' alt='Corre a Amazon: el Google Pixel 8 tiene un descuentazo e incluye gratis los mejores auriculares de la marca' />
     </a>
 </div>
 
