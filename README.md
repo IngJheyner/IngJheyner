@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/despidete-todos-relojes-tierra-evoluciona-dias-25-horas-1345572'>Despídete de todos tus relojes: la Tierra evoluciona hacia los días de 25 horas</a></h4>
+    <a href='https://computerhoy.com/life/despidete-todos-relojes-tierra-evoluciona-dias-25-horas-1345572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/rotacion-tierra-3241310.jpg?tf=1200x' alt='Despídete de todos tus relojes: la Tierra evoluciona hacia los días de 25 horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/culpable-bajada-rendimiento-actualizacion-windows-11-23h2-1345568'>Este es el culpable de la bajada de rendimiento tras la actualización Windows 11 23H2</a></h4>
+    <a href='https://computerhoy.com/windows/culpable-bajada-rendimiento-actualizacion-windows-11-23h2-1345568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aplicaciones-abiertas-windows-11-3150200.jpg?tf=1200x' alt='Este es el culpable de la bajada de rendimiento tras la actualización Windows 11 23H2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/internet-lento-adorno-navidad-culpable-1345234'>¿Internet va demasiado lento? Este adorno navideño que tienes en casa podría ser el culpable</a></h4>
     <a href='https://computerhoy.com/hogar/internet-lento-adorno-navidad-culpable-1345234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/adornos-navidad-3241222.jpg?tf=1200x' alt='¿Internet va demasiado lento? Este adorno navideño que tienes en casa podría ser el culpable' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/idioma-dificil-aprender-mundo-1343506'>Ni vasco, mandarín o húngaro, este es el idioma más difícil de aprender del mundo</a></h4>
     <a href='https://computerhoy.com/life/idioma-dificil-aprender-mundo-1343506' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ni-vasco-mandarin-hungaro-idioma-dificil-aprender-mundo-3236908.jpg?tf=1200x' alt='Ni vasco, mandarín o húngaro, este es el idioma más difícil de aprender del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/jarro-agua-fria-toyota-coche-electrico-ansiadas-nuevas-baterias-1345476'>Jarro de agua fría de Toyota al coche eléctrico y las ansiadas nuevas baterías</a></h4>
-    <a href='https://computerhoy.com/motor/jarro-agua-fria-toyota-coche-electrico-ansiadas-nuevas-baterias-1345476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/jarro-agua-fria-toyota-coche-electrico-ansiada-nueva-generacion-baterias-3241114.jpg?tf=1200x' alt='Jarro de agua fría de Toyota al coche eléctrico y las ansiadas nuevas baterías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/relacion-toxica-tecnologia-claves-1326202'>¿Tienes una relación tóxica con la tecnología? 5 claves para detectarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/relacion-toxica-tecnologia-claves-1326202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tienes-relacion-toxica-tecnologia-5-claves-detectarlo-3206278.jpg?tf=1200x' alt='¿Tienes una relación tóxica con la tecnología? 5 claves para detectarlo' />
     </a>
 </div>
 
