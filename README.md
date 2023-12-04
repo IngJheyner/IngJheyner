@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/amazon-contrata-gran-rival-spacex-lanzar-primeros-satelites-1345022'>¿Humillación o pragmatismo? Amazon contrata a su gran rival, la dueña de Starlink, SpaceX, para poner en órbita sus satélites</a></h4>
+    <h4><a href='https://computerhoy.com/espacio/amazon-contrata-gran-rival-spacex-lanzar-primeros-satelites-1345022'>¿Humillación o pragmatismo? Amazon contrata a su gran rival, SpaceX, la dueña de Starlink, para poner en órbita sus satélites</a></h4>
     <a href='https://computerhoy.com/espacio/amazon-contrata-gran-rival-spacex-lanzar-primeros-satelites-1345022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/satelites-amazon-3188736.jpg?tf=1200x' alt='¿Humillación o pragmatismo? Amazon contrata a su gran rival, la dueña de Starlink, SpaceX, para poner en órbita sus satélites' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/satelites-amazon-3188736.jpg?tf=1200x' alt='¿Humillación o pragmatismo? Amazon contrata a su gran rival, SpaceX, la dueña de Starlink, para poner en órbita sus satélites' />
     </a>
 </div>
 
