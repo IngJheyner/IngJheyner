@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/reactor-fusion-nuclear-tokamak-grande-mundo-1345464'>Así es el impresionante reactor de fusión nuclear Tokamak, el más grande del mundo, casi sin residuos tóxicos</a></h4>
+    <a href='https://computerhoy.com/energia/reactor-fusion-nuclear-tokamak-grande-mundo-1345464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/reactor-tokamak-japones-grande-mundo-3241094.jpg?tf=1200x' alt='Así es el impresionante reactor de fusión nuclear Tokamak, el más grande del mundo, casi sin residuos tóxicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-airpods-baratos-cuestan-cuarta-parte-tienen-anc-1345222'>Amazon tumba el precio de sus AirPods baratos: cuestan la cuarta parte y tienen ANC</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-airpods-baratos-cuestan-cuarta-parte-tienen-anc-1345222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-echo-buds-2a-gen-2665799.jpg?tf=1200x' alt='Amazon tumba el precio de sus AirPods baratos: cuestan la cuarta parte y tienen ANC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-gremlins-1345510'>Qué película ver en la TDT hoy: no lo mojes, no lo alimentes, que no le dé la luz después de medianoche</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-gremlins-1345510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-ver-tdt-hoy-no-mojes-no-alimentes-no-luz-despues-medianoche-3241140.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: no lo mojes, no lo alimentes, que no le dé la luz después de medianoche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/amd-intel-como-elegir-procesador-portatil-1340478'>¿Intel o AMD? Qué tipo de procesador debes elegir al comprar un portátil para trabajar o estudiar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/amd-intel-como-elegir-procesador-portatil-1340478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tipo-procesador-debes-fijarte-antes-comprar-portatil-trabajar-estudiar-3231474.jpg?tf=1200x' alt='¿Intel o AMD? Qué tipo de procesador debes elegir al comprar un portátil para trabajar o estudiar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-te-controlan-whatsapp-1344522'>Cómo saber si te controlan el WhatsApp sin instalar nada</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-te-controlan-whatsapp-1344522' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-te-controlan-whatsapp-instalar-nada-3239054.jpg?tf=1200x' alt='Cómo saber si te controlan el WhatsApp sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/gran-apagon-tecnologico-1344422'>El riesgo de un gran apagón tecnológico es más real que nunca: ¿estás preparado?</a></h4>
-    <a href='https://computerhoy.com/ciencia/gran-apagon-tecnologico-1344422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gran-apagon-tecnologico-como-afrontarlo-posibilidades-hay-suceda-3238622.jpg?tf=1200x' alt='El riesgo de un gran apagón tecnológico es más real que nunca: ¿estás preparado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estas-busquedas-google-pueden-infectar-dispositivo-malware-1345408'>¡Cuidado! Estas búsquedas en Google pueden infectar tu dispositivo con malware</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estas-busquedas-google-pueden-infectar-dispositivo-malware-1345408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/taylor-swift-2716531.jpg?tf=1200x' alt='¡Cuidado! Estas búsquedas en Google pueden infectar tu dispositivo con malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejor-hora-hacer-compras-navidad-google-maps-1345350'>Esta es la mejor hora para hacer las compras de Navidad, según Google Maps</a></h4>
-    <a href='https://computerhoy.com/life/mejor-hora-hacer-compras-navidad-google-maps-1345350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mejor-hora-hacer-compras-navidad-google-maps-3240832.jpg?tf=1200x' alt='Esta es la mejor hora para hacer las compras de Navidad, según Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-minicaracteristicas-lanzamiento-precio-posible-1345386'>Nintendo Switch Mini o Micro: posibles características, lanzamiento, precio y todo lo que ya sabemos</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-minicaracteristicas-lanzamiento-precio-posible-1345386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nintendo-switch-mini-micro-posibles-caracteristicas-lanzamiento-precio-todo-ya-sabemos-3240922.jpg?tf=1200x' alt='Nintendo Switch Mini o Micro: posibles características, lanzamiento, precio y todo lo que ya sabemos' />
     </a>
 </div>
 
