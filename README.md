@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-gps-garmin-tactico-montana-precio-ganga-va-volar-1345266'>El reloj GPS Garmin más táctico para la montaña está a precio de ganga, y va a volar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-gps-garmin-tactico-montana-precio-ganga-va-volar-1345266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-instinct-2-camo-3240630.jpg?tf=1200x' alt='El reloj GPS Garmin más táctico para la montaña está a precio de ganga, y va a volar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/adios-agujas-crean-vacuna-liquida-aplica-piel-produce-anticuerpos-1345254'>Adiós a las agujas: crean una vacuna líquida que se aplica en la piel y que produce más anticuerpos</a></h4>
+    <a href='https://computerhoy.com/ciencia/adios-agujas-crean-vacuna-liquida-aplica-piel-produce-anticuerpos-1345254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vacunas-3240644.jpg?tf=1200x' alt='Adiós a las agujas: crean una vacuna líquida que se aplica en la piel y que produce más anticuerpos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/transmitir-22-veces-trafico-global-internet-segundo-ya-posible-1345226'>¿Transmitir más de 20 veces el tráfico global de Internet en un segundo? Ya es posible</a></h4>
     <a href='https://computerhoy.com/internet/transmitir-22-veces-trafico-global-internet-segundo-ya-posible-1345226' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/velocidad-internet-fibra-optica-3240614.jpg?tf=1200x' alt='¿Transmitir más de 20 veces el tráfico global de Internet en un segundo? Ya es posible' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cuadros-famosos-van-gogh-oculta-secreto-visto-pocos-1345218'>Uno de los cuadros más famosos de Van Gogh oculta un secreto visto por pocos</a></h4>
     <a href='https://computerhoy.com/ciencia/cuadros-famosos-van-gogh-oculta-secreto-visto-pocos-1345218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cuadro-van-gogh-3240568.jpg?tf=1200x' alt='Uno de los cuadros más famosos de Van Gogh oculta un secreto visto por pocos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/microsoft-365-planes-existen-cual-te-conviene-necesidades-1345032'>Microsoft 365: qué planes existen y cuál te conviene más según tus necesidades </a></h4>
-    <a href='https://computerhoy.com/apps/microsoft-365-planes-existen-cual-te-conviene-necesidades-1345032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/microsoft-365-3068988.jpg?tf=1200x' alt='Microsoft 365: qué planes existen y cuál te conviene más según tus necesidades ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mapa-muestra-cuales-son-marcas-moviles-vendidas-cada-continente-1335014'>El mapa que muestra cuáles son las marcas de móviles más vendidas en cada continente</a></h4>
-    <a href='https://computerhoy.com/moviles/mapa-muestra-cuales-son-marcas-moviles-vendidas-cada-continente-1335014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mapa-marcas-moviles-vendidas-mundo-regiones-3227696.jpg?tf=1200x' alt='El mapa que muestra cuáles son las marcas de móviles más vendidas en cada continente' />
     </a>
 </div>
 
