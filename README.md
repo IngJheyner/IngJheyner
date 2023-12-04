@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/pinguinos-barbijo-nunca-duerme-10000-siestas-4-segundos-dia-1345034'>Descubren que esta especie de pingüino nunca duerme: se echan 10.000 siestas de 4 segundos al día</a></h4>
+    <a href='https://computerhoy.com/ciencia/pinguinos-barbijo-nunca-duerme-10000-siestas-4-segundos-dia-1345034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-especie-pinguinos-nunca-duermen-echan-10000-siestas-4-segundos-dia-3240376.jpg?tf=1200x' alt='Descubren que esta especie de pingüino nunca duerme: se echan 10.000 siestas de 4 segundos al día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/playstation-borra-docenas-series-discovery-usuarios-compraron-1345028'>La vida efímera de lo digital: PlayStation borra docenas de series a los usuarios que las compraron</a></h4>
     <a href='https://computerhoy.com/entretenimiento/playstation-borra-docenas-series-discovery-usuarios-compraron-1345028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vida-efimera-digital-playstation-borra-docenas-series-usuarios-compraron-3240290.jpg?tf=1200x' alt='La vida efímera de lo digital: PlayStation borra docenas de series a los usuarios que las compraron' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/estafas-tarjeta-grafica-amazon-sapphire-alerta-1345008'>Cuidado a quién compras una tarjeta gráfica en Amazon: un fabricante alerta de las estafas</a></h4>
     <a href='https://computerhoy.com/pc/estafas-tarjeta-grafica-amazon-sapphire-alerta-1345008' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/sapphire-pulse-amd-radeon-rx-7900-xt-3014702.jpg?tf=1200x' alt='Cuidado a quién compras una tarjeta gráfica en Amazon: un fabricante alerta de las estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-spectre-james-bond-1344946'>Qué película ver en la TDT hoy: el espía más famoso descubre una inesperada verdad</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-spectre-james-bond-1344946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-ver-tdt-hoy-espia-famoso-descubre-inesperada-verdad-3239690.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: el espía más famoso descubre una inesperada verdad' />
     </a>
 </div>
 
