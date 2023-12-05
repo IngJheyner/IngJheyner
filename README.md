@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/impresionante-tv-tiene-panel-qled-144-hz-modo-gaming-descuento-locos-1345280'>Esta impresionante TV tiene panel QLED a 144 Hz, modo gaming y un descuento de locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/impresionante-tv-tiene-panel-qled-144-hz-modo-gaming-descuento-locos-1345280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tcl-55p715-2143325.jpg?tf=1200x' alt='Esta impresionante TV tiene panel QLED a 144 Hz, modo gaming y un descuento de locos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-en-tierra-hostil-1346070'>Qué película ver en la TDT hoy: cuando el mayor peligro en una guerra, son las personas que te cubren la espalda</a></h4>
     <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-en-tierra-hostil-1346070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-ver-tdt-hoy-cuando-mayor-peligro-guerra-son-personas-cubren-espalda-3242126.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: cuando el mayor peligro en una guerra, son las personas que te cubren la espalda' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/utilizas-alguna-estas-apps-android-prepara-cartera-1345982'>Si utilizas alguna de estas populares apps para Android, prepara la cartera, vas a tener que pagar por ellas</a></h4>
     <a href='https://computerhoy.com/apps/utilizas-alguna-estas-apps-android-prepara-cartera-1345982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/utilizas-alguna-estas-populares-apps-android-prepara-cartera-vas-tener-pagar-ellas-3242060.jpg?tf=1200x' alt='Si utilizas alguna de estas populares apps para Android, prepara la cartera, vas a tener que pagar por ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/marco-fotos-digital-mide-10-pulgadas-navidad-acierto-seguro-1345780'>Este marco de fotos digital mide 10 pulgadas y en Navidad es acierto seguro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/marco-fotos-digital-mide-10-pulgadas-navidad-acierto-seguro-1345780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/marco-digital-obvhnua-3241616.jpg?tf=1200x' alt='Este marco de fotos digital mide 10 pulgadas y en Navidad es acierto seguro' />
     </a>
 </div>
 
