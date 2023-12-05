@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cinco-errores-hacen-movil-sea-blanco-facil-hackers-1345596'>Un hacker desvela los cinco errores que cometes con tu móvil que le permiten hackearlo en segundos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cinco-errores-hacen-movil-sea-blanco-facil-hackers-1345596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hacker-desvela-cinco-errores-cometes-movil-permiten-hackearlo-segundos-3241374.jpg?tf=1200x' alt='Un hacker desvela los cinco errores que cometes con tu móvil que le permiten hackearlo en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/epic-revela-juicio-google-por-que-no-ha-denunciado-consolas-1345600'>Epic Games revela en el juicio contra Google por qué no ha denunciado a las consolas, pese a cobrar la misma comisión que Google o Apple</a></h4>
     <a href='https://computerhoy.com/gaming/epic-revela-juicio-google-por-que-no-ha-denunciado-consolas-1345600' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/epic-games-store-2996762.jpg?tf=1200x' alt='Epic Games revela en el juicio contra Google por qué no ha denunciado a las consolas, pese a cobrar la misma comisión que Google o Apple' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/nothing-phone-2-mayor-rival-pixel-baja-precio-minimo-amazon-1345360'>El Nothing Phone (2), el mayor rival de los Pixel, baja a precio mínimo en Amazon</a></h4>
     <a href='https://computerhoy.com/android/nothing-phone-2-mayor-rival-pixel-baja-precio-minimo-amazon-1345360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-phone-2-3083276.jpg?tf=1200x' alt='El Nothing Phone (2), el mayor rival de los Pixel, baja a precio mínimo en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/despidete-todos-relojes-tierra-evoluciona-dias-25-horas-1345572'>Despídete de todos tus relojes: la Tierra evoluciona hacia los días de 25 horas</a></h4>
-    <a href='https://computerhoy.com/life/despidete-todos-relojes-tierra-evoluciona-dias-25-horas-1345572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/rotacion-tierra-3241310.jpg?tf=1200x' alt='Despídete de todos tus relojes: la Tierra evoluciona hacia los días de 25 horas' />
     </a>
 </div>
 
