@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/he-usado-luzia-ia-whatsapp-durante-semanas-me-ha-conquistado-1343860'>He usado LuzIA, el asistente de inteligencia artificial de WhatsApp, durante semanas y aunque tiene cosas que pulir me parece un añadido fantástico</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-usado-luzia-ia-whatsapp-durante-semanas-me-ha-conquistado-1343860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/luzia-3237448.jpg?tf=1200x' alt='He usado LuzIA, el asistente de inteligencia artificial de WhatsApp, durante semanas y aunque tiene cosas que pulir me parece un añadido fantástico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-cosas-debes-hacer-evitar-trabajo-sea-reemplazado-ia-1343418'>Las 5 cosas que debes hacer para evitar que tu trabajo sea reemplazado por una IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-cosas-debes-hacer-evitar-trabajo-sea-reemplazado-ia-1343418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-cosas-debes-hacer-evitar-trabajo-sea-reemplazado-ia-3236622.jpg?tf=1200x' alt='Las 5 cosas que debes hacer para evitar que tu trabajo sea reemplazado por una IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/robots-aspiradores-baratos-menos-100-euros-estos-son-mejores-vas-encontrar-1345542'>Robots aspiradores baratos de menos de 100 euros: estos son los mejores que vas a encontrar</a></h4>
     <a href='https://computerhoy.com/mejores/robots-aspiradores-baratos-menos-100-euros-estos-son-mejores-vas-encontrar-1345542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cecotec-conga-origin-999-3241248.jpg?tf=1200x' alt='Robots aspiradores baratos de menos de 100 euros: estos son los mejores que vas a encontrar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/cinco-errores-hacen-movil-sea-blanco-facil-hackers-1345596'>Un hacker desvela los cinco errores que cometes con tu móvil que le permiten hackearlo en segundos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cinco-errores-hacen-movil-sea-blanco-facil-hackers-1345596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hacker-desvela-cinco-errores-cometes-movil-permiten-hackearlo-segundos-3241374.jpg?tf=1200x' alt='Un hacker desvela los cinco errores que cometes con tu móvil que le permiten hackearlo en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/epic-revela-juicio-google-por-que-no-ha-denunciado-consolas-1345600'>Epic Games revela en el juicio contra Google por qué no ha denunciado a las consolas, pese a cobrar la misma comisión que Google o Apple</a></h4>
-    <a href='https://computerhoy.com/gaming/epic-revela-juicio-google-por-que-no-ha-denunciado-consolas-1345600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/epic-games-store-2996762.jpg?tf=1200x' alt='Epic Games revela en el juicio contra Google por qué no ha denunciado a las consolas, pese a cobrar la misma comisión que Google o Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/demandan-vendedores-listas-iptv-pirata-no-declarar-iva-1345584'>¡De locos! Demandan a vendedores de listas IPTV pirata por no declarar el IVA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/demandan-vendedores-listas-iptv-pirata-no-declarar-iva-1345584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/locos-demandan-vendedores-listas-iptv-pirata-no-declarar-iva-3241352.jpg?tf=1200x' alt='¡De locos! Demandan a vendedores de listas IPTV pirata por no declarar el IVA' />
     </a>
 </div>
 
