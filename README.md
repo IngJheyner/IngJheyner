@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/china-construyendo-centro-datos-submarino-potencia-6-millones-ordenadores-1345756'>China está construyendo un centro de datos submarino con la potencia de 6 millones de ordenadores</a></h4>
+    <a href='https://computerhoy.com/internet/china-construyendo-centro-datos-submarino-potencia-6-millones-ordenadores-1345756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/centro-datos-3241578.jpg?tf=1200x' alt='China está construyendo un centro de datos submarino con la potencia de 6 millones de ordenadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/padre-era-famoso-ladron-bancos-no-supo-muerte-cuando-encontro-foto-internet-1345506'>Su padre era un famoso ladrón de bancos, no lo supo hasta su muerte cuando encontró su foto en internet</a></h4>
+    <a href='https://computerhoy.com/life/padre-era-famoso-ladron-bancos-no-supo-muerte-cuando-encontro-foto-internet-1345506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/padre-era-ladron-bancos-pero-no-supo-confeso-antes-morir-3241178.jpg?tf=1200x' alt='Su padre era un famoso ladrón de bancos, no lo supo hasta su muerte cuando encontró su foto en internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/google-detecta-fallo-critico-android-movil-riesgo-1345740'>Google detecta un problema crítico en Android, ¿tu móvil está en riesgo?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/google-detecta-fallo-critico-android-movil-riesgo-1345740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-android-ciberseguridad-3241566.jpg?tf=1200x' alt='Google detecta un problema crítico en Android, ¿tu móvil está en riesgo?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/he-usado-luzia-ia-whatsapp-durante-semanas-me-ha-conquistado-1343860'>He usado LuzIA, el asistente de inteligencia artificial de WhatsApp, durante semanas y aunque tiene cosas que pulir me parece un añadido fantástico</a></h4>
     <a href='https://computerhoy.com/tecnologia/he-usado-luzia-ia-whatsapp-durante-semanas-me-ha-conquistado-1343860' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/luzia-3237448.jpg?tf=1200x' alt='He usado LuzIA, el asistente de inteligencia artificial de WhatsApp, durante semanas y aunque tiene cosas que pulir me parece un añadido fantástico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-cosas-debes-hacer-evitar-trabajo-sea-reemplazado-ia-1343418'>Las 5 cosas que debes hacer para evitar que tu trabajo sea reemplazado por una IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-cosas-debes-hacer-evitar-trabajo-sea-reemplazado-ia-1343418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-cosas-debes-hacer-evitar-trabajo-sea-reemplazado-ia-3236622.jpg?tf=1200x' alt='Las 5 cosas que debes hacer para evitar que tu trabajo sea reemplazado por una IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/robots-aspiradores-baratos-menos-100-euros-estos-son-mejores-vas-encontrar-1345542'>Robots aspiradores baratos de menos de 100 euros: estos son los mejores que vas a encontrar</a></h4>
-    <a href='https://computerhoy.com/mejores/robots-aspiradores-baratos-menos-100-euros-estos-son-mejores-vas-encontrar-1345542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cecotec-conga-origin-999-3241248.jpg?tf=1200x' alt='Robots aspiradores baratos de menos de 100 euros: estos son los mejores que vas a encontrar' />
     </a>
 </div>
 
