@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/google-detecta-fallo-critico-android-movil-riesgo-1345740'>Google detecta un problema crítico en Android, ¿tu móvil está en riesgo?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/google-detecta-fallo-critico-android-movil-riesgo-1345740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-android-ciberseguridad-3241566.jpg?tf=1200x' alt='Google detecta un problema crítico en Android, ¿tu móvil está en riesgo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/portatil-pccomponentes-tiene-mejor-hardware-jugar-ahora-precio-ganga-1345578'>Este portátil de PCComponentes tiene el mejor hardware para jugar y ahora está a precio de ganga</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-pccomponentes-tiene-mejor-hardware-jugar-ahora-precio-ganga-1345578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portatil-pccomponentes-3241314.jpg?tf=1200x' alt='Este portátil de PCComponentes tiene el mejor hardware para jugar y ahora está a precio de ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/he-usado-luzia-ia-whatsapp-durante-semanas-me-ha-conquistado-1343860'>He usado LuzIA, el asistente de inteligencia artificial de WhatsApp, durante semanas y aunque tiene cosas que pulir me parece un añadido fantástico</a></h4>
     <a href='https://computerhoy.com/tecnologia/he-usado-luzia-ia-whatsapp-durante-semanas-me-ha-conquistado-1343860' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/luzia-3237448.jpg?tf=1200x' alt='He usado LuzIA, el asistente de inteligencia artificial de WhatsApp, durante semanas y aunque tiene cosas que pulir me parece un añadido fantástico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/robots-aspiradores-baratos-menos-100-euros-estos-son-mejores-vas-encontrar-1345542'>Robots aspiradores baratos de menos de 100 euros: estos son los mejores que vas a encontrar</a></h4>
     <a href='https://computerhoy.com/mejores/robots-aspiradores-baratos-menos-100-euros-estos-son-mejores-vas-encontrar-1345542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cecotec-conga-origin-999-3241248.jpg?tf=1200x' alt='Robots aspiradores baratos de menos de 100 euros: estos son los mejores que vas a encontrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/verdadero-tamano-idiomas-mundo-chino-te-dejara-boquiabierto-1344700'>Este gráfico desvela el tamaño real de los idiomas del mundo: el chino te dejará boquiabierto</a></h4>
-    <a href='https://computerhoy.com/life/verdadero-tamano-idiomas-mundo-chino-te-dejara-boquiabierto-1344700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/grafico-desvela-tamano-real-idiomas-mundo-chino-te-dejara-boquiabierto-3239286.jpg?tf=1200x' alt='Este gráfico desvela el tamaño real de los idiomas del mundo: el chino te dejará boquiabierto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cinco-errores-hacen-movil-sea-blanco-facil-hackers-1345596'>Un hacker desvela los cinco errores que cometes con tu móvil que le permiten hackearlo en segundos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cinco-errores-hacen-movil-sea-blanco-facil-hackers-1345596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hacker-desvela-cinco-errores-cometes-movil-permiten-hackearlo-segundos-3241374.jpg?tf=1200x' alt='Un hacker desvela los cinco errores que cometes con tu móvil que le permiten hackearlo en segundos' />
     </a>
 </div>
 
