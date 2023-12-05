@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/iceberg-grande-mundo-libera-fondo-consecuencias-pueden-ser-devastadoras-1345772'>El iceberg más grande del mundo se libera del fondo y sus consecuencias pueden ser devastadoras</a></h4>
+    <a href='https://computerhoy.com/ciencia/iceberg-grande-mundo-libera-fondo-consecuencias-pueden-ser-devastadoras-1345772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/iceberg-3241614.jpg?tf=1200x' alt='El iceberg más grande del mundo se libera del fondo y sus consecuencias pueden ser devastadoras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-reactiva-outlet-altavoces-alexa-precios-black-friday-todos-modelos-1345742'>Amazon reactiva el outlet de altavoces Alexa: a precios de Black Friday todos sus modelos</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-reactiva-outlet-altavoces-alexa-precios-black-friday-todos-modelos-1345742' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazon-echo-dot-reloj-3241548.jpg?tf=1200x' alt='Amazon reactiva el outlet de altavoces Alexa: a precios de Black Friday todos sus modelos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/google-detecta-fallo-critico-android-movil-riesgo-1345740'>Google detecta un problema crítico en Android, ¿tu móvil está en riesgo?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/google-detecta-fallo-critico-android-movil-riesgo-1345740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-android-ciberseguridad-3241566.jpg?tf=1200x' alt='Google detecta un problema crítico en Android, ¿tu móvil está en riesgo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-pccomponentes-tiene-mejor-hardware-jugar-ahora-precio-ganga-1345578'>Este portátil de PCComponentes tiene el mejor hardware para jugar y ahora está a precio de ganga</a></h4>
-    <a href='https://computerhoy.com/pc/portatil-pccomponentes-tiene-mejor-hardware-jugar-ahora-precio-ganga-1345578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portatil-pccomponentes-3241314.jpg?tf=1200x' alt='Este portátil de PCComponentes tiene el mejor hardware para jugar y ahora está a precio de ganga' />
     </a>
 </div>
 
