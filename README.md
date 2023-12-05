@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/oneplus-12-potencia-bruta-brutal-carga-rapida-1345870'>Así es el OnePlus 12: potencia bruta y diseño rompedor en un buque insignia que va a por todas</a></h4>
+    <a href='https://computerhoy.com/moviles/oneplus-12-potencia-bruta-brutal-carga-rapida-1345870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/oneplus-12-3241804.jpg?tf=1200x' alt='Así es el OnePlus 12: potencia bruta y diseño rompedor en un buque insignia que va a por todas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-maps-incluye-memorial-accidentes-trafico-mapas-concienciar-poblacion-1345804'>Google Maps incluye un memorial de accidentes de tráfico en sus mapas para concienciar a la población</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-incluye-memorial-accidentes-trafico-mapas-concienciar-poblacion-1345804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-maps-accidentes-3241680.jpg?tf=1200x' alt='Google Maps incluye un memorial de accidentes de tráfico en sus mapas para concienciar a la población' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/arraso-black-friday-ahora-ha-vuelto-poco-x5-pro-desploma-precio-amazon-1345798'>Arrasó en el Black Friday y ahora ha vuelto: el POCO X5 Pro desploma su precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/android/arraso-black-friday-ahora-ha-vuelto-poco-x5-pro-desploma-precio-amazon-1345798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2947952.jpg?tf=1200x' alt='Arrasó en el Black Friday y ahora ha vuelto: el POCO X5 Pro desploma su precio en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/iceberg-grande-mundo-libera-fondo-consecuencias-pueden-ser-devastadoras-1345772'>El iceberg más grande del mundo se libera del fondo y sus consecuencias pueden ser devastadoras</a></h4>
     <a href='https://computerhoy.com/ciencia/iceberg-grande-mundo-libera-fondo-consecuencias-pueden-ser-devastadoras-1345772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/iceberg-3241614.jpg?tf=1200x' alt='El iceberg más grande del mundo se libera del fondo y sus consecuencias pueden ser devastadoras' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-reactiva-outlet-altavoces-alexa-precios-black-friday-todos-modelos-1345742'>Amazon reactiva el outlet de altavoces Alexa: a precios de Black Friday todos sus modelos</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-reactiva-outlet-altavoces-alexa-precios-black-friday-todos-modelos-1345742' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazon-echo-dot-reloj-3241548.jpg?tf=1200x' alt='Amazon reactiva el outlet de altavoces Alexa: a precios de Black Friday todos sus modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/china-construyendo-centro-datos-submarino-potencia-6-millones-ordenadores-1345756'>China está construyendo un centro de datos submarino con la potencia de 6 millones de ordenadores</a></h4>
-    <a href='https://computerhoy.com/internet/china-construyendo-centro-datos-submarino-potencia-6-millones-ordenadores-1345756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/centro-datos-3241578.jpg?tf=1200x' alt='China está construyendo un centro de datos submarino con la potencia de 6 millones de ordenadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/padre-era-famoso-ladron-bancos-no-supo-muerte-cuando-encontro-foto-internet-1345506'>Su padre era un famoso ladrón de bancos, no lo supo hasta su muerte cuando encontró su foto en internet</a></h4>
-    <a href='https://computerhoy.com/life/padre-era-famoso-ladron-bancos-no-supo-muerte-cuando-encontro-foto-internet-1345506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/padre-era-ladron-bancos-pero-no-supo-confeso-antes-morir-3241178.jpg?tf=1200x' alt='Su padre era un famoso ladrón de bancos, no lo supo hasta su muerte cuando encontró su foto en internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/google-detecta-fallo-critico-android-movil-riesgo-1345740'>Google detecta un problema crítico en Android, ¿tu móvil está en riesgo?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/google-detecta-fallo-critico-android-movil-riesgo-1345740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-android-ciberseguridad-3241566.jpg?tf=1200x' alt='Google detecta un problema crítico en Android, ¿tu móvil está en riesgo?' />
     </a>
 </div>
 
