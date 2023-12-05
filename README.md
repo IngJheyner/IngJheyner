@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/ladron-roba-movil-ver-android-devuelve-no-queremos-pense-era-iphone-1345888'>Un ladrón le roba el móvil y al ver que es Android se lo devuelve: "No queremos esto, pensé que era un iPhone"</a></h4>
+    <a href='https://computerhoy.com/moviles/ladron-roba-movil-ver-android-devuelve-no-queremos-pense-era-iphone-1345888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/android-moviles-ladron-iphone-3241838.jpg?tf=1200x' alt='Un ladrón le roba el móvil y al ver que es Android se lo devuelve: "No queremos esto, pensé que era un iPhone"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/cuidado-aplicaciones-no-usas-movil-podrian-estar-espiandote-puedes-eliminarlas-1345826'>Cuidado con las aplicaciones que no usas en tu móvil, podrían estar espiándote: así puedes eliminarlas</a></h4>
     <a href='https://computerhoy.com/apps/cuidado-aplicaciones-no-usas-movil-podrian-estar-espiandote-puedes-eliminarlas-1345826' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicaciones-espias-movil-3241726.jpg?tf=1200x' alt='Cuidado con las aplicaciones que no usas en tu móvil, podrían estar espiándote: así puedes eliminarlas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-maps-incluye-memorial-accidentes-trafico-mapas-concienciar-poblacion-1345804'>Google Maps incluye un memorial de accidentes de tráfico en sus mapas para concienciar a la población</a></h4>
     <a href='https://computerhoy.com/google/google-maps-incluye-memorial-accidentes-trafico-mapas-concienciar-poblacion-1345804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-maps-accidentes-3241680.jpg?tf=1200x' alt='Google Maps incluye un memorial de accidentes de tráfico en sus mapas para concienciar a la población' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/arraso-black-friday-ahora-ha-vuelto-poco-x5-pro-desploma-precio-amazon-1345798'>Arrasó en el Black Friday y ahora ha vuelto: el POCO X5 Pro desploma su precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/android/arraso-black-friday-ahora-ha-vuelto-poco-x5-pro-desploma-precio-amazon-1345798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2947952.jpg?tf=1200x' alt='Arrasó en el Black Friday y ahora ha vuelto: el POCO X5 Pro desploma su precio en Amazon' />
     </a>
 </div>
 
