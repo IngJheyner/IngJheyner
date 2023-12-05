@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/cuidado-aplicaciones-no-usas-movil-podrian-estar-espiandote-puedes-eliminarlas-1345826'>Cuidado con las aplicaciones que no usas en tu móvil, podrían estar espiándote: así puedes eliminarlas</a></h4>
+    <a href='https://computerhoy.com/apps/cuidado-aplicaciones-no-usas-movil-podrian-estar-espiandote-puedes-eliminarlas-1345826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicaciones-espias-movil-3241726.jpg?tf=1200x' alt='Cuidado con las aplicaciones que no usas en tu móvil, podrían estar espiándote: así puedes eliminarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/precios-memorias-ram-podrian-dispararse-muy-pronto-1345904'>Los precios de las memorias RAM podrían dispararse muy pronto: ahora es el momento de actualizar tu equipo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/precios-memorias-ram-podrian-dispararse-muy-pronto-1345904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/memoria-ram-3043982.jpg?tf=1200x' alt='Los precios de las memorias RAM podrían dispararse muy pronto: ahora es el momento de actualizar tu equipo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/oneplus-12-potencia-bruta-brutal-carga-rapida-1345870'>Así es el OnePlus 12: potencia bruta y diseño rompedor en un buque insignia que va a por todas</a></h4>
     <a href='https://computerhoy.com/moviles/oneplus-12-potencia-bruta-brutal-carga-rapida-1345870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/oneplus-12-3241804.jpg?tf=1200x' alt='Así es el OnePlus 12: potencia bruta y diseño rompedor en un buque insignia que va a por todas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/arraso-black-friday-ahora-ha-vuelto-poco-x5-pro-desploma-precio-amazon-1345798'>Arrasó en el Black Friday y ahora ha vuelto: el POCO X5 Pro desploma su precio en Amazon</a></h4>
     <a href='https://computerhoy.com/android/arraso-black-friday-ahora-ha-vuelto-poco-x5-pro-desploma-precio-amazon-1345798' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-poco-x5-pro-2947952.jpg?tf=1200x' alt='Arrasó en el Black Friday y ahora ha vuelto: el POCO X5 Pro desploma su precio en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/iceberg-grande-mundo-libera-fondo-consecuencias-pueden-ser-devastadoras-1345772'>El iceberg más grande del mundo se libera del fondo y sus consecuencias pueden ser devastadoras</a></h4>
-    <a href='https://computerhoy.com/ciencia/iceberg-grande-mundo-libera-fondo-consecuencias-pueden-ser-devastadoras-1345772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/iceberg-3241614.jpg?tf=1200x' alt='El iceberg más grande del mundo se libera del fondo y sus consecuencias pueden ser devastadoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-reactiva-outlet-altavoces-alexa-precios-black-friday-todos-modelos-1345742'>Amazon reactiva el outlet de altavoces Alexa: a precios de Black Friday todos sus modelos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-reactiva-outlet-altavoces-alexa-precios-black-friday-todos-modelos-1345742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazon-echo-dot-reloj-3241548.jpg?tf=1200x' alt='Amazon reactiva el outlet de altavoces Alexa: a precios de Black Friday todos sus modelos' />
     </a>
 </div>
 
