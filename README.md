@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/como-afecta-salud-mental-pasar-semana-redes-1333626'>¿Cómo afecta a tu salud mental pasar una semana sin redes? Esto dice un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/redes/como-afecta-salud-mental-pasar-semana-redes-1333626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/redes-sociales-3241694.jpg?tf=1200x' alt='¿Cómo afecta a tu salud mental pasar una semana sin redes? Esto dice un nuevo estudio' />
+    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-en-tierra-hostil-1346070'>Qué película ver en la TDT hoy: cuando el mayor peligro en una guerra, son las personas que te cubren la espalda</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-en-tierra-hostil-1346070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-ver-tdt-hoy-cuando-mayor-peligro-guerra-son-personas-cubren-espalda-3242126.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: cuando el mayor peligro en una guerra, son las personas que te cubren la espalda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/son-quarks-estudian-cern-1345908'>¿Qué son los quarks que estudian en el CERN y por qué pueden ayudarnos a descifrar el universo?</a></h4>
-    <a href='https://computerhoy.com/ciencia/son-quarks-estudian-cern-1345908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/son-quarks-estudian-cern-pueden-ayudarnos-descifrar-universo-3241868.jpg?tf=1200x' alt='¿Qué son los quarks que estudian en el CERN y por qué pueden ayudarnos a descifrar el universo?' />
+    <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-convertir-adn-unidad-flash-mensaje-perdurara-siempre-1346044'>Ya puedes convertir tu ADN en una unidad flash con un mensaje que perdurará para siempre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-puedes-convertir-adn-unidad-flash-mensaje-perdurara-siempre-1346044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tarjeta-adn-3242102.jpg?tf=1200x' alt='Ya puedes convertir tu ADN en una unidad flash con un mensaje que perdurará para siempre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/como-ver-tdt-necesidad-antena-cualquier-televisor-incluso-no-smart-tv-1193500'>Cómo ver la TDT sin necesidad de antena en cualquier televisor incluso si no es Smart TV</a></h4>
-    <a href='https://computerhoy.com/streaming/como-ver-tdt-necesidad-antena-cualquier-televisor-incluso-no-smart-tv-1193500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='Cómo ver la TDT sin necesidad de antena en cualquier televisor incluso si no es Smart TV' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-admite-nuevos-problemas-windows-11-instalacion-no-autorizada-aplicacion-1346038'>Microsoft admite nuevos problemas en Windows 11 y la instalación no autorizada de esta aplicación</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-admite-nuevos-problemas-windows-11-instalacion-no-autorizada-aplicacion-1346038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3095996.jpg?tf=1200x' alt='Microsoft admite nuevos problemas en Windows 11 y la instalación no autorizada de esta aplicación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ladron-roba-movil-ver-android-devuelve-no-queremos-pense-era-iphone-1345888'>Un ladrón le roba el móvil y al ver que es Android se lo devuelve: "No queremos esto, pensé que era un iPhone"</a></h4>
-    <a href='https://computerhoy.com/moviles/ladron-roba-movil-ver-android-devuelve-no-queremos-pense-era-iphone-1345888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/android-moviles-ladron-iphone-3241838.jpg?tf=1200x' alt='Un ladrón le roba el móvil y al ver que es Android se lo devuelve: "No queremos esto, pensé que era un iPhone"' />
+    <h4><a href='https://computerhoy.com/apps/utilizas-alguna-estas-apps-android-prepara-cartera-1345982'>Si utilizas alguna de estas populares apps para Android, prepara la cartera, vas a tener que pagar por ellas</a></h4>
+    <a href='https://computerhoy.com/apps/utilizas-alguna-estas-apps-android-prepara-cartera-1345982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/utilizas-alguna-estas-populares-apps-android-prepara-cartera-vas-tener-pagar-ellas-3242060.jpg?tf=1200x' alt='Si utilizas alguna de estas populares apps para Android, prepara la cartera, vas a tener que pagar por ellas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/cuidado-aplicaciones-no-usas-movil-podrian-estar-espiandote-puedes-eliminarlas-1345826'>Cuidado con las aplicaciones que no usas en tu móvil, podrían estar espiándote: así puedes eliminarlas</a></h4>
-    <a href='https://computerhoy.com/apps/cuidado-aplicaciones-no-usas-movil-podrian-estar-espiandote-puedes-eliminarlas-1345826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicaciones-espias-movil-3241726.jpg?tf=1200x' alt='Cuidado con las aplicaciones que no usas en tu móvil, podrían estar espiándote: así puedes eliminarlas' />
+    <h4><a href='https://computerhoy.com/tecnologia/marco-fotos-digital-mide-10-pulgadas-navidad-acierto-seguro-1345780'>Este marco de fotos digital mide 10 pulgadas y en Navidad es acierto seguro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/marco-fotos-digital-mide-10-pulgadas-navidad-acierto-seguro-1345780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/marco-digital-obvhnua-3241616.jpg?tf=1200x' alt='Este marco de fotos digital mide 10 pulgadas y en Navidad es acierto seguro' />
     </a>
 </div>
 
