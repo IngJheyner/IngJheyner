@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/robots-aspiradores-baratos-menos-100-euros-estos-son-mejores-vas-encontrar-1345542'>Robots aspiradores baratos de menos de 100 euros: estos son los mejores que vas a encontrar</a></h4>
+    <a href='https://computerhoy.com/mejores/robots-aspiradores-baratos-menos-100-euros-estos-son-mejores-vas-encontrar-1345542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cecotec-conga-origin-999-3241248.jpg?tf=1200x' alt='Robots aspiradores baratos de menos de 100 euros: estos son los mejores que vas a encontrar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/verdadero-tamano-idiomas-mundo-chino-te-dejara-boquiabierto-1344700'>Este gráfico desvela el tamaño real de los idiomas del mundo: el chino te dejará boquiabierto</a></h4>
+    <a href='https://computerhoy.com/life/verdadero-tamano-idiomas-mundo-chino-te-dejara-boquiabierto-1344700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/grafico-desvela-tamano-real-idiomas-mundo-chino-te-dejara-boquiabierto-3239286.jpg?tf=1200x' alt='Este gráfico desvela el tamaño real de los idiomas del mundo: el chino te dejará boquiabierto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/cinco-errores-hacen-movil-sea-blanco-facil-hackers-1345596'>Un hacker desvela los cinco errores que cometes con tu móvil que le permiten hackearlo en segundos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cinco-errores-hacen-movil-sea-blanco-facil-hackers-1345596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hacker-desvela-cinco-errores-cometes-movil-permiten-hackearlo-segundos-3241374.jpg?tf=1200x' alt='Un hacker desvela los cinco errores que cometes con tu móvil que le permiten hackearlo en segundos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/demandan-vendedores-listas-iptv-pirata-no-declarar-iva-1345584'>¡De locos! Demandan a vendedores de listas IPTV pirata por no declarar el IVA</a></h4>
     <a href='https://computerhoy.com/tecnologia/demandan-vendedores-listas-iptv-pirata-no-declarar-iva-1345584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/locos-demandan-vendedores-listas-iptv-pirata-no-declarar-iva-3241352.jpg?tf=1200x' alt='¡De locos! Demandan a vendedores de listas IPTV pirata por no declarar el IVA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-apple-tv-paquetes-descuento-companias-rivales-1345586'>Este es el futuro del streaming: Netflix, HBO Max y Apple TV+ aceptan entrar en paquetes descuento con compañías rivales</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-apple-tv-paquetes-descuento-companias-rivales-1345586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/futuro-streaming-netflix-apple-tv-aceptan-entrar-paquetes-descuento-companias-rivales-3241302.jpg?tf=1200x' alt='Este es el futuro del streaming: Netflix, HBO Max y Apple TV+ aceptan entrar en paquetes descuento con compañías rivales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/nothing-phone-2-mayor-rival-pixel-baja-precio-minimo-amazon-1345360'>El Nothing Phone (2), el mayor rival de los Pixel, baja a precio mínimo en Amazon</a></h4>
-    <a href='https://computerhoy.com/android/nothing-phone-2-mayor-rival-pixel-baja-precio-minimo-amazon-1345360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-phone-2-3083276.jpg?tf=1200x' alt='El Nothing Phone (2), el mayor rival de los Pixel, baja a precio mínimo en Amazon' />
     </a>
 </div>
 
