@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/epic-revela-juicio-google-por-que-no-ha-denunciado-consolas-1345600'>Epic Games revela en el juicio contra Google por qué no ha denunciado a las consolas, pese a cobrar la misma comisión que Google o Apple</a></h4>
+    <a href='https://computerhoy.com/gaming/epic-revela-juicio-google-por-que-no-ha-denunciado-consolas-1345600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/epic-games-store-2996762.jpg?tf=1200x' alt='Epic Games revela en el juicio contra Google por qué no ha denunciado a las consolas, pese a cobrar la misma comisión que Google o Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/demandan-vendedores-listas-iptv-pirata-no-declarar-iva-1345584'>¡De locos! Demandan a vendedores de listas IPTV pirata por no declarar el IVA</a></h4>
     <a href='https://computerhoy.com/tecnologia/demandan-vendedores-listas-iptv-pirata-no-declarar-iva-1345584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/locos-demandan-vendedores-listas-iptv-pirata-no-declarar-iva-3241352.jpg?tf=1200x' alt='¡De locos! Demandan a vendedores de listas IPTV pirata por no declarar el IVA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/despidete-todos-relojes-tierra-evoluciona-dias-25-horas-1345572'>Despídete de todos tus relojes: la Tierra evoluciona hacia los días de 25 horas</a></h4>
     <a href='https://computerhoy.com/life/despidete-todos-relojes-tierra-evoluciona-dias-25-horas-1345572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/rotacion-tierra-3241310.jpg?tf=1200x' alt='Despídete de todos tus relojes: la Tierra evoluciona hacia los días de 25 horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/culpable-bajada-rendimiento-actualizacion-windows-11-23h2-1345568'>Este es el culpable de la bajada de rendimiento tras la actualización Windows 11 23H2</a></h4>
-    <a href='https://computerhoy.com/windows/culpable-bajada-rendimiento-actualizacion-windows-11-23h2-1345568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aplicaciones-abiertas-windows-11-3150200.jpg?tf=1200x' alt='Este es el culpable de la bajada de rendimiento tras la actualización Windows 11 23H2' />
     </a>
 </div>
 
