@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-reactiva-outlet-altavoces-alexa-precios-black-friday-todos-modelos-1345742'>Amazon reactiva el outlet de altavoces Alexa: a precios de Black Friday todos sus modelos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-reactiva-outlet-altavoces-alexa-precios-black-friday-todos-modelos-1345742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazon-echo-dot-reloj-3241548.jpg?tf=1200x' alt='Amazon reactiva el outlet de altavoces Alexa: a precios de Black Friday todos sus modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/china-construyendo-centro-datos-submarino-potencia-6-millones-ordenadores-1345756'>China está construyendo un centro de datos submarino con la potencia de 6 millones de ordenadores</a></h4>
     <a href='https://computerhoy.com/internet/china-construyendo-centro-datos-submarino-potencia-6-millones-ordenadores-1345756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/centro-datos-3241578.jpg?tf=1200x' alt='China está construyendo un centro de datos submarino con la potencia de 6 millones de ordenadores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/portatil-pccomponentes-tiene-mejor-hardware-jugar-ahora-precio-ganga-1345578'>Este portátil de PCComponentes tiene el mejor hardware para jugar y ahora está a precio de ganga</a></h4>
     <a href='https://computerhoy.com/pc/portatil-pccomponentes-tiene-mejor-hardware-jugar-ahora-precio-ganga-1345578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portatil-pccomponentes-3241314.jpg?tf=1200x' alt='Este portátil de PCComponentes tiene el mejor hardware para jugar y ahora está a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-usado-luzia-ia-whatsapp-durante-semanas-me-ha-conquistado-1343860'>He usado LuzIA, el asistente de inteligencia artificial de WhatsApp, durante semanas y aunque tiene cosas que pulir me parece un añadido fantástico</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-usado-luzia-ia-whatsapp-durante-semanas-me-ha-conquistado-1343860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/luzia-3237448.jpg?tf=1200x' alt='He usado LuzIA, el asistente de inteligencia artificial de WhatsApp, durante semanas y aunque tiene cosas que pulir me parece un añadido fantástico' />
     </a>
 </div>
 
