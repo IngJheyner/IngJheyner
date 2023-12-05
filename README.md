@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/como-afecta-salud-mental-pasar-semana-redes-1333626'>¿Cómo afecta a tu salud mental pasar una semana sin redes? Esto dice un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/redes/como-afecta-salud-mental-pasar-semana-redes-1333626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/redes-sociales-3241694.jpg?tf=1200x' alt='¿Cómo afecta a tu salud mental pasar una semana sin redes? Esto dice un nuevo estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/son-quarks-estudian-cern-1345908'>¿Qué son los quarks que estudian en el CERN y por qué pueden ayudarnos a descifrar el universo?</a></h4>
     <a href='https://computerhoy.com/ciencia/son-quarks-estudian-cern-1345908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/son-quarks-estudian-cern-pueden-ayudarnos-descifrar-universo-3241868.jpg?tf=1200x' alt='¿Qué son los quarks que estudian en el CERN y por qué pueden ayudarnos a descifrar el universo?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/cuidado-aplicaciones-no-usas-movil-podrian-estar-espiandote-puedes-eliminarlas-1345826'>Cuidado con las aplicaciones que no usas en tu móvil, podrían estar espiándote: así puedes eliminarlas</a></h4>
     <a href='https://computerhoy.com/apps/cuidado-aplicaciones-no-usas-movil-podrian-estar-espiandote-puedes-eliminarlas-1345826' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicaciones-espias-movil-3241726.jpg?tf=1200x' alt='Cuidado con las aplicaciones que no usas en tu móvil, podrían estar espiándote: así puedes eliminarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/precios-memorias-ram-podrian-dispararse-muy-pronto-1345904'>Los precios de las memorias RAM podrían dispararse muy pronto: ahora es el momento de actualizar tu equipo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/precios-memorias-ram-podrian-dispararse-muy-pronto-1345904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/memoria-ram-3043982.jpg?tf=1200x' alt='Los precios de las memorias RAM podrían dispararse muy pronto: ahora es el momento de actualizar tu equipo' />
     </a>
 </div>
 
