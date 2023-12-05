@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/son-quarks-estudian-cern-1345908'>¿Qué son los quarks que estudian en el CERN y por qué pueden ayudarnos a descifrar el universo?</a></h4>
+    <a href='https://computerhoy.com/ciencia/son-quarks-estudian-cern-1345908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/son-quarks-estudian-cern-pueden-ayudarnos-descifrar-universo-3241868.jpg?tf=1200x' alt='¿Qué son los quarks que estudian en el CERN y por qué pueden ayudarnos a descifrar el universo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/como-ver-tdt-necesidad-antena-cualquier-televisor-incluso-no-smart-tv-1193500'>Cómo ver la TDT sin necesidad de antena en cualquier televisor incluso si no es Smart TV</a></h4>
+    <a href='https://computerhoy.com/streaming/como-ver-tdt-necesidad-antena-cualquier-televisor-incluso-no-smart-tv-1193500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='Cómo ver la TDT sin necesidad de antena en cualquier televisor incluso si no es Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/ladron-roba-movil-ver-android-devuelve-no-queremos-pense-era-iphone-1345888'>Un ladrón le roba el móvil y al ver que es Android se lo devuelve: "No queremos esto, pensé que era un iPhone"</a></h4>
     <a href='https://computerhoy.com/moviles/ladron-roba-movil-ver-android-devuelve-no-queremos-pense-era-iphone-1345888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/android-moviles-ladron-iphone-3241838.jpg?tf=1200x' alt='Un ladrón le roba el móvil y al ver que es Android se lo devuelve: "No queremos esto, pensé que era un iPhone"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/precios-memorias-ram-podrian-dispararse-muy-pronto-1345904'>Los precios de las memorias RAM podrían dispararse muy pronto: ahora es el momento de actualizar tu equipo</a></h4>
     <a href='https://computerhoy.com/tecnologia/precios-memorias-ram-podrian-dispararse-muy-pronto-1345904' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/memoria-ram-3043982.jpg?tf=1200x' alt='Los precios de las memorias RAM podrían dispararse muy pronto: ahora es el momento de actualizar tu equipo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oneplus-12-potencia-bruta-brutal-carga-rapida-1345870'>Así es el OnePlus 12: potencia bruta y diseño rompedor en un buque insignia que va a por todas</a></h4>
-    <a href='https://computerhoy.com/moviles/oneplus-12-potencia-bruta-brutal-carga-rapida-1345870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/oneplus-12-3241804.jpg?tf=1200x' alt='Así es el OnePlus 12: potencia bruta y diseño rompedor en un buque insignia que va a por todas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-incluye-memorial-accidentes-trafico-mapas-concienciar-poblacion-1345804'>Google Maps incluye un memorial de accidentes de tráfico en sus mapas para concienciar a la población</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-incluye-memorial-accidentes-trafico-mapas-concienciar-poblacion-1345804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-maps-accidentes-3241680.jpg?tf=1200x' alt='Google Maps incluye un memorial de accidentes de tráfico en sus mapas para concienciar a la población' />
     </a>
 </div>
 
