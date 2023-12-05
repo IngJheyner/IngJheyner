@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/edad-te-enteraste-sirven-realmente-dientes-tijeras-cocina-1346084'>¿A qué edad te enteraste para qué sirven realmente los dientes de las tijeras de cocina?</a></h4>
+    <a href='https://computerhoy.com/life/edad-te-enteraste-sirven-realmente-dientes-tijeras-cocina-1346084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/edad-te-enteraste-sirven-realmente-dientes-tijeras-cocina-3242268.jpg?tf=1200x' alt='¿A qué edad te enteraste para qué sirven realmente los dientes de las tijeras de cocina?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/actualizaciones-windows-10-de-pago-fin-servicio-tecnico-1346082'>Si quieres seguir recibiendo actualizaciones de Windows 10, vas a tener que pagar</a></h4>
+    <a href='https://computerhoy.com/windows/actualizaciones-windows-10-de-pago-fin-servicio-tecnico-1346082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/microsoft-anuncia-ya-no-habra-actualizaciones-windows-10-salvo-seguridad-3020544.jpg?tf=1200x' alt='Si quieres seguir recibiendo actualizaciones de Windows 10, vas a tener que pagar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/impresionante-tv-tiene-panel-qled-144-hz-modo-gaming-descuento-locos-1345280'>Esta impresionante TV tiene panel QLED a 144 Hz, modo gaming y un descuento de locos</a></h4>
     <a href='https://computerhoy.com/tecnologia/impresionante-tv-tiene-panel-qled-144-hz-modo-gaming-descuento-locos-1345280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tcl-55p715-2143325.jpg?tf=1200x' alt='Esta impresionante TV tiene panel QLED a 144 Hz, modo gaming y un descuento de locos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-convertir-adn-unidad-flash-mensaje-perdurara-siempre-1346044'>Ya puedes convertir tu ADN en una unidad flash con un mensaje que perdurará para siempre</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-puedes-convertir-adn-unidad-flash-mensaje-perdurara-siempre-1346044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tarjeta-adn-3242102.jpg?tf=1200x' alt='Ya puedes convertir tu ADN en una unidad flash con un mensaje que perdurará para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-admite-nuevos-problemas-windows-11-instalacion-no-autorizada-aplicacion-1346038'>Microsoft admite nuevos problemas en Windows 11 y la instalación no autorizada de esta aplicación</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-admite-nuevos-problemas-windows-11-instalacion-no-autorizada-aplicacion-1346038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3095996.jpg?tf=1200x' alt='Microsoft admite nuevos problemas en Windows 11 y la instalación no autorizada de esta aplicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/utilizas-alguna-estas-apps-android-prepara-cartera-1345982'>Si utilizas alguna de estas populares apps para Android, prepara la cartera, vas a tener que pagar por ellas</a></h4>
-    <a href='https://computerhoy.com/apps/utilizas-alguna-estas-apps-android-prepara-cartera-1345982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/utilizas-alguna-estas-populares-apps-android-prepara-cartera-vas-tener-pagar-ellas-3242060.jpg?tf=1200x' alt='Si utilizas alguna de estas populares apps para Android, prepara la cartera, vas a tener que pagar por ellas' />
     </a>
 </div>
 
