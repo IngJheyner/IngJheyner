@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/2023-record-emisiones-co2-atmosfera-1346356'>Cumbres climáticas, para qué: 2023 es el año con más emisiones de CO2 de la historia</a></h4>
+    <h4><a href='https://computerhoy.com/life/2023-record-emisiones-co2-atmosfera-1346356'>2023 es el año con más emisiones de CO2 de la historia</a></h4>
     <a href='https://computerhoy.com/life/2023-record-emisiones-co2-atmosfera-1346356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cumbres-climaticas-2023-ano-emisiones-co2-historia-3242728.jpg?tf=1200x' alt='Cumbres climáticas, para qué: 2023 es el año con más emisiones de CO2 de la historia' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cumbres-climaticas-2023-ano-emisiones-co2-historia-3242728.jpg?tf=1200x' alt='2023 es el año con más emisiones de CO2 de la historia' />
     </a>
 </div>
 
