@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/anuptafobia-tiempos-internet-puede-afectarte-miedo-no-tener-pareja-1338460'>Anuptafobia en tiempos de Internet: así puede afectarte el miedo a no tener pareja</a></h4>
+    <a href='https://computerhoy.com/internet/anuptafobia-tiempos-internet-puede-afectarte-miedo-no-tener-pareja-1338460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/silueta-pareja-3241828.jpg?tf=1200x' alt='Anuptafobia en tiempos de Internet: así puede afectarte el miedo a no tener pareja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/peligros-te-expones-solo-tener-flipper-zero-1345554'>Peligros y problemas a los que te expones solo por tener un Flipper Zero, el Tamagotchi para hackers</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/peligros-te-expones-solo-tener-flipper-zero-1345554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/peligros-problemas-te-expones-solo-tener-flipper-zero-tamagotchi-hackers-3241318.jpg?tf=1200x' alt='Peligros y problemas a los que te expones solo por tener un Flipper Zero, el Tamagotchi para hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-reparar-disco-ssd-estropeado-1345602'>6 métodos efectivos para reparar un disco SSD dañado</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-reparar-disco-ssd-estropeado-1345602' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/6-metodos-efectivos-reparar-disco-ssd-danado-3241500.jpg?tf=1200x' alt='6 métodos efectivos para reparar un disco SSD dañado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/5-robots-aspiradores-1000eu-merecen-muchisimo-pena-1346068'>5 robots aspiradores de más de 1.000€ que merecen muchísimo la pena</a></h4>
     <a href='https://computerhoy.com/mejores/5-robots-aspiradores-1000eu-merecen-muchisimo-pena-1346068' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dreame-l20-ultra-complete-3217988.jpg?tf=1200x' alt='5 robots aspiradores de más de 1.000€ que merecen muchísimo la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/parece-tinder-ajedrez-perdiendo-partida-1345024'>¿En qué se parece Tinder al ajedrez y por qué está perdiendo la partida?</a></h4>
-    <a href='https://computerhoy.com/apps/parece-tinder-ajedrez-perdiendo-partida-1345024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/parece-tinder-ajedrez-perdiendo-partida-3240370.jpg?tf=1200x' alt='¿En qué se parece Tinder al ajedrez y por qué está perdiendo la partida?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mucho-sudor-casi-lagrimas-como-oppo-calibra-informacion-salud-deporte-relojes-1345488'>Mucho sudor y casi con lágrimas: así es como Oppo calibra la información de salud y deporte en sus relojes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mucho-sudor-casi-lagrimas-como-oppo-calibra-informacion-salud-deporte-relojes-1345488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/oppo-health-lab-3241126.jpg?tf=1200x' alt='Mucho sudor y casi con lágrimas: así es como Oppo calibra la información de salud y deporte en sus relojes' />
     </a>
 </div>
 
