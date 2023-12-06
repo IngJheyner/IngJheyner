@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mucho-sudor-casi-lagrimas-como-oppo-calibra-informacion-salud-deporte-relojes-1345488'>Mucho sudor y casi con lágrimas: así es como Oppo calibra la información de salud y deporte en sus relojes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mucho-sudor-casi-lagrimas-como-oppo-calibra-informacion-salud-deporte-relojes-1345488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/oppo-health-lab-3241126.jpg?tf=1200x' alt='Mucho sudor y casi con lágrimas: así es como Oppo calibra la información de salud y deporte en sus relojes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/razon-no-deberias-apagar-router-wifi-noche-1345766'>Esta es la razón por la que no deberías apagar el router WiFi por la noche</a></h4>
     <a href='https://computerhoy.com/redes/razon-no-deberias-apagar-router-wifi-noche-1345766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/razon-no-deberias-apagar-router-noche-3241580.jpg?tf=1200x' alt='Esta es la razón por la que no deberías apagar el router WiFi por la noche' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771'>Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-3241502.jpg?tf=1200x' alt='Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-volver-viejos-colores-google-maps-android-auto-1346088'>¿Odias los nuevos colores de Google Maps en Android Auto? Esta app puede ser tu salvación</a></h4>
-    <a href='https://computerhoy.com/apps/como-volver-viejos-colores-google-maps-android-auto-1346088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/odias-nuevos-colores-google-maps-android-auto-app-puede-ser-salvacion-3242292.jpg?tf=1200x' alt='¿Odias los nuevos colores de Google Maps en Android Auto? Esta app puede ser tu salvación' />
     </a>
 </div>
 
