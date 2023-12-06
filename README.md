@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/razon-no-deberias-apagar-router-wifi-noche-1345766'>Esta es la razón por la que no deberías apagar el router WiFi por la noche</a></h4>
+    <a href='https://computerhoy.com/redes/razon-no-deberias-apagar-router-wifi-noche-1345766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/razon-no-deberias-apagar-router-noche-3241580.jpg?tf=1200x' alt='Esta es la razón por la que no deberías apagar el router WiFi por la noche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/grafico-gpu-h100-nvidia-inteligencia-artificial-1346232'>Una gráfica con las empresas que más chips de NVIDIA han comprado, deja claro quién manda en el mercado de la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/grafico-gpu-h100-nvidia-inteligencia-artificial-1346232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/grafico-empresas-chips-nvidia-han-comprado-deja-claro-quien-quien-mercado-inteligencia-artificial-3242472.jpg?tf=1200x' alt='Una gráfica con las empresas que más chips de NVIDIA han comprado, deja claro quién manda en el mercado de la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-precio-ridiculo-pc-miniatura-rompe-esquemas-aliexpress-1345306'>Ryzen 7 y 16GB de RAM a precio ridículo: este PC en miniatura rompe esquemas en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-precio-ridiculo-pc-miniatura-rompe-esquemas-aliexpress-1345306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amd-ryzen-3240692.jpg?tf=1200x' alt='Ryzen 7 y 16GB de RAM a precio ridículo: este PC en miniatura rompe esquemas en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771'>Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-3241502.jpg?tf=1200x' alt='Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/como-volver-viejos-colores-google-maps-android-auto-1346088'>¿Odias los nuevos colores de Google Maps en Android Auto? Esta app puede ser tu salvación</a></h4>
     <a href='https://computerhoy.com/apps/como-volver-viejos-colores-google-maps-android-auto-1346088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/odias-nuevos-colores-google-maps-android-auto-app-puede-ser-salvacion-3242292.jpg?tf=1200x' alt='¿Odias los nuevos colores de Google Maps en Android Auto? Esta app puede ser tu salvación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/tres-peliculas-pixar-pandemia-estrenaran-cines-2024-1346096'>El cine gana la batalla al streaming: tres películas de Pixar de la pandemia se estrenarán en los cines en 2024</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/tres-peliculas-pixar-pandemia-estrenaran-cines-2024-1346096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cine-aplasta-definitivamente-streaming-tres-peliculas-pixar-pandemia-estrenaran-salas-2024-3242276.jpg?tf=1200x' alt='El cine gana la batalla al streaming: tres películas de Pixar de la pandemia se estrenarán en los cines en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/edad-te-enteraste-sirven-realmente-dientes-tijeras-cocina-1346084'>¿A qué edad te enteraste para qué sirven realmente los dientes de las tijeras de cocina?</a></h4>
-    <a href='https://computerhoy.com/life/edad-te-enteraste-sirven-realmente-dientes-tijeras-cocina-1346084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/edad-te-enteraste-sirven-realmente-dientes-tijeras-cocina-3242268.jpg?tf=1200x' alt='¿A qué edad te enteraste para qué sirven realmente los dientes de las tijeras de cocina?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/actualizaciones-windows-10-de-pago-fin-servicio-tecnico-1346082'>Si quieres seguir recibiendo actualizaciones de Windows 10, vas a tener que pagar</a></h4>
-    <a href='https://computerhoy.com/windows/actualizaciones-windows-10-de-pago-fin-servicio-tecnico-1346082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/microsoft-anuncia-ya-no-habra-actualizaciones-windows-10-salvo-seguridad-3020544.jpg?tf=1200x' alt='Si quieres seguir recibiendo actualizaciones de Windows 10, vas a tener que pagar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/impresionante-tv-tiene-panel-qled-144-hz-modo-gaming-descuento-locos-1345280'>Esta impresionante TV tiene panel QLED a 144 Hz, modo gaming y un descuento de locos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/impresionante-tv-tiene-panel-qled-144-hz-modo-gaming-descuento-locos-1345280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tcl-55p715-2143325.jpg?tf=1200x' alt='Esta impresionante TV tiene panel QLED a 144 Hz, modo gaming y un descuento de locos' />
     </a>
 </div>
 
