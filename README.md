@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-auriculares-conduccion-osea-perfectos-runners-son-baratos-nunca-1345750'>Amazon está liquidando unos auriculares de conducción ósea perfectos para runners y que son más baratos que nunca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-auriculares-conduccion-osea-perfectos-runners-son-baratos-nunca-1345750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/shokz-openmove-3241568.jpg?tf=1200x' alt='Amazon está liquidando unos auriculares de conducción ósea perfectos para runners y que son más baratos que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/gemini-inteligencia-artificial-google-mas-potente-gpt-4-1346392'>Google estrena Gemini, su nueva IA multimodal más potente que GPT-4: comienza una nueva era</a></h4>
     <a href='https://computerhoy.com/google/gemini-inteligencia-artificial-google-mas-potente-gpt-4-1346392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-estrena-gemini-nueva-ia-potente-gpt-4-3242798.jpg?tf=1200x' alt='Google estrena Gemini, su nueva IA multimodal más potente que GPT-4: comienza una nueva era' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/estudiantes-no-saben-copiar-pegar-teclado-1346320'>Generación móvil: el 40% de los estudiantes no sabe copiar y pegar con el teclado</a></h4>
     <a href='https://computerhoy.com/pc/estudiantes-no-saben-copiar-pegar-teclado-1346320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/generacion-movil-40-estudiantes-no-saben-copiar-pegar-teclado-3242632.jpg?tf=1200x' alt='Generación móvil: el 40% de los estudiantes no sabe copiar y pegar con el teclado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-llamadas-tiene-precio-no-creer-aliexpress-te-llega-rapidisimo-1345194'>Este smartwatch con llamadas tiene precio de no creer en AliExpress, y te llega rapidísimo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-llamadas-tiene-precio-no-creer-aliexpress-te-llega-rapidisimo-1345194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zeblade-btalk-3240550.jpg?tf=1200x' alt='Este smartwatch con llamadas tiene precio de no creer en AliExpress, y te llega rapidísimo' />
     </a>
 </div>
 
