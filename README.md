@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/acer-nitro-v-16-saca-musculo-portatil-gaming-ryzen-7-8040-1346306'>Acer Nitro V 16 saca músculo, así es el portátil gaming con Ryzen 7 8040 Zen4</a></h4>
+    <a href='https://computerhoy.com/gaming/acer-nitro-v-16-saca-musculo-portatil-gaming-ryzen-7-8040-1346306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acer-nitro-3242646.jpg?tf=1200x' alt='Acer Nitro V 16 saca músculo, así es el portátil gaming con Ryzen 7 8040 Zen4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-lleva-carga-inalambrica-qi2-iphone-antiguos-actualizacion-1346426'>Apple lleva la carga inalámbrica Qi2 a los iPhone más antiguos con esta actualización</a></h4>
+    <a href='https://computerhoy.com/apple/apple-lleva-carga-inalambrica-qi2-iphone-antiguos-actualizacion-1346426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nuevo-estandar-qi2-anunciado-ces-2023-llevara-magsafe-dispositivos-no-son-apple-2919242.jpg?tf=1200x' alt='Apple lleva la carga inalámbrica Qi2 a los iPhone más antiguos con esta actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/estos-fueron-articulos-leidos-wikipedia-2023-1346418'>Estos fueron los artículos más leídos de la Wikipedia en 2023</a></h4>
+    <a href='https://computerhoy.com/internet/estos-fueron-articulos-leidos-wikipedia-2023-1346418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wikipedia-2023-3242898.jpg?tf=1200x' alt='Estos fueron los artículos más leídos de la Wikipedia en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-matrix-1346416'>Qué película ver en la TDT hoy: ¿Y si vivimos en una simulación creada por las máquinas?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-matrix-1346416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-ver-tdt-hoy-vivimos-simulacion-creada-maquinas-3242842.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: ¿Y si vivimos en una simulación creada por las máquinas?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-auriculares-conduccion-osea-perfectos-runners-son-baratos-nunca-1345750'>Amazon está liquidando unos auriculares de conducción ósea perfectos para runners y que son más baratos que nunca</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-liquidando-auriculares-conduccion-osea-perfectos-runners-son-baratos-nunca-1345750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/shokz-openmove-3241568.jpg?tf=1200x' alt='Amazon está liquidando unos auriculares de conducción ósea perfectos para runners y que son más baratos que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/gemini-inteligencia-artificial-google-mas-potente-gpt-4-1346392'>Google estrena Gemini, su nueva IA multimodal más potente que GPT-4: comienza una nueva era</a></h4>
-    <a href='https://computerhoy.com/google/gemini-inteligencia-artificial-google-mas-potente-gpt-4-1346392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-estrena-gemini-nueva-ia-potente-gpt-4-3242798.jpg?tf=1200x' alt='Google estrena Gemini, su nueva IA multimodal más potente que GPT-4: comienza una nueva era' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/2023-record-emisiones-co2-atmosfera-1346356'>2023 es el año con más emisiones de CO2 de la historia</a></h4>
-    <a href='https://computerhoy.com/life/2023-record-emisiones-co2-atmosfera-1346356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cumbres-climaticas-2023-ano-emisiones-co2-historia-3242728.jpg?tf=1200x' alt='2023 es el año con más emisiones de CO2 de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/carcel-youtuber-estrella-avion-grabar-video-youtube-1346342'>A la cárcel el youtuber que estrelló un avión para grabar un vídeo para su canal </a></h4>
-    <a href='https://computerhoy.com/redes/carcel-youtuber-estrella-avion-grabar-video-youtube-1346342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/youtuber-pierde-licencia-piloto-estrellar-avion-proposito-video-2682509.jpg?tf=1200x' alt='A la cárcel el youtuber que estrelló un avión para grabar un vídeo para su canal ' />
     </a>
 </div>
 
