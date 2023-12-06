@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/gemini-inteligencia-artificial-google-mas-potente-gpt-4-1346392'>Google estrena Gemini, su nueva IA multimodal más potente que GPT-4: comienza una nueva era</a></h4>
+    <a href='https://computerhoy.com/google/gemini-inteligencia-artificial-google-mas-potente-gpt-4-1346392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-estrena-gemini-nueva-ia-potente-gpt-4-3242798.jpg?tf=1200x' alt='Google estrena Gemini, su nueva IA multimodal más potente que GPT-4: comienza una nueva era' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/2023-record-emisiones-co2-atmosfera-1346356'>2023 es el año con más emisiones de CO2 de la historia</a></h4>
     <a href='https://computerhoy.com/life/2023-record-emisiones-co2-atmosfera-1346356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cumbres-climaticas-2023-ano-emisiones-co2-historia-3242728.jpg?tf=1200x' alt='2023 es el año con más emisiones de CO2 de la historia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/smartwatch-llamadas-tiene-precio-no-creer-aliexpress-te-llega-rapidisimo-1345194'>Este smartwatch con llamadas tiene precio de no creer en AliExpress, y te llega rapidísimo</a></h4>
     <a href='https://computerhoy.com/tecnologia/smartwatch-llamadas-tiene-precio-no-creer-aliexpress-te-llega-rapidisimo-1345194' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zeblade-btalk-3240550.jpg?tf=1200x' alt='Este smartwatch con llamadas tiene precio de no creer en AliExpress, y te llega rapidísimo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/minimalismo-digital-1344042'>He probado un mes el minimalismo digital y he notado muchos cambios positivos en mi salud mental</a></h4>
-    <a href='https://computerhoy.com/life/minimalismo-digital-1344042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/relax-3241816.jpg?tf=1200x' alt='He probado un mes el minimalismo digital y he notado muchos cambios positivos en mi salud mental' />
     </a>
 </div>
 
