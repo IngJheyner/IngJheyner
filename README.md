@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/2023-record-emisiones-co2-atmosfera-1346356'>Cumbres climáticas, para qué: 2023 es el año con más emisiones de CO2 de la historia</a></h4>
+    <a href='https://computerhoy.com/life/2023-record-emisiones-co2-atmosfera-1346356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cumbres-climaticas-2023-ano-emisiones-co2-historia-3242728.jpg?tf=1200x' alt='Cumbres climáticas, para qué: 2023 es el año con más emisiones de CO2 de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/carcel-youtuber-estrella-avion-grabar-video-youtube-1346342'>A la cárcel el youtuber que estrelló un avión para grabar un vídeo para su canal </a></h4>
     <a href='https://computerhoy.com/redes/carcel-youtuber-estrella-avion-grabar-video-youtube-1346342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/youtuber-pierde-licencia-piloto-estrellar-avion-proposito-video-2682509.jpg?tf=1200x' alt='A la cárcel el youtuber que estrelló un avión para grabar un vídeo para su canal ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/minimalismo-digital-1344042'>He probado un mes el minimalismo digital y he notado muchos cambios positivos en mi salud mental</a></h4>
     <a href='https://computerhoy.com/life/minimalismo-digital-1344042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/relax-3241816.jpg?tf=1200x' alt='He probado un mes el minimalismo digital y he notado muchos cambios positivos en mi salud mental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ofrece-mejores-respuestas-si-das-propina-1346296'>ChatGPT ya es humano: si le das una propina, ofrece mejores respuestas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-ofrece-mejores-respuestas-si-das-propina-1346296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chatgpt-ya-tan-humano-como-nosotros-das-propina-ofrece-mejores-respuestas-3242542.jpg?tf=1200x' alt='ChatGPT ya es humano: si le das una propina, ofrece mejores respuestas' />
     </a>
 </div>
 
