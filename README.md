@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/estudiantes-no-saben-copiar-pegar-teclado-1346320'>Generación móvil: el 40% de los estudiantes no saben copiar y pegar con el teclado</a></h4>
+    <a href='https://computerhoy.com/pc/estudiantes-no-saben-copiar-pegar-teclado-1346320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/generacion-movil-40-estudiantes-no-saben-copiar-pegar-teclado-3242632.jpg?tf=1200x' alt='Generación móvil: el 40% de los estudiantes no saben copiar y pegar con el teclado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/smartwatch-llamadas-tiene-precio-no-creer-aliexpress-te-llega-rapidisimo-1345194'>Este smartwatch con llamadas tiene precio de no creer en AliExpress, y te llega rapidísimo</a></h4>
     <a href='https://computerhoy.com/tecnologia/smartwatch-llamadas-tiene-precio-no-creer-aliexpress-te-llega-rapidisimo-1345194' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zeblade-btalk-3240550.jpg?tf=1200x' alt='Este smartwatch con llamadas tiene precio de no creer en AliExpress, y te llega rapidísimo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-crear-acceso-directo-icono-apagado-windows-11-1345310'>Cómo crear un acceso directo o icono de apagado en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-crear-acceso-directo-icono-apagado-windows-11-1345310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/crear-acceso-directo-apagar-windows-11-3240750.jpg?tf=1200x' alt='Cómo crear un acceso directo o icono de apagado en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/steve-jobs-bill-gates-elon-musk-rasgos-personalidad-tienen-comun-1345446'>Steve Jobs, Bill Gates o Elon Musk: los rasgos de personalidad comunes que los condujeron al éxito</a></h4>
-    <a href='https://computerhoy.com/life/steve-jobs-bill-gates-elon-musk-rasgos-personalidad-tienen-comun-1345446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/steve-jobs-bill-gates-elon-musk-rasgos-personalidad-tienen-comun-3241118.jpg?tf=1200x' alt='Steve Jobs, Bill Gates o Elon Musk: los rasgos de personalidad comunes que los condujeron al éxito' />
     </a>
 </div>
 
