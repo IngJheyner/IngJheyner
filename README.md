@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-matrix-1346416'>Qué película ver en la TDT hoy: ¿Y si vivimos en una simulación creada por las máquinas?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-matrix-1346416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-ver-tdt-hoy-vivimos-simulacion-creada-maquinas-3242842.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: ¿Y si vivimos en una simulación creada por las máquinas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-auriculares-conduccion-osea-perfectos-runners-son-baratos-nunca-1345750'>Amazon está liquidando unos auriculares de conducción ósea perfectos para runners y que son más baratos que nunca</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-liquidando-auriculares-conduccion-osea-perfectos-runners-son-baratos-nunca-1345750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/shokz-openmove-3241568.jpg?tf=1200x' alt='Amazon está liquidando unos auriculares de conducción ósea perfectos para runners y que son más baratos que nunca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/carcel-youtuber-estrella-avion-grabar-video-youtube-1346342'>A la cárcel el youtuber que estrelló un avión para grabar un vídeo para su canal </a></h4>
     <a href='https://computerhoy.com/redes/carcel-youtuber-estrella-avion-grabar-video-youtube-1346342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/youtuber-pierde-licencia-piloto-estrellar-avion-proposito-video-2682509.jpg?tf=1200x' alt='A la cárcel el youtuber que estrelló un avión para grabar un vídeo para su canal ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/estudiantes-no-saben-copiar-pegar-teclado-1346320'>Generación móvil: el 40% de los estudiantes no sabe copiar y pegar con el teclado</a></h4>
-    <a href='https://computerhoy.com/pc/estudiantes-no-saben-copiar-pegar-teclado-1346320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/generacion-movil-40-estudiantes-no-saben-copiar-pegar-teclado-3242632.jpg?tf=1200x' alt='Generación móvil: el 40% de los estudiantes no sabe copiar y pegar con el teclado' />
     </a>
 </div>
 
