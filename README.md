@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/estudiantes-no-saben-copiar-pegar-teclado-1346320'>Generación móvil: el 40% de los estudiantes no saben copiar y pegar con el teclado</a></h4>
+    <h4><a href='https://computerhoy.com/redes/carcel-youtuber-estrella-avion-grabar-video-youtube-1346342'>A la cárcel el youtuber que estrelló un avión para grabar un vídeo para su canal </a></h4>
+    <a href='https://computerhoy.com/redes/carcel-youtuber-estrella-avion-grabar-video-youtube-1346342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/youtuber-pierde-licencia-piloto-estrellar-avion-proposito-video-2682509.jpg?tf=1200x' alt='A la cárcel el youtuber que estrelló un avión para grabar un vídeo para su canal ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/estudiantes-no-saben-copiar-pegar-teclado-1346320'>Generación móvil: el 40% de los estudiantes no sabe copiar y pegar con el teclado</a></h4>
     <a href='https://computerhoy.com/pc/estudiantes-no-saben-copiar-pegar-teclado-1346320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/generacion-movil-40-estudiantes-no-saben-copiar-pegar-teclado-3242632.jpg?tf=1200x' alt='Generación móvil: el 40% de los estudiantes no saben copiar y pegar con el teclado' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/generacion-movil-40-estudiantes-no-saben-copiar-pegar-teclado-3242632.jpg?tf=1200x' alt='Generación móvil: el 40% de los estudiantes no sabe copiar y pegar con el teclado' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ofrece-mejores-respuestas-si-das-propina-1346296'>ChatGPT ya es humano: si le das una propina, ofrece mejores respuestas</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-ofrece-mejores-respuestas-si-das-propina-1346296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chatgpt-ya-tan-humano-como-nosotros-das-propina-ofrece-mejores-respuestas-3242542.jpg?tf=1200x' alt='ChatGPT ya es humano: si le das una propina, ofrece mejores respuestas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-acceso-directo-icono-apagado-windows-11-1345310'>Cómo crear un acceso directo o icono de apagado en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-acceso-directo-icono-apagado-windows-11-1345310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/crear-acceso-directo-apagar-windows-11-3240750.jpg?tf=1200x' alt='Cómo crear un acceso directo o icono de apagado en Windows 11' />
     </a>
 </div>
 
