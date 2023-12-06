@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-volver-viejos-colores-google-maps-android-auto-1346088'>¿Odias los nuevos colores de Google Maps en Android Auto? Esta app puede ser tu salvación</a></h4>
+    <a href='https://computerhoy.com/apps/como-volver-viejos-colores-google-maps-android-auto-1346088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/odias-nuevos-colores-google-maps-android-auto-app-puede-ser-salvacion-3242292.jpg?tf=1200x' alt='¿Odias los nuevos colores de Google Maps en Android Auto? Esta app puede ser tu salvación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/tres-peliculas-pixar-pandemia-estrenaran-cines-2024-1346096'>El cine gana la batalla al streaming: tres películas de Pixar de la pandemia se estrenarán en los cines en 2024</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/tres-peliculas-pixar-pandemia-estrenaran-cines-2024-1346096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cine-aplasta-definitivamente-streaming-tres-peliculas-pixar-pandemia-estrenaran-salas-2024-3242276.jpg?tf=1200x' alt='El cine gana la batalla al streaming: tres películas de Pixar de la pandemia se estrenarán en los cines en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/edad-te-enteraste-sirven-realmente-dientes-tijeras-cocina-1346084'>¿A qué edad te enteraste para qué sirven realmente los dientes de las tijeras de cocina?</a></h4>
     <a href='https://computerhoy.com/life/edad-te-enteraste-sirven-realmente-dientes-tijeras-cocina-1346084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/edad-te-enteraste-sirven-realmente-dientes-tijeras-cocina-3242268.jpg?tf=1200x' alt='¿A qué edad te enteraste para qué sirven realmente los dientes de las tijeras de cocina?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/impresionante-tv-tiene-panel-qled-144-hz-modo-gaming-descuento-locos-1345280'>Esta impresionante TV tiene panel QLED a 144 Hz, modo gaming y un descuento de locos</a></h4>
     <a href='https://computerhoy.com/tecnologia/impresionante-tv-tiene-panel-qled-144-hz-modo-gaming-descuento-locos-1345280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/tcl-55p715-2143325.jpg?tf=1200x' alt='Esta impresionante TV tiene panel QLED a 144 Hz, modo gaming y un descuento de locos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-en-tierra-hostil-1346070'>Qué película ver en la TDT hoy: cuando el mayor peligro en una guerra, son las personas que te cubren la espalda</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-en-tierra-hostil-1346070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-ver-tdt-hoy-cuando-mayor-peligro-guerra-son-personas-cubren-espalda-3242126.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: cuando el mayor peligro en una guerra, son las personas que te cubren la espalda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-convertir-adn-unidad-flash-mensaje-perdurara-siempre-1346044'>Ya puedes convertir tu ADN en una unidad flash con un mensaje que perdurará para siempre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-puedes-convertir-adn-unidad-flash-mensaje-perdurara-siempre-1346044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tarjeta-adn-3242102.jpg?tf=1200x' alt='Ya puedes convertir tu ADN en una unidad flash con un mensaje que perdurará para siempre' />
     </a>
 </div>
 
