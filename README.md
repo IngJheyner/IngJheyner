@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/primera-mision-privada-peregrine-viajara-luna-nochebuena-astrobotic-1346436'>La primera misión privada viajará a la Luna en Nochebuena: transporta cenizas de muertos, un bitcoin, y más cosas</a></h4>
+    <a href='https://computerhoy.com/espacio/primera-mision-privada-peregrine-viajara-luna-nochebuena-astrobotic-1346436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/modulo-privado-peregrine-aterrizara-luna-nochebuena-transporta-cenizas-muertos-bitcoin-cosas-3242956.jpg?tf=1200x' alt='La primera misión privada viajará a la Luna en Nochebuena: transporta cenizas de muertos, un bitcoin, y más cosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/acer-nitro-v-16-saca-musculo-portatil-gaming-ryzen-7-8040-1346306'>Acer Nitro V 16 saca músculo, así es el portátil gaming con Ryzen 7 8040 Zen4</a></h4>
     <a href='https://computerhoy.com/gaming/acer-nitro-v-16-saca-musculo-portatil-gaming-ryzen-7-8040-1346306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acer-nitro-3242646.jpg?tf=1200x' alt='Acer Nitro V 16 saca músculo, así es el portátil gaming con Ryzen 7 8040 Zen4' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-matrix-1346416'>Qué película ver en la TDT hoy: ¿Y si vivimos en una simulación creada por las máquinas?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-matrix-1346416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-ver-tdt-hoy-vivimos-simulacion-creada-maquinas-3242842.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: ¿Y si vivimos en una simulación creada por las máquinas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-auriculares-conduccion-osea-perfectos-runners-son-baratos-nunca-1345750'>Amazon está liquidando unos auriculares de conducción ósea perfectos para runners y que son más baratos que nunca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-auriculares-conduccion-osea-perfectos-runners-son-baratos-nunca-1345750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/shokz-openmove-3241568.jpg?tf=1200x' alt='Amazon está liquidando unos auriculares de conducción ósea perfectos para runners y que son más baratos que nunca' />
     </a>
 </div>
 
