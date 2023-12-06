@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-reparar-disco-ssd-estropeado-1345602'>6 métodos efectivos para reparar un disco SSD dañado</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-reparar-disco-ssd-estropeado-1345602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/6-metodos-efectivos-reparar-disco-ssd-danado-3241500.jpg?tf=1200x' alt='6 métodos efectivos para reparar un disco SSD dañado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-mantener-copia-seguridad-whatsapp-google-drive-gratis-1345484'>Cómo mantener la copia de seguridad de WhatsApp en Google Drive gratis sin pagar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mantener-copia-seguridad-whatsapp-google-drive-gratis-1345484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-mantener-copia-seguridad-whatsapp-google-drive-gratis-pagar-nada-3241194.jpg?tf=1200x' alt='Cómo mantener la copia de seguridad de WhatsApp en Google Drive gratis sin pagar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/5-robots-aspiradores-1000eu-merecen-muchisimo-pena-1346068'>5 robots aspiradores de más de 1.000€ que merecen muchísimo la pena</a></h4>
+    <a href='https://computerhoy.com/mejores/5-robots-aspiradores-1000eu-merecen-muchisimo-pena-1346068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dreame-l20-ultra-complete-3217988.jpg?tf=1200x' alt='5 robots aspiradores de más de 1.000€ que merecen muchísimo la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/parece-tinder-ajedrez-perdiendo-partida-1345024'>¿En qué se parece Tinder al ajedrez y por qué está perdiendo la partida?</a></h4>
+    <a href='https://computerhoy.com/apps/parece-tinder-ajedrez-perdiendo-partida-1345024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/parece-tinder-ajedrez-perdiendo-partida-3240370.jpg?tf=1200x' alt='¿En qué se parece Tinder al ajedrez y por qué está perdiendo la partida?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mucho-sudor-casi-lagrimas-como-oppo-calibra-informacion-salud-deporte-relojes-1345488'>Mucho sudor y casi con lágrimas: así es como Oppo calibra la información de salud y deporte en sus relojes</a></h4>
     <a href='https://computerhoy.com/tecnologia/mucho-sudor-casi-lagrimas-como-oppo-calibra-informacion-salud-deporte-relojes-1345488' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/oppo-health-lab-3241126.jpg?tf=1200x' alt='Mucho sudor y casi con lágrimas: así es como Oppo calibra la información de salud y deporte en sus relojes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/razon-no-deberias-apagar-router-wifi-noche-1345766'>Esta es la razón por la que no deberías apagar el router WiFi por la noche</a></h4>
-    <a href='https://computerhoy.com/redes/razon-no-deberias-apagar-router-wifi-noche-1345766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/razon-no-deberias-apagar-router-noche-3241580.jpg?tf=1200x' alt='Esta es la razón por la que no deberías apagar el router WiFi por la noche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/grafico-gpu-h100-nvidia-inteligencia-artificial-1346232'>Una gráfica con las empresas que más chips de NVIDIA han comprado, deja claro quién manda en el mercado de la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/grafico-gpu-h100-nvidia-inteligencia-artificial-1346232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/grafico-empresas-chips-nvidia-han-comprado-deja-claro-quien-quien-mercado-inteligencia-artificial-3242472.jpg?tf=1200x' alt='Una gráfica con las empresas que más chips de NVIDIA han comprado, deja claro quién manda en el mercado de la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-precio-ridiculo-pc-miniatura-rompe-esquemas-aliexpress-1345306'>Ryzen 7 y 16GB de RAM a precio ridículo: este PC en miniatura rompe esquemas en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-precio-ridiculo-pc-miniatura-rompe-esquemas-aliexpress-1345306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amd-ryzen-3240692.jpg?tf=1200x' alt='Ryzen 7 y 16GB de RAM a precio ridículo: este PC en miniatura rompe esquemas en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771'>Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-955771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-crear-nueva-cuenta-correo-hotmail-recuperar-antigua-has-perdido-3241502.jpg?tf=1200x' alt='Cómo crear una nueva cuenta de correo de Hotmail o recuperar una antigua que has perdido' />
     </a>
 </div>
 
