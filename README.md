@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/nuevo-movil-vintage-apple-iphone-se-2016-1346272'>Este es el nuevo iPhone que Apple considera vintage: mejor no lo rompas</a></h4>
+    <a href='https://computerhoy.com/apple/nuevo-movil-vintage-apple-iphone-se-2016-1346272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nuevo-iphone-apple-considera-vintage-mejor-no-rompas-3242516.jpg?tf=1200x' alt='Este es el nuevo iPhone que Apple considera vintage: mejor no lo rompas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/anuptafobia-tiempos-internet-puede-afectarte-miedo-no-tener-pareja-1338460'>Anuptafobia en tiempos de Internet: así puede afectarte el miedo a no tener pareja</a></h4>
     <a href='https://computerhoy.com/internet/anuptafobia-tiempos-internet-puede-afectarte-miedo-no-tener-pareja-1338460' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/silueta-pareja-3241828.jpg?tf=1200x' alt='Anuptafobia en tiempos de Internet: así puede afectarte el miedo a no tener pareja' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-mantener-copia-seguridad-whatsapp-google-drive-gratis-1345484'>Cómo mantener la copia de seguridad de WhatsApp en Google Drive gratis sin pagar nada</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-mantener-copia-seguridad-whatsapp-google-drive-gratis-1345484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-mantener-copia-seguridad-whatsapp-google-drive-gratis-pagar-nada-3241194.jpg?tf=1200x' alt='Cómo mantener la copia de seguridad de WhatsApp en Google Drive gratis sin pagar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/5-robots-aspiradores-1000eu-merecen-muchisimo-pena-1346068'>5 robots aspiradores de más de 1.000€ que merecen muchísimo la pena</a></h4>
-    <a href='https://computerhoy.com/mejores/5-robots-aspiradores-1000eu-merecen-muchisimo-pena-1346068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dreame-l20-ultra-complete-3217988.jpg?tf=1200x' alt='5 robots aspiradores de más de 1.000€ que merecen muchísimo la pena' />
     </a>
 </div>
 
