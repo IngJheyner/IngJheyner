@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nuevo-movil-vintage-apple-iphone-se-2016-1346272'>Este es el nuevo iPhone que Apple considera vintage: mejor no lo rompas</a></h4>
-    <a href='https://computerhoy.com/apple/nuevo-movil-vintage-apple-iphone-se-2016-1346272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nuevo-iphone-apple-considera-vintage-mejor-no-rompas-3242516.jpg?tf=1200x' alt='Este es el nuevo iPhone que Apple considera vintage: mejor no lo rompas' />
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-llamadas-tiene-precio-no-creer-aliexpress-te-llega-rapidisimo-1345194'>Este smartwatch con llamadas tiene precio de no creer en AliExpress, y te llega rapidísimo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-llamadas-tiene-precio-no-creer-aliexpress-te-llega-rapidisimo-1345194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zeblade-btalk-3240550.jpg?tf=1200x' alt='Este smartwatch con llamadas tiene precio de no creer en AliExpress, y te llega rapidísimo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/anuptafobia-tiempos-internet-puede-afectarte-miedo-no-tener-pareja-1338460'>Anuptafobia en tiempos de Internet: así puede afectarte el miedo a no tener pareja</a></h4>
-    <a href='https://computerhoy.com/internet/anuptafobia-tiempos-internet-puede-afectarte-miedo-no-tener-pareja-1338460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/silueta-pareja-3241828.jpg?tf=1200x' alt='Anuptafobia en tiempos de Internet: así puede afectarte el miedo a no tener pareja' />
+    <h4><a href='https://computerhoy.com/life/minimalismo-digital-1344042'>He probado un mes el minimalismo digital y he notado muchos cambios positivos en mi salud mental</a></h4>
+    <a href='https://computerhoy.com/life/minimalismo-digital-1344042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/relax-3241816.jpg?tf=1200x' alt='He probado un mes el minimalismo digital y he notado muchos cambios positivos en mi salud mental' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/peligros-te-expones-solo-tener-flipper-zero-1345554'>Peligros y problemas a los que te expones solo por tener un Flipper Zero, el Tamagotchi para hackers</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/peligros-te-expones-solo-tener-flipper-zero-1345554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/peligros-problemas-te-expones-solo-tener-flipper-zero-tamagotchi-hackers-3241318.jpg?tf=1200x' alt='Peligros y problemas a los que te expones solo por tener un Flipper Zero, el Tamagotchi para hackers' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ofrece-mejores-respuestas-si-das-propina-1346296'>ChatGPT ya es humano: si le das una propina, ofrece mejores respuestas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ofrece-mejores-respuestas-si-das-propina-1346296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chatgpt-ya-tan-humano-como-nosotros-das-propina-ofrece-mejores-respuestas-3242542.jpg?tf=1200x' alt='ChatGPT ya es humano: si le das una propina, ofrece mejores respuestas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-reparar-disco-ssd-estropeado-1345602'>6 métodos efectivos para reparar un disco SSD dañado</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-reparar-disco-ssd-estropeado-1345602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/6-metodos-efectivos-reparar-disco-ssd-danado-3241500.jpg?tf=1200x' alt='6 métodos efectivos para reparar un disco SSD dañado' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-acceso-directo-icono-apagado-windows-11-1345310'>Cómo crear un acceso directo o icono de apagado en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-acceso-directo-icono-apagado-windows-11-1345310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/crear-acceso-directo-apagar-windows-11-3240750.jpg?tf=1200x' alt='Cómo crear un acceso directo o icono de apagado en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mantener-copia-seguridad-whatsapp-google-drive-gratis-1345484'>Cómo mantener la copia de seguridad de WhatsApp en Google Drive gratis sin pagar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mantener-copia-seguridad-whatsapp-google-drive-gratis-1345484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-mantener-copia-seguridad-whatsapp-google-drive-gratis-pagar-nada-3241194.jpg?tf=1200x' alt='Cómo mantener la copia de seguridad de WhatsApp en Google Drive gratis sin pagar nada' />
+    <h4><a href='https://computerhoy.com/life/steve-jobs-bill-gates-elon-musk-rasgos-personalidad-tienen-comun-1345446'>Steve Jobs, Bill Gates o Elon Musk: los rasgos de personalidad comunes que los condujeron al éxito</a></h4>
+    <a href='https://computerhoy.com/life/steve-jobs-bill-gates-elon-musk-rasgos-personalidad-tienen-comun-1345446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/steve-jobs-bill-gates-elon-musk-rasgos-personalidad-tienen-comun-3241118.jpg?tf=1200x' alt='Steve Jobs, Bill Gates o Elon Musk: los rasgos de personalidad comunes que los condujeron al éxito' />
     </a>
 </div>
 
