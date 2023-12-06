@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-1tb-ssd-precio-locos-portatil-canon-cuesta-1345824'>Ryzen 7 y 1TB de SSD a precio de locos: este portátil es un cañón por lo que cuesta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ryzen-7-1tb-ssd-precio-locos-portatil-canon-cuesta-1345824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/alurin-flex-advance-3241686.jpg?tf=1200x' alt='Ryzen 7 y 1TB de SSD a precio de locos: este portátil es un cañón por lo que cuesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/primera-mision-privada-peregrine-viajara-luna-nochebuena-astrobotic-1346436'>La primera misión privada viajará a la Luna en Nochebuena: transporta cenizas de muertos, un bitcoin, y más cosas</a></h4>
     <a href='https://computerhoy.com/espacio/primera-mision-privada-peregrine-viajara-luna-nochebuena-astrobotic-1346436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/modulo-privado-peregrine-aterrizara-luna-nochebuena-transporta-cenizas-muertos-bitcoin-cosas-3242956.jpg?tf=1200x' alt='La primera misión privada viajará a la Luna en Nochebuena: transporta cenizas de muertos, un bitcoin, y más cosas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/estos-fueron-articulos-leidos-wikipedia-2023-1346418'>Estos fueron los artículos más leídos de la Wikipedia en 2023</a></h4>
     <a href='https://computerhoy.com/internet/estos-fueron-articulos-leidos-wikipedia-2023-1346418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wikipedia-2023-3242898.jpg?tf=1200x' alt='Estos fueron los artículos más leídos de la Wikipedia en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-matrix-1346416'>Qué película ver en la TDT hoy: ¿Y si vivimos en una simulación creada por las máquinas?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-matrix-1346416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-ver-tdt-hoy-vivimos-simulacion-creada-maquinas-3242842.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: ¿Y si vivimos en una simulación creada por las máquinas?' />
     </a>
 </div>
 
