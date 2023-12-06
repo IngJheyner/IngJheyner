@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/amd-procesadores-ryzen-8040-ineligencia-artificial-1346442'>AMD se adelanta a Intel y presenta su gama de procesadores Ryzen 8040, se inicia la nueva era de los AI PC</a></h4>
+    <a href='https://computerhoy.com/pc/amd-procesadores-ryzen-8040-ineligencia-artificial-1346442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amd-adelanta-intel-presenta-gama-procesadores-ryzen-8040-inicia-nueva-era-ai-pc-3243072.jpg?tf=1200x' alt='AMD se adelanta a Intel y presenta su gama de procesadores Ryzen 8040, se inicia la nueva era de los AI PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-1tb-ssd-precio-locos-portatil-canon-cuesta-1345824'>Ryzen 7 y 1TB de SSD a precio de locos: este portátil es un cañón por lo que cuesta</a></h4>
     <a href='https://computerhoy.com/tecnologia/ryzen-7-1tb-ssd-precio-locos-portatil-canon-cuesta-1345824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/alurin-flex-advance-3241686.jpg?tf=1200x' alt='Ryzen 7 y 1TB de SSD a precio de locos: este portátil es un cañón por lo que cuesta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-lleva-carga-inalambrica-qi2-iphone-antiguos-actualizacion-1346426'>Apple lleva la carga inalámbrica Qi2 a los iPhone más antiguos con esta actualización</a></h4>
     <a href='https://computerhoy.com/apple/apple-lleva-carga-inalambrica-qi2-iphone-antiguos-actualizacion-1346426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nuevo-estandar-qi2-anunciado-ces-2023-llevara-magsafe-dispositivos-no-son-apple-2919242.jpg?tf=1200x' alt='Apple lleva la carga inalámbrica Qi2 a los iPhone más antiguos con esta actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/estos-fueron-articulos-leidos-wikipedia-2023-1346418'>Estos fueron los artículos más leídos de la Wikipedia en 2023</a></h4>
-    <a href='https://computerhoy.com/internet/estos-fueron-articulos-leidos-wikipedia-2023-1346418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wikipedia-2023-3242898.jpg?tf=1200x' alt='Estos fueron los artículos más leídos de la Wikipedia en 2023' />
     </a>
 </div>
 
