@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/evita-ser-enganado-estafa-redirige-usuarios-bizum-paginas-fraudulentas-1346858'>Evita ser engañado: la estafa que redirige a usuarios de Bizum a páginas fraudulentas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/evita-ser-enganado-estafa-redirige-usuarios-bizum-paginas-fraudulentas-1346858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bizum-2833649.jpg?tf=1200x' alt='Evita ser engañado: la estafa que redirige a usuarios de Bizum a páginas fraudulentas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/como-identificar-solucionar-cuellos-botella-pc-1335002'>Cómo identificar y solucionar los cuellos de botella en tu PC</a></h4>
     <a href='https://computerhoy.com/pc/como-identificar-solucionar-cuellos-botella-pc-1335002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-identificar-solucionar-cuellos-botella-pc-3221934.jpg?tf=1200x' alt='Cómo identificar y solucionar los cuellos de botella en tu PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/nueva-funcion-whatsapp-compartir-musica-videollamada-1346720'>Así es la nueva función de WhatsApp para compartir música en una videollamada</a></h4>
     <a href='https://computerhoy.com/redes/nueva-funcion-whatsapp-compartir-musica-videollamada-1346720' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/canales-whatsapp-llegan-fin-espana-3133998.jpg?tf=1200x' alt='Así es la nueva función de WhatsApp para compartir música en una videollamada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-proxima-jugada-integrarse-instagram-1346748'>WhatsApp y su próxima jugada para integrarse con Instagram</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-proxima-jugada-integrarse-instagram-1346748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-instagram-3243588.jpg?tf=1200x' alt='WhatsApp y su próxima jugada para integrarse con Instagram' />
     </a>
 </div>
 
