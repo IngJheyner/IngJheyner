@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-gemini-mejora-chatgpt-1346690'>Así es como Gemini mejora a ChatGPT </a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-gemini-mejora-chatgpt-1346690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-vs-chatgpt-3243674.jpg?tf=1200x' alt='Así es como Gemini mejora a ChatGPT ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/popular-robot-aspirador-cuesta-ahora-solo-100-euros-amazon-1346608'>Este popular robot aspirador cuesta ahora sólo 100 euros en Amazon</a></h4>
     <a href='https://computerhoy.com/hogar/popular-robot-aspirador-cuesta-ahora-solo-100-euros-amazon-1346608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lefant-m210-2635959.jpg?tf=1200x' alt='Este popular robot aspirador cuesta ahora sólo 100 euros en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/oscuro-origen-fanta-bebida-nazis-1343024'>El oscuro origen de Fanta: así es cómo nació uno de los refrescos más deseados durante la época nazi</a></h4>
     <a href='https://computerhoy.com/life/oscuro-origen-fanta-bebida-nazis-1343024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oscuro-origen-fanta-como-nacio-refrescos-naranja-deseados-durante-era-nazi-3236132.jpg?tf=1200x' alt='El oscuro origen de Fanta: así es cómo nació uno de los refrescos más deseados durante la época nazi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/razones-deberias-desactivar-wifi-iphone-antes-salir-casa-1346818'>Razones por las que siempre deberías desactivar el WiFi en tu iPhone antes de salir de casa</a></h4>
-    <a href='https://computerhoy.com/apple/razones-deberias-desactivar-wifi-iphone-antes-salir-casa-1346818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wifi-iphone-3243682.jpg?tf=1200x' alt='Razones por las que siempre deberías desactivar el WiFi en tu iPhone antes de salir de casa' />
     </a>
 </div>
 
