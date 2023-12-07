@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-657-computer-hoy-1343276'>¡Ya está en tu quiosco el número 657 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-657-computer-hoy-1343276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/computer-hoy-657-3240602.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 657 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/peligroso-ataque-afecta-casi-todos-ordenadores-windows-linux-quien-libra-1346604'>Este nuevo y peligroso ataque afecta a casi todos los ordenadores Windows y Linux, ¿quién se libra?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/peligroso-ataque-afecta-casi-todos-ordenadores-windows-linux-quien-libra-1346604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ciberataque-seguridad-3243348.jpg?tf=1200x' alt='Este nuevo y peligroso ataque afecta a casi todos los ordenadores Windows y Linux, ¿quién se libra?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/como-saber-coordenadas-cualquier-lugar-google-maps-1338462'>Cómo saber las coordenadas de cualquier lugar con Google Maps</a></h4>
+    <a href='https://computerhoy.com/google/como-saber-coordenadas-cualquier-lugar-google-maps-1338462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-saber-coordenadas-cualquier-lugar-google-maps-3227928.jpg?tf=1200x' alt='Cómo saber las coordenadas de cualquier lugar con Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/asi-utilizo-alipay-wechat-china-1340932'>He pasado una semana en China usando sus dos aplicaciones más importantes: así utilizan WeChat y AliPay en su día a día</a></h4>
     <a href='https://computerhoy.com/apps/asi-utilizo-alipay-wechat-china-1340932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/alipay-3232252.jpg?tf=1200x' alt='He pasado una semana en China usando sus dos aplicaciones más importantes: así utilizan WeChat y AliPay en su día a día' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/5-sencillos-trucos-ahorrar-electricidad-navidad-1340870'>5 trucos mágicos para reducir tu factura de luz esta Navidad</a></h4>
     <a href='https://computerhoy.com/life/5-sencillos-trucos-ahorrar-electricidad-navidad-1340870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ahorrar-electricidad-navidad-3242862.jpg?tf=1200x' alt='5 trucos mágicos para reducir tu factura de luz esta Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/moviles-snapdragon-778g-1225022'>Estos son los mejores móviles con procesador Snapdragon 778G del momento</a></h4>
-    <a href='https://computerhoy.com/mejores/moviles-snapdragon-778g-1225022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/poco-x5-poco-x5-pro-2975332.jpg?tf=1200x' alt='Estos son los mejores móviles con procesador Snapdragon 778G del momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/calor-impide-hibernar-osos-pardos-siberia-1346448'>Docenas de osos sonámbulos vagan sin rumbo por Siberia: hace tanto calor, que no pueden hibernar</a></h4>
-    <a href='https://computerhoy.com/life/calor-impide-hibernar-osos-pardos-siberia-1346448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/docenas-osos-sonambulos-vagan-rumbo-siberia-hace-tanto-calor-no-pueden-hibernar-3243082.jpg?tf=1200x' alt='Docenas de osos sonámbulos vagan sin rumbo por Siberia: hace tanto calor, que no pueden hibernar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/amd-procesadores-ryzen-8040-ineligencia-artificial-1346442'>AMD se adelanta a Intel y presenta su gama de procesadores Ryzen 8040, se inicia la nueva era de los AI PC</a></h4>
-    <a href='https://computerhoy.com/pc/amd-procesadores-ryzen-8040-ineligencia-artificial-1346442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amd-adelanta-intel-presenta-gama-procesadores-ryzen-8040-inicia-nueva-era-ai-pc-3243072.jpg?tf=1200x' alt='AMD se adelanta a Intel y presenta su gama de procesadores Ryzen 8040, se inicia la nueva era de los AI PC' />
     </a>
 </div>
 
