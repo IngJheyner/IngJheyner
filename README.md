@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/popular-robot-aspirador-cuesta-ahora-solo-100-euros-amazon-1346608'>Este popular robot aspirador cuesta ahora sólo 100 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/hogar/popular-robot-aspirador-cuesta-ahora-solo-100-euros-amazon-1346608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lefant-m210-2635959.jpg?tf=1200x' alt='Este popular robot aspirador cuesta ahora sólo 100 euros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/evita-ser-enganado-estafa-redirige-usuarios-bizum-paginas-fraudulentas-1346858'>Evita ser engañado: la estafa que redirige a usuarios de Bizum a páginas fraudulentas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/evita-ser-enganado-estafa-redirige-usuarios-bizum-paginas-fraudulentas-1346858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bizum-2833649.jpg?tf=1200x' alt='Evita ser engañado: la estafa que redirige a usuarios de Bizum a páginas fraudulentas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/razones-deberias-desactivar-wifi-iphone-antes-salir-casa-1346818'>Razones por las que siempre deberías desactivar el WiFi en tu iPhone antes de salir de casa</a></h4>
     <a href='https://computerhoy.com/apple/razones-deberias-desactivar-wifi-iphone-antes-salir-casa-1346818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wifi-iphone-3243682.jpg?tf=1200x' alt='Razones por las que siempre deberías desactivar el WiFi en tu iPhone antes de salir de casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/nueva-funcion-whatsapp-compartir-musica-videollamada-1346720'>Así es la nueva función de WhatsApp para compartir música en una videollamada</a></h4>
-    <a href='https://computerhoy.com/redes/nueva-funcion-whatsapp-compartir-musica-videollamada-1346720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/canales-whatsapp-llegan-fin-espana-3133998.jpg?tf=1200x' alt='Así es la nueva función de WhatsApp para compartir música en una videollamada' />
     </a>
 </div>
 
