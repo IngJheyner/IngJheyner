@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/anos-promesas-cifrado-extremo-extremo-llega-messenger-1346676'>Tras años de promesas, el cifrado de extremo a extremo llega a Messenger aunque no todos lo aprueban</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/anos-promesas-cifrado-extremo-extremo-llega-messenger-1346676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cifrado-extremo-extremo-menssenger-meta-3243478.jpg?tf=1200x' alt='Tras años de promesas, el cifrado de extremo a extremo llega a Messenger aunque no todos lo aprueban' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/herramienta-ia-meta-ha-usado-1000-millones-fotos-publicas-permiso-1346650'>Esta herramienta con IA de Meta ha usado más de 1.000 millones de fotos públicas de Instagram y Facebook sin tu permiso</a></h4>
     <a href='https://computerhoy.com/tecnologia/herramienta-ia-meta-ha-usado-1000-millones-fotos-publicas-permiso-1346650' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/meta-herramienta-inteligencia-artificial-3243416.jpg?tf=1200x' alt='Esta herramienta con IA de Meta ha usado más de 1.000 millones de fotos públicas de Instagram y Facebook sin tu permiso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-657-computer-hoy-1343276'>¡Ya está en tu quiosco el número 657 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-657-computer-hoy-1343276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/computer-hoy-657-3240602.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 657 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/peligroso-ataque-afecta-casi-todos-ordenadores-windows-linux-quien-libra-1346604'>Este nuevo y peligroso ataque afecta a casi todos los ordenadores Windows y Linux, ¿quién se libra?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/peligroso-ataque-afecta-casi-todos-ordenadores-windows-linux-quien-libra-1346604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ciberataque-seguridad-3243348.jpg?tf=1200x' alt='Este nuevo y peligroso ataque afecta a casi todos los ordenadores Windows y Linux, ¿quién se libra?' />
     </a>
 </div>
 
