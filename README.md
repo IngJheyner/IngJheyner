@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/como-identificar-solucionar-cuellos-botella-pc-1335002'>Cómo identificar y solucionar los cuellos de botella en tu PC</a></h4>
+    <a href='https://computerhoy.com/pc/como-identificar-solucionar-cuellos-botella-pc-1335002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-identificar-solucionar-cuellos-botella-pc-3221934.jpg?tf=1200x' alt='Cómo identificar y solucionar los cuellos de botella en tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/oscuro-origen-fanta-bebida-nazis-1343024'>El oscuro origen de Fanta: así es cómo nació uno de los refrescos más deseados durante la época nazi</a></h4>
+    <a href='https://computerhoy.com/life/oscuro-origen-fanta-bebida-nazis-1343024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oscuro-origen-fanta-como-nacio-refrescos-naranja-deseados-durante-era-nazi-3236132.jpg?tf=1200x' alt='El oscuro origen de Fanta: así es cómo nació uno de los refrescos más deseados durante la época nazi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/razones-deberias-desactivar-wifi-iphone-antes-salir-casa-1346818'>Razones por las que siempre deberías desactivar el WiFi en tu iPhone antes de salir de casa</a></h4>
     <a href='https://computerhoy.com/apple/razones-deberias-desactivar-wifi-iphone-antes-salir-casa-1346818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wifi-iphone-3243682.jpg?tf=1200x' alt='Razones por las que siempre deberías desactivar el WiFi en tu iPhone antes de salir de casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-proxima-jugada-integrarse-instagram-1346748'>WhatsApp y su próxima jugada para integrarse con Instagram</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-proxima-jugada-integrarse-instagram-1346748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-instagram-3243588.jpg?tf=1200x' alt='WhatsApp y su próxima jugada para integrarse con Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-lenguajes-programacion-van-triunfar-2024-1346694'>Los 7 lenguajes de programación que deberías conocer y que triunfarán en 2024</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-lenguajes-programacion-van-triunfar-2024-1346694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/lenguajes-programacion-3243520.jpg?tf=1200x' alt='Los 7 lenguajes de programación que deberías conocer y que triunfarán en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/anos-promesas-cifrado-extremo-extremo-llega-messenger-1346676'>Tras años de promesas, el cifrado de extremo a extremo llega a Messenger aunque no todos lo aprueban</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/anos-promesas-cifrado-extremo-extremo-llega-messenger-1346676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cifrado-extremo-extremo-menssenger-meta-3243478.jpg?tf=1200x' alt='Tras años de promesas, el cifrado de extremo a extremo llega a Messenger aunque no todos lo aprueban' />
     </a>
 </div>
 
