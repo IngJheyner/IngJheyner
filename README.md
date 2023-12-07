@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/herramienta-ia-meta-ha-usado-1000-millones-fotos-publicas-permiso-1346650'>Esta herramienta con IA de Meta ha usado más de 1.000 millones de fotos públicas de Instagram y Facebook sin tu permiso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/herramienta-ia-meta-ha-usado-1000-millones-fotos-publicas-permiso-1346650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/meta-herramienta-inteligencia-artificial-3243416.jpg?tf=1200x' alt='Esta herramienta con IA de Meta ha usado más de 1.000 millones de fotos públicas de Instagram y Facebook sin tu permiso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/espionaje-traves-notificaciones-movil-truco-algunos-gobiernos-saber-todo-ti-1346622'>Espionaje a través de notificaciones del móvil: el truco de algunos gobiernos para saber todo de ti</a></h4>
     <a href='https://computerhoy.com/moviles/espionaje-traves-notificaciones-movil-truco-algunos-gobiernos-saber-todo-ti-1346622' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/espionaje-aplicaciones-3243398.jpg?tf=1200x' alt='Espionaje a través de notificaciones del móvil: el truco de algunos gobiernos para saber todo de ti' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/peligroso-ataque-afecta-casi-todos-ordenadores-windows-linux-quien-libra-1346604'>Este nuevo y peligroso ataque afecta a casi todos los ordenadores Windows y Linux, ¿quién se libra?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/peligroso-ataque-afecta-casi-todos-ordenadores-windows-linux-quien-libra-1346604' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ciberataque-seguridad-3243348.jpg?tf=1200x' alt='Este nuevo y peligroso ataque afecta a casi todos los ordenadores Windows y Linux, ¿quién se libra?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-saber-coordenadas-cualquier-lugar-google-maps-1338462'>Cómo saber las coordenadas de cualquier lugar con Google Maps</a></h4>
-    <a href='https://computerhoy.com/google/como-saber-coordenadas-cualquier-lugar-google-maps-1338462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-saber-coordenadas-cualquier-lugar-google-maps-3227928.jpg?tf=1200x' alt='Cómo saber las coordenadas de cualquier lugar con Google Maps' />
     </a>
 </div>
 
