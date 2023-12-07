@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/linux-estrena-pantalla-azul-muerte-1346980'>Linux imita a Windows y estrena su propia Pantalla Azul de la Muerte</a></h4>
+    <a href='https://computerhoy.com/pc/linux-estrena-pantalla-azul-muerte-1346980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pantalla-azul-hypervisorerror-2961190.jpg?tf=1200x' alt='Linux imita a Windows y estrena su propia Pantalla Azul de la Muerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/arrasan-estos-auriculares-cancelacion-40db-son-sorprendentemente-baratos-aliexpress-1345938'>Arrasan estos auriculares con cancelación de 40db: son sorprendentemente baratos en AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/arrasan-estos-auriculares-cancelacion-40db-son-sorprendentemente-baratos-aliexpress-1345938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/baseus-bowie-h1-3241812.jpg?tf=1200x' alt='Arrasan estos auriculares con cancelación de 40db: son sorprendentemente baratos en AliExpress' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/iphone-16-contaria-microfono-mejorado-ensalzar-experiencia-siri-1346966'>El iPhone 16 contaría con un micrófono mejorado para ensalzar la experiencia de Siri</a></h4>
     <a href='https://computerhoy.com/apple/iphone-16-contaria-microfono-mejorado-ensalzar-experiencia-siri-1346966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/7-cosas-puedes-hacer-siri-3112980.jpg?tf=1200x' alt='El iPhone 16 contaría con un micrófono mejorado para ensalzar la experiencia de Siri' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-gemini-mejora-chatgpt-1346690'>Así es como Gemini mejora a ChatGPT </a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-gemini-mejora-chatgpt-1346690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-vs-chatgpt-3243674.jpg?tf=1200x' alt='Así es como Gemini mejora a ChatGPT ' />
     </a>
 </div>
 
