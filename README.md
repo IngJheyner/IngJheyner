@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/asi-utilizo-alipay-wechat-china-1340932'>He pasado una semana en China usando sus dos aplicaciones más importantes: así utilizan WeChat y AliPay en su día a día</a></h4>
+    <a href='https://computerhoy.com/apps/asi-utilizo-alipay-wechat-china-1340932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/alipay-3232252.jpg?tf=1200x' alt='He pasado una semana en China usando sus dos aplicaciones más importantes: así utilizan WeChat y AliPay en su día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/5-sencillos-trucos-ahorrar-electricidad-navidad-1340870'>5 trucos mágicos para reducir tu factura de luz esta Navidad</a></h4>
+    <a href='https://computerhoy.com/life/5-sencillos-trucos-ahorrar-electricidad-navidad-1340870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ahorrar-electricidad-navidad-3242862.jpg?tf=1200x' alt='5 trucos mágicos para reducir tu factura de luz esta Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/moviles-snapdragon-778g-1225022'>Estos son los mejores móviles con procesador Snapdragon 778G del momento</a></h4>
     <a href='https://computerhoy.com/mejores/moviles-snapdragon-778g-1225022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/poco-x5-poco-x5-pro-2975332.jpg?tf=1200x' alt='Estos son los mejores móviles con procesador Snapdragon 778G del momento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/amd-procesadores-ryzen-8040-ineligencia-artificial-1346442'>AMD se adelanta a Intel y presenta su gama de procesadores Ryzen 8040, se inicia la nueva era de los AI PC</a></h4>
     <a href='https://computerhoy.com/pc/amd-procesadores-ryzen-8040-ineligencia-artificial-1346442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amd-adelanta-intel-presenta-gama-procesadores-ryzen-8040-inicia-nueva-era-ai-pc-3243072.jpg?tf=1200x' alt='AMD se adelanta a Intel y presenta su gama de procesadores Ryzen 8040, se inicia la nueva era de los AI PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-1tb-ssd-precio-locos-portatil-canon-cuesta-1345824'>Ryzen 7 y 1TB de SSD a precio de locos: este portátil es un cañón por lo que cuesta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ryzen-7-1tb-ssd-precio-locos-portatil-canon-cuesta-1345824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/alurin-flex-advance-3241686.jpg?tf=1200x' alt='Ryzen 7 y 1TB de SSD a precio de locos: este portátil es un cañón por lo que cuesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/primera-mision-privada-peregrine-viajara-luna-nochebuena-astrobotic-1346436'>La primera misión privada viajará a la Luna en Nochebuena: transporta cenizas de muertos, un bitcoin, y más cosas</a></h4>
-    <a href='https://computerhoy.com/espacio/primera-mision-privada-peregrine-viajara-luna-nochebuena-astrobotic-1346436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/modulo-privado-peregrine-aterrizara-luna-nochebuena-transporta-cenizas-muertos-bitcoin-cosas-3242956.jpg?tf=1200x' alt='La primera misión privada viajará a la Luna en Nochebuena: transporta cenizas de muertos, un bitcoin, y más cosas' />
     </a>
 </div>
 
