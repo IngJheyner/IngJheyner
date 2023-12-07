@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/razones-deberias-desactivar-wifi-iphone-antes-salir-casa-1346818'>Razones por las que siempre deberías desactivar el WiFi en tu iPhone antes de salir de casa</a></h4>
+    <a href='https://computerhoy.com/apple/razones-deberias-desactivar-wifi-iphone-antes-salir-casa-1346818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wifi-iphone-3243682.jpg?tf=1200x' alt='Razones por las que siempre deberías desactivar el WiFi en tu iPhone antes de salir de casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/nueva-funcion-whatsapp-compartir-musica-videollamada-1346720'>Así es la nueva función de WhatsApp para compartir música en una videollamada</a></h4>
+    <a href='https://computerhoy.com/redes/nueva-funcion-whatsapp-compartir-musica-videollamada-1346720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/canales-whatsapp-llegan-fin-espana-3133998.jpg?tf=1200x' alt='Así es la nueva función de WhatsApp para compartir música en una videollamada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-proxima-jugada-integrarse-instagram-1346748'>WhatsApp y su próxima jugada para integrarse con Instagram</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-proxima-jugada-integrarse-instagram-1346748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-instagram-3243588.jpg?tf=1200x' alt='WhatsApp y su próxima jugada para integrarse con Instagram' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/anos-promesas-cifrado-extremo-extremo-llega-messenger-1346676'>Tras años de promesas, el cifrado de extremo a extremo llega a Messenger aunque no todos lo aprueban</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/anos-promesas-cifrado-extremo-extremo-llega-messenger-1346676' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cifrado-extremo-extremo-menssenger-meta-3243478.jpg?tf=1200x' alt='Tras años de promesas, el cifrado de extremo a extremo llega a Messenger aunque no todos lo aprueban' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/herramienta-ia-meta-ha-usado-1000-millones-fotos-publicas-permiso-1346650'>Esta herramienta con IA de Meta ha usado más de 1.000 millones de fotos públicas de Instagram y Facebook sin tu permiso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/herramienta-ia-meta-ha-usado-1000-millones-fotos-publicas-permiso-1346650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/meta-herramienta-inteligencia-artificial-3243416.jpg?tf=1200x' alt='Esta herramienta con IA de Meta ha usado más de 1.000 millones de fotos públicas de Instagram y Facebook sin tu permiso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/espionaje-traves-notificaciones-movil-truco-algunos-gobiernos-saber-todo-ti-1346622'>Espionaje a través de notificaciones del móvil: el truco de algunos gobiernos para saber todo de ti</a></h4>
-    <a href='https://computerhoy.com/moviles/espionaje-traves-notificaciones-movil-truco-algunos-gobiernos-saber-todo-ti-1346622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/espionaje-aplicaciones-3243398.jpg?tf=1200x' alt='Espionaje a través de notificaciones del móvil: el truco de algunos gobiernos para saber todo de ti' />
     </a>
 </div>
 
