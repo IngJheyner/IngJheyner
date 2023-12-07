@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-maps-android-auto-nueva-funcion-te-evitara-perderte-1346960'>La nueva función Google Maps para Android Auto que salvará a más de un despistado</a></h4>
+    <a href='https://computerhoy.com/android/google-maps-android-auto-nueva-funcion-te-evitara-perderte-1346960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/10-trucos-android-auto-todo-conductor-debe-conocer-obligatoriamente-3213770.jpg?tf=1200x' alt='La nueva función Google Maps para Android Auto que salvará a más de un despistado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-la-guerra-mundos-1346968'>Qué película ver en la TDT hoy: una terrorífica invasión alienígena, según Steven Spielberg</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-la-guerra-mundos-1346968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/guerra-mundos-1982225.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: una terrorífica invasión alienígena, según Steven Spielberg' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-16-contaria-microfono-mejorado-ensalzar-experiencia-siri-1346966'>El iPhone 16 contaría con un micrófono mejorado para ensalzar la experiencia de Siri</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-contaria-microfono-mejorado-ensalzar-experiencia-siri-1346966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/7-cosas-puedes-hacer-siri-3112980.jpg?tf=1200x' alt='El iPhone 16 contaría con un micrófono mejorado para ensalzar la experiencia de Siri' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-gemini-mejora-chatgpt-1346690'>Así es como Gemini mejora a ChatGPT </a></h4>
     <a href='https://computerhoy.com/tecnologia/como-gemini-mejora-chatgpt-1346690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-vs-chatgpt-3243674.jpg?tf=1200x' alt='Así es como Gemini mejora a ChatGPT ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/popular-robot-aspirador-cuesta-ahora-solo-100-euros-amazon-1346608'>Este popular robot aspirador cuesta ahora sólo 100 euros en Amazon</a></h4>
     <a href='https://computerhoy.com/hogar/popular-robot-aspirador-cuesta-ahora-solo-100-euros-amazon-1346608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lefant-m210-2635959.jpg?tf=1200x' alt='Este popular robot aspirador cuesta ahora sólo 100 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/evita-ser-enganado-estafa-redirige-usuarios-bizum-paginas-fraudulentas-1346858'>Evita ser engañado: la estafa que redirige a usuarios de Bizum a páginas fraudulentas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/evita-ser-enganado-estafa-redirige-usuarios-bizum-paginas-fraudulentas-1346858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bizum-2833649.jpg?tf=1200x' alt='Evita ser engañado: la estafa que redirige a usuarios de Bizum a páginas fraudulentas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/como-identificar-solucionar-cuellos-botella-pc-1335002'>Cómo identificar y solucionar los cuellos de botella en tu PC</a></h4>
-    <a href='https://computerhoy.com/pc/como-identificar-solucionar-cuellos-botella-pc-1335002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-identificar-solucionar-cuellos-botella-pc-3221934.jpg?tf=1200x' alt='Cómo identificar y solucionar los cuellos de botella en tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/oscuro-origen-fanta-bebida-nazis-1343024'>El oscuro origen de Fanta: así es cómo nació uno de los refrescos más deseados durante la época nazi</a></h4>
-    <a href='https://computerhoy.com/life/oscuro-origen-fanta-bebida-nazis-1343024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/oscuro-origen-fanta-como-nacio-refrescos-naranja-deseados-durante-era-nazi-3236132.jpg?tf=1200x' alt='El oscuro origen de Fanta: así es cómo nació uno de los refrescos más deseados durante la época nazi' />
     </a>
 </div>
 
