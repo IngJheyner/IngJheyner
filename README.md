@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/moviles-snapdragon-778g-1225022'>Estos son los mejores móviles con procesador Snapdragon 778G del momento</a></h4>
+    <a href='https://computerhoy.com/mejores/moviles-snapdragon-778g-1225022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/poco-x5-poco-x5-pro-2975332.jpg?tf=1200x' alt='Estos son los mejores móviles con procesador Snapdragon 778G del momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/calor-impide-hibernar-osos-pardos-siberia-1346448'>Docenas de osos sonámbulos vagan sin rumbo por Siberia: hace tanto calor, que no pueden hibernar</a></h4>
     <a href='https://computerhoy.com/life/calor-impide-hibernar-osos-pardos-siberia-1346448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/docenas-osos-sonambulos-vagan-rumbo-siberia-hace-tanto-calor-no-pueden-hibernar-3243082.jpg?tf=1200x' alt='Docenas de osos sonámbulos vagan sin rumbo por Siberia: hace tanto calor, que no pueden hibernar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/primera-mision-privada-peregrine-viajara-luna-nochebuena-astrobotic-1346436'>La primera misión privada viajará a la Luna en Nochebuena: transporta cenizas de muertos, un bitcoin, y más cosas</a></h4>
     <a href='https://computerhoy.com/espacio/primera-mision-privada-peregrine-viajara-luna-nochebuena-astrobotic-1346436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/modulo-privado-peregrine-aterrizara-luna-nochebuena-transporta-cenizas-muertos-bitcoin-cosas-3242956.jpg?tf=1200x' alt='La primera misión privada viajará a la Luna en Nochebuena: transporta cenizas de muertos, un bitcoin, y más cosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/acer-nitro-v-16-saca-musculo-portatil-gaming-ryzen-7-8040-1346306'>Acer Nitro V 16 saca músculo, así es el portátil gaming con Ryzen 7 8040 Zen4</a></h4>
-    <a href='https://computerhoy.com/gaming/acer-nitro-v-16-saca-musculo-portatil-gaming-ryzen-7-8040-1346306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acer-nitro-3242646.jpg?tf=1200x' alt='Acer Nitro V 16 saca músculo, así es el portátil gaming con Ryzen 7 8040 Zen4' />
     </a>
 </div>
 
