@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-proxima-jugada-integrarse-instagram-1346748'>WhatsApp y su próxima jugada para integrarse con Instagram</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-proxima-jugada-integrarse-instagram-1346748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-instagram-3243588.jpg?tf=1200x' alt='WhatsApp y su próxima jugada para integrarse con Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/7-lenguajes-programacion-van-triunfar-2024-1346694'>Los 7 lenguajes de programación que deberías conocer y que triunfarán en 2024</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-lenguajes-programacion-van-triunfar-2024-1346694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/lenguajes-programacion-3243520.jpg?tf=1200x' alt='Los 7 lenguajes de programación que deberías conocer y que triunfarán en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/anos-promesas-cifrado-extremo-extremo-llega-messenger-1346676'>Tras años de promesas, el cifrado de extremo a extremo llega a Messenger aunque no todos lo aprueban</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/anos-promesas-cifrado-extremo-extremo-llega-messenger-1346676' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cifrado-extremo-extremo-menssenger-meta-3243478.jpg?tf=1200x' alt='Tras años de promesas, el cifrado de extremo a extremo llega a Messenger aunque no todos lo aprueban' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/espionaje-traves-notificaciones-movil-truco-algunos-gobiernos-saber-todo-ti-1346622'>Espionaje a través de notificaciones del móvil: el truco de algunos gobiernos para saber todo de ti</a></h4>
     <a href='https://computerhoy.com/moviles/espionaje-traves-notificaciones-movil-truco-algunos-gobiernos-saber-todo-ti-1346622' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/espionaje-aplicaciones-3243398.jpg?tf=1200x' alt='Espionaje a través de notificaciones del móvil: el truco de algunos gobiernos para saber todo de ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-destroza-precio-clon-apple-watch-ideal-android-pantalla-amoled-1345770'>AliExpress destroza el precio de un clon del Apple Watch ideal para Android y con pantalla AMOLED</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-destroza-precio-clon-apple-watch-ideal-android-pantalla-amoled-1345770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zeblade-gts-3-pro-3241574.jpg?tf=1200x' alt='AliExpress destroza el precio de un clon del Apple Watch ideal para Android y con pantalla AMOLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-657-computer-hoy-1343276'>¡Ya está en tu quiosco el número 657 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-657-computer-hoy-1343276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/computer-hoy-657-3240602.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 657 de Computer Hoy!' />
     </a>
 </div>
 
