@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/arrasan-estos-auriculares-cancelacion-40db-son-sorprendentemente-baratos-aliexpress-1345938'>Arrasan estos auriculares con cancelación de 40db: son sorprendentemente baratos en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/arrasan-estos-auriculares-cancelacion-40db-son-sorprendentemente-baratos-aliexpress-1345938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/baseus-bowie-h1-3241812.jpg?tf=1200x' alt='Arrasan estos auriculares con cancelación de 40db: son sorprendentemente baratos en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/google-maps-android-auto-nueva-funcion-te-evitara-perderte-1346960'>La nueva función Google Maps para Android Auto que salvará a más de un despistado</a></h4>
     <a href='https://computerhoy.com/android/google-maps-android-auto-nueva-funcion-te-evitara-perderte-1346960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/10-trucos-android-auto-todo-conductor-debe-conocer-obligatoriamente-3213770.jpg?tf=1200x' alt='La nueva función Google Maps para Android Auto que salvará a más de un despistado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-gemini-mejora-chatgpt-1346690'>Así es como Gemini mejora a ChatGPT </a></h4>
     <a href='https://computerhoy.com/tecnologia/como-gemini-mejora-chatgpt-1346690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-vs-chatgpt-3243674.jpg?tf=1200x' alt='Así es como Gemini mejora a ChatGPT ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/popular-robot-aspirador-cuesta-ahora-solo-100-euros-amazon-1346608'>Este popular robot aspirador cuesta ahora sólo 100 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/hogar/popular-robot-aspirador-cuesta-ahora-solo-100-euros-amazon-1346608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lefant-m210-2635959.jpg?tf=1200x' alt='Este popular robot aspirador cuesta ahora sólo 100 euros en Amazon' />
     </a>
 </div>
 
