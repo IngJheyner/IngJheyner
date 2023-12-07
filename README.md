@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/calor-impide-hibernar-osos-pardos-siberia-1346448'>Docenas de osos sonámbulos vagan sin rumbo por Siberia: hace tanto calor, que no pueden hibernar</a></h4>
+    <a href='https://computerhoy.com/life/calor-impide-hibernar-osos-pardos-siberia-1346448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/docenas-osos-sonambulos-vagan-rumbo-siberia-hace-tanto-calor-no-pueden-hibernar-3243082.jpg?tf=1200x' alt='Docenas de osos sonámbulos vagan sin rumbo por Siberia: hace tanto calor, que no pueden hibernar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/amd-procesadores-ryzen-8040-ineligencia-artificial-1346442'>AMD se adelanta a Intel y presenta su gama de procesadores Ryzen 8040, se inicia la nueva era de los AI PC</a></h4>
     <a href='https://computerhoy.com/pc/amd-procesadores-ryzen-8040-ineligencia-artificial-1346442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amd-adelanta-intel-presenta-gama-procesadores-ryzen-8040-inicia-nueva-era-ai-pc-3243072.jpg?tf=1200x' alt='AMD se adelanta a Intel y presenta su gama de procesadores Ryzen 8040, se inicia la nueva era de los AI PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/acer-nitro-v-16-saca-musculo-portatil-gaming-ryzen-7-8040-1346306'>Acer Nitro V 16 saca músculo, así es el portátil gaming con Ryzen 7 8040 Zen4</a></h4>
     <a href='https://computerhoy.com/gaming/acer-nitro-v-16-saca-musculo-portatil-gaming-ryzen-7-8040-1346306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acer-nitro-3242646.jpg?tf=1200x' alt='Acer Nitro V 16 saca músculo, así es el portátil gaming con Ryzen 7 8040 Zen4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-lleva-carga-inalambrica-qi2-iphone-antiguos-actualizacion-1346426'>Apple lleva la carga inalámbrica Qi2 a los iPhone más antiguos con esta actualización</a></h4>
-    <a href='https://computerhoy.com/apple/apple-lleva-carga-inalambrica-qi2-iphone-antiguos-actualizacion-1346426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/nuevo-estandar-qi2-anunciado-ces-2023-llevara-magsafe-dispositivos-no-son-apple-2919242.jpg?tf=1200x' alt='Apple lleva la carga inalámbrica Qi2 a los iPhone más antiguos con esta actualización' />
     </a>
 </div>
 
