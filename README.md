@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-acerca-nube-integracion-1347322'>Windows 11 se acerca a la nube con esta integración</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-acerca-nube-integracion-1347322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2864029.jpg?tf=1200x' alt='Windows 11 se acerca a la nube con esta integración' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-el-orfanato-1347316'>Qué película ver en la TDT hoy: la película de terror que catapultó a la fama a Bayona</a></h4>
     <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-el-orfanato-1347316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/orfanato-2045783.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: la película de terror que catapultó a la fama a Bayona' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/whatsapp-mensajes-voz-autodestruyen-1347302'>WhatsApp estrena la función más deseada en los mensajes de voz, que todo el mundo estaba esperando</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/whatsapp-mensajes-voz-autodestruyen-1347302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-anade-esperada-funcion-mensajes-voz-todo-mundo-estaba-esperando-3244570.jpg?tf=1200x' alt='WhatsApp estrena la función más deseada en los mensajes de voz, que todo el mundo estaba esperando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/puente-hogar-inteligente-sirve-como-funciona-1342334'>Qué es un puente para el hogar inteligente, para qué sirve y cómo funciona</a></h4>
-    <a href='https://computerhoy.com/hogar/puente-hogar-inteligente-sirve-como-funciona-1342334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/puente-hogar-inteligente-sirve-como-funciona-3234888.jpg?tf=1200x' alt='Qué es un puente para el hogar inteligente, para qué sirve y cómo funciona' />
     </a>
 </div>
 
