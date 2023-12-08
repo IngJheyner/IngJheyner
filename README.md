@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/precio-roomba-top-mercado-hunde-amazon-1347230'>El precio de la Roomba más top del mercado se hunde en Amazon</a></h4>
+    <a href='https://computerhoy.com/hogar/precio-roomba-top-mercado-hunde-amazon-1347230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/roomba-combo-j9-3244500.jpg?tf=1200x' alt='El precio de la Roomba más top del mercado se hunde en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/clonar-mente-nube-podria-estar-cerca-estas-son-implicaciones-1346906'>Clonar tu mente en la nube podría ser una tecnología que está más cerca de lo que crees: estas son sus implicaciones</a></h4>
+    <a href='https://computerhoy.com/ciencia/clonar-mente-nube-podria-estar-cerca-estas-son-implicaciones-1346906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/clonar-mente-nube-3243840.jpg?tf=1200x' alt='Clonar tu mente en la nube podría ser una tecnología que está más cerca de lo que crees: estas son sus implicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-embarazo-android-1300240'>Las mejores aplicaciones Android para controlar el embarazo</a></h4>
     <a href='https://computerhoy.com/apps/mejores-aplicaciones-embarazo-android-1300240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicaciones-embarazadas-3243990.jpg?tf=1200x' alt='Las mejores aplicaciones Android para controlar el embarazo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estomago-no-digiere-mismo-1346922'>¿Por qué el estómago no se digiere a sí mismo?</a></h4>
     <a href='https://computerhoy.com/life/estomago-no-digiere-mismo-1346922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estomago-no-digiere-3243972.jpg?tf=1200x' alt='¿Por qué el estómago no se digiere a sí mismo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dyson-sorprende-rebaja-aspiradoras-top-luz-ideal-mascotas-1346636'>Dyson sorprende y rebaja una de sus aspiradoras más top, con luz e ideal para mascotas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dyson-sorprende-rebaja-aspiradoras-top-luz-ideal-mascotas-1346636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dyson-v15-detect-fluffy-3243396.jpg?tf=1200x' alt='Dyson sorprende y rebaja una de sus aspiradoras más top, con luz e ideal para mascotas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-sorprende-sistema-puro-estilo-waze-coches-electricos-te-va-encantar-1346914'>Tesla sorprende con un sistema al más puro estilo Waze para sus coches eléctricos que te va a encantar</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-sorprende-sistema-puro-estilo-waze-coches-electricos-te-va-encantar-1346914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tesla-3243922.jpg?tf=1200x' alt='Tesla sorprende con un sistema al más puro estilo Waze para sus coches eléctricos que te va a encantar' />
     </a>
 </div>
 
