@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/windows-11-ryzen-7-pc-tiene-todo-literalmente-all-one-precio-record-1347282'>Con Windows 11 y Ryzen 7, este PC lo tiene todo, literalmente: un All in One a precio récord</a></h4>
+    <a href='https://computerhoy.com/pc/windows-11-ryzen-7-pc-tiene-todo-literalmente-all-one-precio-record-1347282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/todo-asus-3244532.jpg?tf=1200x' alt='Con Windows 11 y Ryzen 7, este PC lo tiene todo, literalmente: un All in One a precio récord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-elimina-funcion-animal-del-dia-hace-llorar-ninos-todo-mundo-1347328'>Google elimina una función muy querida, y hace llorar a los niños en todo el mundo</a></h4>
     <a href='https://computerhoy.com/google/google-elimina-funcion-animal-del-dia-hace-llorar-ninos-todo-mundo-1347328' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-elimina-funcion-muy-querida-hace-llorar-ninos-todo-mundo-3244586.jpg?tf=1200x' alt='Google elimina una función muy querida, y hace llorar a los niños en todo el mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-el-orfanato-1347316'>Qué película ver en la TDT hoy: la película de terror que catapultó a la fama a Bayona</a></h4>
     <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-el-orfanato-1347316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/orfanato-2045783.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: la película de terror que catapultó a la fama a Bayona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/runners-precio-saldo-estos-cascos-shokz-son-distintos-demas-baratos-1346674'>Para runners y a precio de saldo: estos cascos Shokz son distintos a los demás, y baratos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/runners-precio-saldo-estos-cascos-shokz-son-distintos-demas-baratos-1346674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/shokz-openrun-3243422.jpg?tf=1200x' alt='Para runners y a precio de saldo: estos cascos Shokz son distintos a los demás, y baratos' />
     </a>
 </div>
 
