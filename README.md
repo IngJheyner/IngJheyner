@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/interruptores-inteligentes-wifi-1220116'>Interruptores inteligentes WiFi: qué debes saber y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/mejores/interruptores-inteligentes-wifi-1220116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/interruptor-rele-philips-hue-2992238.jpg?tf=1200x' alt='Interruptores inteligentes WiFi: qué debes saber y cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/mark-hamill-no-volvera-interpretar-joker-1346984'>Mark Hamill no volverá a interpretar a uno de sus personajes más queridos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mark-hamill-no-volvera-interpretar-joker-1346984' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mark-hamill-no-volvera-interpretar-personajes-queridos-3244068.jpg?tf=1200x' alt='Mark Hamill no volverá a interpretar a uno de sus personajes más queridos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/google-maps-android-auto-nueva-funcion-te-evitara-perderte-1346960'>La nueva función Google Maps para Android Auto que salvará a más de un despistado</a></h4>
     <a href='https://computerhoy.com/android/google-maps-android-auto-nueva-funcion-te-evitara-perderte-1346960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/10-trucos-android-auto-todo-conductor-debe-conocer-obligatoriamente-3213770.jpg?tf=1200x' alt='La nueva función Google Maps para Android Auto que salvará a más de un despistado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-la-guerra-mundos-1346968'>Qué película ver en la TDT hoy: una terrorífica invasión alienígena, según Steven Spielberg</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-la-guerra-mundos-1346968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/guerra-mundos-1982225.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: una terrorífica invasión alienígena, según Steven Spielberg' />
     </a>
 </div>
 
