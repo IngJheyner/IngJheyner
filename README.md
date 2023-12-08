@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/union-europea-invierte-1200-millones-euros-nube-propia-1347266'>La Unión Europea invierte 1.200 millones de euros en una nube propia, para romper la dependencia de Microsoft, Amazon y Google</a></h4>
+    <a href='https://computerhoy.com/tecnologia/union-europea-invierte-1200-millones-euros-nube-propia-1347266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/union-europea-invierte-1200-millones-euros-nube-propia-romper-dependencia-microsoft-amazon-meta-google-3244520.jpg?tf=1200x' alt='La Unión Europea invierte 1.200 millones de euros en una nube propia, para romper la dependencia de Microsoft, Amazon y Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-eliminar-grabaciones-voz-alexa-1342126'>Con la privacidad no se juega: Aprende a eliminar tus grabaciones de voz de Alexa</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-eliminar-grabaciones-voz-alexa-1342126' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/eliminar-grabaciones-alexa-3234160.jpg?tf=1200x' alt='Con la privacidad no se juega: Aprende a eliminar tus grabaciones de voz de Alexa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/precio-roomba-top-mercado-hunde-amazon-1347230'>El precio de la Roomba más top del mercado se hunde en Amazon</a></h4>
     <a href='https://computerhoy.com/hogar/precio-roomba-top-mercado-hunde-amazon-1347230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/roomba-combo-j9-3244500.jpg?tf=1200x' alt='El precio de la Roomba más top del mercado se hunde en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/clonar-mente-nube-podria-estar-cerca-estas-son-implicaciones-1346906'>Clonar tu mente en la nube podría ser una tecnología que está más cerca de lo que crees: estas son sus implicaciones</a></h4>
-    <a href='https://computerhoy.com/ciencia/clonar-mente-nube-podria-estar-cerca-estas-son-implicaciones-1346906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/clonar-mente-nube-3243840.jpg?tf=1200x' alt='Clonar tu mente en la nube podría ser una tecnología que está más cerca de lo que crees: estas son sus implicaciones' />
     </a>
 </div>
 
