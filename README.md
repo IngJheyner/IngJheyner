@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-eliminar-grabaciones-voz-alexa-1342126'>Con la privacidad no se juega: Aprende a eliminar tus grabaciones de voz de Alexa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-eliminar-grabaciones-voz-alexa-1342126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/eliminar-grabaciones-alexa-3234160.jpg?tf=1200x' alt='Con la privacidad no se juega: Aprende a eliminar tus grabaciones de voz de Alexa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/no-te-creas-todo-viste-presentacion-gemini-estaba-trucado-1347258'>No te creas todo lo que viste en la presentación de Gemini: estaba trucado</a></h4>
+    <a href='https://computerhoy.com/google/no-te-creas-todo-viste-presentacion-gemini-estaba-trucado-1347258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='No te creas todo lo que viste en la presentación de Gemini: estaba trucado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/smartphones-plegables-baten-records-ventas-2023-1347248'>Los smartphones plegables baten el récord de ventas en 2023, Samsung comienza a perder el monopolio</a></h4>
     <a href='https://computerhoy.com/moviles/smartphones-plegables-baten-records-ventas-2023-1347248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-z-fold-5-3089684.jpg?tf=1200x' alt='Los smartphones plegables baten el récord de ventas en 2023, Samsung comienza a perder el monopolio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/clonar-mente-nube-podria-estar-cerca-estas-son-implicaciones-1346906'>Clonar tu mente en la nube podría ser una tecnología que está más cerca de lo que crees: estas son sus implicaciones</a></h4>
     <a href='https://computerhoy.com/ciencia/clonar-mente-nube-podria-estar-cerca-estas-son-implicaciones-1346906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/clonar-mente-nube-3243840.jpg?tf=1200x' alt='Clonar tu mente en la nube podría ser una tecnología que está más cerca de lo que crees: estas son sus implicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-embarazo-android-1300240'>Las mejores aplicaciones Android para controlar el embarazo</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-aplicaciones-embarazo-android-1300240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicaciones-embarazadas-3243990.jpg?tf=1200x' alt='Las mejores aplicaciones Android para controlar el embarazo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-compara-steve-jobs-elon-musk-elige-mejor-lider-1347226'>Bill Gates se compara con Steve Jobs y Elon Musk, se considera "muy amable" frente a ellos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bill-gates-compara-steve-jobs-elon-musk-elige-mejor-lider-1347226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-bill-gates-2994776.jpg?tf=1200x' alt='Bill Gates se compara con Steve Jobs y Elon Musk, se considera "muy amable" frente a ellos' />
     </a>
 </div>
 
