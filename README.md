@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dyson-sorprende-rebaja-aspiradoras-top-luz-ideal-mascotas-1346636'>Dyson sorprende y rebaja una de sus aspiradoras más top, con luz e ideal para mascotas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dyson-sorprende-rebaja-aspiradoras-top-luz-ideal-mascotas-1346636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dyson-v15-detect-fluffy-3243396.jpg?tf=1200x' alt='Dyson sorprende y rebaja una de sus aspiradoras más top, con luz e ideal para mascotas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tesla-sorprende-sistema-puro-estilo-waze-coches-electricos-te-va-encantar-1346914'>Tesla sorprende con un sistema al más puro estilo Waze para sus coches eléctricos que te va a encantar</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-sorprende-sistema-puro-estilo-waze-coches-electricos-te-va-encantar-1346914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tesla-3243922.jpg?tf=1200x' alt='Tesla sorprende con un sistema al más puro estilo Waze para sus coches eléctricos que te va a encantar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/dos-metodos-recuperar-archivos-perdidos-google-drive-1347208'>Google dice haber arreglado la pérdida de ficheros de Google Drive, los usuarios aseguran que es mentira</a></h4>
+    <a href='https://computerhoy.com/google/dos-metodos-recuperar-archivos-perdidos-google-drive-1347208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/malware-google-drive-2040009.jpg?tf=1200x' alt='Google dice haber arreglado la pérdida de ficheros de Google Drive, los usuarios aseguran que es mentira' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-nueva-estafa-paypal-pierdes-derecho-reembolso-1346982'>Cuidado con la nueva estafa de PayPal que te hace perder el derecho al reembolso: cómo evitarla y qué hacer si te engañan</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cuidado-nueva-estafa-paypal-pierdes-derecho-reembolso-1346982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/paypal-2792085.jpg?tf=1200x' alt='Cuidado con la nueva estafa de PayPal que te hace perder el derecho al reembolso: cómo evitarla y qué hacer si te engañan' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/proxima-actualizacion-gmail-promete-poner-fin-spam-1346812'>La próxima actualización de Gmail promete poner fin a una de las peores pesadillas de los usuarios</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/proxima-actualizacion-gmail-promete-poner-fin-spam-1346812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/proxima-actualizacion-gmail-promete-poner-fin-peores-pesadillas-usuarios-3243666.jpg?tf=1200x' alt='La próxima actualización de Gmail promete poner fin a una de las peores pesadillas de los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199986.jpg?tf=1200x' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/historia-lenovo-1345884'>Historia de Lenovo: cómo una empresa de PC china se ha hecho con el mundo gracias a un portátil amado por millones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/historia-lenovo-1345884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/historia-lenovo-3242038.jpg?tf=1200x' alt='Historia de Lenovo: cómo una empresa de PC china se ha hecho con el mundo gracias a un portátil amado por millones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/interruptores-inteligentes-wifi-1220116'>Interruptores inteligentes WiFi: qué debes saber y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/mejores/interruptores-inteligentes-wifi-1220116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/interruptor-rele-philips-hue-2992238.jpg?tf=1200x' alt='Interruptores inteligentes WiFi: qué debes saber y cuáles son los mejores' />
     </a>
 </div>
 
