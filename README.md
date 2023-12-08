@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/runners-precio-saldo-estos-cascos-shokz-son-distintos-demas-baratos-1346674'>Para runners y a precio de saldo: estos cascos Shokz son distintos a los demás, y baratos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/runners-precio-saldo-estos-cascos-shokz-son-distintos-demas-baratos-1346674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/shokz-openrun-3243422.jpg?tf=1200x' alt='Para runners y a precio de saldo: estos cascos Shokz son distintos a los demás, y baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ese-misterioso-nuevo-icono-audio-grupos-whatsapp-1346838'>Descubre el secreto detrás del misterioso icono de audio que aparece en tus grupos de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/ese-misterioso-nuevo-icono-audio-grupos-whatsapp-1346838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubre-secreto-detras-misterioso-icono-audio-aparece-grupos-whatsapp-3243702.jpg?tf=1200x' alt='Descubre el secreto detrás del misterioso icono de audio que aparece en tus grupos de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/whatsapp-mensajes-voz-autodestruyen-1347302'>WhatsApp estrena la función más deseada en los mensajes de voz, que todo el mundo estaba esperando</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/whatsapp-mensajes-voz-autodestruyen-1347302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-anade-esperada-funcion-mensajes-voz-todo-mundo-estaba-esperando-3244570.jpg?tf=1200x' alt='WhatsApp estrena la función más deseada en los mensajes de voz, que todo el mundo estaba esperando' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/mejores-aplicaciones-aprender-cantar-android-1306802'>Las mejores aplicaciones para aprender a cantar para Android</a></h4>
     <a href='https://computerhoy.com/android/mejores-aplicaciones-aprender-cantar-android-1306802' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cantando-3137700.jpg?tf=1200x' alt='Las mejores aplicaciones para aprender a cantar para Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/union-europea-invierte-1200-millones-euros-nube-propia-1347266'>La Unión Europea invierte 1.200 millones de euros en una nube propia para romper la dependencia de Microsoft, Amazon y Google</a></h4>
-    <a href='https://computerhoy.com/tecnologia/union-europea-invierte-1200-millones-euros-nube-propia-1347266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/union-europea-invierte-1200-millones-euros-nube-propia-romper-dependencia-microsoft-amazon-meta-google-3244520.jpg?tf=1200x' alt='La Unión Europea invierte 1.200 millones de euros en una nube propia para romper la dependencia de Microsoft, Amazon y Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-eliminar-grabaciones-voz-alexa-1342126'>Con la privacidad no se juega: Aprende a eliminar tus grabaciones de voz de Alexa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-eliminar-grabaciones-voz-alexa-1342126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/eliminar-grabaciones-alexa-3234160.jpg?tf=1200x' alt='Con la privacidad no se juega: Aprende a eliminar tus grabaciones de voz de Alexa' />
     </a>
 </div>
 
