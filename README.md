@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/union-europea-invierte-1200-millones-euros-nube-propia-1347266'>La Unión Europea invierte 1.200 millones de euros en una nube propia, para romper la dependencia de Microsoft, Amazon y Google</a></h4>
+    <h4><a href='https://computerhoy.com/android/mejores-aplicaciones-aprender-cantar-android-1306802'>Las mejores aplicaciones para aprender a cantar para Android</a></h4>
+    <a href='https://computerhoy.com/android/mejores-aplicaciones-aprender-cantar-android-1306802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cantando-3137700.jpg?tf=1200x' alt='Las mejores aplicaciones para aprender a cantar para Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/union-europea-invierte-1200-millones-euros-nube-propia-1347266'>La Unión Europea invierte 1.200 millones de euros en una nube propia para romper la dependencia de Microsoft, Amazon y Google</a></h4>
     <a href='https://computerhoy.com/tecnologia/union-europea-invierte-1200-millones-euros-nube-propia-1347266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/union-europea-invierte-1200-millones-euros-nube-propia-romper-dependencia-microsoft-amazon-meta-google-3244520.jpg?tf=1200x' alt='La Unión Europea invierte 1.200 millones de euros en una nube propia, para romper la dependencia de Microsoft, Amazon y Google' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/union-europea-invierte-1200-millones-euros-nube-propia-romper-dependencia-microsoft-amazon-meta-google-3244520.jpg?tf=1200x' alt='La Unión Europea invierte 1.200 millones de euros en una nube propia para romper la dependencia de Microsoft, Amazon y Google' />
     </a>
 </div>
 
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/no-te-creas-todo-viste-presentacion-gemini-estaba-trucado-1347258'>No te creas todo lo que viste en la presentación de Gemini: estaba trucado</a></h4>
+    <h4><a href='https://computerhoy.com/google/no-te-creas-todo-viste-presentacion-gemini-estaba-trucado-1347258'>No te creas todo lo que viste en la presentación de Google Gemini: estaba trucado</a></h4>
     <a href='https://computerhoy.com/google/no-te-creas-todo-viste-presentacion-gemini-estaba-trucado-1347258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='No te creas todo lo que viste en la presentación de Gemini: estaba trucado' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='No te creas todo lo que viste en la presentación de Google Gemini: estaba trucado' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/smartphones-plegables-baten-records-ventas-2023-1347248'>Los smartphones plegables baten el récord de ventas en 2023, Samsung comienza a perder el monopolio</a></h4>
     <a href='https://computerhoy.com/moviles/smartphones-plegables-baten-records-ventas-2023-1347248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-z-fold-5-3089684.jpg?tf=1200x' alt='Los smartphones plegables baten el récord de ventas en 2023, Samsung comienza a perder el monopolio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/precio-roomba-top-mercado-hunde-amazon-1347230'>El precio de la Roomba más top del mercado se hunde en Amazon</a></h4>
-    <a href='https://computerhoy.com/hogar/precio-roomba-top-mercado-hunde-amazon-1347230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/roomba-combo-j9-3244500.jpg?tf=1200x' alt='El precio de la Roomba más top del mercado se hunde en Amazon' />
     </a>
 </div>
 
