@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-nueva-estafa-paypal-pierdes-derecho-reembolso-1346982'>Cuidado con la nueva estafa de PayPal que te hace perder el derecho al reembolso: cómo evitarla y qué hacer si te engañan</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-nueva-estafa-paypal-pierdes-derecho-reembolso-1346982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/paypal-2792085.jpg?tf=1200x' alt='Cuidado con la nueva estafa de PayPal que te hace perder el derecho al reembolso: cómo evitarla y qué hacer si te engañan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/proxima-actualizacion-gmail-promete-poner-fin-spam-1346812'>La próxima actualización de Gmail promete poner fin a una de las peores pesadillas de los usuarios</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/proxima-actualizacion-gmail-promete-poner-fin-spam-1346812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/proxima-actualizacion-gmail-promete-poner-fin-peores-pesadillas-usuarios-3243666.jpg?tf=1200x' alt='La próxima actualización de Gmail promete poner fin a una de las peores pesadillas de los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199986.jpg?tf=1200x' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/interruptores-inteligentes-wifi-1220116'>Interruptores inteligentes WiFi: qué debes saber y cuáles son los mejores</a></h4>
     <a href='https://computerhoy.com/mejores/interruptores-inteligentes-wifi-1220116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/interruptor-rele-philips-hue-2992238.jpg?tf=1200x' alt='Interruptores inteligentes WiFi: qué debes saber y cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mark-hamill-no-volvera-interpretar-joker-1346984'>Mark Hamill no volverá a interpretar a uno de sus personajes más queridos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mark-hamill-no-volvera-interpretar-joker-1346984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mark-hamill-no-volvera-interpretar-personajes-queridos-3244068.jpg?tf=1200x' alt='Mark Hamill no volverá a interpretar a uno de sus personajes más queridos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/linux-estrena-pantalla-azul-muerte-1346980'>Linux imita a Windows y estrena su propia Pantalla Azul de la Muerte</a></h4>
-    <a href='https://computerhoy.com/pc/linux-estrena-pantalla-azul-muerte-1346980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pantalla-azul-hypervisorerror-2961190.jpg?tf=1200x' alt='Linux imita a Windows y estrena su propia Pantalla Azul de la Muerte' />
     </a>
 </div>
 
