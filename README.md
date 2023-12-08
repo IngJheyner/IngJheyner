@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-embarazo-android-1300240'>Las mejores aplicaciones Android para controlar el embarazo</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-aplicaciones-embarazo-android-1300240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicaciones-embarazadas-3243990.jpg?tf=1200x' alt='Las mejores aplicaciones Android para controlar el embarazo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-compara-steve-jobs-elon-musk-elige-mejor-lider-1347226'>Bill Gates se compara con Steve Jobs y Elon Musk, se considera "muy amable" frente a ellos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bill-gates-compara-steve-jobs-elon-musk-elige-mejor-lider-1347226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-bill-gates-2994776.jpg?tf=1200x' alt='Bill Gates se compara con Steve Jobs y Elon Musk, se considera "muy amable" frente a ellos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estomago-no-digiere-mismo-1346922'>¿Por qué el estómago no se digiere a sí mismo?</a></h4>
+    <a href='https://computerhoy.com/life/estomago-no-digiere-mismo-1346922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estomago-no-digiere-3243972.jpg?tf=1200x' alt='¿Por qué el estómago no se digiere a sí mismo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dyson-sorprende-rebaja-aspiradoras-top-luz-ideal-mascotas-1346636'>Dyson sorprende y rebaja una de sus aspiradoras más top, con luz e ideal para mascotas</a></h4>
     <a href='https://computerhoy.com/tecnologia/dyson-sorprende-rebaja-aspiradoras-top-luz-ideal-mascotas-1346636' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dyson-v15-detect-fluffy-3243396.jpg?tf=1200x' alt='Dyson sorprende y rebaja una de sus aspiradoras más top, con luz e ideal para mascotas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/tesla-sorprende-sistema-puro-estilo-waze-coches-electricos-te-va-encantar-1346914'>Tesla sorprende con un sistema al más puro estilo Waze para sus coches eléctricos que te va a encantar</a></h4>
     <a href='https://computerhoy.com/motor/tesla-sorprende-sistema-puro-estilo-waze-coches-electricos-te-va-encantar-1346914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tesla-3243922.jpg?tf=1200x' alt='Tesla sorprende con un sistema al más puro estilo Waze para sus coches eléctricos que te va a encantar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/dos-metodos-recuperar-archivos-perdidos-google-drive-1347208'>Google dice haber arreglado la pérdida de ficheros de Google Drive, los usuarios aseguran que es mentira</a></h4>
-    <a href='https://computerhoy.com/google/dos-metodos-recuperar-archivos-perdidos-google-drive-1347208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/malware-google-drive-2040009.jpg?tf=1200x' alt='Google dice haber arreglado la pérdida de ficheros de Google Drive, los usuarios aseguran que es mentira' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-nueva-estafa-paypal-pierdes-derecho-reembolso-1346982'>Cuidado con la nueva estafa de PayPal que te hace perder el derecho al reembolso: cómo evitarla y qué hacer si te engañan</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-nueva-estafa-paypal-pierdes-derecho-reembolso-1346982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/paypal-2792085.jpg?tf=1200x' alt='Cuidado con la nueva estafa de PayPal que te hace perder el derecho al reembolso: cómo evitarla y qué hacer si te engañan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/proxima-actualizacion-gmail-promete-poner-fin-spam-1346812'>La próxima actualización de Gmail promete poner fin a una de las peores pesadillas de los usuarios</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/proxima-actualizacion-gmail-promete-poner-fin-spam-1346812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/proxima-actualizacion-gmail-promete-poner-fin-peores-pesadillas-usuarios-3243666.jpg?tf=1200x' alt='La próxima actualización de Gmail promete poner fin a una de las peores pesadillas de los usuarios' />
     </a>
 </div>
 
