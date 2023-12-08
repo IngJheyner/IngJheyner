@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-elimina-funcion-animal-del-dia-hace-llorar-ninos-todo-mundo-1347328'>Google elimina una función muy querida, y hace llorar a los niños en todo el mundo</a></h4>
+    <a href='https://computerhoy.com/google/google-elimina-funcion-animal-del-dia-hace-llorar-ninos-todo-mundo-1347328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-elimina-funcion-muy-querida-hace-llorar-ninos-todo-mundo-3244586.jpg?tf=1200x' alt='Google elimina una función muy querida, y hace llorar a los niños en todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/administrador-contrasenas-no-seguro-te-expones-1347324'>Tu administrador de contraseñas no es seguro y a esto te expones</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/administrador-contrasenas-no-seguro-te-expones-1347324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/administrador-contrasenas-3214028.jpg?tf=1200x' alt='Tu administrador de contraseñas no es seguro y a esto te expones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-acerca-nube-integracion-1347322'>Windows 11 se acerca a la nube con esta integración</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-acerca-nube-integracion-1347322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2864029.jpg?tf=1200x' alt='Windows 11 se acerca a la nube con esta integración' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/runners-precio-saldo-estos-cascos-shokz-son-distintos-demas-baratos-1346674'>Para runners y a precio de saldo: estos cascos Shokz son distintos a los demás, y baratos</a></h4>
     <a href='https://computerhoy.com/tecnologia/runners-precio-saldo-estos-cascos-shokz-son-distintos-demas-baratos-1346674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/shokz-openrun-3243422.jpg?tf=1200x' alt='Para runners y a precio de saldo: estos cascos Shokz son distintos a los demás, y baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ese-misterioso-nuevo-icono-audio-grupos-whatsapp-1346838'>Descubre el secreto detrás del misterioso icono de audio que aparece en tus grupos de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/ese-misterioso-nuevo-icono-audio-grupos-whatsapp-1346838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubre-secreto-detras-misterioso-icono-audio-aparece-grupos-whatsapp-3243702.jpg?tf=1200x' alt='Descubre el secreto detrás del misterioso icono de audio que aparece en tus grupos de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/whatsapp-mensajes-voz-autodestruyen-1347302'>WhatsApp estrena la función más deseada en los mensajes de voz, que todo el mundo estaba esperando</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/whatsapp-mensajes-voz-autodestruyen-1347302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-anade-esperada-funcion-mensajes-voz-todo-mundo-estaba-esperando-3244570.jpg?tf=1200x' alt='WhatsApp estrena la función más deseada en los mensajes de voz, que todo el mundo estaba esperando' />
     </a>
 </div>
 
