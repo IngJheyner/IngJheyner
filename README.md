@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/entramos-laboratorio-mas-profundo-mundo-2400-metros-bajo-tierra-1347334'>Entramos en el laboratorio más profundo del mundo, a 2.400 metros bajo tierra, en busca de la materia oscura</a></h4>
+    <a href='https://computerhoy.com/ciencia/entramos-laboratorio-mas-profundo-mundo-2400-metros-bajo-tierra-1347334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/entramos-laboratorio-profundo-mundo-2400-metros-profundidad-busca-materia-oscura-3244598.jpg?tf=1200x' alt='Entramos en el laboratorio más profundo del mundo, a 2.400 metros bajo tierra, en busca de la materia oscura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/windows-11-ryzen-7-pc-tiene-todo-literalmente-all-one-precio-record-1347282'>Con Windows 11 y Ryzen 7, este PC lo tiene todo, literalmente: un All in One a precio récord</a></h4>
     <a href='https://computerhoy.com/pc/windows-11-ryzen-7-pc-tiene-todo-literalmente-all-one-precio-record-1347282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/todo-asus-3244532.jpg?tf=1200x' alt='Con Windows 11 y Ryzen 7, este PC lo tiene todo, literalmente: un All in One a precio récord' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-acerca-nube-integracion-1347322'>Windows 11 se acerca a la nube con esta integración</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-acerca-nube-integracion-1347322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2864029.jpg?tf=1200x' alt='Windows 11 se acerca a la nube con esta integración' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-el-orfanato-1347316'>Qué película ver en la TDT hoy: la película de terror que catapultó a la fama a Bayona</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-el-orfanato-1347316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/orfanato-2045783.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: la película de terror que catapultó a la fama a Bayona' />
     </a>
 </div>
 
