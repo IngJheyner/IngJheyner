@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-el-orfanato-1347316'>Qué película ver en la TDT hoy: la película de terror que catapultó a la fama a Bayona</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-el-orfanato-1347316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/orfanato-2045783.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: la película de terror que catapultó a la fama a Bayona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/runners-precio-saldo-estos-cascos-shokz-son-distintos-demas-baratos-1346674'>Para runners y a precio de saldo: estos cascos Shokz son distintos a los demás, y baratos</a></h4>
     <a href='https://computerhoy.com/tecnologia/runners-precio-saldo-estos-cascos-shokz-son-distintos-demas-baratos-1346674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/shokz-openrun-3243422.jpg?tf=1200x' alt='Para runners y a precio de saldo: estos cascos Shokz son distintos a los demás, y baratos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/puente-hogar-inteligente-sirve-como-funciona-1342334'>Qué es un puente para el hogar inteligente, para qué sirve y cómo funciona</a></h4>
     <a href='https://computerhoy.com/hogar/puente-hogar-inteligente-sirve-como-funciona-1342334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/puente-hogar-inteligente-sirve-como-funciona-3234888.jpg?tf=1200x' alt='Qué es un puente para el hogar inteligente, para qué sirve y cómo funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/mejores-aplicaciones-aprender-cantar-android-1306802'>Las mejores aplicaciones para aprender a cantar para Android</a></h4>
-    <a href='https://computerhoy.com/android/mejores-aplicaciones-aprender-cantar-android-1306802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cantando-3137700.jpg?tf=1200x' alt='Las mejores aplicaciones para aprender a cantar para Android' />
     </a>
 </div>
 
