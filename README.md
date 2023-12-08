@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/smartphones-plegables-baten-records-ventas-2023-1347248'>Los smartphones plegables baten el récord de ventas en 2023, Samsung comienza a perder el monopolio</a></h4>
+    <a href='https://computerhoy.com/moviles/smartphones-plegables-baten-records-ventas-2023-1347248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-z-fold-5-3089684.jpg?tf=1200x' alt='Los smartphones plegables baten el récord de ventas en 2023, Samsung comienza a perder el monopolio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/precio-roomba-top-mercado-hunde-amazon-1347230'>El precio de la Roomba más top del mercado se hunde en Amazon</a></h4>
     <a href='https://computerhoy.com/hogar/precio-roomba-top-mercado-hunde-amazon-1347230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/roomba-combo-j9-3244500.jpg?tf=1200x' alt='El precio de la Roomba más top del mercado se hunde en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/bill-gates-compara-steve-jobs-elon-musk-elige-mejor-lider-1347226'>Bill Gates se compara con Steve Jobs y Elon Musk, se considera "muy amable" frente a ellos</a></h4>
     <a href='https://computerhoy.com/tecnologia/bill-gates-compara-steve-jobs-elon-musk-elige-mejor-lider-1347226' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-bill-gates-2994776.jpg?tf=1200x' alt='Bill Gates se compara con Steve Jobs y Elon Musk, se considera "muy amable" frente a ellos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estomago-no-digiere-mismo-1346922'>¿Por qué el estómago no se digiere a sí mismo?</a></h4>
-    <a href='https://computerhoy.com/life/estomago-no-digiere-mismo-1346922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estomago-no-digiere-3243972.jpg?tf=1200x' alt='¿Por qué el estómago no se digiere a sí mismo?' />
     </a>
 </div>
 
