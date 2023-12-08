@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/whatsapp-mensajes-voz-autodestruyen-1347302'>WhatsApp estrena la función más deseada en los mensajes de voz, que todo el mundo estaba esperando</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/whatsapp-mensajes-voz-autodestruyen-1347302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-anade-esperada-funcion-mensajes-voz-todo-mundo-estaba-esperando-3244570.jpg?tf=1200x' alt='WhatsApp estrena la función más deseada en los mensajes de voz, que todo el mundo estaba esperando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/puente-hogar-inteligente-sirve-como-funciona-1342334'>Qué es un puente para el hogar inteligente, para qué sirve y cómo funciona</a></h4>
+    <a href='https://computerhoy.com/hogar/puente-hogar-inteligente-sirve-como-funciona-1342334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/puente-hogar-inteligente-sirve-como-funciona-3234888.jpg?tf=1200x' alt='Qué es un puente para el hogar inteligente, para qué sirve y cómo funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/mejores-aplicaciones-aprender-cantar-android-1306802'>Las mejores aplicaciones para aprender a cantar para Android</a></h4>
     <a href='https://computerhoy.com/android/mejores-aplicaciones-aprender-cantar-android-1306802' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cantando-3137700.jpg?tf=1200x' alt='Las mejores aplicaciones para aprender a cantar para Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-eliminar-grabaciones-voz-alexa-1342126'>Con la privacidad no se juega: Aprende a eliminar tus grabaciones de voz de Alexa</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-eliminar-grabaciones-voz-alexa-1342126' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/eliminar-grabaciones-alexa-3234160.jpg?tf=1200x' alt='Con la privacidad no se juega: Aprende a eliminar tus grabaciones de voz de Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/no-te-creas-todo-viste-presentacion-gemini-estaba-trucado-1347258'>No te creas todo lo que viste en la presentación de Google Gemini: estaba trucado</a></h4>
-    <a href='https://computerhoy.com/google/no-te-creas-todo-viste-presentacion-gemini-estaba-trucado-1347258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='No te creas todo lo que viste en la presentación de Google Gemini: estaba trucado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/smartphones-plegables-baten-records-ventas-2023-1347248'>Los smartphones plegables baten el récord de ventas en 2023, Samsung comienza a perder el monopolio</a></h4>
-    <a href='https://computerhoy.com/moviles/smartphones-plegables-baten-records-ventas-2023-1347248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/galaxy-z-fold-5-3089684.jpg?tf=1200x' alt='Los smartphones plegables baten el récord de ventas en 2023, Samsung comienza a perder el monopolio' />
     </a>
 </div>
 
