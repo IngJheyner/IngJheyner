@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199986.jpg?tf=1200x' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/historia-lenovo-1345884'>Historia de Lenovo: cómo una empresa de PC china se ha hecho con el mundo gracias a un portátil amado por millones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/historia-lenovo-1345884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/historia-lenovo-3242038.jpg?tf=1200x' alt='Historia de Lenovo: cómo una empresa de PC china se ha hecho con el mundo gracias a un portátil amado por millones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/interruptores-inteligentes-wifi-1220116'>Interruptores inteligentes WiFi: qué debes saber y cuáles son los mejores</a></h4>
     <a href='https://computerhoy.com/mejores/interruptores-inteligentes-wifi-1220116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/interruptor-rele-philips-hue-2992238.jpg?tf=1200x' alt='Interruptores inteligentes WiFi: qué debes saber y cuáles son los mejores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/linux-estrena-pantalla-azul-muerte-1346980'>Linux imita a Windows y estrena su propia Pantalla Azul de la Muerte</a></h4>
     <a href='https://computerhoy.com/pc/linux-estrena-pantalla-azul-muerte-1346980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pantalla-azul-hypervisorerror-2961190.jpg?tf=1200x' alt='Linux imita a Windows y estrena su propia Pantalla Azul de la Muerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/arrasan-estos-auriculares-cancelacion-40db-son-sorprendentemente-baratos-aliexpress-1345938'>Arrasan estos auriculares con cancelación de 40db: son sorprendentemente baratos en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/arrasan-estos-auriculares-cancelacion-40db-son-sorprendentemente-baratos-aliexpress-1345938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/baseus-bowie-h1-3241812.jpg?tf=1200x' alt='Arrasan estos auriculares con cancelación de 40db: son sorprendentemente baratos en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-maps-android-auto-nueva-funcion-te-evitara-perderte-1346960'>La nueva función Google Maps para Android Auto que salvará a más de un despistado</a></h4>
-    <a href='https://computerhoy.com/android/google-maps-android-auto-nueva-funcion-te-evitara-perderte-1346960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/10-trucos-android-auto-todo-conductor-debe-conocer-obligatoriamente-3213770.jpg?tf=1200x' alt='La nueva función Google Maps para Android Auto que salvará a más de un despistado' />
     </a>
 </div>
 
