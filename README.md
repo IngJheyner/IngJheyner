@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mark-hamill-no-volvera-interpretar-joker-1346984'>Mark Hamill no volverá a interpretar a uno de sus personajes más queridos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mark-hamill-no-volvera-interpretar-joker-1346984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mark-hamill-no-volvera-interpretar-personajes-queridos-3244068.jpg?tf=1200x' alt='Mark Hamill no volverá a interpretar a uno de sus personajes más queridos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/linux-estrena-pantalla-azul-muerte-1346980'>Linux imita a Windows y estrena su propia Pantalla Azul de la Muerte</a></h4>
     <a href='https://computerhoy.com/pc/linux-estrena-pantalla-azul-muerte-1346980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/pantalla-azul-hypervisorerror-2961190.jpg?tf=1200x' alt='Linux imita a Windows y estrena su propia Pantalla Azul de la Muerte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-la-guerra-mundos-1346968'>Qué película ver en la TDT hoy: una terrorífica invasión alienígena, según Steven Spielberg</a></h4>
     <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-la-guerra-mundos-1346968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/guerra-mundos-1982225.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: una terrorífica invasión alienígena, según Steven Spielberg' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-16-contaria-microfono-mejorado-ensalzar-experiencia-siri-1346966'>El iPhone 16 contaría con un micrófono mejorado para ensalzar la experiencia de Siri</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-16-contaria-microfono-mejorado-ensalzar-experiencia-siri-1346966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/7-cosas-puedes-hacer-siri-3112980.jpg?tf=1200x' alt='El iPhone 16 contaría con un micrófono mejorado para ensalzar la experiencia de Siri' />
     </a>
 </div>
 
