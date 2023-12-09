@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-lanza-ultimo-balon-oxigeno-rescatar-telescopio-espacial-hubble-1347486'>La NASA lanza el último balón de oxígeno para rescatar al telescopio espacial Hubble</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-lanza-ultimo-balon-oxigeno-rescatar-telescopio-espacial-hubble-1347486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/telescopio-hubble-2829577.jpg?tf=1200x' alt='La NASA lanza el último balón de oxígeno para rescatar al telescopio espacial Hubble' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/threads-ya-tiene-fecha-desembarco-europa-solo-quedan-unas-horas-1347478'>Threads ya tiene fecha de desembarco en Europa y solo quedan unas horas</a></h4>
     <a href='https://computerhoy.com/apps/threads-ya-tiene-fecha-desembarco-europa-solo-quedan-unas-horas-1347478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/threads-3244808.jpg?tf=1200x' alt='Threads ya tiene fecha de desembarco en Europa y solo quedan unas horas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-borrar-eliminar-quitar-cuenta-gmail-1336486'>Cómo borrar, eliminar o quitar una cuenta de Gmail</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-borrar-eliminar-quitar-cuenta-gmail-1336486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/gmail-2866501.jpg?tf=1200x' alt='Cómo borrar, eliminar o quitar una cuenta de Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/speedwatching-acelerar-videos-netflix-youtube-1345924'>Speedwatching: por qué no deberías acelerar los vídeos, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/speedwatching-acelerar-videos-netflix-youtube-1345924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/speedwatching-no-deberias-acelerar-videos-ciencia-3241888.jpg?tf=1200x' alt='Speedwatching: por qué no deberías acelerar los vídeos, según la ciencia' />
     </a>
 </div>
 
