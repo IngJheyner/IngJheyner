@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chrome-te-obligara-elegir-motor-busqueda-favorito-partir-fecha-1347506'>Chrome te obligará a elegir tu motor de búsqueda favorito a partir de esta fecha</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chrome-te-obligara-elegir-motor-busqueda-favorito-partir-fecha-1347506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chrome-te-obligara-elegir-motor-busqueda-favorito-partir-fecha-3244830.jpg?tf=1200x' alt='Chrome te obligará a elegir tu motor de búsqueda favorito a partir de esta fecha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-desafio-total-1347448'>Qué película ver en la TDT hoy: recuerdos implantados en la mente se confunden con la realidad</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-desafio-total-1347448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/desafio-total-2933920.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: recuerdos implantados en la mente se confunden con la realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/129-chistes-graciosos-siempre-funcionan-1256534'>129 chistes graciosos que siempre funcionan</a></h4>
     <a href='https://computerhoy.com/entretenimiento/129-chistes-graciosos-siempre-funcionan-1256534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/emoticono-risa-3052004.jpg?tf=1200x' alt='129 chistes graciosos que siempre funcionan' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/cosas-debes-saber-recarga-coches-electricos-1311734'>Cosas que debes saber sobre la recarga de los coches eléctricos y que nadie te cuenta</a></h4>
     <a href='https://computerhoy.com/motor/cosas-debes-saber-recarga-coches-electricos-1311734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/punto-carga-publico-2842453.jpg?tf=1200x' alt='Cosas que debes saber sobre la recarga de los coches eléctricos y que nadie te cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/error-estas-cometiendo-amazon-fire-tv-stick-wifi-puedes-solventarlo-1347498'>El error que estás cometiendo con el Amazon Fire TV Stick y el WiFi, y así puedes solventarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/error-estas-cometiendo-amazon-fire-tv-stick-wifi-puedes-solventarlo-1347498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mando-distancia-fire-tv-stick-apuntando-tv-2885879.jpg?tf=1200x' alt='El error que estás cometiendo con el Amazon Fire TV Stick y el WiFi, y así puedes solventarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/hora-zulu-sirve-como-convierte-gmt-1333342'>Qué es la hora zulú, para qué sirve y cómo se convierte al GMT</a></h4>
-    <a href='https://computerhoy.com/internet/hora-zulu-sirve-como-convierte-gmt-1333342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hora-zulu-sirve-como-convierte-gmt-3218872.jpg?tf=1200x' alt='Qué es la hora zulú, para qué sirve y cómo se convierte al GMT' />
     </a>
 </div>
 
