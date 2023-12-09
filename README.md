@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/he-probado-todas-apps-streaming-musica-mi-favorita-1339544'>He probado todos los reproductores de streaming de música: este es mi favorito por 6 razones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-probado-todas-apps-streaming-musica-mi-favorita-1339544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/escuchando-musica-3230418.jpg?tf=1200x' alt='He probado todos los reproductores de streaming de música: este es mi favorito por 6 razones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/comida-callejera-triunfa-china-hielo-especias-parrilla-1347234'>La nueva comida callejera que triunfa en China, te va a hacer estallar la cabeza</a></h4>
+    <a href='https://computerhoy.com/alimentacion/comida-callejera-triunfa-china-hielo-especias-parrilla-1347234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nueva-comida-callejera-triunfa-china-te-va-hacer-estallar-cabeza-3244344.jpg?tf=1200x' alt='La nueva comida callejera que triunfa en China, te va a hacer estallar la cabeza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vpn-surfshark-3241642.jpg?tf=1200x' alt='Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/entramos-laboratorio-mas-profundo-mundo-2400-metros-bajo-tierra-1347334'>Entramos en el laboratorio más profundo del mundo, a 2.400 metros bajo tierra, en busca de la materia oscura</a></h4>
     <a href='https://computerhoy.com/ciencia/entramos-laboratorio-mas-profundo-mundo-2400-metros-bajo-tierra-1347334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/entramos-laboratorio-profundo-mundo-2400-metros-profundidad-busca-materia-oscura-3244598.jpg?tf=1200x' alt='Entramos en el laboratorio más profundo del mundo, a 2.400 metros bajo tierra, en busca de la materia oscura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/windows-11-ryzen-7-pc-tiene-todo-literalmente-all-one-precio-record-1347282'>Con Windows 11 y Ryzen 7, este PC lo tiene todo, literalmente: un All in One a precio récord</a></h4>
-    <a href='https://computerhoy.com/pc/windows-11-ryzen-7-pc-tiene-todo-literalmente-all-one-precio-record-1347282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/todo-asus-3244532.jpg?tf=1200x' alt='Con Windows 11 y Ryzen 7, este PC lo tiene todo, literalmente: un All in One a precio récord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-elimina-funcion-animal-del-dia-hace-llorar-ninos-todo-mundo-1347328'>Google elimina una función muy querida, y hace llorar a los niños en todo el mundo</a></h4>
-    <a href='https://computerhoy.com/google/google-elimina-funcion-animal-del-dia-hace-llorar-ninos-todo-mundo-1347328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-elimina-funcion-muy-querida-hace-llorar-ninos-todo-mundo-3244586.jpg?tf=1200x' alt='Google elimina una función muy querida, y hace llorar a los niños en todo el mundo' />
     </a>
 </div>
 
