@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pronto-vas-poder-escribir-correos-electronicos-clasico-outlook-usando-ia-copilot-1347522'>Pronto vas a poder escribir correos electrónicos en el clásico Outlook usando la IA de Copilot</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pronto-vas-poder-escribir-correos-electronicos-clasico-outlook-usando-ia-copilot-1347522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/microsoft-anuncia-copiloto-windows-integra-ia-tipo-chatgpt-windows-11-bing-propio-chatgpt-3040366.jpg?tf=1200x' alt='Pronto vas a poder escribir correos electrónicos en el clásico Outlook usando la IA de Copilot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chrome-te-obligara-elegir-motor-busqueda-favorito-partir-fecha-1347506'>Chrome te obligará a elegir tu motor de búsqueda favorito a partir de esta fecha</a></h4>
     <a href='https://computerhoy.com/tecnologia/chrome-te-obligara-elegir-motor-busqueda-favorito-partir-fecha-1347506' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chrome-te-obligara-elegir-motor-busqueda-favorito-partir-fecha-3244830.jpg?tf=1200x' alt='Chrome te obligará a elegir tu motor de búsqueda favorito a partir de esta fecha' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-admite-haber-editado-video-demostrativo-ia-gemini-pero-defienden-capacidades-1347502'>Google "admite" haber editado el vídeo demostrativo de su IA Gemini pero defienden sus capacidades</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-admite-haber-editado-video-demostrativo-ia-gemini-pero-defienden-capacidades-1347502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='Google "admite" haber editado el vídeo demostrativo de su IA Gemini pero defienden sus capacidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cosas-debes-saber-recarga-coches-electricos-1311734'>Cosas que debes saber sobre la recarga de los coches eléctricos y que nadie te cuenta</a></h4>
-    <a href='https://computerhoy.com/motor/cosas-debes-saber-recarga-coches-electricos-1311734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/punto-carga-publico-2842453.jpg?tf=1200x' alt='Cosas que debes saber sobre la recarga de los coches eléctricos y que nadie te cuenta' />
     </a>
 </div>
 
