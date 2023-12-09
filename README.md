@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/futuros-apple-watch-podrian-llevar-linterna-correa-patente-1347530'>Los futuros Apple Watch podrían llevar una linterna en la correa, según esta patente</a></h4>
+    <a href='https://computerhoy.com/apple/futuros-apple-watch-podrian-llevar-linterna-correa-patente-1347530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-series-9-3135646.jpg?tf=1200x' alt='Los futuros Apple Watch podrían llevar una linterna en la correa, según esta patente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pronto-vas-poder-escribir-correos-electronicos-clasico-outlook-usando-ia-copilot-1347522'>Pronto vas a poder escribir correos electrónicos en el clásico Outlook usando la IA de Copilot</a></h4>
     <a href='https://computerhoy.com/tecnologia/pronto-vas-poder-escribir-correos-electronicos-clasico-outlook-usando-ia-copilot-1347522' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/microsoft-anuncia-copiloto-windows-integra-ia-tipo-chatgpt-windows-11-bing-propio-chatgpt-3040366.jpg?tf=1200x' alt='Pronto vas a poder escribir correos electrónicos en el clásico Outlook usando la IA de Copilot' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/129-chistes-graciosos-siempre-funcionan-1256534'>129 chistes graciosos que siempre funcionan</a></h4>
     <a href='https://computerhoy.com/entretenimiento/129-chistes-graciosos-siempre-funcionan-1256534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/emoticono-risa-3052004.jpg?tf=1200x' alt='129 chistes graciosos que siempre funcionan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-admite-haber-editado-video-demostrativo-ia-gemini-pero-defienden-capacidades-1347502'>Google "admite" haber editado el vídeo demostrativo de su IA Gemini pero defienden sus capacidades</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-admite-haber-editado-video-demostrativo-ia-gemini-pero-defienden-capacidades-1347502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='Google "admite" haber editado el vídeo demostrativo de su IA Gemini pero defienden sus capacidades' />
     </a>
 </div>
 
