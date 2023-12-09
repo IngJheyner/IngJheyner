@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-admite-haber-editado-video-demostrativo-ia-gemini-pero-defienden-capacidades-1347502'>Google "admite" haber editado el vídeo demostrativo de su IA Gemini pero defienden sus capacidades</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-admite-haber-editado-video-demostrativo-ia-gemini-pero-defienden-capacidades-1347502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='Google "admite" haber editado el vídeo demostrativo de su IA Gemini pero defienden sus capacidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cosas-debes-saber-recarga-coches-electricos-1311734'>Cosas que debes saber sobre la recarga de los coches eléctricos y que nadie te cuenta</a></h4>
+    <a href='https://computerhoy.com/motor/cosas-debes-saber-recarga-coches-electricos-1311734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/punto-carga-publico-2842453.jpg?tf=1200x' alt='Cosas que debes saber sobre la recarga de los coches eléctricos y que nadie te cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/error-estas-cometiendo-amazon-fire-tv-stick-wifi-puedes-solventarlo-1347498'>El error que estás cometiendo con el Amazon Fire TV Stick y el WiFi, y así puedes solventarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/error-estas-cometiendo-amazon-fire-tv-stick-wifi-puedes-solventarlo-1347498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mando-distancia-fire-tv-stick-apuntando-tv-2885879.jpg?tf=1200x' alt='El error que estás cometiendo con el Amazon Fire TV Stick y el WiFi, y así puedes solventarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/hora-zulu-sirve-como-convierte-gmt-1333342'>Qué es la hora zulú, para qué sirve y cómo se convierte al GMT</a></h4>
+    <a href='https://computerhoy.com/internet/hora-zulu-sirve-como-convierte-gmt-1333342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hora-zulu-sirve-como-convierte-gmt-3218872.jpg?tf=1200x' alt='Qué es la hora zulú, para qué sirve y cómo se convierte al GMT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-lanza-ultimo-balon-oxigeno-rescatar-telescopio-espacial-hubble-1347486'>La NASA lanza el último balón de oxígeno para rescatar al telescopio espacial Hubble</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-lanza-ultimo-balon-oxigeno-rescatar-telescopio-espacial-hubble-1347486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/telescopio-hubble-2829577.jpg?tf=1200x' alt='La NASA lanza el último balón de oxígeno para rescatar al telescopio espacial Hubble' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/threads-ya-tiene-fecha-desembarco-europa-solo-quedan-unas-horas-1347478'>Threads ya tiene fecha de desembarco en Europa y solo quedan unas horas</a></h4>
-    <a href='https://computerhoy.com/apps/threads-ya-tiene-fecha-desembarco-europa-solo-quedan-unas-horas-1347478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/threads-3244808.jpg?tf=1200x' alt='Threads ya tiene fecha de desembarco en Europa y solo quedan unas horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-son-peores-horas-viajar-navidad-google-maps-1344374'>Estas son las peores horas para viajar esta Navidad, según Google Maps</a></h4>
-    <a href='https://computerhoy.com/apps/estas-son-peores-horas-viajar-navidad-google-maps-1344374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estas-son-peores-horas-viajar-navidad-google-maps-3238580.jpg?tf=1200x' alt='Estas son las peores horas para viajar esta Navidad, según Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dispositivo-ahora-oferta-detecta-apnea-sueno-comprueba-tal-duermes-1347462'>Este dispositivo, ahora en oferta, detecta la apnea del sueño y comprueba qué tal duermes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dispositivo-ahora-oferta-detecta-apnea-sueno-comprueba-tal-duermes-1347462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/withings-sleep-analyzer-3244794.jpg?tf=1200x' alt='Este dispositivo, ahora en oferta, detecta la apnea del sueño y comprueba qué tal duermes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-eliminar-quitar-cuenta-gmail-1336486'>Cómo borrar, eliminar o quitar una cuenta de Gmail</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-borrar-eliminar-quitar-cuenta-gmail-1336486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/gmail-2866501.jpg?tf=1200x' alt='Cómo borrar, eliminar o quitar una cuenta de Gmail' />
     </a>
 </div>
 
