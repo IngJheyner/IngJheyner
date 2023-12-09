@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-propio-fire-tv-chromecast-android-tv-raspberry-pi-1303830'>Cómo crear tu propio Fire TV, Chromecast o Android TV con una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-propio-fire-tv-chromecast-android-tv-raspberry-pi-1303830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/raspberry-pi_2.jpg?tf=1200x' alt='Cómo crear tu propio Fire TV, Chromecast o Android TV con una Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/elementos-tipicos-navidenos-estropean-conexion-wifi-1346970'>Los elementos típicos navideños que estropean tu conexión WiFi</a></h4>
     <a href='https://computerhoy.com/internet/elementos-tipicos-navidenos-estropean-conexion-wifi-1346970' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portatil-motivos-navidenos-3244042.jpg?tf=1200x' alt='Los elementos típicos navideños que estropean tu conexión WiFi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/he-probado-todas-apps-streaming-musica-mi-favorita-1339544'>He probado todos los reproductores de streaming de música: este es mi favorito por 6 razones</a></h4>
     <a href='https://computerhoy.com/tecnologia/he-probado-todas-apps-streaming-musica-mi-favorita-1339544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/escuchando-musica-3230418.jpg?tf=1200x' alt='He probado todos los reproductores de streaming de música: este es mi favorito por 6 razones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/comida-callejera-triunfa-china-hielo-especias-parrilla-1347234'>La nueva comida callejera que triunfa en China, te va a hacer estallar la cabeza</a></h4>
-    <a href='https://computerhoy.com/alimentacion/comida-callejera-triunfa-china-hielo-especias-parrilla-1347234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nueva-comida-callejera-triunfa-china-te-va-hacer-estallar-cabeza-3244344.jpg?tf=1200x' alt='La nueva comida callejera que triunfa en China, te va a hacer estallar la cabeza' />
     </a>
 </div>
 
