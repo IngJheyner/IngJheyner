@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-eliminar-quitar-cuenta-gmail-1336486'>Cómo borrar, eliminar o quitar una cuenta de Gmail</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-eliminar-quitar-cuenta-gmail-1336486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/gmail-2866501.jpg?tf=1200x' alt='Cómo borrar, eliminar o quitar una cuenta de Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/speedwatching-acelerar-videos-netflix-youtube-1345924'>Speedwatching: por qué no deberías acelerar los vídeos, según la ciencia</a></h4>
     <a href='https://computerhoy.com/ciencia/speedwatching-acelerar-videos-netflix-youtube-1345924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/speedwatching-no-deberias-acelerar-videos-ciencia-3241888.jpg?tf=1200x' alt='Speedwatching: por qué no deberías acelerar los vídeos, según la ciencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/acelera-smartphone-android-2-minutos-sencillo-truco-gratis-1345588'>Acelera tu smartphone Android en 2 minutos con este sencillo truco gratis</a></h4>
     <a href='https://computerhoy.com/tutoriales/acelera-smartphone-android-2-minutos-sencillo-truco-gratis-1345588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/jovenes-moviles-android-iphone-3136664.jpg?tf=1200x' alt='Acelera tu smartphone Android en 2 minutos con este sencillo truco gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429'>Estas son las mejores tablets de Samsung que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/galaxy-tab-s9-ultra-funda-teclado-3206620.jpg?tf=1200x' alt='Estas son las mejores tablets de Samsung que puedes comprar' />
     </a>
 </div>
 
