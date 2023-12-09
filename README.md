@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/speedwatching-acelerar-videos-netflix-youtube-1345924'>Speedwatching: por qué no deberías acelerar los vídeos, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/speedwatching-acelerar-videos-netflix-youtube-1345924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/speedwatching-no-deberias-acelerar-videos-ciencia-3241888.jpg?tf=1200x' alt='Speedwatching: por qué no deberías acelerar los vídeos, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-crear-propio-fire-tv-chromecast-android-tv-raspberry-pi-1303830'>Cómo crear tu propio Fire TV, Chromecast o Android TV con una Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-crear-propio-fire-tv-chromecast-android-tv-raspberry-pi-1303830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/raspberry-pi_2.jpg?tf=1200x' alt='Cómo crear tu propio Fire TV, Chromecast o Android TV con una Raspberry Pi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429'>Estas son las mejores tablets de Samsung que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/galaxy-tab-s9-ultra-funda-teclado-3206620.jpg?tf=1200x' alt='Estas son las mejores tablets de Samsung que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-probado-todas-apps-streaming-musica-mi-favorita-1339544'>He probado todos los reproductores de streaming de música: este es mi favorito por 6 razones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-probado-todas-apps-streaming-musica-mi-favorita-1339544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/escuchando-musica-3230418.jpg?tf=1200x' alt='He probado todos los reproductores de streaming de música: este es mi favorito por 6 razones' />
     </a>
 </div>
 
