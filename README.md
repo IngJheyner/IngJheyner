@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/encuentran-tomate-ocho-meses-perdido-estacion-espacial-internacional-1347336'>El astronauta Frank Rubio no se lo comió: 8 meses después, encuentran el tomate perdido en la Estación Espacial Internacional</a></h4>
+    <a href='https://computerhoy.com/espacio/encuentran-tomate-ocho-meses-perdido-estacion-espacial-internacional-1347336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/astronauta-frank-rubio-no-comio-8-meses-despues-encuentran-tomate-perdido-estacion-espacial-internacional-3244604.jpg?tf=1200x' alt='El astronauta Frank Rubio no se lo comió: 8 meses después, encuentran el tomate perdido en la Estación Espacial Internacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/entramos-laboratorio-mas-profundo-mundo-2400-metros-bajo-tierra-1347334'>Entramos en el laboratorio más profundo del mundo, a 2.400 metros bajo tierra, en busca de la materia oscura</a></h4>
     <a href='https://computerhoy.com/ciencia/entramos-laboratorio-mas-profundo-mundo-2400-metros-bajo-tierra-1347334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/entramos-laboratorio-profundo-mundo-2400-metros-profundidad-busca-materia-oscura-3244598.jpg?tf=1200x' alt='Entramos en el laboratorio más profundo del mundo, a 2.400 metros bajo tierra, en busca de la materia oscura' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/administrador-contrasenas-no-seguro-te-expones-1347324'>Tu administrador de contraseñas no es seguro y a esto te expones</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/administrador-contrasenas-no-seguro-te-expones-1347324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/administrador-contrasenas-3214028.jpg?tf=1200x' alt='Tu administrador de contraseñas no es seguro y a esto te expones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-acerca-nube-integracion-1347322'>Windows 11 se acerca a la nube con esta integración</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-acerca-nube-integracion-1347322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2864029.jpg?tf=1200x' alt='Windows 11 se acerca a la nube con esta integración' />
     </a>
 </div>
 
