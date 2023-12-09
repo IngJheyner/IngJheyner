@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-revienta-precios-office-6tb-almacenamiento-antivirus-gratis-1346826'>Microsoft revienta precios: Office y 6TB de almacenamiento con antivirus gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-revienta-precios-office-6tb-almacenamiento-antivirus-gratis-1346826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicaciones-microsoft-3243630.jpg?tf=1200x' alt='Microsoft revienta precios: Office y 6TB de almacenamiento con antivirus gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chromecast-google-tv-recibe-nueva-actualizacion-parece-llegar-tarde-1347538'>El Chromecast con Google TV recibe una nueva actualización que parece llegar tarde</a></h4>
     <a href='https://computerhoy.com/tecnologia/chromecast-google-tv-recibe-nueva-actualizacion-parece-llegar-tarde-1347538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromecast-2805385.jpg?tf=1200x' alt='El Chromecast con Google TV recibe una nueva actualización que parece llegar tarde' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chrome-te-obligara-elegir-motor-busqueda-favorito-partir-fecha-1347506'>Chrome te obligará a elegir tu motor de búsqueda favorito a partir de esta fecha</a></h4>
     <a href='https://computerhoy.com/tecnologia/chrome-te-obligara-elegir-motor-busqueda-favorito-partir-fecha-1347506' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chrome-te-obligara-elegir-motor-busqueda-favorito-partir-fecha-3244830.jpg?tf=1200x' alt='Chrome te obligará a elegir tu motor de búsqueda favorito a partir de esta fecha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-desafio-total-1347448'>Qué película ver en la TDT hoy: recuerdos implantados en la mente se confunden con la realidad</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-desafio-total-1347448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/desafio-total-2933920.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: recuerdos implantados en la mente se confunden con la realidad' />
     </a>
 </div>
 
