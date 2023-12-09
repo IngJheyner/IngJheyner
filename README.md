@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/elementos-tipicos-navidenos-estropean-conexion-wifi-1346970'>Los elementos típicos navideños que estropean tu conexión WiFi</a></h4>
+    <a href='https://computerhoy.com/internet/elementos-tipicos-navidenos-estropean-conexion-wifi-1346970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portatil-motivos-navidenos-3244042.jpg?tf=1200x' alt='Los elementos típicos navideños que estropean tu conexión WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/acelera-smartphone-android-2-minutos-sencillo-truco-gratis-1345588'>Acelera tu smartphone Android en 2 minutos con este sencillo truco gratis</a></h4>
+    <a href='https://computerhoy.com/tutoriales/acelera-smartphone-android-2-minutos-sencillo-truco-gratis-1345588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/jovenes-moviles-android-iphone-3136664.jpg?tf=1200x' alt='Acelera tu smartphone Android en 2 minutos con este sencillo truco gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429'>Estas son las mejores tablets de Samsung que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-samsung-1114429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/galaxy-tab-s9-ultra-funda-teclado-3206620.jpg?tf=1200x' alt='Estas son las mejores tablets de Samsung que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/he-probado-todas-apps-streaming-musica-mi-favorita-1339544'>He probado todos los reproductores de streaming de música: este es mi favorito por 6 razones</a></h4>
     <a href='https://computerhoy.com/tecnologia/he-probado-todas-apps-streaming-musica-mi-favorita-1339544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/escuchando-musica-3230418.jpg?tf=1200x' alt='He probado todos los reproductores de streaming de música: este es mi favorito por 6 razones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/comida-callejera-triunfa-china-hielo-especias-parrilla-1347234'>La nueva comida callejera que triunfa en China, te va a hacer estallar la cabeza</a></h4>
     <a href='https://computerhoy.com/alimentacion/comida-callejera-triunfa-china-hielo-especias-parrilla-1347234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nueva-comida-callejera-triunfa-china-te-va-hacer-estallar-cabeza-3244344.jpg?tf=1200x' alt='La nueva comida callejera que triunfa en China, te va a hacer estallar la cabeza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vpn-surfshark-3241642.jpg?tf=1200x' alt='Estas son las mejores VPN de 2023 para proteger tu privacidad en PC, Android, Mac y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/encuentran-tomate-ocho-meses-perdido-estacion-espacial-internacional-1347336'>El astronauta Frank Rubio no se lo comió: 8 meses después, encuentran el tomate perdido en la Estación Espacial Internacional</a></h4>
-    <a href='https://computerhoy.com/espacio/encuentran-tomate-ocho-meses-perdido-estacion-espacial-internacional-1347336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/astronauta-frank-rubio-no-comio-8-meses-despues-encuentran-tomate-perdido-estacion-espacial-internacional-3244604.jpg?tf=1200x' alt='El astronauta Frank Rubio no se lo comió: 8 meses después, encuentran el tomate perdido en la Estación Espacial Internacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/entramos-laboratorio-mas-profundo-mundo-2400-metros-bajo-tierra-1347334'>Entramos en el laboratorio más profundo del mundo, a 2.400 metros bajo tierra, en busca de la materia oscura</a></h4>
-    <a href='https://computerhoy.com/ciencia/entramos-laboratorio-mas-profundo-mundo-2400-metros-bajo-tierra-1347334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/entramos-laboratorio-profundo-mundo-2400-metros-profundidad-busca-materia-oscura-3244598.jpg?tf=1200x' alt='Entramos en el laboratorio más profundo del mundo, a 2.400 metros bajo tierra, en busca de la materia oscura' />
     </a>
 </div>
 
