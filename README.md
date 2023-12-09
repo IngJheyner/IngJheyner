@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/129-chistes-graciosos-siempre-funcionan-1256534'>129 chistes graciosos que siempre funcionan</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/129-chistes-graciosos-siempre-funcionan-1256534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/emoticono-risa-3052004.jpg?tf=1200x' alt='129 chistes graciosos que siempre funcionan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-admite-haber-editado-video-demostrativo-ia-gemini-pero-defienden-capacidades-1347502'>Google "admite" haber editado el vídeo demostrativo de su IA Gemini pero defienden sus capacidades</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-admite-haber-editado-video-demostrativo-ia-gemini-pero-defienden-capacidades-1347502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='Google "admite" haber editado el vídeo demostrativo de su IA Gemini pero defienden sus capacidades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/hora-zulu-sirve-como-convierte-gmt-1333342'>Qué es la hora zulú, para qué sirve y cómo se convierte al GMT</a></h4>
     <a href='https://computerhoy.com/internet/hora-zulu-sirve-como-convierte-gmt-1333342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hora-zulu-sirve-como-convierte-gmt-3218872.jpg?tf=1200x' alt='Qué es la hora zulú, para qué sirve y cómo se convierte al GMT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-lanza-ultimo-balon-oxigeno-rescatar-telescopio-espacial-hubble-1347486'>La NASA lanza el último balón de oxígeno para rescatar al telescopio espacial Hubble</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-lanza-ultimo-balon-oxigeno-rescatar-telescopio-espacial-hubble-1347486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/telescopio-hubble-2829577.jpg?tf=1200x' alt='La NASA lanza el último balón de oxígeno para rescatar al telescopio espacial Hubble' />
     </a>
 </div>
 
