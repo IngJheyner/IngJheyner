@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chromecast-google-tv-recibe-nueva-actualizacion-parece-llegar-tarde-1347538'>El Chromecast con Google TV recibe una nueva actualización que parece llegar tarde</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chromecast-google-tv-recibe-nueva-actualizacion-parece-llegar-tarde-1347538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromecast-2805385.jpg?tf=1200x' alt='El Chromecast con Google TV recibe una nueva actualización que parece llegar tarde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/futuros-apple-watch-podrian-llevar-linterna-correa-patente-1347530'>Los futuros Apple Watch podrían llevar una linterna en la correa, según esta patente</a></h4>
     <a href='https://computerhoy.com/apple/futuros-apple-watch-podrian-llevar-linterna-correa-patente-1347530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-series-9-3135646.jpg?tf=1200x' alt='Los futuros Apple Watch podrían llevar una linterna en la correa, según esta patente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-desafio-total-1347448'>Qué película ver en la TDT hoy: recuerdos implantados en la mente se confunden con la realidad</a></h4>
     <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-desafio-total-1347448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/desafio-total-2933920.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: recuerdos implantados en la mente se confunden con la realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/129-chistes-graciosos-siempre-funcionan-1256534'>129 chistes graciosos que siempre funcionan</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/129-chistes-graciosos-siempre-funcionan-1256534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/emoticono-risa-3052004.jpg?tf=1200x' alt='129 chistes graciosos que siempre funcionan' />
     </a>
 </div>
 
