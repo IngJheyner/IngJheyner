@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/threads-ya-tiene-fecha-desembarco-europa-solo-quedan-unas-horas-1347478'>Threads ya tiene fecha de desembarco en Europa y solo quedan unas horas</a></h4>
+    <a href='https://computerhoy.com/apps/threads-ya-tiene-fecha-desembarco-europa-solo-quedan-unas-horas-1347478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/threads-3244808.jpg?tf=1200x' alt='Threads ya tiene fecha de desembarco en Europa y solo quedan unas horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estas-son-peores-horas-viajar-navidad-google-maps-1344374'>Estas son las peores horas para viajar esta Navidad, según Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-peores-horas-viajar-navidad-google-maps-1344374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estas-son-peores-horas-viajar-navidad-google-maps-3238580.jpg?tf=1200x' alt='Estas son las peores horas para viajar esta Navidad, según Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dispositivo-ahora-oferta-detecta-apnea-sueno-comprueba-tal-duermes-1347462'>Este dispositivo, ahora en oferta, detecta la apnea del sueño y comprueba qué tal duermes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dispositivo-ahora-oferta-detecta-apnea-sueno-comprueba-tal-duermes-1347462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/withings-sleep-analyzer-3244794.jpg?tf=1200x' alt='Este dispositivo, ahora en oferta, detecta la apnea del sueño y comprueba qué tal duermes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-borrar-eliminar-quitar-cuenta-gmail-1336486'>Cómo borrar, eliminar o quitar una cuenta de Gmail</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-borrar-eliminar-quitar-cuenta-gmail-1336486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/gmail-2866501.jpg?tf=1200x' alt='Cómo borrar, eliminar o quitar una cuenta de Gmail' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/speedwatching-acelerar-videos-netflix-youtube-1345924'>Speedwatching: por qué no deberías acelerar los vídeos, según la ciencia</a></h4>
     <a href='https://computerhoy.com/ciencia/speedwatching-acelerar-videos-netflix-youtube-1345924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/speedwatching-no-deberias-acelerar-videos-ciencia-3241888.jpg?tf=1200x' alt='Speedwatching: por qué no deberías acelerar los vídeos, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-propio-fire-tv-chromecast-android-tv-raspberry-pi-1303830'>Cómo crear tu propio Fire TV, Chromecast o Android TV con una Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-propio-fire-tv-chromecast-android-tv-raspberry-pi-1303830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/raspberry-pi_2.jpg?tf=1200x' alt='Cómo crear tu propio Fire TV, Chromecast o Android TV con una Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/elementos-tipicos-navidenos-estropean-conexion-wifi-1346970'>Los elementos típicos navideños que estropean tu conexión WiFi</a></h4>
-    <a href='https://computerhoy.com/internet/elementos-tipicos-navidenos-estropean-conexion-wifi-1346970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portatil-motivos-navidenos-3244042.jpg?tf=1200x' alt='Los elementos típicos navideños que estropean tu conexión WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/acelera-smartphone-android-2-minutos-sencillo-truco-gratis-1345588'>Acelera tu smartphone Android en 2 minutos con este sencillo truco gratis</a></h4>
-    <a href='https://computerhoy.com/tutoriales/acelera-smartphone-android-2-minutos-sencillo-truco-gratis-1345588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/jovenes-moviles-android-iphone-3136664.jpg?tf=1200x' alt='Acelera tu smartphone Android en 2 minutos con este sencillo truco gratis' />
     </a>
 </div>
 
