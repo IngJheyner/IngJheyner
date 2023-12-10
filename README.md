@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/apple-bloquea-funcion-imessage-beeper-mini-android-riesgo-significativo-seguridad-usuarios-1347738'>Apple bloquea la función iMessage de Beeper Mini para Android por “riesgo significativo para la seguridad de los usuarios”</a></h4>
+    <a href='https://computerhoy.com/apps/apple-bloquea-funcion-imessage-beeper-mini-android-riesgo-significativo-seguridad-usuarios-1347738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/beeper-mini-3245150.jpg?tf=1200x' alt='Apple bloquea la función iMessage de Beeper Mini para Android por “riesgo significativo para la seguridad de los usuarios”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/8-claves-mantener-privacidad-macbook-lugares-publicos-1288636'>8 consejos para mantener tu privacidad mientras usas tu MacBook en lugares públicos</a></h4>
+    <a href='https://computerhoy.com/apple/8-claves-mantener-privacidad-macbook-lugares-publicos-1288636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/macbook-exteriores-3106212.jpg?tf=1200x' alt='8 consejos para mantener tu privacidad mientras usas tu MacBook en lugares públicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/pasada-decada-fue-calurosa-jamas-registrada-historia-tierra-1347736'>La pasada década fue la más calurosa jamás registrada en la historia de la Tierra</a></h4>
     <a href='https://computerhoy.com/life/pasada-decada-fue-calurosa-jamas-registrada-historia-tierra-1347736' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cambio-climatico-3245148.jpg?tf=1200x' alt='La pasada década fue la más calurosa jamás registrada en la historia de la Tierra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-visionarias-ciencia-ficcion-adelantaron-tiempo-pero-fracasaron-taquilla-1336616'>Películas visionarias de ciencia ficción que se adelantaron a su tiempo, pero fracasaron en taquilla</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-visionarias-ciencia-ficcion-adelantaron-tiempo-pero-fracasaron-taquilla-1336616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/peliculas-visionarias-ciencia-ficcion-adelantaron-tiempo-pero-fracasaron-taquilla-3224498.jpg?tf=1200x' alt='Películas visionarias de ciencia ficción que se adelantaron a su tiempo, pero fracasaron en taquilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/oneplus-canon-movil-carga-100w-aliexpress-vende-precio-saldo-1347730'>Este OnePlus es un cañón de móvil con carga de 100W que AliExpress vende a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/android/oneplus-canon-movil-carga-100w-aliexpress-vende-precio-saldo-1347730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-1676028391894-2952792.jpg?tf=1200x' alt='Este OnePlus es un cañón de móvil con carga de 100W que AliExpress vende a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funciona-ayudame-escribir-google-chrome-tecnologia-inteligencia-artificial-1347728'>Así funciona “ayúdame a escribir” en Google Chrome con tecnología de inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/funciona-ayudame-escribir-google-chrome-tecnologia-inteligencia-artificial-1347728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chrome-movil-3200446.jpg?tf=1200x' alt='Así funciona “ayúdame a escribir” en Google Chrome con tecnología de inteligencia artificial' />
     </a>
 </div>
 
