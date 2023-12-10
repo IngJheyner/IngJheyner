@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/mejores-aplicaciones-android-aprender-matematicas-1290526'>Las mejores aplicaciones Android para aprender matemáticas</a></h4>
+    <a href='https://computerhoy.com/android/mejores-aplicaciones-android-aprender-matematicas-1290526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apps-matematicas-android-3109288.jpg?tf=1200x' alt='Las mejores aplicaciones Android para aprender matemáticas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/revisa-conexion-fire-tv-estas-cometiendo-grave-error-1346100'>Revisa la conexión de tu Amazon Fire TV, seguramente estás cometiendo un grave error</a></h4>
     <a href='https://computerhoy.com/amazon/revisa-conexion-fire-tv-estas-cometiendo-grave-error-1346100' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/revisa-conexion-amazon-fire-tv-seguramente-estas-cometiendo-grave-error-3242328.jpg?tf=1200x' alt='Revisa la conexión de tu Amazon Fire TV, seguramente estás cometiendo un grave error' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/moviles-procesador-dimensity-8100-1185288'>Estos son los mejores móviles con Dimensity 8100, uno de los mejores procesadores</a></h4>
     <a href='https://computerhoy.com/mejores/moviles-procesador-dimensity-8100-1185288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-pro-carga-120w-2833727.jpg?tf=1200x' alt='Estos son los mejores móviles con Dimensity 8100, uno de los mejores procesadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-enorme-robot-boxeador-podria-revolucionar-robotica-1347534'>Crean un enorme robot boxeador que podría revolucionar la robótica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-enorme-robot-boxeador-podria-revolucionar-robotica-1347534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robot-humanoide-nadia-3244884.jpg?tf=1200x' alt='Crean un enorme robot boxeador que podría revolucionar la robótica' />
     </a>
 </div>
 
