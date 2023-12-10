@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-enorme-robot-boxeador-podria-revolucionar-robotica-1347534'>Crean un enorme robot boxeador que podría revolucionar la robótica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-enorme-robot-boxeador-podria-revolucionar-robotica-1347534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robot-humanoide-nadia-3244884.jpg?tf=1200x' alt='Crean un enorme robot boxeador que podría revolucionar la robótica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/herramientas-gratuitas-uso-menudo-editar-imagenes-ia-1339100'>Editar imágenes con IA: las herramientas gratuitas que uso a menudo</a></h4>
+    <a href='https://computerhoy.com/apps/herramientas-gratuitas-uso-menudo-editar-imagenes-ia-1339100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/herramientas-gratuitas-edicion-imagenes-fotografias-ia-3230376.jpg?tf=1200x' alt='Editar imágenes con IA: las herramientas gratuitas que uso a menudo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/razon-no-deberias-dormir-despegue-ni-aterrizaje-avion-1345950'>Esta es la razón por la que no deberías dormir en el despegue ni el aterrizaje de un avión</a></h4>
+    <a href='https://computerhoy.com/life/razon-no-deberias-dormir-despegue-ni-aterrizaje-avion-1345950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/razon-no-deberias-dormir-despegue-ni-aterrizaje-avion-3241972.jpg?tf=1200x' alt='Esta es la razón por la que no deberías dormir en el despegue ni el aterrizaje de un avión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/ha-abierto-enorme-agujero-sol-significa-tierra-1347526'>Se ha abierto un enorme agujero en el Sol y esto es lo que significa para la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/ha-abierto-enorme-agujero-sol-significa-tierra-1347526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ciclo-solar-prepara-alcanzar-maximo-como-puede-afectar-tierra-3236336.jpg?tf=1200x' alt='Se ha abierto un enorme agujero en el Sol y esto es lo que significa para la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023</a></h4>
     <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garmin-forerunner-255-2721189.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-revienta-precios-office-6tb-almacenamiento-antivirus-gratis-1346826'>Microsoft revienta precios: Office y 6TB de almacenamiento con antivirus gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-revienta-precios-office-6tb-almacenamiento-antivirus-gratis-1346826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicaciones-microsoft-3243630.jpg?tf=1200x' alt='Microsoft revienta precios: Office y 6TB de almacenamiento con antivirus gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chromecast-google-tv-recibe-nueva-actualizacion-parece-llegar-tarde-1347538'>El Chromecast con Google TV recibe una nueva actualización que parece llegar tarde</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chromecast-google-tv-recibe-nueva-actualizacion-parece-llegar-tarde-1347538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/chromecast-2805385.jpg?tf=1200x' alt='El Chromecast con Google TV recibe una nueva actualización que parece llegar tarde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/futuros-apple-watch-podrian-llevar-linterna-correa-patente-1347530'>Los futuros Apple Watch podrían llevar una linterna en la correa, según esta patente</a></h4>
-    <a href='https://computerhoy.com/apple/futuros-apple-watch-podrian-llevar-linterna-correa-patente-1347530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-series-9-3135646.jpg?tf=1200x' alt='Los futuros Apple Watch podrían llevar una linterna en la correa, según esta patente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pronto-vas-poder-escribir-correos-electronicos-clasico-outlook-usando-ia-copilot-1347522'>Pronto vas a poder escribir correos electrónicos en el clásico Outlook usando la IA de Copilot</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pronto-vas-poder-escribir-correos-electronicos-clasico-outlook-usando-ia-copilot-1347522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/microsoft-anuncia-copiloto-windows-integra-ia-tipo-chatgpt-windows-11-bing-propio-chatgpt-3040366.jpg?tf=1200x' alt='Pronto vas a poder escribir correos electrónicos en el clásico Outlook usando la IA de Copilot' />
     </a>
 </div>
 
