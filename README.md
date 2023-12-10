@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/chatgpt-estos-son-riesgos-seguir-recomendaciones-medicas-estudio-1346836'>ChatGPT: estos son los riesgos de seguir sus recomendaciones médicas, según un estudio</a></h4>
+    <a href='https://computerhoy.com/ciencia/chatgpt-estos-son-riesgos-seguir-recomendaciones-medicas-estudio-1346836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chatgpt-estos-son-riesgos-seguir-recomendaciones-medicas-estudio-3243686.jpg?tf=1200x' alt='ChatGPT: estos son los riesgos de seguir sus recomendaciones médicas, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/apple-bloquea-funcion-imessage-beeper-mini-android-riesgo-significativo-seguridad-usuarios-1347738'>Apple bloquea la función iMessage de Beeper Mini para Android por “riesgo significativo para la seguridad de los usuarios”</a></h4>
     <a href='https://computerhoy.com/apps/apple-bloquea-funcion-imessage-beeper-mini-android-riesgo-significativo-seguridad-usuarios-1347738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/beeper-mini-3245150.jpg?tf=1200x' alt='Apple bloquea la función iMessage de Beeper Mini para Android por “riesgo significativo para la seguridad de los usuarios”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/crean-robot-capaz-resistir-brutales-patadas-nunca-cae-1347732'>Crean un robot capaz de resistir brutales patadas y nunca se cae</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-robot-capaz-resistir-brutales-patadas-nunca-cae-1347732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robot-h1-3245144.jpg?tf=1200x' alt='Crean un robot capaz de resistir brutales patadas y nunca se cae' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-visionarias-ciencia-ficcion-adelantaron-tiempo-pero-fracasaron-taquilla-1336616'>Películas visionarias de ciencia ficción que se adelantaron a su tiempo, pero fracasaron en taquilla</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-visionarias-ciencia-ficcion-adelantaron-tiempo-pero-fracasaron-taquilla-1336616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/peliculas-visionarias-ciencia-ficcion-adelantaron-tiempo-pero-fracasaron-taquilla-3224498.jpg?tf=1200x' alt='Películas visionarias de ciencia ficción que se adelantaron a su tiempo, pero fracasaron en taquilla' />
     </a>
 </div>
 
