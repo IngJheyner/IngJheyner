@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023</a></h4>
+    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garmin-forerunner-255-2721189.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-revienta-precios-office-6tb-almacenamiento-antivirus-gratis-1346826'>Microsoft revienta precios: Office y 6TB de almacenamiento con antivirus gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-revienta-precios-office-6tb-almacenamiento-antivirus-gratis-1346826' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicaciones-microsoft-3243630.jpg?tf=1200x' alt='Microsoft revienta precios: Office y 6TB de almacenamiento con antivirus gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pronto-vas-poder-escribir-correos-electronicos-clasico-outlook-usando-ia-copilot-1347522'>Pronto vas a poder escribir correos electrónicos en el clásico Outlook usando la IA de Copilot</a></h4>
     <a href='https://computerhoy.com/tecnologia/pronto-vas-poder-escribir-correos-electronicos-clasico-outlook-usando-ia-copilot-1347522' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/microsoft-anuncia-copiloto-windows-integra-ia-tipo-chatgpt-windows-11-bing-propio-chatgpt-3040366.jpg?tf=1200x' alt='Pronto vas a poder escribir correos electrónicos en el clásico Outlook usando la IA de Copilot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chrome-te-obligara-elegir-motor-busqueda-favorito-partir-fecha-1347506'>Chrome te obligará a elegir tu motor de búsqueda favorito a partir de esta fecha</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chrome-te-obligara-elegir-motor-busqueda-favorito-partir-fecha-1347506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chrome-te-obligara-elegir-motor-busqueda-favorito-partir-fecha-3244830.jpg?tf=1200x' alt='Chrome te obligará a elegir tu motor de búsqueda favorito a partir de esta fecha' />
     </a>
 </div>
 
