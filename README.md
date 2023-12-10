@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/primera-ley-inteligencia-artificial-mundo-union-europea-1347784'>La primera Ley de Inteligencia Artificial del mundo se aprueba en la Unión Europea: esto es lo que implica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primera-ley-inteligencia-artificial-mundo-union-europea-1347784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/union-europea-publica-primera-ley-inteligencia-artificial-mundo-implica-3245190.jpg?tf=1200x' alt='La primera Ley de Inteligencia Artificial del mundo se aprueba en la Unión Europea: esto es lo que implica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-john-wick-pacto-sangre-1347696'>Qué película ver en la TDT hoy: un asesino vuelve del retiro para saldar una deuda de sangre</a></h4>
     <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-john-wick-pacto-sangre-1347696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/John%20Wick%20Pacto%20de%20sangre.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: un asesino vuelve del retiro para saldar una deuda de sangre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/8-claves-mantener-privacidad-macbook-lugares-publicos-1288636'>8 consejos para mantener tu privacidad mientras usas tu MacBook en lugares públicos</a></h4>
     <a href='https://computerhoy.com/apple/8-claves-mantener-privacidad-macbook-lugares-publicos-1288636' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/macbook-exteriores-3106212.jpg?tf=1200x' alt='8 consejos para mantener tu privacidad mientras usas tu MacBook en lugares públicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pasada-decada-fue-calurosa-jamas-registrada-historia-tierra-1347736'>La pasada década fue la más calurosa jamás registrada en la historia de la Tierra</a></h4>
-    <a href='https://computerhoy.com/life/pasada-decada-fue-calurosa-jamas-registrada-historia-tierra-1347736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cambio-climatico-3245148.jpg?tf=1200x' alt='La pasada década fue la más calurosa jamás registrada en la historia de la Tierra' />
     </a>
 </div>
 
