@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robots-fourier-gr-1-baile-video-1347694'>Los robots de Boston Dynamics ya tienen rivales de baile, y estos son humanoides </a></h4>
+    <a href='https://computerhoy.com/tecnologia/robots-fourier-gr-1-baile-video-1347694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/verticalimage1702168454463-3244950.jpg?tf=1200x' alt='Los robots de Boston Dynamics ya tienen rivales de baile, y estos son humanoides ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/actualizacion-ota-como-funciona-movil-coche-1334126'>¿Qué es una actualización OTA y cómo funciona en tu móvil o coche?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/actualizacion-ota-como-funciona-movil-coche-1334126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/verticalimage1701956694324-3243748.jpg?tf=1200x' alt='¿Qué es una actualización OTA y cómo funciona en tu móvil o coche?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/moviles-procesador-dimensity-8100-1185288'>Estos son los mejores móviles con Dimensity 8100, uno de los mejores procesadores</a></h4>
+    <a href='https://computerhoy.com/mejores/moviles-procesador-dimensity-8100-1185288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-pro-carga-120w-2833727.jpg?tf=1200x' alt='Estos son los mejores móviles con Dimensity 8100, uno de los mejores procesadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/crean-enorme-robot-boxeador-podria-revolucionar-robotica-1347534'>Crean un enorme robot boxeador que podría revolucionar la robótica</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-enorme-robot-boxeador-podria-revolucionar-robotica-1347534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robot-humanoide-nadia-3244884.jpg?tf=1200x' alt='Crean un enorme robot boxeador que podría revolucionar la robótica' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/herramientas-gratuitas-uso-menudo-editar-imagenes-ia-1339100'>Editar imágenes con IA: las herramientas gratuitas que uso a menudo</a></h4>
     <a href='https://computerhoy.com/apps/herramientas-gratuitas-uso-menudo-editar-imagenes-ia-1339100' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/herramientas-gratuitas-edicion-imagenes-fotografias-ia-3230376.jpg?tf=1200x' alt='Editar imágenes con IA: las herramientas gratuitas que uso a menudo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/razon-no-deberias-dormir-despegue-ni-aterrizaje-avion-1345950'>Esta es la razón por la que no deberías dormir en el despegue ni el aterrizaje de un avión</a></h4>
-    <a href='https://computerhoy.com/life/razon-no-deberias-dormir-despegue-ni-aterrizaje-avion-1345950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/razon-no-deberias-dormir-despegue-ni-aterrizaje-avion-3241972.jpg?tf=1200x' alt='Esta es la razón por la que no deberías dormir en el despegue ni el aterrizaje de un avión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/ha-abierto-enorme-agujero-sol-significa-tierra-1347526'>Se ha abierto un enorme agujero en el Sol y esto es lo que significa para la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/ha-abierto-enorme-agujero-sol-significa-tierra-1347526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ciclo-solar-prepara-alcanzar-maximo-como-puede-afectar-tierra-3236336.jpg?tf=1200x' alt='Se ha abierto un enorme agujero en el Sol y esto es lo que significa para la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023</a></h4>
-    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garmin-forerunner-255-2721189.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta en 2023' />
     </a>
 </div>
 
