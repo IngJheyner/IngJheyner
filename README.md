@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-robot-capaz-resistir-brutales-patadas-nunca-cae-1347732'>Crean un robot capaz de resistir brutales patadas y nunca se cae</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-robot-capaz-resistir-brutales-patadas-nunca-cae-1347732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robot-h1-3245144.jpg?tf=1200x' alt='Crean un robot capaz de resistir brutales patadas y nunca se cae' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-visionarias-ciencia-ficcion-adelantaron-tiempo-pero-fracasaron-taquilla-1336616'>Películas visionarias de ciencia ficción que se adelantaron a su tiempo, pero fracasaron en taquilla</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-visionarias-ciencia-ficcion-adelantaron-tiempo-pero-fracasaron-taquilla-1336616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/peliculas-visionarias-ciencia-ficcion-adelantaron-tiempo-pero-fracasaron-taquilla-3224498.jpg?tf=1200x' alt='Películas visionarias de ciencia ficción que se adelantaron a su tiempo, pero fracasaron en taquilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/oneplus-canon-movil-carga-100w-aliexpress-vende-precio-saldo-1347730'>Este OnePlus es un cañón de móvil con carga de 100W que AliExpress vende a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/android/oneplus-canon-movil-carga-100w-aliexpress-vende-precio-saldo-1347730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-1676028391894-2952792.jpg?tf=1200x' alt='Este OnePlus es un cañón de móvil con carga de 100W que AliExpress vende a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/funciona-ayudame-escribir-google-chrome-tecnologia-inteligencia-artificial-1347728'>Así funciona “ayúdame a escribir” en Google Chrome con tecnología de inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/funciona-ayudame-escribir-google-chrome-tecnologia-inteligencia-artificial-1347728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chrome-movil-3200446.jpg?tf=1200x' alt='Así funciona “ayúdame a escribir” en Google Chrome con tecnología de inteligencia artificial' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-ya-prepara-esperado-iphone-todo-pantalla-1347722'>Apple ya prepara el esperado iPhone todo pantalla</a></h4>
     <a href='https://computerhoy.com/apple/apple-ya-prepara-esperado-iphone-todo-pantalla-1347722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/texto-pantalla-bloqueo-iphone-3149718.jpg?tf=1200x' alt='Apple ya prepara el esperado iPhone todo pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-cuenta-gmail-correo-numero-telefono-1342638'>Cómo recuperar una cuenta de Gmail sin correo y sin número de teléfono</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recuperar-cuenta-gmail-correo-numero-telefono-1342638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Cómo recuperar una cuenta de Gmail sin correo y sin número de teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/mejores-aplicaciones-android-aprender-matematicas-1290526'>Las mejores aplicaciones Android para aprender matemáticas</a></h4>
-    <a href='https://computerhoy.com/android/mejores-aplicaciones-android-aprender-matematicas-1290526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apps-matematicas-android-3109288.jpg?tf=1200x' alt='Las mejores aplicaciones Android para aprender matemáticas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/revisa-conexion-fire-tv-estas-cometiendo-grave-error-1346100'>Revisa la conexión de tu Amazon Fire TV, seguramente estás cometiendo un grave error</a></h4>
-    <a href='https://computerhoy.com/amazon/revisa-conexion-fire-tv-estas-cometiendo-grave-error-1346100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/revisa-conexion-amazon-fire-tv-seguramente-estas-cometiendo-grave-error-3242328.jpg?tf=1200x' alt='Revisa la conexión de tu Amazon Fire TV, seguramente estás cometiendo un grave error' />
     </a>
 </div>
 
