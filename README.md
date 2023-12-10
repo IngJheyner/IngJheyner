@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/revisa-conexion-fire-tv-estas-cometiendo-grave-error-1346100'>Revisa la conexión de tu Amazon Fire TV, seguramente estás cometiendo un grave error</a></h4>
+    <a href='https://computerhoy.com/amazon/revisa-conexion-fire-tv-estas-cometiendo-grave-error-1346100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/revisa-conexion-amazon-fire-tv-seguramente-estas-cometiendo-grave-error-3242328.jpg?tf=1200x' alt='Revisa la conexión de tu Amazon Fire TV, seguramente estás cometiendo un grave error' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/robots-fourier-gr-1-baile-video-1347694'>Los robots de Boston Dynamics ya tienen rivales de baile, y estos son humanoides </a></h4>
     <a href='https://computerhoy.com/tecnologia/robots-fourier-gr-1-baile-video-1347694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/verticalimage1702168454463-3244950.jpg?tf=1200x' alt='Los robots de Boston Dynamics ya tienen rivales de baile, y estos son humanoides ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/crean-enorme-robot-boxeador-podria-revolucionar-robotica-1347534'>Crean un enorme robot boxeador que podría revolucionar la robótica</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-enorme-robot-boxeador-podria-revolucionar-robotica-1347534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robot-humanoide-nadia-3244884.jpg?tf=1200x' alt='Crean un enorme robot boxeador que podría revolucionar la robótica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/herramientas-gratuitas-uso-menudo-editar-imagenes-ia-1339100'>Editar imágenes con IA: las herramientas gratuitas que uso a menudo</a></h4>
-    <a href='https://computerhoy.com/apps/herramientas-gratuitas-uso-menudo-editar-imagenes-ia-1339100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/herramientas-gratuitas-edicion-imagenes-fotografias-ia-3230376.jpg?tf=1200x' alt='Editar imágenes con IA: las herramientas gratuitas que uso a menudo' />
     </a>
 </div>
 
