@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ninos-ya-no-piden-videojuegos-consolas-reyes-magos-1347800'>Los niños ya no piden videojuegos y consolas a los Reyes Magos</a></h4>
+    <a href='https://computerhoy.com/life/ninos-ya-no-piden-videojuegos-consolas-reyes-magos-1347800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ninos-ya-no-piden-videojuegos-consolas-reyes-magos-3245210.jpg?tf=1200x' alt='Los niños ya no piden videojuegos y consolas a los Reyes Magos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-top-ventas-pantalla-120-hz-desploma-precio-roza-record-1346724'>El Xiaomi top ventas con pantalla 120 Hz desploma su precio y roza su récord</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-top-ventas-pantalla-120-hz-desploma-precio-roza-record-1346724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-redmi-note-12-pro-4g-3243456.jpg?tf=1200x' alt='El Xiaomi top ventas con pantalla 120 Hz desploma su precio y roza su récord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/grok-inteligencia-artificial-elon-musk-ya-disponible-1347798'>Grok, la IA gamberra de Elon Musk, ya está disponible, y no se corta con su jefe: "su mayor logro es convertir X en un basurero"</a></h4>
     <a href='https://computerhoy.com/tecnologia/grok-inteligencia-artificial-elon-musk-ya-disponible-1347798' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='Grok, la IA gamberra de Elon Musk, ya está disponible, y no se corta con su jefe: "su mayor logro es convertir X en un basurero"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-revelar-viejos-negativos-fotos-telefono-movil-1346956'>Cómo revelar tus viejos negativos de fotos con tu teléfono móvil</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-revelar-viejos-negativos-fotos-telefono-movil-1346956' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-revelar-viejos-negativos-fotos-telefono-movil-3244126.jpg?tf=1200x' alt='Cómo revelar tus viejos negativos de fotos con tu teléfono móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primera-ley-inteligencia-artificial-mundo-union-europea-1347784'>La primera Ley de Inteligencia Artificial del mundo se aprueba en la Unión Europea: esto es lo que implica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primera-ley-inteligencia-artificial-mundo-union-europea-1347784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/union-europea-publica-primera-ley-inteligencia-artificial-mundo-implica-3245190.jpg?tf=1200x' alt='La primera Ley de Inteligencia Artificial del mundo se aprueba en la Unión Europea: esto es lo que implica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-john-wick-pacto-sangre-1347696'>Qué película ver en la TDT hoy: un asesino vuelve del retiro para saldar una deuda de sangre</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-john-wick-pacto-sangre-1347696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/John%20Wick%20Pacto%20de%20sangre.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: un asesino vuelve del retiro para saldar una deuda de sangre' />
     </a>
 </div>
 
