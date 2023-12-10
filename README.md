@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/truco-limpiar-botella-dentro-1347808'>El truco genial para frotar una botella por dentro, sin esfuerzo</a></h4>
+    <a href='https://computerhoy.com/life/truco-limpiar-botella-dentro-1347808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/truco-genial-limpiar-botella-dentro-esfuerzo-3245218.jpg?tf=1200x' alt='El truco genial para frotar una botella por dentro, sin esfuerzo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ninos-ya-no-piden-videojuegos-consolas-reyes-magos-1347800'>Los niños ya no piden videojuegos y consolas a los Reyes Magos</a></h4>
     <a href='https://computerhoy.com/life/ninos-ya-no-piden-videojuegos-consolas-reyes-magos-1347800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ninos-ya-no-piden-videojuegos-consolas-reyes-magos-3245210.jpg?tf=1200x' alt='Los niños ya no piden videojuegos y consolas a los Reyes Magos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/nuevo-producto-yamaha-cd-c603-cambiador-cds-1347790'>El nuevo producto de Yamaha es una inesperada reliquia del pasado</a></h4>
     <a href='https://computerhoy.com/audio/nuevo-producto-yamaha-cd-c603-cambiador-cds-1347790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nuevo-producto-yamaha-inesperada-reliquia-pasado-3245198.jpg?tf=1200x' alt='El nuevo producto de Yamaha es una inesperada reliquia del pasado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-revelar-viejos-negativos-fotos-telefono-movil-1346956'>Cómo revelar tus viejos negativos de fotos con tu teléfono móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-revelar-viejos-negativos-fotos-telefono-movil-1346956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-revelar-viejos-negativos-fotos-telefono-movil-3244126.jpg?tf=1200x' alt='Cómo revelar tus viejos negativos de fotos con tu teléfono móvil' />
     </a>
 </div>
 
