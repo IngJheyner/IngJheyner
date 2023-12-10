@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/nuevo-producto-yamaha-cd-c603-cambiador-cds-1347790'>El nuevo producto de Yamaha es una inesperada reliquia del pasado</a></h4>
+    <a href='https://computerhoy.com/audio/nuevo-producto-yamaha-cd-c603-cambiador-cds-1347790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nuevo-producto-yamaha-inesperada-reliquia-pasado-3245198.jpg?tf=1200x' alt='El nuevo producto de Yamaha es una inesperada reliquia del pasado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-revelar-viejos-negativos-fotos-telefono-movil-1346956'>Cómo revelar tus viejos negativos de fotos con tu teléfono móvil</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-revelar-viejos-negativos-fotos-telefono-movil-1346956' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-revelar-viejos-negativos-fotos-telefono-movil-3244126.jpg?tf=1200x' alt='Cómo revelar tus viejos negativos de fotos con tu teléfono móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/chatgpt-estos-son-riesgos-seguir-recomendaciones-medicas-estudio-1346836'>ChatGPT: estos son los riesgos de seguir sus recomendaciones médicas, según un estudio</a></h4>
     <a href='https://computerhoy.com/ciencia/chatgpt-estos-son-riesgos-seguir-recomendaciones-medicas-estudio-1346836' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chatgpt-estos-son-riesgos-seguir-recomendaciones-medicas-estudio-3243686.jpg?tf=1200x' alt='ChatGPT: estos son los riesgos de seguir sus recomendaciones médicas, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/apple-bloquea-funcion-imessage-beeper-mini-android-riesgo-significativo-seguridad-usuarios-1347738'>Apple bloquea la función iMessage de Beeper Mini para Android por “riesgo significativo para la seguridad de los usuarios”</a></h4>
-    <a href='https://computerhoy.com/apps/apple-bloquea-funcion-imessage-beeper-mini-android-riesgo-significativo-seguridad-usuarios-1347738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/beeper-mini-3245150.jpg?tf=1200x' alt='Apple bloquea la función iMessage de Beeper Mini para Android por “riesgo significativo para la seguridad de los usuarios”' />
     </a>
 </div>
 
