@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/grok-inteligencia-artificial-elon-musk-ya-disponible-1347798'>Grok, la IA gamberra de Elon Musk, ya está disponible, y no se corta con su jefe: "su mayor logro es convertir X en un basurero"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/grok-inteligencia-artificial-elon-musk-ya-disponible-1347798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='Grok, la IA gamberra de Elon Musk, ya está disponible, y no se corta con su jefe: "su mayor logro es convertir X en un basurero"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/nuevo-producto-yamaha-cd-c603-cambiador-cds-1347790'>El nuevo producto de Yamaha es una inesperada reliquia del pasado</a></h4>
     <a href='https://computerhoy.com/audio/nuevo-producto-yamaha-cd-c603-cambiador-cds-1347790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nuevo-producto-yamaha-inesperada-reliquia-pasado-3245198.jpg?tf=1200x' alt='El nuevo producto de Yamaha es una inesperada reliquia del pasado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-john-wick-pacto-sangre-1347696'>Qué película ver en la TDT hoy: un asesino vuelve del retiro para saldar una deuda de sangre</a></h4>
     <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-john-wick-pacto-sangre-1347696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/John%20Wick%20Pacto%20de%20sangre.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: un asesino vuelve del retiro para saldar una deuda de sangre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/chatgpt-estos-son-riesgos-seguir-recomendaciones-medicas-estudio-1346836'>ChatGPT: estos son los riesgos de seguir sus recomendaciones médicas, según un estudio</a></h4>
-    <a href='https://computerhoy.com/ciencia/chatgpt-estos-son-riesgos-seguir-recomendaciones-medicas-estudio-1346836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chatgpt-estos-son-riesgos-seguir-recomendaciones-medicas-estudio-3243686.jpg?tf=1200x' alt='ChatGPT: estos son los riesgos de seguir sus recomendaciones médicas, según un estudio' />
     </a>
 </div>
 
