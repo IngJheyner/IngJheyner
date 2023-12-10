@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/pasada-decada-fue-calurosa-jamas-registrada-historia-tierra-1347736'>La pasada década fue la más calurosa jamás registrada en la historia de la Tierra</a></h4>
+    <a href='https://computerhoy.com/life/pasada-decada-fue-calurosa-jamas-registrada-historia-tierra-1347736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cambio-climatico-3245148.jpg?tf=1200x' alt='La pasada década fue la más calurosa jamás registrada en la historia de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/crean-robot-capaz-resistir-brutales-patadas-nunca-cae-1347732'>Crean un robot capaz de resistir brutales patadas y nunca se cae</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-robot-capaz-resistir-brutales-patadas-nunca-cae-1347732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robot-h1-3245144.jpg?tf=1200x' alt='Crean un robot capaz de resistir brutales patadas y nunca se cae' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/funciona-ayudame-escribir-google-chrome-tecnologia-inteligencia-artificial-1347728'>Así funciona “ayúdame a escribir” en Google Chrome con tecnología de inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/funciona-ayudame-escribir-google-chrome-tecnologia-inteligencia-artificial-1347728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chrome-movil-3200446.jpg?tf=1200x' alt='Así funciona “ayúdame a escribir” en Google Chrome con tecnología de inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-ya-prepara-esperado-iphone-todo-pantalla-1347722'>Apple ya prepara el esperado iPhone todo pantalla</a></h4>
-    <a href='https://computerhoy.com/apple/apple-ya-prepara-esperado-iphone-todo-pantalla-1347722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/texto-pantalla-bloqueo-iphone-3149718.jpg?tf=1200x' alt='Apple ya prepara el esperado iPhone todo pantalla' />
     </a>
 </div>
 
