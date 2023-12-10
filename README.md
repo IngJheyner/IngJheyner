@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/funciona-ayudame-escribir-google-chrome-tecnologia-inteligencia-artificial-1347728'>Así funciona “ayúdame a escribir” en Google Chrome con tecnología de inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/funciona-ayudame-escribir-google-chrome-tecnologia-inteligencia-artificial-1347728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chrome-movil-3200446.jpg?tf=1200x' alt='Así funciona “ayúdame a escribir” en Google Chrome con tecnología de inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-ya-prepara-esperado-iphone-todo-pantalla-1347722'>Apple ya prepara el esperado iPhone todo pantalla</a></h4>
+    <a href='https://computerhoy.com/apple/apple-ya-prepara-esperado-iphone-todo-pantalla-1347722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/texto-pantalla-bloqueo-iphone-3149718.jpg?tf=1200x' alt='Apple ya prepara el esperado iPhone todo pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-cuenta-gmail-correo-numero-telefono-1342638'>Cómo recuperar una cuenta de Gmail sin correo y sin número de teléfono</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-cuenta-gmail-correo-numero-telefono-1342638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Cómo recuperar una cuenta de Gmail sin correo y sin número de teléfono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/mejores-aplicaciones-android-aprender-matematicas-1290526'>Las mejores aplicaciones Android para aprender matemáticas</a></h4>
     <a href='https://computerhoy.com/android/mejores-aplicaciones-android-aprender-matematicas-1290526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/apps-matematicas-android-3109288.jpg?tf=1200x' alt='Las mejores aplicaciones Android para aprender matemáticas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/revisa-conexion-fire-tv-estas-cometiendo-grave-error-1346100'>Revisa la conexión de tu Amazon Fire TV, seguramente estás cometiendo un grave error</a></h4>
     <a href='https://computerhoy.com/amazon/revisa-conexion-fire-tv-estas-cometiendo-grave-error-1346100' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/revisa-conexion-amazon-fire-tv-seguramente-estas-cometiendo-grave-error-3242328.jpg?tf=1200x' alt='Revisa la conexión de tu Amazon Fire TV, seguramente estás cometiendo un grave error' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robots-fourier-gr-1-baile-video-1347694'>Los robots de Boston Dynamics ya tienen rivales de baile, y estos son humanoides </a></h4>
-    <a href='https://computerhoy.com/tecnologia/robots-fourier-gr-1-baile-video-1347694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/verticalimage1702168454463-3244950.jpg?tf=1200x' alt='Los robots de Boston Dynamics ya tienen rivales de baile, y estos son humanoides ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/actualizacion-ota-como-funciona-movil-coche-1334126'>¿Qué es una actualización OTA y cómo funciona en tu móvil o coche?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/actualizacion-ota-como-funciona-movil-coche-1334126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/verticalimage1701956694324-3243748.jpg?tf=1200x' alt='¿Qué es una actualización OTA y cómo funciona en tu móvil o coche?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/moviles-procesador-dimensity-8100-1185288'>Estos son los mejores móviles con Dimensity 8100, uno de los mejores procesadores</a></h4>
-    <a href='https://computerhoy.com/mejores/moviles-procesador-dimensity-8100-1185288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-12t-pro-carga-120w-2833727.jpg?tf=1200x' alt='Estos son los mejores móviles con Dimensity 8100, uno de los mejores procesadores' />
     </a>
 </div>
 
