@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/tdtchannels-ver-tdt-movil-anade-dos-nuevos-canales-1348256'>TDTChannels, la app para ver la TDT desde el móvil añade dos nuevos canales gratis</a></h4>
+    <a href='https://computerhoy.com/tv/tdtchannels-ver-tdt-movil-anade-dos-nuevos-canales-1348256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels, la app para ver la TDT desde el móvil añade dos nuevos canales gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432'>Cómo calibrar Google Maps en Android para que sea mucho más preciso</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/calibrar-google-maps-3120262.jpg?tf=1200x' alt='Cómo calibrar Google Maps en Android para que sea mucho más preciso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/madrid-pionera-estaciones-baterias-intercambiables-coches-electricos-1348230'>Madrid pionera en estaciones de baterías intercambiables para coches eléctricos: 100% de carga en 5 minutos </a></h4>
     <a href='https://computerhoy.com/motor/madrid-pionera-estaciones-baterias-intercambiables-coches-electricos-1348230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estaciones-baterias-intercambiables-tener-100-carga-coche-electrico-5-minutos-3245974.jpg?tf=1200x' alt='Madrid pionera en estaciones de baterías intercambiables para coches eléctricos: 100% de carga en 5 minutos ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/hacker-te-ensena-detectar-han-entrado-telefono-1348218'>Esta hacker te enseña a detectar si un ciberdelincuente ha entrado en tu móvil en segundos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/hacker-te-ensena-detectar-han-entrado-telefono-1348218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hacker-te-ensena-detectar-ciberdelincuente-ha-entrado-telefono-segundos-3245958.jpg?tf=1200x' alt='Esta hacker te enseña a detectar si un ciberdelincuente ha entrado en tu móvil en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-regalos-tecnologia-baratos-estas-navidades-sera-imposible-fallar-1348034'>7 regalos de tecnología baratos para estas Navidades para acertar seguro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-regalos-tecnologia-baratos-estas-navidades-sera-imposible-fallar-1348034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cajas-regalos-navidenos-2897280.jpg?tf=1200x' alt='7 regalos de tecnología baratos para estas Navidades para acertar seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/merece-pena-comprar-cerradura-inteligente-1348106'>¿Merece la pena comprar una cerradura inteligente? Esto es lo que debes saber antes de comprar una</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/merece-pena-comprar-cerradura-inteligente-1348106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/cerraduras-inteligentes-2088659.jpg?tf=1200x' alt='¿Merece la pena comprar una cerradura inteligente? Esto es lo que debes saber antes de comprar una' />
     </a>
 </div>
 
