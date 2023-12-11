@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-da-mucho-miedo-puede-descifrar-contrasenas-sonido-teclado-1348320'>Esta IA da mucho miedo: puede descifrar contraseñas por el sonido del teclado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-da-mucho-miedo-puede-descifrar-contrasenas-sonido-teclado-1348320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tecleando-ordenador-3246134.jpg?tf=1200x' alt='Esta IA da mucho miedo: puede descifrar contraseñas por el sonido del teclado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hora-verdad-debes-introducir-plastico-microondas-1348154'>La hora de la verdad: ¿debes introducir plástico en el microondas?</a></h4>
+    <a href='https://computerhoy.com/life/hora-verdad-debes-introducir-plastico-microondas-1348154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hora-verdadse-puede-introducir-plastico-microondas-3245828.jpg?tf=1200x' alt='La hora de la verdad: ¿debes introducir plástico en el microondas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/satya-nadella-afirma-copilot-sera-proximo-boton-inicio-windows-1348318'>Satya Nadella afirma que Copilot será el próximo botón de inicio de Windows</a></h4>
+    <a href='https://computerhoy.com/windows/satya-nadella-afirma-copilot-sera-proximo-boton-inicio-windows-1348318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/novedades-microsoft-surface-copilot-surface-studio-2-surface-go-3-4-3140954.jpg?tf=1200x' alt='Satya Nadella afirma que Copilot será el próximo botón de inicio de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-chrome-trucos-atajos-navegar-rapido-1346574'>Google Chrome: trucos y atajos para navegar mucho más rápido</a></h4>
+    <a href='https://computerhoy.com/google/google-chrome-trucos-atajos-navegar-rapido-1346574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-chrome-trucos-atajos-navegar-mucho-rapido-3243282.jpg?tf=1200x' alt='Google Chrome: trucos y atajos para navegar mucho más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/tdtchannels-ver-tdt-movil-anade-dos-nuevos-canales-1348256'>TDTChannels, la app para ver la TDT desde el móvil añade dos nuevos canales gratis</a></h4>
     <a href='https://computerhoy.com/tv/tdtchannels-ver-tdt-movil-anade-dos-nuevos-canales-1348256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels, la app para ver la TDT desde el móvil añade dos nuevos canales gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432'>Cómo calibrar Google Maps en Android para que sea mucho más preciso</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/calibrar-google-maps-3120262.jpg?tf=1200x' alt='Cómo calibrar Google Maps en Android para que sea mucho más preciso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/madrid-pionera-estaciones-baterias-intercambiables-coches-electricos-1348230'>Madrid pionera en estaciones de baterías intercambiables para coches eléctricos: 100% de carga en 5 minutos </a></h4>
-    <a href='https://computerhoy.com/motor/madrid-pionera-estaciones-baterias-intercambiables-coches-electricos-1348230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estaciones-baterias-intercambiables-tener-100-carga-coche-electrico-5-minutos-3245974.jpg?tf=1200x' alt='Madrid pionera en estaciones de baterías intercambiables para coches eléctricos: 100% de carga en 5 minutos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/spotify-pie-como-crear-dni-musical-personalizado-artistas-favoritos-1346572'>Spotify Pie: cómo crear tu DNI musical personalizado con tus géneros y artistas favoritos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/spotify-pie-como-crear-dni-musical-personalizado-artistas-favoritos-1346572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/spotify-pie-como-crear-dni-musical-personalizado-generos-artistas-favoritos-3243268.jpg?tf=1200x' alt='Spotify Pie: cómo crear tu DNI musical personalizado con tus géneros y artistas favoritos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hacker-te-ensena-detectar-han-entrado-telefono-1348218'>Esta hacker te enseña a detectar si un ciberdelincuente ha entrado en tu móvil en segundos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hacker-te-ensena-detectar-han-entrado-telefono-1348218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hacker-te-ensena-detectar-ciberdelincuente-ha-entrado-telefono-segundos-3245958.jpg?tf=1200x' alt='Esta hacker te enseña a detectar si un ciberdelincuente ha entrado en tu móvil en segundos' />
     </a>
 </div>
 
