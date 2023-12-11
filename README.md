@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/mi-wifi-va-muy-lento-culpable-1348062'>Mi WiFi va muy lento, he localizado al culpable y tú también lo tienes en casa</a></h4>
+    <a href='https://computerhoy.com/redes/mi-wifi-va-muy-lento-culpable-1348062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mala-conexion-wifi-puede-ser-dispositivo-te-causando-interferencias-3245596.jpg?tf=1200x' alt='Mi WiFi va muy lento, he localizado al culpable y tú también lo tienes en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/todo-sabemos-hoy-iphone-16-apple-1348172'>Todo lo que sabemos hasta hoy del iPhone 16: rumores, especificaciones, fecha de lanzamiento y más</a></h4>
     <a href='https://computerhoy.com/apple/todo-sabemos-hoy-iphone-16-apple-1348172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/todo-sabemos-hoy-iphone-16-rumores-especificaciones-fecha-lanzamiento-3245868.jpg?tf=1200x' alt='Todo lo que sabemos hasta hoy del iPhone 16: rumores, especificaciones, fecha de lanzamiento y más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/internet/paginas-buscar-personas-gratis-internet-70207'>Páginas para buscar personas gratis por Internet</a></h4>
     <a href='https://computerhoy.com/listas/internet/paginas-buscar-personas-gratis-internet-70207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/buscar-alguien-internet-3074884.jpg?tf=1200x' alt='Páginas para buscar personas gratis por Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/estas-han-sido-palabras-buscadas-espanoles-google-durante-2023-chatgpt-mbappe-oppenheimer-encabezan-listas-1348164'>Estas han sido las palabras más buscadas por los españoles en Google durante 2023: ChatGPT, Mbappé y Oppenheimer encabezan las listas</a></h4>
-    <a href='https://computerhoy.com/google/estas-han-sido-palabras-buscadas-espanoles-google-durante-2023-chatgpt-mbappe-oppenheimer-encabezan-listas-1348164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/palabras-buscadas-google-2023-3245870.jpg?tf=1200x' alt='Estas han sido las palabras más buscadas por los españoles en Google durante 2023: ChatGPT, Mbappé y Oppenheimer encabezan las listas' />
     </a>
 </div>
 
