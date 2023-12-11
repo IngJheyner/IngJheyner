@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/hacker-te-ensena-detectar-han-entrado-telefono-1348218'>Esta hacker te enseña a detectar si un ciberdelincuente ha entrado en tu móvil en segundos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hacker-te-ensena-detectar-han-entrado-telefono-1348218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hacker-te-ensena-detectar-ciberdelincuente-ha-entrado-telefono-segundos-3245958.jpg?tf=1200x' alt='Esta hacker te enseña a detectar si un ciberdelincuente ha entrado en tu móvil en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/7-regalos-tecnologia-baratos-estas-navidades-sera-imposible-fallar-1348034'>7 regalos de tecnología baratos para estas Navidades para acertar seguro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-regalos-tecnologia-baratos-estas-navidades-sera-imposible-fallar-1348034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cajas-regalos-navidenos-2897280.jpg?tf=1200x' alt='7 regalos de tecnología baratos para estas Navidades para acertar seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/merece-pena-comprar-cerradura-inteligente-1348106'>¿Merece la pena comprar una cerradura inteligente? Esto es lo que debes saber antes de comprar una</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/merece-pena-comprar-cerradura-inteligente-1348106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/cerraduras-inteligentes-2088659.jpg?tf=1200x' alt='¿Merece la pena comprar una cerradura inteligente? Esto es lo que debes saber antes de comprar una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/mi-wifi-va-muy-lento-culpable-1348062'>Mi WiFi va muy lento, he localizado al culpable y tú también lo tienes en casa</a></h4>
     <a href='https://computerhoy.com/redes/mi-wifi-va-muy-lento-culpable-1348062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mala-conexion-wifi-puede-ser-dispositivo-te-causando-interferencias-3245596.jpg?tf=1200x' alt='Mi WiFi va muy lento, he localizado al culpable y tú también lo tienes en casa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/todo-sabemos-hoy-iphone-16-apple-1348172'>Todo lo que sabemos hasta hoy del iPhone 16: rumores, especificaciones, fecha de lanzamiento y más</a></h4>
     <a href='https://computerhoy.com/apple/todo-sabemos-hoy-iphone-16-apple-1348172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/todo-sabemos-hoy-iphone-16-rumores-especificaciones-fecha-lanzamiento-3245868.jpg?tf=1200x' alt='Todo lo que sabemos hasta hoy del iPhone 16: rumores, especificaciones, fecha de lanzamiento y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-son-puntos-clave-nueva-ley-ue-regular-ia-1348094'>Estos son los puntos clave de la nueva ley de la UE para regular la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-son-puntos-clave-nueva-ley-ue-regular-ia-1348094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estos-son-puntos-clave-nueva-ley-ue-regular-ia-3245618.jpg?tf=1200x' alt='Estos son los puntos clave de la nueva ley de la UE para regular la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/adios-futbol-gratis-llega-piracy-shield-listas-iptv-1348144'>¿Adiós al fútbol gratis? Se activa Piracy Shield, el principio del fin de las listas IPTV</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/adios-futbol-gratis-llega-piracy-shield-listas-iptv-1348144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/adios-futbol-gratis-activa-piracy-shield-principio-fin-listas-iptv-3245798.jpg?tf=1200x' alt='¿Adiós al fútbol gratis? Se activa Piracy Shield, el principio del fin de las listas IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/internet/paginas-buscar-personas-gratis-internet-70207'>Páginas para buscar personas gratis por Internet</a></h4>
-    <a href='https://computerhoy.com/listas/internet/paginas-buscar-personas-gratis-internet-70207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/buscar-alguien-internet-3074884.jpg?tf=1200x' alt='Páginas para buscar personas gratis por Internet' />
     </a>
 </div>
 
