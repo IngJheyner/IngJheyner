@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/arrasa-ventas-smartwatch-parece-caro-ahora-aliexpress-1346778'>Arrasa en ventas y es un smartwatch que parece más caro de lo que es ahora en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/arrasa-ventas-smartwatch-parece-caro-ahora-aliexpress-1346778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zeblade-ares-3-pro-3243542.jpg?tf=1200x' alt='Arrasa en ventas y es un smartwatch que parece más caro de lo que es ahora en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/truco-limpiar-botella-dentro-1347808'>El truco genial para frotar una botella por dentro, sin esfuerzo</a></h4>
     <a href='https://computerhoy.com/life/truco-limpiar-botella-dentro-1347808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/truco-genial-limpiar-botella-dentro-esfuerzo-3245218.jpg?tf=1200x' alt='El truco genial para frotar una botella por dentro, sin esfuerzo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/grok-inteligencia-artificial-elon-musk-ya-disponible-1347798'>Grok, la IA gamberra de Elon Musk, ya está disponible, y no se corta con su jefe: "su mayor logro es convertir X en un basurero"</a></h4>
     <a href='https://computerhoy.com/tecnologia/grok-inteligencia-artificial-elon-musk-ya-disponible-1347798' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='Grok, la IA gamberra de Elon Musk, ya está disponible, y no se corta con su jefe: "su mayor logro es convertir X en un basurero"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/nuevo-producto-yamaha-cd-c603-cambiador-cds-1347790'>El nuevo producto de Yamaha es una inesperada reliquia del pasado</a></h4>
-    <a href='https://computerhoy.com/audio/nuevo-producto-yamaha-cd-c603-cambiador-cds-1347790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nuevo-producto-yamaha-inesperada-reliquia-pasado-3245198.jpg?tf=1200x' alt='El nuevo producto de Yamaha es una inesperada reliquia del pasado' />
     </a>
 </div>
 
