@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/madrid-pionera-estaciones-baterias-intercambiables-coches-electricos-1348230'>Madrid pionera en estaciones de baterías intercambiables para coches eléctricos: 100% de carga en 5 minutos </a></h4>
+    <a href='https://computerhoy.com/motor/madrid-pionera-estaciones-baterias-intercambiables-coches-electricos-1348230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estaciones-baterias-intercambiables-tener-100-carga-coche-electrico-5-minutos-3245974.jpg?tf=1200x' alt='Madrid pionera en estaciones de baterías intercambiables para coches eléctricos: 100% de carga en 5 minutos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/spotify-pie-como-crear-dni-musical-personalizado-artistas-favoritos-1346572'>Spotify Pie: cómo crear tu DNI musical personalizado con tus géneros y artistas favoritos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/spotify-pie-como-crear-dni-musical-personalizado-artistas-favoritos-1346572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/spotify-pie-como-crear-dni-musical-personalizado-generos-artistas-favoritos-3243268.jpg?tf=1200x' alt='Spotify Pie: cómo crear tu DNI musical personalizado con tus géneros y artistas favoritos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/hacker-te-ensena-detectar-han-entrado-telefono-1348218'>Esta hacker te enseña a detectar si un ciberdelincuente ha entrado en tu móvil en segundos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/hacker-te-ensena-detectar-han-entrado-telefono-1348218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hacker-te-ensena-detectar-ciberdelincuente-ha-entrado-telefono-segundos-3245958.jpg?tf=1200x' alt='Esta hacker te enseña a detectar si un ciberdelincuente ha entrado en tu móvil en segundos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/merece-pena-comprar-cerradura-inteligente-1348106'>¿Merece la pena comprar una cerradura inteligente? Esto es lo que debes saber antes de comprar una</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/merece-pena-comprar-cerradura-inteligente-1348106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/cerraduras-inteligentes-2088659.jpg?tf=1200x' alt='¿Merece la pena comprar una cerradura inteligente? Esto es lo que debes saber antes de comprar una' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/mi-wifi-va-muy-lento-culpable-1348062'>Mi WiFi va muy lento, he localizado al culpable y tú también lo tienes en casa</a></h4>
-    <a href='https://computerhoy.com/redes/mi-wifi-va-muy-lento-culpable-1348062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mala-conexion-wifi-puede-ser-dispositivo-te-causando-interferencias-3245596.jpg?tf=1200x' alt='Mi WiFi va muy lento, he localizado al culpable y tú también lo tienes en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/todo-sabemos-hoy-iphone-16-apple-1348172'>Todo lo que sabemos hasta hoy del iPhone 16: rumores, especificaciones, fecha de lanzamiento y más</a></h4>
-    <a href='https://computerhoy.com/apple/todo-sabemos-hoy-iphone-16-apple-1348172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/todo-sabemos-hoy-iphone-16-rumores-especificaciones-fecha-lanzamiento-3245868.jpg?tf=1200x' alt='Todo lo que sabemos hasta hoy del iPhone 16: rumores, especificaciones, fecha de lanzamiento y más' />
     </a>
 </div>
 
