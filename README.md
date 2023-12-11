@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/adios-futbol-gratis-llega-piracy-shield-listas-iptv-1348144'>¿Adiós al fútbol gratis? Se activa Piracy Shield, el principio del fin de las listas IPTV</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/adios-futbol-gratis-llega-piracy-shield-listas-iptv-1348144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/adios-futbol-gratis-activa-piracy-shield-principio-fin-listas-iptv-3245798.jpg?tf=1200x' alt='¿Adiós al fútbol gratis? Se activa Piracy Shield, el principio del fin de las listas IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/internet/paginas-buscar-personas-gratis-internet-70207'>Páginas para buscar personas gratis por Internet</a></h4>
+    <a href='https://computerhoy.com/listas/internet/paginas-buscar-personas-gratis-internet-70207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/buscar-alguien-internet-3074884.jpg?tf=1200x' alt='Páginas para buscar personas gratis por Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/estas-han-sido-palabras-buscadas-espanoles-google-durante-2023-chatgpt-mbappe-oppenheimer-encabezan-listas-1348164'>Estas han sido las palabras más buscadas por los españoles en Google durante 2023: ChatGPT, Mbappé y Oppenheimer encabezan las listas</a></h4>
     <a href='https://computerhoy.com/google/estas-han-sido-palabras-buscadas-espanoles-google-durante-2023-chatgpt-mbappe-oppenheimer-encabezan-listas-1348164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/palabras-buscadas-google-2023-3245870.jpg?tf=1200x' alt='Estas han sido las palabras más buscadas por los españoles en Google durante 2023: ChatGPT, Mbappé y Oppenheimer encabezan las listas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-no-trabaja-ti-perezosamente-te-pide-completes-tareas-1348120'>ChatGPT ya no trabaja por ti y perezosamente te pide que completes tú las tareas</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-ya-no-trabaja-ti-perezosamente-te-pide-completes-tareas-1348120' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chatgpt-fallo-ia-3245700.jpg?tf=1200x' alt='ChatGPT ya no trabaja por ti y perezosamente te pide que completes tú las tareas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/mucho-cuidado-nueva-estafa-alerta-jazztel-parece-sacada-pelicula-1348092'>Mucho cuidado con esta nueva estafa que alerta Jazztel y que parece sacada de una película</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/mucho-cuidado-nueva-estafa-alerta-jazztel-parece-sacada-pelicula-1348092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estafa-jazztel-3245650.jpg?tf=1200x' alt='Mucho cuidado con esta nueva estafa que alerta Jazztel y que parece sacada de una película' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/miravia-lia-liquida-productos-dyson-precios-jamas-vistos-tambien-aspiradoras-top-1347968'>Miravia la lía y liquida productos Dyson a precios jamás vistos, también aspiradoras top</a></h4>
-    <a href='https://computerhoy.com/tecnologia/miravia-lia-liquida-productos-dyson-precios-jamas-vistos-tambien-aspiradoras-top-1347968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/envio-miravia-2966200.jpg?tf=1200x' alt='Miravia la lía y liquida productos Dyson a precios jamás vistos, también aspiradoras top' />
     </a>
 </div>
 
