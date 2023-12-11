@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/memoria-ram-camm2-obtiene-sello-aprobacion-jedec-1348018'>La memoria RAM CAMM2 obtiene el sello de aprobación de JEDEC: 128 GB y velocidades altísimas en un portátil</a></h4>
+    <a href='https://computerhoy.com/pc/memoria-ram-camm2-obtiene-sello-aprobacion-jedec-1348018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/memoria-ram-3043982.jpg?tf=1200x' alt='La memoria RAM CAMM2 obtiene el sello de aprobación de JEDEC: 128 GB y velocidades altísimas en un portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/auriculares-koss-porta-pro-3245372.jpg?tf=1200x' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/odias-poner-cadenas-nieve-coche-sistema-te-permitira-hacerlo-solo-darle-boton-1348002'>¿Odias poner las cadenas para nieve en tu coche? Este sistema te permitirá hacerlo con solo darle a un botón</a></h4>
     <a href='https://computerhoy.com/motor/odias-poner-cadenas-nieve-coche-sistema-te-permitira-hacerlo-solo-darle-boton-1348002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cadenas-nieve-coche-3245508.jpg?tf=1200x' alt='¿Odias poner las cadenas para nieve en tu coche? Este sistema te permitirá hacerlo con solo darle a un botón' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-fija-fecha-cerrar-servicio-500-millones-descargas-1347984'>Google fija fecha definitiva para cerrar este servicio con más de 500 millones de descargas</a></h4>
     <a href='https://computerhoy.com/google/google-fija-fecha-cerrar-servicio-500-millones-descargas-1347984' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-servicio-podcast-3245422.jpg?tf=1200x' alt='Google fija fecha definitiva para cerrar este servicio con más de 500 millones de descargas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/haces-aeropuerto-puede-costarte-todo-dinero-vacaciones-1346986'>Lo haces tú y todos los viajeros en el aeropuerto, pero corres el riesgo de perder el dinero y tus vacaciones</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/haces-aeropuerto-puede-costarte-todo-dinero-vacaciones-1346986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/movil-aeropuerto-3244576.jpg?tf=1200x' alt='Lo haces tú y todos los viajeros en el aeropuerto, pero corres el riesgo de perder el dinero y tus vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-carga-solar-vuelve-carga-precio-desploma-nivel-black-friday-1347946'>El Garmin Fenix con carga solar vuelve a la carga: su precio se desploma al nivel del Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-fenix-carga-solar-vuelve-carga-precio-desploma-nivel-black-friday-1347946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7x-pro-solar-3212838.jpg?tf=1200x' alt='El Garmin Fenix con carga solar vuelve a la carga: su precio se desploma al nivel del Black Friday' />
     </a>
 </div>
 
