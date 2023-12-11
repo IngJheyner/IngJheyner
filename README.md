@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/estas-han-sido-palabras-buscadas-espanoles-google-durante-2023-chatgpt-mbappe-oppenheimer-encabezan-listas-1348164'>Estas han sido las palabras más buscadas por los españoles en Google durante 2023: ChatGPT, Mbappé y Oppenheimer encabezan las listas</a></h4>
+    <a href='https://computerhoy.com/google/estas-han-sido-palabras-buscadas-espanoles-google-durante-2023-chatgpt-mbappe-oppenheimer-encabezan-listas-1348164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/palabras-buscadas-google-2023-3245870.jpg?tf=1200x' alt='Estas han sido las palabras más buscadas por los españoles en Google durante 2023: ChatGPT, Mbappé y Oppenheimer encabezan las listas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/como-responder-insulto-steve-jobs-507535'>Cómo responder a un insulto de forma impecable, al estilo Steve Jobs</a></h4>
     <a href='https://computerhoy.com/noticias/life/como-responder-insulto-steve-jobs-507535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/como-responder-insulto-forma-impecable-estilo-steve-jobs.jpg?tf=1200x' alt='Cómo responder a un insulto de forma impecable, al estilo Steve Jobs' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/miravia-lia-liquida-productos-dyson-precios-jamas-vistos-tambien-aspiradoras-top-1347968'>Miravia la lía y liquida productos Dyson a precios jamás vistos, también aspiradoras top</a></h4>
     <a href='https://computerhoy.com/tecnologia/miravia-lia-liquida-productos-dyson-precios-jamas-vistos-tambien-aspiradoras-top-1347968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/envio-miravia-2966200.jpg?tf=1200x' alt='Miravia la lía y liquida productos Dyson a precios jamás vistos, también aspiradoras top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/l4s-como-hara-internet-sea-rapido-nunca-1348050'>¿Qué es L4S y cómo hará que tu Internet sea más rápido que nunca?</a></h4>
-    <a href='https://computerhoy.com/internet/l4s-como-hara-internet-sea-rapido-nunca-1348050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/l4s-velocidad-internet-3245592.jpg?tf=1200x' alt='¿Qué es L4S y cómo hará que tu Internet sea más rápido que nunca?' />
     </a>
 </div>
 
