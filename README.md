@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/odias-poner-cadenas-nieve-coche-sistema-te-permitira-hacerlo-solo-darle-boton-1348002'>¿Odias poner las cadenas para nieve en tu coche? Este sistema te permitirá hacerlo con solo darle a un botón</a></h4>
+    <a href='https://computerhoy.com/motor/odias-poner-cadenas-nieve-coche-sistema-te-permitira-hacerlo-solo-darle-boton-1348002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cadenas-nieve-coche-3245508.jpg?tf=1200x' alt='¿Odias poner las cadenas para nieve en tu coche? Este sistema te permitirá hacerlo con solo darle a un botón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/despidieron-sam-altman-openai-salen-luz-nuevas-pistas-1347978'>"Es un líder manipulador": más pistas del despido de Sam Altman en OpenAI</a></h4>
+    <a href='https://computerhoy.com/industria/despidieron-sam-altman-openai-salen-luz-nuevas-pistas-1347978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sam-altman-3245472.jpg?tf=1200x' alt='"Es un líder manipulador": más pistas del despido de Sam Altman en OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-fija-fecha-cerrar-servicio-500-millones-descargas-1347984'>Google fija fecha definitiva para cerrar este servicio con más de 500 millones de descargas</a></h4>
+    <a href='https://computerhoy.com/google/google-fija-fecha-cerrar-servicio-500-millones-descargas-1347984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-servicio-podcast-3245422.jpg?tf=1200x' alt='Google fija fecha definitiva para cerrar este servicio con más de 500 millones de descargas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/haces-aeropuerto-puede-costarte-todo-dinero-vacaciones-1346986'>Lo haces tú y todos los viajeros en el aeropuerto, pero corres el riesgo de perder el dinero y tus vacaciones</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/haces-aeropuerto-puede-costarte-todo-dinero-vacaciones-1346986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/movil-aeropuerto-3244576.jpg?tf=1200x' alt='Lo haces tú y todos los viajeros en el aeropuerto, pero corres el riesgo de perder el dinero y tus vacaciones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-carga-solar-vuelve-carga-precio-desploma-nivel-black-friday-1347946'>El Garmin Fenix con carga solar vuelve a la carga: su precio se desploma al nivel del Black Friday</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-fenix-carga-solar-vuelve-carga-precio-desploma-nivel-black-friday-1347946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7x-pro-solar-3212838.jpg?tf=1200x' alt='El Garmin Fenix con carga solar vuelve a la carga: su precio se desploma al nivel del Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/10-moviles-vendidos-espana-tercer-trimestre-2023-1342114'>Solo 2 marcas se reparten los 10 móviles más vendidos en España en el tercer trimestre</a></h4>
-    <a href='https://computerhoy.com/moviles/10-moviles-vendidos-espana-tercer-trimestre-2023-1342114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/moviles-espana-3235662.jpg?tf=1200x' alt='Solo 2 marcas se reparten los 10 móviles más vendidos en España en el tercer trimestre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/secreto-preparar-mejor-cafe-casero-ciencia-1347306'>El secreto para preparar el mejor café casero, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/life/secreto-preparar-mejor-cafe-casero-ciencia-1347306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/secreto-preparar-mejor-cafe-casa-ciencia-3244578.jpg?tf=1200x' alt='El secreto para preparar el mejor café casero, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/arrasa-ventas-smartwatch-parece-caro-ahora-aliexpress-1346778'>Arrasa en ventas y es un smartwatch que parece más caro de lo que es ahora en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/arrasa-ventas-smartwatch-parece-caro-ahora-aliexpress-1346778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zeblade-ares-3-pro-3243542.jpg?tf=1200x' alt='Arrasa en ventas y es un smartwatch que parece más caro de lo que es ahora en AliExpress' />
     </a>
 </div>
 
