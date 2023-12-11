@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/l4s-como-hara-internet-sea-rapido-nunca-1348050'>¿Qué es L4S y cómo hará que tu Internet sea más rápido que nunca?</a></h4>
+    <a href='https://computerhoy.com/internet/l4s-como-hara-internet-sea-rapido-nunca-1348050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/l4s-velocidad-internet-3245592.jpg?tf=1200x' alt='¿Qué es L4S y cómo hará que tu Internet sea más rápido que nunca?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/memoria-ram-camm2-obtiene-sello-aprobacion-jedec-1348018'>La memoria RAM CAMM2 obtiene el sello de aprobación de JEDEC: 128 GB y velocidades altísimas en un portátil</a></h4>
     <a href='https://computerhoy.com/pc/memoria-ram-camm2-obtiene-sello-aprobacion-jedec-1348018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/memoria-ram-3043982.jpg?tf=1200x' alt='La memoria RAM CAMM2 obtiene el sello de aprobación de JEDEC: 128 GB y velocidades altísimas en un portátil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/industria/despidieron-sam-altman-openai-salen-luz-nuevas-pistas-1347978'>"Es un líder manipulador": más pistas del despido de Sam Altman en OpenAI</a></h4>
     <a href='https://computerhoy.com/industria/despidieron-sam-altman-openai-salen-luz-nuevas-pistas-1347978' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sam-altman-3245472.jpg?tf=1200x' alt='"Es un líder manipulador": más pistas del despido de Sam Altman en OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-fija-fecha-cerrar-servicio-500-millones-descargas-1347984'>Google fija fecha definitiva para cerrar este servicio con más de 500 millones de descargas</a></h4>
-    <a href='https://computerhoy.com/google/google-fija-fecha-cerrar-servicio-500-millones-descargas-1347984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-servicio-podcast-3245422.jpg?tf=1200x' alt='Google fija fecha definitiva para cerrar este servicio con más de 500 millones de descargas' />
     </a>
 </div>
 
