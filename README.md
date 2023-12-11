@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/haces-aeropuerto-puede-costarte-todo-dinero-vacaciones-1346986'>Lo haces tú y todos los viajeros en el aeropuerto, pero corres el riesgo de perder el dinero y tus vacaciones</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/haces-aeropuerto-puede-costarte-todo-dinero-vacaciones-1346986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/movil-aeropuerto-3244576.jpg?tf=1200x' alt='Lo haces tú y todos los viajeros en el aeropuerto, pero corres el riesgo de perder el dinero y tus vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-carga-solar-vuelve-carga-precio-desploma-nivel-black-friday-1347946'>El Garmin Fenix con carga solar vuelve a la carga: su precio se desploma al nivel del Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-fenix-carga-solar-vuelve-carga-precio-desploma-nivel-black-friday-1347946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7x-pro-solar-3212838.jpg?tf=1200x' alt='El Garmin Fenix con carga solar vuelve a la carga: su precio se desploma al nivel del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/10-moviles-vendidos-espana-tercer-trimestre-2023-1342114'>Solo 2 marcas se reparten los 10 móviles más vendidos en España en el tercer trimestre</a></h4>
     <a href='https://computerhoy.com/moviles/10-moviles-vendidos-espana-tercer-trimestre-2023-1342114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/moviles-espana-3235662.jpg?tf=1200x' alt='Solo 2 marcas se reparten los 10 móviles más vendidos en España en el tercer trimestre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/arrasa-ventas-smartwatch-parece-caro-ahora-aliexpress-1346778'>Arrasa en ventas y es un smartwatch que parece más caro de lo que es ahora en AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/arrasa-ventas-smartwatch-parece-caro-ahora-aliexpress-1346778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zeblade-ares-3-pro-3243542.jpg?tf=1200x' alt='Arrasa en ventas y es un smartwatch que parece más caro de lo que es ahora en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-limpiar-botella-dentro-1347808'>El truco genial para frotar una botella por dentro, sin esfuerzo</a></h4>
-    <a href='https://computerhoy.com/life/truco-limpiar-botella-dentro-1347808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/truco-genial-limpiar-botella-dentro-esfuerzo-3245218.jpg?tf=1200x' alt='El truco genial para frotar una botella por dentro, sin esfuerzo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ninos-ya-no-piden-videojuegos-consolas-reyes-magos-1347800'>Los niños ya no piden videojuegos y consolas a los Reyes Magos</a></h4>
-    <a href='https://computerhoy.com/life/ninos-ya-no-piden-videojuegos-consolas-reyes-magos-1347800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ninos-ya-no-piden-videojuegos-consolas-reyes-magos-3245210.jpg?tf=1200x' alt='Los niños ya no piden videojuegos y consolas a los Reyes Magos' />
     </a>
 </div>
 
