@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/prefijos-espana-provincia-llamada-1343714'>Prefijos de España: cómo saber desde qué provincia te están llamando</a></h4>
+    <a href='https://computerhoy.com/tutoriales/prefijos-espana-provincia-llamada-1343714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/prefijos-espana-como-saber-provincia-te-estan-llamando-3237092.jpg?tf=1200x' alt='Prefijos de España: cómo saber desde qué provincia te están llamando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-macbook-air-m2-te-ahorras-150eu-pasas-apple-store-1347980'>Amazon tumba el precio del MacBook Air M2: te ahorras 150€ si pasas de la Apple Store</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-macbook-air-m2-te-ahorras-150eu-pasas-apple-store-1347980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/macbook-air-3245410.jpg?tf=1200x' alt='Amazon tumba el precio del MacBook Air M2: te ahorras 150€ si pasas de la Apple Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ia-da-mucho-miedo-puede-descifrar-contrasenas-sonido-teclado-1348320'>Esta IA da mucho miedo: puede descifrar contraseñas por el sonido del teclado</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-da-mucho-miedo-puede-descifrar-contrasenas-sonido-teclado-1348320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tecleando-ordenador-3246134.jpg?tf=1200x' alt='Esta IA da mucho miedo: puede descifrar contraseñas por el sonido del teclado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/satya-nadella-afirma-copilot-sera-proximo-boton-inicio-windows-1348318'>Satya Nadella afirma que Copilot será el próximo botón de inicio de Windows</a></h4>
     <a href='https://computerhoy.com/windows/satya-nadella-afirma-copilot-sera-proximo-boton-inicio-windows-1348318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/novedades-microsoft-surface-copilot-surface-studio-2-surface-go-3-4-3140954.jpg?tf=1200x' alt='Satya Nadella afirma que Copilot será el próximo botón de inicio de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-chrome-trucos-atajos-navegar-rapido-1346574'>Google Chrome: trucos y atajos para navegar mucho más rápido</a></h4>
-    <a href='https://computerhoy.com/google/google-chrome-trucos-atajos-navegar-rapido-1346574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-chrome-trucos-atajos-navegar-mucho-rapido-3243282.jpg?tf=1200x' alt='Google Chrome: trucos y atajos para navegar mucho más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/tdtchannels-ver-tdt-movil-anade-dos-nuevos-canales-1348256'>TDTChannels, la app para ver la TDT desde el móvil añade dos nuevos canales gratis</a></h4>
-    <a href='https://computerhoy.com/tv/tdtchannels-ver-tdt-movil-anade-dos-nuevos-canales-1348256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels, la app para ver la TDT desde el móvil añade dos nuevos canales gratis' />
     </a>
 </div>
 
