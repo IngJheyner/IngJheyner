@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-responder-insulto-steve-jobs-507535'>Cómo responder a un insulto de forma impecable, al estilo Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-responder-insulto-steve-jobs-507535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/como-responder-insulto-forma-impecable-estilo-steve-jobs.jpg?tf=1200x' alt='Cómo responder a un insulto de forma impecable, al estilo Steve Jobs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-no-trabaja-ti-perezosamente-te-pide-completes-tareas-1348120'>ChatGPT ya no trabaja por ti y perezosamente te pide que completes tú las tareas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-no-trabaja-ti-perezosamente-te-pide-completes-tareas-1348120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chatgpt-fallo-ia-3245700.jpg?tf=1200x' alt='ChatGPT ya no trabaja por ti y perezosamente te pide que completes tú las tareas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/mucho-cuidado-nueva-estafa-alerta-jazztel-parece-sacada-pelicula-1348092'>Mucho cuidado con esta nueva estafa que alerta Jazztel y que parece sacada de una película</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/mucho-cuidado-nueva-estafa-alerta-jazztel-parece-sacada-pelicula-1348092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estafa-jazztel-3245650.jpg?tf=1200x' alt='Mucho cuidado con esta nueva estafa que alerta Jazztel y que parece sacada de una película' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/l4s-como-hara-internet-sea-rapido-nunca-1348050'>¿Qué es L4S y cómo hará que tu Internet sea más rápido que nunca?</a></h4>
     <a href='https://computerhoy.com/internet/l4s-como-hara-internet-sea-rapido-nunca-1348050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/l4s-velocidad-internet-3245592.jpg?tf=1200x' alt='¿Qué es L4S y cómo hará que tu Internet sea más rápido que nunca?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/memoria-ram-camm2-obtiene-sello-aprobacion-jedec-1348018'>La memoria RAM CAMM2 obtiene el sello de aprobación de JEDEC: 128 GB y velocidades altísimas en un portátil</a></h4>
-    <a href='https://computerhoy.com/pc/memoria-ram-camm2-obtiene-sello-aprobacion-jedec-1348018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/memoria-ram-3043982.jpg?tf=1200x' alt='La memoria RAM CAMM2 obtiene el sello de aprobación de JEDEC: 128 GB y velocidades altísimas en un portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/auriculares-koss-porta-pro-3245372.jpg?tf=1200x' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
     </a>
 </div>
 
