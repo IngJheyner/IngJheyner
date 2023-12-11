@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/todo-sabemos-hoy-iphone-16-apple-1348172'>Todo lo que sabemos hasta hoy del iPhone 16: rumores, especificaciones, fecha de lanzamiento y más</a></h4>
+    <a href='https://computerhoy.com/apple/todo-sabemos-hoy-iphone-16-apple-1348172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/todo-sabemos-hoy-iphone-16-rumores-especificaciones-fecha-lanzamiento-3245868.jpg?tf=1200x' alt='Todo lo que sabemos hasta hoy del iPhone 16: rumores, especificaciones, fecha de lanzamiento y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-puntos-clave-nueva-ley-ue-regular-ia-1348094'>Estos son los puntos clave de la nueva ley de la UE para regular la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-puntos-clave-nueva-ley-ue-regular-ia-1348094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estos-son-puntos-clave-nueva-ley-ue-regular-ia-3245618.jpg?tf=1200x' alt='Estos son los puntos clave de la nueva ley de la UE para regular la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/adios-futbol-gratis-llega-piracy-shield-listas-iptv-1348144'>¿Adiós al fútbol gratis? Se activa Piracy Shield, el principio del fin de las listas IPTV</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/adios-futbol-gratis-llega-piracy-shield-listas-iptv-1348144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/adios-futbol-gratis-activa-piracy-shield-principio-fin-listas-iptv-3245798.jpg?tf=1200x' alt='¿Adiós al fútbol gratis? Se activa Piracy Shield, el principio del fin de las listas IPTV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/estas-han-sido-palabras-buscadas-espanoles-google-durante-2023-chatgpt-mbappe-oppenheimer-encabezan-listas-1348164'>Estas han sido las palabras más buscadas por los españoles en Google durante 2023: ChatGPT, Mbappé y Oppenheimer encabezan las listas</a></h4>
     <a href='https://computerhoy.com/google/estas-han-sido-palabras-buscadas-espanoles-google-durante-2023-chatgpt-mbappe-oppenheimer-encabezan-listas-1348164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/palabras-buscadas-google-2023-3245870.jpg?tf=1200x' alt='Estas han sido las palabras más buscadas por los españoles en Google durante 2023: ChatGPT, Mbappé y Oppenheimer encabezan las listas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-responder-insulto-steve-jobs-507535'>Cómo responder a un insulto de forma impecable, al estilo Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-responder-insulto-steve-jobs-507535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/como-responder-insulto-forma-impecable-estilo-steve-jobs.jpg?tf=1200x' alt='Cómo responder a un insulto de forma impecable, al estilo Steve Jobs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-no-trabaja-ti-perezosamente-te-pide-completes-tareas-1348120'>ChatGPT ya no trabaja por ti y perezosamente te pide que completes tú las tareas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-no-trabaja-ti-perezosamente-te-pide-completes-tareas-1348120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chatgpt-fallo-ia-3245700.jpg?tf=1200x' alt='ChatGPT ya no trabaja por ti y perezosamente te pide que completes tú las tareas' />
     </a>
 </div>
 
