@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/mucho-cuidado-nueva-estafa-alerta-jazztel-parece-sacada-pelicula-1348092'>Mucho cuidado con esta nueva estafa que alerta Jazztel y que parece sacada de una película</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/mucho-cuidado-nueva-estafa-alerta-jazztel-parece-sacada-pelicula-1348092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estafa-jazztel-3245650.jpg?tf=1200x' alt='Mucho cuidado con esta nueva estafa que alerta Jazztel y que parece sacada de una película' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/miravia-lia-liquida-productos-dyson-precios-jamas-vistos-tambien-aspiradoras-top-1347968'>Miravia la lía y liquida productos Dyson a precios jamás vistos, también aspiradoras top</a></h4>
+    <a href='https://computerhoy.com/tecnologia/miravia-lia-liquida-productos-dyson-precios-jamas-vistos-tambien-aspiradoras-top-1347968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/envio-miravia-2966200.jpg?tf=1200x' alt='Miravia la lía y liquida productos Dyson a precios jamás vistos, también aspiradoras top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/l4s-como-hara-internet-sea-rapido-nunca-1348050'>¿Qué es L4S y cómo hará que tu Internet sea más rápido que nunca?</a></h4>
     <a href='https://computerhoy.com/internet/l4s-como-hara-internet-sea-rapido-nunca-1348050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/l4s-velocidad-internet-3245592.jpg?tf=1200x' alt='¿Qué es L4S y cómo hará que tu Internet sea más rápido que nunca?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197'>¿Necesitas unos auriculares con cable? Estos son los mejores modelos</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-con-cable-1043197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/auriculares-koss-porta-pro-3245372.jpg?tf=1200x' alt='¿Necesitas unos auriculares con cable? Estos son los mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/odias-poner-cadenas-nieve-coche-sistema-te-permitira-hacerlo-solo-darle-boton-1348002'>¿Odias poner las cadenas para nieve en tu coche? Este sistema te permitirá hacerlo con solo darle a un botón</a></h4>
-    <a href='https://computerhoy.com/motor/odias-poner-cadenas-nieve-coche-sistema-te-permitira-hacerlo-solo-darle-boton-1348002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cadenas-nieve-coche-3245508.jpg?tf=1200x' alt='¿Odias poner las cadenas para nieve en tu coche? Este sistema te permitirá hacerlo con solo darle a un botón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/despidieron-sam-altman-openai-salen-luz-nuevas-pistas-1347978'>"Es un líder manipulador": más pistas del despido de Sam Altman en OpenAI</a></h4>
-    <a href='https://computerhoy.com/industria/despidieron-sam-altman-openai-salen-luz-nuevas-pistas-1347978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sam-altman-3245472.jpg?tf=1200x' alt='"Es un líder manipulador": más pistas del despido de Sam Altman en OpenAI' />
     </a>
 </div>
 
