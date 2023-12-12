@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-son-sensores-inteligentes-te-ayudan-ahorrar-invierno-1348668'>Estos son los sensores inteligentes que más te ayudan a ahorrar en invierno</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-son-sensores-inteligentes-te-ayudan-ahorrar-invierno-1348668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estos-son-sensores-inteligentes-te-ayudan-ahorrar-invierno-3246790.jpg?tf=1200x' alt='Estos son los sensores inteligentes que más te ayudan a ahorrar en invierno' />
+    <h4><a href='https://computerhoy.com/tecnologia/roomba-inteligente-cuesta-mitad-amazon-tiene-47-descuento-va-volar-1348042'>Esta Roomba inteligente cuesta la mitad en Amazon: tiene un 47% de descuento y va a volar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/roomba-inteligente-cuesta-mitad-amazon-tiene-47-descuento-va-volar-1348042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/roomba-j7-3245540.jpg?tf=1200x' alt='Esta Roomba inteligente cuesta la mitad en Amazon: tiene un 47% de descuento y va a volar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/descubren-menu-oculto-fire-tv-stick-activa-nuevas-funciones-1348244'>Descubren un menú oculto en los Amazon Fire TV Stick que permite activar nuevas funciones</a></h4>
-    <a href='https://computerhoy.com/tutoriales/descubren-menu-oculto-fire-tv-stick-activa-nuevas-funciones-1348244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-menu-oculto-amazon-fire-tv-stick-permite-activar-nuevas-funciones-3246054.jpg?tf=1200x' alt='Descubren un menú oculto en los Amazon Fire TV Stick que permite activar nuevas funciones' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-mapa-personalizado-recuerdos-viajes-google-maps-1345996'>Cómo crear un mapa personalizado con los recuerdos de tus viajes en Google Maps</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-mapa-personalizado-recuerdos-viajes-google-maps-1345996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-crear-mapa-personalizado-recuerdos-viajes-google-maps-3242308.jpg?tf=1200x' alt='Cómo crear un mapa personalizado con los recuerdos de tus viajes en Google Maps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/android-tv-box-880523'>Consejos y guía para comprar un Android TV Box en 2023 y convertir tu televisor en un Smart TV</a></h4>
-    <a href='https://computerhoy.com/guia-compra/android-tv-box-880523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nokia-tv-box-3199488.jpg?tf=1200x' alt='Consejos y guía para comprar un Android TV Box en 2023 y convertir tu televisor en un Smart TV' />
+    <h4><a href='https://computerhoy.com/life/calculan-bill-gates-tiene-tanto-dinero-sale-rentable-dejar-tirado-billete-100-euros-recogerlo-1348842'>Calculan que Bill Gates tiene tanto dinero que le sale más rentable dejar tirado un billete de 100 euros que recogerlo</a></h4>
+    <a href='https://computerhoy.com/life/calculan-bill-gates-tiene-tanto-dinero-sale-rentable-dejar-tirado-billete-100-euros-recogerlo-1348842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/salvo-bill-gates-apple-quiebra-abuchearon-ello-3223158.jpg?tf=1200x' alt='Calculan que Bill Gates tiene tanto dinero que le sale más rentable dejar tirado un billete de 100 euros que recogerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/quitar-hielo-parabrisas-coche-1348772'>Como este truco viral quito el hielo de la luna del coche en segundos sin tener que rascar</a></h4>
-    <a href='https://computerhoy.com/motor/quitar-hielo-parabrisas-coche-1348772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/quitar-hielo-nieve-parabrisas-coche-3246998.jpg?tf=1200x' alt='Como este truco viral quito el hielo de la luna del coche en segundos sin tener que rascar' />
+    <h4><a href='https://computerhoy.com/tecnologia/proyecto-ellmann-google-chatgpt-sabe-todo-vida-1348836'>Proyecto Ellmann de Google: el ChatGPT que sabe todo sobre tu vida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/proyecto-ellmann-google-chatgpt-sabe-todo-vida-1348836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3032564.jpg?tf=1200x' alt='Proyecto Ellmann de Google: el ChatGPT que sabe todo sobre tu vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/suplantacion-identidad-redes-sociales-como-detectarla-hacer-sufres-1348654'>Suplantación de identidad en redes sociales: cómo detectarla y qué hacer si la sufres</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/suplantacion-identidad-redes-sociales-como-detectarla-hacer-sufres-1348654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/suplantacion-identidad-redes-sociales-como-detectarla-hacer-sufres-3246706.jpg?tf=1200x' alt='Suplantación de identidad en redes sociales: cómo detectarla y qué hacer si la sufres' />
+    <h4><a href='https://computerhoy.com/google/buscador-google-gboard-integraran-diccionario-rae-1348818'>El buscador de Google integrará el diccionario de la RAE y Gboard será más preciso y traducirá mejor al español</a></h4>
+    <a href='https://computerhoy.com/google/buscador-google-gboard-integraran-diccionario-rae-1348818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/buscador-google-integrara-diccionario-rae-gboard-sera-preciso-traducira-mejor-espanol-3247054.jpg?tf=1200x' alt='El buscador de Google integrará el diccionario de la RAE y Gboard será más preciso y traducirá mejor al español' />
     </a>
 </div>
 
