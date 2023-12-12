@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/solucion-iconos-desaparecidos-barra-tareas-windows-11-1331772'>Cómo solucionar el problema de los iconos que no se muestran en la barra de tareas en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/solucion-iconos-desaparecidos-barra-tareas-windows-11-1331772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-3013954.jpg?tf=1200x' alt='Cómo solucionar el problema de los iconos que no se muestran en la barra de tareas en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-wifi-nube-pagas-vez-deja-google-lona-ultima-rebaja-1348302'>Este disco duro con WiFi es tu nube y la pagas una vez: deja a Google en la lona con su última rebaja</a></h4>
+    <a href='https://computerhoy.com/tecnologia/disco-duro-wifi-nube-pagas-vez-deja-google-lona-ultima-rebaja-1348302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wd-my-cloud-3246100.jpg?tf=1200x' alt='Este disco duro con WiFi es tu nube y la pagas una vez: deja a Google en la lona con su última rebaja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/sareb-como-buscar-internet-casas-venta-banco-malo-1344544'>Qué es el Sareb y cómo buscar por Internet las casas y pisos a la venta del banco malo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/sareb-como-buscar-internet-casas-venta-banco-malo-1344544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sareb-como-buscar-internet-casas-pisos-venta-banco-malo-3239094.jpg?tf=1200x' alt='Qué es el Sareb y cómo buscar por Internet las casas y pisos a la venta del banco malo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/mapa-te-dice-peliculas-series-han-rodado-cerca-casa-1348336'>El Google Maps del cine: este mapa te dice qué películas o series se han rodado cerca de tu casa</a></h4>
     <a href='https://computerhoy.com/internet/mapa-te-dice-peliculas-series-han-rodado-cerca-casa-1348336' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-maps-cine-mapa-te-dice-peliculas-series-han-rodado-cerca-casa-3246214.jpg?tf=1200x' alt='El Google Maps del cine: este mapa te dice qué películas o series se han rodado cerca de tu casa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/prefijos-espana-provincia-llamada-1343714'>Prefijos de España: cómo saber desde qué provincia te están llamando</a></h4>
     <a href='https://computerhoy.com/tutoriales/prefijos-espana-provincia-llamada-1343714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/prefijos-espana-como-saber-provincia-te-estan-llamando-3237092.jpg?tf=1200x' alt='Prefijos de España: cómo saber desde qué provincia te están llamando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-macbook-air-m2-te-ahorras-150eu-pasas-apple-store-1347980'>Amazon tumba el precio del MacBook Air M2: te ahorras 150€ si pasas de la Apple Store</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-tumba-precio-macbook-air-m2-te-ahorras-150eu-pasas-apple-store-1347980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/macbook-air-3245410.jpg?tf=1200x' alt='Amazon tumba el precio del MacBook Air M2: te ahorras 150€ si pasas de la Apple Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-da-mucho-miedo-puede-descifrar-contrasenas-sonido-teclado-1348320'>Esta IA da mucho miedo: puede descifrar contraseñas por el sonido del teclado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-da-mucho-miedo-puede-descifrar-contrasenas-sonido-teclado-1348320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tecleando-ordenador-3246134.jpg?tf=1200x' alt='Esta IA da mucho miedo: puede descifrar contraseñas por el sonido del teclado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hora-verdad-debes-introducir-plastico-microondas-1348154'>La hora de la verdad: ¿debes introducir plástico en el microondas?</a></h4>
-    <a href='https://computerhoy.com/life/hora-verdad-debes-introducir-plastico-microondas-1348154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hora-verdadse-puede-introducir-plastico-microondas-3245828.jpg?tf=1200x' alt='La hora de la verdad: ¿debes introducir plástico en el microondas?' />
     </a>
 </div>
 
