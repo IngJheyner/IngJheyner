@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/dazn-estaria-realizando-suculentas-contraofertas-amenazas-darte-baja-1348512'>DAZN estaría realizando suculentas contraofertas si amenazas con darte de baja</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/dazn-estaria-realizando-suculentas-contraofertas-amenazas-darte-baja-1348512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-2930824.jpg?tf=1200x' alt='DAZN estaría realizando suculentas contraofertas si amenazas con darte de baja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/epic-games-derrota-google-play-store-gana-juicio-antimonopolio-1348492'>Epic Games derrota a Google y su Play Store y gana el juicio antimonopolio</a></h4>
+    <a href='https://computerhoy.com/google/epic-games-derrota-google-play-store-gana-juicio-antimonopolio-1348492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/epic-games-google-3246478.jpg?tf=1200x' alt='Epic Games derrota a Google y su Play Store y gana el juicio antimonopolio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-corona-lanza-actualizacion-acaba-problemas-molestos-1348514'>Netflix se corona y lanza una actualización que acaba con uno de los problemas más molestos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-corona-lanza-actualizacion-acaba-problemas-molestos-1348514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/netflix-sorpresa-3221580.jpg?tf=1200x' alt='Netflix se corona y lanza una actualización que acaba con uno de los problemas más molestos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/he-probado-quietcomfort-ultra-auriculares-avanzados-caros-bose-mi-opinion-1343268'>He probado los QuietComfort Ultra, los auriculares más avanzados (y caros) de Bose: esta es mi opinión</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-quietcomfort-ultra-auriculares-avanzados-caros-bose-mi-opinion-1343268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bose-quietcomfort-ultra-3242040.jpg?tf=1200x' alt='He probado los QuietComfort Ultra, los auriculares más avanzados (y caros) de Bose: esta es mi opinión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/solucion-iconos-desaparecidos-barra-tareas-windows-11-1331772'>Cómo solucionar el problema de los iconos que no se muestran en la barra de tareas en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/solucion-iconos-desaparecidos-barra-tareas-windows-11-1331772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-3013954.jpg?tf=1200x' alt='Cómo solucionar el problema de los iconos que no se muestran en la barra de tareas en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-wifi-nube-pagas-vez-deja-google-lona-ultima-rebaja-1348302'>Este disco duro con WiFi es tu nube y la pagas una vez: deja a Google en la lona con su última rebaja</a></h4>
-    <a href='https://computerhoy.com/tecnologia/disco-duro-wifi-nube-pagas-vez-deja-google-lona-ultima-rebaja-1348302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wd-my-cloud-3246100.jpg?tf=1200x' alt='Este disco duro con WiFi es tu nube y la pagas una vez: deja a Google en la lona con su última rebaja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/sareb-como-buscar-internet-casas-venta-banco-malo-1344544'>Qué es el Sareb y cómo buscar por Internet las casas y pisos a la venta del banco malo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/sareb-como-buscar-internet-casas-venta-banco-malo-1344544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sareb-como-buscar-internet-casas-pisos-venta-banco-malo-3239094.jpg?tf=1200x' alt='Qué es el Sareb y cómo buscar por Internet las casas y pisos a la venta del banco malo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mapa-te-dice-peliculas-series-han-rodado-cerca-casa-1348336'>El Google Maps del cine: este mapa te dice qué películas o series se han rodado cerca de tu casa</a></h4>
-    <a href='https://computerhoy.com/internet/mapa-te-dice-peliculas-series-han-rodado-cerca-casa-1348336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-maps-cine-mapa-te-dice-peliculas-series-han-rodado-cerca-casa-3246214.jpg?tf=1200x' alt='El Google Maps del cine: este mapa te dice qué películas o series se han rodado cerca de tu casa' />
     </a>
 </div>
 
