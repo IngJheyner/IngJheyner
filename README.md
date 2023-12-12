@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-quietcomfort-ultra-auriculares-avanzados-caros-bose-mi-opinion-1343268'>He probado los QuietComfort Ultra, los auriculares más avanzados (y caros) de Bose: esta es mi opinión</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-quietcomfort-ultra-auriculares-avanzados-caros-bose-mi-opinion-1343268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bose-quietcomfort-ultra-3242040.jpg?tf=1200x' alt='He probado los QuietComfort Ultra, los auriculares más avanzados (y caros) de Bose: esta es mi opinión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/solucion-iconos-desaparecidos-barra-tareas-windows-11-1331772'>Cómo solucionar el problema de los iconos que no se muestran en la barra de tareas en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/solucion-iconos-desaparecidos-barra-tareas-windows-11-1331772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-3013954.jpg?tf=1200x' alt='Cómo solucionar el problema de los iconos que no se muestran en la barra de tareas en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/mapa-te-dice-peliculas-series-han-rodado-cerca-casa-1348336'>El Google Maps del cine: este mapa te dice qué películas o series se han rodado cerca de tu casa</a></h4>
     <a href='https://computerhoy.com/internet/mapa-te-dice-peliculas-series-han-rodado-cerca-casa-1348336' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-maps-cine-mapa-te-dice-peliculas-series-han-rodado-cerca-casa-3246214.jpg?tf=1200x' alt='El Google Maps del cine: este mapa te dice qué películas o series se han rodado cerca de tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/prefijos-espana-provincia-llamada-1343714'>Prefijos de España: cómo saber desde qué provincia te están llamando</a></h4>
-    <a href='https://computerhoy.com/tutoriales/prefijos-espana-provincia-llamada-1343714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/prefijos-espana-como-saber-provincia-te-estan-llamando-3237092.jpg?tf=1200x' alt='Prefijos de España: cómo saber desde qué provincia te están llamando' />
     </a>
 </div>
 
