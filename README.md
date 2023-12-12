@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-freeclip-primeros-no-diferencian-izquierda-derecha-1348800'>Huawei une moda y tecnología en los Huawei FreeClip, los primeros auriculares que no diferencian entre oído izquierdo y derecho</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-freeclip-primeros-no-diferencian-izquierda-derecha-1348800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/huawei-freeclip-auriculares-moda-tecnologia-3247014.jpg?tf=1200x' alt='Huawei une moda y tecnología en los Huawei FreeClip, los primeros auriculares que no diferencian entre oído izquierdo y derecho' />
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-sensores-inteligentes-te-ayudan-ahorrar-invierno-1348668'>Estos son los sensores inteligentes que más te ayudan a ahorrar en invierno</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-sensores-inteligentes-te-ayudan-ahorrar-invierno-1348668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estos-son-sensores-inteligentes-te-ayudan-ahorrar-invierno-3246790.jpg?tf=1200x' alt='Estos son los sensores inteligentes que más te ayudan a ahorrar en invierno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-guardar-donde-he-aparcado-android-auto-tocar-movil-1348274'>Cómo guardar dónde he aparcado en Android Auto sin tocar el móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-guardar-donde-he-aparcado-android-auto-tocar-movil-1348274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-guardar-donde-he-aparcado-android-auto-tocar-movil-3246104.jpg?tf=1200x' alt='Cómo guardar dónde he aparcado en Android Auto sin tocar el móvil' />
+    <h4><a href='https://computerhoy.com/tutoriales/descubren-menu-oculto-fire-tv-stick-activa-nuevas-funciones-1348244'>Descubren un menú oculto en los Amazon Fire TV Stick que permite activar nuevas funciones</a></h4>
+    <a href='https://computerhoy.com/tutoriales/descubren-menu-oculto-fire-tv-stick-activa-nuevas-funciones-1348244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-menu-oculto-amazon-fire-tv-stick-permite-activar-nuevas-funciones-3246054.jpg?tf=1200x' alt='Descubren un menú oculto en los Amazon Fire TV Stick que permite activar nuevas funciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/skinamarink-pelicula-terror-viral-tiktok-ya-puede-verse-streaming-1348762'>Skinamarink, la polémica película de terror viral de TikTok, ya puede verse en streaming</a></h4>
-    <a href='https://computerhoy.com/life/skinamarink-pelicula-terror-viral-tiktok-ya-puede-verse-streaming-1348762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-terror-viral-tiktok-tuvo-presupuesto-14000-euros-ya-pelea-cara-cara-clasicos-genero-disponible-streaming-te-hara-temblar-miedo-3246932.jpg?tf=1200x' alt='Skinamarink, la polémica película de terror viral de TikTok, ya puede verse en streaming' />
+    <h4><a href='https://computerhoy.com/guia-compra/android-tv-box-880523'>Consejos y guía para comprar un Android TV Box en 2023 y convertir tu televisor en un Smart TV</a></h4>
+    <a href='https://computerhoy.com/guia-compra/android-tv-box-880523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nokia-tv-box-3199488.jpg?tf=1200x' alt='Consejos y guía para comprar un Android TV Box en 2023 y convertir tu televisor en un Smart TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/audiolibros-gratis-mejores-paginas-descargar-libros-1346444'>Audiolibros gratis: mejores páginas y dónde descargar libros para escuchar</a></h4>
-    <a href='https://computerhoy.com/internet/audiolibros-gratis-mejores-paginas-descargar-libros-1346444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/audiolibros-gratis-mejores-paginas-donde-descargar-libros-escuchar-3243128.jpg?tf=1200x' alt='Audiolibros gratis: mejores páginas y dónde descargar libros para escuchar' />
+    <h4><a href='https://computerhoy.com/motor/quitar-hielo-parabrisas-coche-1348772'>Como este truco viral quito el hielo de la luna del coche en segundos sin tener que rascar</a></h4>
+    <a href='https://computerhoy.com/motor/quitar-hielo-parabrisas-coche-1348772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/quitar-hielo-nieve-parabrisas-coche-3246998.jpg?tf=1200x' alt='Como este truco viral quito el hielo de la luna del coche en segundos sin tener que rascar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/pantalla-rosa-muerte-windows-como-solucionarlo-1348344'>Qué es la pantalla rosa de la muerte en Windows y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/pantalla-rosa-muerte-windows-como-solucionarlo-1348344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pantalla-rosa-muerte-windows-como-solucionarlo-3246224.jpg?tf=1200x' alt='Qué es la pantalla rosa de la muerte en Windows y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/suplantacion-identidad-redes-sociales-como-detectarla-hacer-sufres-1348654'>Suplantación de identidad en redes sociales: cómo detectarla y qué hacer si la sufres</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/suplantacion-identidad-redes-sociales-como-detectarla-hacer-sufres-1348654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/suplantacion-identidad-redes-sociales-como-detectarla-hacer-sufres-3246706.jpg?tf=1200x' alt='Suplantación de identidad en redes sociales: cómo detectarla y qué hacer si la sufres' />
     </a>
 </div>
 
