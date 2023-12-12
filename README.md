@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejora-memoria-metodo-123-tecnica-recordar-todo-1336714'>Mejora tu memoria con el método 123: una técnica efectiva para recordar todo lo que has estudiado</a></h4>
+    <a href='https://computerhoy.com/life/mejora-memoria-metodo-123-tecnica-recordar-todo-1336714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mejora-memoria-metodo-123-tecnica-efectiva-recordar-todo-has-estudiado-3224734.jpg?tf=1200x' alt='Mejora tu memoria con el método 123: una técnica efectiva para recordar todo lo que has estudiado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/roomba-inteligente-cuesta-mitad-amazon-tiene-47-descuento-va-volar-1348042'>Esta Roomba inteligente cuesta la mitad en Amazon: tiene un 47% de descuento y va a volar</a></h4>
     <a href='https://computerhoy.com/tecnologia/roomba-inteligente-cuesta-mitad-amazon-tiene-47-descuento-va-volar-1348042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/roomba-j7-3245540.jpg?tf=1200x' alt='Esta Roomba inteligente cuesta la mitad en Amazon: tiene un 47% de descuento y va a volar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/proyecto-ellmann-google-chatgpt-sabe-todo-vida-1348836'>Proyecto Ellmann de Google: el ChatGPT que sabe todo sobre tu vida</a></h4>
     <a href='https://computerhoy.com/tecnologia/proyecto-ellmann-google-chatgpt-sabe-todo-vida-1348836' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3032564.jpg?tf=1200x' alt='Proyecto Ellmann de Google: el ChatGPT que sabe todo sobre tu vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/buscador-google-gboard-integraran-diccionario-rae-1348818'>El buscador de Google integrará el diccionario de la RAE y Gboard será más preciso y traducirá mejor al español</a></h4>
-    <a href='https://computerhoy.com/google/buscador-google-gboard-integraran-diccionario-rae-1348818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/buscador-google-integrara-diccionario-rae-gboard-sera-preciso-traducira-mejor-espanol-3247054.jpg?tf=1200x' alt='El buscador de Google integrará el diccionario de la RAE y Gboard será más preciso y traducirá mejor al español' />
     </a>
 </div>
 
