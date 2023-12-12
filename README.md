@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-android-pone-amazon-patas-arriba-gps-nada-envidiar-apple-watch-pero-atado-google-1348024'>Este reloj Android pone Amazon patas arriba: con GPS y nada que envidiar a los Apple Watch, pero atado a Google</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-android-pone-amazon-patas-arriba-gps-nada-envidiar-apple-watch-pero-atado-google-1348024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ticwatch-pro-5-3100036.jpg?tf=1200x' alt='Este reloj Android pone Amazon patas arriba: con GPS y nada que envidiar a los Apple Watch, pero atado a Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/cambio-estrategia-microsoft-windows-12-no-espera-2024-buena-razon-1348612'>Cambio de estrategia en Microsoft: Windows 12 no se espera para 2024 y es por una buena razón</a></h4>
+    <a href='https://computerhoy.com/windows/cambio-estrategia-microsoft-windows-12-no-espera-2024-buena-razon-1348612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-poner-icono-equipo-escritorio-windows-10-11-3148096.jpg?tf=1200x' alt='Cambio de estrategia en Microsoft: Windows 12 no se espera para 2024 y es por una buena razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/lluvia-geminidas-2023-como-cuando-ver-espana-lluvia-estrellas-fugaces-espectacular-ano-1348584'>Lluvia de Gemínidas 2023: cómo y cuándo ver en España la lluvia de estrellas fugaces más espectacular del año</a></h4>
     <a href='https://computerhoy.com/life/lluvia-geminidas-2023-como-cuando-ver-espana-lluvia-estrellas-fugaces-espectacular-ano-1348584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/lluvia-estrellas-espana-2023-3246562.jpg?tf=1200x' alt='Lluvia de Gemínidas 2023: cómo y cuándo ver en España la lluvia de estrellas fugaces más espectacular del año' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/samsung-lanza-galaxy-a25-galaxy-a05s-rendimiento-como-clave-1348626'>Samsung presenta el Galaxy A25 y el Galaxy A05s con pantalla, cámara y rendimiento como claves</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-lanza-galaxy-a25-galaxy-a05s-rendimiento-como-clave-1348626' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/samsung-galaxy-a25-galaxy-a05s-3246606.jpg?tf=1200x' alt='Samsung presenta el Galaxy A25 y el Galaxy A05s con pantalla, cámara y rendimiento como claves' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/respuestas-perezosas-chatgpt-tendrian-motivo-hipotesis-vacaciones-invierno-1348544'>Las respuestas perezosas de ChatGPT tendrían un motivo: la "hipótesis de las vacaciones de invierno"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/respuestas-perezosas-chatgpt-tendrian-motivo-hipotesis-vacaciones-invierno-1348544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chatgpt-perezoso-3246490.jpg?tf=1200x' alt='Las respuestas perezosas de ChatGPT tendrían un motivo: la "hipótesis de las vacaciones de invierno"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/5-vpn-fiables-usar-chatgpt-prohiben-europa-1348470'>5 VPN fiables para usar ChatGPT si lo prohíben en Europa</a></h4>
-    <a href='https://computerhoy.com/mejores/5-vpn-fiables-usar-chatgpt-prohiben-europa-1348470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-funciones-3113352.jpg?tf=1200x' alt='5 VPN fiables para usar ChatGPT si lo prohíben en Europa' />
     </a>
 </div>
 
