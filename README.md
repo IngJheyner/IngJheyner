@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/lluvia-geminidas-2023-como-cuando-ver-espana-lluvia-estrellas-fugaces-espectacular-ano-1348584'>Lluvia de Gemínidas 2023: cómo y cuándo ver en España la lluvia de estrellas fugaces más espectacular del año</a></h4>
+    <a href='https://computerhoy.com/life/lluvia-geminidas-2023-como-cuando-ver-espana-lluvia-estrellas-fugaces-espectacular-ano-1348584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/lluvia-estrellas-espana-2023-3246562.jpg?tf=1200x' alt='Lluvia de Gemínidas 2023: cómo y cuándo ver en España la lluvia de estrellas fugaces más espectacular del año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/portatil-windows-barato-amazon-lenovo-ahora-rebajado-incluso-1348528'>Este portátil de Lenovo tiene Windows 11 y todo lo que necesitas por solo 250 euros</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-windows-barato-amazon-lenovo-ahora-rebajado-incluso-1348528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-ideapad-gen-7-3227274.jpg?tf=1200x' alt='Este portátil de Lenovo tiene Windows 11 y todo lo que necesitas por solo 250 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-lanza-galaxy-a25-galaxy-a05s-rendimiento-como-clave-1348626'>Samsung presenta el Galaxy A25 y el Galaxy A05s con pantalla, cámara y rendimiento como claves</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-lanza-galaxy-a25-galaxy-a05s-rendimiento-como-clave-1348626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/samsung-galaxy-a25-galaxy-a05s-3246606.jpg?tf=1200x' alt='Samsung presenta el Galaxy A25 y el Galaxy A05s con pantalla, cámara y rendimiento como claves' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/respuestas-perezosas-chatgpt-tendrian-motivo-hipotesis-vacaciones-invierno-1348544'>Las respuestas perezosas de ChatGPT tendrían un motivo: la "hipótesis de las vacaciones de invierno"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/respuestas-perezosas-chatgpt-tendrian-motivo-hipotesis-vacaciones-invierno-1348544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chatgpt-perezoso-3246490.jpg?tf=1200x' alt='Las respuestas perezosas de ChatGPT tendrían un motivo: la "hipótesis de las vacaciones de invierno"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/5-vpn-fiables-usar-chatgpt-prohiben-europa-1348470'>5 VPN fiables para usar ChatGPT si lo prohíben en Europa</a></h4>
     <a href='https://computerhoy.com/mejores/5-vpn-fiables-usar-chatgpt-prohiben-europa-1348470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-funciones-3113352.jpg?tf=1200x' alt='5 VPN fiables para usar ChatGPT si lo prohíben en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/dazn-estaria-realizando-suculentas-contraofertas-amenazas-darte-baja-1348512'>DAZN estaría realizando suculentas contraofertas si amenazas con darte de baja</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/dazn-estaria-realizando-suculentas-contraofertas-amenazas-darte-baja-1348512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-2930824.jpg?tf=1200x' alt='DAZN estaría realizando suculentas contraofertas si amenazas con darte de baja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/epic-games-derrota-google-play-store-gana-juicio-antimonopolio-1348492'>Epic Games derrota a Google y su Play Store y gana el juicio antimonopolio</a></h4>
-    <a href='https://computerhoy.com/google/epic-games-derrota-google-play-store-gana-juicio-antimonopolio-1348492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/epic-games-google-3246478.jpg?tf=1200x' alt='Epic Games derrota a Google y su Play Store y gana el juicio antimonopolio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-corona-lanza-actualizacion-acaba-problemas-molestos-1348514'>Netflix se corona y lanza una actualización que acaba con uno de los problemas más molestos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-corona-lanza-actualizacion-acaba-problemas-molestos-1348514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/netflix-sorpresa-3221580.jpg?tf=1200x' alt='Netflix se corona y lanza una actualización que acaba con uno de los problemas más molestos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-quietcomfort-ultra-auriculares-avanzados-caros-bose-mi-opinion-1343268'>He probado los QuietComfort Ultra, los auriculares más avanzados (y caros) de Bose: esta es mi opinión</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-quietcomfort-ultra-auriculares-avanzados-caros-bose-mi-opinion-1343268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bose-quietcomfort-ultra-3242040.jpg?tf=1200x' alt='He probado los QuietComfort Ultra, los auriculares más avanzados (y caros) de Bose: esta es mi opinión' />
     </a>
 </div>
 
