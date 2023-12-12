@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mapa-te-dice-peliculas-series-han-rodado-cerca-casa-1348336'>El Google Maps del cine: este mapa te dice qué películas o series se han rodado cerca de tu casa</a></h4>
+    <a href='https://computerhoy.com/internet/mapa-te-dice-peliculas-series-han-rodado-cerca-casa-1348336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-maps-cine-mapa-te-dice-peliculas-series-han-rodado-cerca-casa-3246214.jpg?tf=1200x' alt='El Google Maps del cine: este mapa te dice qué películas o series se han rodado cerca de tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/prefijos-espana-provincia-llamada-1343714'>Prefijos de España: cómo saber desde qué provincia te están llamando</a></h4>
     <a href='https://computerhoy.com/tutoriales/prefijos-espana-provincia-llamada-1343714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/prefijos-espana-como-saber-provincia-te-estan-llamando-3237092.jpg?tf=1200x' alt='Prefijos de España: cómo saber desde qué provincia te están llamando' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/hora-verdad-debes-introducir-plastico-microondas-1348154'>La hora de la verdad: ¿debes introducir plástico en el microondas?</a></h4>
     <a href='https://computerhoy.com/life/hora-verdad-debes-introducir-plastico-microondas-1348154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hora-verdadse-puede-introducir-plastico-microondas-3245828.jpg?tf=1200x' alt='La hora de la verdad: ¿debes introducir plástico en el microondas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/satya-nadella-afirma-copilot-sera-proximo-boton-inicio-windows-1348318'>Satya Nadella afirma que Copilot será el próximo botón de inicio de Windows</a></h4>
-    <a href='https://computerhoy.com/windows/satya-nadella-afirma-copilot-sera-proximo-boton-inicio-windows-1348318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/novedades-microsoft-surface-copilot-surface-studio-2-surface-go-3-4-3140954.jpg?tf=1200x' alt='Satya Nadella afirma que Copilot será el próximo botón de inicio de Windows' />
     </a>
 </div>
 
