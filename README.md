@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/pantalla-rosa-muerte-windows-como-solucionarlo-1348344'>Qué es la pantalla rosa de la muerte en Windows y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/pantalla-rosa-muerte-windows-como-solucionarlo-1348344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pantalla-rosa-muerte-windows-como-solucionarlo-3246224.jpg?tf=1200x' alt='Qué es la pantalla rosa de la muerte en Windows y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-protegerse-plaga-estafas-codigos-qr-1348722'>De amigo a enemigo: cómo protegerse ante la plaga de estafas por códigos QR</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-protegerse-plaga-estafas-codigos-qr-1348722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pago-codigo-qr-2593693.jpg?tf=1200x' alt='De amigo a enemigo: cómo protegerse ante la plaga de estafas por códigos QR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-mejorar-arreglar-conexion-datos-movil-1338558'>10 métodos efectivos para mejorar la conexión de datos de tu móvil </a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mejorar-arreglar-conexion-datos-movil-1338558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/10-metodos-efectivos-mejorar-conexion-datos-movil-3228052.jpg?tf=1200x' alt='10 métodos efectivos para mejorar la conexión de datos de tu móvil ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/6-estafas-habituales-bizum-como-evitarlas-1268794'>Las 10 estafas más habituales por Bizum y cómo evitarlas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/6-estafas-habituales-bizum-como-evitarlas-1268794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bizum-2671393.jpg?tf=1200x' alt='Las 10 estafas más habituales por Bizum y cómo evitarlas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/aprende-ingles-gratis-online-cursos-union-europea-1287182'>La Unión Europea ofrece cursos de los 29 idiomas oficiales gratuitos y online</a></h4>
     <a href='https://computerhoy.com/life/aprende-ingles-gratis-online-cursos-union-europea-1287182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/union-europea-lanza-cursos-29-idiomas-oficiales-gratuitos-online-3103846.jpg?tf=1200x' alt='La Unión Europea ofrece cursos de los 29 idiomas oficiales gratuitos y online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ocu-deja-evidencia-miserias-cita-previa-administracion-1348676'>La OCU deja en evidencia las miserias de la cita previa en la Administración: peores ciudades y citas más complicadas de conseguir</a></h4>
-    <a href='https://computerhoy.com/life/ocu-deja-evidencia-miserias-cita-previa-administracion-1348676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cada-tres-peticiones-no-tiene-hora-disponible-cita-previa-administracion-media-espera-dos-semanas-3246836.jpg?tf=1200x' alt='La OCU deja en evidencia las miserias de la cita previa en la Administración: peores ciudades y citas más complicadas de conseguir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-android-pone-amazon-patas-arriba-gps-nada-envidiar-apple-watch-pero-atado-google-1348024'>Este reloj Android pone Amazon patas arriba: con GPS y nada que envidiar a los Apple Watch, pero atado a Google</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-android-pone-amazon-patas-arriba-gps-nada-envidiar-apple-watch-pero-atado-google-1348024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ticwatch-pro-5-3100036.jpg?tf=1200x' alt='Este reloj Android pone Amazon patas arriba: con GPS y nada que envidiar a los Apple Watch, pero atado a Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/cambio-estrategia-microsoft-windows-12-no-espera-2024-buena-razon-1348612'>Cambio de estrategia en Microsoft: Windows 12 no se espera para 2024 y es por una buena razón</a></h4>
-    <a href='https://computerhoy.com/windows/cambio-estrategia-microsoft-windows-12-no-espera-2024-buena-razon-1348612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-poner-icono-equipo-escritorio-windows-10-11-3148096.jpg?tf=1200x' alt='Cambio de estrategia en Microsoft: Windows 12 no se espera para 2024 y es por una buena razón' />
     </a>
 </div>
 
