@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-freeclip-primeros-no-diferencian-izquierda-derecha-1348800'>Huawei une moda y tecnología en los Huawei FreeClip, los primeros auriculares que no diferencian entre oído izquierdo y derecho</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-freeclip-primeros-no-diferencian-izquierda-derecha-1348800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/huawei-freeclip-auriculares-moda-tecnologia-3247014.jpg?tf=1200x' alt='Huawei une moda y tecnología en los Huawei FreeClip, los primeros auriculares que no diferencian entre oído izquierdo y derecho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-guardar-donde-he-aparcado-android-auto-tocar-movil-1348274'>Cómo guardar dónde he aparcado en Android Auto sin tocar el móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-guardar-donde-he-aparcado-android-auto-tocar-movil-1348274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-guardar-donde-he-aparcado-android-auto-tocar-movil-3246104.jpg?tf=1200x' alt='Cómo guardar dónde he aparcado en Android Auto sin tocar el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/skinamarink-pelicula-terror-viral-tiktok-ya-puede-verse-streaming-1348762'>Skinamarink, la polémica película de terror viral de TikTok, ya puede verse en streaming</a></h4>
+    <a href='https://computerhoy.com/life/skinamarink-pelicula-terror-viral-tiktok-ya-puede-verse-streaming-1348762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pelicula-terror-viral-tiktok-tuvo-presupuesto-14000-euros-ya-pelea-cara-cara-clasicos-genero-disponible-streaming-te-hara-temblar-miedo-3246932.jpg?tf=1200x' alt='Skinamarink, la polémica película de terror viral de TikTok, ya puede verse en streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/audiolibros-gratis-mejores-paginas-descargar-libros-1346444'>Audiolibros gratis: mejores páginas y dónde descargar libros para escuchar</a></h4>
+    <a href='https://computerhoy.com/internet/audiolibros-gratis-mejores-paginas-descargar-libros-1346444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/audiolibros-gratis-mejores-paginas-donde-descargar-libros-escuchar-3243128.jpg?tf=1200x' alt='Audiolibros gratis: mejores páginas y dónde descargar libros para escuchar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/pantalla-rosa-muerte-windows-como-solucionarlo-1348344'>Qué es la pantalla rosa de la muerte en Windows y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/pantalla-rosa-muerte-windows-como-solucionarlo-1348344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pantalla-rosa-muerte-windows-como-solucionarlo-3246224.jpg?tf=1200x' alt='Qué es la pantalla rosa de la muerte en Windows y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-protegerse-plaga-estafas-codigos-qr-1348722'>De amigo a enemigo: cómo protegerse ante la plaga de estafas por códigos QR</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-protegerse-plaga-estafas-codigos-qr-1348722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/pago-codigo-qr-2593693.jpg?tf=1200x' alt='De amigo a enemigo: cómo protegerse ante la plaga de estafas por códigos QR' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mejorar-arreglar-conexion-datos-movil-1338558'>10 métodos efectivos para mejorar la conexión de datos de tu móvil </a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mejorar-arreglar-conexion-datos-movil-1338558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/10-metodos-efectivos-mejorar-conexion-datos-movil-3228052.jpg?tf=1200x' alt='10 métodos efectivos para mejorar la conexión de datos de tu móvil ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/6-estafas-habituales-bizum-como-evitarlas-1268794'>Las 10 estafas más habituales por Bizum y cómo evitarlas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/6-estafas-habituales-bizum-como-evitarlas-1268794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/bizum-2671393.jpg?tf=1200x' alt='Las 10 estafas más habituales por Bizum y cómo evitarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/aprende-ingles-gratis-online-cursos-union-europea-1287182'>La Unión Europea ofrece cursos de los 29 idiomas oficiales gratuitos y online</a></h4>
-    <a href='https://computerhoy.com/life/aprende-ingles-gratis-online-cursos-union-europea-1287182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/union-europea-lanza-cursos-29-idiomas-oficiales-gratuitos-online-3103846.jpg?tf=1200x' alt='La Unión Europea ofrece cursos de los 29 idiomas oficiales gratuitos y online' />
     </a>
 </div>
 
