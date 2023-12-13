@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-menos-300-euros-cual-comprar-1282716'>Portátil de menos de 300 euros: cuál comprar y en qué debes fijarte</a></h4>
-    <a href='https://computerhoy.com/pc/portatil-menos-300-euros-cual-comprar-1282716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/acer-chromebook-2888140.jpg?tf=1200x' alt='Portátil de menos de 300 euros: cuál comprar y en qué debes fijarte' />
+    <h4><a href='https://computerhoy.com/tecnologia/pdoom-cifra-0-100-indica-probabilidad-ia-acabe-humanidad-cual-dirias-1348981'>P(doom), la cifra del 0 al 100 que indica la probabilidad de que la IA acabe con la humanidad: ¿Cuál dirías que es el tuyo?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pdoom-cifra-0-100-indica-probabilidad-ia-acabe-humanidad-cual-dirias-1348981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/destruccion-humanidad-ia-3247336.jpg?tf=1200x' alt='P(doom), la cifra del 0 al 100 que indica la probabilidad de que la IA acabe con la humanidad: ¿Cuál dirías que es el tuyo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/montar-mi-propio-pc-estas-son-4-mejoras-te-recomiendo-tener-cuenta-1343834'>Tras montar mi propio PC estas son las 4 mejoras que te recomiendo tener en cuenta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/montar-mi-propio-pc-estas-son-4-mejoras-te-recomiendo-tener-cuenta-1343834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/torre-ordenador-abierta-3237406.jpg?tf=1200x' alt='Tras montar mi propio PC estas son las 4 mejoras que te recomiendo tener en cuenta' />
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-bestia-16gb-ram-precio-locos-amazon-1348056'>Este Mini PC es una bestia de 16GB de RAM a precio de locos, y en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-bestia-16gb-ram-precio-locos-amazon-1348056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/funyet-mini-pc-3245566.jpg?tf=1200x' alt='Este Mini PC es una bestia de 16GB de RAM a precio de locos, y en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/movil-regalo-navidad-estos-cinco-son-acierto-seguro-distintos-precios-1348929'>¿Qué móvil regalo por Navidad? Estos cinco, para todos los bolsillos, son acierto seguro</a></h4>
-    <a href='https://computerhoy.com/android/movil-regalo-navidad-estos-cinco-son-acierto-seguro-distintos-precios-1348929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='¿Qué móvil regalo por Navidad? Estos cinco, para todos los bolsillos, son acierto seguro' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-ya-te-permite-fijar-mensajes-chats-30-dias-nada-te-olvide-1348967'>WhatsApp ya te permite fijar mensajes de tus chats hasta 30 días para que nada se te olvide</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-ya-te-permite-fijar-mensajes-chats-30-dias-nada-te-olvide-1348967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-mensajes-fijados-3247312.jpg?tf=1200x' alt='WhatsApp ya te permite fijar mensajes de tus chats hasta 30 días para que nada se te olvide' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejora-memoria-metodo-123-tecnica-recordar-todo-1336714'>Mejora tu memoria con el método 123: una técnica efectiva para recordar todo lo que has estudiado</a></h4>
-    <a href='https://computerhoy.com/life/mejora-memoria-metodo-123-tecnica-recordar-todo-1336714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mejora-memoria-metodo-123-tecnica-efectiva-recordar-todo-has-estudiado-3224734.jpg?tf=1200x' alt='Mejora tu memoria con el método 123: una técnica efectiva para recordar todo lo que has estudiado' />
+    <h4><a href='https://computerhoy.com/apple/ios-17-3-proteccion-iphone-robado-1348970'>Apple hará que los iPhone robados sean casi imposibles de usarse si activas este ajuste</a></h4>
+    <a href='https://computerhoy.com/apple/ios-17-3-proteccion-iphone-robado-1348970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143598.jpg?tf=1200x' alt='Apple hará que los iPhone robados sean casi imposibles de usarse si activas este ajuste' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/roomba-inteligente-cuesta-mitad-amazon-tiene-47-descuento-va-volar-1348042'>Esta Roomba inteligente cuesta la mitad en Amazon: tiene un 47% de descuento y va a volar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/roomba-inteligente-cuesta-mitad-amazon-tiene-47-descuento-va-volar-1348042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/roomba-j7-3245540.jpg?tf=1200x' alt='Esta Roomba inteligente cuesta la mitad en Amazon: tiene un 47% de descuento y va a volar' />
+    <h4><a href='https://computerhoy.com/espacio/mitica-sonda-voyager-1-nasa-graves-problemas-24000-millones-kilometros-tierra-1348952'>La mítica sonda Voyager 1 de la NASA en graves problemas a más de 24.000 millones de kilómetros de la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/mitica-sonda-voyager-1-nasa-graves-problemas-24000-millones-kilometros-tierra-1348952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/voyager-1-nasa-3247297.jpg?tf=1200x' alt='La mítica sonda Voyager 1 de la NASA en graves problemas a más de 24.000 millones de kilómetros de la Tierra' />
     </a>
 </div>
 
