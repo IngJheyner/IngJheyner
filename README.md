@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-puede-mejorar-internet-islas-canarias-cable-45000-kilometros-1349002'>¿Cómo se puede mejorar el Internet en las islas Canarias? Con un cable de 45.000 kilómetros, el más largo del mundo</a></h4>
+    <a href='https://computerhoy.com/internet/como-puede-mejorar-internet-islas-canarias-cable-45000-kilometros-1349002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/conexion-internet-3247392.jpg?tf=1200x' alt='¿Cómo se puede mejorar el Internet en las islas Canarias? Con un cable de 45.000 kilómetros, el más largo del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/oled-120-hz-ambilight-google-tv-precio-tv-desploma-1349027'>OLED, 120 Hz, Ambilight y con Google TV: Philips la lía y desploma el precio de una de sus mejores TV </a></h4>
+    <a href='https://computerhoy.com/tv/oled-120-hz-ambilight-google-tv-precio-tv-desploma-1349027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/oled-philips-3247422.jpg?tf=1200x' alt='OLED, 120 Hz, Ambilight y con Google TV: Philips la lía y desploma el precio de una de sus mejores TV ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/epic-games-continua-batalla-legal-ahora-va-todas-apple-app-store-1348522'>Epic Games continua su batalla legal y ahora va a por todas contra Apple y su App Store</a></h4>
     <a href='https://computerhoy.com/apple/epic-games-continua-batalla-legal-ahora-va-todas-apple-app-store-1348522' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/epic-games-apple-3247352.jpg?tf=1200x' alt='Epic Games continua su batalla legal y ahora va a por todas contra Apple y su App Store' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mini-pc-bestia-16gb-ram-precio-locos-amazon-1348056'>Este Mini PC es una bestia de 16GB de RAM a precio de locos, y en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/mini-pc-bestia-16gb-ram-precio-locos-amazon-1348056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/funyet-mini-pc-3245566.jpg?tf=1200x' alt='Este Mini PC es una bestia de 16GB de RAM a precio de locos, y en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-ya-te-permite-fijar-mensajes-chats-30-dias-nada-te-olvide-1348967'>WhatsApp ya te permite fijar mensajes de tus chats hasta 30 días para que nada se te olvide</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-ya-te-permite-fijar-mensajes-chats-30-dias-nada-te-olvide-1348967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-mensajes-fijados-3247312.jpg?tf=1200x' alt='WhatsApp ya te permite fijar mensajes de tus chats hasta 30 días para que nada se te olvide' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ios-17-3-proteccion-iphone-robado-1348970'>Apple hará que los iPhone robados sean casi imposibles de usarse si activas este ajuste</a></h4>
-    <a href='https://computerhoy.com/apple/ios-17-3-proteccion-iphone-robado-1348970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143598.jpg?tf=1200x' alt='Apple hará que los iPhone robados sean casi imposibles de usarse si activas este ajuste' />
     </a>
 </div>
 
