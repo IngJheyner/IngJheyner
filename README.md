@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-gps-barato-huawei-hace-temblar-garmin-deberia-viendo-cuesta-1348140'>El reloj GPS más barato de Huawei hace temblar a Garmin, o debería viendo lo que cuesta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-gps-barato-huawei-hace-temblar-garmin-deberia-viendo-cuesta-1348140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-watch-gt-3-2865383.jpg?tf=1200x' alt='El reloj GPS más barato de Huawei hace temblar a Garmin, o debería viendo lo que cuesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-primer-casco-leer-mente-capaz-traducir-ondas-cerebrales-palabras-1349207'>Crean el primer casco para leer la mente capaz de traducir las ondas cerebrales en palabras</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-primer-casco-leer-mente-capaz-traducir-ondas-cerebrales-palabras-1349207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cerebro-3247779.jpg?tf=1200x' alt='Crean el primer casco para leer la mente capaz de traducir las ondas cerebrales en palabras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-trabaja-carpeta-segura-ocultes-aplicaciones-movil-android-1349206'>Google trabaja en una carpeta segura para que ocultes aplicaciones en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/android/google-trabaja-carpeta-segura-ocultes-aplicaciones-movil-android-1349206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/seguridad-android-3247776.jpg?tf=1200x' alt='Google trabaja en una carpeta segura para que ocultes aplicaciones en tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/revolucionario-casco-convierte-pensamientos-textos-ia-1348990'>No es ciencia ficción: el revolucionario casco que convierte los pensamientos en textos con ayuda de la IA</a></h4>
+    <a href='https://computerhoy.com/ciencia/revolucionario-casco-convierte-pensamientos-textos-ia-1348990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/no-ciencia-ficcion-revolucionario-casco-convierte-pensamientos-textos-ayuda-ia-3247334.jpg?tf=1200x' alt='No es ciencia ficción: el revolucionario casco que convierte los pensamientos en textos con ayuda de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/instagram-prepara-opcion-hacer-post-privados-1349151'>Instagram está preparando una opción para hacer tus post más privados: así podría acabar Flipside con el postureo</a></h4>
     <a href='https://computerhoy.com/redes/instagram-prepara-opcion-hacer-post-privados-1349151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-cambiar-contrasena-instagram-3237116.jpg?tf=1200x' alt='Instagram está preparando una opción para hacer tus post más privados: así podría acabar Flipside con el postureo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/chromecast-vuelve-estar-rebajado-amazon-antes-navidad-1349140'>Si se te pasó en el Black Friday, no hay problema: el Chromecast vuelve a estar rebajado en Amazon</a></h4>
-    <a href='https://computerhoy.com/tv/chromecast-vuelve-estar-rebajado-amazon-antes-navidad-1349140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-chromecast-2926538.jpg?tf=1200x' alt='Si se te pasó en el Black Friday, no hay problema: el Chromecast vuelve a estar rebajado en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/especie-avanzada-pudo-habitar-tierra-antes-ser-humano-experto-harvard-1349029'>Una especie avanzada pudo habitar la Tierra antes que el ser humano, según un experto de Harvard</a></h4>
-    <a href='https://computerhoy.com/ciencia/especie-avanzada-pudo-habitar-tierra-antes-ser-humano-experto-harvard-1349029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/especie-avanzada-pudo-habitar-tierra-antes-ser-humano-experto-harvard-3247423.jpg?tf=1200x' alt='Una especie avanzada pudo habitar la Tierra antes que el ser humano, según un experto de Harvard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/nueva-tecnologia-recoger-agua-milagro-sequia-1349072'>La nueva tecnología que recolecta agua en el aire y que puede llegar a ser un milagro contra la sequía</a></h4>
-    <a href='https://computerhoy.com/energia/nueva-tecnologia-recoger-agua-milagro-sequia-1349072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nueva-tecnologia-recoger-agua-aire-puede-llegar-ser-milagro-sequia-3247555.jpg?tf=1200x' alt='La nueva tecnología que recolecta agua en el aire y que puede llegar a ser un milagro contra la sequía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-sube-carro-privacidad-nuevas-funciones-1349089'>Google Maps se sube al carro de la privacidad con estas nuevas funciones para los usuarios</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-sube-carro-privacidad-nuevas-funciones-1349089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-maps-sube-carro-privacidad-nuevas-funciones-usuarios-historial-ubicaciones-alojarse-nube-3247593.jpg?tf=1200x' alt='Google Maps se sube al carro de la privacidad con estas nuevas funciones para los usuarios' />
     </a>
 </div>
 
