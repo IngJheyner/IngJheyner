@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/inteligencia-artificial-consumira-2024-mismo-dos-centrales-nucleares-pero-depende-como-mires-1349049'>La inteligencia artificial consumirá en 2024 lo mismo que dos centrales nucleares, pero depende de cómo lo mires</a></h4>
-    <a href='https://computerhoy.com/energia/inteligencia-artificial-consumira-2024-mismo-dos-centrales-nucleares-pero-depende-como-mires-1349049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-consumo-energia-3247519.jpg?tf=1200x' alt='La inteligencia artificial consumirá en 2024 lo mismo que dos centrales nucleares, pero depende de cómo lo mires' />
+    <h4><a href='https://computerhoy.com/redes/instagram-prepara-opcion-hacer-post-privados-1349151'>Instagram está preparando una opción para hacer tus post más privados: así podría acabar Flipside con el postureo</a></h4>
+    <a href='https://computerhoy.com/redes/instagram-prepara-opcion-hacer-post-privados-1349151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-cambiar-contrasena-instagram-3237116.jpg?tf=1200x' alt='Instagram está preparando una opción para hacer tus post más privados: así podría acabar Flipside con el postureo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trucos-comunicarte-estas-navidades-pesar-colapso-saturacion-lineas-moviles-1349017'>Trucos para comunicarte con los tuyos estas Navidades a pesar del colapso y saturación de las líneas móviles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trucos-comunicarte-estas-navidades-pesar-colapso-saturacion-lineas-moviles-1349017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/llamadas-navidad-3247451.jpg?tf=1200x' alt='Trucos para comunicarte con los tuyos estas Navidades a pesar del colapso y saturación de las líneas móviles' />
+    <h4><a href='https://computerhoy.com/tv/chromecast-vuelve-estar-rebajado-amazon-antes-navidad-1349140'>Si se te pasó en el Black Friday, no hay problema: el Chromecast vuelve a estar rebajado en Amazon</a></h4>
+    <a href='https://computerhoy.com/tv/chromecast-vuelve-estar-rebajado-amazon-antes-navidad-1349140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-chromecast-2926538.jpg?tf=1200x' alt='Si se te pasó en el Black Friday, no hay problema: el Chromecast vuelve a estar rebajado en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-puede-mejorar-internet-islas-canarias-cable-45000-kilometros-1349002'>¿Cómo se puede mejorar el Internet en las islas Canarias? Con un cable de 45.000 kilómetros, el más largo del mundo</a></h4>
-    <a href='https://computerhoy.com/internet/como-puede-mejorar-internet-islas-canarias-cable-45000-kilometros-1349002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/conexion-internet-3247392.jpg?tf=1200x' alt='¿Cómo se puede mejorar el Internet en las islas Canarias? Con un cable de 45.000 kilómetros, el más largo del mundo' />
+    <h4><a href='https://computerhoy.com/ciencia/especie-avanzada-pudo-habitar-tierra-antes-ser-humano-experto-harvard-1349029'>Una especie avanzada pudo habitar la Tierra antes que el ser humano, según un experto de Harvard</a></h4>
+    <a href='https://computerhoy.com/ciencia/especie-avanzada-pudo-habitar-tierra-antes-ser-humano-experto-harvard-1349029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/especie-avanzada-pudo-habitar-tierra-antes-ser-humano-experto-harvard-3247423.jpg?tf=1200x' alt='Una especie avanzada pudo habitar la Tierra antes que el ser humano, según un experto de Harvard' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/oled-120-hz-ambilight-google-tv-precio-tv-desploma-1349027'>OLED, 120 Hz, Ambilight y con Google TV: Philips la lía y desploma el precio de una de sus mejores TV </a></h4>
-    <a href='https://computerhoy.com/tv/oled-120-hz-ambilight-google-tv-precio-tv-desploma-1349027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/oled-philips-3247422.jpg?tf=1200x' alt='OLED, 120 Hz, Ambilight y con Google TV: Philips la lía y desploma el precio de una de sus mejores TV ' />
+    <h4><a href='https://computerhoy.com/energia/nueva-tecnologia-recoger-agua-milagro-sequia-1349072'>La nueva tecnología que recolecta agua en el aire y que puede llegar a ser un milagro contra la sequía</a></h4>
+    <a href='https://computerhoy.com/energia/nueva-tecnologia-recoger-agua-milagro-sequia-1349072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nueva-tecnologia-recoger-agua-aire-puede-llegar-ser-milagro-sequia-3247555.jpg?tf=1200x' alt='La nueva tecnología que recolecta agua en el aire y que puede llegar a ser un milagro contra la sequía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/epic-games-continua-batalla-legal-ahora-va-todas-apple-app-store-1348522'>Epic Games continua su batalla legal y ahora va a por todas contra Apple y su App Store</a></h4>
-    <a href='https://computerhoy.com/apple/epic-games-continua-batalla-legal-ahora-va-todas-apple-app-store-1348522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/epic-games-apple-3247352.jpg?tf=1200x' alt='Epic Games continua su batalla legal y ahora va a por todas contra Apple y su App Store' />
+    <h4><a href='https://computerhoy.com/google/google-maps-sube-carro-privacidad-nuevas-funciones-1349089'>Google Maps se sube al carro de la privacidad con estas nuevas funciones para los usuarios</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-sube-carro-privacidad-nuevas-funciones-1349089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-maps-sube-carro-privacidad-nuevas-funciones-usuarios-historial-ubicaciones-alojarse-nube-3247593.jpg?tf=1200x' alt='Google Maps se sube al carro de la privacidad con estas nuevas funciones para los usuarios' />
     </a>
 </div>
 
