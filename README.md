@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/inteligencia-artificial-consumira-2024-mismo-dos-centrales-nucleares-pero-depende-como-mires-1349049'>La inteligencia artificial consumirá en 2024 lo mismo que dos centrales nucleares, pero depende de cómo lo mires</a></h4>
+    <a href='https://computerhoy.com/energia/inteligencia-artificial-consumira-2024-mismo-dos-centrales-nucleares-pero-depende-como-mires-1349049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-consumo-energia-3247519.jpg?tf=1200x' alt='La inteligencia artificial consumirá en 2024 lo mismo que dos centrales nucleares, pero depende de cómo lo mires' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/trucos-comunicarte-estas-navidades-pesar-colapso-saturacion-lineas-moviles-1349017'>Trucos para comunicarte con los tuyos estas Navidades a pesar del colapso y saturación de las líneas móviles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trucos-comunicarte-estas-navidades-pesar-colapso-saturacion-lineas-moviles-1349017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/llamadas-navidad-3247451.jpg?tf=1200x' alt='Trucos para comunicarte con los tuyos estas Navidades a pesar del colapso y saturación de las líneas móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/como-puede-mejorar-internet-islas-canarias-cable-45000-kilometros-1349002'>¿Cómo se puede mejorar el Internet en las islas Canarias? Con un cable de 45.000 kilómetros, el más largo del mundo</a></h4>
     <a href='https://computerhoy.com/internet/como-puede-mejorar-internet-islas-canarias-cable-45000-kilometros-1349002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/conexion-internet-3247392.jpg?tf=1200x' alt='¿Cómo se puede mejorar el Internet en las islas Canarias? Con un cable de 45.000 kilómetros, el más largo del mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/epic-games-continua-batalla-legal-ahora-va-todas-apple-app-store-1348522'>Epic Games continua su batalla legal y ahora va a por todas contra Apple y su App Store</a></h4>
     <a href='https://computerhoy.com/apple/epic-games-continua-batalla-legal-ahora-va-todas-apple-app-store-1348522' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/epic-games-apple-3247352.jpg?tf=1200x' alt='Epic Games continua su batalla legal y ahora va a por todas contra Apple y su App Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pdoom-cifra-0-100-indica-probabilidad-ia-acabe-humanidad-cual-dirias-1348981'>P(doom), la cifra del 0 al 100 que indica la probabilidad de que la IA acabe con la humanidad: ¿Cuál dirías que es el tuyo?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pdoom-cifra-0-100-indica-probabilidad-ia-acabe-humanidad-cual-dirias-1348981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/destruccion-humanidad-ia-3247336.jpg?tf=1200x' alt='P(doom), la cifra del 0 al 100 que indica la probabilidad de que la IA acabe con la humanidad: ¿Cuál dirías que es el tuyo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-bestia-16gb-ram-precio-locos-amazon-1348056'>Este Mini PC es una bestia de 16GB de RAM a precio de locos, y en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mini-pc-bestia-16gb-ram-precio-locos-amazon-1348056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/funyet-mini-pc-3245566.jpg?tf=1200x' alt='Este Mini PC es una bestia de 16GB de RAM a precio de locos, y en Amazon' />
     </a>
 </div>
 
