@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/movil-regalo-navidad-estos-cinco-son-acierto-seguro-distintos-precios-1348929'>¿Qué móvil regalo por Navidad? Estos cinco, para todos los bolsillos, son acierto seguro</a></h4>
+    <a href='https://computerhoy.com/android/movil-regalo-navidad-estos-cinco-son-acierto-seguro-distintos-precios-1348929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='¿Qué móvil regalo por Navidad? Estos cinco, para todos los bolsillos, son acierto seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mejora-memoria-metodo-123-tecnica-recordar-todo-1336714'>Mejora tu memoria con el método 123: una técnica efectiva para recordar todo lo que has estudiado</a></h4>
     <a href='https://computerhoy.com/life/mejora-memoria-metodo-123-tecnica-recordar-todo-1336714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mejora-memoria-metodo-123-tecnica-efectiva-recordar-todo-has-estudiado-3224734.jpg?tf=1200x' alt='Mejora tu memoria con el método 123: una técnica efectiva para recordar todo lo que has estudiado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/calculan-bill-gates-tiene-tanto-dinero-sale-rentable-dejar-tirado-billete-100-euros-recogerlo-1348842'>Calculan que Bill Gates tiene tanto dinero que le sale más rentable dejar tirado un billete de 100 euros que recogerlo</a></h4>
     <a href='https://computerhoy.com/life/calculan-bill-gates-tiene-tanto-dinero-sale-rentable-dejar-tirado-billete-100-euros-recogerlo-1348842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/salvo-bill-gates-apple-quiebra-abuchearon-ello-3223158.jpg?tf=1200x' alt='Calculan que Bill Gates tiene tanto dinero que le sale más rentable dejar tirado un billete de 100 euros que recogerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/proyecto-ellmann-google-chatgpt-sabe-todo-vida-1348836'>Proyecto Ellmann de Google: el ChatGPT que sabe todo sobre tu vida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/proyecto-ellmann-google-chatgpt-sabe-todo-vida-1348836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/inteligencia-artificial-3032564.jpg?tf=1200x' alt='Proyecto Ellmann de Google: el ChatGPT que sabe todo sobre tu vida' />
     </a>
 </div>
 
