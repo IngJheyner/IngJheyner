@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/portatil-menos-300-euros-cual-comprar-1282716'>Portátil de menos de 300 euros: cuál comprar y en qué debes fijarte</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-menos-300-euros-cual-comprar-1282716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/acer-chromebook-2888140.jpg?tf=1200x' alt='Portátil de menos de 300 euros: cuál comprar y en qué debes fijarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/montar-mi-propio-pc-estas-son-4-mejoras-te-recomiendo-tener-cuenta-1343834'>Tras montar mi propio PC estas son las 4 mejoras que te recomiendo tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/montar-mi-propio-pc-estas-son-4-mejoras-te-recomiendo-tener-cuenta-1343834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/torre-ordenador-abierta-3237406.jpg?tf=1200x' alt='Tras montar mi propio PC estas son las 4 mejoras que te recomiendo tener en cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/movil-regalo-navidad-estos-cinco-son-acierto-seguro-distintos-precios-1348929'>¿Qué móvil regalo por Navidad? Estos cinco, para todos los bolsillos, son acierto seguro</a></h4>
     <a href='https://computerhoy.com/android/movil-regalo-navidad-estos-cinco-son-acierto-seguro-distintos-precios-1348929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='¿Qué móvil regalo por Navidad? Estos cinco, para todos los bolsillos, son acierto seguro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/roomba-inteligente-cuesta-mitad-amazon-tiene-47-descuento-va-volar-1348042'>Esta Roomba inteligente cuesta la mitad en Amazon: tiene un 47% de descuento y va a volar</a></h4>
     <a href='https://computerhoy.com/tecnologia/roomba-inteligente-cuesta-mitad-amazon-tiene-47-descuento-va-volar-1348042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/roomba-j7-3245540.jpg?tf=1200x' alt='Esta Roomba inteligente cuesta la mitad en Amazon: tiene un 47% de descuento y va a volar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-mapa-personalizado-recuerdos-viajes-google-maps-1345996'>Cómo crear un mapa personalizado con los recuerdos de tus viajes en Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-mapa-personalizado-recuerdos-viajes-google-maps-1345996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-crear-mapa-personalizado-recuerdos-viajes-google-maps-3242308.jpg?tf=1200x' alt='Cómo crear un mapa personalizado con los recuerdos de tus viajes en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/calculan-bill-gates-tiene-tanto-dinero-sale-rentable-dejar-tirado-billete-100-euros-recogerlo-1348842'>Calculan que Bill Gates tiene tanto dinero que le sale más rentable dejar tirado un billete de 100 euros que recogerlo</a></h4>
-    <a href='https://computerhoy.com/life/calculan-bill-gates-tiene-tanto-dinero-sale-rentable-dejar-tirado-billete-100-euros-recogerlo-1348842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/salvo-bill-gates-apple-quiebra-abuchearon-ello-3223158.jpg?tf=1200x' alt='Calculan que Bill Gates tiene tanto dinero que le sale más rentable dejar tirado un billete de 100 euros que recogerlo' />
     </a>
 </div>
 
