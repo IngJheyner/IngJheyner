@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/epic-games-continua-batalla-legal-ahora-va-todas-apple-app-store-1348522'>Epic Games continua su batalla legal y ahora va a por todas contra Apple y su App Store</a></h4>
+    <a href='https://computerhoy.com/apple/epic-games-continua-batalla-legal-ahora-va-todas-apple-app-store-1348522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/epic-games-apple-3247352.jpg?tf=1200x' alt='Epic Games continua su batalla legal y ahora va a por todas contra Apple y su App Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pdoom-cifra-0-100-indica-probabilidad-ia-acabe-humanidad-cual-dirias-1348981'>P(doom), la cifra del 0 al 100 que indica la probabilidad de que la IA acabe con la humanidad: ¿Cuál dirías que es el tuyo?</a></h4>
     <a href='https://computerhoy.com/tecnologia/pdoom-cifra-0-100-indica-probabilidad-ia-acabe-humanidad-cual-dirias-1348981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/destruccion-humanidad-ia-3247336.jpg?tf=1200x' alt='P(doom), la cifra del 0 al 100 que indica la probabilidad de que la IA acabe con la humanidad: ¿Cuál dirías que es el tuyo?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/ios-17-3-proteccion-iphone-robado-1348970'>Apple hará que los iPhone robados sean casi imposibles de usarse si activas este ajuste</a></h4>
     <a href='https://computerhoy.com/apple/ios-17-3-proteccion-iphone-robado-1348970' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143598.jpg?tf=1200x' alt='Apple hará que los iPhone robados sean casi imposibles de usarse si activas este ajuste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/mitica-sonda-voyager-1-nasa-graves-problemas-24000-millones-kilometros-tierra-1348952'>La mítica sonda Voyager 1 de la NASA en graves problemas a más de 24.000 millones de kilómetros de la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/mitica-sonda-voyager-1-nasa-graves-problemas-24000-millones-kilometros-tierra-1348952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/voyager-1-nasa-3247297.jpg?tf=1200x' alt='La mítica sonda Voyager 1 de la NASA en graves problemas a más de 24.000 millones de kilómetros de la Tierra' />
     </a>
 </div>
 
