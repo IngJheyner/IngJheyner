@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-muestra-video-nave-orion-regresando-tierra-envuelta-bola-fuego-1349296'>La NASA muestra un vídeo de la nave Orion regresando a la Tierra envuelta en una bola de fuego</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-muestra-video-nave-orion-regresando-tierra-envuelta-bola-fuego-1349296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nasa-nave-orion-tierra-3247968.jpg?tf=1200x' alt='La NASA muestra un vídeo de la nave Orion regresando a la Tierra envuelta en una bola de fuego' />
+    <h4><a href='https://computerhoy.com/tecnologia/canal-reemplazara-presentadores-humanos-inteligencia-artificial-demasiado-realista-1349368'>Este canal reemplazará a los presentadores humanos por inteligencia artificial y es demasiado realista</a></h4>
+    <a href='https://computerhoy.com/tecnologia/canal-reemplazara-presentadores-humanos-inteligencia-artificial-demasiado-realista-1349368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/canal-noticias-inteligencia-artificial-3248086.jpg?tf=1200x' alt='Este canal reemplazará a los presentadores humanos por inteligencia artificial y es demasiado realista' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/parece-error-pero-no-portatil-barato-tiene-windows-11-1348478'>Parece un error, pero no: este portátil es así de barato y tiene Windows 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/parece-error-pero-no-portatil-barato-tiene-windows-11-1348478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/teclast-f7-plus-2-3247900.jpg?tf=1200x' alt='Parece un error, pero no: este portátil es así de barato y tiene Windows 11' />
+    <h4><a href='https://computerhoy.com/moviles/adios-moviles-primaria-eso-espana-plantea-prohibicion-nivel-nacional-1349329'>¿Adiós a los móviles en Primaria y ESO? España plantea su prohibición a nivel nacional</a></h4>
+    <a href='https://computerhoy.com/moviles/adios-moviles-primaria-eso-espana-plantea-prohibicion-nivel-nacional-1349329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/moviles-colegios-espana-3248011.jpg?tf=1200x' alt='¿Adiós a los móviles en Primaria y ESO? España plantea su prohibición a nivel nacional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/cuidado-ventas-wallapop-vinted-ebay-enero-2024-hacienda-estara-vigilando-1349286'>Cuidado con las ventas en Wallapop, Vinted o eBay: desde enero de 2024 Hacienda te estará vigilando</a></h4>
-    <a href='https://computerhoy.com/apps/cuidado-ventas-wallapop-vinted-ebay-enero-2024-hacienda-estara-vigilando-1349286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wallapop-3135122.jpg?tf=1200x' alt='Cuidado con las ventas en Wallapop, Vinted o eBay: desde enero de 2024 Hacienda te estará vigilando' />
+    <h4><a href='https://computerhoy.com/tecnologia/adios-ruido-hola-concentracion-estos-auriculares-anc-son-baratos-eliminan-985-sonidos-molestos-1348702'>Adiós ruido, hola concentración: estos auriculares con ANC son baratos y eliminan hasta el 98,5% de los sonidos molestos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-ruido-hola-concentracion-estos-auriculares-anc-son-baratos-eliminan-985-sonidos-molestos-1348702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/soundcore-liberty-4-nc-3246808.jpg?tf=1200x' alt='Adiós ruido, hola concentración: estos auriculares con ANC son baratos y eliminan hasta el 98,5% de los sonidos molestos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/flipside-nueva-funcion-instagram-quiere-poner-fin-postureo-1349220'>Flipside, la nueva función con la que Instagram quiere poner fin al postureo</a></h4>
-    <a href='https://computerhoy.com/redes/flipside-nueva-funcion-instagram-quiere-poner-fin-postureo-1349220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/instagram-3212144.jpg?tf=1200x' alt='Flipside, la nueva función con la que Instagram quiere poner fin al postureo' />
+    <h4><a href='https://computerhoy.com/tecnologia/phi-2-nuevo-modelo-ia-microsoft-puede-usar-movil-1349197'>Phi-2, el nuevo modelo de IA con el que Microsoft quiere barrer a Gemini Nano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/phi-2-nuevo-modelo-ia-microsoft-puede-usar-movil-1349197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/phi-2-nuevo-modelo-ia-microsoft-quiere-barrer-gemini-nano-3247783.jpg?tf=1200x' alt='Phi-2, el nuevo modelo de IA con el que Microsoft quiere barrer a Gemini Nano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431'>Mejores auriculares inalámbricos para el gimnasio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/auriculares-gimnasio-3245802.jpg?tf=1200x' alt='Mejores auriculares inalámbricos para el gimnasio que puedes comprar' />
+    <h4><a href='https://computerhoy.com/apps/threads-como-funciona-nueva-red-social-ya-disponible-espana-1349298'>Qué es Threads y cómo funciona la nueva red social que ya está disponible en España</a></h4>
+    <a href='https://computerhoy.com/apps/threads-como-funciona-nueva-red-social-ya-disponible-espana-1349298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/threads-3244808.jpg?tf=1200x' alt='Qué es Threads y cómo funciona la nueva red social que ya está disponible en España' />
     </a>
 </div>
 
