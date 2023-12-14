@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/peligros-flipper-zero-cae-manos-equivocadas-1349452'>Los peligros de Flipper Zero si cae en las manos equivocadas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/peligros-flipper-zero-cae-manos-equivocadas-1349452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/flipper-zero-3017058.jpg?tf=1200x' alt='Los peligros de Flipper Zero si cae en las manos equivocadas' />
+    <h4><a href='https://computerhoy.com/criptos/sucedera-criptomonedas-2024-1349509'>¿Qué sucederá con las criptomonedas en 2024? Estas son algunas predicciones de los expertos</a></h4>
+    <a href='https://computerhoy.com/criptos/sucedera-criptomonedas-2024-1349509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sucedera-criptomonedas-2024-estas-son-algunas-predicciones-expertos-3248358.jpg?tf=1200x' alt='¿Qué sucederá con las criptomonedas en 2024? Estas son algunas predicciones de los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/proyectores-5-cosas-debes-tener-cuenta-antes-montarte-cine-casa-1330136'>Proyectores: 5 cosas que debes tener en cuenta antes de montarte tu cine en casa</a></h4>
-    <a href='https://computerhoy.com/tv/proyectores-5-cosas-debes-tener-cuenta-antes-montarte-cine-casa-1330136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/proyector-cine-casa-3248029.jpg?tf=1200x' alt='Proyectores: 5 cosas que debes tener en cuenta antes de montarte tu cine en casa' />
+    <h4><a href='https://computerhoy.com/tecnologia/rtx-4060-precio-brutal-cuenta-steam-rojo-vivo-portatil-top-1348964'>RTX 4060 a precio brutal: tu cuenta Steam al rojo vivo con este portátil top</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rtx-4060-precio-brutal-cuenta-steam-rojo-vivo-portatil-top-1348964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pccom-revolt-4060-3247296.jpg?tf=1200x' alt='RTX 4060 a precio brutal: tu cuenta Steam al rojo vivo con este portátil top' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/grifo-cerveza-inteligente-ya-ha-llegado-bares-barcelona-1349466'>El grifo de cerveza inteligente ya está en Barcelona: te tira la caña perfecta y te cobra solo</a></h4>
-    <a href='https://computerhoy.com/life/grifo-cerveza-inteligente-ya-ha-llegado-bares-barcelona-1349466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/grifo-cerveza-inteligente-ya-barcelona-te-tira-cana-perfecta-te-cobra-solo-3248287.jpg?tf=1200x' alt='El grifo de cerveza inteligente ya está en Barcelona: te tira la caña perfecta y te cobra solo' />
+    <h4><a href='https://computerhoy.com/life/bill-gates-tiene-claro-superior-steve-jobs-elon-musk-1349497'>Bill Gates tiene claro un aspecto en el que es muy superior a Steve Jobs y Elon Musk</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-tiene-claro-superior-steve-jobs-elon-musk-1349497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/consejo-dinero-bill-gates-2023-2924766.jpg?tf=1200x' alt='Bill Gates tiene claro un aspecto en el que es muy superior a Steve Jobs y Elon Musk' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/tablet-tiene-windows-lapiz-pantalla-2k-apenas-cuesta-300-euros-aliexpress-1349467'>Esta tablet tiene Windows, lápiz, pantalla 2K y apenas cuesta 300 euros en AliExpress</a></h4>
-    <a href='https://computerhoy.com/pc/tablet-tiene-windows-lapiz-pantalla-2k-apenas-cuesta-300-euros-aliexpress-1349467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chuwi-tablet-300-euros-3248288.jpg?tf=1200x' alt='Esta tablet tiene Windows, lápiz, pantalla 2K y apenas cuesta 300 euros en AliExpress' />
+    <h4><a href='https://computerhoy.com/apps/no-evitas-dropbox-podria-estar-compartiendo-archivos-personales-chatgpt-1349562'>Si no lo evitas, Dropbox podría estar compartiendo tus archivos personales con ChatGPT</a></h4>
+    <a href='https://computerhoy.com/apps/no-evitas-dropbox-podria-estar-compartiendo-archivos-personales-chatgpt-1349562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dropbox-3248471.jpg?tf=1200x' alt='Si no lo evitas, Dropbox podría estar compartiendo tus archivos personales con ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/modo-ninja-whatsapp-como-salir-grupo-nadie-entere-1348714'>Modo Ninja de WhatsApp: cómo salir de un grupo sin que nadie se entere</a></h4>
-    <a href='https://computerhoy.com/tutoriales/modo-ninja-whatsapp-como-salir-grupo-nadie-entere-1348714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/modo-ninja-whatsapp-como-salir-grupo-nadie-entere-3246908.jpg?tf=1200x' alt='Modo Ninja de WhatsApp: cómo salir de un grupo sin que nadie se entere' />
+    <h4><a href='https://computerhoy.com/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802'>Usos legales por lo que merece la pena (y mucho) comprar un Flipper Zero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/flipper-zero-3193160.jpg?tf=1200x' alt='Usos legales por lo que merece la pena (y mucho) comprar un Flipper Zero' />
     </a>
 </div>
 
