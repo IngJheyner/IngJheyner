@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-darte-alta-threads-primeros-pasos-rival-twitter-1349438'>Cómo darte de alta en Threads y primeros pasos en la gran alternativa a X (Twitter)</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-darte-alta-threads-primeros-pasos-rival-twitter-1349438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-darte-alta-threads-primeros-pasos-gran-alternativa-x-twitter-3248230.jpg?tf=1200x' alt='Cómo darte de alta en Threads y primeros pasos en la gran alternativa a X (Twitter)' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/peligros-flipper-zero-cae-manos-equivocadas-1349452'>Los peligros de Flipper Zero si cae en las manos equivocadas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/peligros-flipper-zero-cae-manos-equivocadas-1349452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/flipper-zero-3017058.jpg?tf=1200x' alt='Los peligros de Flipper Zero si cae en las manos equivocadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/elementos-tabla-periodica-cotidianos-peligrosos-1346874'>Los 5 elementos más mortíferos de la tabla periódica con los que deberías tener mucho cuidado</a></h4>
-    <a href='https://computerhoy.com/life/elementos-tabla-periodica-cotidianos-peligrosos-1346874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-elementos-tabla-periodica-cotidianos-deberias-tener-cuidado-3243792.jpg?tf=1200x' alt='Los 5 elementos más mortíferos de la tabla periódica con los que deberías tener mucho cuidado' />
+    <h4><a href='https://computerhoy.com/tv/proyectores-5-cosas-debes-tener-cuenta-antes-montarte-cine-casa-1330136'>Proyectores: 5 cosas que debes tener en cuenta antes de montarte tu cine en casa</a></h4>
+    <a href='https://computerhoy.com/tv/proyectores-5-cosas-debes-tener-cuenta-antes-montarte-cine-casa-1330136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/proyector-cine-casa-3248029.jpg?tf=1200x' alt='Proyectores: 5 cosas que debes tener en cuenta antes de montarte tu cine en casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/apps/mejores-frases-cortas-felicitaciones-navidad-73341'>Frases cortas de felicitaciones de Navidad para enviar por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/apps/mejores-frases-cortas-felicitaciones-navidad-73341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/movil-navidad-2166903.jpg?tf=1200x' alt='Frases cortas de felicitaciones de Navidad para enviar por WhatsApp' />
+    <h4><a href='https://computerhoy.com/life/grifo-cerveza-inteligente-ya-ha-llegado-bares-barcelona-1349466'>El grifo de cerveza inteligente ya está en Barcelona: te tira la caña perfecta y te cobra solo</a></h4>
+    <a href='https://computerhoy.com/life/grifo-cerveza-inteligente-ya-ha-llegado-bares-barcelona-1349466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/grifo-cerveza-inteligente-ya-barcelona-te-tira-cana-perfecta-te-cobra-solo-3248287.jpg?tf=1200x' alt='El grifo de cerveza inteligente ya está en Barcelona: te tira la caña perfecta y te cobra solo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-telefonica-usa-inteligencia-artificial-quedarse-dinero-1349313'>Así es la estafa telefónica que usa inteligencia artificial para quedarse con tu dinero</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafa-telefonica-usa-inteligencia-artificial-quedarse-dinero-1349313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estafa-telefonica-usa-inteligencia-artificial-quedarse-dinero-3247989.jpg?tf=1200x' alt='Así es la estafa telefónica que usa inteligencia artificial para quedarse con tu dinero' />
+    <h4><a href='https://computerhoy.com/pc/tablet-tiene-windows-lapiz-pantalla-2k-apenas-cuesta-300-euros-aliexpress-1349467'>Esta tablet tiene Windows, lápiz, pantalla 2K y apenas cuesta 300 euros en AliExpress</a></h4>
+    <a href='https://computerhoy.com/pc/tablet-tiene-windows-lapiz-pantalla-2k-apenas-cuesta-300-euros-aliexpress-1349467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chuwi-tablet-300-euros-3248288.jpg?tf=1200x' alt='Esta tablet tiene Windows, lápiz, pantalla 2K y apenas cuesta 300 euros en AliExpress' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/herramienta-correos-evitara-caigas-estafas-phishing-estas-navidades-1349396'>Esta herramienta de Correos evitará que caigas en las estafas de phishing estas Navidades</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/herramienta-correos-evitara-caigas-estafas-phishing-estas-navidades-1349396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/phishing-correos-estafas-3248160.jpg?tf=1200x' alt='Esta herramienta de Correos evitará que caigas en las estafas de phishing estas Navidades' />
+    <h4><a href='https://computerhoy.com/tutoriales/modo-ninja-whatsapp-como-salir-grupo-nadie-entere-1348714'>Modo Ninja de WhatsApp: cómo salir de un grupo sin que nadie se entere</a></h4>
+    <a href='https://computerhoy.com/tutoriales/modo-ninja-whatsapp-como-salir-grupo-nadie-entere-1348714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/modo-ninja-whatsapp-como-salir-grupo-nadie-entere-3246908.jpg?tf=1200x' alt='Modo Ninja de WhatsApp: cómo salir de un grupo sin que nadie se entere' />
     </a>
 </div>
 
