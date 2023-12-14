@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-gps-barato-huawei-hace-temblar-garmin-deberia-viendo-cuesta-1348140'>El reloj GPS más barato de Huawei hace temblar a Garmin, o debería viendo lo que cuesta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-gps-barato-huawei-hace-temblar-garmin-deberia-viendo-cuesta-1348140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-watch-gt-3-2865383.jpg?tf=1200x' alt='El reloj GPS más barato de Huawei hace temblar a Garmin, o debería viendo lo que cuesta' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-muestra-video-nave-orion-regresando-tierra-envuelta-bola-fuego-1349296'>La NASA muestra un vídeo de la nave Orion regresando a la Tierra envuelta en una bola de fuego</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-muestra-video-nave-orion-regresando-tierra-envuelta-bola-fuego-1349296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nasa-nave-orion-tierra-3247968.jpg?tf=1200x' alt='La NASA muestra un vídeo de la nave Orion regresando a la Tierra envuelta en una bola de fuego' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-primer-casco-leer-mente-capaz-traducir-ondas-cerebrales-palabras-1349207'>Crean el primer casco para leer la mente capaz de traducir las ondas cerebrales en palabras</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-primer-casco-leer-mente-capaz-traducir-ondas-cerebrales-palabras-1349207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cerebro-3247779.jpg?tf=1200x' alt='Crean el primer casco para leer la mente capaz de traducir las ondas cerebrales en palabras' />
+    <h4><a href='https://computerhoy.com/tecnologia/parece-error-pero-no-portatil-barato-tiene-windows-11-1348478'>Parece un error, pero no: este portátil es así de barato y tiene Windows 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/parece-error-pero-no-portatil-barato-tiene-windows-11-1348478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/teclast-f7-plus-2-3247900.jpg?tf=1200x' alt='Parece un error, pero no: este portátil es así de barato y tiene Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-trabaja-carpeta-segura-ocultes-aplicaciones-movil-android-1349206'>Google trabaja en una carpeta segura para que ocultes aplicaciones en tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/android/google-trabaja-carpeta-segura-ocultes-aplicaciones-movil-android-1349206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/seguridad-android-3247776.jpg?tf=1200x' alt='Google trabaja en una carpeta segura para que ocultes aplicaciones en tu móvil Android' />
+    <h4><a href='https://computerhoy.com/apps/cuidado-ventas-wallapop-vinted-ebay-enero-2024-hacienda-estara-vigilando-1349286'>Cuidado con las ventas en Wallapop, Vinted o eBay: desde enero de 2024 Hacienda te estará vigilando</a></h4>
+    <a href='https://computerhoy.com/apps/cuidado-ventas-wallapop-vinted-ebay-enero-2024-hacienda-estara-vigilando-1349286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wallapop-3135122.jpg?tf=1200x' alt='Cuidado con las ventas en Wallapop, Vinted o eBay: desde enero de 2024 Hacienda te estará vigilando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/revolucionario-casco-convierte-pensamientos-textos-ia-1348990'>No es ciencia ficción: el revolucionario casco que convierte los pensamientos en textos con ayuda de la IA</a></h4>
-    <a href='https://computerhoy.com/ciencia/revolucionario-casco-convierte-pensamientos-textos-ia-1348990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/no-ciencia-ficcion-revolucionario-casco-convierte-pensamientos-textos-ayuda-ia-3247334.jpg?tf=1200x' alt='No es ciencia ficción: el revolucionario casco que convierte los pensamientos en textos con ayuda de la IA' />
+    <h4><a href='https://computerhoy.com/redes/flipside-nueva-funcion-instagram-quiere-poner-fin-postureo-1349220'>Flipside, la nueva función con la que Instagram quiere poner fin al postureo</a></h4>
+    <a href='https://computerhoy.com/redes/flipside-nueva-funcion-instagram-quiere-poner-fin-postureo-1349220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/instagram-3212144.jpg?tf=1200x' alt='Flipside, la nueva función con la que Instagram quiere poner fin al postureo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/instagram-prepara-opcion-hacer-post-privados-1349151'>Instagram está preparando una opción para hacer tus post más privados: así podría acabar Flipside con el postureo</a></h4>
-    <a href='https://computerhoy.com/redes/instagram-prepara-opcion-hacer-post-privados-1349151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-cambiar-contrasena-instagram-3237116.jpg?tf=1200x' alt='Instagram está preparando una opción para hacer tus post más privados: así podría acabar Flipside con el postureo' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431'>Mejores auriculares inalámbricos para el gimnasio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-gimnasio-1016431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/auriculares-gimnasio-3245802.jpg?tf=1200x' alt='Mejores auriculares inalámbricos para el gimnasio que puedes comprar' />
     </a>
 </div>
 
