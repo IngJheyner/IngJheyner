@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/canal-reemplazara-presentadores-humanos-inteligencia-artificial-demasiado-realista-1349368'>Este canal reemplazará a los presentadores humanos por inteligencia artificial y es demasiado realista</a></h4>
-    <a href='https://computerhoy.com/tecnologia/canal-reemplazara-presentadores-humanos-inteligencia-artificial-demasiado-realista-1349368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/canal-noticias-inteligencia-artificial-3248086.jpg?tf=1200x' alt='Este canal reemplazará a los presentadores humanos por inteligencia artificial y es demasiado realista' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-darte-alta-threads-primeros-pasos-rival-twitter-1349438'>Cómo darte de alta en Threads y primeros pasos en la gran alternativa a X (Twitter)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-darte-alta-threads-primeros-pasos-rival-twitter-1349438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-darte-alta-threads-primeros-pasos-gran-alternativa-x-twitter-3248230.jpg?tf=1200x' alt='Cómo darte de alta en Threads y primeros pasos en la gran alternativa a X (Twitter)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/adios-moviles-primaria-eso-espana-plantea-prohibicion-nivel-nacional-1349329'>¿Adiós a los móviles en Primaria y ESO? España plantea su prohibición a nivel nacional</a></h4>
-    <a href='https://computerhoy.com/moviles/adios-moviles-primaria-eso-espana-plantea-prohibicion-nivel-nacional-1349329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/moviles-colegios-espana-3248011.jpg?tf=1200x' alt='¿Adiós a los móviles en Primaria y ESO? España plantea su prohibición a nivel nacional' />
+    <h4><a href='https://computerhoy.com/life/elementos-tabla-periodica-cotidianos-peligrosos-1346874'>Los 5 elementos más mortíferos de la tabla periódica con los que deberías tener mucho cuidado</a></h4>
+    <a href='https://computerhoy.com/life/elementos-tabla-periodica-cotidianos-peligrosos-1346874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-elementos-tabla-periodica-cotidianos-deberias-tener-cuidado-3243792.jpg?tf=1200x' alt='Los 5 elementos más mortíferos de la tabla periódica con los que deberías tener mucho cuidado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-ruido-hola-concentracion-estos-auriculares-anc-son-baratos-eliminan-985-sonidos-molestos-1348702'>Adiós ruido, hola concentración: estos auriculares con ANC son baratos y eliminan hasta el 98,5% de los sonidos molestos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-ruido-hola-concentracion-estos-auriculares-anc-son-baratos-eliminan-985-sonidos-molestos-1348702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/soundcore-liberty-4-nc-3246808.jpg?tf=1200x' alt='Adiós ruido, hola concentración: estos auriculares con ANC son baratos y eliminan hasta el 98,5% de los sonidos molestos' />
+    <h4><a href='https://computerhoy.com/noticias/apps/mejores-frases-cortas-felicitaciones-navidad-73341'>Frases cortas de felicitaciones de Navidad para enviar por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/apps/mejores-frases-cortas-felicitaciones-navidad-73341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/movil-navidad-2166903.jpg?tf=1200x' alt='Frases cortas de felicitaciones de Navidad para enviar por WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/phi-2-nuevo-modelo-ia-microsoft-puede-usar-movil-1349197'>Phi-2, el nuevo modelo de IA con el que Microsoft quiere barrer a Gemini Nano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/phi-2-nuevo-modelo-ia-microsoft-puede-usar-movil-1349197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/phi-2-nuevo-modelo-ia-microsoft-quiere-barrer-gemini-nano-3247783.jpg?tf=1200x' alt='Phi-2, el nuevo modelo de IA con el que Microsoft quiere barrer a Gemini Nano' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-telefonica-usa-inteligencia-artificial-quedarse-dinero-1349313'>Así es la estafa telefónica que usa inteligencia artificial para quedarse con tu dinero</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafa-telefonica-usa-inteligencia-artificial-quedarse-dinero-1349313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estafa-telefonica-usa-inteligencia-artificial-quedarse-dinero-3247989.jpg?tf=1200x' alt='Así es la estafa telefónica que usa inteligencia artificial para quedarse con tu dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/threads-como-funciona-nueva-red-social-ya-disponible-espana-1349298'>Qué es Threads y cómo funciona la nueva red social que ya está disponible en España</a></h4>
-    <a href='https://computerhoy.com/apps/threads-como-funciona-nueva-red-social-ya-disponible-espana-1349298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/threads-3244808.jpg?tf=1200x' alt='Qué es Threads y cómo funciona la nueva red social que ya está disponible en España' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/herramienta-correos-evitara-caigas-estafas-phishing-estas-navidades-1349396'>Esta herramienta de Correos evitará que caigas en las estafas de phishing estas Navidades</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/herramienta-correos-evitara-caigas-estafas-phishing-estas-navidades-1349396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/phishing-correos-estafas-3248160.jpg?tf=1200x' alt='Esta herramienta de Correos evitará que caigas en las estafas de phishing estas Navidades' />
     </a>
 </div>
 
