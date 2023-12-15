@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/donde-comprar-iphone-13-barato-posible-1288640'>¿Dónde comprar el iPhone 13 al menor precio posible?</a></h4>
-    <a href='https://computerhoy.com/apple/donde-comprar-iphone-13-barato-posible-1288640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-13-3144574.jpg?tf=1200x' alt='¿Dónde comprar el iPhone 13 al menor precio posible?' />
+    <h4><a href='https://computerhoy.com/pc/pedazo-monitor-34-tiene-165-hz-1440p-ahora-precio-risa-1349641'>Este pedazo de monitor de 34" tiene 165 hz, 1440p y ahora está a un precio de risa</a></h4>
+    <a href='https://computerhoy.com/pc/pedazo-monitor-34-tiene-165-hz-1440p-ahora-precio-risa-1349641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pccom-monitor-34-3248582.jpg?tf=1200x' alt='Este pedazo de monitor de 34" tiene 165 hz, 1440p y ahora está a un precio de risa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-smartwatch-amazfit-active-deberia-ser-reloj-inteligente-barato-deportes-1348983'>He probado el smartwatch Amazfit Active, un ejemplo perfecto de como debería ser un reloj inteligente y económico para deportes</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-smartwatch-amazfit-active-deberia-ser-reloj-inteligente-barato-deportes-1348983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazfit-active-3247531.jpg?tf=1200x' alt='He probado el smartwatch Amazfit Active, un ejemplo perfecto de como debería ser un reloj inteligente y económico para deportes' />
+    <h4><a href='https://computerhoy.com/google/google-acaba-grandes-problemas-privacidad-maps-aunque-hay-matices-1349655'>Google acaba con uno de los grandes problemas de privacidad y rastreo de Maps aunque hay matices</a></h4>
+    <a href='https://computerhoy.com/google/google-acaba-grandes-problemas-privacidad-maps-aunque-hay-matices-1349655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ubicacion-google-3248622.jpg?tf=1200x' alt='Google acaba con uno de los grandes problemas de privacidad y rastreo de Maps aunque hay matices' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/software/mejores-distribuciones-linux-2018-75139'>¿Cuáles son las mejores distribuciones Linux de 2024?</a></h4>
-    <a href='https://computerhoy.com/listas/software/mejores-distribuciones-linux-2018-75139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cuales-son-mejores-distribuciones-linux-2024-3247266.jpg?tf=1200x' alt='¿Cuáles son las mejores distribuciones Linux de 2024?' />
+    <h4><a href='https://computerhoy.com/tecnologia/ha-pasado-chatgpt-test-turing-no-nunca-va-hacer-porque-prueba-ya-no-sirve-1349637'>¿Ha pasado ChatGPT el Test de Turing? No y nunca lo va a hacer porque esta prueba ya no sirve por estos motivos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ha-pasado-chatgpt-test-turing-no-nunca-va-hacer-porque-prueba-ya-no-sirve-1349637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-maquinas-3248578.jpg?tf=1200x' alt='¿Ha pasado ChatGPT el Test de Turing? No y nunca lo va a hacer porque esta prueba ya no sirve por estos motivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508'>Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/maquina-afeitar-xiaomi.jpg?tf=1200x' alt='Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar' />
+    <h4><a href='https://computerhoy.com/tecnologia/desploma-precio-antivirus-top-pc-android-vpn-1348979'>Desploma su precio uno de los antivirus top para PC y Android ¡y con VPN!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desploma-precio-antivirus-top-pc-android-vpn-1348979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mcafee-total-protection-2023-3247325.jpg?tf=1200x' alt='Desploma su precio uno de los antivirus top para PC y Android ¡y con VPN!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-reducir-impacto-nuevos-odiados-colores-google-maps-1349584'>Cómo reducir el impacto de los nuevos (y odiados) colores de Google Maps</a></h4>
-    <a href='https://computerhoy.com/google/como-reducir-impacto-nuevos-odiados-colores-google-maps-1349584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-reducir-impacto-nuevos-odiados-colores-google-maps-3248506.jpg?tf=1200x' alt='Cómo reducir el impacto de los nuevos (y odiados) colores de Google Maps' />
+    <h4><a href='https://computerhoy.com/alimentacion/famosas-maquinas-helados-mcflurry-mcdonalds-esconden-oscuro-motivo-nunca-funcionan-1349632'>Las famosas máquinas de helados McFlurry de McDonald's esconden un oscuro motivo por el que nunca funcionan</a></h4>
+    <a href='https://computerhoy.com/alimentacion/famosas-maquinas-helados-mcflurry-mcdonalds-esconden-oscuro-motivo-nunca-funcionan-1349632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/helados-mcdonalds-3248561.jpg?tf=1200x' alt='Las famosas máquinas de helados McFlurry de McDonald's esconden un oscuro motivo por el que nunca funcionan' />
     </a>
 </div>
 
