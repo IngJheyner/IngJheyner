@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/software/mejores-distribuciones-linux-2018-75139'>¿Cuáles son las mejores distribuciones Linux de 2024?</a></h4>
+    <a href='https://computerhoy.com/listas/software/mejores-distribuciones-linux-2018-75139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cuales-son-mejores-distribuciones-linux-2024-3247266.jpg?tf=1200x' alt='¿Cuáles son las mejores distribuciones Linux de 2024?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508'>Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/maquina-afeitar-xiaomi.jpg?tf=1200x' alt='Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/como-reducir-impacto-nuevos-odiados-colores-google-maps-1349584'>Cómo reducir el impacto de los nuevos (y odiados) colores de Google Maps</a></h4>
     <a href='https://computerhoy.com/google/como-reducir-impacto-nuevos-odiados-colores-google-maps-1349584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-reducir-impacto-nuevos-odiados-colores-google-maps-3248506.jpg?tf=1200x' alt='Cómo reducir el impacto de los nuevos (y odiados) colores de Google Maps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/rtx-4060-precio-brutal-cuenta-steam-rojo-vivo-portatil-top-1348964'>RTX 4060 a precio brutal: tu cuenta Steam al rojo vivo con este portátil top</a></h4>
     <a href='https://computerhoy.com/tecnologia/rtx-4060-precio-brutal-cuenta-steam-rojo-vivo-portatil-top-1348964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pccom-revolt-4060-3247296.jpg?tf=1200x' alt='RTX 4060 a precio brutal: tu cuenta Steam al rojo vivo con este portátil top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bill-gates-tiene-claro-superior-steve-jobs-elon-musk-1349497'>Bill Gates tiene claro un aspecto en el que es muy superior a Steve Jobs y Elon Musk</a></h4>
-    <a href='https://computerhoy.com/life/bill-gates-tiene-claro-superior-steve-jobs-elon-musk-1349497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/consejo-dinero-bill-gates-2023-2924766.jpg?tf=1200x' alt='Bill Gates tiene claro un aspecto en el que es muy superior a Steve Jobs y Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/no-evitas-dropbox-podria-estar-compartiendo-archivos-personales-chatgpt-1349562'>Si no lo evitas, Dropbox podría estar compartiendo tus archivos personales con ChatGPT</a></h4>
-    <a href='https://computerhoy.com/apps/no-evitas-dropbox-podria-estar-compartiendo-archivos-personales-chatgpt-1349562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dropbox-3248471.jpg?tf=1200x' alt='Si no lo evitas, Dropbox podría estar compartiendo tus archivos personales con ChatGPT' />
     </a>
 </div>
 
