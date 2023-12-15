@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/novelas-clasicas-advirtieron-inteligencia-artificial-1348698'>5 grandes novelas clásicas que advirtieron sobre la inteligencia artificial y se adelantaron a su tiempo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/novelas-clasicas-advirtieron-inteligencia-artificial-1348698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-grandes-novelas-clasicas-advirtieron-inteligencia-artificial-adelantaron-tiempo-3246852.jpg?tf=1200x' alt='5 grandes novelas clásicas que advirtieron sobre la inteligencia artificial y se adelantaron a su tiempo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-movil-android-actualizado-ultima-version-1349172'>Así puedes saber en segundos si tu móvil Android está actualizado con la última versión del sistema</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-movil-android-actualizado-ultima-version-1349172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-saber-segundos-movil-android-actualizado-ultima-version-sistema-3247767.jpg?tf=1200x' alt='Así puedes saber en segundos si tu móvil Android está actualizado con la última versión del sistema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/tomates-espaciales-perdidos-nasa-comestibles-8-meses-1349768'>Así han quedado los tomates espaciales perdidos durante 8 meses por la NASA: sin hongos ni microbios</a></h4>
-    <a href='https://computerhoy.com/espacio/tomates-espaciales-perdidos-nasa-comestibles-8-meses-1349768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tomates-espaciales-perdidos-8-meses-nasa-son-aparentemente-comestibles-hongos-ni-microbios-todo-ese-tiempo-3248784.jpg?tf=1200x' alt='Así han quedado los tomates espaciales perdidos durante 8 meses por la NASA: sin hongos ni microbios' />
+    <h4><a href='https://computerhoy.com/motor/hereda-coche-abuelo-descubre-olvidado-apple-clio-1349797'>Hereda un viejo Renault Clio y descubre que es el único, y olvidado, modelo de Apple Car</a></h4>
+    <a href='https://computerhoy.com/motor/hereda-coche-abuelo-descubre-olvidado-apple-clio-1349797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hereda-clio-descubre-unico-olvidado-modelo-apple-car-3248831.jpg?tf=1200x' alt='Hereda un viejo Renault Clio y descubre que es el único, y olvidado, modelo de Apple Car' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-disney-movistar-plus-black-adam-chicken-run-gran-indiana-jones-1349659'>Qué películas ver este fin de semana en Netflix, Disney+ y Movistar Plus+: Black Adam, Chicken Run y el gran Indiana Jones</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-disney-movistar-plus-black-adam-chicken-run-gran-indiana-jones-1349659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/peliculas-fin-semana-3248641.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Disney+ y Movistar Plus+: Black Adam, Chicken Run y el gran Indiana Jones' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-poster-mapa-calles-cualquier-ciudad-1348930'>Cómo crear gratis un póster con el mapa de las calles de cualquier ciudad del mundo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-poster-mapa-calles-cualquier-ciudad-1348930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-crear-gratis-poster-mapa-calles-cualquier-ciudad-mundo-3247252.jpg?tf=1200x' alt='Cómo crear gratis un póster con el mapa de las calles de cualquier ciudad del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cobrar-premio-loteria-navidad-bizum-1349418'>Cómo cobrar un premio de la Lotería de Navidad por Bizum</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cobrar-premio-loteria-navidad-bizum-1349418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-cobrar-premio-loteria-navidad-bizum-3248168.jpg?tf=1200x' alt='Cómo cobrar un premio de la Lotería de Navidad por Bizum' />
+    <h4><a href='https://computerhoy.com/life/costumbre-muy-espanola-aumenta-28-riesgo-derrame-cerebral-1349788'>Un estudio pone en peligro una las costumbres culinarias más españolas: “aumenta el riesgo de derrame cerebral en un 28%"</a></h4>
+    <a href='https://computerhoy.com/life/costumbre-muy-espanola-aumenta-28-riesgo-derrame-cerebral-1349788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cena-terraza-espana-3248818.jpg?tf=1200x' alt='Un estudio pone en peligro una las costumbres culinarias más españolas: “aumenta el riesgo de derrame cerebral en un 28%"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/prueba-truco-quieres-beber-menos-cenas-navidad-1349699'>Prueba este truco si quieres beber menos en las cenas de Navidad</a></h4>
-    <a href='https://computerhoy.com/life/prueba-truco-quieres-beber-menos-cenas-navidad-1349699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/prueba-quieres-beber-menos-cenas-navidad-3248678.jpg?tf=1200x' alt='Prueba este truco si quieres beber menos en las cenas de Navidad' />
+    <h4><a href='https://computerhoy.com/apps/mejores-apps-ahorrar-datos-moviles-1349333'>Estas son las mejores apps para ahorrar en datos móviles</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-apps-ahorrar-datos-moviles-1349333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estas-son-mejores-apps-ahorrar-datos-moviles-3248000.jpg?tf=1200x' alt='Estas son las mejores apps para ahorrar en datos móviles' />
     </a>
 </div>
 
