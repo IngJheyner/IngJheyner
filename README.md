@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/donde-comprar-iphone-13-barato-posible-1288640'>¿Dónde comprar el iPhone 13 al menor precio posible?</a></h4>
+    <a href='https://computerhoy.com/apple/donde-comprar-iphone-13-barato-posible-1288640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-13-3144574.jpg?tf=1200x' alt='¿Dónde comprar el iPhone 13 al menor precio posible?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-smartwatch-amazfit-active-deberia-ser-reloj-inteligente-barato-deportes-1348983'>He probado el smartwatch Amazfit Active, un ejemplo perfecto de como debería ser un reloj inteligente y económico para deportes</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-smartwatch-amazfit-active-deberia-ser-reloj-inteligente-barato-deportes-1348983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazfit-active-3247531.jpg?tf=1200x' alt='He probado el smartwatch Amazfit Active, un ejemplo perfecto de como debería ser un reloj inteligente y económico para deportes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/software/mejores-distribuciones-linux-2018-75139'>¿Cuáles son las mejores distribuciones Linux de 2024?</a></h4>
     <a href='https://computerhoy.com/listas/software/mejores-distribuciones-linux-2018-75139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cuales-son-mejores-distribuciones-linux-2024-3247266.jpg?tf=1200x' alt='¿Cuáles son las mejores distribuciones Linux de 2024?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/como-reducir-impacto-nuevos-odiados-colores-google-maps-1349584'>Cómo reducir el impacto de los nuevos (y odiados) colores de Google Maps</a></h4>
     <a href='https://computerhoy.com/google/como-reducir-impacto-nuevos-odiados-colores-google-maps-1349584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-reducir-impacto-nuevos-odiados-colores-google-maps-3248506.jpg?tf=1200x' alt='Cómo reducir el impacto de los nuevos (y odiados) colores de Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/sucedera-criptomonedas-2024-1349509'>¿Qué sucederá con las criptomonedas en 2024? Estas son algunas predicciones de los expertos</a></h4>
-    <a href='https://computerhoy.com/criptos/sucedera-criptomonedas-2024-1349509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sucedera-criptomonedas-2024-estas-son-algunas-predicciones-expertos-3248358.jpg?tf=1200x' alt='¿Qué sucederá con las criptomonedas en 2024? Estas son algunas predicciones de los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rtx-4060-precio-brutal-cuenta-steam-rojo-vivo-portatil-top-1348964'>RTX 4060 a precio brutal: tu cuenta Steam al rojo vivo con este portátil top</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rtx-4060-precio-brutal-cuenta-steam-rojo-vivo-portatil-top-1348964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pccom-revolt-4060-3247296.jpg?tf=1200x' alt='RTX 4060 a precio brutal: tu cuenta Steam al rojo vivo con este portátil top' />
     </a>
 </div>
 
