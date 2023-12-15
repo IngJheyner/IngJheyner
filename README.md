@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/twitch-relaja-ahora-permite-estos-contenidos-adultos-1349648'>Twitch se relaja, y ahora permite estos contenidos para adultos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/twitch-relaja-ahora-permite-estos-contenidos-adultos-1349648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/twitch-relaja-ahora-permite-estos-contenidos-adultos-3248591.jpg?tf=1200x' alt='Twitch se relaja, y ahora permite estos contenidos para adultos' />
+    <h4><a href='https://computerhoy.com/entretenimiento/novelas-clasicas-advirtieron-inteligencia-artificial-1348698'>5 grandes novelas clásicas que advirtieron sobre la inteligencia artificial y se adelantaron a su tiempo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/novelas-clasicas-advirtieron-inteligencia-artificial-1348698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-grandes-novelas-clasicas-advirtieron-inteligencia-artificial-adelantaron-tiempo-3246852.jpg?tf=1200x' alt='5 grandes novelas clásicas que advirtieron sobre la inteligencia artificial y se adelantaron a su tiempo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elon-musk-x-nuevo-problemas-demanda-incumplir-rgpd-ley-servicios-digitales-1349746'>Elon Musk y X de nuevo en problemas: demanda por incumplir el RGPD y la Ley de Servicios Digitales</a></h4>
-    <a href='https://computerhoy.com/apps/elon-musk-x-nuevo-problemas-demanda-incumplir-rgpd-ley-servicios-digitales-1349746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/elon-musk-x-3142784.jpg?tf=1200x' alt='Elon Musk y X de nuevo en problemas: demanda por incumplir el RGPD y la Ley de Servicios Digitales' />
+    <h4><a href='https://computerhoy.com/espacio/tomates-espaciales-perdidos-nasa-comestibles-8-meses-1349768'>Así han quedado los tomates espaciales perdidos durante 8 meses por la NASA: sin hongos ni microbios</a></h4>
+    <a href='https://computerhoy.com/espacio/tomates-espaciales-perdidos-nasa-comestibles-8-meses-1349768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tomates-espaciales-perdidos-8-meses-nasa-son-aparentemente-comestibles-hongos-ni-microbios-todo-ese-tiempo-3248784.jpg?tf=1200x' alt='Así han quedado los tomates espaciales perdidos durante 8 meses por la NASA: sin hongos ni microbios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/afectara-ley-ia-espana-ocurrira-chatgpt-1349701'>Así afectará la ley de IA en España: ¿Qué ocurrirá con ChatGPT?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/afectara-ley-ia-espana-ocurrira-chatgpt-1349701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chagpt-ley-ia-3248692.jpg?tf=1200x' alt='Así afectará la ley de IA en España: ¿Qué ocurrirá con ChatGPT?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-disney-movistar-plus-black-adam-chicken-run-gran-indiana-jones-1349659'>Qué películas ver este fin de semana en Netflix, Disney+ y Movistar Plus+: Black Adam, Chicken Run y el gran Indiana Jones</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-disney-movistar-plus-black-adam-chicken-run-gran-indiana-jones-1349659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/peliculas-fin-semana-3248641.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Disney+ y Movistar Plus+: Black Adam, Chicken Run y el gran Indiana Jones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-ahora-permite-importar-entrenamientos-personalizados-1349670'>El Apple Watch ahora permite importar entrenamientos personalizados</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-ahora-permite-importar-entrenamientos-personalizados-1349670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-watch-ultra-3223538.jpg?tf=1200x' alt='El Apple Watch ahora permite importar entrenamientos personalizados' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-cobrar-premio-loteria-navidad-bizum-1349418'>Cómo cobrar un premio de la Lotería de Navidad por Bizum</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cobrar-premio-loteria-navidad-bizum-1349418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-cobrar-premio-loteria-navidad-bizum-3248168.jpg?tf=1200x' alt='Cómo cobrar un premio de la Lotería de Navidad por Bizum' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/galaxy-glass-samsung-plantaran-cara-vision-pro-2024-1349678'>Los auriculares Galaxy Glass de Samsung, rivales de Vision Pro, podrían llegar a principios de 2024</a></h4>
-    <a href='https://computerhoy.com/tecnologia/galaxy-glass-samsung-plantaran-cara-vision-pro-2024-1349678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051920.jpg?tf=1200x' alt='Los auriculares Galaxy Glass de Samsung, rivales de Vision Pro, podrían llegar a principios de 2024' />
+    <h4><a href='https://computerhoy.com/life/prueba-truco-quieres-beber-menos-cenas-navidad-1349699'>Prueba este truco si quieres beber menos en las cenas de Navidad</a></h4>
+    <a href='https://computerhoy.com/life/prueba-truco-quieres-beber-menos-cenas-navidad-1349699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/prueba-quieres-beber-menos-cenas-navidad-3248678.jpg?tf=1200x' alt='Prueba este truco si quieres beber menos en las cenas de Navidad' />
     </a>
 </div>
 
