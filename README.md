@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/como-reducir-impacto-nuevos-odiados-colores-google-maps-1349584'>Cómo reducir el impacto de los nuevos (y odiados) colores de Google Maps</a></h4>
+    <a href='https://computerhoy.com/google/como-reducir-impacto-nuevos-odiados-colores-google-maps-1349584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-reducir-impacto-nuevos-odiados-colores-google-maps-3248506.jpg?tf=1200x' alt='Cómo reducir el impacto de los nuevos (y odiados) colores de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/sucedera-criptomonedas-2024-1349509'>¿Qué sucederá con las criptomonedas en 2024? Estas son algunas predicciones de los expertos</a></h4>
     <a href='https://computerhoy.com/criptos/sucedera-criptomonedas-2024-1349509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sucedera-criptomonedas-2024-estas-son-algunas-predicciones-expertos-3248358.jpg?tf=1200x' alt='¿Qué sucederá con las criptomonedas en 2024? Estas son algunas predicciones de los expertos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/no-evitas-dropbox-podria-estar-compartiendo-archivos-personales-chatgpt-1349562'>Si no lo evitas, Dropbox podría estar compartiendo tus archivos personales con ChatGPT</a></h4>
     <a href='https://computerhoy.com/apps/no-evitas-dropbox-podria-estar-compartiendo-archivos-personales-chatgpt-1349562' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dropbox-3248471.jpg?tf=1200x' alt='Si no lo evitas, Dropbox podría estar compartiendo tus archivos personales con ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802'>Usos legales por lo que merece la pena (y mucho) comprar un Flipper Zero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/flipper-zero-3193160.jpg?tf=1200x' alt='Usos legales por lo que merece la pena (y mucho) comprar un Flipper Zero' />
     </a>
 </div>
 
