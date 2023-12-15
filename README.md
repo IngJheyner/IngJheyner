@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pedazo-monitor-34-tiene-165-hz-1440p-ahora-precio-risa-1349641'>Este pedazo de monitor de 34" tiene 165 hz, 1440p y ahora está a un precio de risa</a></h4>
-    <a href='https://computerhoy.com/pc/pedazo-monitor-34-tiene-165-hz-1440p-ahora-precio-risa-1349641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pccom-monitor-34-3248582.jpg?tf=1200x' alt='Este pedazo de monitor de 34" tiene 165 hz, 1440p y ahora está a un precio de risa' />
+    <h4><a href='https://computerhoy.com/entretenimiento/twitch-relaja-ahora-permite-estos-contenidos-adultos-1349648'>Twitch se relaja, y ahora permite estos contenidos para adultos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/twitch-relaja-ahora-permite-estos-contenidos-adultos-1349648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/twitch-relaja-ahora-permite-estos-contenidos-adultos-3248591.jpg?tf=1200x' alt='Twitch se relaja, y ahora permite estos contenidos para adultos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-acaba-grandes-problemas-privacidad-maps-aunque-hay-matices-1349655'>Google acaba con uno de los grandes problemas de privacidad y rastreo de Maps aunque hay matices</a></h4>
-    <a href='https://computerhoy.com/google/google-acaba-grandes-problemas-privacidad-maps-aunque-hay-matices-1349655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ubicacion-google-3248622.jpg?tf=1200x' alt='Google acaba con uno de los grandes problemas de privacidad y rastreo de Maps aunque hay matices' />
+    <h4><a href='https://computerhoy.com/apps/elon-musk-x-nuevo-problemas-demanda-incumplir-rgpd-ley-servicios-digitales-1349746'>Elon Musk y X de nuevo en problemas: demanda por incumplir el RGPD y la Ley de Servicios Digitales</a></h4>
+    <a href='https://computerhoy.com/apps/elon-musk-x-nuevo-problemas-demanda-incumplir-rgpd-ley-servicios-digitales-1349746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/elon-musk-x-3142784.jpg?tf=1200x' alt='Elon Musk y X de nuevo en problemas: demanda por incumplir el RGPD y la Ley de Servicios Digitales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ha-pasado-chatgpt-test-turing-no-nunca-va-hacer-porque-prueba-ya-no-sirve-1349637'>¿Ha pasado ChatGPT el Test de Turing? No y nunca lo va a hacer porque esta prueba ya no sirve por estos motivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ha-pasado-chatgpt-test-turing-no-nunca-va-hacer-porque-prueba-ya-no-sirve-1349637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-maquinas-3248578.jpg?tf=1200x' alt='¿Ha pasado ChatGPT el Test de Turing? No y nunca lo va a hacer porque esta prueba ya no sirve por estos motivos' />
+    <h4><a href='https://computerhoy.com/tecnologia/afectara-ley-ia-espana-ocurrira-chatgpt-1349701'>Así afectará la ley de IA en España: ¿Qué ocurrirá con ChatGPT?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/afectara-ley-ia-espana-ocurrira-chatgpt-1349701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chagpt-ley-ia-3248692.jpg?tf=1200x' alt='Así afectará la ley de IA en España: ¿Qué ocurrirá con ChatGPT?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desploma-precio-antivirus-top-pc-android-vpn-1348979'>Desploma su precio uno de los antivirus top para PC y Android ¡y con VPN!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desploma-precio-antivirus-top-pc-android-vpn-1348979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mcafee-total-protection-2023-3247325.jpg?tf=1200x' alt='Desploma su precio uno de los antivirus top para PC y Android ¡y con VPN!' />
+    <h4><a href='https://computerhoy.com/apple/apple-watch-ahora-permite-importar-entrenamientos-personalizados-1349670'>El Apple Watch ahora permite importar entrenamientos personalizados</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-ahora-permite-importar-entrenamientos-personalizados-1349670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-watch-ultra-3223538.jpg?tf=1200x' alt='El Apple Watch ahora permite importar entrenamientos personalizados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/famosas-maquinas-helados-mcflurry-mcdonalds-esconden-oscuro-motivo-nunca-funcionan-1349632'>Las famosas máquinas de helados McFlurry de McDonald's esconden un oscuro motivo por el que nunca funcionan</a></h4>
-    <a href='https://computerhoy.com/alimentacion/famosas-maquinas-helados-mcflurry-mcdonalds-esconden-oscuro-motivo-nunca-funcionan-1349632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/helados-mcdonalds-3248561.jpg?tf=1200x' alt='Las famosas máquinas de helados McFlurry de McDonald's esconden un oscuro motivo por el que nunca funcionan' />
+    <h4><a href='https://computerhoy.com/tecnologia/galaxy-glass-samsung-plantaran-cara-vision-pro-2024-1349678'>Los auriculares Galaxy Glass de Samsung, rivales de Vision Pro, podrían llegar a principios de 2024</a></h4>
+    <a href='https://computerhoy.com/tecnologia/galaxy-glass-samsung-plantaran-cara-vision-pro-2024-1349678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051920.jpg?tf=1200x' alt='Los auriculares Galaxy Glass de Samsung, rivales de Vision Pro, podrían llegar a principios de 2024' />
     </a>
 </div>
 
