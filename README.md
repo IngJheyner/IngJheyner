@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-te-mete-miedo-solo-compres-cargadores-oficiales-apple-watch-1349967'>Apple te mete miedo para que solo compres cargadores oficiales para el Apple Watch</a></h4>
+    <a href='https://computerhoy.com/apple/apple-te-mete-miedo-solo-compres-cargadores-oficiales-apple-watch-1349967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-series-9-3132430.jpg?tf=1200x' alt='Apple te mete miedo para que solo compres cargadores oficiales para el Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-te-ayudara-compras-navidenas-estas-tres-nuevas-funciones-1349955'>Google te ayudará con tus compras navideñas con estas tres nuevas funciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-te-ayudara-compras-navidenas-estas-tres-nuevas-funciones-1349955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/compras-google-3249140.jpg?tf=1200x' alt='Google te ayudará con tus compras navideñas con estas tres nuevas funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-apps-fotos-carnet-android-1275448'>Las mejores aplicaciones de fotos de carnet para Android</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-apps-fotos-carnet-android-1275448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/fotos-carnet-3084160.jpg?tf=1200x' alt='Las mejores aplicaciones de fotos de carnet para Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/configuracion-oculta-windows-11-te-permitira-desinstalar-algunos-componentes-ia-1349939'>Esta configuración oculta de Windows 11 te permitirá desinstalar algunos componentes de IA</a></h4>
     <a href='https://computerhoy.com/windows/configuracion-oculta-windows-11-te-permitira-desinstalar-algunos-componentes-ia-1349939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-llega-windows-ya-puedes-probar-copiloto-windows-11-3071192.jpg?tf=1200x' alt='Esta configuración oculta de Windows 11 te permitirá desinstalar algunos componentes de IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-phyton-windows-11-1348014'>Cómo instalar Phyton en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-phyton-windows-11-1348014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/instalar-phyton-windows-11-3245402.jpg?tf=1200x' alt='Cómo instalar Phyton en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-animacion-robots-1346948'>7 películas de animación con robots que son para toda la familia</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-animacion-robots-1346948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robots-3244040.jpg?tf=1200x' alt='7 películas de animación con robots que son para toda la familia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-tumba-flipper-zero-ya-no-puede-bloquear-iphone-1349908'>Apple tumba el Flipper Zero que ya no puede bloquear los iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/apple-tumba-flipper-zero-ya-no-puede-bloquear-iphone-1349908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-ignora-amenaza-flipper-zero-iphone-indiferencia-incompetencia-3236670.jpg?tf=1200x' alt='Apple tumba el Flipper Zero que ya no puede bloquear los iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/razon-personas-no-devuelven-carritos-supermercado-1347310'>La sorprendente razón por la que las personas no devuelven los carritos de supermercado</a></h4>
-    <a href='https://computerhoy.com/life/razon-personas-no-devuelven-carritos-supermercado-1347310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sorprendente-razon-personas-no-devuelven-carritos-supermercado-3244584.jpg?tf=1200x' alt='La sorprendente razón por la que las personas no devuelven los carritos de supermercado' />
     </a>
 </div>
 
