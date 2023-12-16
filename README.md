@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fabrican-mano-robotica-puede-imprimir-tan-solo-10-minutos-1350011'>Fabrican una mano robótica que se puede imprimir en tan solo 10 minutos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fabrican-mano-robotica-puede-imprimir-tan-solo-10-minutos-1350011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/fabrican-mano-robotica-puede-imprimir-tan-solo-10-minutos-3249227.jpg?tf=1200x' alt='Fabrican una mano robótica que se puede imprimir en tan solo 10 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-forma-generar-forma-automatica-documentacion-ayuda-1350005'>Microsoft piensa en una forma de generar de forma automática documentación de ayuda</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-piensa-forma-generar-forma-automatica-documentacion-ayuda-1350005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-3249217.jpg?tf=1200x' alt='Microsoft piensa en una forma de generar de forma automática documentación de ayuda' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/actualizacion-windows-11-finalmente-soluciona-molesto-fallo-explorador-archivos-1349978'>Esta actualización para Windows 11 finalmente soluciona el molesto fallo del explorador de archivos</a></h4>
     <a href='https://computerhoy.com/windows/actualizacion-windows-11-finalmente-soluciona-molesto-fallo-explorador-archivos-1349978' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2960440.jpg?tf=1200x' alt='Esta actualización para Windows 11 finalmente soluciona el molesto fallo del explorador de archivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-saber-cargador-movil-danado-1349010'>Cómo saber si el cargador de tu móvil está dañado</a></h4>
-    <a href='https://computerhoy.com/moviles/como-saber-cargador-movil-danado-1349010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-cargador-movil-danado-3247355.jpg?tf=1200x' alt='Cómo saber si el cargador de tu móvil está dañado' />
     </a>
 </div>
 
