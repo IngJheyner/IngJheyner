@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-va-garmin-apple-reloj-deportivo-top-hunde-precio-forma-temporal-1349100'>Huawei va a por Garmin y Apple: su reloj deportivo más top hunde su precio de forma temporal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-va-garmin-apple-reloj-deportivo-top-hunde-precio-forma-temporal-1349100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-huawei-watch-gt-3-pro-2705113.jpg?tf=1200x' alt='Huawei va a por Garmin y Apple: su reloj deportivo más top hunde su precio de forma temporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/peor-cancion-historia-ciencia-eres-capaz-soportarla-1349865'>Esta es la peor canción de la historia según la ciencia: ¿eres capaz de soportarla?</a></h4>
+    <a href='https://computerhoy.com/life/peor-cancion-historia-ciencia-eres-capaz-soportarla-1349865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/musica-desagradable-3248928.jpg?tf=1200x' alt='Esta es la peor canción de la historia según la ciencia: ¿eres capaz de soportarla?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/2024-tiene-excelente-noticia-amantes-radio-espana-ya-era-hora-1349864'>2024 tiene una excelente noticia para los amantes de la radio en España, y ya era hora</a></h4>
+    <a href='https://computerhoy.com/tecnologia/2024-tiene-excelente-noticia-amantes-radio-espana-ya-era-hora-1349864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/radio-clasica-3248924.jpg?tf=1200x' alt='2024 tiene una excelente noticia para los amantes de la radio en España, y ya era hora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-movil-android-actualizado-ultima-version-1349172'>Así puedes saber en segundos si tu móvil Android está actualizado con la última versión del sistema</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-movil-android-actualizado-ultima-version-1349172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-saber-segundos-movil-android-actualizado-ultima-version-sistema-3247767.jpg?tf=1200x' alt='Así puedes saber en segundos si tu móvil Android está actualizado con la última versión del sistema' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/hereda-coche-abuelo-descubre-olvidado-apple-clio-1349797'>Hereda un viejo Renault Clio y descubre que es el único, y olvidado, modelo de Apple Car</a></h4>
     <a href='https://computerhoy.com/motor/hereda-coche-abuelo-descubre-olvidado-apple-clio-1349797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hereda-clio-descubre-unico-olvidado-modelo-apple-car-3248831.jpg?tf=1200x' alt='Hereda un viejo Renault Clio y descubre que es el único, y olvidado, modelo de Apple Car' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-poster-mapa-calles-cualquier-ciudad-1348930'>Cómo crear gratis un póster con el mapa de las calles de cualquier ciudad del mundo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-poster-mapa-calles-cualquier-ciudad-1348930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-crear-gratis-poster-mapa-calles-cualquier-ciudad-mundo-3247252.jpg?tf=1200x' alt='Cómo crear gratis un póster con el mapa de las calles de cualquier ciudad del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/costumbre-muy-espanola-aumenta-28-riesgo-derrame-cerebral-1349788'>Un estudio pone en peligro una las costumbres culinarias más españolas: “aumenta el riesgo de derrame cerebral en un 28%"</a></h4>
-    <a href='https://computerhoy.com/life/costumbre-muy-espanola-aumenta-28-riesgo-derrame-cerebral-1349788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cena-terraza-espana-3248818.jpg?tf=1200x' alt='Un estudio pone en peligro una las costumbres culinarias más españolas: “aumenta el riesgo de derrame cerebral en un 28%"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-apps-ahorrar-datos-moviles-1349333'>Estas son las mejores apps para ahorrar en datos móviles</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-apps-ahorrar-datos-moviles-1349333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estas-son-mejores-apps-ahorrar-datos-moviles-3248000.jpg?tf=1200x' alt='Estas son las mejores apps para ahorrar en datos móviles' />
     </a>
 </div>
 
