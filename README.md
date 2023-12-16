@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/configuracion-oculta-windows-11-te-permitira-desinstalar-algunos-componentes-ia-1349939'>Esta configuración oculta de Windows 11 te permitirá desinstalar algunos componentes de IA</a></h4>
+    <a href='https://computerhoy.com/windows/configuracion-oculta-windows-11-te-permitira-desinstalar-algunos-componentes-ia-1349939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-llega-windows-ya-puedes-probar-copiloto-windows-11-3071192.jpg?tf=1200x' alt='Esta configuración oculta de Windows 11 te permitirá desinstalar algunos componentes de IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-phyton-windows-11-1348014'>Cómo instalar Phyton en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-phyton-windows-11-1348014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/instalar-phyton-windows-11-3245402.jpg?tf=1200x' alt='Cómo instalar Phyton en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-animacion-robots-1346948'>7 películas de animación con robots que son para toda la familia</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-animacion-robots-1346948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robots-3244040.jpg?tf=1200x' alt='7 películas de animación con robots que son para toda la familia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-tumba-flipper-zero-ya-no-puede-bloquear-iphone-1349908'>Apple tumba el Flipper Zero que ya no puede bloquear los iPhone</a></h4>
     <a href='https://computerhoy.com/apple/apple-tumba-flipper-zero-ya-no-puede-bloquear-iphone-1349908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-ignora-amenaza-flipper-zero-iphone-indiferencia-incompetencia-3236670.jpg?tf=1200x' alt='Apple tumba el Flipper Zero que ya no puede bloquear los iPhone' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/razon-personas-no-devuelven-carritos-supermercado-1347310'>La sorprendente razón por la que las personas no devuelven los carritos de supermercado</a></h4>
     <a href='https://computerhoy.com/life/razon-personas-no-devuelven-carritos-supermercado-1347310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sorprendente-razon-personas-no-devuelven-carritos-supermercado-3244584.jpg?tf=1200x' alt='La sorprendente razón por la que las personas no devuelven los carritos de supermercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-potentisimo-movil-oneplus-12gb-ram-barato-black-friday-1349420'>Amazon está liquidando un potentísimo móvil OnePlus 12GB de RAM más barato que en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-potentisimo-movil-oneplus-12gb-ram-barato-black-friday-1349420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-2273857.jpg?tf=1200x' alt='Amazon está liquidando un potentísimo móvil OnePlus 12GB de RAM más barato que en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cada-cuanto-deberias-borrar-historial-google-cookies-movil-1348300'>¿Cada cuanto deberías borrar el historial de Google y limpiar las cookies de tu móvil u ordenador?</a></h4>
-    <a href='https://computerhoy.com/internet/cada-cuanto-deberias-borrar-historial-google-cookies-movil-1348300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/historial-google-cookies-3248418.jpg?tf=1200x' alt='¿Cada cuanto deberías borrar el historial de Google y limpiar las cookies de tu móvil u ordenador?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/trabajos-infelicidad-causan-harvard-1348182'>Estos son los 5 trabajos que más infelicidad causan, según Harvard</a></h4>
-    <a href='https://computerhoy.com/ciencia/trabajos-infelicidad-causan-harvard-1348182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estos-son-5-trabajos-infelicidad-causan-harvard-3245880.jpg?tf=1200x' alt='Estos son los 5 trabajos que más infelicidad causan, según Harvard' />
     </a>
 </div>
 
