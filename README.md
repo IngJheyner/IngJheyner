@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-tamagotchi-hackers-polemica-1335004'>Flipper Zero, el Tamagotchi de los hackers, desata la polémica, ¿debería prohibirse o se está exagerando?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-tamagotchi-hackers-polemica-1335004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-3248609.jpg?tf=1200x' alt='Flipper Zero, el Tamagotchi de los hackers, desata la polémica, ¿debería prohibirse o se está exagerando?' />
+    <h4><a href='https://computerhoy.com/apple/apple-tumba-flipper-zero-ya-no-puede-bloquear-iphone-1349908'>Apple tumba el Flipper Zero que ya no puede bloquear los iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/apple-tumba-flipper-zero-ya-no-puede-bloquear-iphone-1349908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-ignora-amenaza-flipper-zero-iphone-indiferencia-incompetencia-3236670.jpg?tf=1200x' alt='Apple tumba el Flipper Zero que ya no puede bloquear los iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cenas-navidad-mirar-movil-1348222'>En las cenas de Navidad, ¿está bien mirar el móvil?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cenas-navidad-mirar-movil-1348222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/foto-plato-comida-3245962.jpg?tf=1200x' alt='En las cenas de Navidad, ¿está bien mirar el móvil?' />
+    <h4><a href='https://computerhoy.com/life/razon-personas-no-devuelven-carritos-supermercado-1347310'>La sorprendente razón por la que las personas no devuelven los carritos de supermercado</a></h4>
+    <a href='https://computerhoy.com/life/razon-personas-no-devuelven-carritos-supermercado-1347310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sorprendente-razon-personas-no-devuelven-carritos-supermercado-3244584.jpg?tf=1200x' alt='La sorprendente razón por la que las personas no devuelven los carritos de supermercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pruebo-metodo-puntos-steve-jobs-chatgpt-disenos-son-geniales-1348652'>He pedido a ChatGPT que utilice el método de puntos de Steve Jobs y los inventos que ha generado son fascinantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pruebo-metodo-puntos-steve-jobs-chatgpt-disenos-son-geniales-1348652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/he-pedido-chatgpt-utilice-metodo-puntos-steve-jobs-inventos-ha-generado-son-fascinantes-3247419.jpg?tf=1200x' alt='He pedido a ChatGPT que utilice el método de puntos de Steve Jobs y los inventos que ha generado son fascinantes' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-potentisimo-movil-oneplus-12gb-ram-barato-black-friday-1349420'>Amazon está liquidando un potentísimo móvil OnePlus 12GB de RAM más barato que en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-potentisimo-movil-oneplus-12gb-ram-barato-black-friday-1349420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/oneplus-9-pro-2273857.jpg?tf=1200x' alt='Amazon está liquidando un potentísimo móvil OnePlus 12GB de RAM más barato que en el Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/lenovo-smart-paper-3248573.jpg?tf=1200x' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
+    <h4><a href='https://computerhoy.com/internet/cada-cuanto-deberias-borrar-historial-google-cookies-movil-1348300'>¿Cada cuanto deberías borrar el historial de Google y limpiar las cookies de tu móvil u ordenador?</a></h4>
+    <a href='https://computerhoy.com/internet/cada-cuanto-deberias-borrar-historial-google-cookies-movil-1348300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/historial-google-cookies-3248418.jpg?tf=1200x' alt='¿Cada cuanto deberías borrar el historial de Google y limpiar las cookies de tu móvil u ordenador?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/he-hecho-reyes-mi-casa-me-he-ahorrado-120-euros-1349342'>Este año no voy a ninguna tienda física: he hecho los Reyes desde mi casa y me he ahorrado un total de 125 euros</a></h4>
-    <a href='https://computerhoy.com/internet/he-hecho-reyes-mi-casa-me-he-ahorrado-120-euros-1349342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/regalos-reyes-3248100.jpg?tf=1200x' alt='Este año no voy a ninguna tienda física: he hecho los Reyes desde mi casa y me he ahorrado un total de 125 euros' />
+    <h4><a href='https://computerhoy.com/ciencia/trabajos-infelicidad-causan-harvard-1348182'>Estos son los 5 trabajos que más infelicidad causan, según Harvard</a></h4>
+    <a href='https://computerhoy.com/ciencia/trabajos-infelicidad-causan-harvard-1348182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estos-son-5-trabajos-infelicidad-causan-harvard-3245880.jpg?tf=1200x' alt='Estos son los 5 trabajos que más infelicidad causan, según Harvard' />
     </a>
 </div>
 
