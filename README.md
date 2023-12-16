@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-va-garmin-apple-reloj-deportivo-top-hunde-precio-forma-temporal-1349100'>Huawei va a por Garmin y Apple: su reloj deportivo más top hunde su precio de forma temporal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-va-garmin-apple-reloj-deportivo-top-hunde-precio-forma-temporal-1349100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-huawei-watch-gt-3-pro-2705113.jpg?tf=1200x' alt='Huawei va a por Garmin y Apple: su reloj deportivo más top hunde su precio de forma temporal' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-tamagotchi-hackers-polemica-1335004'>Flipper Zero, el Tamagotchi de los hackers, desata la polémica, ¿debería prohibirse o se está exagerando?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-tamagotchi-hackers-polemica-1335004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-3248609.jpg?tf=1200x' alt='Flipper Zero, el Tamagotchi de los hackers, desata la polémica, ¿debería prohibirse o se está exagerando?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/peor-cancion-historia-ciencia-eres-capaz-soportarla-1349865'>Esta es la peor canción de la historia según la ciencia: ¿eres capaz de soportarla?</a></h4>
-    <a href='https://computerhoy.com/life/peor-cancion-historia-ciencia-eres-capaz-soportarla-1349865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/musica-desagradable-3248928.jpg?tf=1200x' alt='Esta es la peor canción de la historia según la ciencia: ¿eres capaz de soportarla?' />
+    <h4><a href='https://computerhoy.com/tecnologia/cenas-navidad-mirar-movil-1348222'>En las cenas de Navidad, ¿está bien mirar el móvil?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cenas-navidad-mirar-movil-1348222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/foto-plato-comida-3245962.jpg?tf=1200x' alt='En las cenas de Navidad, ¿está bien mirar el móvil?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/2024-tiene-excelente-noticia-amantes-radio-espana-ya-era-hora-1349864'>2024 tiene una excelente noticia para los amantes de la radio en España, y ya era hora</a></h4>
-    <a href='https://computerhoy.com/tecnologia/2024-tiene-excelente-noticia-amantes-radio-espana-ya-era-hora-1349864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/radio-clasica-3248924.jpg?tf=1200x' alt='2024 tiene una excelente noticia para los amantes de la radio en España, y ya era hora' />
+    <h4><a href='https://computerhoy.com/tecnologia/pruebo-metodo-puntos-steve-jobs-chatgpt-disenos-son-geniales-1348652'>He pedido a ChatGPT que utilice el método de puntos de Steve Jobs y los inventos que ha generado son fascinantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pruebo-metodo-puntos-steve-jobs-chatgpt-disenos-son-geniales-1348652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/he-pedido-chatgpt-utilice-metodo-puntos-steve-jobs-inventos-ha-generado-son-fascinantes-3247419.jpg?tf=1200x' alt='He pedido a ChatGPT que utilice el método de puntos de Steve Jobs y los inventos que ha generado son fascinantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-movil-android-actualizado-ultima-version-1349172'>Así puedes saber en segundos si tu móvil Android está actualizado con la última versión del sistema</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-movil-android-actualizado-ultima-version-1349172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-saber-segundos-movil-android-actualizado-ultima-version-sistema-3247767.jpg?tf=1200x' alt='Así puedes saber en segundos si tu móvil Android está actualizado con la última versión del sistema' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/lenovo-smart-paper-3248573.jpg?tf=1200x' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/hereda-coche-abuelo-descubre-olvidado-apple-clio-1349797'>Hereda un viejo Renault Clio y descubre que es el único, y olvidado, modelo de Apple Car</a></h4>
-    <a href='https://computerhoy.com/motor/hereda-coche-abuelo-descubre-olvidado-apple-clio-1349797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hereda-clio-descubre-unico-olvidado-modelo-apple-car-3248831.jpg?tf=1200x' alt='Hereda un viejo Renault Clio y descubre que es el único, y olvidado, modelo de Apple Car' />
+    <h4><a href='https://computerhoy.com/internet/he-hecho-reyes-mi-casa-me-he-ahorrado-120-euros-1349342'>Este año no voy a ninguna tienda física: he hecho los Reyes desde mi casa y me he ahorrado un total de 125 euros</a></h4>
+    <a href='https://computerhoy.com/internet/he-hecho-reyes-mi-casa-me-he-ahorrado-120-euros-1349342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/regalos-reyes-3248100.jpg?tf=1200x' alt='Este año no voy a ninguna tienda física: he hecho los Reyes desde mi casa y me he ahorrado un total de 125 euros' />
     </a>
 </div>
 
