@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-te-mete-miedo-solo-compres-cargadores-oficiales-apple-watch-1349967'>Apple te mete miedo para que solo compres cargadores oficiales para el Apple Watch</a></h4>
-    <a href='https://computerhoy.com/apple/apple-te-mete-miedo-solo-compres-cargadores-oficiales-apple-watch-1349967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-series-9-3132430.jpg?tf=1200x' alt='Apple te mete miedo para que solo compres cargadores oficiales para el Apple Watch' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-forma-generar-forma-automatica-documentacion-ayuda-1350005'>Microsoft piensa en una forma de generar de forma automática documentación de ayuda</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-forma-generar-forma-automatica-documentacion-ayuda-1350005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-3249217.jpg?tf=1200x' alt='Microsoft piensa en una forma de generar de forma automática documentación de ayuda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-te-ayudara-compras-navidenas-estas-tres-nuevas-funciones-1349955'>Google te ayudará con tus compras navideñas con estas tres nuevas funciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-te-ayudara-compras-navidenas-estas-tres-nuevas-funciones-1349955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/compras-google-3249140.jpg?tf=1200x' alt='Google te ayudará con tus compras navideñas con estas tres nuevas funciones' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-ya-te-permite-verificar-estado-conexion-videollamadas-funciona-1350002'>WhatsApp ya te permite verificar el estado de la conexión para las videollamadas, y así funciona</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-ya-te-permite-verificar-estado-conexion-videollamadas-funciona-1350002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-3249213.jpg?tf=1200x' alt='WhatsApp ya te permite verificar el estado de la conexión para las videollamadas, y así funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-apps-fotos-carnet-android-1275448'>Las mejores aplicaciones de fotos de carnet para Android</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-apps-fotos-carnet-android-1275448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/fotos-carnet-3084160.jpg?tf=1200x' alt='Las mejores aplicaciones de fotos de carnet para Android' />
+    <h4><a href='https://computerhoy.com/android/mando-mejor-hay-convertir-movil-consola-1349994'>Este mando es el mejor que hay para convertir tu móvil en una consola</a></h4>
+    <a href='https://computerhoy.com/android/mando-mejor-hay-convertir-movil-consola-1349994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/galileo-x8-3249195.jpg?tf=1200x' alt='Este mando es el mejor que hay para convertir tu móvil en una consola' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/configuracion-oculta-windows-11-te-permitira-desinstalar-algunos-componentes-ia-1349939'>Esta configuración oculta de Windows 11 te permitirá desinstalar algunos componentes de IA</a></h4>
-    <a href='https://computerhoy.com/windows/configuracion-oculta-windows-11-te-permitira-desinstalar-algunos-componentes-ia-1349939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-llega-windows-ya-puedes-probar-copiloto-windows-11-3071192.jpg?tf=1200x' alt='Esta configuración oculta de Windows 11 te permitirá desinstalar algunos componentes de IA' />
+    <h4><a href='https://computerhoy.com/windows/actualizacion-windows-11-finalmente-soluciona-molesto-fallo-explorador-archivos-1349978'>Esta actualización para Windows 11 finalmente soluciona el molesto fallo del explorador de archivos</a></h4>
+    <a href='https://computerhoy.com/windows/actualizacion-windows-11-finalmente-soluciona-molesto-fallo-explorador-archivos-1349978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2960440.jpg?tf=1200x' alt='Esta actualización para Windows 11 finalmente soluciona el molesto fallo del explorador de archivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-phyton-windows-11-1348014'>Cómo instalar Phyton en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-phyton-windows-11-1348014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/instalar-phyton-windows-11-3245402.jpg?tf=1200x' alt='Cómo instalar Phyton en Windows 11' />
+    <h4><a href='https://computerhoy.com/moviles/como-saber-cargador-movil-danado-1349010'>Cómo saber si el cargador de tu móvil está dañado</a></h4>
+    <a href='https://computerhoy.com/moviles/como-saber-cargador-movil-danado-1349010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-cargador-movil-danado-3247355.jpg?tf=1200x' alt='Cómo saber si el cargador de tu móvil está dañado' />
     </a>
 </div>
 
