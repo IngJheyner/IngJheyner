@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-contrasena-mi-wifi-1349341'>Cómo saber la contraseña de mi WiFi en Windows, Android y iPhone iOS</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-contrasena-mi-wifi-1349341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/contrasena-wifi-2810923.jpg?tf=1200x' alt='Cómo saber la contraseña de mi WiFi en Windows, Android y iPhone iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estas-son-5-aplicaciones-mejoraran-fotos-navidad-1349060'>Estas son las 5 aplicaciones que mejorarán tus fotos en Navidad</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-5-aplicaciones-mejoraran-fotos-navidad-1349060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estas-son-5-aplicaciones-mejoraran-fotos-navidad-3247496.jpg?tf=1200x' alt='Estas son las 5 aplicaciones que mejorarán tus fotos en Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-quiere-te-salga-barato-suscribirte-aplicaciones-app-store-1350079'>Apple quiere que te salga más barato suscribirte a las aplicaciones en la App Store</a></h4>
+    <a href='https://computerhoy.com/apple/apple-quiere-te-salga-barato-suscribirte-aplicaciones-app-store-1350079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/app-store-2818455.jpg?tf=1200x' alt='Apple quiere que te salga más barato suscribirte a las aplicaciones en la App Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/crean-perro-robot-rasgos-caricaturescos-hacerte-compania-1350056'>Crean un perro robot con rasgos caricaturescos para hacerte compañía</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-perro-robot-rasgos-caricaturescos-hacerte-compania-1350056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/babyalpha-3249272.jpg?tf=1200x' alt='Crean un perro robot con rasgos caricaturescos para hacerte compañía' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/empresa-compra-cuatro-plantas-energia-completas-solo-extraer-bitcoin-1350053'>Esta empresa compra cuatro plantas de energía completas solo para extraer Bitcoin</a></h4>
     <a href='https://computerhoy.com/criptos/empresa-compra-cuatro-plantas-energia-completas-solo-extraer-bitcoin-1350053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/empresa-compra-cuatro-plantas-energia-completas-solo-extraer-bitcoin-3249267.jpg?tf=1200x' alt='Esta empresa compra cuatro plantas de energía completas solo para extraer Bitcoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-ia-tan-buena-como-medicos-analizando-radiografias-torax-1350050'>Crean una IA que es tan buena como los médicos analizando radiografías de tórax</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-ia-tan-buena-como-medicos-analizando-radiografias-torax-1350050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/radiografia-torax-3249266.jpg?tf=1200x' alt='Crean una IA que es tan buena como los médicos analizando radiografías de tórax' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-producidas-netflix-1349548'>Las 7 películas más importantes producidas por Netflix: de El irlandés a La sociedad de la nieve</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-producidas-netflix-1349548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/irlandes-2434869.jpg?tf=1200x' alt='Las 7 películas más importantes producidas por Netflix: de El irlandés a La sociedad de la nieve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llegan-permisos-solo-uso-google-chrome-puedes-activarlos-1350045'>Llegan los permisos de un solo uso a Google Chrome y así puedes activarlos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llegan-permisos-solo-uso-google-chrome-puedes-activarlos-1350045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/privacidad-chrome-3203240.jpg?tf=1200x' alt='Llegan los permisos de un solo uso a Google Chrome y así puedes activarlos' />
     </a>
 </div>
 
