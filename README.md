@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fabrican-mano-robotica-puede-imprimir-tan-solo-10-minutos-1350011'>Fabrican una mano robótica que se puede imprimir en tan solo 10 minutos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fabrican-mano-robotica-puede-imprimir-tan-solo-10-minutos-1350011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/fabrican-mano-robotica-puede-imprimir-tan-solo-10-minutos-3249227.jpg?tf=1200x' alt='Fabrican una mano robótica que se puede imprimir en tan solo 10 minutos' />
+    <h4><a href='https://computerhoy.com/tutoriales/whatsapp-como-ocultar-estas-escribiendo-contacto-1349672'>WhatsApp: cómo ocultar que estás “escribiendo” a tu contacto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/whatsapp-como-ocultar-estas-escribiendo-contacto-1349672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/whatsapp-puedes-ocultar-contacto-bloquearlo-3215586.jpg?tf=1200x' alt='WhatsApp: cómo ocultar que estás “escribiendo” a tu contacto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-forma-generar-forma-automatica-documentacion-ayuda-1350005'>Microsoft piensa en una forma de generar de forma automática documentación de ayuda</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-forma-generar-forma-automatica-documentacion-ayuda-1350005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-3249217.jpg?tf=1200x' alt='Microsoft piensa en una forma de generar de forma automática documentación de ayuda' />
+    <h4><a href='https://computerhoy.com/tecnologia/perro-robot-ha-marcado-nuevo-record-velocidad-1350003'>Este perro robot ha marcado un nuevo récord de velocidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/perro-robot-ha-marcado-nuevo-record-velocidad-1350003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hound-3249214.jpg?tf=1200x' alt='Este perro robot ha marcado un nuevo récord de velocidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-ya-te-permite-verificar-estado-conexion-videollamadas-funciona-1350002'>WhatsApp ya te permite verificar el estado de la conexión para las videollamadas, y así funciona</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-ya-te-permite-verificar-estado-conexion-videollamadas-funciona-1350002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-3249213.jpg?tf=1200x' alt='WhatsApp ya te permite verificar el estado de la conexión para las videollamadas, y así funciona' />
+    <h4><a href='https://computerhoy.com/tecnologia/gpt-motivo-existan-herramientas-ia-como-chatgpt-1344800'>¿Qué es GPT y por qué es el motivo de que existan herramientas de IA como ChatGPT?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gpt-motivo-existan-herramientas-ia-como-chatgpt-1344800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/verticalimage1702631662485-3248589.jpg?tf=1200x' alt='¿Qué es GPT y por qué es el motivo de que existan herramientas de IA como ChatGPT?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/mando-mejor-hay-convertir-movil-consola-1349994'>Este mando es el mejor que hay para convertir tu móvil en una consola</a></h4>
-    <a href='https://computerhoy.com/android/mando-mejor-hay-convertir-movil-consola-1349994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/galileo-x8-3249195.jpg?tf=1200x' alt='Este mando es el mejor que hay para convertir tu móvil en una consola' />
+    <h4><a href='https://computerhoy.com/life/7-opciones-menus-navidad-preparados-puedes-comprar-online-1349526'>No voy a tocar una sartén en Navidad y seré el mejor chef: 7 menús preparados que puedes comprar online </a></h4>
+    <a href='https://computerhoy.com/life/7-opciones-menus-navidad-preparados-puedes-comprar-online-1349526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/menus-navidad-quedar-como-mejor-chef-3248789.jpg?tf=1200x' alt='No voy a tocar una sartén en Navidad y seré el mejor chef: 7 menús preparados que puedes comprar online ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/actualizacion-windows-11-finalmente-soluciona-molesto-fallo-explorador-archivos-1349978'>Esta actualización para Windows 11 finalmente soluciona el molesto fallo del explorador de archivos</a></h4>
-    <a href='https://computerhoy.com/windows/actualizacion-windows-11-finalmente-soluciona-molesto-fallo-explorador-archivos-1349978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2960440.jpg?tf=1200x' alt='Esta actualización para Windows 11 finalmente soluciona el molesto fallo del explorador de archivos' />
+    <h4><a href='https://computerhoy.com/life/fuegos-artificiales-final-ano-pueden-afectar-aves-incluso-10-km-distancia-1350009'>Los fuegos artificiales de final de año pueden afectar a las aves, incluso a 10 km de distancia</a></h4>
+    <a href='https://computerhoy.com/life/fuegos-artificiales-final-ano-pueden-afectar-aves-incluso-10-km-distancia-1350009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/fuegos-artificiales-aves-3249220.jpg?tf=1200x' alt='Los fuegos artificiales de final de año pueden afectar a las aves, incluso a 10 km de distancia' />
     </a>
 </div>
 
