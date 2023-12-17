@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/whatsapp-como-ocultar-estas-escribiendo-contacto-1349672'>WhatsApp: cómo ocultar que estás “escribiendo” a tu contacto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/whatsapp-como-ocultar-estas-escribiendo-contacto-1349672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/whatsapp-puedes-ocultar-contacto-bloquearlo-3215586.jpg?tf=1200x' alt='WhatsApp: cómo ocultar que estás “escribiendo” a tu contacto' />
+    <h4><a href='https://computerhoy.com/tecnologia/llegan-permisos-solo-uso-google-chrome-puedes-activarlos-1350045'>Llegan los permisos de un solo uso a Google Chrome y así puedes activarlos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/llegan-permisos-solo-uso-google-chrome-puedes-activarlos-1350045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/privacidad-chrome-3203240.jpg?tf=1200x' alt='Llegan los permisos de un solo uso a Google Chrome y así puedes activarlos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/perro-robot-ha-marcado-nuevo-record-velocidad-1350003'>Este perro robot ha marcado un nuevo récord de velocidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/perro-robot-ha-marcado-nuevo-record-velocidad-1350003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hound-3249214.jpg?tf=1200x' alt='Este perro robot ha marcado un nuevo récord de velocidad' />
+    <h4><a href='https://computerhoy.com/alimentacion/bateria-solar-1500w-potencia-pone-aliexpress-patas-arriba-precio-1350037'>Esta batería compatible con panel solar y capaz de alimentar cualquier cosa pone AliExpress patas arriba por su precio</a></h4>
+    <a href='https://computerhoy.com/alimentacion/bateria-solar-1500w-potencia-pone-aliexpress-patas-arriba-precio-1350037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bateria-solar-romoss-3249254.jpg?tf=1200x' alt='Esta batería compatible con panel solar y capaz de alimentar cualquier cosa pone AliExpress patas arriba por su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gpt-motivo-existan-herramientas-ia-como-chatgpt-1344800'>¿Qué es GPT y por qué es el motivo de que existan herramientas de IA como ChatGPT?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gpt-motivo-existan-herramientas-ia-como-chatgpt-1344800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/verticalimage1702631662485-3248589.jpg?tf=1200x' alt='¿Qué es GPT y por qué es el motivo de que existan herramientas de IA como ChatGPT?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/proxy-vpn-tor-diferencias-cual-usar-funcion-preferencias-1341448'>Proxy, VPN, Tor: diferencias y cuál usar en función de tus preferencias</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/proxy-vpn-tor-diferencias-cual-usar-funcion-preferencias-1341448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vpn-proxy-tor-3240740.jpg?tf=1200x' alt='Proxy, VPN, Tor: diferencias y cuál usar en función de tus preferencias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/7-opciones-menus-navidad-preparados-puedes-comprar-online-1349526'>No voy a tocar una sartén en Navidad y seré el mejor chef: 7 menús preparados que puedes comprar online </a></h4>
-    <a href='https://computerhoy.com/life/7-opciones-menus-navidad-preparados-puedes-comprar-online-1349526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/menus-navidad-quedar-como-mejor-chef-3248789.jpg?tf=1200x' alt='No voy a tocar una sartén en Navidad y seré el mejor chef: 7 menús preparados que puedes comprar online ' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/onlyfans-lado-oscuro-1345538'>OnlyFans triunfa épicamente en España, pero esconde un lado oscuro que deberías conocer</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/onlyfans-lado-oscuro-1345538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/onlyfans-2659275.jpg?tf=1200x' alt='OnlyFans triunfa épicamente en España, pero esconde un lado oscuro que deberías conocer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fuegos-artificiales-final-ano-pueden-afectar-aves-incluso-10-km-distancia-1350009'>Los fuegos artificiales de final de año pueden afectar a las aves, incluso a 10 km de distancia</a></h4>
-    <a href='https://computerhoy.com/life/fuegos-artificiales-final-ano-pueden-afectar-aves-incluso-10-km-distancia-1350009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/fuegos-artificiales-aves-3249220.jpg?tf=1200x' alt='Los fuegos artificiales de final de año pueden afectar a las aves, incluso a 10 km de distancia' />
+    <h4><a href='https://computerhoy.com/apps/app-inteligencia-artificial-chatbot-salud-mental-1344334'>He probado una app que usa la inteligencia artificial y un chatbot para mejorar tu salud mental y me encanta</a></h4>
+    <a href='https://computerhoy.com/apps/app-inteligencia-artificial-chatbot-salud-mental-1344334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/app-chatbot-ia-salud-3238556.jpg?tf=1200x' alt='He probado una app que usa la inteligencia artificial y un chatbot para mejorar tu salud mental y me encanta' />
     </a>
 </div>
 
