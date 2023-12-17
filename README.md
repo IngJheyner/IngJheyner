@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-perro-robot-rasgos-caricaturescos-hacerte-compania-1350056'>Crean un perro robot con rasgos caricaturescos para hacerte compañía</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-perro-robot-rasgos-caricaturescos-hacerte-compania-1350056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/babyalpha-3249272.jpg?tf=1200x' alt='Crean un perro robot con rasgos caricaturescos para hacerte compañía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/empresa-compra-cuatro-plantas-energia-completas-solo-extraer-bitcoin-1350053'>Esta empresa compra cuatro plantas de energía completas solo para extraer Bitcoin</a></h4>
+    <a href='https://computerhoy.com/criptos/empresa-compra-cuatro-plantas-energia-completas-solo-extraer-bitcoin-1350053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/empresa-compra-cuatro-plantas-energia-completas-solo-extraer-bitcoin-3249267.jpg?tf=1200x' alt='Esta empresa compra cuatro plantas de energía completas solo para extraer Bitcoin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-ia-tan-buena-como-medicos-analizando-radiografias-torax-1350050'>Crean una IA que es tan buena como los médicos analizando radiografías de tórax</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-ia-tan-buena-como-medicos-analizando-radiografias-torax-1350050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/radiografia-torax-3249266.jpg?tf=1200x' alt='Crean una IA que es tan buena como los médicos analizando radiografías de tórax' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-producidas-netflix-1349548'>Las 7 películas más importantes producidas por Netflix: de El irlandés a La sociedad de la nieve</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-producidas-netflix-1349548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/irlandes-2434869.jpg?tf=1200x' alt='Las 7 películas más importantes producidas por Netflix: de El irlandés a La sociedad de la nieve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/llegan-permisos-solo-uso-google-chrome-puedes-activarlos-1350045'>Llegan los permisos de un solo uso a Google Chrome y así puedes activarlos</a></h4>
     <a href='https://computerhoy.com/tecnologia/llegan-permisos-solo-uso-google-chrome-puedes-activarlos-1350045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/privacidad-chrome-3203240.jpg?tf=1200x' alt='Llegan los permisos de un solo uso a Google Chrome y así puedes activarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/bateria-solar-1500w-potencia-pone-aliexpress-patas-arriba-precio-1350037'>Esta batería compatible con panel solar y capaz de alimentar cualquier cosa pone AliExpress patas arriba por su precio</a></h4>
-    <a href='https://computerhoy.com/alimentacion/bateria-solar-1500w-potencia-pone-aliexpress-patas-arriba-precio-1350037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bateria-solar-romoss-3249254.jpg?tf=1200x' alt='Esta batería compatible con panel solar y capaz de alimentar cualquier cosa pone AliExpress patas arriba por su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/proxy-vpn-tor-diferencias-cual-usar-funcion-preferencias-1341448'>Proxy, VPN, Tor: diferencias y cuál usar en función de tus preferencias</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/proxy-vpn-tor-diferencias-cual-usar-funcion-preferencias-1341448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vpn-proxy-tor-3240740.jpg?tf=1200x' alt='Proxy, VPN, Tor: diferencias y cuál usar en función de tus preferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/onlyfans-lado-oscuro-1345538'>OnlyFans triunfa épicamente en España, pero esconde un lado oscuro que deberías conocer</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/onlyfans-lado-oscuro-1345538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/onlyfans-2659275.jpg?tf=1200x' alt='OnlyFans triunfa épicamente en España, pero esconde un lado oscuro que deberías conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-inteligencia-artificial-chatbot-salud-mental-1344334'>He probado una app que usa la inteligencia artificial y un chatbot para mejorar tu salud mental y me encanta</a></h4>
-    <a href='https://computerhoy.com/apps/app-inteligencia-artificial-chatbot-salud-mental-1344334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/app-chatbot-ia-salud-3238556.jpg?tf=1200x' alt='He probado una app que usa la inteligencia artificial y un chatbot para mejorar tu salud mental y me encanta' />
     </a>
 </div>
 
