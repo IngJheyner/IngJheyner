@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/amigo-invisible-whatsapp-1348306'>Amigo invisible por WhatsApp: cómo hacer el sorteo y enviar los mensajes secretos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/amigo-invisible-whatsapp-1348306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amigo-invisible-whatsapp-como-hacer-sorteo-enviar-mensajes-secretos-3246142.jpg?tf=1200x' alt='Amigo invisible por WhatsApp: cómo hacer el sorteo y enviar los mensajes secretos' />
+    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-caravan-1348742'>Equivalencias de los perfumes y colonias de Caravan</a></h4>
+    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-caravan-1348742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/equivalencias-perfumes-colonias-caravan-3246992.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Caravan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-usar-chatgpt-generar-ideas-originales-divertidas-navidad-1349090'>Cómo usar ChatGPT para generar ideas originales y divertidas para Navidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-usar-chatgpt-generar-ideas-originales-divertidas-navidad-1349090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-usar-chatgpt-generar-ideas-originales-divertidas-navidad-3247608.jpg?tf=1200x' alt='Cómo usar ChatGPT para generar ideas originales y divertidas para Navidad' />
+    <h4><a href='https://computerhoy.com/hogar/thermomix-tiene-rival-cuesta-menos-xiaomi-robot-cocina-low-cost-tiene-todo-quieres-1350333'>Thermomix tiene rival y cuesta menos que el de Xiaomi: este robot de cocina low cost tiene todo lo que quieres</a></h4>
+    <a href='https://computerhoy.com/hogar/thermomix-tiene-rival-cuesta-menos-xiaomi-robot-cocina-low-cost-tiene-todo-quieres-1350333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cecotec-mambo-10070-3214772.jpg?tf=1200x' alt='Thermomix tiene rival y cuesta menos que el de Xiaomi: este robot de cocina low cost tiene todo lo que quieres' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/nubia-redmagic-9-pro-analisis-opinion-1349439'>He probado el Redmagic 9 Pro, un móvil gaming con Snapdragon 8 Gen 3 y un diseño muy peculiar</a></h4>
-    <a href='https://computerhoy.com/analisis/nubia-redmagic-9-pro-analisis-opinion-1349439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/redmagic-9-pro-analisis-opinion-3248705.jpg?tf=1200x' alt='He probado el Redmagic 9 Pro, un móvil gaming con Snapdragon 8 Gen 3 y un diseño muy peculiar' />
+    <h4><a href='https://computerhoy.com/life/estos-son-sorprendentes-beneficios-salud-tiene-escribir-mano-1342742'>Estos son los sorprendentes beneficios para la salud que tiene escribir a mano</a></h4>
+    <a href='https://computerhoy.com/life/estos-son-sorprendentes-beneficios-salud-tiene-escribir-mano-1342742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/escribir-papel-cuaderno.jpg?tf=1200x' alt='Estos son los sorprendentes beneficios para la salud que tiene escribir a mano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ano-microsoft-resuelve-problema-windows-11-te-creer-pc-estaba-hackeado-1350234'>Tras un año, Microsoft resuelve un problema de Windows 11 que te hacía creer que el PC estaba hackeado</a></h4>
-    <a href='https://computerhoy.com/windows/ano-microsoft-resuelve-problema-windows-11-te-creer-pc-estaba-hackeado-1350234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/windows-11-problema-microsoft-3249532.jpg?tf=1200x' alt='Tras un año, Microsoft resuelve un problema de Windows 11 que te hacía creer que el PC estaba hackeado' />
+    <h4><a href='https://computerhoy.com/hogar/envia-analizar-productos-estrella-mercadona-redes-arden-1350354'>Envía a analizar uno de los productos estrella de Mercadona y las redes arden con el resultado</a></h4>
+    <a href='https://computerhoy.com/hogar/envia-analizar-productos-estrella-mercadona-redes-arden-1350354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/envia-analizar-productos-estrella-mercadona-resultados-son-decepcionantes-3249796.jpg?tf=1200x' alt='Envía a analizar uno de los productos estrella de Mercadona y las redes arden con el resultado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-ya-lista-servicio-entrega-luna-estilo-amazon-1350222'>La NASA ya está lista para su servicio de entrega a la Luna al estilo Amazon</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-ya-lista-servicio-entrega-luna-estilo-amazon-1350222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nasa-entrega-luna-3249515.jpg?tf=1200x' alt='La NASA ya está lista para su servicio de entrega a la Luna al estilo Amazon' />
+    <h4><a href='https://computerhoy.com/ciencia/como-afecta-pasar-papel-pantallas-forma-leer-1350058'>¿Cómo afecta pasar del papel a las pantallas en la forma de leer?</a></h4>
+    <a href='https://computerhoy.com/ciencia/como-afecta-pasar-papel-pantallas-forma-leer-1350058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-afecta-pasar-papel-pantallas-forma-leer-3249274.jpg?tf=1200x' alt='¿Cómo afecta pasar del papel a las pantallas en la forma de leer?' />
     </a>
 </div>
 
