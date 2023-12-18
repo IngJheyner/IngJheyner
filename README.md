@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025'>Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-a13-2692407.jpg?tf=1200x' alt='Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/configuracion-wifi-arruinando-rendimiento-fire-tv-1349597'>La configuración WiFi que está arruinando el rendimiento de tu Amazon Fire TV y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/configuracion-wifi-arruinando-rendimiento-fire-tv-1349597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/configuracion-wifi-arruinando-rendimiento-amazon-fire-tv-como-solucionarlo-3248520.jpg?tf=1200x' alt='La configuración WiFi que está arruinando el rendimiento de tu Amazon Fire TV y cómo solucionarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/significan-pitidos-alexa-solucion-1349523'>Qué significan los pitidos aleatorios de Amazon Alexa y cómo solucionarlos</a></h4>
     <a href='https://computerhoy.com/tutoriales/significan-pitidos-alexa-solucion-1349523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/significan-pitidos-aleatorios-amazon-alexa-como-solucionarlos-3248441.jpg?tf=1200x' alt='Qué significan los pitidos aleatorios de Amazon Alexa y cómo solucionarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/wifi-potente-estable-xiaomi-vende-gadget-miniatura-hara-volar-red-precio-increible-1349946'>WiFi potente y estable: Xiaomi vende un gadget en miniatura que hará volar tu red, y a precio increíble</a></h4>
-    <a href='https://computerhoy.com/tecnologia/wifi-potente-estable-xiaomi-vende-gadget-miniatura-hara-volar-red-precio-increible-1349946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/xiaomi-mi-wifi-range-extender-pro-repeater-pro-2589999.jpg?tf=1200x' alt='WiFi potente y estable: Xiaomi vende un gadget en miniatura que hará volar tu red, y a precio increíble' />
     </a>
 </div>
 
