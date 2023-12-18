@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/primer-superordenador-imita-capacidades-cerebro-humano-punto-ver-luz-1350178'>El primer superordenador que imita las capacidades del cerebro humano a punto de ver la luz</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-superordenador-imita-capacidades-cerebro-humano-punto-ver-luz-1350178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/superordenadores-3249457.jpg?tf=1200x' alt='El primer superordenador que imita las capacidades del cerebro humano a punto de ver la luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217'>Juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena</a></h4>
+    <a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/dualshock-juegos-ps4-3025076.jpg?tf=1200x' alt='Juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/2023-ano-apple-no-lanzo-ningun-ipad-1346816'>2023, el año en el que Apple no lanzó ningún iPad</a></h4>
+    <a href='https://computerhoy.com/apple/2023-ano-apple-no-lanzo-ningun-ipad-1346816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portada-ipad-2023-3243600.jpg?tf=1200x' alt='2023, el año en el que Apple no lanzó ningún iPad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025'>Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-a13-2692407.jpg?tf=1200x' alt='Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/configuracion-wifi-arruinando-rendimiento-fire-tv-1349597'>La configuración WiFi que está arruinando el rendimiento de tu Amazon Fire TV y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/configuracion-wifi-arruinando-rendimiento-fire-tv-1349597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/configuracion-wifi-arruinando-rendimiento-amazon-fire-tv-como-solucionarlo-3248520.jpg?tf=1200x' alt='La configuración WiFi que está arruinando el rendimiento de tu Amazon Fire TV y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/stremio-app-reune-todo-streaming-solo-lugar-1349549'>Stremio: la app gratis para tener Netflix, HBO Max, Prime Video, IPTV y más, en un solo lugar</a></h4>
-    <a href='https://computerhoy.com/apps/stremio-app-reune-todo-streaming-solo-lugar-1349549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/stremio-app-gratis-tener-netflix-hbo-max-prime-video-iptv-solo-lugar-3248494.jpg?tf=1200x' alt='Stremio: la app gratis para tener Netflix, HBO Max, Prime Video, IPTV y más, en un solo lugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/como-solucione-problema-wifi-regla-30-centimetros-1348210'>La regla de los 30 centímetros no funcionaba con mi router WiFi y así he conseguido solucionarlo</a></h4>
-    <a href='https://computerhoy.com/redes/como-solucione-problema-wifi-regla-30-centimetros-1348210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/regla-30-centimetros-no-funcionaba-mi-router-wifi-he-conseguido-solucionarlo-3245998.jpg?tf=1200x' alt='La regla de los 30 centímetros no funcionaba con mi router WiFi y así he conseguido solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/significan-pitidos-alexa-solucion-1349523'>Qué significan los pitidos aleatorios de Amazon Alexa y cómo solucionarlos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/significan-pitidos-alexa-solucion-1349523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/significan-pitidos-aleatorios-amazon-alexa-como-solucionarlos-3248441.jpg?tf=1200x' alt='Qué significan los pitidos aleatorios de Amazon Alexa y cómo solucionarlos' />
     </a>
 </div>
 
