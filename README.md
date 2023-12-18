@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/amigo-invisible-whatsapp-1348306'>Amigo invisible por WhatsApp: cómo hacer el sorteo y enviar los mensajes secretos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/amigo-invisible-whatsapp-1348306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amigo-invisible-whatsapp-como-hacer-sorteo-enviar-mensajes-secretos-3246142.jpg?tf=1200x' alt='Amigo invisible por WhatsApp: cómo hacer el sorteo y enviar los mensajes secretos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-usar-chatgpt-generar-ideas-originales-divertidas-navidad-1349090'>Cómo usar ChatGPT para generar ideas originales y divertidas para Navidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-usar-chatgpt-generar-ideas-originales-divertidas-navidad-1349090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-usar-chatgpt-generar-ideas-originales-divertidas-navidad-3247608.jpg?tf=1200x' alt='Cómo usar ChatGPT para generar ideas originales y divertidas para Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/nubia-redmagic-9-pro-analisis-opinion-1349439'>He probado el Redmagic 9 Pro, un móvil gaming con Snapdragon 8 Gen 3 y un diseño muy peculiar</a></h4>
+    <a href='https://computerhoy.com/analisis/nubia-redmagic-9-pro-analisis-opinion-1349439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/redmagic-9-pro-analisis-opinion-3248705.jpg?tf=1200x' alt='He probado el Redmagic 9 Pro, un móvil gaming con Snapdragon 8 Gen 3 y un diseño muy peculiar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ano-microsoft-resuelve-problema-windows-11-te-creer-pc-estaba-hackeado-1350234'>Tras un año, Microsoft resuelve un problema de Windows 11 que te hacía creer que el PC estaba hackeado</a></h4>
+    <a href='https://computerhoy.com/windows/ano-microsoft-resuelve-problema-windows-11-te-creer-pc-estaba-hackeado-1350234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/windows-11-problema-microsoft-3249532.jpg?tf=1200x' alt='Tras un año, Microsoft resuelve un problema de Windows 11 que te hacía creer que el PC estaba hackeado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-ya-lista-servicio-entrega-luna-estilo-amazon-1350222'>La NASA ya está lista para su servicio de entrega a la Luna al estilo Amazon</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-ya-lista-servicio-entrega-luna-estilo-amazon-1350222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nasa-entrega-luna-3249515.jpg?tf=1200x' alt='La NASA ya está lista para su servicio de entrega a la Luna al estilo Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/android-tv-box-tiene-4k-revivira-viejo-televisor-apenas-20-euros-1349938'>Esta Android TV Box tiene 4K y revivirá tu viejo televisor por apenas 20 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/android-tv-box-tiene-4k-revivira-viejo-televisor-apenas-20-euros-1349938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/android-tv-box-h96-max-2184021.jpg?tf=1200x' alt='Esta Android TV Box tiene 4K y revivirá tu viejo televisor por apenas 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/inteligencia-artificial-no-windows-11-podras-elegir-gracias-funcion-1350198'>¿Inteligencia artificial, sí o no? En Windows 11 podrás elegir gracias a esta función</a></h4>
-    <a href='https://computerhoy.com/windows/inteligencia-artificial-no-windows-11-podras-elegir-gracias-funcion-1350198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-windows-11-3249484.jpg?tf=1200x' alt='¿Inteligencia artificial, sí o no? En Windows 11 podrás elegir gracias a esta función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-16-pro-contara-nuevo-boton-camara-1350209'>El iPhone 16 Pro contará con un nuevo botón: esto es todo lo que podrá hacer</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-16-pro-contara-nuevo-boton-camara-1350209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/boton-accion-iphone-15-pro-max-3150428.jpg?tf=1200x' alt='El iPhone 16 Pro contará con un nuevo botón: esto es todo lo que podrá hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/baterias-cuanticas-seran-capaces-romper-reglas-tiempo-1350188'>Las baterías cuánticas serán capaces de romper las reglas del tiempo y cargarse de una forma novedosa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/baterias-cuanticas-seran-capaces-romper-reglas-tiempo-1350188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bateria-cuantica-3195026.jpg?tf=1200x' alt='Las baterías cuánticas serán capaces de romper las reglas del tiempo y cargarse de una forma novedosa' />
     </a>
 </div>
 
