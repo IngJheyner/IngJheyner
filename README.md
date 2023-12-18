@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-superordenador-imita-capacidades-cerebro-humano-punto-ver-luz-1350178'>El primer superordenador que imita las capacidades del cerebro humano a punto de ver la luz</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-superordenador-imita-capacidades-cerebro-humano-punto-ver-luz-1350178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/superordenadores-3249457.jpg?tf=1200x' alt='El primer superordenador que imita las capacidades del cerebro humano a punto de ver la luz' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-ya-lista-servicio-entrega-luna-estilo-amazon-1350222'>La NASA ya está lista para su servicio de entrega a la Luna al estilo Amazon</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-ya-lista-servicio-entrega-luna-estilo-amazon-1350222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nasa-entrega-luna-3249515.jpg?tf=1200x' alt='La NASA ya está lista para su servicio de entrega a la Luna al estilo Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217'>Juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena</a></h4>
-    <a href='https://computerhoy.com/reportajes/gaming/7-juegos-ps4-son-muy-baratos-siguen-mereciendo-bastante-pena-1021217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/dualshock-juegos-ps4-3025076.jpg?tf=1200x' alt='Juegos de PS4 que son muy baratos y siguen mereciendo bastante la pena' />
+    <h4><a href='https://computerhoy.com/tecnologia/android-tv-box-tiene-4k-revivira-viejo-televisor-apenas-20-euros-1349938'>Esta Android TV Box tiene 4K y revivirá tu viejo televisor por apenas 20 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/android-tv-box-tiene-4k-revivira-viejo-televisor-apenas-20-euros-1349938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/android-tv-box-h96-max-2184021.jpg?tf=1200x' alt='Esta Android TV Box tiene 4K y revivirá tu viejo televisor por apenas 20 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/2023-ano-apple-no-lanzo-ningun-ipad-1346816'>2023, el año en el que Apple no lanzó ningún iPad</a></h4>
-    <a href='https://computerhoy.com/apple/2023-ano-apple-no-lanzo-ningun-ipad-1346816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portada-ipad-2023-3243600.jpg?tf=1200x' alt='2023, el año en el que Apple no lanzó ningún iPad' />
+    <h4><a href='https://computerhoy.com/windows/inteligencia-artificial-no-windows-11-podras-elegir-gracias-funcion-1350198'>¿Inteligencia artificial, sí o no? En Windows 11 podrás elegir gracias a esta función</a></h4>
+    <a href='https://computerhoy.com/windows/inteligencia-artificial-no-windows-11-podras-elegir-gracias-funcion-1350198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-windows-11-3249484.jpg?tf=1200x' alt='¿Inteligencia artificial, sí o no? En Windows 11 podrás elegir gracias a esta función' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025'>Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/samsung-galaxy-a13-merece-pena-alternativas-baratas-1087025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/samsung-galaxy-a13-2692407.jpg?tf=1200x' alt='Samsung Galaxy A13: ¿merece la pena? Características y alternativas baratas' />
+    <h4><a href='https://computerhoy.com/apple/iphone-16-pro-contara-nuevo-boton-camara-1350209'>El iPhone 16 Pro contará con un nuevo botón: esto es todo lo que podrá hacer</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-pro-contara-nuevo-boton-camara-1350209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/boton-accion-iphone-15-pro-max-3150428.jpg?tf=1200x' alt='El iPhone 16 Pro contará con un nuevo botón: esto es todo lo que podrá hacer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/configuracion-wifi-arruinando-rendimiento-fire-tv-1349597'>La configuración WiFi que está arruinando el rendimiento de tu Amazon Fire TV y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/configuracion-wifi-arruinando-rendimiento-fire-tv-1349597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/configuracion-wifi-arruinando-rendimiento-amazon-fire-tv-como-solucionarlo-3248520.jpg?tf=1200x' alt='La configuración WiFi que está arruinando el rendimiento de tu Amazon Fire TV y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/baterias-cuanticas-seran-capaces-romper-reglas-tiempo-1350188'>Las baterías cuánticas serán capaces de romper las reglas del tiempo y cargarse de una forma novedosa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/baterias-cuanticas-seran-capaces-romper-reglas-tiempo-1350188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bateria-cuantica-3195026.jpg?tf=1200x' alt='Las baterías cuánticas serán capaces de romper las reglas del tiempo y cargarse de una forma novedosa' />
     </a>
 </div>
 
