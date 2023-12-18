@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-caravan-1348742'>Equivalencias de los perfumes y colonias de Caravan</a></h4>
-    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-caravan-1348742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/equivalencias-perfumes-colonias-caravan-3246992.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Caravan' />
+    <h4><a href='https://computerhoy.com/apps/mapmetrics-ya-compatible-android-auto-te-paga-conducir-1350382'>¿Adiós, Google Maps y Waze? MapMetrics ya es compatible con Android Auto y te pagará por usarla mientras conduces</a></h4>
+    <a href='https://computerhoy.com/apps/mapmetrics-ya-compatible-android-auto-te-paga-conducir-1350382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/adios-google-maps-waze-mapmetrics-ya-compatible-android-auto-te-pagara-usarla-mientras-conduces-3249918.jpg?tf=1200x' alt='¿Adiós, Google Maps y Waze? MapMetrics ya es compatible con Android Auto y te pagará por usarla mientras conduces' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/thermomix-tiene-rival-cuesta-menos-xiaomi-robot-cocina-low-cost-tiene-todo-quieres-1350333'>Thermomix tiene rival y cuesta menos que el de Xiaomi: este robot de cocina low cost tiene todo lo que quieres</a></h4>
-    <a href='https://computerhoy.com/hogar/thermomix-tiene-rival-cuesta-menos-xiaomi-robot-cocina-low-cost-tiene-todo-quieres-1350333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cecotec-mambo-10070-3214772.jpg?tf=1200x' alt='Thermomix tiene rival y cuesta menos que el de Xiaomi: este robot de cocina low cost tiene todo lo que quieres' />
+    <h4><a href='https://computerhoy.com/hogar/ventila-purifica-caliente-tres-rowenta-oferta-bomba-1350428'>Ventila, purifica, caliente... este tres en uno de Rowenta en oferta es la bomba</a></h4>
+    <a href='https://computerhoy.com/hogar/ventila-purifica-caliente-tres-rowenta-oferta-bomba-1350428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/rowenta-3-1-3249912.jpg?tf=1200x' alt='Ventila, purifica, caliente... este tres en uno de Rowenta en oferta es la bomba' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-son-sorprendentes-beneficios-salud-tiene-escribir-mano-1342742'>Estos son los sorprendentes beneficios para la salud que tiene escribir a mano</a></h4>
-    <a href='https://computerhoy.com/life/estos-son-sorprendentes-beneficios-salud-tiene-escribir-mano-1342742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/escribir-papel-cuaderno.jpg?tf=1200x' alt='Estos son los sorprendentes beneficios para la salud que tiene escribir a mano' />
+    <h4><a href='https://computerhoy.com/industria/fusion-adobe-figma-cancelan-acuerdo-1350372'>El final de una fusión: Adobe y Figma cancelan su acuerdo, obligados por los reguladores de la competencia</a></h4>
+    <a href='https://computerhoy.com/industria/fusion-adobe-figma-cancelan-acuerdo-1350372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/final-fusion-adobe-figma-cancelan-acuerdo-obligados-reguladores-competencia-3249917.jpg?tf=1200x' alt='El final de una fusión: Adobe y Figma cancelan su acuerdo, obligados por los reguladores de la competencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/envia-analizar-productos-estrella-mercadona-redes-arden-1350354'>Envía a analizar uno de los productos estrella de Mercadona y las redes arden con el resultado</a></h4>
-    <a href='https://computerhoy.com/hogar/envia-analizar-productos-estrella-mercadona-redes-arden-1350354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/envia-analizar-productos-estrella-mercadona-resultados-son-decepcionantes-3249796.jpg?tf=1200x' alt='Envía a analizar uno de los productos estrella de Mercadona y las redes arden con el resultado' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-anade-nueva-vista-3d-android-auto-1350423'>Google Maps añade una nueva vista 3D en Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-anade-nueva-vista-3d-android-auto-1350423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-guardar-donde-he-aparcado-android-auto-tocar-movil-3246104.jpg?tf=1200x' alt='Google Maps añade una nueva vista 3D en Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/como-afecta-pasar-papel-pantallas-forma-leer-1350058'>¿Cómo afecta pasar del papel a las pantallas en la forma de leer?</a></h4>
-    <a href='https://computerhoy.com/ciencia/como-afecta-pasar-papel-pantallas-forma-leer-1350058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-afecta-pasar-papel-pantallas-forma-leer-3249274.jpg?tf=1200x' alt='¿Cómo afecta pasar del papel a las pantallas en la forma de leer?' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-cambia-forma-eliminar-aplicaciones-dispositivos-android-1350421'>Google cambia la forma de eliminar aplicaciones en dispositivos Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-cambia-forma-eliminar-aplicaciones-dispositivos-android-1350421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg?tf=1200x' alt='Google cambia la forma de eliminar aplicaciones en dispositivos Android' />
     </a>
 </div>
 
