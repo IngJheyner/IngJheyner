@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-estafas-contactless-puedes-proteger-tarjeta-1350248'>Cuidado con las estafas “contactless”: así puedes proteger tu tarjeta</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-estafas-contactless-puedes-proteger-tarjeta-1350248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tarjeta-contactless-3250307.jpg?tf=1200x' alt='Cuidado con las estafas “contactless”: así puedes proteger tu tarjeta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/software/como-identificar-cualquier-tipo-letra-fuente-tipografica-77663'>Cómo identificar cualquier tipo de letra y fuente tipográfica</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/software/como-identificar-cualquier-tipo-letra-fuente-tipografica-77663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/03/293271-como-identificar-cualquier-tipo-letra-fuente-tipografica.jpg?tf=1200x' alt='Cómo identificar cualquier tipo de letra y fuente tipográfica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/saben-ese-medicamento-placebo-sienten-funciona-tiene-explicacion-1350585'>Si saben que ese medicamento es un placebo, ¿por qué sienten que funciona? Tiene una explicación</a></h4>
+    <a href='https://computerhoy.com/ciencia/saben-ese-medicamento-placebo-sienten-funciona-tiene-explicacion-1350585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/medicamentos-cerebro-3250222.jpg?tf=1200x' alt='Si saben que ese medicamento es un placebo, ¿por qué sienten que funciona? Tiene una explicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-quiere-frenar-prohibicion-apple-watch-series-9-ultra-2-pero-idea-parece-insuficiente-1350586'>Apple quiere frenar la prohibición del Apple Watch Series 9 y Ultra 2, pero su idea parece insuficiente</a></h4>
+    <a href='https://computerhoy.com/apple/apple-quiere-frenar-prohibicion-apple-watch-series-9-ultra-2-pero-idea-parece-insuficiente-1350586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-ultra-2-3195134.jpg?tf=1200x' alt='Apple quiere frenar la prohibición del Apple Watch Series 9 y Ultra 2, pero su idea parece insuficiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/verdad-quieres-ia-te-diga-vas-morir-proximos-cuatro-anos-piensas-da-miedo-1350535'>¿De verdad quieres que una IA te diga si vas a morir en los próximos cuatro años? Si lo piensas da miedo</a></h4>
     <a href='https://computerhoy.com/tecnologia/verdad-quieres-ia-te-diga-vas-morir-proximos-cuatro-anos-piensas-da-miedo-1350535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-predice-futuro-3250136.jpg?tf=1200x' alt='¿De verdad quieres que una IA te diga si vas a morir en los próximos cuatro años? Si lo piensas da miedo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/casio-edifice-elegante-ahora-mucho-barato-amazon-acaba-tumbar-precio-1350530'>Este Casio Edifice es elegante y ahora mucho más barato: Amazon acaba de tumbar su precio</a></h4>
-    <a href='https://computerhoy.com/life/casio-edifice-elegante-ahora-mucho-barato-amazon-acaba-tumbar-precio-1350530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/casio-hombre-elegante-3250036.jpg?tf=1200x' alt='Este Casio Edifice es elegante y ahora mucho más barato: Amazon acaba de tumbar su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/jeff-bezos-mundo-billon-humanos-tendria-1000-einsteins-pero-no-ha-caido-detalle-asesinos-serie-1350517'>Para Jeff Bezos, un mundo con un billón de humanos tendría 1.000 Einsteins, pero no ha caído en un detalle: los asesinos en serie</a></h4>
-    <a href='https://computerhoy.com/life/jeff-bezos-mundo-billon-humanos-tendria-1000-einsteins-pero-no-ha-caido-detalle-asesinos-serie-1350517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/einstein-mundo-muy-poblado-3250039.jpg?tf=1200x' alt='Para Jeff Bezos, un mundo con un billón de humanos tendría 1.000 Einsteins, pero no ha caído en un detalle: los asesinos en serie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pronto-podras-usar-cybertruck-como-barco-elon-musk-1350518'>Elon Musk señala que pronto podrás usar el Cybertruck como un barco</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pronto-podras-usar-cybertruck-como-barco-elon-musk-1350518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/tesla-cybertruck_2.jpg?tf=1200x' alt='Elon Musk señala que pronto podrás usar el Cybertruck como un barco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jeff-bezos-advierte-musk-blue-origin-va-poner-seria-1350526'>Jeff Bezos advierte a Musk: Blue Origin se va a poner seria y quiere desafiar a SpaceX</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jeff-bezos-advierte-musk-blue-origin-va-poner-seria-1350526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/blue-origin.jpg?tf=1200x' alt='Jeff Bezos advierte a Musk: Blue Origin se va a poner seria y quiere desafiar a SpaceX' />
     </a>
 </div>
 
