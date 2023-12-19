@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/alimentos-salud-cerebro-previenen-alzheimer-1350696'>10 alimentos que potencian la salud de tu cerebro y previenen enfermedades como la demencia o el Alzheimer</a></h4>
-    <a href='https://computerhoy.com/life/alimentos-salud-cerebro-previenen-alzheimer-1350696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/10-alimentos-potencian-salud-cerebro-previenen-enfermedades-como-demencia-alzheimer-3250416.jpg?tf=1200x' alt='10 alimentos que potencian la salud de tu cerebro y previenen enfermedades como la demencia o el Alzheimer' />
+    <h4><a href='https://computerhoy.com/motor/bateria-catl-tiene-1000-kilometros-autonomia-integra-motor-1350748'>La nueva batería para coche eléctrico de CATL promete 1.000 kilómetros de autonomía e integra un motor</a></h4>
+    <a href='https://computerhoy.com/motor/bateria-catl-tiene-1000-kilometros-autonomia-integra-motor-1350748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nueva-bateria-coche-electrico-catl-promete-1000-kilometros-autonomia-integra-motor-3250566.jpg?tf=1200x' alt='La nueva batería para coche eléctrico de CATL promete 1.000 kilómetros de autonomía e integra un motor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-quita-encima-stock-rival-barata-dyson-cuesta-mucho-menos-bastante-potente-1350166'>Amazon se quita de encima el stock de la rival barata de Dyson: cuesta mucho menos y es bastante potente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-quita-encima-stock-rival-barata-dyson-cuesta-mucho-menos-bastante-potente-1350166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/conga-rockstar-1600-x-treme-3249405.jpg?tf=1200x' alt='Amazon se quita de encima el stock de la rival barata de Dyson: cuesta mucho menos y es bastante potente' />
+    <h4><a href='https://computerhoy.com/motor/estos-coches-no-podran-circular-espana-2024-1350740'>Si tienes uno de estos coches, lo sentimos, ya no podrás circular libremente por España en 2024</a></h4>
+    <a href='https://computerhoy.com/motor/estos-coches-no-podran-circular-espana-2024-1350740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tienes-estos-coches-sentimos-ya-no-podras-circular-libremente-espana-2024-3250491.jpg?tf=1200x' alt='Si tienes uno de estos coches, lo sentimos, ya no podrás circular libremente por España en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/borrar-huella-digital-internet-mejorar-privacidad-1350663'>5 pasos rápidos para borrar tu huella digital el Internet y mejorar tu privacidad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/borrar-huella-digital-internet-mejorar-privacidad-1350663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-pasos-rapidos-borrar-huella-digital-internet-mejorar-privacidad-3250285.jpg?tf=1200x' alt='5 pasos rápidos para borrar tu huella digital el Internet y mejorar tu privacidad' />
+    <h4><a href='https://computerhoy.com/android/aliexpress-lia-rebaja-proyector-android-top-ventas-acumula-ya-10000-ventas-1350612'>AliExpress la lía y rebaja el proyector Android top ventas: acumula ya más de 10.000 ventas</a></h4>
+    <a href='https://computerhoy.com/android/aliexpress-lia-rebaja-proyector-android-top-ventas-acumula-ya-10000-ventas-1350612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/magcube-3250225.jpg?tf=1200x' alt='AliExpress la lía y rebaja el proyector Android top ventas: acumula ya más de 10.000 ventas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-te-llega-correo-no-estafa-1350299'>La Policía Nacional advierte: si te llega este correo suyo, no es una estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-te-llega-correo-no-estafa-1350299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/policia-nacional-advierte-te-llega-correo-no-estafa-3249684.jpg?tf=1200x' alt='La Policía Nacional advierte: si te llega este correo suyo, no es una estafa' />
+    <h4><a href='https://computerhoy.com/life/sorteo-tienes-probabilidades-te-toque-gordo-nino-1350781'>En qué sorteo tienes más probabilidades de que te toque: ¿El Gordo o El Niño?</a></h4>
+    <a href='https://computerhoy.com/life/sorteo-tienes-probabilidades-te-toque-gordo-nino-1350781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/loteria-navidad-3250539.jpg?tf=1200x' alt='En qué sorteo tienes más probabilidades de que te toque: ¿El Gordo o El Niño?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/nuevo-truco-calentar-casa-alfombras-calefactoras-1350677'>El último truco para calentar la casa: alfombras calefactoras para tener suelo radiante sin instalación</a></h4>
-    <a href='https://computerhoy.com/hogar/nuevo-truco-calentar-casa-alfombras-calefactoras-1350677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nuevo-truco-calentar-hogar-alfombras-calefactoras-tener-suelo-radiante-instalacion-3250320.jpg?tf=1200x' alt='El último truco para calentar la casa: alfombras calefactoras para tener suelo radiante sin instalación' />
+    <h4><a href='https://computerhoy.com/life/no-estafa-son-nuevas-monedas-2-euros-pronto-circularan-espana-1350779'>No es una estafa: así son las nuevas monedas de 2 euros que pronto circularán en España</a></h4>
+    <a href='https://computerhoy.com/life/no-estafa-son-nuevas-monedas-2-euros-pronto-circularan-espana-1350779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/moneda-2-euros-3250538.jpg?tf=1200x' alt='No es una estafa: así son las nuevas monedas de 2 euros que pronto circularán en España' />
     </a>
 </div>
 
