@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tomtom-microsoft-unen-acabar-google-maps-waze-1350507'>TomTom y Microsoft se unen para acabar con Google Maps y Waze</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tomtom-microsoft-unen-acabar-google-maps-waze-1350507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/navegador-tomtom-coche-3250015.jpg?tf=1200x' alt='TomTom y Microsoft se unen para acabar con Google Maps y Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-pierde-batalla-antimonopolio-pagara-700-millones-dolares-habra-grandes-cambios-play-store-1350500'>Google pierde su batalla antimonopolio: pagará 700 millones de dólares y habrá grandes cambios en la Play Store</a></h4>
     <a href='https://computerhoy.com/google/google-pierde-batalla-antimonopolio-pagara-700-millones-dolares-habra-grandes-cambios-play-store-1350500' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-play-store-3249999.jpg?tf=1200x' alt='Google pierde su batalla antimonopolio: pagará 700 millones de dólares y habrá grandes cambios en la Play Store' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/como-hacer-fotos-perfectas-iphone-navidad-fotografo-1350041'>He tenido una masterclass con un fotógrafo profesional y estos son los 10 trucos que me ha enseñado para hacer retratos de Navidad perfectos con el iPhone</a></h4>
     <a href='https://computerhoy.com/apple/como-hacer-fotos-perfectas-iphone-navidad-fotografo-1350041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/fotos-iphone-navidad-3249271.jpg?tf=1200x' alt='He tenido una masterclass con un fotógrafo profesional y estos son los 10 trucos que me ha enseñado para hacer retratos de Navidad perfectos con el iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903'>Estos son los mejores relojes de running que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187106.jpg?tf=1200x' alt='Estos son los mejores relojes de running que puedes comprar ahora mismo' />
     </a>
 </div>
 
