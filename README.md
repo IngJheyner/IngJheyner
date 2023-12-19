@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-deja-vender-relojes-apple-watch-series-9-ultra-2-1350458'>Apple deja de vender los relojes Apple Watch Series 9 y Apple Watch Ultra 2</a></h4>
+    <a href='https://computerhoy.com/apple/apple-deja-vender-relojes-apple-watch-series-9-ultra-2-1350458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-ultra-2-3195134.jpg?tf=1200x' alt='Apple deja de vender los relojes Apple Watch Series 9 y Apple Watch Ultra 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mapmetrics-ya-compatible-android-auto-te-paga-conducir-1350382'>¿Adiós, Google Maps y Waze? MapMetrics ya es compatible con Android Auto y te pagará por usarla mientras conduces</a></h4>
     <a href='https://computerhoy.com/apps/mapmetrics-ya-compatible-android-auto-te-paga-conducir-1350382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/adios-google-maps-waze-mapmetrics-ya-compatible-android-auto-te-pagara-usarla-mientras-conduces-3249918.jpg?tf=1200x' alt='¿Adiós, Google Maps y Waze? MapMetrics ya es compatible con Android Auto y te pagará por usarla mientras conduces' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-maps-anade-nueva-vista-3d-android-auto-1350423'>Google Maps añade una nueva vista 3D en Android Auto</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-anade-nueva-vista-3d-android-auto-1350423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-guardar-donde-he-aparcado-android-auto-tocar-movil-3246104.jpg?tf=1200x' alt='Google Maps añade una nueva vista 3D en Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-cambia-forma-eliminar-aplicaciones-dispositivos-android-1350421'>Google cambia la forma de eliminar aplicaciones en dispositivos Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-cambia-forma-eliminar-aplicaciones-dispositivos-android-1350421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg?tf=1200x' alt='Google cambia la forma de eliminar aplicaciones en dispositivos Android' />
     </a>
 </div>
 
