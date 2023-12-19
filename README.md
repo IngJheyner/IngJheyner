@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903'>Estos son los mejores relojes de running que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187106.jpg?tf=1200x' alt='Estos son los mejores relojes de running que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-suelta-bomba-reloj-garmin-top-cae-picado-cuesta-230-euros-menos-1350263'>Amazon suelta la bomba: el reloj Garmin más top cae en picado y cuesta 230 euros menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-suelta-bomba-reloj-garmin-top-cae-picado-cuesta-230-euros-menos-1350263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3249490.jpg?tf=1200x' alt='Amazon suelta la bomba: el reloj Garmin más top cae en picado y cuesta 230 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/quieres-dejar-roncar-prueba-bebida-magica-expertos-recomiendan-1333892'>La bebida mágica y natural para dejar de roncar que recomiendan todos los expertos</a></h4>
+    <a href='https://computerhoy.com/life/quieres-dejar-roncar-prueba-bebida-magica-expertos-recomiendan-1333892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/solucion-sencilla-natural-dejar-roncar-expertos-3220016.jpg?tf=1200x' alt='La bebida mágica y natural para dejar de roncar que recomiendan todos los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/descubren-pez-abisal-nada-panza-arriba-1350463'>Un robot submarino descubre un pez abisal que nada panza arriba, y no se sabe por qué</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-pez-abisal-nada-panza-arriba-1350463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-pez-abisal-nada-boca-arriba-nadie-sabe-3249956.jpg?tf=1200x' alt='Un robot submarino descubre un pez abisal que nada panza arriba, y no se sabe por qué' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-deja-vender-relojes-apple-watch-series-9-ultra-2-1350458'>Apple deja de vender los relojes Apple Watch Series 9 y Apple Watch Ultra 2</a></h4>
     <a href='https://computerhoy.com/apple/apple-deja-vender-relojes-apple-watch-series-9-ultra-2-1350458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-ultra-2-3195134.jpg?tf=1200x' alt='Apple deja de vender los relojes Apple Watch Series 9 y Apple Watch Ultra 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mapmetrics-ya-compatible-android-auto-te-paga-conducir-1350382'>¿Adiós, Google Maps y Waze? MapMetrics ya es compatible con Android Auto y te pagará por usarla mientras conduces</a></h4>
-    <a href='https://computerhoy.com/apps/mapmetrics-ya-compatible-android-auto-te-paga-conducir-1350382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/adios-google-maps-waze-mapmetrics-ya-compatible-android-auto-te-pagara-usarla-mientras-conduces-3249918.jpg?tf=1200x' alt='¿Adiós, Google Maps y Waze? MapMetrics ya es compatible con Android Auto y te pagará por usarla mientras conduces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ventila-purifica-caliente-tres-rowenta-oferta-bomba-1350428'>Ventila, purifica, caliente... este tres en uno de Rowenta en oferta es la bomba</a></h4>
-    <a href='https://computerhoy.com/hogar/ventila-purifica-caliente-tres-rowenta-oferta-bomba-1350428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/rowenta-3-1-3249912.jpg?tf=1200x' alt='Ventila, purifica, caliente... este tres en uno de Rowenta en oferta es la bomba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/fusion-adobe-figma-cancelan-acuerdo-1350372'>El final de una fusión: Adobe y Figma cancelan su acuerdo, obligados por los reguladores de la competencia</a></h4>
-    <a href='https://computerhoy.com/industria/fusion-adobe-figma-cancelan-acuerdo-1350372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/final-fusion-adobe-figma-cancelan-acuerdo-obligados-reguladores-competencia-3249917.jpg?tf=1200x' alt='El final de una fusión: Adobe y Figma cancelan su acuerdo, obligados por los reguladores de la competencia' />
     </a>
 </div>
 
