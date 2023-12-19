@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tomtom-microsoft-unen-acabar-google-maps-waze-1350507'>TomTom y Microsoft se unen para acabar con Google Maps y Waze</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tomtom-microsoft-unen-acabar-google-maps-waze-1350507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/navegador-tomtom-coche-3250015.jpg?tf=1200x' alt='TomTom y Microsoft se unen para acabar con Google Maps y Waze' />
+    <h4><a href='https://computerhoy.com/tecnologia/verdad-quieres-ia-te-diga-vas-morir-proximos-cuatro-anos-piensas-da-miedo-1350535'>¿De verdad quieres que una IA te diga si vas a morir en los próximos cuatro años? Si lo piensas da miedo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/verdad-quieres-ia-te-diga-vas-morir-proximos-cuatro-anos-piensas-da-miedo-1350535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-predice-futuro-3250136.jpg?tf=1200x' alt='¿De verdad quieres que una IA te diga si vas a morir en los próximos cuatro años? Si lo piensas da miedo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-pierde-batalla-antimonopolio-pagara-700-millones-dolares-habra-grandes-cambios-play-store-1350500'>Google pierde su batalla antimonopolio: pagará 700 millones de dólares y habrá grandes cambios en la Play Store</a></h4>
-    <a href='https://computerhoy.com/google/google-pierde-batalla-antimonopolio-pagara-700-millones-dolares-habra-grandes-cambios-play-store-1350500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-play-store-3249999.jpg?tf=1200x' alt='Google pierde su batalla antimonopolio: pagará 700 millones de dólares y habrá grandes cambios en la Play Store' />
+    <h4><a href='https://computerhoy.com/life/casio-edifice-elegante-ahora-mucho-barato-amazon-acaba-tumbar-precio-1350530'>Este Casio Edifice es elegante y ahora mucho más barato: Amazon acaba de tumbar su precio</a></h4>
+    <a href='https://computerhoy.com/life/casio-edifice-elegante-ahora-mucho-barato-amazon-acaba-tumbar-precio-1350530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/casio-hombre-elegante-3250036.jpg?tf=1200x' alt='Este Casio Edifice es elegante y ahora mucho más barato: Amazon acaba de tumbar su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-desata-locura-gaming-ryzen-5-5600x-mitad-precio-45-descuento-1350480'>Amazon desata la locura gaming: el Ryzen 5 5600X está a mitad de precio con un 45% de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-desata-locura-gaming-ryzen-5-5600x-mitad-precio-45-descuento-1350480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/procesador-amd-ryzen-1879975.jpg?tf=1200x' alt='Amazon desata la locura gaming: el Ryzen 5 5600X está a mitad de precio con un 45% de descuento' />
+    <h4><a href='https://computerhoy.com/life/jeff-bezos-mundo-billon-humanos-tendria-1000-einsteins-pero-no-ha-caido-detalle-asesinos-serie-1350517'>Para Jeff Bezos, un mundo con un billón de humanos tendría 1.000 Einsteins, pero no ha caído en un detalle: los asesinos en serie</a></h4>
+    <a href='https://computerhoy.com/life/jeff-bezos-mundo-billon-humanos-tendria-1000-einsteins-pero-no-ha-caido-detalle-asesinos-serie-1350517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/einstein-mundo-muy-poblado-3250039.jpg?tf=1200x' alt='Para Jeff Bezos, un mundo con un billón de humanos tendría 1.000 Einsteins, pero no ha caído en un detalle: los asesinos en serie' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/lenovo-legion-go-primeras-impresiones-consola-portatil-pc-1349392'>Lenovo Legion Go, una consola portátil perfecta para gamers, pero que se queda corta en autonomía</a></h4>
-    <a href='https://computerhoy.com/gaming/lenovo-legion-go-primeras-impresiones-consola-portatil-pc-1349392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/lenovo-legion-go-3248126.jpg?tf=1200x' alt='Lenovo Legion Go, una consola portátil perfecta para gamers, pero que se queda corta en autonomía' />
+    <h4><a href='https://computerhoy.com/tecnologia/pronto-podras-usar-cybertruck-como-barco-elon-musk-1350518'>Elon Musk señala que pronto podrás usar el Cybertruck como un barco</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pronto-podras-usar-cybertruck-como-barco-elon-musk-1350518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/tesla-cybertruck_2.jpg?tf=1200x' alt='Elon Musk señala que pronto podrás usar el Cybertruck como un barco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-hacer-fotos-perfectas-iphone-navidad-fotografo-1350041'>He tenido una masterclass con un fotógrafo profesional y estos son los 10 trucos que me ha enseñado para hacer retratos de Navidad perfectos con el iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/como-hacer-fotos-perfectas-iphone-navidad-fotografo-1350041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/fotos-iphone-navidad-3249271.jpg?tf=1200x' alt='He tenido una masterclass con un fotógrafo profesional y estos son los 10 trucos que me ha enseñado para hacer retratos de Navidad perfectos con el iPhone' />
+    <h4><a href='https://computerhoy.com/tecnologia/jeff-bezos-advierte-musk-blue-origin-va-poner-seria-1350526'>Jeff Bezos advierte a Musk: Blue Origin se va a poner seria y quiere desafiar a SpaceX</a></h4>
+    <a href='https://computerhoy.com/tecnologia/jeff-bezos-advierte-musk-blue-origin-va-poner-seria-1350526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/07/blue-origin.jpg?tf=1200x' alt='Jeff Bezos advierte a Musk: Blue Origin se va a poner seria y quiere desafiar a SpaceX' />
     </a>
 </div>
 
