@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-pez-abisal-nada-panza-arriba-1350463'>Un robot submarino descubre un pez abisal que nada panza arriba, y no se sabe por qué</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-pez-abisal-nada-panza-arriba-1350463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-pez-abisal-nada-boca-arriba-nadie-sabe-3249956.jpg?tf=1200x' alt='Un robot submarino descubre un pez abisal que nada panza arriba, y no se sabe por qué' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-deja-vender-relojes-apple-watch-series-9-ultra-2-1350458'>Apple deja de vender los relojes Apple Watch Series 9 y Apple Watch Ultra 2</a></h4>
     <a href='https://computerhoy.com/apple/apple-deja-vender-relojes-apple-watch-series-9-ultra-2-1350458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-ultra-2-3195134.jpg?tf=1200x' alt='Apple deja de vender los relojes Apple Watch Series 9 y Apple Watch Ultra 2' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/industria/fusion-adobe-figma-cancelan-acuerdo-1350372'>El final de una fusión: Adobe y Figma cancelan su acuerdo, obligados por los reguladores de la competencia</a></h4>
     <a href='https://computerhoy.com/industria/fusion-adobe-figma-cancelan-acuerdo-1350372' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/final-fusion-adobe-figma-cancelan-acuerdo-obligados-reguladores-competencia-3249917.jpg?tf=1200x' alt='El final de una fusión: Adobe y Figma cancelan su acuerdo, obligados por los reguladores de la competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-anade-nueva-vista-3d-android-auto-1350423'>Google Maps añade una nueva vista 3D en Android Auto</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-anade-nueva-vista-3d-android-auto-1350423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-guardar-donde-he-aparcado-android-auto-tocar-movil-3246104.jpg?tf=1200x' alt='Google Maps añade una nueva vista 3D en Android Auto' />
     </a>
 </div>
 
