@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-estafas-contactless-puedes-proteger-tarjeta-1350248'>Cuidado con las estafas “contactless”: así puedes proteger tu tarjeta</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-estafas-contactless-puedes-proteger-tarjeta-1350248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tarjeta-contactless-3250307.jpg?tf=1200x' alt='Cuidado con las estafas “contactless”: así puedes proteger tu tarjeta' />
+    <h4><a href='https://computerhoy.com/life/alimentos-salud-cerebro-previenen-alzheimer-1350696'>10 alimentos que potencian la salud de tu cerebro y previenen enfermedades como la demencia o el Alzheimer</a></h4>
+    <a href='https://computerhoy.com/life/alimentos-salud-cerebro-previenen-alzheimer-1350696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/10-alimentos-potencian-salud-cerebro-previenen-enfermedades-como-demencia-alzheimer-3250416.jpg?tf=1200x' alt='10 alimentos que potencian la salud de tu cerebro y previenen enfermedades como la demencia o el Alzheimer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/software/como-identificar-cualquier-tipo-letra-fuente-tipografica-77663'>Cómo identificar cualquier tipo de letra y fuente tipográfica</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/software/como-identificar-cualquier-tipo-letra-fuente-tipografica-77663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/03/293271-como-identificar-cualquier-tipo-letra-fuente-tipografica.jpg?tf=1200x' alt='Cómo identificar cualquier tipo de letra y fuente tipográfica' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-quita-encima-stock-rival-barata-dyson-cuesta-mucho-menos-bastante-potente-1350166'>Amazon se quita de encima el stock de la rival barata de Dyson: cuesta mucho menos y es bastante potente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-quita-encima-stock-rival-barata-dyson-cuesta-mucho-menos-bastante-potente-1350166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/conga-rockstar-1600-x-treme-3249405.jpg?tf=1200x' alt='Amazon se quita de encima el stock de la rival barata de Dyson: cuesta mucho menos y es bastante potente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/saben-ese-medicamento-placebo-sienten-funciona-tiene-explicacion-1350585'>Si saben que ese medicamento es un placebo, ¿por qué sienten que funciona? Tiene una explicación</a></h4>
-    <a href='https://computerhoy.com/ciencia/saben-ese-medicamento-placebo-sienten-funciona-tiene-explicacion-1350585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/medicamentos-cerebro-3250222.jpg?tf=1200x' alt='Si saben que ese medicamento es un placebo, ¿por qué sienten que funciona? Tiene una explicación' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/borrar-huella-digital-internet-mejorar-privacidad-1350663'>5 pasos rápidos para borrar tu huella digital el Internet y mejorar tu privacidad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/borrar-huella-digital-internet-mejorar-privacidad-1350663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-pasos-rapidos-borrar-huella-digital-internet-mejorar-privacidad-3250285.jpg?tf=1200x' alt='5 pasos rápidos para borrar tu huella digital el Internet y mejorar tu privacidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-quiere-frenar-prohibicion-apple-watch-series-9-ultra-2-pero-idea-parece-insuficiente-1350586'>Apple quiere frenar la prohibición del Apple Watch Series 9 y Ultra 2, pero su idea parece insuficiente</a></h4>
-    <a href='https://computerhoy.com/apple/apple-quiere-frenar-prohibicion-apple-watch-series-9-ultra-2-pero-idea-parece-insuficiente-1350586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-ultra-2-3195134.jpg?tf=1200x' alt='Apple quiere frenar la prohibición del Apple Watch Series 9 y Ultra 2, pero su idea parece insuficiente' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-te-llega-correo-no-estafa-1350299'>La Policía Nacional advierte: si te llega este correo suyo, no es una estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-te-llega-correo-no-estafa-1350299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/policia-nacional-advierte-te-llega-correo-no-estafa-3249684.jpg?tf=1200x' alt='La Policía Nacional advierte: si te llega este correo suyo, no es una estafa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/verdad-quieres-ia-te-diga-vas-morir-proximos-cuatro-anos-piensas-da-miedo-1350535'>¿De verdad quieres que una IA te diga si vas a morir en los próximos cuatro años? Si lo piensas da miedo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/verdad-quieres-ia-te-diga-vas-morir-proximos-cuatro-anos-piensas-da-miedo-1350535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-predice-futuro-3250136.jpg?tf=1200x' alt='¿De verdad quieres que una IA te diga si vas a morir en los próximos cuatro años? Si lo piensas da miedo' />
+    <h4><a href='https://computerhoy.com/hogar/nuevo-truco-calentar-casa-alfombras-calefactoras-1350677'>El último truco para calentar la casa: alfombras calefactoras para tener suelo radiante sin instalación</a></h4>
+    <a href='https://computerhoy.com/hogar/nuevo-truco-calentar-casa-alfombras-calefactoras-1350677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nuevo-truco-calentar-hogar-alfombras-calefactoras-tener-suelo-radiante-instalacion-3250320.jpg?tf=1200x' alt='El último truco para calentar la casa: alfombras calefactoras para tener suelo radiante sin instalación' />
     </a>
 </div>
 
