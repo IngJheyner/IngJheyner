@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/estos-son-moviles-carga-rapida-puedes-comprar-ahora-mismo-1312866'>Estos son los móviles con la carga más rápida que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/mejores/estos-son-moviles-carga-rapida-puedes-comprar-ahora-mismo-1312866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/carga-rapida-3043940.jpg?tf=1200x' alt='Estos son los móviles con la carga más rápida que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/no-puedes-descargar-imagenes-gmail-movil-solucion-1350343'>7 métodos efectivos para solucionar el error de Gmail que impide descargar imágenes en Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/no-puedes-descargar-imagenes-gmail-movil-solucion-1350343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/7-metodos-efectivos-solucionar-error-gmail-impide-descargar-imagenes-android-3249833.jpg?tf=1200x' alt='7 métodos efectivos para solucionar el error de Gmail que impide descargar imágenes en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-recibe-streaming-gato-espacio-profundo-31-millones-kilometros-1350824'>La NASA recibe un streaming del espacio profundo, a 31 millones de Kilómetros, y cómo no, es de un gato</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-recibe-streaming-gato-espacio-profundo-31-millones-kilometros-1350824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nasa-recibe-streaming-espacio-profundo-31-millones-kilometros-como-no-gato-3250606.jpg?tf=1200x' alt='La NASA recibe un streaming del espacio profundo, a 31 millones de Kilómetros, y cómo no, es de un gato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/he-conseguido-solucionar-gran-fallo-amazon-fire-tv-1350804'>Así he conseguido solucionar el gran fallo de los Amazon Fire TV: "era un infierno"</a></h4>
     <a href='https://computerhoy.com/amazon/he-conseguido-solucionar-gran-fallo-amazon-fire-tv-1350804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/he-conseguido-solucionar-gran-fallo-amazon-fire-tv-era-infierno-3250585.jpg?tf=1200x' alt='Así he conseguido solucionar el gran fallo de los Amazon Fire TV: "era un infierno"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/bateria-catl-tiene-1000-kilometros-autonomia-integra-motor-1350748'>La nueva batería para coche eléctrico de CATL promete 1.000 kilómetros de autonomía e integra un motor</a></h4>
-    <a href='https://computerhoy.com/motor/bateria-catl-tiene-1000-kilometros-autonomia-integra-motor-1350748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nueva-bateria-coche-electrico-catl-promete-1000-kilometros-autonomia-integra-motor-3250566.jpg?tf=1200x' alt='La nueva batería para coche eléctrico de CATL promete 1.000 kilómetros de autonomía e integra un motor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/estos-coches-no-podran-circular-espana-2024-1350740'>Si tienes uno de estos coches, lo sentimos, ya no podrás circular libremente por España en 2024</a></h4>
-    <a href='https://computerhoy.com/motor/estos-coches-no-podran-circular-espana-2024-1350740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tienes-estos-coches-sentimos-ya-no-podras-circular-libremente-espana-2024-3250491.jpg?tf=1200x' alt='Si tienes uno de estos coches, lo sentimos, ya no podrás circular libremente por España en 2024' />
     </a>
 </div>
 
