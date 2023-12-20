@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-todos-numeros-bloqueados-movil-android-1350467'>Cómo ver todos los números que has bloqueado en tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-todos-numeros-bloqueados-movil-android-1350467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/numero-telefono-bloqueado-3250921.jpg?tf=1200x' alt='Cómo ver todos los números que has bloqueado en tu móvil Android' />
+    <h4><a href='https://computerhoy.com/apple/alarmas-iphone-no-suenan-tranquilo-no-estas-solo-1351103'>¿Las alarmas del iPhone no suenan? Tranquilo, no estás solo</a></h4>
+    <a href='https://computerhoy.com/apple/alarmas-iphone-no-suenan-tranquilo-no-estas-solo-1351103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/alarma-iphone-2344201.jpg?tf=1200x' alt='¿Las alarmas del iPhone no suenan? Tranquilo, no estás solo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/disenador-delorean-regreso-futuro-no-corta-habla-tesla-cybertruck-1351023'>El diseñador del DeLorean de Regreso al futuro no se corta al habla del Cybertruck de Tesla y Elon Musk</a></h4>
-    <a href='https://computerhoy.com/motor/disenador-delorean-regreso-futuro-no-corta-habla-tesla-cybertruck-1351023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/delorean-regreso-futuro-impulsa-innovacion-cybertruck-tesla-traves-ojos-icono-3250929.jpg?tf=1200x' alt='El diseñador del DeLorean de Regreso al futuro no se corta al habla del Cybertruck de Tesla y Elon Musk' />
+    <h4><a href='https://computerhoy.com/amazon/truco-amazon-fire-tv-soluciona-mayoria-problemas-1350778'>El truco de los 4 pasos del Amazon Fire TV que soluciona la mayoría de los problemas de rendimiento</a></h4>
+    <a href='https://computerhoy.com/amazon/truco-amazon-fire-tv-soluciona-mayoria-problemas-1350778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/truco-4-pasos-amazon-fire-tv-soluciona-mayoria-problemas-rendimiento-3250562.jpg?tf=1200x' alt='El truco de los 4 pasos del Amazon Fire TV que soluciona la mayoría de los problemas de rendimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/felicitaciones-navidad-elegantes-enviar-whatsapp-1168788'>Felicitaciones de Navidad elegantes para enviar por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/felicitaciones-navidad-elegantes-enviar-whatsapp-1168788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-navidad-2899250.jpg?tf=1200x' alt='Felicitaciones de Navidad elegantes para enviar por WhatsApp' />
+    <h4><a href='https://computerhoy.com/motor/primer-coche-electrico-ruso-postula-como-feos-1351068'>El primer coche eléctrico ruso no aporta gran cosa, pero se postula para ser uno de los coches más feos de la historia</a></h4>
+    <a href='https://computerhoy.com/motor/primer-coche-electrico-ruso-postula-como-feos-1351068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/primer-coche-electrico-ruso-amber-3251028.jpg?tf=1200x' alt='El primer coche eléctrico ruso no aporta gran cosa, pero se postula para ser uno de los coches más feos de la historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/que-es-boost-pc-1350407'>Qué es CPU Boost y porque deberías activarlo en tu PC ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/que-es-boost-pc-1350407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cpu-boost-porque-deberias-activarlo-pc-ahora-mismo-3249949.jpg?tf=1200x' alt='Qué es CPU Boost y porque deberías activarlo en tu PC ahora mismo' />
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-padres-juguete-generador-problemas-1350650'>Flipper Zero para padres: ¿juguete o generador de problemas?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-zero-padres-juguete-generador-problemas-1350650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-3250919.jpg?tf=1200x' alt='Flipper Zero para padres: ¿juguete o generador de problemas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/coordenadas-raras-puedes-ver-google-maps-306159'>Las coordenadas más raras que puedes ver en Google Maps</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/coordenadas-raras-puedes-ver-google-maps-306159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/coordenadas-raras-puedes-ver-google-maps-3250605.jpg?tf=1200x' alt='Las coordenadas más raras que puedes ver en Google Maps' />
+    <h4><a href='https://computerhoy.com/gaming/xbox-series-s-oferta-amazon-envio-antes-navidad-1350521'>Última llamada: la consola más barata de esta generación cae aún más de precio y llega a tiempo para Navidad</a></h4>
+    <a href='https://computerhoy.com/gaming/xbox-series-s-oferta-amazon-envio-antes-navidad-1350521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xbox-series-s-3250017.jpg?tf=1200x' alt='Última llamada: la consola más barata de esta generación cae aún más de precio y llega a tiempo para Navidad' />
     </a>
 </div>
 
