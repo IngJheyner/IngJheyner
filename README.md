@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-recibe-streaming-gato-espacio-profundo-31-millones-kilometros-1350824'>La NASA recibe un streaming del espacio profundo, a 31 millones de Kilómetros, y cómo no, es de un gato</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-recibe-streaming-gato-espacio-profundo-31-millones-kilometros-1350824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nasa-recibe-streaming-espacio-profundo-31-millones-kilometros-como-no-gato-3250606.jpg?tf=1200x' alt='La NASA recibe un streaming del espacio profundo, a 31 millones de Kilómetros, y cómo no, es de un gato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-traslada-guerra-disney-x-tesla-1350819'>En un peligroso movimiento, Elon Musk traslada su guerra contra Disney de X a Tesla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-traslada-guerra-disney-x-tesla-1350819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/peligroso-movimiento-elon-musk-traslada-guerra-disney-x-tesla-3250595.jpg?tf=1200x' alt='En un peligroso movimiento, Elon Musk traslada su guerra contra Disney de X a Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/he-conseguido-solucionar-gran-fallo-amazon-fire-tv-1350804'>Así he conseguido solucionar el gran fallo de los Amazon Fire TV: "era un infierno"</a></h4>
     <a href='https://computerhoy.com/amazon/he-conseguido-solucionar-gran-fallo-amazon-fire-tv-1350804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/he-conseguido-solucionar-gran-fallo-amazon-fire-tv-era-infierno-3250585.jpg?tf=1200x' alt='Así he conseguido solucionar el gran fallo de los Amazon Fire TV: "era un infierno"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/estos-coches-no-podran-circular-espana-2024-1350740'>Si tienes uno de estos coches, lo sentimos, ya no podrás circular libremente por España en 2024</a></h4>
     <a href='https://computerhoy.com/motor/estos-coches-no-podran-circular-espana-2024-1350740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tienes-estos-coches-sentimos-ya-no-podras-circular-libremente-espana-2024-3250491.jpg?tf=1200x' alt='Si tienes uno de estos coches, lo sentimos, ya no podrás circular libremente por España en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/aliexpress-lia-rebaja-proyector-android-top-ventas-acumula-ya-10000-ventas-1350612'>AliExpress la lía y rebaja el proyector Android top ventas: acumula ya más de 10.000 ventas</a></h4>
-    <a href='https://computerhoy.com/android/aliexpress-lia-rebaja-proyector-android-top-ventas-acumula-ya-10000-ventas-1350612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/magcube-3250225.jpg?tf=1200x' alt='AliExpress la lía y rebaja el proyector Android top ventas: acumula ya más de 10.000 ventas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sorteo-tienes-probabilidades-te-toque-gordo-nino-1350781'>En qué sorteo tienes más probabilidades de que te toque: ¿El Gordo o El Niño?</a></h4>
-    <a href='https://computerhoy.com/life/sorteo-tienes-probabilidades-te-toque-gordo-nino-1350781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/loteria-navidad-3250539.jpg?tf=1200x' alt='En qué sorteo tienes más probabilidades de que te toque: ¿El Gordo o El Niño?' />
     </a>
 </div>
 
