@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO calidad precio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-pro-5g-2948376.jpg?tf=1200x' alt='Estos son los mejores móviles POCO calidad precio que puedes comprar' />
+    <h4><a href='https://computerhoy.com/apple/apple-lanza-ios-1721-corregir-multitud-bugs-extranos-1350881'>Apple lanza iOS 17.2.1 para eliminar multitud de errores: actualiza cuanto antes </a></h4>
+    <a href='https://computerhoy.com/apple/apple-lanza-ios-1721-corregir-multitud-bugs-extranos-1350881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ios-17-3137496.jpg?tf=1200x' alt='Apple lanza iOS 17.2.1 para eliminar multitud de errores: actualiza cuanto antes ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aprobada-union-europea-primera-ley-inteligencia-artificial-exito-fracaso-1348296'>Aprobada en la Unión Europea la primera ley de inteligencia artificial del mundo: ¿Se considera un éxito o será todo un fracaso?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aprobada-union-europea-primera-ley-inteligencia-artificial-exito-fracaso-1348296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ley-inteligencia-artifiicial-3249083.jpg?tf=1200x' alt='Aprobada en la Unión Europea la primera ley de inteligencia artificial del mundo: ¿Se considera un éxito o será todo un fracaso?' />
+    <h4><a href='https://computerhoy.com/moviles/manos-obra-samsung-incorpora-galaxy-z-fold-5-z-flip-5-programa-autoreparacion-1350862'>¡Manos a la obra! Samsung incorpora el Galaxy Z Fold 5 y Z Flip 5 a su programa de autoreparación</a></h4>
+    <a href='https://computerhoy.com/moviles/manos-obra-samsung-incorpora-galaxy-z-fold-5-z-flip-5-programa-autoreparacion-1350862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/reparacion-moviles-samsung-3250665.jpg?tf=1200x' alt='¡Manos a la obra! Samsung incorpora el Galaxy Z Fold 5 y Z Flip 5 a su programa de autoreparación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/estos-son-moviles-carga-rapida-puedes-comprar-ahora-mismo-1312866'>Estos son los móviles con la carga más rápida que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/mejores/estos-son-moviles-carga-rapida-puedes-comprar-ahora-mismo-1312866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/carga-rapida-3043940.jpg?tf=1200x' alt='Estos son los móviles con la carga más rápida que puedes comprar ahora mismo' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-rebajas-navidad-casi-todos-dispositivos-precio-black-friday-1350843'>Amazon está de rebajas por Navidad: casi todos sus dispositivos a precio de Black Friday</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-rebajas-navidad-casi-todos-dispositivos-precio-black-friday-1350843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-3073012.jpg?tf=1200x' alt='Amazon está de rebajas por Navidad: casi todos sus dispositivos a precio de Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/no-puedes-descargar-imagenes-gmail-movil-solucion-1350343'>7 métodos efectivos para solucionar el error de Gmail que impide descargar imágenes en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/no-puedes-descargar-imagenes-gmail-movil-solucion-1350343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/7-metodos-efectivos-solucionar-error-gmail-impide-descargar-imagenes-android-3249833.jpg?tf=1200x' alt='7 métodos efectivos para solucionar el error de Gmail que impide descargar imágenes en Android' />
+    <h4><a href='https://computerhoy.com/apple/airpods-3-podrian-contar-5-cambios-clave-1350855'>Los AirPods Pro 3 podrían contar con 5 cambios de peso</a></h4>
+    <a href='https://computerhoy.com/apple/airpods-3-podrian-contar-5-cambios-clave-1350855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/airpods-iphone-3130548.jpg?tf=1200x' alt='Los AirPods Pro 3 podrían contar con 5 cambios de peso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-recibe-streaming-gato-espacio-profundo-31-millones-kilometros-1350824'>La NASA recibe un streaming del espacio profundo, a 31 millones de Kilómetros, y cómo no, es de un gato</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-recibe-streaming-gato-espacio-profundo-31-millones-kilometros-1350824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nasa-recibe-streaming-espacio-profundo-31-millones-kilometros-como-no-gato-3250606.jpg?tf=1200x' alt='La NASA recibe un streaming del espacio profundo, a 31 millones de Kilómetros, y cómo no, es de un gato' />
+    <h4><a href='https://computerhoy.com/google/google-deepmind-repite-hazana-ia-ha-resuelto-antiguo-problema-matematico-1350854'>Google DeepMind hace historia con una IA que ha resuelto un antiguo e imposible problema matemático</a></h4>
+    <a href='https://computerhoy.com/google/google-deepmind-repite-hazana-ia-ha-resuelto-antiguo-problema-matematico-1350854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-problema-matematicas-3250651.jpg?tf=1200x' alt='Google DeepMind hace historia con una IA que ha resuelto un antiguo e imposible problema matemático' />
     </a>
 </div>
 
