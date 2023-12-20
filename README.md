@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/alarmas-iphone-no-suenan-tranquilo-no-estas-solo-1351103'>¿Las alarmas del iPhone no suenan? Tranquilo, no estás solo</a></h4>
-    <a href='https://computerhoy.com/apple/alarmas-iphone-no-suenan-tranquilo-no-estas-solo-1351103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/alarma-iphone-2344201.jpg?tf=1200x' alt='¿Las alarmas del iPhone no suenan? Tranquilo, no estás solo' />
+    <h4><a href='https://computerhoy.com/internet/cantidad-datos-generan-internet-cada-minuto-1351127'>Esta es la impresionante cantidad de datos que se generan en Internet cada minuto</a></h4>
+    <a href='https://computerhoy.com/internet/cantidad-datos-generan-internet-cada-minuto-1351127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/impresionante-cantidad-datos-generan-internet-cada-minuto-3251123.jpg?tf=1200x' alt='Esta es la impresionante cantidad de datos que se generan en Internet cada minuto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/truco-amazon-fire-tv-soluciona-mayoria-problemas-1350778'>El truco de los 4 pasos del Amazon Fire TV que soluciona la mayoría de los problemas de rendimiento</a></h4>
-    <a href='https://computerhoy.com/amazon/truco-amazon-fire-tv-soluciona-mayoria-problemas-1350778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/truco-4-pasos-amazon-fire-tv-soluciona-mayoria-problemas-rendimiento-3250562.jpg?tf=1200x' alt='El truco de los 4 pasos del Amazon Fire TV que soluciona la mayoría de los problemas de rendimiento' />
+    <h4><a href='https://computerhoy.com/tecnologia/kindle-mucho-libro-cuaderno-ahora-ha-hundido-precio-1350972'>Este Kindle es mucho más que un libro: es cuaderno y ahora ha hundido su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/kindle-mucho-libro-cuaderno-ahora-ha-hundido-precio-1350972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/kindle-scribe-3250855.jpg?tf=1200x' alt='Este Kindle es mucho más que un libro: es cuaderno y ahora ha hundido su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/primer-coche-electrico-ruso-postula-como-feos-1351068'>El primer coche eléctrico ruso no aporta gran cosa, pero se postula para ser uno de los coches más feos de la historia</a></h4>
-    <a href='https://computerhoy.com/motor/primer-coche-electrico-ruso-postula-como-feos-1351068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/primer-coche-electrico-ruso-amber-3251028.jpg?tf=1200x' alt='El primer coche eléctrico ruso no aporta gran cosa, pero se postula para ser uno de los coches más feos de la historia' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-desmantela-gran-red-venta-listas-iptv-piratas-europa-1351095'>La Policía desmantela una de las redes de venta de listas IPTV piratas más importantes de Europa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-desmantela-gran-red-venta-listas-iptv-piratas-europa-1351095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/policia-desmantela-redes-venta-listas-iptv-importantes-europa-3251072.jpg?tf=1200x' alt='La Policía desmantela una de las redes de venta de listas IPTV piratas más importantes de Europa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-padres-juguete-generador-problemas-1350650'>Flipper Zero para padres: ¿juguete o generador de problemas?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flipper-zero-padres-juguete-generador-problemas-1350650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-3250919.jpg?tf=1200x' alt='Flipper Zero para padres: ¿juguete o generador de problemas?' />
+    <h4><a href='https://computerhoy.com/ciencia/anhedonia-como-nuevas-tecnologias-pueden-hacerte-perder-alegria-1345372'>Anhedonia: cómo las nuevas tecnologías pueden hacerte perder la alegría</a></h4>
+    <a href='https://computerhoy.com/ciencia/anhedonia-como-nuevas-tecnologias-pueden-hacerte-perder-alegria-1345372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/anhedonia-como-nuevas-tecnologias-pueden-hacerte-perder-alegria-3240900.jpg?tf=1200x' alt='Anhedonia: cómo las nuevas tecnologías pueden hacerte perder la alegría' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/xbox-series-s-oferta-amazon-envio-antes-navidad-1350521'>Última llamada: la consola más barata de esta generación cae aún más de precio y llega a tiempo para Navidad</a></h4>
-    <a href='https://computerhoy.com/gaming/xbox-series-s-oferta-amazon-envio-antes-navidad-1350521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xbox-series-s-3250017.jpg?tf=1200x' alt='Última llamada: la consola más barata de esta generación cae aún más de precio y llega a tiempo para Navidad' />
+    <h4><a href='https://computerhoy.com/apps/no-error-android-auto-cambia-forma-radical-posible-no-te-guste-1351116'>No es un error: Android Auto cambia de forma radical, y es posible que no te guste</a></h4>
+    <a href='https://computerhoy.com/apps/no-error-android-auto-cambia-forma-radical-posible-no-te-guste-1351116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg?tf=1200x' alt='No es un error: Android Auto cambia de forma radical, y es posible que no te guste' />
     </a>
 </div>
 
