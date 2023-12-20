@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO calidad precio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/poco-x5-pro-5g-2948376.jpg?tf=1200x' alt='Estos son los mejores móviles POCO calidad precio que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aprobada-union-europea-primera-ley-inteligencia-artificial-exito-fracaso-1348296'>Aprobada en la Unión Europea la primera ley de inteligencia artificial del mundo: ¿Se considera un éxito o será todo un fracaso?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aprobada-union-europea-primera-ley-inteligencia-artificial-exito-fracaso-1348296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ley-inteligencia-artifiicial-3249083.jpg?tf=1200x' alt='Aprobada en la Unión Europea la primera ley de inteligencia artificial del mundo: ¿Se considera un éxito o será todo un fracaso?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/estos-son-moviles-carga-rapida-puedes-comprar-ahora-mismo-1312866'>Estos son los móviles con la carga más rápida que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/mejores/estos-son-moviles-carga-rapida-puedes-comprar-ahora-mismo-1312866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/carga-rapida-3043940.jpg?tf=1200x' alt='Estos son los móviles con la carga más rápida que puedes comprar ahora mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-recibe-streaming-gato-espacio-profundo-31-millones-kilometros-1350824'>La NASA recibe un streaming del espacio profundo, a 31 millones de Kilómetros, y cómo no, es de un gato</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-recibe-streaming-gato-espacio-profundo-31-millones-kilometros-1350824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nasa-recibe-streaming-espacio-profundo-31-millones-kilometros-como-no-gato-3250606.jpg?tf=1200x' alt='La NASA recibe un streaming del espacio profundo, a 31 millones de Kilómetros, y cómo no, es de un gato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-traslada-guerra-disney-x-tesla-1350819'>En un peligroso movimiento, Elon Musk traslada su guerra contra Disney de X a Tesla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-traslada-guerra-disney-x-tesla-1350819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/peligroso-movimiento-elon-musk-traslada-guerra-disney-x-tesla-3250595.jpg?tf=1200x' alt='En un peligroso movimiento, Elon Musk traslada su guerra contra Disney de X a Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/he-conseguido-solucionar-gran-fallo-amazon-fire-tv-1350804'>Así he conseguido solucionar el gran fallo de los Amazon Fire TV: "era un infierno"</a></h4>
-    <a href='https://computerhoy.com/amazon/he-conseguido-solucionar-gran-fallo-amazon-fire-tv-1350804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/he-conseguido-solucionar-gran-fallo-amazon-fire-tv-era-infierno-3250585.jpg?tf=1200x' alt='Así he conseguido solucionar el gran fallo de los Amazon Fire TV: "era un infierno"' />
     </a>
 </div>
 
