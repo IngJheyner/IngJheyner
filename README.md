@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/no-te-amarguen-dia-loteria-navidad-2023-caldo-cultivo-perfecto-ciberdelincuencia-1350898'>Que no te amarguen el día de la Lotería de Navidad 2023: "el caldo de cultivo perfecto para la ciberdelincuencia"</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/no-te-amarguen-dia-loteria-navidad-2023-caldo-cultivo-perfecto-ciberdelincuencia-1350898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/loteria-ciberlincuencia-3250754.jpg?tf=1200x' alt='Que no te amarguen el día de la Lotería de Navidad 2023: "el caldo de cultivo perfecto para la ciberdelincuencia"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/comprar-raspberry-pi-opciones-precios-1251474'>Dónde comprar la Raspberry Pi a buen precio</a></h4>
+    <a href='https://computerhoy.com/pc/comprar-raspberry-pi-opciones-precios-1251474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raspberry-pi-5-3146606.jpg?tf=1200x' alt='Dónde comprar la Raspberry Pi a buen precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-trucos-identificar-imagenes-videos-generados-inteligencia-artificial-1350883'>5 trucos para identificar imágenes y vídeos generados por inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-trucos-identificar-imagenes-videos-generados-inteligencia-artificial-1350883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/deepfakes-inteligencia-artificial-3250718.jpg?tf=1200x' alt='5 trucos para identificar imágenes y vídeos generados por inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-lanza-ios-1721-corregir-multitud-bugs-extranos-1350881'>Apple lanza iOS 17.2.1 para eliminar multitud de errores: actualiza cuanto antes </a></h4>
     <a href='https://computerhoy.com/apple/apple-lanza-ios-1721-corregir-multitud-bugs-extranos-1350881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ios-17-3137496.jpg?tf=1200x' alt='Apple lanza iOS 17.2.1 para eliminar multitud de errores: actualiza cuanto antes ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/manos-obra-samsung-incorpora-galaxy-z-fold-5-z-flip-5-programa-autoreparacion-1350862'>¡Manos a la obra! Samsung incorpora el Galaxy Z Fold 5 y Z Flip 5 a su programa de autoreparación</a></h4>
     <a href='https://computerhoy.com/moviles/manos-obra-samsung-incorpora-galaxy-z-fold-5-z-flip-5-programa-autoreparacion-1350862' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/reparacion-moviles-samsung-3250665.jpg?tf=1200x' alt='¡Manos a la obra! Samsung incorpora el Galaxy Z Fold 5 y Z Flip 5 a su programa de autoreparación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-rebajas-navidad-casi-todos-dispositivos-precio-black-friday-1350843'>Amazon está de rebajas por Navidad: casi todos sus dispositivos a precio de Black Friday</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-rebajas-navidad-casi-todos-dispositivos-precio-black-friday-1350843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-3073012.jpg?tf=1200x' alt='Amazon está de rebajas por Navidad: casi todos sus dispositivos a precio de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/airpods-3-podrian-contar-5-cambios-clave-1350855'>Los AirPods Pro 3 podrían contar con 5 cambios de peso</a></h4>
-    <a href='https://computerhoy.com/apple/airpods-3-podrian-contar-5-cambios-clave-1350855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/airpods-iphone-3130548.jpg?tf=1200x' alt='Los AirPods Pro 3 podrían contar con 5 cambios de peso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-deepmind-repite-hazana-ia-ha-resuelto-antiguo-problema-matematico-1350854'>Google DeepMind hace historia con una IA que ha resuelto un antiguo e imposible problema matemático</a></h4>
-    <a href='https://computerhoy.com/google/google-deepmind-repite-hazana-ia-ha-resuelto-antiguo-problema-matematico-1350854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-problema-matematicas-3250651.jpg?tf=1200x' alt='Google DeepMind hace historia con una IA que ha resuelto un antiguo e imposible problema matemático' />
     </a>
 </div>
 
