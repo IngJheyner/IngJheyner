@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/he-conseguido-solucionar-gran-fallo-amazon-fire-tv-1350804'>Así he conseguido solucionar el gran fallo de los Amazon Fire TV: "era un infierno"</a></h4>
+    <a href='https://computerhoy.com/amazon/he-conseguido-solucionar-gran-fallo-amazon-fire-tv-1350804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/he-conseguido-solucionar-gran-fallo-amazon-fire-tv-era-infierno-3250585.jpg?tf=1200x' alt='Así he conseguido solucionar el gran fallo de los Amazon Fire TV: "era un infierno"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/bateria-catl-tiene-1000-kilometros-autonomia-integra-motor-1350748'>La nueva batería para coche eléctrico de CATL promete 1.000 kilómetros de autonomía e integra un motor</a></h4>
     <a href='https://computerhoy.com/motor/bateria-catl-tiene-1000-kilometros-autonomia-integra-motor-1350748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nueva-bateria-coche-electrico-catl-promete-1000-kilometros-autonomia-integra-motor-3250566.jpg?tf=1200x' alt='La nueva batería para coche eléctrico de CATL promete 1.000 kilómetros de autonomía e integra un motor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/sorteo-tienes-probabilidades-te-toque-gordo-nino-1350781'>En qué sorteo tienes más probabilidades de que te toque: ¿El Gordo o El Niño?</a></h4>
     <a href='https://computerhoy.com/life/sorteo-tienes-probabilidades-te-toque-gordo-nino-1350781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/loteria-navidad-3250539.jpg?tf=1200x' alt='En qué sorteo tienes más probabilidades de que te toque: ¿El Gordo o El Niño?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/no-estafa-son-nuevas-monedas-2-euros-pronto-circularan-espana-1350779'>No es una estafa: así son las nuevas monedas de 2 euros que pronto circularán en España</a></h4>
-    <a href='https://computerhoy.com/life/no-estafa-son-nuevas-monedas-2-euros-pronto-circularan-espana-1350779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/moneda-2-euros-3250538.jpg?tf=1200x' alt='No es una estafa: así son las nuevas monedas de 2 euros que pronto circularán en España' />
     </a>
 </div>
 
