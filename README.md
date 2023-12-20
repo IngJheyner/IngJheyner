@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/no-te-amarguen-dia-loteria-navidad-2023-caldo-cultivo-perfecto-ciberdelincuencia-1350898'>Que no te amarguen el día de la Lotería de Navidad 2023: "el caldo de cultivo perfecto para la ciberdelincuencia"</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/no-te-amarguen-dia-loteria-navidad-2023-caldo-cultivo-perfecto-ciberdelincuencia-1350898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/loteria-ciberlincuencia-3250754.jpg?tf=1200x' alt='Que no te amarguen el día de la Lotería de Navidad 2023: "el caldo de cultivo perfecto para la ciberdelincuencia"' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-todos-numeros-bloqueados-movil-android-1350467'>Cómo ver todos los números que has bloqueado en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-todos-numeros-bloqueados-movil-android-1350467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/numero-telefono-bloqueado-3250921.jpg?tf=1200x' alt='Cómo ver todos los números que has bloqueado en tu móvil Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/comprar-raspberry-pi-opciones-precios-1251474'>Dónde comprar la Raspberry Pi a buen precio</a></h4>
-    <a href='https://computerhoy.com/pc/comprar-raspberry-pi-opciones-precios-1251474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raspberry-pi-5-3146606.jpg?tf=1200x' alt='Dónde comprar la Raspberry Pi a buen precio' />
+    <h4><a href='https://computerhoy.com/motor/disenador-delorean-regreso-futuro-no-corta-habla-tesla-cybertruck-1351023'>El diseñador del DeLorean de Regreso al futuro no se corta al habla del Cybertruck de Tesla y Elon Musk</a></h4>
+    <a href='https://computerhoy.com/motor/disenador-delorean-regreso-futuro-no-corta-habla-tesla-cybertruck-1351023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/delorean-regreso-futuro-impulsa-innovacion-cybertruck-tesla-traves-ojos-icono-3250929.jpg?tf=1200x' alt='El diseñador del DeLorean de Regreso al futuro no se corta al habla del Cybertruck de Tesla y Elon Musk' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-trucos-identificar-imagenes-videos-generados-inteligencia-artificial-1350883'>5 trucos para identificar imágenes y vídeos generados por inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-trucos-identificar-imagenes-videos-generados-inteligencia-artificial-1350883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/deepfakes-inteligencia-artificial-3250718.jpg?tf=1200x' alt='5 trucos para identificar imágenes y vídeos generados por inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/life/felicitaciones-navidad-elegantes-enviar-whatsapp-1168788'>Felicitaciones de Navidad elegantes para enviar por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/life/felicitaciones-navidad-elegantes-enviar-whatsapp-1168788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-navidad-2899250.jpg?tf=1200x' alt='Felicitaciones de Navidad elegantes para enviar por WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-lanza-ios-1721-corregir-multitud-bugs-extranos-1350881'>Apple lanza iOS 17.2.1 para eliminar multitud de errores: actualiza cuanto antes </a></h4>
-    <a href='https://computerhoy.com/apple/apple-lanza-ios-1721-corregir-multitud-bugs-extranos-1350881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ios-17-3137496.jpg?tf=1200x' alt='Apple lanza iOS 17.2.1 para eliminar multitud de errores: actualiza cuanto antes ' />
+    <h4><a href='https://computerhoy.com/tutoriales/que-es-boost-pc-1350407'>Qué es CPU Boost y porque deberías activarlo en tu PC ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/que-es-boost-pc-1350407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cpu-boost-porque-deberias-activarlo-pc-ahora-mismo-3249949.jpg?tf=1200x' alt='Qué es CPU Boost y porque deberías activarlo en tu PC ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/manos-obra-samsung-incorpora-galaxy-z-fold-5-z-flip-5-programa-autoreparacion-1350862'>¡Manos a la obra! Samsung incorpora el Galaxy Z Fold 5 y Z Flip 5 a su programa de autoreparación</a></h4>
-    <a href='https://computerhoy.com/moviles/manos-obra-samsung-incorpora-galaxy-z-fold-5-z-flip-5-programa-autoreparacion-1350862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/reparacion-moviles-samsung-3250665.jpg?tf=1200x' alt='¡Manos a la obra! Samsung incorpora el Galaxy Z Fold 5 y Z Flip 5 a su programa de autoreparación' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/coordenadas-raras-puedes-ver-google-maps-306159'>Las coordenadas más raras que puedes ver en Google Maps</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/coordenadas-raras-puedes-ver-google-maps-306159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/coordenadas-raras-puedes-ver-google-maps-3250605.jpg?tf=1200x' alt='Las coordenadas más raras que puedes ver en Google Maps' />
     </a>
 </div>
 
