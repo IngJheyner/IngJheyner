@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/pantalla-negro-windows-como-repararlo-tener-dar-botonazo-1344462'>Pantalla en negro en Windows: cómo repararlo sin tener que dar un "botonazo"</a></h4>
+    <a href='https://computerhoy.com/tutoriales/pantalla-negro-windows-como-repararlo-tener-dar-botonazo-1344462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pantalla-negro-windows-como-repararlo-tener-dar-botonazo-3238936.jpg?tf=1200x' alt='Pantalla en negro en Windows: cómo repararlo sin tener que dar un "botonazo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/policia-advierte-catastrofico-error-muchos-cometen-salir-casa-no-son-excusas-1351418'>La Policía advierte del catastrófico error que muchos cometen al salir de casa: "No son excusas"</a></h4>
+    <a href='https://computerhoy.com/life/policia-advierte-catastrofico-error-muchos-cometen-salir-casa-no-son-excusas-1351418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cerrar-puerta-llave-3251620.jpg?tf=1200x' alt='La Policía advierte del catastrófico error que muchos cometen al salir de casa: "No son excusas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/expertos-harvard-consiguen-avance-precedentes-computacion-cuantica-1351390'>Expertos de Harvard consiguen un avance sin precedentes en la computación cuántica: el primer procesador programable</a></h4>
     <a href='https://computerhoy.com/ciencia/expertos-harvard-consiguen-avance-precedentes-computacion-cuantica-1351390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/computacion-cuantica-3251589.jpg?tf=1200x' alt='Expertos de Harvard consiguen un avance sin precedentes en la computación cuántica: el primer procesador programable' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-sigue-matando-windows-elimina-funcionalidad-1351417'>Microsoft sigue matando a Windows y elimina esta funcionalidad</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-sigue-matando-windows-elimina-funcionalidad-1351417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/windows-10-realidad-virtual-3251617.jpg?tf=1200x' alt='Microsoft sigue matando a Windows y elimina esta funcionalidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bigscreen-beyond-gafas-vr-prometen-revolucionar-realidad-virtual-1351300'>Bigscreen Beyond, el visor VR más ligero y compacto del mundo que promete ser el futuro de la realidad virtual</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bigscreen-beyond-gafas-vr-prometen-revolucionar-realidad-virtual-1351300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bigscreen-beyond-visor-vr-ligero-compacto-mundo-promete-ser-futuro-realidad-virtual-3251468.jpg?tf=1200x' alt='Bigscreen Beyond, el visor VR más ligero y compacto del mundo que promete ser el futuro de la realidad virtual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pasaria-atravesaras-tunel-cruza-centro-tierra-1351357'>¿Qué pasaría si atravesaras un túnel que cruza el centro de la Tierra? Estas son las maneras horribles en que las morirías</a></h4>
-    <a href='https://computerhoy.com/life/pasaria-atravesaras-tunel-cruza-centro-tierra-1351357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hubiera-tunel-cruzara-centro-tierra-seria-trampa-mortal-estas-son-maneras-horribles-moririas-cruzandolo-3251498.jpg?tf=1200x' alt='¿Qué pasaría si atravesaras un túnel que cruza el centro de la Tierra? Estas son las maneras horribles en que las morirías' />
     </a>
 </div>
 
