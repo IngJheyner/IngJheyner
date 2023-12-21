@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/liderazgo-carismatico-despiadado-mito-steve-jobs-bill-gates-1351165'>Así es como Steve Jobs y Bill Gates crearon el mito del líder carismático y despiadado para alcanzar el éxito</a></h4>
+    <a href='https://computerhoy.com/life/liderazgo-carismatico-despiadado-mito-steve-jobs-bill-gates-1351165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-steve-jobs-bill-gates-crearon-mito-lider-carismatico-despiadado-alcanzar-exito-3251150.jpg?tf=1200x' alt='Así es como Steve Jobs y Bill Gates crearon el mito del líder carismático y despiadado para alcanzar el éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/son-wingmen-ovnis-chinos-alrededor-nave-espacial-1351318'>¿Qué son los wingmen? Los OVNIS espaciales chinos que ha dejado en órbita el avión secreto ShenLong y han puesto en alerta a Estados Unidos </a></h4>
+    <a href='https://computerhoy.com/espacio/son-wingmen-ovnis-chinos-alrededor-nave-espacial-1351318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/son-wingmen-ovnis-espaciales-chinos-alrededor-nave-espacial-robotica-3251464.jpg?tf=1200x' alt='¿Qué son los wingmen? Los OVNIS espaciales chinos que ha dejado en órbita el avión secreto ShenLong y han puesto en alerta a Estados Unidos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/peores-dolores-mundo-1347280'>Estos son los 5 peores dolores del mundo</a></h4>
+    <a href='https://computerhoy.com/life/peores-dolores-mundo-1347280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estos-son-5-peores-dolores-mundo-3244566.jpg?tf=1200x' alt='Estos son los 5 peores dolores del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-saber-numero-seguridad-social-894229'>Cómo ver el número de la Seguridad Social: cinco métodos sencillos para obtenerlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-saber-numero-seguridad-social-894229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-ver-numero-seguridad-social-cinco-metodos-sencillos-obtenerlo-3251159.jpg?tf=1200x' alt='Cómo ver el número de la Seguridad Social: cinco métodos sencillos para obtenerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/estos-diminutos-robots-creados-celulas-humanas-te-curaran-dentro-1351251'>Estos diminutos robots creados con células humanas prometen curarte por dentro</a></h4>
     <a href='https://computerhoy.com/ciencia/estos-diminutos-robots-creados-celulas-humanas-te-curaran-dentro-1351251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robots-curan-heridas-3251311.jpg?tf=1200x' alt='Estos diminutos robots creados con células humanas prometen curarte por dentro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mark-zuckerberg-sam-altman-ya-cuentan-propio-bunker-preparan-apocalipsis-1351216'>Mark Zuckerberg y Sam Altman ya cuentan con su propio búnker: ¿Se están preparando para un apocalipsis?</a></h4>
-    <a href='https://computerhoy.com/life/mark-zuckerberg-sam-altman-ya-cuentan-propio-bunker-preparan-apocalipsis-1351216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bunker-oculto-zuckerberg-altman-3251240.jpg?tf=1200x' alt='Mark Zuckerberg y Sam Altman ya cuentan con su propio búnker: ¿Se están preparando para un apocalipsis?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-gaming-rtx-3060-oferta-pccomponentes-1351066'>Este PC Gaming hace temblar tu cuenta de Steam: es barato, potente y calza una RTX 3060</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-gaming-rtx-3060-oferta-pccomponentes-1351066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pccom-ready-3250968.jpg?tf=1200x' alt='Este PC Gaming hace temblar tu cuenta de Steam: es barato, potente y calza una RTX 3060' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/inteligencia-artificial-poder-12-mejores-extensiones-chrome-2023-google-1351208'>Inteligencia artificial al poder: las 12 mejores extensiones para Chrome de 2023, según Google</a></h4>
-    <a href='https://computerhoy.com/google/inteligencia-artificial-poder-12-mejores-extensiones-chrome-2023-google-1351208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mejores-extensiones-chrome-2023-google-3251230.jpg?tf=1200x' alt='Inteligencia artificial al poder: las 12 mejores extensiones para Chrome de 2023, según Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-6-trucos-te-ayudaran-respuestas-chatgpt-bard-den-clavo-1351202'>Estos 6 trucos te ayudarán a que las respuestas de ChatGPT o Bard den en el clavo </a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-6-trucos-te-ayudaran-respuestas-chatgpt-bard-den-clavo-1351202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/puedes-instalar-utilizar-chatgpt-como-aplicacion-windows-11-3221958.jpg?tf=1200x' alt='Estos 6 trucos te ayudarán a que las respuestas de ChatGPT o Bard den en el clavo ' />
     </a>
 </div>
 
