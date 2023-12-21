@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/liderazgo-carismatico-despiadado-mito-steve-jobs-bill-gates-1351165'>Así es como Steve Jobs y Bill Gates crearon el mito del líder carismático y despiadado para alcanzar el éxito</a></h4>
-    <a href='https://computerhoy.com/life/liderazgo-carismatico-despiadado-mito-steve-jobs-bill-gates-1351165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-steve-jobs-bill-gates-crearon-mito-lider-carismatico-despiadado-alcanzar-exito-3251150.jpg?tf=1200x' alt='Así es como Steve Jobs y Bill Gates crearon el mito del líder carismático y despiadado para alcanzar el éxito' />
+    <h4><a href='https://computerhoy.com/ciencia/expertos-harvard-consiguen-avance-precedentes-computacion-cuantica-1351390'>Expertos de Harvard consiguen un avance sin precedentes en la computación cuántica: el primer procesador programable</a></h4>
+    <a href='https://computerhoy.com/ciencia/expertos-harvard-consiguen-avance-precedentes-computacion-cuantica-1351390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/computacion-cuantica-3251589.jpg?tf=1200x' alt='Expertos de Harvard consiguen un avance sin precedentes en la computación cuántica: el primer procesador programable' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/son-wingmen-ovnis-chinos-alrededor-nave-espacial-1351318'>¿Qué son los wingmen? Los OVNIS espaciales chinos que ha dejado en órbita el avión secreto ShenLong y han puesto en alerta a Estados Unidos </a></h4>
-    <a href='https://computerhoy.com/espacio/son-wingmen-ovnis-chinos-alrededor-nave-espacial-1351318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/son-wingmen-ovnis-espaciales-chinos-alrededor-nave-espacial-robotica-3251464.jpg?tf=1200x' alt='¿Qué son los wingmen? Los OVNIS espaciales chinos que ha dejado en órbita el avión secreto ShenLong y han puesto en alerta a Estados Unidos ' />
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-james-bond-quantum-solace-1351420'>Qué película ver en la TDT hoy: James Bond en busca de venganza</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-james-bond-quantum-solace-1351420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/05/400461-aston-martin-dbs-quantum-solace.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: James Bond en busca de venganza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/peores-dolores-mundo-1347280'>Estos son los 5 peores dolores del mundo</a></h4>
-    <a href='https://computerhoy.com/life/peores-dolores-mundo-1347280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estos-son-5-peores-dolores-mundo-3244566.jpg?tf=1200x' alt='Estos son los 5 peores dolores del mundo' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-sigue-matando-windows-elimina-funcionalidad-1351417'>Microsoft sigue matando a Windows y elimina esta funcionalidad</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-sigue-matando-windows-elimina-funcionalidad-1351417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/windows-10-realidad-virtual-3251617.jpg?tf=1200x' alt='Microsoft sigue matando a Windows y elimina esta funcionalidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-saber-numero-seguridad-social-894229'>Cómo ver el número de la Seguridad Social: cinco métodos sencillos para obtenerlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-saber-numero-seguridad-social-894229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-ver-numero-seguridad-social-cinco-metodos-sencillos-obtenerlo-3251159.jpg?tf=1200x' alt='Cómo ver el número de la Seguridad Social: cinco métodos sencillos para obtenerlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/bigscreen-beyond-gafas-vr-prometen-revolucionar-realidad-virtual-1351300'>Bigscreen Beyond, el visor VR más ligero y compacto del mundo que promete ser el futuro de la realidad virtual</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bigscreen-beyond-gafas-vr-prometen-revolucionar-realidad-virtual-1351300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bigscreen-beyond-visor-vr-ligero-compacto-mundo-promete-ser-futuro-realidad-virtual-3251468.jpg?tf=1200x' alt='Bigscreen Beyond, el visor VR más ligero y compacto del mundo que promete ser el futuro de la realidad virtual' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estos-diminutos-robots-creados-celulas-humanas-te-curaran-dentro-1351251'>Estos diminutos robots creados con células humanas prometen curarte por dentro</a></h4>
-    <a href='https://computerhoy.com/ciencia/estos-diminutos-robots-creados-celulas-humanas-te-curaran-dentro-1351251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robots-curan-heridas-3251311.jpg?tf=1200x' alt='Estos diminutos robots creados con células humanas prometen curarte por dentro' />
+    <h4><a href='https://computerhoy.com/life/pasaria-atravesaras-tunel-cruza-centro-tierra-1351357'>¿Qué pasaría si atravesaras un túnel que cruza el centro de la Tierra? Estas son las maneras horribles en que las morirías</a></h4>
+    <a href='https://computerhoy.com/life/pasaria-atravesaras-tunel-cruza-centro-tierra-1351357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hubiera-tunel-cruzara-centro-tierra-seria-trampa-mortal-estas-son-maneras-horribles-moririas-cruzandolo-3251498.jpg?tf=1200x' alt='¿Qué pasaría si atravesaras un túnel que cruza el centro de la Tierra? Estas son las maneras horribles en que las morirías' />
     </a>
 </div>
 
