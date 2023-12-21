@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/5-iphones-reacondicionados-precio-regalo-navidad-1351175'>5 iPhone reacondicionados a precio de regalo por Navidad</a></h4>
+    <a href='https://computerhoy.com/apple/5-iphones-reacondicionados-precio-regalo-navidad-1351175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-pro-max-1677587257882-2969646.jpg?tf=1200x' alt='5 iPhone reacondicionados a precio de regalo por Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/acer-chromebook-plus-514-4-pros-1-portatil-nube-1350206'>Acer Chromebook Plus 514, lo he probado: 4 pros y 1 contra de este portátil para trabajar en la nube</a></h4>
+    <a href='https://computerhoy.com/pc/acer-chromebook-plus-514-4-pros-1-portatil-nube-1350206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acer-chromebook-plus-514-3250207.jpg?tf=1200x' alt='Acer Chromebook Plus 514, lo he probado: 4 pros y 1 contra de este portátil para trabajar en la nube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617'>Los mejores teclados ergonómicos para trabajar que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/logitech-teclado-ergonomico-3250986.jpg?tf=1200x' alt='Los mejores teclados ergonómicos para trabajar que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/consiguen-resolver-codigo-encriptado-escondido-vestido-siglo-xix-1351172'>Consiguen resolver el código encriptado escondido en un bolsillo secreto de un vestido del siglo XIX</a></h4>
+    <a href='https://computerhoy.com/ciencia/consiguen-resolver-codigo-encriptado-escondido-vestido-siglo-xix-1351172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/consiguen-resolver-codigo-secreto-escondido-vestido-siglo-xix-3251151.jpg?tf=1200x' alt='Consiguen resolver el código encriptado escondido en un bolsillo secreto de un vestido del siglo XIX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/fin-pornografia-online-forma-anonima-europa-1351164'>Se acabó ver pornografía online de forma anónima en la Unión Europea</a></h4>
     <a href='https://computerhoy.com/tecnologia/fin-pornografia-online-forma-anonima-europa-1351164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acabo-ver-pornografia-online-forma-anonima-europa-3251136.jpg?tf=1200x' alt='Se acabó ver pornografía online de forma anónima en la Unión Europea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/interpol-detiene-3500-cibercriminales-34-paises-1351158'>La Interpol detiene a 3.500 ciberdelincuentes en 34 países, en una de las mayores operaciones de la historia</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/interpol-detiene-3500-cibercriminales-34-paises-1351158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/interpol-detiene-3500-cibercriminales-34-paises-mayores-operaciones-historia-3251115.jpg?tf=1200x' alt='La Interpol detiene a 3.500 ciberdelincuentes en 34 países, en una de las mayores operaciones de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cantidad-datos-generan-internet-cada-minuto-1351127'>Esta es la impresionante cantidad de datos que se generan en Internet cada minuto</a></h4>
-    <a href='https://computerhoy.com/internet/cantidad-datos-generan-internet-cada-minuto-1351127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/impresionante-cantidad-datos-generan-internet-cada-minuto-3251123.jpg?tf=1200x' alt='Esta es la impresionante cantidad de datos que se generan en Internet cada minuto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/kindle-mucho-libro-cuaderno-ahora-ha-hundido-precio-1350972'>Este Kindle es mucho más que un libro: es cuaderno y ahora ha hundido su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/kindle-mucho-libro-cuaderno-ahora-ha-hundido-precio-1350972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/kindle-scribe-3250855.jpg?tf=1200x' alt='Este Kindle es mucho más que un libro: es cuaderno y ahora ha hundido su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-desmantela-gran-red-venta-listas-iptv-piratas-europa-1351095'>La Policía desmantela una de las redes de venta de listas IPTV piratas más importantes de Europa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-desmantela-gran-red-venta-listas-iptv-piratas-europa-1351095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/policia-desmantela-redes-venta-listas-iptv-importantes-europa-3251072.jpg?tf=1200x' alt='La Policía desmantela una de las redes de venta de listas IPTV piratas más importantes de Europa' />
     </a>
 </div>
 
