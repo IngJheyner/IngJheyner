@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fin-pornografia-online-forma-anonima-europa-1351164'>Se acabó ver pornografía online de forma anónima en la Unión Europea</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fin-pornografia-online-forma-anonima-europa-1351164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acabo-ver-pornografia-online-forma-anonima-europa-3251136.jpg?tf=1200x' alt='Se acabó ver pornografía online de forma anónima en la Unión Europea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/interpol-detiene-3500-cibercriminales-34-paises-1351158'>La Interpol detiene a 3.500 ciberdelincuentes en 34 países, en una de las mayores operaciones de la historia</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/interpol-detiene-3500-cibercriminales-34-paises-1351158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/interpol-detiene-3500-cibercriminales-34-paises-mayores-operaciones-historia-3251115.jpg?tf=1200x' alt='La Interpol detiene a 3.500 ciberdelincuentes en 34 países, en una de las mayores operaciones de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/cantidad-datos-generan-internet-cada-minuto-1351127'>Esta es la impresionante cantidad de datos que se generan en Internet cada minuto</a></h4>
     <a href='https://computerhoy.com/internet/cantidad-datos-generan-internet-cada-minuto-1351127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/impresionante-cantidad-datos-generan-internet-cada-minuto-3251123.jpg?tf=1200x' alt='Esta es la impresionante cantidad de datos que se generan en Internet cada minuto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-desmantela-gran-red-venta-listas-iptv-piratas-europa-1351095'>La Policía desmantela una de las redes de venta de listas IPTV piratas más importantes de Europa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-desmantela-gran-red-venta-listas-iptv-piratas-europa-1351095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/policia-desmantela-redes-venta-listas-iptv-importantes-europa-3251072.jpg?tf=1200x' alt='La Policía desmantela una de las redes de venta de listas IPTV piratas más importantes de Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/anhedonia-como-nuevas-tecnologias-pueden-hacerte-perder-alegria-1345372'>Anhedonia: cómo las nuevas tecnologías pueden hacerte perder la alegría</a></h4>
-    <a href='https://computerhoy.com/ciencia/anhedonia-como-nuevas-tecnologias-pueden-hacerte-perder-alegria-1345372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/anhedonia-como-nuevas-tecnologias-pueden-hacerte-perder-alegria-3240900.jpg?tf=1200x' alt='Anhedonia: cómo las nuevas tecnologías pueden hacerte perder la alegría' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/no-error-android-auto-cambia-forma-radical-posible-no-te-guste-1351116'>No es un error: Android Auto cambia de forma radical, y es posible que no te guste</a></h4>
-    <a href='https://computerhoy.com/apps/no-error-android-auto-cambia-forma-radical-posible-no-te-guste-1351116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/android-auto-2616007.jpg?tf=1200x' alt='No es un error: Android Auto cambia de forma radical, y es posible que no te guste' />
     </a>
 </div>
 
