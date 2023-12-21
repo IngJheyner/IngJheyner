@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/estos-diminutos-robots-creados-celulas-humanas-te-curaran-dentro-1351251'>Estos diminutos robots creados con células humanas prometen curarte por dentro</a></h4>
+    <a href='https://computerhoy.com/ciencia/estos-diminutos-robots-creados-celulas-humanas-te-curaran-dentro-1351251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robots-curan-heridas-3251311.jpg?tf=1200x' alt='Estos diminutos robots creados con células humanas prometen curarte por dentro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mark-zuckerberg-sam-altman-ya-cuentan-propio-bunker-preparan-apocalipsis-1351216'>Mark Zuckerberg y Sam Altman ya cuentan con su propio búnker: ¿Se están preparando para un apocalipsis?</a></h4>
+    <a href='https://computerhoy.com/life/mark-zuckerberg-sam-altman-ya-cuentan-propio-bunker-preparan-apocalipsis-1351216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bunker-oculto-zuckerberg-altman-3251240.jpg?tf=1200x' alt='Mark Zuckerberg y Sam Altman ya cuentan con su propio búnker: ¿Se están preparando para un apocalipsis?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pc-gaming-rtx-3060-oferta-pccomponentes-1351066'>Este PC Gaming hace temblar tu cuenta de Steam: es barato, potente y calza una RTX 3060</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-gaming-rtx-3060-oferta-pccomponentes-1351066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pccom-ready-3250968.jpg?tf=1200x' alt='Este PC Gaming hace temblar tu cuenta de Steam: es barato, potente y calza una RTX 3060' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/inteligencia-artificial-poder-12-mejores-extensiones-chrome-2023-google-1351208'>Inteligencia artificial al poder: las 12 mejores extensiones para Chrome de 2023, según Google</a></h4>
+    <a href='https://computerhoy.com/google/inteligencia-artificial-poder-12-mejores-extensiones-chrome-2023-google-1351208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mejores-extensiones-chrome-2023-google-3251230.jpg?tf=1200x' alt='Inteligencia artificial al poder: las 12 mejores extensiones para Chrome de 2023, según Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estos-6-trucos-te-ayudaran-respuestas-chatgpt-bard-den-clavo-1351202'>Estos 6 trucos te ayudarán a que las respuestas de ChatGPT o Bard den en el clavo </a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-6-trucos-te-ayudaran-respuestas-chatgpt-bard-den-clavo-1351202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/puedes-instalar-utilizar-chatgpt-como-aplicacion-windows-11-3221958.jpg?tf=1200x' alt='Estos 6 trucos te ayudarán a que las respuestas de ChatGPT o Bard den en el clavo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-nothing-rebaja-aliexpress-1350998'>Nothing pone el mercado patas arriba: su nuevo y minimalista smartwatch es increíblemente barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-nothing-rebaja-aliexpress-1350998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cmf-watch-pro-nothing-3250863.jpg?tf=1200x' alt='Nothing pone el mercado patas arriba: su nuevo y minimalista smartwatch es increíblemente barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/secretos-ladron-iphone-gano-dos-millones-dolares-robando-moviles-consiguiendo-todas-contrasenas-1351194'>Los secretos de un ladrón de iPhone: ganó dos millones de dólares robando móviles y consiguiendo todas las contraseñas</a></h4>
-    <a href='https://computerhoy.com/apple/secretos-ladron-iphone-gano-dos-millones-dolares-robando-moviles-consiguiendo-todas-contrasenas-1351194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ladron-moviles-3251195.jpg?tf=1200x' alt='Los secretos de un ladrón de iPhone: ganó dos millones de dólares robando móviles y consiguiendo todas las contraseñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/5-iphones-reacondicionados-precio-regalo-navidad-1351175'>5 iPhone reacondicionados a precio de regalo por Navidad</a></h4>
-    <a href='https://computerhoy.com/apple/5-iphones-reacondicionados-precio-regalo-navidad-1351175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-pro-max-1677587257882-2969646.jpg?tf=1200x' alt='5 iPhone reacondicionados a precio de regalo por Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/acer-chromebook-plus-514-4-pros-1-portatil-nube-1350206'>Acer Chromebook Plus 514, lo he probado: 4 pros y 1 contra de este portátil para trabajar en la nube</a></h4>
-    <a href='https://computerhoy.com/pc/acer-chromebook-plus-514-4-pros-1-portatil-nube-1350206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acer-chromebook-plus-514-3250207.jpg?tf=1200x' alt='Acer Chromebook Plus 514, lo he probado: 4 pros y 1 contra de este portátil para trabajar en la nube' />
     </a>
 </div>
 
