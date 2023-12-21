@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-6-trucos-te-ayudaran-respuestas-chatgpt-bard-den-clavo-1351202'>Estos 6 trucos te ayudarán a que las respuestas de ChatGPT o Bard den en el clavo </a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-6-trucos-te-ayudaran-respuestas-chatgpt-bard-den-clavo-1351202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/puedes-instalar-utilizar-chatgpt-como-aplicacion-windows-11-3221958.jpg?tf=1200x' alt='Estos 6 trucos te ayudarán a que las respuestas de ChatGPT o Bard den en el clavo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-nothing-rebaja-aliexpress-1350998'>Nothing pone el mercado patas arriba: su nuevo y minimalista smartwatch es increíblemente barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-nothing-rebaja-aliexpress-1350998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cmf-watch-pro-nothing-3250863.jpg?tf=1200x' alt='Nothing pone el mercado patas arriba: su nuevo y minimalista smartwatch es increíblemente barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/secretos-ladron-iphone-gano-dos-millones-dolares-robando-moviles-consiguiendo-todas-contrasenas-1351194'>Los secretos de un ladrón de iPhone: ganó dos millones de dólares robando móviles y consiguiendo todas las contraseñas</a></h4>
+    <a href='https://computerhoy.com/apple/secretos-ladron-iphone-gano-dos-millones-dolares-robando-moviles-consiguiendo-todas-contrasenas-1351194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ladron-moviles-3251195.jpg?tf=1200x' alt='Los secretos de un ladrón de iPhone: ganó dos millones de dólares robando móviles y consiguiendo todas las contraseñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/5-iphones-reacondicionados-precio-regalo-navidad-1351175'>5 iPhone reacondicionados a precio de regalo por Navidad</a></h4>
     <a href='https://computerhoy.com/apple/5-iphones-reacondicionados-precio-regalo-navidad-1351175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/apple-iphone-14-pro-max-1677587257882-2969646.jpg?tf=1200x' alt='5 iPhone reacondicionados a precio de regalo por Navidad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/acer-chromebook-plus-514-4-pros-1-portatil-nube-1350206'>Acer Chromebook Plus 514, lo he probado: 4 pros y 1 contra de este portátil para trabajar en la nube</a></h4>
     <a href='https://computerhoy.com/pc/acer-chromebook-plus-514-4-pros-1-portatil-nube-1350206' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acer-chromebook-plus-514-3250207.jpg?tf=1200x' alt='Acer Chromebook Plus 514, lo he probado: 4 pros y 1 contra de este portátil para trabajar en la nube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617'>Los mejores teclados ergonómicos para trabajar que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-teclados-ergonomicos-trabajar-puedes-comprar-2020-582617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/logitech-teclado-ergonomico-3250986.jpg?tf=1200x' alt='Los mejores teclados ergonómicos para trabajar que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/consiguen-resolver-codigo-encriptado-escondido-vestido-siglo-xix-1351172'>Consiguen resolver el código encriptado escondido en un bolsillo secreto de un vestido del siglo XIX</a></h4>
-    <a href='https://computerhoy.com/ciencia/consiguen-resolver-codigo-encriptado-escondido-vestido-siglo-xix-1351172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/consiguen-resolver-codigo-secreto-escondido-vestido-siglo-xix-3251151.jpg?tf=1200x' alt='Consiguen resolver el código encriptado escondido en un bolsillo secreto de un vestido del siglo XIX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fin-pornografia-online-forma-anonima-europa-1351164'>Se acabó ver pornografía online de forma anónima en la Unión Europea</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fin-pornografia-online-forma-anonima-europa-1351164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acabo-ver-pornografia-online-forma-anonima-europa-3251136.jpg?tf=1200x' alt='Se acabó ver pornografía online de forma anónima en la Unión Europea' />
     </a>
 </div>
 
