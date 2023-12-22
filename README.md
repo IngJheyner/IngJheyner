@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-red-wifi-pase-desapercibida-casi-nadie-utiliza-1346102'>El sencillo truco de seguridad para que tu red WiFi pase desapercibida que casi nadie utiliza</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-red-wifi-pase-desapercibida-casi-nadie-utiliza-1346102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sencillo-truco-seguridad-red-wifi-pase-desapercibida-casi-nadie-utiliza-3242330.jpg?tf=1200x' alt='El sencillo truco de seguridad para que tu red WiFi pase desapercibida que casi nadie utiliza' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-radiador-1500-opiniones-precio-ganga-wifi-1351185'>Amazon está liquidando un radiador con 1.500 opiniones a precio de ganga ¡y con WiFi!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-radiador-1500-opiniones-precio-ganga-wifi-1351185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/radiador-gridinlux-3251169.jpg?tf=1200x' alt='Amazon está liquidando un radiador con 1.500 opiniones a precio de ganga ¡y con WiFi!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/misterioso-rescate-botticelli-familia-devuelve-tesoro-oculto-109-millones-dolares-1351621'>El misterioso rescate de un Botticelli: una familia italiana devuelve un tesoro oculto de 109 millones de dólares</a></h4>
-    <a href='https://computerhoy.com/life/misterioso-rescate-botticelli-familia-devuelve-tesoro-oculto-109-millones-dolares-1351621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/misterioso-rescate-botticelli-familia-italiana-devuelve-tesoro-oculto-109-millones-dolares-3252024.jpg?tf=1200x' alt='El misterioso rescate de un Botticelli: una familia italiana devuelve un tesoro oculto de 109 millones de dólares' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-chrome-tiene-grave-problema-vpn-revisa-navegador-1351683'>Google Chrome tiene un grave problema con las VPN: revisa tu navegador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-chrome-tiene-grave-problema-vpn-revisa-navegador-1351683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-chrome-3113980.jpg?tf=1200x' alt='Google Chrome tiene un grave problema con las VPN: revisa tu navegador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-deja-ko-aliexpress-deja-auriculares-xiaomi-top-ventas-precio-ridiculo-1350758'>Amazon deja KO a AliExpress: deja los auriculares Xiaomi top ventas a precio ridículo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-deja-ko-aliexpress-deja-auriculares-xiaomi-top-ventas-precio-ridiculo-1350758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-redmi-buds-4-lite-3250514.jpg?tf=1200x' alt='Amazon deja KO a AliExpress: deja los auriculares Xiaomi top ventas a precio ridículo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-online-banco-iban-numero-cuenta-bancaria-1346440'>Cómo saber online, qué banco es por el IBAN o número de cuenta bancaria</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-online-banco-iban-numero-cuenta-bancaria-1346440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-online-banco-iban-numero-cuenta-bancaria-3243076.jpg?tf=1200x' alt='Cómo saber online, qué banco es por el IBAN o número de cuenta bancaria' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-iap-pharma-1351442'>Equivalencias de los perfumes y colonias de Iap Pharma</a></h4>
-    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-iap-pharma-1351442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/equivalencias-perfumes-colonias-iap-pharma-3251678.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Iap Pharma' />
+    <h4><a href='https://computerhoy.com/alimentacion/mito-comer-manzana-cierto-harvard-pero-debes-hacerlo-forma-concreta-1351682'>El mito de comer una manzana es cierto, según Harvard, pero debes hacerlo de una forma concreta</a></h4>
+    <a href='https://computerhoy.com/alimentacion/mito-comer-manzana-cierto-harvard-pero-debes-hacerlo-forma-concreta-1351682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mujer-muerde-manzana-3252104.jpg?tf=1200x' alt='El mito de comer una manzana es cierto, según Harvard, pero debes hacerlo de una forma concreta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nueva-bateria-nio-ya-permite-coche-electrico-hacer-1000-kilometros-parar-1351618'>La nueva batería de NIO ya permite a un coche eléctrico hacer 1.000 kilómetros sin parar como un diésel</a></h4>
-    <a href='https://computerhoy.com/motor/nueva-bateria-nio-ya-permite-coche-electrico-hacer-1000-kilometros-parar-1351618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nueva-bateria-electrica-nio-ya-te-permite-hacer-mismo-viaje-cargar-coche-combustion-1000-kilometros-3252014.jpg?tf=1200x' alt='La nueva batería de NIO ya permite a un coche eléctrico hacer 1.000 kilómetros sin parar como un diésel' />
+    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-yodeyma-1351009'>Equivalencias de los perfumes y colonias de Yodeyma</a></h4>
+    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-yodeyma-1351009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/equivalencias-perfumes-colonias-yodeyma-3251051.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Yodeyma' />
     </a>
 </div>
 
