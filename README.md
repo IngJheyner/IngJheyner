@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/sorprendentes-riesgos-compartir-fotos-cena-navidad-redes-sociales-expertos-1351526'>Los sorprendentes riesgos de compartir fotos de la cena de Navidad en redes sociales, según los expertos</a></h4>
+    <a href='https://computerhoy.com/life/sorprendentes-riesgos-compartir-fotos-cena-navidad-redes-sociales-expertos-1351526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estos-son-sorprendentes-riesgos-compartir-fotos-cena-navidad-redes-sociales-expertos-3251800.jpg?tf=1200x' alt='Los sorprendentes riesgos de compartir fotos de la cena de Navidad en redes sociales, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/captcha-prueba-turing-inversa-no-puede-ia-1351594'>CAPTCHA, la prueba de Turing inversa que podría desaparecer por culpa de la Inteligencia Artificial</a></h4>
+    <a href='https://computerhoy.com/internet/captcha-prueba-turing-inversa-no-puede-ia-1351594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/captcha-3107144.jpg?tf=1200x' alt='CAPTCHA, la prueba de Turing inversa que podría desaparecer por culpa de la Inteligencia Artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/herramientas-descargar-cualquier-video-cualquier-web-1241892'>Herramientas para descargar cualquier vídeo de cualquier web</a></h4>
+    <a href='https://computerhoy.com/tutoriales/herramientas-descargar-cualquier-video-cualquier-web-1241892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bajar-videos-3027682.jpg?tf=1200x' alt='Herramientas para descargar cualquier vídeo de cualquier web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-donde-haces-clic-fallo-whatsapp-permite-atacante-te-engane-enlaces-1351561'>Cuidado con dónde haces clic: este fallo de WhatsApp permite que un atacante te engañe con los enlaces</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cuidado-donde-haces-clic-fallo-whatsapp-permite-atacante-te-engane-enlaces-1351561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-estafa-enlaces-3251898.jpg?tf=1200x' alt='Cuidado con dónde haces clic: este fallo de WhatsApp permite que un atacante te engañe con los enlaces' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cae-picado-precio-procesador-intel-brutal-i9-toca-fondo-amazon-1351180'>Cae en picado el precio del procesador Intel más brutal, el i9, que toca fondo en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/cae-picado-precio-procesador-intel-brutal-i9-toca-fondo-amazon-1351180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/intel-core-3251165.jpg?tf=1200x' alt='Cae en picado el precio del procesador Intel más brutal, el i9, que toca fondo en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/amazon-firestick-tv-movil-suficientes-hackear-gta-6-chantajear-rockstar-filtrar-clips-trailer-1351510'>Un Amazon Firestick, una TV y un móvil suficientes para 'hackear' GTA 6 y chantajear a Rockstar con filtrar clips del tráiler</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/amazon-firestick-tv-movil-suficientes-hackear-gta-6-chantajear-rockstar-filtrar-clips-trailer-1351510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gta-vi-3244512.jpg?tf=1200x' alt='Un Amazon Firestick, una TV y un móvil suficientes para 'hackear' GTA 6 y chantajear a Rockstar con filtrar clips del tráiler' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-11-ya-disponible-novedades-clave-como-descargarlo-1351522'>Android 11 ya está disponible: principales novedades y cómo descargarlo</a></h4>
-    <a href='https://computerhoy.com/android/android-11-ya-disponible-novedades-clave-como-descargarlo-1351522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/misterio-carretera-odia-android-auto-nadie-sabe-solucionar-3232786.jpg?tf=1200x' alt='Android 11 ya está disponible: principales novedades y cómo descargarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intel-paga-400-millones-dolares-primera-maquina-euv-high-na-1351520'>Intel desembolsa de más de 400 millones de dólares la primera máquina EUV High-NA para liderar los chips de nueva generación</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intel-paga-400-millones-dolares-primera-maquina-euv-high-na-1351520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/trabajadores-maquina-euv-3251797.jpg?tf=1200x' alt='Intel desembolsa de más de 400 millones de dólares la primera máquina EUV High-NA para liderar los chips de nueva generación' />
     </a>
 </div>
 
