@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sorprendentes-riesgos-compartir-fotos-cena-navidad-redes-sociales-expertos-1351526'>Los sorprendentes riesgos de compartir fotos de la cena de Navidad en redes sociales, según los expertos</a></h4>
-    <a href='https://computerhoy.com/life/sorprendentes-riesgos-compartir-fotos-cena-navidad-redes-sociales-expertos-1351526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estos-son-sorprendentes-riesgos-compartir-fotos-cena-navidad-redes-sociales-expertos-3251800.jpg?tf=1200x' alt='Los sorprendentes riesgos de compartir fotos de la cena de Navidad en redes sociales, según los expertos' />
+    <h4><a href='https://computerhoy.com/tutoriales/truco-red-wifi-pase-desapercibida-casi-nadie-utiliza-1346102'>El sencillo truco de seguridad para que tu red WiFi pase desapercibida que casi nadie utiliza</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-red-wifi-pase-desapercibida-casi-nadie-utiliza-1346102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sencillo-truco-seguridad-red-wifi-pase-desapercibida-casi-nadie-utiliza-3242330.jpg?tf=1200x' alt='El sencillo truco de seguridad para que tu red WiFi pase desapercibida que casi nadie utiliza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/captcha-prueba-turing-inversa-no-puede-ia-1351594'>CAPTCHA, la prueba de Turing inversa que podría desaparecer por culpa de la Inteligencia Artificial</a></h4>
-    <a href='https://computerhoy.com/internet/captcha-prueba-turing-inversa-no-puede-ia-1351594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/captcha-3107144.jpg?tf=1200x' alt='CAPTCHA, la prueba de Turing inversa que podría desaparecer por culpa de la Inteligencia Artificial' />
+    <h4><a href='https://computerhoy.com/life/misterioso-rescate-botticelli-familia-devuelve-tesoro-oculto-109-millones-dolares-1351621'>El misterioso rescate de un Botticelli: una familia italiana devuelve un tesoro oculto de 109 millones de dólares</a></h4>
+    <a href='https://computerhoy.com/life/misterioso-rescate-botticelli-familia-devuelve-tesoro-oculto-109-millones-dolares-1351621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/misterioso-rescate-botticelli-familia-italiana-devuelve-tesoro-oculto-109-millones-dolares-3252024.jpg?tf=1200x' alt='El misterioso rescate de un Botticelli: una familia italiana devuelve un tesoro oculto de 109 millones de dólares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/herramientas-descargar-cualquier-video-cualquier-web-1241892'>Herramientas para descargar cualquier vídeo de cualquier web</a></h4>
-    <a href='https://computerhoy.com/tutoriales/herramientas-descargar-cualquier-video-cualquier-web-1241892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bajar-videos-3027682.jpg?tf=1200x' alt='Herramientas para descargar cualquier vídeo de cualquier web' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-deja-ko-aliexpress-deja-auriculares-xiaomi-top-ventas-precio-ridiculo-1350758'>Amazon deja KO a AliExpress: deja los auriculares Xiaomi top ventas a precio ridículo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-deja-ko-aliexpress-deja-auriculares-xiaomi-top-ventas-precio-ridiculo-1350758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-redmi-buds-4-lite-3250514.jpg?tf=1200x' alt='Amazon deja KO a AliExpress: deja los auriculares Xiaomi top ventas a precio ridículo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-donde-haces-clic-fallo-whatsapp-permite-atacante-te-engane-enlaces-1351561'>Cuidado con dónde haces clic: este fallo de WhatsApp permite que un atacante te engañe con los enlaces</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-donde-haces-clic-fallo-whatsapp-permite-atacante-te-engane-enlaces-1351561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-estafa-enlaces-3251898.jpg?tf=1200x' alt='Cuidado con dónde haces clic: este fallo de WhatsApp permite que un atacante te engañe con los enlaces' />
+    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-iap-pharma-1351442'>Equivalencias de los perfumes y colonias de Iap Pharma</a></h4>
+    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-iap-pharma-1351442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/equivalencias-perfumes-colonias-iap-pharma-3251678.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Iap Pharma' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cae-picado-precio-procesador-intel-brutal-i9-toca-fondo-amazon-1351180'>Cae en picado el precio del procesador Intel más brutal, el i9, que toca fondo en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cae-picado-precio-procesador-intel-brutal-i9-toca-fondo-amazon-1351180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/intel-core-3251165.jpg?tf=1200x' alt='Cae en picado el precio del procesador Intel más brutal, el i9, que toca fondo en Amazon' />
+    <h4><a href='https://computerhoy.com/motor/nueva-bateria-nio-ya-permite-coche-electrico-hacer-1000-kilometros-parar-1351618'>La nueva batería de NIO ya permite a un coche eléctrico hacer 1.000 kilómetros sin parar como un diésel</a></h4>
+    <a href='https://computerhoy.com/motor/nueva-bateria-nio-ya-permite-coche-electrico-hacer-1000-kilometros-parar-1351618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nueva-bateria-electrica-nio-ya-te-permite-hacer-mismo-viaje-cargar-coche-combustion-1000-kilometros-3252014.jpg?tf=1200x' alt='La nueva batería de NIO ya permite a un coche eléctrico hacer 1.000 kilómetros sin parar como un diésel' />
     </a>
 </div>
 
