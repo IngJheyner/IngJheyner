@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/warner-paramount-negocian-fusion-skyshowtime-podria-unirse-hbo-max-1351443'>Warner y Paramount ya negocian su fusión: SkyShowtime podría integrarse en HBO Max</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/warner-paramount-negocian-fusion-skyshowtime-podria-unirse-hbo-max-1351443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/warner-paramount-ya-negocian-fusion-skyshowtime-podria-integrarse-hbo-max-3251648.jpg?tf=1200x' alt='Warner y Paramount ya negocian su fusión: SkyShowtime podría integrarse en HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/jaque-roomba-amazon-deja-potente-robot-aspirador-base-vaciado-100-euros-menos-1350489'>Jaque a las Roomba: Amazon deja este potente robot aspirador con base de vaciado por 100 euros menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/jaque-roomba-amazon-deja-potente-robot-aspirador-base-vaciado-100-euros-menos-1350489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dreame-d10-plus-3020404.jpg?tf=1200x' alt='Jaque a las Roomba: Amazon deja este potente robot aspirador con base de vaciado por 100 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/pantalla-negro-windows-como-repararlo-tener-dar-botonazo-1344462'>Pantalla en negro en Windows: cómo repararlo sin tener que dar un "botonazo"</a></h4>
     <a href='https://computerhoy.com/tutoriales/pantalla-negro-windows-como-repararlo-tener-dar-botonazo-1344462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pantalla-negro-windows-como-repararlo-tener-dar-botonazo-3238936.jpg?tf=1200x' alt='Pantalla en negro en Windows: cómo repararlo sin tener que dar un "botonazo"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/expertos-harvard-consiguen-avance-precedentes-computacion-cuantica-1351390'>Expertos de Harvard consiguen un avance sin precedentes en la computación cuántica: el primer procesador programable</a></h4>
     <a href='https://computerhoy.com/ciencia/expertos-harvard-consiguen-avance-precedentes-computacion-cuantica-1351390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/computacion-cuantica-3251589.jpg?tf=1200x' alt='Expertos de Harvard consiguen un avance sin precedentes en la computación cuántica: el primer procesador programable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-james-bond-quantum-solace-1351420'>Qué película ver en la TDT hoy: James Bond en busca de venganza</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-james-bond-quantum-solace-1351420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/05/400461-aston-martin-dbs-quantum-solace.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: James Bond en busca de venganza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-sigue-matando-windows-elimina-funcionalidad-1351417'>Microsoft sigue matando a Windows y elimina esta funcionalidad</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-sigue-matando-windows-elimina-funcionalidad-1351417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/windows-10-realidad-virtual-3251617.jpg?tf=1200x' alt='Microsoft sigue matando a Windows y elimina esta funcionalidad' />
     </a>
 </div>
 
