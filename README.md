@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/mejores-moviles-huawei-puedes-comprar-2023-1279524'>Mejores móviles Huawei que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/android/mejores-moviles-huawei-puedes-comprar-2023-1279524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/huawei-mate-60-pro-3230116.jpg?tf=1200x' alt='Mejores móviles Huawei que puedes comprar' />
+    <h4><a href='https://computerhoy.com/windows/muerte-windows-10-sera-gran-problema-240-millones-ordenadores-acabaran-basura-1351485'>La muerte de Windows 10 será un gran problema: 240 millones de ordenadores acabarán en la basura</a></h4>
+    <a href='https://computerhoy.com/windows/muerte-windows-10-sera-gran-problema-240-millones-ordenadores-acabaran-basura-1351485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/desechos-electronicos-ordenadores-3251739.jpg?tf=1200x' alt='La muerte de Windows 10 será un gran problema: 240 millones de ordenadores acabarán en la basura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cosas-no-deberias-publicar-facebook-1338638'>5 cosas que no deberías publicar en Facebook</a></h4>
-    <a href='https://computerhoy.com/internet/cosas-no-deberias-publicar-facebook-1338638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/facebook-3086020.jpg?tf=1200x' alt='5 cosas que no deberías publicar en Facebook' />
+    <h4><a href='https://computerhoy.com/life/100-mensajes-originales-navidad-enviar-nochebuena-1346386'>100 mensajes originales de Navidad para enviar esta Nochebuena</a></h4>
+    <a href='https://computerhoy.com/life/100-mensajes-originales-navidad-enviar-nochebuena-1346386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/100-mensajes-originales-navidad-enviar-nochebuena-3242846.jpg?tf=1200x' alt='100 mensajes originales de Navidad para enviar esta Nochebuena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/naoto64-micro-pc-cpu-1-bit-1351449'>Lanzan un micro PC con una CPU de 1 bit y se agota al instante</a></h4>
-    <a href='https://computerhoy.com/pc/naoto64-micro-pc-cpu-1-bit-1351449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/naoto64-micro-pc-cpu-1-bit-ha-agotado-instante-3251662.jpg?tf=1200x' alt='Lanzan un micro PC con una CPU de 1 bit y se agota al instante' />
+    <h4><a href='https://computerhoy.com/tecnologia/pixel-8-deja-tocado-iphone-ya-200-euros-barato-rival-1350833'>El Pixel 8 deja tocado al iPhone: ya es 200 euros más barato que su rival</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pixel-8-deja-tocado-iphone-ya-200-euros-barato-rival-1350833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-3188558.jpg?tf=1200x' alt='El Pixel 8 deja tocado al iPhone: ya es 200 euros más barato que su rival' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/warner-paramount-negocian-fusion-skyshowtime-podria-unirse-hbo-max-1351443'>Warner y Paramount ya negocian su fusión: SkyShowtime podría integrarse en HBO Max</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/warner-paramount-negocian-fusion-skyshowtime-podria-unirse-hbo-max-1351443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/warner-paramount-ya-negocian-fusion-skyshowtime-podria-integrarse-hbo-max-3251648.jpg?tf=1200x' alt='Warner y Paramount ya negocian su fusión: SkyShowtime podría integrarse en HBO Max' />
+    <h4><a href='https://computerhoy.com/google/google-listo-mejorar-seguridad-contrasenas-mucho-chrome-1351473'>Google listo para mejorar la seguridad de tus contraseñas y mucho más en Chrome</a></h4>
+    <a href='https://computerhoy.com/google/google-listo-mejorar-seguridad-contrasenas-mucho-chrome-1351473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/9-ajustes-imprescindibles-mejorar-seguridad-privacidad-google-chrome-3216774.jpg?tf=1200x' alt='Google listo para mejorar la seguridad de tus contraseñas y mucho más en Chrome' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jaque-roomba-amazon-deja-potente-robot-aspirador-base-vaciado-100-euros-menos-1350489'>Jaque a las Roomba: Amazon deja este potente robot aspirador con base de vaciado por 100 euros menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jaque-roomba-amazon-deja-potente-robot-aspirador-base-vaciado-100-euros-menos-1350489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dreame-d10-plus-3020404.jpg?tf=1200x' alt='Jaque a las Roomba: Amazon deja este potente robot aspirador con base de vaciado por 100 euros menos' />
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-658-computer-hoy-1349170'>¡Ya está en tu quiosco el número 658 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-658-computer-hoy-1349170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/computer-hoy-658-3248170.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 658 de Computer Hoy!' />
     </a>
 </div>
 
