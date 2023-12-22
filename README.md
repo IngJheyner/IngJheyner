@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/muerte-windows-10-sera-gran-problema-240-millones-ordenadores-acabaran-basura-1351485'>La muerte de Windows 10 será un gran problema: 240 millones de ordenadores acabarán en la basura</a></h4>
-    <a href='https://computerhoy.com/windows/muerte-windows-10-sera-gran-problema-240-millones-ordenadores-acabaran-basura-1351485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/desechos-electronicos-ordenadores-3251739.jpg?tf=1200x' alt='La muerte de Windows 10 será un gran problema: 240 millones de ordenadores acabarán en la basura' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-donde-haces-clic-fallo-whatsapp-permite-atacante-te-engane-enlaces-1351561'>Cuidado con dónde haces clic: este fallo de WhatsApp permite que un atacante te engañe con los enlaces</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-donde-haces-clic-fallo-whatsapp-permite-atacante-te-engane-enlaces-1351561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-estafa-enlaces-3251898.jpg?tf=1200x' alt='Cuidado con dónde haces clic: este fallo de WhatsApp permite que un atacante te engañe con los enlaces' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/100-mensajes-originales-navidad-enviar-nochebuena-1346386'>100 mensajes originales de Navidad para enviar esta Nochebuena</a></h4>
-    <a href='https://computerhoy.com/life/100-mensajes-originales-navidad-enviar-nochebuena-1346386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/100-mensajes-originales-navidad-enviar-nochebuena-3242846.jpg?tf=1200x' alt='100 mensajes originales de Navidad para enviar esta Nochebuena' />
+    <h4><a href='https://computerhoy.com/tecnologia/cae-picado-precio-procesador-intel-brutal-i9-toca-fondo-amazon-1351180'>Cae en picado el precio del procesador Intel más brutal, el i9, que toca fondo en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cae-picado-precio-procesador-intel-brutal-i9-toca-fondo-amazon-1351180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/intel-core-3251165.jpg?tf=1200x' alt='Cae en picado el precio del procesador Intel más brutal, el i9, que toca fondo en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pixel-8-deja-tocado-iphone-ya-200-euros-barato-rival-1350833'>El Pixel 8 deja tocado al iPhone: ya es 200 euros más barato que su rival</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pixel-8-deja-tocado-iphone-ya-200-euros-barato-rival-1350833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-3188558.jpg?tf=1200x' alt='El Pixel 8 deja tocado al iPhone: ya es 200 euros más barato que su rival' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/amazon-firestick-tv-movil-suficientes-hackear-gta-6-chantajear-rockstar-filtrar-clips-trailer-1351510'>Un Amazon Firestick, una TV y un móvil suficientes para 'hackear' GTA 6 y chantajear a Rockstar con filtrar clips del tráiler</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/amazon-firestick-tv-movil-suficientes-hackear-gta-6-chantajear-rockstar-filtrar-clips-trailer-1351510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gta-vi-3244512.jpg?tf=1200x' alt='Un Amazon Firestick, una TV y un móvil suficientes para 'hackear' GTA 6 y chantajear a Rockstar con filtrar clips del tráiler' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-listo-mejorar-seguridad-contrasenas-mucho-chrome-1351473'>Google listo para mejorar la seguridad de tus contraseñas y mucho más en Chrome</a></h4>
-    <a href='https://computerhoy.com/google/google-listo-mejorar-seguridad-contrasenas-mucho-chrome-1351473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/9-ajustes-imprescindibles-mejorar-seguridad-privacidad-google-chrome-3216774.jpg?tf=1200x' alt='Google listo para mejorar la seguridad de tus contraseñas y mucho más en Chrome' />
+    <h4><a href='https://computerhoy.com/android/android-11-ya-disponible-novedades-clave-como-descargarlo-1351522'>Android 11 ya está disponible: principales novedades y cómo descargarlo</a></h4>
+    <a href='https://computerhoy.com/android/android-11-ya-disponible-novedades-clave-como-descargarlo-1351522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/misterio-carretera-odia-android-auto-nadie-sabe-solucionar-3232786.jpg?tf=1200x' alt='Android 11 ya está disponible: principales novedades y cómo descargarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-658-computer-hoy-1349170'>¡Ya está en tu quiosco el número 658 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-658-computer-hoy-1349170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/computer-hoy-658-3248170.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 658 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/tecnologia/intel-paga-400-millones-dolares-primera-maquina-euv-high-na-1351520'>Intel desembolsa de más de 400 millones de dólares la primera máquina EUV High-NA para liderar los chips de nueva generación</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intel-paga-400-millones-dolares-primera-maquina-euv-high-na-1351520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/trabajadores-maquina-euv-3251797.jpg?tf=1200x' alt='Intel desembolsa de más de 400 millones de dólares la primera máquina EUV High-NA para liderar los chips de nueva generación' />
     </a>
 </div>
 
