@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/mejores-moviles-huawei-puedes-comprar-2023-1279524'>Mejores móviles Huawei que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/android/mejores-moviles-huawei-puedes-comprar-2023-1279524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/huawei-mate-60-pro-3230116.jpg?tf=1200x' alt='Mejores móviles Huawei que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/cosas-no-deberias-publicar-facebook-1338638'>5 cosas que no deberías publicar en Facebook</a></h4>
+    <a href='https://computerhoy.com/internet/cosas-no-deberias-publicar-facebook-1338638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/facebook-3086020.jpg?tf=1200x' alt='5 cosas que no deberías publicar en Facebook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/naoto64-micro-pc-cpu-1-bit-1351449'>Lanzan un micro PC con una CPU de 1 bit y se agota al instante</a></h4>
     <a href='https://computerhoy.com/pc/naoto64-micro-pc-cpu-1-bit-1351449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/naoto64-micro-pc-cpu-1-bit-ha-agotado-instante-3251662.jpg?tf=1200x' alt='Lanzan un micro PC con una CPU de 1 bit y se agota al instante' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/jaque-roomba-amazon-deja-potente-robot-aspirador-base-vaciado-100-euros-menos-1350489'>Jaque a las Roomba: Amazon deja este potente robot aspirador con base de vaciado por 100 euros menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/jaque-roomba-amazon-deja-potente-robot-aspirador-base-vaciado-100-euros-menos-1350489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dreame-d10-plus-3020404.jpg?tf=1200x' alt='Jaque a las Roomba: Amazon deja este potente robot aspirador con base de vaciado por 100 euros menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/pantalla-negro-windows-como-repararlo-tener-dar-botonazo-1344462'>Pantalla en negro en Windows: cómo repararlo sin tener que dar un "botonazo"</a></h4>
-    <a href='https://computerhoy.com/tutoriales/pantalla-negro-windows-como-repararlo-tener-dar-botonazo-1344462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pantalla-negro-windows-como-repararlo-tener-dar-botonazo-3238936.jpg?tf=1200x' alt='Pantalla en negro en Windows: cómo repararlo sin tener que dar un "botonazo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/policia-advierte-catastrofico-error-muchos-cometen-salir-casa-no-son-excusas-1351418'>La Policía advierte del catastrófico error que muchos cometen al salir de casa: "No son excusas"</a></h4>
-    <a href='https://computerhoy.com/life/policia-advierte-catastrofico-error-muchos-cometen-salir-casa-no-son-excusas-1351418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cerrar-puerta-llave-3251620.jpg?tf=1200x' alt='La Policía advierte del catastrófico error que muchos cometen al salir de casa: "No son excusas"' />
     </a>
 </div>
 
