@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/naoto64-micro-pc-cpu-1-bit-1351449'>Lanzan un micro PC con una CPU de 1 bit y se agota al instante</a></h4>
+    <a href='https://computerhoy.com/pc/naoto64-micro-pc-cpu-1-bit-1351449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/naoto64-micro-pc-cpu-1-bit-ha-agotado-instante-3251662.jpg?tf=1200x' alt='Lanzan un micro PC con una CPU de 1 bit y se agota al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/warner-paramount-negocian-fusion-skyshowtime-podria-unirse-hbo-max-1351443'>Warner y Paramount ya negocian su fusión: SkyShowtime podría integrarse en HBO Max</a></h4>
     <a href='https://computerhoy.com/entretenimiento/warner-paramount-negocian-fusion-skyshowtime-podria-unirse-hbo-max-1351443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/warner-paramount-ya-negocian-fusion-skyshowtime-podria-integrarse-hbo-max-3251648.jpg?tf=1200x' alt='Warner y Paramount ya negocian su fusión: SkyShowtime podría integrarse en HBO Max' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/policia-advierte-catastrofico-error-muchos-cometen-salir-casa-no-son-excusas-1351418'>La Policía advierte del catastrófico error que muchos cometen al salir de casa: "No son excusas"</a></h4>
     <a href='https://computerhoy.com/life/policia-advierte-catastrofico-error-muchos-cometen-salir-casa-no-son-excusas-1351418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cerrar-puerta-llave-3251620.jpg?tf=1200x' alt='La Policía advierte del catastrófico error que muchos cometen al salir de casa: "No son excusas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/expertos-harvard-consiguen-avance-precedentes-computacion-cuantica-1351390'>Expertos de Harvard consiguen un avance sin precedentes en la computación cuántica: el primer procesador programable</a></h4>
-    <a href='https://computerhoy.com/ciencia/expertos-harvard-consiguen-avance-precedentes-computacion-cuantica-1351390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/computacion-cuantica-3251589.jpg?tf=1200x' alt='Expertos de Harvard consiguen un avance sin precedentes en la computación cuántica: el primer procesador programable' />
     </a>
 </div>
 
