@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-usar-chatgpt-ganar-dinero-7-formas-aprovechar-ia-1343370'>7 formas de usar ChatGPT para ganar dinero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-usar-chatgpt-ganar-dinero-7-formas-aprovechar-ia-1343370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/formas-ganar-dinero-chatgpt-3237530.jpg?tf=1200x' alt='7 formas de usar ChatGPT para ganar dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/abren-mcdonalds-mitad-nada-teorias-disparan-1351588'>Abren un McDonald's en mitad de la nada, y las teorías conspiranoicas se disparan</a></h4>
+    <a href='https://computerhoy.com/life/abren-mcdonalds-mitad-nada-teorias-disparan-1351588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/abren-mcdonalds-mitad-nada-teorias-conspiranoicas-disparan-3251925.jpg?tf=1200x' alt='Abren un McDonald's en mitad de la nada, y las teorías conspiranoicas se disparan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/portatiles-chromebooks-estudiantes-1173970'>Estos son los mejores Chromebooks para estudiar calidad precio</a></h4>
+    <a href='https://computerhoy.com/mejores/portatiles-chromebooks-estudiantes-1173970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/chromebook-2760827.jpg?tf=1200x' alt='Estos son los mejores Chromebooks para estudiar calidad precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/novedades-primera-gran-actualizacion-windows-11-2024-1351715'>Estas son las novedades de la primera gran actualización de Windows 11 en 2024</a></h4>
     <a href='https://computerhoy.com/windows/novedades-primera-gran-actualizacion-windows-11-2024-1351715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/actualizacion-windows-11-3145492.jpg?tf=1200x' alt='Estas son las novedades de la primera gran actualización de Windows 11 en 2024' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/coche-autonomo-google-11-millones-kilometros-solo-tres-heridos-leves-1351710'>Google rompe los tópicos del coche autónomo: 11 millones de Kilómetros, solo tres heridos leves</a></h4>
     <a href='https://computerhoy.com/motor/coche-autonomo-google-11-millones-kilometros-solo-tres-heridos-leves-1351710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/coche-autonomo-waymo-1885185.jpg?tf=1200x' alt='Google rompe los tópicos del coche autónomo: 11 millones de Kilómetros, solo tres heridos leves' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-programar-felicitaciones-navidad-envien-whatsapp-1351667'>Cómo programar las felicitaciones de Navidad para que se envíen automáticamente por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-programar-felicitaciones-navidad-envien-whatsapp-1351667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-programar-felicitaciones-navidad-envien-automaticamente-whatsapp-3252148.jpg?tf=1200x' alt='Cómo programar las felicitaciones de Navidad para que se envíen automáticamente por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-radiador-1500-opiniones-precio-ganga-wifi-1351185'>Amazon está liquidando un radiador con 1.500 opiniones a precio de ganga ¡y con WiFi!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-radiador-1500-opiniones-precio-ganga-wifi-1351185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/radiador-gridinlux-3251169.jpg?tf=1200x' alt='Amazon está liquidando un radiador con 1.500 opiniones a precio de ganga ¡y con WiFi!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-chrome-tiene-grave-problema-vpn-revisa-navegador-1351683'>Google Chrome tiene un grave problema con las VPN: revisa tu navegador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-chrome-tiene-grave-problema-vpn-revisa-navegador-1351683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-chrome-3113980.jpg?tf=1200x' alt='Google Chrome tiene un grave problema con las VPN: revisa tu navegador' />
     </a>
 </div>
 
