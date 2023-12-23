@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/billete-0-euros-existe-totalmente-legal-1351803'>El billete de 0 euros existe y es totalmente legal</a></h4>
+    <a href='https://computerhoy.com/life/billete-0-euros-existe-totalmente-legal-1351803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/billete-real-0-euros-3252302.jpg?tf=1200x' alt='El billete de 0 euros existe y es totalmente legal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-google-estan-cerca-acabar-uso-indebido-rastreadores-bluetooth-como-airtags-1351791'>Apple y Google están cerca de acabar con el uso indebido de los rastreadores bluetooth como los AirTags</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-google-estan-cerca-acabar-uso-indebido-rastreadores-bluetooth-como-airtags-1351791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/airtag-apple-3252291.jpg?tf=1200x' alt='Apple y Google están cerca de acabar con el uso indebido de los rastreadores bluetooth como los AirTags' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-activar-aceleracion-hardware-chrome-edge-firefox-1350200'>Cómo activar la aceleración por hardware en Chrome, Edge y Firefox</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-activar-aceleracion-hardware-chrome-edge-firefox-1350200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-activar-aceleracion-hardware-chrome-edge-firefox-3249407.jpg?tf=1200x' alt='Cómo activar la aceleración por hardware en Chrome, Edge y Firefox' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-recibe-nueva-aplicacion-copia-seguridad-no-te-gusta-microsoft-1351761'>Windows 11 recibe una nueva aplicación de copia de seguridad por si no te gusta la de Microsoft</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-recibe-nueva-aplicacion-copia-seguridad-no-te-gusta-microsoft-1351761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/copia-seguridad-ordenador-3252259.jpg?tf=1200x' alt='Windows 11 recibe una nueva aplicación de copia de seguridad por si no te gusta la de Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-quiere-asociarse-importantes-editores-noticias-entrenar-nuevos-modelos-ia-1351752'>Apple quiere asociarse con importantes editores de noticias para entrenar sus nuevos modelos de IA</a></h4>
-    <a href='https://computerhoy.com/apple/apple-quiere-asociarse-importantes-editores-noticias-entrenar-nuevos-modelos-ia-1351752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tienda-apple-3252250.jpg?tf=1200x' alt='Apple quiere asociarse con importantes editores de noticias para entrenar sus nuevos modelos de IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejores-gifs-videos-felicitar-navidad-familia-amigos-1346410'>Los mejores GIFs y vídeos para felicitar la Navidad a tu familia y amigos</a></h4>
-    <a href='https://computerhoy.com/life/mejores-gifs-videos-felicitar-navidad-familia-amigos-1346410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/feliz-navidad-3252149.jpg?tf=1200x' alt='Los mejores GIFs y vídeos para felicitar la Navidad a tu familia y amigos' />
     </a>
 </div>
 
