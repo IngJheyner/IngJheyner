@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-capaz-vencer-humanos-clasico-juego-mesa-1351842'>Esta IA es capaz de vencer a los humanos en este clásico juego de mesa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-capaz-vencer-humanos-clasico-juego-mesa-1351842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ia-capaz-vencer-humanos-clasico-juego-mesa-3252339.jpg?tf=1200x' alt='Esta IA es capaz de vencer a los humanos en este clásico juego de mesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-manguera-voladora-extinguir-incendios-1351832'>Crean “una manguera voladora” para extinguir incendios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-manguera-voladora-extinguir-incendios-1351832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/crean-manguera-voladora-extinguir-incendios-3252331.jpg?tf=1200x' alt='Crean “una manguera voladora” para extinguir incendios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ai-pin-humane-ya-tiene-fecha-salida-pienses-reemplazar-movil-1351828'>Ai Pin de Humane ya tiene fecha de salida para que pienses en reemplazar tu móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ai-pin-humane-ya-tiene-fecha-salida-pienses-reemplazar-movil-1351828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ai-pin-humane-3252326.jpg?tf=1200x' alt='Ai Pin de Humane ya tiene fecha de salida para que pienses en reemplazar tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-xiaomi-potente-barato-carga-rapida-33w-1350596'>AliExpress revienta el precio de un Xiaomi potente, barato y con carga rápida a 33W</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-xiaomi-potente-barato-carga-rapida-33w-1350596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-note-12s-3197748.jpg?tf=1200x' alt='AliExpress revienta el precio de un Xiaomi potente, barato y con carga rápida a 33W' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-zodiac-1351819'>Qué película ver en la TDT hoy: la caza del Asesino del Zodiaco</a></h4>
     <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-zodiac-1351819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/zodiac-be-mad-2200-3218734.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: la caza del Asesino del Zodiaco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-pronto-te-dira-cuando-momento-adecuado-reemplazar-bateria-movil-1351809'>Android pronto te dirá cuándo es el momento adecuado para reemplazar la batería de tu móvil</a></h4>
-    <a href='https://computerhoy.com/android/android-pronto-te-dira-cuando-momento-adecuado-reemplazar-bateria-movil-1351809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bateria-android-3055266.jpg?tf=1200x' alt='Android pronto te dirá cuándo es el momento adecuado para reemplazar la batería de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/billete-0-euros-existe-totalmente-legal-1351803'>El billete de 0 euros existe y es totalmente legal</a></h4>
-    <a href='https://computerhoy.com/life/billete-0-euros-existe-totalmente-legal-1351803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/billete-real-0-euros-3252302.jpg?tf=1200x' alt='El billete de 0 euros existe y es totalmente legal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-google-estan-cerca-acabar-uso-indebido-rastreadores-bluetooth-como-airtags-1351791'>Apple y Google están cerca de acabar con el uso indebido de los rastreadores bluetooth como los AirTags</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-google-estan-cerca-acabar-uso-indebido-rastreadores-bluetooth-como-airtags-1351791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/airtag-apple-3252291.jpg?tf=1200x' alt='Apple y Google están cerca de acabar con el uso indebido de los rastreadores bluetooth como los AirTags' />
     </a>
 </div>
 
