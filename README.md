@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/coche-autonomo-google-11-millones-kilometros-solo-tres-heridos-leves-1351710'>Google rompe los tópicos del coche autónomo: 11 millones de Kilómetros, solo tres heridos leves</a></h4>
+    <a href='https://computerhoy.com/motor/coche-autonomo-google-11-millones-kilometros-solo-tres-heridos-leves-1351710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/coche-autonomo-waymo-1885185.jpg?tf=1200x' alt='Google rompe los tópicos del coche autónomo: 11 millones de Kilómetros, solo tres heridos leves' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-programar-felicitaciones-navidad-envien-whatsapp-1351667'>Cómo programar las felicitaciones de Navidad para que se envíen automáticamente por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-programar-felicitaciones-navidad-envien-whatsapp-1351667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-programar-felicitaciones-navidad-envien-automaticamente-whatsapp-3252148.jpg?tf=1200x' alt='Cómo programar las felicitaciones de Navidad para que se envíen automáticamente por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-radiador-1500-opiniones-precio-ganga-wifi-1351185'>Amazon está liquidando un radiador con 1.500 opiniones a precio de ganga ¡y con WiFi!</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-liquidando-radiador-1500-opiniones-precio-ganga-wifi-1351185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/radiador-gridinlux-3251169.jpg?tf=1200x' alt='Amazon está liquidando un radiador con 1.500 opiniones a precio de ganga ¡y con WiFi!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-online-banco-iban-numero-cuenta-bancaria-1346440'>Cómo saber online, qué banco es por el IBAN o número de cuenta bancaria</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-online-banco-iban-numero-cuenta-bancaria-1346440' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-online-banco-iban-numero-cuenta-bancaria-3243076.jpg?tf=1200x' alt='Cómo saber online, qué banco es por el IBAN o número de cuenta bancaria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/mito-comer-manzana-cierto-harvard-pero-debes-hacerlo-forma-concreta-1351682'>El mito de comer una manzana es cierto, según Harvard, pero debes hacerlo de una forma concreta</a></h4>
-    <a href='https://computerhoy.com/alimentacion/mito-comer-manzana-cierto-harvard-pero-debes-hacerlo-forma-concreta-1351682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mujer-muerde-manzana-3252104.jpg?tf=1200x' alt='El mito de comer una manzana es cierto, según Harvard, pero debes hacerlo de una forma concreta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-yodeyma-1351009'>Equivalencias de los perfumes y colonias de Yodeyma</a></h4>
-    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-yodeyma-1351009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/equivalencias-perfumes-colonias-yodeyma-3251051.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Yodeyma' />
     </a>
 </div>
 
