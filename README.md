@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-usar-chatgpt-ganar-dinero-7-formas-aprovechar-ia-1343370'>7 formas de usar ChatGPT para ganar dinero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-usar-chatgpt-ganar-dinero-7-formas-aprovechar-ia-1343370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/formas-ganar-dinero-chatgpt-3237530.jpg?tf=1200x' alt='7 formas de usar ChatGPT para ganar dinero' />
+    <h4><a href='https://computerhoy.com/life/nomofobia-cuando-miedo-estar-movil-vuelve-obsesion-1350225'>Nomofobia: cuando el miedo a estar sin móvil se vuelve una obsesión</a></h4>
+    <a href='https://computerhoy.com/life/nomofobia-cuando-miedo-estar-movil-vuelve-obsesion-1350225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nomofobia-3251736.jpg?tf=1200x' alt='Nomofobia: cuando el miedo a estar sin móvil se vuelve una obsesión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/abren-mcdonalds-mitad-nada-teorias-disparan-1351588'>Abren un McDonald's en mitad de la nada, y las teorías conspiranoicas se disparan</a></h4>
-    <a href='https://computerhoy.com/life/abren-mcdonalds-mitad-nada-teorias-disparan-1351588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/abren-mcdonalds-mitad-nada-teorias-conspiranoicas-disparan-3251925.jpg?tf=1200x' alt='Abren un McDonald's en mitad de la nada, y las teorías conspiranoicas se disparan' />
+    <h4><a href='https://computerhoy.com/life/imagenes-fotos-originales-felicitar-navidad-contactos-1348348'>Imágenes y fotos originales para felicitar la Navidad a tus contactos</a></h4>
+    <a href='https://computerhoy.com/life/imagenes-fotos-originales-felicitar-navidad-contactos-1348348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/imagenes-fotos-originales-felicitar-navidad-contactos-3246430.jpg?tf=1200x' alt='Imágenes y fotos originales para felicitar la Navidad a tus contactos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/portatiles-chromebooks-estudiantes-1173970'>Estos son los mejores Chromebooks para estudiar calidad precio</a></h4>
-    <a href='https://computerhoy.com/mejores/portatiles-chromebooks-estudiantes-1173970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/chromebook-2760827.jpg?tf=1200x' alt='Estos son los mejores Chromebooks para estudiar calidad precio' />
+    <h4><a href='https://computerhoy.com/life/he-probado-regla-20-10-limpiar-mi-casa-manera-facil-rapida-ha-sido-tortura-1347206'>He probado la regla 20/10 para limpiar mi casa de manera "fácil y rápida" y ha sido una tortura</a></h4>
+    <a href='https://computerhoy.com/life/he-probado-regla-20-10-limpiar-mi-casa-manera-facil-rapida-ha-sido-tortura-1347206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/limpieza-hogar-3244486.jpg?tf=1200x' alt='He probado la regla 20/10 para limpiar mi casa de manera "fácil y rápida" y ha sido una tortura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/novedades-primera-gran-actualizacion-windows-11-2024-1351715'>Estas son las novedades de la primera gran actualización de Windows 11 en 2024</a></h4>
-    <a href='https://computerhoy.com/windows/novedades-primera-gran-actualizacion-windows-11-2024-1351715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/actualizacion-windows-11-3145492.jpg?tf=1200x' alt='Estas son las novedades de la primera gran actualización de Windows 11 en 2024' />
+    <h4><a href='https://computerhoy.com/tecnologia/mi-powerbank-tiene-15000-mah-no-me-carga-tres-veces-movil-bateria-5000-mah-1348582'>Si mi powerbank tiene 15.000 mAh: ¿por qué no me carga tres veces el móvil con batería de 5.000 mAh?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mi-powerbank-tiene-15000-mah-no-me-carga-tres-veces-movil-bateria-5000-mah-1348582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mah-powerbank-3246572.jpg?tf=1200x' alt='Si mi powerbank tiene 15.000 mAh: ¿por qué no me carga tres veces el móvil con batería de 5.000 mAh?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coche-autonomo-google-11-millones-kilometros-solo-tres-heridos-leves-1351710'>Google rompe los tópicos del coche autónomo: 11 millones de Kilómetros, solo tres heridos leves</a></h4>
-    <a href='https://computerhoy.com/motor/coche-autonomo-google-11-millones-kilometros-solo-tres-heridos-leves-1351710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/coche-autonomo-waymo-1885185.jpg?tf=1200x' alt='Google rompe los tópicos del coche autónomo: 11 millones de Kilómetros, solo tres heridos leves' />
+    <h4><a href='https://computerhoy.com/amazon/cuidado-regalos-pides-amazon-navidad-1351298'>Cuidado con tus regalos esta Navidad, cada vez hay más estafas, falsificaciones y devoluciones fraudulentas en Amazon</a></h4>
+    <a href='https://computerhoy.com/amazon/cuidado-regalos-pides-amazon-navidad-1351298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cuidado-regalos-estas-navidades-cada-vez-hay-estafas-falsificaciones-devoluciones-fraudulentas-amazon-3251433.jpg?tf=1200x' alt='Cuidado con tus regalos esta Navidad, cada vez hay más estafas, falsificaciones y devoluciones fraudulentas en Amazon' />
     </a>
 </div>
 
