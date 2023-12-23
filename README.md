@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/electrocardiogramas-cualquier-movil-gadget-hace-posible-venta-amazon-1351593'>Electrocardiogramas con cualquier móvil: este gadget lo hace posible y está a la venta en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/electrocardiogramas-cualquier-movil-gadget-hace-posible-venta-amazon-1351593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/kardia-mobile-3251983.jpg?tf=1200x' alt='Electrocardiogramas con cualquier móvil: este gadget lo hace posible y está a la venta en Amazon' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-aceleracion-hardware-chrome-edge-firefox-1350200'>Cómo activar la aceleración por hardware en Chrome, Edge y Firefox</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-aceleracion-hardware-chrome-edge-firefox-1350200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-activar-aceleracion-hardware-chrome-edge-firefox-3249407.jpg?tf=1200x' alt='Cómo activar la aceleración por hardware en Chrome, Edge y Firefox' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tengo-muy-pocas-ideas-he-probado-chatgpt-me-ayude-elegir-regalos-navidad-1349668'>Tengo muy pocas ideas, así que he probado ChatGPT para que me ayude a elegir los regalos de Navidad y Reyes Magos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tengo-muy-pocas-ideas-he-probado-chatgpt-me-ayude-elegir-regalos-navidad-1349668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chatgpt-regalos-navidad-3248676.jpg?tf=1200x' alt='Tengo muy pocas ideas, así que he probado ChatGPT para que me ayude a elegir los regalos de Navidad y Reyes Magos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-cifrar-memoria-usb-mantener-datos-seguros-windows-11-1349752'>Cómo cifrar una memoria USB y mantener tus archivos seguros en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cifrar-memoria-usb-mantener-datos-seguros-windows-11-1349752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-cifrar-memoria-usb-mantener-archivos-seguros-windows-11-3248739.jpg?tf=1200x' alt='Cómo cifrar una memoria USB y mantener tus archivos seguros en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nomofobia-cuando-miedo-estar-movil-vuelve-obsesion-1350225'>Nomofobia: cuando el miedo a estar sin móvil se vuelve una obsesión</a></h4>
-    <a href='https://computerhoy.com/life/nomofobia-cuando-miedo-estar-movil-vuelve-obsesion-1350225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nomofobia-3251736.jpg?tf=1200x' alt='Nomofobia: cuando el miedo a estar sin móvil se vuelve una obsesión' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-recibe-nueva-aplicacion-copia-seguridad-no-te-gusta-microsoft-1351761'>Windows 11 recibe una nueva aplicación de copia de seguridad por si no te gusta la de Microsoft</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-recibe-nueva-aplicacion-copia-seguridad-no-te-gusta-microsoft-1351761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/copia-seguridad-ordenador-3252259.jpg?tf=1200x' alt='Windows 11 recibe una nueva aplicación de copia de seguridad por si no te gusta la de Microsoft' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/imagenes-fotos-originales-felicitar-navidad-contactos-1348348'>Imágenes y fotos originales para felicitar la Navidad a tus contactos</a></h4>
-    <a href='https://computerhoy.com/life/imagenes-fotos-originales-felicitar-navidad-contactos-1348348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/imagenes-fotos-originales-felicitar-navidad-contactos-3246430.jpg?tf=1200x' alt='Imágenes y fotos originales para felicitar la Navidad a tus contactos' />
+    <h4><a href='https://computerhoy.com/apple/apple-quiere-asociarse-importantes-editores-noticias-entrenar-nuevos-modelos-ia-1351752'>Apple quiere asociarse con importantes editores de noticias para entrenar sus nuevos modelos de IA</a></h4>
+    <a href='https://computerhoy.com/apple/apple-quiere-asociarse-importantes-editores-noticias-entrenar-nuevos-modelos-ia-1351752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tienda-apple-3252250.jpg?tf=1200x' alt='Apple quiere asociarse con importantes editores de noticias para entrenar sus nuevos modelos de IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/he-probado-regla-20-10-limpiar-mi-casa-manera-facil-rapida-ha-sido-tortura-1347206'>He probado la regla 20/10 para limpiar mi casa de manera "fácil y rápida" y ha sido una tortura</a></h4>
-    <a href='https://computerhoy.com/life/he-probado-regla-20-10-limpiar-mi-casa-manera-facil-rapida-ha-sido-tortura-1347206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/limpieza-hogar-3244486.jpg?tf=1200x' alt='He probado la regla 20/10 para limpiar mi casa de manera "fácil y rápida" y ha sido una tortura' />
+    <h4><a href='https://computerhoy.com/life/mejores-gifs-videos-felicitar-navidad-familia-amigos-1346410'>Los mejores GIFs y vídeos para felicitar la Navidad a tu familia y amigos</a></h4>
+    <a href='https://computerhoy.com/life/mejores-gifs-videos-felicitar-navidad-familia-amigos-1346410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/feliz-navidad-3252149.jpg?tf=1200x' alt='Los mejores GIFs y vídeos para felicitar la Navidad a tu familia y amigos' />
     </a>
 </div>
 
