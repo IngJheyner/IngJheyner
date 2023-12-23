@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/novedades-primera-gran-actualizacion-windows-11-2024-1351715'>Estas son las novedades de la primera gran actualización de Windows 11 en 2024</a></h4>
+    <a href='https://computerhoy.com/windows/novedades-primera-gran-actualizacion-windows-11-2024-1351715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/actualizacion-windows-11-3145492.jpg?tf=1200x' alt='Estas son las novedades de la primera gran actualización de Windows 11 en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/coche-autonomo-google-11-millones-kilometros-solo-tres-heridos-leves-1351710'>Google rompe los tópicos del coche autónomo: 11 millones de Kilómetros, solo tres heridos leves</a></h4>
     <a href='https://computerhoy.com/motor/coche-autonomo-google-11-millones-kilometros-solo-tres-heridos-leves-1351710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/coche-autonomo-waymo-1885185.jpg?tf=1200x' alt='Google rompe los tópicos del coche autónomo: 11 millones de Kilómetros, solo tres heridos leves' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-chrome-tiene-grave-problema-vpn-revisa-navegador-1351683'>Google Chrome tiene un grave problema con las VPN: revisa tu navegador</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-chrome-tiene-grave-problema-vpn-revisa-navegador-1351683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-chrome-3113980.jpg?tf=1200x' alt='Google Chrome tiene un grave problema con las VPN: revisa tu navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-online-banco-iban-numero-cuenta-bancaria-1346440'>Cómo saber online, qué banco es por el IBAN o número de cuenta bancaria</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-online-banco-iban-numero-cuenta-bancaria-1346440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-online-banco-iban-numero-cuenta-bancaria-3243076.jpg?tf=1200x' alt='Cómo saber online, qué banco es por el IBAN o número de cuenta bancaria' />
     </a>
 </div>
 
