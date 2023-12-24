@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/navidad-no-perdere-juegos-mesa-he-pedido-ayuda-ia-1351451'>Esta Navidad no perderé ni a las cartas ni a los juegos de mesa en familia: he pedido ayuda a la IA</a></h4>
-    <a href='https://computerhoy.com/hogar/navidad-no-perdere-juegos-mesa-he-pedido-ayuda-ia-1351451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estas-navidades-no-perdere-nuevo-ni-cartas-ni-juegos-mesa-familiares-he-pedido-ayuda-ia-3251673.jpg?tf=1200x' alt='Esta Navidad no perderé ni a las cartas ni a los juegos de mesa en familia: he pedido ayuda a la IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/inventan-robot-bipedo-capaz-caminar-traves-cualquier-superficie-solo-motor-1351871'>Inventan un robot bípedo capaz de caminar a través de cualquier superficie y solo con un motor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inventan-robot-bipedo-capaz-caminar-traves-cualquier-superficie-solo-motor-1351871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robot-mugatu-3252372.jpg?tf=1200x' alt='Inventan un robot bípedo capaz de caminar a través de cualquier superficie y solo con un motor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/qi-20-novedades-trae-carga-inalambrica-1344802'>¿Qué es Qi 2.0 y qué novedades trae a la carga inalámbrica?</a></h4>
-    <a href='https://computerhoy.com/moviles/qi-20-novedades-trae-carga-inalambrica-1344802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/verticalimage1703248088998-3251900.jpg?tf=1200x' alt='¿Qué es Qi 2.0 y qué novedades trae a la carga inalámbrica?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/recibes-llamadas-prefijo-39-cuidado-podria-ser-estafa-1351408'>¿Recibes llamadas con el prefijo +39? Cuidado, podría ser una estafa y así puedes protegerte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/recibes-llamadas-prefijo-39-cuidado-podria-ser-estafa-1351408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/recibes-llamadas-prefijo-39-cuidado-podria-ser-estafa-puedes-protegerte-3251636.jpg?tf=1200x' alt='¿Recibes llamadas con el prefijo +39? Cuidado, podría ser una estafa y así puedes protegerte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-estas-viendo-menos-canales-tdt-deberias-1351453'>Cómo saber si estás viendo menos canales de TDT de los que deberías</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-estas-viendo-menos-canales-tdt-deberias-1351453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-estas-viendo-menos-canales-tdt-deberias-3251685.jpg?tf=1200x' alt='Cómo saber si estás viendo menos canales de TDT de los que deberías' />
+    <h4><a href='https://computerhoy.com/life/empresa-bonifica-trabajadores-distancia-corran-cada-mes-1351868'>Esta empresa bonifica a sus trabajadores según la distancia que corran cada mes</a></h4>
+    <a href='https://computerhoy.com/life/empresa-bonifica-trabajadores-distancia-corran-cada-mes-1351868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/persona-haciendo-deporte-aire-libre-3252369.jpg?tf=1200x' alt='Esta empresa bonifica a sus trabajadores según la distancia que corran cada mes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085'>Los mejores televisores QLED calidad precio que puedes comprar </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tcl-c83-2873347.jpg?tf=1200x' alt='Los mejores televisores QLED calidad precio que puedes comprar ' />
+    <h4><a href='https://computerhoy.com/tecnologia/carga-brutal-240w-precio-locos-movil-realme-desploma-precio-codigo-descuento-1349008'>Carga brutal a 240W y precio de locos: este móvil realme desploma su precio con código descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/carga-brutal-240w-precio-locos-movil-realme-desploma-precio-codigo-descuento-1349008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/realme-gt-neo-5-3247338.jpg?tf=1200x' alt='Carga brutal a 240W y precio de locos: este móvil realme desploma su precio con código descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-no-puede-ver-pero-capaz-caminar-cualquier-entorno-1351841'>Este robot no puede ver pero es capaz de caminar por cualquier entorno</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-no-puede-ver-pero-capaz-caminar-cualquier-entorno-1351841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robot-no-puede-ver-pero-capaz-caminar-cualquier-entorno-3252337.jpg?tf=1200x' alt='Este robot no puede ver pero es capaz de caminar por cualquier entorno' />
+    <h4><a href='https://computerhoy.com/redes/estandares-wifi-tipos-compatibilidad-todo-debes-saber-1348830'>Estándares WiFi: tipos, compatibilidad y todo lo que debes saber para tener un WiFi más rápido</a></h4>
+    <a href='https://computerhoy.com/redes/estandares-wifi-tipos-compatibilidad-todo-debes-saber-1348830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estandares-wifi-tipos-compatibilidad-todo-debes-saber-tener-wifi-rapido-3247251.jpg?tf=1200x' alt='Estándares WiFi: tipos, compatibilidad y todo lo que debes saber para tener un WiFi más rápido' />
     </a>
 </div>
 
