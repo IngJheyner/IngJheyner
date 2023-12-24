@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-silenciar-voz-google-maps-android-auto-1351384'>Cómo silenciar Google Maps en Android Auto para que no interrumpa la música</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-silenciar-voz-google-maps-android-auto-1351384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-silenciar-google-maps-android-auto-no-interrumpa-musica-3251602.jpg?tf=1200x' alt='Cómo silenciar Google Maps en Android Auto para que no interrumpa la música' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-google-maps-localizar-amigos-familiares-1350724'>Cómo usar Google Maps para localizar y rastrear a tus amigos y familiares</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-google-maps-localizar-amigos-familiares-1350724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-usar-google-maps-localizar-rastrear-amigos-familiares-3250508.jpg?tf=1200x' alt='Cómo usar Google Maps para localizar y rastrear a tus amigos y familiares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-calcular-porcentajes-mentalmente-sin-calculadora-1351106'>Cómo calcular porcentajes mentalmente sin utilizar la calculadora del móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-calcular-porcentajes-mentalmente-sin-calculadora-1351106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-calcular-porcentajes-mentalmente-utilizar-calculadora-movil-3251144.jpg?tf=1200x' alt='Cómo calcular porcentajes mentalmente sin utilizar la calculadora del móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/despidete-suelo-radiante-alfombra-calefactable-arrasa-sorprendentemente-barata-1350963'>Despídete el suelo radiante: esta alfombra calefactable arrasa y es sorprendentemente barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/despidete-suelo-radiante-alfombra-calefactable-arrasa-sorprendentemente-barata-1350963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/alfombrilla-calefactable-3250671.jpg?tf=1200x' alt='Despídete el suelo radiante: esta alfombra calefactable arrasa y es sorprendentemente barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mejores-apps-jugar-amigos-familia-navidad-tener-fiesta-asegurada-1350628'>Mejores apps para jugar con amigos y familia en Navidad y tener la fiesta asegurada</a></h4>
     <a href='https://computerhoy.com/apps/mejores-apps-jugar-amigos-familia-navidad-tener-fiesta-asegurada-1350628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mejores-apps-jugar-amigos-familia-navidad-tener-fiesta-asegurada-3250230.jpg?tf=1200x' alt='Mejores apps para jugar con amigos y familia en Navidad y tener la fiesta asegurada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-eduardo-manostijeras-1351852'>Qué película ver en la TDT hoy: un cuento navideño al estilo Tim Burton</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-eduardo-manostijeras-1351852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/eduardo-manostijeras-2680485.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: un cuento navideño al estilo Tim Burton' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-navidenas-terror-ciencia-ficcion-pasar-unas-fiestas-diferentes-1350556'>5 películas navideñas de terror y ciencia ficción para pasar unas fiestas diferentes</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-peliculas-navidenas-terror-ciencia-ficcion-pasar-unas-fiestas-diferentes-1350556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-peliculas-navidenas-terror-ciencia-ficcion-pasar-unas-fiestas-diferentes-3250060.jpg?tf=1200x' alt='5 películas navideñas de terror y ciencia ficción para pasar unas fiestas diferentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tipo-tarjetas-credito-expertos-no-recomiendan-seguro-tienes-1351887'>Este es el tipo de tarjetas de crédito que los expertos no recomiendan, y seguro que tienes una</a></h4>
-    <a href='https://computerhoy.com/life/tipo-tarjetas-credito-expertos-no-recomiendan-seguro-tienes-1351887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-credito-2802137.jpg?tf=1200x' alt='Este es el tipo de tarjetas de crédito que los expertos no recomiendan, y seguro que tienes una' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-son-mejores-apps-seguir-papa-noel-navidad-1349685'>Estas son las mejores apps para seguir a Papá Noel en Navidad</a></h4>
-    <a href='https://computerhoy.com/apps/estas-son-mejores-apps-seguir-papa-noel-navidad-1349685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estas-son-mejores-apps-seguir-papa-noel-navidad-3248655.jpg?tf=1200x' alt='Estas son las mejores apps para seguir a Papá Noel en Navidad' />
     </a>
 </div>
 
