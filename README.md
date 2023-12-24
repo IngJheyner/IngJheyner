@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/surfshark-pone-vpn-patas-arriba-regala-4-meses-gratis-incluye-antivirus-1351498'>SurfShark pone las VPN patas arriba: regala 4 meses gratis e incluye antivirus</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/surfshark-pone-vpn-patas-arriba-regala-4-meses-gratis-incluye-antivirus-1351498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vpn-surfshark-3241642.jpg?tf=1200x' alt='SurfShark pone las VPN patas arriba: regala 4 meses gratis e incluye antivirus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ia-capaz-vencer-humanos-clasico-juego-mesa-1351842'>Esta IA es capaz de vencer a los humanos en este clásico juego de mesa</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-capaz-vencer-humanos-clasico-juego-mesa-1351842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ia-capaz-vencer-humanos-clasico-juego-mesa-3252339.jpg?tf=1200x' alt='Esta IA es capaz de vencer a los humanos en este clásico juego de mesa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-xiaomi-potente-barato-carga-rapida-33w-1350596'>AliExpress revienta el precio de un Xiaomi potente, barato y con carga rápida a 33W</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-xiaomi-potente-barato-carga-rapida-33w-1350596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-note-12s-3197748.jpg?tf=1200x' alt='AliExpress revienta el precio de un Xiaomi potente, barato y con carga rápida a 33W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-zodiac-1351819'>Qué película ver en la TDT hoy: la caza del Asesino del Zodiaco</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-zodiac-1351819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/zodiac-be-mad-2200-3218734.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: la caza del Asesino del Zodiaco' />
     </a>
 </div>
 
