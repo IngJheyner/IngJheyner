@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/surfshark-pone-vpn-patas-arriba-regala-4-meses-gratis-incluye-antivirus-1351498'>SurfShark pone las VPN patas arriba: regala 4 meses gratis e incluye antivirus</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/surfshark-pone-vpn-patas-arriba-regala-4-meses-gratis-incluye-antivirus-1351498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vpn-surfshark-3241642.jpg?tf=1200x' alt='SurfShark pone las VPN patas arriba: regala 4 meses gratis e incluye antivirus' />
+    <h4><a href='https://computerhoy.com/hogar/navidad-no-perdere-juegos-mesa-he-pedido-ayuda-ia-1351451'>Esta Navidad no perderé ni a las cartas ni a los juegos de mesa en familia: he pedido ayuda a la IA</a></h4>
+    <a href='https://computerhoy.com/hogar/navidad-no-perdere-juegos-mesa-he-pedido-ayuda-ia-1351451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estas-navidades-no-perdere-nuevo-ni-cartas-ni-juegos-mesa-familiares-he-pedido-ayuda-ia-3251673.jpg?tf=1200x' alt='Esta Navidad no perderé ni a las cartas ni a los juegos de mesa en familia: he pedido ayuda a la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-capaz-vencer-humanos-clasico-juego-mesa-1351842'>Esta IA es capaz de vencer a los humanos en este clásico juego de mesa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-capaz-vencer-humanos-clasico-juego-mesa-1351842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ia-capaz-vencer-humanos-clasico-juego-mesa-3252339.jpg?tf=1200x' alt='Esta IA es capaz de vencer a los humanos en este clásico juego de mesa' />
+    <h4><a href='https://computerhoy.com/moviles/qi-20-novedades-trae-carga-inalambrica-1344802'>¿Qué es Qi 2.0 y qué novedades trae a la carga inalámbrica?</a></h4>
+    <a href='https://computerhoy.com/moviles/qi-20-novedades-trae-carga-inalambrica-1344802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/verticalimage1703248088998-3251900.jpg?tf=1200x' alt='¿Qué es Qi 2.0 y qué novedades trae a la carga inalámbrica?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-manguera-voladora-extinguir-incendios-1351832'>Crean “una manguera voladora” para extinguir incendios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-manguera-voladora-extinguir-incendios-1351832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/crean-manguera-voladora-extinguir-incendios-3252331.jpg?tf=1200x' alt='Crean “una manguera voladora” para extinguir incendios' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-estas-viendo-menos-canales-tdt-deberias-1351453'>Cómo saber si estás viendo menos canales de TDT de los que deberías</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-estas-viendo-menos-canales-tdt-deberias-1351453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-estas-viendo-menos-canales-tdt-deberias-3251685.jpg?tf=1200x' alt='Cómo saber si estás viendo menos canales de TDT de los que deberías' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ai-pin-humane-ya-tiene-fecha-salida-pienses-reemplazar-movil-1351828'>Ai Pin de Humane ya tiene fecha de salida para que pienses en reemplazar tu móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ai-pin-humane-ya-tiene-fecha-salida-pienses-reemplazar-movil-1351828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ai-pin-humane-3252326.jpg?tf=1200x' alt='Ai Pin de Humane ya tiene fecha de salida para que pienses en reemplazar tu móvil' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085'>Los mejores televisores QLED calidad precio que puedes comprar </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tcl-c83-2873347.jpg?tf=1200x' alt='Los mejores televisores QLED calidad precio que puedes comprar ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-xiaomi-potente-barato-carga-rapida-33w-1350596'>AliExpress revienta el precio de un Xiaomi potente, barato y con carga rápida a 33W</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-xiaomi-potente-barato-carga-rapida-33w-1350596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-redmi-note-12s-3197748.jpg?tf=1200x' alt='AliExpress revienta el precio de un Xiaomi potente, barato y con carga rápida a 33W' />
+    <h4><a href='https://computerhoy.com/tecnologia/robot-no-puede-ver-pero-capaz-caminar-cualquier-entorno-1351841'>Este robot no puede ver pero es capaz de caminar por cualquier entorno</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-no-puede-ver-pero-capaz-caminar-cualquier-entorno-1351841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robot-no-puede-ver-pero-capaz-caminar-cualquier-entorno-3252337.jpg?tf=1200x' alt='Este robot no puede ver pero es capaz de caminar por cualquier entorno' />
     </a>
 </div>
 
