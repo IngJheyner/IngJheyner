@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-apps-jugar-amigos-familia-navidad-tener-fiesta-asegurada-1350628'>Mejores apps para jugar con amigos y familia en Navidad y tener la fiesta asegurada</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-apps-jugar-amigos-familia-navidad-tener-fiesta-asegurada-1350628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mejores-apps-jugar-amigos-familia-navidad-tener-fiesta-asegurada-3250230.jpg?tf=1200x' alt='Mejores apps para jugar con amigos y familia en Navidad y tener la fiesta asegurada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-eduardo-manostijeras-1351852'>Qué película ver en la TDT hoy: un cuento navideño al estilo Tim Burton</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-eduardo-manostijeras-1351852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/eduardo-manostijeras-2680485.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: un cuento navideño al estilo Tim Burton' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-navidenas-terror-ciencia-ficcion-pasar-unas-fiestas-diferentes-1350556'>5 películas navideñas de terror y ciencia ficción para pasar unas fiestas diferentes</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/5-peliculas-navidenas-terror-ciencia-ficcion-pasar-unas-fiestas-diferentes-1350556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-peliculas-navidenas-terror-ciencia-ficcion-pasar-unas-fiestas-diferentes-3250060.jpg?tf=1200x' alt='5 películas navideñas de terror y ciencia ficción para pasar unas fiestas diferentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/tipo-tarjetas-credito-expertos-no-recomiendan-seguro-tienes-1351887'>Este es el tipo de tarjetas de crédito que los expertos no recomiendan, y seguro que tienes una</a></h4>
     <a href='https://computerhoy.com/life/tipo-tarjetas-credito-expertos-no-recomiendan-seguro-tienes-1351887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-credito-2802137.jpg?tf=1200x' alt='Este es el tipo de tarjetas de crédito que los expertos no recomiendan, y seguro que tienes una' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/estas-son-mejores-apps-seguir-papa-noel-navidad-1349685'>Estas son las mejores apps para seguir a Papá Noel en Navidad</a></h4>
     <a href='https://computerhoy.com/apps/estas-son-mejores-apps-seguir-papa-noel-navidad-1349685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estas-son-mejores-apps-seguir-papa-noel-navidad-3248655.jpg?tf=1200x' alt='Estas son las mejores apps para seguir a Papá Noel en Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/abre-primer-restaurante-totalmente-autonomo-mundo-california-1351877'>Abre el primer restaurante totalmente autónomo del mundo en California</a></h4>
-    <a href='https://computerhoy.com/tecnologia/abre-primer-restaurante-totalmente-autonomo-mundo-california-1351877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/caliexpress-flippy-3252378.jpg?tf=1200x' alt='Abre el primer restaurante totalmente autónomo del mundo en California' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/5-apps-hacer-listas-deseos-te-salvaran-vida-navidad-1350318'>5 apps para hacer listas de deseos que te salvarán la vida en Navidad</a></h4>
-    <a href='https://computerhoy.com/apps/5-apps-hacer-listas-deseos-te-salvaran-vida-navidad-1350318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-apps-hacer-listas-deseos-te-salvaran-vida-navidad-3249698.jpg?tf=1200x' alt='5 apps para hacer listas de deseos que te salvarán la vida en Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-podria-reemplazar-gran-parte-personal-humano-inteligencia-artificial-1351875'>Google podría reemplazar gran parte de su personal humano con inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-podria-reemplazar-gran-parte-personal-humano-inteligencia-artificial-1351875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sede-google-3252376.jpg?tf=1200x' alt='Google podría reemplazar gran parte de su personal humano con inteligencia artificial' />
     </a>
 </div>
 
