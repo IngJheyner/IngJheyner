@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inventan-robot-bipedo-capaz-caminar-traves-cualquier-superficie-solo-motor-1351871'>Inventan un robot bípedo capaz de caminar a través de cualquier superficie y solo con un motor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inventan-robot-bipedo-capaz-caminar-traves-cualquier-superficie-solo-motor-1351871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/robot-mugatu-3252372.jpg?tf=1200x' alt='Inventan un robot bípedo capaz de caminar a través de cualquier superficie y solo con un motor' />
+    <h4><a href='https://computerhoy.com/life/tipo-tarjetas-credito-expertos-no-recomiendan-seguro-tienes-1351887'>Este es el tipo de tarjetas de crédito que los expertos no recomiendan, y seguro que tienes una</a></h4>
+    <a href='https://computerhoy.com/life/tipo-tarjetas-credito-expertos-no-recomiendan-seguro-tienes-1351887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-credito-2802137.jpg?tf=1200x' alt='Este es el tipo de tarjetas de crédito que los expertos no recomiendan, y seguro que tienes una' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/recibes-llamadas-prefijo-39-cuidado-podria-ser-estafa-1351408'>¿Recibes llamadas con el prefijo +39? Cuidado, podría ser una estafa y así puedes protegerte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/recibes-llamadas-prefijo-39-cuidado-podria-ser-estafa-1351408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/recibes-llamadas-prefijo-39-cuidado-podria-ser-estafa-puedes-protegerte-3251636.jpg?tf=1200x' alt='¿Recibes llamadas con el prefijo +39? Cuidado, podría ser una estafa y así puedes protegerte' />
+    <h4><a href='https://computerhoy.com/apps/estas-son-mejores-apps-seguir-papa-noel-navidad-1349685'>Estas son las mejores apps para seguir a Papá Noel en Navidad</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-mejores-apps-seguir-papa-noel-navidad-1349685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estas-son-mejores-apps-seguir-papa-noel-navidad-3248655.jpg?tf=1200x' alt='Estas son las mejores apps para seguir a Papá Noel en Navidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/empresa-bonifica-trabajadores-distancia-corran-cada-mes-1351868'>Esta empresa bonifica a sus trabajadores según la distancia que corran cada mes</a></h4>
-    <a href='https://computerhoy.com/life/empresa-bonifica-trabajadores-distancia-corran-cada-mes-1351868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/persona-haciendo-deporte-aire-libre-3252369.jpg?tf=1200x' alt='Esta empresa bonifica a sus trabajadores según la distancia que corran cada mes' />
+    <h4><a href='https://computerhoy.com/tecnologia/abre-primer-restaurante-totalmente-autonomo-mundo-california-1351877'>Abre el primer restaurante totalmente autónomo del mundo en California</a></h4>
+    <a href='https://computerhoy.com/tecnologia/abre-primer-restaurante-totalmente-autonomo-mundo-california-1351877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/caliexpress-flippy-3252378.jpg?tf=1200x' alt='Abre el primer restaurante totalmente autónomo del mundo en California' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/carga-brutal-240w-precio-locos-movil-realme-desploma-precio-codigo-descuento-1349008'>Carga brutal a 240W y precio de locos: este móvil realme desploma su precio con código descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/carga-brutal-240w-precio-locos-movil-realme-desploma-precio-codigo-descuento-1349008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/realme-gt-neo-5-3247338.jpg?tf=1200x' alt='Carga brutal a 240W y precio de locos: este móvil realme desploma su precio con código descuento' />
+    <h4><a href='https://computerhoy.com/apps/5-apps-hacer-listas-deseos-te-salvaran-vida-navidad-1350318'>5 apps para hacer listas de deseos que te salvarán la vida en Navidad</a></h4>
+    <a href='https://computerhoy.com/apps/5-apps-hacer-listas-deseos-te-salvaran-vida-navidad-1350318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-apps-hacer-listas-deseos-te-salvaran-vida-navidad-3249698.jpg?tf=1200x' alt='5 apps para hacer listas de deseos que te salvarán la vida en Navidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/estandares-wifi-tipos-compatibilidad-todo-debes-saber-1348830'>Estándares WiFi: tipos, compatibilidad y todo lo que debes saber para tener un WiFi más rápido</a></h4>
-    <a href='https://computerhoy.com/redes/estandares-wifi-tipos-compatibilidad-todo-debes-saber-1348830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estandares-wifi-tipos-compatibilidad-todo-debes-saber-tener-wifi-rapido-3247251.jpg?tf=1200x' alt='Estándares WiFi: tipos, compatibilidad y todo lo que debes saber para tener un WiFi más rápido' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-podria-reemplazar-gran-parte-personal-humano-inteligencia-artificial-1351875'>Google podría reemplazar gran parte de su personal humano con inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-podria-reemplazar-gran-parte-personal-humano-inteligencia-artificial-1351875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sede-google-3252376.jpg?tf=1200x' alt='Google podría reemplazar gran parte de su personal humano con inteligencia artificial' />
     </a>
 </div>
 
