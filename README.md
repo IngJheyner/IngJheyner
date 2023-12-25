@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-chantaje-afirman-tener-video-ti-viendo-pornografia-amenazan-difundirlo-1350766'>Cuidado con este chantaje: afirman tener un vídeo de ti viendo pornografía y amenazan con difundirlo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-chantaje-afirman-tener-video-ti-viendo-pornografia-amenazan-difundirlo-1350766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chantaje-video-pronografico-3251103.jpg?tf=1200x' alt='Cuidado con este chantaje: afirman tener un vídeo de ti viendo pornografía y amenazan con difundirlo' />
+    <h4><a href='https://computerhoy.com/tutoriales/catfishing-detectar-ligue-internet-no-existe-1342224'>Catfishing: 5 formas de detectar que tu ligue de Internet no existe</a></h4>
+    <a href='https://computerhoy.com/tutoriales/catfishing-detectar-ligue-internet-no-existe-1342224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tinder-3251778.jpg?tf=1200x' alt='Catfishing: 5 formas de detectar que tu ligue de Internet no existe' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/prohibicion-moviles-primaria-eso-cambio-necesario-educacion-espanola-1350767'>Prohibición de móviles en primaria y la ESO: ¿Un cambio necesario en la educación española? </a></h4>
-    <a href='https://computerhoy.com/moviles/prohibicion-moviles-primaria-eso-cambio-necesario-educacion-espanola-1350767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/moviles-ninos-colegio-3251796.jpg?tf=1200x' alt='Prohibición de móviles en primaria y la ESO: ¿Un cambio necesario en la educación española? ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-devolver-regalo-amazon-nadie-entere-1351458'>Cómo devolver un regalo de Amazon sin que nadie se entere</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-devolver-regalo-amazon-nadie-entere-1351458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-devolver-regalo-amazon-nadie-entere-3251692.jpg?tf=1200x' alt='Cómo devolver un regalo de Amazon sin que nadie se entere' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-peores-decisiones-historia-tecnologicas-espanolas-1343840'>Las 5 peores decisiones de la historia de tecnológicas españolas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-peores-decisiones-historia-tecnologicas-espanolas-1343840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/decisiones-tecnologicas-espanolas-3250999.jpg?tf=1200x' alt='Las 5 peores decisiones de la historia de tecnológicas españolas' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-gratis-funko-pop-personalizado-1351170'>Cómo crear gratis tu propio Funko Pop con inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-gratis-funko-pop-personalizado-1351170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-crear-gratis-propio-funko-pop-inteligencia-artificial-3251158.jpg?tf=1200x' alt='Cómo crear gratis tu propio Funko Pop con inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/numero-aureo-fascinante-cifra-obsesiono-leonardo-da-vinci-1351344'>Número áureo: qué es la proporción áurea, la fascinante cifra que obsesionó a Leonardo da Vinci</a></h4>
-    <a href='https://computerhoy.com/life/numero-aureo-fascinante-cifra-obsesiono-leonardo-da-vinci-1351344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/numero-aureo-proporcion-aurea-fascinante-cifra-obsesiono-leonardo-da-vinci-3251543.jpg?tf=1200x' alt='Número áureo: qué es la proporción áurea, la fascinante cifra que obsesionó a Leonardo da Vinci' />
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-popular-lia-30-dias-prueba-gratis-65-descuento-1350839'>La VPN más popular la lía: 30 días de prueba gratis y 65% de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-popular-lia-30-dias-prueba-gratis-65-descuento-1350839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nordvpn-3250617.jpg?tf=1200x' alt='La VPN más popular la lía: 30 días de prueba gratis y 65% de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/samsung-hunde-precio-tablet-potentisima-s8-240-euros-barata-1351932'>Samsung hunde el precio de una tablet potentísima: la S8 es 240 euros más barata</a></h4>
-    <a href='https://computerhoy.com/android/samsung-hunde-precio-tablet-potentisima-s8-240-euros-barata-1351932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galaxy-tab-s8-2610899.jpg?tf=1200x' alt='Samsung hunde el precio de una tablet potentísima: la S8 es 240 euros más barata' />
+    <h4><a href='https://computerhoy.com/tecnologia/nos-importa-realmente-ser-enganados-noticias-videos-falsos-redes-sociales-1345540'>Reina la apatía: ¿Nos importa realmente ser engañados por noticias y vídeos falsos en las redes sociales? Una psicóloga responde</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nos-importa-realmente-ser-enganados-noticias-videos-falsos-redes-sociales-1345540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/apatia-informativa-3247703.jpg?tf=1200x' alt='Reina la apatía: ¿Nos importa realmente ser engañados por noticias y vídeos falsos en las redes sociales? Una psicóloga responde' />
     </a>
 </div>
 
