@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/samsung-hunde-precio-tablet-potentisima-s8-240-euros-barata-1351932'>Samsung hunde el precio de una tablet potentísima: la S8 es 240 euros más barata</a></h4>
+    <a href='https://computerhoy.com/android/samsung-hunde-precio-tablet-potentisima-s8-240-euros-barata-1351932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galaxy-tab-s8-2610899.jpg?tf=1200x' alt='Samsung hunde el precio de una tablet potentísima: la S8 es 240 euros más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pc-windows-tiene-precio-dificil-creer-cuesta-100-euros-tiene-wifi-6-1350486'>Este PC con Windows tiene precio difícil de creer: cuesta 100 euros y tiene hasta WiFi 6</a></h4>
     <a href='https://computerhoy.com/tecnologia/pc-windows-tiene-precio-dificil-creer-cuesta-100-euros-tiene-wifi-6-1350486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chuwi-herobox-2023-3249984.jpg?tf=1200x' alt='Este PC con Windows tiene precio difícil de creer: cuesta 100 euros y tiene hasta WiFi 6' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-calcular-porcentajes-mentalmente-sin-calculadora-1351106'>Cómo calcular porcentajes mentalmente sin utilizar la calculadora del móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-calcular-porcentajes-mentalmente-sin-calculadora-1351106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-calcular-porcentajes-mentalmente-utilizar-calculadora-movil-3251144.jpg?tf=1200x' alt='Cómo calcular porcentajes mentalmente sin utilizar la calculadora del móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/despidete-suelo-radiante-alfombra-calefactable-arrasa-sorprendentemente-barata-1350963'>Despídete el suelo radiante: esta alfombra calefactable arrasa y es sorprendentemente barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/despidete-suelo-radiante-alfombra-calefactable-arrasa-sorprendentemente-barata-1350963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/alfombrilla-calefactable-3250671.jpg?tf=1200x' alt='Despídete el suelo radiante: esta alfombra calefactable arrasa y es sorprendentemente barata' />
     </a>
 </div>
 
