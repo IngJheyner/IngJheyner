@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/1-enero-sera-2024-pero-matematicas-historiadores-niegan-1351949'>El 1 de enero será 2024, pero las matemáticas y los historiadores lo niegan</a></h4>
+    <a href='https://computerhoy.com/ciencia/1-enero-sera-2024-pero-matematicas-historiadores-niegan-1351949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/1-enero-sera-2024-pero-matematicas-historiadores-niegan-3252499.jpg?tf=1200x' alt='El 1 de enero será 2024, pero las matemáticas y los historiadores lo niegan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/astronauta-espanol-viajar-luna-nasa-1351941'>¿Un astronauta español en la Luna? La NASA abre las puertas a esta posibilidad</a></h4>
     <a href='https://computerhoy.com/espacio/astronauta-espanol-viajar-luna-nasa-1351941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pablo-alvarez-sara-garcia-dos-nuevos-astronautas-espanoles-esa-podrian-viajar-luna-marte-2880767.jpg?tf=1200x' alt='¿Un astronauta español en la Luna? La NASA abre las puertas a esta posibilidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/bluesky-inicia-asalto-x-ya-puedes-ver-mensajes-sin-cuenta-1351898'>Bluesky inicia el asalto a X: ya puedes ver los mensajes sin tener una cuenta</a></h4>
     <a href='https://computerhoy.com/redes/bluesky-inicia-asalto-x-ya-puedes-ver-mensajes-sin-cuenta-1351898' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bluesky-inicia-asalto-x-ya-puedes-ver-mensajes-tener-cuenta-3252383.jpg?tf=1200x' alt='Bluesky inicia el asalto a X: ya puedes ver los mensajes sin tener una cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-funcionamiento-teclas-funcion-windows-11-crear-atajos-teclado-1347210'>Cómo cambiar el funcionamiento de las teclas de función en Windows 11 y crear atajos de teclado</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-funcionamiento-teclas-funcion-windows-11-crear-atajos-teclado-1347210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/razer-blackwidow-lite-teclado-gaming-mecanico-silencioso.jpg?tf=1200x' alt='Cómo cambiar el funcionamiento de las teclas de función en Windows 11 y crear atajos de teclado' />
     </a>
 </div>
 
