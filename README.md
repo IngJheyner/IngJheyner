@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/solo-en-casa-pelicula-mas-pirateada-navidad-2023-1351918'>Un clásico de hace 33 años vuelve a ser la película más pirateada en Navidad</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/solo-en-casa-pelicula-mas-pirateada-navidad-2023-1351918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/solo-casa-2162347.jpg?tf=1200x' alt='Un clásico de hace 33 años vuelve a ser la película más pirateada en Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/toshiba-discos-duros-tienen-brillante-futuro-1351926'>Toshiba lo tiene claro: "los discos duros tienen un brillante futuro"</a></h4>
+    <a href='https://computerhoy.com/pc/toshiba-discos-duros-tienen-brillante-futuro-1351926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/disco-duro-2690921.jpg?tf=1200x' alt='Toshiba lo tiene claro: "los discos duros tienen un brillante futuro"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/bluesky-inicia-asalto-x-ya-puedes-ver-mensajes-sin-cuenta-1351898'>Bluesky inicia el asalto a X: ya puedes ver los mensajes sin tener una cuenta</a></h4>
+    <a href='https://computerhoy.com/redes/bluesky-inicia-asalto-x-ya-puedes-ver-mensajes-sin-cuenta-1351898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bluesky-inicia-asalto-x-ya-puedes-ver-mensajes-tener-cuenta-3252383.jpg?tf=1200x' alt='Bluesky inicia el asalto a X: ya puedes ver los mensajes sin tener una cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-funcionamiento-teclas-funcion-windows-11-crear-atajos-teclado-1347210'>Cómo cambiar el funcionamiento de las teclas de función en Windows 11 y crear atajos de teclado</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-funcionamiento-teclas-funcion-windows-11-crear-atajos-teclado-1347210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/razer-blackwidow-lite-teclado-gaming-mecanico-silencioso.jpg?tf=1200x' alt='Cómo cambiar el funcionamiento de las teclas de función en Windows 11 y crear atajos de teclado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/catfishing-detectar-ligue-internet-no-existe-1342224'>Catfishing: 5 formas de detectar que tu ligue de Internet no existe</a></h4>
     <a href='https://computerhoy.com/tutoriales/catfishing-detectar-ligue-internet-no-existe-1342224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tinder-3251778.jpg?tf=1200x' alt='Catfishing: 5 formas de detectar que tu ligue de Internet no existe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-devolver-regalo-amazon-nadie-entere-1351458'>Cómo devolver un regalo de Amazon sin que nadie se entere</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-devolver-regalo-amazon-nadie-entere-1351458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-devolver-regalo-amazon-nadie-entere-3251692.jpg?tf=1200x' alt='Cómo devolver un regalo de Amazon sin que nadie se entere' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-gratis-funko-pop-personalizado-1351170'>Cómo crear gratis tu propio Funko Pop con inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-gratis-funko-pop-personalizado-1351170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-crear-gratis-propio-funko-pop-inteligencia-artificial-3251158.jpg?tf=1200x' alt='Cómo crear gratis tu propio Funko Pop con inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-popular-lia-30-dias-prueba-gratis-65-descuento-1350839'>La VPN más popular la lía: 30 días de prueba gratis y 65% de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-popular-lia-30-dias-prueba-gratis-65-descuento-1350839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nordvpn-3250617.jpg?tf=1200x' alt='La VPN más popular la lía: 30 días de prueba gratis y 65% de descuento' />
     </a>
 </div>
 
