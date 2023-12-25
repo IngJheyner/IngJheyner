@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-funcionamiento-teclas-funcion-windows-11-crear-atajos-teclado-1347210'>Cómo cambiar el funcionamiento de las teclas de función en Windows 11 y crear atajos de teclado</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-funcionamiento-teclas-funcion-windows-11-crear-atajos-teclado-1347210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/razer-blackwidow-lite-teclado-gaming-mecanico-silencioso.jpg?tf=1200x' alt='Cómo cambiar el funcionamiento de las teclas de función en Windows 11 y crear atajos de teclado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/catfishing-detectar-ligue-internet-no-existe-1342224'>Catfishing: 5 formas de detectar que tu ligue de Internet no existe</a></h4>
     <a href='https://computerhoy.com/tutoriales/catfishing-detectar-ligue-internet-no-existe-1342224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tinder-3251778.jpg?tf=1200x' alt='Catfishing: 5 formas de detectar que tu ligue de Internet no existe' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vpn-popular-lia-30-dias-prueba-gratis-65-descuento-1350839'>La VPN más popular la lía: 30 días de prueba gratis y 65% de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/vpn-popular-lia-30-dias-prueba-gratis-65-descuento-1350839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nordvpn-3250617.jpg?tf=1200x' alt='La VPN más popular la lía: 30 días de prueba gratis y 65% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nos-importa-realmente-ser-enganados-noticias-videos-falsos-redes-sociales-1345540'>Reina la apatía: ¿Nos importa realmente ser engañados por noticias y vídeos falsos en las redes sociales? Una psicóloga responde</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nos-importa-realmente-ser-enganados-noticias-videos-falsos-redes-sociales-1345540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/apatia-informativa-3247703.jpg?tf=1200x' alt='Reina la apatía: ¿Nos importa realmente ser engañados por noticias y vídeos falsos en las redes sociales? Una psicóloga responde' />
     </a>
 </div>
 
