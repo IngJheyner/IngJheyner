@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-chantaje-afirman-tener-video-ti-viendo-pornografia-amenazan-difundirlo-1350766'>Cuidado con este chantaje: afirman tener un vídeo de ti viendo pornografía y amenazan con difundirlo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-chantaje-afirman-tener-video-ti-viendo-pornografia-amenazan-difundirlo-1350766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chantaje-video-pronografico-3251103.jpg?tf=1200x' alt='Cuidado con este chantaje: afirman tener un vídeo de ti viendo pornografía y amenazan con difundirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/prohibicion-moviles-primaria-eso-cambio-necesario-educacion-espanola-1350767'>Prohibición de móviles en primaria y la ESO: ¿Un cambio necesario en la educación española? </a></h4>
+    <a href='https://computerhoy.com/moviles/prohibicion-moviles-primaria-eso-cambio-necesario-educacion-espanola-1350767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/moviles-ninos-colegio-3251796.jpg?tf=1200x' alt='Prohibición de móviles en primaria y la ESO: ¿Un cambio necesario en la educación española? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-peores-decisiones-historia-tecnologicas-espanolas-1343840'>Las 5 peores decisiones de la historia de tecnológicas españolas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-peores-decisiones-historia-tecnologicas-espanolas-1343840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/decisiones-tecnologicas-espanolas-3250999.jpg?tf=1200x' alt='Las 5 peores decisiones de la historia de tecnológicas españolas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/numero-aureo-fascinante-cifra-obsesiono-leonardo-da-vinci-1351344'>Número áureo: qué es la proporción áurea, la fascinante cifra que obsesionó a Leonardo da Vinci</a></h4>
+    <a href='https://computerhoy.com/life/numero-aureo-fascinante-cifra-obsesiono-leonardo-da-vinci-1351344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/numero-aureo-proporcion-aurea-fascinante-cifra-obsesiono-leonardo-da-vinci-3251543.jpg?tf=1200x' alt='Número áureo: qué es la proporción áurea, la fascinante cifra que obsesionó a Leonardo da Vinci' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/samsung-hunde-precio-tablet-potentisima-s8-240-euros-barata-1351932'>Samsung hunde el precio de una tablet potentísima: la S8 es 240 euros más barata</a></h4>
     <a href='https://computerhoy.com/android/samsung-hunde-precio-tablet-potentisima-s8-240-euros-barata-1351932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/galaxy-tab-s8-2610899.jpg?tf=1200x' alt='Samsung hunde el precio de una tablet potentísima: la S8 es 240 euros más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-windows-tiene-precio-dificil-creer-cuesta-100-euros-tiene-wifi-6-1350486'>Este PC con Windows tiene precio difícil de creer: cuesta 100 euros y tiene hasta WiFi 6</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-windows-tiene-precio-dificil-creer-cuesta-100-euros-tiene-wifi-6-1350486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chuwi-herobox-2023-3249984.jpg?tf=1200x' alt='Este PC con Windows tiene precio difícil de creer: cuesta 100 euros y tiene hasta WiFi 6' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-silenciar-voz-google-maps-android-auto-1351384'>Cómo silenciar Google Maps en Android Auto para que no interrumpa la música</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-silenciar-voz-google-maps-android-auto-1351384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-silenciar-google-maps-android-auto-no-interrumpa-musica-3251602.jpg?tf=1200x' alt='Cómo silenciar Google Maps en Android Auto para que no interrumpa la música' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-google-maps-localizar-amigos-familiares-1350724'>Cómo usar Google Maps para localizar y rastrear a tus amigos y familiares</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-google-maps-localizar-amigos-familiares-1350724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-usar-google-maps-localizar-rastrear-amigos-familiares-3250508.jpg?tf=1200x' alt='Cómo usar Google Maps para localizar y rastrear a tus amigos y familiares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-calcular-porcentajes-mentalmente-sin-calculadora-1351106'>Cómo calcular porcentajes mentalmente sin utilizar la calculadora del móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-calcular-porcentajes-mentalmente-sin-calculadora-1351106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-calcular-porcentajes-mentalmente-utilizar-calculadora-movil-3251144.jpg?tf=1200x' alt='Cómo calcular porcentajes mentalmente sin utilizar la calculadora del móvil' />
     </a>
 </div>
 
