@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/astronauta-espanol-viajar-luna-nasa-1351941'>¿Un astronauta español en la Luna? La NASA abre las puertas a esta posibilidad</a></h4>
+    <a href='https://computerhoy.com/espacio/astronauta-espanol-viajar-luna-nasa-1351941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pablo-alvarez-sara-garcia-dos-nuevos-astronautas-espanoles-esa-podrian-viajar-luna-marte-2880767.jpg?tf=1200x' alt='¿Un astronauta español en la Luna? La NASA abre las puertas a esta posibilidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/solo-en-casa-pelicula-mas-pirateada-navidad-2023-1351918'>Un clásico de hace 33 años vuelve a ser la película más pirateada en Navidad</a></h4>
     <a href='https://computerhoy.com/entretenimiento/solo-en-casa-pelicula-mas-pirateada-navidad-2023-1351918' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/solo-casa-2162347.jpg?tf=1200x' alt='Un clásico de hace 33 años vuelve a ser la película más pirateada en Navidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-funcionamiento-teclas-funcion-windows-11-crear-atajos-teclado-1347210'>Cómo cambiar el funcionamiento de las teclas de función en Windows 11 y crear atajos de teclado</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-funcionamiento-teclas-funcion-windows-11-crear-atajos-teclado-1347210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/razer-blackwidow-lite-teclado-gaming-mecanico-silencioso.jpg?tf=1200x' alt='Cómo cambiar el funcionamiento de las teclas de función en Windows 11 y crear atajos de teclado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/catfishing-detectar-ligue-internet-no-existe-1342224'>Catfishing: 5 formas de detectar que tu ligue de Internet no existe</a></h4>
-    <a href='https://computerhoy.com/tutoriales/catfishing-detectar-ligue-internet-no-existe-1342224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tinder-3251778.jpg?tf=1200x' alt='Catfishing: 5 formas de detectar que tu ligue de Internet no existe' />
     </a>
 </div>
 
