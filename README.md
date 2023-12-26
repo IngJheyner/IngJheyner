@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mi-portatil-calentaba-mucho-ruido-he-solucionado-1352005'>Mi portátil se calentaba y hacía mucho ruido: así lo he solucionado</a></h4>
-    <a href='https://computerhoy.com/pc/mi-portatil-calentaba-mucho-ruido-he-solucionado-1352005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/estudiante-usando-portatil-rodeada-libros-cama-2448737.jpg?tf=1200x' alt='Mi portátil se calentaba y hacía mucho ruido: así lo he solucionado' />
+    <h4><a href='https://computerhoy.com/ciencia/grandes-inventos-navidenos-pasaron-utilizarse-todo-ano-1352241'>Grandes inventos navideños que pasaron a utilizarse todo el año</a></h4>
+    <a href='https://computerhoy.com/ciencia/grandes-inventos-navidenos-pasaron-utilizarse-todo-ano-1352241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/luces-navidad-3252979.jpg?tf=1200x' alt='Grandes inventos navideños que pasaron a utilizarse todo el año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/12-trucos-exempleado-apple-evitar-bateria-iphone-agote-rapido-1352121'>12 trucos de un exempleado de Apple para evitar que la batería de tu iPhone se agote rápido</a></h4>
-    <a href='https://computerhoy.com/apple/12-trucos-exempleado-apple-evitar-bateria-iphone-agote-rapido-1352121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bateria-iphone-3252779.jpg?tf=1200x' alt='12 trucos de un exempleado de Apple para evitar que la batería de tu iPhone se agote rápido' />
+    <h4><a href='https://computerhoy.com/tecnologia/bizum-nuevo-identificador-digital-bancos-disponible-1351641'>Bizum: qué es su nuevo identificador digital y en qué bancos está disponible</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bizum-nuevo-identificador-digital-bancos-disponible-1351641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bizum-2833649.jpg?tf=1200x' alt='Bizum: qué es su nuevo identificador digital y en qué bancos está disponible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/troyano-android-bloquea-huella-digital-introduzcas-pin-controlar-movil-1352098'>Este troyano de Android bloquea tu huella digital para que introduzcas el PIN y tener acceso a tu móvil</a></h4>
-    <a href='https://computerhoy.com/android/troyano-android-bloquea-huella-digital-introduzcas-pin-controlar-movil-1352098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/troyano-android-biometria-3252745.jpg?tf=1200x' alt='Este troyano de Android bloquea tu huella digital para que introduzcas el PIN y tener acceso a tu móvil' />
+    <h4><a href='https://computerhoy.com/life/ia-smartwatch-pulseras-actividad-diagnosticar-depresion-1352220'>La inteligencia artificial, smartwatch y pulseras de actividad, cada vez más precisos diagnosticando y previniendo la depresión</a></h4>
+    <a href='https://computerhoy.com/life/ia-smartwatch-pulseras-actividad-diagnosticar-depresion-1352220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-smartwatches-pulseras-actividad-son-cada-vez-precisos-diagnosticando-depresion-3252974.jpg?tf=1200x' alt='La inteligencia artificial, smartwatch y pulseras de actividad, cada vez más precisos diagnosticando y previniendo la depresión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-ya-puede-detectar-ese-louis-vuitton-ha-llegado-casa-verdadero-1352072'>La inteligencia artificial ya puede detectar si ese Louis Vuitton que compras es verdadero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-ya-puede-detectar-ese-louis-vuitton-ha-llegado-casa-verdadero-1352072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-detecta-imitaciones-3252690.jpg?tf=1200x' alt='La inteligencia artificial ya puede detectar si ese Louis Vuitton que compras es verdadero' />
+    <h4><a href='https://computerhoy.com/energia/kitepower-electrolinera-movil-recarga-cometa-gigante-1352219'>Esta electrolinera móvil se recarga con una cometa gigante, y es independiente de la red eléctrica</a></h4>
+    <a href='https://computerhoy.com/energia/kitepower-electrolinera-movil-recarga-cometa-gigante-1352219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/electrolinera-movil-recarga-cometa-gigante-independiente-red-electrica-3252948.jpg?tf=1200x' alt='Esta electrolinera móvil se recarga con una cometa gigante, y es independiente de la red eléctrica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/potente-rivales-msi-i5-cuesta-menos-500eu-toda-sorpresa-1352060'>Más potente que sus rivales: este MSI con i5 cuesta menos de 500€ y es toda una sorpresa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/potente-rivales-msi-i5-cuesta-menos-500eu-toda-sorpresa-1352060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/msi-modern-15-portatiles-msi-2747475.jpg?tf=1200x' alt='Más potente que sus rivales: este MSI con i5 cuesta menos de 500€ y es toda una sorpresa' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-whatsapp-paga-dar-likes-youtube-1352095'>Así es la nueva estafa por WhatsApp que “paga” por dar likes en YouTube</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-whatsapp-paga-dar-likes-youtube-1352095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nueva-estafa-whatsapp-paga-dar-likes-youtube-3252725.jpg?tf=1200x' alt='Así es la nueva estafa por WhatsApp que “paga” por dar likes en YouTube' />
     </a>
 </div>
 
