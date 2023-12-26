@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-planchas-verticales-disponibles-ahora-ofertas-911793'>Las mejores planchas verticales que puedes comprar: ahorra tiempo y esfuerzo con ellas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-planchas-verticales-disponibles-ahora-ofertas-911793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cecotec-vital-3253054.jpg?tf=1200x' alt='Las mejores planchas verticales que puedes comprar: ahorra tiempo y esfuerzo con ellas' />
+    <h4><a href='https://computerhoy.com/motor/hyundai-kia-motor-coche-electrico-ruedas-1352275'>Hyundai y Kia tienen un nuevo lugar para el motor del coche eléctrico: las ruedas</a></h4>
+    <a href='https://computerhoy.com/motor/hyundai-kia-motor-coche-electrico-ruedas-1352275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/uniwheel-hyundai-kia-3252217.jpg?tf=1200x' alt='Hyundai y Kia tienen un nuevo lugar para el motor del coche eléctrico: las ruedas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/recibes-llamadas-prefijo-44-debes-saber-1351712'>¿Recibes llamadas con el prefijo +44? Descubre su origen y si es seguro responder</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/recibes-llamadas-prefijo-44-debes-saber-1351712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/recibes-llamadas-prefijo-44-descubre-origen-seguro-responder-3252191.jpg?tf=1200x' alt='¿Recibes llamadas con el prefijo +44? Descubre su origen y si es seguro responder' />
+    <h4><a href='https://computerhoy.com/tecnologia/rival-garmin-fenix-lia-polar-rebaja-grit-x-pro-precio-nunca-visto-1352091'>El rival de los Garmin Fenix la lía: Polar rebaja el Grit-X Pro a precio nunca visto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rival-garmin-fenix-lia-polar-rebaja-grit-x-pro-precio-nunca-visto-1352091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/polar-grit-x-pro-3190478.jpg?tf=1200x' alt='El rival de los Garmin Fenix la lía: Polar rebaja el Grit-X Pro a precio nunca visto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/funciones-windows-11-desapareceran-2024-1352240'>Funciones de Windows 11 que desaparecerán en 2024</a></h4>
-    <a href='https://computerhoy.com/windows/funciones-windows-11-desapareceran-2024-1352240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/funciones-windows-11-desapareceran-2024-3253021.jpg?tf=1200x' alt='Funciones de Windows 11 que desaparecerán en 2024' />
+    <h4><a href='https://computerhoy.com/ciencia/dormir-te-hace-feliz-dice-ciencia-1352081'>¿Dormir más te hace más feliz? Esto es lo que dice la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/dormir-te-hace-feliz-dice-ciencia-1352081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dormir-te-hace-feliz-dice-ciencia-3252693.jpg?tf=1200x' alt='¿Dormir más te hace más feliz? Esto es lo que dice la ciencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/grandes-inventos-navidenos-pasaron-utilizarse-todo-ano-1352241'>Grandes inventos navideños que pasaron a utilizarse todo el año</a></h4>
-    <a href='https://computerhoy.com/ciencia/grandes-inventos-navidenos-pasaron-utilizarse-todo-ano-1352241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/luces-navidad-3252979.jpg?tf=1200x' alt='Grandes inventos navideños que pasaron a utilizarse todo el año' />
+    <h4><a href='https://computerhoy.com/entretenimiento/redes-arden-literalmente-visto-netflix-espana-navidad-1352310'>Las redes arden (literalmente) con lo más visto en Netflix España esta Navidad</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/redes-arden-literalmente-visto-netflix-espana-navidad-1352310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chimenea-netflix-3253134.jpg?tf=1200x' alt='Las redes arden (literalmente) con lo más visto en Netflix España esta Navidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bizum-nuevo-identificador-digital-bancos-disponible-1351641'>Bizum: qué es su nuevo identificador digital y en qué bancos está disponible</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bizum-nuevo-identificador-digital-bancos-disponible-1351641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bizum-2833649.jpg?tf=1200x' alt='Bizum: qué es su nuevo identificador digital y en qué bancos está disponible' />
+    <h4><a href='https://computerhoy.com/life/neurocientifico-destapa-truco-restaurantes-hacerte-gastar-todos-caemos-1352307'>Un neurocientífico destapa el truco de los restaurantes para hacerte gastar más y en el que todos caemos</a></h4>
+    <a href='https://computerhoy.com/life/neurocientifico-destapa-truco-restaurantes-hacerte-gastar-todos-caemos-1352307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/comida-restaurante-3253131.jpg?tf=1200x' alt='Un neurocientífico destapa el truco de los restaurantes para hacerte gastar más y en el que todos caemos' />
     </a>
 </div>
 
