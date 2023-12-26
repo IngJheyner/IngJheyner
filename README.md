@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/4-cosas-he-visto-moviles-2023-me-gustaria-volver-ver-2024-1351209'>4 cosas que he visto en los móviles durante 2023 que me gustaría volver a ver en 2024</a></h4>
-    <a href='https://computerhoy.com/moviles/4-cosas-he-visto-moviles-2023-me-gustaria-volver-ver-2024-1351209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portada-mejores-detalles-moviles-2023-3251703.jpg?tf=1200x' alt='4 cosas que he visto en los móviles durante 2023 que me gustaría volver a ver en 2024' />
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-ya-puede-detectar-ese-louis-vuitton-ha-llegado-casa-verdadero-1352072'>La inteligencia artificial ya puede detectar si ese Louis Vuitton que compras es verdadero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-ya-puede-detectar-ese-louis-vuitton-ha-llegado-casa-verdadero-1352072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-detecta-imitaciones-3252690.jpg?tf=1200x' alt='La inteligencia artificial ya puede detectar si ese Louis Vuitton que compras es verdadero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/1-enero-sera-2024-pero-matematicas-historiadores-niegan-1351949'>El 1 de enero será 2024, pero las matemáticas y los historiadores lo niegan</a></h4>
-    <a href='https://computerhoy.com/ciencia/1-enero-sera-2024-pero-matematicas-historiadores-niegan-1351949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/1-enero-sera-2024-pero-matematicas-historiadores-niegan-3252499.jpg?tf=1200x' alt='El 1 de enero será 2024, pero las matemáticas y los historiadores lo niegan' />
+    <h4><a href='https://computerhoy.com/tecnologia/potente-rivales-msi-i5-cuesta-menos-500eu-toda-sorpresa-1352060'>Más potente que sus rivales: este MSI con i5 cuesta menos de 500€ y es toda una sorpresa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/potente-rivales-msi-i5-cuesta-menos-500eu-toda-sorpresa-1352060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/msi-modern-15-portatiles-msi-2747475.jpg?tf=1200x' alt='Más potente que sus rivales: este MSI con i5 cuesta menos de 500€ y es toda una sorpresa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/astronauta-espanol-viajar-luna-nasa-1351941'>¿Un astronauta español en la Luna? La NASA abre las puertas a esta posibilidad</a></h4>
-    <a href='https://computerhoy.com/espacio/astronauta-espanol-viajar-luna-nasa-1351941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/pablo-alvarez-sara-garcia-dos-nuevos-astronautas-espanoles-esa-podrian-viajar-luna-marte-2880767.jpg?tf=1200x' alt='¿Un astronauta español en la Luna? La NASA abre las puertas a esta posibilidad' />
+    <h4><a href='https://computerhoy.com/apple/quieres-unas-apple-vision-pro-llegaran-finales-enero-version-barata-1352054'>¿Quieres unas Apple Vision Pro? No estarán a tiempo para los Reyes Magos, pero llegarán a finales de enero</a></h4>
+    <a href='https://computerhoy.com/apple/quieres-unas-apple-vision-pro-llegaran-finales-enero-version-barata-1352054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051082.jpg?tf=1200x' alt='¿Quieres unas Apple Vision Pro? No estarán a tiempo para los Reyes Magos, pero llegarán a finales de enero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/solo-en-casa-pelicula-mas-pirateada-navidad-2023-1351918'>Un clásico de hace 33 años vuelve a ser la película más pirateada en Navidad</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/solo-en-casa-pelicula-mas-pirateada-navidad-2023-1351918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/solo-casa-2162347.jpg?tf=1200x' alt='Un clásico de hace 33 años vuelve a ser la película más pirateada en Navidad' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-stock-firestick-potente-barato-black-friday-1352053'>Amazon está liquidando stock de su Firestick más potente: es más barato que en el Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-stock-firestick-potente-barato-black-friday-1352053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-4k-max-2023-3229688.jpg?tf=1200x' alt='Amazon está liquidando stock de su Firestick más potente: es más barato que en el Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/toshiba-discos-duros-tienen-brillante-futuro-1351926'>Toshiba lo tiene claro: "Los discos duros tienen un brillante futuro"</a></h4>
-    <a href='https://computerhoy.com/pc/toshiba-discos-duros-tienen-brillante-futuro-1351926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/disco-duro-2690921.jpg?tf=1200x' alt='Toshiba lo tiene claro: "Los discos duros tienen un brillante futuro"' />
+    <h4><a href='https://computerhoy.com/energia/idean-forma-cargar-varios-dispositivos-vez-solo-bateria-cuantica-1352051'>Idean una forma de cargar varios dispositivos a la vez con solo una batería cuántica</a></h4>
+    <a href='https://computerhoy.com/energia/idean-forma-cargar-varios-dispositivos-vez-solo-bateria-cuantica-1352051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bateria-cuantica-3252676.jpg?tf=1200x' alt='Idean una forma de cargar varios dispositivos a la vez con solo una batería cuántica' />
     </a>
 </div>
 
