@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/4-cosas-he-visto-moviles-2023-me-gustaria-volver-ver-2024-1351209'>4 cosas que he visto en los móviles durante 2023 que me gustaría volver a ver en 2024</a></h4>
+    <a href='https://computerhoy.com/moviles/4-cosas-he-visto-moviles-2023-me-gustaria-volver-ver-2024-1351209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portada-mejores-detalles-moviles-2023-3251703.jpg?tf=1200x' alt='4 cosas que he visto en los móviles durante 2023 que me gustaría volver a ver en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/1-enero-sera-2024-pero-matematicas-historiadores-niegan-1351949'>El 1 de enero será 2024, pero las matemáticas y los historiadores lo niegan</a></h4>
     <a href='https://computerhoy.com/ciencia/1-enero-sera-2024-pero-matematicas-historiadores-niegan-1351949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/1-enero-sera-2024-pero-matematicas-historiadores-niegan-3252499.jpg?tf=1200x' alt='El 1 de enero será 2024, pero las matemáticas y los historiadores lo niegan' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/toshiba-discos-duros-tienen-brillante-futuro-1351926'>Toshiba lo tiene claro: "los discos duros tienen un brillante futuro"</a></h4>
+    <h4><a href='https://computerhoy.com/pc/toshiba-discos-duros-tienen-brillante-futuro-1351926'>Toshiba lo tiene claro: "Los discos duros tienen un brillante futuro"</a></h4>
     <a href='https://computerhoy.com/pc/toshiba-discos-duros-tienen-brillante-futuro-1351926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/disco-duro-2690921.jpg?tf=1200x' alt='Toshiba lo tiene claro: "los discos duros tienen un brillante futuro"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/bluesky-inicia-asalto-x-ya-puedes-ver-mensajes-sin-cuenta-1351898'>Bluesky inicia el asalto a X: ya puedes ver los mensajes sin tener una cuenta</a></h4>
-    <a href='https://computerhoy.com/redes/bluesky-inicia-asalto-x-ya-puedes-ver-mensajes-sin-cuenta-1351898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bluesky-inicia-asalto-x-ya-puedes-ver-mensajes-tener-cuenta-3252383.jpg?tf=1200x' alt='Bluesky inicia el asalto a X: ya puedes ver los mensajes sin tener una cuenta' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/disco-duro-2690921.jpg?tf=1200x' alt='Toshiba lo tiene claro: "Los discos duros tienen un brillante futuro"' />
     </a>
 </div>
 
