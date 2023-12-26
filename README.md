@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-planchas-verticales-disponibles-ahora-ofertas-911793'>Las mejores planchas verticales que puedes comprar: ahorra tiempo y esfuerzo con ellas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-planchas-verticales-disponibles-ahora-ofertas-911793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cecotec-vital-3253054.jpg?tf=1200x' alt='Las mejores planchas verticales que puedes comprar: ahorra tiempo y esfuerzo con ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/recibes-llamadas-prefijo-44-debes-saber-1351712'>¿Recibes llamadas con el prefijo +44? Descubre su origen y si es seguro responder</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/recibes-llamadas-prefijo-44-debes-saber-1351712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/recibes-llamadas-prefijo-44-descubre-origen-seguro-responder-3252191.jpg?tf=1200x' alt='¿Recibes llamadas con el prefijo +44? Descubre su origen y si es seguro responder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/funciones-windows-11-desapareceran-2024-1352240'>Funciones de Windows 11 que desaparecerán en 2024</a></h4>
+    <a href='https://computerhoy.com/windows/funciones-windows-11-desapareceran-2024-1352240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/funciones-windows-11-desapareceran-2024-3253021.jpg?tf=1200x' alt='Funciones de Windows 11 que desaparecerán en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/grandes-inventos-navidenos-pasaron-utilizarse-todo-ano-1352241'>Grandes inventos navideños que pasaron a utilizarse todo el año</a></h4>
     <a href='https://computerhoy.com/ciencia/grandes-inventos-navidenos-pasaron-utilizarse-todo-ano-1352241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/luces-navidad-3252979.jpg?tf=1200x' alt='Grandes inventos navideños que pasaron a utilizarse todo el año' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/bizum-nuevo-identificador-digital-bancos-disponible-1351641'>Bizum: qué es su nuevo identificador digital y en qué bancos está disponible</a></h4>
     <a href='https://computerhoy.com/tecnologia/bizum-nuevo-identificador-digital-bancos-disponible-1351641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/bizum-2833649.jpg?tf=1200x' alt='Bizum: qué es su nuevo identificador digital y en qué bancos está disponible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ia-smartwatch-pulseras-actividad-diagnosticar-depresion-1352220'>La inteligencia artificial, smartwatch y pulseras de actividad, cada vez más precisos diagnosticando y previniendo la depresión</a></h4>
-    <a href='https://computerhoy.com/life/ia-smartwatch-pulseras-actividad-diagnosticar-depresion-1352220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-smartwatches-pulseras-actividad-son-cada-vez-precisos-diagnosticando-depresion-3252974.jpg?tf=1200x' alt='La inteligencia artificial, smartwatch y pulseras de actividad, cada vez más precisos diagnosticando y previniendo la depresión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/kitepower-electrolinera-movil-recarga-cometa-gigante-1352219'>Esta electrolinera móvil se recarga con una cometa gigante, y es independiente de la red eléctrica</a></h4>
-    <a href='https://computerhoy.com/energia/kitepower-electrolinera-movil-recarga-cometa-gigante-1352219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/electrolinera-movil-recarga-cometa-gigante-independiente-red-electrica-3252948.jpg?tf=1200x' alt='Esta electrolinera móvil se recarga con una cometa gigante, y es independiente de la red eléctrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-whatsapp-paga-dar-likes-youtube-1352095'>Así es la nueva estafa por WhatsApp que “paga” por dar likes en YouTube</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-whatsapp-paga-dar-likes-youtube-1352095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nueva-estafa-whatsapp-paga-dar-likes-youtube-3252725.jpg?tf=1200x' alt='Así es la nueva estafa por WhatsApp que “paga” por dar likes en YouTube' />
     </a>
 </div>
 
