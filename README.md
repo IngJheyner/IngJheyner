@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/mi-portatil-calentaba-mucho-ruido-he-solucionado-1352005'>Mi portátil se calentaba y hacía mucho ruido: así lo he solucionado</a></h4>
+    <a href='https://computerhoy.com/pc/mi-portatil-calentaba-mucho-ruido-he-solucionado-1352005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/estudiante-usando-portatil-rodeada-libros-cama-2448737.jpg?tf=1200x' alt='Mi portátil se calentaba y hacía mucho ruido: así lo he solucionado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/12-trucos-exempleado-apple-evitar-bateria-iphone-agote-rapido-1352121'>12 trucos de un exempleado de Apple para evitar que la batería de tu iPhone se agote rápido</a></h4>
+    <a href='https://computerhoy.com/apple/12-trucos-exempleado-apple-evitar-bateria-iphone-agote-rapido-1352121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bateria-iphone-3252779.jpg?tf=1200x' alt='12 trucos de un exempleado de Apple para evitar que la batería de tu iPhone se agote rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/troyano-android-bloquea-huella-digital-introduzcas-pin-controlar-movil-1352098'>Este troyano de Android bloquea tu huella digital para que introduzcas el PIN y tener acceso a tu móvil</a></h4>
+    <a href='https://computerhoy.com/android/troyano-android-bloquea-huella-digital-introduzcas-pin-controlar-movil-1352098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/troyano-android-biometria-3252745.jpg?tf=1200x' alt='Este troyano de Android bloquea tu huella digital para que introduzcas el PIN y tener acceso a tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-ya-puede-detectar-ese-louis-vuitton-ha-llegado-casa-verdadero-1352072'>La inteligencia artificial ya puede detectar si ese Louis Vuitton que compras es verdadero</a></h4>
     <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-ya-puede-detectar-ese-louis-vuitton-ha-llegado-casa-verdadero-1352072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-detecta-imitaciones-3252690.jpg?tf=1200x' alt='La inteligencia artificial ya puede detectar si ese Louis Vuitton que compras es verdadero' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/potente-rivales-msi-i5-cuesta-menos-500eu-toda-sorpresa-1352060'>Más potente que sus rivales: este MSI con i5 cuesta menos de 500€ y es toda una sorpresa</a></h4>
     <a href='https://computerhoy.com/tecnologia/potente-rivales-msi-i5-cuesta-menos-500eu-toda-sorpresa-1352060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/msi-modern-15-portatiles-msi-2747475.jpg?tf=1200x' alt='Más potente que sus rivales: este MSI con i5 cuesta menos de 500€ y es toda una sorpresa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/quieres-unas-apple-vision-pro-llegaran-finales-enero-version-barata-1352054'>¿Quieres unas Apple Vision Pro? No estarán a tiempo para los Reyes Magos, pero llegarán a finales de enero</a></h4>
-    <a href='https://computerhoy.com/apple/quieres-unas-apple-vision-pro-llegaran-finales-enero-version-barata-1352054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051082.jpg?tf=1200x' alt='¿Quieres unas Apple Vision Pro? No estarán a tiempo para los Reyes Magos, pero llegarán a finales de enero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-stock-firestick-potente-barato-black-friday-1352053'>Amazon está liquidando stock de su Firestick más potente: es más barato que en el Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-stock-firestick-potente-barato-black-friday-1352053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-4k-max-2023-3229688.jpg?tf=1200x' alt='Amazon está liquidando stock de su Firestick más potente: es más barato que en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/idean-forma-cargar-varios-dispositivos-vez-solo-bateria-cuantica-1352051'>Idean una forma de cargar varios dispositivos a la vez con solo una batería cuántica</a></h4>
-    <a href='https://computerhoy.com/energia/idean-forma-cargar-varios-dispositivos-vez-solo-bateria-cuantica-1352051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bateria-cuantica-3252676.jpg?tf=1200x' alt='Idean una forma de cargar varios dispositivos a la vez con solo una batería cuántica' />
     </a>
 </div>
 
