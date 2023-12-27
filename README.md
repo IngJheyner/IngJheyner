@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-jensen-huang-explica-como-sobrevivir-era-inteligencia-artificial-1352346'>El CEO de NVIDIA explica cómo sobrevivir en la era de la IA: "no lleves reloj"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ceo-nvidia-jensen-huang-explica-como-sobrevivir-era-inteligencia-artificial-1352346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ceo-nvidia-frota-manos-popularidad-chatgpt-2954574.jpg?tf=1200x' alt='El CEO de NVIDIA explica cómo sobrevivir en la era de la IA: "no lleves reloj"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-lanza-app-copilot-android-desterrando-bing-1352334'>Microsoft va a por ChatGPT, y tira la toalla con Bing: lanza la app Copilot para Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-lanza-app-copilot-android-desterrando-bing-1352334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-va-chatgpt-tira-toalla-bing-lanza-app-android-copilot-3253166.jpg?tf=1200x' alt='Microsoft va a por ChatGPT, y tira la toalla con Bing: lanza la app Copilot para Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/hyundai-kia-motor-coche-electrico-ruedas-1352275'>Hyundai y Kia tienen un nuevo lugar para el motor del coche eléctrico: las ruedas</a></h4>
     <a href='https://computerhoy.com/motor/hyundai-kia-motor-coche-electrico-ruedas-1352275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/uniwheel-hyundai-kia-3252217.jpg?tf=1200x' alt='Hyundai y Kia tienen un nuevo lugar para el motor del coche eléctrico: las ruedas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/dormir-te-hace-feliz-dice-ciencia-1352081'>¿Dormir más te hace más feliz? Esto es lo que dice la ciencia</a></h4>
     <a href='https://computerhoy.com/ciencia/dormir-te-hace-feliz-dice-ciencia-1352081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dormir-te-hace-feliz-dice-ciencia-3252693.jpg?tf=1200x' alt='¿Dormir más te hace más feliz? Esto es lo que dice la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/redes-arden-literalmente-visto-netflix-espana-navidad-1352310'>Las redes arden (literalmente) con lo más visto en Netflix España esta Navidad</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/redes-arden-literalmente-visto-netflix-espana-navidad-1352310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chimenea-netflix-3253134.jpg?tf=1200x' alt='Las redes arden (literalmente) con lo más visto en Netflix España esta Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/neurocientifico-destapa-truco-restaurantes-hacerte-gastar-todos-caemos-1352307'>Un neurocientífico destapa el truco de los restaurantes para hacerte gastar más y en el que todos caemos</a></h4>
-    <a href='https://computerhoy.com/life/neurocientifico-destapa-truco-restaurantes-hacerte-gastar-todos-caemos-1352307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/comida-restaurante-3253131.jpg?tf=1200x' alt='Un neurocientífico destapa el truco de los restaurantes para hacerte gastar más y en el que todos caemos' />
     </a>
 </div>
 
