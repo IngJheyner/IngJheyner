@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/burguer-king-te-hara-descuento-herramienta-reconocimiento-facial-ve-tienes-resaca-1352406'>Burguer King te hará un descuento si su reconocimiento facial ve que tienes resaca: habría triunfado en España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/burguer-king-te-hara-descuento-herramienta-reconocimiento-facial-ve-tienes-resaca-1352406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/campana-marketing-burguer-king-reconocimiento-facial-3253351.jpg?tf=1200x' alt='Burguer King te hará un descuento si su reconocimiento facial ve que tienes resaca: habría triunfado en España' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ejecutar-prueba-estres-gpu-importante-hacerlo-1352337'>Cómo ejecutar una prueba de estrés a la GPU de tu ordenador y por qué es importante hacerlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ejecutar-prueba-estres-gpu-importante-hacerlo-1352337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-ejecutar-prueba-estres-gpu-importante-hacerlo-3253177.jpg?tf=1200x' alt='Cómo ejecutar una prueba de estrés a la GPU de tu ordenador y por qué es importante hacerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-logran-paso-clave-teletransportacion-imagenes-1352468'>Un equipo de científicos logra un paso clave hacia la teletransportación de imágenes a través de la luz</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-logran-paso-clave-teletransportacion-imagenes-1352468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/star-trek-picard-2635061.jpg?tf=1200x' alt='Un equipo de científicos logra un paso clave hacia la teletransportación de imágenes a través de la luz' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-fin-encuentra-enemigo-altura-puede-pararle-pies-1352567'>Flipper Zero por fin encuentra un enemigo que le puede parar los pies: Wall of Flippers</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-fin-encuentra-enemigo-altura-puede-pararle-pies-1352567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-fin-encuentra-enemigo-puede-parar-pies-wall-flippers-3253672.jpg?tf=1200x' alt='Flipper Zero por fin encuentra un enemigo que le puede parar los pies: Wall of Flippers' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/podria-realizar-ciberataque-como-dejar-mundo-atras-netflix-todo-colapsara-1352393'>¿Se podría realizar un ciberataque como el de Dejar el mundo atrás de Netflix y que todo colapsara?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/podria-realizar-ciberataque-como-dejar-mundo-atras-netflix-todo-colapsara-1352393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dejar-mundo-atras-3149722.jpg?tf=1200x' alt='¿Se podría realizar un ciberataque como el de Dejar el mundo atrás de Netflix y que todo colapsara?' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejor-teclado-ergonomico-mercado-40-barato-amazon-1352464'>Su diseño es un poco raro, pero es el teclado más cómodo que existe y ahora está rebajado a la mitad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejor-teclado-ergonomico-mercado-40-barato-amazon-1352464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logitech-ergo-k860-2957394.jpg?tf=1200x' alt='Su diseño es un poco raro, pero es el teclado más cómodo que existe y ahora está rebajado a la mitad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/di-adios-switch-steam-deck-asus-rog-ally-ha-desplomado-precio-primera-vez-1352369'>Di adiós a Switch y Steam Deck: la ASUS ROG Ally ha desplomado su precio por primera vez</a></h4>
-    <a href='https://computerhoy.com/gaming/di-adios-switch-steam-deck-asus-rog-ally-ha-desplomado-precio-primera-vez-1352369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/asus-rog-ally-3253204.jpg?tf=1200x' alt='Di adiós a Switch y Steam Deck: la ASUS ROG Ally ha desplomado su precio por primera vez' />
+    <h4><a href='https://computerhoy.com/internet/liveworksheets-herramienta-crear-fichas-interactivas-ninos-1352343'>Liveworksheets 2024: qué es y cómo funciona el mejor generador de fichas interactivas para niños</a></h4>
+    <a href='https://computerhoy.com/internet/liveworksheets-herramienta-crear-fichas-interactivas-ninos-1352343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/liveworksheets-2024-como-funciona-mejor-generador-fichas-interactivas-ninos-3253185.jpg?tf=1200x' alt='Liveworksheets 2024: qué es y cómo funciona el mejor generador de fichas interactivas para niños' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/xiaomi-su7-primer-coche-electrico-firma-china-1352417'>El Xiaomi SU7, el primer coche eléctrico de la firma china, se presentará el 28 de diciembre</a></h4>
-    <a href='https://computerhoy.com/motor/xiaomi-su7-primer-coche-electrico-firma-china-1352417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-su7-3253371.jpg?tf=1200x' alt='El Xiaomi SU7, el primer coche eléctrico de la firma china, se presentará el 28 de diciembre' />
+    <h4><a href='https://computerhoy.com/life/diferencia-psicopata-narcisista-1352545'>En qué se diferencia un psicópata de un narcisista y cómo detectarlos</a></h4>
+    <a href='https://computerhoy.com/life/diferencia-psicopata-narcisista-1352545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/diferencia-psicopata-narcisista-como-detectarlos-3253628.jpg?tf=1200x' alt='En qué se diferencia un psicópata de un narcisista y cómo detectarlos' />
     </a>
 </div>
 
