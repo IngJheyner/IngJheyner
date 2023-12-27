@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/podria-realizar-ciberataque-como-dejar-mundo-atras-netflix-todo-colapsara-1352393'>¿Se podría realizar un ciberataque como el de Dejar el mundo atrás de Netflix y que todo colapsara?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/podria-realizar-ciberataque-como-dejar-mundo-atras-netflix-todo-colapsara-1352393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dejar-mundo-atras-3149722.jpg?tf=1200x' alt='¿Se podría realizar un ciberataque como el de Dejar el mundo atrás de Netflix y que todo colapsara?' />
+    <h4><a href='https://computerhoy.com/tecnologia/tesla-optimus-gen-2-robot-mayordomo-elon-musk-1352517'>Optimus Gen 2, el robot de Tesla recibe articulaciones nuevas, y es más humano que nunca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tesla-optimus-gen-2-robot-mayordomo-elon-musk-1352517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/verticalimage1703683592259-3253542.jpg?tf=1200x' alt='Optimus Gen 2, el robot de Tesla recibe articulaciones nuevas, y es más humano que nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/di-adios-switch-steam-deck-asus-rog-ally-ha-desplomado-precio-primera-vez-1352369'>Di adiós a Switch y Steam Deck: la ASUS ROG Ally ha desplomado su precio por primera vez</a></h4>
-    <a href='https://computerhoy.com/gaming/di-adios-switch-steam-deck-asus-rog-ally-ha-desplomado-precio-primera-vez-1352369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/asus-rog-ally-3253204.jpg?tf=1200x' alt='Di adiós a Switch y Steam Deck: la ASUS ROG Ally ha desplomado su precio por primera vez' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-acceder-gestionar-portapapeles-android-826559'>Cómo acceder y gestionar el portapapeles en Android</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-acceder-gestionar-portapapeles-android-826559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-acceder-gestionar-portapapeles-android-3253193.jpg?tf=1200x' alt='Cómo acceder y gestionar el portapapeles en Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/xiaomi-su7-primer-coche-electrico-firma-china-1352417'>Así es el Xiaomi SU7: el primer coche eléctrico de la firma china</a></h4>
-    <a href='https://computerhoy.com/motor/xiaomi-su7-primer-coche-electrico-firma-china-1352417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-su7-3253371.jpg?tf=1200x' alt='Así es el Xiaomi SU7: el primer coche eléctrico de la firma china' />
+    <h4><a href='https://computerhoy.com/life/2024-sera-ano-arrepentimiento-acabaron-teletrabajo-obligados-admitir-no-mejoraron-productividad-1352482'>2024 será el año del arrepentimiento de los que acabaron con el teletrabajo: obligados a admitir que no mejoraron la productividad</a></h4>
+    <a href='https://computerhoy.com/life/2024-sera-ano-arrepentimiento-acabaron-teletrabajo-obligados-admitir-no-mejoraron-productividad-1352482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/teletrabajo-3253522.jpg?tf=1200x' alt='2024 será el año del arrepentimiento de los que acabaron con el teletrabajo: obligados a admitir que no mejoraron la productividad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/sucederia-tierra-dejara-girar-repente-1352380'>¿Qué pasaría si la Tierra dejara de girar de repente? Esta es la respuesta de un geocientífico</a></h4>
-    <a href='https://computerhoy.com/ciencia/sucederia-tierra-dejara-girar-repente-1352380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/colapso-planeta-tierra-3253289.jpg?tf=1200x' alt='¿Qué pasaría si la Tierra dejara de girar de repente? Esta es la respuesta de un geocientífico' />
+    <h4><a href='https://computerhoy.com/tecnologia/burguer-king-te-hara-descuento-herramienta-reconocimiento-facial-ve-tienes-resaca-1352406'>Burguer King te hará un descuento si su reconocimiento facial ve que tienes resaca: habría triunfado en España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/burguer-king-te-hara-descuento-herramienta-reconocimiento-facial-ve-tienes-resaca-1352406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/campana-marketing-burguer-king-reconocimiento-facial-3253351.jpg?tf=1200x' alt='Burguer King te hará un descuento si su reconocimiento facial ve que tienes resaca: habría triunfado en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-quita-encima-smartwatch-galaxy-watch6-precio-record-lte-1352363'>Samsung se quita de encima sus smartwatch: el Galaxy Watch6 está a precio récord con LTE</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-quita-encima-smartwatch-galaxy-watch6-precio-record-lte-1352363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110558.jpg?tf=1200x' alt='Samsung se quita de encima sus smartwatch: el Galaxy Watch6 está a precio récord con LTE' />
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-logran-paso-clave-teletransportacion-imagenes-1352468'>Un equipo de científicos logra un paso clave hacia la teletransportación de imágenes a través de la luz</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-logran-paso-clave-teletransportacion-imagenes-1352468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/star-trek-picard-2635061.jpg?tf=1200x' alt='Un equipo de científicos logra un paso clave hacia la teletransportación de imágenes a través de la luz' />
     </a>
 </div>
 
