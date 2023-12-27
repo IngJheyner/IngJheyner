@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ejecutar-prueba-estres-gpu-importante-hacerlo-1352337'>Cómo ejecutar una prueba de estrés a la GPU de tu ordenador y por qué es importante hacerlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ejecutar-prueba-estres-gpu-importante-hacerlo-1352337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-ejecutar-prueba-estres-gpu-importante-hacerlo-3253177.jpg?tf=1200x' alt='Cómo ejecutar una prueba de estrés a la GPU de tu ordenador y por qué es importante hacerlo' />
+    <h4><a href='https://computerhoy.com/apps/moviles-sin-whatsapp-2024-1352590'>Estos son los móviles que se quedarán sin WhatsApp en 2024</a></h4>
+    <a href='https://computerhoy.com/apps/moviles-sin-whatsapp-2024-1352590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estos-son-moviles-quedaran-whatsapp-2024-3253789.jpg?tf=1200x' alt='Estos son los móviles que se quedarán sin WhatsApp en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-fin-encuentra-enemigo-altura-puede-pararle-pies-1352567'>Flipper Zero por fin encuentra un enemigo que le puede parar los pies: Wall of Flippers</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-fin-encuentra-enemigo-altura-puede-pararle-pies-1352567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-fin-encuentra-enemigo-puede-parar-pies-wall-flippers-3253672.jpg?tf=1200x' alt='Flipper Zero por fin encuentra un enemigo que le puede parar los pies: Wall of Flippers' />
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-hunde-precio-xiaomi-13t-pro-deja-amazon-fuera-juego-1352153'>AliExpress suelta la bomba: el móvil más potente de Xiaomi es 300€ más barato que en Amazon, y se carga en 19 minutos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-hunde-precio-xiaomi-13t-pro-deja-amazon-fuera-juego-1352153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-13t-pro-3252783.jpg?tf=1200x' alt='AliExpress suelta la bomba: el móvil más potente de Xiaomi es 300€ más barato que en Amazon, y se carga en 19 minutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejor-teclado-ergonomico-mercado-40-barato-amazon-1352464'>Su diseño es un poco raro, pero es el teclado más cómodo que existe y ahora está rebajado a la mitad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejor-teclado-ergonomico-mercado-40-barato-amazon-1352464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/logitech-ergo-k860-2957394.jpg?tf=1200x' alt='Su diseño es un poco raro, pero es el teclado más cómodo que existe y ahora está rebajado a la mitad' />
+    <h4><a href='https://computerhoy.com/tecnologia/china-inventa-motor-hipersonico-16-veces-rapido-sonido-1352575'>China inventa un motor para vuelos hipersónicos que supera 16 veces la velocidad del sonido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/china-inventa-motor-hipersonico-16-veces-rapido-sonido-1352575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/china-inventa-motor-vuelos-hipersonicos-supera-16-veces-velocidad-sonido-3253777.jpg?tf=1200x' alt='China inventa un motor para vuelos hipersónicos que supera 16 veces la velocidad del sonido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/liveworksheets-herramienta-crear-fichas-interactivas-ninos-1352343'>Liveworksheets 2024: qué es y cómo funciona el mejor generador de fichas interactivas para niños</a></h4>
-    <a href='https://computerhoy.com/internet/liveworksheets-herramienta-crear-fichas-interactivas-ninos-1352343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/liveworksheets-2024-como-funciona-mejor-generador-fichas-interactivas-ninos-3253185.jpg?tf=1200x' alt='Liveworksheets 2024: qué es y cómo funciona el mejor generador de fichas interactivas para niños' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-bloquear-instalacion-aplicaciones-windows-11-1325668'>Cómo bloquear la instalación de aplicaciones en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-bloquear-instalacion-aplicaciones-windows-11-1325668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-bloquear-instalacion-aplicaciones-windows-11-3205444.jpg?tf=1200x' alt='Cómo bloquear la instalación de aplicaciones en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/diferencia-psicopata-narcisista-1352545'>En qué se diferencia un psicópata de un narcisista y cómo detectarlos</a></h4>
-    <a href='https://computerhoy.com/life/diferencia-psicopata-narcisista-1352545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/diferencia-psicopata-narcisista-como-detectarlos-3253628.jpg?tf=1200x' alt='En qué se diferencia un psicópata de un narcisista y cómo detectarlos' />
+    <h4><a href='https://computerhoy.com/apps/aleluya-google-maps-declara-guerra-odiados-badenes-velocidad-1352610'>¡Aleluya! Google Maps declara la guerra a los odiados badenes de velocidad</a></h4>
+    <a href='https://computerhoy.com/apps/aleluya-google-maps-declara-guerra-odiados-badenes-velocidad-1352610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/baden-nucleo-urbano-3253761.jpg?tf=1200x' alt='¡Aleluya! Google Maps declara la guerra a los odiados badenes de velocidad' />
     </a>
 </div>
 
