@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-jensen-huang-explica-como-sobrevivir-era-inteligencia-artificial-1352346'>El CEO de NVIDIA explica cómo sobrevivir en la era de la IA: "no lleves reloj"</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/7-regalos-reyes-menos-50eu-son-acierto-seguro-1352356'>7 regalos de Reyes de menos de 50€ que son acierto seguro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-regalos-reyes-menos-50eu-son-acierto-seguro-1352356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/reyes-magos_0.jpg?tf=1200x' alt='7 regalos de Reyes de menos de 50€ que son acierto seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/zte-blade-v50-design-analisis-opinion-1350066'>ZTE Blade V50 Design, el móvil barato en el que podrás almacenar tus fotos y vídeos sin preocupación</a></h4>
+    <a href='https://computerhoy.com/analisis/zte-blade-v50-design-analisis-opinion-1350066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zte-blade-v50-design-analisis-opinion-3251951.jpg?tf=1200x' alt='ZTE Blade V50 Design, el móvil barato en el que podrás almacenar tus fotos y vídeos sin preocupación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bombazo-pccomponentes-pc-ryzen-5-512gb-ssd-precio-movil-chino-1352112'>Bombazo de PcComponentes: un PC con Ryzen 5 y 512GB de SSD a precio de móvil chino</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bombazo-pccomponentes-pc-ryzen-5-512gb-ssd-precio-movil-chino-1352112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/lenovo-ideacentre-3-07ach7-3252749.jpg?tf=1200x' alt='Bombazo de PcComponentes: un PC con Ryzen 5 y 512GB de SSD a precio de móvil chino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-jensen-huang-explica-como-sobrevivir-era-inteligencia-artificial-1352346'>El CEO de Nvidia explica cómo sobrevivir en la era de la IA: "No lleves reloj"</a></h4>
     <a href='https://computerhoy.com/tecnologia/ceo-nvidia-jensen-huang-explica-como-sobrevivir-era-inteligencia-artificial-1352346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ceo-nvidia-frota-manos-popularidad-chatgpt-2954574.jpg?tf=1200x' alt='El CEO de NVIDIA explica cómo sobrevivir en la era de la IA: "no lleves reloj"' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ceo-nvidia-frota-manos-popularidad-chatgpt-2954574.jpg?tf=1200x' alt='El CEO de Nvidia explica cómo sobrevivir en la era de la IA: "No lleves reloj"' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-lanza-app-copilot-android-desterrando-bing-1352334'>Microsoft va a por ChatGPT, y tira la toalla con Bing: lanza la app Copilot para Android</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-lanza-app-copilot-android-desterrando-bing-1352334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-va-chatgpt-tira-toalla-bing-lanza-app-android-copilot-3253166.jpg?tf=1200x' alt='Microsoft va a por ChatGPT, y tira la toalla con Bing: lanza la app Copilot para Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/hyundai-kia-motor-coche-electrico-ruedas-1352275'>Hyundai y Kia tienen un nuevo lugar para el motor del coche eléctrico: las ruedas</a></h4>
-    <a href='https://computerhoy.com/motor/hyundai-kia-motor-coche-electrico-ruedas-1352275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/uniwheel-hyundai-kia-3252217.jpg?tf=1200x' alt='Hyundai y Kia tienen un nuevo lugar para el motor del coche eléctrico: las ruedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rival-garmin-fenix-lia-polar-rebaja-grit-x-pro-precio-nunca-visto-1352091'>El rival de los Garmin Fenix la lía: Polar rebaja el Grit-X Pro a precio nunca visto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rival-garmin-fenix-lia-polar-rebaja-grit-x-pro-precio-nunca-visto-1352091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/polar-grit-x-pro-3190478.jpg?tf=1200x' alt='El rival de los Garmin Fenix la lía: Polar rebaja el Grit-X Pro a precio nunca visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/dormir-te-hace-feliz-dice-ciencia-1352081'>¿Dormir más te hace más feliz? Esto es lo que dice la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/dormir-te-hace-feliz-dice-ciencia-1352081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dormir-te-hace-feliz-dice-ciencia-3252693.jpg?tf=1200x' alt='¿Dormir más te hace más feliz? Esto es lo que dice la ciencia' />
     </a>
 </div>
 
