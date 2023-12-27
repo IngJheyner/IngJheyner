@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/amazon-prime-video-anuncia-fecha-llegada-anuncios-no-ser-quieras-pagar-1352370'>Comienza lo inevitable: Amazon Prime Video anuncia fecha para la llegada de anuncios a no ser que quieras pagar más</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/amazon-prime-video-anuncia-fecha-llegada-anuncios-no-ser-quieras-pagar-1352370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amazon-prime-video-2891348.jpg?tf=1200x' alt='Comienza lo inevitable: Amazon Prime Video anuncia fecha para la llegada de anuncios a no ser que quieras pagar más' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/podria-realizar-ciberataque-como-dejar-mundo-atras-netflix-todo-colapsara-1352393'>¿Se podría realizar un ciberataque como el de Dejar el mundo atrás de Netflix y que todo colapsara?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/podria-realizar-ciberataque-como-dejar-mundo-atras-netflix-todo-colapsara-1352393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dejar-mundo-atras-3149722.jpg?tf=1200x' alt='¿Se podría realizar un ciberataque como el de Dejar el mundo atrás de Netflix y que todo colapsara?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/europa-echa-atras-prohibira-trabajadores-fichen-huella-digital-1352365'>Europa se echa para atrás y prohibirá que los trabajadores fichen con su huella digital</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/europa-echa-atras-prohibira-trabajadores-fichen-huella-digital-1352365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/huella-digital-3253209.jpg?tf=1200x' alt='Europa se echa para atrás y prohibirá que los trabajadores fichen con su huella digital' />
+    <h4><a href='https://computerhoy.com/gaming/di-adios-switch-steam-deck-asus-rog-ally-ha-desplomado-precio-primera-vez-1352369'>Di adiós a Switch y Steam Deck: la ASUS ROG Ally ha desplomado su precio por primera vez</a></h4>
+    <a href='https://computerhoy.com/gaming/di-adios-switch-steam-deck-asus-rog-ally-ha-desplomado-precio-primera-vez-1352369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/asus-rog-ally-3253204.jpg?tf=1200x' alt='Di adiós a Switch y Steam Deck: la ASUS ROG Ally ha desplomado su precio por primera vez' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-regalos-reyes-menos-50eu-son-acierto-seguro-1352356'>7 regalos de Reyes de menos de 50€ que son acierto seguro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-regalos-reyes-menos-50eu-son-acierto-seguro-1352356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/reyes-magos_0.jpg?tf=1200x' alt='7 regalos de Reyes de menos de 50€ que son acierto seguro' />
+    <h4><a href='https://computerhoy.com/motor/xiaomi-su7-primer-coche-electrico-firma-china-1352417'>Así es el Xiaomi SU7: el primer coche eléctrico de la firma china</a></h4>
+    <a href='https://computerhoy.com/motor/xiaomi-su7-primer-coche-electrico-firma-china-1352417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-su7-3253371.jpg?tf=1200x' alt='Así es el Xiaomi SU7: el primer coche eléctrico de la firma china' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/zte-blade-v50-design-analisis-opinion-1350066'>ZTE Blade V50 Design, el móvil barato en el que podrás almacenar tus fotos y vídeos sin preocupación</a></h4>
-    <a href='https://computerhoy.com/analisis/zte-blade-v50-design-analisis-opinion-1350066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zte-blade-v50-design-analisis-opinion-3251951.jpg?tf=1200x' alt='ZTE Blade V50 Design, el móvil barato en el que podrás almacenar tus fotos y vídeos sin preocupación' />
+    <h4><a href='https://computerhoy.com/ciencia/sucederia-tierra-dejara-girar-repente-1352380'>¿Qué pasaría si la Tierra dejara de girar de repente? Esta es la respuesta de un geocientífico</a></h4>
+    <a href='https://computerhoy.com/ciencia/sucederia-tierra-dejara-girar-repente-1352380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/colapso-planeta-tierra-3253289.jpg?tf=1200x' alt='¿Qué pasaría si la Tierra dejara de girar de repente? Esta es la respuesta de un geocientífico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bombazo-pccomponentes-pc-ryzen-5-512gb-ssd-precio-movil-chino-1352112'>Bombazo de PcComponentes: un PC con Ryzen 5 y 512GB de SSD a precio de móvil chino</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bombazo-pccomponentes-pc-ryzen-5-512gb-ssd-precio-movil-chino-1352112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/lenovo-ideacentre-3-07ach7-3252749.jpg?tf=1200x' alt='Bombazo de PcComponentes: un PC con Ryzen 5 y 512GB de SSD a precio de móvil chino' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-quita-encima-smartwatch-galaxy-watch6-precio-record-lte-1352363'>Samsung se quita de encima sus smartwatch: el Galaxy Watch6 está a precio récord con LTE</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-quita-encima-smartwatch-galaxy-watch6-precio-record-lte-1352363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110558.jpg?tf=1200x' alt='Samsung se quita de encima sus smartwatch: el Galaxy Watch6 está a precio récord con LTE' />
     </a>
 </div>
 
