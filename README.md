@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/amazon-prime-video-anuncia-fecha-llegada-anuncios-no-ser-quieras-pagar-1352370'>Comienza lo inevitable: Amazon Prime Video anuncia fecha para la llegada de anuncios a no ser que quieras pagar más</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/amazon-prime-video-anuncia-fecha-llegada-anuncios-no-ser-quieras-pagar-1352370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/amazon-prime-video-2891348.jpg?tf=1200x' alt='Comienza lo inevitable: Amazon Prime Video anuncia fecha para la llegada de anuncios a no ser que quieras pagar más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/europa-echa-atras-prohibira-trabajadores-fichen-huella-digital-1352365'>Europa se echa para atrás y prohibirá que los trabajadores fichen con su huella digital</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/europa-echa-atras-prohibira-trabajadores-fichen-huella-digital-1352365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/huella-digital-3253209.jpg?tf=1200x' alt='Europa se echa para atrás y prohibirá que los trabajadores fichen con su huella digital' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/7-regalos-reyes-menos-50eu-son-acierto-seguro-1352356'>7 regalos de Reyes de menos de 50€ que son acierto seguro</a></h4>
     <a href='https://computerhoy.com/tecnologia/7-regalos-reyes-menos-50eu-son-acierto-seguro-1352356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/reyes-magos_0.jpg?tf=1200x' alt='7 regalos de Reyes de menos de 50€ que son acierto seguro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/bombazo-pccomponentes-pc-ryzen-5-512gb-ssd-precio-movil-chino-1352112'>Bombazo de PcComponentes: un PC con Ryzen 5 y 512GB de SSD a precio de móvil chino</a></h4>
     <a href='https://computerhoy.com/tecnologia/bombazo-pccomponentes-pc-ryzen-5-512gb-ssd-precio-movil-chino-1352112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/lenovo-ideacentre-3-07ach7-3252749.jpg?tf=1200x' alt='Bombazo de PcComponentes: un PC con Ryzen 5 y 512GB de SSD a precio de móvil chino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-jensen-huang-explica-como-sobrevivir-era-inteligencia-artificial-1352346'>El CEO de Nvidia explica cómo sobrevivir en la era de la IA: "No lleves reloj"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ceo-nvidia-jensen-huang-explica-como-sobrevivir-era-inteligencia-artificial-1352346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ceo-nvidia-frota-manos-popularidad-chatgpt-2954574.jpg?tf=1200x' alt='El CEO de Nvidia explica cómo sobrevivir en la era de la IA: "No lleves reloj"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-lanza-app-copilot-android-desterrando-bing-1352334'>Microsoft va a por ChatGPT, y tira la toalla con Bing: lanza la app Copilot para Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-lanza-app-copilot-android-desterrando-bing-1352334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-va-chatgpt-tira-toalla-bing-lanza-app-android-copilot-3253166.jpg?tf=1200x' alt='Microsoft va a por ChatGPT, y tira la toalla con Bing: lanza la app Copilot para Android' />
     </a>
 </div>
 
