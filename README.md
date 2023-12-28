@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubre-truco-pagar-50-menos-maletas-ryanair-1352834'>Descubre un truco para pagar un 50% menos por las maletas de Ryanair </a></h4>
-    <a href='https://computerhoy.com/life/descubre-truco-pagar-50-menos-maletas-ryanair-1352834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/truco-pagar-menos-ryanair-llevas-equipaje-mano-3254202.jpg?tf=1200x' alt='Descubre un truco para pagar un 50% menos por las maletas de Ryanair ' />
+    <h4><a href='https://computerhoy.com/android/android-auto-estrena-funcion-muy-demandada-aunque-grandes-inconvenientes-1352868'>Llega a Android Auto una de las funciones más demandadas, aunque con grandes inconvenientes</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-estrena-funcion-muy-demandada-aunque-grandes-inconvenientes-1352868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/llega-android-auto-funciones-demandadas-aunque-gran-inconveniente-3254310.jpg?tf=1200x' alt='Llega a Android Auto una de las funciones más demandadas, aunque con grandes inconvenientes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-personalizar-sonido-conectar-desconectar-usb-windows-1352655'>Cómo personalizar el sonido al conectar o desconectar un USB en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-personalizar-sonido-conectar-desconectar-usb-windows-1352655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-personalizar-sonido-conectar-desconectar-usb-windows-3253821.jpg?tf=1200x' alt='Cómo personalizar el sonido al conectar o desconectar un USB en Windows' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-televisor-valido-ver-tdt-2024-1352653'>Cómo comprobar si tu televisor es válido para seguir viendo la TDT en 2024</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-comprobar-televisor-valido-ver-tdt-2024-1352653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-comprobar-televisor-valido-seguir-viendo-tdt-2024-3253814.jpg?tf=1200x' alt='Cómo comprobar si tu televisor es válido para seguir viendo la TDT en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tienes-hinchazon-abdominal-estos-alimentos-reducen-inflamacion-vientre-861641'>¿Tienes hinchazón abdominal? Estos alimentos reducen la inflamación del vientre</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tienes-hinchazon-abdominal-estos-alimentos-reducen-inflamacion-vientre-861641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tienes-hinchazon-abdominal-estos-alimentos-reducen-inflamacion-vientre-3253822.jpg?tf=1200x' alt='¿Tienes hinchazón abdominal? Estos alimentos reducen la inflamación del vientre' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mapa-muestra-origen-personajes-disney-1352861'>El mapa que muestra el origen de los personajes de Disney</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mapa-muestra-origen-personajes-disney-1352861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mapa-muestra-origen-personajes-disney-3254298.jpg?tf=1200x' alt='El mapa que muestra el origen de los personajes de Disney' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/lg-presentara-ces-2024-portatiles-lg-gram-pro-ultraligeros-caracteristicas-alta-gama-1352772'>LG presentará en el CES 2024 sus portátiles LG gram Pro: ultraligeros y características de alta gama</a></h4>
-    <a href='https://computerhoy.com/pc/lg-presentara-ces-2024-portatiles-lg-gram-pro-ultraligeros-caracteristicas-alta-gama-1352772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portatiles-lg-gram-3254008.jpg?tf=1200x' alt='LG presentará en el CES 2024 sus portátiles LG gram Pro: ultraligeros y características de alta gama' />
+    <h4><a href='https://computerhoy.com/gaming/amazon-va-microsoft-game-pass-rebaja-mando-luna-firestick-incluido-1352559'>Amazon va a por Microsoft y Game Pass: rebaja su mando Luna con Firestick incluido</a></h4>
+    <a href='https://computerhoy.com/gaming/amazon-va-microsoft-game-pass-rebaja-mando-luna-firestick-incluido-1352559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazon-luna-3253636.jpg?tf=1200x' alt='Amazon va a por Microsoft y Game Pass: rebaja su mando Luna con Firestick incluido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/android-auto-te-resumira-mensajes-grupales-inteligencia-artificial-1352729'>Android Auto te resumirá esa lista infinita de mensajes de WhatsApp con inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/google/android-auto-te-resumira-mensajes-grupales-inteligencia-artificial-1352729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-instalar-android-auto-aplicaciones-no-estan-google-play-3253812.jpg?tf=1200x' alt='Android Auto te resumirá esa lista infinita de mensajes de WhatsApp con inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/prefijo-591-donde-hacer-recibes-llamada-mensaje-1352296'>Prefijo 591: de dónde es y qué hacer si recibes una llamada o mensaje de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/prefijo-591-donde-hacer-recibes-llamada-mensaje-1352296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/prefijo-591-donde-hacer-recibes-llamada-mensaje-whatsapp-3253174.jpg?tf=1200x' alt='Prefijo 591: de dónde es y qué hacer si recibes una llamada o mensaje de WhatsApp' />
     </a>
 </div>
 
