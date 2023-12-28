@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-estrena-funcion-muy-demandada-aunque-grandes-inconvenientes-1352868'>Llega a Android Auto una de las funciones más demandadas, aunque con grandes inconvenientes</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-estrena-funcion-muy-demandada-aunque-grandes-inconvenientes-1352868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/llega-android-auto-funciones-demandadas-aunque-gran-inconveniente-3254310.jpg?tf=1200x' alt='Llega a Android Auto una de las funciones más demandadas, aunque con grandes inconvenientes' />
+    <h4><a href='https://computerhoy.com/tecnologia/canon-portatil-gaming-arrasa-rtx-3060-increiblemente-barato-amazon-1352387'>Este cañón de portátil gaming arrasa: con RTX 3060 es increíblemente barato en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/canon-portatil-gaming-arrasa-rtx-3060-increiblemente-barato-amazon-1352387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-ideapad-gaming-3-gen-7-3214782.jpg?tf=1200x' alt='Este cañón de portátil gaming arrasa: con RTX 3060 es increíblemente barato en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-televisor-valido-ver-tdt-2024-1352653'>Cómo comprobar si tu televisor es válido para seguir viendo la TDT en 2024</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-comprobar-televisor-valido-ver-tdt-2024-1352653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-comprobar-televisor-valido-seguir-viendo-tdt-2024-3253814.jpg?tf=1200x' alt='Cómo comprobar si tu televisor es válido para seguir viendo la TDT en 2024' />
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-malditos-bastardos-tarantino-1352922'>Qué película ver en la TDT hoy: Tarantino contra los nazis</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-malditos-bastardos-tarantino-1352922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/malditos-bastardos-2242105.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: Tarantino contra los nazis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mapa-muestra-origen-personajes-disney-1352861'>El mapa que muestra el origen de los personajes de Disney</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mapa-muestra-origen-personajes-disney-1352861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mapa-muestra-origen-personajes-disney-3254298.jpg?tf=1200x' alt='El mapa que muestra el origen de los personajes de Disney' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/detectan-peligroso-malware-14-apps-google-play-miles-descargas-revisa-movil-1352919'>Detectan un peligroso malware en 14 apps de la Google Play con miles de descargas, revisa tu móvil</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/detectan-peligroso-malware-14-apps-google-play-miles-descargas-revisa-movil-1352919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/malware-android-3202220.jpg?tf=1200x' alt='Detectan un peligroso malware en 14 apps de la Google Play con miles de descargas, revisa tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/amazon-va-microsoft-game-pass-rebaja-mando-luna-firestick-incluido-1352559'>Amazon va a por Microsoft y Game Pass: rebaja su mando Luna con Firestick incluido</a></h4>
-    <a href='https://computerhoy.com/gaming/amazon-va-microsoft-game-pass-rebaja-mando-luna-firestick-incluido-1352559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazon-luna-3253636.jpg?tf=1200x' alt='Amazon va a por Microsoft y Game Pass: rebaja su mando Luna con Firestick incluido' />
+    <h4><a href='https://computerhoy.com/tecnologia/expertos-netflix-comparten-trucos-series-peliculas-no-paren-1352916'>Expertos de Netflix comparten los trucos para que las series y películas no paren</a></h4>
+    <a href='https://computerhoy.com/tecnologia/expertos-netflix-comparten-trucos-series-peliculas-no-paren-1352916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg?tf=1200x' alt='Expertos de Netflix comparten los trucos para que las series y películas no paren' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/prefijo-591-donde-hacer-recibes-llamada-mensaje-1352296'>Prefijo 591: de dónde es y qué hacer si recibes una llamada o mensaje de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/prefijo-591-donde-hacer-recibes-llamada-mensaje-1352296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/prefijo-591-donde-hacer-recibes-llamada-mensaje-whatsapp-3253174.jpg?tf=1200x' alt='Prefijo 591: de dónde es y qué hacer si recibes una llamada o mensaje de WhatsApp' />
+    <h4><a href='https://computerhoy.com/life/hot-girl-walk-forma-adelgazar-arrasa-tiktok-1352551'>Hot Girl Walk: así es la forma de adelgazar que arrasa en TikTok</a></h4>
+    <a href='https://computerhoy.com/life/hot-girl-walk-forma-adelgazar-arrasa-tiktok-1352551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hot-girl-walk-forma-adelgazar-arrasa-tiktok-3253608.jpg?tf=1200x' alt='Hot Girl Walk: así es la forma de adelgazar que arrasa en TikTok' />
     </a>
 </div>
 
