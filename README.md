@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/combo-sorpresa-amazon-altavoz-alexa-bombilla-wifi-precio-regalo-1352706'>Combo sorpresa de Amazon: altavoz Alexa y bombilla WiFi a precio de regalo</a></h4>
-    <a href='https://computerhoy.com/hogar/combo-sorpresa-amazon-altavoz-alexa-bombilla-wifi-precio-regalo-1352706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/echo-dot-bombilla-3253884.jpg?tf=1200x' alt='Combo sorpresa de Amazon: altavoz Alexa y bombilla WiFi a precio de regalo' />
+    <h4><a href='https://computerhoy.com/life/descubre-truco-pagar-50-menos-maletas-ryanair-1352834'>Descubre un truco para pagar un 50% menos por las maletas de Ryanair </a></h4>
+    <a href='https://computerhoy.com/life/descubre-truco-pagar-50-menos-maletas-ryanair-1352834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/truco-pagar-menos-ryanair-llevas-equipaje-mano-3254202.jpg?tf=1200x' alt='Descubre un truco para pagar un 50% menos por las maletas de Ryanair ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/modo-conduccion-google-maps-dira-tristemente-adios-principios-2024-1352716'>El modo de conducción de Google Maps dirá tristemente adiós a principios de 2024</a></h4>
-    <a href='https://computerhoy.com/google/modo-conduccion-google-maps-dira-tristemente-adios-principios-2024-1352716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/conduccion-navidad-google-maps-3231020.jpg?tf=1200x' alt='El modo de conducción de Google Maps dirá tristemente adiós a principios de 2024' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-personalizar-sonido-conectar-desconectar-usb-windows-1352655'>Cómo personalizar el sonido al conectar o desconectar un USB en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-personalizar-sonido-conectar-desconectar-usb-windows-1352655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-personalizar-sonido-conectar-desconectar-usb-windows-3253821.jpg?tf=1200x' alt='Cómo personalizar el sonido al conectar o desconectar un USB en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/proximo-homepod-podria-contar-pantalla-curva-lcd-1352727'>El próximo HomePod podría contar con una pantalla curva LCD para mostrar notificaciones</a></h4>
-    <a href='https://computerhoy.com/apple/proximo-homepod-podria-contar-pantalla-curva-lcd-1352727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/homepod-3007220.jpg?tf=1200x' alt='El próximo HomePod podría contar con una pantalla curva LCD para mostrar notificaciones' />
+    <h4><a href='https://computerhoy.com/noticias/life/tienes-hinchazon-abdominal-estos-alimentos-reducen-inflamacion-vientre-861641'>¿Tienes hinchazón abdominal? Estos alimentos reducen la inflamación del vientre</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tienes-hinchazon-abdominal-estos-alimentos-reducen-inflamacion-vientre-861641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tienes-hinchazon-abdominal-estos-alimentos-reducen-inflamacion-vientre-3253822.jpg?tf=1200x' alt='¿Tienes hinchazón abdominal? Estos alimentos reducen la inflamación del vientre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/gran-idea-acabaria-problemas-acoso-airtags-apple-no-ha-sabido-resolver-1352709'>Esta gran idea acabaría con los problemas de acoso de los AirTags que Apple no ha sabido resolver</a></h4>
-    <a href='https://computerhoy.com/apple/gran-idea-acabaria-problemas-acoso-airtags-apple-no-ha-sabido-resolver-1352709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/airtags-2682799.jpg?tf=1200x' alt='Esta gran idea acabaría con los problemas de acoso de los AirTags que Apple no ha sabido resolver' />
+    <h4><a href='https://computerhoy.com/pc/lg-presentara-ces-2024-portatiles-lg-gram-pro-ultraligeros-caracteristicas-alta-gama-1352772'>LG presentará en el CES 2024 sus portátiles LG gram Pro: ultraligeros y características de alta gama</a></h4>
+    <a href='https://computerhoy.com/pc/lg-presentara-ces-2024-portatiles-lg-gram-pro-ultraligeros-caracteristicas-alta-gama-1352772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portatiles-lg-gram-3254008.jpg?tf=1200x' alt='LG presentará en el CES 2024 sus portátiles LG gram Pro: ultraligeros y características de alta gama' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/dogecoin-xrp-presencian-actividad-significativa-ballenas-1352711'>Dogecoin y XRP presencian una actividad significativa de ballenas: los analistas esperan "algo grande"</a></h4>
-    <a href='https://computerhoy.com/criptos/dogecoin-xrp-presencian-actividad-significativa-ballenas-1352711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ethereum-filecoin-cardano-dogecoin-bitcoin-sirven-criptomonedas-alla-valor-2351075.jpg?tf=1200x' alt='Dogecoin y XRP presencian una actividad significativa de ballenas: los analistas esperan "algo grande"' />
+    <h4><a href='https://computerhoy.com/google/android-auto-te-resumira-mensajes-grupales-inteligencia-artificial-1352729'>Android Auto te resumirá esa lista infinita de mensajes de WhatsApp con inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/google/android-auto-te-resumira-mensajes-grupales-inteligencia-artificial-1352729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-instalar-android-auto-aplicaciones-no-estan-google-play-3253812.jpg?tf=1200x' alt='Android Auto te resumirá esa lista infinita de mensajes de WhatsApp con inteligencia artificial' />
     </a>
 </div>
 
