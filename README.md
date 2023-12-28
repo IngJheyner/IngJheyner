@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-muestra-ascensor-pondra-astronautas-luna-1352647'>La NASA muestra el ascensor que pondrá a los astronautas en la superficie de la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-muestra-ascensor-pondra-astronautas-luna-1352647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nasa-muestra-ascensor-pondra-astronautas-superficie-luna-3253800.jpg?tf=1200x' alt='La NASA muestra el ascensor que pondrá a los astronautas en la superficie de la Luna' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7s-solar-vuelve-ser-chollo-pero-agotara-rapido-200-euros-barato-1352496'>El Garmin Fenix 7S Solar vuelve a ser un chollo, pero se agotará rápido:</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-fenix-7s-solar-vuelve-ser-chollo-pero-agotara-rapido-200-euros-barato-1352496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7x-solar-2591043.jpg?tf=1200x' alt='El Garmin Fenix 7S Solar vuelve a ser un chollo, pero se agotará rápido:' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/anulan-prohibicion-vender-relojes-apple-watch-series-9-ultra-2-1352641'>La prohibición de vender los relojes Apple Watch Series 9 y Ultra 2 ha durado... un día</a></h4>
-    <a href='https://computerhoy.com/apple/anulan-prohibicion-vender-relojes-apple-watch-series-9-ultra-2-1352641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-ultra-apple-watch-ultra-2-apple-watch-series-9-apple-watch-series-4-3194962.jpg?tf=1200x' alt='La prohibición de vender los relojes Apple Watch Series 9 y Ultra 2 ha durado... un día' />
+    <h4><a href='https://computerhoy.com/ciencia/pildora-quiere-acabar-obesidad-vibrar-estomago-dar-sensacion-saciedad-1352694'>Esta píldora quiere acabar con la obesidad al vibrar en tu estómago y dar sensación de saciedad </a></h4>
+    <a href='https://computerhoy.com/ciencia/pildora-quiere-acabar-obesidad-vibrar-estomago-dar-sensacion-saciedad-1352694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pildora-estomago-3253879.jpg?tf=1200x' alt='Esta píldora quiere acabar con la obesidad al vibrar en tu estómago y dar sensación de saciedad ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/moviles-sin-whatsapp-2024-1352590'>Estos son los móviles que se quedarán sin WhatsApp en 2024</a></h4>
-    <a href='https://computerhoy.com/apps/moviles-sin-whatsapp-2024-1352590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estos-son-moviles-quedaran-whatsapp-2024-3253789.jpg?tf=1200x' alt='Estos son los móviles que se quedarán sin WhatsApp en 2024' />
+    <h4><a href='https://computerhoy.com/motor/xiaomi-presenta-xiaomi-su7-primer-coche-electrico-quiere-revolucionar-mercado-mundial-1352672'>Xiaomi SU7, el primer coche eléctrico del fabricante chino con el que aspira a revolucionar el mercado en 15 años</a></h4>
+    <a href='https://computerhoy.com/motor/xiaomi-presenta-xiaomi-su7-primer-coche-electrico-quiere-revolucionar-mercado-mundial-1352672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-su7-coche-electrico-3253846.jpg?tf=1200x' alt='Xiaomi SU7, el primer coche eléctrico del fabricante chino con el que aspira a revolucionar el mercado en 15 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-hunde-precio-xiaomi-13t-pro-deja-amazon-fuera-juego-1352153'>AliExpress suelta la bomba: el móvil más potente de Xiaomi es 300€ más barato que en Amazon, y se carga en 19 minutos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-hunde-precio-xiaomi-13t-pro-deja-amazon-fuera-juego-1352153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-13t-pro-3252783.jpg?tf=1200x' alt='AliExpress suelta la bomba: el móvil más potente de Xiaomi es 300€ más barato que en Amazon, y se carga en 19 minutos' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089'>Estas son las mejores impresoras baratas que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-mejores-impresoras-baratas-que-puedes-comprar-2019-358089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/impresora-canon-3047476.jpg?tf=1200x' alt='Estas son las mejores impresoras baratas que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/china-inventa-motor-hipersonico-16-veces-rapido-sonido-1352575'>China inventa un motor para vuelos hipersónicos que supera 16 veces la velocidad del sonido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/china-inventa-motor-hipersonico-16-veces-rapido-sonido-1352575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/china-inventa-motor-vuelos-hipersonicos-supera-16-veces-velocidad-sonido-3253777.jpg?tf=1200x' alt='China inventa un motor para vuelos hipersónicos que supera 16 veces la velocidad del sonido' />
+    <h4><a href='https://computerhoy.com/industria/fiebre-auriculares-inalambricos-premium-enfria-2023-1335538'>La fiebre de los auriculares premium se enfría en 2023: se venden menos y más baratos</a></h4>
+    <a href='https://computerhoy.com/industria/fiebre-auriculares-inalambricos-premium-enfria-2023-1335538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/auriculares-inalambricos-3241138.jpg?tf=1200x' alt='La fiebre de los auriculares premium se enfría en 2023: se venden menos y más baratos' />
     </a>
 </div>
 
