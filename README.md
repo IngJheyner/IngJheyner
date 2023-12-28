@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-muestra-ascensor-pondra-astronautas-luna-1352647'>La NASA muestra el ascensor que pondrá a los astronautas en la superficie de la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-muestra-ascensor-pondra-astronautas-luna-1352647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nasa-muestra-ascensor-pondra-astronautas-superficie-luna-3253800.jpg?tf=1200x' alt='La NASA muestra el ascensor que pondrá a los astronautas en la superficie de la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/anulan-prohibicion-vender-relojes-apple-watch-series-9-ultra-2-1352641'>La prohibición de vender los relojes Apple Watch Series 9 y Ultra 2 ha durado... un día</a></h4>
+    <a href='https://computerhoy.com/apple/anulan-prohibicion-vender-relojes-apple-watch-series-9-ultra-2-1352641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-ultra-apple-watch-ultra-2-apple-watch-series-9-apple-watch-series-4-3194962.jpg?tf=1200x' alt='La prohibición de vender los relojes Apple Watch Series 9 y Ultra 2 ha durado... un día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/moviles-sin-whatsapp-2024-1352590'>Estos son los móviles que se quedarán sin WhatsApp en 2024</a></h4>
     <a href='https://computerhoy.com/apps/moviles-sin-whatsapp-2024-1352590' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estos-son-moviles-quedaran-whatsapp-2024-3253789.jpg?tf=1200x' alt='Estos son los móviles que se quedarán sin WhatsApp en 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/china-inventa-motor-hipersonico-16-veces-rapido-sonido-1352575'>China inventa un motor para vuelos hipersónicos que supera 16 veces la velocidad del sonido</a></h4>
     <a href='https://computerhoy.com/tecnologia/china-inventa-motor-hipersonico-16-veces-rapido-sonido-1352575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/china-inventa-motor-vuelos-hipersonicos-supera-16-veces-velocidad-sonido-3253777.jpg?tf=1200x' alt='China inventa un motor para vuelos hipersónicos que supera 16 veces la velocidad del sonido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-bloquear-instalacion-aplicaciones-windows-11-1325668'>Cómo bloquear la instalación de aplicaciones en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-bloquear-instalacion-aplicaciones-windows-11-1325668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-bloquear-instalacion-aplicaciones-windows-11-3205444.jpg?tf=1200x' alt='Cómo bloquear la instalación de aplicaciones en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/aleluya-google-maps-declara-guerra-odiados-badenes-velocidad-1352610'>¡Aleluya! Google Maps declara la guerra a los odiados badenes de velocidad</a></h4>
-    <a href='https://computerhoy.com/apps/aleluya-google-maps-declara-guerra-odiados-badenes-velocidad-1352610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/baden-nucleo-urbano-3253761.jpg?tf=1200x' alt='¡Aleluya! Google Maps declara la guerra a los odiados badenes de velocidad' />
     </a>
 </div>
 
