@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/16gb-ram-diseno-modular-canon-mini-pc-increiblemente-barato-ahora-1352433'>16GB de RAM y diseño modular: este cañón de Mini PC es increíblemente barato ahora</a></h4>
+    <a href='https://computerhoy.com/tecnologia/16gb-ram-diseno-modular-canon-mini-pc-increiblemente-barato-ahora-1352433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acemagic-s1-3253382.jpg?tf=1200x' alt='16GB de RAM y diseño modular: este cañón de Mini PC es increíblemente barato ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-lista-tareas-correos-gmail-1349237'>Cómo crear una lista de tareas con correos de Gmail para mejorar tu productividad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-lista-tareas-correos-gmail-1349237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/gmail-3219612.jpg?tf=1200x' alt='Cómo crear una lista de tareas con correos de Gmail para mejorar tu productividad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/steam-deja-funcionar-windows-7-windows-8-2024-1352949'>Si usas Windows 7 o Windows 8, Steam dejará de funcionar en dos días</a></h4>
     <a href='https://computerhoy.com/gaming/steam-deja-funcionar-windows-7-windows-8-2024-1352949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tecnica-estan-robado-cuentas-steam-valen-300000-euros-2812387.jpg?tf=1200x' alt='Si usas Windows 7 o Windows 8, Steam dejará de funcionar en dos días' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/100-frases-navidad-nochebuena-ano-nuevo-enviar-whatsapp-1167502'>125 frases de Navidad y Año Nuevo 2024 para enviar por WhatsApp</a></h4>
     <a href='https://computerhoy.com/life/100-frases-navidad-nochebuena-ano-nuevo-enviar-whatsapp-1167502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-navidad-2897020.jpg?tf=1200x' alt='125 frases de Navidad y Año Nuevo 2024 para enviar por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/canon-portatil-gaming-arrasa-rtx-3060-increiblemente-barato-amazon-1352387'>Este cañón de portátil gaming arrasa: con RTX 3060 es increíblemente barato en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/canon-portatil-gaming-arrasa-rtx-3060-increiblemente-barato-amazon-1352387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-ideapad-gaming-3-gen-7-3214782.jpg?tf=1200x' alt='Este cañón de portátil gaming arrasa: con RTX 3060 es increíblemente barato en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-malditos-bastardos-tarantino-1352922'>Qué película ver en la TDT hoy: Tarantino contra los nazis</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-ver-tdt-hoy-malditos-bastardos-tarantino-1352922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/malditos-bastardos-2242105.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: Tarantino contra los nazis' />
     </a>
 </div>
 
