@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/16gb-ram-diseno-modular-canon-mini-pc-increiblemente-barato-ahora-1352433'>16GB de RAM y diseño modular: este cañón de Mini PC es increíblemente barato ahora</a></h4>
-    <a href='https://computerhoy.com/tecnologia/16gb-ram-diseno-modular-canon-mini-pc-increiblemente-barato-ahora-1352433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acemagic-s1-3253382.jpg?tf=1200x' alt='16GB de RAM y diseño modular: este cañón de Mini PC es increíblemente barato ahora' />
+    <h4><a href='https://computerhoy.com/pc/raton-top-trabajar-ganga-logitech-mx-master-3s-desploma-precio-amazon-1352958'>El ratón más top para trabajar es una ganga: el Logitech MX Master 3S desploma su precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/pc/raton-top-trabajar-ganga-logitech-mx-master-3s-desploma-precio-amazon-1352958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-mx-mechanical-mx-master-3s-analisis-opinion-2784279.jpg?tf=1200x' alt='El ratón más top para trabajar es una ganga: el Logitech MX Master 3S desploma su precio en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-lista-tareas-correos-gmail-1349237'>Cómo crear una lista de tareas con correos de Gmail para mejorar tu productividad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-lista-tareas-correos-gmail-1349237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/gmail-3219612.jpg?tf=1200x' alt='Cómo crear una lista de tareas con correos de Gmail para mejorar tu productividad' />
+    <h4><a href='https://computerhoy.com/internet/filtrada-primera-lista-paginas-ilegales-streaming-torrent-iptv-amenazadas-cierre-2024-1352969'>Filtrada la primera lista de páginas ilegales de streaming, Torrent e IPTV amenazadas de cierre en 2024</a></h4>
+    <a href='https://computerhoy.com/internet/filtrada-primera-lista-paginas-ilegales-streaming-torrent-iptv-amenazadas-cierre-2024-1352969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/webs-piratas-3254486.jpg?tf=1200x' alt='Filtrada la primera lista de páginas ilegales de streaming, Torrent e IPTV amenazadas de cierre en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/steam-deja-funcionar-windows-7-windows-8-2024-1352949'>Si usas Windows 7 o Windows 8, Steam dejará de funcionar en dos días</a></h4>
-    <a href='https://computerhoy.com/gaming/steam-deja-funcionar-windows-7-windows-8-2024-1352949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tecnica-estan-robado-cuentas-steam-valen-300000-euros-2812387.jpg?tf=1200x' alt='Si usas Windows 7 o Windows 8, Steam dejará de funcionar en dos días' />
+    <h4><a href='https://computerhoy.com/google/google-acuerda-pagar-5000-millones-dolares-rastrear-usuarios-incluso-modo-incognito-1352963'>Google acuerda pagar 5.000 millones de dólares por rastrear a los usuarios incluso en modo incógnito</a></h4>
+    <a href='https://computerhoy.com/google/google-acuerda-pagar-5000-millones-dolares-rastrear-usuarios-incluso-modo-incognito-1352963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-modo-incognito-3254481.jpg?tf=1200x' alt='Google acuerda pagar 5.000 millones de dólares por rastrear a los usuarios incluso en modo incógnito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/series-mas-pirateadas-2023-bittorrent-1352944'>La serie más pirateada de 2023 en BitTorrent no es de Netflix ni de Disney+</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/series-mas-pirateadas-2023-bittorrent-1352944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/last-us-arrasa-hbo-max-segundo-mejor-estreno-ultima-decada-2930866.jpg?tf=1200x' alt='La serie más pirateada de 2023 en BitTorrent no es de Netflix ni de Disney+' />
+    <h4><a href='https://computerhoy.com/tecnologia/freidora-cosori-buscada-desploma-precio-nivel-black-friday-1352509'>La freidora COSORI más buscada desploma su precio a nivel de Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/freidora-cosori-buscada-desploma-precio-nivel-black-friday-1352509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cosori-premium-chef-edition-3228994.jpg?tf=1200x' alt='La freidora COSORI más buscada desploma su precio a nivel de Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/100-frases-navidad-nochebuena-ano-nuevo-enviar-whatsapp-1167502'>125 frases de Navidad y Año Nuevo 2024 para enviar por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/100-frases-navidad-nochebuena-ano-nuevo-enviar-whatsapp-1167502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/whatsapp-navidad-2897020.jpg?tf=1200x' alt='125 frases de Navidad y Año Nuevo 2024 para enviar por WhatsApp' />
+    <h4><a href='https://computerhoy.com/industria/pueden-chips-reducir-aun-tamano-ser-eficientes-1338452'>El futuro de los chips móviles: tras superar la Ley de Moore, ¿cuál es el siguiente paso?</a></h4>
+    <a href='https://computerhoy.com/industria/pueden-chips-reducir-aun-tamano-ser-eficientes-1338452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chip-procesador-movil-ordenador-tamano-3246918.jpg?tf=1200x' alt='El futuro de los chips móviles: tras superar la Ley de Moore, ¿cuál es el siguiente paso?' />
     </a>
 </div>
 
