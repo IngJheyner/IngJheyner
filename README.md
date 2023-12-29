@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-disney-netflix-campeonex-asier-etxeandia-madre-coraje-1352971'>Qué películas ver este fin de semana en Movistar Plus+, Disney+ y Netflix: Campeonex, Asier Etxeandia y una madre coraje</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-disney-netflix-campeonex-asier-etxeandia-madre-coraje-1352971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/peliculas-estreno-fin-semana-3254850.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Movistar Plus+, Disney+ y Netflix: Campeonex, Asier Etxeandia y una madre coraje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/5-apps-pueden-ayudarte-cumplir-propositos-ano-nuevo-1352572'>5 apps que pueden ayudarte a cumplir tus propósitos de Año Nuevo</a></h4>
+    <a href='https://computerhoy.com/apps/5-apps-pueden-ayudarte-cumplir-propositos-ano-nuevo-1352572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-apps-pueden-ayudarte-cumplir-propositos-ano-nuevo-3253665.jpg?tf=1200x' alt='5 apps que pueden ayudarte a cumplir tus propósitos de Año Nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-modelo-exacto-pc-windows-10-626535'>Cómo saber el modelo exacto de tu PC Windows de manera sencilla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-saber-modelo-exacto-pc-windows-10-626535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-modelo-exacto-pc-windows-manera-sencilla-3254460.jpg?tf=1200x' alt='Cómo saber el modelo exacto de tu PC Windows de manera sencilla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estas-son-predicciones-nostradamus-baba-vanga-2024-1352747'>Estas son las predicciones de Nostradamus y Baba Vanga para 2024: asesinato de Putin, crisis climática y mucha IA</a></h4>
     <a href='https://computerhoy.com/life/estas-son-predicciones-nostradamus-baba-vanga-2024-1352747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/predicciones-2024-baba-vanga-nostradamus-3254616.jpg?tf=1200x' alt='Estas son las predicciones de Nostradamus y Baba Vanga para 2024: asesinato de Putin, crisis climática y mucha IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-midjourney-v6-locura-imagenes-ia-son-cine-compara-version-anterior-1353010'>El nuevo MidJourney V6 es una locura y las imágenes de esta IA son de cine: así se compara con su versión anterior</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-midjourney-v6-locura-imagenes-ia-son-cine-compara-version-anterior-1353010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/comparacion-versiones-midjourney-3254579.jpg?tf=1200x' alt='El nuevo MidJourney V6 es una locura y las imágenes de esta IA son de cine: así se compara con su versión anterior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/surface-pro-10-laptop-6-vendran-arm-mejoras-diseno-1353044'>El Surface Pro 10 y el Surface Laptop 6 vendrán con chips ARM y mejoras de diseño como claves</a></h4>
-    <a href='https://computerhoy.com/pc/surface-pro-10-laptop-6-vendran-arm-mejoras-diseno-1353044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/nuevo-surface-pro-8-ya-realidad-microsoft-apuesta-conectividad-usb-c-compatible-thunderbolt-pantalla-120hz-2479863.jpg?tf=1200x' alt='El Surface Pro 10 y el Surface Laptop 6 vendrán con chips ARM y mejoras de diseño como claves' />
     </a>
 </div>
 
