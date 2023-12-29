@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-disney-netflix-campeonex-asier-etxeandia-madre-coraje-1352971'>Qué películas ver este fin de semana en Movistar Plus+, Disney+ y Netflix: Campeonex, Asier Etxeandia y una madre coraje</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-movistar-plus-disney-netflix-campeonex-asier-etxeandia-madre-coraje-1352971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/peliculas-estreno-fin-semana-3254850.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Movistar Plus+, Disney+ y Netflix: Campeonex, Asier Etxeandia y una madre coraje' />
+    <h4><a href='https://computerhoy.com/tecnologia/cecotec-pone-amazon-patas-arriba-qled-gigante-65-tiene-precio-dificil-creer-1352379'>Cecotec pone Amazon patas arriba: esta QLED gigante de 65" tiene un precio difícil de creer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cecotec-pone-amazon-patas-arriba-qled-gigante-65-tiene-precio-dificil-creer-1352379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cecotec-v1-series-vqu11065s-3253238.jpg?tf=1200x' alt='Cecotec pone Amazon patas arriba: esta QLED gigante de 65" tiene un precio difícil de creer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/5-apps-pueden-ayudarte-cumplir-propositos-ano-nuevo-1352572'>5 apps que pueden ayudarte a cumplir tus propósitos de Año Nuevo</a></h4>
-    <a href='https://computerhoy.com/apps/5-apps-pueden-ayudarte-cumplir-propositos-ano-nuevo-1352572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-apps-pueden-ayudarte-cumplir-propositos-ano-nuevo-3253665.jpg?tf=1200x' alt='5 apps que pueden ayudarte a cumplir tus propósitos de Año Nuevo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-hoy-tdt-gran-torino-1353191'>Qué película ver en la TDT hoy: la historia del viejo amargado que se enfrenta a sus prejuicios</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-hoy-tdt-gran-torino-1353191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/gran-torino-2666185.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: la historia del viejo amargado que se enfrenta a sus prejuicios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-modelo-exacto-pc-windows-10-626535'>Cómo saber el modelo exacto de tu PC Windows de manera sencilla</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-modelo-exacto-pc-windows-10-626535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-modelo-exacto-pc-windows-manera-sencilla-3254460.jpg?tf=1200x' alt='Cómo saber el modelo exacto de tu PC Windows de manera sencilla' />
+    <h4><a href='https://computerhoy.com/apple/afirman-han-conseguido-resolver-misterio-alarmas-iphone-no-suenan-1353186'>Afirman que han conseguido resolver el misterio de las alarmas de iPhone que no suenan</a></h4>
+    <a href='https://computerhoy.com/apple/afirman-han-conseguido-resolver-misterio-alarmas-iphone-no-suenan-1353186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/alarma-iphone-2344201.jpg?tf=1200x' alt='Afirman que han conseguido resolver el misterio de las alarmas de iPhone que no suenan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guerra-ia-new-york-times-demanda-microsoft-chatgpt-1352994'>Guerra contra la IA: el New York Times demanda a Microsoft y ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guerra-ia-new-york-times-demanda-microsoft-chatgpt-1352994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/guerra-ia-new-york-times-demanda-microsoft-chatgpt-3254511.jpg?tf=1200x' alt='Guerra contra la IA: el New York Times demanda a Microsoft y ChatGPT' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-mapa-disco-duro-localizar-archivos-ocupan-1352941'>Cómo hacer un mapa de tu disco duro para localizar las carpetas y archivos que más espacio ocupan</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-mapa-disco-duro-localizar-archivos-ocupan-1352941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-hacer-mapa-disco-duro-localizar-carpetas-archivos-espacio-ocupan-3254449.jpg?tf=1200x' alt='Cómo hacer un mapa de tu disco duro para localizar las carpetas y archivos que más espacio ocupan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-son-predicciones-nostradamus-baba-vanga-2024-1352747'>Estas son las predicciones de Nostradamus y Baba Vanga para 2024: asesinato de Putin, crisis climática y mucha IA</a></h4>
-    <a href='https://computerhoy.com/life/estas-son-predicciones-nostradamus-baba-vanga-2024-1352747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/predicciones-2024-baba-vanga-nostradamus-3254616.jpg?tf=1200x' alt='Estas son las predicciones de Nostradamus y Baba Vanga para 2024: asesinato de Putin, crisis climática y mucha IA' />
+    <h4><a href='https://computerhoy.com/espacio/james-webb-ya-tiene-competencia-europeo-sera-telescopio-grande-mundo-1353185'>James Webb ya tiene competencia, es europeo y será el telescopio más grande del mundo</a></h4>
+    <a href='https://computerhoy.com/espacio/james-webb-ya-tiene-competencia-europeo-sera-telescopio-grande-mundo-1353185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/extremely-large-telescope-elt-3255044.jpg?tf=1200x' alt='James Webb ya tiene competencia, es europeo y será el telescopio más grande del mundo' />
     </a>
 </div>
 
