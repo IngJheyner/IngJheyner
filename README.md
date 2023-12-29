@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tesla-cybertruck-tiene-primer-accidente-usuarios-mueren-saber-como-ha-quedado-1352987'>El Cybertruck tiene su primer accidente y los usuarios se mueren por saber cómo ha quedado el vehículo Tesla </a></h4>
+    <a href='https://computerhoy.com/motor/tesla-cybertruck-tiene-primer-accidente-usuarios-mueren-saber-como-ha-quedado-1352987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tesla-cybertruck-accidente-3254505.jpg?tf=1200x' alt='El Cybertruck tiene su primer accidente y los usuarios se mueren por saber cómo ha quedado el vehículo Tesla ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/raton-top-trabajar-ganga-logitech-mx-master-3s-desploma-precio-amazon-1352958'>El ratón más top para trabajar es una ganga: el Logitech MX Master 3S desploma su precio en Amazon</a></h4>
     <a href='https://computerhoy.com/pc/raton-top-trabajar-ganga-logitech-mx-master-3s-desploma-precio-amazon-1352958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-mx-mechanical-mx-master-3s-analisis-opinion-2784279.jpg?tf=1200x' alt='El ratón más top para trabajar es una ganga: el Logitech MX Master 3S desploma su precio en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/freidora-cosori-buscada-desploma-precio-nivel-black-friday-1352509'>La freidora COSORI más buscada desploma su precio a nivel de Black Friday</a></h4>
     <a href='https://computerhoy.com/tecnologia/freidora-cosori-buscada-desploma-precio-nivel-black-friday-1352509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cosori-premium-chef-edition-3228994.jpg?tf=1200x' alt='La freidora COSORI más buscada desploma su precio a nivel de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/pueden-chips-reducir-aun-tamano-ser-eficientes-1338452'>El futuro de los chips móviles: tras superar la Ley de Moore, ¿cuál es el siguiente paso?</a></h4>
-    <a href='https://computerhoy.com/industria/pueden-chips-reducir-aun-tamano-ser-eficientes-1338452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chip-procesador-movil-ordenador-tamano-3246918.jpg?tf=1200x' alt='El futuro de los chips móviles: tras superar la Ley de Moore, ¿cuál es el siguiente paso?' />
     </a>
 </div>
 
