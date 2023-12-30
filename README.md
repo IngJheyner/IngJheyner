@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ssd-disparar-precio-2024-memorias-nand-1353213'>Si vas a comprar un SSD, hazlo ahora: se van a disparar de precio en 2024</a></h4>
-    <a href='https://computerhoy.com/pc/ssd-disparar-precio-2024-memorias-nand-1353213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ssd-samsung-3059474.jpg?tf=1200x' alt='Si vas a comprar un SSD, hazlo ahora: se van a disparar de precio en 2024' />
+    <h4><a href='https://computerhoy.com/life/navidades-geek-nerd-regalos-siempre-funcionan-como-acertar-1352145'>Las Navidades de un geek y/o nerd: regalos que siempre funcionan y cómo acertar</a></h4>
+    <a href='https://computerhoy.com/life/navidades-geek-nerd-regalos-siempre-funcionan-como-acertar-1352145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/regalos-nerd-geek-3252848.jpg?tf=1200x' alt='Las Navidades de un geek y/o nerd: regalos que siempre funcionan y cómo acertar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ultima-locura-linux-usar-monitor-diagonal-1353210'>La última locura de Linux: usar tu monitor en diagonal </a></h4>
-    <a href='https://computerhoy.com/pc/ultima-locura-linux-usar-monitor-diagonal-1353210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ultima-locura-linux-usar-monitor-diagonal-3254903.jpg?tf=1200x' alt='La última locura de Linux: usar tu monitor en diagonal ' />
+    <h4><a href='https://computerhoy.com/analisis/huawei-freeclip-analisis-auriculares-simulan-ser-pieza-joyeria-triunfan-1352262'>He llevado los Huawei FreeClip como si fueran otro pendiente más, pero con todas las ventajas de unos auriculares</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-freeclip-analisis-auriculares-simulan-ser-pieza-joyeria-triunfan-1352262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/huawei-freeclip-analisis-opinion-3254338.jpg?tf=1200x' alt='He llevado los Huawei FreeClip como si fueran otro pendiente más, pero con todas las ventajas de unos auriculares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/solucion-problema-apagado-aleatorio-amazon-fire-tv-1353155'>Solución al misterio del apagado aleatorio en Amazon Fire Stick TV </a></h4>
-    <a href='https://computerhoy.com/amazon/solucion-problema-apagado-aleatorio-amazon-fire-tv-1353155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-4k-max-2023-3229690.jpg?tf=1200x' alt='Solución al misterio del apagado aleatorio en Amazon Fire Stick TV ' />
+    <h4><a href='https://computerhoy.com/life/frases-mensajes-originales-ano-nuevo-enviar-nochevieja-1349484'>50 frases y mensajes originales de Año Nuevo para enviar en Nochevieja</a></h4>
+    <a href='https://computerhoy.com/life/frases-mensajes-originales-ano-nuevo-enviar-nochevieja-1349484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/frases-ano-nuevo-2024-enviar-whatsapp-3252921.jpg?tf=1200x' alt='50 frases y mensajes originales de Año Nuevo para enviar en Nochevieja' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/codigos-secretos-netflix-muy-raros-descubrir-series-nuevas-1353149'>Códigos secretos de Netflix muy raros para descubrir películas y series imposibles de encontrar</a></h4>
-    <a href='https://computerhoy.com/apps/codigos-secretos-netflix-muy-raros-descubrir-series-nuevas-1353149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/codigos-secretos-netflix-3254987.jpg?tf=1200x' alt='Códigos secretos de Netflix muy raros para descubrir películas y series imposibles de encontrar' />
+    <h4><a href='https://computerhoy.com/mejores/ratones-ergonomicos-1195722'>Qué debes tener en cuenta a la hora de comprar un ratón ergonómico y mejores modelos</a></h4>
+    <a href='https://computerhoy.com/mejores/ratones-ergonomicos-1195722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-mx-vertical-2795805.jpg?tf=1200x' alt='Qué debes tener en cuenta a la hora de comprar un ratón ergonómico y mejores modelos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cecotec-pone-amazon-patas-arriba-qled-gigante-65-tiene-precio-dificil-creer-1352379'>Cecotec pone Amazon patas arriba: esta QLED gigante de 65" tiene un precio difícil de creer</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cecotec-pone-amazon-patas-arriba-qled-gigante-65-tiene-precio-dificil-creer-1352379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cecotec-v1-series-vqu11065s-3253238.jpg?tf=1200x' alt='Cecotec pone Amazon patas arriba: esta QLED gigante de 65" tiene un precio difícil de creer' />
+    <h4><a href='https://computerhoy.com/amazon/6-errores-cometia-usando-alexa-ahora-saco-100-1350686'>Estos son los 6 errores que cometía usando Alexa: ahora le saco el 100% </a></h4>
+    <a href='https://computerhoy.com/amazon/6-errores-cometia-usando-alexa-ahora-saco-100-1350686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/errores-alexa-3251950.jpg?tf=1200x' alt='Estos son los 6 errores que cometía usando Alexa: ahora le saco el 100% ' />
     </a>
 </div>
 
