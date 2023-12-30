@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/ssd-disparar-precio-2024-memorias-nand-1353213'>Si vas a comprar un SSD, hazlo ahora: se van a disparar de precio en 2024</a></h4>
+    <a href='https://computerhoy.com/pc/ssd-disparar-precio-2024-memorias-nand-1353213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ssd-samsung-3059474.jpg?tf=1200x' alt='Si vas a comprar un SSD, hazlo ahora: se van a disparar de precio en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/ultima-locura-linux-usar-monitor-diagonal-1353210'>La última locura de Linux: usar tu monitor en diagonal </a></h4>
     <a href='https://computerhoy.com/pc/ultima-locura-linux-usar-monitor-diagonal-1353210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ultima-locura-linux-usar-monitor-diagonal-3254903.jpg?tf=1200x' alt='La última locura de Linux: usar tu monitor en diagonal ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cecotec-pone-amazon-patas-arriba-qled-gigante-65-tiene-precio-dificil-creer-1352379'>Cecotec pone Amazon patas arriba: esta QLED gigante de 65" tiene un precio difícil de creer</a></h4>
     <a href='https://computerhoy.com/tecnologia/cecotec-pone-amazon-patas-arriba-qled-gigante-65-tiene-precio-dificil-creer-1352379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cecotec-v1-series-vqu11065s-3253238.jpg?tf=1200x' alt='Cecotec pone Amazon patas arriba: esta QLED gigante de 65" tiene un precio difícil de creer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-hoy-tdt-gran-torino-1353191'>Qué película ver en la TDT hoy: la historia del viejo amargado que se enfrenta a sus prejuicios</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-hoy-tdt-gran-torino-1353191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/gran-torino-2666185.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: la historia del viejo amargado que se enfrenta a sus prejuicios' />
     </a>
 </div>
 
