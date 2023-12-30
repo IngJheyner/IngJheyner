@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/ultima-locura-linux-usar-monitor-diagonal-1353210'>La última locura de Linux: usar tu monitor en diagonal </a></h4>
+    <a href='https://computerhoy.com/pc/ultima-locura-linux-usar-monitor-diagonal-1353210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ultima-locura-linux-usar-monitor-diagonal-3254903.jpg?tf=1200x' alt='La última locura de Linux: usar tu monitor en diagonal ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/solucion-problema-apagado-aleatorio-amazon-fire-tv-1353155'>Solución al misterio del apagado aleatorio en Amazon Fire Stick TV </a></h4>
+    <a href='https://computerhoy.com/amazon/solucion-problema-apagado-aleatorio-amazon-fire-tv-1353155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-4k-max-2023-3229690.jpg?tf=1200x' alt='Solución al misterio del apagado aleatorio en Amazon Fire Stick TV ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/codigos-secretos-netflix-muy-raros-descubrir-series-nuevas-1353149'>Códigos secretos de Netflix muy raros para descubrir películas y series imposibles de encontrar</a></h4>
+    <a href='https://computerhoy.com/apps/codigos-secretos-netflix-muy-raros-descubrir-series-nuevas-1353149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/codigos-secretos-netflix-3254987.jpg?tf=1200x' alt='Códigos secretos de Netflix muy raros para descubrir películas y series imposibles de encontrar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cecotec-pone-amazon-patas-arriba-qled-gigante-65-tiene-precio-dificil-creer-1352379'>Cecotec pone Amazon patas arriba: esta QLED gigante de 65" tiene un precio difícil de creer</a></h4>
     <a href='https://computerhoy.com/tecnologia/cecotec-pone-amazon-patas-arriba-qled-gigante-65-tiene-precio-dificil-creer-1352379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cecotec-v1-series-vqu11065s-3253238.jpg?tf=1200x' alt='Cecotec pone Amazon patas arriba: esta QLED gigante de 65" tiene un precio difícil de creer' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-hoy-tdt-gran-torino-1353191'>Qué película ver en la TDT hoy: la historia del viejo amargado que se enfrenta a sus prejuicios</a></h4>
     <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-hoy-tdt-gran-torino-1353191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/gran-torino-2666185.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: la historia del viejo amargado que se enfrenta a sus prejuicios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/afirman-han-conseguido-resolver-misterio-alarmas-iphone-no-suenan-1353186'>Afirman que han conseguido resolver el misterio de las alarmas de iPhone que no suenan</a></h4>
-    <a href='https://computerhoy.com/apple/afirman-han-conseguido-resolver-misterio-alarmas-iphone-no-suenan-1353186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/alarma-iphone-2344201.jpg?tf=1200x' alt='Afirman que han conseguido resolver el misterio de las alarmas de iPhone que no suenan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-mapa-disco-duro-localizar-archivos-ocupan-1352941'>Cómo hacer un mapa de tu disco duro para localizar las carpetas y archivos que más espacio ocupan</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-mapa-disco-duro-localizar-archivos-ocupan-1352941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-hacer-mapa-disco-duro-localizar-carpetas-archivos-espacio-ocupan-3254449.jpg?tf=1200x' alt='Cómo hacer un mapa de tu disco duro para localizar las carpetas y archivos que más espacio ocupan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/james-webb-ya-tiene-competencia-europeo-sera-telescopio-grande-mundo-1353185'>James Webb ya tiene competencia, es europeo y será el telescopio más grande del mundo</a></h4>
-    <a href='https://computerhoy.com/espacio/james-webb-ya-tiene-competencia-europeo-sera-telescopio-grande-mundo-1353185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/extremely-large-telescope-elt-3255044.jpg?tf=1200x' alt='James Webb ya tiene competencia, es europeo y será el telescopio más grande del mundo' />
     </a>
 </div>
 
