@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sorpresa-huawei-rebaja-smartwatch-favoritos-hacer-deporte-regalo-gratis-1352425'>Sorpresa de Huawei: rebaja uno de nuestros smartwatch favoritos para hacer deporte y con regalo gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sorpresa-huawei-rebaja-smartwatch-favoritos-hacer-deporte-regalo-gratis-1352425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/huawei-watch-gt-4-3253338.jpg?tf=1200x' alt='Sorpresa de Huawei: rebaja uno de nuestros smartwatch favoritos para hacer deporte y con regalo gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/he-probado-threads-varios-meses-tengo-buenas-sensaciones-red-social-meta-1351478'>He probado Threads varios meses y tengo buenas sensaciones con esta red social de Meta, aunque no voy a dejar de lado X</a></h4>
+    <a href='https://computerhoy.com/apps/he-probado-threads-varios-meses-tengo-buenas-sensaciones-red-social-meta-1351478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mucho-cuidado-borras-cuenta-threads-porque-eliminaras-tambien-instagram-3076696.jpg?tf=1200x' alt='He probado Threads varios meses y tengo buenas sensaciones con esta red social de Meta, aunque no voy a dejar de lado X' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejores-gifs-videos-felicitar-ano-nuevo-familia-amigos-1349859'>25 GIFs y vídeos para felicitar el Año Nuevo 2024 a tu familia y amigos</a></h4>
+    <a href='https://computerhoy.com/life/mejores-gifs-videos-felicitar-ano-nuevo-familia-amigos-1349859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gifs-ano-nuevo-2024-3252941.jpg?tf=1200x' alt='25 GIFs y vídeos para felicitar el Año Nuevo 2024 a tu familia y amigos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/navidades-geek-nerd-regalos-siempre-funcionan-como-acertar-1352145'>Las Navidades de un geek y/o nerd: regalos que siempre funcionan y cómo acertar</a></h4>
     <a href='https://computerhoy.com/life/navidades-geek-nerd-regalos-siempre-funcionan-como-acertar-1352145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/regalos-nerd-geek-3252848.jpg?tf=1200x' alt='Las Navidades de un geek y/o nerd: regalos que siempre funcionan y cómo acertar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/huawei-freeclip-analisis-auriculares-simulan-ser-pieza-joyeria-triunfan-1352262'>He llevado los Huawei FreeClip como si fueran otro pendiente más, pero con todas las ventajas de unos auriculares</a></h4>
     <a href='https://computerhoy.com/analisis/huawei-freeclip-analisis-auriculares-simulan-ser-pieza-joyeria-triunfan-1352262' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/huawei-freeclip-analisis-opinion-3254338.jpg?tf=1200x' alt='He llevado los Huawei FreeClip como si fueran otro pendiente más, pero con todas las ventajas de unos auriculares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/frases-mensajes-originales-ano-nuevo-enviar-nochevieja-1349484'>50 frases y mensajes originales de Año Nuevo para enviar en Nochevieja</a></h4>
-    <a href='https://computerhoy.com/life/frases-mensajes-originales-ano-nuevo-enviar-nochevieja-1349484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/frases-ano-nuevo-2024-enviar-whatsapp-3252921.jpg?tf=1200x' alt='50 frases y mensajes originales de Año Nuevo para enviar en Nochevieja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/ratones-ergonomicos-1195722'>Qué debes tener en cuenta a la hora de comprar un ratón ergonómico y mejores modelos</a></h4>
-    <a href='https://computerhoy.com/mejores/ratones-ergonomicos-1195722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-mx-vertical-2795805.jpg?tf=1200x' alt='Qué debes tener en cuenta a la hora de comprar un ratón ergonómico y mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/6-errores-cometia-usando-alexa-ahora-saco-100-1350686'>Estos son los 6 errores que cometía usando Alexa: ahora le saco el 100% </a></h4>
-    <a href='https://computerhoy.com/amazon/6-errores-cometia-usando-alexa-ahora-saco-100-1350686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/errores-alexa-3251950.jpg?tf=1200x' alt='Estos son los 6 errores que cometía usando Alexa: ahora le saco el 100% ' />
     </a>
 </div>
 
