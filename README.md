@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/antiguo-abogado-admite-uso-accidentalmente-ia-google-bard-presentar-casos-falsos-1353269'>Este antiguo abogado admite que usó accidentalmente la IA de Google Bard para presentar casos falsos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/antiguo-abogado-admite-uso-accidentalmente-ia-google-bard-presentar-casos-falsos-1353269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/juez-robot-3044410.jpg?tf=1200x' alt='Este antiguo abogado admite que usó accidentalmente la IA de Google Bard para presentar casos falsos' />
+    <h4><a href='https://computerhoy.com/tecnologia/internet-40-gb-segundo-cable-exprime-100-conexion-fibra-ahora-varios-anos-1352124'>Internet a 40 GB por segundo: este cable exprime al 100% tu conexión de fibra ahora y por varios años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/internet-40-gb-segundo-cable-exprime-100-conexion-fibra-ahora-varios-anos-1352124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cable-red-cable-ethernet-3252761.jpg?tf=1200x' alt='Internet a 40 GB por segundo: este cable exprime al 100% tu conexión de fibra ahora y por varios años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-acceder-modo-recuperacion-android-sirve-cada-opcion-1352347'>Cómo acceder al modo recuperación de Android y para qué sirve cada opción</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-acceder-modo-recuperacion-android-sirve-cada-opcion-1352347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-acceder-modo-recuperacion-android-sirve-cada-opcion-3253192.jpg?tf=1200x' alt='Cómo acceder al modo recuperación de Android y para qué sirve cada opción' />
+    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-la-forma-del-agua-1353315'>Qué película ver en la TDT hoy: Guillermo del Toro rompe un tabú con el cine de monstruos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-la-forma-del-agua-1353315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/forma-agua-2017-3095998.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: Guillermo del Toro rompe un tabú con el cine de monstruos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/malware-capaz-secuestrar-cookies-chrome-ingresar-cuenta-google-1353258'>Este malware es capaz de secuestrar las cookies de Chrome para ingresar a tu cuenta de Google</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/malware-capaz-secuestrar-cookies-chrome-ingresar-cuenta-google-1353258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/9-ajustes-imprescindibles-mejorar-seguridad-privacidad-google-chrome-3216774.jpg?tf=1200x' alt='Este malware es capaz de secuestrar las cookies de Chrome para ingresar a tu cuenta de Google' />
+    <h4><a href='https://computerhoy.com/life/presencia-taxis-voladores-cielos-cada-vez-cerca-1353293'>La presencia de taxis voladores en nuestros cielos, cada vez más cerca</a></h4>
+    <a href='https://computerhoy.com/life/presencia-taxis-voladores-cielos-cada-vez-cerca-1353293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/volocopter-3255204.jpg?tf=1200x' alt='La presencia de taxis voladores en nuestros cielos, cada vez más cerca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/sospechas-pc-tiene-malware-metodos-eliminar-amenaza-1352222'>¿Sospechas que tu PC con Windows tiene malware? 7 métodos para eliminar la amenaza rápidamente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/sospechas-pc-tiene-malware-metodos-eliminar-amenaza-1352222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sospechas-pc-windows-tiene-malware-7-metodos-eliminar-amenaza-rapidamente-3253012.jpg?tf=1200x' alt='¿Sospechas que tu PC con Windows tiene malware? 7 métodos para eliminar la amenaza rápidamente' />
+    <h4><a href='https://computerhoy.com/life/mejores-memes-felicitar-ano-nuevo-2024-1172250'>Los mejores memes para felicitar el Año Nuevo 2024 por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/life/mejores-memes-felicitar-ano-nuevo-2024-1172250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/velocimetro-2024-3253067.jpg?tf=1200x' alt='Los mejores memes para felicitar el Año Nuevo 2024 por WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-disponible-microsoft-copilot-ios-gpt-4-dall-e3-gratis-iphone-ipad-1353252'>Ya está disponible Microsoft Copilot en iOS con GPT-4 y DALL-E3 gratis para tu iPhone y iPad</a></h4>
-    <a href='https://computerhoy.com/apps/ya-disponible-microsoft-copilot-ios-gpt-4-dall-e3-gratis-iphone-ipad-1353252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-va-chatgpt-tira-toalla-bing-lanza-app-android-copilot-3253166.jpg?tf=1200x' alt='Ya está disponible Microsoft Copilot en iOS con GPT-4 y DALL-E3 gratis para tu iPhone y iPad' />
+    <h4><a href='https://computerhoy.com/apps/nuevo-modo-oscuro-whatsapp-web-vas-querer-activar-1353292'>Así es el nuevo modo oscuro para WhatsApp web que vas a querer activar</a></h4>
+    <a href='https://computerhoy.com/apps/nuevo-modo-oscuro-whatsapp-web-vas-querer-activar-1353292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-web-pc-movil-2597981.jpg?tf=1200x' alt='Así es el nuevo modo oscuro para WhatsApp web que vas a querer activar' />
     </a>
 </div>
 
