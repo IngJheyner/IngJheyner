@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sorpresa-huawei-rebaja-smartwatch-favoritos-hacer-deporte-regalo-gratis-1352425'>Sorpresa de Huawei: rebaja uno de nuestros smartwatch favoritos para hacer deporte y con regalo gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sorpresa-huawei-rebaja-smartwatch-favoritos-hacer-deporte-regalo-gratis-1352425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/huawei-watch-gt-4-3253338.jpg?tf=1200x' alt='Sorpresa de Huawei: rebaja uno de nuestros smartwatch favoritos para hacer deporte y con regalo gratis' />
+    <h4><a href='https://computerhoy.com/tecnologia/antiguo-abogado-admite-uso-accidentalmente-ia-google-bard-presentar-casos-falsos-1353269'>Este antiguo abogado admite que usó accidentalmente la IA de Google Bard para presentar casos falsos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/antiguo-abogado-admite-uso-accidentalmente-ia-google-bard-presentar-casos-falsos-1353269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/juez-robot-3044410.jpg?tf=1200x' alt='Este antiguo abogado admite que usó accidentalmente la IA de Google Bard para presentar casos falsos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-probado-threads-varios-meses-tengo-buenas-sensaciones-red-social-meta-1351478'>He probado Threads varios meses y tengo buenas sensaciones con esta red social de Meta, aunque no voy a dejar de lado X</a></h4>
-    <a href='https://computerhoy.com/apps/he-probado-threads-varios-meses-tengo-buenas-sensaciones-red-social-meta-1351478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mucho-cuidado-borras-cuenta-threads-porque-eliminaras-tambien-instagram-3076696.jpg?tf=1200x' alt='He probado Threads varios meses y tengo buenas sensaciones con esta red social de Meta, aunque no voy a dejar de lado X' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-acceder-modo-recuperacion-android-sirve-cada-opcion-1352347'>Cómo acceder al modo recuperación de Android y para qué sirve cada opción</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-acceder-modo-recuperacion-android-sirve-cada-opcion-1352347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-acceder-modo-recuperacion-android-sirve-cada-opcion-3253192.jpg?tf=1200x' alt='Cómo acceder al modo recuperación de Android y para qué sirve cada opción' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejores-gifs-videos-felicitar-ano-nuevo-familia-amigos-1349859'>25 GIFs y vídeos para felicitar el Año Nuevo 2024 a tu familia y amigos</a></h4>
-    <a href='https://computerhoy.com/life/mejores-gifs-videos-felicitar-ano-nuevo-familia-amigos-1349859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gifs-ano-nuevo-2024-3252941.jpg?tf=1200x' alt='25 GIFs y vídeos para felicitar el Año Nuevo 2024 a tu familia y amigos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/malware-capaz-secuestrar-cookies-chrome-ingresar-cuenta-google-1353258'>Este malware es capaz de secuestrar las cookies de Chrome para ingresar a tu cuenta de Google</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/malware-capaz-secuestrar-cookies-chrome-ingresar-cuenta-google-1353258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/9-ajustes-imprescindibles-mejorar-seguridad-privacidad-google-chrome-3216774.jpg?tf=1200x' alt='Este malware es capaz de secuestrar las cookies de Chrome para ingresar a tu cuenta de Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/navidades-geek-nerd-regalos-siempre-funcionan-como-acertar-1352145'>Las Navidades de un geek y/o nerd: regalos que siempre funcionan y cómo acertar</a></h4>
-    <a href='https://computerhoy.com/life/navidades-geek-nerd-regalos-siempre-funcionan-como-acertar-1352145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/regalos-nerd-geek-3252848.jpg?tf=1200x' alt='Las Navidades de un geek y/o nerd: regalos que siempre funcionan y cómo acertar' />
+    <h4><a href='https://computerhoy.com/tutoriales/sospechas-pc-tiene-malware-metodos-eliminar-amenaza-1352222'>¿Sospechas que tu PC con Windows tiene malware? 7 métodos para eliminar la amenaza rápidamente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/sospechas-pc-tiene-malware-metodos-eliminar-amenaza-1352222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sospechas-pc-windows-tiene-malware-7-metodos-eliminar-amenaza-rapidamente-3253012.jpg?tf=1200x' alt='¿Sospechas que tu PC con Windows tiene malware? 7 métodos para eliminar la amenaza rápidamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-freeclip-analisis-auriculares-simulan-ser-pieza-joyeria-triunfan-1352262'>He llevado los Huawei FreeClip como si fueran otro pendiente más, pero con todas las ventajas de unos auriculares</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-freeclip-analisis-auriculares-simulan-ser-pieza-joyeria-triunfan-1352262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/huawei-freeclip-analisis-opinion-3254338.jpg?tf=1200x' alt='He llevado los Huawei FreeClip como si fueran otro pendiente más, pero con todas las ventajas de unos auriculares' />
+    <h4><a href='https://computerhoy.com/apps/ya-disponible-microsoft-copilot-ios-gpt-4-dall-e3-gratis-iphone-ipad-1353252'>Ya está disponible Microsoft Copilot en iOS con GPT-4 y DALL-E3 gratis para tu iPhone y iPad</a></h4>
+    <a href='https://computerhoy.com/apps/ya-disponible-microsoft-copilot-ios-gpt-4-dall-e3-gratis-iphone-ipad-1353252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-va-chatgpt-tira-toalla-bing-lanza-app-android-copilot-3253166.jpg?tf=1200x' alt='Ya está disponible Microsoft Copilot en iOS con GPT-4 y DALL-E3 gratis para tu iPhone y iPad' />
     </a>
 </div>
 
