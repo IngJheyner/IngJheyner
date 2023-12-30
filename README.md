@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/error-ios-1721-provoca-iphone-tenga-problemas-conectividad-1353317'>Este error de iOS 17.2.1 provoca que el iPhone tenga problemas de conectividad</a></h4>
+    <a href='https://computerhoy.com/apple/error-ios-1721-provoca-iphone-tenga-problemas-conectividad-1353317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/indicador-bateria-clasico-volvera-iphone-14-pro-2803097.jpg?tf=1200x' alt='Este error de iOS 17.2.1 provoca que el iPhone tenga problemas de conectividad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/internet-40-gb-segundo-cable-exprime-100-conexion-fibra-ahora-varios-anos-1352124'>Internet a 40 GB por segundo: este cable exprime al 100% tu conexión de fibra ahora y por varios años</a></h4>
     <a href='https://computerhoy.com/tecnologia/internet-40-gb-segundo-cable-exprime-100-conexion-fibra-ahora-varios-anos-1352124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cable-red-cable-ethernet-3252761.jpg?tf=1200x' alt='Internet a 40 GB por segundo: este cable exprime al 100% tu conexión de fibra ahora y por varios años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/mejores-memes-felicitar-ano-nuevo-2024-1172250'>Los mejores memes para felicitar el Año Nuevo 2024 por WhatsApp</a></h4>
     <a href='https://computerhoy.com/life/mejores-memes-felicitar-ano-nuevo-2024-1172250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/velocimetro-2024-3253067.jpg?tf=1200x' alt='Los mejores memes para felicitar el Año Nuevo 2024 por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nuevo-modo-oscuro-whatsapp-web-vas-querer-activar-1353292'>Así es el nuevo modo oscuro para WhatsApp web que vas a querer activar</a></h4>
-    <a href='https://computerhoy.com/apps/nuevo-modo-oscuro-whatsapp-web-vas-querer-activar-1353292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-web-pc-movil-2597981.jpg?tf=1200x' alt='Así es el nuevo modo oscuro para WhatsApp web que vas a querer activar' />
     </a>
 </div>
 
