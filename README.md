@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desconocida-pulsera-xiaomi-tiene-14-dias-bateria-precio-increible-1353043'>Esta desconocida pulsera Xiaomi tiene 14 días de batería y su precio es increíble</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desconocida-pulsera-xiaomi-tiene-14-dias-bateria-precio-increible-1353043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-smart-band-8-active-3254593.jpg?tf=1200x' alt='Esta desconocida pulsera Xiaomi tiene 14 días de batería y su precio es increíble' />
+    <h4><a href='https://computerhoy.com/entretenimiento/videojuegos-esperados-2024-merecen-mucho-pena-1352527'>Los 6 videojuegos más esperados de 2024 que merecen mucho la pena</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/videojuegos-esperados-2024-merecen-mucho-pena-1352527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/6-videojuegos-esperados-2024-merecen-mucho-pena-3253578.jpg?tf=1200x' alt='Los 6 videojuegos más esperados de 2024 que merecen mucho la pena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-toda-informacion-facebook-sabe-ti-1346990'>Cómo ver y descargar tus datos de Facebook: guía para conocer lo que la red social sabe sobre ti</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-toda-informacion-facebook-sabe-ti-1346990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/facebook-3253528.jpg?tf=1200x' alt='Cómo ver y descargar tus datos de Facebook: guía para conocer lo que la red social sabe sobre ti' />
+    <h4><a href='https://computerhoy.com/apps/mejores-alternativas-google-maps-1347332'>18 aplicaciones que son mejores que Google Maps según el uso y necesidades</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-alternativas-google-maps-1347332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/truco-secreto-google-maps-casi-nadie-conoce-puede-ayudarte-planificar-viajes-como-experto-3237494.jpg?tf=1200x' alt='18 aplicaciones que son mejores que Google Maps según el uso y necesidades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/frases-mensajes-originales-ano-nuevo-enviar-nochevieja-1349484'>50 frases y mensajes originales de Año Nuevo para enviar en Nochevieja</a></h4>
-    <a href='https://computerhoy.com/life/frases-mensajes-originales-ano-nuevo-enviar-nochevieja-1349484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/frases-ano-nuevo-2024-enviar-whatsapp-3252921.jpg?tf=1200x' alt='50 frases y mensajes originales de Año Nuevo para enviar en Nochevieja' />
+    <h4><a href='https://computerhoy.com/life/imagenes-fotos-originales-felicitar-ano-nuevo-contactos-1349881'>Imágenes y fotos originales para felicitar el Año Nuevo a tus contactos de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/life/imagenes-fotos-originales-felicitar-ano-nuevo-contactos-1349881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/feliz-ano-nuevo-2024-3252957.jpg?tf=1200x' alt='Imágenes y fotos originales para felicitar el Año Nuevo a tus contactos de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-ready-player-one-1353340'>Qué película ver en la TDT hoy: acción desenfrenada entre realidades virtuales</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-ready-player-one-1353340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ready-player-one-prometia-745864.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: acción desenfrenada entre realidades virtuales' />
+    <h4><a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-1350310'>Imágenes y memes graciosos para felicitar el Año Nuevo 2024 por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-1350310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/memes-2024-3254044.jpg?tf=1200x' alt='Imágenes y memes graciosos para felicitar el Año Nuevo 2024 por WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fotos-jamas-deberias-publicar-redes-sociales-1346944'>Las fotos que jamás deberías publicar en las redes sociales</a></h4>
-    <a href='https://computerhoy.com/life/fotos-jamas-deberias-publicar-redes-sociales-1346944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/fotos-jamas-deberias-publicar-redes-sociales-3243970.jpg?tf=1200x' alt='Las fotos que jamás deberías publicar en las redes sociales' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/malos-habitos-contrasenas-evitar-1326806'>No pongas en riesgo tu seguridad: evita estos 10 malos hábitos con las contraseñas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/malos-habitos-contrasenas-evitar-1326806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/no-pongas-riesgo-seguridad-evita-estos-10-malos-habitos-contrasenas-3207600.jpg?tf=1200x' alt='No pongas en riesgo tu seguridad: evita estos 10 malos hábitos con las contraseñas' />
     </a>
 </div>
 
