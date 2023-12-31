@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/voy-aplicar-matematicas-no-atragantarme-uvas-nochevieja-1353338'>Voy a aplicar una estrategia matemática para comer las uvas esta Nochevieja y llegar al Año Nuevo sin atragantarme</a></h4>
-    <a href='https://computerhoy.com/life/voy-aplicar-matematicas-no-atragantarme-uvas-nochevieja-1353338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/uvas-nochevieja-3255316.jpg?tf=1200x' alt='Voy a aplicar una estrategia matemática para comer las uvas esta Nochevieja y llegar al Año Nuevo sin atragantarme' />
+    <h4><a href='https://computerhoy.com/tecnologia/desconocida-pulsera-xiaomi-tiene-14-dias-bateria-precio-increible-1353043'>Esta desconocida pulsera Xiaomi tiene 14 días de batería y su precio es increíble</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desconocida-pulsera-xiaomi-tiene-14-dias-bateria-precio-increible-1353043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-smart-band-8-active-3254593.jpg?tf=1200x' alt='Esta desconocida pulsera Xiaomi tiene 14 días de batería y su precio es increíble' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/memes-whatsapp-felicitar-nochevieja-ano-nuevo-2024-1172852'>Memes de WhatsApp para felicitar la Nochevieja y el Año Nuevo 2024</a></h4>
-    <a href='https://computerhoy.com/life/memes-whatsapp-felicitar-nochevieja-ano-nuevo-2024-1172852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/memes-2024-3253086.jpg?tf=1200x' alt='Memes de WhatsApp para felicitar la Nochevieja y el Año Nuevo 2024' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-toda-informacion-facebook-sabe-ti-1346990'>Cómo ver y descargar tus datos de Facebook: guía para conocer lo que la red social sabe sobre ti</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-toda-informacion-facebook-sabe-ti-1346990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/facebook-3253528.jpg?tf=1200x' alt='Cómo ver y descargar tus datos de Facebook: guía para conocer lo que la red social sabe sobre ti' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/frases-nochevieja-para-enviar-549839'>50 frases de Año Nuevo, Nochevieja y Navidad para enviar por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/frases-nochevieja-para-enviar-549839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/salto-2024-3255386.jpg?tf=1200x' alt='50 frases de Año Nuevo, Nochevieja y Navidad para enviar por WhatsApp' />
+    <h4><a href='https://computerhoy.com/life/frases-mensajes-originales-ano-nuevo-enviar-nochevieja-1349484'>50 frases y mensajes originales de Año Nuevo para enviar en Nochevieja</a></h4>
+    <a href='https://computerhoy.com/life/frases-mensajes-originales-ano-nuevo-enviar-nochevieja-1349484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/frases-ano-nuevo-2024-enviar-whatsapp-3252921.jpg?tf=1200x' alt='50 frases y mensajes originales de Año Nuevo para enviar en Nochevieja' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sorprendente-razon-comemos-12-uvas-nochevieja-1352400'>Esta es la sorprendente razón por la que comemos 12 uvas en Nochevieja (y puede que no sea la que crees)</a></h4>
-    <a href='https://computerhoy.com/life/sorprendente-razon-comemos-12-uvas-nochevieja-1352400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sorprendente-razon-comemos-12-uvas-nochevieja-3253322.jpg?tf=1200x' alt='Esta es la sorprendente razón por la que comemos 12 uvas en Nochevieja (y puede que no sea la que crees)' />
+    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-ready-player-one-1353340'>Qué película ver en la TDT hoy: acción desenfrenada entre realidades virtuales</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-ready-player-one-1353340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ready-player-one-prometia-745864.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: acción desenfrenada entre realidades virtuales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-cybertruck-como-nunca-habia-visto-antes-1353373'>El Tesla Cybertruck como nunca se había visto antes</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-cybertruck-como-nunca-habia-visto-antes-1353373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tesla-cybertruck-negro-brillante-3255346.jpg?tf=1200x' alt='El Tesla Cybertruck como nunca se había visto antes' />
+    <h4><a href='https://computerhoy.com/life/fotos-jamas-deberias-publicar-redes-sociales-1346944'>Las fotos que jamás deberías publicar en las redes sociales</a></h4>
+    <a href='https://computerhoy.com/life/fotos-jamas-deberias-publicar-redes-sociales-1346944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/fotos-jamas-deberias-publicar-redes-sociales-3243970.jpg?tf=1200x' alt='Las fotos que jamás deberías publicar en las redes sociales' />
     </a>
 </div>
 
