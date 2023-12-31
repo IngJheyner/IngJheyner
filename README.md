@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/puerta-casa-tiene-tipo-llaves-como-dejaras-puerta-abierta-1312236'>Si la puerta de tu casa tiene este tipo de llaves, es como si dejarás la puerta abierta, no vale de nada</a></h4>
+    <a href='https://computerhoy.com/hogar/puerta-casa-tiene-tipo-llaves-como-dejaras-puerta-abierta-1312236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/llaves-casa-3188208.jpg?tf=1200x' alt='Si la puerta de tu casa tiene este tipo de llaves, es como si dejarás la puerta abierta, no vale de nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/error-ios-1721-provoca-iphone-tenga-problemas-conectividad-1353317'>Este error de iOS 17.2.1 provoca que el iPhone tenga problemas de conectividad</a></h4>
     <a href='https://computerhoy.com/apple/error-ios-1721-provoca-iphone-tenga-problemas-conectividad-1353317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/indicador-bateria-clasico-volvera-iphone-14-pro-2803097.jpg?tf=1200x' alt='Este error de iOS 17.2.1 provoca que el iPhone tenga problemas de conectividad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/presencia-taxis-voladores-cielos-cada-vez-cerca-1353293'>La presencia de taxis voladores en nuestros cielos, cada vez más cerca</a></h4>
     <a href='https://computerhoy.com/life/presencia-taxis-voladores-cielos-cada-vez-cerca-1353293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/volocopter-3255204.jpg?tf=1200x' alt='La presencia de taxis voladores en nuestros cielos, cada vez más cerca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejores-memes-felicitar-ano-nuevo-2024-1172250'>Los mejores memes para felicitar el Año Nuevo 2024 por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/mejores-memes-felicitar-ano-nuevo-2024-1172250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/velocimetro-2024-3253067.jpg?tf=1200x' alt='Los mejores memes para felicitar el Año Nuevo 2024 por WhatsApp' />
     </a>
 </div>
 
