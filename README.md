@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-1350310'>Imágenes y memes graciosos para felicitar el Año Nuevo 2024</a></h4>
-    <a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-1350310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/memes-2024-3254044.jpg?tf=1200x' alt='Imágenes y memes graciosos para felicitar el Año Nuevo 2024' />
+    <h4><a href='https://computerhoy.com/gaming/juega-mejores-juegos-consola-movil-android-iphone-1349884'>Los 10 mejores juegos de consola que puedes instalar en tu móvil Android y que deberías jugar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/gaming/juega-mejores-juegos-consola-movil-android-iphone-1349884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/10-mejores-juegos-consola-puedes-instalar-movil-android-deberias-jugar-ahora-mismo-3249002.jpg?tf=1200x' alt='Los 10 mejores juegos de consola que puedes instalar en tu móvil Android y que deberías jugar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-gemini-promete-revolucionar-campo-inteligencia-artificial-1351833'>¿Qué es Google Gemini y por qué promete revolucionar el campo de la inteligencia artificial?</a></h4>
-    <a href='https://computerhoy.com/google/google-gemini-promete-revolucionar-campo-inteligencia-artificial-1351833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/verticalimage1703855905194-3254866.jpg?tf=1200x' alt='¿Qué es Google Gemini y por qué promete revolucionar el campo de la inteligencia artificial?' />
+    <h4><a href='https://computerhoy.com/google/ahora-buscar-recetas-buscador-google-sera-facil-nunca-1353366'>Ahora buscar recetas en el buscador de Google será más fácil que nunca</a></h4>
+    <a href='https://computerhoy.com/google/ahora-buscar-recetas-buscador-google-sera-facil-nunca-1353366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-recetas-comida-3255340.jpg?tf=1200x' alt='Ahora buscar recetas en el buscador de Google será más fácil que nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/te-cuesta-despertar-gadget-te-da-ayuda-fundamental-cada-manana-barato-1352718'>Si te cuesta despertar, este gadget te da una ayuda fundamental cada mañana, y es barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/te-cuesta-despertar-gadget-te-da-ayuda-fundamental-cada-manana-barato-1352718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/despertador-3253932.jpg?tf=1200x' alt='Si te cuesta despertar, este gadget te da una ayuda fundamental cada mañana, y es barato' />
+    <h4><a href='https://computerhoy.com/tecnologia/estafa-smartwatch-auriculares-buzon-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estafa-smartwatch-auriculares-buzon-brushing-malware-1265776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/buzon-3255334.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/imagenes-fotos-originales-felicitar-ano-nuevo-contactos-1349881'>Imágenes y fotos originales para felicitar el Año Nuevo a tus contactos de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/imagenes-fotos-originales-felicitar-ano-nuevo-contactos-1349881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/feliz-ano-nuevo-2024-3252957.jpg?tf=1200x' alt='Imágenes y fotos originales para felicitar el Año Nuevo a tus contactos de WhatsApp' />
+    <h4><a href='https://computerhoy.com/apps/google-trabaja-actualizacion-critica-solventar-error-android-auto-1353362'>Google trabaja en una actualización crítica para solventar este error en Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/google-trabaja-actualizacion-critica-solventar-error-android-auto-1353362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922220.jpg?tf=1200x' alt='Google trabaja en una actualización crítica para solventar este error en Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estan-utilizando-libros-harry-potter-experimentos-inteligencia-artificial-consiste-1353294'>Están utilizando los libros de Harry Potter para experimentos de inteligencia artificial y en esto consiste</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estan-utilizando-libros-harry-potter-experimentos-inteligencia-artificial-consiste-1353294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/libros-harry-potter-3255205.jpg?tf=1200x' alt='Están utilizando los libros de Harry Potter para experimentos de inteligencia artificial y en esto consiste' />
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-windows-11-hunde-precio-presume-ryzen-5-16gb-ram-1353005'>Este portátil Windows 11 hunde su precio, y presume de Ryzen 5 y 16GB de RAM</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-windows-11-hunde-precio-presume-ryzen-5-16gb-ram-1353005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/asus-vivobook-16x-3253980.jpg?tf=1200x' alt='Este portátil Windows 11 hunde su precio, y presume de Ryzen 5 y 16GB de RAM' />
     </a>
 </div>
 
